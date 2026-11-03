@@ -69,3 +69,4 @@ Dependent-samples t-test for the 29-student SMS-supported experimental section; 
 - [Students taught programming with self-explanation supported by worked examples significantly outperformed traditionally taught students on the technical skills posttest of writing program code](self-explanation-worked-examples-improve-programming-skills.md) — related
 - [The SMS-supported experimental group's posttest achievement scores were significantly higher than its own pretest scores](sms-group-pretest-posttest-gain.md) — a narrower finding that bears on this claim
 - [The experimental group showed a significant pretest-to-posttest gain in writing scores](gda-pretest-posttest-gain-experimental.md) — related
+- [The cooperative learning group improved significantly from pretest to posttest](cooperative-group-pretest-posttest-gain.md) — a narrower finding that bears on this claim

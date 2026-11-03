@@ -46,7 +46,7 @@ Elsbeth Stern (2017). Individual differences in the learning potential of human 
 
 `q2 · i?` · `review · r2`
 
-A narrative review's synthesis of a body of studies on working memory and intelligence reports that the review finds "average correlations >.50" between all types of working memory functions and IQ. No exact printed effect-size value is given, so impact is null; this is recorded as the review's own assertion.
+A narrative review's synthesis of a body of studies on working memory and intelligence reports that the review finds "average correlations >.50" between all types of working memory functions and IQ. No exact printed effect-size value is given, so impact is coded i? (no magnitude reported; not a null effect); this is recorded as the review's own assertion.
 
 > "For working memory, there is a large body of research indicating substantial relationships between all types of working memory functions and IQ, with average correlations >.50"
 
@@ -56,7 +56,7 @@ Elsbeth Stern (2017). Individual differences in the learning potential of human 
 
 `q2 · i?` · `review · r2`
 
-The review reports neural-efficiency findings, citing imaging studies: "more intelligent individuals show less brain activation" measured by EEG or fMRI during intelligence test items. No effect size is printed, so impact is null.
+The review reports neural-efficiency findings, citing imaging studies: "more intelligent individuals show less brain activation" measured by EEG or fMRI during intelligence test items. No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "more intelligent individuals show less brain activation (measured by electroencephalogram or functional magnetic resonance imaging) when completing intelligence test items"
 

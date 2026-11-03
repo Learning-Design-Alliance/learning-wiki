@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 53 claims (27 for, 21 mixed, 5 against) · 32 studies (17 causal, 11 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 11 of 32 report an effect size · 52 claims rest on one study
+> **Evidence** · 58 claims (31 for, 22 mixed, 5 against) · 34 studies (18 causal, 12 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 11 of 34 report an effect size · 57 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -77,6 +77,11 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Students taught by a teacher with no flipped-learning experience showed statistically significant improvements in EFL composition writing proficiency over a 15-week flipped course](../claims/flipped-learning-significant-writing-gains-nfe-group.md) [+W]
 - [The flipped-learning experimental group improved TOEIC scores significantly more than the paper-based control group](../claims/flipped-course-toeic-gain-exceeds-control.md) [+W]
 - [Class size showed no significant relationship with TPR effect sizes in meta-regression](../claims/tpr-class-size-null-meta-regression.md) [~W]
+- [In the experimental stage, FCM was implemented with 64 teacher candidates in a pretest–posttest control-group quasi-experimental design](../claims/fcm-experimental-stage-design.md) [+W]
+- [Out-of-class motivation showed a smaller group difference but greater within-class spread in the flipped class, attributed to client versus translator roles](../claims/flipped-translation-out-of-class-motivation-mixed.md) [+W]
+- [Students in the flipped project-based class rated their translation competence self-evaluation higher than control-class students](../claims/flipped-translation-self-evaluation-higher.md) [+W]
+- [Mastery of translation skills showed little difference between the flipped and traditional classes, suggesting traditional teaching still delivers basic skills effectively](../claims/flipped-translation-skills-mastery-small-difference.md) [~M]
+- [Publication bias checks indicate the positive FCM effect is robust: trim-and-fill estimate 0.21619 and fail-safe number 5725.2](../claims/fcm-meta-publication-bias-robust.md) [+W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

@@ -37,7 +37,7 @@ Kansızoğlu, N. & Bekiroğlu, N. (2025). The effect of vocabulary development i
 
 `q3 · i?` · `quant-synthesis · r3`
 
-Meta-regression Model 3 on 27 studies. The article reports "QM (df = 8) = 25.7; p < .05" and R² of 44.7% ([0.212/0.474] x 100), with 55.3% unexplained. No standardised effect size is printed, so impact is null.
+Meta-regression Model 3 on 27 studies. The article reports "QM (df = 8) = 25.7; p < .05" and R² of 44.7% ([0.212/0.474] x 100), with 55.3% unexplained. No standardised effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "the third model, which attempts to explain the variance among effect sizes by both sample size and the number of vocabulary words taught (QM (df = 8) = 25.7; p < .05), produces significant results"
 

@@ -50,3 +50,4 @@ Collation of effect sizes across 18 Persian-L1 studies; Table 2 reports inter-ph
 - [Grammatical complexity and L2 proficiency interact: complex features benefit more from input at low proficiency, while simple features benefit more from output at high proficiency](complexity-proficiency-interaction-ffi.md) — related
 - [Input-based FFI was more effective than output-based FFI at both beginner and intermediate proficiency levels, and both types showed larger effects for intermediate learners](input-ffi-effective-across-proficiency-levels.md) — related
 - [L1 transfer may moderate FFI effectiveness: features similar to Persian benefit more from input, while disparate features benefit more from output](l1-transfer-moderates-ffi-effectiveness.md) — related
+- [Absence of any of the three model components slows EFL language development](missing-component-slows-development.md) — related

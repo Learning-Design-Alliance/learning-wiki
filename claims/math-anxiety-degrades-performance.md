@@ -121,3 +121,4 @@ Multilevel meta-analysis of 223 studies from research conducted 1992–2018 (pub
 - [Test anxiety correlates negatively with math achievement at a pooled r = −.23, weaker than math anxiety's correlation](test-anxiety-negative-correlation-math-achievement.md) — related
 - [Academic buoyancy moderates the relation between anxiety and mathematics test performance, with performance highest when anxiety is low and buoyancy high](buoyancy-moderates-anxiety-performance.md) — related
 - [Math anxiety negatively correlates with math performance, controlling for general anxiety and word task performance](math-anxiety-underperformance-partial-correlation-daker-2023.md) — a narrower finding that bears on this claim
+- [Disgust and anxiety during dissection are negatively associated with motivation, interest and achievement (as reported in prior work cited by the article)](disgust-anxiety-hinder-dissection-learning.md) — a narrower finding that bears on this claim

@@ -37,7 +37,7 @@ F. Egert, R.G. Fukkink, A.G. Eckhardt. (2018). Impact of In-Service Professional
 
 `q4 · i?` · `quant-synthesis · r?`
 
-Meta-analytic moderator analysis across the subset of studies with child-level outcomes. The review reports that "Variance in effect sizes at child level was significantly related to in-service effects on quality ratings (53% explained variance)"; no standardized effect size is printed for this relation, so impact is null.
+Meta-analytic moderator analysis across the subset of studies with child-level outcomes. The review reports that "Variance in effect sizes at child level was significantly related to in-service effects on quality ratings (53% explained variance)"; no standardized effect size is printed for this relation, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Variance in effect sizes at child level was significantly related to in-service effects on quality ratings (53% explained variance)."
 

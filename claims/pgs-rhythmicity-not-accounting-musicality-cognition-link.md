@@ -37,7 +37,7 @@ Lucía de Hoyos, Ellen Verhoef, Aysu Okbay, Janne R. Vermeulen, Celeste Figaroa,
 
 `q2 · i?` · `associational · r2`
 
-The same mediation-analogue SEM as the speech analysis (N = 5873) tested the musicality-to-cognition path; the article reports "little evidence that the variation shared with PGSrhythmicity contributes" (shared effect p = 0.71) despite a significant total effect (β = 0.32). No effect size printed, so impact is null.
+The same mediation-analogue SEM as the speech analysis (N = 5873) tested the musicality-to-cognition path; the article reports "little evidence that the variation shared with PGSrhythmicity contributes" (shared effect p = 0.71) despite a significant total effect (β = 0.32). No effect size printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "there was little evidence that the variation shared with PGSrhythmicity contributes to the association between preschool musicality (F*musicality) and school-age verbal cognition (F*cognition) (shared effect: β = 0.001 (SE = 0.002), p = 0.71; total effect: β =0 . 3 2 ( S E=0 . 0 3 1 ) , p =2 . 3 5×1 0−11)"
 

@@ -62,6 +62,7 @@ Lookups are most valuable when they occur during meaningful reading or writing r
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting a new word to known words and experiences before lookup deepens encoding
 - [Chunking](../principles/chunking.md) — dictionary entries and collocation lists help learners store multiword units as single chunks rather than isolated words
 - [Teach ESP technical vocabulary through sequenced pre-task, task-cycle and post-task activities](task-based-esp-vocabulary-lesson-sequence.md)
+- [Four-stage procedure for developing a learner's terminological thesaurus and dictionary](four-stage-thesaurus-dictionary-development-procedure.md)
 
 ## Examples
 - **[Vocabulary.com](https://www.vocabulary.com)** — dictionary entries with adaptive quizzing; lookups feed a spaced-repetition practice loop, addressing the retention problem of one-off lookups.

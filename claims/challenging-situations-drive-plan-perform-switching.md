@@ -37,7 +37,7 @@ Järvelä, S., Järvenoja, H., & Malmberg, J. (2019). Capturing the dynamic and 
 
 `q2 · i?` · `review · r?`
 
-Narrative review attributing to Sobocinski et al. (2017) a process discovery analysis in which groups "switched between the planning and performance phases frequently" in challenging situations. The review prints no effect size, so impact is null.
+Narrative review attributing to Sobocinski et al. (2017) a process discovery analysis in which groups "switched between the planning and performance phases frequently" in challenging situations. The review prints no effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Their study revealed that, when the groups perceived the learning situation as challenging, they switched between the planning and performance phases frequently."
 

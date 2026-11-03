@@ -38,7 +38,7 @@ Tanner, S., Krausen, K., Garcia, B., & Brown, A. (2025). Understanding the At-ri
 
 `q2 · i?` · `causal · r2`
 
-Regression discontinuity analysis (RDD) of statewide spring 2024 math and ELA scores in grades 3–8, comparing schools just above and below the 2022/23 One-Star composite-score threshold. "The graph for ELA scores in Figure 5 shows a larger positive effect of a One-Star rating—the jump is 0.15 standard deviations," significant, whereas the 0.09 SD math effect was not distinguishable from chance. These unstandardized-to-grade SD jumps are reported as such; the report prints no standardized effect size, so impact is null.
+Regression discontinuity analysis (RDD) of statewide spring 2024 math and ELA scores in grades 3–8, comparing schools just above and below the 2022/23 One-Star composite-score threshold. "The graph for ELA scores in Figure 5 shows a larger positive effect of a One-Star rating—the jump is 0.15 standard deviations," significant, whereas the 0.09 SD math effect was not distinguishable from chance. These unstandardized-to-grade SD jumps are reported as such; the report prints no standardized effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The graph for ELA scores in Figure 5 shows a larger positive effect of a One-Star rating—the jump is 0.15 standard deviations. Unlike the effect on math scores, this effect on ELA scores is large enough to be statistically significant."
 

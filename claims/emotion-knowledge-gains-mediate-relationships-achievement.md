@@ -37,7 +37,7 @@ Torres, M. M., Domitrovich, C. E., & Bierman, K. L. (2015). Preschool Interperso
 
 `q3 · i?` · `associational · r2`
 
-Final SEM in the longitudinal Head Start sample tested full mediation; the indirect effect via preschool emotion knowledge gains was significant by RMediation confidence limits, "indicating a statistically significant indirect effect". No standardized effect size for the indirect effect is printed, so impact is null.
+Final SEM in the longitudinal Head Start sample tested full mediation; the indirect effect via preschool emotion knowledge gains was significant by RMediation confidence limits, "indicating a statistically significant indirect effect". No standardized effect size for the indirect effect is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "RMediation yielded lower and upper 95% confidence limits of 0.009 and 0.265, respectively, indicating a statistically significant indirect effect between preschool positive interpersonal relationships and kindergarten academic achievement, mediated by gains in emotion knowledge made during the preschool year"
 

@@ -46,7 +46,7 @@ Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-C
 
 `q2 · i?` · `causal · r1`
 
-Study 1 within-subjects timing data from four developers performing full assembly and disassembly of both versions. The article reports times "trended downward (21.4→ 13.7 minutes)"; only descriptive means are printed, so impact is null.
+Study 1 within-subjects timing data from four developers performing full assembly and disassembly of both versions. The article reports times "trended downward (21.4→ 13.7 minutes)"; only descriptive means are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Assembly times trended downward (21.4→ 13.7 minutes; see Fig. 3), compressing the assembly-to-disassembly ratio from 4.3×to 2.9×."
 

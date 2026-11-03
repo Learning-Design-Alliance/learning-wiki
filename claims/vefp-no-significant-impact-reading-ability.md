@@ -65,3 +65,4 @@ Pupil-randomised controlled trial in twelve Bolton secondary schools; 649 Year 7
 - [The LIT programme showed no statistically significant impact on reading ability at the Year 7 year-group level](lit-no-significant-year-group-impact.md) — related
 - [The Paired Reading programme showed no evidence of impact on Year 7 and Year 9 pupils' overall reading ability in a cluster RCT](paired-reading-no-impact-overall-reading-ability.md) — related
 - [Prior randomised trials of book-gifting programmes have shown little evidence of effects on children's reading skills](book-gifting-rcts-little-evidence.md) — related
+- [Using comics as a literary-didactic method did not significantly improve primary pupils' reading comprehension or ability to perceive text incoherence compared to control instruction](comics-no-effect-reading-literacy.md) — a narrower finding that bears on this claim

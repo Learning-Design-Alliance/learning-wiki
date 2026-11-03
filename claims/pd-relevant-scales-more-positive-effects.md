@@ -38,7 +38,7 @@ Karin D. Könings, Saskia Brand-Gruwel, Jeroen J. G. van Merriënboer. (2010). P
 
 `q2 · i?` · `causal · r1`
 
-A cross-class chi-square on the direction of ANOVA effects found 16 of 25 significant effects positive on relevant scales versus six of 20 on irrelevant scales, v2(1) = 5.20. Only frequencies and a test statistic are printed; impact is null.
+A cross-class chi-square on the direction of ANOVA effects found 16 of 25 significant effects positive on relevant scales versus six of 20 on irrelevant scales, v2(1) = 5.20. Only frequencies and a test statistic are printed;, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "there were significantly more positive effects of the participatory redesign on the relevant scales than on the irrelevant scales, v2(1) = 5.20, p\ 0.05: Of the 25 significant effects on the relevant scales, 16 were positive (i.e., in the expected direction), while of the 20 effects on the irrelevant scales only six were positive."
 

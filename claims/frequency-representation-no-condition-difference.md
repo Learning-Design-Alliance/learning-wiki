@@ -37,7 +37,7 @@ Jianyi Liu, Tengwen Fan, Yan Chen and Jingjing Zhao. (2023). Seeking the neural 
 
 `q3 · i?` · `causal · r2`
 
-Null between-condition comparison in the same EEG RSA study; the difference was tested via partial correlation and was not significant. Equivalence was not tested, and no effect size is printed, so impact is null.
+Null between-condition comparison in the same EEG RSA study; the difference was tested via partial correlation and was not significant. Equivalence was not tested, and no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "although signi ﬁcant representations of frequency were detected only in equal-probability condition, the intensity of these representations was not statistically different from that obtained in oddball condition"
 

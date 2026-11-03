@@ -46,7 +46,7 @@ Wen Wu, Li Chen, Qingchang Yang, You Li. (2019). Inferring Students' Personality
 
 `q3 · i?` · `associational · r1`
 
-Descriptive log analysis of the 164-student cohort's activity over the whole course (Table 3), reporting mean frequencies per activity. Descriptive means only, no inferential test, so impact is null.
+Descriptive log analysis of the 164-student cohort's activity over the whole course (Table 3), reporting mean frequencies per activity. Descriptive means only, no inferential test, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "the frequency of posting messages in the chat room is largely higher than other activities, with a mean of 71.46 times, vs. average 17.8 times of taking notes, 3.54 times of sharing materials, 2.10 messages posted in the discussion forum, 1.49 times of using hands-up facility, and 1.02 times of sharing notes."
 

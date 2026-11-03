@@ -64,6 +64,7 @@ Reading authentic quantitative texts builds the connection between abstract math
 - [Anchored Instruction](../patterns/anchored-instruction.md) — the article serves as a realistic anchor for subsequent problem solving
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the pre-reading step that determines whether learners can map text onto schemas
 - [Design AI scaffolds for STEM learning by linking learners' goals and interests to real scientific applications of AI](strategy-design-field-specific-ai-scaffolds-stem.md)
+- [Implement REACT through hands-on and minds-on geography assignments linking content to real-world contexts](react-hands-on-geography-assignments-strategy.md)
 
 ## Examples
 - **The New York Times Learning Network** (https://www.nytimes.com/section/learning) — publishes math-focused lesson plans built on current articles, with prompts for interpreting data and graphs in journalism.

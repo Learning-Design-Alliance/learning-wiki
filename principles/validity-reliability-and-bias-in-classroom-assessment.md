@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 370 claims (165 for, 179 mixed, 26 against) · 281 studies (90 associational, 61 design, 45 review, 44 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 25 of 281 report an effect size · 363 claims rest on one study
+> **Evidence** · 371 claims (165 for, 180 mixed, 26 against) · 282 studies (91 associational, 61 design, 45 review, 44 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 25 of 282 report an effect size · 364 claims rest on one study
 
 ## Conditional relationship
 
@@ -444,6 +444,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Teachers' Fall and Spring projections of the same student are strongly correlated within students](../claims/fall-spring-projection-correlation.md) [+W]
 - [Time spent on the pre/post assessment correlated positively with most QR rubric scores, suggesting motivation contributes to scores](../claims/time-on-task-correlates-qr-scores.md) [-W]
 - [The study's teacher-made tests showed high reliability and criterion validity against NELSON](../claims/teacher-made-grammar-tests-reliability-validity.md) [+W]
+- [The Algebra Achievement Test showed acceptable internal consistency and inter-rater reliability in this study](../claims/aat-reliability-k21-interrater.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

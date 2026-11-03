@@ -37,7 +37,7 @@ Mookyung Jeon. (2018). Meta-Analysis of Disability Simulation Research for Eleme
 
 `q3 · i?` · `quant-synthesis · r1`
 
-Within the same meta-analysis of eight Korean elementary-student studies, the article reports that "negative effects of disability simulation are not found"; no effect size was negative. No effect size magnitude for a negative effect is printed, so impact is null.
+Within the same meta-analysis of eight Korean elementary-student studies, the article reports that "negative effects of disability simulation are not found"; no effect size was negative. No effect size magnitude for a negative effect is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "For the second research question, negative effects of disability simulation are not found. None of the weighted and unweighted effect sizes appear to be negative."
 

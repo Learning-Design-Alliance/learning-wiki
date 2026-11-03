@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 211 claims (136 show a difference, 38 mixed, 37 no difference) · 138 studies (58 causal, 32 associational, 22 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 39 of 138 report an effect size · 208 claims rest on one study
+> **Evidence** · 217 claims (140 show a difference, 40 mixed, 37 no difference) · 142 studies (61 causal, 32 associational, 23 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 41 of 142 report an effect size · 214 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -248,6 +248,12 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Children maintained already high Spanish retelling skills during intervention, with no change in Spanish retells](../claims/spanish-retells-maintained-no-change.md) [-M] — instruction changes it
 - [Dual language narrative intervention produced a large English vocabulary gain (d = .98) but only a small Spanish vocabulary gain (d = .34)](../claims/english-vocabulary-large-effect-spanish-small.md) [~W] — instruction changes it
 - [Response to intervention varied individually and could not be predicted from children's Spanish language skills on the CELF-P-2](../claims/response-variability-not-predicted-by-spanish-scores.md) [-M] — learners who differ on it differ in outcomes
+- [Head Start had small but statistically significant average impacts on children's receptive vocabulary, early reading, early numeracy, and externalizing skills, with no average impact on oral comprehension or self-regulation](../claims/head-start-small-average-impacts-four-outcomes.md) [~W] — instruction changes it
+- [Head Start impacts were statistically significantly larger for dual language learners on receptive vocabulary and early numeracy](../claims/head-start-larger-impacts-dual-language-learners.md) [~M] — an instructional effect differs with it
+- [Head Start reduced individual residual outcome variance for treatment group members on receptive vocabulary and early numeracy, indicating compression of the outcome distribution](../claims/head-start-reduced-residual-variance-vocabulary-numeracy.md) [+M] — instruction changes it
+- [Oral language skills indicatively support writing in younger pupils and struggling writers, with oral language influence on writing partly mediated through reading](../claims/oral-language-supports-early-writing-development.md) [+M] — learners who differ on it differ in outcomes
+- [Students with trained teachers scored significantly higher on spoken English, listening, reading and words-memory subtests](../claims/phonics-trained-teachers-students-better-subskills.md) [+M] — instruction changes it
+- [Treatment preschoolers significantly improved Spanish receptive and expressive vocabulary and English receptive vocabulary from pre-test to post-test, with moderate effect sizes](../claims/link-prepost-vocabulary-gains-spanish-english.md) [+M] — rose from pre-test to post-test in the treatment group (no comparison group in this analysis)
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

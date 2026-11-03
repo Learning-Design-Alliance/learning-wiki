@@ -37,7 +37,7 @@ Swain, W., Leung-Gagné, M., Maier, A., & Rubinstein, C. (2025). Community schoo
 
 `q3 · i?` · `causal · r2`
 
-Matched difference-in-differences analysis of first-cohort CCSPP schools versus matched comparison schools reports significantly improved math scores of "0.06 SD", described as "roughly equivalent to 43 additional days of learning"; comparison schools showed declines in the same period. No d, g, or other standardized effect size statistic is printed, so impact is null.
+Matched difference-in-differences analysis of first-cohort CCSPP schools versus matched comparison schools reports significantly improved math scores of "0.06 SD", described as "roughly equivalent to 43 additional days of learning"; comparison schools showed declines in the same period. No d, g, or other standardized effect size statistic is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "and significantly improved standardized test scores in math (0.06 SD), roughly equivalent to 43 additional days of learning."
 

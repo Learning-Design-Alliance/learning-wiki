@@ -70,3 +70,5 @@ Item-by-item comparisons of Suddenness ratings against the computerized insight 
 - [The four-dimensional subjective-experience ratings are validated against classic insight and analytic problems, with Intuition and Suddenness differentiating the problem categories](subjective-ratings-validated-insight-analytic.md) — related
 - [Across participants, RAPM scores correlate positively with Certainty but not with Intuition or Suddenness](rapm-score-correlates-certainty-only.md) — related
 - [Intuition ratings are unaffected by RAPM item difficulty, indicating stable strategy across items](intuition-unaffected-rapm-difficulty.md) — related
+- [Problem difficulty level relates to metacognitive knowledge level: the more difficult the problem, the higher the metacognitive knowledge required](problem-difficulty-metacognitive-level.md) — related
+- [SKS and TVS show no significant difference at the easiest problem level (level-1), with the advantage appearing at levels 2 and 3](sks-advantage-levels-2-and-3.md) — related

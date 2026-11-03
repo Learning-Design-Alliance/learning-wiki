@@ -17,7 +17,7 @@ sources:
 # Model of bilingual education: outcomes as interaction of background, child input, and educational treatment factors
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 5 studies (2 review, 1 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q3` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (2 for, 4 mixed) · 6 studies (2 causal, 2 review, 1 quant-synthesis, 1 theoretical), `q2`–`q3` · 0 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 The paper integrates its two hypotheses into an overall model of bilingual education in which "educational outcomes are explained as a function of the interaction between background, child input, and educational treatment factors." Two child input factors are examined as intervening variables that interact with school program factors and mediate sociocultural background effects: conceptual-linguistic knowledge and motivation to learn L2 and maintain L1. The model assigns a central role to the interaction between sociocultural, linguistic, and school program factors, and is offered as the framework the paper finds missing from existing bilingual education research.
@@ -44,6 +44,7 @@ The paper integrates its two hypotheses into an overall model of bilingual educa
 - [Socioeconomic status differences between bilingual and monolingual groups may determine study outcomes](../claims/ses-moderates-bilingual-executive-function-results.md) [~W]
 - [Sample characteristics (immigrant/minority status, L2 status, age) show no significant moderator effects, and several program and delivery features are also nonsignificant](../claims/flp-nonsignificant-moderators.md) [~W]
 - [Student background variables significantly affect learning motivation and demographic variables significantly affect learning achievement](../claims/background-demographic-variables-affect-motivation-achievement.md) [+W]
+- [Tikichuela improved math scores equally across household language groups and parental education levels, showing bilingual audio instruction can work for both language groups](../claims/tikichuela-bilingual-instruction-both-language-groups.md) [~W]
 
 ## Related Theories
 - 

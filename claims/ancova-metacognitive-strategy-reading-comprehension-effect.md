@@ -37,7 +37,7 @@ Erkan Çer, Ertuğrul Şahin. (2016). Improving Reading Comprehension Skills wit
 
 `q3 · i?` · `causal · r1`
 
-One-way ANCOVA in SPSS 23 comparing post-intervention scores of the experimental and control groups controlling for pre-test scores. The table prints F = 169.85 for the Experimental Group source with Sig. .000; no effect size is printed, so impact is null.
+One-way ANCOVA in SPSS 23 comparing post-intervention scores of the experimental and control groups controlling for pre-test scores. The table prints F = 169.85 for the Experimental Group source with Sig. .000; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The One Way Ancova analysis also revealed a significant difference between the pre -test and the post-test in the experimental group that is, using metacognitive strategy in books of literary quality improved the reading comprehension sk ills of the students in the experimental group when compared to the control group"
 

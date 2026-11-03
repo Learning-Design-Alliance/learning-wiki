@@ -37,7 +37,7 @@ Chrysi Rapanta & Mark K. Felton. (2022). Learning to Argue Through Dialogue: a R
 
 `q2 · i?` · `review · r2`
 
-Descriptive frequency analysis of fostering methods across the review's full sample of 143 studies. The authors report: "In total, 72 studies (50%) reported that some type of coach-based method was effective in bringing out any type of gains in students'argumentative dialogue, and 77 studies (54%) did so with task-based methods (32 studies used both coach-based and task-based methods". No effect size is printed, so impact is null.
+Descriptive frequency analysis of fostering methods across the review's full sample of 143 studies. The authors report: "In total, 72 studies (50%) reported that some type of coach-based method was effective in bringing out any type of gains in students'argumentative dialogue, and 77 studies (54%) did so with task-based methods (32 studies used both coach-based and task-based methods". No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "In total, 72 studies (50%) reported that some type of coach-based method was effective in bringing out any type of gains in students'argumentative dialogue, and 77 studies (54%) did so with task-based methods (32 studies used both coach-based and task-based methods)."
 

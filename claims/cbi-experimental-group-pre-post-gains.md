@@ -47,3 +47,4 @@ Within-group comparison in the experimental CBI group (N = 30): pretest M = 56.8
 ## Related Claims
 - [No significant difference between the experimental group's Post-test I and Post-test II scores](cbi-posttest-one-two-no-difference.md) — related
 - [CBI produced higher academic achievement than the conventional method for B.Ed. students in Optional 1 English](cbi-more-effective-than-conventional-method-b-ed-english.md) — related
+- [Both the adaptive and the conventional tutoring groups achieved significantly higher post-test than pre-test scores](within-group-pre-post-gains-both-groups.md) — related

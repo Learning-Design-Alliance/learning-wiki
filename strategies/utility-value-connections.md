@@ -63,6 +63,7 @@ Utility value interventions raise interest, perceived value, and course performa
 - [Choice Boards](../elements/choice-boards.md) — structural autonomy support that complements relevance framing
 - [Design AI scaffolds for STEM learning by linking learners' goals and interests to real scientific applications of AI](strategy-design-field-specific-ai-scaffolds-stem.md)
 - [Use a varied repertoire of engaging instructional strategies in intensive math intervention: hands-on activities, real-life applications, structured practice, daily homework, feedback, and high expectations](jemp-engaging-instructional-strategies.md)
+- [Provide parents of high-school students with mailed utility-value materials (brochures and a website) to spur conversations about the relevance of math and science](parent-mailed-utility-value-materials-strategy.md)
 
 ## Examples
 - **Hulleman & Harackiewicz (2009) science writing intervention:** high school students wrote ~1-paragraph essays connecting science topics to their own lives at several points in a semester; students with low success expectations raised grades and interest in science careers.

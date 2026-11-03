@@ -46,7 +46,7 @@ Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence 
 
 `q2 · i?` · `associational · r2`
 
-Probit moderated-mediation estimates by race/ethnicity in the NSCH sample; the printed percentages are proportions of the total effect explained by family resilience, not standardized effect sizes, so impact is null.
+Probit moderated-mediation estimates by race/ethnicity in the NSCH sample; the printed percentages are proportions of the total effect explained by family resilience, not standardized effect sizes, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Indirect effects demonstrated an average partial mediation of family resilience on the relationship between ACEs and ﬂourishing for Black (37.5%) and Hispanic (30.6%) children."
 

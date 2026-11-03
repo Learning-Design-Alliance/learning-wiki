@@ -49,3 +49,4 @@ Paired-samples tests within each group showed significant gains from pre-test to
 - [The experimental and control groups did not differ significantly in writing scores at pre-test, supporting attribution of post-test differences to the instructional methods](groups-equivalent-at-pretest-writing.md) — related
 - [Paper-and-pen peer comment activities significantly improve students' writing quality over a semester](paper-pen-peer-comments-improve-writing-quality.md) — a narrower finding that bears on this claim
 - [Wiki-based instruction improved all four measured business writing aspects, most in form and least in mechanics](wiki-writing-gains-by-aspect.md) — related
+- [After eight weeks of WhatsApp-based EFL writing instruction, one Jordanian eleventh-grade section's mean writing scores rose and the other's fell, with no pre-to-post significance test or control group reported](whatsapp-instruction-improves-efl-writing-performance.md) — related

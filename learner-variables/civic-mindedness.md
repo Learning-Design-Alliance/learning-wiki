@@ -13,7 +13,7 @@ generated:
 # Civic Mindedness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 46 claims (31 show a difference, 7 mixed, 8 no difference) · 22 studies (8 causal, 7 associational, 3 theoretical, 2 review, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 5 of 22 report an effect size · 44 claims rest on one study
+> **Evidence** · 47 claims (32 show a difference, 7 mixed, 8 no difference) · 23 studies (9 causal, 7 associational, 3 theoretical, 2 review, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 5 of 23 report an effect size · 45 claims rest on one study
 
 ## Description
 Civic mindedness is a learner's orientation toward their community: seeing themselves as someone who can contribute, being informed about and attentive to the needs and goals of others (including needs that differ from their own), and joining with others to pursue shared aims. It includes thinking critically about civic content and social movements and about the democratic systems that govern communities, including the inequities those systems can produce and how they might be addressed. Prosocial behaviour, acting with others in mind, is described as one of its foundations. It is measured with sets of civic-outcome instruments for elementary classrooms (knowledge, thinking, dispositions and participation) and with critical-consciousness scales for older adolescents and adults.
@@ -88,6 +88,7 @@ It is related to [social awareness and relationship skills](social-awareness-and
 - [The CIEA did not produce a significant group-by-time difference on the Prosocial-Egotistical basic scale](../claims/ciea-no-prosocial-scale-effect.md) [-W] — instruction changes it
 - [Experimental-group students improved on all four measured prosocial-tolerance qualities, with the largest gain in courage in upholding position (~20%) and the smallest in independence (~10%)](../claims/eg-gains-four-tolerance-qualities.md) [+M] — instruction changes it
 - [The course produced no measurable increase in civic engagement or political action, and scores on both were low](../claims/sis-course-no-civic-engagement-effect.md) [-M] — instruction changes it
+- [Pre-service teachers required to read critical literature and reflect through guiding questions show greater awareness of the political aspects of language than those who are not](../claims/guided-reflection-critical-literature-raise-politics-of-language-awareness.md) [+M] — instruction changes it
 
 ## Measures
 - **Civic Outcomes for Elementary School** (Chi et al., 2006): instruments for civic knowledge, thinking, dispositions and participation in elementary classrooms.

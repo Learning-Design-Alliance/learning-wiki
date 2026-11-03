@@ -12,7 +12,7 @@ generated:
 # Willingness to Communicate in a Second Language
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (9 for, 1 mixed) · 8 studies (4 associational, 1 causal, 1 review, 1 qualitative, 1 design), `q2`–`q3` · 1 of 8 report an effect size · 8 claims rest on one study
+> **Evidence** · 12 claims (10 for, 2 mixed) · 9 studies (4 associational, 2 causal, 1 review, 1 qualitative, 1 design), `q2`–`q3` · 2 of 9 report an effect size · 10 claims rest on one study
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this
 theory: eric-ej1080097, eric-ej1080228, eric-ej1208383 (eric-ed537603 and eric-ej1288838 were also read; neither discusses the model, and eric-ej1288838 only cites a WTC study in its references). The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -48,6 +48,8 @@ The articles call the model heuristic. They report that different studies find d
 - [English pronunciation self-efficacy partially mediates the association between GenAI-based pronunciation feedback perceptions and willingness to communicate, with the indirect effect accounting for 69.9% of the total effect](../claims/epse-partially-mediate-genai-feedback-wtc.md) [+M]
 - [Gameplay increased participants' willingness to communicate in English](../claims/gameplay-increased-willingness-to-communicate.md) [+W] — attached 2026-10-15 from Hayo Reinders et al. (2015), which proposed "Willingness to communicate (WTC) as a framework for studying affect in digital game-based language learning".
 - [The Debate group showed a larger descriptive gain in Self-Perceived Communicative Competence than the PI group](../claims/debate-larger-communicative-competence-gain.md) [+W] — attached 2026-11-02 from Mardziah Shamsudin et al. (2017), which proposed "Willingness to Communicate as a construct resting on Communication Apprehension and Self-Communicative Competence".
+- [Teaching communication strategies raises EFL learners’ classroom Willingness to Communicate more than regular instruction, with a large between-group difference (eta squared = .10)](../claims/cs-training-raises-wtc-posttest.md) [+M] — attached 2026-11-03 from Abulfazl Mesgarshahr (2014), which proposed "WTC model with Communication Apprehension and Self-perceived Communicative Competence as immediate precursors".
+- [Control-group learners showed no statistically significant change in Willingness to Communicate from pre-test to post-test](../claims/control-group-wtc-unchanged.md) [~W]
 
 ## The evidence by question
 

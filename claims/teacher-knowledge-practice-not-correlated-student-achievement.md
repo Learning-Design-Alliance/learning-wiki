@@ -89,7 +89,7 @@ Garet, M. S., Heppen, J. B., Walters, K., Parkinson, J., Smith, T. M., Song, M.,
 
 `q3 · i?`
 
-Correlational analysis: a teacher with higher Errors and Imprecision was predicted to have lower-scoring students on both the state and study-administered math assessments, with printed "estimates of association between −0.20 and −0.21". The article prints no standardized effect size for this association, so impact is null.
+Correlational analysis: a teacher with higher Errors and Imprecision was predicted to have lower-scoring students on both the state and study-administered math assessments, with printed "estimates of association between −0.20 and −0.21". The article prints no standardized effect size for this association, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The only teacher measure statistically significantly associated with student achievement was the Errors and Imprecision dimension of instructional practice (estimates of association between −0.20 and −0.21)."
 

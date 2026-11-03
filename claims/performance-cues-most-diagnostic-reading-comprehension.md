@@ -37,7 +37,7 @@ van de Pol, J., & Oudman, S. (2024). Teachers' judgment accuracy of students' mo
 
 `q2 · i?` · `associational · r2`
 
-The review attributes this to a previous study (Van de Pol et al., 2021b) investigating the diagnosticity of a wide array of cues for students' reading comprehension performance; performance cues reached 'r >  = 0.40 and significant'. No standardized effect size for a comparison is printed, so impact is null.
+The review attributes this to a previous study (Van de Pol et al., 2021b) investigating the diagnosticity of a wide array of cues for students' reading comprehension performance; performance cues reached 'r >  = 0.40 and significant'. No standardized effect size for a comparison is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "performance cues were found to be most diagnostic (i.e., r >  = 0.40 and significant; Evans, 1996)."
 

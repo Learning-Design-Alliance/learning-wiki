@@ -72,3 +72,4 @@ Transition analysis comparing intervention and control conditions in the group r
 - [No significant differences between STAC intervention and control groups in frequency of using the STAC strategies at 30-day follow-up](stac-strategy-use-no-group-differences.md) — related
 - [IY TCM shows no significant effects on disruptive behavior or concentration problems](iytcm-no-effect-disruptive-concentration.md) — related
 - [Module users showed a different response-frequency pattern: more correct responses but also more extreme over- and under-diagnoses](chi2-response-frequency-pattern-module.md) — related
+- [Intervention and control parents did not differ on baseline at-school involvement measured by parent night attendance](baseline-parent-night-attendance-equivalent.md) — related

@@ -37,7 +37,7 @@ Matthew A. Kraft and Todd Rogers. (2013). Teacher-to-Parent Communication: Exper
 
 `q2 · i?` · `causal · r2`
 
-Null result from teacher surveys (three Likert-scale questions on effort, behavior, and teacher-student relationship) collected for 534 of 576 student-class combinations, a 92.7% response rate. No effect size is printed, so impact is null.
+Null result from teacher surveys (three Likert-scale questions on effort, behavior, and teacher-student relationship) collected for 534 of 576 student-class combinations, a 92.7% response rate. No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "We find no compelling evidence that the treatment affected either of these measures."
 
@@ -50,3 +50,4 @@ Null result from teacher surveys (three Likert-scale questions on effort, behavi
 - [Teachers and parents rated PTR-YC as socially valid, finding it acceptable, effective, and unlikely to produce negative side effects](ptr-yc-social-validity-teacher-parent-ratings.md) — related
 - [Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior](lsc-contributions-strongest-in-operations-weakest-on-student-behavior.md) — related
 - [Teacher-to-parent communication reduces student absenteeism](teacher-parent-communication-reduces-absenteeism.md) — related
+- [Teacher outreach on top of interactive homework produces a large increase in parent–teacher bidirectional communication among 8th grade parents](teacher-outreach-increases-bidirectional-communication.md) — related

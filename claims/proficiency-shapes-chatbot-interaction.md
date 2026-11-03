@@ -72,3 +72,4 @@ Same chi-squared mosaic-plot analysis, low-proficiency group pattern: significan
 - [Language proficiency, beliefs, feedback literacy and learning objectives moderate students' engagement with and uptake of WCF](student-factors-moderate-wcf-engagement.md) — related
 - [Low-proficiency EFL undergraduates report feeling more competent in English tasks through ChatGPT-assisted writing feedback, conversational practice, and translation support](chatgpt-competence-experience-efl-undergraduates.md) — related
 - [Module users showed a different response-frequency pattern: more correct responses but also more extreme over- and under-diagnoses](chi2-response-frequency-pattern-module.md) — related
+- [Higher English proficiency was associated with more confident and successful interaction in paired tasks](proficiency-positively-related-to-interaction.md) — related

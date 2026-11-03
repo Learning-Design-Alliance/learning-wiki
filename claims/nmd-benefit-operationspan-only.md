@@ -49,3 +49,5 @@ The authors' stated pattern from the posttest comparisons in the randomized stud
 
 ## Related Claims
 - [The treatment x WMC interaction persists after controlling reading, calculation, and fluid intelligence](wmc-interaction-robust-to-basic-skills-controls.md) — related
+- [Strategy conditions do not improve problem-solving performance for children without math difficulties](no-strategy-benefit-for-children-without-md.md) — related
+- [Verbal and verbal+visual strategy conditions improve calculation accuracy for both ability groups](verbal-strategies-improve-calculation-transfer.md) — reports the opposite

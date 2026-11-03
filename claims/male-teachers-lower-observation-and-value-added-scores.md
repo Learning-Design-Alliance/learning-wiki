@@ -73,3 +73,4 @@ From the REACH Students 2013-14 analysis of teacher characteristics and evaluati
 - [Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores](teacher-race-observation-gaps-explained-by-school-poverty.md) — related
 - [Understandings of valued thinking have been dominated by the voices of White, predominantly male scholars](white-male-scholars-dominated-valued-thinking.md) — related
 - [Teachers who were White, female, or had five or more years of experience scored about 14 percentage points higher; emergency-certified teachers scored 14 points lower](ct-pck-group-score-differences.md) — related
+- [Male pre-service teachers provided more total feedback than females in this study, contrary to previous research](males-provided-more-feedback-than-females.md) — related

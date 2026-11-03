@@ -56,3 +56,4 @@ Quasi-experiment with 43 grade eight students per group (Table 1): posttest mean
 - [Eighth-standard students taught mathematics through cooperative learning achieved higher gain scores than control-group students taught by lecture method](cooperative-learning-higher-math-gain-scores-eighth-standard.md) — related
 - [Cooperative learning produced significantly higher gain scores than lecture teaching for each of the knowledge, understanding and application objectives](cooperative-learning-gains-knowledge-understanding-application.md) — related
 - [Both groups improved from pretest to posttest, with most experimental students passing the KKM threshold of 60](pretest-posttest-gains-and-kkm-passing.md) — related
+- [The cooperative learning group improved significantly from pretest to posttest](cooperative-group-pretest-posttest-gain.md) — related

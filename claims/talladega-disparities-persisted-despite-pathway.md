@@ -9,7 +9,6 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2021
-source_checked: 2026-10-20
 recheck_by: 2024
 sources:
   - id: digital-promise-2021
@@ -26,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` The district acknowledged that disparities in computing participation and achievement persisted even after building the inclusive pathway, prompting equity conversations and formative assessment work. [→ Digital Promise 2021](#digital-promise-2021)
@@ -39,7 +38,7 @@ Digital Promise. (2021). Nurturing an Innovative District: Inclusive Computing P
 
 `q1 · i?` · `design · r2`
 
-Case-report statement of a district-acknowledged outcome: participation and achievement gaps for young women and students from low socioeconomic backgrounds remained after pathway development. No effect sizes or test statistics are printed, so impact is null.
+Case-report statement of a district-acknowledged outcome: participation and achievement gaps for young women and students from low socioeconomic backgrounds remained after pathway development. No effect sizes or test statistics are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The district acknowledged that disparities in computing participation and achievement persisted, despite their development of an inclusive CT pathway."
 

@@ -46,7 +46,7 @@ Adán José-García, Alison Sneyd, Ana Melro, Anaïs Ollagnier, Georgina Tarling
 
 `q2 · i?` · `design · r3`
 
-Online user trial survey of 64 valid responses (N = 64), October to December 2020, mostly aged 19–24 (72%) and in higher education (80%). The article reports 23 of 45 pairs with "correlations (rs > 0)"; no precise printed effect size value is given, so impact is null.
+Online user trial survey of 64 valid responses (N = 64), October to December 2020, mostly aged 19–24 (72%) and in higher education (80%). The article reports 23 of 45 pairs with "correlations (rs > 0)"; no precise printed effect size value is given, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Overall, the participants provided a positive score in terms of usability of the C3-IoC system. From the 45 statement pairs in Q1, illustrated in Fig. 11a, 23 pairs showed strong correlations (rs  > 0), indicating that the tool was easy to use, the functions were well integrated, it showed consistency, and the user felt confident using the tool."
 
@@ -56,7 +56,7 @@ Adán José-García, Alison Sneyd, Ana Melro, Anaïs Ollagnier, Georgina Tarling
 
 `q2 · i?` · `design · r3`
 
-Spearman correlation heatmaps of usability for the seven C3-IoC components from the same N = 64 trial. All 21 pairs showed "positive correlation value (rs > 0.25)" with the map and overview components rated highest; the article prints a threshold, not an exact effect size value, so impact is null.
+Spearman correlation heatmaps of usability for the seven C3-IoC components from the same N = 64 trial. All 21 pairs showed "positive correlation value (rs > 0.25)" with the map and overview components rated highest; the article prints a threshold, not an exact effect size value, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "we observe a strong relationship between all the 21 different statement pairs having all of them a positive correlation value (rs  > 0.25). Overall, the highest-rated components were the 'Job roles map' and the 'Job roles overview', which may suggest an interest in visualising or getting an overview of the job roles."
 

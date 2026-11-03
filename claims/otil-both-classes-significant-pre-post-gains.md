@@ -53,3 +53,4 @@ Paired-samples T-test on each class (N=46 per class). Experimental class paired 
 - [EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group taught without the songs did not, though the groups were not compared directly](humorous-song-improves-efl-listening-comprehension.md) — related
 - [Experimental-group students showed significant pre-to-post gains in learning achievement with the CoBl model](cobl-achievement-pre-post-gains.md) — related
 - [The formative-assessment group improved significantly from pre-test to post-test while the control group did not](formative-group-pre-post-gain-significant-control-not.md) — reports the opposite
+- [Both groups improved significantly from pre-test to post-test in the local history learning activities](pre-post-gains-both-groups.md) — related

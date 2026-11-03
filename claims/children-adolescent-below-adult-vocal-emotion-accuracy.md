@@ -38,7 +38,7 @@ Grosbras, M.-H., Ross, P. D. & Belin, P. (2018). Categorical emotion recognition
 
 `q3 · i?` · `associational · r2`
 
-Welch t-test comparing mean percent-correct in the 225 children-adolescents (mean 81.7%, median 85%, SD 11.8%) against the 30 adults (mean 86.7%, median 87.5%, SD 9.3%). No standardized effect size is printed, so impact is null.
+Welch t-test comparing mean percent-correct in the 225 children-adolescents (mean 81.7%, median 85%, SD 11.8%) against the 30 adults (mean 86.7%, median 87.5%, SD 9.3%). No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The difference between the two groups was statistically significant (Welsh t(253 = 2.67, CI of difference = [1.33 8.67], p = 0.011)."
 

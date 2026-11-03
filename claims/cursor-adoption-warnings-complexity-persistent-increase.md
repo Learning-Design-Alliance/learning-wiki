@@ -37,7 +37,7 @@ Reshaping Undergraduate Computer Science Education in the Generative AI Era. (20
 
 `q2 · i?` · `qualitative · r1`
 
-The whitepaper attributes this to He et al.'s large-scale causal study of Cursor adoption across open-source GitHub projects using a difference-in-differences design. Reported second-hand; no effect size is printed, so impact is null.
+The whitepaper attributes this to He et al.'s large-scale causal study of Cursor adoption across open-source GitHub projects using a difference-in-differences design. Reported second-hand; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "More critically, adoption was associated with a substantial and persistent increase in static analysis warnings and code complexity: factors that the authors identify as drivers of long-term velocity slowdown."
 

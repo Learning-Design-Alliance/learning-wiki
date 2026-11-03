@@ -37,7 +37,7 @@ Strohmaier, A. R., Schons, C., Knabbe, A., Vogel, M., Saado, K., & Obersteiner, 
 
 `q3 · i?` · `causal · r2`
 
-Descriptive/logistic results on solution rates from the same eye-tracking experiment (n = 47, 746 solutions). The article reports OR = 0.30 for numerical difficulty and OR = 1.67 (mathematics) and OR = 1.35 (language) for abilities; odds ratios are not standardized effect sizes, so impact is null.
+Descriptive/logistic results on solution rates from the same eye-tracking experiment (n = 47, 746 solutions). The article reports OR = 0.30 for numerical difficulty and OR = 1.67 (mathematics) and OR = 1.35 (language) for abilities; odds ratios are not standardized effect sizes, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Of the word problem variations, only numerical problem difficulty significantly affected solution probability, OR = 0.30, p < .001. Question position showed a trend such that word problems with the question at the beginning were solved correctly less often, OR = 0.71, p = .056."
 

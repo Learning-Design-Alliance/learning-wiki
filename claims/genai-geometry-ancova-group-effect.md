@@ -58,3 +58,4 @@ ANCOVA with post-test scores as dependent variable, instructional group as fixed
 - [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related
 - [Pre-test achievement significantly predicted post-test achievement in the ANCOVA model](pretest-covariate-significant-arabic-grammar.md) — related
 - [Collaborative learning with self-assessment improves geometry achievement at low and high cognitive levels relative to traditional teaching](collaborative-self-assessment-improves-geometry-achievement.md) — related
+- [When pre-test scores were controlled, the software had a significant effect on academic achievement, with the model explaining 44% of variance](ancova-software-achievement-effect.md) — related

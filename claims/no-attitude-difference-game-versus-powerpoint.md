@@ -52,3 +52,4 @@ ANCOVA on the 20-item nutrition attitude questionnaire (Cronbach's α = 0.85) wi
 - [Published studies of homemade PowerPoint games show no significant performance difference between game-creating and control groups](ppt-games-no-performance-difference-studies.md) — related
 - [Computer-assisted educational games improved attitudes toward the Turkish course more than the existing curriculum](caeg-turkish-course-attitude-advantage.md) — related
 - [Students learning with PhET simulation reported slightly higher motivation than the PowerPoint control group on computer-attitude and self-determination aspects](phet-solar-system-motivation-gain.md) — related
+- [Students held positive attitudes toward the use of PowerPoint in vocabulary lessons](positive-student-attitudes-ppt-vocabulary.md) — related

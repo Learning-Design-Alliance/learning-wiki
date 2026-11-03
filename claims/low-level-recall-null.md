@@ -37,7 +37,7 @@ Vidal-Abarca, E., & Sanjosé, V. (1998). Levels of comprehension of scientific p
 
 `q2 · i?` · `causal · r2`
 
-ANCOVA on recall of the 48 low-level idea units in the same experiment. Means improved only slightly (original 3.36; coherence-plus-linking 5.71) and "differenceswerenotsigniﬁcant". No effect size printed, so impact is null.
+ANCOVA on recall of the 48 low-level idea units in the same experiment. Means improved only slightly (original 3.36; coherence-plus-linking 5.71) and "differenceswerenotsigniﬁcant". No effect size printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Coherence didnotyieldasigniﬁcantmaineffect,andlinkingprocedureswereveryclosetotheusual acceptablelevel, F(1,62)=3.902, MSE=7.568, p=.053."
 

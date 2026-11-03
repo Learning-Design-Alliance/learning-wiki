@@ -37,7 +37,7 @@ Peney, T., & Skarratt, P. A. (2024). Increasing the immersivity of 360° videos 
 
 `q3 · i?` · `causal · r2`
 
-Between-subjects experiment with 40 undergraduates viewing a 3-minute 360° video via HMD or touchscreen, followed by a 20-item surprise cued-recall test. The t-test showed "recall was significantly higher in the immersive condition". No standardised effect size was printed, so impact is null.
+Between-subjects experiment with 40 undergraduates viewing a 3-minute 360° video via HMD or touchscreen, followed by a 20-item surprise cued-recall test. The t-test showed "recall was significantly higher in the immersive condition". No standardised effect size was printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Cued-recall scores were submitted to an independent samples t-test which showed that recall was significantly higher in the immersive condition (M = 9.30, SD = 1.75) than in the non-immersive condition (M = 7.55, SD = 2.21), t(38) = 2.77, p = .009."
 

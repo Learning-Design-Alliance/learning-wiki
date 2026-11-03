@@ -74,3 +74,4 @@ The review attributes to the Alfieri et al. (2011) meta-analysis of 164 primary 
 - [The highest level of inquiry may not be the 'best' approach for science learning](open-inquiry-highest-level-not-best.md) — related
 - [Student-led inquiry-based investigation is identified as the least effective instructional element in PISA 2015 analyses](student-led-inquiry-least-effective-instructional-element.md) — reports the opposite
 - [A cited meta-analysis found discovery-method instruction positively affected achievement in 61% of 138 studies](discovery-method-meta-analysis-61-percent-138-studies.md) — related
+- [Meta-analytic evidence cited in the article: enhanced discovery learning outperforms other instruction, while unassisted discovery does not benefit learners](minimal-guidance-inquiry-inferior-explicit-instruction.md) — related

@@ -46,7 +46,7 @@ Richardson, Ronald; Brouillette, Liane. (2013). Historic and Ethnic Music Found 
 
 `q3 · i?` · `causal · r2`
 
-Regression analysis (Table 9) of ToGRA post scores on pre score, group and covariates for the 215-student sample. Only the group coefficient and its significance are printed; no standardized effect size is given for this regression, so impact is null.
+Regression analysis (Table 9) of ToGRA post scores on pre score, group and covariates for the 215-student sample. Only the group coefficient and its significance are printed; no standardized effect size is given for this regression, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "When controlling for all identified categories (gender, ethnic group, etc.), the treatment group showed a mean gain of 0.379. As shown in the last column, this is statistically significant at P= <0.0001."
 

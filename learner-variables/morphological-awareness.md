@@ -13,7 +13,7 @@ generated:
 # Morphological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 26 claims (14 show a difference, 9 mixed, 3 no difference) · 14 studies (7 causal, 5 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 14 report an effect size · 25 claims rest on one study
+> **Evidence** · 27 claims (15 show a difference, 9 mixed, 3 no difference) · 15 studies (8 causal, 5 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 15 report an effect size · 26 claims rest on one study
 
 ## Description
 Morphological awareness is recognising and using morphemes, the smallest meaningful parts of words, such as the root and prefix in *replay*. This page also covers morphological knowledge, the LVN's name for the same capacity in older children. Learners who understand morphemes can treat them as building blocks, recognising, understanding and producing longer, more complex words when reading and writing. It also includes knowing how stress and pronunciation change between related words (*sign* and *signature*) and how some morphemes carry grammatical meaning (adding *-ed* for the past tense). It is measured with tasks in which learners choose or complete the right word form, such as picking the suffix that fits a sentence.
@@ -67,6 +67,7 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [In morpheme identification the cohort outperformed inservice teachers with 30 hours of professional development, though accuracy of 72.9% raised competency questions](../claims/morpheme-id-beats-inservice-with-pd.md) [~M] — instruction changes it
 - [Preservice teachers completing 10 hours of metalinguistic coursework outperformed preservice teachers without such content in phoneme and morpheme identification](../claims/ten-hours-metalinguistic-coursework-outperforms-untrained-preservice.md) [+M] — instruction changes it
 - [The review reports PI's superiority over TI is generalizable across structures and languages, including Spanish, Italian, French, and English](../claims/pi-superiority-generalizable-across-structures-languages.md) [+M] — instruction changes it
+- [Instructional approach significantly affects morphological achievement, with MSIA achieving the highest mean score](../claims/msia-highest-morphological-achievement.md) [+W] — instruction changes it
 
 ## Measures
 - **The Suffix Choice Test** (Nagy et al., 2003): recognising, understanding and using morphemes by choosing the right suffixed form.

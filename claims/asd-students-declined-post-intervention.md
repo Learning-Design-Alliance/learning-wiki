@@ -46,3 +46,4 @@ Descriptive statistics for the three students with ASD due to small sample size.
 
 ## Related Claims
 - [The K-N-W-S graphic organizer intervention package did not produce statistically significant pretest-to-posttest gains in word problem solving for students with disabilities in the treatment group](knws-no-significant-gain-swd-treatment.md) — related
+- [TTPS intervention students improved their problem-solving performance from pretest to posttest while comparison students did not](ttps-improves-problem-solving-within-group.md) — related

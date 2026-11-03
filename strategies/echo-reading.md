@@ -66,6 +66,7 @@ Echo reading combines [modeling](../theories/social-learning-theory.md) with imm
 - [Think-Aloud](../elements/think-aloud.md) — complementary modeling technique; echo reading models *how text sounds*, think-alouds model *how comprehension works*
 - [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](prosody-instruction-activities-strategy.md)
 - [Use the Neurological Impress Method to improve reading fluency of students with learning disabilities in regular public schools](nim-intervention-strategy-recommendation.md)
+- [Offer non-native teachers remedial training sessions combining recognition and production drills via the Grammar/Intonation and Audio-Articulation Models](remedial-pitch-drills-training-sessions.md)
 
 ## Examples
 - **[Read Naturally](https://www.readnaturally.com)** — fluency program combining a recorded model of the passage (audio echo), repeated timed readings, and progress monitoring.

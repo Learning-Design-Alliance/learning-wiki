@@ -37,7 +37,7 @@ Vahideh Sadat Vahedi, Behzad Ghonsooly, and Reza Pishghadam. (2014). Vocabulary 
 
 `q3 · i?` · `quant-synthesis · r3`
 
-Moderator analysis grouping studies with sample size greater than 60 as large (n=21) and below 60 as small (N=13). The article reports the difference between the subgroups' effect sizes was statistically non-significant. No effect size for the moderator contrast is printed, so impact is null.
+Moderator analysis grouping studies with sample size greater than 60 as large (n=21) and below 60 as small (N=13). The article reports the difference between the subgroups' effect sizes was statistically non-significant. No effect size for the moderator contrast is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "However, the difference between the large and small studies effects sizes proved to be statistically non-significant (Q= 0.35, p> 0.05)."
 

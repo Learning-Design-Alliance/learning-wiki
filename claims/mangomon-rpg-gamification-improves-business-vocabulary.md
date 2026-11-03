@@ -67,3 +67,4 @@ The design is a single group of 21 students tested before and after, with no com
 - [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](multimedia-improves-size-vocabulary-thai-third-grade.md) — related
 - [The treatment group's vocabulary size increased significantly from pre-test to post-test, by about 17 correct answers](treatment-group-significant-prepost-vocabulary-gain.md) — related
 - [Both the situated learning group and the traditional instruction group improved significantly from pre-test to post-test in vocational English vocabulary](both-groups-significant-pretest-posttest-gains-vocational-english.md) — related
+- [Students showed significant improvement in vocabulary recognition and understanding from pre-test to post-test over the seven-week module](vks-pre-post-significant-improvement.md) — related

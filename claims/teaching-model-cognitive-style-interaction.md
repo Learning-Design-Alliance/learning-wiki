@@ -52,3 +52,4 @@ Omnibus interaction term (A*B) in the two-way ANOVA of the 2×2 quasi-experiment
 - [Guided inquiry's advantage over conventional teaching holds for reflective but not impulsive students](guided-inquiry-advantage-reflective-only.md) — a narrower finding that bears on this claim
 - [Learning style and form of teaching show no statistically significant interaction effect on university students' academic achievement](no-learning-style-form-interaction-on-achievement.md) — reports the opposite
 - [Guided inquiry learning yields higher fifth-grade science achievement than conventional teaching](guided-inquiry-beats-conventional-science-achievement.md) — related
+- [The interaction between learning model and learning style on emotional intelligence is not significant](model-by-learning-style-interaction-not-significant.md) — related

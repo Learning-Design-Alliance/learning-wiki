@@ -37,7 +37,7 @@ Aydar M. Kalimullin, Elena A. Kuvaldina & Julia Koinova-Zoellner. (2016). Adoles
 
 `q2 · i?` · `causal · r1`
 
-Control-stage comparison in the same pedagogical experiment: the control group's percentages remained 30% low, 70% medium, 0% high on both methods. The article reports no significant changes; no effect size is printed, so impact is null.
+Control-stage comparison in the same pedagogical experiment: the control group's percentages remained 30% low, 70% medium, 0% high on both methods. The article reports no significant changes; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "There were no significant changes determined for the control group. Results changed in respect of quantity but within the level specified during the ascertaining stage of experiment."
 

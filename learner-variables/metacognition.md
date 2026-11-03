@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 172 claims (109 show a difference, 37 mixed, 26 no difference) · 123 studies (56 causal, 18 associational, 16 review, 11 theoretical, 10 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 123 report an effect size · 171 claims rest on one study
+> **Evidence** · 174 claims (111 show a difference, 37 mixed, 26 no difference) · 124 studies (57 causal, 18 associational, 16 review, 11 theoretical, 10 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 124 report an effect size · 173 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -214,6 +214,8 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](../claims/metacognitive-training-increases-writing-self-monitoring.md) [+W] — instruction changes it
 - [Quiz-and-reflection and extended-quiz conditions show no significant difference in self-reported metacognitive self-regulation](../claims/quiz-reflection-vs-extended-quiz-self-regulation-no-difference.md) [-M] — instruction changes it
 - [Metacognitive awareness and planning level show no significant interactive effects on fluency](../claims/no-interaction-metacognitive-awareness-planning-fluency.md) [-M] — an instructional effect differs with it
+- [Problem difficulty level relates to metacognitive knowledge level: the more difficult the problem, the higher the metacognitive knowledge required](../claims/problem-difficulty-metacognitive-level.md) [+W] — learners who differ on it differ in outcomes
+- [Sketch knowledge strategy produces significantly higher metacognitive knowledge test scores than target variable strategy in physics teaching](../claims/sks-beats-tvs-metacognitive-knowledge.md) [+M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

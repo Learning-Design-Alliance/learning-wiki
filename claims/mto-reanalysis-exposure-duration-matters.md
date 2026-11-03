@@ -37,7 +37,7 @@ Roy, A. L., McCoy, D. C., & Raver, C. C. (2014). Instability Versus Quality: Res
 
 `q2 · i?` · `associational · r2`
 
-This is second-hand evidence cited in the article's discussion, reported as the article attributes it (citing Leventhal & Dupéré, 2011). The article offers it as support for the interpretation that residential mobility affects children by altering exposure to stressful neighborhood environments. No effect sizes are printed, so impact is null.
+This is second-hand evidence cited in the article's discussion, reported as the article attributes it (citing Leventhal & Dupéré, 2011). The article offers it as support for the interpretation that residential mobility affects children by altering exposure to stressful neighborhood environments. No effect sizes are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "A recent reanalysis of Moving to Opportunity data provides support for this result by finding that positive program impacts on girls' mental health and behavior were related to length of time spent exposed to low-poverty neighborhoods (Leventhal & Dupéré, 2011)."
 

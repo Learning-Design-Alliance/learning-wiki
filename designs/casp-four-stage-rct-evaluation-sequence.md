@@ -49,6 +49,7 @@ A lesson/unit-level instructional pattern for teaching critical appraisal of cli
 
 - [Teacher's guide structure for reciprocal-teaching lessons](reciprocal-teaching-teachers-guide-structure.md)
 - [Cyclic model of computer modeling stages culminating in computing experiment](cyclic-computer-modeling-stages.md)
+- [TTPS lesson sequence: homework check, introductory task, individual then collaborative problem work, whole-class discussion, and closure](ttps-lesson-sequence-pattern.md)
 
 ## Examples
 -

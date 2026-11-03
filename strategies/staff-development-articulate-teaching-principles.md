@@ -47,6 +47,7 @@ The article recommends that university teachers articulate their theories and be
 - [Embed explicit reflection on epistemic beliefs within constructivist teaching practice so beliefs evolve through enacted epistemic cognition](embed-epistemic-reflection-in-teaching-practice.md)
 - [Adopt flipped classroom instruction, with particular attention to at-risk students, supported by institutional infrastructure and teacher video-design training](adopt-flipped-classroom-at-risk-infrastructure-strategy.md)
 - [Train instructors in learner-centered practices through modules emphasizing collaboration, interaction, and caring about students](instructor-training-modules-learner-centered-practices.md)
+- [Institutional supports for adopting collaborative teaching: curriculum integration, teacher motivation, and continuous evaluation](institutional-supports-collaborative-teaching-adoption.md)
 
 ## Examples
 -

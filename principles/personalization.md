@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 111 claims (60 for, 42 mixed, 9 against) · 111 studies (33 review, 26 causal, 13 theoretical, 11 associational, 11 qualitative, 9 design, 8 quant-synthesis), `q1`–`q4` · 9 of 111 report an effect size · 106 claims rest on one study
+> **Evidence** · 112 claims (60 for, 42 mixed, 10 against) · 112 studies (33 review, 27 causal, 13 theoretical, 11 associational, 11 qualitative, 9 design, 8 quant-synthesis), `q1`–`q4` · 9 of 112 report an effect size · 107 claims rest on one study
 
 ## Conditional relationship
 
@@ -221,6 +221,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [An interactive, tailored Web-based smokeless tobacco intervention achieved higher quit rates than a linear, text-based website](../claims/interactive-tailored-website-higher-quit-rates.md) [+W]
 - [Tailoring was utilized at a surprisingly low level in the reviewed Web-based substance use interventions](../claims/tailoring-utilization-surprisingly-low.md) [~W]
 - [Teacher-participants differed considerably in their preferred lesson structure, with one teacher conceptualising structure as best fit for a given student rather than best practice](../claims/teacher-preferences-differ-lesson-structure.md) [+W]
+- [Learning-styles-based adaptive tutoring did not increase academic achievement relative to conventional computer-based tutoring in EFL](../claims/learning-styles-tutoring-no-achievement-gain-efl.md) [-W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

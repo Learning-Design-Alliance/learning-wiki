@@ -50,3 +50,5 @@ Finding 2 of the equivalent-group experiment: the 40-student control group in Sh
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — possibly the same claim (merge candidate)
 - [Gadget Based Learning is more effective than conventional method in learning English grammar at standard II in both an aided and a government school](gadget-based-learning-more-effective-grammar-standard-ii.md) — related
 - [Experimental groups showed significant pre-to-post gains in English grammar achievement after gadget-based learning in Shri Vani Vilas Middle School](gadget-significant-gain-shri-vani-vilas.md) — related
+- [Discovery learning strategies produce significant achievement gains in English grammar for standard V learners compared with conventional methods](discovery-learning-effective-english-grammar-standard-v.md) — related
+- [Standard V pupils show low pre-test achievement in English grammar under conventional methods relative to the experimental group](pre-test-low-achievement-conventional-grammar.md) — related

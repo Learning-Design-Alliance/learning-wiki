@@ -37,7 +37,7 @@ Molenaar, I., Chiu, M. M., Sleegers, P., & van Boxtel, C. (2011). Scaffolding of
 
 `q3 · i?` · `causal · r2`
 
-Multivariate, multilevel regression (N=54, 18 triads) predicting metacognitive knowledge; both scaffold coefficients were significant in Model 1 (1.98 and 2.19 points, "**" printed). No standardized effect size is printed, so impact is null.
+Multivariate, multilevel regression (N=54, 18 triads) predicting metacognitive knowledge; both scaffold coefficients were significant in Model 1 (1.98 and 2.19 points, "**" printed). No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Students in the structuring and problematizing conditions outscored students in the control condition by 1.98 or 2.19 points respectively on the metacognitive knowledge test on average"
 

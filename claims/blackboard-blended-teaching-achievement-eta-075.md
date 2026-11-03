@@ -50,7 +50,7 @@ Wadha H. Al-Otaibi. (2017). The Effectiveness of Blackboard-Based Blended Teachi
 
 `q2 · i?`
 
-Effect-size estimation reported in the Results and Discussion section of the same quasi-experiment; the article states η² = 0.75 and calls it "a very high rate (Abo Hatab & Sadiq, 1996)". No standardized d is printed, so impact is null.
+Effect-size estimation reported in the Results and Discussion section of the same quasi-experiment; the article states η² = 0.75 and calls it "a very high rate (Abo Hatab & Sadiq, 1996)". No standardized d is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "To evaluate the effectiveness of the proposed design in the development of the academic achievement, eta squared (η2) was estimated; it rated (0.75). It is the rate which the independent variable (blended teaching) represents the total variance of the dependent variable (academic achievement)."
 -->
@@ -69,3 +69,4 @@ Effect-size estimation reported in the Results and Discussion section of the sam
 - [The review reports that a blended learning model contributed more to high school students' biology achievement than traditional teaching methods](blended-learning-beats-traditional-biology-achievement-review.md) — a narrower finding that bears on this claim
 - [Blended learning produced higher post-achievement in third-grade science than traditional teaching, explaining 16.9% of variance](blended-learning-beats-traditional-third-grade-science-achievement.md) — related
 - [Blended teaching produced significantly higher mathematics achievement than traditional teaching among third graders, accounting for 32.6% of posttest variance](blended-teaching-third-grade-maths-achievement.md) — related
+- [Second graders learning multiplication with the JCLS rated constructivist learning significantly higher than the blackboard control group](jcls-higher-constructivist-learning-than-blackboard.md) — related

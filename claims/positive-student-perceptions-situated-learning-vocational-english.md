@@ -47,3 +47,4 @@ Qualitative descriptive (thematic) analysis of semi-structured interviews with s
 ## Related Claims
 - [Students reported that ABSL activities helped them understand subjects better, learn permanently, become more active, and increased their interest and attitudes towards social studies](absl-student-views-positive-outcomes.md) — related
 - [Students report that daily-life WebQuest tasks made learning fun and that group work strengthened solutions and motivation](student-opinions-webquest-daily-life-groupwork.md) — related
+- [Participants perceived the PCR class as beneficial in four areas: awareness of social factors, indirect strategies, nonverbal communication, and a motivating atmosphere](pcr-perceived-benefits-four-areas.md) — related

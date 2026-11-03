@@ -52,3 +52,4 @@ SEM path analysis of the 639 valid responses supports H2 (PU→BI) and H3 (PEOU�
 - [Service quality positively influences perceived usefulness but not perceived ease of use of m-learning apps outside the classroom](service-quality-predicts-pu-not-peou.md) — related
 - [Perceived ease of use has a positive significant effect on perceived usefulness of mobile library applications](peou-positive-effect-pu-mla.md) — related
 - [Students found the inquiry-based mobile learning environment interest-generating, citing integration, ease of use, learning outside the classroom, and collaboration, with no sign of a novelty effect wearing off](students-found-mobile-environment-interest-generating.md) — related
+- [Children perceived the JCLS as highly useful and easy to use, with PU and PEOU means near the scale maximum](jcls-high-perceived-usefulness-ease-of-use.md) — related

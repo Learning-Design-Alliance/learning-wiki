@@ -52,3 +52,5 @@ Meta-analysis of 54 effect sizes from 38 experimental studies with control class
 - [RME is more effective in Indonesia, Malaysia, Turkey, and Thailand than in Greece and the United States](rme-effect-varies-by-country.md) — related
 - [Class capacity does not significantly moderate the effect of RME on mathematical literacy](class-capacity-no-moderating-effect-rme-literacy.md) — related
 - [RME combined with mathematical software yields larger effects than RME alone or RME with other methods](rme-plus-math-software-larger-effect.md) — related
+- [Students taught with culture-based RME show better character than students taught with conventional mathematics education](rme-culture-based-better-character.md) — related
+- [The gain (enhancement) in critical mathematical thinking skills is larger under culture-based RME than under conventional education](rme-culture-based-larger-critical-thinking-gain.md) — a narrower finding that bears on this claim

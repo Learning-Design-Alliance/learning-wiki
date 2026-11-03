@@ -37,7 +37,7 @@ Chrysi Rapanta & Mark K. Felton. (2022). Learning to Argue Through Dialogue: a R
 
 `q2 · i?` · `review · r3`
 
-The review's own cross-tabulation analysis of dialogue approach × dialogue task across 143 coded studies, tested with Fisher's exact test and Cramer's V, with adjusted standardized residuals of +/−2 identifying contributing cells. The authors report the test "yielded significant results (p < .0001)"; the article prints no standardised effect size convertible to the wiki's impact scale, so impact is null. The four relationships were identified as study patterns.
+The review's own cross-tabulation analysis of dialogue approach × dialogue task across 143 coded studies, tested with Fisher's exact test and Cramer's V, with adjusted standardized residuals of +/−2 identifying contributing cells. The authors report the test "yielded significant results (p < .0001)"; the article prints no standardised effect size convertible to the wiki's impact scale, so impact is coded i? (no magnitude reported; not a null effect). The four relationships were identified as study patterns.
 
 > "The test yielded significant results (p < .0001), with a moderate effect size ( φc =. 4 2 9 )."
 

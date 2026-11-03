@@ -37,7 +37,7 @@ Jennings, P. A., Brown, J. L., Frank, J. L., Doyle, S., Oh, Y., Davis, R., Rashe
 
 `q3 · i?` · `causal · r2`
 
-The abstract reports the trial's headline teacher outcomes: "statistically significant direct positive effects on adaptive emotion regulation, mindfulness, psychological distress, and time urgency". No effect sizes are printed in the supplied text, so impact is null.
+The abstract reports the trial's headline teacher outcomes: "statistically significant direct positive effects on adaptive emotion regulation, mindfulness, psychological distress, and time urgency". No effect sizes are printed in the supplied text, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Analyses showed that CARE for Teachers had statistically significant direct positive effects on adaptive emotion regulation, mindfulness, psychological distress, and time urgency."
 

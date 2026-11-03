@@ -37,7 +37,7 @@ Robinson Katie, Riley Nicholas, Owen Katherine, Drew Ryan, Mavilidi Myrto F., Hi
 
 `q3 · i?` · `quant-synthesis · r3`
 
-Moderator analyses within the primary meta-analysis: children (5–9 y, k = 1) showed SMD −0.01 and adolescents (10–18 y, k = 9) SMD 0.19; acute (SMD 0.16) and chronic (SMD 0.22) designs produced similar effects. No effect sizes for the moderation itself are printed, so impact is null.
+Moderator analyses within the primary meta-analysis: children (5–9 y, k = 1) showed SMD −0.01 and adolescents (10–18 y, k = 9) SMD 0.19; acute (SMD 0.16) and chronic (SMD 0.22) designs produced similar effects. No effect sizes for the moderation itself are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Age did not moderate the effect of resistance training on academic outcomes (R2 = 0.01)."
 

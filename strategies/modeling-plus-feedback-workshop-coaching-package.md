@@ -49,6 +49,7 @@ The article recommends training that includes modeling (in-person or video demon
 
 - [Instructional Coaching](instructional-coaching.md)
 - [Provide coaching and performance feedback to teachers after initial training to sustain knowledge and skills](post-training-coaching-and-performance-feedback.md)
+- [Lighthouse train-the-trainers strategy: phase-by-phase demonstration, return teaching, and a seven-step workshop sequence with follow-up seminars](cle-lighthouse-train-the-trainers-strategy.md)
 
 ## Examples
 -

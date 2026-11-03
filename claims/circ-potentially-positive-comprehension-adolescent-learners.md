@@ -38,7 +38,7 @@ Cooperative Integrated Reading and Composition®. (2010). WWC Intervention Repor
 
 `q2 · i?` · `quant-synthesis · r1`
 
-Systematic review (WWC Adolescent Literacy protocol, Version 2.0) computing improvement indices from two quasi-experiments meeting standards with reservations. The report states the "average improvement index for comprehension is +7 percentile points"; the improvement index is a percentile-rank difference, not a standardised effect size, so impact is null.
+Systematic review (WWC Adolescent Literacy protocol, Version 2.0) computing improvement indices from two quasi-experiments meeting standards with reservations. The report states the "average improvement index for comprehension is +7 percentile points"; the improvement index is a percentile-rank difference, not a standardised effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The average improvement index for comprehension is +7 per-centile points, with a range of +3 to +11 percentile points across findings from two studies."
 

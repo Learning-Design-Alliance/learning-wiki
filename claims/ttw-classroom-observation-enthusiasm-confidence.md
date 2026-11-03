@@ -62,3 +62,5 @@ Authors' qualitative class observations during the treatment (students' activiti
 - [The authors report that multimedia use appeared to include more students in the learning process and increase interest, motivation and participation](multimedia-engagement-observation.md) — related
 - [In the creative drama group, students interacted more intensely, listened more diligently, and showed more harmonious and enthusiastic behavior than in the comparison groups](creative-drama-group-more-interaction-enthusiasm.md) — related
 - [Teacher observations and student opinions indicated relatively positive attitudes toward using animations in vocabulary learning](positive-attitudes-toward-animation-vocabulary-learning.md) — related
+- [Instructional resources increased pupil concentration, enthusiasm and class participation in observed lessons](instructional-resources-boost-concentration-participation.md) — related
+- [The author attributes the speaking gains to increased enthusiasm, openness and reduced boredom under integrative teaching](integrative-teaching-motivation-interpretation.md) — related

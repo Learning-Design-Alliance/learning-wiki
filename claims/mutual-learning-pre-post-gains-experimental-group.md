@@ -90,3 +90,4 @@ Comparison of the experimental group's two post-tests (68 vs. 70 as printed). Th
 - [The experimental group's achievement scores rose significantly from pre-test to post-test under the technology-supported program](experimental-group-significant-pretest-posttest-gain.md) — related
 - [The experimental group's Mathematics achievement rose significantly from pre-test to post-test after multimedia instruction](multimedia-group-significant-pre-post-gain-mathematics.md) — related
 - [Experimental-group students' listening comprehension scores rose significantly from pre-test to post-test after interactive whiteboard instruction with visual materials](iwb-visual-within-group-gain.md) — related
+- [Both the adaptive and the conventional tutoring groups achieved significantly higher post-test than pre-test scores](within-group-pre-post-gains-both-groups.md) — related

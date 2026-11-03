@@ -38,7 +38,7 @@ J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowi
 
 `q3 · i?` · `causal · r2`
 
-Experiment 3: comparison of untrained older adults before training with a naive younger group (n = 18; ages 20–29) on the neural assessment version of NeuroRacer. Main effect of group on both measures; no effect size printed, so impact is null. The absence of a condition × age interaction indicated a general age-related reduction.
+Experiment 3: comparison of untrained older adults before training with a naive younger group (n = 18; ages 20–29) on the neural assessment version of NeuroRacer. Main effect of group on both measures; no effect size printed, so impact is coded i? (no magnitude reported; not a null effect). The absence of a condition × age interaction indicated a general age-related reduction.
 
 > "Both neural measures showed a main effect of group (see Supplementary Fig. 8), indicating less theta power and coherence in older adults when pro-cessing signs in either condition ('sign and drive' depicted in Fig. 4a, b)"
 

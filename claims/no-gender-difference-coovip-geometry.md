@@ -53,3 +53,5 @@ t-test comparing 15 male and 15 female students in the cooperative group; means 
 - [No significant gender difference in performance among undergraduates exposed to e-learning](no-gender-difference-elearning-performance.md) — related
 - [Video-based instructional strategy produces significant post-test performance differences among cooperative, competitive, individualized, and conventional groups in geometry](video-based-strategy-posttest-differences-geometry.md) — related
 - [Gender did not significantly influence the achievement of Nigerian SS1 students taught the mole concept with mastery learning instructional strategy.](mastery-learning-gender-no-significant-effect-mole-concept.md) — related
+- [No significant gender difference in achievement among students taught solid geometry with animation-with-narration CAI](no-gender-difference-an-cai.md) — a narrower finding that bears on this claim
+- [No significant gender difference in achievement among students taught solid geometry with animation-with-text CAI](no-gender-difference-at-cai.md) — related

@@ -37,7 +37,7 @@ Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI
 
 `q3 · i?` · `associational · r1`
 
-Null moderation results from the Results section (Table 2) of the 432-participant study; only p-values are printed, with no effect size, so impact is null. Equivalence was not tested.
+Null moderation results from the Results section (Table 2) of the 432-participant study; only p-values are printed, with no effect size, so impact is coded i? (no magnitude reported; not a null effect). Equivalence was not tested.
 
 > "The interactions for programming self-efficacy (p=.121) and programming literacy (p=.437) were not statistically distinguishable from zero, providing limited evidence in this task that these characteristics altered how trust related to appropriate reliance."
 

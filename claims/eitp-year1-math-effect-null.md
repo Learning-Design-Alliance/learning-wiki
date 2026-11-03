@@ -37,7 +37,7 @@ Matthew P. Steinberg and Lauren Sartain. (2015). Does Teacher Evaluation Improve
 
 `q3 · i?` · `causal · r2`
 
-Experimental intent-to-treat estimate from the randomized comparison (table 7, full model with school characteristics, baseline math, and area fixed effects). The 0.05 SD math coefficient (standard error 0.0542) is reported as not statistically significant; no standardized effect size beyond the descriptive coefficient is printed, so impact is null.
+Experimental intent-to-treat estimate from the randomized comparison (table 7, full model with school characteristics, baseline math, and area fixed effects). The 0.05 SD math coefficient (standard error 0.0542) is reported as not statistically significant; no standardized effect size beyond the descriptive coefficient is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "At the end of the ﬁrst year of implementation (2008–09), the effect we ﬁnd in math is 0.05 standard deviations, but it is not signiﬁcantly different from zero (see column 4 of table 7)."
 

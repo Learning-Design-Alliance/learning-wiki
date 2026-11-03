@@ -37,7 +37,7 @@ Jonathan Nakamoto, Sandy Sobolew-Shubin, Martin Orland. (2015). The Beaverton Sc
 
 `q3 · i?` · `causal · r2`
 
-Exploratory CCU analyses in 12 schools; Exhibit E-2 prints grade 3 effect sizes of 0.22, 0.24, and 0.14, none reaching significance at the Benjamini-Hochberg-adjusted thresholds. Only the test outcomes are printed, so impact is null.
+Exploratory CCU analyses in 12 schools; Exhibit E-2 prints grade 3 effect sizes of 0.22, 0.24, and 0.14, none reaching significance at the Benjamini-Hochberg-adjusted thresholds. Only the test outcomes are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The students in grade 3 had higher scores than the control students in years 1 through 3 and, based on the effect sizes, the impacts would be considered small positive program impacts. However, none of the differences concerning grade 3 students were statistically significant."
 

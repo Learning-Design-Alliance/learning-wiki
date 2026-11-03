@@ -37,7 +37,7 @@ McElhaney, K. W., & Kamdar, D. (2024). Updated summary and synthesis of OpenSciE
 
 `q2 · i?` · `review · r2`
 
-The review reports, citing Kelly (2023), a comparison of standardized test scores in science, math, and ELA using achievement data from approximately 1,600 students and interviews with 23 teachers in a single district. No effect size is printed, so impact is null.
+The review reports, citing Kelly (2023), a comparison of standardized test scores in science, math, and ELA using achievement data from approximately 1,600 students and interviews with 23 teachers in a single district. No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The analysis found greater growth in science achievement for the OpenSciEd classrooms relative to the non-OpenSciEd classrooms."
 

@@ -37,7 +37,7 @@ Kaprea F Johnson. (2013). The Cumulative Effect of Hyperactivity and Peer Relati
 
 `q3 · i?` · `associational · r1`
 
-Multiple regression analysis of 91 elementary students in an after-school program, using SDQ student-report subscales and the GORT-4 comprehension score. The model explained 9.8% of variance, F (3, 80) =2.88, p=.04, with "peer problems was the only statistically significant variable (beta= -.309, p<.01)". No standardized effect size is printed, so impact is null.
+Multiple regression analysis of 91 elementary students in an after-school program, using SDQ student-report subscales and the GORT-4 comprehension score. The model explained 9.8% of variance, F (3, 80) =2.88, p=.04, with "peer problems was the only statistically significant variable (beta= -.309, p<.01)". No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The model with three independent variables (hyperactivity, conduct problems, and peer problems) explained 9.8% of the variance in re ading comprehension scores (see Table 1), F (3, 80) =2.88, p=.04. In the model, peer problems was the only statistically significant variable (beta= -.309, p<.01)."
 

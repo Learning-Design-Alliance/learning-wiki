@@ -18,7 +18,7 @@ sources:
 # Keep the learner in control of the information flow with on-demand tools and supports
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (10 for, 12 mixed, 2 against) · 24 studies (10 causal, 4 quant-synthesis, 3 review, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 3 of 24 report an effect size · 22 claims rest on one study
+> **Evidence** · 25 claims (11 for, 12 mixed, 2 against) · 25 studies (11 causal, 4 quant-synthesis, 3 review, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 3 of 25 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,7 @@ Use of a help, assisted performance, unaided immediate performance, delayed rete
 - [In the responsive condition, learners requested less than half of the information the PAL was designed to deliver](../claims/responsive-pal-requests-underused.md) [~W]
 - [Students frequently used on-demand help ineffectively, and raw help frequency correlated negatively with learning gains](../claims/ineffective-help-seeking-log-data-findings.md) [~W]
 - [On-demand ITS features (worked-out examples, on-demand hints) show significant effects, suggesting student choice enhances learning](../claims/its-on-demand-features-significant-effects.md) [+W]
+- [The gloss-giver group outscored the receiver and control groups on the fill-in-the-blank test at the posttests](../claims/giver-group-best-fill-in-blank-posttests.md) [+W]
 
 ## Related Principles
 - [Segmenting](segmenting.md) — cutting a continuous scene into pieces and deciding who sets the pauses; this page assumes it and adds the content helps.

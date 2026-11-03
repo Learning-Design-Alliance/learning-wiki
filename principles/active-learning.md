@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 78 claims (44 for, 31 mixed, 3 against) · 63 studies (26 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 9 of 63 report an effect size · 70 claims rest on one study
+> **Evidence** · 79 claims (45 for, 31 mixed, 3 against) · 64 studies (27 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 9 of 64 report an effect size · 71 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,7 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [The read-note-and-discuss task type ranked highest, followed by read-and-discuss, with read-and-think and read-and-write equal](../claims/read-note-discuss-task-type-highest-reading-performance.md) [+W] — attached 2026-11-02 from Mozhgan Madhkhan et al. (2017), which proposed "Replace traditional post-reading comprehension questions with pre-planned task-based reading activities".
 - [Active learning activities produce higher post-test achievement than traditional direct instruction in a fifth-grade English unit](../claims/active-learning-higher-posttest-achievement-my-town-unit.md) [+W] — attached 2026-11-02 from Yenen et al. (2019), which proposed "Sustain active learning activities across the school year rather than a single unit to realize achievement gains"; tests this page's relationship.
 - [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](../claims/active-learning-permanence-effect-my-town-unit.md) [+W] — attached 2026-11-02 from Yenen et al. (2019), which proposed "Sustain active learning activities across the school year rather than a single unit to realize achievement gains"; tests this page's relationship.
+- [Observations of the JCLS experimental group showed high rates of active hands-on practice, repeated answering attempts, joyful reactions and a hedonic atmosphere](../claims/jcls-observation-indicators-high.md) [+W] — attached 2026-11-03 from Wei et al. (2011), which proposed "Give every learner an equal, fair opportunity for hands-on practice with immediate feedback".
 
 ## Objective and learner-valued goal
 
@@ -218,6 +219,7 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [Design laboratories to satisfy all five cooperative-learning conditions](../patterns/cooperative-learning.md)
 
 ## Examples
+
 - Learners solve, discuss, and compare approaches instead of only hearing a lecture.
 - A lesson pauses for prediction, retrieval, or explanation before moving on.
 - [Pigelleto's Summer School of Physics: a full-immersion orientation program for high-school students](../elements/pigelleto-summer-school-physics.md)
@@ -225,6 +227,7 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [I Notice I Wonder](../strategies/i-notice-i-wonder.md)
 - [Logic Puzzles](../strategies/logic_puzzles.md)
 - [Electricity and Circuit Tasks](../strategies/electricity_and_circuit_tasks.md)
+- [Experimenting and Discussion (ED) learning package](../designs/ed-learning-package.md)
 
 ## Key Sources
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *Proceedings of the National Academy of Sciences, 111*(23), 8410-8415. [https://doi.org/10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)

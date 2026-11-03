@@ -37,7 +37,7 @@ Avivit Arvatz, Boaz Hadas, Rotem Waitzman, Yehudit Judy Dori (2025). Putting sel
 
 `q2 · i?` · `qualitative · r2`
 
-Pre-intervention self-report analysis of SQsrl data from Adam's cohort (49 of 70 completed) and Ben's cohort (31 of 31). Adam's mean sum was 45.71 (S.D. = 11.01), Ben's 52.06 (S.D. = 8.31); "In both cohorts, reflection FOR action was the lowest SRL skill, while help-seeking was the highest." No effect size is printed for the factor contrast, so impact is null.
+Pre-intervention self-report analysis of SQsrl data from Adam's cohort (49 of 70 completed) and Ben's cohort (31 of 31). Adam's mean sum was 45.71 (S.D. = 11.01), Ben's 52.06 (S.D. = 8.31); "In both cohorts, reflection FOR action was the lowest SRL skill, while help-seeking was the highest." No effect size is printed for the factor contrast, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "In both cohorts, reflection FOR action was the lowest SRL skill, while help-seeking was the highest. In Adam's cohort 49 out of 70 students completed the SQsrl, while in Ben's cohort all students (31 out of 31) completed the SQsrl."
 

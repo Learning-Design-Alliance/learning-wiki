@@ -47,3 +47,4 @@ Independent-sample t-test comparing post-test scores of the 25-student experimen
 ## Related Claims
 - [The paper-based control group showed no statistically significant change in reading test scores over the term](control-group-no-within-group-gain-reading.md) — related
 - [Within the experiment group, six weeks of online reading tasks produced no statistically significant change in reading test scores](online-tasks-no-within-group-gain-experiment.md) — related
+- [Learning-styles-based adaptive tutoring did not increase academic achievement relative to conventional computer-based tutoring in EFL](learning-styles-tutoring-no-achievement-gain-efl.md) — related

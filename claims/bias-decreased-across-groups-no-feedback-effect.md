@@ -58,3 +58,4 @@ Conditional linear mixed model on absolute monitoring accuracy showed measuremen
 - [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related
 - [Trained ninth-graders became more critical toward less reliable links than controls, with the effect persisting three weeks for the least reliable (bad) links](sourcing-intervention-lower-ratings-less-reliable-links.md) — related
 - [Measured climate science knowledge significantly decreased pre- to post-intervention in all three groups, including controls](climate-knowledge-decreased-all-groups.md) — related
+- [Interest and self-concept measures decrease between pre- and post-tests regardless of intervention, making a control group essential for interpretation](questionnaire-effect-decreases-require-control-group.md) — a narrower finding that bears on this claim

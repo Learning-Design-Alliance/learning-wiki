@@ -38,7 +38,7 @@ Lesselroth Blake, Riese Janik, Yang Zhichao, Jaleel Shahila, Shabbir Waqas, Jale
 
 `q3 · i?` · `quant-synthesis · r2`
 
-Meta-analysis of 53 studies using a random-effects inverse-variance model found ChatGPT-4.0 "achieving a pooled accuracy of 81.8%, compared to ChatGPT-3.5's 60.8%" in medical licensing exams. No standardized effect size is printed for this contrast, so impact is null.
+Meta-analysis of 53 studies using a random-effects inverse-variance model found ChatGPT-4.0 "achieving a pooled accuracy of 81.8%, compared to ChatGPT-3.5's 60.8%" in medical licensing exams. No standardized effect size is printed for this contrast, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "ChatGPT-4 outperformed ChatGPT-3.5 in medical licensing exams, achieving a pooled accuracy of 81.8%, compared to ChatGPT-3.5's 60.8%."
 

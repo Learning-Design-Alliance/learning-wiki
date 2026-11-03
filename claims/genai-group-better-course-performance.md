@@ -56,7 +56,7 @@ Haifang Liu. (2026). AI-enhanced legal pedagogy: a case study of generative AI i
 
 `q2 · i?` · `causal · r2`
 
-Chi-square analysis of final course grade distributions (Fig. 5); the article prints χ2 and p but no standardized effect size for this contrast, so impact is null.
+Chi-square analysis of final course grade distributions (Fig. 5); the article prints χ2 and p but no standardized effect size for this contrast, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "67% of experimental subjects to earn a course grade of B+ and higher as opposed to 42% of controls (χ 2 = 11.34, p = .001)"
 

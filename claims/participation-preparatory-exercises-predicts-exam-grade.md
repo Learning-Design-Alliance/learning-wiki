@@ -37,7 +37,7 @@ Baumgartner, V., Daguati, S., Trninic, D., Akveld, M., Caspar, A., Hungerbühler
 
 `q3 · i?` · `design · r3`
 
-Linear regressions on the volunteered subsample (e.g. Year 1 n = 269 to Year 4 n = 273 per Table 7), participation scored 0–10. Bayesian regressions confirmed the results with BF10 between 11.80 and 10^9 and R² values between 0.03 and 0.16; at least 3% of exam-performance variance was explained by participation. No standardized effect size is printed, so impact is null.
+Linear regressions on the volunteered subsample (e.g. Year 1 n = 269 to Year 4 n = 273 per Table 7), participation scored 0–10. Bayesian regressions confirmed the results with BF10 between 11.80 and 10^9 and R² values between 0.03 and 0.16; at least 3% of exam-performance variance was explained by participation. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Linear regressions for each of the intervention years showed that the number of preparatory exercises the students participated in significantly predicted their exam grade with coefficients β between 0.16 and 0.31."
 

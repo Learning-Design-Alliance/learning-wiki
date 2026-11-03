@@ -12,7 +12,7 @@ generated:
 # Dual Coding Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 19 claims (16 for, 3 mixed) · 16 studies (10 causal, 5 review, 1 qualitative), `q1`–`q3` · 0 of 16 report an effect size · 19 claims rest on one study
+> **Evidence** · 20 claims (17 for, 3 mixed) · 17 studies (11 causal, 5 review, 1 qualitative), `q1`–`q3` · 0 of 17 report an effect size · 20 claims rest on one study
 
 ## Description
 Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems. Learning can improve when instruction coordinates language with meaningful imagery or other visual representation.
@@ -44,6 +44,7 @@ Dual Coding Theory proposes that verbal and nonverbal information can be process
 - [Intermediate EFL learners who watched BBC World clips with bimodal English subtitles significantly outperformed the no-subtitle and control groups on a vocabulary posttest](../claims/bimodal-subtitles-outperform-vocabulary-posttest.md) [+W] — attached 2026-11-02 from Effat Heidari Sirmandi (2016), which proposed "Dual coding theory as the theoretical basis for bimodal subtitling effects on vocabulary learning".
 - [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](../claims/multimedia-improves-size-vocabulary-thai-third-grade.md) [+W] — attached 2026-11-03 from Mathukorn Jingjit (2015), which proposed "Mayer's cognitive theory of multimedia learning: dual channels and three cognitive processes"; tests this page's relationship.
 - [Visualisation strategies significantly improve L2 students' spelling skills compared to traditional memorisation methods.](../claims/visualisation-strategies-improve-l2-spelling-skills.md) [+W] — attached 2026-11-03 from Nahari et al. (2016), which proposed "Visual memory for word images as a mechanism underlying successful spelling.".
+- [Verbal and verbal+visual strategy conditions improve calculation accuracy for both ability groups](../claims/verbal-strategies-improve-calculation-transfer.md) [+W]
 
 ## Related Theories
 

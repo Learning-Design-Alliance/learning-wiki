@@ -50,3 +50,4 @@ Independent samples t-test on pre-test WTC for Debate (52.33) and PI Discussion 
 - [The Debate group showed a larger descriptive gain in Self-Perceived Communicative Competence than the PI group](debate-larger-communicative-competence-gain.md) — related
 - [Debate was more effective than Philosophy Inquiry discussion in enhancing ESL learners' WTC at post-test](debate-more-effective-than-pi-for-wtc.md) — related
 - [Communicative Apprehension increased slightly more in the Debate group than in the PI group](debate-slightly-more-apprehension.md) — related
+- [Before treatment, experimental and control groups did not differ significantly in Willingness to Communicate](cs-study-pretest-no-difference.md) — related

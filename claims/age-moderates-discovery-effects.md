@@ -62,3 +62,4 @@ Age moderator analysis in the unassisted-discovery meta-analysis, Q(2) = 12.29, 
 
 - [Dependent measure moderates discovery effects: acquisition scores amplify the explicit-instruction advantage, and reaction-time measures reverse the enhanced-discovery advantage](dependent-measure-moderates-discovery-effects.md) — related
 - [The advantage of explicit instruction over unassisted discovery is largest in the verbal/social skills domain](domain-moderates-unassisted-discovery-deficit.md) — related
+- [Meta-analytic evidence cited in the article: enhanced discovery learning outperforms other instruction, while unassisted discovery does not benefit learners](minimal-guidance-inquiry-inferior-explicit-instruction.md) — related

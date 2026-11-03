@@ -38,7 +38,7 @@ Dovis, S., Van der Oord, S., Wiers, R.W., & Prins, P.J.M. (2015). ADHD subtype d
 
 `q3 · i?` · `causal · r?`
 
-This is the reinforcement-manipulation result of the experiment comparing a standard level (feedback only) with a high level of reinforcement (feedback + 10 euros) in 27 children with ADHD-I, 70 with ADHD-C, and 40 controls. The article reports that "High reinforcement improved STM and WM performance in both subtypes but not in controls" and that "This improvement was equally pronounced in both subtypes." It also reports that "High reinforcement did not improve CE-related performance." No effect sizes are printed in the supplied text, so impact is null.
+This is the reinforcement-manipulation result of the experiment comparing a standard level (feedback only) with a high level of reinforcement (feedback + 10 euros) in 27 children with ADHD-I, 70 with ADHD-C, and 40 controls. The article reports that "High reinforcement improved STM and WM performance in both subtypes but not in controls" and that "This improvement was equally pronounced in both subtypes." It also reports that "High reinforcement did not improve CE-related performance." No effect sizes are printed in the supplied text, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "High reinforcement improved STM and WM performance in both subtypes but not in controls. This improvement was equally pronounced in both subtypes. High reinforcement did not improve CE-related performance."
 

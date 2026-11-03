@@ -47,7 +47,7 @@ Lehikoinen, H., Väisänen, P., Havu-Nuutinen, S., Lappalainen, K., & Niemivirta
 
 `q2 · i?` · `causal · r1`
 
-Full latent growth model on 146 sixth-graders in a natural experiment comparing co-taught (70 students, 3 classes) and solo-taught (76 students, 4 classes) conditions. Co-taught students received better end-of-year grades; the printed β = 0.25 is a standardised path coefficient, not an effect size, so impact is null.
+Full latent growth model on 146 sixth-graders in a natural experiment comparing co-taught (70 students, 3 classes) and solo-taught (76 students, 4 classes) conditions. Co-taught students received better end-of-year grades; the printed β = 0.25 is a standardised path coefficient, not an effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "the teaching condition predicted teacher-rated grade ( β = 0.25, p = .008), over and above the significant effects of both previous teacher-rated grade (β = 0.62, p < .001) and test performance (β = 0.11, p = .094)"
 

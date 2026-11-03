@@ -36,7 +36,7 @@ Laczko-Kerr, I., & Berliner, D. C. (2002, September 6). The Effectiveness of "Te
 
 `q2 · i?` · `causal · r2`
 
-This review reports, citing Ingersoll (1996) analysis of the School and Staffing Survey, that out-of-field teaching relates to school poverty levels. No effect size is printed for this contrast, so impact is null. It also notes minority and poor students are disproportionately placed in lower-track courses critics claim are taught by the least qualified.
+This review reports, citing Ingersoll (1996) analysis of the School and Staffing Survey, that out-of-field teaching relates to school poverty levels. No effect size is printed for this contrast, so impact is coded i? (no magnitude reported; not a null effect). It also notes minority and poor students are disproportionately placed in lower-track courses critics claim are taught by the least qualified.
 
 > "in no fields did high-poverty schools have less out-of-field teaching than did low poverty schools, while in several fields, students in high poverty schools received distinctively more out-of-field teaching than in low poverty schools"
 

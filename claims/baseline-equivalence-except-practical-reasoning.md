@@ -38,7 +38,7 @@ Carlos Saiz, Silvia F. Rivas. (2016). New Teaching Techniques to Improve Critica
 
 `q2 · i?` · `causal · r1`
 
-Student's t tests on pre-treatment PENCRISAL scores for the 166-student sample (87 in group 1, 79 in group 2). Gender (chi-squared) and age comparisons were also reported as non-significant; no effect size is printed, so impact is null.
+Student's t tests on pre-treatment PENCRISAL scores for the 166-student sample (87 in group 1, 79 in group 2). Gender (chi-squared) and age comparisons were also reported as non-significant; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The results show that at the start intervention groups 1 and 2 only showed significant diffe rences in the practical reasoning factor ( t(164)= 2.125, p =.035). In the rest of the variables and in the total of the scale no statistically significant differences were seen."
 

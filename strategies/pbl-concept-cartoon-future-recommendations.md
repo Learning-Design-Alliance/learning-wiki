@@ -50,6 +50,8 @@ The article closes with three recommendations: future studies should "allow suff
 - [Implement concept cartoons© by following the inquiry working procedure, praising all views, supporting discussion, and letting students practically verify their own assumptions](concept-cartoons-implementation-recommendations.md)
 - [Concept cartoon discussion routine: present, debate viewpoints, then student research without teacher explanation](concept-cartoon-discussion-research-routine.md)
 - [Develop challenging mathematics teaching materials that trigger cognitive conflict alongside PBL implementation](challenging-materials-trigger-cognitive-conflict.md)
+- [Design guidelines for future comics-based reading interventions: four-way analysis, class-specific materials, single trained teacher, longer programme](comics-future-research-guidelines.md)
+- [Design learning activities that develop empathy and emotional intelligence alongside environmental content, and allow time for attitude change](empathy-activities-environmental-attitudes-strategy.md)
 
 ## Examples
 -

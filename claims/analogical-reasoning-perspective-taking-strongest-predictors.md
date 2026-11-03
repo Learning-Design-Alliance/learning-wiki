@@ -37,7 +37,7 @@ Olga Vogel, Marcel Hunecke. (2024). Fostering knowledge integration through indi
 
 `q2 · i?` · `associational · r2`
 
-Same regression model as H1 (Model 1, Table 4). The article prints the ordering of regression coefficients: "Analogical reasoning (b = 0.29) and perspective taking (b = 0.26) demonstrated the highest predictability". The b values are regression coefficients, not standardized effect sizes, so impact is null.
+Same regression model as H1 (Model 1, Table 4). The article prints the ordering of regression coefficients: "Analogical reasoning (b = 0.29) and perspective taking (b = 0.26) demonstrated the highest predictability". The b values are regression coefficients, not standardized effect sizes, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Analogical reasoning (b = 0.29) and perspective taking (b = 0.26) demonstrated the highest predictability in the regression model, followed by tolerance of ambiguity and uncertainty (b = 0.21) and reflexivity (b = 0.12)."
 

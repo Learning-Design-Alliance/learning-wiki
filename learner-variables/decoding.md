@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 142 claims (95 show a difference, 26 mixed, 21 no difference) · 94 studies (30 causal, 28 associational, 22 quant-synthesis, 8 review, 4 design, 2 theoretical), `q1`–`q4` · 31 of 94 report an effect size · 137 claims rest on one study
+> **Evidence** · 143 claims (96 show a difference, 26 mixed, 21 no difference) · 95 studies (31 causal, 28 associational, 22 quant-synthesis, 8 review, 4 design, 2 theoretical), `q1`–`q4` · 31 of 95 report an effect size · 138 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -183,6 +183,7 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [During the SQ3R intervention, students' words read per minute and word recognition percentages improved, with only four students reaching the 120-words-per-minute benchmark](../claims/sq3r-intervention-improved-reading-fluency-and-word-recognition.md) [+M] — instruction changes it
 - [Sam and Pat showed no impacts for five of six subgroups, with a suggestive but non-significant positive effect on word attack decoding for lower-literacy students (effect size = 0.16)](../claims/sam-and-pat-subgroup-lower-literacy-suggestive.md) [-M] — instruction changes it
 - [Talking story books significantly improved Saudi young EFL learners' reading-based phonics skills relative to the control group](../claims/talking-story-books-phonics-skills.md) [+M] — instruction changes it
+- [Paired-associate and articulation-referencing learning processes were related to alphabetic growth](../claims/pal-and-arl-related-to-alphabetic-growth.md) [+M] — instruction changes it
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

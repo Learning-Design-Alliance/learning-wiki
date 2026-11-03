@@ -52,3 +52,4 @@ Logistic regression on the training set (Table 2) shows positive, significant co
 - [ACT scores show a weak relationship with college graduation, with slope variation across high schools larger than the average signal](act-weak-inconsistent-predictor-college-graduation.md) — related
 - [The linear slope of the HSGPA–college graduation relationship does not vary significantly across high schools, so HSGPA provides a consistent signal across schools](hsgpa-slope-consistent-across-schools.md) — related
 - [High school GPA predicts four-year college graduation more strongly than achievement test scores among Chicago graduates](hsgpa-predicts-college-graduation-more-than-tests.md) — related
+- [Students' prior GPA positively predicts the probability of passing the class for at-risk students](prior-gpa-predicts-passing-at-risk.md) — related

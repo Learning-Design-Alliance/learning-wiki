@@ -38,7 +38,7 @@ Dovis, S., Van der Oord, S., Wiers, R.W., & Prins, P.J.M. (2015). ADHD subtype d
 
 `q3 · i?` · `causal · r?`
 
-This is the direct subtype comparison from the experiment with 27 children with ADHD-I and 70 children with ADHD-C aged 9-12. The article reports that "STM and WM performance was worse in ADHD-C than in ADHD-I, whereas CE-related performance did not differ." This dissociation indicates the subtypes differ in STM but not in CE functioning. No effect sizes are printed in the supplied text, so impact is null.
+This is the direct subtype comparison from the experiment with 27 children with ADHD-I and 70 children with ADHD-C aged 9-12. The article reports that "STM and WM performance was worse in ADHD-C than in ADHD-I, whereas CE-related performance did not differ." This dissociation indicates the subtypes differ in STM but not in CE functioning. No effect sizes are printed in the supplied text, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "STM and WM performance was worse in ADHD-C than in ADHD-I, whereas CE-related performance did not differ."
 

@@ -44,6 +44,7 @@ In its limitations and suggestions, the article advises teachers that highlighti
 ## Related Strategies
 
 - [Use controversial political speeches as CDA analysis materials after students master the ten-question model](political-speeches-cda-analysis-materials.md)
+- [Train EFL reading teachers to employ CDA instruction and select useful CDA tools](cda-teacher-training-and-tool-selection-strategy.md)
 
 ## Examples
 -

@@ -45,6 +45,7 @@ The authors recommend that developers of mathematics instructional materials imp
 
 - [Teachers can create interleaved assignments from existing blocked textbook materials by pulling one problem from each of many assignments](build-interleaved-assignments-from-textbook-problems.md)
 - [Include a small block of problems of a new skill at the start of an assignment, then interleave the rest](small-initial-block-then-interleave.md)
+- [Adapt textbook exercises into open-ended, realistic word problems with higher-level reasoning questions](adapt-textbook-tasks-to-realistic-problems.md)
 
 ## Examples
 -

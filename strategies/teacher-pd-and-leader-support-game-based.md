@@ -46,6 +46,7 @@ The article recommends a professional development pathway for teachers adopting 
 - [Provide prolonged, sustained professional development so in-service teachers can deliver digital game-based learning effectively](sustained-professional-development-for-dgbl-teachers.md)
 - [Implement classroom videogame interventions with teacher training, curriculum alignment, extended schedules, and administrative support](videogame-classroom-implementation-recommendations.md)
 - [Implement TGT game-based cooperative learning in after-school programs with adequately trained teachers and extended treatment duration](tgt-after-school-implementation-strategy.md)
+- [Embed generalisation-querying games across the English curriculum with continuity of approach](continuity-gag-across-curriculum.md)
 
 ## Examples
 -

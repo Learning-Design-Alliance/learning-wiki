@@ -16,6 +16,8 @@ sources:
     author: "Seyit Ahmet Çapan & Rumeysa Pektaş"
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: çapan-and-pektaş-2013-2
     resource: "https://doi.org/10.5539/elt.v6n12p181"
     title: "Seyit Ahmet Çapan & Rumeysa Pektaş. (2013). An Empirical Analysis of the Relationship between Foreign Language Reading Anxiety and Reading Strategy Training. English Language Teaching, 6(12). https://doi.org/10.5539/elt.v6n12p181"
@@ -42,7 +44,7 @@ sources:
 
 Seyit Ahmet Çapan & Rumeysa Pektaş. (2013). An Empirical Analysis of the Relationship between Foreign Language Reading Anxiety and Reading Strategy Training. English Language Teaching, 6(12). https://doi.org/10.5539/elt.v6n12p181
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Paired samples t-test on pre/post FLRAS scores of the 20-student experiment group in a one-semester reading course; Table 1 prints pre-test X = 52.27 (S = 13.02) and post-test X = 63.5 (S = 8.29), t = -3.193, p = .005. The article reports "a statistically significant difference in favor of the pre-test scores".
 

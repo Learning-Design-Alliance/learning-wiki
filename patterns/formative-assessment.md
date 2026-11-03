@@ -29,7 +29,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 52 claims (22 for, 28 mixed, 2 against) · 59 studies (17 causal, 15 quant-synthesis, 13 review, 5 qualitative, 4 associational, 4 theoretical, 1 design), `q1`–`q4` · 17 of 59 report an effect size · 41 claims rest on one study
+> **Evidence** · 53 claims (22 for, 29 mixed, 2 against) · 60 studies (18 causal, 15 quant-synthesis, 13 review, 5 qualitative, 4 associational, 4 theoretical, 1 design), `q1`–`q4` · 17 of 60 report an effect size · 42 claims rest on one study
 
 ## Description
 
@@ -220,6 +220,7 @@ This is the article's described classroom pattern for formative assessment in la
 - [Trainee feedback is an inappropriate measure of teacher quality because it may not measure teaching goals, lacks actionable information, and can be manipulated](../claims/trainee-feedback-inappropriate-teacher-quality-measure.md) [~W]
 - [Written corrective feedback in general is inconclusive as a predictor of long-term improvement in L2 writing accuracy, with roughly 55% of studies showing positive effects](../claims/wcf-inconclusive-predictor-long-term-accuracy.md) [~W]
 - [Prior reviews of formative assessment effectiveness report widely different estimates, ranging from 0.40-0.70 standard deviations to 0.20](../claims/formative-assessment-effect-estimates-vary-across-reviews.md) [~W]
+- [Negative feedback combined with opportunities to modify output improved Thai learners' English question development](../claims/feedback-plus-modified-output-question-development.md) [~W]
 
 ## Key Sources
 

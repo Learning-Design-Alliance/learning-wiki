@@ -53,3 +53,4 @@ Generalized linear mixed model results for the overall NoM category from the sam
 - [Time (two years) shows no significant effect on children's overall amount of meaning negotiation](no-time-effect-overall-nom.md) — related
 - [Clarification requests show a three-way interaction of proficiency pairing, time and language, declining over time only in matched dyads and in the L1](clarification-requests-three-way-interaction.md) — related
 - [Strategy-specific effects: time affects self-repetitions and marginally clarification requests; proficiency pairing affects confirmation checks and negative feedback; language affects other-repetitions and negative feedback](strategy-specific-factor-effects.md) — related
+- [Higher English proficiency was associated with more confident and successful interaction in paired tasks](proficiency-positively-related-to-interaction.md) — related

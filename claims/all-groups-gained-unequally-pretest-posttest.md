@@ -48,3 +48,4 @@ Paired T-tests on all four subgroups (each n = 200): Supported rose 42.00 to 48.
 - [Paired t-tests show a statistically significant pretest-to-posttest increase in analytical thinking skills in all four classes at α = 0.05](cbl-analytical-thinking-significant-paired-t-test.md) — related
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — related
 - [FOCUS Intervention students made a statistically significant increase in THEA mathematics scores from pretest to posttest (d = .61)](focus-intervention-significant-thea-gains.md) — a narrower finding that bears on this claim
+- [Both groups improved greatly from pretest to posttest and maintained performance from posttest to delayed posttest](both-groups-gained-and-maintained-over-time.md) — related

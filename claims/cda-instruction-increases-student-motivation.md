@@ -51,3 +51,4 @@ Qualitative, interpretive analysis of written responses to a researcher-made thr
 - [Criterion measures, attitudes towards learning English, instrumentality promotion, and ideal L2 self are the strongest predictors of L2 self-efficacy](strongest-motivation-predictors-of-self-efficacy.md) — related
 - [Experimental participants report positive attitudes toward timed reading, citing better concentration, confidence, and motivation to read more](timed-reading-positive-attitudes.md) — related
 - [Weekly journal writing as a self-assessment technique significantly increased Iranian EFL learners' intrinsic motivation over a semester](journal-writing-self-assessment-increased-intrinsic-motivation.md) — related
+- [Overall analytical reading practices improved significantly after CDA instruction compared with traditional teaching](cda-overall-analytical-reading-gain.md) — related

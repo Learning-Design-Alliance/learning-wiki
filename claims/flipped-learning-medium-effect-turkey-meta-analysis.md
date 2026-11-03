@@ -51,3 +51,4 @@ Meta-analysis of 25 Turkish studies (28 datasets) using CMA software and a rando
 - [Across 28 datasets, the pooled effect of flipped learning on success is positive and statistically significant, with 20 of 28 individual datasets significant](flipped-learning-pooled-effect-28-datasets.md) — related
 - [Formative assessment interventions have a significant positive effect on student learning in Turkish experimental studies (random-effects g = .72)](formative-assessment-positive-effect-turkey-meta-analysis.md) — related
 - [Student-centered methods have an overall positive and high-level effect on academic success in Turkish language instruction](student-centered-methods-positive-effect-turkish-instruction.md) — related
+- [The flipped classroom model has a positive effect on academic achievement, with a random-effects mean Hedges' g of 0.462](fcm-positive-effect-academic-achievement-meta.md) — related

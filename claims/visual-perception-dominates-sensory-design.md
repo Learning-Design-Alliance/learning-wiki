@@ -49,3 +49,4 @@ Systematic review of sensory dimensions across included studies. The review repo
 - [Visual and auditory features of DPBL technologies are appreciated but tactile realism is limited](dpbl-visual-auditory-appreciated-tactile-limited.md) — related
 - [Visual dominance predominates in both VPT and FT schoolchildren, and sensory dominance does not differ between groups](visual-dominance-both-groups-vpt-ft.md) — related
 - [Kinesthetic learners in the experiment class score worse than kinesthetic learners in the non-experiment class](kinesthetic-learners-worse-off-experiment-class.md) — related
+- [Learning styles tend to change with cognitive and mental development, shifting from kinesthetic dominance in elementary school toward visual and multimodal styles at higher levels](learning-styles-change-across-education-levels.md) — related

@@ -37,7 +37,7 @@ Molenaar, I., Chiu, M. M., Sleegers, P., & van Boxtel, C. (2011). Scaffolding of
 
 `q3 · i?` · `causal · r2`
 
-Multivariate multilevel Model 1 for domain knowledge (N=54): problematizing scaffolds 4.55 points (significant), structuring 2.65 (not significant). Only unstandardized coefficients printed, so impact is null.
+Multivariate multilevel Model 1 for domain knowledge (N=54): problematizing scaffolds 4.55 points (significant), structuring 2.65 (not significant). Only unstandardized coefficients printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "students in the structuring and problematizing condition outscored students in the control condition on the domain knowledge post-test by 2.65 (not significant) and 4.55 (significant) points respectively on average"
 

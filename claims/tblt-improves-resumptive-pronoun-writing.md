@@ -56,7 +56,7 @@ Rajabi, B., & Hashemian, M. (2015). A Comparative Study of the Effectiveness of 
 
 `q2 · i?` · `causal · r1`
 
-Paired samples t test for the TBG reported in Table 5: mean paired difference -4.65000, t = -6.941, df = 19, Sig. (2-tailed) .000. No standardized effect size is printed, so impact is null.
+Paired samples t test for the TBG reported in Table 5: mean paired difference -4.65000, t = -6.941, df = 19, Sig. (2-tailed) .000. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "TBG Pretest – Posttest -4.65000 2.99605 .66994 -6.05219 -3.24781 -6.941 19 .000"
 

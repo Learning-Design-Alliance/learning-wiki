@@ -53,3 +53,4 @@ Descriptive statistics (Table V) comparing control and experimental groups on th
 - [The practical-work group's post-test scores were more homogeneous (SD 7.9) than the control group's (SD 9.5)](practical-work-group-converged-in-understanding.md) — related
 - [Form-focused instruction reduced individual variation in performance, with standard deviations in both experimental groups dropping markedly more than in the control group](form-focused-instruction-reduces-individual-variation.md) — related
 - [The enhancement activity group showed more uniform gains (lower post-test standard deviation) than the control group](enhancement-activity-lower-score-variability.md) — related
+- [Inquiry-based teaching interventions produce a statistically significant, medium-sized increase in secondary students' interest in school science and technology compared with control classes](inquiry-interventions-increase-school-science-interest.md) — related

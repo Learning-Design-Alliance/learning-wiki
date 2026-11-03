@@ -38,7 +38,7 @@ Grosbras, M.-H., Ross, P. D. & Belin, P. (2018). Categorical emotion recognition
 
 `q3 · i?` · `associational · r3`
 
-Descriptive analysis of confusion matrices computed for the four age groups and adults (Fig. 4 and Table 3), based on incorrect trials in the forced-choice task. Descriptive finding with no effect size printed, so impact is null.
+Descriptive analysis of confusion matrices computed for the four age groups and adults (Fig. 4 and Table 3), based on incorrect trials in the forced-choice task. Descriptive finding with no effect size printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Anger was miscategorized most often as fear by children aged 5–8, and as sadness by adolescents."
 

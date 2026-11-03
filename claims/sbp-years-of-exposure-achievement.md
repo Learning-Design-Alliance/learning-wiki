@@ -37,7 +37,7 @@ Frisvold David E. (2015). Nutrition and Cognitive Achievement: An Evaluation of 
 
 `q3 · i?` · `causal · r2`
 
-ECLS-K difference-in-differences specification replacing the binary above-threshold indicator with the number of years the school was above the state threshold (final rows of Table 7). The study reports the per-year estimates quoted above; no standardised effect size (d, g, r) is printed, so impact is null.
+ECLS-K difference-in-differences specification replacing the binary above-threshold indicator with the number of years the school was above the state threshold (final rows of Table 7). The study reports the per-year estimates quoted above; no standardised effect size (d, g, r) is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Each year of attending a school with a binding state mandate increases math achievement by 0.572 points (with a standard error of 0.204) or 2.7 percent of a standard deviation, reading achievement by 0.470 points (with a standard error of 0.270) or 2.0 percent of a standard deviation, and science achievement by 0.130 points (with a standard error of 0.132) or 0.9 percent of a standard deviation"
 

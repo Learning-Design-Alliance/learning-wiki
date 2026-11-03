@@ -47,7 +47,7 @@ Yang Fu, Xiaohui Yan, Jiaqi Mao, Haibin Su & Fan Cao. (2024). Abnormal brain act
 
 `q2 · i?` · `associational · r2`
 
-Machine-learning analysis with RBF-SVM, recursive feature elimination, and LOOCV on fNIRS beta values (1 × 48 feature vectors) from 87 participants; permutation testing (1000 iterations) evaluated significance, with printed p-values such as 0.002–0.031 for the significant classifications. No effect size is printed, so impact is null.
+Machine-learning analysis with RBF-SVM, recursive feature elimination, and LOOCV on fNIRS beta values (1 × 48 feature vectors) from 87 participants; permutation testing (1000 iterations) evaluated significance, with printed p-values such as 0.002–0.031 for the significant classifications. No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Using LOOCV, the SVM classi ﬁer yielded an accuracy ranging from 60% to 90% when classifying children, adults , or all participants across the two fNIRS tasks (Table 2)."
 

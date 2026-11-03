@@ -55,3 +55,4 @@ An unrelated t-test compared pre-test scores of the experimental (n=28) and cont
 - [Before implementation, treatment students performed significantly below control students on the standardized reading test](core5-treatment-pretest-disadvantage.md) — related
 - [The experimental and control groups were statistically equivalent on the academic achievement pre-test before the intervention](groups-equivalent-pretest-achievement.md) — related
 - [Before treatment, the experimental and control groups were equivalent on both achievement and attitude](pretest-equivalence-achievement-attitude.md) — a broader claim this one bears on
+- [Experimental and control groups showed no significant difference in pre-test vocabulary scores, supporting group equivalence at baseline](youtube-study-pretest-equivalence.md) — related

@@ -69,3 +69,4 @@ Post-hoc questionnaire data across grades: "the incr eased number of participant
 - [High school teachers' rankings of algebra problem difficulty were uncorrelated with student performance, while middle school teachers' rankings were accurate](high-school-teacher-rankings-uncorrelated-student-performance.md)
 - [Accuracy and speed of simple equation rearrangement increase with students' age across grades 7–12](equation-rearrangement-accuracy-speed-increase-with-age.md) — related
 - [Younger students mostly use concrete strategies (e.g., inserting numbers) while older students use abstract rule-based strategies, with the transition around age 14–15](concrete-to-rule-based-strategy-transition-age-14-15.md) — related
+- [Problem difficulty level relates to metacognitive knowledge level: the more difficult the problem, the higher the metacognitive knowledge required](problem-difficulty-metacognitive-level.md) — related

@@ -47,3 +47,4 @@ Quasi-experimental study in eight conventional kindergarten classes given practi
 ## Related Claims
 - [Benefits of practical life exercises for attention emerge for girls but not boys](practical-life-attention-gender-effect.md) — related
 - [Visuo-motor integration and Arabic-numeral knowledge also longitudinally predict kindergarten arithmetic](visuo-motor-integration-and-arabic-numerals-predict-arithmetic.md) — related
+- [A three-month folk games intervention improved the overall fine motor skills of the intervention class, which scored 0.09 higher than the control class at post-test](folk-games-fine-motor-posttest-advantage.md) — related

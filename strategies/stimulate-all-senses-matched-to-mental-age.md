@@ -48,7 +48,8 @@ In its Recommendations section the article advises that "The teachers specialize
 - [Primary-school learners with learning disabilities taught with a multi-sensory strategy scored higher on visual perception at post-test than learners taught with the traditional method](../claims/multi-sensory-strategy-higher-visual-perception-posttest.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Teachers design learning that activates all senses rather than focusing on one sense](activate-all-senses-learning-design.md)
 
 ## Examples
 -

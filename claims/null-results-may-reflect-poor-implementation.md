@@ -46,7 +46,7 @@ Kenneth R. Koedinger & Vincent Aleven. (2016). An Interview Reflection on “Int
 
 `q1 · i?` · `qualitative · r1`
 
-This is the interviewee's interpretive argument in the interview, offered without data; it distinguishes adoption/implementation success from effectiveness when used as intended. No effect size is printed, so impact is null.
+This is the interviewee's interpretive argument in the interview, offered without data; it distinguishes adoption/implementation success from effectiveness when used as intended. No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Some reported null results of Cognitive Tutors have been misinterpreted as suggesting the approach is not effective. If we are being scientific, we shouldn’t be interpreting null results at all. But, to the point here, it is quite likely these null results are a consequence of poor implementation."
 
@@ -56,7 +56,7 @@ Kenneth R. Koedinger & Vincent Aleven. (2016). An Interview Reflection on “Int
 
 `q1 · i?` · `qualitative · r1`
 
-The interview describes policy-level experiments (e.g., Dept. of Education-funded studies) as testing whether a policy to recommend system use improves outcomes, not whether tutor components work scientifically. Interpretive statement with no effect size, so impact is null.
+The interview describes policy-level experiments (e.g., Dept. of Education-funded studies) as testing whether a policy to recommend system use improves outcomes, not whether tutor components work scientifically. Interpretive statement with no effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "classrooms are counted as receiving the treatment as long as they were assigned to it, and, irrespective of whether the tutoring system got used as intended, or even irrespective of whether it got used at all."
 

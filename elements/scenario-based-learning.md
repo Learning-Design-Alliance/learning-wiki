@@ -13,7 +13,7 @@ generated:
 # Scenario-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 qualitative, 1 causal), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Scenario-based learning is the element in which instruction is organized around a realistic situation, case, or mission that requires learners to interpret information and make decisions in context. It is useful when the goal is application, transfer, and judgment under conditions that resemble real use.
@@ -44,6 +44,7 @@ Scenario-based learning is the element in which instruction is organized around 
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+M]
 - [Primary school students evaluate the scenario-based case study method as a positive learning experience in the 'from Production to Consumption' unit](../claims/scenario-case-study-positive-student-experience.md) [+W] — attached 2026-11-02 from Ahu TANERİ (2018), which proposed "Four scenario-based lesson plans for the 'from Production to Consumption' unit".
+- [A scenario-based blended learning environment combined with teaching practice is associated with a statistically significant increase in preservice teachers' attitudes toward the teaching profession](../claims/scenario-blended-learning-positive-teaching-attitudes.md) [~W] — attached 2026-11-03 from Samsa et al. (2010), which proposed "Scenario-based blended learning environment for the Teaching Practices course".
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)

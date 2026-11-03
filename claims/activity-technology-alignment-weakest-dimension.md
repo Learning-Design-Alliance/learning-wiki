@@ -50,3 +50,4 @@ Descriptive result from the theoretical-quality labeling analysis of agent outpu
 - [Across rubric dimensions, content scored highest (A = 4.03) while production scored lowest (D = 3.41), driven by synthetic voice quality (D1 = 3.16)](bespoke-content-strongest-production-weakest-voice.md) — related
 - [Current AI instructional-video systems score higher on content dimensions (Accuracy, Logic) than on delivery dimensions (Engagement, Adaptability), with Adaptability lowest](ai-video-systems-content-stronger-than-delivery.md) — related
 - [Undergraduate learners rated CyberAGENTS positively, with scenario authenticity highest and challenge difficulty alignment lowest](cyberagents-positive-learner-perceptions.md) — related
+- [Students excelled in perceptual analysis, reaction and personal interpretation but performed weakest in synthesis across the five Anderson dimensions](five-dimension-uneven-performance.md) — related

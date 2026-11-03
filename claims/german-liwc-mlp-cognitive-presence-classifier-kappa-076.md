@@ -38,7 +38,7 @@ Dornauer, V., Netzer, M., Kaczkó, É., Norz, L.-M., & Ammenwerth, E. (2024). Au
 
 `q2 · i?` · `design · r2`
 
-Machine-learning evaluation on a German-language dataset of 1,521 meaningful units from an online postgraduate course; scenario 1 used only LIWC features with SMOTE oversampling. The MLP reached "accuracy ... at 0.82" and "a Cohen's κ value of 0.76"; mean development-set accuracy was 0.81 ± 0.02. No effect size is printed, so impact is null.
+Machine-learning evaluation on a German-language dataset of 1,521 meaningful units from an online postgraduate course; scenario 1 used only LIWC features with SMOTE oversampling. The MLP reached "accuracy ... at 0.82" and "a Cohen's κ value of 0.76"; mean development-set accuracy was 0.81 ± 0.02. No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The highest accuracy on the holdout evaluation set for the first variation of the classification based only on LIWC features was reached by the MLP classifier at 0.82, with macro average values of 0.77 and a Cohen's κ value of 0.76."
 

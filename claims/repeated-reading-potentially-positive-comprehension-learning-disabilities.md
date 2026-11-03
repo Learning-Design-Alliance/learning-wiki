@@ -9,7 +9,6 @@ generated:
   at: 2026-10-07
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-10-10
 sources:
   - id: what-works-clearinghouse-2014
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/576"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2014 · checked against its sources 2026-10-10 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The WWC rating for the reading comprehension domain is potentially positive effects, based on two studies with 78 students and an average improvement index of +7 percentile points (range +2 to +11). [→ What Works Clearinghouse 2014](#what-works-clearinghouse-2014)
@@ -38,7 +37,7 @@ What Works Clearinghouse, U.S. Department of Education. (2014). Repeated Reading
 
 `q3 · i?` · `quant-synthesis · r2`
 
-WWC synthesis of two randomized controlled trials meeting group design standards without reservations (Ellis & Graves, 1990; Wexler et al., 2010), together including 78 students with learning disabilities in grades 5–12. Table 1 reports an average improvement index of +7 with a range of +2 to +11 for reading comprehension, rated "potentially positive effects" with a small extent of evidence. No standardized effect size is printed for the domain-level rating, so impact is null.
+WWC synthesis of two randomized controlled trials meeting group design standards without reservations (Ellis & Graves, 1990; Wexler et al., 2010), together including 78 students with learning disabilities in grades 5–12. Table 1 reports an average improvement index of +7 with a range of +2 to +11 for reading comprehension, rated "potentially positive effects" with a small extent of evidence. No standardized effect size is printed for the domain-level rating, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Repeated reading was found to have potentially positive effects on reading comprehension and no discernible effects on alphabetics, reading fluency, and general reading achievement for students with learning disabilities."
 

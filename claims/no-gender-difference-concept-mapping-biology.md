@@ -37,7 +37,7 @@ Sakiyo, J. & Waziri, K. (2015). Concept mapping strategy: An effective tool for 
 
 `q2 · i?` · `causal · r2`
 
-ANCOVA on post-test scores of male and female students within the concept mapping experimental group (Table 2). The article reports "no significant difference of students' academic achievement between male and female in the concept mapping group." No effect size is printed for the gender contrast, so impact is null.
+ANCOVA on post-test scores of male and female students within the concept mapping experimental group (Table 2). The article reports "no significant difference of students' academic achievement between male and female in the concept mapping group." No effect size is printed for the gender contrast, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "From the Table 2, there is no significant mean difference between male and female students in the experimental group. Since the computed p -value (0.766) is greater than the f -value (0.09) at 0.05 level of significant, the null hypothesis of no significant effect is accepted."
 

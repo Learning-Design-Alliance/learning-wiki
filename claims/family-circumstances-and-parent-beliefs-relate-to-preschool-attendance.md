@@ -72,3 +72,4 @@ Survey-based analysis linking parent beliefs about the importance of preschool a
 - Evidence on preschool attendance by young children in foster care is largely unexamined, with one cited source reporting six percent of foster children under age six attend Head Start — related
 - Punitive responses to absence do not improve attendance and can worsen it — related
 - [Chronic absenteeism is extremely common among preschool students and declines substantially when children enter kindergarten](preschool-chronic-absenteeism-extremely-high-declines-in-kindergarten.md) — related
+- [Attendance mailings corrected guardians' miscalibrated beliefs about their students' absences but did not change beliefs about the importance of attendance](mailings-correct-beliefs-not-importance.md) — related

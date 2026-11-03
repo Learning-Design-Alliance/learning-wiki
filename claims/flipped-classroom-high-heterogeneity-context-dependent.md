@@ -57,3 +57,4 @@ Synthesis-wide finding from the review's discussion: heterogeneity exceeded I² 
 - Included studies show high heterogeneity (I2 = 94.5%), addressed with random effects modelling and meta-regression — related
 - [Subgroup factors (study quality, participant status, region, simulation technique) did not explain the heterogeneity in SBL effects](subgroups-did-not-explain-sbl-heterogeneity.md) — related
 - [The flipped classroom effect is robust to research design and controls for student and instructor equivalence](flipped-effect-robust-to-design-and-equivalence-controls.md) — related
+- [Effect sizes across FCM studies are heterogeneous, with a Q statistic of 354.326 exceeding the critical value](fcm-effect-heterogeneity-high.md) — related

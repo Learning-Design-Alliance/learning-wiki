@@ -56,7 +56,7 @@ Belén C. Guerra-Carrillo and Silvia A. Bunge. (2018). Eye gaze patterns reveal 
 
 `q3 · i?` · `causal · r?`
 
-Bayesian regression across the full sample with LSAT group as a nuisance variable and RT change as the dependent variable; the article reports "β = 0.72" and ~23% of variance explained by the relational thinking metric. No standardized effect size is printed, so impact is null.
+Bayesian regression across the full sample with LSAT group as a nuisance variable and RT change as the dependent variable; the article reports "β = 0.72" and ~23% of variance explained by the relational thinking metric. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "there was strong evidence in favor of relational thinking (BF10 ≈ 20.11 ± 1.70%), which accounted for ~23% of the variance in RT reductions (β = 0.72)"
 

@@ -37,7 +37,7 @@ Kenneth R. Koedinger & Vincent Aleven. (2016). An Interview Reflection on “Int
 
 `q1 · i?` · `qualitative · r1`
 
-This is the interviewee's retrospective interpretation about technology transfer into Carnegie Learning products, citing studies of self-explanation, worked examples, and personalized scenarios. It is an interpretive account with no effect size, so impact is null.
+This is the interviewee's retrospective interpretation about technology transfer into Carnegie Learning products, citing studies of self-explanation, worked examples, and personalized scenarios. It is an interpretive account with no effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "there has been some limited influence on the product. However, it has not always been in line with particulars of the research design (e.g., Carnegie Learning added an upfront example in each unit, but the recommended approximate 50–50 example-problem ratio and use of fading were not incorporated)."
 

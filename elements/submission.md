@@ -13,7 +13,7 @@ generated:
 # Submission
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (6 for, 5 mixed, 1 against) · 15 studies (5 review, 3 associational, 3 theoretical, 2 causal, 1 qualitative, 1 design), `q1`–`q3` · 1 of 15 report an effect size · 9 claims rest on one study
+> **Evidence** · 13 claims (7 for, 5 mixed, 1 against) · 16 studies (5 review, 3 causal, 3 associational, 3 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 2 of 16 report an effect size · 10 claims rest on one study
 
 ## Description
 Submission is the act of learners delivering completed or in-progress work for evaluation, feedback, or peer review. It functions as a structured checkpoint that makes learning visible to instructors and to learners themselves, converting private effort into an assessable artifact.
@@ -61,6 +61,7 @@ Submission creates the accountability structure that makes practice productive: 
 - [The article claims LLM-assisted workflows weaken the validity of output-based evaluation in hiring, education, and certification](../claims/output-based-evaluation-misaligned-llm-assistance.md) [-W]
 - [Exam scores correlate positively with correct submissions and negatively with incorrect submissions and solution access](../claims/trace-frequencies-correlate-with-exam-scores.md) [+W]
 - [E-learning platform use increased homework submission and attendance in a reviewed case study](../claims/e-learning-platform-homework-attendance-case-study.md) [+W]
+- [Intervention class students submit a greater proportion of interactive homework assignments than control class students](../claims/outreach-increases-homework-submissions.md) [+W]
 
 ## The evidence by question
 

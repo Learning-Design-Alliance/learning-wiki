@@ -52,3 +52,4 @@ Dimension-level analysis in Results Table 2 for the 300 responses: e.g., Fs+CoT 
 - [Under single-pass deployment, Fs+CoT prompting yields the strongest agreement with teacher mean scores for music-analysis essay scoring (r = 0.795, ICC (2,1) = 0.657)](fscot-strongest-teacher-agreement-run1.md) — related
 - Median aggregation across three runs produces only minor changes in agreement and does not alter the ordering of prompting strategies — related
 - [Grammatical Accuracy is the most stable and objective scoring dimension for LLMs, while Task Response is the most challenging](grammatical-accuracy-most-stable-llm-scoring-dimension.md) — related
+- [Students excelled in perceptual analysis, reaction and personal interpretation but performed weakest in synthesis across the five Anderson dimensions](five-dimension-uneven-performance.md) — related

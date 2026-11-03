@@ -46,7 +46,7 @@ Bach, K. M., Reinhold, F., & Hofer, S. I. (2025). Unlocking math potential in st
 
 `q3 · i?` · `causal · r2`
 
-Wald tests of parameter constraints compared the three LPA profiles' estimated variable values. The two unfavorable profiles were similar across variables, with "Signiﬁcant disparities were only found for sustained attention"; no effect size is printed, so impact is null.
+Wald tests of parameter constraints compared the three LPA profiles' estimated variable values. The two unfavorable profiles were similar across variables, with "Signiﬁcant disparities were only found for sustained attention"; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The chi-square values (Table 6) indicated strong similarities between the attentive unfavorable and inat- tentive unfavorable pro ﬁles. Signiﬁcant disparities were only found for sustained attention."
 
@@ -56,7 +56,7 @@ Bach, K. M., Reinhold, F., & Hofer, S. I. (2025). Unlocking math potential in st
 
 `q3 · i?` · `causal · r2`
 
-Games–Howell post-hoc tests on prior fractions-on-number-line knowledge showed the inattentive unfavorable profile significantly below the favorable profile; post-test differences versus attentive unfavorable (0.62) and favorable (1.23) were also significant. Mean differences on the deviation score are not standardized effect sizes, so impact is null.
+Games–Howell post-hoc tests on prior fractions-on-number-line knowledge showed the inattentive unfavorable profile significantly below the favorable profile; post-test differences versus attentive unfavorable (0.62) and favorable (1.23) were also significant. Mean differences on the deviation score are not standardized effect sizes, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Games– Howell post-hoc test indicated a signiﬁcant mean difference of 0.16 (p < .001) in the prior fraction on numb er line knowledge compared to students in the favorable pro ﬁle."
 

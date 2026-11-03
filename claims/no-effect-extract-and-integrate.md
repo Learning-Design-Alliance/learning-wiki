@@ -37,7 +37,7 @@ Potocki, A., Ayroles, J., & Rouet, J.-F. (2023). A short teacher-led interventio
 
 `q3 · i?` · `causal · r2`
 
-Mixed model analysis of the Extract and integrate component task in the quasi-experimental pre/post design found no significant training effect; the article states there was "no change over time regardless of the condition". No effect size is printed, so impact is null.
+Mixed model analysis of the Extract and integrate component task in the quasi-experimental pre/post design found no significant training effect; the article states there was "no change over time regardless of the condition". No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "a non-significant interaction Time * Group was observed (F(1, 130.91) = 2.3, p = . 13)."
 

@@ -50,3 +50,4 @@ Classroom pretest-intervention-posttest experiment with 170 first-year students;
 - [Performance on practiced reasoning items and on transfer items continued to improve after 3-week and 9-month delays](ct-performance-improves-further-after-delay.md) — related
 - [Scaffolded third-graders outperformed control students on reasoning based on irrelevant evidence after instruction](scaffolds-improve-irrelevant-evidence-reasoning-third-graders.md) — related
 - [General problem-solving heuristics used in controlled conscious problem solving are biologically secondary skills requiring explicit learning](secondary-heuristics-require-explicit-learning.md) — a broader claim this one bears on
+- [TTPS intervention students improved their problem-solving performance from pretest to posttest while comparison students did not](ttps-improves-problem-solving-within-group.md) — related

@@ -37,7 +37,7 @@ Fekete, I. (2026). Between Promise and Practice: Bridging Ethical Artificial Int
 
 `q3 · i?` · `associational · r1`
 
-Correlation analyses on the student questionnaire sample (n = 226) showed that "students’ confidence and readiness correlate mostly with self-efficacy and collaboration rather than with formal instruction". No correlation coefficients are printed, so impact is null.
+Correlation analyses on the student questionnaire sample (n = 226) showed that "students’ confidence and readiness correlate mostly with self-efficacy and collaboration rather than with formal instruction". No correlation coefficients are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "students’ confidence and readiness correlate mostly with self-efficacy and collaboration rather than with formal instruction"
 

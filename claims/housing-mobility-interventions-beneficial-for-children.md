@@ -37,7 +37,7 @@ Roy, A. L., McCoy, D. C., & Raver, C. C. (2014). Instability Versus Quality: Res
 
 `q2 · i?` · `causal · r?`
 
-This is background literature cited in the article's introduction, reported as the article attributes it (citing Kaufman & Rosenbaum, 1992; Kling, Liebman, & Katz, 2007). The article describes these as two of the most well studied mobility interventions. No effect sizes are printed, so impact is null.
+This is background literature cited in the article's introduction, reported as the article attributes it (citing Kaufman & Rosenbaum, 1992; Kling, Liebman, & Katz, 2007). The article describes these as two of the most well studied mobility interventions. No effect sizes are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "findings from two of the most well studied mobility interventions, the Gautreaux Project and Moving to Opportunity, have linked moving from higher poverty to lower poverty areas with benefits in children's education, behavioral, and health outcomes"
 

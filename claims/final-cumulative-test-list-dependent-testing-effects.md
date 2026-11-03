@@ -46,7 +46,7 @@ Veit Kubik, Kenneth Koslowski, Torsten Schubert, Alp Aslan. (2022). Metacognitiv
 
 `q3 · i?` · `causal · r3`
 
-A 4 (practice type) × 5 (list) ANOVA on final cumulative recall in the N = 161 experiment found a significant "Practice Type × List interaction effect, F(12, 628) = 4.61, p < .001"; no main effect of practice type. No standardized effect size is printed for the interaction, so impact is null.
+A 4 (practice type) × 5 (list) ANOVA on final cumulative recall in the N = 161 experiment found a significant "Practice Type × List interaction effect, F(12, 628) = 4.61, p < .001"; no main effect of practice type. No standardized effect size is printed for the interaction, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Critically, we observed a significant Practice Type × List interaction effect, F(12, 628) = 4.61, p < .001, ̂ω2p = 0.02, indicating the effect of practice type was modulated in magnitude as a function of list."
 

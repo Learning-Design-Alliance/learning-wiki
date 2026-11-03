@@ -65,7 +65,7 @@ Biotteau M, Danna J, Baudou É, Puyjarinet F, Velay J-L, Albaret J-M, Chaix Y. (
 
 `q3 · i?` · `review · r2`
 
-Yu et al's review found duration and frequency influenced immediate training effects; "intervention dose explained 7% of the variance of treatment effects on motor performance", with longer treatments more effective and interventions of at least 9 weeks tending to be more effective. Variance explained is not a standardized effect size, so impact is null.
+Yu et al's review found duration and frequency influenced immediate training effects; "intervention dose explained 7% of the variance of treatment effects on motor performance", with longer treatments more effective and interventions of at least 9 weeks tending to be more effective. Variance explained is not a standardized effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "both the duration (in minutes) and frequency (eg, 4–5 times per week) of the interventions influenced the magnitude of the immediate training effects (intervention dose explained 7% of the variance of treatment effects on motor performance, with longer treatments being associated with greater effectiveness)."
 

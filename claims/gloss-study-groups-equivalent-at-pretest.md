@@ -97,3 +97,5 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 - [The experimental and comparison classes were equivalent in reading level before the experiment](pretest-equivalence-reading-classes.md) — related
 - [Before treatment, the experimental and control groups were equivalent on both achievement and attitude](pretest-equivalence-achievement-attitude.md) — related
 - [The three groups did not differ significantly in vocabulary knowledge at pretest, supporting group homogeneity](pretest-homogeneity-three-vocabulary-groups.md) — related
+- [Experimental and control groups were equivalent before treatment on both annual examination and pretest scores](groups-equivalent-at-baseline.md) — related
+- [Experimental and control groups showed no significant difference in pre-test vocabulary scores, supporting group equivalence at baseline](youtube-study-pretest-equivalence.md) — possibly the same claim (merge candidate)

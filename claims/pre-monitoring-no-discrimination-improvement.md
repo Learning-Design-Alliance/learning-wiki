@@ -37,7 +37,7 @@ Sophie Wacker, Claudia M. Roebers. (2024). Motivating children to (pre)monitor: 
 
 `q3 · i?` · `causal · r2`
 
-ANOVA on the discrimination difference score in the same N = 305 randomized experiment. The condition effect (F (1, 301) = 2.64, p = .105) and interaction were non-significant; no effect size beyond ηp² = .01 is interpretable as magnitude, so impact is null.
+ANOVA on the discrimination difference score in the same N = 305 randomized experiment. The condition effect (F (1, 301) = 2.64, p = .105) and interaction were non-significant; no effect size beyond ηp² = .01 is interpretable as magnitude, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The main effect of condition (F (1, 301) = 2.64, p = .105, ηp 2 = .01) and the interaction (F (1, 301) = 1.40, p = .24, ηp 2 = .01) did not reach significance."
 

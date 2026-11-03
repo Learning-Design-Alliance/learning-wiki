@@ -37,7 +37,7 @@ McLean, L., Janssen, J., Espinoza, P., Lindstrom Johnson, S., & Jimenez, M. (202
 
 `q3 · i?` · `associational · r2`
 
-Interactions model from the same regression analysis of fourth-grade students nested in 33 classrooms. The printed interaction coefficient is B = 0.21, p = .05, exactly at the threshold; no standardized effect size is printed, so impact is null.
+Interactions model from the same regression analysis of fourth-grade students nested in 33 classrooms. The printed interaction coefficient is B = 0.21, p = .05, exactly at the threshold; no standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The interactions model revealed a significant teacher science anxiety-by-student FARM interaction effect (B = 0.21, p = .05) on students' Time 2 science anxiety."
 

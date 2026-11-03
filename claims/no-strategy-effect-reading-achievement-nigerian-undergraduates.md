@@ -53,3 +53,4 @@ ANCOVA on pre-post data from a randomised block experiment with 285 first-year u
 - [Explicit reading strategy instruction produced a statistically significant pre-to-post gain in reading comprehension for Ethiopian EFL university students](strategy-instruction-significant-prepost-gain-efl.md) — related
 - [Question-generation strategy produces significantly better overall reading comprehension performance than conventional instruction](question-generation-significant-overall-effect-reading-comprehension.md) — reports the opposite
 - [DR-TA through tales of virtue produced significantly higher English reading comprehension than a traditional approach in Thai seventh-grade students](dr-ta-higher-english-reading-comprehension-than-traditional.md) — related
+- [All three experimental approaches were equally effective for spelling achievement and significantly better than conventional instruction](three-approaches-equal-spelling-achievement.md) — reports the opposite

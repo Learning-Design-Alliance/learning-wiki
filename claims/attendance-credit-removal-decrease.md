@@ -37,7 +37,7 @@ Nagappan Palaniappan Ganesh, Tan Sapphire Rou Xi, Absar Shazia, Brown Samuel, Sa
 
 `q2 · i?` · `review · r3`
 
-Review's extraction from Paudel et al, the only study showing a statistically significant decrease over more than one academic year: "The mean attendance decreased from 2017 (87%) to 2018 (61%, p<0.001)" following removal of attendance credits. No effect size was printed, so impact is null.
+Review's extraction from Paudel et al, the only study showing a statistically significant decrease over more than one academic year: "The mean attendance decreased from 2017 (87%) to 2018 (61%, p<0.001)" following removal of attendance credits. No effect size was printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The mean attendance decreased from 2017 (87%) to 2018 (61%, p<0.001)."
 

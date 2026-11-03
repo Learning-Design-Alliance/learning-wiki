@@ -67,4 +67,4 @@ Serial-position analysis of the story-recall data: the first third was remembere
 - [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
--
+- [Students scored better on earlier prompts than later prompts within the same survey session](prompt-order-advantage-earlier-prompts.md) — related

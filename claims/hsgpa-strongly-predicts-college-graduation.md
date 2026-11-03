@@ -54,3 +54,4 @@ Hierarchical logistic models of students nested within high schools (n=17,753) p
 - [The linear slope of the HSGPA–college graduation relationship does not vary significantly across high schools, so HSGPA provides a consistent signal across schools](hsgpa-slope-consistent-across-schools.md) — related
 - [Among Chicago graduates who enter four-year colleges, high school GPA is the strongest predictor of graduating within six years](gpa-strongest-predictor-chicago-four-year-graduation.md) — related
 - [Higher HSGPA and higher mathematics and chosen-subject matura scores significantly increase the predicted probability of graduation.](hsgpa-math-chosen-subject-increase-graduation-probability.md) — related
+- [Students' prior GPA positively predicts the probability of passing the class for at-risk students](prior-gpa-predicts-passing-at-risk.md) — related

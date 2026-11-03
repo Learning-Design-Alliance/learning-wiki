@@ -52,3 +52,4 @@ Authors' interpretation of the experimental results: LS-only children "performed
 - [Combined letter name and sound instruction produced greater letter sound gains than number instruction, with a trend over letter sound only instruction](combined-lnls-letter-sound-gains-over-control.md) — related
 - [Current instruction affects previously learned knowledge (interference), calling into question the accuracy of any single assessment](interference-questions-single-assessment-accuracy.md) — a broader claim this one bears on
 - [The Multimodal Interference Effect: mapping visual representations to physical concepts degrades LLM performance even on non-visual problem aspects](multimodal-interference-effect-llms.md) — a broader claim this one bears on
+- [Single-focus letter name or letter sound instruction led to significantly greater growth on taught alphabet content than the other conditions](single-focus-content-greater-growth.md) — related

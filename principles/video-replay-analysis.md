@@ -30,7 +30,7 @@ sources:
 # Video Replay Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (19 for, 11 mixed) · 32 studies (10 qualitative, 6 quant-synthesis, 6 review, 3 causal, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 5 of 32 report an effect size · 26 claims rest on one study
+> **Evidence** · 31 claims (20 for, 11 mixed) · 33 studies (10 qualitative, 6 quant-synthesis, 6 review, 4 causal, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 5 of 33 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,7 @@ Claims this page cited before it was rewritten, or found in the search, that bea
 - [Facilitators' questions, regularly posed in terms of seeing, make it relevant for students to discuss how situations appeared audiovisually and how these appearances contrasted with their experiences](../claims/seeing-questions-guide-audiovisual-contrast.md) [+W] — attached 2026-10-18 from Elin Johansson et al. (2017), which proposed "Selecting short clips of successful 'key events' as the debriefing focus".
 - [Video-assisted debriefing enhances precision but risks psychological safety and narrows reflection to individual performance](../claims/video-debriefing-precision-safety-tradeoffs.md) [~M] — attached 2026-10-18 from Charlott Sellberg et al. (2025), which proposed "Align performance-review media such as video with instructional aims, facilitator expertise, and the emotional climate of training"; tests this page's relationship.
 - [Video review of resident performance in clinical PGME settings shows positive learning effects, with 8 of 11 studies reporting significant results](../claims/video-review-positive-learning-effect-pgme.md) [+W] — attached 2026-10-31 from Robbrecht M et al. (2025), which proposed "Video review should be integrated with feedback or coaching sessions rather than used in isolation"; tests this page's relationship.
+- [Pre-service clinical teachers who viewed videotapes of their teaching with guided feedback provided more total feedback to students than teachers in a seminar-only group and a control group across eight teaching episodes](../claims/video-review-guided-feedback-increases-clinical-teacher-feedback.md) [+M] — attached 2026-11-03 from Andrews et al. (2011), which proposed "Train pre-service clinical educators with guided video review of their own teaching rather than a teaching workshop alone"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

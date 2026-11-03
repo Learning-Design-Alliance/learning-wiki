@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-03
 sources:
   - id: serin-2011
     resource: "https://eric.ed.gov/?id=EJ926568"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The experimental group's corrected problem solving post-test means significantly exceeded the control group's, with η² = .318 attributed to group membership. [→ Serin 2011](#serin-2011)
@@ -58,3 +59,4 @@ ANCOVA on the Problem Solving Inventory for Children (Cronbach's alpha .85) in t
 - [CBI produced higher academic achievement than the conventional method for B.Ed. students in Optional 1 English](cbi-more-effective-than-conventional-method-b-ed-english.md) — related
 - [CBPSI significantly improved problem solving performance of Grade 10 learners from pre-test to post-test](cbpsi-improves-problem-solving-performance-grade-10.md) — related
 - [Students learning a system analysis unit with a 3D game-based learning system achieve higher post-test scores than students taught by traditional face-to-face instruction](3d-game-based-learning-higher-posttest-software-engineering.md) — related
+- [When pre-test scores were controlled, the software had a significant effect on academic achievement, with the model explaining 44% of variance](ancova-software-achievement-effect.md) — related

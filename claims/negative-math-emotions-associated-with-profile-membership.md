@@ -37,7 +37,7 @@ Melody Wilson & Jamaal Sharif Matthews. (2024). Black adolescents' motivation to
 
 `q2 · i?` · `associational · r2`
 
-Multinomial logistic regression of covariates on profile membership: the analysis "showed signi ﬁcant associations for t he Moderately Attained proﬁle at both time points and for the Resistor pro ﬁle at T2". At T2, students one SD above the mean on negative math emotions were less than half as likely to be in those profiles versus the Devalued/Ambivalent profile. No effect size printed, so impact is null.
+Multinomial logistic regression of covariates on profile membership: the analysis "showed signi ﬁcant associations for t he Moderately Attained proﬁle at both time points and for the Resistor pro ﬁle at T2". At T2, students one SD above the mean on negative math emotions were less than half as likely to be in those profiles versus the Devalued/Ambivalent profile. No effect size printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "A multinomial logistic regression showed signi ﬁcant associations for t he Moderately Attained proﬁle at both time points and for the Resistor pro ﬁle at T2 (also marginal signi ﬁcance at T1, with 0 :05<p<0:10)"
 

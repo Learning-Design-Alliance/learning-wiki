@@ -49,3 +49,4 @@ Quasi-experimental classroom study with a non-equivalent control group: 413 lear
 - [Group learning produced significantly higher mathematics achievement than conventional teaching among rural grade-nine students after a 15-week intervention](group-learning-beats-conventional-math-rural-secondary.md) — related
 - [Descriptive post-test means showed cooperative learning students scoring substantially higher than control students](posttest-descriptive-means-cooperative-vs-control.md) — related
 - [Internet-based teaching of 8th-grade triangles via the Vitamin Program produced higher post-test achievement than conventional teaching](vitamin-internet-based-triangles-higher-posttest.md) — related
+- [All three experimental approaches were equally effective for spelling achievement and significantly better than conventional instruction](three-approaches-equal-spelling-achievement.md) — related

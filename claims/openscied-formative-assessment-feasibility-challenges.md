@@ -78,3 +78,4 @@ Focus group vignette in which teachers described difficulty fitting OpenSciEd wo
 - [The main challenge of Wikipedia assignments is the MediaWiki learning curve, making them time-consuming](wikipedia-assignment-mediawiki-learning-curve-challenge.md) — a narrower finding that bears on this claim
 - [Assessment and feedback strategies enable constructive ongoing feedback to improve learning and academic growth](assessment-feedback-strategies-improve-learning.md) — related
 - [SDL is implemented through two main categories: theoretical (knowledge-focused) and practical (hands-on procedural) approaches](sdl-two-categories-theoretical-practical.md) — related
+- [Teacher educators implemented the e-assessments formatively and reported new procedures, materials and tools as outcomes of the interventions](eassessment-formative-use-procedural-outcomes.md) — related

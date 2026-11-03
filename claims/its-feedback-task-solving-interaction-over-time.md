@@ -47,7 +47,7 @@ Tacoma, S., Heeren, B., Jeuring, J., & Drijvers, P. (2020). Intelligent Feedback
 
 `q3 · i?` · `causal · r2`
 
-Logistic multilevel regression on task-level solving data (up to six observations per student) in the randomized experiment. The interaction term significantly improved model fit; no standardized effect size was printed, so impact is null.
+Logistic multilevel regression on task-level solving data (up to six observations per student) in the randomized experiment. The interaction term significantly improved model fit; no standardized effect size was printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The addition of an interaction effect between task number and ITS feedback availability (M3) improved the model further: the deviance change was 13.92, which, with one degree of freedom for one extra estimated parameter, results in p < .001, hence a significant improvement to the model"
 

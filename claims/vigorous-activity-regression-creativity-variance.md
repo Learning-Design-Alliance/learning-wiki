@@ -37,7 +37,7 @@ Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C.,
 
 `q2 · i?` · `associational · r2`
 
-Multiple regression analysis (Table 3) with the different intensity thresholds of physical activity predicting creativity; all levels except vigorous were excluded from the model. R² is variance explained, not a standardised effect size, so impact is null.
+Multiple regression analysis (Table 3) with the different intensity thresholds of physical activity predicting creativity; all levels except vigorous were excluded from the model. R² is variance explained, not a standardised effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "In Table 3 we can observe that the vigorous physical activity predictor (B = 0.904, B SE = 8.886, β = 0.213, t = 2.537, CI [0.199, 1.608]) significantly accounted for 4.5% (95% CI for R2; adjusted R2 = 0.038) of variance of creativity, F (1, 136) = 6.435, p = 0.000."
 

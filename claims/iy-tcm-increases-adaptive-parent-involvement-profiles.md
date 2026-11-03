@@ -56,3 +56,4 @@ Latent transition analysis with treatment condition as covariate in a group rand
 - [Low contact alone was not associated with adverse student outcomes; the Low Contact/High Comfort profile had the most favorable correlates](low-contact-alone-not-a-risk-high-comfort-favorable.md) — related
 - [IY TCM shows no significant effects on disruptive behavior or concentration problems](iytcm-no-effect-disruptive-concentration.md) — related
 - [Teacher-to-parent communication did not affect teachers' assessments of student effort or in-class behavior](no-effect-teacher-effort-behavior-ratings.md) — related
+- [Intervention and control parents did not differ on baseline at-school involvement measured by parent night attendance](baseline-parent-night-attendance-equivalent.md) — related

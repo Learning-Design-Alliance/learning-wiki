@@ -85,3 +85,4 @@ Paired-samples t-test within the control group (n=21) receiving regular curricul
 - [The experimental group's academic achievement rose significantly from pre-test to post-test under activity-based poster teaching](poster-group-significant-pre-post-gain.md) — possibly the same claim (merge candidate)
 - [Strategy instruction increases Turkish course achievement, attributed by the authors to metacognitive skill use](strategy-instruction-increases-turkish-achievement.md) — related
 - [Narrative theory instruction improved students' image creativity scores for poster design](narrative-theory-improved-image-creativity-scores.md) — related
+- [Both groups improved significantly from pre-test to post-test in the local history learning activities](pre-post-gains-both-groups.md) — related

@@ -45,7 +45,8 @@ Based on the finding that the visual-only diagramming condition produced the lar
 - [The treatment x WMC interaction persists after controlling reading, calculation, and fluid intelligence](../claims/wmc-interaction-robust-to-basic-skills-controls.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Gradually increase irrelevant propositions within word-problem materials to boost solution accuracy for children with MD](gradual-irrelevant-propositions-curriculum.md)
 
 ## Examples
 -

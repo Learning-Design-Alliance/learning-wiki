@@ -38,7 +38,7 @@ Lesselroth Blake, Riese Janik, Yang Zhichao, Jaleel Shahila, Shabbir Waqas, Jale
 
 `q3 · i?` · `quant-synthesis · r2`
 
-Pooled analysis of in-training residency exam studies found ChatGPT-4.0 "achieved an accuracy rate of 72.2%, compared to 57.7% for ChatGPT-3.5". No standardized effect size is printed for this contrast, so impact is null.
+Pooled analysis of in-training residency exam studies found ChatGPT-4.0 "achieved an accuracy rate of 72.2%, compared to 57.7% for ChatGPT-3.5". No standardized effect size is printed for this contrast, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "In in-training residency exams, ChatGPT-4 achieved an accuracy rate of 72.2%, compared to 57.7% for ChatGPT-3.5."
 

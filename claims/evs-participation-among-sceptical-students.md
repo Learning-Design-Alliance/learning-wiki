@@ -37,7 +37,7 @@ Samuel O. King and Carol Robinson. (2008). 'Pretty Lights' and Maths! Increasing
 
 `q2 · i?` · `associational · r1`
 
-Correlational analysis of main questionnaire responses linking usefulness ratings to stated participation likelihood. Percentages are descriptive; no effect size is printed, so impact is null.
+Correlational analysis of main questionnaire responses linking usefulness ratings to stated participation likelihood. Percentages are descriptive; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Data analysis shows 71% of students who said they are 'neutral' as well as 57% of those who rated handset usefulness as either 'Not at all useful' or 'Not very useful' indicated that there is at least a 50% likelihood that these same students will participate in a class due to handset use"
 

@@ -37,7 +37,7 @@ Kenneth R. Koedinger & Vincent Aleven. (2016). An Interview Reflection on “Int
 
 `q2 · i?` · `qualitative · r1`
 
-The interview restates the headline result of the 1997 year-long quasi-experiment in three Pittsburgh city schools: “the 470 students in experimental classes outperformed students in comparison classes” by 15% on standardized tests and 100% on course-objective tests. No effect size is printed, so impact is null.
+The interview restates the headline result of the 1997 year-long quasi-experiment in three Pittsburgh city schools: “the 470 students in experimental classes outperformed students in comparison classes” by 15% on standardized tests and 100% on course-objective tests. No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "On average the 470 students in experimental classes outperformed students in comparison classes by 15 % on standardized tests and 100 % on tests targeting the [course] objectives."
 

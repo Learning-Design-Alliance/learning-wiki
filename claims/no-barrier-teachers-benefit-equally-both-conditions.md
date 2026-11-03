@@ -37,7 +37,7 @@ Julie Sarno Owens, Erika K. Coles, Steven W. Evans, Lina K. Himawan, Erin Girio-
 
 `q2 · i?` · `causal · r2`
 
-Aim 2 subgroup analysis of teachers with no knowledge, belief, or skill barriers in the pilot sample. The article reports the average effect size of .06 across variables based on slopes, not statistical tests; the .06 difference ratio is not a standardised effect size for a single contrast, so impact is null.
+Aim 2 subgroup analysis of teachers with no knowledge, belief, or skill barriers in the pilot sample. The article reports the average effect size of .06 across variables based on slopes, not statistical tests; the .06 difference ratio is not a standardised effect size for a single contrast, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "teachers in High Baseline Latent Class 1 group benefited from both conditions nearly equivalently, with an average effect size (across all variables) between the conditions of .06"
 

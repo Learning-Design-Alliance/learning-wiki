@@ -37,7 +37,7 @@ Paneth, L., Jeitziner, L. T., Rack, O., Opwis, K., & Zahn, C. (2024). Zooming in
 
 `q2 · i?` · `associational · r2`
 
-Correlation analysis (Spearman ρ for QCGE dimensions, Pearson r for nonverbal predictors) to examine discriminative validity; correlations among nonverbal behaviors partially show weak to moderate effect sizes and do not suggest multicollinearity. Printed magnitude values are not given in the text, so impact is null.
+Correlation analysis (Spearman ρ for QCGE dimensions, Pearson r for nonverbal predictors) to examine discriminative validity; correlations among nonverbal behaviors partially show weak to moderate effect sizes and do not suggest multicollinearity. Printed magnitude values are not given in the text, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The Spearman's ρ results suggest that the QCGE dimensions are weakly correlated with each other, except for CE and CC, indicating a moderate effect size."
 

@@ -70,3 +70,4 @@ Paired samples t-test for the PI discussion group (n=16); Table 3 reports pre-te
 - [Communicative Apprehension increased slightly more in the Debate group than in the PI group](debate-slightly-more-apprehension.md) — related
 - [English pronunciation self-efficacy is strongly and positively associated with willingness to communicate in English among Chinese EFL learners](pronunciation-self-efficacy-associated-with-wtc.md) — related
 - [The Debate group showed a larger descriptive gain in Self-Perceived Communicative Competence than the PI group](debate-larger-communicative-competence-gain.md) — related
+- [Teaching communication strategies raises EFL learners’ classroom Willingness to Communicate more than regular instruction, with a large between-group difference (eta squared = .10)](cs-training-raises-wtc-posttest.md) — related

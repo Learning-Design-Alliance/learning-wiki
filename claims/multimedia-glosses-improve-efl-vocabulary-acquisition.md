@@ -73,3 +73,5 @@ Quasi-experimental pretest-posttest control group study of 45 first-year EFL stu
 - [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](multimedia-improves-size-vocabulary-thai-third-grade.md) — related
 - [Teaching vocabulary through semantic mapping significantly improves EFL learners' overall vocabulary achievement compared with usual vocabulary instruction](semantic-mapping-improves-vocabulary-achievement.md) — related
 - [Input Enhancement strategy improved the vocabulary knowledge of Iranian EFL learners over a three-month treatment](input-enhancement-improves-efl-vocabulary-knowledge.md) — related
+- [Instructional video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment](instructional-video-improves-efl-vocabulary.md) — related
+- [Both giving and receiving marginal L1 glosses improve L2 vocabulary learning on a fill-in-the-blank test relative to no glosses](marginal-l1-glosses-improve-fill-in-blank-vocabulary.md) — related

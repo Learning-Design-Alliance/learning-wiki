@@ -49,3 +49,4 @@ Pre-test/post-test experimental study with repeated-measures ANOVA on 112 Irania
 - [CDA-based reading instruction does not differ significantly between male and female EFL students](cda-instruction-no-gender-difference.md) — related
 - [CDA-based instruction is associated with high self-reported motivation, attitude change, and interest in text analysis among EFL students](cda-instruction-increases-student-motivation.md) — related
 - [Instructing critical thinking through debate significantly improves EFL learners' reading comprehension compared to lecturing](debate-improves-efl-reading-comprehension.md) — related
+- [Overall analytical reading practices improved significantly after CDA instruction compared with traditional teaching](cda-overall-analytical-reading-gain.md) — related

@@ -52,6 +52,7 @@ The article's concrete recommendation for researchers and practitioners beginnin
 - [Assess organisational readiness at the start of an adaptive learning implementation project by selecting context-relevant determinants from the framework](assess-organisational-readiness-determinants-selection.md)
 - [Conduct stakeholder analysis before implementing a national competency framework](stakeholder-analysis-before-framework-implementation.md)
 - [Use structured argumentation activities to help teachers new to argumentation start and sustain argumentation in science courses](argumentation-activities-for-teachers-new-to-argumentation.md)
+- [Implement UbD through collaborative teacher design groups with iterative evaluation meetings](ubd-teacher-design-groups-strategy.md)
 
 ## Examples
 -

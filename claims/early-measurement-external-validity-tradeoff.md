@@ -37,7 +37,7 @@ Anna Shapiro and Christina Weiland. (2019). What Is in a Definition? The How and
 
 `q2 · i?` · `causal · r2`
 
-The article's methodological argument, grounded in the observation that most preschool special education disabilities are academic-related and diagnosed only after exposure to formal schooling. This is an analytical argument rather than a new empirical estimate, so no effect size is printed and impact is null.
+The article's methodological argument, grounded in the observation that most preschool special education disabilities are academic-related and diagnosed only after exposure to formal schooling. This is an analytical argument rather than a new empirical estimate, so no effect size is printed and, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "prioritizing the internal validity of the estimates by measuring disability status prior to assignment introduces an external validity trade-off because the earlier the special needs are measured, the more likely the subgroup will be a narrower cross-section of the students for whom we are interested in estimating program effects"
 

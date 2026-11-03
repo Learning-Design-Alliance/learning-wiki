@@ -46,3 +46,4 @@ Validation analysis classifying post-test scores as pass (transmuted grade of 50
 
 ## Related Claims
 - [Students taught college algebra via the scientific heuristic method performed significantly better on the post-test than students taught by direct instruction](scientific-heuristic-outperforms-direct-instruction-posttest.md) — related
+- [Within individual assignment types, Fisher exact tests show almost no difference between experimental and control groups](fisher-tests-no-within-strata-difference.md) — related

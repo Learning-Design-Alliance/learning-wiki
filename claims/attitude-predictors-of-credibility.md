@@ -37,7 +37,7 @@ Mutlu Cukurova & Rosemary Luckin & Carmel Kent. (2020). Impact of an Artificial 
 
 `q3 · i?` · `causal · r2`
 
-Six multiple linear regressions on the credibility scores; all models significantly predicted the outcomes, but no standardised effect size for the composite predictor is printed, so impact is null.
+Six multiple linear regressions on the credibility scores; all models significantly predicted the outcomes, but no standardised effect size for the composite predictor is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "only (1) was a significant predictor of the composite credibility score, and participants age was a significant factor for help-understanding and empirical dimensions."
 

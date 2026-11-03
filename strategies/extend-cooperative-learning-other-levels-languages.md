@@ -17,7 +17,7 @@ sources:
 # Extend co-operative grammar learning to other levels, subjects and languages
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Based on its findings, the article recommends broad application: "Cooperative learning can be extended to other Higher secondary schools" and "It can be utilized to improve other language learning." Further listed extensions include higher education, other subjects, teacher education, rural schools, slow learners, upper-primary quality education, communicative skills and distance education. The strategy is to transfer the same team-based activity sequence into these new settings.
@@ -46,6 +46,8 @@ Based on its findings, the article recommends broad application: "Cooperative le
 
 - [Extend Jigsaw research to other grammar topics, language skills, and cooperative techniques](extend-jigsaw-research-agenda.md)
 - [Train students in cooperative learning before applying cooperative techniques](train-students-before-cooperative-learning.md)
+- [Extend cooperative learning research to male students, other subjects, and affective outcomes](extend-cooperative-learning-research-strategy.md)
+- [Extend discovery learning across subjects, school levels, adult education and teacher education](extend-discovery-learning-across-subjects-and-levels.md)
 
 ## Examples
 -

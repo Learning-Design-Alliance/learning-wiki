@@ -72,3 +72,4 @@ The review reports, citing Buck et al. (2014) and Moebius-Clune et al. (2011), t
 - [Open inquiry affects students' motivation, though one reviewed study found no significant difference in collaborative attitudes](open-inquiry-student-motivation.md) — related
 - [Students in the ICLS experiments were satisfied with the system and mostly found it useful for collaborating, but were concerned about its slowness](icls-students-satisfied-and-found-useful.md) — related
 - [Positive attitude increases satisfaction, and satisfaction increases course recommendation](attitude-satisfaction-recommendation-chain.md) — related
+- [The article reports that the REACT strategy affects learners' learning motivation and attitudes and contributes to a more positive learning environment](react-affects-motivation-attitudes.md) — related

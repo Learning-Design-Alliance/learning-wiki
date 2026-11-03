@@ -50,3 +50,4 @@ Content analysis and thematic reading of 52 assessment plans from state and priv
 - [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](composite-indicators-poor-conceptual-alignment-deeper-learning.md) — a broader claim this one bears on
 - [SDL is implemented through two main categories: theoretical (knowledge-focused) and practical (hands-on procedural) approaches](sdl-two-categories-theoretical-practical.md) — related
 - [Investigation-phase analysis found lesson plans and tests in the studied school oriented to lower-order thinking, with poor student higher-order thinking ability](kupang-lesson-plans-lower-order-orientation.md) — related
+- [Teacher educators implemented the e-assessments formatively and reported new procedures, materials and tools as outcomes of the interventions](eassessment-formative-use-procedural-outcomes.md) — related

@@ -37,7 +37,7 @@ Marta M. Koć-Januchta, Tim N. Höffler, Helmut Prechtl, Detlev Leutner. (2020).
 
 `q3 · i?` · `causal · r2`
 
-Randomized 2×2 experiment with 235 biology students learning about photosynthesis from animation or static pictures with spoken narration. The GLM analysis with visual cognitive style as covariate found the pacing main effect, with means of "Mself-paced = 29.32" versus "Msystem-paced = 31.19"; no standardised effect size beyond the printed ηp² was interpreted, so impact is null.
+Randomized 2×2 experiment with 235 biology students learning about photosynthesis from animation or static pictures with spoken narration. The GLM analysis with visual cognitive style as covariate found the pacing main effect, with means of "Mself-paced = 29.32" versus "Msystem-paced = 31.19"; no standardised effect size beyond the printed ηp² was interpreted, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The expected main effect of type of pacing, F(1,227) = 2.76, p (one-tailed, 1-df-test) = .098/2 = .049, η p 2 = .012; Mself-paced = 29.32; SDself-paced = 9.17; Msystem-paced = 31.19; SDsystem-paced = 9.09."
 

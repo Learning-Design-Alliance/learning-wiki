@@ -37,7 +37,7 @@ Robinson, C.; Finefter-Rosenblum, I.; Benshoof, C.; Gehlbach, H. (2016). Getting
 
 `q3 · i?` · `causal · r2`
 
-Secondary coefficient from the same OLS regression in the split-ballot experiment: NNSTOY membership predicted support with "𝛽 = 0.23; 𝑝 < 0.001". The sample was recruited via NNSTOY snowball sampling. The article prints no standardized effect size (d or r) for this contrast, so impact is null.
+Secondary coefficient from the same OLS regression in the split-ballot experiment: NNSTOY membership predicted support with "𝛽 = 0.23; 𝑝 < 0.001". The sample was recruited via NNSTOY snowball sampling. The article prints no standardized effect size (d or r) for this contrast, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "NNSTOY teachers were, on average, more supportive of student perception surveys than teachers who have not received national recognition (𝐵 = 0.41, 𝑆𝑆 = 0.10, 𝐶𝐶: 0.21, 0.46; 𝛽 = 0.23; 𝑝 < 0.001)."
 

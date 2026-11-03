@@ -37,7 +37,7 @@ Bridges, J. W. (1920). The correlation between college grades and the Alpha inte
 
 `q3 · i?` · `associational · r2`
 
-Percentage distributions in Table II for the five Alpha classes (points 178-212 down to 0-84) show F and P of 25.1, 32.8, 46.6, 66.7, 88.3 and G and M of 42.7, 33.6, 18.3, 5.5, 3.3 across Classes I-V; no effect size is printed, so impact is null.
+Percentage distributions in Table II for the five Alpha classes (points 178-212 down to 0-84) show F and P of 25.1, 32.8, 46.6, 66.7, 88.3 and G and M of 42.7, 33.6, 18.3, 5.5, 3.3 across Classes I-V; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The relationship between the intelligence class attained and the point-hour ratio is shown in Table II. The percentage distribution of academic grades for students of each class is given."
 

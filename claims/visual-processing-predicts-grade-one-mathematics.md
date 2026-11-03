@@ -35,7 +35,7 @@ Yang X and Meng X (2020) Visual Processing Matters in Chinese Reading Acquisitio
 
 `q3 · i?` · `associational · r2`
 
-Univariate hierarchical regression in the same longitudinal sample predicting grade-one mathematics (calculation and word problems factor score). The article reports visual processing "still signiﬁcantly explained 7% of the variance in mathematics" (β = −0.30, t = −2.54, p < .05, Table 3); no standardized effect size is printed, so impact is null.
+Univariate hierarchical regression in the same longitudinal sample predicting grade-one mathematics (calculation and word problems factor score). The article reports visual processing "still signiﬁcantly explained 7% of the variance in mathematics" (β = −0.30, t = −2.54, p < .05, Table 3); no standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "after initial mathematics at senior kindergarten was further controlled, visual processing still signiﬁcantly explained 7% of the variance in mathematics."
 

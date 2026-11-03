@@ -37,7 +37,7 @@ J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowi
 
 `q3 · i?` · `causal · r2`
 
-EEG recorded pre- and post-training while participants performed a neural assessment version of NeuroRacer; event-related spectral perturbations and phase coherence time-locked to sign onset. Each neural measure showed interactions with "Cohen'sd . 0.93" reported only as a lower bound, so no exact effect size is printed and impact is null.
+EEG recorded pre- and post-training while participants performed a neural assessment version of NeuroRacer; event-related spectral perturbations and phase coherence time-locked to sign onset. Each neural measure showed interactions with "Cohen'sd . 0.93" reported only as a lower bound, so no exact effect size is printed and, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "a group X session X condition ANOVA for each neural measure revealed significant interactions (in each case, F(2,41) . 4.98, P , 0.01, Cohen'sd . 0.93; see Supplementary Fig. 6a, b), with follow-up analyses demonstrating improvement only for MTT during 'sign and drive' (n5 15)"
 

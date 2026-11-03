@@ -46,6 +46,7 @@ In its recommendation section the article states that "problem-based learning sh
 - [Socialize PBL with teachers and provide easy guidance before using PBL-based teaching material](socialize-pbl-and-teacher-guidance-strategy.md)
 - [Recommendations for future PBL and concept cartoon research and materials](pbl-concept-cartoon-future-recommendations.md)
 - [Project-Based Learning (PBL) in Math](project-based-learning-pbl-in-math.md)
+- [Use problem-based learning as an additional mathematics teaching strategy to overcome the male image of mathematics](pbl-to-overcome-male-image-of-mathematics.md)
 
 ## Examples
 -

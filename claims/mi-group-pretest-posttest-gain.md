@@ -50,3 +50,4 @@ Dependent-groups t-test on the 30-student experimental group (t = -12.258, p = .
 - [The experimental group's Geography achievement scores rose significantly from pre-test to post-test after PowerPoint instruction](powerpoint-pre-post-gain-geography.md) — related
 - [Experimental-group achievement rose significantly from pre- to post-test while the control group's gain was not significant](ict-narratives-within-group-achievement-gain.md) — a broader claim this one bears on
 - [The experimental group's achievement scores rose significantly from pre-test to post-test under the technology-supported program](experimental-group-significant-pretest-posttest-gain.md) — related
+- [In a grade XI geography class, learning with the REACT strategy raised geography skills from a pretest average of 76.08 to a posttest average of 84.41, an N-gain of 0.901 in the high category](react-strategy-raises-geography-skills-high-ngain.md) — related

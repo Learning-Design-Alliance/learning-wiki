@@ -14,7 +14,7 @@ grain_size: course
 # Mentor Support in Self-Paced Online Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 108 claims (55 for, 47 mixed, 6 against) · 86 studies (19 causal, 17 associational, 14 review, 11 quant-synthesis, 10 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 12 of 86 report an effect size · 98 claims rest on one study
+> **Evidence** · 109 claims (56 for, 47 mixed, 6 against) · 87 studies (20 causal, 17 associational, 14 review, 11 quant-synthesis, 10 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 12 of 87 report an effect size · 99 claims rest on one study
 
 ## Description and scope
 
@@ -151,6 +151,7 @@ This pattern is scoped to support around self-paced online courses and programme
 - [Students who voluntarily requested coaching possessed more academic risk factors than the comparison group on all three baseline surveys](../claims/coaching-self-selectors-higher-academic-risk.md) [~W]
 - [Mentors provided intensive interventions to a majority of students regardless of whether students were designated high risk](../claims/intensive-interventions-regardless-of-risk-designation.md) [~W]
 - [Discussion forum questions posted by online learners rose steadily across the five days and were all answered by mentors](../claims/discussion-forum-questions-rose-all-answered.md) [~W]
+- [Descriptive passing rates were higher for advised at-risk students (57.7%) than non-advised students (33.3%), while the withdrawal difference was not statistically significant](../claims/descriptive-passing-rate-advising-gap.md) [+W]
 
 ## Related Patterns
 

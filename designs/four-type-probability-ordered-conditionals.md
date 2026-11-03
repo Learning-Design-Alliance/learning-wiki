@@ -40,7 +40,8 @@ A lesson-level classification presenting conditionals in order of high-to-low pr
 - 
 
 ## Related Designs
-- 
+
+- [Pitch-level and intonation-contour framework for English If-clauses (Discourse Intonation Model perspective)](pitch-levels-intonation-contours-if-clauses.md)
 
 ## Examples
 -

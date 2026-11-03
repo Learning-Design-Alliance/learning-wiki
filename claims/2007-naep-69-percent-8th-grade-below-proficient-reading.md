@@ -51,3 +51,4 @@ Descriptive report of national NAEP 2007 reading data cited in the guide's overv
 - [Large shares of U.S. 4th and 8th graders read below the NAEP Basic level in reading comprehension](naep-2005-below-basic-reading.md) — related
 - [Percentages of students at or above NAEP Proficient were unchanged in mathematics and lower in reading since 2017 at grades 4 and 8](naep-2019-proficient-unchanged-math-lower-reading.md) — related
 - [A large share of black fourth-graders score below NAEP Basic in reading, and the article argues many are children with undiagnosed dyslexia](naep-below-basic-black-fourth-graders-dyslexia.md) — related
+- [National writing assessment data show most US 8th graders perform below proficiency in writing](naep-8th-grade-writing-below-proficiency.md) — related

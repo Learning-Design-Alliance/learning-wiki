@@ -96,3 +96,4 @@ Homogeneity check on TOEFL pretest scores of the 15-member control and 15-member
 - [Pre-test comparison showed no significant difference between experimental and control groups before implementation](pretest-no-difference-groups.md) — related
 - [The SR and SU groups were roughly equal in English proficiency before the treatment, as measured by their mid-term exam](sr-su-groups-equal-pretest-proficiency.md) — related
 - [SL and traditional groups were equivalent in speaking achievement at pre-test](equivalent-pretest-groups.md) — related
+- [Experimental and control groups were equivalent before treatment on both annual examination and pretest scores](groups-equivalent-at-baseline.md) — related

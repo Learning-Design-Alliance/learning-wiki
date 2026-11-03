@@ -56,7 +56,7 @@ Rajabi, B., & Hashemian, M. (2015). A Comparative Study of the Effectiveness of 
 
 `q2 · i?` · `causal · r1`
 
-Paired samples t test for the BLG reported in Table 3: mean paired difference -3.05000, t = -6.778, df = 19, Sig. (2-tailed) .000. No standardized effect size is printed, so impact is null.
+Paired samples t test for the BLG reported in Table 3: mean paired difference -3.05000, t = -6.778, df = 19, Sig. (2-tailed) .000. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "BLG Pretest – Posttest -3.05000 2.01246 .45000 -3.99186 -2.10814 -6.778 19 .000"
 

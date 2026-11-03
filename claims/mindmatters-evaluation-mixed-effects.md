@@ -46,7 +46,7 @@ Christ, O., Riedl, R., Schmid, J., Zürcher, P., & Thilo, F. (2026). Theoretical
 
 `q2 · i?` · `theoretical · r2`
 
-Narrative review reporting the German adaptation evaluation: a questionnaire-based pre–post study with 633 teachers and 4019 students. Teachers reported 'more positive perceptions of their schools' and reduced pressure; students reported improved social competence promotion. No effect sizes are printed, so impact is null.
+Narrative review reporting the German adaptation evaluation: a questionnaire-based pre–post study with 633 teachers and 4019 students. Teachers reported 'more positive perceptions of their schools' and reduced pressure; students reported improved social competence promotion. No effect sizes are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Franze and Paulus (2009) assessed the secondary school version in a large-scale study involving 633 teachers and 4019 students. Using a questionnaire-based pre–post design, they found that teachers reported more positive perceptions of their schools and experienced reduced pressure following the intervention."
 

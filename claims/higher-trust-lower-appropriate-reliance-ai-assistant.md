@@ -46,7 +46,7 @@ Griffin Pitts, Neha Rani, and Weedguet Mildort. (2026). Trust and Reliance on AI
 
 `q3 · i?` · `associational · r2`
 
-Ordinary least squares regression in the Results section predicting appropriate reliance from post-task trust among 432 undergraduates. The article reports "b=−3.65" with p < .001 and R2 = .173; no standardized effect size is printed, so impact is null.
+Ordinary least squares regression in the Results section predicting appropriate reliance from post-task trust among 432 undergraduates. The article reports "b=−3.65" with p < .001 and R2 = .173; no standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Trust was a strong negative predictor of appropriate reliance (b=−3.65,SE= 0.39,t(430) =−9.48,p<.001,R 2 =.173), indicating that students who reported higher trust tended to make fewer decisions appropriately in this task."
 

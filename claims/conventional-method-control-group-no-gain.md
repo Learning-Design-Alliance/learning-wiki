@@ -111,3 +111,6 @@ Quasi-experimental control condition (n = 42); Table 2 reports pre-test mean 9.4
 - [CBPSI significantly improved problem solving performance of Grade 10 learners from pre-test to post-test](cbpsi-improves-problem-solving-performance-grade-10.md) — related
 - [Scientific inquiry learning model based on conceptual change improves science process skills better than conventional learning](scientific-inquiry-conceptual-change-improves-science-process-skills.md) — related
 - [Traditional classroom teaching showed no significant improvement in students' critical thinking ability over the same period](traditional-teaching-no-critical-thinking-gain.md) — possibly the same claim (merge candidate)
+- [Discovery learning strategies produce significant achievement gains in English grammar for standard V learners compared with conventional methods](discovery-learning-effective-english-grammar-standard-v.md) — related
+- [Integrative teaching techniques improve German speaking-skill learning outcomes in a single-group quasi-experiment](integrative-techniques-improve-german-speaking-outcomes.md) — related
+- [Standard V pupils show low pre-test achievement in English grammar under conventional methods relative to the experimental group](pre-test-low-achievement-conventional-grammar.md) — related

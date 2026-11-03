@@ -122,3 +122,5 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Students' views on the animated 5E activities clustered around active learning, motivation and enjoyment, with time demands as the main disadvantage](student-views-animated-5e-advantages.md) — related
 - [Participation in the Alkhimia curriculum shifted intervention students' identity perceptions and their dispositions toward scientific inquiry](alkhimia-shifts-identity-and-inquiry-dispositions.md) — related
 - [Teacher interviews attributed increased motivation and engagement to the visual and interactive features of learning objects in both settings](teacher-interviews-los-motivation-both-settings.md) — related
+- [Observations of the JCLS experimental group showed high rates of active hands-on practice, repeated answering attempts, joyful reactions and a hedonic atmosphere](jcls-observation-indicators-high.md) — related
+- [Focus group interviews identify motivation (fun, attractiveness, clarity) and knowledge transfer (real life, speaking) as student themes about UbD](ubd-student-views-motivation-knowledge-transfer.md) — related

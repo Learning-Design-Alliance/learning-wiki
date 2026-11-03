@@ -37,7 +37,7 @@ Tudor Car Lorainne, Soong Aijia, Kyaw Bhone Myint, Chua Kee Leng, Low-Beer Naomi
 
 `q3 · i?` · `quant-synthesis · r2`
 
-Meta-analysis of three RCTs (n = 405 across five studies measuring knowledge) comparing digital education with lectures, printed materials or small-group tutorials. The review reports a "small statistically non-significant effect"; no effect size beyond the SMD is printed, so impact is null.
+Meta-analysis of three RCTs (n = 405 across five studies measuring knowledge) comparing digital education with lectures, printed materials or small-group tutorials. The review reports a "small statistically non-significant effect"; no effect size beyond the SMD is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The pooled estimate from three studies reporting post-intervention data showed a small statistically non-significant effect on knowledge scores in the digital education group compared to traditional learning (SMD = 0.23, 95% CI − 0.12, 0.59; I2 = 34%, moderate quality of evidence)"
 

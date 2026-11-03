@@ -25,14 +25,12 @@ SCEPPSys is an Eclipse-based distributed pair-programming system developed by Ts
 
 ### Claims
 - [Students gave positive feedback on DPP and rated guided problem solving highly, but hints, chat, and participation-rate display were rated less useful](../claims/student-feedback-dpp-sceppsys.md) [~W]
-- [System-initiated role switching produced more role switches than free collaboration in DPP](../claims/structured-dpp-more-role-switches.md) [+W]
+- [System-initiated role switching produced more role switches than free collaboration in DPP](../claims/structured-dpp-more-role-switches.md) [+M]
 - [Structured collaboration did not significantly improve balance of student code contributions compared to free collaboration](../claims/structured-dpp-no-contribution-balance-gain.md) [-W]
-- [The balanced knowledge acquisition policy achieved more even task distribution across learning goals than free collaboration](../claims/balanced-knowledge-policy-task-distribution.md) [+W]
+- [The balanced knowledge acquisition policy achieved more even task distribution across learning goals than free collaboration](../claims/balanced-knowledge-policy-task-distribution.md) [+M]
 - [Both conditions improved Java knowledge from pre- to post-test, with no difference in learning outcomes between structured and free collaboration](../claims/dpp-pre-post-knowledge-gains.md) [~W]
 - [Project scores were comparable between conditions except the fifth project, where the control group scored higher](../claims/project-scores-fifth-project-control-higher.md) [~W]
 - [Structured collaboration did not influence assignment completion time compared to free collaboration](../claims/structured-dpp-no-completion-time-effect.md) [~W]
-- [System-initiated role switching produced more role switches than free collaboration in DPP](../claims/structured-dpp-more-role-switches.md) [+M]
-- [The balanced knowledge acquisition policy achieved more even task distribution across learning goals than free collaboration](../claims/balanced-knowledge-policy-task-distribution.md) [+M]
 
 ## Related Products and Programmes
 -

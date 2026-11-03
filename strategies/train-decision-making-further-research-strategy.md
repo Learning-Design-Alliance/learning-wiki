@@ -43,6 +43,7 @@ The article calls for training students on acquiring decision-making skill due t
 ## Related Strategies
 
 - [Prioritize longitudinal, comparative-effectiveness, and patient-outcome research and standardized practices for podiatry simulation](podiatry-simulation-research-gap-agenda.md)
+- [Extend cooperative learning research to male students, other subjects, and affective outcomes](extend-cooperative-learning-research-strategy.md)
 
 ## Examples
 -

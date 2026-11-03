@@ -51,3 +51,4 @@ Descriptive analysis of pre-test and post-test scores for both groups (N = 20 ea
 - [Descriptive means moved in opposite directions: the treatment group's critical thinking disposition mean rose while the control group's fell](ctd-means-opposite-directions.md) — related
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
 - [The experimental group's mean listening score rose from 51.56 on the pre-test to 69.86 on the post-test](experimental-group-mean-rose-51-56-to-69-86.md) — related
+- [Both groups improved vocabulary retention from pre-test to post-test, with a larger gain in the PowerPoint group](within-group-vocabulary-gains-both-conditions.md) — reports the opposite

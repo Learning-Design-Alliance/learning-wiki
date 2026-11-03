@@ -51,6 +51,7 @@ The strategy implements the AI-GFCA stages in a role-play lesson: students first
 ## Related Strategies
 
 - [Role Play](role-play.md)
+- [Structured YouTube viewing sequence for vocabulary lessons: pre-questions, dual viewing with pausing, group discussion, and role-play follow-up](structured-youtube-viewing-sequence-vocabulary.md)
 
 ## Examples
 -

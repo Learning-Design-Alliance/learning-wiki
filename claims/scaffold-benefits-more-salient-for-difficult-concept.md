@@ -53,3 +53,4 @@ Moderator analysis within the classroom intervention (N = 221): the article repo
 - [Coping versus mastery model benefits depend on task difficulty and observers' prior success](coping-versus-mastery-models-task-difficulty.md) — related
 - [Task difficulty moderated the facilitating effect of flexibility on ideal manipulation only, with the effect more salient for harder tasks](difficulty-moderates-flexibility-ideal-manipulation-only.md) — related
 - [The constructive method benefited higher-performing students more, while the explicit group had a lower failure percentage](constructive-method-failure-rate-lower-performers.md) — related
+- [Problem difficulty level relates to metacognitive knowledge level: the more difficult the problem, the higher the metacognitive knowledge required](problem-difficulty-metacognitive-level.md) — related

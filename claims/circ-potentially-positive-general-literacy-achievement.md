@@ -38,7 +38,7 @@ Cooperative Integrated Reading and Composition®. (2010). WWC Intervention Repor
 
 `q2 · i?` · `quant-synthesis · r1`
 
-WWC systematic review computing improvement indices from the same two quasi-experiments; findings across the two studies were inconsistent, and no standardised effect size is printed for the domain average, so impact is null.
+WWC systematic review computing improvement indices from the same two quasi-experiments; findings across the two studies were inconsistent, and no standardised effect size is printed for the domain average, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The average improvement index for general literacy achievement is +2 percentile points, with a range of –3 to +8 percentile points across findings from two studies."
 

@@ -37,7 +37,7 @@ Chrysi Rapanta & Mark K. Felton. (2022). Learning to Argue Through Dialogue: a R
 
 `q2 · i?` · `review · r3`
 
-Descriptive frequency analysis of reported socio-emotional and metalevel gains across the review's pattern studies. The authors report that "48 out of the 108 pattern studies mentioned at least one of the two argument-as-process gains (i.e., socio-emotional and/or metalevel) as relevant for learning to argue". No effect size is printed, so impact is null.
+Descriptive frequency analysis of reported socio-emotional and metalevel gains across the review's pattern studies. The authors report that "48 out of the 108 pattern studies mentioned at least one of the two argument-as-process gains (i.e., socio-emotional and/or metalevel) as relevant for learning to argue". No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "48 out of the 108 pattern studies mentioned at least one of the two argument-as-process gains (i.e., socio-emotional and/or metalevel) as relevant for learning to argue."
 

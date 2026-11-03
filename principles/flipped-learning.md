@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 102 claims (53 for, 45 mixed, 4 against) · 72 studies (31 causal, 19 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 26 of 72 report an effect size · 94 claims rest on one study
+> **Evidence** · 107 claims (57 for, 46 mixed, 4 against) · 73 studies (32 causal, 19 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 26 of 73 report an effect size · 99 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,8 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Experimental-group students' achievement scores rose significantly from pre-test to post-test under the flipped classroom strategy](../claims/fcrs-pre-post-achievement-gain.md) [+W] — attached 2026-11-02 from El-Senousy et al. (2017), which proposed "Two-phase flipped classroom pattern: online multimedia at home, collaborative problem-solving class activities with immediate feedback".
 - [Experimental-group students' self-regulated learning skills scores rose significantly from pre-test to post-test under the flipped classroom strategy](../claims/fcrs-pre-post-srls-gain.md) [+W] — attached 2026-11-02 from El-Senousy et al. (2017), which proposed "Two-phase flipped classroom pattern: online multimedia at home, collaborative problem-solving class activities with immediate feedback".
 - [Students taught by an experienced flipped-learning teacher also showed statistically significant improvements in EFL composition writing proficiency](../claims/flipped-learning-significant-writing-gains-fe-group.md) [+W] — attached 2026-11-02 from Adrian Leis et al. (2018), which proposed "Flipped classroom structure: content explanation moved before class, practice under teacher supervision during class, review after class".
+- [A project-based flipped learning model raised translation competence test scores in a Business English Translation course over one 16-week semester](../claims/flipped-translation-competence-posttest-gain.md) [+W] — attached 2026-11-03 from Lijun Deng (2018), which proposed "Project-based flipped learning pattern with client and translator groups rotating across business translation units"; tests this page's relationship.
+- [Classroom participation was rated significantly higher in the flipped project-based class than in the control class](../claims/flipped-translation-classroom-participation-higher.md) [+W] — attached 2026-11-03 from Lijun Deng (2018), which proposed "Project-based flipped learning pattern with client and translator groups rotating across business translation units".
 
 ## Objective and learner-valued goal
 
@@ -236,6 +238,9 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [The flipped classroom strategy showed a very large effect size on achievement (d = 3) and a large effect size on self-regulated learning skills (d = 0.8)](../claims/fcrs-effect-sizes-achievement-srls.md) [+W]
 - [The flipped-learning experimental group improved TOEIC scores significantly more than the paper-based control group](../claims/flipped-course-toeic-gain-exceeds-control.md) [+W]
 - [Class size showed no significant relationship with TPR effect sizes in meta-regression](../claims/tpr-class-size-null-meta-regression.md) [~W]
+- [Interviewed students in the flipped class reported strong interest and greater initiative, crediting checklists, role division and translation logs](../claims/flipped-translation-interview-engagement.md) [+W]
+- [Students in the flipped project-based class rated their translation competence self-evaluation higher than control-class students](../claims/flipped-translation-self-evaluation-higher.md) [+W]
+- [Mastery of translation skills showed little difference between the flipped and traditional classes, suggesting traditional teaching still delivers basic skills effectively](../claims/flipped-translation-skills-mastery-small-difference.md) [~M]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

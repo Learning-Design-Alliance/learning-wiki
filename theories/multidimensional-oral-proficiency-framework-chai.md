@@ -49,6 +49,7 @@ The article operationalizes spoken competence as a set of distinct but interrela
 - [Four-layer system architecture for intelligent oral diagnosis and adaptive training](../elements/four-layer-oral-diagnosis-system-architecture.md)
 - [Oracy Skills Framework](../products/oracy-skills-framework.md)
 - [Ministry of Education speaking assessment scale for Form One](../products/ministry-of-education-speaking-assessment-scale-for-form-one.md)
+- [Researcher-made oral achievement test of English communicative competency](../products/researcher-made-oral-achievement-test-of-english-communicative-competency.md)
 
 ## Key Sources
 - Chai Rui. (2026). Deep learning-based intelligent diagnosis and adaptive training system for university english oral proficiency. Scientific Reports. https://doi.org/10.1038/s41598-026-51608-6

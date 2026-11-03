@@ -49,3 +49,4 @@ Pre-test comparison in the same quasi-experiment: recognition means 30.58 (jigsa
 - [Jigsaw cooperative learning produced higher laboratory material usage post-test scores than traditional instruction](jigsaw-higher-material-usage-posttest.md) — related
 - [Weekly laboratory skills ratings of the jigsaw group exceeded the scale midpoint across all experiment stages](jigsaw-lses-skills-above-midpoint.md) — related
 - [No significant difference in achievement between ABSI and control groups on pre-test or post-test scores](absi-control-posttest-no-difference.md) — related
+- [Groups did not differ on preintervention test scores, and the ACT effect remained significant when controlling for them](act-effect-robust-to-preintervention-scores.md) — related

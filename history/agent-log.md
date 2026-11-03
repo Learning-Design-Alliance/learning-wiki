@@ -5,6 +5,16 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-03 · "no effect size is printed, so impact is null" rewritten on 331 entries
+
+The extraction model explained an `i?` entry as "No effect size is printed, so impact is null", which says
+the opposite of the impact rule: `i?` means the source reports no magnitude and is never read as 0. 331
+entries on 325 claim pages carried it, and the load-bearing judge failed such entries at each of the last
+three holds. Each was rewritten to "so impact is coded i? (no magnitude reported; not a null effect)", only
+in entries whose codes line carries `i?`. The one entry coded `i0` with no printed effect size was recoded
+`i?` (an `i0` needs a printed effect below d 0.2). `ingest_extractions._no_null_impact` applies the same
+rewrite at ingest, so new pages do not carry the wording.
+
 ## 2026-11-03 · the ANOVA-row check tries the readings a table's printing makes likely
 
 Four holds running (j-screric-19 to -22) stopped on a source-validity "impossible statistic" that was the
@@ -14,7 +24,9 @@ PDF extraction split in two ("487.6 26" for 487.626). The first two were fixed a
 fails SS / df = MS is now reported only if it also fails both remaining readings: the first two numbers
 joined into one, and MS read in thousands (to 0.5%). Over every cached source this removes exactly those
 two findings and adds none. The point is that a person should only be stopped by a table that disagrees
-with itself on every reasonable reading of its print.
+with itself on every reasonable reading of its print. At the j-screric-23 hold two more were added, each
+removing exactly its own false finding and adding none: an SS printed without its decimal point
+("2734623" for 27346.23), and a row labelled "Group 5 (Control)", which is one group's descriptives.
 
 ## 2026-11-03 · evidence headings: two-author, mononym and compound-surname leads; header-only merges
 

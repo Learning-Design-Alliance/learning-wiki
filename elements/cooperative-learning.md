@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 36 claims (24 for, 11 mixed, 1 against) · 30 studies (17 causal, 9 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q1`–`q3` · 9 of 30 report an effect size · 34 claims rest on one study
+> **Evidence** · 38 claims (26 for, 11 mixed, 1 against) · 31 studies (18 causal, 9 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q1`–`q3` · 9 of 31 report an effect size · 36 claims rest on one study
 
 ## Description
 Cooperative learning organizes instruction so that small groups of learners work interdependently toward a shared goal, with each member responsible for both their own learning and their teammates' learning. It is distinguished from mere group work by deliberate structuring: positive interdependence, individual accountability, promotive interaction, social skills, and group processing (Johnson & Johnson's five elements).
@@ -88,6 +88,8 @@ Cooperative learning reliably improves achievement when group goals and individu
 - [Both jigsaw and traditionally taught groups showed statistically significant pre-test to post-test gains, with a larger gain in the jigsaw group](../claims/jigsaw-and-control-both-gain-significantly-pre-to-post.md) [+W]
 - [Average and low achievers taught with the structural method outperformed their counterparts taught with the contextual method on the posttest](../claims/structural-method-better-average-low-achievers-posttest.md) [+W]
 - [Both the animation-enriched and cooperative-learning-enriched 5E models improved seventh-graders' scientific attitudes relative to the 5E model alone, with no difference between the two enriched groups](../claims/5e-enrichments-improve-scientific-attitudes-over-control.md) [+W] — attached 2026-11-02 from İkramettin Daşdemir (2016), which proposed "Cooperative-learning-enriched 5E implementation with question-asking groups of four"; tests this page's relationship.
+- [Cooperative learning produced higher General Science posttest achievement than traditional teaching among 9th-grade students](../claims/cooperative-learning-higher-general-science-achievement.md) [+W] — attached 2026-11-03 from Qaisara Parveen (2012), which proposed "Cooperative learning material package: five lesson plans, five worksheets and five quizzes with Slavin-style group scoring"; tests this page's relationship.
+- [The cooperative learning group improved significantly from pretest to posttest](../claims/cooperative-group-pretest-posttest-gain.md) [+W]
 
 ## Related Elements
 - [Coaching](coaching.md) — the teacher's role shifts to monitoring groups and intervening at the process level

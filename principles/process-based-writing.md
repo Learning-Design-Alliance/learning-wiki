@@ -28,7 +28,7 @@ sources:
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (25 for, 18 mixed, 2 against) · 60 studies (23 causal, 11 quant-synthesis, 8 review, 6 associational, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 14 of 60 report an effect size · 35 claims rest on one study
+> **Evidence** · 46 claims (25 for, 19 mixed, 2 against) · 61 studies (24 causal, 11 quant-synthesis, 8 review, 6 associational, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 14 of 61 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,7 @@ Claims this page cited before it was rewritten, and claims found for it that bea
 - [Brainstorming-strategy instruction produced significantly higher post-test writing performance than traditional instruction among English-major university students](../claims/brainstorming-improves-efl-writing-performance.md) [+W] — attached 2026-11-01 from Amoush (2015), which proposed "EFL writing instruction should adopt brainstorming strategy and instructors should be trained in it".
 - [The process writing approach significantly improved academic writing success among first-year preschool teaching students relative to traditional instruction](../claims/process-writing-improves-academic-writing-success.md) [+W] — attached 2026-11-02 from Nihat BAYAT (2014), which proposed "Five-stage process writing cycle with peer and self evaluation in small groups"; tests this page's relationship.
 - [The process writing approach significantly decreased writing anxiety relative to traditional instruction](../claims/process-writing-decreases-writing-anxiety.md) [+W] — attached 2026-11-02 from Nihat BAYAT (2014), which proposed "Five-stage process writing cycle with peer and self evaluation in small groups".
+- [Under the BW intervention the two student subgroups grew similarly (no significant difference), whereas under PW general education students outperformed special education/at-risk students](../claims/bw-closes-subgroup-gap-pw-does-not.md) [~W] — attached 2026-11-03 from Fontenot et al. (2015), which proposed "Embed research-validated teaching strategies into a standard writing-process curriculum rather than replacing it".
 
 ## Objective and learner-valued goal
 

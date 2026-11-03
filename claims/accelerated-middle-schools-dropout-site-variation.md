@@ -55,7 +55,7 @@ What Works Clearinghouse. (2008). WWC Intervention Report: Accelerated Middle Sc
 
 `q3 · i?` · `causal · r2`
 
-Michigan RCT (172 applicants for the 1992/93 and 1993/94 school years), which met WWC standards with reservations due to differential attrition. Dropout at two years was 2% versus 9%, reported as statistically significant; no effect size is printed, so impact is null.
+Michigan RCT (172 applicants for the 1992/93 and 1993/94 school years), which met WWC standards with reservations due to differential attrition. Dropout at two years was 2% versus 9%, reported as statistically significant; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "In the Michigan study 2% of accelerated middle school students had dropped out of school two years after entering the program, compared with 9% of control-group students, a statistically significant difference."
 

@@ -37,7 +37,7 @@ Nicole Ziegler. (2016). SYNCHRONOUS COMPUTER-MEDIATED COMMUNICATION AND INTERACT
 
 `q3 · i?` · `quant-synthesis · r?`
 
-Moderator analysis within the meta-analysis (k = 14) splitting outcome measures by modality. The review reports "a small advantage for SCMC interaction on productive and written measures" and a corresponding small FTF advantage on receptive and oral outcomes. No numeric effect sizes are printed in the available text, so impact is null.
+Moderator analysis within the meta-analysis (k = 14) splitting outcome measures by modality. The review reports "a small advantage for SCMC interaction on productive and written measures" and a corresponding small FTF advantage on receptive and oral outcomes. No numeric effect sizes are printed in the available text, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "additional analyses indicating a small advantage for SCMC interaction on productive and written measures and a small advantage for FTF interaction on receptive and oral learning outcomes"
 

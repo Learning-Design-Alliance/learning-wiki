@@ -37,7 +37,7 @@ Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMers
 
 `q2 · i?` · `design · r1`
 
-The article reports, citing Li et al. (2024), an analysis of administrative records for 16 million college applicants exploiting staggered introduction of a listening component. The printed figures are percentile and gap changes, not standardized effect sizes, so impact is null.
+The article reports, citing Li et al. (2024), an analysis of administrative records for 16 million college applicants exploiting staggered introduction of a listening component. The printed figures are percentile and gap changes, not standardized effect sizes, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "rural candidates' English percentile ranks fell by about two points, the rural-urban gap in college access widened by roughly 30%, and the authors attribute the effect to listening and speaking requiring extracurricular resources that disadvantaged students lack"
 

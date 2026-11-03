@@ -67,6 +67,7 @@ Math Coaching converts word-problem practice into structured peer tutoring, comb
 - Reciprocal Teaching — analogous role rotation and dialogue structure applied to reading comprehension; Math Coaching adapts its predict–question–clarify–summarize cycle to operation selection
 - [Individual assessment during pair work: rotating roles, separate predictions and explanations, and independently-demonstrated ratings per outcome](individual-assessment-during-pair-work-robotics.md)
 - [Use TAPPS as a listening-partner procedure in which the solver verbalizes thoughts while the listener prompts without guiding](tapps-listening-partner-verbalization-procedure.md)
+- [Guide peer cooperation so children assist each other in fine motor operations](folk-games-peer-cooperation-strategy.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the core interaction; the coach role is a peer enactment of guided support

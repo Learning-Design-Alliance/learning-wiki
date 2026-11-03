@@ -49,3 +49,4 @@ Two-group time-series experiment with 30 experimental students; Table 2 reports 
 - [Both groups improved significantly from pretest to posttest on the BLAT](blat-within-group-gains-both-groups.md) — related
 - [Both the experimental and control classes improved significantly from pre-test to post-test in listening](otil-both-classes-significant-pre-post-gains.md) — related
 - [The CoBl model comprises four components and a three-phase instructional process with five pre-instruction steps and nine instructional steps](cobl-model-components-and-procedures.md) — related
+- [Both groups improved significantly from pre-test to post-test in the local history learning activities](pre-post-gains-both-groups.md) — related

@@ -38,7 +38,7 @@ Avivit Arvatz, Boaz Hadas, Rotem Waitzman, Yehudit Judy Dori (2025). Putting sel
 
 `q2 · i?` · `qualitative · r3`
 
-Rubric analysis of Adam's final module scored five out of ten potential SRL&T points; Ben achieved six out of ten in his final module (Appendix Table 7). Both "demonstrated intermediate SRL&T levels across their final modules, addressing most SRL skills to some extent." No standardized effect size is printed, so impact is null.
+Rubric analysis of Adam's final module scored five out of ten potential SRL&T points; Ben achieved six out of ten in his final module (Appendix Table 7). Both "demonstrated intermediate SRL&T levels across their final modules, addressing most SRL skills to some extent." No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Adam notably improved from three to six SRL&T points between his initial and final modules, while Ben's score only increased slightly from five to six. We'll now delve into the development of their reflection and formative assessment skills through reflective prompting analysis."
 

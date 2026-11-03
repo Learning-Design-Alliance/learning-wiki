@@ -51,3 +51,4 @@ Interview test scored 1-5 in half points by qualified FCE examiners blinded to c
 - [The phonics trial technique was statistically more efficient than traditional exam preparation despite the control cohort receiving more exam practice](phonics-more-efficient-than-exam-practice-control.md) — a broader claim this one bears on
 - [The trial group improved L2 pronunciation (grapheme-phoneme decoding) significantly, driven mainly by the digraph category](phonics-prosody-course-improves-l2-pronunciation.md) — related
 - [Guided ASR practice improves overall pronunciation accuracy of Korean EFL learners more than ordinary classroom pronunciation practice alone](asr-guided-practice-improves-overall-pronunciation-accuracy.md) — related
+- [Trainee interviews indicated the phonics-oriented training improved EFL teachers' pronunciation, vocabulary and attitudes toward learning](phonics-training-improved-teacher-pronunciation-vocabulary.md) — related

@@ -50,3 +50,4 @@ Diary self-study, journal entry of Oct. 27: an officemate's visitor says "Since 
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](mere-exposure-insufficient-advanced-l2-communicative-competence.md) — related
 - [Limited instruction directed at complex structures also proved effective, provided the target structures are readily available in noninstructional input](limited-ffi-complex-structures-effective-with-input-availability.md) — related
 - [Syntactic rather than semantic processing of input is essential for correcting incomprehensible output](syntactic-processing-corrects-incomprehensible-output.md) — related
+- [Negative feedback combined with opportunities to modify output improved Thai learners' English question development](feedback-plus-modified-output-question-development.md) — a narrower finding that bears on this claim

@@ -74,3 +74,4 @@ Diary self-study enumerating four situations for eliminating incomprehensible ou
 - [Generative AI tools do not possess conceptual knowledge or conscious understanding, relying only on word patterns and probabilities](genai-probabilistic-prediction-not-reasoning.md) — related
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
 - [Native speakers rarely supply negative input, so learners must infer or actively seek it by pushing for comprehensible output](pushing-output-elicits-negative-input.md) — related
+- [Negative feedback combined with opportunities to modify output improved Thai learners' English question development](feedback-plus-modified-output-question-development.md) — related

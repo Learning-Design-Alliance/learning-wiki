@@ -46,6 +46,8 @@ The authors close by recommending that primary EFL instructors promote task-base
 
 - [Devote class time for EFL students to interact, express understanding, and discuss comprehension with peers](devote-time-for-peer-discussion-of-comprehension.md)
 - [Use gamified information gap activities with time pressure and forced output to promote L2 oral interaction practice](gamified-information-gap-oral-interaction.md)
+- [Instructors compile native-speaker video lessons and pair students for peer-supported immersive multimedia learning of L2 oral skills](compile-native-video-lessons-peer-pairs-strategy.md)
+- [Scaffold interaction by task type, gender pairing, proficiency, explicit instruction and pre-task planning](scaffold-efl-interaction-strategies.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 487 claims (262 show a difference, 98 mixed, 127 no difference) · 330 studies (153 associational, 123 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 53 of 330 report an effect size · 479 claims rest on one study
+> **Evidence** · 494 claims (264 show a difference, 100 mixed, 130 no difference) · 336 studies (153 associational, 128 causal, 20 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 54 of 336 report an effect size · 486 claims rest on one study
 
 ## How to read this page
 
@@ -526,6 +526,13 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Learning achievement in game-based learning shows no significant difference between males and females](../claims/game-based-learning-achievement-no-gender-difference.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No significant gender difference in biology performance among students taught with individualised CAI](../claims/no-gender-difference-individualised-cai.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Preservice teachers' social skills differ significantly by gender on some SSES items, favouring male preservice teachers](../claims/sses-gender-difference-favouring-males.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender shaped interaction styles, with same-gender pairing favoring scaffolding conversations in Iran](../claims/gender-effects-on-interaction-styles.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male and female students taught algebra with problem-based learning show no statistically significant difference in achievement scores](../claims/pbl-no-gender-achievement-difference.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male pre-service teachers provided more total feedback than females in this study, contrary to previous research](../claims/males-provided-more-feedback-than-females.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No significant gender difference in achievement among students taught solid geometry with animation-with-narration CAI](../claims/no-gender-difference-an-cai.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No significant gender difference in achievement among students taught solid geometry with animation-with-text CAI](../claims/no-gender-difference-at-cai.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The comics programme did not reduce gender differences in reading literacy or reading motivation](../claims/comics-no-gender-gap-reduction.md) [~M] — an instructional effect differs by group
+- [Tikichuela improved both boys' and girls' math scores but widened the gender gap because boys gained more](../claims/tikichuela-widened-gender-gap.md) [~W] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

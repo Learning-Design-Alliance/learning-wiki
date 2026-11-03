@@ -50,6 +50,7 @@ The program's staffing model uses local trainers to prepare paraprofessional tut
 - [Support interventionists with focused professional development workshops plus ongoing in-classroom coaching](pd-workshops-plus-coaching-for-interventionists.md)
 - [Train delivery staff and monitor fidelity to the explicit session schedule during one-to-one reading interventions](train-and-monitor-fidelity-one-to-one-reading.md)
 - [Train teachers through hands-on practice of the tutoring procedure with a supporting resource pack](hands-on-teacher-training-practice-with-resource-pack.md)
+- [Train local prospective trainers with assessments to build local training capacity](train-the-trainers-with-qualification-assessments.md)
 
 ## Examples
 -

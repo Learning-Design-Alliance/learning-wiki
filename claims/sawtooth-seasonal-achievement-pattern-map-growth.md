@@ -38,7 +38,7 @@ Soland, J., Thum, Y.M., & King, G. (2019). Reconciling long-term education polic
 
 `q1 · i?` · `associational · r2`
 
-Descriptive scatterplots of mean RIT scores by test administration and subject (Figure 1) for the study cohort. The pattern is descriptive and attributed by the authors to summer learning loss; no effect size is printed, so impact is null.
+Descriptive scatterplots of mean RIT scores by test administration and subject (Figure 1) for the study cohort. The pattern is descriptive and attributed by the authors to summer learning loss; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "This pattern typically occurs because students see gains in achievement during the school year followed by declines in the summer, often referred to as summer learning loss"
 

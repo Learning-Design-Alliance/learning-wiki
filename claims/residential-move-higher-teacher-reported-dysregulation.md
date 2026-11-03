@@ -37,7 +37,7 @@ Roy, A. L., McCoy, D. C., & Raver, C. C. (2014). Instability Versus Quality: Res
 
 `q3 · i?` · `associational · r2`
 
-Longitudinal regression analysis of 602 low-income Chicago children followed from preschool to fifth grade, using inverse probability weighting with propensity scores and controlling for baseline self-regulation. The article reports movers were scored as being "6.04 points (or 0.24 standard deviations) higher in dysregulation" than nonmovers. No standardized effect size is printed, so impact is null.
+Longitudinal regression analysis of 602 low-income Chicago children followed from preschool to fifth grade, using inverse probability weighting with propensity scores and controlling for baseline self-regulation. The article reports movers were scored as being "6.04 points (or 0.24 standard deviations) higher in dysregulation" than nonmovers. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "teachers reported greater dysregulation on the BIS-BRIEF among children who moved relative to those who did not (b = 6.04, SE = 3.04, p = .05)"
 

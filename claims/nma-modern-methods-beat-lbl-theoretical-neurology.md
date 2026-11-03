@@ -37,7 +37,7 @@ Li Xiangyu, Zhang Longsheng, Sun Wenjun, Lei Min, Li Ying, Zhang Jiacheng, Huang
 
 `q3 · i?` · `quant-synthesis · r2`
 
-Bayesian network meta-analysis (BUGSnet in R 4.3.2, random-effects model, mean differences with 95% credible intervals) of 31 RCTs comparing teaching methods against LBL. The article reports "a significant enhancement in theoretical exam scores" for the five modern methods; no standardized effect size is printed, so impact is null.
+Bayesian network meta-analysis (BUGSnet in R 4.3.2, random-effects model, mean differences with 95% credible intervals) of 31 RCTs comparing teaching methods against LBL. The article reports "a significant enhancement in theoretical exam scores" for the five modern methods; no standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Compared to the LBL teaching method, various alternative teaching methods, including CBL, PBL, TBL, FCM, and EBM, exhibit a significant enhancement in theoretical exam scores."
 

@@ -46,7 +46,7 @@ Muñoz-Rodríguez, J. M., Patino Alonso, C., Pessoa, T., & Martín-Lucas, J. (20
 
 `q2 · i?` · `associational · r2`
 
-Binary logistic regression on the 1991-respondent survey. Significant predictors include gender (OR = 1.481), marks (OR = 0.412), Instagram (OR = 0.497), TikTok (OR = 0.700), videogames (OR = 0.564), pornography (OR = 0.456) and distraction from studies (OR = 0.549); odds ratios are printed but are not standardised effect sizes, so impact is null.
+Binary logistic regression on the 1991-respondent survey. Significant predictors include gender (OR = 1.481), marks (OR = 0.412), Instagram (OR = 0.497), TikTok (OR = 0.700), videogames (OR = 0.564), pornography (OR = 0.456) and distraction from studies (OR = 0.549); odds ratios are printed but are not standardised effect sizes, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The logistic regression analysis (Table 2) revealed the following factors linked to a sense of risk: gender, marks (academic record), Instagram, TikTok, Twitter, videogames, and pornography, distraction from studying, feeling isolated when not online, and using media serves no purpose"
 

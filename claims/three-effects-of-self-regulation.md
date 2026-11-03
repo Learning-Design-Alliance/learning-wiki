@@ -37,7 +37,7 @@ Aydar M. Kalimullin, Elena A. Kuvaldina & Julia Koinova-Zoellner. (2016). Adoles
 
 `q1 · i?` · `causal · r1`
 
-Theoretical assertion from the article's review of self-regulation methods, attributed in the article to prior psychological and pedagogical research; no data or test is offered for it in this article, so impact is null.
+Theoretical assertion from the article's review of self-regulation methods, attributed in the article to prior psychological and pedagogical research; no data or test is offered for it in this article, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "There are 3 main effects coming as a result of self -regulation: - calming effect (eliminating emotional tension); - refreshing effect (lowering symptoms of tiredness); - activating effect (promoting psycho-physiological responsiveness)."
 

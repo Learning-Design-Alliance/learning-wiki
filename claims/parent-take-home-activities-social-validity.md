@@ -48,3 +48,4 @@ End-of-study parent questionnaire on the take-home storytelling sheets, rated on
 - [Appropriate educational technology improved home-school links and parent and teacher roles in the HOMEWORK evaluations](homework-technology-strengthened-parent-teacher-roles.md) — related
 - [Families who used the app's features more extensively reported stronger changes in joint media engagement and science](deeper-app-use-linked-stronger-jem-changes.md) — related
 - [The Splash and Bubbles show was positively received, with most families reporting children enjoyed it and learned ocean science concepts](splash-bubbles-show-positive-reception-science-learning.md) — related
+- [Teachers and parents rated the LINK training and materials very positively, and parents reported increased reading time and child engagement](link-social-validity-parent-teacher-perceptions.md) — related

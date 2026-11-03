@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 232 claims (161 show a difference, 43 mixed, 28 no difference) · 129 studies (69 causal, 27 associational, 14 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 40 of 129 report an effect size · 227 claims rest on one study
+> **Evidence** · 233 claims (162 show a difference, 43 mixed, 28 no difference) · 130 studies (70 causal, 27 associational, 14 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 40 of 130 report an effect size · 228 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -270,6 +270,7 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [The authors report that traditional paper-and-pencil writing class helped already-skilled writers more, while weaker writers benefited less, over the study's short duration](../claims/paper-pencil-helps-skilled-writers-more.md) [~W] — an instructional effect differs with it
 - [The CWB online interactive system group shows significantly greater total-score progress in Chinese essay writing than the paper-and-pencil control group](../claims/cwb-total-score-progress.md) [+M] — instruction changes it
 - [The largest active-learning gains occurred in searching topics and keywords in search engines (skill 6) and writing and interpreting results of research tools (skill 12)](../claims/largest-gains-search-engines-and-results-interpretation.md) [+M] — instruction changes it
+- [The blueprint writing (BW) intervention produced significantly greater growth in expressive writing than the standard process writing (PW) intervention for combined student subgroups](../claims/bw-outperforms-pw-expressive-writing-growth.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

@@ -91,6 +91,7 @@ Revision cycles operationalize [Assessment for Learning](../principles/assessmen
 - [Implement AI-peer integrated feedback as a standardized two-phase revision cycle with rubric-aligned prompting and instructor monitoring](ai-peer-integrated-feedback-cycle-strategy.md)
 - [Implement an AI-Peer-Teacher hybrid integrated feedback model staged across drafting, revision, and polishing phases](ai-peer-teacher-hybrid-feedback-model.md)
 - [Provide timely automated feedback through an AI chatbot during EFL writing practice](ai-chatbot-feedback-writing-courses.md)
+- [Implement UbD through collaborative teacher design groups with iterative evaluation meetings](ubd-teacher-design-groups-strategy.md)
 
 ## Examples
 - **[Calibrated Peer Review](calibrated_peer_review.md) (https://calibratedpeerreview.org)** — learners first calibrate their reviewing skill against instructor-graded sample essays, then review peers' drafts and revise their own based on received comments.

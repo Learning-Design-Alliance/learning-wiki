@@ -37,7 +37,7 @@ Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence 
 
 `q2 · i?` · `associational · r2`
 
-Race/ethnicity moderation results (Table 3b indirect-effect differences) from the NSCH probit model; the article reports significance without a standardized effect size, so impact is null.
+Race/ethnicity moderation results (Table 3b indirect-effect differences) from the NSCH probit model; the article reports significance without a standardized effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The moderated-mediation effect of family resilience on the relation- ship between ACEs and curiosity in learning was statistically signiﬁcantly greater for Black than for White children."
 

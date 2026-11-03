@@ -83,3 +83,5 @@ Descriptive statistics (Table 2) for the same quasi-experiment show the experime
 - [Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university](wikis-improve-business-writing-skills-efl.md) — related
 - [Contextual teaching and learning produces higher argumentative writing scores than non-contextual instruction in university students](ctl-improves-argumentative-writing-hasani.md) — related
 - [Prior EFL flipped-classroom studies report positive but partly non-significant performance effects](prior-flipped-efl-studies-mixed-performance-evidence.md) — related
+- [In the experimental stage, FCM was implemented with 64 teacher candidates in a pretest–posttest control-group quasi-experimental design](fcm-experimental-stage-design.md) — related
+- [A project-based flipped learning model raised translation competence test scores in a Business English Translation course over one 16-week semester](flipped-translation-competence-posttest-gain.md) — related

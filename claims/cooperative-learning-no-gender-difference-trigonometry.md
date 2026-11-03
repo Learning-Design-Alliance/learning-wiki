@@ -57,3 +57,5 @@ Within the cooperative learning group (Table 6: 37 males, 33 females), females' 
 - [Jigsaw's advantage over conventional instruction held for both male and female students, with no significant main effect of treatment on gender](jigsaw-gender-neutral-attitude-effect.md) — related
 - [Gender did not significantly influence the achievement of Nigerian SS1 students taught the mole concept with mastery learning instructional strategy.](mastery-learning-gender-no-significant-effect-mole-concept.md) — related
 - [Gender has no significant main effect on gifted students' post-test achievement in the study](gender-no-significant-main-effect-gifted-achievement.md) — related
+- [Male and female students taught algebra with problem-based learning show no statistically significant difference in achievement scores](pbl-no-gender-achievement-difference.md) — related
+- [Male and female students taught algebra with problem-based learning show no statistically significant difference in retention scores](pbl-no-gender-retention-difference.md) — related

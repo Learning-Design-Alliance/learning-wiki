@@ -37,7 +37,7 @@ Li, J. B., Bi, S. S., Willems, Y. E., & Finkenauer, C. (2021). The Association B
 
 `q4 · i?` · `quant-synthesis · r?`
 
-Moderator analyses within the three-level meta-analysis of 68 studies. The article reports no effect-size differences for these moderators; no moderator effect size is printed, so impact is null.
+Moderator analyses within the three-level meta-analysis of 68 studies. The article reports no effect-size differences for these moderators; no moderator effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Moderator analyses showed that effect sizes were similar in magnitude across school discipline components, gender and age of students, region, report informant of school discipline measures, reliability of school discipline and self-control measures, and research design."
 

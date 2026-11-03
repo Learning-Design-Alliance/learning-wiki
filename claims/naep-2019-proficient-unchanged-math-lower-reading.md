@@ -55,3 +55,4 @@ The NAEP 2019 national achievement-level results report that percentages at or a
 - [Most U.S. 8th graders read below proficiency: 69 percent fall below the proficient level and 26 percent below the basic level on the 2007 NAEP reading assessment](2007-naep-69-percent-8th-grade-below-proficient-reading.md) — related
 - [NAEP scores in 2019 were higher for most racial/ethnic groups in both subjects and grades compared to the early 1990s, but grade 8 reading was lower for all groups except Asian/Pacific Islander students compared to 2017](naep-2019-race-ethnicity-trends.md) — related
 - [Grade 4 reading scores in 2019 decreased across the performance distribution except at the 90th percentile compared to 2017](naep-2019-grade-4-reading-declines.md) — related
+- [National writing assessment data show most US 8th graders perform below proficiency in writing](naep-8th-grade-writing-below-proficiency.md) — related

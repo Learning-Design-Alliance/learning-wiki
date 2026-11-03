@@ -44,6 +44,7 @@ In the suggestions section the author recommends that, given the effectiveness o
 ## Related Strategies
 
 - [Employ CAI as an alternative or supportive strategy for teaching English grammar, with teacher training in developing textbook-based CAI packages](cai-alternative-supportive-grammar-strategy.md)
+- [Encourage mathematics teachers to use animation-with-narration CAI and train them in computer-based multimedia instruction](train-teachers-cai-animation-narration-strategy.md)
 
 ## Examples
 -

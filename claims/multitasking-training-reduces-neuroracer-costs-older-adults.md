@@ -56,7 +56,7 @@ J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowi
 
 `q3 · i?` · `causal · r2`
 
-Follow-up comparison in experiment 3 context: MTT post-training cost (reported as −21.9% at 6 months) was significantly better than the −36.7% cost of untrained 20-year-olds (P < 0.001); no effect size printed, so impact is null. Gains "remained stable 6 months after training without booster sessions".
+Follow-up comparison in experiment 3 context: MTT post-training cost (reported as −21.9% at 6 months) was significantly better than the −36.7% cost of untrained 20-year-olds (P < 0.001); no effect size printed, so impact is coded i? (no magnitude reported; not a null effect). Gains "remained stable 6 months after training without booster sessions".
 
 > "the MTT group's post-training cost improved significantly beyond the cost level attained by a group of 20 year olds who played a single session of NeuroRacer (236.7% cost; experiment 3; P , 0.001)"
 

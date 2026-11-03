@@ -53,3 +53,4 @@ A dependent t-test compared the experimental group's pre-test and post-test spea
 - [The experimental group gained substantially in speaking scores from pre-test to post-test](experimental-group-pre-post-speaking-gain.md) — related
 - [The control group also made statistically significant pretest-to-posttest gains in speaking and writing, so improvement was not exclusive to the short-stories treatment](control-group-also-improved-significantly.md) — related
 - [Cooperative learning and conventional instruction produced no statistically significant difference in pronunciation improvement among Spanish-speaking ELLs in a six-week quasi-experiment](cl-vs-conventional-no-significant-pronunciation-improvement-difference.md) — related
+- [Integrative teaching techniques improve German speaking-skill learning outcomes in a single-group quasi-experiment](integrative-techniques-improve-german-speaking-outcomes.md) — possibly the same claim (merge candidate)

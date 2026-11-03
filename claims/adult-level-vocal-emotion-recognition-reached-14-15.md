@@ -38,7 +38,7 @@ Grosbras, M.-H., Ross, P. D. & Belin, P. (2018). Categorical emotion recognition
 
 `q3 · i?` · `associational · r2`
 
-Model-predicted percent-correct values from the mixed-model logistic regression fitted to the 225 participants aged 5–17, compared with the 30 adults' mean of 86.7% correct. The article prints no effect size for this milestone, so impact is null.
+Model-predicted percent-correct values from the mixed-model logistic regression fitted to the 225 participants aged 5–17, compared with the 30 adults' mean of 86.7% correct. The article prints no effect size for this milestone, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Based on the values predicted by the model at different ages (converted from logit to percent correct responses), the adults’ mean level of performance is reached between age 14 and 15."
 

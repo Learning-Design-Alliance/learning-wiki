@@ -119,3 +119,4 @@ This meta-analysis isolates the "added value" of dialogic (interactive) shared r
 - [Initial parental support was more strongly associated with child emergent literacy skills at time 2 for intervention families than control families](redip-initial-support-predicts-literacy-gains-more.md) — a narrower finding that bears on this claim
 - [Prior randomised trials of book-gifting programmes have shown little evidence of effects on children's reading skills](book-gifting-rcts-little-evidence.md) — related
 - [First-grade students whose parents received numeracy training and delivered a home numeracy intervention made significantly larger GMADE Total Test gains than the control group](parent-home-numeracy-intervention-gains-vs-control.md) — related
+- [Children receiving the home plus preschool LINK intervention outperformed preschool-only children on Spanish vocabulary gains (d = 0.91 RNA; d = 0.79 RVK)](home-plus-preschool-beats-preschool-only-spanish.md) — related

@@ -37,7 +37,7 @@ Samuel O. King and Carol Robinson. (2008). 'Pretty Lights' and Maths! Increasing
 
 `q2 · i?` · `causal · r1`
 
-Quasi-experimental comparison of mean grades for two cohorts on the same module taught by the same instructor, differing mainly in EVS use. The article reports no significant difference without printing a test statistic or effect size, so impact is null; equivalence was not tested.
+Quasi-experimental comparison of mean grades for two cohorts on the same module taught by the same instructor, differing mainly in EVS use. The article reports no significant difference without printing a test statistic or effect size, so impact is coded i? (no magnitude reported; not a null effect); equivalence was not tested.
 
 > "The only major difference between the two cohorts of students was that the 2007/2008 cohort was taught using EVS – assessment modes, instructor pedagogical practices, and course curriculum largely remained the same across the two cohorts. The data (Table 2) shows that there was no significant difference in the overall grades of the two cohorts"
 

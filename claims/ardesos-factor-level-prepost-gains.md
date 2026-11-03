@@ -37,7 +37,7 @@ Carlos Saiz, Silvia F. Rivas. (2016). New Teaching Techniques to Improve Critica
 
 `q2 · i?` · `causal · r?`
 
-Repeated-measures ANOVA results for the four factors named, reported in the Results section for both groups combined. The article reports the F and p values printed here; no effect size is given in this sentence, so impact is null.
+Repeated-measures ANOVA results for the four factors named, reported in the Results section for both groups combined. The article reports the F and p values printed here; no effect size is given in this sentence, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "significant differences were observed in the total and in all the factors: ( FTOT (1,164)= 130.213, p = .000; FDR (1,164)= 54.706, p = .000; F I R (1,164)= 30.638,    p  = .000; F P R (1,164)= 75.592, p = .000) (FDM (1,164)= 91.590, p = .000 and F PS (1,164)= 4.150, p = .043)"
 

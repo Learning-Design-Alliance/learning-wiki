@@ -50,3 +50,4 @@ Quasi-experimental pretest/posttest study of 60 upper-intermediate EFL learners 
 - [Implicit instruction of refusals also significantly improves pragmatic performance, but less than explicit instruction](implicit-refusal-instruction-significant-smaller-gain.md) — related
 - [Explicit instruction of the apology speech act significantly improves Iranian EFL learners' appropriate use of apology strategies at both intermediate and advanced proficiency levels](explicit-apology-instruction-improves-pragmatic-appropriateness.md) — related
 - [Explicit metapragmatic instruction on requests raises request speech act awareness of intermediate EFL learners relative to regular institute instruction](explicit-metapragmatic-instruction-improves-request-awareness.md) — related
+- [Explicit comparison of L1 and L2 complaints and apologies through the interview project was followed by more appropriate strategies in the posttest](l1-l2-comparison-improves-strategy-use.md) — related

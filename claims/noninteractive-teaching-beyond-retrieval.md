@@ -37,7 +37,7 @@ Lachner, A., Hoogerheide, V., van Gog, T., & Renkl, A. (2022). Learning-by-Teach
 
 `q2 · i?` · `review · r3`
 
-The review's narrative synthesis of the included experimental studies, noting that studies analyzing explanation characteristics found "making elaborations mediated the effect of non-interactive teaching on students' learning" and that several studies found improved monitoring accuracy. No pooled effect size is reported, so impact is null.
+The review's narrative synthesis of the included experimental studies, noting that studies analyzing explanation characteristics found "making elaborations mediated the effect of non-interactive teaching on students' learning" and that several studies found improved monitoring accuracy. No pooled effect size is reported, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "In summary, the available empirical evidence suggests that non-interactive teaching is more than just a specific case of retrieval practice. There is evidence for a link between generative processing and learning as well as between social presence and learning"
 

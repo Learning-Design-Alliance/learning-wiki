@@ -37,7 +37,7 @@ Aydar M. Kalimullin, Elena A. Kuvaldina & Julia Koinova-Zoellner. (2016). Adoles
 
 `q2 · i?` · `causal · r1`
 
-Pedagogical experiment (ascertaining, formative, control stages) with 50 seventh-grade pupils, analyzed with the φ Fisher-test. The article reports the low-level subjective control change as "significant at the 1% level"; no standardized effect size is printed, so impact is null.
+Pedagogical experiment (ascertaining, formative, control stages) with 50 seventh-grade pupils, analyzed with the φ Fisher-test. The article reports the low-level subjective control change as "significant at the 1% level"; no standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "φ value of 2.59 for low level calculated for experimental group is higher than corresponding critical value for level of 1% which means that differences between groups are significant at the 1% level."
 

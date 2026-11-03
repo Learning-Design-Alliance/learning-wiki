@@ -37,7 +37,7 @@ Linn Damsgaard, Anne-Mette Veber Nielsen, Anne Kær Gejl, Anne Sofie Bøgh Malli
 
 `q3 · i?` · `causal · r2`
 
-Descriptive observation recorded during the naming test in the RCT; percentages are descriptive with no statistical test reported, so impact is null.
+Descriptive observation recorded during the naming test in the RCT; percentages are descriptive with no statistical test reported, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "During the letter-sound test, none of the children in the CON group supported their answers with movements. In contrast, pooled data from WM and HM groups showed that 53% of children supported their answers with movements."
 

@@ -50,3 +50,4 @@ Author observation during the treatment meetings, not a tested result: students 
 - [In a quasi-experimental study, CIRC showed no statistically significant effect on comprehension outcomes after WWC clustering and multiple-comparison adjustments](circ-qed-comprehension-indeterminate.md) — related
 - [Comprehension gains appeared on main-idea and inference items but not on word-meaning-guessing items](item-level-gains-except-guessing-meaning.md) — related
 - [In the creative drama group, students interacted more intensely, listened more diligently, and showed more harmonious and enthusiastic behavior than in the comparison groups](creative-drama-group-more-interaction-enthusiasm.md) — related
+- [The author attributes the speaking gains to increased enthusiasm, openness and reduced boredom under integrative teaching](integrative-teaching-motivation-interpretation.md) — related

@@ -37,7 +37,7 @@ Lauren Margulieux, James Prather, Masoumeh Rahimi. (2025). The Biological Benefi
 
 `q2 · i?` · `review · r2`
 
-The review reports, citing Sinha and Kapur (2021), a meta-analysis of instructional-design studies; the effect is described only as "significant, strong" with no printed effect size, so impact is null. In productive failure students attempt a task for 30–45 minutes before canonical instruction.
+The review reports, citing Sinha and Kapur (2021), a meta-analysis of instructional-design studies; the effect is described only as "significant, strong" with no printed effect size, so impact is coded i? (no magnitude reported; not a null effect). In productive failure students attempt a task for 30–45 minutes before canonical instruction.
 
 > "A recent meta-analysis of studies on instructional design showed a significant, strong effect of productive failure before instruction compared to instruction followed by problem-solving (Sinha & Kapur, 2021)."
 

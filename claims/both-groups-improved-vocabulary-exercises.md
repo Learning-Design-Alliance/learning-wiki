@@ -48,3 +48,4 @@ Paired samples t-tests within each group of 40 students over a seven-week semest
 - [First-year EFL students who did vocabulary exercises via SMS outperformed those doing paper-based exercises on a post-test](sms-exercises-outperform-paper-based-vocabulary.md) — related
 - [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related
 - [No significant difference in prior vocabulary knowledge between the SMS and paper groups at pretest](sms-vocabulary-pretest-no-difference.md) — related
+- [Students showed significant improvement in vocabulary recognition and understanding from pre-test to post-test over the seven-week module](vks-pre-post-significant-improvement.md) — related

@@ -41,6 +41,10 @@ The CLASP discussion/laboratory (DL) is the core instructional setting: students
 - [Clasp Fci Normalized Gain](../claims/clasp-fci-normalized-gain.md) [+M]
 - [Clasp Higher Udgpa Than Physics5](../claims/clasp-higher-udgpa-than-physics5.md) [+M]
 
+## Related Designs
+
+- [TTPS lesson sequence: homework check, introductory task, individual then collaborative problem work, whole-class discussion, and closure](ttps-lesson-sequence-pattern.md)
+
 ## Related Patterns
 - 
 

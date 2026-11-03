@@ -48,3 +48,4 @@ Thematic analysis of six interviews found OUA systematised existing monitoring p
 - [Older adults rate the blended LMS workshop positively on ease of use, perceived usefulness, attitude toward using, and intention to use](tam-validation-blended-workshop-older-adults.md) — related
 - [Perceived ease-of-use based on simplicity and familiarity with common chart types heavily influenced teachers' visualization preferences](simplicity-familiarity-drive-dashboard-preference.md) — related
 - [Teachers' technology acceptance follows the TAM: perceived usefulness, perceived ease of use, and attitude toward technology predict technology integration, moderated by organizational, technological, and individual factors](tam-predicts-teacher-technology-integration.md) — related
+- [Students positively perceived YouTube's usefulness, ease of use, and their attitude toward it for vocabulary learning](student-positive-perceptions-youtube-vocabulary.md) — related

@@ -47,3 +47,5 @@ Post-hoc comparison of adjusted posttest means at the high pretest WMC level (z 
 ## Related Claims
 - [Strategy training outcomes on word problem accuracy interact with working memory capacity, favoring children with higher WMC](wmc-by-treatment-interaction-cmat-solution-accuracy.md) — related
 - [At low pretest WMC, control children outperformed the strategy conditions on solution accuracy](low-wmc-control-beats-strategy-conditions.md) — related
+- [Verbal and verbal+visual strategy conditions improve calculation accuracy for both ability groups](verbal-strategies-improve-calculation-transfer.md) — reports the opposite
+- [Working memory capacity correlates with outcomes differently across strategy conditions, with compensatory negative correlations under materials-only instruction](wmc-correlations-vary-by-strategy-condition.md) — related

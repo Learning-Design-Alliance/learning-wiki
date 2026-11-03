@@ -61,3 +61,4 @@ Two equivalent-group quasi-experiment with 20 students per group matched on pre-
 - [Students taught with the reform-based instructional method retained significantly more mathematics knowledge than those taught with the traditional method](reform-based-method-better-math-retention.md) — related
 - [Computerized educational packages produced statistically significant higher mathematics achievement than traditional teaching in eighth-grade classes in Ma'an](computerized-packages-improve-eighth-grade-math-achievement.md) — related
 - [Instruction through the situated learning model significantly reduces mathematics anxiety of seventh-grade students compared with traditional teaching](situated-learning-reduces-mathematics-anxiety.md) — related
+- [Cooperative learning produced higher General Science posttest achievement than traditional teaching among 9th-grade students](cooperative-learning-higher-general-science-achievement.md) — related

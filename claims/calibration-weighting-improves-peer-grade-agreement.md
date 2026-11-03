@@ -55,7 +55,7 @@ Paul, U., Mantravadi, A., Shah, J., Shah, S., Mylavarapu, S. V., Rashid, M. P., 
 
 `q2 · i?` · `review · r2`
 
-The review reports, citing the LearnEval platform study, that calibration raised the peer–instructor grade correlation "from 0.19 to 0.72". Correlations are printed but no standardized effect size; impact is null.
+The review reports, citing the LearnEval platform study, that calibration raised the peer–instructor grade correlation "from 0.19 to 0.72". Correlations are printed but no standardized effect size;, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "LearnEval increased the correlation between peer and instructor grades from 0.19 to 0.72 after calibration [49], while TRUPEQA consistently achieved lower root mean square error than simple averaging or Gibbs sampling methods with calibration [80]."
 

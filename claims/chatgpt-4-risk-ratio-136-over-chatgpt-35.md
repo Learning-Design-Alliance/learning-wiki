@@ -38,7 +38,7 @@ Lesselroth Blake, Riese Janik, Yang Zhichao, Jaleel Shahila, Shabbir Waqas, Jale
 
 `q3 · i?` · `quant-synthesis · r2`
 
-Meta-analysis across both exam types found "a risk ratio of 1.36 (95% CI 1.30-1.43)" favoring ChatGPT-4 over ChatGPT-3.5. The article prints a risk ratio rather than a standardized effect size, so impact is null.
+Meta-analysis across both exam types found "a risk ratio of 1.36 (95% CI 1.30-1.43)" favoring ChatGPT-4 over ChatGPT-3.5. The article prints a risk ratio rather than a standardized effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The forest plot presented a risk ratio of 1.36 (95% CI 1.30-1.43), demonstrating that ChatGPT-4 was 36% more likely to provide correct answers than ChatGPT-3.5 across both medical licensing and residency exams."
 

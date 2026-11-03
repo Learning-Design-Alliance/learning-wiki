@@ -68,3 +68,4 @@ Univariate simple-effects test for discipline referrals in the same repeated mea
 - [The transitional support intervention showed no significant treatment effect on attendance, discipline, or credit accrual](transitional-support-intervention-no-effect-behavioral-outcomes.md) — related
 - [The comparison group showed a statistically significant decrease in reading rate from pretest to posttest](comparison-group-significant-rate-decrease.md) — related
 - [A school-based transitional support intervention produced a significant treatment effect on school attitudes among youth returning from alternative school](transitional-support-intervention-improves-school-attitudes.md) — related
+- [Interest and self-concept measures decrease between pre- and post-tests regardless of intervention, making a control group essential for interpretation](questionnaire-effect-decreases-require-control-group.md) — a narrower finding that bears on this claim

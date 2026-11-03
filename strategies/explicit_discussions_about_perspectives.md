@@ -63,9 +63,11 @@ Explicit perspective discussions work because they convert tacit social reasonin
 7. Close with individual reflection connecting the discussion to learners' own views and to broader patterns of equity and justice.
 
 ## Related Strategies
+
 - [Debate](../patterns/debate.md) — a formalized structure for comparing perspectives under rules
 - [Case-Based Learning](../patterns/case-based-learning.md) — supplies the multi-stakeholder material these discussions analyze
 - [Building Empathy](../principles/building-empathy.md) — the broader principle this strategy operationalizes
+- [Make social justice issues explicit by assigning critical literature and guiding questions alongside experiential activities in teacher education](make-social-justice-issues-explicit-strategy.md)
 
 ## Examples
 - **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) — published curriculum using primary sources and structured discussions of historical injustices (e.g., the Holocaust, civil rights) to build civic empathy in secondary classrooms.

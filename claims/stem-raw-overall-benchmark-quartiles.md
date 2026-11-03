@@ -38,7 +38,7 @@ Mehmet Bicakci, Heidrun Stoeger, Diana Wengler, Albert Ziegler. (2026). Recalibr
 
 `q3 · i?` · `quant-synthesis · r3`
 
-Umbrella review of 95 STEM meta-analyses summarizing 5,956 effect sizes; the article reports that "the 25th, 50th, and 75th percentiles were 0.21, 0.48, and 0.86" in the raw distribution. These are percentile benchmarks, not effect sizes of any single intervention, so impact is null.
+Umbrella review of 95 STEM meta-analyses summarizing 5,956 effect sizes; the article reports that "the 25th, 50th, and 75th percentiles were 0.21, 0.48, and 0.86" in the raw distribution. These are percentile benchmarks, not effect sizes of any single intervention, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Overall, the 25th, 50th, and 75th percentiles were 0.21, 0.48, and 0.86, respectively. Subgroup heterogeneity was substantial."
 

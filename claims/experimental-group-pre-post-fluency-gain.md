@@ -49,3 +49,4 @@ Paired-samples analysis of the experimental group (N = 30): mean rose from 9.980
 - [Lexical chunks instruction significantly improved the speaking fluency of Iranian EFL intermediate learners compared with a control group](lexical-chunks-instruction-improves-efl-speaking-fluency.md) — related
 - [The treatment group's vocabulary size increased significantly from pre-test to post-test, by about 17 correct answers](treatment-group-significant-prepost-vocabulary-gain.md) — related
 - [Experimental group showed significant pre-to-post gains on vocabulary test score](experimental-group-pre-post-vocabulary-gains.md) — related
+- [Within the experimental group, oral communicative-competency scores rose significantly from pre-test to post-test after hybrid learning](hybrid-learning-pre-post-gain-experimental-group.md) — related

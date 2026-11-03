@@ -37,7 +37,7 @@ Alicia Demers, Ira Nichols-Barrer, Elisa Steele, Maria Bartlett, Philip Gleason.
 
 `q2 · i?` · `causal · r?`
 
-In the lottery-based long-term tracking study, the combined KIPP middle and high school effect on "college graduation rates" is reported as large and statistically significant; no effect size or test statistic is printed, so impact is null.
+In the lottery-based long-term tracking study, the combined KIPP middle and high school effect on "college graduation rates" is reported as large and statistically significant; no effect size or test statistic is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "KIPP middle and high schools also had a large and statistically significant combined effect on college graduation rates."
 

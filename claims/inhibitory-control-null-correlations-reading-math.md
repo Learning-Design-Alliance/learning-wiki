@@ -35,7 +35,7 @@ Yang X and Meng X (2020) Visual Processing Matters in Chinese Reading Acquisitio
 
 `q3 · i?` · `associational · r2`
 
-Correlational analysis (Table 2) of Flanker-task inhibitory control with reading and mathematics measures at both time points. The article reports the correlations were insignificant except for kindergarten word problems; no effect size is printed, so impact is null. Equivalence was not tested.
+Correlational analysis (Table 2) of Flanker-task inhibitory control with reading and mathematics measures at both time points. The article reports the correlations were insignificant except for kindergarten word problems; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect). Equivalence was not tested.
 
 > "The current study demonstrated insigniﬁcant correlations between inhibitory control and reading and early mathematics (except for word problems at kindergarten)."
 

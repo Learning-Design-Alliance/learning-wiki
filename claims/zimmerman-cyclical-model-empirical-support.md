@@ -56,7 +56,7 @@ Panadero E. (2017). A Review of Self-regulated Learning: Six Models and Four Dir
 
 `q2 · i?` · `review · r2`
 
-Comparative study of expert and non-expert college women in volleyball; the review reports "the SRL skills predicted 90% variance in serving skills." Variance explained is not a standardized effect size, so impact is null.
+Comparative study of expert and non-expert college women in volleyball; the review reports "the SRL skills predicted 90% variance in serving skills." Variance explained is not a standardized effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Kitsantas and Zimmerman (2002) compared college women that were experts and non-experts in volleyball, ﬁnding that the SRL skills predicted 90% variance in serving skills."
 

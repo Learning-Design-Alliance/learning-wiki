@@ -53,3 +53,4 @@ Longitudinal SEM of kindergarten-to-Grade-2 data (N = 261) testing theory-guided
 - [Transcription skills are not longitudinally predictive of syntactic complexity in the upper elementary grades, consistent with their declining influence as handwriting and spelling automatize](transcription-skills-decline-upper-grades.md) — related
 - [Grade 1 vocabulary is directly related to Grade 2 writing quality over and above writing fluency](vocabulary-direct-writing-quality-over-fluency.md) — related
 - [Grade 2 writing fluency is moderately and independently related to Grade 2 writing quality among beginning writers](writing-fluency-related-writing-quality-beginning-writers.md) — related
+- [Oral language skills indicatively support writing in younger pupils and struggling writers, with oral language influence on writing partly mediated through reading](oral-language-supports-early-writing-development.md) — related

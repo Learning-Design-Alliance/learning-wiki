@@ -56,7 +56,7 @@ Wen Wu, Li Chen, Qingchang Yang, You Li. (2019). Inferring Students' Personality
 
 `q3 · i?` · `associational · r2`
 
-Summary of the regression analysis over 120 features from 164 students: 32 significant features, comprising 22 content features, 9 activity features, and gender. No effect sizes printed, so impact is null.
+Summary of the regression analysis over 120 features from 164 students: 32 significant features, comprising 22 content features, 9 activity features, and gender. No effect sizes printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "In summary, 32 (out of 120) features are empirically found to be signifi- cantly influenced by students’ personality."
 

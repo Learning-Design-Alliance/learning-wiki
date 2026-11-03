@@ -38,7 +38,7 @@ Erkens, G., & Janssen, J. (2008). Automatic coding of dialogue acts in collabora
 
 `q3 · i?` · `design · r3`
 
-Multilevel analysis (students within groups) of 19,889 automatically coded chat messages from 40 female and 25 male students in 21 groups. The article reports "female students used relatively more argumentatives than male students did" and male students "more imperative dialogue acts". No standardized effect sizes are printed (betas are unstandardized), so impact is null.
+Multilevel analysis (students within groups) of 19,889 automatically coded chat messages from 40 female and 25 male students in 21 groups. The article reports "female students used relatively more argumentatives than male students did" and male students "more imperative dialogue acts". No standardized effect sizes are printed (betas are unstandardized), so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Overall, these findings show that the automatic coding procedure of dialogue acts is able to distinguish between male and female students based on their verbal communicative behavior."
 

@@ -37,7 +37,7 @@ Jami L. Warren. (2012). Does Service-Learning Increase Student Learning?: A Meta
 
 `q3 · i?` · `quant-synthesis · r1`
 
-Heterogeneity test in the fixed-effects meta-analysis of 11 studies. The printed Q statistic ("Q = 24.550; p = .017") indicated significant heterogeneity; no effect size is printed for this finding, so impact is null.
+Heterogeneity test in the fixed-effects meta-analysis of 11 studies. The printed Q statistic ("Q = 24.550; p = .017") indicated significant heterogeneity; no effect size is printed for this finding, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Statistical testing suggested significant heterogeneity among the studies, Q = 24.550; p = .017."
 

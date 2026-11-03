@@ -18,7 +18,7 @@ sources:
 # Combine intentional and incidental vocabulary learning rather than relying on incidental learning alone
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (17 for, 12 mixed, 2 against) · 21 studies (8 causal, 7 quant-synthesis, 5 review, 1 associational), `q1`–`q3` · 3 of 21 report an effect size · 26 claims rest on one study
+> **Evidence** · 34 claims (18 for, 14 mixed, 2 against) · 22 studies (9 causal, 7 quant-synthesis, 5 review, 1 associational), `q1`–`q3` · 4 of 22 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,9 @@ Words recognised at the end of a session, words recalled at a delay, words used 
 - [Learning context (ESL vs EFL) does not significantly moderate the gloss effect, though EFL contexts showed a nominally larger effect](../claims/learning-context-not-significant-gloss-moderator.md) [~W]
 - [Observed classroom vocabulary teaching in the studied Tamil Nadu government school was a partial embedded method with minimal importance given to vocabulary and no intentional learning environment](../claims/partial-embedded-vocabulary-teaching-observed.md) [-W]
 - [The intentional group lost more of its immediate vocabulary gain over four weeks than the incidental group](../claims/intentional-group-greater-loss-delayed-retention.md) [~W]
+- [The gloss-giver group made the most favorable vocabulary-learning progress over time compared with the receiver and control groups](../claims/giver-group-most-favorable-progress-over-time.md) [~W]
+- [Both giving and receiving marginal L1 glosses improve L2 vocabulary learning on a fill-in-the-blank test relative to no glosses](../claims/marginal-l1-glosses-improve-fill-in-blank-vocabulary.md) [+W]
+- [Gloss conditions produce significant time, treatment, and interaction effects on the translation test](../claims/marginal-l1-glosses-translation-test-effects.md) [~W]
 
 ## Related Principles
 - 

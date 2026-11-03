@@ -37,7 +37,7 @@ Marlen A. Roehe, Carmen Trost, Julia S. Grundnig, Anahit Anvari-Pirsch, Anita Ho
 
 `q3 · i?` · `review · r3`
 
-The review's thematic synthesis of 49 included studies coded 94 co-occurrences between a deep approach and academic performance; "58.5% of 94 co-occurrences" were insignificant differences and 41.5% were high(er) performance, with none low(er). No pooled effect size is printed, so impact is null.
+The review's thematic synthesis of 49 included studies coded 94 co-occurrences between a deep approach and academic performance; "58.5% of 94 co-occurrences" were insignificant differences and 41.5% were high(er) performance, with none low(er). No pooled effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The deep approach was primarily associated with insignificant differences in academic performance (58.5% of 94 co-occurrences) and enhancements in or high academic performance (41.5%), whilst no co-occurrences were observed with a decrease in or low performance."
 

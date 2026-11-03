@@ -37,7 +37,7 @@ Melody Wilson & Jamaal Sharif Matthews. (2024). Black adolescents' motivation to
 
 `q2 · i?` · `associational · r2`
 
-Multinomial logistic regression results for background variables; sex was significantly associated with profile membership while age was not. The article reports that "being female tripled the odds" of the positively oriented profiles at each wave; no standardized effect size is reported, so impact is null.
+Multinomial logistic regression results for background variables; sex was significantly associated with profile membership while age was not. The article reports that "being female tripled the odds" of the positively oriented profiles at each wave; no standardized effect size is reported, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "At T1, being female tripled the odds of being in the Moderately Attained pro ﬁle compared to the Devalued/Ambivalent pro ﬁle; at T2, being female tripled the odds of being in the Resistor pro ﬁle compared to the Devalued/Ambivalent proﬁle."
 

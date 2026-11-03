@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 89 claims (38 for, 48 mixed, 3 against) · 76 studies (34 causal, 16 review, 10 quant-synthesis, 10 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 76 report an effect size · 80 claims rest on one study
+> **Evidence** · 90 claims (38 for, 49 mixed, 3 against) · 77 studies (35 causal, 16 review, 10 quant-synthesis, 10 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 77 report an effect size · 81 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](../claims/clt-circumvent-working-memory-limits.md) [+W] — attached 2026-10-23 from Kirschner (2002), which proposed "Present information in ways that encourage learner activities that optimise intellectual performance".
 - [Learning number symbols from multiple concrete representations carries a cost compared with consistent single representations, whether concrete or abstract](../claims/cost-of-multiple-concrete-representations.md) [+W] — attached 2026-10-24 from Amy Bennett et al. (2018), which proposed "Design number books and early number materials with simple, consistent representations of quantity"; tests this page's relationship.
 - [The authors interpret that ceaseless interactive actions caused cognitive overload that disrupted student learning](../claims/ceaseless-interactive-actions-cognitive-overload.md) [+W] — attached 2026-11-01 from Li-Ying Liu (2015), which proposed "Scaffold learning tasks when a new interactive technology is introduced, so pupils do not spend more time operating the technology than learning".
+- [Dividing long listening texts into phases does not significantly improve comprehension scores compared with listening all at once (1st activity)](../claims/phased-listening-no-difference-activity1.md) [~W] — attached 2026-11-03 from İlhan (2018), which proposed "Judge listening text difficulty by multiple factors together rather than by length alone"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

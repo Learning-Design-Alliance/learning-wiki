@@ -65,3 +65,5 @@ Quasi-experimental comparison of immediate posttest scores: experimental group (
 - [Grade 5 EFL students doing hierarchy vocabulary exercises scored significantly higher than students doing copying exercises on an immediate vocabulary post-test](hierarchy-exercises-beat-copying-immediate-vocabulary.md) — related
 - [Dynamic task-type vocabulary instruction produces significantly better vocabulary gains than static task-type instruction among intermediate EFL learners](dynamic-task-type-better-vocabulary-gains.md) — related
 - [Tutored problem-based learning through cognition-based tasks significantly increased Iranian intermediate EFL learners' speaking proficiency from pretest to posttest](pbl-cognition-tasks-increase-speaking-proficiency.md) — related
+- [Authentic video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment](authentic-video-improves-efl-vocabulary.md) — related
+- [Instructional video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment](instructional-video-improves-efl-vocabulary.md) — related

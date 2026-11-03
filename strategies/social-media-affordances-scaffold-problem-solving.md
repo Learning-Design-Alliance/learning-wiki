@@ -53,6 +53,7 @@ The article recommends deliberately leveraging social media affordances at each 
 
 - [Professors integrating Facebook should leverage its social dimension while providing training and addressing privacy concerns.](leverage-social-dimension-facebook-training-privacy.md)
 - [Integrate crossword puzzles, social media and online resources into EFL teaching to engage passive learners](integrate-crossword-social-media-efl.md)
+- [Language educators should leverage technology capabilities for teaching writing and other language skills, without overstating technology's role](leverage-mobile-technology-across-language-skills.md)
 
 ## Examples
 -

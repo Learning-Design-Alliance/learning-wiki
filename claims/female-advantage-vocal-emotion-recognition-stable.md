@@ -38,7 +38,7 @@ Grosbras, M.-H., Ross, P. D. & Belin, P. (2018). Categorical emotion recognition
 
 `q3 · i?` · `associational · r2`
 
-Post-hoc comparison within the developmental sample of 225 participants in the forced-choice vocal emotion task. The article prints means and a t statistic but no standardized effect size, so impact is null.
+Post-hoc comparison within the developmental sample of 225 participants in the forced-choice vocal emotion task. The article prints means and a t statistic but no standardized effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "This was explained by females having significantly higher scores than males (83.2  +/− 6.2% vs 80.3 ± 6.7%, post-hoc t(223)  = 3.27, CI = [1.1: 4.5]; p = 0.0012)."
 

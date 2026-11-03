@@ -46,7 +46,7 @@ Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Auber
 
 `q2 · i?` · `associational · r?`
 
-Longitudinal study (n = 2984) in the review's sedentary behaviour section; GRADE "very low" due to parent-reported sleep. Printed β coefficients are unstandardised, so impact is null.
+Longitudinal study (n = 2984) in the review's sedentary behaviour section; GRADE "very low" due to parent-reported sleep. Printed β coefficients are unstandardised, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Sleep duration at 4 years of age was inversely associated with television viewing (β = −0.07, p = 0.003) and computer use ( β = −0.04, p = 0.001) at 6 years of age [ 22]."
 

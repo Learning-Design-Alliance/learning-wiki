@@ -37,7 +37,7 @@ Matthias Stadler, Maria Bannert, Michael Sailer. (2024). Cognitive ease at a cos
 
 `q3 · i?` · `causal · r2`
 
-Chi-squared test on the frequency distribution of recommendations (against/neutral/in favor) across the two conditions in the randomized experiment (n=91; e.g., LLM: 9 against, 7 neutral, 28 in favor). No effect size is printed, so impact is null; equivalence was not tested beyond this test.
+Chi-squared test on the frequency distribution of recommendations (against/neutral/in favor) across the two conditions in the randomized experiment (n=91; e.g., LLM: 9 against, 7 neutral, 28 in favor). No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect); equivalence was not tested beyond this test.
 
 > "Contrary to H3, students using LLMsdid not show less variation in theirrecommendations than students using traditional search engines (χ2(2)=1.78;p=0.411)."
 

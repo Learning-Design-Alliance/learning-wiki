@@ -37,7 +37,7 @@ Nathan H. Clemens, Eric Oslund, Oi-man Kwok, Melissa Fogarty, Deborah Simmons, a
 
 `q2 · i?` · `causal · r2`
 
-Direct classroom observations rated engagement on a 1-to-3 scale with 91.6% interobserver agreement. Only a test statistic was printed, no effect size, so impact is null. Implementation quality across CCT components averaged 3.05 (SD = 0.31).
+Direct classroom observations rated engagement on a 1-to-3 scale with 91.6% interobserver agreement. Only a test statistic was printed, no effect size, so impact is coded i? (no magnitude reported; not a null effect). Implementation quality across CCT components averaged 3.05 (SD = 0.31).
 
 > "The mean engagement rating was greater in CCT classes (M = 2.11, SD = 0.34, range = 1–3) compared to BAU (M = 1.96, SD = 0.67, range = 1–3); this difference was statistically significant; t = 2.21(235), p = .03"
 

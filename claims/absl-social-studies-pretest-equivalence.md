@@ -53,3 +53,5 @@ Pre-test equivalence check on the same 94-student quasi-experiment. Pre-test mea
 - [One-way ANOVAs found no differences among the ASR, Non-ASR and Control groups on pretest or posttest in either /y/ production or perception](anova-no-group-differences-pre-post.md) — related
 - [Male and female experimental and control students were homogeneous in reading comprehension before the treatment](pretest-homogeneity-blog-reading-study.md) — related
 - [Pre-test comparison showed no significant difference between experimental and control groups before implementation](pretest-no-difference-groups.md) — related
+- [Access and public school students showed no significant difference in English scores before treatment](access-public-schools-no-pretest-difference.md) — related
+- [Experimental and control groups were statistically equivalent on solid geometry achievement before treatment](pretest-equivalence-solid-geometry-groups.md) — related

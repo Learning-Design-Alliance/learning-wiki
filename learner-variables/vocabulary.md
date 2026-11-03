@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 196 claims (143 show a difference, 27 mixed, 26 no difference) · 132 studies (74 causal, 28 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 25 of 132 report an effect size · 193 claims rest on one study
+> **Evidence** · 204 claims (150 show a difference, 27 mixed, 27 no difference) · 136 studies (78 causal, 28 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 27 of 136 report an effect size · 201 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -237,6 +237,14 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Beginning EFL learners who produced written output and received corrective feedback outperformed input-only learners on a delayed receptive vocabulary post-test](../claims/output-plus-feedback-outperforms-input-only-receptive-vocabulary.md) [+M] — instruction changes it
 - [Dual language narrative intervention produced a large English vocabulary gain (d = .98) but only a small Spanish vocabulary gain (d = .34)](../claims/english-vocabulary-large-effect-spanish-small.md) [~W] — instruction changes it
 - [The authors interpret corrective feedback, rather than output production alone, as the factor most responsible for the experimental group's improved receptive vocabulary performance](../claims/feedback-more-responsible-than-output-interpretation.md) [+M] — instruction changes it
+- [Grade-10 EFL students taught vocabulary with PowerPoint-enhanced lessons retained more vocabulary than students in traditional lessons](../claims/ppt-vocabulary-retention-outperforms-traditional.md) [+M] — instruction changes it
+- [Head Start had small but statistically significant average impacts on children's receptive vocabulary, early reading, early numeracy, and externalizing skills, with no average impact on oral comprehension or self-regulation](../claims/head-start-small-average-impacts-four-outcomes.md) [+W] — instruction changes it
+- [Head Start impacts on receptive vocabulary and early numeracy were statistically significantly larger among Hispanic students](../claims/head-start-larger-impacts-hispanic-children.md) [+M] — instruction changes it
+- [Head Start impacts were statistically significantly larger for dual language learners on receptive vocabulary and early numeracy](../claims/head-start-larger-impacts-dual-language-learners.md) [+M] — instruction changes it
+- [Head Start reduced individual residual outcome variance for treatment group members on receptive vocabulary and early numeracy, indicating compression of the outcome distribution](../claims/head-start-reduced-residual-variance-vocabulary-numeracy.md) [+M] — instruction changes it
+- [In a single-case study, home-only LINK improved all four children's Spanish expressive vocabulary, with larger effects at maintenance (overall 0.76 baseline-to-intervention; 0.87 baseline-to-maintenance)](../claims/link-home-single-case-tau-u.md) [+M] — instruction changes it
+- [Pretest vocabulary and alphabet knowledge did not moderate alphabet learning growth, and DLLs showed only limited differential response](../claims/no-moderation-by-vocabulary-or-dll-status.md) [-M] — an instructional effect differs with it
+- [Treatment preschoolers significantly improved Spanish receptive and expressive vocabulary and English receptive vocabulary from pre-test to post-test, with moderate effect sizes](../claims/link-prepost-vocabulary-gains-spanish-english.md) [+M] — rose from pre-test to post-test in the treatment group (no comparison group in this analysis)
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

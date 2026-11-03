@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 85 claims (51 for, 31 mixed, 3 against) · 72 studies (50 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 16 of 72 report an effect size · 80 claims rest on one study
+> **Evidence** · 88 claims (54 for, 31 mixed, 3 against) · 74 studies (52 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 16 of 74 report an effect size · 83 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -121,6 +121,9 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Embedded questions in video as synchronized subtitles do not affect SFL audiovisual comprehension test performance](../claims/embedded-subtitled-questions-no-test-performance-effect.md) [~W]
 - [The interactive multimedia group (ESA) differed significantly from both other groups on post-test physics popularity](../claims/esa-significant-difference-posttest-popularity.md) [+W]
 - [Smartboard teaching raised overall motivation, integrative orientation, instrumental orientation and linguistic self-confidence, but not self-efficacy beliefs or ought-to L2 self](../claims/smartboard-motivation-subcomponents-mixed.md) [~W] — attached 2026-11-03 from Ahmad et al. (2017), which proposed "Smartboard-based EFL instruction in a Saudi preparatory year programme"; tests this page's relationship.
+- [Grade-10 EFL students taught vocabulary with PowerPoint-enhanced lessons retained more vocabulary than students in traditional lessons](../claims/ppt-vocabulary-retention-outperforms-traditional.md) [+W] — attached 2026-11-03 from Ta Thanh Nam et al. (2012), which proposed "PPT-enhanced vocabulary lessons"; tests this page's relationship.
+- [Students held positive attitudes toward the use of PowerPoint in vocabulary lessons](../claims/positive-student-attitudes-ppt-vocabulary.md) [+W] — attached 2026-11-03 from Ta Thanh Nam et al. (2012), which proposed "PPT-enhanced vocabulary lessons".
+- [Instructional video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment](../claims/instructional-video-improves-efl-vocabulary.md) [+W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]
@@ -142,6 +145,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - An explained diagram or narrated animation paired with guided questions.
 - [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](../strategies/common-tools-ctml-lesson-workflow.md)
 - [Pair short-story reading with short animation-film segments in EFL reading lessons](../strategies/animation-film-segments-with-story-reading-strategy.md)
+- [Instructors compile native-speaker video lessons and pair students for peer-supported immersive multimedia learning of L2 oral skills](../strategies/compile-native-video-lessons-peer-pairs-strategy.md)
 
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)

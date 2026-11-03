@@ -54,6 +54,7 @@ The brief recommends building on federal ECE investments by expanding federal pr
 - [Four-part state policy agenda: coherent administration, universal affordability, a well-qualified workforce, and quality improvement for all programs](california-ece-four-part-policy-agenda.md)
 - [Federal strategy to raise ECE quality by setting higher CCDBG standards, minimum quality requirements for federally supported preschool, and funding coaching](federal-strategy-ece-quality-standards-coaching.md)
 - [Six-part strategy for assuring qualified teachers for all students](six-part-qualified-teachers-strategy.md)
+- [Develop and disseminate free, society-based early education models for disadvantaged children and families](society-based-free-models-disadvantaged-children.md)
 
 ## Examples
 -

@@ -47,7 +47,7 @@ Haifang Liu. (2026). AI-enhanced legal pedagogy: a case study of generative AI i
 
 `q2 · i?` · `causal · r2`
 
-PLS-SEM on the full sample of 180 participants using SmartPLS 4.0 with 5000 bootstrap resamples; the article prints path coefficients and t-values but no standardized effect sizes for individual paths, so impact is null.
+PLS-SEM on the full sample of 180 participants using SmartPLS 4.0 with 5000 bootstrap resamples; the article prints path coefficients and t-values but no standardized effect sizes for individual paths, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "perceived usefulness strongly predicted attitude toward use (H2: β = .52, t = 7.84, p < .001), while attitude significantly influenced behavioral intention (H4: β = .61, t = 9.15, p < .001). Behavioral intention strongly predicted actual usage (H8: β = .58, t = 8.32, p < .001)"
 
@@ -57,7 +57,7 @@ Haifang Liu. (2026). AI-enhanced legal pedagogy: a case study of generative AI i
 
 `q2 · i?` · `causal · r2`
 
-Variance-explained and fit indices from the same SEM; R2 values are variance explained from a path model, which the coding rules treat as not a standardized effect size, so impact is null.
+Variance-explained and fit indices from the same SEM; R2 values are variance explained from a path model, which the coding rules treat as not a standardized effect size, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The model explained substantial variance in endogenous constructs: 52% in attitude toward use, 59% in behavioral intention, and 68% in legal reasoning ability. Model fit indices demonstrated excellent alignment with observed data (SRMR = .062, NFI = .91, CFI = .94)"
 

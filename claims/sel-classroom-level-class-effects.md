@@ -37,7 +37,7 @@ Stephanie M. Jones, Sophie P. Barnes, Rebecca Bailey, and Emily J. Doolittle. (2
 
 `q2 · i?` · `review · r2`
 
-Review finding across the three studies (Second Step, RULER, 4Rs) that included classroom-level measures using the CLASS observational measure of teacher-child interaction quality in three domains. The article reports effects "ranged from moderate for classroom emotional support to large for instructional support." Magnitudes are described categorically; no numeric effect sizes are printed, so impact is null.
+Review finding across the three studies (Second Step, RULER, 4Rs) that included classroom-level measures using the CLASS observational measure of teacher-child interaction quality in three domains. The article reports effects "ranged from moderate for classroom emotional support to large for instructional support." Magnitudes are described categorically; no numeric effect sizes are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "In the studies we reviewed, effects measured by CLASS ranged from moderate for classroom emotional support to large for instructional support."
 

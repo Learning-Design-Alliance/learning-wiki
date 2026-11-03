@@ -71,3 +71,4 @@ Bonferroni post-hoc comparisons on the achievement posttest found the control gr
 - [The subject-taught control group showed no significant knowledge increase while the interdisciplinary test group did](control-group-no-significant-knowledge-increase.md) — related
 - [Interdisciplinary biology–PE teaching produces significantly greater knowledge growth than subject-related lessons in German sixth-form students](idt-biology-pe-greater-knowledge-growth-than-subject-related.md) — related
 - [Journal writing as a writing-to-learn activity raises fourth-grade science achievement more than regular instruction alone](journal-writing-wtl-improves-fourth-grade-science-achievement.md) — related
+- [Neither intervention produces a statistically significant improvement in grade point average compared with waitlist](no-gpa-effects-hops-chief.md) — related

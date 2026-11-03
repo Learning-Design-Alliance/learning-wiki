@@ -52,3 +52,4 @@ Pre-test ANOVA across the Computer (n=43), Manipulatives (n=36), and Traditional
 - [Experimental and control groups were statistically equivalent on religious-concepts pretest before the intervention](kwl-study-pretest-equivalence.md) — related
 - [In the construction section, DGS and manipulatives instruction were equally effective and both significantly outperformed traditional instruction](construction-dgs-equals-manipulatives-beat-traditional.md) — related
 - [U-learning and E-learning groups were statistically equivalent at pretest before the intervention](pretest-equivalence-u-e-groups.md) — related
+- [Experimental and control groups were statistically equivalent on solid geometry achievement before treatment](pretest-equivalence-solid-geometry-groups.md) — related

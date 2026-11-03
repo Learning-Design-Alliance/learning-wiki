@@ -37,7 +37,7 @@ Marlen A. Roehe, Carmen Trost, Julia S. Grundnig, Anahit Anvari-Pirsch, Anita Ho
 
 `q3 · i?` · `quant-synthesis · r2`
 
-The review's synthesis of 45 co-occurrences between a strategic approach and performance found "53.3% of 45 co-occurrences" were high(er) performance and 42.2% no differences. No effect size is printed, so impact is null.
+The review's synthesis of 45 co-occurrences between a strategic approach and performance found "53.3% of 45 co-occurrences" were high(er) performance and 42.2% no differences. No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The most common co-occurrence for a strategic approach was a high(er) academic performance (53.3% of 45 co-occurrences), followed by no differences in performance (42.2%)."
 

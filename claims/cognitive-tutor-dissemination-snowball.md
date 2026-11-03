@@ -38,7 +38,7 @@ Kenneth R. Koedinger & Vincent Aleven. (2016). An Interview Reflection on “Int
 
 `q2 · i?` · `qualitative · r1`
 
-The interview reports the dissemination trajectory as a retrospective account: growth from three schools to 75 schools by 1998–99, with the later figures of about 3000 schools and over half a million students per year also stated in the interview. No effect size applies, so impact is null.
+The interview reports the dissemination trajectory as a retrospective account: growth from three schools to 75 schools by 1998–99, with the later figures of about 3000 schools and over half a million students per year also stated in the interview. No effect size applies, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "From the three schools involved in this study in the 1993 –94 school year, we reached 75 schools in the 1998–99 school year (Corbett et al. 2001)."
 

@@ -50,7 +50,8 @@ The article's teacher recommendations for running AWT: the teacher "should suppo
 - [The control group's writing skills also improved significantly over the 8 weeks under traditional instruction](../claims/control-group-also-improved-writing.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Language educators should leverage technology capabilities for teaching writing and other language skills, without overstating technology's role](leverage-mobile-technology-across-language-skills.md)
 
 ## Examples
 -

@@ -37,7 +37,7 @@ McElhaney, K. W., & Kamdar, D. (2024). Updated summary and synthesis of OpenSciE
 
 `q2 · i?` · `review · r2`
 
-The review reports, citing Vick and Blanton (2023), data from 44 eighth-grade students in two classrooms taught by the same teacher comparing OpenSciEd and mySci units. No effect size is printed, so impact is null; equivalence was not tested.
+The review reports, citing Vick and Blanton (2023), data from 44 eighth-grade students in two classrooms taught by the same teacher comparing OpenSciEd and mySci units. No effect size is printed, so impact is coded i? (no magnitude reported; not a null effect); equivalence was not tested.
 
 > "The study found no significant differences in science learning or attitudes between the two classes on science."
 

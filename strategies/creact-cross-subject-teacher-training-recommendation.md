@@ -45,7 +45,8 @@ The authors recommend using CREACT and related programs beyond science, and buil
 - [Experimental group's total creativity rose significantly from pre-test to post-test after CREACT practice](../claims/creact-experimental-prepost-total-gain.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Extend discovery learning across subjects, school levels, adult education and teacher education](extend-discovery-learning-across-subjects-and-levels.md)
 
 ## Examples
 -

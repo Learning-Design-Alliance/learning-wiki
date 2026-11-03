@@ -37,7 +37,7 @@ Ding, Y., Qian, J., Zhou, Y., & Zhang, Y. (2024). Effect of e‐learning program
 
 `q3 · i?` · `quant-synthesis · r2`
 
-Random-effects meta-analysis of the three included trials scoring classification skills dichotomously, shown in Figure 3. The review reports "no statistically significant difference" at p = 0.08; no effect-size magnitude beyond the OR is classified, so impact is null. Equivalence was not tested.
+Random-effects meta-analysis of the three included trials scoring classification skills dichotomously, shown in Figure 3. The review reports "no statistically significant difference" at p = 0.08; no effect-size magnitude beyond the OR is classified, so impact is coded i? (no magnitude reported; not a null effect). Equivalence was not tested.
 
 > "The pooled OR for classification skills was 1.75 (95%CI: 0.94–3.24; I 2 = 78.3%), indicating no statistically significant difference in terms of classification skills (p = 0.08; Figure 3)."
 

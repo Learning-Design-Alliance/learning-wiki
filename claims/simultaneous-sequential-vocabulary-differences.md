@@ -60,3 +60,4 @@ The review reports Hammer et al.'s (2008a) longitudinal Head Start comparison: "
 - [Controlling for SES, monolingual children outperform both simultaneous and sequential bilinguals on single-language English receptive and expressive vocabulary measures](monolinguals-outperform-bilinguals-single-language-english-vocabulary.md) — related
 - [Spanish use at home does not limit English learning: young Spanish–English bilinguals with more Spanish at school entry show higher English skills by year's end](spanish-home-use-does-not-limit-english-learning.md) — related
 - [Dual language narrative intervention produced a large English vocabulary gain (d = .98) but only a small Spanish vocabulary gain (d = .34)](english-vocabulary-large-effect-spanish-small.md) — related
+- [Pretest vocabulary and alphabet knowledge did not moderate alphabet learning growth, and DLLs showed only limited differential response](no-moderation-by-vocabulary-or-dll-status.md) — related

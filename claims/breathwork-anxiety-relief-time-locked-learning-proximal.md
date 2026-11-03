@@ -37,7 +37,7 @@ Wang, P., Ganushchak, L., Welie, C., & van Steensel, R. (2026). Learning proxima
 
 `q3 · i?` · `causal · r2`
 
-Group × Phase × Prompt-type multilevel analysis of EMA data from the RCT (n = 84), contrasting 11:00/13:00/15:00 prompts with the 20:00 prompt. The breathwork group's within-day contrast was β = −0.20 during intervention (95% HPD [−0.31, −0.09]) and returned to β = 0.00 post-intervention. No standardized effect size is printed for this contrast, so impact is null.
+Group × Phase × Prompt-type multilevel analysis of EMA data from the RCT (n = 84), contrasting 11:00/13:00/15:00 prompts with the 20:00 prompt. The breathwork group's within-day contrast was β = −0.20 during intervention (95% HPD [−0.31, −0.09]) and returned to β = 0.00 post-intervention. No standardized effect size is printed for this contrast, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The between-group difference in this contrast was credible (β = −0.17, 95% HPD [−0.33, −0.01]), indicating that the anxiety-reducing benefit of breathwork was acute and time-specific"
 

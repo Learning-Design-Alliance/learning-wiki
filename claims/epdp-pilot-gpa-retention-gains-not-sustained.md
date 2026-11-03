@@ -71,3 +71,4 @@ Follow-up observation reported by the authors, citing Buyarski (2016): after the
 - [First-semester transfer students taking one general education course persisted at rates 15-20% lower than similar non-takers, an effect absent when the course was taken in a later term](first-term-transfer-persistence-penalty-specific-course.md) — related
 - [Follow-up or post-implementation contact by change agents relates most strongly to adoption success; without it adoption falters](follow-up-contact-strongest-adoption-success-factor.md) — related
 - [Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade](philanthropic-studies-epportfolio-curricular-integration.md) — related
+- [Prior studies reviewed report that summer bridge participants persist to the second year and earn higher GPAs than non-participants](prior-studies-bridge-persistence-gpa.md) — related

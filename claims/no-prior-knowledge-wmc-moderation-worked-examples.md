@@ -50,3 +50,4 @@ In the conditional process model with prior knowledge as moderator (N = 74), the
 - [Working memory capacity did not moderate learning gains in PS-I and I-PS, but digit recall correlated with declarative knowledge of the features](working-memory-no-moderation-correlated-declarative.md) — related
 - [Worked examples did not significantly increase self-explanation quality compared to problem-solving; both groups generated self-explanations of similar quality](worked-examples-no-self-explanation-quality-advantage.md) — related
 - [Self-explanation quality correlated with prior knowledge and post-test knowledge but not with learning gains](self-explanation-quality-correlations-null-gain.md) — related
+- [Working memory capacity correlates with outcomes differently across strategy conditions, with compensatory negative correlations under materials-only instruction](wmc-correlations-vary-by-strategy-condition.md) — related

@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 114 claims (48 for, 62 mixed, 4 against) · 90 studies (57 causal, 12 review, 10 quant-synthesis, 4 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 21 of 90 report an effect size · 105 claims rest on one study
+> **Evidence** · 115 claims (48 for, 63 mixed, 4 against) · 91 studies (58 causal, 12 review, 10 quant-synthesis, 4 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 21 of 91 report an effect size · 106 claims rest on one study
 
 ## Description and scope
 
@@ -179,6 +179,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Students in the multimedia group reported that the tool provided an easy learning environment, concretion and visuality](../claims/mbio-students-report-easy-environment-concretion-visuality.md) [+W]
 - [Teacher observations and student opinions indicated relatively positive attitudes toward using animations in vocabulary learning](../claims/positive-attitudes-toward-animation-vocabulary-learning.md) [+W]
 - [Learners value classroom listening practice and prefer video or equal weighting over audio-only materials](../claims/learners-prefer-video-over-audio-materials.md) [~W]
+- [Animation-with-text CAI did not significantly outperform lecture method on solid geometry achievement](../claims/at-cai-not-significant-vs-lecture.md) [~W]
 
 ## Examples
 

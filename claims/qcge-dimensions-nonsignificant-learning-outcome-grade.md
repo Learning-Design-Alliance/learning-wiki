@@ -38,7 +38,7 @@ Paneth, L., Jeitziner, L. T., Rack, O., Opwis, K., & Zahn, C. (2024). Zooming in
 
 `q2 · i?` · `associational · r2`
 
-Linear regression model with 38 group-mean QCGE dimension scores predicting the expert-rated product grade (weighted scoring 1–6 scale, ICC = 0.825). The article states "confidence intervals for all betas spanning values that include zero"; no effect size is printed, so impact is null.
+Linear regression model with 38 group-mean QCGE dimension scores predicting the expert-rated product grade (weighted scoring 1–6 scale, ICC = 0.825). The article states "confidence intervals for all betas spanning values that include zero"; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "the effects of BE (β = 3.01), SE (β = 0.31), CE (β = 0.42), and CC (β = –0.52) on the learning outcome (i.e., grade) are statistically nonsignificant, with p-values above the conventional significance threshold"
 

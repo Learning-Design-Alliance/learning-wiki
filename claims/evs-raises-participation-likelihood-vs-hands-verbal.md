@@ -37,7 +37,7 @@ Samuel O. King and Carol Robinson. (2008). 'Pretty Lights' and Maths! Increasing
 
 `q2 · i?` · `associational · r1`
 
-Main questionnaire item asking students to compare their likelihood of responding under three solicitation methods: handsets, raising hands, and verbal response. Self-reported likelihood percentages; no standardised effect size is printed, so impact is null.
+Main questionnaire item asking students to compare their likelihood of responding under three solicitation methods: handsets, raising hands, and verbal response. Self-reported likelihood percentages; no standardised effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Student submissions clearly show that the use of EVS predisposes at least three- quarters of all students (84.61%) towards answering questions in class, compared t o (28.67%) when students are asked to respond by raising their hands or (12.59%) when they are asked for a verbal response"
 

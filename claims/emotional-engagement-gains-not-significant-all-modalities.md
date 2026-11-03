@@ -37,7 +37,7 @@ Ka Yan Fung, Tze Leung Rick Lui, Yuxing Tao and Kuen Fung SIN. (2025). MotiBo: T
 
 `q2 · i?` · `causal · r1`
 
-Emotional engagement results from the efficacy verification section; the robot group's +23.08% gain had p=.06, and the PPT and paper groups' gains (p=.11, p=.38) were also non-significant. No effect sizes are printed, so impact is null.
+Emotional engagement results from the efficacy verification section; the robot group's +23.08% gain had p=.06, and the PPT and paper groups' gains (p=.11, p=.38) were also non-significant. No effect sizes are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The robot group demonstrated improvement, p =.06 (pre-test: M,= 75.83, σ =22.80; post-test: Mj= 93.33, σ =7.97; +23.08%)."
 

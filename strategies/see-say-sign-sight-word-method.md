@@ -47,7 +47,8 @@ The article's ASL treatment procedure has the intern explain that the sign makes
 - [Interns observed extremely high enthusiasm for ASL vocabulary learning, including home practice and increased self-confidence](../claims/asl-sight-word-instruction-high-enthusiasm-qualitative.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Develop subject-specific sign language simultaneously with conceptual learning when teaching deaf students](sign-language-development-simultaneous-concept-learning.md)
 
 ## Examples
 -

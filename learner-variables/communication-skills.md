@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 140 claims (92 show a difference, 26 mixed, 22 no difference) · 113 studies (40 causal, 23 review, 20 quant-synthesis, 16 associational, 5 design, 5 theoretical, 4 qualitative), `q1`–`q4` · 19 of 113 report an effect size · 137 claims rest on one study
+> **Evidence** · 144 claims (95 show a difference, 27 mixed, 22 no difference) · 116 studies (42 causal, 24 review, 20 quant-synthesis, 16 associational, 5 design, 5 theoretical, 4 qualitative), `q1`–`q4` · 19 of 116 report an effect size · 141 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -181,6 +181,10 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Students reported that analysing authentic TED talks was motivating and that self/peer evaluation of their video-recorded speaking tasks helped them overcome anxiety and track their progress](../claims/task-cycle-activities-reported-benefits.md) [+W] — instruction changes it
 - [Drama method has a large, positive effect on social communication skills according to a random-effects meta-analysis of 24 studies](../claims/drama-large-positive-effect-social-communication-skills.md) [+M] — instruction changes it
 - [The effect of drama on social communication skills does not differ significantly by subject area, with Mathematics showing the lowest effect size](../claims/drama-effect-no-difference-subject-area.md) [-M] — an instructional effect differs with it
+- [Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported](../claims/communicatively-developing-methods-improve-teacher-coherent-speech.md) [+W] — instruction changes it
+- [Hybrid learning produced significantly higher oral communicative-competency post-test scores than conventional methods among B.Ed in-service teachers](../claims/hybrid-learning-beats-conventional-communicative-skill.md) [+M] — instruction changes it
+- [Oral language skills indicatively support writing in younger pupils and struggling writers, with oral language influence on writing partly mediated through reading](../claims/oral-language-supports-early-writing-development.md) [~M] — learners who differ on it differ in outcomes
+- [Within the experimental group, oral communicative-competency scores rose significantly from pre-test to post-test after hybrid learning](../claims/hybrid-learning-pre-post-gain-experimental-group.md) [+M] — instruction changes it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

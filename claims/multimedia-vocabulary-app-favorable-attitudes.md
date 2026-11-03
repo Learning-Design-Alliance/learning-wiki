@@ -51,3 +51,5 @@ Questionnaire data from the experimental study of 80 freshmen using the multimed
 - [Participants held generally positive attitudes toward VISIGARP but rated diagram layout clarity low while finding layout easy to adjust](visigarp-attitudes-layout.md) — related
 - [Positive learner attitudes were measured after only one supervised application and may decline with repeated or mandatory use](attitudes-after-one-supervised-use.md) — related
 - [Most students held favorable attitudes toward pictorial-aids instruction](positive-student-attitudes-pictorial-aids.md) — related
+- [The article reports that the REACT strategy affects learners' learning motivation and attitudes and contributes to a more positive learning environment](react-affects-motivation-attitudes.md) — related
+- [Students positively perceived YouTube's usefulness, ease of use, and their attitude toward it for vocabulary learning](student-positive-perceptions-youtube-vocabulary.md) — related

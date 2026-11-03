@@ -51,3 +51,4 @@ True experimental pretest-posttest control-group study with random assignment of
 - [Pre-service teachers taught probability with the ABSL approach achieved significantly higher post-test scores than those taught with traditional methods](absl-probability-achievement-advantage.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [Using music and musical information in English classes somewhat improved formation of communicative skills relative to traditional methods](music-use-improves-communicative-skills-formation.md) — related
+- [Hybrid learning produced significantly higher oral communicative-competency post-test scores than conventional methods among B.Ed in-service teachers](hybrid-learning-beats-conventional-communicative-skill.md) — related

@@ -37,7 +37,7 @@ Järvelä, S., Järvenoja, H., & Malmberg, J. (2019). Capturing the dynamic and 
 
 `q2 · i?` · `review · r2`
 
-Narrative review attributing to Järvenoja et al. (2018) a multi-tier video coding analysis across six mathematics tasks combining challenges, type of regulation, and regulation strategy. The review reports a "wide range of micro-level challenges emerge" in situ; no effect size is printed, so impact is null.
+Narrative review attributing to Järvenoja et al. (2018) a multi-tier video coding analysis across six mathematics tasks combining challenges, type of regulation, and regulation strategy. The review reports a "wide range of micro-level challenges emerge" in situ; no effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "The analysis revealed that, in collaborative learning situations, a wide range of micro-level challenges emerge, including those with cognitive, motivational, and emotional issues as well as different socially and contextually oriented challenges."
 

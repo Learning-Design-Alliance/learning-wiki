@@ -47,7 +47,7 @@ Melody Wilson & Jamaal Sharif Matthews. (2024). Black adolescents' motivation to
 
 `q2 · i?` · `associational · r2`
 
-Pearson chi-square test of most-likely profile membership against school type, exported from the longitudinal model: the study "conducted a Pearson chi-square test for categorical association with school type", yielding significant association at both waves. No effect size printed, so impact is null.
+Pearson chi-square test of most-likely profile membership against school type, exported from the longitudinal model: the study "conducted a Pearson chi-square test for categorical association with school type", yielding significant association at both waves. No effect size printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "We exported most likely class membership from the longitudinal model (see Table9) and conducted a Pearson chi-square test for categorical association with school type (χ2 T1 ¼ 19:06; p<0:001; χ2 T2 ¼ 12:45; p<0:01)"
 

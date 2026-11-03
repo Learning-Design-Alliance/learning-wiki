@@ -37,7 +37,7 @@ Hart, S. A., Little, C. & van Bergen, E. (2021). Nurture might be nature: cautio
 
 `q2 · i?` · `review · r2`
 
-The article reports this published twin study, in which "using child twin ratings of their rearing environment", genetic influences on rated home chaos were detected. Percentages of variance explained are reported as printed; no standardized effect size is given, so impact is null.
+The article reports this published twin study, in which "using child twin ratings of their rearing environment", genetic influences on rated home chaos were detected. Percentages of variance explained are reported as printed; no standardized effect size is given, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Hanscombe et al. 24 found that 22% of the variance of chaos in the home was attributable to genetic factors, and moreover, 37% of association between chaos in the home and school achievement was due to shared genes."
 

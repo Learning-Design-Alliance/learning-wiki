@@ -54,3 +54,4 @@ Series of two-tailed paired-samples t-tests per all 11 dialogic attributes acros
 - [Individual trajectories varied: 9 of 14 teachers increased dialogic noticing per episode, while two teachers slightly decreased, which the authors attribute to limits of the nondirective intervention](individual-noticing-trajectories-vary.md) — related
 - [Student-focused noticing marginally increased (Cohen's d = 0.43) while teacher-focused codes showed no change (d = 0.06)](blair2024-student-focused-increase-teacher-flat.md)
 - [A six-week SRL video annotation intervention was followed by a statistically significant increase in high school students' ITS-AR monologue scores](srl-video-annotation-improved-acting-rubric-scores.md) — related
+- [Baseline analysis of 600 teacher monologue utterances found most trainees made few mistakes, pointing to need for systematic work on oral text](baseline-600-utterances-teacher-speech-mistakes.md) — related

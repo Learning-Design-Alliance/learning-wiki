@@ -38,7 +38,7 @@ Darling-Hammond, L., Rothman, R. & Cookson, P. W., Jr. (2017). Expanding high-qu
 
 `q2 · i?` · `review · r2`
 
-The report cites the CREDO virtual charter comparison to traditional public schools serving similar students, reporting learning losses of "half a year of learning in reading and a full year of learning in mathematics," plus NCES graduation-rate data averaging 40%. No standardized effect size is printed, so impact is null.
+The report cites the CREDO virtual charter comparison to traditional public schools serving similar students, reporting learning losses of "half a year of learning in reading and a full year of learning in mathematics," plus NCES graduation-rate data averaging 40%. No standardized effect size is printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "A recent CREDO study found that virtual charters had far lower achievement for their students in both mathematics and reading than traditional public schools serving similar students. The differences in student learning equated to a student losing half a year of learning in reading and a full year of learning in mathematics."
 

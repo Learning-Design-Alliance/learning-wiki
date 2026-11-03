@@ -9,7 +9,6 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-10-20
 recheck_by: 2024
 sources:
   - id: soland-2019
@@ -34,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
+> **Currency** · newest study 2019 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Being an ELL is associated with reading growth between 5th and 8th grade that is .13 standard deviations higher than among peers, while initial reading scores are .65 standard deviations lower; these are standardized SEM coefficients, so no effect-size impact is coded. [→ Soland 2019](#soland-2019)
@@ -48,7 +47,7 @@ Soland, J. (2019). English Language Learners, Self-efficacy, and the Achievement
 
 `q2 · i?` · `associational · r2`
 
-Reading model of the same latent curve SEM (Question 2, Figure 3; RMSEA = .045, CFI = .992). The article attributes the faster reading growth to ELLs mastering English and catching up over time, citing Cook et al. and Umansky & Reardon; the .65 and .13 values are standardized coefficients, so impact is null.
+Reading model of the same latent curve SEM (Question 2, Figure 3; RMSEA = .045, CFI = .992). The article attributes the faster reading growth to ELLs mastering English and catching up over time, citing Cook et al. and Umansky & Reardon; the .65 and .13 values are standardized coefficients, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Turning to reading, ELLs have initial achievement scores that are .65 standard deviations below non-ELLs. However, being an ELL is associated with growth in reading between 5th and 8th grade that is .13 standard deviations higher than among their peers."
 

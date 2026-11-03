@@ -38,7 +38,7 @@ Tanner, S., Krausen, K., Garcia, B., & Brown, A. (2025). Understanding the At-ri
 
 `q2 · i?` · `causal · r2`
 
-RDD analysis restricted to Clark County School District, which the report says educates more than two thirds of the state's students including more than 80 percent of those designated At-risk. "There is a marked jump at the One-Star threshold of 0.33 standard deviations" in math, significant; ELA showed "the jump of 0.29 standard deviations at the One-Star threshold is statistically significant." The report prints these as threshold jumps in grade-standardized scores, not as d-type effect sizes, so impact is null.
+RDD analysis restricted to Clark County School District, which the report says educates more than two thirds of the state's students including more than 80 percent of those designated At-risk. "There is a marked jump at the One-Star threshold of 0.33 standard deviations" in math, significant; ELA showed "the jump of 0.29 standard deviations at the One-Star threshold is statistically significant." The report prints these as threshold jumps in grade-standardized scores, not as d-type effect sizes, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "There is a marked jump at the One-Star threshold of 0.33 standard deviations. This effect is statistically significant, indicating that the resources flowing to One-Star schools in Clark County are having a substantial positive effect on students’ math scores."
 

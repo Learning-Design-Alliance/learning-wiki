@@ -88,3 +88,4 @@ A third interview theme concerned high expectations: in segregated settings teac
 - [Intensive remediation alone will not meet students' needs and, if segregating and stigmatizing, can deepen inequality and trauma](remediation-alone-insufficient-summer-learning.md) — a broader claim this one bears on
 - [Teachers provided targeted extra support, immediate feedback, and reinforcers to learners with DD](targeted-support-feedback-reinforcers-dd.md) — related
 - [Prompting a learning disability shifts feedback toward word- and sentence-level remediation, simplified vocabulary, and lowered expectations](learning-disability-feedback-lowered-expectations.md) — related
+- [Qualitative interviews with data collectors attributed outcome differences between placements to curriculum content and dosage, paraeducator support styles, and teacher expectations](placement-outcome-differences-qualitative-themes.md) — possibly the same claim (merge candidate)

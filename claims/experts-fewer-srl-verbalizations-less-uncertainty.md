@@ -75,3 +75,4 @@ Descriptive contrast in uncertainty verbalizations from the same think-aloud stu
 - [Relations between SRL phase frequency/diversity and illness script activation were mixed across cases: more frequent and diverse transitions were sometimes beneficial (Cases 2, 4) and sometimes detrimental (Cases 1, 3, 5)](srl-transitions-mixed-effects-illness-script-activation.md) — related
 - [Comparing novice and expert activation signatures can guide optimisation of an intervention](novice-expert-signature-optimisation.md) — related
 - [Emotional regulation, especially tolerance of uncertainty, supports physicians' management of clinical uncertainty](emotion-regulation-supports-uncertainty-management.md) — related
+- [Within individual assignment types, Fisher exact tests show almost no difference between experimental and control groups](fisher-tests-no-within-strata-difference.md) — related

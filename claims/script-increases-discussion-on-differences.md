@@ -56,7 +56,7 @@ Judith Schoonenboom. (2008). The effect of a script and a structured interface i
 
 `q2 · i?` · `causal · r1`
 
-Quality analysis of the four discussions that occurred, measuring number of utterances, number of words, specificity, and proportion of group members mentioned; the article reports these "did not yield significant results". No effect sizes are printed, so impact is null.
+Quality analysis of the four discussions that occurred, measuring number of utterances, number of words, specificity, and proportion of group members mentioned; the article reports these "did not yield significant results". No effect sizes are printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Several measures of the quality of the four group discussions did not yield significant results."
 

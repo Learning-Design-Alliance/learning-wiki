@@ -37,7 +37,7 @@ Shiels, L., Carew, P., Tomlin, D. & Rance, G. (2025). The impact of classroom so
 
 `q3 · i?` · `causal · r2`
 
-Within-subject crossover study in which 23 classes alternated between SFA-On and SFA-Off terms; 84 students completed both conditions and were assessed with the Wheldall Assessment of Reading Passages. "no significant difference in reading fluency development" between phases; mean WARP gains were 3.9 and 4.1 words per minute. No effect size printed, so impact is null.
+Within-subject crossover study in which 23 classes alternated between SFA-On and SFA-Off terms; 84 students completed both conditions and were assessed with the Wheldall Assessment of Reading Passages. "no significant difference in reading fluency development" between phases; mean WARP gains were 3.9 and 4.1 words per minute. No effect size printed, so impact is coded i? (no magnitude reported; not a null effect).
 
 > "Analysis of within-child changes across conditions revealed no significant difference in reading fluency development through the SFA-On vs SFA-Off study phases (t = 0.12, p = 0.908). Mean change in WARP score for SFA-Off was 3.9 ± 11.2 words per minute, and SFA-On was 4.1 ± 10.6 words per minute."
 
