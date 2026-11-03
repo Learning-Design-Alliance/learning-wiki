@@ -50,3 +50,4 @@ The pretest was the students' mid-term English exam with a total of 150 marks, u
 - [The two intact classes did not differ significantly in overall English proficiency before the study](keyword-study-classes-homogeneous-proficiency.md) — related
 - [Control and experimental groups did not differ significantly in writing proficiency or English proficiency before treatment](pretest-homogeneity-efl-writing-groups.md) — related
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
+- [No statistically significant differences among the three sections on mid-term exam, online journal entries, or combined totals](no-significant-difference-midterm-journal-combined.md) — related

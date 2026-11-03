@@ -50,3 +50,4 @@ Process evaluation of the trial, based on field visits, observations and intervi
 - [Nearly a quarter of schools failed to deliver the intervention, and successful implementation required senior-leader support, dedicated space, staff time and a timetabled slot](youth-united-implementation-conditions.md) — related
 - [Most Oakland secondary students receiving LLI fell short of the recommended minimum number of sessions](lli-students-fell-short-recommended-sessions.md) — related
 - [Implementation fidelity of Switch-on was compromised in some schools, with modifications to prescribed content, duration and format of sessions](switch-on-fidelity-compromised-scale-up.md) — related
+- [Implementation fidelity problems, including missing audio devices and insufficient lab monitoring, compromised the blended learning intervention](blended-implementation-fidelity-compromised-outcomes.md) — related

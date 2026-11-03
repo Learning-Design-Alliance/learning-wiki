@@ -23,7 +23,7 @@ sources:
 # Effective Classroom Management Plan Criteria
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (19 for, 12 mixed, 2 against) · 40 studies (15 quant-synthesis, 9 review, 8 causal, 4 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 40 report an effect size · 26 claims rest on one study
+> **Evidence** · 35 claims (21 for, 12 mixed, 2 against) · 41 studies (15 quant-synthesis, 9 causal, 9 review, 4 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 41 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,8 @@ Read against the model on 2026-10-15 and left here because none can carry a step
 - [Making rounds minimizes off-task behaviour because pupils monitor for the teacher's approach and adjust their behaviour](../claims/rounds-surveillance-minimizes-off-task.md) [+W] — attached 2026-10-18 from Christian Greiffenhagen (2011), which proposed "Teacher rounds as the routine organization of monitoring during pair work at computers".
 - [Teacher–student relationship quality partially mediates the association between student behavior and peer relationships](../claims/tsr-partially-mediates-behavior-peer-association.md) [~W] — attached 2026-10-20 from Endedijk et al. (2022), which proposed "Prevent or reduce negative aspects of teacher–student relationships, especially for students with behavioral problems, to support classroom peer relationships".
 - [Structure can be characterized by seven practice components: expectation/goal-setting, rules and routines, organization of lessons and materials, monitoring and signals, feedback, rewards and punishment, and eliciting student involvement](../claims/structure-seven-component-taxonomy.md) [+W] — attached 2026-10-31 from Patall et al. (2023), which proposed "Classroom structure practices combine anticipatory, organizational, monitoring, feedback, and involvement components at lesson and unit level".
+- [CW-FIT significantly increases teacher praise and attention to appropriate behaviors](../claims/cw-fit-increases-teacher-praise.md) [+W] — attached 2026-11-03 from Debra Kamps et al. (2015), which proposed "Increase teacher attention to appropriate behavior rather than negative behavior in classroom management".
+- [CW-FIT significantly decreases teacher reprimands](../claims/cw-fit-decreases-reprimands.md) [+W] — attached 2026-11-03 from Debra Kamps et al. (2015), which proposed "Increase teacher attention to appropriate behavior rather than negative behavior in classroom management".
 
 ## Objective and learner-valued goal
 

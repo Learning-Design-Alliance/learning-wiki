@@ -60,3 +60,4 @@ Post hoc Mann-Whitney comparisons with Bonferroni correction (.05/7 = .007) on e
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related
 - [Lexical simplification (high-frequency target words) substantially reduces word-level processing times in adult sentence reading](lexical-simplification-reduces-target-word-processing.md) — related
 - [In a one-month case study of one learner of French, extensive reading enhanced knowledge of about two-thirds of 133 target words, with gains varying by how often a word was encountered](er-incidental-vocabulary-encounter-frequency.md) — related
+- [RAVE instruction enhances efficiency of lexical access to instructed words](rave-improves-lexical-access-year1.md) — related

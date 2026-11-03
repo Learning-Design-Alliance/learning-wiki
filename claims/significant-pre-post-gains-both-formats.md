@@ -48,3 +48,4 @@ Paired t-tests within each group of 40 physicians. TCL moved from a pre-knowledg
 - [Physicians in Internet-based CPR CME report significantly higher satisfaction than physicians in traditional classroom lecture](ibl-higher-satisfaction-than-tcl-cpr-cme.md) — related
 - [Internet-based learning and traditional lecture produce no significant difference in CPR knowledge gains for physicians](ibl-tcl-no-knowledge-difference-cpr.md) — related
 - [Physicians learning CPR via IBL required substantially less time than the six-hour traditional lecture](ibl-time-savings-cpr-cme.md) — related
+- [Pre-training CPR skills were virtually zero and post-training gain was 92.0%, indicating training was highly effective](cpr-training-highly-effective-nigerian-students.md) — related

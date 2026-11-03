@@ -62,3 +62,4 @@ Interview finding from the concerns subcategory; participants noted that "connec
 - [The study school faced contextual barriers to game-based learning: teacher shortage, low teacher pedagogic profile, minimal ICT infrastructure, remoteness, and overcrowding](rural-school-barriers-game-based-learning.md) — a narrower finding that bears on this claim
 - [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — related
 - [Internet and computer access problems limited participation in the online argumentation implementation](internet-access-limits-online-argumentation.md) — a narrower finding that bears on this claim
+- [Students reported that internet connection instability and limited time were barriers to creating online comics](internet-and-time-barriers-online-comics.md) — related

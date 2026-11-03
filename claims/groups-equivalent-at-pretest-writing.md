@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-03
 sources:
   - id: zennure-elgün-gündüz-2016
     resource: "https://doi.org/10.13189/ujer.2016.040722"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An independent-samples t-test on pre-test essay scores found no significant difference between groups (t = .481, df = 48, p = .63). [→ Zennure Elgün Gündüz 2016](#zennure-elgun-gunduz-2016)
@@ -68,3 +69,5 @@ Independent-samples t-test on pre-test essay scores of both groups (N = 25 each)
 - [Wiki-based writing environments increase EFL writing achievement in content compared with traditional pen-and-paper process writing.](wiki-based-writing-increases-efl-content-achievement.md) — related
 - [MI-based instruction improved the making-suggestions subskill of EFL pre-service teachers](mi-instruction-improves-making-suggestions-subskill.md) — related
 - [Active learning students outperformed traditional-instruction students on each of the 14 individual writing and research skills, with an average 10.5-point higher score](active-learning-gains-fourteen-individual-skills.md) — related
+- [ABSI activity-report writing scores were significantly higher for the multi-modal treatment group than the ABSI-only comparison group](absi-multimodal-higher-writing-scores.md) — related
+- [Facebook-based learning significantly enhances creativity in writing among Islamic Studies students compared to control group](facebook-based-learning-enhances-creativity-writing-islamic-studies.md) — related

@@ -55,3 +55,4 @@ Questionnaire administered only to the experimental group (n=24 responses), anal
 - [Students reported that news about people in difficulty — especially a poor Turkish child sending 1 lira to Pakistan after the earthquake — attracted the most attention in the unit](student-attention-elements-global-education-unit.md) — related
 - [Most experiment students judged reciprocal teaching more effective than their previous comprehension activities, citing ease, effectiveness and fun](student-opinions-reciprocal-teaching-effectiveness.md) — related
 - [Entertainment was the most frequently reported reason young children liked using computers, and it increased post-intervention](entertainment-main-reason-children-like-computers.md) — related
+- [Students found argumentation-based activities fun and instructive, with experimenting the most-liked part](student-views-argumentation-activities-fun-instructive.md) — related

@@ -51,3 +51,4 @@ Instrument-development report: the CAT's content validity was established with a
 - [Mastery learning instruction produced significantly higher post-test achievement in quantitative chemistry than conventional teaching among Senior Secondary 2 students](mastery-learning-higher-quantitative-chemistry-posttest.md) — related
 - [The researcher-built two-stage Mixtures Achievement Test showed high reliability in the pilot and research groups](mixtures-achievement-test-reliability.md) — related
 - [The 60-item grammar post-test showed KR-21 reliability of 0.94 and a moderate criterion-related validity correlation of 0.41 with the Nelson grammar total](posttest-reliability-validity-kr21-nelson-correlation.md) — related
+- [The Basic Technology Achievement Test (BTAT) showed reliability coefficients of 0.84 (KR-21) and 0.88 (KR-20)](btat-reliability-coefficients.md) — related

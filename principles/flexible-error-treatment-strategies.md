@@ -31,7 +31,7 @@ sources:
 # Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (22 for, 21 mixed, 1 against) · 33 studies (15 causal, 8 review, 3 quant-synthesis, 3 theoretical, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 4 of 33 report an effect size · 40 claims rest on one study
+> **Evidence** · 45 claims (23 for, 21 mixed, 1 against) · 34 studies (16 causal, 8 review, 3 quant-synthesis, 3 theoretical, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 4 of 34 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,7 @@ Accuracy on the treated form straight after correction, accuracy at a delay, acc
 - [Most learners (85%) prefer to work through error correction on their own, with proficiency moderating help use](../claims/learners-prefer-own-error-correction-85-percent.md) [~W]
 - [Most Omani EFL students report receiving and preferring direct written corrective feedback over indirect](../claims/students-prefer-direct-wcf.md) [+W]
 - [Students overwhelmingly prefer focused written corrective feedback targeting specific errors at a time](../claims/students-prefer-focused-wcf.md) [~W]
+- [Self-correction improves EFL learners' pronunciation significantly over a semester of narrative tasks](../claims/self-correction-improves-efl-pronunciation.md) [+W]
 
 ## Related Principles
 

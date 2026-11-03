@@ -69,3 +69,4 @@ Scheffé post hoc multiple range test on post-test scores. The full-text group e
 - [Full captions significantly improved EFL learners' general listening comprehension from pre-test to post-test](full-captions-improve-listening-comprehension.md) — related
 - [The no-captions control group also improved significantly in listening comprehension over the treatment period](control-group-listening-gains-without-captions.md) — related
 - [The four groups were homogeneous in general English proficiency before treatment (placement-test ANOVA sig .881)](groups-homogeneous-placement-test.md) — related
+- [Viewing captioned instructional videos significantly improves EFL learners' overall language proficiency compared to viewing without captions.](captions-improve-language-proficiency-efl.md) — related

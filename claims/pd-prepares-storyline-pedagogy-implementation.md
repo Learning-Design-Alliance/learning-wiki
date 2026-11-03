@@ -53,3 +53,4 @@ The review reports, citing Watkins and Penuel (2023), self-report surveys from m
 - [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](iterative-follow-up-supports-lasting-change.md) — related
 - [The study demonstrates the need for particular instructional supports, including differentiated expertise-building opportunities and addressing teacher beliefs about computational-model construction](instructional-supports-needed-for-complex-systems-implementation.md) — related
 - [Field testing the Persuasion across Time and Space unit changed teachers' beliefs about ELL students' capabilities](complex-texts-unit-changed-teacher-beliefs.md) — related
+- [Professional development workshops and instructional support interventions positively impact teachers' performance in standard assessments](pdp-workshops-isi-positive-impact-standard-assessments.md) — related

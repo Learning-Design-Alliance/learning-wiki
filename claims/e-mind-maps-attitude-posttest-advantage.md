@@ -54,3 +54,4 @@ Mann-Whitney test comparing the two 15-student groups on the 33-item attitude to
 - [Students in the WhatsApp blended course expressed significantly more positive attitudes toward their learning process than the fully in-class control group](whatsapp-blended-attitude-gains.md) — related
 - [Vocational students taught with JiTT through web technologies showed significantly more positive attitudes toward English learning than control students](jitt-web-attitudes-significant.md) — related
 - [Students in the Twitter-supported blended course reported more positive attitudes toward the learning process than students in the fully in-class course](twitter-blended-attitude-gain.md) — related
+- [A scripted-imagery and goal-setting intervention increased motivation, confidence, and positive attitudes toward English in 90% of the experimental group versus 50%, 75%, and 90% respectively in the control group](magid-2014-ideal-l2-self-intervention-motivation-gains.md) — related

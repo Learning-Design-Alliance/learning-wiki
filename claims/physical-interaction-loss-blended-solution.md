@@ -68,3 +68,4 @@ The review reports that "Several studies identified blended approaches as a poss
 - [Content analysis identified four facilitatory features of technology-based teaching: delivery mode, multimedia design, clinical skill practice, and interaction or feedback](four-facilitatory-features-tech-stroke-teaching.md) — related
 - [Many school districts are interested in implementing blended learning but lack evidence on its effects and on best-practice implementation](districts-lack-blended-learning-evidence-and-implementation-guidance.md) — related
 - Research output on digital histology and pathology teaching increased steadily from 2013 to 2024, with first-year medical students the most frequently studied group — related
+- [Students identified peer interaction and writing outlet/access as the most positive features of the e-course tools](blackboard-cmc-part-c-features.md) — related

@@ -46,6 +46,7 @@ The article recommends that educators give students structured guidance on regul
 - [Universities should provide SRL training and consider reducing the length of breaks between lectures, using web-based instruction to give flexible attendance](institutions-srl-training-shorter-breaks-web-instruction.md)
 - [Support SRL in the clinical context with a dual approach: improve individuals' goal setting, reflection skills and SRL confidence while creating a learning environment that lets students use their skills](dual-approach-srl-clinical-context.md)
 - [Design web-based metacognitive training with structural reflection, social interaction, and self-awareness activities](web-metacognitive-training-design-suggestions.md)
+- [Apply seven principles for blending positive aspects of web-facilitated, hybrid, and online environments in undergraduate education](seven-principles-blended-undergraduate-education.md)
 
 ## Examples
 -

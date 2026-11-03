@@ -53,3 +53,4 @@ Meta-analysis of 31 experimental and control group comparisons of junior high sc
 - [Guidance during inquiry learning improves performance success during the inquiry (d = 0.71), with type of guidance moderating this effect](guidance-improves-inquiry-performance-success.md) — related
 - [Cooperative learning has a medium positive effect (0.89) on vocational high school students' mathematics learning outcomes compared with conventional learning](cooperative-learning-vhs-math-medium-effect.md) — related
 - [Innovative learning models produce a large pooled effect on mathematical and statistical critical thinking compared with conventional instruction](innovative-models-large-effect-critical-thinking-math-stat.md) — related
+- [Open problems improve mathematical problem-solving ability more than closed problems](open-problems-improve-math-problem-solving-ability.md) — related

@@ -54,3 +54,4 @@ Retention analysis of the 2017 and 2018 cohorts using Chancellor's Office enroll
 - [Black/African American and Hispanic/Latino students earned fewer first-year baccalaureate units than White and Asian students in every QR placement category in both cohorts](eo1110-credit-gaps-by-ethnicity-persist.md) — related
 - [Systemwide first-year B4 completion rose to approximately 73 percent in 2018/19, up from approximately 63 percent in each of the three previous years](eo1110-b4-completion-increase-first-year.md) — related
 - [Retention rates for Black/African American and Hispanic/Latino students dropped more steeply between the second and third semesters than for White and Asian students in both cohorts](eo1110-retention-gaps-widen-by-ethnicity.md) — related
+- [Attrition from General Chemistry-IS was higher than from General Chemistry and previous fall semesters](is-course-higher-attrition-rate.md) — related

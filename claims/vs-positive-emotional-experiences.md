@@ -58,3 +58,4 @@ Synthesized finding from the meta-synthesis of 17 qualitative studies, drawing o
 - [Extended immersive ward-based simulation may improve preparedness and self-confidence of nursing students](immersive-ward-simulation-improves-preparedness.md) — related
 - [Immersive VR tracheostomy training reduced anxiety more than regular training at follow-up](vr-tracheostomy-training-reduced-anxiety.md) — related
 - [XR gesture-simulation interventions reduce anxiety in most included midwifery and nursing education studies](xr-gesture-simulation-reduces-nursing-anxiety.md) — related
+- [Play rehearsal and performance were perceived as the most exciting and enjoyable RSA stages, building confidence in speaking English](rsa-acting-confidence-enjoyment.md) — related

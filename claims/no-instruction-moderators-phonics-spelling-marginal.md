@@ -57,3 +57,4 @@ Instruction-characteristic moderator analyses (Table 6) across the 53 studies. T
 - [No moderator variable (intervention type, group size, grade level, implementer, hours of intervention) significantly explained variance in intervention effects, though moderator analyses were underpowered.](tier2-k3-no-significant-moderators-underpowered.md) — related
 - [Significant differences in spelling effect sizes were found between interventions of different total amounts of treatment](spelling-effect-size-varies-by-treatment-amount.md) — reports the opposite
 - [An on-treatment analysis found no significant effect of intervention dosage on reading outcomes](vefp-dosage-null-on-treatment.md) — related
+- [Treatment dosage (percentage of BELA activities completed) showed no reliable effect on reading achievement change](belai-dosage-no-reliable-effect-reading.md) — related

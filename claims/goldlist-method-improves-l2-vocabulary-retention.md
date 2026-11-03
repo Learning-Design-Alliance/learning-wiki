@@ -52,5 +52,5 @@ Action research with 74 first-year Japanese university ELLs (CEFR B1–B2) acros
 - [Only the Standard two-week-interval treatment showed a statistically significant improvement over the Baseline treatment](standard-two-week-spacing-significant-over-baseline.md) — related
 - [Uniform two-week spacing between distillations yielded the greatest benefit among the tested schedules, ranking Standard, Mixed, Frontloaded, then Baseline](two-week-uniform-spacing-greatest-benefit.md) — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — a broader claim this one bears on
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — related

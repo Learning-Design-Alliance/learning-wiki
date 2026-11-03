@@ -40,6 +40,7 @@ Drawing on Sobreira and Tchounikine's work in the same issue, the article recomm
 
 - [Design and report scripted collaboration so it integrates with classroom practice: sustained interventions, and accessible participant experience](embed-scripted-collaboration-in-classroom-eco-system.md)
 - [Teachers guide CSCL use, provide satisfying collaborative environments, and mediate group conflicts](teacher-guidance-and-conflict-mediation-in-cscl.md)
+- [PD providers should help teachers envision the destination and path of instructional change](pd-providers-envision-destination-and-path.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Pearson Product Moment correlations on the total sample (n=350) reported in Tabl
 - [Personalised instruction students differed significantly from non-personalised students on every individual attitude subscale, including lower anxiety and higher perceived male domain](personalisation-significant-on-each-attitude-subscale.md) — related
 - [Self-efficacy and gameplay interest are negatively associated with elementary students' competitive anxiety in one-on-one gameplay](self-efficacy-interest-negatively-associated-competitive-anxiety.md) — related
 - [Student satisfaction correlates positively with self-confidence and negatively with somatic and cognitive anxiety](satisfaction-correlates-self-confidence-anxiety.md) — related
+- [Reading attitude, learning satisfaction, and reading effectiveness are significantly positively correlated, and reading attitude positively predicts reading effectiveness](reading-attitude-satisfaction-effectiveness-correlations.md) — related

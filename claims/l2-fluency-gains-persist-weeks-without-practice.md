@@ -1,14 +1,15 @@
 ---
 type: claim
-title: Gains from an intensive period of second-language study persist for weeks without rehearsal.
+title: Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.
 id: l2-fluency-gains-persist-weeks-without-practice
-description: A one-week intensive Italian course raised verbal fluency by 17.17 words, and the gain was still 17.11 words above baseline three weeks later with no practice in between.
+description: In a pilot with no control group, a one-week intensive online Italian course raised verbal fluency by 17.17 words, and the gain was still 17.11 words above baseline three weeks later; no structured practice was run in between.
 status: review
 generated:
   by: claude/unspecified
   at: 2026-09-03
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-03
 sources:
   - id: zingaretti-et-al-2026
     resource: "https://doi.org/10.22599/jesla.152"
@@ -21,22 +22,22 @@ sources:
     rigour: 1
 ---
 
-# Gains from an intensive period of second-language study persist for weeks without rehearsal.
+# Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · n=18
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 A pilot study, and three weeks is not months — but the gain held almost exactly, which is a
 different result from decaying slowly.
 
 ## Subclaims
 
-`q2 i?` Verbal fluency in Italian improved by 17.17 words immediately after a one-week intensive course (p < .001) and stood 17.11 words above baseline at a three-week follow-up (p < .001), with no practice in the interval. [→ Zingaretti et al. 2026](#zingaretti-et-al-2026)
+`q2 i?` Verbal fluency in Italian improved by 17.17 words immediately after a one-week intensive course (p < .001) and stood 17.11 words above baseline at a three-week follow-up (p < .001). No structured practice was run after the course; the study does not report whether participants practised on their own in the interval. [→ Zingaretti et al. 2026](#zingaretti-et-al-2026)
 
-`q2 i?` Selective attention also improved (+13.33 points, p = .005) and persisted, while first-language English fluency was unchanged throughout — so the gain was specific rather than a general test-taking effect. [→ Zingaretti et al. 2026](#zingaretti-et-al-2026)
+`q2 i?` Selective attention also improved (+13.33 points post-course, p = .005; +12.22 at follow-up, p = .010), while first-language English fluency was unchanged throughout. With no control group, the authors argue that the selective pattern of effects tells against simple regression to the mean; it does not rule out a retest effect. [→ Zingaretti et al. 2026](#zingaretti-et-al-2026)
 
-`q2 i?` The cohort spread widely on proficiency despite a shared study history: LexITA 28–78, M = 47.33, SD = 12.98, across second- and third-year students. [→ Zingaretti et al. 2026](#zingaretti-et-al-2026)
+`q2 i?` Proficiency varied widely across the 18 participants (13 second-year and 5 third-year students on UK Italian programmes): LexITA 28–78, M = 47.33, SD = 12.98. [→ Zingaretti et al. 2026](#zingaretti-et-al-2026)
 
 ## Evidence
 
@@ -46,7 +47,7 @@ Zingaretti, M., Spelorzi, R., Sohanpaul, T. K., & Sorace, A. (2026). The Linguis
 
 `q2 · single-group pre/post/follow-up pilot study, no control group` · `i? · +17.17 words, p < .001, retained at three weeks; no standardised effect size printed` · `n=18` · `causal · r1`
 
-18 UK undergraduates (L1 English, Italian their only L2, mean age 19.3) took a one-week intensive online Italian course of roughly 21 hours. Verbal fluency and selective attention were measured before, immediately after, and three weeks later. Both gains persisted; L1 fluency did not move. The authors describe the study as a pilot, and there is no control group, so the design supports "the gain persisted" more strongly than it supports "the course caused it".
+18 UK undergraduates (L1 English, Italian their only L2, mean age 19.3) took a one-week intensive online Italian course of roughly 21 hours. Verbal fluency and selective attention were measured before, immediately after, and three weeks later. No structured practice was run after the course. Both gains persisted; L1 fluency did not move. The authors describe the study as a pilot, and there is no control group, so the design supports "the gain persisted" more strongly than it supports "the course caused it".
 
 ## Discussion
 
@@ -60,8 +61,8 @@ Retention](spaced-practice-improves-retention.md) [+S] is about how to schedule 
 happens; this is about what to assume when practice did not happen. A system can hold both: schedule
 for spacing, and do not treat an unplanned gap as loss until it is measured.
 
-**A nominal level names a band, not a position.** The proficiency spread across a cohort with the
-same study history argues for measuring at the individual contrast rather than inferring from the
+**A nominal level names a band, not a position.** The proficiency spread across a cohort drawn from
+only two year levels argues for measuring at the individual contrast rather than inferring from the
 course a learner is enrolled in — which is the same conclusion
 [A learner's first language predicts L2 phoneme perception more strongly than their proficiency
 level does](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) [+S] reaches from the other
@@ -106,3 +107,4 @@ Nothing here says where retention falls off.
 - [Both groups lost a statistically significant number of learnt words between the immediate post-test and the delayed test ten days later](vocabulary-loss-delayed-post-test-both-groups.md) — reports the opposite
 - [Word-recall advantage of musical mnemonic persists across repeated trials including a delayed trial 10 days later](musical-mnemonic-delayed-recall-trial.md) — related
 - [Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported](communicatively-developing-methods-improve-teacher-coherent-speech.md) — related
+- [The present study's significant gains contrast with Brown's (1992) claim that intensive programs are not beneficial for elementary-level learners](findings-contradict-brown-elementary-learners-claim.md) — related

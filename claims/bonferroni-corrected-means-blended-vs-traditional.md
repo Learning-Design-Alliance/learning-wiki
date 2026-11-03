@@ -48,3 +48,5 @@ Bonferroni test for post comparisons of corrected means controlling pretest: tra
 - [All three instructional groups improved from pretest to posttest, with the blended learning group showing the highest mean gain score](mean-gain-scores-blended-elearning-traditional.md) — related
 - [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — a broader claim this one bears on
 - [Both blended learning and problem-based learning produced significantly higher algebra achievement than traditional lecture method, while BL and PBL did not differ significantly](bl-pbl-outperform-tlm-algebra.md) — reports the opposite
+- [Blended problem-based learning produced significantly higher posttest academic achievement than PBL and traditional lecture instruction](bpbl-higher-academic-achievement-than-pbl-and-lecture.md) — related
+- [Both blended and traditional teaching produced significant pretest-posttest changes in personality subscales](both-teaching-methods-change-personality-subscales.md) — related

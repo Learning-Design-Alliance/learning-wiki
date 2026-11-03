@@ -58,9 +58,11 @@ Narratives function as vicarious models: readers simulate characters' mental sta
 5. Have learners rehearse the target interaction through role-play, then apply it in a real setting with follow-up.
 
 ## Related Strategies
+
 - [Act It Out](act_it_out.md) — the rehearsal extension that converts narrative models into practiced behavior
 - [Role-Play](acting-role-play.md) — structured enactment of the social scripts depicted in stories
 - [Building Empathy](../principles/building-empathy.md) — the broader principle this strategy serves through vicarious experience
+- [Use social stories to teach appropriate social behavior through structured short stories](social-stories-teach-social-behavior-autism.md)
 
 ## Examples
 - **Social Stories (Gray)** — Carol Gray's published social story methodology and resources ([https://carolgraysocialstories.com](https://carolgraysocialstories.com)), used widely with autistic learners to prepare for specific situations such as transitions or new social settings.

@@ -22,7 +22,7 @@ sources:
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 64 claims (40 for, 21 mixed, 3 against) · 70 studies (26 causal, 18 review, 16 quant-synthesis, 4 associational, 4 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 22 of 70 report an effect size · 50 claims rest on one study
+> **Evidence** · 66 claims (42 for, 21 mixed, 3 against) · 71 studies (27 causal, 18 review, 16 quant-synthesis, 4 associational, 4 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 22 of 71 report an effect size · 52 claims rest on one study
 
 ## Description and scope
 
@@ -137,6 +137,7 @@ Claims this page cited before the 2026-10-05 rewrite, or that bear on it, which 
 - [SSIS-CIP produces small-to-medium positive effects on teacher-rated social skills in primary-grade classrooms](../claims/ssis-cip-teacher-rated-social-skills-effects.md) [+W] — attached 2026-11-01 from DiPerna et al. (2014), which proposed "Six-phase social skills lesson model: coaching, modeling, role play, practice, feedback, generalization"; tests this page's relationship.
 - [Students with disabilities in SS-SSTP schools report greater willingness to intervene in bullying situations than control students after 2 years](../claims/sel-ssstp-willingness-intervene-disabilities.md) [+M] — attached 2026-11-02 from Espelage et al. (2016), which proposed "Use universal SEL programming to build protective factors against bullying among students with disabilities"; tests this page's relationship.
 - [Standardized reading and math test scores showed no treatment effect](../claims/ssstp-no-test-score-effect.md) [~W] — attached 2026-11-02 from Espelage et al. (2016), which proposed "Use universal SEL programming to build protective factors against bullying among students with disabilities"; tests this page's relationship.
+- [Adding social–emotional and self-regulation training to an intensive summer readiness class yields greater growth in academic achievement than parent training or standard summer programming](../claims/stp-prek-enhanced-academic-growth.md) [+W] — attached 2026-11-03 from Graziano et al. (2016), which proposed "Intensive summer transition programs for children with behavior problems should go beyond behavior modification by targeting socio-emotional and self-regulation skills"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -191,6 +192,7 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - [Schools and volunteers welcomed the programme, but full school engagement and parental engagement were challenging to secure](../claims/sarp-implementation-challenges.md) [~W]
 - [After the SSTP, teachers rewarded students' appropriate social behaviors, which they had not done before training](../claims/sstp-increases-rewarding-of-social-skills.md) [+W]
 - [The observed ratio of social skills teaching techniques used by teachers rose from 55% before training to 92% after the program](../claims/sstp-technique-use-ratio-55-to-92.md) [+W]
+- [The STP-PreK Enhanced group shows greater growth in emotion knowledge than the other groups](../claims/emotion-knowledge-greater-growth-enhanced.md) [+W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — depends on the relationship skills SEL develops; the two patterns are mutually reinforcing when group work carries individual accountability

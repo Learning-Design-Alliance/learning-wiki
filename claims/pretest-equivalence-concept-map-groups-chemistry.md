@@ -50,3 +50,4 @@ One-Way ANOVA of PSATC pre-test scores (Table 2: Between Groups F = 1.189, Sig. 
 - [Descriptive post-test means numerically favoured the spider concept mapping group, though not significantly](spider-concept-map-descriptive-mean-advantage.md) — related
 - [Experimental and control groups were academically equivalent on the organic chemistry achievement test before the treatment](pre-test-equivalence-organic-chemistry-analogy-study.md) — related
 - [Groups were equivalent in mathematics achievement before the application](digital-storytelling-math-pretest-equivalence.md) — related
+- [Treatment and comparison groups showed no prior differences in physics and chemistry achievement before the intervention](absi-groups-equivalent-prior-achievement.md) — related

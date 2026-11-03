@@ -55,3 +55,4 @@ Third series (infants): product-moment correlations computed from individual mar
 - [Settling on final age-range or universal test scales is premature while competing test systems correlate over 90 per cent](premature-universal-test-scales-high-correlations.md) — related
 - [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](self-developed-test-reliability-069.md) — related
 - [The oral prosody test showed high test-retest reliability, with a correlation coefficient of 94% between assessment occasions](prosody-test-retest-reliability-94.md) — related
+- [The Basic Technology Achievement Test (BTAT) showed reliability coefficients of 0.84 (KR-21) and 0.88 (KR-20)](btat-reliability-coefficients.md) — related

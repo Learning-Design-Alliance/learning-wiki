@@ -82,3 +82,4 @@ Survey ratings on a 1 (not very helpful) to 5 (very helpful) scale of app suppor
 - [Intervention caregivers reported increased confidence supporting children's math learning and stronger belief that media are tools for math learning](peg-cat-parent-confidence-and-attitude-gains.md) — related
 - [Only 26% of participating families accessed the MORE@Home app, revealing low take-up of app-based summer activities](low-app-takeup-26-percent.md) — related
 - [Parents reported reading about 7 of the 10 provided books with children, and guided questions were the most frequently used app feature](parent-survey-print-book-engagement.md) — related
+- [Parents reported that their children were motivated by the HGCs and their attitude to maths became more positive, though parent feedback was limited](parent-feedback-hgc-motivation.md) — related

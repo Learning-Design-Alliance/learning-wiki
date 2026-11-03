@@ -54,3 +54,4 @@ The study's remediation analysis found that in math, students achieving the PARC
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it was commissioned to inform Massachusetts's decision between MCAS and PARCC](first-study-parcc-college-readiness-massachusetts-decision.md) — related
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college](first-study-parcc-college-readiness-goal.md) — related
 - [PARCC and MCAS scores show similar validity for predicting college grades](parcc-mcas-similar-college-grade-validity.md) — related
+- [School Redesign Grants in Massachusetts showed positive, statistically significant effects on math and English language arts achievement](school-redesign-grants-significant-achievement-effects.md) — related

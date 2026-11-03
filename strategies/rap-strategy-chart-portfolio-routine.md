@@ -52,6 +52,7 @@ A concrete implementation recipe: train students to read a paragraph, ask themse
 - [Introduce Summary Frames](introduce_summary_frames.md)
 - [Summarizing](summarizing.md)
 - [Train students to generate main-idea questions via identify-then-transform steps](main-idea-question-generation-training-steps.md)
+- [Alternate collaborative and private speech tasks across paragraphs in a reading lesson](alternating-collaboration-private-speech-tasks.md)
 
 ## Examples
 -

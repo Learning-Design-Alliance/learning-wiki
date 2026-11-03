@@ -13,7 +13,7 @@ generated:
 # Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 44 claims (13 for, 26 mixed, 5 against) · 46 studies (23 causal, 9 review, 6 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 10 of 46 report an effect size · 37 claims rest on one study
+> **Evidence** · 45 claims (13 for, 27 mixed, 5 against) · 47 studies (24 causal, 9 review, 6 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 10 of 47 report an effect size · 38 claims rest on one study
 
 ## Description
 A prompt is a cue, question, or instruction embedded in a learning task that directs learner attention, elicits a response, or scaffolds a cognitive process at the moment it is needed. Prompts range from simple procedural reminders ("check your units") to elaborative questions ("why does this solution work?") to metacognitive self-questioning stems ("what strategy am I using, and is it working?").
@@ -91,6 +91,7 @@ Prompts work by triggering self-explanations and strategic processing that learn
 - [Framing prompts showed no effect on reproduction of chemistry knowledge](../claims/no-framing-effect-reproduction-test.md) [-W]
 - [Relatively slight differences in framing prompts drastically changed the technology's effectiveness, with the same technology used in both experimental conditions](../claims/slight-framing-differences-drastic-effects.md) [~W]
 - [Experimental-group test-takers agree that embedded questions helped them complete the tasks](../claims/embedded-questions-perceived-helpfulness.md) [~W]
+- [There were no overall differences between embedded self-explanation and explanatory feedback conditions on pre-post learning gains](../claims/no-overall-differences-self-explanation-vs-explanatory-feedback.md) [~W]
 
 ## The evidence by question
 

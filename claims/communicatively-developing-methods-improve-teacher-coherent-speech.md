@@ -51,6 +51,7 @@ A forming pedagogic experiment with control and experimental groups of IAT (adva
 ## Related Claims
 - [Baseline analysis of 600 teacher monologue utterances found most trainees made few mistakes, pointing to need for systematic work on oral text](baseline-600-utterances-teacher-speech-mistakes.md) — related
 - [Group form of orthoepic practicum work is reported as better than frontal form for trainees' individual recording and collective activity](group-practicum-better-than-frontal-for-speech-training.md) — related
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Intensive ESL learners' oral English development was examined in four intact classes of approximately 100 French-speaking students aged 10–12 after a 5-month course](intensive-esl-quebec-corpus-study-design.md) — related
 - [Trainee interviews indicated the phonics-oriented training improved EFL teachers' pronunciation, vocabulary and attitudes toward learning](phonics-training-improved-teacher-pronunciation-vocabulary.md) — related
+- [Teacher pre-training enhanced program effects on most measures but not on the cognitive situation test](teacher-pretraining-enhances-program-effects-except-cognitive.md) — related

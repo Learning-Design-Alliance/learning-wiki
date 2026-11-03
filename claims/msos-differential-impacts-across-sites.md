@@ -47,3 +47,4 @@ Exploratory (non-confirmatory) site-level analyses of the randomized trial, repo
 ## Related Claims
 - [Short-term impacts on targeted-subject credits varied by college, with Kingsborough's estimated impacts the largest](learning-community-impacts-vary-by-college.md) — related
 - [The Reading Recovery i3 multi-site RCT finds large positive overall effects on reading outcomes with substantial variation in impacts across sites](reading-recovery-i3-large-positive-effects-site-variation.md) — related
+- [Preliminary analyses show significant variation in Family Rewards impact estimates across the six community districts](family-rewards-impact-variation-across-community-districts.md) — related

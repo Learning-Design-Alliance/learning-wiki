@@ -50,3 +50,4 @@ The authors' interpretation in the discussion of the semi-experimental pretest-p
 - [Computer-assisted teaching of the passive voice produced significantly higher post-test achievement than traditional instruction among Jordanian first-secondary EFL pupils](call-passive-voice-beats-traditional-jordan.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [The authors conclude educational software and computer-assisted instruction contribute to a significant increase of educational efficiency](educational-software-increases-teaching-efficiency.md) — related
+- [The reviewed studies conclude that the quantum learning model increases academic achievement, ensures meaningful learning, and increases permanence in learning.](qlm-positive-effect-academic-achievement.md) — related

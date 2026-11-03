@@ -47,3 +47,4 @@ Discussion-section statement from the review's narrative synthesis. The review r
 ## Related Claims
 - [An EBP curriculum culture intervention at a dental college increased students' journal reading, research-report evaluation confidence, and evidence-use experience](dental-ebp-culture-gains.md) — related
 - [Theory-based EBP interventions have a small but positive effect on undergraduate health students' EBP attitudes](theory-based-ebp-interventions-small-positive-attitude-effect.md) — related
+- [Assessment of summated gain scores regarding perceived effectiveness of DLISt7 was inconclusive](dlist7-gain-scores-inconclusive.md) — related

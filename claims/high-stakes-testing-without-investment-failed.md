@@ -50,3 +50,4 @@ The report's analysis of New Mexico accountability policy after 2011, when disin
 - [Chicago TAP did not raise student math or reading scores overall during the four-year rollout in Chicago Public Schools](chicago-tap-no-student-achievement-impact.md) — related
 - [Sanction threats tend to raise school spending on instructional technology, curricular development, and teacher training](sanction-threats-raise-instructional-spending.md) — reports the opposite
 - [State assessment gains in New York substantially exceeded NAEP gains for the same cohorts, raising questions about the validity of test-score gains under high-stakes accountability](state-naep-gain-discrepancy-test-inflation.md) — related
+- [Schools that improved under state intervention used funding and action plans differently from schools that did not improve](improved-schools-funding-action-plan-use.md) — related

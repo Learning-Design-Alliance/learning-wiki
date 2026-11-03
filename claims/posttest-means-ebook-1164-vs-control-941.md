@@ -57,3 +57,4 @@ Descriptive statistics from Table 2 of the quasi-experiment (experimental n = 30
 - [Pupils taught with the learning technologies reached a higher complex assessment of educational skills than control pupils (63.4% vs 50.4% of maximum)](learning-technologies-higher-complex-assessment-experimental-group.md) — related
 - [Both groups gained in thinking ability pre-to-post, but CoBl and traditional instruction did not differ in thinking ability (p = .501)](cobl-thinking-ability-no-group-difference.md) — related
 - [The cooperative learning group improved significantly from pretest to posttest](cooperative-group-pretest-posttest-gain.md) — related
+- [Students taught with the ILSC model show greater enhancement of mathematical critical thinking ability than students taught conventionally](ilsc-model-enhances-mathematical-critical-thinking.md) — related

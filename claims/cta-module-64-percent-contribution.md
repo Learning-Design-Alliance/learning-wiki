@@ -48,3 +48,4 @@ ANCOVA of post-test scores (Table 7) reports Group F=90.562, p=0.000, partial et
 - [Using a module containing critical thinking aspects produces significantly higher academic achievement than the commonly used school module in 8th-grade human circulatory system learning](cta-module-higher-academic-achievement-circulatory.md) — related
 - [The experimental group's average achievement enhancement (28.14 points) exceeded the control group's (19.27 points) despite a lower pre-test mean](cta-module-greater-score-enhancement.md) — related
 - [The CTa module reduces the academic achievement gap between students compared with the commonly used module](cta-module-lower-achievement-gap.md) — related
+- [The utilization of educational technology techniques and innovations has a high effect size on academic achievement (η² = 0.916, D = 6.60)](edtech-high-effect-size-academic-achievement.md) — related

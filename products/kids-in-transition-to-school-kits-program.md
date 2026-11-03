@@ -33,7 +33,8 @@ A manualized school-readiness intervention developed by Pears and colleagues tha
 - [The KITS intervention improves parental involvement in kindergarten indirectly by reducing ineffective parenting before school entry](../claims/kits-indirect-path-parental-involvement.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [School Readiness Parenting Program (SRPP)](school-readiness-parenting-program-srpp.md)
 
 ## Key Sources
 - Pears, K. C., Kim, H. K., Fisher, P., & Yoerger, K. (2016). Increasing pre-kindergarten early literacy skills in children with developmental disabilities and delays. Journal of School Psychology, 57, 15-27. https://doi.org/10.1016/j.jsp.2016.05.004

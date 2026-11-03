@@ -47,6 +47,6 @@ Teacher-estimated comparison from the evaluation results section: new vocabulary
 
 ## Related Claims
 - [Students recalled about 20% more previously learned vocabulary after the evaluation month, with the largest gains among previously weaker students](virtual-practice-improved-old-vocabulary-recall.md) — related
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on
 - [Using the virtual environments increased the proportion of actively engaged students in a month-long deployment with 6–8-year-olds](virtual-chinese-environments-increased-engagement.md) — related

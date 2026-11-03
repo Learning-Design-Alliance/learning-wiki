@@ -63,6 +63,7 @@ Leveled reading is an application of [Cognitive Load Management](../principles/c
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — offsets the knowledge demands a level label ignores
 - [Adaptive Learning](adaptive-learning.md) — algorithmic versions of the same matching logic at scale
 - [Schedule reading after experimentation so students read with a genuine need to know](reading-with-a-need-to-know.md)
+- [Use easier reading texts for beginning students so they can focus on integrated reading and writing skills rather than text comprehension](easier-texts-for-beginning-integrated-instruction.md)
 
 ## Examples
 - **Fountas & Pinnell Guided Reading (A–Z gradient)** — widely used in K–6 classrooms; texts at each level paired with small-group lesson sequences ([heinemann.com](https://www.heinemann.com)).

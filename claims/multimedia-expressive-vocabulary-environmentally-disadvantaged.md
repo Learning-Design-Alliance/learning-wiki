@@ -58,3 +58,4 @@ Meta-analytic subgroup analysis of expressive vocabulary among disadvantaged chi
 - [Technology-enhanced stories show no significant additional effect on receptive vocabulary compared with traditional storybook reading](technology-stories-no-receptive-vocabulary-effect.md) — related
 - [A language-based bedtime routine at age 3 predicted longer nighttime sleep duration at age 5 and higher language abilities and receptive vocabulary at age 5](language-based-bedtime-routine-predicts-sleep-and-language.md) — related
 - [Children whose parents received dialogic reading training acquire significantly more expressive vocabulary words from pre-test to post-test](dialogic-reading-increases-ell-children-expressive-vocabulary.md) — related
+- [A comprehensive summer parent-involved book reading program improved receptive vocabulary but not expressive vocabulary](summer-parent-book-reading-improves-receptive-vocabulary.md) — related

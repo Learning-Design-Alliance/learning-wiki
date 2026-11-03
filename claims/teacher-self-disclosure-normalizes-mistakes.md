@@ -56,3 +56,5 @@ This is the authors' reflective assertion in the abstract of a practice-based ar
 - [Fear of making mistakes is the most significant cause of foreign language speaking anxiety among Iranian EFL learners (81%)](fear-of-mistakes-top-speaking-anxiety-iranian-efl.md) — related
 - [Fear of negative evaluation and limited vocabulary knowledge rank second and third as sources of speaking anxiety (78% and 72%)](negative-evaluation-vocabulary-anxiety-ranks.md) — related
 - [EFL learners rank speaking as the skill most urgently needing improvement, with pragmatic routines the top speaking sub-skill](efl-learners-rank-speaking-and-pragmatic-routines-top-needs.md) — related
+- [Test anxiety is the highest FLCA component, followed by communication apprehension and fear of negative evaluation](flca-component-ranking-test-anxiety-highest.md) — related
+- [Collaboration and private speech fostered a supportive classroom climate](sct-tblt-classroom-climate.md) — related

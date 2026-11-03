@@ -48,3 +48,4 @@ A t-test on the interest questionnaire of 32 ninth grade students found signific
 - [Ninth grade Thai EFL students' English reading scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group](cai-tls-improves-english-reading-thai-efl.md) — related
 - [Ninth grade Thai EFL students' English creative writing scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group](cai-tls-improves-english-writing-thai-efl.md) — related
 - [Seventh-grade Thai students taught with the genre-based approach reported significantly higher motivation to read English than students taught with the teacher's manual](genre-based-approach-reading-motivation-thai-grade7.md) — related
+- [Writing action plans increased interest and effort in learning English among all experimental-group participants](magid-2014-action-plans-effort.md) — related

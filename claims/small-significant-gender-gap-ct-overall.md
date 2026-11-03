@@ -65,3 +65,4 @@ Three-level random-effects meta-analysis (REML, metafor in R) of 53 studies yiel
 - [Male students showed a larger descriptive effect size (ES = +0.36) than female students (ES = +0.22), but the difference was not statistically significant](air-reading-gender-difference-not-significant.md) — related
 - [Before the intervention, male students scored significantly higher than female students on the English grammar pre-test](pretest-gender-difference-males-favor-grammar.md) — a narrower finding that bears on this claim
 - [Three-way interaction of group, gender and pre-achievement favored high-achievement males in the experimental group](three-way-interaction-group-gender-level.md) — related
+- [Male students significantly outperformed female students in listening success in most film categories](male-students-outperform-females-listening.md) — related

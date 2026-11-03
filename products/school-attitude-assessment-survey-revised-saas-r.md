@@ -26,7 +26,8 @@ A 35-item, five-subscale Likert questionnaire developed by McCoach and Siegle fo
 - [A school-based transitional support intervention produced a significant treatment effect on school attitudes among youth returning from alternative school](../claims/transitional-support-intervention-improves-school-attitudes.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Self-regulated Learning Perception Scale (Turan, 2009)](self-regulated-learning-perception-scale-turan-2009.md)
 
 ## Key Sources
 - Kelchner, V. P., Evans, K., Brendell, K., Allen, D., Miller, C., & Cooper-Haber, K. (2017). The Effect of a School-Based Transitional Support Intervention Program on Alternative School Youth's Attitudes and Behaviors. The Professional Counselor, 7(2), 169-184. https://doi.org/10.15241/vpk.7.2.169

@@ -54,3 +54,4 @@ Response time measure of the same pseudolexical decision task: "Subjects were si
 - [Uniform (redundant) contexts yield higher semantic similarity ratings than diverse contexts](redundant-contexts-improve-semantic-representations.md) — related
 - [Diverse and uniform training contexts dissociate: processing ease and semantic representation diverge early in learning](diversity-dissociation-processing-versus-semantics.md) — a broader claim this one bears on
 - [Children's lexical decision accuracy improved significantly for words learned in their own classroom but not for words assigned to other classrooms, with no difference in the learning effect across the three classes](learning-sprint-behavioral-accuracy-gain.md) — related
+- [RAVE instruction enhances efficiency of lexical access to instructed words](rave-improves-lexical-access-year1.md) — related

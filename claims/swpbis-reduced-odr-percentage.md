@@ -73,3 +73,5 @@ Second GLM analysis of SWIS ODR data from the SWPBIS schools across the four pos
 - [Recess Before Lunch policies show perceived improvements in student behavior and reduced discipline referrals, with very high risk of bias](rbl-perceived-behavior-improvements.md) — related
 - [TIPS-trained teams more often documented reductions in office discipline referrals at follow-up, with no group difference in the final year](tips-pd-odr-reduction.md) — related
 - [No significant pre–post changes in office discipline referrals occurred in the full sample following school-wide professional development](no-prepost-odr-change-full-sample.md) — related
+- [Randomized controlled trials reviewed in the discussion report positive effects of SWPBIS on behavior problems, school climate, and bullying](swpbis-rct-evidence-discussion.md) — related
+- [SWPBIS adoption in US schools shows an ascending trend, reaching over 14,000 trained schools](swpbis-us-adoption-ascending-trend.md) — related

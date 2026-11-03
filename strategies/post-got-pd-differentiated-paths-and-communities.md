@@ -50,6 +50,7 @@ The article recommends that post-GOT professional development account for teache
 - [Support the evolving instructor role with professional development beyond product training, articulated role expectations, and communities of practice](instructor-role-evolution-support.md)
 - [Provide professional support focused on instructors' beliefs and develop a clear organizational stance on differentiated instruction in blended learning](professional-support-beliefs-organizational-stance.md)
 - [Develop healthcare leaders' digital competence through continuous education, mentoring, and organizational structures](develop-leaders-digital-competence-education-mentoring.md)
+- [PD providers should help teachers envision the destination and path of instructional change](pd-providers-envision-destination-and-path.md)
 
 ## Examples
 -

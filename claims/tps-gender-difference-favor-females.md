@@ -71,3 +71,5 @@ ANCOVA on post-measurement achievement for the same 120-student sample; the arti
 - [Female students in the experimental group performed significantly better than male students at post-measurement (p=.032)](busuu-gender-difference-post-test.md) — a narrower finding that bears on this claim
 - [Gender has a statistically significant but small main effect on algebra achievement favouring male students](gender-small-main-effect-algebra.md) — reports the opposite
 - [Learning achievement in game-based learning shows no significant difference between males and females](game-based-learning-achievement-no-gender-difference.md) — reports the opposite
+- [Significant gender difference favoring male students on the e-learning subscale](gender-difference-e-learning-subscale-males.md) — related
+- [Male students scored significantly higher than female students in spatial and intrapersonal intelligence](gender-differences-spatial-intrapersonal.md) — reports the opposite

@@ -37,6 +37,7 @@ The CoI Survey, developed by Arbaugh et al., measures students’ perceptions of
 ## Related Products and Programmes
 
 - [Social Presence Measure (Kreijns et al., 2020)](social-presence-measure-kreijns-et-al-2020.md)
+- [Self-regulated Learning Perception Scale (Turan, 2009)](self-regulated-learning-perception-scale-turan-2009.md)
 
 ## Key Sources
 - Sadaf, A., Kim, S. Y., & Olesova, L. (2022). Relationship between metacognition and online Community of Inquiry in an online case-based course. Online Learning, 26(4), 79-93. https://doi.org/10.24059/olj.v26i4.3474

@@ -68,3 +68,4 @@ Transfer-task definition recall ANCOVA; the article notes definitions were not p
 - [Training seventh graders to elaborate produced better long-term recall than questions stimulating elaboration, and the training transferred to new passages](trained-elaboration-beats-question-stimulated-elaboration.md) — related
 - [Repeated peer reading did not produce transferable fluency gains on the AIMSweb posttest for most struggling adolescent readers](repeated-reading-no-fluency-transfer-adolescents.md) — related
 - [Isolated (bottom-up) vocabulary training was associated with lower comprehension on the transfer text than on the control text](bottom-up-training-lower-comprehension.md) — related
+- [RAVE instruction did not produce significant gains on a text comprehension recall task in Year 1](rave-no-text-recall-effect-year1.md) — related

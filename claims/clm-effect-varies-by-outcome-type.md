@@ -51,3 +51,4 @@ Q-between moderator analysis of the 21 effect sizes grouped by outcome type (ach
 - [Effect sizes do not differ significantly by sample size, practice time, or constructivist method used.](moderators-sample-time-method-null.md) — related
 - [The constructivist learning approach has a strong positive overall effect on students' academic achievement compared to traditional teaching methods (ES = 1.156).](constructivist-approach-overall-effect-achievement.md) — related
 - [Flipped classrooms in higher education show a medium overall positive effect on student outcomes compared with traditional lecture-based classrooms](flipped-classroom-medium-overall-effect-higher-education.md) — related
+- [Brain-based learning has a moderate positive effect on attitude in science education in Turkey (ES = 0.466)](bbl-moderate-positive-effect-attitude-turkey.md) — related

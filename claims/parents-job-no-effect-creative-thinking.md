@@ -50,3 +50,4 @@ ANOVA (Hypothesis 3) on the 450-student sample: between-groups p = 0.219, non-si
 ## Related Claims
 - [Parents' education level affects students' creative thinking, with BA and MA parents' children scoring higher](parents-education-affects-creative-thinking.md) — related
 - [Gender does not significantly affect students' creative thinking in problem solving](gender-no-effect-creative-thinking-problem-solving.md) — related
+- [Learning model and academic ability each significantly affect creative thinking, but their interaction does not](sscs-ms-ancova-main-effects-no-interaction.md) — related

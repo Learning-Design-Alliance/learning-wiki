@@ -52,3 +52,4 @@ Paired-samples t-test on the experimental group's pre- and post-essays (n=30). N
 - [After TP instruction, the experimental group's linear progression use no longer differed significantly from native speakers'](tp-instruction-closes-linear-gap-to-native-speakers.md) — related
 - [After instruction, the experimental class used more thematic progression patterns and less constant-pattern predominance than the controlled class](posttest-tp-pattern-distribution-shift.md) — related
 - [Sample analysis indicates good compositions are distinguished by varied, well-linked theme choices and thematic progression patterns](theme-choice-distinguishes-good-compositions.md) — related
+- [Discussion-based instruction improves theme-related essay performance over basal instruction](discussion-based-instruction-improves-theme-essays-efl.md) — related

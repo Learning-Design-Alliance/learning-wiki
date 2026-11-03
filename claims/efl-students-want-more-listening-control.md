@@ -50,3 +50,4 @@ Questionnaire survey of two intact classes of second-year non-English majors at 
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related
 - [In several Kazan city schools, about 90% of teachers considered it necessary to involve pupils in learning and research activity and about 70% of pupils wanted to be occupied in such activity](survey-teachers-pupils-research-activity-support.md) — related
 - [Students reacted positively to PowerPoint-enhanced listening lessons, reporting benefits for comprehension and motivation](positive-student-reactions-powerpoint-listening-lessons.md) — related
+- [Korean EFL middle school students desire extra help with writing to achieve balanced English competence](korean-efl-students-desire-writing-balance.md) — related

@@ -18,7 +18,7 @@ sources:
 # Structured pedagogy package: student books, teachers' guides, and teacher professional development
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 3 studies (2 causal, 1 qualitative), `q2`–`q3` · 1 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 4 studies (3 causal, 1 qualitative), `q1`–`q3` · 1 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The brief describes structured pedagogy as "a coordinated approach to improving classroom instruction that involves provision of student materials and lesson plans, training, and continuous support." Its components include student books and textbooks, structured teachers' guides varying from scripts specifying "what teachers are expected to say" to suggested activities, and both pre- and in-service teacher professional development, which the brief calls essential. Programs "introduce skills gradually, building incrementally on the skills and knowledge students already have."
@@ -42,6 +42,7 @@ The brief describes structured pedagogy as "a coordinated approach to improving 
 - [Teacher participation in the MACE professional development program added no measurable effect on any student outcome](../claims/mace-pd-no-student-effect.md) [-W]
 - [The EGRS RCT found that the structured pedagogy model combining on-site coaching, quality materials, and scripted lesson plans was the most effective of the tested models for improving early grade reading outcomes](../claims/egrs-coaching-model-most-effective-rct.md) [+W]
 - [The teacher training component alone showed no statistically significant effect on attainment](../claims/teacher-training-alone-null-effect.md) [~W]
+- [Classroom observations revealed uneven adherence to training, with repetition and chorus reading still dominating classes](../claims/observations-uneven-adherence-chorus-reading.md) [~W]
 
 ## Related Elements
 
@@ -50,6 +51,7 @@ The brief describes structured pedagogy as "a coordinated approach to improving 
 ## Examples
 
 - [Deliver in-service teacher professional development that is closely linked to the books and lesson plans in use and supported by frequent classroom observation, through existing ministry structures](../strategies/itpd-linked-materials-frequent-observation.md)
+- [Combine teacher training, real-time data feedback, supervision, materials and lesson plans into one remedial literacy package](../strategies/multi-component-literacy-treatment-package.md)
 
 ## Key Sources
 - Foundational Learning. (2023). World Bank. https://www.worldbank.org/en/topic/education/brief/foundational-learning

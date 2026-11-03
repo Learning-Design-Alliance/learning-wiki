@@ -38,7 +38,7 @@ sources:
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 60 claims (37 for, 18 mixed, 5 against) · 53 studies (15 causal, 11 review, 10 qualitative, 8 quant-synthesis, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 8 of 53 report an effect size · 54 claims rest on one study
+> **Evidence** · 62 claims (39 for, 18 mixed, 5 against) · 55 studies (17 causal, 11 review, 10 qualitative, 8 quant-synthesis, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 8 of 55 report an effect size · 56 claims rest on one study
 
 ## Description and scope
 
@@ -144,6 +144,7 @@ Read against the model on 2026-10-19. Of the twelve claims that had gathered her
 - [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](../claims/clear-expectations-learning-walks-reinforce-hqim-use.md) [+W]
 - [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](../claims/pd-content-focus-prevalence.md) [+W]
 - [BEST in CLASS significantly increased teachers' observed use of rules, precorrection, opportunities to respond, behavior-specific praise, corrective feedback, and instructive feedback with focal children](../claims/best-in-class-increased-teacher-instructional-practices.md) [+W] — attached 2026-11-01 from Maureen A. Conroy et al. (2019), which proposed "Cyclical weekly practice-based coaching cycle of goal setting, focused observation, and reflection with performance feedback"; tests this page's relationship.
+- [Within the intervention group, teacher practices, child engagement, and problem behaviors improved from baseline to post-test and were maintained at four weeks](../claims/best-in-class-within-group-maintenance.md) [+W] — attached 2026-11-03 from Conroy et al. (2014), which proposed "Pair one-time training with sustained practice-based coaching and performance feedback to change and maintain teacher practice".
 
 ## Illustrative design instance and observation record
 
@@ -186,6 +187,7 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [Teachers maintained Pyramid Model practices after coaching ended, with two of three teachers needing only brief reminders](../claims/pyramid-practice-maintenance-after-coaching-ends.md) [~W]
 - [Coaching produced no additional experimental gains on teacher self-reported efficacy or stress, and no significant pre-post ODR changes appeared in the full sample](../claims/no-coaching-effect-on-teacher-self-reports.md) [-W]
 - [CON-ELM teachers changed significantly more than ELM-ELM teachers for three of four teaching practices](../claims/con-elm-greater-change-than-elm-elm.md) [+W]
+- [SEED PD increased the minutes students spent writing per week](../claims/seed-pd-increased-student-writing-time.md) [+W]
 
 ## Related Patterns
 

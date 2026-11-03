@@ -57,3 +57,4 @@ Same two-way ANCOVA on post-achievement for the gender factor (27 males and 27 f
 - [Gender significantly affects Electronic Works achievement, favouring boys](gender-effect-favouring-boys-electronic-works.md) — related
 - [Gender × pre-achievement interaction favored males in the high achievement group](gender-level-interaction-favor-male-high-achievement.md) — related
 - [Gender has a statistically significant but small main effect on algebra achievement favouring male students](gender-small-main-effect-algebra.md) — possibly the same claim (merge candidate)
+- [Female students showed greater improvement than male students across all categories in both studies](gender-gap-writing-fluency-gains.md) — related

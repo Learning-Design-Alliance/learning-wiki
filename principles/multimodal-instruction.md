@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 62 claims (32 for, 26 mixed, 4 against) · 57 studies (30 causal, 12 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 13 of 57 report an effect size · 56 claims rest on one study
+> **Evidence** · 65 claims (34 for, 27 mixed, 4 against) · 59 studies (32 causal, 12 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 13 of 59 report an effect size · 59 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Multisensory language teaching improves post-test reading achievement in young English learners compared with mainstream coursebook instruction.](../claims/mslt-improves-post-test-reading-achievement.md) [+W] — attached 2026-11-03 from Çelik Korkmaz et al. (2018), which proposed "Supporting coursebooks with supplementary multisensory materials and activities makes learning more fun and permanent."; tests this page's relationship.
 - [Multisensory language teaching improves reading retention in young English learners a month after treatment, with a large effect size.](../claims/mslt-improves-reading-retention.md) [+W] — attached 2026-11-03 from Çelik Korkmaz et al. (2018), which proposed "Supporting coursebooks with supplementary multisensory materials and activities makes learning more fun and permanent."; tests this page's relationship.
 - [The Multisensory Instructional Approach was the most effective of the four approaches for overall vocabulary achievement](../claims/msia-most-effective-overall-vocabulary.md) [+W] — attached 2026-11-03 from Folakemi.O. Adeniyi; R. Adebayo Lawal (2012), which proposed "Employ the Multisensory Instructional Approach, or its combination with metacognitive instruction, to teach English vocabulary to underachieving L2 students"; tests this page's relationship.
+- [Multimodal theme-sets improve L2 students' comprehension of core concepts in unit surveys](../claims/multimodal-theme-sets-improve-l2-comprehension.md) [+W] — attached 2026-11-03 from Ruefman (2015), which proposed "Multimodal theme-sets: thematically linked supplemental texts reinforcing a core reading".
 
 ## Objective and learner-valued goal
 
@@ -187,6 +188,8 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 - [Translation among modes of representation improved with low normalized gains and large effect sizes on both topics](../claims/translation-among-modes-low-gain-large-effect.md) [+W]
 - [Ability to translate among representation modes depended on concept understanding rather than physics domain, with the most difficult translation differing by domain](../claims/translation-difficulty-depends-on-concept-understanding.md) [~W]
 - [Multiple representation ability improved with mixed gains: medium for waves and optics (d = 0.97) and low for electromagnetism (d = 0.80)](../claims/multiple-representation-mixed-gains-by-topic.md) [~W]
+- [Multimodal theme-sets increase the proportion of students earning exceptional final portfolio ratings](../claims/theme-sets-increase-exceptional-portfolio-ratings.md) [+W]
+- [Three months of daily computer-based MSL training in L3 English produced significant pre-post gains for the Test Dyslexic group on L2 and L3 rapid naming and L3 receptive vocabulary tasks, while control groups did not improve](../claims/cls-training-gains-dyslexic-experimental.md) [~W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — multimodal instruction often incorporates learner-generated visuals and explanations.

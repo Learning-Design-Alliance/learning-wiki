@@ -24,7 +24,8 @@ The article identifies adherence to prompts as a major methodological challenge 
 ### Claims
 
 ## Related Research Methods
--
+
+- [Instrumental-variable estimation of educational dosage effects under treatment nonadherence](instrumental-variable-estimation-of-educational-dosage-effects-under-treatment-nonadherenc.md)
 
 ## Key Sources
 - Breitwieser, J., Neubauer, A. B., Schmiedek, F. & Brod, G. (2024). Realizing the potential of mobile interventions for education. npj Science of Learning, 9, 76. https://doi.org/10.1038/s41539-024-00289-9

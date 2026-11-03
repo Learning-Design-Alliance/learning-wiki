@@ -69,3 +69,4 @@ Results section reports "The RAVE-O showed significant gains for both Sight Word
 - [Decoding (Word Attack) showed the strongest gain of the targeted skills, with a moderate effect size of d = .46 overall](word-attack-strongest-gain-d46.md) — related
 - [Students with LD made statistically significant gains in oral reading fluency on off-grade-level passages but no significant gains on word reading or comprehension standard scores](resource-room-orf-gains-only-off-grade-level.md) — related
 - [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
+- [RAVE instruction did not produce significant gains on a text comprehension recall task in Year 1](rave-no-text-recall-effect-year1.md) — related

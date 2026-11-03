@@ -59,3 +59,5 @@ Discussion-section finding from an interview study of 10 Jordanian secondary-sch
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
 - [In the performance phase, AI tools helped learners organize tasks and supported metacognitive monitoring, but sometimes inaccurately reflected tasks and lacked in-depth responses](ai-performance-phase-benefits-and-drawbacks.md) — related
 - [Successful discoverers regulate learning more systematically, planning experiments and monitoring progress, while unsuccessful learners work unsystematically](regulation-distinguishes-successful-discoverers.md) — related
+- [Korean EFL middle school students desire extra help with writing to achieve balanced English competence](korean-efl-students-desire-writing-balance.md) — related
+- [Reflection deepens over time as students move from describing observations to intuitive evaluation](reflection-deepens-over-time-schmidt-brown.md) — related

@@ -76,3 +76,4 @@ Annual SET assessments by trained assessors blind to condition in all 37 schools
 - [Teachers implemented Preschool PATHS with high fidelity and positive engagement in the trial](paths-preschool-high-implementation-fidelity.md) — related
 - [The SWPBIS effect on the responding-to-behavioral-violations subscale was significant only when comparing Year 1 and Year 4](swpbis-behavioral-violations-subscale-mixed.md) — related
 - Included single-case design studies show high risk of bias on procedural fidelity and outcome-assessor blinding — related
+- [SWPBIS adoption in US schools shows an ascending trend, reaching over 14,000 trained schools](swpbis-us-adoption-ascending-trend.md) — related

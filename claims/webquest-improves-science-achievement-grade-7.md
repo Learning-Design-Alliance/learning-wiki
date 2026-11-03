@@ -56,3 +56,4 @@ Quasi-experimental pre-test/post-test study with control group; 49 7th graders (
 - [No significant association was found between students' achievement and their attitudes toward the science lesson in either group](no-achievement-attitude-correlation.md) — related
 - [A gain- and activity-based web-assisted virtual material produced significantly higher 6th-grade achievement on the 'Systems in our body' unit than usual teaching](web-assisted-virtual-material-achievement-gain.md) — related
 - [Web-assisted conceptual change texts reduced 8th graders' conceptual errors in water chemistry more than classic conceptual change texts (65% vs. 14% error reduction)](web-assisted-cct-greater-error-reduction.md) — related
+- [Inquiry-based learning yields greater achievement gains than traditional teaching in a 7th-grade science and technology course](inquiry-greater-achievement-gains-than-traditional.md) — related

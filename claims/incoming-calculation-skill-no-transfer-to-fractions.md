@@ -52,3 +52,4 @@ Null finding from the study's structural equation model in 139 at-risk fourth gr
 - [Processing speed, attentive behavior, and incoming calculation skill significantly predict whole-number calculations in at-risk fourth graders, with the model accounting for 51% of variance](predictors-whole-number-calculations-at-risk-fourth-graders.md) — related
 - [Language, in addition to processing speed and attentive behavior, significantly predicts fraction calculations in at-risk fourth graders](language-predicts-fraction-calculations.md) — related
 - [Whole-number and fraction calculations fit a two-factor structure significantly better than a one-factor model](two-factor-calculation-structure-better-fit.md) — related
+- [Domain-general abilities moderate fraction intervention effects but whole-number calculation skill does not](domain-general-abilities-moderate-fraction-intervention-effects.md) — related

@@ -47,3 +47,4 @@ The review's Table 2 summarizes an observational study by Ismail et al. of non-v
 ## Related Claims
 - [Asynchronous video communication and feedback enhance social presence and helped sustain engagement and connections between socially isolated faculty and students during the COVID-19 shift online](asynchronous-video-enhances-social-presence-covid.md) — related
 - [Isolated nonverbal cues require novice proficiency and receptiveness to be effective](nonverbal-cues-require-novice-proficiency.md) — related
+- [Students who completed the Effective Presentations course showed significantly better poise than non-course students](cr752-better-poise-skills.md) — related

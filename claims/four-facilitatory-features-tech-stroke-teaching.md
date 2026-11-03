@@ -52,3 +52,4 @@ Qualitative content analysis with an inductive approach applied to verbatim stat
 - [Lack of physical interaction between students, peers, and educators was reported as a disadvantage of digital learning, and blended approaches were identified as a possible solution](physical-interaction-loss-blended-solution.md) — related
 - Most included studies used quasi-experimental pretest/posttest designs, and online delivery was the predominant mode of instruction — related
 - [Only 2 of the 20 included studies adopted an online approach to teach EBP, and both concluded that technology to teach research skills can facilitate EBP teaching](online-ebp-teaching-in-infancy-two-studies.md) — related
+- [Students identified peer interaction and writing outlet/access as the most positive features of the e-course tools](blackboard-cmc-part-c-features.md) — related

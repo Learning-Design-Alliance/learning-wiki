@@ -54,3 +54,5 @@ satisfaction 40.86±2.71 50.17±7.34 6.51 0.001"
 - [Experimental-group students reported high positive motivation toward the AR-developed Ottoman vocabulary material across the ARCS sub-dimensions](ar-ottoman-material-high-motivation-arcs.md) — related
 - [OER-based blended learning with Quipper School raised relevance and confidence motivation significantly higher than face-to-face classroom learning](oer-blended-quipper-relevance-confidence.md) — related
 - [After using the game-based learning system, students report positive motivation, with about 80% satisfaction and 83% confidence](arcs-questionnaire-positive-motivation-satisfaction-confidence.md) — related
+- [Gamified educational robots increase all four learning-motivation dimensions (attention, relevance, self-confidence, satisfaction) in a STEM curriculum](gamified-robots-increase-stem-motivation.md) — a narrower finding that bears on this claim
+- [Learning-motivation subdimensions each positively predict creativity](motivation-subdimensions-predict-creativity.md) — related

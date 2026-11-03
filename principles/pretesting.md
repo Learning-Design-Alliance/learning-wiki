@@ -38,7 +38,7 @@ sources:
 # Pretesting (Prequestions Before Study)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (10 for, 20 mixed, 4 against) · 33 studies (18 causal, 5 quant-synthesis, 5 review, 4 theoretical, 1 associational), `q1`–`q4` · 13 of 33 report an effect size · 28 claims rest on one study
+> **Evidence** · 35 claims (11 for, 20 mixed, 4 against) · 34 studies (19 causal, 5 quant-synthesis, 5 review, 4 theoretical, 1 associational), `q1`–`q4` · 13 of 34 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,7 @@ The expectation should weaken if classroom comparisons with comparable learners 
 - [Addressing did not enhance transfer performance in study 1](../claims/addressing-no-transfer-effect.md) [-W]
 - [Only the experimental group showed a significant pretest-to-posttest change in difference scores](../claims/gda-difference-scores-only-experimental-changed.md) [+W]
 - [Overall, the experimental group's posttest average was significantly higher than the control group's despite both groups declining from pretest to posttest.](../claims/wikipedia-corpus-overall-posttest-significant-advantage.md) [~W]
+- [Phoneme deletion gains occurred in both experimental groups but not the control groups, and pretest L3 phoneme differences between the two experimental groups disappeared at posttest](../claims/phoneme-deletion-experimental-gains.md) [+W]
 
 ## Related Principles
 

@@ -64,6 +64,7 @@ Sharing work with peers converts writing from a private performance into a socia
 - Portfolio assessment — sharing and feedback cycles generate the revision evidence portfolios require
 - Writing-across-the-curriculum — sharing situates writing in authentic disciplinary audiences
 - [Alternate conferencing with grouping and incorporate peer review and editing in collaborative writing tasks](alternate-conferencing-grouping-writing-strategy.md)
+- [Build a collaborative online discourse community for peer review in learning cycles to develop integrated reading/writing skills](build-collaborative-online-discourse-community.md)
 
 ## Examples
 - **[Calibrated Peer Review](calibrated_peer_review.md) (https://calibratedpeerreview.org)** — learners first calibrate their judgment on sample texts, then review peers' anonymous writing; the calibration step directly addresses the weak-feedback constraint.

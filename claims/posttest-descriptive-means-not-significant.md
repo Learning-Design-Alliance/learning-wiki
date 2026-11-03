@@ -46,3 +46,4 @@ Descriptive statistics from Table 4 of the same 16-session quasi-experiment: pos
 
 ## Related Claims
 - [Flipped classroom instruction produced significantly better post-test writing scores than traditional instruction among Iraqi EFL sophomores](fci-improves-iraqi-efl-writing-posttest.md) — related
+- [Reading and writing gains from the didactic model emerged only at post-test, not at mid-test](didactic-model-reading-writing-delayed-gains.md) — related

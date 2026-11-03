@@ -48,3 +48,4 @@ Self-reported views of the study participants, collected after the second spell 
 - [Peer observation and feedback increased student participation, interest and sense of responsibility in technical seminar presentations](peer-observation-increases-participation.md) — related
 - [A structured feedback format enabled peer observers to observe systematically and helped presenters identify areas to improve](structured-peer-feedback-format-improves-presentations.md) — related
 - [Unstructured peer observation without guidance produces vague, negative feedback that is unhelpful to presenters](unstructured-peer-feedback-vague-negative.md) — related
+- [Student teachers viewed delayed video-based feedback favorably, citing reduced anxiety and comfort, but noted technical and observational limitations](social-validity-delayed-video-feedback.md) — related

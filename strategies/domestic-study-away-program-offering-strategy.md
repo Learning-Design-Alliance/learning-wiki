@@ -47,7 +47,8 @@ The review recommends that educators expand the portfolio of intercultural progr
 - [Most domestic study away programs described in the literature are short term, under a semester](../claims/study-away-programs-mostly-short-term.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Intercultural programming to enhance socio-emotional engagement for probation students](intercultural-programming-socioemotional-engagement.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ Independent samples t-test (Hypothesis 1) on creative thinking scores of 450 sec
 - [In one word-problem study, females gained significantly when the formatted procedural plan came after an unformatted test, and scored lower when the formatted test came first](females-benefit-free-exploration-then-plan.md) — related
 - [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](target-task-gender-difference-males-outperform.md) — related
 - [Parents' job type does not significantly affect students' creative thinking](parents-job-no-effect-creative-thinking.md) — related
+- [Learning model and academic ability each significantly affect creative thinking, but their interaction does not](sscs-ms-ancova-main-effects-no-interaction.md) — related

@@ -49,3 +49,4 @@ Content analysis of transcripts coded by two researchers against the 4F framewor
 - [In elementary book talk, students spent significantly more time interacting with a fixed-role AI peer than with their homeroom teacher in both grades](ai-peer-longer-book-talk-sessions.md) — related
 - [For Grade 5 students the AI peer elicited more factual statements but far fewer Feelings utterances than the teacher, with no significant differences in Findings or Future](grade5-ai-facts-strong-feelings-weak.md) — related
 - [Human and AI discourse differ functionally: students lead invitations, connection, and regulation moves, while AI leads reasoning, coordination, and agreement](human-ai-discourse-functional-differences.md) — related
+- [Teacher-focused reflection instructions produced a greater proportion of teacher/content-oriented reflection extracts; no effect on student/learning-oriented extracts](reflection-instruction-teacher-content-extracts.md) — related

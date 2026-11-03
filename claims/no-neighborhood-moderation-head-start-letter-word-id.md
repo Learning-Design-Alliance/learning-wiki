@@ -47,3 +47,4 @@ Null moderation result from the same multi-level randomized analysis of the Head
 ## Related Claims
 - [The number of DOE-funded preschools in the community is marginally significantly associated with smaller Head Start impacts on Woodcock Johnson Applied Problems scores](doe-preschools-marginal-moderation-applied-problems.md) — related
 - [No significant differences in Head Start treatment impact on Applied Problems or Letter Word Identification by level of neighborhood crime](no-crime-moderation-applied-problems-letter-word.md) — a narrower finding that bears on this claim
+- [Non-linear effects of Head Start hours on letter-word scores differ by age: age-3 gains rise quickly then flatten, while age-4 gains rise after 2-3 hours per day](head-start-hours-nonlinear-age-patterns.md) — related

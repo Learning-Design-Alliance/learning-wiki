@@ -49,3 +49,4 @@ Latent class analysis of pretest solution strategies on AnimaLogica items across
 - [Children who initially used non-analogical strategies improved more from pretest to posttest than analogical reasoners, especially with tutoring feedback](non-analogical-reasoners-gain-more-feedback.md) — related
 - [K-Means clustering of LIME feature-importance profiles identifies 2 responder and 4 non-responder subgroups within binary intervention-response classes](lime-clustering-dyslexia-subgroups.md) — related
 - [Gaussian Mixture Modeling identifies two latent clusters of delayed start behavior, outperforming three-cluster and unimodal models](gmm-two-clusters-delayed-start.md) — related
+- [Student-level latent classes showed a qualitative difference in item difficulty profiles, with no overlap in item response curves between classes](qualitative-difference-latent-class-item-profiles.md) — related

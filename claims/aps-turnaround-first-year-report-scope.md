@@ -57,3 +57,4 @@ Descriptive statement from the report's own abstract page identifying the scope 
 - [Turnaround partnership schools are producing math improvements, but other effects were mixed, varying by outcome and by partner organization (Kindezi and PBS)](aps-partnership-schools-mixed-effects.md) — related
 - [After two years, the Turnaround Strategy is producing improvements in math performance in targeted schools, with no evidence of positive impacts on other student outcomes](aps-turnaround-math-gains-targeted-schools.md) — related
 - The EPIC evaluation design report documents estimation procedures, partner-level operations, and a work plan — related
+- [Turnaround partner interventions showed mixed results for student achievement across comparison-group studies](turnaround-partner-interventions-mixed-achievement-results.md) — related

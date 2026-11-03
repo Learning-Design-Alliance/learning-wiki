@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (60 show a difference, 13 mixed, 22 no difference) · 69 studies (43 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 7 of 69 report an effect size · 91 claims rest on one study
+> **Evidence** · 96 claims (61 show a difference, 13 mixed, 22 no difference) · 71 studies (45 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 7 of 71 report an effect size · 92 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -133,6 +133,7 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [The review concludes the inductive method has proved effective for grammar teaching in most reviewed university- and school-level cases, whereas the deductive method has not](../claims/review-inductive-effective-most-cases.md) [+W] — instruction changes it
 - [Instructional approach significantly affects lexico-syntax achievement, with MSIA the most effective approach](../claims/msia-most-effective-lexico-syntax.md) [+M] — instruction changes it
 - [Word-order errors in compound nouns were infrequent in both groups, and the highlighting pattern accounted for nearly all compounds, supporting its use as a teaching heuristic](../claims/highlighting-pattern-word-order-heuristic.md) [-M] — instruction changes it
+- [Low-achievers perceived the CMMCALL program positively and reported it improved their grammar understanding](../claims/low-achievers-positive-perceptions-cmmcall.md) [+M] — instruction changes it
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

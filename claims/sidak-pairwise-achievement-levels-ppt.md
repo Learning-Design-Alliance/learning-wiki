@@ -52,3 +52,5 @@ Sidak post-hoc analysis following the significant ability main effect in the PPT
 - [Junior secondary students taught Technical Drawing with PowerPoint presentation achieved significantly higher posttest scores than students taught with chalkboard instruction](ppt-outperforms-chalkboard-technical-drawing.md) — related
 - [Under the Target-Task Model, high, medium and low scoring students differed significantly in post-test performance, with low scorers showing the largest mean gain](target-task-low-scorers-largest-gain.md) — related
 - [Performance under the Polya Problem-Solving Model differed significantly by scoring level, with high scorers gaining most](polya-model-scoring-level-differences.md) — related
+- [Achievement level significantly influenced performance within computer-assisted Jigsaw II, with high achievers outperforming medium and low achievers.](caj2-achievement-level-moderation.md) — related
+- [Achievement level significantly moderated outcomes under IWB instruction, with high achievers outperforming medium and low achievers](iwb-achievement-level-moderation.md) — related

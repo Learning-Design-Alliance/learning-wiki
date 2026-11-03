@@ -54,3 +54,4 @@ ANCOVA on oral imitation new-item scores (verbs not receiving feedback) at delay
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](recasts-more-enduring-than-metalinguistic-feedback.md) — reports the opposite
 - [No group differences on immediate posttests for either feedback type on either measure](no-immediate-posttest-feedback-group-differences.md) — related
 - [Corrective feedback effects on partially acquired structures may emerge only on delayed measures, not immediately](delayed-emergence-of-cf-effects-partially-acquired-structures.md) — related
+- [Explicit instruction is reported as more effective than implicit instruction for L2 grammar features](explicit-l2-grammar-instruction-superior-to-implicit.md) — related

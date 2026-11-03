@@ -20,6 +20,7 @@ The article's organizing approach is a qualitative meta-synthesis: rather than c
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Qualitative meta-synthesis as a method for reconciling divergent meta-analyses of PBL effectiveness**: The article's organizing approach is a qualitative meta-synthesis: rather than computing a new pooled estimate, it compares and contrasts the assumptions and findings of existing meta-analyses of PBL. The method treats divergent meta-analytic conclusions as data, explaining apparent contradictions (e.g., retention outcomes) by the type of outcome measured. As the article states, "This study used a qualitative meta-synthesis approach to compare and contrast the assumptions and findings of the meta-analytical research on the effectiveness of PBL." (Strobel et al. (2009))
+- **Qualitative meta-synthesis as a methodology for synthesizing reflection research**: The article describes qualitative meta-synthesis as an approach that synthesizes qualitative studies to achieve "interpretative explanations of the phenomenon" rather than aggregating findings. It involves six phases: conception of synthesis, identifying target studies, reading and evaluating studies, drawing links between studies, synthesizing studies, and presenting the synthesis. The approach acknowledges that experiences are constructed and understood from multiple perspectives. (Loo et al. (2019))
 
 ### Claims
 - [PBL is superior to conventional instruction for long-term retention, according to a meta-synthesis of meta-analyses](../claims/pbl-superior-long-term-retention.md) [+M]
@@ -30,3 +31,4 @@ The article's organizing approach is a qualitative meta-synthesis: rather than c
 
 ## Key Sources
 - Strobel, J., & van Barneveld, A. (2009). When is PBL More Effective? A Meta-synthesis of Meta-analyses Comparing PBL to Conventional Classrooms. Interdisciplinary Journal of Problem-Based Learning, 3(1). https://doi.org/10.7771/1541-5015.1046
+- Loo, D. B., & Sulankey, A. K. (2019). A Qualitative Meta-Synthesis of Studies on Learner Reflections: Lessons for English Language Learner Reflection. rEFLections, 26(1), 58-75. https://eric.ed.gov/?id=EJ1234567

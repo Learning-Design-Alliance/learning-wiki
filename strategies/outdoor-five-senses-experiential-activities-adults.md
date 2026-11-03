@@ -51,6 +51,7 @@ The article recommends rich learning environments built from outdoor environment
 - [Interaction with Natural Environment](interaction_with_natural_environment.md)
 - [Free Play](free-play.md)
 - [Teachers design learning that activates all senses rather than focusing on one sense](activate-all-senses-learning-design.md)
+- [Combine technology-based programs with outdoor activities to strengthen students’ link to nature](combine-technology-with-outdoor-activities.md)
 
 ## Examples
 -

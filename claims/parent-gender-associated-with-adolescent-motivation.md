@@ -53,3 +53,4 @@ In the dyadic regression (N = 76), parent gender showed "β = 0.24, t (69) = 2.4
 - [Perceived parental autonomy support positively predicts adolescents' autonomous motivation during home-based learning](parental-autonomy-support-predicts-autonomous-motivation.md) — related
 - [Positivity of parent-adolescent interaction and self-efficacy did not significantly predict autonomous motivation during home-based learning](relatedness-and-self-efficacy-null-during-home-based-learning.md) — related
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
+- [Students' attitudes towards computers did not differ significantly based on owning a computer or gender, and paternal education level had no significant effect on attitudes or achievement.](demographic-variables-no-attitude-effect.md) — related

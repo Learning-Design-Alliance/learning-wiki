@@ -72,3 +72,4 @@ Quasi-experimental control-group study: 31 experimental learners used TMM softwa
 - [Meaning-focused listening input significantly enhances productive vocabulary size of Iranian intermediate EFL learners compared with traditional instruction](meaning-focused-listening-input-productive-vocabulary-gains.md) — related
 - [Authentic video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment](authentic-video-improves-efl-vocabulary.md) — related
 - [Instructional video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment](instructional-video-improves-efl-vocabulary.md) — related
+- [Vocabulary gains from the didactic model emerged only at post-test, supported by contextual-clue strategies](didactic-model-vocabulary-delayed-gains.md) — related

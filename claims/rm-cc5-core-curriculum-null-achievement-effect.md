@@ -61,3 +61,4 @@ Confirmatory RQ1 analysis of the MCIS randomized controlled trial: two-level hie
 - [Small group size functions as a manipulable proxy for treatment intensity in early mathematics interventions, though its intensity advantage did not improve outcomes in this trial](group-size-as-treatment-intensity-proxy.md) — related
 - [No statistically significant differences in end-of-grade reading and math achievement between trained and waitlist schools](tips-pd-no-achievement-effect.md) — related
 - [CMP2 had no statistically significant effect on grade 6 students' perceived task value of mathematics](cmp2-no-significant-ptv-effect.md) — related
+- [Research-based curriculum materials with curriculum-based PD produce a modest positive effect on high school science achievement relative to business-as-usual](inquiry-approach-modest-positive-achievement-effect.md) — related

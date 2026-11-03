@@ -50,3 +50,4 @@ ANCOVA interaction term (treatment*gender) on post-test achievement in the non-e
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — related
 - [Treatment and verbal ability interact significantly in their effect on students’ interest in mathematics](treatment-verbal-ability-interaction-interest.md) — related
 - [Treatment and gender did not interact significantly in their effects on algebra achievement](no-treatment-gender-interaction-algebra.md) — related
+- [No significant interaction effect of numerical ability and gender on mathematics achievement](no-numerical-ability-gender-interaction-math-achievement.md) — related

@@ -15,7 +15,7 @@ sources:
     author: "Hansen, L., Umeda, Y., & McKinney, M."
     q: 2
     i: "?"
-    n: moderate
+    n: 304 returnees
     kind: causal
     rigour: "?"
   - id: kohnert-et-al-2005
@@ -24,8 +24,8 @@ sources:
     author: "Kohnert, K., Yim, D., Nett, K., Kan, P. F., & Duran, L."
     q: 2
     i: "?"
-    n: small-to-moderate (clinical caseload study)
-    kind: causal
+    n: not applicable (narrative review)
+    kind: review
     rigour: "?"
   - id: ebert-2005
     title: "Ebert, K. (2005). *Parent involvement and student achievement in bilingual family contexts*."
@@ -40,16 +40,16 @@ sources:
 # Preserving a bilingual student's heritage language supports rather than hinders English acquisition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 2 causal `r?`, 1 theoretical `r?` · `q1`–`q2`
-> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 3 studies · 1 causal `r?`, 1 review `r?`, 1 theoretical `r?` · `q1`–`q2`
+> **Currency** · newest study 2005 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
-A common assumption treats time and attention spent on a bilingual student's home (heritage) language as competing with, and therefore slowing, English acquisition. The evidence points the other way for several distinct mechanisms: vocabulary knowledge transfers between languages, specialist intervention is more effective when delivered bilingually, and a preserved shared language keeps parents able to support their children's schooling.
+A common assumption treats time and attention spent on a bilingual student's home (heritage) language as competing with, and therefore slowing, English acquisition. The three entries below do not test that assumption directly: a narrative review recommends that speech-language services for linguistically diverse preschoolers with language impairment support the home language, a practitioner account argues that a preserved shared language keeps parents able to support schooling, and a vocabulary study shows that second-language words once known and then forgotten are relearned with savings. The direct tests of the assumption are in the narrower claims gathered in the table below, and they are associational.
 
 ## Subclaims
 
-`q2 i?` A large vocabulary in a student's first language saves time when later learning the equivalent vocabulary in a second language — but only if the first language is preserved rather than lost. (Citation check 2026-10-15: the cited paper concerns relearning forgotten second-language vocabulary; that it supports first-language-to-second-language savings is unconfirmed.) [→ Hansen, Umeda, and McKinney 2002](#hansen-umeda-and-mckinney-2002)
+`q2 i?` Among 304 returnees from Japan and Korea relearning second-language (Japanese or Korean) vocabulary, the authors report a strong savings effect; the savings advantage appeared to decline over time (with age a confounding factor) and was related to current vocabulary size. The study is about relearning second-language vocabulary, not about first-language vocabulary easing English acquisition, so it bears on this claim only by analogy to a heritage language that has fallen out of use. [→ Hansen, Umeda, and McKinney 2002](#hansen-umeda-and-mckinney-2002)
 
-`q2 i?` For bilingual students with language impairments affecting both languages, speech-language intervention is more effective when the specialist uses the student's first language alongside English, rather than English alone. [→ Kohnert et al. 2005](#kohnert-et-al-2005)
+`q2 i?` A narrative review of the literature on young linguistically diverse children with primary language impairment concludes that speech-language pathologists should provide services in a way that supports development of the home language, and presents parent and paraprofessional training and peer-mediated intervention as ways to do so; the abstract reports no comparison of bilingual with English-only intervention. [→ Kohnert et al. 2005](#kohnert-et-al-2005)
 
 `q1 i?` Preserving a shared family language keeps parents better able to stay involved in their children's schooling, including assisting effectively with homework. [→ Ebert 2005](#ebert-2005)
 
@@ -59,19 +59,19 @@ A common assumption treats time and attention spent on a bilingual student's hom
 
 Hansen, L., Umeda, Y., & McKinney, M. (2002). Savings in the relearning of second language vocabulary: The effects of time and proficiency. *Language Learning, 52*(4), 653-678. [doi:10.1111/1467-9922.00200](https://doi.org/10.1111/1467-9922.00200)
 
-`q2 · experimental study on vocabulary relearning · i? · no source text available to check; the entry prints no effect size · n=moderate` · `causal · r?`
+`q2 · study of second-language vocabulary relearning (savings paradigm) · i? · the abstract prints no effect size · n=304 returnees` · `causal · r?`
 
-This study found that prior vocabulary knowledge in one language produces measurable "savings" — reduced time and effort — when a learner later acquires the equivalent vocabulary in a second language. The savings are only available, however, if the first-language vocabulary itself has not been lost, directly linking heritage-language preservation to the practical efficiency of English vocabulary acquisition.
+The study applies the savings paradigm from cognitive psychology to relearning second-language vocabulary. Second-language (Japanese or Korean) data from 304 returnees from Japan and Korea showed what the authors call the strongest savings effect yet reported in studies of lexical reactivation. The savings advantage appeared to decline over time (with age a confounding factor) and was significantly related to current vocabulary size; there were no significant gender effects, and the Japanese and Korean subgroups differed in vocabulary maintenance and savings. It does not study first-language vocabulary transfer, heritage-language preservation or English acquisition; its bearing here is only the analogy of a once-used language that is relearned.
 
-<!-- citation check 2026-10-15: Crossref confirms this paper by title, first author and year (doi:10.1111/1467-9922.00200; Language Learning 52(4), 653-678), so the DOI replaces the journal-homepage link. Its title and topic are savings when RELEARNING forgotten second-language vocabulary, not first-language vocabulary easing second-language learning, so the description above may not match the paper; not re-read here. The principle page's Key Sources cites a different Hansen 2002 title ('Ragged interlanguage morphology...', JMMD 23(1-2)) that Crossref does not find. -->
+<!-- citation check 2026-10-15: Crossref confirms this paper by title, first author and year (doi:10.1111/1467-9922.00200; Language Learning 52(4), 653-678), so the DOI replaces the journal-homepage link. Its title and topic are savings when RELEARNING forgotten second-language vocabulary, not first-language vocabulary easing second-language learning, so the description above may not match the paper; not re-read here. (Load-bearing triage 2026-11-03: re-read against the abstract; the description now says what the paper studies.) The principle page's Key Sources cites a different Hansen 2002 title ('Ragged interlanguage morphology...', JMMD 23(1-2)) that Crossref does not find. -->
 
 ### Kohnert et al. 2005
 
 Kohnert, K., Yim, D., Nett, K., Kan, P. F., & Duran, L. (2005). Intervention with linguistically diverse preschool children: A focus on developing home language(s). *Language, Speech, and Hearing Services in Schools, 36*(3), 251-263. [https://pubs.asha.org/journal/lshss](https://pubs.asha.org/journal/lshss). [doi:10.1044/0161-1461(2005/025)](https://doi.org/10.1044/0161-1461(2005/025))
 
-`q2 · clinical/applied study on bilingual language intervention · i? · no source text available to check; the entry prints no effect size · n=small-to-moderate (clinical caseload study)` · `causal · r?`
+`q2 · narrative review on intervention with linguistically diverse preschoolers · i? · a review; no effect size printed · n=not applicable (narrative review)` · `review · r?`
 
-Working with bilingual preschoolers showing impaired skills in both languages, this study found that speech-language intervention was more effective when the specialist used the child's home language alongside English, rather than delivering the intervention in English only — evidence that even remediating a language-based disability benefits from bilingual rather than English-only delivery.
+A narrative review of the literature on planning intervention for young linguistically diverse learners with primary language impairment, organised around clinical questions: why support a home language that is not the language of school, whether continued support for it undermines attainment in a second language, whether to support a home language that includes code-switching, and how a speech-language pathologist who does not speak the home language can support it. It concludes that SLPs should serve these children in a way that effectively supports home-language development, and presents parent and paraprofessional training and peer-mediated intervention as two ways to do that. The abstract reports no comparison of bilingual with English-only intervention and no sample of its own.
 
 ### Ebert 2005
 
@@ -84,12 +84,12 @@ This account describes how preserving two shared languages between parent and ch
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does maintaining and developing a learner's heritage language cost their acquisition of the school language, or support it?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (3 theoretical, 2 causal, 2 review), `q1`–`q2`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does maintaining and developing a learner's heritage language cost their acquisition of the school language, or support it?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (3 review, 3 theoretical, 1 causal), `q1`–`q2`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Hansen, Umeda, and McKinney 2002](https://doi.org/10.1111/1467-9922.00200) | q2 · causal · r? | i? | this claim |
-| [Kohnert et al. 2005](<https://doi.org/10.1044/0161-1461(2005/025)>) | q2 · causal · r? | i? | this claim |
+| [Kohnert et al. 2005](<https://doi.org/10.1044/0161-1461(2005/025)>) | q2 · review · r? | i? | this claim |
 | Ebert 2005 | q1 · theoretical · r? | i? | this claim |
 | [Cummins 1979](https://doi.org/10.3102/00346543049002222) | q2 · theoretical · r3 | i? | [Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement](l1-maintenance-supports-l2-without-cost.md) (supports); [Preservation of the mother tongue predicts second-language achievement among migrant child](mother-tongue-preservation-predicts-l2-achievement.md) (supports); [Semilingualism — less than native-like skill in both languages — is associated with detrim](semilingualism-associated-with-negative-cognitive-effects.md) (qualifies) |
 | Rolla 2024 | q2 · review · r2 | i? | [Spanish use at home does not limit English learning: young Spanish–English bilinguals with](spanish-home-use-does-not-limit-english-learning.md) (supports) |
@@ -99,7 +99,7 @@ This account describes how preserving two shared languages between parent and ch
 
 ## Discussion
 
-The underlying mechanism these three findings share is that a heritage language, once lost, cannot be "cashed in" for the second-language advantages it would otherwise provide — vocabulary transfer, more effective bilingual intervention for students who need it, and sustained parent-child communication about school all depend on the first language still being intact, not merely on the student's growing English proficiency. This reframes heritage-language loss from an incidental, mostly-invisible side effect of English acquisition into a genuine cost with practical, measurable consequences for the very English-language outcomes it might seem to make room for. Additive or parallel-track bilingual education approaches — which develop both languages together rather than substituting one for the other — are consistent with this evidence and have generally been favored in program evaluations over subtractive, English-only ("sink or swim") approaches (Beykont, 2002).
+The three entries here are a review's recommendation, a practitioner account and an analogy from second-language relearning; none compares learners who kept a heritage language with comparable learners who did not on later English outcomes. What they share is an argument that a heritage language, once lost, cannot be drawn on: a review recommends that intervention for children who need it support the home language, a practitioner account says parent-child communication about school depends on a shared language, and a vocabulary study reports savings when second-language vocabulary is relearned. That frames heritage-language loss as a cost to weigh rather than an incidental side effect of English acquisition, though none of the three entries measures the cost. Additive or parallel-track bilingual education approaches — which develop both languages together rather than substituting one for the other — are consistent with this evidence and have generally been favored in program evaluations over subtractive, English-only ("sink or swim") approaches (Beykont, 2002).
 
 ## Related Claims
 - [Bilingual fluency enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md) — a second, independent benefit of maintaining genuine fluency in both of a bilingual student's languages

@@ -83,6 +83,7 @@ Concrete examples reduce the working-memory and knowledge demands of abstraction
 - Use contrasting cases — the multi-example variant that guards against overgeneralization
 - Teach with case studies — extended narrative examples used for complex, ill-structured domains
 - [Teach each topic with Glynn's step-by-step Teaching-With-Analogy (TWA) model using multiple concrete analogies](twa-step-by-step-analogy-teaching-strategy.md)
+- [Introduce each geoscience topic through a real-world applied context before presenting supporting science](applied-context-first-geoscience-teaching.md)
 
 ## Examples
 - **Kaminski, Sloutsky & Heckler's math learning studies (2008)** — demonstrated that novices learning an abstract mathematical group structure from a concrete "mixing liquids" cover story transferred less well than those learning from abstract symbols, a caution about unexamined concreteness.

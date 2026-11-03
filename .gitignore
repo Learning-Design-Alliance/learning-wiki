@@ -5,6 +5,7 @@ __pycache__/
 .DS_Store
 .obsidian/
 .claude/skills-workspace/
+.claude/worktrees/
 venv/
 
 # eval harness: cached article text (may be copyrighted full text) and

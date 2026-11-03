@@ -33,7 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q1`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
-> **Design limits** · Haifang Liu 2026: no comparison group; groups were assigned but students were analysed as independent · Haifang Liu 2026 (2): no comparison group; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-29)
+> **Design limits** · Haifang Liu 2026 (2): no comparison group; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-29)
 
 ## Subclaims
 `q1 i?` Case analysis help was the most frequent usage type (42%), followed by Socratic dialogue simulation (38%), legal writing feedback (28%), research assistance (19%), and concept clarification (15%). [→ Haifang Liu 2026](#haifang-liu-2026)

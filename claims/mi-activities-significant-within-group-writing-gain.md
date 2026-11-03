@@ -61,3 +61,5 @@ Paired-samples t-test on the experimental group's essay scores (N=25) in a quasi
 - [MI-based instruction improved oral presentation skills of EFL pre-service teachers](mi-instruction-improves-oral-presentation-skills.md) — related
 - [MI-based instruction improved the making-requests subskill of EFL pre-service teachers](mi-instruction-improves-making-requests-subskill.md) — related
 - [MI-based instruction improved the making-suggestions subskill of EFL pre-service teachers](mi-instruction-improves-making-suggestions-subskill.md) — related
+- [MFTM significantly improves multiplication facts achievement among deaf students from pre-test to post-test](mftm-significant-pre-post-gain-deaf-students.md) — a narrower finding that bears on this claim
+- [Online-based writing instruction produces equivalent overall essay performance gains compared to classroom-based instruction for ESL students](online-lms-writing-instruction-equivalent-gains.md) — related

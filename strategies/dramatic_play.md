@@ -66,6 +66,7 @@ Dramatic play sits at the intersection of [Active Learning](../principles/active
 - [Act It Out](act_it_out.md) — story-based enactment for comprehension
 - [Collaborative Learning](../principles/collaborative-learning.md) — dramatic play is an early, play-based form of peer collaboration
 - [Design reading comprehension activities that require students to collaborate with the teacher on joint tasks](design-collaborative-reading-tasks-jpa.md)
+- [Have participants write, draw, and physically enact their own imagined situations to deepen imagery](magid-2014-imagery-enhancement-recommendations.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the facilitation stance that keeps play productive without dominating it

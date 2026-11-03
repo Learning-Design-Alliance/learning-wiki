@@ -55,3 +55,4 @@ Semi-structured interviews with all 12 experimental-group participants in week 1
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Students' views on the animated 5E activities clustered around active learning, motivation and enjoyment, with time demands as the main disadvantage](student-views-animated-5e-advantages.md) — related
 - [Students report that Parole makes vocabulary learning permanent but time-consuming](parole-user-perceptions-permanence-and-time-cost.md) — related
+- [Scenario-based learning through assignments was viewed as making learning more permanent](scenario-based-learning-permanent.md) — related

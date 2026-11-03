@@ -67,3 +67,4 @@ The authors' interpretation in the Discussion of the extrapolation evidence: aut
 ## Related Claims
 - [SERDA-derived scores classify children into DMT and AVI proficiency classes with moderate to good accuracy and items discriminate moderately well or better](serda-scores-predict-proficiency-classes.md) — related
 - [Equated WCPM scores are more highly correlated across passages read by the same student than raw WCPM scores, suggesting greater reliability](equated-wcpm-higher-cross-passage-correlations.md) — related
+- [Reading speed and comprehension are not significantly correlated](reading-speed-comprehension-uncorrelated.md) — related

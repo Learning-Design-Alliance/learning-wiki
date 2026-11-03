@@ -128,6 +128,7 @@ As Morshead (1965) pointed out on publication of the affective-domain handbook, 
 - [Mapping each OD3R stage to learning domains: orientation builds affective motivation, decision trains design, do trains psychomotor skills, discuss develops communication, reflect assesses attitudes](../designs/od3r-stage-domain-mapping.md)
 - [Researcher-developed 65-item Academic Achievement Test](../products/researcher-developed-65-item-academic-achievement-test.md)
 - [Validated 13-item programming knowledge test based on Bloom's Taxonomy](../products/validated-13-item-programming-knowledge-test-based-on-blooms-taxonomy.md)
+- [Author-developed 31-question achievement test covering four cognitive levels](../products/author-developed-31-question-achievement-test-covering-four-cognitive-levels.md)
 
 ## Key Sources
 - Bloom, B. S. (Ed.), Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). *Taxonomy of educational objectives, Handbook I: The cognitive domain*. David McKay Co.

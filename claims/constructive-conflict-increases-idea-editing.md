@@ -58,3 +58,4 @@ Sub-analysis of edit types in the same experiment: revisions were significantly 
 - [Novice designers deleted ideas only when confronted with stakeholder friction; unsupported self-reflection produced no deletions](idea-deletion-requires-stakeholder-friction.md) — related
 - [Perturbation type determines the interaction types needed: conflicting evidence elicits argumentation](conflicting-evidence-increases-argumentation.md) — related
 - [A five-step structured video-based reflection cycle led teachers to produce substantially more new and more specific solutions than a vicarious-reflection control condition](ceble-structured-reflection-more-specific-solutions.md) — related
+- [Cognitive conflict from differing group opinions motivates students to revise their ideas in ILSC learning](cognitive-conflict-drives-idea-revision-ilsc.md) — related

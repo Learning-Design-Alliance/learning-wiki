@@ -49,6 +49,7 @@ The handbook identifies the mechanism Piaget proposes for moving from one stage 
 ## Examples
 
 - [Use questioning and counter-suggestions (contrepreuve) to produce disequilibration and support cognitive growth](../strategies/questioning-contrepreuve-disequilibration.md)
+- [Cognitive acceleration stages (concrete preparation, cognitive conflict, metacognition, bridging) as the LC's structure for developing critical thinking](../designs/cognitive-acceleration-stages-lc-structure.md)
 
 ## Key Sources
 - Felton, Victoria; Petersen, Rosemary. (1976). Piaget: A Handbook for Parents and Teachers of Children in the Age of Discovery--Preschool Through Third Grade. https://eric.ed.gov/?id=ED131912

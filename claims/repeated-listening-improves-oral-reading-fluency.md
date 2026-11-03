@@ -71,7 +71,7 @@ Same Jablonski (2019) experiment, EasyCBM comprehension posttest. The review rep
 - [Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies](strong-evidence-fluency-building-activities-grades-4-9.md) — the general claim this finding bears on, with the studies behind it
 
 - [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](reading-versus-listening-incidental-vocabulary-gains.md) — the general claim this finding bears on, with the studies behind it
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not](mics-pre-post-no-group-differential-effect.md) — related
 - [Extensive reading accompanied by peer interaction produced greater reading achievement gains than ER without peer interaction, no ER, or ER with teacher conferences](er-peer-interaction-greater-achievement-gains.md) — related
 - Students using Renzulli Learning for 16 weeks show significantly higher oral reading fluency growth than business-as-usual peers (effect size +0.10) — related

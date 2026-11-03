@@ -54,3 +54,4 @@ Narrative review of Mazzoni et al. (2020), a quasi-experimental pre-post study w
 - [Primary studies report possible benefits of GenAI for children's divergent thinking, narrative creativity and creative self-efficacy, without confirmed efficacy](genai-possible-benefits-children-creative-thinking.md) — related
 - [Students in an unstructured educational robotics curriculum show higher engagement in the learning process than peers in a structured curriculum](unstructured-er-curriculum-higher-engagement.md) — related
 - [Children aged 3-6 in a seven-session educational robotics program showed significantly greater computational-thinking gains than a non-equivalent, non-randomised control group](robotics-program-greater-ct-gains-early-childhood.md) — related
+- [Gamified educational robots increase creativity in a STEM curriculum](gamified-robots-increase-stem-creativity.md) — related

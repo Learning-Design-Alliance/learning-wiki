@@ -47,6 +47,7 @@ Based on its findings, the article recommends that "Physics teachers should expo
 ## Related Strategies
 
 - [Provide CAI packages across school subjects in school computer labs with dedicated time, staffing and funding](schools-provide-cai-packages-computer-labs.md)
+- [Use computer-assisted Jigsaw II cooperative learning to teach secondary school physics.](strategy-caj2-physics-instruction.md)
 
 ## Examples
 -

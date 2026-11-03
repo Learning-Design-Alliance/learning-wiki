@@ -81,3 +81,4 @@ In the same RCT, Appendix A3 reports effect sizes of 0.15 for composition qualit
 - [Individual engagement with an educational robot yielded greater divergent-thinking gains than pair work](individual-robot-engagement-beats-pairs-divergent-thinking.md) — related
 - [Digital writing workshop participation improved the 6+1 analytic writing dimensions of ideas, organisation, word choice, sentence fluency and spelling](digital-workshop-improves-6plus1-writing-dimensions.md) — related
 - [Students perceive peer review as improving composition quality, with ideas and structure benefiting most](peer-review-composition-quality-perception.md) — related
+- [Students with special needs and lower-performing students showed the largest gains in writing fluency after the improv sequence](improv-gains-special-needs-students.md) — related

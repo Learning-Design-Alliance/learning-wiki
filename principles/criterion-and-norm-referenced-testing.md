@@ -24,7 +24,7 @@ sources:
 # Criterion- and Norm-Referenced Testing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (11 for, 26 mixed, 3 against) · 28 studies (10 theoretical, 8 associational, 4 design, 3 causal, 2 review, 1 quant-synthesis), `q1`–`q3` · 0 of 28 report an effect size · 40 claims rest on one study
+> **Evidence** · 41 claims (11 for, 27 mixed, 3 against) · 29 studies (10 theoretical, 8 associational, 4 causal, 4 design, 2 review, 1 quant-synthesis), `q1`–`q3` · 1 of 29 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -178,6 +178,7 @@ The model should weaken if teachers given skill-level criterion-referenced repor
 - [Misclassified assessments cluster near placement cut scores](../claims/misclassifications-cluster-near-cut-scores.md) [~W]
 - [Mastery Angoff produces the highest cut scores and lowest pass rates among Angoff variants](../claims/mastery-angoff-highest-cut-scores.md) [~W]
 - [Students' relative rank order in reading remained stable across fourth grade on most measures, with GMRT reading comprehension the exception (r = .16)](../claims/rank-order-stability-reading-measures-fourth-grade.md) [~W]
+- [All post-test means were significantly lower than the Tobacyk and Milford (1983) norms, with many pre-test means also lower.](../claims/posttest-lower-than-tobacyk-milford-norms.md) [~W]
 
 ## Related Principles
 - [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — the fuller treatment of aptitude/cognitive-ability tests' history, standardization, and cultural-bias concerns
@@ -196,6 +197,7 @@ The model should weaken if teachers given skill-level criterion-referenced repor
 - [Pair norm-referenced metrics with evidence of progress toward grade-level expectations in accountability decisions](../strategies/pair-norm-metrics-with-grade-level-progress-evidence.md)
 - [Balloons: A Concepts About Print Assessment](../products/balloons-a-concepts-about-print-assessment.md)
 - [Use diagnostic test standards to decide when a class needs special work on a fundamental ability](../strategies/geometry-ability-diagnostic-standards-strategy.md)
+- [Mathematical Ability Test of 60 objective questions covering 15 categories of mathematical abilities](../products/mathematical-ability-test-of-60-objective-questions-covering-15-categories-of-mathematical.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.

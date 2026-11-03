@@ -49,3 +49,4 @@ Process evaluation finding from staff interviews and project-team delivery data.
 - [Staff views of the interventions were more positive in schools with experienced TAs, senior staff support, and a dedicated delivery space.](reach-staff-views-favourable-implementation-conditions.md) — related
 - [Implementation fidelity of Switch-on was compromised in some schools, with modifications to prescribed content, duration and format of sessions](switch-on-fidelity-compromised-scale-up.md) — related
 - [Neither the 30-week nor the 20-week version of NELI showed reliable short-term impact on children's word-level literacy skills](neli-no-word-level-literacy-impact.md) — related
+- [Medium-of-instruction programme effectiveness is mixed and interacts with student proficiency, settings, implementation and practitioner skill](moi-effectiveness-mixed-interacts-with-proficiency.md) — related

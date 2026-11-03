@@ -40,7 +40,8 @@ The article proposes that diagnosing the causes of a student's systematic errors
 - [Systematic Error Tracing Model](../theories/systematic-error-tracing-model.md)
 
 ## Related Strategies
-- 
+
+- [Anticipate multiple ways students can approach mathematical tasks](anticipate-student-approaches-fa.md)
 
 ## Examples
 -

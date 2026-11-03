@@ -48,3 +48,5 @@ Qualitative teacher observation reported after teaching both groups during the 4
 - [Group work and discussion in the flipped classroom provided immediate feedback and supported shy students' participation, per the authors' observations](group-work-immediate-feedback-shy-students.md) — related
 - [Teachers and pupils reported that P4C benefited wider outcomes such as confidence to speak, listening, and self-esteem](p4c-wider-outcomes-confidence-listening-self-esteem.md) — related
 - [Students in the TPSR leadership program reported gains in self-confidence, taking responsibility, cooperation, and leading behaviors in post-program interviews](student-interviews-report-leadership-gains.md) — related
+- [7th-grade students exhibited resistance behaviors including not participating, not being interested, not taking care of friends, seeking attention, not respecting the teacher, and providing suggestions to the teacher](seventh-grade-resistance-behavior-types.md) — related
+- [Teachers observed additional social skill gains from cooperative group work beyond pattern recognition](cooperative-group-work-develops-social-skills-preschoolers.md) — related

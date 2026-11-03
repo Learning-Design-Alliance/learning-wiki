@@ -56,3 +56,4 @@ Independent samples t-test on PMAT pre-test scores of the two intact 4th grade c
 - [Before the intervention, experimental and control groups showed no statistically significant difference in written text production](pretest-no-difference-experimental-control.md) — a narrower finding that bears on this claim
 - [Experimental and control groups showed no significant difference in numeracy and science achievement at pre-test](ict-preschool-pretest-equivalence.md) — related
 - [The three intact classes were equivalent in prior achievement and scientific attitudes before the light-unit intervention](pretest-equivalence-three-5e-groups.md) — related
+- [Pre-test multiplication facts achievement does not differ significantly between the MFTM and CTM groups](pretest-equivalent-mftm-ctm-groups.md) — related

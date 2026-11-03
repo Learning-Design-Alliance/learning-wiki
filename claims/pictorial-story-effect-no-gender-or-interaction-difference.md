@@ -60,3 +60,4 @@ Same ANCOVA on the 100-student sample: gender η²=.001 and group*gender η²=.0
 - [No significant interaction between gender and ability level on achievement under reflective inquiry](no-gender-ability-interaction-reflective-inquiry.md) — related
 - [No statistically significant gender difference in direct achievement of scientific concepts](no-gender-difference-direct-achievement-modules-study.md) — related
 - [No statistically significant gender difference or gender-by-method interaction in postponed achievement](no-gender-difference-postponed-achievement-modules-study.md) — related
+- [Male students scored significantly higher than female students in spatial and intrapersonal intelligence](gender-differences-spatial-intrapersonal.md) — reports the opposite

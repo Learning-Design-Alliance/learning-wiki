@@ -47,3 +47,4 @@ Light-touch process evaluation using telephone interviews with a random sample o
 ## Related Claims
 - [Boys whose parents took part in SPOKES showed positive follow-up effects of about three months' additional progress at six months and about seven months at twelve months on some reading measures](spokes-positive-followup-effects-boys.md) — related
 - [Only 57% of intervention parents attended the five or more sessions judged necessary to count as programme completers](spokes-low-parent-attendance-57-percent.md) — related
+- [Parents reported that their children were motivated by the HGCs and their attitude to maths became more positive, though parent feedback was limited](parent-feedback-hgc-motivation.md) — related

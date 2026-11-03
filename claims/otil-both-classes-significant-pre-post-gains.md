@@ -54,3 +54,5 @@ Paired-samples T-test on each class (N=46 per class). Experimental class paired 
 - [Experimental-group students showed significant pre-to-post gains in learning achievement with the CoBl model](cobl-achievement-pre-post-gains.md) — related
 - [The formative-assessment group improved significantly from pre-test to post-test while the control group did not](formative-group-pre-post-gain-significant-control-not.md) — reports the opposite
 - [Both groups improved significantly from pre-test to post-test in the local history learning activities](pre-post-gains-both-groups.md) — related
+- [Control group also improved significantly from pre-test to post-test in both courses](control-group-significant-pre-post-gains.md) — related
+- [Experimental group outperformed control group on post-tests in both courses](experimental-group-outperformed-control-post-tests.md) — related

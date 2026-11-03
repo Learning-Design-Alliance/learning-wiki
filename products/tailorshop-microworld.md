@@ -32,6 +32,7 @@ Tailorshop is a semantically rich factory-management computer simulation develop
 
 - [MicroDYN](microdyn.md)
 - [Force and Motion Microworld (FMM)](force-and-motion-microworld-fmm.md)
+- [Internet Protocol Assessment Microworld (IPAM)](internet-protocol-assessment-microworld-ipam.md)
 
 ## Key Sources
 - Joachim Funke. (2009). Complex problem solving: a case for complex cognition? Cogn Process. https://doi.org/10.1007/s10339-009-0345-0

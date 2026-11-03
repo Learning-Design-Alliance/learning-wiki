@@ -77,3 +77,4 @@ Same observational analysis of REACH Students data. Observation-score concentrat
 - [Algebra access gaps are tied to school poverty levels, geography, and race/ethnicity](algebra-access-gaps-poverty-geography-race.md) — related
 - [Teachers in schools with better organizational and learning climates have higher value-added and observation scores, even compared with schools serving similar students](school-climate-associated-higher-teacher-evaluation-scores.md) — related
 - [Top-scoring teachers in highest-poverty schools have higher value-added scores than their counterparts in lower-poverty schools](top-value-added-teachers-higher-in-highest-poverty-schools.md) — related
+- [A negative correlation exists between PARCC growth and teacher discrepancy scores in high-poverty schools](parcc-growth-negative-correlation-discrepancy-scores.md) — related

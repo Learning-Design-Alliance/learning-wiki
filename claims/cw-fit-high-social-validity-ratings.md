@@ -47,3 +47,5 @@ Social validity questionnaires completed by treatment teachers (18 items) and st
 ## Related Claims
 - [Higher fidelity of CW-FIT implementation is associated with better outcomes on social skill, problem behavior, and academic measures in the treatment group](cw-fit-fidelity-associated-with-better-outcomes.md) — related
 - [CW-FIT improves teacher-rated social skills of elementary students at risk for EBD, with small effect sizes](cw-fit-improves-teacher-rated-social-skills.md) — related
+- [Teachers implement CW-FIT with high procedural fidelity when supported by coaching](cw-fit-high-fidelity-implementation.md) — related
+- [Teachers and students report high satisfaction with CW-FIT, but fewer than half of teachers maintain it after the study](cw-fit-satisfaction-and-maintenance.md) — related

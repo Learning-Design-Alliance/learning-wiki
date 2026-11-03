@@ -53,3 +53,4 @@ From the abstract's summary of the network findings in 840 adults: books read pe
 - [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](big-book-reading-cognitive-autonomy.md) — related
 - [Reading pleasure shows a weak negative direct connection with social network use](reading-pleasure-negative-social-network-link.md) — related
 - [In a highly educated adult sample, social media use shows no direct connection with orthographic skills](social-media-no-direct-orthography-link-highly-educated.md) — related
+- [Free choice of book motivated students to read more and gain more enjoyment](rsa-free-book-choice-motivates.md) — related

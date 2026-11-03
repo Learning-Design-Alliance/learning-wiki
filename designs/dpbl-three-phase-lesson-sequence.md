@@ -46,6 +46,7 @@ The DPBL classroom pattern organises a lesson into three phases. In Phase 1 the 
 
 - [Direct Problem-Based Learning (DPBL) integrated model](dpbl-integrated-model.md)
 - [Direct Problem-Based Learning (DPBL) as a combination of direct instruction and problem-based learning](dpbl-combines-direct-instruction-and-pbl.md)
+- [Five-phase lesson structure for ILSC mathematics learning](ilsc-five-phase-lesson-structure.md)
 
 ## Examples
 -

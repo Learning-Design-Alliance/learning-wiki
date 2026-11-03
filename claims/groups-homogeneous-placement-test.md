@@ -73,3 +73,6 @@ Homogeneity check using the Oxford/Cambridge placement test before instruction; 
 - [Captioning mode significantly affected listening comprehension, with full captions outperforming keyword captions and both outperforming no captions](caption-mode-anova-full-beats-keyword-beats-none.md) — related
 - [Providing captions of any type improved general listening comprehension of EFL students compared with no captions](captions-any-type-effective-listening.md) — related
 - [Keyword captions significantly improved EFL learners' general listening comprehension from pre-test to post-test](keyword-captions-improve-listening-comprehension.md) — related
+- [The three groups were homogeneous in general proficiency and collocation knowledge before treatment](groups-homogeneous-at-pretest.md) — related
+- [Viewing instructional videos improves EFL learners' language proficiency regardless of whether captions are present.](video-viewing-improves-proficiency-regardless-captions.md) — related
+- [The three correction groups did not differ in general proficiency before treatment](correction-groups-homogeneous-proficiency-pet.md) — related

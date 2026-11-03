@@ -54,3 +54,4 @@ Published online 2 December 2017 (Crossref's issued date) in the volume 11(1) is
 - [Explicit phonological awareness instruction significantly improved adult Saudi EFL learners' oral reading literacy from pretest to posttest](pa-instruction-improves-adult-arab-efl-literacy-prepost.md) — related
 - [QDPR significantly improved Indonesian EFL learners' ability to pronounce the target English phonemes](qdpr-improved-pronunciation-ability.md) — related
 - [Indonesian EFL teachers and students perceived segmentals (consonants and vowels) as the top priority for pronunciation teaching, contrary to the suprasegmental trend](segmentals-prioritized-by-indonesian-efl-teachers-students.md) — related
+- [Self-correction improves EFL learners' pronunciation significantly over a semester of narrative tasks](self-correction-improves-efl-pronunciation.md) — related

@@ -48,7 +48,7 @@ Mixed-design ANOVA on pre/post English achievement tests (grammar, vocabulary, r
 - [AI-mediated language instruction fosters self-regulated learning among EFL learners more than traditional instruction](ai-instruction-fosters-self-regulated-learning.md) — related
 - [All three groups benefited from the instructional intervention, with both experimental groups benefiting the most](all-groups-benefited-experimental-most.md) — related
 - [Fourth-graders receiving AI-enhanced media literacy instruction outperformed control-group peers on post-test critical media reading, writing, and total literacy with large effect sizes](ai-media-literacy-program-large-posttest-gains.md) — related
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Child EFL learners receiving recasts in task-based lessons improve their production of third person singular -s from pretest to posttest, in a study with no no-recast comparison group](recasts-facilitate-child-efl-third-person-s-development.md) — related
 - [Metalinguistic feedback and recasts, but not clarification requests, significantly improve Iranian EFL learners' wh-question performance on an immediate post-test](metalinguistic-recasts-effective-immediate-wh-questions.md) — related
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related

@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 55 claims (26 for, 28 mixed, 1 against) · 39 studies (10 associational, 9 causal, 6 quant-synthesis, 5 qualitative, 5 design, 3 review, 1 theoretical), `q1`–`q4` · 9 of 39 report an effect size · 52 claims rest on one study
+> **Evidence** · 56 claims (27 for, 28 mixed, 1 against) · 40 studies (10 causal, 10 associational, 6 quant-synthesis, 5 qualitative, 5 design, 3 review, 1 theoretical), `q1`–`q4` · 9 of 40 report an effect size · 53 claims rest on one study
 
 ## Description and scope
 
@@ -174,6 +174,7 @@ This pattern is scoped to the shape of a mostly online course across a term. How
 - [In the online sections, exam scores correlated moderately with both online discussion participation points (r = 0.36) and other learning activities (r = 0.37)](../claims/exam-correlations-discussion-and-other-activities.md) [+W]
 - [Prior research suggests student-student interaction treatments affect online learning more than student-teacher interactions, while oral versus text presentation of information shows no difference](../claims/interaction-type-and-presentation-background-claims.md) [~W]
 - [Undergraduate students in online sections using asynchronous peer text discussion scored significantly higher on course exams than students in a classroom section using synchronous lecture-discussion (d = 0.66)](../claims/asynchronous-discussion-online-sections-higher-exam-scores.md) [+W]
+- [There was a significantly positive effect of interacting with the instructor on the Engagement variable, but no other significant effects produced by any of the social partner variables.](../claims/interacting-with-instructor-positive-effect-engagement-edutorcs.md) [+M]
 
 ## Related Patterns
 - [Blended Learning](blended-learning.md) — divides a course between online and in-person time; this pattern shapes the online course itself

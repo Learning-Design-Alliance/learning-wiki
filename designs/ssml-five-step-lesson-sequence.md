@@ -42,7 +42,8 @@ The article's SSML approach is enacted as a lesson pattern in which "students fo
 - [Ssml Higher Mpsa Enhancement Than Conventional](../claims/ssml-higher-mpsa-enhancement-than-conventional.md) [+M]
 
 ## Related Designs
-- 
+
+- [Videogame-based lesson plan pattern for early-years mathematics](lemmings-early-years-math-lesson-pattern.md)
 
 ## Examples
 -

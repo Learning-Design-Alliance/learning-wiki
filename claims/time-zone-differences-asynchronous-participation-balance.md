@@ -53,3 +53,4 @@ Interview finding from the case study. Students found asynchronous discussion cl
 - [A trend toward blended educational approaches combining synchronous and asynchronous learning activities emerged after 2019 in SBL for critical thinking](blended-sync-async-trend-sbl.md) — related
 - [Students report technical, typing, time, topic, presentation, and grouping challenges when participating in synchronous online forum discussions](ofd-implementation-challenges.md) — related
 - [Learners perceived face-to-face speaking tasks as more useful than asynchronous online tasks, citing lack of interaction and naturalness](learners-prefer-face-to-face-over-asynchronous-vt-tasks.md) — related
+- [Asynchronous voice-based MMC offers more opportunities for noticing non-target items than synchronous voice MMC](avmmc-more-noticing-than-svmmc.md) — related

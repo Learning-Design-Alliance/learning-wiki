@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 115 claims (48 for, 63 mixed, 4 against) · 91 studies (58 causal, 12 review, 10 quant-synthesis, 4 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 21 of 91 report an effect size · 106 claims rest on one study
+> **Evidence** · 116 claims (49 for, 63 mixed, 4 against) · 92 studies (59 causal, 12 review, 10 quant-synthesis, 4 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 21 of 92 report an effect size · 107 claims rest on one study
 
 ## Description and scope
 
@@ -180,6 +180,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Teacher observations and student opinions indicated relatively positive attitudes toward using animations in vocabulary learning](../claims/positive-attitudes-toward-animation-vocabulary-learning.md) [+W]
 - [Learners value classroom listening practice and prefer video or equal weighting over audio-only materials](../claims/learners-prefer-video-over-audio-materials.md) [~W]
 - [Animation-with-text CAI did not significantly outperform lecture method on solid geometry achievement](../claims/at-cai-not-significant-vs-lecture.md) [~W]
+- [EFL learners perceive captioned instructional videos as helpful for vocabulary acquisition but not as a distraction to comprehension.](../claims/captions-perceived-as-vocabulary-aid-not-distraction.md) [+W]
 
 ## Examples
 
@@ -187,6 +188,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [SOL-aligned multimedia lesson sequence for emergent bilinguals: key terms with images first, then short signaled sentences](../designs/sol-multimedia-lesson-sequence-eb.md): one setting's design applying pretraining, coherence, contiguity and signaling.
 - [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](../strategies/common-tools-ctml-lesson-workflow.md)
 - [Use multimedia and real models alongside 5E activities, and assign homework for the enter and evaluation phases to save time](../strategies/multimedia-and-homework-for-5e-phases.md)
+- [Apply slide design rules to limit text and enhance visual impact](../strategies/slide-design-rules-three-second-1-7-7-10-20-30.md)
 
 ## Related Patterns
 

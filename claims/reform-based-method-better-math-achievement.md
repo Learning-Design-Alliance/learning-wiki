@@ -47,3 +47,4 @@ Quasi-experimental pre-test randomized control group study of 119 year-one NCE s
 ## Related Claims
 - [Students taught with the reform-based instructional method retained significantly more mathematics knowledge than those taught with the traditional method](reform-based-method-better-math-retention.md) — related
 - [Tenth-grade mathematics students taught with a problem-solving approach significantly outperformed students taught by expository strategy on a post-test](problem-solving-approach-beats-expository-secondary-math.md) — related
+- [Students taught with an eclectic learning approach retained significantly more English content than students taught with a traditional learning approach.](eclectic-approach-higher-english-retention.md) — related

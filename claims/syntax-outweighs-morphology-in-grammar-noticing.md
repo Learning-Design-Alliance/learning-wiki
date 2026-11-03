@@ -57,3 +57,4 @@ In the same ten-participant think-aloud dataset, 24 syntactical LREs were identi
 - [The study tested the interaction of explicit instruction with complexity and morphology/syntax across four L2 structures](experanto-interaction-design-four-l2-structures.md) — related
 - [Lexical LREs dominate grammar-related LREs in young learners' L2 writing noticing](lexical-lres-dominate-grammar-lres-l2-writing.md) — related
 - [No differential effect of explicit instruction depending on the variable morphology/syntax](no-differential-explicit-instruction-effect-morphology-syntax.md) — related
+- [Pre-test analysis showed participants across all four groups had inadequate knowledge of English classified ads rules, writing simple sentences instead of omitting articles, conjunctions, prepositions, verbs, and pronouns.](pretest-inadequate-classified-ads-rules.md) — related

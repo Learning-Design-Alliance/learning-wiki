@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-03
 sources:
   - id: akbaş-2019
     resource: "https://doi.org/10.33403/rigeo.529139"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` One-way ANOVA on PCAAT pre-test scores found no statistically significant difference among the three groups, supporting group equivalence. [→ Akbaş 2019](#akbas-2019)
@@ -55,3 +56,7 @@ Pre-test equivalence check on the same 94-student quasi-experiment. Pre-test mea
 - [Pre-test comparison showed no significant difference between experimental and control groups before implementation](pretest-no-difference-groups.md) — related
 - [Access and public school students showed no significant difference in English scores before treatment](access-public-schools-no-pretest-difference.md) — related
 - [Experimental and control groups were statistically equivalent on solid geometry achievement before treatment](pretest-equivalence-solid-geometry-groups.md) — related
+- [Treatment and comparison groups showed no prior differences in physics and chemistry achievement before the intervention](absi-groups-equivalent-prior-achievement.md) — related
+- [The three groups were homogeneous in general proficiency and collocation knowledge before treatment](groups-homogeneous-at-pretest.md) — related
+- [Experimental and control groups showed no significant difference in English achievement before the intervention.](eclectic-approach-groups-equivalent-pretest.md) — related
+- [Experimental and control groups of pre-school children did not differ in pattern recognition skills at pre-test](preschool-pattern-groups-equivalent-at-pretest.md) — related

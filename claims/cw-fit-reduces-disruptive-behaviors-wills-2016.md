@@ -48,3 +48,7 @@ Cluster randomized controlled trial rated Meets WWC Group Design Standards Witho
 - [CW-FIT has positive effects on teacher practice, with promising WWC evidence across five studies in prekindergarten through grade 7](cw-fit-positive-effects-teacher-practice.md) — related
 - [CW-FIT substantially increases teacher praise statements but shows no statistically significant effect on some reprimand measures](cw-fit-increases-teacher-praise-not-reprimands.md) — related
 - [CW-FIT shows no significant effect on teacher ratings of problem behaviors at post-test](cw-fit-no-effect-teacher-rated-problem-behaviors.md) — related
+- [CW-FIT significantly decreases teacher reprimands](cw-fit-decreases-reprimands.md) — related
+- [CW-FIT improves general classroom management practices from about 50% to 84%](cw-fit-improves-classroom-management-practices.md) — related
+- [CW-FIT group contingency intervention significantly increases class-wide on-task behavior in elementary classrooms](cw-fit-increases-class-wide-on-task-behavior.md) — related
+- [CW-FIT significantly increases teacher praise and attention to appropriate behaviors](cw-fit-increases-teacher-praise.md) — related

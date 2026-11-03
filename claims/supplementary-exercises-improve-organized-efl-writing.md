@@ -59,3 +59,4 @@ Controlled pre/post-test pedagogical experiment in English classes in Bishkek, K
 - [Instruction in Theme Theory improves EFL students' writing coherence more than traditional form-focused writing instruction](theme-theory-instruction-improves-writing-coherence.md) — related
 - [Explicit discourse-markers instruction improves EFL learners' ability to produce cohesive and coherent text on discourse cloze tests](dm-instruction-improves-cohesive-writing.md) — related
 - [Paper-and-pencil concept mapping at the pre-writing stage significantly improved EFL students' argumentative essay performance across five writing aspects](concept-mapping-prewriting-improves-efl-argumentative-essays.md) — related
+- [Discussion-based instruction improves theme-related essay performance over basal instruction](discussion-based-instruction-improves-theme-essays-efl.md) — related

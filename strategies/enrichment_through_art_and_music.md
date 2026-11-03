@@ -63,6 +63,7 @@ Art and music function as dual-coding supports: pairing verbal content with visu
 - [Building Empathy](../principles/building-empathy.md) — engaging with diverse artistic perspectives is a core vehicle for perspective-taking
 - [Annotating](../principles/annotating.md) — students can annotate artworks, scores, or lyrics as an analysis routine
 - [Year-round integration of Black history, culture, and contributions across curriculum, environment, and programming](year-round-black-history-culture-integration.md)
+- [Lecture Method Supplemented with Music (LMM)](lecture-method-supplemented-with-music.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling how to analyze an artwork or musical piece

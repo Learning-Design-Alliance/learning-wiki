@@ -49,3 +49,4 @@ Moderator analysis by education level; the authors state the comparison focused 
 - [Robotics education most strongly enhances practical innovation ability, and the combination of creative thinking plus practical innovation ability shows the largest effect](robotics-creativity-category-differences.md) — related
 - [Robotics education has a significant positive above-moderate effect on student creativity (SMD = 0.576)](robotics-education-above-moderate-creativity-effect.md) — a broader claim this one bears on
 - [School level significantly moderates effects: AI-enabled personalized STEM education is more effective in junior and senior high school than in kindergarten](school-level-moderates-ai-stem-effects.md) — reports the opposite
+- [Gamified educational robots increase creativity in a STEM curriculum](gamified-robots-increase-stem-creativity.md) — a narrower finding that bears on this claim

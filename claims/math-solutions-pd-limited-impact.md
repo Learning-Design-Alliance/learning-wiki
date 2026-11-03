@@ -49,3 +49,4 @@ Three-year evaluation of the Math Solutions PD program in one urban district, us
 - [Prior meta-analyses report moderate positive pooled effect sizes of teacher PD on instructional practice and teacher knowledge outcomes](prior-pd-teacher-practice-meta-analyses-moderate-effects.md) — a broader claim this one bears on
 - [Prior meta-analysis reports a pooled mean effect size of 0.21 SD on student achievement for mathematics and science teacher PD and curriculum improvement interventions](pd-student-achievement-pooled-021-lynch-2019.md) — a broader claim this one bears on
 - [Teachers evaluated the PD moderately positively, and about three-quarters reported actually using what they learned in their mathematics lessons](teacher-evaluation-pd-uptake.md) — related
+- [Video-based professional development positively affects classroom interactions and assessment practices](vbpd-positive-effects-classroom-interactions.md) — reports the opposite

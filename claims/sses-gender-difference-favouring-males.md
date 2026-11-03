@@ -72,3 +72,4 @@ Same descriptive survey (N = 386): item 10, "I take the first step in making fri
 - [Male and female students differ significantly in application of Light waves, favouring males](gender-difference-application-light-waves.md) — related
 - [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — related
 - [The effect of games-based instruction on algebraic expressions achievement interacted significantly with gender, favoring male students](method-gender-interaction-algebra-games.md) — related
+- [Significant gender difference favoring male students on the e-learning subscale](gender-difference-e-learning-subscale-males.md) — related

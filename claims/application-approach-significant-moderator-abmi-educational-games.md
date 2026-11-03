@@ -70,3 +70,4 @@ Table 12 reports effect sizes by approach: ABMI d = 1.334 (k = 4), EG d = 1.280 
 - [RME combined with mathematical software yields larger effects than RME alone or RME with other methods](rme-plus-math-software-larger-effect.md) — related
 - [The effect of cooperative learning on mathematics achievement differs significantly by implemented technique, with multiple intelligence-assisted and STAD techniques largest](cooperative-technique-moderator-significant-stad-mi.md) — related
 - [The effect of games on mathematics achievement does not differ significantly by learning domain](game-math-effect-no-difference-learning-domain.md) — related
+- [Student-centred approaches (problem-based learning, guided inquiry, cooperative learning) outperformed teacher-centred methods in the reviewed studies](student-centred-methods-outperform-teacher-centred.md) — related

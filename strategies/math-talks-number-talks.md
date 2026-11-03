@@ -113,6 +113,7 @@ Math Talks operationalize [Active Learning](../principles/active-learning.md) an
 - [Discussion-Based Learning](../principles/collaborative-learning.md) — Number Talks are a tightly structured, math-specific instance
 - [Formative Assessment](../patterns/formative-assessment.md) — the routine doubles as daily evidence of student reasoning
 - [Use low-stakes, multiple-entry warm-ups like \"Which One Doesn't Belong?\" to reduce fear of wrong answers](which-one-doesnt-belong-low-stakes-warmup.md)
+- [Position students as partners in instruction and assessment](position-students-as-partners-fa.md)
 
 ## Related Elements
 - [Eliciting Student Thinking](../elements/eliciting-student-thinking.md) — the core facilitation move; the talk exists to surface reasoning

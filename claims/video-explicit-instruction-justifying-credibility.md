@@ -25,7 +25,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
-> **Design limits** · Kiili 2025: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-29)
 
 ## Subclaims
 `q2 i?` Students in both intervention conditions produced about 1.8 times more relevant justifications of overall credibility than control students after controlling for covariates; no standardized effect size was printed for this count outcome. [→ Kiili 2025](#kiili-2025)

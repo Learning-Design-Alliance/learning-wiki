@@ -55,3 +55,7 @@ Paired sample t-test on the full-captions group's PET listening pre- and post-te
 - [Keyword captions significantly improved EFL learners' general listening comprehension from pre-test to post-test](keyword-captions-improve-listening-comprehension.md) — related
 - [The no-captions control group also improved significantly in listening comprehension over the treatment period](control-group-listening-gains-without-captions.md) — related
 - [Captioning second-language videos produces large benefits for comprehension and vocabulary acquisition](captioning-second-language-videos-large-benefits.md) — a broader claim this one bears on
+- [Viewing captioned instructional videos significantly improves EFL learners' overall language proficiency compared to viewing without captions.](captions-improve-language-proficiency-efl.md) — related
+- [Viewing captioned instructional videos significantly improves EFL learners' vocabulary acquisition compared to viewing without captions.](captions-improve-vocabulary-acquisition-efl.md) — related
+- [Viewing captioned instructional videos does not significantly improve EFL learners' content comprehension compared to viewing without captions.](captions-no-effect-content-comprehension-efl.md) — related
+- [Viewing instructional videos improves EFL learners' language proficiency regardless of whether captions are present.](video-viewing-improves-proficiency-regardless-captions.md) — related

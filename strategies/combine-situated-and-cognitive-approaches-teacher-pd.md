@@ -41,7 +41,8 @@ The article recommends that teacher interventions on SRL promotion combine both 
 - [An 8-hour SRL teacher training improved teachers' self-efficacy to foster SRL and perceived SRL practice, but not student-level outcomes](../claims/srl-training-teacher-level-not-student-level-effects.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Embed SRL-promoting activities in post-secondary teacher education lessons](embed-srl-activities-teacher-education.md)
 
 ## Examples
 -

@@ -60,8 +60,10 @@ Diverse resources do their work through two mechanisms: representational (learne
 6. Invite learners to contribute or critique resources, positioning them as co-curators.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — scaffolds engagement with culturally unfamiliar materials
 - [Case-Based Learning](case-based-learning.md) — a natural vehicle for diverse, authentic cases
+- [Select theme-set resources that appeal cross-culturally and present content on students' terms](cross-cultural-theme-set-resource-selection.md)
 
 ## Examples
 - **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) — curriculum built on diverse primary sources and testimony, pairing materials with structured discussion of identity and choice.

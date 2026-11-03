@@ -45,7 +45,8 @@ The article recommends that when the goal is to increase teaching repertoires fo
 - [At pretest, teachers' application scores were significantly lower for severe than mild/moderate hypothetical cases, with no group differences or interaction](../claims/pretest-severity-effect-application.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Train teachers of students with autism on evidence-based strategies applied in the natural environment](teacher-training-evidence-based-strategies-natural-environment-autism.md)
 
 ## Examples
 -

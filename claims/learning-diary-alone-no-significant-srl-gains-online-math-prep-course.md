@@ -91,3 +91,6 @@ Planned pre-to-post gain contrasts in the randomized four-group trial: "Groups C
 - [Control-group students without the tolerance course showed essentially no change in tolerance over the academic year](control-group-tolerance-unchanged-without-course.md) — related
 - [Diary keeping significantly increases academic achievement of pre-service science teachers](diaries-increase-academic-achievement.md) — related
 - [Diary keeping significantly increases time management strategy use of pre-service science teachers](diaries-increase-time-management-strategies.md) — related
+- Students' computer self-efficacy scores declined from pre-test to post-test in both groups, and reflective diary practice did not prevent this decline. — related
+- [Online EI workshops combined with mindfulness training significantly predicted peer-assessed EI growth, while neither intervention alone did](online-ei-plus-mindfulness-significant-peer-growth.md) — related
+- [Lower achieving students who wrote weekly reflective diaries during software design achieved overall course scores statistically comparable to higher achieving students who did not.](reflective-diary-comparable-overall-scores.md) — related

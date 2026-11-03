@@ -39,6 +39,7 @@ The article recommends that educators use Duolingo and other online platforms to
 ## Related Strategies
 
 - [Vary online teaching and learning activities to counter fatigue and anxiety in lengthy online sessions](vary-online-activities-lengthy-sessions.md)
+- [Use LMS discussion boards as a low-anxiety alternative to oral recitation for L2 opinion expression](lms-discussion-board-recitation-substitute.md)
 
 ## Examples
 -

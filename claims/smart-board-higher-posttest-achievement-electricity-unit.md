@@ -55,3 +55,4 @@ Control-group quasi-experiment with two intact 7th-grade classes (experimental N
 - [SRL support modules (progress dashboard and reflection prompts) in a flipped unit produced higher SRL skills, engagement, and learning performance than control](yoon-2021-srl-modules-fc-benefits.md) — related
 - [Journal writing as a writing-to-learn activity raises fourth-grade science achievement more than regular instruction alone](journal-writing-wtl-improves-fourth-grade-science-achievement.md) — related
 - [Practical competencies-oriented teaching materials with supplementary local cases produce significantly better learning achievement than traditional lecture in a Human Resource Management unit](practical-competencies-materials-improve-learning-achievement.md) — related
+- [Inquiry-based learning yields greater achievement gains than traditional teaching in a 7th-grade science and technology course](inquiry-greater-achievement-gains-than-traditional.md) — related

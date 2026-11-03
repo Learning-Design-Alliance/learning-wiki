@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 79 claims (45 for, 31 mixed, 3 against) · 64 studies (27 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 9 of 64 report an effect size · 71 claims rest on one study
+> **Evidence** · 81 claims (46 for, 31 mixed, 4 against) · 66 studies (28 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 9 of 66 report an effect size · 73 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,7 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [Active learning activities produce higher post-test achievement than traditional direct instruction in a fifth-grade English unit](../claims/active-learning-higher-posttest-achievement-my-town-unit.md) [+W] — attached 2026-11-02 from Yenen et al. (2019), which proposed "Sustain active learning activities across the school year rather than a single unit to realize achievement gains"; tests this page's relationship.
 - [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](../claims/active-learning-permanence-effect-my-town-unit.md) [+W] — attached 2026-11-02 from Yenen et al. (2019), which proposed "Sustain active learning activities across the school year rather than a single unit to realize achievement gains"; tests this page's relationship.
 - [Observations of the JCLS experimental group showed high rates of active hands-on practice, repeated answering attempts, joyful reactions and a hedonic atmosphere](../claims/jcls-observation-indicators-high.md) [+W] — attached 2026-11-03 from Wei et al. (2011), which proposed "Give every learner an equal, fair opportunity for hands-on practice with immediate feedback".
+- [Students found argumentation-based activities fun and instructive, with experimenting the most-liked part](../claims/student-views-argumentation-activities-fun-instructive.md) [+W] — attached 2026-11-03 from Mehmet Erkol et al. (2023), which proposed "Minimize written worksheet load in argumentation activities and favor hands-on experimentation".
 
 ## Objective and learner-valued goal
 
@@ -211,6 +212,7 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [Group × pre-achievement interaction favored high achievers in the experimental group and narrowed the high–low gap](../claims/group-level-interaction-reduced-achievement-gap.md) [~W]
 - [Prior studies comparing quizzes or reflections against passive or ineffective-strategy controls do not establish which active method is more effective](../claims/active-active-comparisons-missing-from-prior-literature.md) [~W]
 - [In Study 2, the performance-task section showed significant pre/post improvement in total quantitative-reasoning scores while the No PT section did not](../claims/study2-pt-section-total-score-gains.md) [+W]
+- [The non-MLM group using TIP and JiTT pedagogies had an average normalized gain below the national average for courses not utilizing active engagement pedagogies](../claims/non-mlm-group-below-national-average-gain.md) [-W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

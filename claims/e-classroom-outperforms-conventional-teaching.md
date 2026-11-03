@@ -106,3 +106,4 @@ Quasi-experimental pre-test, post-test control group study of 80 purposively sam
 - [ICT-based teaching of Astronomy and Space Physics produced higher scientific literacy scores than traditional teaching](ict-teaching-higher-scientific-literacy-scores.md) — a narrower finding that bears on this claim
 - [Teachers reported high student motivation and self-directed learning when teaching through ICT tools](teacher-reports-high-motivation-ict-teaching.md) — related
 - [Geogebra-assisted instruction improves overall post-test scores on applications of derivative](geogebra-improves-overall-scores-applications-derivative.md) — related
+- [Teaching with educational technology innovations and techniques produces statistically significant gains in total academic achievement among pre-service teachers compared with traditional methods](edtech-innovations-increase-academic-achievement-practicum.md) — related

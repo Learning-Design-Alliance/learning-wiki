@@ -9,6 +9,7 @@ generated:
   at: 2026-10-07
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-03
 sources:
   - id: wills-2018-ontask
     title: wills-2018-ontask
@@ -22,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i2` medium
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i2` In Wills et al. (2018), the percentage of time on-task was 80.00 in CW-FIT classes versus 58.80 in comparison classes (effect size 1.38, improvement index +42, p<0.01). [→ wills-2018-ontask](#wills-2018-ontask)
@@ -50,3 +51,6 @@ Multisite randomized replication trial rated Meets WWC Group Design Standards Wi
 - [CW-FIT has positive effects on student behavior, with strong WWC evidence across six studies in kindergarten through grade 10](cw-fit-positive-effects-student-behavior.md) — a broader claim this one bears on
 - [CW-FIT has positive effects on teacher practice, with promising WWC evidence across five studies in prekindergarten through grade 7](cw-fit-positive-effects-teacher-practice.md) — related
 - [CW-FIT substantially increases teacher praise statements but shows no statistically significant effect on some reprimand measures](cw-fit-increases-teacher-praise-not-reprimands.md) — related
+- [CW-FIT improves general classroom management practices from about 50% to 84%](cw-fit-improves-classroom-management-practices.md) — related
+- [CW-FIT group contingency intervention significantly increases class-wide on-task behavior in elementary classrooms](cw-fit-increases-class-wide-on-task-behavior.md) — related
+- [CW-FIT significantly increases teacher praise and attention to appropriate behaviors](cw-fit-increases-teacher-praise.md) — related

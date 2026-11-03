@@ -68,3 +68,4 @@ Scheffe post-hoc comparisons among verbal ability groups; the article reports hi
 - [Poem-enhanced instruction produced higher posttest interest than game-enhanced and modified lecture instruction](peis-beats-geis-and-mlis-interest.md) — related
 - [Treatment and verbal ability interact significantly in their effect on students’ interest in mathematics](treatment-verbal-ability-interaction-interest.md) — related
 - [High-interest students outperformed medium- and low-interest students, while medium- and low-interest students did not differ](high-interest-beats-medium-low-medium-equals-low.md) — related
+- [High numerical ability students significantly outperformed low numerical ability students in mathematics achievement](high-numerical-ability-better-math-achievement.md) — related

@@ -48,3 +48,4 @@ Descriptive pre/post analysis of mastery learning per RBT level for the experime
 - [After traditional supportive education, completely learned students decreased in the remembering and analysis levels of the control group](traditional-supportive-education-level-declines.md) — related
 - [WBES-based supportive education produced more students achieving mastery learning across all RBT cognitive process levels than traditional supportive education](wbes-mastery-learning-all-levels.md) — related
 - [Supportive education based on WBES reports raises eighth-grade students' academic success more than traditional supportive education](wbes-supportive-education-higher-academic-success.md) — related
+- [Educational technology innovations produce significant pre-to-post gains at each of the four cognitive achievement levels (remembering, understanding, application, analysis)](edtech-gains-four-cognitive-levels.md) — related

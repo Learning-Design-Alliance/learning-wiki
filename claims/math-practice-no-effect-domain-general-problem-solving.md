@@ -52,3 +52,4 @@ Study 2 (N = 19,481), a separate random assignment within PISA 2012 to forms wit
 - [The learning benefit of mathematics test practice is larger for boys than for girls](math-practice-effect-larger-for-boys.md) — related
 - [Mathematics anxiety does not moderate the effect of mathematics test practice on subsequent performance](math-anxiety-does-not-moderate-practice-effect.md) — related
 - [Innovative learning is more effective than conventional learning for junior high school students' mathematical problem-solving ability (summary effect 0.95, 95% CI 0.71–1.19)](innovative-learning-more-effective-problem-solving-meta-analysis.md) — related
+- [PSBLW improves mathematical problem-solving ability more than direct instruction](psblw-improves-math-problem-solving-ability.md) — reports the opposite

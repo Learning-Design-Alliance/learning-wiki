@@ -48,3 +48,4 @@ Retention test following the four-week PBL algebra unit in the same quasi-experi
 ## Related Claims
 - [Male and female students taught algebra with problem-based learning show no statistically significant difference in achievement scores](pbl-no-gender-achievement-difference.md) — related
 - [Under cooperative learning instruction, there was no statistically significant gender difference in trigonometry achievement, though female students scored higher on average](cooperative-learning-no-gender-difference-trigonometry.md) — related
+- [Within-gender comparisons showed males taught with LMM scored slightly higher than males taught with LMC, while females taught with LMM scored higher than females taught with LMC.](within-gender-lmm-lmc-retention-comparisons.md) — related

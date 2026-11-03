@@ -56,3 +56,4 @@ The report's 50-state review of funding formulas found "Forty-four states curren
 - [Across 11 states with transparent student group allocation, estimated combined additional funding for dual EL/low-income students ranged from $904 per pupil in Arkansas to $16,161 in New Jersey](dual-funding-range-904-to-16161.md) — related
 - [Among LCAP planned actions referencing students in foster care in the 10 largest districts, very few were unique to foster care and an even smaller fraction of funds was](lcap-actions-rarely-unique-to-foster-care.md) — related
 - [California's 20% supplemental grant weight falls below other states' adequacy-study recommendations for English learners and at-risk students](lcff-supplemental-weight-below-adequacy-recommendations.md) — related
+- [Schools that improved under state intervention used funding and action plans differently from schools that did not improve](improved-schools-funding-action-plan-use.md) — related

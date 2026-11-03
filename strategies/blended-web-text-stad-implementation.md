@@ -45,7 +45,8 @@ The article recommends implementing STAD-type cooperative instruction with web-b
 - [Learning strategy and achiever motivation interact significantly on cognitive study outcomes](../claims/strategy-motivation-interaction-cognitive-outcomes.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Apply seven principles for blending positive aspects of web-facilitated, hybrid, and online environments in undergraduate education](seven-principles-blended-undergraduate-education.md)
 
 ## Examples
 -

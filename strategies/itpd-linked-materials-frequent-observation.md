@@ -49,6 +49,7 @@ The article recommends an in-service professional development model in which tra
 - [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
 - [Layered implementation support: initial on-site training plus follow-up modeling, observations, coaching, and monthly virtual sessions](bridge-to-reading-layered-implementation-support.md)
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
+- [Provide pre-service training courses and well-equipped listening rooms to support listening instruction](listening-training-and-equipped-rooms-strategy.md)
 
 ## Examples
 -

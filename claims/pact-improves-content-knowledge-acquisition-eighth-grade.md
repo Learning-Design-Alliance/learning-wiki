@@ -52,3 +52,4 @@ Class-randomized within-teacher RCT with 1,629 eighth-grade students in 94 secti
 - [Class-level initial reading achievement does not moderate PACT's effect on content knowledge acquisition](class-reading-achievement-no-moderation-knowledge.md) — related
 - [Teachers implemented some PACT components at medium-high fidelity but struggled with knowledge acquisition and team-based application components](pact-fidelity-component-variation.md) — related
 - [English learners scored lower than non-ELs on content knowledge and content reading comprehension in comparison classrooms](els-score-lower-than-non-els-comparison-classes.md) — related
+- [Research-based curriculum materials with curriculum-based PD produce a modest positive effect on high school science achievement relative to business-as-usual](inquiry-approach-modest-positive-achievement-effect.md) — related

@@ -51,3 +51,4 @@ Error-type analysis of drafts from the two-group experiment (control and experim
 ## Related Claims
 - [Tertiary L1 Malay learners given online corrective feedback via email outperformed the conventional corrective feedback control group on the final draft](ocf-outperforms-ccf-final-draft.md) — related
 - [Review reports that asking students to notice particular errors decreased errors in a subsequent draft without reducing overall writing quality (Chandler)](noticing-errors-decreases-errors-preserves-quality.md) — related
+- [Experimental group showed greater accuracy in discourse analysis](sct-tblt-accuracy-advantage.md) — related

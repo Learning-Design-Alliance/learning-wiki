@@ -85,6 +85,7 @@ Dialogic reading reliably improves expressive vocabulary and oral language in yo
 
 **[Dialogic Reading in Pre-K classrooms](https://www.naeyc.org)** — NAEYC guidance for teachers using small-group repeated read-alouds with wh- and distancing prompts, transitioning children to retelling by the third or fourth reading.
 - [Gradually shift the adult role from reading to listening and higher-level prompting as the child becomes familiar with a book](../strategies/gradual-shift-to-higher-level-prompts.md)
+- [Train parents to use paired reading supplemented with comprehension, fluency, and vocabulary strategies during summer book reading](../strategies/parent-paired-reading-multi-strategy-summer-program.md)
 
 ## Key Sources
 - Whitehurst, G. J., Falco, F. L., Lonigan, C. J., Fischel, J. E., DeBaryshe, B. D., Valdez-Menchaca, M. C., & Caulfield, M. (1988). Accelerating language development through picture book reading. *Developmental Psychology, 24*(4), 552–559. [doi:10.1037/0012-1649.24.4.552](https://doi.org/10.1037/0012-1649.24.4.552)

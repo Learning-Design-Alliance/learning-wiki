@@ -1,0 +1,51 @@
+---
+type: claim
+title: The three-way interaction of gender, socio-economic status, and treatment is statistically significant for mathematics achievement
+description: The three-way interaction of gender, socio-economic status, and treatment is statistically significant for mathematics achievement
+id: gender-ses-treatment-three-way-interaction-significant-math-jss
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-03
+evidence_strength: moderate
+newest_evidence: 2012
+sources:
+  - id: james-and-folorunso-2012
+    resource: "https://doi.org/10.5539/ies.v5n5p153"
+    title: "Ajogbeje Oke James & Alonge Micheal Folorunso. (2012). Effect of Feedback and Remediation on Students’ Achievement in Junior Secondary School Mathematics. International Education Studies, 5(5). https://doi.org/10.5539/ies.v5n5p153"
+    author: "Ajogbeje Oke James & Alonge Micheal Folorunso"
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# The three-way interaction of gender, socio-economic status, and treatment is statistically significant for mathematics achievement
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` The three–way interaction effect gender–SES–treatment F (3,221) = 2.657, p < 0.05 was statistically significant. [→ James and Folorunso 2012](#james-and-folorunso-2012)
+
+## Evidence
+
+### James and Folorunso 2012
+
+Ajogbeje Oke James & Alonge Micheal Folorunso. (2012). Effect of Feedback and Remediation on Students’ Achievement in Junior Secondary School Mathematics. International Education Studies, 5(5). https://doi.org/10.5539/ies.v5n5p153
+
+`q3 · i?` · `causal · r1`
+
+Quasi-experimental study of 240 junior secondary two students in three Nigerian schools. The 3 x 2 x 3 ANCOVA table reports the three-way interaction as "Gender x SES x Treatment 48.927 3 16.309 2.657* .049", a statistically significant effect at p < 0.05, indicating that the combined influence of gender, SES, and treatment on achievement is more complex than their separate main effects suggest.
+
+> "Gender x SES x Treatment 48.927 3 16.309 2.657* .049"
+
+## Discussion
+
+
+## Related Claims
+- [Gender has no significant effect on junior secondary mathematics achievement when controlling for pretest](gender-no-significant-effect-math-achievement-jss.md) — related
+- [The interaction between socio-economic status and treatment is statistically significant for mathematics achievement](ses-treatment-interaction-significant-math-jss.md) — related
+- [Socio-economic status has no significant effect on junior secondary mathematics achievement when controlling for pretest](ses-no-significant-effect-math-achievement-jss.md) — related
+- [The audio-visual intervention program affects language development similarly across high, middle and low socio-economic status levels](av-intervention-effect-not-different-by-ses.md) — related

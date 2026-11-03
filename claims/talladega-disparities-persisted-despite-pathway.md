@@ -56,3 +56,4 @@ Case-report statement of a district-acknowledged outcome: participation and achi
 - [Even districts with consistent curriculum use encountered persistent equity access gaps for multilingual learners and students with learning differences](consistent-hqim-use-does-not-guarantee-equitable-access.md) — related
 - [Large racial and socioeconomic achievement disparities persisted in an affluent high-performing district](ousd-persistent-race-class-disparities.md) — a broader claim this one bears on
 - [Novice K-12 students face multiple documented difficulties when learning STEM and CT simultaneously through learning-by-modeling, including translating domain knowledge into computational form and debugging model behaviors.](student-difficulties-learning-by-modeling-stem-ct.md) — related
+- [FA recommendations align with NCTM equitable teaching practices despite limited explicit analysis](fa-recommendations-align-nctm-equity.md) — related

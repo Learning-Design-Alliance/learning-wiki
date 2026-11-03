@@ -46,3 +46,4 @@ Mathematics post-test in the same quasi-experiment: experimental mean 11.800 (SD
 
 ## Related Claims
 - [Activating prior knowledge with Preview-and-Predict and K-W-L strategies raises English comprehension achievement in junior secondary students](prior-knowledge-activation-raises-english-achievement.md) — related
+- [Formative testing with feedback and remediation yields higher junior secondary mathematics achievement than feedback alone or test-only control](feedback-remediation-outperforms-feedback-only-math-jss.md) — related

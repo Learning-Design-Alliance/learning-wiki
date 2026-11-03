@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 106 claims (56 for, 47 mixed, 3 against) · 80 studies (33 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 22 of 80 report an effect size · 100 claims rest on one study
+> **Evidence** · 108 claims (58 for, 47 mixed, 3 against) · 82 studies (35 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 23 of 82 report an effect size · 102 claims rest on one study
 
 ## Conditional relationship
 
@@ -173,6 +173,7 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Teachers observing game-based lessons reported that authentic childhood games motivated and entertained students and eased English learning, but required strong classroom management](../claims/teacher-views-authentic-childhood-games.md) [+W] — attached 2026-11-02 from Hursen et al. (2016), which proposed "Use varied active activities, including authentic childhood games, to promote active participation in kindergarten classrooms".
 - [Interviewed Spaceteam ESL players said they spoke more English during play, and one said he stopped attending to his nervousness; the authors suggest motivation may explain a non-significant fluency trend](../claims/spaceteam-interviews-motivation-anxiety.md) [+W] — attached 2026-11-02 from Grimshaw et al. (2016), which proposed "Use time-sensitive collaborative mobile games as warm-up activities to encourage fluency development in a non-threatening environment".
 - [Vocabulary instruction with the educational marble game produced significantly higher adjusted post-test scores than traditional instruction in a German second-foreign-language course](../claims/marble-game-higher-vocabulary-posttest-than-traditional.md) [+W] — attached 2026-11-02 from Coşkun (2013), which proposed "Develop educational games with regard to educational sciences and socio-pedagogy, considering learners' languages, age, and interests"; tests this page's relationship.
+- [Daily 20-minute use of Nintendo DS handheld game consoles with Dr Kawashima's Brain Training produced significantly greater improvement in mental-maths automaticity than traditional classroom instruction over a 10-week term](../claims/hgc-brain-training-improves-mental-maths-automaticity.md) [+M] — attached 2026-11-03 from O'Rourke et al. (2017), which proposed "Embed commercially available digital games in structured daily classroom routines with teacher strategy support, rather than relegating them to separate lab settings"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -227,6 +228,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [First graders in the game group nearly all learned to identify negative integers after playing the board game, far exceeding control gains](../claims/negative-integer-identification-gains.md) [+M]
 - [Students showed strong interest and full participation during marble-game lessons, per the authors' observations](../claims/marble-game-student-interest-participation.md) [~W]
 - [Students learning a system analysis unit with a 3D game-based learning system achieve higher post-test scores than students taught by traditional face-to-face instruction](../claims/3d-game-based-learning-higher-posttest-software-engineering.md) [+W]
+- [In Year 3, students reported that their game-based coursework felt like work and play more frequently than like work (50% of the time compared to 41%).](../claims/year3-game-based-coursework-like-work-and-play-50-compared-to-41.md) [+W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

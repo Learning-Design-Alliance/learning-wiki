@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-11-03
 sources:
   - id: gambari-et-al-2015
     resource: "https://eric.ed.gov/?id=EJ1085925"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mean gain scores were 60.70 for STAD, 54.33 for LTM and 49.37 for ICI, with STAD highest. [→ Gambari et al. 2015](#gambari-et-al-2015)
@@ -50,3 +51,5 @@ Descriptive comparison of pretest-posttest mean gain scores (Table 4) in the sam
 - [All three instructional groups improved from pretest to posttest, with the blended learning group showing the highest mean gain score](mean-gain-scores-blended-elearning-traditional.md) — related
 - [Nigerian SS II physics students taught with computer-assisted STAD cooperative learning achieved significantly higher post-test scores than students taught with Individualized Computer Instruction](computer-assisted-stad-beats-ici-physics-achievement.md) — related
 - [Retention of physics content: the Results section reports a significant STAD-versus-ICI difference at p = 0.053, while the Discussion reports no significant difference in retention](stad-ici-retention-mixed-reporting.md) — related
+- [All three instructional groups showed higher academic achievement scores from pretest to posttest](all-groups-improved-academic-achievement-pre-to-post.md) — related
+- [Both Jigsaw II and ICI groups improved from pre-test to post-test, indicating both benefited from computer-assisted instruction.](both-groups-improved-cai.md) — related

@@ -43,6 +43,7 @@ The review's forward-looking recommendation addresses the inadequate reporting t
 ## Related Strategies
 
 - [Improve SBE reporting detail and involve LMIC perspectives in developing future reporting standards](improve-sbe-reporting-lmic-inclusive-standards.md)
+- [Report research methods in full detail to enable replication](report-methods-for-replication-strategy.md)
 
 ## Examples
 -

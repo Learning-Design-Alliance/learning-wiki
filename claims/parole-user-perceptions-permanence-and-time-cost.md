@@ -50,3 +50,4 @@ Semi-structured interviews with five volunteer students (high, average, and low 
 - [Parole users retained more vocabulary twelve weeks after instruction than control students](parole-software-improves-vocabulary-retention.md) — related
 - [Pre-service science teachers in the inquiry group reported both positive experiences (permanent learning, active research, cooperation) and difficulties (time demands, unreliable resources)](interview-views-on-inquiry-instruction.md) — related
 - [Teachers perceive WebQuests as supporting permanent learning, appeal, active participation, rehearsal, and daily-life association in mathematics](teacher-themes-webquest-benefits-math.md) — related
+- [Scenario-based learning through assignments was viewed as making learning more permanent](scenario-based-learning-permanent.md) — related

@@ -25,7 +25,7 @@ sources:
 # Framework of five essential supports and contextual resources for school improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 52 claims (35 for, 17 mixed) · 42 studies (24 associational, 6 qualitative, 5 review, 3 causal, 3 design, 1 quant-synthesis), `q1`–`q3` · 3 of 42 report an effect size · 50 claims rest on one study
+> **Evidence** · 53 claims (36 for, 17 mixed) · 43 studies (24 associational, 6 review, 6 qualitative, 3 causal, 3 design, 1 quant-synthesis), `q1`–`q3` · 3 of 43 report an effect size · 51 claims rest on one study
 
 ## Description
 The CCSR framework holds that five in-school supports are all essential for improving student learning: leadership acting as a catalyst, parent-community ties, professional capacity, student-centered learning climate, and ambitious instruction. Leadership is inclusive, instruction-focused, and strategic, and it stimulates the other four supports; instruction is "the single most direct factor that affects student learning," but providing it depends on strength in the other supports. The supports are anchored in contextual resources: relational trust, structural factors such as school size and student stability, and local community social capital. The framework was developed with Chicago educators in the mid-1990s and used to guide CPS school-improvement planning and self-assessment.
@@ -109,6 +109,7 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [Among school-level factors, only principal leadership and school culture correlate positively with CMSE](../claims/cmse-school-level-correlates.md) [~W]
 - [Supportive leadership increased the likelihood of transitioning to the Ambitious profile](../claims/supportive-leadership-increases-ambitious-transition-likelihood.md) [+W]
 - [The feedback intervention improved principal leadership, raising teacher-principal trust in Year 1 and both instructional leadership and trust in Year 2](../claims/feedback-improved-principal-leadership-trust.md) [+W]
+- [Strong leadership, data-informed instruction, positive school culture, and increased expectations were associated with improvement in schools undergoing state intervention](../claims/leadership-data-culture-expectations-associated-improvement.md) [+W]
 
 ## The evidence by question
 - *Are schools strong on several of the five essential supports more likely to improve student learning than schools weak on them?* [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+M]

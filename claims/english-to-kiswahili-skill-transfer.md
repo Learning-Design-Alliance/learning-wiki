@@ -47,3 +47,4 @@ Longitudinal analysis of the PRIMR tracer sample of Grade 1 pupils assessed in E
 ## Related Claims
 - [Previous non-longitudinal analyses of the PRIMR dataset reported statistically significant impacts on English and Kiswahili outcomes, with impacts ranging from .3 to .5 standard deviations.](primr-prior-impacts-point-three-to-point-five-sd.md) — related
 - [The PRIMR literacy intervention had a positive impact on Kenyan pupils' literacy outcomes, including letter sound identification fluency, oral reading fluency, reading comprehension, and the percentage of pupils reading at the Ministry of Education benchmark, though not on all combinations of language, grade, and school type.](primr-positive-impact-kenya-literacy.md) — related
+- [A multi-component literacy treatment nearly doubled the percentage of Grade 3–4 children classified as able to read compared to control](bonsaaso-treatment-doubles-reading-rate.md) — related

@@ -53,3 +53,4 @@ Meta-analysis of 16 experimental studies (2007-2017, SSCI journals) comparing AR
 - [SRL scaffolds in computer-based learning environments produce a medium, significantly positive effect on academic performance (ES = 0.438)](srl-scaffolds-positive-effect-academic-performance.md) — related
 - [Problem-based learning shows a large positive pooled effect on academic achievement (REM ES = 1.560), with heterogeneous study effects](pbl-large-positive-effect-academic-achievement.md) — related
 - [A meta-analysis of three differentiated-instruction studies reports a pooled effect of 0.729 on academic achievement whose 95% confidence interval (−3.66 to 5.12) spans zero](di-medium-positive-effect-academic-achievement.md) — related
+- [Creative thinking techniques (CTT) show a large positive effect on academic success (REM ES = 1.501)](ctt-large-effect-academic-success.md) — related

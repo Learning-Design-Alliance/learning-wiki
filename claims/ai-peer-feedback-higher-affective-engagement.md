@@ -52,3 +52,4 @@ Quasi-experimental pretest-posttest study with 122 Chinese EFL students; three o
 - [Qualitatively, AI-peer integrated feedback was associated with a broader repertoire of revision operations and more agentive cognitive strategies than peer feedback alone](ai-peer-feedback-agentive-revision-strategies.md) — related
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
 - [AI-enabled EFL teaching maps onto all three domains of Bloom's Taxonomy — cognitive, affective, and behavioral — per the review's analysis](ai-efl-blooms-taxonomy-mapping.md) — related
+- [Performance feedback significantly improves the overall teaching skills of student teachers working with students with MDVI](performance-feedback-improves-teaching-skills-mdvi-student-teachers.md) — related

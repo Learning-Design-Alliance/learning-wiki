@@ -51,3 +51,4 @@ Pearson correlation analysis among experimental-group students relating satisfac
 - [The interdisciplinary dance program significantly reduces cognitive anxiety in 8th-grade students](interdisciplinary-dance-reduces-cognitive-anxiety.md) — related
 - [The interdisciplinary dance program significantly reduces somatic anxiety in 8th-grade students](interdisciplinary-dance-reduces-somatic-anxiety.md) — related
 - [Achievement in mathematics word problems correlates positively with five attitude dimensions and negatively with anxiety](attitude-achievement-correlations-word-problems.md) — related
+- [Reading attitude, learning satisfaction, and reading effectiveness are significantly positively correlated, and reading attitude positively predicts reading effectiveness](reading-attitude-satisfaction-effectiveness-correlations.md) — related

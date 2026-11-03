@@ -48,3 +48,4 @@ Independent samples t-test on PET scores of 20 learners per group, selected from
 - [Audio-visual listening tasks produce higher oral accuracy than audio-only listening tasks for intermediate Iranian EFL learners](av-listening-tasks-higher-oral-accuracy-than-audio-only.md) — related
 - [The four groups were homogeneous in general English proficiency before treatment (placement-test ANOVA sig .881)](groups-homogeneous-placement-test.md) — related
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
+- [The three correction groups did not differ in general proficiency before treatment](correction-groups-homogeneous-proficiency-pet.md) — related

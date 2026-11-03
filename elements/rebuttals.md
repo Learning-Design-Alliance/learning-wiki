@@ -78,6 +78,7 @@ Rebuttals deepen argumentation quality because constructing a counterargument re
 **Philosophy "objections and replies" papers** — Standard academic writing assignment in which students must state the strongest objection to their own thesis and answer it, converting the rebuttal into a written genre.
 - [CRITO: a five-step method for critically assessing one's own arguments (Conclusion, Reasons, Inference, Truth, Objections)](../strategies/crito-five-step-argument-assessment.md)
 - [Use structured classroom Debate with mandatory speaking roles to build ESL learners' willingness to communicate](../strategies/structured-debate-mandatory-speaking-roles.md)
+- [Use argumentation activities built around claims, reasons, supporters and rebuttals tied to curriculum achievements, with students designing experiments](../strategies/argumentation-worksheets-claims-rebuttals-experiment-design.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). Energizing learning: The instructional power of conflict. *Educational Researcher, 38*(1), 37–51. [doi:10.3102/0013189X08330540](https://doi.org/10.3102/0013189X08330540)

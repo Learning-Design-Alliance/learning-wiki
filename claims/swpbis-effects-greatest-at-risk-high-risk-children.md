@@ -59,3 +59,4 @@ Overall moderation finding from the 4-year group-randomized effectiveness trial 
 - [Sex and special education status did not significantly moderate SWPBIS effects on teacher-rated bullying and peer rejection](swpbis-main-effects-robust-across-demographics.md) — related
 - [Recess Before Lunch policies show perceived improvements in student behavior and reduced discipline referrals, with very high risk of bias](rbl-perceived-behavior-improvements.md) — related
 - [Distributional re-analysis of the IY TCM trial reveals a general decrease in average disruptive behavior for at-risk students that the traditional mean-focused analysis did not detect](distributional-reanalysis-at-risk-decrease.md) — related
+- [Randomized controlled trials reviewed in the discussion report positive effects of SWPBIS on behavior problems, school climate, and bullying](swpbis-rct-evidence-discussion.md) — related

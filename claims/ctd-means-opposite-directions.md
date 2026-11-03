@@ -61,3 +61,4 @@ Descriptive statistics from the quasi-experiment (Table 3): control group M 51.6
 - [The experimental group's distribution across motivational levels shifted toward higher levels from pre-test to post-test while the control group's did not](experimental-group-level-shift-motivational-component.md) — related
 - [PBL teaching significantly improves the critical thinking temperament dimensions of analysis, openness and justice in English-major sophomores](pbl-improves-analysis-openness-justice-temperament.md) — related
 - [Both groups improved significantly from pre-test to post-test with no pre-existing difference between them](significant-pre-post-gains-both-esp-groups.md) — related
+- [No significant differences in critical thinking dispositions were found among PBL, B-PBL, and traditional lecture groups at pretest or posttest](no-significant-ct-disposition-differences-among-groups.md) — related

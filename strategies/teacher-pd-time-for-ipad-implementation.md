@@ -42,6 +42,7 @@ The article recommends that schools support iPad implementation through innovati
 - [Train social studies teachers and design purpose-built iPad applications to support iPad-based teaching](ipad-teacher-training-and-app-design-strategy.md)
 - [Train teachers to create educational games with iPad applications through school workshops and an application-specific teacher manual](teacher-training-ipad-game-workshops.md)
 - [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
+- [Provide institutional support for educational technology in schools: ministry provision, expert training, and a utilization manual](institutional-support-edtech-utilization.md)
 
 ## Examples
 -

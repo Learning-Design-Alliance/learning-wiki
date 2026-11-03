@@ -47,3 +47,4 @@ The review reports, citing Chen and Luh (2018), that industrial design students 
 ## Related Claims
 - [Social collaboration in authentic assessment is mostly peer- and teacher-based, with few connections to industry or community partners and rare equitable teacher-student collaboration](aa-social-collaboration-limited-community-connection.md) — related
 - [Social media usage in higher education continues to grow, and future empirical research on its educational role is warranted](social-media-growth-future-empirical-research-warranted.md) — a broader claim this one bears on
+- [Facebook-based learning significantly enhances creativity in problem solving among Islamic Studies students compared to control group](facebook-based-learning-enhances-creativity-problem-solving-islamic-studies.md) — related

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/sct-tblt-accuracy-advantage.md
+---
+
+# Revision history: [claims/sct-tblt-accuracy-advantage](../claims/sct-tblt-accuracy-advantage.md)
+
+### 2026-11-03 · ingest · process:wiki-ingest
+Ingested from eric-ej1131677 (Linking Task-Based Language Teaching and Sociocultural Theory: Private Speech and Scaffolding in Reading Comprehension) via eval_harness.py + ingest_extractions.py

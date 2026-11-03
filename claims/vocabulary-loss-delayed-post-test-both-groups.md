@@ -66,7 +66,7 @@ Paired sample t-test comparing post- and delayed-test results for the experiment
 ## Related Claims
 - [Both groups improved significantly from pre-test to immediate post-test after the one-hour cooking session, including the control group not exposed to the Digital Kitchen](cooking-task-within-group-vocabulary-gains.md) — related
 - [On the delayed test ten days later, the control group's actual delayed score exceeded the experimental group's, although the authors conclude the experimental group acquired more lexical items](digital-kitchen-delayed-test-inconsistency.md) — related
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — reports the opposite
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — reports the opposite
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — a broader claim this one bears on
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](recasts-more-enduring-than-metalinguistic-feedback.md) — related
 - [From post-test to delayed post-test the CI group showed further DCT gains while the SI group showed losses](dct-delayed-trends-ci-gains-si-losses.md) — related

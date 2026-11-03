@@ -52,3 +52,6 @@ One-way ANCOVA on CKT post-test scores with pre-test as covariate in a pre/post 
 - [Corpus-based collocation findings align with prior concordancing and data-driven learning studies](corpus-collocation-findings-consistent-with-prior-ddl-research.md) — related
 - [EFL student teachers hold positive views of concordancing for collocation learning and most intend future use](student-teachers-positive-views-concordancing.md) — related
 - [Teaching medical vocabulary through collocations produced higher posttest scores than traditional techniques in Iranian EFL medical students](collocation-instruction-outperforms-traditional-medical-vocabulary-teaching.md) — related
+- [Corpus-based collocation instruction on lexical collocations improved collocational knowledge more than learning individual words](collocation-chunks-beat-individual-words.md) — related
+- [Corpus-based DDL activities outperformed traditional activities for learning verb-adverb collocations in a Macedonian university study](ddl-collocations-daskalovska.md) — reports the opposite
+- [DDL effects are consistent under specific conditions: limited native-speaker instructors, higher-level learners, both computer- and paper-based concordancing, and vocabulary/lexicogrammar uses](ddl-effective-conditions.md) — reports the opposite

@@ -48,3 +48,4 @@ Per-question analysis of percentage answering correctly, pretest to posttest, in
 - [The cross-section question showed the highest gain for both groups, with the simulation group's gain (60%) double the paper group's (30%)](cross-section-concept-visual-gain-60-vs-30.md) — related
 - [The instruction-by-time interaction favoring the simulation group was only marginally significant (one-tailed p = 0.085, g2 = 0.05), and the main effect of instruction was not significant](interaction-marginally-significant-instruction-time.md) — related
 - [In a quasiexperiment, the interactive simulation produced a large pretest-to-posttest improvement (Cohen's d = 1.06) while the paper-based exercise produced a small-to-moderate one (d = 0.40)](simulation-large-improvement-effect-wilsim-gc.md) — related
+- [Literal-level comprehension is lower on iPad, especially for university students](literal-comprehension-lower-ipad.md) — related

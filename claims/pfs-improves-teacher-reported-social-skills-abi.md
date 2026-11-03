@@ -54,3 +54,4 @@ Cross-site RCT randomizing 126 classrooms (one target child each) to PFS or usua
 - [First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)](first-step-success-internal-behavior-substantive-nonsig.md) — related
 - [By parent report, 62% of intervention children versus 21% of controls responded or improved on ADHD symptom criteria](pfs-responder-analysis-parent-report-clinical-response.md) — related
 - [PFS reduces teacher-reported problem behavior (SSiS) in preschoolers](pfs-reduces-teacher-reported-problem-behavior.md) — related
+- [Behavioral functioning improves significantly across all intervention groups in similar magnitude](behavioral-improvement-equivalent-across-groups.md) — related

@@ -52,3 +52,4 @@ Gender-specific comparison across the two treatments, with single-gender groups 
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — related
 - [Male students taught algebraic expressions with games achieved significantly higher adjusted scores than female students](games-favor-male-algebra-achievement.md) — related
 - [Female students had higher math course grades than male students, with no interactions between gender, math anxiety, and intervention group](female-students-higher-grades-no-gender-moderation.md) — related
+- [Within-gender comparisons showed males taught with LMM scored slightly higher than males taught with LMC, while females taught with LMM scored higher than females taught with LMC.](within-gender-lmm-lmc-retention-comparisons.md) — related

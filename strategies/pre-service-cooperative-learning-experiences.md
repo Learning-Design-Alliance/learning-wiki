@@ -49,6 +49,7 @@ Because teachers without cooperative learning experience are not expected to app
 - [Implementation safeguards when applying jigsaw in laboratory courses](jigsaw-lab-implementation-safeguards.md)
 - [Embed metacognition-based applications across faculties of education during pre-service teacher training](embed-metacognition-applications-faculties-education.md)
 - [Give pre-service teachers feedback on their teaching practice through focus group discussions based on their diaries and observation records](feedback-via-focus-group-discussions-strategy.md)
+- [Organize workshops and in-service training for small groups of pre-school teachers to increase use of cooperative group work](workshops-to-increase-preschool-cooperative-group-work.md)
 
 ## Examples
 -

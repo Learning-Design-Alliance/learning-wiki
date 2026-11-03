@@ -49,3 +49,4 @@ In the same quasi-experiment of 48 Chinese English majors, the author reports th
 - [Corpus-based lexical instruction using the Wikipedia Corpus produced significantly higher lexical gains than conventional instruction for medium-level (Level II) learners.](wikipedia-corpus-medium-level-learners-significant-gains.md) — related
 - [Overall, the experimental group's posttest average was significantly higher than the control group's despite both groups declining from pretest to posttest.](wikipedia-corpus-overall-posttest-significant-advantage.md) — related
 - [Corpus-tool instruction significantly improves EFL student teachers' production of verb-noun collocations in writing, with a medium-to-large effect](corpus-tools-improve-collocation-production-writing.md) — related
+- [Corpus-based collocation instruction on lexical collocations improved collocational knowledge more than learning individual words](collocation-chunks-beat-individual-words.md) — related

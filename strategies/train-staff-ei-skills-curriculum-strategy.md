@@ -49,6 +49,7 @@ The authors recommend that school personnel be trained in emotional intelligence
 
 - [Embed EI skills explicitly in the MD curriculum or target them through professional development training](embed-ei-skills-md-curriculum.md)
 - [Social Emotional Learning Integration](social-emotional-learning-integration.md)
+- [Deliver EI workshops through a sequence covering self-awareness, empathy, and emotional detection](ei-workshop-sequence-self-awareness-empathy-detection.md)
 
 ## Examples
 -

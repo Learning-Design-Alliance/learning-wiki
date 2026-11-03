@@ -50,3 +50,4 @@ Interclass correlation from a null (no-predictor) multilevel model on the nation
 - [Teaching quality monitoring had the strongest association with faculty acceptance of online teaching, directly influencing both perceived usefulness and behavioral intention](teaching-quality-monitoring-strongest-acceptance-factor.md) — related
 - [Perceived usefulness strongly predicts faculty's behavioral intention and mediates the influence of teaching quality monitoring, with marginal mediation for strategic planning and leadership](perceived-usefulness-mediation-behavioral-intention.md) — related
 - [Leadership was not significantly related to faculty's perceived usefulness of online teaching](leadership-not-related-perceived-usefulness.md) — related
+- [Teacher-level intraclass correlations indicated 11.7% of pre-test and 40.6% of post-test ability variance lay at the teacher level](teacher-level-icc-pre-post-fractions.md) — related

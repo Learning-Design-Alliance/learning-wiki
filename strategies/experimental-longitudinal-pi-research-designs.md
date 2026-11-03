@@ -49,6 +49,7 @@ The review recommends moving beyond descriptive KAP surveys toward more robust a
 - [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 - [Develop comprehensive, standardized e-learning programs for nurses in hospitals and clinics, with standardized content and assessment tools](standardized-elearning-programs-pressure-injury-nurse-training.md)
+- [Use large-scale surveys to evaluate ethical components of professional development in assessment](large-scale-surveys-ethical-pdp-evaluation.md)
 
 ## Examples
 -

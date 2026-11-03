@@ -63,6 +63,7 @@ The strategy combines an empathy-inducing imaginative task with structured resea
 - [Case Studies](../elements/case-studies.md) — both use a specific individual or situation as a window into broader context, but this strategy foregrounds imagination and empathy over analysis
 - [Acting-Role-Play](../strategies/acting-role-play.md) — an embodied variant where learners perform the perspective rather than narrate it
 - [Use premortem analysis before implementing a reform to surface success factors and roadblocks](premortem-analysis-before-reform.md)
+- [Have participants write, draw, and physically enact their own imagined situations to deepen imagery](magid-2014-imagery-enhancement-recommendations.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the research backbone that grounds imagination in evidence

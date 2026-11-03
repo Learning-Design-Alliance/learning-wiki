@@ -48,3 +48,4 @@ Paired-sample t-test comparing pretest and posttest on the Life Education Values
 - [Blog-assisted life education instruction significantly enhances students' information literacy and competence and course satisfaction](blog-life-education-enhances-learning-effectiveness.md) — related
 - [Blog-assisted life education instruction significantly enhances students' collaborative learning attitudes and attitudes toward blog use](blog-life-education-enhances-learning-attitudes.md) — related
 - [Most students enjoyed the blog-assisted life education course, favoring film watching and blog activity as instructional methods](students-favored-blog-assisted-life-education-course.md) — related
+- [Blog activities significantly improved students’ environmental knowledge](blog-activities-improve-environmental-knowledge.md) — related

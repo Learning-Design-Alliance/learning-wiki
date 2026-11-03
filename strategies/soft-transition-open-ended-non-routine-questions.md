@@ -42,6 +42,7 @@ The authors recommend that education systems transitioning to performance-based 
 ## Related Strategies
 
 - [Support the shift from standardized testing toward diverse assessment strategies—performance-based assessments, portfolios, and experiential learning—with teacher training, resource allocation, and accountability flexibility](diverse-pog-assessment-strategies-with-teacher-support.md)
+- [Use open-ended non-routine problems as lesson starters](open-problems-as-lesson-starters.md)
 
 ## Examples
 -

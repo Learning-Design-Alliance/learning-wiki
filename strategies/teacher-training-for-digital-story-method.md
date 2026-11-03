@@ -44,7 +44,8 @@ Based on the meta-analysis findings that digital story applications have a high 
 - [Teaching level significantly moderates the digital story effect, with kindergarten showing the highest joint effect size](../claims/digital-story-effect-moderated-by-teaching-level.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Provide pre-service training courses and well-equipped listening rooms to support listening instruction](listening-training-and-equipped-rooms-strategy.md)
 
 ## Examples
 -

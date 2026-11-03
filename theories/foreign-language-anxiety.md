@@ -12,7 +12,7 @@ generated:
 # Foreign Language Anxiety
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (9 for, 2 mixed, 1 against) · 8 studies (4 review, 2 associational, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 2 of 8 report an effect size · 11 claims rest on one study
+> **Evidence** · 13 claims (9 for, 3 mixed, 1 against) · 9 studies (4 review, 3 associational, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 2 of 9 report an effect size · 12 claims rest on one study
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this
 theory: eric-ej1182973, eric-ed537603, eric-ej1117239. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -51,6 +51,7 @@ Most researchers, as Zhao et al. (2016) put it, agree that FLA "negatively influ
 - [The possibility that anxiety interferes with language learning has long interested scholars, teachers, and learners](../claims/anxiety-interferes-language-learning-long-interest.md) [+W]
 - [A unique form of anxiety experienced in response to learning or using an L2 was identified in the mid-1980s](../claims/fla-identified-mid-1980s.md) [+W]
 - [Cultural background influences emotional experiences in language learning, with collectivist-background students tending to experience heightened anxiety](../claims/cultural-background-heightened-language-anxiety.md) [~W]
+- [Test anxiety is the highest FLCA component, followed by communication apprehension and fear of negative evaluation](../claims/flca-component-ranking-test-anxiety-highest.md) [~W]
 
 ## The evidence by question
 - *Do learners who are more anxious about a foreign language achieve less in it, and for which kinds of anxiety, outcome and learner?* [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.36 across 216 effect sizes](../claims/l2-anxiety-negative-correlation-achievement-meta-analysis.md) [+M]

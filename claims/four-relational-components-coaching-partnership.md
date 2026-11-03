@@ -58,3 +58,4 @@ Requisite Relationship Components section: focus group data showed coaches empha
 - [Relational goals are associated with recognition, grouping, and classroom mutual respect practices](lao-relational-goals-targets-recognition-grouping-respect.md) — related
 - [Patients experience healthcare professionals as competent in digital counselling when they establish a reciprocal relationship built on trust, listening, and a comfortable atmosphere](patients-experience-hcp-competence-reciprocal-relationship.md) — related
 - [Journal writing with weekly teacher feedback fostered cooperative learning atmosphere and student-teacher rapport](journal-writing-builds-rapport-and-cooperation.md) — related
+- [All eight participants reported positive experiences and a new appreciation for inclusive education practices.](ipd-participants-positive-experiences.md) — related

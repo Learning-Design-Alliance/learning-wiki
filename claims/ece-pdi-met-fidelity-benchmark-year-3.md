@@ -67,3 +67,4 @@ Implementation fidelity analysis across the 4 intervention centers in Year 2. Tw
 - [ECE PDI participation showed positive but statistically non-significant effects on PreK CLASS Emotional Support, Classroom Organization, and Instructional Support](ece-pdi-class-impacts-non-significant.md) — related
 - [Repeated-measures ANOVA found no statistically significant change in any Toddler or PreK CLASS domain or dimension over 3 years, with a \"slide back\" in instructional supports in the second half](ece-pdi-class-rm-anova-null.md) — related
 - [ATC was implemented with fidelity in four of five program components in both implementation years, with little cross-site variation](atc-fidelity-four-of-five-components.md) — related
+- [Fidelity of implementation in year one was moderately high (3.9 on a scale from 1 to 5 across six components), with 96 percent of sites meeting the moderate-to-high fidelity standard](cpc-fidelity-moderately-high-year-one.md) — related

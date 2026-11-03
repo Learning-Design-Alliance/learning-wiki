@@ -73,3 +73,4 @@ In the same telemetry regression analyses, total playtime did not predict RTPJ a
 - [Improvements in empathic accuracy after Crystals gameplay were associated with strengthened amygdala–MPFC resting-state connectivity relative to Bastion](ea-gains-amygdala-mpfc-connectivity.md) — related
 - [Crystals gameplay increased DMPFC–posterior cingulate resting-state connectivity relative to Bastion, specific to the empathic accuracy-related network](crystals-dmpfc-pcc-connectivity-increase.md) — related
 - [Empathy and caring outcomes showed no notable differences between conditions by study end](ssstp-empathy-caring-null.md) — related
+- [Students in intervention groups reported greater EI skill improvements than control students in interviews](intervention-students-report-greater-ei-improvement.md) — related

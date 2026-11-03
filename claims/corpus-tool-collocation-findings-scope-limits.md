@@ -51,3 +51,5 @@ Authors' stated limitations: the study was conducted in one setting (an ELT depa
 - [Corpus-tool instruction significantly improves EFL student teachers' production of verb-noun collocations in writing, with a medium-to-large effect](corpus-tools-improve-collocation-production-writing.md) — related
 - [The experimental group's collocation scores improved significantly from pretest to posttest after corpus-based instruction](experimental-group-significant-pre-post-gain-corpus-instruction.md) — related
 - [EFL student teachers hold positive views of concordancing for collocation learning and most intend future use](student-teachers-positive-views-concordancing.md) — related
+- [Corpus-based DDL activities outperformed traditional activities for learning verb-adverb collocations in a Macedonian university study](ddl-collocations-daskalovska.md) — related
+- [DDL effects are consistent under specific conditions: limited native-speaker instructors, higher-level learners, both computer- and paper-based concordancing, and vocabulary/lexicogrammar uses](ddl-effective-conditions.md) — related

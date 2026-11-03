@@ -47,3 +47,4 @@ Supplemental growth curve models interacted weekly center-care hours with age an
 ## Related Claims
 - [The relationship between socioeconomic resources and children's cognitive development strengthens from infancy to a peak around age 4–4½, then weakens slightly by kindergarten entry.](ses-cognitive-relationship-peaks-prekindergarten.md) — related
 - [The SES–positive behavior relationship follows the same curvilinear pattern but is weaker in magnitude than the SES–cognitive relationship at every wave.](ses-behavior-relationship-weaker-curvilinear.md) — related
+- [An additional hour per day in Head Start decreases behavior problems by .052 SD for age-3 children, with no significant effect for age-4 children](head-start-hour-behavior-problems-decrease-age3.md) — related

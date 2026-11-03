@@ -53,3 +53,4 @@ Null results from the repeated measure ANOVAs (Tables 3, 4, 7, 8): Change x Prof
 - [Proactive intensive FFI benefits intermediate EFL learners' grammatical knowledge more than advanced learners'](ffi-more-beneficial-intermediate-than-advanced.md) — related
 - [CHLS self-study significantly benefited advanced-level students but not intermediate- or lower-level students](chls-benefits-advanced-learners-only.md) — related
 - [The effect of CDA-based instruction on reading comprehension is greater for intermediate than advanced proficiency students](cda-effect-greater-intermediate-than-advanced.md) — reports the opposite
+- [Integrated reading and writing instruction significantly improved integrated writing test scores for intermediate and advanced students but not beginning students](integrated-instruction-improved-writing-intermediate-advanced.md) — related

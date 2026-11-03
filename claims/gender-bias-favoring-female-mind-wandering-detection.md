@@ -52,3 +52,4 @@ Gender comparison of all latent-feature models (Table 6) in within- and cross-da
 - [Female children and adolescents recognize vocal emotions more accurately than males, with no interaction between sex and age](female-advantage-vocal-emotion-recognition-stable.md) — related
 - [Transfer-learned latent facial features support above-chance video-based mind wandering detection within a lab reading dataset, with LSTM reaching F1 = 0.459](latent-features-within-lab-mind-wandering-detection.md) — related
 - [Teachers perceived the ranking of male students to be more accurate than that of female students](gender-bias-in-dashboard-accuracy-ratings.md) — related
+- [Female students showed greater improvement than male students across all categories in both studies](gender-gap-writing-fluency-gains.md) — related

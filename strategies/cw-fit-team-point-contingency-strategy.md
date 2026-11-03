@@ -50,6 +50,7 @@ The article describes a concrete classroom routine: teachers state daily point g
 ## Related Strategies
 
 - [Implement CW-FIT as 30- to 60-minute sessions three to four times per week, fading monitoring and rewards as behavior improves](cw-fit-session-frequency-fading-strategy.md)
+- [Use CW-FIT group contingency game format with teams, points, and rewards for appropriate behaviors](cw-fit-group-contingency-game-strategy.md)
 
 ## Examples
 -

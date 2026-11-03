@@ -54,3 +54,4 @@ Quasi-experiment with two-group pretest-posttest design; experimental class used
 - [Students taught light and sound waves with guided inquiry teaching method scored significantly higher at post-test than students taught with the conventional method](gitm-beats-conventional-light-sound-waves.md) — related
 - [Problem solving strategy is more effective than the scientific approach for students' ability to solve mathematical problems](problem-solving-strategy-more-effective-problem-solving.md) — related
 - [Students taught with the scientific approach based learning program (P2BPS) achieve better generic science skills than students taught conventionally in general physics II](p2bps-improves-generic-science-skills.md) — related
+- [Student-centred approaches (problem-based learning, guided inquiry, cooperative learning) outperformed teacher-centred methods in the reviewed studies](student-centred-methods-outperform-teacher-centred.md) — related

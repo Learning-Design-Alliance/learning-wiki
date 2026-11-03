@@ -83,3 +83,7 @@ From the cluster randomized trial (Wills et al., 2016), reprimands to a group of
 - [Group-design studies show a significant main effect of self-management interventions on classroom behaviors (g = 0.63), but rest on only four studies](sm-group-design-main-effect-g063.md) — related
 - [Implementation differences between intervention and comparison classrooms emerged by the end of the intervention period](pathway-implementation-differences-emerged-late.md) — related
 - [In a multisite randomized replication trial, CW-FIT increased the percentage of time on-task in classes in kindergarten through grade 6](cw-fit-increases-on-task-behavior-wills-2018.md) — related
+- [CW-FIT significantly decreases teacher reprimands](cw-fit-decreases-reprimands.md) — related
+- [CW-FIT improves general classroom management practices from about 50% to 84%](cw-fit-improves-classroom-management-practices.md) — related
+- [CW-FIT group contingency intervention significantly increases class-wide on-task behavior in elementary classrooms](cw-fit-increases-class-wide-on-task-behavior.md) — related
+- [CW-FIT significantly increases teacher praise and attention to appropriate behaviors](cw-fit-increases-teacher-praise.md) — related

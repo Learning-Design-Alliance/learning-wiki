@@ -51,3 +51,4 @@ Quasi-experimental study with an experimental group (CE, n=30) receiving 10-week
 - [After instruction, the experimental group used proportionally fewer mood-marking Themes and more modal adjuncts, and both groups used fewer interpersonal Themes overall](interpersonal-themes-decrease-after-instruction.md) — related
 - [After instruction, the experimental group used fewer temporal and spatial marked Themes and more manner and cause marked Themes](marked-theme-subtypes-shift-after-instruction.md) — a narrower finding that bears on this claim
 - [After Theme Theory instruction, students used a broader variety of theme types, especially textual, multiple and clausal themes](posttest-theme-type-distribution-shift.md) — related
+- [Discussion-based instruction improves theme-related essay performance over basal instruction](discussion-based-instruction-improves-theme-essays-efl.md) — related

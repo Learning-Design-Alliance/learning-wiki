@@ -13,7 +13,7 @@ generated:
 # Research Data Collection Methods
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (3 for, 3 mixed, 1 against) · 7 studies (4 causal, 2 review, 1 quant-synthesis), `q2`–`q3` · 0 of 7 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (4 for, 4 mixed, 1 against) · 8 studies (5 causal, 2 review, 1 quant-synthesis), `q2`–`q3` · 0 of 8 report an effect size · 9 claims rest on one study
 
 ## Description
 People tend to change their behavior when they know they're being watched — the **Hawthorne effect**. Observational research can be done **naturalistically**, in the participants' natural environment where they are usually unaware they're being observed (reducing the likelihood of the Hawthorne effect), or in a **laboratory** setting, where the researcher can control confounding factors and distractions at the cost of ecological validity and the expense of maintaining the controlled setting. A naturalistic classroom observation loses control — a substitute teacher on the observation day, for instance, could change student behavior and skew the data — that a laboratory setting would avoid, but at the price of studying behavior somewhat removed from its natural context.
@@ -46,6 +46,8 @@ People tend to change their behavior when they know they're being watched — th
 - [Most studies reporting change in attitude or behaviour rely on student self-reports, which is not a reliable method for measuring long-term changes in attitude](../claims/self-reports-unreliable-for-attitude-change.md) [~W]
 - [PBE shows no statistically significant effect on teachers' self-reported pedagogical practices, and the survey measure may lack sensitivity](../claims/pbe-no-pedagogical-practice-effect.md) [~W]
 - [Students who experienced both methods rate live video observation as less distracting for children and more convenient than onsite observation](../claims/wave2-paired-lvo-advantages.md) [~W]
+- [In the Contrasting Cases project, treatment diffusion appeared higher on control teachers' survey responses compared with their fidelity scores from analyzed videos](../claims/cc-treatment-diffusion-survey-versus-video.md) [~W]
+- [In the Contrasting Cases project, treatment teachers' self-reported instructional practices measured by surveys and logs were significantly and positively correlated with scores from coding of their lesson videos](../claims/cc-self-report-correlated-with-video-coding.md) [+W]
 
 ## Related Elements
 

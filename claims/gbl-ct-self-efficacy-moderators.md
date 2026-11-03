@@ -74,3 +74,4 @@ Wilcoxon Signed-Rank subgroup tests in the same one-group study. Significant inc
 - [Gender showed no significant effect on test outcomes](gender-no-significant-effect-on-test-outcomes.md) — related
 - [Gender is associated with healthcare leaders' digital competence, with females' computer and patient monitoring system knowledge lower than males'](gender-associated-leaders-digital-competence.md) — related
 - [Both male and female students gained from games-based instruction, though the gain was higher for males](both-sexes-gain-from-games-males-more.md) — related
+- [Male students scored significantly higher than female students in spatial and intrapersonal intelligence](gender-differences-spatial-intrapersonal.md) — related

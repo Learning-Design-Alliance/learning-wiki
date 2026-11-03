@@ -54,3 +54,4 @@ Descriptive statistics (Table V) comparing control and experimental groups on th
 - [Form-focused instruction reduced individual variation in performance, with standard deviations in both experimental groups dropping markedly more than in the control group](form-focused-instruction-reduces-individual-variation.md) — related
 - [The enhancement activity group showed more uniform gains (lower post-test standard deviation) than the control group](enhancement-activity-lower-score-variability.md) — related
 - [Inquiry-based teaching interventions produce a statistically significant, medium-sized increase in secondary students' interest in school science and technology compared with control classes](inquiry-interventions-increase-school-science-interest.md) — related
+- [Problems related to availability of resources and teaching aids were rated medium, with an overall mean of 3.04](karak-resource-availability-problems-listening.md) — related

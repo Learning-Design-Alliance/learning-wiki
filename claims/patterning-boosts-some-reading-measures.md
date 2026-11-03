@@ -66,3 +66,4 @@ GORT results in the same study: patterning (M = 13.71, GE 2.0) was superior to m
 ## Related Claims
 - [Kindergarten follow-up shows statistically significant positive effects of Curiosity Corner on two print knowledge measures, not included in the effectiveness rating](curiosity-corner-kindergarten-followup-print-gains.md) — related
 - [Patterning and mathematics groups outperformed the other groups on Woodcock-Johnson Mathematics Concepts, and patterning exceeded the other groups on all Key Math scales except Geometry and Multiplication](patterning-boosts-math-concepts-scales.md) — related
+- [The Test Dyslexic group outperformed the Control Dyslexic group on the post-TOWRE L3 word decoding measures despite equivalent pretest performance, but did not catch up with either nondyslexic group](towre-posttest-dyslexic-outperformed-control.md) — related

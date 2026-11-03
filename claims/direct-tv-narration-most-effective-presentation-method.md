@@ -50,3 +50,4 @@ The abstract reports that "Direct TV narration, in which the instructor talked d
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — a broader claim this one bears on
 - [Live television and television recordings were about equal in their instructional effectiveness.](live-tv-and-tv-recordings-about-equal-effectiveness.md) — related
 - [Narration combined with drama or explanatory film was the most effective TV teaching method; drama alone was not very effective](narration-with-drama-or-film-best-tv-method.md) — reports the opposite
+- [Judicious use of technology, video, film and TV with captions can support FL learning, but technology use for its own sake is not advantageous](judicious-technology-use-fl-learning.md) — related

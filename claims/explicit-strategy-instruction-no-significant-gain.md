@@ -61,7 +61,7 @@ A single-classroom pre-test/post-test comparison of 10-item word problem tests f
 - [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks](gbsri-improves-thai-undergraduate-writing-scores.md) — related
 - [Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks](retrieval-practice-reading-comprehension-no-significant-retention-interval-difference.md) — related
 - [On the problem solution criterion, verbal problem solving scores do not decline over four weeks and rise on the more complex problems](verbal-problem-scores-resistant-to-forgetting.md) — reports the opposite

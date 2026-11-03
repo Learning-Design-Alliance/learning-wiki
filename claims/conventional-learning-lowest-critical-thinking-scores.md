@@ -54,3 +54,4 @@ LSD comparison of combination groups in the quasi-experiment: conventional learn
 - [The QASEE model equalizes critical thinking outcomes across upper, middle, and lower academic ability groups](qasee-equalizes-critical-thinking-across-ability-levels.md) — related
 - [Pre-service teachers taught with the QASEE model achieve higher critical thinking scores than those taught with RQA or conventional learning](qasee-higher-critical-thinking-than-rqa-conventional.md) — related
 - [The interaction between learning model and academic ability significantly affects pre-service teachers' critical thinking skills](learning-by-academic-ability-interaction-critical-thinking.md) — related
+- [Under traditional learning, high academic students' creative thinking improvement exceeded low academic students'](traditional-learning-high-academic-improve-more.md) — related

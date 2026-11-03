@@ -53,3 +53,4 @@ Random effects model analysis of 5 game-based learning studies (95% CI 0.642–2
 - [Student-centered methods have an overall positive and high-level effect on academic success in Turkish language instruction](student-centered-methods-positive-effect-turkish-instruction.md) — a broader claim this one bears on
 - [Using games in mathematics teaching has a medium positive effect (g = 0.792) on academic achievement in Turkey, per random-effects meta-analysis](game-assisted-math-medium-positive-effect-turkey.md) — related
 - [Concept mapping instruction has a very large positive effect on Turkish students' academic success compared to traditional teaching (ES=1.119)](concept-mapping-meta-analysis-turkish-academic-success.md) — related
+- [Creative thinking techniques (CTT) show a large positive effect on academic success (REM ES = 1.501)](ctt-large-effect-academic-success.md) — related

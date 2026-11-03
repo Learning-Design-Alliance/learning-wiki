@@ -65,3 +65,5 @@ Pilot quasi-experiment with four groups of Spanish B1 learners (36 English, 36 G
 - [Turkish 6th graders taught English vocabulary by phonetic association learned words faster than a control group taught conventionally in the first week](phonetic-association-faster-initial-vocabulary-learning.md) — related
 - [Literacy-based teaching methods produced significantly higher posttest grammar and vocabulary scores than normal instruction in beginning Spanish classes](literacy-methods-higher-posttest-spanish-achievement.md) — related
 - [Grade-10 EFL students taught vocabulary with PowerPoint-enhanced lessons retained more vocabulary than students in traditional lessons](ppt-vocabulary-retention-outperforms-traditional.md) — related
+- [Experimental-group students far outperformed control students on choosing the correct synonym by value and linguistic environment (36% vs 3%)](synonym-task-experimental-36-control-3.md) — related
+- [Students taught with an eclectic learning approach retained significantly more English content than students taught with a traditional learning approach.](eclectic-approach-higher-english-retention.md) — related

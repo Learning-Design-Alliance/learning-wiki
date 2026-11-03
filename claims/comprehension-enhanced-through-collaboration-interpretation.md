@@ -52,3 +52,4 @@ Authors' interpretive conclusion in the Discussion section, drawing on their own
 - [SMS use improved both vocabulary retention and reading comprehension among Iranian EFL learners relative to a control group](sms-vocabulary-retention-reading-comprehension-efl.md) — related
 - [NLP instruction significantly improves ESP reading comprehension of Iranian undergraduate EFL learners](nlp-instruction-improves-esp-reading-comprehension.md) — related
 - [Microblogging and mobile blogging promote target-language interaction, cultural understanding, and a sense of community among language learners](microblogging-promotes-interaction-community-language-learners.md) — related
+- [Discussion-based instruction improves interpretive comprehension over basal instruction in EFL college students](discussion-based-instruction-improves-interpretive-comprehension-efl.md) — a narrower finding that bears on this claim

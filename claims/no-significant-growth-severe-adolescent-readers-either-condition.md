@@ -57,3 +57,4 @@ Authors' interpretation of the repeated measures ANOVA of pre/post standard scor
 - [Higher performers outperformed struggling readers on posttest comprehension after controlling for pretest, on both WJ-III and RAPID measures](higher-performers-beat-struggling-posttest.md) — related
 - [Neither the workshop nor the one-on-one intervention affected enrollment in the following semester](academic-planning-interventions-no-persistence-effect.md) — related
 - [Repeated peer reading did not produce transferable fluency gains on the AIMSweb posttest for most struggling adolescent readers](repeated-reading-no-fluency-transfer-adolescents.md) — related
+- [The Test Dyslexic group outperformed the Control Dyslexic group on the post-TOWRE L3 word decoding measures despite equivalent pretest performance, but did not catch up with either nondyslexic group](towre-posttest-dyslexic-outperformed-control.md) — related

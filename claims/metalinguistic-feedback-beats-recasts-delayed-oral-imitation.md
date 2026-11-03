@@ -55,3 +55,4 @@ ANCOVA (pretest as covariate) on the oral imitation test, a measure of implicit 
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](recasts-more-enduring-than-metalinguistic-feedback.md) — reports the opposite
 - [Explicit instruction facilitates the acquisition of L2 grammar](explicit-instruction-facilitates-l2-grammar-acquisition.md) — related
 - [Intensive recasts and delayed explicit/metalinguistic feedback are equally effective: no significant difference between the two feedback types on oral accuracy](recasts-equal-explicit-feedback-oral-accuracy.md) — reports the opposite
+- [Explicit instruction is reported as more effective than implicit instruction for L2 grammar features](explicit-l2-grammar-instruction-superior-to-implicit.md) — related

@@ -54,3 +54,4 @@ Post-test comparison of an experimental group (mean 100.50 on language developme
 - [The four groups were homogeneous in general English proficiency before treatment (placement-test ANOVA sig .881)](groups-homogeneous-placement-test.md) — related
 - [Video-based listening instruction produced a larger score improvement than audio-based instruction in an Indonesian EFL high-school experiment](video-beats-audio-listening-gain.md) — related
 - [Keyword captions significantly improved EFL learners' general listening comprehension from pre-test to post-test](keyword-captions-improve-listening-comprehension.md) — related
+- [Viewing instructional videos improves EFL learners' language proficiency regardless of whether captions are present.](video-viewing-improves-proficiency-regardless-captions.md) — related

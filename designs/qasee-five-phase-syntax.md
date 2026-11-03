@@ -43,7 +43,8 @@ The QASEE syntax structures a lesson cycle in five phases: questioning, answerin
 - [Qasee Equalizes Critical Thinking Across Ability Levels](../claims/qasee-equalizes-critical-thinking-across-ability-levels.md) [+M]
 
 ## Related Designs
-- 
+
+- [Five-phase lesson structure for ILSC mathematics learning](ilsc-five-phase-lesson-structure.md)
 
 ## Examples
 -

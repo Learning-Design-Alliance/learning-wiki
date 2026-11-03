@@ -67,3 +67,4 @@ Scheffe post-hoc results also showed significant differences between COMVIP (74.
 - [Video-based instructional strategy produces significant post-test performance differences among cooperative, competitive, individualized, and conventional groups in geometry](video-based-strategy-posttest-differences-geometry.md) — a broader claim this one bears on
 - [Gender has no influence on performance under video-based individualized or conventional instruction in geometry](no-gender-difference-ivip-cvip.md) — related
 - [Students using cooperative CAI outperformed students using individualised CAI in biology post-test scores](cooperative-cai-beats-individualised-cai.md) — related
+- [The dictogloss group earned the highest posttest mean (32.20), with discussion (29.15) and control (27.65) groups not significantly different from each other](dictogloss-highest-posttest-mean.md) — a narrower finding that bears on this claim

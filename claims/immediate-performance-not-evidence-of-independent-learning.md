@@ -56,7 +56,7 @@ The review's analysis of its Table 1 studies: several observe an immediate answe
 | [Zara Contractor and Germán Reyes 2026](https://doi.org/10.48550/arxiv.2607.08849) | q4 · causal · r3 | i1 · small effect, 0.21 SD (not significant, p = 0.068) | [One week later, the AI-access group's lead on unaided assessments shrinks to 3.9 pp (0.21 ](genai-learning-gain-persists-one-week.md) (qualifies) |
 | [Benjamin Lira 2025](https://doi.org/10.48550/arxiv.2502.02880) | q4 · causal · r3 | i1; i2 | [Practicing cover letter writing with an AI tool improved unassisted writing skill more tha](ai-practice-improved-writing-skill-persisted-one-day.md) (qualifies) |
 | [Bergh 2026](https://doi.org/10.48550/arxiv.2609.21194) | q3 · causal · r2 | i2 | [The retention gap persisted at 48 hours with no differential forgetting between groups (39](chatgpt-lower-48h-retention-no-differential-forgetting.md) (qualifies) |
-| [Zingaretti et al. 2026](https://doi.org/10.22599/jesla.152) | q2 · causal · r1 | i? | [Gains from an intensive period of second-language study persist for weeks without rehearsa](l2-fluency-gains-persist-weeks-without-practice.md) (qualifies) |
+| [Zingaretti et al. 2026](https://doi.org/10.22599/jesla.152) | q2 · causal · r1 | i? | [Gains from a one-week intensive second-language course held at a three-week follow-up with](l2-fluency-gains-persist-weeks-without-practice.md) (qualifies) |
 | [Cheng 2009](https://doi.org/10.64152/10125/66828) | q3 · causal · r2 | i? | [Vocabulary retention declines between immediate and first delayed recall, then rises sligh](vocabulary-forgetting-pattern-decline-then-rise.md) (qualifies) |
 <!-- synthesis:end -->
 
@@ -68,7 +68,7 @@ The review's analysis of its Table 1 studies: several observe an immediate answe
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development](ai-substitution-impedes-long-term-skill-development.md) — a broader claim this one bears on
 - [Among GPT-assisted students, proactive and critical engagement patterns are associated with higher exam scores while limited engagement shows little benefit relative to control](proactive-critical-ai-engagement-higher-exam-scores.md) — related
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [AI-induced gains are not purely delegation: treated participants do not perform worse once AI is removed, and lower-education participants retain part of their gain, though a 0.200 SD gap re-emerges](ai-gains-carry-over-followup-not-pure-delegation.md) — related
 - [One week later, the AI-access group's lead on unaided assessments shrinks to 3.9 pp (0.21 SD), short of statistical significance (p = 0.068)](genai-learning-gain-persists-one-week.md) — related
 - [Agentivism generates six empirically testable propositions linking delegation structure, verification, reconstruction, and reduced-support transfer to learning outcomes](agentivism-six-testable-propositions.md) — a narrower finding that bears on this claim

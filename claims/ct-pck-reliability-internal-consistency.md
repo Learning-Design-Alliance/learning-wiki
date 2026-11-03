@@ -61,3 +61,4 @@ Reliability analysis of the 16-item survey using pooled responses from 102 teach
 - [The 20-item attitude towards statistics scale showed acceptable Rasch fit and reliability, supporting a unidimensional construct](ats-scale-rasch-fit-unidimensional.md) — related
 - [The Chemistry Achievement Test used showed a KR-20 reliability of 0.78](cat-instrument-kr20-0-78.md) — related
 - [The 60-item grammar post-test showed KR-21 reliability of 0.94 and a moderate criterion-related validity correlation of 0.41 with the Nelson grammar total](posttest-reliability-validity-kr21-nelson-correlation.md) — related
+- [The Basic Technology Achievement Test (BTAT) showed reliability coefficients of 0.84 (KR-21) and 0.88 (KR-20)](btat-reliability-coefficients.md) — related

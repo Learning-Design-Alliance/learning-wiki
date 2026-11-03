@@ -70,3 +70,4 @@ Review synthesis of the four experimental engagement studies. Three (Yang & Chan
 - [Web 2.0 technologies (wikis and blogs) show a positive, moderate pooled effect on academic performance (E++ = 0.740) across 19 quasi-experimental studies](web20-pooled-effect-academic-performance-0740.md) — related
 - [Blogging was perceived as useful for venting emotions and providing social support between peers in most studies](blogging-social-support-venting-emotions.md) — related
 - [Experimental studies found no significant increase in students' knowledge from blogging in three separate studies](experimental-studies-no-significant-knowledge-increase.md) — related
+- [Blog activities did not improve students’ interest in environmental problems](blog-activities-not-improve-environmental-interest.md) — related

@@ -54,3 +54,4 @@ Transcript analysis of recorded SL and face-to-face role-plays counting concepts
 - [Human-human L2 dialogue has more and shorter turns while AI dialogue has fewer, longer turns with more words per turn](ai-dialogue-fewer-longer-turns-l2.md) — related
 - [Interactive engagement requires both partners' utterances to be primarily constructive and a sufficient degree of turn taking](interactive-requires-constructive-turn-taking.md) — a broader claim this one bears on
 - [The number of conversational turns is more closely associated with children's language skills and language-related brain function than the raw number of words heard, regardless of family income or education.](conversational-turns-predict-language-development.md) — related
+- [Experimental group showed greater fluency in discourse analysis](sct-tblt-fluency-advantage.md) — related

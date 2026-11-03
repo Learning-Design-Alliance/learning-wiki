@@ -48,3 +48,5 @@ Fidelity observations of each intervention group in fall and spring using checkl
 - [PFS was implemented with high coach and teacher fidelity and child compliance, but parent compliance was low](pfs-implementation-fidelity-high-parent-compliance-low.md) — related
 - [Implementation fidelity was defined as at least 85 percent student enrollment and at least 50 percent grade-level content coverage in ST Math](st-math-fidelity-definition-85-enrollment-50-coverage.md) — related
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — related
+- [Fidelity of implementation in year one was moderately high (3.9 on a scale from 1 to 5 across six components), with 96 percent of sites meeting the moderate-to-high fidelity standard](cpc-fidelity-moderately-high-year-one.md) — related
+- [Parents in the intervention implemented reading strategies far more than control parents, who seldom used them spontaneously](parent-strategy-implementation-fidelity-summer-reading.md) — related

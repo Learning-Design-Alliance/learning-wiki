@@ -47,3 +47,4 @@ Quasi-experimental comparison among Honors RAVE, RAVE, and control seventh grade
 ## Related Claims
 - [The direct route—explicitly applying bound-root meanings—was the most common morphological problem-solving strategy for all groups, and RAVE and Honors RAVE students used it more frequently than control students](direct-route-bound-roots-intervention-higher-rate.md) — related
 - [The intervention produced a large treatment effect on sixth graders' recognition of taught bound roots](large-treatment-effect-root-recognition-grade-6.md) — related
+- [RAVE instruction enhances middle school students' knowledge of academic words on a researcher-designed measure](rave-improves-word-knowledge-year1.md) — related

@@ -57,3 +57,4 @@ Children were semi-randomly assigned to work with a (grand)parent or a stranger,
 - [Listen/understand negatively affected dyads' appropriateness, while Extend/revise's negative effect became insignificant once Inviting behavior was controlled](listen-understand-reduces-appropriateness.md) — related
 - [Perspective taking increases the creativity of dyadic interactions](perspective-taking-increases-dyad-creativity.md) — a broader claim this one bears on
 - [In young students' collaborative PF, dyads that produced more constructive utterances generated more solution ideas](constructive-utterances-solution-ideas-correlation.md) — related
+- [Cognitive conflict from differing group opinions motivates students to revise their ideas in ILSC learning](cognitive-conflict-drives-idea-revision-ilsc.md) — related

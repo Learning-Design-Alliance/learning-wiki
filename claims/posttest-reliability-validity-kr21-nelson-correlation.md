@@ -50,3 +50,4 @@ Pilot study and correlational procedures checked the post-test: KR-21 reliabilit
 - [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](ct-pck-reliability-internal-consistency.md) — related
 - [The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation](yunyi-human-agreement-varies-by-dimension.md) — related
 - [The study's teacher-made tests showed high reliability and criterion validity against NELSON](teacher-made-grammar-tests-reliability-validity.md) — related
+- [The Basic Technology Achievement Test (BTAT) showed reliability coefficients of 0.84 (KR-21) and 0.88 (KR-20)](btat-reliability-coefficients.md) — related

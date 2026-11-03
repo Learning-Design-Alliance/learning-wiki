@@ -49,3 +49,4 @@ Post-test comparison in the quasi-experimental pre-test-post-test study of 30 pr
 - [Teachers in the SRL-AIDE program showed greater pre-to-post gains than a comparison group in both the explicitness and duration of their in-class SRL practices](srl-aide-greater-gains-explicitness-duration.md) — related
 - [In the SRL-AIDE group, MCS explicitness showed a larger pre-post gain (d = 2.08) than KC explicitness (d = 1.03), and SRL-AIDE's KC gain exceeded the comparison group's (d = 1.03 vs d = 0.31)](mcs-explicitness-effect-size-d208.md) — related
 - [Explicit instruction in reading strategies was essential to bring about increased use of reading strategies by experimental-group learners](explicit-instruction-increases-reading-strategy-use.md) — related
+- [Professional development workshops and instructional support interventions positively impact teachers' performance in standard assessments](pdp-workshops-isi-positive-impact-standard-assessments.md) — related

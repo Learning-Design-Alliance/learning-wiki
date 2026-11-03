@@ -71,3 +71,4 @@ The synthesis reports that autonomy and meaningful goals improve intrinsic motiv
 - [Autonomy-supportive versus controlling instructions have limited main effects, enhancing autonomy satisfaction only](instructional-style-main-effect-limited-autonomy-satisfaction.md) — related
 - [Providing meaningful choice during a lesson increases perceived autonomy and triggered situational interest in undergraduates learning statistics](choice-increases-autonomy-triggered-situational-interest.md) — a narrower finding that bears on this claim
 - [Students perceive DPBL tasks as providing ownership, autonomy, and flexibility](dpbl-tasks-ownership-autonomy-flexibility.md) — a narrower finding that bears on this claim
+- [Free choice of book motivated students to read more and gain more enjoyment](rsa-free-book-choice-motivates.md) — a narrower finding that bears on this claim

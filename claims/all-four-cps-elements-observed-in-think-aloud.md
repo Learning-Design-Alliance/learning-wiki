@@ -48,3 +48,4 @@ Qualitative think-aloud study in which 13 fourth graders (M age = 9.08) complete
 ## Related Claims
 - [No think-aloud student showed 'appraising tasks' utterances, though all showed 'designing process' utterances within planning your approach](appraising-tasks-absent-designing-process-present.md) — a narrower finding that bears on this claim
 - [The sequence of creative problem solving processes varied across students, with most students showing non-linear, iterative ordering](cps-process-sequences-varied-nonlinear.md) — a narrower finding that bears on this claim
+- [Word cloud analysis prompted qualitative changes in student thinking including objective analysis and purposeful reflection](word-clouds-prompt-changes-in-thinking.md) — related

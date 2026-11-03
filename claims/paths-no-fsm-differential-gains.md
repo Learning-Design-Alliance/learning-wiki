@@ -55,3 +55,4 @@ Sub-group analyses of the same cluster-RCT compared FSM-eligible pupils with the
 - [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals, despite a marginal group-by-FSM interaction](grammar-for-writing-fsm-subgroup-no-differential-benefit.md) — related
 - [Neither intervention had a significant impact on the FSM pupil sub-group, though the literacy intervention showed a significant positive interaction with FSM status](fsm-subgroup-null-literacy-fsm-interaction.md) — related
 - [For children eligible for free school meals, SPOKES showed no evidence of an impact on literacy or social and emotional outcomes](spokes-no-fsm-impact.md) — related
+- [Educational impacts of Family Rewards for high school students differed by baseline academic proficiency, with no impacts for unprepared students and strong impacts for better-prepared students](family-rewards-high-school-impacts-by-baseline-proficiency.md) — related

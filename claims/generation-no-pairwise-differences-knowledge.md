@@ -49,3 +49,4 @@ Post hoc GAMLj pairwise analyses from the same 23-participant study, reported al
 - [Generation as the sole desirable difficulty produced no detrimental effect on L2 vocabulary recall, in contrast to prior short-term findings](generation-no-detriment-l2-recall.md) — a broader claim this one bears on
 - [Generation tasks show no significant overall treatment effect on L2 vocabulary Knowledge scores compared with baseline non-generative tasks](generation-no-overall-knowledge-effect-l2-vocabulary.md) — possibly the same claim (merge candidate)
 - Multiple comparison adjustments are needed when conducting hypothesis tests across pairwise contrasts to identify the most effective interventions — a broader claim this one bears on
+- [The intervention group's mean RCI was -.03 and the comparison group's was .17, with no significant effect in either group.](ipd-no-significant-group-effect.md) — related

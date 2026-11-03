@@ -55,3 +55,5 @@ Retention Test administered about two weeks after the lessons to the same 45 com
 - [Students report rarely reading their physics textbooks, with half claiming never to have used it in an entire semester](students-rarely-read-textbook.md) — related
 - [The video-group advantage grew to almost 8 points on a retention assessment taken two weeks later](multimedia-prelectures-higher-retention-two-weeks.md) — related
 - [The advantage of the modified-plus-abstract pictured letters method persisted on a follow-up test administered after two weeks without intervention](pictured-letters-mnemonics-follow-up-retention.md) — related
+- [Students completing multimedia learning modules before tutorials achieve significantly higher normalized learning gains on the CSEM than students preparing via textbook reading and lecture](mlm-preparation-higher-csem-normalized-gain.md) — related
+- [Students completing multimedia learning modules score between 8 and 9% higher on mid-term examinations covering electrostatics and electromagnetism than non-MLM students](mlm-preparation-higher-exam-scores.md) — related

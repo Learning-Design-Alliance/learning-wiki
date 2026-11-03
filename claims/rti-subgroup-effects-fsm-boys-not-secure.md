@@ -52,3 +52,4 @@ Sub-group analyses of the NGRT post-test in the same trial (FSM-eligible n=96, +
 - [FSM-eligible pupils receiving ReflectED made an average of two months' additional progress in maths, a result the report flags as less secure than the findings for all pupils](reflected-fsm-subgroup-maths-progress.md) — related
 - [Any English benefit of the summer school extended to FSM-eligible pupils and boys, with no apparent benefit in maths for these groups](future-foundations-english-benefit-boys-fsm.md) — related
 - [Pupils in both interventions achieved higher growth mindset scores than controls, but with low security](mindset-scores-higher-low-security.md) — related
+- [Small effects were found for Factor 2 (d=.33) and Factor 4 (d=.26) in the intervention group.](ipd-factor2-factor4-small-effects.md) — related

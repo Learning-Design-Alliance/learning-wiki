@@ -48,3 +48,4 @@ Between-groups post-test t-test analysis of ITBS science standard scores for 208
 - [SWH treatment produced a moderate pre-post effect size (d = 0.740) versus a small effect (d = 0.260) for comparison instruction, and a moderate between-group effect (d = 0.400)](swh-effect-sizes-moderate-vs-small.md) — related
 - [Both SWH treatment and comparison groups showed significant pre-to-post growth in ITBS science scores, with larger mean gains in the treatment group](swh-within-group-prepost-gains-swd.md) — related
 - [Treatment and comparison groups showed no significant difference on pre-intervention ITBS science scores](swh-pretest-equivalence-no-significant-difference.md) — related
+- [Both groups showed significant growth from pre-test to post-test on all four assessments](both-groups-significant-growth-all-assessments.md) — related

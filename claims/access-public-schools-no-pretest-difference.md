@@ -52,3 +52,4 @@ Independent sample t test on pre-test scores (Table 6) of 200 Access students (M
 - [Before treatment, demonstration-method and conventional-approach students show no significant difference in financial accounting achievement](no-pretest-difference-demonstration-conventional-financial-accounting.md) — related
 - [The two groups did not differ significantly in listening ability at pretest, supporting group homogeneity](pretest-homogeneity-listening-groups.md) — related
 - [No statistical gender difference appeared in pre-test or comparison scores in either control group](no-gender-difference-vocabulary-test-controls.md) — related
+- [Experimental and control groups showed no significant difference in English achievement before the intervention.](eclectic-approach-groups-equivalent-pretest.md) — related

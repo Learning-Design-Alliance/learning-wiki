@@ -54,3 +54,4 @@ Structural equation model (maximum likelihood estimation) on the 3003-teacher su
 - [AI technological support is positively associated with innovative competence at all quantiles, with stronger associations at medium-to-high competence levels](ai-technological-support-rising-quantile-pattern.md) — related
 - [SEM shows software interface and content design positively and directly influence learning attitude and self-awareness learning results, and learning attitude influences results](sem-interface-design-attitude-self-awareness.md) — related
 - [The ethical foundation directly influences effective communication, personal mastery, and authentic collaboration in the holistic leadership model.](ethical-foundation-direct-causal-influence.md) — related
+- [Supportive coaching had no direct impact on technology integration strategies due to standardized testing](coaching-no-direct-impact-tech-integration.md) — related

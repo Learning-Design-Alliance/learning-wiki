@@ -54,3 +54,4 @@ Same regression model as H1 (Model 1, Table 4). The article prints the ordering 
 - [Experts do not exhibit higher levels of reflexivity than novices, consistent with reflexivity as a meta-cognitive competence](experts-not-higher-reflexivity-than-novices.md) — related
 - [Uncertainty in challenging tasks was linked to meta-reflexive deliberation about improving one's own learning](task-uncertainty-triggers-meta-reflexivity.md) — related
 - [Epistemological beliefs relate to tolerance of uncertainty: evaluativist approaches pair better with uncertainty in problem-solving than absolutist ones](epistemological-beliefs-uncertainty-tolerance.md) — related
+- [Lack of tolerance of ambiguity impedes textual and situational context analysis](ambiguity-intolerance-impedes-context-analysis.md) — related

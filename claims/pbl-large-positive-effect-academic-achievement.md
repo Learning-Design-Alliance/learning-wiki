@@ -68,3 +68,4 @@ Random-effects meta-analysis of five PBL studies; pooled ES 1.560 (95% CI 0.768�
 - [Effect sizes across intervention studies are highly heterogeneous (I² = 85 for learning performance, I² = 69 for academic emotion)](academic-emotion-effect-heterogeneity-high.md) — related
 - [PBL is not statistically superior to conventional teaching for problem-solving in first-year students (p = 0.47), with the pooled effect tending toward conventional teaching](pbl-not-superior-problem-solving.md) — related
 - [Included PBL studies show very high heterogeneity, limiting generalizability of pooled effect sizes](pbl-meta-analysis-high-heterogeneity-limits-generalizability.md) — related
+- [Creative thinking techniques (CTT) show a large positive effect on academic success (REM ES = 1.501)](ctt-large-effect-academic-success.md) — related

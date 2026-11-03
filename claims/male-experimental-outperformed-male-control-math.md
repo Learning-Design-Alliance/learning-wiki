@@ -51,3 +51,4 @@ Independent-sample t-test comparing male students across conditions (40 experime
 - [Female students in the group learning group significantly outperformed female students in the conventional group on the mathematics post-test](female-experimental-outperformed-female-control-math.md) — related
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — related
 - [Group learning produced significantly higher mathematics achievement than conventional teaching among rural grade-nine students after a 15-week intervention](group-learning-beats-conventional-math-rural-secondary.md) — a broader claim this one bears on
+- [Female students significantly outperformed male students in mathematics achievement](female-students-outperform-males-math-achievement.md) — related

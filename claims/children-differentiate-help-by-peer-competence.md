@@ -68,3 +68,4 @@ Study 3 (N = 41, ages 7–9) replicated the design with a math quiz and an empha
 - [Perceived niceness does not explain children's competence-based differentiation in helping](niceness-does-not-drive-differentiated-helping.md) — related
 - [Children aged 6–9 think peers who receive hints will learn more than peers who receive correct answers](children-hint-recipients-learn-more.md) — related
 - [Children's mindsets about competence showed little relation to their differentiated helping, with one small opposite-direction exception](mindsets-little-impact-on-childrens-helping.md) — related
+- [Student-focused reflection instructions before answering led academics to give less advice than teacher-focused instructions](student-focus-reflection-less-advice.md) — related

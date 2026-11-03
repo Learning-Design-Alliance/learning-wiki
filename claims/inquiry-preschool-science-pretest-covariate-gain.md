@@ -12,7 +12,7 @@ newest_evidence: 2016
 sources:
   - id: dejonckheere-2016
     resource: "https://eric.ed.gov/?id=EJ1109852"
-    title: "Dejonckheere, P. J. N., De Wit, N., Van de Keere, K., & Vervaet, S. (2016). Exploring the classroom: Teaching science in early childhood. International Electronic Journal of Elementary Education, 8(4), 537-558. https://eric.ed.gov/?id=EJ1109852"
+    title: "Dejonckheere, P. J. N., De Wit, N., Van de Keere, K., & Vervaet, S. (2016). Exploring the classroom: Teaching science in early childhood. International Electronic Journal of Elementary Education, 8(4), 537-558. https://eric.ed.gov/?id=EJ1109852."
     author: "Dejonckheere, P. J. N., De Wit, N., Van de Keere, K., & Vervaet, S."
     q: 2
     i: 3
@@ -33,7 +33,7 @@ sources:
 
 ### Dejonckheere 2016
 
-Dejonckheere, P. J. N., De Wit, N., Van de Keere, K., & Vervaet, S. (2016). Exploring the classroom: Teaching science in early childhood. International Electronic Journal of Elementary Education, 8(4), 537-558. https://eric.ed.gov/?id=EJ1109852
+Dejonckheere, P. J. N., De Wit, N., Van de Keere, K., & Vervaet, S. (2016). Exploring the classroom: Teaching science in early childhood. International Electronic Journal of Elementary Education, 8(4), 537-558. https://eric.ed.gov/?id=EJ1109852.
 
 `q2 · i3` · `causal · r1`
 
@@ -48,3 +48,5 @@ An ANCOVA with pre-test exploratory scores as covariate found "the effect of the
 - [NBA Math Hoops math gains are larger for students entering with stronger incoming math scores, with no significant variation by gender, IEP status, or incoming SEL](nba-math-hoops-greater-gains-stronger-incoming-math.md) — related
 - [Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge](pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet.md) — related
 - [Lower-SES children showed greater pre-to-post gains in on-task self-regulation than higher-SES children](low-ses-children-greater-on-task-self-regulation-gains.md) — related
+- [Inquiry-based science activities increased spontaneous exploratory play in preschoolers relative to controls](inquiry-based-science-increases-preschool-exploratory-play.md) — related
+- [Lower pretest exploratory levels predicted greater gains, but the group difference in this relationship was not significant](pretest-levels-predict-gain-not-significant-interaction.md) — possibly the same claim (merge candidate)

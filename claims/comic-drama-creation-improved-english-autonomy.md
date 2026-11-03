@@ -67,3 +67,4 @@ In the same SCP study, a questionnaire on learner autonomy and ownership was adm
 - [Creating 3D virtual worlds in the Build & Show platform enhanced fifth graders' learning autonomy over four months](build-and-show-enhanced-autonomy.md) — related
 - [Cooperative storytelling tasks outperformed individual tasks across performance, autonomy, anxiety, and emotion measures](cooperative-storytelling-outperformed-individual.md) — related
 - [A mobile multimedia learning system improved EFL students' posttest performance, and cooperative tasks outperformed individual tasks](mmls-outperformed-conventional-efl.md) — related
+- [Collaborative online comic creation improved Mandarin vocabulary performance significantly more than individual online comic creation or paper-based comic creation](collaborative-online-comics-improve-mandarin-vocabulary.md) — related

@@ -84,3 +84,4 @@ In the same duration moderator analysis, the 1–7 day group showed a small, non
 - [Training durations varied widely, most commonly 1–5 days/sessions (22%), ranging from one-off lectures to content embedded across four-year degrees](cst-duration-variation-one-to-five-days-common.md) — related
 - [ITS effect sizes decrease as intervention duration increases](its-effects-decrease-longer-duration.md) — related
 - [Repeated use of picture story books in a short time reduced student enthusiasm by the fifth meeting](picture-story-book-frequency-boredom-effect.md) — related
+- [Short improv exposure (under 10 hours) produced gains consistent with meta-analytic findings that moderate drama instruction durations are most effective](short-exposure-sufficient-gains.md) — related

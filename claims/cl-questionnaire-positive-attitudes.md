@@ -53,3 +53,4 @@ End-of-semester questionnaire given to the 52 experiment-class students, ten ite
 - [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related
 - [Before the treatment, students held an overall negative attitude toward listening](pretest-negative-attitude-toward-listening.md) — reports the opposite
 - [Student-based instruction enhanced students' attitudes toward probability relative to teacher-based instruction](student-based-instruction-enhanced-probability-attitudes.md) — related
+- [Teachers' initially negative attitudes toward pre-school cooperative group work changed positively after implementation](teacher-attitudes-toward-cooperative-learning-improve-after-implementation.md) — related

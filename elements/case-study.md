@@ -13,7 +13,7 @@ generated:
 # Case Study
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 16 studies (7 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 4 of 16 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 17 studies (8 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 5 of 17 report an effect size · 4 claims rest on one study
 
 ## Description
 A case study presents learners with a rich, realistic scenario — a business decision, a patient presentation, a legal dispute — that they must analyze, discuss, and resolve using concepts from the domain. The case functions as an authentic problem context: learners bridge theory and practice by deciding what matters, what principles apply, and what to recommend, rather than receiving those judgments pre-packaged.
@@ -56,6 +56,7 @@ Case studies situate abstract concepts in a concrete, messy context, which suppo
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The Business Case Discussion gives admissions readers evidence of applicants' business mindsets, defined as cognitive and intrapersonal skills rather than business expertise](../claims/business-case-discussion-reveals-business-mindsets.md) [~W]
+- [Video cases increase the number of design patterns from the pattern language 'Teaching' that pre-service teachers mention in written advice.](../claims/video-cases-increase-pattern-language-teaching.md) [+W]
 
 ## The evidence by question
 

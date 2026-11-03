@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-03
 sources:
   - id: tran-2019
     resource: "https://doi.org/10.5430/ijhe.v8n5p12"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group scored significantly higher than the control group on control of learning beliefs and self-confidence and belief for learning and performance at post-test. [→ Tran 2019](#tran-2019)
@@ -58,3 +59,4 @@ Post-test independent t-tests (n = 36 per group) on expectancy components: contr
 - [No significant pre-test differences existed between the cooperative learning and lecture-based groups on any motivational component](no-pretest-motivation-differences-groups.md) — related
 - [Students' extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy decreased after traditional instruction for the gas unit](traditional-instruction-decreases-motivation-subscales.md) — related
 - [PBL group pre-service teachers report higher self-confidence, self-efficacy, and intrinsic motivation than LBCC peers](pbl-affective-attainments-motivation.md) — related
+- [Experiencing cooperative learning in initial teacher training raises pre-service teachers' expectancy of CL success more than conceptual training alone](cl-experience-raises-expectancy-of-success.md) — related

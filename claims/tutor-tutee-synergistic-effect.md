@@ -51,3 +51,4 @@ This is the authors' interpretation (type e) of their randomized experiment: the
 - [In a thermodynamics course, pairs working with a tutorial dialogue agent learned about 1.24 standard deviations more than students working alone, with partner and agent support synergistic rather than redundant](agent-plus-partner-synergy-1-24-sd.md) — related
 - [In math problem solving, a tutor LLM alone significantly improved unassisted test accuracy over no-agent control, while peer-like error agents alone did not reach significance](tutor-alone-significant-peers-alone-not-math.md) — related
 - [Teachers perceived lower ability students benefited most from the paired reading programme, in both tutor and tutee roles](lower-ability-students-benefited-most-peer-tutoring.md) — related
+- [Tutees attribute their learning during peer tutoring to significant materials, direct and adjusted help from tutors, and dialogue between partners](focus-group-tutee-learning-causes.md) — related

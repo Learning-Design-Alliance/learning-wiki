@@ -69,3 +69,4 @@ Narrative review attribution: the article reports the Valiandes and Neophytou (2
 - [Prompting strategies for activating deep learning alone are insufficient for preserving a long-term learning advantage](deep-prompt-advantage-fades-at-follow-up.md) — related
 - [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](fifty-hours-content-specific-pd.md) — related
 - [Passive dissemination approaches are generally ineffective and unlikely to result in professional behavior change](passive-dissemination-ineffective-provider-behavior.md) — related
+- [Professional development programs improve teachers' classroom assessment practices and skills](pdp-improves-teacher-assessment-practices.md) — related

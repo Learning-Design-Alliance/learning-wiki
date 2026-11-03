@@ -50,3 +50,4 @@ The report's partnership analysis covers the Kindezi and PBS school partnerships
 - [The first-year APS Turnaround Strategy evaluation reports implementation and impact findings focused on High Impact Tutoring and PBS operation of Thomasville Heights Elementary](aps-turnaround-first-year-report-scope.md) — related
 - [There is little evidence that math and reading specialists, one Turnaround Strategy component in targeted schools, had an impact on academic outcomes](aps-specialist-support-little-impact-evidence.md) — related
 - [The Uncommon Schools whole-school model, typically built from the earliest grades in new schools, produced substantial positive achievement effects when applied in a turnaround setting](uncommon-model-effective-turnaround-setting.md) — related
+- [Turnaround partner interventions showed mixed results for student achievement across comparison-group studies](turnaround-partner-interventions-mixed-achievement-results.md) — related

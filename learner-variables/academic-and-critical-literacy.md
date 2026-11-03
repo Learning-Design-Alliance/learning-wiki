@@ -13,7 +13,7 @@ generated:
 # Academic and Critical Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 74 claims (45 show a difference, 19 mixed, 10 no difference) · 60 studies (27 causal, 9 associational, 8 quant-synthesis, 7 review, 4 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 12 of 60 report an effect size · 71 claims rest on one study
+> **Evidence** · 75 claims (45 show a difference, 19 mixed, 11 no difference) · 61 studies (28 causal, 9 associational, 8 quant-synthesis, 7 review, 4 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 13 of 61 report an effect size · 72 claims rest on one study
 
 ## Description
 This page brings together two related factors from the Learner Variability Navigator; its third, Core Academic Literacies (general fluency across the core subjects), is on [prior knowledge](prior-knowledge.md). Disciplinary literacy is the ability to read, write, speak and present in the ways each discipline uses (proofs, lab reports, historical arguments) and, for adults, in real-world domains such as health and finance. Critical literacy is the ability to identify a text's purpose, motives and possible biases, which supports comprehension and critical thinking and prepares learners for civic participation.
@@ -112,6 +112,7 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [Observation of CLIL science lessons showed meaningful language use, teacher scaffolding, code-switching, and development of both social and academic language](../claims/clil-lesson-observation-processes.md) [+W] — instruction changes it
 - [ICT-based teaching of Astronomy and Space Physics produced higher scientific literacy scores than traditional teaching](../claims/ict-teaching-higher-scientific-literacy-scores.md) [+W] — instruction changes it
 - [Critical awareness of the politics of language did not necessarily carry over into pre-service teachers' thinking about literacy education for language minority students](../claims/politics-of-language-awareness-does-not-transfer-to-practice.md) [~M] — learners who differ on it differ in outcomes
+- [Academic vocabulary instruction improves standardized written expression](../claims/alias-vocabulary-improves-written-expression.md) [-M] — instruction changes it
 
 ## Measures
 - **Test of Functional Health Literacy in Adults (TOFHLA)** (Parker et al., 1995): This test measures the reading comprehension and numeracy skill components of health literacy in adults using real-life health situations.

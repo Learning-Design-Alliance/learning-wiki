@@ -49,3 +49,4 @@ Interview data from twelve university teachers across four Ghanaian universities
 - [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](universal-classroom-management-reduces-problem-behavior.md) — a broader claim this one bears on
 - [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related
 - [Teachers of large virtual classes in Ghana faced environmental constraints, inadequate institutional support, learner reluctance to participate, inability to monitor attentiveness, and delayed feedback due to class size](large-virtual-class-challenges-ghana-covid.md) — related
+- [Large study group size prevented the learning process in both communication settings](large-group-size-prevented-learning.md) — related

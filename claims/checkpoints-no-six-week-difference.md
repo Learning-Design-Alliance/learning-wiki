@@ -50,3 +50,4 @@ Difference score analysis on the 20-item multiple-choice Checkpoints comprehensi
 - [Achievement gains from educational games-based iPad applications were retained on a delayed test four to six weeks after the post-test, with significant delayed-test differences favoring the experimental group](ipad-games-learning-retention-delayed-test.md) — related
 - [Fourth graders receiving multi-component social studies vocabulary instruction made significantly greater vocabulary gains on a curriculum-based measure than comparison peers](multicomponent-vocab-cbm-gains.md) — related
 - [No significant difference between inquiry-based and subject matter groups on the first unit posttest](no-first-unit-teaching-method-difference.md) — related
+- [Vocabulary gains from the didactic model emerged only at post-test, supported by contextual-clue strategies](didactic-model-vocabulary-delayed-gains.md) — related

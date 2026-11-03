@@ -54,3 +54,4 @@ Homogeneity check on CELT scores before the intervention; the Levene statistic w
 - [Male and female experimental and control students were homogeneous in reading comprehension before the treatment](pretest-homogeneity-blog-reading-study.md) — related
 - [Before implementation, the experimental and control groups showed no statistically significant difference in academic achievement pre-test scores](absl-social-studies-pretest-equivalence.md) — related
 - [Pre-treatment reading comprehension of the two groups was statistically equivalent (Levene sig. 0.247; F = 3.959, sig. 0.051)](circ-pretest-groups-equivalent-homogeneity.md) — related
+- [The three groups were homogeneous in general proficiency and collocation knowledge before treatment](groups-homogeneous-at-pretest.md) — related

@@ -47,3 +47,4 @@ Psychometric analysis of the teacher-made instruments: KR-21 reliability estimat
 
 ## Related Claims
 - [The 60-item grammar post-test showed KR-21 reliability of 0.94 and a moderate criterion-related validity correlation of 0.41 with the Nelson grammar total](posttest-reliability-validity-kr21-nelson-correlation.md) — related
+- [The Basic Technology Achievement Test (BTAT) showed reliability coefficients of 0.84 (KR-21) and 0.88 (KR-20)](btat-reliability-coefficients.md) — related

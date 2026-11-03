@@ -48,3 +48,4 @@ Quasi-experimental Static Group Comparison over four semesters: two flipped sect
 - [Students in flipped college algebra sections scored significantly higher on the final exam than students in lecture-based control sections (p = .0143)](flipped-college-algebra-higher-final-exam-scores.md) — related
 - [Pre-service teachers taught with flipped learning scored significantly higher than lecture-taught peers on the first, second and final exams, but not on final grade](flipped-learning-higher-exam-scores-preservice-teachers.md) — related
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
+- [No statistically significant differences among the three sections on mid-term exam, online journal entries, or combined totals](no-significant-difference-midterm-journal-combined.md) — related

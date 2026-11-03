@@ -52,3 +52,4 @@ Supporting free-response data collected by asking students' opinions about the O
 - [Jigsaw group students reported mostly positive opinions, most commonly easier experiments, exchange of ideas, and shorter experiment duration](jigsaw-positive-student-opinions.md) — related
 - [Students report high satisfaction with CAMI, finding it more interesting and easier to understand than traditional instruction](cami-learning-satisfaction-chinese-instruments.md) — related
 - [Approximately 80% of voluntary TPS-group students expressed positive opinions of the strategy, citing improved understanding, participation, confidence and attitude](tps-student-opinions-mostly-positive.md) — related
+- [Students found argumentation-based activities fun and instructive, with experimenting the most-liked part](student-views-argumentation-activities-fun-instructive.md) — related

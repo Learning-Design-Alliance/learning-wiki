@@ -78,6 +78,7 @@ Annotation works because it forces selection and organization of ideas rather th
 5. Fade the scheme: shift from instructor-specified codes to learner-designed annotation as expertise grows, and compare learner annotations against an expert-annotated exemplar to calibrate.
 
 ## Related Strategies
+
 - [Close Reading](close-reading.md) — annotation is the primary tool of close reading; the scheme here supplies its method
 - [Self-Questioning](self-questioning.md) — margin questions are annotation in its most generative form
 - [Summarization](summarizing.md) — margin gists are micro-summaries; both force selection and restatement
@@ -85,6 +86,7 @@ Annotation works because it forces selection and organization of ideas rather th
 - **Close Reading protocols** — annotation is the core move in most close-reading routines
 - **Reciprocal Teaching** — shares the predict/question/clarify/summarize moves that annotation externalizes
 - **Marginalia discussion** — social annotation as the discussion medium itself
+- [Add underlining during reading and self-assessing at the end of lessons as metacognitive strategies](underlining-and-self-assessing-metacognitive-strategy.md)
 
 ## Examples
 - **Perusall** (https://www.perusall.com) — social annotation platform where students annotate course readings collaboratively and AI-scored annotation quality feeds into grading; used widely in flipped and large-enrollment courses.

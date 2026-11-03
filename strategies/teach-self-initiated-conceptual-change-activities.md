@@ -43,7 +43,8 @@ The article closes by proposing that future work should identify "the instructio
 - [In an earlier study, students taught with the original CONTACT strategy focused mainly on the central concepts from the training texts, disregarding other information](../claims/original-contact-selective-attention-to-central-concepts.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Teachers should be less prescriptive and allow students to decide how to carry out mathematics activities](less-prescriptive-teacher-role-pbl-math.md)
 
 ## Examples
 -
