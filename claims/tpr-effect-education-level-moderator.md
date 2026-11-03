@@ -45,7 +45,7 @@ Categorical moderator analysis in the meta-analysis classified the 13 studies by
 
 
 ## Related Claims
-- [Attending to students' learning pace significantly moderates TPR effects: studies implementing this theme averaged ES=2.745 versus 1.021 for non-implementers](tpr-learning-pace-moderator-significant.md) — related
+- [Attending to students' learning pace was a significant moderator of TPR vocabulary effects in one meta-analysis, but only one study implemented it: ES=2.745 versus 1.021 for the 12 studies that did not](tpr-learning-pace-moderator-significant.md) — related
 - [Teaching the written form of words significantly moderates TPR effects: studies teaching written forms averaged ES=1.777 versus 0.770 for those that did not](tpr-written-form-moderator-significant.md) — related
 - [TPR instruction significantly improves EFL young learners' L2 vocabulary knowledge from pretest to posttest](tpr-improves-iranian-efl-childrens-vocabulary.md) — related
 - [TPR leads to significantly better L2 vocabulary learning than the Direct Method in young EFL learners after adjusting for pretest scores](tpr-outperforms-direct-method-vocabulary-ancova.md) — related

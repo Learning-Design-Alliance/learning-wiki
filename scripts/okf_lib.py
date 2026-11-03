@@ -47,6 +47,9 @@ def actor_for(edited_by: str | None) -> str:
     name = edited_by.strip()
     if ACTOR_FORM_RE.match(name):
         return name  # already a well-formed actor string (human:<id>, process:<id>, tool/version)
+    m = re.match(r"^([a-z][\w-]*):(\S+)$", name)
+    if m:  # an unknown prefix ("agent:article-ingest"): keep the id, not "process:agentarticle-ingest"
+        return f"process:{m.group(2)}"
     key = name.lower()
     if key in KNOWN_AGENTS:
         return f"{key}/unspecified"

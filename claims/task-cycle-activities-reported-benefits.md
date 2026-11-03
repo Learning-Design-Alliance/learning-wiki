@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students reported that consciousness-raising analysis of authentic TED talks, planning, self/peer video evaluation and public performance supported their speaking development
-description: Students reported that consciousness-raising analysis of authentic TED talks, planning, self/peer video evaluation and public performance supported their speaking development
+title: Students reported that analysing authentic TED talks was motivating and that self/peer evaluation of their video-recorded speaking tasks helped them overcome anxiety and track their progress
+description: Students reported that analysing authentic TED talks was motivating and that self/peer evaluation of their video-recorded speaking tasks helped them overcome anxiety and track their progress
 id: task-cycle-activities-reported-benefits
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-11-03
 sources:
   - id: mohammad-mohammadipour-sabariah-md-rashid-2015
     resource: "https://doi.org/10.7575/aiac.alls.v.6n.2p.113"
@@ -20,11 +21,11 @@ sources:
     rigour: 2
 ---
 
-# Students reported that consciousness-raising analysis of authentic TED talks, planning, self/peer video evaluation and public performance supported their speaking development
+# Students reported that analysing authentic TED talks was motivating and that self/peer evaluation of their video-recorded speaking tasks helped them overcome anxiety and track their progress
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students reported that a discovery approach through analysing TED-Talks was motivating and helped them form and test hypotheses about spoken language rules. [→ Mohammad Mohammadipour & Sabariah MD Rashid 2015](#mohammad-mohammadipour-sabariah-md-rashid-2015)
@@ -38,7 +39,7 @@ Mohammad Mohammadipour & Sabariah MD Rashid. (2015). The Impact of Task-Based In
 
 `q1 · i?` · `causal · r2`
 
-Qualitative student reports gathered during the programme's post-task stage, alongside the researcher's informal interviews. The article states students "reported that adopting a discovery approach through analyzing the TED-Talks was motivating"; no effect size is printed.
+Student self-reports from an eleven-week task-based speaking programme, given in the article's discussion without a stated collection method: reports on the pre-task consciousness-raising analysis of TED talks (section 4.1.1), and reports from the researcher's informal interviews on self/peer evaluation of video-recorded speaking tasks at the post-task stage (section 4.3.1). The benefits the article ascribes to planning and to presenting in front of peers are the researchers' own interpretation, not reported student views. No effect size is printed for these reports.
 
 > "The students reported that adopting a discovery approach through analyzing the TED-Talks was motivating as it helped them to form and test hypotheses about spoken language rules."
 

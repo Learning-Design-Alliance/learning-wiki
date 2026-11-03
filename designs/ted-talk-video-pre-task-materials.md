@@ -38,7 +38,7 @@ The experimental group's main materials were "some supplementary video files ext
 - speaking sub-skills
 
 ### Claims
-- [Task Cycle Activities Reported Benefits](../claims/task-cycle-activities-reported-benefits.md) [+M]
+- [Students reported that analysing authentic TED talks was motivating and that self/peer evaluation of their video-recorded speaking tasks helped them overcome anxiety and track their progress](../claims/task-cycle-activities-reported-benefits.md) [+W]
 
 ## Related Designs
 - 

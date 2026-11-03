@@ -46,5 +46,5 @@ Categorical moderator analysis (Table 6) of the written-form theme across the 13
 
 ## Related Claims
 - [Education level significantly moderates the effect of TPR on vocabulary learning, with larger effects in adult (university) samples than young learners](tpr-effect-education-level-moderator.md) — related
-- [Attending to students' learning pace significantly moderates TPR effects: studies implementing this theme averaged ES=2.745 versus 1.021 for non-implementers](tpr-learning-pace-moderator-significant.md) — related
+- [Attending to students' learning pace was a significant moderator of TPR vocabulary effects in one meta-analysis, but only one study implemented it: ES=2.745 versus 1.021 for the 12 studies that did not](tpr-learning-pace-moderator-significant.md) — related
 - [Duration of the TPR intervention in weeks significantly predicts effect size, explaining 35% of the variance](tpr-intervention-duration-predicts-effect.md) — related

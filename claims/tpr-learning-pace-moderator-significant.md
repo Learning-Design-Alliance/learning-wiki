@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Attending to students' learning pace significantly moderates TPR effects: studies implementing this theme averaged ES=2.745 versus 1.021 for non-implementers"
-description: "Attending to students' learning pace significantly moderates TPR effects: studies implementing this theme averaged ES=2.745 versus 1.021 for non-implementers"
+title: "Attending to students' learning pace was a significant moderator of TPR vocabulary effects in one meta-analysis, but only one study implemented it: ES=2.745 versus 1.021 for the 12 studies that did not"
+description: "Attending to students' learning pace was a significant moderator of TPR vocabulary effects in one meta-analysis, but only one study implemented it: ES=2.745 versus 1.021 for the 12 studies that did not"
 id: tpr-learning-pace-moderator-significant
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-03
 sources:
   - id: tugba-inciman-celik-2021
     resource: "https://doi.org/10.5539/elt.v14n12p154"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Attending to students' learning pace significantly moderates TPR effects: studies implementing this theme averaged ES=2.745 versus 1.021 for non-implementers
+# Attending to students' learning pace was a significant moderator of TPR vocabulary effects in one meta-analysis, but only one study implemented it: ES=2.745 versus 1.021 for the 12 studies that did not
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Of ten analytical themes, only the learning-pace theme significantly explained variance (Qb=10.349, p=0.001), with implemented studies showing ES=2.745 (1.762, 3.729) versus 1.021 (0.652, 1.390). [→ Tugba Inciman Celik 2021](#tugba-inciman-celik-2021)
+`q3 i?` Of ten analytical themes, two significantly explained variance among the 13 studies: the learning-pace theme (Qb=10.349, p=0.001), where the single implementing study showed ES=2.745 (1.762, 3.729) against 1.021 (0.652, 1.390) for the other 12, and teaching the written forms of words (Qb=5.875, p=0.015). [→ Tugba Inciman Celik 2021](#tugba-inciman-celik-2021)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Tugba Inciman Celik, Tolga Cay & Sedat Kanadli. (2021). The Effect of Total Phys
 
 `q3 · i?` · `quant-synthesis · r2`
 
-Categorical moderator analysis (Table 6) testing whether each of ten analytical themes explained variance among the 13 meta-analysis studies. The learning-pace theme was implemented in only one study (Zhen, 2011) and was significant at p=0.001.
+Categorical moderator analysis (Table 6) testing whether each of ten analytical themes explained variance among the 13 meta-analysis studies. Two of the ten themes were significant: learning pace (Qb=10.349, df=1, p=0.001) and teaching the written forms of words (Qb=5.875, df=1, p=0.015); the other eight were not. The learning-pace theme was implemented in only one study (Zhen, 2011), so its "implemented" estimate is that one study's effect size, and the contrast cannot separate the theme from anything else about that study.
 
 > "while the average effect size of the TPR method, which the practitioners implemented by considering the students' learning pace, was Theme 10 (Implemented), 2.745 (1.762, 3.729), the average effect size of the studies that implemented this method without considering the students' learning speed was calculated  as Theme 10 (Non-implemented), 1.021 (0.652, 1.390)."
 

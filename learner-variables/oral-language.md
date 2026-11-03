@@ -237,7 +237,7 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Four-year-olds taught L2 vocabulary with TPRS largely retained it on delayed posttests two weeks later, in a single-group study with no control group](../claims/tprs-long-term-vocabulary-retention-preschoolers.md) [+W] — instruction changes it
 - [PowerPoint-enhanced teaching (visual input) produced significantly better listening comprehension post-test scores than traditional teaching for Iranian intermediate EFL learners](../claims/powerpoint-visual-input-improves-efl-listening-comprehension.md) [+M] — instruction changes it
 - [Students reacted positively to PowerPoint-enhanced listening lessons, reporting benefits for comprehension and motivation](../claims/positive-student-reactions-powerpoint-listening-lessons.md) [+W] — instruction changes it
-- [Students reported that consciousness-raising analysis of authentic TED talks, planning, self/peer video evaluation and public performance supported their speaking development](../claims/task-cycle-activities-reported-benefits.md) [+W] — instruction changes it
+- [Students reported that analysing authentic TED talks was motivating and that self/peer evaluation of their video-recorded speaking tasks helped them overcome anxiety and track their progress](../claims/task-cycle-activities-reported-benefits.md) [+W] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

@@ -196,6 +196,10 @@ def anova_rows(text):
             if not re.match(r"\s*[A-Za-z][A-Za-z ()×*'\-]{1,40}\s+\d", row) or \
                     re.search(r"\bpage\b|\bvol(?:ume)?\b|\bjournal\b|\(\d{4}\)|\d+\s*/\s*\d+\s+[A-Z]", row, re.I):
                 continue
+            # a pairwise row labelled by group numbers ("Groups 3 & 2", "Group 1 vs 2") is not an
+            # ANOVA source row: its first numbers are the groups, not SS and df
+            if re.match(r"\s*[A-Za-z][A-Za-z ]*\d+\s*(?:&|vs\.?|versus|-|–)\s*\d+\b", row):
+                continue
             # df written as arithmetic ("2-1=1", "200 - 2 = 198"): keep only the result
             row = re.sub(r"(?<![\w.])\d+\s*[-−–]\s*\d+\s*=\s*(\d+)(?![\w.])", r"\1", row)
             nums = re.findall(r"(?<![\w.])(\d+\.\d+|\d+|\.\d+)(?![\w.])", row)   # ".398": APA drops the leading zero

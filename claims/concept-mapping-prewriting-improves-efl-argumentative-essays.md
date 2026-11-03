@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-03
 sources:
   - id: al-shaer-2014
     resource: "https://doi.org/10.20429/ijsotl.2014.080210"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The experimental group showed statistically significant pre-to-post gains in point of view (p .005), unity and coherence (p .008), development (p .004), organization (p .004), and thinking (p .010), with an overall p-value of .008. [→ Al-Shaer 2014](#al-shaer-2014)
@@ -37,7 +38,7 @@ Al-Shaer, Ibrahim M. R. Ph.D. (2014). Employing Concept Mapping as a Pre-writing
 
 `q3 · i?` · `causal · r2`
 
-Paired t-test on pre-test versus post-test mean scores of the 19-student experimental group in a Writing II course, reported in Table (5). The article reports statistically significant gains on all five aspects; no standardized effect size is printed, so impact is null.
+Paired t-test on pre-test versus post-test mean scores of the 19-student experimental group in a Writing II course, reported in Table (5). The article reports statistically significant gains on all five aspects (overall p = .008), while the randomly assigned control group of 19 showed no significant pre-to-post change (overall p = .565). The only standardized effect size printed is a partial eta squared of 0.024, which the article does not tie to a named test, so no effect size is recorded for the gains themselves (`i?`, magnitude not established, not an absence of effect).
 
 > "The results obtained highlight the effectiveness of concept mapping strategy training in enhancing the students' performance in the writing aspects of point of view (0.005), unity and coherence (0.008), development (0.004), organization (0.004), and thinking (0.010)."
 

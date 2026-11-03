@@ -17,7 +17,7 @@ sources:
 # Coordinate universal, selected, and indicated interventions to reduce chronic peer victimization involvement of students with disabilities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 Building from the study's findings, the authors propose comprehensive, multi-factored programs with three coordinated layers. First, "universal strategies that focus on managing the general social dynamics of the classroom including peer norms, peer group processes, and social reinforcement for peer victimization and bullying behavior." Second, selected interventions enhancing the social competencies and skills of students with disabilities to reduce marginalization. Third, indicated interventions targeting the social functions of peer interactions for students chronically engaged in peer victimization. They recommend these operate as an integrative program designed in collaboration with teachers and school support personnel.
@@ -41,7 +41,7 @@ Building from the study's findings, the authors propose comprehensive, multi-fac
 ## Claims
 
 - [Social marginalization in the peer network is associated with stable peer victimization involvement, and this association is amplified for students with disabilities](../claims/marginalization-stable-victimization.md) [+W]
-- [Students with disabilities and academically gifted students perceive more peer encouragement of bullying, but perceive less in SEALS intervention schools](../claims/peer-encouragement-bullying-perceptions.md) [+W]
+- [Students with disabilities and academically gifted students report perceiving more peer encouragement of bullying than other students, but within SEALS intervention schools they report perceiving less than nondisabled peers](../claims/peer-encouragement-bullying-perceptions.md) [~W]
 - [The SEALS intervention showed no significant effect on peer victimization subtype placement, but students in intervention schools showed less variability in involvement over time](../claims/seals-no-effect-subtype-placement.md) [~W]
 - [Students with disabilities are more likely than nondisabled peers to be nominated as victims and bully-victims and less likely to be noninvolved in peer victimization](../claims/swd-more-likely-victims-bully-victims.md) [+M]
 - [Students with disabilities are predominantly socially marginalized in the sixth-grade peer network, while academically gifted students are mostly well integrated](../claims/swd-socially-marginalized-network.md) [+W]

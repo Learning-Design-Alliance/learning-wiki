@@ -178,7 +178,7 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Talk of the Town showed no evidence of improving oral language skills among children with weaker reading comprehension (ACE secondary outcome)](../claims/tott-no-impact-oral-language-ace.md) [-M] — instruction changes it
 - [Explicit discourse-markers instruction improves EFL learners' ability to produce cohesive and coherent text on discourse cloze tests](../claims/dm-instruction-improves-cohesive-writing.md) [+M] — instruction changes it
 - [Virtual and face-to-face collaborative writers differ in discourse: control groups use cohesive devices and paragraphing more, virtual groups add more new relevant ideas](../claims/discourse-differences-telecollaborative-vs-face-to-face-essays.md) [~M] — instruction changes it
-- [Students reported that consciousness-raising analysis of authentic TED talks, planning, self/peer video evaluation and public performance supported their speaking development](../claims/task-cycle-activities-reported-benefits.md) [+W] — instruction changes it
+- [Students reported that analysing authentic TED talks was motivating and that self/peer evaluation of their video-recorded speaking tasks helped them overcome anxiety and track their progress](../claims/task-cycle-activities-reported-benefits.md) [+W] — instruction changes it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

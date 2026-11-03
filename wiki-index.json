@@ -42705,6 +42705,7 @@
 "id":"bl-largest-descriptive-gain-algebra",
 "newest_evidence":"2018",
 "path":"claims/bl-largest-descriptive-gain-algebra.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Descriptive gains in algebra achievement were largest for the blended learning group, followed by PBL and then TLM",
 "type":"claim"
@@ -42715,6 +42716,7 @@
 "id":"bl-pbl-outperform-tlm-algebra",
 "newest_evidence":"2018",
 "path":"claims/bl-pbl-outperform-tlm-algebra.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Both blended learning and problem-based learning produced significantly higher algebra achievement than traditional lecture method, while BL and PBL did not differ significantly",
 "type":"claim"
@@ -66536,6 +66538,7 @@
 "id":"cmtl-model-higher-gain-than-control",
 "newest_evidence":"2017",
 "path":"claims/cmtl-model-higher-gain-than-control.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Students taught with the contextual mathematical thinking learning model showed significantly higher enhancement of higher-order thinking ability than the control group",
 "type":"claim"
@@ -76490,6 +76493,7 @@
 "id":"concept-mapping-prewriting-improves-efl-argumentative-essays",
 "newest_evidence":"2014",
 "path":"claims/concept-mapping-prewriting-improves-efl-argumentative-essays.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Paper-and-pencil concept mapping at the pre-writing stage significantly improved EFL students' argumentative essay performance across five writing aspects",
 "type":"claim"
@@ -298449,13 +298453,14 @@
 "type":"claim"
 },
 {
-"description":"Students with disabilities and academically gifted students perceive more peer encouragement of bullying, but perceive less in SEALS intervention schools",
+"description":"Students with disabilities and academically gifted students report perceiving more peer encouragement of bullying than other students, but within SEALS intervention schools they report perceiving less than nondisabled peers",
 "evidence_strength":"moderate",
 "id":"peer-encouragement-bullying-perceptions",
 "newest_evidence":"2015",
 "path":"claims/peer-encouragement-bullying-perceptions.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Students with disabilities and academically gifted students perceive more peer encouragement of bullying, but perceive less in SEALS intervention schools",
+"title":"Students with disabilities and academically gifted students report perceiving more peer encouragement of bullying than other students, but within SEALS intervention schools they report perceiving less than nondisabled peers",
 "type":"claim"
 },
 {
@@ -380939,6 +380944,7 @@
 "id":"specialized-religion-course-increased-confessional-tolerance",
 "newest_evidence":"2016",
 "path":"claims/specialized-religion-course-increased-confessional-tolerance.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"A compulsory specialized course on religions of the region increased students' confessional tolerance over a four-year teaching experiment",
 "type":"claim"
@@ -405043,13 +405049,14 @@
 "type":"claim"
 },
 {
-"description":"Students reported that consciousness-raising analysis of authentic TED talks, planning, self/peer video evaluation and public performance supported their speaking development",
+"description":"Students reported that analysing authentic TED talks was motivating and that self/peer evaluation of their video-recorded speaking tasks helped them overcome anxiety and track their progress",
 "evidence_strength":"weak",
 "id":"task-cycle-activities-reported-benefits",
 "newest_evidence":"2015",
 "path":"claims/task-cycle-activities-reported-benefits.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Students reported that consciousness-raising analysis of authentic TED talks, planning, self/peer video evaluation and public performance supported their speaking development",
+"title":"Students reported that analysing authentic TED talks was motivating and that self/peer evaluation of their video-recorded speaking tasks helped them overcome anxiety and track their progress",
 "type":"claim"
 },
 {
@@ -424726,13 +424733,14 @@
 "type":"claim"
 },
 {
-"description":"Attending to students' learning pace significantly moderates TPR effects: studies implementing this theme averaged ES=2.745 versus 1.021 for non-implementers",
+"description":"Attending to students' learning pace was a significant moderator of TPR vocabulary effects in one meta-analysis, but only one study implemented it: ES=2.745 versus 1.021 for the 12 studies that did not",
 "evidence_strength":"moderate",
 "id":"tpr-learning-pace-moderator-significant",
 "newest_evidence":"2021",
 "path":"claims/tpr-learning-pace-moderator-significant.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Attending to students' learning pace significantly moderates TPR effects: studies implementing this theme averaged ES=2.745 versus 1.021 for non-implementers",
+"title":"Attending to students' learning pace was a significant moderator of TPR vocabulary effects in one meta-analysis, but only one study implemented it: ES=2.745 versus 1.021 for the 12 studies that did not",
 "type":"claim"
 },
 {
@@ -448333,6 +448341,7 @@
 "id":"whatsapp-vocabulary-instruction-outperformed-traditional-classroom-instruction",
 "newest_evidence":"2016",
 "path":"claims/whatsapp-vocabulary-instruction-outperformed-traditional-classroom-instruction.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"WhatsApp-delivered vocabulary instruction produced significantly higher post-test vocabulary scores than traditional classroom instruction among Iranian junior high school EFL learners",
 "type":"claim"

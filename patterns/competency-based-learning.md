@@ -177,7 +177,7 @@ This pattern is scoped to a course organised around a competency map with criter
 - [Surgical societies outlined RAS curricula featuring proficiency-based progression, modular intraoperative training, and objective assessment.](../claims/surgical-societies-ras-curricula-proficiency-modular-objective.md) [+W]
 - [Narrative synthesis: three studies found no significant exam-score difference between OBEs and CBEs, with differences emerging only under specific conditions](../claims/narrative-mixed-results-three-studies-no-difference.md) [~M]
 - [Completion of a dVSS proficiency-based curriculum was associated with significant improvement in RO-SCORE across all domains and significant reduction in NASA-TLX workload](../claims/gerull-curriculum-improved-roscore-reduced-workload.md) [+W]
-- [Attending to students' learning pace significantly moderates TPR effects: studies implementing this theme averaged ES=2.745 versus 1.021 for non-implementers](../claims/tpr-learning-pace-moderator-significant.md) [+W]
+- [Attending to students' learning pace was a significant moderator of TPR vocabulary effects in one meta-analysis, but only one study implemented it: ES=2.745 versus 1.021 for the 12 studies that did not](../claims/tpr-learning-pace-moderator-significant.md) [+W]
 
 ## Related Patterns
 - [Mastery Learning](mastery-learning.md)

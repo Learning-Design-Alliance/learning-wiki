@@ -68,7 +68,7 @@ Stability analysis (Table 4, Model 2) of changing patterns across the three time
 - [Safety](../learner-variables/safety.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Students with disabilities and academically gifted students perceive more peer encouragement of bullying, but perceive less in SEALS intervention schools](peer-encouragement-bullying-perceptions.md) — related
+- [Students with disabilities and academically gifted students report perceiving more peer encouragement of bullying than other students, but within SEALS intervention schools they report perceiving less than nondisabled peers](peer-encouragement-bullying-perceptions.md) — related
 - [Students with disabilities are more likely than nondisabled peers to be nominated as victims and bully-victims and less likely to be noninvolved in peer victimization](swd-more-likely-victims-bully-victims.md) — related
 - [Students with disabilities show more stable peer victimization involvement across fifth and sixth grade, whereas academically gifted students show less stable involvement](swd-stable-victimization-involvement.md) — related
 - [Social marginalization in the peer network is associated with stable peer victimization involvement, and this association is amplified for students with disabilities](marginalization-stable-victimization.md) — related

@@ -47,4 +47,4 @@ Meta-regression testing the first analytical theme (class size of 24 or less) as
 ## Related Claims
 - [Duration of the TPR intervention in weeks significantly predicts effect size, explaining 35% of the variance](tpr-intervention-duration-predicts-effect.md) — related
 - [Thematic synthesis of qualitative studies identifies four descriptive themes: learning-teaching process, learning outcomes, motivation, and implementation suggestions/requirements](tpr-thematic-synthesis-four-themes.md) — related
-- [Attending to students' learning pace significantly moderates TPR effects: studies implementing this theme averaged ES=2.745 versus 1.021 for non-implementers](tpr-learning-pace-moderator-significant.md) — related
+- [Attending to students' learning pace was a significant moderator of TPR vocabulary effects in one meta-analysis, but only one study implemented it: ES=2.745 versus 1.021 for the 12 studies that did not](tpr-learning-pace-moderator-significant.md) — related

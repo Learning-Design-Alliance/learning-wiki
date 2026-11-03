@@ -47,7 +47,7 @@ Descriptive stability percentages from the same longitudinal sample: well over h
 
 ## Related Claims
 - [Social marginalization in the peer network is associated with stable peer victimization involvement, and this association is amplified for students with disabilities](marginalization-stable-victimization.md) — related
-- [Students with disabilities and academically gifted students perceive more peer encouragement of bullying, but perceive less in SEALS intervention schools](peer-encouragement-bullying-perceptions.md) — related
+- [Students with disabilities and academically gifted students report perceiving more peer encouragement of bullying than other students, but within SEALS intervention schools they report perceiving less than nondisabled peers](peer-encouragement-bullying-perceptions.md) — related
 - [The SEALS intervention showed no significant effect on peer victimization subtype placement, but students in intervention schools showed less variability in involvement over time](seals-no-effect-subtype-placement.md) — related
 - [Students with disabilities are more likely than nondisabled peers to be nominated as victims and bully-victims and less likely to be noninvolved in peer victimization](swd-more-likely-victims-bully-victims.md) — related
 - [Students with disabilities are predominantly socially marginalized in the sixth-grade peer network, while academically gifted students are mostly well integrated](swd-socially-marginalized-network.md) — related
