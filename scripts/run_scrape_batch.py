@@ -281,9 +281,12 @@ def run(args) -> None:
                     sys.exit(3)
                 state["fetch"]["fail"] += 1
                 state["fetch"]["results"].append({"id": entry["id"], "ok": False, "chars_or_detail": str(e)})
-                if entry.get("list_key"):
+                if entry.get("list_key") or args.queue:
                     # A queue entry that cannot be fetched (robots, paywall, a JavaScript page)
                     # is recorded, so the next batch takes the next entry rather than this one.
+                    # Screened-queue entries carry no list_key, so until 2026-11-03 a dead one was
+                    # taken again by every batch: the ERIC queue ended in batches of 15, 3 and 1
+                    # (j-screric-29..31), the last a scanned PDF with no text layer.
                     QUEUE_FAILED.parent.mkdir(parents=True, exist_ok=True)
                     with QUEUE_FAILED.open("a", encoding="utf-8") as fh:
                         fh.write(json.dumps({"id": entry["id"], "error": str(e)[:300]}) + "\n")
