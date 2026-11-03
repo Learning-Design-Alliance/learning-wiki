@@ -46,6 +46,6 @@ Analysis of ToTAL trial outcomes in Haitian Creole and French. The article descr
 
 ## Related Claims
 - [The ToTAL intervention in Haiti had a positive impact on the foundational skills of initial sound identification and letter sound identification, though not on all combinations of language and grade.](total-positive-impact-foundational-skills.md) — related
-- [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — a broader claim this one bears on
+- [Reviews and clinical guidance recommend supporting a bilingual student's heritage language alongside English; no study cited here tests whether doing so aids English acquisition](heritage-language-preservation-supports-english-acquisition.md) — a broader claim this one bears on
 - [Only a small minority of Haitians are truly French/Creole bilingual, making French effectively a foreign language for most students](few-haitians-truly-bilingual-french-foreign.md) — related
 - [Failure to use mother tongue as the medium of instruction during at least the fundamental years has lasting detrimental impacts on students](mother-tongue-fundamental-years-detrimental-impact.md) — related

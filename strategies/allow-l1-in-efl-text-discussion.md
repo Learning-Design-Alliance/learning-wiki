@@ -40,7 +40,7 @@ The article recommends permitting students to use their first language during te
 ## Claims
 
 - [Teachers in South African multilingual classrooms use code-switching, offering English content but switching to the mother tongue for elaboration and discussion](../claims/teachers-code-switch-english-to-mother-tongue.md) [+M]
-- [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](../claims/heritage-language-preservation-supports-english-acquisition.md) [+W]
+- [Reviews and clinical guidance recommend supporting a bilingual student's heritage language alongside English; no study cited here tests whether doing so aids English acquisition](../claims/heritage-language-preservation-supports-english-acquisition.md) [+W]
 - [Preservation of the mother tongue predicts second-language achievement among migrant children](../claims/mother-tongue-preservation-predicts-l2-achievement.md) [+W]
 - [First-language and bilingual programs in Peru, Bolivia, and the United States show students are better off acquiring knowledge in their mother tongues](../claims/international-mother-tongue-programs-better-off.md) [+M]
 - [Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures](../claims/mead-mother-tongue-status-affects-bilingual-learning.md) [+W]

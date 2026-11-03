@@ -11,7 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2010
 sources:
   - id: ifenthaler-2010
-    title: "Ifenthaler, D. (2010). Bridging the Gap between Expert-Novice Differences: The Model-Based Feedback Approach. Journal of Research on Technology in Education, 43(2), 103-117."
+    resource: "https://doi.org/10.1080/15391523.2010.10782564"
+    title: "Ifenthaler, D. (2010). Bridging the Gap between Expert-Novice Differences: The Model-Based Feedback Approach. Journal of Research on Technology in Education, 43(2), 103-117. https://doi.org/10.1080/15391523.2010.10782564"
     author: Ifenthaler, D.
     q: 3
     i: "?"
@@ -32,7 +33,7 @@ sources:
 
 ### Ifenthaler 2010
 
-Ifenthaler, D. (2010). Bridging the Gap between Expert-Novice Differences: The Model-Based Feedback Approach. Journal of Research on Technology in Education, 43(2), 103-117.
+Ifenthaler, D. (2010). Bridging the Gap between Expert-Novice Differences: The Model-Based Feedback Approach. Journal of Research on Technology in Education, 43(2), 103-117. https://doi.org/10.1080/15391523.2010.10782564
 
 `q3 · i?` · `causal · r2`
 

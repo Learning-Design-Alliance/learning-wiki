@@ -155974,6 +155974,7 @@
 "id":"flipped-class-time-active-learning-activities",
 "newest_evidence":"2016",
 "path":"claims/flipped-class-time-active-learning-activities.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Class time in the flipped model was devoted to active learning activities rather than lecturing",
 "type":"claim"
@@ -156531,6 +156532,7 @@
 "id":"flipped-classroom-two-components",
 "newest_evidence":"2016",
 "path":"claims/flipped-classroom-two-components.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class",
 "type":"claim"
@@ -186656,7 +186658,7 @@
 "newest_evidence":"2005",
 "path":"claims/heritage-language-preservation-supports-english-acquisition.md",
 "status":"review",
-"title":"Preserving a bilingual student's heritage language supports rather than hinders English acquisition",
+"title":"Reviews and clinical guidance recommend supporting a bilingual student's heritage language alongside English; no study cited here tests whether doing so aids English acquisition",
 "type":"claim"
 },
 {

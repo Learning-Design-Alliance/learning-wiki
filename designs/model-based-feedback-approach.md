@@ -9,8 +9,8 @@ generated:
   at: 2026-11-03
 sources:
   - id: ifenthaler-2010
-    resource: "https://doi.org/10.1007/s11423-009-9119-8"
-    title: "Ifenthaler, D. (2010). Bridging the Gap between Expert-Novice Differences: The Model-Based Feedback Approach. Journal of Research on Technology in Education, 43(2), 103-117. https://doi.org/10.1007/s11423-009-9119-8"
+    resource: "https://doi.org/10.1080/15391523.2010.10782564"
+    title: "Ifenthaler, D. (2010). Bridging the Gap between Expert-Novice Differences: The Model-Based Feedback Approach. Journal of Research on Technology in Education, 43(2), 103-117. https://doi.org/10.1080/15391523.2010.10782564"
     author: Ifenthaler, D
 ---
 
@@ -47,4 +47,4 @@ A framework in which feedback is generated automatically from comparisons betwee
 -
 
 ## Key Sources
-- Ifenthaler, D. (2010). Bridging the Gap between Expert-Novice Differences: The Model-Based Feedback Approach. Journal of Research on Technology in Education, 43(2), 103-117. https://doi.org/10.1007/s11423-009-9119-8
+- Ifenthaler, D. (2010). Bridging the Gap between Expert-Novice Differences: The Model-Based Feedback Approach. Journal of Research on Technology in Education, 43(2), 103-117. https://doi.org/10.1080/15391523.2010.10782564

@@ -48,7 +48,7 @@ The review cites Skutnabb-Kangas and Toukomaa (1976) on semilingualism among min
 
 ## Related Claims
 
-- [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — the general claim this finding bears on, with the studies behind it
+- [Reviews and clinical guidance recommend supporting a bilingual student's heritage language alongside English; no study cited here tests whether doing so aids English acquisition](heritage-language-preservation-supports-english-acquisition.md) — the general claim this finding bears on, with the studies behind it
 - [Preservation of the mother tongue predicts second-language achievement among migrant children](mother-tongue-preservation-predicts-l2-achievement.md) — related
 - [Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement](l1-maintenance-supports-l2-without-cost.md) — reports the opposite
 - [Failure to use mother tongue as the medium of instruction during at least the fundamental years has lasting detrimental impacts on students](mother-tongue-fundamental-years-detrimental-impact.md) — related

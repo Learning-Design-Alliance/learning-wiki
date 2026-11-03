@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-03
 sources:
   - id: ahmad-2016
     resource: "https://doi.org/10.5539/elt.v9n9p166"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A flipped classroom teaching model has two components: (1) direct instruction using video lectures outside class and (2) active face-to-face learning inside class. [→ Ahmad 2016](#ahmad-2016)

@@ -49,7 +49,7 @@ The author reports findings from her own small-scale studies, hedged with "seem 
 - [L1 and L2 academic proficiencies are developmentally interdependent, so instruction in either language can build underlying academic ability](l1-l2-academic-interdependence-transfer.md) — a broader claim this one bears on
 - Surface conversational fluency develops within about two years, but academic proficiency in English takes 5-7 years for immigrant students — related
 - [Older-arriving ESL learners transfer L1 knowledge efficiently, but learning slows once they outgrow their L1](l1-transfer-efficient-until-outgrown.md) — related
-- [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
+- [Reviews and clinical guidance recommend supporting a bilingual student's heritage language alongside English; no study cited here tests whether doing so aids English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
 - [L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English](l1-l2-calp-interdependence-no-adverse-consequences.md) — a broader claim this one bears on
 - [Youngest-arriving ESL learners risk acquiring neither L1 nor L2 at the level school demands](young-arrivals-risk-losing-both-l1-and-l2.md) — related
 - [Adolescents who use more language learning strategies are the more proficient ones, and strategy adoption varies with cultural background.](strategy-use-correlates-with-l2-proficiency-in-adolescents.md) — related

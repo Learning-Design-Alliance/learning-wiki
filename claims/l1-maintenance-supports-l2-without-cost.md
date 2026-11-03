@@ -64,7 +64,7 @@ A theoretical paper (the developmental-interdependence and threshold hypotheses)
 
 ## Related Claims
 
-- [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — the general claim this finding bears on, with the studies behind it
+- [Reviews and clinical guidance recommend supporting a bilingual student's heritage language alongside English; no study cited here tests whether doing so aids English acquisition](heritage-language-preservation-supports-english-acquisition.md) — the general claim this finding bears on, with the studies behind it
 - [High L2 achievers in immersion programs show IQ gains, consistent with a higher threshold of bilingual competence](high-l2-achievers-show-iq-gains-in-immersion.md) — related
 - [L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English](l1-l2-calp-interdependence-no-adverse-consequences.md) — possibly the same claim (merge candidate)
 - [Semilingualism — less than native-like skill in both languages — is associated with detrimental cognitive and academic consequences](semilingualism-associated-with-negative-cognitive-effects.md) — reports the opposite

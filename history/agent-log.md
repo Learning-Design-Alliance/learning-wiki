@@ -5,6 +5,22 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-03 · learner-variable outcome links are worded neutrally; the heritage-language hub retitled
+
+**Outcome role text.** `link_learner_variables.py` wrote "instruction changes it" on every claim where a learner
+variable is the measured outcome, including one-group pre/post studies; the kind code `causal` does not separate
+those from controlled ones, and agents hand-reworded the line at 5 of 6 triage holds. The maintainer chose the
+neutral wording for new links (2026-11-03): "measured as an outcome of the instruction studied" (and the matching
+forms for the group-category and learning-style variables). The marker still carries direction and strength. The
+~9,350 existing lines keep the old wording; the model prompt that assigns the role is unchanged.
+
+**Heritage-language hub.** `claims/heritage-language-preservation-supports-english-acquisition` claimed that
+preserving the heritage language "supports rather than hinders" English acquisition, but none of its three entries
+tests that (a narrative review, a study of relearning L2 vocabulary, and a parent-involvement source). Retitled,
+with the maintainer's approval, to "Reviews and clinical guidance recommend supporting a bilingual student's
+heritage language alongside English; no study cited here tests whether doing so aids English acquisition"; link
+text updated on 29 pages; its markers had already been lowered to [+W]. The slug is kept.
+
 ## 2026-11-03 · a DOI fill now checks where the cited article was published
 
 Dejonckheere, De Wit, Van de Keere and Vervaet published "Exploring the classroom: Teaching science in early

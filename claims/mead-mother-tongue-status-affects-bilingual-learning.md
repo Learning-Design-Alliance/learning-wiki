@@ -51,7 +51,7 @@ The report quotes Mead's 1971 article "Early Childhood Experience and Later Educ
 - [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](mead-education-as-mechanism-of-social-change.md) — related
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
 - [A learner's mother language affects second language acquisition, particularly in production of absent sounds](mother-tongue-affects-sla-production.md) — related
-- [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
+- [Reviews and clinical guidance recommend supporting a bilingual student's heritage language alongside English; no study cited here tests whether doing so aids English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
 - [Mead observed that rapid change makes yesterday's knowledge useless, requiring education to teach coping with change rather than fixed content](mead-rapid-change-obsoletes-knowledge.md) — related
 - [Exceptional mismatches between test rank and school grade are explicable by social circumstances](test-grade-mismatches-explained-by-home-conditions.md) — related
 - [African children are primarily schooled in English from Grade 4 onwards, and the language-in-education policy has failed to promote indigenous African languages](liep-failure-english-from-grade-4.md) — a narrower finding that bears on this claim
