@@ -51,3 +51,4 @@ Post-survey open-ended prompt analysis ("When in particular did you feel like a 
 - [Students perceived a jump in accountable disciplinary knowledge in the advanced laboratory, describing more authentic, less prescribed work than in previous labs](adlab-students-perceived-adk-jump-and-authentic-practice.md) — related
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — related
 - [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](student-engagement-authenticity-clear-sequence.md) — related
+- [PBL students experienced the dynamic interplay of lecture and group work as providing security and comfort, and highlighted realistic project tasks as motivating](pbl-lecture-groupwork-security.md) — related

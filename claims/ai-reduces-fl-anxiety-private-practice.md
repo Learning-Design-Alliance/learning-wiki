@@ -117,3 +117,4 @@ Thematic synthesis codes 31 studies to self-efficacy and self-confidence enhance
 - [Test anxiety is the highest FLCA component, followed by communication apprehension and fear of negative evaluation](flca-component-ranking-test-anxiety-highest.md) — related
 - [Collaboration and private speech fostered a supportive classroom climate](sct-tblt-classroom-climate.md) — related
 - [Students perceive discussion boards as lowering anxiety about expressing opinions in a second language](discussion-board-lowers-l2-writing-anxiety.md) — related
+- [Pair interaction reportedly reduces anxiety and increases confidence and motivation](pair-interaction-reduces-anxiety-increases-motivation.md) — related

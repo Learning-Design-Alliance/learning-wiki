@@ -22,7 +22,7 @@ sources:
 # Fraction Face-Off!
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (6 for) · 6 studies (6 causal), `q3`–`q4` · 5 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 7 studies (7 causal), `q3`–`q4` · 6 of 7 report an effect size · 7 claims rest on one study
 
 ## Description
 Fraction Face-Off! is a structured small-group tutoring programme for at-risk fourth graders, delivered by teachers or paraprofessionals through daily supplementary fraction lessons and accompanying manuals and materials.
@@ -36,6 +36,7 @@ Fraction Face-Off! is a structured small-group tutoring programme for at-risk fo
 - **Fraction Face-Off! multi-component fraction intervention**: Fraction Face-Off! is the multi-component fraction intervention in which both the explaining and word-problem components were embedded. "Sessions occurred 3 times per week for 12 weeks with pairs of children," each 35 minutes, with 28 shared minutes focused on the measurement interpretation: comparing, ordering, placing fractions on number lines, and equivalencies. Instruction was explicit with worked examples, efficient strategies, cumulative review, and a motivation system of checkmarks, fraction dollars, and a weekly Fraction Store. (Fuchs et al. (2016))
 - **Fraction Face-Off! validated fraction magnitude intervention**: Fraction Face-Off! is a validated intervention for improving fraction magnitude understanding and applications in at-risk fourth graders. It builds fraction magnitude understanding via processing of benchmark fractions, with activities including comparing, ordering, and placing fractions on number lines and finding equivalencies. It is conducted in dyads three times per week for 12 weeks with approximately 35-minute lessons, uses an explicit instructional approach with worked examples and scaffolded practice, and incorporates a self-regulation system with timers and fraction money rewards. (Amelia S. Malone et al. (2019))
 - **Fraction Face-Off! multi-component fraction intervention**: Fraction Face-Off! is the multi-component fraction intervention in which both study components were embedded. "Sessions occurred 3 times per week for 12 weeks with pairs of children," each 35 minutes long, with 28 minutes identical across EXP and WP focusing on the measurement interpretation: comparing, ordering, placing fractions on number lines, and equivalencies. Instruction was explicit, with worked examples, efficient solution strategies, cumulative review, and a motivation system of checkmarks, a timer, and a weekly Fraction Store. Number lines reflected 70% of the intervention's emphasis. (Fuchs et al. (2015))
+- **Fraction Face-Off! core fraction intervention program**: Fraction Face-Off! is a 36-lesson manualized fraction intervention for at-risk fourth graders, delivered in dyads for 12 weeks, 3 sessions per week of 35 minutes. Its focus on "the measurement interpretation of fractions was achieved primarily through instruction and activities involving comparing, ordering, placing fractions on number lines, and equivalencies." Each lesson comprises six sports-themed activities, including a 7-minute word-problem warm-up, Training, The Relay, Sprint, The Individual Contest, and The Scoreboard, with cumulative review and a token-based Fraction Store for motivation. (Lynn S. Fuchs et al. (2016))
 
 ### Claims
 - [Fraction Face-Off! shows potentially positive effects on fourth-grade students' geometry and measurement outcomes, with a WWC-calculated average effect size of 0.96 and improvement index of +33](../claims/fraction-face-off-potentially-positive-geometry-measurement.md) [+M]
@@ -44,6 +45,7 @@ Fraction Face-Off! is a structured small-group tutoring programme for at-risk fo
 - [The multi-component measurement-focused fraction intervention outperforms part-whole-focused control on NAEP items, number line estimation, and calculations](../claims/measurement-fraction-intervention-beats-control-generalized-knowledge.md) [+M]
 - [Full fraction magnitude intervention produces superior fraction outcomes compared to control group on both near- and far-transfer measures](../claims/fm-intervention-superior-fraction-outcomes-vs-control.md) [+M]
 - [Both intervention variants outperformed control on NAEP fraction items, number-line estimation, and fraction calculations](../claims/both-interventions-beat-control-naep-number-line-calculations.md) [+M]
+- [A 12-week fraction intervention focused on the measurement interpretation of fractions outperformed business-as-usual control on number line, calculations, and NAEP fraction outcomes for at-risk fourth graders](../claims/fraction-measurement-intervention-outperforms-control-at-risk-fourth-graders.md) [+M]
 
 ## Related Products and Programmes
 
@@ -60,6 +62,7 @@ Fraction Face-Off! is a structured small-group tutoring programme for at-risk fo
 - Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R. S., Gersten, R., & Changas, P. (2016). Supported Self-Explaining during Fraction Intervention. Journal of Educational Psychology. https://doi.org/10.1037/edu0000073
 - Malone, A. S., Fuchs, L. S., Sterba, S. K., Fuchs, D., & Foreman-Murray, L. (2019). Does an integrated focus on fractions and decimals improve at-risk students' rational number magnitude performance? *Contemporary Educational Psychology, 59*, 101782. https://doi.org/10.1016/j.cedpsych.2019.101782
 - Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R., Gersten, R., & Changas, P. (2015). Supported Self-Explaining during Fraction Intervention. https://eric.ed.gov
+- Lynn S. Fuchs, Robin F. Schumacher, Jessica Long, Jessica Namkung, Amelia S. Malone, Amber Wang, Carol L. Hamlett, Nancy C. Jordan, Robert S. Siegler, and Paul Changas. (2016). Effects of Intervention to Improve At-Risk Fourth Graders' Understanding, Calculations, and Word Problems with Fractions. Elementary School Journal.
 
 # Fraction Face-Off! small-group tutoring program for at-risk fourth graders
 

@@ -77,3 +77,4 @@ Fine-grained item-level repeated-measures ANOVAs on the same 59-teacher sample. 
 - [Focus group discussion feedback during teaching practice raises pre-service teachers' self-efficacy perceptions more than teaching practice alone](focus-group-discussion-feedback-raises-pst-self-efficacy.md) — a narrower finding that bears on this claim
 - [Brain-based teaching significantly improves self-efficacy in young EFL learners](brain-based-teaching-improves-young-efl-self-efficacy.md) — related
 - [Teachers rated the importance of promoting a healthy lifestyle significantly higher after the workshop (d = 0.74 within the intervention group)](lq-workshop-increased-importance-of-healthy-lifestyle.md) — related
+- [A six-lesson constructivist-oriented nutrition curriculum significantly increased urban middle school students' nutrition knowledge relative to controls](constructivist-nutrition-education-knowledge-gains.md) — related

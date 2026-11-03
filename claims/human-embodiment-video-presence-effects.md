@@ -110,3 +110,4 @@ Narrative review attributing to Li, Kizilcec, Bailenson, and Ju (2016) an examin
 - [Instructor presence did not raise self-reported social presence or perceived learning, contrary to a recent meta-analytic finding](instructor-presence-no-social-presence-effect.md) — related
 - [Research has shown that video feedback can help increase conversational and affective communication](video-feedback-increases-conversational-affective-communication.md) — related
 - [Prior research suggests student-student interaction treatments affect online learning more than student-teacher interactions, while oral versus text presentation of information shows no difference](interaction-type-and-presentation-background-claims.md) — related
+- [Online instructors perceived facilitators who communicated frequently as their best facilitators.](instructors-rate-frequent-communicators-best.md) — related

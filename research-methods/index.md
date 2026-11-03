@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**983 entries** · 0 stable · 983 in review · 0 drafts
+**984 entries** · 0 stable · 984 in review · 0 drafts
 
 ---
 
@@ -866,6 +866,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Teaching-system episode framework: knowing–teaching–acting across three capability surfaces](teaching-system-episode-framework-knowingteachingacting-across-three-capability-surfaces.md) - The article proposes that tutor-agent readiness requires three separable capability surfaces: Stage 1 pedagogical judgment (a bounded teacher decision from packaged evidence), Stage 2 situated tutoring (a history-dependent adaptive teaching policy over a multi-turn episode), and Stage 3 end-to-end L
 * [Temporal network analysis](temporal-network-analysis.md) - Temporal networks are a method that models both the relational aspects (who interacts with whom) and the temporal aspects (order, duration, concurrency) of collaborative learning.
 * [Temporal Smoothness Doubly Robust (TSDR) framework for debiased knowledge tracing](temporal-smoothness-doubly-robust-tsdr-framework-for-debiased-knowledge-tracing.md) - TSDR is a model-agnostic debiasing framework for knowledge tracing that integrates a doubly robust estimator — combining Inverse Propensity Weighting with error imputation — with a temporal smoothness regularizer on the imputation model's latent trajectory.
+* [Ten experience criteria for analyzing positive learning experiences](ten-experience-criteria-for-analyzing-positive-learning-experiences.md) - The article applies ten criteria of \"positive experiences\" developed by Jantzen et al.
 * [Ten-dimension framework characterizing mobile-assisted seamless learning](ten-dimension-framework-characterizing-mobile-assisted-seamless-learning.md) - The review proposes a framework of ten dimensions that characterize MSL, derived from a review of recent academic papers on mobile-assisted seamless learning.
 * [Ten-topic-area taxonomy of family medicine education research](ten-topic-area-taxonomy-of-family-medicine-education-research.md) - The review organizes family medicine education research into a set of topic areas identified through scoping review of 624 articles.
 * [Tension-relaxation analysis of interpersonal relations in collaborative argumentation](tension-relaxation-analysis-of-interpersonal-relations-in-collaborative-argumentation.md) - Extending Bales' division of social interaction into a task zone and a socio-emotional zone, the author and Andriessen developed a formal analysis method aimed at studying \"the 'interaction' between deepening of a conflict (extending down into an argument chain) and fluctuations in tension-relaxatio

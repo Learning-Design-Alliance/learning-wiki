@@ -1,16 +1,16 @@
 {
 "counts":{
-"claim":46427,
-"design":2354,
+"claim":46478,
+"design":2357,
 "element":1057,
 "learner-variable":75,
 "method":37,
 "pattern":54,
 "principle":170,
 "process":18,
-"product":3088,
-"research-method":983,
-"strategy":9741,
+"product":3091,
+"research-method":984,
+"strategy":9751,
 "theory":1360
 },
 "kinds":[
@@ -7364,6 +7364,16 @@
 "type":"claim"
 },
 {
+"description":"ACT results were mixed: no overall participation effect on ACT Mathematics Composite or Plane Geometry/Trigonometry, but a significant participation-by-course interaction on the Algebra/Coordinate Geometry subscale",
+"evidence_strength":"mixed",
+"id":"act-results-mixed-participation-effect",
+"newest_evidence":"2011",
+"path":"claims/act-results-mixed-participation-effect.md",
+"status":"review",
+"title":"ACT results were mixed: no overall participation effect on ACT Mathematics Composite or Plane Geometry/Trigonometry, but a significant participation-by-course interaction on the Algebra/Coordinate Geometry subscale",
+"type":"claim"
+},
+{
 "description":"Among students with the same high grades, ACT scores differ substantially by race/ethnicity, a pattern the report flags as possible racial bias",
 "evidence_strength":"weak",
 "id":"act-score-gaps-by-race-at-same-gpa",
@@ -10197,6 +10207,16 @@
 "path":"claims/additive-tpack-belief-models-weak-intervention-guidance.md",
 "status":"review",
 "title":"Additive TPACK–belief integrations produce construct overlap, causal ambiguity, and weak intervention guidance",
+"type":"claim"
+},
+{
+"description":"On additive word problems, a step-down effect occurred: additive WP intervention beat multiplicative WP intervention, which beat control",
+"evidence_strength":"moderate",
+"id":"additive-wp-step-down-effect",
+"newest_evidence":"2016",
+"path":"claims/additive-wp-step-down-effect.md",
+"status":"review",
+"title":"On additive word problems, a step-down effect occurred: additive WP intervention beat multiplicative WP intervention, which beat control",
 "type":"claim"
 },
 {
@@ -33672,6 +33692,27 @@
 "type":"claim"
 },
 {
+"description":"Asymmetrical scaffolding significantly improved EFL learners' reading comprehension scores",
+"evidence_strength":"moderate",
+"id":"asymmetrical-scaffolding-improves-reading-comprehension",
+"newest_evidence":"2011",
+"path":"claims/asymmetrical-scaffolding-improves-reading-comprehension.md",
+"status":"review",
+"title":"Asymmetrical scaffolding significantly improved EFL learners' reading comprehension scores",
+"type":"claim"
+},
+{
+"description":"Asymmetrical scaffolding produced higher EFL reading comprehension post-test scores than symmetrical scaffolding",
+"evidence_strength":"moderate",
+"id":"asymmetrical-scaffolding-outperforms-symmetrical-reading-comprehension",
+"newest_evidence":"2011",
+"path":"claims/asymmetrical-scaffolding-outperforms-symmetrical-reading-comprehension.md",
+"source_checked":"2026-11-03",
+"status":"review",
+"title":"Asymmetrical scaffolding produced higher EFL reading comprehension post-test scores than symmetrical scaffolding",
+"type":"claim"
+},
+{
 "description":"Asymmetrical switch costs are not an unambiguous marker of inhibition: they depend on task type and bilingual profile, and admit non-inhibitory explanations",
 "evidence_strength":"weak",
 "id":"asymmetrical-switch-costs-not-unambiguous-inhibition-marker",
@@ -38096,6 +38137,16 @@
 "source_checked":"2026-10-26",
 "status":"review",
 "title":"Lower auditory working memory capacity moderates the training benefit: participants 1 SD below the mean improve significantly more after immersive than auditory training",
+"type":"claim"
+},
+{
+"description":"Additive WP intervention produced stronger fraction calculation performance than multiplicative WP intervention, while the two conditions performed comparably on number line and NAEP",
+"evidence_strength":"moderate",
+"id":"awp-calculation-advantage-over-mwp",
+"newest_evidence":"2016",
+"path":"claims/awp-calculation-advantage-over-mwp.md",
+"status":"review",
+"title":"Additive WP intervention produced stronger fraction calculation performance than multiplicative WP intervention, while the two conditions performed comparably on number line and NAEP",
 "type":"claim"
 },
 {
@@ -83446,6 +83497,36 @@
 "type":"claim"
 },
 {
+"description":"The intervention changed dietary behaviors for fruits, vegetables, meats and 'other' foods, but not for dairy or grains",
+"evidence_strength":"mixed",
+"id":"constructivist-nutrition-education-behavior-changes",
+"newest_evidence":"2011",
+"path":"claims/constructivist-nutrition-education-behavior-changes.md",
+"status":"review",
+"title":"The intervention changed dietary behaviors for fruits, vegetables, meats and 'other' foods, but not for dairy or grains",
+"type":"claim"
+},
+{
+"description":"A six-lesson constructivist-oriented nutrition curriculum significantly increased urban middle school students' nutrition knowledge relative to controls",
+"evidence_strength":"moderate",
+"id":"constructivist-nutrition-education-knowledge-gains",
+"newest_evidence":"2011",
+"path":"claims/constructivist-nutrition-education-knowledge-gains.md",
+"status":"review",
+"title":"A six-lesson constructivist-oriented nutrition curriculum significantly increased urban middle school students' nutrition knowledge relative to controls",
+"type":"claim"
+},
+{
+"description":"The constructivist nutrition intervention significantly increased students' dietary self-efficacy in four of five areas, but not for drinking less soda/pop",
+"evidence_strength":"moderate",
+"id":"constructivist-nutrition-education-self-efficacy-gains",
+"newest_evidence":"2011",
+"path":"claims/constructivist-nutrition-education-self-efficacy-gains.md",
+"status":"review",
+"title":"The constructivist nutrition intervention significantly increased students' dietary self-efficacy in four of five areas, but not for drinking less soda/pop",
+"type":"claim"
+},
+{
 "description":"Preservice teachers with placements promoting successful constructivist science teaching were more likely to report evaluativist personal epistemologies",
 "evidence_strength":"weak",
 "id":"constructivist-placements-evaluativism-preservice",
@@ -85089,6 +85170,16 @@
 "type":"claim"
 },
 {
+"description":"Control facilitators reported role ambiguity while intervention facilitators did not.",
+"evidence_strength":"moderate",
+"id":"control-facilitators-role-ambiguity",
+"newest_evidence":"2010",
+"path":"claims/control-facilitators-role-ambiguity.md",
+"status":"review",
+"title":"Control facilitators reported role ambiguity while intervention facilitators did not.",
+"type":"claim"
+},
+{
 "description":"Control-flow ordering errors appeared across all UH problems (43–52% of incorrect attempts) but were only a secondary pattern at Aalto, with the conceptual barrier apparently shifting with problem structure",
 "evidence_strength":"mixed",
 "id":"control-flow-ordering-errors-context-dependent",
@@ -86113,6 +86204,16 @@
 "type":"claim"
 },
 {
+"description":"The Control group scored highest on nervousness while the PBL course scored lowest",
+"evidence_strength":"moderate",
+"id":"control-highest-nervousness-pbl-lowest",
+"newest_evidence":"2015",
+"path":"claims/control-highest-nervousness-pbl-lowest.md",
+"status":"review",
+"title":"The Control group scored highest on nervousness while the PBL course scored lowest",
+"type":"claim"
+},
+{
 "description":"Control group students relied on memorizing algebraic formulas and could not connect graphs with algebraic expressions, while GeoGebra students built those connections and interpreted graphs better",
 "evidence_strength":"weak",
 "id":"control-memorization-versus-geogebra-graph-algebra-links",
@@ -86337,6 +86438,16 @@
 "path":"claims/control-variables-no-group-differences.md",
 "status":"review",
 "title":"The three groups did not differ significantly in prior knowledge, working memory capacity, spatial ability, learning motivation, or baseline eye-movement measures",
+"type":"claim"
+},
+{
+"description":"The Control group course scored worst on sadness and boredom, with the majority of students feeling happy and stimulated in all three designs",
+"evidence_strength":"moderate",
+"id":"control-worst-sadness-boredom",
+"newest_evidence":"2015",
+"path":"claims/control-worst-sadness-boredom.md",
+"status":"review",
+"title":"The Control group course scored worst on sadness and boredom, with the majority of students feeling happy and stimulated in all three designs",
 "type":"claim"
 },
 {
@@ -147873,6 +147984,16 @@
 "type":"claim"
 },
 {
+"description":"Intervention group schools had substantially lower dropout rates than control group schools in the first cohort.",
+"evidence_strength":"moderate",
+"id":"facilitator-intervention-lower-dropout-cohort1",
+"newest_evidence":"2010",
+"path":"claims/facilitator-intervention-lower-dropout-cohort1.md",
+"status":"review",
+"title":"Intervention group schools had substantially lower dropout rates than control group schools in the first cohort.",
+"type":"claim"
+},
+{
 "description":"The facilitator builds the shared account by shifting between narrator, mentor, and monitor roles and consolidating group consensus",
 "evidence_strength":"moderate",
 "id":"facilitator-role-shifting-shared-account",
@@ -163480,6 +163601,16 @@
 "type":"claim"
 },
 {
+"description":"Intervention students closed the achievement gap with not-at-risk classmates on fraction calculations, while the control group's gap remained approximately constant",
+"evidence_strength":"moderate",
+"id":"fraction-intervention-closed-calculation-achievement-gap",
+"newest_evidence":"2016",
+"path":"claims/fraction-intervention-closed-calculation-achievement-gap.md",
+"status":"review",
+"title":"Intervention students closed the achievement gap with not-at-risk classmates on fraction calculations, while the control group's gap remained approximately constant",
+"type":"claim"
+},
+{
 "description":"Fraction intervention students significantly outperform control students on generalized NAEP fraction items across five RCTs, with a mean ES of 0.58",
 "evidence_strength":"moderate",
 "id":"fraction-intervention-naep-es-058",
@@ -163530,6 +163661,16 @@
 "source_checked":"2026-10-23",
 "status":"review",
 "title":"Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement beyond fraction arithmetic skill in 5 of 6 Belgian, Chinese and U.S. grade samples, though not among Chinese 8th graders",
+"type":"claim"
+},
+{
+"description":"A 12-week fraction intervention focused on the measurement interpretation of fractions outperformed business-as-usual control on number line, calculations, and NAEP fraction outcomes for at-risk fourth graders",
+"evidence_strength":"moderate",
+"id":"fraction-measurement-intervention-outperforms-control-at-risk-fourth-graders",
+"newest_evidence":"2016",
+"path":"claims/fraction-measurement-intervention-outperforms-control-at-risk-fourth-graders.md",
+"status":"review",
+"title":"A 12-week fraction intervention focused on the measurement interpretation of fractions outperformed business-as-usual control on number line, calculations, and NAEP fraction outcomes for at-risk fourth graders",
 "type":"claim"
 },
 {
@@ -182174,6 +182315,16 @@
 "recheck_by":"1921",
 "status":"review",
 "title":"Graduating the scale by compositing the ten test-score distributions yielded an approximately normal ability distribution, and the age norms for ages 10 to 14 fell in almost a perfectly straight line",
+"type":"claim"
+},
+{
+"description":"For grains consumption, the group main effect and group x time interaction were significant but the time main effect was not",
+"evidence_strength":"weak",
+"id":"grains-behavior-null-time-effect",
+"newest_evidence":"2011",
+"path":"claims/grains-behavior-null-time-effect.md",
+"status":"review",
+"title":"For grains consumption, the group main effect and group x time interaction were significant but the time main effect was not",
 "type":"claim"
 },
 {
@@ -208208,6 +208359,16 @@
 "type":"claim"
 },
 {
+"description":"No Control group students felt their course was insignificant, while 1% of PBL+LM and 3% of PBL students did",
+"evidence_strength":"weak",
+"id":"insignificance-no-control-students",
+"newest_evidence":"2015",
+"path":"claims/insignificance-no-control-students.md",
+"status":"review",
+"title":"No Control group students felt their course was insignificant, while 1% of PBL+LM and 3% of PBL students did",
+"type":"claim"
+},
+{
 "description":"Adding eleven hours of in-situ applied experience to the course did not increase pedagogical content knowledge achievement over the embedded design course alone",
 "evidence_strength":"moderate",
 "id":"insitu-hours-no-achievement-gain",
@@ -209983,6 +210144,16 @@
 "path":"claims/instructors-prefer-less-effective-draw-framing.md",
 "status":"review",
 "title":"Instructors preferred the drawing-focused framing practice that was less effective than the control condition",
+"type":"claim"
+},
+{
+"description":"Online instructors perceived facilitators who communicated frequently as their best facilitators.",
+"evidence_strength":"moderate",
+"id":"instructors-rate-frequent-communicators-best",
+"newest_evidence":"2010",
+"path":"claims/instructors-rate-frequent-communicators-best.md",
+"status":"review",
+"title":"Online instructors perceived facilitators who communicated frequently as their best facilitators.",
 "type":"claim"
 },
 {
@@ -214478,6 +214649,16 @@
 "type":"claim"
 },
 {
+"description":"Only intervention facilitators proactively discussed long-term benefits of the course with their students.",
+"evidence_strength":"moderate",
+"id":"intervention-discussed-long-term-benefits",
+"newest_evidence":"2010",
+"path":"claims/intervention-discussed-long-term-benefits.md",
+"status":"review",
+"title":"Only intervention facilitators proactively discussed long-term benefits of the course with their students.",
+"type":"claim"
+},
+{
 "description":"The duration of EBP interventions, varying from some hours to even months, was not related to students' EBP competence",
 "evidence_strength":"weak",
 "id":"intervention-duration-not-related-to-ebp-competence",
@@ -214525,6 +214706,17 @@
 "path":"claims/intervention-essays-personal-voice-vs-textbook.md",
 "status":"review",
 "title":"Intervention students' essays conveyed personal voice and agency, while control students tended to reproduce textbook content",
+"type":"claim"
+},
+{
+"description":"Intervention facilitators participated in online training discussions at 10 times the rate of control facilitators.",
+"evidence_strength":"moderate",
+"id":"intervention-facilitators-10x-discussion-rate",
+"newest_evidence":"2010",
+"path":"claims/intervention-facilitators-10x-discussion-rate.md",
+"recheck_by":"2013",
+"status":"review",
+"title":"Intervention facilitators participated in online training discussions at 10 times the rate of control facilitators.",
 "type":"claim"
 },
 {
@@ -214687,6 +214879,16 @@
 "path":"claims/intervention-not-impulsivity-n2.md",
 "status":"review",
 "title":"Children's third-party intervention is not associated with impulsivity or inhibitory control over negative emotion indexed by frontal N2",
+"type":"claim"
+},
+{
+"description":"Intervention facilitators actively encouraged peer-to-peer communication while control facilitators did not mention it.",
+"evidence_strength":"moderate",
+"id":"intervention-peer-communication-encouragement",
+"newest_evidence":"2010",
+"path":"claims/intervention-peer-communication-encouragement.md",
+"status":"review",
+"title":"Intervention facilitators actively encouraged peer-to-peer communication while control facilitators did not mention it.",
 "type":"claim"
 },
 {
@@ -231277,6 +231479,16 @@
 "source_checked":"2026-10-20",
 "status":"review",
 "title":"Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment",
+"type":"claim"
+},
+{
+"description":"Learners preferred pair work and more capable partners, consistent with Vygotsky rather than Piaget",
+"evidence_strength":"weak",
+"id":"learner-attitudes-prefer-capable-partners-pair-work",
+"newest_evidence":"2011",
+"path":"claims/learner-attitudes-prefer-capable-partners-pair-work.md",
+"status":"review",
+"title":"Learners preferred pair work and more capable partners, consistent with Vygotsky rather than Piaget",
 "type":"claim"
 },
 {
@@ -255152,6 +255364,16 @@
 "type":"claim"
 },
 {
+"description":"Improvement in the measurement interpretation of fractions fully mediated the effect of intervention versus control on NAEP fraction performance",
+"evidence_strength":"moderate",
+"id":"measurement-interpretation-improvement-mediates-naep-fraction-effects",
+"newest_evidence":"2016",
+"path":"claims/measurement-interpretation-improvement-mediates-naep-fraction-effects.md",
+"status":"review",
+"title":"Improvement in the measurement interpretation of fractions fully mediated the effect of intervention versus control on NAEP fraction performance",
+"type":"claim"
+},
+{
 "description":"Measurement invariance across gender is supported, but full structural equivalence is rejected, with differences localized to transformational-leadership paths",
 "evidence_strength":"moderate",
 "id":"measurement-invariance-gender-structural-equivalence-rejected",
@@ -266583,6 +266805,36 @@
 "type":"claim"
 },
 {
+"description":"Teachers in a modeling-based discrete mathematics PD project significantly improved their discrete mathematics content knowledge, while matched comparison teachers did not",
+"evidence_strength":"moderate",
+"id":"modeling-pd-improves-discrete-math-teacher-knowledge",
+"newest_evidence":"2011",
+"path":"claims/modeling-pd-improves-discrete-math-teacher-knowledge.md",
+"status":"review",
+"title":"Teachers in a modeling-based discrete mathematics PD project significantly improved their discrete mathematics content knowledge, while matched comparison teachers did not",
+"type":"claim"
+},
+{
+"description":"Participating teachers' classroom practice became significantly more reformed and inquiry-based over the PD year, as measured by RTOP",
+"evidence_strength":"moderate",
+"id":"modeling-pd-improves-reformed-practice-rtop",
+"newest_evidence":"2011",
+"path":"claims/modeling-pd-improves-reformed-practice-rtop.md",
+"status":"review",
+"title":"Participating teachers' classroom practice became significantly more reformed and inquiry-based over the PD year, as measured by RTOP",
+"type":"claim"
+},
+{
+"description":"Students of participating teachers outperformed matched-control students on the AIMS mathematics test, with a significant participation-by-course interaction",
+"evidence_strength":"moderate",
+"id":"modeling-pd-students-outperform-aims",
+"newest_evidence":"2011",
+"path":"claims/modeling-pd-students-outperform-aims.md",
+"status":"review",
+"title":"Students of participating teachers outperformed matched-control students on the AIMS mathematics test, with a significant participation-by-course interaction",
+"type":"claim"
+},
+{
 "description":"Training combining modeling and performance feedback is associated with larger implementation fidelity effects (β = .77, p = .04)",
 "evidence_strength":"moderate",
 "id":"modeling-plus-performance-feedback-strongest-predictor",
@@ -268704,6 +268956,26 @@
 "path":"claims/moodle-score-flipped-attitude-delivery.md",
 "status":"review",
 "title":"Higher and lower Moodle scorers viewed flipped learning as almost equally valuable, but higher scorers talked more positively about how the course was delivered",
+"type":"claim"
+},
+{
+"description":"The MoodleReader program produced a larger production-vocabulary effect size (0.85) than the traditional extensive reading program (0.4)",
+"evidence_strength":"moderate",
+"id":"moodlereader-larger-effect-size-than-traditional-er",
+"newest_evidence":"2012",
+"path":"claims/moodlereader-larger-effect-size-than-traditional-er.md",
+"status":"review",
+"title":"The MoodleReader program produced a larger production-vocabulary effect size (0.85) than the traditional extensive reading program (0.4)",
+"type":"claim"
+},
+{
+"description":"The MoodleReader treatment affected production vocabulary more than recognition vocabulary in the experimental group",
+"evidence_strength":"moderate",
+"id":"moodlereader-production-gains-exceed-recognition",
+"newest_evidence":"2012",
+"path":"claims/moodlereader-production-gains-exceed-recognition.md",
+"status":"review",
+"title":"The MoodleReader treatment affected production vocabulary more than recognition vocabulary in the experimental group",
 "type":"claim"
 },
 {
@@ -274373,6 +274645,16 @@
 "path":"claims/multiplicative-word-problem-instruction-superior.md",
 "status":"review",
 "title":"Schema-based multiplicative word-problem instruction transfers to additive word problems, but additive instruction does not transfer to multiplicative problems",
+"type":"claim"
+},
+{
+"description":"Multiplicative word-problem intervention was superior to both additive WP intervention and control on the multiplicative WP measure, while additive WP intervention did not differ from control",
+"evidence_strength":"moderate",
+"id":"multiplicative-wp-intervention-specific-advantage",
+"newest_evidence":"2016",
+"path":"claims/multiplicative-wp-intervention-specific-advantage.md",
+"status":"review",
+"title":"Multiplicative word-problem intervention was superior to both additive WP intervention and control on the multiplicative WP measure, while additive WP intervention did not differ from control",
 "type":"claim"
 },
 {
@@ -288338,6 +288620,16 @@
 "path":"claims/no-relationship-essay-quality-feedback-quality.md",
 "status":"review",
 "title":"No significant relationship exists between essay quality and the overall quality of feedback generated by peers and ChatGPT",
+"type":"claim"
+},
+{
+"description":"No significant relationships were found between vocabulary learning strategy use and recognition vocabulary, or between strategy use and vocabulary in the control group",
+"evidence_strength":"moderate",
+"id":"no-relationship-strategies-recognition-and-control-vocabulary",
+"newest_evidence":"2012",
+"path":"claims/no-relationship-strategies-recognition-and-control-vocabulary.md",
+"status":"review",
+"title":"No significant relationships were found between vocabulary learning strategy use and recognition vocabulary, or between strategy use and vocabulary in the control group",
 "type":"claim"
 },
 {
@@ -305943,6 +306235,16 @@
 "type":"claim"
 },
 {
+"description":"Pair interaction reportedly reduces anxiety and increases confidence and motivation",
+"evidence_strength":"weak",
+"id":"pair-interaction-reduces-anxiety-increases-motivation",
+"newest_evidence":"2011",
+"path":"claims/pair-interaction-reduces-anxiety-increases-motivation.md",
+"status":"review",
+"title":"Pair interaction reportedly reduces anxiety and increases confidence and motivation",
+"type":"claim"
+},
+{
 "description":"Pair's self-evaluation performed every four sessions may make students more aware of their reading level and progress, enabling strategies for improvement crucial for modification of the self-concept",
 "evidence_strength":"weak",
 "id":"pair-self-evaluation-metacognitive-awareness",
@@ -312341,6 +312643,16 @@
 "type":"claim"
 },
 {
+"description":"PBL students experienced the dynamic interplay of lecture and group work as providing security and comfort, and highlighted realistic project tasks as motivating",
+"evidence_strength":"moderate",
+"id":"pbl-lecture-groupwork-security",
+"newest_evidence":"2015",
+"path":"claims/pbl-lecture-groupwork-security.md",
+"status":"review",
+"title":"PBL students experienced the dynamic interplay of lecture and group work as providing security and comfort, and highlighted realistic project tasks as motivating",
+"type":"claim"
+},
+{
 "description":"PBL students experience less learning time and higher learning pressure than traditional-teaching students in orthopaedics education",
 "evidence_strength":"moderate",
 "id":"pbl-less-time-higher-pressure-orthopaedics",
@@ -312358,6 +312670,16 @@
 "path":"claims/pbl-listening-comprehension-single-study.md",
 "status":"review",
 "title":"A single reviewed study suggests PBL improves EFL listening comprehension, leaving a clear research gap",
+"type":"claim"
+},
+{
+"description":"PBL+LM students reported the highest proportion of stress and PBL students the lowest across the three learning designs",
+"evidence_strength":"moderate",
+"id":"pbl-lm-highest-stress-pbl-lowest",
+"newest_evidence":"2015",
+"path":"claims/pbl-lm-highest-stress-pbl-lowest.md",
+"status":"review",
+"title":"PBL+LM students reported the highest proportion of stress and PBL students the lowest across the three learning designs",
 "type":"claim"
 },
 {
@@ -348441,6 +348763,16 @@
 "type":"claim"
 },
 {
+"description":"The Quiet Time protocol was feasible and acceptable in the primary school setting, with participants enjoying the meditation practice",
+"evidence_strength":"weak",
+"id":"qt-feasibility-acceptability-primary-school",
+"newest_evidence":"2023",
+"path":"claims/qt-feasibility-acceptability-primary-school.md",
+"status":"review",
+"title":"The Quiet Time protocol was feasible and acceptable in the primary school setting, with participants enjoying the meditation practice",
+"type":"claim"
+},
+{
 "description":"The intervention increased students' elaborated explanations and cumulative and exploratory talk",
 "evidence_strength":"moderate",
 "id":"qt-increases-explanations-cumulative-exploratory-talk",
@@ -348472,6 +348804,16 @@
 "type":"claim"
 },
 {
+"description":"The Quiet Time Transcendental Meditation program reduced teacher-rated emotional and behavioral difficulties in primary school children compared to a waiting list condition",
+"evidence_strength":"moderate",
+"id":"qt-meditation-reduces-sdq-difficulties",
+"newest_evidence":"2023",
+"path":"claims/qt-meditation-reduces-sdq-difficulties.md",
+"status":"review",
+"title":"The Quiet Time Transcendental Meditation program reduced teacher-rated emotional and behavioral difficulties in primary school children compared to a waiting list condition",
+"type":"claim"
+},
+{
 "description":"Students in the intervention group asked more authentic questions and used more student-directed turn allocation and reasoning in literary discussions",
 "evidence_strength":"moderate",
 "id":"qt-students-higher-quality-contributions",
@@ -348479,6 +348821,16 @@
 "path":"claims/qt-students-higher-quality-contributions.md",
 "status":"review",
 "title":"Students in the intervention group asked more authentic questions and used more student-directed turn allocation and reasoning in literary discussions",
+"type":"claim"
+},
+{
+"description":"After the waiting-list classes received Quiet Time, their emotional and behavioral difficulties stabilized or improved despite end-of-year exam stress",
+"evidence_strength":"moderate",
+"id":"qt-waiting-list-crossover-stabilization",
+"newest_evidence":"2023",
+"path":"claims/qt-waiting-list-crossover-stabilization.md",
+"status":"review",
+"title":"After the waiting-list classes received Quiet Time, their emotional and behavioral difficulties stabilized or improved despite end-of-year exam stress",
 "type":"claim"
 },
 {
@@ -367157,6 +367509,16 @@
 "type":"claim"
 },
 {
+"description":"Working with LEGO Mindstorms robots was highly engaging and motivating for students, but produced stress, insecurity about theoretical knowledge, and logistical frustration",
+"evidence_strength":"moderate",
+"id":"robots-engaging-but-stressful",
+"newest_evidence":"2015",
+"path":"claims/robots-engaging-but-stressful.md",
+"status":"review",
+"title":"Working with LEGO Mindstorms robots was highly engaging and motivating for students, but produced stress, insecurity about theoretical knowledge, and logistical frustration",
+"type":"claim"
+},
+{
 "description":"A communication robot as cooperative learning partner elicited student interactions similar to those with human partners",
 "evidence_strength":"weak",
 "id":"robovie-cooperative-learning-partner-interactions",
@@ -369054,6 +369416,16 @@
 "path":"claims/rtms-vlpfc-exacerbates-distraction-effect.md",
 "status":"review",
 "title":"Perturbing left VLPFC with rTMS exacerbates the disruptive effect of visual distraction on episodic retrieval, indicating a causal role in resolving interference",
+"type":"claim"
+},
+{
+"description":"Teachers' RTOP scores correlated moderately-to-highly with their post-test content knowledge (Spearman rho = .50, p = .007)",
+"evidence_strength":"weak",
+"id":"rtop-content-knowledge-correlation",
+"newest_evidence":"2011",
+"path":"claims/rtop-content-knowledge-correlation.md",
+"status":"review",
+"title":"Teachers' RTOP scores correlated moderately-to-highly with their post-test content knowledge (Spearman rho = .50, p = .007)",
 "type":"claim"
 },
 {
@@ -378284,6 +378656,16 @@
 "path":"claims/sdq-impact-supplement-means-decreased-posttest.md",
 "status":"review",
 "title":"Intervention-group means on SDQ impact-supplement items decreased from pretest to posttest across distress, everyday-life interference, friendships, classroom learning, leisure, and burden on others",
+"type":"claim"
+},
+{
+"description":"SDQ total difficulties and external symptoms showed the largest between-group improvements after Quiet Time, while prosocial behavior and internal symptoms did not differ significantly",
+"evidence_strength":"moderate",
+"id":"sdq-subscales-qt-between-group-pattern",
+"newest_evidence":"2023",
+"path":"claims/sdq-subscales-qt-between-group-pattern.md",
+"status":"review",
+"title":"SDQ total difficulties and external symptoms showed the largest between-group improvements after Quiet Time, while prosocial behavior and internal symptoms did not differ significantly",
 "type":"claim"
 },
 {
@@ -403735,6 +404117,16 @@
 "type":"claim"
 },
 {
+"description":"Instructed visual-imagery use was near-universal across age groups, whereas spontaneous imagery use occurred almost only in younger adults",
+"evidence_strength":"moderate",
+"id":"spontaneous-imagery-use-younger-adults-only",
+"newest_evidence":"2015",
+"path":"claims/spontaneous-imagery-use-younger-adults-only.md",
+"status":"review",
+"title":"Instructed visual-imagery use was near-universal across age groups, whereas spontaneous imagery use occurred almost only in younger adults",
+"type":"claim"
+},
+{
 "description":"In Experiment 1, the extent of informative interleaving did not correlate with category assignment performance, which the authors interpret as a utilization deficiency",
 "evidence_strength":"weak",
 "id":"spontaneous-interleaving-no-performance-correlation-exp1",
@@ -411346,6 +411738,26 @@
 "type":"claim"
 },
 {
+"description":"Strategy training improved confidence-judgment accuracy across all age groups",
+"evidence_strength":"moderate",
+"id":"strategy-training-cj-accuracy-all-ages",
+"newest_evidence":"2015",
+"path":"claims/strategy-training-cj-accuracy-all-ages.md",
+"status":"review",
+"title":"Strategy training improved confidence-judgment accuracy across all age groups",
+"type":"claim"
+},
+{
+"description":"Strategy training improved CJ differentiation for children and older adults but not for adolescents and younger adults",
+"evidence_strength":"mixed",
+"id":"strategy-training-cj-differentiation-age-limits",
+"newest_evidence":"2015",
+"path":"claims/strategy-training-cj-differentiation-age-limits.md",
+"status":"review",
+"title":"Strategy training improved CJ differentiation for children and older adults but not for adolescents and younger adults",
+"type":"claim"
+},
+{
 "description":"Each training type enhances learners' use of its own strategy category: memory training raises memory-strategy use and cognitive training raises cognitive-strategy use",
 "evidence_strength":"moderate",
 "id":"strategy-training-enhances-matching-strategy-use",
@@ -411363,6 +411775,16 @@
 "path":"claims/strategy-training-improves-reading-comprehension-non-english-majors.md",
 "status":"review",
 "title":"Reading strategy training improved reading comprehension for non-English majors over a five-week experiment",
+"type":"claim"
+},
+{
+"description":"A short visual-imagery strategy training improves paired-associate recognition performance across age groups, most strongly for recombined and new word pairs",
+"evidence_strength":"moderate",
+"id":"strategy-training-improves-recognition-performance",
+"newest_evidence":"2015",
+"path":"claims/strategy-training-improves-recognition-performance.md",
+"status":"review",
+"title":"A short visual-imagery strategy training improves paired-associate recognition performance across age groups, most strongly for recombined and new word pairs",
 "type":"claim"
 },
 {
@@ -411394,6 +411816,26 @@
 "source_checked":"2026-11-03",
 "status":"review",
 "title":"EFL students taught communication strategies via explicit or co-constructed instruction employ the taught phrases more frequently in small-group discussions than untrained control students",
+"type":"claim"
+},
+{
+"description":"Strategy training improved JOL accuracy (gamma correlations) significantly only in children, with a marginal tendency in older adults",
+"evidence_strength":"mixed",
+"id":"strategy-training-jol-accuracy-children",
+"newest_evidence":"2015",
+"path":"claims/strategy-training-jol-accuracy-children.md",
+"status":"review",
+"title":"Strategy training improved JOL accuracy (gamma correlations) significantly only in children, with a marginal tendency in older adults",
+"type":"claim"
+},
+{
+"description":"Strategy training enabled JOL differentiation between later correct and incorrect answers in all age groups, whereas only adolescents and younger adults differentiated without training",
+"evidence_strength":"moderate",
+"id":"strategy-training-jol-differentiation",
+"newest_evidence":"2015",
+"path":"claims/strategy-training-jol-differentiation.md",
+"status":"review",
+"title":"Strategy training enabled JOL differentiation between later correct and incorrect answers in all age groups, whereas only adolescents and younger adults differentiated without training",
 "type":"claim"
 },
 {
@@ -411535,6 +411977,16 @@
 "path":"claims/strategy-use-quality-conditionality-over-frequency.md",
 "status":"review",
 "title":"Review findings on college strategic processing: development under-studied, quality of strategy use matters more than frequency, and learner and environmental conditions determine effectiveness",
+"type":"claim"
+},
+{
+"description":"The experimental group's use of vocabulary learning strategies was significantly related to their production vocabulary gains",
+"evidence_strength":"moderate",
+"id":"strategy-use-related-to-production-vocabulary",
+"newest_evidence":"2012",
+"path":"claims/strategy-use-related-to-production-vocabulary.md",
+"status":"review",
+"title":"The experimental group's use of vocabulary learning strategies was significantly related to their production vocabulary gains",
 "type":"claim"
 },
 {
@@ -424431,6 +424883,16 @@
 "source_checked":"2026-10-20",
 "status":"review",
 "title":"Symbols-only training improved kindergarteners' performance on difficult place value items, but base-10 blocks training did not",
+"type":"claim"
+},
+{
+"description":"Symmetrical scaffolding significantly improved EFL learners' reading comprehension scores",
+"evidence_strength":"moderate",
+"id":"symmetrical-scaffolding-improves-reading-comprehension",
+"newest_evidence":"2011",
+"path":"claims/symmetrical-scaffolding-improves-reading-comprehension.md",
+"status":"review",
+"title":"Symmetrical scaffolding significantly improved EFL learners' reading comprehension scores",
 "type":"claim"
 },
 {
@@ -450290,6 +450752,16 @@
 "type":"claim"
 },
 {
+"description":"Strategy training reduced familiarity-based judgments and increased no-memory responses, indicating a shift toward more reliable monitoring cues",
+"evidence_strength":"moderate",
+"id":"training-shifts-cues-away-from-familiarity",
+"newest_evidence":"2015",
+"path":"claims/training-shifts-cues-away-from-familiarity.md",
+"status":"review",
+"title":"Strategy training reduced familiarity-based judgments and increased no-memory responses, indicating a shift toward more reliable monitoring cues",
+"type":"claim"
+},
+{
 "description":"Training-specific generalization: Extent training promotes transfer to novel amplitudes whereas Angular training supports transfer to novel directions",
 "evidence_strength":"mixed",
 "id":"training-specific-generalization-extent-angular",
@@ -460308,6 +460780,46 @@
 "path":"claims/using-all-three-approaches-linked-to-higher-scores.md",
 "status":"review",
 "title":"Experimental-group students who used all three approaches in their posttest answers tended to earn higher scores",
+"type":"claim"
+},
+{
+"description":"In case-study treatment schools, teachers reported the program influenced their data use mainly by providing an analytic framework for discussing data with colleagues",
+"evidence_strength":"weak",
+"id":"using-data-analytic-framework-teacher-reports",
+"newest_evidence":"2013",
+"path":"claims/using-data-analytic-framework-teacher-reports.md",
+"status":"review",
+"title":"In case-study treatment schools, teachers reported the program influenced their data use mainly by providing an analytic framework for discussing data with colleagues",
+"type":"claim"
+},
+{
+"description":"After one year, collaborative data use was higher among teachers in Using Data treatment schools than control schools",
+"evidence_strength":"moderate",
+"id":"using-data-collaborative-data-use-increase",
+"newest_evidence":"2013",
+"path":"claims/using-data-collaborative-data-use-increase.md",
+"status":"review",
+"title":"After one year, collaborative data use was higher among teachers in Using Data treatment schools than control schools",
+"type":"claim"
+},
+{
+"description":"After one intervention year, fourth- and fifth-grade math achievement was no higher in Using Data treatment schools than in control schools",
+"evidence_strength":"moderate",
+"id":"using-data-no-year1-math-achievement-effect",
+"newest_evidence":"2013",
+"path":"claims/using-data-no-year1-math-achievement-effect.md",
+"status":"review",
+"title":"After one intervention year, fourth- and fifth-grade math achievement was no higher in Using Data treatment schools than in control schools",
+"type":"claim"
+},
+{
+"description":"Spring survey item-level differences favored treatment teachers on working with colleagues from other grade levels, district-level activities, and other settings",
+"evidence_strength":"weak",
+"id":"using-data-survey-item-differences",
+"newest_evidence":"2013",
+"path":"claims/using-data-survey-item-differences.md",
+"status":"review",
+"title":"Spring survey item-level differences favored treatment teachers on working with colleagues from other grade levels, district-level activities, and other settings",
 "type":"claim"
 },
 {
@@ -484879,6 +485391,14 @@
 "type":"design"
 },
 {
+"description":"The article's curriculum comprises \\\"six one-hour lessons\\\" covering food groups, analyzing influences on eating, food labels, health claims, body image and fast food restaurants.",
+"id":"constructivist-nutrition-curriculum-design-pattern",
+"path":"designs/constructivist-nutrition-curriculum-design-pattern.md",
+"status":"review",
+"title":"Constructivist nutrition curriculum design: six lessons combining active learning, prior knowledge, group work and socio-cultural connections",
+"type":"design"
+},
+{
 "description":"The CONTACT strategy is an instructional approach premised on the idea that students need guidance to activate and correct their preconceptions in text processing.",
 "id":"contact-strategy-preconception-activation",
 "path":"designs/contact-strategy-preconception-activation.md",
@@ -487190,6 +487710,14 @@
 "path":"designs/expand-fullday-prek-access-for-attendance-equity.md",
 "status":"review",
 "title":"Expand access to full-day pre-k, prioritizing students and families facing the greatest logistical and economic barriers to attendance",
+"type":"design"
+},
+{
+"description":"The article proposes an expanded teacher-facilitator model in which the four components of the online instructor role identified by Berge — pedagogical, social, organizational, and technical — are distributed between...",
+"id":"expanded-teacher-facilitator-hybrid-model",
+"path":"designs/expanded-teacher-facilitator-hybrid-model.md",
+"status":"review",
+"title":"Expanded teacher-facilitator model distributing instructional components between online instructor and on-site facilitator",
 "type":"design"
 },
 {
@@ -492405,6 +492933,14 @@
 "path":"designs/modeling-lectures-plus-collaborative-workshop-sessions.md",
 "status":"review",
 "title":"Technical mathematics course structure combining expert modeling lectures with collaborative workshop sessions",
+"type":"design"
+},
+{
+"description":"A year-long, 135-contact-hour professional development program in which 42 teachers initially participated, built around a models and modeling perspective.",
+"id":"modeling-msp-discrete-math-pd-program",
+"path":"designs/modeling-msp-discrete-math-pd-program.md",
+"status":"review",
+"title":"Modeling MSP professional development program for discrete mathematics",
 "type":"design"
 },
 {
@@ -526344,6 +526880,14 @@
 "type":"product"
 },
 {
+"description":"MoodleReader is an online database and Moodle-based quiz platform developed at Kyoto Sangyo University for administering randomized quizzes on graded readers in extensive-reading programs.",
+"id":"moodlereader",
+"path":"products/moodlereader.md",
+"status":"review",
+"title":"MoodleReader",
+"type":"product"
+},
+{
 "description":"MoodMap App is a prototype software application developed by Pammer-Schindler et al.",
 "id":"moodmap-app",
 "path":"products/moodmap-app.md",
@@ -529999,6 +530543,14 @@
 "path":"products/questionnaire-measuring-the-motivational-component-of-learners-cognitive-activity.md",
 "status":"review",
 "title":"Questionnaire measuring the motivational component of learners' cognitive activity",
+"type":"product"
+},
+{
+"description":"A school-based Transcendental Meditation programme delivered and supervised by certified TM teachers, with supported daily practice for pupils.",
+"id":"quiet-time-transcendental-meditation-program",
+"path":"products/quiet-time-transcendental-meditation-program.md",
+"status":"review",
+"title":"Quiet Time Transcendental Meditation program",
 "type":"product"
 },
 {
@@ -536060,6 +536612,14 @@
 "path":"products/user-experience-design-tools-for-courseware-persona-creation-kit-journey-maps-and-ecosyste.md",
 "status":"review",
 "title":"User experience design tools for courseware: persona creation kit, journey maps, and ecosystem maps",
+"type":"product"
+},
+{
+"description":"A TERC and WestEd professional-development and technical-assistance programme that supports teacher data teams and coaches in collaboratively analysing student data and developing instructional action plans.",
+"id":"using-data-ud-professional-development-program",
+"path":"products/using-data-ud-professional-development-program.md",
+"status":"review",
+"title":"Using Data (UD) professional development program",
 "type":"product"
 },
 {
@@ -543695,6 +544255,14 @@
 "path":"research-methods/ten-dimension-framework-characterizing-mobile-assisted-seamless-learning.md",
 "status":"review",
 "title":"Ten-dimension framework characterizing mobile-assisted seamless learning",
+"type":"research-method"
+},
+{
+"description":"The article applies ten criteria of \\\"positive experiences\\\" developed by Jantzen et al.",
+"id":"ten-experience-criteria-for-analyzing-positive-learning-experiences",
+"path":"research-methods/ten-experience-criteria-for-analyzing-positive-learning-experiences.md",
+"status":"review",
+"title":"Ten experience criteria for analyzing positive learning experiences",
 "type":"research-method"
 },
 {
@@ -551657,6 +552225,14 @@
 "type":"strategy"
 },
 {
+"description":"The study assigned schools an index score using principal components analysis with Title 1 status, percent of students who are black, percent eligible for free or reduced-price lunch, and the school-wide 2010 state as...",
+"id":"block-randomization-pca-index-school-assignment",
+"path":"strategies/block-randomization-pca-index-school-assignment.md",
+"status":"review",
+"title":"Use school-level block randomization with a principal-components index to balance a diverse district sample",
+"type":"strategy"
+},
+{
 "description":"Oakland International uses an A/B block schedule with 55- or 105-minute blocks that gives teachers \\\"approximately 90 minutes embedded in each school day and an additional hour after students are released early on Wedn...",
 "id":"block-schedule-embedded-planning-time-teacher-retention",
 "path":"strategies/block-schedule-embedded-planning-time-teacher-retention.md",
@@ -558454,6 +559030,14 @@
 "path":"strategies/constructivist-environment-extra-low-ability-attention-strategy.md",
 "status":"review",
 "title":"Create a constructivist learning environment in basic science while giving extra attention and tutorials to low ability students",
+"type":"strategy"
+},
+{
+"description":"The article provided teachers eight hours of weekend professional development on the Michigan Model for Health Education curriculum, aligned with the three principles of constructivism.",
+"id":"constructivist-teacher-professional-development-nutrition",
+"path":"strategies/constructivist-teacher-professional-development-nutrition.md",
+"status":"review",
+"title":"Ground teacher professional development for nutrition education in constructivist principles",
 "type":"strategy"
 },
 {
@@ -572507,6 +573091,14 @@
 "type":"strategy"
 },
 {
+"description":"Based on their findings, the authors recommend that teachers form asymmetrical pairs instead of symmetrical pairs, implement scaffolding regularly in classroom settings, and create conversational contexts that extend...",
+"id":"form-asymmetrical-pairs-for-cooperative-reading",
+"path":"strategies/form-asymmetrical-pairs-for-cooperative-reading.md",
+"status":"review",
+"title":"Form asymmetrical pairs and build pair work into reading instruction",
+"type":"strategy"
+},
+{
 "description":"A concrete, implementable self-regulation strategy: learners form plans in the format \\\"If situation Y is encountered, then I will initiate goal-directed behavior X!\\\", spelling out the when, where, and how of goal stri...",
 "id":"form-if-then-implementation-intentions-strategy",
 "path":"strategies/form-if-then-implementation-intentions-strategy.md",
@@ -578669,6 +579261,14 @@
 "type":"strategy"
 },
 {
+"description":"The authors recommend that policymakers and practitioners bring meditation-based programs into the educational system as a school-based intervention for children's positive development.",
+"id":"implement-contemplative-practices-in-schools",
+"path":"strategies/implement-contemplative-practices-in-schools.md",
+"status":"review",
+"title":"Implement contemplative meditation practices across educational settings, including disadvantaged ones",
+"type":"strategy"
+},
+{
 "description":"The authors recommend that educators wanting the benefits of contextualized teaching and learning can implement it \\\"with more peace of mind that students will still learn the basics\\\", since the contextualized curricul...",
 "id":"implement-ctl-when-application-is-goal",
 "path":"strategies/implement-ctl-when-application-is-goal.md",
@@ -581046,6 +581646,14 @@
 "path":"strategies/integrate-iot-biometric-proctoring.md",
 "status":"review",
 "title":"Integrate IoT and biometric technologies to augment the security, scalability, and operational efficiency of online proctoring systems",
+"type":"strategy"
+},
+{
+"description":"Based on prior findings that robots limit time for reflection and that PBL benefits from combined activities, the authors designed their PBL+LM design by \\\"integrating theoretical lectures about programming theory in t...",
+"id":"integrate-lectures-pbl-robot-groups",
+"path":"strategies/integrate-lectures-pbl-robot-groups.md",
+"status":"review",
+"title":"Integrate theoretical lectures into PBL project work and provide one robot per group when using LEGO Mindstorms in programming courses",
 "type":"strategy"
 },
 {
@@ -589150,6 +589758,14 @@
 "path":"strategies/moodle-video-listening-exercises.md",
 "status":"review",
 "title":"Deliver video-based listening exercises through a structured online platform with limited replay attempts",
+"type":"strategy"
+},
+{
+"description":"The article recommends that classroom teachers use the MoodleReader to build an English learning context outside class.",
+"id":"moodlereader-out-of-class-er-context-strategy",
+"path":"strategies/moodlereader-out-of-class-er-context-strategy.md",
+"status":"review",
+"title":"Create an out-of-class English extensive reading context using the MoodleReader that students can participate in at their own pace, level, and interest",
 "type":"strategy"
 },
 {
@@ -604181,6 +604797,14 @@
 "type":"strategy"
 },
 {
+"description":"After the first RTOP observation, the project held an RTOP Evaluation Dissemination session in which teachers shared experience and asked follow-up questions about each RTOP category and item.",
+"id":"rtop-evaluation-dissemination-modeling-exemplars",
+"path":"strategies/rtop-evaluation-dissemination-modeling-exemplars.md",
+"status":"review",
+"title":"Use RTOP evaluation dissemination sessions with modeled exemplar teaching to develop reformed practices",
+"type":"strategy"
+},
+{
 "description":"Assessment structured around explicit scoring criteria that describe performance levels, shared with learners before they attempt the task.",
 "id":"rubric-based-assessment",
 "path":"strategies/rubric-based-assessment.md",
@@ -604855,6 +605479,14 @@
 "path":"strategies/scenario-analogies-ram-and-logic-gates.md",
 "status":"review",
 "title":"Use extended real-life scenario analogies for RAM versus permanent storage and for logic gates",
+"type":"strategy"
+},
+{
+"description":"The intervention training used scenario-based modules grounded in the APA's 14 learner-centered psychological principles (LCPs), which indicate that learning is social in nature and that social interactions are a key...",
+"id":"scenario-based-lcp-facilitator-training",
+"path":"strategies/scenario-based-lcp-facilitator-training.md",
+"status":"review",
+"title":"Scenario-based learner-centered facilitator training using APA's learner-centered psychological principles",
 "type":"strategy"
 },
 {
@@ -607432,6 +608064,14 @@
 "path":"strategies/short-goal-targeted-pre-class-videos.md",
 "status":"review",
 "title":"Keep pre-class teaching videos short (10–20 minutes), goal-targeted, and followed by checking homework",
+"type":"strategy"
+},
+{
+"description":"The article's training consisted of a standardized, brief instruction in visual imagery: the administrator explained \\\"the advantages of memorizing word pairs as one interconnected image\\\", demonstrated with two drawing...",
+"id":"short-imagery-instruction-monitoring",
+"path":"strategies/short-imagery-instruction-monitoring.md",
+"status":"review",
+"title":"Use a short visual-imagery strategy instruction to strengthen diagnostic recollection-based cues before paired-associate learning",
 "type":"strategy"
 },
 {
@@ -614528,6 +615168,14 @@
 "path":"strategies/target-recovery-tutoring-enrichment-low-performers.md",
 "status":"review",
 "title":"Target recovery resources to low-performing students via tutoring and high-quality enrichment",
+"type":"strategy"
+},
+{
+"description":"The article recommends that future educators spend additional instructional time on knowledge, self-efficacy and behavior items that were resistant to improvement or where students scored low at post-test.",
+"id":"target-resistant-nutrition-items-strategy",
+"path":"strategies/target-resistant-nutrition-items-strategy.md",
+"status":"review",
+"title":"Focus additional instruction on items that proved resistant to change or where students still scored low",
 "type":"strategy"
 },
 {
@@ -635044,6 +635692,7 @@
 "act-off-training-transfer-mixed":"act-off-training-transfer-mixed",
 "act-on-training-gains-four-domains":"act-on-training-gains-four-domains",
 "act-plus-hsgpa-reduces-high-school-variance":"act-plus-hsgpa-reduces-high-school-variance",
+"act-results-mixed-participation-effect":"act-results-mixed-participation-effect",
 "act-score-gaps-by-race-at-same-gpa":"act-score-gaps-by-race-at-same-gpa",
 "act-scores-and-aid-confusion-deter-enrollment":"act-scores-and-aid-confusion-deter-enrollment",
 "act-scores-below-student-expectations":"act-scores-below-student-expectations",
@@ -635326,6 +635975,7 @@
 "additional-support-no-significant-belief-impact":"additional-support-no-significant-belief-impact",
 "additional-support-product-development-most-common":"additional-support-product-development-most-common",
 "additive-tpack-belief-models-weak-intervention-guidance":"additive-tpack-belief-models-weak-intervention-guidance",
+"additive-wp-step-down-effect":"additive-wp-step-down-effect",
 "addressing-no-transfer-effect":"addressing-no-transfer-effect",
 "adequacy-gap-associated-outcomes":"adequacy-gap-associated-outcomes",
 "adequate-definitions-rare-before-eleventh-year":"adequate-definitions-rare-before-eleventh-year",
@@ -637605,6 +638255,8 @@
 "asymmetric-female-agency-suppression-bias-transfer":"asymmetric-female-agency-suppression-bias-transfer",
 "asymmetric-reciprocal-fairness-trust-aita":"asymmetric-reciprocal-fairness-trust-aita",
 "asymmetric-within-student-llm-disengagement-in-teams":"asymmetric-within-student-llm-disengagement-in-teams",
+"asymmetrical-scaffolding-improves-reading-comprehension":"asymmetrical-scaffolding-improves-reading-comprehension",
+"asymmetrical-scaffolding-outperforms-symmetrical-reading-comprehension":"asymmetrical-scaffolding-outperforms-symmetrical-reading-comprehension",
 "asymmetrical-switch-costs-not-unambiguous-inhibition-marker":"asymmetrical-switch-costs-not-unambiguous-inhibition-marker",
 "async-concurrency-latency-bounded-by-slowest-model":"async-concurrency-latency-bounded-by-slowest-model",
 "async-quasi-sync-behaviorally-alike":"async-quasi-sync-behaviorally-alike",
@@ -638036,6 +638688,7 @@
 "awl-academic-vocabulary-supports-engagement-identification":"awl-academic-vocabulary-supports-engagement-identification",
 "awl-count-word-count-feature-importance-engagement":"awl-count-word-count-feature-importance-engagement",
 "awm-moderates-immersive-training-benefit":"awm-moderates-immersive-training-benefit",
+"awp-calculation-advantage-over-mwp":"awp-calculation-advantage-over-mwp",
 "awt-learner-opinions-socialization-vocabulary":"awt-learner-opinions-socialization-vocabulary",
 "awt-posttest-outperforms-traditional-writing":"awt-posttest-outperforms-traditional-writing",
 "awt-pretest-groups-equivalent-writing-skills":"awt-pretest-groups-equivalent-writing-skills",
@@ -642449,6 +643102,9 @@
 "constructivist-effects-not-always-expected":"constructivist-effects-not-always-expected",
 "constructivist-environment-higher-basic-science-achievement-nigeria":"constructivist-environment-higher-basic-science-achievement-nigeria",
 "constructivist-group-lower-posttest-difficulty":"constructivist-group-lower-posttest-difficulty",
+"constructivist-nutrition-education-behavior-changes":"constructivist-nutrition-education-behavior-changes",
+"constructivist-nutrition-education-knowledge-gains":"constructivist-nutrition-education-knowledge-gains",
+"constructivist-nutrition-education-self-efficacy-gains":"constructivist-nutrition-education-self-efficacy-gains",
 "constructivist-placements-evaluativism-preservice":"constructivist-placements-evaluativism-preservice",
 "constructivist-sociocultural-dichotomy-shapes-practice":"constructivist-sociocultural-dichotomy-shapes-practice",
 "constructivist-syllabus-beats-knowledge-based-culture-teaching":"constructivist-syllabus-beats-knowledge-based-culture-teaching",
@@ -642610,6 +643266,7 @@
 "control-environmental-reductionist-knowledge":"control-environmental-reductionist-knowledge",
 "control-experiment-rules-out-text-saliency":"control-experiment-rules-out-text-saliency",
 "control-external-obligation-techno-optimism":"control-external-obligation-techno-optimism",
+"control-facilitators-role-ambiguity":"control-facilitators-role-ambiguity",
 "control-flow-ordering-errors-context-dependent":"control-flow-ordering-errors-context-dependent",
 "control-group-2-8-percent-decrease":"control-group-2-8-percent-decrease",
 "control-group-achievement-goal-decline":"control-group-achievement-goal-decline",
@@ -642711,6 +643368,7 @@
 "control-group-worksheets-improvement":"control-group-worksheets-improvement",
 "control-group-wtc-unchanged":"control-group-wtc-unchanged",
 "control-groups-little-vocabulary-gain-without-cognate-instruction":"control-groups-little-vocabulary-gain-without-cognate-instruction",
+"control-highest-nervousness-pbl-lowest":"control-highest-nervousness-pbl-lowest",
 "control-memorization-versus-geogebra-graph-algebra-links":"control-memorization-versus-geogebra-graph-algebra-links",
 "control-models-include-ips-and-ag":"control-models-include-ips-and-ag",
 "control-more-english-language-instruction":"control-more-english-language-instruction",
@@ -642733,6 +643391,7 @@
 "control-type-classification-counts-by-domain":"control-type-classification-counts-by-domain",
 "control-value-variables-reduce-achievement-enjoyment-effects":"control-value-variables-reduce-achievement-enjoyment-effects",
 "control-variables-no-group-differences":"control-variables-no-group-differences",
+"control-worst-sadness-boredom":"control-worst-sadness-boredom",
 "controlled-motivation-negative-no-compensation":"controlled-motivation-negative-no-compensation",
 "controlled-motivation-no-negative-effects-desirable-outcomes":"controlled-motivation-no-negative-effects-desirable-outcomes",
 "controlled-studies-advantage-guided-inquiry-over-direct-instruction":"controlled-studies-advantage-guided-inquiry-over-direct-instruction",
@@ -648749,6 +649408,7 @@
 "facilitation-codes-differ-across-segments":"facilitation-codes-differ-across-segments",
 "facilitation-converts-physical-to-epistemological-access":"facilitation-converts-physical-to-epistemological-access",
 "facilitation-depends-on-amount-of-previous-training":"facilitation-depends-on-amount-of-previous-training",
+"facilitator-intervention-lower-dropout-cohort1":"facilitator-intervention-lower-dropout-cohort1",
 "facilitator-role-shifting-shared-account":"facilitator-role-shifting-shared-account",
 "facilitator-speech-definition-performance-ceiling":"facilitator-speech-definition-performance-ceiling",
 "facilitators-nurse-diabetes-knowledge-ssa":"facilitators-nurse-diabetes-knowledge-ssa",
@@ -650288,11 +650948,13 @@
 "fraction-group-differences-persist-fsiq-covariate":"fraction-group-differences-persist-fsiq-covariate",
 "fraction-intervention-calculation-es-172":"fraction-intervention-calculation-es-172",
 "fraction-intervention-calculations-es-172":"fraction-intervention-calculations-es-172",
+"fraction-intervention-closed-calculation-achievement-gap":"fraction-intervention-closed-calculation-achievement-gap",
 "fraction-intervention-naep-es-058":"fraction-intervention-naep-es-058",
 "fraction-intervention-number-line-es-093":"fraction-intervention-number-line-es-093",
 "fraction-knowledge-predicts-algebra":"fraction-knowledge-predicts-algebra",
 "fraction-magnitude-fully-mediates-wn-magnitude-fraction-arithmetic":"fraction-magnitude-fully-mediates-wn-magnitude-fraction-arithmetic",
 "fraction-magnitude-predicts-achievement-three-continents":"fraction-magnitude-predicts-achievement-three-continents",
+"fraction-measurement-intervention-outperforms-control-at-risk-fourth-graders":"fraction-measurement-intervention-outperforms-control-at-risk-fourth-graders",
 "fractions-interventions-outperform-operations":"fractions-interventions-outperform-operations",
 "fractions-knowledge-predicts-later-achievement":"fractions-knowledge-predicts-later-achievement",
 "fractions-magnitude-number-line-mean-es-093":"fraction-intervention-number-line-es-093",
@@ -652118,6 +652780,7 @@
 "graduation-rates-similar-by-community-area-varied-by-high-school":"graduation-rates-similar-by-community-area-varied-by-high-school",
 "graduation-time-varies-by-major-pcc":"graduation-time-varies-by-major-pcc",
 "graduation-yields-normal-distribution-and-linear-age-norms":"graduation-yields-normal-distribution-and-linear-age-norms",
+"grains-behavior-null-time-effect":"grains-behavior-null-time-effect",
 "grammar-as-skill-is-a-conflation":"grammar-as-skill-is-a-conflation",
 "grammar-attitude-turkish-course-attitude-correlation":"grammar-attitude-turkish-course-attitude-correlation",
 "grammar-confidence-increased-both-groups":"grammar-confidence-increased-both-groups",
@@ -654662,6 +655325,7 @@
 "insights-reduced-sped-low-income-students":"insights-reduced-sped-low-income-students",
 "insights-reduced-sped-receipt-fifth-grade":"insights-reduced-sped-receipt-fifth-grade",
 "insights-slower-growth-behavior-problems-full-sample":"insights-slower-growth-behavior-problems-full-sample",
+"insignificance-no-control-students":"insignificance-no-control-students",
 "insitu-hours-no-achievement-gain":"insitu-hours-no-achievement-gain",
 "inspection-time-marker-potential":"inspection-time-marker-potential",
 "inspiring-enthusiasm-core-teacher-value":"inspiring-enthusiasm-core-teacher-value",
@@ -654835,6 +655499,7 @@
 "instructors-perceive-genai-through-power-relations":"instructors-perceive-genai-through-power-relations",
 "instructors-positive-perceptions-adaptive-courseware":"instructors-positive-perceptions-adaptive-courseware",
 "instructors-prefer-less-effective-draw-framing":"instructors-prefer-less-effective-draw-framing",
+"instructors-rate-frequent-communicators-best":"instructors-rate-frequent-communicators-best",
 "instructors-report-product-process-differentiation-most-frequently":"instructors-report-product-process-differentiation-most-frequently",
 "instructors-resist-automated-assessment-prefer-judgment-support":"instructors-resist-automated-assessment-prefer-judgment-support",
 "instructors-students-might-prefer-text-feedback":"instructors-students-might-prefer-text-feedback",
@@ -655279,11 +655944,13 @@
 "intervention-children-read-more-books-summer":"intervention-children-read-more-books-summer",
 "intervention-corrects-interleaving-beliefs":"intervention-corrects-interleaving-beliefs",
 "intervention-did-not-reduce-error-propagation":"intervention-did-not-reduce-error-propagation",
+"intervention-discussed-long-term-benefits":"intervention-discussed-long-term-benefits",
 "intervention-duration-not-related-to-ebp-competence":"intervention-duration-not-related-to-ebp-competence",
 "intervention-effect-not-sustained-without-continued-implementation":"intervention-effect-not-sustained-without-continued-implementation",
 "intervention-effect-transition-proportions-pattern-212":"intervention-effect-transition-proportions-pattern-212",
 "intervention-effects-school-university-students-no-difference":"intervention-effects-school-university-students-no-difference",
 "intervention-essays-personal-voice-vs-textbook":"intervention-essays-personal-voice-vs-textbook",
+"intervention-facilitators-10x-discussion-rate":"intervention-facilitators-10x-discussion-rate",
 "intervention-fidelity-eight-weeks-average":"intervention-fidelity-eight-weeks-average",
 "intervention-gains-decoding-fluency-not-comprehension":"intervention-gains-decoding-fluency-not-comprehension",
 "intervention-group-15-percent-performance-variation":"intervention-group-15-percent-performance-variation",
@@ -655300,6 +655967,7 @@
 "intervention-moderates-skill-gain-achievement-relations":"intervention-moderates-skill-gain-achievement-relations",
 "intervention-negative-experiences-penryn":"intervention-negative-experiences-penryn",
 "intervention-not-impulsivity-n2":"intervention-not-impulsivity-n2",
+"intervention-peer-communication-encouragement":"intervention-peer-communication-encouragement",
 "intervention-promotes-reflective-crk-systems-thinking-followup":"intervention-promotes-reflective-crk-systems-thinking-followup",
 "intervention-propensity-interaction-heterogeneity":"intervention-propensity-interaction-heterogeneity",
 "intervention-raises-phases-i-ii-not-iii-v":"intervention-raises-phases-i-ii-not-iii-v",
@@ -656918,6 +657586,7 @@
 "learned-units-below-previously-known-units":"learned-units-below-previously-known-units",
 "learner-agency-adaptive-guidance-only-advanced-regulators":"learner-agency-adaptive-guidance-only-advanced-regulators",
 "learner-agency-genai-verification-revision":"learner-agency-genai-verification-revision",
+"learner-attitudes-prefer-capable-partners-pair-work":"learner-attitudes-prefer-capable-partners-pair-work",
 "learner-autonomy-hindrance-online-instruction":"learner-autonomy-hindrance-online-instruction",
 "learner-centered-teacher-student-relationships-are-effective":"teacher-student-relationships-improve-engagement",
 "learner-centeredness-universal-theme-sla":"learner-centeredness-universal-theme-sla",
@@ -659230,6 +659899,7 @@
 "measurement-cannot-separate-strategic-from-habituated":"measurement-cannot-separate-strategic-from-habituated",
 "measurement-fraction-intervention-beats-control-generalized-knowledge":"measurement-fraction-intervention-beats-control-generalized-knowledge",
 "measurement-interpretation-improvement-mediates-fraction-intervention-effects":"measurement-interpretation-improvement-mediates-fraction-intervention-effects",
+"measurement-interpretation-improvement-mediates-naep-fraction-effects":"measurement-interpretation-improvement-mediates-naep-fraction-effects",
 "measurement-invariance-gender-structural-equivalence-rejected":"measurement-invariance-gender-structural-equivalence-rejected",
 "measurement-invariance-phonological-processing-rd":"measurement-invariance-phonological-processing-rd",
 "measurement-invariance-self-concept-belief-scales":"measurement-invariance-self-concept-belief-scales",
@@ -660353,6 +661023,9 @@
 "modeling-games-alone-insufficient-recess-self-efficacy":"modeling-games-alone-insufficient-recess-self-efficacy",
 "modeling-inverted-curriculum-highest-act-science-mean":"modeling-inverted-curriculum-highest-act-science-mean",
 "modeling-outlasts-scripting-after-withdrawal":"modeling-outlasts-scripting-after-withdrawal",
+"modeling-pd-improves-discrete-math-teacher-knowledge":"modeling-pd-improves-discrete-math-teacher-knowledge",
+"modeling-pd-improves-reformed-practice-rtop":"modeling-pd-improves-reformed-practice-rtop",
+"modeling-pd-students-outperform-aims":"modeling-pd-students-outperform-aims",
 "modeling-plus-performance-feedback-strongest-predictor":"modeling-plus-performance-feedback-strongest-predictor",
 "modeling-task-elicits-four-interdisciplinary-processes":"modeling-task-elicits-four-interdisciplinary-processes",
 "modeling-technique-experimental-classes-outperform-control":"modeling-technique-experimental-classes-outperform-control",
@@ -660560,6 +661233,8 @@
 "moodle-access-software-higher-final-test-grades":"moodle-access-software-higher-final-test-grades",
 "moodle-online-argumentation-critical-thinking-disposition":"moodle-online-argumentation-critical-thinking-disposition",
 "moodle-score-flipped-attitude-delivery":"moodle-score-flipped-attitude-delivery",
+"moodlereader-larger-effect-size-than-traditional-er":"moodlereader-larger-effect-size-than-traditional-er",
+"moodlereader-production-gains-exceed-recognition":"moodlereader-production-gains-exceed-recognition",
 "moop-webcam-acd-detection-metrics":"moop-webcam-acd-detection-metrics",
 "mor-majority-finnish-high-school":"mor-majority-finnish-high-school",
 "moral-disengagement-most-common-justification":"moral-disengagement-most-common-justification",
@@ -661116,6 +661791,7 @@
 "multiplicative-over-additive-simple-view-scd":"multiplicative-over-additive-simple-view-scd",
 "multiplicative-word-problem-broader-transfer":"multiplicative-word-problem-broader-transfer",
 "multiplicative-word-problem-instruction-superior":"multiplicative-word-problem-instruction-superior",
+"multiplicative-wp-intervention-specific-advantage":"multiplicative-wp-intervention-specific-advantage",
 "multisensory-materials-attention-motivation-interpretation":"multisensory-materials-attention-motivation-interpretation",
 "multisensory-tablet-no-difference-tactile-graphics":"multisensory-tablet-no-difference-tactile-graphics",
 "multisyllabic-word-reading-instruction-strong-evidence-grades-4-9":"strong-evidence-multisyllabic-word-reading-instruction-grades-4-9",
@@ -662485,6 +663161,7 @@
 "no-related-case-overlap-inflation-medgame-bench":"no-related-case-overlap-inflation-medgame-bench",
 "no-relation-verbal-memory-executive-math":"no-relation-verbal-memory-executive-math",
 "no-relationship-essay-quality-feedback-quality":"no-relationship-essay-quality-feedback-quality",
+"no-relationship-strategies-recognition-and-control-vocabulary":"no-relationship-strategies-recognition-and-control-vocabulary",
 "no-reliable-cost-effective-teacher-performance-predictors":"no-reliable-cost-effective-teacher-performance-predictors",
 "no-reliable-moderation-baseline-knowledge":"no-reliable-moderation-baseline-knowledge",
 "no-reminder-study-declines-over-time-trend":"no-reminder-study-declines-over-time-trend",
@@ -664208,6 +664885,7 @@
 "paintdotnet-its-lower-usability":"paintdotnet-its-lower-usability",
 "paintdotnet-its-task-performance-mixed":"paintdotnet-its-task-performance-mixed",
 "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction":"pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction",
+"pair-interaction-reduces-anxiety-increases-motivation":"pair-interaction-reduces-anxiety-increases-motivation",
 "pair-self-evaluation-metacognitive-awareness":"pair-self-evaluation-metacognitive-awareness",
 "paired-associate-lag-function-retention-interval":"paired-associate-lag-function-retention-interval",
 "paired-correlations-experimental-control-groups":"paired-correlations-experimental-control-groups",
@@ -664835,8 +665513,10 @@
 "pbl-lbl-subgroup-practical-theoretical-courses":"pbl-lbl-subgroup-practical-theoretical-courses",
 "pbl-lbl-teaching-satisfaction-effects":"pbl-lbl-teaching-satisfaction-effects",
 "pbl-learning-issues-assumption-untested":"pbl-learning-issues-assumption-untested",
+"pbl-lecture-groupwork-security":"pbl-lecture-groupwork-security",
 "pbl-less-time-higher-pressure-orthopaedics":"pbl-less-time-higher-pressure-orthopaedics",
 "pbl-listening-comprehension-single-study":"pbl-listening-comprehension-single-study",
+"pbl-lm-highest-stress-pbl-lowest":"pbl-lm-highest-stress-pbl-lowest",
 "pbl-lower-stimulated-carry-on-learning-null":"pbl-lower-stimulated-carry-on-learning-null",
 "pbl-medical-psychology-student-satisfaction":"pbl-medical-psychology-student-satisfaction",
 "pbl-meta-analysis-corpus-55-datasets-composition":"pbl-meta-analysis-corpus-55-datasets-composition",
@@ -668373,10 +669053,13 @@
 "qrc-deployment-terminated-online-debates":"qrc-deployment-terminated-online-debates",
 "qrc-simulation-violates-bell-99-percent-800-pairs":"qrc-simulation-violates-bell-99-percent-800-pairs",
 "qris-test-based-costly-manipulated-collaborative-emerging":"qris-test-based-costly-manipulated-collaborative-emerging",
+"qt-feasibility-acceptability-primary-school":"qt-feasibility-acceptability-primary-school",
 "qt-increases-explanations-cumulative-exploratory-talk":"qt-increases-explanations-cumulative-exploratory-talk",
 "qt-increases-talk-moves-decreases-authentic-teacher-questions":"qt-increases-talk-moves-decreases-authentic-teacher-questions",
 "qt-intervention-reduces-monologic-teacher-practices":"qt-intervention-reduces-monologic-teacher-practices",
+"qt-meditation-reduces-sdq-difficulties":"qt-meditation-reduces-sdq-difficulties",
 "qt-students-higher-quality-contributions":"qt-students-higher-quality-contributions",
+"qt-waiting-list-crossover-stabilization":"qt-waiting-list-crossover-stabilization",
 "qts-ancova-significant-both-subjects":"qts-ancova-significant-both-subjects",
 "qts-higher-bahasa-indonesia-achievement":"qts-higher-bahasa-indonesia-achievement",
 "qts-higher-science-achievement":"qts-higher-science-achievement",
@@ -670215,6 +670898,7 @@
 "robotics-systems-skill-levels-no-approach-difference":"robotics-systems-skill-levels-no-approach-difference",
 "robotics-task-approach-experiment":"robotics-task-approach-experiment",
 "robotics-teaching-programs-innovation-effect":"robotics-teaching-programs-innovation-effect",
+"robots-engaging-but-stressful":"robots-engaging-but-stressful",
 "robovie-cooperative-learning-partner-interactions":"robovie-cooperative-learning-partner-interactions",
 "robovie-science-curiosity-mixed-effect":"robovie-science-curiosity-mixed-effect",
 "robust-cvs-use-interview-gains":"robust-cvs-use-interview-gains",
@@ -670401,6 +671085,7 @@
 "rti-subgroup-effects-fsm-boys-not-secure":"rti-subgroup-effects-fsm-boys-not-secure",
 "rtms-ifj-causal-top-down-modulation-wm":"rtms-ifj-causal-top-down-modulation-wm",
 "rtms-vlpfc-exacerbates-distraction-effect":"rtms-vlpfc-exacerbates-distraction-effect",
+"rtop-content-knowledge-correlation":"rtop-content-knowledge-correlation",
 "rtp-improves-reading-comprehension-iranian-efl":"rtp-improves-reading-comprehension-iranian-efl",
 "rtp-study-pretest-equivalence":"rtp-study-pretest-equivalence",
 "rtpj-selectivity-correlates-tom-behavior":"rtpj-selectivity-correlates-tom-behavior",
@@ -671305,6 +671990,7 @@
 "sdpp-first-followup-findings-pending":"sdpp-first-followup-findings-pending",
 "sdpp-review-conditional-cash-transfers-only-consistent":"sdpp-review-conditional-cash-transfers-only-consistent",
 "sdq-impact-supplement-means-decreased-posttest":"sdq-impact-supplement-means-decreased-posttest",
+"sdq-subscales-qt-between-group-pattern":"sdq-subscales-qt-between-group-pattern",
 "sdt-based-online-unit-autonomy-not-significant":"sdt-based-online-unit-autonomy-not-significant",
 "sdt-based-online-unit-increased-competence":"sdt-based-online-unit-increased-competence",
 "sdt-based-online-unit-increased-relatedness":"sdt-based-online-unit-increased-relatedness",
@@ -673828,6 +674514,7 @@
 "spontaneous-drawings-mediate-instruction-effect":"spontaneous-drawings-mediate-instruction-effect",
 "spontaneous-flexibility-creativity-children":"spontaneous-flexibility-creativity-children",
 "spontaneous-flexibility-predicts-academic-skills":"spontaneous-flexibility-predicts-academic-skills",
+"spontaneous-imagery-use-younger-adults-only":"spontaneous-imagery-use-younger-adults-only",
 "spontaneous-interleaving-no-performance-correlation-exp1":"spontaneous-interleaving-no-performance-correlation-exp1",
 "spontaneous-nine-month-recall-nonsense-syllables":"spontaneous-nine-month-recall-nonsense-syllables",
 "spontaneous-reactions-draw-on-internalised-values":"spontaneous-reactions-draw-on-internalised-values",
@@ -674569,11 +675256,16 @@
 "strategy-teaching-improves-proportional-reasoning-posttest":"strategy-teaching-improves-proportional-reasoning-posttest",
 "strategy-teaching-increases-strategy-use-reduces-errors":"strategy-teaching-increases-strategy-use-reduces-errors",
 "strategy-timing-no-significant-difference":"strategy-timing-no-significant-difference",
+"strategy-training-cj-accuracy-all-ages":"strategy-training-cj-accuracy-all-ages",
+"strategy-training-cj-differentiation-age-limits":"strategy-training-cj-differentiation-age-limits",
 "strategy-training-enhances-matching-strategy-use":"strategy-training-enhances-matching-strategy-use",
 "strategy-training-improves-reading-comprehension-non-english-majors":"strategy-training-improves-reading-comprehension-non-english-majors",
+"strategy-training-improves-recognition-performance":"strategy-training-improves-recognition-performance",
 "strategy-training-improves-strategy-quality":"strategy-training-improves-strategy-quality",
 "strategy-training-increased-flra-experiment-group":"strategy-training-increased-flra-experiment-group",
 "strategy-training-increases-phrase-use-frequency":"strategy-training-increases-phrase-use-frequency",
+"strategy-training-jol-accuracy-children":"strategy-training-jol-accuracy-children",
+"strategy-training-jol-differentiation":"strategy-training-jol-differentiation",
 "strategy-training-no-social-metacognitive-effect":"strategy-training-no-social-metacognitive-effect",
 "strategy-training-posttest-group-differences":"strategy-training-posttest-group-differences",
 "strategy-training-shifts-reading-strategies":"strategy-training-shifts-reading-strategies",
@@ -674588,6 +675280,7 @@
 "strategy-use-not-group-status-explains-listening-success":"strategy-use-not-group-status-explains-listening-success",
 "strategy-use-positively-affects-comprehension-grade11-esl":"strategy-use-positively-affects-comprehension-grade11-esl",
 "strategy-use-quality-conditionality-over-frequency":"strategy-use-quality-conditionality-over-frequency",
+"strategy-use-related-to-production-vocabulary":"strategy-use-related-to-production-vocabulary",
 "strategy-use-shifts-toward-retrieval-near-exam":"strategy-use-shifts-toward-retrieval-near-exam",
 "strategy-use-varies-by-environment-task1":"strategy-use-varies-by-environment-task1",
 "strategy3-best-lsp-consistency":"strategy3-best-lsp-consistency",
@@ -675846,6 +676539,7 @@
 "symbolic-use-predicts-retention-ci":"symbolic-use-predicts-retention-ci",
 "symbolism-module-increased-interpretive-participation":"symbolism-module-increased-interpretive-participation",
 "symbols-only-training-improves-difficult-items":"symbols-only-training-improves-difficult-items",
+"symmetrical-scaffolding-improves-reading-comprehension":"symmetrical-scaffolding-improves-reading-comprehension",
 "symmetry-misconceptions-four-areas":"symmetry-misconceptions-four-areas",
 "symp-convergent-discriminant-validity":"symp-convergent-discriminant-validity",
 "symp-correlates-math-achievement-all-grades":"symp-correlates-math-achievement-all-grades",
@@ -678392,6 +679086,7 @@
 "training-remediates-frontal-theta-signatures-older-adults":"training-remediates-frontal-theta-signatures-older-adults",
 "training-scores-partial-correlations-exams":"training-scores-partial-correlations-exams",
 "training-shifts-analyst-detection-reasoning-toward-specific-artifact-vocabulary":"training-shifts-analyst-detection-reasoning-toward-specific-artifact-vocabulary",
+"training-shifts-cues-away-from-familiarity":"training-shifts-cues-away-from-familiarity",
 "training-specific-generalization-extent-angular":"training-specific-generalization-extent-angular",
 "training-standardization-solutions":"training-standardization-solutions",
 "training-time-null-covariate-latimier":"training-time-null-covariate-latimier",
@@ -679378,6 +680073,10 @@
 "usf-chemistry-mindset-utility-value-mixed-subgroup-effects":"usf-chemistry-mindset-utility-value-mixed-subgroup-effects",
 "usg-pvc-education-reduces-cvc-picc-need":"usg-pvc-education-reduces-cvc-picc-need",
 "using-all-three-approaches-linked-to-higher-scores":"using-all-three-approaches-linked-to-higher-scores",
+"using-data-analytic-framework-teacher-reports":"using-data-analytic-framework-teacher-reports",
+"using-data-collaborative-data-use-increase":"using-data-collaborative-data-use-increase",
+"using-data-no-year1-math-achievement-effect":"using-data-no-year1-math-achievement-effect",
+"using-data-survey-item-differences":"using-data-survey-item-differences",
 "usra-common-design-features":"usra-common-design-features",
 "usra-feedback-content-matters":"usra-feedback-content-matters",
 "usra-isolated-feature-trials":"usra-isolated-feature-trials",
@@ -681885,6 +682584,7 @@
 "constructivist-conceptual-change-budget-remediation":"constructivist-conceptual-change-budget-remediation",
 "constructivist-learning-management-model-critical-thinking":"constructivist-learning-management-model-critical-thinking",
 "constructivist-model-reconstruction-course-pattern":"constructivist-model-reconstruction-course-pattern",
+"constructivist-nutrition-curriculum-design-pattern":"constructivist-nutrition-curriculum-design-pattern",
 "contact-strategy-preconception-activation":"contact-strategy-preconception-activation",
 "content-intensive-93-hour-math-pd-program":"content-intensive-93-hour-math-pd-program",
 "content-intensive-math-pd-program-93-hours":"content-intensive-93-hour-math-pd-program",
@@ -682175,6 +682875,7 @@
 "example-based-learning-design-principles-complexity-levels":"example-based-learning-design-principles-complexity-levels",
 "excel-application-statistics-course-element":"excel-application-statistics-course-element",
 "expand-fullday-prek-access-for-attendance-equity":"expand-fullday-prek-access-for-attendance-equity",
+"expanded-teacher-facilitator-hybrid-model":"expanded-teacher-facilitator-hybrid-model",
 "expanding-then-monthly-repetition-schedule":"expanding-then-monthly-repetition-schedule",
 "experanto-computer-controlled-self-study-course":"experanto-computer-controlled-self-study-course",
 "experiential-design-method-four-areas":"experiential-design-method-four-areas",
@@ -682827,6 +683528,7 @@
 "model-robot-programming-subject-pattern":"model-robot-programming-subject-pattern",
 "modeling-instruction-teacher-workshops-fidelity":"modeling-instruction-teacher-workshops-fidelity",
 "modeling-lectures-plus-collaborative-workshop-sessions":"modeling-lectures-plus-collaborative-workshop-sessions",
+"modeling-msp-discrete-math-pd-program":"modeling-msp-discrete-math-pd-program",
 "modeling-process-mental-to-consensus-models":"modeling-process-mental-to-consensus-models",
 "modelo-evaluacion-formativa-matematicas-virtuales":"modelo-evaluacion-formativa-matematicas-virtuales",
 "models-closed-cues-to-open-cues-language-independence":"models-closed-cues-to-open-cues-language-independence",
@@ -687324,6 +688026,7 @@
 "mooc-replication-framework":"mooc-replication-framework",
 "moodle":"moodle",
 "moodle-workshop-module":"moodle-workshop-module",
+"moodlereader":"moodlereader",
 "moodmap-app":"moodmap-app",
 "more-motivational-reactive-plan":"more-motivational-reactive-plan",
 "more-tutoring-system":"more-tutoring-system",
@@ -687786,6 +688489,7 @@
 "questionmarks-perception-qmp":"questionmarks-perception-qmp",
 "questionnaire-for-identifying-writers-block-qiwb":"questionnaire-for-identifying-writers-block-qiwb",
 "questionnaire-measuring-the-motivational-component-of-learners-cognitive-activity":"questionnaire-measuring-the-motivational-component-of-learners-cognitive-activity",
+"quiet-time-transcendental-meditation-program":"quiet-time-transcendental-meditation-program",
 "quipper-school":"quipper-school",
 "quizbot":"quizbot",
 "r-i-z-a-model-for-evaluating-digital-competence":"r-i-z-a-model-for-evaluating-digital-competence",
@@ -688551,6 +689255,7 @@
 "urban-science":"urban-science",
 "usdol-eta-general-competency-model-framework":"usdol-eta-general-competency-model-framework",
 "user-experience-design-tools-for-courseware-persona-creation-kit-journey-maps-and-ecosyste":"user-experience-design-tools-for-courseware-persona-creation-kit-journey-maps-and-ecosyste",
+"using-data-ud-professional-development-program":"using-data-ud-professional-development-program",
 "ust-e-leap":"ust-e-leap",
 "utah-compose-uc":"utah-compose-uc",
 "utaut2-inspired-15-item-survey-instrument-for-assessing-student-perceptions-of-chatgpt-ass":"utaut2-inspired-15-item-survey-instrument-for-assessing-student-perceptions-of-chatgpt-ass",
@@ -689524,6 +690229,7 @@
 "temporal-network-analysis":"temporal-network-analysis",
 "temporal-smoothness-doubly-robust-tsdr-framework-for-debiased-knowledge-tracing":"temporal-smoothness-doubly-robust-tsdr-framework-for-debiased-knowledge-tracing",
 "ten-dimension-framework-characterizing-mobile-assisted-seamless-learning":"ten-dimension-framework-characterizing-mobile-assisted-seamless-learning",
+"ten-experience-criteria-for-analyzing-positive-learning-experiences":"ten-experience-criteria-for-analyzing-positive-learning-experiences",
 "ten-topic-area-taxonomy-of-family-medicine-education-research":"ten-topic-area-taxonomy-of-family-medicine-education-research",
 "tension-relaxation-analysis-of-interpersonal-relations-in-collaborative-argumentation":"tension-relaxation-analysis-of-interpersonal-relations-in-collaborative-argumentation",
 "test-disengagement-adjustment-through-sample-removal-and-rapid-guess-score-correction":"test-disengagement-adjustment-through-sample-removal-and-rapid-guess-score-correction",
@@ -690536,6 +691242,7 @@
 "blending-human-teachers-and-agents":"blending-human-teachers-and-agents",
 "blind-evaluation-oer-perceptions":"blind-evaluation-oer-perceptions",
 "blindaid-three-potential-applications":"blindaid-three-potential-applications",
+"block-randomization-pca-index-school-assignment":"block-randomization-pca-index-school-assignment",
 "block-schedule-embedded-planning-time-teacher-retention":"block-schedule-embedded-planning-time-teacher-retention",
 "block_play":"block_play",
 "blocks_and_legos-maker_spaces_and_fab_labs":"blocks_and_legos-maker_spaces_and_fab_labs",
@@ -691414,6 +692121,7 @@
 "constructive-teaching-sequence-groups-computer-lab":"constructive-teaching-sequence-groups-computer-lab",
 "constructive_decision-making_process":"constructive_decision-making_process",
 "constructivist-environment-extra-low-ability-attention-strategy":"constructivist-environment-extra-low-ability-attention-strategy",
+"constructivist-teacher-professional-development-nutrition":"constructivist-teacher-professional-development-nutrition",
 "consult-students-in-needs-analysis":"consult-students-in-needs-analysis",
 "consult_fact-checking_sites":"consult_fact-checking_sites",
 "consultancy-protocol-leader-problem-of-practice":"consultancy-protocol-leader-problem-of-practice",
@@ -693229,6 +693937,7 @@
 "follow_up_after_discussions_about_race":"follow_up_after_discussions_about_race",
 "forecast-informed-timely-learner-support":"forecast-informed-timely-learner-support",
 "forest-plot-construction-exercise":"forest-plot-construction-exercise",
+"form-asymmetrical-pairs-for-cooperative-reading":"form-asymmetrical-pairs-for-cooperative-reading",
 "form-if-then-implementation-intentions-strategy":"form-if-then-implementation-intentions-strategy",
 "formal-education-integration-heritage-games-strategy":"formal-education-integration-heritage-games-strategy",
 "formal-feedback-and-evaluation-plan-pilots":"formal-feedback-and-evaluation-plan-pilots",
@@ -694024,6 +694733,7 @@
 "immersive-vr-social-l2-experiments":"immersive-vr-social-l2-experiments",
 "impasse-depth-type-analytics-escalation-signals":"impasse-depth-type-analytics-escalation-signals",
 "implement-coherent-linked-student-database-foster-care":"implement-coherent-linked-student-database-foster-care",
+"implement-contemplative-practices-in-schools":"implement-contemplative-practices-in-schools",
 "implement-ctl-when-application-is-goal":"implement-ctl-when-application-is-goal",
 "implement-experiential-math-material-strategy":"implement-experiential-math-material-strategy",
 "implement-facts-within-teacher-centred-teaching":"implement-facts-within-teacher-centred-teaching",
@@ -694329,6 +695039,7 @@
 "integrate-intercultural-training-with-research-methods-course":"integrate-intercultural-training-with-research-methods-course",
 "integrate-interpreting-exercises-into-l2-listening-classroom":"integrate-interpreting-exercises-into-l2-listening-classroom",
 "integrate-iot-biometric-proctoring":"integrate-iot-biometric-proctoring",
+"integrate-lectures-pbl-robot-groups":"integrate-lectures-pbl-robot-groups",
 "integrate-limited-media-lessons-across-curriculum":"integrate-limited-media-lessons-across-curriculum",
 "integrate-llm-crp-tools-in-professional-development":"integrate-llm-crp-tools-in-professional-development",
 "integrate-local-wisdom-values-strategy":"integrate-local-wisdom-values-strategy",
@@ -695371,6 +696082,7 @@
 "mood-meter-check-in":"mood-meter-check-in",
 "mood-meters":"mood-meters",
 "moodle-video-listening-exercises":"moodle-video-listening-exercises",
+"moodlereader-out-of-class-er-context-strategy":"moodlereader-out-of-class-er-context-strategy",
 "moose_math_app":"moose_math_app",
 "moral-dilemma-discussion-steps":"moral-dilemma-discussion-steps",
 "more-concentrated-5e-model-use-recommendation":"more-concentrated-5e-model-use-recommendation",
@@ -697328,6 +698040,7 @@
 "rtc-approval-confirmation-function":"rtc-approval-confirmation-function",
 "rti-data-collection-process-professional-development":"rti-data-collection-process-professional-development",
 "rti-tablet-reading-strategies-strategy":"rti-tablet-reading-strategies-strategy",
+"rtop-evaluation-dissemination-modeling-exemplars":"rtop-evaluation-dissemination-modeling-exemplars",
 "rubric-based-assessment":"rubric-based-assessment",
 "rubric-based-feedback":"rubric-based-feedback",
 "rubric-based-self-assessment":"rubric-based-self-assessment",
@@ -697417,6 +698130,7 @@
 "scale-writing-instruction-domain-specific-scaffolding-tool":"scale-writing-instruction-domain-specific-scaffolding-tool",
 "scan-then-state-interviews-evidence-building":"scan-then-state-interviews-evidence-building",
 "scenario-analogies-ram-and-logic-gates":"scenario-analogies-ram-and-logic-gates",
+"scenario-based-lcp-facilitator-training":"scenario-based-lcp-facilitator-training",
 "scenario-based-learning-in-teacher-education-strategy":"scenario-based-learning-in-teacher-education-strategy",
 "scenario-based-training":"scenario-based-training",
 "scenario-based_e-learning":"scenario-based_e-learning",
@@ -697764,6 +698478,7 @@
 "short-conversations-pre-reading":"short-conversations-pre-reading",
 "short-entertaining-films-four-sessions-strategy":"short-entertaining-films-four-sessions-strategy",
 "short-goal-targeted-pre-class-videos":"short-goal-targeted-pre-class-videos",
+"short-imagery-instruction-monitoring":"short-imagery-instruction-monitoring",
 "short-initial-planning-interval-followed-by-shorter-intervals":"short-initial-planning-interval-followed-by-shorter-intervals",
 "short-intensive-trauma-xray-training-strategy":"short-intensive-trauma-xray-training-strategy",
 "short-introductory-vodcasts-preview-strategy":"short-introductory-vodcasts-preview-strategy",
@@ -698679,6 +699394,7 @@
 "target-pd-at-practices-related-to-achievement":"target-pd-at-practices-related-to-achievement",
 "target-prevention-via-network-dropout-markers":"target-prevention-via-network-dropout-markers",
 "target-recovery-tutoring-enrichment-low-performers":"target-recovery-tutoring-enrichment-low-performers",
+"target-resistant-nutrition-items-strategy":"target-resistant-nutrition-items-strategy",
 "target-secondary-community-school-supports":"target-secondary-community-school-supports",
 "target-summer-loss-for-students-with-disabilities":"target-summer-loss-for-students-with-disabilities",
 "target-support-by-school-recovery-patterns":"target-support-by-school-recovery-patterns",

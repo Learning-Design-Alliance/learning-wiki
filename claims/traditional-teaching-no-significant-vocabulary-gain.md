@@ -53,3 +53,4 @@ Paired-samples t-test of the control group's (n = 25) pretest and posttest score
 - [Intensive exposure to EFL classes alone produced no statistically significant literacy gains in adult learners lacking basic literacy](intensive-exposure-alone-no-literacy-gain.md) — related
 - [Both strategies produced gains in vocabulary knowledge over the course of the treatment](both-strategies-improved-vocabulary-knowledge.md) — reports the opposite
 - [Traditional vocabulary techniques alone produced no statistically significant pretest-to-posttest gain in the control group](traditional-techniques-no-significant-gain.md) — possibly the same claim (merge candidate)
+- [The MoodleReader program produced a larger production-vocabulary effect size (0.85) than the traditional extensive reading program (0.4)](moodlereader-larger-effect-size-than-traditional-er.md) — reports the opposite

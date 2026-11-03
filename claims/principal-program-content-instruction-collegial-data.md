@@ -91,3 +91,4 @@ The report describes UIC's cycle of inquiry and the University of Connecticut's 
 - [Principal effects on student achievement are largely indirect, mediated through school organizational processes](principal-effects-indirect-through-organizational-processes.md) — related
 - [States collected and used data to track participation, evaluate quality, improve programs, and advocate for funding](state-summer-data-collection-uses.md) — related
 - [Teachers' effectiveness increases at a greater rate in supportive, collegial working environments and when they accumulate experience in the same grade level, subject, or district](experience-gains-greater-in-supportive-environments.md) — related
+- [In case-study treatment schools, teachers reported the program influenced their data use mainly by providing an analytic framework for discussing data with colleagues](using-data-analytic-framework-teacher-reports.md) — a narrower finding that bears on this claim

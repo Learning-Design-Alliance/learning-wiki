@@ -60,3 +60,4 @@ In the 60-participant extensive reading study over 37 weeks, even the low-level 
 - [Reading proficiency level moderates incidental vocabulary gains: higher-proficiency readers gained more, consistent with i+1](proficiency-level-moderates-incidental-vocabulary-gains.md) — related
 - [Extensive reading produces a huge pre-post improvement in vocabulary learning (d = 3.26), to be interpreted cautiously without control groups](extensive-reading-huge-effect-prepost-contrasts.md) — related
 - [Classes assigned weekly Word Engine online flashcard use gained significantly more on the VST than an extensive-reading control class over one academic year, in a quasi-experiment with acknowledged selection and time-on-task confounds](word-engine-vst-gains-ancova.md) — related
+- [The MoodleReader program produced a larger production-vocabulary effect size (0.85) than the traditional extensive reading program (0.4)](moodlereader-larger-effect-size-than-traditional-er.md) — related

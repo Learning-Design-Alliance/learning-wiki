@@ -103,3 +103,4 @@ This systematic review looked at 20 studies of mnemonic interventions with 669 s
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — related
 - [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — related
 - [Mnemonic instruction is highly effective for increasing knowledge and retention of science facts for students with EBD](mnemonic-instruction-science-ebd.md) — a narrower finding that bears on this claim
+- [A short visual-imagery strategy training improves paired-associate recognition performance across age groups, most strongly for recombined and new word pairs](strategy-training-improves-recognition-performance.md) — a narrower finding that bears on this claim

@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 253 claims (179 show a difference, 43 mixed, 31 no difference) · 181 studies (67 causal, 39 associational, 38 review, 14 quant-synthesis, 11 theoretical, 9 qualitative, 3 design), `q1`–`q4` · 34 of 181 report an effect size · 244 claims rest on one study
+> **Evidence** · 254 claims (179 show a difference, 43 mixed, 32 no difference) · 182 studies (68 causal, 39 associational, 38 review, 14 quant-synthesis, 11 theoretical, 9 qualitative, 3 design), `q1`–`q4` · 34 of 182 report an effect size · 245 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -302,6 +302,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Explicit metacognitive strategy instruction increases ESL learners' use of monitoring and assessment strategies but not planning strategies](../claims/metacognitive-instruction-increases-monitoring-assessment-not-planning.md) [~M] — instruction changes it
 - [Explicit strategy instruction increased memory strategy use in EFL college learners, though not overall strategy use.](../claims/strategy-instruction-increases-memory-strategy-use.md) [~M] — instruction changes it
 - [Indirect vocabulary learning strategies correlate more highly with both depth (r=0.78) and breadth (r=0.66) of vocabulary knowledge than direct strategies (r=0.58, r=0.51).](../claims/indirect-strategies-stronger-correlation-with-vocabulary-knowledge.md) [+M] — learners who differ on it differ in outcomes
+- [No significant relationships were found between vocabulary learning strategy use and recognition vocabulary, or between strategy use and vocabulary in the control group](../claims/no-relationship-strategies-recognition-and-control-vocabulary.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

@@ -49,3 +49,4 @@ Control-group study over a three-and-a-half-month semester with an experimental 
 - [Students taught with model robots failed significantly fewer lessons than conventionally taught students](robot-group-fewer-failed-lessons.md) — related
 - [Students using real programmable robots enjoyed learning more and found the material less difficult than control students](robot-learning-enjoyment-difficulty.md) — related
 - [Programming self-concept developed significantly in the robot group while remaining stable in the control group](robot-programming-self-concept-gain.md) — related
+- [Working with LEGO Mindstorms robots was highly engaging and motivating for students, but produced stress, insecurity about theoretical knowledge, and logistical frustration](robots-engaging-but-stressful.md) — related

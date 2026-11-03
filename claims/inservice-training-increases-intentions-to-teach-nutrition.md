@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A significant time main effect from pre to post was found for intervention teachers' intentions to teach nutrition content. [→ Fahlman M 2011](#fahlman-m-2011)
@@ -68,3 +68,4 @@ Item-level analyses showed significant pre-post intention gains on six measures 
 - [In-service nutrition training significantly increases teachers' nutrition outcome expectations relative to controls](inservice-training-increases-nutrition-outcome-expectations.md) — related
 - [In-service nutrition training increases teachers' rating of the value of conflict resolution and personal health skills](inservice-training-increases-outcome-value-health-skills.md) — related
 - [The intervention and control groups differed significantly in race, with more African American teachers in the intervention group](group-race-imbalance-nutrition-pd-study.md) — related
+- [A six-lesson constructivist-oriented nutrition curriculum significantly increased urban middle school students' nutrition knowledge relative to controls](constructivist-nutrition-education-knowledge-gains.md) — related

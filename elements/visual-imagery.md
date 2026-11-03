@@ -101,6 +101,7 @@ Imagery-based encoding improves recall and comprehension because information sto
 - **Story mapping in elementary reading programs** — learners picture and then sketch settings and character goals, converting narrative text into spatial imagery
 - [Teach even-odd digit-pair-to-image encoding as a memory aid in educational and training programs](../strategies/digit-image-pair-image-encoding-strategy.md)
 - [Have learners draw their own mental images of idioms to build durable recall](../strategies/draw-mental-images-of-idioms-strategy.md)
+- [Use a short visual-imagery strategy instruction to strengthen diagnostic recollection-based cues before paired-associate learning](../strategies/short-imagery-instruction-monitoring.md)
 
 ## Key Sources
 - Paivio, A. (1971). *Imagery and verbal processes*. Holt, Rinehart and Winston.

@@ -88,3 +88,4 @@ This systematic review summarises one of its included studies, Mendelson et al. 
 - [Positive academic emotions generally promote learning effects, especially in high school and college students](positive-academic-emotions-promote-learning.md) — related
 - [The iCare Stress Management e-Training Program significantly reduced perceived stress in the iCare condition but not the education-only condition](icare-stress-training-reduced-caregiver-stress.md) — related
 - [Two small pilot RCTs measuring resilience with validated scales reported significant improvement](pilot-rcts-significant-resilience-gains.md) — related
+- [The Quiet Time Transcendental Meditation program reduced teacher-rated emotional and behavioral difficulties in primary school children compared to a waiting list condition](qt-meditation-reduces-sdq-difficulties.md) — a narrower finding that bears on this claim

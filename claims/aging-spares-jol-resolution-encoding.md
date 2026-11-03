@@ -76,3 +76,6 @@ The review summarises the authors' separate cross-sectional study (Hertzog, Sinc
 - [FOK resolution for general-knowledge information is similar for younger and older adults, whereas the literature argues for a deficit in FOK resolution for episodic memory tasks in older adults](fok-resolution-generalknowledge-spared-episodic-mixed.md) — related
 - [JOL resolution (relative accuracy) did not differ between younger and older adults](jol-resolution-no-age-difference.md) — a narrower finding that bears on this claim
 - [Metacognitive awareness of VSTM performance becomes less accurate with age but remains well above chance across the adult life span](metacognitive-accuracy-declines-slightly-with-age.md) — related
+- [Strategy training improved confidence-judgment accuracy across all age groups](strategy-training-cj-accuracy-all-ages.md) — related
+- [Strategy training improved JOL accuracy (gamma correlations) significantly only in children, with a marginal tendency in older adults](strategy-training-jol-accuracy-children.md) — related
+- [Strategy training enabled JOL differentiation between later correct and incorrect answers in all age groups, whereas only adolescents and younger adults differentiated without training](strategy-training-jol-differentiation.md) — related

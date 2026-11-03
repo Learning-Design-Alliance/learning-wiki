@@ -84,3 +84,4 @@ The review reports Chen's (2013) examination of Tablet PC use for informal Engli
 - [Studies report both positive and negative effects of classroom screen use: tablets and interactive whiteboards can support learning and academic performance, but teachers report difficulty supervising children's screen activity.](classroom-screen-use-positive-and-negative-effects.md) — related
 - [Review-reported studies: writing portfolios were valued for improving writing and reflection and reported to reduce EFL learners' test anxiety](review-reported-writing-portfolios-reduce-anxiety-build-skills.md) — related
 - [Students found the tablet PC lesson difficult to attend to and doubted they would remember its content, while rating it as innovative](student-perceptions-tablet-attention-difficulty.md) — related
+- [Pair interaction reportedly reduces anxiety and increases confidence and motivation](pair-interaction-reduces-anxiety-increases-motivation.md) — related

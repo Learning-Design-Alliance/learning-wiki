@@ -80,3 +80,4 @@ Mediation analysis in the Year 1 RCT with NAEP total score as outcome and number
 - [Fraction intervention students significantly outperform control students on generalized NAEP fraction items across five RCTs, with a mean ES of 0.58](fraction-intervention-naep-es-058.md) — related
 - [Storytelling improved comparing fractions, equivalent fractions, creating and manipulating representations, and problem solving, but not part-whole interpretation or number-line use](storytelling-specific-fraction-skills-gains.md) — related
 - [Improvement in measurement interpretation of fractions mediates intervention effects](measurement-interpretation-improvement-mediates-fraction-intervention-effects.md) — related
+- [Improvement in the measurement interpretation of fractions fully mediated the effect of intervention versus control on NAEP fraction performance](measurement-interpretation-improvement-mediates-naep-fraction-effects.md) — related

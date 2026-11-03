@@ -53,3 +53,4 @@ Paired Samples t-Test comparing the treatment group's pre-test (mean 5380.000) a
 - [Experimental group showed significant pre-to-post gains on vocabulary test score](experimental-group-pre-post-vocabulary-gains.md) — possibly the same claim (merge candidate)
 - [Students showed significant improvement in vocabulary recognition and understanding from pre-test to post-test over the seven-week module](vks-pre-post-significant-improvement.md) — related
 - [Linguistic-component scores rose to 79% (vocabulary) and 94% (grammar) at re-testing, with the largest gains in the experimental group](linguistic-component-79-94-retest.md) — related
+- [The MoodleReader treatment affected production vocabulary more than recognition vocabulary in the experimental group](moodlereader-production-gains-exceed-recognition.md) — related

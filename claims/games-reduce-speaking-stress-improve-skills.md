@@ -65,3 +65,4 @@ Content analysis of semi-structured focus-group interviews with 30 undergraduate
 - [Play rehearsal and performance were perceived as the most exciting and enjoyable RSA stages, building confidence in speaking English](rsa-acting-confidence-enjoyment.md) — related
 - [Interview participants attributed speaking gains to small groups, relaxed environment, and non-interrupting instructor mentoring](interviews-attribute-gains-to-relaxed-small-group-format.md) — related
 - [Students report culture-based activities create an enjoyable and comfortable atmosphere](culture-activities-enjoyable-atmosphere.md) — related
+- [Pair interaction reportedly reduces anxiety and increases confidence and motivation](pair-interaction-reduces-anxiety-increases-motivation.md) — related

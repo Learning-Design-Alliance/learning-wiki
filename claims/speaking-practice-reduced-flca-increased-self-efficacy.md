@@ -65,3 +65,4 @@ In the results for the first research aim, Student A reported losing her "fear o
 - [Collaborative models in Second Life positively influenced French learners' speaking capability and inter-peer collaboration](second-life-collaboration-french-speaking.md) — related
 - [Collaboration and private speech fostered a supportive classroom climate](sct-tblt-classroom-climate.md) — related
 - [Teaching mathematics in English using CLIL improved pupils' motivation and reduced fear of the subject.](clil-maths-motivation-fear-reduction.md) — related
+- [Pair interaction reportedly reduces anxiety and increases confidence and motivation](pair-interaction-reduces-anxiety-increases-motivation.md) — related

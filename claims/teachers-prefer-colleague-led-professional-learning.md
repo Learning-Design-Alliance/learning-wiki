@@ -57,3 +57,4 @@ Qualitative casebook finding from the Lessons Learned chapter, based on intervie
 - [In Irving ISD, 56% of educators who served as program coaches since 2017 were promoted to new positions](irving-isd-56-percent-coaches-promoted.md) — related
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — a broader claim this one bears on
 - [Team-based professional development in higher education leads colleagues to learn more about each other, with some becoming role models for one another](team-pd-collegiality-learning.md) — related
+- [In case-study treatment schools, teachers reported the program influenced their data use mainly by providing an analytic framework for discussing data with colleagues](using-data-analytic-framework-teacher-reports.md) — related

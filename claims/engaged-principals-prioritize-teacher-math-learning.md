@@ -53,3 +53,4 @@ Observational finding from the report's five-year study of the 10 Math in Common
 - [Availability of CAASPP statewide assessment data changed MiC leadership teams' discussions and appeared to accelerate districts' ability to monitor improvement](caaspp-data-accelerated-improvement-monitoring.md) — related
 - [Selecting a few focal Standards for Mathematical Practice at a time was more productive for teacher PD than studying all SMPs simultaneously](focal-smps-deep-study-more-productive.md) — related
 - [Leadership coaching partnerships and instructional leadership team collaboration increased schools' capacity to use survey data](coaching-and-team-collaboration-support-data-use.md) — related
+- [Spring survey item-level differences favored treatment teachers on working with colleagues from other grade levels, district-level activities, and other settings](using-data-survey-item-differences.md) — related

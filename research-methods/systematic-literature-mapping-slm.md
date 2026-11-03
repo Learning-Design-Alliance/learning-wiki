@@ -27,6 +27,7 @@ The study applies systematic literature mapping (SLM) following PRISMA 2020 guid
 ## Related Research Methods
 
 - [Systematic review](systematic-review.md)
+- [Ten experience criteria for analyzing positive learning experiences](ten-experience-criteria-for-analyzing-positive-learning-experiences.md)
 
 ## Key Sources
 - Basantes-Andrade A, Bastidas-Amador G, Ruiz-Chagna C, Congo-Cervantes M, Quintana-Andrade G. (2025). Integration of digital technologies in the teaching of intercultural competences: systematic literature mapping. F1000Research 14:772. https://doi.org/10.12688/f1000research.167364.1

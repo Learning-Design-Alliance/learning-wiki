@@ -130,3 +130,4 @@ The chapter reports Carpenter (2009), in which weak associates were assumed to o
 - [Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI](structured-cai-spacing-improves-recall-and-retention.md) — related
 - [Retrieval-based learning research emphasizes both direct and indirect effects of retrieval on learning](retrieval-based-learning-direct-indirect-effects.md) — related
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](practice-testing-superior-to-restudy.md) — related
+- [A short visual-imagery strategy training improves paired-associate recognition performance across age groups, most strongly for recombined and new word pairs](strategy-training-improves-recognition-performance.md) — a narrower finding that bears on this claim

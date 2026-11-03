@@ -63,3 +63,4 @@ Theme from the same focus group thematic analysis with intervention participants
 - [Interprofessional training in a psychiatric ward improved all three subscales of the Assessment of Interprofessional Team Collaboration Scale](ipe-psychiatric-ward-improved-aitcs-subscale.md) — related
 - [Role clarity is the second most reported IPE outcome, with 32 review articles highlighting understanding of roles and responsibilities](ipe-role-clarity-second-most-reported.md) — related
 - [Teams and teamwork is the most frequently developed IPEC core competency in interprofessional education, identified in 65 instances across 62 studies](ipe-teams-teamwork-most-frequent-competency.md) — related
+- [Control facilitators reported role ambiguity while intervention facilitators did not.](control-facilitators-role-ambiguity.md) — related
