@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Cartoon-supported problem-based learning improves fourth-grade students' achievement in Social Studies"
-description: "Cartoon-supported problem-based learning improves fourth-grade students' achievement in Social Studies"
+title: "Cartoon-supported problem-based learning improves fourth-grade students' achievement on two Science, Technology and Society outcomes in Social Studies"
+description: "Cartoon-supported problem-based learning improves fourth-grade students' achievement on two Science, Technology and Society outcomes in Social Studies"
 id: cartoon-pbl-improves-social-studies-achievement
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-03
 sources:
   - id: tanrıkulu-and-baysal-2022
     resource: "https://orcid.org/0000-0001-6713-1396"
@@ -20,14 +21,14 @@ sources:
     rigour: 1
 ---
 
-# Cartoon-supported problem-based learning improves fourth-grade students' achievement in Social Studies
+# Cartoon-supported problem-based learning improves fourth-grade students' achievement on two Science, Technology and Society outcomes in Social Studies
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The experimental group's post-test achievement scores were significantly higher than the control group's. [→ Tanrıkulu and Baysal 2022](#tanrkulu-and-baysal-2022)
+`q2 i?` On a 17-item researcher-made test of two Science, Technology and Society learning outcomes, the experimental class's post-test scores were significantly higher than the control class's (Mann–Whitney z = -5.412, p = .000). [→ Tanrıkulu and Baysal 2022](#tanrkulu-and-baysal-2022)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Derya Duygu Tanrıkulu, Z. Nurdan Baysal. (2022). The effect of cartoon-supporte
 
 `q2 · i?` · `causal · r1`
 
-Mann–Whitney U test comparing post-test achievement scores between the experimental group (n=28) and control group (n=27). The article reports a statistically significant difference (z = -5.412, p = .000) in favour of the experimental group.
+Two intact fourth-grade classes with similar pre-test scores were randomly assigned as experimental (n=28) and control (n=27); the experimental class was taught by the first author with cartoon-supported problem-based learning for seven weeks (21 periods), the control class by its own teacher under the existing curriculum, so teacher and method are not separated. Achievement was measured with a 17-item multiple-choice test the researchers developed for two learning outcomes in the Social Studies 'Science, Technology and Society' domain (comparing past and present uses of technology products; using technology without harming oneself, others and nature), not Social Studies achievement in general. A Mann–Whitney U test on post-test scores found a statistically significant difference (z = -5.412, p = .000) in favour of the experimental class.
 
 > "Table 13 shows that, because of the test performed after the experiment to determine whether the scores of the participants in the experimental and control groups obtained from the achievement test varied, a statistically significant difference was found ( P<.05)."
 

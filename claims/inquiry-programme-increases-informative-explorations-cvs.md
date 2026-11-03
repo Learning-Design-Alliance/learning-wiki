@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-03
 sources:
   - id: dejonckheere-2016
     resource: "https://doi.org/10.12973/eu-jer.5.3.149"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i2` Experimental children executed significantly more informative explorations of orientation, position, or other variables than controls, with a significant pretest/post-test × group interaction (partial η² = 0.13). [→ Dejonckheere 2016](#dejonckheere-2016)
+`q2 i2` Experimental children executed significantly more informative explorations of orientation, position, or other variables than controls (main effect of group, partial η² = 0.13), with a significant pretest/post-test × group interaction (F(1, 52) = 31.58; no effect size reported for the interaction). [→ Dejonckheere 2016](#dejonckheere-2016)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Dejonckheere, P.J.N., De Wit, N.L., Van de Keere, K., & Vervaet, S. (2016). Expl
 
 `q2 · i2` · `causal · r1`
 
-A repeated-measures MANOVA on mean informative exploration trials found a main effect of group ("partial η² = 0.13") and a significant pretest/post-test × group interaction, indicating the intervention specifically increased informative, variable-isolating experiments over time.
+A repeated-measures MANOVA on mean informative exploration trials found a main effect of group ("partial η² = 0.13") and a significant pretest/post-test × group interaction (F(1, 52) = 31.58, for which no effect size is reported), indicating the intervention specifically increased informative, variable-isolating experiments over time.
 
 > "Results revealed a main effect of group, F(1, 52) = 7.8; p < 0.007, partial η² = 0.13. Gender proved not to be significant, F < 1. The interaction of pretest/post -test × group for exploration trials was significant, F(1, 52) = 31.58; p = 0.000"
 

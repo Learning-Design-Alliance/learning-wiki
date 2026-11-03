@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 sources:
-  - id: jakub-bielak-2010
+  - id: bielak-2011
     resource: "https://eric.ed.gov/?id=EJ1136451"
-    title: "Jakub Bielak, Mirosųaw Pawlak. (2010). Teaching English tense and aspect with the help of cognitive grammar: An empirical study. Studies in Second Language Learning and Teaching, 1(3), 365-400. https://eric.ed.gov/?id=EJ1136451"
-    author: Jakub Bielak, Mirosųaw Pawlak
+    title: "Bielak, J., & Pawlak, M. (2011). Teaching English tense and aspect with the help of cognitive grammar: An empirical study. Studies in Second Language Learning and Teaching, 1(3), 365-400. https://doi.org/10.14746/ssllt.2011.1.3.4"
+    author: "Bielak, J., & Pawlak, M."
 ---
 
 # Teach tense/aspect choice through keyhole pictorializations of boundedness and the present tense as a short window on the situation
@@ -52,4 +52,4 @@ In the cognitive treatment, learners were shown timelines of situations (e.g. tr
 -
 
 ## Key Sources
-- Jakub Bielak, Mirosųaw Pawlak. (2010). Teaching English tense and aspect with the help of cognitive grammar: An empirical study. Studies in Second Language Learning and Teaching, 1(3), 365-400. https://eric.ed.gov/?id=EJ1136451
+- Bielak, J., & Pawlak, M. (2011). Teaching English tense and aspect with the help of cognitive grammar: An empirical study. Studies in Second Language Learning and Teaching, 1(3), 365-400. https://doi.org/10.14746/ssllt.2011.1.3.4

@@ -71,7 +71,7 @@ Mann–Whitney U test comparing post-test PSIC total scores between the experime
 - [Gains in problem-solving self-confidence and self-control persist at retention test, but avoidance and total inventory scores regress](cartoon-pbl-retention-subdimensions.md) — related
 - [Cartoon-supported PBL reduces avoidance, a negative aspect of problem-solving, in the experimental group](cartoon-pbl-reduces-avoidance.md) — a narrower finding that bears on this claim
 - [The control group showed no significant change in problem-solving perceptions or achievement over the seven-week period](control-group-no-change-social-studies.md) — related
-- [Cartoon-supported problem-based learning improves fourth-grade students' achievement in Social Studies](cartoon-pbl-improves-social-studies-achievement.md) — related
+- [Cartoon-supported problem-based learning improves fourth-grade students' achievement on two Science, Technology and Society outcomes in Social Studies](cartoon-pbl-improves-social-studies-achievement.md) — related
 - [Group main effect: concept cartoon teaching explained 18% of variance in critical thinking scores between groups](group-main-effect-18-percent-variance.md) — related
 - [Concept-cartoon-based teaching significantly increased seventh graders' critical thinking scores within the experimental group](concept-cartoons-increase-cct-x-experimental-group.md) — related
 - [Using cartoons in social studies lessons significantly increases grade 4 students' awareness of water issues compared with traditional teaching](cartoons-increase-water-awareness-grade4.md) — related

@@ -54,4 +54,4 @@ Dependent-groups t-test on CCT-X scores of the 28-student experimental group in 
 - [Within the experimental group, the modeling based science education program was followed by a statistically significant increase in critical thinking scores from pre-test to post-test](mbsep-experimental-group-prepost-gain.md) — related
 - [Seventh-grade students taught the particulate nature of matter unit with concept cartoons achieved significantly higher post-test scores than control students taught with the current program](concept-cartoons-raise-grade7-achievement-posttest.md) — related
 - [Cartoon-supported problem-based learning improves fourth-grade students' perceptions of their problem-solving skills](cartoon-pbl-improves-problem-solving-perceptions.md) — related
-- [Cartoon-supported problem-based learning improves fourth-grade students' achievement in Social Studies](cartoon-pbl-improves-social-studies-achievement.md) — related
+- [Cartoon-supported problem-based learning improves fourth-grade students' achievement on two Science, Technology and Society outcomes in Social Studies](cartoon-pbl-improves-social-studies-achievement.md) — related

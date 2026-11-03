@@ -65,6 +65,6 @@ Mann–Whitney U test comparing post-test avoidance sub-dimension scores between
 
 ## Related Claims
 - [Cartoon-supported problem-based learning improves fourth-grade students' perceptions of their problem-solving skills](cartoon-pbl-improves-problem-solving-perceptions.md) — a broader claim this one bears on
-- [Cartoon-supported problem-based learning improves fourth-grade students' achievement in Social Studies](cartoon-pbl-improves-social-studies-achievement.md) — related
+- [Cartoon-supported problem-based learning improves fourth-grade students' achievement on two Science, Technology and Society outcomes in Social Studies](cartoon-pbl-improves-social-studies-achievement.md) — related
 - [Gains in problem-solving self-confidence and self-control persist at retention test, but avoidance and total inventory scores regress](cartoon-pbl-retention-subdimensions.md) — related
 - [The control group showed no significant change in problem-solving perceptions or achievement over the seven-week period](control-group-no-change-social-studies.md) — related

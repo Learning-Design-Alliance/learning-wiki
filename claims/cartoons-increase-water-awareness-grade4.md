@@ -53,4 +53,4 @@ Quasi-experimental pre-test/post-test study with 33 experimental and 32 control 
 - [Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test](animation-outperformed-traditional-instruction-atp-achievement.md) — a broader claim this one bears on
 - [Online learning with caricature animations produced significantly higher Sun and Space success scores than online learning without caricature animations](caricature-animation-higher-sun-space-success.md) — related
 - [Cartoon-supported problem-based learning improves fourth-grade students' perceptions of their problem-solving skills](cartoon-pbl-improves-problem-solving-perceptions.md) — related
-- [Cartoon-supported problem-based learning improves fourth-grade students' achievement in Social Studies](cartoon-pbl-improves-social-studies-achievement.md) — related
+- [Cartoon-supported problem-based learning improves fourth-grade students' achievement on two Science, Technology and Society outcomes in Social Studies](cartoon-pbl-improves-social-studies-achievement.md) — related

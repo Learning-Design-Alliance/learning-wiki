@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-03
 sources:
   - id: alharbi-2015
     resource: "https://doi.org/10.5539/elt.v8n6p111"
@@ -48,10 +49,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (4 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2015 · 3 of 4 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 4 of 4 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The experimental group showed statistically significant gains from pretest to posttest on reading, writing and overall integrated reading/writing performance (p < .01). [→ Alharbi 2015](#alharbi-2015)
+`q2 i?` The experimental group showed statistically significant gains from pretest to posttest on reading, writing and overall integrated reading/writing performance (Table 5: p = .000 for reading and for writing, p = .01 for the combined score). [→ Alharbi 2015](#alharbi-2015)
 `q2 i?` The experimental group significantly outperformed the control group on reading skills at post-test (t = 5.373, p = .000). [→ Alharbi 2015 (2)](#alharbi-2015-2)
 `q2 i?` The experimental group significantly outperformed the control group on writing skills at post-test (t = 2.544, p = .014). [→ Alharbi 2015 (3)](#alharbi-2015-3)
 `q2 i?` The experimental group significantly outperformed the control group on overall integrated reading/writing skills at post-test (t = 5.246, p = .000). [→ Alharbi 2015 (4)](#alharbi-2015-4)
@@ -64,7 +65,7 @@ Alharbi, M. (2015). Effects of Blackboard’s Discussion Boards, Blogs and Wikis
 
 `q2 · i?` · `causal · r2`
 
-Pre-test/post-test comparisons within the experimental group (n = 30) on the Integrated Reading/Writing Test showed statistically significant improvement (p < .01) after the 16-week CMC-based blended course.
+Pre-test/post-test comparisons within the experimental group (n = 30) on the Integrated Reading/Writing Test showed statistically significant improvement after the 16-week CMC-based blended course. Table 5 reports p = .000 for reading (t = -7.909) and for writing (t = -4.192), and p = .01 for the combined reading and writing score (t = -8.715); the prose summarises all three as p < .01.
 
 > "Data provided in Table 5 showing t-test comparisons of the participants’ performance for the experimental group on the Integrated Reading/Writing Test demonstrate that the increase in performance for this group was statistically significant (p < .01."
 

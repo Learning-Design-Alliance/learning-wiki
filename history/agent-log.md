@@ -5,6 +5,18 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-03 · a DOI fill now checks where the cited article was published
+
+Dejonckheere, De Wit, Van de Keere and Vervaet published "Exploring the classroom: Teaching science in early
+childhood" twice in 2016: in the International Electronic Journal of Elementary Education 8(4), 537-558 (ERIC
+EJ1109852, no DOI) and in the European Journal of Educational Research 5(3), 149-164 (10.12973/eu-jer.5.3.149).
+j-screric-25's "filling agreed DOIs" step (`standardize_citations.py`) put the second's DOI on seven claims citing
+the first: title, authors and year all agree, so every check the fill made passed. `fill_refusal` now also asks
+`venue_mismatch`: a citation whose first page, or volume where the registry gives a plain number, differs from the
+registry record is a different article and is not filled. The 14 wrongly filled citation lines were reverted; the
+tool now reports those seven as not filled. A conflict remains on the author-year key `dejonckheere-2016`, and it
+is the true state: two articles under one key.
+
 ## 2026-11-03 · "no effect size is printed, so impact is null" rewritten on 331 entries
 
 The extraction model explained an `i?` entry as "No effect size is printed, so impact is null", which says

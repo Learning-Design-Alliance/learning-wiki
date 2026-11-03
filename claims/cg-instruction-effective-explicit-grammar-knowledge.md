@@ -8,12 +8,13 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-01
 evidence_strength: moderate
-newest_evidence: 2010
+newest_evidence: 2011
+source_checked: 2026-11-03
 sources:
-  - id: jakub-bielak-2010
-    resource: "https://eric.ed.gov/?id=EJ1136451"
-    title: "Jakub Bielak, Mirosųaw Pawlak. (2010). Teaching English tense and aspect with the help of cognitive grammar: An empirical study. Studies in Second Language Learning and Teaching, 1(3), 365-400. https://eric.ed.gov/?id=EJ1136451"
-    author: Jakub Bielak, Mirosųaw Pawlak
+  - id: bielak-2011
+    resource: "https://doi.org/10.14746/ssllt.2011.1.3.4"
+    title: "Bielak, J., & Pawlak, M. (2011). Teaching English tense and aspect with the help of cognitive grammar: An empirical study. Studies in Second Language Learning and Teaching, 1(3), 365-400. https://doi.org/10.14746/ssllt.2011.1.3.4"
+    author: "Bielak, J., & Pawlak, M."
     q: 2
     i: "?"
     kind: causal
@@ -24,20 +25,20 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Cognitive-grammar-based instruction improved Polish senior high school students' mostly explicit knowledge of the present simple/progressive with stative and dynamic verbs. [→ Jakub Bielak 2010](#jakub-bielak-2010)
+`q2 i?` Cognitive-grammar-based instruction improved Polish senior high school students' mostly explicit knowledge of the present simple/progressive with stative and dynamic verbs. [→ Bielak 2011](#bielak-2011)
 
 ## Evidence
 
-### Jakub Bielak 2010
+### Bielak 2011
 
-Jakub Bielak, Mirosųaw Pawlak. (2010). Teaching English tense and aspect with the help of cognitive grammar: An empirical study. Studies in Second Language Learning and Teaching, 1(3), 365-400. https://eric.ed.gov/?id=EJ1136451
+Bielak, J., & Pawlak, M. (2011). Teaching English tense and aspect with the help of cognitive grammar: An empirical study. Studies in Second Language Learning and Teaching, 1(3), 365-400. https://doi.org/10.14746/ssllt.2011.1.3.4
 
 `q2 · i?` · `causal · r1`
 
-Quasi-experiment with pretest, immediate posttest and delayed posttest; 50 Polish senior high school students in three intact-class groups (COG n = 21, TRAD n = 15, CTRL n = 14) took a written discrete-item grammar test. On the explicit-knowledge measure "COG improved by 7.26 points" from pretest to Posttest 1, against a 3-point control gain attributed to practice effect.
+Quasi-experiment with pretest, immediate posttest and delayed posttest; 50 Polish senior high school students from four intact classes, forming three groups (COG n = 21, TRAD n = 15, CTRL n = 14), took a written discrete-item grammar test of mostly explicit knowledge. From pretest to Posttest 1 "COG improved by 7.26 points", against a 3-point control gain attributed to practice effect; the traditional-instruction group (TRAD) improved more, by 11.14 points.
 
 > "These data reveal that all the groups improved from the pretest to Posttest 1, although the scores of the two experimental groups rose much more sharply than those of CTRL; COG improved by 7.26 points, TRAD by 11.14 points, while CTRL by mere 3 points."
 

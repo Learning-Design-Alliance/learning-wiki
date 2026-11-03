@@ -16,7 +16,7 @@ sources:
 # Corpus-based DDL framework for augmenting students' vocabulary repertoire in Reading EAP
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 unmarked) · 1 study (1 review), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 review), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article proposes a framework (Figure 1) for enhancing students' vocabulary knowledge within an inquiry-based Reading EAP curriculum. It comprises "four curriculum elements – course content, instructional approach, activities, and assessment" and structures key learning variables in "a recurring cycle of activities". The cycle begins with instruction on complex syntax and multi-word sequences, moves through teacher-activated inquiries, collaborative corpus investigation and synthesis of lexico-syntactic patterns, and ends with independent query solving, sharing, and use of new knowledge in reading and writing.
@@ -43,9 +43,7 @@ The article proposes a framework (Figure 1) for enhancing students' vocabulary k
 ### Claims
 - [Ddl Meta Analysis Large Effects](../claims/ddl-meta-analysis-large-effects.md) [+M]
 - [Ddl Challenges Limitations](../claims/ddl-challenges-limitations.md) [~M]
-
-## Related Designs
-- [Ddl Effective Conditions](../claims/ddl-effective-conditions.md)
+- [DDL effects are consistent under specific conditions: limited native-speaker instructors, higher-level learners, both computer- and paper-based concordancing, and vocabulary/lexicogrammar uses](../claims/ddl-effective-conditions.md) [~M]
 
 ## Examples
 -

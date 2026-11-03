@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Case study–based teaching significantly improved mining engineering students' confidence that they could provide concrete examples of applied geoscience"
-description: "Case study–based teaching significantly improved mining engineering students' confidence that they could provide concrete examples of applied geoscience"
+title: "Mining engineering students' confidence that they could provide concrete examples of applied geoscience rose significantly over a course combining case studies and active learning"
+description: "Mining engineering students' confidence that they could provide concrete examples of applied geoscience rose significantly over a course combining case studies and active learning"
 id: case-studies-improve-confidence-applied-geoscience-examples
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-03
 sources:
   - id: holley-2017
     resource: "https://doi.org/10.5408/16-145.1"
@@ -20,14 +21,14 @@ sources:
     rigour: 1
 ---
 
-# Case study–based teaching significantly improved mining engineering students' confidence that they could provide concrete examples of applied geoscience
+# Mining engineering students' confidence that they could provide concrete examples of applied geoscience rose significantly over a course combining case studies and active learning
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Students showed significant improvement (p < 0.01) in their ability to provide concrete examples of the importance of geology in mining after the case study–based intervention. [→ Holley 2017](#holley-2017)
+`q2 i?` In a single class with no comparison group, students' self-rated ability to provide concrete examples of geoscience applications in mining rose significantly from the start to the end of a course that combined case studies with active learning (p < 0.01); the design cannot attribute the change to case studies, or to the course rather than other influences. [→ Holley 2017](#holley-2017)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Elizabeth A. Holley. (2017). Engaging Engineering Students in Geoscience Through
 
 `q2 · i?` · `causal · r1`
 
-One-group pretest–posttest quasiexperimental survey of 30 mining engineering students using a Likert-scale instrument adapted from CLASS. Item B14 improved from premedian 4 to postmedian 5 (Z = 3.70, p < 0.01), showing "ability to provide concrete examples of geoscience applications in mining" improved significantly.
+One-group pretest–posttest quasiexperimental survey of the 30 mining engineering students in one course, using a Likert-scale attitude instrument adapted from CLASS. The course revision combined three things: each topic introduced in an applied context, faculty and student case study presentations, and active learning in lectures. Item B14 ("I can provide concrete examples of...") rose from premedian 4 to postmedian 5 (Z = 3.70, p < 0.01), a self-rating rather than a test of the skill. The author states that the design cannot show whether the combined approach was more effective than traditional teaching or other methods, nor whether case studies and active learning played equal roles.
 
 > "Mann-Whitney U-tests demonstrated that improvement was significant for 3 survey questions at p /C200.05 (Table IV): exposure to geoscience concepts, ability to provide concrete examples of geoscience applications in mining, and ability to convince a friend or colleague of the importance of geoscience in mining."
 
@@ -45,7 +46,7 @@ One-group pretest–posttest quasiexperimental survey of 30 mining engineering s
 
 
 ## Learner Variables
-- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: self-rated confidence rose from pretest to posttest in one class, with no comparison group
 
 ## Related Claims
 - [Students became significantly more willing to convince others that geoscience is important in mining after the intervention](case-studies-increase-willingness-advocate-geoscience-mining.md) — related

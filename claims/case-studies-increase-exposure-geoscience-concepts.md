@@ -45,5 +45,5 @@ Survey item B5, "I could explain some of the big-picture geological concepts tha
 
 
 ## Related Claims
-- [Case study–based teaching significantly improved mining engineering students' confidence that they could provide concrete examples of applied geoscience](case-studies-improve-confidence-applied-geoscience-examples.md) — related
+- [Mining engineering students' confidence that they could provide concrete examples of applied geoscience rose significantly over a course combining case studies and active learning](case-studies-improve-confidence-applied-geoscience-examples.md) — related
 - [Students became significantly more willing to convince others that geoscience is important in mining after the intervention](case-studies-increase-willingness-advocate-geoscience-mining.md) — related

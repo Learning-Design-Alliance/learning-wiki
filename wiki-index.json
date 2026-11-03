@@ -44082,6 +44082,7 @@
 "id":"blackboard-cmc-improves-integrated-reading-writing",
 "newest_evidence":"2015",
 "path":"claims/blackboard-cmc-improves-integrated-reading-writing.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Blended Blackboard CMC instruction using discussion boards, blogs and wikis significantly improves integrated reading/writing performance in EFL college students",
 "type":"claim"
@@ -53152,13 +53153,14 @@
 "type":"claim"
 },
 {
-"description":"Cartoon-supported problem-based learning improves fourth-grade students' achievement in Social Studies",
+"description":"Cartoon-supported problem-based learning improves fourth-grade students' achievement on two Science, Technology and Society outcomes in Social Studies",
 "evidence_strength":"moderate",
 "id":"cartoon-pbl-improves-social-studies-achievement",
 "newest_evidence":"2022",
 "path":"claims/cartoon-pbl-improves-social-studies-achievement.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Cartoon-supported problem-based learning improves fourth-grade students' achievement in Social Studies",
+"title":"Cartoon-supported problem-based learning improves fourth-grade students' achievement on two Science, Technology and Society outcomes in Social Studies",
 "type":"claim"
 },
 {
@@ -53346,13 +53348,14 @@
 "type":"claim"
 },
 {
-"description":"Case study–based teaching significantly improved mining engineering students' confidence that they could provide concrete examples of applied geoscience",
+"description":"Mining engineering students' confidence that they could provide concrete examples of applied geoscience rose significantly over a course combining case studies and active learning",
 "evidence_strength":"moderate",
 "id":"case-studies-improve-confidence-applied-geoscience-examples",
 "newest_evidence":"2017",
 "path":"claims/case-studies-improve-confidence-applied-geoscience-examples.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Case study–based teaching significantly improved mining engineering students' confidence that they could provide concrete examples of applied geoscience",
+"title":"Mining engineering students' confidence that they could provide concrete examples of applied geoscience rose significantly over a course combining case studies and active learning",
 "type":"claim"
 },
 {
@@ -57265,7 +57268,7 @@
 "description":"CG-based instruction's gains continued increasing between the immediate and delayed posttest while traditional-instruction gains were only maintained",
 "evidence_strength":"moderate",
 "id":"cg-gains-kept-increasing-delayed-posttest",
-"newest_evidence":"2010",
+"newest_evidence":"2011",
 "path":"claims/cg-gains-kept-increasing-delayed-posttest.md",
 "status":"review",
 "title":"CG-based instruction's gains continued increasing between the immediate and delayed posttest while traditional-instruction gains were only maintained",
@@ -57285,8 +57288,9 @@
 "description":"CG-based form-focused instruction is at least moderately effective in fostering mostly explicit grammatical knowledge of the English present tense/progressive",
 "evidence_strength":"moderate",
 "id":"cg-instruction-effective-explicit-grammar-knowledge",
-"newest_evidence":"2010",
+"newest_evidence":"2011",
 "path":"claims/cg-instruction-effective-explicit-grammar-knowledge.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"CG-based form-focused instruction is at least moderately effective in fostering mostly explicit grammatical knowledge of the English present tense/progressive",
 "type":"claim"
@@ -88171,13 +88175,14 @@
 "type":"claim"
 },
 {
-"description":"The courseware reduces the visual-spatial ability gap between male and female students, with no significant gender difference in visual-aspect sub-microscopic gains",
+"description":"Gains in drawing the sub-microscopic level of changing states of matter after a courseware unit did not differ significantly between male and female students",
 "evidence_strength":"moderate",
 "id":"courseware-reduces-visual-spatial-gender-gap",
 "newest_evidence":"2018",
 "path":"claims/courseware-reduces-visual-spatial-gender-gap.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"The courseware reduces the visual-spatial ability gap between male and female students, with no significant gender difference in visual-aspect sub-microscopic gains",
+"title":"Gains in drawing the sub-microscopic level of changing states of matter after a courseware unit did not differ significantly between male and female students",
 "type":"claim"
 },
 {
@@ -203801,6 +203806,7 @@
 "id":"inquiry-programme-increases-informative-explorations-cvs",
 "newest_evidence":"2016",
 "path":"claims/inquiry-programme-increases-informative-explorations-cvs.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Inquiry-based programme increased informative explorations targeting specific variables (CVS gains)",
 "type":"claim"
@@ -209762,6 +209768,7 @@
 "id":"internet-and-time-barriers-online-comics",
 "newest_evidence":"2015",
 "path":"claims/internet-and-time-barriers-online-comics.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Students reported that internet connection instability and limited time were barriers to creating online comics",
 "type":"claim"
@@ -329603,7 +329610,7 @@
 "description":"The three groups did not differ significantly on the pretest, supporting attribution of later differences to treatment",
 "evidence_strength":"moderate",
 "id":"pretest-no-group-difference-anova",
-"newest_evidence":"2010",
+"newest_evidence":"2011",
 "path":"claims/pretest-no-group-difference-anova.md",
 "status":"review",
 "title":"The three groups did not differ significantly on the pretest, supporting attribution of later differences to treatment",
@@ -345066,6 +345073,7 @@
 "id":"rave-improves-lexical-access-year1",
 "newest_evidence":"2018",
 "path":"claims/rave-improves-lexical-access-year1.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"RAVE instruction enhances efficiency of lexical access to instructed words",
 "type":"claim"
@@ -345076,6 +345084,7 @@
 "id":"rave-improves-word-knowledge-year1",
 "newest_evidence":"2018",
 "path":"claims/rave-improves-word-knowledge-year1.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"RAVE instruction enhances middle school students' knowledge of academic words on a researcher-designed measure",
 "type":"claim"
@@ -390661,6 +390670,7 @@
 "id":"social-skills-gains-maintained-follow-up",
 "newest_evidence":"2016",
 "path":"claims/social-skills-gains-maintained-follow-up.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Social skills gains were maintained at follow-up, with no significant post-to-follow-up differences",
 "type":"claim"
@@ -405903,6 +405913,7 @@
 "id":"student-centred-methods-outperform-teacher-centred",
 "newest_evidence":"2018",
 "path":"claims/student-centred-methods-outperform-teacher-centred.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Student-centred approaches (problem-based learning, guided inquiry, cooperative learning) outperformed teacher-centred methods in the reviewed studies",
 "type":"claim"
@@ -469687,6 +469698,7 @@
 "id":"writing-typing-beat-multiple-choice-spelling",
 "newest_evidence":"2017",
 "path":"claims/writing-typing-beat-multiple-choice-spelling.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Practicing French vocabulary by writing or typing leads to higher spelling scores than practicing by multiple choice",
 "type":"claim"

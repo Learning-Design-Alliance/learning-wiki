@@ -17,7 +17,7 @@ sources:
 # Courseware of Discontinuous Nature of Matter
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A computer-based courseware developed by the research team to introduce the particle concept: that all matter consists of particles separated by "particle-free space" between moving particles. It presents a number of experiments with relevant animations to help students visualize the sub-microscopic level. In the study it assisted structure-oriented chemistry teaching of the particle concept before the topic of changing states of matter.
@@ -39,7 +39,7 @@ A computer-based courseware developed by the research team to introduce the part
 
 ### Claims
 - [Courseware Particle Concept Understanding Gains](../claims/courseware-particle-concept-understanding-gains.md) [+M]
-- [Courseware Reduces Visual Spatial Gender Gap](../claims/courseware-reduces-visual-spatial-gender-gap.md) [+M]
+- [Gains in drawing the sub-microscopic level of changing states of matter after a courseware unit did not differ significantly between male and female students](../claims/courseware-reduces-visual-spatial-gender-gap.md) [~W]
 
 ## Related Designs
 - 

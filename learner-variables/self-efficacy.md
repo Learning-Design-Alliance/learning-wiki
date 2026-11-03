@@ -272,7 +272,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Smartboard teaching raised overall motivation, integrative orientation, instrumental orientation and linguistic self-confidence, but not self-efficacy beliefs or ought-to L2 self](../claims/smartboard-motivation-subcomponents-mixed.md) [-M] — instruction changes it
 - [Learners report peer review fostered critical thinking in an EFL academic-writing course, with mixed answers on identifying proper academic writing](../claims/peer-review-critical-thinking-perception.md) [~W] — participants who used peer review gave mixed answers on identifying proper academic writing, which the authors read as low confidence, with no comparison group
 - [Teachers' self-efficacy is connected to the effectiveness of inclusion implementation, with self-efficacy for inclusive curricula mattering more than self-efficacy for cooperation](../claims/teacher-self-efficacy-inclusion-implementation.md) [+M] — learners who differ on it differ in outcomes
-- [Case study–based teaching significantly improved mining engineering students' confidence that they could provide concrete examples of applied geoscience](../claims/case-studies-improve-confidence-applied-geoscience-examples.md) [+M] — instruction changes it
+- [Mining engineering students' confidence that they could provide concrete examples of applied geoscience rose significantly over a course combining case studies and active learning](../claims/case-studies-improve-confidence-applied-geoscience-examples.md) [+W] — self-rated confidence rose from pretest to posttest in one class combining case studies and active learning, with no comparison group
 
 ## The evidence by question
 

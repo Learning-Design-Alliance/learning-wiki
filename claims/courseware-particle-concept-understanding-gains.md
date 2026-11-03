@@ -46,4 +46,4 @@ One-group pretest-posttest quasi-experiment with 65 students (particle-concept s
 
 ## Related Claims
 - [No significant gender difference in particle-concept gains from the courseware (male N-gain 0.45 vs female 0.65, p = 0.265)](no-gender-difference-particle-concept-gain.md) — related
-- [The courseware reduces the visual-spatial ability gap between male and female students, with no significant gender difference in visual-aspect sub-microscopic gains](courseware-reduces-visual-spatial-gender-gap.md) — related
+- [Gains in drawing the sub-microscopic level of changing states of matter after a courseware unit did not differ significantly between male and female students](courseware-reduces-visual-spatial-gender-gap.md) — related

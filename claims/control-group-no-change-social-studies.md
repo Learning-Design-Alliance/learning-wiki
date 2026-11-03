@@ -65,7 +65,7 @@ Wilcoxon signed-rank test for the control group (n=27) comparing pre-test and po
 
 ## Related Claims
 - [Cartoon-supported problem-based learning improves fourth-grade students' perceptions of their problem-solving skills](cartoon-pbl-improves-problem-solving-perceptions.md) — related
-- [Cartoon-supported problem-based learning improves fourth-grade students' achievement in Social Studies](cartoon-pbl-improves-social-studies-achievement.md) — related
+- [Cartoon-supported problem-based learning improves fourth-grade students' achievement on two Science, Technology and Society outcomes in Social Studies](cartoon-pbl-improves-social-studies-achievement.md) — related
 - [Cartoon-supported PBL reduces avoidance, a negative aspect of problem-solving, in the experimental group](cartoon-pbl-reduces-avoidance.md) — related
 - [Both experimental and control groups improved significantly on social problem-solving over the school period](both-groups-improved-social-problem-solving.md) — related
 - [Well-structured PS instruction improved learners' PS perceptions on PSI total, Problem Solving Confidence and Approach-Avoidance Style, but not Personal Control](ps-instruction-improved-psi-perceptions.md) — related
