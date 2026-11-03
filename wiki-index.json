@@ -37444,6 +37444,7 @@
 "id":"balanced-knowledge-policy-task-distribution",
 "newest_evidence":"2015",
 "path":"claims/balanced-knowledge-policy-task-distribution.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"The balanced knowledge acquisition policy achieved more even task distribution across learning goals than free collaboration",
 "type":"claim"
@@ -49403,23 +49404,25 @@
 "type":"claim"
 },
 {
-"description":"CAI based on the TLS method significantly improves English reading ability in ninth grade Thai EFL students",
+"description":"Ninth grade Thai EFL students' English reading scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group",
 "evidence_strength":"moderate",
 "id":"cai-tls-improves-english-reading-thai-efl",
 "newest_evidence":"2015",
 "path":"claims/cai-tls-improves-english-reading-thai-efl.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"CAI based on the TLS method significantly improves English reading ability in ninth grade Thai EFL students",
+"title":"Ninth grade Thai EFL students' English reading scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group",
 "type":"claim"
 },
 {
-"description":"CAI based on the TLS method significantly improves English creative writing ability in ninth grade Thai EFL students",
+"description":"Ninth grade Thai EFL students' English creative writing scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group",
 "evidence_strength":"moderate",
 "id":"cai-tls-improves-english-writing-thai-efl",
 "newest_evidence":"2015",
 "path":"claims/cai-tls-improves-english-writing-thai-efl.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"CAI based on the TLS method significantly improves English creative writing ability in ninth grade Thai EFL students",
+"title":"Ninth grade Thai EFL students' English creative writing scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group",
 "type":"claim"
 },
 {
@@ -51207,6 +51210,7 @@
 "id":"captions-any-type-effective-listening",
 "newest_evidence":"2015",
 "path":"claims/captions-any-type-effective-listening.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Providing captions of any type improved general listening comprehension of EFL students compared with no captions",
 "type":"claim"
@@ -293480,6 +293484,7 @@
 "id":"parent-text-alerts-incomplete-homework-raise-performance",
 "newest_evidence":"2014",
 "path":"claims/parent-text-alerts-incomplete-homework-raise-performance.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Text-message alerts to parents about incomplete middle-school homework raise student performance",
 "type":"claim"
@@ -298022,6 +298027,7 @@
 "id":"pbl-positive-learning-keys-qualitative",
 "newest_evidence":"2015",
 "path":"claims/pbl-positive-learning-keys-qualitative.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"PBL group pre-service teachers report challenging, creative, cognitive, affective, and group-related positive learning keys",
 "type":"claim"
@@ -301376,6 +301382,7 @@
 "id":"peer-tutoring-effective-ebd",
 "newest_evidence":"2018",
 "path":"claims/peer-tutoring-effective-ebd.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Peer tutoring interventions are effective for students with EBD, and those with EBD benefit most among students with disabilities",
 "type":"claim"
@@ -358767,13 +358774,14 @@
 "type":"claim"
 },
 {
-"description":"Only 29% of control agricultural education teachers used the Science-in-CTE method and lessons one year later",
+"description":"Of the control agricultural education teachers still teaching explicit science a year later, only 2 of 7 (29%) used the Science-in-CTE method and lessons",
 "evidence_strength":"moderate",
 "id":"science-in-cte-control-teachers-low-sustained-use",
 "newest_evidence":"2013",
 "path":"claims/science-in-cte-control-teachers-low-sustained-use.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Only 29% of control agricultural education teachers used the Science-in-CTE method and lessons one year later",
+"title":"Of the control agricultural education teachers still teaching explicit science a year later, only 2 of 7 (29%) used the Science-in-CTE method and lessons",
 "type":"claim"
 },
 {
@@ -358807,13 +358815,14 @@
 "type":"claim"
 },
 {
-"description":"92% of experimental agricultural education teachers continued using Science-in-CTE materials one year after the pilot study",
+"description":"12 of the 13 experimental agricultural education teachers still teaching explicit science (92%) used Science-in-CTE materials one year after the pilot study",
 "evidence_strength":"moderate",
 "id":"science-in-cte-treatment-teachers-sustained-use-one-year",
 "newest_evidence":"2013",
 "path":"claims/science-in-cte-treatment-teachers-sustained-use-one-year.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"92% of experimental agricultural education teachers continued using Science-in-CTE materials one year after the pilot study",
+"title":"12 of the 13 experimental agricultural education teachers still teaching explicit science (92%) used Science-in-CTE materials one year after the pilot study",
 "type":"claim"
 },
 {
@@ -378585,6 +378594,7 @@
 "id":"sms-vocabulary-posttest-advantage",
 "newest_evidence":"2011",
 "path":"claims/sms-vocabulary-posttest-advantage.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention",
 "type":"claim"
@@ -393857,6 +393867,7 @@
 "id":"structured-dpp-no-completion-time-effect",
 "newest_evidence":"2015",
 "path":"claims/structured-dpp-no-completion-time-effect.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Structured collaboration did not influence assignment completion time compared to free collaboration",
 "type":"claim"
@@ -393867,6 +393878,7 @@
 "id":"structured-dpp-no-contribution-balance-gain",
 "newest_evidence":"2015",
 "path":"claims/structured-dpp-no-contribution-balance-gain.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Structured collaboration did not significantly improve balance of student code contributions compared to free collaboration",
 "type":"claim"
@@ -429186,6 +429198,7 @@
 "id":"training-increased-toulmin-confidence",
 "newest_evidence":"2019",
 "path":"claims/training-increased-toulmin-confidence.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Argument structure training increased students' self-reported confidence with the Toulmin model",
 "type":"claim"
@@ -442810,13 +442823,14 @@
 "type":"claim"
 },
 {
-"description":"Using videos and 3D animations both in the classroom and in homework activities provided significant impact in remedying misconceptions about basic computer units",
+"description":"Students who used videos and 3D animations in class or as homework gave fewer incorrect answers about basic computer units after instruction (descriptive pre-post counts, no untreated control)",
 "evidence_strength":"moderate",
 "id":"videos-3d-animations-remedy-misconceptions",
 "newest_evidence":"2017",
 "path":"claims/videos-3d-animations-remedy-misconceptions.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Using videos and 3D animations both in the classroom and in homework activities provided significant impact in remedying misconceptions about basic computer units",
+"title":"Students who used videos and 3D animations in class or as homework gave fewer incorrect answers about basic computer units after instruction (descriptive pre-post counts, no untreated control)",
 "type":"claim"
 },
 {
@@ -444972,6 +444986,7 @@
 "id":"voc-training-gatekeeper-behavior-trend",
 "newest_evidence":"2015",
 "path":"claims/voc-training-gatekeeper-behavior-trend.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Self-reported gatekeeper behaviors (identifying, approaching, and referring distressed student veterans) trended upward after training but did not reach statistical significance on the composite measure.",
 "type":"claim"
@@ -444997,13 +445012,14 @@
 "type":"claim"
 },
 {
-"description":"Game-based virtual-human role-play training significantly increases faculty preparedness to support student veterans in psychological distress, with sustained gains at 3-month follow-up.",
+"description":"College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.",
 "evidence_strength":"moderate",
 "id":"voc-training-increases-gatekeeper-preparedness",
 "newest_evidence":"2015",
 "path":"claims/voc-training-increases-gatekeeper-preparedness.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Game-based virtual-human role-play training significantly increases faculty preparedness to support student veterans in psychological distress, with sustained gains at 3-month follow-up.",
+"title":"College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.",
 "type":"claim"
 },
 {
@@ -445012,6 +445028,7 @@
 "id":"voc-training-increases-gatekeeper-self-efficacy-likelihood",
 "newest_evidence":"2015",
 "path":"claims/voc-training-increases-gatekeeper-self-efficacy-likelihood.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Game-based virtual-human role-play training significantly increases faculty self-efficacy and behavioral intent to support student veterans, with sustained gains at 3-month follow-up.",
 "type":"claim"

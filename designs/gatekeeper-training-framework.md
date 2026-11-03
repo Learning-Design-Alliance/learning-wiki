@@ -43,7 +43,7 @@ The article defines gatekeeper training as "teaching individuals to recognize th
 ### Claims
 
 - [Game-based virtual-human role-play training significantly increases faculty self-efficacy and behavioral intent to support student veterans, with sustained gains at 3-month follow-up.](../claims/voc-training-increases-gatekeeper-self-efficacy-likelihood.md) [+W]
-- [Game-based virtual-human role-play training significantly increases faculty preparedness to support student veterans in psychological distress, with sustained gains at 3-month follow-up.](../claims/voc-training-increases-gatekeeper-preparedness.md) [+W]
+- [College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.](../claims/voc-training-increases-gatekeeper-preparedness.md) [+W]
 - [Self-reported gatekeeper behaviors (identifying, approaching, and referring distressed student veterans) trended upward after training but did not reach statistical significance on the composite measure.](../claims/voc-training-gatekeeper-behavior-trend.md) [+W]
 
 ## Related Designs

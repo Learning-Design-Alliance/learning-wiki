@@ -46,7 +46,7 @@ Questionnaire data from 10 of 12 science teachers who partnered with experimenta
 
 
 ## Related Claims
-- [Only 29% of control agricultural education teachers used the Science-in-CTE method and lessons one year later](science-in-cte-control-teachers-low-sustained-use.md) — related
-- [92% of experimental agricultural education teachers continued using Science-in-CTE materials one year after the pilot study](science-in-cte-treatment-teachers-sustained-use-one-year.md) — related
+- [Of the control agricultural education teachers still teaching explicit science a year later, only 2 of 7 (29%) used the Science-in-CTE method and lessons](science-in-cte-control-teachers-low-sustained-use.md) — related
+- [12 of the 13 experimental agricultural education teachers still teaching explicit science (92%) used Science-in-CTE materials one year after the pilot study](science-in-cte-treatment-teachers-sustained-use-one-year.md) — related
 - [Sustained usage rates in Science-in-CTE were consistent with those reported in the Math-in-CTE follow-up study](science-in-cte-usage-consistent-with-math-in-cte.md) — related
 - [The authors argue STEM content incorporation in agricultural teacher education is appropriate because agriculture is an applied science](stem-content-incorporation-teacher-education-argument.md) — related

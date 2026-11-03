@@ -9,6 +9,7 @@ generated:
   at: 2026-10-16
 evidence_strength: weak
 newest_evidence: 2014
+source_checked: 2026-11-03
 sources:
   - id: adam-m-lavecchia-2014
     resource: "http://www.nber.org/papers/w20609"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Virtually all parents offered text messages about their middle-school child's incomplete homework agreed to receive them, and children of randomly selected offered parents performed significantly better than children whose parents did not receive the offer. [→ Adam M. Lavecchia 2014](#adam-m-lavecchia-2014)
@@ -37,7 +38,7 @@ Adam M. Lavecchia, Heidi Liu, and Philip Oreopoulos. (2014). Behavioral Economic
 
 `q2 · i?` · `review · r2`
 
-The review reports, citing Bergman (2014), a randomly selected treatment in which parents were offered text messages about incomplete homework; children of offered parents performed significantly better. No effect size is printed, so impact is null.
+The review reports, citing Bergman (2014), a randomly selected treatment in which parents were offered text messages about incomplete homework; children of offered parents performed significantly better. The review gives the direction (positive) and significance but prints no effect size, so impact is coded `i?` (magnitude not reported here), not a null effect.
 
 > "Bergman (2014) finds virtually all parents who are offered text messages to inform them of their middle school child’s incomplete homework agree to receive the messages, and that the children of these randomly selected parents perform significantly better than those whose parents do not receive the offer."
 

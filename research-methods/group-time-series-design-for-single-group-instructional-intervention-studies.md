@@ -22,8 +22,8 @@ A group time series design involves repeated pretests and posttests on a single 
 - **Group time series design for single-group instructional intervention studies**: A group time series design involves repeated pretests and posttests on a single group, allowing researchers to track development over multiple measurement points. In this study, the design included two pretests, three treatment sessions (X1-X3), and three posttests across 10 weeks with 20 teaching hours. This design helps establish whether improvement follows the intervention rather than natural maturation, by comparing pretest-to-pretest stability against pretest-to-posttest gains. (Nattapong Jinajai et al. (2015))
 
 ### Claims
-- [CAI based on the TLS method significantly improves English reading ability in ninth grade Thai EFL students](../claims/cai-tls-improves-english-reading-thai-efl.md) [+M]
-- [CAI based on the TLS method significantly improves English creative writing ability in ninth grade Thai EFL students](../claims/cai-tls-improves-english-writing-thai-efl.md) [+M]
+- [Ninth grade Thai EFL students' English reading scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group](../claims/cai-tls-improves-english-reading-thai-efl.md) [+W]
+- [Ninth grade Thai EFL students' English creative writing scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group](../claims/cai-tls-improves-english-writing-thai-efl.md) [+W]
 
 ## Related Research Methods
 -

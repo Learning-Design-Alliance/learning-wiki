@@ -41,7 +41,7 @@ The VOC training integrated the four core MI skills: "(1) asking open-ended ques
 
 ## Claims
 
-- [Game-based virtual-human role-play training significantly increases faculty preparedness to support student veterans in psychological distress, with sustained gains at 3-month follow-up.](../claims/voc-training-increases-gatekeeper-preparedness.md) [+W]
+- [College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.](../claims/voc-training-increases-gatekeeper-preparedness.md) [+W]
 - [Game-based virtual-human role-play training significantly increases faculty self-efficacy and behavioral intent to support student veterans, with sustained gains at 3-month follow-up.](../claims/voc-training-increases-gatekeeper-self-efficacy-likelihood.md) [+W]
 - [Game-based virtual-human role-play training significantly increases faculty military cultural competency, with sustained gains at 3-month follow-up.](../claims/voc-training-increases-military-cultural-competency.md) [+W]
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](../claims/voc-training-high-means-efficacy-satisfaction.md) [+W]

@@ -11,7 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2015
 sources:
   - id: sayan-2015
-    title: Sayan, H. (2015). The effects of computer games on the achievement of basic mathematical skills. Educational Research and Reviews, 10(22), 2846-2853.
+    resource: "https://doi.org/10.5897/ERR2015.2172"
+    title: "Sayan, H. (2015). The effects of computer games on the achievement of basic mathematical skills. Educational Research and Reviews, 10(22), 2846-2853. [doi:10.5897/ERR2015.2172](https://doi.org/10.5897/ERR2015.2172)"
     author: Sayan, H.
     q: 2
     i: "?"
@@ -32,7 +33,7 @@ sources:
 
 ### Sayan 2015
 
-Sayan, H. (2015). The effects of computer games on the achievement of basic mathematical skills. Educational Research and Reviews, 10(22), 2846-2853.
+Sayan, H. (2015). The effects of computer games on the achievement of basic mathematical skills. Educational Research and Reviews, 10(22), 2846-2853. [doi:10.5897/ERR2015.2172](https://doi.org/10.5897/ERR2015.2172)
 
 `q2 · i?` · `causal · r1`
 
@@ -45,5 +46,5 @@ Paired t-test on the experimental group (n=22) practicing via the Scholastics co
 
 ## Related Claims
 - [Computer game-based practice produces no statistically significant difference in basic mathematics achievement compared to classical homework practice](computer-games-no-significant-difference-basic-math-achievement.md) — related
-- [Using videos and 3D animations both in the classroom and in homework activities provided significant impact in remedying misconceptions about basic computer units](videos-3d-animations-remedy-misconceptions.md) — related
+- [Students who used videos and 3D animations in class or as homework gave fewer incorrect answers about basic computer units after instruction (descriptive pre-post counts, no untreated control)](videos-3d-animations-remedy-misconceptions.md) — related
 - [Prior studies reviewed in the article consistently report achievement advantages for computer-assisted mathematics teaching over traditional methods](reviewed-studies-favor-computer-assisted-math-teaching.md) — related

@@ -53,4 +53,4 @@ One-way MANOVA comparing experimental (DR-TA) and control groups in a randomized
 - [The control group taught with the teacher's manual showed no statistically significant within-group gain in reading comprehension from pre-test to post-test](teachers-manual-no-significant-within-group-gain.md) — related
 - [Instructional strategy (Pre-question, genre-based, or combined) shows no significant main effect on science undergraduates' reading comprehension achievement](no-strategy-effect-reading-achievement-nigerian-undergraduates.md) — related
 - [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in reading comprehension](web-based-instruction-outperforms-traditional-reading.md) — related
-- [CAI based on the TLS method significantly improves English reading ability in ninth grade Thai EFL students](cai-tls-improves-english-reading-thai-efl.md) — related
+- [Ninth grade Thai EFL students' English reading scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group](cai-tls-improves-english-reading-thai-efl.md) — related

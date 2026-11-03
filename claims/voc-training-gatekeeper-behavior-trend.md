@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-11-03
 sources:
   - id: cate-2015
     resource: "https://eric.ed.gov/?id=EJ1061484"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The composite gatekeeper behavior score at 3-month follow-up compared to before VOC training was trending toward a statistically significant increase, t(257) = 1.41, p = .160. [→ Cate 2015](#cate-2015)
@@ -46,7 +47,7 @@ A paired samples t-test compared the four-item composite behavior score (number 
 
 ## Related Claims
 - [Game-based virtual-human role-play training significantly increases faculty self-efficacy and behavioral intent to support student veterans, with sustained gains at 3-month follow-up.](voc-training-increases-gatekeeper-self-efficacy-likelihood.md) — related
-- [Game-based virtual-human role-play training significantly increases faculty preparedness to support student veterans in psychological distress, with sustained gains at 3-month follow-up.](voc-training-increases-gatekeeper-preparedness.md) — related
+- [College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.](voc-training-increases-gatekeeper-preparedness.md) — related
 - [Game-based virtual-human role-play training significantly increases faculty military cultural competency, with sustained gains at 3-month follow-up.](voc-training-increases-military-cultural-competency.md) — related
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related
 - [The after-school EF/VS intervention showed no direct intent-to-treat effect on teacher-rated classroom behavior composites, with a trend for problem behaviors](no-direct-effect-classroom-behavior-composites.md) — related

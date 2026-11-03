@@ -367,7 +367,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [Reading strategies training also improves inferential reading comprehension of elementary-proficiency EFL vocational students](../claims/strategies-training-improves-inferential-comprehension-efl.md) [+M] — instruction changes it
 - [Reading strategies training improves literal reading comprehension of elementary-proficiency EFL vocational students relative to conventional teaching](../claims/strategies-training-improves-literal-comprehension-efl.md) [+M] — instruction changes it
 - [Web-based reading strategy training improved Iranian EFL learners' hypertext reading comprehension from pretest to posttest](../claims/web-based-strategy-training-improved-hypertext-comprehension.md) [+M] — instruction changes it
-- [CAI based on the TLS method significantly improves English reading ability in ninth grade Thai EFL students](../claims/cai-tls-improves-english-reading-thai-efl.md) [+M] — instruction changes it
+- [Ninth grade Thai EFL students' English reading scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group](../claims/cai-tls-improves-english-reading-thai-efl.md) [+W] — outcome: scores rose during instruction, with no comparison group
 - [Multisensory language teaching improves post-test reading achievement in young English learners compared with mainstream coursebook instruction.](../claims/mslt-improves-post-test-reading-achievement.md) [+M] — instruction changes it
 
 ## The evidence by question

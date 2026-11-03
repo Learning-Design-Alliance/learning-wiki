@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-03
 sources:
   - id: behroozizad-and-majidi-2015
     resource: "https://doi.org/10.7575/aiac.alls.v.6n.4p.115"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Both caption modes produced greater listening comprehension gains than the no-captions control condition. [→ Behroozizad and Majidi 2015](#behroozizad-and-majidi-2015)
+`q3 i?` After 15 sessions, both caption groups (full and keyword) scored significantly higher on the listening post-test than the no-captions control group (one-way ANOVA on post-test scores, F(2, 42) = 103.51, then Scheffé comparisons); gains from pre-test were not compared between groups. [→ Behroozizad and Majidi 2015](#behroozizad-and-majidi-2015)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Sorayya Behroozizad, Sudabeh Majidi. (2015). The Effect of Different Modes of En
 
 `q3 · i?` · `causal · r2`
 
-Scheffé post hoc comparisons among the three groups (n=45). Both experimental caption groups scored significantly higher than the no-captions control group at the 0.05 level, per the printed mean differences of 12.00000 and 4.26667.
+45 intermediate EFL learners, randomly assigned to full captions, keyword captions or no captions, watched captioned or uncaptioned films over 15 sessions. A one-way ANOVA on listening post-test scores (F(2, 42) = 103.51, p < .01) and Scheffé post hoc comparisons found both caption groups scored significantly higher on the post-test than the no-captions control group, with mean differences of 12.00 (full captions) and 4.27 (keyword captions) at the 0.05 level. The between-group test was on post-test scores, not on pre-to-post gains.
 
 > "According to Table5, the full captions group performed better than the keyword captions group and both of them significantly higher than the no-captions group."
 

@@ -171,7 +171,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Modality shows no major role in students' source citations or global source memory](../claims/no-modality-effect-source-memory-citations.md) [~W]
 - [Combining video-based feedback with verbal feedback enhanced both skill acquisition and knowledge retention](../claims/video-plus-verbal-feedback-enhances-retention.md) [~W]
 - [Teaching with multimedia required the teacher to adjust and sometimes rewind the material to accommodate new-old information strategies](../claims/teacher-adjust-rewind-multimedia-listening.md) [~W]
-- [Using videos and 3D animations both in the classroom and in homework activities provided significant impact in remedying misconceptions about basic computer units](../claims/videos-3d-animations-remedy-misconceptions.md) [+W]
+- [Students who used videos and 3D animations in class or as homework gave fewer incorrect answers about basic computer units after instruction (descriptive pre-post counts, no untreated control)](../claims/videos-3d-animations-remedy-misconceptions.md) [+W]
 - [The benefit of fine art integration was greatest for Powers and smallest for Perimeter, a topic the authors note is already visual by nature](../claims/art-integration-effect-varies-by-topic-visuality.md) [~W]
 - [A short animated film transmits a high density of information that cannot be learned in a single viewing and can negatively affect understanding](../claims/animation-information-density-single-viewing.md) [~W]
 - [Non-immersive classroom visualization shows no significant contemporaneous-gain advantage over no visualizations, and its Post-Pre advantage reverses relative to the control group](../claims/classroom-visualization-no-advantage.md) [-W]

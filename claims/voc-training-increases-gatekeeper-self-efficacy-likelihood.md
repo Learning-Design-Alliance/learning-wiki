@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-03
 sources:
   - id: cate-2015
     resource: "https://eric.ed.gov/?id=EJ1061484"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants showed statistically significant increases in GBS self-efficacy composite scores from pretraining to posttraining to 3-month follow-up, F(2, 725) = 520.37, p < .01. [→ Cate 2015](#cate-2015)
@@ -65,7 +66,7 @@ A repeated-measures ANOVA on the GBS likelihood subscale (two items on a 4-point
 
 ## Related Claims
 - [Self-reported gatekeeper behaviors (identifying, approaching, and referring distressed student veterans) trended upward after training but did not reach statistical significance on the composite measure.](voc-training-gatekeeper-behavior-trend.md) — related
-- [Game-based virtual-human role-play training significantly increases faculty preparedness to support student veterans in psychological distress, with sustained gains at 3-month follow-up.](voc-training-increases-gatekeeper-preparedness.md) — related
+- [College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.](voc-training-increases-gatekeeper-preparedness.md) — related
 - [Game-based virtual-human role-play training significantly increases faculty military cultural competency, with sustained gains at 3-month follow-up.](voc-training-increases-military-cultural-competency.md) — related
 - [Over one third of participants reported increased conversations with colleagues about student veterans they were concerned about, suggesting potential institutional-level culture change.](voc-training-increases-collegial-conversations.md) — related
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related

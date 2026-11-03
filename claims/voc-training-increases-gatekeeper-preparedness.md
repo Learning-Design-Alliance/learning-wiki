@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Game-based virtual-human role-play training significantly increases faculty preparedness to support student veterans in psychological distress, with sustained gains at 3-month follow-up.
-description: Game-based virtual-human role-play training significantly increases faculty preparedness to support student veterans in psychological distress, with sustained gains at 3-month follow-up.
+title: College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.
+description: College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.
 id: voc-training-increases-gatekeeper-preparedness
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-03
 sources:
   - id: cate-2015
     resource: "https://eric.ed.gov/?id=EJ1061484"
@@ -20,14 +21,14 @@ sources:
     rigour: 1
 ---
 
-# Game-based virtual-human role-play training significantly increases faculty preparedness to support student veterans in psychological distress, with sustained gains at 3-month follow-up.
+# College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Participants showed statistically significant increases in GBS preparedness composite scores from pretraining to posttraining to 3-month follow-up, F(2, 758) = 927.4, p < .01. [→ Cate 2015](#cate-2015)
+`q2 i?` Participants (758 faculty, staff and administrators; 65% staff) showed statistically significant increases in GBS preparedness composite scores from pretraining to posttraining to 3-month follow-up, F(2, 758) = 927.4, p < .01. [→ Cate 2015](#cate-2015)
 `q2 i?` Follow-up preparedness scores were significantly lower than posttraining scores but remained significantly higher than baseline, indicating some reduction over time. [→ Cate 2015](#cate-2015)
 
 ## Evidence
@@ -38,7 +39,7 @@ Cate, C. A., & Albright, G. (2015). Supporting Student Veterans: Utilizing Game-
 
 `q2 · i?` · `causal · r1`
 
-A repeated-measures ANOVA on the GBS preparedness composite (five items on a 5-point scale) showed significant increases across three time points, with "statistically significant increases in participants’ GBS preparedness composite score" from pretraining to follow-up.
+A quasi-experimental post-hoc study of 758 faculty, staff and administrators (65% staff, 33% full- or part-time faculty) from 20 four-year colleges or universities and four community colleges who completed the 30-minute Veterans on Campus simulation, with no comparison group. A repeated-measures ANOVA on the self-rated GBS preparedness composite (five items on a 5-point scale) showed significant increases across three time points (means 2.94 before, 3.87 after, 3.78 at 3 months), with "statistically significant increases in participants’ GBS preparedness composite score" from pretraining to follow-up. With no control group, the rise follows the training but the design cannot show the training caused it; no effect size is printed for this sample.
 
 > "A repeated-measures analysis of variance (ANOVA) revealed statistically significant increases in participants’ GBS preparedness composite score to recognize, discuss, motivate, and help student veterans in psychological distress between pretraining, posttraining, and follow-up scores F(2,758) = 927.4, p < . 01."
 

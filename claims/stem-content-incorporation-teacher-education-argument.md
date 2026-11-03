@@ -46,9 +46,9 @@ Theoretical argument in the Discussion, citing Darling-Hammond (2006) that subje
 
 ## Related Claims
 - [80% of partnered science teachers voluntarily incorporated Science-in-CTE methods or examples into their science classes](science-teachers-voluntary-adoption-science-in-cte.md) — related
-- [92% of experimental agricultural education teachers continued using Science-in-CTE materials one year after the pilot study](science-in-cte-treatment-teachers-sustained-use-one-year.md) — related
+- [12 of the 13 experimental agricultural education teachers still teaching explicit science (92%) used Science-in-CTE materials one year after the pilot study](science-in-cte-treatment-teachers-sustained-use-one-year.md) — related
 - [The social nature of self-efficacy may produce a false sense of mathematics efficacy among preservice teachers, with negative implications for future teaching](false-sense-of-mathematics-self-efficacy-social-comparison.md) — related
-- [Only 29% of control agricultural education teachers used the Science-in-CTE method and lessons one year later](science-in-cte-control-teachers-low-sustained-use.md) — related
+- [Of the control agricultural education teachers still teaching explicit science a year later, only 2 of 7 (29%) used the Science-in-CTE method and lessons](science-in-cte-control-teachers-low-sustained-use.md) — related
 - [The MTIS treatment significantly improves the mathematics ability of preservice agricultural education teachers, with a large effect size](mtis-treatment-improves-preservice-mathematics-ability.md) — related
 - [Preservice agricultural teachers were efficacious in personal mathematics and personal teaching efficacy but only moderately efficacious in mathematics teaching efficacy throughout the course](preservice-ag-teachers-math-efficacy-profile.md) — related
 - [Mastery experiences may not be the optimal method for initially increasing preservice agriculture teachers' self-efficacy](mastery-experiences-not-optimal-initially-preservice-efficacy.md) — related

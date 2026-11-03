@@ -47,5 +47,5 @@ Qualitative analysis of pre-test responses on the three-phase concept test ident
 
 ## Related Claims
 - [The quantity of videos and 3D animations was related to success in remedying misconceptions: where materials were quite limited, incorrect or partly true answers remained high](material-quantity-related-to-misconception-remediation.md) — related
-- [Using videos and 3D animations both in the classroom and in homework activities provided significant impact in remedying misconceptions about basic computer units](videos-3d-animations-remedy-misconceptions.md) — a broader claim this one bears on
+- [Students who used videos and 3D animations in class or as homework gave fewer incorrect answers about basic computer units after instruction (descriptive pre-post counts, no untreated control)](videos-3d-animations-remedy-misconceptions.md) — a broader claim this one bears on
 - [Using videos and 3D animations in classroom activities versus as homework produced no statistically significant difference in post-test conceptual understanding scores](videos-3d-animations-classroom-vs-homework-no-difference.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 sources:
   - id: sayan-2015
-    title: "Sayan, H. (2015). The effects of computer games on the achievement of basic mathematical skills. Educational Research and Reviews, 10(22), 2846-2853."
+    title: "Sayan, H. (2015). The effects of computer games on the achievement of basic mathematical skills. Educational Research and Reviews, 10(22), 2846-2853." [doi:10.5897/ERR2015.2172](https://doi.org/10.5897/ERR2015.2172)
     author: Sayan, H
 ---
 
@@ -52,4 +52,4 @@ The article suggests that computer games can be used as one method for students 
 -
 
 ## Key Sources
-- Sayan, H. (2015). The effects of computer games on the achievement of basic mathematical skills. Educational Research and Reviews, 10(22), 2846-2853.
+- Sayan, H. (2015). The effects of computer games on the achievement of basic mathematical skills. Educational Research and Reviews, 10(22), 2846-2853. [doi:10.5897/ERR2015.2172](https://doi.org/10.5897/ERR2015.2172)

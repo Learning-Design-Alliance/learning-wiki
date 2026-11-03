@@ -25,7 +25,7 @@ Veterans on Campus is Kognito's online game-based role-play simulation that trai
 
 - [Game-based virtual-human role-play training significantly increases faculty military cultural competency, with sustained gains at 3-month follow-up.](../claims/voc-training-increases-military-cultural-competency.md) [+M]
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](../claims/voc-training-high-means-efficacy-satisfaction.md) [+M]
-- [Game-based virtual-human role-play training significantly increases faculty preparedness to support student veterans in psychological distress, with sustained gains at 3-month follow-up.](../claims/voc-training-increases-gatekeeper-preparedness.md) [+M]
+- [College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.](../claims/voc-training-increases-gatekeeper-preparedness.md) [+M]
 - [Game-based virtual-human role-play training significantly increases faculty self-efficacy and behavioral intent to support student veterans, with sustained gains at 3-month follow-up.](../claims/voc-training-increases-gatekeeper-self-efficacy-likelihood.md) [+M]
 - [Self-reported gatekeeper behaviors (identifying, approaching, and referring distressed student veterans) trended upward after training but did not reach statistical significance on the composite measure.](../claims/voc-training-gatekeeper-behavior-trend.md) [+M]
 

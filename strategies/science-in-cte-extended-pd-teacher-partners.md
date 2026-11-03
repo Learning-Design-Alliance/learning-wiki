@@ -39,8 +39,8 @@ The experimental treatment mirrored the Math-in-CTE model of extended profession
 
 ## Claims
 
-- [92% of experimental agricultural education teachers continued using Science-in-CTE materials one year after the pilot study](../claims/science-in-cte-treatment-teachers-sustained-use-one-year.md) [+W]
-- [Only 29% of control agricultural education teachers used the Science-in-CTE method and lessons one year later](../claims/science-in-cte-control-teachers-low-sustained-use.md) [+W]
+- [12 of the 13 experimental agricultural education teachers still teaching explicit science (92%) used Science-in-CTE materials one year after the pilot study](../claims/science-in-cte-treatment-teachers-sustained-use-one-year.md) [+W]
+- [Of the control agricultural education teachers still teaching explicit science a year later, only 2 of 7 (29%) used the Science-in-CTE method and lessons](../claims/science-in-cte-control-teachers-low-sustained-use.md) [+W]
 - [80% of partnered science teachers voluntarily incorporated Science-in-CTE methods or examples into their science classes](../claims/science-teachers-voluntary-adoption-science-in-cte.md) [+W]
 - [Sustained usage rates in Science-in-CTE were consistent with those reported in the Math-in-CTE follow-up study](../claims/science-in-cte-usage-consistent-with-math-in-cte.md) [+W]
 - [Science-enhanced CTE instruction produced a statistically significant positive impact on posttest science achievement for students in the second, third, and fourth quartiles on pretest science achievement](../claims/science-in-cte-positive-impact-quartiles-2-4.md) [+W]

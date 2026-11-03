@@ -38,8 +38,8 @@ The TLS method is a reading and writing strategy based on Meyer's (1975) hierarc
 - English writing ability
 
 ### Claims
-- [Cai Tls Improves English Reading Thai Efl](../claims/cai-tls-improves-english-reading-thai-efl.md) [+M]
-- [Cai Tls Improves English Writing Thai Efl](../claims/cai-tls-improves-english-writing-thai-efl.md) [+M]
+- [Ninth grade Thai EFL students' English reading scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group](../claims/cai-tls-improves-english-reading-thai-efl.md) [+W]
+- [Ninth grade Thai EFL students' English creative writing scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group](../claims/cai-tls-improves-english-writing-thai-efl.md) [+W]
 
 ## Related Designs
 - 

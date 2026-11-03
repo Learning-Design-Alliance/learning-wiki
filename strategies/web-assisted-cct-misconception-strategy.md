@@ -45,7 +45,7 @@ The authors recommend combining conceptual change texts with web devices: "Throu
 - [Web-assisted conceptual change texts produced significantly higher three-stage post-test scores than classic conceptual change texts (U = 103, p = 0.038)](../claims/web-assisted-cct-significant-posttest-advantage.md) [+W]
 - [Students reported that videos and 3D animations facilitated conceptual understanding via concretization, pausing, slowing down, replaying, and enlarging features](../claims/video-animation-features-student-perspectives.md) [+W]
 - [The quantity of videos and 3D animations was related to success in remedying misconceptions: where materials were quite limited, incorrect or partly true answers remained high](../claims/material-quantity-related-to-misconception-remediation.md) [~W]
-- [Using videos and 3D animations both in the classroom and in homework activities provided significant impact in remedying misconceptions about basic computer units](../claims/videos-3d-animations-remedy-misconceptions.md) [+W]
+- [Students who used videos and 3D animations in class or as homework gave fewer incorrect answers about basic computer units after instruction (descriptive pre-post counts, no untreated control)](../claims/videos-3d-animations-remedy-misconceptions.md) [+W]
 - [8th and 9th graders held multiple persistent conceptual errors about water chemistry despite prior instruction](../claims/water-chemistry-conceptual-errors-pilot.md) [+W]
 
 ## Related Strategies

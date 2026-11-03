@@ -45,6 +45,6 @@ A t-test on the interest questionnaire of 32 ninth grade students found signific
 
 
 ## Related Claims
-- [CAI based on the TLS method significantly improves English reading ability in ninth grade Thai EFL students](cai-tls-improves-english-reading-thai-efl.md) — related
-- [CAI based on the TLS method significantly improves English creative writing ability in ninth grade Thai EFL students](cai-tls-improves-english-writing-thai-efl.md) — related
+- [Ninth grade Thai EFL students' English reading scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group](cai-tls-improves-english-reading-thai-efl.md) — related
+- [Ninth grade Thai EFL students' English creative writing scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group](cai-tls-improves-english-writing-thai-efl.md) — related
 - [Seventh-grade Thai students taught with the genre-based approach reported significantly higher motivation to read English than students taught with the teacher's manual](genre-based-approach-reading-motivation-thai-grade7.md) — related
