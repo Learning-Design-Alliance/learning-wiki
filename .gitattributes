@@ -10,3 +10,4 @@ eval/claim-merges/decisions.ndjson merge=union
 eval/candidates/decisions.ndjson merge=union
 eval/missing-dois/decisions.ndjson merge=union
 eval/removed/pages.ndjson merge=union
+history/agent-log.md merge=union

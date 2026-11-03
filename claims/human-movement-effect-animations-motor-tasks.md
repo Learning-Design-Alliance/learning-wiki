@@ -54,3 +54,4 @@ A theoretical review in cognitive load theory, which reports two studies by othe
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
 - [Animation is overall beneficial to retention compared with static graphics in multimedia instruction about dynamic systems](animation-benefits-retention-over-static-graphics.md) — related
 - [Static and dynamic graphics produce equivalent learning gains for children learning from a multimedia science lesson](static-dynamic-graphics-equivalent-gains.md) — related
+- [Prior studies found pictures superior to video because target words did not require dynamic presentation](prior-picture-superiority-due-to-simple-concepts.md) — related

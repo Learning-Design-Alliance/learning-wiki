@@ -48,3 +48,4 @@ Video-recorded focus group interviews at the end of the intervention. Students l
 - [A 10-week SQ3R-based reading program increased reading comprehension test scores of all seven participating 4th graders with comprehension difficulties](sq3r-program-increased-comprehension-scores-action-research.md) — related
 - [Students showed uneven success across SQ3R stages: Survey succeeded for five of seven, the Question stage fell below expectations, and the Recite stage was hardest](sq3r-stage-level-implementation-difficulties.md) — related
 - [All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies](efl-students-positive-views-explicit-strategy-instruction.md) — related
+- [Students with SLD express positive opinions about science concept instruction based on the keyword strategy](positive-social-validity-keyword-strategy.md) — related

@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (15 for, 17 mixed, 3 against) · 32 studies (11 causal, 7 review, 6 quant-synthesis, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 32 report an effect size · 31 claims rest on one study
+> **Evidence** · 36 claims (16 for, 17 mixed, 3 against) · 33 studies (11 causal, 7 quant-synthesis, 7 review, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 7 of 33 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -116,6 +116,7 @@ Unit-check success, course-examination performance, delayed retention, transfer 
 - [Gender did not significantly influence the achievement of Nigerian SS1 students taught the mole concept with mastery learning instructional strategy.](../claims/mastery-learning-gender-no-significant-effect-mole-concept.md) [~W]
 - [Mathematics Mastery showed a similar small non-significant effect for FSM-eligible pupils (+0.07)](../claims/maths-mastery-secondary-fsm-subgroup-effect.md) [~W]
 - [No strong evidence that Mathematics Mastery had a greater impact on lower-attaining than higher-attaining pupils](../claims/maths-mastery-no-differential-effect-by-attainment.md) [~W]
+- [Mastery learning shows an effect size of ES = 0.58, with effects of .94 in elementary, .72 in high school, and .65 in college](../claims/mastery-learning-effect-size-levels.md) [+W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

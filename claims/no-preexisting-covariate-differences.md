@@ -51,3 +51,4 @@ Covariate check in the quasi-experimental study: t-tests on college GPA (p=.61),
 - [High school GPA is a better predictor of college graduation than standardized test scores, yet districts continue to rely on test-based readiness benchmarks](gpa-better-predictor-than-test-scores.md) — related
 - [The GPA advantage of high-use tutoring visitors held across math SAT score, high school GPA, ethnicity, and first-generation status](tutoring-gpa-advantage-no-interaction-background.md) — related
 - [Entrance measures confirmed the nonequivalence of underprepared and college-ready groups](entrance-measures-confirmed-nonequivalence.md) — related
+- [Argumentation-infused modules produced better team sales scenario performance but no advantage on individual sales call or overall team score](argumentation-infusion-team-sales-scenario-advantage-only.md) — related

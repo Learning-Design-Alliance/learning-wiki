@@ -56,3 +56,4 @@ True-experimental study with 32 experimental (class IIA) and 32 control (class I
 - [The experimental group shows significant within-group gains from pre-test to post-test in speaking skill.](experimental-group-significant-pre-post-gains.md) — related
 - [The treatment group's vocabulary size increased significantly from pre-test to post-test, by about 17 correct answers](treatment-group-significant-prepost-vocabulary-gain.md) — related
 - [Experimental group showed significant pre-to-post gains on vocabulary test score](experimental-group-pre-post-vocabulary-gains.md) — related
+- [Direct vocabulary learning strategies (Structured Reviewing and Using Mechanical Techniques) significantly improve vocabulary acquisition of pre-intermediate EFL learners](direct-strategies-improve-vocabulary-acquisition-pre-intermediate.md) — related

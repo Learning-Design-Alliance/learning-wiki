@@ -79,3 +79,4 @@ The review reports a meta-analysis of twelve studies (six published, six unpubli
 - [Watching cartoons with English subtitles produces no statistically significant vocabulary-gain advantage over watching without subtitles among upper-intermediate ELT students](no-subtitle-advantage-cartoon-vocabulary-gains.md) — related
 - [Prior studies report positive correlations between working memory capacity and second-language vocabulary and proficiency outcomes](wm-capacity-correlates-l2-learning.md) — related
 - [Meaning-oriented approaches providing rich, authentic input with high involvement load tend to be more successful in FL learning](meaning-oriented-rich-input-involvement-load.md) — a broader claim this one bears on
+- [Task with highest involvement load produced lower collocation learning gains than lower-load tasks, contradicting the ILH](ilh-fails-verb-noun-collocations.md) — reports the opposite

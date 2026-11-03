@@ -63,3 +63,4 @@ Synthesis of post-project student focus group feedback in the Student Feedback s
 - [Lesson observations found authentic tasks and materials contributed positively to grammatical, textual, and illocutionary competence in four of five interventions, and to sociolinguistic competence in three of five](observations-authentic-tasks-competence-contributions.md) — related
 - [Students reported the learner-centred authenticity project as one of the most challenging yet relevant courses in their degree](students-found-authenticity-course-challenging-relevant.md) — related
 - [Students exposed to the IPLM CbMW felt better prepared to solve real-world computer networking problems than students not exposed to it.](iplm-exposure-increased-perceived-preparedness.md) — related
+- [Active-learning sequence improved student engagement](active-learning-improved-student-engagement.md) — related

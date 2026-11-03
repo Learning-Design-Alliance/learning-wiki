@@ -55,3 +55,4 @@ Analysis of coded withdrawal reasons from online courses over two years, after c
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](satisfaction-drop-sudden-online-covid.md) — related
 - [Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters](online-continuing-education-persistence-lower-than-onground.md) — related
 - [Nurses generally report satisfaction with e-learning in continuing education, though dissatisfaction arises from technical difficulties and preference for face-to-face formats](nurse-satisfaction-e-learning-ce-mixed-drivers.md) — related
+- [Disappearing students complicated maintaining constructivist groups in the online course](disappearing-students-online-group-work.md) — related

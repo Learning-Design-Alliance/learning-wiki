@@ -54,3 +54,4 @@ Textual analysis of voluntary written withdrawal requests coded by student servi
 - [Online attrition during Orientation Week is twice that of onground classes' first week](orientation-week-attrition-double-online.md) — related
 - Attrition did not differ significantly between cognitive apprenticeship and control sections, and withdrawing students did not cite the instructional method — related
 - [Differential attrition may explain the reported reduction in achievement gaps under daily online testing](differential-attrition-may-explain-gap-reduction.md) — related
+- [Disappearing students complicated maintaining constructivist groups in the online course](disappearing-students-online-group-work.md) — related

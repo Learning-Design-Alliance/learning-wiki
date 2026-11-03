@@ -46,7 +46,7 @@ Cummins states these claims about the common underlying proficiency (CUP) "refle
 
 ## Related Claims
 
-- [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — the general claim this finding bears on, with the studies behind it
+- [Reviews and clinical guidance recommend supporting a bilingual student's heritage language alongside English; no study cited here tests whether doing so aids English acquisition](heritage-language-preservation-supports-english-acquisition.md) — the general claim this finding bears on, with the studies behind it
 - [BICS and CALP intersect developmentally but are not identical or reducible one to the other](bics-calp-intersect-not-identical.md) — related
 - [Early-exit transitional bilingual programs that provide minimal early-grade English literacy and then transition students to all-English classrooms with no support are inappropriate](early-exit-transitional-transition-unsupported-inappropriate.md) — related
 - [Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement](l1-maintenance-supports-l2-without-cost.md) — possibly the same claim (merge candidate)

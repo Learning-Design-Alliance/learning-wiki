@@ -55,3 +55,4 @@ Qualitative interview study of 29 parents of students with IEPs after the 2013 C
 - [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](relationship-quality-defines-safe-schools.md) — related
 - [Latinx youths and parents reimagined ideal school realities centered on inclusive, welcoming, safe schools and schools free of cultural stressors with supportive allies](latinx-youth-parent-reimagined-ideal-school-realities.md) — related
 - [Italy's complete inclusion model does not increase the social abilities of students with special educational needs, who feel peripheral in class](italy-complete-inclusion-social-abilities.md) — related
+- [Homeschooling supports learning through one-to-one support, safe environments, and special-needs accommodation](homeschooling-three-learning-dimensions.md) — related

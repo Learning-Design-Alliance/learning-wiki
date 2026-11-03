@@ -15,7 +15,7 @@ grain_size: program, school
 # Positive Behavioral Interventions And Supports
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 49 claims (35 for, 11 mixed, 3 against) · 34 studies (17 causal, 7 review, 6 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 9 of 34 report an effect size · 43 claims rest on one study
+> **Evidence** · 51 claims (35 for, 12 mixed, 4 against) · 35 studies (18 causal, 7 review, 6 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 9 of 35 report an effect size · 45 claims rest on one study
 
 ## Description and scope
 
@@ -120,6 +120,7 @@ Claims the earlier page cited that are not part of the model above, and claims f
 - [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M] — brief belonging exercises at college entry; the earlier page used it for school climate. It bears on PBIS only by analogy.
 - [Implementation level was not significantly associated with most student and staff climate outcomes or any administrative outcomes](../claims/implementation-not-associated-most-outcomes.md) [-W] — about trauma-engaged practices in Alaska schools, not PBIS; associational. It bears on this page only as a caution that implementation level and outcomes may not move together.
 - [A web essay asserts that behaviourist reinforcement methods are very effective in creating positive behaviour](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+W] — a second-hand assertion; it does not bear as evidence.
+- [SW-PBIS implementation showed no statistically significant longitudinal effects on elementary and middle school academic achievement in Minnesota](../claims/swpbis-no-significant-academic-achievement-effects-minnesota.md) [~W] — attached 2026-11-03 from Ryoo et al. (2018), which proposed "SW-PBIS implementation should be integrated with other school reform initiatives to improve academic outcomes"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -140,6 +141,7 @@ This pattern is scoped to a school-wide, tiered system of taught and acknowledge
 - [TIPS-trained teams more often documented reductions in office discipline referrals at follow-up, with no group difference in the final year](../claims/tips-pd-odr-reduction.md) [+W]
 - [No additional benefit identified for the 49 schools that self-funded a second year](../claims/ctg-no-additional-benefit-second-year.md) [~W]
 - [No significant pre–post changes in office discipline referrals occurred in the full sample following school-wide professional development](../claims/no-prepost-odr-change-full-sample.md) [-W]
+- [SW-PBIS showed no significant effect on school-level suspension rates in Minnesota](../claims/swpbis-no-significant-suspension-rate-effects.md) [-W]
 
 ## Related Patterns
 - [Social-Emotional Learning](social-emotional-learning.md) — teaches named social and emotional skills; PBIS teaches and acknowledges setting-specific expectations, and the two are often run together

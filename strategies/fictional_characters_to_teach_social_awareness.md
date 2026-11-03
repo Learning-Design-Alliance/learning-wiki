@@ -60,8 +60,10 @@ Fictional narrative engages the same social-cognitive machinery used to understa
 6. Bridge outward: connect the fictional analysis to a current event, school issue, or learner action (letter-writing, campaign design, community project).
 
 ## Related Strategies
+
 - [Acting/Role-Play](acting-role-play.md) — embodiment of the character deepens the perspective-taking this strategy initiates
 - [Case-based discussion](case-based-discussion.md) — the non-fictional counterpart, using real cases instead of invented characters
+- [Moral dilemma discussion with structured steps](moral-dilemma-discussion-steps.md)
 
 ## Examples
 - **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** (https://www.facinghistory.org) — uses literary characters (e.g., in *To Kill a Mockingbird*) alongside historical case studies to teach students about prejudice, bystander behavior, and civic responsibility.

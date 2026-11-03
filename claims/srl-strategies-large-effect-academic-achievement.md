@@ -66,3 +66,4 @@ Meta-analysis of 21 Turkish empirical (9) and relational (12) studies, total sam
 - [Research indicates moderate effect sizes for engagement, project-based learning, self-regulation, and feedback](moderate-effect-sizes-engagement-pbl-self-regulation-feedback.md) — related
 - [Collaborative learning has a large positive effect on academic success in Turkish language instruction (REM ES = 0.816)](collaborative-learning-large-effect-turkish.md) — related
 - [Student-centered methods have an overall positive and high-level effect on academic success in Turkish language instruction](student-centered-methods-positive-effect-turkish-instruction.md) — related
+- [Metacognitive strategies show a high effect size of ES = 0.69 on student achievement](metacognitive-strategies-high-effect-size.md) — related

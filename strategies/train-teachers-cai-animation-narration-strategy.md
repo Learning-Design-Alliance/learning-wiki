@@ -43,6 +43,7 @@ Based on the finding that the AN package was effective for teaching solid geomet
 ## Related Strategies
 
 - [Train teachers to develop computer-based science software with tools such as Macromedia Flash and Adobe Photoshop](teacher-training-develop-cbi-software-strategy.md)
+- [Extend multimedia e-TLM packages across subjects, school levels and adult education](extend-e-tlm-across-levels-strategy.md)
 
 ## Examples
 -

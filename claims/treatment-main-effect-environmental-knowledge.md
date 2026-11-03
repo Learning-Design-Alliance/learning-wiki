@@ -49,3 +49,4 @@ ANCOVA of post-test Environmental Knowledge Test scores with pretest as covariat
 - [Educational trips produced higher adjusted environmental knowledge scores than service learning, which in turn exceeded control](educational-trips-most-effective-environmental-knowledge.md) — a narrower finding that bears on this claim
 - [School location has no significant main effect on primary pupils' environmental knowledge](school-location-no-main-effect-environmental-knowledge.md) — related
 - [Experimental and control pupils showed equivalent reading ability at pre-test](prior-knowledge-questions-pretest-equivalence.md) — related
+- [GIS-integrated computer-mediated instruction showed no significant effect on pupils' performance in environmental education concepts compared to control groups](gis-integration-no-significant-performance-effect-ee-nigeria.md) — reports the opposite

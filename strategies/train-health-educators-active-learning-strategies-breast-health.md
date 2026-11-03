@@ -51,6 +51,7 @@ The article recommends that because most health education curricula lack breast-
 - [Schedule breast health instruction early enough in the semester that it is not perceived as an unimportant topic](breast-health-timing-not-last-week-of-semester.md)
 - [Implement formal peer tutor training programs under faculty supervision within simulation curricula](formal-peer-tutor-training-faculty-supervision.md)
 - [Enrich secondary school Business Studies curricula with an extended curriculum using active learning in a business-simulated, cooperative set-up](extended-curriculum-active-learning-business-simulation.md)
+- [Intensive theoretical and practical BSE training sessions using lectures, demonstration and redemonstration on breast modules](bse-theoretical-practical-training-sessions.md)
 
 ## Examples
 -

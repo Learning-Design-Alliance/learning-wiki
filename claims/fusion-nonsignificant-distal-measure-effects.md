@@ -70,3 +70,4 @@ Same time-by-condition analyses for easyCBM and a mixed-model ANCOVA (ProFusion 
 - [At-risk first graders receiving Fusion showed significantly greater gains than control peers on the proximal conceptual-understanding measure ProFusion, with a large effect](fusion-greater-profusion-gains-large-effect.md) — related
 - [Practitioner-implemented Fusion produced a statistically significant positive effect on the proximal ProFusion mathematics measure in a quasi-experimental study](fusion-practitioner-implementation-significant-profusion-effect.md) — related
 - [Educators reported positive perceptions of Fusion, including that its detailed lesson plans make it deliverable by many types of staff, though surveys were largely anecdotal](fusion-educator-perceptions-anecdotal.md)
+- [Duration of observation shows a small significant association with ELM EN-CBM gains](duration-observation-significant-elm-encbm.md) — related

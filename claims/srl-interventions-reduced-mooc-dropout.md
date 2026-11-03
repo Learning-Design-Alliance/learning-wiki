@@ -53,3 +53,4 @@ Chi-square test of homogeneity on dropout across the three 120-student condition
 - [This issue's MOOC study is reported to demonstrate that an intervention delivered outside chat activities promotes student participation in chat-based collaborative activities](mooc-outside-intervention-promotes-chat-participation.md) — related
 - [Pre-course SRL level statistically significantly predicted participation in collaborative chat activities](pre-course-srl-predicts-collaborative-participation.md) — related
 - [Participation in Bazaar synchronous chat sessions is associated with roughly a 50 percent lower risk of dropout in an edX MOOC](chat-participation-halves-dropout-risk.md) — related
+- [Only conditional cash transfer interventions showed consistently positive impacts in the SDPP literature review](sdpp-review-conditional-cash-transfers-only-consistent.md) — reports the opposite

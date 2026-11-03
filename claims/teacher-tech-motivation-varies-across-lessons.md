@@ -49,3 +49,4 @@ Variance component analysis of experience sampling data from 18 in-service teach
 - [Quality of technology integration varies substantially across lessons, with most variance unexplained by teacher traits or time course](tech-integration-quality-varies-across-lessons.md) — related
 - [30%-40% of true variance in each parent-child outcome was trait-like, while 60%-70% fluctuated situationally across time points](parent-outcomes-icc-trait-state-split.md) — related
 - [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related
+- [Instructional interaction variables show low stability across the academic year within classrooms](instructional-interactions-low-stability-icc.md) — related

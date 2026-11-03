@@ -26,7 +26,7 @@ sources:
 # Goal Setting & Monitoring
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (8 for, 5 mixed, 2 against) · 19 studies (5 causal, 5 quant-synthesis, 5 review, 4 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 9 claims rest on one study
+> **Evidence** · 17 claims (10 for, 5 mixed, 2 against) · 20 studies (6 causal, 5 quant-synthesis, 5 review, 4 theoretical), `q1`–`q4` · 5 of 20 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -109,6 +109,7 @@ Keep the task, learners, comparator (no goal, "do your best", outcome goal), out
 Claims this page cited before it was rewritten as a conditional model. Both claims it cited before the 2026-10-02 rewrite are now read above as core evidence, so none remains here; the old `[+S]` marker on the specific-goals claim is capped at `[+M]` by its recorded evidence.
 - [Pre-post performance improvement with the robot was credibly lower in the control and outcome conditions than the process condition](../claims/pre-post-with-robot-negative-control-outcome.md) [+W] — attached 2026-10-26 from Tsuda et al. (2026), which proposed "Decompose rehabilitation goals into achievable components and continually adjust them to sustain self-efficacy"; tests this page's relationship.
 - [Monitoring support delivered via a scripted conversational agent significantly improves goal attainment compared with reflection-only and control conditions](../claims/monitoring-improves-goal-attainment.md) [+M] — attached 2026-10-30 from Martins van Jaarsveld et al. (2025), which proposed "Prioritize goal-monitoring activities in SRL interventions to support the transition from goal setting to goal striving"; tests this page's relationship.
+- [Weekly word-targets increased reading amount during treatment more than SSR or verbal encouragement in Japanese EFL learners](../claims/word-targets-increase-treatment-reading-amount.md) [+M] — attached 2026-11-03 from McLean et al. (2018), which proposed "Set weekly word-count targets rather than book-number targets to motivate extensive reading"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -129,6 +130,7 @@ Effects on effort, persistence, completion, on-task behaviour, self-efficacy, im
 - [Goal-setting interventions with action plans and public commitment improved academic performance (review-reported)](../claims/goal-setting-intervention-academic-performance-gains.md) [+W]
 - [Goal condition showed no credible effects on post-test performance, robot-specific self-efficacy, softness, negative perceptions, or satisfaction](../claims/goal-condition-null-on-performance-and-other-outcomes.md) [-W]
 - [Neither time nor the condition-by-time interaction significantly affected goal attainment over the five-week intervention](../claims/no-time-or-interaction-effect-goal-attainment.md) [-W]
+- [Word-targets produced the only significant increase in reading self-efficacy](../claims/word-targets-increase-reading-self-efficacy.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — goals provide the structure that can be scaffolded and then faded.

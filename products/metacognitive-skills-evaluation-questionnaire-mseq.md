@@ -25,7 +25,8 @@ A 45-item, six-point Likert self-report questionnaire developed by Chun-Yi Shen 
 - [Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest](../claims/web-training-prepost-gains-self-plan-self-monitor.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Metacognitive strategy questionnaire adapted from Beyer (1987)](metacognitive-strategy-questionnaire-adapted-from-beyer-1987.md)
 
 ## Key Sources
 - Chun-Yi Shen & Hsiu-Chuan Liu. (2011). Metacognitive Skills Development: A Web-Based Approach in Higher Education. The Turkish Online Journal of Educational Technology, 10(2). https://www.tojet.net/

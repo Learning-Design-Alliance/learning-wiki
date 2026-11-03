@@ -55,3 +55,4 @@ Repeated-measures ANOVA results for the four factors named, reported in the Resu
 - [Problem-solving showed a significant pre-post effect although post-treatment means were slightly lower than pre-treatment means](problem-solving-significant-but-declining-means.md) — related
 - [The ARDESOS v.2 program significantly improved pre-to-post performance on the PENCRISAL critical thinking test across the whole scale and all factors except decision making](ardesos-v2-significant-pre-post-gains-except-decision-making.md) — reports the opposite
 - [Decision making was the one critical thinking dimension that did not significantly improve under ARDESOS v.2, unlike problem solving](decision-making-not-significantly-improved-v2.md) — reports the opposite
+- [Critical thinking scores improved significantly over time across both conditions](critical-thinking-improved-over-time-both-conditions.md) — related

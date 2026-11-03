@@ -66,3 +66,4 @@ Logistic regression of pass status on instruction method and covariates after di
 ## Related Claims
 - [Students in emporium college algebra sections scored approximately 12 points higher on the posttest than students in traditional lecture sections](emporium-higher-posttest-college-algebra.md) — related
 - [Multiple posttest attempts in the emporium method did not boost posttest scores; single-attempt students scored higher](multiple-attempts-no-posttest-boost.md) — related
+- [Computer-based emporium students outperform traditional lecture students on a common multiple-choice final exam in college algebra](cb-emporium-higher-final-exam-college-algebra.md) — related

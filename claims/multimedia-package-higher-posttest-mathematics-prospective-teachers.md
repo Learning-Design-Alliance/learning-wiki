@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2012
+source_checked: 2026-11-03
 sources:
   - id: dr-robert-joan-and-sp-denisia-2012
     resource: "https://eric.ed.gov/?id=EJ1101646"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group (multimedia) outperformed the control group (Active Learning Methodology) on the post-test, t = 4.66 exceeding the table value 1.96 at the 0.05 level. [→ D.R. Robert Joan and S.P. Denisia 2012](#dr-robert-joan-and-sp-denisia-2012)
@@ -60,3 +61,5 @@ Randomized pre-test post-test experiment with 60 prospective teachers in two gro
 - [The multimedia-based methodology produced a significantly higher share of students reaching high and medium levels of the integrative cognitive independence indicator than traditional teaching](multimedia-methodology-higher-integrative-cognitive-independence.md) — related
 - [Multimedia-supported instruction produced a statistically significant pre-to-post achievement gain in 4th-grade social studies students](multimedia-significant-pre-post-gain-social-studies.md) — related
 - [Experimental group also scored higher than control group on post-test academic achievement](experimental-higher-achievement-posttest.md) — related
+- [Standard VI pupils learning English vocabulary through a multimedia e-TLM package showed significant pretest-to-posttest achievement gains](e-tlm-vocabulary-significant-gains-standard-vi.md) — related
+- [Control group taught with conventional TLM showed no significant pretest-to-posttest difference in vocabulary achievement](conventional-tlm-no-significant-gain.md) — related

@@ -45,7 +45,8 @@ A semester-long subject in which only about twenty percent of lessons use tradit
 - [Robot Programming Self Concept Gain](../claims/robot-programming-self-concept-gain.md) [+M]
 
 ## Related Designs
-- 
+
+- [Constructivist group projects structured across three weeks with mixed-ability groups](three-week-constructivist-group-project-cycle.md)
 
 ## Examples
 -

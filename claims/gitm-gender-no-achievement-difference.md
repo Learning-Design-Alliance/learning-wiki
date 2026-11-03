@@ -71,3 +71,5 @@ Descriptive results in Table 4 for the experimental group: male post-test mean 7
 - [Method-by-gender interaction is significant only for application of Light waves, not for understanding or analysis](method-gender-interaction-application-only.md) — related
 - [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](target-task-gender-difference-males-outperform.md) — related
 - [Guided inquiry's advantage over conventional teaching holds for reflective but not impulsive students](guided-inquiry-advantage-reflective-only.md) — related
+- [Gender had no significant influence on performance when taught solubility with practical activities](no-gender-difference-practical-activities-solubility.md) — related
+- [Gender had no significant influence on performance when taught solubility with practical manual](no-gender-difference-practical-manual-solubility.md) — a narrower finding that bears on this claim

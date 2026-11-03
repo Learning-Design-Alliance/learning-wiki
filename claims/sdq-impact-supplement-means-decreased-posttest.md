@@ -48,3 +48,4 @@ Descriptive pretest/posttest means from the SDQ impact supplement for the interv
 
 - [The VIA-plus-lectures intervention did not produce a statistically significant overall improvement in SDQ self-concept scores from pretest to posttest](positive-psychology-intervention-no-significant-sdq-gain.md) — related
 - [Mean problem scores decreased after the intervention across all age groups (12, 13, and 14 years)](intervention-means-decreased-across-age-groups.md)
+- [One Life improves friendship development skills, particularly with the opposite sex](one-life-improves-friendship-skills.md) — related

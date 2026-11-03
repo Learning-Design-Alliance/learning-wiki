@@ -15,7 +15,7 @@ and in which role:
 
     predictor  learners who differ on it learn or achieve differently
     moderator  an instructional effect differs with it (works for novices, not experts)
-    outcome    instruction changes it (an intervention raises self-efficacy)
+    outcome    measured as an outcome of the instruction studied (an intervention's effect on self-efficacy)
 
 and with what marker (+ the finding shows the characteristic matters as the claim
 says, ~ under conditions, - it did not matter here), whose strength is capped at what
@@ -140,7 +140,10 @@ SYNONYMS = {
 }
 ROLE_TEXT = {"predictor": "learners who differ on it differ in outcomes",
              "moderator": "an instructional effect differs with it",
-             "outcome": "instruction changes it"}
+             # Neutral: "instruction changes it" read as causal on one-group pre/post studies, which the
+             # kind code ("causal") does not separate from controlled ones; the marker carries direction
+             # and strength (maintainer, 2026-11-03; agents had hand-reworded it at 5 of 6 holds).
+             "outcome": "measured as an outcome of the instruction studied"}
 # Group categories are not causes. A gap between racial groups, genders or income groups records the
 # circumstances and treatment that go with membership (school funding, teacher assignment, tracking,
 # discrimination, stereotypes, poverty), not something about the learners; the default wording read
@@ -149,12 +152,12 @@ ROLE_TEXT = {"predictor": "learners who differ on it differ in outcomes",
 ROLE_TEXT_BY_VARIABLE = {
     **{v: {"predictor": "outcomes differ by group: a gap reflecting circumstances and treatment, not a cause",
            "moderator": "an instructional effect differs by group",
-           "outcome": "instruction changes the gap"}
+           "outcome": "the gap was measured as an outcome of the instruction studied"}
        for v in ("race-and-ethnicity", "gender", "socioeconomic-status")},
     "learning-style-preferences": {
         "predictor": "learners reporting different styles differed here; not a test of matching instruction to style",
         "moderator": "an effect differed by reported style in this study; matching to style is not supported overall",
-        "outcome": "instruction changes reported style"},
+        "outcome": "reported style was measured as an outcome of the instruction studied"},
 }
 
 

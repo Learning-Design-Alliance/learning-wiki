@@ -71,3 +71,4 @@ Same multinomial logistic regression analysis. The three non-gender predictors w
 - [Self-reported SRL strategies vary by individual learner characteristics including demographics, prior experience, and motivations](srl-varies-by-individual-characteristics.md) — related
 - [The low regulators with limited social skills profile showed significantly lower social presence than the low regulators profile, with no significant difference in teaching or cognitive presence](limited-social-skills-profile-lower-social-presence.md) — related
 - [Student personal and educational characteristics (gender, age, grade, GPA, courses taken, SAE type) were descriptively profiled for the 102 participants in the two groups](participant-characteristics-oklahoma-animal-science-students.md) — related
+- [Gender, study major and age group show no significant differences in team creative skills across stickiness stages](no-gender-major-age-differences-creative-skills.md) — related

@@ -61,3 +61,4 @@ Quasi-experimental pretest–posttest study with 30 experimental and 30 control 
 - [EFL students taught with indirect explicit grammar instruction (consciousness-raising tasks) significantly outperformed direct-instruction peers on rule analysis of English tenses](iegi-outperforms-degi-rule-analysis.md) — related
 - [Inductive grammar teaching produced significantly higher post-test grammar achievement than deductive teaching among Jordanian elementary-stage EFL students](inductive-beats-deductive-grammar-elementary-jordan.md) — related
 - [The review concludes the inductive method has proved effective for grammar teaching in most reviewed university- and school-level cases, whereas the deductive method has not](review-inductive-effective-most-cases.md) — related
+- [The RS group scored significantly lower on grammar posttests](rs-group-significantly-lower-grammar-posttest.md) — related

@@ -48,7 +48,9 @@ Fading scaffolding is the element in which supports such as hints, prompts, or m
 - [Merrill's First Principles (Application)](../principles/guided-practice.md)
 
 ## Examples
+
 - Hints become shorter or less explicit over repeated practice attempts.
+- [Use structured hints graduated from implicit to explicit during DA mediation](../strategies/structured-hints-da-mediation-strategy.md)
 
 ## Key Sources
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2017). *Ten steps to complex learning* (3rd ed.). Routledge.

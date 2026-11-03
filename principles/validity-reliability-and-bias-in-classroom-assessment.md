@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 372 claims (166 for, 180 mixed, 26 against) · 283 studies (91 associational, 61 design, 45 causal, 45 review, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 25 of 283 report an effect size · 365 claims rest on one study
+> **Evidence** · 373 claims (167 for, 180 mixed, 26 against) · 284 studies (91 associational, 61 design, 46 causal, 45 review, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 25 of 284 report an effect size · 366 claims rest on one study
 
 ## Conditional relationship
 
@@ -446,6 +446,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The study's teacher-made tests showed high reliability and criterion validity against NELSON](../claims/teacher-made-grammar-tests-reliability-validity.md) [+W]
 - [The Algebra Achievement Test showed acceptable internal consistency and inter-rater reliability in this study](../claims/aat-reliability-k21-interrater.md) [~W]
 - [The 9-item questionnaire showed very high internal consistency (Cronbach's Alpha 0.97)](../claims/videogame-questionnaire-cronbach-alpha-097.md) [+W]
+- [The listening comprehension test measured ten sub-skills with high criterion validity and test-retest reliability](../claims/listening-comprehension-test-ten-skills-validity-reliability.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

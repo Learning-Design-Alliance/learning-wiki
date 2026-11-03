@@ -55,3 +55,5 @@ t-test comparing 15 male and 15 female students in the cooperative group; means 
 - [Gender did not significantly influence the achievement of Nigerian SS1 students taught the mole concept with mastery learning instructional strategy.](mastery-learning-gender-no-significant-effect-mole-concept.md) — related
 - [No significant gender difference in achievement among students taught solid geometry with animation-with-narration CAI](no-gender-difference-an-cai.md) — a narrower finding that bears on this claim
 - [No significant gender difference in achievement among students taught solid geometry with animation-with-text CAI](no-gender-difference-at-cai.md) — related
+- [Gender had no significant influence on performance when taught solubility with practical activities](no-gender-difference-practical-activities-solubility.md) — related
+- [Gender had no significant influence on performance when taught solubility with practical manual](no-gender-difference-practical-manual-solubility.md) — a narrower finding that bears on this claim

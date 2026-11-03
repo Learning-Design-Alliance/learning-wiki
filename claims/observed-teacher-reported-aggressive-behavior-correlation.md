@@ -50,3 +50,4 @@ Correlational analysis of fall baseline data for Cohort 1 control students (Tabl
 - [SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related
 - [Observed off-task, disruptive, and aggressive behaviors decreased from fall to spring observations](gbg-cohort1-behavior-decrease-over-school-year.md) — related
 - [Elementary school teams most often discuss physical aggression, defiance, disruption, and disrespect, with aggression most common in unstructured settings and defiance/disruption in classrooms](problem-behavior-types-and-locations.md) — related
+- [A decrease in aggressive interpersonal strategies predicts a reduction in child-reported aggressive behavior in the spring, controlling for fall aggression](decrease-aggressive-strategies-reduces-child-reported-aggression.md) — related

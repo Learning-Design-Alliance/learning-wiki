@@ -56,3 +56,6 @@ Comparison of Reading Strategies Questionnaire post-test means (N = 30 per group
 - [Post-test comprehension scores did not differ significantly between the strategy-instruction and skill-based groups despite a higher experimental mean](between-group-posttest-not-significant.md) — related
 - [Fourth-grade students taught with the SQ4R technique scored significantly higher on reading comprehension post-tests than control-group students](sq4r-improves-reading-comprehension-posttest.md) — related
 - [Training Saudi EFL college students in the 3-2-1 reading strategy for six weeks significantly improves their reading comprehension compared with no strategy training](3-2-1-strategy-improves-efl-reading-comprehension.md) — related
+- [Explicit metacognitive strategy instruction improves ESL reading comprehension performance](metacognitive-strategy-instruction-improves-esl-reading-comprehension.md) — related
+- [Explicit strategy instruction increased memory strategy use in EFL college learners, though not overall strategy use.](strategy-instruction-increases-memory-strategy-use.md) — related
+- [Explicit metacognitive strategy instruction increases ESL learners' use of monitoring and assessment strategies but not planning strategies](metacognitive-instruction-increases-monitoring-assessment-not-planning.md) — a narrower finding that bears on this claim

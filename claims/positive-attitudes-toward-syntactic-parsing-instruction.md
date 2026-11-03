@@ -75,3 +75,4 @@ Thematic analysis of interview responses on perceived benefits. Three of 10 part
 - [Experimental-group students held predominantly positive attitudes toward using the animated sitcom for grammar learning](positive-attitudes-animated-sitcom-grammar.md) — related
 - [Experimental participants report positive attitudes toward timed reading, citing better concentration, confidence, and motivation to read more](timed-reading-positive-attitudes.md) — related
 - [Participants in the experimental group held positive attitudes toward contemplative and transformative L2 instruction](positive-attitudes-contemplative-instruction.md) — related
+- [ESL learners trained in metacognitive strategies hold more positive views of the strategies' effectiveness than untrained peers](trained-esl-learners-positive-views-metacognitive-strategies.md) — related

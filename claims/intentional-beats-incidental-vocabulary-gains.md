@@ -60,3 +60,6 @@ The review reports, citing Peters et al. (2009), a direct comparison showing inc
 - [In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print](sms-vocabulary-learning-beats-paper-materials.md) — related
 - [Explicit spelling instruction improves spelling skills more than incidental instruction (Hedges' g = 0.43) and more than no instruction (g = 0.54)](explicit-spelling-instruction-beats-incidental.md) — related
 - [The intentional group lost more of its immediate vocabulary gain over four weeks than the incidental group](intentional-group-greater-loss-delayed-retention.md) — reports the opposite
+- [Intentional learning produced lasting retention of collocations at delayed posttest with moderate effect size 0.7](intentional-learning-retention-collocations.md) — a narrower finding that bears on this claim
+- [Intentional learning outperformed incidental learning on durability of initially learned collocations](intentional-learning-durability-collocations.md) — a narrower finding that bears on this claim
+- [Intentional learning enabled learning of collocations not learned after first exposure](intentional-learning-new-collocations.md) — a narrower finding that bears on this claim

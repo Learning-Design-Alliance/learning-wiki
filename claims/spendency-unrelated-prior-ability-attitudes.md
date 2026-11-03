@@ -75,3 +75,4 @@ Pearson correlations between spendency and mean daily enjoyment and motivation r
 - [Deterministic interaction patterns relate to delayed retention self-explanation quality but not posttest performance](hurst-relates-to-retention-not-posttest.md) — related
 - [High-spendency students show an interaction loop alternating between generative practice games and personalizable features](spendency-practice-personalization-loop.md) — related
 - [Higher synopsis enjoyment predicts better comprehension of that synopsis, even controlling for reading ability in Experiment 1](enjoyment-predicts-synopsis-comprehension.md) — reports the opposite
+- [Many studied instructional variables were unrelated to student achievement](many-instructional-variables-unrelated-achievement.md) — related

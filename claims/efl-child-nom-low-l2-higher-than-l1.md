@@ -52,3 +52,5 @@ Generalized linear mixed model on oral production of 40 children in 20 dyads per
 - [Mixed proficiency dyads negotiate for meaning more than matched proficiency dyads, irrespective of time and language](mixed-dyads-negotiate-more-than-matched.md) — related
 - [Strategy-specific effects: time affects self-repetitions and marginally clarification requests; proficiency pairing affects confirmation checks and negative feedback; language affects other-repetitions and negative feedback](strategy-specific-factor-effects.md) — related
 - [Non-native speaker dyads provided with subtitled videos before tasks produce a significantly higher percentage of negotiated turns in online TBLL than dyads without videos](subtitled-videos-increase-negotiation-of-meaning-online-tbll.md) — related
+- [Student L2 proficiency shapes L1 switching, with low-proficiency learners benefiting from L1 to reduce anxiety](student-proficiency-drives-l1-switching.md) — related
+- [Four factors affect teachers' and learners' language choices in L2 classes](four-factors-affecting-l1-use.md) — related

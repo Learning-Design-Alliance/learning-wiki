@@ -50,6 +50,7 @@ The article's conclusions recommend concrete steps for low-resource settings: "i
 - [Accommodate Varying Technology Experience](accommodate_varying_technology_experience.md)
 - [Adopt flipped classroom instruction, with particular attention to at-risk students, supported by institutional infrastructure and teacher video-design training](adopt-flipped-classroom-at-risk-infrastructure-strategy.md)
 - [Adopt the flipped classroom when sufficient teaching resources are available, and design distance courses progressively with clearly instructed in-class group activities](adopt-flipped-classroom-with-sufficient-resources.md)
+- [Use free, text- and vocabulary-centered tools (MEM, WOW) as supplemental resources in resource-limited settings](free-open-source-tools-resource-limited-settings.md)
 
 ## Examples
 -

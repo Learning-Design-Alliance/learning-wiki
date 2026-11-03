@@ -44,7 +44,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 53 claims (32 for, 21 mixed) · 61 studies (19 causal, 14 review, 13 quant-synthesis, 5 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 18 of 61 report an effect size · 41 claims rest on one study
+> **Evidence** · 56 claims (35 for, 21 mixed) · 62 studies (20 causal, 14 review, 13 quant-synthesis, 5 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 18 of 62 report an effect size · 44 claims rest on one study
 
 ## Description
 
@@ -142,6 +142,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Dynamic assessment with mediated grammar testing produced higher post-test syntactic scores than deductive grammar instruction in Iranian college-preparatory EFL learners](../claims/dynamic-assessment-outperforms-static-syntactic-development.md) [+W] — attached 2026-11-03 from Mohamad Reza Jafary et al. (2012), which proposed "Use dynamic assessment as both a teaching device and a measure of grammatical knowledge"; tests this page's relationship.
 - [Formative testing with feedback and remediation yields higher junior secondary mathematics achievement than feedback alone or test-only control](../claims/feedback-remediation-outperforms-feedback-only-math-jss.md) [+W] — attached 2026-11-03 from Ajogbeje Oke James et al. (2012), which proposed "Combine regular formative testing with prompt feedback and structured remediation to improve mathematics learning"; tests this page's relationship.
 - [Formative testing with feedback alone yields higher mathematics achievement than testing without feedback](../claims/feedback-only-outperforms-test-only-control-math-jss.md) [+W] — attached 2026-11-03 from Ajogbeje Oke James et al. (2012), which proposed "Combine regular formative testing with prompt feedback and structured remediation to improve mathematics learning"; tests this page's relationship.
+- [Replacing daily homework with daily assessments improved course grade distributions in principles of financial accounting](../claims/daily-assessments-improved-course-grades.md) [+W] — attached 2026-11-03 from Bush et al. (2011), which proposed "Replace daily homework with frequent low-stakes daily assessments to improve performance"; tests this page's relationship.
+- [Daily assessments increased satisfactory completion rates compared to daily homework](../claims/daily-assessments-increased-satisfactory-completion.md) [+W] — attached 2026-11-03 from Bush et al. (2011), which proposed "Replace daily homework with frequent low-stakes daily assessments to improve performance"; tests this page's relationship.
+- [Daily assessments improved final exam performance on five of eight topics](../claims/daily-assessments-improved-final-exam-topics.md) [+W] — attached 2026-11-03 from Bush et al. (2011), which proposed "Replace daily homework with frequent low-stakes daily assessments to improve performance"; tests this page's relationship.
 
 ## Source verification and open tests
 

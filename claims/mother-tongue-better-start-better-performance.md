@@ -64,5 +64,5 @@ Narrative literature review in Chapter 2 attributing this finding to Daniel (200
 - [First-language and bilingual programs in Peru, Bolivia, and the United States show students are better off acquiring knowledge in their mother tongues](international-mother-tongue-programs-better-off.md) — related
 - [Preservation of the mother tongue predicts second-language achievement among migrant children](mother-tongue-preservation-predicts-l2-achievement.md) — related
 - [Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures](mead-mother-tongue-status-affects-bilingual-learning.md) — related
-- [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
+- [Reviews and clinical guidance recommend supporting a bilingual student's heritage language alongside English; no study cited here tests whether doing so aids English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
 - [Failure to use mother tongue as the medium of instruction during at least the fundamental years has lasting detrimental impacts on students](mother-tongue-fundamental-years-detrimental-impact.md) — a broader claim this one bears on

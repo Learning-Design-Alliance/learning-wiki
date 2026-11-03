@@ -107,3 +107,4 @@ A meta-analysis of research on undergraduate science, mathematics, engineering, 
 - [The article reports that involvement in cooperative learning is a strong predictor of undergraduate academic performance](cooperative-learning-predicts-performance.md) — related
 - [First-year engineering students taught integration through group work achieved higher average exam performance ratios than a comparable class taught traditionally](group-work-higher-integration-performance-ratio.md) — a narrower finding that bears on this claim
 - [Cooperative group work activities improve pre-school children's pattern recognition skills more than individual instruction](cooperative-group-work-improves-preschool-pattern-recognition.md) — a narrower finding that bears on this claim
+- [Class time in the flipped model was devoted to active learning activities rather than lecturing](flipped-class-time-active-learning-activities.md) — a narrower finding that bears on this claim

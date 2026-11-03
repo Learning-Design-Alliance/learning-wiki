@@ -89,6 +89,8 @@ Flashcards work because they force retrieval rather than restudy; the act of pul
 - [Implement retrieval practice in class through everything-you-know recall, multi-representation flashcards, and practice test questions that differ from the actual test](retrieval-practice-three-classroom-strategies.md)
 - [Give students minimal direct instruction that retrieval practice beats restudying and that items should be recalled correctly three times before being dropped](minimal-retrieval-practice-strategy-instructions.md)
 - [Cueing category-level components of learned material as a low-effort reactivation strategy to support long-term retention](component-cue-reactivation-strategy.md)
+- [Using Mechanical Techniques: flashcard-based vocabulary practice with spaced self-testing](mechanical-techniques-flashcard-strategy.md)
+- [Structured Reviewing: reviewing vocabulary at progressively increasing intervals until materials become automatic](structured-reviewing-interval-strategy.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — open-source spaced-repetition system using the SM-2 algorithm; widely used in medical education for high-volume factual material.

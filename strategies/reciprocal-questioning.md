@@ -60,9 +60,11 @@ Generating a question requires learners to identify the main ideas, gaps, and re
 6. Fade the stems and teacher facilitation as groups internalize the routine ([Fading](../elements/fading.md)), consistent with contingent support [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — the full four-strategy protocol in which questioning is one component
 - [Self-Questioning](../strategies/self-questioning.md) — the private, individual version of the same generative act
 - [Peer Instruction](../strategies/peer-instruction.md) — a different reciprocity structure built around conceptual questions
+- [Use reciprocal teaching having students summarize, predict, and clarify learned content](reciprocal-teaching-summarize-predict-clarify.md)
 
 ## Examples
 - **Palincsar & Brown's reciprocal teaching trials (1984):** seventh-grade poor comprehenders trained to lead small-group dialogues using questioning, clarifying, summarizing, and predicting; comprehension gains of roughly 30 percentile points over ~20 sessions.

@@ -77,6 +77,7 @@ Progressive disclosure manages intrinsic load by preventing the simultaneous pre
 **[Codecademy](https://www.codecademy.com)** — early lessons expose only a minimal API surface; additional language features and tooling appear in later modules as prerequisite fluency is established.
 - [Use staged disclosure with early educator-authored content to buffer some LLM diagnostic errors](../strategies/staged-disclosure-buffers-diagnostic-errors.md)
 - [Introduce authentic listening materials to lower-level learners by simplifying the task, grading the text, and staging the listening](../strategies/task-simplification-grading-staging-authentic-listening.md)
+- [Search for techniques such as sufficient learning time, navigational guidance, interface design, and progressive or controlled disclosure of details to increase supplantation and attenuate overload in desktop VR](../strategies/techniques-increase-supplantation-attenuate-overload-desktop-vr.md)
 
 ## Key Sources
 - Mayer, R. E., & Chandler, P. (2001). When learning is harder than it has to be: Simultaneous, successive, and segmented multimedia presentations. *Journal of Educational Psychology, 93*(3), 638–650.

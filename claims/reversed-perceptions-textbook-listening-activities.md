@@ -52,3 +52,4 @@ Questionnaire item on textbook listening activities rated on a 4-point scale by 
 - [Heritage learners of Portuguese perceive listening as the easiest of the four skills, while non-heritage learners find it as challenging as other skills](hlls-rate-listening-easiest-nhlls-challenging.md) — related
 - [All participants believed heritage learners perform better in classroom listening, but dialectal differences posed difficulties for HLLs that NHLLs did not notice](perceived-hll-advantage-and-dialect-difficulty.md) — related
 - [Four themes of difficulty in textbook listening activities emerge for both groups: speech rate, speaker's accent, word meaning, and time pressure](four-difficulty-themes-textbook-listening.md) — reports the opposite
+- [Learners hold positive perceptions of explicit bottom-up listening activities and report increased listening confidence](positive-learner-perceptions-bu-activities.md) — related

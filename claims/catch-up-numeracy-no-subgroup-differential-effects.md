@@ -56,3 +56,4 @@ Pre-specified sub-group analysis on the ITT dataset with variables for gender, F
 - [Baseline factors of gender, free school meal status and SEN showed no significant moderation of the intervention effect](rapid-phonics-baseline-factors-no-significant-moderation.md) — a broader claim this one bears on
 - [PATHS produced no differential gains in academic attainment for children eligible for free school meals](paths-no-fsm-differential-gains.md) — related
 - [FSM-eligible pupils whose teachers received the professional development intervention gained a better understanding of the malleability of intelligence](fsm-pupils-teacher-training-malleability-understanding.md) — related
+- [No significant group-by-gender interaction on free active vocabulary](no-group-gender-interaction-free-active-vocabulary.md) — a narrower finding that bears on this claim

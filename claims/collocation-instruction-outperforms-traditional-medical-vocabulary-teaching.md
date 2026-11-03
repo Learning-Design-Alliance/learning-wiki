@@ -52,3 +52,4 @@ Quasi-experimental pretest/posttest control group study of 62 intermediate femal
 - [The collocation group's mean score rose from 8.2 to 17.7 while the control group's rose from 8.7 to 11.1](collocation-group-gain-9-5-versus-control-2-4.md) — a narrower finding that bears on this claim
 - [Corpus-based collocation findings align with prior concordancing and data-driven learning studies](corpus-collocation-findings-consistent-with-prior-ddl-research.md) — related
 - [At the start of the school year the two groups differed significantly in three vocabulary learning strategies](pilot-start-of-year-strategy-differences.md) — related
+- [Direct vocabulary learning strategies (Structured Reviewing and Using Mechanical Techniques) significantly improve vocabulary acquisition of pre-intermediate EFL learners](direct-strategies-improve-vocabulary-acquisition-pre-intermediate.md) — related

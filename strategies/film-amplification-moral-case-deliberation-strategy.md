@@ -45,6 +45,7 @@ The article proposes a concrete classroom procedure: screen a film with existent
 ## Related Strategies
 
 - [Select short, entertaining films and allocate four sessions per theme to sustain motivation](short-entertaining-films-four-sessions-strategy.md)
+- [Moral dilemma discussion with structured steps](moral-dilemma-discussion-steps.md)
 
 ## Examples
 -

@@ -72,3 +72,4 @@ Diary-based argument about advanced learners who already have working grammar an
 - [Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies](error-sources-interlingual-intralingual-cultural.md) — a broader claim this one bears on
 - [Preselection of grammar points in proactive FOF reduced learners' repetition and fossilization of erroneous forms](proactive-fof-reduces-error-fossilization.md) — related
 - [The learner's first language influences target-language pronunciation and is a significant factor in foreign accents, causing errors in aspiration, intonation, and rhythm](native-language-interference-shapes-pronunciation-errors.md) — a broader claim this one bears on
+- [L1 serves academic functions such as explaining target-language aspects, facilitating comprehension, and scaffolding](l1-academic-functions-facilitate-comprehension.md) — related

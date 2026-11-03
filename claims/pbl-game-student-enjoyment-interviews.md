@@ -59,3 +59,4 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [Students preferred the book-free, activity-based teaching and recommended the method for other courses](students-prefer-book-free-scenario-teaching.md) — related
 - [Pupils reported high satisfaction with the children-literature program](pupil-satisfaction-children-literature-program.md) — related
 - [Most students wanted argumentation-based activities continued, mainly in science lessons](students-want-argumentation-activities-continued-science.md) — related
+- [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related

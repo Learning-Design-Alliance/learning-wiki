@@ -47,6 +47,7 @@ The article's concluding recommendation is that teachers combine both tested ins
 - [Phonological and Metalinguistic Awareness Exercises](phonological_and_metalinguistic_awareness_exercises.md)
 - [Address Mother Tongue Interference](address_mother_tongue_interference.md)
 - [Screen foundation-year EFL students for literacy and route low scorers into phonological awareness programs](literacy-screening-then-pa-remediation-strategy.md)
+- [Integrate guidelines for explicit teaching of formulaic sequences into coursebook teacher manuals and embed formulaic-language exercises systematically across lessons with spaced repetition and retrieval.](coursebook-design-fs-explicit-guidelines.md)
 
 ## Examples
 -

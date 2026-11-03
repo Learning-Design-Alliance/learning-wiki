@@ -17,7 +17,7 @@ sources:
 # Constructivism as a theory of knowledge and learning with individualistic, social, and combined branches
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 design, 1 theoretical), `q1`–`q2` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (1 causal, 1 design, 1 theoretical), `q1`–`q3` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The paper presents Constructivism as a theory of knowledge and learning concerned with what one knows and how one comes to know, treating knowledge as internally constructed and socially mediated. It maps three branches: von Glaserfeld's Radical Constructivism (individualistic), socially and culturally situated Constructivism drawing on Vygotsky, Mead, and pragmatism, and combined approaches such as CTGV's emphasis on the social nature of cognition. The paper uses this taxonomy to identify fundamental characteristics shared across branches, including rejection of the Objectivist framework and a close theoretical-practical connection.
@@ -42,6 +42,7 @@ The paper presents Constructivism as a theory of knowledge and learning concerne
 
 - [Constructivism is the major learning theory reflected in Iranian Pre-University ELT textbooks](../claims/constructivism-dominates-iranian-pre-university-elt-textbooks.md) [+W]
 - [The authors argue that constructivists talking about constructivist learning environments is not necessarily a paradox](../claims/no-paradox-constructivist-learning-environments.md) [~W]
+- [No statistically significant difference in mathematics achievement between objectivist-based and constructivist-based teaching strategies](../claims/no-significant-difference-objectivist-constructivist-online-math.md) [~W]
 
 ## Related Theories
 

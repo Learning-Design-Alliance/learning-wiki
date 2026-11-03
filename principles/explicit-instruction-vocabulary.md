@@ -35,7 +35,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (41 for, 12 mixed, 4 against) · 58 studies (30 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 13 of 58 report an effect size · 46 claims rest on one study
+> **Evidence** · 60 claims (44 for, 12 mixed, 4 against) · 60 studies (32 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 60 report an effect size · 49 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,9 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Explicit vocabulary instruction produced higher ESP reading comprehension posttest scores than implicit vocabulary instruction](../claims/explicit-vocabulary-instruction-higher-esp-reading-comprehension-than-implicit.md) [+W] — attached 2026-11-03 from Kusumawati et al. (2017), which proposed "Prefer explicit vocabulary instruction over implicit instruction to promote ESP reading comprehension"; tests this page's relationship.
 - [RAVE instruction enhances middle school students' knowledge of academic words on a researcher-designed measure](../claims/rave-improves-word-knowledge-year1.md) [+W] — attached 2026-11-03 from McKeown et al. (2018), which proposed "Teach academic words through multiple authentic contexts and active processing rather than definitions alone"; tests this page's relationship.
 - [RAVE instruction enhances efficiency of lexical access to instructed words](../claims/rave-improves-lexical-access-year1.md) [+W] — attached 2026-11-03 from McKeown et al. (2018), which proposed "Teach academic words through multiple authentic contexts and active processing rather than definitions alone"; tests this page's relationship.
+- [Explicit teaching of formulaic sequences added to a traditional coursebook course produces significantly better receptive form-meaning learning than traditional coursebook instruction alone, with large effect sizes.](../claims/explicit-fs-teaching-beats-coursebook-only.md) [+M] — attached 2026-11-03 from Le-Thi et al. (2017), which proposed "Integrate systematic explicit teaching of formulaic sequences into language classes rather than relying on coursebook presentation alone."; tests this page's relationship.
+- [Explicit teaching combined with incidental exposure to formulaic sequences in the coursebook is superior to traditional coursebook instruction alone in a classroom setting.](../claims/explicit-plus-incidental-fs-superior.md) [+M] — attached 2026-11-03 from Le-Thi et al. (2017), which proposed "Integrate systematic explicit teaching of formulaic sequences into language classes rather than relying on coursebook presentation alone."; tests this page's relationship.
+- [L1 translation instruction produced higher free active vocabulary scores than L2 definitions](../claims/l1-translation-boosts-free-active-vocabulary.md) [+W] — attached 2026-11-03 from Asiyaban et al. (2012), which proposed "Use L1 translation deliberately in EFL vocabulary teaching to build free active vocabulary".
 
 ## Objective and learner-valued goal
 

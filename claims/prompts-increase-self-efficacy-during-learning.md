@@ -69,3 +69,4 @@ Follow-up t-tests comparing the prompt and no-prompt groups at the during-learni
 - [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
 - [Prompted and control groups show no significant differences in separative elaborations within domains or in additions](no-prompt-effect-within-domain-elaborations-additions.md) — related
 - [Both GLA groups showed a large, significant increase in pipetting self-efficacy, with no difference between conditions](gla-self-efficacy-increase-vr.md) — related
+- [Word-targets produced the only significant increase in reading self-efficacy](word-targets-increase-reading-self-efficacy.md) — related

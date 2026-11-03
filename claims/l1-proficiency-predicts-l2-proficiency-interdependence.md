@@ -49,3 +49,4 @@ Theoretical exposition of Cummins' developmental interdependence hypothesis with
 - [L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English](l1-l2-calp-interdependence-no-adverse-consequences.md) — a broader claim this one bears on
 - [Small-scale studies suggest age 15-16 with intermediate English proficiency (reading GE 5) is a good immigration age](arrival-age-15-16-ge5-good-immigration-age.md) — related
 - [Preservation of the mother tongue predicts second-language achievement among migrant children](mother-tongue-preservation-predicts-l2-achievement.md) — related
+- [L1 serves academic functions such as explaining target-language aspects, facilitating comprehension, and scaffolding](l1-academic-functions-facilitate-comprehension.md) — related

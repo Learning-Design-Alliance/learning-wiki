@@ -51,3 +51,4 @@ Independent-sample t-test comparing post-test means of the randomly assigned con
 - [Female master's students in a Twitter-supported blended course achieved higher post-test scores than students in a 100% in-class course](twitter-blended-achievement-gain.md) — related
 - [Journal entry practice enhancement activities outperform general vocabulary exercises for learning ESP technical vocabulary](journal-entry-practice-outperforms-vocabulary-exercises.md) — related
 - [Nasiri and Shokrpour (2012) found non-intensive English course students significantly outperformed intensive course students](nasiri-shokrpour-non-intensive-outperformed-intensive.md) — related
+- [Dynamic assessment significantly improves ESP learners' incidental vocabulary learning.](da-improves-esp-incidental-vocabulary.md) — related

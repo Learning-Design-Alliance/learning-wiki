@@ -50,3 +50,4 @@ Content analysis of two open-ended questions in the satisfaction survey. Facilit
 - [Mobile devices make education more accessible anytime and anywhere, but this attractiveness comes with limitations for adoption and usage](mobile-access-anytime-anywhere-with-adoption-limits.md) — a broader claim this one bears on
 - [WhatsApp's most cited benefit is enabling learning anytime and anywhere, but intrusiveness, message volume and cognitive load impede learning](whatsapp-anytime-anywhere-benefit-intrusiveness-limit.md) — related
 - [Treatment students perceived OAV as useful and effective, with algorithmic thinking the most frequent contribution theme (28%)](oav-perceived-contributions-seven-themes.md) — related
+- [Open Teaching can function as a driving strategy in autonomous learning](open-teaching-autonomous-learning-strategy.md) — related

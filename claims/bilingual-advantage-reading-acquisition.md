@@ -51,7 +51,7 @@ The review reports Bialystok et al. (2005)'s finding that bilingual children lea
 - [Bilingual children in Canada and India perform equivalently, supporting bilingualism rather than culture or immigration as the advantage's source](bilingual-advantage-generalizes-across-two-cultures.md) — related
 - [Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate](bilingual-fluency-enhances-metalinguistic-awareness.md) — related
 - [Bilingual 8-year-olds show smaller inhibitory-control costs than monolinguals on the faces task](bilingual-children-inhibitory-control-advantage-faces-task.md) — related
-- [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
+- [Reviews and clinical guidance recommend supporting a bilingual student's heritage language alongside English; no study cited here tests whether doing so aids English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
 - [Bilingual 8-year-olds show no switching cost between blocked and mixed trial blocks, unlike monolinguals](bilingual-children-no-switching-cost-faces-task.md) — related
 - [DLL preschoolers may show a metalinguistic advantage over monolingual peers in grammatical awareness as their language abilities develop](dll-metalinguistic-advantage.md) — related
 - [Phonological awareness and fluency show the largest effect-size relations with reading comprehension among Spanish-speaking children's essential reading components.](pa-fluency-largest-relations-comprehension-spanish.md) — related

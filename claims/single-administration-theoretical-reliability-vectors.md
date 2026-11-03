@@ -71,3 +71,4 @@ Comparison of reliability estimates on the same data: split-half reliability rgh
 - [The standard deviation of true scores equals the square root of the reliability coefficient times the standard deviation of obtained scores](otis-1922-true-score-sd-formula.md) — related
 - [Cronbach's alpha if-item-deleted analysis identifies constraints that reduce problem consistency](cronbach-alpha-if-deleted-constraint-analysis.md) — related
 - [Both computer-based and paper-based versions of the achievement test show high split-half reliability coefficients](high-reliability-both-test-modes.md) — related
+- [Reliability of classroom means for most instructional variables falls below the .70 threshold](classroom-mean-reliability-below-threshold.md) — related

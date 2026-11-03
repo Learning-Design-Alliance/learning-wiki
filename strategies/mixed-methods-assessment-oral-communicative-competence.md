@@ -43,6 +43,7 @@ The review recommends that future studies combine methods, because standardized 
 - [Prefer naturalistic over randomized controlled designs when studying dialogue-outcome relations](naturalistic-design-for-dialogue-outcome-research.md)
 - [Three development directions for observational self-regulation measures: broader behaviors, cross-context observability, and clear operational definitions](observational-tool-development-three-directions.md)
 - [Combine published assessment tools with government data and/or teacher reports to more effectively identify students in need of additional support](combine-assessments-government-data-teacher-reports.md)
+- [Use observational methods (e.g., CLASS) alongside self-report to assess classroom efficacy and reduce shared method variance](observational-methods-assess-classroom-efficacy.md)
 
 ## Examples
 -

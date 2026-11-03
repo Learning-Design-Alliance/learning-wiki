@@ -49,6 +49,7 @@ Supplemental 1-year follow-up findings for 74 first-grade students in three scho
 - [Auditory Processing](../learner-variables/auditory-processing.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [LiPS has potentially positive effects on comprehension for beginning readers, based on one randomized trial showing a statistically significant positive effect on passage comprehension](lips-potentially-positive-comprehension-effects.md) — related
 - [In Torgesen et al. (2010), LiPS produced statistically significant positive effects on word accuracy/fluency, phonemic decoding, phonological awareness, and spelling versus a basal reading program](torgesen-2010-positive-alphabetics-effects.md) — related
 - [Read, Write & Type!™ shows no discernible effects on reading comprehension or vocabulary for beginning readers](rwt-no-discernible-comprehension-effects.md) — related
@@ -62,3 +63,4 @@ Supplemental 1-year follow-up findings for 74 first-grade students in three scho
 - [Supplemental first-grade interventions for ELLs improved phonological and word-level skills but not comprehension, with comprehension gains emerging at one-year follow-up](ell-early-reading-intervention-word-level-gains.md) — related
 - [Read, Write & Type!™ shows statistically significant positive effects on phoneme segmenting and word attack relative to regular classroom instruction for low-achieving first graders](rwt-significant-alphabetics-gains-versus-regular-instruction.md) — related
 - [LiPS has mixed effects on alphabetics for beginning readers: positive and statistically significant in one trial, negative and substantively important (but not significant) in another](lips-mixed-alphabetics-effects.md) — related
+- [First follow-up findings were not yet available; results expected in early 2014](sdpp-first-followup-findings-pending.md)

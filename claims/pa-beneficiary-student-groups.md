@@ -46,3 +46,4 @@ From the section on characteristics of students who would benefit from PAs' supp
 
 ## Related Claims
 - [Teachers and students expect PAs to communicate along two dimensions — relational and task-related — mirroring instructional communication literature](pa-relational-task-related-communication-dimensions.md) — related
+- [Homeschooling supports learning through one-to-one support, safe environments, and special-needs accommodation](homeschooling-three-learning-dimensions.md) — related

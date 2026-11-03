@@ -49,3 +49,4 @@ Summary of findings from the 2007 AVID student survey administered in ninth and 
 - [Students in high and highest rated AVID schools are overwhelmingly positive about the program's impact on them](avid-high-schools-students-overwhelmingly-positive.md) — related
 - [Even students in lowest-rated AVID schools are fairly positive, though only half would recommend AVID to friends](avid-lowest-schools-students-fairly-positive.md) — related
 - [Small gaps in AVID experiences by gender, achievement, and grade, with girls, lower achievers, and tenth graders more positive](avid-small-gaps-gender-achievement-grade.md) — related
+- [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related

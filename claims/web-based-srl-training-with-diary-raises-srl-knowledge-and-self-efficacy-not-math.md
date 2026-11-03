@@ -123,3 +123,4 @@ Planned gain contrasts on the seven SRL questionnaire subscales. "Group TD showe
 - Students' computer self-efficacy scores declined from pre-test to post-test in both groups, and reflective diary practice did not prevent this decline. — reports the opposite
 - [Online EI workshops combined with mindfulness training significantly predicted peer-assessed EI growth, while neither intervention alone did](online-ei-plus-mindfulness-significant-peer-growth.md) — related
 - [Pintrich SRL-based activities improve elementary teacher candidates' overall self-regulated learning perceptions](pintrich-srl-activities-improve-srl-perceptions.md) — a narrower finding that bears on this claim
+- [Explicit metacognitive strategy instruction increases ESL learners' use of monitoring and assessment strategies but not planning strategies](metacognitive-instruction-increases-monitoring-assessment-not-planning.md) — related

@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 91 claims (25 for, 30 mixed, 36 against) · 83 studies (27 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 14 of 83 report an effect size · 83 claims rest on one study
+> **Evidence** · 93 claims (25 for, 31 mixed, 37 against) · 85 studies (29 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 14 of 85 report an effect size · 85 claims rest on one study
 
 ## Description and scope
 
@@ -213,6 +213,8 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Both blended learning and problem-based learning produced significantly higher algebra achievement than traditional lecture method, while BL and PBL did not differ significantly](../claims/bl-pbl-outperform-tlm-algebra.md) [+W]
 - [Descriptive gains in algebra achievement were largest for the blended learning group, followed by PBL and then TLM](../claims/bl-largest-descriptive-gain-algebra.md) [+W]
 - [Animation-with-text CAI did not significantly outperform lecture method on solid geometry achievement](../claims/at-cai-not-significant-vs-lecture.md) [+W]
+- [Gender differences in learning success differ by method: favoring females in Laban Section III and males throughout the traditional group](../claims/gender-differences-by-method.md) [~W]
+- [Reflective learning produces significantly higher mean gains in conceptual understanding than lecture-discussion among prospective teachers](../claims/reflective-learning-higher-conceptual-understanding-gains.md) [-W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

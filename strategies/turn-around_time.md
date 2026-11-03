@@ -57,8 +57,10 @@ Feedback loses instructional value as the mental context of the performance deca
 5. For complex or open-ended work, deliberately delay feedback until learners have attempted self-assessment.
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](../strategies/action-oriented-feedback.md) — the content side of the same coin: what the feedback tells learners to do
 - [5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md) — in-production feedback with near-zero turn around
+- [Schedule rapid, repeated peer evaluation cycles so students receive feedback before the next project deliverable](rapid-formative-peer-evaluation-cycles.md)
 
 ## Examples
 - **Codecademy** ([codecademy.com](https://www.codecademy.com)) — code runs and returns errors within seconds, the extreme case of automated turn around on well-structured tasks.

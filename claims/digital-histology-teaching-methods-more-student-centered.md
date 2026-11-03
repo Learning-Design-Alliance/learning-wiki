@@ -68,3 +68,4 @@ Frequency tabulation of teaching methods across the included articles shows e-le
 - [Thirty studies described digital learning tools with digital microscopy integrated, used by educators for teaching and by students for independent study](digital-microscopy-tools-dual-use-educators-students.md) — related
 - Research output on digital histology and pathology teaching increased steadily from 2013 to 2024, with first-year medical students the most frequently studied group — related
 - [Image-based quizzes with multiple choice questions and formative feedback for self-evaluation were the most frequently reported assessment methods in digital and blended histology and pathology education](quizzes-formative-feedback-dominant-assessment.md) — related
+- [The flipped classroom rests on blended learning, student-centered learning, and active learning as theoretical foundations](flipped-classroom-theoretical-foundations.md) — related

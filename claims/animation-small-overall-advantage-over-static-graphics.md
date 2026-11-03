@@ -65,3 +65,4 @@ Random-effects meta-analysis of 61 primary studies (N = 7036) comparing animated
 - [Dynamic slides did not improve knowledge acquisition compared to static slides](dynamic-slides-no-knowledge-benefit.md) — reports the opposite
 - [Animation outperforms static pictures for learning about a biological process with spoken narration](animation-outperforms-static-pictures-photosynthesis.md) — a narrower finding that bears on this claim
 - [Static and dynamic graphics produce equivalent learning gains for children learning from a multimedia science lesson](static-dynamic-graphics-equivalent-gains.md) — reports the opposite
+- [Prior studies found pictures superior to video because target words did not require dynamic presentation](prior-picture-superiority-due-to-simple-concepts.md) — a narrower finding that bears on this claim

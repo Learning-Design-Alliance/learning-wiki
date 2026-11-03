@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 107 claims (77 for, 27 mixed, 3 against) · 73 studies (24 associational, 16 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 17 of 73 report an effect size · 101 claims rest on one study
+> **Evidence** · 108 claims (78 for, 27 mixed, 3 against) · 74 studies (25 associational, 16 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 17 of 74 report an effect size · 102 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -163,6 +163,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [The effects of teacher autonomy support on Thai students' motivation do not interact with gender](../claims/tas-effects-no-gender-interaction.md) [~W] — attached 2026-11-01 from Amrita Kaur et al. (2014), which proposed "Self-determination theory: autonomy support as the crucial teacher behavior for high-quality motivation".
 - [Students reported that coaching enhanced their self-determination in five ways, including autonomy, self-awareness, self-esteem, goal effectiveness, and realistic goal setting](../claims/coaching-enhances-self-determination-five-ways.md) [+W]
 - [The authors attribute the motivation decrease to researcher-selected applications limiting autonomy, low technological literacy undermining competence, and weak relatedness](../claims/sdt-explanation-motivation-decrease-digital-workshop.md) [+W] — attached 2026-11-02 from Nurhan Aktaş et al. (2020), which proposed "Self-determination theory as an explanatory account of how digital tool choice affects task participation and motivation".
+- [Experts agreed that literacy motivation and engagement are fostered through offering children choices in reading and writing](../claims/experts-agree-choice-fosters-motivation-engagement.md) [+W]
 
 ## The evidence by question
 

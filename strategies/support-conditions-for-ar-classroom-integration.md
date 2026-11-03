@@ -50,6 +50,7 @@ Based on their findings, the authors recommend enhancing AR use in classrooms by
 - [Design ICT-integration teacher training that is subject-oriented and workshop-based over a long period](subject-oriented-workshop-ict-teacher-training.md)
 - [Provide teachers with training periods on how, when, and where to use language-learning technologies](teacher-training-periods-for-language-technology.md)
 - [Equip secondary classrooms with computers and data show devices and train teachers to implement e-learning](equip-classrooms-computers-data-show-train-teachers.md)
+- [Have students create their own keywords, definitions, and visuals with technology](student-created-keywords-visuals-tablet.md)
 
 ## Examples
 -

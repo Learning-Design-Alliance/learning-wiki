@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 213 claims (158 show a difference, 28 mixed, 27 no difference) · 143 studies (84 causal, 28 associational, 15 quant-synthesis, 11 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 30 of 143 report an effect size · 210 claims rest on one study
+> **Evidence** · 216 claims (161 show a difference, 28 mixed, 27 no difference) · 145 studies (85 causal, 29 associational, 15 quant-synthesis, 11 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 31 of 145 report an effect size · 213 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -254,6 +254,9 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Higher L2 vocabulary retrieval performance correlated strongly with higher L3 retrieval performance, and nondyslexic learners outperformed dyslexic learners on all stimulated vocabulary retrieval measures](../claims/vocabulary-retrieval-l2-l3-correlation.md) [+M] — learners who differ on it differ in outcomes
 - [RAVE instruction enhances efficiency of lexical access to instructed words](../claims/rave-improves-lexical-access-year1.md) [+M] — instruction changes it
 - [RAVE instruction enhances middle school students' knowledge of academic words on a researcher-designed measure](../claims/rave-improves-word-knowledge-year1.md) [+M] — instruction changes it
+- [Direct vocabulary learning strategies (Structured Reviewing and Using Mechanical Techniques) significantly improve vocabulary acquisition of pre-intermediate EFL learners](../claims/direct-strategies-improve-vocabulary-acquisition-pre-intermediate.md) [+M] — instruction changes it
+- [Indirect vocabulary learning strategies correlate more highly with both depth (r=0.78) and breadth (r=0.66) of vocabulary knowledge than direct strategies (r=0.58, r=0.51).](../claims/indirect-strategies-stronger-correlation-with-vocabulary-knowledge.md) [+M] — instruction changes it
+- [Strategy use correlates significantly and positively with both breadth (r=0.65) and depth (r=0.77) of vocabulary knowledge, with depth showing the higher correlation.](../claims/strategy-use-correlates-with-depth-more-than-breadth.md) [+M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

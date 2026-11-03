@@ -52,3 +52,4 @@ Systematic review of 119 spacing and interleaving studies, attributing this find
 - [Expanding and uniform spacing schedules of retrieval practice do not differ significantly in final retention (g = 0.034)](expanding-versus-uniform-retrieval-no-difference.md) — reports the opposite
 - [The effectiveness of dropout schedules depends critically on the length of the interval between presentations of an item](dropout-effectiveness-depends-on-interval.md) — related
 - [Shorter retention intervals predict higher quiz grades, and the spacing benefit holds even at short retention intervals](retention-interval-no-spacing-interaction.md) — related
+- [Expanding spaced schedule not significantly more effective than intensive schedule for collocation learning](spacing-no-advantage-collocations.md) — related

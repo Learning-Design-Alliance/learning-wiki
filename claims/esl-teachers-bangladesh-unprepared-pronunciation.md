@@ -51,3 +51,4 @@ Thematic synthesis of multiple reviewed studies. The review reports that "ESL te
 - [Resource scarcity and large class sizes limit individualized pronunciation feedback in Bangladeshi classrooms](resource-scarcity-large-classes-limit-pronunciation-feedback.md) — related
 - [Teachers attribute students' lack of pronunciation progress mainly to instruction and practice factors rather than learner factors](teachers-blame-instruction-over-learners-for-progress.md) — related
 - [Teachers' attention easily diverts to English learners' grammar, vocabulary, and pronunciation even when unrelated to the day's learning goal](teacher-attention-diverted-el-grammar.md) — related
+- [Students reported that pronunciation was not emphasized or assessed in their prior English education](students-report-pronunciation-not-assessed.md) — related

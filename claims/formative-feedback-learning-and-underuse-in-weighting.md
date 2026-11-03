@@ -85,3 +85,4 @@ The review reports, citing Yuan et al., that weighting by textual-feedback thoro
 ## Related Claims
 - [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](composite-indicators-poor-conceptual-alignment-deeper-learning.md) — related
 - [Implicit feedback via higher- and lower-order questions showed no significant effect on first-graders' reading comprehension](implicit-question-feedback-no-comprehension-effect.md) — related
+- [Formative peer evaluation improves students' perceptions of the learning climate and competence, but not doubt, compared to summative-only peer evaluation.](formative-peer-evaluation-improves-perceptions.md) — related

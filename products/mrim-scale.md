@@ -25,7 +25,8 @@ A 19-item, 6-point Likert self-report assessment developed by Chenghui Chen for 
 - [Metacognitive regulation of interactive metadiscourse strategies significantly predicts L2 argumentative writing performance, explaining about 11.3% of variance](../claims/mrim-predicts-l2-argumentative-writing-performance.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Metacognitive strategy questionnaire adapted from Beyer (1987)](metacognitive-strategy-questionnaire-adapted-from-beyer-1987.md)
 
 ## Key Sources
 - Chenghui Chen, Lawrence Jun Zhang. (2025). Development and validation of a scale for metacognitive regulation of interactive metadiscourse strategies in L2 argumentative writing. Metacognition and Learning. https://doi.org/10.1007/s11409-025-09435-z

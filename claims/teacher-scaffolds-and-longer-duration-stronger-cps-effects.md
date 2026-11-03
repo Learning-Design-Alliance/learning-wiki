@@ -82,3 +82,4 @@ Subgroup analysis by intervention duration (Table 4): 1–4 weeks (4 effect quan
 - [Program intensity is a significant moderator: high-duration gloss interventions yield larger effects (ES = 1.48) than low-duration ones (ES = 0.57)](program-intensity-moderates-gloss-effect.md) — related
 - [SDL modality and teacher role do not significantly moderate SDL effectiveness](sdl-modality-teacher-role-no-significant-moderation.md) — related
 - [ITS effect sizes decrease as intervention duration increases](its-effects-decrease-longer-duration.md) — related
+- [Behavioral/advance organizers show an effect size of ES = 0.41 that increases with prolonged use](advance-organizers-effect-increases-with-use.md) — related

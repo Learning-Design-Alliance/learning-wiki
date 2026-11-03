@@ -54,3 +54,5 @@ Subgroup meta-analyses of flipped-classroom design features (Table 3 and text). 
 - [Flipped classrooms yield higher skill scores than traditional lectures in Chinese clinical practice students (pooled SMD = 7.91)](flipped-classroom-higher-skill-scores-clinical-practice.md) — related
 - [Flipped classrooms are associated with higher learner satisfaction in medical education (pooled SMD = 0.69), with residents showing larger improvement than undergraduates (SMD 1.69 vs 0.37)](flipped-classroom-learner-satisfaction-residents.md) — related
 - [Flipped classroom effects are larger when instructors use quizzes at the start of in-class sessions](in-class-quiz-moderator-flipped-classroom-effect.md) — related
+- [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](flipped-classroom-two-components.md) — related
+- [Before-class online quizzes were used to ensure preparation and to launch class discussion](pre-class-quizzes-launch-discussion.md) — related

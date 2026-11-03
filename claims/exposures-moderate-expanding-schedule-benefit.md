@@ -51,3 +51,4 @@ Moderator meta-regression on subset 2 (54 effect sizes comparing expanding and u
 - [Uniform two-week spacing between distillations yielded the greatest benefit among the tested schedules, ranking Standard, Mixed, Frontloaded, then Baseline](two-week-uniform-spacing-greatest-benefit.md) — related
 - [Expanding retrieval schedules have not shown consistent advantages over equally spaced or contracting schedules matched on total spacing](expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules.md) — related
 - [Regression analysis shows the spacing effect holds in aggregate and the select group's advantage over other groups increases with number of reviews](spacing-effect-and-advantage-grows-with-reviews.md) — related
+- [Expanding spaced schedule not significantly more effective than intensive schedule for collocation learning](spacing-no-advantage-collocations.md) — related

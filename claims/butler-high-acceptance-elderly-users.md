@@ -47,3 +47,4 @@ A study of seventeen elderly users (from 58 to 79 years old) who "completed four
 ## Related Claims
 - [Using the Butler e-health platform increases elderly users' positive emotions and decreases negative ones](butler-platform-improves-elderly-mood-states.md) — related
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — related
+- [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related

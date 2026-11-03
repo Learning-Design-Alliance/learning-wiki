@@ -66,3 +66,4 @@ Wilcoxon signed-rank tests in the quantitative phase (N = 54) found no significa
 ## Related Claims
 - [Engaging K-12 teachers in open educational practices significantly improved their perceived ease of use and self-efficacy toward OER, with small-to-medium effect sizes](oep-improved-pe-and-se-toward-oer.md) — related
 - [Qualitative findings indicate OEP cultivated authentic OER awareness, increased self-efficacy, and fostered positive attitudes among K-12 teachers](oep-qualitative-benefits-awareness-efficacy-attitude.md) — reports the opposite
+- [Incorporating OER is widely accepted as sufficient to confer 'open' status on educational practice](oer-sufficient-for-open-status.md) — related

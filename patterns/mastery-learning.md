@@ -30,7 +30,7 @@ grain_size: unit
 # Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 34 claims (14 for, 18 mixed, 2 against) · 30 studies (11 causal, 7 quant-synthesis, 3 review, 3 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 8 of 30 report an effect size · 30 claims rest on one study
+> **Evidence** · 35 claims (15 for, 18 mixed, 2 against) · 31 studies (11 causal, 8 quant-synthesis, 3 review, 3 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 9 of 31 report an effect size · 31 claims rest on one study
 
 ## Description and scope
 
@@ -142,6 +142,7 @@ This pattern is scoped to cumulative units with a definable check. Performances 
 - [Formative evaluation was associated with increased interest, confidence and study time among adult ESL students](../claims/formative-evaluation-increases-adult-interest-confidence.md) [~W]
 - [Quantile regression estimates show little evidence of heterogeneous Mathematics Mastery treatment effects across the post-test score distribution](../claims/mathematics-mastery-quantile-regression-little-heterogeneity.md) [~W]
 - [Gender did not significantly influence the achievement of Nigerian SS1 students taught the mole concept with mastery learning instructional strategy.](../claims/mastery-learning-gender-no-significant-effect-mole-concept.md) [~W]
+- [Mastery learning shows an effect size of ES = 0.58, with effects of .94 in elementary, .72 in high school, and .65 in college](../claims/mastery-learning-effect-size-levels.md) [+W]
 
 ## Related Patterns
 - [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning.md)

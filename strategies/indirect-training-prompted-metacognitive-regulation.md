@@ -48,6 +48,7 @@ In the indirect training component, regular German language classes were adapted
 - [Self Regulated Learning Instruction](self-regulated-learning-instruction.md)
 - [Explicit Strategy Instruction](explicit-strategy-instruction.md)
 - [Use metacognitive characters and teacher follow-up to support transfer of trained inhibition strategies](metacognitive-characters-teacher-followup-transfer.md)
+- [Integrating intervention training on indirect metacognitive strategies (self-planning, self-monitoring, self-evaluating) into English lessons to manage vocabulary learning.](metacognitive-strategy-intervention-training-lessons.md)
 
 ## Examples
 -

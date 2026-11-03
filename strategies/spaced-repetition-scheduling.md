@@ -84,6 +84,7 @@ Spacing produces substantially better long-term retention than massed study of t
 - [Cramming](cramming.md) — the massed contrast case; effective for immediate performance but inferior for retention
 - [Cumulative Quizzing](cumulative-quizzing.md) — a course-level mechanism for delivering spaced retrieval at scale
 - [Organize course vocabulary by normal use rather than contrived semantically-related sets, and present SR items at different times or in different contexts](avoid-contrived-semantic-sets-presentation.md)
+- [Structured Reviewing: reviewing vocabulary at progressively increasing intervals until materials become automatic](structured-reviewing-interval-strategy.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — open-source SRS using the SM-2 expanding-interval algorithm; widely used in medical education, where studies report improved exam retention for spaced flashcard users.

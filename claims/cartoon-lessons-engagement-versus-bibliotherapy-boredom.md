@@ -53,3 +53,4 @@ Qualitative teacher observation of both conditions across four 30-minute lessons
 - [Students rated the cartoon condition as more enjoyable than bibliotherapy, though the difference was significant only at the alpha = 0.10 level](cartoon-condition-higher-enjoyment-rating.md) — related
 - [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](time-trends-epistemic-emotions-decline-course.md) — related
 - [Student-completed cartoons served as evidence that students in the cartoon condition understood the perfectionism concepts taught](student-cartoons-evidence-concept-understanding.md) — related
+- [Students were observed to be engaged throughout the story-based lesson, beginning discussion before being prompted](anecdotal-engagement-story-based-lesson.md) — related

@@ -67,3 +67,4 @@ Testimony of Phyllis Rosser citing MIT's admissions experience as evidence again
 - [Addressing women in the feminine rather than the masculine in Hebrew improves their maths test scores and reduces the maths gender gap](feminine-address-improves-women-maths-scores.md) — related
 - [Grade in the first mathematics class is a major determinant of whether a student stays in a STEM major](first-math-grade-determines-stem-retention.md) — related
 - [The treatment groups showed no pre-existing differences on college GPA, high school GPA, class rank, or SAT scores](no-preexisting-covariate-differences.md) — related
+- [SAT math score significantly predicts final exam performance and moderates the effect of delivery mode](sat-math-moderates-delivery-mode-effect.md) — related

@@ -50,3 +50,4 @@ Summary of students' open-ended comments on the R (Read) stage, illustrated by s
 - [When choosing Layered Curriculum activities, students prioritized enjoyable activities and activities they believed they could do](students-choose-enjoyable-feasible-activities.md) — related
 - [Students exposed to the layered curriculum chose activities they believed would reinforce learning and reported increased motivation and responsibility](layered-curriculum-student-activity-choice-motivation.md) — related
 - [All 24 students expressed positive attitudes towards specific aspects of RSA in completing extensive reading tasks](rsa-positive-student-perceptions.md) — related
+- [Short in-class SSR may not increase out-of-class reading for learners lacking intrinsic motivation](short-ssr-limited-out-of-class-reading.md) — related

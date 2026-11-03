@@ -85,3 +85,4 @@ In 5th year (older adolescents), post-hoc comparisons showed "evening-attending 
 ## Related Claims
 - [Later chronotypes obtain lower academic performance (chronotype effect), moderated by age, school subject and school timing](chronotype-main-effect-grades.md) — related
 - [The association between later chronotype and lower math grades is strongest in the morning timing, indicating a synchrony effect that partially counteracts the chronotype effect](synchrony-effect-math-slopes.md) — related
+- [School marks differ significantly across academic years and, for Spanish, across educational levels](time-and-level-effects-on-marks.md) — related

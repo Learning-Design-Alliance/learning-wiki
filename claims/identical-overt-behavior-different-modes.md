@@ -53,3 +53,4 @@ Illustrative argument (no data) in the critique section: the same overt behavior
 - [Specified aspects acted as micro-scaffolds: comments on example videos were almost equally distributed over the aspects, indicating participants watched with those aspects in mind](aspects-scaffold-video-commenting-thinking.md) — related
 - [Two teaching modes for AI-supported decision making differ in AI prediction, student engagement, and teacher scaffolding](imsd-fmpd-teaching-modes-ai-decision-making.md) — related
 - [Child engagement during alphabet instruction was high in all four treatments](high-engagement-all-treatments.md) — related
+- [Watching video models of successful weight loss increased weight loss self-efficacy over two months](video-modelling-increases-weight-loss-self-efficacy.md) — related

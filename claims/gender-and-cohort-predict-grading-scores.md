@@ -53,3 +53,4 @@ In the final HLM (N = 229, 916 observations), the male gender coefficient was ne
 - [Regulatory strategy use and classroom grades showed no subject-area differences, though females received higher grades than males](regulatory-strategy-use-and-grades-stable-across-subjects.md) — reports the opposite
 - [During the first pandemic wave, negative achievement emotions were more frequent than positive ones, moderated by gender and area of study](negative-emotions-exceed-positive-gender-area-interactions.md) — related
 - [Student prior achievement, gender, province, and school prior achievement predicted reading post-test scores, while father's education (SES) was not significant](covariates-predict-reading-achievement.md) — related
+- [Gender predicted learning scores in Grade 3 CI classrooms but not in VM classrooms](gender-predicts-learning-ci-not-vm.md) — related

@@ -57,3 +57,4 @@ Discrimination was measured with the [Daily Life Experiences (DLE) scale](../pro
 - [Age moderates the discrimination–private regard relation: discrimination at Time 2 predicts lower private regard at Time 3 among late (17–18) but not middle adolescents](age-moderates-discrimination-private-regard.md) — related
 - [Teacher-perpetuated racial or ethnic discrimination in math classrooms is associated with worse engagement, grades, and test scores for all students](teacher-discrimination-harms-whole-classroom-math-outcomes.md) — related
 - [No cross-lag effects were observed between racial discrimination and racial centrality over three years](no-cross-lag-discrimination-centrality.md) — related
+- [Racism in public schools drives African American families toward homeschooling](racism-drives-african-american-homeschooling.md) — related

@@ -54,3 +54,4 @@ Pretest-posttest control group study (pre-experimental design) with two intact c
 - [Learners did not gain more vocabulary from favored-context (sport) passages than from disfavored-context (geography) passages; the favored-context hypothesis was rejected](favored-context-hypothesis-rejected-sport-vs-geography.md) — related
 - [Both strategies produced gains in vocabulary knowledge over the course of the treatment](both-strategies-improved-vocabulary-knowledge.md) — a broader claim this one bears on
 - [Vocabulary gains from the didactic model emerged only at post-test, supported by contextual-clue strategies](didactic-model-vocabulary-delayed-gains.md) — related
+- [Direct vocabulary learning strategies (Structured Reviewing and Using Mechanical Techniques) significantly improve vocabulary acquisition of pre-intermediate EFL learners](direct-strategies-improve-vocabulary-acquisition-pre-intermediate.md) — related

@@ -80,3 +80,4 @@ Replication RCT with 144 ninth-graders with emotional or behavioral disabilities
 - [Former students who dropped out want colleges to proactively invite them to return and explain how to return](noncompleters-want-proactive-return-outreach.md) — related
 - [Check & Connect mentoring had no detectable impact on engagement, academic progress, dropout, or graduation for at-risk general education high school students](check-connect-no-impact-general-education-at-risk.md) — related
 - [Family Rewards reduced current poverty and hardship and increased receipt of preventive healthcare but did not improve school outcomes overall for elementary, middle, or high school students](family-rewards-early-findings-no-overall-school-impact.md) — related
+- [EWS-style programs (Check & Connect, ALAS) showed positive effects on staying in school in U.S. WWC reviews](check-connect-alas-positive-staying-in-school.md) — a broader claim this one bears on

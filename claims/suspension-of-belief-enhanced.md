@@ -47,3 +47,4 @@ Paired t-test results on SHOM Survey subscales; suspension of belief and open-mi
 ## Related Claims
 - [Medium positive correlation between SHOM and argumentation skill levels](medium-positive-correlation-shom-argumentation.md) — related
 - [VA strategy does not enhance teacher candidates' SHOM; scores slightly and non-significantly decrease](va-strategy-fails-to-enhance-shom.md) — related
+- [Teachers' context beliefs increased after a year in the program, though this increase was not statistically significant.](pd-increased-teacher-context-beliefs-ibi.md) — related

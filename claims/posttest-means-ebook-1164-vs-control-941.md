@@ -58,3 +58,4 @@ Descriptive statistics from Table 2 of the quasi-experiment (experimental n = 30
 - [Both groups gained in thinking ability pre-to-post, but CoBl and traditional instruction did not differ in thinking ability (p = .501)](cobl-thinking-ability-no-group-difference.md) — related
 - [The cooperative learning group improved significantly from pretest to posttest](cooperative-group-pretest-posttest-gain.md) — related
 - [Students taught with the ILSC model show greater enhancement of mathematical critical thinking ability than students taught conventionally](ilsc-model-enhances-mathematical-critical-thinking.md) — related
+- [Control group taught with conventional TLM showed no significant pretest-to-posttest difference in vocabulary achievement](conventional-tlm-no-significant-gain.md) — related

@@ -47,3 +47,4 @@ Quasi-experimental pretest–posttest control-group study during fall 2018–201
 ## Related Claims
 - [Flipped classroom instruction produced significantly better post-test writing scores than traditional instruction among Iraqi EFL sophomores](fci-improves-iraqi-efl-writing-posttest.md) — related
 - [Before the FCI treatment, the experimental and control groups showed no statistically significant difference in writing ability](fci-pretest-equivalence-iraqi-efl.md) — related
+- [The flipped classroom intervention was implemented through planning, implementation, and evaluation stages over 12 weeks](flipped-classroom-three-stage-implementation.md) — related

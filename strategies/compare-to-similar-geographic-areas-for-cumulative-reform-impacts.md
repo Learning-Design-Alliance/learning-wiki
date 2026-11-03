@@ -44,6 +44,7 @@ The study estimated cumulative impacts of district-wide reforms through a compar
 
 - [Evaluate charter school impacts by matching students to demographically and academically similar comparison students](matched-comparison-group-charter-evaluation-strategy.md)
 - [Evaluate principal replacement by comparing achievement changes in replaced-principal schools to matched comparison schools that kept the same principal](compare-replaced-principal-schools-to-retained-principal-comparison-schools.md)
+- [Use interrupted time-series designs with matched comparison groups, adapting the level of analysis to each site's scope of implementation](matched-comparison-interrupted-time-series-by-implementation-scope.md)
 
 ## Examples
 -

@@ -61,6 +61,7 @@ Mnemonics work by imposing meaningful organization on otherwise arbitrary associ
 - [Spaced Retrieval](spaced-retrieval-practice.md) — the consolidation mechanism that makes mnemonic gains durable
 - [Chunking](../principles/chunking.md) — the general organizing principle mnemonics exploit
 - [Teach even-odd digit-pair-to-image encoding as a memory aid in educational and training programs](digit-image-pair-image-encoding-strategy.md)
+- [Have students create their own keywords, definitions, and visuals with technology](student-created-keywords-visuals-tablet.md)
 
 ## Examples
 - **Keyword vocabulary instruction** — a Spanish learner links *pato* (duck) to the image of a pot with a duck in it; widely studied in foreign-language learning research.

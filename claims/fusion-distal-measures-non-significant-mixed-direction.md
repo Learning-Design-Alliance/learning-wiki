@@ -50,3 +50,4 @@ Time-by-condition analyses of the same 253-student quasi-experimental sample on 
 - [Fusion produced no statistically significant gains on proximal procedural fluency (EN-CBM) or distal (SAT-10) measures, though effect sizes were small and positive](fusion-no-significant-gains-en-cbm-sat10.md) — related
 - [The intervention produced no significant group differences on distal problem-solving measures, as the authors predicted because problem solving was not directly taught](no-problem-solving-transfer-gains.md) — related
 - [The Fusion intervention produced a statistically significant positive effect on the proximal ProFusion measure in a practitioner-led quasi-experimental implementation](fusion-practitioner-implementation-significant-profusion-effect.md) — related
+- [Duration of observation shows a small significant association with ELM EN-CBM gains](duration-observation-significant-elm-encbm.md) — related

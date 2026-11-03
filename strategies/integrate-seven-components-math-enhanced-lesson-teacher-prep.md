@@ -47,7 +47,8 @@ Because the MTIS treatment had no negative effect on the three efficacy construc
 - [Preservice agricultural teachers were efficacious in personal mathematics and personal teaching efficacy but only moderately efficacious in mathematics teaching efficacy throughout the course](../claims/preservice-ag-teachers-math-efficacy-profile.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use Career Development Events to develop transferable skills alongside career-specific preparation](cde-participation-develops-transferable-skills-strategy.md)
 
 ## Examples
 -

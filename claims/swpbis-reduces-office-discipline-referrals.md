@@ -76,3 +76,6 @@ Multilevel logistic regression in the 4-year group RCT on aggregated dichotomous
 - [TIPS-trained teams more often documented reductions in office discipline referrals at follow-up, with no group difference in the final year](tips-pd-odr-reduction.md) — related
 - [Total recorded incidents decreased 47.76% over the intervention, with significant decreases in behavior, teacher-sent, self-sent, and aggression incidents but not group incidents](incident-frequency-decrease-paired-t-tests.md) — related
 - [Randomized controlled trials reviewed in the discussion report positive effects of SWPBIS on behavior problems, school climate, and bullying](swpbis-rct-evidence-discussion.md) — a broader claim this one bears on
+- [SW-PBIS showed no significant effect on school-level suspension rates in Minnesota](swpbis-no-significant-suspension-rate-effects.md) — reports the opposite
+- [SW-PBIS implementation showed no statistically significant longitudinal effects on elementary and middle school academic achievement in Minnesota](swpbis-no-significant-academic-achievement-effects-minnesota.md) — related
+- [SW-PBIS is theorized to improve academic achievement indirectly by reducing problem behavior and lost instructional time](swpbis-theorized-mechanism-reduced-problem-behavior-instructional-time.md) — related

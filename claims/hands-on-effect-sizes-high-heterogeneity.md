@@ -52,3 +52,4 @@ Heterogeneity analysis of the 19 included effect size estimates using the Q-stat
 - [Between-study heterogeneity in LLM dental-question accuracy is very high (I² = 91.5%), with a prediction interval spanning 29.65% to 91.71%](high-heterogeneity-llm-dental-accuracy.md) — related
 - [Effect sizes across intervention studies are highly heterogeneous (I² = 85 for learning performance, I² = 69 for academic emotion)](academic-emotion-effect-heterogeneity-high.md) — related
 - [High between-study heterogeneity exists in pooled FCI gender gap estimates (Q = 215.36, I² = 91.3%, τ² = 0.0620)](fci-gender-gap-high-heterogeneity.md) — related
+- [High heterogeneity (I-squared = 100.0%) across reconfigured teaching strategy effect sizes indicates substantial variation](high-heterogeneity-teaching-strategies.md) — related

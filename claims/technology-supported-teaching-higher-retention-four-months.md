@@ -79,3 +79,4 @@ Single-factor repeated-measures ANOVA for the control group; printed means pre-t
 - [Writing gains from written corrective feedback decline between post-test and delayed post-test](wcf-gains-decline-delayed-posttest.md) — related
 - [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — related
 - [Learning cycle approach-based teaching produced higher retention test scores eight months after implementation](learning-cycle-higher-retention-8-months.md) — related
+- [Pronunciation gains from the Audio Articulation Method persisted at delayed post-test four weeks later](aam-gains-persist-delayed-posttest.md) — related

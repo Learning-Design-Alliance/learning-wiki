@@ -80,3 +80,4 @@ Semi-structured interviews with 10 experimental-group volunteers, analysed by in
 - [Participants held positive attitudes toward Web-based reading strategy instruction](positive-attitudes-toward-web-based-strategy-instruction.md) — related
 - [Participants in the experimental group held positive attitudes toward contemplative and transformative L2 instruction](positive-attitudes-contemplative-instruction.md) — related
 - [Iranian EFL learners in the flipped group held mostly positive attitudes toward flipped instruction](positive-efl-attitudes-toward-flipped-instruction.md) — related
+- [ESL learners trained in metacognitive strategies hold more positive views of the strategies' effectiveness than untrained peers](trained-esl-learners-positive-views-metacognitive-strategies.md) — related

@@ -52,3 +52,6 @@ Content analysis of questionnaire responses on motivation factors; Table 12 prin
 - [Students in performing-arts groups reported the plays' subject messages as memorable, most often agriculture and animal breeding, taxation, and mining](performing-arts-student-recalled-messages.md) — related
 - [Students perceived flipped learning as having a distinct set of affordances (flexible video access, preparation, interaction) and constraints (video length, lack of guidance while watching)](flipped-learning-affordances-constraints-perceptions.md) — related
 - [Students in the teacher-centred group reported boredom, a need for repetition, and ineffective time management](tcbio-students-report-boredom-repetition-time-management.md) — related
+- [Open Teaching can function as a driving strategy in autonomous learning](open-teaching-autonomous-learning-strategy.md) — related
+- [The three pilots shared online technology for mastery pathways, credit for demonstrated mastery, anytime/anywhere learning, and improved data management](proficiency-pilots-shared-design-attributes.md) — related
+- [Flexibility and access are an initial characterization of Open Teaching](open-teaching-flexibility-and-access.md) — related

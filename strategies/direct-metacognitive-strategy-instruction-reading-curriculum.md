@@ -44,6 +44,7 @@ The article recommends that direct instruction of metacognitive strategies be bu
 - [Integrate metacognitive reading strategy tasks into regular EFL reading courses](integrate-strategy-tasks-regular-reading-courses.md)
 - [Use reading strategies inventories to identify which strategies learners currently use before designing instruction](reading-strategies-inventories-to-design-instruction.md)
 - [Teachers should introduce learning strategies, find out what learners already use, and help them monitor and evaluate strategy use across tasks](teacher-guided-strategy-introduction-monitoring-evaluation.md)
+- [Integrating intervention training on indirect metacognitive strategies (self-planning, self-monitoring, self-evaluating) into English lessons to manage vocabulary learning.](metacognitive-strategy-intervention-training-lessons.md)
 
 ## Examples
 -

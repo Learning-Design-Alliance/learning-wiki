@@ -60,3 +60,4 @@ Quasi-experimental equivalent pre-post test control group design with 84 experim
 - [After a 27-week performance-focused intervention, 9th-grade students in the experimental group scored significantly higher on the posttest performance measure than control-group students](performance-activities-posttest-favor-experimental.md) — related
 - [Groups were equivalent at pre-test but differed significantly at post-test](video-podcast-pretest-equivalent-posttest-difference.md) — related
 - [Classroom use of learning objects produced higher total post-test achievement than extracurricular project use in 9th-grade mathematics](classroom-los-outperform-extracurricular-los-total-achievement.md) — related
+- [Students taught with BOB, PICT or BO-PICT significantly outperform conventionally taught students on a mathematics achievement test](bob-pict-outperform-conventional-math-achievement.md) — a narrower finding that bears on this claim

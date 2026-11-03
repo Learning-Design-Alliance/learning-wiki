@@ -49,6 +49,7 @@ The authors recommend that schools adopt CAI packages beyond the tested physics 
 
 - [Expose physics students to computer-assisted STAD cooperative instruction to improve performance](adopt-computer-assisted-stad-physics-strategy.md)
 - [Establish an ICT Resource Centre under each district's School Management Board with production, research-assessment and technical sections](ict-resource-centre-three-sections.md)
+- [Extend multimedia e-TLM packages across subjects, school levels and adult education](extend-e-tlm-across-levels-strategy.md)
 
 ## Examples
 -

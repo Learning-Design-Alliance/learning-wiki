@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 219 claims (141 show a difference, 41 mixed, 37 no difference) · 144 studies (62 causal, 32 associational, 24 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 42 of 144 report an effect size · 216 claims rest on one study
+> **Evidence** · 220 claims (142 show a difference, 41 mixed, 37 no difference) · 145 studies (63 causal, 32 associational, 24 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 43 of 145 report an effect size · 217 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -256,6 +256,7 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Treatment preschoolers significantly improved Spanish receptive and expressive vocabulary and English receptive vocabulary from pre-test to post-test, with moderate effect sizes](../claims/link-prepost-vocabulary-gains-spanish-english.md) [+M] — rose from pre-test to post-test in the treatment group (no comparison group in this analysis)
 - [A comprehensive summer parent-involved book reading program improved receptive vocabulary but not expressive vocabulary](../claims/summer-parent-book-reading-improves-receptive-vocabulary.md) [~M] — instruction changes it
 - [Reflection in language learning contexts is hindered by learners' difficulty expressing thoughts in the target language](../claims/language-learners-expression-difficulty-reflection.md) [+M] — learners who differ on it differ in outcomes
+- [The flipped classroom model improved Egyptian EFL students' listening comprehension in a one-group pre-posttest study](../claims/flipped-classroom-improves-efl-listening-comprehension.md) [+M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

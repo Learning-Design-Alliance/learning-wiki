@@ -48,3 +48,4 @@ Ternary ability split by Midterm 1 (Low N = 194); Table 2 prints b = 8.28, 95% C
 - [PF students outperformed AL students on condition-topic midterm items by nearly five percentage points after controlling for prior performance](pf-beats-al-midterm-biology.md) — a broader claim this one bears on
 - [PF still showed a positive, significant effect for combined medium- and high-achieving students on the midterm](pf-effect-med-high-combined.md) — related
 - [PF benefit for low-performing students persisted marginally on the final exam while effects for medium and high achievers were non-significant](pf-final-exam-ability-split.md) — related
+- [Daily assessments improved final exam performance on five of eight topics](daily-assessments-improved-final-exam-topics.md) — related

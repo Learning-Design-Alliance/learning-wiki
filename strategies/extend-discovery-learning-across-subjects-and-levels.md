@@ -50,6 +50,7 @@ In its educational implications the article recommends broadening the use of dis
 - [Extend CREACT practices across subjects and provide teacher training in the technique](creact-cross-subject-teacher-training-recommendation.md)
 - [Re-arrange and extend the web-assisted flipped-classroom activity materials to other science subjects and disciplines](rearrange-web-assisted-materials-other-subjects.md)
 - [Extend hybrid learning to teachers at all levels and to adult education](extend-hybrid-learning-teacher-education.md)
+- [Extend multimedia e-TLM packages across subjects, school levels and adult education](extend-e-tlm-across-levels-strategy.md)
 
 ## Examples
 -

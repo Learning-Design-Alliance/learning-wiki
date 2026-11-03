@@ -68,3 +68,4 @@ The design is a single group of 21 students tested before and after, with no com
 - [The treatment group's vocabulary size increased significantly from pre-test to post-test, by about 17 correct answers](treatment-group-significant-prepost-vocabulary-gain.md) — related
 - [Both the situated learning group and the traditional instruction group improved significantly from pre-test to post-test in vocational English vocabulary](both-groups-significant-pretest-posttest-gains-vocational-english.md) — related
 - [Students showed significant improvement in vocabulary recognition and understanding from pre-test to post-test over the seven-week module](vks-pre-post-significant-improvement.md) — related
+- [DA mediation using structured hints raises mean vocabulary scores from 16.94 to 19.26 out of 20.](da-hints-raise-mean-vocabulary-scores.md) — related

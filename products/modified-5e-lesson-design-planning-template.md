@@ -32,7 +32,8 @@ This is a lesson-planning framework adapted by WestEd's K–12 Alliance for the 
 - [Inquiry-based science provides a highly contextualized setting for authentic language use and higher-level dialogue that is not text-dependent, supporting English learners' language development](../claims/inquiry-science-contextualized-authentic-language.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [4Ex2 Instructional Model](4ex2-instructional-model.md)
 
 ## Key Sources
 - DiRanna, K., & Gomez-Zwiep, S. (2013). High-Quality Science Instruction: Building Conceptual Understanding and Language Skills for English Learners. San Francisco: WestEd. https://www.wested.org

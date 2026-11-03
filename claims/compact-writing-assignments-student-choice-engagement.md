@@ -55,3 +55,4 @@ Student feedback survey on the Compact Writing Assignments implemented in Pilot 
 - [Student choice is rare in authentic assessment designs while assigned, sometimes graded, self-reflection is more common](aa-student-choice-rare-reflection-assigned.md) — related
 - [Choice in retention programs is linked to retention gains, but autonomy is rarely a tested variable](choice-autonomy-rarely-tested-in-retention-programs.md) — related
 - [Lee and Hannafin's framework holds that learners in student-centered classrooms need autonomy, scaffolding, and authentic audiences to enhance engagement](lee-hannafin-autonomy-scaffolding-authentic-audiences.md) — a broader claim this one bears on
+- [Experts agreed that literacy motivation and engagement are fostered through offering children choices in reading and writing](experts-agree-choice-fosters-motivation-engagement.md) — a broader claim this one bears on

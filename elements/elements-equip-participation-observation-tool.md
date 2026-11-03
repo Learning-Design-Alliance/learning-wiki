@@ -18,7 +18,7 @@ sources:
 # EQUIP (Equity Quantified in Participation) classroom observation tool
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 EQUIP is a classroom observation tool that counts relatively low-inference indicators of participation — participation sequences, whole-class discussion type, teacher solicitation method, type of student talk, talk length, wait time, and explicit evaluation — and cross-tabulates them with student demographic groups to quantify equitable participation. A participation sequence is a consecutive run of verbal turns between a single student and the teacher; a new sequence begins when another student speaks. Data can be disaggregated by gender, race, and their intersection and tested with chi-squared analyses. In the article's elementary whole-class discussion, EQUIP data showed long student talk, long wait time, and no explicit teacher evaluation in 80% of turns, while intersectional analysis exposed lower Why-level talk by Latin@ males.
@@ -40,6 +40,7 @@ EQUIP is a classroom observation tool that counts relatively low-inference indic
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [EQUIP data reports surfaced participation inequities that teachers were unaware of and motivated instructional change](../claims/equip-data-surfaces-unseen-participation-inequities.md) [+W]
+- [Participating teachers' overall mean EQUIP score was highest during the second observation, taken at the end of the first semester, but these changes in their instructional practices were not sustainable during the second semester.](../claims/pd-instructional-practices-not-sustainable-second-semester.md) [~W]
 
 ## Related Elements
 - 

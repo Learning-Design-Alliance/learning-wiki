@@ -31,7 +31,7 @@ sources:
 # Accessible Vocabulary & Syntax
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (16 for, 4 mixed, 2 against) · 30 studies (10 causal, 7 review, 4 quant-synthesis, 3 design, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 4 of 30 report an effect size · 17 claims rest on one study
+> **Evidence** · 23 claims (17 for, 4 mixed, 2 against) · 31 studies (11 causal, 7 review, 4 quant-synthesis, 3 design, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 4 of 31 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Immediate comprehension of a simplified text, comprehension of the original, del
 - [Prior meta-analytic and experimental evidence reports positive effects of linguistic simplification on learning outcomes, attributed by the review literature cited in this article](../claims/linguistic-simplification-positive-learning-outcomes-prior-evidence.md) [+M]
 - [Adequate definitions of abstract and familiar terms rarely appear before the eleventh year](../claims/adequate-definitions-rare-before-eleventh-year.md) [+W]
 - [In-context (top-down) vocabulary training had no significant impact on reading comprehension](../claims/top-down-training-no-comprehension-impact.md) [~W]
+- [Word difficulty varies: short familiar-format words are easiest and abstract words hardest](../claims/word-difficulty-varies-across-target-words.md) [+W]
 
 ## Related Principles
 - [Explicit Instruction: Vocabulary](explicit-instruction-vocabulary.md) — focuses on the direct teaching of word meanings and usage

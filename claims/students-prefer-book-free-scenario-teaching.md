@@ -48,3 +48,4 @@ Content analysis of evaluation-form answers coded under the general-evaluation t
 - [Primary school students evaluate the scenario-based case study method as a positive learning experience in the 'from Production to Consumption' unit](scenario-case-study-positive-student-experience.md) — related
 - [Experimental-group students reported enjoying learning Newton's Laws through game-based projects and wanted the method used in other lessons](pbl-game-student-enjoyment-interviews.md) — related
 - [Students in the active-learning flipped course reported strongly positive attitudes, and course retention was higher than in the control group](active-learning-positive-attitudes-and-retention-ap.md) — related
+- [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related

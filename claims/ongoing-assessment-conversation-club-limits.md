@@ -69,3 +69,5 @@ Pen-pals project written-competence assessment: of 42 expected letters, "only th
 - [79% of students rated the Tourism in Neiva project as having high or medium-high impact on their English learning, and 86% found the conversation club compelling, interesting, enriching, and appealing](survey-project-and-club-impact-perceptions.md) — related
 - [The learner's first language influences target-language pronunciation and is a significant factor in foreign accents, causing errors in aspiration, intonation, and rhythm](native-language-interference-shapes-pronunciation-errors.md) — related
 - [Foreign language competence development through virtual exchange is contextual and not measured by standardised tests](virtual-exchange-foreign-language-gains-contextual.md) — related
+- [Experts supported needs-based instruction informed by ongoing observation and assessment](experts-support-needs-based-instruction-ongoing-assessment.md) — related
+- [Students reported that pronunciation was not emphasized or assessed in their prior English education](students-report-pronunciation-not-assessed.md) — related

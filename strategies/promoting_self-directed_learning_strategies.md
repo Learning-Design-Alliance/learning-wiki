@@ -79,6 +79,7 @@ Self-directed learning is not discovery learning: the strategies that make indep
 - [Teach problem-solving and study planning skills explicitly linked to language arts, science, and social studies standards](standards-linked-problem-solving-study-planning-instruction.md)
 - [Explicitly teach and intensively practice self-regulated strategies in speaking classes](explicitly-teach-srl-strategies-speaking-classes.md)
 - [Train students to serve as discussion leaders within small online discussion groups](train-student-discussion-leaders.md)
+- [Integrating intervention training on indirect metacognitive strategies (self-planning, self-monitoring, self-evaluating) into English lessons to manage vocabulary learning.](metacognitive-strategy-intervention-training-lessons.md)
 
 ## Related Elements
 - [Think-Aloud](../elements/think-aloud.md) — how teachers make self-regulatory decisions visible

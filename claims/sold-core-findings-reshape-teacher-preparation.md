@@ -55,3 +55,4 @@ This is the report's own synthesis section ('What the Science Says' framing in t
 - [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](toxic-stress-impedes-learning.md) — related
+- [Homeschooling supports learning through one-to-one support, safe environments, and special-needs accommodation](homeschooling-three-learning-dimensions.md) — related

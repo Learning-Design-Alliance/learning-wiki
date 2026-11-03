@@ -54,3 +54,4 @@ Narrative review of prior literature cited as background. The article reports th
 - [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related
 - [Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance](flca-influences-outcomes-four-factors.md) — related
 - [Ideal L2 self positively and significantly predicts student self-efficacy, generalizing prior qualitative findings quantitatively](ideal-l2-self-predicts-self-efficacy.md) — related
+- [Explicit strategy instruction strengthened the correlation between language learning strategy use and English self-efficacy.](strategy-instruction-strengthens-strategy-self-efficacy-correlation.md) — a narrower finding that bears on this claim

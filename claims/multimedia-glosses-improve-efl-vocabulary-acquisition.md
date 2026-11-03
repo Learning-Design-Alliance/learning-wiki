@@ -76,3 +76,5 @@ Quasi-experimental pretest-posttest control group study of 45 first-year EFL stu
 - [Instructional video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment](instructional-video-improves-efl-vocabulary.md) — related
 - [Both giving and receiving marginal L1 glosses improve L2 vocabulary learning on a fill-in-the-blank test relative to no glosses](marginal-l1-glosses-improve-fill-in-blank-vocabulary.md) — related
 - [Vocabulary gains from the didactic model emerged only at post-test, supported by contextual-clue strategies](didactic-model-vocabulary-delayed-gains.md) — related
+- [Indirect vocabulary learning strategies (Organizing and Discussing your Feelings with Someone Else) did not significantly improve vocabulary acquisition of pre-intermediate EFL learners](indirect-strategies-no-significant-improvement-pre-intermediate.md) — related
+- [Direct vocabulary learning strategies (Structured Reviewing and Using Mechanical Techniques) significantly improve vocabulary acquisition of pre-intermediate EFL learners](direct-strategies-improve-vocabulary-acquisition-pre-intermediate.md) — related

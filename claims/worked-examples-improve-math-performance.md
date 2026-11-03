@@ -85,3 +85,4 @@ The current page supports a moderate claim about mathematics performance, not a 
 - [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](worked-examples-better-than-problem-solving-cited.md) — a broader claim this one bears on
 - [Studying incorrect worked examples during algebra practice did not improve post-test learning overall relative to correct worked examples or problem-solving alone](incorrect-examples-no-overall-learning-effect.md) — related
 - [Prior laboratory research shows interleaving worked examples with problems improves learning for novices](interleaved-worked-examples-novice-lab-findings.md) — related
+- [Problem-solving teaching shows a moderately high effect size of ES = 0.61, specifically linked to math skill performance](problem-solving-teaching-moderate-high-effect.md) — related

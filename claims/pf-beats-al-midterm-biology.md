@@ -49,3 +49,4 @@ Linear regression predicting Midterm 2 condition-topic scores (0–100) for 295 
 - [Low-achieving students gained the most from PF on the midterm, scoring about eight points higher than AL peers](pf-largest-gain-low-achievers-midterm.md) — a narrower finding that bears on this claim
 - [PF still showed a positive, significant effect for combined medium- and high-achieving students on the midterm](pf-effect-med-high-combined.md) — a narrower finding that bears on this claim
 - [PF advantage on condition topics did not reach significance on the final exam overall](pf-final-exam-null-overall.md) — related
+- [Daily assessments improved final exam performance on five of eight topics](daily-assessments-improved-final-exam-topics.md) — related

@@ -50,3 +50,5 @@ Cognitive consequences study from the author's lab comparing pretest-to-posttest
 - [Effects of two-dimensional mental rotation training on children's mathematics performance are mixed, with significant correlations between rotation and mathematics measures](2d-rotation-training-math-effects-mixed.md) — related
 - [Spatial ability correlates with educational performance across many STEM disciplines and sub-disciplines](spatial-ability-correlates-stem-performance.md) — related
 - [Tetris cognitive gains mostly appear on tests resembling the game itself, with training studies finding no gains on general cognitive tasks](tetris-gains-test-resemblance-only.md) — related
+- [A single session of mental rotation training improves math calculation performance in 6- to 8-year-olds](mental-rotation-training-improves-math-calculation-children.md) — related
+- [Mental rotation training did not generalize to a broader spatial relations test](no-transfer-spatial-relations-pma.md) — related

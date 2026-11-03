@@ -105,3 +105,4 @@ Youth focus group accounts in Section II.C; one student said breath to focus hel
 - [Teachers promoted inclusive classroom environments by organizing time and space and fostering peer inclusion](inclusive-environment-time-space-peer-inclusion.md) — related
 - [Qualitative studies depict teachers as emotional socialisers whose modelling, warmth, and structure are perceived to foster students' SEC and classroom engagement](qualitative-teacher-emotional-socialiser-perceptions.md) — related
 - [Classroom-level teacher structure is linked with students' behavioral, cognitive and emotional engagement in language classes](classroom-structure-linked-three-engagement-components.md) — related
+- [Homeschooling supports learning through one-to-one support, safe environments, and special-needs accommodation](homeschooling-three-learning-dimensions.md) — related

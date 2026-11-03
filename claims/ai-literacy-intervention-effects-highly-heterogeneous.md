@@ -60,3 +60,4 @@ Heterogeneity assessment within the same three-level meta-analysis. All variance
 - [Quality of technology integration varies substantially across lessons, with most variance unexplained by teacher traits or time course](tech-integration-quality-varies-across-lessons.md) — related
 - [Effects of the 5E model on science outcomes are highly heterogeneous, with a 95% prediction interval spanning −0.38 to 1.92](5e-science-effect-heterogeneity.md) — a narrower finding that bears on this claim
 - [Between-study heterogeneity in LLM dental-question accuracy is very high (I² = 91.5%), with a prediction interval spanning 29.65% to 91.71%](high-heterogeneity-llm-dental-accuracy.md) — related
+- [High heterogeneity (I-squared = 100.0%) across reconfigured teaching strategy effect sizes indicates substantial variation](high-heterogeneity-teaching-strategies.md) — related

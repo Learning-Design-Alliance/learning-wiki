@@ -53,3 +53,4 @@ The review reports, citing Bradshaw, Waasdorp, and Leaf (2012), direct effects o
 - [SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline](swpbis-effects-greatest-at-risk-high-risk-children.md) — related
 - [Teacher-rated bullying and peer rejection rose over four years of elementary school in both SWPBIS and comparison schools](bullying-rejection-increase-approaching-middle-school.md) — reports the opposite
 - [PBIS improves staff-reported overall school organizational health, resource influence, staff affiliation, and academic emphasis over a 5-year randomized trial](pbis-improves-organizational-health-dimensions.md) — a narrower finding that bears on this claim
+- [SW-PBIS is theorized to improve academic achievement indirectly by reducing problem behavior and lost instructional time](swpbis-theorized-mechanism-reduced-problem-behavior-instructional-time.md) — related

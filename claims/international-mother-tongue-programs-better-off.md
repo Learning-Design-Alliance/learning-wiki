@@ -48,5 +48,5 @@ A narrative-review statement in the literature review chapter, describing cross-
 - [The review reports that children who begin their education in their mother tongue make a better start and continue to perform better than those who start school in a new language](mother-tongue-better-start-better-performance.md) — related
 - [Preservation of the mother tongue predicts second-language achievement among migrant children](mother-tongue-preservation-predicts-l2-achievement.md) — related
 - [Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures](mead-mother-tongue-status-affects-bilingual-learning.md) — related
-- [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
+- [Reviews and clinical guidance recommend supporting a bilingual student's heritage language alongside English; no study cited here tests whether doing so aids English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
 - [A learner's mother language affects second language acquisition, particularly in production of absent sounds](mother-tongue-affects-sla-production.md) — related

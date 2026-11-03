@@ -48,6 +48,7 @@ The article recommends that "in place of employing short-term interventions in t
 - [Prioritize sustained, pedagogically grounded faculty TPACK development over one-off technology workshops and infrastructure investment](sustained-faculty-tpack-development-programs.md)
 - [Evaluate satisfaction with the learning experience separately from satisfaction with the learning outcome](evaluate-experience-and-outcome-satisfaction-separately.md)
 - [Spread OPS-English teaching throughout the school year rather than compressing it into six months](spread-ops-english-throughout-school-year.md)
+- [Assign take-home copies of modelling videos for periodic review over two months](take-home-modelling-video-homework.md)
 
 ## Examples
 -

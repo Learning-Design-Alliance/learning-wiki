@@ -147,3 +147,6 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 - [Clicker use improved high school Geometry students' scores on warm-up and homework quizzes reviewing previously learned content](clickers-improve-review-quiz-scores-geometry.md) — related
 - [Quiz-and-reflection and extended-quiz conditions show no significant difference in unit exam performance](quiz-reflection-vs-extended-quiz-unit-exam-no-difference.md) — related
 - [After approximately 12 weeks of embedded support, underprepared students significantly outperformed college-ready peers on late-semester common questions](late-semester-underprepared-outperform-college-ready.md) — a narrower finding that bears on this claim
+- [Replacing daily homework with daily assessments improved course grade distributions in principles of financial accounting](daily-assessments-improved-course-grades.md) — a narrower finding that bears on this claim
+- [Daily assessments improved final exam performance on five of eight topics](daily-assessments-improved-final-exam-topics.md) — a narrower finding that bears on this claim
+- [Before-class online quizzes were used to ensure preparation and to launch class discussion](pre-class-quizzes-launch-discussion.md) — related

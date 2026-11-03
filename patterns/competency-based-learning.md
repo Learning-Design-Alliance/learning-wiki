@@ -25,7 +25,7 @@ sources:
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 71 claims (27 for, 37 mixed, 7 against) · 71 studies (20 causal, 13 quant-synthesis, 10 review, 9 associational, 7 design, 6 qualitative, 6 theoretical), `q1`–`q4` · 13 of 71 report an effect size · 63 claims rest on one study
+> **Evidence** · 72 claims (28 for, 37 mixed, 7 against) · 72 studies (21 causal, 13 quant-synthesis, 10 review, 9 associational, 7 design, 6 qualitative, 6 theoretical), `q1`–`q4` · 13 of 72 report an effect size · 64 claims rest on one study
 
 ## Description and scope
 
@@ -152,6 +152,7 @@ Added 2026-10-17 after a search for competency-based, mastery-based and self-pac
 - [Student-driven, independent study is the dominant mode in online charter schools, a third offering only self-paced instruction](../claims/online-charters-dominant-independent-study-mode.md) [~W] — prevalence, not effect
 - [Online attrition in an orientation week was twice that of on-ground first weeks](../claims/orientation-week-attrition-double-online.md) [~M] — continuing-education online classes; bears on the first contact in a self-paced programme
 - [Career coaches appeared to expand exposure to and completion of community-college health sciences programmes](../claims/coaching-expanded-program-exposure-completion.md) [+W] — associational
+- [The three pilots shared online technology for mastery pathways, credit for demonstrated mastery, anytime/anywhere learning, and improved data management](../claims/proficiency-pilots-shared-design-attributes.md) [+M] — attached 2026-11-03 from Lewis et al. (2013), which proposed "Proficiency-based systems award credit for demonstrated mastery rather than seat time, allowing students to progress at their own pace".
 
 ## Illustrative design instance and observation record
 

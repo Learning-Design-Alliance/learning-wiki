@@ -31,7 +31,7 @@ sources:
 # Assessment for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (15 for, 13 mixed, 2 against) · 36 studies (13 causal, 8 quant-synthesis, 5 review, 5 theoretical, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 8 of 36 report an effect size · 23 claims rest on one study
+> **Evidence** · 31 claims (16 for, 13 mixed, 2 against) · 37 studies (13 causal, 8 quant-synthesis, 5 review, 5 theoretical, 3 associational, 2 qualitative, 1 design), `q1`–`q4` · 8 of 37 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -117,6 +117,7 @@ Revise it if comparable learners using criteria-based self-assessment with a rev
 - [Actionable and descriptive feedback moves student learning forward, and effective feedback differs from less-effective feedback on identifiable qualities](../claims/actionable-descriptive-feedback-moves-learning-forward.md) [~W]
 - [Descriptively, monitoring interventions with teacher feedback on entries and direct revision opportunities showed higher effects](../claims/teacher-feedback-and-revision-descriptive-advantage.md) [~W]
 - [Interviewed experimental students overwhelmingly reported liking formative evaluation and improved learning, and no longer feared tests](../claims/interviews-students-favor-formative-evaluation.md) [+W]
+- [Experts supported needs-based instruction informed by ongoing observation and assessment](../claims/experts-support-needs-based-instruction-ongoing-assessment.md) [+W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

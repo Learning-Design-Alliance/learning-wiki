@@ -54,3 +54,6 @@ One-way ANOVA on the 15-item achievement pretest administered before the five-we
 - [Game-based and traditional-instruction students show no significant difference in learning achievement at pre-test](game-vs-traditional-no-pretest-difference-system-analysis.md) — related
 - [Experimental and control groups were equivalent before treatment on both annual examination and pretest scores](groups-equivalent-at-baseline.md) — related
 - [Treatment and comparison groups showed no prior differences in physics and chemistry achievement before the intervention](absi-groups-equivalent-prior-achievement.md) — related
+- [Experimental and control groups showed equivalent mathematics achievement before instruction](pretest-equivalence-math-groups.md) — related
+- [Pretest scores showed the two groups were statistically equivalent before the intervention](pretest-equivalence-objectivist-constructivist-groups.md) — related
+- [No statistically significant difference in mathematics achievement between objectivist-based and constructivist-based teaching strategies](no-significant-difference-objectivist-constructivist-online-math.md) — related

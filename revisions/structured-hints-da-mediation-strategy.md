@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/structured-hints-da-mediation-strategy.md
+---
+
+# Revision history: [strategies/structured-hints-da-mediation-strategy](../strategies/structured-hints-da-mediation-strategy.md)
+
+### 2026-11-03 · ingest · process:wiki-ingest
+Ingested from eric-ej1127103 (Dynamic Assessment of Incidental Vocabularies: A Case of Iranian ESP Learners) via eval_harness.py + ingest_extractions.py

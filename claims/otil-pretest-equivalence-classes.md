@@ -53,3 +53,4 @@ Independent-Samples T-test on pre-test means of the two intact classes (46 stude
 - [The treatment and control groups had equivalent vocabulary sizes at pre-test](equivalent-vocabulary-sizes-at-pretest.md) — related
 - [The experimental and comparison classes were equivalent in reading level before the experiment](pretest-equivalence-reading-classes.md) — related
 - [Initial physics ability differed between the two experimental groups before treatment](initial-ability-difference-between-groups.md) — related
+- [Treatment and contrast groups showed no significant differences in listening ability before instruction](no-pretest-group-differences.md) — related

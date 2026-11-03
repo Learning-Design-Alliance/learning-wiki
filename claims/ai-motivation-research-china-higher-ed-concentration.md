@@ -91,3 +91,4 @@ Charted educational levels of the 156 included studies. The review reports highe
 - [Educational outcome research for autistic students is geographically concentrated in North America and Europe, with no disciplinary or attendance items from Asia or South America](autism-outcome-research-geographic-concentration.md) — related
 - All eight included studies were cross-sectional, conducted in Asia, and most lacked a comparator — related
 - More than half of the included records were published by authors in the United States, with no records originating from South American or African countries. — related
+- [Most homeschooling research settings are concentrated in the United States](homeschooling-research-us-dominance.md) — a narrower finding that bears on this claim

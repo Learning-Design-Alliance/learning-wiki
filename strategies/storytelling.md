@@ -59,9 +59,11 @@ Narratives are remembered better than equivalent non-narrative expositions becau
 5. Follow with application: learners solve a parallel case, retell the story in their own words, or construct a new story for a related concept ([Case Studies](../elements/case-studies.md), [Application](../elements/application.md)).
 
 ## Related Strategies
+
 - [Case-Based Learning](../patterns/case-based-learning.md) — the case is a factual cousin of the story; both organize content around a situated episode
 - [Anchored Instruction](../patterns/anchored-instruction.md) — instruction anchored in a narrative-rich problem context learners return to repeatedly
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — stories are an effective activation vehicle because they cue experiential knowledge
+- [Use narrative story structure to ease student tension and increase relevance when teaching sensitive health topics](narrative-structure-eases-tension-sensitive-health-topics.md)
 
 ## Examples
 - **Storyline method (Scottish primary curriculum)** — whole units organized around a fictional community whose unfolding problems require the target content (e.g., a town planning a harbor forces measurement and mapping work).

@@ -72,3 +72,4 @@ Within-group paired comparison in the same quasi-experiment: the experimental gr
 - [Delayed post-test performance of feedback recipients still exceeds control group post-test performance](wcf-delayed-still-exceeds-control.md) — related
 - [Post-presentation input flooding via reading significantly improves simple past tense recognition scores relative to traditional instruction](post-presentation-flooding-improves-past-tense-recognition.md) — a narrower finding that bears on this claim
 - [Pre-presentation input flooding via reading significantly improves young EFL learners' simple past tense recognition scores relative to traditional instruction](pre-presentation-flooding-improves-past-tense-recognition.md) — a narrower finding that bears on this claim
+- [Input flood may be just as salient and beneficial as input enhancement for short, simplified texts.](input-flood-as-salient-as-input-enhancement.md) — related

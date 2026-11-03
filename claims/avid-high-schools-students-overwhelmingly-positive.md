@@ -48,3 +48,4 @@ Summary of findings across the 32 surveyed CPS AVID schools, comparing student a
 - [Even students in lowest-rated AVID schools are fairly positive, though only half would recommend AVID to friends](avid-lowest-schools-students-fairly-positive.md) — related
 - [AVID students in CPS report extremely high satisfaction with the program](avid-students-extremely-satisfied-cps-2007.md) — related
 - [Small gaps in AVID experiences by gender, achievement, and grade, with girls, lower achievers, and tenth graders more positive](avid-small-gaps-gender-achievement-grade.md) — related
+- [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related

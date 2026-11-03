@@ -48,3 +48,4 @@ Quasi-experimental study of 128 fourth-grade students (54 boys, 74 girls) who vi
 - [Before the museum visit, students did not know that elephants lived in Anatolia, and the activities increased their awareness of their country's natural heritage](students-unaware-anatolian-elephants-awareness-increased.md) — related
 - [School museum visits are generally conducted as classical tour-and-leave visits, while thematic museum visits are scarce in Turkey](thematic-museum-visits-scarce.md) — related
 - [Two-dimensioned artistic activities were the most creative and most enjoyed part of the museum education program, letting students express feelings and thoughts](artistic-activities-most-creative-enjoyed.md) — related
+- [Virtual museum application significantly improved open education students' attitudes toward history lessons.](virtual-museum-application-improves-history-attitudes.md) — related

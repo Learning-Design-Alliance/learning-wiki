@@ -69,3 +69,5 @@ Friedman test comparing NoM categories within the L1; significant differences (�
 - [Strategy-specific effects: time affects self-repetitions and marginally clarification requests; proficiency pairing affects confirmation checks and negative feedback; language affects other-repetitions and negative feedback](strategy-specific-factor-effects.md) — related
 - [Clarification requests show a three-way interaction of proficiency pairing, time and language, declining over time only in matched dyads and in the L1](clarification-requests-three-way-interaction.md) — related
 - [Meaning negotiation is the most frequent form of interactional feedback in naturalistic conversation partner interaction, and explicit correction does not occur](meaning-negotiation-dominates-no-explicit-correction.md) — related
+- [Student L2 proficiency shapes L1 switching, with low-proficiency learners benefiting from L1 to reduce anxiety](student-proficiency-drives-l1-switching.md) — related
+- [Four factors affect teachers' and learners' language choices in L2 classes](four-factors-affecting-l1-use.md) — related

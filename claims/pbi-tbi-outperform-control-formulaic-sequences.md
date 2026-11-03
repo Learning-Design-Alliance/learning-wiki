@@ -53,3 +53,5 @@ Quasi-experiment with 48 Vietnamese EFL students in three intact classes (CT N=1
 - [TBI outperformed PBI on delayed Form and Meaning Recall of Repeating chunks; on immediate Form Recognition of Non-repeating chunks the two treatments scored almost the same](tbi-surpasses-pbi-two-cases.md) — related
 - [Form Recognition scores exceed Form and Meaning Recall scores for all three groups on both post-tests](recognition-exceeds-recall-formulaic-sequences.md) — related
 - [No significant difference in immediate Form Recognition of Repeating patterns among the three groups](no-significant-immediate-difference-repeating-recognition.md) — related
+- [Explicit teaching of formulaic sequences added to a traditional coursebook course produces significantly better receptive form-meaning learning than traditional coursebook instruction alone, with large effect sizes.](explicit-fs-teaching-beats-coursebook-only.md) — related
+- [Explicit teaching combined with incidental exposure to formulaic sequences in the coursebook is superior to traditional coursebook instruction alone in a classroom setting.](explicit-plus-incidental-fs-superior.md) — related

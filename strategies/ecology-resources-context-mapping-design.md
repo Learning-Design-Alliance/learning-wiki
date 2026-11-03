@@ -49,6 +49,7 @@ The article recommends using the framework during design to map potential resour
 ## Related Strategies
 
 - [Discovery-phase data collection: surveys, listening sessions, and project inventories to map the current system](discovery-phase-data-collection-tools.md)
+- [ICT can strengthen homeschooling through learning communities and resource access](ict-homeschooling-learning-community-strategy.md)
 
 ## Examples
 -

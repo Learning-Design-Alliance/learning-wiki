@@ -84,3 +84,4 @@ The article's stated description of the two programs' purpose and mechanism: enh
 - [Agency data-use profiles were developed from fall and winter 2013–14 site visit interviews](profiles-from-site-visit-interviews-2013-14.md) — related
 - [Alder operates a continuous improvement cycle using multiple data sources documented in an Annual Data Cycle Calendar and public Annual Program Assessment Report](alder-annual-data-cycle-improvement.md) — related
 - [Support for data-driven instruction did not increase key data-related activities despite additional resources and emphasis](data-driven-instruction-support-did-not-increase-data-activities.md) — related
+- [Three proficiency-based pilot programs implemented the design principles differently, with a strong data management system as a common thread](proficiency-pilots-varied-implementation-data-management-common-thread.md) — related

@@ -49,3 +49,4 @@ The editorial summarizes special-issue results for LLM-based feedback in data sc
 - [GenAI is reshaping assessment practices in computer science education through automation, scalability, and personalized feedback](genai-reshaping-cs-assessment-automation-scalability-feedback.md) — a broader claim this one bears on
 - [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related
 - [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — related
+- [Active-learning sequence improved student engagement](active-learning-improved-student-engagement.md) — related

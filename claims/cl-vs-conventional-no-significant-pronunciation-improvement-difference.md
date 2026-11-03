@@ -52,3 +52,4 @@ Quasi-experiment with pre-post two-treatment design: 19 ELLs taught pronunciatio
 - [One month of playing the digital information gap game PàN produced no statistically significant improvement in FSL learners' comprehensibility, fluency, or overall pronunciation](pan-game-no-significant-pronunciation-gains.md) — related
 - [Cooperative Learning activities improve EFL university students' oral fluency of speaking compared with conventional instruction](cooperative-learning-activities-improve-efl-oral-fluency.md) — reports the opposite
 - [Non-cooperators were far less likely to score below 70% overall in the course (9.1% vs 38.8% of Cooperators)](low-scorers-breakdown-by-game-choice.md) — related
+- [Students reverted to previous pronunciation habits in routine classroom instruction despite test performance gains](aam-gains-not-maintained-routine-classroom.md) — related

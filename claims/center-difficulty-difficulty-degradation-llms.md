@@ -69,3 +69,4 @@ Difficulty-based analysis of Skills scores averaged across models (Figure 6a), w
 - [LLM difficulty labels track structural question features: stem length, option length, and digits in stems rise monotonically across Easy, Medium, and Hard labels](llm-difficulty-labels-track-structural-item-features.md) — related
 - [Success rates decrease monotonically from easy to medium to hard difficulty levels across all models](monotonic-difficulty-decline-turtleai.md) — related
 - [Model performance varies by task category, with Basic Geometry easiest and Spiral consistently the most challenging category](spiral-hardest-basic-geometry-easiest-categories.md) — related
+- [Word difficulty varies: short familiar-format words are easiest and abstract words hardest](word-difficulty-varies-across-target-words.md) — related

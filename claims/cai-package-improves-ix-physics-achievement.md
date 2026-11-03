@@ -53,3 +53,5 @@ Pretest-posttest equivalent groups experiment with two Madurai schools; 40 exper
 - [Standard IX students taught with an interactive multimedia learning package show significantly higher post-test attitude towards mathematics than students taught by the traditional method](multimedia-package-higher-posttest-attitude-mathematics.md) — related
 - [Multimedia modular instruction produces significantly higher speaking-skill post-test scores than traditional method among student-teachers.](multimedia-modular-approach-improves-speaking-skill.md) — related
 - [E-learning-enriched physics teaching significantly improved scientific thinking scores from pre-test to post-test in the experimental group of intermediate girls](e-learning-enrichment-improves-scientific-thinking-pre-post.md) — related
+- [Standard VI pupils learning English vocabulary through a multimedia e-TLM package showed significant pretest-to-posttest achievement gains](e-tlm-vocabulary-significant-gains-standard-vi.md) — related
+- [Control group taught with conventional TLM showed no significant pretest-to-posttest difference in vocabulary achievement](conventional-tlm-no-significant-gain.md) — related

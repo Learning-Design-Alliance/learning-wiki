@@ -51,3 +51,4 @@ Geographic coding of the 112 included items. The review reports that "most were 
 - [Adoption of Wikipedia assignments shows a global digital divide, concentrated in English-speaking countries](wikipedia-assignments-global-digital-divide.md) — related
 - Educational outcome research for autistic students has predominantly focused on academic achievement, with few items investigating disciplinary or attendance outcomes — related
 - All eight included studies were cross-sectional, conducted in Asia, and most lacked a comparator — related
+- [Most homeschooling research settings are concentrated in the United States](homeschooling-research-us-dominance.md) — a narrower finding that bears on this claim

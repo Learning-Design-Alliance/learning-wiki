@@ -72,6 +72,7 @@ Digital storytelling is a generative learning activity: transforming content int
 - [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](common-tools-ctml-lesson-workflow.md)
 - [Use multimedia and real models alongside 5E activities, and assign homework for the enter and evaluation phases to save time](multimedia-and-homework-for-5e-phases.md)
 - [Use integrated-skills project work on environmental topics to raise awareness and language skills](integrated-skills-project-work-environmental-topics.md)
+- [Use narrative story structure to ease student tension and increase relevance when teaching sensitive health topics](narrative-structure-eases-tension-sensitive-health-topics.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — the story is an authentic application of content knowledge

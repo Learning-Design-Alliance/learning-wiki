@@ -52,3 +52,4 @@ Meta-analysis of 10 studies evaluating practical skills (898 participants, 449 p
 - [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](flipped-classroom-higher-student-satisfaction-medical-education.md) — related
 - [Flipped classroom design features — start-of-class quizzes, patient case discussion, and short pre-class videos — are each associated with advantages over traditional teaching](flipped-pharmacy-design-features-subgroups.md) — related
 - [Flipped classroom combined with active-learning activities yields higher pooled exam scores than flipped classroom with minimal discussion in introductory A&P](flipped-active-learning-higher-pooled-exam-scores-ap.md) — related
+- [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](flipped-classroom-two-components.md) — related

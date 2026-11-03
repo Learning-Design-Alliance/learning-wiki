@@ -54,3 +54,5 @@ Same quasi-experimental pretest-posttest study (N=48, two intact classes); Mann-
 - [POGIL instruction produces significantly higher posttest critical thinking skills than traditional lecture among preservice elementary teachers](pogil-raises-posttest-critical-thinking-preservice-elementary-teachers.md) — related
 - [POGIL and traditional-lecture groups showed no significant pretest differences in critical thinking or problem solving skills](pogil-study-pretest-equivalence-cts-pss.md) — related
 - [Computer-Based Problem Solving produced significantly higher HOTS post-test scores than expository learning among prospective primary teachers](cbps-significant-hots-gain-prospective-teachers.md) — related
+- [Reflective learning produces significantly higher mean gains in conceptual understanding than lecture-discussion among prospective teachers](reflective-learning-higher-conceptual-understanding-gains.md) — related
+- [Reflective learning produces significantly higher mean gains in problem solving than lecture-discussion](reflective-learning-higher-problem-solving-gains.md) — related

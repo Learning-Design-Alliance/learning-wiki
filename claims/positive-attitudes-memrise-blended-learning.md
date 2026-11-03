@@ -50,3 +50,4 @@ Qualitative open-thematic coding of semi-structured interviews with 5 experiment
 - [Blended instruction produced more positive attitudes toward music learning than face-to-face instruction](blended-music-course-more-positive-attitudes-than-ftf.md) — related
 - [Participants in the experimental group held positive attitudes toward explicit instruction of lexical chunks](positive-attitudes-toward-lexical-chunks-instruction.md) — related
 - [Almost all interviewed students held positive attitudes toward Web 2.0 tools for vocabulary learning](web2-vocabulary-positive-attitudes-interviews.md) — related
+- [ESL learners trained in metacognitive strategies hold more positive views of the strategies' effectiveness than untrained peers](trained-esl-learners-positive-views-metacognitive-strategies.md) — related

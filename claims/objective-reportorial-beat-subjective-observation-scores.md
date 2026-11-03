@@ -66,3 +66,4 @@ Tukey HSD post hoc test on the same observation data (N = 43). Means were 4.07 (
 ## Related Claims
 - [Written quiz scores did not differ significantly among the three point-of-view groups, though the reportorial group had the highest mean](quiz-scores-no-significant-pov-difference.md) — related
 - [The reportorial view was the only condition in which participants scored well on both hands-on demonstration and written comprehension](reportorial-only-group-strong-on-both-measures.md) — related
+- [The F-Ratio from Repeated Measures ANOVA was significant (p < .001) for the overall observation score and for each composite score (N = 40) for the five observations.](pd-improved-instructional-practices-equip.md) — related

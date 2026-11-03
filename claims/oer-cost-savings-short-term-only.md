@@ -53,3 +53,4 @@ Authors' argument in the Application section: because the cost of textbooks has 
 - [Concerns about whether OER decrease the effectiveness of student learning remain unsolved](oer-effectiveness-concerns-unsolved.md) — reports the opposite
 - [Across 2002-2018, OER efficacy research consistently shows that OER does not harm student learning, with a small positive impact.](oer-does-not-harm-learning-aggregate.md) — related
 - [Relative advantage of OER alone will not lead to rapid adoption, especially if framed as cost savings](relative-advantage-alone-insufficient-for-oer-adoption.md) — related
+- [Incorporating OER is widely accepted as sufficient to confer 'open' status on educational practice](oer-sufficient-for-open-status.md) — related

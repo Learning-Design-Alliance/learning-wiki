@@ -78,3 +78,5 @@ Quasi-experimental post-test control group study with 25 experimental and 25 con
 - [Grade 11 ESL learners who received explicit reading strategy instruction achieved statistically and practically significantly higher reading comprehension scores than control-group learners](strategy-instruction-improves-grade11-esl-reading-comprehension.md) — related
 - [Visualisation strategies significantly improve L2 students' spelling skills compared to traditional memorisation methods.](visualisation-strategies-improve-l2-spelling-skills.md) — related
 - [Students trained in visualisation strategies show greater weekly improvement in words memorised than control students.](visualisation-strategies-improve-weekly-word-retention.md) — related
+- [Explicit metacognitive strategy instruction increases ESL learners' use of monitoring and assessment strategies but not planning strategies](metacognitive-instruction-increases-monitoring-assessment-not-planning.md) — related
+- [Explicit metacognitive strategy instruction improves ESL reading comprehension performance](metacognitive-strategy-instruction-improves-esl-reading-comprehension.md) — related

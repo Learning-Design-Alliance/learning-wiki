@@ -51,3 +51,4 @@ The review reports, citing two meta-analyses (Tobler 1986; Bangert-Drowns 1988) 
 - [Mandatory-random student drug testing reduces high school students' reported past-30-day substance use relative to schools without MRSDT](mrsdt-reduces-past-30-day-substance-use.md) — related
 - [Environmentally focused interventions appear to be particularly effective for reducing delinquency and drug use](environmentally-focused-interventions-delinquency-drug-use.md) — related
 - [No school-based intervention model for students already using substances was found: all examined models were preventive or protective in approach](no-corrective-school-substance-model-exists.md) — related
+- [One Life participation reduces 30-day alcohol use among at-risk rural youth](one-life-reduces-30-day-alcohol-use-rural-youth.md) — related

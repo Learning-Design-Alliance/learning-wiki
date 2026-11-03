@@ -13,7 +13,7 @@ generated:
 # In-Class Activities
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (8 for, 1 mixed) · 15 studies (5 quant-synthesis, 3 causal, 3 design, 2 theoretical, 1 review, 1 associational), `q1`–`q4` · 8 of 15 report an effect size · 5 claims rest on one study
+> **Evidence** · 10 claims (9 for, 1 mixed) · 16 studies (5 quant-synthesis, 4 causal, 3 design, 2 theoretical, 1 review, 1 associational), `q1`–`q4` · 8 of 16 report an effect size · 6 claims rest on one study
 
 ## Description
 In-class activities are structured tasks — problem solving, discussions, simulations, peer instruction, case analysis — that require learners to actively generate, apply, or critique content during class time rather than passively receive it. They shift class time from information transmission to supervised application, with the instructor acting as facilitator and feedback source.
@@ -58,6 +58,7 @@ Structured in-class activities improve exam performance and reduce failure rates
 - [Three mathematics teacher educators all foregrounded engagement-focused teaching-and-learning activities, variously hands-on problem-solving and group work, collaboration, and student demonstrations with class discussion](../claims/teacher-educators-foreground-engagement-tlas.md) [+W]
 - [Hands-on engagement with an AIDA beta significantly improved students' attitudes toward it, with a large effect size](../claims/aida-hands-on-use-improves-attitudes.md) [+W]
 - [During jumping task based on CPS lessons, 44% of experimental-class students were rated strongly active and 29% active by observers](../claims/observation-student-activity-jumping-task-cps.md) [+W]
+- [Class time in the flipped model was devoted to active learning activities rather than lecturing](../claims/flipped-class-time-active-learning-activities.md) [+W]
 
 ## The evidence by question
 

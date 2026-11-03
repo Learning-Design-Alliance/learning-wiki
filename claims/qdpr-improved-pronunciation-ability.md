@@ -49,3 +49,4 @@ Oral reading test: participants read aloud a 405-word passage; two senior EFL le
 - [QDPR accounted for 53% of variance in phoneme knowledge and 24% of variance in pronunciation ability in simple regressions](qdpr-regression-contributions-knowledge-ability.md) — related
 - [Common serious mispronunciations of Indonesian learners stem from absent L1 phonemes and different sound categorisation in the L1](l1-absence-and-categorization-cause-mispronunciations.md) — related
 - [Indonesian EFL teachers and students perceived segmentals (consonants and vowels) as the top priority for pronunciation teaching, contrary to the suprasegmental trend](segmentals-prioritized-by-indonesian-efl-teachers-students.md) — related
+- [Theta /theta/ sounds were pronounced more accurately than eth /eth/ sounds across all tests](theta-more-accurate-than-eth.md) — related

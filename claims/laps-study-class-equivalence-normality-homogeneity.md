@@ -63,3 +63,4 @@ Equivalence testing on UAS end-of-semester Introduction to Economics and Busines
 - [The experiment and control groups were equivalent on the triangles achievement test before instruction](triangles-pretest-equivalence-groups.md) — related
 - [Experimental and control groups showed no significant pre-test difference before the intervention](cct-pretest-equivalence.md) — related
 - [Experimental and control groups were equivalent in oral fluency before the intervention](efl-fluency-pretest-group-equivalence.md) — related
+- [Pretest scores showed the two groups were statistically equivalent before the intervention](pretest-equivalence-objectivist-constructivist-groups.md) — related

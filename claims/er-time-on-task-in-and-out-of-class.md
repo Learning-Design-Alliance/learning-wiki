@@ -66,3 +66,5 @@ Analysis of 89 retrieved self-reported student reading record sheets from the 10
 - [Self-reported out-of-class ER time correlates almost perfectly with observed in-class time on task](self-reported-reading-correlates-in-class-time-on-task.md) — related
 - [EFL learners in an enhanced extensive reading treatment group significantly outperform a control group on five of six writing subscales](er-treatment-outperforms-control-five-writing-subscales.md) — related
 - [Graded readers motivated adult Hispanic ESL students to read books of different genres inside and outside the classroom, without grade incentives](graded-readers-motivate-voluntary-reading.md) — possibly the same claim (merge candidate)
+- [Short in-class SSR may not increase out-of-class reading for learners lacking intrinsic motivation](short-ssr-limited-out-of-class-reading.md) — reports the opposite
+- [Weekly word-targets increased reading amount during treatment more than SSR or verbal encouragement in Japanese EFL learners](word-targets-increase-treatment-reading-amount.md) — related

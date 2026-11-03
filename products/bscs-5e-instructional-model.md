@@ -50,7 +50,8 @@ A Biological Science Curriculum Study framework for sequencing instruction throu
 - [Animation-supported 5E instruction produced significantly higher retention scores than the current programme five weeks after implementation](../claims/animation-5e-higher-retention-scores.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [4Ex2 Instructional Model](4ex2-instructional-model.md)
 
 ## Key Sources
 - Özgür Anil, Veli Batdi. (2015). A Comparative Meta-Analysis of 5E and Traditional Approaches in Turkey. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v3i6.1038

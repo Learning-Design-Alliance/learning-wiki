@@ -53,3 +53,4 @@ Heterogeneity tests of the two outcome variables (Table 4: Q = 524.68, p < 0.000
 - [The effect sizes of drama-based social studies instruction are highly heterogeneous across studies](drama-social-studies-effect-sizes-heterogeneous.md) — related
 - [Feedback has a medium overall effect on student learning (d = 0.48 after outlier removal) with substantial heterogeneity](feedback-medium-overall-effect-d048-heterogeneous.md) — related
 - [Problem-based learning shows a large positive pooled effect on academic achievement (REM ES = 1.560), with heterogeneous study effects](pbl-large-positive-effect-academic-achievement.md) — related
+- [High heterogeneity (I-squared = 100.0%) across reconfigured teaching strategy effect sizes indicates substantial variation](high-heterogeneity-teaching-strategies.md) — related

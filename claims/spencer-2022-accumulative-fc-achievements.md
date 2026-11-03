@@ -50,3 +50,4 @@ Review's account of a secondary relational finding from Spencer et al.'s (2022) 
 - [A blended/hybrid flipped calculus course with an FC Orientation module improved student learning performance and perceptions significantly over the traditional lecture format](spencer-2022-hybrid-fc-improved-performance.md) — related
 - [In-class chat engagement significantly predicts higher test scores in MAIC courses](chat-engagement-predicts-test-scores.md) — related
 - [SRL support modules (progress dashboard and reflection prompts) in a flipped unit produced higher SRL skills, engagement, and learning performance than control](yoon-2021-srl-modules-fc-benefits.md) — related
+- [After-class reflection in an online discussion forum and group project work supplemented the flipped cycle](after-class-reflection-and-group-projects.md) — related

@@ -178,3 +178,4 @@ The article reports this as a summary of a recent National Academies consensus s
 - [First-year engineering students taught integration through group work achieved higher average exam performance ratios than a comparable class taught traditionally](group-work-higher-integration-performance-ratio.md) — a narrower finding that bears on this claim
 - [A larger share of the group-work class (47.8%) than the control class (37.5%) scored better on integration questions than on the rest of the exam](group-work-larger-share-better-integration.md) — a narrower finding that bears on this claim
 - [Traditional teaching produced normalized gains of only 7–14% while the P&E method with new study materials reached 45%](traditional-low-gain-versus-pe-45-percent.md) — related
+- [Class time in the flipped model was devoted to active learning activities rather than lecturing](flipped-class-time-active-learning-activities.md) — a narrower finding that bears on this claim

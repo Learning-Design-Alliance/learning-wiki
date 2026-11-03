@@ -66,3 +66,4 @@ Auxiliary test of indirect paths using parametric bootstrapping, reported in the
 ## Related Claims
 - [Perceived adaptability significantly and positively predicted self-efficacy and all three engagement dimensions](adaptability-predicts-self-efficacy-and-engagement.md) — related
 - [Lockdown was significantly associated with higher disengagement (β = 0.12) but not with self-efficacy among university students](lockdown-predicts-disengagement-not-self-efficacy.md) — related
+- [Change in participants' context belief was predicted by the change in teachers' instructional practice with a low to medium Cohen (1988) effect size, with a negative β pointing out an inverse relationship.](context-belief-predicted-by-instructional-practice.md) — related

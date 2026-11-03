@@ -57,3 +57,4 @@ Two-phase exploratory study comparing instructor interviews and teaching observa
 - [Content-specific external representations increase appropriate resource use without increasing shared knowledge after collaboration](content-specific-representation-more-appropriate-resources-no-more-sharing.md) — related
 - [The report attributes to expert-novice comparisons that experts relate symptoms to inoperative system functions while novices focus on physically proximal components](expert-deep-versus-novice-surface-device-models.md) — related
 - [Support for learners who reason with external representations must be flexible enough to accommodate wide individual differences in representational knowledge](flexible-support-individual-differences-er.md) — related
+- [The form of automatically generated model-based feedback did not influence the type of representation](feedback-form-did-not-influence-representation-type.md) — related

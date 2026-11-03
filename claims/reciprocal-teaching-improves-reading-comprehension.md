@@ -84,3 +84,4 @@ Open questions include how much teacher modeling is optimal before handover, how
 - [Thorndike Scale Alpha appears to test comprehension of the questions as much as comprehension of the passage read](thorndike-scale-alpha-questions-not-passage.md) — related
 - [A meta-analysis cited as background found reciprocal teaching effects of 0.32 SD on reading tests and 0.88 SD on experimenter-developed tests](reciprocal-teaching-meta-analysis-background-effects.md) — possibly the same claim (merge candidate)
 - [Reading strategies deployed by trained learners are those linked with effective readers, while untrained learners show beginner-reader strategies](strategy-training-shifts-reading-strategies.md) — related
+- [Reciprocal teaching shows a very high effect size of ES = 0.74 on student learning](reciprocal-teaching-high-effect-size.md) — related

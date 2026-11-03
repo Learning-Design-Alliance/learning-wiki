@@ -104,3 +104,4 @@ The chapter reports Brewer and Unsworth (2012): working memory and attentional c
 - [Having more multiple-choice alternatives benefits later retention when initial retrieval success is high but hurts learning when it is low](effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success.md)
 - [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use](working-memory-mixed-moderator-interleaving.md) — related
 - [Offloading attenuates individual differences linked to unaided ability](offloading-attenuates-individual-differences.md) — related
+- [Many studied instructional variables were unrelated to student achievement](many-instructional-variables-unrelated-achievement.md) — related

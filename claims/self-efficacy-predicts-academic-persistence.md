@@ -214,3 +214,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Teachers perceived the Task-First Approach as building student persistence through productive uncertainty](task-first-builds-persistence.md) — a narrower finding that bears on this claim
 - [Teachers perceived the Teach-First Approach as better supporting less confident and lower-achieving students to be successful](teach-first-supports-lower-achievers.md) — related
 - [Homogeneous readiness-based grouping is problematic: research warns it may decrease student self-efficacy and teacher expectations](homogeneous-grouping-readiness-problematic.md) — a narrower finding that bears on this claim
+- [Change in participants' context belief was predicted by the change in teachers' instructional practice with a low to medium Cohen (1988) effect size, with a negative β pointing out an inverse relationship.](context-belief-predicted-by-instructional-practice.md) — related

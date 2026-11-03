@@ -49,3 +49,4 @@ End-of-study 10-item ATSA Likert survey administered to both 15-student classes;
 - [Online research was associated with higher creativity in student artwork, with OLC students producing more novel work with a more distinct artistic voice](olc-online-research-creativity.md) — related
 - [An online-learning component with peer discussion groups did not significantly raise eighth-grade art project scores compared with face-to-face instruction, though a small practical effect was found](olc-no-significant-art-achievement-difference.md) — related
 - [OLC students showed significantly higher engagement in art than face-to-face students](olc-significantly-higher-engagement.md) — related
+- [Experts agreed that literacy motivation and engagement are fostered through offering children choices in reading and writing](experts-agree-choice-fosters-motivation-engagement.md) — related

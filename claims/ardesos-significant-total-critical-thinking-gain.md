@@ -51,3 +51,4 @@ Repeated-measures ANOVA on the PENCRISAL total score for both instruction groups
 - [Both instruction groups improved significantly in deductive, inductive and practical reasoning and in decision-making after the ARDESOS-based intervention](ardesos-factor-level-prepost-gains.md) — a narrower finding that bears on this claim
 - [Students taught with the DIAPROVE methodology outperformed the ARDESOS-only group in deductive reasoning](diaprove-better-deductive-reasoning.md) — related
 - [The ARDESOS v.2 program significantly improved pre-to-post performance on the PENCRISAL critical thinking test across the whole scale and all factors except decision making](ardesos-v2-significant-pre-post-gains-except-decision-making.md) — a broader claim this one bears on
+- [Critical thinking scores improved significantly over time across both conditions](critical-thinking-improved-over-time-both-conditions.md) — related

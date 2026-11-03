@@ -47,3 +47,4 @@ Online survey of first-year Facebook users at a British university (213 response
 ## Related Claims
 - [Facebook acted as part of the 'social glue' helping first-year students settle into university life, though most students did not see it as crucial to overcoming loneliness.](facebook-social-glue-settling-in.md) — related
 - [Students' online and offline social worlds coexisted and were used in different ways for different relationship types, rather than one simply converting into the other.](online-offline-relationships-coexisting.md) — related
+- [One Life improves friendship development skills, particularly with the opposite sex](one-life-improves-friendship-skills.md) — related

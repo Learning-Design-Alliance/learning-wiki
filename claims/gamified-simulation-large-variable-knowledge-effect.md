@@ -53,3 +53,4 @@ Subgroup analysis of five RCTs (n=224) of gamified simulation-based learning in 
 - [Standalone serious games show large, relatively consistent effects on knowledge acquisition compared with other gamification categories](serious-games-consistent-knowledge-effects.md) — related
 - [E‐learning produces a pooled normalized knowledge gain of 26.8% in undergraduate ENT education, classified as low gain](elearning-ent-pooled-normalized-gain-26-8.md) — related
 - [Most included studies reported a positive effect of game-thinking on academic achievement](majority-studies-report-positive-effect.md) — related
+- [GSIL produced significant positive effects on knowledge acquisition across all achievement bands, largest for low achievers](gsil-significant-knowledge-gains-all-bands.md) — a narrower finding that bears on this claim

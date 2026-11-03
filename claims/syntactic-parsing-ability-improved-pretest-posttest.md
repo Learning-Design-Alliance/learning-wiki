@@ -52,3 +52,4 @@ Within-group pretest-posttest comparison for the experimental group only, using 
 - [Interviewed students held positive attitudes toward syntactic parsing instruction and reported benefits including faster reading and greater confidence with long complex sentences](positive-attitudes-toward-syntactic-parsing-instruction.md) — related
 - [Syntactic parsing ability is strongly correlated with EFL reading rate among Chinese college students in both pretest and posttest](syntactic-parsing-ability-correlates-with-efl-reading-rate.md) — related
 - [A 12-week syntactic parsing instruction produced a significantly greater reading-rate gain in the experimental group than in the control group (Cohen's d = 0.52)](syntactic-parsing-instruction-improves-efl-reading-rate.md) — related
+- [Theoretical competence improved after theory training with no significant group differences](theoretical-competence-improves-after-lecture.md) — a narrower finding that bears on this claim

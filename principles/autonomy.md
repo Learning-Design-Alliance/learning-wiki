@@ -42,7 +42,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 65 claims (30 for, 32 mixed, 3 against) · 62 studies (13 causal, 13 review, 11 associational, 9 theoretical, 6 qualitative, 6 design, 4 quant-synthesis), `q1`–`q4` · 7 of 62 report an effect size · 57 claims rest on one study
+> **Evidence** · 66 claims (31 for, 32 mixed, 3 against) · 63 studies (13 causal, 13 review, 12 associational, 9 theoretical, 6 qualitative, 6 design, 4 quant-synthesis), `q1`–`q4` · 7 of 63 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -198,6 +198,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Teachers tend to exert more control online while students are underprepared for autonomy, per cited literature](../claims/teacher-control-versus-student-autonomy-online.md) [~W]
 - [Hybrid models combining SDVT with real-time feedback may enhance learner autonomy while maintaining instructional oversight](../claims/hybrid-sdvt-rt-feedback-benefits.md) [+W]
 - [No significant difference between the models in perceived option or pressure/tension dimensions](../claims/sem-no-difference-perceived-option-pressure-tension.md) [~W]
+- [Experts agreed that literacy motivation and engagement are fostered through offering children choices in reading and writing](../claims/experts-agree-choice-fosters-motivation-engagement.md) [+W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — regular, non-controlling check-ins are a core teacher behavior of autonomy support, signaling interest rather than surveillance

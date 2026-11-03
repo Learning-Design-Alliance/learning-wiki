@@ -60,8 +60,10 @@ The strategy works because it forces learners to simulate a character's situatio
 6. Return to the text to locate evidence for the character's reasoning, connecting the discussion to close reading.
 
 ## Related Strategies
+
 - [Case-based learning](../elements/case-studies.md) — the same structure applied to professional or academic cases rather than fiction; the fiction version trades authenticity for emotional accessibility
 - [Role-play](../elements/act-it-out.md) — an embodied extension in which learners enact rather than describe their response
+- [Moral dilemma discussion with structured steps](moral-dilemma-discussion-steps.md)
 
 ## Examples
 - A middle-school ELA class reads an anonymized scenario of a character covering for a sibling's theft from *The Outsiders* (S. E. Hinton), commits to their own choice, then compares with Ponyboy's and traces the loyalty and class dynamics the text supplies.

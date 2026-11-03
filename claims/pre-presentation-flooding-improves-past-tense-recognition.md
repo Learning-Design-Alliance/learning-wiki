@@ -50,3 +50,4 @@ ANCOVA on post-test scores of 61 elementary EFL learners with pre-test as covari
 - [Pre-presentation input flooding reduces grammatical errors in dictogloss production more than post-presentation flooding](pre-presentation-flooding-reduces-dictogloss-errors.md) — related
 - [Input flood treatment improves EFL learners' collocation knowledge relative to regular instruction in both immediate and delayed post-tests](input-flood-improves-collocation-knowledge-short-and-long-term.md) — a broader claim this one bears on
 - [Field-independent learners in the input flood group outperform field-independent control learners on both post-tests](field-independent-input-flood-vs-control.md) — related
+- [Input flood may be just as salient and beneficial as input enhancement for short, simplified texts.](input-flood-as-salient-as-input-enhancement.md) — related

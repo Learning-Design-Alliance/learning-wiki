@@ -56,3 +56,4 @@ Heterogeneity analysis within the same meta-analysis of 53 studies. The article 
 - Effect sizes across the modelling study pool were heterogeneous, requiring a random-effects model — related
 - [Effect size distributions were heterogeneous for knowledge-based, ability-based, and attitude-belief outcomes but homogeneous for skill-based outcomes](problem-posing-effect-heterogeneity.md) — related
 - Effect sizes of small-group learning studies in engineering and technology education are significantly heterogeneous, justifying moderator analyses — a narrower finding that bears on this claim
+- [High heterogeneity (I-squared = 100.0%) across reconfigured teaching strategy effect sizes indicates substantial variation](high-heterogeneity-teaching-strategies.md) — related

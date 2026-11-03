@@ -49,3 +49,4 @@ Usability study in which 37 fourth, fifth, and sixth graders of varying ability 
 
 ## Related Claims
 - [In an exploratory study with 478 fifth and sixth graders, children with prompts available showed a more active and effective inquiry process than children without, with ability-related differences in prompt use](prompts-active-effective-inquiry-ability-differences.md) — related
+- [Homeschooling supports learning through one-to-one support, safe environments, and special-needs accommodation](homeschooling-three-learning-dimensions.md) — related

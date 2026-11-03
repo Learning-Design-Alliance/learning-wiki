@@ -48,3 +48,4 @@ Kwei Tan's training experiment took thirteen advanced students through repeated 
 - [Experimental studies report transfer of training across diverse operations, from sensory discrimination to memorizing](transfer-of-training-diverse-operations-review.md) — related
 - [Children's ability to discriminate between correct and incorrect answers did not change over training regardless of group](discrimination-unchanged-after-training.md) — related
 - [Errorless discrimination training avoids emotional responses and yields more effective transfer than errorful training (Terrace's pigeon studies)](errorless-discrimination-learning-transfer-advantage.md) — reports the opposite
+- [Behavioral/advance organizers show an effect size of ES = 0.41 that increases with prolonged use](advance-organizers-effect-increases-with-use.md) — related

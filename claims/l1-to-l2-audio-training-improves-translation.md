@@ -51,3 +51,4 @@ Post-hoc Tukey/Kramer analysis of the Translate from Ukrainian exam sub-section 
 - [The LWPA advantage on the End-of-Unit exam persists after removing oral comprehension scores](lwpa-advantage-persists-without-oral-comprehension.md) — related
 - [The SVAS group outperformed the comparison group across oral comprehension and vocabulary rubrics, with the largest gaps in answering questions and translating from Ukrainian](svas-advantage-across-test-rubrics.md) — a broader claim this one bears on
 - [Amount of listening time while active was not significantly related to End-of-Unit exam performance](listening-time-not-significantly-related-to-exam-score.md) — related
+- [L1 translation instruction produced higher free active vocabulary scores than L2 definitions](l1-translation-boosts-free-active-vocabulary.md) — related

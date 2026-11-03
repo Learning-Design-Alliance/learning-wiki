@@ -50,3 +50,5 @@ Qualitative observation of three video-taped CLIL science lessons. The article d
 ## Related Claims
 - [CLIL instruction through L2 was significantly better than teaching through L1 in promoting L2 vocabulary development across two experiments](clil-better-than-l1-for-l2-vocabulary.md) — related
 - [Bilingual language policy facilitates multilingual and multicultural pedagogical interaction in Indonesian university classrooms](bilingual-policy-fosters-multicultural-pedagogical-interaction.md) — related
+- [L1 serves academic functions such as explaining target-language aspects, facilitating comprehension, and scaffolding](l1-academic-functions-facilitate-comprehension.md) — related
+- [Monolingual classes and grammar lessons provide more opportunities for L1 use than multilingual classes and speaking lessons](monolingual-grammar-contexts-favor-l1.md) — related

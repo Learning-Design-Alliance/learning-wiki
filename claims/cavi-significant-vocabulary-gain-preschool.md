@@ -60,3 +60,4 @@ Paired-samples t-test on the CAVI experimental group (n=16) in a quasi-experimen
 - [The study's findings are limited to pre-intermediate and intermediate learners tested on paper, with abstract words, over eight sessions](cavi-study-scope-limitations.md) — related
 - [The experimental group improved its vocabulary scores significantly from pre-test to post-test under CALL instruction](experimental-group-significant-pre-post-vocabulary-gain.md) — related
 - [The animation group showed a statistically significant gain from pre-test to post-test in vocabulary achievement](animation-group-significant-pretest-posttest-gain.md) — a narrower finding that bears on this claim
+- [Direct vocabulary learning strategies (Structured Reviewing and Using Mechanical Techniques) significantly improve vocabulary acquisition of pre-intermediate EFL learners](direct-strategies-improve-vocabulary-acquisition-pre-intermediate.md) — related

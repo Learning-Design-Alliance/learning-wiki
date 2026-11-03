@@ -51,3 +51,4 @@ Attitude Scale for Science and Technology lesson (27 items, Cronbach-α 0.919) a
 - [When pretest scores were controlled, the posttest attitude difference between the visual-materials and traditional groups was not statistically significant, though the experimental group's adjusted mean was higher](ancova-no-significant-group-attitude-difference.md) — related
 - [Attitudes toward mathematics did not differ significantly between the VM-enriched ePBL group and the traditional PBL group after the intervention](vm-enriched-pbl-no-attitude-difference.md) — related
 - [The web-assisted six thinking hats intervention significantly increased students' attitudes towards science compared to the control group.](web-assisted-six-hats-increased-science-attitudes.md) — reports the opposite
+- [Virtual museum application significantly improved open education students' attitudes toward history lessons.](virtual-museum-application-improves-history-attitudes.md) — related

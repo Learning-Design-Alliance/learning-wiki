@@ -52,3 +52,4 @@ One-way ANOVA on posttest scores of the three groups (between groups df = 2, wit
 - [Post-test ANOVA on epistemological beliefs showed a statistically significant overall difference among the three groups (F(2,95)=3.593, p=.031)](anova-omnibus-ebs-posttest-significant.md) — related
 - [Intermediate EFL learners who watched BBC World clips with bimodal English subtitles significantly outperformed the no-subtitle and control groups on a vocabulary posttest](bimodal-subtitles-outperform-vocabulary-posttest.md) — a broader claim this one bears on
 - [Watching BBC World clips without English subtitles also improved intermediate EFL learners' vocabulary development relative to no treatment](unsubtitled-clips-improve-vocabulary-vs-control.md) — a narrower finding that bears on this claim
+- [The RS group scored significantly lower on grammar posttests](rs-group-significantly-lower-grammar-posttest.md) — related

@@ -102,3 +102,4 @@ Boundary conditions to watch: the greeting must be genuinely positive and person
 - [Structure can be characterized by seven practice components: expectation/goal-setting, rules and routines, organization of lessons and materials, monitoring and signals, feedback, rewards and punishment, and eliciting student involvement](structure-seven-component-taxonomy.md) — related
 - [Teacher interviews indicate the intervention may work partly through improved classroom management, efficient lesson planning, and PLC-supported collaborative discussion](interview-mechanisms-management-planning-plc.md) — related
 - [Teachers perceived the Teach-First Approach as more focused and a more efficient approach to learning](teach-first-focused-efficient.md) — related
+- [Students were observed to be engaged throughout the story-based lesson, beginning discussion before being prompted](anecdotal-engagement-story-based-lesson.md) — related

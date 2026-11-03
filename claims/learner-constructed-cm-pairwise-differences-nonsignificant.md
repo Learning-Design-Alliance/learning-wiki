@@ -48,3 +48,4 @@ Post hoc pairwise comparisons from Table 2 among the three intact groups of 30. 
 - [All three strategies (learner-constructed CM, fill in the map CM, and summarizing) produced significant pre-to-post gains in reading comprehension](all-three-strategies-significant-pre-post-gains.md) — related
 - [The fill in the map concept map group performed significantly better than the summarizing strategy group on reading comprehension posttest](fill-in-map-cm-beats-summarizing-reading-comprehension.md) — related
 - [ANOVA showed a significant difference in reading comprehension posttest performance among the three strategy groups](anova-significant-posttest-difference-three-groups.md) — related
+- [Treatment groups' retention means were descriptively higher than the comparison group's despite no significant difference](descriptive-retention-mean-advantage-egis.md) — related

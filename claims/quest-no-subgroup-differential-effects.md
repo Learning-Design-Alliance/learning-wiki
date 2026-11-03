@@ -63,3 +63,4 @@ Pre-specified exploratory subgroup analyses added interaction terms (Pre-test ×
 - [Air Reading's benefits were broadly distributed, with no significant differential impacts by grade, gender, ethnicity, English learner status, special education status, or economic disadvantage](air-reading-no-significant-subgroup-differences.md) — related
 - [The LRS showed no evidence of improving average scores for boys, girls, or pupils ever eligible for free school meals](lrs-no-impact-subgroups-fsm.md) — related
 - [Gender and ethnicity moderated the impact of self-affirmation rather than a uniform main effect](self-affirmation-moderated-by-gender-ethnicity.md) — related
+- [No significant group-by-gender interaction on free active vocabulary](no-group-gender-interaction-free-active-vocabulary.md) — a narrower finding that bears on this claim

@@ -63,6 +63,7 @@ Storytelling works because narratives induce *transportation* — absorption int
 - [Case-Based Learning](../strategies/case-based-learning.md) — a fuller, learner-analyzed narrative case; explainer stories are compressed, instructor-narrated cases
 - [Analogies](../strategies/analogies.md) — stories often function as extended analogies mapping a familiar domain onto the target concept
 - [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](common-tools-ctml-lesson-workflow.md)
+- [Use narrative story structure to ease student tension and increase relevance when teaching sensitive health topics](narrative-structure-eases-tension-sensitive-health-topics.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the story can frame a narrated demonstration of the procedure

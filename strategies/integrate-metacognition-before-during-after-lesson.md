@@ -45,6 +45,7 @@ The authors recommend that, because metacognitive strategies facilitate reading 
 - [Integrate planning, monitoring and reflecting strategies systematically into early-childhood lesson design](embed-planning-monitoring-reflecting-early-childhood-lessons.md)
 - [Integrate metacognitive instruction, assessment, and feedback mechanisms across diverse educational domains](integrate-metacognitive-instruction-assessment-feedback-across-domains.md)
 - [Embed metacognition-based applications across faculties of education during pre-service teacher training](embed-metacognition-applications-faculties-education.md)
+- [Integrating intervention training on indirect metacognitive strategies (self-planning, self-monitoring, self-evaluating) into English lessons to manage vocabulary learning.](metacognitive-strategy-intervention-training-lessons.md)
 
 ## Examples
 -
