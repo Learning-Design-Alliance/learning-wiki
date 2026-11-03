@@ -54,7 +54,12 @@ jobs:
 
       # The curated tier with mkdocs, the long tail with build_longtail.py, and the
       # Pagefind index over both (docs_hooks/two_tier.py).
+      # COMPRESS_LONGTAIL: each long-tail page is a small stub and its content sits in gzipped
+      # shards the browser renders (build_longtail.py --compress), after Pagefind has indexed the
+      # full pages: 745 MB -> 481 MB measured 2026-11-03 (maintainer agreed, same day).
       - name: Build docs site
+        env:
+          COMPRESS_LONGTAIL: "1"
         run: scripts/build_site.sh --strict
 
       - name: Deploy preview

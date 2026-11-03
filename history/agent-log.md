@@ -5,6 +5,20 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-03 · the long tail is published compressed
+
+GitHub Pages holds 1 GB and warns at 850 MB; the site was 749 MB and growing ~5 MB a batch, with ~120 PubMed Central
+and arXiv batches still to come. A long-tail page averaged 7.4 KB, of which 1.8 KB is the template and only ~4.5 KB
+content, and gzips to ~1.1 KB when 100 pages are compressed together. `build_longtail.py --compress` (run by
+`build_site.sh` under `COMPRESS_LONGTAIL=1`, after Pagefind) writes each folder's articles into gzipped JSON shards
+(FNV-1a of the slug, a power-of-two count per folder, so a batch rewrites only the shards it touches) and replaces
+each page with a stub carrying its title, description, the light header and a "read on GitHub" fallback; one shared
+loader (`lt-page.js`) fetches the page's shard, decompresses it in the browser and inserts the article. Full builds
+measured 744.8 MB -> 481.2 MB (60,153 long-tail pages, 7.4 KB -> 3.0 KB each); with the flag off the build is
+byte-identical to before except Pagefind's own run-to-run files. Checked in Chromium: content identical to the
+uncompressed page, anchors, links, search, dark mode, odd-character slugs. Costs, accepted by the maintainer: no
+JavaScript (and most crawlers) see only the stub; it needs Chrome 80+, Firefox 113+ or Safari 16.4+.
+
 ## 2026-11-03 · a DOI fill now checks where the cited article was published
 
 Dejonckheere, De Wit, Van de Keere and Vervaet published "Exploring the classroom: Teaching science in early
