@@ -49,3 +49,4 @@ Correlational analysis (Pearson test, Table 9) of post-learning objective-test a
 - [Students learning with PhET simulation reported slightly higher motivation than the PowerPoint control group on computer-attitude and self-determination aspects](phet-solar-system-motivation-gain.md) — related
 - [The understanding (C2) cognitive domain showed the smallest but still favorable gain favoring PhET, with experimental N-gain 0.49 versus control 0.31](phet-cognitive-domain-c2-gain.md) — related
 - [Group membership showed weak negative Pearson correlations with knowledge score and perceived interest](weak-negative-correlations-group-membership.md) — related
+- [Experimental group motivation was significantly higher in 3 of 5 sub-categories, but no correlation was found between test results and motivation](busuu-motivation-higher-no-correlation.md) — related

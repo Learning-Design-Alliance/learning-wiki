@@ -72,3 +72,4 @@ Narrative review attribution: the article states, citing Rennie (2012) and Nejat
 - [Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read](oral-language-measures-do-not-predict-reading-struggle.md) — related
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — related
 - [The author reports that YouTube use motivated experimental-group students to engage in learning activities](youtube-motivation-observation-efl-students.md) — related
+- [Students reacted positively to PowerPoint-enhanced listening lessons, reporting benefits for comprehension and motivation](positive-student-reactions-powerpoint-listening-lessons.md) — related

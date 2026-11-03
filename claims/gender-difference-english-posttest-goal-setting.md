@@ -59,3 +59,4 @@ T-test of gender difference in post-test scores among the 40 trained participant
 - [Female students used the application more and learned more vocabulary, while male students scored higher on performance rating and posttest](gender-differences-english-app-usage.md) — related
 - [Post-training communication skills did not differ significantly between male and female participants](cort-breadth-no-sex-difference-communication.md) — related
 - [Student prior achievement, gender, province, and school prior achievement predicted reading post-test scores, while father's education (SES) was not significant](covariates-predict-reading-achievement.md) — related
+- [Gender played a non-significant role in writing performance after genre-based or traditional writing instruction](gender-non-significant-writing-instruction-outcome.md) — related

@@ -48,7 +48,8 @@ Based on the results, the author recommends that "conceptual change texts which 
 - [Peer discussion and poster activities prompted students to articulate and revise their ideas, with metaconceptual awareness and evaluation observed](../claims/peer-discussion-revision-metaconceptual-awareness.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Equip classrooms with visualization software such as CAS and DGS so students construct their own knowledge of hard concepts](cas-visualization-classrooms-for-hard-concepts.md)
 
 ## Examples
 -

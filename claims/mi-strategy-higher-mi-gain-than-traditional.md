@@ -48,3 +48,4 @@ Quasi-experiment with 124 junior high students (63 experimental, 61 control) tau
 - [MI-based strategy improves five intelligence types while logical-mathematical intelligence decreases, partly due to instrument bias](five-intelligences-improve-logical-math-declines.md) — related
 - [Multiple-intelligences-based science instruction produced significantly higher post-test achievement than traditional instruction in a quasi-experiment with fifth graders](mi-instruction-higher-science-achievement-quasi-experiment.md) — related
 - [Students' science process skills improve significantly across three assessments under the MI-based strategy](sps-improve-across-three-assessments.md) — related
+- [Seventh graders taught environmental topics with a Multiple Intelligences strategy gained higher environmental awareness knowledge scores than peers taught by traditional methods](mi-strategy-higher-environmental-awareness-knowledge.md) — related

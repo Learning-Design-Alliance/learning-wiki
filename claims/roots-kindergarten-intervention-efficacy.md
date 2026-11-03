@@ -55,3 +55,4 @@ Partially nested Time × Condition mixed-model analysis of the RCT comparing ROO
 - [The Boston replication reproduced significant effects on the TEMA-3, ASPENS, and RAENS and newly found significant effects on the NSB and SESAT, with effect sizes within or exceeding the Oregon study's bounds](roots-effects-replicated-boston.md) — related
 - [An earlier preliminary investigation of ROOTS found small-to-medium positive effects on kindergarten mathematics achievement measures](roots-preliminary-small-medium-effects.md) — related
 - [Year 1 of the ROOTS efficacy trial used a classroom-blocked RCT assigning at-risk kindergartners to ROOTS-large, ROOTS-small, or no-treatment control conditions](roots-year1-rct-design.md) — related
+- [ROOTS participants demonstrated positive intervention effects on proximal and distal mathematics measures across two cohorts](roots-positive-effects-two-cohorts.md) — possibly the same claim (merge candidate)

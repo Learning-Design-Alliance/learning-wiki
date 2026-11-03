@@ -12,7 +12,7 @@ generated:
 # Evaluating Online Sources
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 7 studies (3 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 2 claims (2 for) · 9 studies (5 causal, 3 quant-synthesis, 1 associational), `q2`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Evaluating online sources is a strategy that teaches learners to judge the credibility of web information by leaving the source itself to investigate it — checking who is behind it, what other outlets say about it, and whether claims are corroborated. The core routine is *lateral reading*: professional fact-checkers open new tabs and search for information *about* a source rather than reading deeper *within* it Wineburg & McGrew, 2019.

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-02
 sources:
   - id: bataineh-2017
     resource: "https://eric.ed.gov/?id=EJ1247797"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On the post-test, the experimental group scored significantly higher than the control group on each of the five weighted writing components. [→ Bataineh 2017](#bataineh-2017)
@@ -54,3 +55,5 @@ Post-test analysis of the five components (Table 4, n=40 per group) shows higher
 - [Learners in the task-based writing course reported progress on content, organization, vocabulary, fluency and logic](tbl-writing-learner-reported-progress.md) — related
 - [Wiki-based instruction improved all four measured business writing aspects, most in form and least in mechanics](wiki-writing-gains-by-aspect.md) — related
 - [Explicit discourse-markers instruction improves EFL learners' ability to produce cohesive and coherent text on discourse cloze tests](dm-instruction-improves-cohesive-writing.md) — related
+- [Paper-and-pencil concept mapping at the pre-writing stage significantly improved EFL students' argumentative essay performance across five writing aspects](concept-mapping-prewriting-improves-efl-argumentative-essays.md) — related
+- [The control group receiving textbook-only instruction showed no significant pre-to-post differences on any of the five writing aspects](control-group-no-significant-writing-gains.md) — related

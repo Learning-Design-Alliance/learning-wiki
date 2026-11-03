@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 127 claims (82 show a difference, 30 mixed, 15 no difference) · 66 studies (23 causal, 14 quant-synthesis, 14 review, 11 associational, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 13 of 66 report an effect size · 123 claims rest on one study
+> **Evidence** · 128 claims (83 show a difference, 30 mixed, 15 no difference) · 67 studies (24 causal, 14 quant-synthesis, 14 review, 11 associational, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 13 of 67 report an effect size · 124 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -164,6 +164,7 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Regular twice-weekly 40-minute physical education alone lacked sufficient intensity to enhance cardiovascular endurance](../claims/regular-pe-insufficient-intensity-cardiovascular-endurance.md) [-W] — instruction changes it
 - [Model-based training significantly improved special physical fitness of the experimental lapta group](../claims/model-training-improved-special-physical-fitness-lapta.md) [+W] — instruction changes it
 - [Head Start impacts at the end of preschool were concentrated on language and literacy for 4-year-olds and on cognitive, social-emotional, health, and parenting outcomes for 3-year-olds, but faded by kindergarten and first grade](../claims/head-start-early-advantages-fade-by-kindergarten.md) [~M] — instruction changes it
+- [School test results differ from Presidential physical fitness test results, and high percentages of excellent/good school grades are associated with effective Presidential test results](../claims/school-versus-presidential-test-regularities.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

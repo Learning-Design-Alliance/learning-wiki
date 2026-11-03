@@ -48,3 +48,4 @@ Full-sample adjusted OLS regression (Table 4) predicting perceived usefulness fr
 - [Self-efficacy is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models](self-efficacy-positive-ai-english-acceptance.md) — related
 - [Technology acceptance conditions the virtual-real-imagination–behavioral-intention association, which is stronger at higher reported technology acceptance](technology-acceptance-moderates-vr-imagination-behavioral-intention.md) — related
 - [Perceived cost is weakly negatively correlated with college students' intention to use GenAI (r = -0.166)](perceived-cost-weak-negative-genai-intention.md) — related
+- [Exposure to English language instruction was positively and exposure to reading instruction negatively correlated with ROWPVT scores, with very small standardized coefficients](exposure-instruction-rowpvt-small-correlations.md) — related

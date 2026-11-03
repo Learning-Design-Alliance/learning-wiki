@@ -12,7 +12,7 @@ generated:
 # Require Retakes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 8 studies (5 quant-synthesis, 2 causal, 1 review), `q2`–`q4` · 4 of 8 report an effect size
+> **Evidence** · 2 claims (2 for) · 9 studies (5 quant-synthesis, 3 causal, 1 review), `q2`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Requiring retakes means that when a learner's initial performance on an assessment falls below the proficiency standard, they must engage in targeted remediation and then reassess until they demonstrate the intended learning. The grade recorded reflects eventual mastery rather than first-attempt performance, and the retake is paired with a required corrective activity — not simply a second attempt at the same test.

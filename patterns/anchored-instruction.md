@@ -29,7 +29,7 @@ grain_size: lesson
 # Anchored Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 18 claims (6 for, 11 mixed, 1 against) · 35 studies (14 causal, 8 quant-synthesis, 6 review, 3 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 35 report an effect size · 12 claims rest on one study
+> **Evidence** · 18 claims (6 for, 11 mixed, 1 against) · 37 studies (16 causal, 8 quant-synthesis, 6 review, 3 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 7 of 37 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 

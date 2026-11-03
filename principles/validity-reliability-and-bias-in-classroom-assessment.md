@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 366 claims (162 for, 179 mixed, 25 against) · 277 studies (90 associational, 61 design, 45 review, 40 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 23 of 277 report an effect size · 359 claims rest on one study
+> **Evidence** · 368 claims (164 for, 179 mixed, 25 against) · 279 studies (90 associational, 61 design, 45 review, 42 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 24 of 279 report an effect size · 361 claims rest on one study
 
 ## Conditional relationship
 
@@ -440,6 +440,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Posttest scoring by three judges showed high inter-judge reliability across all four poster dimensions](../claims/posttest-judge-reliability-kendall-w.md) [+W]
 - [The reliability of the IELTS-based proficiency test used for participant selection was supported by a Cronbach's Alpha of 0.81](../claims/ielts-proficiency-test-alpha-081.md) [+W]
 - [The 60-item grammar post-test showed KR-21 reliability of 0.94 and a moderate criterion-related validity correlation of 0.41 with the Nelson grammar total](../claims/posttest-reliability-validity-kr21-nelson-correlation.md) [+W]
+- [The exam instrument showed acceptable reliability with a Cronbach coefficient of 0.82](../claims/exam-reliability-cronbach-082-nursing-skills.md) [+W]
+- [Teachers' Fall and Spring projections of the same student are strongly correlated within students](../claims/fall-spring-projection-correlation.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

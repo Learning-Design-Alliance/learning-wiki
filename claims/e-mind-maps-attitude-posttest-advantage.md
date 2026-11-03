@@ -53,3 +53,4 @@ Mann-Whitney test comparing the two 15-student groups on the 33-item attitude to
 - [Year 3 participants showed more positive attitudes toward the integrated courses than year 1 participants (97% vs 74% positive)](year3-more-positive-attitude-integrated-courses.md) — related
 - [Students in the WhatsApp blended course expressed significantly more positive attitudes toward their learning process than the fully in-class control group](whatsapp-blended-attitude-gains.md) — related
 - [Vocational students taught with JiTT through web technologies showed significantly more positive attitudes toward English learning than control students](jitt-web-attitudes-significant.md) — related
+- [Students in the Twitter-supported blended course reported more positive attitudes toward the learning process than students in the fully in-class course](twitter-blended-attitude-gain.md) — related

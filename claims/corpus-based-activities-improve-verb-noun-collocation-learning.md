@@ -52,3 +52,4 @@ A quasi-experimental comparison of two intact preparatory classes (15 experiment
 - [Corpus-tool instruction significantly improves EFL student teachers' production of verb-noun collocations in writing, with a medium-to-large effect](corpus-tools-improve-collocation-production-writing.md) — related
 - [Corpus-tool instruction produces no statistically significant advantage over traditional instruction on EFL student teachers' verb-noun collocation knowledge](corpus-tools-no-significant-collocation-knowledge-gain.md) — reports the opposite
 - [EFL student teachers hold positive views of concordancing for collocation learning and most intend future use](student-teachers-positive-views-concordancing.md) — related
+- [Teaching medical vocabulary through collocations produced higher posttest scores than traditional techniques in Iranian EFL medical students](collocation-instruction-outperforms-traditional-medical-vocabulary-teaching.md) — related

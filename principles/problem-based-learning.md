@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 127 claims (52 for, 66 mixed, 9 against) · 78 studies (32 quant-synthesis, 14 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 20 of 78 report an effect size · 122 claims rest on one study
+> **Evidence** · 128 claims (52 for, 67 mixed, 9 against) · 79 studies (32 quant-synthesis, 15 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 20 of 79 report an effect size · 123 claims rest on one study
 
 ## Conditional relationship
 
@@ -225,6 +225,7 @@ At the curriculum level, the expectation of a small and variable average should 
 - [Attitudes toward mathematics did not differ significantly between the VM-enriched ePBL group and the traditional PBL group after the intervention](../claims/vm-enriched-pbl-no-attitude-difference.md) [~W]
 - [The review attributes to a meta-analysis that PBL pharmacy students performed better on midterm (OR = 1.46) and final examinations (OR = 1.60) than traditional-learning students, with no difference in subjective evaluations](../claims/meta-analysis-pbl-pharmacy-exam-performance-advantage.md) [+W]
 - [Two aspects of the clinical PBL course drew relatively lower satisfaction: the self-directed-learning role required of students and the appropriateness of practice sites](../claims/lower-satisfaction-self-directed-role-and-practice-site.md) [~W]
+- [Descriptive gains in algebra achievement were largest for the blended learning group, followed by PBL and then TLM](../claims/bl-largest-descriptive-gain-algebra.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

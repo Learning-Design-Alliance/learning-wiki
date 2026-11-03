@@ -58,3 +58,5 @@ Quasi-experiment with 38 intermediate-level university EFL students: treatment g
 - [Students in the Statecraft X intervention class outperformed control class students on all four essay criteria in a summative writing task](statecraft-x-intervention-outperformed-control-essay.md) — related
 - [Clustering pre-writing technique improves descriptive writing scores more than conventional teaching](clustering-improves-descriptive-writing-scores.md) — related
 - [The process writing approach significantly improved academic writing success among first-year preschool teaching students relative to traditional instruction](process-writing-improves-academic-writing-success.md) — related
+- [Paper-and-pencil concept mapping at the pre-writing stage significantly improved EFL students' argumentative essay performance across five writing aspects](concept-mapping-prewriting-improves-efl-argumentative-essays.md) — related
+- [Genre-based instruction produces significantly better post-test writing performance than traditional instruction for Iranian EFL learners](genre-based-instruction-improves-efl-writing-posttest.md) — related

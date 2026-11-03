@@ -52,3 +52,4 @@ Independent-samples t-test on the same two groups of 15; the experimental group 
 - [Learners taught 40 figurative idioms via WhatsApp MMS messages scored significantly higher on the posttest than learners taught with traditional paper-based activities](whatsapp-mms-idiom-instruction-outperforms-paper-activities.md) — related
 - [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related
 - [The WhatsApp experimental group improved significantly from pre-test to post-test on the overall writing measure](whatsapp-group-prepost-overall-gain.md) — related
+- [At the end of the pilot, experimental-group students more often wrote two-column lists and sample sentences, while control-group students more often copied words from the textbook](pilot-end-strategy-differences-lists-sentences-copying.md) — related

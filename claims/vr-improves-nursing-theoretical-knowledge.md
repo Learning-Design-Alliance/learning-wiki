@@ -48,3 +48,4 @@ Meta-analysis in Review Manager 5.3 of eleven randomized controlled trials compa
 - [VR instruction shows a statistically significant difference in nursing students' practical skills versus traditional methods, though the pooled estimate is small (SMD = 0.15)](vr-practical-skills-pooled-effect.md) — related
 - [VR instruction shows no statistically significant advantage for nursing students' critical thinking (SMD = 0.79, p = 0.07)](vr-no-significant-critical-thinking-gain.md) — related
 - [VR instruction raises nursing students' academic satisfaction more than control teaching modalities (SMD = 1.14)](vr-raises-nursing-student-satisfaction.md) — related
+- [Theoretical and practical scores correlated significantly in the traditional group but not in the virtual group](theory-practice-correlation-traditional-not-virtual.md) — related

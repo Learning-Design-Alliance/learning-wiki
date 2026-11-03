@@ -26,7 +26,7 @@ sources:
 # Cognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (18 for, 8 mixed, 1 against) · 30 studies (12 causal, 10 review, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 7 of 30 report an effect size · 22 claims rest on one study
+> **Evidence** · 28 claims (18 for, 9 mixed, 1 against) · 31 studies (13 causal, 10 review, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 7 of 31 report an effect size · 23 claims rest on one study
 
 ## Description
 Cognitive strategies are deliberate mental procedures learners apply to process information: **rehearsal** (repeating or copying), **elaboration** (connecting new material to prior knowledge), **organization** (imposing structure such as outlines or hierarchies), and **comprehension monitoring** (checking understanding while working). As an instructional element, cognitive strategy instruction means explicitly teaching these procedures — naming them, modeling them, and prompting their use — rather than assuming learners will discover them independently.
@@ -87,6 +87,7 @@ Strategy instruction improves learning most when strategies are taught explicitl
 - [Combined strategy instruction under inclusion is effective for narrative texts but not for expository texts](../claims/narrative-effective-expository-not.md) [~W]
 - [No gender differences in reading comprehension appeared in any grade level under inclusive combined strategy instruction](../claims/no-gender-differences-all-grades.md) [~W]
 - [During-treatment procedure use: Strategies plus Definitions significantly outperformed Definitions-only in applying definitions (an early second-session boost, partial η² = .24), while strategy use did not distinguish the two strategy-trained groups](../claims/strategies-plus-definitions-early-boost-definition-use.md) [+W]
+- [Among the three taught vocabulary learning strategies, oral rehearsal was perceived most useful, followed by association and dropping](../claims/vls-perceived-usefulness-oral-rehearsal-highest.md) [~W]
 
 ## The evidence by question
 

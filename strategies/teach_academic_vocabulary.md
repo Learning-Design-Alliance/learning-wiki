@@ -13,7 +13,7 @@ generated:
 # Teach Academic Vocabulary
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 16 studies (6 quant-synthesis, 4 causal, 4 review, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 16 report an effect size
+> **Evidence** · 5 claims (5 for) · 17 studies (6 quant-synthesis, 5 causal, 4 review, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 17 report an effect size
 
 ## Description
 Teaching academic vocabulary means identifying the discipline-specific and high-utility words a text, task, or project depends on, then providing explicit instruction on their meanings and uses rather than leaving learners to infer them from context. Instruction typically includes student-friendly definitions, multiple encounters across contexts, and active use of the words in speaking and writing. While all students benefit, English language learners often need more targeted and extended support.

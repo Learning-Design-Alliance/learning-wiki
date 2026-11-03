@@ -49,3 +49,4 @@ Quasi-experimental semester study of 72 future-teaching students (36 experimenta
 - [The experimental group's conflict level increased by 6.4 points (20%), which the authors interpret as greater readiness to resist asocial actions rather than heightened interpersonal conflict](conflict-increase-eg-positive-interpretation.md) — related
 - [Experimental-group students improved on all four measured prosocial-tolerance qualities, with the largest gain in courage in upholding position (~20%) and the smallest in independence (~10%)](eg-gains-four-tolerance-qualities.md) — related
 - [Ranks of ethical and individualistic values rose in the experimental group but changed little in the control group](value-ranks-rose-eg-not-cg.md) — related
+- [A compulsory specialized course on religions of the region increased students' confessional tolerance over a four-year teaching experiment](specialized-religion-course-increased-confessional-tolerance.md) — related

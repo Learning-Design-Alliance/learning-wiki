@@ -53,3 +53,4 @@ Spearman's rho correlation across all 48 participants' scores in the quasi-exper
 - [POGIL instruction produces significantly higher posttest critical thinking skills than traditional lecture among preservice elementary teachers](pogil-raises-posttest-critical-thinking-preservice-elementary-teachers.md) — related
 - [POGIL and traditional-lecture groups showed no significant pretest differences in critical thinking or problem solving skills](pogil-study-pretest-equivalence-cts-pss.md) — related
 - [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance](metacognition-problem-solving-correlation.md) — related
+- [Total perception score correlates positively with total outcome score (r = 0.709) and total satisfaction score (r = 0.740)](perception-correlates-outcome-satisfaction-simulation.md) — related

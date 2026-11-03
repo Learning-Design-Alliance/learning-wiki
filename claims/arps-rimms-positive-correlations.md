@@ -50,3 +50,4 @@ Pearson correlation analysis of ARPS and RIMMS scores from the same 90-participa
 - [EdTech interventions significantly improve student motivation (d = 0.375), but motivation does not significantly correlate with attainment (r = 0.608, p = 0.2763)](edtech-motivation-effect-no-attainment-correlation.md) — related
 - [Experimental-group students reported high positive motivation toward the AR-developed Ottoman vocabulary material across the ARCS sub-dimensions](ar-ottoman-material-high-motivation-arcs.md) — related
 - [OER-based blended learning with Quipper School raised relevance and confidence motivation significantly higher than face-to-face classroom learning](oer-blended-quipper-relevance-confidence.md) — related
+- [Experimental group motivation was significantly higher in 3 of 5 sub-categories, but no correlation was found between test results and motivation](busuu-motivation-higher-no-correlation.md) — related

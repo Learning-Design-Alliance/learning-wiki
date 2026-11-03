@@ -74,3 +74,4 @@ In the same SEM, the trait beliefs–CBSR relation was explained mainly through 
 - [Kindergarteners with a mastery goal orientation show better executive functions than children with a performance orientation](mastery-orientation-better-executive-functions-kindergarten.md) — related
 - [Mindsets relate to kindergarteners' achievement indirectly through executive functions and classroom behavioral self-regulation as mediators](mindsets-achievement-indirect-via-self-regulation.md) — related
 - [Malleable trait beliefs may be especially beneficial for classroom behavioral self-regulation among mastery-oriented children (marginal interaction)](trait-belief-goal-orientation-interaction-cbsr.md) — related
+- [Improvements in executive function mediate the intervention's effects on learning-related behaviors and problem behaviors](ef-improvement-mediates-classroom-behavior.md) — related

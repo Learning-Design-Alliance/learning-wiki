@@ -52,3 +52,4 @@ Quasi-experiment with 85 low-intermediate Saudi EFL students (42 experimental, 4
 - [The 3-2-1 strategy significantly improves EFL students' ability to answer main-idea questions](3-2-1-strategy-improves-main-idea-questions.md) — a narrower finding that bears on this claim
 - [The 3-2-1 strategy shows no statistically significant effect on EFL students' ability to summarize the text](3-2-1-strategy-no-effect-on-summarization.md) — related
 - [Explicit instruction in reading strategies was essential to bring about increased use of reading strategies by experimental-group learners](explicit-instruction-increases-reading-strategy-use.md) — related
+- [Reading strategies training also improves inferential reading comprehension of elementary-proficiency EFL vocational students](strategies-training-improves-inferential-comprehension-efl.md) — a narrower finding that bears on this claim

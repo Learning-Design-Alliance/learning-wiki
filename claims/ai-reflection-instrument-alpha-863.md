@@ -69,3 +69,4 @@ Psychometric analysis of the study's 12-item, 5-point Likert reflection instrume
 - [The self-assessment questionnaire measuring cognition, skill, and attitude showed good validity and reliability in this sample](self-assessment-questionnaire-csa-validity-reliability.md) — related
 - [The attitude and motivation questionnaire demonstrated acceptable internal consistency](attitude-motivation-questionnaire-acceptable-reliability.md) — related
 - [The seven holistic leadership factors demonstrated high internal consistency across pre- and post-test administrations.](holistic-leadership-factors-high-reliability.md) — related
+- [The Vocabulary Knowledge Scale used in the pilot showed very high internal consistency (α = .96)](vks-reliability-alpha-96-pilot.md) — related

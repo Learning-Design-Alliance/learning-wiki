@@ -49,3 +49,4 @@ The DBS was piloted on 150 students in the 2009-2010 school year; low-reliabilit
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
 - [The Statistical Reasoning Assessment instrument showed acceptable internal consistency (Cronbach alpha .82) in a 30-subject pilot study](sra-instrument-cronbach-alpha-82-pilot.md) — related
 - [The researcher-built two-stage Mixtures Achievement Test showed high reliability in the pilot and research groups](mixtures-achievement-test-reliability.md) — related
+- [The exam instrument showed acceptable reliability with a Cronbach coefficient of 0.82](exam-reliability-cronbach-082-nursing-skills.md) — related

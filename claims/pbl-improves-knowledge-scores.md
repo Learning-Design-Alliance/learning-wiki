@@ -54,3 +54,4 @@ Random-effects meta-analysis of four studies (116 PBL and 117 TT students) asses
 - [AI-powered PBL/CBL significantly improves students' knowledge acquisition compared with PBL/CBL without AI or traditional lectures](ai-pbl-cbl-improves-knowledge-acquisition.md) — related
 - [PBL and flipped classrooms frequently show better post-test performance and knowledge retention than traditional methods](pbl-flipped-better-post-test-performance.md) — a broader claim this one bears on
 - [PBL-CBL produces significantly higher theoretical knowledge scores than LBL in orthopedic education](pbl-cbl-higher-theoretical-scores-orthopedics.md) — related
+- [Accessing the online caries diagnosis module did not significantly improve dental students' radiographic diagnostic accuracy](online-module-no-accuracy-gain-caries.md) — related

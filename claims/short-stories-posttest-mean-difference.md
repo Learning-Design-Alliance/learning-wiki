@@ -61,3 +61,4 @@ Independent sample t-test comparing posttest scores of the 20-student experiment
 - [EFL students taught literature with the integrated approach achieved significantly higher literature achievement scores than control students at both universities](integrated-approach-higher-efl-literature-achievement.md) — related
 - [Activity based learning produced significantly higher speaking achievement than traditional language teaching in a 6th-grade experiment](abl-improves-speaking-achievement-grade6.md) — related
 - [OPS-English intervention produced a significant post-test difference in speaking scores favouring the experimental group over the control group](ops-english-post-test-significant-speaking-gain.md) — related
+- [The task-based cognitive-approach programme produced a significantly higher PET speaking post-test score than regular instruction, with a large effect size](task-based-cognitive-program-outperforms-regular-instruction-speaking.md) — related

@@ -50,3 +50,4 @@ Quasi-experiment with 134 fifth-graders in six intact classes randomly assigned 
 - [ESL students taught concept mapping show significantly greater pretest-to-posttest achievement gains than students taught an alternative learning strategy](concept-mapping-greater-achievement-gains-esl.md) — related
 - [The effect size of using e-Mind Maps on fifth-graders' English achievement was high (η² = 0.39)](e-mind-maps-achievement-effect-size-high.md) — related
 - [Post-test achievement differed significantly between the test and control groups in favour of the test group](post-test-achievement-significant-favouring-test-group.md) — related
+- [Female master's students in a Twitter-supported blended course achieved higher post-test scores than students in a 100% in-class course](twitter-blended-achievement-gain.md) — related

@@ -12,7 +12,7 @@ generated:
 # Note Taking Structures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 18 studies (7 causal, 7 quant-synthesis, 4 review), `q2`–`q4` · 5 of 18 report an effect size
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 19 studies (8 causal, 7 quant-synthesis, 4 review), `q2`–`q4` · 5 of 19 report an effect size
 
 ## Description
 Note taking structures are pre-organized formats — Cornell pages, comparison matrices, skeletal outlines, guided notes — that shape *how* learners record information during a lesson. Rather than transcribing freely, learners place content into designated regions or fields, which imposes an organization on the material and creates a built-in review artifact.

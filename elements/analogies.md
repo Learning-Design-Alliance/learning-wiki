@@ -18,7 +18,7 @@ sources:
 # Analogies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 5 studies (3 causal, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 1 of 5 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 7 studies (5 causal, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 3 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Analogies connect a new idea to a more familiar situation, structure, or experience so learners can reason about the unfamiliar in terms they already understand.

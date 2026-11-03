@@ -48,6 +48,7 @@ A classroom activity in which, at the start of a session, previously taught word
 - [Dolch Sight Word List - Flash Cards](dolch_sight_word_list_-_flash_cards.md)
 - [Memory Game (Matching)](memory-game-matching.md)
 - [Key Word Flash Cards](key_word_flash_cards.md)
+- [Use index-card games as follow-up activities to consolidate and retain new vocabulary](index-card-game-vocabulary-follow-up.md)
 
 ## Examples
 -

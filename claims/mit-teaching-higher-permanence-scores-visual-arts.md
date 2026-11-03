@@ -54,3 +54,5 @@ Delayed posttest: the same success test was reapplied three weeks after instruct
 - [The SQ4R group's reading comprehension advantage persisted on a permanence test administered four weeks after the post-test](sq4r-reading-comprehension-permanence.md) — related
 - [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](active-learning-permanence-effect-my-town-unit.md) — related
 - [The modules strategy group also significantly outperforms the conventional group on the postponed (three-week-delayed) achievement test](modules-strategy-superior-postponed-achievement-science.md) — related
+- [Animation-supported 5E instruction produced significantly higher retention scores than the current programme five weeks after implementation](animation-5e-higher-retention-scores.md) — related
+- [The virtual material did not significantly improve knowledge permanency three weeks after the unit, while the control group's scores declined significantly](virtual-material-no-permanency-advantage.md) — related

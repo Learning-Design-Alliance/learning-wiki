@@ -18,7 +18,7 @@ sources:
 # Vocabulary assistance embedded directly in the text
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (6 for, 7 mixed, 3 against) · 8 studies (4 causal, 3 quant-synthesis, 1 associational), `q2`–`q3` · 1 of 8 report an effect size · 16 claims rest on one study
+> **Evidence** · 17 claims (6 for, 8 mixed, 3 against) · 9 studies (5 causal, 3 quant-synthesis, 1 associational), `q2`–`q3` · 1 of 9 report an effect size · 17 claims rest on one study
 
 ## Description
 Vocabulary help, such as pronunciation and glossing of difficult terms, embedded directly in the text as one of the enumerated aid types. The article reports that students "gave very high marks to the precis summaries, vocabulary helpers, mini-notes, and Reader Helper notes," so vocabulary helpers were among the most favorably rated aids by students in the study.
@@ -55,6 +55,7 @@ Vocabulary help, such as pronunciation and glossing of difficult terms, embedded
 - [L1 glossing produces a medium-to-large overall improvement in L2 reading comprehension (g = .68) across experimental and quasi-experimental studies](../claims/l1-glossing-overall-effect-size-068.md) [+W]
 - [The percentage of text glossed significantly differentiates effect sizes, with the highest mean for more than 50% glossing (1.13) and the second highest for less than 5% (0.85), but a much smaller mean for 5-10% (0.20)](../claims/glossing-percentage-groups-significant-difference.md) [+W]
 - [In Salem's (2006) CALL study, adding more gloss types beyond L1 textual glosses progressively lowered reading comprehension scores](../claims/salem-more-gloss-types-lower-scores.md) [-W]
+- [In-context (top-down) vocabulary training had no significant impact on reading comprehension](../claims/top-down-training-no-comprehension-impact.md) [~W]
 
 ## Related Elements
 

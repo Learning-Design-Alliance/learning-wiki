@@ -26,6 +26,7 @@ A student's answer is characterized in terms of completeness and accuracy, yield
 ## Related Research Methods
 
 - [General Assessment Framework for Automated Marking Across Domains](general-assessment-framework-for-automated-marking-across-domains.md)
+- [Five-category characterization of formative assessment effects using benchmark effect size and statistical significance](five-category-characterization-of-formative-assessment-effects-using-benchmark-effect-size.md)
 
 ## Key Sources
 - Grivokostopoulou, F., Perikos, I., & Hatzilygeroudis, I. (2016). An Educational System for Learning Search Algorithms and Automatically Assessing Student Performance. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-016-0116-x

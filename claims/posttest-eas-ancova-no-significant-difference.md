@@ -63,3 +63,4 @@ ANCOVA on post-test EAS with RT as covariate in the same quasi-experimental stud
 - [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related
 - [Teaching based on the existing curriculum produced no statistically significant change in students' environmental attitudes](existing-curriculum-no-attitude-change.md) — related
 - [After adjusting for pre-test differences, there was no statistically significant difference in writing improvement between students of experienced and inexperienced flipped-learning teachers](no-teacher-experience-difference-flipped-ancova.md) — related
+- [The animation-assisted 5E application produced a significant pre-to-post attitude change in the experimental group while the control group's attitudes did not change](animation-5e-attitude-change-experimental-only.md) — related

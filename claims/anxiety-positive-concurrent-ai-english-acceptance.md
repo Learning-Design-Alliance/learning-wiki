@@ -52,3 +52,4 @@ Full-sample adjusted OLS regression (Table 4) predicting perceived usefulness fr
 - [Self-efficacy is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models](self-efficacy-positive-ai-english-acceptance.md) — related
 - [Learning motivation is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models](learning-motivation-positive-ai-english-acceptance.md) — related
 - [Acceptance scores are broadly held across learner characteristics, with frequency of use the only significant and weak predictor](acceptance-frequency-of-use-weak-predictor.md) — related
+- [Exposure to English language instruction was positively and exposure to reading instruction negatively correlated with ROWPVT scores, with very small standardized coefficients](exposure-instruction-rowpvt-small-correlations.md) — related

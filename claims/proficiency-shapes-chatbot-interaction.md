@@ -71,3 +71,4 @@ Same chi-squared mosaic-plot analysis, low-proficiency group pattern: significan
 - [In CPS dialogues, low-achievers requested more support while high-achievers provided more support and reminders, though group differences were not statistically significant](cps-dialogue-support-patterns.md) — related
 - [Language proficiency, beliefs, feedback literacy and learning objectives moderate students' engagement with and uptake of WCF](student-factors-moderate-wcf-engagement.md) — related
 - [Low-proficiency EFL undergraduates report feeling more competent in English tasks through ChatGPT-assisted writing feedback, conversational practice, and translation support](chatgpt-competence-experience-efl-undergraduates.md) — related
+- [Module users showed a different response-frequency pattern: more correct responses but also more extreme over- and under-diagnoses](chi2-response-frequency-pattern-module.md) — related

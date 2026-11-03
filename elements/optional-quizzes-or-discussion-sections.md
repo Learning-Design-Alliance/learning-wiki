@@ -13,7 +13,7 @@ generated:
 # Optional Quizzes or Discussion Sections
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 19 studies (6 quant-synthesis, 4 review, 3 causal, 3 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 6 claims rest on one study
+> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 20 studies (6 quant-synthesis, 4 causal, 4 review, 3 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 20 report an effect size · 6 claims rest on one study
 
 ## Description
 Optional quizzes and discussion sections are supplementary, typically ungraded or low-stakes activities that let learners rehearse and consolidate course content outside required assessments. Quizzes enact [retrieval practice](../principles/retrieval-practice.md); discussion sections add social elaboration and instructor feedback. Because they are optional, their effectiveness depends heavily on whether learners actually choose to use them.

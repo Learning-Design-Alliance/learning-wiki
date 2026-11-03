@@ -72,3 +72,4 @@ Meta-analysis of 97 reports contributing 105 independent samples (N = 19,933) fr
 - [Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance](flca-influences-outcomes-four-factors.md) — a narrower finding that bears on this claim
 - [Incidental vocabulary learning anxiety positively predicts L2 incidental vocabulary acquisition through reading](incidental-vocabulary-anxiety-positive-predictor.md) — related
 - [The possibility that anxiety interferes with language learning has long interested scholars, teachers, and learners](anxiety-interferes-language-learning-long-interest.md) — a broader claim this one bears on
+- [Research shows a significant negative correlation between foreign language listening anxiety and listening proficiency](listening-anxiety-negative-correlation-proficiency.md) — a narrower finding that bears on this claim

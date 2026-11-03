@@ -56,3 +56,5 @@ Independent-sample t-test on pre-test writing scores in the quasi-experiment fou
 - [Pre-test scores showed no statistically significant difference between control and experiment groups, confirming equivalent starting points before the homework intervention](no-pretest-difference-between-scp-and-tp-groups.md) — related
 - [VLI and TCI groups did not differ significantly in creative thinking before instruction](vli-tci-no-pretest-difference.md) — related
 - [Test and control groups showed no significant pretest difference in creative writing](intertextual-reading-pretest-equivalence.md) — related
+- [Before treatment, the experimental and control groups were equivalent on both achievement and attitude](pretest-equivalence-achievement-attitude.md) — related
+- [Pre-test comparison showed no significant difference between experimental and control groups before implementation](pretest-no-difference-groups.md) — related

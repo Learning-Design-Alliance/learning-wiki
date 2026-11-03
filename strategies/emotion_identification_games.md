@@ -12,7 +12,7 @@ generated:
 # Emotion Identification Games
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (5 quant-synthesis, 3 causal, 1 associational), `q2`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 11 studies (5 causal, 5 quant-synthesis, 1 associational), `q2`–`q4` · 6 of 11 report an effect size
 
 ## Description
 Emotion identification games are structured playful activities in which learners practice recognizing, naming, and expressing emotions. Typical formats include guessing a feeling from facial expressions or body cues, using puppets to enact emotionally charged situations, emotion-themed movement games, and songs that greet or label feelings. The playfulness lowers the affective stakes of discussing emotions while providing repeated, low-cost practice trials on the core discrimination task: mapping internal states and expressive cues to emotion labels.

@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 188 claims (123 show a difference, 43 mixed, 22 no difference) · 160 studies (73 causal, 36 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 35 of 160 report an effect size · 184 claims rest on one study
+> **Evidence** · 190 claims (125 show a difference, 43 mixed, 22 no difference) · 163 studies (76 causal, 36 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 35 of 163 report an effect size · 186 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -245,6 +245,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Pupils attended on average just over 80% of group sessions but only 56% of individual sessions, indicating substantial partial participation](../claims/neli-partial-session-attendance.md) [~M] — instruction changes it
 - [Second Life-based instruction significantly increased students' wish to reserve time for and gain advanced information about mathematics (z=2.82, p<.05)](../claims/sl-math-robot-time-advanced-info-pair-increase.md) [+M] — instruction changes it
 - [Second Life-based mathematics instruction significantly increased the time students would reserve for mathematics (z=3.14, p<.05)](../claims/sl-math-robot-time-reservation-increase.md) [+M] — instruction changes it
+- [Average tutoring dosage differed significantly across school sites in Cohort 1, ranging from 114 to 129 sessions per student](../claims/spark-tutoring-dosage-varies-by-site.md) [+M] — instruction changes it
+- [Sam and Pat classrooms devoted far more observed time to reading development instruction and far less to English language acquisition instruction than control classrooms](../claims/sam-pat-classrooms-more-reading-less-english-instruction.md) [+M] — instruction changes it
 
 ## The evidence by question
 

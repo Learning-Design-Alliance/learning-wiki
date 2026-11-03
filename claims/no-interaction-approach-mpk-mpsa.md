@@ -58,3 +58,4 @@ Two-way ANOVA on enhancement of MPSA by MPK category (Table 3): interaction F = 
 - [Improvement in mathematical analogical ability differs significantly by students' initial ability category, with higher initial ability associated with higher gain](initial-ability-category-analogical-gain-differences.md) — related
 - [No significant interaction between learning method and initial ability category on mathematical analogical gain](no-method-ability-interaction-analogical-gain.md) — possibly the same claim (merge candidate)
 - [Prior mathematical ability had a significant main effect on mathematics critical thinking ability](pma-significant-main-effect-critical-thinking.md) — related
+- [For students with intermediate and low initial mathematics ability, PMRI and conventional learning showed no significant difference in achievement of mathematics reasoning ability](pmri-no-difference-intermediate-low-ability.md) — related

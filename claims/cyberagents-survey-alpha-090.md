@@ -76,3 +76,5 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [PBE shows no statistically significant effect on teachers' self-reported pedagogical practices, and the survey measure may lack sensitivity](pbe-no-pedagogical-practice-effect.md) — related
 - [The attitude and motivation questionnaire demonstrated acceptable internal consistency](attitude-motivation-questionnaire-acceptable-reliability.md) — related
 - [The seven holistic leadership factors demonstrated high internal consistency across pre- and post-test administrations.](holistic-leadership-factors-high-reliability.md) — related
+- [The exam instrument showed acceptable reliability with a Cronbach coefficient of 0.82](exam-reliability-cronbach-082-nursing-skills.md) — related
+- [The Vocabulary Knowledge Scale used in the pilot showed very high internal consistency (α = .96)](vks-reliability-alpha-96-pilot.md) — related

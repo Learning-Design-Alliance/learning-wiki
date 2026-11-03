@@ -48,3 +48,4 @@ Within-group pre-post comparison of the 45-student PowerPoint group over a three
 - [Senior secondary Geography students taught with PowerPoint presentation scored significantly higher on post-test achievement than students taught with the lecture method](powerpoint-outperforms-lecture-geography-achievement.md) — related
 - [Gender did not significantly influence achievement among students taught Geography with PowerPoint presentation](powerpoint-no-gender-difference-geography.md) — related
 - [Within the experimental group, achievement scores rose significantly from pre-test to post-test after Multiple Intelligence Theory-based instruction](mi-group-pretest-posttest-gain.md) — related
+- [Raw post-test descriptive means rose for the PowerPoint group (59.9 to 68.4) but stayed flat for the control group (58.45 to 58.1)](ppt-listening-pre-post-descriptives.md) — related

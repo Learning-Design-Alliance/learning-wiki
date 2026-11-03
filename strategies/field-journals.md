@@ -12,7 +12,7 @@ generated:
 # Field Journals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (5 causal, 4 quant-synthesis, 1 review), `q3`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 11 studies (6 causal, 4 quant-synthesis, 1 review), `q3`–`q4` · 3 of 11 report an effect size
 
 ## Description
 A field journal is a structured record learners maintain during direct engagement with phenomena, sites, organisms, communities, or processes — in field courses, labs, internships, or place-based learning. Entries typically combine observation (what was seen, measured, or heard), interpretation (what it might mean), and questions or reflections. The journal functions simultaneously as a data record, a thinking tool, and an artifact for later assessment or synthesis.

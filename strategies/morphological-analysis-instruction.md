@@ -13,7 +13,7 @@ generated:
 # Morphological Analysis Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 12 studies (5 causal, 4 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 6 of 12 report an effect size
 
 ## Description
 Morphological analysis instruction teaches learners to decompose words into morphemes — the smallest units of meaning, such as roots, prefixes, and suffixes — and to use that structure to pronounce, spell, and infer the meanings of unfamiliar words. Instruction typically combines explicit teaching of high-frequency morphemes (e.g., *-tion*, *re-*, *struct*) with guided practice analyzing novel words, often framed around the generative logic of the language ("struct" → *construct*, *destruction*, *restructure*).

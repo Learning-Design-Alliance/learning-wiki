@@ -51,3 +51,4 @@ Quasi-experimental control group pretest-posttest study with 56 grade-8 students
 ## Related Claims
 - [Jigsaw I produced no significant difference in attitudes toward the Turkish course compared with conventional teaching](jigsaw-i-no-attitude-difference-turkish-course.md) — related
 - [The experimental and control groups did not differ significantly on the Turkish grammar pretest, establishing homogeneity before the intervention](pretest-homogeneity-personalized-turkish-groups.md) — related
+- [Animation-supported 5E instruction produced significantly higher post-test grammar success than the current teaching programme in 7th grade Turkish](animation-5e-higher-posttest-grammar-success.md) — related

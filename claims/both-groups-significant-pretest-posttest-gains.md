@@ -66,3 +66,4 @@ Paired-samples t-test for related samples (Table 3): experimental pretest-postes
 - [Both CLIL and L1 groups improved significantly in science content knowledge within each experiment](content-knowledge-gains-both-groups.md) — related
 - [The conventionally instructed control group also improved significantly from pretest to posttest in all three teaching-skill domains](control-group-prepost-gains.md) — a narrower finding that bears on this claim
 - [The WebQuest experimental group improved significantly from pretest to posttest in planning, implementation and evaluation teaching skills](webquest-group-prepost-gains.md) — a narrower finding that bears on this claim
+- [Higher-order thinking ability improved significantly in both the experimental and control groups after learning activities](within-group-hots-gains-significant.md) — a narrower finding that bears on this claim

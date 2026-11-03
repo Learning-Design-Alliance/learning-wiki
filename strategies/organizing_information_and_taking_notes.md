@@ -12,7 +12,7 @@ generated:
 # Organizing Information and Taking Notes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
+> **Evidence** · 3 claims (3 for) · 13 studies (5 causal, 5 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 13 report an effect size
 
 ## Description
 This strategy teaches learners to structure and record information deliberately — through graphic organizers (concept maps, matrices, Venn diagrams, flow charts), sorting tasks, and structured note-taking systems such as Cornell Notes. The goal is to convert transient, linear input into an organized external representation that reveals relationships among ideas. Because note-taking skill is not spontaneous, explicit instruction and gradual release toward independent use are essential.

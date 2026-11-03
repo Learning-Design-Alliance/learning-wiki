@@ -49,3 +49,4 @@ Expert validation stage of the R&D study: three material experts rated 59 statem
 - [Experimental classes taught with local-wisdom-based social studies materials scored higher on social attitudes than control classes after one semester](local-wisdom-materials-higher-social-attitude-ttest.md) — related
 - [Teachers and students judge the local-wisdom-based model feasible in one-on-one and small-group trials, with CVR > 0 on all items](local-wisdom-model-user-trial-feasibility.md) — related
 - [Expert and student judgements rate the WEIEC application feasible, with Aiken's V of 0.80 from experts and 0.81 from students](weiec-application-feasible-aiken-v-experts-students.md) — related
+- [In local-wisdom-based assessment development, integration of local wisdom values scores highest (71.92%) and validity lowest (56.92%)](assessment-aspects-integration-highest-validity-lowest.md) — related

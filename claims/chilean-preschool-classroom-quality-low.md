@@ -48,3 +48,4 @@ Descriptive examination of comparison-group adjusted means in the cluster-random
 - [Providing books and a single workshop without ongoing coaching did not improve prekindergarten classroom quality](minimal-books-workshop-intervention-insufficient.md) — related
 - [Preschool classrooms in the validation sample scored lowest on Instructional Support relative to Emotional Support and Classroom Organization](ece-sample-instructional-support-lowest-class-domain.md) — related
 - [The UBC professional development program significantly improved prekindergarten classroom quality after the first year, with the largest effect on Emotional Support](ubc-improved-prek-classroom-quality-year-one.md) — related
+- [Repeated-measures ANOVA found no statistically significant change in any Toddler or PreK CLASS domain or dimension over 3 years, with a \"slide back\" in instructional supports in the second half](ece-pdi-class-rm-anova-null.md) — related

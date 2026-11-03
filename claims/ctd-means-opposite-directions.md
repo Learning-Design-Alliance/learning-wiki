@@ -56,3 +56,4 @@ Descriptive statistics from the quasi-experiment (Table 3): control group M 51.6
 - [Experimental group's critical thinking disposition improved significantly from pre-test to post-test](experimental-group-cctdi-pre-post-gain.md) — related
 - [Moodle-based online argumentation implementation improved critical thinking disposition of science teacher candidates compared with a control group](moodle-online-argumentation-critical-thinking-disposition.md) — related
 - [PBL and traditional teaching do not differ significantly in their effect on pre-service teachers’ critical thinking dispositions](pbl-no-difference-critical-thinking-disposition.md) — related
+- [Raw post-test descriptive means rose for the PowerPoint group (59.9 to 68.4) but stayed flat for the control group (58.45 to 58.1)](ppt-listening-pre-post-descriptives.md) — related

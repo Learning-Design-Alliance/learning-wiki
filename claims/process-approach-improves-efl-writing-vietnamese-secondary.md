@@ -71,3 +71,4 @@ One-way ANOVA comparing the two conditions after the study found the experimenta
 - [The process-based intervention significantly improved students' perceptions toward the writing process, while control-group perceptions stayed unchanged](process-approach-improves-perceptions-writing-process.md) — related
 - [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related
 - [Students in the Statecraft X intervention class outperformed control class students on all four essay criteria in a summative writing task](statecraft-x-intervention-outperformed-control-essay.md) — related
+- [Genre-based instruction produces significantly better post-test writing performance than traditional instruction for Iranian EFL learners](genre-based-instruction-improves-efl-writing-posttest.md) — related

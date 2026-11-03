@@ -75,3 +75,5 @@ Same randomized pilot trial; random-effects Condition-by-Time tests on EN-CBM an
 - [Fusion effects on distal measures were non-significant, positive on EN-CBM and SAT-10 procedures and negative on easyCBM and SAT-10 problem solving](fusion-distal-measures-non-significant-mixed-direction.md) — related
 - [Fusion showed positive but nonsignificant effects on some distal measures and negative nonsignificant effects on others in the practitioner implementation](fusion-nonsignificant-distal-measure-effects.md) — related
 - [The Fusion intervention produced a statistically significant positive effect on the proximal ProFusion measure in a practitioner-led quasi-experimental implementation](fusion-practitioner-implementation-significant-profusion-effect.md) — related
+- [CBM scores correlated with standardized test scores but teacher grades did not correlate with either measure](cbm-correlates-with-standardized-not-grades.md) — related
+- [CBMs detected intervention gains that standardized test scores and teacher grades did not reach significance on](cbms-detect-gains-standardized-tests-miss.md) — related

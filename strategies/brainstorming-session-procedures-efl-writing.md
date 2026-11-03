@@ -46,6 +46,7 @@ The article describes a concrete procedure for running brainstorming in writing 
 ## Related Strategies
 
 - [Run pre-writing strategy instruction as alternating treatments across sessions, with an essay after each strategy](alternate-three-prewriting-activities-sessions.md)
+- [Introduce concept mapping through direct training, attend to computer ability, and start with familiar topics](concept-mapping-implementation-recommendations-efl.md)
 
 ## Examples
 -

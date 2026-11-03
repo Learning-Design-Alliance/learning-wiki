@@ -57,3 +57,4 @@ Narrative review of the ATI literature: the article reports that the vast majori
 - [Descriptive scores for mathematical creative thinking ability were higher in the ATI class (mean 87.07) than in the PBL class (mean 77.18)](ati-pbl-descriptive-creative-thinking-scores.md) — a narrower finding that bears on this claim
 - [An early aptitude-by-treatment interaction favoring lower-scoring treatment students was no longer statistically significant after updated analyses](aptitude-treatment-interaction-nonsignificant-after-cleaning.md) — a narrower finding that bears on this claim
 - [Low-proficiency learners showed the largest creative thinking gains under virtual learning instruction](vli-largest-gains-low-proficiency-learners.md) — a narrower finding that bears on this claim
+- [Teaching method and learner creativity interacted in their effects on EFL writing performance](method-creativity-interaction-efl-writing.md) — a narrower finding that bears on this claim

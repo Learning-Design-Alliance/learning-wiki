@@ -50,3 +50,4 @@ PALS, a criterion-referenced teacher-administered literacy assessment, was analy
 - [SPARK's reading achievement benefit was larger for lower-achieving students (4.4 RIT points, g = .36), with a significant SPARK-by-baseline interaction](spark-map-effect-larger-for-low-achievers.md) — related
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](future-forward-prior-rct-evidence.md) — related
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related
+- [Cohort 2 SPARK/MCLP participants scored substantially higher than controls on the PALS early literacy assessment, with a large pooled effect of 0.40 SD](spark-mclp-cohort2-pals-pooled-effect-040.md) — related

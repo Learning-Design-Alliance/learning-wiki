@@ -55,3 +55,5 @@ Paired-samples t-test on the experimental group's essay scores (N=25) in a quasi
 - [The control group taught by the traditional method showed no significant pre-test to post-test improvement](traditional-group-no-vocabulary-gain.md) — related
 - [The combined (traditional plus active learning) teaching method significantly improved pre-to-post knowledge scores](combined-method-significant-pre-post-gain.md) — related
 - [Students in the Statecraft X intervention class outperformed control class students on all four essay criteria in a summative writing task](statecraft-x-intervention-outperformed-control-essay.md) — related
+- [Writing performance improved significantly from pre-test to post-test across the writing-instruction groups](pretest-posttest-writing-gain-significant.md) — related
+- [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in writing](web-based-instruction-outperforms-traditional-writing.md) — related

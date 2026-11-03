@@ -12,7 +12,7 @@ generated:
 # Grading Policy Decisions
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 23 claims (4 for, 16 mixed, 3 against) · 19 studies (5 causal, 4 associational, 3 review, 3 qualitative, 3 theoretical, 1 design), `q1`–`q3` · 1 of 19 report an effect size · 23 claims rest on one study
+> **Evidence** · 24 claims (4 for, 16 mixed, 4 against) · 20 studies (6 causal, 4 associational, 3 review, 3 qualitative, 3 theoretical, 1 design), `q1`–`q3` · 2 of 20 report an effect size · 24 claims rest on one study
 
 ## Description
 Assigning a grade is rarely a single, self-evident calculation — it bundles several genuinely separable policy decisions, each carrying real tradeoffs.
@@ -72,6 +72,7 @@ Assigning a grade is rarely a single, self-evident calculation — it bundles se
 - [Exceptional mismatches between test rank and school grade are explicable by social circumstances](../claims/test-grade-mismatches-explained-by-home-conditions.md) [~W]
 - [School grades show very wide variation among teachers, shrinking little within a single institution (Starch)](../claims/starch-wide-variation-school-grades.md) [-W]
 - [The weight of online exams in the final mark does not affect online exam results](../claims/online-exam-weight-does-not-affect-results.md) [~W]
+- [Across the total sample, exam scores correlated only weakly with total course points earned in learning activities (r = 0.30), suggesting grades did not strictly follow assessed learning](../claims/weak-correlation-exam-scores-course-points.md) [-W]
 
 ## Related Principles
 - [Validity, Reliability, and Bias in Classroom Assessment](../principles/validity-reliability-and-bias-in-classroom-assessment.md) — grading decisions inherit the underlying assessment's validity and reliability properties, but add a further, separable layer of composition choices

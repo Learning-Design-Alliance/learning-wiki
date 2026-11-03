@@ -51,3 +51,4 @@ Quasi-experiment in a first-year engineering lab (325 students across two task s
 - [On camera doctor defect-diagnosis questions the conditions did not differ overall, but DAA students generated better malfunction explanations](daa-camera-doctor-description-advantage.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
+- [Students' views on the animated 5E activities clustered around active learning, motivation and enjoyment, with time demands as the main disadvantage](student-views-animated-5e-advantages.md) — related

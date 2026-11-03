@@ -12,7 +12,7 @@ generated:
 # Alternative Math Assessments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (5 quant-synthesis, 2 causal, 2 review), `q2`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (5 quant-synthesis, 3 causal, 2 review), `q2`–`q4` · 4 of 10 report an effect size
 
 ## Description
 Alternative math assessments are formats for measuring number-fact fluency and mathematical understanding that do not rely on speeded, high-stakes recall tests. They include interview-based assessment, games, number talks, portfolio tasks, and untimed or low-stakes fluency checks. The goal is to measure what learners actually know — not how their knowledge holds up under time pressure and anxiety.

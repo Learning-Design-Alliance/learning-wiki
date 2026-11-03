@@ -52,3 +52,4 @@ Pretest-posttest control group study (pre-experimental design) with two intact c
 - [Supplemental blended learning with the Memrise app produced significantly higher post-test vocabulary scores than face-to-face instruction in Iranian EFL learners](memrise-blended-learning-vocabulary-posttest-gain.md) — related
 - [Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses](multimedia-glosses-improve-efl-vocabulary-acquisition.md) — related
 - [Learners did not gain more vocabulary from favored-context (sport) passages than from disfavored-context (geography) passages; the favored-context hypothesis was rejected](favored-context-hypothesis-rejected-sport-vs-geography.md) — related
+- [Both strategies produced gains in vocabulary knowledge over the course of the treatment](both-strategies-improved-vocabulary-knowledge.md) — a broader claim this one bears on

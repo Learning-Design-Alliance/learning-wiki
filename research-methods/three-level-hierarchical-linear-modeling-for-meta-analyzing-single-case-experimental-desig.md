@@ -33,7 +33,8 @@ The article uses a three-level hierarchical linear model in which DTT implementa
 - [The Daily Report Card significantly improves behavior for students with ADHD, increasing desirable behavior by approximately 30 percentage points from baseline to intervention](../claims/drc-30-percentage-point-gain-adhd-single-case.md) [+M]
 
 ## Related Research Methods
--
+
+- [BC-SMD framework: hierarchical-model-based, design-comparable effect size for single-case designs](bc-smd-framework-hierarchical-model-based-design-comparable-effect-size-for-single-case-de.md)
 
 ## Key Sources
 - Joelle Fingerhut, & Mariola Moeyaert. (2022). Training Individuals to Implement Discrete Trials with Fidelity: A Meta-Analysis. Focus on Autism and Other Developmental Disabilities, 37(4), 239–250. https://doi.org/10.1177/10883576221081076

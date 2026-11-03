@@ -17,7 +17,7 @@ sources:
 # Standardized five-activity one-on-one tutoring lesson plan for early literacy
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q3` · 2 of 2 report an effect size
 
 ## Description
 Each SPARK tutoring session follows a standardized lesson plan template of five research-based literacy activities: a Familiar activity reviewing a recently learned skill; Word Play providing targeted, differentiated instruction on foundational reading skills through Word Sorts and Making Words; reading at the instructional level with tutor-assisted leveled books and book walks; Running Records every second or third lesson to track progress independent of tutor assistance; and Writing using Elkonin boxes to encode words. The lesson ends with students hearing their tutor read aloud fluently and with expression.

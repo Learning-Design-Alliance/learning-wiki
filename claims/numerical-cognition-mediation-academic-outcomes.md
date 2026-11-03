@@ -60,3 +60,4 @@ Path analysis mediation model (final pruned model) fitted to longitudinal data f
 - [Visuospatial memory did not predict word reading achievement in any grade, providing a discriminative contrast with mathematics](visuospatial-memory-not-predict-word-reading.md) — related
 - [Different domain-general factors uniquely account for variation in different arithmetic skills](domain-general-factors-skill-specific.md) — related
 - [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
+- [Visuospatial skill improvement does not mediate intervention effects on classroom behavior](vs-improvement-does-not-mediate-behavior.md) — related

@@ -31,7 +31,7 @@ sources:
 # Accessible Vocabulary & Syntax
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (15 for, 3 mixed, 2 against) · 28 studies (9 causal, 6 review, 4 quant-synthesis, 3 design, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 4 of 28 report an effect size · 15 claims rest on one study
+> **Evidence** · 21 claims (15 for, 4 mixed, 2 against) · 29 studies (10 causal, 6 review, 4 quant-synthesis, 3 design, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 4 of 29 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,7 @@ Immediate comprehension of a simplified text, comprehension of the original, del
 - Text Accessibility Drives Context Clue Compensation [+M]
 - [Prior meta-analytic and experimental evidence reports positive effects of linguistic simplification on learning outcomes, attributed by the review literature cited in this article](../claims/linguistic-simplification-positive-learning-outcomes-prior-evidence.md) [+M]
 - [Adequate definitions of abstract and familiar terms rarely appear before the eleventh year](../claims/adequate-definitions-rare-before-eleventh-year.md) [+W]
+- [In-context (top-down) vocabulary training had no significant impact on reading comprehension](../claims/top-down-training-no-comprehension-impact.md) [~W]
 
 ## Related Principles
 - [Explicit Instruction: Vocabulary](explicit-instruction-vocabulary.md) — focuses on the direct teaching of word meanings and usage

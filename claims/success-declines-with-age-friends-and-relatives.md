@@ -48,3 +48,4 @@ Descriptive means across the six scenarios: 20-year-old relative M =7.80 vs frie
 - [Estimated success at helping others learn Facebook decreases significantly as the hypothetical learner's age increases from 20 to 60](estimated-success-decreases-older-learners-facebook.md) — related
 - [Whether the learner is a friend or a relative shows no significant main effect on estimated success at helping them learn Facebook](no-acquaintance-type-effect-success-estimates.md) — related
 - [No significant age x acquaintance interaction on estimated success helping others learn Facebook](no-age-acquaintance-interaction-success-estimates.md) — related
+- [Mean problem scores decreased after the intervention across all age groups (12, 13, and 14 years)](intervention-means-decreased-across-age-groups.md) — related

@@ -47,3 +47,4 @@ ANCOVA comparing 20-student TPR and 20-student DM groups with pretest as covaria
 ## Related Claims
 - [Direct Method instruction significantly improves EFL young learners' L2 vocabulary knowledge from pretest to posttest](direct-method-improves-efl-childrens-vocabulary.md) — related
 - [TPR instruction significantly improves EFL young learners' L2 vocabulary knowledge from pretest to posttest](tpr-improves-iranian-efl-childrens-vocabulary.md) — related
+- [Education level significantly moderates the effect of TPR on vocabulary learning, with larger effects in adult (university) samples than young learners](tpr-effect-education-level-moderator.md) — related

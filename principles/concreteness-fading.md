@@ -50,7 +50,7 @@ sources:
 # Concreteness Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (12 for, 13 mixed, 2 against) · 30 studies (14 causal, 5 theoretical, 4 quant-synthesis, 4 review, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 30 report an effect size · 22 claims rest on one study
+> **Evidence** · 27 claims (12 for, 13 mixed, 2 against) · 32 studies (16 causal, 5 theoretical, 4 quant-synthesis, 4 review, 2 qualitative, 1 associational), `q1`–`q4` · 8 of 32 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 

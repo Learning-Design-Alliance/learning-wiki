@@ -67,3 +67,4 @@ Between-group comparison at post-test (table 3): Regular group mean 90.93 (SD 4.
 - [The achievement gain of the multimedia group was statistically significantly higher than the gain of the traditionally taught group](multimedia-gain-exceeds-traditional-gain.md) — related
 - [Eighth-grade social studies students taught with the iPad scored significantly higher on mental skills at post-test than traditionally taught controls](ipad-posttest-mental-skills-advantage.md) — related
 - [Eighth-grade social studies students taught with the iPad scored significantly higher on performance skills at post-test than traditionally taught controls](ipad-posttest-performance-skills-advantage.md) — related
+- [Blended learning raises fifth graders' achievement in My Beautiful Language Textbook more than traditional instruction](blended-learning-improves-arabic-textbook-achievement-grade5.md) — related

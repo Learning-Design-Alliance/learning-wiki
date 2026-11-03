@@ -13,7 +13,7 @@ generated:
 # Elaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 35 claims (18 for, 11 mixed, 6 against) · 36 studies (21 causal, 6 quant-synthesis, 5 review, 4 associational), `q1`–`q4` · 12 of 36 report an effect size · 29 claims rest on one study
+> **Evidence** · 35 claims (18 for, 11 mixed, 6 against) · 38 studies (23 causal, 6 quant-synthesis, 5 review, 4 associational), `q1`–`q4` · 14 of 38 report an effect size · 29 claims rest on one study
 
 ## Description
 Elaboration is the process of expanding on new information by relating it to what one already knows — generating explanations, examples, analogies, or "why" and "how" questions. As an instructional element, it means designing prompts and activities that require learners to produce these connections rather than passively rereading material. Elaboration deepens encoding by integrating new content into existing knowledge structures, making it more retrievable and more transferable.

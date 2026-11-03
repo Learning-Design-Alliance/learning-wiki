@@ -56,3 +56,4 @@ Individual-level analysis (Table 4, Kruskal-Wallis tests, N=12 observations per 
 - [Individual development charts show all experimental students improved their ideas, compared with 47.62% of control students](individual-conceptual-change-development-charts.md) — related
 - [CPS sections showed larger pre-posttest gains than the control group despite lower pretest preparedness](cps-larger-preposttest-gains.md) — related
 - [Both groups improved from pretest to posttest, with the blended group's posttest means exceeding the control group's](pre-post-gains-blended-exceed-control.md) — related
+- [First-semester calculus students in an experimental reflective-abstraction section outperformed a matched traditional section on a posttest of limits](reflective-abstraction-curriculum-improves-limit-posttest.md) — related

@@ -50,6 +50,7 @@ Based on the finding that mobility, compatibility, and service quality drive acc
 
 - [Platform Agnostic Design](platform_agnostic_design.md)
 - [Use attention-attracting internet-based education programs more frequently, with infrastructure, mobile compatibility and teacher awareness](internet-based-programs-frequent-use-strategy.md)
+- [Integrate mobile language learning apps into language teaching so students gain additional learning time outside school](mobile-app-additional-learning-time-strategy.md)
 
 ## Examples
 -

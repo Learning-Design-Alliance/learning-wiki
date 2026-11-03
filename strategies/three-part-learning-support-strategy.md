@@ -52,6 +52,7 @@ The FOCUS learning support strategy divides weekly one-hour sessions into three 
 
 - [Research-based instructional strategies: jigsaw, discovery-based learning, CRA manipulatives, and technology](focus-instructional-strategies-strategy.md)
 - [Real World Math Applications](real-world_math_applications.md)
+- [Present contextual mathematics problems in the local cultural context](local-cultural-context-problems-strategy.md)
 
 ## Examples
 -

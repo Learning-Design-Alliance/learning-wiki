@@ -45,6 +45,7 @@ The article suggests that shaping a sense of in-betweenness becomes an essential
 ## Related Strategies
 
 - [Blended Learning](blended_learning.md)
+- [Combine virtual and traditional teaching methods to facilitate knowledge transfer in competency-based nursing skills courses](combine-virtual-traditional-nursing-skills-teaching.md)
 
 ## Examples
 -

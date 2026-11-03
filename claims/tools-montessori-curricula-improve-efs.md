@@ -73,3 +73,4 @@ The review reports a lottery-based comparison of children entering an AMI-approv
 - [Isolated EF interventions show robust near-term EF gains but poor transfer, including to early mathematics](isolated-ef-interventions-poor-transfer.md) — related
 - [Mindfulness interventions show comparatively robust efficacy for preschool SR/EF, especially for outcomes requiring integrated mobilisation of EFs and SR](mindfulness-preschool-sr-ef-efficacy.md) — related
 - [Children attending alternative schools (Montessori, Steiner) outperform mainstream-school children on figural divergent and convergent thinking measures](alternative-school-children-outperform-mainstream-figural-creativity.md) — related
+- [An after-school EF/VS intervention improves directly assessed executive function in kindergarten and first-grade children (intent-to-treat)](after-school-intervention-improves-executive-function.md) — related

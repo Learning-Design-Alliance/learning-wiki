@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 62 claims (39 for, 22 mixed, 1 against) · 46 studies (14 causal, 14 quant-synthesis, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 12 of 46 report an effect size · 60 claims rest on one study
+> **Evidence** · 65 claims (42 for, 22 mixed, 1 against) · 48 studies (16 causal, 14 quant-synthesis, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 12 of 48 report an effect size · 63 claims rest on one study
 
 ## Description and scope
 
@@ -113,6 +113,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [University students in a blended learning German course showed significantly greater achievement gains than students in a traditional face-to-face course over 10 weeks](../claims/blended-learning-greater-german-achievement-gains.md) [+W] — attached 2026-11-02 from Isiguzel (2014), which proposed "Blended foreign language course pattern combining weekly online activities with face-to-face instruction"; tests this page's relationship.
 - [Grade-10 students taught via a lab-rotation blended learning model scored significantly higher on a mathematics conceptual understanding post-test than students taught conventionally](../claims/blended-learning-lab-rotation-improves-math-conceptual-understanding.md) [+W] — attached 2026-11-02 from Abdissa et al. (2024), which proposed "Lab-rotation blended learning via Google Classroom for secondary mathematics"; tests this page's relationship.
 - [Within-group pre-to-post gains were larger in the blended learning group (MD = 14.327, d = 1.016) than in the comparison group (MD = 8.231, d = .408)](../claims/blended-learning-within-group-gain-math-conceptual-understanding.md) [+W] — attached 2026-11-02 from Abdissa et al. (2024), which proposed "Integrate blended learning elements into secondary mathematics curricula and support teachers with training"; tests this page's relationship.
+- [Combined teacher-plus-software instruction significantly outperformed software alone on pronunciation performance](../claims/combined-instruction-beats-software-alone.md) [+W] — attached 2026-11-02 from Yang Gao et al. (2016), which proposed "Combine human-aided instruction with instructional software when teaching pronunciation to young lower-proficiency learners"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -167,6 +168,8 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [The task-based method produced a more noticeable posttest effect on resumptive-pronoun learning than blended learning, though no between-group significance test is reported](../claims/tblt-more-effective-than-blended-learning-for-rps.md) [-W]
 - [Blended teaching produced significantly higher mathematics achievement than traditional teaching among third graders, accounting for 32.6% of posttest variance](../claims/blended-teaching-third-grade-maths-achievement.md) [+W]
 - [Applying learning roadmaps across universities showed junior students lack readiness for self-educational activity in blended learning, while senior students embrace blended learning principles yet prefer traditional forms](../claims/junior-senior-readiness-blended-learning-roadmaps.md) [~W]
+- [Descriptive gains in algebra achievement were largest for the blended learning group, followed by PBL and then TLM](../claims/bl-largest-descriptive-gain-algebra.md) [+W]
+- [Both blended learning and problem-based learning produced significantly higher algebra achievement than traditional lecture method, while BL and PBL did not differ significantly](../claims/bl-pbl-outperform-tlm-algebra.md) [+W]
 
 ## Examples
 

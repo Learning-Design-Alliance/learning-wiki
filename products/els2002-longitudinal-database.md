@@ -31,6 +31,7 @@ A nationally representative U.S. longitudinal education dataset maintained by th
 ## Related Products and Programmes
 
 - [National Education Longitudinal Survey (NELS)](national-education-longitudinal-survey-nels.md)
+- [National Early Intervention Longitudinal Study (NEILS) data set](national-early-intervention-longitudinal-study-neils-data-set.md)
 
 ## Key Sources
 - Herbert W. Marsh, Reinhard Pekrun, Jiesi Guo, John Hattie, Eyal Karin. (2023). Too Much of a Good Thing Might Be Bad: the Double-Edged Sword of Parental Aspirations and the Adverse Effects of Aspiration-Expectation Gaps. Educational Psychology Review. https://doi.org/10.1007/s10648-023-09768-8

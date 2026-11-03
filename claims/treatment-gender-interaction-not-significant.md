@@ -49,3 +49,4 @@ ANCOVA interaction term (treatment*gender) on post-test achievement in the non-e
 - [Graphic organiser treatment has a significant main effect on students' achievement in algebraic word problems, accounting for 23.5% of post-test variance](graphic-organiser-significant-main-effect-algebraic-word-problems.md) — related
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — related
 - [Treatment and verbal ability interact significantly in their effect on students’ interest in mathematics](treatment-verbal-ability-interaction-interest.md) — related
+- [Treatment and gender did not interact significantly in their effects on algebra achievement](no-treatment-gender-interaction-algebra.md) — related

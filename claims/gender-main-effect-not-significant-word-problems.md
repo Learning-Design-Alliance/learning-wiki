@@ -48,3 +48,4 @@ ANCOVA of post-test achievement scores by gender in the same non-equivalent grou
 - [The interaction of treatment and gender has no statistically significant effect on achievement in algebraic word problems](treatment-gender-interaction-not-significant.md) — related
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — reports the opposite
 - [Graphic organiser treatment has a significant main effect on students' achievement in algebraic word problems, accounting for 23.5% of post-test variance](graphic-organiser-significant-main-effect-algebraic-word-problems.md) — related
+- [Gender has a statistically significant but small main effect on algebra achievement favouring male students](gender-small-main-effect-algebra.md) — related

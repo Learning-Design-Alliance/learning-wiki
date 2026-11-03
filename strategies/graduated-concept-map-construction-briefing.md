@@ -49,6 +49,7 @@ The article prescribes a stepwise introduction to concept mapping for EFL readin
 
 - [Use teacher-student interactive map construction so the teacher can correct misinformation and introduce new ideas](teacher-student-interactive-map-construction.md)
 - [Provide scaffolding (fill in the map) plus explicit instruction and feedback when teaching concept mapping for reading comprehension](scaffolding-feedback-cm-instruction-strategy.md)
+- [Introduce concept mapping through direct training, attend to computer ability, and start with familiar topics](concept-mapping-implementation-recommendations-efl.md)
 
 ## Examples
 -

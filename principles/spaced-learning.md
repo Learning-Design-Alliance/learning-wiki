@@ -348,7 +348,7 @@ Spacing works because the partial forgetting that occurs between sessions makes 
 - [Spaced Practice Improves Long Term Retention](../claims/spaced-practice-improves-retention.md) [+S] — Cepeda et al. (2006) meta-analysis; the advantage grows with the retention interval
 - [Spacing Improves Retention](../claims/spaced-practice-improves-retention.md) [+S] — distributed practice rated among the highest-utility techniques by Dunlosky et al. (2013)
 - [Spaced Retrieval Outperforms Restudy](../claims/spaced-retrieval-outperforms-restudy.md) [+M] — a spaced *retest* is far more powerful than a spaced *reread*
-- [Interleaving Improves Retention](../claims/interleaving-improves-inductive-learning.md) [+M] — shuffling problem types across sessions, the mathematics case (Rohrer & Taylor, 2007)
+- [Interleaving Improves Retention](../claims/interleaving-improves-inductive-learning.md) [+M] — shuffling problem types across sessions, the mathematics case ([Rohrer & Taylor, 2007](https://doi.org/10.1007/s11251-007-9015-8))
 
 ## Related Principles
 - [Retrieval Practice](retrieval-practice.md) — spaced retrieval is the most powerful combination; spacing without retrieval (e.g., spaced rereading) forfeits most of the benefit

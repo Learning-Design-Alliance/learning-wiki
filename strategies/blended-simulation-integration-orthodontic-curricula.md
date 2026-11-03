@@ -51,6 +51,8 @@ The review recommends that educators integrate simulation-based methods into ort
 - [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
 - [Integrate high-quality, high-fidelity simulation-based learning into endocrinology curricula alongside traditional methods](integrate-high-quality-sbl-endocrinology-curricula.md)
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
+- [Blend web-based and traditional approaches rather than replacing classroom instruction with web-based instruction](amalgamate-web-based-and-traditional-approaches.md)
+- [Use web-assisted activities and simulations in an integrated way with real experiments rather than as a replacement](integrated-web-activities-with-real-experiments.md)
 
 ## Examples
 -

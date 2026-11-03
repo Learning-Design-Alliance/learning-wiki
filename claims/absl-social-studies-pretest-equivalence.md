@@ -52,3 +52,4 @@ Pre-test equivalence check on the same 94-student quasi-experiment. Pre-test mea
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
 - [One-way ANOVAs found no differences among the ASR, Non-ASR and Control groups on pretest or posttest in either /y/ production or perception](anova-no-group-differences-pre-post.md) — related
 - [Male and female experimental and control students were homogeneous in reading comprehension before the treatment](pretest-homogeneity-blog-reading-study.md) — related
+- [Pre-test comparison showed no significant difference between experimental and control groups before implementation](pretest-no-difference-groups.md) — related

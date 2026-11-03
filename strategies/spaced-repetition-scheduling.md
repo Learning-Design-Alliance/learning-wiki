@@ -77,11 +77,13 @@ Spacing produces substantially better long-term retention than massed study of t
 6. Monitor item difficulty and retire or rework items that repeatedly fail, to prevent the schedule from filling with poorly encoded material.
 
 ## Related Strategies
+
 - [Retrieval Practice](retrieval-practice-activities.md) — the active-recall mechanism that makes each spaced review effective; spacing without retrieval (mere rereading) yields much smaller gains
 - [Interleaving](interleaving.md) — often combined with spacing; mixing item types within a session compounds the desirable-difficulty benefit
 - [Cumulative Review Quizzes](cumulative-review-quizzes.md) — a classroom implementation that spaces older material without software
 - [Cramming](cramming.md) — the massed contrast case; effective for immediate performance but inferior for retention
 - [Cumulative Quizzing](cumulative-quizzing.md) — a course-level mechanism for delivering spaced retrieval at scale
+- [Organize course vocabulary by normal use rather than contrived semantically-related sets, and present SR items at different times or in different contexts](avoid-contrived-semantic-sets-presentation.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — open-source SRS using the SM-2 expanding-interval algorithm; widely used in medical education, where studies report improved exam retention for spaced flashcard users.

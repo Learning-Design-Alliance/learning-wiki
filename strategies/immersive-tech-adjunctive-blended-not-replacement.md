@@ -58,6 +58,7 @@ The review recommends a measured adoption strategy: immersive technologies and v
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Implement communication skills training in medical curricula](communication-skills-training-medical-curricula.md)
 - [Consider VR as an adjunct to dissection and evaluate cost-effectiveness and adverse reactions when adopting VR for anatomy teaching](vr-anatomy-adjunct-adoption-strategy.md)
+- [Blend web-based and traditional approaches rather than replacing classroom instruction with web-based instruction](amalgamate-web-based-and-traditional-approaches.md)
 
 ## Examples
 -

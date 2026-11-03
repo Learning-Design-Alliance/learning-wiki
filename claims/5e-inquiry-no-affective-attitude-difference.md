@@ -47,3 +47,4 @@ Independent samples t-test on ASCI affective post-test scores in the same five-w
 ## Related Claims
 - [5E inquiry learning activities did not change cognitive attitude toward chemistry relative to lecture-based teaching](5e-inquiry-no-cognitive-attitude-gain-difference.md) — related
 - [Treatment has a significant main effect on students' attitude to chemistry](treatment-main-effect-chemistry-attitude.md) — reports the opposite
+- [The animation-assisted 5E application produced a significant pre-to-post attitude change in the experimental group while the control group's attitudes did not change](animation-5e-attitude-change-experimental-only.md) — related

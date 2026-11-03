@@ -19,7 +19,7 @@ sources:
 # Knowledge Organization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (18 for, 13 mixed) · 33 studies (10 causal, 8 review, 6 quant-synthesis, 3 associational, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 6 of 33 report an effect size · 26 claims rest on one study
+> **Evidence** · 31 claims (18 for, 13 mixed) · 35 studies (12 causal, 8 review, 6 quant-synthesis, 3 associational, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 8 of 35 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 

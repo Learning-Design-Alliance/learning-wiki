@@ -35,7 +35,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (35 for, 11 mixed, 3 against) · 53 studies (25 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 10 of 53 report an effect size · 39 claims rest on one study
+> **Evidence** · 50 claims (36 for, 11 mixed, 3 against) · 54 studies (26 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 11 of 54 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
@@ -183,6 +183,7 @@ Recognising a word, recalling its meaning, comprehending a text that uses it, us
 - [The standalone intervention significantly improved grade 2 FRA Sentence Comprehension only among cohort 1 students with a low vocabulary baseline (0.38 standard deviation)](../claims/grade2-sentence-comprehension-low-vocabulary-cohort1.md) [~W]
 - [Observed classroom vocabulary teaching in the studied Tamil Nadu government school was a partial embedded method with minimal importance given to vocabulary and no intentional learning environment](../claims/partial-embedded-vocabulary-teaching-observed.md) [-W]
 - [Students taught with the structural method of vocabulary teaching scored significantly higher than students taught with the contextual method on the posttest](../claims/structural-method-outperforms-contextual-posttest-vocabulary.md) [+W]
+- [The intervention produced a large treatment effect on sixth graders' recognition of taught bound roots](../claims/large-treatment-effect-root-recognition-grade-6.md) [+W]
 
 ## Related Principles
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — explicit vocabulary instruction is a direct mechanism for making language more usable

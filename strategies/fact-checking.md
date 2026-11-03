@@ -12,7 +12,7 @@ generated:
 # Fact Checking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 14 studies (6 causal, 5 quant-synthesis, 3 review), `q2`–`q4` · 4 of 14 report an effect size
+> **Evidence** · 4 claims (4 for) · 15 studies (7 causal, 5 quant-synthesis, 3 review), `q2`–`q4` · 4 of 15 report an effect size
 
 ## Description
 Fact checking is a strategy in which learners actively verify the accuracy of claims rather than accepting them at face value. It is carried out through concrete moves: leaving the original source to read what independent outlets say about it (lateral reading), investigating who is behind a claim, tracing quotes and images to their origins, and corroborating assertions across multiple sources. Unlike passive source-evaluation heuristics (checking for professional design or an "About" page), professional fact checkers evaluate by opening new tabs and seeing what the rest of the web says [Wineburg & McGrew, 2019].

@@ -52,3 +52,4 @@ Chi-square tests on error frequencies (children classified as committing or not 
 - [The bilingual advantage in perspective taking appears at the 180° and 270° observer positions but not at the 90° position](bilingual-advantage-difficult-observer-positions.md) — related
 - [Bilingual 8-year-olds are more accurate than monolingual 8-year-olds on a computerized spatial perspective-taking task](bilingual-advantage-spatial-perspective-taking.md) — related
 - [Language group predicts perspective-taking accuracy after controlling for receptive vocabulary and fluid intelligence](language-group-predicts-perspective-taking-accuracy-regression.md) — related
+- [The findings contradict Piaget's thesis that children under six or seven cannot decenter, supporting that preschoolers can take the perspective of others](preschoolers-decenter-contradicting-piaget.md) — related

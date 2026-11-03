@@ -51,6 +51,7 @@ The article concludes that "the blend itself will focus on optimizing the mix of
 - [Select technology-based learning elements intentionally across four design considerations, chosen to align with stakeholders and learning theory](intentional-selection-four-design-considerations.md)
 - [Combine online and offline teaching (blended learning) to maximize benefits in undergraduate medical education](blended-learning-ume-recommendation.md)
 - [Blended Learning](blended_learning.md)
+- [Blend web-based and traditional approaches rather than replacing classroom instruction with web-based instruction](amalgamate-web-based-and-traditional-approaches.md)
 
 ## Examples
 -

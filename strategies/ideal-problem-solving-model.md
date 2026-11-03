@@ -13,7 +13,7 @@ generated:
 # IDEAL Problem-Solving Model
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 5 studies (4 causal, 1 quant-synthesis), `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 IDEAL (Bransford & Steen, 1984) is a general problem-solving system usable across curriculum areas and problem types, named for its five stages:

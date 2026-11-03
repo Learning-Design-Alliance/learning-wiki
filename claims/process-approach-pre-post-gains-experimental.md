@@ -53,3 +53,4 @@ Paired t-test comparison of pre-test and post-test scores for the 40 Experimenta
 - [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related
 - [Students in the Statecraft X intervention class outperformed control class students on all four essay criteria in a summative writing task](statecraft-x-intervention-outperformed-control-essay.md) — related
 - [The experimental group's text production improved significantly from pre-test to post-test](experimental-group-pre-post-gain-significant.md) — related
+- [Writing performance improved significantly from pre-test to post-test across the writing-instruction groups](pretest-posttest-writing-gain-significant.md) — related

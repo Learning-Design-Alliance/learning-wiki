@@ -63,6 +63,7 @@ Disciplinary literacy research shows that each field has distinct ways of making
 - [Case-Based Learning](../elements/case-studies.md) — longer authentic disciplinary artifacts read for analysis rather than genre modeling
 - [Reading-Writing Connection](reading-writing-connection.md) — discipline-specific reading is the model-provision half of a reading-to-write sequence
 - [Establish ways of understanding research traditions behind English-language articles, including disciplinary thesauri and collaborative systems](disciplinary-thesauri-for-edtech-traditions.md)
+- [Pedagogical implications: teach writing through situational-cultural context, form-meaning association, and discourse community awareness](genre-analysis-pedagogical-implications-writing.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the delivery mechanism for the texts

@@ -25,18 +25,20 @@ The What Works Clearinghouse rates interventions per outcome domain by combining
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **WWC effectiveness rating framework for intervention evidence**: The What Works Clearinghouse rates interventions per outcome domain by combining study design quality with the magnitude, statistical significance, and consistency of findings. Ratings range from positive effects to no discernible effects; for example, "Potentially positive effects" requires "At least one study shows a statistically significant or substantively important positive effect" with no overriding contrary evidence. A finding is "substantively important" when it "has an effect size of 0.25 or greater, regardless of statistical significance." Extent of evidence is rated small, medium to large, based on the number of studies, schools, and total sample size. (Everyday Mathematics®)
+- **WWC-modeled three-level evidence rating system for formative assessment studies**: The review assigned evidence ratings "using an approach modeled after the What Works Clearinghouse (WWC) Procedures and Standards Handbook, Version 3.0, for reviewing comparative group designs". WWC-certified researchers rated each eligible study into one of three categories: meets standards without reservations (highest, supporting causal inference), meets standards with reservations (does not support attribution of cause solely to formative assessment), and does not meet standards (not rigorous enough to support causal interpretation). Coding used a form adapted from McMillan et al. (2013). (Apthorp et al. (2016))
 
 ### Claims
 - [Everyday Mathematics® has potentially positive effects on mathematics achievement for primary students, with a substantively important but statistically non-significant effect size of 0.27](../claims/everyday-mathematics-potentially-positive-primary-math-achievement.md) [+M]
 - [The evidence base for Everyday Mathematics® on primary mathematics achievement is small: one study of 3,436 students met WWC standards, and 33 of 34 eligible studies did not meet group design standards](../claims/everyday-mathematics-small-evidence-base-one-qualifying-study.md) [+M]
 
 ## Related Research Methods
--
+
+- [Five-category characterization of formative assessment effects using benchmark effect size and statistical significance](five-category-characterization-of-formative-assessment-effects-using-benchmark-effect-size.md)
 
 ## Key Sources
 - U.S. Department of Education, Institute of Education Sciences, What Works Clearinghouse. (2015, November). Primary Mathematics intervention report: Everyday Mathematics®. https://ies.ed.gov/ncee/wwc/InterventionReport/166
-
 <!-- merged 2026-10-10 from theories/wwc-effectiveness-rating-framework ("WWC effectiveness rating framework for intervention evidence"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Apthorp, H., Klute, M., Petrites, T., Harlacher, J., & Reale, M. (2016). Valuing a more rigorous review of formative assessment's effectiveness. SREE Spring 2016 Conference Proposal. https://www.relcentral.org/news-and-events/the-essence-of-formative-assessment-creating-a-common-understanding-of-the-formative-assessment-process/
 
 # WWC effectiveness rating framework for intervention evidence
 

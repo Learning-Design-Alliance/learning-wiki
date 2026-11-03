@@ -72,3 +72,5 @@ Dependent-samples t-test within the control class comparing post-test (16.63) an
 - [The SQ4R group's reading comprehension advantage persisted on a permanence test administered four weeks after the post-test](sq4r-reading-comprehension-permanence.md) — related
 - [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](active-learning-permanence-effect-my-town-unit.md) — related
 - [Pupils taught with the learning technologies reached a higher complex assessment of educational skills than control pupils (63.4% vs 50.4% of maximum)](learning-technologies-higher-complex-assessment-experimental-group.md) — related
+- [Animation-supported 5E instruction produced significantly higher retention scores than the current programme five weeks after implementation](animation-5e-higher-retention-scores.md) — related
+- [The virtual material did not significantly improve knowledge permanency three weeks after the unit, while the control group's scores declined significantly](virtual-material-no-permanency-advantage.md) — related

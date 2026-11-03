@@ -54,3 +54,5 @@ Qualitative descriptive analysis of a two open-ended-question questionnaire admi
 - [Short stories as classroom tools improved motivation toward L2 reading for most but not all EFL students](short-stories-mixed-motivation-efl-reading.md) — related
 - [Students expressed positive overall opinions of GBSRI, rating Independent Practicing highest and Post-writing lowest](gbsri-positive-student-opinions-stage-ratings.md) — related
 - [Jigsaw group students reported mostly positive opinions, most commonly easier experiments, exchange of ideas, and shorter experiment duration](jigsaw-positive-student-opinions.md) — related
+- [Participants held positive attitudes toward Web-based reading strategy instruction](positive-attitudes-toward-web-based-strategy-instruction.md) — related
+- [Students expressed positive opinions about the SQ3R intervention, while reporting that summarizing was difficult](student-positive-opinions-sq3r-intervention.md) — related

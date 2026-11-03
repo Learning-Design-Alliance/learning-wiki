@@ -17,7 +17,7 @@ sources:
 # Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 7 studies (4 quant-synthesis, 2 causal, 1 review), `q1`–`q4` · 3 of 7 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 8 studies (4 quant-synthesis, 3 causal, 1 review), `q1`–`q4` · 3 of 8 report an effect size · 6 claims rest on one study
 
 ## Description
 The review recommends treating CPR education as an ongoing, reinforcement-based process rather than a one-time intervention, integrating "optimized training intervals, feedback mechanisms, and cognitive–behavioral components." It advises future research and training design to combine these components instead of evaluating isolated educational elements, with emphasis on long-term retention and real-world implementation in community settings.

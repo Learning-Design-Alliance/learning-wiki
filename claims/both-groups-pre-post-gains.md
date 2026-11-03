@@ -68,3 +68,5 @@ Paired t-test of pre-/post-test scores in the 80-student controlled experiment. 
 - [Within-group pre-to-post gains were much larger for the direct instruction group than for the traditionally taught control group](direct-instruction-larger-pre-post-gains.md) — related
 - [Within-group pre-to-post gains were larger in the blended learning group (MD = 14.327, d = 1.016) than in the comparison group (MD = 8.231, d = .408)](blended-learning-within-group-gain-math-conceptual-understanding.md) — related
 - [Both jigsaw and traditionally taught groups showed statistically significant pre-test to post-test gains, with a larger gain in the jigsaw group](jigsaw-and-control-both-gain-significantly-pre-to-post.md) — related
+- [The traditionally taught control group also improved significantly from pre-test to post-test](control-group-pre-post-gain.md) — a narrower finding that bears on this claim
+- [Writing performance improved significantly from pre-test to post-test across the writing-instruction groups](pretest-posttest-writing-gain-significant.md) — a narrower finding that bears on this claim

@@ -13,7 +13,7 @@ generated:
 # Act It Out
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (21 for, 6 mixed, 3 against) · 37 studies (18 causal, 7 review, 6 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 7 of 37 report an effect size · 26 claims rest on one study
+> **Evidence** · 31 claims (21 for, 7 mixed, 3 against) · 38 studies (18 causal, 7 quant-synthesis, 7 review, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 7 of 38 report an effect size · 27 claims rest on one study
 
 ## Description
 Act It Out asks learners to physically perform a concept, process, historical event, social interaction, or procedure rather than only describe or discuss it. Learners take on roles, gesture abstract relationships, or simulate a system's behavior with their bodies, producing an enactive representation of the content that complements verbal and visual encoding.
@@ -78,6 +78,7 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 - [Deictic gestures improve transfer performance in Experiment 2 but not in Experiment 1, where no significant transfer effect was found](../claims/deictic-gestures-transfer-mixed.md) [~W]
 - [Drama-based science teaching improved seventh-grade students' understanding of scientific concepts compared with traditional teaching](../claims/drama-teaching-improved-scientific-concept-understanding.md) [+W] — attached 2026-11-01 from Osama H. Abed (2016), which proposed "Body-as-model physical simulation drama activities for the Heat unit"; tests this page's relationship.
 - [Drama-based science teaching improved students' attitudes towards science learning compared with traditional teaching](../claims/drama-teaching-improved-attitudes-towards-science.md) [+W] — attached 2026-11-01 from Osama H. Abed (2016), which proposed "Body-as-model physical simulation drama activities for the Heat unit".
+- [Education level significantly moderates the effect of TPR on vocabulary learning, with larger effects in adult (university) samples than young learners](../claims/tpr-effect-education-level-moderator.md) [~W]
 
 ## The evidence by question
 

@@ -55,3 +55,5 @@ Omnibus ANOVA on posttest scores of three intact groups (30 subjects each) of in
 - [Differences between the learner-constructed CM group and the other two groups were not statistically significant](learner-constructed-cm-pairwise-differences-nonsignificant.md) — related
 - [A between-subjects ANOVA on average pretest-posttest scores showed a significant difference between treatment and control groups](between-subjects-anova-treatment-control-difference.md) — related
 - [The study's null hypothesis of no pre-test/post-test difference in scores was rejected](null-hypothesis-rejected-pre-post-english.md) — related
+- [One-way ANOVA on posttest scores showed a statistically significant difference among the subtitle, no-subtitle, and control groups (F = 84.161, Sig. = .000)](anova-significant-difference-three-groups-vocabulary.md) — related
+- [Reading strategies training improves literal reading comprehension of elementary-proficiency EFL vocational students relative to conventional teaching](strategies-training-improves-literal-comprehension-efl.md) — related

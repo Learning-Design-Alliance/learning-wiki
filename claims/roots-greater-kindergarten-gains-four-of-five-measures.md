@@ -61,3 +61,5 @@ Randomized block trial with 290 at-risk kindergartners in 37 classrooms; student
 - [Transition out of the high-risk category (below the 10th TEMA percentile) did not differ significantly between ROOTS and control students](roots-risk-category-transitions-null.md) — related
 - [Student outcomes did not differ significantly between two-student and five-student ROOTS groups on any measure](no-group-size-effect-on-student-outcomes.md) — related
 - [The ROOTS kindergarten mathematics intervention significantly improved fall-to-spring gains on three of six outcome measures compared with control, with positive effect sizes on all measures](roots-kindergarten-intervention-efficacy.md) — related
+- [The intervention produced a large treatment effect on sixth graders' recognition of taught bound roots](large-treatment-effect-root-recognition-grade-6.md) — related
+- [ROOTS participants demonstrated positive intervention effects on proximal and distal mathematics measures across two cohorts](roots-positive-effects-two-cohorts.md) — related

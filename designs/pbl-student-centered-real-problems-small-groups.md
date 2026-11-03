@@ -43,7 +43,8 @@ The article characterizes problem-based learning (PBL) as "an educational approa
 - [Pbl Skill Scores Chinese Physical Diagnostics Meta Analysis](../claims/pbl-skill-scores-chinese-physical-diagnostics-meta-analysis.md) [+M]
 
 ## Related Designs
-- 
+
+- [Barrows' six essential elements of problem-based learning](barrows-six-essential-elements-pbl.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Analysis of school grades and physical measurements from two schools, treating p
 - [Anatomical development measured by wrist-bone radiographs correlates very highly with height and weight in the Baldwin study](wrist-radiograph-development-high-correlations-height-weight.md) — related
 - [Most high-school students made rapid or normal elementary progress, yet most fail in some high-school work, and schools appear better fitted for girls than for boys](progress-and-sex-patterns-high-school.md) — related
 - [Mental and physical test ranks correlate positively but weakly, allowing rough sorting into five ability groups](weak-mental-physical-correlation-five-groups.md) — related
+- [School test results differ from Presidential physical fitness test results, and high percentages of excellent/good school grades are associated with effective Presidential test results](school-versus-presidential-test-regularities.md) — related

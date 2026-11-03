@@ -51,3 +51,5 @@ Pre-test/post-test experiment with 42 first-grade ELT students at Mehmet Akif Er
 - [Adolescent EFL learners perceive cartoon-based pictorial elucidation as helpful for accurate vocabulary use and engagement](students-perceive-cartoons-helpful-vocabulary-accuracy.md) — related
 - [Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains](proficiency-motivation-involvement-gains.md) — related
 - [Vocabulary pre-teaching and pre-questioning produce no statistically significant difference in Saudi EFL college students' reading comprehension scores](no-difference-vocabulary-preteaching-prequestioning-saudi-efl.md) — related
+- [Intermediate EFL learners who watched BBC World clips with bimodal English subtitles significantly outperformed the no-subtitle and control groups on a vocabulary posttest](bimodal-subtitles-outperform-vocabulary-posttest.md) — reports the opposite
+- [Watching BBC World clips without English subtitles also improved intermediate EFL learners' vocabulary development relative to no treatment](unsubtitled-clips-improve-vocabulary-vs-control.md) — related

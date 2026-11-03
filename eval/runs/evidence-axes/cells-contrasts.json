@@ -65350,5 +65350,357 @@
  "test-format\tweekly grammar cloze tests\tweekly grammar multiple-choice tests": {
   "label": "cloze vs multiple-choice",
   "treatment_is_a": true
+ },
+ "active-learning\t5E model enriched with cooperative learning\t5E instructional model": {
+  "label": "Cooperative-learning-enriched 5E vs standard 5E",
+  "treatment_is_a": true
+ },
+ "active-learning\tProblem-based learning\tTraditional method": {
+  "label": "Problem-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tTPR-based lesson with physical participation\tnot stated": {
+  "label": "Physical-participation-based instruction vs no physical participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tanimation-supported 5E activities\tcurrent teaching method": {
+  "label": "Animation-supported 5E instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tasynchronous peer discussion\tsynchronous classroom lecture-discussion": {
+  "label": "Asynchronous online peer discussion vs synchronous classroom lecture-discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tasynchronous peer discussion in online sections\tsynchronous lecture-discussion and small-group discussion in the classroom section": {
+  "label": "Asynchronous online peer discussion vs synchronous classroom discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tgreater online discussion participation\tless online discussion participation": {
+  "label": "Greater online discussion participation vs less online discussion participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tonline asynchronous peer discussion\tclassroom synchronous lecture-discussion": {
+  "label": "Asynchronous online peer discussion vs synchronous classroom lecture-discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tonline student-teacher interaction\tstudent-content or student-student interaction": {
+  "label": "Online student-teacher interaction vs student-content or student-student interaction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning\ttraditional lecture method": {
+  "label": "Problem-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning\ttraditional method": {
+  "label": "Problem-based learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning (PBL)\ttraditional lecture method (TLM)": {
+  "label": "Problem-based learning vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning with collaborative peer problem solving\ttraditional lecture method": {
+  "label": "Problem-based learning with collaborative peer problem solving vs traditional lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\treflective-abstraction curriculum with collaborative activities and scripted instructor interactions\ttraditional calculus curriculum": {
+  "label": "Collaborative reflective-abstraction curriculum vs traditional calculus curriculum",
+  "treatment_is_a": true
+ },
+ "active-learning\treflective-abstraction curriculum with collaborative activities and scripted teacher interactions\ttraditional calculus curriculum": {
+  "label": "Collaborative reflective-abstraction curriculum vs traditional calculus curriculum",
+  "treatment_is_a": true
+ },
+ "active-learning\treflective-abstraction curriculum with peer collaboration and scripted instructor interactions\ttraditional calculus curriculum": {
+  "label": "Collaborative reflective-abstraction curriculum vs traditional calculus curriculum",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tVocabulary Self-Selection\tInput Enhancement": {
+  "label": "Vocabulary self-selection vs input enhancement",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tVocabulary Self-Selection strategy\tInput Enhancement strategy": {
+  "label": "Vocabulary self-selection vs input enhancement",
+  "treatment_is_a": true
+ },
+ "case-comparison\tComparative study of Sharia and Russian law doctrines\tNot stated": {
+  "label": "comparative vs non-comparative",
+  "treatment_is_a": true
+ },
+ "case-comparison\tComparative study of law doctrines across confessional systems\tNot stated": {
+  "label": "comparative vs non-comparative",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t20-hour web-based reading-strategy training\tpaper-based pretest baseline": {
+  "label": "Reading-strategy training vs baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t20-hour web-based reading-strategy training\tpretraining baseline": {
+  "label": "Reading-strategy training vs baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tHonors RAVE and RAVE\tcontrol": {
+  "label": "RAVE vocabulary/morphology instruction vs control instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRAVE academic vocabulary instruction with bound Latin root analysis\tcontrol vocabulary instruction without a morphology component": {
+  "label": "RAVE morphology instruction vs non-morphological vocabulary instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRAVE academic vocabulary instruction with bound-Latin-root analysis\tcontrol vocabulary instruction without a morphology component": {
+  "label": "RAVE morphology instruction vs non-morphological vocabulary instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRAVE groups (RAVE and Honors RAVE)\tcontrol group": {
+  "label": "RAVE vocabulary/morphology instruction vs control instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRAVE instruction emphasizing direct application of root meanings\tcontrol instruction": {
+  "label": "RAVE morphology instruction vs non-morphological vocabulary instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRAVE instruction teaching students to use bound Latin roots to analyze words\tcontrol instruction": {
+  "label": "RAVE morphology instruction vs non-morphological vocabulary instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRAVE morphology instruction on Latin roots\tcontrol vocabulary instruction without a morphology component": {
+  "label": "RAVE morphology instruction vs non-morphological vocabulary instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tROOTS whole-number intervention\tcore or Tier 1 mathematics instruction": {
+  "label": "ROOTS whole-number intervention vs core mathematics instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSQ3R-based reading program\tbefore intervention": {
+  "label": "SQ3R reading instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSam and Pat reading intervention\tstandard ESL instruction": {
+  "label": "Sam and Pat reading intervention vs standard ESL instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSocial Skills Teaching Program\tno training": {
+  "label": "Social-skills training vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSocial Skills Teaching Program (SSTP)\tpretest before SSTP": {
+  "label": "Social-skills training vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tVIA survey plus three positive-psychology lectures\tcontrol group": {
+  "label": "Positive-psychology intervention vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit training in predicting, text mapping, and summarizing\tconventional reading instruction": {
+  "label": "Explicit reading-strategy instruction vs conventional reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfour-session Social Skills Teaching Program\tno training": {
+  "label": "Social-skills training vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tisolated vocabulary training\tno target words in control text": {
+  "label": "Isolated vocabulary training vs no vocabulary training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmedical vocabulary taught through collocations\ttraditional instruction using synonyms, antonyms, definitions, and mother-tongue translation": {
+  "label": "Collocation-based vocabulary instruction vs traditional vocabulary instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpredicting, text mapping, and summarizing training\tconventional reading instruction": {
+  "label": "Explicit reading-strategy instruction vs conventional reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix-hour Social Skills Teaching Program\tno training": {
+  "label": "Social-skills training vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix-hour Social Skills Teaching Program with instruction, videos, exercises, and discussion\tno training": {
+  "label": "Social-skills training vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix-hour Social Skills Teaching Program with instruction, videos, exercises, and discussion\tno training during the study": {
+  "label": "Social-skills training vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix-hour, four-session SSTP with information, videos, exercises, and discussion\tno training": {
+  "label": "Social-skills training vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttime from pretest to posttest without SSTP\tcontrol-group pretest": {
+  "label": "Social-skills training vs no training",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\ttraditional direct lecturing with paper-pencil\tpre-test baseline": {
+  "label": "Direct instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tinput-providing corrective feedback\tno grammatical feedback": {
+  "label": "input-providing corrective feedback vs no grammatical feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\toutput-prompting corrective feedback\tno grammatical feedback": {
+  "label": "output-prompting corrective feedback vs no grammatical feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tinput-providing feedback\toutput-prompting feedback": {
+  "label": "output-prompting feedback vs input-providing feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tinput-providing feedback group\toutput-prompting and no-feedback groups": {
+  "label": "output-prompting feedback vs input-providing feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\toutput-prompting feedback\tinput-providing feedback": {
+  "label": "output-prompting feedback vs input-providing feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\toutput-prompting feedback\tno feedback": {
+  "label": "output-prompting feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\toutput-prompting negotiation strategies\tinput-providing negotiation strategies": {
+  "label": "output-prompting feedback vs input-providing feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\toutput-prompting negotiation strategies\tno feedback": {
+  "label": "output-prompting feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\toutput-prompting strategies\tinput-providing strategies": {
+  "label": "output-prompting feedback vs input-providing feedback",
+  "treatment_is_a": true
+ },
+ "gamification\tGame-like method with an increased number of training hours\tExisting school curriculum": {
+  "label": "Gamified instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "media-design\t5E model enriched with animations\t5E instructional model": {
+  "label": "animation-enriched 5E model vs standard 5E model",
+  "treatment_is_a": true
+ },
+ "media-design\t5E model enriched with animations\t5E model enriched with cooperative learning": {
+  "label": "animation-enriched 5E model vs cooperative-learning-enriched 5E model",
+  "treatment_is_a": true
+ },
+ "media-design\tBBC World clips with English subtitles\tBBC World clips without English subtitles": {
+  "label": "English subtitles vs no English subtitles",
+  "treatment_is_a": true
+ },
+ "media-design\tBBC World clips with English subtitles\tBBC World clips without subtitles": {
+  "label": "English subtitles vs no subtitles",
+  "treatment_is_a": true
+ },
+ "media-design\tBBC World clips with English subtitles\tcontrol group with no special treatment": {
+  "label": "English subtitles vs no special treatment",
+  "treatment_is_a": true
+ },
+ "media-design\tBBC World clips with English subtitles\tno special treatment/control": {
+  "label": "English subtitles vs no special treatment",
+  "treatment_is_a": true
+ },
+ "media-design\tBBC World clips without English subtitles\tno special treatment/control": {
+  "label": "BBC clips without English subtitles vs no special treatment",
+  "treatment_is_a": true
+ },
+ "media-design\tBBC World clips without subtitles\tcontrol group with no special treatment": {
+  "label": "BBC clips without subtitles vs no special treatment",
+  "treatment_is_a": true
+ },
+ "media-design\tInput Enhancement strategy\tpretest baseline": {
+  "label": "Input enhancement vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tinfographics as instructional materials\tusual materials and methods": {
+  "label": "Infographics vs usual materials and methods",
+  "treatment_is_a": true
+ },
+ "media-design\tinfographics in geography lessons\tusual materials and methods": {
+  "label": "Infographics vs usual materials and methods",
+  "treatment_is_a": true
+ },
+ "media-design\toral presentation of information\ttext-based presentation of information": {
+  "label": "Oral presentation vs text-based presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tthree assigned groups before treatment\teach other at pretest": {
+  "label": "Assigned groups vs each other at pretest",
+  "treatment_is_a": true
+ },
+ "practice-amount\t3 classes per week plus 2 sectional classes\t3 classes per week": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tBrown site (129.3 mean tutoring sessions)\tClarke site (114.3 mean tutoring sessions)": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem-based learning\ttraditional lecture method": {
+  "label": "problem-based learning vs traditional lecture method",
+  "treatment_is_a": true
+ },
+ "prompts\tSpecific argumentation instructions and regular probing feedback\tSkeletal instructions and limited, generic feedback": {
+  "label": "Specific argumentation/discussion guidance with probing feedback vs skeletal/limited guidance with generic or non-probing feedback",
+  "treatment_is_a": true
+ },
+ "prompts\texplicit discussion guidelines with guiding, supportive, probing instructor feedback\tskeletal instructions with sparse, vague, non-probing feedback": {
+  "label": "Specific argumentation/discussion guidance with probing feedback vs skeletal/limited guidance with generic or non-probing feedback",
+  "treatment_is_a": true
+ },
+ "prompts\treflective-abstraction ACE curriculum with peer work and discussion\ttraditional lecture and exercises": {
+  "label": "Reflective-abstraction curriculum with peer work and discussion vs traditional lecture and exercises",
+  "treatment_is_a": true
+ },
+ "prompts\tspecific argumentation guidelines and probing feedback\tskeletal instructions and limited, non-probing feedback": {
+  "label": "Specific argumentation/discussion guidance with probing feedback vs skeletal/limited guidance with generic or non-probing feedback",
+  "treatment_is_a": true
+ },
+ "prompts\tspecific argumentation guidelines with regular supportive, probing feedback\tthree required posts with no specific guidelines and minimal feedback": {
+  "label": "Specific argumentation/discussion guidance with probing feedback vs required posts with no specific guidance and minimal feedback",
+  "treatment_is_a": true
+ },
+ "prompts\tspecific argumentation instructions, regular instructor feedback and probing\tthree posts with skeletal instructions and limited, generic feedback": {
+  "label": "Specific argumentation/discussion guidance with probing feedback vs required posts with skeletal guidance and limited generic feedback",
+  "treatment_is_a": true
+ },
+ "prompts\tspecific discussion guidelines and regular probing feedback\tlimited discussion directions and inconsistent generic feedback": {
+  "label": "Specific argumentation/discussion guidance with probing feedback vs limited guidance with inconsistent generic feedback",
+  "treatment_is_a": true
+ },
+ "prompts\tspecific discussion guidelines with probing instructor feedback\tskeletal instructions with limited generic feedback": {
+  "label": "Specific argumentation/discussion guidance with probing feedback vs skeletal/limited guidance with generic or non-probing feedback",
+  "treatment_is_a": true
+ },
+ "prompts\tspecific discussion guidelines, feedback, and probing\tskeletal instructions and limited feedback": {
+  "label": "Specific argumentation/discussion guidance with probing feedback vs skeletal/limited guidance with generic or non-probing feedback",
+  "treatment_is_a": true
+ },
+ "simulation\tmaternity course with preclinical simulation lab\tsame course without simulation lab": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tpreclinical maternity simulation before clinical placement\tsame maternity course without simulation, with clinical placement at the beginning of the semester": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tpreclinical maternity simulation lab\tprevious cohort without simulation lab": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tpreclinical maternity simulation lab\tprevious year's cohort without simulation": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tpreclinical maternity simulation lab before clinical placement\tprevious-year course without simulation lab, with clinical placement at the beginning of the semester": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tvideo systems and virtual animations followed by laboratory practice\tprocedure explanation and demonstration followed by laboratory practice": {
+  "label": "virtual simulation/video instruction vs face-to-face instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual simulation and video-based instruction followed by laboratory practice\tface-to-face explanation and demonstration followed by laboratory practice": {
+  "label": "virtual simulation/video instruction vs face-to-face instruction",
+  "treatment_is_a": true
  }
 }

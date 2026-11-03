@@ -13,7 +13,7 @@ generated:
 # Reinforcement
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (10 for, 6 mixed, 5 against) · 19 studies (7 causal, 5 quant-synthesis, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 20 claims rest on one study
+> **Evidence** · 22 claims (11 for, 6 mixed, 5 against) · 20 studies (8 causal, 5 quant-synthesis, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 20 report an effect size · 21 claims rest on one study
 
 ## Description
 Reinforcement is the contingent delivery of a consequence following a target behavior, making that behavior more likely to recur. Rooted in operant conditioning [Behaviorism](../theories/behaviorism.md), it encompasses positive reinforcement (adding a desirable outcome — points, praise, privileges), negative reinforcement (removing an undesirable condition), and the scheduling of these consequences (continuous vs. intermittent). In learning design, reinforcement overlaps with but is distinct from [Feedback](feedback.md): reinforcement strengthens behavior; feedback supplies information about performance quality.
@@ -73,6 +73,7 @@ Reinforcement reliably increases the frequency and persistence of the behaviors 
 - [Training in parental school involvement at home, positive reinforcement, psychoeducation, and use of explicit goals showed positive frequency values across reading, math, and GPA outcomes](../claims/parental-involvement-positive-fv-all-outcomes.md) [+W]
 - [Contingent reinforcement approaches show a large mean effect on FV consumption or preference (Md = 1.34) but rest on only two studies](../claims/contingent-reinforcement-fv-md-1-34-two-studies.md) [+W]
 - [Behavior praise showed the largest individual strategy-count improvement (d = .83), reversing a low baseline praise-to-corrective-feedback ratio](../claims/behavior-praise-largest-count-improvement.md) [+W]
+- [After the SSTP, teachers rewarded students' appropriate social behaviors, which they had not done before training](../claims/sstp-increases-rewarding-of-social-skills.md) [+W]
 
 ## Related Elements
 - [Feedback](feedback.md) — informational counterpart; reinforcement changes probability, feedback changes understanding, and the two are most powerful combined

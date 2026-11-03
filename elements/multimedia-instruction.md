@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 78 claims (47 for, 28 mixed, 3 against) · 67 studies (45 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 16 of 67 report an effect size · 73 claims rest on one study
+> **Evidence** · 81 claims (49 for, 29 mixed, 3 against) · 69 studies (47 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 16 of 69 report an effect size · 76 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -114,6 +114,9 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [An audio-visual intervention program produces significantly higher post-test language development, listening comprehension and vocabulary in preschool children than no treatment](../claims/av-intervention-improves-preschool-language-development.md) [+W] — attached 2026-11-02 from Sushanta Kumar Roul (2014), which proposed "Audio-Visual Intervention Program for preschool language development"; tests this page's relationship.
 - [The audio-visual intervention program affects language development similarly across high, middle and low socio-economic status levels](../claims/av-intervention-effect-not-different-by-ses.md) [~W] — attached 2026-11-02 from Sushanta Kumar Roul (2014), which proposed "Audio-Visual Intervention Program for preschool language development".
 - [In a college materials process course, the objective and reportorial video points of view produced significantly higher hands-on observation scores than the subjective point of view](../claims/objective-reportorial-beat-subjective-observation-scores.md) [+W]
+- [The 5E instructional model enriched with animations produced higher seventh-grade achievement on the light unit than the 5E model enriched with cooperative learning and the 5E model alone](../claims/5e-animation-enrichment-beats-cooperative-and-control-on-achievement.md) [+W] — attached 2026-11-02 from İkramettin Daşdemir (2016), which proposed "Animation-enriched 5E implementation for the seventh-grade light unit"; tests this page's relationship.
+- [Both the animation-enriched and cooperative-learning-enriched 5E models improved seventh-graders' scientific attitudes relative to the 5E model alone, with no difference between the two enriched groups](../claims/5e-enrichments-improve-scientific-attitudes-over-control.md) [~W] — attached 2026-11-02 from İkramettin Daşdemir (2016), which proposed "Animation-enriched 5E implementation for the seventh-grade light unit"; tests this page's relationship.
+- [Animation-supported 5E instruction produced significantly higher post-test grammar success than the current teaching programme in 7th grade Turkish](../claims/animation-5e-higher-posttest-grammar-success.md) [+W] — attached 2026-11-02 from Mehmet Fatih Özcan (2017), which proposed "Flash-based computer-assisted instruction (CAI) material with animations for indicative and subjunctive moods"; tests this page's relationship.
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

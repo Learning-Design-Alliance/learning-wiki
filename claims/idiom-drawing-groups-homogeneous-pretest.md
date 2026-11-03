@@ -148,3 +148,5 @@ Baseline check in the quasi-experimental study: the teacher-made 40-item idiom p
 - [Prior knowledge of AMOLED displays was low and did not differ between the video and text/image groups before instruction](prior-knowledge-amoled-no-group-differences.md) — possibly the same claim (merge candidate)
 - [Experimental and control groups showed no statistically significant difference in vocabulary performance before the intervention](wm-strategy-pretest-equivalence-efl.md) — related
 - [The treatment and control groups had equivalent vocabulary sizes at pre-test](equivalent-vocabulary-sizes-at-pretest.md) — related
+- [Before treatment, the experimental and control groups were equivalent on both achievement and attitude](pretest-equivalence-achievement-attitude.md) — related
+- [Before the treatment, the experimental and control groups showed no statistically significant difference in conceptual fluency on the idiom pre-test](pretest-equivalence-idiom-groups.md) — possibly the same claim (merge candidate)

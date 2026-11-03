@@ -12,7 +12,7 @@ generated:
 # Assess Fluency Components
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 11 studies (7 quant-synthesis, 3 causal, 1 associational), `q2`–`q4` · 5 of 11 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (7 quant-synthesis, 4 causal, 1 associational), `q2`–`q4` · 5 of 12 report an effect size
 
 ## Description
 Fluency is multidimensional: it includes accuracy, efficiency (speed with reasonable effort), and flexibility (choosing and shifting strategies appropriately). Assessing only accuracy — or only speed via timed tests — misrepresents a learner's fluency. This strategy uses interviews, observations, and written prompts to evaluate all components and to understand the learner's strategies and dispositions, replacing timed testing as the default measure.

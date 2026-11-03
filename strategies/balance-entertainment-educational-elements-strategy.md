@@ -45,6 +45,7 @@ In its recommendations, the article advises that when "Designing or selecting co
 ## Related Strategies
 
 - [Select games that maximize participation and match proficiency, and use games as complementary activities](select-games-participation-proficiency-complementary.md)
+- [Design teaching material to embody content, arouse interest, sustain attention, activate students, and feel game-like](material-design-qualities-teacher-questionnaire.md)
 
 ## Examples
 -

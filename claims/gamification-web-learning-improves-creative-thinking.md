@@ -53,3 +53,4 @@ Same quasi-experiment (60 primary students) using the Torrance test of creative 
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — related
 - [Experimental-group students showed higher creative thinking than the traditionally taught control group at the .01 level of significance](experimental-higher-creative-thinking-than-control.md) — related
+- [Blended learning develops fifth graders' verbal creative thinking more than traditional instruction](blended-learning-develops-verbal-creative-thinking.md) — related

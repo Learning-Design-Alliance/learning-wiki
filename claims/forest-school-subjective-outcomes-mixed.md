@@ -71,3 +71,4 @@ Review's account of Frenkel et al. (2019), an 11–15-week illness/injury log in
 - [Forest preschool attendance is associated with higher nature connectedness on some measures, with no significant changes in environmentally responsible behaviors](forest-school-nature-connectedness-mixed.md) — related
 - [Evidence on cognitive function benefits of forest preschool is mixed: teacher-rated global cognition improved, but executive functions and working memory showed no significant differences](forest-school-cognitive-function-mixed.md) — related
 - [Enrollment in center-based preschool was not associated with parent-reported curiosity at kindergarten](center-based-preschool-not-associated-curiosity.md) — related
+- [After the forest-themed program, ecocentric orientation showed the largest increase in experimental-group responses while egocentric and society-centered orientations were reduced](forest-program-ecocentrism-increase-preschoolers.md) — related

@@ -88,3 +88,4 @@ Simple main effects follow-up from the same ANCOVA study, reported in the Result
 - [PBL-treated undergraduates produced higher-quality problem solutions than non-PBL controls](pbl-improves-solution-quality-malaysian-undergraduates.md) — related
 - [Mean student test scores rose from pretest 62.46 to posttest 81.21 after using the PBL-based civic education material](pbl-civic-pretest-posttest-gain.md) — related
 - [A between-subjects ANOVA on average pretest-posttest scores showed a significant difference between treatment and control groups](between-subjects-anova-treatment-control-difference.md) — related
+- [A microworld-based intervention produced a modestly greater gain in computational thinking than comparison teaching, with a modest-to-moderate effect size (d = 0.50) that was not statistically significant](microworld-intervention-ct-gain-d050.md) — related

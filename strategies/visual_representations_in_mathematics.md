@@ -12,7 +12,7 @@ generated:
 # Visual Representations in Mathematics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 15 studies (5 causal, 5 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 15 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 17 studies (7 causal, 5 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 17 report an effect size
 
 ## Description
 This strategy teaches learners to construct and interpret visual representations — schematic diagrams, number lines, strip/bar models, graphs, and graphic organizers — that accurately depict the quantities and relationships in a mathematics problem or concept. The visual serves as an intermediate bridge between the concrete situation and abstract symbols, externalizing problem structure so it can be inspected, discussed, and revised. Critically, the benefit comes from *schematic* representations that map mathematical relationships, not from decorative pictures.
@@ -65,6 +65,7 @@ Visual representations reduce working memory demands by holding intermediate qua
 - [Analogies](../strategies/analogies.md) — a diagram functions as a visual analogy between an unfamiliar problem and a known structure
 - [Külppe's recommendations: formal exercises in thinking, more abstract thinking, and practice strengthening determining tendencies](kulpp-formal-exercises-in-thinking.md)
 - [Research-based instructional strategies: jigsaw, discovery-based learning, CRA manipulatives, and technology](focus-instructional-strategies-strategy.md)
+- [Equip classrooms with visualization software such as CAS and DGS so students construct their own knowledge of hard concepts](cas-visualization-classrooms-for-hard-concepts.md)
 
 ## Examples
 - **Singapore Math / Math in Focus** — strip (bar) models are the central representation for word problems across grades K–8; students draw bars to represent known and unknown quantities before writing equations.

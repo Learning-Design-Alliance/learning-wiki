@@ -54,3 +54,4 @@ One-way ANOVA on post-test CAT scores of 175 students in the Solomon Four Non-Eq
 - [Students taught with computer-based multimedia presentation significantly outperformed students taught by the conventional method on the post-test](cbmp-outperformed-conventional-posttest.md) — related
 - [Secondary students taught chemistry with computer simulations achieved higher mean scores than students taught with lecture method](computer-simulation-beats-lecture-chemistry-achievement.md) — possibly the same claim (merge candidate)
 - [Only the combined condition outperformed the control condition on a test of chemistry knowledge](combined-condition-only-outperformed-control-chemistry.md) — related
+- [Across all four Solomon groups, achievement post-test scores differ significantly, with both infographic groups outperforming both control groups](infographics-achievement-anova-four-groups.md) — related

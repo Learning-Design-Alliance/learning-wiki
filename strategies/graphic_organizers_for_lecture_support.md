@@ -13,7 +13,7 @@ generated:
 # Graphic Organizers for Lecture Support
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 against) · 14 studies (5 causal, 5 quant-synthesis, 4 review), `q2`–`q4` · 4 of 14 report an effect size
+> **Evidence** · 5 claims (3 for, 2 against) · 16 studies (7 causal, 5 quant-synthesis, 4 review), `q2`–`q4` · 6 of 16 report an effect size
 
 ## Description
 Instructors deliver lectures using a graphic organizer — a concept map, matrix, flowchart, or hierarchical diagram — to visually represent the structure of the content as it is presented, rather than relying on bullet-point slides or a linear outline. The organizer is built up during the lecture (or provided partially complete), so students see how each new idea connects to what came before. It functions as both a presentation medium for the instructor and a note-taking scaffold for students.

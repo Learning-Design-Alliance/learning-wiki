@@ -54,3 +54,4 @@ Permanence test applied to both groups four weeks after the post-test. The artic
 - [Students taught with smart board support retained more information four weeks after instruction than students taught with the 2005 curriculum](smart-board-higher-retention-four-weeks.md) — related
 - [The experimental group showed no significant score decline between post-test and four-week retention test, while the control group declined significantly](smart-board-group-retention-stable-control-declined.md) — related
 - [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](active-learning-permanence-effect-my-town-unit.md) — related
+- [Animation-supported 5E instruction produced significantly higher retention scores than the current programme five weeks after implementation](animation-5e-higher-retention-scores.md) — related

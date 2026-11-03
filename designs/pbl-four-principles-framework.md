@@ -45,7 +45,9 @@ The article describes PBL as a student-centered teaching approach introduced by 
 - [Pbl Higher Skill Scores Chinese Radiology](../claims/pbl-higher-skill-scores-chinese-radiology.md) [+M]
 
 ## Related Designs
+
 - Problem Based Learning
+- [Barrows' six essential elements of problem-based learning](barrows-six-essential-elements-pbl.md)
 
 ## Examples
 -

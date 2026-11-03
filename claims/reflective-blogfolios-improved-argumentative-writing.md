@@ -52,3 +52,4 @@ One-group quasi-experimental pre-post study of 51 EFL tertiary students in the E
 - [Reflective blogfolios shifted EFL tertiary students' ways of knowing significantly toward more connected knowing](blogfolios-shifted-ways-of-knowing-toward-connected.md) — related
 - [Ways of knowing predicted post-instruction argumentative writing performance but not pre-instruction performance](ways-of-knowing-predict-post-instruction-writing.md) — related
 - [The article argues connected ways of knowing are better predictors of quality argumentative writing performance than separate ways of knowing](connected-knowing-better-predictor-of-writing.md) — related
+- [Paper-and-pencil concept mapping at the pre-writing stage significantly improved EFL students' argumentative essay performance across five writing aspects](concept-mapping-prewriting-improves-efl-argumentative-essays.md) — related

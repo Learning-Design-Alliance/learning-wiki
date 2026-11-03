@@ -12,7 +12,7 @@ generated:
 # Multisyllable Word Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies (3 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 11 studies (4 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 2 of 11 report an effect size
 
 ## Description
 Multisyllable word instruction teaches learners how to break words into syllables to improve decoding and spelling. Learners study the six basic syllable types (closed, open, vowel-consonant-e, r-controlled, vowel team, and consonant-le), how syllable division affects vowel pronunciation, and how prefixes, suffixes, compound words, and the schwa in unaccented syllables change spelling. Instruction is explicit and systematic: the teacher models word decomposition, guides flexible syllable division, and fades support as learners apply the strategy independently to unfamiliar words.

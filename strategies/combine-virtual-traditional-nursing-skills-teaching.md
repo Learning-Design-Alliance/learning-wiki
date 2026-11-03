@@ -1,0 +1,52 @@
+---
+type: strategy
+id: combine-virtual-traditional-nursing-skills-teaching
+title: Combine virtual and traditional teaching methods to facilitate knowledge transfer in competency-based nursing skills courses
+description: "The article recommends using both delivery modes together rather than choosing one: \"combination of these two can facilitate knowledge transfer to the students for acquiring more skills\"."
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-02
+sources:
+  - id: mosalanejad-2012
+    resource: "https://dergipark.org.tr/en/pub/tojde"
+    title: "Mosalanejad, L.; Shahsavari, S.; Sobhanian, S.; & Dastpak, M. (2012). The effect of virtual versus traditional learning in achieving competency-based skills. Turkish Online Journal of Distance Education, 13(2). https://dergipark.org.tr/en/pub/tojde"
+    author: "Mosalanejad, L.; Shahsavari, S.; Sobhanian, S.; & Dastpak, M"
+---
+
+# Combine virtual and traditional teaching methods to facilitate knowledge transfer in competency-based nursing skills courses
+
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The article recommends using both delivery modes together rather than choosing one: "combination of these two can facilitate knowledge transfer to the students for acquiring more skills". In the study, both groups received identical theoretical and practical content, aims and instructors, differing only in whether theory and demonstration were delivered face-to-face or through digital libraries, virtual animations and video systems. The recommendation rests on the pattern of higher theoretical scores with virtual teaching alongside equivalent OSCE performance.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Same content, educational aims and instructors across the two modes, as in the study design
+#### Constraints
+- The article reports students preferred traditional education and noted difficulties such as lack of direct contact and technical hardware problems in cited work
+
+### Target Learners
+- first-year undergraduate nursing students
+
+### Target Learning Goals
+- theoretical knowledge of nursing fundamentals
+- practical clinical skills demonstrated via OSCE
+
+## Related Strategies
+
+- [Blended Learning](../patterns/blended-learning.md)
+- [Adopt blended teaching strategies that combine face-to-face and virtual-world modes.](blended-face-to-face-and-vw-teaching-strategy.md)
+- [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](stepped-ai-simulation-integration-strategies.md)
+- [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Integrate complementary methods — simulations, feedback, and targeted tools — into mental health nurse training and assessment](integrate-simulations-feedback-targeted-tools-mhn-assessment.md)
+
+## Examples
+-
+
+## Key Sources
+- Mosalanejad, L.; Shahsavari, S.; Sobhanian, S.; & Dastpak, M. (2012). The effect of virtual versus traditional learning in achieving competency-based skills. Turkish Online Journal of Distance Education, 13(2). https://dergipark.org.tr/en/pub/tojde

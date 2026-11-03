@@ -13,7 +13,7 @@ generated:
 # Frequent, Low-Stakes Quizzes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 8 studies (5 quant-synthesis, 2 causal, 1 review), `q2`–`q4` · 4 of 8 report an effect size
+> **Evidence** · 2 claims (2 for) · 9 studies (5 quant-synthesis, 3 causal, 1 review), `q2`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Frequent, low-stakes quizzes are short assessments administered regularly throughout a course, contributing little or nothing to the final grade. Their primary function is not measurement but learning: each quiz is a [retrieval practice](../principles/active-learning.md) event that strengthens memory and reveals gaps while consequences remain minimal. Quizzes should be short, focused on key concepts, and followed promptly by feedback.

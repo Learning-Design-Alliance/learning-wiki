@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 150 claims (106 show a difference, 27 mixed, 17 no difference) · 102 studies (45 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 20 of 102 report an effect size · 148 claims rest on one study
+> **Evidence** · 154 claims (110 show a difference, 27 mixed, 17 no difference) · 104 studies (47 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 20 of 104 report an effect size · 152 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -190,6 +190,10 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [PBL and traditional teaching do not differ significantly in their effect on pre-service teachers’ critical thinking dispositions](../claims/pbl-no-difference-critical-thinking-disposition.md) [-M] — instruction changes it
 - [Post-test critical thinking scores significantly higher than pre-test after model instruction](../claims/pretest-posttest-critical-thinking-gain.md) [+M] — instruction changes it
 - [Experimental-group students reported that the discourse analysis method improved their thinking skills, including analysis, synthesis, inference and critical thinking](../claims/discourse-analysis-student-reported-thinking-gains.md) [+W] — instruction changes it
+- [Higher-order thinking ability improved significantly in both the experimental and control groups after learning activities](../claims/within-group-hots-gains-significant.md) [+M] — instruction changes it
+- [Investigation-phase analysis found lesson plans and tests in the studied school oriented to lower-order thinking, with poor student higher-order thinking ability](../claims/kupang-lesson-plans-lower-order-orientation.md) [+W] — instruction changes it
+- [Students rate simulation as improving critical thinking, problem solving, reporting and recording, and decision making, with communication and nursing process rated lower](../claims/simulation-improves-self-rated-maternity-skills.md) [+M] — instruction changes it
+- [Students taught with the contextual mathematical thinking learning model showed significantly higher enhancement of higher-order thinking ability than the control group](../claims/cmtl-model-higher-gain-than-control.md) [+M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

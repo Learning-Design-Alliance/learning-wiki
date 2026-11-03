@@ -80,3 +80,5 @@ Between-group comparison of permanence-test means (experimental 74.74, control 6
 - [Writing gains from written corrective feedback decline between post-test and delayed post-test](wcf-gains-decline-delayed-posttest.md) — related
 - [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](active-learning-permanence-effect-my-town-unit.md) — related
 - [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — related
+- [Animation-supported 5E instruction produced significantly higher retention scores than the current programme five weeks after implementation](animation-5e-higher-retention-scores.md) — related
+- [The virtual material did not significantly improve knowledge permanency three weeks after the unit, while the control group's scores declined significantly](virtual-material-no-permanency-advantage.md) — related

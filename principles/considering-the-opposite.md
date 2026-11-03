@@ -13,7 +13,7 @@ generated:
 # Considering The Opposite
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (6 for, 7 mixed, 1 against) · 24 studies (8 causal, 6 quant-synthesis, 5 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 5 of 24 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (6 for, 7 mixed, 1 against) · 26 studies (10 causal, 6 quant-synthesis, 5 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 7 of 26 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 

@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 179 claims (88 for, 77 mixed, 14 against) · 149 studies (34 causal, 25 review, 25 associational, 24 qualitative, 22 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 31 of 149 report an effect size · 176 claims rest on one study
+> **Evidence** · 181 claims (90 for, 77 mixed, 14 against) · 151 studies (36 causal, 25 review, 25 associational, 24 qualitative, 22 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 31 of 151 report an effect size · 178 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -204,6 +204,8 @@ Technology integration is the element in which digital tools are used in direct 
 - [Blog-assisted life education instruction significantly enhances students' information literacy and competence and course satisfaction](../claims/blog-life-education-enhances-learning-effectiveness.md) [+W]
 - [Blog-assisted life education instruction significantly enhances fifth-grade elementary students' life education values](../claims/blog-assisted-life-education-enhances-life-values.md) [+W]
 - [Even schools with high LRS usage showed insufficient evidence of a positive effect](../claims/lrs-dose-analysis-no-effect.md) [-W]
+- [Preschool pupils taught science and mathematics with ICT scored significantly higher than traditionally taught pupils at post-test](../claims/ict-preschool-post-test-advantage.md) [+W] — attached 2026-11-02 from Oluwadare (2015), which proposed "Flash CS3 Edumode counting and science software for preschool ICT instruction"; tests this page's relationship.
+- [Instructional software alone significantly improved general pronunciation quality over two weeks for young Chinese EFL learners](../claims/software-alone-improves-pronunciation-young-efl.md) [+W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

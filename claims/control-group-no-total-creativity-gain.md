@@ -54,3 +54,5 @@ Dependent samples t-tests within the 20-student curriculum-based control group. 
 - [CREACT groups outperformed control groups on all four TTCT subcomponents (fluency, flexibility, originality, elaboration)](creact-between-group-subcomponents-significant.md) — related
 - [CREATE meta-creative pedagogy produces a significant omnibus intervention effect on creative thinking components simultaneously in elementary students](create-omnibus-immediate-effect-creative-thinking.md) — related
 - [Brainstorming instruction improved each creative-thinking skill — fluency, flexibility and originality — on the posttest](brainstorming-improves-fluency-flexibility-originality.md) — related
+- [Blended learning improves the flexibility skill of verbal creative thinking](blended-learning-improves-flexibility-skill.md) — related
+- [Blended learning improves the fluency skill of verbal creative thinking](blended-learning-improves-fluency-skill.md) — related

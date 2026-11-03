@@ -82,3 +82,4 @@ The review reports, citing Jenkins and Astington, a longitudinal study in which 
 - [The home environment plays an important role in early childhood development](home-environment-role-early-childhood-development.md) — related
 - [Studies measuring the amount of pretend play yield lower correlations with social competence than studies measuring the quality of pretend play](pretend-play-amount-lower-correlations-than-quality.md) — related
 - [Classroom activities and targeted interventions—peer collaboration, mind mapping, storytelling, and perspective-taking—improve children's divergent thinking](classroom-activities-interventions-improve-divergent-thinking.md) — related
+- [The findings contradict Piaget's thesis that children under six or seven cannot decenter, supporting that preschoolers can take the perspective of others](preschoolers-decenter-contradicting-piaget.md) — related

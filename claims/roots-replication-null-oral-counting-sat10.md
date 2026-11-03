@@ -56,3 +56,4 @@ Null findings from the same partially nested RCT: the Time × Condition model fo
 - [At-risk kindergarten students receiving the ROOTS Tier 2 intervention made significantly greater mathematics gains than at-risk control peers on the TEMA standard score](roots-at-risk-gains-tema-significant.md) — related
 - [Transition out of the high-risk category (below the 10th TEMA percentile) did not differ significantly between ROOTS and control students](roots-risk-category-transitions-null.md) — related
 - [Student outcomes did not differ significantly between two-student and five-student ROOTS groups on any measure](no-group-size-effect-on-student-outcomes.md) — related
+- [Formal early number skills gains in kindergarten predict first-grade mathematics achievement, with informal gains not uniquely associated](formal-gains-predict-grade1-sat10.md) — related

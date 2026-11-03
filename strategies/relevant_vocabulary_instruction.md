@@ -12,7 +12,7 @@ generated:
 # Relevant Vocabulary Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 9 studies (5 causal, 4 quant-synthesis), `q2`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 10 studies (6 causal, 4 quant-synthesis), `q2`–`q4` · 4 of 10 report an effect size
 
 ## Description
 Instructors select and teach vocabulary that is directly useful or necessary for learners' goals, rather than working through arbitrary word lists. Selection can be learner-driven (polling learners on topics they want to discuss and compiling the most common suggestions) or goal-driven (targeting high-frequency or discipline-critical terms). After a new word is introduced, learners must use it productively — in conversation, role play, or original sentences — because relevance plus active use drives retention.

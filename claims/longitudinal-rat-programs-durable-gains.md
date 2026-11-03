@@ -56,3 +56,4 @@ The review's comparative synthesis (Theme 4) across 15 intervention studies, inc
 - [The review reports that an AI-plus-faculty-guidance approach outperformed both AI-only and traditional teaching in ultrasonography training](faculty-guided-ai-outperformed-ai-only-ultrasonography.md) — a narrower finding that bears on this claim
 - [Residents recognize teaching as central to their professional identity yet carry substantial informal teaching loads without formal preparation](residents-informal-teaching-load-underprepared.md) — related
 - [Near-peer-led and instructor-led documentation workshops produced equivalent H&P and OSCE HPI scores](near-peer-vs-instructor-workshop-equivalent-outcomes.md) — related
+- [Training active listening as a stand-alone component before other interpreting skills contributes more to selective listening development than training it as a built-in part](standalone-active-listening-mode-contributes-more.md) — related

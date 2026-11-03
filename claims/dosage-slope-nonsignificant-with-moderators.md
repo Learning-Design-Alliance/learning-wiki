@@ -85,3 +85,4 @@ Model 3 of the same meta-regression added instructional focus, outcome proximity
 - [Number of treatment sessions received was not associated with end-of-treatment performance](dosage-not-associated-with-outcomes.md) — related
 - [Dosage and preintervention language skills showed little moderation of vocabulary treatment effects](moderation-dosage-celf-small.md) — related
 - [Locomotor skill gains plateau after about 4 weeks of the high-dosage intervention, while object control gains continue between weeks 4 and 8](motor-intervention-dosage-plateau-pattern.md) — related
+- [Duration of the TPR intervention in weeks significantly predicts effect size, explaining 35% of the variance](tpr-intervention-duration-predicts-effect.md) — related

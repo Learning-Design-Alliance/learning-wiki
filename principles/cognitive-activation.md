@@ -30,7 +30,7 @@ sources:
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (17 for, 15 mixed, 2 against) · 39 studies (19 causal, 5 review, 4 quant-synthesis, 4 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 9 of 39 report an effect size · 26 claims rest on one study
+> **Evidence** · 34 claims (17 for, 15 mixed, 2 against) · 41 studies (21 causal, 5 review, 4 quant-synthesis, 4 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 11 of 41 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 

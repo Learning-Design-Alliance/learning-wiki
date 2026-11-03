@@ -55,3 +55,4 @@ Mediation analysis following Baron and Kenny on the same longitudinal SEM sample
 - [Ecological factors and mathematics motivation explain significant variance in student- and school-level numeracy achievement](ecology-factors-motivation-predict-numeracy-achievement.md) — related
 - [Task performance mediated the reward contrast's effect on task interest but failed to mediate its effect on continuing motivation for the task](task-performance-mediation-task-interest-not-continuing.md) — related
 - [Executive function partially mediates the link between family SES and middle-school academic achievement](ef-mediation-ses-achievement.md) — related
+- [Improvements in executive function mediate the intervention's effects on learning-related behaviors and problem behaviors](ef-improvement-mediates-classroom-behavior.md) — related

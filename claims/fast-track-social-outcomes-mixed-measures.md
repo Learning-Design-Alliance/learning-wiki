@@ -49,3 +49,4 @@ From the WWC confirmation of the 1999a RCT findings in the social outcomes domai
 - [Children differ substantially in peer-nominated prosocial behavior in elementary classrooms](individual-differences-prosocial-nominations.md) — related
 - [Fast Track produced a positive, statistically significant effect on emotional/internal behavior for children at risk of emotional disturbance after one year](fast-track-positive-emotional-internal-behavior.md) — related
 - [One study found the intervention effect on conduct problems was stronger for youth at greater risk of developing conduct problems.](stronger-conduct-problem-prevention-for-higher-risk-youth.md) — related
+- [The intervention group showed statistically significant differences on the emotional problems and peer problems scales](emotional-and-peer-problems-scales-significant-differences.md) — related

@@ -66,3 +66,4 @@ ANCOVA on the e-learning group (n = 30 per Table 2) with pretest as covariate; t
 - [No significant achievement difference between male and female students taught physics with computer-assisted STAD](no-gender-difference-cai-stad-achievement.md) — related
 - [Gender did not significantly influence the achievement of Nigerian SS1 students taught the mole concept with mastery learning instructional strategy.](mastery-learning-gender-no-significant-effect-mole-concept.md) — related
 - [No significant treatment-by-gender interaction on physics concept understanding](no-treatment-gender-interaction-physics-concepts.md) — related
+- [The authors argue blended learning could be used to close the gender gap in algebra achievement because male and female students achieved comparably under BL](bl-closes-gender-gap-algebra.md) — related

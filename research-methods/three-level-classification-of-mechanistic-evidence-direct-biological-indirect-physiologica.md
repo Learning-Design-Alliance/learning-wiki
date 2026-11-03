@@ -24,7 +24,8 @@ The review proposes a qualitative classification of mechanistic evidence into th
 ### Claims
 
 ## Related Research Methods
--
+
+- [Three-level classification of outcome assessments by alignment with the intervention](three-level-classification-of-outcome-assessments-by-alignment-with-the-intervention.md)
 
 ## Key Sources
 - Tafuri Maria Giovanna, Monda Vincenzo, La Marra Marco, Tafuri Francesco, Messina Antonietta, Monda Antonietta, Casillo Maria, Di Maio Girolamo, Tafuri Domenico, Latino Francesca, Moscatelli Fiorenzo, Polito Rita, Messina Giovanni. (2026). Sport Participation and Nutrition in Students: A Scoping Review of Neuroendocrine and Autonomic Mechanisms Linking Lifestyle Behaviors to Cognitive and Academic Outcomes. Nutrients. https://doi.org/10.3390/nu18111651

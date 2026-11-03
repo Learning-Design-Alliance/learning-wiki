@@ -57,3 +57,4 @@ Post-test gender comparison in the same quasi-experiment: males (N=26) M=19.35, 
 - [Gender has no significant main effect on gifted students' post-test achievement in the study](gender-no-significant-main-effect-gifted-achievement.md) — related
 - [Male students showed no performance differences by condition in either study](male-students-no-condition-differences.md) — related
 - [No significant gender differences in overall chemistry achievement or retention](no-gender-difference-achievement-retention.md) — related
+- [Gender has a statistically significant but small main effect on algebra achievement favouring male students](gender-small-main-effect-algebra.md) — related

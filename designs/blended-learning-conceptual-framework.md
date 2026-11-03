@@ -48,6 +48,7 @@ The article frames blended learning as courses that "combine face-to face classr
 
 - [FLEX blended learning study format with halved classroom time and video-based online self-study](flex-blended-learning-format-zhaw.md)
 - [Flipped learning as a social-constructivist, student-centred model grounded in Vygotsky's zone of proximal development](flipped-learning-social-constructivist-zpd-framework.md)
+- [Blended learning as a combination of traditional classroom and e-learning environments](blended-learning-combines-traditional-and-elearning.md)
 
 ## Examples
 -

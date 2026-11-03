@@ -57,3 +57,4 @@ Pretest using a 30-item TOEFL vocabulary multiple-choice section administered to
 - [The two intact classes did not differ significantly in overall English proficiency before the study](keyword-study-classes-homogeneous-proficiency.md) — related
 - [No significant difference existed between the two groups on the word knowledge pretest](keyword-study-groups-equivalent-word-knowledge-pretest.md) — possibly the same claim (merge candidate)
 - [The three groups did not differ in drawing skills before treatment, supporting the pretest-posttest comparison](pretest-equivalence-drawing-groups.md) — related
+- [The three groups did not differ significantly in vocabulary knowledge at pretest, supporting group homogeneity](pretest-homogeneity-three-vocabulary-groups.md) — related

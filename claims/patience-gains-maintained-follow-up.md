@@ -48,3 +48,4 @@ Mann-Whitney U analysis of the trail (follow-up) test administered three months 
 - [The patience training program produced no significant change in university students' PERMA well-being levels](patience-training-no-wellbeing-effect.md) — related
 - [A 5-week patience training program significantly raised all three patience sub-dimension scores of university students compared to a control group at post-test](patience-training-raises-patience-scores.md) — related
 - [Within the experimental group, patience scores rose significantly from pre-test to post-test while control-group scores did not change](experimental-group-prepost-patience-increase.md) — related
+- [Knowledge gains from the SSTP were maintained at follow-up, with a small decrease attributed to absence of coaching and feedback](sstp-knowledge-gains-maintained-follow-up.md) — related

@@ -46,6 +46,7 @@ Because many parents and practitioners are unfamiliar with educational policy, s
 - [Remove participation barriers and use broad outreach to ensure fair representation on parent councils](remove-barriers-broad-parent-council-representation.md)
 - [Regularly evaluate parent councils through surveys and feedback, supported by a family engagement coordinator](evaluate-parent-councils-surveys-coordinator.md)
 - [Establish Group Norms](establish-group-norms.md)
+- [Communicate rigorous evidence review results to practitioners through effect-size comparisons, benchmarks, improvement indexes, and accessible report design](communicating-rigorous-evidence-review-results-to-practitioners.md)
 
 ## Examples
 -

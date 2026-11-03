@@ -50,3 +50,4 @@ Five-week quasi-experiment with two groups of second-year non-English majors; th
 ## Related Claims
 - [Strategy-trained students significantly outperformed control students on the posttest objective and subjective measures](strategy-training-posttest-group-differences.md) — related
 - [Explicit reading strategy instruction produced a statistically significant pre-to-post gain in reading comprehension for Ethiopian EFL university students](strategy-instruction-significant-prepost-gain-efl.md) — related
+- [Paper-based reading comprehension scores also improved significantly after the Web-based strategy training](paper-based-reading-comprehension-improved.md) — a narrower finding that bears on this claim

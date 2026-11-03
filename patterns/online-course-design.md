@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 52 claims (24 for, 27 mixed, 1 against) · 38 studies (10 associational, 8 causal, 6 quant-synthesis, 5 qualitative, 5 design, 3 review, 1 theoretical), `q1`–`q4` · 8 of 38 report an effect size · 49 claims rest on one study
+> **Evidence** · 55 claims (26 for, 28 mixed, 1 against) · 39 studies (10 associational, 9 causal, 6 quant-synthesis, 5 qualitative, 5 design, 3 review, 1 theoretical), `q1`–`q4` · 9 of 39 report an effect size · 52 claims rest on one study
 
 ## Description and scope
 
@@ -171,6 +171,9 @@ This pattern is scoped to the shape of a mostly online course across a term. How
 - [Courses without pre-defined forum tasks or assessment-driven activity had forums with low posting activity](../claims/no-task-courses-low-posting-activity.md) [+W]
 - [Blackboard-based instruction is associated with more balanced participation than face-to-face discussion, where one or two participants tend to dominate](../claims/blackboard-more-balanced-participation-than-face-to-face.md) [+W]
 - [A review of 17 e-learning course-design studies identified four major design themes: course structure, content presentation, collaboration and interaction, and timely feedback](../claims/lister-four-elearning-design-themes.md) [+W]
+- [In the online sections, exam scores correlated moderately with both online discussion participation points (r = 0.36) and other learning activities (r = 0.37)](../claims/exam-correlations-discussion-and-other-activities.md) [+W]
+- [Prior research suggests student-student interaction treatments affect online learning more than student-teacher interactions, while oral versus text presentation of information shows no difference](../claims/interaction-type-and-presentation-background-claims.md) [~W]
+- [Undergraduate students in online sections using asynchronous peer text discussion scored significantly higher on course exams than students in a classroom section using synchronous lecture-discussion (d = 0.66)](../claims/asynchronous-discussion-online-sections-higher-exam-scores.md) [+W]
 
 ## Related Patterns
 - [Blended Learning](blended-learning.md) — divides a course between online and in-person time; this pattern shapes the online course itself

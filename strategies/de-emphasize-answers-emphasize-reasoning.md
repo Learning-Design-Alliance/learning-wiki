@@ -13,7 +13,7 @@ generated:
 # De-emphasize Answers, Emphasize Reasoning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (5 causal, 3 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 4 claims (4 for) · 12 studies (7 causal, 3 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 12 report an effect size
 
 ## Description
 This strategy shifts classroom attention from *what* the answer is to *why* it works and *how* it was reached. Teachers present worked examples — including deliberately flawed ones — and ask learners to find and explain the error, or restructure participation routines so that learners must articulate their thinking process before, or instead of, stating a final answer. The answer becomes evidence in an argument about reasoning, not the endpoint of the activity.

@@ -46,3 +46,4 @@ The article's framing statement about the research literature on electronic coll
 
 ## Related Claims
 - [Designers, educators and students use electronic collaborative learning environments in inconsistent ways](inconsistent-use-collaborative-environments.md) — related
+- [Students were more motivated to correct errors when feedback was delivered electronically, a factor the authors attribute to the appeal of electronic devices](electronic-devices-motivate-error-correction.md) — related

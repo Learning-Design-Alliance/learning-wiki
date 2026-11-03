@@ -48,3 +48,4 @@ Pretest-posttest control group quasi-experiment with 43 male sophomore students 
 - [The short-term effect of audio input enhancement on intensifier knowledge is not stable over a three-week delay](audio-input-enhancement-effect-not-stable-delayed-test.md) — related
 - [The experimental and control groups were equivalent on intensifier knowledge before treatment](intensifier-pretest-group-equivalence.md) — related
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related
+- [Input Enhancement strategy improved the vocabulary knowledge of Iranian EFL learners over a three-month treatment](input-enhancement-improves-efl-vocabulary-knowledge.md) — related

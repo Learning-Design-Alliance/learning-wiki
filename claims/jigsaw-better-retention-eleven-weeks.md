@@ -52,3 +52,4 @@ The same quasi-experiment administered swtAT as a retention test after 11 weeks 
 - [All three GPA-based groups retained significantly more science knowledge than the control group six months after instruction](gpa-science-retention-six-months-advantage.md) — related
 - [Creative drama instruction shows no statistically significant effect on retention of social studies knowledge five weeks after instruction](creative-drama-no-significant-retention-effect.md) — related
 - [MIT-based teaching produced significantly higher permanence-test scores three weeks after instruction than conventional teaching](mit-teaching-higher-permanence-scores-visual-arts.md) — related
+- [Learning cycle approach-based teaching produced higher retention test scores eight months after implementation](learning-cycle-higher-retention-8-months.md) — related

@@ -49,3 +49,4 @@ The review reports, citing Sun et al. (2023), three studies showing labeling eff
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Parents and teachers predict visual learners earn higher grades in core subjects and hands-on learners higher grades in non-core subjects (pre-registered)](grade-predictions-core-versus-non-core-subjects.md) — related
 - [Parents and teachers spontaneously list different school subjects as strengths for visual versus hands-on learners](open-ended-subject-strengths-by-learning-style.md) — a narrower finding that bears on this claim
+- [Homogeneous readiness-based grouping is problematic: research warns it may decrease student self-efficacy and teacher expectations](homogeneous-grouping-readiness-problematic.md) — related

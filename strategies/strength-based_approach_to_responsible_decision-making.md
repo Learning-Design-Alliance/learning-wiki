@@ -13,7 +13,7 @@ generated:
 # Strength-Based Approach to Responsible Decision-Making
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 14 studies (4 causal, 4 quant-synthesis, 4 review, 2 theoretical), `q1`–`q4` · 4 of 14 report an effect size
+> **Evidence** · 6 claims (6 for) · 16 studies (6 causal, 4 quant-synthesis, 4 review, 2 theoretical), `q1`–`q4` · 6 of 16 report an effect size
 
 ## Description
 This approach begins by identifying what a student already does well — socially, cognitively, or dispositionally — and using those strengths as entry points for developing responsible decision-making skills (the CASEL competency covering ethical reasoning, evaluating consequences, and making constructive choices). Rather than remediating deficits directly, the educator designs tasks and scenarios in which the student's strength carries the load while the weaker decision-making skill is practiced in a supported role.

@@ -97,3 +97,4 @@ In the same path analysis, the total indirect relation of EF with achievement wa
 - [No statistically significant sex differences in the direct associations among EF, task orientation, and mathematics or in the mediating effect of task orientation](no-sex-differences-ef-task-orientation-math-pathways.md) — related
 - [Motivation's effect on later mathematical performance is indirect, mediated by executive functioning and early numeracy skills](motivation-indirect-effect-mediated-by-ef-and-numeracy.md)
 - [Metacognition mediates the relationship between EF and SRL](metacognition-mediation-ef-srl.md) — related
+- [Improvements in executive function mediate the intervention's effects on learning-related behaviors and problem behaviors](ef-improvement-mediates-classroom-behavior.md) — related

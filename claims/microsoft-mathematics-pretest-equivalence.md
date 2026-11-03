@@ -72,3 +72,4 @@ Descriptive comparison of pre-test scores (experimental mean 74.3182, control me
 - [Control and experimental groups did not differ significantly in pre-test attitude towards mathematics after homogeneity matching](matched-groups-no-pretest-attitude-difference.md) — a narrower finding that bears on this claim
 - [The experimental and control groups were statistically equivalent on the academic achievement pre-test before the intervention](groups-equivalent-pretest-achievement.md) — related
 - [The contextual and structural groups were statistically equivalent on the pretest before instruction](pretest-equivalence-contextual-structural-groups.md) — related
+- [Before treatment, the experimental and control groups were equivalent on both achievement and attitude](pretest-equivalence-achievement-attitude.md) — a broader claim this one bears on

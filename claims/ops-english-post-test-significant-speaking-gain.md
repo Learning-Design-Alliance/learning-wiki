@@ -49,3 +49,4 @@ Independent-samples t-test comparing post-test speaking scores of the experiment
 - [Multimedia modular instruction produces significantly higher speaking-skill post-test scores than traditional method among student-teachers.](multimedia-modular-approach-improves-speaking-skill.md) — related
 - [Posttest speaking and writing achievement was significantly higher for students taught through short stories than for control-group students](short-stories-posttest-mean-difference.md) — related
 - [Teaching phrasal verbs through pictures significantly improves pre-intermediate EFL learners' active application of phrasal verbs in speaking](pictures-improve-active-phrasal-verb-use-speaking.md) — related
+- [The task-based cognitive-approach programme produced a significantly higher PET speaking post-test score than regular instruction, with a large effect size](task-based-cognitive-program-outperforms-regular-instruction-speaking.md) — related

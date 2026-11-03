@@ -12,7 +12,7 @@ generated:
 # Stages of Cognitive Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 3 studies (2 theoretical, 1 associational), `q1`–`q2` · 1 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (1 for, 1 mixed, 2 against) · 4 studies (2 theoretical, 1 associational, 1 design), `q1`–`q2` · 1 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Jean Piaget (1896–1980), a Swiss psychologist, proposed that children are not passive recipients of knowledge from parents or teachers but actively construct their own understanding of the world by progressing through four universal, sequential, and invariant stages of cognitive development. Each stage represents a qualitatively different way of reasoning; stages cannot be skipped, though the ages at which individual children pass through them vary with environment and background, and a child may show behaviors characteristic of more than one stage at a time. Piaget's work is the historical foundation on which later constructivist and constructionist theories are built.
@@ -66,6 +66,7 @@ Critics working in the 1960s–70s argued Piaget likely **underestimated** child
 - [A majority (56%) of non-STEM students are classified as transitional reasoners, while formal operational reasoners predominate among STEM majors](../claims/non-stem-majority-transitional-reasoners.md) [~W]
 - [Theories of learning have historically operated to justify societal hierarchies through reification and ranking](../claims/learning-theories-justify-hierarchies-reification-ranking.md) [-W]
 - [Genesis produces genuinely new characteristics at each stage, so a mental state is not the sum of the experiences giving rise to it](../claims/genesis-produces-new-characteristics-not-sums.md) [+W]
+- [The findings contradict Piaget's thesis that children under six or seven cannot decenter, supporting that preschoolers can take the perspective of others](../claims/preschoolers-decenter-contradicting-piaget.md) [-W]
 
 ## Related Theories
 

@@ -12,7 +12,7 @@ generated:
 # Storytelling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 10 studies (6 causal, 3 quant-synthesis, 1 theoretical), `q3`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 12 studies (8 causal, 3 quant-synthesis, 1 theoretical), `q3`–`q4` · 5 of 12 report an effect size
 
 ## Description
 Storytelling presents content within a narrative frame: a protagonist pursuing goals, encountering obstacles, and resolving them through the concepts being taught. It can take the form of an instructor-voiced story, a case narrative, a scenario learners act within, or a story learners construct themselves. The narrative structure supplies causal connections and temporal sequence that bind otherwise isolated facts into a coherent, retrievable schema.

@@ -49,3 +49,6 @@ Writing pre-test administered after five pre-treatment sessions to ensure group 
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — a broader claim this one bears on
 - [Before the FCI treatment, the experimental and control groups showed no statistically significant difference in writing ability](fci-pretest-equivalence-iraqi-efl.md) — possibly the same claim (merge candidate)
 - [The two intact classes did not differ significantly in overall English proficiency before the study](keyword-study-classes-homogeneous-proficiency.md) — a broader claim this one bears on
+- [Experimental and control groups showed no significant difference in numeracy and science achievement at pre-test](ict-preschool-pretest-equivalence.md) — related
+- [The control and experimental groups showed no significant difference in writing performance on the first draft](ocf-ccf-no-draft1-difference.md) — possibly the same claim (merge candidate)
+- [The SR and SU groups were roughly equal in English proficiency before the treatment, as measured by their mid-term exam](sr-su-groups-equal-pretest-proficiency.md) — related

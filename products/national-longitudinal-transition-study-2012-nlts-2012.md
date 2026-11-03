@@ -48,7 +48,8 @@ A U.S. Department of Education-sponsored national dataset and documentation desc
 - [NLTS 2012 is the third in a series of federally sponsored studies of youth with disabilities under IDEA](../claims/nlts-2012-third-in-series-idea-youth.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [National Early Intervention Longitudinal Study (NEILS) data set](national-early-intervention-longitudinal-study-neils-data-set.md)
 
 ## Key Sources
 - John Burghardt, Joshua Haimson, Stephen Lipscomb, Albert Y. Liu, Frank Potter, Tiffany Waits, Sheng Wang. (2017). National Longitudinal Transition Study 2012: Design Documentation. Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://www.mathematica.org/publications/national-longitudinal-transition-study-2012-design-documentation

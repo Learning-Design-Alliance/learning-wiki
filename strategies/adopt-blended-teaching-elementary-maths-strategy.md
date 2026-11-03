@@ -49,6 +49,7 @@ Based on the study's results, the researcher recommends using blended teaching b
 
 - [Train early-grade teachers to use blended learning in teaching](train-early-grade-teachers-blended-learning.md)
 - [Secure administrator commitment and multi-year investment when implementing a blended learning program](administrator-commitment-multi-year-blended-implementation.md)
+- [Adopt blended learning for Arabic language teaching with teacher training and computerized curriculum materials](adopt-blended-learning-arabic-with-teacher-training.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 248 claims (115 for, 115 mixed, 18 against) · 186 studies (73 causal, 36 review, 27 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 46 of 186 report an effect size · 224 claims rest on one study
+> **Evidence** · 251 claims (117 for, 116 mixed, 18 against) · 188 studies (75 causal, 36 review, 27 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 46 of 188 report an effect size · 227 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -296,6 +296,9 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [The authors interpret the experimental group's score increase as larger than the control group's, suggesting a possible but unsatisfied effect of error correction](../claims/experimental-gain-larger-than-control-interpretation.md) [~W]
 - [Learners perceived instructor corrective feedback delivered through Voice Thread as helpful for improving grammar accuracy](../claims/online-instructor-feedback-perceived-helpful.md) [+W]
 - [Written corrective feedback in general is inconclusive as a predictor of long-term improvement in L2 writing accuracy, with roughly 55% of studies showing positive effects](../claims/wcf-inconclusive-predictor-long-term-accuracy.md) [-W]
+- [Tertiary L1 Malay learners given online corrective feedback via email outperformed the conventional corrective feedback control group on the final draft](../claims/ocf-outperforms-ccf-final-draft.md) [+W] — attached 2026-11-02 from Soo Kum Yoke et al. (2013), which proposed "Online corrective feedback procedure via email with MS-Word reviewing features"; tests this page's relationship.
+- [Most students preferred receiving corrective feedback online via email, with ease of submission and time saving the leading reasons](../claims/students-prefer-online-corrective-feedback.md) [~W] — attached 2026-11-02 from Soo Kum Yoke et al. (2013), which proposed "Online corrective feedback procedure via email with MS-Word reviewing features".
+- [Young EFL learners receiving input-providing corrective feedback improve significantly in grammar from pretest to immediate and delayed posttests, with gains retained](../claims/input-providing-group-significant-gains-over-time.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

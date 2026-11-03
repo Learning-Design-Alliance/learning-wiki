@@ -12,7 +12,7 @@ generated:
 # Memory Game (Matching)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 17 studies (9 quant-synthesis, 4 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 7 of 17 report an effect size
+> **Evidence** · 5 claims (5 for) · 18 studies (9 quant-synthesis, 5 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 7 of 18 report an effect size
 
 ## Description
 A memory game in which learners turn over pairs of face-down word cards, attempting to find matching pairs. Each successful match triggers an elaboration step — the learner says the word aloud and uses it in a sentence drawn from a familiar context, such as a song or shared text. The game combines repeated exposure, [active recall](../elements/practice.md), and contextualized production in a low-stakes, playful format.
@@ -67,6 +67,7 @@ The matching mechanic forces retrieval of each word's location and identity, and
 - Word Wall Routines — provides the reference display that supports the game's target words
 - [Word-finding warm-up game with flash cards](vfc-word-finding-warm-up-activity.md)
 - [Supplementary games and practice forms to extend vocabulary practice after the core game](supplementary-games-and-practice-forms.md)
+- [Use index-card games as follow-up activities to consolidate and retain new vocabulary](index-card-game-vocabulary-follow-up.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — each card flip is a retrieval attempt; the game is structured practice in game form

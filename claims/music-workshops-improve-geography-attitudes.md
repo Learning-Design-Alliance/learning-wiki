@@ -49,3 +49,4 @@ Change-score analysis of the 29-question ToGRA attitude survey for the same 215 
 - [The treatment effect on attitudes held after controlling for demographic covariates, with GATE students gaining more on both measures](togra-regression-group-effect-covariates.md) — possibly the same claim (merge candidate)
 - [Eighth-grade students taught with Mapping the Beat music workshops showed greater growth in geographic knowledge than control students (effect size=.854)](music-workshops-increase-geographic-knowledge.md) — related
 - [Traditional song teaching with educational music repertoire produced significant attitude increases only on performance-related items and no significant change on other items](traditional-repertoire-song-teaching-limited-attitude-change.md) — related
+- [Control-group students' attitudes towards geography declined significantly over the six weeks while experimental-group attitudes rose](control-group-attitude-declined.md) — related

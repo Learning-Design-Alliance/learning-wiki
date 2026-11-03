@@ -50,3 +50,4 @@ The editors report, citing Weston-Sementelli et al., a comparison of reading-com
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Combining cognitive and metacognitive prompts optimizes germane processing; metacognitive prompts alone help only when remedial planning is prompted and remediation is possible](combine-cognitive-metacognitive-prompts.md) — a broader claim this one bears on
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — a broader claim this one bears on
+- [Combined instruction produced significantly greater attitudinal improvement than either software alone or teacher alone](combined-instruction-best-for-attitudes.md) — a narrower finding that bears on this claim

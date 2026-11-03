@@ -48,7 +48,8 @@ The article proposes two uses for a shallow-learning detector in remediation. Fi
 - [Shallow learners show slower responses and higher certainty of slip, suggesting struggle rather than fast guessing](../claims/shallow-learners-slow-struggling-not-guessing.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Automate metacognitive prompts in discussion board software based on critical thinking keywords](automate-metacognitive-prompts-discussion-software.md)
 
 ## Examples
 -

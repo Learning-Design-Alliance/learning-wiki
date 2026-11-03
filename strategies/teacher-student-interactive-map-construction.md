@@ -43,6 +43,7 @@ The article recommends involving both teacher and students in constructing seman
 
 - [Teach concept map construction through a graduated briefing sequence before independent use](graduated-concept-map-construction-briefing.md)
 - [Use semantic mapping as a vocabulary teaching device in EFL classes to build deeper vocabulary knowledge](semantic-mapping-vocabulary-teaching-strategy.md)
+- [Introduce concept mapping through direct training, attend to computer ability, and start with familiar topics](concept-mapping-implementation-recommendations-efl.md)
 
 ## Examples
 -

@@ -55,3 +55,5 @@ ANCOVA was applied to the final speaking-skill score with pre-test scores partia
 - [Terminology test advantage of tracing and pointing is not robust to adjustment for prior knowledge](tracing-pointing-terminology-not-robust-ancova.md) — related
 - [The speaking-skill advantage of multimedia modular instruction is retained at delayed post-test.](multimedia-speaking-gains-retained-delayed-posttest.md) — related
 - [Multimedia-supported instruction produced a statistically significant pre-to-post achievement gain in 4th-grade social studies students](multimedia-significant-pre-post-gain-social-studies.md) — related
+- [The posttest advantage of the experimental section remained significant when posttest scores were covaried against pretest scores](ancova-posttest-section-type-significant.md) — possibly the same claim (merge candidate)
+- [The task-based cognitive-approach programme produced a significantly higher PET speaking post-test score than regular instruction, with a large effect size](task-based-cognitive-program-outperforms-regular-instruction-speaking.md) — related

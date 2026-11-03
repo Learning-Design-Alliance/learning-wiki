@@ -64,7 +64,7 @@ The review reports, citing Renkl, a study of qualitative differences in college 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*What should learners do while studying an example, and which examples should they see?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **10 distinct studies** (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4`, 2 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*What should learners do while studying an example, and which examples should they see?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **12 distinct studies** (6 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4`, 4 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -77,7 +77,9 @@ The review reports, citing Renkl, a study of qualitative differences in college 
 | [Nückles 2020](https://doi.org/10.1007/s10648-020-09541-1) | q3 · review · r2 | i? | [Self-explaining a worked example of a learning journal entry enhances strategy use and tra](worked-example-self-explanation-journal-transfer.md) (supports) |
 | [Alfieri et al. 2013](https://doi.org/10.1080/00461520.2013.775712) | q4 · quant-synthesis · r? | i2 · medium effect, d=0.50, 95% CI [.44, .56] | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (supports) |
 | [Gentner et al. 2003](https://doi.org/10.1037/0022-0663.95.2.393) | q3 · causal · r? | i? | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (supports) |
+| [Ziegler & Stern 2016](https://doi.org/10.1016/j.learninstruc.2015.09.006) | q3 · causal · r2 | i3 · large effect, d = 1.21 at one day, 0.94 at ten weeks | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (supports) |
 | [Rittle-Johnson & Star 2007](https://doi.org/10.1037/0022-0663.99.3.561) | q3 · causal · r? | i? | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (supports) |
+| [Ziegler & Stern 2014](https://doi.org/10.1016/j.learninstruc.2014.04.006) | q3 · causal · r2 | i2 · medium effect, d = 0.46 to 0.76 on transformation tests; i2 · medium effect, d = 0.53 at one week | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

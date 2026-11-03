@@ -134,3 +134,4 @@ An open question is how much of the benefit comes from the discussion itself ver
 - [Added cooperation prompts helped disagreeing pairs of children choose together](cooperation-prompts-helped-pairs-agree.md) — related
 - [Students report that distributed pair programming groups completed tasks without meaningful peer discussion](dpp-students-report-no-peer-discussion.md) — reports the opposite
 - [Descriptive patterns trend toward the Clicker Group, with higher score variability suggesting clickers may benefit some learners more than others](clicker-group-descriptive-trend-individual-differences.md) — related
+- [Protocol artifacts indicated the experimental curriculum initiated reflective abstraction through all four agents of change, while the traditional instructor initiated it through instructor alone](agents-of-change-protocol-evidence.md) — related

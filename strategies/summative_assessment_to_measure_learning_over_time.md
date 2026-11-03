@@ -12,7 +12,7 @@ generated:
 # Summative Assessment to Measure Learning Over Time
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 7 studies (5 quant-synthesis, 2 causal), `q3`–`q4` · 4 of 7 report an effect size
+> **Evidence** · 2 claims (2 for) · 8 studies (5 quant-synthesis, 3 causal), `q3`–`q4` · 4 of 8 report an effect size
 
 ## Description
 Summative assessment evaluates learner achievement against a set of standards at the conclusion of an instructional period, while interim assessments administered between summative points show individual progress toward those same standards. Together they produce a longitudinal record of learning: interims diagnose trajectory, summatives certify attainment, and the comparison between them measures growth and instructional efficacy.

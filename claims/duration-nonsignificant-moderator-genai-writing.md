@@ -52,3 +52,4 @@ Robust meta-regression with HC3 standard errors (k = 9 non-missing for duration)
 - [Meta-regression finds intervention methods, duration, and participant type do not explain the heterogeneity in TBL effects](meta-regression-variables-fail-explain-heterogeneity.md) — related
 - [Intervention effect sizes on mathematics are negatively associated with participants' age and intervention duration, while intervention type does not explain heterogeneity](pa-math-effect-modifiers-age-duration.md) — related
 - [The null UK trial result contrasts with two US retrospective cohort studies, possibly due to shorter duration and lower intensity and to control groups already teaching foreign languages](fll-null-contrasts-us-cohort-studies-dose.md) — related
+- [Duration of the TPR intervention in weeks significantly predicts effect size, explaining 35% of the variance](tpr-intervention-duration-predicts-effect.md) — related

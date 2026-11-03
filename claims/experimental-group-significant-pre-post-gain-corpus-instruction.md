@@ -52,3 +52,5 @@ Paired-samples t-test within the 15-student experimental group receiving corpus-
 - [Corpus-tool instruction produces no statistically significant advantage over traditional instruction on EFL student teachers' verb-noun collocation knowledge](corpus-tools-no-significant-collocation-knowledge-gain.md) — related
 - [EFL student teachers hold positive views of concordancing for collocation learning and most intend future use](student-teachers-positive-views-concordancing.md) — related
 - [The experimental group showed a significant pretest-to-posttest gain in writing scores](gda-pretest-posttest-gain-experimental.md) — related
+- [The collocation group's mean score rose from 8.2 to 17.7 while the control group's rose from 8.7 to 11.1](collocation-group-gain-9-5-versus-control-2-4.md) — related
+- [Teaching medical vocabulary through collocations produced higher posttest scores than traditional techniques in Iranian EFL medical students](collocation-instruction-outperforms-traditional-medical-vocabulary-teaching.md) — related

@@ -65,3 +65,4 @@ Quasi-experimental control-group study: 31 experimental learners used TMM softwa
 - [Game-based vocabulary tasks improve young elementary-level EFL learners' vocabulary achievement compared with traditional instruction](game-based-tasks-improve-young-learner-vocabulary-achievement.md) — related
 - [Contextual vocabulary teaching produced statistically significant pretest-to-posttest vocabulary gains in Iranian intermediate EFL learners](contextual-vocabulary-teaching-significant-gains-iranian-efl.md) — related
 - [Dynamic task-type vocabulary instruction produces significantly better vocabulary gains than static task-type instruction among intermediate EFL learners](dynamic-task-type-better-vocabulary-gains.md) — related
+- [At the start of the school year the two groups differed significantly in three vocabulary learning strategies](pilot-start-of-year-strategy-differences.md) — related
