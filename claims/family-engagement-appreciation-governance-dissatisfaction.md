@@ -58,3 +58,4 @@ Qualitative case study finding on family engagement across the three study schoo
 - [ParentCorps improves family engagement measures (Inclusive Leadership, Trust in School Leader, Communication and Trust in Teacher) in a 61-school trial](parentcorps-family-engagement-school-survey.md) — related
 - [Deliberative policy proposals center on inclusive decision making governed by nonrepression and nondiscrimination principles](deliberative-policy-nonrepression-nondiscrimination.md) — related
 - [Dialogic leadership is democratic: every participating individual has agency and power in decision-making](dialogic-leadership-democratic-decision-making.md) — related
+- [Action research created opportunities for teachers to become more complete members of their communities of practice](action-research-community-membership.md) — related

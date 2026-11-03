@@ -39,6 +39,10 @@ This pattern delivers ecology content through puppetry performances as an arts-i
 
 ### Claims
 
+## Related Designs
+
+- [A 5-day active learning based science camp curriculum organized around 15 nature-based activity titles](five-day-science-camp-15-activity-titles.md)
+
 ## Related Patterns
 - 
 

@@ -47,3 +47,4 @@ Authors' interpretation of the between-subject results across the four topics in
 ## Related Claims
 - [Fifth-grade students taught mathematics with fine art integration achieved significantly higher scores on all four mathematics tests than students taught traditionally](fine-art-integration-improves-math-test-scores.md) — related
 - [Students successful in fine art (previous-year mark of 5) who received art-integrated mathematics instruction outperformed equally successful fine art students taught traditionally on all four tests](fine-art-successful-students-benefit-most.md) — a broader claim this one bears on
+- [Students receiving a computational thinking intervention significantly outperform control students on intervened mathematics topics in primary school](ct-intervention-improves-intervened-math-topics.md) — related

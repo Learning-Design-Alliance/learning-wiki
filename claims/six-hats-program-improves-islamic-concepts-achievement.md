@@ -52,3 +52,5 @@ Quasi-experimental covariance analysis of 216 randomly divided university studen
 - [Reciprocal teaching produced significantly more favourable attitudes towards Islamic culture than the traditional method](reciprocal-teaching-attitudes-islamic-culture.md) — related
 - [K.W.L instruction produces significantly higher acquisition of religious concepts than traditional teaching among 8th-grade Jordanian students](kwl-improves-religious-concept-acquisition.md) — related
 - [The web-assisted six thinking hats intervention significantly increased students' attitudes towards computers compared to the control group.](web-assisted-six-hats-increased-computer-attitudes.md) — related
+- [A Six Hats Model training program significantly improves academic achievement in Arabic among gifted seventh-grade students](six-hats-training-improves-arabic-achievement-gifted.md) — related
+- [A Six Hats Model training program significantly improves creative thinking scores of gifted seventh-grade students](six-hats-training-improves-creative-thinking-gifted.md) — related

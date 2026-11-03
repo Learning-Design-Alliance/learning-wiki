@@ -60,9 +60,11 @@ Speed chatting works as a [Activation](../elements/activation.md) activity: retr
 6. Debrief briefly as a whole group ([Class Discussion](../elements/class-discussion.md)), collecting a few ideas per question, then bridge directly into the reading with a purpose-setting prompt.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the broader family of pre-reading activities; speed chatting is a fast, social variant
 - [Think-Pair-Share](../patterns/think-pair-share.md) — same pair-talk structure without rotation; a calmer alternative for anxious groups
 - [Anticipation Guides](anticipation-guides.md) — a written pre-reading prediction activity that pairs well with or substitutes for oral chatting
+- [Create a relaxed, worry-free discussion environment with student-chosen topics and rotating team leadership](relaxed-environment-student-chosen-topics-strategy.md)
 
 ## Related Elements
 - [Activation](../elements/activation.md) — the cognitive function this strategy serves

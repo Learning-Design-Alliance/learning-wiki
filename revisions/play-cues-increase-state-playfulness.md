@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/play-cues-increase-state-playfulness.md
+---
+
+# Revision history: [claims/play-cues-increase-state-playfulness](../claims/play-cues-increase-state-playfulness.md)
+
+### 2026-11-03 · ingest · process:wiki-ingest
+Ingested from eric-ej1123863 (Play and Productivity: Enhancing the Creative Climate at Workplace Meetings with Play Cues) via eval_harness.py + ingest_extractions.py

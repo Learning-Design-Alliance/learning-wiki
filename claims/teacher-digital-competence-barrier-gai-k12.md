@@ -52,3 +52,4 @@ Narrative review section attributing this finding to Alferez-Pastor (2023): teac
 - [Faculty adoption of GenAI is widespread but instructional confidence remains low, so adoption prevalence should not be misread as instructional readiness](ai-adoption-exceeds-faculty-instructional-confidence.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Digital competence development is the most frequently reported advantage (76.1%) of digitally supported teacher education strategies](digital-competence-development-most-frequent-advantage.md) — related
+- [Only 44% of teachers believe they have proper training to use ICT in teaching practice, and only 14.8% believe their peers are trained properly for the Escuela 2.0 program.](escuela2-teacher-training-inadequate.md) — related

@@ -49,3 +49,4 @@ Quasi-experimental pretest–posttest non-equivalent groups study in Germany (N 
 - [In the UK study, students using the combined ITS & ELE condition showed significant conceptual learning gains while the ITS-only condition did not](uk-combination-conceptual-gains.md) — related
 - [Multivariate ANOVAs showed a significant time-of-measurement by condition interaction on fractions scores in both countries](multivariate-interaction-combination-effect.md) — a broader claim this one bears on
 - [Procedural learning gains did not differ significantly between the combined and ITS-only conditions in either country](procedural-gains-not-compromised-by-combination.md) — related
+- [Students across all conditions showed significant learning gains from working with the fractions ITS](all-conditions-significant-learning-gains.md) — related

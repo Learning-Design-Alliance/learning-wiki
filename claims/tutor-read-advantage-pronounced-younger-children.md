@@ -46,3 +46,4 @@ The same ANCOVA revealed a "marginally significant interaction between Grade and
 
 ## Related Claims
 - [Tutor-read instruction produces greater learning gains than self-read instruction for children learning from a multimedia science lesson](tutor-read-greater-gains-than-self-read.md) — a broader claim this one bears on
+- [The mixed condition's learning-gain advantage was more pronounced for 4th graders than 5th graders](mixed-condition-advantage-more-pronounced-for-4th-graders.md) — related

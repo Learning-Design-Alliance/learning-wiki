@@ -58,3 +58,4 @@ Hierarchical regression predicting parental ratings of attention and behaviour (
 - [Parental emotional support was not an independent predictor of Chinese kindergarten children's SRL, in contrast to Western findings](emotional-support-not-predictor-chinese-context.md) — related
 - [More frequent parent-reported home literacy activities were associated with better children's math performance, controlling for covariates](literacy-activities-associated-math.md) — related
 - [Under the Familial Control Method, most home-literacy effects on children's reading vanish after controlling parental reading, but books in the home retain a significant effect](home-literacy-genetic-confound-books-exception.md) — related
+- [Poverty, stress, and related environmental risk factors are correlated with deficits in children's EF](poverty-stress-correlated-ef-deficits.md) — related

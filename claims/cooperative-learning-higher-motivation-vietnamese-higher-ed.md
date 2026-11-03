@@ -53,3 +53,5 @@ A pre-test–post-test non-equivalent comparison-group quasi-experiment with 72 
 - [Cooperative learning raised value-component motivation (intrinsic goal orientation, extrinsic goal orientation, task value) more than lecture-based teaching](cooperative-learning-value-components-motivation.md) — a narrower finding that bears on this claim
 - [No significant pre-test differences existed between the cooperative learning and lecture-based groups on any motivational component](no-pretest-motivation-differences-groups.md) — related
 - [A single experiment-based session within a lecture-dominated course produces no significant overall learning gains on a post-experiment questionnaire](no-significant-gains-single-experiment-session.md) — related
+- [Asian students in a Confucian-heritage learning culture can adapt to cooperative learning within six weeks of instruction.](asian-students-adapt-cooperative-learning-six-weeks.md) — related
+- [Jigsaw cooperative learning produces more positive student attitudes toward learning than traditional lecture-based instruction in Vietnamese higher education.](jigsaw-learning-positive-attitudes-vietnamese-higher-ed.md) — related

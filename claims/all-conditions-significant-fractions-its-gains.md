@@ -53,3 +53,5 @@ A controlled comparison study with 382 4th and 5th grade students using an intel
 - [Students in the combined condition tended to make fewer errors and request fewer hints over time than students in individual-only or collaborative-only conditions](combined-condition-fewer-errors-and-hints.md) — related
 - [Students learning fractions with an AIED system achieved the best outcomes in a condition mixing individual and collaborative work rather than wholly either mode](combined-individual-collaborative-its-best-outcomes.md) — related
 - [In the UK study, students using the combined ITS & ELE condition showed significant conceptual learning gains while the ITS-only condition did not](uk-combination-conceptual-gains.md) — related
+- [The mixed condition's learning-gain advantage was more pronounced for 4th graders than 5th graders](mixed-condition-advantage-more-pronounced-for-4th-graders.md) — related
+- [Students in the mixed condition had higher learning gains than those in the collaborative-only or individual-only conditions](mixed-condition-higher-learning-gains-than-either-alone.md) — related

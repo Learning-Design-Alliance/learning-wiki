@@ -75,3 +75,4 @@ Multilevel analysis of the PPS delayed posttest administered 11 weeks after trea
 - [SBI effects on proportional problem solving are maintained on a delayed posttest administered 9 weeks after intervention](sbi-retention-proportional-problem-solving-9-weeks.md) — related
 - [SBI produces significantly more growth in proportional problem solving over time than business-as-usual instruction](sbi-greater-growth-proportional-problem-solving.md) — related
 - [For students with mathematics difficulties, SBI significantly improves proportional problem solving at immediate and 11-week delayed posttests but not general mathematical problem solving](sbi-md-pps-post-and-delayed.md) — a narrower finding that bears on this claim
+- [Cohort (teacher experience with SBI) was not a significant predictor of proportional problem-solving posttest or delayed posttest scores](sbi-cohort-no-pps-effect.md) — related

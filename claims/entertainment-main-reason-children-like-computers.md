@@ -51,3 +51,4 @@ Qualitative coding of responses to 'why do you like using computers' into six ca
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Teachers observing game-based lessons reported that authentic childhood games motivated and entertained students and eased English learning, but required strong classroom management](teacher-views-authentic-childhood-games.md) — related
 - [Students found argumentation-based activities fun and instructive, with experimenting the most-liked part](student-views-argumentation-activities-fun-instructive.md) — related
+- [Students' purposes when using technology are primarily related to entertainment and information seeking rather than structured learning tasks.](escuela2-students-entertainment-orientation.md) — related

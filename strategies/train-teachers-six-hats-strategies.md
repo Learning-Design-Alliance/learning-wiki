@@ -45,7 +45,8 @@ The study recommends teacher training in six-hats strategies as a route to devel
 - [A six-hats-based training program produces larger achievement gains in Islamic concepts than usual teaching among university students](../claims/six-hats-program-improves-islamic-concepts-achievement.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Deliver Six Hats training through repeated subject-embedded sessions with hat-specific reading responses](six-hats-embedded-reading-sessions-strategy.md)
 
 ## Examples
 -

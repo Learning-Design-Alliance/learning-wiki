@@ -51,3 +51,4 @@ Analysis of standardized TABE-CLAS-E reading results for the treatment group, wi
 - [In a 14-week study, 82% of adult ESL treatment-group participants scored higher on the vocabulary posttest than pretest when scored as percent correct, versus 48% of control participants](graded-readers-percent-correct-vocabulary-gains.md) — related
 - [CHLS self-study significantly benefited advanced-level students but not intermediate- or lower-level students](chls-benefits-advanced-learners-only.md) — related
 - [Genre-based reading instruction produces significantly higher reading posttest scores than traditional instruction for Iranian female high school EFL learners](gbi-outperforms-traditional-reading-instruction-iranian-high-school.md) — related
+- [20% of students described as advanced-level learners were in fact no more than intermediate-high on the ACTFL scale](twenty-percent-claimed-advanced-actually-intermediate-high.md) — related

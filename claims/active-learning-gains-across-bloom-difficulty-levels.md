@@ -47,3 +47,4 @@ One-way ANOVA comparison of correct answers by question difficulty (knowledge, c
 ## Related Claims
 - [LLM difficulty labels track structural question features: stem length, option length, and digits in stems rise monotonically across Easy, Medium, and Hard labels](llm-difficulty-labels-track-structural-item-features.md) — related
 - [LLM-assigned difficulty labels fail to predict empirical item difficulty in classroom retrieval practice (ρ=0.06), as do co-generated Bloom levels (ρ=0.02)](llm-difficulty-labels-fail-to-predict-empirical-item-difficulty.md) — related
+- [CBL improved performance at the knowledge level of Bloom's taxonomy, with no differences at comprehension or application levels](cbl-improves-knowledge-level-bloom-performance.md) — related

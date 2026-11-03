@@ -68,3 +68,4 @@ The review's analysis of statistical approaches used in the included studies. It
 - General academic motivation, engagement, and self-efficacy are the most studied motivational factors in AI-supported learning research — related
 - Only 34 of 156 AI-motivation studies explicitly named a pedagogical approach; game-based learning was the most common — related
 - ITS evaluations in K-12 predominantly use short quasi-experimental designs concentrated in STEM, raising novelty-effect concerns — related
+- [Most gamification-in-English-education studies lasted between one and twelve weeks, with six weeks the most common duration.](gamification-elt-studies-duration-six-to-twelve-weeks.md) — related

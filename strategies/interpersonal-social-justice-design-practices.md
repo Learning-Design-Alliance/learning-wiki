@@ -51,6 +51,7 @@ The article documents specific implementable practices participants used to addr
 - [Use pausing, body-centered awareness, and mindful listening as tools in restorative justice and conflict resolution](mindfulness-tools-restorative-justice-conflict-resolution.md)
 - [Using a Culturally Responsive Curriculum Scorecard](using_a_culturally_responsive_curriculum_scorecard.md)
 - [Design at the Margins](design_at_the_margins.md)
+- [Build conflict-resolution and communication skills into multidisciplinary team projects](conflict-resolution-modules-multidisciplinary-teams.md)
 
 ## Examples
 -

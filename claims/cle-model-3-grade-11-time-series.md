@@ -46,3 +46,6 @@ Latest replicated study of CLE model 3 described in section 4.5: a one experimen
 
 ## Related Claims
 - [The 1987 Surin pilot of the Thai-language CLE program in two poor schools produced significant results in Thai language development and personal developments such as creativity, self-confidence, and responsibility](cle-surin-pilot-significant-results.md) — related
+- [CLE Model III instruction significantly improves English creative writing ability in eleventh-grade Thai students](cle-model-iii-improves-creative-writing.md) — possibly the same claim (merge candidate)
+- [CLE Model III instruction significantly improves English reading ability in eleventh-grade Thai students](cle-model-iii-improves-reading-ability.md) — related
+- [Students report significantly higher satisfaction after learning through CLE Model III](cle-model-iii-increases-student-satisfaction.md) — possibly the same claim (merge candidate)

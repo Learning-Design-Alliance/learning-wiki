@@ -47,3 +47,4 @@ Pretest-posttest quasi-experimental control-group study of 126 junior secondary 
 ## Related Claims
 - [Teaching gardening produced more positive attitudes toward entrepreneurial skills acquisition than conventional teaching of the same concepts among Nigerian senior secondary science students](gardening-teaching-improves-entrepreneurial-attitudes.md) — related
 - [Round-robin instructional strategy produces higher student interest in electrochemistry than conventional teaching among Nigerian senior secondary students](round-robin-raises-electrochemistry-interest.md) — related
+- [Jigsaw cooperative learning produces more positive student attitudes toward learning than traditional lecture-based instruction in Vietnamese higher education.](jigsaw-learning-positive-attitudes-vietnamese-higher-ed.md) — related

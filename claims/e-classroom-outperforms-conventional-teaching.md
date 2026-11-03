@@ -107,3 +107,5 @@ Quasi-experimental pre-test, post-test control group study of 80 purposively sam
 - [Teachers reported high student motivation and self-directed learning when teaching through ICT tools](teacher-reports-high-motivation-ict-teaching.md) — related
 - [Geogebra-assisted instruction improves overall post-test scores on applications of derivative](geogebra-improves-overall-scores-applications-derivative.md) — related
 - [Teaching with educational technology innovations and techniques produces statistically significant gains in total academic achievement among pre-service teachers compared with traditional methods](edtech-innovations-increase-academic-achievement-practicum.md) — related
+- [Material resources in schools are a necessary but non-sufficient condition for effective ICT integration; an active and dynamic methodological approach must also be implemented.](escuela2-material-resources-insufficient.md) — related
+- [Instructional media teaching produced significantly higher sentence construction achievement than conventional teaching among teacher training students](instructional-media-higher-sentence-construction-achievement.md) — related

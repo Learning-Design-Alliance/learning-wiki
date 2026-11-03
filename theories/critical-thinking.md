@@ -12,7 +12,7 @@ generated:
 # Critical Thinking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 38 claims (25 for, 8 mixed, 5 against) · 35 studies (12 causal, 6 review, 6 qualitative, 5 associational, 3 quant-synthesis, 3 design), `q1`–`q3` · 5 of 35 report an effect size · 38 claims rest on one study
+> **Evidence** · 39 claims (26 for, 8 mixed, 5 against) · 36 studies (12 causal, 7 qualitative, 6 review, 5 associational, 3 quant-synthesis, 3 design), `q1`–`q3` · 5 of 36 report an effect size · 39 claims rest on one study
 
 ## Description
 Critical thinking requires both a skill (analyzing the reliability and validity of information) and a disposition to actually apply that skill, in principle across any realm of knowledge, not only a single subject or topic (Halpern, 2003; Williams, Oliver, & Stockade, 2004). A critical thinker is not simply someone with a negative or fault-finding attitude; rather, the critical thinker asks key questions, evaluates evidence for ideas, reasons about problems logically and objectively, and expresses ideas and conclusions clearly and precisely — and can carry these habits of mind across more than one domain of life or knowledge.
@@ -78,6 +78,7 @@ Second, who should be taught critical thinking. Surveys have found that teachers
 - [Teachers rated current student critical thinking as moderate and need for the model as highest](../claims/teacher-needs-survey-critical-thinking.md) [+W]
 - [Pre-service teachers’ critical thinking dispositions are generally low, with none scoring high on the CCTDI](../claims/preservice-teachers-low-cctdi-levels.md) [+W]
 - [Student performance on the exploration aspect of mathematical critical thinking is the weakest across both ILSC and conventional learning groups](../claims/exploration-aspect-weakest-mcta-indicator.md) [~W]
+- [Water Module students found the active, integrative teaching style stimulating for independent and critical thinking despite initial discomfort](../claims/water-module-active-learning-reception.md) [+W]
 
 ## The evidence by question
 - *Does teaching critical thinking explicitly, rather than expecting it to emerge from other activities, improve learners' critical thinking, and does it transfer beyond the subject it was taught in?* [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](../claims/direct-ct-instruction-outperforms-implicit-strategies.md) [+M]

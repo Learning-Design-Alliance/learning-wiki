@@ -59,3 +59,4 @@ Narrative review of research on age effects in pronunciation acquisition, citing
 - [The learner's first language influences target-language pronunciation and is a significant factor in foreign accents, causing errors in aspiration, intonation, and rhythm](native-language-interference-shapes-pronunciation-errors.md) — related
 - [Metacognitive monitoring deficits are unlikely to be the primary source of academic performance differences between native and non-native speaking students](monitoring-not-primary-source-of-performance-differences.md) — related
 - [A practitioner digest asserts, without cited studies, that no research evidence suggests older adults cannot succeed in learning another language](no-evidence-older-adults-cannot-learn-language.md) — related
+- [EFL teacher trainees perceived a native-like accent as a measure of being a good language teacher](trainees-native-accent-good-teacher-belief.md) — related

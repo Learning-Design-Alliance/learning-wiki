@@ -63,3 +63,4 @@ The article reviews prior task-repetition research (Bygate 2001; Ahmadian and Ta
 - [Debate contributed 96.1% to speaking skill achievement, with fluency the largest contributing aspect (67.4%)](debate-contribution-speaking-aspects.md) — related
 - [Task performance varied significantly across the nine oral communicative tasks on all speaking components](oct-anova-task-variance.md) — related
 - [Experimental group taught with oral communicative tasks significantly outperformed the control group on all post-task speaking components](oct-post-task-outperformed-control.md) — related
+- [Project-based CLIL significantly improved vocabulary and pronunciation but not grammar, fluency, or comprehensibility](clil-gains-vocabulary-pronunciation-only.md) — related

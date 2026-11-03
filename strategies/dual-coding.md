@@ -63,6 +63,7 @@ Combining words and pictures consistently outperforms words alone for transfer a
 - [Chunking](../principles/chunking.md) — manages the visual-channel load that complex diagrams can create
 - [Advance Organizers](use-advance-organizers.md) — a visual organizer presented before verbal content primes integration
 - [Use AR overlays aligned with multimedia learning principles: pair words with nearby, simultaneous images and segment lessons into self-paced chunks](ar-design-multimedia-principles-strategy.md)
+- [Score full conceptual-index diagrams A and other students B so students benefit from each other's help in solving problems.](a-score-diagram-feedback-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — narrated problem solving on a shared visual workspace; the writing appears as it is spoken, maintaining temporal contiguity.

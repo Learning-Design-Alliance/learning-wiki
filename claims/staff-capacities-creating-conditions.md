@@ -51,3 +51,4 @@ Finding from the qualitative analysis of researcher structured reflections. Tabl
 - [Knowledge alone did not ensure meaningful participation; it became influential when clearly communicated and built into programming](knowledge-communication-participation.md) — related
 - [Partners in participatory evaluation demonstrated capacities in data engagement, contextual and pedagogical knowledge, and openness and improvement-oriented dispositions](partner-capacities-skills-knowledge-dispositions.md) — related
 - [Human-GAI paradigms are enacted patterns of engagement rather than fixed individual traits](gai-paradigms-enacted-patterns-not-fixed-traits.md) — a broader claim this one bears on
+- [Creating a community context with mediational tools toward a genuine purpose for writing is more effective than fixing individual writing attitudes](community-context-writing-attitudes.md) — related

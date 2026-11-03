@@ -53,3 +53,4 @@ Qualitative essays from 14 of 35 voluntary experimental-group students, coded by
 - [Most intervention participants responded favorably to the citizen science project, with being outdoors in nature the most-cited enjoyment](qualitative-favorable-citizen-science-responses.md) — related
 - [Participants held positive attitudes toward Web-based reading strategy instruction](positive-attitudes-toward-web-based-strategy-instruction.md) — related
 - [Students with SLD express positive opinions about science concept instruction based on the keyword strategy](positive-social-validity-keyword-strategy.md) — related
+- [All three teachers expressed positive opinions about the CLE and reciprocal peer teaching treatment](cle-peer-teaching-positive-teacher-opinions.md) — related

@@ -55,3 +55,4 @@ Authors' interpretive statement in the Discussion about the PBL condition of the
 - [PBL improves EFL students' critical thinking disposition, creativity, and language scores, with noted gender differences](pbl-improves-efl-critical-thinking.md) — related
 - [Prospective-teacher students learning with an open-ended VBA-for-Excel approach created more creative interactive learning media than students taught by an expository VBA-based method](open-ended-vba-excel-creativity-better-than-expository.md) — related
 - [The authors interpret the traditional six-step approach as unable to nurture creative thinking, in contrast to the experimental model](traditional-approach-limits-creative-thinking.md) — related
+- [Students' mathematical creative thinking ability is lowest on complex tasks requiring idea extension and linking facts to mathematical models](creative-thinking-lowest-on-complex-tasks.md) — related

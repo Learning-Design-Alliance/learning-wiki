@@ -49,3 +49,4 @@ Conclusion-section report of the treatment group's survey responses after the fi
 - [Using iPads as e-readers and applications for five weeks did not significantly influence middle-school students' overall reading achievement (comprehension, accuracy and rate combined)](ipads-no-influence-reading-achievement.md) — related
 - [The iPad helped a student with ADHD focus attention and become more metacognitive about his reading](ipad-supported-attention-and-metacognition-adhd-reader.md) — related
 - [Treatment group participants showed larger comprehension gains than control group participants, with six increasing by at least 50 lexiles](repeated-reading-comprehension-gains-lexiles.md) — related
+- [Trainees most often checked new-word pronunciation with online dictionaries, but rarely checked words they believed they already knew](online-dictionary-pronunciation-checking.md) — related

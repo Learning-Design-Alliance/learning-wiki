@@ -47,3 +47,5 @@ Semi-structured interviews with 15 EFL teachers after the four-month training, r
 ## Related Claims
 - [Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported](communicatively-developing-methods-improve-teacher-coherent-speech.md) — related
 - [The trial group improved a shortened FCE-style interview overall (p = 0.024), with significant gains in pronunciation, discourse and lexis but not grammar](phonics-prosody-course-improves-interview-skills.md) — related
+- [EFL teacher trainees perceived a native-like accent as a measure of being a good language teacher](trainees-native-accent-good-teacher-belief.md) — related
+- [Text-to-speech website self-study improved oral achievement scores in fluency, pronunciation and total grades among EFL teacher trainees](tts-self-study-improved-pronunciation-scores.md) — related

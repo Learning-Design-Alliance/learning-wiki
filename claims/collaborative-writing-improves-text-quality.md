@@ -94,3 +94,4 @@ Twenty-eight 10- and 11-year-olds in one mixed-ability class were all trained in
 - [Revision skill was not related to writing quality in either grade group](revision-not-related-writing-quality.md) — related
 - [Thesis Writer supports the scaling of writing instruction in group assignment settings](thesis-writer-scales-writing-instruction-group-assignments.md) — a narrower finding that bears on this claim
 - [Students perceive peer review as improving composition quality, with ideas and structure benefiting most](peer-review-composition-quality-perception.md) — a narrower finding that bears on this claim
+- [Writer's Workshop with sharing shifted first-grade ELL students' writing attitudes from mechanics-focused to strategies-focused](writers-workshop-writing-attitudes-ell.md) — a narrower finding that bears on this claim

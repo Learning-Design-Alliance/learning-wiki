@@ -60,3 +60,4 @@ Wilcoxon signed-rank tests within each group (Tables 5-7); self-efficacy and per
 - [Relaxation training produced a significant pre-to-post reduction in test anxiety among third-grade students in the experimental group](relaxation-training-reduces-test-anxiety-third-graders.md) — related
 - [Students' extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy decreased after traditional instruction for the gas unit](traditional-instruction-decreases-motivation-subscales.md) — reports the opposite
 - [Contrary to expectations, the digital writing workshop significantly decreased fourth-graders' writing motivation while control-group motivation did not change](digital-writing-workshop-decreases-writing-motivation.md) — related
+- [Neither face-to-face nor online RE-SB consultation significantly increases overall teacher efficacy beliefs](re-sb-consultation-no-effect-teacher-efficacy.md) — related

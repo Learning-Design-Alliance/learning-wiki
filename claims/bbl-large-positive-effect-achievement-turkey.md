@@ -53,3 +53,4 @@ Meta-analysis of 17 dissertations using the Random Effects Model in CMA software
 - [The constructivist learning approach has a strong positive overall effect on students' academic achievement compared to traditional teaching methods (ES = 1.156).](constructivist-approach-overall-effect-achievement.md) — related
 - [Computer-Assisted Mathematics Education has a large positive overall effect on academic achievement (ES = .8999) in Turkish experimental and quasi-experimental studies](came-large-positive-effect-academic-achievement.md) — related
 - [Concept mapping instruction has a very large positive effect on Turkish students' academic success compared to traditional teaching (ES=1.119)](concept-mapping-meta-analysis-turkish-academic-success.md) — related
+- [IBL is a new and weak research area in Turkey, with interest increasing only since 2006](ibl-new-weak-research-area-turkey.md) — related

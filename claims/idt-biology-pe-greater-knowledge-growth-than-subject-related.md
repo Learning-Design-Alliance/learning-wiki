@@ -69,3 +69,4 @@ Descriptive pre-/post-test values from the knowledge test: at t2 the test group 
 - [The subject-taught control group showed no significant knowledge increase while the interdisciplinary test group did](control-group-no-significant-knowledge-increase.md) — related
 - [Narrative instruction produces higher transfer performance than expository instruction in undergraduate biology learning](narrative-instruction-higher-transfer-biology.md) — related
 - [GPA-based interdisciplinary science instruction produced significantly higher science achievement than regular instruction after five weeks](gpa-interdisciplinary-science-posttest-advantage.md) — related
+- [Autonomy supportive teaching produces greater conceptual knowledge gains than controlling teaching in seventh grade biology](autonomy-support-boosts-conceptual-knowledge-biology.md) — related

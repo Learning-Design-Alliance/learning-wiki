@@ -49,3 +49,4 @@ Chi-Squared Test on task order for complexity level among the same 147 participa
 - [Students start with video modeling examples but shift toward worked examples and practice problems as the learning phase progresses](video-examples-first-shift-to-worked-examples.md) — related
 - [Most students' self-regulated task selections match instructional design principles, with the simple-to-complex principle least often fully applied](task-selections-match-instructional-design-principles.md) — related
 - [Activity order influences strategy adoption: starting with the easier Beer's Law Lab doubles the rate of moving to a systematic strategy on the second simulation](activity-order-influences-strategy-adoption.md) — related
+- [The intervention increases students' intention to choose complex tasks and shifts goal orientation toward learning goals](intervention-increases-complex-task-intention-and-learning-goals.md) — related

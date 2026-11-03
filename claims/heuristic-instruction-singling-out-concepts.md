@@ -48,3 +48,4 @@ Chi-square analysis of the concepts-and-ideas task in the six-month quasi-experi
 - [Heuristic-methodological instruction increases fourth-grade pupils' reported connecting of previously acquired knowledge with new content](heuristic-instruction-connecting-previous-knowledge.md) — related
 - [Heuristic-methodological instruction increases pupils' reported strategies for overcoming work difficulties](heuristic-instruction-overcoming-difficulties.md) — related
 - [Comprehension gains appeared on main-idea and inference items but not on word-meaning-guessing items](item-level-gains-except-guessing-meaning.md) — related
+- [Only a quarter of observed subject teachers clearly distinguished the main ideas and basic concepts during lessons](quarter-teachers-clearly-distinguished-main-ideas.md) — a narrower finding that bears on this claim

@@ -73,3 +73,4 @@ ANCOVA testing the group status × ethnicity interaction on intrinsic motivation
 - [Perceived group status mediates the ethnic differences in academic anxiety for African-American, Chinese, and Dominican children but not Russians](group-status-mediation-ethnic-academic-anxiety.md) — related
 - [Stigma awareness is associated with higher academic anxiety and lower intrinsic motivation among elementary-age children](stigma-awareness-academic-anxiety-intrinsic-motivation-children.md) — related
 - [School belonging and centrality are associated with higher intrinsic motivation, but neither buffers the associations between stigma awareness and academic attitudes](school-belonging-centrality-compensation-no-buffering.md) — related
+- [No gender differences or gender-by-condition interaction in intrinsic motivation outcomes](no-gender-effect-choice-motivation.md) — related

@@ -53,3 +53,4 @@ The commentary reports Olsen et al. (2019) as evidence for the importance of the
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — a broader claim this one bears on
 - [Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone](combined-intentional-incidental-greater-gains.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
+- [Students in the mixed condition had higher learning gains than those in the collaborative-only or individual-only conditions](mixed-condition-higher-learning-gains-than-either-alone.md) — possibly the same claim (merge candidate)

@@ -48,3 +48,4 @@ Statistical analysis of the paired sample (N=17 per group as printed in Table 1)
 - [Concept cartoon© teaching produced a statistically significant posttest score advantage over traditional teaching in fourth-grade science](concept-cartoons-posttest-advantage-quasi-experiment.md) — related
 - [A four-phase teaching process for congruent triangles significantly improves grade 8 students' test scores](four-phase-process-improves-congruent-triangle-scores.md) — related
 - [Concept mapping teaching produced significantly higher biology achievement than lecture method among Nigerian Senior Secondary II students](concept-mapping-beats-lecture-biology-achievement.md) — related
+- [Paired sample t-test confirms significantly higher post-test scores for the experimental group](pbl-paired-t-test-significant.md) — possibly the same claim (merge candidate)

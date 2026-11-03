@@ -45,6 +45,7 @@ For elementary and secondary students, the brief recommends mindfulness practice
 - [Use targeted mindfulness supports for at-risk students with trauma-informed adaptation and participation choice](targeted-trauma-informed-mindfulness-supports.md)
 - [Measure and respond to student emotions continuously in digital platforms and promote mindfulness and emotional awareness](continuous-emotion-measurement-mindfulness-digital-platforms.md)
 - [Interpersonal design practices for centering social justice: co-design, cultural competence, building understanding, and listening](interpersonal-social-justice-design-practices.md)
+- [Build conflict-resolution and communication skills into multidisciplinary team projects](conflict-resolution-modules-multidisciplinary-teams.md)
 
 ## Examples
 -

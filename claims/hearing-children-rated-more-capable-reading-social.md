@@ -73,3 +73,4 @@ In the three-group ANOVA (deaf with implants, deaf without implants, hearing), t
 - [Deaf parental hearing status, sign language use at home, and attendance at a school for the deaf are each associated with more positive perceptions of deaf children's social success](deaf-parents-sign-language-deaf-schools-social-perceptions.md) — related
 - [Parents rate their children as more socially successful than the children rate themselves, regardless of hearing status](parents-overestimate-childrens-social-success.md) — related
 - [Child-parent concordance is no greater for hearing families than for families with deaf children](no-greater-concordance-hearing-families.md) — related
+- [Research with deaf learners on phonemic awareness and phonics was too limited or methodologically weak to permit conclusions](deaf-phonics-research-too-limited-methodologically-weak.md) — related

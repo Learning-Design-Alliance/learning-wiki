@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 120 claims (81 show a difference, 28 mixed, 11 no difference) · 71 studies (21 review, 20 associational, 10 causal, 7 quant-synthesis, 6 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 9 of 71 report an effect size · 120 claims rest on one study
+> **Evidence** · 121 claims (82 show a difference, 28 mixed, 11 no difference) · 72 studies (21 review, 20 associational, 11 causal, 7 quant-synthesis, 6 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 9 of 72 report an effect size · 121 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -156,6 +156,7 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Students with disabilities and academically gifted students report perceiving more peer encouragement of bullying than other students, but within SEALS intervention schools they report perceiving less than nondisabled peers](../claims/peer-encouragement-bullying-perceptions.md) [~W] — outcome: measured, but the intervention did not change it overall
 - [The SEALS intervention showed no significant effect on peer victimization subtype placement, but students in intervention schools showed less variability in involvement over time](../claims/seals-no-effect-subtype-placement.md) [~W] — instruction changes it
 - [Pupils felt safe when working in groups during CLIL activities.](../claims/clil-group-work-feeling-safe.md) [+M] — instruction changes it
+- [Group risk-sharing removes personal humiliation and eases writing anxiety](../claims/group-credit-reduces-humiliation-anxiety.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

@@ -60,3 +60,4 @@ Quasi-experimental study comparing an experimental group receiving AI-supported 
 - [Inquiry-based instruction produces higher argumentation skills than the subject matter approach in secondary agriscience students](inquiry-based-instruction-higher-argumentation-skills-agriscience.md) — related
 - [Students gave positive feedback on both non-conventional activities, reporting greater interest, understanding and proactivity](positive-student-feedback-interventions.md) — related
 - [Problem solving strategy is more effective than the scientific approach for students' mathematical creativity](problem-solving-strategy-more-effective-creativity.md) — related
+- [Students show fear of solving problems outside taught methods, limiting creative thinking performance](student-fear-of-untaught-methods-limits-creativity.md) — reports the opposite

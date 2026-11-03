@@ -31,7 +31,7 @@ sources:
 # Clear Structure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (24 for, 12 mixed, 1 against) · 40 studies (13 causal, 9 quant-synthesis, 7 review, 6 qualitative, 4 theoretical, 1 associational), `q1`–`q4` · 9 of 40 report an effect size · 28 claims rest on one study
+> **Evidence** · 38 claims (24 for, 12 mixed, 2 against) · 41 studies (13 causal, 9 quant-synthesis, 7 review, 6 qualitative, 4 theoretical, 2 associational), `q1`–`q4` · 9 of 41 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,7 @@ A gain on an immediate test, a change in what is recalled, delayed retention, tr
 - [Trainees in the unstructured navigation condition showed better operational performance on the transfer task than trainees in the structured condition, approaching significance.](../claims/unstructured-navigation-better-transfer-performance.md) [-W]
 - [School level, explicit instruction, and signal words did not significantly moderate text structure instruction effects](../claims/tsi-null-moderators-school-explicit-signal-words.md) [~W]
 - [Consistent with a dual process model of engagement, structure shows stronger associations with engagement than with disengagement](../claims/structure-stronger-engagement-than-disengagement.md) [+W]
+- [Only a quarter of observed subject teachers clearly distinguished the main ideas and basic concepts during lessons](../claims/quarter-teachers-clearly-distinguished-main-ideas.md) [-W]
 
 ## Related Principles
 

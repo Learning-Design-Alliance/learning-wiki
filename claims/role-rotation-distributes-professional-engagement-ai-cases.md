@@ -51,3 +51,4 @@ Reflexive thematic analysis of four triangulated qualitative datasets (62 journa
 - [Interviewed students reported that the SRL intervention elicited self-regulated learning behaviors across goal setting, strategic planning, self-observation, and self-reflection](srl-intervention-elicited-srl-behaviors.md) — related
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — a broader claim this one bears on
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
+- [Permanent group membership over a six-week course may cause students to lose motivation, and rotating group members is recommended.](permanent-groups-reduce-motivation-rotation-recommended.md) — related

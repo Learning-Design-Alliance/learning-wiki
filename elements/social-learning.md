@@ -62,3 +62,7 @@ Social learning is the element in which interaction with peers, models, or commu
 ## The evidence by question
 - *Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]
 - *Does structured peer tutoring, a paired form of cooperative work, raise achievement, and does its structure matter?* [Peer Tutoring Improves Achievement](../claims/peer-tutoring-improves-achievement.md) [+S]
+
+## Examples
+
+- [Extend discussion sessions beyond the classroom through social network sites and visual cues](../strategies/extend-discussions-sns-visual-cues-strategy.md)

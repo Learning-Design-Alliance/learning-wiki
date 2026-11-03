@@ -79,3 +79,4 @@ Narrative review synthesis of human functional neuroimaging studies. The review 
 - [Children's perception and interpretation of stressors, rather than event type alone, shapes neurobiological stress responses](perception-interpretation-shapes-stress-response.md) — related
 - [Children exposed to early adversity are at increased risk for a broad range of developmental difficulties affecting both cognitive and emotional adjustment](early-adversity-increases-developmental-risk-cognitive-emotional.md) — a broader claim this one bears on
 - [Hippocampal microstructure continues maturing after early childhood: anterior hippocampus loses mass and posterior hippocampus gains mass from age 4 to 25](hippocampus-anterior-loss-posterior-gain-age-4-25.md) — related
+- [Poverty, stress, and related environmental risk factors are correlated with deficits in children's EF](poverty-stress-correlated-ef-deficits.md) — related

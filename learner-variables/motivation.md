@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 375 claims (247 show a difference, 89 mixed, 39 no difference) · 273 studies (95 causal, 91 associational, 40 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 6 design), `q1`–`q4` · 73 of 273 report an effect size · 363 claims rest on one study
+> **Evidence** · 377 claims (248 show a difference, 89 mixed, 40 no difference) · 274 studies (96 causal, 91 associational, 40 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 6 design), `q1`–`q4` · 74 of 274 report an effect size · 365 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -425,6 +425,8 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Self-efficacy correlates positively with foreign language achievement measures](../claims/self-efficacy-correlates-language-achievement.md) [+W] — learners who differ on it differ in outcomes
 - [Grade level moderated engagement effects: students in higher grades spent more time passively engaged, with secondary control students most disengaged](../claims/grade-moderates-engagement-udl.md) [~M] — instruction changes it
 - [UDL treatment students were significantly more actively engaged while control students were significantly more passively engaged and spent more time not engaged](../claims/udl-increases-active-engagement-doubles-active-time.md) [+M] — instruction changes it
+- [No gender differences or gender-by-condition interaction in intrinsic motivation outcomes](../claims/no-gender-effect-choice-motivation.md) [-W] — measured as an outcome of the instruction studied
+- [Students given topic choice via majority vote report higher intrinsic motivation than students assigned a topic without choice](../claims/majority-vote-choice-raises-intrinsic-motivation-biology.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

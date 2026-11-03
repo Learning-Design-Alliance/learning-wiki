@@ -70,3 +70,4 @@ Attention protocols (tapping, repositioning materials, self-interruption) let pa
 - [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](material-arrangement-affords-stability.md) — related
 - [The physical stability of material artifacts such as stacked tickertape strips and worksheets stabilizes students' attention, action, and knowledge use](material-artifact-stability-stabilizes-thinking.md) — related
 - [Markov chain analysis yields nine finer-grained behavioral clusters that map predominantly onto the three broader behavior types](nine-markov-clusters-map-three-behavior-types.md) — related
+- [BeeBot polygon activities support geometry learning through decomposition, embodied turn-taking, and mediating artifacts](beebot-polygon-activity-geometry-decomposition.md) — related

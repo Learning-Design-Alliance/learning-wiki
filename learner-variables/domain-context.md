@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 75 claims (54 show a difference, 16 mixed, 5 no difference) · 69 studies (20 review, 14 causal, 12 qualitative, 9 design, 5 quant-synthesis, 5 theoretical, 4 associational), `q1`–`q4` · 10 of 69 report an effect size · 71 claims rest on one study
+> **Evidence** · 76 claims (55 show a difference, 16 mixed, 5 no difference) · 70 studies (20 review, 14 causal, 13 qualitative, 9 design, 5 quant-synthesis, 5 theoretical, 4 associational), `q1`–`q4` · 10 of 70 report an effect size · 72 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -116,6 +116,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Physicians engage in SDL programs more when they perceive the content as useful and relevant to their clinical practice](../claims/perceived-content-relevance-drives-sdl-engagement.md) [+W] — learners who differ on it differ in outcomes
 - [Achievement in mathematics word problems correlates positively with five attitude dimensions and negatively with anxiety](../claims/attitude-achievement-correlations-word-problems.md) [+M] — learners who differ on it differ in outcomes
 - [Self-confidence, liking, usefulness, motivation, context, anxiety, male domain and treatment jointly and significantly predict achievement in mathematics word problems](../claims/attitudes-and-treatment-predict-word-problem-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Action research provided authentic, situated learning opportunities for educators in ways traditional theses do not](../claims/action-research-authentic-situated-learning.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

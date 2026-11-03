@@ -46,6 +46,7 @@ The review recommends that "multiple assessment methods are needed to comprehens
 
 - [Develop a standardized metric to assess competence in dysphagia management among healthcare providers.](develop-standardized-metric-dysphagia-competence.md)
 - [Integrate complementary methods — simulations, feedback, and targeted tools — into mental health nurse training and assessment](integrate-simulations-feedback-targeted-tools-mhn-assessment.md)
+- [Use complementary evaluation with two tools: a teacher-developed educational progress test and a recently standardized measure of educational effects.](complementary-evaluation-two-tools-strategy.md)
 
 ## Examples
 -

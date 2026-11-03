@@ -66,3 +66,4 @@ Random effects models across the same 16-study meta-analysis produced moderate a
 - [Poor readers are highly heterogeneous and do not all display the same type of reading impairment](poor-readers-heterogeneous-reading-behaviours.md) — related
 - [Reading enjoyment is strongly associated with better orthographic skills through books read per year](reading-enjoyment-linked-to-orthography.md) — related
 - [In a highly educated adult sample, social media use shows no direct connection with orthographic skills](social-media-no-direct-orthography-link-highly-educated.md) — related
+- [17 of 28 correlational studies reported significant correlations between phonological/phonemic awareness skills and reading comprehension in deaf readers](pa-ps-correlations-reading-comprehension-deaf.md) — related

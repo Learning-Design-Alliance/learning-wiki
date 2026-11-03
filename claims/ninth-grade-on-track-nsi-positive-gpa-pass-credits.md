@@ -85,3 +85,4 @@ Quasi-experimental comparison of students in 9th-grade on-track NSI schools to s
 - [Students' attendance and middle grades on-track rates in Success schools improved during the first two program years, especially in Year 2](success-project-attendance-ontrack-improved.md) — related
 - [Success schools' student GPAs did not show much improvement in the first two years](success-project-gpas-little-improvement.md) — related
 - [Six of seven recently reformed high schools showed first-year on-track improvements above comparison schools, though evidence is limited](recent-high-school-turnarounds-on-track-improvement.md) — related
+- [Year-two whole-grade BARR implementation further improved core credit earning and reduced Hispanic course failure](barr-year-two-whole-grade-outcomes.md) — related

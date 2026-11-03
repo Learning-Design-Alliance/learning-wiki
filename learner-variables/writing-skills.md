@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 241 claims (167 show a difference, 44 mixed, 30 no difference) · 136 studies (76 causal, 27 associational, 14 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 42 of 136 report an effect size · 236 claims rest on one study
+> **Evidence** · 242 claims (167 show a difference, 44 mixed, 31 no difference) · 137 studies (77 causal, 27 associational, 14 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 42 of 137 report an effect size · 237 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -279,6 +279,7 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [No-instruction (self-study) is insufficient for L2 students learning classified ad features without instruction.](../claims/self-study-no-instruction-insufficient-classified-ads.md) [+M] — instruction changes it
 - [Online-instruction group fails to improve content-building skill despite gains in other writing components](../claims/online-group-content-skill-no-improvement.md) [~M] — instruction changes it
 - [SEED PD had no impact on student writing quality](../claims/seed-pd-no-impact-student-writing-quality.md) [-M] — instruction changes it
+- [Graphic novel instruction did not significantly improve EFL students' reading comprehension, writing, or analytical reading skills compared to plain text instruction](../claims/graphic-novels-no-effect-comprehension-writing.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

@@ -53,6 +53,7 @@ Based on the null result, the author recommends that "techniques bas ed on coope
 - [Adopt cooperative learning in place of passive lecture-based teaching in Vietnamese higher education](adopt-cooperative-learning-vietnamese-higher-ed-strategy.md)
 - [Extend co-operative grammar learning to other levels, subjects and languages](extend-cooperative-learning-other-levels-languages.md)
 - [Explain the jigsaw technique's aim and steps to students beforehand and guide them during implementation](explain-jigsaw-steps-and-guide-implementation.md)
+- [Train both teachers and students in cooperative learning before implementation, with sufficient time to master interpersonal skills and accountability](train-teachers-and-students-in-cooperative-learning.md)
 
 ## Examples
 -

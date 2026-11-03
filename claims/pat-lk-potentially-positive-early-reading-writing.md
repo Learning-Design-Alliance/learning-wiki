@@ -79,3 +79,4 @@ RCT with reservations (high attrition) of 33 Hmong- or Spanish-speaking three- a
 - [Early Reading First had positive, statistically significant impacts on children's print and letter knowledge](early-reading-first-positive-print-letter-knowledge-impacts.md) — related
 - [Dialogic Reading combined with Sound Foundations shows potentially positive effects on print knowledge and early reading/writing but not oral language](dialogic-reading-sound-foundations-combined-outcomes.md) — related
 - [Four of six standards-meeting studies showed statistically significant positive effects and two showed substantively important positive effects on phonological processing](phonological-awareness-training-six-studies-significance-pattern.md) — related
+- [Foundations for Literacy curriculum identified as potentially evidence-based in the comprehensive category](foundations-for-literacy-potentially-evidence-based.md) — related

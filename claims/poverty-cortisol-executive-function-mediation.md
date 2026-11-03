@@ -58,3 +58,4 @@ Developmental review (Annual Review of Psychology) summarizing findings from the
 - [Stress, support, and stimulation mediate the association of SES with EF, language ability, and academic achievement](stress-support-stimulation-mediation-ses.md) — related
 - [Extracardiac anomalies, genetic diagnosis, CHD severity, surgical/hospitalization factors and low SES are risk factors for poorer academic achievement or higher SEN in CHD](chd-risk-factors-academic-achievement.md) — related
 - [Family Rewards reduced current poverty and hardship and increased receipt of preventive healthcare but did not improve school outcomes overall for elementary, middle, or high school students](family-rewards-early-findings-no-overall-school-impact.md) — related
+- [Poverty, stress, and related environmental risk factors are correlated with deficits in children's EF](poverty-stress-correlated-ef-deficits.md) — a broader claim this one bears on

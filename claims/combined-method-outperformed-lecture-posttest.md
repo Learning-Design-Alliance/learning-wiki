@@ -50,3 +50,4 @@ Independent-samples t-test of overall post-test scores (N = 20 per group) report
 - [Undergraduate students taught organic chemistry with an analogy instructional strategy achieved significantly higher post-test scores than students taught by traditional lecture methods](analogy-strategy-improves-organic-chemistry-achievement.md) — related
 - [Only the combined condition outperformed the control condition on a test of chemistry knowledge](combined-condition-only-outperformed-control-chemistry.md) — related
 - [Students learning organic chemistry with the OCRA mobile prototype scored significantly higher on the post-test than students taught by traditional methods](ocra-post-test-higher-than-control.md) — related
+- [Supplementing classroom instruction with e-learning raises post-test achievement more than classroom-only instruction](blended-elearning-raises-esp-posttest-scores.md) — possibly the same claim (merge candidate)

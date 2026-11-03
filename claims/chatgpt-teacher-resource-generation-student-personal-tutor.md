@@ -51,3 +51,4 @@ The review's synthesis of reported uses across its included studies, distinguish
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
 - [Many contemporary generative AI tools serve multiple educational purposes, with several tools appearing in multiple typology categories](genai-tools-multipurpose-multiple-categories.md) — related
 - [Only 11% of surveyed educators can recommend specialized AI services, with ChatGPT dominating recommendations at 44%](chatgpt-dominance-specialized-service-awareness-11-percent.md) — related
+- [Students' purposes when using technology are primarily related to entertainment and information seeking rather than structured learning tasks.](escuela2-students-entertainment-orientation.md) — reports the opposite

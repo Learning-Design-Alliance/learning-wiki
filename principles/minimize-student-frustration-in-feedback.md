@@ -18,7 +18,7 @@ sources:
 # Minimize student frustration by making feedback clear, legible, focused, and transparent
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (12 for, 12 mixed) · 25 studies (8 review, 5 qualitative, 4 causal, 3 design, 2 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 4 of 25 report an effect size · 21 claims rest on one study
+> **Evidence** · 25 claims (13 for, 12 mixed) · 26 studies (8 review, 5 qualitative, 4 causal, 3 quant-synthesis, 3 design, 2 associational, 1 theoretical), `q1`–`q4` · 5 of 26 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,7 @@ Learners' ratings of feedback, their uptake in the next draft, later writing qua
 - [Letter size has less effect on legibility than spacing of letters or arrangement of words](../claims/letter-size-less-effect-than-spacing-arrangement.md) [~W]
 - [Beneficial design features include diverse, authentic case variation and immediate, individualized, actionable, transparent feedback, yet only 52.6% of studies incorporated feedback](../claims/ai-virtual-patients-feedback-feature-underincorporated.md) [+W]
 - [Feedback perceived as strongly negative can evoke emotional responses including anger and discouragement, and may have detrimental consequences such as decreased motivation and reduced performance](../claims/negative-feedback-emotional-responses-detrimental-consequences.md) [+W]
+- [Focused feedback targeted at a specified error type has a large beneficial effect on long-term learning, contrary to Truscott's conclusion](../claims/focused-feedback-large-beneficial-long-term-effect.md) [+W]
 
 ## Related Principles
 

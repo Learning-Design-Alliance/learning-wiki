@@ -53,3 +53,4 @@ Meta-analysis of two intervention samples (n = 68 students) from a single one-da
 - [In-classroom physical activity breaks significantly improve primary school children's foreign language learning](icpab-improve-foreign-language.md) — related
 - [In-classroom physical activity breaks show no significant effects on children's executive function and attention outcomes](icpab-no-effect-cognition.md) — related
 - [Classroom active breaks show no statistically significant effect on inhibitory control in schoolchildren](active-breaks-no-significant-effect-inhibitory-control.md) — related
+- [Preschoolers' participation in physical activity during the day is associated with better self-regulation and inhibitory control](physical-activity-associated-self-regulation-preschoolers.md) — related

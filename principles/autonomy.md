@@ -42,7 +42,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 66 claims (31 for, 32 mixed, 3 against) · 63 studies (13 causal, 13 review, 12 associational, 9 theoretical, 6 qualitative, 6 design, 4 quant-synthesis), `q1`–`q4` · 7 of 63 report an effect size · 58 claims rest on one study
+> **Evidence** · 71 claims (34 for, 34 mixed, 3 against) · 66 studies (16 causal, 13 review, 12 associational, 9 theoretical, 6 qualitative, 6 design, 4 quant-synthesis), `q1`–`q4` · 9 of 66 report an effect size · 63 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,10 @@ Read against the model on 2026-10-19. Of the eighteen claims that had gathered h
 - [Students still want teachers' help and do not want all control handed over to them](../claims/students-still-want-teacher-support-under-autonomy.md) [+W] — attached 2026-11-01 from Yushan Wang (2010), which proposed "Give learners more control over listening practice to foster autonomy while retaining teacher guidance".
 - [The Vocabulary Self-Selection group outperformed the Input Enhancement group on the seen achievement posttest](../claims/vss-outperforms-input-enhancement-seen-posttest.md) [+W] — attached 2026-11-02 from Golfam Masoudi (2017), which proposed "Allow learners to self-select the vocabulary they study to build autonomy and motivation".
 - [Free choice of book motivated students to read more and gain more enjoyment](../claims/rsa-free-book-choice-motivates.md) [+W] — attached 2026-11-03 from Charumanee (2014), which proposed "Give students freedom to choose their own reading materials to build a reading culture"; tests this page's relationship.
+- [Autonomy supportive teaching produces greater conceptual knowledge gains than controlling teaching in seventh grade biology](../claims/autonomy-support-boosts-conceptual-knowledge-biology.md) [+M] — attached 2026-11-03 from Hofferber et al. (2014), which proposed "Use autonomy supportive teacher behaviors to facilitate deep and effective student learning"; tests this page's relationship.
+- [Teacher style (autonomy supportive vs. controlling) has no effect on rote learning achievement](../claims/teacher-style-no-effect-rote-learning.md) [~M] — attached 2026-11-03 from Hofferber et al. (2014), which proposed "Use autonomy supportive teacher behaviors to facilitate deep and effective student learning"; tests this page's relationship.
+- [Students whose vote did not select the winning topic report the same intrinsic motivation as students whose choice was received](../claims/non-received-choice-no-motivation-deficit.md) [~W] — attached 2026-11-03 from Meyer et al. (2013), which proposed "Implement classroom topic choice through a transparent majority vote with caring teacher support"; tests this page's relationship.
+- [Students given topic choice via majority vote report higher intrinsic motivation than students assigned a topic without choice](../claims/majority-vote-choice-raises-intrinsic-motivation-biology.md) [+M] — attached 2026-11-03 from Meyer et al. (2013), which proposed "Implement classroom topic choice through a transparent majority vote with caring teacher support"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -199,6 +203,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Hybrid models combining SDVT with real-time feedback may enhance learner autonomy while maintaining instructional oversight](../claims/hybrid-sdvt-rt-feedback-benefits.md) [+W]
 - [No significant difference between the models in perceived option or pressure/tension dimensions](../claims/sem-no-difference-perceived-option-pressure-tension.md) [~W]
 - [Experts agreed that literacy motivation and engagement are fostered through offering children choices in reading and writing](../claims/experts-agree-choice-fosters-motivation-engagement.md) [+W]
+- [E-learning fosters learner autonomy and self-directed learning by enabling students to control pace, time, and content](../claims/elearning-fosters-learner-autonomy-self-direction.md) [+W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — regular, non-controlling check-ins are a core teacher behavior of autonomy support, signaling interest rather than surveillance

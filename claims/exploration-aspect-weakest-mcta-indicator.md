@@ -47,3 +47,4 @@ Analysis of student work on five description test items, each mapping to one of 
 
 ## Related Claims
 - [Students taught with the ILSC model show greater enhancement of mathematical critical thinking ability than students taught conventionally](ilsc-model-enhances-mathematical-critical-thinking.md) — related
+- [Students' mathematical creative thinking ability is lowest on complex tasks requiring idea extension and linking facts to mathematical models](creative-thinking-lowest-on-complex-tasks.md) — related

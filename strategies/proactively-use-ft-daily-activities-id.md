@@ -52,7 +52,8 @@ The article recommends that researchers and practitioners extend mobile device u
 - [PND outcomes were not significantly affected by participant characteristics, device types/functions, intervention strategies, or target skill types](../claims/pnd-not-moderated-by-characteristics-device-strategy-skill.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use mobile devices and cloud-based technologies to support extensive task-based activities in real-world contexts](mobile-cloud-task-based-real-world-activities.md)
 
 ## Examples
 -

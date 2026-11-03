@@ -52,3 +52,4 @@ Pattern observed in Tables 2-4 and Figure 3 summarizing proportions of variance 
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related
 - [All four LLMs award a smaller share of available marks as bash question cognitive complexity increases, with L4 questions receiving the lowest proportions](llm-scores-decline-with-cogtax-level.md) — related
 - [No evidence for a curvilinear relationship between arousal and test performance](no-curvilinear-arousal-performance.md) — related
+- [CBL improved performance at the knowledge level of Bloom's taxonomy, with no differences at comprehension or application levels](cbl-improves-knowledge-level-bloom-performance.md) — related

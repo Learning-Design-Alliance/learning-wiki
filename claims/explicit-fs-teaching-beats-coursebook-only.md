@@ -52,3 +52,5 @@ Quasi-experimental classroom study with 60 low-proficiency Vietnamese EFL studen
 - [Adding sentence context to explicit teaching of formulaic sequences does not improve learning gains compared to explicit teaching without context for low-proficiency learners.](no-context-benefit-explicit-fs-low-proficiency.md) — related
 - [Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone](combined-intentional-incidental-greater-gains.md) — related
 - [PBI and TBI groups show more learning gains than a control group in formulaic-sequence retention, especially on the delayed test](pbi-tbi-outperform-control-formulaic-sequences.md) — related
+- [Lower-proficiency learners caught up with higher-proficiency peers on FS test performance after explicit instruction.](explicit-fs-instruction-benefits-lower-proficiency-learners.md) — related
+- [Explicit instruction on academic formulaic sequences significantly improved EFL college learners' FS test performance from pretest to posttest.](explicit-fs-instruction-improves-fs-test-performance.md) — related

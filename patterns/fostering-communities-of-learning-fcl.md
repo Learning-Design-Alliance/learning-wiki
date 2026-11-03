@@ -21,7 +21,7 @@ sources:
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 41 claims (24 for, 16 mixed, 1 against) · 51 studies (16 causal, 13 quant-synthesis, 12 review, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 11 of 51 report an effect size · 29 claims rest on one study
+> **Evidence** · 42 claims (25 for, 16 mixed, 1 against) · 52 studies (16 causal, 13 quant-synthesis, 12 review, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 11 of 52 report an effect size · 30 claims rest on one study
 
 ## Description and scope
 
@@ -147,6 +147,7 @@ This pattern is scoped to a class or cohort that researches the parts of a share
 - [Students taught with jigsaw reported positive views, rating it highly effective, student-centered, and achievement-enhancing](../claims/jigsaw-opinions-erzurum-7th-grade.md) [+W]
 - [Students also reported disadvantages of the jigsaw technique, most often that it is time consuming and boring](../claims/student-reported-jigsaw-disadvantages-time-consuming.md) [-W]
 - [Both jigsaw and traditionally taught groups showed statistically significant pre-test to post-test gains, with a larger gain in the jigsaw group](../claims/jigsaw-and-control-both-gain-significantly-pre-to-post.md) [+W]
+- [Students in jigsaw learning groups report that teaching others helps them learn more and retain knowledge longer.](../claims/teaching-others-enhances-learning-retention-jigsaw.md) [+W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

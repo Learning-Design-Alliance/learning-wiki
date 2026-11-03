@@ -70,3 +70,4 @@ Follow-up GLM ANOVA within the experimental group receiving DS-integrated narrat
 - [In one quasi-experiment in EFL writing classes, students given AI-peer integrated feedback reported higher posttest cognitive engagement than students given conventional peer feedback](ai-peer-feedback-higher-cognitive-engagement.md) — related
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
 - [Only the experimental group showed a significant pretest-to-posttest change in difference scores](gda-difference-scores-only-experimental-changed.md) — reports the opposite
+- [Students' reading and writing scores improved significantly from pre-test to post-tests in all three classes](cle-peer-teaching-reading-writing-gains.md) — related

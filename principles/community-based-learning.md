@@ -31,7 +31,7 @@ sources:
 # Community-Based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (12 for, 8 mixed) · 22 studies (5 qualitative, 4 causal, 4 review, 3 associational, 2 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 3 of 22 report an effect size · 18 claims rest on one study
+> **Evidence** · 24 claims (14 for, 10 mixed) · 23 studies (5 review, 5 qualitative, 4 causal, 3 associational, 2 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 3 of 23 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -116,6 +116,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](../claims/culture-based-programs-flourish-engagement.md) [+W]
 - [Nonfunded research barters, initiated by Global South partners, can foster reciprocity in ICEL without transactional funding](../claims/research-barters-foster-reciprocity-icel.md) [+W]
 - [Service-learning has a statistically significant positive effect on student learning outcomes (d = .332)](../claims/service-learning-positive-effect-learning-outcomes.md) [+W] — attached 2026-10-31 from Jami L. Warren (2012), which proposed "Service-learning as a pedagogical strategy with four success criteria"; tests this page's relationship.
+- [Service-learning placements with ELLs heighten preservice teachers' awareness of diverse learners](../claims/sl-with-ells-heightens-pst-awareness.md) [+W] — attached 2026-11-03 from Toronyi (2020), which proposed "Combine service-learning placements with methods courses that teach L2 theoretical foundations and structured reflection".
+- [SL placements shift PSTs away from deficit-model thinking about ELLs](../claims/sl-shifts-psts-away-from-deficit-thinking.md) [+W] — attached 2026-11-03 from Toronyi (2020), which proposed "Combine service-learning placements with methods courses that teach L2 theoretical foundations and structured reflection".
 
 ## Objective and learner-valued goal
 
@@ -128,6 +130,11 @@ For example, a student on a community nutrition project may value helping a food
 The expectation should weaken if comparisons of the same course with and without the community component, with comparable students, find no difference in civic or learning outcomes, or if the attitude gains disappear once self-selection and pretest differences are controlled. If explicit conceptual framing and guided reflection do not change what learners make of the experience, those conditions are not the active part and the model should say what is. If partner conflict or access barriers routinely reduce outcomes for identifiable learners, preparation, partner selection and equitable access become part of the relationship, not caveats. Do not protect the model by calling every disappointing project "tokenistic" after the fact.
 
 Civic attitudes, self-reported self-efficacy, the quality of reflection, content learning and later participation in community life are separate claims. The present evidence touches the first three, associationally; it does not establish content learning, transfer, or how much community work is enough.
+
+## Claims
+
+- [Reciprocity in SL requires meaningful relationships and hearing the voices of those served](../claims/sl-reciprocity-voices-of-served.md) [~W]
+- [SL placement duration and mentor preparation moderate the effectiveness of SL experiences](../claims/sl-duration-and-mentor-moderators.md) [~W]
 
 ## Related Principles
 - [Communities of Practice](communities-of-practice.md) — emphasizes learning through increasing participation in a practice community

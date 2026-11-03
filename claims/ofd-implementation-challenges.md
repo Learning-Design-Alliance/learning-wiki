@@ -49,3 +49,4 @@ Theme from the interview analysis: students reported "Sometimes the computer is 
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — a broader claim this one bears on
 - [Time zone differences affected international students' timely participation in asynchronous forums, and a balance of synchronous and asynchronous communication was regarded as beneficial](time-zone-differences-asynchronous-participation-balance.md) — related
+- [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — related

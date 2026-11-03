@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 65 claims (34 for, 27 mixed, 4 against) · 59 studies (32 causal, 12 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 13 of 59 report an effect size · 59 claims rest on one study
+> **Evidence** · 67 claims (36 for, 27 mixed, 4 against) · 60 studies (33 causal, 12 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 13 of 60 report an effect size · 61 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Multisensory language teaching improves reading retention in young English learners a month after treatment, with a large effect size.](../claims/mslt-improves-reading-retention.md) [+W] — attached 2026-11-03 from Çelik Korkmaz et al. (2018), which proposed "Supporting coursebooks with supplementary multisensory materials and activities makes learning more fun and permanent."; tests this page's relationship.
 - [The Multisensory Instructional Approach was the most effective of the four approaches for overall vocabulary achievement](../claims/msia-most-effective-overall-vocabulary.md) [+W] — attached 2026-11-03 from Folakemi.O. Adeniyi; R. Adebayo Lawal (2012), which proposed "Employ the Multisensory Instructional Approach, or its combination with metacognitive instruction, to teach English vocabulary to underachieving L2 students"; tests this page's relationship.
 - [Multimodal theme-sets improve L2 students' comprehension of core concepts in unit surveys](../claims/multimodal-theme-sets-improve-l2-comprehension.md) [+W] — attached 2026-11-03 from Ruefman (2015), which proposed "Multimodal theme-sets: thematically linked supplemental texts reinforcing a core reading".
+- [Graphic novel instruction significantly improved EFL students' understanding of literary devices in Macbeth compared to plain text instruction](../claims/graphic-novels-improve-literary-device-comprehension.md) [+M] — attached 2026-11-03 from Öz et al. (2015), which proposed "Use graphic novels as alternative reading materials to teach literary texts in EFL classrooms"; tests this page's relationship.
+- [Graphic novel instruction significantly improved EFL students' vocabulary learning compared to plain text instruction](../claims/graphic-novels-improve-vocabulary-learning.md) [+M] — attached 2026-11-03 from Öz et al. (2015), which proposed "Use graphic novels as alternative reading materials to teach literary texts in EFL classrooms"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -50,3 +50,4 @@ Logistic regression analysis in 134 elementary students (25 not motivated) using
 - [Prevalence of decreased intrinsic academic motivation is approximately twice as high in junior high as in elementary students](motivation-decline-prevalence-doubles-junior-high.md) — related
 - [Intrinsic academic motivation scores are lower in 7th- and 8th-grade junior high students than in 4th-grade elementary students](motivation-scores-lower-junior-high-than-4th-grade.md) — related
 - [Verbal memory test scores correlate positively with intrinsic academic motivation scores in junior high but not elementary students](verbal-memory-correlates-motivation-junior-high-only.md) — related
+- [No gender differences or gender-by-condition interaction in intrinsic motivation outcomes](no-gender-effect-choice-motivation.md) — related

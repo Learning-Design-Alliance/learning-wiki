@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 226 claims (104 for, 117 mixed, 5 against) · 130 studies (70 associational, 24 review, 22 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 46 of 130 report an effect size · 218 claims rest on one study
+> **Evidence** · 228 claims (106 for, 117 mixed, 5 against) · 131 studies (70 associational, 25 review, 22 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 46 of 131 report an effect size · 220 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -267,6 +267,8 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [A recent meta-analysis of 8,760 children from 25 studies found small to medium effect sizes for the association between SES and EF](../claims/meta-analysis-ses-ef-effect-sizes.md) [+M]
 - [FSI students made relative gains on fraction comparison items requiring inhibition of the whole number bias](../claims/fsi-gains-common-numerator-whole-number-bias-items.md) [+W]
 - [I Control improved teacher-reported executive function behaviors, with the largest effects for students with the highest baseline deficits on the BRIEF Behavior Regulation Index](../claims/i-control-improves-teacher-reported-executive-function.md) [+W] — attached 2026-11-02 from Stephen W. Smith et al. (2017), which proposed "Self-regulation depends in part on executive functioning, guiding school-based intervention for students with behavior problems".
+- [Curricular interventions including Tools of the Mind and Promoting Alternative Thinking Strategies can improve preschoolers' EF skills](../claims/curricular-interventions-improve-preschool-ef.md) [+W]
+- [Young children’s EF skills show a robust positive relationship with academic outcomes in preschool through third grade](../claims/ef-correlates-academic-outcomes-preschool-third-grade.md) [+W]
 
 ## Related Theories
 

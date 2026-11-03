@@ -58,3 +58,4 @@ T-test comparing male and female students' post-test means within the experiment
 - [University students taught French reading with Prezi scored significantly higher on a post-test than students taught the traditional way](prezi-outperforms-traditional-french-reading-instruction.md) — related
 - [No significant difference in mathematics achievement due to gender among third graders](no-gender-effect-maths-achievement-blended-study.md) — related
 - [No significant gender difference in achievement among students taught with interactive whiteboard](iwb-gender-friendly-achievement.md) — related
+- [Female gifted students slightly outperformed males on creative thinking posttests in both groups, with no group-by-gender interaction](six-hats-gender-difference-females-creative-thinking.md) — related

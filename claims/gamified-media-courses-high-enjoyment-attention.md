@@ -71,3 +71,4 @@ Same two-wave descriptive survey of the gamified CMN 450 and ITM 445 courses. "8
 - [A majority of students rated the gamified courses enjoyable or very enjoyable, with some reporting reduced school-related stress compared with non-gamified classes](gamified-courses-majority-enjoyable-stress-relief.md) — related
 - [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — reports the opposite
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
+- [A large majority of students perceived the gamified review activities as useful, motivating, and enjoyable](students-perceive-gamification-useful-motivating-enjoyable.md) — related

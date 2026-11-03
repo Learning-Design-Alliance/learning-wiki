@@ -47,3 +47,4 @@ One-way ANOVA on Gordon's AUDIE music perception d' scores comparing Synchronize
 ## Related Claims
 - [Preschoolers who synchronize well to a beat outscore poor synchronizers on phonological awareness, auditory short-term memory, and rapid automatized naming](synchronizers-outperform-nonsynchronizers-preliteracy.md) — related
 - [Synchronizers show higher phase-locking consistency than Non-synchronizers, especially from transition to steady-state and at higher frequencies](synchronizers-phase-locking-consistency.md) — related
+- [Direct Instruction music literacy program significantly improves Year 7 students' rhythmic literacy specifically](di-rhythmic-literacy-significant-improvement.md) — related

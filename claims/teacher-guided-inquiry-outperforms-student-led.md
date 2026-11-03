@@ -136,3 +136,4 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [Experimental-group students needed less teacher support for theoretical information than control-group students during the flipped lessons](less-teacher-support-experimental-group-observations.md) — related
 - [A cited meta-analysis found discovery-method instruction positively affected achievement in 61% of 138 studies](discovery-method-meta-analysis-61-percent-138-studies.md) — related
 - [Guided discovery most effectively facilitates transfer of knowledge in physics, followed by demonstration, with expository least effective](guided-discovery-most-effective-physics-transfer.md) — related
+- [Direct scaffolding improves scientific inquiry performance more than indirect scaffolding, especially for students with high prior reasoning skills](direct-scaffolding-outperforms-indirect-inquiry.md) — a narrower finding that bears on this claim

@@ -26,6 +26,7 @@ A public database and interactive evidence-gap-map resource created by Bond et a
 ## Related Products and Programmes
 
 - [Interactive evidence and gap maps of motivation regulation research, built with EPPI-Mapper, with the underlying dataset released on OSF](interactive-evidence-and-gap-maps-of-motivation-regulation-research-built-with-eppi-mapper.md)
+- [Searchable database of mathematics educational technology studies 1968-2010](searchable-database-of-mathematics-educational-technology-studies-1968-2010.md)
 
 ## Key Sources
 - Bond, M., Khosravi, H., De Laat, M., Bergdahl, N., Negrea, V., Oxley, E., Pham, P., Chong, S. W. & Siemens, G. (2024). A meta systematic review of artificial intelligence in higher education: a call for increased ethics, collaboration, and rigour. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-023-00436-z

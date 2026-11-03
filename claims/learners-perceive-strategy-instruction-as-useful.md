@@ -49,3 +49,4 @@ Descriptive analysis of the learner perception questionnaire (Cronbach Alpha = .
 - [Students rate LLM-generated response-level feedback favourably, with clarity and perceived accuracy highest and actionability and usefulness lowest](llm-response-feedback-clarity-accuracy-highest-actionability-usefulness-lowest.md) — related
 - [Students in the generative AI-supported condition reported favorable perceptions of the instruction, with feedback for correcting mistakes rated highest](genai-geometry-favorable-perceptions.md) — related
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related
+- [Participants perceived explicit FS instruction as effective, rating it 4.1 out of 5.0 overall.](positive-perceptions-explicit-fs-instruction.md) — related

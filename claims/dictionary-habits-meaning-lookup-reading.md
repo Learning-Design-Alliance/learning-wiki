@@ -51,3 +51,4 @@ Questionnaire II habit items (Likert scale) showed meaning/definition lookup hig
 - [Hyper-reference dictionary users consulted vocabulary twice as often as paper-dictionary users, though comprehension did not differ significantly](hyper-reference-consultation-frequency-no-comprehension-gain.md) — related
 - [Dictionary type used is significantly associated with lexical proficiency in writing among upper-intermediate Iranian EFL learners](dictionary-type-associated-lexical-proficiency-writing.md) — related
 - [Skill in dictionary use correlates strongly with lexical proficiency in writing](dictionary-use-skill-correlates-lexical-proficiency.md) — related
+- [Trainees most often checked new-word pronunciation with online dictionaries, but rarely checked words they believed they already knew](online-dictionary-pronunciation-checking.md) — related

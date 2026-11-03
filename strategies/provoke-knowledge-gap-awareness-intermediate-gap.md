@@ -44,7 +44,8 @@ The article draws an educational implication from its finding that the Not Sure 
 - [Knowledge Vs Correctness Confidence Distinction](../theories/metacognition.md)
 
 ## Related Strategies
-- 
+
+- [Conclude online tutoring sessions with a prompt for students to identify and explain what they learned](postsession-student-reflection-prompt.md)
 
 ## Examples
 -

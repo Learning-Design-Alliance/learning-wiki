@@ -75,3 +75,4 @@ MD-only subgroup multilevel analysis of the PPS delayed posttest 11 weeks after 
 - [SBI did not moderate student growth over time in proportional problem solving for students with MD-PS](sbi-did-not-moderate-growth-over-time.md) — related
 - [Schema-based instruction significantly improves seventh-grade students' proportional problem solving at posttest compared with business-as-usual instruction](sbi-improves-proportional-problem-solving-posttest.md) — related
 - [SBI effects on proportional problem solving are maintained on a delayed posttest administered 9 weeks after intervention](sbi-retention-proportional-problem-solving-9-weeks.md) — related
+- [Cohort (teacher experience with SBI) was not a significant predictor of proportional problem-solving posttest or delayed posttest scores](sbi-cohort-no-pps-effect.md) — related

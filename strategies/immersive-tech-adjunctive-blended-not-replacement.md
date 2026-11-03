@@ -59,6 +59,7 @@ The review recommends a measured adoption strategy: immersive technologies and v
 - [Implement communication skills training in medical curricula](communication-skills-training-medical-curricula.md)
 - [Consider VR as an adjunct to dissection and evaluate cost-effectiveness and adverse reactions when adopting VR for anatomy teaching](vr-anatomy-adjunct-adoption-strategy.md)
 - [Blend web-based and traditional approaches rather than replacing classroom instruction with web-based instruction](amalgamate-web-based-and-traditional-approaches.md)
+- [Embed game activities and resources across distributed existing media rather than building a stand-alone immersive game world](distributed-media-altrg-resource-strategy.md)
 
 ## Examples
 -

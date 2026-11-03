@@ -74,3 +74,4 @@ One-way repeated-measures ANOVA on experiment-1's pre-test, post-test and retent
 - [Concept mapping supports retention of science knowledge over five days](concept-mapping-supports-retention-delayed-posttest.md) — related
 - [Science concept gains from keyword strategy instruction are retained six weeks after instruction ends](keyword-strategy-gains-retained-six-weeks.md) — related
 - [Synectics workshops significantly increase perceived problem-solving skills, retained three months later](synectics-improves-problem-solving-skills-retained.md) — related
+- [Students' reading and writing scores improved significantly from pre-test to post-tests in all three classes](cle-peer-teaching-reading-writing-gains.md) — related

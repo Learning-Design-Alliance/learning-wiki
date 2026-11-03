@@ -78,3 +78,4 @@ Same qualitative dataset; the discussion also notes ChatGPT's wrong string name 
 - [Students report that feedback in DPBL is occasionally lacking despite general contentment with tasks](dpbl-feedback-occasionally-lacking.md) — related
 - [Challenges of asynchronous e-learning include lack of real-time feedback, computer-skill gaps, and insufficiency for confidence and practical skills](asynchronous-elearning-challenges-nurses.md) — related
 - [Mobile access to the Voice Thread application resolved participants' initial difficulties uploading voice entries](mobile-app-resolved-vt-upload-difficulties.md) — related
+- [Analysis of the existing computer-based instruction course identified four problems: unlinked program functions, rigid assessment, decontextualized applications, and weak feedback.](existing-cai-course-problems-analysis.md) — related

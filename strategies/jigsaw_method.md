@@ -67,6 +67,7 @@ Jigsaw converts passive content coverage into active peer teaching, with each le
 - [Use jigsaw-style sharing so every student is responsible for all the material](jigsaw-sharing-inquiry-posters.md)
 - [Heterogeneous team grouping with peer tutoring within CBI lessons](heterogeneous-team-grouping-peer-tutoring-cbi.md)
 - [Distribute group tasks as numbered activities assigned randomly so each child participates fairly](numbered-random-task-distribution-group-work.md)
+- [Use inter-group Jigsaw participation so each group member teaches his topic to other groups and returns to teach his initial group.](jigsaw-inter-group-participation-strategy.md)
 
 ## Examples
 - **The Jigsaw Classroom** (Aronson's original program, [jigsaw.org](https://www.jigsaw.org)) — 5th-grade history in Austin, TX: each student in a group of six owned one segment of a biography; the structure sharply reduced prejudice and absenteeism in the original studies.

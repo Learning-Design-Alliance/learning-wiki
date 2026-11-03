@@ -56,3 +56,4 @@ Qualitative finding from the authors' three-year coaching study: district encour
 - [Community members reported that participating in a Community Socratic Circle helped them feel comfortable with teachers facilitating classroom racial discourse](community-socratic-circle-built-comfort-support.md) — related
 - [Kennedy's (2016) review finds programs fostering teachers' intellectual involvement and voluntary enrollment tended to be more effective at improving student achievement](kennedy-2016-voluntary-intellectual-involvement-effective.md) — related
 - [Ownership and learner community development are positively correlated with learner perceptions (r = 0.6064 and r = 0.64153)](ownership-community-development-positive-correlations.md) — related
+- [Teacher-researchers no longer waited for change to come from the outside and trusted themselves enough to take risks](action-research-agency-risk-taking.md) — related

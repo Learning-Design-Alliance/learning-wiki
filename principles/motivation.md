@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 126 claims (77 for, 47 mixed, 2 against) · 114 studies (35 causal, 29 review, 13 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 14 of 114 report an effect size · 112 claims rest on one study
+> **Evidence** · 127 claims (78 for, 47 mixed, 2 against) · 115 studies (35 causal, 29 review, 14 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 14 of 115 report an effect size · 113 claims rest on one study
 
 ## Conditional relationship
 
@@ -213,6 +213,7 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [RAP strategy instruction without a motivational system produced no noteworthy reading comprehension enhancement in either group during the first three weeks](../claims/rap-alone-no-significant-gain.md) [~W] — attached 2026-11-02 from Leidig et al. (2018), which proposed "Combine strategy instruction with a multicomponent motivational system (scoring, visual feedback, attribution-based praise) rather than a token economy alone"; tests this page's relationship.
 - [At large peer-teacher relatedness discrepancies, high teacher relatedness compensates for absent peer relatedness to support engagement, whereas low teacher relatedness accompanies low engagement (Study 1)](../claims/teacher-specific-compensation-engagement.md) [+W] — attached 2026-11-03 from Núñez-Regueiro et al. (2024), which proposed "Design interventions and theories around peer and teacher relatedness as interdependent, rather than independent, factors of adolescent development".
 - [Personalized motivational prompts improve total mean scores on a low-stakes standardized test](../claims/personalized-motivational-prompts-improve-low-stakes-test-performance.md) [+W] — attached 2026-11-03 from Hawthorne et al. (2015), which proposed "Use personalized motivational prompts as a practical, low-cost strategy to enhance performance on low-stakes tests".
+- [Students most enjoyed oral-language-based reading activities — teacher read aloud, reading plays, short stories, silent reading, and student read aloud — each enjoyed by roughly 50% of students.](../claims/oral-language-activities-most-enjoyed.md) [+W] — attached 2026-11-03 from Varuzza et al. (2014), which proposed "Successful teachers motivate young adolescents through classroom interaction, challenging literacy activities, and discussion about what was read.".
 
 ## Objective and learner-valued goal
 

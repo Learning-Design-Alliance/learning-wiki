@@ -60,3 +60,4 @@ Findings from the developmental evaluation's triangulated survey, interview, foc
 - [Learning in virtual communities ranges across many settings, requiring connective ethnography and analysis at multiple units of analysis](virtual-community-learning-multiple-units-of-analysis.md) — related
 - [Trainees valued grief training activities involving reflection, debriefing with peers and the direct involvement of bereaved caregivers](trainees-value-reflective-and-bereaved-caregiver-involvement.md) — related
 - [Adult family members of included children reported improved expectations, family activities, and social outcomes, with 71% reporting regular best-friend play and visitation](family-quality-of-life-inclusive-placement.md) — related
+- [Action research created opportunities for teachers to become more complete members of their communities of practice](action-research-community-membership.md) — related

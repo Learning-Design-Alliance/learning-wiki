@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 60 claims (38 for, 19 mixed, 3 against) · 35 studies (16 causal, 8 review, 6 quant-synthesis, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 35 report an effect size · 59 claims rest on one study
+> **Evidence** · 61 claims (39 for, 19 mixed, 3 against) · 36 studies (17 causal, 8 review, 6 quant-synthesis, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 36 report an effect size · 60 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -84,6 +84,7 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Departmental grading rules forced one gamified course to run a dual grading structure, and gamifying the course alone appeared to sustain engagement even without tying marks to game points](../claims/department-rules-dual-grading-gamified-course.md) [~W]
 - [Gamified educational robots increase all four learning-motivation dimensions (attention, relevance, self-confidence, satisfaction) in a STEM curriculum](../claims/gamified-robots-increase-stem-motivation.md) [+W] — attached 2026-11-03 from Chen et al. (2023), which proposed "Gamified educational robot with humanoid appearance, voice recognition, and game challenges"; tests this page's relationship.
 - [Gamified educational robots increase creativity in a STEM curriculum](../claims/gamified-robots-increase-stem-creativity.md) [+W] — attached 2026-11-03 from Chen et al. (2023), which proposed "Gamified educational robot with humanoid appearance, voice recognition, and game challenges".
+- [Graduate students in a gamified online statistics course scored significantly higher on exams than students in a non-gamified control group](../claims/lms-gamification-higher-exam-scores.md) [+M] — attached 2026-11-03 from Chen et al. (2018), which proposed "Concept Review Bingo: a wiki-based LMS review game with points, levels, and bonus rewards"; tests this page's relationship.
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

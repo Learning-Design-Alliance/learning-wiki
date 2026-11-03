@@ -62,3 +62,4 @@ ANOVA of pre-test MSLQ scores (Table 5; test anxiety F = 3,466, p = ,021). Posth
 - [After the Student Success Course, test anxiety significantly decreased while intrinsic goal orientation and self-efficacy significantly increased, but task value and control beliefs did not improve](ssc-motivation-changes-test-anxiety-self-efficacy.md) — related
 - [Random assignment created equivalent groups, and performance did not differ by pattern dimension, orientation, or missing-item position](patterning-equivalent-groups-null-dimensions.md) — related
 - [Diary keeping significantly increases intrinsic motivation and task value of pre-service science teachers](diaries-increase-intrinsic-motivation-task-value.md) — related
+- [Before the presentation, intervention and control groups did not differ on theory of intelligence, task intentions or goal orientation](baseline-equivalence-intervention-control-groups.md) — related

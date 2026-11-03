@@ -50,3 +50,4 @@ Pilot implementation of study period 1 in an online graduate-level course: a web
 - [Graduate students rated AI-generated weekly readings as effective preparation, with 75% agreeing they learned more than in a comparable course without AI assistance](ai-generated-readings-positive-perceived-value-graduate-course.md) — related
 - [Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education](eight-ai-factors-positive-engagement-satisfaction.md) — related
 - [Most learners report that visual input helps them understand speakers](visual-input-helps-comprehension-perceptions.md) — related
+- [Project satisfaction strongly positively correlated with instruction ratings (0.50 < r < 0.70)](project-satisfaction-correlates-instruction-ratings.md) — related

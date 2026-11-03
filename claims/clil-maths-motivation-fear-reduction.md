@@ -53,3 +53,4 @@ The authors report that pupils "became more motivated to learn something new and
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](speaking-practice-reduced-flca-increased-self-efficacy.md) — related
 - [Second Life-based instruction significantly increased sympathy and interest toward mathematics on the paired interest/love items (z=3.01, p<.05)](sl-math-robot-interest-love-pair-increase.md) — related
 - [CLIL applications helped an initially disadvantaged experimental group become statistically similar to the control group in English test scores](clil-experimental-group-levels-with-control-posttest.md) — related
+- [Students responded very positively to project-based CLIL learning](clil-positive-student-perceptions.md) — related

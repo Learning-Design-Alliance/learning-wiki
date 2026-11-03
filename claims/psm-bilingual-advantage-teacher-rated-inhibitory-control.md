@@ -54,3 +54,4 @@ Propensity score matching analysis of the ECLS-K:2011 kindergarten sample, match
 - [After propensity score matching, no bilingual-monolingual differences appear on performance-based measures of working memory or cognitive flexibility in kindergarten](psm-no-bilingual-advantage-performance-based-ef.md) — related
 - [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](psm-baseline-equivalence-mtss-study.md) — related
 - [Sensitivity analysis indicated medium-to-large unobserved confounding would be needed to eliminate the reported pandemic effects](unobserved-confounder-sensitivity-pandemic-effects.md) — related
+- [Bilingual children show advantages on EF measures compared to monolingual peers](bilingual-advantage-ef-preschoolers.md) — related

@@ -85,6 +85,7 @@ Jigsaw converts reading comprehension into a social obligation: because each mem
 - [Text-Based Collaborative Learning](../strategies/text-based_collaborative_learning.md) — broader family of discussion-centered reading activities
 - [Text-Based Discussion Protocols](text-based-discussion-protocols.md) — norms that improve the quality of the teaching phase
 - [Implementation prerequisites for jigsaw: teacher preparation, student briefing, target setting, and active observation](jigsaw-implementation-prerequisites-strategy.md)
+- [Use inter-group Jigsaw participation so each group member teaches his topic to other groups and returns to teach his initial group.](jigsaw-inter-group-participation-strategy.md)
 
 ## Examples
 - **The Jigsaw Classroom** ([jigsaw.org](https://www.jigsaw.org)) — Elliot Aronson's original implementation, developed for desegregated classrooms in Austin, TX, using expository text segments on historical figures.

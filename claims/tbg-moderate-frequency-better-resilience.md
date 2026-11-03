@@ -48,3 +48,4 @@ Post-hoc comparison among the three groups in the MANOVA. The article concludes 
 - [Playing the TRADERS board game once a week for three weeks significantly improves resilience among university students compared to not playing](tbg-once-weekly-improves-resilience.md) — possibly the same claim (merge candidate)
 - [Control group resilience decreased over the three-week period, suggesting TBG protects against resilience decline](tbg-protects-against-resilience-decline.md) — related
 - [Frequency of playing TBG did not significantly affect self-esteem improvement over three weeks](tbg-no-significant-self-esteem-effect.md) — related
+- [Teachers used the comparison materials less than once a week on average, well below the requested twice-weekly dosage](low-implementation-fidelity-comparison-materials.md) — related

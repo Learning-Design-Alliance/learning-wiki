@@ -54,3 +54,4 @@ Same ANCOVA quasi-experiment (75 gifted students, 44 male, 31 female per Table 2
 - [The article infers male students performed better than female students using WBI, although its reported gender comparison was not statistically significant](wbi-gender-difference-inference-unsupported.md) — related
 - [Instructional strategy (Enrichment Triad, Self-Directed, or conventional) has a significant effect on gifted students' post-test academic achievement](treatment-effect-gifted-achievement-enrichment-triad-self-directed.md) — related
 - [Gender has a statistically significant but small main effect on algebra achievement favouring male students](gender-small-main-effect-algebra.md) — reports the opposite
+- [Female gifted students slightly outperformed males on creative thinking posttests in both groups, with no group-by-gender interaction](six-hats-gender-difference-females-creative-thinking.md) — related

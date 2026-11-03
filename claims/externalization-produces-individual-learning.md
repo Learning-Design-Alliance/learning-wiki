@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: weak
 newest_evidence: 2008
+source_checked: 2026-11-03
 sources:
   - id: ulrike-cress-joachim-kimmerle-2008
     resource: "https://doi.org/10.1007/s11412-007-9035-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Contributing to a wiki requires deeper processing and clarification, so contributors often deepen their knowledge and clarify their understanding. [→ Ulrike Cress & Joachim Kimmerle 2008](#ulrike-cress-joachim-kimmerle-2008)

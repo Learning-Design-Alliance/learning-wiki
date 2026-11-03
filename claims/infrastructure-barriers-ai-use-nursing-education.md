@@ -63,3 +63,5 @@ Interview finding from the concerns subcategory; participants noted that "connec
 - [Students reported technical difficulties with Edmodo more than financial ones, with the small mobile screen and slow internet the top challenges](edmodo-technical-and-financial-challenges.md) — related
 - [Internet and computer access problems limited participation in the online argumentation implementation](internet-access-limits-online-argumentation.md) — a narrower finding that bears on this claim
 - [Students reported that internet connection instability and limited time were barriers to creating online comics](internet-and-time-barriers-online-comics.md) — related
+- [89% of teachers believe digital materials should be visible, open and free on the Internet, and 77.6% believe public administration should create and publish more online materials.](escuela2-digital-materials-open-free.md) — related
+- [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — related

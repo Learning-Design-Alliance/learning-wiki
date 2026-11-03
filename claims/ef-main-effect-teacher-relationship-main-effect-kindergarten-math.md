@@ -78,3 +78,4 @@ Model 1 main effect of teacher-rated relationship quality (STRS composite of clo
 - [The interaction of cortisol and alpha amylase at 48 months is unrelated to math and reading ability at prekindergarten and to growth](cortisol-amylase-interaction-unrelated-academic.md) — related
 - [Inference-based instruction and teacher–student conflict were more strongly associated with math achievement and growth for children with low early math skills (a three-way interaction in observational data)](inference-conflict-skill-three-way-interaction.md) — related
 - [EF abilities strongly predict pre-academic abilities in preschoolers](efs-predict-preacademic-abilities-preschool.md) — a broader claim this one bears on
+- [Young children’s EF skills show a robust positive relationship with academic outcomes in preschool through third grade](ef-correlates-academic-outcomes-preschool-third-grade.md) — a broader claim this one bears on

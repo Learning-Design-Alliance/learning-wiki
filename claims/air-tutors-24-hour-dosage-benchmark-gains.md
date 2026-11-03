@@ -75,3 +75,4 @@ In the same 24-hour dosage analysis of benchmark growth, the program's estimated
 - [Program dosage was low for many participants: nearly half of Talent Search participants received 10 or fewer hours of services a year](talent-search-low-dosage-half-participants.md) — related
 - [Participation in paired online laboratory formative assessments is associated with higher summative attainment](formative-lab-participation-higher-summative-attainment.md) — related
 - [Tutoring dosage showed no significant relationship with reading achievement in the full-year implementation](air-reading-dosage-not-significantly-related-to-achievement.md) — related
+- [Digital providers charged more per hour and delivered fewer hours than nondigital providers](digital-providers-higher-cost-fewer-hours.md) — related

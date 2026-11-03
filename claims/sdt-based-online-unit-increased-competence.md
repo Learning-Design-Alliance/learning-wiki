@@ -48,3 +48,4 @@ Wilcoxon signed-rank test on BPNSFS composite scores for 50 online Algebra 2 stu
 - [No significant quantitative change in autonomy after the SDT-based online unit](sdt-based-online-unit-autonomy-not-significant.md) — related
 - [SDT-based online unit significantly increased relatedness in online Algebra 2 students](sdt-based-online-unit-increased-relatedness.md) — related
 - [Motivational pedagogical agents did not significantly improve posttest scores or error rates in an adaptive algebra system after controlling for pretest](motivational-pa-null-conceptual-gains.md) — related
+- [Students in the gamified course reported significantly higher statistical competency after the gamified activities](gamification-increased-statistical-competency.md) — related

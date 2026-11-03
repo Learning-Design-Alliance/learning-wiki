@@ -50,3 +50,4 @@ Teaching-program moderator analysis within the meta-analysis; the article report
 - [Inquiry-driven teaching yields the largest creativity effect among teaching methods, followed by design-based and project-based teaching](robotics-creativity-teaching-method-moderator.md) — related
 - [Laboratory environments produce a larger creativity effect than ordinary classrooms in robotics education](robotics-creativity-laboratory-vs-classroom.md) — related
 - [Gamified educational robots increase creativity in a STEM curriculum](gamified-robots-increase-stem-creativity.md) — a narrower finding that bears on this claim
+- [All 23 experimental group students demonstrated the desire and ability to realize innovative approaches](experimental-group-innovative-approaches.md) — related

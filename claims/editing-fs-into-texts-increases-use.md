@@ -48,3 +48,4 @@ Quasi-experimental comparison of four treatment classes (n = 115) against a cont
 - [The control group showed no significant change in target FS use between midterm and final](control-group-no-significant-fs-gain.md) — related
 - [Before the editing stage, treatment and control groups did not differ significantly in target FS use](no-pretest-difference-treatment-control.md) — related
 - [The treatment-group gain persists when the familiar item for example is excluded from the analysis](fs-gain-persists-excluding-for-example.md) — a narrower finding that bears on this claim
+- [Explicit FS instruction increased learners' spontaneous use of taught FSs in writing, with 60% of taught FSs appearing in participants' writing.](explicit-fs-instruction-increases-spontaneous-fs-use.md) — related

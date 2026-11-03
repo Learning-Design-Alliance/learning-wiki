@@ -48,3 +48,4 @@ Quasi-experiment with two intact classes of 51 students each; ANCOVA controlling
 - [Prior research on graphic organizers shows generally positive but not unanimous effects on vocabulary learning](go-prior-research-mixed-positive.md) — a broader claim this one bears on
 - [Teaching ninth-grade English reading texts with electronic mind maps (IMindMap) produced significantly higher reading comprehension posttest scores than the traditional method](emindmap-improves-reading-comprehension-jordan-grade9.md) — related
 - [Graphic organizer strategy produced greater incremental growth in vocabulary building over time than traditional instruction](go-strategy-incremental-vocabulary-growth.md) — related
+- [Graphic novel instruction significantly improved EFL students' vocabulary learning compared to plain text instruction](graphic-novels-improve-vocabulary-learning.md) — related

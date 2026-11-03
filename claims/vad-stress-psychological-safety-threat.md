@@ -87,3 +87,4 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [Higher social presence tends to align with improved learning outcomes and team performance, but can distract or increase social pressure in large-scale multi-user settings](social-presence-learning-outcomes-mixed.md) — related
 - [Writing under time limitation and negative evaluation were the most salient sources of writing anxiety for control-group students](time-limit-evaluation-writing-anxiety-sources.md) — related
 - [Student teachers viewed delayed video-based feedback favorably, citing reduced anxiety and comfort, but noted technical and observational limitations](social-validity-delayed-video-feedback.md) — related
+- [Group risk-sharing removes personal humiliation and eases writing anxiety](group-credit-reduces-humiliation-anxiety.md) — related

@@ -61,9 +61,11 @@ Explicit strategy instruction works because it converts tacit expert processes i
 5. **Extend to independent writing.** Provide sustained writing practice across purposes and genres, with feedback on both strategy use and text quality.
 
 ## Related Strategies
+
 - [Explicit Teaching](../patterns/direct-instruction.md) — the general instructional pattern this strategy instantiates for the writing domain
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the modeling–coaching–fading sequence underlying strategy demonstration
 - [4CID Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — provides the systematic task sequencing that makes instruction cumulative rather than episodic
+- [Sequence summarizing instruction from explicit macrorule modelling on short texts to independent summarizing of curriculum texts](macrorule-training-sequence-strategy.md)
 
 ## Examples
 - **Self-Regulated Strategy Development (SRSD)** — Graham and Harris's extensively validated framework (e.g., the POW + TREE strategy for persuasive writing), in which students learn a planning strategy alongside self-regulation procedures; see [SRSD Online](https://srsdonline.org).

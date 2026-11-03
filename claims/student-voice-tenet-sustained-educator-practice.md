@@ -56,3 +56,4 @@ Thematic coding of spring 2023 interviews and focus groups across the four pilot
 - [State community engagement requirements such as public hearings can often be satisfied without obtaining meaningful community input, and collecting feedback differs from proactively assessing community needs](engagement-requirements-without-meaningful-input.md) — related
 - [In Pilot District 4, student-led Small Writing Groups showed growing attendance and increased writing confidence among participating students, per Core Team reflections](small-writing-groups-attendance-confidence-growth.md) — related
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
+- [Reciprocity in SL requires meaningful relationships and hearing the voices of those served](sl-reciprocity-voices-of-served.md) — related

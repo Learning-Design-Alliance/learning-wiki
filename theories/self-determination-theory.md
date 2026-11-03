@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 108 claims (78 for, 27 mixed, 3 against) · 74 studies (25 associational, 16 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 17 of 74 report an effect size · 102 claims rest on one study
+> **Evidence** · 111 claims (80 for, 28 mixed, 3 against) · 76 studies (25 associational, 18 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 19 of 76 report an effect size · 105 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -164,6 +164,9 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Students reported that coaching enhanced their self-determination in five ways, including autonomy, self-awareness, self-esteem, goal effectiveness, and realistic goal setting](../claims/coaching-enhances-self-determination-five-ways.md) [+W]
 - [The authors attribute the motivation decrease to researcher-selected applications limiting autonomy, low technological literacy undermining competence, and weak relatedness](../claims/sdt-explanation-motivation-decrease-digital-workshop.md) [+W] — attached 2026-11-02 from Nurhan Aktaş et al. (2020), which proposed "Self-determination theory as an explanatory account of how digital tool choice affects task participation and motivation".
 - [Experts agreed that literacy motivation and engagement are fostered through offering children choices in reading and writing](../claims/experts-agree-choice-fosters-motivation-engagement.md) [+W]
+- [Autonomy supportive teaching produces greater conceptual knowledge gains than controlling teaching in seventh grade biology](../claims/autonomy-support-boosts-conceptual-knowledge-biology.md) [+W] — attached 2026-11-03 from Hofferber et al. (2014), which proposed "Self-determination theory: autonomy support satisfies the basic need for autonomy and promotes intrinsic motivation and deeper learning"; tests this page's relationship.
+- [Students given topic choice via majority vote report higher intrinsic motivation than students assigned a topic without choice](../claims/majority-vote-choice-raises-intrinsic-motivation-biology.md) [+M] — attached 2026-11-03 from Meyer et al. (2013), which proposed "Self-Determination Theory: autonomy support benefits engagement and intrinsic motivation"; tests this page's relationship.
+- [Students whose vote did not select the winning topic report the same intrinsic motivation as students whose choice was received](../claims/non-received-choice-no-motivation-deficit.md) [~M] — attached 2026-11-03 from Meyer et al. (2013), which proposed "Self-Determination Theory: autonomy support benefits engagement and intrinsic motivation".
 
 ## The evidence by question
 

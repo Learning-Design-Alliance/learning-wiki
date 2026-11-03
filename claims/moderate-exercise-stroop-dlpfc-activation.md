@@ -82,3 +82,4 @@ fNIRS repetition of the young-adult study in older individuals, showing bilatera
 - [Neuroscience shows prefrontal and anterior cingulate areas exert inhibitory control over alternative conceptions during learning](inhibitory-control-alternative-conceptions-prefrontal.md) — related
 - [Age, setting, design, number of conditions, activity type, duration, intensity and test timing showed no significant moderation of acute physical activity effects on academic outcomes](no-significant-moderators-other-than-behavior-change-techniques.md) — related
 - [Children using cycling desks showed improved inhibitory control and selective attention on some tasks](cycling-desks-improve-inhibitory-control-attention.md) — related
+- [Preschoolers' participation in physical activity during the day is associated with better self-regulation and inhibitory control](physical-activity-associated-self-regulation-preschoolers.md) — related

@@ -52,3 +52,4 @@ Four-point Likert questionnaire administered after the treatment; descriptive st
 - [All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies](efl-students-positive-views-explicit-strategy-instruction.md) — related
 - [Approximately 80% of voluntary TPS-group students expressed positive opinions of the strategy, citing improved understanding, participation, confidence and attitude](tps-student-opinions-mostly-positive.md) — related
 - [Students rated their opinions of learning with the CoBl model at the high agreed level (overall mean 4.23)](cobl-student-opinions-high.md) — related
+- [All three teachers expressed positive opinions about the CLE and reciprocal peer teaching treatment](cle-peer-teaching-positive-teacher-opinions.md) — related

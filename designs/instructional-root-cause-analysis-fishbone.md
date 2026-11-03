@@ -43,6 +43,7 @@ Before redesigning the course, the author integrated instructional and root-caus
 ## Related Designs
 
 - [Jonassen's Instructional Design Model for Well-Structured Problems (seven-step sequence)](jonassen-well-structured-ps-model.md)
+- [Savery and Duffy's PBL design principles and Jonassen's ill-structured problem criteria as the framework for course redesign](savery-duffy-jonassen-pbl-framework.md)
 
 ## Examples
 -

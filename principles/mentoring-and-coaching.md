@@ -31,7 +31,7 @@ sources:
 # Mentoring and Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 76 claims (37 for, 32 mixed, 7 against) · 58 studies (16 causal, 13 review, 10 associational, 9 qualitative, 5 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 7 of 58 report an effect size · 72 claims rest on one study
+> **Evidence** · 78 claims (38 for, 33 mixed, 7 against) · 60 studies (16 causal, 14 review, 10 associational, 9 qualitative, 5 quant-synthesis, 4 design, 2 theoretical), `q1`–`q4` · 7 of 60 report an effect size · 74 claims rest on one study
 
 ## Conditional relationship
 
@@ -183,6 +183,8 @@ Observed practice, the coached person's students' achievement, persistence, comp
 - [Coaches reported that pupils engaged well with the variety of coaching sessions and found both one-to-one and small group work beneficial](../claims/perry-beeches-coaching-pupil-engagement-sessions.md) [~W]
 - [Teachers and parents reported high satisfaction with First Step, and coach-teacher alliance was high, supporting social acceptability](../claims/first-step-satisfaction-alliance-asd-subsample.md) [~W]
 - [Manual group participants reached levels similar to the hands-on group after receiving hands-on supervision](../claims/manual-group-catches-up-with-hands-on-supervision.md) [+W]
+- [SL placement duration and mentor preparation moderate the effectiveness of SL experiences](../claims/sl-duration-and-mentor-moderators.md) [~W]
+- [A truncated three-month pilot of the Cities Mentor Project with 17 intervention and 18 control youth indicates the intervention is feasible, usable, and appreciated by participants.](../claims/cities-mentor-pilot-feasible-usable.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — coaching often operates through contingent support and gradual release.

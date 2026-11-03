@@ -13,7 +13,7 @@ generated:
 # Hands-on Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 22 claims (17 for, 5 mixed) · 18 studies (8 causal, 3 quant-synthesis, 3 review, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 18 report an effect size · 22 claims rest on one study
+> **Evidence** · 23 claims (18 for, 5 mixed) · 19 studies (9 causal, 3 quant-synthesis, 3 review, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 19 report an effect size · 23 claims rest on one study
 
 ## Description
 Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice. It is useful when understanding depends on doing, making, testing, or experiencing rather than only discussing.
@@ -61,6 +61,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [All students in the experimental group succeeded in building the 3D inguinal canal model under teacher supervision in less than 15 minutes](../claims/inguinal-model-built-under-15-minutes.md) [+W] — attached 2026-11-01 from Ansaloni L et al. (2014), which proposed "Low-cost three-dimensional inguinal canal model built by students from hospital materials".
 - [The model-building group produced far fewer total test mistakes than the lecture group in the first interim block](../claims/inguinal-model-total-mistakes-reduced.md) [+W]
 - [The teaching-skill advantage of hands-on supervision was maintained at two-month follow-up](../claims/hands-on-supervision-gains-maintained-follow-up.md) [+W]
+- [Active learning based science camp activities improved students' psychomotor skills towards scientific views on environmental issues](../claims/science-camp-improved-psychomotor-skills.md) [+W]
 
 ## The evidence by question
 - *Does a concrete stage help at all over abstract symbols alone?* [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]

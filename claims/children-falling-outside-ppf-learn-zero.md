@@ -51,3 +51,4 @@ Mechanism reported for the unmitigated one-third-loss scenario in the PPF simula
 - [Remediation combined with long-term reorientation of instruction to children's learning levels fully mitigates the shock and surpasses the no-shock counterfactual by more than a year of learning](remediation-plus-reorientation-surpasses-counterfactual.md) — related
 - [The unmitigated shock reduces the share of the grade 3 cohort reaching SDG minimum proficiency in mathematics by grade 10 from 7 percent to 3 percent](shock-reduces-sdg-minimum-proficiency-7-to-3-percent.md) — related
 - [Short-term remediation covering missed grade 3 material in grade 4 halves the long-term loss, but leaves the cohort 0.55 years behind the no-shock counterfactual](short-term-remediation-halves-long-term-loss.md) — related
+- [Over a third of learning-outcome studies show a mismatch between task difficulty and learner proficiency](over-third-studies-task-proficiency-mismatch.md) — related

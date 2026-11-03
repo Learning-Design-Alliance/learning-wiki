@@ -68474,5 +68474,517 @@
  "test-format\trecognition test\tproduction test": {
   "label": "recognition vs production test",
   "treatment_is_a": true
+ },
+ "active-learning\t15 weeks of weekly Open Discussion Sessions\tpre-intervention speaking performance": {
+  "label": "Open Discussion Sessions vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\t15-week Open Discussion Sessions\tpre-intervention speaking test": {
+  "label": "Open Discussion Sessions vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\t15-week weekly Open Discussion Sessions\tpre-test baseline before the sessions": {
+  "label": "Open Discussion Sessions vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tHumanistic, pupil-involving teaching\tAuthoritarian, teacher-dominant teaching": {
+  "label": "Humanistic, pupil-involving teaching vs authoritarian, teacher-dominant teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tNumbered Heads Together (NHT)\tconventional learning": {
+  "label": "Numbered Heads Together vs conventional learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tNumbered Heads Together (NHT) cooperative learning\tconventional learning": {
+  "label": "Numbered Heads Together vs conventional learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tNumbered Heads Together (NHT) learning\tconventional learning (PK)": {
+  "label": "Numbered Heads Together vs conventional learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning and integrative Water Module teaching style\tpassive teaching methods": {
+  "label": "Active, integrative Water Module teaching vs passive teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning based science camp activities\tpre-camp baseline": {
+  "label": "Active-learning science camp vs pre-camp baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative writing\tsolitary traditional writing": {
+  "label": "Cooperative writing vs solitary traditional writing",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative writing in heterogeneous groups\tsolitary traditional writing": {
+  "label": "Cooperative writing vs solitary traditional writing",
+  "treatment_is_a": true
+ },
+ "active-learning\tdirected case-based learning\tnon-CBL active learning activities": {
+  "label": "Directed case-based learning vs non-case-based active-learning activities",
+  "treatment_is_a": true
+ },
+ "active-learning\tdirected case-based learning\tnon-CBL mixture of active-learning activities": {
+  "label": "Directed case-based learning vs non-case-based active-learning activities",
+  "treatment_is_a": true
+ },
+ "active-learning\texperiential learning by gathering data and conducting interviews\tdidactic or passive learning": {
+  "label": "Experiential learning through data gathering and interviews vs didactic or passive learning",
+  "treatment_is_a": true
+ },
+ "active-learning\texperiential learning early\tdidactic learning with experiential practice delayed": {
+  "label": "Early experiential learning vs delayed experiential practice",
+  "treatment_is_a": true
+ },
+ "active-learning\texperiential learning early\tpostponed experiential practice": {
+  "label": "Early experiential learning vs delayed experiential practice",
+  "treatment_is_a": true
+ },
+ "active-learning\tfive-day active learning based science camp\tpre-camp baseline": {
+  "label": "Active-learning science camp vs pre-camp baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tfive-day active learning based science camp\tpre-camp measurement": {
+  "label": "Active-learning science camp vs pre-camp baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tfive-day active learning based science camp\tpretest before camp activities": {
+  "label": "Active-learning science camp vs pre-camp baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\thumanistic, creative, pupil-involving lessons\tauthoritarian, teacher-dominated lessons": {
+  "label": "Humanistic, pupil-involving teaching vs authoritarian, teacher-dominant teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tinductive blend including early experiential learning\texclusively experiential learning": {
+  "label": "Inductive blend including early experiential learning vs exclusively experiential learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tjigsaw learning\tlecture-based teaching": {
+  "label": "Jigsaw learning vs lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tmixed collaborative and individual learning\tindividual-only learning": {
+  "label": "Mixed collaborative and individual learning vs individual-only learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-centered community of writers with sharing\ttreating writing attitudes as individual problems to fix": {
+  "label": "Peer-centered community of writers with sharing vs individual-problem framing of writing attitudes",
+  "treatment_is_a": true
+ },
+ "active-learning\tproject based learning technique\tconventional teaching methods": {
+  "label": "Project-based learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\treceptive and expressive oral-language reading activities\tother ELA reading activities": {
+  "label": "Receptive and expressive oral-language reading activities vs other ELA reading activities",
+  "treatment_is_a": true
+ },
+ "active-learning\tsix weeks of jigsaw instruction\tlecture-based teaching": {
+  "label": "Jigsaw learning vs lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tsix weeks of jigsaw learning\tlecture-based teaching": {
+  "label": "Jigsaw learning vs lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "autonomy-support\taction research with teacher choice and collaborative inquiry\ttraditional thesis and top-down change approaches": {
+  "label": "Teacher-choice collaborative inquiry vs traditional top-down change",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy supportive teacher behavior\tcontrolling teacher behavior": {
+  "label": "Autonomy-supportive teacher behavior vs controlling teacher behavior",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy-supportive biology lesson post-test\tautonomy-supportive biology lesson pre-test": {
+  "label": "Post-test vs pre-test",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy-supportive teacher behavior\tcontrolling teacher behavior": {
+  "label": "Autonomy-supportive teacher behavior vs controlling teacher behavior",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoice received\tchoice not received": {
+  "label": "Choice received vs choice not received",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tcontrolling biology lesson post-test\tcontrolling biology lesson pre-test": {
+  "label": "Post-test vs pre-test",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tmajority vote to select the biology topic\tsame topic assigned without a vote": {
+  "label": "Majority-vote topic selection vs assigned topic",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tmajority vote to select the biology topic\tsame topic assigned without choice": {
+  "label": "Majority-vote topic selection vs assigned topic",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tvoted for the topic but did not receive the preferred topic\tvoted for and received the preferred topic": {
+  "label": "Preferred choice received vs preferred choice not received",
+  "treatment_is_a": false
+ },
+ "case-comparison\tsupplemental comparison curriculum\tbusiness-as-usual classroom practice": {
+  "label": "supplemental curriculum vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "case-comparison\tsupplemental comparison curriculum\tbusiness-as-usual classroom practices": {
+  "label": "supplemental curriculum vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "case-comparison\tsupplemental comparison curriculum\tbusiness-as-usual instruction": {
+  "label": "supplemental curriculum vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10-minute Direct Instruction intervention\tregular non-DI music instruction": {
+  "label": "Direct instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10-minute Direct Instruction intervention\tregular non-Direct Instruction program": {
+  "label": "Direct instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10-minute scripted Direct Instruction intervention\tregular music-literacy program without the DI intervention": {
+  "label": "Direct instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t5-month summarizing intervention\tmandatory curriculum": {
+  "label": "Summarizing instruction vs mandatory curriculum",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t5-month teacher-led summarizing training\tmandatory curriculum without summarizing training": {
+  "label": "Summarizing instruction vs mandatory curriculum",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit consonant-cluster instruction\timplicit consonant-cluster instruction": {
+  "label": "Explicit instruction vs implicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit consonant-cluster instruction\tno pronunciation instruction": {
+  "label": "Explicit pronunciation instruction vs no pronunciation instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction\tcontrol group with no pronunciation instruction": {
+  "label": "Explicit pronunciation instruction vs no pronunciation instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction followed by classroom practice and after-class reinforcement\twriting before instruction": {
+  "label": "Explicit instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction with explanations, examples, and corrective feedback\timplicit instruction with exposure and corrective feedback": {
+  "label": "Explicit instruction vs implicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction with explanations, examples, and corrective feedback\tno pronunciation instruction": {
+  "label": "Explicit pronunciation instruction vs no pronunciation instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction with explanations, examples, practice, and correction\timplicit instruction with exposure, practice, and correction": {
+  "label": "Explicit instruction vs implicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction with explanations, examples, practice, and correction\tno pronunciation instruction": {
+  "label": "Explicit pronunciation instruction vs no pronunciation instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction with in-class and homework practice in using 50 formulaic sequences\tpre-instruction writing performance": {
+  "label": "Explicit instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfive weeks of explicit instruction and practice with academic formulaic sequences\tpretest timed summary writing before instruction": {
+  "label": "Explicit instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfive weeks of explicit instruction on 50 academic formulaic sequences\tpre-instruction baseline": {
+  "label": "Explicit instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfive weeks of explicit instruction on 50 academic formulaic sequences\tpretest before instruction": {
+  "label": "Explicit instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfive weeks of explicit instruction on 50 academic formulaic sequences\twriting before instruction": {
+  "label": "Explicit instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfive-week explicit instruction and practice in academic formulaic sequences\tpretest timed summary writing": {
+  "label": "Explicit instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfive-week explicit instruction in 50 academic formulaic sequences\tpretest before instruction": {
+  "label": "Explicit instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\timplicit instruction with exposure and corrective feedback\tno pronunciation instruction": {
+  "label": "Implicit pronunciation instruction vs no pronunciation instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\timplicit instruction with exposure, practice, and correction\tno pronunciation instruction": {
+  "label": "Implicit pronunciation instruction vs no pronunciation instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlesson plans based on C-K theory\tregular lesson plans": {
+  "label": "C-K-theory-based lesson plans vs regular lesson plans",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmultidisciplinary disciplinary lectures\ttraditional project with self-directed research and no formal lectures": {
+  "label": "Multidisciplinary lectures vs self-directed project without formal lectures",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher-led summarizing training\tmandatory curriculum without summarizing training": {
+  "label": "Summarizing instruction vs mandatory curriculum",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteaching that clearly distinguishes main ideas and basic concepts\tteaching that does so only partly or not at all": {
+  "label": "Clear distinction of main ideas and basic concepts vs limited or no distinction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\ttutor intervention with feedback\tpretest before tutor intervention": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdirect correction\tmetalinguistic explanation": {
+  "label": "direct correction vs metalinguistic explanation",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfocused direct correction\tno-correction control group": {
+  "label": "direct correction vs no correction",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfocused direct correction of article errors\tno-correction control": {
+  "label": "direct correction vs no correction",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfocused metalinguistic explanation\tno-correction control group": {
+  "label": "metalinguistic explanation vs no correction",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfocused metalinguistic explanations of article errors\tno-correction control": {
+  "label": "metalinguistic explanation vs no correction",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmetalinguistic explanations targeting English article errors\tno-correction control group": {
+  "label": "metalinguistic explanation vs no correction",
+  "treatment_is_a": true
+ },
+ "feedback-type\toral interactive feedback using elicitation and metalinguistic clues\toral explicit correction": {
+  "label": "elicitation and metalinguistic clues vs explicit correction",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tpeer-assisted mediation with peer feedback\tpretest before treatment": {
+  "label": "formative feedback vs pretesting",
+  "treatment_is_a": true
+ },
+ "formative-assessment\ttutor intervention with tutor feedback\tpretest before treatment": {
+  "label": "formative feedback vs pretesting",
+  "treatment_is_a": true
+ },
+ "gamification\tBusuu and Lifeline in four language courses\tnon-gamified comparison condition, not specified": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tLMS-based Concept Review Bingo and Jeopardy Exam Review\tno gamified activities": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tLMS-based gamified review activities\tpre-gamification assessment": {
+  "label": "gamified vs pre-gamification baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tPBL- and game-based redesigned course\ttraditional computer-based instruction course": {
+  "label": "game-based/PBL vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-driven problem-based curriculum\ttraditional computer-based instruction curriculum": {
+  "label": "game-based/PBL vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-driven problem-based hybrid curriculum\ttraditional computer-based instruction curriculum": {
+  "label": "game-based/PBL vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification-based English education studies\tnot stated": {
+  "label": "gamification-based education vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified activities\tbefore gamification implementation": {
+  "label": "gamified vs pre-gamification baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified learning environments\tnon-gamified or usual learning conditions": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified learning environments and apps\tnon-gamified or usual learning conditions": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified tool Prêt à Négocier\tcontrol group": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tonline gamified review activities\tno gamified activities": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tposttest after gamified activities\tpretest before gamified activities": {
+  "label": "gamified vs pre-gamification baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tthree LMS-based gamified review activities\tno gamified activities": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "gamification\tthree LMS-based gamified review activities\tpre-gamification baseline": {
+  "label": "gamified vs pre-gamification baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tthree gamified online review activities\tno gamified activities": {
+  "label": "gamified vs non-gamified",
+  "treatment_is_a": true
+ },
+ "media-design\tMacbeth graphic novel\ttraditional plain literary text": {
+  "label": "graphic novel vs plain literary text",
+  "treatment_is_a": true
+ },
+ "media-design\tMacbeth graphic novel\ttraditional text-based Macbeth activities": {
+  "label": "graphic novel vs text-based activities",
+  "treatment_is_a": true
+ },
+ "media-design\tgraphic novel Macbeth\tplain-text Macbeth": {
+  "label": "graphic novel vs plain literary text",
+  "treatment_is_a": true
+ },
+ "other\t2009–10 overall suspension rate\t1973 overall suspension rate": {
+  "label": "2009–10 vs 1973",
+  "treatment_is_a": true
+ },
+ "other\t200k pairwise examples\t100k pairwise examples": {
+  "label": "200k pairwise examples vs 100k pairwise examples",
+  "treatment_is_a": true
+ },
+ "other\t2010 black-white graduation-rate gaps at top gap-closer institutions\t2004 black-white graduation-rate gaps at the same institutions": {
+  "label": "2010 vs 2004",
+  "treatment_is_a": true
+ },
+ "other\t2010 cohort\t2004 cohort": {
+  "label": "2010 vs 2004",
+  "treatment_is_a": true
+ },
+ "other\t2010 cohort at top gap-closer institutions\t2004 cohort at the same institutions": {
+  "label": "2010 vs 2004",
+  "treatment_is_a": true
+ },
+ "other\t2010 graduation-rate cohort\t2004 graduation-rate cohort": {
+  "label": "2010 vs 2004",
+  "treatment_is_a": true
+ },
+ "other\t2010 overall six-year graduation rate\t2004 overall six-year graduation rate": {
+  "label": "2010 vs 2004",
+  "treatment_is_a": true
+ },
+ "other\t2010 publication period\t1983 publication period": {
+  "label": "2010 vs 1983",
+  "treatment_is_a": true
+ },
+ "other\t2010 six-year graduation rate\t2004 six-year graduation rate": {
+  "label": "2010 vs 2004",
+  "treatment_is_a": true
+ },
+ "other\t2010–2011 evaluation\t2009–2010 evaluation": {
+  "label": "2010–11 vs 2009–10",
+  "treatment_is_a": true
+ },
+ "other\t2011 editorial processing\t2006 editorial processing": {
+  "label": "2011 vs 2006",
+  "treatment_is_a": true
+ },
+ "other\t2011 journal submission volume\t2006 journal submission volume": {
+  "label": "2011 vs 2006",
+  "treatment_is_a": true
+ },
+ "other\t2011–12 course-record availability\tsubsequent school-year course-record availability": {
+  "label": "2011–12 vs subsequent school years",
+  "treatment_is_a": true
+ },
+ "other\t2012 CPS ninth-grade cohort\t2022 CPS ninth-grade cohort": {
+  "label": "2022 vs 2012",
+  "treatment_is_a": false
+ },
+ "other\t2012 survey wave\t2003 survey wave": {
+  "label": "2012 vs 2003",
+  "treatment_is_a": true
+ },
+ "other\t2012-13 after tightened PLUS credit standards\tbefore tightened PLUS credit standards": {
+  "label": "after tightened PLUS credit standards vs before tightening",
+  "treatment_is_a": true
+ },
+ "other\t2012-13 after tightened PLUS credit standards\tpre-tightening period": {
+  "label": "after tightened PLUS credit standards vs pre-tightening period",
+  "treatment_is_a": true
+ },
+ "other\t2012-13 after tightened PLUS standards\tpre-tightening period": {
+  "label": "after tightened PLUS standards vs pre-tightening period",
+  "treatment_is_a": true
+ },
+ "other\t2013 Kansas MTSS school survey\t2012 Kansas MTSS school survey": {
+  "label": "2013 vs 2012",
+  "treatment_is_a": true
+ },
+ "other\t2013 administration\t2012 administration": {
+  "label": "2013 vs 2012",
+  "treatment_is_a": true
+ },
+ "practice-amount\tcompletion of two simulations\tcompletion of one simulation": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tgreater estimated total time using comparison materials\tless estimated total time using comparison materials": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher dosage of comparison materials\tlower dosage among treatment classrooms": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore total time using comparison materials\tless total time using comparison materials": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tshort service-learning placements of 10–20 hours\tlonger service-learning placements": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": false
+ },
+ "practice-amount\ttwo Virtual Clinical Trials simulations\tone Virtual Clinical Trials simulation": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "scaffolding\tCLE with reciprocal peer teaching and scaffolding\tpre-experiment baseline": {
+  "label": "scaffolding vs pre-experiment baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdirect scaffolding\tindirect scaffolding": {
+  "label": "direct scaffolding vs indirect scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdirect scaffolding for students with high prior reasoning skills\tindirect scaffolding for students with high prior reasoning skills": {
+  "label": "direct scaffolding vs indirect scaffolding",
+  "treatment_is_a": true
+ },
+ "simulation\tVirtual Clinical Trials simulation exposure\tpre-test baseline": {
+  "label": "simulation exposure vs pre-simulation baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tVirtual Clinical Trials simulation exposure\tpre-test before simulation exposure": {
+  "label": "simulation exposure vs pre-simulation baseline",
+  "treatment_is_a": true
+ },
+ "simulation\ttwo Virtual Clinical Trials simulations\tone Virtual Clinical Trials simulation": {
+  "label": "more simulations vs fewer simulations",
+  "treatment_is_a": true
+ },
+ "simulation\ttwo simulations\tone simulation": {
+  "label": "more simulations vs fewer simulations",
+  "treatment_is_a": true
  }
 }

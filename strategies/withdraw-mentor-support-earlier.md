@@ -43,6 +43,7 @@ Based on the finding that unmentored teachers, especially reentry teachers, prog
 
 - [Match teacher education, mentoring, and evaluation to developmental stage: routines and scripts for novices, analytical mentors from the competent and proficient, and stage-appropriate evaluation](stage-matched-teacher-education-policy.md)
 - [State and district leaders should collect information from mentors about how they chose activities and topics, to decide whether variation reflects teacher needs or insufficient mentor resources](investigate-mentor-capacity-behind-topic-variation.md)
+- [Gradually withdraw teacher authority and provide detailed step-by-step guidelines in cooperative writing](gradual-teacher-withdrawal-detailed-guidelines.md)
 
 ## Examples
 -

@@ -49,3 +49,5 @@ Quasi-experimental pre-post survey study of the Keys to Success classroom music 
 - [Interviews after the Keys to Success program reported some PSWB benefits inconsistently, with students reporting they did not understand the program or the survey](keys-to-success-interview-inconsistent-benefits.md) — related
 - [A nine-week cross-age peer mentoring program did not produce statistically significant increases in global school connectedness among rural middle school mentees, though mean scores rose in both groups](camp-nine-week-global-connectedness-non-significant.md) — related
 - [Musical play intervention produced a significantly greater increase in teacher-reported self-regulation than usual music lessons in 6-year-olds](musical-play-intervention-teacher-reported-self-regulation-gains.md) — related
+- [A 10-minute-per-lesson Direct Instruction music literacy program significantly improves Year 7 students' music literacy over one trimester](di-music-literacy-significant-improvement-year7.md) — related
+- [Direct Instruction music literacy program significantly improves Year 7 students' tonal literacy](di-tonal-literacy-significant-improvement.md) — related

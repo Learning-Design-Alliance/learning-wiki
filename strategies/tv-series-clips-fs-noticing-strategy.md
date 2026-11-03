@@ -53,6 +53,8 @@ A classroom strategy in which instructors bring media into lessons and have lear
 - [Teach idioms through interactive, contextualized activities such as role-play and movie clips rather than isolated definitions](teach-idioms-contextualized-interactive-activities.md)
 - [Have learners repeatedly watch authentic English video series, selected for recurring characters and culturally appropriate standard dialogue](repeated-authentic-video-series-viewing.md)
 - [Supplement task-based lessons with explicit noticing, corpus examples, and production practice of formulaic sequences](explicit-fs-noticing-and-production-strategy.md)
+- [Design explicit FS instruction around noticing, retrieving, and generating psychological conditions with in-class presentation, practice, and after-class reinforcement.](noticing-retrieving-generating-fs-instruction-design.md)
+- [Watch, write, and talk about movies as a structured sequence for raising multicultural awareness in teacher education](watch-write-talk-movie-strategy.md)
 
 ## Examples
 -

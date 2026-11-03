@@ -72,6 +72,7 @@ Relationship skills are teachable: meta-analytic evidence shows that sequenced, 
 - [Combine needs-based and pre-taught approaches when introducing social skills to cooperative groups](mixed-approach-teaching-social-skills.md)
 - [Target school-climate improvement within individual schools and communities, using schoolwide behavior systems, social-emotional learning, and compensatory supports](school-climate-improvement-strategies-for-equity.md)
 - [Mitigate reluctance to participate in group activities with clearly defined roles and an icebreaker interaction with the materials](defined-roles-and-nerf-icebreaker-for-group-activities.md)
+- [Build conflict-resolution and communication skills into multidisciplinary team projects](conflict-resolution-modules-multidisciplinary-teams.md)
 
 ## Examples
 - **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — uses daily morning meetings and structured partner activities as the universal Tier 1 context in which teachers observe and coach relationship skills.

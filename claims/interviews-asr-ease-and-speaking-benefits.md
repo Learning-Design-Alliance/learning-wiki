@@ -52,3 +52,4 @@ Semi-structured interviews with the 17 participants were coded for positive, neg
 - [Through Chapelle's CALL evaluation criteria, participants experienced ASR writing as useful, authentic, meaning-focused, and matched to their proficiency level](chapelle-criteria-asr-writing-affordances.md) — related
 - [Twelve semi-structured interviews with university students and lecturers identified twelve knowledge-based design requirements for tutoring GSRs across three knowledge types](twelve-kbd-requirements-gsr-higher-education.md) — related
 - [ESL learners trained in metacognitive strategies hold more positive views of the strategies' effectiveness than untrained peers](trained-esl-learners-positive-views-metacognitive-strategies.md) — related
+- [Trainees found text-to-speech websites user-friendly and useful and expressed intent to use them again](tts-reflections-user-friendly-useful.md) — related

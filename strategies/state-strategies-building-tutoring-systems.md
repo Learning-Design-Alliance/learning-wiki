@@ -44,6 +44,7 @@ The brief enumerates seven state strategies for building intensive tutoring syst
 ## Related Strategies
 
 - [Target tutoring equity by prioritizing underserved students and using culturally reflective curriculum and formative data](equity-focused-tutoring-targeting.md)
+- [State and local agencies should use policy tools to ensure transparency and quality of digital tutoring](policy-tools-digital-tutoring-transparency.md)
 
 ## Examples
 -

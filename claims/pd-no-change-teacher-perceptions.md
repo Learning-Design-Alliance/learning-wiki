@@ -49,3 +49,4 @@ Questionnaire measures of perceptions of effective teachers and attitudes toward
 - [DIA teachers' Rasch teaching-skill scores improved significantly over the year while HA teachers' did not](dia-rasch-skill-gain-significant.md) — related
 - [Attitude toward science and self-belief show no significant change in either condition](no-change-attitude-self-belief.md) — related
 - [After an SDT-driven redesign of a two-day teacher workshop (one cohort of 26, no control group), self-reported AI-TPACK (d = 0.70), IPACK (d = 0.86) and AI attitude (d = 0.58) rose significantly from pre to post](sdt-driven-redesign-capacity-willingness-gains.md) — related
+- [Teacher satisfaction with SBI did not differ significantly between experienced and novice implementer cohorts](sbi-teacher-satisfaction-no-difference.md) — related

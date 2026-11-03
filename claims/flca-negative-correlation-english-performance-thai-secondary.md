@@ -74,3 +74,4 @@ Pearson product-moment correlation within the immersion group (n = 37) comparing
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Test anxiety is the highest FLCA component, followed by communication apprehension and fear of negative evaluation](flca-component-ranking-test-anxiety-highest.md) — related
 - [No correlation found between foreign language classroom anxiety and maths performance](flca-no-correlation-maths-performance.md) — related
+- [Cooperative learning significantly reduces foreign language writing anxiety compared with solitary writing](cooperative-writing-reduces-efl-writing-anxiety.md) — related

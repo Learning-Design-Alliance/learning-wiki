@@ -72,3 +72,4 @@ The review reports, citing Schwartz et al. (2021), that "the percentage of notes
 - [Open inquiry enhances students' scientific and thinking skills, including metacognitive and creative thinking](open-inquiry-scientific-thinking-skills.md) — related
 - [Open inquiry affects students' motivation, though one reviewed study found no significant difference in collaborative attitudes](open-inquiry-student-motivation.md) — related
 - [The scaffolded group gave more argumentation concerning flu treatment and prevention suggestions in the Decision-making Stage](structuring-supports-argumentation-decision-making-stage.md) — a narrower finding that bears on this claim
+- [Active learning based science camp activities improved students' psychomotor skills towards scientific views on environmental issues](science-camp-improved-psychomotor-skills.md) — a narrower finding that bears on this claim

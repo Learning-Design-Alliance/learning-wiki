@@ -95,3 +95,4 @@ Planned pre-to-post gain contrasts in the randomized four-group trial: "Groups C
 - [Online EI workshops combined with mindfulness training significantly predicted peer-assessed EI growth, while neither intervention alone did](online-ei-plus-mindfulness-significant-peer-growth.md) — related
 - [Lower achieving students who wrote weekly reflective diaries during software design achieved overall course scores statistically comparable to higher achieving students who did not.](reflective-diary-comparable-overall-scores.md) — related
 - [Students who commented on daily assessments favored them approximately three-to-one](daily-assessments-favored-three-to-one.md) — related
+- [The Education Management Model group showed a considerable increase in average mathematics score from pre-test to post-test, while lesson study and control groups did not.](emm-pre-post-gain-descriptive.md) — related

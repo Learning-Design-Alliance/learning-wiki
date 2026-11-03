@@ -89,3 +89,4 @@ Independent samples t-test of post-test scores in a pre/post-test controlled exp
 - [CBPSI significantly improved problem solving performance of Grade 10 learners from pre-test to post-test](cbpsi-improves-problem-solving-performance-grade-10.md) — related
 - [Pre-service teachers in PBL groups achieve significantly higher post-test scores than those in lecture-based computer course groups](pbl-higher-achievement-than-lbcc-pre-service-teachers.md) — related
 - [Web-assisted instruction with emotional intelligence content produced higher post-test academic achievement, environmental attitudes and emotional intelligence than traditional lecture in 8th-grade energy-saving instruction](web-assisted-ei-content-posttest-advantage.md) — related
+- [Paired sample t-test confirms significantly higher post-test scores for the experimental group](pbl-paired-t-test-significant.md) — related

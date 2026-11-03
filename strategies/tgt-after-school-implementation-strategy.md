@@ -58,6 +58,7 @@ The article recommends practical adjustments for integrating web-based game play
 - [Teacher professional development and school-leader support for enacting game-based learning](teacher-pd-and-leader-support-game-based.md)
 - [Train in-service teachers to use gamification of web-based learning in English teaching](train-teachers-gamification-web-english.md)
 - [Embed generalisation-querying games across the English curriculum with continuity of approach](continuity-gag-across-curriculum.md)
+- [Train both teachers and students in cooperative learning before implementation, with sufficient time to master interpersonal skills and accountability](train-teachers-and-students-in-cooperative-learning.md)
 
 ## Examples
 -

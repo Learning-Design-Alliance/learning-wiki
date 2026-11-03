@@ -17,7 +17,7 @@ sources:
 # Analyze terminal behavior and objectives before manipulating teaching methods in instructional design
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 27 claims (16 for, 10 mixed, 1 against) · 27 studies (15 causal, 8 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 3 of 27 report an effect size · 27 claims rest on one study
+> **Evidence** · 28 claims (17 for, 10 mixed, 1 against) · 28 studies (16 causal, 8 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 3 of 28 report an effect size · 28 claims rest on one study
 
 ## Description
 Glaser's design orientation sets a task sequence: specify the terminal performance standard, determine student entry characteristics and prerequisites, construct procedures and materials to move the learner from one state to the other with provisions for motivation, and assess achieved competence against criteria. He argues analysis of behavior has been neglected yet has been the most influential element in recent instructional improvements, more so than manipulations of teaching method.
@@ -66,6 +66,7 @@ Glaser's design orientation sets a task sequence: specify the terminal performan
 - [The three groups did not differ significantly in vocabulary knowledge at pretest, supporting group homogeneity](../claims/pretest-homogeneity-three-vocabulary-groups.md) [~W]
 - [At baseline only about a third of first-year students showed a high level of adaptability, with technical and mathematical disciplines most problematic](../claims/baseline-only-third-first-years-high-adaptability.md) [+W]
 - [Pre-test analysis showed participants across all four groups had inadequate knowledge of English classified ads rules, writing simple sentences instead of omitting articles, conjunctions, prepositions, verbs, and pronouns.](../claims/pretest-inadequate-classified-ads-rules.md) [+W]
+- [Prior knowledge measures were strong predictors of both algebra outcomes](../claims/prior-knowledge-strong-predictor-algebra-outcomes.md) [+W]
 
 ## Related Principles
 - 

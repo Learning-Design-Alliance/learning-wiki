@@ -49,3 +49,4 @@ Finding from focus groups with Spanish-speaking parents, who described pre-remot
 - [Virtual and in-person parent-to-parent forums deepened caregivers' sense of community and support](parent-to-parent-forums-community-support.md) — related
 - [Learners use apps mostly for vocabulary development, translation, and grammar practice, often informally and in short sessions](learners-use-apps-vocabulary-translation-grammar-informally.md) — related
 - [Nearly all attendance-related text-messaging events were targeted to specific students or subgroups, and nearly a third were sent in a language other than English, mostly Spanish](targeted-attendance-texts-and-translation-use.md) — related
+- [Principal's shift to giving public addresses in Spanish indexed a radical shift in stance toward Latino parents](principal-language-shift-latino-parents.md) — related

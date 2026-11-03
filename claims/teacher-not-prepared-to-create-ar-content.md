@@ -46,3 +46,4 @@ Open in-depth interview with the classroom teacher about incentives, integration
 
 ## Related Claims
 - [Only 20 percent of U.S. teachers felt well prepared to integrate educational technology into classroom instruction (1998)](only-20-percent-teachers-prepared-integrate-technology.md) — related
+- [89% of teachers believe digital materials should be visible, open and free on the Internet, and 77.6% believe public administration should create and publish more online materials.](escuela2-digital-materials-open-free.md) — related

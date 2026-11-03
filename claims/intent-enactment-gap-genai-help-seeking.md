@@ -81,3 +81,4 @@ Same correlational intent-enactment analysis, reporting null associations for le
 - [Adolescent digital self-regulation is enacted through a typology of four strategy types differing in executive effort versus external scaffolding](adolescent-digital-self-regulation-strategy-typology.md) — related
 - [Goal orientation affects children's help-seeking behaviour in Ecolab II](goal-orientation-affects-help-seeking-ecolab-ii.md) — related
 - [After-school moderated chat sessions enable scaffolded problem-solving discussion beyond classroom hours](after-school-chat-sessions-scaffold-problem-solving.md) — related
+- [The intervention increases students' intention to choose complex tasks and shifts goal orientation toward learning goals](intervention-increases-complex-task-intention-and-learning-goals.md) — related

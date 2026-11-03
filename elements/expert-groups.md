@@ -13,7 +13,7 @@ generated:
 # Expert Groups
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 13 studies (4 causal, 4 quant-synthesis, 3 review, 1 associational, 1 qualitative), `q1`–`q4` · 1 of 13 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 14 studies (4 causal, 4 quant-synthesis, 3 review, 2 qualitative, 1 associational), `q1`–`q4` · 1 of 14 report an effect size · 3 claims rest on one study
 
 ## Description
 Expert groups are a cooperative structure in which learners first work in same-topic groups to master one segment of a topic, then return to heterogeneous groups to teach their segment to peers. Each learner becomes the sole source of a piece of knowledge, making the group's success depend on every member's contribution. The structure is the core mechanism of the Jigsaw classroom and related collaborative inquiry formats.
@@ -54,6 +54,7 @@ Expert groups promote deep processing because preparing to teach forces learners
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Before this review, available evidence for jigsaw effectiveness was scant and mixed, with neither meta-analysis nor systematic review](../claims/jigsaw-evidence-previously-scant-and-mixed-no-meta-analysis.md) [~W]
 - [Experimental group students valued expert roles and group knowledge exchange but reported boredom, lack of time and uneven member preparation](../claims/jigsaw-group-opinions-expert-roles-and-drawbacks.md) [~W]
+- [Students in jigsaw learning groups report that teaching others helps them learn more and retain knowledge longer.](../claims/teaching-others-enhances-learning-retention-jigsaw.md) [+W]
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the general element expert groups formalize with role-based expertise
@@ -68,9 +69,11 @@ Expert groups promote deep processing because preparing to teach forces learners
 - [Collaborative Learning](../patterns/collaborative-learning.md) — expert groups as a structured variant with assigned expertise roles
 
 ## Examples
+
 - **[Jigsaw Classroom](../strategies/jigsaw-classroom.md)** (https://www.jigsaw.org) — Elliot Aronson's original structure: material split into segments, expert groups master one segment, then teach their home group
 - **Reciprocal jigsaw in STEM courses** — students each master one problem-solving strategy in expert groups, then teach it to base groups before tackling integrated problems
 - **Fiorella & Mayer's learning-by-teaching studies** — students who studied material expecting to teach it, then actually taught, outperformed students who studied only for a test
+- [Use inter-group Jigsaw participation so each group member teaches his topic to other groups and returns to teach his initial group.](../strategies/jigsaw-inter-group-participation-strategy.md)
 
 ## Key Sources
 - Aronson, E., Stephan, C., Sikes, J., Blaney, N., & Snapp, M. (1978). *The jigsaw classroom*. Sage.

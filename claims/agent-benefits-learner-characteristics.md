@@ -50,3 +50,4 @@ The review reports, citing Kim and Lim (2013), that middle-grade females and eth
 ## Related Claims
 - [Learners perceived male PALs more positively and recalled more with them than with female PALs, reflecting gender stereotypes](male-pal-favored-over-female-pal.md) — related
 - [PALs expressing positive mood were perceived as more facilitating, engaging, and intelligent than negative-mood PALs](positive-mood-pal-better-perceived.md) — related
+- [Simulations benefited students regardless of gender or ethnicity, though females were more satisfied and minorities more engaged](vct-benefits-across-gender-ethnicity.md) — related

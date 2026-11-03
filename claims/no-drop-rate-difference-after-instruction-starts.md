@@ -54,3 +54,4 @@ Secondary analysis regrouping the two-year drop data: online drops before course
 - Attrition did not differ significantly between cognitive apprenticeship and control sections, and withdrawing students did not cite the instructional method — related
 - Course modality moderated student experience: instructor responsiveness was more prevalent in face-to-face classes and online students reported more frustration — related
 - [Disappearing students complicated maintaining constructivist groups in the online course](disappearing-students-online-group-work.md) — related
+- [The redesigned course showed a non-significant 8.55% improvement in retention (drop/fail/withdraw) compared with the existing course.](pbl-altrg-redesign-retention-nonsignificant.md) — related

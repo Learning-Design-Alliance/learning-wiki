@@ -13,7 +13,7 @@ generated:
 # Scaffolded Inquiry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 20 studies (9 causal, 5 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 20 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (6 for, 4 mixed, 1 against) · 21 studies (10 causal, 5 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 5 of 21 report an effect size · 6 claims rest on one study
 
 ## Description
 Scaffolded inquiry sequences learning tasks so that learners begin with heavily structured investigation — embedded prompts, worked models, and instructor-framed questions — and progressively take over the questioning, reasoning, and design decisions themselves. The instructor's role shifts from directing the inquiry to coaching and eventually observing as learners independently formulate questions, gather evidence, and draw conclusions.
@@ -58,6 +58,7 @@ Scaffolded inquiry resolves the central tension of inquiry learning: open explor
 - [Learner-leading BtBC is larger under scaffolding; instructor-leading BtBC shows only a trending effect, and instructor-leading BtBC fails to predict learning under explanation](../claims/directional-btbc-exploratory-findings.md) [~W]
 - [Scaffolded and unscaffolded groups showed few differences in knowledge of flu symptoms, home resources and self-care medicines during the Inquiry Stage](../claims/few-group-differences-inquiry-stage-knowledge.md) [~W]
 - [Across all three inquiry levels, the experimental group's critical and creative thinking gains exceeded the control group's gains](../claims/three-level-inquiry-worksheets-overall-effectiveness.md) [+W] — attached 2026-11-01 from Muskita et al. (2020), which proposed "Three-level inquiry-based biology worksheets (structured, guided, open) for plant morphology, ecology, and physiology".
+- [Direct scaffolding improves scientific inquiry performance more than indirect scaffolding, especially for students with high prior reasoning skills](../claims/direct-scaffolding-outperforms-indirect-inquiry.md) [~W] — attached 2026-11-03 from Wu et al. (2016), which proposed "Web-based scientific inquiry program with direct and indirect scaffolding".
 
 ## The evidence by question
 - *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]

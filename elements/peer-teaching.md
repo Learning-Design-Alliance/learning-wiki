@@ -13,7 +13,7 @@ generated:
 # Peer Teaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (9 for, 5 mixed) · 13 studies (8 causal, 2 quant-synthesis, 2 associational, 1 review), `q1`–`q4` · 1 of 13 report an effect size · 13 claims rest on one study
+> **Evidence** · 15 claims (10 for, 5 mixed) · 14 studies (8 causal, 2 quant-synthesis, 2 associational, 1 review, 1 qualitative), `q1`–`q4` · 1 of 14 report an effect size · 14 claims rest on one study
 
 ## Description
 Peer teaching places learners in the role of instructor: they explain, question, and elaborate material for classmates, then receive questions that probe their understanding. Preparing to teach and teaching itself force learners to reorganize knowledge, fill gaps, and articulate reasoning — a form of generative processing that benefits the teacher as much as the taught.
@@ -66,6 +66,7 @@ Peer teaching works because explaining to another person demands deeper processi
 - [Mutual learning approach outperforms conventional instruction in academic achievement among B.Ed Optional II English students](../claims/mutual-learning-outperforms-conventional-b-ed-english.md) [+W] — attached 2026-11-02 from Arulselvi (2013), which proposed "Mutual learning approach (learning by teaching) as an instructional method"; tests this page's relationship.
 - [Being the peer teacher showed a slight, non-significant trend toward higher test scores on the content the student prepared and presented](../claims/peer-teacher-slight-nonsignificant-score-advantage.md) [~W]
 - [Peer tutoring interventions are effective for students with EBD, and those with EBD benefit most among students with disabilities](../claims/peer-tutoring-effective-ebd.md) [~W]
+- [Students in jigsaw learning groups report that teaching others helps them learn more and retain knowledge longer.](../claims/teaching-others-enhances-learning-retention-jigsaw.md) [+W]
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the broader interaction structure peer teaching sits within

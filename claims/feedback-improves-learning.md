@@ -203,3 +203,4 @@ Open questions: how durable feedback effects are over time, how feedback interac
 - [A large meta-analysis found that feedback channel per se is non-significant](feedback-channel-non-significant-moderator.md) — related
 - [A prior meta-analysis cited in the review found feedback interventions worsened performance in 50 of 131 well-designed studies](kluger-denis-feedback-worse-50-of-131.md) — a narrower finding that bears on this claim
 - [Quality of written MSF feedback comments varies widely, with a substantial portion lacking actionable information and global judgements predominating](msf-written-comments-quality-varies-actionability-limited.md) — a narrower finding that bears on this claim
+- [Reduced anxiety redirects attention from task-irrelevant worry to the writing assignment itself](anxiety-reduction-frees-attention-for-writing.md) — related

@@ -48,3 +48,4 @@ Open interview with the school principal and principal assistant after the semes
 ## Related Claims
 - [School administration reported practical difficulties with tablet implementation, including teacher workload, battery life, and off-task device use](tablet-implementation-difficulties-administration.md) — reports the opposite
 - [First-grade students taught with tablet e-textbooks showed significant pre-test to post-test improvement in core curriculum achievement](tablet-etextbook-pre-post-gains-first-grade.md) — related
+- [Students formed positive views and attitudes toward teaching with tablets](students-positive-attitudes-tablets-ar-lessons.md) — related

@@ -56,3 +56,4 @@ Post-test comparison of two intact classes (N=40 each) in a quasi-experimental d
 - [Prospective teachers taught Mathematics with a multimedia package scored significantly higher on the post-test than peers taught with Active Learning Methodology](multimedia-package-higher-posttest-mathematics-prospective-teachers.md) — related
 - [Using the graspable multimedia system GraspLearn did not improve preschoolers' working memory capacity significantly more than the conventional multimedia system CLearn](grasplearn-no-wmc-gain-over-clearn.md) — related
 - [Secondary students taught chemistry with computer simulations achieved higher mean scores than students taught with lecture method](computer-simulation-beats-lecture-chemistry-achievement.md) — related
+- [Instructional media teaching produced significantly higher comprehension achievement than conventional teaching among teacher training students](instructional-media-higher-comprehension-achievement.md) — related

@@ -53,3 +53,4 @@ Pretest t-test analysis of the two intact grade-7 sections (control N 26, treatm
 - [WebQuest-based instruction improves 7th-grade science achievement more than classical curriculum-based teaching](webquest-improves-science-achievement-grade-7.md) — related
 - [Pretest scores showed the two groups were statistically equivalent before the intervention](pretest-equivalence-objectivist-constructivist-groups.md) — possibly the same claim (merge candidate)
 - [No statistically significant difference in mathematics achievement between objectivist-based and constructivist-based teaching strategies](no-significant-difference-objectivist-constructivist-online-math.md) — related
+- [Prior knowledge does not significantly influence treatment-dependent learning achievement](prior-knowledge-no-treatment-influence.md) — related

@@ -53,3 +53,4 @@ Propensity score matched comparison (252 pairs) on direct assessments: the WJ-II
 - [After propensity score matching, bilingual kindergarteners show greater teacher-rated attentional focus than matched monolinguals, but this effect is not robust to unmeasured confounds](psm-bilingual-advantage-attentional-focus-not-robust.md) — related
 - [After propensity score matching, bilingual kindergarteners show greater teacher-rated inhibitory control than matched monolinguals, and this effect is robust to unmeasured confounds](psm-bilingual-advantage-teacher-rated-inhibitory-control.md) — related
 - [Bilingual effect evidence appears for inhibition and cognitive flexibility but disappears for working memory in children and adolescents](bilingual-effect-inhibition-flexibility-not-working-memory.md) — related
+- [Bilingual children show advantages on EF measures compared to monolingual peers](bilingual-advantage-ef-preschoolers.md) — reports the opposite

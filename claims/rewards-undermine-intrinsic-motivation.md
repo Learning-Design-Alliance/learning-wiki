@@ -235,3 +235,4 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 - [Autonomous or intrinsic motivation is positively associated with academic performance, while controlled or extrinsic motivation shows minimal or negative associations](autonomous-motivation-positive-controlled-motivation-not.md) — related
 - [Back-evaluation of reviews increases reviewer motivation, transparency, and feedback quality](back-evaluation-increases-reviewer-motivation.md) — related
 - [Contingent reinforcement approaches show a large mean effect on FV consumption or preference (Md = 1.34) but rest on only two studies](contingent-reinforcement-fv-md-1-34-two-studies.md) — related
+- [Students given topic choice via majority vote report higher intrinsic motivation than students assigned a topic without choice](majority-vote-choice-raises-intrinsic-motivation-biology.md) — a narrower finding that bears on this claim

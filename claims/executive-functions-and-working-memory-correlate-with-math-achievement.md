@@ -67,3 +67,4 @@ The authors relate this to the load of mathematical problem solving, which requi
 - [Children from college households know more numerals than children from other households, controlling IQ and executive function](parental-education-numeral-recognition-home-numeracy.md) — related
 - [EF abilities strongly predict pre-academic abilities in preschoolers](efs-predict-preacademic-abilities-preschool.md) — a narrower finding that bears on this claim
 - [A recent meta-analysis of 8,760 children from 25 studies found small to medium effect sizes for the association between SES and EF](meta-analysis-ses-ef-effect-sizes.md) — related
+- [Young children’s EF skills show a robust positive relationship with academic outcomes in preschool through third grade](ef-correlates-academic-outcomes-preschool-third-grade.md) — a broader claim this one bears on

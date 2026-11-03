@@ -44,6 +44,7 @@ The brief recommends lessons in which students read, write, listen, and speak to
 
 - [Language Experience Approach](language_experience_approach.md)
 - [Use dictogloss tasks in listening lessons to raise motivation and integrate all four language skills](dictogloss-for-motivation-and-skills-integration.md)
+- [Future gamification research should target the four English language skills individually and collectively.](gamification-elt-four-skills-research-strategy.md)
 
 ## Examples
 -

@@ -75,3 +75,4 @@ Correlational study (Kohen-Raz & Masalha, 1988) showing suppression of synkineti
 - [Sidis's laboratory experiments found the condition of sleep similar to the condition produced by suggestion, both normal and abnormal](sidis-sleep-similar-to-suggestion-condition.md) — related
 - [Arnold's studies found obstructed breathing decreased pupils' efficiency on memory, copying, arithmetic and cross-marking tasks, while defective vision played no part in retardation](arnold-causes-of-retardation.md) — related
 - [Qualitative teacher data showed enthusiasm and covert finger use among younger and lower-functioning students, but resistance among grade 5 students who calculated as quickly in their heads](chisanbop-qualitative-teacher-accounts.md) — related
+- [Micro:bit calculator tasks help students recognize when computing by machine or by hand is more efficient](microbit-calculator-efficiency-recognition.md) — related

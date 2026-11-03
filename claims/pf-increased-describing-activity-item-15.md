@@ -48,3 +48,4 @@ Item-level analysis of TSOF Item 15 ("Clearly describes what the activity is") a
 - [Performance feedback increased the number of student teachers arranging student desks to support teaching (Item 12)](pf-increased-desk-arrangement-item-12.md) — related
 - [Performance feedback increased wait time after questions (Item 33) and provision of symbol clues/choices (Item 34) under communicational skills](pf-increased-communication-items-33-34.md) — related
 - [Performance feedback increased adherence to the predetermined teaching method (Item 19) and checking on other students during one-to-one teaching (Item 21)](pf-increased-teaching-process-items-19-21.md) — related
+- [Only a quarter of observed subject teachers clearly distinguished the main ideas and basic concepts during lessons](quarter-teachers-clearly-distinguished-main-ideas.md) — related

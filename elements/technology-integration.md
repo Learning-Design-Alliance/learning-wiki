@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 188 claims (93 for, 80 mixed, 15 against) · 158 studies (40 causal, 28 review, 25 associational, 24 qualitative, 22 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 31 of 158 report an effect size · 185 claims rest on one study
+> **Evidence** · 192 claims (95 for, 81 mixed, 16 against) · 159 studies (40 causal, 28 review, 26 associational, 24 qualitative, 22 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 31 of 159 report an effect size · 189 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -213,6 +213,10 @@ Technology integration is the element in which digital tools are used in direct 
 - [Supportive coaching had no direct impact on technology integration strategies due to standardized testing](../claims/coaching-no-direct-impact-tech-integration.md) [-W]
 - [Self-handicapping thoughts were the largest inhibitor of science teachers' ICT use, explaining about 38.2% of lack of utilization](../claims/self-handicapping-largest-ict-inhibitor.md) [~W]
 - [Online-based writing instruction produces equivalent overall essay performance gains compared to classroom-based instruction for ESL students](../claims/online-lms-writing-instruction-equivalent-gains.md) [~W]
+- [Material resources in schools are a necessary but non-sufficient condition for effective ICT integration; an active and dynamic methodological approach must also be implemented.](../claims/escuela2-material-resources-insufficient.md) [+W]
+- [Teachers are more likely to integrate technology into their teaching when they perceive professional development activities to be aligned with school content and relevant to their teaching.](../claims/escuela2-teacher-training-alignment-integration.md) [+W]
+- [Students show deficiencies in improving school performance, group work, problem solving and communication in learning activities with ICT, despite positive attitudes toward technology.](../claims/escuela2-students-deficiencies-higher-order.md) [-W]
+- [In the Escuela 2.0 program in Castilla-La Mancha, only about one third of teachers integrate ICT into classroom practice with active methodologies, while two thirds use technology in isolated activities or retain traditional pedagogical models.](../claims/escuela2-teacher-ict-integration-third-active.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

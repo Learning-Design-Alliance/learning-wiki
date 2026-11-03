@@ -46,6 +46,7 @@ Because the decision-tree analysis showed that coordination actions discriminate
 - [Adaptive Learning](adaptive-learning.md)
 - [Use discussion analytics to alert instructors about students who may need more assistance](instructor-alerts-from-discussion-analytics.md)
 - [Pedagogical nudges triggered by WBA analytics to encourage engagement](wba-analytics-pedagogical-nudges.md)
+- [Switch social planes adaptively based on student characteristics such as repeated errors](adaptive-switch-points-based-on-student-characteristics.md)
 
 ## Examples
 -

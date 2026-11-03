@@ -58,3 +58,4 @@ Review synthesis of EF intervention studies and meta-analyses (e.g. Melby-Lervå
 - [Integrated intervention changes the network structure of EF-mathematics relations, increasing interconnectedness relative to control](network-interconnectedness-ef-math-increases-post-intervention.md) — related
 - [Training executive function shows mixed effects: near transfer in children without far transfer, near and far transfer in adults, and no causal evidence that EF training improves academic achievement](ef-training-mixed-transfer-and-achievement.md) — related
 - [Computer-based metacognitive scaffolding shows limited evidence of long-term retention or transfer of the scaffolded skills](limited-evidence-long-term-metacognitive-retention.md) — related
+- [Young children’s EF skills show a robust positive relationship with academic outcomes in preschool through third grade](ef-correlates-academic-outcomes-preschool-third-grade.md) — related

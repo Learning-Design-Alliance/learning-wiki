@@ -69,3 +69,4 @@ Third macro-transformation reported in Section 4.3, drawing on distributed cogni
 - [Learners using a GenAI system issued prompts that offloaded tasks that may have been important for them to perform themselves, such as differentiating concepts and deciding what to learn](genai-prompt-offloading-learning-tasks.md) — related
 - [AIED's Open Learner Models tradition has, since the early 1990s, developed and evaluated designs giving users agency and control over system data, pre-figuring Russell's human-centred AI proposals.](olm-user-agency-predates-human-centred-ai-proposals.md) — related
 - [GenAI can most effectively support knowledge building in the Collaboration Zone as a dialogic 'sparring partner'](genai-collaboration-zone-sparring-partner.md) — related
+- [Teacher-researchers shifted epistemic stances from a positivistic perspective to a more grounded framework](action-research-epistemic-shift.md) — related

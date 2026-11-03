@@ -67,3 +67,4 @@ Quasi-experiment in Moroccan public schools with 109 secondary students in three
 - [Patients generally preferred digital asthma monitoring tools, finding them motivating and usable at their own pace](digital-asthma-tools-patient-preference.md) — related
 - [Most surveyed EFL students want more control over their listening learning, including pace, material, repetition times and physical/emotional state](efl-students-want-more-listening-control.md) — related
 - [Students reacted positively to PowerPoint-enhanced listening lessons, reporting benefits for comprehension and motivation](positive-student-reactions-powerpoint-listening-lessons.md) — related
+- [E-learning fosters learner autonomy and self-directed learning by enabling students to control pace, time, and content](elearning-fosters-learner-autonomy-self-direction.md) — related

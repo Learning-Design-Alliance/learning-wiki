@@ -52,3 +52,4 @@ Synthesis of eight teacher-led SEL studies (average sample 296.13, the largest o
 - [Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement](paths-csrp-addon-ef-improvement.md) — related
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — a broader claim this one bears on
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a broader claim this one bears on
+- [Curricular interventions including Tools of the Mind and Promoting Alternative Thinking Strategies can improve preschoolers' EF skills](curricular-interventions-improve-preschool-ef.md) — a narrower finding that bears on this claim

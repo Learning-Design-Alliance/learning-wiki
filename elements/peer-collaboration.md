@@ -13,7 +13,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 62 claims (24 for, 35 mixed, 3 against) · 56 studies (16 causal, 10 qualitative, 9 review, 9 associational, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 7 of 56 report an effect size · 60 claims rest on one study
+> **Evidence** · 63 claims (24 for, 35 mixed, 4 against) · 57 studies (17 causal, 10 qualitative, 9 review, 9 associational, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 7 of 57 report an effect size · 61 claims rest on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.
@@ -112,6 +112,7 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [Meta-analysis finds collaboration, computer use, and learning environments/tools/scaffolds each have significantly positive effects on knowledge acquisition in CSCL](../claims/chen-2018-meta-analysis-cscl-positive-effects.md) [+W]
 - [Higher SDL ability is reported when students work in small groups with peers and an educator rather than one-on-one](../claims/small-groups-peers-educator-higher-sdl.md) [+W]
 - [Partners in the model condition collaborated at a marginally higher rate than partners in the draw condition](../claims/model-condition-higher-collaboration-rate.md) [+W]
+- [Group communication problems among students were a paramount challenge in the redesigned course, exacerbated by group size and lack of prior experience.](../claims/group-communication-challenge-pbl-redesign.md) [-W]
 
 ## The evidence by question
 

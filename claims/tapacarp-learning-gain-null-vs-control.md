@@ -51,3 +51,4 @@ Control-group comparison in the classroom study of the new activity. The article
 - [Instructional lecture produced no immediate significant change in metacognitive knowledge or regulation of cognition](instructional-no-immediate-mkc-mrc-change.md) — related
 - [Students' performance improved from day 1 to day 2 of the TapaCarp activity](performance-improved-day1-to-day2-tapacarp.md) — related
 - [The tangible nature of TapaCarp helped integrate it in the classroom environment](tangible-nature-aided-classroom-integration.md) — related
+- [Lesson study did not show tangible effects on mathematics learning of second-grade students compared to a control group.](lesson-study-no-significant-math-effect.md) — a narrower finding that bears on this claim

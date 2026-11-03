@@ -52,6 +52,7 @@ The article concludes that "the blend itself will focus on optimizing the mix of
 - [Combine online and offline teaching (blended learning) to maximize benefits in undergraduate medical education](blended-learning-ume-recommendation.md)
 - [Blended Learning](blended_learning.md)
 - [Blend web-based and traditional approaches rather than replacing classroom instruction with web-based instruction](amalgamate-web-based-and-traditional-approaches.md)
+- [Inform teacher trainees about online self-study tools and pair phonology coursework with web-based pronunciation resources](inform-trainees-of-online-pronunciation-tools.md)
 
 ## Examples
 -

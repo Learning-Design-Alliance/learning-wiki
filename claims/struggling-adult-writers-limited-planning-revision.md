@@ -52,3 +52,4 @@ Case study triangulating observation of collaborative writing, text analysis, an
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
 - [Skilled EFL writers apply procedural planning strategies of brainstorming, organizing, and outlining before writing, and revising strategies of pause-to-think, reviewing, and local plus global revision.](skilled-writers-planning-revising-strategies.md) — related
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
+- [Learning a new writing style plays a significant role in learning a new research paradigm, as students struggle to include themselves and be true to participants](qualitative-research-writing-style-significant-role.md) — related

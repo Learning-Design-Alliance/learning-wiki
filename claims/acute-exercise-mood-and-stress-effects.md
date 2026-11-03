@@ -69,3 +69,4 @@ Narrative review section on stress responses, citing studies using laboratory st
 ## Related Claims
 - [In adults with ADHD, acute cardio exercise does not improve sustained attention but enhances mood and motivation](acute-exercise-adults-adhd-attention-null-mood-gain.md) — related
 - [Acute exercise produces an overall small positive effect on cognition, with executive functions benefiting most and effects lasting up to two hours post-exercise](acute-exercise-small-positive-executive-cognition-effect.md) — related
+- [The RAS program improved self-esteem and several mood-state scores but not fatigue, depression or confusion within the intervention group](ras-music-movement-improves-self-esteem-mood-cp.md) — a narrower finding that bears on this claim

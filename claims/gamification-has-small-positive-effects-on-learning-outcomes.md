@@ -134,3 +134,4 @@ gamified vocabulary practice.
 - [Prior research on educational computer games shows mixed effects on cognitive and academic achievement outcomes](mixed-prior-evidence-games-cognitive-gains.md) — related
 - [Departmental grading rules forced one gamified course to run a dual grading structure, and gamifying the course alone appeared to sustain engagement even without tying marks to game points](department-rules-dual-grading-gamified-course.md) — a narrower finding that bears on this claim
 - [Students in two gamified undergraduate media studies courses reported high enjoyment and that gamification held their attention at mid-course and term end](gamified-media-courses-high-enjoyment-attention.md) — a narrower finding that bears on this claim
+- [Gamification research in SLA higher education predominantly reports positive results for motivation and engagement](gamification-sla-motivation-predominantly-positive.md) — a narrower finding that bears on this claim

@@ -46,3 +46,4 @@ The review reports this second-hand finding, citing Burston and Arispe (2016), a
 
 ## Related Claims
 - [Vocabulary performance shifted from B1–B2 CEFR levels at pre-test to B2–C1 at post-test after four weeks of Mangomon play](cefr-band-shift-business-vocabulary-mangomon.md) — related
+- [Fewer than 3% of CALL publications address advanced-level language learners](fewer-than-3-percent-call-al2-publications.md) — related

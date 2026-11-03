@@ -213,6 +213,7 @@ Observed practice, student achievement, teacher satisfaction and maintenance aft
 - [Provide ongoing, targeted professional learning on ESL instructional strategies for middle grades content-area teachers](../strategies/ongoing-targeted-esl-professional-learning.md)
 - [Deliver in-service teacher professional development that is closely linked to the books and lesson plans in use and supported by frequent classroom observation, through existing ministry structures](../strategies/itpd-linked-materials-frequent-observation.md)
 - [Support interventionists with focused professional development workshops plus ongoing in-classroom coaching](../strategies/pd-workshops-plus-coaching-for-interventionists.md)
+- [Integrate CT activities into weekly mathematics lessons with teacher workshops and reflective cycles](../strategies/ct-math-integration-workshop-reflection-strategy.md)
 
 ## Key Sources
 - Ferraro, Joan M. (2000). Reflective Practice and Professional Development. ERIC Digest. https://eric.ed.gov/?id=ED449120

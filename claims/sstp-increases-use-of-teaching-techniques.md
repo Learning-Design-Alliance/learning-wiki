@@ -69,3 +69,4 @@ Follow-up observation data: experimental teachers used social skills teaching te
 - [The SSTP raised teachers' expectations: after training, 14 social skills were rated as very important/critical for students with special needs by more than 50% of experimental teachers, versus one skill before training](sstp-raises-teacher-expectations-social-skills.md) — related
 - [The observed ratio of social skills teaching techniques used by teachers rose from 55% before training to 92% after the program](sstp-technique-use-ratio-55-to-92.md) — a narrower finding that bears on this claim
 - [Knowledge gains from the SSTP were maintained at follow-up, with a small decrease attributed to absence of coaching and feedback](sstp-knowledge-gains-maintained-follow-up.md) — related
+- [Teachers increased their English speaking through scaffolding techniques after the experiment](cle-peer-teaching-teacher-scaffolding-increased.md) — related

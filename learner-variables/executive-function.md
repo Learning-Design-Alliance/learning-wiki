@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 140 claims (82 show a difference, 26 mixed, 32 no difference) · 88 studies (31 associational, 25 causal, 14 review, 12 quant-synthesis, 4 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 88 report an effect size · 138 claims rest on one study
+> **Evidence** · 141 claims (83 show a difference, 26 mixed, 32 no difference) · 89 studies (31 associational, 25 causal, 15 review, 12 quant-synthesis, 4 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 89 report an effect size · 139 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -177,6 +177,7 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Language, attention/executive function, and reading skills did not significantly moderate response to the PAL writing intervention](../claims/no-cognitive-reading-moderators-writing-rti.md) [-W] — an instructional effect differs with it
 - [Lower inhibitory control scores predicted significantly higher post-test scores specifically for the self-explanation game, with a Johnson-Neyman threshold of 46.72ms](../claims/inhibitory-control-threshold-self-explanation-benefit.md) [+M] — an instructional effect differs with it
 - [The STP-PreK Enhanced group shows greater growth in emotion regulation and executive functioning than the other groups](../claims/self-regulation-greater-growth-enhanced.md) [+M] — instruction changes it
+- [Preschoolers' participation in physical activity during the day is associated with better self-regulation and inhibitory control](../claims/physical-activity-associated-self-regulation-preschoolers.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

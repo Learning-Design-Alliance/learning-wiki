@@ -51,7 +51,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 60 claims (34 for, 25 mixed, 1 against) · 62 studies (18 causal, 13 quant-synthesis, 10 review, 7 qualitative, 5 associational, 5 design, 4 theoretical), `q1`–`q4` · 13 of 62 report an effect size · 52 claims rest on one study
+> **Evidence** · 61 claims (35 for, 25 mixed, 1 against) · 63 studies (19 causal, 13 quant-synthesis, 10 review, 7 qualitative, 5 associational, 5 design, 4 theoretical), `q1`–`q4` · 14 of 63 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -203,6 +203,7 @@ Pair performance, each learner's immediate unaided performance, delayed retentio
 - [Peer tutoring interventions are effective for students with EBD, and those with EBD benefit most among students with disabilities](../claims/peer-tutoring-effective-ebd.md) [~W]
 - [Computer-assisted elaborative feedback with partner exchange sharpened Japanese EFL majors' reading skills](../claims/computer-assisted-feedback-reading-skills.md) [+W]
 - [Tutees attribute their learning during peer tutoring to significant materials, direct and adjusted help from tutors, and dialogue between partners](../claims/focus-group-tutee-learning-causes.md) [+W]
+- [Peer-assisted mediation within dynamic assessment produced significantly greater writing development than tutor-intervention for intermediate EFL learners.](../claims/peer-mediation-beats-tutor-intervention-writing.md) [+W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — one of the clearest vehicles for peer learning

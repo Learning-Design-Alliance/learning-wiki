@@ -54,3 +54,4 @@ One-way ANOVA results for these measures: mid-term exam F = .38, p = .68; journa
 - [Web-facilitated section students earned significantly higher final course grade and final letter grade means than online section students](web-facilitated-higher-final-grade-than-online.md) — related
 - [No significant difference in final examination scores between online and hybrid students](no-significant-difference-final-examination.md) — related
 - [Online students were as successful as hybrid students in overall course performance](online-as-successful-as-hybrid-overall-performance.md) — related
+- [Graduate students in a gamified online statistics course scored significantly higher on exams than students in a non-gamified control group](lms-gamification-higher-exam-scores.md) — related

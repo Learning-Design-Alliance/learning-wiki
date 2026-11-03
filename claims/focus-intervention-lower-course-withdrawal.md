@@ -49,3 +49,4 @@ Between-subjects quasi-experimental design comparing FOCUS students (N = 127) wi
 - [FOCUS Intervention students earned significantly more College Algebra grade points than the baseline comparison group, but the effect was small (η²p = .01)](focus-intervention-higher-grade-points-small-effect.md) — related
 - [Beginning Algebra students who completed the month-long ITS program passed at 65.6% versus 22.2% for the non-ITS control group](its-pass-rate-versus-control-beginning-algebra.md) — related
 - [The role model letter lowered the DEW (fail/withdraw) rate for women in introductory psychology (OR = .38)](role-model-letter-lower-psychology-dew.md) — related
+- [The redesigned course showed a non-significant 8.55% improvement in retention (drop/fail/withdraw) compared with the existing course.](pbl-altrg-redesign-retention-nonsignificant.md) — related

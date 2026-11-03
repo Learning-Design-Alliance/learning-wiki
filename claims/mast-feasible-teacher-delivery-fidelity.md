@@ -51,3 +51,4 @@ Implementation observation of the five teachers implementing MAST, who were inte
 - [MAST significantly improves language in four-to-five-year-old children (d = 0.2)](mast-improves-language-first-year-school.md) — related
 - [MAST shows no effect on self-regulation in four-to-five-year-old children](mast-no-effect-self-regulation.md) — related
 - [ATC was implemented with fidelity in four of five program components in both implementation years, with little cross-site variation](atc-fidelity-four-of-five-components.md) — related
+- [A truncated three-month pilot of the Cities Mentor Project with 17 intervention and 18 control youth indicates the intervention is feasible, usable, and appreciated by participants.](cities-mentor-pilot-feasible-usable.md) — a narrower finding that bears on this claim

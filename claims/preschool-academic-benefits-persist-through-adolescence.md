@@ -54,3 +54,4 @@ Propensity-score-matched path models in the ECLS-K 1998 cohort compared preschoo
 - [Long-term academic benefits of preschool are almost entirely mediated by children's earlier skill development](preschool-long-term-benefits-mediated-by-early-skills.md) — related
 - [Pre-primary programme attendance is associated with higher science test scores at age 15 (0.09 SD for at least 1 year; 0.20 SD for 2 or more years)](pisa-pre-primary-science-association.md)
 - [The academic benefit of active classrooms is larger in preschool children than in primary or middle school children](active-classrooms-preschool-larger-effect.md)
+- [Children who participated in HIPPY as preschoolers appear to have benefited long-term from the experience](hippy-long-term-benefit-school-performance.md) — a narrower finding that bears on this claim

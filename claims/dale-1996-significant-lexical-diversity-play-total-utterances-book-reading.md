@@ -49,3 +49,4 @@ Randomized controlled trial with 33 mother-child dyads of children ages three to
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — a broader claim this one bears on
 - [Dialogic Reading combined with Sound Foundations shows potentially positive effects on print knowledge and early reading/writing but not oral language](dialogic-reading-sound-foundations-combined-outcomes.md) — related
 - [Dialogic reading training increases ELL parents' access-giving and question-posing behaviors during shared reading more than traditional read-aloud](dialogic-reading-training-increases-ell-parent-interactive-behaviors.md) — related
+- [Students most enjoyed oral-language-based reading activities — teacher read aloud, reading plays, short stories, silent reading, and student read aloud — each enjoyed by roughly 50% of students.](oral-language-activities-most-enjoyed.md) — related

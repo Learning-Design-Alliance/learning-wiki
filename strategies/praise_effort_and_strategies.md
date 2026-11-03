@@ -81,6 +81,7 @@ Praise functions as attributional feedback: it shapes what learners believe caus
 - [Growth-mindset-informed math teaching practices: norms, no fixed labels, mixed-ability grouping, process praise, and formative assessment with retakes](growth-mindset-teaching-practices-list.md)
 - [Classroom strategy set for supporting students in foster care: buddies, helper tasks, structure, earned rewards, small successes, sincere praise, kept promises, high expectations, clean slates, and assumption-free assignments](foster-care-classroom-strategy-set.md)
 - [Phrase praise modestly and focus on strategies rather than effort to prevent ability-denigrating inferences](modest-strategy-focused-praise-older-children.md)
+- [Top up intelligence interventions with process feedback when students receive grades](process-feedback-top-up-strategy.md)
 
 ## Examples
 - **Mueller & Dweck (1998) studies** — Sixth graders praised for effort after a task subsequently chose more challenging problems and persisted longer after failure than those praised for intelligence.

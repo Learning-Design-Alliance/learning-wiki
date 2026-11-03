@@ -46,3 +46,4 @@ Post-hoc comparisons across the eleven error types (article, spelling, prepositi
 
 ## Related Claims
 - [Guided ASR practice did not produce statistically significant improvement in any specific pronunciation error type, with some errors unimproved or regressed](asr-specific-error-types-no-significant-gains.md) — related
+- [Focused feedback targeted at a specified error type has a large beneficial effect on long-term learning, contrary to Truscott's conclusion](focused-feedback-large-beneficial-long-term-effect.md) — related

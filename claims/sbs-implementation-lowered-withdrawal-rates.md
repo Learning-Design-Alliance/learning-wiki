@@ -48,3 +48,4 @@ Before-and-after comparison of withdrawal rates in the HB1 course across interna
 - [Buddies and Buddy Leaders evaluated the SBS scheme very positively, with all 28 survey respondents agreeing sessions were an effective way to learn in a non-threatening environment](sbs-evaluation-survey-overwhelmingly-positive.md) — related
 - [At-risk first-year Bioscience students who participated in the Study Buddy Support scheme passed at a higher rate (72%) than at-risk students who did not participate (49%)](sbs-participants-higher-pass-rate-than-non-participants.md) — related
 - [Buddies reported that the SBS scheme gave reassurance of not being alone and a friendly, non-intimidating learning environment](buddies-reported-reassurance-and-non-intimidating-environment.md) — related
+- [The redesigned course showed a non-significant 8.55% improvement in retention (drop/fail/withdraw) compared with the existing course.](pbl-altrg-redesign-retention-nonsignificant.md) — related

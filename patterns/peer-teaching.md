@@ -14,7 +14,7 @@ grain_size: lesson
 # Peer Teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 48 claims (25 for, 19 mixed, 4 against) · 29 studies (10 quant-synthesis, 9 causal, 3 review, 3 design, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 10 of 29 report an effect size · 45 claims rest on one study
+> **Evidence** · 49 claims (26 for, 19 mixed, 4 against) · 30 studies (10 causal, 10 quant-synthesis, 3 review, 3 design, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 10 of 30 report an effect size · 46 claims rest on one study
 
 ## Description and scope
 
@@ -146,6 +146,7 @@ This pattern is scoped to learners teaching one another material they have met, 
 - [Buddies and Buddy Leaders evaluated the SBS scheme very positively, with all 28 survey respondents agreeing sessions were an effective way to learn in a non-threatening environment](../claims/sbs-evaluation-survey-overwhelmingly-positive.md) [+W]
 - [Peer tutoring interventions are effective for students with EBD, and those with EBD benefit most among students with disabilities](../claims/peer-tutoring-effective-ebd.md) [~W]
 - [Tutees attribute their learning during peer tutoring to significant materials, direct and adjusted help from tutors, and dialogue between partners](../claims/focus-group-tutee-learning-causes.md) [+W]
+- [The peer-assisted mediation group outperformed the tutor-intervention group across the ten treatment-session writing assignments.](../claims/peer-mediation-outperformed-across-sessions.md) [+W]
 
 ## Related Patterns
 - [Jigsaw](fostering-communities-of-learning-fcl.md)

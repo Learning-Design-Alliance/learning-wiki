@@ -48,3 +48,4 @@ One-way ANOVA on pre-test scores of the 120 students across the three groups, re
 - [No significant difference in solid geometry achievement between animation-with-narration and animation-with-text CAI groups](no-significant-difference-an-vs-at.md) — related
 - [Before implementation, the experimental and control groups showed no statistically significant difference in academic achievement pre-test scores](absl-social-studies-pretest-equivalence.md) — related
 - [The three groups were statistically equivalent in transformational geometry achievement before instruction](pretest-equivalence-three-groups-tg.md) — related
+- [Pre-test scores showed no significant difference between experimental and control groups, confirming group comparability](pbl-pre-test-groups-comparable.md) — related

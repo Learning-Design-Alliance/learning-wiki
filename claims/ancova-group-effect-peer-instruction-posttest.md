@@ -48,3 +48,4 @@ ANCOVA on post-test scores with pre-test as covariate for both groups (Table 2).
 - [ANCOVA controlling for pre-test confirms a significant effect of metacognitive strategy treatment on post-test comprehension](ancova-metacognitive-strategy-effect.md) — related
 - [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related
 - [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related
+- [Paired sample t-test confirms significantly higher post-test scores for the experimental group](pbl-paired-t-test-significant.md) — related

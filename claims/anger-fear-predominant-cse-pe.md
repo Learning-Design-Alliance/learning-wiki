@@ -50,3 +50,4 @@ Theme Analysis of the narratives found anger and fear the most prevalent CSE emo
 - [Discriminatory teacher attitudes, including sexism and fat-phobia, were identified as negative emotional triggers in participants' PE narratives](discriminatory-teacher-attitudes-pe.md) — related
 - [Surprise is the most frequently shared emotion among learners in synchronous online collaborative English discussion tasks](surprise-most-frequent-shared-emotion-esl-cscl.md) — related
 - [Fear sources before physics lessons shifted: fear of written tests decreased while examination-related fears dominated](physics-lesson-fear-sources-shift.md) — related
+- [Group risk-sharing removes personal humiliation and eases writing anxiety](group-credit-reduces-humiliation-anxiety.md) — related

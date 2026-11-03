@@ -50,3 +50,4 @@ Jacob, R. T., Stone, S., & Roderick, M. (2004). Ending Social Promotion: The Res
 - [Most Chicago teachers and principals reported that Summer Bridge and Lighthouse had positive effects on participating students](cps-educators-positive-on-summer-bridge-lighthouse.md) — related
 - [Approximately 40 percent of educators reported spending less time on social studies and science as a result of the promotion policy](policy-reduced-time-social-studies-science.md) — related
 - [Three-quarters of Chicago teachers viewed retention as improving students' long-term chances of success](teachers-view-retention-as-beneficial.md) — related
+- [Teacher-researchers realized the complexities of problems they once felt had simplistic solutions and felt increased responsibility to address them](action-research-complexity-realization.md) — related

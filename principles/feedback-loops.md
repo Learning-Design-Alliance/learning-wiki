@@ -34,7 +34,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (24 for, 12 mixed, 2 against) · 54 studies (15 causal, 12 review, 11 quant-synthesis, 5 design, 4 associational, 4 qualitative, 3 theoretical), `q1`–`q4` · 8 of 54 report an effect size · 29 claims rest on one study
+> **Evidence** · 39 claims (24 for, 13 mixed, 2 against) · 55 studies (16 causal, 12 review, 11 quant-synthesis, 5 design, 4 associational, 4 qualitative, 3 theoretical), `q1`–`q4` · 9 of 55 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -179,6 +179,7 @@ Following the information on the corrected item, unaided performance on a new it
 - [Correctness overviews alone seldom lead to real insights into how to improve learning; dashboards must present teacher-actionable information supporting goal-setting, monitoring, and planning](../claims/dashboards-need-actionable-information-beyond-correctness.md) [+W]
 - [Negative feedback combined with opportunities to modify output improved Thai learners' English question development](../claims/feedback-plus-modified-output-question-development.md) [+W]
 - [Experts supported needs-based instruction informed by ongoing observation and assessment](../claims/experts-support-needs-based-instruction-ongoing-assessment.md) [~W]
+- [OIF group outperformed EF group on writing accuracy in revised compositions (uptake)](../claims/oif-outperformed-ef-accuracy-uptake.md) [~W]
 
 ## Related Principles
 - [Immediate Feedback](immediate-feedback.md)

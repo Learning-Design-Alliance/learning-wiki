@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 41 claims (24 for, 16 mixed, 1 against) · 49 studies (16 causal, 13 associational, 9 review, 5 theoretical, 2 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 4 of 49 report an effect size · 36 claims rest on one study
+> **Evidence** · 42 claims (24 for, 17 mixed, 1 against) · 50 studies (16 causal, 13 associational, 9 review, 5 theoretical, 3 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 4 of 50 report an effect size · 37 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
@@ -90,6 +90,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [At baseline only about a third of first-year students showed a high level of adaptability, with technical and mathematical disciplines most problematic](../claims/baseline-only-third-first-years-high-adaptability.md) [+W]
 - [Student background variables significantly affect learning motivation and demographic variables significantly affect learning achievement](../claims/background-demographic-variables-affect-motivation-achievement.md) [~W]
 - [Pre-test analysis showed participants across all four groups had inadequate knowledge of English classified ads rules, writing simple sentences instead of omitting articles, conjunctions, prepositions, verbs, and pronouns.](../claims/pretest-inadequate-classified-ads-rules.md) [+W]
+- [20% of students described as advanced-level learners were in fact no more than intermediate-high on the ACTFL scale](../claims/twenty-percent-claimed-advanced-actually-intermediate-high.md) [~W]
 
 ## The evidence by question
 

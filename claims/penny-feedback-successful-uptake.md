@@ -62,3 +62,4 @@ Coded behavioural analysis of 63,328 events from the same 119-learner log datase
 - [Most AI assistance was correct and specific, but most instances lacked justifications](ai-assistance-informativeness-correct-but-lacking-justifications.md) — related
 - [Uptake of AI assistance in peer feedback was low, with just 9% of AI suggestions leading to revisions](low-uptake-ai-assistance-peer-feedback.md) — related
 - [High-affordance feedback tools supported accurate self-assessment while low-affordance tools hindered self-reflection](feedback-affordance-self-assessment.md) — related
+- [OIF group outperformed EF group on writing accuracy in revised compositions (uptake)](oif-outperformed-ef-accuracy-uptake.md) — related

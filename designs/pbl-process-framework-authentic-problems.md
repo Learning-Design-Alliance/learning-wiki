@@ -43,7 +43,9 @@ In its discussion, the article frames why PBL works via a process account: the p
 - [Pbl Improves Solution Quality Malaysian Undergraduates](../claims/pbl-improves-solution-quality-malaysian-undergraduates.md) [+M]
 
 ## Related Designs
+
 - Problem Based Learning
+- [Savery and Duffy's PBL design principles and Jonassen's ill-structured problem criteria as the framework for course redesign](savery-duffy-jonassen-pbl-framework.md)
 
 ## Examples
 -

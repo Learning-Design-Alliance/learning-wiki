@@ -46,3 +46,4 @@ Between-groups Mann-Whitney U comparisons at pre-, post-, and delayed post-tests
 
 ## Related Claims
 - [One month of playing the digital information gap game PàN produced no statistically significant improvement in FSL learners' comprehensibility, fluency, or overall pronunciation](pan-game-no-significant-pronunciation-gains.md) — possibly the same claim (merge candidate)
+- [The only clearly negative result found no significant differences on oral skills between gamified treatment and control groups](gamification-french-oral-skills-no-significant-difference.md) — possibly the same claim (merge candidate)

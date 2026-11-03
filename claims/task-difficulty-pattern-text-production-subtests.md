@@ -50,3 +50,4 @@ Descriptive analysis of pre-test sub-test performance in both school groups; the
 ## Related Claims
 - [Children's writing proficiency is task dependent: children use more advanced features on easier tasks and regress to basic features on harder tasks](writing-proficiency-task-dependent.md) — related
 - [Reading comprehension differentially mediates the relations of discourse oral language and lexical literacy to writing quality in Grade 2](reading-comprehension-mediation-writing-quality.md) — related
+- [Over a third of learning-outcome studies show a mismatch between task difficulty and learner proficiency](over-third-studies-task-proficiency-mismatch.md) — related

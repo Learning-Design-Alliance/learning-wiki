@@ -52,3 +52,4 @@ Meta-analyses of EF training reviewed in the training section show "near-transfe
 - [Computer-based training reliably improves children's working memory and reasoning, but computerized training has not succeeded in improving 4- to 6-year-olds' inhibitory control](computerized-training-wm-reasoning-not-young-inhibition.md) — related
 - [Interventions targeting SRL or EF show little evidence of far transfer to the other construct](srl-ef-interventions-no-far-transfer.md) — related
 - [CogMed computerized working-memory training improves practiced working-memory skills with narrow transfer, and controls playing the same games without increasing difficulty show no gains](cogmed-working-memory-training-narrow-transfer.md) — related
+- [Young children’s EF skills show a robust positive relationship with academic outcomes in preschool through third grade](ef-correlates-academic-outcomes-preschool-third-grade.md) — related

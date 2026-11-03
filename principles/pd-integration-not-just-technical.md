@@ -18,7 +18,7 @@ sources:
 # Professional development should guide teachers on integrating digital content and tools, not just offer technical know-how
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (16 for, 4 mixed) · 18 studies (5 qualitative, 4 review, 4 associational, 2 theoretical, 1 causal, 1 quant-synthesis, 1 design), `q1`–`q3` · 1 of 18 report an effect size · 19 claims rest on one study
+> **Evidence** · 21 claims (17 for, 4 mixed) · 19 studies (5 associational, 5 qualitative, 4 review, 2 theoretical, 1 causal, 1 quant-synthesis, 1 design), `q1`–`q3` · 1 of 19 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,10 @@ For example, a district's objective may be that every English teacher uses an au
 ## What would revise this model?
 
 The expectation should weaken if a comparison of integration-focused with technical-only PD for the same tool, with comparable teachers and observed classroom use as the outcome, shows no difference, or if the difference disappears once hours and follow-up support are equal (which would mean the ingredient is support and time, not content). It should narrow if technical walkthroughs alone produce sustained, purposeful use with tools that are simple to fit into existing lessons, which the single-tool finding hints at. It should strengthen, and move from use toward learning, if studies show integration-focused PD changing student work or outcomes on the goal the tool was meant to serve. Self-reported frequency of use should not be taken as either.
+
+## Claims
+
+- [Teachers are more likely to integrate technology into their teaching when they perceive professional development activities to be aligned with school content and relevant to their teaching.](../claims/escuela2-teacher-training-alignment-integration.md) [+W]
 
 ## Related Principles
 - [Ongoing Study Teams and Peer Coaching](ongoing-study-teams-peer-coaching-in-service.md): which ongoing school structure carries the follow-up cycle

@@ -50,3 +50,4 @@ Self-report situational-interest measure from the three-condition fractions ITS 
 - [Situational knowledge is fostered by collaboration, tool format, and tool-use, with arithmetical format outperforming textual](situational-knowledge-setting-format-tooluse.md) — related
 - [4th and 5th grade students learning fractions with an ITS show significant learning gains in individual, collaborative, and combined conditions](all-conditions-significant-fractions-its-gains.md) — related
 - [Students learning fractions with an AIED system achieved the best outcomes in a condition mixing individual and collaborative work rather than wholly either mode](combined-individual-collaborative-its-best-outcomes.md) — related
+- [Students in the mixed condition expressed higher situational interest than those working individually only](mixed-condition-higher-situational-interest-than-individual-only.md) — related

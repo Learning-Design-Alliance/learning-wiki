@@ -58,3 +58,5 @@ Affective sub-theme of the multimedia-group interview analysis: "'motivating tow
 - [The teacher and researcher judged the individualized tablet-group students more motivated than the control group, but report this as a subjective opinion](subjective-higher-motivation-individualized-group.md) — related
 - [Students' attitudes toward life made gradual progress across the ten weekly themes of the course](gradual-attitude-progress-across-weekly-themes.md) — related
 - [Students in the Twitter-supported blended course reported positive attitudes at the technological, individual, and community levels of activity theory](twitter-attitudes-three-activity-theory-levels.md) — related
+- [Students show deficiencies in improving school performance, group work, problem solving and communication in learning activities with ICT, despite positive attitudes toward technology.](escuela2-students-deficiencies-higher-order.md) — related
+- [Students formed positive views and attitudes toward teaching with tablets](students-positive-attitudes-tablets-ar-lessons.md) — related

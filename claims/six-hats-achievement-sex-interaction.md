@@ -57,3 +57,4 @@ Covariance analysis (Table 2) of the same 216-student quasi-experiment reports t
 - [A six-hats-based training program produces larger achievement gains in Islamic concepts than usual teaching among university students](six-hats-program-improves-islamic-concepts-achievement.md) — related
 - [No significant interaction between instructional treatment and gender on Electronic Works achievement](no-treatment-gender-interaction-electronic-works.md) — reports the opposite
 - [Group × gender interaction favored females in the experimental group](group-gender-interaction-favor-female-experimental.md) — possibly the same claim (merge candidate)
+- [Female gifted students slightly outperformed males on creative thinking posttests in both groups, with no group-by-gender interaction](six-hats-gender-difference-females-creative-thinking.md) — related

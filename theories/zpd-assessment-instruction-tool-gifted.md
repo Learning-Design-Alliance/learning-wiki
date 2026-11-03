@@ -17,7 +17,7 @@ sources:
 # Zone of Proximal Development as an assessment and instruction tool
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (9 for, 3 mixed) · 8 studies (3 causal, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 1 of 8 report an effect size · 12 claims rest on one study
+> **Evidence** · 13 claims (9 for, 4 mixed) · 9 studies (4 causal, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 2 of 9 report an effect size · 13 claims rest on one study
 
 ## Description
 The ZPD is defined by Vygotsky as "the distance between the actual developmental level as determined by independent problem-solving and the level of potential development as determined through problem-solving under adult guidance or in collaboration with more capable peers." The essay presents it as "an analytical tool necessary to plan instruction and to explain its results," applicable to assessment, individualizing learning, monitoring progress, and addressing gifted children's social and emotional needs.
@@ -50,6 +50,7 @@ The ZPD is defined by Vygotsky as "the distance between the actual developmental
 - [Frequency of explicit mediational strategies decreased dramatically by the last G-DA session](../claims/explicit-mediation-decreased-last-session.md) [~W]
 - [G-DA interactions diagnosed learners' sources of writing difficulty and fostered intersubjectivity and collective scaffolding](../claims/gda-diagnosed-difficulties-intersubjectivity.md) [+W]
 - [G-DA instruction improved L2 writing performance: the experimental group outperformed the control group on the posttest](../claims/gda-outperformed-control-writing-posttest.md) [+W]
+- [Peer-assisted mediation within dynamic assessment produced significantly greater writing development than tutor-intervention for intermediate EFL learners.](../claims/peer-mediation-beats-tutor-intervention-writing.md) [~W]
 
 ## Related Theories
 

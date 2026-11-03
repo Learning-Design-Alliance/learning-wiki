@@ -60,3 +60,4 @@ Two-group quasi-experiment in a Public Space Interior Design course at a vocatio
 - [The review finds flipped learning, PBL, gamification, and collaborative learning adapted to digital environments produced positive effects on motivation, participation, and transversal competences](flipped-pbl-gamification-collaborative-digital-effects.md) — related
 - [Virtual problem-based learning was equally as effective as text-based PBL for enhancing student learning and learning environment](vpbl-equally-effective-as-text-based-pbl.md) — related
 - [The article reports that PBL raised the average creative thinking ability of its participants above the control class](pbl-above-control-creative-thinking.md) — related
+- [Students' mathematical creative thinking ability is lowest on complex tasks requiring idea extension and linking facts to mathematical models](creative-thinking-lowest-on-complex-tasks.md) — related

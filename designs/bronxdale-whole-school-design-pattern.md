@@ -47,8 +47,10 @@ The report identifies a constellation of four mutually reinforcing school-design
 - [Teacher professional learning as a community of practice](../strategies/teacher-community-of-practice-bronxdale.md): the adult-learning factor
 
 ## Related Designs
+
 - [Gateway guiding principles and structures](gateway-guiding-principles-structures-pattern.md) — a second whole-school case from the same Learning Policy Institute series
 - [Whole Child Approach](../products/whole-child-approach.md)
+- [Combine non-cognitive social/emotional supports with rigorous academic standards and close attention to student performance](barr-combine-sel-with-academic-press.md)
 
 ## Examples
 -

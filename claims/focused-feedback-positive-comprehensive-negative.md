@@ -67,3 +67,4 @@ Same synthesis of effect sizes by focus (Table 3). Comprehensive feedback showed
 - [Direct versus indirect written corrective feedback proved inconclusive: DCF showed five large positive and two negative effects, ICF results were split](dcf-vs-icf-inconclusive.md) — related
 - [In the Sheen et al. (2009) study, focused direct CF produced a large positive effect while unfocused (comprehensive) direct CF produced a large negative effect](sheen-focused-versus-unfocused-dcf-mixed.md) — a narrower finding that bears on this claim
 - [The Van Beuningen et al. (2011) study of comprehensive CF showed overall negative effect sizes across high and low proficiency groups](van-beuningen-comprehensive-cf-negative.md) — related
+- [Focused feedback targeted at a specified error type has a large beneficial effect on long-term learning, contrary to Truscott's conclusion](focused-feedback-large-beneficial-long-term-effect.md) — a narrower finding that bears on this claim

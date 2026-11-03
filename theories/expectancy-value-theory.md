@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 54 claims (33 for, 20 mixed, 1 against) · 39 studies (16 causal, 9 associational, 6 review, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 9 of 39 report an effect size · 53 claims rest on one study
+> **Evidence** · 56 claims (34 for, 21 mixed, 1 against) · 41 studies (18 causal, 9 associational, 6 review, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 10 of 41 report an effect size · 55 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -113,6 +113,8 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [The sports education model raises students' value/benefit and effort/importance attitudes more than the direct teaching model](../claims/sem-raises-value-benefit-and-effort-importance.md) [+W]
 - [E-portfolio use improved ESL students' perceived value of writing and writing self-concept, but not writing anxiety](../claims/eportfolio-improves-writing-value-self-concept-not-anxiety.md) [+W]
 - [A parent-centered utility-value intervention increased adolescents' mathematics and science ACT scores by about 12 percentile points](../claims/parent-utility-value-intervention-act-scores.md) [+W] — attached 2026-11-03 from Rozek et al. (2016), which proposed "Expectancy-value theory: achievement-related choices depend on expectations for success and subjective task value, with utility value malleable to intervention".
+- [Perceived task value of LQ-type training increased significantly in the intervention group (d = 0.55) with a large gain-score difference between groups (d = 1.24)](../claims/lq-workshop-increased-task-value.md) [+W] — attached 2026-11-03 from Talvio et al. (2015), which proposed "Expectancy-value theory as a framework for understanding teacher motivation to attend and apply SEL training".
+- [Most first-year students expect a lower degree grade than they hope for, and few cite ability as key to success](../claims/student-grade-expectations-and-success-attributions.md) [~W]
 
 ## Related Theories
 

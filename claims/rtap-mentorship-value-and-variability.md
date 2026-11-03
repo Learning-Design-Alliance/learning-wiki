@@ -53,3 +53,4 @@ Interview finding on mentorship: mentors offered real-world examples, consistent
 - [Only 46% of principals reported a preparation internship involving real leadership responsibilities, and few in-service principals had coaching or mentoring](limited-access-job-based-principal-learning.md) — related
 - [Time spent on specific mentoring activities varied widely, with some teachers never observed by mentors and others observed an hour or more a month](mentoring-activity-time-varied-widely.md) — related
 - [Learning was observed even when teachers engaged in the training alone without mentoring or feedback](antecedent-only-training-produces-learning.md) — related
+- [SL placement duration and mentor preparation moderate the effectiveness of SL experiences](sl-duration-and-mentor-moderators.md) — related

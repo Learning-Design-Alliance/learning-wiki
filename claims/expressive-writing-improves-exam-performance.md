@@ -111,3 +111,4 @@ A meta-analysis of the single-session expressive-writing literature (the paradig
 - [Anticipatory test anxiety can set off a downward spiral of maladaptive cognitions, emotions, and behaviors](anticipatory-test-anxiety-downward-spiral.md) — related
 - [Using students as their own within-subject controls, the Study Skills intervention was associated with maintained or better grade performance for highly math-anxious students relative to the Emotion Regulation group](within-subject-grade-difference-ss-maintained-performance.md) — related
 - [The divergence between attendance and anxiety effects may reflect increased school exposure, which improves attendance quickly but may raise anxiety short-term](school-exposure-explains-attendance-anxiety-divergence.md) — related
+- [Reduced anxiety redirects attention from task-irrelevant worry to the writing assignment itself](anxiety-reduction-frees-attention-for-writing.md) — a broader claim this one bears on
