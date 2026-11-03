@@ -59,3 +59,4 @@ Synthesis of tutor-side outcomes from the main-findings section of the review; t
 - [Supporting the learning process includes supporting student teamwork, shared learning, and student self-efficacy through standing back and enabling student-led learning](supporting-learning-process-competencies.md) — related
 - [SBL is associated with wider clinical performance benefits including self-confidence, self-efficacy, clinical reasoning and teamwork](sbl-wider-clinical-performance-benefits.md) — related
 - [The authors report the robotics methodology also supported social skills such as communication, collaborative work, creativity, autonomy and leadership](robotics-social-skills-interpretation.md) — related
+- [Students perceived PBL as providing significant benefits to presentation skills, teamwork, leadership and ability to use IT](pbl-significant-perceived-skill-benefits.md) — related

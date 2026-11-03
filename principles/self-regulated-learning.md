@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 180 claims (75 for, 94 mixed, 11 against) · 121 studies (42 causal, 25 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 33 of 121 report an effect size · 169 claims rest on one study
+> **Evidence** · 181 claims (76 for, 94 mixed, 11 against) · 122 studies (43 causal, 25 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 33 of 122 report an effect size · 170 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,7 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Fifth-grade students using metacognitive strategy with books of literary quality scored significantly higher in post-test reading comprehension than a control group reading the 100 Basic Works conventionally](../claims/metacognitive-strategy-literary-books-posttest-reading-comprehension.md) [+M] — attached 2026-11-01 from Erkan Çer (2016), which proposed "Pair metacognitive strategy instruction with books of literary quality appropriate to children's developmental levels"; tests this page's relationship.
 - [Junior secondary students taught Basic Science with a self-regulated learning approach achieved higher adjusted mean scores than students taught with the conventional method](../claims/srl-approach-higher-basic-science-achievement.md) [+W] — attached 2026-11-02 from Nwafor Chika E et al. (2015), which proposed "Include self-regulated learning instructional strategy in pre-service teacher curricula and provide regular teacher training on its use"; tests this page's relationship.
 - [Diary keeping has no significant effect on cognitive strategies such as rehearsal, elaboration, organization, and critical thinking](../claims/diaries-no-effect-cognitive-strategies.md) [~W] — attached 2026-11-03 from Arsal (2010), which proposed "Pair diary reporting with additional self-regulation strategy training for greater improvement".
+- [Explicit instruction of metacognitive reading strategies produced significantly higher post-test reading comprehension scores than traditional instruction among low-proficiency Jordanian EFL university students](../claims/metacognitive-strategy-instruction-raises-efl-reading-posttest.md) [+W] — attached 2026-11-03 from ABEER AL-GHAZO (2016), which proposed "Strategy training should teach language learning strategies together with feelings, beliefs, responsibility and trust, and encourage collaborative work"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

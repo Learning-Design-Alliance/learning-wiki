@@ -41,6 +41,7 @@ The article recommends periodic follow-up games with learner-made vocabulary car
 
 - [Memory Game (Matching)](memory-game-matching.md)
 - [Word-finding warm-up game with flash cards](vfc-word-finding-warm-up-activity.md)
+- [Use free online vocabulary games in groups of three, with a teacher-chosen first game and student choice thereafter](grouped-online-game-practice-rotation.md)
 
 ## Examples
 -

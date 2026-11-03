@@ -49,6 +49,7 @@ In the Suggestions section the author recommends that teachers use "multimedia c
 - [Illustrate Through Multiple Media](illustrate_through_multiple_media.md)
 - [Digital Storytelling](digital_storytelling.md)
 - [Use AR overlays aligned with multimedia learning principles: pair words with nearby, simultaneous images and segment lessons into self-paced chunks](ar-design-multimedia-principles-strategy.md)
+- [Use multimedia learning to concretise abstract networking concepts and raise student interest](multimedia-concretise-abstract-networking-concepts.md)
 
 ## Examples
 -

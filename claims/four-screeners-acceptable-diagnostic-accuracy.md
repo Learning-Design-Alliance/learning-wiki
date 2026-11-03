@@ -53,3 +53,4 @@ Synthesis of diagnostic accuracy evidence for screeners against the acceptabilit
 - [Only 15 of the identified measurement tools met common acceptability thresholds for more than two areas of psychometric evidence](only-15-tools-meet-two-plus-thresholds.md) — a broader claim this one bears on
 - Included studies show considerable variation in the cut-off criteria used to identify students with co-occurring mathematics and reading difficulties — related
 - [Included studies demonstrated mixed evidence of construct validity, with some metrics distinguishing skill levels but others failing to do so.](mixed-construct-validity-robotic-hysterectomy-metrics.md) — related
+- [Screening 63 pre-school children with the EMBI interview identified about 30% as at risk using a cut-off of fewer than 9 of 15 relevant tasks](embi-screening-identifies-thirty-percent-at-risk.md) — a narrower finding that bears on this claim

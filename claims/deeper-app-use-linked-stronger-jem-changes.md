@@ -56,3 +56,4 @@ Digital Promise field study (26 families). The report states that "Families who 
 - [44.8% of families used the sync feature; most of those enjoyed it, while 37.5% of non-users reported technical difficulties](sync-feature-usage-and-difficulties.md) — related
 - [Parents and caregivers in the intervention group initiated more conversations before and after viewing and facilitated more science conversations than the comparison group](second-screen-app-intervention-more-science-conversations.md) — related
 - [Families showed widespread variability in which Ocean Guide and Activities components they found most helpful, often citing child age and interest](splash-bubbles-app-section-variability-by-child-age-interest.md) — related
+- [Parents reported high engagement with and enjoyment of the take-home storytelling activities](parent-take-home-activities-social-validity.md) — related

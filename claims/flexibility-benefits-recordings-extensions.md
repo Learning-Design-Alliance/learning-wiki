@@ -48,3 +48,4 @@ Descriptive questionnaire results from the study's findings section on helpful t
 - [Instructors widely relaxed deadlines and adjusted grading to accommodate pandemic circumstances, while balancing compassion with academic rigor](instructors-flexible-deadlines-grading-covid.md) — related
 - [Virtual meeting options gave parents more flexible scheduling opportunities to communicate with educators during remote schooling](virtual-meetings-flexible-parent-communication.md) — related
 - [Online professional development offers potential advantages of reduced travel costs, increased convenience, and community building among participants](online-pd-reduces-travel-supports-community.md) — related
+- [Students who experienced both methods rate live video observation as less distracting for children and more convenient than onsite observation](wave2-paired-lvo-advantages.md) — related

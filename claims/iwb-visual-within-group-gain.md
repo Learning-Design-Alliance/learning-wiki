@@ -59,3 +59,4 @@ Paired-samples t test within the experimental group (n=36) comparing pre- and po
 - [Within the experimental group, involvement rose from pre-test through post-test and was retained four weeks later](mosaic-involvement-gains-retained-four-weeks.md) — related
 - [Experimental group shows significant pre-to-post achievement gains under mutual learning](mutual-learning-pre-post-gains-experimental-group.md) — related
 - [The experimental group's language development total scores rise significantly from pre-test to post-test after the audio-visual intervention](av-intervention-pre-post-gain-experimental-group.md) — related
+- [The experimental group's mean listening score rose from 51.56 on the pre-test to 69.86 on the post-test](experimental-group-mean-rose-51-56-to-69-86.md) — related

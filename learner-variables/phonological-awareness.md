@@ -13,7 +13,7 @@ generated:
 # Phonological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 109 claims (69 show a difference, 17 mixed, 23 no difference) · 65 studies (27 associational, 24 causal, 7 quant-synthesis, 4 review, 2 design, 1 theoretical), `q1`–`q3` · 18 of 65 report an effect size · 107 claims rest on one study
+> **Evidence** · 111 claims (71 show a difference, 17 mixed, 23 no difference) · 66 studies (27 associational, 25 causal, 7 quant-synthesis, 4 review, 2 design, 1 theoretical), `q1`–`q3` · 18 of 66 report an effect size · 109 claims rest on one study
 
 ## Description
 Phonological awareness is the ability to hear and manipulate the sound structure of spoken words: recognising rhymes, splitting words into syllables and individual sounds (phonemes), and blending sounds into words. The broader term phonological processing, which this page also covers, includes detecting and handling speech sounds rapidly in both spoken and written words and holding sound information briefly in memory. These skills are measured with tasks such as rhyming, blending (combining separate sounds into a word), elision (saying what remains when a sound is removed) and phoneme manipulation.
@@ -150,6 +150,8 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [Preservice teachers completing 10 hours of metalinguistic coursework outperformed preservice teachers without such content in phoneme and morpheme identification](../claims/ten-hours-metalinguistic-coursework-outperforms-untrained-preservice.md) [+M] — instruction changes it
 - [The coursework cohort showed particular strength segmenting words with blends, with 17% scoring 100% on phoneme identification versus 0% of the comparison preservice group](../claims/blend-segmentation-strength-phoneme-id.md) [+M] — instruction changes it
 - [The coursework cohort's phoneme identification exceeded inservice teachers without professional development and was comparable to inservice teachers with 30 hours of professional development](../claims/phoneme-id-matches-inservice-with-pd.md) [+M] — instruction changes it
+- [Common serious mispronunciations of Indonesian learners stem from absent L1 phonemes and different sound categorisation in the L1](../claims/l1-absence-and-categorization-cause-mispronunciations.md) [+W] — learners who differ on it differ in outcomes
+- [QDPR significantly improved Indonesian EFL learners' knowledge of the target English phonemes in a one-group pretest-posttest study](../claims/qdpr-improved-phoneme-knowledge.md) [+M] — instruction changes it
 
 ## Measures
 - **The Phonological Awareness Test 2 (PAT 2)** (Robertson & Salter, 2007): covers rhyming and detecting and manipulating phonemes, ages 5 to 9.

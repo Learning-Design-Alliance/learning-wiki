@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 222 claims (152 show a difference, 42 mixed, 28 no difference) · 123 studies (63 causal, 27 associational, 14 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 39 of 123 report an effect size · 217 claims rest on one study
+> **Evidence** · 232 claims (161 show a difference, 43 mixed, 28 no difference) · 129 studies (69 causal, 27 associational, 14 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 40 of 129 report an effect size · 227 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -260,6 +260,16 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Low critical-thinking students do worse in contextual than non-contextual instruction for argumentative writing](../claims/ctl-disadvantages-low-critical-thinking-writers.md) [~M] — an instructional effect differs with it
 - [Pre-task planning, whether individual or collaborative, with or without teacher feedback, improves structural organization and clarity of argumentative essays relative to no planning](../claims/pre-task-planning-improves-essay-organization.md) [+W] — instruction changes it
 - [SRSD interventions produce large effect sizes on writing outcomes for students with EBD and meet standards for an evidence-based practice](../claims/srsd-writing-ebp-ebd.md) [+M] — instruction changes it
+- [E-portfolio students were more confident in judging their writing skills (content, organization, word choice, conventions) than conventional-group students](../claims/eportfolio-writing-self-efficacy-confidence.md) [+M] — instruction changes it
+- [Enhanced extensive reading yields small-to-large effect sizes across writing subscales, with the largest effects in spelling/mechanics and fluency](../claims/er-writing-effect-sizes-small-to-large.md) [+M] — instruction changes it
+- [In the experimental group's skill rankings, search-engine searching, research proposal writing, and results interpretation ranked highest, while annotated bibliography, literature review, and introduction writing ranked lowest](../claims/experimental-group-skill-ranking-pattern.md) [+M] — instruction changes it
+- [PAL lesson plans delivered in a Tier 2 RtI model produced an accelerated rate of growth in writing skills for at-risk second graders](../claims/pal-tier2-accelerated-writing-growth.md) [+M] — instruction changes it
+- [Seventh-graders using the CWB online interactive writing system significantly outperform a paper-and-pencil control group in argumentation on the post-test](../claims/cwb-system-improves-argumentation-posttest.md) [+M] — instruction changes it
+- [Seventh-graders using the CWB online interactive writing system significantly outperform the paper-and-pencil control group in text organization and structure on the post-test](../claims/cwb-system-improves-organization-posttest.md) [+M] — instruction changes it
+- [Students perceive peer review as improving composition quality, with ideas and structure benefiting most](../claims/peer-review-composition-quality-perception.md) [+M] — instruction changes it
+- [The authors report that traditional paper-and-pencil writing class helped already-skilled writers more, while weaker writers benefited less, over the study's short duration](../claims/paper-pencil-helps-skilled-writers-more.md) [~W] — an instructional effect differs with it
+- [The CWB online interactive system group shows significantly greater total-score progress in Chinese essay writing than the paper-and-pencil control group](../claims/cwb-total-score-progress.md) [+M] — instruction changes it
+- [The largest active-learning gains occurred in searching topics and keywords in search engines (skill 6) and writing and interpreting results of research tools (skill 12)](../claims/largest-gains-search-engines-and-results-interpretation.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

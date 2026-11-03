@@ -65,3 +65,4 @@ Thematic analysis of student post-surveys (n=79) and focus groups (n=18) in a qu
 - [Students agreed MI Write was useful, particularly for revising writing and identifying areas of improvement rather than learning about writing](mi-write-usefulness-revision-identification-over-learning.md) — related
 - [Students and faculty generally view rubrics positively but emphasize different functions](positive-student-faculty-perceptions-of-rubrics.md) — related
 - [A structured feedback format enabled peer observers to observe systematically and helped presenters identify areas to improve](structured-peer-feedback-format-improves-presentations.md) — related
+- [Interview data show students valued progress tracking and freedom, while a minority missed grades and found the procedures demanding](afl-interview-qualitative-responses.md) — related

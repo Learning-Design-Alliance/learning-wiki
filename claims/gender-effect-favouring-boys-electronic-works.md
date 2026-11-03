@@ -49,3 +49,4 @@ ANCOVA on posttest EWAT scores of the full sample (105 students: 76 boys, 29 gir
 - [Post-achievement differed significantly by gender in favor of males](post-achievement-gender-difference-favoring-males.md) — related
 - [No significant interaction between instructional treatment and gender on Electronic Works achievement](no-treatment-gender-interaction-electronic-works.md) — related
 - [Reflective inquiry instructional technique produces significantly higher achievement in Electronic Works trade than conventional teaching method](reflective-inquiry-beats-conventional-electronic-works.md) — related
+- [Preservice teachers' social skills differ significantly by gender on some SSES items, favouring male preservice teachers](sses-gender-difference-favouring-males.md) — related

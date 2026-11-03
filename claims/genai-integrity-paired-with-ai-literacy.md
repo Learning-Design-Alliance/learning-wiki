@@ -60,3 +60,4 @@ Document analysis of teaching-center, library, and initiative pages across the 5
 - [Students with a better understanding of how AI systems work show higher academic self-efficacy](ai-understanding-higher-self-efficacy.md) — related
 - [Existing generative AI guidance in higher education focuses on policy and academic integrity rather than learning mechanisms](existing-ai-guidance-focuses-policy-integrity.md) — related
 - [GenAI guidelines at top U.S. universities cluster into four topics: learning and assessment integration, visual/multimodal media, security and ethics, and academic integrity](four-topics-genai-guidelines-heis.md) — related
+- [Institutional approaches to academic integrity have shifted over two decades from punitive, rules-focused responses to educative, values-based approaches](ai-shift-punitive-to-educative-approaches.md) — related

@@ -74,3 +74,5 @@ The review reports, on the perception of preservice teachers, that Saavedra-Jeld
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — a broader claim this one bears on
 - [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — related
 - [EFL learners perceive AI-mediated instruction as engaging, personalized, anxiety-reducing, and empowering for autonomous learning](learner-perceptions-ai-engagement-personalization.md) — related
+- [E-portfolio use improved ESL students' perceived value of writing and writing self-concept, but not writing anxiety](eportfolio-improves-writing-value-self-concept-not-anxiety.md) — reports the opposite
+- [Most experimental-group students (61%) showed evidence of reflection in their portfolio writing](portfolio-reflection-61-percent-experimental.md) — a narrower finding that bears on this claim

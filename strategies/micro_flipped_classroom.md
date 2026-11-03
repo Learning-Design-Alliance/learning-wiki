@@ -68,6 +68,7 @@ The micro flipped approach combines first exposure outside class with active lea
 - [Use short, narrowly focused instructional videos tailored for online learning](short-tailored-instructional-videos.md)
 - [Flip the classroom by assigning pre-recorded multimedia lectures rather than textbook readings as the pre-class material](assign-multimedia-prelectures-when-flipping.md)
 - [Adopt the flipped classroom gradually: start small, front-load video preparation, gather student feedback, and scale up as comfort grows](gradual-flipped-classroom-adoption-strategy.md)
+- [Implement flipped reading instruction by assigning pre-class videos and reserving class time for collaborative application](flipped-reading-video-then-in-class-practice-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short single-concept videos with embedded practice; a ready-made micro-content library teachers assign before class.

@@ -43,6 +43,7 @@ The article recommends that direct instruction of metacognitive strategies be bu
 - [Integrate planning, monitoring and reflecting strategies systematically into early-childhood lesson design](embed-planning-monitoring-reflecting-early-childhood-lessons.md)
 - [Integrate metacognitive reading strategy tasks into regular EFL reading courses](integrate-strategy-tasks-regular-reading-courses.md)
 - [Use reading strategies inventories to identify which strategies learners currently use before designing instruction](reading-strategies-inventories-to-design-instruction.md)
+- [Teachers should introduce learning strategies, find out what learners already use, and help them monitor and evaluate strategy use across tasks](teacher-guided-strategy-introduction-monitoring-evaluation.md)
 
 ## Examples
 -

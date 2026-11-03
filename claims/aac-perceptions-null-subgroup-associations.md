@@ -94,3 +94,5 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - [Demographics, child IQ, language, ASD diagnostic symptoms, and school SES did not moderate schoolMAX treatment outcomes on any of the three measures](schoolmax-no-moderation-demographics-iq-language-ses.md) — related
 - [Demographic variables showed negligible relationships with content knowledge posttests and teaching method](demographics-negligible-relationship-achievement-treatment.md) — related
 - [Posttest attitude differences did not vary by parents' educational level](mesnevi-values-education-no-parent-education-difference.md) — related
+- [Student background variables significantly affect learning motivation and demographic variables significantly affect learning achievement](background-demographic-variables-affect-motivation-achievement.md) — related
+- [Parents' educational level was not significantly related to post-training FLRA scores in the experiment group](parents-education-not-related-to-flra.md) — related

@@ -50,3 +50,4 @@ Main effects from the linear mixed-effects model for ARCS motivation (N = 222 fi
 - [In TTS dialogue-based lessons, the teacher–teacher format significantly moderates the motivation effects of both the CE factor (positive) and the RCE factor (negative)](tt-format-moderates-ce-rce-motivation.md) — related
 - [The teacher–teacher format received a significantly lower overall evaluation than the teacher–student format despite raising motivation, with no significant learner-characteristic interactions](tt-lower-overall-evaluation-divergence.md) — related
 - [Free-response improvement comments differed by format: stiffness of speech dominated for teacher–teacher and unnatural manner of speaking for student–student](free-response-improvement-labels-by-format.md) — related
+- [ARCS motivation factors significantly predict learning achievement](arcs-factors-predict-learning-achievement.md) — related

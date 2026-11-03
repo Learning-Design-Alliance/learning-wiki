@@ -72,3 +72,4 @@ Only math-response teachers were asked about lack of math content knowledge as a
 - [Time to plan, more than tools or training, was the largest reported barrier to implementing LVN strategies](time-biggest-barrier-strategy-implementation.md) — related
 - [Nearly all respondents said inadequate school time and opportunities for collaboration made cross-sector collaboration more difficult](inadequate-time-and-opportunities-hinder-collaboration.md) — related
 - [Nearly half of sources discussing assessment (29 of 63, 46%) maintain that assessment strategies for RI teaching are absent or inadequate](ri-assessment-measures-absent-or-inadequate.md) — related
+- [Administrators and teachers perceived collaborative group work and mathematical discourse as the strongest contributors to JEMP student achievement](jemp-collaborative-discourse-perceptions.md) — related

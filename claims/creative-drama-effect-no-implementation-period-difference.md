@@ -53,3 +53,4 @@ Meta-analytic moderator analysis of implementation period across five groups: th
 - [The effect of cooperative learning on mathematics achievement does not differ significantly by implementation period](implementation-period-moderator-not-significant.md) — related
 - [The effect of computer-based teaching on academic success does not differ significantly by implementation period, with the largest effect size in the nine-to-eighteen week period (ES = 1.87)](cbt-effect-no-difference-by-implementation-period.md) — related
 - [SEM intervention periods of no more than 18 sessions are effective; periods of 18 or more sessions show no significant effect](sem-period-moderator.md) — related
+- [The effect of drama on social communication skills differs significantly by implementation period, with 2-4 week interventions showing the highest effect size](drama-effect-differs-implementation-period.md) — related

@@ -75,3 +75,4 @@ Univariate posttest comparison from Table 3: the self-generated group (mean 3.89
 - [Self-regulated vs. externally regulated prompt presentation shows no significant effect on posttest performance and no interaction with prompt format](prompt-presentation-no-performance-effect.md) — related
 - [Elaboration strategy does not significantly affect students' attitudes toward the learning method](elaboration-strategy-no-attitude-effect.md) — related
 - [Prompted AI-supported learning raises overall post-test scores above both slide-based and unprompted AI conditions](prompted-ai-raises-overall-post-test-score.md) — related
+- [Acquisition of non-cognitive skills showed only a weak, statistically insignificant correlation with GPA (r = 0.064)](gpa-correlation-weak-insignificant-0-064.md) — related

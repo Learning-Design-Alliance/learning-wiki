@@ -70,6 +70,7 @@ Dialogic reading converts a typically receptive activity into [Active Learning](
 - [Scaffolding storytelling: guiding a child to create their own story about new material through open-ended questions, hints, and validation](scaffolding-storytelling-strategy.md)
 - [Implementation recommendations: increase pupil motivation, clarify session structure in training, and trial an expanded dialogic reading component separately](chatterbooks-implementation-recommendations.md)
 - [Select books with detailed, varied, culturally relevant illustrations for dialogic reading with young children](select-detailed-culturally-relevant-books-for-dialogic-reading.md)
+- [Use portraiture as a contemplative classroom technique in which learners create their own stories of life events](portraiture-contemplative-classroom-technique.md)
 
 ## Related Elements
 - [Scaffolding](../elements/scaffolding.md) — the adult's expansions are contingent support calibrated just above the child's current language

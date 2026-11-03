@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 82 claims (50 show a difference, 20 mixed, 12 no difference) · 57 studies (39 causal, 6 associational, 4 review, 3 qualitative, 3 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 14 of 57 report an effect size · 79 claims rest on one study
+> **Evidence** · 86 claims (54 show a difference, 20 mixed, 12 no difference) · 58 studies (40 causal, 6 associational, 4 review, 3 qualitative, 3 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 15 of 58 report an effect size · 83 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -119,6 +119,10 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [On items requiring algebraic generalization, experimental students tended to express rules algebraically and reason with variable quantities, while comparison students gave single numeric answers, left items blank, or treated the number line as static](../claims/ea-experimental-algebraic-responses-on-open-items.md) [+M] — instruction changes it
 - [The EA intervention made the most difference on assessment items involving variables, functional relations, intra-mathematical contexts, tables, and algebraic expressions](../claims/ea-impact-items-variables-functions-tables-expressions.md) [+M] — instruction changes it
 - [The posttest advantage of differentiated algebra teaching persists four weeks later](../claims/tiered-differentiated-teaching-algebra-persistency-advantage.md) [+M] — instruction changes it
+- [JEMP participants significantly outperformed non-participants on grade eight Algebra CST scores, with a small effect](../claims/jemp-algebra-cst-ancova.md) [+W] — instruction changes it
+- [JEMP participants significantly outperformed non-participants on grade seven Pre-algebra CST scores after controlling for prior achievement](../claims/jemp-prealgebra-cst-ancova.md) [+M] — instruction changes it
+- [Students who participated in JEMP for two consecutive summers had significantly higher 2013 grade eight Algebra CST scores than untreated students](../claims/jemp-two-summer-longitudinal-advantage.md) [+M] — instruction changes it
+- [Urban middle school students showed significant growth on MDTP readiness tests after the six-week JEMP summer program](../claims/jemp-mdtp-readiness-growth.md) [+M] — instruction changes it
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

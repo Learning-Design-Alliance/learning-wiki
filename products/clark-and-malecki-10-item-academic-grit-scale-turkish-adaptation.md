@@ -26,7 +26,8 @@ A 10-item, single-factor, five-point Likert self-report scale adapted into Turki
 - [Academic grit has a significant positive effect on primary students' math achievement](../claims/academic-grit-positive-effect-primary-math-achievement.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Intercultural Sensitivity Scale (ISS)](intercultural-sensitivity-scale-iss.md)
 
 ## Key Sources
 - Kaya, S., & Karakoc, D. (2022). Math Mindsets and Academic Grit: How Are They Related to Primary Math Achievement?. European Journal of Science and Mathematics Education, 10(3), 298-309. https://doi.org/10.30935/scimath/11881

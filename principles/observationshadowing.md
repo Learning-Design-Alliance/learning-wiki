@@ -18,7 +18,7 @@ sources:
 # Observation/Shadowing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (10 for, 13 mixed) · 26 studies (6 review, 4 causal, 4 theoretical, 3 quant-synthesis, 3 associational, 3 qualitative, 3 design), `q1`–`q4` · 3 of 26 report an effect size · 20 claims rest on one study
+> **Evidence** · 25 claims (11 for, 14 mixed) · 27 studies (6 review, 5 causal, 4 theoretical, 3 quant-synthesis, 3 associational, 3 qualitative, 3 design), `q1`–`q4` · 3 of 27 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,7 @@ Claims that mention observation but bear on this page little or not at all:
 - [Critics argue experiential learning's weaknesses lie in the reflective observation phase; the authors counter that trainers can develop observation skills](../claims/critics-weak-reflective-observation-phase.md) [~W]: "reflective observation" here is a phase of Kolb's cycle (reflecting on one's own experience), not watching others; an argument with no data.
 - [In Coach Wright, Asset-mindset participants noticed Jeremy's positive behaviors while Deficit-mindset participants framed behavior as rule compliance, and strength language sometimes appeared without referencing actual strengths](../claims/coach-wright-topics-track-asset-deficit-mindsets.md) [~W]: in a digital teaching simulation, what participants noticed in a scenario was associated with their mindset; associational. It suggests that what an observer brings shapes what they record, which the debrief should check; it does not test observation as learning.
 - [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](../claims/reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) [~W]: teachers' talk in nine sessions at one school, a discourse analysis; noticing here means noticing in one's own classroom and talk, not observing others. It suggests that seeing something surprising is not enough to change a view without a conversation that holds it open.
+- [Students conducting live video observations produce richer scientific observation notes than students conducting onsite observations](../claims/lvo-richer-observation-notes-than-oso.md) [+W] — attached 2026-11-03 from Pickering et al. (2011), which proposed "Use instructor-facilitated, collective live video observation so the whole class can observe, discuss, and be guided in scientific observation methodology".
 
 ## Objective and learner-valued goal
 
@@ -151,6 +152,7 @@ What the observer can describe, what they can explain, their confidence, their o
 ## Claims
 
 - [SQU ELT trainers encouraged peer observation and same-day feedback sessions, with 78.9% of trainees agreeing trainers encouraged class visits and 81.9% agreeing feedback came the same day as observation](../claims/squ-trainers-encouraged-peer-observation-and-same-day-feedback.md) [+W]
+- [Students who experienced both methods rate live video observation as less distracting for children and more convenient than onsite observation](../claims/wave2-paired-lvo-advantages.md) [~W]
 
 ## Related Principles
 - [Mentoring/Coaching](mentoring-and-coaching.md) — observation and shadowing are often most effective when paired with guided interpretation from a mentor or coach.

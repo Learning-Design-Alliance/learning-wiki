@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 54 claims (33 for, 18 mixed, 3 against) · 33 studies (15 causal, 8 review, 6 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 8 of 33 report an effect size · 53 claims rest on one study
+> **Evidence** · 58 claims (36 for, 19 mixed, 3 against) · 34 studies (15 causal, 8 review, 6 quant-synthesis, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 34 report an effect size · 57 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -78,6 +78,10 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [91% of experimental group students said OrCheTaboo helped them learn functional-group concepts](../claims/orchetaboo-students-report-learning-help.md) [+W] — attached 2026-11-02 from Akkuzu et al. (2016), which proposed "OrCheTaboo game (Taboo-adapted card game for organic chemistry functional groups)".
 - [Students most often attributed OrCheTaboo's contribution to retention in learning, followed by fun learning, association between concepts, and increased motivation](../claims/orchetaboo-perceived-contribution-categories.md) [+W]
 - [Students' main difficulties during OrCheTaboo were associating concepts and giving scientific descriptions, with lack of knowledge and forbidden terms also cited](../claims/orchetaboo-student-difficulties-describing.md) [~W]
+- [Students in two gamified undergraduate media studies courses reported high enjoyment and that gamification held their attention at mid-course and term end](../claims/gamified-media-courses-high-enjoyment-attention.md) [+W] — attached 2026-11-03 from Robert Bajko et al. (2016), which proposed "Gamification layers for two undergraduate media studies courses: Social Media Celebrity (CMN 450) and a fully gamified ITM 445"; tests this page's relationship.
+- [Students reported that gamified weekly challenges and presentations encouraged participation with other students and supported practical application of course concepts](../claims/gamification-encourages-participation-practical-application.md) [+W] — attached 2026-11-03 from Robert Bajko et al. (2016), which proposed "Gamification layers for two undergraduate media studies courses: Social Media Celebrity (CMN 450) and a fully gamified ITM 445"; tests this page's relationship.
+- [Cooperative team-based competition in a gamified course was associated with high reported enjoyment of group work, in contrast to studies using solely competitive elements](../claims/cooperative-team-competition-group-work-enjoyment.md) [+W]
+- [Departmental grading rules forced one gamified course to run a dual grading structure, and gamifying the course alone appeared to sustain engagement even without tying marks to game points](../claims/department-rules-dual-grading-gamified-course.md) [~W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

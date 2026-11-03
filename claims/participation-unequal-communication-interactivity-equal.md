@@ -53,3 +53,4 @@ Same null-model comparison of communication structures across the twenty courses
 - [Neither a group awareness tool alone nor combined with adaptive prompts significantly changed the equality of participation in university online collaboration](gat-prompt-no-significant-equal-participation-effect.md) — related
 - [Perceived satisfaction correlates strongly and negatively with work imbalance (Gini index), and willingness to collaborate again correlates with group productivity](satisfaction-gini-correlation.md) — related
 - [Sequence-alignment clusters of small-group action logs differ in productivity and balance of contribution, with the largest cluster showing the lowest word count and highest imbalance](sequence-alignment-clusters-differ-in-quality.md) — related
+- [A minority of students reported negative views of Web 2.0 activities and problems with group work](web2-vocabulary-negative-comments-groupwork.md) — related

@@ -52,3 +52,4 @@ Field quasi-experiment with 42 female second-grade students (21 experimental, 21
 - [Saudi EFL preparatory students taught through a blended e-learning approach for 8 weeks outperformed a traditionally taught control group on an achievement test](blended-elearning-outperforms-traditional-efl-preparatory.md) — related
 - [Students in the WhatsApp blended course expressed significantly more positive attitudes toward their learning process than the fully in-class control group](whatsapp-blended-attitude-gains.md) — related
 - [Students in the Twitter-supported blended course reported more positive attitudes toward the learning process than students in the fully in-class course](twitter-blended-attitude-gain.md) — related
+- [Seven weeks of Smartboard instruction produced significantly higher post-treatment motivation than traditional whiteboard instruction in Saudi preparatory-year EFL learners](smartboard-raises-efl-motivation-saudi-pyp.md) — related

@@ -55,6 +55,7 @@ The article recommends incorporating metacognitive instruction into writing clas
 - [Explicit Writing Instruction](explicit-writing-instruction.md)
 - [Explicit Strategy Instruction](explicit-strategy-instruction.md)
 - [Self-Instruction](self-instruction.md)
+- [Teachers should introduce learning strategies, find out what learners already use, and help them monitor and evaluate strategy use across tasks](teacher-guided-strategy-introduction-monitoring-evaluation.md)
 
 ## Examples
 -

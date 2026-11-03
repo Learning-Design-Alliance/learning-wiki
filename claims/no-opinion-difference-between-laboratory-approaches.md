@@ -49,3 +49,5 @@ Post-test only comparison on the 16-item Student Opinion Scale (reliability 0,94
 - [Jigsaw group students reported mostly positive opinions, most commonly easier experiments, exchange of ideas, and shorter experiment duration](jigsaw-positive-student-opinions.md) — related
 - [The Jigsaw and control groups differed significantly in scientific process skills before treatment](spst-pretest-group-difference.md) — related
 - [Students taught with jigsaw reported positive views, rating it highly effective, student-centered, and achievement-enhancing](jigsaw-opinions-erzurum-7th-grade.md) — related
+- [Teaching physics in a science teaching laboratory practice course via the Jigsaw method based on cooperative learning yields higher achievement than the confirmatory laboratory method](jigsaw-lab-higher-physics-achievement-than-confirmatory.md) — related
+- [No statistically significant difference in GPA between the Jigsaw and control groups before treatment](no-gpa-difference-jigsaw-control-groups.md) — related

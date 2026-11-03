@@ -43,6 +43,7 @@ The article's implications section recommends building teacher capacity for 5E i
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
 - [Embed AI training for pre-service science teachers within science pedagogy and inquiry-based teaching rather than general tool operation](embed-ai-training-within-science-pedagogy-inquiry-teaching.md)
 - [Integrate the 5Es instructional strategy into civic education curricula, lesson plans, and teacher education](integrate-5es-into-civic-education-teaching.md)
+- [Involve students in the design of inquiry-based mobile learning activities and provide teachers with in-service training and constant support](student-involvement-and-teacher-training-mobile-inquiry.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 205 claims (133 show a difference, 37 mixed, 35 no difference) · 135 studies (55 causal, 32 associational, 22 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 38 of 135 report an effect size · 202 claims rest on one study
+> **Evidence** · 211 claims (136 show a difference, 38 mixed, 37 no difference) · 138 studies (58 causal, 32 associational, 22 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 39 of 138 report an effect size · 208 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -242,6 +242,12 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Keyword captions significantly improved EFL learners' general listening comprehension from pre-test to post-test](../claims/keyword-captions-improve-listening-comprehension.md) [+M] — instruction changes it
 - [Providing captions of any type improved general listening comprehension of EFL students compared with no captions](../claims/captions-any-type-effective-listening.md) [+M] — instruction changes it
 - [The no-captions control group also improved significantly in listening comprehension over the treatment period](../claims/control-group-listening-gains-without-captions.md) [+M] — instruction changes it
+- [A dual language narrative intervention improved English narrative retell skills of Spanish-speaking preschool DLLs in a multiple-baseline design](../claims/dual-language-narrative-intervention-improved-english-retells.md) [+M] — instruction changes it
+- [A metacognitive awareness-raising program improves the repair fluency of TEFL students' task-based oral output](../claims/metacognitive-awareness-improves-repair-fluency.md) [+M] — instruction changes it
+- [Beginning EFL learners who produced written output and received corrective feedback outperformed input-only learners on a delayed receptive vocabulary post-test](../claims/output-plus-feedback-outperforms-input-only-receptive-vocabulary.md) [+M] — instruction changes it
+- [Children maintained already high Spanish retelling skills during intervention, with no change in Spanish retells](../claims/spanish-retells-maintained-no-change.md) [-M] — instruction changes it
+- [Dual language narrative intervention produced a large English vocabulary gain (d = .98) but only a small Spanish vocabulary gain (d = .34)](../claims/english-vocabulary-large-effect-spanish-small.md) [~W] — instruction changes it
+- [Response to intervention varied individually and could not be predicted from children's Spanish language skills on the CELF-P-2](../claims/response-variability-not-predicted-by-spanish-scores.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

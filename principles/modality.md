@@ -66,7 +66,7 @@ sources:
 # Modality Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (10 for, 23 mixed, 4 against) · 32 studies (12 causal, 8 review, 7 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q3` · 8 of 32 report an effect size · 32 claims rest on one study
+> **Evidence** · 40 claims (11 for, 24 mixed, 5 against) · 33 studies (13 causal, 8 review, 7 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q3` · 8 of 33 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -181,6 +181,7 @@ Read against the model on 2026-10-19; the eight bullets that changed it now sit 
 - [In one 37-student classroom experiment, recall and retention differ across media combinations](../claims/media-combinations-affect-recall-and-retention.md) [~W]: a conference paper with no effect size, which varied text and image combinations; it does not isolate spoken against printed words.
 - [Screencast design findings](../claims/screencast-design-movement-narration-handwriting.md) [~W]: a review's report of a typology of screencast narration (explicit or implicit) and of a preference for handwriting; no learning outcome compared.
 - [Decoding ability predicted retrieval, transfer, and retention, and interacted with modality so that video retention benefits were largest for children with weaker decoding](../claims/decoding-interaction-modality-retention.md) [+W] — attached 2026-10-22 from Haavisto et al. (2025), which proposed "Incorporate videos into primary science instruction to support learners with weaker reading skills"; tests this page's relationship.
+- [Third-grade pupils using the audio-and-image (AI) mode attained significantly higher music theory post-test scores than pupils using the text-and-image (TI) mode](../claims/ai-mode-outperformed-ti-mode-music-theory.md) [+W] — attached 2026-11-03 from Osamah (Mohammad Ameen) Ahmad Aldalalah et al. (2010), which proposed "Integrate the modality principle into music theory courseware by replacing onscreen text with narration accompanying images"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -196,6 +197,8 @@ The expectation should weaken if new system-paced comparisons, with comparable l
 - [Transient information effect: lengthy spoken text can reverse the modality effect, while shorter spoken text restores the conventional modality advantage](../claims/transient-information-effect-reverse-modality-length.md) [~W]
 - [The modality effect may disappear or reverse for lengthy, complex spoken text](../claims/modality-effect-reversal-complex-spoken-text.md) [~W]
 - [The modality effect on inference-based questions is serially mediated by personal references and comprehensiveness of explanations](../claims/serial-mediation-social-presence-comprehensiveness.md) [~W]
+- [Pupils using the audio-and-image (AI) mode significantly outperformed pupils using the audio-image-text (AIT) mode on the music theory post-test](../claims/ai-mode-outperformed-ait-mode-music-theory.md) [~W]
+- [There was no significant difference in music theory post-test scores between pupils using the text-and-image (TI) mode and the audio-image-text (AIT) mode](../claims/ti-vs-ait-no-significant-difference.md) [-W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

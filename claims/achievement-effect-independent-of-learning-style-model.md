@@ -52,3 +52,4 @@ Categorical moderator analysis comparing the 4MAT, Perceptual, Dunn & Dunn and K
 - [Correlational meta-analyses of learning styles and achievement average r = 0.24 but do not test or support the matching hypothesis](learning-style-achievement-correlations-r24.md) — related
 - [Learning-styles-tailored instruction shows a large pooled effect on students' attitudes toward courses (d = 1.113)](learning-styles-instruction-large-pooled-attitude-effect.md) — related
 - [Learning-styles-tailored instruction shows a large pooled effect on retention, with inconsistent printed values (d = 1.763 in Table 7; d = 1.290 in the abstract and discussion)](learning-styles-instruction-large-pooled-retention-effect.md) — related
+- [There is an interaction effect between cooperative learning model and Kolb learning style on learning results in Basics of Political Science](interaction-cooperative-model-learning-style-outcomes.md) — related

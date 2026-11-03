@@ -60,3 +60,5 @@ Authors' interpretation of the questionnaire data: the lowest-ranked items were 
 - [Two major challenges undermine gamification's effect on intrinsic motivation: students' lack of perceived competence and lack of perceived autonomy](gamification-challenges-competence-autonomy.md) — related
 - [The sports education model raises students' interest/enjoyment in physical education lessons more than the direct teaching model](sem-raises-interest-enjoyment-over-direct-teaching.md) — related
 - [The authors interpret the findings as stressing the role of interest and interest-driven motivation in L2 vocabulary acquisition](interest-affective-factor-vocabulary-acquisition.md) — related
+- [A majority of students rated the gamified courses enjoyable or very enjoyable, with some reporting reduced school-related stress compared with non-gamified classes](gamified-courses-majority-enjoyable-stress-relief.md) — reports the opposite
+- [Students in two gamified undergraduate media studies courses reported high enjoyment and that gamification held their attention at mid-course and term end](gamified-media-courses-high-enjoyment-attention.md) — reports the opposite

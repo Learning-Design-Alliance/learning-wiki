@@ -49,3 +49,4 @@ Quasi-experimental pre-test/post-test control-group study of 75 gifted secondary
 - [Gender has no significant main effect on gifted students' post-test achievement in the study](gender-no-significant-main-effect-gifted-achievement.md) — related
 - [Treatment (7E learning cycle, case-based learning, or conventional teaching) has a significant main effect on senior secondary students' chemistry achievement](treatment-main-effect-chemistry-achievement-adesoji.md) — related
 - [The study's null hypothesis of no pre-test/post-test difference in scores was rejected](null-hypothesis-rejected-pre-post-english.md) — related
+- [Students' learning motivation has a significant impact on their learning achievement in the system analysis unit](learning-motivation-impacts-achievement-system-analysis.md) — related

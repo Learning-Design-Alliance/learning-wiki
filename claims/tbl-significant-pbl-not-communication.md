@@ -54,3 +54,4 @@ Subgroup meta-analysis by teaching method for communication skills (Table 6). TB
 - [PBL shows no benefits for hands-on, communication, or self-directed learning skills and no advantage in operational skills for diagnostic imaging](pbl-no-benefit-hands-on-communication-self-directed.md) — related
 - [TBL significantly improves teamwork skills compared with PBL (SMD = 1.18)](tbl-improves-teamwork-skills-versus-pbl.md) — related
 - [Non-technical skill outcomes of TBL are mixed, with positive findings for communication, decision-making, self-study and emotional intelligence](tbl-non-technical-skills-mixed.md) — related
+- [Students perceived PBL as providing significant benefits to presentation skills, teamwork, leadership and ability to use IT](pbl-significant-perceived-skill-benefits.md) — related

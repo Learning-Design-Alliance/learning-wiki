@@ -50,3 +50,4 @@ A quasi-experimental study of 42 sixth-grade Saudi students compared an experime
 - [Students' perception that visual strategies are better than traditional methods strongly predicts their preference for using them.](perceived-usefulness-predicts-preference-for-visual-strategies.md) — related
 - [Explicit instruction of four reading comprehension strategies with short stories yields higher reading comprehension post-test scores than regular syllabus instruction in EFL preparatory students](explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) — related
 - [Integrating spelling games with visualisation strategies can re-motivate students when performance dips mid-intervention.](spelling-games-reinforce-visualisation-strategies.md) — related
+- [Talking story books significantly improved Saudi young EFL learners' reading-based spelling skills relative to the control group](talking-story-books-spelling-skills.md) — related

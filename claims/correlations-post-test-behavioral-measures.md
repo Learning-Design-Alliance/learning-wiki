@@ -54,3 +54,4 @@ Pearson correlation analyses (n = 140) on the game experiment's behavioral measu
 - [Post-intervention knowledge and practice scores are positively correlated, suggesting education should be designed to bridge the knowledge-practice gap](knowledge-practice-correlation-diabetic-foot-care.md) — related
 - [Post-game competence, effort, and deep-learning strategy use correlate significantly with pre-game measures, but interest does not](pre-post-motivation-correlations-stability.md) — related
 - [Practical performance shows a statistically significant low correlation with student motivation](practical-performance-low-correlation-motivation.md) — related
+- [Time spent on the pre/post assessment correlated positively with most QR rubric scores, suggesting motivation contributes to scores](time-on-task-correlates-qr-scores.md) — related

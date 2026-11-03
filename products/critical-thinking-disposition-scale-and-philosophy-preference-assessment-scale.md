@@ -32,7 +32,8 @@ A paired set of Likert-type instruments comprising the Ricketts and Rudd Critica
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Intercultural Sensitivity Scale (ISS)](intercultural-sensitivity-scale-iss.md)
 
 ## Key Sources
 - Aybek, B., & Aslan, S. (2017). The Relationship between Prospective Teachers' Critical Thinking Dispositions and Their Educational Philosophies. Universal Journal of Educational Research 5(4). https://doi.org/10.13189/ujer.2017.050403

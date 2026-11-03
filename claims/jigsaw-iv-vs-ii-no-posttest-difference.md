@@ -48,3 +48,4 @@ Independent-group t-test comparing post-test scores of the 24-student Jigsaw IV 
 - [Jigsaw II instruction produced a statistically significant pre-to-post achievement gain in the control group](jigsaw-ii-significant-pre-post-gain.md) — related
 - [Jigsaw IV instruction produced a statistically significant pre-to-post achievement gain in the experiment group](jigsaw-iv-significant-pre-post-gain.md) — related
 - [No significant difference in achievement between ABSI and control groups on pre-test or post-test scores](absi-control-posttest-no-difference.md) — related
+- [No statistically significant difference in GPA between the Jigsaw and control groups before treatment](no-gpa-difference-jigsaw-control-groups.md) — related

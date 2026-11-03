@@ -51,3 +51,4 @@ Two-sample t-tests of fall-to-fall GPA and good academic standing for FYS (n=69)
 - [Undecided FTIC students in an FYS/learning-community intervention achieved significantly higher fall-to-spring GPA than control students](fys-lc-higher-fall-to-spring-gpa-undecided.md) — related
 - [Fall-to-spring and fall-to-fall retention rates did not differ significantly between intervention and control undecided students](no-significant-retention-difference-interventions.md) — related
 - [The three intervention sub-groups did not differ significantly on pre-matriculation at-risk characteristics](subgroups-similar-pre-matriculation.md) — related
+- [Paired-course students achieved an 84% success rate in environmental science and an 84% fall-to-spring retention rate versus 73% for a similar-SAT comparison group](paired-course-success-and-retention-rates.md) — related

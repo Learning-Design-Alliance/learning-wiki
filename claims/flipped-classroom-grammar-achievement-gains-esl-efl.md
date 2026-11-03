@@ -71,3 +71,4 @@ Post hoc comparison across the four pretest/posttest by group conditions in the 
 - [Both flipped and nonflipped ESL/EFL students showed statistically significant increases in self-reported grammar confidence over the semester](grammar-confidence-increased-both-groups.md) — related
 - [Perceived grammar-skill improvement did not differ between flipped and nonflipped students, and the confidence change was larger in the control group](perceived-grammar-skills-no-group-difference.md) — related
 - [Flipped classroom instruction produced significantly better post-test writing scores than traditional instruction among Iraqi EFL sophomores](fci-improves-iraqi-efl-writing-posttest.md) — related
+- [Prior EFL flipped-classroom studies report positive but partly non-significant performance effects](prior-flipped-efl-studies-mixed-performance-evidence.md) — related

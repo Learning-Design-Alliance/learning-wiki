@@ -49,3 +49,4 @@ PLS-SEM moderation tests (Table 8) in the 842-student Lesotho survey; all four i
 - [ARCS motivation did not significantly predict behavioral intention but exerted a strong direct effect on use behavior, dominating its explanation](arcs-motivation-drives-use-behavior-not-intention.md) — related
 - [ARCS motivation showed the strongest correlations in the matrix with both behavioral intention and use behavior](arcs-strongest-correlations-intention-use.md) — related
 - [Technology acceptance conditions the virtual-real-imagination–behavioral-intention association, which is stronger at higher reported technology acceptance](technology-acceptance-moderates-vr-imagination-behavioral-intention.md) — related
+- [ARCS motivation factors significantly predict learning achievement](arcs-factors-predict-learning-achievement.md) — related

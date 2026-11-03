@@ -57,3 +57,4 @@ ANCOVA on the Problem Solving Inventory for Children (Cronbach's alpha .85) in t
 - [Undergraduate students taught IUPAC nomenclature of organic chemistry through an e-content package scored significantly higher on the post-test than students taught by conventional methods](e-content-package-posttest-advantage-iupac-nomenclature.md) — related
 - [CBI produced higher academic achievement than the conventional method for B.Ed. students in Optional 1 English](cbi-more-effective-than-conventional-method-b-ed-english.md) — related
 - [CBPSI significantly improved problem solving performance of Grade 10 learners from pre-test to post-test](cbpsi-improves-problem-solving-performance-grade-10.md) — related
+- [Students learning a system analysis unit with a 3D game-based learning system achieve higher post-test scores than students taught by traditional face-to-face instruction](3d-game-based-learning-higher-posttest-software-engineering.md) — related

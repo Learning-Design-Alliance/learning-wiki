@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 482 claims (260 show a difference, 97 mixed, 125 no difference) · 325 studies (152 associational, 119 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 53 of 325 report an effect size · 474 claims rest on one study
+> **Evidence** · 487 claims (262 show a difference, 98 mixed, 127 no difference) · 330 studies (153 associational, 123 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 53 of 330 report an effect size · 479 claims rest on one study
 
 ## How to read this page
 
@@ -521,6 +521,11 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [No significant gender difference in academic performance among students exposed to the demonstration method](../claims/gender-no-significant-difference-demonstration-borno.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No significant gender difference in academic performance among students exposed to the lecture method](../claims/gender-no-significant-difference-lecture-borno.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The constructivist model's effects on achievement and scientific thinking did not differ by gender](../claims/clm-effects-no-gender-difference.md) [-M] — an instructional effect differs by group
+- [All three GOAL intervention models increased girls' enrollment, completion, and grade promotion in Liberian primary schools](../claims/goal-interventions-increased-girls-outcomes-liberia.md) [+M] — an instructional effect differs by group
+- [Female biology education students' academic achievement in DNA replication increased significantly more than male students'](../claims/female-students-greater-dna-achievement-gain.md) [+M] — an instructional effect differs by group
+- [Learning achievement in game-based learning shows no significant difference between males and females](../claims/game-based-learning-achievement-no-gender-difference.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No significant gender difference in biology performance among students taught with individualised CAI](../claims/no-gender-difference-individualised-cai.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Preservice teachers' social skills differ significantly by gender on some SSES items, favouring male preservice teachers](../claims/sses-gender-difference-favouring-males.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

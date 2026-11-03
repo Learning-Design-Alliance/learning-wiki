@@ -49,3 +49,4 @@ Quasi-experimental pretest-posttest study with two intact groups of 38 intermedi
 - [Before treatment, the reciprocal teaching and control groups did not differ significantly on IELTS reading pretest scores](rtp-study-pretest-equivalence.md) — related
 - [NLP instruction significantly improves ESP reading comprehension of Iranian undergraduate EFL learners](nlp-instruction-improves-esp-reading-comprehension.md) — related
 - [Video-based instruction improves reading comprehension of Iranian intermediate EFL learners more than conventional instruction](video-materials-improve-reading-comprehension-iranian-efl.md) — related
+- [Contemplative teaching with transformative instruction significantly improved EFL reading comprehension compared with a conventional reading program](contemplative-teaching-improves-reading-comprehension.md) — related

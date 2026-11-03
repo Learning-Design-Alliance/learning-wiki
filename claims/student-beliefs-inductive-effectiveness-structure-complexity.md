@@ -52,3 +52,4 @@ Survey Section 3 items on beliefs about inductive versus deductive effectiveness
 - [All student groups preferred explicit over implicit grammar instruction](efl-students-prefer-explicit-over-implicit-grammar-instruction.md) — related
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — related
 - [Students taught fallacy detection by inductive drill on concrete examples decided argument validity more accurately than students taught by the regular deductive logic course](inductive-drill-superior-validity-decisions.md) — related
+- [Inductive grammar teaching produced significantly higher post-test grammar achievement than deductive teaching among Jordanian elementary-stage EFL students](inductive-beats-deductive-grammar-elementary-jordan.md) — related

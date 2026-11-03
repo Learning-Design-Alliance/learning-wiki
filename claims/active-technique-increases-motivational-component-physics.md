@@ -51,3 +51,4 @@ A quasi-experimental pedagogical study with 122 learners in the control group an
 - [Ninth-grade students taught Newton's Laws through project-based learning game techniques scored significantly higher on a concept achievement post-test than students taught by traditional methods](pbl-game-techniques-higher-physics-posttest.md) — related
 - [Cooperative learning reduced test anxiety relative to lecture-based teaching](cooperative-learning-lower-test-anxiety.md) — related
 - [Using scientists' biographies in physics teaching raises the level of the emotional component of learners' cognitive activity](biographic-materials-raise-emotional-component-cognitive-activity.md) — related
+- [Using e-teaching materials in future humanities teachers' training raised knowledge assimilation, assimilation quality and motivation relative to traditional teaching](e-teaching-materials-raise-assimilation-motivation-history-teachers.md) — related

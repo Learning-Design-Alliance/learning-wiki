@@ -58,6 +58,7 @@ Within the SSC, after the diagnostic assessment component, instructors teach a s
 - [Teach Mindfulness Strategies](teach_mindfulness_strategies.md)
 - [Name the Negative Voice](name_the_negative_voice.md)
 - [Positive Self Talk Modeling](positive-self-talk-modeling.md)
+- [Toolbox assignments applying taught reading strategies directly to the paired content course material](toolbox-assignments-applied-reading-strategies.md)
 
 ## Examples
 -

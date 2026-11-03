@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-03
 sources:
   - id: mohd-jasmy-abd-rahman-2014
     resource: "https://doi.org/10.5539/ies.v7n13p14"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Post-test motivation was significantly higher for the experimental group (mean 3.39) than the control group (mean 3.06), t = 6.44, Sig 0.01. [→ Mohd. Jasmy Abd Rahman 2014](#mohd-jasmy-abd-rahman-2014)
@@ -55,3 +56,4 @@ Quasi-experiment motivation measure: pre-test means nearly equal (3.05 vs 3.03, 
 - [Students taught with experiments perceived less cognitive load than students taught by traditional method](experiment-method-lower-perceived-cognitive-load.md) — related
 - [Computer assisted instruction with Derive reduced misconceptions and raised understanding across all six derivative attainments](derive-instruction-reduces-derivative-misconceptions.md) — related
 - [The proposed technique of active means and active learning methods increases the level of the motivational component of learners' cognitive activity in physics teaching](active-technique-increases-motivational-component-physics.md) — related
+- [Using e-teaching materials in future humanities teachers' training raised knowledge assimilation, assimilation quality and motivation relative to traditional teaching](e-teaching-materials-raise-assimilation-motivation-history-teachers.md) — related

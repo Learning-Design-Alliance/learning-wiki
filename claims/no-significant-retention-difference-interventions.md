@@ -69,3 +69,4 @@ Two-sample t-tests of fall-to-fall retention for FYS (n=69), FYS/LC (n=165), and
 - [Undecided FTIC students in an FYS/learning-community intervention achieved significantly higher fall-to-spring GPA than control students](fys-lc-higher-fall-to-spring-gpa-undecided.md) — related
 - [Statistically significant GPA and good-standing advantages for intervention groups disappeared by fall-to-fall measurement](significant-gains-vanish-fall-to-fall.md) — related
 - [Undecided FTIC students who completed a first-year seminar achieved significantly higher fall-to-spring GPA than undecided students in a control group](fys-higher-fall-to-spring-gpa-undecided.md) — related
+- [Paired-course students achieved an 84% success rate in environmental science and an 84% fall-to-spring retention rate versus 73% for a similar-SAT comparison group](paired-course-success-and-retention-rates.md) — related

@@ -47,3 +47,4 @@ Independent t-tests on rubric item No. 9 for control (n = 10) and experimental (
 ## Related Claims
 - [Children's adoption of book language in retellings varied by school site rather than by book type, with ULS retelling scores significantly higher while HS scores showed no significant change](book-language-varies-by-school-site.md) — related
 - [Preschool children's vocabulary use in retellings grew significantly after multiple book exposures in both control and experimental groups, with no significant difference between conditions](ebook-vocabulary-growth-both-groups-no-treatment-difference.md) — related
+- [PBL scored lower than non-PBL on stimulating students to carry on learning, though not statistically significantly](pbl-lower-stimulated-carry-on-learning-null.md) — related

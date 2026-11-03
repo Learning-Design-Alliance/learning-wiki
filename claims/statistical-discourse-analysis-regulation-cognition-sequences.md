@@ -55,3 +55,4 @@ Statistical discourse analysis combined with content analysis and discourse anal
 - [Personalized scaffolds increased frequencies of high cognition and monitoring relative to control, but learning outcomes did not differ between conditions.](scaffolds-changed-srl-processes-not-outcomes.md) — related
 - [Computer-based metacognitive scaffolding shows limited evidence of long-term retention or transfer of the scaffolded skills](limited-evidence-long-term-metacognitive-retention.md) — related
 - [The KnowCat computer-supported collaborative learning environment was evaluated for its impact on metacognitive knowledge development](knowcat-collaborative-environment-metacognitive-knowledge.md) — related
+- [The interactive training program did not develop planning, locus of control, or self-confidence, which the authors attribute to prior knowledge and insufficient activities](program-failed-planning-locus-self-confidence.md) — related

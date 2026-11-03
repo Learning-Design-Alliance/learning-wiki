@@ -53,3 +53,4 @@ Interview study with the 17 experimental-group participants, conducted in Persia
 - [Experimental-group learners expressed positive attitudes toward animation films in the reading class](positive-learner-attitudes-animation-films-reading.md) — related
 - [Participants in the experimental group held positive attitudes toward explicit instruction of lexical chunks](positive-attitudes-toward-lexical-chunks-instruction.md) — related
 - [Participants held positive attitudes toward Web-based reading strategy instruction](positive-attitudes-toward-web-based-strategy-instruction.md) — related
+- [Participants in the experimental group held positive attitudes toward contemplative and transformative L2 instruction](positive-attitudes-contemplative-instruction.md) — related

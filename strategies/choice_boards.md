@@ -66,6 +66,7 @@ Choice boards operationalize autonomy support: providing meaningful choices with
 - [Learning Menus](learning-menus.md) — a linear variant with required core plus optional sides
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
 - [Offer instructor-familiar graphic novel options to reduce preparation burden when implementing the comic-book assignment](instructor-familiar-graphic-novel-options.md)
+- [Implement Glogster and cooperative learning differentiated instruction through staged group inquiry with tiered, choice-based products](glogster-staged-group-inquiry-strategy.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — the strongest cells require applying learning to a new context, not restating it

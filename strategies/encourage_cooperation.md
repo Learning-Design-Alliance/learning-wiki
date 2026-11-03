@@ -67,6 +67,7 @@ Cooperative structures work because articulating ideas to peers forces elaborati
 - [Emphasize cooperation and communication to train students' cooperative consciousness](cooperation-communication-train-cooperative-consciousness.md)
 - [Heterogeneous team grouping with peer tutoring within CBI lessons](heterogeneous-team-grouping-peer-tutoring-cbi.md)
 - [Structure disability awareness programs to include extensive personal contact, joint participation, equal status, and cooperative interdependence](structure-interaction-equal-status-cooperative-interdependence.md)
+- [Deploy school computers for cooperative rather than one-per-student use](cooperative-computer-deployment-strategy.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the lowest-overhead cooperative format

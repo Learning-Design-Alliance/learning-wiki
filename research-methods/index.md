@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**969 entries** · 0 stable · 969 in review · 0 drafts
+**970 entries** · 0 stable · 970 in review · 0 drafts
 
 ---
 
@@ -738,6 +738,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Semantically equivalent prompt-variant benchmark construction for measuring prompt privilege](semantically-equivalent-prompt-variant-benchmark-construction-for-measuring-prompt-privile.md) - A benchmark construction methodology that instantiates prompt privilege on the MedQA benchmark: for each original MedQA question, four additional semantically equivalent prompt variants are generated representing distinct user cohorts — Low Literacy, Everyday User, Educated User, and Prompt Engineer
 * [Semi-supervised ANN framework combining ANNs with DINA and DINO diagnostic classification models](semi-supervised-ann-framework-combining-anns-with-dina-and-dino-diagnostic-classification.md) - The article proposes a framework that combines artificial neural networks with two typical theoretical diagnostic classification models, the DINA model and the DINO model, within a semi-supervised learning framework.
 * [Semi-supervised deep learning bias-adjustment framework for IRT parameter estimation under nonignorable missingness](semi-supervised-deep-learning-bias-adjustment-framework-for-irt-parameter-estimation-under.md) - The article introduces a framework combining semi-supervised learning with deep learning to adjust biased 2PL-IRT parameter estimates caused by nonignorable missingness in VLE data.
+* [Sensitivity analysis for subgroup measurement definitions in education impact evaluations](sensitivity-analysis-for-subgroup-measurement-definitions-in-education-impact-evaluations.md) - The article recommends that subgroup measurement decisions in preschool evaluations be deliberate and tested rather than default.
 * [Sentence-level social network analysis pipeline for eye-tracking reading data](sentence-level-social-network-analysis-pipeline-for-eye-tracking-reading-data.md) - A reusable analytic pipeline in which fixations are filtered (Tobii I-VT), sentence AOIs are classified as topic-introducing, topic-medial or topic-ending, AOI strings are converted to transition matrices, and weighted networks are built in R with igraph to compute strength, betweenness, harmonic ce
 * [Separate teacher marks and standardized test performance as distinct latent achievement constructs in longitudinal panel models](separate-teacher-marks-and-standardized-test-performance-as-distinct-latent-achievement-co.md) - The article recommends that future investigations on causal ordering include both marks and test performance as distinct latent variables rather than a single achievement indicator, because single-indicator models yield artificially reciprocal patterns.
 * [Sequence alignment and clustering for collaborative-learning process analysis](sequence-alignment-and-clustering-for-collaborative-learning-process-analysis.md) - The article adapts sequence alignment from bioinformatics: group action logs are human-coded into contribution types — \"coordination, monitoring, minor contribution, and major contribution\" — plus a \"gap\" code for more than 24 hours of inactivity.

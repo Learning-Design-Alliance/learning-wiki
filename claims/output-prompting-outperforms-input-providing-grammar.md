@@ -69,3 +69,4 @@ The same one-way ANOVA run on pretest scores showed no significant difference am
 - [Uptake rates do not differ significantly between input-providing and output-prompting feedback groups](no-uptake-difference-input-output-groups.md) — related
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — a broader claim this one bears on
 - [All three groups benefited from the instructional intervention, with both experimental groups benefiting the most](all-groups-benefited-experimental-most.md) — related
+- [Within the output-producing group, high-feedback receivers significantly outperformed both low-feedback receivers and the input-only control group](high-feedback-receivers-outperform-low-feedback-and-control.md) — related

@@ -66,6 +66,7 @@ Shared ownership operationalizes culturally relevant pedagogy's "academic succes
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — the choice-and-reflection cycle that operationalizes student ownership day to day
 - [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — community norms that make shared ownership safe to exercise
 - [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)
+- [Managing a PBL class: heterogeneous small groups, facilitator monitoring, and a closing debriefing to correct misconceptions](pbl-class-management-groups-debriefing.md)
 
 ## Examples
 - **EL Education (formerly Expeditionary Learning)** — network of schools using crew structures and long-term expeditions with authentic products for community audiences; student-led conferences and crew culture institutionalize shared ownership. [https://eleducation.org](https://eleducation.org)

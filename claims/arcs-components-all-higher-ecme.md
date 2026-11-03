@@ -53,3 +53,4 @@ satisfaction 40.86±2.71 50.17±7.34 6.51 0.001"
 - [Lack of active involvement in problem-solving decreased participants' satisfaction with AI-generated essays](ai-essay-scaffolding-reduced-satisfaction-from-lack-involvement.md) — related
 - [Experimental-group students reported high positive motivation toward the AR-developed Ottoman vocabulary material across the ARCS sub-dimensions](ar-ottoman-material-high-motivation-arcs.md) — related
 - [OER-based blended learning with Quipper School raised relevance and confidence motivation significantly higher than face-to-face classroom learning](oer-blended-quipper-relevance-confidence.md) — related
+- [After using the game-based learning system, students report positive motivation, with about 80% satisfaction and 83% confidence](arcs-questionnaire-positive-motivation-satisfaction-confidence.md) — related

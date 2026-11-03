@@ -53,6 +53,7 @@ The article's concrete recipe: divide students into homogeneous groups by pre-te
 
 - [Differentiated Teaching](differentiated_teaching.md)
 - [Assess and Differentiate](assess_and_differentiate.md)
+- [Implement Glogster and cooperative learning differentiated instruction through staged group inquiry with tiered, choice-based products](glogster-staged-group-inquiry-strategy.md)
 
 ## Examples
 -

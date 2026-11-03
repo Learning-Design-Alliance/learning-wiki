@@ -52,3 +52,4 @@ The overview authors prepared plain language summaries for 37 teaching strategie
 - [Joy was the predominant emotion in compulsory primary education PE, linked to diverse content, cooperative games, absence of competitiveness and cathartic release](joy-predominant-cpe-pe.md) — related
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — a narrower finding that bears on this claim
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — a narrower finding that bears on this claim
+- [Attitudes and expectations toward course gamification differed between avid gamers and non-gamers](gamer-non-gamer-attitude-differences.md) — related

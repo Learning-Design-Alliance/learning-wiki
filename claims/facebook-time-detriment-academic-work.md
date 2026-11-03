@@ -49,3 +49,6 @@ Self-report survey data: "25 per cent of respondents felt that their academic wo
 - [Facebook acted as part of the 'social glue' helping first-year students settle into university life, though most students did not see it as crucial to overcoming loneliness.](facebook-social-glue-settling-in.md) — related
 - [First-year students used Facebook mainly for social purposes and only secondarily for informal student-to-student academic purposes, rarely for formal teaching.](facebook-social-not-formal-teaching.md) — related
 - [Students were generally opposed to tutors contacting them via Facebook for formal teaching, though a majority saw some role for departmental and module-level administrative uses.](student-opposition-tutor-facebook-contact.md) — related
+- [Students reported high engagement perceptions, including feeling connected with the university through Facebook conversations with classmates](facebook-course-engagement-perceptions.md) — related
+- [Time spent on Facebook correlates with co-curricular participation and socializing but not with class preparation time](facebook-time-correlates-cocurricular-not-preparation.md) — related
+- [Amount of time spent on Facebook and on co-curricular activities are significant predictors of student grades](facebook-time-predicts-grades.md) — related

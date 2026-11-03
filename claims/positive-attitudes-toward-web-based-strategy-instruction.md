@@ -52,3 +52,4 @@ Open-ended attitude questionnaire (adopted from Soonthornmanne, 2002, and slight
 - [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related
 - [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related
 - [Experimental participants report positive attitudes toward timed reading, citing better concentration, confidence, and motivation to read more](timed-reading-positive-attitudes.md) — related
+- [Participants in the experimental group held positive attitudes toward contemplative and transformative L2 instruction](positive-attitudes-contemplative-instruction.md) — related

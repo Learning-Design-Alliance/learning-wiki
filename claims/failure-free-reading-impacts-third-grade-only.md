@@ -60,3 +60,4 @@ In the randomized trial's individual-intervention estimates (Table 2), Failure F
 - [A struggling fifth-grade reader with ADHD gained one full grade level in reading over six weeks of iPad-mediated tutoring](ipad-tutoring-one-grade-level-growth-six-weeks-adhd-case.md) — related
 - [The Power4Kids first-year report presents impacts on reading achievement at the end of the intervention year, with nearly 800 children in the study](power4kids-first-year-reading-achievement-impacts.md) — a broader claim this one bears on
 - [Younger children have difficulty extracting the abstract theme of a narrative text](children-difficulty-extracting-narrative-theme.md) — related
+- [The intervention benefited learners of all success levels in fifth grade but only very-good performers in third grade](intervention-benefit-by-success-score-grade.md) — related

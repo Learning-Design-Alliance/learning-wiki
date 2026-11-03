@@ -61,3 +61,4 @@ CRDC analysis of intersecting identities and suspension risk. The report contras
 - [Students in alternative schools experience extraordinarily high lost-instruction rates, with Black boys losing 235 days per 100 enrolled](alternative-schools-extreme-lost-instruction.md) — related
 - [Race-by-gender disparities are more pronounced: Black boys lost 132 days per 100 enrolled and Black girls lost 77, seven times the rate of White girls](gender-disaggregated-lost-instruction-disparities.md) — related
 - [Secondary students lose instruction due to out-of-school suspensions at more than five times the rate of elementary students (37 vs. 7 days per 100 enrolled)](secondary-suspension-lost-instruction-five-times-elementary.md) — related
+- [EU mainstream enrolment averages 98.49% while SEN identification rates average 4.75%, with boys (3.18%) identified at roughly twice the rate of girls (1.55%)](eu-sen-identification-rates-averages.md) — related

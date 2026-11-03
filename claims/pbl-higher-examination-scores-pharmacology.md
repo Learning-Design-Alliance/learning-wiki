@@ -65,3 +65,4 @@ Meta-analysis of 30 comparative studies involving 4119 participants reporting ex
 - [No difference between PBL and traditional groups in subjective evaluations of pharmacy students](pbl-no-difference-subjective-evaluations.md) — related
 - [Heterogeneity among pooled PBL trials in Chinese pharmacy education is high (I2 = 93%)](pbl-pharmacy-meta-analysis-high-heterogeneity.md) — related
 - [The review attributes to a meta-analysis that PBL pharmacy students performed better on midterm (OR = 1.46) and final examinations (OR = 1.60) than traditional-learning students, with no difference in subjective evaluations](meta-analysis-pbl-pharmacy-exam-performance-advantage.md) — related
+- [Active learning instruction produced significantly higher overall final exam scores than traditional lecture instruction in a preparatory-year writing and research course](active-learning-higher-final-exam-scores-writing-research.md) — related

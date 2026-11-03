@@ -12,7 +12,7 @@ generated:
 # Fuller's Concerns Theory of Teacher Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 qualitative), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Fuller (1969) grew concerns theory out of analysis of recorded interview transcripts with student teachers, tracking what problems and concerns they expressed at different points in their training. The theory conceptualizes a prospective teacher's development as a natural flow from concerns for self (teacher), to task (teaching), to impact (pupil).
@@ -47,6 +47,7 @@ Shulman (1992) identifies four types of knowledge important to this progression:
 
 - [Teachers' AI integration followed a developmental trajectory from self to task and impact concerns](../claims/ai-integration-self-task-impact-trajectory.md) [+W]
 - [Task-related concerns emerged around time management and classroom behaviour during AI implementation](../claims/task-concerns-time-and-behaviour-management.md) [+W]
+- [Teachers moving to the next developmental stage during the intervention had a statistically significant effect on their students' achievement](../claims/stage-movement-achievement-effect.md) [+W]
 
 ## Related Theories
 

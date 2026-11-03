@@ -49,3 +49,4 @@ Student-response evaluation comparing the direct instruction group (N = 140) and
 - [DPBL students scored higher than direct instruction students on knowledge, creative thinking, and teamwork in a Computer Networks course](dpbl-outperformed-direct-instruction-outcomes.md) — related
 - [The author proposes that students in flipped classes perceive less learning because they experience difficulty during class-time problem solving, whereas lecture students perceive understanding while following lectures](difficulty-in-class-lowers-perceived-learning.md) — related
 - [Medical students' satisfaction scores with DPBL exhibit marked variability ranging from 50 to 100%](dpbl-satisfaction-scores-marked-variability.md) — related
+- [Students reported that the DPBL approach improved knowledge, creative thinking and teamwork skills](dpbl-improves-knowledge-creative-thinking-teamwork.md) — related

@@ -58,6 +58,7 @@ The brief recommends that districts address AI literacy gaps through comprehensi
 - [Four-phase development roadmap for creating an SRL-Scaffolding Architecture](four-phase-roadmap-srl-scaffolding-architecture.md)
 - [Prioritize infrastructure-light KAS sub-dimensions in resource-constrained nursing curricula](infrastructure-light-kas-priorities.md)
 - [Phased implementation roadmap for departments adopting GenAI personalization](phased-genai-adoption-roadmap.md)
+- [Convene a stakeholder task force to use contradictory findings in future program design and implementation](stakeholder-task-force-contradictory-findings.md)
 
 ## Examples
 -

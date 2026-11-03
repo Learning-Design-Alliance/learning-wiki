@@ -68,3 +68,4 @@ Scheffe post-hoc analysis of motivation means (Table 10); the article also repor
 - [Nigerian secondary students taught physics with computer-assisted STAD and LTM cooperative strategies achieved significantly higher posttest scores than students taught with individualized computer instruction](cai-stad-ltm-outperform-ici-physics-achievement.md) — related
 - [All three groups gained from pretest to posttest, with the computer-assisted STAD group showing the highest mean gain score in physics achievement](stad-highest-mean-gain-achievement.md) — related
 - [No significant achievement difference between male and female students taught physics with computer-assisted Learning Together](no-gender-difference-cai-ltm-achievement.md) — related
+- [Secondary students exposed to CAI in either individualised or cooperative settings outperformed students taught biology by conventional classroom instruction](cai-beats-conventional-biology-nigeria.md) — related

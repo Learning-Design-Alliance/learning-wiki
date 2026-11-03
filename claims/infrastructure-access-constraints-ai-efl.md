@@ -83,3 +83,4 @@ Study-level frequency analysis across the 54 included studies identifies infrast
 - [Lack of technology access was the most commonly reported barrier to integrating the mathematics products](technology-access-greatest-integration-barrier.md) — a narrower finding that bears on this claim
 - [Internet and computer access problems limited participation in the online argumentation implementation](internet-access-limits-online-argumentation.md) — a narrower finding that bears on this claim
 - [Substantial technical problems with the adapted software prevented full implementation and drove school withdrawal](tutoring-with-alphie-software-problems-prevented-implementation.md) — a narrower finding that bears on this claim
+- [LMS and firewall restrictions prevent academic integrity content from being available to students before the first day of classes](lms-firewall-barriers-prearrival-ai-content.md) — a narrower finding that bears on this claim

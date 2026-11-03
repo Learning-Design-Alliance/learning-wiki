@@ -46,6 +46,7 @@ The authors recommend that applications based on metacognition be carried out at
 
 - [Integrate metacognitive strategy instruction across content areas and across before, during, and after phases of teaching](integrate-metacognition-before-during-after-lesson.md)
 - [Foster autonomy and curiosity-driven learning by embedding metacognitive processes and self-regulation elements into education](embed-metacognitive-srl-support-post-pandemic.md)
+- [Provide prospective teachers with cooperative learning experiences during pre-service training](pre-service-cooperative-learning-experiences.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Student-response evaluation in the same quasi-experimental comparison. Table 3 r
 - [Medical students' satisfaction scores with DPBL exhibit marked variability ranging from 50 to 100%](dpbl-satisfaction-scores-marked-variability.md) — related
 - [Students perceive DPBL tasks as providing ownership, autonomy, and flexibility](dpbl-tasks-ownership-autonomy-flexibility.md) — related
 - [Students report that feedback in DPBL is occasionally lacking despite general contentment with tasks](dpbl-feedback-occasionally-lacking.md) — related
+- [Students reported that the DPBL approach improved knowledge, creative thinking and teamwork skills](dpbl-improves-knowledge-creative-thinking-teamwork.md) — related

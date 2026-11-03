@@ -50,6 +50,7 @@ The report outlines six recommendations: (1) provide meaningful professional dev
 - [Six policy areas state leaders can implement to create equitable SEAD-supportive learning environments](six-policy-areas-equitable-sead.md)
 - [Professional development in asset-based pedagogies and adult SEL to build culturally affirming environments](pd-asset-based-pedagogies-adult-sel-sead.md)
 - [Three state levers for supporting local SEAD implementation](three-state-levers-sead-implementation.md)
+- [Organize school inclusion across three directions: inclusive culture, inclusive policy, and inclusive practices](three-directions-culture-policy-practices.md)
 
 ## Examples
 -

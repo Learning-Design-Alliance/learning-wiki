@@ -49,3 +49,4 @@ Qualitative open-thematic coding of semi-structured interviews with 5 experiment
 - [Iranian undergraduate EFL learners taught idioms with humorous video clips hold positive attitudes toward their classroom use](positive-attitudes-toward-humorous-video-clips.md) — related
 - [Blended instruction produced more positive attitudes toward music learning than face-to-face instruction](blended-music-course-more-positive-attitudes-than-ftf.md) — related
 - [Participants in the experimental group held positive attitudes toward explicit instruction of lexical chunks](positive-attitudes-toward-lexical-chunks-instruction.md) — related
+- [Almost all interviewed students held positive attitudes toward Web 2.0 tools for vocabulary learning](web2-vocabulary-positive-attitudes-interviews.md) — related

@@ -52,3 +52,4 @@ Qualitative semi-structured interviews with four OFD participants (S1–S4), ana
 - [EFL learners perceive AI-mediated instruction as engaging, personalized, anxiety-reducing, and empowering for autonomous learning](learner-perceptions-ai-engagement-personalization.md) — related
 - [Forums fostered feelings of relatedness through positive peer connections and shared struggles](forums-fostered-relatedness-peer-connections.md) — related
 - [A review of 17 e-learning course-design studies identified four major design themes: course structure, content presentation, collaboration and interaction, and timely feedback](lister-four-elearning-design-themes.md) — related
+- [Students report peer review fostered critical thinking, though confidence in identifying proper academic writing lagged](peer-review-critical-thinking-perception.md) — related

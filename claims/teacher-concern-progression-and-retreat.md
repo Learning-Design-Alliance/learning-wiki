@@ -55,3 +55,4 @@ Concern-pattern analysis across the three interviews (Table 7), where only two t
 - [Progress in evidence-based solution development is not always linear; evidence determines phase movement](evidence-determines-nonlinear-phase-movement.md) — related
 - [Not all educators develop impact concerns even when colleagues do; concern change cannot be forced by an outside agent](not-all-educators-develop-impact-concerns.md) — related
 - [Students varied in the speed of their developmental progressions but all reached the highest phase](varied-progression-speed-area-reasoning.md) — related
+- [Teachers' developmental stage of teaching skills significantly predicts student mathematics achievement, with higher stages performing better](teacher-stage-predicts-achievement.md) — related

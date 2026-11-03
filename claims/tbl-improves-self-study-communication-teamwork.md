@@ -76,3 +76,4 @@ Meta-analysis of 16 RCTs (1,267 students, interns and residents) in neurology ed
 - [TBL significantly increases students' learning attitude compared with LBL (pooled SMD = 3.23)](tbl-increases-learning-attitude.md) — related
 - [TBL develops more students' self-study ability than LBL according to student questionnaires](tbl-increases-self-study-ability-questionnaires.md) — related
 - [TBL develops students' thinking ability more than LBL, though with high heterogeneity driven by one study](tbl-increases-thinking-ability-questionnaires.md) — related
+- [Students perceived PBL as providing significant benefits to presentation skills, teamwork, leadership and ability to use IT](pbl-significant-perceived-skill-benefits.md) — related

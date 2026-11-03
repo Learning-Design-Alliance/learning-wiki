@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 84 claims (52 for, 31 mixed, 1 against) · 69 studies (31 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 21 of 69 report an effect size · 76 claims rest on one study
+> **Evidence** · 85 claims (52 for, 32 mixed, 1 against) · 70 studies (32 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 21 of 70 report an effect size · 77 claims rest on one study
 
 ## Description and scope
 
@@ -191,6 +191,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Teachers observed that cooperative learning boosted participation, confidence, and motivation, including among weak and shy students](../claims/cooperative-learning-teacher-observations-participation-confidence.md) [+W]
 - [Students were satisfied with Learning Together at high to highest levels and ranked it the most suitable instruction method for the course](../claims/lt-student-satisfaction-high-french-literature.md) [+W]
 - [Structured collaboration did not influence assignment completion time compared to free collaboration](../claims/structured-dpp-no-completion-time-effect.md) [~W]
+- [No significant gender difference in biology performance among students taught with cooperative CAI](../claims/no-gender-difference-cooperative-cai.md) [~W]
 
 ## Related Patterns
 
@@ -226,6 +227,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Rotate heterogeneous cooperative learning clusters across distinct cooperative techniques and topics throughout a unit](../strategies/rotate-heterogeneous-clusters-cooperative-techniques.md)
 - [Organise probability instruction in small supportive groups of two to four students working toward shared goals](../strategies/small-groups-two-to-four-shared-goals.md)
 - [Use STAD-style individual progress scores with translated group scores as grade incentives in cooperative learning](../strategies/individual-progress-score-group-incentive-strategy.md)
+- [Implement active learning techniques including peer collaboration, presentations, debates, and online discussion forums in writing and research instruction](../strategies/active-learning-techniques-writing-research-strategy.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

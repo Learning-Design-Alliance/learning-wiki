@@ -49,3 +49,4 @@ The same mixed between-within ANOVA across the three testing times showed a sign
 - [Longer time spent in the Parole software correlates with more words learned and retained](parole-study-duration-correlates-with-vocabulary-outcomes.md) — related
 - [Students report that Parole makes vocabulary learning permanent but time-consuming](parole-user-perceptions-permanence-and-time-cost.md) — related
 - [PBL-taught learners showed significantly higher vocabulary retention on delayed post-tests in all modules except module 3](pbl-improves-efl-vocabulary-retention.md) — related
+- [EFL students using Web 2.0 learner-created content scored significantly higher on a vocabulary post-test than a lecture-based control group](web2-learner-content-vocabulary-posttest-gain.md) — related

@@ -52,3 +52,4 @@ Quasi-experimental pre-test/post-test control-group study of 63 science-educatio
 - [Jigsaw cooperative learning produced better retention of knowledge after 11 weeks than traditional teaching](jigsaw-better-retention-eleven-weeks.md) — related
 - [Jigsaw cooperative learning produces higher posttest achievement than traditional teaching for preschool sense-organs instruction](jigsaw-outperforms-traditional-preschool-sense-organs.md) — a narrower finding that bears on this claim
 - [A week of reflective writing after a general chemistry lab experiment produces a statistically significant posttest increase compared to a control group](reflective-writing-significant-posttest-gain-chemistry-lab.md) — related
+- [Teaching physics in a science teaching laboratory practice course via the Jigsaw method based on cooperative learning yields higher achievement than the confirmatory laboratory method](jigsaw-lab-higher-physics-achievement-than-confirmatory.md) — related

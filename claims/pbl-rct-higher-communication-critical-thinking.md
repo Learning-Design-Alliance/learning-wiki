@@ -58,3 +58,4 @@ These four outcomes (problem-solving, self-directed learning, communication skil
 - [Students report higher teaching interest and satisfaction in PBL than in traditional teaching in orthopaedics education](pbl-higher-interest-satisfaction-orthopaedics.md) — related
 - [PBL teaching improves problem-solving, independent learning, teamwork, communication and clinical reasoning abilities more than traditional teaching in orthopaedics education](pbl-improves-process-abilities-orthopaedics.md) — related
 - [DPBL students scored higher than direct instruction students on knowledge, creative thinking, and teamwork in a Computer Networks course](dpbl-outperformed-direct-instruction-outcomes.md) — related
+- [Students perceived PBL as providing significant benefits to presentation skills, teamwork, leadership and ability to use IT](pbl-significant-perceived-skill-benefits.md) — related

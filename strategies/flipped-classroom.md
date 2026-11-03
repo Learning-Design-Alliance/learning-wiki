@@ -68,6 +68,7 @@ The model aligns with [Active Learning](../principles/active-learning.md): class
 - [Re-arrange and extend the web-assisted flipped-classroom activity materials to other science subjects and disciplines](rearrange-web-assisted-materials-other-subjects.md)
 - [Assess e-learning readiness and motivation before implementing the flipped classroom, and provide brief in-class explanations of out-of-class assignments](fc-readiness-assessment-and-assignment-briefing.md)
 - [Use quizzes or assignments due at the beginning of class to ensure students review materials and come prepared.](beginning-of-class-quizzes-assignments-preparation.md)
+- [Implement flipped reading instruction by assigning pre-class videos and reserving class time for collaborative application](flipped-reading-video-then-in-class-practice-strategy.md)
 
 ## Examples
 - **[Flipped Learning](../principles/flipped-learning.md)** — the general pattern this strategy instantiates; see also [Flipped Classroom](../principles/flipped-learning.md).

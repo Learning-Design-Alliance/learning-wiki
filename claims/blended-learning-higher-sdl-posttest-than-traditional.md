@@ -51,3 +51,4 @@ Kruskal-Wallis comparison of self-directed learning post-test scores across the 
 - [Students taught with the task-based robotics methodology formed cross-professional competences at a statistically higher level than students taught traditionally](robotics-task-approach-experiment.md) — related
 - [Students taught with the flipped classroom strategy scored significantly higher on a self-regulated learning skills scale than traditionally taught students](fcrs-raises-srls-versus-control.md) — related
 - [Blended learning raises fifth graders' achievement in My Beautiful Language Textbook more than traditional instruction](blended-learning-improves-arabic-textbook-achievement-grade5.md) — related
+- [Seven weeks of Smartboard instruction produced significantly higher post-treatment motivation than traditional whiteboard instruction in Saudi preparatory-year EFL learners](smartboard-raises-efl-motivation-saudi-pyp.md) — related

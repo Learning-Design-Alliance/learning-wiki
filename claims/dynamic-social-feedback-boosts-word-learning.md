@@ -46,3 +46,4 @@ In the same ERP/pupillometry study (Zappa et al., in press), correlations betwee
 
 ## Related Claims
 - [The number of conversational turns is more closely associated with children's language skills and language-related brain function than the raw number of words heard, regardless of family income or education.](conversational-turns-predict-language-development.md) — related
+- [The amount of feedback given for a specific word correlated positively with the number of correct responses to its post-test item](word-level-feedback-correlates-item-correct-responses.md) — related

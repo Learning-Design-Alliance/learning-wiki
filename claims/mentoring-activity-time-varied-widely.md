@@ -49,3 +49,4 @@ Weighted descriptive analysis of the mentoring survey reported in figure 1 and t
 - Teachers who find coaching valuable spend more time and meet more frequently with their coaches — related
 - [Student teachers who perceived their mentors modeled effective instruction and provided coaching, feedback, and job assistance felt better prepared, and domain-specific coaching was related to higher first-year REACH ratings](cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness.md) — related
 - [Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs](rtap-mentorship-value-and-variability.md) — related
+- [Experimental-group trainees reported more frequent observations and more systematic, adequate feedback than control-group trainees](csm-more-observations-feedback.md) — related

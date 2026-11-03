@@ -44,6 +44,7 @@ The package organises learning as six free-standing modules sequenced so learnin
 ## Related Designs
 
 - [CD-based e-learning module on Transistors with six interactive lessons](transistors-elearning-module-cd.md)
+- [Six-module academic integrity sequence combining values definitions, scenarios, multimodal tasks, quizzes and an integrative final test](fas-six-module-instructional-sequence.md)
 
 ## Related Patterns
 

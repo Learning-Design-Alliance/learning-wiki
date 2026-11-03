@@ -74,3 +74,4 @@ Thematic analysis of interview responses on perceived benefits. Three of 10 part
 - [Experimental-group students' syntactic parsing ability improved significantly from pretest to posttest after the 12-week instruction](syntactic-parsing-ability-improved-pretest-posttest.md) — related
 - [Experimental-group students held predominantly positive attitudes toward using the animated sitcom for grammar learning](positive-attitudes-animated-sitcom-grammar.md) — related
 - [Experimental participants report positive attitudes toward timed reading, citing better concentration, confidence, and motivation to read more](timed-reading-positive-attitudes.md) — related
+- [Participants in the experimental group held positive attitudes toward contemplative and transformative L2 instruction](positive-attitudes-contemplative-instruction.md) — related

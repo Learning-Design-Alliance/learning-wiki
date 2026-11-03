@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 84 claims (51 for, 30 mixed, 3 against) · 71 studies (49 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 16 of 71 report an effect size · 79 claims rest on one study
+> **Evidence** · 85 claims (51 for, 31 mixed, 3 against) · 72 studies (50 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 16 of 72 report an effect size · 80 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -120,6 +120,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Perceived difficulty of physics showed the greatest pre-post shift in the interactive multimedia group](../claims/perceived-difficulty-greatest-shift-esa.md) [+W]
 - [Embedded questions in video as synchronized subtitles do not affect SFL audiovisual comprehension test performance](../claims/embedded-subtitled-questions-no-test-performance-effect.md) [~W]
 - [The interactive multimedia group (ESA) differed significantly from both other groups on post-test physics popularity](../claims/esa-significant-difference-posttest-popularity.md) [+W]
+- [Smartboard teaching raised overall motivation, integrative orientation, instrumental orientation and linguistic self-confidence, but not self-efficacy beliefs or ought-to L2 self](../claims/smartboard-motivation-subcomponents-mixed.md) [~W] — attached 2026-11-03 from Ahmad et al. (2017), which proposed "Smartboard-based EFL instruction in a Saudi preparatory year programme"; tests this page's relationship.
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

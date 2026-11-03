@@ -47,3 +47,4 @@ Post hoc univariate intent-to-treat HLM analyses on the separate Standards 4-6 c
 ## Related Claims
 - [Standards 4-6 students assigned to CREST showed a statistically significant multivariate main treatment effect on the joint profile of positive youth development outcomes](crest-multivariate-effect-standards-4-6.md) — related
 - [Infant 1 and 2 students showed no statistically significant main or cross-level CREST treatment effects, which the authors attribute to low measurement reliability in ages 4-5](crest-null-effects-infant-1-2.md) — related
+- [Intervention outcomes did not depend on grade level: no grade differences and no condition-by-grade interactions](dialect-intervention-outcomes-invariant-across-grades.md) — related

@@ -48,6 +48,7 @@ Drawing on this evaluation, the report recommends that a multi-component literac
 - [Implementation recommendations: increase pupil motivation, clarify session structure in training, and trial an expanded dialogic reading component separately](chatterbooks-implementation-recommendations.md)
 - [Design future summer school trials and programmes to avoid recruitment, attendance and testing attrition](summer-school-trial-design-lessons.md)
 - [Clarify the role of targeted TA-led interventions within a broader teacher-led literacy strategy](clarify-targeted-intervention-within-teacher-led-strategy.md)
+- [Evaluate whole-school CPD with implementation measures tied to specific programme components](measure-implementation-components-whole-school-cpd.md)
 
 ## Examples
 -

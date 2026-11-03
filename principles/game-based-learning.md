@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 105 claims (55 for, 47 mixed, 3 against) · 79 studies (32 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 22 of 79 report an effect size · 99 claims rest on one study
+> **Evidence** · 106 claims (56 for, 47 mixed, 3 against) · 80 studies (33 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 22 of 80 report an effect size · 100 claims rest on one study
 
 ## Conditional relationship
 
@@ -226,6 +226,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Educational games significantly improve self-help for eating food in 8-12-year-old educable mentally retarded girls](../claims/educational-games-improve-self-help-eating.md) [+W]
 - [First graders in the game group nearly all learned to identify negative integers after playing the board game, far exceeding control gains](../claims/negative-integer-identification-gains.md) [+M]
 - [Students showed strong interest and full participation during marble-game lessons, per the authors' observations](../claims/marble-game-student-interest-participation.md) [~W]
+- [Students learning a system analysis unit with a 3D game-based learning system achieve higher post-test scores than students taught by traditional face-to-face instruction](../claims/3d-game-based-learning-higher-posttest-software-engineering.md) [+W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

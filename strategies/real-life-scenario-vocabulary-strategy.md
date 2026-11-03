@@ -49,6 +49,7 @@ The article recommends implementing authentic problem-based tasks in language cl
 - [Practice Responsible Decision-Making](practice_responsible_decision-making.md)
 - [Recommend PBL for high school chemistry teaching with daily-life scenarios](recommend-pbl-high-school-chemistry-scenarios.md)
 - [Use real-life examples within constructivist English teaching, while preparing for students who are not ready for independent learning](real-life-examples-constructivist-english-teaching.md)
+- [Focus on the quality of vocabulary instruction tasks rather than relying on authentic input sources when program constraints limit efficiency](quality-focused-vocabulary-instruction-strategy.md)
 
 ## Examples
 -

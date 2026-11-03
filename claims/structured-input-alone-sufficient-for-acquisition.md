@@ -50,3 +50,4 @@ Narrative review of processing instruction studies (e.g., VanPatten & Oikennon 1
 - Situational communication exercises alone produced statistically significant progress in both structural and communication skills — related
 - [Form-focused instruction can contribute to the acquisition of second language implicit knowledge, as shown in studies measuring learners' free production](ffi-contributes-to-implicit-l2-knowledge.md) — related
 - [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](form-focused-input-manipulation-illusory-for-competence.md) — reports the opposite
+- [Replication studies attribute PI's effects mainly to structured input activities rather than to explicit information or explicit feedback](pi-effects-due-to-structured-input-not-explicit-information.md) — a narrower finding that bears on this claim

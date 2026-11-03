@@ -53,3 +53,4 @@ Descriptive box-plot and mean comparison (Figure 3) of pre- and post-test marks 
 - [Descriptive posttest gains favored the PàN group (M=14.24 vs 9.23) but the difference was not deemed significant](pan-posttest-descriptive-gains-not-significant.md) — related
 - [In an A2 English course, the experimental group using authentic materials and tasks within a pedagogical project achieved a slightly higher post-test gain than the control group (0.4 vs 0.3 on a 0-5 scale)](authentic-materials-project-slightly-higher-posttest-gain.md) — a narrower finding that bears on this claim
 - [CPS sections showed larger pre-posttest gains than the control group despite lower pretest preparedness](cps-larger-preposttest-gains.md) — related
+- [Both traditional teaching and the OCRA approach significantly improved pre-test to post-test achievement, with a larger gain in the OCRA group](ocra-and-control-pre-post-gains.md) — related

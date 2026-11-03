@@ -49,3 +49,4 @@ A quasi-experimental 2×2 mixed ANOVA on pre- and post-test writing scores of 43
 - [The experimental and control groups did not differ significantly at pre-test but the experimental group outperformed the control group at post-test](ds-posttest-between-group-outperformance.md) — related
 - [Within-group score changes across pre-test, post-test and retention test were significant in both pretested groups, with larger variance explained in the experimental group](7e-within-group-gains-anova.md) — related
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related
+- [Active learning students outperformed traditional-instruction students on each of the 14 individual writing and research skills, with an average 10.5-point higher score](active-learning-gains-fourteen-individual-skills.md) — related

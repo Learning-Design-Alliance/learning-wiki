@@ -56,3 +56,4 @@ Qualitative descriptive analysis of a two open-ended-question questionnaire admi
 - [Jigsaw group students reported mostly positive opinions, most commonly easier experiments, exchange of ideas, and shorter experiment duration](jigsaw-positive-student-opinions.md) — related
 - [Participants held positive attitudes toward Web-based reading strategy instruction](positive-attitudes-toward-web-based-strategy-instruction.md) — related
 - [Students expressed positive opinions about the SQ3R intervention, while reporting that summarizing was difficult](student-positive-opinions-sq3r-intervention.md) — related
+- [Participants in the experimental group held positive attitudes toward contemplative and transformative L2 instruction](positive-attitudes-contemplative-instruction.md) — related

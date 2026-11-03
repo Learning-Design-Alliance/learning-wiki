@@ -57,3 +57,4 @@ Quasi-experimental comparison of final exam scores across four flipped college a
 - [Students in flipped sections scored significantly higher on total assessments than students in unflipped lecture-based sections](flipped-sections-higher-total-assessment-scores.md) — related
 - [Flipped courses show no reduction in academic performance compared with lecture-based courses.](flipped-courses-no-performance-reduction.md) — reports the opposite
 - [Regular classroom use of mobile devices with 3G was associated with higher total course achievement scores than the lecture-only section](mobile-3g-use-higher-achievement-scores.md) — a narrower finding that bears on this claim
+- [Active learning instruction produced significantly higher overall final exam scores than traditional lecture instruction in a preparatory-year writing and research course](active-learning-higher-final-exam-scores-writing-research.md) — related

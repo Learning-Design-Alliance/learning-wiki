@@ -58,3 +58,4 @@ Quasi-experimental group pre-test and post-test comparison of 276 third-year Com
 - [Purposely teaching for higher order thinking skills enhances high school students' critical thinking compared with traditional teaching](hots-teaching-enhances-critical-thinking.md) — related
 - [Problem solving strategy is more effective than the scientific approach for students' mathematical creativity](problem-solving-strategy-more-effective-creativity.md) — related
 - [Teamwork communication pedagogy through electronic networking sites increased student interest in learning](teamwork-electronic-networking-increased-interest.md) — related
+- [Students reported that the DPBL approach improved knowledge, creative thinking and teamwork skills](dpbl-improves-knowledge-creative-thinking-teamwork.md) — related

@@ -64,6 +64,7 @@ The model combines two well-supported mechanisms: shifting passive content deliv
 - [Use team-produced learner-generated materials built with user-friendly authoring tools as the in-class inquiry activity in a flipped language class](team-learner-generated-materials-strategy.md)
 - [In online flipped classrooms, set appropriate task difficulty, organize team grouping, build incentive mechanisms, and use multi-dimensional digital evaluation](online-flipped-classroom-task-difficulty-grouping-incentives.md)
 - [Build collaborative LO components for producing, testing and comparing arguments, and form heterogeneous groups of about three](collaborative-lo-argument-components-heterogeneous-groups.md)
+- [Implement flipped reading instruction by assigning pre-class videos and reserving class time for collaborative application](flipped-reading-video-then-in-class-practice-strategy.md)
 
 ## Examples
 - **Process-Oriented Guided Inquiry Learning (POGIL)** — [https://pogil.org](https://pogil.org) — students complete pre-class preparation, then work in role-assigned teams on guided-inquiry worksheets; widely used in undergraduate chemistry

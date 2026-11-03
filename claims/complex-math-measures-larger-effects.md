@@ -48,3 +48,4 @@ The moderation analysis compared pooled effect sizes for complex versus simple m
 - [Heterogeneity between studies of the metacognition–math association is significant and remains high in all moderator analyses](metacognition-math-heterogeneity-high.md) — related
 - [The combination of online metacognition measures with complex math assessments is associated with the largest effect sizes](online-complex-combination-largest-effects.md) — related
 - [Metacognition is significantly positively correlated with math performance in adolescence (pooled r = .37)](metacognition-math-correlation-adolescence-pooled.md) — related
+- [Learners benefited more from metacognitive instruction on complex, multi-operation and linguistically inconsistent word problems than on simple one-operation problems](metacognitive-instruction-benefits-complex-problems.md) — a narrower finding that bears on this claim

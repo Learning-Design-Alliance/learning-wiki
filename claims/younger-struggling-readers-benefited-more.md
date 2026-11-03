@@ -55,3 +55,4 @@ Across Tables 2 and 3, several fifth-grade impacts carry the report's marker for
 - [For fifth-grade struggling readers, the four interventions combined improved phonemic decoding on one measure but produced a small reduction in oral reading fluency one year after the interventions](fifth-grade-cohort-small-fluency-reduction.md) — a narrower finding that bears on this claim
 - [A struggling fifth-grade reader with ADHD gained one full grade level in reading over six weeks of iPad-mediated tutoring](ipad-tutoring-one-grade-level-growth-six-weeks-adhd-case.md) — related
 - [Younger children have difficulty extracting the abstract theme of a narrative text](children-difficulty-extracting-narrative-theme.md) — related
+- [The intervention benefited learners of all success levels in fifth grade but only very-good performers in third grade](intervention-benefit-by-success-score-grade.md) — related

@@ -48,6 +48,7 @@ The brief identifies six key policy issues for state and school leaders to creat
 - [Equitable access to rigorous and culturally sustaining curricula, including automatic advanced-coursework enrollment](rigorous-culturally-sustaining-curricula-access.md)
 - [Multi-pronged state investments to diversify and retain the educator workforce](state-investments-diversify-educator-workforce.md)
 - [Embed a race-equity lens in all local discipline actions and invest in supportive personnel over school police](race-equity-lens-local-discipline-implementation.md)
+- [Organize school inclusion across three directions: inclusive culture, inclusive policy, and inclusive practices](three-directions-culture-policy-practices.md)
 
 ## Examples
 -

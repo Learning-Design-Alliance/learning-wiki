@@ -46,6 +46,7 @@ Each 25–45-minute session followed a fixed sequence: 15–20 minutes of script
 ## Related Designs
 
 - [Paired Reading session procedure: supported reading, error correction with wait time, questioning, praise and log books](paired-reading-session-procedure-pattern.md)
+- [Four-step lesson algorithm: motivation, lecture, game training, reflection](motivation-lecture-game-training-reflection-lesson-algorithm.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Theoretical argument reviewing expertise research: adaptive experts' knowledge i
 - [Software analyses are presented as illuminating advantages of the reorganizer view for new visions of computers' cognitive benefits](software-analyses-illuminate-reorganizer-advantages.md) — related
 - [Learners construct theoretical understanding through varied approaches including deconstructing theory, distinguishing terminology, integrating with previous knowledge, openness to perspectives, personalizing, and application](sensemaking-approaches-varied.md) — related
 - [Deconstructing theory into smaller concepts alone is insufficient for deep theoretical understanding](deconstructing-theory-alone-insufficient.md) — a narrower finding that bears on this claim
+- [Ability for creative independent work is assessed at four levels, from ignorance of theory to independently posing and solving a problem](four-levels-creative-independent-work-ability.md) — related

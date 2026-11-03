@@ -50,3 +50,4 @@ Authors' reflection on shortcomings observed during the ADR-guided development a
 - [Technical integration with learning management systems and existing teacher tools eases Ecree adoption](lms-integration-eases-ecree-adoption.md) — related
 - [Stakeholder and literature analysis yields seven IDSA requirement groups covering functionalities, contact options, data-based individuality, testing, marketing, data protection, and usability](seven-idsa-requirement-groups-stakeholder-analysis.md) — related
 - [Most field-test students elected introductory tutorial information, supporting the tutorial requirement for usability](idsa-tutorial-uptake-supports-usability-requirement.md) — related
+- [LMS and firewall restrictions prevent academic integrity content from being available to students before the first day of classes](lms-firewall-barriers-prearrival-ai-content.md) — related

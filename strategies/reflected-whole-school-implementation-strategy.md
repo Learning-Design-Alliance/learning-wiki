@@ -46,6 +46,7 @@ Teachers in the trial suggested that ReflectED would work best as a whole-school
 ## Related Strategies
 
 - [Implementation recommendations: increase pupil motivation, clarify session structure in training, and trial an expanded dialogic reading component separately](chatterbooks-implementation-recommendations.md)
+- [Evaluate whole-school CPD with implementation measures tied to specific programme components](measure-implementation-components-whole-school-cpd.md)
 
 ## Examples
 -

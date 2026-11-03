@@ -67,3 +67,4 @@ Paired-samples t test for the advanced experimental group (n = 28): posttest mea
 - [EFL learners receiving proactive intensive FFI significantly outperform no-FFI control learners on grammatical knowledge](ffi-groups-outperform-control-grammar.md) — possibly the same claim (merge candidate)
 - [Proactive intensive FFI benefits intermediate EFL learners' grammatical knowledge more than advanced learners'](ffi-more-beneficial-intermediate-than-advanced.md) — related
 - [Proficiency level and input delivery method (FFI vs. no-FFI) interact significantly in their effect on grammatical knowledge](ffi-proficiency-interaction-grammar.md) — related
+- [Exposure to corrective feedback significantly improves EFL students' grammatical error detection ability](cf-improves-error-detection.md) — related

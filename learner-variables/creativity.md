@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 164 claims (123 show a difference, 27 mixed, 14 no difference) · 84 studies (37 causal, 19 associational, 13 review, 7 quant-synthesis, 4 design, 2 qualitative, 2 theoretical), `q1`–`q3` · 18 of 84 report an effect size · 162 claims rest on one study
+> **Evidence** · 165 claims (124 show a difference, 27 mixed, 14 no difference) · 85 studies (37 causal, 20 associational, 13 review, 7 quant-synthesis, 4 design, 2 qualitative, 2 theoretical), `q1`–`q3` · 18 of 85 report an effect size · 163 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -199,6 +199,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Blended learning improves the originality skill of verbal creative thinking](../claims/blended-learning-improves-originality-skill.md) [+M] — instruction changes it
 - [EFL learners with high creativity had better writing scores than those with low creativity](../claims/high-creativity-better-efl-writing.md) [+M] — learners who differ on it differ in outcomes
 - [Problem-Based Learning was reported as more effective than Content-Based Instruction for EFL learners with low creativity](../claims/pbl-better-for-low-creativity-learners.md) [+W] — an instructional effect differs with it
+- [Students reported that the DPBL approach improved knowledge, creative thinking and teamwork skills](../claims/dpbl-improves-knowledge-creative-thinking-teamwork.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

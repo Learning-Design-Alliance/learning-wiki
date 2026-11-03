@@ -50,6 +50,7 @@ The article's recommendations for developing proportional reasoning: teaching co
 
 - [Real World Math Applications](real-world_math_applications.md)
 - [Teach students to intentionally choose from alternative algebraic strategies when solving problems, after they have procedural fluency](intentional-alternative-strategy-choice-sequenced-after-fluency.md)
+- [Use a varied repertoire of engaging instructional strategies in intensive math intervention: hands-on activities, real-life applications, structured practice, daily homework, feedback, and high expectations](jemp-engaging-instructional-strategies.md)
 
 ## Examples
 -

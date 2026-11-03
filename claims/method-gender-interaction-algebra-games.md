@@ -68,3 +68,5 @@ ANCOVA of the interaction between method and gender (Table 6, 240 students) show
 - [Three-way interaction of group, gender and pre-achievement favored high-achievement males in the experimental group](three-way-interaction-group-gender-level.md) — related
 - [No significant gender differences in overall chemistry achievement or retention](no-gender-difference-achievement-retention.md) — related
 - [Treatment and gender did not interact significantly in their effects on algebra achievement](no-treatment-gender-interaction-algebra.md) — reports the opposite
+- [Learning achievement in game-based learning shows no significant difference between males and females](game-based-learning-achievement-no-gender-difference.md) — reports the opposite
+- [Preservice teachers' social skills differ significantly by gender on some SSES items, favouring male preservice teachers](sses-gender-difference-favouring-males.md) — related

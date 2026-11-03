@@ -55,3 +55,4 @@ Expert assessment of the model's individual elements on a five-level rating scal
 - [The TEFA-T model and its supporting products are rated Very Practical by instructors and students](tefa-t-very-practical-rating.md) — related
 - [Students in the cloud-based constructivism and connectivism model created 21 educational innovations, four accepted for academic publication](students-create-21-educational-innovations.md) — related
 - [Expert focus group rated the model appropriate at the highest level](expert-evaluation-model-appropriateness.md) — related
+- [Students rated their opinions of learning with the CoBl model at the high agreed level (overall mean 4.23)](cobl-student-opinions-high.md) — related

@@ -69,3 +69,4 @@ Two researchers coded participants' metaphors into positive and negative categor
 - [Five weeks of instruction in pragmatic routines significantly improved EFL learners' pragmatic competence relative to a control group](pragmatic-routine-instruction-improves-pragmatic-competence.md) — related
 - [EFL learners rank speaking as the skill most urgently needing improvement, with pragmatic routines the top speaking sub-skill](efl-learners-rank-speaking-and-pragmatic-routines-top-needs.md) — related
 - [Explicit teaching of pragmatic routines was more effective than implicit teaching, with implicit-group scores decreasing from pre- to post-test](explicit-teaching-beats-implicit-for-pragmatic-routines.md) — related
+- [EFL students taught communication strategies via explicit or co-constructed instruction employ the taught phrases more frequently in small-group discussions than untrained control students](strategy-training-increases-phrase-use-frequency.md) — related

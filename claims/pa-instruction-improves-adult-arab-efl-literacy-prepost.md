@@ -49,3 +49,4 @@ Paired-sample t-test on the treatment group (n=36 completers) in a quasi-experim
 - [Intensive exposure to EFL classes alone produced no statistically significant literacy gains in adult learners lacking basic literacy](intensive-exposure-alone-no-literacy-gain.md) — related
 - [An 11-week teacher-delivered phonological awareness intervention significantly improves kindergarten children's phoneme segmentation, letter knowledge, reading, and invented spelling](teacher-delivered-phoneme-awareness-kindergarten-improves-early-literacy.md) — related
 - [Adult Saudi learners held positive attitudes toward phonological awareness instruction, preferring it to their prior schooling](positive-attitudes-toward-pa-instruction.md) — related
+- [QDPR significantly improved Indonesian EFL learners' knowledge of the target English phonemes in a one-group pretest-posttest study](qdpr-improved-phoneme-knowledge.md) — related

@@ -120,3 +120,5 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Most integrated-course participants reported the format maximized learning time, inspired interest, enhanced understanding of key concepts, and allotted theory-practice time appropriately](integrated-histology-student-feedback.md) — related
 - [Two-dimensioned artistic activities were the most creative and most enjoyed part of the museum education program, letting students express feelings and thoughts](artistic-activities-most-creative-enjoyed.md) — related
 - [Students' views on the animated 5E activities clustered around active learning, motivation and enjoyment, with time demands as the main disadvantage](student-views-animated-5e-advantages.md) — related
+- [Participation in the Alkhimia curriculum shifted intervention students' identity perceptions and their dispositions toward scientific inquiry](alkhimia-shifts-identity-and-inquiry-dispositions.md) — related
+- [Teacher interviews attributed increased motivation and engagement to the visual and interactive features of learning objects in both settings](teacher-interviews-los-motivation-both-settings.md) — related

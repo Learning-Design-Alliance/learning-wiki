@@ -54,3 +54,4 @@ Descriptive survey results from 927 students grouped by year of study. The artic
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related
 - [Deductive reasoning develops in stages: explicit inference around ages 5-6, modus tollens around 9-10, and explicit metalogic in adolescence](deductive-reasoning-stages-explicit-metalogic.md) — related
 - [Grammar consciousness-raising activities produce significantly higher grammar posttest scores than deductive grammar teaching for young EFL learners](gcr-activities-significant-posttest-advantage-young-efl.md) — related
+- [Inductive grammar teaching produced significantly higher post-test grammar achievement than deductive teaching among Jordanian elementary-stage EFL students](inductive-beats-deductive-grammar-elementary-jordan.md) — related

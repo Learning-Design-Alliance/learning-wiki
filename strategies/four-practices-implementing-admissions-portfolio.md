@@ -46,6 +46,7 @@ The report relays the 2022 Reimagining College Access tool's recommended practic
 ## Related Strategies
 
 - [Calibration training and moderation to ensure reliable rubric-based portfolio review](calibration-training-moderation-portfolio-review.md)
+- [Implement e-portfolios gradually in English programmes with limited aims, ease of use and agreed goals](gradual-eportfolio-implementation-strategy.md)
 
 ## Examples
 -

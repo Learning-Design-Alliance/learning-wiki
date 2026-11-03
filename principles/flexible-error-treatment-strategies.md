@@ -31,7 +31,7 @@ sources:
 # Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (21 for, 21 mixed, 1 against) · 32 studies (14 causal, 8 review, 3 quant-synthesis, 3 theoretical, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 4 of 32 report an effect size · 39 claims rest on one study
+> **Evidence** · 44 claims (22 for, 21 mixed, 1 against) · 33 studies (15 causal, 8 review, 3 quant-synthesis, 3 theoretical, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 4 of 33 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,7 @@ Claims bearing on the page that have not been read against the model above; each
 - [Accuracy gains from unfocused WCF during revision do not extend to a new piece of writing after a one-month interval at the elementary level](../claims/unfocused-wcf-gains-do-not-extend-to-delayed-posttest.md) [~W] — attached 2026-11-02 from Mobin Khanlarzadeh (2016), which proposed "Treat WCF as one option among several, with teachers making professional decisions based on context".
 - [Focused written corrective feedback showed positive effect sizes in all cases, while comprehensive feedback showed negative effects for direct CF and mixed results for indirect CF](../claims/focused-feedback-positive-comprehensive-negative.md) [+W] — attached 2026-11-02 from Albatool Abalkheel et al. (2020), which proposed "Select a limited number of error types for written corrective feedback rather than addressing all errors in a composition"; tests this page's relationship.
 - [In the Sheen et al. (2009) study, focused direct CF produced a large positive effect while unfocused (comprehensive) direct CF produced a large negative effect](../claims/sheen-focused-versus-unfocused-dcf-mixed.md) [+W] — attached 2026-11-02 from Albatool Abalkheel et al. (2020), which proposed "Select a limited number of error types for written corrective feedback rather than addressing all errors in a composition"; tests this page's relationship.
+- [The authors interpret corrective feedback, rather than output production alone, as the factor most responsible for the experimental group's improved receptive vocabulary performance](../claims/feedback-more-responsible-than-output-interpretation.md) [+W] — attached 2026-11-03 from Mohammad Nowbakht (2015), which proposed "Give output production and corrective feedback, particularly clarification requests, a special role in vocabulary teaching programs".
 
 ## Objective and learner-valued goal
 

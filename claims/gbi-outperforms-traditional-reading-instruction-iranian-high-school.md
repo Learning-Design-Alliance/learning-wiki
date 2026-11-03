@@ -62,3 +62,4 @@ Quasi-experimental comparison of 40 experimental and 40 control participants aft
 - [Eleventh-grade students taught literature with the discourse analysis method showed larger pretest-to-posttest gains in reading comprehension than the traditionally taught control group](discourse-analysis-improves-reading-comprehension.md) — related
 - [Reading strategies training improves literal reading comprehension of elementary-proficiency EFL vocational students relative to conventional teaching](strategies-training-improves-literal-comprehension-efl.md) — related
 - [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in reading comprehension](web-based-instruction-outperforms-traditional-reading.md) — related
+- [Flipped model of instruction has a significant positive effect on Iranian EFL learners' reading comprehension](flipped-instruction-improves-efl-reading-comprehension.md) — related

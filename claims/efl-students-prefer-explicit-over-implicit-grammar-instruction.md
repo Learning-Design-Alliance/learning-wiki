@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-03
 sources:
   - id: daloglu-2020
     resource: "https://doi.org/10.5539/elt.v13n10p158"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When given a choice between implicit and explicit grammar instruction, all groups preferred explicit instruction. [→ Daloglu 2020](#daloglu-2020)
@@ -57,3 +58,4 @@ Descriptive survey results from 927 preparatory and undergraduate students. The 
 - [Deductive reasoning develops in stages: explicit inference around ages 5-6, modus tollens around 9-10, and explicit metalogic in adolescence](deductive-reasoning-stages-explicit-metalogic.md) — related
 - [CG-based form-focused instruction is at least moderately effective in fostering mostly explicit grammatical knowledge of the English present tense/progressive](cg-instruction-effective-explicit-grammar-knowledge.md) — related
 - [Most participants preferred the focus on formS approach and deemed it the most effective tense-teaching method](students-prefer-focus-on-forms-tense-teaching.md) — a narrower finding that bears on this claim
+- [Inductive grammar teaching produced significantly higher post-test grammar achievement than deductive teaching among Jordanian elementary-stage EFL students](inductive-beats-deductive-grammar-elementary-jordan.md) — related

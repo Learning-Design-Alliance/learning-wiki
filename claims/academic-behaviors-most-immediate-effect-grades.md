@@ -56,3 +56,4 @@ Interpretive summary of the review's synthesis across the five factor chapters. 
 - [Growth math mindset positively predicts academic grit in primary students](growth-math-mindset-predicts-academic-grit.md) — related
 - [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — reports the opposite
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — possibly the same claim (merge candidate)
+- [Interactive training produced statistically significant differences among the three teaching methods on the overall non-cognitive skills test and on empathy, growth mindset, and grit, in favor of the experimental group](interactive-training-significant-overall-three-dimensions.md) — related

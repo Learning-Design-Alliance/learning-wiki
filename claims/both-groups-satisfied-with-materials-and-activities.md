@@ -48,3 +48,4 @@ Based on a 10-item Likert-scale questionnaire and open-ended comments completed 
 - [Experimental-group students reported satisfaction with corpus-based lexical teaching while finding some materials too challenging](corpus-lexical-teaching-student-satisfaction.md) — related
 - [Over 90% of students reported satisfaction with online learning resources and completion of online assignments in the blended PET course](high-online-self-learning-satisfaction-blended-pet.md) — related
 - [Students overwhelmingly preferred video materials over text materials for learning technical ESP content](student-preference-video-over-text-esp.md) — related
+- [Students were highly satisfied with the paired course model and its components, with 100% willing to advise a new student to take the paired courses](paired-course-high-student-satisfaction.md) — related

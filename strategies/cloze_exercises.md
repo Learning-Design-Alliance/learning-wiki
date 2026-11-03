@@ -60,9 +60,11 @@ Cloze tasks convert reading from passive reception into generative retrieval: le
 6. Review answers, accepting justified synonyms, and discuss *why* each completion fits — the discussion, not just the completion, drives learning.
 
 ## Related Strategies
+
 - [Maze/Cloze Assessments](maze-cloze-assessments.md) — the multiple-choice variant used for screening and progress monitoring
 - [Vocabulary in Context](vocabulary-in-context.md) — cloze as a vocabulary-learning vehicle
 - [Reading Fluency Practice](reading-fluency-practice.md) — complementary oral-reading work; cloze addresses the comprehension side
+- [Direct textbook exercises at form and meaning of lexical phrases using matching and cloze tasks](textbook-matching-cloze-lexical-phrase-exercises.md)
 
 ## Examples
 - **Maze CBM screening** — Curriculum-based measurement (e.g., AIMSweb, FastBridge) uses 3-choice maze passages to monitor reading progress in grades 1–8 several times per year.

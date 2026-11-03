@@ -51,3 +51,4 @@ Discussion of the utterance-level I-position coding across both groups' dialogue
 - [In group B, usage of I–we gradually increased and peaked in the final stage during critical evaluation, suggesting intrapersonal collective voice drives critical evaluation of evidence](iwe-usage-peaked-final-stage-group-b.md) — related
 - [Shared technology resources can act as positioning artifacts around which students negotiate power and status differentials in CSCL groups](technology-as-positioning-artifact-power-status.md) — related
 - [Group A's two most common I-positions were I–it and I–me, while group B's were I–me and I–we, indicating different reliance on interpersonal versus intrapersonal voices](iposition-distribution-two-groups-cscl.md) — related
+- [The Alkhimia program shifted classroom culture toward student voice and valuing of multiple viewpoints](alkhimia-classroom-culture-student-voice-shift.md) — related

@@ -57,3 +57,4 @@ Descriptive analysis of the 10-item survey (Cronbach's alpha = .914, KMO = .846)
 - [In a 2012-13 survey of 241 junior-level engineering students, 92% identified as visual learners and 93% owned a smartphone or tablet](survey-visual-learners-device-ownership.md) — related
 - [Student satisfaction remained high in the blended format, with teaching evaluation scores above the program average in both groups](blended-teq-above-program-average.md) — related
 - [Both video and text/image groups reported satisfaction with the materials and activities in class](both-groups-satisfied-with-materials-and-activities.md) — related
+- [Students were highly satisfied with the paired course model and its components, with 100% willing to advise a new student to take the paired courses](paired-course-high-student-satisfaction.md) — related

@@ -71,3 +71,4 @@ Independent-sample t-test comparing male (n = 40) and female (n = 44) students w
 - [Post-achievement differed significantly by gender in favor of males](post-achievement-gender-difference-favoring-males.md) — related
 - [Male students showed no performance differences by condition in either study](male-students-no-condition-differences.md) — reports the opposite
 - [Female students in the experimental group performed significantly better than male students at post-measurement (p=.032)](busuu-gender-difference-post-test.md) — possibly the same claim (merge candidate)
+- [Female biology education students' academic achievement in DNA replication increased significantly more than male students'](female-students-greater-dna-achievement-gain.md) — related

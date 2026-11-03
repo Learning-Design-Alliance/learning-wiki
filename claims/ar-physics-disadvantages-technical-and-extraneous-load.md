@@ -51,3 +51,4 @@ The same 96-paper systematic review reports challenges alongside opportunities. 
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Legal and technical issues are described as the main challenges of developing and using virtual patients](vp-challenges-legal-technical.md) — related
 - [Substantial technical problems with the adapted software prevented full implementation and drove school withdrawal](tutoring-with-alphie-software-problems-prevented-implementation.md) — related
+- [Students' critical remarks identified pedagogical shortcomings and technological challenges, and the authors suggest implementation problems may explain the limited quantitative differences](implementation-problems-explain-limited-interest-differences.md) — related

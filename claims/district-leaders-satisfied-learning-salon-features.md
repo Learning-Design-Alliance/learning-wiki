@@ -50,3 +50,4 @@ Descriptive post-engagement survey (15 Likert and open-ended items via Qualtrics
 - Teachers and school directors were uniformly satisfied with digital content training, and coaches observed 96% fidelity in blended-learning implementation — related
 - Charlotte-Mecklenburg’s Strategic Staffing Initiative improved leadership satisfaction and student achievement in struggling schools — related
 - [In the first Learning Salon, half of providers felt unable to showcase their solution's impact and a quarter felt unable to collaborate on co-design](first-salon-showcase-codesign-limits.md) — related
+- [Students were highly satisfied with the paired course model and its components, with 100% willing to advise a new student to take the paired courses](paired-course-high-student-satisfaction.md) — related

@@ -52,3 +52,4 @@ Quasi-experimental study of two intact undergraduate EFL groups (28 experimental
 - [Authentic problem-based vocabulary tasks improve immediate vocabulary recall of intermediate Iranian EFL learners compared with conventional input-based tasks](pbl-tasks-improve-vocabulary-recall-efl.md) — related
 - [Experimental group significantly outperformed control group on post-test vocabulary learning strategies questionnaire total score](experimental-group-outperformed-control-vls-posttest.md) — related
 - [Experimental group significantly outperformed control group on post-test vocabulary test score](experimental-group-outperformed-control-vocabulary-posttest.md) — related
+- [EFL students using Web 2.0 learner-created content scored significantly higher on a vocabulary post-test than a lecture-based control group](web2-learner-content-vocabulary-posttest-gain.md) — related

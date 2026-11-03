@@ -51,3 +51,4 @@ Pre/posttest analysis using 10 copyrighted questions developed by biology facult
 - [Both groups improved from pretest to posttest at the individual level, with the article attributing the experimental group's larger gains to the etudes](individual-gains-etudes-more-effective-than-traditional.md) — related
 - [In the 2010 posttest the experimental group averaged 57.72% versus 44.41% in the control group (N=70 each)](2010-posttest-means-experimental-vs-control.md) — related
 - [Overall, the experimental group's posttest average was significantly higher than the control group's despite both groups declining from pretest to posttest.](wikipedia-corpus-overall-posttest-significant-advantage.md) — related
+- [Active learning students outperformed traditional-instruction students on each of the 14 individual writing and research skills, with an average 10.5-point higher score](active-learning-gains-fourteen-individual-skills.md) — related

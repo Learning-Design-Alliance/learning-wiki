@@ -44,6 +44,7 @@ The article's implications section recommends a fundamental shift in educational
 - [Instructors foster metacognition through reflection on process, direct immediate feedback, and taught study habits](foster-metacognition-reflection-feedback-study-habits.md)
 - [Study effort regulation in real-world, personally relevant contexts over longer timeframes, including via ecological momentary assessment](study-effort-regulation-real-world-contexts.md)
 - [Embed metacognition-based applications across faculties of education during pre-service teacher training](embed-metacognition-applications-faculties-education.md)
+- [Mandate math word problems in the curriculum together with self-regulating and metacognitive strategy instruction](mandatory-word-problems-with-metacognitive-strategies.md)
 
 ## Examples
 -

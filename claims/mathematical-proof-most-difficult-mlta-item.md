@@ -50,3 +50,4 @@ Item analysis of MLTA post-test (Table 9): mathematical proof ranked 7th in both
 - [Students' mathematical prior knowledge strongly influences MLTA: the higher the MPK, the higher the MLTA and its N-gain in both teaching approaches](mpk-influences-mlta.md) — related
 - [There is an interaction between learning approach and MPK on SRL but no interaction on MLTA](interaction-approach-mpk-srl-not-mlta.md) — related
 - [Metacognitive teaching-learning improved students' self-regulated learning more than conventional teaching, overall and at high and medium MPK levels](mtl-improves-srl-overall.md) — related
+- [Proof construction was more difficult than mathematical understanding tasks, with students showing seven recurring proof difficulties](proof-construction-harder-than-understanding.md) — related

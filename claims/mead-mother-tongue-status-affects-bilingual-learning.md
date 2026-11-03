@@ -59,3 +59,4 @@ The report quotes Mead's 1971 article "Early Childhood Experience and Later Educ
 - [First-language and bilingual programs in Peru, Bolivia, and the United States show students are better off acquiring knowledge in their mother tongues](international-mother-tongue-programs-better-off.md) — related
 - [Children who begin their education in their mother tongue make a better start and continue to perform better than those who start school in a new language](mother-tongue-better-start-better-performance.md) — related
 - [Failure to use mother tongue as the medium of instruction during at least the fundamental years has lasting detrimental impacts on students](mother-tongue-fundamental-years-detrimental-impact.md) — related
+- [Field notes documented implementation difficulties: initial group membership, mother-tongue use, and group-composition complaints](web2-implementation-difficulties-field-notes.md) — related

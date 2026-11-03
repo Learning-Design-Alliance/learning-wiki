@@ -48,3 +48,4 @@ Semi-experimental pretest-posttest control-group study; 25 study-group and 25 co
 - [Within the study group, social adaptation and skills scores improved significantly from pretest to posttest with no negative-rank changes](peaceful-life-skills-within-group-gains.md) — related
 - [Control-group children also improved significantly on social adaptation and skills, but their gains included negative-rank changes unlike the study group](control-group-gains-mixed-ranks.md) — related
 - [The TMPT Program improves 5-6-year-old children's social problem-solving skills relative to a control group](tmpt-program-improves-preschool-social-problem-solving.md) — related
+- [Disadvantaged 60-72-month-old children who participated in a play-supported readiness program scored significantly higher than control-group children on most MPERS sub-scales at posttest](play-supported-program-higher-readiness-posttest.md) — related

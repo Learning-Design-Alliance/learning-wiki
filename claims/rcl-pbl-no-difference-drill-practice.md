@@ -47,3 +47,4 @@ Same quasi-experimental posttest comparison. Table 4 prints drill-and-practice m
 ## Related Claims
 - [Sixth-grade students taught with robotic cooperative learning scored significantly higher on critical-thinking posttest items than students taught with problem-based learning](rcl-critical-thinking-posttest-higher-than-pbl.md) — related
 - [ANCOVA on posttest scores yielded a significant F-value favoring RCL, though the article also reports a non-significant ANCOVA F-value](rcl-ancova-significant-f-value.md) — related
+- [PBL scored lower than non-PBL on stimulating students to carry on learning, though not statistically significantly](pbl-lower-stimulated-carry-on-learning-null.md) — related

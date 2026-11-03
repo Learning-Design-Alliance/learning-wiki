@@ -51,3 +51,4 @@ One-way within-groups ANOVA on the three vocabulary tests of 23 L2 participants 
 - [Recognition tests yield higher word-learning effect sizes than recall tests](recognition-tests-higher-effect-sizes-than-recall.md) — related
 - [Unknown words are read significantly longer than known control words in all four eye-tracking measures](targets-read-longer-than-controls-all-measures.md) — related
 - [Reading times for unknown words decrease significantly after three to four encounters, and by eight encounters unknown words are read like known words](reading-times-drop-three-four-encounters.md) — related
+- [Form Recognition scores exceed Form and Meaning Recall scores for all three groups on both post-tests](recognition-exceeds-recall-formulaic-sequences.md) — a narrower finding that bears on this claim

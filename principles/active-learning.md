@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 77 claims (43 for, 31 mixed, 3 against) · 62 studies (25 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 8 of 62 report an effect size · 69 claims rest on one study
+> **Evidence** · 78 claims (44 for, 31 mixed, 3 against) · 63 studies (26 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 9 of 63 report an effect size · 70 claims rest on one study
 
 ## Conditional relationship
 
@@ -209,6 +209,7 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [The authors attribute the v.2 improvement to the two instructional changes made — greater student activity and task specificity via rubrics — since all else remained equal](../claims/student-activity-and-rubric-specificity-drive-improvement.md) [+W]
 - [Group × pre-achievement interaction favored high achievers in the experimental group and narrowed the high–low gap](../claims/group-level-interaction-reduced-achievement-gap.md) [~W]
 - [Prior studies comparing quizzes or reflections against passive or ineffective-strategy controls do not establish which active method is more effective](../claims/active-active-comparisons-missing-from-prior-literature.md) [~W]
+- [In Study 2, the performance-task section showed significant pre/post improvement in total quantitative-reasoning scores while the No PT section did not](../claims/study2-pt-section-total-score-gains.md) [+W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

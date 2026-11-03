@@ -54,3 +54,4 @@ Paired samples T test of the control group receiving conventional classroom teac
 - [Purposely teaching for higher order thinking skills enhances high school students' critical thinking compared with traditional teaching](hots-teaching-enhances-critical-thinking.md) — related
 - [PBL and traditional teaching do not differ significantly in their effect on pre-service teachers’ critical thinking dispositions](pbl-no-difference-critical-thinking-disposition.md) — related
 - [PBL teaching significantly improves the critical thinking skills of analysis and interpretation in English-major sophomores](pbl-improves-analysis-interpretation-skills.md) — related
+- [Control-group students taught with conventional coursebook vocabulary tasks showed a 2.8% decrease in scores over the same period](control-group-2-8-percent-decrease.md) — related

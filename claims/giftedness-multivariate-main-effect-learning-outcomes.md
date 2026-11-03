@@ -49,3 +49,4 @@ Multivariate ANOVA in the Results section of the randomized study of 199 seventh
 
 ## Related Claims
 - [Giftedness interacts significantly with instruction type on the learning and recall outcomes in the 2×2×2 study](giftedness-instruction-interaction-significant.md) — related
+- [Intervention outcomes did not depend on grade level: no grade differences and no condition-by-grade interactions](dialect-intervention-outcomes-invariant-across-grades.md) — related

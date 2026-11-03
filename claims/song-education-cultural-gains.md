@@ -69,3 +69,4 @@ On getting to know traditions and customs better, 84% of each group agreed; the 
 
 ## Related Claims
 - [Experimental-group students reported larger phonological gains than control-group students, especially in managing English speech rhythm (92% vs 79%)](song-education-phonological-gains.md) — related
+- [After the integrated activities, experimental-group students shifted from agreeing to disagreeing with items such as getting upset easily with people from different cultures and thinking their culture is better than other cultures](item-level-shifts-prejudice-and-discomfort-items.md) — related

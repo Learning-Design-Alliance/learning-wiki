@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 38 claims (22 for, 15 mixed, 1 against) · 46 studies (13 causal, 13 associational, 9 review, 5 theoretical, 2 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 4 of 46 report an effect size · 33 claims rest on one study
+> **Evidence** · 40 claims (23 for, 16 mixed, 1 against) · 48 studies (15 causal, 13 associational, 9 review, 5 theoretical, 2 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 4 of 48 report an effect size · 35 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
@@ -87,6 +87,8 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [Teachers rank language level, student interests, and student needs as top criteria for selecting authentic listening materials](../claims/teacher-criteria-selecting-authentic-listening-materials.md) [+W]
 - [The PD's spring impact on teacher knowledge was larger for teachers with higher baseline knowledge and not significant for those 1 SD below average](../claims/pd-knowledge-impact-varies-by-baseline-knowledge.md) [~W]
 - [Prior interest in programming was higher in the control group than in the experimental group before the treatment](../claims/prior-programming-interest-group-difference.md) [~W]
+- [At baseline only about a third of first-year students showed a high level of adaptability, with technical and mathematical disciplines most problematic](../claims/baseline-only-third-first-years-high-adaptability.md) [+W]
+- [Student background variables significantly affect learning motivation and demographic variables significantly affect learning achievement](../claims/background-demographic-variables-affect-motivation-achievement.md) [~W]
 
 ## The evidence by question
 

@@ -71,6 +71,7 @@ Peer tutoring works because explaining material to another person forces the tut
 - [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
 - [Individual assessment during pair work: rotating roles, separate predictions and explanations, and independently-demonstrated ratings per outcome](individual-assessment-during-pair-work-robotics.md)
 - [Have students set individual conversational goals and use student-friendly task cards with sentence stems during collaborative activities](conversational-goals-task-cards-strategy.md)
+- [Use task-oriented peer review worksheets with repeated explanation of the feedback role](task-oriented-peer-review-worksheets-strategy.md)
 
 ## Examples
 - **Classwide Peer Tutoring (CWPT)** — developed at the University of Kansas ([junipergardenprogram.org](https://www.specialconnections.ku.edu)); weekly team-based dyads with point systems, role switching, and teacher-designed materials.

@@ -57,3 +57,5 @@ A study of 21 emergency care professionals, which its authors call quasi-experim
 - [No significant difference between groups on the thermodynamics achievement post-test or cognitive load scale after CLT-based versus lecturer-designed instruction](no-group-difference-tat-posttest-cls.md) — related
 - [An interactive workshop produced higher post-test knowledge scores than an e-learning course of equivalent content among nurses](interactive-workshop-outperforms-elearning-nurse-knowledge.md) — reports the opposite
 - [Near-peer-led and instructor-led documentation workshops produced equivalent H&P and OSCE HPI scores](near-peer-vs-instructor-workshop-equivalent-outcomes.md) — related
+- [The advantage of the 4C/ID-based environment over conventional instruction was much larger on learning transfer than on knowledge reproduction](4cid-transfer-advantage-exceeds-reproduction-advantage.md) — related
+- [A companion quasi-experimental study attributed greater performance and lower perceived mental effort to the 4C/ID digital environment, especially on transfer](melo-miranda-2015-efficiency-findings-attributed.md) — related

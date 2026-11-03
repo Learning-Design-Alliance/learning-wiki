@@ -42,6 +42,7 @@ Based on the null long-term findings, the authors recommend that future tutoring
 - [Three-point standardized testing schedule for teachers: determine needs at the opening of the term, note progress mid-year, and measure year's gains and vacation losses](three-point-standardized-testing-schedule.md)
 - [Sustain educational interventions throughout development and evaluate long-term rather than short-term efficacy](sustained-interventions-throughout-development.md)
 - [Plan school-based intervention research around recruitment, scheduling, dosage, and fidelity challenges](school-based-intervention-research-challenges-strategies.md)
+- [Test, track and extend readiness support programs for disadvantaged children](readiness-support-program-research-agenda-strategy.md)
 
 ## Examples
 -

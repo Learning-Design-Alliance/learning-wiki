@@ -41,7 +41,8 @@ A 15-week compulsory EFL course at a Japanese university met weekly for 90 minut
 - [Er No Change Practical Value Attitude](../claims/er-no-change-practical-value-attitude.md) [+M]
 
 ## Related Designs
-- 
+
+- [Graded reader library of approximately 600 books across levels 1–6 with ERF scale placement](graded-reader-library-600-books-erf-scale.md)
 
 ## Examples
 -

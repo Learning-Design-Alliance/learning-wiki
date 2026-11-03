@@ -49,3 +49,4 @@ Unstructured observation by both researchers during motherboard assembly, record
 - [AR instruction has no significant effect on motherboard assembly skills self-efficacy](ar-no-effect-assembly-skills-self-efficacy.md) — related
 - [Intelligent AR tutoring produces significantly higher post-test performance than non-intelligent AR training for motherboard assembly](intelligent-ar-tutor-outperforms-traditional-ar-posttest.md) — related
 - [Participants trained with the intelligent AR tutor completed the unassisted physical assembly task significantly faster, with no significant difference in errors](intelligent-ar-faster-unassisted-assembly-no-error-difference.md) — related
+- [During training sessions, experimental-group students were more focused and autonomous while control-group students were more dispersed and often did not complete transfer tasks](4cid-session-engagement-and-task-completion-observations.md) — related

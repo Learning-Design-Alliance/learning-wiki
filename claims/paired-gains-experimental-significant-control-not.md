@@ -65,3 +65,4 @@ Paired samples t-test on the control group's totals (Table 10): mean paired diff
 
 ## Related Claims
 - [Experimental-group mean prosodic scores rose from 58.2 to 70.6 while control-group means rose only from 59.85 to 61.1](descriptive-gain-videos-vs-traditional.md) — related
+- [The formative-assessment group improved significantly from pre-test to post-test while the control group did not](formative-group-pre-post-gain-significant-control-not.md) — related

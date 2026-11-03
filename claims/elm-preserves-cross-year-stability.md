@@ -49,3 +49,4 @@ Nested chi-square model fit comparison in the ELM efficacy trial latent variable
 - [A second year of ELM experience showed moderate but non-significant advantages for teacher demonstrations, group responses, and academic feedback, with no advantage for individual responses](second-year-elm-moderate-nonsignificant-effects.md) — related
 - [CON-ELM teachers changed significantly more than ELM-ELM teachers for three of four teaching practices](con-elm-greater-change-than-elm-elm.md) — related
 - [Year-1 ELM classrooms provided more than twice as many group response opportunities per minute as control classrooms](year1-elm-double-group-responses.md) — related
+- [Introducing ELM to formerly control teachers did not significantly disrupt the cross-year stability of their evidence-based teaching practices](elm-did-not-disrupt-practice-stability.md) — possibly the same claim (merge candidate)

@@ -51,3 +51,4 @@ Pearson correlation analyses (FDR-corrected) linking coded feedback uptake to cr
 - [Interpersonal feedback improved creativity transfer to novel tasks more than all control conditions](if-improves-creativity-transfer.md) — related
 - [Interpersonal feedback uniquely enhanced bidirectional neural information flow between provider and receiver](if-bidirectional-granger-flow.md) — related
 - [Interpersonal feedback induced higher interpersonal neural synchronization in superior frontal gyrus and inferior parietal cortex channels than control conditions](if-increases-ins-sfg-ipc.md) — related
+- [The amount of corrective feedback an individual learner received correlated positively with that learner's post-test performance](learner-feedback-amount-correlates-posttest-performance.md) — related

@@ -17,7 +17,7 @@ sources:
 # Analyze terminal behavior and objectives before manipulating teaching methods in instructional design
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 25 claims (14 for, 10 mixed, 1 against) · 25 studies (13 causal, 8 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 3 of 25 report an effect size · 25 claims rest on one study
+> **Evidence** · 26 claims (15 for, 10 mixed, 1 against) · 26 studies (14 causal, 8 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 3 of 26 report an effect size · 26 claims rest on one study
 
 ## Description
 Glaser's design orientation sets a task sequence: specify the terminal performance standard, determine student entry characteristics and prerequisites, construct procedures and materials to move the learner from one state to the other with provisions for motivation, and assess achieved competence against criteria. He argues analysis of behavior has been neglected yet has been the most influential element in recent instructional improvements, more so than manipulations of teaching method.
@@ -64,6 +64,7 @@ Glaser's design orientation sets a task sequence: specify the terminal performan
 - [Before teaching, the two departments showed equivalent mathematical performance on a written pre-test](../claims/pre-test-equivalent-departments.md) [+W]
 - [Prior mathematical ability had a significant main effect on mathematics critical thinking ability](../claims/pma-significant-main-effect-critical-thinking.md) [+W]
 - [The three groups did not differ significantly in vocabulary knowledge at pretest, supporting group homogeneity](../claims/pretest-homogeneity-three-vocabulary-groups.md) [~W]
+- [At baseline only about a third of first-year students showed a high level of adaptability, with technical and mathematical disciplines most problematic](../claims/baseline-only-third-first-years-high-adaptability.md) [+W]
 
 ## Related Principles
 - 

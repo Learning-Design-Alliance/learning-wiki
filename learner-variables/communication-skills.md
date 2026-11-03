@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 138 claims (91 show a difference, 26 mixed, 21 no difference) · 112 studies (40 causal, 23 review, 19 quant-synthesis, 16 associational, 5 design, 5 theoretical, 4 qualitative), `q1`–`q4` · 19 of 112 report an effect size · 135 claims rest on one study
+> **Evidence** · 140 claims (92 show a difference, 26 mixed, 22 no difference) · 113 studies (40 causal, 23 review, 20 quant-synthesis, 16 associational, 5 design, 5 theoretical, 4 qualitative), `q1`–`q4` · 19 of 113 report an effect size · 137 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -179,6 +179,8 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Explicit discourse-markers instruction improves EFL learners' ability to produce cohesive and coherent text on discourse cloze tests](../claims/dm-instruction-improves-cohesive-writing.md) [+M] — instruction changes it
 - [Virtual and face-to-face collaborative writers differ in discourse: control groups use cohesive devices and paragraphing more, virtual groups add more new relevant ideas](../claims/discourse-differences-telecollaborative-vs-face-to-face-essays.md) [~M] — instruction changes it
 - [Students reported that analysing authentic TED talks was motivating and that self/peer evaluation of their video-recorded speaking tasks helped them overcome anxiety and track their progress](../claims/task-cycle-activities-reported-benefits.md) [+W] — instruction changes it
+- [Drama method has a large, positive effect on social communication skills according to a random-effects meta-analysis of 24 studies](../claims/drama-large-positive-effect-social-communication-skills.md) [+M] — instruction changes it
+- [The effect of drama on social communication skills does not differ significantly by subject area, with Mathematics showing the lowest effect size](../claims/drama-effect-no-difference-subject-area.md) [-M] — an instructional effect differs with it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

@@ -60,3 +60,4 @@ Systematic review of 14 studies (11 before-and-after, one RCT, one quasi-experim
 - [SBL is associated with wider clinical performance benefits including self-confidence, self-efficacy, clinical reasoning and teamwork](sbl-wider-clinical-performance-benefits.md) — related
 - [NOTSS was the most used NTS tool with strong validity evidence, but self-assessment without validity evidence was the most frequent form of NTS assessment (n=78)](self-assessment-most-frequent-nts-assessment.md) — related
 - [Workshop, simulation, and team-review methods significantly improve teamwork behaviors, while the pooled effect of didactic education alone was not significant](didactic-education-fails-to-improve-teamwork.md) — related
+- [Students perceived PBL as providing significant benefits to presentation skills, teamwork, leadership and ability to use IT](pbl-significant-perceived-skill-benefits.md) — related
