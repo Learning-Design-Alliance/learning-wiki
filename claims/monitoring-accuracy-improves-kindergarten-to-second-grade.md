@@ -78,3 +78,4 @@ Age main effect on the bias index in the same experiment: older children (M = .2
 - [Children's ability to discriminate between correct and incorrect answers did not change over training regardless of group](discrimination-unchanged-after-training.md) — related
 - [Elementary school children monitor and control their answers to open-ended text comprehension questions more accurately than answers to true-false questions](monitoring-control-more-accurate-open-ended-than-true-false.md) — related
 - [Better inhibition skills in kindergarten predict less overconfident metacognitive monitoring in 2nd grade, explaining 11% of variance](kindergarten-inhibition-predicts-less-overconfident-monitoring.md) — related
+- [Strategy training improved CJ differentiation for children and older adults but not for adolescents and younger adults](strategy-training-cj-differentiation-age-limits.md) — related

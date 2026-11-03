@@ -115,6 +115,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Combine video viewing with post-viewing activities to test comprehension and encourage productive use of technical vocabulary](../strategies/video-plus-post-viewing-activities-esp.md)
 - [Tarnopolsky's constructivist blended learning approach to ESP](../designs/tarnopolsky-constructivist-blended-learning-esp.md)
 - [Structure science lessons in four constructivist stages](../strategies/four-stage-constructivist-lesson-strategy.md)
+- [Ground teacher professional development for nutrition education in constructivist principles](../strategies/constructivist-teacher-professional-development-nutrition.md)
 
 ## Key Sources
 - Piaget, J. (1970). *Science of education and the psychology of the child*. Viking.

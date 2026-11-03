@@ -46,6 +46,7 @@ The article describes a one-year professional development model in which eight s
 - [Combine summer professional development with school-year on-site coaching and provision of complete instructional materials](summer-pd-plus-coaching-plus-materials-kits.md)
 - [Run eight one-hour professional learning community sessions spread across the school year](eight-one-hour-plc-sessions-writing-instruction.md)
 - [Support interventionists with focused professional development workshops plus ongoing in-classroom coaching](pd-workshops-plus-coaching-for-interventionists.md)
+- [Ground teacher professional development for nutrition education in constructivist principles](constructivist-teacher-professional-development-nutrition.md)
 
 ## Examples
 -

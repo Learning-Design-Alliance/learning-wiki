@@ -49,3 +49,4 @@ Paired-samples t-test within the 15-member experimental group using educational 
 - [Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported](video-based-tasks-improve-listening-comprehension.md) — related
 - [The experimental group showed a significant pre-to-post gain in reading comprehension after presentation strategy instruction](experimental-group-pre-post-reading-gain.md) — related
 - [Experimental group's reading scores improved significantly from pretest to posttest under genre-based instruction](gbi-pre-post-gain-experimental-group.md) — related
+- [Asymmetrical scaffolding significantly improved EFL learners' reading comprehension scores](asymmetrical-scaffolding-improves-reading-comprehension.md) — related

@@ -53,3 +53,4 @@ Semi-structured interviews with six students stratified by pre-test ability (hig
 - [Some Chinese students felt uncomfortable with case-based learning due to lack of structured instruction content](case-based-learning-uncomfortable-unstructured-instruction.md) — related
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — a broader claim this one bears on
 - [Interviewed students valued idea generation and peer evaluation but reported difficulties with editing checklists and unhelpful peer feedback](mixed-interview-perceptions-peer-evaluation.md) — related
+- [Learners preferred pair work and more capable partners, consistent with Vygotsky rather than Piaget](learner-attitudes-prefer-capable-partners-pair-work.md) — related

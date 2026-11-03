@@ -13,7 +13,7 @@ generated:
 # Proportional Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 62 claims (42 show a difference, 17 mixed, 3 no difference) · 33 studies (17 causal, 8 associational, 2 qualitative, 2 design, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 11 of 33 report an effect size · 57 claims rest on one study
+> **Evidence** · 65 claims (44 show a difference, 18 mixed, 3 no difference) · 34 studies (18 causal, 8 associational, 2 qualitative, 2 design, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 12 of 34 report an effect size · 60 claims rest on one study
 
 ## Description
 Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.
@@ -98,6 +98,9 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 - [SBI significantly improves seventh-grade students' proportional problem solving at immediate posttest and at 11-week delayed posttest relative to business-as-usual instruction](../claims/sbi-improves-pps-post-and-delayed-full-sample.md) [+M] — instruction changes it
 - [SBI students with mathematics difficulties improve at a faster rate over time on proportional problem solving than control students with MD](../claims/sbi-md-faster-growth.md) [+M] — instruction changes it
 - [Improvement in measurement interpretation of fractions mediates intervention effects](../claims/measurement-interpretation-improvement-mediates-fraction-intervention-effects.md) [+M] — instruction changes it
+- [Additive WP intervention produced stronger fraction calculation performance than multiplicative WP intervention, while the two conditions performed comparably on number line and NAEP](../claims/awp-calculation-advantage-over-mwp.md) [~W] — measured as an outcome of the instruction studied
+- [Improvement in the measurement interpretation of fractions fully mediated the effect of intervention versus control on NAEP fraction performance](../claims/measurement-interpretation-improvement-mediates-naep-fraction-effects.md) [+M] — measured as an outcome of the instruction studied
+- [Intervention students closed the achievement gap with not-at-risk classmates on fraction calculations, while the control group's gap remained approximately constant](../claims/fraction-intervention-closed-calculation-achievement-gap.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.

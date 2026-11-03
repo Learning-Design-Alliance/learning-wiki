@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 137 claims (101 show a difference, 20 mixed, 16 no difference) · 62 studies (27 causal, 26 associational, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 28 of 62 report an effect size · 131 claims rest on one study
+> **Evidence** · 139 claims (102 show a difference, 20 mixed, 17 no difference) · 63 studies (28 causal, 26 associational, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 29 of 63 report an effect size · 133 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -172,6 +172,8 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Head Start impacts on receptive vocabulary and early numeracy were statistically significantly larger among Hispanic students](../claims/head-start-larger-impacts-hispanic-children.md) [+M] — instruction changes it
 - [Head Start impacts were statistically significantly larger for dual language learners on receptive vocabulary and early numeracy](../claims/head-start-larger-impacts-dual-language-learners.md) [+M] — instruction changes it
 - [Head Start reduced individual residual outcome variance for treatment group members on receptive vocabulary and early numeracy, indicating compression of the outcome distribution](../claims/head-start-reduced-residual-variance-vocabulary-numeracy.md) [+W] — instruction changes it
+- [A 12-week fraction intervention focused on the measurement interpretation of fractions outperformed business-as-usual control on number line, calculations, and NAEP fraction outcomes for at-risk fourth graders](../claims/fraction-measurement-intervention-outperforms-control-at-risk-fourth-graders.md) [+M] — measured as an outcome of the instruction studied
+- [Additive WP intervention produced stronger fraction calculation performance than multiplicative WP intervention, while the two conditions performed comparably on number line and NAEP](../claims/awp-calculation-advantage-over-mwp.md) [-M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

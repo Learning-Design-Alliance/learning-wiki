@@ -65,3 +65,4 @@ Paired-samples t-test on the experimental group (n=55) in a pretest posttest qua
 - [Explicit metacognitive strategy instruction improves ESL reading comprehension performance](metacognitive-strategy-instruction-improves-esl-reading-comprehension.md) — a narrower finding that bears on this claim
 - [PBL instruction significantly improved EFL learners' English reading comprehension compared with traditional reading instruction](pbl-significantly-improves-efl-reading-comprehension-taiwan-university.md) — related
 - [Automated formative evaluations via QMP produced no statistically significant reading comprehension improvement compared to printed materials](qmp-automated-formative-evaluations-no-significant-reading-gains.md) — reports the opposite
+- [Asymmetrical scaffolding significantly improved EFL learners' reading comprehension scores](asymmetrical-scaffolding-improves-reading-comprehension.md) — related

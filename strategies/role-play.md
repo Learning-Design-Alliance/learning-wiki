@@ -96,6 +96,7 @@ Role play is a form of situated, active practice: it requires learners to *perfo
 - [Use virtual humans to standardize communication training scenarios and allow safe repetition of emotionally charged conversations](virtual-humans-standardized-communication-practice.md)
 - [Structure role-play lessons as sequenced generalization, formulation, correction and appreciation stages with intergroup corrective feedback](gfca-staged-role-play-strategy.md)
 - [Use conversation analysis of real interactions to underpin and enhance role play and simulated patient training rather than replace it](use-ca-to-enhance-simulation-design.md)
+- [Scenario-based learner-centered facilitator training using APA's learner-centered psychological principles](scenario-based-lcp-facilitator-training.md)
 
 ## Examples
 - **Corporate customer-service training** — agents rehearse handling an angry customer while a peer plays the customer from a brief; the debrief names specific de-escalation moves observed

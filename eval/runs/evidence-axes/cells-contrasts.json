@@ -69446,5 +69446,73 @@
  "test-format\torthographical-cue vocabulary tests in Class 2\tphonological-cue vocabulary tests in Class 1": {
   "label": "orthographical-cue vs phonological-cue vocabulary tests",
   "treatment_is_a": true
+ },
+ "active-learning\tPBL course\ttraditional teacher-led course": {
+  "label": "problem-based learning vs traditional teacher-led instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist nutrition education with teacher professional development\tno nutrition education": {
+  "label": "constructivist-oriented nutrition education vs no nutrition education",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist-oriented nutrition education\tno nutrition education": {
+  "label": "constructivist-oriented nutrition education vs no nutrition education",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist-oriented teacher professional development and six-lesson nutrition curriculum\tno nutrition education": {
+  "label": "constructivist-oriented nutrition education vs no nutrition education",
+  "treatment_is_a": true
+ },
+ "active-learning\tpair work and peer interaction\tindividual work": {
+  "label": "pair work and peer interaction vs individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning\ttraditional teacher-led course": {
+  "label": "problem-based learning vs traditional teacher-led instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tscenario-based learner-centered facilitator training encouraging peer interaction\tstandard facilitator training": {
+  "label": "scenario-based, learner-centered facilitator training encouraging peer interaction vs standard facilitator training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tshort visual-imagery strategy instruction\tno strategy instruction": {
+  "label": "visual-imagery strategy instruction vs no strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tshort visual-imagery strategy training\tno strategy instruction": {
+  "label": "visual-imagery strategy instruction vs no strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvisual imagery strategy instruction\tno strategy instruction": {
+  "label": "visual-imagery strategy instruction vs no strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvisual-imagery strategy instruction\tno strategy instruction": {
+  "label": "visual-imagery strategy instruction vs no strategy instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tasymmetrical cooperative reading scaffolding\tpre-test baseline": {
+  "label": "asymmetrical scaffolding vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tasymmetrical peer scaffolding\tpre-test baseline": {
+  "label": "asymmetrical scaffolding vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tasymmetrical scaffolding\tpre-test performance before treatment": {
+  "label": "asymmetrical scaffolding vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tasymmetrical scaffolding in heterogeneous pairs\tsymmetrical scaffolding in homogeneous pairs": {
+  "label": "asymmetrical scaffolding vs symmetrical scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tsymmetrical cooperative reading scaffolding\tpre-test baseline": {
+  "label": "symmetrical scaffolding vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tsymmetrical scaffolding\tpre-test performance before treatment": {
+  "label": "symmetrical scaffolding vs pre-treatment baseline",
+  "treatment_is_a": true
  }
 }

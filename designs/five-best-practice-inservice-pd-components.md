@@ -17,7 +17,7 @@ sources:
 # Five research-based best-practice components of teacher in-service professional development
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The professional development was engineered around five recommendations the authors identify as research-based: (1) workshops "should use active learning methods and avoid didactic lectures"; (2) workshops should be conducted by expert educators with knowledge of school contexts who do not work for the participating schools; (3) teachers should be compensated for their time; (4) programs should be supported by school administrators; and (5) teachers should be given all curriculum materials and instructional/supplementary resources needed to teach the full curriculum in their home classrooms. The workshop used non-lecture, skill-based, active learning techniques where teachers first learned and then practiced with their peers.
@@ -41,7 +41,7 @@ The professional development was engineered around five recommendations the auth
 
 ### Claims
 - [Inservice Training Increases Nutrition Teaching Self Efficacy](../claims/inservice-training-increases-nutrition-teaching-self-efficacy.md) [+M]
-- [Inservice Training Increases Intentions To Teach Nutrition](../claims/inservice-training-increases-intentions-to-teach-nutrition.md) [+M]
+- [Teachers' intentions to teach nutrition content rose from pre to post after in-service nutrition training, on six of eight measures, but no group-by-time difference from controls was reported](../claims/inservice-training-increases-intentions-to-teach-nutrition.md) [+W]
 
 ## Related Designs
 - 

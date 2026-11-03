@@ -52,3 +52,4 @@ Hirschhorn (1993), a 4-year quasi-experiment matching UCSMP students to comparis
 - [The WWC rates UCSMP Algebra as having potentially positive effects on mathematics achievement for secondary students](wwc-rating-ucsmp-algebra-potentially-positive.md) — related
 - [UCSMP Algebra has potentially positive effects on the algebra domain, with mixed findings across two studies and a small extent of evidence](ucsmp-algebra-potentially-positive-algebra-domain.md) — related
 - [No studies meeting WWC group design standards exist for UCSMP Geometry, Advanced Algebra, Functions Statistics and Trigonometry, or Precalculus and Discrete Mathematics](no-evidence-other-ucsmp-secondary-courses.md) — related
+- [ACT results were mixed: no overall participation effect on ACT Mathematics Composite or Plane Geometry/Trigonometry, but a significant participation-by-course interaction on the Algebra/Coordinate Geometry subscale](act-results-mixed-participation-effect.md) — related

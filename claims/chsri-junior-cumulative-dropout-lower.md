@@ -48,3 +48,4 @@ Hierarchical models of CPS administrative records; the report states the differe
 - [CHSRI students did not score differently on the PSAE in reading or math, and freshmen were not significantly more likely to be on-track](chsri-no-achievement-ontrack-difference.md) — related
 - [CHSRI students graduated at significantly higher four-year rates than similar students, with differences of 7 to more than 9 percentage points across cohorts](chsri-higher-four-year-graduation-rates.md) — related
 - [Student reports of instruction were generally similar across school types, with juniors in small schools reporting higher academic press and support](chsri-student-experiences-academic-press-support.md) — related
+- [Intervention group schools had substantially lower dropout rates than control group schools in the first cohort.](facilitator-intervention-lower-dropout-cohort1.md) — related

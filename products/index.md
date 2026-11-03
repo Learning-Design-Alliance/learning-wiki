@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**3088 entries** · 0 stable · 3088 in review · 0 drafts
+**3091 entries** · 0 stable · 3091 in review · 0 drafts
 
 ---
 
@@ -1694,6 +1694,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [MOOC Replication Framework](mooc-replication-framework.md) - MORF, described by Gardner (2018), is a framework that supports controlled, privacy-preserving replication of predictive analyses across MOOC studies, courses, and datasets.
 * [Moodle](moodle.md) - Moodle is an open-source learning management system developed and maintained by Moodle Pty Ltd and its global community for delivering, organizing, communicating about, and assessing online learning.
 * [Moodle Workshop module](moodle-workshop-module.md) - Moodle's Workshop activity module supports the distribution, anonymous peer assessment, and teacher assessment of learner submissions using defined assessment criteria and grading schemes.
+* [MoodleReader](moodlereader.md) - MoodleReader is an online database and Moodle-based quiz platform developed at Kyoto Sangyo University for administering randomized quizzes on graded readers in extensive-reading programs.
 * [MoodMap App](moodmap-app.md) - MoodMap App is a prototype software application developed by Pammer-Schindler et al.
 * [MORE (Motivational Reactive Plan)](more-motivational-reactive-plan.md) - A research-developed Prolog-debugging intelligent tutoring system that combines domain planning, motivational-state reasoning, and arbitration to sequence instruction and maintain learner motivation.
 * [MORE tutoring system](more-tutoring-system.md) - MORE is a problem-solving intelligent tutoring system that monitors learner behaviour and adapts its tutoring tactics using simplified effort, confidence, and independence estimates.
@@ -2163,6 +2164,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Questionmark's Perception (QMP)](questionmarks-perception-qmp.md) - Questionmark's Perception is an assessment-delivery and reporting platform made by Questionmark for administering online tests, formative evaluations, feedback, and performance analysis.
 * [Questionnaire for Identifying Writer's Block (QIWB)](questionnaire-for-identifying-writers-block-qiwb.md) - The QIWB is Rose's 24-item self-report questionnaire assessing writer's block across five subscales: blocking, lateness, premature editing, strategies for complexity, and attitudes.
 * [Questionnaire measuring the motivational component of learners' cognitive activity](questionnaire-measuring-the-motivational-component-of-learners-cognitive-activity.md) - Igor Korsun's ten-item yes/no physics questionnaire measures secondary learners' motivational cognitive activity by scoring their reported physics knowledge, interests, and engagement with additional resources.
+* [Quiet Time Transcendental Meditation program](quiet-time-transcendental-meditation-program.md) - A school-based Transcendental Meditation programme delivered and supervised by certified TM teachers, with supported daily practice for pupils.
 * [Quipper School](quipper-school.md) - Quipper School is a web-based learning-management platform operated by Quipper that provides OER-based multimedia materials, class management, teacher–student communication, and blended-learning support.
 * [Quizbot](quizbot.md) - Quizbot is a multi-tablet gamified quiz system developed by García Sanjuan et al.
 
@@ -2932,6 +2934,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Urban Science](urban-science.md) - Urban Science is a University of Wisconsin–Madison epistemic-game programme that engages learners in individual and collaborative urban-redevelopment planning through professional-practicum-like tasks and deliverables.
 * [USDOL-ETA General Competency Model Framework](usdol-eta-general-competency-model-framework.md) - A U.S.
 * [User experience design tools for courseware: persona creation kit, journey maps, and ecosystem maps](user-experience-design-tools-for-courseware-persona-creation-kit-journey-maps-and-ecosyste.md) - WestEd's freely available suite of participant-data-informed tools helps postsecondary gateway-math courseware designers examine learner and faculty needs, experiences, and ecosystems.
+* [Using Data (UD) professional development program](using-data-ud-professional-development-program.md) - A TERC and WestEd professional-development and technical-assistance programme that supports teacher data teams and coaches in collaboratively analysing student data and developing instructional action plans.
 * [UST E-Leap](ust-e-leap.md) - UST E-Leap is a web-based learning management software platform administered by the University of Santo Tomas for distributing course materials, supporting discussions and assessments, collecting submissions, and tracking scores.
 * [Utah Compose (UC)](utah-compose-uc.md) - Utah Compose is a web-based automated writing-evaluation system developed by Measurement Incorporated that provides writing prompts, automated scoring, instant revision feedback, peer review, tutorials, and graphic organizers for Grades 3–12 students.
 * [UTAUT2-inspired 15-item survey instrument for assessing student perceptions of ChatGPT-assisted activities](utaut2-inspired-15-item-survey-instrument-for-assessing-student-perceptions-of-chatgpt-ass.md) - A study-developed post-activity survey by Elizondo-García et al.

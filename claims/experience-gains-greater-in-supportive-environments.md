@@ -57,3 +57,4 @@ The review's executive summary and findings heading state that "effectiveness in
 - [Program content focused on instruction, collegial organizations, and data use is associated with positive school outcomes](principal-program-content-instruction-collegial-data.md) — related
 - [High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes](principal-learning-programs-positive-outcomes.md) — related
 - [Adaptive READS teachers were more likely than Traditional READS teachers to report that 'friends' and 'fiddle' learning experiences were more helpful to their implementation than 'focus' activities](adaptive-teachers-prefer-friends-fiddle.md) — related
+- [Spring survey item-level differences favored treatment teachers on working with colleagues from other grade levels, district-level activities, and other settings](using-data-survey-item-differences.md) — related

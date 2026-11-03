@@ -66,6 +66,7 @@ Access to books is one of the strongest environmental predictors of reading volu
 - [Proactively co-plan library space use for inquiry and active learning with teachers and librarians](co-plan-library-space-for-inquiry.md)
 - [Provide a well-stocked banded library and easy computer access as the main implementation requirements for Accelerated Reader](ar-library-banding-computer-access.md)
 - [Implement classroom extensive reading with a graded-reader library, loan records, book reports, and teacher check-in interviews](er-library-book-report-interview-strategy.md)
+- [Create an out-of-class English extensive reading context using the MoodleReader that students can participate in at their own pace, level, and interest](moodlereader-out-of-class-er-context-strategy.md)
 
 ## Examples
 - **[Reading Rockets: Classroom Libraries](https://www.readingrockets.org/topics/classroom-management/articles/creating-classroom-library)** — practitioner guidance on building and organizing collections.

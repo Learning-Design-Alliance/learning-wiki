@@ -49,6 +49,7 @@ The article recommends that avid language learners consider illustrated comic bo
 
 - [Sharing and Discussion of Independent Reading](sharing_and_discussion_of_independent_reading.md)
 - [Book Talks](book_talks.md)
+- [Create an out-of-class English extensive reading context using the MoodleReader that students can participate in at their own pace, level, and interest](moodlereader-out-of-class-er-context-strategy.md)
 
 ## Examples
 -

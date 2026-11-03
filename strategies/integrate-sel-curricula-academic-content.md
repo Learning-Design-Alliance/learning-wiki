@@ -48,6 +48,7 @@ Based on the moderate observed relationship between positive emotions and person
 - [Disseminate preschool social-emotional learning programs targeting emotion knowledge and strengthen teacher-student relationship components](diffuse-emotion-knowledge-preschool-interventions.md)
 - [Social Emotional Learning Curricula](social-emotional-learning-curricula.md)
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
+- [Implement contemplative meditation practices across educational settings, including disadvantaged ones](implement-contemplative-practices-in-schools.md)
 
 ## Examples
 -

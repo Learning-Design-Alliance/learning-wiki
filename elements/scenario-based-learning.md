@@ -60,6 +60,7 @@ Scenario-based learning is the element in which instruction is organized around 
 - Learners respond to a client brief with incomplete information and evolving constraints.
 - A safety training module requires decisions inside a realistic workplace scenario.
 - [Cognitive performance training embedded in operational scenarios under fatigue](../strategies/cognitive-training-embedded-operational-scenarios.md)
+- [Scenario-based learner-centered facilitator training using APA's learner-centered psychological principles](../strategies/scenario-based-lcp-facilitator-training.md)
 
 ## Key Sources
 - Clark, R. C. (2013). *Scenario-based e-learning*. Pfeiffer.

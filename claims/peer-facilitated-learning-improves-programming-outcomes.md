@@ -49,3 +49,4 @@ Independent samples t-tests comparing pooled peer-facilitated (G1, G2; n=66) vs 
 - [The combined intervention of peer-facilitated learning and distributed pair programming does not outperform other conditions](combined-intervention-no-added-benefit.md) — related
 - [Distributed pair programming significantly lowers programming skills and shows no benefit for enjoyment or intention to learn](distributed-pair-programming-lowers-programming-skills.md) — related
 - [In a quasi-experimental comparison, SI-PASS participants completed far more online exercises than non-volunteering students (d = .72)](si-pass-quasi-experimental-engagement-difference.md) — related
+- [Intervention facilitators participated in online training discussions at 10 times the rate of control facilitators.](intervention-facilitators-10x-discussion-rate.md) — related

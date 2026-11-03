@@ -86,3 +86,4 @@ New Jersey RCT (535 applicants), the study meeting WWC evidence standards withou
 - [Accelerated middle schools show potentially positive effects on staying in school, with an average improvement index of +18 percentile points](accelerated-middle-schools-staying-in-school-potentially-positive.md) — a broader claim this one bears on
 - [Twelve Together has potentially positive effects on staying in school, based on a lower (non-significant) dropout rate than control](twelve-together-potentially-positive-staying-in-school.md) — related
 - [Accelerated middle schools show positive effects on progressing in school, with an average improvement index of +35 percentile points](accelerated-middle-schools-progressing-in-school-positive.md) — related
+- [Intervention group schools had substantially lower dropout rates than control group schools in the first cohort.](facilitator-intervention-lower-dropout-cohort1.md) — related

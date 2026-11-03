@@ -55,3 +55,4 @@ GLMM on JoLs (5-point smiley scale) from the preliminary analyses of the study t
 - [Learning efficiency increases with age, with adults and 14-year-olds more efficient than 10-year-olds, and no age-by-condition interaction](study-efficiency-increases-with-age.md) — related
 - [Time pressure weakens monitoring-based self-regulation of study time: gamma correlations between judgments of learning and study time are stronger in the untimed than the timed condition](time-pressure-weakens-self-regulated-study-time-allocation.md) — related
 - [Item complexity moderates picture function effects, with informational pictures potentially helping on difficult items but hindering on easy ones](item-complexity-moderates-picture-effects.md) — related
+- [Strategy training improved JOL accuracy (gamma correlations) significantly only in children, with a marginal tendency in older adults](strategy-training-jol-accuracy-children.md) — related

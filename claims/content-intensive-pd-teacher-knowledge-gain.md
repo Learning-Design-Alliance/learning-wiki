@@ -73,3 +73,4 @@ Impact analysis from the same randomized trial, comparing fall 2013 (post-Intel 
 - [The 93-hour PD was implemented with high fidelity and high teacher participation, creating a 95-hour contrast in math-related PD versus control](pd-high-fidelity-and-participation.md) — related
 - [The 93-hour PD was implemented with high fidelity, with 96 percent of Intel Math hours and 100 percent of the school-year components delivered](pd-implemented-with-high-fidelity.md) — related
 - [Treatment teachers received substantially more literacy-focused professional development than control teachers (total PD difference 61.39 hours, ES = 0.77)](cli-large-pd-service-contrast.md) — related
+- [Teachers in a modeling-based discrete mathematics PD project significantly improved their discrete mathematics content knowledge, while matched comparison teachers did not](modeling-pd-improves-discrete-math-teacher-knowledge.md) — related

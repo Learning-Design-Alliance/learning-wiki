@@ -49,3 +49,4 @@ Quantitative association analysis of 239 coded segments from 21 teachers, treati
 - [Community-oriented teaching conceptions are positively correlated with Amplification-level TPACK and negatively with Replacement](community-conceptions-amplification-tpack.md) — a narrower finding that bears on this claim
 - [Identity-oriented teaching conceptions are positively correlated with Transformation-level TPACK and negatively with Replacement and Amplification levels in SVVR-supported writing instruction](identity-conceptions-transformation-tpack.md) — related
 - [Skill-oriented teaching conceptions are positively correlated with Replacement and Amplification levels of TPACK and negatively with Transformation](skill-conceptions-replacement-tpack.md) — a narrower finding that bears on this claim
+- [Teachers' RTOP scores correlated moderately-to-highly with their post-test content knowledge (Spearman rho = .50, p = .007)](rtop-content-knowledge-correlation.md) — related

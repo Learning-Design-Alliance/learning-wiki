@@ -82,3 +82,4 @@ CPRE's account of the Leader Teacher diffusion strategy: success depended on sel
 - [Most teachers report precise identification of OER sources plus at least two diffusion improvements when implementing a diffusion strategy](oer-diffusion-strategy-implementation-self-reports.md) — related
 - [Peer-to-peer approaches were used in 54 of the tested interventions, as main or complementary strategy](peer-to-peer-approach-54-interventions.md) — related
 - [ECE PDI leader learning cycles supported the majority of center leaders to critically examine their leadership conceptions, with three design features catalytic for leader development](ece-pdi-leader-learning-outcomes.md) — related
+- [Participating teachers' classroom practice became significantly more reformed and inquiry-based over the PD year, as measured by RTOP](modeling-pd-improves-reformed-practice-rtop.md) — related

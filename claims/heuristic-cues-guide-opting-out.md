@@ -71,3 +71,4 @@ The review reports, citing Krogulska et al. (2020), that context reinstating for
 - [Participants' feedback-skipping decisions diverge from the optimal computer algorithm: they skip after some incorrect responses and fail to skip after many correct responses](skipping-decisions-diverge-from-computer.md) — related
 - [The opt-out and curiosity–accuracy findings replicate in a larger UK sample (Experiment 3A)](opt-out-curiosity-findings-replicate-uk-sample.md) — related
 - [Opting out of tasks can indicate effective effort regulation, not merely low motivation (Sidi & Ackerman, 2024 review)](opting-out-effective-effort-regulation.md) — related
+- [Strategy training reduced familiarity-based judgments and increased no-memory responses, indicating a shift toward more reliable monitoring cues](training-shifts-cues-away-from-familiarity.md) — related

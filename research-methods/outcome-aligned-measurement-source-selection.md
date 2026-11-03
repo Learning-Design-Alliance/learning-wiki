@@ -20,6 +20,7 @@ The methodological moderator analyses highlighted "the importance of using metho
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Use research methods that center teachers' and students' experiences and align with the nature of the focal outcome when studying structure**: The methodological moderator analyses highlighted "the importance of using methods that center teachers’ and students’ experiences and align with the nature of the focal outcome". Because personal perception is central to psychological experiences of motivation and engagement, survey measures and student respondents may yield stronger correlations for engagement and competence beliefs, while observation and teacher reports may align better with achievement outcomes. Researchers designing studies of classroom structure should match the measurement approach to the outcome's perceptual nature. (Patall et al. (2023))
+- **Measure post-high school outcomes directly rather than relying on interim or indirect measures**: The review recommends that transition research use explicit indicators of employment, postsecondary education, and independent living rather than proxies. It states "the field has not convincingly shown a connection between interim or indirect measures deemed important (for example, self-determination and locus of control) for in-school programs and these later outcomes." Researchers are encouraged to use state longitudinal data systems and administrative databases such as the National Student Clearinghouse. (Cobb et al. (2013))
 
 ### Claims
 
@@ -29,3 +30,4 @@ The methodological moderator analyses highlighted "the importance of using metho
 
 ## Key Sources
 - Patall, E. A., Yates, N., Lee, J., Chen, S., Bhat, P., Lee, K., Beretvas, S. N., Guan, S., Cohen, M., Zhai, F., Brecht-Heitz, S., DeLorenzo, D., & Gonzales, K. (2023). A meta-analysis of teachers’ provision of structure in the classroom and students’ academic competence beliefs, engagement, and achievement. Educational Psychologist.
+- Cobb, R. B., Lipscomb, S., Wolgemuth, J., Schulte, T., Veliquette, A., Alwell, M., Batchelder, K., Bernard, R., Hernandez, P., Holmquist-Johnson, H., Orsi, R., Sample McMeeking, L., Wang, J., and Weinberg, A. (2013). Improving Post-High School Outcomes for Transition-Age Students with Disabilities: An Evidence Review (NCEE 2013-4011). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. http://ies.ed.gov/pubsearch/pubsinfo.asp?pubid=NCEE20134011

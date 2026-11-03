@@ -48,3 +48,4 @@ Paired t-test on the control group (n=54); Table 3 reports pre-test mean 58.61 (
 - [Traditional reading comprehension instruction produced no statistically significant pre-test to post-test improvement in the control group](traditional-method-no-significant-reading-gains.md) — possibly the same claim (merge candidate)
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — a broader claim this one bears on
 - [Intensive exposure to EFL classes alone produced no statistically significant literacy gains in adult learners lacking basic literacy](intensive-exposure-alone-no-literacy-gain.md) — related
+- [Asymmetrical scaffolding significantly improved EFL learners' reading comprehension scores](asymmetrical-scaffolding-improves-reading-comprehension.md) — related

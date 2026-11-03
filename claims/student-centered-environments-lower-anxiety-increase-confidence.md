@@ -68,3 +68,4 @@ The article's concluding synthesis, an authors' interpretation connecting proces
 - [Review-reported studies: writing portfolios were valued for improving writing and reflection and reported to reduce EFL learners' test anxiety](review-reported-writing-portfolios-reduce-anxiety-build-skills.md) — a narrower finding that bears on this claim
 - Methodological features explain variation in structure findings: methods centering teachers' and students' experiences and aligning with the focal outcome matter — related
 - [Song-based instruction is consistently associated with increased affective engagement in EFL listening classrooms](song-based-instruction-affective-engagement.md) — related
+- [Pair interaction reportedly reduces anxiety and increases confidence and motivation](pair-interaction-reduces-anxiety-increases-motivation.md) — related

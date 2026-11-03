@@ -57,9 +57,11 @@ The method of loci converts an unordered list into a spatially organized, retrie
 5. Reuse palaces sparingly; assign a new palace per list to avoid interference.
 
 ## Related Strategies
+
 - [Acronyms and Acrostics](acronyms_and_acrostics.md) — verbal mnemonic alternative when material resists imagery
 - [Spaced Repetition](spaced-repetition-scheduling.md) — scheduling retrieval practice that consolidates loci-encoded items
 - [Chunking](../principles/chunking.md) — grouping items before placement reduces the number of loci needed
+- [Use a short visual-imagery strategy instruction to strengthen diagnostic recollection-based cues before paired-associate learning](short-imagery-instruction-monitoring.md)
 
 ## Examples
 - Medical students at many institutions use memory palaces for cranial nerve sequences and pharmacology lists; anatomy courses at some universities formally teach the technique.

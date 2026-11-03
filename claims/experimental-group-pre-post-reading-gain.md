@@ -49,3 +49,4 @@ Paired-samples t-test (Table 4) comparing the experimental group's reading compr
 - [Experimental group's reading scores improved significantly from pretest to posttest under genre-based instruction](gbi-pre-post-gain-experimental-group.md) — related
 - [Pre-post score correlations were near-perfect in the experimental group (r = .990) and moderate in the control group (r = .63)](paired-correlations-experimental-control-groups.md) — related
 - [The video-instructed experimental group improved significantly from pre-test to post-test](experimental-group-significant-pre-post-reading-gain.md) — related
+- [Asymmetrical scaffolding significantly improved EFL learners' reading comprehension scores](asymmetrical-scaffolding-improves-reading-comprehension.md) — related

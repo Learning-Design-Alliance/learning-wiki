@@ -65,7 +65,7 @@ Fine-grained item-level repeated-measures ANOVAs on the same 59-teacher sample. 
 
 
 ## Related Claims
-- [In-service nutrition training increases teachers' intentions to teach nutrition content, with gains on six of eight measures](inservice-training-increases-intentions-to-teach-nutrition.md) — related
+- [Teachers' intentions to teach nutrition content rose from pre to post after in-service nutrition training, on six of eight measures, but no group-by-time difference from controls was reported](inservice-training-increases-intentions-to-teach-nutrition.md) — related
 - [In-service nutrition training significantly increases teachers' nutrition outcome expectations relative to controls](inservice-training-increases-nutrition-outcome-expectations.md) — related
 - [In-service nutrition training increases teachers' rating of the value of conflict resolution and personal health skills](inservice-training-increases-outcome-value-health-skills.md) — related
 - [The intervention and control groups differed significantly in race, with more African American teachers in the intervention group](group-race-imbalance-nutrition-pd-study.md) — related
@@ -77,3 +77,4 @@ Fine-grained item-level repeated-measures ANOVAs on the same 59-teacher sample. 
 - [Focus group discussion feedback during teaching practice raises pre-service teachers' self-efficacy perceptions more than teaching practice alone](focus-group-discussion-feedback-raises-pst-self-efficacy.md) — a narrower finding that bears on this claim
 - [Brain-based teaching significantly improves self-efficacy in young EFL learners](brain-based-teaching-improves-young-efl-self-efficacy.md) — related
 - [Teachers rated the importance of promoting a healthy lifestyle significantly higher after the workshop (d = 0.74 within the intervention group)](lq-workshop-increased-importance-of-healthy-lifestyle.md) — related
+- [A six-lesson constructivist-oriented nutrition curriculum significantly increased urban middle school students' nutrition knowledge relative to controls](constructivist-nutrition-education-knowledge-gains.md) — related

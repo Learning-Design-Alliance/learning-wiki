@@ -61,6 +61,7 @@ Association leverages the structure of long-term memory: new items encoded in co
 - Keyword method — a formalized association technique for vocabulary learning
 - Story chaining — narrative variant for ordered lists
 - [Structured discussions that anchor new vocabulary in students' personal experience](structured-discussion-vocabulary-anchoring.md)
+- [Use a short visual-imagery strategy instruction to strengthen diagnostic recollection-based cues before paired-associate learning](short-imagery-instruction-monitoring.md)
 
 ## Related Elements
 - [Analogies](../elements/analogies.md) — association applied to conceptual structure rather than arbitrary pairs
