@@ -48,6 +48,9 @@ APPEND_ONLY = [
     "sources/authorities.ndjson",
     "retracted.ndjson",
     "log.md",
+    # newest-first dated entries: two PRs that each add one at the top conflict on nothing but
+    # position, and keeping both is always right (2026-11-03, #480 and #481)
+    "history/agent-log.md",
     "revisions/*.md",
     "eval/load-bearing/reviewed.ndjson",
     "eval/duplicates/*.ndjson",
