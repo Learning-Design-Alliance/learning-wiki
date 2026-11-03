@@ -199,22 +199,44 @@ def _own_article_lead(citation: str, lead: str, year: str | None = None) -> str 
     "Mohammad Mahmoud Talal Mohaidat"; the record says "Mohaidat, Mohammad Mahmoud Talal").
     None leaves the heading as the citation gives it: a citation of another study, or a lead
     that is already a surname, is never touched (2026-11-01: 405 of 3,023 ERIC headings)."""
-    sur = _record_surnames(_CURRENT_ARTICLE)
     if not _cites_own_article(citation, year):
         return None                    # the same author's other work: a different author list
+    # the citation's authors, in order: "A B, C & D E" or "A B and C D" (a two-author lead
+    # arrives here whole, because only commas were split on before)
+    authors = [x.strip() for x in re.split(r"\s*(?:,|&|\band\b)\s*",
+               _citation_id_author_year(citation)[1] or lead or "") if x.strip()]
+    lead = authors[0] if authors else ""
+    sur = _record_surnames(_CURRENT_ARTICLE)
+    parts = [x.strip() for x in str(_CURRENT_ARTICLE.get("authors") or "").split(",") if x.strip()]
+    if not sur and parts:
+        # an odd number of parts: some author has one name only ("Samo, Damianus D., Darhim,
+        # Kartasasmita, Bana"), so the pairs cannot be read; the first part is still the first
+        # surname, and the citation says how many authors there are
+        sur = [parts[0]] + [a.replace(".", " ").split()[-1] for a in authors[1:] if a.split()]
     words = (lead or "").replace(".", " ").split()
     if not sur or len(words) < 2:
         return None
-    lead_sur = words[-1].strip("*,;:")
-    if _fold(lead_sur) != _fold(sur[0]):
+    n = len(_fold(sur[0]).split())   # a compound surname ("Inciman Celik") is several words
+    lead_sur = " ".join(w.strip("*,;:") for w in words[-n:])
+    if len(words) <= n or _fold(lead_sur) != _fold(sur[0]):
         return None
     first = sur[0]
     if _fold(lead_sur) != lead_sur.casefold():
         # the citation's spelling keeps diacritics ERIC drops ("Bozavlı" for "Bozavli"), in title case
-        first = lead_sur.capitalize() if (lead_sur.isupper() or lead_sur.islower()) else lead_sur
+        first = lead_sur.title() if (lead_sur.isupper() or lead_sur.islower()) else lead_sur
     if len(sur) == 1:
         return first
-    return f"{first} and {sur[1]}" if len(sur) == 2 else f"{first} et al."
+    if len(sur) > 2:
+        return f"{first} et al."
+    second = sur[1]
+    if len(authors) > 1:   # keep the citation's spelling of the second surname too ("Dökme", not "Dokme")
+        w = authors[1].replace(".", " ").split()
+        k = len(_fold(second).split())
+        if len(w) >= k and _fold(" ".join(w[-k:])) == _fold(second):
+            second = " ".join(w[-k:])
+            if second.isupper() or second.islower():
+                second = second.title()
+    return f"{first} and {second}"
 
 
 def _fold(name: str) -> str:
