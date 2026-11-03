@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 230 claims (120 show a difference, 55 mixed, 55 no difference) · 181 studies (74 causal, 74 associational, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 31 of 181 report an effect size · 229 claims rest on one study
+> **Evidence** · 231 claims (120 show a difference, 55 mixed, 56 no difference) · 182 studies (75 causal, 74 associational, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 31 of 182 report an effect size · 230 claims rest on one study
 
 ## How to read this page
 
@@ -315,6 +315,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [The intervention was equally effective for high and low SES families, with the ACT effect equal to about 50% of the SES gap in math/science test scores](../claims/ses-equivalence-and-gap-closure.md) [-M] — an instructional effect differs by group
 - [INSIGHTS reduced SPED receipt for low-income students by 6 percentage points, an effect that replicated across models](../claims/insights-reduced-sped-low-income-students.md) [+M] — an instructional effect differs by group
 - [Unadjusted descriptive comparisons showed INSIGHTS students less likely to receive SPED, especially low-income students](../claims/insights-descriptive-sped-differences.md) [+M] — an instructional effect differs by group
+- [No statistically significant interaction effects by gender or socioeconomic status in improvement of geospatial skills or atmospheric science knowledge](../claims/no-gender-ses-interaction-gst-learning-gains.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

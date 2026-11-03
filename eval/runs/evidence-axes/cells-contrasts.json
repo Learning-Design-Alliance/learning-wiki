@@ -69514,5 +69514,45 @@
  "scaffolding\tsymmetrical scaffolding\tpre-test performance before treatment": {
   "label": "symmetrical scaffolding vs pre-treatment baseline",
   "treatment_is_a": true
+ },
+ "other\t10-minute pre-testing review\tno pre-testing review": {
+  "label": "pre-testing review vs no pre-testing review",
+  "treatment_is_a": true
+ },
+ "other\t12 weeks of self-directed learning activities\tpre-intervention performance": {
+  "label": "self-directed learning activities vs pre-intervention performance",
+  "treatment_is_a": true
+ },
+ "other\t12 weeks of self-directed learning activities\tpre-intervention self-directed learning ability": {
+  "label": "self-directed learning activities vs pre-intervention self-directed learning ability",
+  "treatment_is_a": true
+ },
+ "other\t12 weeks of self-directed learning activities: project work, learning contracts, and peer review\tpre-intervention self-directed learning ability": {
+  "label": "self-directed learning activities with project work, learning contracts, and peer review vs pre-intervention self-directed learning ability",
+  "treatment_is_a": true
+ },
+ "other\t12-week teacher training in ADHD/ODD management and behaviour modification\tbaseline waiting period without training": {
+  "label": "teacher training in ADHD/ODD management and behaviour modification vs waiting period without training",
+  "treatment_is_a": true
+ },
+ "other\t12-week teacher training programme\tno teacher training": {
+  "label": "teacher training programme vs no teacher training",
+  "treatment_is_a": true
+ },
+ "other\t12-week teacher-training programme\tbaseline before training": {
+  "label": "teacher-training programme vs baseline before training",
+  "treatment_is_a": true
+ },
+ "other\t12-week teacher-training programme\tbaseline waiting period": {
+  "label": "teacher-training programme vs baseline waiting period",
+  "treatment_is_a": true
+ },
+ "other\t12-week teacher-training programme\tnon-trained teacher control group": {
+  "label": "teacher-training programme vs non-trained teacher control group",
+  "treatment_is_a": true
+ },
+ "other\t135-hour professional development in discrete mathematics and mathematical modeling\tno professional development in discrete mathematics or mathematical modeling": {
+  "label": "professional development in discrete mathematics and mathematical modeling vs no professional development in discrete mathematics or mathematical modeling",
+  "treatment_is_a": true
  }
 }

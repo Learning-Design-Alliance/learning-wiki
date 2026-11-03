@@ -1,16 +1,16 @@
 {
 "counts":{
-"claim":46478,
-"design":2357,
+"claim":46485,
+"design":2359,
 "element":1057,
 "learner-variable":75,
 "method":37,
 "pattern":54,
 "principle":170,
 "process":18,
-"product":3091,
+"product":3092,
 "research-method":984,
-"strategy":9751,
+"strategy":9754,
 "theory":1360
 },
 "kinds":[
@@ -47962,6 +47962,16 @@
 "type":"claim"
 },
 {
+"description":"Both convergent and divergent task instruction increased learners' motivation over the treatment period",
+"evidence_strength":"moderate",
+"id":"both-task-types-increase-motivation",
+"newest_evidence":"2015",
+"path":"claims/both-task-types-increase-motivation.md",
+"status":"review",
+"title":"Both convergent and divergent task instruction increased learners' motivation over the treatment period",
+"type":"claim"
+},
+{
 "description":"Both blended and traditional teaching produced significant pretest-posttest changes in personality subscales",
 "evidence_strength":"weak",
 "id":"both-teaching-methods-change-personality-subscales",
@@ -86734,6 +86744,36 @@
 "path":"claims/convergence-toward-others-assumptions.md",
 "status":"review",
 "title":"Learners converge toward an unknown other's assumptions after seeing the other's answers and confidence, reducing the distance between their own and the partner's answers",
+"type":"claim"
+},
+{
+"description":"The two experimental groups showed no significant difference in writing or motivation at the outset",
+"evidence_strength":"moderate",
+"id":"convergent-divergent-groups-equivalent-at-pretest",
+"newest_evidence":"2015",
+"path":"claims/convergent-divergent-groups-equivalent-at-pretest.md",
+"status":"review",
+"title":"The two experimental groups showed no significant difference in writing or motivation at the outset",
+"type":"claim"
+},
+{
+"description":"Convergent and divergent tasks do not differ significantly in improving EFL learners' motivation",
+"evidence_strength":"moderate",
+"id":"convergent-divergent-tasks-no-motivation-difference",
+"newest_evidence":"2015",
+"path":"claims/convergent-divergent-tasks-no-motivation-difference.md",
+"status":"review",
+"title":"Convergent and divergent tasks do not differ significantly in improving EFL learners' motivation",
+"type":"claim"
+},
+{
+"description":"Convergent tasks improve EFL learners' writing significantly more than divergent tasks",
+"evidence_strength":"moderate",
+"id":"convergent-tasks-improve-efl-writing-more-than-divergent",
+"newest_evidence":"2015",
+"path":"claims/convergent-tasks-improve-efl-writing-more-than-divergent.md",
+"status":"review",
+"title":"Convergent tasks improve EFL learners' writing significantly more than divergent tasks",
 "type":"claim"
 },
 {
@@ -285643,6 +285683,16 @@
 "type":"claim"
 },
 {
+"description":"No statistically significant interaction effects by gender or socioeconomic status in improvement of geospatial skills or atmospheric science knowledge",
+"evidence_strength":"moderate",
+"id":"no-gender-ses-interaction-gst-learning-gains",
+"newest_evidence":"2013",
+"path":"claims/no-gender-ses-interaction-gst-learning-gains.md",
+"status":"review",
+"title":"No statistically significant interaction effects by gender or socioeconomic status in improvement of geospatial skills or atmospheric science knowledge",
+"type":"claim"
+},
+{
 "description":"Studies of preservice teachers found no statistically significant associations between gender or other sociodemographic variables and AHS",
 "evidence_strength":"moderate",
 "id":"no-gender-sociodemographic-ahs-association",
@@ -413947,6 +413997,26 @@
 "type":"claim"
 },
 {
+"description":"Students' atmospheric science knowledge improved statistically significantly across time from pretest to evaluation phase test",
+"evidence_strength":"moderate",
+"id":"sts-partnership-gst-improves-atmospheric-concept-knowledge",
+"newest_evidence":"2013",
+"path":"claims/sts-partnership-gst-improves-atmospheric-concept-knowledge.md",
+"status":"review",
+"title":"Students' atmospheric science knowledge improved statistically significantly across time from pretest to evaluation phase test",
+"type":"claim"
+},
+{
+"description":"Students' geospatial skills improved statistically significantly with instruction within an STS partnership using geospatial technologies",
+"evidence_strength":"moderate",
+"id":"sts-partnership-gst-improves-geospatial-skills",
+"newest_evidence":"2013",
+"path":"claims/sts-partnership-gst-improves-geospatial-skills.md",
+"status":"review",
+"title":"Students' geospatial skills improved statistically significantly with instruction within an STS partnership using geospatial technologies",
+"type":"claim"
+},
+{
 "description":"Student academic ability varied across quarters but not systematically with changes in course structure",
 "evidence_strength":"moderate",
 "id":"student-ability-varied-not-with-structure",
@@ -489052,6 +489122,14 @@
 "type":"design"
 },
 {
+"description":"The article proposes that juxtaposing context-embedded vs context-reduced communication with cognitively demanding vs undemanding talk yields 'four independent quadrants ready to contain any of the skill-practicing ta...",
+"id":"four-quadrant-context-cognitive-demand-lesson-design",
+"path":"designs/four-quadrant-context-cognitive-demand-lesson-design.md",
+"status":"review",
+"title":"Four-quadrant lesson design crossing context embeddedness with cognitive demand",
+"type":"design"
+},
+{
 "description":"The app structures each inquiry spot around four scaffolds following Stripling's social inquiry model.",
 "id":"four-scaffold-context-aware-inquiry-cycle",
 "path":"designs/four-scaffold-context-aware-inquiry-cycle.md",
@@ -489905,6 +489983,14 @@
 "path":"designs/gsp-graph-functions-instructional-activities.md",
 "status":"review",
 "title":"Geometer's Sketchpad-based instructional activities for graph functions",
+"type":"design"
+},
+{
+"description":"Students set up two field research sites (grassy field and paved area) of ideally 30 by 30 m, matching the MODIS satellite swath size.",
+"id":"gst-field-campaign-data-collection-protocol",
+"path":"designs/gst-field-campaign-data-collection-protocol.md",
+"status":"review",
+"title":"Field campaign data collection protocol using geospatial technologies for urban heat island study",
 "type":"design"
 },
 {
@@ -533537,6 +533623,14 @@
 "path":"products/standardized-achievement-test-of-learning-and-instruction-based-on-merrills-component-disp.md",
 "status":"review",
 "title":"Standardized achievement test of learning and instruction based on Merrill's Component Display Theory",
+"type":"product"
+},
+{
+"description":"A standardized assessment developed by Lee and published by the Association of American Geographers to measure spatial and geospatial-technology skills in grades 7–12 students.",
+"id":"standardized-spatial-skills-ssk-test",
+"path":"products/standardized-spatial-skills-ssk-test.md",
+"status":"review",
+"title":"Standardized Spatial Skills (SSK) test",
 "type":"product"
 },
 {
@@ -580826,6 +580920,14 @@
 "type":"strategy"
 },
 {
+"description":"Students designed individual or team (up to three) inquiry-based research projects addressing global climate change or the urban heat island effect, following Intel ISEF guidelines so they could also present at scienc...",
+"id":"inquiry-projects-intel-isef-gst-strategy",
+"path":"strategies/inquiry-projects-intel-isef-gst-strategy.md",
+"status":"review",
+"title":"Inquiry-based student research projects following Intel ISEF Science Fair guidelines using geospatial technologies",
+"type":"strategy"
+},
+{
 "description":"The article recommends that \\\"Teachers can be provided trainings about CAMI and CASs such as Mathematica so they can benefit from ICTs by achieving the technology integration at high levels in their lessons.\\\" It furthe...",
 "id":"inservice-training-and-material-design-for-cami",
 "path":"strategies/inservice-training-and-material-design-for-cami.md",
@@ -616687,6 +616789,14 @@
 "type":"strategy"
 },
 {
+"description":"The article recommends that teacher training centers and institutions introduce convergent task techniques to English teachers through both pre-service and in-service courses.",
+"id":"teacher-training-for-convergent-tasks",
+"path":"strategies/teacher-training-for-convergent-tasks.md",
+"status":"review",
+"title":"Familiarize teachers with convergent task techniques through pre-service and in-service training",
+"type":"strategy"
+},
+{
 "description":"Based on the meta-analysis findings that digital story applications have a high positive effect on achievement, the authors recommend that teachers be sufficiently equipped regarding the digital story method.",
 "id":"teacher-training-for-digital-story-method",
 "path":"strategies/teacher-training-for-digital-story-method.md",
@@ -617582,6 +617692,14 @@
 "path":"strategies/textbook-authors-state-instructional-objectives.md",
 "status":"review",
 "title":"Authors of Literature-in-English texts should state the instructional objectives of each chapter or topic",
+"type":"strategy"
+},
+{
+"description":"The article recommends that syllabus designers and materials developers produce textbooks highlighting convergent writing tasks, accompanied by teachers' guidebooks to assist application.",
+"id":"textbook-convergent-writing-tasks-with-guidebooks",
+"path":"strategies/textbook-convergent-writing-tasks-with-guidebooks.md",
+"status":"review",
+"title":"Include convergent writing tasks in textbooks with accompanying teacher guidebooks",
 "type":"strategy"
 },
 {
@@ -639639,6 +639757,7 @@
 "both-strategies-improved-vocabulary-knowledge":"both-strategies-improved-vocabulary-knowledge",
 "both-strategies-viable-distance-math":"both-strategies-viable-distance-math",
 "both-task-types-improve-grammar-learning":"both-task-types-improve-grammar-learning",
+"both-task-types-increase-motivation":"both-task-types-increase-motivation",
 "both-teaching-methods-change-personality-subscales":"both-teaching-methods-change-personality-subscales",
 "both-treatments-beat-control-ajt":"both-treatments-beat-control-ajt",
 "both-treatments-large-prepost-gains":"both-treatments-large-prepost-gains",
@@ -643423,6 +643542,9 @@
 "convergence-key-noncognitive-attributes":"convergence-key-noncognitive-attributes",
 "convergence-largest-for-more-constrained-skills":"convergence-largest-for-more-constrained-skills",
 "convergence-toward-others-assumptions":"convergence-toward-others-assumptions",
+"convergent-divergent-groups-equivalent-at-pretest":"convergent-divergent-groups-equivalent-at-pretest",
+"convergent-divergent-tasks-no-motivation-difference":"convergent-divergent-tasks-no-motivation-difference",
+"convergent-tasks-improve-efl-writing-more-than-divergent":"convergent-tasks-improve-efl-writing-more-than-divergent",
 "converger-higher-final-grades-synchronous-online":"converger-higher-final-grades-synchronous-online",
 "converger-higher-open-ended-synchronous-online":"converger-higher-open-ended-synchronous-online",
 "converging-ses-threats-worst-performance":"converging-ses-threats-worst-performance",
@@ -662868,6 +662990,7 @@
 "no-gender-moderation-number-relationships":"no-gender-moderation-number-relationships",
 "no-gender-question-type-interaction-formal-informal-math":"no-gender-question-type-interaction-formal-informal-math",
 "no-gender-race-perception-bias-preschool":"no-gender-race-perception-bias-preschool",
+"no-gender-ses-interaction-gst-learning-gains":"no-gender-ses-interaction-gst-learning-gains",
 "no-gender-sociodemographic-ahs-association":"no-gender-sociodemographic-ahs-association",
 "no-gender-strategy-interaction-achievement":"no-gender-strategy-interaction-achievement",
 "no-gender-strategy-interaction-kwl":"no-gender-strategy-interaction-kwl",
@@ -675475,6 +675598,8 @@
 "struggling-readers-slow-inaccurate":"struggling-readers-slow-inaccurate",
 "struggling-readers-use-context-clues-compensatorily":"struggling-readers-use-context-clues-compensatorily",
 "struggling-students-no-more-likely-use-centers":"struggling-students-no-more-likely-use-centers",
+"sts-partnership-gst-improves-atmospheric-concept-knowledge":"sts-partnership-gst-improves-atmospheric-concept-knowledge",
+"sts-partnership-gst-improves-geospatial-skills":"sts-partnership-gst-improves-geospatial-skills",
 "student-ability-varied-not-with-structure":"student-ability-varied-not-with-structure",
 "student-achievement-positively-predicts-enjoyment-three-domains":"student-achievement-positively-predicts-enjoyment-three-domains",
 "student-activity-and-rubric-specificity-drive-improvement":"student-activity-and-rubric-specificity-drive-improvement",
@@ -683043,6 +683168,7 @@
 "four-phase-weekly-ai-simulation-cycle":"four-phase-weekly-ai-simulation-cycle",
 "four-pillar-sustainability-model-online-programs":"four-pillar-sustainability-model-online-programs",
 "four-pillars-of-nlp-reading-framework":"four-pillars-of-nlp-reading-framework",
+"four-quadrant-context-cognitive-demand-lesson-design":"four-quadrant-context-cognitive-demand-lesson-design",
 "four-scaffold-context-aware-inquiry-cycle":"four-scaffold-context-aware-inquiry-cycle",
 "four-section-web-metacognitive-training-website":"four-section-web-metacognitive-training-website",
 "four-sequence-guidance-cvs-intervention":"four-sequence-guidance-cvs-intervention",
@@ -683150,6 +683276,7 @@
 "gsil-gamified-outdoor-sil-app":"gsil-gamified-outdoor-sil-app",
 "gsp-angle-activities-year-three":"gsp-angle-activities-year-three",
 "gsp-graph-functions-instructional-activities":"gsp-graph-functions-instructional-activities",
+"gst-field-campaign-data-collection-protocol":"gst-field-campaign-data-collection-protocol",
 "gsu-academic-chatbot-mainstay":"gsu-academic-chatbot-mainstay",
 "guidance-manipulation-dual-variable-account":"guidance-manipulation-dual-variable-account",
 "guided-human-ai-collaboration-workflow":"guided-human-ai-collaboration-workflow",
@@ -688865,6 +688992,7 @@
 "stanbkt":"stanbkt",
 "standard-vocabulary-test-of-239-words-derived-from-thirteen-beginner-books-and-lodges-caes":"standard-vocabulary-test-of-239-words-derived-from-thirteen-beginner-books-and-lodges-caes",
 "standardized-achievement-test-of-learning-and-instruction-based-on-merrills-component-disp":"standardized-achievement-test-of-learning-and-instruction-based-on-merrills-component-disp",
+"standardized-spatial-skills-ssk-test":"standardized-spatial-skills-ssk-test",
 "standards-for-professional-learning":"standards-for-professional-learning",
 "standards-of-excellence-for-outcomes-based-contracting":"standards-of-excellence-for-outcomes-based-contracting",
 "stanford-educational-data-archive-seda":"stanford-educational-data-archive-seda",
@@ -694937,6 +695065,7 @@
 "inquiry-based_writing":"inquiry-based_writing",
 "inquiry-emphasizing-regulation-of-cognition":"inquiry-emphasizing-regulation-of-cognition",
 "inquiry-item-by-item-expert-comparison-strategy":"inquiry-item-by-item-expert-comparison-strategy",
+"inquiry-projects-intel-isef-gst-strategy":"inquiry-projects-intel-isef-gst-strategy",
 "inservice-training-and-material-design-for-cami":"inservice-training-and-material-design-for-cami",
 "inservice-training-constructivist-approach":"inservice-training-constructivist-approach",
 "insights-3rs-2ss-temperament-strategies":"insights-3rs-2ss-temperament-strategies",
@@ -699586,6 +699715,7 @@
 "teacher-training-develop-cbi-software-strategy":"teacher-training-develop-cbi-software-strategy",
 "teacher-training-dynamic-assessment-techniques":"teacher-training-dynamic-assessment-techniques",
 "teacher-training-evidence-based-strategies-natural-environment-autism":"teacher-training-evidence-based-strategies-natural-environment-autism",
+"teacher-training-for-convergent-tasks":"teacher-training-for-convergent-tasks",
 "teacher-training-for-digital-story-method":"teacher-training-for-digital-story-method",
 "teacher-training-interactive-cf-types":"teacher-training-interactive-cf-types",
 "teacher-training-ipad-game-workshops":"teacher-training-ipad-game-workshops",
@@ -699704,6 +699834,7 @@
 "text_illustrations_with_graphic_organizers":"text_illustrations_with_graphic_organizers",
 "text_marking":"text_marking",
 "textbook-authors-state-instructional-objectives":"textbook-authors-state-instructional-objectives",
+"textbook-convergent-writing-tasks-with-guidebooks":"textbook-convergent-writing-tasks-with-guidebooks",
 "textbook-matching-cloze-lexical-phrase-exercises":"textbook-matching-cloze-lexical-phrase-exercises",
 "textbook-pronunciation-exercises-strategy":"textbook-pronunciation-exercises-strategy",
 "textbooks-include-behavioural-objectives-per-topic":"textbooks-include-behavioural-objectives-per-topic",

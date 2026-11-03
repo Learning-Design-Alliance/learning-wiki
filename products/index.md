@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**3091 entries** · 0 stable · 3091 in review · 0 drafts
+**3092 entries** · 0 stable · 3092 in review · 0 drafts
 
 ---
 
@@ -2544,6 +2544,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [StanBKT](stanbkt.md) - StanBKT is an open-source Python package made by Siddhartha Pradhan et al.
 * [Standard Vocabulary Test of 239 words derived from thirteen beginner books and Lodge's Caesar-Cicero-Vergil tabulation](standard-vocabulary-test-of-239-words-derived-from-thirteen-beginner-books-and-lodges-caes.md) - A standardized 239-word Latin vocabulary test developed by V.
 * [Standardized achievement test of learning and instruction based on Merrill's Component Display Theory](standardized-achievement-test-of-learning-and-instruction-based-on-merrills-component-disp.md) - A standardized end-of-experiment achievement test developed by Mutrofin et al.
+* [Standardized Spatial Skills (SSK) test](standardized-spatial-skills-ssk-test.md) - A standardized assessment developed by Lee and published by the Association of American Geographers to measure spatial and geospatial-technology skills in grades 7–12 students.
 * [Standards for Professional Learning](standards-for-professional-learning.md) - A seven-standard framework for organizing results-oriented educator professional learning, developed and maintained by Learning Forward with partner organizations.
 * [Standards of Excellence for Outcomes Based Contracting™](standards-of-excellence-for-outcomes-based-contracting.md) - A framework from COBC that organizes outcomes-based edtech contracting around population and program definition, outcomes and metrics, contingent payment, mutual accountability, and continuous improvement.
 * [Stanford Educational Data Archive (SEDA)](stanford-educational-data-archive-seda.md) - A Stanford Education Data Archive dataset providing district-level estimates of mathematics and ELA achievement and growth for Grades 3–8 across U.S.

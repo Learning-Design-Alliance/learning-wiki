@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**2357 entries** · 0 stable · 2357 in review · 0 drafts
+**2359 entries** · 0 stable · 2359 in review · 0 drafts
 
 ---
 
@@ -702,6 +702,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Fiber crafts course with weaving and fabric manipulation units in a school design studio](fiber-crafts-course-design-studio.md) - A fiber crafts course facilitated within a weekly design studio at a K-8 public charter school, in which 16 middle school students aged 11-14 self-selected into units on weaving and fabric manipulation.
 * [Fidelity of implementation as a latent construct with four components](fidelity-implementation-four-component-latent-construct.md) - The study conceptualizes implementation fidelity as a latent construct underlying four separate components: \"dosage, adherence, quality of delivery, and student responsiveness.\" Fidelity was measured through classroom...
 * [Fidelity versus adaptive implementation approaches to scaling up educational programs](fidelity-versus-adaptive-implementation-approaches.md) - The article contrasts two program-management frameworks for scale-up.
+* [Field campaign data collection protocol using geospatial technologies for urban heat island study](gst-field-campaign-data-collection-protocol.md) - Students set up two field research sites (grassy field and paved area) of ideally 30 by 30 m, matching the MODIS satellite swath size.
 * [Fifteen produced film examples varying script, sound recording, lighting, camera speed, and photographer experience](fifteen-billet-analysis-film-examples.md) - As part of the billet analysis feasibility research, fifteen film examples were planned and produced to test recording approaches.
 * [Fifteen-session topic-based metacognitive awareness listening and speaking course](fifteen-session-metacognitive-awareness-course.md) - The treatment was a fifteen-week topic-based listening and speaking course \"based on Cotterall's (2000) principles of autonomous learning\".
 * [Fifteen-week digital game-based language learning program at a Thai university](fifteen-week-game-based-program-thai-university.md) - The studied intervention was a fifteen-week digital game-based learning program at a university in Thailand, in which five students participated.
@@ -856,6 +857,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Four-phase weekly cycle for AI-based noticing practice: video, chatbot interaction, reflection, mentor feedback](four-phase-weekly-ai-simulation-cycle.md) - The implementation was organised as a repeating weekly structure in which \"each week consisting of four phases\".
 * [Four-pillar conceptual framework for tailoring generative UI to learning: curriculum alignment, agency and motivation, guidance and scaffolding, formative feedback](learning-interactives-four-pillars-framework.md) - The article develops a conceptual framework of four pillars for tailoring generative interfaces to learning: \"curriculum alignment; agency and motivation; guidance and scaffolding; formative feedback.\" Each pillar is...
 * [Four-pillar sustainability model for online study programs](four-pillar-sustainability-model-online-programs.md) - The article applies a four-pillar sustainability model in which \"The model consists of four sustainability pillars: economic, social, environmental, and ethical.\" The economic pillar covers resources and funding, the...
+* [Four-quadrant lesson design crossing context embeddedness with cognitive demand](four-quadrant-context-cognitive-demand-lesson-design.md) - The article proposes that juxtaposing context-embedded vs context-reduced communication with cognitively demanding vs undemanding talk yields 'four independent quadrants ready to contain any of the skill-practicing ta...
 * [Four-scaffold inquiry cycle delivered as context-aware game scaffolds](four-scaffold-context-aware-inquiry-cycle.md) - The app structures each inquiry spot around four scaffolds following Stripling's social inquiry model.
 * [Four-section web-based metacognitive training website](four-section-web-metacognitive-training-website.md) - The authors developed a website with four sections — self-plan, self-monitor, self-modify, and self-evaluate — each with stated learning objectives (e.g.
 * [Four-sequence high/low guidance intervention for teaching CVS to third graders](four-sequence-guidance-cvs-intervention.md) - An instructional intervention in which third-grade children received instruction in the control of variables strategy (CVS) under one of four orderings of guidance: \"high followed by high (HH), high followed by low (H...
