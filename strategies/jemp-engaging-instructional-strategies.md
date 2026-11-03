@@ -42,7 +42,7 @@ JEMP administrators and teachers reported that effective mathematics teaching co
 
 - [JEMP participants significantly outperformed non-participants on grade eight Algebra CST scores, with a small effect](../claims/jemp-algebra-cst-ancova.md) [+W]
 - [Administrators and teachers perceived collaborative group work and mathematical discourse as the strongest contributors to JEMP student achievement](../claims/jemp-collaborative-discourse-perceptions.md) [~W]
-- [Urban middle school students showed significant growth on MDTP readiness tests after the six-week JEMP summer program](../claims/jemp-mdtp-readiness-growth.md) [+W]
+- [Urban middle school students' mean MDTP readiness scores rose across the six-week JEMP summer program, with no comparison group or significance test](../claims/jemp-mdtp-readiness-growth.md) [+W]
 - [JEMP participants significantly outperformed non-participants on grade seven Pre-algebra CST scores after controlling for prior achievement](../claims/jemp-prealgebra-cst-ancova.md) [+W]
 - [Students who participated in JEMP for two consecutive summers had significantly higher 2013 grade eight Algebra CST scores than untreated students](../claims/jemp-two-summer-longitudinal-advantage.md) [+W]
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](../claims/students-report-hands-on-learning-most-effective.md) [+W]

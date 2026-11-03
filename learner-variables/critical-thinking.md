@@ -202,7 +202,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [PBL teaching significantly improves the critical thinking skills of analysis and interpretation in English-major sophomores](../claims/pbl-improves-analysis-interpretation-skills.md) [+M] — instruction changes it
 - [PBL teaching significantly improves the critical thinking temperament dimensions of analysis, openness and justice in English-major sophomores](../claims/pbl-improves-analysis-openness-justice-temperament.md) [+M] — instruction changes it
 - [Reading comprehension and critical thinking skill gains are positively correlated in EFL learners](../claims/reading-comprehension-critical-thinking-correlated.md) [+M] — learners who differ on it differ in outcomes
-- [Students report peer review fostered critical thinking, though confidence in identifying proper academic writing lagged](../claims/peer-review-critical-thinking-perception.md) [+M] — instruction changes it
+- [Learners report peer review fostered critical thinking in an EFL academic-writing course, with mixed answers on identifying proper academic writing](../claims/peer-review-critical-thinking-perception.md) [+W] — self-reported gains by participants who used peer review, with no comparison group
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

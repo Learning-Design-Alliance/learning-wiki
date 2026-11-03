@@ -43,8 +43,8 @@ The article states that active learning includes several techniques such as demo
 - [In the experimental group's skill rankings, search-engine searching, research proposal writing, and results interpretation ranked highest, while annotated bibliography, literature review, and introduction writing ranked lowest](../claims/experimental-group-skill-ranking-pattern.md) [+M]
 - [The largest active-learning gains occurred in searching topics and keywords in search engines (skill 6) and writing and interpreting results of research tools (skill 12)](../claims/largest-gains-search-engines-and-results-interpretation.md) [+M]
 - [The smallest active-learning gains occurred in writing about previous studies, debating research topics, and using APA format](../claims/smallest-gains-literature-review-debate-apa.md) [+M]
-- [Learners perceive synchronous online forum discussions positively across seven themes: feeling, motivation, interaction, writing skills, autonomy, challenges, and cultural issues](../claims/ofd-learner-perceptions-seven-themes.md) [+W]
-- [Peer pairing, peer tutoring, and small collaborative/cooperative groupings improved MLs' English phonological awareness, decoding, and fluency across grade levels](../claims/peer-pairing-tutoring-grouping-improve-ml-reading-skills.md) [+M]
+- [Four EFL learners interviewed about synchronous online forum discussion described seven themes: positive feelings, motivation, interaction, writing-skill gains and autonomy, alongside practical challenges and a cultural issue](../claims/ofd-learner-perceptions-seven-themes.md) [+W]
+- [Peer pairing, peer tutoring, and small collaborative/cooperative groupings improved MLs' English phonological awareness across grade levels and were often associated with better English decoding and fluency than teacher-mediated instruction](../claims/peer-pairing-tutoring-grouping-improve-ml-reading-skills.md) [+M]
 
 ## Related Strategies
 - 

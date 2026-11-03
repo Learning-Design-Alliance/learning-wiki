@@ -25267,8 +25267,9 @@
 "description":"Despite more frequent phrase use, the control group outperformed both strategy-trained groups on posttest discussion scores, with the co-constructed group significantly lower than control",
 "evidence_strength":"moderate",
 "id":"ancova-control-outperformed-trained-groups",
-"newest_evidence":"2010",
+"newest_evidence":"2013",
 "path":"claims/ancova-control-outperformed-trained-groups.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Despite more frequent phrase use, the control group outperformed both strategy-trained groups on posttest discussion scores, with the co-constructed group significantly lower than control",
 "type":"claim"
@@ -114277,6 +114278,7 @@
 "id":"dynamic-assessment-outperforms-static-syntactic-development",
 "newest_evidence":"2012",
 "path":"claims/dynamic-assessment-outperforms-static-syntactic-development.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Dynamic assessment with mediated grammar testing produced higher post-test syntactic scores than deductive grammar instruction in Iranian college-preparatory EFL learners",
 "type":"claim"
@@ -115405,6 +115407,7 @@
 "id":"e-teaching-materials-raise-assimilation-motivation-history-teachers",
 "newest_evidence":"2016",
 "path":"claims/e-teaching-materials-raise-assimilation-motivation-history-teachers.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Using e-teaching materials in future humanities teachers' training raised knowledge assimilation, assimilation quality and motivation relative to traditional teaching",
 "type":"claim"
@@ -170975,6 +170978,7 @@
 "id":"goal-interventions-increased-girls-outcomes-liberia",
 "newest_evidence":"2014",
 "path":"claims/goal-interventions-increased-girls-outcomes-liberia.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"All three GOAL intervention models increased girls' enrollment, completion, and grade promotion in Liberian primary schools",
 "type":"claim"
@@ -188275,6 +188279,7 @@
 "id":"hs-itt-effects-sensitive-subgroup-definition",
 "newest_evidence":"2019",
 "path":"claims/hs-itt-effects-sensitive-subgroup-definition.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Estimated intent-to-treat effects of Head Start on cognitive and socioemotional outcomes for children with special needs are sensitive to how the subgroup is defined, with consistently larger effects under the IEP definition",
 "type":"claim"
@@ -203830,13 +203835,14 @@
 "type":"claim"
 },
 {
-"description":"Interactive training produced statistically significant differences among the three teaching methods on the overall non-cognitive skills test and on empathy, growth mindset, and grit, in favor of the experimental group",
+"description":"An interactive training program produced statistically significant differences among three teaching methods on overall non-cognitive skills and on empathy, growth mindset and grit; post hoc tests found it beat traditional teaching, and the article does not report its comparison with a no-training control",
 "evidence_strength":"moderate",
 "id":"interactive-training-significant-overall-three-dimensions",
 "newest_evidence":"2017",
 "path":"claims/interactive-training-significant-overall-three-dimensions.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Interactive training produced statistically significant differences among the three teaching methods on the overall non-cognitive skills test and on empathy, growth mindset, and grit, in favor of the experimental group",
+"title":"An interactive training program produced statistically significant differences among three teaching methods on overall non-cognitive skills and on empathy, growth mindset and grit; post hoc tests found it beat traditional teaching, and the article does not report its comparison with a no-training control",
 "type":"claim"
 },
 {
@@ -211283,13 +211289,14 @@
 "type":"claim"
 },
 {
-"description":"Urban middle school students showed significant growth on MDTP readiness tests after the six-week JEMP summer program",
+"description":"Urban middle school students' mean MDTP readiness scores rose across the six-week JEMP summer program, with no comparison group or significance test",
 "evidence_strength":"moderate",
 "id":"jemp-mdtp-readiness-growth",
 "newest_evidence":"2016",
 "path":"claims/jemp-mdtp-readiness-growth.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Urban middle school students showed significant growth on MDTP readiness tests after the six-week JEMP summer program",
+"title":"Urban middle school students' mean MDTP readiness scores rose across the six-week JEMP summer program, with no comparison group or significance test",
 "type":"claim"
 },
 {
@@ -285222,13 +285229,14 @@
 "type":"claim"
 },
 {
-"description":"Learners perceive synchronous online forum discussions positively across seven themes: feeling, motivation, interaction, writing skills, autonomy, challenges, and cultural issues",
+"description":"Four EFL learners interviewed about synchronous online forum discussion described seven themes: positive feelings, motivation, interaction, writing-skill gains and autonomy, alongside practical challenges and a cultural issue",
 "evidence_strength":"weak",
 "id":"ofd-learner-perceptions-seven-themes",
 "newest_evidence":"2016",
 "path":"claims/ofd-learner-perceptions-seven-themes.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Learners perceive synchronous online forum discussions positively across seven themes: feeling, motivation, interaction, writing skills, autonomy, challenges, and cultural issues",
+"title":"Four EFL learners interviewed about synchronous online forum discussion described seven themes: positive feelings, motivation, interaction, writing-skill gains and autonomy, alongside practical challenges and a cultural issue",
 "type":"claim"
 },
 {
@@ -298059,6 +298067,7 @@
 "id":"pbi-tbi-outperform-control-formulaic-sequences",
 "newest_evidence":"2017",
 "path":"claims/pbi-tbi-outperform-control-formulaic-sequences.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"PBI and TBI groups show more learning gains than a control group in formulaic-sequence retention, especially on the delayed test",
 "type":"claim"
@@ -299892,6 +299901,7 @@
 "id":"pbl-lower-stimulated-carry-on-learning-null",
 "newest_evidence":"2011",
 "path":"claims/pbl-lower-stimulated-carry-on-learning-null.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"PBL scored lower than non-PBL on stimulating students to carry on learning, though not statistically significantly",
 "type":"claim"
@@ -303074,13 +303084,14 @@
 "type":"claim"
 },
 {
-"description":"Peer pairing, peer tutoring, and small collaborative/cooperative groupings improved MLs' English phonological awareness, decoding, and fluency across grade levels",
+"description":"Peer pairing, peer tutoring, and small collaborative/cooperative groupings improved MLs' English phonological awareness across grade levels and were often associated with better English decoding and fluency than teacher-mediated instruction",
 "evidence_strength":"moderate",
 "id":"peer-pairing-tutoring-grouping-improve-ml-reading-skills",
 "newest_evidence":"2024",
 "path":"claims/peer-pairing-tutoring-grouping-improve-ml-reading-skills.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Peer pairing, peer tutoring, and small collaborative/cooperative groupings improved MLs' English phonological awareness, decoding, and fluency across grade levels",
+"title":"Peer pairing, peer tutoring, and small collaborative/cooperative groupings improved MLs' English phonological awareness across grade levels and were often associated with better English decoding and fluency than teacher-mediated instruction",
 "type":"claim"
 },
 {
@@ -303288,13 +303299,14 @@
 "type":"claim"
 },
 {
-"description":"Students report peer review fostered critical thinking, though confidence in identifying proper academic writing lagged",
+"description":"Learners report peer review fostered critical thinking in an EFL academic-writing course, with mixed answers on identifying proper academic writing",
 "evidence_strength":"moderate",
 "id":"peer-review-critical-thinking-perception",
 "newest_evidence":"2018",
 "path":"claims/peer-review-critical-thinking-perception.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Students report peer review fostered critical thinking, though confidence in identifying proper academic writing lagged",
+"title":"Learners report peer review fostered critical thinking in an EFL academic-writing course, with mixed answers on identifying proper academic writing",
 "type":"claim"
 },
 {
@@ -334316,6 +334328,7 @@
 "id":"qdpr-improved-phoneme-knowledge",
 "newest_evidence":"2017",
 "path":"claims/qdpr-improved-phoneme-knowledge.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"QDPR significantly improved Indonesian EFL learners' knowledge of the target English phonemes in a one-group pretest-posttest study",
 "type":"claim"
@@ -395292,8 +395305,9 @@
 "description":"EFL students taught communication strategies via explicit or co-constructed instruction employ the taught phrases more frequently in small-group discussions than untrained control students",
 "evidence_strength":"moderate",
 "id":"strategy-training-increases-phrase-use-frequency",
-"newest_evidence":"2010",
+"newest_evidence":"2013",
 "path":"claims/strategy-training-increases-phrase-use-frequency.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"EFL students taught communication strategies via explicit or co-constructed instruction employ the taught phrases more frequently in small-group discussions than untrained control students",
 "type":"claim"
@@ -411688,13 +411702,14 @@
 "type":"claim"
 },
 {
-"description":"TBI tends to outperform PBI in two cases: delayed Form and Meaning Recall of Repeating chunks and immediate Form Recognition of Non-repeating chunks",
+"description":"TBI outperformed PBI on delayed Form and Meaning Recall of Repeating chunks; on immediate Form Recognition of Non-repeating chunks the two treatments scored almost the same",
 "evidence_strength":"moderate",
 "id":"tbi-surpasses-pbi-two-cases",
 "newest_evidence":"2017",
 "path":"claims/tbi-surpasses-pbi-two-cases.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"TBI tends to outperform PBI in two cases: delayed Form and Meaning Recall of Repeating chunks and immediate Form Recognition of Non-repeating chunks",
+"title":"TBI outperformed PBI on delayed Form and Meaning Recall of Repeating chunks; on immediate Form Recognition of Non-repeating chunks the two treatments scored almost the same",
 "type":"claim"
 },
 {

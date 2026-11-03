@@ -22,7 +22,7 @@ A foundation-sponsored six-week intensive summer mathematics intervention for ur
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Urban middle school students showed significant growth on MDTP readiness tests after the six-week JEMP summer program](../claims/jemp-mdtp-readiness-growth.md) [+M]
+- [Urban middle school students' mean MDTP readiness scores rose across the six-week JEMP summer program, with no comparison group or significance test](../claims/jemp-mdtp-readiness-growth.md) [+W]
 - [JEMP participants significantly outperformed non-participants on grade seven Pre-algebra CST scores after controlling for prior achievement](../claims/jemp-prealgebra-cst-ancova.md) [+M]
 - [Students who participated in JEMP for two consecutive summers had significantly higher 2013 grade eight Algebra CST scores than untreated students](../claims/jemp-two-summer-longitudinal-advantage.md) [+M]
 

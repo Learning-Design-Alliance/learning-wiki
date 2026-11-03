@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 241 claims (180 show a difference, 33 mixed, 28 no difference) · 195 studies (59 associational, 58 causal, 32 review, 19 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 38 of 195 report an effect size · 237 claims rest on one study
+> **Evidence** · 241 claims (180 show a difference, 34 mixed, 27 no difference) · 195 studies (59 associational, 58 causal, 32 review, 19 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 38 of 195 report an effect size · 237 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -270,7 +270,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [The Debate group showed a larger descriptive gain in Self-Perceived Communicative Competence than the PI group](../claims/debate-larger-communicative-competence-gain.md) [+M] — instruction changes it
 - [Self-efficacy correlates positively with foreign language achievement measures](../claims/self-efficacy-correlates-language-achievement.md) [+W] — learners who differ on it differ in outcomes
 - [Smartboard teaching raised overall motivation, integrative orientation, instrumental orientation and linguistic self-confidence, but not self-efficacy beliefs or ought-to L2 self](../claims/smartboard-motivation-subcomponents-mixed.md) [-M] — instruction changes it
-- [Students report peer review fostered critical thinking, though confidence in identifying proper academic writing lagged](../claims/peer-review-critical-thinking-perception.md) [-M] — instruction changes it
+- [Learners report peer review fostered critical thinking in an EFL academic-writing course, with mixed answers on identifying proper academic writing](../claims/peer-review-critical-thinking-perception.md) [~W] — participants who used peer review gave mixed answers on identifying proper academic writing, which the authors read as low confidence, with no comparison group
 - [Teachers' self-efficacy is connected to the effectiveness of inclusion implementation, with self-efficacy for inclusive curricula mattering more than self-efficacy for cooperation](../claims/teacher-self-efficacy-inclusion-implementation.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question

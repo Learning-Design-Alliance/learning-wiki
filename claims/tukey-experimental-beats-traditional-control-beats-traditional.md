@@ -45,5 +45,5 @@ Post hoc Tukey comparisons following the three-group ANOVA on the non-cognitive 
 
 
 ## Related Claims
-- [Interactive training produced statistically significant differences among the three teaching methods on the overall non-cognitive skills test and on empathy, growth mindset, and grit, in favor of the experimental group](interactive-training-significant-overall-three-dimensions.md) — a broader claim this one bears on
+- [An interactive training program produced statistically significant differences among three teaching methods on overall non-cognitive skills and on empathy, growth mindset and grit; post hoc tests found it beat traditional teaching, and the article does not report its comparison with a no-training control](interactive-training-significant-overall-three-dimensions.md) — a broader claim this one bears on
 - [Both the movie-adaptation and news-adaptation groups significantly outperformed the control group on listening posttest, and did not differ from each other](tukey-both-adaptation-groups-beat-control.md) — related

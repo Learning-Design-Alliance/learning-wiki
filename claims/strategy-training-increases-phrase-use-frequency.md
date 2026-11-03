@@ -8,12 +8,13 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-03
 evidence_strength: moderate
-newest_evidence: 2010
+newest_evidence: 2013
+source_checked: 2026-11-03
 sources:
-  - id: benson-et-al-2010
-    resource: "http://www.ssllt.amu.edu.pl"
-    title: "Stuart Benson, Danielle Fischer, Joe Geluso, Lucius Von Joo. (2010). Effects of communication strategy training on EFL students' performance in small-group discussions. Studies in Second Language Learning and Teaching. http://www.ssllt.amu.edu.pl"
-    author: Stuart Benson, Danielle Fischer, Joe Geluso, Lucius Von Joo
+  - id: benson-et-al-2013
+    resource: "https://doi.org/10.14746/ssllt.2013.3.2.5"
+    title: "Benson, S., Fischer, D., Geluso, J., & Von Joo, L. (2013). Effects of communication strategy training on EFL students' performance in small-group discussions. *Studies in Second Language Learning and Teaching, 3*(2), 245-259. [doi:10.14746/ssllt.2013.3.2.5](https://doi.org/10.14746/ssllt.2013.3.2.5)"
+    author: "Benson, S., Fischer, D., Geluso, J., & Von Joo, L."
     q: 2
     i: "?"
     kind: causal
@@ -24,16 +25,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Experimental groups employed the taught clarifying/confirming and extending phrases more frequently than the control group (49 and 45 instances vs 37). [→ Benson et al. 2010](#benson-et-al-2010)
+`q2 i?` Experimental groups employed the taught clarifying/confirming and extending phrases more frequently than the control group (49 and 45 instances vs 37). [→ Benson et al. 2013](#benson-et-al-2013)
 
 ## Evidence
 
-### Benson et al. 2010
+### Benson et al. 2013
 
-Stuart Benson, Danielle Fischer, Joe Geluso, Lucius Von Joo. (2010). Effects of communication strategy training on EFL students' performance in small-group discussions. Studies in Second Language Learning and Teaching. http://www.ssllt.amu.edu.pl
+Benson, S., Fischer, D., Geluso, J., & Von Joo, L. (2013). Effects of communication strategy training on EFL students' performance in small-group discussions. *Studies in Second Language Learning and Teaching, 3*(2), 245-259. [doi:10.14746/ssllt.2013.3.2.5](https://doi.org/10.14746/ssllt.2013.3.2.5)
 
 `q2 · i?` · `causal · r1`
 

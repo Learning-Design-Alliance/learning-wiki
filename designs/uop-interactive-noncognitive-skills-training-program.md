@@ -17,7 +17,7 @@ sources:
 # Interactive training program for six non-cognitive skills at University of Petra
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A researcher-designed training program delivered through an obligatory "Teaching Thinking" faculty course, using "interactive training that largely depend on brainstorming, discussion, dialogue, team work, streaming of and illustrative movies." It targeted six non-cognitive skills: locus of control, planning, empathy, self-confidence, growth mindset, and grit. Students worked individually or in groups, concepts were introduced via short films and planned activities, there were no textbooks, and assessment used practical interactive projects rather than pen-and-paper exams.
@@ -42,7 +42,7 @@ A researcher-designed training program delivered through an obligatory "Teaching
 - grit
 
 ### Claims
-- [Interactive Training Significant Overall Three Dimensions](../claims/interactive-training-significant-overall-three-dimensions.md) [+M]
+- [An interactive training program produced statistically significant differences among three teaching methods on overall non-cognitive skills and on empathy, growth mindset and grit; post hoc tests found it beat traditional teaching, and the article does not report its comparison with a no-training control](../claims/interactive-training-significant-overall-three-dimensions.md) [~M]
 - [Program Failed Planning Locus Self Confidence](../claims/program-failed-planning-locus-self-confidence.md) [~M]
 
 ## Related Designs

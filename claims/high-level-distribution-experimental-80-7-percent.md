@@ -45,4 +45,4 @@ Descriptive distribution of the three groups' overall scale percentages into hig
 
 
 ## Related Claims
-- [Interactive training produced statistically significant differences among the three teaching methods on the overall non-cognitive skills test and on empathy, growth mindset, and grit, in favor of the experimental group](interactive-training-significant-overall-three-dimensions.md) — related
+- [An interactive training program produced statistically significant differences among three teaching methods on overall non-cognitive skills and on empathy, growth mindset and grit; post hoc tests found it beat traditional teaching, and the article does not report its comparison with a no-training control](interactive-training-significant-overall-three-dimensions.md) — related

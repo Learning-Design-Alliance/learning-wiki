@@ -50,5 +50,5 @@ Longitudinal comparison of N = 248 students with CST scores for grades 6, 7, and
 
 ## Related Claims
 - [JEMP participants significantly outperformed non-participants on grade eight Algebra CST scores, with a small effect](jemp-algebra-cst-ancova.md) — related
-- [Urban middle school students showed significant growth on MDTP readiness tests after the six-week JEMP summer program](jemp-mdtp-readiness-growth.md) — related
+- [Urban middle school students' mean MDTP readiness scores rose across the six-week JEMP summer program, with no comparison group or significance test](jemp-mdtp-readiness-growth.md) — related
 - [JEMP participants significantly outperformed non-participants on grade seven Pre-algebra CST scores after controlling for prior achievement](jemp-prealgebra-cst-ancova.md) — related

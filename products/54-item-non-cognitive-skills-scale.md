@@ -22,7 +22,7 @@ A 54-item two-choice questionnaire developed by Eman Gheith et al. to measure un
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Interactive training produced statistically significant differences among the three teaching methods on the overall non-cognitive skills test and on empathy, growth mindset, and grit, in favor of the experimental group](../claims/interactive-training-significant-overall-three-dimensions.md) [+M]
+- [An interactive training program produced statistically significant differences among three teaching methods on overall non-cognitive skills and on empathy, growth mindset and grit; post hoc tests found it beat traditional teaching, and the article does not report its comparison with a no-training control](../claims/interactive-training-significant-overall-three-dimensions.md) [+M]
 
 ## Related Products and Programmes
 -

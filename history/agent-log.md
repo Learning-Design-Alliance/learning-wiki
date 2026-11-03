@@ -5,6 +5,17 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-03 · the ANOVA-row check tries the readings a table's printing makes likely
+
+Four holds running (j-screric-19 to -22) stopped on a source-validity "impossible statistic" that was the
+parser's misreading, never the paper's: a df written as arithmetic, pairwise rows labelled "Groups 3 & 2",
+an MS printed with a period as the thousands separator ("37.232" for 37,232), and a sum of squares that
+PDF extraction split in two ("487.6 26" for 487.626). The first two were fixed at their holds. A row that
+fails SS / df = MS is now reported only if it also fails both remaining readings: the first two numbers
+joined into one, and MS read in thousands (to 0.5%). Over every cached source this removes exactly those
+two findings and adds none. The point is that a person should only be stopped by a table that disagrees
+with itself on every reasonable reading of its print.
+
 ## 2026-11-03 · evidence headings: two-author, mononym and compound-surname leads; header-only merges
 
 **Headings.** The 2026-11-01 surname fix missed three common shapes, and the load-bearing judge

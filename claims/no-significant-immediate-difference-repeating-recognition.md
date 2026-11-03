@@ -45,7 +45,7 @@ Mann-Whitney paired comparisons (CT vs PBI, TBI vs CT, PBI vs TBI) on Form Recog
 
 
 ## Related Claims
-- [TBI tends to outperform PBI in two cases: delayed Form and Meaning Recall of Repeating chunks and immediate Form Recognition of Non-repeating chunks](tbi-surpasses-pbi-two-cases.md) — related
+- [TBI outperformed PBI on delayed Form and Meaning Recall of Repeating chunks; on immediate Form Recognition of Non-repeating chunks the two treatments scored almost the same](tbi-surpasses-pbi-two-cases.md) — related
 - [Random assignment created equivalent groups, and performance did not differ by pattern dimension, orientation, or missing-item position](patterning-equivalent-groups-null-dimensions.md) — related
 - [PBI and TBI groups show more learning gains than a control group in formulaic-sequence retention, especially on the delayed test](pbi-tbi-outperform-control-formulaic-sequences.md) — related
 - [Form Recognition scores exceed Form and Meaning Recall scores for all three groups on both post-tests](recognition-exceeds-recall-formulaic-sequences.md) — related

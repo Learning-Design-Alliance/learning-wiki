@@ -40,7 +40,7 @@ Because the occurrence of chunks in discourse is not sufficient for noticing, th
 
 - [Both treatments significantly outperform control on delayed Form and Meaning Recall of Repeating and Non-repeating chunks](../claims/delayed-recall-treatments-beat-control.md) [+W]
 - [PBI and TBI groups show more learning gains than a control group in formulaic-sequence retention, especially on the delayed test](../claims/pbi-tbi-outperform-control-formulaic-sequences.md) [+W]
-- [TBI tends to outperform PBI in two cases: delayed Form and Meaning Recall of Repeating chunks and immediate Form Recognition of Non-repeating chunks](../claims/tbi-surpasses-pbi-two-cases.md) [~W]
+- [TBI outperformed PBI on delayed Form and Meaning Recall of Repeating chunks; on immediate Form Recognition of Non-repeating chunks the two treatments scored almost the same](../claims/tbi-surpasses-pbi-two-cases.md) [~W]
 
 ## Related Strategies
 

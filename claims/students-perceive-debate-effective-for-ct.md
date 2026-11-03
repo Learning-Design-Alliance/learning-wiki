@@ -49,4 +49,4 @@ Descriptive analysis of open-ended questionnaire responses showed 93.18% of expe
 - [Gender is not a significant factor in EFL learners' critical thinking skill gains from debate instruction](gender-no-effect-critical-thinking-debate.md) — related
 - [WSDC debate instruction significantly improved tenth-grade EFL students' critical thinking achievement within the experimental group](wsdc-debate-improves-efl-critical-thinking.md) — related
 - [Instructing critical thinking through debate significantly improves EFL learners' critical thinking skills compared to lecturing](debate-improves-efl-critical-thinking-skills.md) — related
-- [Students report peer review fostered critical thinking, though confidence in identifying proper academic writing lagged](peer-review-critical-thinking-perception.md) — related
+- [Learners report peer review fostered critical thinking in an EFL academic-writing course, with mixed answers on identifying proper academic writing](peer-review-critical-thinking-perception.md) — related

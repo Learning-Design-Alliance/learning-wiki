@@ -50,4 +50,4 @@ Mann-Whitney tests on Form and Meaning Recall in the Delayed Test two weeks afte
 
 ## Related Claims
 - [PBI and TBI groups show more learning gains than a control group in formulaic-sequence retention, especially on the delayed test](pbi-tbi-outperform-control-formulaic-sequences.md) — a broader claim this one bears on
-- [TBI tends to outperform PBI in two cases: delayed Form and Meaning Recall of Repeating chunks and immediate Form Recognition of Non-repeating chunks](tbi-surpasses-pbi-two-cases.md) — related
+- [TBI outperformed PBI on delayed Form and Meaning Recall of Repeating chunks; on immediate Form Recognition of Non-repeating chunks the two treatments scored almost the same](tbi-surpasses-pbi-two-cases.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-03
 sources:
   - id: bos-et-al-2014
     resource: "https://eric.ed.gov/?id=ED562797"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All three interventions increased girls' enrollment, completion, and grade promotion relative to a within-school boys counterfactual. [→ Bos et al. 2014](#bos-et-al-2014)
@@ -37,7 +38,7 @@ Johannes M. Bos, Dan Sherman, and Burhan Orgut, American Institutes for Research
 
 `q2 · i?` · `causal · r1`
 
-Non-experimental evaluation of the GOAL program in 60 Liberian primary schools (40 intervention, 20 comparison), using school-level census data in a difference-in-difference model with boys as the within-school counterfactual. The article reports that "all three interventions increased girls' enrollment, completion, and grade promotion." No effect sizes are printed.
+Non-experimental evaluation of the GOAL program in 60 Liberian primary schools (40 intervention, 20 comparison), using school-level census data in a difference-in-difference model with boys as the within-school counterfactual. The article reports that "all three interventions increased girls' enrollment, completion, and grade promotion," with larger estimated effects for scholarships than for grants, and effects that "ranged from relative improvements of 8 to more than 75 percent of baseline levels, depending on the intervention and the outcome." These are percentages of baseline, not standardized effect sizes, so impact is coded `i?`. Schools were not randomly assigned; the authors call the design nonexperimental, note that the boys counterfactual biases estimates downward for interventions that also benefit boys, and recommend a more rigorous study to confirm the findings.
 
 > "We found that all three interventions increased girls' enrollment, completion, and grade promotion."
 

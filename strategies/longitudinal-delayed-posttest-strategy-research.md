@@ -8,9 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-03
 sources:
-  - id: stuart-benson-2010
-    resource: "http://www.ssllt.amu.edu.pl"
-    title: "Stuart Benson, Danielle Fischer, Joe Geluso, Lucius Von Joo. (2010). Effects of communication strategy training on EFL students' performance in small-group discussions. Studies in Second Language Learning and Teaching. http://www.ssllt.amu.edu.pl"
+  - id: benson-et-al-2013
+    resource: "https://doi.org/10.14746/ssllt.2013.3.2.5"
+    title: "Benson, S., Fischer, D., Geluso, J., & Von Joo, L. (2013). Effects of communication strategy training on EFL students' performance in small-group discussions. Studies in Second Language Learning and Teaching, 3(2), 245-259."
     author: Stuart Benson, Danielle Fischer, Joe Geluso, Lucius Von Joo
 ---
 
@@ -50,4 +50,4 @@ The authors' central methodological recommendation is that strategy-training stu
 -
 
 ## Key Sources
-- Stuart Benson, Danielle Fischer, Joe Geluso, Lucius Von Joo. (2010). Effects of communication strategy training on EFL students' performance in small-group discussions. Studies in Second Language Learning and Teaching. http://www.ssllt.amu.edu.pl
+- Benson, S., Fischer, D., Geluso, J., & Von Joo, L. (2013). Effects of communication strategy training on EFL students' performance in small-group discussions. *Studies in Second Language Learning and Teaching, 3*(2), 245-259. [doi:10.14746/ssllt.2013.3.2.5](https://doi.org/10.14746/ssllt.2013.3.2.5)

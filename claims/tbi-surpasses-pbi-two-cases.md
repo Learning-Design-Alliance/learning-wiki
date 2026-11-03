@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "TBI tends to outperform PBI in two cases: delayed Form and Meaning Recall of Repeating chunks and immediate Form Recognition of Non-repeating chunks"
-description: "TBI tends to outperform PBI in two cases: delayed Form and Meaning Recall of Repeating chunks and immediate Form Recognition of Non-repeating chunks"
+title: "TBI outperformed PBI on delayed Form and Meaning Recall of Repeating chunks; on immediate Form Recognition of Non-repeating chunks the two treatments scored almost the same"
+description: "TBI outperformed PBI on delayed Form and Meaning Recall of Repeating chunks; on immediate Form Recognition of Non-repeating chunks the two treatments scored almost the same"
 id: tbi-surpasses-pbi-two-cases
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-03
 sources:
   - id: ha-2017
     resource: "https://doi.org/10.5539/elt.v10n8p18"
@@ -28,15 +29,15 @@ sources:
     rigour: 1
 ---
 
-# TBI tends to outperform PBI in two cases: delayed Form and Meaning Recall of Repeating chunks and immediate Form Recognition of Non-repeating chunks
+# TBI outperformed PBI on delayed Form and Meaning Recall of Repeating chunks; on immediate Form Recognition of Non-repeating chunks the two treatments scored almost the same
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2017 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` TBI members tend to surpass PBI in chunk production of Repeating items on the delayed test (W=73, p=0.04022). [→ Ha 2017](#ha-2017)
-`q2 i?` TBI group's Form Recognition of Non-repeating words is predominant over the other groups in the Immediate Test (W=64, p=0.0267 vs CT). [→ Ha 2017 (2)](#ha-2017-2)
+`q2 i?` On immediate Form Recognition of Non-repeating chunks the article calls TBI "predominant" (W=64, p=0.0267, without naming the pair compared), but TBI and PBI means were almost identical (9.467 vs 9.412 of 10; control 8.25), and no significant TBI-over-PBI difference is reported. [→ Ha 2017 (2)](#ha-2017-2)
 
 ## Evidence
 
@@ -56,7 +57,7 @@ Do Thi Ha. (2017). The Impact of Different Instructions on Vietnamese EFL Studen
 
 `q2 · i?` · `causal · r1`
 
-Mann-Whitney test on Form Recognition of Non-repeating items in the Immediate Test among the three groups; the TBI group (N=15) was predominant. The article attributes the TBI advantage to the involvement load hypothesis.
+Pairwise Mann-Whitney tests (PBI vs CT, TBI vs CT, PBI vs TBI) on Form Recognition of Non-repeating items in the Immediate Test. The article reports one statistic, W=64, p=0.0267, for the TBI group without saying which pair it compares; the means were TBI 9.467 (N=15), PBI 9.412 (N=17) and control 8.25 (N=16) out of 10, so any TBI advantage here is over the control, not over PBI. The author summarises that, despite little difference between the two treatments, translation "tend[s] to be domineering" for recognising Non-repeating phrases immediately, and attributes it to the involvement load hypothesis.
 
 > "Howe ver, concerning Non-repea ting words, such ability of TBI group is predominant (W=64, p=0.0267)."
 

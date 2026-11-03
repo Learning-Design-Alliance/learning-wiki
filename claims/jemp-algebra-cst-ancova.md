@@ -50,4 +50,4 @@ Quasi-experimental comparison of JEMP algebra participants (n = 144) with non-pa
 ## Related Claims
 - [JEMP participants significantly outperformed non-participants on grade seven Pre-algebra CST scores after controlling for prior achievement](jemp-prealgebra-cst-ancova.md) — related
 - [Students who participated in JEMP for two consecutive summers had significantly higher 2013 grade eight Algebra CST scores than untreated students](jemp-two-summer-longitudinal-advantage.md) — related
-- [Urban middle school students showed significant growth on MDTP readiness tests after the six-week JEMP summer program](jemp-mdtp-readiness-growth.md) — related
+- [Urban middle school students' mean MDTP readiness scores rose across the six-week JEMP summer program, with no comparison group or significance test](jemp-mdtp-readiness-growth.md) — related

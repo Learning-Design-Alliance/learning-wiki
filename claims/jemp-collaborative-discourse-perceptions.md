@@ -47,4 +47,4 @@ Qualitative analysis using constant comparison of two administrator interviews (
 ## Related Claims
 - [Staff and students in three California schools describe collaboration among leaders, teachers and students as improving buy-in and creating student leadership opportunities](collaboration-buy-in-student-leadership.md) — related
 - [Teachers in 2016 were far less likely than administrators in 2015 to report that unaligned assessments, insufficient collaboration time, or inadequate PD were major barriers to CCSS implementation](ccss-teachers-report-fewer-barriers-than-administrators.md) — related
-- [Urban middle school students showed significant growth on MDTP readiness tests after the six-week JEMP summer program](jemp-mdtp-readiness-growth.md) — related
+- [Urban middle school students' mean MDTP readiness scores rose across the six-week JEMP summer program, with no comparison group or significance test](jemp-mdtp-readiness-growth.md) — related

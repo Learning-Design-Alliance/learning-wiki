@@ -122,7 +122,7 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [JEMP participants significantly outperformed non-participants on grade eight Algebra CST scores, with a small effect](../claims/jemp-algebra-cst-ancova.md) [+W] — instruction changes it
 - [JEMP participants significantly outperformed non-participants on grade seven Pre-algebra CST scores after controlling for prior achievement](../claims/jemp-prealgebra-cst-ancova.md) [+M] — instruction changes it
 - [Students who participated in JEMP for two consecutive summers had significantly higher 2013 grade eight Algebra CST scores than untreated students](../claims/jemp-two-summer-longitudinal-advantage.md) [+M] — instruction changes it
-- [Urban middle school students showed significant growth on MDTP readiness tests after the six-week JEMP summer program](../claims/jemp-mdtp-readiness-growth.md) [+M] — instruction changes it
+- [Urban middle school students' mean MDTP readiness scores rose across the six-week JEMP summer program, with no comparison group or significance test](../claims/jemp-mdtp-readiness-growth.md) [+W] — scores rose during instruction, with no comparison group
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

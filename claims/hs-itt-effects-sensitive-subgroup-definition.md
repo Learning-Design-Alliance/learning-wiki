@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-03
 sources:
   - id: shapiro-and-weiland-2019
     resource: "https://doi.org/10.3102/0162373718820307"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The IEP definition produced consistently larger and positive ITT effects (SD = 0.31–0.92) on cognitive outcomes, except third-grade receptive vocabulary (SD = −0.09), than the doctor report and all-of-the-above definitions. [→ Shapiro and Weiland 2019](#shapiro-and-weiland-2019)
+`q3 i?` The IEP definition produced consistently larger and positive ITT effects (SD = 0.31–0.92) on cognitive outcomes, except third-grade receptive vocabulary (SD = −0.09), than the doctor report and all-of-the-above definitions, though the IEP estimates are the least precise and in most cases not statistically significantly different from the other two. [→ Shapiro and Weiland 2019](#shapiro-and-weiland-2019)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Anna Shapiro and Christina Weiland. (2019). What Is in a Definition? The How and
 
 `q3 · i?` · `causal · r2`
 
-ITT regression analysis of Head Start assignment on PPVT, Woodcock–Johnson III letter–word and applied problems, and externalizing behavior at three time points, for three special education subgroups. Only a few effects were statistically significant, e.g., end-of-year language effects of SD = 0.33 (p < .01) and SD = 0.28 (p < .01); the article prints these as SD values but the sensitivity pattern itself carries no single printed effect size, so impact is null.
+ITT regression analysis of Head Start assignment on PPVT, Woodcock–Johnson III letter–word and applied problems, and externalizing behavior at three time points, for three special education subgroups. The article prints ITT effect sizes (in control-group SD units) for each subgroup, outcome and time point, and only a few are statistically significant, e.g. end-of-Head-Start-year language effects of SD = 0.33 (p < .01, doctor report) and SD = 0.28 (p < .01, all of the above), and first-grade numeracy of SD = 0.92 (p < .05, IEP). The finding here is the pattern across definitions, which has no single magnitude, so impact is coded `i?` (no single printed effect size for the pattern, not a null effect). The authors note that the IEP estimates are the least precisely estimated and, in most cases, are not statistically significantly different from the estimates under the other two definitions.
 
 > "there are consistently larger and positive (SD = 0.31–0.92) ITT effects for the IEP definition across the cognitive outcomes with the exception of third-grade receptive vocabulary (SD = −0.09)"
 

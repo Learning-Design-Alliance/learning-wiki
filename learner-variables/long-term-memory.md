@@ -263,7 +263,7 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Learning cycle approach-based teaching produced higher retention test scores eight months after implementation](../claims/learning-cycle-higher-retention-8-months.md) [+M] — instruction changes it
 - [Both treatments significantly outperform control on delayed Form and Meaning Recall of Repeating and Non-repeating chunks](../claims/delayed-recall-treatments-beat-control.md) [+M] — instruction changes it
 - [PBI and TBI groups show more learning gains than a control group in formulaic-sequence retention, especially on the delayed test](../claims/pbi-tbi-outperform-control-formulaic-sequences.md) [+M] — instruction changes it
-- [TBI tends to outperform PBI in two cases: delayed Form and Meaning Recall of Repeating chunks and immediate Form Recognition of Non-repeating chunks](../claims/tbi-surpasses-pbi-two-cases.md) [~M] — instruction changes it
+- [TBI outperformed PBI on delayed Form and Meaning Recall of Repeating chunks; on immediate Form Recognition of Non-repeating chunks the two treatments scored almost the same](../claims/tbi-surpasses-pbi-two-cases.md) [~M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.
