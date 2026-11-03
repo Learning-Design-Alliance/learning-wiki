@@ -49,3 +49,4 @@ Narrative review section reporting, citing prior survey and experimental literat
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — related
 - [Inaccurate prior beliefs undermine readers' ability to question online misinformation](inaccurate-beliefs-undermine-misinformation-questioning.md) — related
 - [Belief in learning styles remains near-universal among educators, with pre-service teachers believing more than qualified teachers](educator-belief-learning-styles-persists.md) — possibly the same claim (merge candidate)
+- [Teacher-centered thinking may persist among candidates despite constructivist curriculum](teacher-centered-thinking-persists-candidates.md) — related

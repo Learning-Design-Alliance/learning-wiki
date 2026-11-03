@@ -49,3 +49,4 @@ Qualitative descriptive analysis of semi-structured interviews with 6 randomly s
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [Interviews show students used scores to trigger action but reflected shallowly, derived planning from previous scores, and diverged emotionally](interviews-shallow-reflection-score-derived-planning.md) — related
 - [Identified SRL interventions all focused on goal setting and monitoring and none on supporting self-evaluation](srl-interventions-neglect-self-evaluation.md) — related
+- [Student interview themes indicated the HGCs were fun, easy to use, novel, challenging, provided choice and allowed students to develop strategies and self-regulate their efforts](student-interview-themes-hgc-engagement.md) — related

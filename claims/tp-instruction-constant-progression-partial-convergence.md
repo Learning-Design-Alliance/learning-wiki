@@ -52,3 +52,4 @@ Comparison of independent t-test results across pre- and post-instruction essays
 - [Native-speaker judges' fluency ratings showed no significant between-group difference (p = .051, d = 1.0)](native-speaker-fluency-ratings-not-significant.md) — related
 - [After instruction, the experimental class used more thematic progression patterns and less constant-pattern predominance than the controlled class](posttest-tp-pattern-distribution-shift.md) — related
 - [Sample analysis indicates good compositions are distinguished by varied, well-linked theme choices and thematic progression patterns](theme-choice-distinguishes-good-compositions.md) — related
+- [Discussion-based instruction improves theme-related essay performance over basal instruction](discussion-based-instruction-improves-theme-essays-efl.md) — related

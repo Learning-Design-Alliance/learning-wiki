@@ -47,3 +47,4 @@ Five Facet Mindfulness Questionnaire (39 items, five subscales) administered at 
 ## Related Claims
 - [Five-week mindfulness training improves delayed match-to-sample accuracy for happy, sad, angry, and neutral faces, but not fearful faces, with effects persisting one month](mindfulness-training-improves-face-working-memory-accuracy.md) — related
 - [Mindfulness training increases drift rates in the delayed match-to-sample task across emotional categories, indicating faster evidence accumulation](mindfulness-training-increases-drift-rate.md) — related
+- [CALM participants improved in mindful observation compared to controls](calm-improves-mindful-observation.md) — related

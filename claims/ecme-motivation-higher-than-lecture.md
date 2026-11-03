@@ -51,3 +51,4 @@ Motivation questionnaire (48 Likert-scale items adapted from Keller's ARCS model
 - [OER-based blended learning with Quipper School raised grade XI physics students' attention motivation significantly higher than face-to-face classroom learning](oer-blended-quipper-attention-motivation.md) — related
 - [OER-based blended learning with Quipper School raised relevance and confidence motivation significantly higher than face-to-face classroom learning](oer-blended-quipper-relevance-confidence.md) — related
 - [After using the game-based learning system, students report positive motivation, with about 80% satisfaction and 83% confidence](arcs-questionnaire-positive-motivation-satisfaction-confidence.md) — related
+- [Gamified educational robots increase all four learning-motivation dimensions (attention, relevance, self-confidence, satisfaction) in a STEM curriculum](gamified-robots-increase-stem-motivation.md) — related

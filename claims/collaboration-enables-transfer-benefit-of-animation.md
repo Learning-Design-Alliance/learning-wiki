@@ -49,3 +49,4 @@ Reported finding of the three-factor between-subjects experiment manipulating in
 - [The animation advantage is larger when the animation is system-paced](animation-advantage-larger-system-paced.md) — related
 - [Prior research failed to find clear evidence that animated graphics improve comprehension over static graphics](animation-research-lacks-clear-evidence-over-static.md) — related
 - [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — related
+- [Static and dynamic graphics produce equivalent learning gains for children learning from a multimedia science lesson](static-dynamic-graphics-equivalent-gains.md) — related

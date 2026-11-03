@@ -87,3 +87,4 @@ Quantitative mixed models pooled literature from 1966–2016 on curricula built 
 - [Formal theory offers advantages over common sense for guiding implementation, but empirical evidence of effectiveness is lacking](formal-theory-advantages-over-common-sense.md) — reports the opposite
 - [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](guided-instruction-more-effective-than-unguided-for-novices.md) — related
 - [Direct Instruction schools' ratings rose significantly only when the program was fully supported with training and coaching](direct-instruction-gains-depend-on-implementation-support.md) — related
+- [The reviewed literature indicates mathematically disabled learners' problems can be addressed through appropriate, explicit and early instruction and intervention](early-explicit-intervention-math-disabilities-review.md) — a narrower finding that bears on this claim

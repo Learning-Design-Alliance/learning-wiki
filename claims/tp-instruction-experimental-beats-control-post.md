@@ -52,3 +52,4 @@ Independent t-tests comparing CSE and CSC post-essays (30 per group): linear pro
 - [Instruction in thematic progression significantly increased Chinese college students' use of linear progressions between pre- and post-essays](tp-instruction-increases-linear-progressions.md) — related
 - [After instruction, the experimental class used more thematic progression patterns and less constant-pattern predominance than the controlled class](posttest-tp-pattern-distribution-shift.md) — related
 - [Sample analysis indicates good compositions are distinguished by varied, well-linked theme choices and thematic progression patterns](theme-choice-distinguishes-good-compositions.md) — related
+- [Discussion-based instruction improves theme-related essay performance over basal instruction](discussion-based-instruction-improves-theme-essays-efl.md) — related

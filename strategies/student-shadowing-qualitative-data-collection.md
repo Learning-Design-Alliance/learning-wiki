@@ -66,6 +66,7 @@ Shadowing operationalizes the principle that students hold expert knowledge abou
 - Student focus groups and surveys — broader but shallower data sources that shadowing complements and can help interpret
 - Action research — shadowing frequently serves as the diagnostic phase of a leader's inquiry cycle
 - [Conduct a needs assessment combining baseline district data and projective opinion data before designing a middle school](needs-assessment-baseline-and-projective-data.md)
+- [Identify resistant students through observations, teacher interviews, and follow-up forms before intervening](identify-resistance-via-observation-interviews.md)
 
 ## Examples
 - **Shadow a Student Challenge** (School Retool / Stanford d.school) — a structured program in which school leaders shadow a student for a day and use empathy-based debrief protocols to drive school redesign ([https://www.schoolretool.org](https://www.schoolretool.org))

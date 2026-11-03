@@ -73,3 +73,5 @@ Meta-analysis of 97 reports contributing 105 independent samples (N = 19,933) fr
 - [Incidental vocabulary learning anxiety positively predicts L2 incidental vocabulary acquisition through reading](incidental-vocabulary-anxiety-positive-predictor.md) — related
 - [The possibility that anxiety interferes with language learning has long interested scholars, teachers, and learners](anxiety-interferes-language-learning-long-interest.md) — a broader claim this one bears on
 - [Research shows a significant negative correlation between foreign language listening anxiety and listening proficiency](listening-anxiety-negative-correlation-proficiency.md) — a narrower finding that bears on this claim
+- [Foreign language classroom anxiety correlates negatively with English exam performance among Thai secondary students](flca-negative-correlation-english-performance-thai-secondary.md) — a narrower finding that bears on this claim
+- [No correlation found between foreign language classroom anxiety and maths performance](flca-no-correlation-maths-performance.md) — related

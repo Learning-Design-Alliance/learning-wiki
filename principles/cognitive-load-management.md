@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 90 claims (38 for, 49 mixed, 3 against) · 77 studies (35 causal, 16 review, 10 quant-synthesis, 10 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 77 report an effect size · 81 claims rest on one study
+> **Evidence** · 94 claims (41 for, 50 mixed, 3 against) · 79 studies (37 causal, 16 review, 10 quant-synthesis, 10 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 79 report an effect size · 85 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,10 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Learning number symbols from multiple concrete representations carries a cost compared with consistent single representations, whether concrete or abstract](../claims/cost-of-multiple-concrete-representations.md) [+W] — attached 2026-10-24 from Amy Bennett et al. (2018), which proposed "Design number books and early number materials with simple, consistent representations of quantity"; tests this page's relationship.
 - [The authors interpret that ceaseless interactive actions caused cognitive overload that disrupted student learning](../claims/ceaseless-interactive-actions-cognitive-overload.md) [+W] — attached 2026-11-01 from Li-Ying Liu (2015), which proposed "Scaffold learning tasks when a new interactive technology is introduced, so pupils do not spend more time operating the technology than learning".
 - [Dividing long listening texts into phases does not significantly improve comprehension scores compared with listening all at once (1st activity)](../claims/phased-listening-no-difference-activity1.md) [~W] — attached 2026-11-03 from İlhan (2018), which proposed "Judge listening text difficulty by multiple factors together rather than by length alone"; tests this page's relationship.
+- [Repetition of input yielded higher scores than previewing questions, but the two supports did not differ significantly in this study](../claims/repetition-versus-previewing-listening.md) [~W] — attached 2026-11-03 from Rouhi et al. (2014), which proposed "Repeat listening input more than once as a classroom support for comprehension".
+- [At high WMC, children with math difficulties performed significantly better under visual-only strategy conditions relative to other conditions at Wave 4](../claims/visual-only-strategy-advantage-high-wmc-md.md) [+W] — attached 2026-11-03 from Swanson et al. (2013), which proposed "Match cognitive strategy intensity to learners' working memory capacity: visual-only strategies for high-WMC struggling learners, combined or verbal strategies when WMC is low"; tests this page's relationship.
+- [At low WMC, the visual-only condition was a significant disadvantage for children with math difficulties](../claims/visual-only-disadvantage-low-wmc-md.md) [+W] — attached 2026-11-03 from Swanson et al. (2013), which proposed "Match cognitive strategy intensity to learners' working memory capacity: visual-only strategies for high-WMC struggling learners, combined or verbal strategies when WMC is low"; tests this page's relationship.
+- [At high WMC, children without math difficulties performed better under verbal + visual conditions compared to control](../claims/verbal-visual-advantage-high-wmc-nmd.md) [+W] — attached 2026-11-03 from Swanson et al. (2013), which proposed "Match cognitive strategy intensity to learners' working memory capacity: visual-only strategies for high-WMC struggling learners, combined or verbal strategies when WMC is low"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -50,3 +50,5 @@ Adjusted posttest means at the low pretest WMC level (z = -.50) in the randomize
 - [The treatment x WMC interaction persists after controlling reading, calculation, and fluid intelligence](wmc-interaction-robust-to-basic-skills-controls.md) — a broader claim this one bears on
 - [Verbal and verbal+visual strategy conditions improve calculation accuracy for both ability groups](verbal-strategies-improve-calculation-transfer.md) — reports the opposite
 - [Working memory capacity correlates with outcomes differently across strategy conditions, with compensatory negative correlations under materials-only instruction](wmc-correlations-vary-by-strategy-condition.md) — related
+- [At low WMC, the visual-only condition was a significant disadvantage for children with math difficulties](visual-only-disadvantage-low-wmc-md.md) — related
+- [Strategy instruction effects on word problem solving in children with math difficulties are moderated by working memory capacity, favoring high-WMC levels](wmc-moderates-strategy-instruction-md-word-problems.md) — related

@@ -54,3 +54,4 @@ Paired sample t-test for the no-captions control group (n=15), Table 2. The pair
 - [EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group taught without the songs did not, though the groups were not compared directly](humorous-song-improves-efl-listening-comprehension.md) — a broader claim this one bears on
 - [Full captions significantly improved EFL learners' general listening comprehension from pre-test to post-test](full-captions-improve-listening-comprehension.md) — related
 - [Keyword captions significantly improved EFL learners' general listening comprehension from pre-test to post-test](keyword-captions-improve-listening-comprehension.md) — related
+- [Viewing captioned instructional videos does not significantly improve EFL learners' content comprehension compared to viewing without captions.](captions-no-effect-content-comprehension-efl.md) — related

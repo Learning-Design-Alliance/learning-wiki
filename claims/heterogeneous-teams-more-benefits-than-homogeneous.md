@@ -58,3 +58,4 @@ In the Team Formation element discussion, the chapter states that "heterogeneous
 - [The article treats group composition, friendship, and similarity as central antecedents of student project team formation](friendship-similarity-antecedents-team-formation.md) — related
 - [Heterogeneous groups show greater learning achievements than homogeneous groups, most pronounced for students with little prior knowledge](heterogeneous-groups-greater-achievement.md) — a narrower finding that bears on this claim
 - [Prior research cited by the article reports teacher and student support for cooperative learning in mathematics, with benefits that may take time to appear](prior-research-favours-cooperative-math-learning.md) — related
+- [All pairwise comparisons of grouping compositions differ significantly on individual achievement, including the heterogeneous group versus each homogeneous group](pairwise-achievement-comparisons-grouping.md) — related

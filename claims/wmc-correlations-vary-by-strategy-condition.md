@@ -54,3 +54,5 @@ Correlational analysis within the randomized Grade 3 study relating pretest exec
 - [Prior knowledge and working memory capacity did not moderate the worked example effect](no-prior-knowledge-wmc-moderation-worked-examples.md) — related
 - [At low pretest WMC, control children outperformed the strategy conditions on solution accuracy](low-wmc-control-beats-strategy-conditions.md) — related
 - [At high pretest WMC, the visual-only condition outperformed verbal-only, verbal+visual, and control on solution accuracy](high-wmc-visual-only-outperforms.md) — related
+- [At high WMC, children with math difficulties performed significantly better under visual-only strategy conditions relative to other conditions at Wave 4](visual-only-strategy-advantage-high-wmc-md.md) — related
+- [Strategy instruction effects on word problem solving in children with math difficulties are moderated by working memory capacity, favoring high-WMC levels](wmc-moderates-strategy-instruction-md-word-problems.md) — related

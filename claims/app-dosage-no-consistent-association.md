@@ -59,3 +59,4 @@ RVE meta-regression Model 2 (Table 6) with dosage moderators; log2 duration coef
 - [Intervention creativity ratings relate to practice frequency, session duration and teacher qualification, but not intervention duration or intensity](intervention-characteristics-associated-with-creativity-rating.md) — related
 - [Number of treatment sessions received was not associated with end-of-treatment performance](dosage-not-associated-with-outcomes.md) — related
 - [Actual app use was sporadic and short — about once per week for 10–15 minutes, roughly 120 minutes total — which the authors say cannot explain the significant difference between groups](busuu-low-usage-cannot-explain-gains.md) — related
+- [Short improv exposure (under 10 hours) produced gains consistent with meta-analytic findings that moderate drama instruction durations are most effective](short-exposure-sufficient-gains.md) — related

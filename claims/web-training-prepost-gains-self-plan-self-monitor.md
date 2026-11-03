@@ -58,3 +58,4 @@ Pretest-posttest quasi-experiment with 53 Taiwanese college students (experiment
 - [Learning strategies instruction increases students' metacognitive knowledge](strategy-instruction-increases-metacognitive-knowledge.md) — related
 - [Participants' self-reported frequency of general reading strategy use increased significantly after Web-based training](strategy-use-frequency-increased-after-web-training.md) — related
 - [Diary keeping significantly increases metacognition strategy use of pre-service science teachers](diaries-increase-metacognition-strategies.md) — related
+- [Pintrich SRL-based activities improve elementary teacher candidates' overall self-regulated learning perceptions](pintrich-srl-activities-improve-srl-perceptions.md) — a narrower finding that bears on this claim

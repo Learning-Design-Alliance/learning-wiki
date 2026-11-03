@@ -77,3 +77,4 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [No significant gender differences were found on any model variable](no-gender-differences-model-variables.md) — a broader claim this one bears on
 - [No statistically significant difference in acquiring religious concepts attributed to students' gender](no-gender-difference-religious-concepts-kwl.md) — related
 - [No significant gender differences on any component of achievement or retention](no-gender-difference-components.md) — related
+- [Female students showed greater improvement than male students across all categories in both studies](gender-gap-writing-fluency-gains.md) — related

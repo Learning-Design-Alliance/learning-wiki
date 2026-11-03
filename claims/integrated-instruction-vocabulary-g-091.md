@@ -50,3 +50,4 @@ Random-effects meta-analysis (Robumeta, robust variance estimation) of 35 (quasi
 - [Integrated instruction significantly improves content knowledge of taught science and social studies material (g = 0.89), but not on standardized knowledge measures](integrated-instruction-content-knowledge-g-089.md) — related
 - [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](integrate-oral-written-language-content-teaching.md) — related
 - [No significant moderators of effects among research design features or intervention characteristics](integrated-instruction-no-significant-moderators.md) — related
+- [Academic vocabulary instruction improves standardized written expression](alias-vocabulary-improves-written-expression.md) — related

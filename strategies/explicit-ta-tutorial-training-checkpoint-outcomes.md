@@ -39,6 +39,7 @@ The authors propose reforming weekly one-hour tutorial training, in which teachi
 ## Related Strategies
 
 - [Multi-component TA professional development program for teaching interactive-engagement discussion/labs](clasp-ta-professional-development.md)
+- [Use trained TA-led small-group support sessions with worked and faded worked examples](ta-led-worked-example-support-sessions-strategy.md)
 
 ## Examples
 -

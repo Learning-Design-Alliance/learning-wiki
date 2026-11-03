@@ -70,3 +70,4 @@ Regression analyses testing group differences on the psychological variables. UR
 - [Among biomedical leavers, 62.5% described leaving only in terms of disenchantment while 25.2% described only attraction and 12.2% both equally](biomedical-leavers-disenchantment-versus-attraction-prevalence.md) — related
 - [Interest and value were the dominant topics in leavers' explanations, especially among students leaving due to attraction](interest-value-dominant-topic-in-attrition-explanations.md) — related
 - [Course grade in the introductory biology course strongly predicted both enrollment in the second course and biomedical major two years later](gateway-grade-predicts-biomedical-persistence.md) — related
+- [Attrition from General Chemistry-IS was higher than from General Chemistry and previous fall semesters](is-course-higher-attrition-rate.md) — related

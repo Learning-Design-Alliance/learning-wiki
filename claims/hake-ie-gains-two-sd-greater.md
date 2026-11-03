@@ -71,3 +71,4 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 - [The Genetics Tutor produced average pretest-to-posttest learning gains of about 18 percentage points across 45 single-unit evaluations.](genetics-tutor-18-percentage-point-gains.md) — related
 - [Normalized conceptual-understanding gains favoured the ISIA group at every achievement level](isia-normalized-gain-advantage.md) — related
 - [Traditional teaching produced normalized gains of only 7–14% while the P&E method with new study materials reached 45%](traditional-low-gain-versus-pe-45-percent.md) — a narrower finding that bears on this claim
+- [The non-MLM group using TIP and JiTT pedagogies had an average normalized gain below the national average for courses not utilizing active engagement pedagogies](non-mlm-group-below-national-average-gain.md) — related

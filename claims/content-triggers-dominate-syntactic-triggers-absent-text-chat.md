@@ -48,3 +48,4 @@ Trigger analysis across modes (Table 10) shows content-related triggers were the
 - [Closed meaning-focused tasks foster more negotiation of meaning and negative feedback than open tasks in CMC](closed-tasks-foster-more-negotiation-than-open-tasks.md) — related
 - [Completing meaning-focused tasks through CMC fosters negotiated interactions in all three modes (discussion board, text chat, videoconferencing)](cmc-meaning-focused-tasks-foster-negotiated-interactions.md) — related
 - [Videoconferencing was conducive to more negotiation of meaning than text chat and discussion board, measured as proportion of negotiated turns](videoconferencing-more-negotiated-turns-than-chat-and-board.md) — related
+- [Negotiations are the most common language-related episodes in mobile voice chat, with phonetic triggers most abundant](negotiations-most-common-lres-mobile-voice-chat.md) — related

@@ -52,3 +52,4 @@ Pre-posttest quasi-experimental study of 261 male and 167 female SS1 students in
 - [Male and female students taught algebra with problem-based learning show no statistically significant difference in retention scores](pbl-no-gender-retention-difference.md) — related
 - [Under cooperative learning instruction, there was no statistically significant gender difference in trigonometry achievement, though female students scored higher on average](cooperative-learning-no-gender-difference-trigonometry.md) — related
 - [Male students taught algebraic expressions with games achieved significantly higher adjusted scores than female students](games-favor-male-algebra-achievement.md) — related
+- [Within-gender comparisons showed males taught with LMM scored slightly higher than males taught with LMC, while females taught with LMM scored higher than females taught with LMC.](within-gender-lmm-lmc-retention-comparisons.md) — related

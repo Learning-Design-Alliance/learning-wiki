@@ -51,3 +51,4 @@ Independent sample t-test comparing post-task CEFR-based scores of 38 experiment
 - [61% of the experimental class (23 of 38 students) showed substantial improvement in spoken proficiency](oct-61-percent-improved.md) — related
 - [Task performance varied significantly across the nine oral communicative tasks on all speaking components](oct-anova-task-variance.md) — related
 - [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](immediate-repetition-benefits-oral-performance.md) — related
+- [Experimental group outperformed control group on oral presentation of text](sct-tblt-oral-presentation-outperformed.md) — related

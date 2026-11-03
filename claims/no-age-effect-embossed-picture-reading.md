@@ -48,3 +48,4 @@ Kruskal-Wallis one-way ANOVA on post-test scores of the experimental group by ag
 - [Pupils with hearing impairment taught reading with the embossed picture technique significantly outperformed pupils taught with the look-and-say method](embossed-picture-technique-beats-look-and-say-reading.md) — related
 - [No significant difference in reading performance across degrees of hearing loss when taught with the embossed picture technique](no-hearing-loss-degree-effect-embossed-reading.md) — related
 - [Adolescents with cochlear implants spell significantly less accurately than hearing peers, though 55% spell within one standard deviation of them and 45% two or more below](ci-adolescents-spelling-poorer-than-hearing-peers.md) — related
+- [Gender does not influence the mean reading achievement of children with hearing impairment.](gender-no-effect-reading-achievement-chi.md) — related

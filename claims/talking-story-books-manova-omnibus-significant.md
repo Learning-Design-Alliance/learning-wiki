@@ -49,3 +49,4 @@ Quasi-experimental intervention study of 79 Saudi sixth-grade EFL learners (expe
 - [Talking story books significantly improved Saudi young EFL learners' reading-based phonics skills relative to the control group](talking-story-books-phonics-skills.md) — a narrower finding that bears on this claim
 - [Talking story books significantly improved Saudi young EFL learners' understanding of talking-story-book content relative to the control group](talking-story-books-understanding-true-false.md) — a narrower finding that bears on this claim
 - [Talking story books significantly improved Saudi young EFL learners' reading-based retelling skills relative to traditional reading instruction](talking-story-books-retelling-skills.md) — a narrower finding that bears on this claim
+- [Discussion-based instruction improves interpretive comprehension over basal instruction in EFL college students](discussion-based-instruction-improves-interpretive-comprehension-efl.md) — related

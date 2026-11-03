@@ -52,3 +52,4 @@ ANCOVA post hoc pairwise comparison with pre-test covariate among the three trea
 - [Adding visuals of the instructor to online video lectures impairs comprehension relative to audio-only and audio+text formats](instructor-visuals-impair-lecture-comprehension.md) — related
 - [Third-grade pupils using the audio-and-image (AI) mode attained significantly higher music theory post-test scores than pupils using the text-and-image (TI) mode](ai-mode-outperformed-ti-mode-music-theory.md) — related
 - [There were no significant differences in pupils' attitude scores toward the courseware across the three presentation modes](no-attitude-differences-three-modes.md) — related
+- [Students using the Graphic novel and Narration (GN) mode performed significantly better on critical thinking posttest scores than those in the Graphic novel and Text (GT) mode and the Graphic novel, Text and Narration (GTN) mode.](gn-mode-significantly-outperforms-gt-and-gtn-modes.md) — related

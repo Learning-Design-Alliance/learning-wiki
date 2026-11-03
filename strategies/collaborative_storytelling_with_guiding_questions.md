@@ -67,6 +67,7 @@ The strategy combines two well-supported mechanisms: structured collaboration, i
 - [Scaffolding storytelling: guiding a child to create their own story about new material through open-ended questions, hints, and validation](scaffolding-storytelling-strategy.md)
 - [Drawingvoice 2.0: a three-phase method combining small-group collaborative drawing, Facebook sharing, and face-to-face re-discussion](drawingvoice-2-0-three-phase-method.md)
 - [Provide explicit process prompting (including picture-to-text transcription guidance) when visual storytelling precedes writing](explicit-prompting-for-visual-storytelling.md)
+- [Use a scaffolded sequence of collaborative improv story-telling and story-writing games transitioning to individual writing to develop writing fluency](improv-story-sequence-strategy.md)
 
 ## Related Elements
 - [Peer Discussion](../elements/peer-discussion.md) — the negotiation phase where individual ideas are evaluated and merged

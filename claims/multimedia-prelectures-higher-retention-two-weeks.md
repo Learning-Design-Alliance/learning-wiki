@@ -49,3 +49,4 @@ OLS regression (Model 2, n = 82) on the retention score from a 20-question quiz 
 - [The multimedia learning module advantage over the textbook persists on a retention test administered two weeks after the lessons](mlm-retention-advantage-two-weeks.md) — related
 - [The learning advantage of multimedia introductory messages is partially visible on global exams and not durable across the study](multimedia-introductory-message-exam-effect-partial.md) — related
 - [The benefit of multimedia pre-lectures depends on cognitive level of the question, largest for understanding (Level-2) and analyzing (Level-4)](prelecture-benefit-depends-cognitive-level.md) — related
+- [Students completing multimedia learning modules before tutorials achieve significantly higher normalized learning gains on the CSEM than students preparing via textbook reading and lecture](mlm-preparation-higher-csem-normalized-gain.md) — related

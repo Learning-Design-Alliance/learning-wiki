@@ -69,3 +69,4 @@ Measure-type subgroup analyses for comprehension. Both researcher-developed (g =
 - [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](integrate-oral-written-language-content-teaching.md) — related
 - [CALI significantly improves social studies knowledge (g = 2.27) and science knowledge (g = 2.10) in K-4 students compared to business-as-usual control.](cali-improves-content-knowledge-k4.md) — related
 - [Comprehension strategy instruction shows a large overall effect, but reliability is undermined by few standardized measures](comprehension-strategy-large-effect-unreliable.md) — related
+- [Academic vocabulary instruction improves standardized written expression](alias-vocabulary-improves-written-expression.md) — related

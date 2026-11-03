@@ -52,3 +52,4 @@ Qualitative process evaluation using two stages of telephone interviews with par
 - [Family engagement is connected to stronger social-emotional development, higher attendance, and better academic outcomes](family-engagement-linked-better-outcomes.md) — a broader claim this one bears on
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [Text-message alerts to parents about incomplete middle-school homework raise student performance](parent-text-alerts-incomplete-homework-raise-performance.md) — related
+- [Parents reported that their children were motivated by the HGCs and their attitude to maths became more positive, though parent feedback was limited](parent-feedback-hgc-motivation.md) — related

@@ -56,3 +56,4 @@ Model 1 multilevel regressions predicting grade 5 mediators from school treatmen
 - [Dosage effects and replicated results across methods support attributing observed outcomes to the City Connects intervention](city-connects-dosage-and-replication-causal-argument.md) — a broader claim this one bears on
 - [Comparative regression discontinuity finds positive City Connects effects on Grade 3 and 5 math and reading, with Cohen's effect sizes of approximately .20 to .28](city-connects-regression-discontinuity-effects.md) — related
 - [Preliminary fixed-effects models suggest students most at risk (Tier 3) experience the greatest achievement growth after City Connects introduction](city-connects-tier3-greatest-growth-preliminary.md) — related
+- [Earlier initial exposure to City Connects yields stronger dropout-reduction effects, with benefits fading after grade 3](city-connects-earlier-exposure-stronger-effects.md) — related

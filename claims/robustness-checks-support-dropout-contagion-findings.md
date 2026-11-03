@@ -71,3 +71,4 @@ Alternative confounder-handling specifications — risk-index items entered sepa
 - [Only recent (within the past year) occurrences of dropout in an adolescent's network are associated with the adolescent's own dropout; older occurrences are not](dropout-contagion-limited-to-past-year.md) — related
 - [Stabilized IPTW achieved covariate balance on all variables, outperforming unstabilized IPTW, and was used for effect estimation](siptw-superior-balance-for-time-varying-treatment.md) — related
 - [Inverse-probability weights for attrition, non-consent, and non-response improved validity only to the extent the missing-data assumptions held](attrition-nonresponse-weights-validity.md) — related
+- [Earlier initial exposure to City Connects yields stronger dropout-reduction effects, with benefits fading after grade 3](city-connects-earlier-exposure-stronger-effects.md) — related

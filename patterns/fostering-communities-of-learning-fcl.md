@@ -21,7 +21,7 @@ sources:
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 38 claims (21 for, 16 mixed, 1 against) · 49 studies (14 causal, 13 quant-synthesis, 12 review, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 11 of 49 report an effect size · 26 claims rest on one study
+> **Evidence** · 39 claims (22 for, 16 mixed, 1 against) · 50 studies (15 causal, 13 quant-synthesis, 12 review, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 11 of 50 report an effect size · 27 claims rest on one study
 
 ## Description and scope
 
@@ -119,6 +119,7 @@ Read against the model on 2026-10-19. Of the eleven claims listed here then, ten
 - [Jigsaw cooperative learning produced higher achievement than traditional teaching in the 7th-grade unit \"Science within Time\"](../claims/jigsaw-higher-achievement-science-within-time.md) [+W] — attached 2026-11-02 from Hakkı Yapıcı (2016), which proposed "Jigsaw implementation pattern: home groups, expert subtopics, and peer teaching within a five-week unit"; tests this page's relationship.
 - [Jigsaw cooperative learning produced better retention of knowledge after 11 weeks than traditional teaching](../claims/jigsaw-better-retention-eleven-weeks.md) [+W] — attached 2026-11-02 from Hakkı Yapıcı (2016), which proposed "Jigsaw implementation pattern: home groups, expert subtopics, and peer teaching within a five-week unit"; tests this page's relationship.
 - [Jigsaw cooperative learning produces higher posttest achievement than traditional teaching for preschool sense-organs instruction](../claims/jigsaw-outperforms-traditional-preschool-sense-organs.md) [+W] — attached 2026-11-02 from Nilüfer Okur Akçay (2016), which proposed "Jigsaw structure for preschoolers: five-person basic groups, five expert topics, expert groups, then return and joint product"; tests this page's relationship.
+- [Computer-assisted Jigsaw II cooperative learning produced significantly higher physics post-test achievement than individualized computer instruction.](../claims/caj2-achievement-gains-over-ici.md) [+W] — attached 2026-11-03 from Gambari et al. (2016), which proposed "Jigsaw II home group and expert group rotation with computer-assisted content"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

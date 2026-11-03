@@ -54,3 +54,4 @@ Pearson correlation computed on the same forty participants' posttest scores. Th
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Self-regulated strategy instruction significantly improved speaking proficiency of Egyptian EFL university students in a one-group pre-posttest quasi-experiment](srl-strategy-instruction-improved-speaking-proficiency-egyptian-efl.md) — related
 - [Research shows a significant negative correlation between foreign language listening anxiety and listening proficiency](listening-anxiety-negative-correlation-proficiency.md) — related
+- [Foreign language classroom anxiety correlates negatively with English exam performance among Thai secondary students](flca-negative-correlation-english-performance-thai-secondary.md) — related

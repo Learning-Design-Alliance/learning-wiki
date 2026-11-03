@@ -79,6 +79,7 @@ Social awareness develops through the same mechanisms as other complex skills: o
 - [Address Biases in the Use of Language and Symbols](../strategies/address_biases_in_the_use_of_language_and_symbols.md) — guards against the constraint that taught "norms" encode educator bias
 - [Check-Ins](../principles/check-ins.md) — the routine mechanism for identifying students' social-emotional states over time
 - [Support peer-to-peer reading interventions, whole-school collaborations, and parent-teacher involvement to address peer problems in reading](peer-to-peer-reading-interventions-social-skills.md)
+- [Deliver EI workshops through a sequence covering self-awareness, empathy, and emotional detection](ei-workshop-sequence-self-awareness-empathy-detection.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — individualized support as students practice social skills in authentic interactions

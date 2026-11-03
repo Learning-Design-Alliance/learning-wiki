@@ -101,3 +101,4 @@ A cited study contrasting principal time uses: coaching, feedback, and program d
 - [Principal turnover is associated with lower student achievement, worse climate, and higher teacher attrition, with effects lasting up to 5 years](principal-turnover-harms-achievement-climate-retention.md) — related
 - [High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes](principal-learning-programs-positive-outcomes.md) — related
 - [The year-two decline in school climate scores is attributed to a leadership change focused on improving test scores](leadership-testing-focus-caused-decline.md) — a narrower finding that bears on this claim
+- [Strong leadership, data-informed instruction, positive school culture, and increased expectations were associated with improvement in schools undergoing state intervention](leadership-data-culture-expectations-associated-improvement.md) — related

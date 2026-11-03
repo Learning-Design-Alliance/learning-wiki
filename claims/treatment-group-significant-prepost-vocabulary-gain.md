@@ -52,3 +52,4 @@ Paired Samples t-Test comparing the treatment group's pre-test (mean 5380.000) a
 - [The experimental group's speaking fluency scores rose significantly from pre-test to post-test after lexical chunks treatment](experimental-group-pre-post-fluency-gain.md) — related
 - [Experimental group showed significant pre-to-post gains on vocabulary test score](experimental-group-pre-post-vocabulary-gains.md) — possibly the same claim (merge candidate)
 - [Students showed significant improvement in vocabulary recognition and understanding from pre-test to post-test over the seven-week module](vks-pre-post-significant-improvement.md) — related
+- [Linguistic-component scores rose to 79% (vocabulary) and 94% (grammar) at re-testing, with the largest gains in the experimental group](linguistic-component-79-94-retest.md) — related

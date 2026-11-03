@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 324 claims (201 show a difference, 53 mixed, 70 no difference) · 223 studies (89 causal, 52 associational, 36 quant-synthesis, 29 review, 8 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 49 of 223 report an effect size · 315 claims rest on one study
+> **Evidence** · 327 claims (203 show a difference, 54 mixed, 70 no difference) · 225 studies (90 causal, 52 associational, 36 quant-synthesis, 30 review, 8 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 50 of 225 report an effect size · 318 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -375,6 +375,9 @@ What a learner can read without effort, and whether the language of instruction 
 - [Oral language skills indicatively support writing in younger pupils and struggling writers, with oral language influence on writing partly mediated through reading](../claims/oral-language-supports-early-writing-development.md) [+M] — learners who differ on it differ in outcomes
 - [Pretest vocabulary and alphabet knowledge did not moderate alphabet learning growth, and DLLs showed only limited differential response](../claims/no-moderation-by-vocabulary-or-dll-status.md) [~W] — an instructional effect differs with it
 - [Using comics as a literary-didactic method did not significantly improve primary pupils' reading comprehension or ability to perceive text incoherence compared to control instruction](../claims/comics-no-effect-reading-literacy.md) [-M] — instruction changes it
+- [Academic vocabulary instruction significantly improves word-level vocabulary knowledge in linguistically diverse middle school students](../claims/alias-academic-vocabulary-improves-word-level-vocabulary.md) [+M] — instruction changes it
+- [Evidence on bilingual cognitive advantages is mixed, so no definitive conclusion on whether bilingualism confers cognitive advantages is currently possible](../claims/bilingual-cognitive-advantage-mixed-evidence.md) [~M] — learners who differ on it differ in outcomes
+- [Students with underdeveloped initial vocabulary knowledge show greater response to the intervention](../claims/alias-greater-response-for-low-initial-vocabulary.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

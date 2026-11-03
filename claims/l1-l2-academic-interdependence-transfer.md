@@ -58,3 +58,4 @@ Review of findings reported initially by Skutnabb-Kangas & Toukomaa (1976) and r
 - [Children aged two to three acquire language more rapidly without teaching than college students taught by methods derived from older psychology](child-language-acquisition-outpaces-taught-college-students.md) — related
 - [Reading strategy instruction in L2 (English) transferred to improve L1 (Persian) reading comprehension](l2-strategy-instruction-transfers-to-l1-reading-comprehension.md) — a narrower finding that bears on this claim
 - [The review reports that students acquire literacy most efficiently in their native language and that expecting literacy in a foreign language hampers academic achievement](literacy-most-efficient-native-language.md) — related
+- [The article reports that L1 proficiency level is posited to predict L2 proficiency (developmental interdependence)](l1-proficiency-predicts-l2-proficiency-interdependence.md) — a narrower finding that bears on this claim

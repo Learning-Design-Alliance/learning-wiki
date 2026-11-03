@@ -66,7 +66,7 @@ sources:
 # Modality Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (11 for, 24 mixed, 5 against) · 33 studies (13 causal, 8 review, 7 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q3` · 8 of 33 report an effect size · 35 claims rest on one study
+> **Evidence** · 43 claims (13 for, 24 mixed, 6 against) · 36 studies (16 causal, 8 review, 7 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q3` · 9 of 36 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -182,6 +182,9 @@ Read against the model on 2026-10-19; the eight bullets that changed it now sit 
 - [Screencast design findings](../claims/screencast-design-movement-narration-handwriting.md) [~W]: a review's report of a typology of screencast narration (explicit or implicit) and of a preference for handwriting; no learning outcome compared.
 - [Decoding ability predicted retrieval, transfer, and retention, and interacted with modality so that video retention benefits were largest for children with weaker decoding](../claims/decoding-interaction-modality-retention.md) [+W] — attached 2026-10-22 from Haavisto et al. (2025), which proposed "Incorporate videos into primary science instruction to support learners with weaker reading skills"; tests this page's relationship.
 - [Third-grade pupils using the audio-and-image (AI) mode attained significantly higher music theory post-test scores than pupils using the text-and-image (TI) mode](../claims/ai-mode-outperformed-ti-mode-music-theory.md) [+W] — attached 2026-11-03 from Osamah (Mohammad Ameen) Ahmad Aldalalah et al. (2010), which proposed "Integrate the modality principle into music theory courseware by replacing onscreen text with narration accompanying images"; tests this page's relationship.
+- [Students using the Graphic novel and Narration (GN) mode performed significantly better on critical thinking posttest scores than those in the Graphic novel and Text (GT) mode and the Graphic novel, Text and Narration (GTN) mode.](../claims/gn-mode-significantly-outperforms-gt-and-gtn-modes.md) [+W] — attached 2026-11-03 from Hii et al. (2013), which proposed "Presenting graphics with audio narration rather than on-screen text reduces extraneous cognitive load and improves learning outcomes (modality principle)."; tests this page's relationship.
+- [Tutor-read instruction produces greater learning gains than self-read instruction for children learning from a multimedia science lesson](../claims/tutor-read-greater-gains-than-self-read.md) [+W] — attached 2026-11-03 from Anggoro et al. (2012), which proposed "Present text and images simultaneously to support integration of verbal and visual information in multimedia learning"; tests this page's relationship.
+- [Viewing captioned instructional videos significantly improves EFL learners' vocabulary acquisition compared to viewing without captions.](../claims/captions-improve-vocabulary-acquisition-efl.md) [-W] — attached 2026-11-03 from BavaHarji et al. (2014), which proposed "Captioned instructional videos should be used as a promising media to enhance EFL language learning, especially where multimedia technology tools are limited.".
 
 ## Objective and learner-valued goal
 

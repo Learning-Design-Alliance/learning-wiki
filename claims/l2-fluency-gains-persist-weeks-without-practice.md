@@ -106,3 +106,4 @@ Nothing here says where retention falls off.
 - [Both groups lost a statistically significant number of learnt words between the immediate post-test and the delayed test ten days later](vocabulary-loss-delayed-post-test-both-groups.md) — reports the opposite
 - [Word-recall advantage of musical mnemonic persists across repeated trials including a delayed trial 10 days later](musical-mnemonic-delayed-recall-trial.md) — related
 - [Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported](communicatively-developing-methods-improve-teacher-coherent-speech.md) — related
+- [The present study's significant gains contrast with Brown's (1992) claim that intensive programs are not beneficial for elementary-level learners](findings-contradict-brown-elementary-learners-claim.md) — related

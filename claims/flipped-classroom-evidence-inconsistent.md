@@ -53,3 +53,4 @@ Narrative review of background studies in the Introduction. The review attribute
 - [About 70% of surveyed students prefer flipped to traditional classrooms](students-prefer-flipped-classroom-survey.md) — related
 - [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](flipped-classroom-higher-motivation-imms.md) — a narrower finding that bears on this claim
 - [Prior flipped-classroom studies report mixed achievement results, with some finding gains and others no significant differences](flipped-classroom-literature-mixed-achievement-results.md) — possibly the same claim (merge candidate)
+- [The literature on intensive course effectiveness reports inconsistent results, with proponents and opponents citing competing evidence](inconsistent-literature-intensive-course-effectiveness.md) — related

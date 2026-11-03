@@ -68,3 +68,4 @@ The review reports that some studies (Bosch & Sebastián-Gallés, 2003; Burns et
 - [Young DLLs have two separate phonological and grammatical language systems early in life](dlls-two-separate-language-systems-early.md) — related
 - The review identifies pervasive methodological problems in DLL research, including inconsistent DLL definitions and SES-bilingualism confounding — related
 - [Prosodic and sound-level features of child-directed speech support infants' phoneme discrimination, word segmentation, and word learning](cds-prosody-supports-phoneme-segmentation.md) — related
+- [The Ling Six Sounds Test was used to ascertain children's ability to discriminate speech sounds.](ling-six-sounds-test-procedure.md) — related

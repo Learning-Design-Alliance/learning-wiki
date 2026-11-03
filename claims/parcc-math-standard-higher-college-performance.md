@@ -57,3 +57,4 @@ The comparative study of PARCC and MCAS performance standards found that in math
 - [PARCC and MCAS scores show similar validity in predicting college grades for Massachusetts students](parcc-mcas-similar-validity-college-grades.md)
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college](first-study-parcc-college-readiness-goal.md) — related
 - [MCAS and PARCC scores similarly predict which students need remedial coursework in college](parcc-mcas-similar-remediation-prediction.md) — related
+- [School Redesign Grants in Massachusetts showed positive, statistically significant effects on math and English language arts achievement](school-redesign-grants-significant-achievement-effects.md) — related

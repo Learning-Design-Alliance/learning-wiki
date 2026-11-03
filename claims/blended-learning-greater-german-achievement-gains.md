@@ -50,3 +50,4 @@ Quasi-experimental pretest-posttest control group study with 62 students (35 exp
 - [Blended instruction produced higher course achievement than face-to-face instruction in a university elective music course](blended-music-course-higher-achievement-than-ftf.md) — related
 - [Saudi EFL preparatory students taught through a blended e-learning approach for 8 weeks outperformed a traditionally taught control group on an achievement test](blended-elearning-outperforms-traditional-efl-preparatory.md) — related
 - [Both groups improved significantly from pre-test to post-test, but the blended learning group's average gain (16.11) was roughly twice the control group's gain (9.62)](blended-gain-double-traditional-gain-music.md) — related
+- [Interactive learning technologies produced greater gains in foreign language communicative competence than traditional instruction in a 54-student quasi-experiment](interactive-technologies-greater-flcc-gains-kfu.md) — related

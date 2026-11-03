@@ -59,3 +59,4 @@ Qualitative analysis of transcript episodes in which students described shorter 
 - [Linguistic coherence predicts productive collaboration, strengthened by joint visual attention data](linguistic-coherence-predicts-productive-collaboration.md) — related
 - [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) — related
 - [Students using more coherent physics conceptions showed greater lOFC-V5/MT+ activity, while less coherent reasoners showed greater primary visual and salience network activity](conceptual-coherence-brain-network-differences.md) — related
+- [Teacher-centered thinking may persist among candidates despite constructivist curriculum](teacher-centered-thinking-persists-candidates.md) — related

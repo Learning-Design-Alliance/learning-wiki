@@ -12,7 +12,7 @@ generated:
 # Four-Phase Model of Interest Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 24 claims (14 for, 9 mixed, 1 against) · 25 studies (15 causal, 4 theoretical, 3 associational, 1 quant-synthesis, 1 review, 1 design), `q1`–`q3` · 8 of 25 report an effect size · 23 claims rest on one study
+> **Evidence** · 25 claims (15 for, 9 mixed, 1 against) · 26 studies (16 causal, 4 theoretical, 3 associational, 1 quant-synthesis, 1 review, 1 design), `q1`–`q3` · 8 of 26 report an effect size · 24 claims rest on one study
 
 ## Description
 Interest, distinct from effort, is a source of intrinsic motivation: when students learn from interest rather than pure effort, they devote more attention to the topic and tend to use more thoughtful learning strategies ([Hidi & Renninger, 2006](https://doi.org/10.1207/s15326985ep4102_4); Hidi, 2001). The distinction between interest and effort is often artificial in practice — the two commonly blend, as when a student works hard at a skill they also genuinely enjoy — but the useful instructional target is to draw on interest as much as possible so that required effort stays within a reasonable, sustainable range.
@@ -77,6 +77,7 @@ The model is widely cited but only partially validated: it has received limited 
 - [Learning interest significantly influences social science learning outcomes of elementary students](../claims/learning-interest-influences-social-science-outcomes.md) [+W]
 - [Students responded favorably to the modified labs, with 76.5% preferring technology-based labs and 60.3% reporting increased interest](../claims/favorable-student-perceptions-spirometry-lab.md) [+W]
 - [Second Life-based mathematics instruction significantly increased students' agreement that mathematics is interesting (z=2.95, p<.05)](../claims/sl-math-robot-interest-item-increase.md) [+W]
+- [The WeChat mobile learning mode helped students learn literature in interest stimulation, ability improvement, and content learning](../claims/wechat-mobile-learning-literature-benefits.md) [+W]
 
 ## Related Theories
 - [ARCS Model of Motivational Design](arcs-model.md) — Keller's Attention category operationalizes the triggering and maintaining of situational interest as design tactics

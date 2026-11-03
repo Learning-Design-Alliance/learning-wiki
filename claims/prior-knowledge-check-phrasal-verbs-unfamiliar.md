@@ -48,3 +48,4 @@ Pre-treatment control check in the participant-selection phase: a researcher-des
 - [Prior GenAI-solution evaluation showed no significant benefit on exam problems structurally aligned with the homework, with the midterm comparison inconclusive due to a floor effect](genai-aligned-exam-null-floor-effect.md) — related
 - [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — a broader claim this one bears on
 - [The tutor-access learning gain was concentrated in conceptual depth of written answers rather than multiple-choice scores](tutor-gain-concentrated-in-written-reasoning-depth.md) — related
+- [Cognitive-linguistic instruction transfers to unexposed phrasal verbs with the same particles](cognitive-linguistics-transfer-unexposed-pvs.md) — related

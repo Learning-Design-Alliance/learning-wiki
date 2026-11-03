@@ -63,3 +63,4 @@ Exploratory subgroup analyses with grade 4 CCU data in 12 schools; the report in
 - [A treatment school serving 80% free/reduced-price lunch students showed reading gains nearly identical to the whole treatment group](core5-promising-effects-low-ses-students.md) — related
 - [Students not receiving free/reduced lunch significantly outperformed lunch-funded students on the sixth-grade Westest reading/language arts scores, with a moderate effect size of .48](ses-gap-westest-reading-sixth-grade.md) — related
 - [Socioeconomic status measures attenuate the matched-group difference by 27%](ses-attenuates-matched-group-difference-27-percent.md) — related
+- [Blended learning treatment showed no significant reading achievement advantage over face-to-face instruction for sixth-grade ELA students](blended-learning-no-reading-achievement-advantage-middle-school.md) — related

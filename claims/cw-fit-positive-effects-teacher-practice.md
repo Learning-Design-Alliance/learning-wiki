@@ -47,3 +47,6 @@ WWC synthesis of five studies meeting standards, covering 10 measures of teacher
 - [CW-FIT has positive effects on student behavior, with strong WWC evidence across six studies in kindergarten through grade 10](cw-fit-positive-effects-student-behavior.md) — related
 - [In a multisite randomized replication trial, CW-FIT increased the percentage of time on-task in classes in kindergarten through grade 6](cw-fit-increases-on-task-behavior-wills-2018.md) — related
 - [In a cluster randomized trial, CW-FIT classes showed a lower percentage of time displaying disruptive behaviors than comparison classes over six months](cw-fit-reduces-disruptive-behaviors-wills-2016.md) — related
+- [CW-FIT significantly decreases teacher reprimands](cw-fit-decreases-reprimands.md) — a narrower finding that bears on this claim
+- [CW-FIT group contingency intervention significantly increases class-wide on-task behavior in elementary classrooms](cw-fit-increases-class-wide-on-task-behavior.md) — related
+- [CW-FIT significantly increases teacher praise and attention to appropriate behaviors](cw-fit-increases-teacher-praise.md) — a narrower finding that bears on this claim

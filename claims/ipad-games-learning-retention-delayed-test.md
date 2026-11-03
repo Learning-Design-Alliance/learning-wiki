@@ -73,3 +73,4 @@ Total-test row of the delayed-test ANOVA table (Table 8) prints F = 43.09, signi
 - [Retention scores four weeks after treatment significantly favored both experiment groups over control group 2](retention-favors-experiment-groups-over-control2.md) — related
 - [Journal writing showed no statistically significant effect on learning retention three weeks after the unit](journal-writing-wtl-no-retention-effect.md) — related
 - [The iPad intervention used researcher-built educational software with Google Earth, Keynote, YouTube and educational games over six weeks](ipad-social-studies-educational-software-element.md) — related
+- [Educational technology innovations produce significant pre-to-post gains at each of the four cognitive achievement levels (remembering, understanding, application, analysis)](edtech-gains-four-cognitive-levels.md) — related

@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 88 claims (54 for, 31 mixed, 3 against) · 74 studies (52 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 16 of 74 report an effect size · 83 claims rest on one study
+> **Evidence** · 90 claims (54 for, 33 mixed, 3 against) · 76 studies (54 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 17 of 76 report an effect size · 85 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -124,6 +124,8 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Grade-10 EFL students taught vocabulary with PowerPoint-enhanced lessons retained more vocabulary than students in traditional lessons](../claims/ppt-vocabulary-retention-outperforms-traditional.md) [+W] — attached 2026-11-03 from Ta Thanh Nam et al. (2012), which proposed "PPT-enhanced vocabulary lessons"; tests this page's relationship.
 - [Students held positive attitudes toward the use of PowerPoint in vocabulary lessons](../claims/positive-student-attitudes-ppt-vocabulary.md) [+W] — attached 2026-11-03 from Ta Thanh Nam et al. (2012), which proposed "PPT-enhanced vocabulary lessons".
 - [Instructional video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment](../claims/instructional-video-improves-efl-vocabulary.md) [+W]
+- [Viewing instructional videos improves EFL learners' language proficiency regardless of whether captions are present.](../claims/video-viewing-improves-proficiency-regardless-captions.md) [~W]
+- [Video cases yield a meaningful difference in design patterns mentioned in the oral observation report, favoring the experimental group.](../claims/video-cases-meaningful-difference-oral-observation-report.md) [~W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]
@@ -146,6 +148,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](../strategies/common-tools-ctml-lesson-workflow.md)
 - [Pair short-story reading with short animation-film segments in EFL reading lessons](../strategies/animation-film-segments-with-story-reading-strategy.md)
 - [Instructors compile native-speaker video lessons and pair students for peer-supported immersive multimedia learning of L2 oral skills](../strategies/compile-native-video-lessons-peer-pairs-strategy.md)
+- [Use visual and aural aids and varied, vivid lesson structures in listening lessons](../strategies/visual-aural-aids-listening-lessons.md)
 
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)

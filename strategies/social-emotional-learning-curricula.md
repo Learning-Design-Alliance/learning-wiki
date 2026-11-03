@@ -70,6 +70,7 @@ Well-implemented SEL programs produce measurable gains in social-emotional skill
 - [Embed brief daily wellbeing check-ins across academic courses to build student-teacher connection](brief-daily-wellbeing-check-ins.md)
 - [Integrate social-emotional learning into school programs alongside academic content](integrate-sel-curricula-academic-content.md)
 - [Sequence SEL intervention content by developmental stage, targeting skills most salient to each grade or age that serve as building blocks for later complex skills](developmentally-sequenced-sel-skills.md)
+- [Deliver EI workshops through a sequence covering self-awareness, empathy, and emotional detection](ei-workshop-sequence-self-awareness-empathy-detection.md)
 
 ## Examples
 - **[PATHS (Promoting Alternative Thinking Strategies)](https://www.pathseducation.com)** — sequenced elementary curriculum teaching emotion vocabulary and self-control; among the most heavily evaluated universal SEL programs.

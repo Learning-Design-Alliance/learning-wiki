@@ -47,6 +47,7 @@ The authors recommend that, to support L2 learners who cannot meet their languag
 - [Adopt mobile messaging applications, especially WhatsApp, across English-language teaching](adopt-whatsapp-mobile-apps-elt-strategy.md)
 - [Use WhatsApp as a supportive technology alongside traditional instruction, with careful attention to message timing](whatsapp-as-supportive-technology-strategy.md)
 - [Use WhatsApp mobile learning activities only within a blended course strategy that integrates face-to-face and mobile learning](whatsapp-only-in-blended-course-strategy.md)
+- [Use Facebook applications to deliver Islamic Studies content with student choice of access](facebook-applications-deliver-content-student-choice-access.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Implementation study across two years (304 teachers: 147 Year 1, 157 Year 2; 49.
 ## Related Claims
 - [Both included studies report high-fidelity implementation of eMINTS](emints-high-fidelity-implementation.md) — related
 - [Treatment teachers showed relatively high fidelity to the ECHOS model, with adherence and quality scores increasing slightly from mid-year to year end](echos-high-fidelity-adherence-quality.md) — related
+- [In the Contrasting Cases project, treatment diffusion appeared higher on control teachers' survey responses compared with their fidelity scores from analyzed videos](cc-treatment-diffusion-survey-versus-video.md) — related

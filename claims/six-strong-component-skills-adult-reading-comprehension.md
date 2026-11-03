@@ -67,3 +67,4 @@ Random effects meta-analysis of 16 studies and 2,707 struggling adult readers, u
 - [Vocabulary test scores correlate moderately with teachers' final Latin grades, averaging .56 for Latin-English and .66 for English-Latin](latin-vocabulary-test-teacher-grade-correlations.md) — related
 - [Poor readers are highly heterogeneous and do not all display the same type of reading impairment](poor-readers-heterogeneous-reading-behaviours.md) — related
 - [English reading comprehension achievement correlates moderately and positively with English self-efficacy before and after instruction](reading-comprehension-self-efficacy-moderate-correlation.md) — related
+- [Reading efficacy correlated positively but weakly to moderately with reading achievement in blended learning settings](reading-efficacy-weak-moderate-correlation-blended.md) — related

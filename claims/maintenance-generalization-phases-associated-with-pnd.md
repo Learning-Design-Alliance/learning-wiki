@@ -51,3 +51,4 @@ Kruskal-Wallis test across phase conditions among the 140 observed cases, follow
 - [Video modeling interventions yield strong or moderate treatment effects in 56% of reviewed studies of students with EBD](vm-ebd-56-percent-strong-moderate-pnd.md) — related
 - [Contrived approaches show greater generalization of spoken language skills than naturalistic approaches in children with autism](contrived-approaches-greater-generalization-pnd.md) — related
 - [Naturalistic approaches show higher mean PND than contrived approaches for maintenance of language skills](naturalistic-approaches-higher-maintenance-pnd.md) — related
+- [PND is sensitive to the number of baseline sessions, observation session length, and recording system, but not to the number of treatment sessions](pnd-sensitive-to-baseline-sessions-session-length-recording-system.md) — related

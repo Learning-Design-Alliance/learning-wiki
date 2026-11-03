@@ -44,7 +44,8 @@ A faculty development program of two workshops (total 40 hours of direct contact
 - [Ct Workshop Active Strategies Not Significant](../claims/ct-workshop-active-strategies-not-significant.md) [~M]
 
 ## Related Designs
-- 
+
+- [Teacher Training Program for Gifted Education (TTPGE)](ttpge-certificate-program.md)
 
 ## Examples
 -

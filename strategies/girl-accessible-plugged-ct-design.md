@@ -48,6 +48,7 @@ The article recommends that plugged pedagogical devices be designed for accessib
 - [Universities combine responsible AI use guidelines, accessible technical support, AI literacy training, and assessment-embedded critical evaluation activities to address AI learning anxiety](institutional-support-package-for-ai-learning-anxiety.md)
 - [Design MALL tasks to be user friendly, socially and culturally sensitive, engaging, and short](mall-task-design-guidelines.md)
 - [Use computer-based simulations to teach chemistry topics that are difficult to demonstrate, as a gender-friendly bridge of the achievement gap](cbs-gender-friendly-chemistry-strategy.md)
+- [Select theme-set resources that appeal cross-culturally and present content on students' terms](cross-cultural-theme-set-resource-selection.md)
 
 ## Examples
 -

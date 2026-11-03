@@ -61,3 +61,4 @@ Moderator analysis across the 63 studies grouped by application duration (1-10 t
 - [For socialisation outcomes, effects hinge on sustained duration and structured pedagogy: >8-week interventions yield g = 1.204 while contextual learning yields g = 0.168](socialisation-moderators-duration-strategy.md) — related
 - [The authors interpret the null between-group result as reflecting the program's short duration and students' lack of experience with critical thinking tasks](mbsep-short-duration-interpretation.md) — related
 - [The effect of drama on social communication skills differs significantly by implementation period, with 2-4 week interventions showing the highest effect size](drama-effect-differs-implementation-period.md) — related
+- [Short improv exposure (under 10 hours) produced gains consistent with meta-analytic findings that moderate drama instruction durations are most effective](short-exposure-sufficient-gains.md) — reports the opposite

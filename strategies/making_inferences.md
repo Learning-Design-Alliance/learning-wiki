@@ -65,6 +65,7 @@ Inference-making is a teachable skill, not merely a byproduct of reading volume:
 - [Prompt children's underspecified inference responses to reveal their comprehension potential and model the standard of coherence required](prompt-underspecified-inference-responses.md)
 - [Teach three collaboration strategies for drawing collaborative inferences: information connection, information pooling, and information take-up](three-collaborative-inference-strategies-instruction.md)
 - [Three-step procedure for adding linking changes to scientific texts](three-step-linking-text-procedure.md)
+- [Teach vocabulary through contextual-clue inference strategies rather than mechanical grammar questions](contextual-clue-vocabulary-inference-strategy.md)
 
 ## Examples
 - In a story where a character is repeatedly late and unprepared, learners infer disorganization from the accumulated details plus their own experience — then must cite which details warrant the conclusion.

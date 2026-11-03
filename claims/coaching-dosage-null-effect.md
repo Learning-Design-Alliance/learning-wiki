@@ -69,3 +69,4 @@ Exploratory meta-analytic regressions across the 60 studies; the authors call th
 - [Intervention dosage (duration, frequency, intensity) shows no consistent association with app effect sizes](app-dosage-no-consistent-association.md) — related
 - [Intervention creativity ratings relate to practice frequency, session duration and teacher qualification, but not intervention duration or intensity](intervention-characteristics-associated-with-creativity-rating.md) — related
 - [The on-treatment analysis revealed a significant positive relationship between total coaching contact time (dosage) and pupils' reading and writing outcomes](perry-beeches-coaching-dosage-outcome-relationship.md) — related
+- [The graduation coach spent 79% of total available time (1029 hours) on intervention, with the Activity Reporting System accounting for over 83% of available time](coach-time-allocation-fidelity.md) — related

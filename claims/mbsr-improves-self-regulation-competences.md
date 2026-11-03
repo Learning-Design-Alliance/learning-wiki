@@ -58,3 +58,4 @@ Pilot non-randomised waitlist-controlled study of 32 self-selected German school
 - [MBSR training significantly reduces teacher strain, with large between-group effect sizes sustained at follow-up](mbsr-reduces-teacher-strain.md) — related
 - [Studies of emotional training of aspiring and practicing teachers report positive outcomes for dealing with emotions and reducing stress and burnout](teacher-emotional-training-studies-positive-outcomes.md) — a broader claim this one bears on
 - [Changes in mindfulness at post-test mediate training effects on self-regulation at 3-month follow-up](mindfulness-mediation-teacher-self-regulation.md) — related
+- [CALM improved positive affect and distress tolerance](calm-improves-positive-affect-distress-tolerance.md) — related

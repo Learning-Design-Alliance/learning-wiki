@@ -53,3 +53,5 @@ Observational analysis of classroom video from the first project site, comparing
 - [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](tefa-t-improves-critical-thinking-skills.md) — related
 - [The IRE classroom discourse structure constrains students' everyday mathematical register, conjectures, and participation of lower socioeconomic groups](ire-structure-constrains-math-participation.md) — a broader claim this one bears on
 - [Three-year formative assessment training improved teachers' eliciting and interpreting skills, leading to better student learning](formative-assessment-training-improves-information-on-results.md) — related
+- [Professional development programs improve teachers' classroom assessment practices and skills](pdp-improves-teacher-assessment-practices.md) — a broader claim this one bears on
+- [Video-based professional development positively affects classroom interactions and assessment practices](vbpd-positive-effects-classroom-interactions.md) — a broader claim this one bears on

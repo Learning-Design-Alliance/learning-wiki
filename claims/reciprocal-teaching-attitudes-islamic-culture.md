@@ -56,3 +56,4 @@ Experimental 40  99,62  3,81"
 - [A six-hats-based training program produces larger achievement gains in Islamic concepts than usual teaching among university students](six-hats-program-improves-islamic-concepts-achievement.md) — related
 - [Constructivist-trained teachers show significantly more positive teaching attitudes than conventionally trained teachers](constructivist-training-improves-teacher-attitude.md) — related
 - [Using infographics in geography lessons improves students' attitudes towards the geography lesson relative to usual instruction](infographics-improve-geography-attitudes.md) — related
+- [The web-assisted six thinking hats intervention significantly increased students' attitudes towards computers compared to the control group.](web-assisted-six-hats-increased-computer-attitudes.md) — related

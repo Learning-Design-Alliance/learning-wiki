@@ -49,3 +49,4 @@ Between-groups comparison of ninety 8-year-olds: Canadian monolinguals, Canadian
 - [Bilingual 8-year-olds show smaller inhibitory-control costs than monolinguals on the faces task](bilingual-children-inhibitory-control-advantage-faces-task.md) — related
 - [Bilingual 8-year-olds show no switching cost between blocked and mixed trial blocks, unlike monolinguals](bilingual-children-no-switching-cost-faces-task.md) — related
 - [Bilingual children show a general advantage in reading acquisition, especially when learning two alphabetic languages](bilingual-advantage-reading-acquisition.md) — related
+- [Evidence on bilingual cognitive advantages is mixed, so no definitive conclusion on whether bilingualism confers cognitive advantages is currently possible](bilingual-cognitive-advantage-mixed-evidence.md) — related

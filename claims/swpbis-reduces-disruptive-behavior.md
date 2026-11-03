@@ -77,3 +77,4 @@ Group randomized controlled effectiveness trial in 37 elementary schools; 3-leve
 - [Emotion regulation difficulties are reliably associated with maladaptive trajectories including non-suicidal self-injury, aggression, bullying, and social withdrawal in at-risk adolescents](er-difficulties-maladaptive-trajectories-at-risk-adolescents.md) — related
 - [Observed aggressive behavior positively correlates with teacher-reported aggressive/disruptive behavior](observed-teacher-reported-aggressive-behavior-correlation.md) — related
 - [Positive Action reduced negative behaviors, including substance use, violence, bullying and disruptive behavior, in both trials](positive-action-reduces-negative-behaviors.md) — related
+- [Randomized controlled trials reviewed in the discussion report positive effects of SWPBIS on behavior problems, school climate, and bullying](swpbis-rct-evidence-discussion.md) — a broader claim this one bears on

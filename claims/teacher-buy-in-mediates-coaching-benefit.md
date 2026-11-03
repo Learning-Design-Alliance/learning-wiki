@@ -55,3 +55,4 @@ Requisite Teacher Characteristics section of the focus group study: teachers saw
 - [Video-based analysis of teacher-student interactions mediates positive coaching outcomes, and challenging teachers supports reflection but is uncommon](video-analysis-mediation-coaching-outcomes.md) — related
 - [Mediator-outcome association analyses can identify teacher practice mediators most associated with student learning](mediator-analyses-identify-key-teacher-practices.md) — related
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
+- [Tests of mediation suggest a large treatment effect on teacher practice and a strong effect of teacher practice on student achievement](teacher-practice-mediation-treatment-effect.md) — related

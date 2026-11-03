@@ -87,3 +87,4 @@ Hypothesis 5 was supported in the experiment: visual-knowledge means were 10.18 
 - [Dynamic slides did not improve knowledge acquisition compared to static slides](dynamic-slides-no-knowledge-benefit.md) — related
 - [Animation outperforms static pictures for learning about a biological process with spoken narration](animation-outperforms-static-pictures-photosynthesis.md) — related
 - [Multimedia design was a frequently reported facilitator, and one study found e-modules with more sophisticated visual and interactive features led to stronger learning outcomes](multimedia-design-facilitator-sophisticated-features.md) — related
+- [Text story modules were rated the most helpful content type in WeChat literature articles, ahead of pictures and audio-video](wechat-text-story-most-helpful-module.md) — reports the opposite

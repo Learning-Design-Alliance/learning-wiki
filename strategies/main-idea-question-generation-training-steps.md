@@ -54,6 +54,7 @@ The article's training program teaches a three-step questioning procedure: "Firs
 
 - [Teach the RAP paraphrasing strategy with reading strategy charts as the portfolio entry routine](rap-strategy-chart-portfolio-routine.md)
 - [Teach main idea identification with two repeated questions: who or what is the paragraph about, and what happens in the paragraph](two-questions-main-idea-strategy.md)
+- [Alternate collaborative and private speech tasks across paragraphs in a reading lesson](alternating-collaboration-private-speech-tasks.md)
 
 ## Examples
 -

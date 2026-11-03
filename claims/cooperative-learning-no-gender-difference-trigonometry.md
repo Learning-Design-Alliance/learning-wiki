@@ -59,3 +59,4 @@ Within the cooperative learning group (Table 6: 37 males, 33 females), females' 
 - [Gender has no significant main effect on gifted students' post-test achievement in the study](gender-no-significant-main-effect-gifted-achievement.md) — related
 - [Male and female students taught algebra with problem-based learning show no statistically significant difference in achievement scores](pbl-no-gender-achievement-difference.md) — related
 - [Male and female students taught algebra with problem-based learning show no statistically significant difference in retention scores](pbl-no-gender-retention-difference.md) — related
+- [Within-gender comparisons showed males taught with LMM scored slightly higher than males taught with LMC, while females taught with LMM scored higher than females taught with LMC.](within-gender-lmm-lmc-retention-comparisons.md) — related

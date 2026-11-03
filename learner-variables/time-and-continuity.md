@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 196 claims (129 show a difference, 45 mixed, 22 no difference) · 167 studies (80 causal, 36 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 36 of 167 report an effect size · 192 claims rest on one study
+> **Evidence** · 198 claims (130 show a difference, 45 mixed, 23 no difference) · 169 studies (82 causal, 36 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 36 of 169 report an effect size · 194 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -253,6 +253,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Sam and Pat classrooms spent significantly more time on reading development instruction than control classrooms (66 percent vs. 19 percent of observed intervals)](../claims/sam-and-pat-more-reading-instruction-observed.md) [+M] — instruction changes it
 - [Teacher-to-parent communication reduces student absenteeism](../claims/teacher-parent-communication-reduces-absenteeism.md) [+M] — instruction changes it
 - [Task type did not differ significantly between groups except for more no-task/transition time in control classes](../claims/udl-task-type-no-difference-except-transition.md) [~M] — instruction changes it
+- [City Connects exposure during elementary school is associated with lower chronic absenteeism and grade retention through middle and early high school](../claims/city-connects-lower-absenteeism-retention.md) [+M] — instruction changes it
+- [Treatment dosage (percentage of BELA activities completed) showed no reliable effect on reading achievement change](../claims/belai-dosage-no-reliable-effect-reading.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/web-facilitated-higher-final-exam-than-hybrid-online.md
+---
+
+# Revision history: [claims/web-facilitated-higher-final-exam-than-hybrid-online](../claims/web-facilitated-higher-final-exam-than-hybrid-online.md)
+
+### 2026-11-03 · ingest · process:wiki-ingest
+Ingested from eric-ej1057333 (Adaptability and Replicability of Web-Facilitated, Hybrid, and Online Learning in an Undergraduate Exercise Psychology Course) via eval_harness.py + ingest_extractions.py

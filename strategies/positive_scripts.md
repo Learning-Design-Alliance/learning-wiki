@@ -58,9 +58,11 @@ Positive Scripts target self-efficacy and outcome expectancy, both of which pred
 5. Periodically revise the script as evidence accumulates, so it stays anchored to real progress rather than drifting into fantasy.
 
 ## Related Strategies
+
 - [Mental Contrasting with Implementation Intentions](mental-contrasting-with-implementation-intentions.md) — the evidence-based counterpart that converts positive future thinking into plans
 - [Self-Talk](self-talk.md) — the broader family of instructional self-statements from which scripts derive
 - [Goal Setting](../elements/goal-setting.md) — supplies the specific, process-level content scripts should narrate
+- [Use scripted imagery of the Ideal L2 self combined with goal-setting and action plans to motivate language learners](magid-2014-scripted-imagery-goal-setting-strategy.md)
 
 ## Examples
 - **WOOP (Wish–Outcome–Obstacle–Plan)**, Gabriele Oettingen's structured routine used in schools and health programs ([https://woopmylife.org](https://woopmylife.org)) — pairs a positive future image with obstacle planning, avoiding the demotivation of pure fantasy.

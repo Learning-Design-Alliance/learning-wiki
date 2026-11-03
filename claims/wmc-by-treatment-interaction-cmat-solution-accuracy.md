@@ -54,3 +54,7 @@ Mixed model ANCOVA of the randomized 2 (MD vs. NMD) x 4 (treatment) design on po
 - [Verbal and verbal+visual strategy conditions improve calculation accuracy for both ability groups](verbal-strategies-improve-calculation-transfer.md) — reports the opposite
 - [Combined verbal+visual strategy instruction improves standardized problem-solving accuracy for children with math difficulties](verbal-visual-strategy-improves-md-problem-solving.md) — related
 - [Working memory capacity correlates with outcomes differently across strategy conditions, with compensatory negative correlations under materials-only instruction](wmc-correlations-vary-by-strategy-condition.md) — related
+- [Children without math difficulties outperformed children with math difficulties in word problem solving overall, but gaps narrowed on some conditions at Wave 2](md-nmd-ability-group-gap-word-problems.md) — related
+- [At high WMC, children without math difficulties performed better under verbal + visual conditions compared to control](verbal-visual-advantage-high-wmc-nmd.md) — related
+- [At low WMC, the visual-only condition was a significant disadvantage for children with math difficulties](visual-only-disadvantage-low-wmc-md.md) — a narrower finding that bears on this claim
+- [Strategy instruction effects on word problem solving in children with math difficulties are moderated by working memory capacity, favoring high-WMC levels](wmc-moderates-strategy-instruction-md-word-problems.md) — possibly the same claim (merge candidate)

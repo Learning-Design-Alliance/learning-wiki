@@ -69,3 +69,4 @@ Cross-case qualitative analysis of three high-performing CHSRI schools based on 
 - [At Ivy Elementary, teachers lead grade-level goal setting and participate in school-level decisions, with the principal empowering staff](ivy-teacher-led-goals-collective-decisions.md) — a narrower finding that bears on this claim
 - [CHSRI small schools lack a shared vision of high-quality instruction, and the link between school themes and curriculum remains weak in year two](chsri-no-shared-vision-quality-instruction.md) — related
 - [Creativity-supportive school climates combine autonomy, psychological safety, teacher encouragement, and rich resources](creativity-supportive-climate-factors.md) — related
+- [Strong leadership, data-informed instruction, positive school culture, and increased expectations were associated with improvement in schools undergoing state intervention](leadership-data-culture-expectations-associated-improvement.md) — related

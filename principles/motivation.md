@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 124 claims (75 for, 47 mixed, 2 against) · 112 studies (33 causal, 29 review, 13 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 14 of 112 report an effect size · 110 claims rest on one study
+> **Evidence** · 125 claims (76 for, 47 mixed, 2 against) · 113 studies (34 causal, 29 review, 13 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 14 of 113 report an effect size · 111 claims rest on one study
 
 ## Conditional relationship
 
@@ -212,6 +212,7 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [The direct ARIAS learning strategy improves students’ motivation, with most students reaching the high or very high categories after learning](../claims/direct-arias-improves-motivation.md) [+W] — attached 2026-11-01 from Mustami et al. (2018), which proposed "ARIAS strategy: assurance, relevance, interest, assessment, and satisfaction components woven into lesson design".
 - [RAP strategy instruction without a motivational system produced no noteworthy reading comprehension enhancement in either group during the first three weeks](../claims/rap-alone-no-significant-gain.md) [~W] — attached 2026-11-02 from Leidig et al. (2018), which proposed "Combine strategy instruction with a multicomponent motivational system (scoring, visual feedback, attribution-based praise) rather than a token economy alone"; tests this page's relationship.
 - [At large peer-teacher relatedness discrepancies, high teacher relatedness compensates for absent peer relatedness to support engagement, whereas low teacher relatedness accompanies low engagement (Study 1)](../claims/teacher-specific-compensation-engagement.md) [+W] — attached 2026-11-03 from Núñez-Regueiro et al. (2024), which proposed "Design interventions and theories around peer and teacher relatedness as interdependent, rather than independent, factors of adolescent development".
+- [Personalized motivational prompts improve total mean scores on a low-stakes standardized test](../claims/personalized-motivational-prompts-improve-low-stakes-test-performance.md) [+W] — attached 2026-11-03 from Hawthorne et al. (2015), which proposed "Use personalized motivational prompts as a practical, low-cost strategy to enhance performance on low-stakes tests".
 
 ## Objective and learner-valued goal
 

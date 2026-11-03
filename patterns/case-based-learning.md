@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 67 claims (32 for, 34 mixed, 1 against) · 51 studies (18 causal, 14 quant-synthesis, 10 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 15 of 51 report an effect size · 62 claims rest on one study
+> **Evidence** · 69 claims (34 for, 34 mixed, 1 against) · 52 studies (19 causal, 14 quant-synthesis, 10 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 16 of 52 report an effect size · 64 claims rest on one study
 
 ## Description and scope
 
@@ -181,6 +181,8 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 - [Interactive online learning designs with rich feedback, matched task difficulty and case-based strategies may explain larger online learning effects](../claims/interactive-design-drives-online-advantage.md) [+W]
 - [Most CBL interventions report positive effects on knowledge, attitudes, and skills, but studies finding no positive effect were often randomized controlled trials](../claims/cbl-outcomes-mostly-positive-rcts-often-null.md) [~W]
 - [A case-based workshop without an experiential patient-care component increased medical students' reported independence in conducting medication reconciliation](../claims/workshop-independence-medication-reconciliation-students.md) [~W]
+- [Video cases increase the number of design patterns from the pattern language 'Teaching' that pre-service teachers mention in written advice.](../claims/video-cases-increase-pattern-language-teaching.md) [+W]
+- [Video cases stimulate more development of the design pattern 'Dealing with disorder' than a course without video cases.](../claims/video-cases-increase-design-pattern-dealing-with-disorder.md) [+W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)

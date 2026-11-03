@@ -52,6 +52,7 @@ Based on the five identified SRL profiles, the article recommends varying the ki
 ## Related Strategies
 
 - [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
+- [Embed SRL-promoting activities in post-secondary teacher education lessons](embed-srl-activities-teacher-education.md)
 
 ## Examples
 -

@@ -75,6 +75,7 @@ Learning contracts support learning primarily by forcing goal specification and 
 **Knowles' andragogical contracts** — Malcolm Knowles' model for adult education: learners diagnose needs, set objectives, select resources and strategies, and specify evidence of accomplishment, iterated with instructor approval (Knowles, 1986).
 
 **University independent-study and practicum courses** — Typical implementation: a proposal template with goals, activities, timeline, and deliverables, approved by a faculty supervisor and assessed at midterm and final checkpoints.
+- [Individualized Student Plan co-signed by student specifying interventions, responsibilities, and timelines](../strategies/individualized-student-plan-coaching.md)
 
 ## Key Sources
 - Knowles, M. S. (1986). *Using learning contracts: Practical approaches to individualizing and structuring learning*. Jossey-Bass.

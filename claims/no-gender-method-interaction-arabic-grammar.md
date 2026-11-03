@@ -61,3 +61,4 @@ ANCOVA of the same 120-student quasi-experiment testing the Method X Gender inte
 - [Literacy achievement differences showed no statistically significant effect of gender or of the method-by-gender interaction](no-gender-effect-systemic-approach-literacy.md) — related
 - [No statistically significant interaction between gender and teaching method on eighth-grade mathematics achievement](no-gender-method-interaction-math-achievement.md) — related
 - [No statistically significant difference in reading achievement due to the interaction between gender and teaching strategy](no-gender-strategy-interaction-achievement.md) — related
+- [Gender was not a significant moderator of the HGC intervention effect on mental-maths gains](gender-no-moderating-effect-hgc-intervention.md) — related

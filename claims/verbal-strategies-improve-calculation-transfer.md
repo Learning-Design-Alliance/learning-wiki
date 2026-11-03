@@ -52,3 +52,4 @@ HLM analysis of WRAT-3 calculation posttest scores in the randomized Grade 3 stu
 - [Children without MD benefited from strategy conditions on operation span but not on solution or calculation accuracy](nmd-benefit-operationspan-only.md) — reports the opposite
 - [Combined verbal+visual strategy instruction improves standardized problem-solving accuracy for children with math difficulties](verbal-visual-strategy-improves-md-problem-solving.md) — related
 - [Working memory capacity correlates with outcomes differently across strategy conditions, with compensatory negative correlations under materials-only instruction](wmc-correlations-vary-by-strategy-condition.md) — related
+- [Children without math difficulties outperformed children with math difficulties in word problem solving overall, but gaps narrowed on some conditions at Wave 2](md-nmd-ability-group-gap-word-problems.md) — related

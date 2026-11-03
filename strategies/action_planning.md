@@ -58,9 +58,11 @@ Action planning closes the loop between reflection and behavior change; without 
 5. Fade the scaffolding over time so learners internalize the plan–act–reflect cycle [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Action-oriented feedback](action-oriented-feedback.md) — feedback that names a next action feeds directly into the plan
 - [Achievable micro-goals](achievable_micro-goals.md) — a way of sizing plan steps to guarantee early success
 - [Activities for student self-reflection](activities_for_student_self-reflection.md) — the reflective precursor that generates plan content
+- [Individualized Student Plan co-signed by student specifying interventions, responsibilities, and timelines](individualized-student-plan-coaching.md)
 
 ## Examples
 - **Exam wrappers** (e.g., those published by [Carnegie Mellon's Eberly Center](https://www.cmu.edu/teaching/designteach/teach/examwrappers.html)) — after an exam is returned, students answer structured prompts and write a concrete study plan for the next assessment cycle.

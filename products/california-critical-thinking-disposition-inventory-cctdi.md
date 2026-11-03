@@ -26,7 +26,8 @@ A 51-item, six-point Likert self-report inventory measuring dispositions toward 
 - [Experimental group's critical thinking disposition improved significantly from pre-test to post-test](../claims/experimental-group-cctdi-pre-post-gain.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Effective Teaching Scale (Ginns & Ellis 2009) adapted to Turkish](effective-teaching-scale-ginns-ellis-2009-adapted-to-turkish.md)
 
 ## Key Sources
 - Fettahlıoğlu, P., & Kaleci, D. (2018). Online Argumentation Implementation in the Development of Critical Thinking Disposition. Journal of Education and Training Studies, 6(3). https://doi.org/10.11114/jets.v6i3.2904

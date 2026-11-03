@@ -52,3 +52,5 @@ Multisite cluster randomized trial of 186 early childhood teachers (92 BEST in C
 - [BEST in CLASS raised teacher self-efficacy on all four TEBS subscales, with the Maintaining Positive Classroom Climate effect larger for teachers with lower pretest self-efficacy](best-in-class-raised-tebs-self-efficacy.md) — related
 - [Child problem behavior was not associated with teacher implementation of BEST in CLASS](child-problem-behavior-null-implementation.md) — related
 - [Teachers in both consultation conditions showed significant improvement over time in labeled praise, appropriate response to rule violations, and global classroom management competence](consultation-improves-teacher-classroom-management-both-conditions.md) — related
+- [Within the intervention group, teacher practices, child engagement, and problem behaviors improved from baseline to post-test and were maintained at four weeks](best-in-class-within-group-maintenance.md) — a broader claim this one bears on
+- [Teachers' increased use of opportunities to respond was not maintained from baseline to maintenance](otr-not-maintained-best-in-class.md) — related

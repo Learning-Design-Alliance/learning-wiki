@@ -53,3 +53,5 @@ Paired t-test comparing post-survey motivational means between conventional (Act
 - [Experimental-group students reported high positive motivation toward the AR-developed Ottoman vocabulary material across the ARCS sub-dimensions](ar-ottoman-material-high-motivation-arcs.md) — related
 - [OER-based blended learning with Quipper School raised relevance and confidence motivation significantly higher than face-to-face classroom learning](oer-blended-quipper-relevance-confidence.md) — related
 - [Experimental group motivation was significantly higher in 3 of 5 sub-categories, but no correlation was found between test results and motivation](busuu-motivation-higher-no-correlation.md) — related
+- [Gamified educational robots increase all four learning-motivation dimensions (attention, relevance, self-confidence, satisfaction) in a STEM curriculum](gamified-robots-increase-stem-motivation.md) — a narrower finding that bears on this claim
+- [Learning-motivation subdimensions each positively predict creativity](motivation-subdimensions-predict-creativity.md) — related

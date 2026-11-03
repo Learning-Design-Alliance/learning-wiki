@@ -72,3 +72,4 @@ Total-test row of the post-test ANOVA table (Table 6) prints F = 74.54, signific
 - [Pre-reading significantly improves sixth-grade social-course learning achievement in both phases of an 8-week quasi-experiment](pre-reading-improves-achievement-social-course.md) — related
 - [Descriptive posttest gains favored the PàN group (M=14.24 vs 9.23) but the difference was not deemed significant](pan-posttest-descriptive-gains-not-significant.md) — related
 - [The iPad intervention used researcher-built educational software with Google Earth, Keynote, YouTube and educational games over six weeks](ipad-social-studies-educational-software-element.md) — related
+- [Educational technology innovations produce significant pre-to-post gains at each of the four cognitive achievement levels (remembering, understanding, application, analysis)](edtech-gains-four-cognitive-levels.md) — related

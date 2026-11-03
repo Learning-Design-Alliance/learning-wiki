@@ -47,3 +47,4 @@ Background premise stated in the abstract, cited by the authors as established k
 ## Related Claims
 - [Only the combined effects of pretesting and coaching have substantial positive effects on student performance on the low-stakes PISA assessments](combined-pretesting-coaching-improves-low-stakes-pisa-performance.md) — related
 - [The study addresses whether performance on the low-stakes PISA reading and mathematics assessments can be fostered by coaching and pretesting](low-stakes-pisa-coaching-question.md) — related
+- [Assessment does not have to be high-stakes to motivate students to perform](assessment-motivation-without-high-stakes.md) — related

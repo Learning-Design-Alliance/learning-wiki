@@ -48,3 +48,4 @@ Concluding statement of the four-month randomized controlled study of 84 interme
 - [Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses](glossing-medium-large-effects-l2-vocabulary.md) — related
 - [Marginal glosses, dictionary use, and repeated occurrence of unknown words each positively affect incidental vocabulary learning](marginal-glosses-dictionary-recurrence-improve-incidental-learning.md) — related
 - [Gloss type significantly affects reading comprehension, with the extended audio gloss group significantly outperforming the other groups](gloss-type-anova-extended-audio-outperforms.md) — related
+- [Nasiri and Shokrpour (2012) found non-intensive English course students significantly outperformed intensive course students](nasiri-shokrpour-non-intensive-outperformed-intensive.md) — related

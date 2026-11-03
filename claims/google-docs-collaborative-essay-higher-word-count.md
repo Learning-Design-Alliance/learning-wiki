@@ -47,3 +47,4 @@ Quasi-experimental comparison of 84 first-year EFL students at Autónoma Univers
 ## Related Claims
 - [Virtual collaborative writing yields higher clout, emotional tone and function-word scores than face-to-face pen-and-paper collaborative writing](telecollaborative-writing-higher-clout-tone-function-words.md) — related
 - [Face-to-face pen-and-paper collaborative writing yields higher analytic, authentic, words-per-sentence and long-word scores than virtual collaborative writing](pen-paper-collaborative-writing-higher-analytic-authentic.md) — related
+- [After reflective diary practice, lower achieving students' written website analyses showed equivalent analysis quality to higher achieving students', though word volume was not significantly different.](website-analyses-equivalent-quality.md) — related

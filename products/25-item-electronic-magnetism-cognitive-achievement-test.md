@@ -30,6 +30,7 @@ A 25-item multiple-choice test developed by Alneyadi et al. to measure eleventh-
 - [CTTBE: Critical Thinking Test for Basic Education](cttbe-critical-thinking-test-for-basic-education.md)
 - [CTAT: Computational Thinking in AI Training Test](ctat-computational-thinking-in-ai-training-test.md)
 - [Science and Technology Achievement Test (STAT)](science-and-technology-achievement-test-stat.md)
+- [Author-developed 31-question achievement test covering four cognitive levels](author-developed-31-question-achievement-test-covering-four-cognitive-levels.md)
 
 ## Key Sources
 - Alneyadi, S., & Wardat, Y. (2023). ChatGPT: Revolutionizing student achievement in the electronic magnetism unit for eleventh-grade students in Emirates schools. Contemporary Educational Technology, 15(4), ep448. https://doi.org/10.30935/cedtech/13417

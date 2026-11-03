@@ -49,3 +49,6 @@ WWC systematic review synthesizing eight studies (two group design, six single-c
 - [CW-FIT has positive effects on teacher practice, with promising WWC evidence across five studies in prekindergarten through grade 7](cw-fit-positive-effects-teacher-practice.md) — related
 - [CW-FIT improves teacher-rated academic competence on SSBS-2 and CPS-E but not on the SSIS Academic Competence scale](cw-fit-improves-academic-competence-ratings.md) — related
 - [CW-FIT shows no significant effect on teacher ratings of problem behaviors at post-test](cw-fit-no-effect-teacher-rated-problem-behaviors.md) — reports the opposite
+- [CW-FIT significantly decreases teacher reprimands](cw-fit-decreases-reprimands.md) — a narrower finding that bears on this claim
+- [CW-FIT group contingency intervention significantly increases class-wide on-task behavior in elementary classrooms](cw-fit-increases-class-wide-on-task-behavior.md) — a narrower finding that bears on this claim
+- [CW-FIT significantly increases teacher praise and attention to appropriate behaviors](cw-fit-increases-teacher-praise.md) — related

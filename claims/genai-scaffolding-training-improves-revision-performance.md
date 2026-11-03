@@ -54,3 +54,4 @@ RCT with 95 sophomore STEM students randomly assigned to structured GenAI traini
 - [Trained students more often identify and remediate GenAI deficiencies such as visual errors and reasoning flaws](trained-students-remediate-genai-deficiencies.md) — related
 - [Collaborative problem-solving students significantly outperformed individual problem-solving students on the electromagnetism problem-solving posttest](cps-outperformed-ips-on-epst-posttest.md) — related
 - [CPS and IPS raised electromagnetism concept-test performance equally, so CPS's advantage was specific to problem-solving performance](cps-ips-equal-concept-test-gains.md) — related
+- [Both MLM and non-MLM groups using reformed pedagogies demonstrate very large effect sizes on the CSEM, with the MLM group's effect size close to 'huge'](mlm-and-non-mlm-large-csem-effect-sizes.md) — related

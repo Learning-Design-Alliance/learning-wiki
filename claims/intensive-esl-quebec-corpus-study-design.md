@@ -52,3 +52,4 @@ Descriptive account of the study's design as printed: oral English development o
 - [Collaborative models in Second Life positively influenced French learners' speaking capability and inter-peer collaboration](second-life-collaboration-french-speaking.md) — related
 - [61% of the experimental class (23 of 38 students) showed substantial improvement in spoken proficiency](oct-61-percent-improved.md) — related
 - [Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported](communicatively-developing-methods-improve-teacher-coherent-speech.md) — related
+- [A one-month intensive English program significantly improved general English proficiency scores of low-scoring Malaysian secondary students](intensive-english-program-significant-pre-post-gains-malaysian-secondary.md) — related

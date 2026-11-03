@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 494 claims (264 show a difference, 100 mixed, 130 no difference) · 336 studies (153 associational, 128 causal, 20 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 54 of 336 report an effect size · 486 claims rest on one study
+> **Evidence** · 500 claims (268 show a difference, 101 mixed, 131 no difference) · 341 studies (153 associational, 133 causal, 20 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 55 of 341 report an effect size · 492 claims rest on one study
 
 ## How to read this page
 
@@ -533,6 +533,12 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [No significant gender difference in achievement among students taught solid geometry with animation-with-text CAI](../claims/no-gender-difference-at-cai.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The comics programme did not reduce gender differences in reading literacy or reading motivation](../claims/comics-no-gender-gap-reduction.md) [~M] — an instructional effect differs by group
 - [Tikichuela improved both boys' and girls' math scores but widened the gender gap because boys gained more](../claims/tikichuela-widened-gender-gap.md) [~W] — an instructional effect differs by group
+- [Female students had significantly higher electrochemistry retention scores than male students.](../claims/females-higher-retention-than-males-electrochemistry.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students showed greater improvement than male students across all categories in both studies](../claims/gender-gap-writing-fluency-gains.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender was not a significant moderator of the HGC intervention effect on mental-maths gains](../claims/gender-no-moderating-effect-hgc-intervention.md) [-M] — an instructional effect differs by group
+- [Male students significantly outperformed female students in listening success in most film categories](../claims/male-students-outperform-females-listening.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Significant gender difference favoring male students on the e-learning subscale](../claims/gender-difference-e-learning-subscale-males.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Within-gender comparisons showed males taught with LMM scored slightly higher than males taught with LMC, while females taught with LMM scored higher than females taught with LMC.](../claims/within-gender-lmm-lmc-retention-comparisons.md) [~M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

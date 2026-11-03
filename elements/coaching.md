@@ -13,7 +13,7 @@ generated:
 # Coaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 32 claims (18 for, 11 mixed, 3 against) · 34 studies (10 review, 9 causal, 5 quant-synthesis, 5 qualitative, 2 design, 2 theoretical, 1 associational), `q2`–`q4` · 3 of 34 report an effect size · 24 claims rest on one study
+> **Evidence** · 33 claims (18 for, 11 mixed, 4 against) · 35 studies (11 review, 9 causal, 5 quant-synthesis, 5 qualitative, 2 design, 2 theoretical, 1 associational), `q2`–`q4` · 3 of 35 report an effect size · 25 claims rest on one study
 
 ## Description
 Coaching is the provision of individualized support and guidance while learners actively perform a task. The coach observes performance, diagnoses gaps between current and target performance, and intervenes with hints, questions, modeling, or [Feedback](feedback.md) calibrated to what the learner needs at that moment. Unlike one-time instruction, coaching is sustained and adaptive — support rises and falls with learner performance.
@@ -76,6 +76,7 @@ Coaching accelerates skill development by keeping learners in a productive strug
 - [Teachers maintained Pyramid Model practices after coaching ended, with two of three teachers needing only brief reminders](../claims/pyramid-practice-maintenance-after-coaching-ends.md) [~W]
 - [Double Check coaching significantly reduced coached teachers' office discipline referrals of Black students relative to non-coached teachers, though this effect was sensitive to multiple-comparison adjustment](../claims/double-check-coaching-reduces-odrs-black-students.md) [+M] — attached 2026-11-02 from Bradshaw et al. (2018), which proposed "Classroom Check-Up (CCU) coaching adapted for culturally responsive practices"; tests this page's relationship.
 - [Coaching produced no additional experimental gains on teacher self-reported efficacy or stress, and no significant pre-post ODR changes appeared in the full sample](../claims/no-coaching-effect-on-teacher-self-reports.md) [-W]
+- [Supportive coaching had no direct impact on technology integration strategies due to standardized testing](../claims/coaching-no-direct-impact-tech-integration.md) [-W]
 
 ## The evidence by question
 - *Must support be contingent on the learner's last response, rather than fixed?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]

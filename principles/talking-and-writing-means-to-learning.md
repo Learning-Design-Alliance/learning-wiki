@@ -36,7 +36,7 @@ sources:
 # Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (35 for, 12 mixed) · 37 studies (12 causal, 8 review, 5 qualitative, 4 associational, 4 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 7 of 37 report an effect size · 43 claims rest on one study
+> **Evidence** · 53 claims (41 for, 12 mixed) · 41 studies (15 causal, 9 review, 5 qualitative, 4 associational, 4 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 7 of 41 report an effect size · 49 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,11 @@ Read against the model on 2026-10-19 and moved into it: the AI writing-dialogue 
 - [Reflective EFL learners taught with written output-based instruction significantly outperform control-group learners on vocabulary posttests](../claims/reflective-written-output-outperforms-control-vocabulary.md) [+W] — attached 2026-11-01 from Behnaz Rastegar et al. (2017), which proposed "Use oral or written output-based instruction as an alternative when input-based vocabulary teaching fails"; tests this page's relationship.
 - [Impulsive EFL learners taught with oral output-based instruction significantly outperform control-group learners, with a moderate effect](../claims/impulsive-oral-output-outperforms-control-vocabulary.md) [+W] — attached 2026-11-01 from Behnaz Rastegar et al. (2017), which proposed "Use oral or written output-based instruction as an alternative when input-based vocabulary teaching fails"; tests this page's relationship.
 - [Impulsive EFL learners taught with written output-based instruction significantly outperform control-group learners on vocabulary posttests](../claims/impulsive-written-output-outperforms-control-vocabulary.md) [+W] — attached 2026-11-01 from Behnaz Rastegar et al. (2017), which proposed "Use oral or written output-based instruction as an alternative when input-based vocabulary teaching fails"; tests this page's relationship.
+- [Discussion-based instruction improves interpretive comprehension over basal instruction in EFL college students](../claims/discussion-based-instruction-improves-interpretive-comprehension-efl.md) [+W] — attached 2026-11-03 from Shen (2013), which proposed "Use group discussion as an approach for teaching reading comprehension in EFL contexts"; tests this page's relationship.
+- [Discussion-based instruction improves transfer of reading comprehension to beyond-lesson texts](../claims/discussion-based-instruction-improves-beyond-lesson-transfer-efl.md) [+W] — attached 2026-11-03 from Shen (2013), which proposed "Use group discussion as an approach for teaching reading comprehension in EFL contexts"; tests this page's relationship.
+- [Discussion-based instruction improves theme-related essay performance over basal instruction](../claims/discussion-based-instruction-improves-theme-essays-efl.md) [+W] — attached 2026-11-03 from Shen (2013), which proposed "Use group discussion as an approach for teaching reading comprehension in EFL contexts"; tests this page's relationship.
+- [Collaboration and private speech fostered a supportive classroom climate](../claims/sct-tblt-classroom-climate.md) [+W] — attached 2026-11-03 from Soheila Tahmasebi (2011), which proposed "Use SCT-based collaborative and private speech instruction to foster learner autonomy and reduce error anxiety".
+- [Mobile voice-based WhatsApp chat use produces greater speaking proficiency gains than traditional instruction alone in B1 ESL learners](../claims/whatsapp-voice-chat-improves-speaking-proficiency.md) [+W] — attached 2026-11-03 from Andújar-vaca et al. (2017), which proposed "Mobile voice chat gives learners ubiquitous opportunities to negotiate meaning and evaluate their own performance through authentic interaction"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -177,6 +182,7 @@ Participation, willingness to speak, the reasoning in talk, written explanation,
 - [Teachers reported LIT facilitated healthy debate, increased pupil confidence and promoted independent learning, but not for pupils with underlying cognitive issues](../claims/lit-teacher-views-benefits-and-limits.md) [~W]
 - [Group discussion as a pre-activity task has no significant effect on the writing ability of Iranian intermediate EFL learners](../claims/group-discussion-preactivity-no-significant-effect-writing.md) [~W]
 - [Posttest writing means favored the discussion group descriptively but the difference was not statistically significant](../claims/posttest-descriptive-means-not-significant.md) [+W]
+- [Student-centered approaches yield enhanced teaching readiness, academic performance, engagement, and self-assessment abilities](../claims/student-centered-approach-multiple-advantages.md) [+W]
 
 ## Related Principles
 - [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](accessible-vocabulary-syntax.md)

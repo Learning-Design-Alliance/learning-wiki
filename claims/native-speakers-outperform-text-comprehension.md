@@ -49,3 +49,4 @@ In Study 2's text comprehension task (six expository German texts, 12 open-ended
 - [Native and non-native speaking fourth graders do not differ in monitoring resolution of their open-ended text comprehension answers (Study 2)](no-group-differences-text-comprehension-monitoring.md) — related
 - [Language competencies correlate with text comprehension performance in both groups, but with monitoring resolution only in non-native speakers](language-competency-correlations-task-and-group-specific.md) — related
 - [Study 2 replicates the absence of group differences in recognition and monitoring resolution in the paired-associates task](study2-replication-paired-associates-null.md) — related
+- [In theme-set courses, L2 students outperform native-speaking peers on unit surveys, reversing the control-group gap](theme-sets-reverse-l2-native-comprehension-gap.md) — related

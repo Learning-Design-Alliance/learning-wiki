@@ -50,3 +50,5 @@ Descriptive comparison of pretest-posttest mean gain scores (Table 4) in the sam
 - [All three instructional groups improved from pretest to posttest, with the blended learning group showing the highest mean gain score](mean-gain-scores-blended-elearning-traditional.md) — related
 - [Nigerian SS II physics students taught with computer-assisted STAD cooperative learning achieved significantly higher post-test scores than students taught with Individualized Computer Instruction](computer-assisted-stad-beats-ici-physics-achievement.md) — related
 - [Retention of physics content: the Results section reports a significant STAD-versus-ICI difference at p = 0.053, while the Discussion reports no significant difference in retention](stad-ici-retention-mixed-reporting.md) — related
+- [All three instructional groups showed higher academic achievement scores from pretest to posttest](all-groups-improved-academic-achievement-pre-to-post.md) — related
+- [Both Jigsaw II and ICI groups improved from pre-test to post-test, indicating both benefited from computer-assisted instruction.](both-groups-improved-cai.md) — related

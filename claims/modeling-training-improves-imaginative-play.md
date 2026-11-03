@@ -58,3 +58,4 @@ Freyberg studied 80 disadvantaged kindergarten children in New York City, dividi
 - [Building products change qualitatively with age: young children build static, skeleton structures supplemented by imagination, while adolescents build structures that work](static-to-functional-structures-with-age.md) — related
 - [Playful embodied robot sessions sustained young children's attention well beyond the planned session length, and children voluntarily invited peers into one-on-one play](robot-extended-attention-voluntary-collaboration.md) — related
 - [Switching from strategy building to puzzle solving overcame the implementation impasse](puzzle-solving-overcame-implementation-impasse.md) — related
+- [Imagination training improved the ability to use imagination in 63% of participants in both groups](magid-2014-imagination-training-improvement.md) — related

@@ -53,3 +53,4 @@ The review reports CLT research, citing Kalyuga and colleagues, on the expertise
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — possibly the same claim (merge candidate)
 - [Sequenced explicit instruction then guided independent learning: students benefit from explicit instruction early and guided independence as fluency develops](sequenced-explicit-then-independent-learning.md) — related
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — possibly the same claim (merge candidate)
+- [The reviewed literature indicates mathematically disabled learners' problems can be addressed through appropriate, explicit and early instruction and intervention](early-explicit-intervention-math-disabilities-review.md) — related

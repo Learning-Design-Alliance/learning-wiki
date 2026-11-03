@@ -61,3 +61,4 @@ Within-school component of the multilevel SEM partitioning teacher-level variati
 - [District-provided instructional resources supported strong practices only when instruction-ready and tied to professional learning; other resources showed a null or negative relationship](instruction-ready-resources-tied-to-professional-learning.md) — related
 - [Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals](teacher-reports-coherence-trust-increased.md) — related
 - [Teachers' Grow use is strongly influenced by technology professional development, their own use of technology, and principal support for Grow](tech-pd-own-use-influence-grow.md) — related
+- [Strong leadership, data-informed instruction, positive school culture, and increased expectations were associated with improvement in schools undergoing state intervention](leadership-data-culture-expectations-associated-improvement.md) — related

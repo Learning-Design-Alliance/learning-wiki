@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 79 claims (45 for, 31 mixed, 3 against) · 64 studies (27 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 9 of 64 report an effect size · 71 claims rest on one study
+> **Evidence** · 80 claims (45 for, 31 mixed, 4 against) · 65 studies (28 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 9 of 65 report an effect size · 72 claims rest on one study
 
 ## Conditional relationship
 
@@ -211,6 +211,7 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [Group × pre-achievement interaction favored high achievers in the experimental group and narrowed the high–low gap](../claims/group-level-interaction-reduced-achievement-gap.md) [~W]
 - [Prior studies comparing quizzes or reflections against passive or ineffective-strategy controls do not establish which active method is more effective](../claims/active-active-comparisons-missing-from-prior-literature.md) [~W]
 - [In Study 2, the performance-task section showed significant pre/post improvement in total quantitative-reasoning scores while the No PT section did not](../claims/study2-pt-section-total-score-gains.md) [+W]
+- [The non-MLM group using TIP and JiTT pedagogies had an average normalized gain below the national average for courses not utilizing active engagement pedagogies](../claims/non-mlm-group-below-national-average-gain.md) [-W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

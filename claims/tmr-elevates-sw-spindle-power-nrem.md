@@ -70,3 +70,4 @@ Spindle power comparisons: the personalized TMR group exceeded CNT in both the A
 - [Closed-loop auditory stimulation of slow oscillations and spindles evokes significant neurophysiological responses compared to sham in healthy young adults.](clas-evokes-significant-neurophysiological-responses.md) — a broader claim this one bears on
 - [Cortical delta oscillations during slow-wave sleep support declarative memory consolidation](delta-sws-declarative-consolidation.md) — related
 - [Hippocampal sharp-wave ripples during SWS and waking support memory consolidation and spatial task performance](swr-replay-supports-consolidation-and-spatial-memory.md) — related
+- [Auditory training uses electronically modified music and language to stimulate auditory pathways and enhance auditory processing ability.](auditory-training-definition-asha.md) — related

@@ -49,3 +49,4 @@ Objective-wise analysis of gain scores in the same 48-student experiment. Knowle
 - [Video podcast instruction yields higher gain scores than conventional teaching in Educational Psychology among B.Ed students](video-podcast-higher-gain-scores-bed-psychology.md) — a broader claim this one bears on
 - [Cooperative learning produced significantly higher gain scores than lecture teaching for each of the knowledge, understanding and application objectives](cooperative-learning-gains-knowledge-understanding-application.md) — related
 - [Peer tutoring significantly improved achievement at the application level of the cognitive domain](peer-tutoring-application-level-achievement.md) — related
+- [Educational technology innovations produce significant pre-to-post gains at each of the four cognitive achievement levels (remembering, understanding, application, analysis)](edtech-gains-four-cognitive-levels.md) — related

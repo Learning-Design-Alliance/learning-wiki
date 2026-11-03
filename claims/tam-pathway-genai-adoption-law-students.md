@@ -33,7 +33,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
-> **Design limits** · Haifang Liu 2026: no comparison group · Haifang Liu 2026 (2): no comparison group (read from the study by two models, 2026-10-29)
 
 ## Subclaims
 `q2 i?` Perceived usefulness strongly predicted attitude toward use (β = .52, t = 7.84, p < .001), attitude predicted behavioral intention (β = .61, t = 9.15, p < .001), and behavioral intention predicted actual use (β = .58, t = 8.32, p < .001). [→ Haifang Liu 2026](#haifang-liu-2026)

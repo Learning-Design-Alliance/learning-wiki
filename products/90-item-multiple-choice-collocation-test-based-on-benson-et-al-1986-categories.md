@@ -24,7 +24,8 @@ A 90-item multiple-choice test for assessing English collocation competence acro
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Teacher-made 40-item multiple-choice collocation test used as pretest and posttest](teacher-made-40-item-multiple-choice-collocation-test-used-as-pretest-and-posttest.md)
 
 ## Key Sources
 - Jafarpour, A. A., & Sharifi, A. (2012). The effect of error correction feedback on the collocation competence of Iranian EFL learners. Teaching English with Technology, 12(3), 3-17. http://www.tewtjournal.org

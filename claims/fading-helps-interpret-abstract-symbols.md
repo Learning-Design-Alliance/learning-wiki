@@ -62,3 +62,4 @@ Theoretical argument from the review's abstract, presented as the first of four 
 - [Disagreements about concreteness and abstraction in mathematics education may be verbal disputes rooted in word meaning](verbal-disputes-concreteness-abstraction.md) — related
 - [Concreteness fading provides embodied perceptual and physical experiences that can ground abstract thinking](fading-provides-embodied-grounding.md) — related
 - [Concreteness fading may not be as broadly generalizable across mathematics and natural science domains as has been suggested](concreteness-fading-limited-domain-generalizability.md) — related
+- [Lack of tolerance of ambiguity impedes textual and situational context analysis](ambiguity-intolerance-impedes-context-analysis.md) — related

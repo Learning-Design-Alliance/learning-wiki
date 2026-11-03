@@ -58,3 +58,4 @@ Random-effects meta-analysis of 105 effect sizes from 32 primary studies with 1,
 - [Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains](proficiency-motivation-involvement-gains.md) — related
 - [Adult (university) participants outperform kindergarten/elementary children in incidental spoken L2 word learning](adults-outperform-children-spoken-word-learning.md) — related
 - [Interactive learning tasks produce larger incidental spoken word-learning gains than noninteractive tasks](interactive-tasks-beat-noninteractive-spoken-word-learning.md) — a narrower finding that bears on this claim
+- [Meaning-oriented approaches providing rich, authentic input with high involvement load tend to be more successful in FL learning](meaning-oriented-rich-input-involvement-load.md) — related

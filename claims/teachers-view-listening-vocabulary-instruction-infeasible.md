@@ -67,3 +67,4 @@ Conclusion-phase summary of the interview findings: teachers named "l arge class
 - [Meaning-focused listening input significantly enhances productive vocabulary size of Iranian intermediate EFL learners compared with traditional instruction](meaning-focused-listening-input-productive-vocabulary-gains.md) — related
 - [Teachers with high incidental exposure described expanded opportunities for word use and connecting words to topics](teacher-practices-expanded-word-use-themes.md) — related
 - [Iranian EFL teachers hold positive attitudes toward using authentic listening materials and report enhanced listening comprehension relative to simplified materials](iranian-efl-teachers-positive-attitudes-authentic-listening.md) — related
+- [Most interviewed teachers held negative attitudes towards teaching listening comprehension](karak-teachers-negative-attitudes-listening.md) — related

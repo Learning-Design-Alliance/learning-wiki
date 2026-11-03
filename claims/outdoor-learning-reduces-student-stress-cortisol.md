@@ -74,3 +74,4 @@ The review reports a null result from Greenwood and Gatersleben's RCT with 120 s
 - [The TSST-G stress induction increased negative affect and cortisol relative to control](tsst-g-manipulation-check-affect-cortisol.md) — related
 - [Effects of nature exposure on divergent thinking are mixed: five of eight reviewed studies showed significant effects while others found null or partial effects](divergent-thinking-nature-effects-mixed.md) — related
 - Only a limited subset of student lifestyle-cognition studies include direct biological or psychophysiological measures — related
+- [CALM produced a steeper cortisol awakening response than control](calm-steeper-cortisol-awakening-response.md) — related

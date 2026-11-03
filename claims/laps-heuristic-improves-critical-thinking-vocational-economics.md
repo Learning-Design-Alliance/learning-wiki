@@ -55,3 +55,4 @@ Quasi-experiment with class X APK students at SMK Negeri 1 Ngawi: 32 experimenta
 - [Students taught Elementary Algebra with e-books showed significantly higher mathematical critical thinking gains than students taught with conventional textbooks](ebooks-higher-critical-thinking-gain-than-textbooks.md) — related
 - [Students taught with infographic materials scored higher on chapter quizzes than students taught the same chapters conventionally in both colleges](infographic-lectures-higher-quiz-marks.md) — related
 - [Experimental group scored higher than control group on post-test critical thinking at .05 significance](experimental-higher-critical-thinking-posttest.md) — related
+- [Students taught with the ILSC model show greater enhancement of mathematical critical thinking ability than students taught conventionally](ilsc-model-enhances-mathematical-critical-thinking.md) — related

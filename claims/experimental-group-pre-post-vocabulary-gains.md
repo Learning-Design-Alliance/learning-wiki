@@ -53,3 +53,4 @@ Paired t-test for the 55 experimental-group students showed vocabulary test scor
 - [Within-group score changes across pre-test, post-test and retention test were significant in both pretested groups, with larger variance explained in the experimental group](7e-within-group-gains-anova.md) — related
 - [The experimental group's speaking fluency scores rose significantly from pre-test to post-test after lexical chunks treatment](experimental-group-pre-post-fluency-gain.md) — related
 - [Demonstration technique significantly improves the vocabulary and grammar element of speaking in EFL learners](demonstration-technique-improves-vocabulary-grammar-efl-speaking.md) — related
+- [Linguistic-component scores rose to 79% (vocabulary) and 94% (grammar) at re-testing, with the largest gains in the experimental group](linguistic-component-79-94-retest.md) — related

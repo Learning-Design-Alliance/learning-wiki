@@ -56,3 +56,4 @@ Quasi-experimental comparison of 222 students in introductory physics courses ta
 - [Students taught with the Science Learning Cycle method show better conceptual understanding gains in physics than students taught with conventional methods](slc-better-conceptual-understanding-gain.md) — related
 - [Ninth-grade students taught Newton's Laws through project-based learning game techniques scored significantly higher on a concept achievement post-test than students taught by traditional methods](pbl-game-techniques-higher-physics-posttest.md) — related
 - [Traditional teaching produced normalized gains of only 7–14% while the P&E method with new study materials reached 45%](traditional-low-gain-versus-pe-45-percent.md) — related
+- [The non-MLM group using TIP and JiTT pedagogies had an average normalized gain below the national average for courses not utilizing active engagement pedagogies](non-mlm-group-below-national-average-gain.md) — related

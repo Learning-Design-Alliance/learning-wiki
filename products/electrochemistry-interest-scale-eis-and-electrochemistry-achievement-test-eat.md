@@ -20,6 +20,7 @@ A validated 30-item Likert interest scale and 25-item achievement test used to m
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Electrochemistry Achievement Test (EAT)**: The Electrochemistry Achievement Test (EAT) is a 50-item multiple-choice instrument used to measure retention in this study. The article states "The EAT contain fift y (50) multiple choice questions that will test the studen ts’ retention", with items drawn from WAEC, NECO and UTME past question papers, covering electrolysis and electrochemical cells, structured on all six levels of Bloom's Taxonomy, with one mark per correct answer. (Akpoghol et al. (2016))
 
 ### Claims
 
@@ -28,3 +29,4 @@ A validated 30-item Likert interest scale and 25-item achievement test used to m
 
 ## Key Sources
 - Adigun Folaranmi A; Grace A. Ajagun; Madu Samuel (2019). Effect of Round-Robin Instructional Strategy on Senior Secondary School Students' Interest in Electrochemistry in Federal Capital Territory Abuja Nigeria. Journal of Education and e-Learning Research, 6(3): 129-134. https://doi.org/10.20448/journal.509.2019.63.129.134
+- Akpoghol, T.V, Ezeudu, F.O, Adzape, J.N, & Otor, E.E. (2016). Relative Effect of Lecture Method Supplemented with Music and Computer Animation on Senior Secondary School Students’ Retention in Electrochemistry. Journal of Education and Practice, 7(4). https://eric.ed.gov/?id=EJ1095593

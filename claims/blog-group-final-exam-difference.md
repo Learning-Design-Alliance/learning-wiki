@@ -47,3 +47,4 @@ Independent-samples t-test (Table 3) on final reading exam marks: experimental g
 ## Related Claims
 - [Portfolio-based instruction improves EFL learners' reading comprehension scores relative to non-portfolio instruction](portfolio-assessment-improves-efl-reading-comprehension.md) — related
 - [The article reports a statistically significant post-test difference between the blog group and the control group in reading skills, though its printed means show the control group scoring higher](blog-independent-reading-posttest-group-difference.md) — possibly the same claim (merge candidate)
+- [No significant difference between groups on final reading comprehension test](sct-tblt-final-test-no-difference.md) — reports the opposite

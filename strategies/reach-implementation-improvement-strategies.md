@@ -46,6 +46,7 @@ The report draws implementation recommendations from its process evaluation: sch
 - [Implement Learning Genie with initial training on observation-based assessment and ongoing technical assistance](learning-genie-implementation-training-strategy.md)
 - [Provide initial training plus multi-year in-classroom coaching when implementing Carnegie Learning Algebra I](carnegie-learning-initial-training-plus-coaching.md)
 - [Clarify the role of targeted TA-led interventions within a broader teacher-led literacy strategy](clarify-targeted-intervention-within-teacher-led-strategy.md)
+- [Use trained TA-led small-group support sessions with worked and faded worked examples](ta-led-worked-example-support-sessions-strategy.md)
 
 ## Examples
 -

@@ -71,3 +71,4 @@ The same moderated regression analysis reports a non-significant overall interac
 - [Reflexivity, perspective taking, analogical reasoning, and tolerance of ambiguity and uncertainty each positively relate to knowledge integration in inter- and transdisciplinary work](four-competencies-predict-knowledge-integration.md) — a broader claim this one bears on
 - [Experts do not exhibit higher levels of reflexivity than novices, consistent with reflexivity as a meta-cognitive competence](experts-not-higher-reflexivity-than-novices.md) — related
 - [Uncertainty in challenging tasks was linked to meta-reflexive deliberation about improving one's own learning](task-uncertainty-triggers-meta-reflexivity.md) — related
+- [Lack of tolerance of ambiguity impedes textual and situational context analysis](ambiguity-intolerance-impedes-context-analysis.md) — related

@@ -51,3 +51,4 @@ ANCOVA of post-test scores for 84 students in two intact classes (46 STAD, 38 IC
 - [Retention of physics content: the Results section reports a significant STAD-versus-ICI difference at p = 0.053, while the Discussion reports no significant difference in retention](stad-ici-retention-mixed-reporting.md) — related
 - [Physics students taught with the Inquiry Training model based on JITT show higher problem-solving ability than students taught with cooperative learning in General Physics II](it-jitt-higher-problem-solving-than-cooperative.md) — related
 - [The STAD group showed a larger descriptive gain in problem solving ability than the PBL group.](stad-larger-descriptive-gain-problem-solving.md) — related
+- [Computer-assisted Jigsaw II cooperative learning produced significantly higher physics post-test achievement than individualized computer instruction.](caj2-achievement-gains-over-ici.md) — related

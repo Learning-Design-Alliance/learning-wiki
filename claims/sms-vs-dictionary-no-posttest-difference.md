@@ -56,3 +56,4 @@ Independent t-test on immediate post-test scores of 45 non-English-major freshme
 - [First-year EFL students who did vocabulary exercises via SMS outperformed those doing paper-based exercises on a post-test](sms-exercises-outperform-paper-based-vocabulary.md) — related
 - [After one year, Access Program students significantly outperform public school students who had also qualified for the program on a diagnostic English test](access-program-outperforms-public-schools-elt-posttest.md) — related
 - [Using the Learner's terminological thesaurus and dictionary yields a statistically significant pooled advantage over regular instruction in lexical-skill outcomes](thesaurus-dictionary-pooled-advantage-lexical-competence.md) — related
+- [Nasiri and Shokrpour (2012) found non-intensive English course students significantly outperformed intensive course students](nasiri-shokrpour-non-intensive-outperformed-intensive.md) — related

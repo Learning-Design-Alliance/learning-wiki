@@ -68,3 +68,4 @@ Mixed effects model with intervention as fixed factor and Learner and Assignment
 - [Giving students a choice between self-focused and other-focused utility-value assignments produced higher course grades than fixing the assignment type](uv-choice-structure-higher-grades.md) — related
 - [The overall intervention contrast comparing all UV conditions to control was not significant, and no individual UV condition significantly outperformed control in the dummy-coded model](uv-no-overall-effect-versus-control.md) — related
 - [Choice-based personalization did not affect final exam performance in the MOOC](choice-personalization-no-final-exam-effect.md) — related
+- [Motivational prompts did not significantly affect self-reported effort or importance on the Student Opinion Scale](motivational-prompts-no-effect-self-reported-effort-importance.md) — related

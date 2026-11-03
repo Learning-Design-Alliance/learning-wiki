@@ -68,6 +68,7 @@ Paragraph Shrinking operationalizes summarization as a generative learning strat
 - [Arrange PALS tutor training through AIR by specifying training type, grade level, group size, and location](pals-air-tutoring-training-request-strategy.md)
 - [Teach the RAP paraphrasing strategy with reading strategy charts as the portfolio entry routine](rap-strategy-chart-portfolio-routine.md)
 - [Pair and group writing exercises: categorizing items, completing outline skeletons, and discussing paragraphs with a partner](pair-group-writing-exercise-strategy.md)
+- [Alternate collaborative and private speech tasks across paragraphs in a reading lesson](alternating-collaboration-private-speech-tasks.md)
 
 ## Examples
 - **PALS Reading (Vanderbilt Kennedy Center / IRIS Center)** — Paragraph Shrinking is Activity 2 in the PALS sequence, following partner reading and preceding prediction relay; implementation materials are distributed through the [IRIS Center](https://iris.peabody.vanderbilt.edu) and [Kansas IRIS](https://kc.vanderbilt.edu/pals/).

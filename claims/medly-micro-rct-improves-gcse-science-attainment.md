@@ -50,3 +50,4 @@ Multisite individually randomised controlled trial in English secondary schools;
 - [Positive subject-specific effects of Medly in Physics, Chemistry and Biology, with no evidence the effect differed across subjects](medly-positive-effects-all-three-science-subjects.md) — a narrower finding that bears on this claim
 - [No clear evidence that Medly's effect differed by Pupil Premium disadvantage status](medly-no-differential-impact-pupil-premium.md) — related
 - [Progressively larger treatment estimates among intervention students crossing engagement thresholds are hypothesis-generating only](medly-engagement-threshold-estimates-hypothesis-generating.md) — related
+- [Research-based curriculum materials with curriculum-based PD produce a modest positive effect on high school science achievement relative to business-as-usual](inquiry-approach-modest-positive-achievement-effect.md) — related

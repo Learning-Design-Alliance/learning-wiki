@@ -48,6 +48,7 @@ A set of forward-looking recommendations the article derives from its gap analys
 - [Five recommendations for integrating Improvement Science with SEERNet](five-recommendations-seernet-improvement-integration.md)
 - [Conduct more controlled group studies of adolescent word-reading approaches to identify differentially effective methods](more-controlled-studies-adolescent-word-reading-approaches.md)
 - [Research recommendations: broaden TCSM populations, subjects, and target behaviors, and increase the self-determination element in self-monitoring](tcsm-expand-range-increase-self-recommendations.md)
+- [Replicate SWPBIS studies and conduct experimental research when applying SWPBIS in other countries](swpbis-replication-other-countries-strategy.md)
 
 ## Examples
 -

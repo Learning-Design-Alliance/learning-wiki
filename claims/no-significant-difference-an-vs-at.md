@@ -49,3 +49,4 @@ Scheffe post-hoc analysis of the same 120-student pretest-posttest experiment co
 - [Animation-with-text CAI did not significantly outperform lecture method on solid geometry achievement](at-cai-not-significant-vs-lecture.md) — related
 - [Experimental and control groups were statistically equivalent on solid geometry achievement before treatment](pretest-equivalence-solid-geometry-groups.md) — related
 - [Video with concurrent narration and on-screen text yields higher immediate macrostructure comprehension than text alone or narration with text](video-narration-text-improves-immediate-macs-comprehension.md) — related
+- [Students exposed to the GT mode obtained significantly higher mean posttest scores than students exposed to the GTN mode.](gt-mode-outperforms-gtn-mode.md) — related

@@ -35,7 +35,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (36 for, 12 mixed, 3 against) · 55 studies (27 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 11 of 55 report an effect size · 41 claims rest on one study
+> **Evidence** · 53 claims (38 for, 12 mixed, 3 against) · 56 studies (28 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 12 of 56 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,8 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Explicit definitions drove the largest definition-recall gains: definition-trained groups recalled 62–63% of meanings (ds > 2) versus 36% for strategy-trained students (d = 0.95)](../claims/explicit-definitions-largest-definition-recall-gains.md) [+W] — attached 2026-11-02 from Craigo L. et al. (2017), which proposed "Teach community college students a repertoire of independent word-learning strategies together with elaborated definitions, using instructor modeling, guided practice, and feedback"; tests this page's relationship.
 - [No treatment effects transferred to independent reading: treatment groups performed no better than controls on the transfer passage](../claims/no-transfer-to-independent-reading.md) [~W] — attached 2026-11-02 from Craigo L. et al. (2017), which proposed "Teach community college students a repertoire of independent word-learning strategies together with elaborated definitions, using instructor modeling, guided practice, and feedback"; tests this page's relationship.
 - [Textbook-based morphosyntactic teaching was a sound basis for understanding and reusing key compound nouns, with no clear added value from the cognitive perspective on that measure](../claims/textbook-teaching-sound-basis-key-compounds.md) [~M] — attached 2026-11-03 from Fries (2017), which proposed "Teach compound nouns through a cognitive-semantic approach as a complement to, not a replacement for, morphosyntactic instruction".
+- [Academic vocabulary instruction significantly improves word-level vocabulary knowledge in linguistically diverse middle school students](../claims/alias-academic-vocabulary-improves-word-level-vocabulary.md) [+W] — attached 2026-11-03 from Lesaux et al. (2012), which proposed "Effective vocabulary instruction must be text-based, focus on high-utility academic words, build word-learning ability, and integrate multiple literacy modes"; tests this page's relationship.
+- [Academic vocabulary instruction improves morphological awareness skills](../claims/alias-academic-vocabulary-improves-morphological-awareness.md) [+W] — attached 2026-11-03 from Lesaux et al. (2012), which proposed "Effective vocabulary instruction must be text-based, focus on high-utility academic words, build word-learning ability, and integrate multiple literacy modes".
 
 ## Objective and learner-valued goal
 

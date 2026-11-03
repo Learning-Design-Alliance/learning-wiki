@@ -54,3 +54,4 @@ Single-factor repeated-measures ANOVA for the 32 experimental-group students; me
 - [Both Blended and Behavioral professional development training significantly increased teachers' knowledge, self-efficacy, and self-reported use of instructional methods compared with a no-training control](blended-and-behavioral-pd-increase-teacher-knowledge-efficacy-use.md) — a broader claim this one bears on
 - [The experimental group showed a significant pretest-to-posttest gain in writing scores](gda-pretest-posttest-gain-experimental.md) — related
 - [In the experimental group, agreement with having no interest in physical education decreased significantly from pretest to posttest.](peer-education-reduced-no-interest-item.md) — related
+- [SRL-based activities reduce lack of self-directedness among teacher candidates](lack-of-self-directedness-decreased.md) — related

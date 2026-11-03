@@ -51,3 +51,4 @@ Simultaneous treatments design with eight fourth-grade struggling readers; postt
 - [Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone](combined-intentional-incidental-greater-gains.md) — related
 - [Intentional vocabulary learning yields higher, faster gains and better retention than incidental learning through reading](intentional-beats-incidental-vocabulary-gains.md) — related
 - [Tutoring sessions were implemented with high procedural fidelity (mean 93.4%)](treatment-fidelity-peer-tutoring-sessions.md) — related
+- [Tutor-read instruction produces greater learning gains than self-read instruction for children learning from a multimedia science lesson](tutor-read-greater-gains-than-self-read.md) — related

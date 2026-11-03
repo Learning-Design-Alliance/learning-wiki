@@ -75,3 +75,6 @@ Qualitative case study of two Japanese adult EFL learners using reflective journ
 - [EFL learners rank speaking as the skill most urgently needing improvement, with pragmatic routines the top speaking sub-skill](efl-learners-rank-speaking-and-pragmatic-routines-top-needs.md) — related
 - [Interviewed students reported reduced anxiety, more active participation, and improved listening and oral skills under CL](cl-interviews-anxiety-participation.md) — related
 - [Speaking proficiency and speaking anxiety were significantly negatively correlated at posttest](speaking-proficiency-anxiety-negative-correlation.md) — related
+- [Students who failed the question-and-answer oral exam had higher FLCA than those who passed](flca-higher-failed-oral-qa.md) — related
+- [Foreign language classroom anxiety correlates negatively with English exam performance among Thai secondary students](flca-negative-correlation-english-performance-thai-secondary.md) — related
+- [Collaboration and private speech fostered a supportive classroom climate](sct-tblt-classroom-climate.md) — related

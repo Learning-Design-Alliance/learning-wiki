@@ -49,6 +49,7 @@ The evaluation recommends that schools implementing targeted, TA-delivered inter
 
 - [Allow lead-in time for schools, provide ongoing TA support beyond initial training, and segment comprehension material into shorter, more varied pieces.](reach-implementation-improvement-strategies.md)
 - [Pilot multi-component interventions before trial and choose outcome tests that capture the targeted skill](pilot-multicomponent-interventions-and-align-outcome-test.md)
+- [Use trained TA-led small-group support sessions with worked and faded worked examples](ta-led-worked-example-support-sessions-strategy.md)
 
 ## Examples
 -
