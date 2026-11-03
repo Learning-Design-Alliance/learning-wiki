@@ -108,6 +108,7 @@ Cooperative learning reliably improves achievement when group goals and individu
 
 **Kagan Structures** — A library of turn-taking formats (e.g., RoundRobin, Numbered Heads Together) that enforce equal participation and individual accountability in any subject.
 - [Heterogeneous team grouping with peer tutoring within CBI lessons](../strategies/heterogeneous-team-grouping-peer-tutoring-cbi.md)
+- [Use STAD-style individual progress scores with translated group scores as grade incentives in cooperative learning](../strategies/individual-progress-score-group-incentive-strategy.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

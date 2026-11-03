@@ -13,7 +13,7 @@ generated:
 # Reflection Activities
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (3 qualitative), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 4 studies (3 qualitative, 1 causal), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Reflection activities are structured tasks that ask learners to examine what they did, understood, or would change next. They are useful when reflection needs to be made visible and actionable rather than left implicit.
@@ -41,6 +41,7 @@ Reflection activities are structured tasks that ask learners to examine what the
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](../claims/structured-feedback-reflection-cycle-mentoring.md) [+W]
 - [Perturbation or dissatisfaction with current beliefs, stimulated by reflecting on experiences through the NCTM Standards, was an important stimulus for change in a preservice teacher's philosophy](../claims/perturbation-stimulates-philosophy-change.md) [+W]
 - [In interviews with 25 engineering students at one Swedish university, students described GenAI as acceptable when it stimulates reflection and directly copying its outputs as cheating, and one used its fallibility as a prompt to double-check](../claims/genai-ethics-reflection-versus-copying-boundaries.md) [+W]
+- [73.56% of experimental-group students gave positive comments on journal entry practice in reflective compositions](../claims/majority-positive-feedback-journal-entry-practice.md) [+W]
 
 ## Related Elements
 - [Individual Reflection](individual-reflection.md)

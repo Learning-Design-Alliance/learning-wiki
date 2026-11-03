@@ -129,3 +129,4 @@ Open questions for future evidence entries include the durability of effects aft
 - [Most studies combined multiple teaching methods, typically didactic instruction followed by templates, writing practice, and feedback](combined-teaching-methods-sequence-documentation.md) — related
 - [SRSD for POW + TREE instruction increases the total number of persuasive elements written by Grade 5–6 rural students compared with business-as-usual control](srsd-pow-tree-increases-persuasive-elements-rural.md) — a narrower finding that bears on this claim
 - [Flipped learning reduces but does not eradicate writer's block in ESP business students relative to traditional teaching](flipped-learning-reduces-writers-block-not-eradicated.md) — related
+- [SRSD interventions produce large effect sizes on writing outcomes for students with EBD and meet standards for an evidence-based practice](srsd-writing-ebp-ebd.md) — a narrower finding that bears on this claim

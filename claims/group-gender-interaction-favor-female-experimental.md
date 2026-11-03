@@ -54,3 +54,5 @@ Ziad Mohammed Mahmoud Qabaja, Jamal Subhi Ismail Nafi’, Maisa’ Issa Khalil A
 - [There is no significant interaction between teaching method and gender on Igbo language reading comprehension achievement](no-method-gender-interaction-igbo-reading-comprehension.md) — reports the opposite
 - [No statistically significant difference in reading comprehension due to gender alone](no-gender-main-effect-reading-comprehension.md) — related
 - [The “SQP2RS via WTL” strategy produced significantly higher 10th-grade English reading comprehension scores than traditional teaching](sqp2rs-via-wtl-improves-reading-comprehension.md) — related
+- [Gender is not a significant factor in EFL learners' reading comprehension gains from debate instruction](gender-no-effect-reading-comprehension-debate.md) — reports the opposite
+- [Gender is not a significant factor in EFL learners' critical thinking skill gains from debate instruction](gender-no-effect-critical-thinking-debate.md) — reports the opposite

@@ -52,3 +52,4 @@ The review's synthesis of the 22 included studies reports printed effect sizes b
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related
 - [Academic self-management interventions for students with emotional and behavioral disorders show a large overall mean effect size of 1.80 across 22 studies](self-management-ebd-overall-es-1-80.md) — a broader claim this one bears on
 - [Self-monitoring intervention effects rest on four key components: selecting a target behavior, defining it, self-assessment, and self-recording](self-monitoring-four-key-components.md) — related
+- [Self-regulation and teacher-mediated interventions improve mathematics skills for students with EBD](self-regulation-teacher-mediated-math-ebd.md) — related

@@ -55,6 +55,7 @@ The program's professional development model combines an intensive Summer Instit
 - [DCPS recommends regular AP teacher participation in the Advanced Placement Summer Institute to promote quality AP instruction](dcps-recommends-regular-apsi-participation.md)
 - [Two-day teacher professional learning workshop before simulation-supported inquiry implementation](isia-teacher-training-workshop-strategy.md)
 - [Provide professional development workshops for teachers implementing an emergence theory-based curriculum](pdw-for-emergence-curriculum-implementation.md)
+- [Five-day teacher workshop for WRD curriculum framework training](five-day-wrd-teacher-workshop.md)
 
 ## Examples
 -

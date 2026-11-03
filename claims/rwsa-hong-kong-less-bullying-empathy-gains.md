@@ -67,3 +67,4 @@ The review attributes this secondary outcome to the same Hong Kong quasi-experim
 - [After school-wide positive and restorative discipline training, Black-White and LGBTQ-straight differences in perceived bullying converged at one majority-minority school](swprd-converged-bullying-perceptions.md) — related
 - [School shooters are rarely the bullied loners of popular stereotype, and bullying prevention alone will not eliminate shootings](shooters-not-bullied-loners.md) — related
 - [Students with disabilities in SS-SSTP schools report greater willingness to intervene in bullying situations than control students after 2 years](sel-ssstp-willingness-intervene-disabilities.md) — related
+- [Self-esteem, measured by the BASE scale, improved significantly more in the intervention group than controls](steps-for-life-self-esteem-improvement.md) — related

@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 143 claims (107 show a difference, 15 mixed, 21 no difference) · 115 studies (66 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 30 of 115 report an effect size · 140 claims rest on one study
+> **Evidence** · 144 claims (108 show a difference, 15 mixed, 21 no difference) · 116 studies (67 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 30 of 116 report an effect size · 141 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -181,6 +181,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Post-test performance of the v.2 sample was significantly better than the v.1 sample on the whole scale and all subfactors except decision making](../claims/v2-posttest-outperforms-v1-sample.md) [+M] — instruction changes it
 - [The ARDESOS v.2 program significantly improved pre-to-post performance on the PENCRISAL critical thinking test across the whole scale and all factors except decision making](../claims/ardesos-v2-significant-pre-post-gains-except-decision-making.md) [+M] — instruction changes it
 - [Students rate simulation as improving critical thinking, problem solving, reporting and recording, and decision making, with communication and nursing process rated lower](../claims/simulation-improves-self-rated-maternity-skills.md) [+M] — instruction changes it
+- [Learners' interview responses indicated schema construction linking novel problems to worked-out examples](../claims/interview-responses-indicate-schema-construction.md) [+W] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

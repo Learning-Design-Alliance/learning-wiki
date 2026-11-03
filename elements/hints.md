@@ -22,7 +22,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 33 claims (14 for, 18 mixed, 1 against) · 22 studies (9 causal, 5 design, 2 review, 2 associational, 2 qualitative, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 4 of 22 report an effect size · 32 claims rest on one study
+> **Evidence** · 34 claims (14 for, 18 mixed, 2 against) · 23 studies (9 causal, 6 design, 2 review, 2 associational, 2 qualitative, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 4 of 23 report an effect size · 33 claims rest on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.
@@ -83,6 +83,7 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [Most interviewed students did not use NNG 4's tutorial and hint options, and preferred harder game difficulty](../claims/nng4-tutorial-hint-largely-unused-preferred-difficulty.md) [~W]
 - [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](../claims/pa-scaffolding-hints-not-solutions.md) [+W]
 - [On-demand ITS features (worked-out examples, on-demand hints) show significant effects, suggesting student choice enhances learning](../claims/its-on-demand-features-significant-effects.md) [+W]
+- [Students gave positive feedback on DPP and rated guided problem solving highly, but hints, chat, and participation-rate display were rated less useful](../claims/student-feedback-dpp-sceppsys.md) [-W]
 
 ## The evidence by question
 

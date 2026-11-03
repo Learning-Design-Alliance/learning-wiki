@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 228 claims (129 show a difference, 68 mixed, 31 no difference) · 182 studies (66 causal, 34 review, 28 associational, 23 theoretical, 11 quant-synthesis, 11 design, 9 qualitative), `q1`–`q4` · 31 of 182 report an effect size · 211 claims rest on one study
+> **Evidence** · 229 claims (130 show a difference, 68 mixed, 31 no difference) · 183 studies (67 causal, 34 review, 28 associational, 23 theoretical, 11 quant-synthesis, 11 design, 9 qualitative), `q1`–`q4` · 32 of 183 report an effect size · 212 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -276,6 +276,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)](../claims/animations-effective-only-high-prior-knowledge.md) [~M] — an instructional effect differs with it
 - [Student prior achievement, gender, province, and school prior achievement predicted reading post-test scores, while father's education (SES) was not significant](../claims/covariates-predict-reading-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [The social desirability intervention also moderated interest-based studying by prior GPA, lowering it for low-achieving students](../claims/sd-intervention-by-prior-gpa-on-ibs.md) [~M] — an instructional effect differs with it
+- [Pretest scores strongly predict posttest essay performance in the planning experiment](../claims/pretest-covariate-strong-effect-essay-posttest.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

@@ -42,7 +42,8 @@ The article's PBL model was implemented in 1-day periods each week over 15 weeks
 - [Pbl Clinical Model Increased Pharmacy Competencies All Items](../claims/pbl-clinical-model-increased-pharmacy-competencies-all-items.md) [+M]
 
 ## Related Designs
-- 
+
+- [PBL course structure with weekly problem situations, small-group problem-solving plans, and end-of-week solution presentations](pbl-weekly-problem-cycle-small-groups.md)
 
 ## Examples
 -

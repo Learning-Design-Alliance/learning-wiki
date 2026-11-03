@@ -66,6 +66,9 @@ In the evaluated implementation, intervention teachers received 2.5 full days of
 - [Brief professional development plus sequenced curriculum units with videoed implementation to support Pre-K teachers' engineering teaching](sos-pd-and-sequenced-implementation-strategy.md)
 - [Pair new instructional practices with sustained in-class coaching after initial professional development](coaching-support-after-pd-for-fidelity.md)
 - [Provide multi-year professional development with instructional coaching before and during implementation of a comprehensive reading program](fusion-multi-year-pd-with-coaching-strategy.md)
+- [Five-day teacher workshop for WRD curriculum framework training](five-day-wrd-teacher-workshop.md)
+- [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
+- [Three-step tutor training model: initial training, daily debriefing, and individual consultation](three-step-tutor-training-model.md)
 
 ## Examples
 -

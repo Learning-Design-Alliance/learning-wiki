@@ -55,3 +55,4 @@ Post hoc LSD comparison of the nine learning-model-by-ability combination groups
 - [The interaction between learning model and academic ability significantly affects pre-service teachers' critical thinking skills](learning-by-academic-ability-interaction-critical-thinking.md) — related
 - [Pre-service teachers taught with the QASEE model achieve higher critical thinking scores than those taught with RQA or conventional learning](qasee-higher-critical-thinking-than-rqa-conventional.md) — related
 - [There is no interaction between learning approach (SSML vs CL) and mathematical prior knowledge (upper, middle, low) on enhancement of MPSA](no-interaction-approach-mpk-mpsa.md) — related
+- [Instructional model interacts with critical thinking ability in affecting argumentative writing skill](interaction-instruction-critical-thinking-writing.md) — related

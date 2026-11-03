@@ -50,3 +50,4 @@ Dependent-groups t-test on the 60 experimental-group students' CCT-X scores in a
 - [After adjusting for pre-test critical thinking scores, the modeling based program produced no statistically significant difference between experimental and control groups' post-test critical thinking scores](mbsep-ancova-no-between-group-effect.md) — related
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
 - [Existing teaching methods produced no significant change and a descriptive decline in control group critical thinking scores](existing-methods-no-significant-cct-x-change.md) — related
+- [Both groups improved significantly from pre-test to post-test with no pre-existing difference between them](significant-pre-post-gains-both-esp-groups.md) — related

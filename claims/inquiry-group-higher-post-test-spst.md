@@ -53,3 +53,4 @@ Mann-Whitney U test comparing post-test SPST scores of the experimental group (m
 - [ADI-based laboratory instruction improves academic achievement in geometrical optics more than traditional laboratory instruction for pre-service science teachers](adi-lab-instruction-improves-optics-achievement.md) — related
 - [SPST pre-test and post-test scores show a moderate positive correlation](spst-pretest-posttest-correlation.md) — related
 - [Science lessons built on students' meaningful pre-inquiries produce higher total science process skills than traditional textbook lessons in 6th-grade classes](pre-inquiry-lessons-improve-science-process-skills.md) — possibly the same claim (merge candidate)
+- [Scientific inquiry learning model based on conceptual change improves science process skills better than conventional learning](scientific-inquiry-conceptual-change-improves-science-process-skills.md) — related

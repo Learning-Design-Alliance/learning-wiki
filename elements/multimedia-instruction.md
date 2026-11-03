@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 81 claims (49 for, 29 mixed, 3 against) · 69 studies (47 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 16 of 69 report an effect size · 76 claims rest on one study
+> **Evidence** · 84 claims (51 for, 30 mixed, 3 against) · 71 studies (49 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 16 of 71 report an effect size · 79 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -117,6 +117,9 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [The 5E instructional model enriched with animations produced higher seventh-grade achievement on the light unit than the 5E model enriched with cooperative learning and the 5E model alone](../claims/5e-animation-enrichment-beats-cooperative-and-control-on-achievement.md) [+W] — attached 2026-11-02 from İkramettin Daşdemir (2016), which proposed "Animation-enriched 5E implementation for the seventh-grade light unit"; tests this page's relationship.
 - [Both the animation-enriched and cooperative-learning-enriched 5E models improved seventh-graders' scientific attitudes relative to the 5E model alone, with no difference between the two enriched groups](../claims/5e-enrichments-improve-scientific-attitudes-over-control.md) [~W] — attached 2026-11-02 from İkramettin Daşdemir (2016), which proposed "Animation-enriched 5E implementation for the seventh-grade light unit"; tests this page's relationship.
 - [Animation-supported 5E instruction produced significantly higher post-test grammar success than the current teaching programme in 7th grade Turkish](../claims/animation-5e-higher-posttest-grammar-success.md) [+W] — attached 2026-11-02 from Mehmet Fatih Özcan (2017), which proposed "Flash-based computer-assisted instruction (CAI) material with animations for indicative and subjunctive moods"; tests this page's relationship.
+- [Perceived difficulty of physics showed the greatest pre-post shift in the interactive multimedia group](../claims/perceived-difficulty-greatest-shift-esa.md) [+W]
+- [Embedded questions in video as synchronized subtitles do not affect SFL audiovisual comprehension test performance](../claims/embedded-subtitled-questions-no-test-performance-effect.md) [~W]
+- [The interactive multimedia group (ESA) differed significantly from both other groups on post-test physics popularity](../claims/esa-significant-difference-posttest-popularity.md) [+W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

@@ -52,3 +52,4 @@ The authors' comparison of posttest and maintenance effect sizes in the rural RC
 - [SRSD for POW + TREE instruction increases the total number of persuasive elements written by Grade 5–6 rural students compared with business-as-usual control](srsd-pow-tree-increases-persuasive-elements-rural.md) — a narrower finding that bears on this claim
 - [SRSD intervention effects on total elements vary by writing ability, favoring nonstruggling over struggling writers at maintenance](srsd-effects-vary-by-writing-ability.md) — related
 - [The largest SRSD effects in rural Grade 5–6 classrooms are for writing reasons and explanations, with smaller effects for topic and ending sentences](srsd-largest-effects-reasons-explanations.md) — related
+- [SRSD interventions produce large effect sizes on writing outcomes for students with EBD and meet standards for an evidence-based practice](srsd-writing-ebp-ebd.md) — related

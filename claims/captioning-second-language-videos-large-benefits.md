@@ -59,3 +59,5 @@ Synthesis of the Montero Perez et al. (2013) meta-analysis, which the authors ra
 - [Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses](glossing-medium-large-effects-l2-vocabulary.md) — related
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
 - [Students perceived AI as helping their text comprehension in Greek language class](students-perceived-ai-text-comprehension-help.md) — related
+- [Providing captions of any type improved general listening comprehension of EFL students compared with no captions](captions-any-type-effective-listening.md) — a narrower finding that bears on this claim
+- [Full captions significantly improved EFL learners' general listening comprehension from pre-test to post-test](full-captions-improve-listening-comprehension.md) — a narrower finding that bears on this claim

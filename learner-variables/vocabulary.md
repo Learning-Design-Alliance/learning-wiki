@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 191 claims (139 show a difference, 26 mixed, 26 no difference) · 128 studies (70 causal, 28 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 128 report an effect size · 188 claims rest on one study
+> **Evidence** · 193 claims (141 show a difference, 26 mixed, 26 no difference) · 130 studies (72 causal, 28 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 130 report an effect size · 190 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -232,6 +232,8 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Gains in receptive and productive vocabulary did not differ significantly between the paper-flashcard-with-VLS group and the digital-flashcard group](../claims/no-significant-difference-pf-vls-vs-df.md) [-M] — instruction changes it
 - [Input Enhancement strategy improved the vocabulary knowledge of Iranian EFL learners over a three-month treatment](../claims/input-enhancement-improves-efl-vocabulary-knowledge.md) [+M] — instruction changes it
 - [WhatsApp-delivered vocabulary instruction produced significantly higher post-test vocabulary scores than traditional classroom instruction among Iranian junior high school EFL learners](../claims/whatsapp-vocabulary-instruction-outperformed-traditional-classroom-instruction.md) [+M] — instruction changes it
+- [First-year EFL students who did vocabulary exercises via SMS outperformed those doing paper-based exercises on a post-test](../claims/sms-exercises-outperform-paper-based-vocabulary.md) [+M] — instruction changes it
+- [Journal entry practice enhancement activities outperform general vocabulary exercises for learning ESP technical vocabulary](../claims/journal-entry-practice-outperforms-vocabulary-exercises.md) [+W] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

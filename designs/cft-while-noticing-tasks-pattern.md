@@ -43,6 +43,10 @@ At the while-noticing stage, students work in groups or pairs on two interrelate
 - [Cft Three Stage Noticing Framework](../theories/cft-three-stage-noticing-framework.md) [+M]
 - [Review reports that asking students to notice particular errors decreased errors in a subsequent draft without reducing overall writing quality (Chandler)](../claims/noticing-errors-decreases-errors-preserves-quality.md) [+W]
 
+## Related Designs
+
+- [Progressive exchange model: three-stage telecollaborative task sequence](progressive-exchange-model-task-sequence.md)
+
 ## Related Patterns
 - 
 

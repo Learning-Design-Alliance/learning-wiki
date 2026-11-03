@@ -81,3 +81,4 @@ Post-hoc comparison following the ANCOVA on post-test AT scores in the quasi-exp
 - [Differentiated instruction strategies produced a statistically significant post-test difference in overall English achievement favoring the experimental group over the one-size-fits-all control group](di-significant-posttest-difference-jordan-grade8.md) — related
 - [Groups were equivalent at pre-test but differed significantly at post-test](video-podcast-pretest-equivalent-posttest-difference.md) — related
 - [Bonferroni-corrected posttest means favored the blended group (16.45 vs 12.90) after controlling for pretest performance](bonferroni-corrected-means-blended-vs-traditional.md) — a narrower finding that bears on this claim
+- [CBPSI significantly improved problem solving performance of Grade 10 learners from pre-test to post-test](cbpsi-improves-problem-solving-performance-grade-10.md) — related

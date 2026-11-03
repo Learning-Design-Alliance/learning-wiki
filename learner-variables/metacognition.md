@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 170 claims (109 show a difference, 37 mixed, 24 no difference) · 121 studies (54 causal, 18 associational, 16 review, 11 theoretical, 10 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 121 report an effect size · 169 claims rest on one study
+> **Evidence** · 171 claims (109 show a difference, 37 mixed, 25 no difference) · 122 studies (55 causal, 18 associational, 16 review, 11 theoretical, 10 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 122 report an effect size · 170 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -212,6 +212,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [The Self-Access CAPT Group reported the highest frequency of self-monitoring of language learning but more difficulties and fewer strategies than the Collaborative Group](../claims/self-access-group-highest-self-monitoring.md) [~M] — instruction changes it
 - [Experimental-group learners show significantly higher awareness than control-group learners on both the potency and the evaluative dimensions in pairwise comparisons](../claims/pairwise-dimension-differences-favor-semantic-mapping.md) [+W] — instruction changes it
 - [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](../claims/metacognitive-training-increases-writing-self-monitoring.md) [+W] — instruction changes it
+- [Quiz-and-reflection and extended-quiz conditions show no significant difference in self-reported metacognitive self-regulation](../claims/quiz-reflection-vs-extended-quiz-self-regulation-no-difference.md) [-M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

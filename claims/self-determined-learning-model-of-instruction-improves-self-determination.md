@@ -76,3 +76,6 @@ A further measurement caveat: self-determination is typically assessed via self-
 - [Choice in retention programs is linked to retention gains, but autonomy is rarely a tested variable](choice-autonomy-rarely-tested-in-retention-programs.md) — related
 - [Motivational apprenticeship progresses through three phases from expert-directed to learner-directed control](motivational-apprenticeship-three-phases.md) — related
 - [Students reported that coaching enhanced their self-determination in five ways, including autonomy, self-awareness, self-esteem, goal effectiveness, and realistic goal setting](coaching-enhances-self-determination-five-ways.md) — related
+- [The family-involved SDLMI significantly improves academic engagement of middle school students with disabilities who exhibit problem behavior](family-involved-sdlmi-improves-academic-engagement.md) — related
+- [The family-involved SDLMI significantly improves goal attainment in Korean language of middle school students with disabilities who exhibit problem behavior](family-involved-sdlmi-improves-goal-attainment.md) — a narrower finding that bears on this claim
+- [Teachers and families rate the family-involved SDLMI as highly acceptable and socially valid](family-involved-sdlmi-social-validity-high-ratings.md) — related

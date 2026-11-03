@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 57 claims (26 for, 27 mixed, 4 against) · 48 studies (15 causal, 9 review, 7 quant-synthesis, 5 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 6 of 48 report an effect size · 56 claims rest on one study
+> **Evidence** · 62 claims (30 for, 27 mixed, 5 against) · 51 studies (18 causal, 9 review, 7 quant-synthesis, 5 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 6 of 51 report an effect size · 61 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -93,6 +93,11 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [OLC students demonstrated digital literacy skills more frequently than face-to-face students, especially locating art resources online](../claims/olc-improved-digital-literacy-practice.md) [+W] — attached 2026-11-02 from Lovin et al. (2014), which proposed "Online-Learning Component (OLC) with peer discussion groups".
 - [Mobile-3G classroom use produced off-task use, network difficulties and classroom-design problems, and network troubles were linked to reduced student liking](../claims/mobile-classroom-issues-off-task-network-design.md) [-W]
 - [Blog-assisted life education instruction significantly enhances fifth-grade elementary students' life education values](../claims/blog-assisted-life-education-enhances-life-values.md) [+W]
+- [Ninth grade Thai EFL students' English reading scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group](../claims/cai-tls-improves-english-reading-thai-efl.md) [+W] — attached 2026-11-03 from Nattapong Jinajai et al. (2015), which proposed "Computer-assisted instruction (CAI) as a delivery medium for TLS-based English instruction"; tests this page's relationship.
+- [Ninth grade Thai EFL students' English creative writing scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group](../claims/cai-tls-improves-english-writing-thai-efl.md) [+W] — attached 2026-11-03 from Nattapong Jinajai et al. (2015), which proposed "Computer-assisted instruction (CAI) as a delivery medium for TLS-based English instruction"; tests this page's relationship.
+- [CAI based on the TLS method significantly increases ninth grade Thai EFL students' interest in learning English](../claims/cai-tls-increases-interest-learning-english.md) [+W] — attached 2026-11-03 from Nattapong Jinajai et al. (2015), which proposed "Computer-assisted instruction (CAI) as a delivery medium for TLS-based English instruction"; tests this page's relationship.
+- [Mean student scores in Khanya wave 4 and 5 schools showed no statistically significant change from before to after the computer intervention](../claims/khanya-intervention-no-significant-change-mean-student-scores.md) [-W]
+- [Teamwork communication pedagogy through electronic networking sites increased student interest in learning](../claims/teamwork-electronic-networking-increased-interest.md) [+W]
 
 ## Related Elements
 

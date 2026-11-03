@@ -49,6 +49,7 @@ First year experience courses are courses for first-year students in 2-year and 
 ## Examples
 
 - [Cover campus resources, time management, study skills, career planning, cultural diversity, and student development in first year courses](../strategies/fye-core-content-topics-strategy.md)
+- [Use a Freshman Interest Group (FIG) model learning community as a resource-parsimonious retention intervention](../strategies/fig-model-learning-community-undecided.md)
 
 ## Key Sources
 - First Year Experience Courses. (2016). What Works Clearinghouse Intervention Report. https://ies.ed.gov/ncee/wwc/InterventionReport/662

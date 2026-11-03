@@ -48,3 +48,4 @@ Independent t-test on the 5-item open-ended questionnaire: experimental mean 8.3
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related
 - [Ninth-grade students taught Newton's Laws through project-based learning game techniques scored significantly higher on a concept achievement post-test than students taught by traditional methods](pbl-game-techniques-higher-physics-posttest.md) — related
 - [Experimental-group post-test descriptive scores on conceptual understanding exceeded control-group scores](bbl-polyhedron-descriptive-means-higher.md) — related
+- [Experimental group mean scientific literacy score of 21.3967 versus control group mean of 11.8943](experimental-mean-21-4-versus-control-11-9.md) — related

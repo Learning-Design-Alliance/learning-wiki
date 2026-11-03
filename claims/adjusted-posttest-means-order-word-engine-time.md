@@ -48,3 +48,4 @@ ANCOVA adjusted posttest means from the same 12-class quasi-experiment, reported
 - [Classes assigned weekly Word Engine online flashcard use gained significantly more on the VST than an extensive-reading control class over one academic year, in a quasi-experiment with acknowledged selection and time-on-task confounds](word-engine-vst-gains-ancova.md) — a broader claim this one bears on
 - [Raw VST gain scores did not support that two hours of weekly Word Engine use produced greater gains than one hour](raw-gains-no-support-two-hours-word-engine.md) — reports the opposite
 - [Number of correctly retrieved and acquired Word Engine items each correlated moderately with VST score gains](word-engine-use-correlates-vst-gains.md) — related
+- [Longer time spent in the Parole software correlates with more words learned and retained](parole-study-duration-correlates-with-vocabulary-outcomes.md) — related

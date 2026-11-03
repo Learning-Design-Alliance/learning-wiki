@@ -50,3 +50,4 @@ Independent-samples t-test on the post-application of the 12-item Writing Anxiet
 - [Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university](wikis-improve-business-writing-skills-efl.md) — related
 - [The process writing approach significantly decreased writing anxiety relative to traditional instruction](process-writing-decreases-writing-anxiety.md) — related
 - [Flipped learning reduces but does not eradicate writer's block in ESP business students relative to traditional teaching](flipped-learning-reduces-writers-block-not-eradicated.md) — related
+- [Wiki-based writing environments increase EFL writing achievement in content compared with traditional pen-and-paper process writing.](wiki-based-writing-increases-efl-content-achievement.md) — related

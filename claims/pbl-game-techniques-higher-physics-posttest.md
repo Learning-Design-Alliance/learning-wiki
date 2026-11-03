@@ -73,3 +73,5 @@ Quasi-experimental comparison of 21 experimental and 13 control students after a
 - [Concept attainment model instruction yields higher adjusted physics concept understanding scores than traditional method](cam-superior-physics-concept-understanding.md) — related
 - [Secondary students taught physics with experiments achieved higher final-test scores than students taught by traditional method](experiment-method-higher-physics-achievement-viscosity.md) — related
 - [Kindergarten students taught English vocabulary through authentic childhood games achieve significantly higher post-test scores than students taught through traditional methods](authentic-childhood-games-improve-english-vocabulary-success.md) — related
+- [The proposed technique of active means and active learning methods increases the level of the motivational component of learners' cognitive activity in physics teaching](active-technique-increases-motivational-component-physics.md) — related
+- [Project scores were comparable between conditions except the fifth project, where the control group scored higher](project-scores-fifth-project-control-higher.md) — related

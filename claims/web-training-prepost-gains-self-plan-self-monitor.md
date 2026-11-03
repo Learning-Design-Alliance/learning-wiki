@@ -57,3 +57,4 @@ Pretest-posttest quasi-experiment with 53 Taiwanese college students (experiment
 - [The experimental group's speaking scores improved significantly from pretest to posttest after metadiscourse instruction](experimental-group-speaking-prepost-gain.md) — related
 - [Learning strategies instruction increases students' metacognitive knowledge](strategy-instruction-increases-metacognitive-knowledge.md) — related
 - [Participants' self-reported frequency of general reading strategy use increased significantly after Web-based training](strategy-use-frequency-increased-after-web-training.md) — related
+- [Diary keeping significantly increases metacognition strategy use of pre-service science teachers](diaries-increase-metacognition-strategies.md) — related

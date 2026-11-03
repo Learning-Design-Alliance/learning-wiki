@@ -66,6 +66,7 @@ Homework's effect on achievement is small overall and depends far more on qualit
 - [Use interactive homework assignments that require students to discuss class learning with someone at home](interactive-homework-home-discussion-assignments.md)
 - [Teachers guide parents on homework support types and hold family meetings on learning goals](teacher-guidance-family-meetings-homework-support.md)
 - [Add explicit parental interview, data sharing, and weekly progress sharing steps to existing field-based assignments](explicit-parent-interview-data-sharing-steps.md)
+- [Involve families in the SDLMI through homework assistance, activity sheet conversations, and CICO cards](family-involvement-homework-activity-sheets-cico.md)
 
 ## Examples
 - **TIPS (Teachers Involve Parents in Schoolwork)**, Johns Hopkins Center on School, Family, and Community Partnerships — weekly interactive homework assignments with scripted family-participation prompts; field studies showed improved homework attitudes and completion [https://www.csos.jhu.edu](https://www.csos.jhu.edu)

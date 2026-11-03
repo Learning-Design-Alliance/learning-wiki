@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 297 claims (153 for, 127 mixed, 17 against) · 178 studies (75 review, 39 quant-synthesis, 38 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 39 of 178 report an effect size · 292 claims rest on one study
+> **Evidence** · 298 claims (154 for, 127 mixed, 17 against) · 179 studies (75 review, 39 causal, 39 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 39 of 179 report an effect size · 293 claims rest on one study
 
 ## Conditional relationship
 
@@ -348,6 +348,7 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [After simulation-based instruction, prospective teachers gave more flexible answers accounting for variability and revised incorrect probability ideas](../claims/simulation-post-variability-answers.md) [+W] — attached 2026-11-01 from Timur Koparan (2015), which proposed "Use simulation-based environments to teach experimental probability because visualizing variability improves inference skills".
 - [Seventh-graders taught the 'Systems of the Human Body' unit with the simulation method scored significantly higher on the post-test than peers taught by traditional lecture](../claims/simulation-method-higher-posttest-human-body-unit.md) [+W] — attached 2026-11-01 from Teke et al. (2015), which proposed "Use simulations to make science topics concrete and observable when live demonstration is impossible"; tests this page's relationship.
 - [Secondary students taught chemistry with computer simulations achieved higher mean scores than students taught with lecture method](../claims/computer-simulation-beats-lecture-chemistry-achievement.md) [+W] — attached 2026-11-02 from Okwuduba Emmanuel Nkemakolam; Offiah Francisca Chinelo; Madichie Chinyere Jane (2018), which proposed "Use computer simulations to teach hazardous chemistry concepts that cannot be safely practiced hands-on"; tests this page's relationship.
+- [Second Life speaking activities increase EFL learners' speaking achievement](../claims/sl-speaking-activities-increase-achievement.md) [+W] — attached 2026-11-03 from Guzel et al. (2016), which proposed "Use virtual worlds like Second Life as a complement to traditional speaking instruction"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

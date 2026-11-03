@@ -55,3 +55,5 @@ Pretest-posttest quasi-experimental control group study; 50 students taught by d
 - [The null hypothesis of no attitude difference between PI-taught and conventionally taught students was rejected](pi-null-hypothesis-rejected-attitude.md) — related
 - [Concept mapping teaching produced significantly higher biology achievement than lecture method among Nigerian Senior Secondary II students](concept-mapping-beats-lecture-biology-achievement.md) — related
 - [Students taught the mole concept with mastery learning instructional strategy performed better (mean score 15.50) than controls taught conventionally (mean score 7.04) in a quasi-experimental Nigerian study.](mastery-learning-better-mole-concept-achievement-nigeria.md) — related
+- [Both demonstration and lecture methods were effective in improving academic performance in economics concepts](both-methods-effective-economics-concepts.md) — related
+- [Demonstration method was more effective than lecture method in learning economics concepts among secondary school students in Borno State](demonstration-more-effective-than-lecture-economics-borno.md) — related

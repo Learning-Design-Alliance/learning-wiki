@@ -47,6 +47,7 @@ The study's principal recommendation is professional development: "Conducting wo
 ## Related Strategies
 
 - [Have pre-service teachers plan classroom activities with mind maps and model their use with students](mind-map-planning-teacher-education-strategy.md)
+- [Apply mind mapping in mathematics teaching through overview, preview, inview, and review stages](mind-mapping-overview-preview-inview-review.md)
 
 ## Examples
 -

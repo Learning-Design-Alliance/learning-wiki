@@ -53,7 +53,8 @@ The article's implementation strategy organizes ABSL teaching as a weekly plan o
 - [Students' written opinions indicated they enjoyed concept-cartoon lessons, attended more, and came to believe they could understand mathematics](../claims/student-opinions-concept-cartoon-lessons.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use Toulmin-based argumentation activities (developing arguments, competing theories, predict-observe-explain, expression tables, concept maps) with small-group techniques to teach science units.](toulmin-argumentation-activity-strategy.md)
 
 ## Examples
 -

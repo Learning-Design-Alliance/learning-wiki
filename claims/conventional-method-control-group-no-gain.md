@@ -108,3 +108,6 @@ Quasi-experimental control condition (n = 42); Table 2 reports pre-test mean 9.4
 - [Seventh-grade students taught science with an educational modules strategy significantly outperform conventionally taught students on the direct (immediate) achievement test](modules-strategy-superior-direct-achievement-science.md) — related
 - [Outdoor school ground lessons produce significantly higher post-test science process skills than conventional classroom teaching in Year Five students](outdoor-lessons-improve-science-process-skills.md) — related
 - [Traditional teaching also produced a statistically significant pre-to-post gain in scientific thinking in the control group](traditional-teaching-significant-scientific-thinking-gain.md) — related
+- [CBPSI significantly improved problem solving performance of Grade 10 learners from pre-test to post-test](cbpsi-improves-problem-solving-performance-grade-10.md) — related
+- [Scientific inquiry learning model based on conceptual change improves science process skills better than conventional learning](scientific-inquiry-conceptual-change-improves-science-process-skills.md) — related
+- [Traditional classroom teaching showed no significant improvement in students' critical thinking ability over the same period](traditional-teaching-no-critical-thinking-gain.md) — possibly the same claim (merge candidate)

@@ -51,3 +51,4 @@ ANCOVA (Table 7) tested the gender-by-method interaction on overall achievement 
 - [Method-by-gender interaction is significant only for application of Light waves, not for understanding or analysis](method-gender-interaction-application-only.md) — reports the opposite
 - [No significant interaction between teaching method and gender on conceptual understanding of electric circuits](no-method-gender-interaction-electric-circuits.md) — related
 - [There is no significant interaction between gender and teaching method on students' achievement in Basic Science](no-method-gender-interaction-basic-science.md) — possibly the same claim (merge candidate)
+- [No significant gender difference in academic performance among students exposed to the lecture method](gender-no-significant-difference-lecture-borno.md) — related

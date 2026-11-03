@@ -49,3 +49,6 @@ Quasi-experimental non-equivalent control group study with 23 experimental and 2
 - [The pre-to-post achievement gain was significantly larger in the conceptual change text group than in the control group](cct-gain-difference-favors-experimental.md) — related
 - [Conceptual change texts were more effective than traditional teaching across the nine concepts, though the democracy concept remained difficult](cct-per-concept-effectiveness-democracy-difficult.md) — possibly the same claim (merge candidate)
 - [Seventh graders taught technical education with a hypertext didactic text scored higher on a final didactic test than pupils taught by traditional methods](hypertext-didactic-text-higher-didactic-test-scores-grade-7.md) — related
+- [Web-assisted conceptual change texts reduced 8th graders' conceptual errors in water chemistry more than classic conceptual change texts (65% vs. 14% error reduction)](web-assisted-cct-greater-error-reduction.md) — related
+- [8th and 9th graders held multiple persistent conceptual errors about water chemistry despite prior instruction](water-chemistry-conceptual-errors-pilot.md) — related
+- [Web-assisted conceptual change texts produced significantly higher three-stage post-test scores than classic conceptual change texts (U = 103, p = 0.038)](web-assisted-cct-significant-posttest-advantage.md) — related

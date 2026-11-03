@@ -85,6 +85,7 @@ Graphic organizers reduce extraneous load during reading by externalizing the te
 - [Question-Answer Relationships](question-answer-relationships.md) — another comprehension strategy that sets a purpose before reading
 - [Advance Organizers](../elements/advance-organizers.md) — the Ausubelian parent concept; pre-reading graphic organizers are a concrete, structure-specific form
 - [Offer a structured advance organizer before the full article for readers who benefit from one](structured-advance-organizer-appendix-strategy.md)
+- [Teach signaling words to help students identify text structures](teach-signaling-words-text-structures.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — the theoretical ancestor; Ausubel's framework for providing an anchoring structure before learning

@@ -57,3 +57,4 @@ Post-test independent t-test (n = 36 per group) on the affective component: the 
 - [Cooperative learning produced significantly higher gain scores than lecture teaching for each of the knowledge, understanding and application objectives](cooperative-learning-gains-knowledge-understanding-application.md) — related
 - [Cooperative learning raised value-component motivation (intrinsic goal orientation, extrinsic goal orientation, task value) more than lecture-based teaching](cooperative-learning-value-components-motivation.md) — related
 - [No significant pre-test differences existed between the cooperative learning and lecture-based groups on any motivational component](no-pretest-motivation-differences-groups.md) — related
+- [The proposed technique of active means and active learning methods increases the level of the motivational component of learners' cognitive activity in physics teaching](active-technique-increases-motivational-component-physics.md) — related

@@ -49,3 +49,4 @@ Experimental study (Yeager et al., 2013) in an urban high school: six ~45-min fa
 - [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with no significant variation in this effect detected across schools](growth-mindset-reduces-fixed-mindset-beliefs.md) — related
 - [Predicted probability of 9th grade on-track status varied substantially across the growth-mindset and academic-behavior scales](predicted-on-track-probability-varies-with-mindset-behavior-scores.md) — related
 - [The review reports that minimal-group categorization produces in-group favoritism in resource allocation, cooperation, prosocial behavior, and evaluation](minimal-group-in-group-favoritism-reported.md) — related
+- [No statistically significant difference was found between treatment and control schools in the growth rate of prosocial school behaviors](second-step-no-effect-prosocial-behavior-growth.md) — related

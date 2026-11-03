@@ -56,3 +56,4 @@ Randomized controlled trial with 2,759 first-year students at three U.S. communi
 - [Summer counseling produces a small but statistically significant positive effect on credit accumulation and persistence (WWC rating: potentially positive effects)](summer-counseling-potentially-positive-persistence.md) — related
 - [The 2012 text-message campaign raised enrollment 7.1 percentage points in Lawrence and Springfield but had no impact in Boston](text-message-campaign-enrollment-city-context-effect.md) — related
 - [Most surveyed text-message recipients reported the nudges helped them complete college tasks](text-nudges-helped-complete-college-tasks.md) — related
+- [Needs-improvement messages, not positive messages, drove the credit-earning effect](needs-improvement-messages-drive-credit-effect.md) — related

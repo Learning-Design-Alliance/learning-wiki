@@ -51,3 +51,4 @@ Randomized controlled trial of 73 high schools (37 EWIMS, 36 control) with 37,67
 - [EWIMS did not have a detectable impact on student progress in school (credits earned) after one year](ewims-no-effect-credits-progress.md) — related
 - [When educators partnered with families on attendance, chronic absenteeism rates dropped 15%](family-partnership-reduced-chronic-absenteeism-15-percent.md) — related
 - [EWIMS reduced the percentage of students who failed one or more courses after one year](ewims-reduced-course-failure-one-year.md) — related
+- [Teacher-to-parent communication reduces student absenteeism](teacher-parent-communication-reduces-absenteeism.md) — related

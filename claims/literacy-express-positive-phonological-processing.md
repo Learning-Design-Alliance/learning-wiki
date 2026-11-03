@@ -100,3 +100,4 @@ PCER Florida randomized trial (188 children analyzed) using the Pre-CTOPPP Elisi
 - [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool phonological processing](prek-mathematics-no-phonological-effects.md) — related
 - [Tyler et al. (2003) found no statistically significant differences between phonological awareness training and a morphosyntactic intervention (indeterminate effect)](tyler-2003-phonological-vs-morphosyntactic-indeterminate.md) — related
 - [Phonological awareness training has potentially positive effects on communication/language competencies for preschool children with learning disabilities, with a small extent of evidence](phonological-awareness-training-potentially-positive-communication-effects.md) — related
+- [Connected speech includes phonological processes of reduction, elision, assimilation, and contraction](connected-speech-phonological-processes.md) — related

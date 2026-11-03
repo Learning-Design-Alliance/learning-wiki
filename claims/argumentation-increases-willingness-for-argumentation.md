@@ -46,3 +46,4 @@ Dependent t-test on AWS scores of the 30 experiment-group students, whose score 
 
 ## Related Claims
 - [Teaching 9th-grade Functions through argumentation produces higher science process skills posttest scores than traditional teaching](argumentation-improves-science-process-skills-functions.md) — related
+- [Scientific argumentation based learning increases students' willingness to participate in discussions.](argumentation-increases-willingness-to-discuss.md) — related

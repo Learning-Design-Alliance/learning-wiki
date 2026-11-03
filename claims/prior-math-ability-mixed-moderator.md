@@ -52,3 +52,4 @@ Narrative review synthesis of 16 articles coding prior math ability: some found 
 - [Using tablet games as a supplement or as a replacement for routine math activities may have equivalent effectiveness](supplement-replacement-equivalent-effectiveness.md) — related
 - [Tablet-based DGBL shows strong efficacy for children from low-SES families](tablet-dgbl-effective-low-ses-children.md) — related
 - [Most tablet-based DGBL interventions in preschool settings improve young children's mathematical performance](tablet-dgbl-preschool-math-mostly-effective.md) — related
+- [Prior research on educational computer games shows mixed effects on cognitive and academic achievement outcomes](mixed-prior-evidence-games-cognitive-gains.md) — related

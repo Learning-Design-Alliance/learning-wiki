@@ -50,3 +50,4 @@ Qualitative synthesis of the eight TPACK-focused reviews within the umbrella rev
 - [Experts report there is neither a clear definition nor a widely accepted model of restorative justice in schools](no-clear-definition-or-accepted-model-of-school-rj.md) — related
 - Eight survey items corresponding to 'pedagogical techniques that use technologies in constructive ways to teach content' were selected for qualitative analysis — related
 - [The diversity of operationalizations of technology integration in K-12 survey instruments is very high, and several instruments lack explicit conceptual or theoretical underpinnings.](high-diversity-ti-operationalizations.md) — related
+- [Virtual exchange participation develops student teachers' digital-pedagogical competence (TPACK)](virtual-exchange-develops-tpack-student-teachers.md) — related

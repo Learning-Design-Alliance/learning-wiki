@@ -61,3 +61,6 @@ Narrative review of incidental vocabulary acquisition research (Krashen 2004; Le
 - [Generation effects are larger in incidental than intentional learning studies, though the direct intentional-vs-incidental contrast was not significant](intentionality-moderator-generation-effect.md) — related
 - [Intentional vocabulary learning yields higher, faster gains and better retention than incidental learning through reading](intentional-beats-incidental-vocabulary-gains.md) — reports the opposite
 - [Amount of listening time while active was not significantly related to End-of-Unit exam performance](listening-time-not-significantly-related-to-exam-score.md) — a narrower finding that bears on this claim
+- [Delayed vocabulary retention did not differ significantly between incidental and intentional groups, with the incidental group slightly ahead](delayed-retention-no-significant-difference-incidental-ahead.md) — a narrower finding that bears on this claim
+- [Intentional condition outperformed incidental condition on immediate vocabulary retention (25.89 vs 22.87 out of 38)](intentional-immediate-retention-advantage-hypertext-gloss.md) — reports the opposite
+- [Reading comprehension did not differ significantly between incidental and intentional groups](comprehension-no-significant-difference-hypertext-gloss.md) — related

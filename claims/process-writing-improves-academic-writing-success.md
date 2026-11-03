@@ -49,3 +49,4 @@ A pretest-posttest control group quasi-experiment with 74 first-year preschool t
 - [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related
 - [Brainstorming-strategy instruction produced significantly higher post-test writing performance than traditional instruction among English-major university students](brainstorming-improves-efl-writing-performance.md) — related
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — a broader claim this one bears on
+- [Contextual teaching and learning produces higher argumentative writing scores than non-contextual instruction in university students](ctl-improves-argumentative-writing-hasani.md) — related

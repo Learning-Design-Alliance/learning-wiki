@@ -44,7 +44,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (29 for, 18 mixed) · 58 studies (16 causal, 14 review, 13 quant-synthesis, 5 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 18 of 58 report an effect size · 35 claims rest on one study
+> **Evidence** · 50 claims (29 for, 21 mixed) · 59 studies (17 causal, 14 review, 13 quant-synthesis, 5 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 18 of 59 report an effect size · 38 claims rest on one study
 
 ## Description
 
@@ -136,6 +136,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Teaching with FACTs produces significantly better inquiry-skill post-test results than teacher-centred teaching without FACTs in upper-secondary science](../claims/facts-improve-inquiry-skills-teacher-centred.md) [+W] — attached 2026-11-01 from Mária Ganajová et al. (2021), which proposed "Include formative assessment in teacher training and provide systemic support for FA implementation".
 - [Dynamic assessment procedures produce significant effects on mathematics achievement among elementary school students](../claims/dynamic-assessment-improves-elementary-math-achievement.md) [+W] — attached 2026-11-01 from Nicoleta Laura Popa (2015), which proposed "Mediate classroom assessment sequences with prompts, error analysis, and transfer support rather than assessing without assistance"; tests this page's relationship.
 - [Students reported positive views of the mobile formative assessment model, citing motivation and exam preparation benefits](../claims/pele-student-questionnaire-positive-attitudes.md) [+W] — attached 2026-11-01 from Titova (2015), which proposed "Post-test collaborative enquiry activities following mobile formative tests".
+- [Quiz-and-reflection and extended-quiz conditions show no significant difference in unit exam performance](../claims/quiz-reflection-vs-extended-quiz-unit-exam-no-difference.md) [~W] — attached 2026-11-03 from Virginia Clinton (2018), which proposed "Instructors can choose between brief quizzes with reflections and longer quizzes based on practical constraints, since both appear equally effective".
+- [Quiz-and-reflection and extended-quiz conditions show no significant difference in final exam performance after controlling for prior exam scores](../claims/quiz-reflection-vs-extended-quiz-final-exam-no-difference.md) [~W] — attached 2026-11-03 from Virginia Clinton (2018), which proposed "Instructors can choose between brief quizzes with reflections and longer quizzes based on practical constraints, since both appear equally effective".
+- [Quiz-and-reflection and extended-quiz conditions show no significant difference in self-reported metacognitive self-regulation](../claims/quiz-reflection-vs-extended-quiz-self-regulation-no-difference.md) [~W] — attached 2026-11-03 from Virginia Clinton (2018), which proposed "Instructors can choose between brief quizzes with reflections and longer quizzes based on practical constraints, since both appear equally effective".
 
 ## Source verification and open tests
 

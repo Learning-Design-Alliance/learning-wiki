@@ -114,3 +114,4 @@ Descriptive trend comparison by race/ethnicity, 1992-1999 (Part 2). The brief re
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related
 - [Chicago White students score as well as or better than rest-of-state White peers in reading, and about the same in math](white-cps-students-match-or-beat-statewide-peers.md) — related
 - [African-American students' disproportionate retention was largely explained by lower prior test scores](retention-racial-disparity-explained-by-scores.md) — related
+- [Self-affirmation eliminated the Hispanic students' reading and mathematics deficit observed in the comparison group](self-affirmation-erased-hispanic-test-score-gap.md) — related

@@ -55,3 +55,4 @@ Quasi-experimental pre-test/post-test non-equivalent control group study with 22
 - [HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity](hots-teaching-improves-ct-dispositions.md) — related
 - [Descriptive means moved in opposite directions: the treatment group's critical thinking disposition mean rose while the control group's fell](ctd-means-opposite-directions.md) — related
 - [PBL and traditional teaching do not differ significantly in their effect on pre-service teachers’ critical thinking dispositions](pbl-no-difference-critical-thinking-disposition.md) — related
+- [Post-test comparison shows the PBL group significantly outperformed the control group on analysis, openness and justice temperaments and analysis and interpretation skills](pbl-posttest-group-differences.md) — related

@@ -43,7 +43,8 @@ EETAM is a modified version of Toulmin's argumentation model in which, after stu
 - [Qualitative Eetam Belief Change Tam None](../claims/qualitative-eetam-belief-change-tam-none.md) [+M]
 
 ## Related Designs
-- 
+
+- [Toulmin Model of Argumentation as a framework for structuring scientific argumentation in science classrooms.](toulmin-model-argumentation-framework.md)
 
 ## Examples
 -

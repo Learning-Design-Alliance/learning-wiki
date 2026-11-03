@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 154 claims (110 show a difference, 27 mixed, 17 no difference) · 104 studies (47 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 20 of 104 report an effect size · 152 claims rest on one study
+> **Evidence** · 162 claims (114 show a difference, 30 mixed, 18 no difference) · 108 studies (51 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 21 of 108 report an effect size · 160 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -194,6 +194,14 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Investigation-phase analysis found lesson plans and tests in the studied school oriented to lower-order thinking, with poor student higher-order thinking ability](../claims/kupang-lesson-plans-lower-order-orientation.md) [+W] — instruction changes it
 - [Students rate simulation as improving critical thinking, problem solving, reporting and recording, and decision making, with communication and nursing process rated lower](../claims/simulation-improves-self-rated-maternity-skills.md) [+M] — instruction changes it
 - [Students taught with the contextual mathematical thinking learning model showed significantly higher enhancement of higher-order thinking ability than the control group](../claims/cmtl-model-higher-gain-than-control.md) [+M] — instruction changes it
+- [Brain-based teaching showed no significant effect on learning, attitude, critical thinking, or self-efficacy in one prior study](../claims/brain-based-teaching-null-effect-siercks.md) [-W] — instruction changes it
+- [High critical-thinking students write better arguments under contextual than non-contextual instruction](../claims/ctl-benefits-high-critical-thinking-writers.md) [~M] — an instructional effect differs with it
+- [Instructing critical thinking through debate significantly improves EFL learners' critical thinking skills compared to lecturing](../claims/debate-improves-efl-critical-thinking-skills.md) [+M] — instruction changes it
+- [Instructional model interacts with critical thinking ability in affecting argumentative writing skill](../claims/interaction-instruction-critical-thinking-writing.md) [~M] — an instructional effect differs with it
+- [Low critical-thinking students do worse in contextual than non-contextual instruction for argumentative writing](../claims/ctl-disadvantages-low-critical-thinking-writers.md) [~M] — an instructional effect differs with it
+- [PBL teaching significantly improves the critical thinking skills of analysis and interpretation in English-major sophomores](../claims/pbl-improves-analysis-interpretation-skills.md) [+M] — instruction changes it
+- [PBL teaching significantly improves the critical thinking temperament dimensions of analysis, openness and justice in English-major sophomores](../claims/pbl-improves-analysis-openness-justice-temperament.md) [+M] — instruction changes it
+- [Reading comprehension and critical thinking skill gains are positively correlated in EFL learners](../claims/reading-comprehension-critical-thinking-correlated.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

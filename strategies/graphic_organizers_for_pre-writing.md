@@ -97,6 +97,7 @@ Planning is the writing subprocess that most strongly distinguishes skilled from
 - [Peer Feedback](../elements/peer-feedback.md) — a natural follow-on once drafts exist
 - [Support English learners with sentence frames, graphic organizers, and word walls—but supplement frames with level-appropriate strategies because frames can limit the range of student responses](sentence-frames-organizers-word-walls-with-limits.md)
 - [Pair and group writing exercises: categorizing items, completing outline skeletons, and discussing paragraphs with a partner](pair-group-writing-exercise-strategy.md)
+- [Use 10-minute pre-task planning, ideally collaborative and with teacher feedback, before L2 argumentative writing tasks](pre-task-planning-with-teacher-feedback-strategy.md)
 
 ## Examples
 - **SRSD (Self-Regulated Strategy Development)** — Graham & Harris's widely researched framework uses genre-specific planning sheets (e.g., POW+TREE for persuasive writing: Topic, Reasons, Explain, Ending) as a core planning tool. Overview: [https://srsd.uncg.edu](https://srsd.uncg.edu)

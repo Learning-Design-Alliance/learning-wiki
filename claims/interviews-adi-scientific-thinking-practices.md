@@ -60,3 +60,4 @@ Qualitative content analysis of semi-structured interviews with six experimental
 - [ADI-based laboratory instruction improves academic achievement in geometrical optics more than traditional laboratory instruction for pre-service science teachers](adi-lab-instruction-improves-optics-achievement.md) — related
 - [ADI-based laboratory instruction improves science process skills more than traditional laboratory instruction](adi-lab-instruction-improves-science-process-skills.md) — related
 - [Argumentation levels of ADI students rise by the end of treatment while control group levels stay unchanged](adi-raises-argumentation-levels-end-of-treatment.md) — related
+- [Scientific argumentation based learning improves students' understanding of the nature of scientific knowledge on five of six dimensions.](argumentation-improves-nature-of-scientific-knowledge.md) — related

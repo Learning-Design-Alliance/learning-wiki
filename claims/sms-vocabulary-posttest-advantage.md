@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-03
 sources:
   - id: haisen-zhang-2011
     resource: "https://eric.ed.gov/?id=EJ944968"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the three-week treatment, the SMS experimental group scored significantly higher than the paper control group on the posttest (t(60)=2.45, p<.05). [→ Haisen Zhang 2011](#haisen-zhang-2011)
@@ -67,3 +68,5 @@ Quasi-experiment with two intact classes (32 experimental, 30 control students w
 - [University freshmen learning academic vocabulary via SMS show no significant short-term advantage over freshmen learning the same words with a dictionary](sms-vs-dictionary-no-posttest-difference.md) — reports the opposite
 - [Turkish 6th graders taught English vocabulary by phonetic association learned words faster than a control group taught conventionally in the first week](phonetic-association-faster-initial-vocabulary-learning.md) — related
 - [WhatsApp-delivered vocabulary instruction produced significantly higher post-test vocabulary scores than traditional classroom instruction among Iranian junior high school EFL learners](whatsapp-vocabulary-instruction-outperformed-traditional-classroom-instruction.md) — related
+- [Both SMS and paper-based exercise groups improved vocabulary scores significantly from pre-test to post-test](both-groups-improved-vocabulary-exercises.md) — related
+- [First-year EFL students who did vocabulary exercises via SMS outperformed those doing paper-based exercises on a post-test](sms-exercises-outperform-paper-based-vocabulary.md) — related

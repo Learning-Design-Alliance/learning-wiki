@@ -35,7 +35,7 @@ sources:
 # Character Education
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (20 for, 8 mixed, 1 against) · 15 studies (5 theoretical, 4 quant-synthesis, 2 causal, 2 associational, 1 review, 1 qualitative), `q1`–`q4` · 5 of 15 report an effect size · 28 claims rest on one study
+> **Evidence** · 30 claims (21 for, 8 mixed, 1 against) · 16 studies (5 theoretical, 4 quant-synthesis, 3 causal, 2 associational, 1 review, 1 qualitative), `q1`–`q4` · 5 of 16 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,7 @@ Learners, programmes and outcomes differ across these claims (US elementary scho
 - [Spontaneous Reactions Draw On Internalised Values](../claims/spontaneous-reactions-draw-on-internalised-values.md) [+M]
 - [Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values](../claims/dewey-morality-in-everyday-problems.md) [+W]
 - [The sex-education conference's most conspicuous point of agreement was that sex education should be embedded in the whole purpose of education and life, as character education rather than a special form of education](../claims/sex-education-embedded-character-education.md) [+W] — attached 2026-10-25 from New Publications (1920), which proposed "Embed sex education within the whole purpose of education and of life, treating it as character education rather than a segregated special subject".
+- [DR-TA through tales of virtue produced significantly higher ethical awareness than the traditional approach](../claims/dr-ta-higher-ethical-awareness-than-traditional.md) [+W] — attached 2026-11-03 from Chaemsai et al. (2016), which proposed "Combine a thinking-focused reading method with morally rich texts to raise reading comprehension and ethical awareness together"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -54,3 +54,4 @@ ANCOVA with Unit 4 language usage posttest as dependent variable, condition as g
 - [Students taught reading comprehension with Joint Productive Activity scored higher on post-tests than students taught by the traditional method](jpa-group-outperformed-traditional-group-post-test.md) — related
 - [Six weeks of Joint Productive Activity instruction significantly improved Nigerian Junior Secondary II students' reading comprehension performance from pre-test to post-test](jpa-improves-reading-comprehension-pre-post.md) — related
 - [JPA lessons showed increased learner involvement and participation compared with passive traditional lessons](jpa-increases-learner-involvement-participation.md) — related
+- [Analogies taught in small groups did not produce a statistically significant difference in clinical-case exam performance compared with traditional instruction in a wound-healing unit.](analogies-small-groups-no-significant-difference-surgery.md) — related

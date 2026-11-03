@@ -12,7 +12,7 @@ generated:
 # Multiple Intelligences Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 28 claims (17 for, 9 mixed, 2 against) · 13 studies (7 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q3` · 2 of 13 report an effect size · 28 claims rest on one study
+> **Evidence** · 33 claims (22 for, 9 mixed, 2 against) · 14 studies (8 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q3` · 3 of 14 report an effect size · 33 claims rest on one study
 
 ## Description
 Howard Gardner (1983) proposed that intelligence is not the single general factor ("g") that Charles Spearman and earlier theorists described, but a set of at least eight relatively independent intelligences — commonly listed as linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic, interpersonal, intrapersonal, and naturalistic. Gardner (1999) later proposed a ninth, **existential** intelligence, which he himself notes "has yet to experience full acceptance by educators in the classroom." A person typically excels in some of these and not others, which is a direct challenge to instructional designs that treat "ability" as a single scale a learner sits somewhere on.
@@ -73,6 +73,11 @@ Gardner's inter- and intrapersonal intelligences are often combined by other res
 - [Interpersonal intelligence development was higher in regular schools while intrapersonal development was higher in top schools](../claims/school-level-personal-intelligence-development-differences.md) [~W]
 - [Seventh graders taught environmental topics with a Multiple Intelligences strategy gained higher environmental awareness knowledge scores than peers taught by traditional methods](../claims/mi-strategy-higher-environmental-awareness-knowledge.md) [+W] — attached 2026-11-02 from Gökhan BAŞ (2010), which proposed "Gardner's theory of multiple intelligences as the framework for the instructional strategy".
 - [Seventh graders taught with a Multiple Intelligences strategy developed more positive environmental attitudes than peers taught by traditional methods](../claims/mi-strategy-higher-environmental-attitude.md) [+W] — attached 2026-11-02 from Gökhan BAŞ (2010), which proposed "Gardner's theory of multiple intelligences as the framework for the instructional strategy".
+- [MI-based instruction improved overall EFL pre-service teacher speaking performance in a one-group pre-post design](../claims/mi-instruction-improves-efl-preservice-speaking-overall.md) [+M] — attached 2026-11-03 from Salem (2013), which proposed "Multiple Intelligences-based instruction as a framework for addressing individual differences in EFL speaking instruction".
+- [MI-based instruction improved oral presentation skills of EFL pre-service teachers](../claims/mi-instruction-improves-oral-presentation-skills.md) [+M] — attached 2026-11-03 from Salem (2013), which proposed "Multiple Intelligences-based instruction as a framework for addressing individual differences in EFL speaking instruction".
+- [MI-based instruction improved the making-requests subskill of EFL pre-service teachers](../claims/mi-instruction-improves-making-requests-subskill.md) [+M] — attached 2026-11-03 from Salem (2013), which proposed "Multiple Intelligences-based instruction as a framework for addressing individual differences in EFL speaking instruction".
+- [MI-based instruction improved the making-suggestions subskill of EFL pre-service teachers](../claims/mi-instruction-improves-making-suggestions-subskill.md) [+M] — attached 2026-11-03 from Salem (2013), which proposed "Multiple Intelligences-based instruction as a framework for addressing individual differences in EFL speaking instruction".
+- [MI-based instruction improved the giving-advice subskill of EFL pre-service teachers](../claims/mi-instruction-improves-giving-advice-subskill.md) [+M] — attached 2026-11-03 from Salem (2013), which proposed "Multiple Intelligences-based instruction as a framework for addressing individual differences in EFL speaking instruction".
 
 ## Related Theories
 

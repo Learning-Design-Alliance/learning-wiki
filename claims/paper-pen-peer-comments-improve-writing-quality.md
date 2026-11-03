@@ -57,3 +57,5 @@ Paired-sample t-test on the control group (n=40) in a 15-week quasi-experiment a
 - [The experimental and control groups did not differ significantly in writing scores at pre-test, supporting attribution of post-test differences to the instructional methods](groups-equivalent-at-pretest-writing.md) — related
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
 - [The paper-based control group showed no statistically significant change in reading test scores over the term](control-group-no-within-group-gain-reading.md) — related
+- [Both wiki-based and traditional pen-and-paper process-based writing instruction improve EFL writing achievement across all measured subskills.](process-based-writing-improves-all-efl-writing-subskills.md) — a broader claim this one bears on
+- [Wiki-based writing environments increase EFL writing achievement in content compared with traditional pen-and-paper process writing.](wiki-based-writing-increases-efl-content-achievement.md) — related

@@ -13,7 +13,7 @@ generated:
 # Reciprocal Teaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (5 for, 3 mixed) · 14 studies (5 causal, 3 quant-synthesis, 3 associational, 2 review, 1 theoretical), `q2`–`q4` · 2 of 14 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (5 for, 4 mixed) · 15 studies (5 causal, 4 associational, 3 quant-synthesis, 2 review, 1 theoretical), `q2`–`q4` · 2 of 15 report an effect size · 5 claims rest on one study
 
 ## Description
 Reciprocal Teaching is a structured small-group procedure in which learners take turns acting as the discussion leader, applying four comprehension strategies — predicting, questioning, clarifying, and summarizing — to shared text or content. The teacher initially models the strategies, then gradually hands the "teacher" role to students, who guide the dialogue while peers respond and contribute.
@@ -57,6 +57,7 @@ Reciprocal Teaching improves comprehension by making strategic reading processes
 - [Before treatment, the reciprocal teaching and control groups did not differ significantly on IELTS reading pretest scores](../claims/rtp-study-pretest-equivalence.md) [~W]
 - [Most experiment students judged reciprocal teaching more effective than their previous comprehension activities, citing ease, effectiveness and fun](../claims/student-opinions-reciprocal-teaching-effectiveness.md) [+W]
 - [A meta-analysis cited as background found reciprocal teaching effects of 0.32 SD on reading tests and 0.88 SD on experimenter-developed tests](../claims/reciprocal-teaching-meta-analysis-background-effects.md) [+M]
+- [English teachers rate reciprocal teaching much better, and the models method and computer simulation much worse, than STEM teachers](../claims/english-teachers-reciprocal-teaching-vs-simulation-models.md) [~W]
 
 ## The evidence by question
 

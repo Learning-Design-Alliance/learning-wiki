@@ -62,6 +62,8 @@ Implementation is supported through multiple professional development formats ra
 - [Multi-layered, multi-year rollout combining guidance resources, webinars, workshops, and training-of-trainers to build local capacity for a new assessment tool](multi-layered-rollout-capacity-building-optel.md)
 - [Ongoing math-specialist coaching and curriculum-based professional development for implementing teachers](thinking-math-coaching-pd-strategy.md)
 - [Multi-mode, ongoing professional development for instructors implementing technology-infused courses](multi-mode-pd-for-tech-infusion-instructors.md)
+- [Five-day teacher workshop for WRD curriculum framework training](five-day-wrd-teacher-workshop.md)
+- [Provide teacher training workshops and mentor support for virtual exchange practitioners](teacher-training-workshops-mentor-support-virtual-exchange.md)
 
 ## Examples
 -

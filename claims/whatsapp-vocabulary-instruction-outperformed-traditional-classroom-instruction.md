@@ -51,3 +51,4 @@ Study the authors call a true experimental design, with 60 elementary-level Iran
 ## Related Claims
 - [Learners taught 40 figurative idioms via WhatsApp MMS messages scored significantly higher on the posttest than learners taught with traditional paper-based activities](whatsapp-mms-idiom-instruction-outperforms-paper-activities.md) — related
 - [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related
+- [Experimental group significantly outperformed control group on post-test vocabulary test score](experimental-group-outperformed-control-vocabulary-posttest.md) — related

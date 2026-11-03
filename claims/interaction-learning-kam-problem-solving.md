@@ -56,3 +56,5 @@ Two-way ANOVA interaction test (learning × KAM) on N-gain of problem-solving ab
 - [Overall, students receiving soft skill-based metacognitive learning show significantly higher enhancement of mathematical problem solving ability than students receiving conventional learning](ssml-higher-mpsa-enhancement-than-conventional.md) — related
 - [The benefit of worked examples over problem-solving increases with decreasing shifting ability, reproducing Schwaighofer et al. (2016)](shifting-ability-moderates-worked-example-benefit.md) — related
 - [Learning strategy and self-efficacy interact in their effect on mathematical representation ability](strategy-self-efficacy-interaction-mathematical-representation.md) — related
+- [There is no interaction between learning (SMM vs PK) and early mathematical ability (KAM) in increasing mathematical reasoning ability](no-learning-kam-interaction-kpm.md) — related
+- [There is an interaction between learning (SMM vs PK) and school rank in enhancing mathematical reasoning ability, with high-rank schools benefiting most from SMM](learning-school-rank-interaction-kpm.md) — related

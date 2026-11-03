@@ -49,3 +49,4 @@ Computer text analysis of 12 Year 6 SATs stories (levels 2c to 5+) compared word
 - [Mean sentence length indicates both insecure and secure full-stop use, with roughly 12 to 16 words per sentence the aim for mature narrative writing](mean-sentence-length-indicates-full-stop-use.md) — related
 - [The ratio of mean sentence length to commas was the most useful computer test for discriminating maturity level in children's writing](sentence-length-comma-ratio-discriminates-maturity.md) — related
 - [In a cross-sectional path model of fourth graders, handwriting fluency statistically mediated the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)](handwriting-fluency-mediates-ef-narrative-writing.md) — related
+- [Needs-improvement sentences differ from positive sentences in actionability, out-of-class focus, and length](needs-improvement-sentence-qualities.md) — related

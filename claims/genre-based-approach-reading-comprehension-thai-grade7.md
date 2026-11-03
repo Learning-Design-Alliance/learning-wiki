@@ -50,3 +50,5 @@ Randomized control group pretest-posttest study with two clusters of seventh gra
 - [The control group taught with the teacher's manual showed no statistically significant within-group gain in reading comprehension from pre-test to post-test](teachers-manual-no-significant-within-group-gain.md) — related
 - [Experimental group's reading scores improved significantly from pretest to posttest under genre-based instruction](gbi-pre-post-gain-experimental-group.md) — related
 - [Instructional strategy (Pre-question, genre-based, or combined) shows no significant main effect on science undergraduates' reading comprehension achievement](no-strategy-effect-reading-achievement-nigerian-undergraduates.md) — reports the opposite
+- [Ninth grade Thai EFL students' English reading scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group](cai-tls-improves-english-reading-thai-efl.md) — related
+- [DR-TA through tales of virtue produced significantly higher English reading comprehension than a traditional approach in Thai seventh-grade students](dr-ta-higher-english-reading-comprehension-than-traditional.md) — related

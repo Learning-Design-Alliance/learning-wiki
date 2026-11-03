@@ -83,3 +83,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Conceptual understanding and motivation gains were similar for male and female students using the software](no-gender-difference-motion-vector-software-outcomes.md) — related
 - [Descriptively, male students outperformed female students at all three levels of Light waves overall](males-outperform-females-descriptive-gains.md) — related
 - [Gender does not significantly affect students' creative thinking in problem solving](gender-no-effect-creative-thinking-problem-solving.md) — related
+- [Male and female EFL learners do not differ significantly in their perception of critical thinking instruction through debate](gender-no-difference-perception-ct-instruction.md) — reports the opposite

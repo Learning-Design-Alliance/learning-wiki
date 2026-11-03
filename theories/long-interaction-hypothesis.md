@@ -12,7 +12,7 @@ generated:
 # Long's interaction hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 39 claims (13 for, 26 mixed) · 15 studies (8 causal, 3 quant-synthesis, 2 review, 2 associational), `q2`–`q3` · 3 of 15 report an effect size · 37 claims rest on one study
+> **Evidence** · 40 claims (14 for, 26 mixed) · 16 studies (9 causal, 3 quant-synthesis, 2 review, 2 associational), `q2`–`q3` · 3 of 16 report an effect size · 38 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ed367161, eric-ej1080713, eric-ej1435677, eric-ej1071042, eric-ej1208383, eric-ej1269664, eric-ej1348282, eric-ej1361438. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -79,6 +79,7 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 - [The learner's developmental level conditions the outcomes of interactional input](../claims/developmental-level-conditions-interaction-outcomes.md) [~W]
 - [Laboratory and classroom studies assess the effects of recasts and different CF types differentially](../claims/lab-and-classroom-studies-cf-effects-recasts.md) [~W]
 - [Interaction in both SCMC and FTF contexts has a significant impact on L2 development (meta-analysis of 14 studies, 1990–2012)](../claims/scmc-ftf-interaction-significant-l2-development.md) [+M]
+- [Incidental focus on form via recasting during jigsaw retelling tasks improves EFL learners' overall grammatical accuracy](../claims/incidental-fof-recasting-improves-grammatical-accuracy.md) [+W]
 
 ## The evidence by question
 - *Does negotiated interaction help learners acquire the second language, beyond helping them understand the input at the moment?* [Conversational interaction facilitates second language grammatical development in adult ESL learners](../claims/interaction-facilitates-l2-grammatical-development.md) [+M]

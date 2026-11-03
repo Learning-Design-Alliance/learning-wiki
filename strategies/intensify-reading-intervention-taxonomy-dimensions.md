@@ -52,6 +52,7 @@ Drawing on the Taxonomy of Intervention Intensity, the article recommends concre
 - [Response To Intervention](response-to-intervention.md)
 - [Multi-Tiered System of Supports (MTSS)](multi-tiered-system-of-supports-mtss.md)
 - [Individualize intervention component time and intensity for students at the lowest achievement levels rather than relying on a standardized protocol](individualize-component-time-lowest-achievers.md)
+- [Use tier 2 and 3 school-wide positive behavior supports alongside academic instruction to increase attentiveness and engagement](tier2-tier3-pbis-academic-ebd.md)
 
 ## Examples
 -

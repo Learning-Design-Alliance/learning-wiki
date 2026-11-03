@@ -48,3 +48,4 @@ Pre-test/post-test experimental study with repeated-measures ANOVA on 112 Irania
 - [The effect of CDA-based instruction on reading comprehension is greater for intermediate than advanced proficiency students](cda-effect-greater-intermediate-than-advanced.md) — a narrower finding that bears on this claim
 - [CDA-based reading instruction does not differ significantly between male and female EFL students](cda-instruction-no-gender-difference.md) — related
 - [CDA-based instruction is associated with high self-reported motivation, attitude change, and interest in text analysis among EFL students](cda-instruction-increases-student-motivation.md) — related
+- [Instructing critical thinking through debate significantly improves EFL learners' reading comprehension compared to lecturing](debate-improves-efl-reading-comprehension.md) — related

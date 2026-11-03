@@ -150,6 +150,7 @@ Performance on tasks matched to the whole, recall of details, delayed retention 
 ## Examples
 
 - [Develop detailed and comprehensive VR modules that include all steps of construction processes](../strategies/detailed-comprehensive-vr-modules.md)
+- [Apply mind mapping in mathematics teaching through overview, preview, inview, and review stages](../strategies/mind-mapping-overview-preview-inview-review.md)
 
 ### Illustrative
 

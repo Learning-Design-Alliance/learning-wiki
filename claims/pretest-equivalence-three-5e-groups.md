@@ -68,3 +68,4 @@ One-way ANOVA on Scientific Attitude Scale pre-test scores. The article conclude
 - [The 5E instructional model enriched with animations produced higher seventh-grade achievement on the light unit than the 5E model enriched with cooperative learning and the 5E model alone](5e-animation-enrichment-beats-cooperative-and-control-on-achievement.md) — related
 - [Both the animation-enriched and cooperative-learning-enriched 5E models improved seventh-graders' scientific attitudes relative to the 5E model alone, with no difference between the two enriched groups](5e-enrichments-improve-scientific-attitudes-over-control.md) — related
 - [Experimental and control groups showed no significant pre-test difference before the intervention](cct-pretest-equivalence.md) — related
+- [Students in the three groups had significant differences in problem-solving attitudes before the experimental teaching began](pretest-problem-solving-attitude-group-differences.md) — related

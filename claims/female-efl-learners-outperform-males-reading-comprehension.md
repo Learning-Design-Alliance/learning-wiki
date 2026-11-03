@@ -58,3 +58,4 @@ Between-gender comparison of 60 experimental-group students (30 male, 30 female)
 - [Pre-test learning styles of the experimental group differed significantly by gender, with females dominant in converging and males in accommodating styles](layered-curriculum-pretest-gender-difference-experimental.md) — related
 - [Group × gender interaction favored females in the experimental group](group-gender-interaction-favor-female-experimental.md) — related
 - [CDA-based reading instruction does not differ significantly between male and female EFL students](cda-instruction-no-gender-difference.md) — reports the opposite
+- [Gender is not a significant factor in EFL learners' reading comprehension gains from debate instruction](gender-no-effect-reading-comprehension-debate.md) — reports the opposite

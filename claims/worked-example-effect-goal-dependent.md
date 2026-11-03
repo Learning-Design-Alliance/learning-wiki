@@ -52,3 +52,4 @@ Theoretical argument in the goal-driven approach section: the article attributes
 - [The expertise reversal effect reflects the strength of experts' knowledge base resisting redundant external information, and a motivation-related form is predicted](expertise-reversal-evolutionary-interpretation.md) — related
 - [Cognitive load theory has generated a variety of novel instructional procedures for presenting information](architecture-generated-novel-instructional-procedures.md) — related
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
+- [Learners' interview responses indicated schema construction linking novel problems to worked-out examples](interview-responses-indicate-schema-construction.md) — related

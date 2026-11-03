@@ -48,3 +48,4 @@ Tukey HSD multiple comparisons on post-test scores of the three groups (N = 120)
 - [No significant difference in reading comprehension between the magazine-making and wall-newspaper project groups, supporting the second null hypothesis](no-difference-between-project-types.md) — related
 - [Project-based activities significantly improve intermediate EFL students' reading comprehension compared with communicative language teaching instruction](pbl-improves-efl-reading-comprehension.md) — a broader claim this one bears on
 - [Both the movie-adaptation and news-adaptation groups significantly outperformed the control group on listening posttest, and did not differ from each other](tukey-both-adaptation-groups-beat-control.md) — related
+- [Project scores were comparable between conditions except the fifth project, where the control group scored higher](project-scores-fifth-project-control-higher.md) — reports the opposite

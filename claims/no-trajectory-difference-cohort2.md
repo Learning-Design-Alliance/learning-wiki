@@ -51,3 +51,4 @@ This is a secondary analysis of cohort 2 term-specific GPA data testing whether 
 - [The article found no evidence that theorized moderators of self-affirmation effects (implementation, individual, or social-context differences) explained the difference between cohorts.](moderators-cannot-explain-difference.md) — related
 - [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related
 - [Retention rates for Black/African American and Hispanic/Latino students dropped more steeply between the second and third semesters than for White and Asian students in both cohorts](eo1110-retention-gaps-widen-by-ethnicity.md) — related
+- [Gender and ethnicity moderated the impact of self-affirmation rather than a uniform main effect](self-affirmation-moderated-by-gender-ethnicity.md) — reports the opposite

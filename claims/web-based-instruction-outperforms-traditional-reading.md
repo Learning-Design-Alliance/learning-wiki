@@ -51,3 +51,4 @@ Quasi-experiment with 20 web-based and 20 traditional-group elementary learners 
 - [Genre-based reading instruction produces significantly higher reading posttest scores than traditional instruction for Iranian female high school EFL learners](gbi-outperforms-traditional-reading-instruction-iranian-high-school.md) — related
 - [Traditional classroom listening instruction produced significantly higher post-test achievement than online learning after one month](traditional-classroom-outperformed-online-listening-post-test.md) — related
 - [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in writing](web-based-instruction-outperforms-traditional-writing.md) — related
+- [DR-TA through tales of virtue produced significantly higher English reading comprehension than a traditional approach in Thai seventh-grade students](dr-ta-higher-english-reading-comprehension-than-traditional.md) — related

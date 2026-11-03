@@ -47,3 +47,4 @@ Independent-samples t-test on the 60 homogenized learners (30 per group, selecte
 ## Related Claims
 - [Before treatment, the reciprocal teaching and control groups did not differ significantly on IELTS reading pretest scores](rtp-study-pretest-equivalence.md) — related
 - [The experimental and control groups were statistically comparable in reading comprehension before the treatment began](pretest-equivalence-presentation-strategy-groups.md) — related
+- [T-test found a statistically significant difference between groups (t = -13.203, df = 242, p = 0.000)](ttest-significant-ict-effect-scientific-literacy.md) — related

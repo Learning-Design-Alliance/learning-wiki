@@ -199,7 +199,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](../claims/signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) [+W]
 - [Video cases significantly improved cognitive, affective, and overall learning outcomes compared to paper cases in dental education](../claims/video-cases-outperform-paper-cases-dental-pbl.md) [+W]
 - [Students reported that videos and 3D animations facilitated conceptual understanding via concretization, pausing, slowing down, replaying, and enlarging features](../claims/video-animation-features-student-perspectives.md) [+W]
-- [Using videos and 3D animations both in the classroom and in homework activities provided significant impact in remedying misconceptions about basic computer units](../claims/videos-3d-animations-remedy-misconceptions.md) [+W]
+- [Students who used videos and 3D animations in class or as homework gave fewer incorrect answers about basic computer units after instruction (descriptive pre-post counts, no untreated control)](../claims/videos-3d-animations-remedy-misconceptions.md) [+W]
 - [The quantity of videos and 3D animations was related to success in remedying misconceptions: where materials were quite limited, incorrect or partly true answers remained high](../claims/material-quantity-related-to-misconception-remediation.md) [~W]
 - [Experiment-group students reported in interviews that caricature animations helped them understand the subjects better](../claims/interviews-students-understand-better-with-caricatures.md) [+W]
 - [Color coding does not improve learning about posterior probability from a simple table, and adds no benefit when combined with labeling](../claims/color-coding-no-learning-benefit-simple-table.md) [~W]
@@ -232,6 +232,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](../strategies/common-tools-ctml-lesson-workflow.md)
 - [Replace on-device pictures with drawings of real objects to make mobile-device media complementary to the objects](../strategies/drawings-replace-pictures-complementary-mobile-media.md)
 - [Use AR overlays aligned with multimedia learning principles: pair words with nearby, simultaneous images and segment lessons into self-paced chunks](../strategies/ar-design-multimedia-principles-strategy.md)
+- [Use web-assisted conceptual change texts with visualizations to prevent and remediate science misconceptions](../strategies/web-assisted-cct-misconception-strategy.md)
 
 ### Illustrative
 

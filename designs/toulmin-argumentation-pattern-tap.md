@@ -43,7 +43,8 @@ The article presents Toulmin's Argumentation Pattern (TAP) as the model underlyi
 - [Argument structure training increased students' self-reported confidence with the Toulmin model](../claims/training-increased-toulmin-confidence.md) [+W]
 
 ## Related Designs
-- 
+
+- [Toulmin Model of Argumentation as a framework for structuring scientific argumentation in science classrooms.](toulmin-model-argumentation-framework.md)
 
 ## Examples
 -

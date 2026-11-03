@@ -67,3 +67,4 @@ Teaching assistant survey (19 questions, Likert-scale and open-ended); 35 of 61 
 - [Students hold generally positive attitudes toward educational chatbots and agree the chatbots they used improved their knowledge and understanding](positive-student-attitudes-chatbot-knowledge-gains.md) — related
 - [In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust mostly positively, with Chat Mode the strongest performer](lea-pilot-positive-usability-chat-quiz-trust.md) — related
 - [Graduate students rated AI-generated weekly readings as effective preparation, with 75% agreeing they learned more than in a comparable course without AI assistance](ai-generated-readings-positive-perceived-value-graduate-course.md) — related
+- [Students hold highly positive attitudes toward visualisation strategies for spelling.](positive-student-attitudes-toward-visualisation-strategies.md) — related

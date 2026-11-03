@@ -61,3 +61,4 @@ Subgroup analysis of the same QED using the partially nested model on the low-pe
 - [Impacts varied across teachers: 40 of 59 teachers had a majority of their students outperform their virtual comparison counterparts](assistments-teacher-variation-outperformance.md) — related
 - [An average-scoring student rises from the 50th to the 82nd percentile after application of CAME](came-percentile-gain-50-to-82.md) — related
 - [Intervention effects on WJIII passage comprehension were moderated by pretest: only students starting at or above the 60th percentile benefited](pretest-moderation-wjiii-passage-comprehension.md) — related
+- [Science-enhanced CTE instruction produced a statistically significant positive impact on posttest science achievement for students in the second, third, and fourth quartiles on pretest science achievement](science-in-cte-positive-impact-quartiles-2-4.md) — related

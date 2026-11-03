@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 190 claims (125 show a difference, 43 mixed, 22 no difference) · 163 studies (76 causal, 36 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 35 of 163 report an effect size · 186 claims rest on one study
+> **Evidence** · 195 claims (129 show a difference, 44 mixed, 22 no difference) · 166 studies (79 causal, 36 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 35 of 166 report an effect size · 191 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -247,6 +247,11 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Second Life-based mathematics instruction significantly increased the time students would reserve for mathematics (z=3.14, p<.05)](../claims/sl-math-robot-time-reservation-increase.md) [+M] — instruction changes it
 - [Average tutoring dosage differed significantly across school sites in Cohort 1, ranging from 114 to 129 sessions per student](../claims/spark-tutoring-dosage-varies-by-site.md) [+M] — instruction changes it
 - [Sam and Pat classrooms devoted far more observed time to reading development instruction and far less to English language acquisition instruction than control classrooms](../claims/sam-pat-classrooms-more-reading-less-english-instruction.md) [+M] — instruction changes it
+- [Abrupt scene changes in video lectures may distract students and negate the benefits of embedded summaries](../claims/abrupt-scene-changes-negate-summary-benefits.md) [~M] — an instructional effect differs with it
+- [Control classrooms spent significantly more time on English language acquisition instruction than Sam and Pat classrooms (68 percent vs. 27 percent)](../claims/control-more-english-language-instruction.md) [+M] — instruction changes it
+- [Each year of City Connects dosage predicts small significant increases in grade 5 math, reading, writing, and effort scores](../claims/city-connects-dosage-predicts-grade-5-skill-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Sam and Pat classrooms spent significantly more time on reading development instruction than control classrooms (66 percent vs. 19 percent of observed intervals)](../claims/sam-and-pat-more-reading-instruction-observed.md) [+M] — instruction changes it
+- [Teacher-to-parent communication reduces student absenteeism](../claims/teacher-parent-communication-reduces-absenteeism.md) [+M] — instruction changes it
 
 ## The evidence by question
 

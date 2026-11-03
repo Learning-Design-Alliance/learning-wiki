@@ -48,3 +48,4 @@ This is the authors' interpretive statement in the Results and Discussion sectio
 - [Experimental-group students reported high positive motivation toward the AR-developed Ottoman vocabulary material across the ARCS sub-dimensions](ar-ottoman-material-high-motivation-arcs.md) — related
 - [Students taught Ottoman Turkish readings with an augmented reality application achieved higher academic success than students taught with the classical method](ar-ottoman-turkish-higher-achievement-than-classical.md) — related
 - [Experimental-group students' Ottoman Turkish achievement scores rose significantly from pre-test to post-test during the AR-supported instruction](ar-ottoman-pretest-posttest-significant-gain.md) — related
+- [Fear sources before physics lessons shifted: fear of written tests decreased while examination-related fears dominated](physics-lesson-fear-sources-shift.md) — related

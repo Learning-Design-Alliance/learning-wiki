@@ -57,3 +57,4 @@ Theoretical argument in the section on enhancing novel problem solving: the arti
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
 - [Long-term memory is effectively unlimited and holds schemas that vary in their degree of automation](long-term-memory-schemas-automation.md) — related
 - [Working memory capacity is related to initial analogical reasoning ability in children](wm-related-initial-analogy-ability.md) — related
+- [Learners' interview responses indicated schema construction linking novel problems to worked-out examples](interview-responses-indicate-schema-construction.md) — a narrower finding that bears on this claim

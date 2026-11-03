@@ -61,3 +61,4 @@ ANOVA of pre-test MSLQ scores (Table 5; test anxiety F = 3,466, p = ,021). Posth
 - [Students' extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy decreased after traditional instruction for the gas unit](traditional-instruction-decreases-motivation-subscales.md) — related
 - [After the Student Success Course, test anxiety significantly decreased while intrinsic goal orientation and self-efficacy significantly increased, but task value and control beliefs did not improve](ssc-motivation-changes-test-anxiety-self-efficacy.md) — related
 - [Random assignment created equivalent groups, and performance did not differ by pattern dimension, orientation, or missing-item position](patterning-equivalent-groups-null-dimensions.md) — related
+- [Diary keeping significantly increases intrinsic motivation and task value of pre-service science teachers](diaries-increase-intrinsic-motivation-task-value.md) — related

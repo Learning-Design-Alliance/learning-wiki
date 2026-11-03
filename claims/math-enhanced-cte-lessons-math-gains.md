@@ -70,3 +70,4 @@ The review describes an experimental evaluation in which CTE teachers worked wit
 - [eMINTS shows no discernible effects on general literacy achievement](emints-no-discernible-literacy-effects.md) — related
 - [ACT/SAT test preparation and coaching programs have positive effects on general academic achievement (high school), based on six studies averaging a +9 improvement index](actsat-prep-positive-effects-high-school-achievement.md) — related
 - [The Chicago Annenberg Challenge had little impact on student academic achievement: rates of gain in Annenberg schools did not differ significantly from non-Annenberg schools](annenberg-no-significant-achievement-gain-differences.md) — related
+- [Science-enhanced CTE instruction produced a statistically significant positive impact on posttest science achievement for students in the second, third, and fourth quartiles on pretest science achievement](science-in-cte-positive-impact-quartiles-2-4.md) — related

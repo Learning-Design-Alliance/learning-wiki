@@ -13,7 +13,7 @@ generated:
 # Collaborative Problem-Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 52 claims (24 for, 27 mixed, 1 against) · 45 studies (11 associational, 9 causal, 7 theoretical, 6 review, 5 quant-synthesis, 5 qualitative, 2 design), `q1`–`q4` · 5 of 45 report an effect size · 50 claims rest on one study
+> **Evidence** · 53 claims (25 for, 27 mixed, 1 against) · 46 studies (11 associational, 10 causal, 7 theoretical, 6 review, 5 quant-synthesis, 5 qualitative, 2 design), `q1`–`q4` · 5 of 46 report an effect size · 51 claims rest on one study
 
 ## Description
 Collaborative problem-solving (CPS) places a small group of learners around a problem that no single member can solve alone, requiring them to pool knowledge, divide cognitive labor, negotiate approaches, and converge on a shared solution. It functions simultaneously as a content-learning activity and as practice in the social-cognitive skills — perspective-taking, task regulation, and joint reasoning — that the OECD treats as a distinct competency domain.
@@ -103,6 +103,7 @@ CPS improves learning when the group's discussion forces learners to externalize
 - [Sharing task based on CPS produced better problem-solving ability than conventional lecture-based instruction](../claims/sharing-task-cps-better-than-conventional.md) [+W]
 - [Post-test problem-solving mean scores were 78.35 for the jumping-task CPS class, 67.12 for the sharing-task CPS class, and 58.76 for the conventional class](../claims/post-test-means-three-classes-jumping-sharing-conventional.md) [+W]
 - [During jumping task based on CPS lessons, 44% of experimental-class students were rated strongly active and 29% active by observers](../claims/observation-student-activity-jumping-task-cps.md) [+W]
+- [PBL group pre-service teachers report challenging, creative, cognitive, affective, and group-related positive learning keys](../claims/pbl-positive-learning-keys-qualitative.md) [+W]
 
 ## The evidence by question
 

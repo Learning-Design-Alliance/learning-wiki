@@ -74,3 +74,4 @@ Tukey post-hoc comparisons in Experiment 2's discussion show the cross-format co
 - [The comprehension cost of instructor visuals replicates across different instructors and lecture lengths in a combined analysis](instructor-comprehension-cost-replication.md) — reports the opposite
 - [Adding visuals of the instructor to online video lectures impairs comprehension relative to audio-only and audio+text formats](instructor-visuals-impair-lecture-comprehension.md) — related
 - [The multimedia advantage was concentrated on tasks demanding visual and spatial comprehension, while scores on definitional tasks were similar between groups](multimedia-advantage-concentrated-visual-spatial-tasks.md) — related
+- [Lecturer-generated summaries spliced into online video lectures improve student recall of lecture content on quizzes](lecturer-generated-summaries-improve-video-recall.md) — related

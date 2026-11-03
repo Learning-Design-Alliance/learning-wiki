@@ -52,3 +52,4 @@ Descriptive statistics (Table V) comparing control and experimental groups on th
 - [Descriptive post-test means favoured the 5E inquiry group (7.30 vs 6.35) over the traditional group](5e-study-descriptive-posttest-means.md) — related
 - [The practical-work group's post-test scores were more homogeneous (SD 7.9) than the control group's (SD 9.5)](practical-work-group-converged-in-understanding.md) — related
 - [Form-focused instruction reduced individual variation in performance, with standard deviations in both experimental groups dropping markedly more than in the control group](form-focused-instruction-reduces-individual-variation.md) — related
+- [The enhancement activity group showed more uniform gains (lower post-test standard deviation) than the control group](enhancement-activity-lower-score-variability.md) — related

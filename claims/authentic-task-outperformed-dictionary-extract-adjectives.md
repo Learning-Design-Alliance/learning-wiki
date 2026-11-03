@@ -48,3 +48,4 @@ Pre-test post-test intact-groups comparison of 62 Iranian intermediate EFL learn
 - [PBL-taught Iranian EFL learners achieved significantly higher vocabulary recall (total post-test) than conventionally taught learners](pbl-improves-efl-vocabulary-recall.md) — related
 - [Authentic problem-based vocabulary tasks improve immediate vocabulary recall of intermediate Iranian EFL learners compared with conventional input-based tasks](pbl-tasks-improve-vocabulary-recall-efl.md) — related
 - [Intermediate EFL learners taught vocabulary through online Wikipedia texts outperformed learners taught with printed Wikipedia handouts on a researcher-made vocabulary posttest](wikipedia-online-texts-improve-efl-vocabulary.md) — related
+- [Experimental group significantly outperformed control group on post-test vocabulary learning strategies questionnaire total score](experimental-group-outperformed-control-vls-posttest.md) — related

@@ -51,3 +51,4 @@ The authors' own district-wide randomized trial: 7th-grade students in an urban 
 - [The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders](assistments-grade-6-differential-impact.md) — reports the opposite
 - [A policy report's narrative review states that values affirmation reduced stereotype-threat effects among middle-school students, with higher academic performance for Black students up to 7–9 years later](values-affirmation-long-term-benefits-black-students.md) — related
 - [Cohort 1 self-affirmation students received significantly higher grades in 8th grade (d=0.152), supporting persistent benefits from the prior study.](cohort-1-grade8-persistent-benefit.md) — related
+- [Self-affirmation writing showed no overall average effect on seventh-grade state test scores in a district-wide randomized trial](self-affirmation-no-overall-test-score-effect.md) — related

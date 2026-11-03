@@ -45,6 +45,7 @@ The experimental course design pattern organizes each weekly unit around a well-
 ## Related Designs
 
 - [CIS 102Q Problem Solving Using LEGO Robotics service-learning course with four cooperative labs](cis102q-lego-robotics-service-learning-course.md)
+- [PBL course structure with weekly problem situations, small-group problem-solving plans, and end-of-week solution presentations](pbl-weekly-problem-cycle-small-groups.md)
 
 ## Examples
 -

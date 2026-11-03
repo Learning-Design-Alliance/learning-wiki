@@ -51,3 +51,5 @@ Pretest-posttest control group experiment with 62 tenth-grade students randomly 
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related
 - [75% of experimental group students reached the pre-determined quadratic functions acquisitions versus 0% of control group students](seventy-five-percent-experimental-reached-acquisitions.md) — a narrower finding that bears on this claim
 - [Use of the educational software during the experimental stage produced better worksheet grades for the experimental group, with the gap widening from Worksheet 1 to Worksheet 2](worksheet-grades-favor-software-group.md) — related
+- [Geogebra-assisted instruction improves overall post-test scores on applications of derivative](geogebra-improves-overall-scores-applications-derivative.md) — related
+- [Geogebra-assisted instruction improves conceptual knowledge of applications of derivative compared to traditional instruction](geogebra-improves-conceptual-knowledge-applications-derivative.md) — related

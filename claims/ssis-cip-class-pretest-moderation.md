@@ -68,3 +68,4 @@ Same multilevel analysis of the CRT: for high average pretest classes the articl
 - [SSIS-CIP produces small-to-medium positive effects on teacher-rated social skills in primary-grade classrooms](ssis-cip-teacher-rated-social-skills-effects.md) — related
 - [SSIS-CIP shows no effects on directly observed positive social behavior or observed engaged time](ssis-cip-no-observed-behavior-effects.md) — related
 - [The treatment effect on social skills was moderated by a significant Condition × Pretest × State interaction, significant only in State A](social-skills-condition-pretest-state-interaction.md) — related
+- [Treatment group membership had a statistically significant effect on the pretest quartile slope, indicating pretest achievement moderated the treatment effect](pretest-achievement-moderates-treatment-effect.md) — related

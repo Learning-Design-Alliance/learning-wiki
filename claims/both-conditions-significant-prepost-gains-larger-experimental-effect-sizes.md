@@ -95,3 +95,4 @@ Paired samples t-tests within the control group (n = 33) comparing pre-test and 
 - [Within-group pre-to-post TFCS changes were not statistically significant in either group, though the experimental group's views developed positively and the control group's negatively](tfcs-prepost-nonsignificant-descriptive-divergence.md) — related
 - [Both traditional and MIT-based Technology instruction produce statistically significant pre-to-post gains in emotional and knowledge scores](both-methods-significant-pre-post-gains.md) — related
 - [Both the flipped-learning group and the lecture-based control group showed statistically significant within-group gains from pre-test to post-test](within-group-significant-gains-both-groups.md) — related
+- [Both conditions improved Java knowledge from pre- to post-test, with no difference in learning outcomes between structured and free collaboration](dpp-pre-post-knowledge-gains.md) — related

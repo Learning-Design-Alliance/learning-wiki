@@ -62,6 +62,7 @@ CER converts the diffuse skill of "arguing from evidence" into a learnable, asse
 - [Argumentation](../elements/argumentation.md) — CER is a scaffolded entry point into full argumentation; the reasoning component is a Toulminian warrant
 - [Argument Construction](../elements/argument-construction.md) — the broader skill CER structures
 - [Combine element identification, rubric design, peer assessment and role-playing on socio-scientific issues to train argumentation competence](argumentation-training-strategy-set.md)
+- [Use Toulmin-based argumentation activities (developing arguments, competing theories, predict-observe-explain, expression tables, concept maps) with small-group techniques to teach science units.](toulmin-argumentation-activity-strategy.md)
 
 ## Examples
 - **McNeill & Krajcik's middle-school chemistry curriculum** — students explain whether two unknown substances are the same, writing CER responses from solubility and reaction data; the canonical implementation.

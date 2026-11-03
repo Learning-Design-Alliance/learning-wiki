@@ -86,3 +86,5 @@ Independent samples t-test of post-test scores in a pre/post-test controlled exp
 - [An outdoor education program produced higher post-test environmental attitudes, uses and concern than traditional lecturing among pre-service classroom teachers](outdoor-education-posttest-advantage-attitudes-uses-concern.md) — related
 - [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related
 - [Mobile learning produced significantly higher conversational skills ratings than face-to-face learning in the same quasi-experiment](mobile-learning-conversational-skills-gain.md) — related
+- [CBPSI significantly improved problem solving performance of Grade 10 learners from pre-test to post-test](cbpsi-improves-problem-solving-performance-grade-10.md) — related
+- [Pre-service teachers in PBL groups achieve significantly higher post-test scores than those in lecture-based computer course groups](pbl-higher-achievement-than-lbcc-pre-service-teachers.md) — related

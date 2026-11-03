@@ -53,3 +53,4 @@ Narrative synthesis of the 12 included studies' outcome measures, which included
 - [The evidence base on SBAR-based simulation for nursing students comprises 12 studies with 886 participants, most rated weak in methodological quality](sbar-simulation-evidence-base-weak-quality.md) — related
 - [SBAR-based simulation programs produce significant improvements in communication clarity for nursing students in six of twelve reviewed studies](sbar-simulation-improves-communication-clarity-nursing-students.md) — related
 - [Student nurses applied the seven CoRT critical thinking tools when delivering health talks to patients](cort-tools-applied-in-nursing-health-talks.md) — related
+- [Brain-based teaching showed no significant effect on learning, attitude, critical thinking, or self-efficacy in one prior study](brain-based-teaching-null-effect-siercks.md) — related

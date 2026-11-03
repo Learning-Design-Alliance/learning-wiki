@@ -51,3 +51,4 @@ Quasi-experimental non-equivalent pretest-posttest control group study over two 
 - [Ninth-grade students taught Newton's Laws through project-based learning game techniques scored significantly higher on a concept achievement post-test than students taught by traditional methods](pbl-game-techniques-higher-physics-posttest.md) — related
 - [Project-method learners significantly outperformed control learners on the final test's application-level questions](project-method-application-level-final-test.md) — a narrower finding that bears on this claim
 - [Civic education teaching material based on PBL improved fourth-grade students' learning outcomes in a quasi-experimental pretest-posttest study](pbl-civic-material-improves-learning-outcomes.md) — a narrower finding that bears on this claim
+- [Project scores were comparable between conditions except the fifth project, where the control group scored higher](project-scores-fifth-project-control-higher.md) — related

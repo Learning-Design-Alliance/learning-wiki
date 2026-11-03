@@ -49,6 +49,7 @@ The article's implementable model combines four components, as the authors state
 - [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
 - [Intensive trainer-led observation and feedback model for tutoring professional development](early-steps-trainer-observation-feedback-training.md)
 - [Provide LLI interventionists with 3-day formal training including follow-up on-site coaching](lli-three-day-training-with-on-site-coaching.md)
+- [Provide a sufficient dose of 44-80 hours of intensive instruction as a general target for at-risk reading interventions](sufficient-dose-44-80-hours-target.md)
 
 ## Examples
 -

@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (24 for, 17 mixed, 3 against) · 42 studies (10 theoretical, 9 review, 8 causal, 6 associational, 4 qualitative, 4 design, 1 quant-synthesis), `q1`–`q4` · 0 of 42 report an effect size · 42 claims rest on one study
+> **Evidence** · 45 claims (24 for, 18 mixed, 3 against) · 43 studies (10 review, 10 theoretical, 8 causal, 6 associational, 4 qualitative, 4 design, 1 quant-synthesis), `q1`–`q4` · 0 of 43 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -200,6 +200,7 @@ Choosing on evidence, the quality of the evidence chosen on, the outcome for lea
 - [Higher education educational technology decision-makers rarely use externally-produced, scientifically-rigorous research, which was mentioned in less than 20% of interviews](../claims/edtech-decisions-rigorous-external-research-under-20-percent.md) [-W]
 - [Evaluation of cultural safety training interventions was inconsistent: 46% of papers evaluated programs, methods varied widely, post-surveys were most common, and only half stated evaluation limitations](../claims/cst-evaluation-inconsistent-post-surveys-common.md) [+W]
 - [The authors report possible diffusion of treatment from ART participants to control children in high-interaction settings, threatening internal validity but indicating a potential positive side-effect](../claims/art-secondary-treatment-diffusion.md) [~W]
+- [No mathematics intervention for secondary students with EBD met criteria to be considered an evidence-based practice](../claims/no-math-ebp-secondary-ebd.md) [~W]
 
 ## Related Principles
 - [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md)

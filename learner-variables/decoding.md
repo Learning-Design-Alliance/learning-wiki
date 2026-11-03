@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 140 claims (94 show a difference, 26 mixed, 20 no difference) · 92 studies (28 causal, 28 associational, 22 quant-synthesis, 8 review, 4 design, 2 theoretical), `q1`–`q4` · 30 of 92 report an effect size · 135 claims rest on one study
+> **Evidence** · 141 claims (94 show a difference, 26 mixed, 21 no difference) · 93 studies (29 causal, 28 associational, 22 quant-synthesis, 8 review, 4 design, 2 theoretical), `q1`–`q4` · 30 of 93 report an effect size · 136 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -181,6 +181,7 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Children with Autism Spectrum Disorder who had not received formal reading instruction were capable of improving word recognition ability in preparation for future reading](../claims/asd-children-capable-word-recognition-gains.md) [+W] — instruction changes it
 - [Word recognition gains from phonological awareness training were maintained at one-month follow-up with no significant decline from post-test](../claims/pa-training-gains-maintained-follow-up-asd.md) [+M] — instruction changes it
 - [During the SQ3R intervention, students' words read per minute and word recognition percentages improved, with only four students reaching the 120-words-per-minute benchmark](../claims/sq3r-intervention-improved-reading-fluency-and-word-recognition.md) [+M] — instruction changes it
+- [Sam and Pat showed no impacts for five of six subgroups, with a suggestive but non-significant positive effect on word attack decoding for lower-literacy students (effect size = 0.16)](../claims/sam-and-pat-subgroup-lower-literacy-suggestive.md) [-M] — instruction changes it
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

@@ -72,3 +72,4 @@ Independent-samples t-tests on the social studies attitude scale (Cronbach's alp
 - [WebQuest instruction does not significantly change 7th-graders' attitudes towards science compared with classical teaching](webquest-no-gain-attitude-towards-science.md) — related
 - [Reciprocal teaching produced significantly more favourable attitudes towards Islamic culture than the traditional method](reciprocal-teaching-attitudes-islamic-culture.md) — related
 - [Traditional teaching produced no statistically significant change in attitude toward physics in the control group](traditional-teaching-no-attitude-change.md) — related
+- [Peer education and traditional teaching both improved attitudes toward physical education, with no significant difference between the two groups.](peer-education-no-group-difference-pe-attitudes.md) — related

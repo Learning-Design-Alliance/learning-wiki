@@ -35,7 +35,7 @@ sources:
 # Analogical Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (11 for, 12 mixed) · 31 studies (15 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 1 design), `q1`–`q4` · 6 of 31 report an effect size · 16 claims rest on one study
+> **Evidence** · 25 claims (12 for, 13 mixed) · 32 studies (16 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 1 design), `q1`–`q4` · 6 of 32 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,6 +126,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Detailed analogies produce significantly higher post-test success in learning computer hardware than traditional instruction](../claims/detailed-analogies-improve-computer-hardware-learning.md) [+W] — attached 2026-11-01 from Dincer (2011), which proposed "Human-body analogy mapping for computer hardware parts".
 - [Most students taught with detailed analogies evaluated the technique positively, though some misinterpreted analogies](../claims/students-view-detailed-analogies-positively.md) [+W] — attached 2026-11-01 from Dincer (2011), which proposed "Pilot-test analogies, use multiple analogies per concept, and support them with pictures, videos, and figures".
 - [Analogical instruction produced significantly higher electric concept achievement than traditional instruction in 11th-grade physics](../claims/analogical-instruction-higher-electric-concept-achievement.md) [+W] — attached 2026-11-02 from Gokhan Ugur et al. (2012), which proposed "Use analogical instruction systematically in science classrooms to enhance understanding and eliminate misconceptions".
+- [Analogies taught in small groups did not produce a statistically significant difference in clinical-case exam performance compared with traditional instruction in a wound-healing unit.](../claims/analogies-small-groups-no-significant-difference-surgery.md) [~M] — attached 2026-11-03 from José Luis Jiménez Corona (2012), which proposed "Analogies as a methodology promote the transfer of knowledge in clinical subjects taught in the basic sciences cycle."; tests this page's relationship.
+- [The analogy group's distribution of correct answers differed radically from the traditional group's, suggesting student-centered methodologies may favor academic performance in Higher Education.](../claims/analogy-group-radically-different-curve-performance.md) [+W] — attached 2026-11-03 from José Luis Jiménez Corona (2012), which proposed "Analogies as a methodology promote the transfer of knowledge in clinical subjects taught in the basic sciences cycle.".
 
 ## Objective and learner-valued goal
 

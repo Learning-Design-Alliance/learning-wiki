@@ -49,3 +49,4 @@ Independent-sample t-test comparing post-test means of the randomly assigned con
 - [In the task-based ESP class, male learners significantly outperformed female learners on the technical vocabulary post-test](male-outperform-female-tblt-vocabulary.md) — related
 - [Supplemental blended learning with the Memrise app produced significantly higher post-test vocabulary scores than face-to-face instruction in Iranian EFL learners](memrise-blended-learning-vocabulary-posttest-gain.md) — related
 - [Female master's students in a Twitter-supported blended course achieved higher post-test scores than students in a 100% in-class course](twitter-blended-achievement-gain.md) — related
+- [Journal entry practice enhancement activities outperform general vocabulary exercises for learning ESP technical vocabulary](journal-entry-practice-outperforms-vocabulary-exercises.md) — related

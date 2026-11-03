@@ -47,3 +47,4 @@ Pilot phase of the same small study: native-speaker colleagues rated recorded re
 ## Related Claims
 - [The learner's first language influences target-language pronunciation and is a significant factor in foreign accents, causing errors in aspiration, intonation, and rhythm](native-language-interference-shapes-pronunciation-errors.md) — related
 - [Gains were largest in stress and pronunciation, smallest in speech-sound articulation, and about 10% of experimental students showed no progress](component-level-prosodic-gain-pattern.md) — related
+- [Connected speech is a natural feature of native-speaker English that contributes to speech naturalness and intelligibility](connected-speech-naturalness-importance.md) — related

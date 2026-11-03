@@ -89,3 +89,4 @@ Reported second-hand: Blosser's bulletin summarizes Basili and Sanford's (1991) 
 - [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](cooperative-concept-mapping-better-than-individual.md) — related
 - [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — a broader claim this one bears on
 - [Interactive engagement requires both partners' utterances to be primarily constructive and a sufficient degree of turn taking](interactive-requires-constructive-turn-taking.md) — related
+- [Group discussion and interaction quality in cooperative learning groups was deeply affected by the group leader's attitude](group-leader-attitude-affects-discussion.md) — related

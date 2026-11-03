@@ -69,3 +69,5 @@ Posttreatment family questionnaire on a 5-point Likert scale completed by 54% of
 - [PTR-YC reduces preschool children's directly observed challenging behavior more than business-as-usual](ptr-yc-reduces-observed-challenging-behavior-vs-bau.md) — related
 - [PTR-YC reduces preschool children's problem behavior more than business-as-usual, as measured by the SSIS problem behavior subscale](ptr-yc-reduces-ssis-problem-behavior-vs-bau.md) — related
 - [Typical early childhood providers implemented PTR-YC with very high fidelity, while BAU classrooms completed almost none of the process steps](ptr-yc-high-fidelity-by-typical-providers.md) — related
+- [Teachers and families rate the family-involved SDLMI as highly acceptable and socially valid](family-involved-sdlmi-social-validity-high-ratings.md) — related
+- [Teacher-to-parent communication did not affect teachers' assessments of student effort or in-class behavior](no-effect-teacher-effort-behavior-ratings.md) — related

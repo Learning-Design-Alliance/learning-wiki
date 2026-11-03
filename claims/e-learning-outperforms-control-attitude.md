@@ -49,3 +49,4 @@ Independent-samples t-test comparing post-test attitude scores of the two 32-stu
 - [Standard IX students taught with an interactive multimedia learning package show significantly higher post-test attitude towards mathematics than students taught by the traditional method](multimedia-package-higher-posttest-attitude-mathematics.md) — related
 - [Experimental-group students showed a significant increase in attitude towards mathematics from pre-test to post-test after multimedia instruction](experimental-group-significant-attitude-gain.md) — related
 - [At post-test, the e-learning experimental group significantly outperformed the control group in scientific thinking](e-learning-outperforms-control-scientific-thinking.md) — related
+- [Peer education and traditional teaching both improved attitudes toward physical education, with no significant difference between the two groups.](peer-education-no-group-difference-pe-attitudes.md) — related

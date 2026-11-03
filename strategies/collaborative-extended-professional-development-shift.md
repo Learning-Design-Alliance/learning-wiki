@@ -46,8 +46,8 @@ The article recommends replacing traditional single-day workshops with professio
 - [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](../claims/openscied-pd-shifts-teacher-beliefs-confidence.md) [+M]
 - [A half-day workshop featuring the PPH framework significantly increased dietitians' confidence to undertake pro-environmental change in their personal and professional lives](../claims/pph-workshop-increases-dietitians-pro-environmental-confidence.md) [~W]
 - [Most partner professional development relied on traditional short-term workshops with little classroom-level intensive assistance](../claims/probation-support-relies-on-traditional-workshops.md) [+M]
-- [Only 29% of control agricultural education teachers used the Science-in-CTE method and lessons one year later](../claims/science-in-cte-control-teachers-low-sustained-use.md) [+W]
-- [92% of experimental agricultural education teachers continued using Science-in-CTE materials one year after the pilot study](../claims/science-in-cte-treatment-teachers-sustained-use-one-year.md) [+W]
+- [Of the control agricultural education teachers still teaching explicit science a year later, only 2 of 7 (29%) used the Science-in-CTE method and lessons](../claims/science-in-cte-control-teachers-low-sustained-use.md) [+W]
+- [12 of the 13 experimental agricultural education teachers still teaching explicit science (92%) used Science-in-CTE materials one year after the pilot study](../claims/science-in-cte-treatment-teachers-sustained-use-one-year.md) [+W]
 - [Sustained usage rates in Science-in-CTE were consistent with those reported in the Math-in-CTE follow-up study](../claims/science-in-cte-usage-consistent-with-math-in-cte.md) [+W]
 - [80% of partnered science teachers voluntarily incorporated Science-in-CTE methods or examples into their science classes](../claims/science-teachers-voluntary-adoption-science-in-cte.md) [+W]
 
@@ -56,6 +56,7 @@ The article recommends replacing traditional single-day workshops with professio
 - [Use structured professional development workshops featuring the PPH framework to build workforce confidence for pro-environmental change](structured-pd-workshops-pph-confidence.md)
 - [Policy actions to build collaborative professional capacity through PLCs](plc-supportive-staffing-and-policy-actions.md)
 - [Collaborative Autoethnography for Teacher PD](collaborative-autoethnography-for-teacher-pd.md)
+- [Extended professional development pairing CTE teachers with science teacher partners in a community of practice](science-in-cte-extended-pd-teacher-partners.md)
 
 ## Examples
 -

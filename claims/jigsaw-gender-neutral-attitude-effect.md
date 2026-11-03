@@ -55,3 +55,5 @@ ANCOVA treatment*gender analysis in the same quasi-experiment (Table 3) failed t
 - [The jigsaw group's post-test attitude mean (24.96) exceeded the conventional group's (17.65) in estimated marginal means](jigsaw-higher-post-mean-than-conventional.md) — related
 - [Posttest achievement under jigsaw instruction did not differ significantly by gender](no-gender-difference-posttest-jigsaw.md) — related
 - [Female EFL learners attain significantly higher reading comprehension scores than male learners under question-generation strategy](female-efl-learners-outperform-males-reading-comprehension.md) — related
+- [Gender is not a significant factor in EFL learners' reading comprehension gains from debate instruction](gender-no-effect-reading-comprehension-debate.md) — related
+- [Gender is not a significant factor in EFL learners' critical thinking skill gains from debate instruction](gender-no-effect-critical-thinking-debate.md) — related

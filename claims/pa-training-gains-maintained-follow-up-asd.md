@@ -73,3 +73,4 @@ Scheffe multi-comparison tests showed gains from pre to post and pre to follow-u
 - [Non-verbal communication gains persisted at a two-month follow-up, with no statistically significant decline from post-test](peer-tutoring-asd-gains-retained-two-month-followup.md) — related
 - [A 5-week phonological awareness training program significantly improves word recognition ability in children with Autism Spectrum Disorder compared to no training](pa-training-improves-word-recognition-asd.md) — related
 - [Preschoolers with autism given a multi-component communication intervention used more social communicative utterances with their caregivers than comparison children 4 months after it ended, a small difference that was not significant immediately after intervention](scu-ccx-maintained-at-follow-up.md) — related
+- [No significant difference between post-test and one-month follow-up scores](no-significant-posttest-followup-difference.md) — related

@@ -56,3 +56,4 @@ Quasi-experimental study of 145 10th-grade students in three Turkish high school
 - [Pre-service teachers who learned ICT spreadsheets via a Semantic Web based learning environment achieved significantly higher post-test scores than those receiving traditional teaching](swbl-higher-ict-achievement-than-traditional-teaching.md) — related
 - [Before instruction, the experimental and control groups showed no statistically significant differences in mathematics report grades or parabola pretest scores](no-pretest-or-report-grade-group-differences.md) — related
 - [Prior studies reviewed in the article consistently report achievement advantages for computer-assisted mathematics teaching over traditional methods](reviewed-studies-favor-computer-assisted-math-teaching.md) — a broader claim this one bears on
+- [Teachers reported high student motivation and self-directed learning when teaching through ICT tools](teacher-reports-high-motivation-ict-teaching.md) — related

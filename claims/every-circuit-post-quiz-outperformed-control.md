@@ -49,3 +49,5 @@ Quasi-experiment in an all-female high school physics class of approximately 17 
 - [77.78% of experimental-group students reported that Every Circuit helped them better understand the circuits topic](every-circuit-self-reported-understanding.md) — related
 - [Combining analogy-based simulation with laboratory activities produces significantly higher corrected post-test achievement in simple electricity than either environment alone](combined-simulation-laboratory-beats-either-alone-electricity.md) — related
 - [Diagram-comprehension scores were already high before the treatment and showed no significant pre-to-post increase](visigarp-diagram-prepost-null.md) — related
+- [Both groups improved significantly from pre-test to post-test with no pre-existing difference between them](significant-pre-post-gains-both-esp-groups.md) — related
+- [Initial physics ability differed between the two experimental groups before treatment](initial-ability-difference-between-groups.md) — related

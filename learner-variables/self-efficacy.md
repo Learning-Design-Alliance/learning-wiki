@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 237 claims (178 show a difference, 33 mixed, 26 no difference) · 191 studies (59 associational, 55 causal, 31 review, 19 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 38 of 191 report an effect size · 233 claims rest on one study
+> **Evidence** · 238 claims (179 show a difference, 33 mixed, 26 no difference) · 192 studies (59 associational, 56 causal, 31 review, 19 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 38 of 192 report an effect size · 234 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -268,6 +268,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Following school-wide Double Check professional development, all teachers reported improved culturally responsive teaching self-efficacy, multicultural efficacy, behavior management self-efficacy, and lower stress](../claims/double-check-pd-improves-teacher-efficacy-prepost.md) [+M] — instruction changes it
 - [Self-assessed language competence increased in both groups, but perceived progress diverged among low-level students in the contrast group](../claims/self-assessed-competence-increased-both-groups.md) [~W] — instruction changes it
 - [The Debate group showed a larger descriptive gain in Self-Perceived Communicative Competence than the PI group](../claims/debate-larger-communicative-competence-gain.md) [+M] — instruction changes it
+- [Self-efficacy correlates positively with foreign language achievement measures](../claims/self-efficacy-correlates-language-achievement.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

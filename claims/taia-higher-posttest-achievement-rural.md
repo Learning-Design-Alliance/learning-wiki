@@ -75,3 +75,5 @@ One-way ANCOVA in the six-week quasi-experiment (final sample 94 students; EG n 
 - [Control group students showed score improvement attributed to after-lecture worksheets, with some showing less improvement](control-group-worksheets-improvement.md) — related
 - [PE teacher candidates taught via a WebQuest significantly outperformed lectured-and-modeled peers on posttest teaching performance in planning, implementation and evaluation skills](webquest-outperforms-lecture-pe-teaching-performance.md) — related
 - [GeoGebra instruction with guided discovery worksheets produced significantly higher quadratic functions achievement than textbook-based instruction in a randomized pretest-posttest experiment](geogebra-guided-discovery-quadratic-achievement-gain.md) — related
+- [ICT-based teaching of Astronomy and Space Physics produced higher scientific literacy scores than traditional teaching](ict-teaching-higher-scientific-literacy-scores.md) — related
+- [Scientific inquiry learning model based on conceptual change improves science process skills better than conventional learning](scientific-inquiry-conceptual-change-improves-science-process-skills.md) — related

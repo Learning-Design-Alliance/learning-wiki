@@ -51,3 +51,4 @@ Random-effects meta-analysis of 18 attitude effect sizes comparing STEM educatio
 - [STEM educational practices have a moderate positive effect on students' academic achievement compared with traditional teaching (REM ES = 0.442)](stem-practices-moderate-academic-achievement-effect.md) — related
 - [Attitude effects of STEM practices differ significantly by education level but not by publication type or lesson type](stem-attitude-moderators-education-level.md) — related
 - [Gamified clinical skill learning moderately improves student attitudes toward learning, based on a small evidence base](gamified-learning-moderate-attitude-gains.md) — related
+- [Scientific argumentation based learning improves student attitudes toward the science and technology course on the positive attitude and interest dimensions, but not on negative attitude or importance.](argumentation-improves-attitudes-partially.md) — related

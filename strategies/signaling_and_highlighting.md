@@ -62,6 +62,7 @@ Signaling works by guiding selective attention and reducing extraneous processin
 - [Annotating](../principles/annotating.md) — learner-generated marking as an active alternative to author-supplied cues
 - [Advance Organizers](../elements/advance-organizers.md) — signaling applied at the level of lesson structure rather than individual items
 - [Plan and structure video feedback around signposts and feed-forward points before recording.](plan-video-feedback-with-signposts.md)
+- [Teach signaling words to help students identify text structures](teach-signaling-words-text-structures.md)
 
 ## Examples
 - **Khan Academy** videos use on-screen writing and color emphasis synchronized with narration, cueing each step of a solution as it is explained.

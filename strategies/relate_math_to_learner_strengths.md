@@ -58,8 +58,10 @@ Connecting content to personal interest raises situational interest, which suppo
 6. **Rotate contexts** across the class's interest profile so no learner is always on the margins.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — interest-based contexts work by activating what learners already know
 - [Authentic Audiences and Purposes](../principles/authentic-audiences-purposes.md) — gives interest-based math work a real recipient and stakes
+- [Ground problem solving tasks in learners' real-world contexts to reduce extraneous cognitive load](ground-tasks-in-learners-real-world-contexts.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — the apply-back step that cements the connection

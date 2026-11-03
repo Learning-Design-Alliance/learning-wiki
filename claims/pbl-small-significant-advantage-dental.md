@@ -54,3 +54,4 @@ Subgroup analysis by teaching method (Figure 3B) in the meta-analysis; PBL appea
 - [PBL methods produce significantly better radiographic interpretation skills than traditional teaching among dental students (pooled MD 0.54)](pbl-improves-radiographic-interpretation-skills.md) — related
 - [Non-traditional teaching methods significantly improve critical thinking dispositions in nursing students compared to control groups](non-traditional-methods-improve-ct-dispositions.md) — related
 - [Drill-based, exam-oriented teaching environments are associated with negative thinking dispositions such as indifference, bias and negligence](drill-approach-negative-thinking-dispositions.md) — related
+- [Analogies taught in small groups did not produce a statistically significant difference in clinical-case exam performance compared with traditional instruction in a wound-healing unit.](analogies-small-groups-no-significant-difference-surgery.md) — related

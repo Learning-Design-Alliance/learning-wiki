@@ -65,3 +65,5 @@ Quasi-experimental study with non-equivalent groups (20 experimental, 20 control
 - [Direct instruction strategy improves basic mathematics achievement of 4th- and 5th-grade students with learning difficulties compared with traditional teaching](direct-instruction-improves-math-achievement-learning-difficulties.md) — related
 - [Active learning activities produce higher post-test achievement than traditional direct instruction in a fifth-grade English unit](active-learning-higher-posttest-achievement-my-town-unit.md) — related
 - [Learning cycle approach-based science teaching produced higher academic achievement post-test scores than teacher-centered teaching in 4th-grade students](learning-cycle-higher-achievement-posttest.md) — related
+- [The Constructivist Learning Model improved eighth-grade science achievement more than traditional teaching](clm-improves-8th-grade-science-achievement.md) — related
+- [The Constructivist Learning Model improved eighth-grade students' scientific thinking more than traditional teaching](clm-improves-scientific-thinking.md) — related

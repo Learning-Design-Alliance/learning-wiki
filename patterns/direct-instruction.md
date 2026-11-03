@@ -25,7 +25,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 56 claims (29 for, 23 mixed, 4 against) · 54 studies (22 causal, 14 quant-synthesis, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 54 report an effect size · 49 claims rest on one study
+> **Evidence** · 58 claims (30 for, 24 mixed, 4 against) · 55 studies (23 causal, 14 quant-synthesis, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 55 report an effect size · 51 claims rest on one study
 
 ## Description and scope
 
@@ -119,6 +119,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Grade 11 ESL learners who received explicit reading strategy instruction achieved statistically and practically significantly higher reading comprehension scores than control-group learners](../claims/strategy-instruction-improves-grade11-esl-reading-comprehension.md) [+W] — attached 2026-11-02 from Cekiso (2012), which proposed "Six-stage explicit reading strategy instruction session structure with before-, during- and after-reading strategy organisation"; tests this page's relationship.
 - [Explicit instruction in reading strategies was essential to bring about increased use of reading strategies by experimental-group learners](../claims/explicit-instruction-increases-reading-strategy-use.md) [+W] — attached 2026-11-02 from Cekiso (2012), which proposed "Six-stage explicit reading strategy instruction session structure with before-, during- and after-reading strategy organisation"; tests this page's relationship.
 - [Direct instruction strategy improves basic mathematics achievement of 4th- and 5th-grade students with learning difficulties compared with traditional teaching](../claims/direct-instruction-improves-math-achievement-learning-difficulties.md) [+W] — attached 2026-11-02 from Ahmad Abdulhameed Aufan Al-Makahleh (2011), which proposed "Eight-step direct instruction lesson sequence for skill mastery"; tests this page's relationship.
+- [Kindergarten teachers new to the ELM program significantly increased rates of all four evidence-based teaching practices in Year-2 relative to their Year-1 standard instruction](../claims/con-elm-teachers-increase-explicit-practices-year2.md) [+W] — attached 2026-11-03 from Doabler et al. (2018), which proposed "Embed explicit teaching practices within core mathematics programs to increase teachers' use of evidence-based practices".
 
 ## Illustrative design instance and observation record
 
@@ -205,6 +206,7 @@ This pattern is scoped to structured targets with a definable correct performanc
 - [Direct instruction strategy improves attitudes toward mathematics among students with learning difficulties](../claims/direct-instruction-improves-math-attitudes.md) [+W]
 - [Explicitly instructed learners deployed almost all compliment and compliment-response strategies, with 79.93% using at least 9 of 11 strategies](../claims/explicit-group-nine-of-eleven-strategies.md) [+W]
 - [The study could not determine which instruction type was better; per Figure 2 the implicit group slightly outperformed the explicit group by a small margin](../claims/instruction-type-comparison-inconclusive-implicit-slight-edge.md) [~W]
+- [A second year of ELM experience showed moderate but non-significant advantages for teacher demonstrations, group responses, and academic feedback, with no advantage for individual responses](../claims/second-year-elm-moderate-nonsignificant-effects.md) [~W]
 
 ## Examples
 

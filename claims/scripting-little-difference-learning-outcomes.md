@@ -54,3 +54,4 @@ The editorial reports, citing Haake and Pfister, a semester-long computer-scienc
 - [Technology affordance conditions, manipulated via device-to-student ratio and scripts, shape role emergence, role coordination, and group structure in collaboration](device-ratio-affordances-role-interaction.md) — related
 - [No differences in quality and correctness of final energy-chain diagrams between interface conditions](no-difference-final-diagram-quality-interfaces.md) — related
 - [Structured CSCL communication interfaces produced more communicative acts and more symmetrical participation than free chat](structured-cscl-interface-acts-and-symmetry.md) — related
+- [Structured collaboration did not influence assignment completion time compared to free collaboration](structured-dpp-no-completion-time-effect.md) — related

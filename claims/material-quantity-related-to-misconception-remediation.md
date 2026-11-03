@@ -45,7 +45,7 @@ Authors' interpretation from the Discussion, based on observed post-test pattern
 
 
 ## Related Claims
-- [Using videos and 3D animations both in the classroom and in homework activities provided significant impact in remedying misconceptions about basic computer units](videos-3d-animations-remedy-misconceptions.md) — a broader claim this one bears on
+- [Students who used videos and 3D animations in class or as homework gave fewer incorrect answers about basic computer units after instruction (descriptive pre-post counts, no untreated control)](videos-3d-animations-remedy-misconceptions.md) — a broader claim this one bears on
 - [Students reported that videos and 3D animations facilitated conceptual understanding via concretization, pausing, slowing down, replaying, and enlarging features](video-animation-features-student-perspectives.md) — related
 - [Vocational high school students held various misconceptions about basic computer system units, including processor, main board, ethernet card, video card, sound card, memory, hard disk, optical disks, and monitor](misconceptions-basic-computer-units.md) — related
 - [Using videos and 3D animations in classroom activities versus as homework produced no statistically significant difference in post-test conceptual understanding scores](videos-3d-animations-classroom-vs-homework-no-difference.md) — related

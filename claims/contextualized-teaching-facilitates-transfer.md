@@ -114,3 +114,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Simulation-based CRM training transfers to the workplace: three of four studies found simulation-enhanced CRM training significantly more effective than no intervention or didactic teaching](simulation-crm-training-transfers-to-workplace.md) — related
 - [Laboratory-established learning principles do not automatically translate to learning gains for all students in real classrooms](lab-principles-not-automatic-classroom-gains.md) — related
 - [Lesson observations found authentic tasks and materials contributed positively to grammatical, textual, and illocutionary competence in four of five interventions, and to sociolinguistic competence in three of five](observations-authentic-tasks-competence-contributions.md) — related
+- [Lab findings on reflection may not transfer to authentic classroom environments](lab-class-transfer-caution-reflection-quizzing.md) — related

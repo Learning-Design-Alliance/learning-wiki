@@ -78,6 +78,9 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Sustained, rigorous, relevant technology-centered PD with school-district support, collaborative facilitation, and lesson-plan sharing to promote faithful implementation](sustained-collaborative-dg-pd-design.md)
 - [Implementation recommendations for adopting pictorial teaching at scale](pictorial-teaching-implementation-recommendations.md)
 - [Districts adopting intensive data-based instruction should secure teacher support and flexibility to resolve assessment-curriculum misalignment](support-and-flexibility-when-assessments-misalign.md)
+- [Five-day teacher workshop for WRD curriculum framework training](five-day-wrd-teacher-workshop.md)
+- [Provide teacher training workshops and mentor support for virtual exchange practitioners](teacher-training-workshops-mentor-support-virtual-exchange.md)
+- [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
 
 ## Examples
 -

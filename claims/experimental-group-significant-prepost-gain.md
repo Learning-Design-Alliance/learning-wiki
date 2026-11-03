@@ -48,3 +48,4 @@ Within-group pre/post t-test for the experimental group in the same quasi-experi
 - [Paired-samples t-tests show a significant mean-score gain from pre- to post-test in the VHPI group but not in the conventional-instruction group](vhpi-significant-mean-score-gain-paired-ttest.md) — related
 - [Experimental-group achievement rose significantly from pre- to post-test while the control group's gain was not significant](ict-narratives-within-group-achievement-gain.md) — related
 - [The experimental group gained substantially in speaking scores from pre-test to post-test](experimental-group-pre-post-speaking-gain.md) — related
+- [Experimental group showed significant pre-to-post gains on vocabulary test score](experimental-group-pre-post-vocabulary-gains.md) — possibly the same claim (merge candidate)

@@ -53,3 +53,4 @@ Test successfulness histogram for the 2010 control and experimental groups (Fig.
 - [The benefit of interactive methods appeared independently of students' incoming knowledge, including weak and strong pretest performers](interactive-gains-independent-of-pretest.md)
 - [The constructive method benefited higher-performing students more, while the explicit group had a lower failure percentage](constructive-method-failure-rate-lower-performers.md) — reports the opposite
 - [CPS sections showed larger pre-posttest gains than the control group despite lower pretest preparedness](cps-larger-preposttest-gains.md) — related
+- [Experimental class shows higher average SPS observation percentages across all three meetings](experimental-class-higher-sps-observation-across-meetings.md) — related

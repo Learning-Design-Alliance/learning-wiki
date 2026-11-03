@@ -65,3 +65,4 @@ Outcome results from the randomised control study of 73 university students, in 
 - [Worked examples combined with practice writing improved clinical note checklist scores more than worked examples alone](worked-examples-plus-practice-improve-note-scores.md) — related
 - [Reflective journal writing significantly improved the learning strategies subscale of self-regulation](journal-writing-improves-learning-strategies-subscale.md) — related
 - [MSLQ learning strategy scores improved significantly pre- to post-course, with practice effects ruled out for cognitive and resource management strategies but possibly contributing to metacognitive strategy gains](ssc-improved-mslq-learning-strategies.md) — related
+- [Diary keeping has no significant effect on cognitive strategies such as rehearsal, elaboration, organization, and critical thinking](diaries-no-effect-cognitive-strategies.md) — related

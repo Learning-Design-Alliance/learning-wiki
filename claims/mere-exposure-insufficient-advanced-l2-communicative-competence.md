@@ -63,3 +63,4 @@ Diary-based self-study: the author, an advanced learner with 1.5 years in Englis
 - [A sizable repertoire of formulaic sequences benefits second-language learners, but learners are slow to close the gap with native speakers in formulaic language](formulaic-sequences-benefit-l2-learners-but-are-slow-to-acquire.md) — related
 - [Pragmatic instruction alone is insufficient for developing pragmatic comprehension in EFL contexts](pragmatic-instruction-alone-insufficient.md) — related
 - [Ongoing assessment showed students could exchange information but struggled to maintain basic conversation with the native speaker, with pronunciation and limited vocabulary as main problems](ongoing-assessment-conversation-club-limits.md) — a narrower finding that bears on this claim
+- [Student mobility alone is insufficient for developing intercultural competence in student teachers](student-mobility-insufficient-intercultural-competence.md) — related

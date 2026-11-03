@@ -48,3 +48,4 @@ Questionnaire responses of the 29 experimental-group students after their clinic
 - [Students rated mobile learning activities positively and 80% gave positive interview feedback](mobile-math-positive-student-perceptions.md) — related
 - [Students in the experimental group reported that Kahoot quizzes helped, were fun, and left them feeling positive about exam preparation](kahoot-fun-engaging-positive-experience.md) — related
 - [Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness](positive-student-response-cross-cultural-activities.md) — related
+- [73.56% of experimental-group students gave positive comments on journal entry practice in reflective compositions](majority-positive-feedback-journal-entry-practice.md) — related

@@ -64,7 +64,7 @@ This review examined 18 studies of parent-mediated interventions (PMIs) for scho
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does training the adults around a young person to deliver or support the practice improve the young person's outcomes?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **14 distinct studies** (10 quant-synthesis, 2 causal, 2 review), `q3`–`q4`, 8 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does training the adults around a young person to deliver or support the practice improve the young person's outcomes?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **15 distinct studies** (11 quant-synthesis, 2 causal, 2 review), `q3`–`q4`, 9 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -82,6 +82,7 @@ This review examined 18 studies of parent-mediated interventions (PMIs) for scho
 | [Hill & Tyson 2009](https://doi.org/10.1037/a0015362) | q3 · quant-synthesis · r? | i1 · small effect, r=.18 | [Parent involvement is associated with higher academic achievement in meta-analyses of most](parent-involvement-improves-achievement.md) (qualifies) |
 | [Castro et al. 2015](https://doi.org/10.1016/j.edurev.2015.01.002) | q3 · quant-synthesis · r? | i? | [Parent involvement is associated with higher academic achievement in meta-analyses of most](parent-involvement-improves-achievement.md) (qualifies) |
 | [Jeynes 2005](https://doi.org/10.1177/0042085905274540) | q3 · quant-synthesis · r? | i2 · medium effect, ~0.7–0.75 SD | [Parent involvement is associated with higher academic achievement in meta-analyses of most](parent-involvement-improves-achievement.md) (qualifies) |
+| [Barger et al. 2019](https://doi.org/10.1037/bul0000201) | q3 · quant-synthesis · r? | i1 · small effect, r = .13 to .23 for academic adjustment | [Parent involvement is associated with higher academic achievement in meta-analyses of most](parent-involvement-improves-achievement.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

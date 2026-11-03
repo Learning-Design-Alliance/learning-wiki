@@ -66,6 +66,7 @@ Stereotype threat operates through working-memory load and physiological stress,
 - Wise feedback — the highest-leverage single practice for threatened students receiving critical work
 - [Standardized Test Fairness and Bias](../principles/standardized-test-fairness-and-bias.md) — the fuller mechanism and evidence base this strategy responds to
 - [Deliver salient, personalized ability signals to encourage educational investments](salient-personalized-ability-signals-strategy.md)
+- [Brief in-school self-affirmation writing exercises administered before major assessments](self-affirmation-writing-exercise-strategy.md)
 
 ## Related Elements
 - [Feedback](../elements/feedback.md) — the element the wise-feedback format (high standards plus assurance of capacity) modifies

@@ -260,6 +260,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [Nine-lesson phenomenon-driven sequence: introduce phenomenon, observe, question, experiment, share data, read, revise model, extend](../designs/phenomenon-driven-nine-lesson-literacy-science-sequence.md)
 - [Data lifecycle framework for community and citizen science](../designs/data-lifecycle-framework-ccs.md) — 4th and 5th graders define questions, collect and interpret bird data, and decide on action
 - [Targeted low-resource revisions that raise the inquiry level of existing laboratory activities](../strategies/targeted-inquiry-revision-strategies.md)
+- [Implement four-phase scientific inquiry with conceptual change in physics lessons](../strategies/four-phase-scientific-inquiry-conceptual-change-strategy.md)
 
 ## Key Sources
 - Moon, J. A., & Brockway, D. (2019). Facilitating learning in an interactive science simulation: The effects of task segmentation guidance on adults' inquiry-based learning and cognitive load. *Journal of Research on Technology in Education, 51*(1), 77-100. [https://doi.org/10.1080/15391523.2019.1566038](https://doi.org/10.1080/15391523.2019.1566038)

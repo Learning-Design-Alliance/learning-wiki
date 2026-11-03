@@ -47,3 +47,4 @@ Within-group comparison of the experimental group's performance at pre-test and 
 ## Related Claims
 - [Computer assisted vocabulary instruction produces a statistically significant vocabulary gain in preschool EFL children](cavi-significant-vocabulary-gain-preschool.md) — related
 - [Experimental-group achievement rose significantly from pre- to post-test while the control group's gain was not significant](ict-narratives-within-group-achievement-gain.md) — related
+- [Experimental group showed significant pre-to-post gains on vocabulary test score](experimental-group-pre-post-vocabulary-gains.md) — possibly the same claim (merge candidate)

@@ -144,6 +144,8 @@ Grades in the targeted course, overall GPA, persistence, test anxiety and long-t
 
 ## Examples
 
+- [Brief in-school self-affirmation writing exercises administered before major assessments](../strategies/self-affirmation-writing-exercise-strategy.md)
+
 ### Illustrative
 
 **Values-affirmation writing exercise (Cohen et al. protocol)** — At the start of a term or before an exam, learners rank a list of values (relationships with family/friends, creativity, independence, membership in a social group, etc.) and spend 10–15 minutes writing about why their top-ranked value is important to them. Control groups write about why a least-important value might matter to someone else. This is the protocol used in Miyake et al. (2010) and Walton & Cohen (2011).

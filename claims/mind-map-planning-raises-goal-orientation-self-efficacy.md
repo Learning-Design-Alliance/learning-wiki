@@ -54,3 +54,4 @@ Conclusion section of the quasi-experiment (n=30 per group), consistent with the
 - [Experimental and control groups were equivalent at pre-test on all motivation dimensions except test anxiety](grid-model-pretest-equivalence-except-anxiety.md) — related
 - [Cooperative learning raised expectancy-component motivation (control of learning beliefs, self-efficacy for learning and performance) more than lecture-based teaching](cooperative-learning-expectancy-components-motivation.md) — related
 - [After the Student Success Course, test anxiety significantly decreased while intrinsic goal orientation and self-efficacy significantly increased, but task value and control beliefs did not improve](ssc-motivation-changes-test-anxiety-self-efficacy.md) — related
+- [PBL group pre-service teachers report higher self-confidence, self-efficacy, and intrinsic motivation than LBCC peers](pbl-affective-attainments-motivation.md) — related

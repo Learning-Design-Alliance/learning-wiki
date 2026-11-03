@@ -66,3 +66,6 @@ Quasi-experimental control-group study: 31 experimental learners used TMM softwa
 - [Contextual vocabulary teaching produced statistically significant pretest-to-posttest vocabulary gains in Iranian intermediate EFL learners](contextual-vocabulary-teaching-significant-gains-iranian-efl.md) — related
 - [Dynamic task-type vocabulary instruction produces significantly better vocabulary gains than static task-type instruction among intermediate EFL learners](dynamic-task-type-better-vocabulary-gains.md) — related
 - [At the start of the school year the two groups differed significantly in three vocabulary learning strategies](pilot-start-of-year-strategy-differences.md) — related
+- [Experimental group significantly outperformed control group on post-test vocabulary learning strategies questionnaire total score](experimental-group-outperformed-control-vls-posttest.md) — related
+- [Experimental group significantly outperformed control group on post-test vocabulary test score](experimental-group-outperformed-control-vocabulary-posttest.md) — related
+- [Students using the Parole vocabulary software learned more words than control students over eight weeks](parole-software-improves-vocabulary-learning.md) — related

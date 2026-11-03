@@ -52,3 +52,4 @@ Arguing a position one disagrees with forces deeper processing of the opposing v
 
 - [Boomeranging technique: argue both sides of a topic before drafting an argumentative essay](boomeranging-dual-stance-argumentation-strategy.md)
 - [Use structured classroom Debate with mandatory speaking roles to build ESL learners' willingness to communicate](structured-debate-mandatory-speaking-roles.md)
+- [Use the Meeting-House Debate strategy to instruct critical thinking skills in EFL reading classes](meeting-house-debate-strategy.md)

@@ -70,3 +70,4 @@ Table 1 marks upper MPK (PMSS 0.569 vs PK 0.332) and low MPK (PMSS 0.310 vs PK 0
 - [Metacognitive teaching-learning produced higher MLTA post-test scores and N-gain than conventional teaching among medium-MPK students, but not among low-MPK students or the total sample](mtl-better-mlta-medium-mpk-only.md) — related
 - [Students' mathematical prior knowledge strongly influences MLTA: the higher the MPK, the higher the MLTA and its N-gain in both teaching approaches](mpk-influences-mlta.md) — related
 - [No significant interaction between learning method and initial ability category on mathematical analogical gain](no-method-ability-interaction-analogical-gain.md) — reports the opposite
+- [There is an interaction between learning (SMM vs PK) and school rank in enhancing mathematical reasoning ability, with high-rank schools benefiting most from SMM](learning-school-rank-interaction-kpm.md) — related

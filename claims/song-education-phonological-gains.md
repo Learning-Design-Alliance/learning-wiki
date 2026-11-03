@@ -49,3 +49,4 @@ Questionnaire data from the 48 students (Likert scale, 15 statements) comparing 
 - [Experimental-group students reported larger cultural gains than control-group students, including respect for values and beliefs (92% vs 80%) and awareness of social issues (88% vs 71%)](song-education-cultural-gains.md) — related
 - [First-year Chinese EFL majors taught with song education scored 3.1 points higher on the Comprehensive English Course post-test than a parallel control class](song-education-post-test-advantage-efl-majors.md) — related
 - [Song education produced only slight lexico-grammatical gains, with no difference between groups on word choice and identifying good sentences](song-education-lexicogrammatical-gains-limited.md) — related
+- [Song intervention significantly improves connected speech in speaking mode](songs-improve-speaking-connected-speech.md) — related

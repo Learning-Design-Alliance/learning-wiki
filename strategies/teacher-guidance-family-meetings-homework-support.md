@@ -48,6 +48,7 @@ Based on the finding that different types of homework assistance relate differen
 - [Family Engagement In Homework](family-engagement-in-homework.md)
 - [Provide parents with concrete direction and materials for supporting their adolescent's academic work at home](concrete-academic-direction-for-parents.md)
 - [Offer Services and Events to Bring Parents into the School](offer_services_and_events_to_bring_parents_into_the_school.md)
+- [Involve families in the SDLMI through homework assistance, activity sheet conversations, and CICO cards](family-involvement-homework-activity-sheets-cico.md)
 
 ## Examples
 -

@@ -47,6 +47,7 @@ The article recommends that instructors attend to how collaborative activities a
 ## Related Strategies
 
 - [Combine process-oriented analysis with cognitive load measures to determine which transaction costs are germane or extraneous for learning](combine-process-and-clt-measures.md)
+- [Ground problem solving tasks in learners' real-world contexts to reduce extraneous cognitive load](ground-tasks-in-learners-real-world-contexts.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ The review's analysis of practice-quizzing research argues that higher-level qui
 - [Question prompts improve learning](question-prompts-improve-learning.md) — related
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
+- [Prior studies comparing quizzes or reflections against passive or ineffective-strategy controls do not establish which active method is more effective](active-active-comparisons-missing-from-prior-literature.md) — related

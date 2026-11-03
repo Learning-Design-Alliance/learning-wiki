@@ -57,3 +57,6 @@ Across the four-course comparison with pre–post measures, the article reports 
 - [In a randomised control study, university students in the combined condition (online SRL training with mobile-app diaries) improved more than participants in the other conditions](combined-srl-training-with-app-diaries-improved-more.md) — related
 - [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](self-efficacy-predicts-exam-grades-strategy-use-does-not.md) — related
 - [Measuring the impact of math instruction and interventions is key to improving students' overall math performance](measuring-math-impact-key-to-improving-performance.md) — related
+- [Diary keeping significantly increases time management strategy use of pre-service science teachers](diaries-increase-time-management-strategies.md) — related
+- [Diary keeping has no significant effect on cognitive strategies such as rehearsal, elaboration, organization, and critical thinking](diaries-no-effect-cognitive-strategies.md) — related
+- [Diary keeping significantly increases academic achievement of pre-service science teachers](diaries-increase-academic-achievement.md) — reports the opposite

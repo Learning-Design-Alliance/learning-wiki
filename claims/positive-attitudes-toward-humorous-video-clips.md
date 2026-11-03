@@ -53,3 +53,4 @@ Descriptive survey of the 33 EG participants using a modified 15-item Attitude/M
 - [Experimental-group students held predominantly positive attitudes toward using the animated sitcom for grammar learning](positive-attitudes-animated-sitcom-grammar.md) — related
 - [Teacher observations and student opinions indicated relatively positive attitudes toward using animations in vocabulary learning](positive-attitudes-toward-animation-vocabulary-learning.md) — related
 - [Participants in the experimental group held positive attitudes toward explicit instruction of lexical chunks](positive-attitudes-toward-lexical-chunks-instruction.md) — related
+- [Students held positive attitudes toward mobile-assisted vocabulary exercises, with an overall mean of 3.98 on a five-point scale](positive-attitudes-mobile-vocabulary-exercises.md) — related

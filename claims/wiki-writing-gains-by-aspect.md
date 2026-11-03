@@ -49,3 +49,5 @@ Table 2 reports independent-samples t-tests per TBWS aspect, each significant at
 - [The Experimental group significantly outperformed the Control group on each post-test variable, including Content, Organization, Expression and Mechanical Accuracy](process-approach-posttest-all-variables.md) — related
 - [Wiki-based instruction reduces writing anxiety of EFL business students relative to traditional instruction](wikis-reduce-writing-anxiety-efl.md) — related
 - [Drama-based instruction produced statistically significant gains on all five writing aspects: thesis statement, unity, completeness and coherence, wording and cohesion, and organization](drama-instruction-significant-all-five-writing-aspects.md) — related
+- [Wiki-based writing environments increase EFL writing achievement in content compared with traditional pen-and-paper process writing.](wiki-based-writing-increases-efl-content-achievement.md) — related
+- [Both wiki-based and traditional pen-and-paper process-based writing instruction improve EFL writing achievement across all measured subskills.](process-based-writing-improves-all-efl-writing-subskills.md) — related

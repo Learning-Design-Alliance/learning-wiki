@@ -67,3 +67,4 @@ The essay reports, citing Szpunar et al. (2013), a comparison of interpolated-qu
 - [Instructor visuals do not reduce mind wandering during video lectures](instructor-visuals-no-mind-wandering-reduction.md) — related
 - [The benefit of multimedia pre-lectures depends on cognitive level of the question, largest for understanding (Level-2) and analyzing (Level-4)](prelecture-benefit-depends-cognitive-level.md) — related
 - [Students performed significantly better on comprehension questions after live lecture than after pre-recorded lecture](live-lecture-better-comprehension-questions.md) — related
+- [Lecturer-generated summaries spliced into online video lectures improve student recall of lecture content on quizzes](lecturer-generated-summaries-improve-video-recall.md) — related

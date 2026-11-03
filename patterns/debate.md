@@ -29,7 +29,7 @@ sources:
 # Debate
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 25 claims (4 for, 18 mixed, 3 against) · 33 studies (14 causal, 7 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 5 of 33 report an effect size · 18 claims rest on one study
+> **Evidence** · 26 claims (5 for, 18 mixed, 3 against) · 34 studies (15 causal, 7 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 5 of 34 report an effect size · 19 claims rest on one study
 
 ## Description and scope
 
@@ -137,6 +137,11 @@ This pattern is scoped to structured adversarial argument on a question that adm
 - [Behaviorally, the asynchronous and quasi-synchronous debates were more alike each other than either was to the synchronous debate](../claims/async-quasi-sync-behaviorally-alike.md) [~W]
 - [The quasi-synchronous debate had a unique dialectical structure, with declarative statements skewed toward the beginning unlike the more even distribution in the other modalities](../claims/quasi-sync-unique-dialectical-structure.md) [~W]
 - [The difference in argumentative representation competence between the experimental and control classes was not significant](../claims/argumentative-difference-not-significant.md) [-W]
+- [The vast majority of EFL learners perceive debate instruction as effective for developing critical thinking skills](../claims/students-perceive-debate-effective-for-ct.md) [+W]
+
+## Examples
+
+- [Use the Meeting-House Debate strategy to instruct critical thinking skills in EFL reading classes](../strategies/meeting-house-debate-strategy.md)
 
 ## Related Patterns
 - [Socratic Seminar](../elements/socratic-seminar.md)

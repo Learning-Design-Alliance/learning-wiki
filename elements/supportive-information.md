@@ -81,6 +81,7 @@ Supportive information reduces extraneous cognitive load by externalizing the "w
 - **Harvard Business School Case Method** — Introduces analytical frameworks like Porter’s Five Forces as supportive information prior to the messy, open-ended case discussion.
 - **Medical PBL** — Provides diagnostic frameworks and decision-trees as supportive information before students are presented with undifferentiated clinical cases.
 - [Present supportive information in hypermedia systems to support elaboration and mindful abstraction](../strategies/hypermedia-supportive-information-elaboration-strategy.md)
+- [Train oral presentation techniques then provide repeated real application opportunities](../strategies/presentation-techniques-plus-repeated-application.md)
 
 ## Key Sources
 - Reigeluth, C. M. (1999). *Instructional-design theories and models: A new paradigm of instructional theory*. Lawrence Erlbaum Associates.

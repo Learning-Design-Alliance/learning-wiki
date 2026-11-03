@@ -51,3 +51,4 @@ Descriptive comparison in Table 2 (N = 45 per group): experimental means 53.26 (
 - [ELBRCS intervention produced a significant group-by-interval interaction in Reading Comprehension Test scores favouring the experimental group over the control group](elbrcs-significant-interaction-rct-scores.md) — related
 - [Post-test reading comprehension means were 87.72 for the trained group versus 72.32 for the control group](speed-reading-posttest-means-87-72-vs-72-32.md) — related
 - [Students using DynEd learned 53% more than control-group students taught by teachers alone](dyned-53-percent-more-learning.md) — related
+- [Experimental group mean scientific literacy score of 21.3967 versus control group mean of 11.8943](experimental-mean-21-4-versus-control-11-9.md) — related

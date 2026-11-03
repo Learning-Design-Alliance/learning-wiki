@@ -56,3 +56,4 @@ Semi-experimental pre-test post-test control group study; independent samples t-
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [SRL support modules (progress dashboard and reflection prompts) in a flipped unit produced higher SRL skills, engagement, and learning performance than control](yoon-2021-srl-modules-fc-benefits.md) — related
 - [PBL produced significantly higher mixtures achievement than teacher-centered traditional instruction in 10th-grade chemistry](pbl-beats-traditional-mixtures-achievement.md) — related
+- [Pre-service teachers in PBL groups achieve significantly higher post-test scores than those in lecture-based computer course groups](pbl-higher-achievement-than-lbcc-pre-service-teachers.md) — related

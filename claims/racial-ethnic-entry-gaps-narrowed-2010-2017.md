@@ -56,3 +56,4 @@ Regression-estimated standardized gaps by year and subject using weighted MAP Gr
 - Simulations of closing Black-Hispanic-White gaps in educational participation project increased net public benefits of $20.2 to $72.6 billion per year. — related
 - [Kindergarteners in 2017 had moderately lower math and reading skills at school entry than kindergarteners in 2010](kindergarten-entry-skills-lower-2017-than-2010.md) — related
 - [Children's academic achievement at kindergarten entry has declined, per the article's abstract](declining-achievement-kindergarten-entry.md) — related
+- [Self-affirmation eliminated the Hispanic students' reading and mathematics deficit observed in the comparison group](self-affirmation-erased-hispanic-test-score-gap.md) — related

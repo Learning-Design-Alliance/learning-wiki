@@ -54,3 +54,4 @@ Teachers rated whether the LSC helped, hindered, or made no contribution in eigh
 - [Stakeholders reported parents became less involved in schools after the 1988 reform act, despite the act's involvement goal](parent-involvement-declined-after-reform-act.md) — related
 - [Teachers' most negative reports concern student behavior, which more teachers say has gotten worse than better](student-behavior-most-negative-teacher-reports.md) — related
 - While most parents agree they can influence school decisions, fewer than one-fifth report their school offers opportunities to provide input on classroom or schoolwide decisions — related
+- [Teacher-to-parent communication did not affect teachers' assessments of student effort or in-class behavior](no-effect-teacher-effort-behavior-ratings.md) — related

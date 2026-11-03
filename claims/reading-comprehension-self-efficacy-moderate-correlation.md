@@ -53,3 +53,4 @@ Pearson correlation analysis of post-test scores in the same 78-student study. T
 - [All ten sub-factors of the L2 motivational self-system correlate significantly and positively with L2 self-efficacy](ten-motivation-subfactors-correlate-self-efficacy.md) — related
 - [Post-game competence, effort, and deep-learning strategy use correlate significantly with pre-game measures, but interest does not](pre-post-motivation-correlations-stability.md) — related
 - [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](six-strong-component-skills-adult-reading-comprehension.md) — related
+- [Self-efficacy correlates positively with foreign language achievement measures](self-efficacy-correlates-language-achievement.md) — a broader claim this one bears on

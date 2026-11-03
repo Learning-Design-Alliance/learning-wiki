@@ -53,3 +53,5 @@ Quasi-experimental posttest-only study with control group; 18 sections cluster-r
 - [ANCOVA of post-test scores covarying pre-test scores confirms the ITS group outperformed the face-to-face group](ancova-posttest-its-group-effect.md) — a broader claim this one bears on
 - [Computer-based science and technology instruction produces significantly higher corrected post-test problem solving skill scores than traditional teaching](cbi-improves-problem-solving-skills.md) — related
 - [Online algorithm visualization treatment produced higher achievement-test scores than traditional instruction in an introduction to programming course](oav-higher-achievement-than-traditional.md) — related
+- [Integrating the CPS strategy into a web-based cooperative learning environment produced significantly better problem-solving attitudes than web-based cooperative learning alone or traditional lecturing in an accounting course](cps-web-based-cl-improves-problem-solving-attitudes-accounting.md) — related
+- [CBPSI significantly improved problem solving performance of Grade 10 learners from pre-test to post-test](cbpsi-improves-problem-solving-performance-grade-10.md) — related

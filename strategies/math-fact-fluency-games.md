@@ -65,6 +65,7 @@ Fluency games work because they embed high-frequency retrieval practice in a mot
 - Number Talks — builds the conceptual derivation strategies that games then automatize
 - Spaced Retrieval Practice — the scheduling principle that governs which facts to revisit and when
 - [Properly administered speed drills in arithmetic to improve both amount done correctly and accuracy](speed-drills-improve-addition-accuracy.md)
+- [Use computer games as a supplementary practice method for basic mathematics skills](computer-games-supplementary-math-practice.md)
 
 ## Examples
 - **[Reflex Math](https://www.reflexmath.com)** — adaptive digital game system that individualizes fact selection and coaches retrieval until automatic.

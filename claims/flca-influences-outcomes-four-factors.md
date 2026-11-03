@@ -60,3 +60,4 @@ Findings from this qualitative case study of two Japanese EFL learners indicated
 - [Higher initial self-efficacy increased the odds of students reporting that accomplishing the problems increased their self-efficacy](higher-initial-self-efficacy-predicts-accomplishing-it.md) — related
 - [Students' perceptions of interactions with their teacher lay the stage for future interactions and ultimately influence students' success in school](student-perceptions-stage-future-interactions-school-success.md) — a narrower finding that bears on this claim
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
+- [Self-efficacy correlates positively with foreign language achievement measures](self-efficacy-correlates-language-achievement.md) — related

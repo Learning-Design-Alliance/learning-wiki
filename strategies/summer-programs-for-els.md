@@ -46,6 +46,7 @@ Because EL groups lost more learning during summers than never-ELs despite faste
 ## Related Strategies
 
 - [Provide summer support to help English Learners maintain and develop academic skills](summer-support-english-learners-skill-maintenance.md)
+- [Provide summer reading and writing opportunities to maintain school-year gains for at-risk students](summer-reading-opportunities-maintain-gains.md)
 
 ## Examples
 -

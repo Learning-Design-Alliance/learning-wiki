@@ -18,7 +18,7 @@ sources:
 # Strengthen ties between teachers and parents rather than pressing for remote sanctions behind teaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (22 for, 7 mixed) · 24 studies (8 causal, 5 quant-synthesis, 5 review, 4 associational, 2 qualitative), `q1`–`q4` · 9 of 24 report an effect size · 25 claims rest on one study
+> **Evidence** · 30 claims (23 for, 7 mixed) · 25 studies (9 causal, 5 quant-synthesis, 5 review, 4 associational, 2 qualitative), `q1`–`q4` · 9 of 25 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,6 +126,7 @@ Claims this page cited before the rewrite, and others found while rewriting it, 
 - [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](../claims/funds-of-knowledge-research-raises-teacher-expectations.md) [+W] and [Home visits in funds of knowledge research led teachers to see culture as a dynamic process rather than only dances, food and folklore.](../claims/home-visits-shift-teacher-views-of-culture-to-dynamic-process.md) [+W] — an ERIC digest's qualitative report of teacher change through household visits, `q1`; bears on what visits do to the teacher, which [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) owns. Its studies table counts 3 distinct studies, but two of the rows are the same Mathematica home-visit study reported twice.
 - [TAPP improves school-related behavioral problems per teacher ratings in the rural trial (effect size = +0.45)](../claims/tapp-rural-trial-behavior-problems-improvement.md) [+M] — used in step 7; teacher-rated, so not independent of the teacher's view of the relationship.
 - [Explicit direction to interview parents and share data was needed because implicit direction to consider parental needs did not establish substantive parent interaction](../claims/explicit-family-direction-needed.md) [+W] — attached 2026-11-02 from Accardo et al. (2020), which proposed "Teacher preparation programs should embed explicit family collaboration projects into clinical practice coursework".
+- [Teacher-to-parent communication increases the probability that students earn course credit in a summer credit recovery program](../claims/teacher-parent-communication-increases-credit-earning.md) [+M] — attached 2026-11-03 from Matthew A. Kraft et al. (2013), which proposed "Deliver weekly individualized teacher-to-parent messages about student performance as a low-cost intervention to support course completion".
 
 ## Objective and learner-valued goal
 

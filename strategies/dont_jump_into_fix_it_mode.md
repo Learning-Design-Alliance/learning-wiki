@@ -64,6 +64,7 @@ Premature solutions undermine the autonomy that fuels intrinsic motivation; supp
 - [Action Planning](../strategies/action_planning.md) — the structured follow-on once a student has chosen a course of action
 - [Select and train motivational mentors who regulate their own motivation and use autonomy-supportive behaviors](select-train-autonomy-supportive-motivational-mentors.md)
 - [Adult and peer scaffolding to sustain young children's interest and persistence with computer tasks](adult-peer-scaffolding-computer-tasks.md)
+- [Integrate the four core motivational interviewing skills into role-play conversations with virtual humans.](motivational-interviewing-role-play-strategy.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the facilitative stance that replaces directive problem-solving

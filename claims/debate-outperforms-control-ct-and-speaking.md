@@ -73,3 +73,5 @@ Independent sample t-test comparing speaking posttests of the debate group (mean
 - [A debate model in yellow book learning can increase students' critical thinking skills relative to conventional learning models](debate-model-increases-critical-thinking-yellow-book.md) — related
 - [ESP university students taught with the 6+1 trait writing model had a higher critical thinking post-test mean than control-group peers, with no between-group test reported](six-plus-one-trait-model-critical-thinking-posttest-advantage.md) — related
 - [Posttest speaking and writing achievement was significantly higher for students taught through short stories than for control-group students](short-stories-posttest-mean-difference.md) — related
+- [Instructing critical thinking through debate significantly improves EFL learners' critical thinking skills compared to lecturing](debate-improves-efl-critical-thinking-skills.md) — related
+- [Instructing critical thinking through debate significantly improves EFL learners' reading comprehension compared to lecturing](debate-improves-efl-reading-comprehension.md) — related

@@ -55,9 +55,11 @@ Purpose-setting is a form of [Activation](../principles/activation.md): it prime
 5. Debrief against the purpose: did the text answer it? What was left open?
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the companion pre-reading move; purpose directs attention, activation supplies content to connect it to
 - [Advance Organizers](../elements/advance-organizers.md) — structural pre-reading frames that pair naturally with purpose statements
 - [KWL](../strategies/kwl.md) — a routinized format in which "What do I want to find out?" is the purpose step
+- [Use hypertext gloss software with clear task goals and salient, carefully consulted annotations](hypertext-gloss-annotation-consultation-strategy.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — students set a purpose question before each passage segment, then summarize and clarify against it.

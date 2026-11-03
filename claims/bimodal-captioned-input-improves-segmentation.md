@@ -49,3 +49,4 @@ The article attributes this finding to Charles and Trenkic (2015), saying the im
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
 - [Captioning second-language videos produces large benefits for comprehension and vocabulary acquisition](captioning-second-language-videos-large-benefits.md) — a broader claim this one bears on
 - [Pronunciation of words by a narrator or by the learner inhibits foreign vocabulary learning](pronunciation-inhibits-vocabulary-learning.md) — related
+- [Providing captions of any type improved general listening comprehension of EFL students compared with no captions](captions-any-type-effective-listening.md) — a narrower finding that bears on this claim

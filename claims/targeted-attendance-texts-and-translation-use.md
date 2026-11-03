@@ -69,3 +69,4 @@ Descriptive analysis of message language in the platform data (figure 7). Other 
 - [Existing MLL-focused edtech overwhelmingly offers English and Spanish, with a third offering only those two languages](mll-edtech-landscape-english-spanish-dominant.md) — related
 - A coordinated communication campaign in Texas was followed by nearly 1 million families logging into the assessment portal — related
 - [Translation features in mobile apps enabled direct communication between educators and parents who speak languages other than English](app-translation-features-direct-communication.md) — related
+- [Implementation of assigned communication was incomplete but high for weekly messages](communication-implementation-fidelity.md) — related

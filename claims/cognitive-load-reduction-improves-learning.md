@@ -142,3 +142,4 @@ Concrete load-reduction levers documented elsewhere in this wiki include [chunki
 - [Reducing extraneous cognitive load is not a significant moderator of drawing support effects on comprehension](extraneous-load-reduction-non-significant-moderator.md) — related
 - [Incorporating interacting elements into a diagrammatic schema reduces cognitive load and enhances understanding](diagrammatic-schema-reduces-load-enhances-understanding.md) — possibly the same claim (merge candidate)
 - [DHH students suggest applying spatial contiguity between interpreter and visuals to reduce split attention](dhh-spatial-contiguity-interpreter-visuals.md) — a narrower finding that bears on this claim
+- [Learners in the integrated-format condition experienced fewer cognitive-load challenges than learners in the split-attention condition](split-attention-integrated-format-fewer-challenges.md) — a narrower finding that bears on this claim

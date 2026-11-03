@@ -57,3 +57,5 @@ Posttest t-test analysis of the same two intact sections (control N 26, treatmen
 - [Ninth-grade students taught Newton's Laws through project-based learning game techniques scored significantly higher on a concept achievement post-test than students taught by traditional methods](pbl-game-techniques-higher-physics-posttest.md) — related
 - [Experiential learning-based Mathematics teaching material improves fifth-graders' Mathematics cognitive ability more than conventional teaching material](experiential-material-improves-math-cognitive-ability.md) — related
 - [Fifth-graders taught with PAIKEM achieved higher mathematics learning results than those taught with conventional methods](paikem-outperforms-conventional-mathematics-outcomes.md) — related
+- [The Constructivist Learning Model improved eighth-grade students' scientific thinking more than traditional teaching](clm-improves-scientific-thinking.md) — related
+- [The Constructivist Learning Model improved eighth-grade science achievement more than traditional teaching](clm-improves-8th-grade-science-achievement.md) — related

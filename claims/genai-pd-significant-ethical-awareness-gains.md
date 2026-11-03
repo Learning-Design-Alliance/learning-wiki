@@ -57,3 +57,4 @@ Quantitative pre- and post-program testing in the convergent mixed-methods study
 - [Largest professional development gains occur in practical application (+27%) and critical evaluation (+26%), with ethical awareness showing the smallest gain (+18%)](pd-gains-largest-application-evaluation-smallest-ethics.md) — reports the opposite
 - [All participants intended to continue integrating AI into teaching and to recommend the institute, and 70% had already begun implementing AI-enhanced tools or assignments](ubridge-implementation-intentions.md) — related
 - [Instructors' moral awareness and intention grow parallel with institutional and social support](instructor-moral-awareness-intention-institutional-social-support.md) — related
+- [Virtual exchange participation develops student teachers' digital-pedagogical competence (TPACK)](virtual-exchange-develops-tpack-student-teachers.md) — related

@@ -47,3 +47,4 @@ Quasi-experiment with 48 first-year English majors in two parallel classes (24 e
 ## Related Claims
 - [Experimental-group students reported larger phonological gains than control-group students, especially in managing English speech rhythm (92% vs 79%)](song-education-phonological-gains.md) — related
 - [Viola students taught with Erzurum folk songs adjusted to viola scored significantly higher on viola playing skills at post-test than control students taught transposed works](erzurum-folk-song-viola-post-test-advantage.md) — related
+- [English verbal songs significantly improve connected speech aspects of adult EFL learners' speech production](english-verbal-songs-improve-connected-speech-production.md) — related

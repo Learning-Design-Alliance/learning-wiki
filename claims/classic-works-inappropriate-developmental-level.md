@@ -48,3 +48,4 @@ Authors' interpretation in the Discussion section, not a tested result: they sug
 - [A 10-week reading program combining quality children's books and metacognitive strategy instruction raised eighth-grade students' self-esteem more than typical non-quality books](quality-books-metacognitive-strategy-raise-self-esteem.md) — related
 - [The authors argue that conventional reading classes with no strategies cannot improve reading performance](conventional-strategy-free-reading-classes-ineffective.md) — related
 - [Computers can have negative effects on children when use is excessive, software is age-inappropriate, or use is unsupervised](computer-negative-effects-unsupervised-use.md) — related
+- [Small sample size and slight pretest imbalance may have masked potential positive effects of computer games](small-sample-limits-game-effect-detection.md) — related

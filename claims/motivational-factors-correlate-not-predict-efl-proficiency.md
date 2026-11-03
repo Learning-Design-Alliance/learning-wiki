@@ -92,3 +92,4 @@ The same multiple regression on motivational factors found no significant predic
 - [Psychosocial factors (social networks, anxiety, depression) do not predict GPA in older learners](psychosocial-factors-not-predict-gpa-older-learners.md) — related
 - [No correlation between motivation or engagement measures and tutor learning gains](no-correlation-motivation-learning-gain.md) — related
 - [Speaking proficiency and speaking anxiety were significantly negatively correlated at posttest](speaking-proficiency-anxiety-negative-correlation.md) — related
+- [Self-efficacy correlates positively with foreign language achievement measures](self-efficacy-correlates-language-achievement.md) — a broader claim this one bears on

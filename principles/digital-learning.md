@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 92 claims (39 for, 47 mixed, 6 against) · 101 studies (24 causal, 23 review, 18 theoretical, 16 quant-synthesis, 7 associational, 7 qualitative, 6 design), `q1`–`q4` · 14 of 101 report an effect size · 81 claims rest on one study
+> **Evidence** · 94 claims (40 for, 48 mixed, 6 against) · 103 studies (26 causal, 23 review, 18 theoretical, 16 quant-synthesis, 7 associational, 7 qualitative, 6 design), `q1`–`q4` · 14 of 103 report an effect size · 83 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,7 @@ Claims read against this model that bear on it only at the edges, or not at all.
 - [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](../claims/osp-community-remixed-75-ejs-models.md) [+W]
 - [The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education](../claims/osp-overcomes-ict-barriers.md) [+W]
 - [Tertiary institutions face substantial ICT infrastructure constraints, with 54.2% of colleges lacking well-equipped computer laboratories and only 46% ICT usage reported](../claims/ict-infrastructure-constraints-tertiary-colleges.md) [~M] — attached 2026-10-31 from Gloria Mothibi (2015), which proposed "Provide adequate ICT infrastructure to facilitate e-learning in higher education, because the meta-analytic effect size indicates this can substantially improve learning and achievement".
+- [Multimedia materials alone are insufficient: attitude changes required interactivity and hands-on use](../claims/interactivity-hands-on-required-attitude-change.md) [+W] — attached 2026-11-03 from Záhorec et al. (2010), which proposed "Multimedia teaching materials must offer interactivity and hands-on student use to influence attitudes"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -209,6 +210,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [School administration reported practical difficulties with tablet implementation, including teacher workload, battery life, and off-task device use](../claims/tablet-implementation-difficulties-administration.md) [~W]
 - [Effects of ICT-based teaching persisted at retest, with results similar to the post-test stage](../claims/ict-tourism-retest-durability.md) [~W]
 - [The iPad intervention used researcher-built educational software with Google Earth, Keynote, YouTube and educational games over six weeks](../claims/ipad-social-studies-educational-software-element.md) [~W]
+- [The mere presence of computers in schools is insufficient to improve mathematics grades without adequate utilisation](../claims/computer-presence-insufficient-without-utilisation.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

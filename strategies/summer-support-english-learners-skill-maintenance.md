@@ -47,6 +47,7 @@ The article's forward-looking recommendation drawn from its seasonal findings: b
 - [Provide summer learning opportunities as a lever for improving educational outcomes for students with disabilities](summer-learning-opportunities-students-disabilities.md)
 - [Offer summer and out-of-school-time programs for current-ELs and dually-identified students](summer-programs-for-els.md)
 - [Provide English learner-specific summer learning and staff accelerated learning programs with EL specialists](el-specific-summer-learning-and-el-specialist-staffing.md)
+- [Provide summer reading and writing opportunities to maintain school-year gains for at-risk students](summer-reading-opportunities-maintain-gains.md)
 
 ## Examples
 -

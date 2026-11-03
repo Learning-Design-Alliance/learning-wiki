@@ -69,3 +69,4 @@ Log analysis of Aalto deployment attempts on safe_integer. Ordering errors were 
 - [Exception-type confusion was the dominant difficulty pattern in SafeDivide at the University of Houston (90% of incorrect attempts) and persisted across harder problems in both deployments](exception-type-confusion-dominant-pattern.md) — related
 - [Students across both deployments substituted return statements for exception-raising constructs, treating error conditions as reasons to exit early](return-for-raise-substitution-pattern.md) — related
 - [State revisits within solving sessions were rarer in the Pulla deployments (6–12% of UH sessions, 0–3% at Aalto) than the 21–33% previously reported for similar Parsons tasks](state-revisits-rare-in-pulla-deployments.md) — related
+- [Most error types in financial mathematics pre-tests involved confusing accumulated amount with interest or selecting the wrong formula](financial-mathematics-error-types-reverse-and-formula.md) — related

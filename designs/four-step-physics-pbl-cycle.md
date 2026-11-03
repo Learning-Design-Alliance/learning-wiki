@@ -46,6 +46,7 @@ The article describes a four-step Physics PBL sequence used in both the inverted
 
 - Problem Based Learning
 - [Hmelo-Silver's four-step PBL implementation model applied to vocabulary tasks](hmelo-silver-pbl-implementation-model-vocabulary.md)
+- [PBL course structure with weekly problem situations, small-group problem-solving plans, and end-of-week solution presentations](pbl-weekly-problem-cycle-small-groups.md)
 
 ## Examples
 -

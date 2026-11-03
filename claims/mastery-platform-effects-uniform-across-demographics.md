@@ -54,3 +54,4 @@ Moderation analysis within the same longitudinal panel study examined treatment 
 - [The exam playbook intervention showed no statistically significant treatment-effect differences by gender, race, class standing, or prior performance](exam-playbook-no-subgroup-treatment-differences.md) — related
 - [Student test effort differs substantially across student gender and racial subgroups](test-effort-differs-across-gender-racial-subgroups.md) — related
 - [The OCR program shows a positive differential impact for Hispanic students](ocr-positive-differential-impact-hispanic-students.md) — reports the opposite
+- [Gender and ethnicity moderated the impact of self-affirmation rather than a uniform main effect](self-affirmation-moderated-by-gender-ethnicity.md) — related

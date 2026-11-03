@@ -55,3 +55,5 @@ Paired sample t-test analysis within the experimental group (n=30, df=29) in the
 - [In the private-school experimental group only test anxiety changed significantly from pre-test to post-test, decreasing; pre-post differences on the other motivation dimensions were not statistically significant](grid-model-private-school-test-anxiety-decrease.md) — a narrower finding that bears on this claim
 - [Mind-map task planning raises pre-service teachers' intrinsic goal orientation and self-efficacy more than direct task completion](mind-map-planning-raises-goal-orientation-self-efficacy.md) — related
 - [Pre-service teachers' open-ended responses most frequently attribute to mind-map planning effects on metacognitive self-regulation, concentration and planned study](mind-map-planning-qualitative-views-metacognition.md) — related
+- [Diary keeping significantly increases time management strategy use of pre-service science teachers](diaries-increase-time-management-strategies.md) — related
+- [Diary keeping significantly increases academic achievement of pre-service science teachers](diaries-increase-academic-achievement.md) — related

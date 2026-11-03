@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-03
 sources:
   - id: shafaei-2015
     resource: "https://www.urmia.ac.ir/ijltr"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The experimental group scored significantly higher on delayed post-tests administered five weeks after each post-test, except in module 3 where the difference was not statistically significant. [→ Shafaei 2015](#shafaei-2015)
@@ -58,3 +59,5 @@ Delayed post-tests (weeks 7-11) measured retention five weeks after each post-te
 - [Length of exposure to CALL (15 vs 30 minutes) shows no significant difference in immediate grammar gain but favours the longer-exposure group on the delayed post-test](call-exposure-length-delayed-advantage.md) — related
 - [Experimental-group EFL students taught with working memory strategies significantly outperformed control-group students on a vocabulary post-test](wm-strategies-improve-efl-vocabulary-retention.md) — related
 - [The structural group retained significantly more vocabulary than the contextual group on the delayed retention test, except among high achievers](retention-test-structural-advantage-except-high-achievers.md) — related
+- [Experimental group significantly outperformed control group on post-test vocabulary learning strategies questionnaire total score](experimental-group-outperformed-control-vls-posttest.md) — related
+- [Parole users retained more vocabulary twelve weeks after instruction than control students](parole-software-improves-vocabulary-retention.md) — related

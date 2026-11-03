@@ -54,3 +54,4 @@ Error-type breakdown of the same GPT-4 diagnosis analysis across all tutoring to
 - [LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone](llm-misconception-analysis-reveals-insights-beyond-performance-data.md) — related
 - [GPT-4 identified a correct answer choice for nearly all generated questions, with a minority of spelling or selection errors](gpt4-correct-answer-choices-97-percent.md) — related
 - [Direct feedback on each possible error in multiple-choice questions improves performance on similar problems](error-specific-feedback-improves-similar-problems.md) — related
+- [Most error types in financial mathematics pre-tests involved confusing accumulated amount with interest or selecting the wrong formula](financial-mathematics-error-types-reverse-and-formula.md) — related

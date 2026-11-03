@@ -50,3 +50,4 @@ ANCOVA on post-test FAAT scores in the 4-week pre-test-post-test-control group e
 - [Junior secondary students taught algebraic expressions with card games and algebra tic-tacmatics achieved significantly higher adjusted post-test scores than students taught by conventional lecture method](games-enhance-algebraic-expressions-achievement-js2.md) — related
 - [Treatment-group students scored a mean of 70.12 versus 48.03 for conventionally taught students on the Literature-in-English Achievement Test](lat-descriptive-means-treatment-control.md) — related
 - [Cooperative learning students significantly outperformed conventional-approach students in financial accounting achievement after a four-week treatment](cooperative-learning-improves-financial-accounting-achievement.md) — related
+- [Pretest scores strongly predict posttest essay performance in the planning experiment](pretest-covariate-strong-effect-essay-posttest.md) — related

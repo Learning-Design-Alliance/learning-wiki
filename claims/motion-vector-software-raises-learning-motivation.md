@@ -54,3 +54,4 @@ Quasi-experiment motivation measure: pre-test means nearly equal (3.05 vs 3.03, 
 - [OER-based blended learning with Quipper School raised grade XI physics students' attention motivation significantly higher than face-to-face classroom learning](oer-blended-quipper-attention-motivation.md) — related
 - [Students taught with experiments perceived less cognitive load than students taught by traditional method](experiment-method-lower-perceived-cognitive-load.md) — related
 - [Computer assisted instruction with Derive reduced misconceptions and raised understanding across all six derivative attainments](derive-instruction-reduces-derivative-misconceptions.md) — related
+- [The proposed technique of active means and active learning methods increases the level of the motivational component of learners' cognitive activity in physics teaching](active-technique-increases-motivational-component-physics.md) — related

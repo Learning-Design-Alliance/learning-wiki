@@ -51,3 +51,4 @@ Quasi-experimental nonequivalent control group factorial study of 67 undergradua
 - [Learning strategy and achiever motivation interact significantly on cognitive study outcomes](strategy-motivation-interaction-cognitive-outcomes.md) — related
 - [Text-based STAD cooperative learning produces better affective learning outcomes than web-based STAD](text-based-stad-better-affective-outcomes.md) — related
 - [Students with high achiever motivation obtain significantly better cognitive study outcomes than students with low achiever motivation](high-achiever-motivation-better-cognitive-outcomes.md) — related
+- [Integrating the CPS strategy into a web-based cooperative learning environment produced significantly better problem-solving attitudes than web-based cooperative learning alone or traditional lecturing in an accounting course](cps-web-based-cl-improves-problem-solving-attitudes-accounting.md) — related

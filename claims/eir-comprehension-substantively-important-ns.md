@@ -72,3 +72,4 @@ WWC calculations for the Taylor et al. (1991) randomized controlled trial (Appen
 - [The effect on SAT math scores was positive but not statistically significant, though large enough to be substantively important (effect size at least 0.25)](core-plus-sat-math-substantively-important.md) — related
 - Reading Go! showed positive but not statistically significant effects on reading comprehension — related
 - [The guide treats an effect size of +0.25 or higher as substantively important, equivalent to raising performance at least 10 percentile points](effect-size-025-substantively-important-threshold.md) — a broader claim this one bears on
+- [At-risk first graders who received 47 hours of one-on-one tutoring read significantly more proficiently than matched at-risk non-tutored peers](one-on-one-tutoring-improves-at-risk-first-grade-reading.md) — related

@@ -225,6 +225,7 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - [Sequence CBPS problems from easy to complex and monitor individual progress](../strategies/cbps-problem-difficulty-sequencing-strategy.md)
 - [Introduce authentic listening materials to lower-level learners by simplifying the task, grading the text, and staging the listening](../strategies/task-simplification-grading-staging-authentic-listening.md)
 - [Emergence theory as a framework for teaching compromise skills](../designs/emergence-theory-curriculum-framework.md)
+- [Apply mind mapping in mathematics teaching through overview, preview, inview, and review stages](../strategies/mind-mapping-overview-preview-inview-review.md)
 
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)

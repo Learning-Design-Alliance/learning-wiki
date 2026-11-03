@@ -70,3 +70,4 @@ Authors' interpretation in the discussion, offered as an explanation for reduced
 - [A term of regular mobile-3G classroom use increased student confidence and decreased anxiety, while liking and general usefulness showed no significant change](mobile-use-confidence-anxiety-attitude-changes.md) — related
 - [Mobile devices make education more accessible anytime and anywhere, but this attractiveness comes with limitations for adoption and usage](mobile-access-anytime-anywhere-with-adoption-limits.md) — a broader claim this one bears on
 - [Mobile-3G use in class was observed to increase student engagement and involvement in learning activities](mobile-use-increases-classroom-engagement.md) — related
+- [Teamwork communication pedagogy through electronic networking sites increased student interest in learning](teamwork-electronic-networking-increased-interest.md) — reports the opposite

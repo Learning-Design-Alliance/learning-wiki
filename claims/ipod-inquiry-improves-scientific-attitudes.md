@@ -51,3 +51,4 @@ ANCOVA on the same quasi-experiment (53 vs 53 students), pre-test as covariance,
 - [Creative drama instruction produces significantly more positive attitudes towards social studies than traditional instruction when pre-test attitudes are controlled](creative-drama-improves-attitude-towards-social-studies.md) — related
 - [ICT-supported teaching improved pupils' attitudes toward ICT but not their attitudes toward social studies](ict-treatment-attitude-effects-split.md) — related
 - [Drama-based science teaching improved students' attitudes towards science learning compared with traditional teaching](drama-teaching-improved-attitudes-towards-science.md) — related
+- [Experimental group mean scientific literacy score of 21.3967 versus control group mean of 11.8943](experimental-mean-21-4-versus-control-11-9.md) — related

@@ -66,3 +66,6 @@ Because of group size, gender effects could only be analyzed within the PC clust
 ## Related Claims
 - [Boys hold significantly higher self-efficacy than girls in science inquiry at every measurement point, though the gap narrows during training](boys-higher-self-efficacy-science-inquiry.md) — related
 - [Girls started lower in math self-concept and interest than boys, and the L1 self-concept gender gap widened over Grades 7–9](gender-gaps-math-lower-l1-slope-favors-girls.md) — related
+- [Gender differences in self-esteem change under character education: boys increased while girls decreased](character-education-gender-differences-self-esteem.md) — reports the opposite
+- [The gap in self-esteem between intellectually able and less able students narrowed after character education](character-education-narrowed-ability-gap-self-esteem.md) — related
+- [Character education activities improved self-esteem of intellectually less able students but decreased self-esteem of intellectually able students](character-education-self-esteem-ability-groups-kuwait.md) — related

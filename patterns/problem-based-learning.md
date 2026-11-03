@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 156 claims (60 for, 84 mixed, 12 against) · 87 studies (32 quant-synthesis, 26 causal, 11 review, 7 theoretical, 6 qualitative, 3 design, 2 associational), `q1`–`q4` · 24 of 87 report an effect size · 151 claims rest on one study
+> **Evidence** · 161 claims (65 for, 84 mixed, 12 against) · 88 studies (32 quant-synthesis, 27 causal, 11 review, 7 theoretical, 6 qualitative, 3 design, 2 associational), `q1`–`q4` · 24 of 88 report an effect size · 156 claims rest on one study
 
 ## Description and scope
 
@@ -149,6 +149,8 @@ The twelve claims listed here before that wave were read against the model on 20
 - [Senior secondary students taught Further Mathematics with problem-based learning scored significantly higher on a post-test teacher-made test than students taught with the traditional method](../claims/pbl-beats-traditional-method-tmt-further-mathematics.md) [+W] — attached 2026-11-02 from Alfred Olufemi Fatade et al. (2013), which proposed "Adopt problem-based learning as an alternative instructional strategy to the traditional method in Further Mathematics classrooms and integrate its philosophy into pre-service teacher preparation"; tests this page's relationship.
 - [Senior secondary students taught Further Mathematics with problem-based learning scored significantly higher on a post-test researcher-designed higher-order test than students taught with the traditional method](../claims/pbl-beats-traditional-method-rdt-further-mathematics.md) [+W] — attached 2026-11-02 from Alfred Olufemi Fatade et al. (2013), which proposed "Adopt problem-based learning as an alternative instructional strategy to the traditional method in Further Mathematics classrooms and integrate its philosophy into pre-service teacher preparation"; tests this page's relationship.
 - [Instructional strategy has a statistically significant main effect on senior secondary students' achievement in algebra, with a large partial eta squared of .136](../claims/treatment-main-effect-algebra-achievement.md) [+W] — attached 2026-11-02 from Ojaleye et al. (2018), which proposed "Integrate the philosophy of problem-based and blended learning into preservice teacher curricula in Nigeria"; tests this page's relationship.
+- [Pre-service teachers in PBL groups achieve significantly higher post-test scores than those in lecture-based computer course groups](../claims/pbl-higher-achievement-than-lbcc-pre-service-teachers.md) [+M] — attached 2026-11-03 from Akın Efendioglu (2015), which proposed "Use PBL instead of lecture-based instruction in computer courses for pre-service teachers to promote active participation and meaningful learning"; tests this page's relationship.
+- [PBL supports deep, meaningful, and permanent learning while LBCC is associated with superficial learning](../claims/pbl-deep-learning-vs-lbcc-superficial.md) [+W] — attached 2026-11-03 from Akın Efendioglu (2015), which proposed "Use PBL instead of lecture-based instruction in computer courses for pre-service teachers to promote active participation and meaningful learning"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -248,6 +250,9 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [Two aspects of the clinical PBL course drew relatively lower satisfaction: the self-directed-learning role required of students and the appropriateness of practice sites](../claims/lower-satisfaction-self-directed-role-and-practice-site.md) [~W]
 - [The review attributes to a meta-analysis that PBL pharmacy students performed better on midterm (OR = 1.46) and final examinations (OR = 1.60) than traditional-learning students, with no difference in subjective evaluations](../claims/meta-analysis-pbl-pharmacy-exam-performance-advantage.md) [+W]
 - [Both blended learning and problem-based learning produced significantly higher algebra achievement than traditional lecture method, while BL and PBL did not differ significantly](../claims/bl-pbl-outperform-tlm-algebra.md) [+W]
+- [PBL in small groups supports creativity through openness to new ideas, handling problems from different angles, and imagining various solutions](../claims/pbl-small-group-creativity.md) [+W]
+- [PBL group pre-service teachers report higher self-confidence, self-efficacy, and intrinsic motivation than LBCC peers](../claims/pbl-affective-attainments-motivation.md) [+W]
+- [PBL group pre-service teachers report challenging, creative, cognitive, affective, and group-related positive learning keys](../claims/pbl-positive-learning-keys-qualitative.md) [+W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)
@@ -266,6 +271,7 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - Engineering or civic learners designing responses to a local real-world problem.
 - [Teach AI through holistic, active, collaborative pedagogical strategies starting from real problem solving](../strategies/active-real-problem-solving-ai-teaching.md)
 - [Four-step Physics problem-based learning cycle used for classroom assessment in both conditions](../designs/four-step-physics-pbl-cycle.md)
+- [PBL course structure with weekly problem situations, small-group problem-solving plans, and end-of-week solution presentations](../designs/pbl-weekly-problem-cycle-small-groups.md)
 
 ## Key Sources
 - Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235-266. [https://doi.org/10.1023/B:EDPR.0000034022.16470.f3](https://doi.org/10.1023/B:EDPR.0000034022.16470.f3)

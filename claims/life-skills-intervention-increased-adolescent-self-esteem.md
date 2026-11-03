@@ -68,3 +68,4 @@ A control group (n = 46) served for test assessment and exclusion of external in
 - [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](program-completion-increased-confidence-autonomy-settlement.md) — related
 - [Only the potentially curious cluster (PC) changed its self-esteem in a pedagogically significant manner in response to the program](pc-cluster-only-self-esteem-responder.md) — a narrower finding that bears on this claim
 - [PC-cluster self-esteem increased irrespective of the preceding teaching method, though a late change appeared under the teacher-centered method](teaching-method-no-effect-pc-self-esteem.md) — a narrower finding that bears on this claim
+- [Self-esteem, measured by the BASE scale, improved significantly more in the intervention group than controls](steps-for-life-self-esteem-improvement.md) — related

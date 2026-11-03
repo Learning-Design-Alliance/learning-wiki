@@ -59,9 +59,11 @@ The keyword method works by converting abstract, arbitrary sound–meaning mappi
 5. Schedule retrieval practice testing word–meaning links from both directions, spaced over time ([Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S]).
 
 ## Related Strategies
+
 - [Acronyms and Acrostics](acronyms_and_acrostics.md) — verbal mnemonics serving the same arbitrary-association goal through letter-based rather than image-based encoding
 - [Act It Out](act_it_out.md) — enactive counterpart: dramatizing meaning instead of imaging it
 - [Spaced Repetition](../elements/spaced-repetition.md) — the scheduling mechanism that addresses the keyword method's retention decay
+- [Use keyword method with L1 translations and pictures for deliberate vocabulary study](keyword-method-l1-pictures-vocabulary-strategy.md)
 
 ## Examples
 - **Atkinson & Raugh's Russian vocabulary experiments (1975)** — Stanford learners using the keyword method learned roughly 72% of 120 Russian words on the test versus 46% for control learners.

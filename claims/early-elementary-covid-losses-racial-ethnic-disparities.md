@@ -70,3 +70,4 @@ Figure 2 disaggregates MAP Growth percentile rank changes from 2019 to 2022 by r
 - [Large racial and socioeconomic achievement disparities persisted in an affluent high-performing district](ousd-persistent-race-class-disparities.md) — related
 - [Young white students progress more slowly in math and reading than Asian, black, and Hispanic students, with differences attenuating at older ages](ethnic-differences-younger-student-gains.md) — related
 - [Natural uptake of the freely available Exam Playbook differed by gender and race but not academic ability or first-generation status](exam-playbook-natural-uptake-demographics.md) — related
+- [Self-affirmation eliminated the Hispanic students' reading and mathematics deficit observed in the comparison group](self-affirmation-erased-hispanic-test-score-gap.md) — related

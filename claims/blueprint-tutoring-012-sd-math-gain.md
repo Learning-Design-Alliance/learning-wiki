@@ -48,3 +48,4 @@ Quasi-experimental comparison using district-administered Renaissance Star Math 
 - [Most Blueprint students reported strong tutor relationships, but reported relationship strength varied across sites](blueprint-tutor-relationships-varied-by-site.md) — related
 - [Exploratory analyses: students ending the year in larger tutoring groups showed the largest math score increases but reported weaker tutor relationships than peers in smaller groups](blueprint-larger-groups-scores-up-relationships-weaker.md) — related
 - [Student math confidence and sense of belonging in tutoring increased modestly during the school year, with site-level variation](blueprint-confidence-belonging-modest-increase.md) — related
+- [City Connects participation is associated with a 0.15 SD advantage in grade 8 mathematics achievement](city-connects-015-sd-grade-8-math-advantage.md) — related

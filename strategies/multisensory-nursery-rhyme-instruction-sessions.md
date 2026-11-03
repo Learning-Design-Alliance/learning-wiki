@@ -48,6 +48,7 @@ The article's intervention gave eleven pre-K children explicit instruction on te
 ## Related Strategies
 
 - [Brain-Based Learning Activities](brain-based_learning_activities.md)
+- [Use colourful, attractive, and purposeful multisensory materials at the pre-reading phase to draw students' attention to the reading text.](multisensory-materials-pre-reading-phase.md)
 
 ## Examples
 -

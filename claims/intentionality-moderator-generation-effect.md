@@ -47,3 +47,4 @@ Subset moderator analysis of intentionality in the multi-level meta-analysis. Th
 ## Related Claims
 - [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — related
 - [Incidentally acquired vocabulary is retained over time while intentionally learned (focus-on-form) words are rapidly forgotten](incidental-vocabulary-retained-intentional-forgotten.md) — related
+- [Reading comprehension did not differ significantly between incidental and intentional groups](comprehension-no-significant-difference-hypertext-gloss.md) — related

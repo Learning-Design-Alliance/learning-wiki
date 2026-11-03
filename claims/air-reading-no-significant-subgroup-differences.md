@@ -53,3 +53,5 @@ Subgroup analyses extended the main OLS model with treatment-by-characteristic i
 - [The OCR program shows a positive differential impact for Hispanic students](ocr-positive-differential-impact-hispanic-students.md) — related
 - [Quest showed no differential effects by gender, FSM eligibility, or prior reading attainment](quest-no-subgroup-differential-effects.md) — related
 - [Treatment effects were not moderated by special education or English learner status, but the condition by initial skill level interaction approached significance](nsl1-moderation-sped-ell-initial-skill.md) — related
+- [Gender and ethnicity moderated the impact of self-affirmation rather than a uniform main effect](self-affirmation-moderated-by-gender-ethnicity.md) — related
+- [Achievement variation by gender and ethnicity appears slighter in the self-affirmation condition](self-affirmation-slighter-achievement-variation.md) — related

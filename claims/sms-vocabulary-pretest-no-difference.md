@@ -58,3 +58,5 @@ Pretest using a 30-item TOEFL vocabulary multiple-choice section administered to
 - [No significant difference existed between the two groups on the word knowledge pretest](keyword-study-groups-equivalent-word-knowledge-pretest.md) — possibly the same claim (merge candidate)
 - [The three groups did not differ in drawing skills before treatment, supporting the pretest-posttest comparison](pretest-equivalence-drawing-groups.md) — related
 - [The three groups did not differ significantly in vocabulary knowledge at pretest, supporting group homogeneity](pretest-homogeneity-three-vocabulary-groups.md) — related
+- [Both SMS and paper-based exercise groups improved vocabulary scores significantly from pre-test to post-test](both-groups-improved-vocabulary-exercises.md) — related
+- [First-year EFL students who did vocabulary exercises via SMS outperformed those doing paper-based exercises on a post-test](sms-exercises-outperform-paper-based-vocabulary.md) — related
