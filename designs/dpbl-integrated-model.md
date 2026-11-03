@@ -44,6 +44,7 @@ DPBL is a conceptual framework combining direct instruction with problem-based l
 ## Related Designs
 
 - [Three-phase DPBL lesson sequence: introduction and identification, application and solution, evaluation and conclusion](dpbl-three-phase-lesson-sequence.md)
+- [Direct Problem-Based Learning (DPBL) as a combination of direct instruction and problem-based learning](dpbl-combines-direct-instruction-and-pbl.md)
 
 ## Examples
 -

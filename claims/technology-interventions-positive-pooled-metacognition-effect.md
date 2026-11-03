@@ -74,3 +74,4 @@ Heterogeneity analysis within the same three-level model: "total I² = 72.7%", w
 - [Effect sizes across included studies show high heterogeneity (all I² above 75%)](high-heterogeneity-er-burnout-effects.md) — related
 - [Metacognitive training has a statistically significant positive effect on K-12 students' algebraic reasoning across 18 studies (initial pooled d=2.284)](metacognitive-training-positive-effect-algebraic-reasoning.md) — related
 - [School-based EdTech interventions show a moderate positive pooled effect on student attainment (d = 0.4), with high heterogeneity across studies](edtech-pooled-effect-attainment-d-0-4.md) — related
+- [Estimated effects ranged from 8 to more than 75 percent of baseline levels depending on intervention and outcome](goal-effects-range-8-to-75-percent-baseline.md) — related

@@ -63,3 +63,5 @@ Baseline comparison on the 20-item multiple-choice pretest; Table 2 reports t = 
 - [The experimental and control groups were statistically equivalent on the academic achievement pre-test before the intervention](groups-equivalent-pretest-achievement.md) — related
 - [The contextual and structural groups were statistically equivalent on the pretest before instruction](pretest-equivalence-contextual-structural-groups.md) — related
 - [The experimental and comparison classes were equivalent in reading level before the experiment](pretest-equivalence-reading-classes.md) — related
+- [Before the intervention, the two groups did not differ significantly in argumentation, organization, or language use](cwb-pretest-group-equivalence.md) — related
+- [The control and experimental groups did not differ significantly on the pre-test](ocra-groups-equivalent-pretest.md) — possibly the same claim (merge candidate)

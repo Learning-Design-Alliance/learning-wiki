@@ -47,3 +47,4 @@ Component-level independent-sample t tests in the same 12-session pretest/postte
 ## Related Claims
 - [Collaborative writing instruction improves overall writing performance of low-intermediate EFL students more than individual writing instruction](collaborative-writing-improves-efl-overall-writing.md) — related
 - [Drama-based instruction produced statistically significant gains on all five writing aspects: thesis statement, unity, completeness and coherence, wording and cohesion, and organization](drama-instruction-significant-all-five-writing-aspects.md) — related
+- [More than 70% of participants reported peer review improved multiple aspects of their writing, and the vast majority approved of the method](peer-review-overall-approval-efl.md) — related

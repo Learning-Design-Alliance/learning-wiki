@@ -80,3 +80,4 @@ Prior-knowledge check: the three conditions were statistically comparable at pre
 - [Representational scripting produced no individual learning gains: overall post-test scores did not exceed pre-test scores](no-individual-learning-gains.md) — reports the opposite
 - [Unpretested groups showed no significant difference between their own post-test and retention test scores](7e-unpretested-posttest-retention-stability.md) — related
 - [The balanced knowledge acquisition policy achieved more even task distribution across learning goals than free collaboration](balanced-knowledge-policy-task-distribution.md) — related
+- [High prior readiness was not required for achievement gains with learning objects, contrary to earlier findings](los-gains-not-limited-to-high-readiness-students.md) — related

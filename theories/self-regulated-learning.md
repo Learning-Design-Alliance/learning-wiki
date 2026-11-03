@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 276 claims (129 for, 132 mixed, 15 against) · 204 studies (64 causal, 61 associational, 28 review, 17 quant-synthesis, 15 theoretical, 10 qualitative, 9 design), `q1`–`q4` · 46 of 204 report an effect size · 260 claims rest on one study
+> **Evidence** · 277 claims (130 for, 132 mixed, 15 against) · 205 studies (65 causal, 61 associational, 28 review, 17 quant-synthesis, 15 theoretical, 10 qualitative, 9 design), `q1`–`q4` · 46 of 205 report an effect size · 261 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -323,6 +323,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Both SRL strategies improved speaking from pre-test to immediate and delayed post-tests, with gains persisting in the long run](../claims/srl-strategies-short-long-run-speaking-gains.md) [+W]
 - [Time management skills of planning and organization are positively related to course grades (as reported by Liu et al., 2009)](../claims/tm-planning-organization-grades-correlation.md) [+W]
 - [Implicitly instructed learners used 8 strategies (83% of the group) compared with only 3 strategies in the control group](../claims/implicit-group-eight-strategies-versus-control-three.md) [~W]
+- [Fifth graders receiving metacognitive instruction significantly outperformed control peers on post-test math word problem solving](../claims/metacognitive-instruction-fifth-grade-posttest-advantage.md) [+W] — attached 2026-11-03 from Eda Vula et al. (2017), which proposed "Self-regulation of learning as three components: cognition, metacognition, and motivation".
 
 ## The evidence by question
 

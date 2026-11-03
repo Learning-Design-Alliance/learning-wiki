@@ -68,3 +68,4 @@ In a study (Huelser & Marsh, 2006) where half the subjects explained their answe
 - [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related
 - [Incorrect information learned from a multiple-choice test is applied and reasoned with on conceptually related transfer questions](lures-transfer-erroneous-reasoning.md) — related
 - [Errors in clinical reasoning arise from 4 primary areas: inadequate knowledge, flawed data gathering, faulty data processing, or impaired metacognition](clinical-reasoning-errors-four-areas.md) — related
+- [Experimental-group students were more familiar with electronic educational resources and transferred e-teaching-materials experience to teaching practice](e-teaching-materials-experience-transfers-to-practice.md) — related

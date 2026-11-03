@@ -56,3 +56,4 @@ ANCOVA on post-test mock scores in a 16-week quasi-experiment with intact classe
 - [Post-test mean learning outcomes were 81.81 in the ChatGPT class versus 70.45 in the conventional class](chatgpt-experimental-mean-81-81-vs-control-70-45.md) — related
 - [AI-generated (GPT-4) feedback produced no greater linguistic progress than human tutor feedback among ENL students over six weeks](gpt4-feedback-no-superior-linguistic-progress-enl.md) — related
 - [Studies report experiment classes using JAS achieve higher average study results than control classes](jas-experiment-class-higher-than-control.md) — related
+- [Assessment for learning significantly improves pre-medical ESP students' final exam achievement compared with summative assessment](afl-improves-esp-achievement-premedical.md) — related

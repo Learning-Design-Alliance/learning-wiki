@@ -56,3 +56,4 @@ Pre-post facilitator training surveys (Table II.4) showed gains on five self-reg
 - [CCCT participation improved prospective teachers' co-regulation situations (g = 0.512)](ccct-improved-co-regulation.md) — related
 - [The simulation increased teacher candidates' confidence and self-efficacy for addressing sensitive topics, but did not alleviate concerns about parent and administrator backlash](simulation-confidence-gain-persistent-backlash-concerns.md) — related
 - [CBT training raised primary teachers' brain-based learning management competency from pre-test to post-test with statistical significance at .05](cbt-training-raises-teachers-brain-based-competency-pre-post.md) — related
+- [The interactive training program did not develop planning, locus of control, or self-confidence, which the authors attribute to prior knowledge and insufficient activities](program-failed-planning-locus-self-confidence.md) — related

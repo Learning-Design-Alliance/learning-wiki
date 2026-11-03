@@ -53,6 +53,7 @@ The chapter recommends institutions translate the teaming framework into practic
 - [Combine bottom-up co-design with top-down executive sponsorship, cross-unit collaboration and dedicated R&D capacity to embed institutional GenAI](bottom-up-codesign-top-down-sponsorship-genai-embedding.md)
 - [Deploy GenAI for continuous longitudinal analysis of student development to enable ipsative feedback, and scaffold feedback literacies for all students](genai-ipsative-progress-tracking-strategy.md)
 - [Stage XR pilot implementations for elementary STEM with small cohorts, co-design, and interpretable analytics](staged-xr-pilot-implementation-guidance.md)
+- [Staged multi-group pilot and mixed-method evaluation with a benchmark control group](fas-staged-multigroup-pilot-strategy.md)
 
 ## Examples
 -

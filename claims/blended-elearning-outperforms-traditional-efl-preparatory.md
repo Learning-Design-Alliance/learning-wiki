@@ -61,3 +61,5 @@ Quasi-experiment at KAU Community College: two parallel classes taught by routin
 - [Female master's students in a Twitter-supported blended course achieved higher post-test scores than students in a 100% in-class course](twitter-blended-achievement-gain.md) — related
 - [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in reading comprehension](web-based-instruction-outperforms-traditional-reading.md) — related
 - [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in writing](web-based-instruction-outperforms-traditional-writing.md) — related
+- [Seven weeks of Smartboard instruction produced significantly higher post-treatment motivation than traditional whiteboard instruction in Saudi preparatory-year EFL learners](smartboard-raises-efl-motivation-saudi-pyp.md) — related
+- [EFL students using Web 2.0 learner-created content scored significantly higher on a vocabulary post-test than a lecture-based control group](web2-learner-content-vocabulary-posttest-gain.md) — related

@@ -72,3 +72,4 @@ The review's second barrier category states institutions "may lack the necessary
 - [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — related
 - [Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration](perception-data-use-and-workload-barrier.md) — related
 - [Clinician attitudes toward serious illness conversations function as both enablers and barriers, and shifting values toward a person focus is achievable](sic-attitudes-enabler-barrier.md) — related
+- [Teachers identified time demands, class size, and curriculum coverage requirements as the main obstacles to differentiating instruction](di-obstacles-time-class-size-curriculum.md) — related

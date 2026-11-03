@@ -27,7 +27,8 @@ Statecraft X is a multiplayer mobile governance simulation game in which student
 - [Students in the Statecraft X intervention class outperformed control class students on all four essay criteria in a summative writing task](../claims/statecraft-x-intervention-outperformed-control-essay.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Legends of Alkhimia](legends-of-alkhimia.md)
 
 ## Key Sources
 - Chee, Y.S., Mehrotra, S. and Liu, Q. (2013). Effective Game Based Citizenship Education in the Age of new Media. The Electronic Journal of e-Learning, Vol 11 Issue 1, pp16-28. https://www.ejel.org

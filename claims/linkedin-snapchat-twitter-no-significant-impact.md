@@ -54,3 +54,4 @@ Further testing measured weekly time on LinkedIn, Snapchat and Twitter via surve
 - [Practices within the #bac2018 hashtag were associated with academic learning and also with social and cultural practices absent from any formal curriculum](bac2018-social-cultural-learning-beyond-curriculum.md)
 - [Participants in the #bac2018 Twitter hashtag engaged in eight identifiable tweeting practices in the month before the 2018 baccalauréat exams](bac2018-hashtag-tweeting-practices.md)
 - [Behavioural engagement with the LinkedIn group community is positively and significantly related to student satisfaction](behavioural-engagement-satisfaction-linkedin.md)
+- [Amount of time spent on Facebook and on co-curricular activities are significant predictors of student grades](facebook-time-predicts-grades.md) — reports the opposite

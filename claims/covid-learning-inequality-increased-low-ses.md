@@ -61,3 +61,4 @@ Harvest plot synthesis (Fig. 5) of 211 estimates of over-time change in inequali
 - [The association between family SES and children's primary school performance remained stable over 95 years, with no systematic increasing or decreasing trend](ses-performance-association-stable-95-years.md) — related
 - [Pandemic-era emergency online learning produced mixed educational results that exacerbated existing inequities](pandemic-online-learning-exacerbated-inequities.md) — a broader claim this one bears on
 - [SES is negatively associated with children's cognitive and academic performance, leading to long-term educational and economic disparities](ses-negative-association-cognitive-academic.md) — related
+- [Sweden's inclusive education practice shows negative trends toward increased segmentation of students with special educational needs based on socio-economic characteristics, especially migrants](sweden-segmentation-socio-economic-trends.md) — related

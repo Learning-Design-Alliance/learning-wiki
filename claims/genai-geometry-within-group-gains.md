@@ -61,3 +61,4 @@ Paired-samples t-test within the experimental group in the quasi-experimental st
 - [At-risk grade 2 experimental students made significant within-group gains in Applied Problems, but these gains were not significantly larger than their non-at-risk peers' gains](chisanbop-applied-problems-grade2-atrisk.md) — related
 - [Both groups improved from pre-test to post-test, but the experiment group's within-group gains in mastery goal and achievement were larger than the control group's](within-group-gains-both-teaching-methods.md) — related
 - [Participating in an informal letter-writing assignment did not significantly improve scores on a multiple-choice-only quiz](letter-writing-no-effect-mc-quiz.md) — related
+- [Both the treatment and control groups achieved significant pre-to-post gains on all six writing subscales](both-groups-significant-gains-all-six-subscales.md) — related

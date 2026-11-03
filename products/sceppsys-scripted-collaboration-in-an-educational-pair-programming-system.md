@@ -21,9 +21,9 @@ SCEPPSys is an Eclipse-based distributed pair-programming system developed by Ts
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **SCEPPSys: an educational distributed pair programming system built on an Eclipse plugin with collaboration script authoring**: SCEPPSys (Scripted Collaboration in an Educational Pair Programming System) is an educational DPP system based on the XecliP Eclipse plugin with a client-server architecture of server, database, and plugin. It supports standard DPP features (shared editor, floor control, chat, remote code highlighting, awareness) plus synchronic program execution, a collaboration script authoring tool for teachers, an administration panel with contribution statistics, and enhanced logging of user interactions. The article states "SCEPPSys extends existing plugins by combining collaboration scripts and DPP". (Despina TSOMPANOUDI et al. (2015))
+- **Structure pair programming with collaboration scripts that decompose assignments into learning-goal tasks and rotate roles**: The article recommends structuring DPP through collaboration scripts that decompose assignments into smaller problem-solving tasks categorized by learning goals, distribute tasks via rotating or balanced-knowledge policies, and trigger role switches. Students indicated that "solving consecutive tasks facilitated the problem-solving process". This addresses uneven workload and infrequent role switches that available DPP systems could not address. (Despina TSOMPANOUDI et al. (2015))
 
 ### Claims
-
 - [Students gave positive feedback on DPP and rated guided problem solving highly, but hints, chat, and participation-rate display were rated less useful](../claims/student-feedback-dpp-sceppsys.md) [~W]
 - [System-initiated role switching produced more role switches than free collaboration in DPP](../claims/structured-dpp-more-role-switches.md) [+W]
 - [Structured collaboration did not significantly improve balance of student code contributions compared to free collaboration](../claims/structured-dpp-no-contribution-balance-gain.md) [-W]
@@ -31,6 +31,8 @@ SCEPPSys is an Eclipse-based distributed pair-programming system developed by Ts
 - [Both conditions improved Java knowledge from pre- to post-test, with no difference in learning outcomes between structured and free collaboration](../claims/dpp-pre-post-knowledge-gains.md) [~W]
 - [Project scores were comparable between conditions except the fifth project, where the control group scored higher](../claims/project-scores-fifth-project-control-higher.md) [~W]
 - [Structured collaboration did not influence assignment completion time compared to free collaboration](../claims/structured-dpp-no-completion-time-effect.md) [~W]
+- [System-initiated role switching produced more role switches than free collaboration in DPP](../claims/structured-dpp-more-role-switches.md) [+M]
+- [The balanced knowledge acquisition policy achieved more even task distribution across learning goals than free collaboration](../claims/balanced-knowledge-policy-task-distribution.md) [+M]
 
 ## Related Products and Programmes
 -

@@ -74,3 +74,4 @@ The review cites a large-scale review identifying pedagogical features that "app
 - [Cooperative storytelling tasks outperformed individual tasks across performance, autonomy, anxiety, and emotion measures](cooperative-storytelling-outperformed-individual.md) — related
 - [Children aged 48-60 months who worked with mind maps for 10 weeks achieved better maths skills post-test scores than children who did not](mind-maps-improve-preschool-maths-skills.md) — related
 - [Children who worked with mind maps achieved better science skills post-test scores than children who did not](mind-maps-improve-preschool-science-skills.md) — related
+- [Disadvantaged 60-72-month-old children who participated in a play-supported readiness program scored significantly higher than control-group children on most MPERS sub-scales at posttest](play-supported-program-higher-readiness-posttest.md) — related

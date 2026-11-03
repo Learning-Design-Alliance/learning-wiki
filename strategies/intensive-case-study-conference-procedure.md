@@ -40,6 +40,7 @@ For individual cases, the department combined school reports, social-visitor fam
 
 - [Convene cross-functional generative AI task forces to guide ethical adoption decisions and procurement](cross-functional-generative-ai-task-force.md)
 - [Alignment Director strategies for engaging stakeholders: leveraging existing networks, field-based pods, and cross-sector convenings](alignment-director-stakeholder-engagement-strategies.md)
+- [Convene a stakeholder task force to use contradictory findings in future program design and implementation](stakeholder-task-force-contradictory-findings.md)
 
 ## Examples
 -

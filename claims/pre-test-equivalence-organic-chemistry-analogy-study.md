@@ -62,3 +62,4 @@ Independent t-test on NOCAT pre-test scores of the control (n=44, mean 11.73, SD
 - [The experiment and control groups were equivalent on the triangles achievement test before instruction](triangles-pretest-equivalence-groups.md) — related
 - [The experimental and control groups were statistically equivalent on the academic achievement pre-test before the intervention](groups-equivalent-pretest-achievement.md) — related
 - [Experimental and control classes were equivalent in mathematical analogical ability before treatment](pretest-equivalence-analogy-groups.md) — related
+- [The control and experimental groups did not differ significantly on the pre-test](ocra-groups-equivalent-pretest.md) — possibly the same claim (merge candidate)

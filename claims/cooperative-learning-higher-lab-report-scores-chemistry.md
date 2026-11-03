@@ -51,3 +51,4 @@ Post-application comparison of laboratory report scores between the cooperative 
 - [Jigsaw cooperative learning produced higher laboratory material recognition post-test scores than traditional instruction in General Physics Laboratory-I](jigsaw-higher-material-recognition-posttest.md) — related
 - [A week of reflective writing after a general chemistry lab experiment produces a statistically significant posttest increase compared to a control group](reflective-writing-significant-posttest-gain-chemistry-lab.md) — related
 - [89.19% of experimental-group students made strong statements that Cooperative Learning improved their understanding of the course material](cl-positive-course-evaluations.md) — related
+- [Active learning instruction produced significantly higher overall final exam scores than traditional lecture instruction in a preparatory-year writing and research course](active-learning-higher-final-exam-scores-writing-research.md) — related

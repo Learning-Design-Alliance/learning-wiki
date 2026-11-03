@@ -56,3 +56,4 @@ Paired-sample t-test on the 25 control-group students taught technical vocabular
 - [Traditional teaching also produced a statistically significant pre-to-post gain in scientific thinking in the control group](traditional-teaching-significant-scientific-thinking-gain.md) — related
 - [Traditional vocabulary techniques alone produced no statistically significant pretest-to-posttest gain in the control group](traditional-techniques-no-significant-gain.md) — related
 - [Traditional classroom teaching showed no significant improvement in students' critical thinking ability over the same period](traditional-teaching-no-critical-thinking-gain.md) — possibly the same claim (merge candidate)
+- [Control-group students taught with conventional coursebook vocabulary tasks showed a 2.8% decrease in scores over the same period](control-group-2-8-percent-decrease.md) — related

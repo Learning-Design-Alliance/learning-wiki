@@ -48,3 +48,5 @@ Independent samples t-test on SPST pre-test scores of the quasi-experimental gro
 - [A Jigsaw-based laboratory approach develops student teachers' scientific process skills more than a confirmatory laboratory approach](jigsaw-laboratory-higher-science-process-skills.md) — related
 - [Experimental and control groups did not differ significantly in initial-test grades before the intervention](pretest-equivalence-independent-activities-groups.md) — related
 - [Student teachers' opinions of the Jigsaw and confirmatory laboratory approaches do not differ significantly](no-opinion-difference-between-laboratory-approaches.md) — related
+- [Teaching physics in a science teaching laboratory practice course via the Jigsaw method based on cooperative learning yields higher achievement than the confirmatory laboratory method](jigsaw-lab-higher-physics-achievement-than-confirmatory.md) — related
+- [No statistically significant difference in GPA between the Jigsaw and control groups before treatment](no-gpa-difference-jigsaw-control-groups.md) — related

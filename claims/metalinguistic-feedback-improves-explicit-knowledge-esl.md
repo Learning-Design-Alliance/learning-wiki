@@ -54,3 +54,4 @@ One-way ANCOVA in the same randomized pretest-treatment-posttest experiment, wit
 - [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](cf-facilitates-l2-grammar-explicit-implicit-durability.md) — a broader claim this one bears on
 - [Written corrective feedback with an oral metalinguistic tutorial significantly improves Arabic EFL learners' preposition accuracy on an immediate post-test](wcf-improves-preposition-accuracy-immediate-posttest.md) — related
 - [Delayed post-test performance of feedback recipients still exceeds control group post-test performance](wcf-delayed-still-exceeds-control.md) — related
+- [Exposure to corrective feedback significantly improves EFL students' grammatical error detection ability](cf-improves-error-detection.md) — related

@@ -49,3 +49,4 @@ Subgroup results for synthesis and evaluation levels within the higher-order thi
 - [Scaffolding's effect was greatest among adult learners, though based on a single outcome](scaffolding-effect-greatest-adult-learners.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
 - [Computer-based scaffolding improves cognitive outcomes in problem-based learning in STEM education with an overall effect of g = 0.385](cbs-pbl-stem-overall-effect-g-0-385.md) — a broader claim this one bears on
+- [Experimental teachers reported the Glogster model, tiered assignments and scaffolding were effective for struggling students, though assessment demanded much effort](glogster-tiered-scaffolding-struggling-students.md) — related

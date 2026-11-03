@@ -69,3 +69,4 @@ The three seventh-grade mathematics teachers in the study described on [Interlea
 - [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — related
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [Stakeholder reflections judged the ten-week, 30-minute-session facts intervention feasible within the elementary schedule, with moderate-to-high student engagement](facts-intervention-feasibility-reflections.md) — related
+- [Some students perceived the weekly situated learning assignments as time-consuming and overly challenging](situated-learning-assignments-perceived-time-consuming-challenging.md) — related

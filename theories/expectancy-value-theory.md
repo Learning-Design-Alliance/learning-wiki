@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 52 claims (31 for, 20 mixed, 1 against) · 37 studies (14 causal, 9 associational, 6 review, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 9 of 37 report an effect size · 51 claims rest on one study
+> **Evidence** · 53 claims (32 for, 20 mixed, 1 against) · 38 studies (15 causal, 9 associational, 6 review, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 9 of 38 report an effect size · 52 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -111,6 +111,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Case-based instruction significantly raises extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy, but not intrinsic goal orientation or test anxiety](../claims/cbl-gains-four-motivation-subscales-not-two.md) [~M] — attached 2026-11-02 from Yalçınkaya et al. (2012), which proposed "Motivation as a goal-directed process inferred from choice, effort, and persistence".
 - [Students rated the cartoon condition as more enjoyable than bibliotherapy, though the difference was significant only at the alpha = 0.10 level](../claims/cartoon-condition-higher-enjoyment-rating.md) [~W]
 - [The sports education model raises students' value/benefit and effort/importance attitudes more than the direct teaching model](../claims/sem-raises-value-benefit-and-effort-importance.md) [+W]
+- [E-portfolio use improved ESL students' perceived value of writing and writing self-concept, but not writing anxiety](../claims/eportfolio-improves-writing-value-self-concept-not-anxiety.md) [+W]
 
 ## Related Theories
 

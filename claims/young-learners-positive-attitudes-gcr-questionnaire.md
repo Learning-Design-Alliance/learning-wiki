@@ -46,3 +46,4 @@ Twenty-item five-point Likert questionnaire administered to the experimental gro
 
 ## Related Claims
 - [Grammar consciousness-raising activities produce significantly higher grammar posttest scores than deductive grammar teaching for young EFL learners](gcr-activities-significant-posttest-advantage-young-efl.md) — related
+- [Most experimental students held favorable attitudes toward the consciousness-raising task instruction, including many who overall disliked the method](favorable-attitudes-toward-iegi-tasks.md) — possibly the same claim (merge candidate)

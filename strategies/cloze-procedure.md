@@ -64,6 +64,7 @@ Cloze tasks work because generation requires deeper processing than recognition:
 - [Annotating](../principles/annotating.md) — complementary active-reading move; cloze forces reconstruction where annotating forces response
 - [Chunking](../principles/chunking.md) — presenting cloze passages in manageable segments protects working memory during reconstruction
 - [Teachers can generate customized electronic contour maps by deleting selected layers and objects](custom-electronic-contour-maps.md)
+- [Direct textbook exercises at form and meaning of lexical phrases using matching and cloze tasks](textbook-matching-cloze-lexical-phrase-exercises.md)
 
 ## Examples
 - **Maze reading assessments** in DIBELS ([https://dibels.uoregon.edu](https://dibels.uoregon.edu)) — a three-option cloze used for curriculum-based reading measurement in K–6.

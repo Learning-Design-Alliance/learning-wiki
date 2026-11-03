@@ -50,3 +50,4 @@ Multilevel analysis of repeated test scores within the AES experimental group (3
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — reports the opposite
 - [Students achieved higher pretest-to-posttest change scores when a unit was sequenced to begin with their preferred mode of grasping information, regardless of unit content](matched-sequence-higher-change-scores.md) — related
 - [Correlational meta-analyses of learning styles and achievement average r = 0.24 but do not test or support the matching hypothesis](learning-style-achievement-correlations-r24.md) — related
+- [Students' learning motivation has a significant impact on their learning achievement in the system analysis unit](learning-motivation-impacts-achievement-system-analysis.md) — related

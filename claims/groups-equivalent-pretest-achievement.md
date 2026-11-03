@@ -53,3 +53,4 @@ Independent-samples t test on pre-test scores of 30 experimental and 30 control 
 - [The experimental and control groups did not differ significantly on the pre test](microsoft-mathematics-pretest-equivalence.md) — related
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
+- [The control and experimental groups did not differ significantly on the pre-test](ocra-groups-equivalent-pretest.md) — a narrower finding that bears on this claim

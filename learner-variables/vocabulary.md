@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 193 claims (141 show a difference, 26 mixed, 26 no difference) · 130 studies (72 causal, 28 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 130 report an effect size · 190 claims rest on one study
+> **Evidence** · 196 claims (143 show a difference, 27 mixed, 26 no difference) · 132 studies (74 causal, 28 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 25 of 132 report an effect size · 193 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -234,6 +234,9 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [WhatsApp-delivered vocabulary instruction produced significantly higher post-test vocabulary scores than traditional classroom instruction among Iranian junior high school EFL learners](../claims/whatsapp-vocabulary-instruction-outperformed-traditional-classroom-instruction.md) [+M] — instruction changes it
 - [First-year EFL students who did vocabulary exercises via SMS outperformed those doing paper-based exercises on a post-test](../claims/sms-exercises-outperform-paper-based-vocabulary.md) [+M] — instruction changes it
 - [Journal entry practice enhancement activities outperform general vocabulary exercises for learning ESP technical vocabulary](../claims/journal-entry-practice-outperforms-vocabulary-exercises.md) [+W] — instruction changes it
+- [Beginning EFL learners who produced written output and received corrective feedback outperformed input-only learners on a delayed receptive vocabulary post-test](../claims/output-plus-feedback-outperforms-input-only-receptive-vocabulary.md) [+M] — instruction changes it
+- [Dual language narrative intervention produced a large English vocabulary gain (d = .98) but only a small Spanish vocabulary gain (d = .34)](../claims/english-vocabulary-large-effect-spanish-small.md) [~W] — instruction changes it
+- [The authors interpret corrective feedback, rather than output production alone, as the factor most responsible for the experimental group's improved receptive vocabulary performance](../claims/feedback-more-responsible-than-output-interpretation.md) [+M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

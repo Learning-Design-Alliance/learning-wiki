@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/facebook-time-correlates-cocurricular-not-preparation.md
+---
+
+# Revision history: [claims/facebook-time-correlates-cocurricular-not-preparation](../claims/facebook-time-correlates-cocurricular-not-preparation.md)
+
+### 2026-11-03 · ingest · process:wiki-ingest
+Ingested from eric-ej1006268 (Meaningful Engagement in Facebook Learning Environments: Merging Social and Academic Lives) via eval_harness.py + ingest_extractions.py

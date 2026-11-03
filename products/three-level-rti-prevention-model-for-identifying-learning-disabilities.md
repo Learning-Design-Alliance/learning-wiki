@@ -19,7 +19,7 @@ sources:
 # Three-level RTI prevention model for identifying learning disabilities
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 3 studies (2 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 A response-to-intervention framework that organizes general instruction, targeted tutoring, and special education evaluation around students' measured progress and responsiveness.
@@ -30,11 +30,14 @@ A response-to-intervention framework that organizes general instruction, targete
 - **The Three Tier (RTI/MTSS) model as a data-informed tiered support framework in which screening is one component of broader placement decisions**: The Three Tier model (also called MTSS with three tiers or a three-tier RTI model) is a prevention-oriented framework providing universal Tier 1 instruction, targeted Tier 2 supplemental interventions, and intensive, individualized Tier 3 support. The review emphasizes that "universal screening is not intended to serve as a definitive placement mechanism into Tiers 1, 2, or 3"; instead, screening is an initial risk-identification step within a dynamic process combining teacher judgment, contextual information, and response to intervention. The review synthesizes the validity of the screening tools that feed this process. (Keles et al. (2025))
 - **Response to Instruction (RTI) three-tier framework for organizing instructional intensity**: The article describes RTI as two interrelated approaches: a method for identifying learning disabilities via universal screening, risk identification, increasing instructional intensity, and progress monitoring; and a framework of tiers of instructional intensity. In the standard three-tiered model, "Tier II represents an increased intensity of instruction, often administered as small-group instruction, with membership in the small-groups differentiated by students' skill levels", while Tier III provides even smaller-group or one-on-one instruction often delivered by specialists. Tier I is the core, evidence-based classroom instruction expected to meet 75 to 90 percent of children. (Lonigan et al. (2016))
 - **Response to Intervention as a pre-referral service delivery model**: Response to Intervention (RTI) is a service model "designed to meet the learning needs of students prior to diagnosis and placement in special education settings". It uses universal screening to identify struggling students early so the general education teacher can provide remediation using the regular curriculum supplemented with additional instructional resources, preventing over-representation, misidentification, and labeling of students as learning disabled. The model merges accountability practices of general and special education teachers to ensure students make academic progress, and is supported through IDEIA. The article studies how teachers implement this model in practice. (Carol Hall (2013))
+- **Response-to-intervention (RtI) three-tier framework**: RtI is described as "a prevention oriented approach to learning needs wherein there are direct links from assessment to instruction", with regular ongoing progress monitoring. Its three tiers are "early intervention for prevention of problems for all learners (Tier 1), curriculum modifications for at-risk learners (Tier 2), and instructional treatment for students with specific disabilities (Tier 3)", with Tier 2 typically delivered in small groups. The article stresses RtI is a framework, not an instructional program, and used a Tier 2 small-group format to deliver the PAL lesson plans. (Hooper et al. (2013))
 
 ### Claims
 - [Screening tools in the Three Tier model show a moderate pooled correlation with academic achievement outcomes (r = .51), with very high heterogeneity](../claims/screening-pooled-correlation-r51-three-tier.md) [+M]
 - [Very few studies (18 of 127) provide validity data for screening tools used in tier assignment, and none test whether screening itself improves achievement](../claims/few-studies-assess-screening-validity.md) [~M]
 - [General education teachers at RTI demonstration schools and comparable schools show no significant difference in self-reported RTI implementation practices](../claims/rti-demonstration-schools-no-difference-self-reported-practices.md) [+M]
+- [PAL lesson plans delivered in a Tier 2 RtI model produced an accelerated rate of growth in writing skills for at-risk second graders](../claims/pal-tier2-accelerated-writing-growth.md) [+M]
+- [At-risk second graders with globally lower cognitive functioning (Low-g latent class) responded most positively to the PAL intervention, with a large effect by fall of third grade](../claims/low-g-latent-class-large-treatment-response.md) [~M]
 
 ## Related Products and Programmes
 -
@@ -46,6 +49,7 @@ A response-to-intervention framework that organizes general instruction, targete
 - Keles, S., ten Braak, D., Hagen, Å. M., & Melby-Lervåg, M. (2025). Validity of Early-Grade Screening Tools in the Three Tier (RTI/MTSS) Model: A Systematic Review and Meta-Analysis of Literacy, Language, and Mathematics. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10077-5
 - Lonigan, C. J., & Phillips, B. M. (2016). Response to Instruction in Preschool: Results of Two Randomized Studies with Children At Significant Risk of Reading Difficulties. Journal of Educational Psychology. https://doi.org/10.1037/edu0000054
 - Carol Hall, Jamie Mahoney. (2013). Response To Intervention: Research And Practice. Contemporary Issues In Education Research, 6(3). https://www.clutejournals.com
+- Hooper, S. R., Costa, L.-J. C., McBee, M., Anderson, K. L., Yerby, D. C., Childress, A., & Knuth, S. B. (2013). A written language intervention for at-risk second grade students: a randomized controlled trial of the process assessment of the learner lesson plans in a tier 2 response-to-intervention (RtI) model. Ann. of Dyslexia, 63, 44-64. https://doi.org/10.1007/s11881-011-0056-y
 
 # Three-level RTI prevention model for identifying learning disabilities
 

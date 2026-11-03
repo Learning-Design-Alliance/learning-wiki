@@ -75,3 +75,4 @@ ANCOVA on the transfer task's originality per response score, controlling for th
 - [Control group showed no significant total creativity gain, improving significantly only on fluency](control-group-no-total-creativity-gain.md) — related
 - [CREACT groups outperformed control groups on all four TTCT subcomponents (fluency, flexibility, originality, elaboration)](creact-between-group-subcomponents-significant.md) — related
 - [Blended learning improves the flexibility skill of verbal creative thinking](blended-learning-improves-flexibility-skill.md) — related
+- [Creative independence develops through three levels: copying, reproductive-and-creative, and constructive-and-creative](three-levels-creative-independence-copying-reproductive-constructive.md) — related

@@ -74,3 +74,4 @@ System use data showing sole-tool classrooms also showed higher platform usage: 
 - [The vPLC-augmented ASSISTments treatment sample comprised 59 teachers and 2,855 students in grades 6-8 from 36 public schools across 24 U.S. states, half in rural areas](treatment-sample-rural-middle-schools-assistments.md) — related
 - [vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group](vplc-assistments-no-significant-overall-effect.md) — related
 - [Edtech tool access per district grew more than 350% between 2019 and 2025, yet most tools are unused or used at low intensity](edtech-procurement-implementation-gap.md) — related
+- [The authors tentatively conclude the SLMS intervention shows promise for boosting achievement despite unfavorable descriptive trends](slms-tentative-promise-despite-trends.md) — a broader claim this one bears on

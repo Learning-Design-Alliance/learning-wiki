@@ -48,3 +48,5 @@ Latent variable model contrast of longitudinal change between teacher groups in 
 - [Kindergarten teachers new to the ELM program significantly increased rates of all four evidence-based teaching practices in Year-2 relative to their Year-1 standard instruction](con-elm-teachers-increase-explicit-practices-year2.md) — related
 - [A second year of ELM experience showed moderate but non-significant advantages for teacher demonstrations, group responses, and academic feedback, with no advantage for individual responses](second-year-elm-moderate-nonsignificant-effects.md) — related
 - [ELM implementation did not significantly disrupt the cross-year stability of evidence-based teaching practices](elm-preserves-cross-year-stability.md) — related
+- [Introducing ELM to formerly control teachers did not significantly disrupt the cross-year stability of their evidence-based teaching practices](elm-did-not-disrupt-practice-stability.md) — related
+- [For teachers using ELM in both years, longitudinal increases reached significance only for group responses and teacher demonstrations](elm-elm-teachers-partial-significant-increases.md) — related

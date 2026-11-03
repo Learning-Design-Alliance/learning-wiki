@@ -64,3 +64,4 @@ The review attributes this to Tsai and Liu (2018), reporting that learners using
 - [Cooperative learning, computer-supported collaborative learning, and digital games probably improve learning.](cooperative-learning-cscl-and-digital-games-probably-improve-learning.md) — a broader claim this one bears on
 - [Educational computer games are effective for vocabulary acquisition in foreign language learning, per a systematic review of six studies](computer-games-effective-vocabulary-acquisition-efl.md) — related
 - [Word analysis of 103 educational digital game studies reveals diverse terminology for the same concept](edgc-diverse-terminology-word-analysis.md) — related
+- [Among the vocabulary-teaching methods used, students most often named computer games as the most enjoyable (57%), most beneficial (40%) and preferred (61%) option](students-prefer-computer-games-percentages.md) — a narrower finding that bears on this claim

@@ -96,3 +96,4 @@ Ngo et al. (2024) support this claim for ASR-based training, with a large pooled
 - [No group improved in perception of French /y/, so production-focused ASR training did not transfer to perception](asr-production-training-no-perception-gains.md) — related
 - [Instruction mode differentially affected suprasegmental but not segmental gains across the three groups](instruction-mode-affects-suprasegmental-gains.md) — a narrower finding that bears on this claim
 - [Software-only instruction produced significantly greater gains on segmental than on suprasegmental pronunciation aspects](software-gains-segmental-over-suprasegmental.md) — related
+- [Indonesian EFL teachers and students perceived segmentals (consonants and vowels) as the top priority for pronunciation teaching, contrary to the suprasegmental trend](segmentals-prioritized-by-indonesian-efl-teachers-students.md) — related

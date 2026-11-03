@@ -48,3 +48,4 @@ Narrative review section 5.1.2 attributing findings to the cited studies: planne
 - [The influence of strategic planning on accuracy is unclear and depends on task type and planning conditions](strategic-planning-accuracy-mixed.md) — related
 - [Strategic pre-task planning has a clear positive influence on the complexity of learners' task performance](strategic-planning-enhances-complexity.md) — related
 - [Planning effects on performance in test contexts are mixed, appearing for high-proficiency learners and high-load tasks but not overall](planning-in-test-contexts-mixed-effects.md) — related
+- [Control-group combined planners also improved fluency, attributed to double planning time](control-polp-planners-fluency-gain.md) — related

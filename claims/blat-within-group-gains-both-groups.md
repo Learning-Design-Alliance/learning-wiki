@@ -49,3 +49,4 @@ Dependent t-test within the experimental group (n=29, t = -18.639 as printed in 
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — possibly the same claim (merge candidate)
 - [Both experimental and control students showed significant pre-to-post gains on the Newton's Laws achievement test](both-groups-significant-pre-post-gains.md) — possibly the same claim (merge candidate)
 - [5E-model teaching of lamp brightness produced higher posttest achievement than traditional teaching in a quasi-experiment with 62 11th-grade students](5e-model-lamp-brightness-posttest-achievement.md) — related
+- [Experimental-group students showed significant pre-to-post gains in learning achievement with the CoBl model](cobl-achievement-pre-post-gains.md) — related

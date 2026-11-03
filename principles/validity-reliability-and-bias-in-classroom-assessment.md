@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 368 claims (164 for, 179 mixed, 25 against) · 279 studies (90 associational, 61 design, 45 review, 42 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 24 of 279 report an effect size · 361 claims rest on one study
+> **Evidence** · 370 claims (165 for, 179 mixed, 26 against) · 281 studies (90 associational, 61 design, 45 review, 44 causal, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 25 of 281 report an effect size · 363 claims rest on one study
 
 ## Conditional relationship
 
@@ -442,6 +442,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The 60-item grammar post-test showed KR-21 reliability of 0.94 and a moderate criterion-related validity correlation of 0.41 with the Nelson grammar total](../claims/posttest-reliability-validity-kr21-nelson-correlation.md) [+W]
 - [The exam instrument showed acceptable reliability with a Cronbach coefficient of 0.82](../claims/exam-reliability-cronbach-082-nursing-skills.md) [+W]
 - [Teachers' Fall and Spring projections of the same student are strongly correlated within students](../claims/fall-spring-projection-correlation.md) [+W]
+- [Time spent on the pre/post assessment correlated positively with most QR rubric scores, suggesting motivation contributes to scores](../claims/time-on-task-correlates-qr-scores.md) [-W]
+- [The study's teacher-made tests showed high reliability and criterion validity against NELSON](../claims/teacher-made-grammar-tests-reliability-validity.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

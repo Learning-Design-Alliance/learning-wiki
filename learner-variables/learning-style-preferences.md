@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 55 claims (30 show a difference, 11 mixed, 14 no difference) · 31 studies (16 causal, 6 review, 5 associational, 2 design, 2 theoretical), `q1`–`q3` · 10 of 31 report an effect size · 54 claims rest on one study
+> **Evidence** · 56 claims (30 show a difference, 12 mixed, 14 no difference) · 32 studies (17 causal, 6 review, 5 associational, 2 design, 2 theoretical), `q1`–`q3` · 10 of 32 report an effect size · 55 claims rest on one study
 
 ## Bottom line
 
@@ -93,6 +93,7 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Using learning styles for differentiated instruction is problematic and not advisable to spend much teaching time on](../claims/learning-styles-problematic-for-di.md) [-W] — an effect differed by reported style in this study; matching to style is not supported overall
 - [Most learners report that visual input helps them understand speakers](../claims/visual-input-helps-comprehension-perceptions.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Students' perception that visual strategies are better than traditional methods strongly predicts their preference for using them.](../claims/perceived-usefulness-predicts-preference-for-visual-strategies.md) [+M] — instruction changes reported style
+- [There is an interaction effect between cooperative learning model and Kolb learning style on learning results in Basics of Political Science](../claims/interaction-cooperative-model-learning-style-outcomes.md) [~M] — an effect differed by reported style in this study; matching to style is not supported overall
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

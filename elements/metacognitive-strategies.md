@@ -13,7 +13,7 @@ generated:
 # Metacognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (6 for, 5 mixed, 2 against) · 14 studies (3 causal, 3 theoretical, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 1 of 14 report an effect size · 12 claims rest on one study
+> **Evidence** · 14 claims (6 for, 6 mixed, 2 against) · 15 studies (4 causal, 3 theoretical, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 1 of 15 report an effect size · 13 claims rest on one study
 
 ## Description
 Metacognitive strategies are deliberate learner moves for planning, monitoring, checking, and revising thinking during learning. This element captures concrete supports for self-regulation such as confidence checks, self-questioning, and strategy review.
@@ -54,6 +54,7 @@ Metacognitive strategies are deliberate learner moves for planning, monitoring, 
 - [Interactive open learner modelling can foster reflective thinking](../claims/iolm-fosters-reflective-thinking.md) [+W]
 - [Meta-cognitive training has a significant effect on primary school pupils' performance of learned numeracy concepts in computer-mediated classrooms](../claims/metacognitive-training-significant-numeracy-effect.md) [+W] — attached 2026-11-01 from Gbenga-Akanmu & Jegede (2019), which proposed "Meta-cognitive Training Manual (MCTM) with the CRIME strategy acronym"; tests this page's relationship.
 - [Heuristic-methodological instruction shows no significant effect on pupils' reported learning planning](../claims/heuristic-instruction-no-effect-learning-planning.md) [-W]
+- [Control-group combined planners also improved fluency, attributed to double planning time](../claims/control-polp-planners-fluency-gain.md) [~W]
 
 ## Related Elements
 - [Self-Assessment](self-assessment.md)

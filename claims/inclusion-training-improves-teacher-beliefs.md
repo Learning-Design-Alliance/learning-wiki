@@ -56,3 +56,4 @@ Meta-analysis of pretest-to-posttest intervention effects (Cohen's d) across stu
 - [Preservice teachers report higher self-efficacy for inclusive education than in-service teachers](preservice-higher-self-efficacy-inclusion-than-inservice.md) — related
 - [Professional development for in-service teachers produces large gains in teachers' knowledge about inclusive education (g = 0.93)](pd-large-effect-teacher-inclusive-knowledge.md) — related
 - [Teacher education workshop paired with robot curriculum improves teachers' relevance and self-efficacy beliefs](teacher-workshop-improves-relevance-and-self-efficacy.md) — related
+- [Teachers' self-efficacy is connected to the effectiveness of inclusion implementation, with self-efficacy for inclusive curricula mattering more than self-efficacy for cooperation](teacher-self-efficacy-inclusion-implementation.md) — related

@@ -58,3 +58,5 @@ Quasi-experimental study with recast, prompt, and control groups tested before, 
 - [Both CALL-based and written-question tasks produce positive effects on EFL grammar learning](both-task-types-improve-grammar-learning.md) — related
 - [Grammar-oriented uptake rates are significantly higher in input-providing and output-prompting feedback classes than in a no-feedback class among young EFL learners](feedback-groups-uptake-exceed-no-feedback-young-efl.md) — related
 - [Output-prompting feedback outperforms input-providing and no-feedback conditions on both immediate and delayed grammar posttests in young EFL learners](output-prompting-outperforms-input-providing-grammar.md) — related
+- [Within the output-producing group, high-feedback receivers significantly outperformed both low-feedback receivers and the input-only control group](high-feedback-receivers-outperform-low-feedback-and-control.md) — related
+- [Beginning EFL learners who produced written output and received corrective feedback outperformed input-only learners on a delayed receptive vocabulary post-test](output-plus-feedback-outperforms-input-only-receptive-vocabulary.md) — related

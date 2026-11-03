@@ -20,7 +20,7 @@ grain_size: lesson
 # Peer Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 21 claims (9 for, 12 mixed) · 28 studies (9 causal, 5 quant-synthesis, 5 review, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 6 of 28 report an effect size · 15 claims rest on one study
+> **Evidence** · 23 claims (11 for, 12 mixed) · 29 studies (10 causal, 5 quant-synthesis, 5 review, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 7 of 29 report an effect size · 17 claims rest on one study
 
 ## Description and scope
 
@@ -97,6 +97,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — not yet checked against its sources
+- [Peer instruction produced significantly higher post-test conceptual comprehension scores than traditional lecture in a pre-service teacher methodology course](../claims/peer-instruction-higher-posttest-conceptual-comprehension.md) [+W] — attached 2026-11-03 from Safaa Mohammad Al-Hebaishi (2017), which proposed "Peer instruction lecture sequence: mini-lecture, individual concept-question response, peer discussion, and optional answer revision"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -118,6 +119,7 @@ This pattern is scoped to conceptual questions with a defensible answer. Open-en
 - [Learners with lower own confidence are more inclined to change their assumption in the face of disagreement](../claims/low-own-confidence-drives-assumption-change.md) [~W]
 - [High prior knowledge students learned most conceptual understanding from questions plus arguments; answering questions alone was least effective](../claims/high-prior-knowledge-arguments-best-conceptual-understanding.md) [+W]
 - [Partner confidence does not significantly affect whether learners change their assumption in the face of disagreement](../claims/partner-confidence-no-effect-on-change.md) [~W]
+- [ANCOVA adjusting for pre-test scores showed a significant group effect favouring the peer instruction group on post-test comprehension](../claims/ancova-group-effect-peer-instruction-posttest.md) [+W]
 
 ## Related Patterns
 - [Think-Pair-Share](think-pair-share.md)

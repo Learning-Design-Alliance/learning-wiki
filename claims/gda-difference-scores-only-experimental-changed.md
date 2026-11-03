@@ -47,3 +47,4 @@ Independent samples t-test on pretest-to-posttest difference scores of both grou
 ## Related Claims
 - [Both DS-integrated and traditional writing instruction significantly improved narrative writing scores from pre-test to post-test](both-instruction-types-improved-narrative-writing.md) — reports the opposite
 - [The CL class improved significantly from pretest to posttest while the traditional-taught class did not](cl-gain-significant-control-null.md) — related
+- [The formative-assessment group improved significantly from pre-test to post-test while the control group did not](formative-group-pre-post-gain-significant-control-not.md) — related

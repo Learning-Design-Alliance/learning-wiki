@@ -66,6 +66,7 @@ Presenting group work requires learners to reconstruct and verbalize their reaso
 - [Gallery Walk](gallery-walk.md) — a scalable variant that replaces whole-class presentation with rotating small-audience feedback
 - [Implement the grouping method from the start of the classes rather than only in the final period](implement-grouping-from-course-start.md)
 - [Alternate student work forms: small groups, brainstorming, and oral presentation in project work](alternate-work-forms-small-groups-brainstorming.md)
+- [Use post-presentation survey questions adapted from Sinclair to elicit and code learners' metacognitive justifications](sinclair-post-presentation-survey-strategy.md)
 
 ## Examples
 - A 6th-grade science class completes a collaborative investigation, then each group presents its findings — the steps taken, challenges faced, and how conclusions were reached — while classmates question the evidence

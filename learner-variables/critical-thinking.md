@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 162 claims (114 show a difference, 30 mixed, 18 no difference) · 108 studies (51 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 21 of 108 report an effect size · 160 claims rest on one study
+> **Evidence** · 163 claims (115 show a difference, 30 mixed, 18 no difference) · 109 studies (52 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 21 of 109 report an effect size · 161 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -202,6 +202,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [PBL teaching significantly improves the critical thinking skills of analysis and interpretation in English-major sophomores](../claims/pbl-improves-analysis-interpretation-skills.md) [+M] — instruction changes it
 - [PBL teaching significantly improves the critical thinking temperament dimensions of analysis, openness and justice in English-major sophomores](../claims/pbl-improves-analysis-openness-justice-temperament.md) [+M] — instruction changes it
 - [Reading comprehension and critical thinking skill gains are positively correlated in EFL learners](../claims/reading-comprehension-critical-thinking-correlated.md) [+M] — learners who differ on it differ in outcomes
+- [Learners report peer review fostered critical thinking in an EFL academic-writing course, with mixed answers on identifying proper academic writing](../claims/peer-review-critical-thinking-perception.md) [+W] — self-reported gains by participants who used peer review, with no comparison group
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

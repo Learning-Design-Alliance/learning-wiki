@@ -47,3 +47,4 @@ The article reports, citing Hausmann & VanLehn (2007), that self-explanation pro
 ## Related Claims
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — a broader claim this one bears on
 - [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](self-explanation-effect-worked-examples.md) — related
+- [Most student teachers misidentify the poles of a temporary magnet formed by frictional magnetization, with the misconception more frequent in the control group](frictional-magnetization-pole-misconception.md) — related

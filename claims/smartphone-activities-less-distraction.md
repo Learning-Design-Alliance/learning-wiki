@@ -52,3 +52,4 @@ Teachers rated distracted students on a Likert scale after each of 19 treatment 
 - [Teacher-observed negative emotions do not differ significantly between smartphone and paper-based activity groups](teacher-observed-negative-emotions-null-smartphone.md) — related
 - [Smartphone use during class is a distraction with potential to compromise grades (review attribution)](smartphone-class-distraction-grades.md) — related
 - [Choice decreases self-reported distraction during the lesson, while utility value's effect on distraction depends on baseline interest in statistics](choice-decreases-distraction-uv-interest-interaction.md) — related
+- [During training sessions, experimental-group students were more focused and autonomous while control-group students were more dispersed and often did not complete transfer tasks](4cid-session-engagement-and-task-completion-observations.md) — related

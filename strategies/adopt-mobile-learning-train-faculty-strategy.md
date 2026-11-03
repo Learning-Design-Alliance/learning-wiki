@@ -44,6 +44,7 @@ Based on the positive findings, the article recommends that educationists use Mo
 ## Related Strategies
 
 - [Adopt mobile messaging applications, especially WhatsApp, across English-language teaching](adopt-whatsapp-mobile-apps-elt-strategy.md)
+- [Train students and teachers on academic mobile-phone use and introduce it gradually in small doses](train-and-gradual-mobile-learning-introduction.md)
 
 ## Examples
 -

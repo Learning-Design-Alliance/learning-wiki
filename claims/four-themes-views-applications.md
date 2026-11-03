@@ -66,3 +66,4 @@ Qualitative finding from the reflective learning group interviews: a minority re
 ## Related Claims
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [No significant between-group difference in prospective teachers' professional self-competence perceptions after scenario based or reflective learning applications](no-self-competence-difference-sbl-reflective.md) — related
+- [Some students perceived the weekly situated learning assignments as time-consuming and overly challenging](situated-learning-assignments-perceived-time-consuming-challenging.md) — related

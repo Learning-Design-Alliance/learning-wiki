@@ -174,6 +174,20 @@ def impossible_values(text):
     return out
 
 
+def _other_reading_fits(nums, ss, df, ms):
+    """Whether a row that fails SS / df = MS agrees with itself under a reading a table's printing
+    makes likely, so it is not reported as an impossible statistic:
+    - PDF extraction split one number in two ("487.6 26 1 487.626" is SS 487.626, df 1, MS 487.626);
+    - a period printed as the thousands separator in MS ("37232.16 1 37.232" is MS 37,232)."""
+    if "." in nums[0] and "." not in nums[1] and len(nums) >= 4:
+        joined, df2, ms2 = _num(nums[0] + nums[1]), _num(nums[2]), _num(nums[3])
+        if joined and df2 and ms2 and df2 == int(df2) and abs(joined / df2 - ms2) / ms2 <= 0.01:
+            return True
+    if re.fullmatch(r"\d{1,3}\.\d{3}", nums[2]) and abs(ss / df - ms * 1000) / (ms * 1000) <= 0.005:
+        return True
+    return False
+
+
 def anova_rows(text):
     """Rows under a header naming SS, df and MS, read as SS df MS F ...; the last
     number is read as eta squared only when the header names it last."""
@@ -209,7 +223,7 @@ def anova_rows(text):
             if not (ss and df and ms) or df != int(df) or not 0 < df < 1000 or "." in nums[1] \
                     or "." not in nums[0] + nums[2]:
                 continue
-            if abs(ss / df - ms) / ms > 0.05:
+            if abs(ss / df - ms) / ms > 0.05 and not _other_reading_fits(nums, ss, df, ms):
                 out.append({"check": "anova-row", "what": f"MS {ms} is not SS {ss} / df {int(df)} ({ss / df:.2f})",
                             "text": " ".join((h + " | " + row).split())[:300]})
             if eta_last:

@@ -63,6 +63,7 @@ Open questions push learners beyond retrieval into elaboration, explanation, and
 - [Think-Pair-Share](../patterns/think-pair-share.md) — structures the wait and drafting time open questions require
 - [Socratic Seminar](socratic-seminar.md) — a full pattern built on student-to-student open questioning
 - [Use low-stakes, multiple-entry warm-ups like \"Which One Doesn't Belong?\" to reduce fear of wrong answers](which-one-doesnt-belong-low-stakes-warmup.md)
+- [Use post-presentation survey questions adapted from Sinclair to elicit and code learners' metacognitive justifications](sinclair-post-presentation-survey-strategy.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — students take turns generating open questions about a text segment, alongside summarizing and predicting; see [Reciprocal Teaching](../elements/reciprocal-teaching.md).

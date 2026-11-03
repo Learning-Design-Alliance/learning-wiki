@@ -51,3 +51,4 @@ Questionnaire administered to the experimental group only, using the Turkish ada
 - [AI-featured methods significantly increased motivation across all four ARCS categories for computational problem-solving activities](ai-scaffolding-computational-problems-increases-all-arcs-motivation.md) — related
 - [Students taught Ottoman Turkish readings with an augmented reality application achieved higher academic success than students taught with the classical method](ar-ottoman-turkish-higher-achievement-than-classical.md) — related
 - [Experimental group motivation was significantly higher in 3 of 5 sub-categories, but no correlation was found between test results and motivation](busuu-motivation-higher-no-correlation.md) — related
+- [After using the game-based learning system, students report positive motivation, with about 80% satisfaction and 83% confidence](arcs-questionnaire-positive-motivation-satisfaction-confidence.md) — related

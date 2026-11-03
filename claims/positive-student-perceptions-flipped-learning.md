@@ -69,3 +69,5 @@ Same questionnaire's lower-agreement items: adequate time to view videos (Q2, 78
 - [Pre-service teachers taught with flipped learning scored significantly higher than lecture-taught peers on the first, second and final exams, but not on final grade](flipped-learning-higher-exam-scores-preservice-teachers.md) — related
 - [Pre-service teachers in the flipped-learning group reported high satisfaction with the flipped learning activity's usefulness for video-production skills](positive-questionnaire-feedback-flipped-activity.md) — related
 - [Many pre-service teachers were averse to flipped learning, preferring traditional lectures](pre-service-teacher-aversion-to-flipped-learning.md) — reports the opposite
+- [Treatment-group pre-service teachers held positive attitudes toward peer instruction, with questionnaire item means ranging from 3.4000 to 4.5500](positive-attitudes-toward-peer-instruction-treatment-group.md) — related
+- [Iranian EFL learners in the flipped group held mostly positive attitudes toward flipped instruction](positive-efl-attitudes-toward-flipped-instruction.md) — related

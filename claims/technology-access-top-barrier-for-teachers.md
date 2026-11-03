@@ -52,3 +52,4 @@ Content analysis of coded responses to a survey question about barriers to using
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
 - [Lack of technology access was the most commonly reported barrier to integrating the mathematics products](technology-access-greatest-integration-barrier.md) — related
+- [Flipped classrooms depend on student participation and home technology access, limiting applicability](flipped-classroom-participation-and-access-barriers.md) — a narrower finding that bears on this claim

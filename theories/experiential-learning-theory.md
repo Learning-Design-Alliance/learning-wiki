@@ -12,7 +12,7 @@ generated:
 # Experiential Learning Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (8 for, 2 mixed) · 6 studies (3 causal, 2 review, 1 quant-synthesis), `q2`–`q3` · 1 of 6 report an effect size · 10 claims rest on one study
+> **Evidence** · 13 claims (8 for, 5 mixed) · 7 studies (4 causal, 2 review, 1 quant-synthesis), `q2`–`q3` · 1 of 7 report an effect size · 13 claims rest on one study
 
 ## Description
 David Kolb's Experiential Learning Theory (ELT) is "a holistic model of the learning process and a multi-linear model of adult development" (Baker, Jensen, & Kolb, 2002, p. 51), rooted explicitly in Dewey, Kurt Lewin, and Piaget. It models learning as a four-stage cycle — concrete experience, reflective observation, abstract conceptualization, and active experimentation — organized around two underlying dialectical continuums: **apprehension** (concrete experience) versus **comprehension** (abstract conceptualization), and **intension** (reflective observation) versus **extension** (active experimentation). Kolb's central theoretical claim is that learning requires actively resolving the discomfort of whichever pole of each continuum a learner is *not* naturally comfortable with: "perception alone is not sufficient for learning; something must be done with it," and "transformation alone cannot represent learning, for there must be something to be transformed" (Baker, Jensen, & Kolb, pp. 56–67). This dialectical-resolution requirement is the theory's core explanatory mechanism, distinguishing it from a purely descriptive account of "learning by doing."
@@ -52,6 +52,9 @@ In response to the last two criticisms, some accounts propose a **revised experi
 - [On the soil science unit, cognitive sequence of instruction interacted with student preference for grasping information in predicting pretest-to-posttest change scores](../claims/soil-unit-grasping-sequence-interaction.md) [+W] — attached 2026-11-02 from Kasee L. Smith et al. (2017), which proposed "Kolb's experiential learning theory as a framework for cognitive sequencing of instruction".
 - [Students achieved higher pretest-to-posttest change scores when a unit was sequenced to begin with their preferred mode of grasping information, regardless of unit content](../claims/matched-sequence-higher-change-scores.md) [+W] — attached 2026-11-02 from Kasee L. Smith et al. (2017), which proposed "Kolb's experiential learning theory as a framework for cognitive sequencing of instruction".
 - [Most students in the study preferred grasping experience through apprehension, and pretest differences between sites existed only on the soil unit](../claims/apprehension-majority-and-site-pretest-differences.md) [~W]
+- [There is an interaction effect between cooperative learning model and Kolb learning style on learning results in Basics of Political Science](../claims/interaction-cooperative-model-learning-style-outcomes.md) [~W] — attached 2026-11-03 from Sugiharto (2015), which proposed "Kolb learning styles (assimilator and accommodator) as a moderator of instructional-model effects".
+- [Accommodator-style students learned Basics of Political Science better with GI than with STAD](../claims/accommodators-higher-with-gi-than-stad.md) [~W] — attached 2026-11-03 from Sugiharto (2015), which proposed "Kolb learning styles (assimilator and accommodator) as a moderator of instructional-model effects".
+- [Assimilator-style students learned Basics of Political Science better with STAD than with GI](../claims/assimilators-higher-with-stad-than-gi.md) [~W] — attached 2026-11-03 from Sugiharto (2015), which proposed "Kolb learning styles (assimilator and accommodator) as a moderator of instructional-model effects".
 
 ## Related Theories
 

@@ -26,7 +26,8 @@ A 23-item Likert self-report assessment of cognitive, affective, behavioural, an
 - [Within the flipped-classroom experimental group, engagement rose significantly from pre-test to post-test on four sub-dimensions and disengagement fell significantly](../claims/experimental-group-prepost-engagement-gain.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Intercultural Sensitivity Scale (ISS)](intercultural-sensitivity-scale-iss.md)
 
 ## Key Sources
 - Ayçiçek, B., & Yanpar Yelken, T. (2018). The Effect of Flipped Classroom Model on Students’ Classroom Engagement in Teaching English. International Journal of Instruction, 11(2), 385-398. https://doi.org/10.12973/iji.2018.11226a

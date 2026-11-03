@@ -48,6 +48,7 @@ The intervention's design combined two pedagogical principles: Vygotsky's Zone o
 
 - [Eight-week MI module sequence with assignments and compact assessment rubric](eight-week-mi-module-sequence-rubric.md)
 - [Ten-week two-phase LLM usage experiment in React programming education](ten-week-two-phase-llm-react-experiment.md)
+- [Six-module academic integrity sequence combining values definitions, scenarios, multimodal tasks, quizzes and an integrative final test](fas-six-module-instructional-sequence.md)
 
 ## Examples
 -

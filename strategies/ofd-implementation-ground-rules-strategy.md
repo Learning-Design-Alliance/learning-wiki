@@ -42,7 +42,7 @@ The article recommends incorporating online forum discussions as a best practice
 ## Claims
 
 - [Synchronous online forum discussion produces no statistically significant difference in lexical density compared with asynchronous blog writing](../claims/ofd-blog-no-difference-lexical-density.md) [~W]
-- [Learners perceive synchronous online forum discussions positively across seven themes: feeling, motivation, interaction, writing skills, autonomy, challenges, and cultural issues](../claims/ofd-learner-perceptions-seven-themes.md) [+W]
+- [Four EFL learners interviewed about synchronous online forum discussion described seven themes: positive feelings, motivation, interaction, writing-skill gains and autonomy, alongside practical challenges and a cultural issue](../claims/ofd-learner-perceptions-seven-themes.md) [+W]
 - [Synchronous online forum discussion produces no statistically significant difference in syntactic complexity compared with asynchronous blog writing, though the OFD mean was slightly higher](../claims/ofd-blog-no-difference-syntactic-complexity.md) [~W]
 - [Synchronous online forum discussion produces no statistically significant difference in lexical diversity compared with asynchronous blog writing in EFL post-test writing](../claims/ofd-blog-no-difference-lexical-diversity.md) [~W]
 

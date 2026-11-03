@@ -55,8 +55,10 @@ Narrative advance organizers work by activating relevant prior knowledge and giv
 4. Return to the story during or after instruction to consolidate the mapping ([Application of Knowledge](../elements/application-of-knowledge.md))
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the broader family of techniques for surfacing relevant knowledge; narrative organizers are a story-based variant
 - [Analogies](../elements/analogies.md) — narrative organizers often work through analogical mapping from story structure to content structure
+- [Use portraiture as a contemplative classroom technique in which learners create their own stories of life events](portraiture-contemplative-classroom-technique.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — the parent element; narrative organizers are one subtype

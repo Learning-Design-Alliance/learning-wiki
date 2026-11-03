@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 161 claims (65 for, 84 mixed, 12 against) · 88 studies (32 quant-synthesis, 27 causal, 11 review, 7 theoretical, 6 qualitative, 3 design, 2 associational), `q1`–`q4` · 24 of 88 report an effect size · 156 claims rest on one study
+> **Evidence** · 163 claims (65 for, 85 mixed, 13 against) · 89 studies (32 quant-synthesis, 28 causal, 11 review, 7 theoretical, 6 qualitative, 3 design, 2 associational), `q1`–`q4` · 24 of 89 report an effect size · 158 claims rest on one study
 
 ## Description and scope
 
@@ -253,6 +253,8 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [PBL in small groups supports creativity through openness to new ideas, handling problems from different angles, and imagining various solutions](../claims/pbl-small-group-creativity.md) [+W]
 - [PBL group pre-service teachers report higher self-confidence, self-efficacy, and intrinsic motivation than LBCC peers](../claims/pbl-affective-attainments-motivation.md) [+W]
 - [PBL group pre-service teachers report challenging, creative, cognitive, affective, and group-related positive learning keys](../claims/pbl-positive-learning-keys-qualitative.md) [+W]
+- [Among surveyed students, PBL students moderately out-performed non-PBL students on grade A achievement (chi-square p=0.065)](../claims/pbl-grade-a-chi-square-surveyed.md) [~W]
+- [PBL scored lower than non-PBL on stimulating students to carry on learning, though not statistically significantly](../claims/pbl-lower-stimulated-carry-on-learning-null.md) [-W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

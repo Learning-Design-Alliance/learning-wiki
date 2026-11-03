@@ -52,3 +52,4 @@ Experiment 1 randomly assigned 168 online participants to audio, audio+text, or 
 - [Textual slide content yields a small comprehension advantage over pictorial slide content in speeded audio-visual lectures, with no effect of speed](textual-beats-pictorial-slides-speeded-lectures.md) — related
 - [Learners' judgments of learning track actual test performance in single-evaluation mode but not in joint-evaluation mode](jol-divergence-single-vs-joint-evaluation.md) — related
 - [Instructor visuals do not reduce mind wandering during video lectures](instructor-visuals-no-mind-wandering-reduction.md) — related
+- [Pupils using the audio-and-image (AI) mode significantly outperformed pupils using the audio-image-text (AIT) mode on the music theory post-test](ai-mode-outperformed-ait-mode-music-theory.md) — related

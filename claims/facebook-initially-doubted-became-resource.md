@@ -51,3 +51,4 @@ Qualitative finding from thematic analysis of the students' final reports, on th
 - [First-year students used Facebook mainly for social purposes and only secondarily for informal student-to-student academic purposes, rarely for formal teaching.](facebook-social-not-formal-teaching.md) — related
 - [Facebook acted as part of the 'social glue' helping first-year students settle into university life, though most students did not see it as crucial to overcoming loneliness.](facebook-social-glue-settling-in.md) — related
 - [Facebook-based digital storytelling helped cross-national students overcome stereotypes and share opinions](facebook-digital-storytelling-overcame-stereotypes.md) — related
+- [Field notes documented implementation difficulties: initial group membership, mother-tongue use, and group-composition complaints](web2-implementation-difficulties-field-notes.md) — related

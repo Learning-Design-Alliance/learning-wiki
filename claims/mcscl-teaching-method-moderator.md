@@ -53,3 +53,4 @@ Random-effects moderator analysis of teaching methods. Table 4 reports LT g = 0.
 - [Achievement effects do not differ significantly across cooperative learning techniques; unstructured and STAD show the highest point estimates](cooperative-learning-technique-moderator.md) — related
 - [Cooperative TGT significantly improves Grade 11 students' mathematics understanding compared with conventional teaching over a five-week intervention](tgt-improves-mathematics-understanding.md) — related
 - [Teaching electrochemical cells via STAD cooperative learning combined with models raises undergraduate achievement more than STAD alone or traditional teaching](stad-with-models-beats-stad-and-traditional-electrochemical-cells.md) — related
+- [Students taught Basics of Political Science with the GI cooperative learning model achieved higher learning results than students taught with STAD](gi-higher-learning-results-than-stad-political-science.md) — related

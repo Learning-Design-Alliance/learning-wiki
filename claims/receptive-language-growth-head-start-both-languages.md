@@ -54,3 +54,4 @@ First-stage growth curve models of the four language measures (TELD-3, PPVT-III,
 - [Simultaneous and sequential DLL learners show opposite vocabulary patterns in English versus the home language](simultaneous-sequential-vocabulary-differences.md) — possibly the same claim (merge candidate)
 - [DLL children can catch up to monolingual norms in English vocabulary, but need substantial time and exposure to do so](dll-catch-up-over-time.md) — related
 - [Bilingual children score higher in English than Spanish, with the language effect larger in the expressive modality](english-spanish-language-by-modality-interaction.md) — related
+- [Dual language narrative intervention produced a large English vocabulary gain (d = .98) but only a small Spanish vocabulary gain (d = .34)](english-vocabulary-large-effect-spanish-small.md) — related

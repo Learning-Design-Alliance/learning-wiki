@@ -49,3 +49,4 @@ Semi-experimental pre-test/post-test control group study of 25 six-year-olds (11
 - [Within the GEMS group, problem solving scores improved significantly from pre-test to post-test on both subscales and the total](gems-within-group-problem-solving-gains.md) — related
 - [No significant post-test difference between groups on the Science and Nature Problems subscale](gems-no-difference-science-nature-problems.md) — related
 - [Parents reported that after GEMS education children's interest in science and mathematics increased and they asked more questions](gems-parents-report-increased-science-interest.md) — related
+- [Disadvantaged 60-72-month-old children who participated in a play-supported readiness program scored significantly higher than control-group children on most MPERS sub-scales at posttest](play-supported-program-higher-readiness-posttest.md) — related

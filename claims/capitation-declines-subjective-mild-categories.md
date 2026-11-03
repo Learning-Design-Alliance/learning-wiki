@@ -50,3 +50,4 @@ An observational study of state special education finance over 1991-92 to 2003-0
 - [Capitation-based special education finance was associated with a rising share of local funding](capitation-rising-local-funding-share.md) — related
 - [The initiative was associated with an overall increase in promotions to the next grade, concentrated among special education students](focus-high-schools-promotion-increase-special-education.md) — related
 - [Census funding is viewed as a cost-containment approach for special education finance](census-funding-viewed-as-cost-containment.md) — related
+- [The HSIS baseline special needs imbalance was concentrated in informal care settings and among higher-incidence disabilities, supporting an access-to-diagnosis mechanism](hs-imbalance-informal-care-higher-incidence.md) — related

@@ -28,7 +28,7 @@ sources:
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (25 for, 18 mixed, 1 against) · 59 studies (22 causal, 11 quant-synthesis, 8 review, 6 associational, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 14 of 59 report an effect size · 34 claims rest on one study
+> **Evidence** · 45 claims (25 for, 18 mixed, 2 against) · 60 studies (23 causal, 11 quant-synthesis, 8 review, 6 associational, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 14 of 60 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -172,6 +172,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Pupils at Level 4a and above, who received the intervention only in Year 6, showed no significant writing benefit](../claims/srsd-no-effect-level-4a-above-year6-only.md) [~W]
 - [Access to spell check and editing tools without explicit instruction did not improve, and may have reduced, control students' error correction](../claims/tool-access-alone-insufficient-editing.md) [~W]
 - [EDIT Strategy effects persist at 12 weeks for total, spelling, and punctuation errors, with a non-significant substance difference](../claims/edit-strategy-maintenance-12-weeks.md) [+W]
+- [Editing-only intervention did not significantly differ from control except a trend on the editing task, and no group differences emerged on the writing sample](../claims/editing-only-null-versus-control-and-writing-null.md) [-W]
 
 ## Related Principles
 - [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.

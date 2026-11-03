@@ -53,3 +53,4 @@ One-way ANOVA in the same quasi-experiment (27 control, 34 treatment grade XI ph
 - [ARPS scores are positively and significantly correlated with all four RIMMS motivation dimensions](arps-rimms-positive-correlations.md) — related
 - [AI-featured methods significantly increased motivation across all four ARCS categories for computational problem-solving activities](ai-scaffolding-computational-problems-increases-all-arcs-motivation.md) — related
 - [Prospective teachers taught with an activity-based blended learning strategy reported significantly higher motivation than those taught with conventional blended learning](abl-motivation-beats-conventional-blended.md) — related
+- [ARCS motivation factors significantly predict learning achievement](arcs-factors-predict-learning-achievement.md) — related

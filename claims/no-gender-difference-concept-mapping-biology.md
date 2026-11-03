@@ -59,3 +59,5 @@ ANCOVA on post-test scores of male and female students within the concept mappin
 - [No significant difference in achievement between male and female students taught with the demonstration method](no-gender-difference-demonstration-method.md) — related
 - [No significant difference in listening performance between male and female students taught with suggestopedia](suggestopedia-listening-no-gender-difference.md) — related
 - [No significant performance difference between male and female students taught with the Polya Problem-Solving Model](polya-model-no-gender-difference.md) — related
+- [Female biology education students' academic achievement in DNA replication increased significantly more than male students'](female-students-greater-dna-achievement-gain.md) — related
+- [No significant gender difference in biology performance among students taught with individualised CAI](no-gender-difference-individualised-cai.md) — related

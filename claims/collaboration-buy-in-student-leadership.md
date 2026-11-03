@@ -52,3 +52,4 @@ Cross-case qualitative finding from interviews and focus groups with staff and s
 - The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building — related
 - [Improvement teams with representation from teachers, principals, and district leadership gained broader buy-in than teams missing any level](cross-level-team-composition-buy-in.md) — a broader claim this one bears on
 - [The value of the student-staff collaboration was explored from student, staff, and institutional perspectives, with benefits, limitations, and recommendations presented](student-staff-collaboration-value-three-perspectives.md) — related
+- [Administrators and teachers perceived collaborative group work and mathematical discourse as the strongest contributors to JEMP student achievement](jemp-collaborative-discourse-perceptions.md) — related

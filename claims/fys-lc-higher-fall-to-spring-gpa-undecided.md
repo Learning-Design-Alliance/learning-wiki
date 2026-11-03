@@ -51,3 +51,4 @@ Two-sample t-test comparing fall-to-spring cumulative GPA of undecided FTIC stud
 - [Fall-to-spring and fall-to-fall retention rates did not differ significantly between intervention and control undecided students](no-significant-retention-difference-interventions.md) — related
 - [Statistically significant GPA and good-standing advantages for intervention groups disappeared by fall-to-fall measurement](significant-gains-vanish-fall-to-fall.md) — related
 - [The three intervention sub-groups did not differ significantly on pre-matriculation at-risk characteristics](subgroups-similar-pre-matriculation.md) — related
+- [Paired-course students achieved an 84% success rate in environmental science and an 84% fall-to-spring retention rate versus 73% for a similar-SAT comparison group](paired-course-success-and-retention-rates.md) — related

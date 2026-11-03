@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 211 claims (135 show a difference, 49 mixed, 27 no difference) · 170 studies (63 associational, 35 causal, 27 review, 24 quant-synthesis, 10 theoretical, 6 design, 5 qualitative), `q1`–`q4` · 24 of 170 report an effect size · 209 claims rest on one study
+> **Evidence** · 214 claims (136 show a difference, 50 mixed, 28 no difference) · 173 studies (63 associational, 38 causal, 27 review, 24 quant-synthesis, 10 theoretical, 6 design, 5 qualitative), `q1`–`q4` · 25 of 173 report an effect size · 212 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -243,6 +243,9 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Structure-outcome relationships appear largely universal across grade levels](../claims/structure-benefits-appear-universal-across-grade-levels.md) [-M] — an instructional effect differs with it
 - [Grade level moderates the SKILL effect on reading comprehension, benefiting Grades 3–4 but not Grades 1–2, while oral and written language effects do not vary by grade](../claims/skill-grade-moderation-reading.md) [~W] — an instructional effect differs with it
 - [The effect of number relationships instruction on posttest scores does not differ by child age](../claims/no-age-moderation-number-relationships-instruction.md) [-M] — an instructional effect differs with it
+- [Grade level moderated engagement effects: students in higher grades spent more time passively engaged, with secondary control students most disengaged](../claims/grade-moderates-engagement-udl.md) [+M] — an instructional effect differs with it
+- [Intervention outcomes did not depend on grade level: no grade differences and no condition-by-grade interactions](../claims/dialect-intervention-outcomes-invariant-across-grades.md) [-M] — an instructional effect differs with it
+- [The intervention benefited learners of all success levels in fifth grade but only very-good performers in third grade](../claims/intervention-benefit-by-success-score-grade.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

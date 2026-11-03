@@ -52,3 +52,4 @@ Three-level Likert attitude survey (8 items, N=146) administered face-to-face to
 - [The experimental group answered achievement tests faster (6.18 minutes) than the control group (7.51 minutes)](cft-hypertext-design-faster-test-completion.md) — related
 - [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](cognitive-flexibility-theory-multiple-cases.md) — a broader claim this one bears on
 - [Students in the WhatsApp blended course expressed significantly more positive attitudes toward their learning process than the fully in-class control group](whatsapp-blended-attitude-gains.md) — related
+- [Level-1 ('largely unaware') answers were more frequent in the control group (40%) than the experimental group (16%), while level-2 answers were nearly equal (44% vs 48%)](level1-difference-control-vs-experimental.md) — related

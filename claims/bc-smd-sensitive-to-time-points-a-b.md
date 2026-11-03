@@ -48,3 +48,4 @@ The article's methodological guidance section states, citing Valentine et al. (2
 ## Related Claims
 - [The BC-SMD extends to clustered multiple baseline designs via a three-level model on unaggregated student-level data, illustrated with a mathematics intervention study of 33 students in 12 groups in 5 schools](bc-smd-clustered-multiple-baseline.md) — related
 - [The BC-SMD extends to multivariate multiple baseline designs across participants, allowing estimation of effects on several correlated outcome measures in a single model](bc-smd-multivariate-multiple-baseline.md) — related
+- [Estimated effects ranged from 8 to more than 75 percent of baseline levels depending on intervention and outcome](goal-effects-range-8-to-75-percent-baseline.md) — related

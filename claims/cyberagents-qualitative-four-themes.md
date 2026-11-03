@@ -58,3 +58,4 @@ Qualitative thematic analysis of open-ended post-study survey responses from the
 - [Adult learners prefer scenario-based, unobtrusive gamified, and competency-based assessment in AI-powered learning](adult-learners-ai-assessment-preferences.md) — a broader claim this one bears on
 - [Students preferred online simulation approaches that provide clear instruction, correction and caring feedback](students-prefer-clear-instruction-correction-caring-feedback.md) — related
 - [Treatment students perceived OAV as useful and effective, with algorithmic thinking the most frequent contribution theme (28%)](oav-perceived-contributions-seven-themes.md) — related
+- [Open-ended student feedback yielded four themes: PBL is acceptable, challenging but beneficial, improves soft skills, and suits only students with basic accounting knowledge](pbl-qualitative-feedback-four-themes.md) — related

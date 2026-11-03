@@ -66,3 +66,4 @@ One-way repeated-measures ANOVA on experiment-1's pre-test, post-test and retent
 - [A 2×2 mixed ANOVA showed a significant time-by-group interaction in narrative writing scores favoring DS-integrated instruction over traditional writing instruction](ds-integrated-writing-instruction-interaction-advantage.md) — related
 - [Writing performance improved significantly from pre-test to post-test across the writing-instruction groups](pretest-posttest-writing-gain-significant.md) — a narrower finding that bears on this claim
 - [Experimental group showed significant pre-to-post gains on vocabulary test score](experimental-group-pre-post-vocabulary-gains.md) — related
+- [Experimental-group students showed significant pre-to-post gains in learning achievement with the CoBl model](cobl-achievement-pre-post-gains.md) — related

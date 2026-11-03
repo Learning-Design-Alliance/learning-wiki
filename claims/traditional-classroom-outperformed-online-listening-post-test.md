@@ -54,3 +54,4 @@ Quasi-experiment with 44 Syariah and Law Faculty students (22 control, 22 experi
 - [Students in a blended course with weekly WhatsApp-mediated learning activities achieved significantly higher post-test scores than students in a fully in-class control group](whatsapp-blended-achievement-gains.md) — related
 - [Traditionally taught elementary EFL learners significantly outperform web-based learners in structural knowledge](traditional-instruction-outperforms-web-based-structure.md) — related
 - [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in reading comprehension](web-based-instruction-outperforms-traditional-reading.md) — related
+- [Seven weeks of Smartboard instruction produced significantly higher post-treatment motivation than traditional whiteboard instruction in Saudi preparatory-year EFL learners](smartboard-raises-efl-motivation-saudi-pyp.md) — related

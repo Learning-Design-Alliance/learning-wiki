@@ -55,3 +55,4 @@ Teachers' perceived workload was measured with the raw NASA-TLX (0–10 per subs
 - [With the alerting & guiding dashboard, teachers' workload dropped most on the performance and frustration subscales, while cognitive load, temporal demand and effort differences were non-significant](guiding-dashboard-performance-frustration-subscales-drop.md) — reports the opposite
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
 - [Designer workload across an 11-module instructional design model for product development averaged normal-to-high (50–75%)](nasa-tlx-normal-high-workload-design-process.md) — related
+- [Experimental teachers reported the Glogster model, tiered assignments and scaffolding were effective for struggling students, though assessment demanded much effort](glogster-tiered-scaffolding-struggling-students.md) — related

@@ -47,6 +47,7 @@ Based on the findings, the authors propose steps for implementing pictorial teac
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Provide initial training plus multi-year in-classroom coaching when implementing Carnegie Learning Algebra I](carnegie-learning-initial-training-plus-coaching.md)
 - [Disseminate conceptual change texts through teacher training and curriculum materials](cct-dissemination-strategy.md)
+- [Train instructors intensively before implementing assessment for learning in a new setting](intensive-instructor-training-for-afl-implementation.md)
 
 ## Examples
 -

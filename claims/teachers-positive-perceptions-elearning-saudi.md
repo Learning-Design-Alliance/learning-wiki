@@ -50,3 +50,4 @@ Questionnaire survey of 52 general teachers of English (other than JCC teachers)
 - [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related
 - [Students hold generally positive attitudes toward educational chatbots and agree the chatbots they used improved their knowledge and understanding](positive-student-attitudes-chatbot-knowledge-gains.md) — related
 - [AI literacy and formal AI training remain low among nursing and health-professions students, though attitudes are largely positive](low-ai-literacy-positive-attitudes-health-students.md) — related
+- [Ascertaining phase found humanities graduates' computer-skills training insufficient and a lack of adapted electronic educational resources](ascertaining-lack-adapted-electronic-resources-humanities.md) — related

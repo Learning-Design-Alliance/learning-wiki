@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 226 claims (118 show a difference, 55 mixed, 53 no difference) · 178 studies (74 associational, 71 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 30 of 178 report an effect size · 225 claims rest on one study
+> **Evidence** · 227 claims (118 show a difference, 55 mixed, 54 no difference) · 179 studies (74 associational, 72 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 31 of 179 report an effect size · 226 claims rest on one study
 
 ## How to read this page
 
@@ -311,6 +311,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Subgroup analyses by free school meal status showed no evidence of impact on either NGRT or ACE outcomes](../claims/tott-fsm-subgroup-null-results.md) [-M] — an instructional effect differs by group
 - [The LRS showed no evidence of improving average scores for boys, girls, or pupils ever eligible for free school meals](../claims/lrs-no-impact-subgroups-fsm.md) [-M] — an instructional effect differs by group
 - [The programme significantly improved enjoyment of reading for pupils not eligible for free school meals but not for FSM-eligible pupils](../claims/sarp-enjoyment-fsm-differential.md) [~M] — an instructional effect differs by group
+- [TEEP showed no impact on attainment for students eligible for free school meals](../claims/teep-no-impact-fsm-subgroup.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

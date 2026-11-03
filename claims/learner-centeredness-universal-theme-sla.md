@@ -53,3 +53,4 @@ Theme 5 from the qualitative synthesis of three SLA theories and five teaching m
 - [Sociocultural learning theory holds that knowledge develops through engagement in social interaction with others, so English learners benefit from meaningful interaction with peers](el-collaborative-discussion-sociocultural-benefit.md) — related
 - [Research in language classes suggested cooperative learning was better than whole-class instruction for language skills and produced more student turns than teacher-centered classes](cooperative-learning-language-class-outcomes.md) — related
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — related
+- [Students reported problems in the contemplative teaching setting, including teacher-centeredness and difficulty thinking deeply](problems-in-contemplative-classroom.md) — related

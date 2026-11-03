@@ -52,3 +52,4 @@ Comparing total assessments (average of interesting, instructional, fun) for eac
 - [Students rate multimedia introductory activities as more instructive, interesting and fun than traditional introductory activities](multimedia-introductory-activities-rated-more-motivating.md) — a broader claim this one bears on
 - [Students enjoyed interactive game adventure writing significantly more than traditional story writing, with no significant gender difference.](enjoyment-interactive-over-traditional.md) — related
 - [In anaesthesia education, e-learning shows no consistent benefit over traditional learning across trials](e-learning-no-consistent-benefit-anaesthesia.md) — related
+- [Students reported that multimedia learning motivated them and was more effective and interactive than traditional teaching](multimedia-learning-motivation-and-effectiveness-computer-networks.md) — related

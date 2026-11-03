@@ -57,3 +57,4 @@ A randomized controlled trial randomly assigned low-performing first-graders in 
 - TRI shows an average effect size of +0.51 on Woodcock reading outcomes across two studies — related
 - [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — related
 - [The Year 3 pilot is a randomized control trial assigning at-risk first graders within schools to FUSION or at-risk control, with an additional average control condition](fusion-pilot-rct-design.md) — related
+- [A tutoring-based psychological and pedagogical support program produced a statistically significant improvement in first-year students' adaptation level in the experimental group but not in the control group](tutoring-program-significant-adaptation-improvement-experimental-group.md) — related

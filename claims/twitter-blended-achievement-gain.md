@@ -52,3 +52,4 @@ Quasi-experimental comparison of two intact groups of female students (36 analyz
 - [Students in the WhatsApp blended course expressed significantly more positive attitudes toward their learning process than the fully in-class control group](whatsapp-blended-attitude-gains.md) — related
 - [Elementary ESL students taught vocabulary with the MPS on an interactive whiteboard achieved significantly higher post-test scores than students taught with a blackboard](mps-iwb-higher-esl-vocabulary-posttest.md) — related
 - [Task-based teaching of technical vocabulary produces significantly better post-test performance than traditional translation-based teaching in Iranian ESP courses](tblt-beats-traditional-esp-vocabulary.md) — related
+- [Seven weeks of Smartboard instruction produced significantly higher post-treatment motivation than traditional whiteboard instruction in Saudi preparatory-year EFL learners](smartboard-raises-efl-motivation-saudi-pyp.md) — related

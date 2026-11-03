@@ -57,3 +57,4 @@ Authors' summary of the 12-participant evaluation study, in which all participan
 - [Teachers report a need for faster lesson planning and material preparation to gain time for higher-value activities](teachers-need-faster-lesson-planning.md) — related
 - [Teachers' design work extends before, while, and after a unit is taught](design-work-extends-before-while-after-unit.md) — related
 - [The mathematics teacher viewed digital storytelling positively as attention-grabbing but found story preparation difficult and time-consuming](teacher-positive-but-preparation-time-consuming.md) — related
+- [Teachers identified time demands, class size, and curriculum coverage requirements as the main obstacles to differentiating instruction](di-obstacles-time-class-size-curriculum.md) — related

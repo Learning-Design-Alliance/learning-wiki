@@ -67,3 +67,4 @@ ANCOVA on treatment-group scores only (30 males, 40 females) tested the gender h
 - [Gender did not significantly influence the achievement of Nigerian SS1 students taught the mole concept with mastery learning instructional strategy.](mastery-learning-gender-no-significant-effect-mole-concept.md) — related
 - [No statistically significant gender difference in direct achievement of scientific concepts](no-gender-difference-direct-achievement-modules-study.md) — related
 - [No significant gender difference in academic performance among students exposed to the lecture method](gender-no-significant-difference-lecture-borno.md) — related
+- [Female biology education students' academic achievement in DNA replication increased significantly more than male students'](female-students-greater-dna-achievement-gain.md) — related

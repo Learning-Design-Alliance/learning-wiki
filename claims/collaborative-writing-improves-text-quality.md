@@ -93,3 +93,4 @@ Twenty-eight 10- and 11-year-olds in one mixed-ability class were all trained in
 - [Classroom activities and targeted interventions—peer collaboration, mind mapping, storytelling, and perspective-taking—improve children's divergent thinking](classroom-activities-interventions-improve-divergent-thinking.md) — related
 - [Revision skill was not related to writing quality in either grade group](revision-not-related-writing-quality.md) — related
 - [Thesis Writer supports the scaling of writing instruction in group assignment settings](thesis-writer-scales-writing-instruction-group-assignments.md) — a narrower finding that bears on this claim
+- [Students perceive peer review as improving composition quality, with ideas and structure benefiting most](peer-review-composition-quality-perception.md) — a narrower finding that bears on this claim

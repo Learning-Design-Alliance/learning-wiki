@@ -47,6 +47,7 @@ The article's concluding recommendation is that "The decisive condition for the 
 
 - [Embed research methods and creative activity across physics studies to strengthen competency formation](embed-research-methods-across-physics-studies.md)
 - [Support competence formation through activity in cognition, self-reliant design work, convergence with real knowledge processes, and continuity between levels](cross-cutting-task-factors.md)
+- [Foreign-language teachers can use the study's materials to involve students in creative independent cognitive activity](teachers-use-materials-creative-independent-activity.md)
 
 ## Examples
 -

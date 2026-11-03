@@ -224,3 +224,4 @@ Open questions include how the effect interacts with learner control over pacing
 - [System-paced multimedia learning environments with spoken narration yield higher learning outcomes than self-paced ones](system-pacing-beats-self-pacing-with-narration.md) — related
 - [Learner pacing is a proposed moderator that may explain the absence of a split-attention effect in visually-based mobile learning](self-pacing-may-moderate-split-attention-in-mobile-learning.md) — related
 - [Screen reading is slower than reading from printed out material according to prior literature reviewed](screen-reading-slower-than-printed-reading-literature.md) — related
+- [Pupils using the audio-and-image (AI) mode significantly outperformed pupils using the audio-image-text (AIT) mode on the music theory post-test](ai-mode-outperformed-ait-mode-music-theory.md) — a narrower finding that bears on this claim

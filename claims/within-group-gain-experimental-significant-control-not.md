@@ -69,3 +69,4 @@ T-test analysis of pre-test and post-test scores reported in Table 2: experiment
 - [The experimental blog group showed statistically significant pre-to-post gains in reading skills over the two-month treatment](blog-group-prepost-reading-gains.md) — related
 - [Experimental-group students' achievement scores rose significantly from pre-test to post-test under the flipped classroom strategy](fcrs-pre-post-achievement-gain.md) — a narrower finding that bears on this claim
 - [Raw post-test descriptive means rose for the PowerPoint group (59.9 to 68.4) but stayed flat for the control group (58.45 to 58.1)](ppt-listening-pre-post-descriptives.md) — related
+- [The experimental group's mean listening score rose from 51.56 on the pre-test to 69.86 on the post-test](experimental-group-mean-rose-51-56-to-69-86.md) — related

@@ -45,6 +45,7 @@ The article's experimental course followed a structured flipped pattern: before 
 ## Related Designs
 
 - [OCW-integrated flipped classroom: pre-class self-study of open course materials followed by in-class collaborative group learning with TA support](ocw-flipped-classroom-two-stage-design.md)
+- [Four-step lesson algorithm: motivation, lecture, game training, reflection](motivation-lecture-game-training-reflection-lesson-algorithm.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Meta-analysis of 102 papers (2000–2020) yielding 191 effect sizes from 40,898 
 - [Training and interventions improve teachers' cognitive appraisal (d = 0.63), emotional appraisal (d = 0.63), and self-efficacy toward inclusive practices (d = 0.93)](inclusion-training-improves-teacher-beliefs.md) — related
 - [Preservice teachers report higher self-efficacy for inclusive education than in-service teachers](preservice-higher-self-efficacy-inclusion-than-inservice.md) — a narrower finding that bears on this claim
 - [Teachers with special education training hold more positive views about inclusion than regular education teachers (d = 0.41)](special-education-teachers-more-positive-inclusion-views.md) — related
+- [Teachers' self-efficacy is connected to the effectiveness of inclusion implementation, with self-efficacy for inclusive curricula mattering more than self-efficacy for cooperation](teacher-self-efficacy-inclusion-implementation.md) — related

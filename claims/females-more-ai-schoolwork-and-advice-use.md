@@ -59,3 +59,4 @@ Pre-workshop logistic regression controlling for year level and school on the ba
 - [LLM learners are younger, more likely male, and score higher on technology affinity than non-learners](llm-learners-younger-male-higher-tech-affinity.md) — reports the opposite
 - [Male respondents were significantly more likely than non-male respondents to have no concern about their labour being used for military purposes](gender-difference-military-labour-concern.md) — related
 - [Gender, computer experience and computer attitudes each significantly predict classroom computer use](gender-experience-attitudes-predict-computer-use.md) — related
+- [Preservice teachers' social skills differ significantly by gender on some SSES items, favouring male preservice teachers](sses-gender-difference-favouring-males.md) — related

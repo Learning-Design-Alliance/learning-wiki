@@ -71,3 +71,5 @@ Scheffe post-hoc analysis of group mean scores in the same ANCOVA study. The art
 - [Nigerian SS II physics students taught with computer-assisted STAD cooperative learning achieved significantly higher post-test scores than students taught with Individualized Computer Instruction](computer-assisted-stad-beats-ici-physics-achievement.md) — related
 - [Retention of physics content: the Results section reports a significant STAD-versus-ICI difference at p = 0.053, while the Discussion reports no significant difference in retention](stad-ici-retention-mixed-reporting.md) — related
 - [Teaching strategy has a significant main effect on Nigerian senior secondary students' transfer of knowledge in physics](teaching-strategy-significant-effect-physics-transfer.md) — related
+- [Secondary students exposed to CAI in either individualised or cooperative settings outperformed students taught biology by conventional classroom instruction](cai-beats-conventional-biology-nigeria.md) — related
+- [Students using cooperative CAI outperformed students using individualised CAI in biology post-test scores](cooperative-cai-beats-individualised-cai.md) — related

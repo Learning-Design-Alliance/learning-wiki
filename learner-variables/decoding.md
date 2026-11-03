@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 141 claims (94 show a difference, 26 mixed, 21 no difference) · 93 studies (29 causal, 28 associational, 22 quant-synthesis, 8 review, 4 design, 2 theoretical), `q1`–`q4` · 30 of 93 report an effect size · 136 claims rest on one study
+> **Evidence** · 142 claims (95 show a difference, 26 mixed, 21 no difference) · 94 studies (30 causal, 28 associational, 22 quant-synthesis, 8 review, 4 design, 2 theoretical), `q1`–`q4` · 31 of 94 report an effect size · 137 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -106,7 +106,7 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [English (L2) decoding shows a strong linear relationship with English reading comprehension, with the correlation decreasing as children get older](../claims/l2-decoding-strong-relationship-english-comprehension.md) [+M] — learners who differ on it differ in outcomes
 - [L1 decoding is positively related to English reading comprehension for Spanish- and Chinese-speaking MLs, with the correlation decreasing as children get older](../claims/l1-decoding-positive-relationship-english-comprehension.md) [+M] — learners who differ on it differ in outcomes
 - [No significant differences emerged between word-reading intervention approaches, though whole word recognition showed trends toward null effects](../claims/no-significant-differences-between-word-reading-approaches.md) [-M] — instruction changes it
-- [Peer pairing, peer tutoring, and small collaborative/cooperative groupings improved MLs' English phonological awareness, decoding, and fluency across grade levels](../claims/peer-pairing-tutoring-grouping-improve-ml-reading-skills.md) [+M] — instruction changes it
+- [Peer pairing, peer tutoring, and small collaborative/cooperative groupings improved MLs' English phonological awareness across grade levels and were often associated with better English decoding and fluency than teacher-mediated instruction](../claims/peer-pairing-tutoring-grouping-improve-ml-reading-skills.md) [+M] — instruction changes it
 - [Prior reviews report positive word-reading intervention effects for adolescents but with a wide range (0-1.31) due to broad outcome conceptualization](../claims/prior-adolescent-reading-reviews-wide-effect-range.md) [~M] — instruction changes it
 - [Strategic use of MLs' L1 during decoding instruction was effective: shared letter-sound correspondences did not have to be retaught, and Spanish CVC segmentation instruction increased English decoding](../claims/l1-use-in-decoding-instruction-effective.md) [+M] — instruction changes it
 - [Word-reading interventions significantly improve decoding, nonword decoding, reading comprehension, and spelling (g = 0.29-0.45) but not reading fluency](../claims/word-reading-interventions-outcome-type-effects.md) [+W] — instruction changes it
@@ -182,6 +182,7 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Word recognition gains from phonological awareness training were maintained at one-month follow-up with no significant decline from post-test](../claims/pa-training-gains-maintained-follow-up-asd.md) [+M] — instruction changes it
 - [During the SQ3R intervention, students' words read per minute and word recognition percentages improved, with only four students reaching the 120-words-per-minute benchmark](../claims/sq3r-intervention-improved-reading-fluency-and-word-recognition.md) [+M] — instruction changes it
 - [Sam and Pat showed no impacts for five of six subgroups, with a suggestive but non-significant positive effect on word attack decoding for lower-literacy students (effect size = 0.16)](../claims/sam-and-pat-subgroup-lower-literacy-suggestive.md) [-M] — instruction changes it
+- [Talking story books significantly improved Saudi young EFL learners' reading-based phonics skills relative to the control group](../claims/talking-story-books-phonics-skills.md) [+M] — instruction changes it
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

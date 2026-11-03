@@ -73,3 +73,4 @@ Separate intention-to-treat regressions for each subgroup (Table 7), each contro
 - [For students eligible for free school meals, effects were considerably more negative but still not significant (NGRT g = -0.21)](units-of-sound-fsm-subgroup-more-negative.md) — related
 - [Mathematics Mastery showed a similar small non-significant effect for FSM-eligible pupils (+0.07)](maths-mastery-secondary-fsm-subgroup-effect.md) — related
 - [No differential impact was found for pupils eligible for free school meals](tsl-no-differential-fsm-impact.md) — a narrower finding that bears on this claim
+- [TEEP showed no impact by gender or prior attainment level](teep-no-impact-gender-ability.md) — related

@@ -51,3 +51,4 @@ Two-way repeated measures ANOVA on CLASS scores in the same 71-student quasi-exp
 ## Related Claims
 - [Think-pair-share instruction produced higher conceptual learning in classical mechanics than conventional teacher-centered teaching in a quasi-experimental physics course](tps-improves-conceptual-learning-mbt.md) — related
 - [Approximately 80% of voluntary TPS-group students expressed positive opinions of the strategy, citing improved understanding, participation, confidence and attitude](tps-student-opinions-mostly-positive.md) — related
+- [Students reported problems in the contemplative teaching setting, including teacher-centeredness and difficulty thinking deeply](problems-in-contemplative-classroom.md) — related

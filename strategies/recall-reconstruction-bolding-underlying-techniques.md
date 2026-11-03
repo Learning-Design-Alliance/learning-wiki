@@ -47,6 +47,7 @@ The article details three concrete operations learners perform on paired origina
 - Six Step Gcr Activity Sequence
 - [Retelling](retelling.md)
 - [Text Marking And Highlighting](text-marking-and-highlighting.md)
+- [Prepare learners and balance proficiency in groups when introducing consciousness-raising grammar tasks](prepare-learners-and-balance-proficiency-for-cr-tasks.md)
 
 ## Examples
 -

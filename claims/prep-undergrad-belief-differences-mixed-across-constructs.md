@@ -91,3 +91,4 @@ Independent-samples t-tests found no significant differences on implicit-explici
 - [Preferred instruction type shifted by year: Prep School, freshman and sophomore students preferred implicit instruction while junior and senior students preferred meaning-focused instruction](year-of-study-shifts-preferred-grammar-instruction.md) — related
 - [Focus on form was the least preferred method of grammar instruction regardless of year of study](fonf-least-preferred-grammar-instruction.md) — related
 - [EFL students across all years of study prefer having grammar included as part of their lessons and course books](efl-students-prefer-grammar-in-lessons-and-coursebooks.md) — related
+- [Inductive grammar teaching produced significantly higher post-test grammar achievement than deductive teaching among Jordanian elementary-stage EFL students](inductive-beats-deductive-grammar-elementary-jordan.md) — related

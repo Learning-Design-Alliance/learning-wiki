@@ -51,3 +51,4 @@ Quantitative comparison of the full corpus (n=15,273 comments) against a 15+ com
 - [Facebook is used in myriad ways as an educational instrument for learning and teaching in higher education](facebook-myriad-educational-uses-higher-education.md) — related
 - [Discussion thread length is strongly linearly related to the number of players contributing, indicating collective rather than small-group collaboration](wow-thread-length-linear-with-contributors.md) — related
 - [Danmaku hosts mass participation as a continuous collective flow while the discussion board divides learners into threaded small groups](danmaku-collective-flow-vs-threaded-small-groups.md) — related
+- [Students in the Facebook-integrated course used the platform heavily for course-related commenting, with females spending more daily time on Facebook than males](facebook-usage-patterns-course-integrated.md) — related

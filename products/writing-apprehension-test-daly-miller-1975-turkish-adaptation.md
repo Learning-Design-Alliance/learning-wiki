@@ -25,7 +25,8 @@ A 26-item, five-point Likert self-report assessment developed by Daly and Miller
 - [The process writing approach significantly decreased writing anxiety relative to traditional instruction](../claims/process-writing-decreases-writing-anxiety.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Intercultural Sensitivity Scale (ISS)](intercultural-sensitivity-scale-iss.md)
 
 ## Key Sources
 - Nihat BAYAT. (2014). The Effect of the Process Writing Approach on Writing Success and Anxiety. Educational Sciences: Theory & Practice, 14(3). https://doi.org/10.12738/estp.2014.3.1720

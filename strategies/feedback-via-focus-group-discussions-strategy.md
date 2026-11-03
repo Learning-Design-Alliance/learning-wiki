@@ -52,6 +52,7 @@ The article recommends that teaching staff and school mentor teachers give candi
 - Observe Discuss Practice Discuss Pattern
 - [Reflection with Others](reflection_with_others.md)
 - [Use weekly diary-report forms with feedback to develop pre-service teachers' self-regulation strategies](weekly-diary-report-forms-feedback.md)
+- [Provide prospective teachers with cooperative learning experiences during pre-service training](pre-service-cooperative-learning-experiences.md)
 
 ## Examples
 -

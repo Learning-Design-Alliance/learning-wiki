@@ -75,3 +75,4 @@ Within-group change in misconception counts (max 7). Current faculty misconcepti
 - [Novice teachers hold misconceptions about differentiation, such as equating DI with personalized instruction](novice-teacher-di-misconceptions.md)
 - [Teachers hold a complicated mix of scientific conceptions, misconceptions, and uncertainty about dyslexia concepts](teachers-mixed-conceptions-misconceptions-dyslexia.md) — related
 - [Multimedia-learning misconceptions are highly prevalent among student teachers, with the learning-styles misconception endorsed most commonly (84%)](multimedia-misconceptions-prevalent-student-teachers.md) — related
+- [Prospective science teachers in both groups held conceptual misunderstandings about sound, electricity, magnetism, light and optics](prospective-teachers-physics-misconceptions-five-topics.md) — related

@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 318 claims (198 show a difference, 51 mixed, 69 no difference) · 218 studies (85 causal, 52 associational, 36 quant-synthesis, 28 review, 8 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 47 of 218 report an effect size · 309 claims rest on one study
+> **Evidence** · 321 claims (200 show a difference, 52 mixed, 69 no difference) · 220 studies (87 causal, 52 associational, 36 quant-synthesis, 28 review, 8 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 49 of 220 report an effect size · 312 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -369,6 +369,9 @@ What a learner can read without effort, and whether the language of instruction 
 - [Web-based reading strategy training improved Iranian EFL learners' hypertext reading comprehension from pretest to posttest](../claims/web-based-strategy-training-improved-hypertext-comprehension.md) [+M] — instruction changes it
 - [Ninth grade Thai EFL students' English reading scores rose significantly across a one-group time series of CAI based on the TLS method, with no comparison group](../claims/cai-tls-improves-english-reading-thai-efl.md) [+W] — outcome: scores rose during instruction, with no comparison group
 - [Multisensory language teaching improves post-test reading achievement in young English learners compared with mainstream coursebook instruction.](../claims/mslt-improves-post-test-reading-achievement.md) [+M] — instruction changes it
+- [A dual language narrative intervention improved English narrative retell skills of Spanish-speaking preschool DLLs in a multiple-baseline design](../claims/dual-language-narrative-intervention-improved-english-retells.md) [+M] — instruction changes it
+- [Contemplative teaching with transformative instruction significantly improved EFL reading comprehension compared with a conventional reading program](../claims/contemplative-teaching-improves-reading-comprehension.md) [+M] — instruction changes it
+- [Dual language narrative intervention produced a large English vocabulary gain (d = .98) but only a small Spanish vocabulary gain (d = .34)](../claims/english-vocabulary-large-effect-spanish-small.md) [~W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

@@ -48,6 +48,7 @@ For CFTs, the article recommends assigning students to small groups of two or th
 - [Support students at the peer-evaluation stage with training and tutoring so all can participate and benefit](training-support-peer-evaluation-stage.md)
 - [Facilitator-led pedagogical intervention pairing slow learners with proficient peers and giving feedback](facilitator-pedagogical-intervention-oct.md)
 - [Compose discovery groups mixing high, medium, and low ability so peers support lower-ability students](mixed-ability-discovery-grouping-strategy.md)
+- [Form heterogeneous student groups and rotate membership across Web 2.0 activities](heterogeneous-rotating-groups-web2-activities.md)
 
 ## Examples
 -

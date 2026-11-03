@@ -48,7 +48,8 @@ The review adopts Ellis's (2005) classification of task planning, in which "Plan
 - 
 
 ## Examples
--
+
+- [Incorporate combined pre-task and on-line planning (POLP) as a fluency-enhancing option](../strategies/combined-pre-and-online-planning-strategy.md)
 
 ## Key Sources
 - Yingli Wang. (2008). Influence of Planning on Students' Language Performance in Task-based Language Teaching. English Language Teaching, 1(1). https://www.ccsenet.org/journal/index.php/elt

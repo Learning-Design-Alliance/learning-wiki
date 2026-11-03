@@ -45,7 +45,8 @@ A methodological framework for implementing the PeLe mobile testing system into 
 - [Pele Student Questionnaire Positive Attitudes](../claims/pele-student-questionnaire-positive-attitudes.md) [+W]
 
 ## Related Designs
-- 
+
+- [Inquiry-based mobile learning environment with integrated curriculum](inquiry-mobile-integrated-curriculum-environment.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Qualitative formative study: a system use experiment with a structured lesson pl
 - [A formative study with 7 students and 3 instructors identified five key challenges impeding exploratory learning in existing supply chain simulations.](five-barriers-exploratory-scm-simulation.md) — related
 - [Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework](pre-service-teachers-struggle-lesson-design.md) — related
 - [Experts perform differentiation activities across four phases: period preparation, lesson preparation, the lesson, and post-lesson evaluation](four-phases-expert-differentiation.md) — related
+- [Teachers identified time demands, class size, and curriculum coverage requirements as the main obstacles to differentiating instruction](di-obstacles-time-class-size-curriculum.md) — related

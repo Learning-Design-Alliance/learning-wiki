@@ -47,3 +47,4 @@ Analysis of a 20-item probability attitude survey (10 positive, 10 negative Like
 ## Related Claims
 - [Students taught with concept mapping expressed a positive attitude toward concept mapping on a 14-item Likert questionnaire](positive-attitude-toward-concept-mapping-likert.md) — related
 - [Most students in the CL class held positive attitudes toward cooperative learning, including perceived listening gains](cl-questionnaire-positive-attitudes.md) — related
+- [Treatment-group pre-service teachers held positive attitudes toward peer instruction, with questionnaire item means ranging from 3.4000 to 4.5500](positive-attitudes-toward-peer-instruction-treatment-group.md) — related

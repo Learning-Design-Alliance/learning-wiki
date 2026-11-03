@@ -50,3 +50,4 @@ Descriptive analysis of pre-test and post-test scores for both groups (N = 20 ea
 - [The experimental group's Geography achievement scores rose significantly from pre-test to post-test after PowerPoint instruction](powerpoint-pre-post-gain-geography.md) — related
 - [Descriptive means moved in opposite directions: the treatment group's critical thinking disposition mean rose while the control group's fell](ctd-means-opposite-directions.md) — related
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
+- [The experimental group's mean listening score rose from 51.56 on the pre-test to 69.86 on the post-test](experimental-group-mean-rose-51-56-to-69-86.md) — related

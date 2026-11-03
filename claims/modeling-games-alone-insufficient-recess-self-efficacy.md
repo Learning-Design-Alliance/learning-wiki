@@ -47,3 +47,4 @@ Authors' interpretation of the modeling group's non-significant self-efficacy ga
 ## Related Claims
 - [Children's conflict understanding and resolution learning occurred only when the MIXER interaction was followed by the classroom discussion forum](mixer-learning-required-discussion-forum.md) — related
 - [Teacher's encouragement is more effective than modeling by a competent adult at raising children's adult encouragement barrier self-efficacy for recess physical activity](teacher-encouragement-beats-modeling-adult-encouragement-barrier-self-efficacy.md) — related
+- [The interactive training program did not develop planning, locus of control, or self-confidence, which the authors attribute to prior knowledge and insufficient activities](program-failed-planning-locus-self-confidence.md) — related

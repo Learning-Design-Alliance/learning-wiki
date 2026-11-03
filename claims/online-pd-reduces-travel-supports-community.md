@@ -57,3 +57,4 @@ The brief's framing statement, offered without supporting data or argument, list
 - [Face-to-face components are used mainly for orientation while monitoring of learning progress is carried out online](f2f-orientation-online-monitoring-division.md) — related
 - [Students value the UOC online model's flexibility for combining study with professional and personal life](flexibility-combine-study-work-life.md) — related
 - [Flexibility was a key benefit for many students: 53% valued not having to travel, 61% found video recordings helpful, and 59% valued assignment deadline extensions](flexibility-benefits-recordings-extensions.md) — related
+- [Students who experienced both methods rate live video observation as less distracting for children and more convenient than onsite observation](wave2-paired-lvo-advantages.md) — a narrower finding that bears on this claim

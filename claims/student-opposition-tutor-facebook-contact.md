@@ -72,3 +72,4 @@ Table 1 summarises opinion on University administration contact via Facebook: te
 - [Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum](sns-groups-support-informal-design-learning.md) — related
 - [Facebook use in higher education is associated with improved performance, convenience of learning and higher engagement](facebook-improved-performance-convenience-engagement.md) — related
 - [Facebook acted as part of the 'social glue' helping first-year students settle into university life, though most students did not see it as crucial to overcoming loneliness.](facebook-social-glue-settling-in.md) — related
+- [Students reported high engagement perceptions, including feeling connected with the university through Facebook conversations with classmates](facebook-course-engagement-perceptions.md) — related

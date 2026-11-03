@@ -52,3 +52,4 @@ Kruskal-Wallis H test of pre-test scores across the three groups (EG1 N = 11, me
 - [The three study groups differed significantly in prior knowledge of electrochemical cells before instruction, with the CLMG group starting highest](pretest-differences-electrochemical-groups.md) — related
 - [Training location (home, school, or both) did not affect GL learning gains](training-place-no-effect-gains.md) — related
 - [The three groups were equivalent in self-regulated and self-directed learning scores before treatment](pretest-equivalence-srl-sdl-groups.md) — related
+- [The interactive training program did not develop planning, locus of control, or self-confidence, which the authors attribute to prior knowledge and insufficient activities](program-failed-planning-locus-self-confidence.md) — related

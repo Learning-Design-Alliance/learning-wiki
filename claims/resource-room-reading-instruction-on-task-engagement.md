@@ -50,3 +50,4 @@ Observational study of 10 special education resource-room teachers, with 2,178 m
 - [Comprehension instruction in resource rooms consisted mostly of teacher question-and-answer monitoring rather than explicit comprehension-strategy instruction](comprehension-monitoring-dominates-strategy-instruction-scarce.md) — related
 - [Non-instructional time averages 23 percent in observed Chicago elementary classrooms, with half of teachers at 14 percent and half at 30 percent](non-instructional-time-23-percent-teacher-split.md) — related
 - [Whole-group instruction was the most common grouping structure in elementary resource-room reading instruction despite small class sizes](whole-group-most-common-resource-room-grouping.md) — related
+- [The pull-out model is the most common form of support for students with special educational needs, but carries a problem of devaluation of such support](pull-out-model-common-support-devaluation.md) — related

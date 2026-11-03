@@ -47,3 +47,4 @@ Quasi-experiment comparing a WBI experimental group with a traditionally taught 
 ## Related Claims
 - [Undergraduate students taught IUPAC nomenclature of organic chemistry through an e-content package scored significantly higher on the post-test than students taught by conventional methods](e-content-package-posttest-advantage-iupac-nomenclature.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — a broader claim this one bears on
+- [Students learning a system analysis unit with a 3D game-based learning system achieve higher post-test scores than students taught by traditional face-to-face instruction](3d-game-based-learning-higher-posttest-software-engineering.md) — related

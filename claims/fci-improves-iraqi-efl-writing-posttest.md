@@ -82,3 +82,4 @@ Descriptive statistics (Table 2) for the same quasi-experiment show the experime
 - [Posttest writing means favored the discussion group descriptively but the difference was not statistically significant](posttest-descriptive-means-not-significant.md) — related
 - [Wiki-based instruction improved business writing more than traditional instruction among 60 second-year Business Administration EFL students at one Saudi university](wikis-improve-business-writing-skills-efl.md) — related
 - [Contextual teaching and learning produces higher argumentative writing scores than non-contextual instruction in university students](ctl-improves-argumentative-writing-hasani.md) — related
+- [Prior EFL flipped-classroom studies report positive but partly non-significant performance effects](prior-flipped-efl-studies-mixed-performance-evidence.md) — related

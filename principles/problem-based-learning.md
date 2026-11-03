@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 132 claims (56 for, 67 mixed, 9 against) · 81 studies (32 quant-synthesis, 17 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 20 of 81 report an effect size · 127 claims rest on one study
+> **Evidence** · 134 claims (56 for, 68 mixed, 10 against) · 82 studies (32 quant-synthesis, 18 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 20 of 82 report an effect size · 129 claims rest on one study
 
 ## Conditional relationship
 
@@ -230,6 +230,8 @@ At the curriculum level, the expectation of a small and variable average should 
 - [Descriptive gains in algebra achievement were largest for the blended learning group, followed by PBL and then TLM](../claims/bl-largest-descriptive-gain-algebra.md) [~W]
 - [PBL in small groups supports creativity through openness to new ideas, handling problems from different angles, and imagining various solutions](../claims/pbl-small-group-creativity.md) [+W]
 - [PBL group pre-service teachers report challenging, creative, cognitive, affective, and group-related positive learning keys](../claims/pbl-positive-learning-keys-qualitative.md) [+W]
+- [Among surveyed students, PBL students moderately out-performed non-PBL students on grade A achievement (chi-square p=0.065)](../claims/pbl-grade-a-chi-square-surveyed.md) [~W]
+- [PBL scored lower than non-PBL on stimulating students to carry on learning, though not statistically significantly](../claims/pbl-lower-stimulated-carry-on-learning-null.md) [-W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

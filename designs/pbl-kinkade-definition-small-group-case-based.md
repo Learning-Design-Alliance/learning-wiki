@@ -41,7 +41,8 @@ The article adopts Kinkade's definition of the PBL teaching model as "a curricul
 - 
 
 ## Related Designs
-- 
+
+- [Direct Problem-Based Learning (DPBL) as a combination of direct instruction and problem-based learning](dpbl-combines-direct-instruction-and-pbl.md)
 
 ## Examples
 -

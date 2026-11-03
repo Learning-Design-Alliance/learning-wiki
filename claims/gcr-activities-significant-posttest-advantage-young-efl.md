@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-03
 sources:
   - id: hamidreza-fatemipour-shiva-hemmati-2015
     resource: "http://dx.doi.org/10.5539/elt.v8n9p1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Young EFL learners taught with GCR activities scored significantly higher on a grammar posttest than learners taught deductively (t = 4.39, p = .00). [→ Hamidreza Fatemipour & Shiva Hemmati 2015](#hamidreza-fatemipour-shiva-hemmati-2015)
@@ -55,3 +56,8 @@ Quasi-experimental pretest–posttest study with 30 experimental and 30 control 
 - [Foreign learners of Turkish taught grammar with personalized texts scored significantly higher on the post-test than learners taught with ordinary textbook examples](personalized-texts-higher-turkish-grammar-achievement.md) — related
 - [Explicit instruction alone produced no statistically significant pretest-to-posttest gain in conditional sentences (p=.18)](explicit-instruction-no-significant-gain-conditionals.md) — related
 - [Cross-linguistic consciousness-raising significantly improves EFL learners' recognition of subject-verb agreement errors relative to traditional grammar teaching](cross-linguistic-cr-improves-sva-error-recognition.md) — a narrower finding that bears on this claim
+- [Dynamic assessment with mediated grammar testing produced higher post-test syntactic scores than deductive grammar instruction in Iranian college-preparatory EFL learners](dynamic-assessment-outperforms-static-syntactic-development.md) — related
+- [Most experimental students held favorable attitudes toward the consciousness-raising task instruction, including many who overall disliked the method](favorable-attitudes-toward-iegi-tasks.md) — related
+- [EFL students taught with indirect explicit grammar instruction (consciousness-raising tasks) significantly outperformed direct-instruction peers on rule analysis of English tenses](iegi-outperforms-degi-rule-analysis.md) — related
+- [Inductive grammar teaching produced significantly higher post-test grammar achievement than deductive teaching among Jordanian elementary-stage EFL students](inductive-beats-deductive-grammar-elementary-jordan.md) — related
+- [The review concludes the inductive method has proved effective for grammar teaching in most reviewed university- and school-level cases, whereas the deductive method has not](review-inductive-effective-most-cases.md) — related

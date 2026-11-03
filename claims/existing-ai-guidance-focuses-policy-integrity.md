@@ -55,3 +55,4 @@ The article's characterization of the current guidance landscape, stated in the 
 - [GenAI undermines academic integrity systemically rather than as individual dishonesty, because it optimises plausibility over truth and erodes the conditions for integrity](genai-undermines-integrity-systemically.md) — related
 - [Many institutions are adding dedicated AI courses and majors, and academic dishonesty changes form rather than increasing with GenAI](ai-courses-and-integrity-findings.md) — related
 - [Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive](genai-integrity-paired-with-ai-literacy.md) — related
+- [Institutional approaches to academic integrity have shifted over two decades from punitive, rules-focused responses to educative, values-based approaches](ai-shift-punitive-to-educative-approaches.md) — related

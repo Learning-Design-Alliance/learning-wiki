@@ -52,3 +52,4 @@ Quasi-experimental pretest-posttest nonequivalent-group study with two classes o
 - [Computer-assisted educational games improved attitudes toward grammar more than the existing curriculum](caeg-grammar-attitude-posttest-advantage.md) — related
 - [Computer-assisted educational games improved attitudes toward the Turkish course more than the existing curriculum](caeg-turkish-course-attitude-advantage.md) — related
 - [ICT-supported short narratives produced higher post-test achievement than regular curriculum instruction in 6th-grade Force and Motion](ict-narratives-posttest-achievement-advantage.md) — related
+- [Low-achievement 4th-grade students who practised English vocabulary with computer games raised their achievement by 38.7% on average over 24 weeks](computer-games-low-achievers-38-7-gain.md) — related

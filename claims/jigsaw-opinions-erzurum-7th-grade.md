@@ -48,3 +48,4 @@ The Jigsaw Opinion Scale (15 items, Cronbach alpha 0.74) was given post-teaching
 - [Jigsaw cooperative learning produced higher achievement than traditional teaching in the 7th-grade unit \"Science within Time\"](jigsaw-higher-achievement-science-within-time.md) — related
 - [Jigsaw group students reported mostly positive opinions, most commonly easier experiments, exchange of ideas, and shorter experiment duration](jigsaw-positive-student-opinions.md) — related
 - [Student teachers' opinions of the Jigsaw and confirmatory laboratory approaches do not differ significantly](no-opinion-difference-between-laboratory-approaches.md) — related
+- [Teaching physics in a science teaching laboratory practice course via the Jigsaw method based on cooperative learning yields higher achievement than the confirmatory laboratory method](jigsaw-lab-higher-physics-achievement-than-confirmatory.md) — related

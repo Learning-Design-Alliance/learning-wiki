@@ -58,3 +58,4 @@ Qualitative thematic analysis of interviews with the five teachers implementing 
 - [Students' learning performance in the rural school improved significantly after two years of Blended Synchronous Classroom practice](bsc-improved-rural-learning-performance.md) — related
 - [Local and remote students in a BSC did not differ significantly in their perceptions of the efficiency of BSC](bsc-no-perception-difference-local-remote.md) — related
 - [Qualitative observations and interviews indicated learners learned to identify and solve problems and experienced the intervention positively](qualitative-support-for-intervention-experience.md) — related
+- [Six factors complicate implementing inclusive innovations and their perception by teachers, including lack of skills, diagnostic mechanisms and resources](six-barriers-inclusive-innovation-implementation.md) — related

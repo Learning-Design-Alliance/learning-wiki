@@ -57,3 +57,4 @@ ANCOVA was applied to the final speaking-skill score with pre-test scores partia
 - [Multimedia-supported instruction produced a statistically significant pre-to-post achievement gain in 4th-grade social studies students](multimedia-significant-pre-post-gain-social-studies.md) — related
 - [The posttest advantage of the experimental section remained significant when posttest scores were covaried against pretest scores](ancova-posttest-section-type-significant.md) — possibly the same claim (merge candidate)
 - [The task-based cognitive-approach programme produced a significantly higher PET speaking post-test score than regular instruction, with a large effect size](task-based-cognitive-program-outperforms-regular-instruction-speaking.md) — related
+- [ANCOVA adjusting for pre-test scores showed a significant group effect favouring the peer instruction group on post-test comprehension](ancova-group-effect-peer-instruction-posttest.md) — related

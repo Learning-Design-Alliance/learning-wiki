@@ -48,3 +48,4 @@ A forming experiment with 74 experimental and 76 control students compared final
 ## Related Claims
 - [Prospective teachers taught Mathematics with a multimedia package scored significantly higher on the post-test than peers taught with Active Learning Methodology](multimedia-package-higher-posttest-mathematics-prospective-teachers.md) — related
 - [Multimedia-supported 7E model materials produced significantly higher post-test achievement than traditional teaching in fifth-grade science](multimedia-7e-posttest-advantage.md) — related
+- [Using e-teaching materials in future humanities teachers' training raised knowledge assimilation, assimilation quality and motivation relative to traditional teaching](e-teaching-materials-raise-assimilation-motivation-history-teachers.md) — related

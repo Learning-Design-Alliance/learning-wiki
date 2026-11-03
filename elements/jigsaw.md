@@ -13,7 +13,7 @@ generated:
 # Jigsaw
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (1 for, 3 mixed, 1 against) · 5 studies (3 causal, 1 review, 1 associational), `q1`–`q3` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (2 for, 3 mixed, 1 against) · 6 studies (4 causal, 1 review, 1 associational), `q1`–`q3` · 0 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 Jigsaw is the element in which parts of a topic are distributed across learners who then teach one another to assemble the whole.
@@ -29,6 +29,7 @@ Jigsaw is the element in which parts of a topic are distributed across learners 
 - [Student teachers' opinions of the Jigsaw and confirmatory laboratory approaches do not differ significantly](../claims/no-opinion-difference-between-laboratory-approaches.md) [~W]
 - [Posttest achievement under jigsaw instruction did not differ significantly by gender](../claims/no-gender-difference-posttest-jigsaw.md) [~W]
 - [Students most frequently cited increased course success as the jigsaw technique's main advantage](../claims/student-reported-jigsaw-advantages-success-and-cooperation.md) [+W]
+- [Teaching physics in a science teaching laboratory practice course via the Jigsaw method based on cooperative learning yields higher achievement than the confirmatory laboratory method](../claims/jigsaw-lab-higher-physics-achievement-than-confirmatory.md) [+W] — attached 2026-11-03 from Ataman Karacop (2017), which proposed "Adapted Jigsaw for science laboratory applications"; tests this page's relationship.
 
 ## Examples
 

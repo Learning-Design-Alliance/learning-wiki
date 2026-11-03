@@ -86,6 +86,7 @@ Eliciting thinking converts passive reception into generative processing; verbal
 - [Have learners bring their own thinking before using generative AI to enable productive struggle](../strategies/own-thinking-before-generative-ai-productive-struggle.md)
 - [Use explanation essays as a sensitive measure of student understanding](../strategies/explanation-essays-assess-understanding.md)
 - [Use the thinking loudly strategy to move students out of isolation and build self-expression during reading lessons](../strategies/thinking-loudly-strategy-arabic-reading.md)
+- [Use post-presentation survey questions adapted from Sinclair to elicit and code learners' metacognitive justifications](../strategies/sinclair-post-presentation-survey-strategy.md)
 
 ## Key Sources
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)

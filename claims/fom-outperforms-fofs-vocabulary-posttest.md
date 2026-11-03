@@ -46,3 +46,4 @@ Scheffe post hoc multiple comparisons (Table 3) show a mean difference of 5.1620
 
 ## Related Claims
 - [In an ESP context, Focus on Form instruction via dictogloss produced significantly higher productive vocabulary posttest scores than both Focus on Meaning and Focus on Forms instruction](fof-dictogloss-beats-fom-and-fofs-esp-vocabulary.md) — related
+- [The control group receiving traditional word-list instruction showed no sufficiently significant progress in productive vocabulary size](control-group-no-significant-vocabulary-progress.md) — related

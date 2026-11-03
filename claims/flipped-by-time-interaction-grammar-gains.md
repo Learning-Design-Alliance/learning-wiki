@@ -52,3 +52,4 @@ Pretest/posttest
 ## Related Claims
 - [Flipped ESL/EFL grammar instruction produced significant achievement gains on a grammar test while nonflipped in-class mini-lectures did not](flipped-classroom-grammar-achievement-gains-esl-efl.md) — related
 - [The control group's grammar scores also rose significantly from pretest to posttest under traditional instruction](control-group-grammar-gain-significant.md) — reports the opposite
+- [Prior EFL flipped-classroom studies report positive but partly non-significant performance effects](prior-flipped-efl-studies-mixed-performance-evidence.md) — related

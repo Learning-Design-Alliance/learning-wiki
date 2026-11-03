@@ -56,3 +56,5 @@ Logistic regression with MDTP topic mastery indicators and grade 6 CST scale sco
 - [When scale scores are used, prediction accuracy of grade 8 algebra I proficiency does not vary substantially across grade 6 CST, grade 7 CST, and MDTP assessments (75–78 percent)](scale-score-prediction-accuracy-75-78-percent.md) — related
 - [Using grade 6 math CST scale scores rather than proficiency status increases the accuracy of grade 8 algebra I placement decisions from 69 to 75 percent](grade6-cst-scale-scores-improve-algebra-placement-accuracy.md) — related
 - The Elevate Math summer program significantly improved math achievement of rising grade 8 students, with a treatment-control difference equivalent to 0.7 standard deviation — related
+- [Urban middle school students' mean MDTP readiness scores rose across the six-week JEMP summer program, with no comparison group or significance test](jemp-mdtp-readiness-growth.md) — related
+- [JEMP participants significantly outperformed non-participants on grade seven Pre-algebra CST scores after controlling for prior achievement](jemp-prealgebra-cst-ancova.md) — related

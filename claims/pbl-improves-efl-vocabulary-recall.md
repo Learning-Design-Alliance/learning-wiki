@@ -62,3 +62,4 @@ Semi-experimental study with 40 EFL learners aged 16-18 in Rasht, Iran, randomly
 - [Experimental group significantly outperformed control group on post-test vocabulary learning strategies questionnaire total score](experimental-group-outperformed-control-vls-posttest.md) — related
 - [Experimental group significantly outperformed control group on post-test vocabulary test score](experimental-group-outperformed-control-vocabulary-posttest.md) — related
 - [Students taught by WRD-trained teachers achieve significantly higher learning outcomes than students in control classes](wrd-trained-teachers-boost-student-achievement.md) — related
+- [EFL students using Web 2.0 learner-created content scored significantly higher on a vocabulary post-test than a lecture-based control group](web2-learner-content-vocabulary-posttest-gain.md) — related

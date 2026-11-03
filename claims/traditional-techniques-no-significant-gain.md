@@ -48,3 +48,4 @@ Paired t-test in the control group (n=30) taught by conventional techniques; the
 - [Teaching medical vocabulary through collocations produced higher posttest scores than traditional techniques in Iranian EFL medical students](collocation-instruction-outperforms-traditional-medical-vocabulary-teaching.md) — a broader claim this one bears on
 - [Traditional vocabulary teaching produced no statistically significant pretest-to-posttest gain in the control group](traditional-teaching-no-significant-vocabulary-gain.md) — possibly the same claim (merge candidate)
 - [The control group taught by the traditional method showed no significant pre-test to post-test improvement](traditional-group-no-vocabulary-gain.md) — related
+- [The control group receiving traditional word-list instruction showed no sufficiently significant progress in productive vocabulary size](control-group-no-significant-vocabulary-progress.md) — related

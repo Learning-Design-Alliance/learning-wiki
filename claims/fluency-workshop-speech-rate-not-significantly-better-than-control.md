@@ -69,3 +69,4 @@ Paired-samples t-tests on trimmed speech rate (syllables per minute) for each gr
 - [The fluency workshop did not increase use of target multiword expressions in speech significantly more than a general English class](fluency-workshop-mwe-use-in-speech-not-significant.md) — related
 - [Fluency showed a trend toward significance for the treatment group between pre- and post-tests (p=.055), suggesting digital game pressure may push learners to speak faster](pan-fluency-trend-toward-significance.md) — related
 - [The control group showed no significant change in speaking fluency from pre-test to post-test](control-group-no-fluency-change.md) — related
+- [Combined pre-task and on-line planners achieved significantly more fluent speech than on-line-only planners](polp-outperforms-olp-fluency.md) — related

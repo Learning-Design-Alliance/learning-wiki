@@ -42,7 +42,8 @@ The PPD design model views learning through the lens of performance, cultivated 
 - 
 
 ## Related Designs
-- 
+
+- [Performance–Play–Dialog (PPD) model of game-based learning](performance-play-dialog-model.md)
 
 ## Examples
 -

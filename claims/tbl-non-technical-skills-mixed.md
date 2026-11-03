@@ -74,3 +74,4 @@ Umbrella review synthesis: three reviews reported improved communication skills;
 - [In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related
 - [TBL significantly improves teamwork skills compared with PBL (SMD = 1.18)](tbl-improves-teamwork-skills-versus-pbl.md) — related
 - [TBL significantly improves communication skills while PBL does not](tbl-significant-pbl-not-communication.md) — related
+- [Students perceived PBL as providing significant benefits to presentation skills, teamwork, leadership and ability to use IT](pbl-significant-perceived-skill-benefits.md) — related

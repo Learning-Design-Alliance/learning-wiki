@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 214 claims (143 show a difference, 43 mixed, 28 no difference) · 135 studies (44 causal, 43 associational, 25 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 31 of 135 report an effect size · 207 claims rest on one study
+> **Evidence** · 216 claims (145 show a difference, 43 mixed, 28 no difference) · 137 studies (46 causal, 43 associational, 25 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 31 of 137 report an effect size · 209 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -250,6 +250,8 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [The process writing approach significantly decreased writing anxiety relative to traditional instruction](../claims/process-writing-decreases-writing-anxiety.md) [+W] — instruction changes it
 - [Interviewed Spaceteam ESL players said they spoke more English during play, and one said he stopped attending to his nervousness; the authors suggest motivation may explain a non-significant fluency trend](../claims/spaceteam-interviews-motivation-anxiety.md) [+W] — instruction changes it
 - [Research shows a significant negative correlation between foreign language listening anxiety and listening proficiency](../claims/listening-anxiety-negative-correlation-proficiency.md) [+W] — learners who differ on it differ in outcomes
+- [Despite the statistical increase in FLRA, experiment-group interviewees reported positive perceptions of reading strategy instruction, while criticizing text difficulty and instructor style](../claims/interviews-positive-despite-flra-increase.md) [+W] — instruction changes it
+- [Experimental-group students report predominantly positive attitudes toward assessment for learning, especially immediate feedback and reduced exam anxiety](../claims/afl-positive-student-attitudes-esp.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

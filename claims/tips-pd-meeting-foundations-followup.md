@@ -50,3 +50,4 @@ Repeated-measures ANOVA on DORA-II Meeting Foundations scores across four observ
 - [TIPS-trained teams more often documented reductions in out-of-school suspensions at follow-up](tips-pd-oss-reduction.md) — related
 - [TIPS professional development produces immediate and continuing improvements in school teams' overall problem-solving practices](tips-pd-improves-team-problem-solving.md) — related
 - [Team members rated TIPS professional development positively on efficiency, fidelity implementation, student outcomes, and worth of time invested](tips-social-validity-positive.md) — related
+- [Implementation fidelity to the SLMS model was mixed, with regular team meetings at only one of three treatment schools](slms-mixed-implementation-fidelity.md) — related

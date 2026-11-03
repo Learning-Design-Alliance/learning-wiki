@@ -71,3 +71,4 @@ Two-way ANOVA on self-efficacy: majors' background significant, "F(2,64)=4.63, p
 - Self-efficacy, reflective thinking, and help-seeking were associated with topic understanding at the cohort level (r = 0.427, 0.369, 0.168; d = 0.479) — related
 - [The Group by Major interaction on calculus achievement was not statistically significant](group-major-interaction-non-significant-flipped-calculus.md) — related
 - [No statistically significant difference in calculus achievement was found among students by major (medicine, applied medical science, engineering, computer science, science)](no-achievement-difference-by-major-flipped-calculus.md) — related
+- [Student background variables significantly affect learning motivation and demographic variables significantly affect learning achievement](background-demographic-variables-affect-motivation-achievement.md) — related

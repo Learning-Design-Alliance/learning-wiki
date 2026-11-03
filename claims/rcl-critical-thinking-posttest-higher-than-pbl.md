@@ -52,3 +52,4 @@ Pseudo-experimental comparison of two intact sixth-grade classes (45 PBL, 49 RCL
 - [RCL and PBL groups did not differ significantly on drill-and-practice posttest items](rcl-pbl-no-difference-drill-practice.md) — related
 - [Effects of P(j)BL on CT are mixed across studies, with positive, null, and negative findings reported](pjbl-ct-effects-mixed.md) — related
 - [Cooperative learning with Think-Pair-Share and RoundTable was followed by larger critical thinking gains than traditional teaching in 4th graders, in a two-class quasi-experiment](tps-roundtable-cooperative-learning-critical-thinking-gains.md) — related
+- [PBL scored lower than non-PBL on stimulating students to carry on learning, though not statistically significantly](pbl-lower-stimulated-carry-on-learning-null.md) — related

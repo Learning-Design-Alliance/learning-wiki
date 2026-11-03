@@ -51,3 +51,5 @@ Independent samples t-tests on the 53 students' PKT and swtAT pre-test scores sh
 - [Jigsaw cooperative learning produced higher achievement than traditional teaching in the 7th-grade unit \"Science within Time\"](jigsaw-higher-achievement-science-within-time.md) — related
 - [Pretest achievement scores did not differ between the jigsaw and control groups before instruction](no-pretest-difference-jigsaw-control-groups.md) — related
 - [Experimental and control 7th-grade students did not differ significantly on achievement pre-test scores before the particulate nature of matter unit](concept-cartoon-study-pretest-equivalence.md) — related
+- [Game-based and traditional-instruction students show no significant difference in learning achievement at pre-test](game-vs-traditional-no-pretest-difference-system-analysis.md) — related
+- [No statistically significant difference in GPA between the Jigsaw and control groups before treatment](no-gpa-difference-jigsaw-control-groups.md) — a narrower finding that bears on this claim

@@ -55,3 +55,4 @@ Implementation evaluation across Pilot Year 1 (2018/19), Pilot Year 2 (2019/20),
 - [Tutoring sessions were implemented with high procedural fidelity (mean 93.4%)](treatment-fidelity-peer-tutoring-sessions.md) — related
 - [The cost analysis suggests the ERWC is a modest investment whose upfront development and training costs become insignificant over time](erwc-modest-investment-cost-analysis.md) — related
 - [CLI was implemented with high fidelity for teacher-facing components but low fidelity for principal coaching and professional development](cli-implementation-fidelity-varied-by-component.md) — related
+- [Implementation fidelity to the SLMS model was mixed, with regular team meetings at only one of three treatment schools](slms-mixed-implementation-fidelity.md) — related

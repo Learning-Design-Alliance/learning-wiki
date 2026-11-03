@@ -48,3 +48,4 @@ First-phase ascertaining experiment analyzing the state of pupils' practical kno
 ## Related Claims
 - [Mental differences between bright and dull pupils can be ascertained by means of simple group tests](group-tests-ascertain-bright-dull-differences.md) — related
 - [Baseline testing found only one-tenth of senior pupils at a high level of environmental education, with almost half at a low level](baseline-low-environmental-education-senior-pupils.md) — related
+- [At baseline only about a third of first-year students showed a high level of adaptability, with technical and mathematical disciplines most problematic](baseline-only-third-first-years-high-adaptability.md) — related

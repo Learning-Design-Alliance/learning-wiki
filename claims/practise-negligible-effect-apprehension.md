@@ -74,3 +74,4 @@ The article's qualification of the practise data: the seeming improvement with d
 - [Practice gains are greater for nonsense material (average final gain 28%) than for sense-material (average final gain 10%).](nonsense-material-gains-exceed-sense-material.md) — related
 - [Practice effects in visual reproduction are specific: they transfer to new conditions only in proportion to identical ability-conditioning factors.](practice-effects-specific-to-conditions.md) — related
 - [Practice increases observers' ability to reproduce briefly exposed visual material, with final-over-initial gains ranging from 6% to 44% (average 22%).](practice-improves-visual-reproduction-6-44-percent.md) — related
+- [Experimental-group students were more familiar with electronic educational resources and transferred e-teaching-materials experience to teaching practice](e-teaching-materials-experience-transfers-to-practice.md) — related

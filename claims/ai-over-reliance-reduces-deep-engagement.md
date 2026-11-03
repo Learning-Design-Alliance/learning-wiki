@@ -59,3 +59,4 @@ The review reports, citing Dehbozorgi & Dindu (2023) and Abid et al. (2024), tha
 - [Generative AI tools risk inducing overestimated abilities and diminishing training of foundational skills](generative-ai-overconfidence-risk.md) — related
 - [Context-personalized GAI-generated math materials increased primary students' motivation, interest and performance](gai-context-personalized-math-materials-primary-school.md) — reports the opposite
 - [Unconstrained chat interfaces are recurrently associated with solution dumping, reduced productive struggle, integrity concerns, and over-reliance](unconstrained-chat-negative-patterns.md) — related
+- [Students reported problems in the contemplative teaching setting, including teacher-centeredness and difficulty thinking deeply](problems-in-contemplative-classroom.md) — related

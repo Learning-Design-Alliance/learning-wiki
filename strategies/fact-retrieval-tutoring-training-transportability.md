@@ -44,6 +44,7 @@ The article concludes the tutoring protocols were transportable across sites and
 - [Sustained professional development model combining training days, site visits, observations, and ongoing coaching](reading-go-professional-development-model.md)
 - [Provide LLI interventionists with 3-day formal training including follow-up on-site coaching](lli-three-day-training-with-on-site-coaching.md)
 - [Implement formal peer tutor training programs under faculty supervision within simulation curricula](formal-peer-tutor-training-faculty-supervision.md)
+- [Implement a structured clinical supervision model with trained supervisors, scheduled observations, and three-way conferences](structured-clinical-supervision-implementation-strategy.md)
 
 ## Examples
 -

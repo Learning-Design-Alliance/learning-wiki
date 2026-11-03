@@ -69,3 +69,4 @@ Post-experiment questionnaire results on the language-focus component; the artic
 ## Related Claims
 - [Learners' greatest self-reported writing difficulties before the experiment were content or idea and rhetorical organization, not vocabulary or fluency](efl-writing-difficulties-content-organization.md) — related
 - [Drama-based instruction produced statistically significant gains on all five writing aspects: thesis statement, unity, completeness and coherence, wording and cohesion, and organization](drama-instruction-significant-all-five-writing-aspects.md) — related
+- [More than 70% of participants reported peer review improved multiple aspects of their writing, and the vast majority approved of the method](peer-review-overall-approval-efl.md) — related

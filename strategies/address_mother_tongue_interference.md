@@ -62,9 +62,12 @@ Interference errors are systematic, not random, which makes them anticipatable t
 7. **Fade**: reduce explicit contrast work as accuracy stabilizes, shifting to self-monitoring checklists learners apply to their own drafts.
 
 ## Related Strategies
+
 - [Activate Background Knowledge](activating-prior-knowledge.md) — the L1 is a major component of prior knowledge; activating it deliberately supports positive transfer
 - [Accessible Syntax](../strategies/accessible_syntax.md) — simplifying instructional language reduces comprehension load for multilingual learners
 - [Action-Oriented Feedback](action-oriented-feedback.md) — feedback on interference patterns is most usable when tied to a concrete revision action
+- [Combine translation-based contrastive analysis with phonological-awareness instruction when teaching formulaic sequences](combine-pbi-tbi-chunk-instruction.md)
+- [Explain how to produce target phonemes in students' first language during pronunciation instruction](l1-explanation-of-phoneme-production.md)
 
 ## Examples
 - A French L1 English class studies the false-friend pairs *actually/currently* and *librairie/bookshop* through erroneous-example diagnosis before a vocabulary quiz.

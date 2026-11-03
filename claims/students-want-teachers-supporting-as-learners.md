@@ -72,3 +72,4 @@ The brief reports that monitoring and support decline in the high school transit
 - [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](ai-tutor-scale-benefit-teachers-perceive.md) — related
 - [Students felt AI monitoring and judgement adds pressure, while teachers worried over-monitoring would change their own behavior and risk teacher-student trust](ai-monitoring-pressure-and-judgement-concerns.md) — related
 - [SAGLET's real-time learning analytics provided alerts that enabled the teacher to monitor groups and give appropriate feedback](saglet-alerts-teacher-monitoring-feedback.md) — related
+- [Interview data show students valued progress tracking and freedom, while a minority missed grades and found the procedures demanding](afl-interview-qualitative-responses.md) — related

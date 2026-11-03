@@ -66,3 +66,4 @@ Scheffe post-hoc results also showed significant differences between COMVIP (74.
 ## Related Claims
 - [Video-based instructional strategy produces significant post-test performance differences among cooperative, competitive, individualized, and conventional groups in geometry](video-based-strategy-posttest-differences-geometry.md) — a broader claim this one bears on
 - [Gender has no influence on performance under video-based individualized or conventional instruction in geometry](no-gender-difference-ivip-cvip.md) — related
+- [Students using cooperative CAI outperformed students using individualised CAI in biology post-test scores](cooperative-cai-beats-individualised-cai.md) — related

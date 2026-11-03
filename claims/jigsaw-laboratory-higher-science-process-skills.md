@@ -47,3 +47,4 @@ Quasi-experimental pre-test post-test control group study of 48 third-grade scie
 ## Related Claims
 - [ADI-based laboratory instruction improves science process skills more than traditional laboratory instruction](adi-lab-instruction-improves-science-process-skills.md) — a broader claim this one bears on
 - [The Jigsaw and control groups differed significantly in scientific process skills before treatment](spst-pretest-group-difference.md) — related
+- [Teaching physics in a science teaching laboratory practice course via the Jigsaw method based on cooperative learning yields higher achievement than the confirmatory laboratory method](jigsaw-lab-higher-physics-achievement-than-confirmatory.md) — related

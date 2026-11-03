@@ -45,7 +45,8 @@ The article recommends that Saudi universities administer EFL literacy tests to 
 - [Adult Saudi learners held positive attitudes toward phonological awareness instruction, preferring it to their prior schooling](../claims/positive-attitudes-toward-pa-instruction.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Combine translation-based contrastive analysis with phonological-awareness instruction when teaching formulaic sequences](combine-pbi-tbi-chunk-instruction.md)
 
 ## Examples
 -

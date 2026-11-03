@@ -65,3 +65,4 @@ Qualitative synthesis of collaborative small focus groups with approximately 70 
 - [Intervention students reported fiction videos made instruction more interesting and helped them understand difficult concepts, but rated hands-on labs as most helpful](student-interviews-fiction-interest-labs-preferred.md) — a narrower finding that bears on this claim
 - [Students report that daily-life WebQuest tasks made learning fun and that group work strengthened solutions and motivation](student-opinions-webquest-daily-life-groupwork.md) — a narrower finding that bears on this claim
 - [Students reported the learner-centred authenticity project as one of the most challenging yet relevant courses in their degree](students-found-authenticity-course-challenging-relevant.md) — related
+- [Learners rejected teacher-centered lecturing as the preferred way to learn reading](learners-reject-lecture-preference-for-reading.md) — a narrower finding that bears on this claim

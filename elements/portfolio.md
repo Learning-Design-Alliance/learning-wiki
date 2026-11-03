@@ -13,7 +13,7 @@ generated:
 # Portfolio
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (11 for, 2 mixed) · 8 studies (3 causal, 1 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 8 report an effect size · 13 claims rest on one study
+> **Evidence** · 18 claims (16 for, 2 mixed) · 10 studies (5 causal, 1 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 10 report an effect size · 18 claims rest on one study
 
 ## Description
 A portfolio is a purposeful collection of learner work — artifacts, drafts, and reflections — assembled over time to document progress, demonstrate competence, and support self-evaluation. Unlike point-in-time [assessment](assessment.md), it captures process as well as product, and the learner typically participates in selecting and annotating what is included.
@@ -64,6 +64,11 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 - [Portfolio-based instruction raises EFL learners' motivation in reading comprehension courses](../claims/portfolio-assessment-raises-efl-motivation.md) [+W] — attached 2026-11-01 from Hosna Hosseini et al. (2014), which proposed "Portfolio assessment with RAP reading-strategy charts in an EFL reading course"; tests this page's relationship.
 - [Reflective blogfolios in EFL writing classes produced statistically significant pre-post gains in tertiary students' argumentative essay writing skills](../claims/reflective-blogfolios-improved-argumentative-writing.md) [+W] — attached 2026-11-02 from Ammar (2016), which proposed "Reflective blogfolios: an online blog-based portfolio framework for a community of arguers in EFL writing classes".
 - [Reflective blogfolios shifted EFL tertiary students' ways of knowing significantly toward more connected knowing](../claims/blogfolios-shifted-ways-of-knowing-toward-connected.md) [+W] — attached 2026-11-02 from Ammar (2016), which proposed "Reflective blogfolios: an online blog-based portfolio framework for a community of arguers in EFL writing classes".
+- [Portfolio analysis showed 85% of experimental-group students completed all portfolio parts versus 57% of control-group students](../claims/portfolio-completion-85-versus-57.md) [+W] — attached 2026-11-03 from Oliva Parera et al. (2015), which proposed "European Language Portfolio (PEL) adapted for the American graduate university context".
+- [Most experimental-group students (61%) showed evidence of reflection in their portfolio writing](../claims/portfolio-reflection-61-percent-experimental.md) [+W] — attached 2026-11-03 from Oliva Parera et al. (2015), which proposed "European Language Portfolio (PEL) adapted for the American graduate university context"; tests this page's relationship.
+- [ESL students using an e-portfolio system with peer and teacher feedback showed significant improvement in writing performance compared with a conventional group](../claims/eportfolio-improves-esl-writing-performance.md) [+W]
+- [E-portfolio use improved ESL students' perceived value of writing and writing self-concept, but not writing anxiety](../claims/eportfolio-improves-writing-value-self-concept-not-anxiety.md) [+W]
+- [E-portfolio use increased ESL students' self-consistency in applying a process approach to writing](../claims/eportfolio-process-approach-self-consistency.md) [+W]
 
 ## The evidence by question
 - *Does building a portfolio in a course raise learners' engagement, achievement and persistence?* [Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence](../claims/epportfolio-courses-engagement-grades-persistence.md) [+W]

@@ -55,3 +55,4 @@ Latent change score analysis of N = 1,004 first-semester students across three m
 - [Math self-concept is more highly correlated with intrinsic value and low cost than with attainment and utility value](self-concept-value-component-correlations.md) — related
 - [Utility-value interventions enhance perceived utility value, engagement, performance, and persistence in introductory college science courses](uvi-improve-engagement-performance-persistence.md) — related
 - [Students experienced a motivational shock between Weeks 2 and 3 coinciding with first performance feedback on mandatory math worksheets](motivational-shock-weeks-2-3-performance-feedback.md) — a narrower finding that bears on this claim
+- [Experimental group students' interest in physics and chemistry declined significantly during the first half of the school year while their interest in biology increased](physics-chemistry-interest-decline-biology-increase-mobile-inquiry.md) — related

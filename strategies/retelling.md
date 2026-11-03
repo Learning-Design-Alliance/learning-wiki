@@ -69,6 +69,7 @@ Retelling is a generative task: reconstructing a text from memory requires the l
 - [Story retelling with familiar picture books to practice sequencing](story-retelling-sequencing-familiar-books.md)
 - [Three consciousness-raising text techniques: Recall, Reconstruction, and Bolding-Underlying](recall-reconstruction-bolding-underlying-techniques.md)
 - [Use structured picture-based speaking techniques such as picture dictation, spot the difference, and picture sequencing](picture-speaking-techniques-strategy.md)
+- [Use portraiture as a contemplative classroom technique in which learners create their own stories of life events](portraiture-contemplative-classroom-technique.md)
 
 ## Examples
 - **[Reading Recovery](../products/reading-recovery.md)** — each lesson ends with the child retelling a newly read book while the teacher records the retell on a running record, using omissions to select the next teaching point.

@@ -52,6 +52,7 @@ The authors recommend combining conceptual change texts with web devices: "Throu
 
 - [Illustrate Through Multiple Media](illustrate_through_multiple_media.md)
 - [Multiple Modalities for Perceiving Information](multiple_modalities_for_perceiving_information.md)
+- [Use computer simulation-based instruction to teach complex biology concepts such as DNA replication and transcription](computer-simulation-instruction-dna-replication.md)
 
 ## Examples
 -

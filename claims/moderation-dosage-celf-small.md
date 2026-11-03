@@ -56,3 +56,4 @@ Moderation analyses within the experimental group of the cluster randomized tria
 - [Dosage significantly predicts intervention effects in a linear model (β = 0.03 per hour), but the dosage main effect is no longer significant after controlling for moderators](dosage-slope-nonsignificant-with-moderators.md) — related
 - [Vocabulary learning under embedded instruction declined over the course of the school year](vocabulary-learning-decline-over-units.md) — related
 - [Story Friends showed no significant generalized effects on norm-referenced receptive vocabulary (PPVT-IV) or core language (CELF-P) measures](no-distal-language-effects-ppvt-celf.md) — related
+- [Response to intervention varied individually and could not be predicted from children's Spanish language skills on the CELF-P-2](response-variability-not-predicted-by-spanish-scores.md) — related

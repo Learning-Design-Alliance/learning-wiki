@@ -69,3 +69,4 @@ Subgroup analysis of degree completion studies (Table 4); programs with addition
 - [Grant aid increases postsecondary persistence, raising within-year persistence by 3.2 and year-to-year persistence by 1.8 percentage points in U.S. causal studies](grant-aid-increases-postsecondary-persistence.md) — related
 - [Grant aid increases degree completion, raising on-time completion by 2.4 and delayed completion by 2.5 percentage points in U.S. causal studies](grant-aid-increases-degree-completion.md) — related
 - [Effects of grant aid on persistence and completion are heterogeneous across studies, justifying random-effects meta-analysis](grant-aid-effects-heterogeneous-across-studies.md) — related
+- [Scholarship effects on girls' outcomes were larger than school-grant effects](scholarships-larger-effects-than-grants.md) — related

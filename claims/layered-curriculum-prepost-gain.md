@@ -54,3 +54,4 @@ Paired t-test for the 30-student experimental group taught with Layered Curricul
 - [The same intervention significantly improved learners' problem-solving, with a medium practical effect (d = 0.6)](business-simulation-intervention-improves-problem-solving.md) — related
 - [Students performing Layered Curriculum activities encountered problems particularly in the B and A layers, mainly in organizing and accessing information](layered-curriculum-problems-b-a-layers.md) — related
 - [Both experimental and control groups improved significantly on social problem-solving over the school period](both-groups-improved-social-problem-solving.md) — related
+- [After the treatment, 100% of English teachers and 85% of science teachers reported completely changed perceptions of employing differentiated instruction](post-treatment-perception-shift-percentages.md) — related

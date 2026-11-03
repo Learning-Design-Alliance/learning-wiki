@@ -49,3 +49,4 @@ The review reports label effects from cited studies: with behaviors held constan
 
 - [Children with ADHD show medium-to-large peer problems relative to typically developing youth, with effect sizes from d=.72 (no comorbidities) to d=1.25 (comorbid conduct problems)](adhd-peer-problems-effect-sizes-d072-d125.md)
 - [Existing child-focused treatments for ADHD, including the MTA's intensive behavioral management and medication, and clinic-based social skills training, have not improved peers' liking of children with ADHD](existing-treatments-fail-improve-peer-regard-adhd.md)
+- [The pull-out model is the most common form of support for students with special educational needs, but carries a problem of devaluation of such support](pull-out-model-common-support-devaluation.md) — related
