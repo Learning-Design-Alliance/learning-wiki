@@ -9,14 +9,14 @@ generated:
   at: 2026-11-03
 sources:
   - id: hsieh-2012
-    title: "Hsieh, P.-H., & Chen, N.-S. (2012). Effects of reflective thinking in the process of designing software on students' learning performances. Computers & Education, 58(1), 419-431."
+    title: "Hsieh, P.-H., & Chen, N.-S. (2012). Effects of reflective thinking in the process of designing software on students' learning performances. *The Turkish Online Journal of Educational Technology, 11*(2), 88–99. https://eric.ed.gov/?id=EJ989016"
     author: "Hsieh, P.-H., & Chen, N.-S"
 ---
 
 # Writing weekly reflection diaries on weblogs, with freedom to add representative images and pictures, as an additional assignment for lower achieving students during learning processes.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The literature suggests teachers adopt different teaching strategies: completing reflection sheets, writing a reflections diary, storytelling, or debating openly. The current study asks students to write reflection diaries on blogs, with the freedom to add representative images and pictures to supplement their reflections, as an additional assignment for lower achieving students during the design processes.
@@ -39,8 +39,6 @@ The literature suggests teachers adopt different teaching strategies: completing
 ## Claims
 
 - [Lower achieving students who wrote weekly reflective diaries during software design achieved overall course scores statistically comparable to higher achieving students who did not.](../claims/reflective-diary-comparable-overall-scores.md) [+W]
-- [After reflective diary practice, lower achieving students' written website analyses showed equivalent analysis quality to higher achieving students', though word volume was not significantly different.](../claims/website-analyses-equivalent-quality.md) [+W]
-- [Students' computer self-efficacy scores declined from pre-test to post-test in both groups, and reflective diary practice did not prevent this decline.](../claims/computer-self-efficacy-declined-post-course.md) [-W]
 
 ## Related Strategies
 
@@ -50,4 +48,4 @@ The literature suggests teachers adopt different teaching strategies: completing
 -
 
 ## Key Sources
-- Hsieh, P.-H., & Chen, N.-S. (2012). Effects of reflective thinking in the process of designing software on students' learning performances. Computers & Education, 58(1), 419-431.
+- Hsieh, P.-H., & Chen, N.-S. (2012). Effects of reflective thinking in the process of designing software on students' learning performances. *The Turkish Online Journal of Educational Technology, 11*(2), 88–99. https://eric.ed.gov/?id=EJ989016

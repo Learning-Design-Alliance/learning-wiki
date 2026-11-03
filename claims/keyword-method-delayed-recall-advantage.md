@@ -49,6 +49,6 @@ Surprise delayed recall posttest given three weeks after the eight-session treat
 
 ## Related Claims
 - [Students who experienced the virtual field trip via a 3D HMD scored higher on a delayed posttest roughly three weeks later than 2D-video students](hmd-virtual-field-trip-better-delayed-retention.md) — related
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — a broader claim this one bears on
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — a broader claim this one bears on
 - [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](testing-effect-persists-without-immediate-feedback.md) — related
 - [Senior high school students taught the same new words in semantically-unrelated sets score significantly higher than students taught the words in semantically-related sets on a delayed L2-L1 translation test two weeks later](su-sets-beat-sr-sets-delayed-vocabulary-test.md) — related

@@ -45,7 +45,7 @@ Comparison of mean correct responses on the 20 open-ended final exam questions, 
 
 
 ## Related Claims
-- [Underprepared students in embedded-support chemistry achieved overall common-question results statistically equivalent to college-ready peers](embedded-support-equivalent-overall-achievement.md) — related
+- [Underprepared students in embedded-support chemistry showed no statistically significant difference from college-ready peers on overall common-question results](embedded-support-equivalent-overall-achievement.md) — related
 - [No significant difference between underprepared and college-ready students on final exam multiple-choice questions](final-exam-multiple-choice-no-significant-difference.md) — related
 - [After approximately 12 weeks of embedded support, underprepared students significantly outperformed college-ready peers on late-semester common questions](late-semester-underprepared-outperform-college-ready.md) — related
 - [After approximately 6 weeks of embedded support, underprepared students' midsemester scores were not significantly different from college-ready peers](midsemester-equivalence-after-six-weeks-support.md) — related

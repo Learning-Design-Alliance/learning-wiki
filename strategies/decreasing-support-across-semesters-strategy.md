@@ -39,7 +39,7 @@ The authors recommend that, if initial gains are not sustained, educators should
 ## Claims
 
 - [Underprepared students scored significantly lower on early-semester common questions, validating their need for support](../claims/early-semester-underprepared-lower-scores.md) [+W]
-- [Underprepared students in embedded-support chemistry achieved overall common-question results statistically equivalent to college-ready peers](../claims/embedded-support-equivalent-overall-achievement.md) [+W]
+- [Underprepared students in embedded-support chemistry showed no statistically significant difference from college-ready peers on overall common-question results](../claims/embedded-support-equivalent-overall-achievement.md) [+W]
 - [Entrance measures confirmed the nonequivalence of underprepared and college-ready groups](../claims/entrance-measures-confirmed-nonequivalence.md) [+W]
 - [No significant difference between underprepared and college-ready students on final exam multiple-choice questions](../claims/final-exam-multiple-choice-no-significant-difference.md) [+W]
 - [Underprepared students scored significantly higher on final exam open-ended questions than college-ready peers](../claims/final-exam-open-ended-underprepared-significantly-higher.md) [+W]

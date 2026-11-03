@@ -55,4 +55,4 @@ Descriptive analysis of a 22-item IMI questionnaire completed by the 21 particip
 - [Perceived effort directly predicts use of retrieval practice, with perceived learning playing no role (Relation 1)](effort-cost-belief-predicts-strategy-use.md) — related
 - [Gamification positively and significantly affects students' perceptions of autonomy](gamification-enhances-perceived-autonomy.md) — related
 - [Both groups ranked the motivational contributions of the studied factors as interestingness below challenge below interactivity](motivational-factor-ordering-interestingness-challenge-interactivity.md) — related
-- [Motivational prompts did not significantly affect self-reported effort or importance on the Student Opinion Scale](motivational-prompts-no-effect-self-reported-effort-importance.md) — related
+- Motivational prompts did not significantly affect self-reported effort or importance on the Student Opinion Scale — related

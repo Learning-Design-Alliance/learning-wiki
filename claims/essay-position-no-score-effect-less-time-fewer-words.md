@@ -49,4 +49,4 @@ Two-sample Wilcoxon rank tests comparing Group 1 and Group 24 on box-plot summar
 - The mixed-scenario essay-last design lowered essay scores and reduced essay writing time and word count relative to the single-scenario essay-last design — related
 - In the mixed-scenario comparison, the single-scenario essay-last group spent longer time in local-editing and jump-editing states than the mixed-scenario essay-last group — related
 - [GD groups wrote essays significantly better in total grounds quality, total conceptual quality, and average conceptual quality, but did not cover more topics and were not better in average grounds quality.](gd-essays-total-grounds-conceptual-quality.md) — related
-- [After reflective diary practice, lower achieving students' written website analyses showed equivalent analysis quality to higher achieving students', though word volume was not significantly different.](website-analyses-equivalent-quality.md) — related
+- After reflective diary practice, lower achieving students' written website analyses showed equivalent analysis quality to higher achieving students', though word volume was not significantly different. — related

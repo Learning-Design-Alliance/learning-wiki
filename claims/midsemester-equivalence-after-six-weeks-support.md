@@ -46,7 +46,7 @@ Independent-sample t-test on Group 2 common questions (Chapters 5, 6, and 7) giv
 
 ## Related Claims
 - [Underprepared students scored significantly lower on early-semester common questions, validating their need for support](early-semester-underprepared-lower-scores.md) — related
-- [Underprepared students in embedded-support chemistry achieved overall common-question results statistically equivalent to college-ready peers](embedded-support-equivalent-overall-achievement.md) — related
+- [Underprepared students in embedded-support chemistry showed no statistically significant difference from college-ready peers on overall common-question results](embedded-support-equivalent-overall-achievement.md) — related
 - [No significant difference between underprepared and college-ready students on final exam multiple-choice questions](final-exam-multiple-choice-no-significant-difference.md) — related
 - [Underprepared students scored significantly higher on final exam open-ended questions than college-ready peers](final-exam-open-ended-underprepared-significantly-higher.md) — related
 - [After approximately 12 weeks of embedded support, underprepared students significantly outperformed college-ready peers on late-semester common questions](late-semester-underprepared-outperform-college-ready.md) — related

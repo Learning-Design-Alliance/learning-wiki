@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2012
+source_checked: 2026-11-03
 sources:
   - id: lesaux-2012
     resource: "https://eric.ed.gov/?id=EJ992411"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i0` negligible
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i0` The intervention significantly improved the standardized measure of written expression (d = 0.19). [→ Lesaux 2012](#lesaux-2012)

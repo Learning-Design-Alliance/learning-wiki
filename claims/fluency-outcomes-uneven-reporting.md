@@ -67,7 +67,7 @@ The review's corpus-level synthesis of fluency outcomes: 17 studies significant,
 - [Digital music platforms were consistently linked to positive learner perceptions and motivation, with effectiveness contingent on teacher mediation](digital-platforms-music-motivation.md) — a narrower finding that bears on this claim
 - [Direct EMI evidence for music-mediated pedagogy is scarce, concentrated in arts disciplines, and lacks controlled measures](emi-music-evidence-scarce.md) — related
 - [Extensive reading reduced Japanese EFL learners' anxiety about foreign-language reading (r = .34)](er-reduced-anxiety-efl-reading-attitude.md) — related
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](ai-ibi-mainly-supports-creativity-and-affect.md) — related
 - [Song-based instruction is consistently associated with increased affective engagement in EFL listening classrooms](song-based-instruction-affective-engagement.md) — related

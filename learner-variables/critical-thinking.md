@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 169 claims (119 show a difference, 30 mixed, 20 no difference) · 113 studies (56 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 22 of 113 report an effect size · 167 claims rest on one study
+> **Evidence** · 168 claims (119 show a difference, 30 mixed, 19 no difference) · 112 studies (55 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 22 of 112 report an effect size · 166 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -207,7 +207,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [The gain (enhancement) in critical mathematical thinking skills is larger under culture-based RME than under conventional education](../claims/rme-culture-based-larger-critical-thinking-gain.md) [+M] — instruction changes it
 - [Critical thinking and engagement were positively correlated in online discussion activity](../claims/critical-thinking-engagement-positive-correlation.md) [+M] — learners who differ on it differ in outcomes
 - [Critical thinking was positively correlated with peer interaction in online discussions](../claims/critical-thinking-peer-interaction-correlation.md) [+M] — learners who differ on it differ in outcomes
-- [Motivational prompts did not significantly affect critical thinking subscores on the low-stakes test](../claims/motivational-prompts-no-effect-critical-thinking-subscore.md) [-M] — instruction changes it
+- Motivational prompts did not significantly affect critical thinking subscores on the low-stakes test [-M] — instruction changes it
 - [No significant differences in critical thinking dispositions were found among PBL, B-PBL, and traditional lecture groups at pretest or posttest](../claims/no-significant-ct-disposition-differences-among-groups.md) [-M] — instruction changes it
 
 ## Measures

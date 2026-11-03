@@ -6,7 +6,7 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **10,856 distinct studies** behind 45,181 claims. What they add up to (the sections below have the detail):
+The wiki holds **10,856 distinct studies** behind 45,176 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 32% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 57% are quasi-experiments, observational studies or narrative reviews, and 10% are case studies, opinion or theory.
 - **Few print an effect size.** 2,850 of 10,856 studies (26%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
@@ -21,10 +21,10 @@ These figures describe two things at once: what education research has produced,
 
 | | |
 |---|---|
-| Claims | 45,181 |
-| Evidence entries | 53,366 |
+| Claims | 45,176 |
+| Evidence entries | 53,361 |
 | Distinct studies | 10,856 |
-| Claims resting on one study | 44,593 (99%) |
+| Claims resting on one study | 44,588 (99%) |
 | Claims with no coded evidence | 3 |
 | Studies reporting an effect size | 2,850 of 10,856 (26%) |
 
@@ -32,9 +32,9 @@ These figures describe two things at once: what education research has produced,
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 135 | 1,927 | 1,353 | 408 | 3,823 |
+| causal | 135 | 1,927 | 1,353 | 407 | 3,822 |
 | quant-synthesis | 204 | 386 | 80 | 135 | 805 |
-| review | 324 | 849 | 135 | 151 | 1,459 |
+| review | 324 | 849 | 135 | 152 | 1,460 |
 | associational | 125 | 1,259 | 550 | 306 | 2,240 |
 | qualitative | 164 | 374 | 79 | 104 | 721 |
 | design | 90 | 743 | 157 | 39 | 1,029 |
@@ -46,7 +46,7 @@ These figures describe two things at once: what education research has produced,
 |---|---|---|---|
 | 1,109 (10%) | 6,239 (57%) | 3,322 (31%) | 186 (2%) |
 
-**Studies per claim:** 0: 3, 1: 44,593, 2: 499, 3: 65, 4 or more: 21.
+**Studies per claim:** 0: 3, 1: 44,588, 2: 499, 3: 65, 4 or more: 21.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -115,7 +115,7 @@ Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-652 claims are cited both ways.
+651 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [theories](theories/index.md) | 1,360 | 923 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 75 | 75 | 70 | 0 |
 | [designs](designs/index.md) | 2,260 | 1,724 | 1 | 1 |
-| [products](products/index.md) | 3,022 | 2,320 | 1 | 1 |
+| [products](products/index.md) | 3,022 | 2,319 | 1 | 1 |
 | [research-methods](research-methods/index.md) | 973 | 776 | 1 | 0 |
 
 ## Toward pooled estimates

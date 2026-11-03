@@ -71,7 +71,7 @@ Kim and Webb's (2022) meta-analysis supports the benefit of spacing for L2 learn
 
 - [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — the general claim this finding bears on, with the studies behind it
 - [Distributed Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - FH2T was evaluated with nine 30-minute sessions spread across one academic year as a supplemental program — related
 - [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — related
 - [All 48 reviewed spacing studies obtained the spacing effect using rest-from-deliberate-learning periods](spacing-effect-requires-rest-from-deliberate-learning.md) — related

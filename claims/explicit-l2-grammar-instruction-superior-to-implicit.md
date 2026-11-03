@@ -60,7 +60,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 5 studies · 3 quant-synthesis `r2`, 1 causal `r1`, 1 review `r2` · `q1`–`q3`
-> **Currency** · newest study 2022 · 3 of 5 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · 4 of 5 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 
@@ -69,7 +69,7 @@ sources:
 `q3 i?` A meta-analytic update of Norris and Ortega (2000), pooling 34 studies that directly compared explicit and implicit instructional treatments (11 from the original and 23 published 1999–2011), found explicit instruction more effective overall; the abstract prints no effect size. [→ Goo et al. 2015](#goo-et-al-2015)
 `q3 i?` A meta-analysis of 41 studies of English grammatical features found larger effect sizes for explicit than implicit instruction for both simple and complex features; the abstract prints no effect size. [→ Spada & Tomita 2010](#spada-tomita-2010)
 
-`q1 i?` Based on the study's findings and citing Ellis (2012), the author asserts that explicit instruction is more effective than implicit instruction for L2 features such as phrasal verbs. [→ Ansari 2016](#ansari-2016)
+`q1 i?` In the discussion of a phrasal-verb study that compared cognitive-linguistic explanation with translation and had no implicit-instruction condition, the author asserts, citing Ellis (2012), that explicit instruction is more effective than implicit instruction; the study itself did not test that contrast. [→ Ansari 2016](#ansari-2016)
 
 ## Evidence
 
@@ -119,7 +119,7 @@ Mohammad Javad Ansari. (2016). The Acquisition of Phrasal Verbs through Cognitiv
 
 `q1 · i?` · `causal · r1`
 
-Author's discussion-section assertion, attributed to the study's findings and to Ellis (2012)'s review as cited in the article; no effect size is reported for this contrast.
+A quasi-experiment with Iranian intermediate EFL learners compared two ways of teaching orientational phrasal verbs: a cognitive-linguistic explanation of the particles' meanings with visual aids (experimental group) against translation of the phrasal verbs (control group). It found the cognitive-linguistic group scored higher on both taught and untaught phrasal verbs. The study had no implicit-instruction condition and did not compare explicit with implicit instruction. The quotation below is the author's discussion-section assertion, which rests on Ellis (2012)'s review as cited in the article rather than on a contrast this study measured, so this entry adds no independent evidence for the claim; no effect size is reported for the explicit–implicit contrast.
 
 > "Regarding the matter of explicitness or implicitness, based on the findings of this paper, explicitness is more effective than the opposite one; and Ellis (2012) postulates this notion by reviewing the experimental and quasi-experimental investigation into the L2 instruction effectiveness and comes to this conclusion that the explicit instruction is more effective that the implicit type."
 

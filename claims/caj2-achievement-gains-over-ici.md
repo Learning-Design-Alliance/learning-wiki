@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-03
 sources:
   - id: gambari-2016
     resource: "https://eric.ed.gov/?id=EJ1117586"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students taught physics with computer-assisted Jigsaw II scored significantly higher on the post-test than students taught with ICI, after controlling for pre-test scores. [→ Gambari 2016](#gambari-2016)

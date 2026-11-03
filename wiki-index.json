@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":45181,
+"claim":45176,
 "design":2260,
 "element":1057,
 "learner-variable":75,
@@ -18962,6 +18962,7 @@
 "id":"ai-mode-outperformed-ait-mode-music-theory",
 "newest_evidence":"2010",
 "path":"claims/ai-mode-outperformed-ait-mode-music-theory.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Pupils using the audio-and-image (AI) mode significantly outperformed pupils using the audio-image-text (AIT) mode on the music theory post-test",
 "type":"claim"
@@ -23449,6 +23450,7 @@
 "id":"alias-academic-vocabulary-improves-morphological-awareness",
 "newest_evidence":"2012",
 "path":"claims/alias-academic-vocabulary-improves-morphological-awareness.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Academic vocabulary instruction improves morphological awareness skills",
 "type":"claim"
@@ -23480,6 +23482,7 @@
 "id":"alias-greater-response-for-low-initial-vocabulary",
 "newest_evidence":"2012",
 "path":"claims/alias-greater-response-for-low-initial-vocabulary.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Students with underdeveloped initial vocabulary knowledge show greater response to the intervention",
 "type":"claim"
@@ -23490,6 +23493,7 @@
 "id":"alias-vocabulary-improves-written-expression",
 "newest_evidence":"2012",
 "path":"claims/alias-vocabulary-improves-written-expression.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Academic vocabulary instruction improves standardized written expression",
 "type":"claim"
@@ -32173,16 +32177,6 @@
 "path":"claims/assessment-method-cognitive-load-performance-decline.md",
 "status":"review",
 "title":"Children's spelling test performance declines as the cognitive load of the assessment method increases, with accuracy greatest in multiple-choice, then cloze dictation, then proofreading",
-"type":"claim"
-},
-{
-"description":"Assessment does not have to be high-stakes to motivate students to perform",
-"evidence_strength":"weak",
-"id":"assessment-motivation-without-high-stakes",
-"newest_evidence":"2015",
-"path":"claims/assessment-motivation-without-high-stakes.md",
-"status":"review",
-"title":"Assessment does not have to be high-stakes to motivate students to perform",
 "type":"claim"
 },
 {
@@ -50309,6 +50303,7 @@
 "id":"caj2-achievement-gains-over-ici",
 "newest_evidence":"2016",
 "path":"claims/caj2-achievement-gains-over-ici.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Computer-assisted Jigsaw II cooperative learning produced significantly higher physics post-test achievement than individualized computer instruction.",
 "type":"claim"
@@ -52199,6 +52194,7 @@
 "id":"captions-perceived-as-vocabulary-aid-not-distraction",
 "newest_evidence":"2014",
 "path":"claims/captions-perceived-as-vocabulary-aid-not-distraction.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"EFL learners perceive captioned instructional videos as helpful for vocabulary acquisition but not as a distraction to comprehension.",
 "type":"claim"
@@ -77646,16 +77642,6 @@
 "type":"claim"
 },
 {
-"description":"Students' computer self-efficacy scores declined from pre-test to post-test in both groups, and reflective diary practice did not prevent this decline.",
-"evidence_strength":"weak",
-"id":"computer-self-efficacy-declined-post-course",
-"newest_evidence":"2012",
-"path":"claims/computer-self-efficacy-declined-post-course.md",
-"status":"review",
-"title":"Students' computer self-efficacy scores declined from pre-test to post-test in both groups, and reflective diary practice did not prevent this decline.",
-"type":"claim"
-},
-{
 "description":"Computer self-efficacy mediates the relationship between technological literacy attained through the Contextualized-OLPC project and functional literacy",
 "evidence_strength":"moderate",
 "id":"computer-self-efficacy-mediation-olpc-functional-literacy",
@@ -91903,6 +91889,7 @@
 "id":"critical-thinking-peer-interaction-correlation",
 "newest_evidence":"2015",
 "path":"claims/critical-thinking-peer-interaction-correlation.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"Critical thinking was positively correlated with peer interaction in online discussions",
 "type":"claim"
@@ -127231,13 +127218,14 @@
 "type":"claim"
 },
 {
-"description":"Underprepared students in embedded-support chemistry achieved overall common-question results statistically equivalent to college-ready peers",
+"description":"Underprepared students in embedded-support chemistry showed no statistically significant difference from college-ready peers on overall common-question results",
 "evidence_strength":"moderate",
 "id":"embedded-support-equivalent-overall-achievement",
 "newest_evidence":"2016",
 "path":"claims/embedded-support-equivalent-overall-achievement.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Underprepared students in embedded-support chemistry achieved overall common-question results statistically equivalent to college-ready peers",
+"title":"Underprepared students in embedded-support chemistry showed no statistically significant difference from college-ready peers on overall common-question results",
 "type":"claim"
 },
 {
@@ -221087,13 +221075,14 @@
 "type":"claim"
 },
 {
-"description":"A one-week intensive Italian course raised verbal fluency by 17.17 words, and the gain was still 17.11 words above baseline three weeks later with no practice in between.",
+"description":"In a pilot with no control group, a one-week intensive online Italian course raised verbal fluency by 17.17 words, and the gain was still 17.11 words above baseline three weeks later; no structured practice was run in between.",
 "evidence_strength":"moderate",
 "id":"l2-fluency-gains-persist-weeks-without-practice",
 "newest_evidence":"2026",
 "path":"claims/l2-fluency-gains-persist-weeks-without-practice.md",
+"source_checked":"2026-11-03",
 "status":"review",
-"title":"Gains from an intensive period of second-language study persist for weeks without rehearsal.",
+"title":"Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.",
 "type":"claim"
 },
 {
@@ -263571,26 +263560,6 @@
 "source_checked":"2026-10-20",
 "status":"review",
 "title":"Students with good-quality or moderately positive profiles self-assessed more accurately after studying video modeling examples than students with poor-quality or moderately negative profiles",
-"type":"claim"
-},
-{
-"description":"Motivational prompts did not significantly affect critical thinking subscores on the low-stakes test",
-"evidence_strength":"moderate",
-"id":"motivational-prompts-no-effect-critical-thinking-subscore",
-"newest_evidence":"2015",
-"path":"claims/motivational-prompts-no-effect-critical-thinking-subscore.md",
-"status":"review",
-"title":"Motivational prompts did not significantly affect critical thinking subscores on the low-stakes test",
-"type":"claim"
-},
-{
-"description":"Motivational prompts did not significantly affect self-reported effort or importance on the Student Opinion Scale",
-"evidence_strength":"moderate",
-"id":"motivational-prompts-no-effect-self-reported-effort-importance",
-"newest_evidence":"2015",
-"path":"claims/motivational-prompts-no-effect-self-reported-effort-importance.md",
-"status":"review",
-"title":"Motivational prompts did not significantly affect self-reported effort or importance on the Student Opinion Scale",
 "type":"claim"
 },
 {
@@ -372518,6 +372487,7 @@
 "id":"self-explanation-advantage-near-transfer-controlling-levels",
 "newest_evidence":"2015",
 "path":"claims/self-explanation-advantage-near-transfer-controlling-levels.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"After controlling for highest level completed, students in the self-explanation condition scored higher on near-transfer post-test items than students in the explanatory feedback condition",
 "type":"claim"
@@ -396505,6 +396475,7 @@
 "id":"stad-highest-mean-gain-achievement",
 "newest_evidence":"2015",
 "path":"claims/stad-highest-mean-gain-achievement.md",
+"source_checked":"2026-11-03",
 "status":"review",
 "title":"All three groups gained from pretest to posttest, with the computer-assisted STAD group showing the highest mean gain score in physics achievement",
 "type":"claim"
@@ -460172,16 +460143,6 @@
 "path":"claims/website-access-extends-beyond-school-hours.md",
 "status":"review",
 "title":"Students accessed the website extensively outside school hours, with use spanning up to 20 hours per day",
-"type":"claim"
-},
-{
-"description":"After reflective diary practice, lower achieving students' written website analyses showed equivalent analysis quality to higher achieving students', though word volume was not significantly different.",
-"evidence_strength":"weak",
-"id":"website-analyses-equivalent-quality",
-"newest_evidence":"2012",
-"path":"claims/website-analyses-equivalent-quality.md",
-"status":"review",
-"title":"After reflective diary practice, lower achieving students' written website analyses showed equivalent analysis quality to higher achieving students', though word volume was not significantly different.",
 "type":"claim"
 },
 {
@@ -621722,7 +621683,6 @@
 "assessment-marking-inverse-demand-ai-association":"assessment-marking-inverse-demand-ai-association",
 "assessment-metadata-quantify-disengagement-impact":"assessment-metadata-quantify-disengagement-impact",
 "assessment-method-cognitive-load-performance-decline":"assessment-method-cognitive-load-performance-decline",
-"assessment-motivation-without-high-stakes":"assessment-motivation-without-high-stakes",
 "assessment-need-not-accompanied-by-new-competency-awareness":"assessment-need-not-accompanied-by-new-competency-awareness",
 "assessment-only-training-increases-tear-detection":"assessment-only-training-increases-tear-detection",
 "assessment-plans-outcome-based-dominant":"assessment-plans-outcome-based-dominant",
@@ -626144,7 +626104,6 @@
 "computer-intervention-increased-positive-attitudes":"computer-intervention-increased-positive-attitudes",
 "computer-negative-effects-unsupervised-use":"computer-negative-effects-unsupervised-use",
 "computer-presence-insufficient-without-utilisation":"computer-presence-insufficient-without-utilisation",
-"computer-self-efficacy-declined-post-course":"computer-self-efficacy-declined-post-course",
 "computer-self-efficacy-mediation-olpc-functional-literacy":"computer-self-efficacy-mediation-olpc-functional-literacy",
 "computer-simulation-beats-lecture-chemistry-achievement":"computer-simulation-beats-lecture-chemistry-achievement",
 "computer-simulations-slightly-higher-effect-than-pen-and-paper":"computer-simulations-slightly-higher-effect-than-pen-and-paper",
@@ -644316,8 +644275,6 @@
 "motivational-profile-mental-effort":"motivational-profile-mental-effort",
 "motivational-profile-problem-solving-posttest":"motivational-profile-problem-solving-posttest",
 "motivational-profile-self-assessment-accuracy":"motivational-profile-self-assessment-accuracy",
-"motivational-prompts-no-effect-critical-thinking-subscore":"motivational-prompts-no-effect-critical-thinking-subscore",
-"motivational-prompts-no-effect-self-reported-effort-importance":"motivational-prompts-no-effect-self-reported-effort-importance",
 "motivational-regulation-knowledge-longitudinal-procrastination":"motivational-regulation-knowledge-longitudinal-procrastination",
 "motivational-relevance-prioritizes-visual-processing-ore":"motivational-relevance-prioritizes-visual-processing-ore",
 "motivational-scaffolding-raises-academic-self-efficacy-elearning":"motivational-scaffolding-raises-academic-self-efficacy-elearning",
@@ -663621,7 +663578,6 @@
 "webquests-improve-math-retention-delayed-posttest":"webquests-improve-math-retention-delayed-posttest",
 "webquests-no-immediate-achievement-effect":"webquests-no-immediate-achievement-effect",
 "website-access-extends-beyond-school-hours":"website-access-extends-beyond-school-hours",
-"website-analyses-equivalent-quality":"website-analyses-equivalent-quality",
 "website-inscriptions-procedural-only":"website-inscriptions-procedural-only",
 "website-reliability-evaluation-similar-across-groups":"website-reliability-evaluation-similar-across-groups",
 "website-use-barriers-connection-interactivity-paper-preference":"website-use-barriers-connection-interactivity-paper-preference",

@@ -11,14 +11,16 @@ evidence_strength: moderate
 newest_evidence: 2013
 sources:
   - id: swanson-2013
-    title: "Swanson, H. L., Lussier, C. M., & Orosco, M. J. (2013). Cognitive Strategies, Working Memory, and Growth in Word Problem Solving in Children With Math Difficulties. Journal of Learning Disabilities, 48(4), 339–358."
+    resource: "https://doi.org/10.1177/0022219413498771"
+    title: "Swanson, H. L., Lussier, C. M., & Orosco, M. J. (2013). Cognitive Strategies, Working Memory, and Growth in Word Problem Solving in Children With Math Difficulties. Journal of Learning Disabilities, 48(4), 339–358. [doi:10.1177/0022219413498771](https://doi.org/10.1177/0022219413498771)"
     author: "Swanson, H. L., Lussier, C. M., & Orosco, M. J."
     q: 3
     i: "?"
     kind: causal
     rigour: 2
   - id: swanson-2013-2
-    title: "Swanson, H. L., Lussier, C. M., & Orosco, M. J. (2013). Cognitive Strategies, Working Memory, and Growth in Word Problem Solving in Children With Math Difficulties. Journal of Learning Disabilities, 48(4), 339–358."
+    resource: "https://doi.org/10.1177/0022219413498771"
+    title: "Swanson, H. L., Lussier, C. M., & Orosco, M. J. (2013). Cognitive Strategies, Working Memory, and Growth in Word Problem Solving in Children With Math Difficulties. Journal of Learning Disabilities, 48(4), 339–358. [doi:10.1177/0022219413498771](https://doi.org/10.1177/0022219413498771)"
     author: "Swanson, H. L., Lussier, C. M., & Orosco, M. J."
     q: 3
     i: "?"
@@ -40,7 +42,7 @@ sources:
 
 ### Swanson 2013
 
-Swanson, H. L., Lussier, C. M., & Orosco, M. J. (2013). Cognitive Strategies, Working Memory, and Growth in Word Problem Solving in Children With Math Difficulties. Journal of Learning Disabilities, 48(4), 339–358.
+Swanson, H. L., Lussier, C. M., & Orosco, M. J. (2013). Cognitive Strategies, Working Memory, and Growth in Word Problem Solving in Children With Math Difficulties. Journal of Learning Disabilities, 48(4), 339–358. [doi:10.1177/0022219413498771](https://doi.org/10.1177/0022219413498771)
 
 `q3 · i?` · `causal · r2`
 
@@ -50,7 +52,7 @@ Intent-to-treat mixed ANOVA across four testing waves; "children without MD outp
 
 ### Swanson 2013 (2)
 
-Swanson, H. L., Lussier, C. M., & Orosco, M. J. (2013). Cognitive Strategies, Working Memory, and Growth in Word Problem Solving in Children With Math Difficulties. Journal of Learning Disabilities, 48(4), 339–358.
+Swanson, H. L., Lussier, C. M., & Orosco, M. J. (2013). Cognitive Strategies, Working Memory, and Growth in Word Problem Solving in Children With Math Difficulties. Journal of Learning Disabilities, 48(4), 339–358. [doi:10.1177/0022219413498771](https://doi.org/10.1177/0022219413498771)
 
 `q3 · i?` · `causal · r2`
 

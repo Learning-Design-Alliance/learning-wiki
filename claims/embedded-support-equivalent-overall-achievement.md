@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Underprepared students in embedded-support chemistry achieved overall common-question results statistically equivalent to college-ready peers
-description: Underprepared students in embedded-support chemistry achieved overall common-question results statistically equivalent to college-ready peers
+title: Underprepared students in embedded-support chemistry showed no statistically significant difference from college-ready peers on overall common-question results
+description: Underprepared students in embedded-support chemistry showed no statistically significant difference from college-ready peers on overall common-question results
 id: embedded-support-equivalent-overall-achievement
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-03
 sources:
   - id: hesser-2016
     resource: "https://eric.ed.gov/?id=EJ1130190"
@@ -20,11 +21,11 @@ sources:
     rigour: 1
 ---
 
-# Underprepared students in embedded-support chemistry achieved overall common-question results statistically equivalent to college-ready peers
+# Underprepared students in embedded-support chemistry showed no statistically significant difference from college-ready peers on overall common-question results
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across all 14 common questions, no statistically significant difference in mean correct responses between underprepared and college-ready students. [→ Hesser 2016](#hesser-2016)
@@ -37,7 +38,7 @@ Hesser, T. L., & Gregory, J. L. (2016). Instructional Support Sessions in Chemis
 
 `q3 · i?` · `causal · r1`
 
-Analysis of common exam questions for persisting students in Fall 2014: 69 underprepared students in General Chemistry-IS and 249 college-ready students in General Chemistry. The study reports "no significant difference between the two groups of students" on overall common-question performance (All CQ: M = 7.96 vs M = 7.44; t(316) = 1.69, p = .093). Equivalence was not tested.
+Analysis of common exam questions for persisting students in Fall 2014: 69 underprepared students in General Chemistry-IS and 249 college-ready students in General Chemistry. The study reports "no significant difference between the two groups of students" on overall common-question performance (All CQ: M = 7.96 vs M = 7.44; t(316) = 1.69, p = .093). A non-significant difference is not a demonstration of equivalence, and no equivalence test was run; only students who persisted to the final exam were compared.
 
 > "the overall average response to all the common questions asked throughout the semester indicated no significant difference between the two groups of students"
 

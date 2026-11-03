@@ -49,7 +49,7 @@ Two-Way ANOVA for mixed measures on pre-test–post-test Vocabulary Test scores 
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related
 - [Repeated listening improves oral reading fluency in second-grade students, with Listening Only outgaining Reading While Listening and Reading Only](repeated-listening-improves-oral-reading-fluency.md) — related
 - [Listening to vocabulary lessons while physically active improves End-of-Unit exam performance over traditional intentional learning alone](lwpa-outperforms-traditional-vocabulary-learning.md) — related
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Listening comprehension achievement significantly predicts vocabulary achievement, explaining about 25% of its variance](listening-comprehension-predicts-vocabulary.md) — related
 - [Metacognitive strategy instruction improves EFL student-teachers' listening comprehension relative to traditional instruction](metacognitive-strategy-instruction-improves-listening-comprehension.md) — related
 - [Training active listening as a stand-alone component before other interpreting skills contributes more to selective listening development than training it as a built-in part](standalone-active-listening-mode-contributes-more.md) — related

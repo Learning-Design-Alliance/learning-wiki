@@ -39,7 +39,7 @@ The Readerthon is a reading activity in which each student reads ten volumes of 
 ## Claims
 
 - [A one-month intensive English program significantly improved general English proficiency scores of low-scoring Malaysian secondary students](../claims/intensive-english-program-significant-pre-post-gains-malaysian-secondary.md) [+W]
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](../claims/l2-fluency-gains-persist-weeks-without-practice.md) [+W]
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](../claims/l2-fluency-gains-persist-weeks-without-practice.md) [+W]
 - [The present study's significant gains contrast with Brown's (1992) claim that intensive programs are not beneficial for elementary-level learners](../claims/findings-contradict-brown-elementary-learners-claim.md) [+W]
 - [The literature on intensive course effectiveness reports inconsistent results, with proponents and opponents citing competing evidence](../claims/inconsistent-literature-intensive-course-effectiveness.md) [~W]
 - [Nasiri and Shokrpour (2012) found non-intensive English course students significantly outperformed intensive course students](../claims/nasiri-shokrpour-non-intensive-outperformed-intensive.md) [-W]

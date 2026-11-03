@@ -52,7 +52,7 @@ Primary linear mixed-effects model (TotalScore ~ Timepoint + Centre + Timepoint�
 - [AI-generated revision podcasts produce statistically significant immediate learning gains in medical students at both study centres](ai-revision-podcasts-immediate-learning-gains-medical-students.md) — related
 - [Podcast gains extend beyond recall to higher-order application and analysis items at both centres](podcast-gains-higher-order-domains.md) — related
 - [Topic-wise gains were heterogeneous, with some topics showing no meaningful change](podcast-topic-wise-gain-heterogeneity.md) — related
-- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — a broader claim this one bears on
+- [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — a broader claim this one bears on
 - [Higher episode completion (>50%) is independently associated with greater learning gain, and the centre effect on gain is mediated by engagement](podcast-dose-response-learning-gain.md) — related
 - [Heterogeneous learning curves across practitioners create organizational challenges including perceived unfairness](learning-curve-heterogeneity-matthew-effects.md) — related
 - [Exploratory pre-post questionnaire comparisons showed descriptively higher post-program means but no statistically significant differences after Holm adjustment](exploratory-pre-post-null-holm-adjusted.md) — related

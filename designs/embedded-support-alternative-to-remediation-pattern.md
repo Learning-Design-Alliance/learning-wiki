@@ -39,7 +39,7 @@ A course-design pattern in which underprepared students are enrolled directly in
 - Succeed in a college-level general chemistry course without prior remediation
 
 ### Claims
-- [Embedded Support Equivalent Overall Achievement](../claims/embedded-support-equivalent-overall-achievement.md) [+M]
+- [Underprepared students in embedded-support chemistry showed no statistically significant difference from college-ready peers on overall common-question results](../claims/embedded-support-equivalent-overall-achievement.md) [+W]
 - [Late Semester Underprepared Outperform College Ready](../claims/late-semester-underprepared-outperform-college-ready.md) [+M]
 
 ## Related Designs

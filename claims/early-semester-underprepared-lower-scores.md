@@ -47,6 +47,6 @@ Independent-sample t-test on Group 1 common questions (Chapters 1, 2, and 4) giv
 ## Related Claims
 - [After approximately 6 weeks of embedded support, underprepared students' midsemester scores were not significantly different from college-ready peers](midsemester-equivalence-after-six-weeks-support.md) — related
 - [Entrance measures confirmed the nonequivalence of underprepared and college-ready groups](entrance-measures-confirmed-nonequivalence.md) — a broader claim this one bears on
-- [Underprepared students in embedded-support chemistry achieved overall common-question results statistically equivalent to college-ready peers](embedded-support-equivalent-overall-achievement.md) — related
+- [Underprepared students in embedded-support chemistry showed no statistically significant difference from college-ready peers on overall common-question results](embedded-support-equivalent-overall-achievement.md) — related
 - [Underprepared students scored significantly higher on final exam open-ended questions than college-ready peers](final-exam-open-ended-underprepared-significantly-higher.md) — related
 - [After approximately 12 weeks of embedded support, underprepared students significantly outperformed college-ready peers on late-semester common questions](late-semester-underprepared-outperform-college-ready.md) — related
