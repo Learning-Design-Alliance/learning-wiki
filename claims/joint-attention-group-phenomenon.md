@@ -50,3 +50,4 @@ This is the editorial's theoretical argument, drawing on Tomasello's comparative
 - [Adaptive AI support directs regulatory activity toward monitoring while static AI support produces strategy-focused, procedural regulation](adaptive-ai-monitoring-static-strategy-networks.md) — related
 - [Collaboration quality relates to the ratio of group to individual activity in gaze-supported dyads](collaboration-quality-ratio-group-individual-activity.md) — related
 - [Joint visual attention correlates with collaboration quality, but unbalanced visual participation is negatively correlated with learning gains](joint-visual-attention-correlates-collaboration-quality.md) — related
+- [The meaning-making process was characterised by shared management, joint attention, mutual influence and reciprocal positioning](meaning-making-shared-management-joint-attention.md) — a broader claim this one bears on

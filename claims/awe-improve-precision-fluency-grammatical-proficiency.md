@@ -63,3 +63,4 @@ Systematic literature review synthesizing 50 empirical studies published 2019–
 - [AWE is more effective when complemented by teacher feedback rather than used as a standalone tool](awe-more-effective-with-teacher-feedback.md) — related
 - [AWE is more effective for surface-level writing skills than for higher-order skills such as argumentation and coherence](awe-surface-level-stronger-than-higher-order.md) — related
 - [High-affordance feedback tools supported accurate self-assessment while low-affordance tools hindered self-reflection](feedback-affordance-self-assessment.md) — related
+- [Scaffolding through the writing process approach met EFL students' needs and improved their writing skill despite persistent difficulty with basic elements such as grammar.](scaffolding-met-needs-despite-grammar-difficulty.md) — related

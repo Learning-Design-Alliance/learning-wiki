@@ -53,3 +53,4 @@ Quasi-experiment with 56 Grade 5 students in Taiwan (27 experimental, 29 control
 - [Authentic problem-based vocabulary tasks improve immediate vocabulary recall of intermediate Iranian EFL learners compared with conventional input-based tasks](pbl-tasks-improve-vocabulary-recall-efl.md) — related
 - [Vocabulary test scores correlated positively with reading comprehension in both groups, with stronger correlations in the hierarchy group](vocabulary-reading-comprehension-positive-correlation.md) — related
 - [Hierarchy vocabulary exercises produced significantly higher reading comprehension than copying exercises, with a large effect size (d = 1.35)](hierarchy-exercises-improve-reading-comprehension.md) — related
+- [Project-based ESP instruction improves tertiary ESP students' acquisition of specialization-related English vocabulary compared with conventional instruction](pbl-esp-vocabulary-gains-qassim.md) — related

@@ -48,3 +48,4 @@ Open-ended evaluation (N = 18) on attitude and values. Students distinguished to
 - [PBL shifts learners' opinions about topics modestly, and learners with strong pre-existing opinions are less likely to change](pbl-opinion-shifts-limited-by-preexisting-views.md) — a broader claim this one bears on
 - [Students valued experiential learning most about how they learned, citing community interviews and intercultural teamwork as powerful learning moments](experiential-learning-valued-most-sis.md) — related
 - [Facebook-based digital storytelling helped cross-national students overcome stereotypes and share opinions](facebook-digital-storytelling-overcame-stereotypes.md) — related
+- [Both Dutch and Finnish pupils felt they had learned about the other culture and found interacting with pupils of a different cultural background interesting](tila-intercultural-gains-both-groups.md) — related

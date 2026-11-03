@@ -58,3 +58,4 @@ RCT of 46 kindergarten children in Eugene, Oregon randomly assigned to intervent
 - [First Step Next replication RCTs produced small to large effect sizes and statistically significant behavioral gains compared with control conditions](fsn-replication-rcts-significant-gains.md) — related
 - [Preschool First Step to Success produces statistically significant postintervention improvements on all teacher-reported symptom and functioning outcomes for preschoolers at risk for ADHD, with large effect sizes](pfs-large-teacher-reported-effects-adhd-risk-preschoolers.md) — related
 - [Preschool First Step intervention improves teacher-reported social skills (ESP-ABI) in preschoolers with challenging behaviors](pfs-improves-teacher-reported-social-skills-abi.md) — related
+- [Tertiary First Step shows no statistically significant improvement in teacher-rated academic competence](tertiary-first-step-no-academic-competence-gain.md) — related

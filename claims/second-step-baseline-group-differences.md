@@ -49,3 +49,4 @@ Baseline comparison from three-level growth models controlling for gender, ethni
 - [Students in Second Step treatment schools showed a significantly greater increase in GPA over four semesters than students in control schools](second-step-improves-gpa-growth.md) — related
 - [No statistically significant difference was found between treatment and control schools in the growth rate of prosocial school behaviors](second-step-no-effect-prosocial-behavior-growth.md) — related
 - [Students in Second Step treatment schools showed a significantly greater reduction in problem behaviors over four semesters than students in control schools](second-step-reduces-problem-behaviors-longitudinal.md) — related
+- [Treatment students significantly increased in prosocial behaviors and social responsibility, and were less excluded by peers, while control students decreased in these behaviors.](rd-program-improved-prosocial-behavior-and-social-responsibility.md) — related

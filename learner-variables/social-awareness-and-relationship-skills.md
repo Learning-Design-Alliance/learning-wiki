@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 210 claims (143 show a difference, 44 mixed, 23 no difference) · 153 studies (48 causal, 42 review, 27 associational, 16 quant-synthesis, 10 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 41 of 153 report an effect size · 203 claims rest on one study
+> **Evidence** · 211 claims (144 show a difference, 44 mixed, 23 no difference) · 154 studies (49 causal, 42 review, 27 associational, 16 quant-synthesis, 10 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 42 of 154 report an effect size · 204 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -252,6 +252,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [A decrease in aggressive interpersonal strategies predicts a reduction in child-reported aggressive behavior in the spring, controlling for fall aggression](../claims/decrease-aggressive-strategies-reduces-child-reported-aggression.md) [+M] — learners who differ on it differ in outcomes
 - [Students in WHS classrooms are rated higher on social skills at posttest than control students](../claims/whs-student-social-skills-improvement.md) [+M] — instruction changes it
 - Authentic real-life SL placements build PSTs' pedagogical methods, relationship-building skills, and confidence with ELLs [+M] — measured as an outcome of the instruction studied
+- [The Respecting Diversity program significantly increased students' self-respect, awareness of others, and respect for others, while control students decreased in these factors.](../claims/rd-program-increased-self-respect-awareness-of-others-and-respect-for-others.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

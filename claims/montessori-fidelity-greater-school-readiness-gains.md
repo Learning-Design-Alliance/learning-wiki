@@ -70,3 +70,6 @@ Within-Montessori analysis in the same longitudinal study: classroom-level perce
 - [Low-income children in high-fidelity Montessori significantly closed the achievement gap with higher-income children by the end of a longitudinal lottery study](montessori-closed-income-achievement-gap.md) — related
 - [In a lottery-based comparison, Montessori children showed advantages on academic, executive function, social and theory-of-mind measures, with no differences on all measures](montessori-lottery-study-advantages.md) — related
 - [The stronger a school's adherence to Montessori principles (implementation fidelity), the stronger its positive impact on maths](montessori-fidelity-moderates-maths-impact.md) — possibly the same claim (merge candidate)
+- [Montessori students lessened or closed the baseline gap across all five ASQ domains](montessori-closed-gap-all-domains.md) — related
+- [Overall ASQ gains for Montessori students were not statistically significant in the standard difference-in-difference analysis](montessori-overall-asq-gains-not-significant.md) — related
+- [Montessori classroom conversion improved personal-social development in displaced refugee children](montessori-personal-social-gains-refugee-children.md) — a narrower finding that bears on this claim

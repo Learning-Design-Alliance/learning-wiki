@@ -55,3 +55,4 @@ Subgroup analysis in Table 2 of between-group studies of behavioral parent train
 - [Existing child-focused treatments for ADHD, including the MTA's intensive behavioral management and medication, and clinic-based social skills training, have not improved peers' liking of children with ADHD](existing-treatments-fail-improve-peer-regard-adhd.md) — related
 - [By parent report, 62% of intervention children versus 21% of controls responded or improved on ADHD symptom criteria](pfs-responder-analysis-parent-report-clinical-response.md) — related
 - [Behavioral functioning improves significantly across all intervention groups in similar magnitude](behavioral-improvement-equivalent-across-groups.md) — related
+- [A 12-week teacher training programme significantly reduced ADHD symptoms in students compared to a control group](teacher-training-reduces-adhd-symptoms-classroom.md) — related

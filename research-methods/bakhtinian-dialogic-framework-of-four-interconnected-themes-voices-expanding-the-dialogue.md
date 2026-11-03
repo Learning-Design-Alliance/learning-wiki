@@ -29,6 +29,7 @@ The article operationalizes dialogue through four Bakhtin-inspired themes used b
 - [Dialogical voice-synergy model of collaboration](dialogical-voice-synergy-model-of-collaboration.md)
 - [Theoretically productive classroom dialogue framework: five recurring themes plus the cross-cutting theme of high student contribution](theoretically-productive-classroom-dialogue-framework-five-recurring-themes-plus-the-cross.md)
 - [Dialogical self theory (DST) I-positions as a CSCL analytical framework](dialogical-self-theory-dst-i-positions-as-a-cscl-analytical-framework.md)
+- [Dialogic thematic analysis: centripetal and centrifugal forces as an analytic framework for meaning-making](dialogic-thematic-analysis-centripetal-and-centrifugal-forces-as-an-analytic-framework-for.md)
 
 ## Key Sources
 - Benzi Slakmon, Rotem Abdu. (2024). Learning to notice collaboration: examining the impact of professional development on mathematics teachers’ enhanced awareness in CSCL settings. Intern. J. Comput.-Support. Collab. Learn 19:137–155. https://doi.org/10.1007/s11412-024-09423-6

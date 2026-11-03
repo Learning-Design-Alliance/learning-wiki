@@ -57,3 +57,5 @@ Independent t-test on immediate post-test scores of 45 non-English-major freshme
 - [After one year, Access Program students significantly outperform public school students who had also qualified for the program on a diagnostic English test](access-program-outperforms-public-schools-elt-posttest.md) — related
 - [Using the Learner's terminological thesaurus and dictionary yields a statistically significant pooled advantage over regular instruction in lexical-skill outcomes](thesaurus-dictionary-pooled-advantage-lexical-competence.md) — related
 - [Nasiri and Shokrpour (2012) found non-intensive English course students significantly outperformed intensive course students](nasiri-shokrpour-non-intensive-outperformed-intensive.md) — related
+- [The SMS experimental group outperformed the control group on the post-test](sms-group-outperformed-control-post-test.md) — reports the opposite
+- [Students preferred short SMS exercises answerable immediately without reference materials](sms-short-immediate-exercises-preferred.md) — related

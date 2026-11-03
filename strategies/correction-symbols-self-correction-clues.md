@@ -43,7 +43,8 @@ A concrete feedback technique from the article's conclusion: teachers mark writt
 - [Traditional feedback methods produced only minor writing-error improvement in the control group](../claims/traditional-feedback-minor-improvement-control.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use editing checklists and correction symbols so students identify and correct their own mechanical errors rather than having the teacher correct them.](editing-checklists-correction-symbols.md)
 
 ## Examples
 -

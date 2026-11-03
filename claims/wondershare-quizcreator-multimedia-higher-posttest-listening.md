@@ -63,3 +63,4 @@ Quasi-experimental non-equivalent control group study: 36 students per group, ex
 - [Integrative teaching techniques improve German speaking-skill learning outcomes in a single-group quasi-experiment](integrative-techniques-improve-german-speaking-outcomes.md) — related
 - [Instructional media teaching produced significantly higher comprehension achievement than conventional teaching among teacher training students](instructional-media-higher-comprehension-achievement.md) — related
 - [Instructional media teaching produced significantly higher lexis formation achievement than conventional teaching among teacher training students](instructional-media-higher-lexis-formation-achievement.md) — related
+- [Audio-only listening test group outperformed video-only group on overall listening comprehension scores](audio-outperforms-video-efl-listening-test.md) — reports the opposite

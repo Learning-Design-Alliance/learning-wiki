@@ -53,3 +53,4 @@ Exploratory mixed-effects regression with a motor × cognitive-skill (intelligen
 - [Fine motor skills correlate more strongly with overall academic-cognitive skills (r = .302) than gross motor skills (r = .170) in children aged 3–16](fims-stronger-than-gms-overall-academic-cognitive.md) — related
 - [FMS subdomain correlations vary within academic domains: nonword reading strongest, letter reading weakest, intelligence strongest among cognitive skills](fms-subdomain-differentiated-links.md) — related
 - [Total gross motor scores show a very weak to moderate positive association with mathematical skills despite conflicting findings](total-gross-motor-scores-mathematics-association.md)
+- [Domain-specific ASQ gains favoured Montessori but were not statistically significant for communication, gross motor, fine motor, or problem solving](montessori-domain-gains-not-significant.md) — related

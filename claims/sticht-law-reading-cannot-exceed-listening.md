@@ -56,3 +56,4 @@ The article reports, citing Sticht's work with native language learners in readi
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — related
 - [The literature review reports multiple ways YouTube can support language learning, including listening skills, reading comprehension and learner autonomy](youtube-language-learning-reviewed-benefits.md) — related
 - [81% of AL2 studies focus on written language, with only 16% targeting aural-oral skills](eighty-one-percent-written-language-focus.md) — related
+- [Japanese university students recognize English words more easily visually than aurally](visual-over-aural-word-recognition-japanese-learners.md) — reports the opposite

@@ -50,3 +50,4 @@ Independent t-test between the impulsive written output group (M = 21.75, SD = 1
 - [Oral and written output-based instruction do not differ significantly in effect on vocabulary learning of reflective EFL learners](no-oral-written-difference-reflective-vocabulary.md) — related
 - [Reflective EFL learners taught with oral output-based instruction significantly outperform control-group learners on vocabulary posttests](reflective-oral-output-outperforms-control-vocabulary.md) — related
 - [Reflective EFL learners taught with written output-based instruction significantly outperform control-group learners on vocabulary posttests](reflective-written-output-outperforms-control-vocabulary.md) — related
+- [Prior research found impulsivity and reflectivity do not affect vocabulary learning of Iranian EFL learners](prior-research-impulsivity-reflectivity-vocabulary-null.md) — related

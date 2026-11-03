@@ -47,3 +47,4 @@ Ascertaining-phase testing of 54 students using 270 English tests based on the S
 ## Related Claims
 - [Socio-cultural and strategic component scores rose substantially at re-testing (87% value ranking, 58% traditions, 86% strategies, 82% social)](retest-sociocultural-strategic-gains.md) — related
 - [Interactive learning technologies produced greater gains in foreign language communicative competence than traditional instruction in a 54-student quasi-experiment](interactive-technologies-greater-flcc-gains-kfu.md) — a broader claim this one bears on
+- [Baseline: few students rank communication with pupils first and communicative values are not prioritized](baseline-communication-not-top-value.md) — related

@@ -12,7 +12,7 @@ generated:
 # Usage-Based Second Language Acquisition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (7 for, 3 mixed) · 7 studies (3 review, 2 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q3` · 2 of 7 report an effect size · 9 claims rest on one study
+> **Evidence** · 12 claims (7 for, 5 mixed) · 9 studies (4 review, 2 quant-synthesis, 1 causal, 1 associational, 1 theoretical), `q2`–`q3` · 2 of 9 report an effect size · 11 claims rest on one study
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this
 theory: eric-ej1266918, eric-ej1176947, eric-ej1435677, eric-ed600054 (the last is about first-language lexical organisation and does not use the term "usage-based"; it is used only for its argument about frequency). The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -49,6 +49,8 @@ The fetched sources do not agree on what "experience" should count. Usage-based 
 - [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](../claims/cd-semantic-richness-improves-lexical-processing.md) [~M]
 - [Advanced L2 learners taught the core senses of to, for and at with diagrams show pre- to post-test gains in knowing when to use them, in one uncontrolled study reported second-hand](../claims/cl-core-sense-preposition-instruction-improves-use.md) [~M]
 - [Constructions typically emerge developmentally from formula, through low-scope pattern, to construction](../claims/emergence-route-formula-low-scope-pattern-construction.md) [+W]
+- [The frequency effect was significant for the picture identification test but not for the L1 meaning-matching test](../claims/frequency-effect-picture-identification-only.md) [~W]
+- [Preschool classrooms provide few exemplars of advanced linguistic content and constrained math and science instruction, limiting learning opportunities](../claims/preschool-language-math-science-content-constrained.md) [~W]
 
 ## The evidence by question
 

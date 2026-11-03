@@ -47,7 +47,8 @@ The article recommends that teachers give learners choice over vocabulary: "Teac
 - [Learners in the Wikipedia classroom reported higher motivation, sense of communal work, collaboration, and pleasure, and less confusion than learners in the traditional classroom](../claims/wikipedia-classroom-motivation-collaboration.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Let students choose their own writing topics to build confidence and increase communicative language ability.](student-chosen-writing-topics.md)
 
 ## Examples
 -

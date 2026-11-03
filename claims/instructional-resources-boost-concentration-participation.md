@@ -68,3 +68,4 @@ Observation of resource-testing lessons; the article also cites an SHS teacher s
 - [During classroom observation, think-talk-write students appeared more enthusiastic and confident in mathematics than expository-taught students](ttw-classroom-observation-enthusiasm-confidence.md) — related
 - [Teaching Art lessons with instructional resources made lessons more practical and interactive and improved pupils' understanding and performance compared with lessons taught without resources](instructional-resources-improve-art-lesson-outcomes.md) — related
 - [Using instructional resources reduced the number of teaching periods needed for some Art lessons](instructional-resources-save-teaching-time.md) — related
+- [Wait time increased student participation in classroom discussion](wait-time-increases-participation.md) — related

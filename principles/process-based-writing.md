@@ -28,7 +28,7 @@ sources:
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (25 for, 20 mixed, 2 against) · 62 studies (24 causal, 11 quant-synthesis, 8 review, 6 associational, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 14 of 62 report an effect size · 37 claims rest on one study
+> **Evidence** · 48 claims (26 for, 20 mixed, 2 against) · 63 studies (25 causal, 11 quant-synthesis, 8 review, 6 associational, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 14 of 63 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -175,6 +175,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [EDIT Strategy effects persist at 12 weeks for total, spelling, and punctuation errors, with a non-significant substance difference](../claims/edit-strategy-maintenance-12-weeks.md) [+W]
 - [Editing-only intervention did not significantly differ from control except a trend on the editing task, and no group differences emerged on the writing sample](../claims/editing-only-null-versus-control-and-writing-null.md) [-W]
 - [Writer's Workshop with sharing shifted first-grade ELL students' writing attitudes from mechanics-focused to strategies-focused](../claims/writers-workshop-writing-attitudes-ell.md) [~W]
+- [The writing workshop program significantly improves the process writing component](../claims/writing-workshop-improves-process-writing-component.md) [+W]
 
 ## Related Principles
 - [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.

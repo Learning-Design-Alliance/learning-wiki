@@ -77,3 +77,4 @@ In the same behavioral sample, the Alouette-R reading fluency test showed no sig
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — a broader claim this one bears on
 - [Children's storybook knowledge (book-cover recognition) mediates the relationship between home literacy environment and literacy outcomes](storybook-knowledge-mediates-hle-literacy-link.md) — related
 - [Frequency of e-book reading on tablets shows no association with children's emergent literacy skills](ebook-reading-frequency-no-association-emergent-literacy.md) — related
+- [Home literacy environment and out-of-school reading practice are positively correlated with reading growth in developed-world research](hle-correlated-reading-growth-background.md) — related

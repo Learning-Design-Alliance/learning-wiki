@@ -54,3 +54,4 @@ Moderator analysis reported in Table 7 across implementation periods from 11-15 
 - [The effect of cooperative learning on mathematics achievement differs significantly by implemented technique, with multiple intelligence-assisted and STAD techniques largest](cooperative-technique-moderator-significant-stad-mi.md) — related
 - [The effect of games on mathematics achievement differs significantly by educational level, with maximum effect at higher school and minimum at middle school](game-math-effect-varies-by-educational-level.md) — related
 - [The effect of games on mathematics achievement does not differ significantly by learning domain](game-math-effect-no-difference-learning-domain.md) — related
+- [Case analysis scores did not differ significantly between the internal medicine and internship periods](case-analysis-no-period-difference.md) — related

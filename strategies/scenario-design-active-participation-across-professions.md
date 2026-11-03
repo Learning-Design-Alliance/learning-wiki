@@ -48,6 +48,7 @@ The review recommends that scenario development allow active participation acros
 ## Related Strategies
 
 - [Use the observer role alongside active participation as a resource-efficient strategy to expand access to simulation-based education](observer-role-scaling-sbe-access-strategy.md)
+- [Active and interactive training methods to activate the subject position](active-interactive-methods-activate-subject-position.md)
 
 ## Examples
 -

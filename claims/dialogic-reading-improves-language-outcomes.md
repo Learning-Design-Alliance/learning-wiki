@@ -130,3 +130,4 @@ A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in whic
 - [Children whose parents received dialogic reading training acquire significantly more expressive vocabulary words from pre-test to post-test](dialogic-reading-increases-ell-children-expressive-vocabulary.md) — related
 - [Dialogic reading training increases ELL parents' access-giving and question-posing behaviors during shared reading more than traditional read-aloud](dialogic-reading-training-increases-ell-parent-interactive-behaviors.md) — a narrower finding that bears on this claim
 - [A comprehensive summer parent-involved book reading program improved receptive vocabulary but not expressive vocabulary](summer-parent-book-reading-improves-receptive-vocabulary.md) — related
+- [Head Start teachers' education and book-reading practices are associated with children's vocabulary growth over the school year](head-start-teacher-education-book-reading-vocabulary-growth.md) — related

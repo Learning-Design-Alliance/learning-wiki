@@ -51,3 +51,4 @@ Analysis of CRDC suspension data for select years from 1973 to 2017–18, disagg
 - [Secondary suspension risk declined and the racial gap narrowed slightly since 2009-10, while elementary rates did not decline and some districts saw large increases](suspension-trends-secondary-decline-elementary-flat.md) — a narrower finding that bears on this claim
 - [Black students are suspended at the highest rate of any racial group, at 12% in 2017–18, with persistent disparities across all years analyzed](black-students-highest-suspension-rate-persistent.md) — related
 - [Secondary school suspension rates varied greatly across states in 2017–18, from 15% in Mississippi, South Carolina, and Washington, DC to 3% in Utah](state-variation-secondary-suspension-rates.md) — related
+- [Severe individual behavioural problems in the intervention group decreased from 48% at baseline to 0% at the end of the intervention](severe-individual-problems-eliminated-post-intervention.md) — related

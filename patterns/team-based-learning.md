@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 74 claims (47 for, 24 mixed, 3 against) · 40 studies (17 quant-synthesis, 9 causal, 8 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 14 of 40 report an effect size · 66 claims rest on one study
+> **Evidence** · 75 claims (48 for, 24 mixed, 3 against) · 41 studies (17 quant-synthesis, 10 causal, 8 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 14 of 41 report an effect size · 67 claims rest on one study
 
 ## Description and scope
 
@@ -172,6 +172,7 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [TBL significantly increases medical students' theoretical examination scores compared with LBL in Chinese medical education (pooled SMD = 2.46)](../claims/tbl-increases-theoretical-examination-scores-china.md) [+W]
 - [In nonrandomized studies of undergraduate (5-year program) students, TBL showed a large positive effect on examination scores with reduced heterogeneity (SMD = 4.39)](../claims/tbl-undergraduate-subgroup-effect.md) [+W]
 - [Students allowed an open textbook during exams performed significantly worse than students with no aids or instructor-prepared aids](../claims/open-textbook-condition-worse-than-no-aids-and-instructor-aids.md) [+W]
+- [Both CTBL and GI groups improved significantly from pre-test to post-test](../claims/ctbl-gi-both-significant-gains.md) [+W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — shares positive interdependence and individual accountability; TBL adds the readiness assurance cycle and simultaneous reporting

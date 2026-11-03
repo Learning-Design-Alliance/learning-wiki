@@ -48,3 +48,4 @@ The review reports, citing Murphy (2010), a study of 267 first-year university E
 - [LLMs act as catalysts for collaboration by aiding idea generation, organization and peer feedback, and by democratizing access to knowledge in large-class settings](llms-catalyze-collaboration-idea-generation-peer-feedback.md) — related
 - [Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness](positive-student-response-cross-cultural-activities.md) — related
 - [Gender shaped interaction styles, with same-gender pairing favoring scaffolding conversations in Iran](gender-effects-on-interaction-styles.md) — related
+- [Culture-based activities stimulate interaction and more efficient target language use](culture-activities-stimulate-interaction.md) — related

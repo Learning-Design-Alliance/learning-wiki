@@ -48,6 +48,7 @@ The report recommends eight areas of research conceptualization, design, and ana
 - [Implement SEL systemically as a public health approach with shared vision, adult SEL, aligned programs, and continuous improvement](systemic-sel-public-health-implementation.md)
 - [Pair universal SEL programs with targeted individual instruction for students with more intense needs](tiered-sel-universal-plus-targeted.md)
 - [Extend program subgroup analysis from individual characteristics to contextual settings (schools and neighborhoods)](extend-subgroup-analysis-to-contextual-settings.md)
+- [Use less active control groups in future SEL studies of grade retention to increase treatment contrast](less-active-control-grade-retention-studies.md)
 
 ## Examples
 -

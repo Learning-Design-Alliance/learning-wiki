@@ -53,3 +53,4 @@ Independent-samples t-test comparing post-test listening scores of the podcast g
 - [The zero class hour group and the traditionally taught group made statistically similar listening gains after two months](zero-class-hour-equivalent-to-traditional-listening-gains.md) — related
 - [Post-test comprehension scores did not differ significantly between the strategy-instruction and skill-based groups despite a higher experimental mean](between-group-posttest-not-significant.md) — related
 - [Mobile podcast-based listening practice reduces EFL learners' listening anxiety more than desktop computer-based practice](mobile-podcasts-reduce-listening-anxiety.md) — related
+- [Guessing and making-inference strategy instruction in L1 significantly improves EFL listening comprehension](l1-guessing-inference-strategy-improves-listening.md) — related

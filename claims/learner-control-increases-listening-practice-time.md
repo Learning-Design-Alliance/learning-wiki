@@ -52,3 +52,4 @@ Paired-samples T-test on self-reported weekly listening practice time of the exp
 - [Thai undergraduates' business vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group](mangomon-rpg-gamification-improves-business-vocabulary.md) — related
 - [The share of students choosing interleaved practice rose from 13% to 40% across the session, but the visual feedback prompt did not further increase interleaved practice choices](vfp-did-not-improve-strategy-choices.md) — related
 - [Students spent only one to two hours weekly on out-of-class study, using video watching, revision, and summarization strategies](fc-out-of-class-study-time-strategies.md) — related
+- [PBL participants spent significantly more weekly time reading English texts than non-PBL participants during the treatment](pbl-increases-out-of-class-reading-time.md) — related

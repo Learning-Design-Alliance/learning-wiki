@@ -53,3 +53,4 @@ The review reports, citing Avci & Adiguzel (2017), that WhatsApp-based projects 
 ## Related Claims
 - [Learners showed positive attitudes toward receiving SMS vocabulary messages, and instant messaging raised intercultural awareness](sms-positive-attitudes-intercultural-awareness.md) — related
 - [In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print](sms-vocabulary-learning-beats-paper-materials.md) — related
+- [SMS methodology is reported to enhance retrieval of memorized English language rules](sms-enhances-retrieval-memorized-rules.md) — related

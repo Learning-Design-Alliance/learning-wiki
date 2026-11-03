@@ -93,3 +93,4 @@ Random effects meta-analysis of 33 RCTs including 3,666 children and adolescents
 - [Mental training methods for surgical stress management show positive effects on stress experience and technical performance](mental-training-positive-effects-surgical-stress.md) — related
 - [The iCare Stress Management e-Training Program significantly reduced perceived stress in the iCare condition but not the education-only condition](icare-stress-training-reduced-caregiver-stress.md) — related
 - [Two small pilot RCTs measuring resilience with validated scales reported significant improvement](pilot-rcts-significant-resilience-gains.md) — related
+- [Culture-based activities reduce student anxiety and stress](culture-activities-reduce-anxiety.md) — a narrower finding that bears on this claim

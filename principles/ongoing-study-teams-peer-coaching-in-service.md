@@ -39,7 +39,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 58 claims (37 for, 17 mixed, 4 against) · 38 studies (9 causal, 9 design, 8 review, 5 associational, 4 qualitative, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 38 report an effect size · 56 claims rest on one study
+> **Evidence** · 59 claims (38 for, 17 mixed, 4 against) · 39 studies (10 causal, 9 design, 8 review, 5 associational, 4 qualitative, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 39 report an effect size · 57 claims rest on one study
 
 ## Conditional relationship
 
@@ -177,6 +177,7 @@ Observed practice, student achievement, teacher satisfaction and maintenance aft
 - [CSC coaching produced no statistically significant improvement in standardized instructional strategy counts](../claims/csc-coaching-no-significant-instructional-count-gains.md) [-W]
 - [Teachers rated the coaching process positively and agreed they would continue using the Pyramid Model practices](../claims/teachers-rate-pyramid-coaching-positively.md) [+W]
 - [Both experimental and control teachers reduced fractions errors, with greater reduction in the lesson study with resource kit group](../claims/fraction-errors-reduced-both-groups-greater-in-experimental.md) [+W]
+- [Treatment teachers showed higher engagement in specific learning activities such as working with study groups and observing other teachers](../claims/cti-higher-engagement-learning-activities.md) [+W]
 
 ## Related Principles
 

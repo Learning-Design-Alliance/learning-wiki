@@ -67,6 +67,7 @@ Low-stakes writing works because it decouples writing practice from evaluation a
 - [Active Learning](../principles/active-learning.md) — low-stakes writing is one of the most logistically simple ways to make every student generate ideas during class
 - [Use freewriting as a private, ungraded warm-up to unlock ideas and release tension](freewriting-private-ungraded-warmup.md)
 - [Use an ungraded letter-to-a-friend writing assignment as a low-stakes, high-reward formative assessment](letter-to-a-friend-informal-writing-strategy.md)
+- [Let students choose their own writing topics to build confidence and increase communicative language ability.](student-chosen-writing-topics.md)
 
 ## Examples
 - **University Park Campus School (Worcester, MA)** — a school-wide strategy in every subject; daily writing built the voice and confidence that underpinned the school's college-preparatory results for a high-poverty student body.

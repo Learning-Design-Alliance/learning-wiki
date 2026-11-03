@@ -61,3 +61,4 @@ Critical thinking was measured with the researcher-built [CTTBE: Critical Thinki
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — reports the opposite
 - [Sixth-grade students taught with robotic cooperative learning scored significantly higher on critical-thinking posttest items than students taught with problem-based learning](rcl-critical-thinking-posttest-higher-than-pbl.md) — related
 - [A larger share of the group-work class (47.8%) than the control class (37.5%) scored better on integration questions than on the rest of the exam](group-work-larger-share-better-integration.md) — related
+- [Cooperative learning benefits higher-achieving students more on competency tests](cooperative-learning-benefits-higher-achievers.md) — related

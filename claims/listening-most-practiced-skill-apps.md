@@ -48,3 +48,4 @@ Survey results on application use per language skill (Table 3) show "Listening a
 - [Among fourteen examined applications, Duolingo was the most widely used by Polish and Turkish EFL pre-service teachers, followed by Quizlet and Cambly](duolingo-most-used-app-efl-preservice.md) — related
 - [Learners use apps mostly for vocabulary development, translation, and grammar practice, often informally and in short sessions](learners-use-apps-vocabulary-translation-grammar-informally.md) — related
 - [Most language-learning apps focus on cognitive processes and receptive skills, lacking sociocognitive and collaborative activities](apps-focus-cognitive-receptive-skills-lack-collaboration.md) — related
+- [Language skills are the most frequent scope of bilingualism research, examined in 21 of the sample studies](bilingualism-research-most-common-scope-language-skills.md) — related

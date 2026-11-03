@@ -42,6 +42,7 @@ The article recommends role-play, scenarios and other drama techniques as a way 
 
 - [Apply six questioning techniques in whole-class discussion: simplify, moderate, provoke thought, challenge, follow up, and relate to students](six-teacher-questioning-techniques-reading-discussion.md)
 - [Use creative drama techniques across different grades and courses to support achievement and affective outcomes](use-creative-drama-across-grades-and-courses.md)
+- [Use modern English drama texts with role-playing tasks to develop speaking fluency in EFL courses](drama-texts-role-playing-fluency-strategy.md)
 
 ## Examples
 -

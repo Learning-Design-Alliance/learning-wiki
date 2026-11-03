@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 96 claims (54 for, 32 mixed, 10 against) · 97 studies (38 causal, 20 quant-synthesis, 12 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 25 of 97 report an effect size · 82 claims rest on one study
+> **Evidence** · 98 claims (55 for, 33 mixed, 10 against) · 98 studies (39 causal, 20 quant-synthesis, 12 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 25 of 98 report an effect size · 84 claims rest on one study
 
 ## Conditional relationship
 
@@ -171,6 +171,7 @@ The heading is kept because tools look for it; new links land here unread. Re-re
 - [Inquiry-based preschool science intervention increased informative explorations relative to controls](../claims/inquiry-preschool-science-informative-explorations.md) [+W] — attached 2026-11-02 from Dejonckheere et al. (2016), which proposed "Inquiry-based preschool science with probe questions and structured phases supports scientific reasoning development"; tests this page's relationship.
 - [Inquiry-based teaching interventions produce a statistically significant, medium-sized increase in secondary students' interest in school science and technology compared with control classes](../claims/inquiry-interventions-increase-school-science-interest.md) [+M] — attached 2026-11-03 from Patrice Potvin et al. (2017), which proposed "Embed minimal guidance within inquiry-based interventions rather than leaving students unguided".
 - [Inquiry-based programme increased informative explorations targeting specific variables (CVS gains)](../claims/inquiry-programme-increases-informative-explorations-cvs.md) [+M] — attached 2026-11-03 from Dejonckheere et al. (2016), which proposed "Three-phase structure for inquiry-based preschool science activities".
+- [Sequential inquiry-based science activities with challenging questions reduce misconceptions associated with the magnetic pole concept and orient participant concepts towards the basic concepts of magnetism.](../claims/sequential-inquiry-reduces-magnetic-pole-misconceptions.md) [+W] — attached 2026-11-03 from Okulu et al. (2018), which proposed "Support inquiry with dialogues and discussions among students during the activity, since an activity is just a tool that serves for the inquiries and experiences of the students."; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -227,6 +228,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [Inquiry-based learning yields greater achievement gains than traditional teaching in a 7th-grade science and technology course](../claims/inquiry-greater-achievement-gains-than-traditional.md) [+W]
 - [Students most enjoyed conducting experiments during the inquiry-based process and generally gave no negative feedback](../claims/students-enjoyed-conducting-experiments-most.md) [~W]
 - [Student-centred approaches (problem-based learning, guided inquiry, cooperative learning) outperformed teacher-centred methods in the reviewed studies](../claims/student-centred-methods-outperform-teacher-centred.md) [+W]
+- [With a sphere magnet, both upper-lower and internal-external surfaces have lost their functions, and the inquiry begins with the question of how to find the poles of a magnet.](../claims/sphere-magnet-creates-cognitive-engagement.md) [~W]
 
 ## Related Principles
 

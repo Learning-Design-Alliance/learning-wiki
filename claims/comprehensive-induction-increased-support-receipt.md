@@ -47,3 +47,6 @@ Randomized experiment of 418 elementary schools in 17 urban districts; teacher s
 ## Related Claims
 - [Comprehensive teacher induction did not increase teacher retention during the first year of teaching](comprehensive-induction-no-retention-gain-first-year.md) — related
 - [Comprehensive teacher induction generated no significant improvements in novice teachers' classroom practices in the first year](comprehensive-induction-no-classroom-practice-gains-first-year.md) — related
+- [Treatment and control groups differed significantly in dosage of induction content, engagement in mentoring activities, and exposure to class observations and feedback](cti-groups-differ-content-activities-observations.md) — a narrower finding that bears on this claim
+- [Treatment teachers received significantly more intensive mentoring activities than control teachers](cti-treatment-more-intensive-mentoring.md) — a narrower finding that bears on this claim
+- [TTI transfer teachers received less mentoring but provided more mentoring than control counterparts](tti-mentoring-received-less-provided-more.md) — reports the opposite

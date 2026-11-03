@@ -53,3 +53,4 @@ In the same RCT, covariate-adjusted regression on the teacher-reported SSiS prob
 - [PTR-YC reduces preschool children's problem behavior more than business-as-usual, as measured by the SSIS problem behavior subscale](ptr-yc-reduces-ssis-problem-behavior-vs-bau.md) — related
 - [PTR-YC reduces preschool children's directly observed challenging behavior more than business-as-usual](ptr-yc-reduces-observed-challenging-behavior-vs-bau.md) — related
 - [PTR-YC increases preschool children's directly observed engaged time more than business-as-usual](ptr-yc-increases-engaged-time-vs-bau.md) — related
+- [Tertiary First Step reduces teacher- and parent-rated problem behavior relative to a comparison group](tertiary-first-step-reduces-problem-behavior.md) — related

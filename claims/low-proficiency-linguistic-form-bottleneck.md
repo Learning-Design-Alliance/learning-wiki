@@ -70,3 +70,4 @@ Same linguistic cohort analysis, contrasting error-rate gaps at low versus high 
 - [Data scarcity and long-form generation remain bottlenecks: on Prompt 8 prompting outperforms SFT and GRPO](data-scarcity-and-length-bottleneck-prompt-8.md) — related
 - [Zero-shot prompting collapses proficiency variation toward an idealized high-scoring student population, while SFT and GRPO match the human score and length distributions](prompting-collapses-proficiency-variation-toward-idealized-students.md) — related
 - [SFT and GRPO alignment gains reflect learned proficiency-conditioned generation rather than memorization or output collapse](no-memorization-or-generation-collapse-in-trained-simulators.md) — related
+- [CLIL students showed high English proficiency with no grammatical or spelling errors identified in recorded classroom speech](clil-students-high-english-proficiency.md) — related

@@ -145,3 +145,4 @@ In a 2-year longitudinal study beginning at school entry (90 British children st
 - [Phonemic awareness and reading fluency trainings alone are not sufficient to achieve substantial improvements in school-aged children with reading difficulties](phonemic-awareness-fluency-alone-insufficient.md) — related
 - [Pre-K children receiving explicit nursery rhyme instruction significantly improved their phonological awareness (PALS-Pre-K) scores](nursery-rhyme-instruction-improves-pals-scores.md) — related
 - [Gains from nursery rhyme training were greatest in rhyme awareness and least in beginning sound awareness](rhyme-awareness-gains-exceed-beginning-sound-gains.md) — related
+- [Reading and writing measures show moderate correlations, with stronger overlap in lower-level processes than higher-level processes](reading-writing-overlap-lower-level-processes.md) — related

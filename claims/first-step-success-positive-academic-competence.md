@@ -49,3 +49,4 @@ Single RCT in Albuquerque grades 1–3. The WWC-calculated effect size was "0.32
 - [First Step to Success shows no discernible effects on reading achievement/literacy](first-step-success-no-reading-effects.md) — related
 - [First Step to Success shows potentially positive effects on social outcomes (average improvement index +23)](first-step-success-positive-social-outcomes.md) — related
 - [First Step to Success has positive effects on external behavior for children at risk for emotional disturbance (average improvement index +28)](first-step-success-positive-external-behavior.md) — related
+- [Tertiary First Step shows no statistically significant improvement in teacher-rated academic competence](tertiary-first-step-no-academic-competence-gain.md) — reports the opposite

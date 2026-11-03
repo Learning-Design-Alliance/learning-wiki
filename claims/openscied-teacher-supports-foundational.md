@@ -57,3 +57,4 @@ Synthesis of the focus-group needs maps (Figures 2–4) across 28 interviewed pr
 - [Practitioners most often name students with disabilities (37.4%) and multilingual learners (31.0%) as groups experiencing equity challenges with OpenSciEd.](openscied-equity-challenges-swd-and-mls.md) — related
 - [School leaders allocated resources to expand organizational capacity around adoption and implementation of the Skyline ELA curriculum in grades K-2](leaders-allocated-resources-expand-organizational-capacity-skyline.md) — related
 - [Student hat activities and planning-reflection tools support teachers' curricular sensemaking, content understanding, and empathy with student experiences](student-hat-planning-tools-support-sensemaking.md) — related
+- [The final synthesis identifies improving interactions between systems as the path to effective curricular change adoption](synthesis-improving-interactions-systems-adoption.md) — related

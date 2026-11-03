@@ -68,3 +68,4 @@ Political-leanings comparison on the same pre/post HICCK measure: both liberals 
 - [Overconfidence (bias) decreased from pretest to posttest across all groups including control, with no group differences](bias-decreased-across-groups-no-feedback-effect.md) — related
 - [No statistical difference between liberal and conservative students in the importance they placed on climate change](no-political-difference-climate-issue-importance.md) — related
 - [Both groups improved significantly from pre-test to post-test with no pre-existing difference between them](significant-pre-post-gains-both-esp-groups.md) — related
+- [Classroom climate significantly improved for treatment classrooms and decreased in control classrooms according to both teachers and students.](rd-program-improved-classroom-climate.md) — related

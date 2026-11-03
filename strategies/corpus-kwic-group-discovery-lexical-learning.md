@@ -50,6 +50,7 @@ This is a learner-centered activity sequence in which students receive target le
 
 - [Design curriculum materials that integrate concordancing programs and corpus-based activities into language programs](integrate-concordancing-into-language-curriculum-materials.md)
 - [Integrate corpus consultation into EFL teacher training and collocation teaching](integrate-corpus-consultation-efl-teacher-training.md)
+- [Guide learners through KWIC concordance lines of a verb and its synonym set, then compare prosodic behavior across the set](kwic-synonym-set-concordance-comparison.md)
 
 ## Examples
 -

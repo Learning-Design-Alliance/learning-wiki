@@ -56,3 +56,4 @@ Type-II ANOVA on IMI enjoyment scores among 157 active participants (those with 
 - [The example-based course increased perceived competence, but neither the course nor the assistant had a significant effect on perceived choice or pressure](course-increases-perceived-competence-journaling.md) — related
 - [Question-driven AI journaling increases intrinsic motivation and acting confidence among actors](question-driven-ai-journaling-raises-motivation-confidence.md) — related
 - [Interventions including chatbots, blended learning programs, and mobile devices show positive effects on SDL among healthcare professionals](interventions-positive-effects-sdl-hcp.md) — related
+- [Students report culture-based activities create an enjoyable and comfortable atmosphere](culture-activities-enjoyable-atmosphere.md) — related

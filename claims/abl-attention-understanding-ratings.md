@@ -52,3 +52,4 @@ Post-lesson survey items on attention and understandability. The article also re
 - [Students reflected more positively on multiple intelligences activities than on traditional instruction, reporting the lessons more interesting, enjoyable and easier to learn from](mi-activities-positive-student-reflections.md) — related
 - [Activity-based teaching engaged more students than traditional teaching in post-lesson survey ratings](abl-higher-engagement-ratings.md) — related
 - [Students exposed to the layered curriculum chose activities they believed would reinforce learning and reported increased motivation and responsibility](layered-curriculum-student-activity-choice-motivation.md) — related
+- [Students found the tablet PC lesson difficult to attend to and doubted they would remember its content, while rating it as innovative](student-perceptions-tablet-attention-difficulty.md) — related

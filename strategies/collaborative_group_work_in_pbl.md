@@ -68,6 +68,7 @@ Collaboration improves learning when it is structured — with group goals, indi
 - [Teachers implementing TEPBLL should describe technological knowledge and learning objectives, match projects to proficiency levels, assign group roles, and provide staged progressive feedback](tepbll-teacher-facilitation-recommendations.md)
 - [Distribute SLC group roles and tasks according to each member's capability so students exchange information](tailor-slc-roles-to-student-capability.md)
 - [Form project groups so each student works with at least one friend](group-formation-with-at-least-one-friend.md)
+- [Structure positive interdependence through goal, role, and reward interdependence in cooperative base groups](structure-positive-interdependence-goal-role-reward.md)
 
 ## Related Elements
 - [Peer Collaboration](../elements/peer-collaboration.md) — the core element this strategy structures

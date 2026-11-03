@@ -51,6 +51,7 @@ Based on the study, the article's most highly recommended extensive reading task
 ## Related Strategies
 
 - [Allocate scores for extensive reading as motivation rather than penalty](scores-as-extensive-reading-incentive.md)
+- [Use short reading passages from supplementary books as springboards for integrated skills practice (retelling, summarizing, role play)](supplementary-passages-integrated-skills-practice.md)
 
 ## Examples
 -

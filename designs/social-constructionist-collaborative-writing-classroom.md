@@ -40,6 +40,10 @@ In the collaborative classroom the paper describes, "the teacher is a facilitato
 ### Claims
 - [Collaborative Learning Is An Extension Of Social Constructionism Into Composition](../claims/collaborative-learning-is-an-extension-of-social-constructionism-into-composition.md) [+W]
 
+## Related Designs
+
+- [Writing workshop as a student-centered, process-based approach to teaching writing](writing-workshop-approach-framework.md)
+
 ## Related Patterns
 - [Writing Workshop](../patterns/workshop-model.md)
 - [Collaborative Learning](../patterns/collaborative-learning.md)

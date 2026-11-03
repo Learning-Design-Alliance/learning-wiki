@@ -71,3 +71,4 @@ Dependent samples t-test on the Facebook experimental group's essays (n=48) in t
 - [Writing self-efficacy increased significantly in both the Facebook experimental group and the control group](writing-self-efficacy-increased-both-groups.md) — related
 - [Facebook-based peer comment activities significantly improve students' writing quality over a semester](facebook-peer-comments-improve-writing-quality.md) — related
 - [Control-group success rates mostly declined from week one to week two](control-group-success-declined-second-week.md) — related
+- [Assimilating and Diverging learners significantly outperform Converging and Accommodating learners on course achievement when learning via mobile Facebook](assimilating-diverging-outperform-converging-accommodating-mobile-facebook-achievement.md) — related

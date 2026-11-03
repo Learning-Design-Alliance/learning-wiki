@@ -40,6 +40,7 @@ In its conclusion the article sets a forward-looking research agenda: it used on
 ## Related Strategies
 
 - [Prioritize high-quality randomized controlled trials and umbrella reviews over producing further redundant CI meta-analyses](rcts-and-umbrella-reviews-for-ci.md)
+- [Future research agenda: detailed implementation data, qualitative study, and cross-setting comparison](future-research-life-wide-learning-agenda.md)
 
 ## Examples
 -

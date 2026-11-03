@@ -55,3 +55,4 @@ Because interaction terms for emotional problems and relatedness were non-signif
 - [Cooperative learning significantly reduced bullying among marginalized (low-engagement) middle school students in a cluster randomized trial](cooperative-learning-reduces-bullying-marginalized-students.md) — related
 - [Cooperative learning showed no significant main effect on bullying across the full sample](cooperative-learning-no-main-effect-bullying.md) — related
 - [Cooperative learning is associated with greater peer acceptance and cross-group friendships and has been shown to reduce bullying and perceived stress among marginalized students](cooperative-learning-promotes-inclusion.md) — a broader claim this one bears on
+- [The cross-level interaction favoring cooperative learning for higher-pretest students was not found at follow-up, indicating no long-term impact](cl-interaction-not-persistent-follow-up.md) — related

@@ -48,3 +48,4 @@ Grounded-theory analysis of tutee focus groups from the same study. The article 
 - [Pre-service teachers attribute their learning from experiencing peer tutoring to leading the process, peer interaction, preparing activities, and motivation](focus-group-tutor-learning-causes.md) — related
 - [In a thermodynamics course, pairs working with a tutorial dialogue agent learned about 1.24 standard deviations more than students working alone, with partner and agent support synergistic rather than redundant](agent-plus-partner-synergy-1-24-sd.md) — related
 - [A synergistic effect between tutor and tutee roles may explain the peer agent's advantage](tutor-tutee-synergistic-effect.md) — related
+- [Tutees' Reading Self-Concept gains may be hindered because tutees either play down their improvement or attribute their achievement to external factors such as their tutor's help](tutee-external-attribution-hinders-rsc.md) — related

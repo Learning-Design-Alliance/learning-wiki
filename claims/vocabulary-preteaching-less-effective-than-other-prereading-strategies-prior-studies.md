@@ -47,3 +47,4 @@ The review reports Taglieber et al.'s (1988) finding with 40 Brazilian undergrad
 ## Related Claims
 - [Vocabulary pre-teaching and pre-questioning produce no statistically significant difference in Saudi EFL college students' reading comprehension scores](no-difference-vocabulary-preteaching-prequestioning-saudi-efl.md) — reports the opposite
 - [The review reports that pre-reading activities have received abundant empirical support for enhancing EFL reading comprehension across contexts](prereading-activities-enhance-comprehension-empirical-support.md) — a broader claim this one bears on
+- [Vocabulary pre-teaching was less effective than other forms of listening support in prior studies](vocabulary-preteaching-less-effective-than-other-support.md) — possibly the same claim (merge candidate)

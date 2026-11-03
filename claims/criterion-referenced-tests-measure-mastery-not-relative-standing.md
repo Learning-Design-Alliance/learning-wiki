@@ -68,3 +68,4 @@ The article's conceptual discussion of criterion-referenced measurement explains
 - [Abandoning assessment entirely is not an acceptable alternative to competitive grading, per the author's argument](nonassessment-unacceptable-alternative.md) — related
 - [Norm-referenced mental-age and IQ metrics distract investigators from the structural and hierarchical aspects of developing abilities](norm-referenced-metrics-hide-structural-development.md) — related
 - [Uncertainty is conceptually distinct from failure: it is an epistemic and metacognitive state, while failure is defined relative to an evaluative criterion](uncertainty-distinct-from-failure.md) — related
+- [Integrating dynamic speaking assessments with standardized criterion-referenced assessments significantly improves post-test performance](integrated-dynamic-standardized-assessment-improves-post-cra.md) — a narrower finding that bears on this claim

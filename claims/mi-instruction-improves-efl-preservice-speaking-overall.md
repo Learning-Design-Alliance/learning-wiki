@@ -54,3 +54,4 @@ One-group pretest-posttest quasi-experiment with 60 fourth-year prospective teac
 - [Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
 - [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in writing](web-based-instruction-outperforms-traditional-writing.md) — related
 - [Open Discussion Sessions significantly improved Saudi EFL majors' pre-post speaking test scores in favor of post-testing](open-discussion-sessions-significant-speaking-gains.md) — related
+- [A writing workshop-based program significantly improves overall basic writing skills of prospective English teachers](writing-workshop-improves-basic-writing-skills-prospective-teachers.md) — related

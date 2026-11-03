@@ -57,3 +57,4 @@ The review reports, citing Schneider and Pea (2015), a methodological study comb
 - [Multimodal data can reverse the interpretation of silence in collaborative problem-solving](multimodality-reverses-silence-interpretation-cps.md) — related
 - [High joint visual attention can hide a free-rider effect in collaborative dyads](high-jva-hides-free-rider-effect.md) — related
 - [Current interaction analysis shows a gap between collecting and visualizing mined data and interpreting it in terms of the learning process](gap-mined-data-learning-interpretation.md) — related
+- [The meaning-making process was characterised by shared management, joint attention, mutual influence and reciprocal positioning](meaning-making-shared-management-joint-attention.md) — related

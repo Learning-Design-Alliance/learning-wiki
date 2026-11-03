@@ -53,3 +53,4 @@ One-way ANOVA on the posttest DCT scores of the same 30 learners grouped as expe
 - [No significant instruction-by-time interaction was found on the discourse completion test](dct-no-interaction-instruction-time.md) — related
 - [Gender showed no significant effect on achievement, and the group-by-gender interaction was not significant](no-gender-effect-oav-achievement.md) — related
 - [Gender moderates the retention benefit of text production: significant for female learners at 24 hours only, not for male learners](gender-moderates-text-production-retention-benefit.md) — related
+- [Gender does not moderate the effect of intertextuality-aware instruction on EFL reading comprehension](gender-no-moderator-intertextuality-instruction.md) — related

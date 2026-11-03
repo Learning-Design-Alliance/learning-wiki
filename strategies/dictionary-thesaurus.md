@@ -63,6 +63,7 @@ Dictionary and thesaurus use converts word-learning from passive guessing into a
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting a new word's definition to known concepts and experiences is what converts a lookup into learning
 - [Chunking](../principles/chunking.md) — grouping looked-up words into semantic clusters (e.g., by the thesaurus's synonym sets) reduces the memory load of vocabulary study
 - [Four-stage procedure for developing a learner's terminological thesaurus and dictionary](four-stage-thesaurus-dictionary-development-procedure.md)
+- [Using collective or shared learning to resolve unknown concepts during CLIL lessons](clil-collective-learning-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — spaced retrieval of looked-up words is what consolidates them

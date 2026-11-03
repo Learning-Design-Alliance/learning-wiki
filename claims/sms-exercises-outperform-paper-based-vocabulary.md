@@ -54,3 +54,6 @@ Quasi-experiment with two intact sections of 40 first-year students in a Fundame
 - [Vocabulary taught via SMS is retained significantly better in the long term than vocabulary learned with a dictionary](sms-outperforms-dictionary-delayed-retention.md) — related
 - [No significant difference in prior vocabulary knowledge between the SMS and paper groups at pretest](sms-vocabulary-pretest-no-difference.md) — related
 - [Test-delivery mode (computer-based vs paper-based) shows no significant effect on student achievement test scores](no-score-difference-cbt-pbt-achievement.md) — related
+- [SMS methodology is reported to enhance retrieval of memorized English language rules](sms-enhances-retrieval-memorized-rules.md) — related
+- [The SMS experimental group outperformed the control group on the post-test](sms-group-outperformed-control-post-test.md) — related
+- [Students preferred short SMS exercises answerable immediately without reference materials](sms-short-immediate-exercises-preferred.md) — related

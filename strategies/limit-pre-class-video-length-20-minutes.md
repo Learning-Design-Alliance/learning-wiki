@@ -46,6 +46,7 @@ The article reports that pre-class videos "cannot be too long and should be rest
 - [Keep pre-class teaching videos short (10–20 minutes), goal-targeted, and followed by checking homework](short-goal-targeted-pre-class-videos.md)
 - [Keep video materials used for learning under 30 minutes to sustain learner attention](keep-learning-videos-under-30-minutes.md)
 - [Keep flipped-classroom videos concise, ideally no longer than about 10 minutes, splitting longer videos into shorter segments](keep-flipped-videos-concise-strategy.md)
+- [Use short introductory vodcasts (10-15 minutes) as a preview tool to reduce the time burden on students in compressed curricula.](short-introductory-vodcasts-preview-strategy.md)
 
 ## Examples
 -

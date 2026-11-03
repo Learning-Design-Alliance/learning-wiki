@@ -61,3 +61,4 @@ Findings from the developmental evaluation's triangulated survey, interview, foc
 - [Trainees valued grief training activities involving reflection, debriefing with peers and the direct involvement of bereaved caregivers](trainees-value-reflective-and-bereaved-caregiver-involvement.md) — related
 - [Adult family members of included children reported improved expectations, family activities, and social outcomes, with 71% reporting regular best-friend play and visitation](family-quality-of-life-inclusive-placement.md) — related
 - [Action research created opportunities for teachers to become more complete members of their communities of practice](action-research-community-membership.md) — related
+- [Parents' school involvement and perceptions of teacher responsiveness are related to children's academic and social competence in pre-kindergarten](parent-involvement-teacher-responsiveness-prek-competence.md) — related

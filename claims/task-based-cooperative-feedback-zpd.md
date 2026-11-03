@@ -50,3 +50,4 @@ Discussion-section interpretation of the task-based group procedure, where six g
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — a broader claim this one bears on
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — a broader claim this one bears on
+- [Rearranging pairs within the group zone of proximal development according to problem-solving needs enhances individual performance](gzpd-rearrangement-enhances-performance.md) — related

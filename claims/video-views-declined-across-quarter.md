@@ -58,3 +58,4 @@ YouTube analytics across two course offerings (534 students). The article report
 - [The analytics agent surfaced a Module 2 dead zone — students stopping around the 42-minute lecture mark where exercises ended — and the instructor revised the exercise set in response](itas-dead-zone-finding.md) — related
 - [Large-scale psychiatry MOOC achieved steady test-score gains despite low completion rate](psychiatry-mooc-cbt-score-gains-low-completion.md) — related
 - [Students spent only one to two hours weekly on out-of-class study, using video watching, revision, and summarization strategies](fc-out-of-class-study-time-strategies.md) — related
+- [Only 15% of students previewed all nine vodcasts before lectures, with 77% viewing at least one.](low-vodcast-preview-uptake-gem-students.md) — related

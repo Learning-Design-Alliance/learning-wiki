@@ -55,3 +55,4 @@ Authors' observational report (type e) of the 35-session program: students were 
 - [The authors report that CBPS enhanced prospective teachers' collaboration and motivation](cbps-collaboration-motivation-observation.md) — related
 - [Students in the cooperative group reported positive perceptions of cooperative learning, with 90% wanting to help, get help, and mutually discuss experiments with partners](positive-student-perceptions-cooperative-chemistry-lab.md) — related
 - [Teachers observed additional social skill gains from cooperative group work beyond pattern recognition](cooperative-group-work-develops-social-skills-preschoolers.md) — related
+- [Rearranging pairs within the group zone of proximal development according to problem-solving needs enhances individual performance](gzpd-rearrangement-enhances-performance.md) — related

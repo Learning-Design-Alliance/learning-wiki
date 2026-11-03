@@ -49,3 +49,4 @@ MANOVA and univariate tests on post-test scores (mean 8.59 of 16, SD 2.71) for 8
 - [Reading order in matrix diagrams followed the header content (types) rather than arrow orientation](header-content-guides-reading-order-over-arrows.md) — related
 - [Most participants self-reported studying the matrix diagram primarily by personality disorder types](self-reported-reading-dominated-by-types.md) — related
 - [Control participants recalled equal amounts of information for both question types](control-condition-equal-recall-question-types.md) — related
+- [Question type affects accuracy: feature-to-concept questions are answered best and applied questions worst](question-type-accuracy-ordering.md) — related

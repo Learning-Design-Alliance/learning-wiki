@@ -72,3 +72,4 @@ On a 4-point Likert scale, average ratings for enjoyment and perceived improveme
 - [Iranian EFL teachers hold positive attitudes toward using authentic listening materials and report enhanced listening comprehension relative to simplified materials](iranian-efl-teachers-positive-attitudes-authentic-listening.md) — related
 - [Iranian EFL learners at pre-intermediate proficiency level hold positive attitudes toward authentic listening materials](pre-intermediate-iranian-efl-learners-positive-attitudes-authentic-listening.md) — related
 - [Heritage and non-heritage learners perceive textbook listening activities in reversed ways: no HLL found them difficult and no NHLL found them easy](reversed-perceptions-textbook-listening-activities.md) — related
+- [Students hold positive attitudes toward culture-based activities](positive-attitudes-toward-culture-based-activities.md) — related

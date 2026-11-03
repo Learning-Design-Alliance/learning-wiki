@@ -52,3 +52,4 @@ Qualitative analysis of an open-ended questionnaire completed by all 20 experime
 - [Participants in the experimental group held positive attitudes toward contemplative and transformative L2 instruction](positive-attitudes-contemplative-instruction.md) — related
 - [A scripted-imagery and goal-setting intervention increased motivation, confidence, and positive attitudes toward English in 90% of the experimental group versus 50%, 75%, and 90% respectively in the control group](magid-2014-ideal-l2-self-intervention-motivation-gains.md) — related
 - [Teachers independently reported increased motivation, confidence, and positive attitudes in program participants](magid-2014-teacher-corroboration.md) — related
+- [Culture-based activities increase student willingness to participate](culture-activities-increase-participation.md) — related

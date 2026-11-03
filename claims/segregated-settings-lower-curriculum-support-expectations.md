@@ -89,3 +89,4 @@ A third interview theme concerned high expectations: in segregated settings teac
 - [Teachers provided targeted extra support, immediate feedback, and reinforcers to learners with DD](targeted-support-feedback-reinforcers-dd.md) — related
 - [Prompting a learning disability shifts feedback toward word- and sentence-level remediation, simplified vocabulary, and lowered expectations](learning-disability-feedback-lowered-expectations.md) — related
 - [Qualitative interviews with data collectors attributed outcome differences between placements to curriculum content and dosage, paraeducator support styles, and teacher expectations](placement-outcome-differences-qualitative-themes.md) — possibly the same claim (merge candidate)
+- [Preschool classrooms provide few exemplars of advanced linguistic content and constrained math and science instruction, limiting learning opportunities](preschool-language-math-science-content-constrained.md) — related

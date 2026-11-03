@@ -44,7 +44,8 @@ The article recommends future study be pre-empted by qualitative designs to info
 - [A four-week classroom music program (Keys to Success) produced no statistically significant self-reported PSWB benefits in a quasi-experimental study with Year 7 students](../claims/keys-to-success-no-significant-pswb-survey-benefits.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Future bilingualism research should combine mixed-method designs, multiple data collection tools and analysis methods, and larger samples](bilingualism-future-research-mixed-method-larger-samples.md)
 
 ## Examples
 -

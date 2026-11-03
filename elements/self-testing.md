@@ -18,7 +18,7 @@ sources:
 # Self-Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (11 for, 2 mixed, 1 against) · 17 studies (8 review, 5 causal, 4 quant-synthesis), `q2`–`q4` · 9 of 17 report an effect size · 10 claims rest on one study
+> **Evidence** · 15 claims (12 for, 2 mixed, 1 against) · 18 studies (8 review, 6 causal, 4 quant-synthesis), `q2`–`q4` · 9 of 18 report an effect size · 11 claims rest on one study
 
 ## Description
 Self-testing is the element in which learners quiz themselves or otherwise attempt to retrieve knowledge without immediate external prompting. It is useful when the goal is to strengthen retention and help learners gauge what they actually know.
@@ -54,6 +54,7 @@ Self-testing is the element in which learners quiz themselves or otherwise attem
 - [Higher-level quiz questions engage learners in generative activities as well as retrieval](../claims/higher-level-quiz-questions-engage-generative-activities.md) [~W]
 - [Closed-book generative tasks can outperform open-book ones when learners can later reinspect the material](../claims/closed-book-advantage-with-reinspection.md) [+W]
 - [Learning-outcome effects of open- versus closed-book generative tasks are mixed](../claims/open-closed-book-outcome-effects-mixed.md) [~W]
+- [Students preferred short SMS exercises answerable immediately without reference materials](../claims/sms-short-immediate-exercises-preferred.md) [+W]
 
 ## The evidence by question
 

@@ -65,6 +65,7 @@ Jigsaw operationalizes cooperative learning by combining individual accountabili
 - [Rotate heterogeneous cooperative learning clusters across distinct cooperative techniques and topics throughout a unit](rotate-heterogeneous-clusters-cooperative-techniques.md)
 - [Implement CIRC through heterogeneous four-member groups reading, discussing, presenting and summarizing a shared text](circ-group-reading-discussion-presentation-strategy.md)
 - [Use inter-group Jigsaw participation so each group member teaches his topic to other groups and returns to teach his initial group.](jigsaw-inter-group-participation-strategy.md)
+- [Team Assisted Individualised (TAI) instruction combining cooperative learning with individualised programmed instruction](tai-cooperative-individualised-strategy.md)
 
 ## Examples
 - **Aronson's original design (1971, Austin, TX)**: fifth-grade history lessons split into segments; documented reductions in prejudice and increases in minority students' achievement ([jigsaw.org](https://www.jigsaw.org)).

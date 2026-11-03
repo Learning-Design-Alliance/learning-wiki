@@ -67,3 +67,4 @@ Age norms were found by averaging total point scores of pupils within overlappin
 ## Related Claims
 - [Ability distributions in grade-school children are non-normal, with ability clustering in the extreme ranks rather than the median](non-normal-end-heavy-ability-distributions.md) — reports the opposite
 - [Galton's ogive percentile graph serves as a convenient scale that lets an individual's test score be instantly translated into a rank within the normed group](ogive-percentile-graph-convenient-scale-rank.md) — related
+- [4Rs implementation quality in pilot classrooms was normally distributed with variability across classrooms (M=3.29, SD=.56)](pilot-4rs-implementation-variability.md) — related

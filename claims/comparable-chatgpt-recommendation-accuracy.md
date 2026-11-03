@@ -51,3 +51,4 @@ Exposure check on coded final ChatGPT recommendations across AI-assisted task-le
 - [Open ChatGPT support produces stronger self-serving attribution bias than ChatGPT support with reflection](chatgpt-support-attribution-bias.md) — related
 - [Open ChatGPT support increases college students' final decision confidence relative to independent decision-making, and reflection attenuates the boost](chatgpt-support-increases-final-confidence.md) — related
 - [Better awareness calibration co-occurs with lower incorrect-advice acceptance and lower attribution bias, interpreted associationally only](calibration-negatively-associated-overreliance.md) — related
+- [Total learning time does not differ by condition, ruling out time-on-task as an explanation for the differential-associative processing advantage](total-time-equivalent-across-conditions.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-03
 sources:
   - id: hosna-hosseini-zargham-ghabanchi-2014
     resource: "https://doi.org/10.5539/elt.v7n5p110"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After one semester, the portfolio-instructed experimental group outperformed the control group on the Michigan reading comprehension posttest (t=5.225, p=0.000). [→ Hosna Hosseini & Zargham Ghabanchi 2014](#hosna-hosseini-zargham-ghabanchi-2014)
@@ -55,3 +56,6 @@ Quasi-experimental pretest-treatment-posttest study of 65 female translation stu
 - [Traditional reading instruction without attention to learning styles yields non-significant gains in reading comprehension and self-efficacy](traditional-efl-instruction-non-significant-gains.md) — related
 - [The article reports a statistically significant final-exam difference in reading between the experimental and control groups](blog-group-final-exam-difference.md) — related
 - [No significant difference between groups on final reading comprehension test](sct-tblt-final-test-no-difference.md) — related
+- [Supplementary textbook use (Gaj) improves reading comprehension of Iranian female high school EFL learners compared with the national textbook alone](gaj-supplementary-textbook-improves-reading-comprehension.md) — related
+- [Supplementary textbook use (Khate Sefid) improves reading comprehension of Iranian female high school EFL learners compared with the national textbook alone](khate-sefid-supplementary-textbook-improves-reading-comprehension.md) — related
+- [PBL instruction significantly improved EFL learners' English reading comprehension compared with traditional reading instruction](pbl-significantly-improves-efl-reading-comprehension-taiwan-university.md) — related

@@ -13,7 +13,7 @@ generated:
 # Home Learning Environment
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 88 claims (66 show a difference, 14 mixed, 8 no difference) · 70 studies (24 associational, 13 causal, 11 quant-synthesis, 10 review, 6 design, 5 qualitative, 1 theoretical), `q1`–`q4` · 14 of 70 report an effect size · 84 claims rest on one study
+> **Evidence** · 90 claims (68 show a difference, 14 mixed, 8 no difference) · 71 studies (25 associational, 13 causal, 11 quant-synthesis, 10 review, 6 design, 5 qualitative, 1 theoretical), `q1`–`q4` · 15 of 71 report an effect size · 86 claims rest on one study
 
 ## Description
 The home learning environment is what families, caregivers and communities provide outside formal instruction that helps a learner develop: books and other materials, shared reading and writing, talk, mathematics games and everyday number activity, and the values, expectations and attitudes the people around a learner hold about learning. The LVN describes it under several names by content area: the home literacy environment for early reading, the literacy environment of home, school, work and community for older students and adults, and the mathematics learning environment, where parents' and teachers' attitudes and anxiety about mathematics shape learners' own mindsets. Children who read, write and do mathematics with caregivers before school often progress more easily, and the quality of the home environment is associated with achievement and with socio-emotional well-being into adolescence. It is also where learners learn about their [identity](identity.md), culture and community, and the LVN encourages educators to learn about it and build on the knowledge learners bring from home. It is measured with parent checklists and surveys, home observation instruments, student self-reports of reading materials and practices, and print-exposure tests. Differences in the home environment that track [socioeconomic status](socioeconomic-status.md) reflect resources and circumstances, and the LVN recommends classroom supports and resources for families so that every learner has a comparable foundation. It overlaps with [social supports](social-supports.md).
@@ -125,6 +125,8 @@ The home learning environment is what families, caregivers and communities provi
 - [Dialogic reading training increases ELL parents' access-giving and question-posing behaviors during shared reading more than traditional read-aloud](../claims/dialogic-reading-training-increases-ell-parent-interactive-behaviors.md) [+M] — instruction changes it
 - [Parents in the dialogic reading group show significantly stronger overall skills in promoting interactive reading and using literacy strategies](../claims/dialogic-reading-parents-stronger-interactive-reading-literacy-strategies.md) [+M] — instruction changes it
 - [Parental environmental interest has a positive but weak relationship with students’ environmental literacy](../claims/parental-interest-weakly-related-to-environmental-literacy.md) [+W] — learners who differ on it differ in outcomes
+- [Home literacy environment and out-of-school reading practice are positively correlated with reading growth in developed-world research](../claims/hle-correlated-reading-growth-background.md) [+M] — learners who differ on it differ in outcomes
+- [Home literacy environment is modestly and mostly positively associated with baseline reading scores across 12 low-resource sites, though not at every site](../claims/hle-positively-associated-baseline-reading-scores.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Reading Pattern Survey** ([Rodrigo et al., 2014](http://nflrc.hawaii.edu/rfl)): self-report of reading attitude, habits and print exposure, including books read and library visits.
@@ -153,6 +155,7 @@ The home learning environment is what families, caregivers and communities provi
 ## Examples
 
 - [Start early: foster a positive math climate at home and school to prevent the distal avoidance pathway](../strategies/early-positive-math-climate-prevention.md)
+- [Engage students, families, and communities in literacy activities outside of school](../strategies/engage-families-communities-out-of-school-literacy-activities.md)
 
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Home Learning Environment (Building Math PK-2, Portrait of a Learner 4-8, Portrait of a Learner PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/math-pk-2/factors/home-learning-environment-math-pk-2/summary). Licensed CC BY-NC 4.0.

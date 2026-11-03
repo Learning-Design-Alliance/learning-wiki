@@ -222,3 +222,4 @@ Open questions include the durability of achievement effects after programs end,
 - [Only three reviewed SEL studies measured classroom-level outcomes, and effects on CLASS-measured classroom environments ranged from moderate to large](sel-classroom-level-class-effects.md) — related
 - [Universal school-based SEL programs produce statistically significant positive effects on social-emotional and related outcomes, per two comprehensive meta-analyses](sel-meta-analyses-significant-positive-effects.md) — a broader claim this one bears on
 - [Apparent variation in SEL program impacts may be an artifact of imprecise program targets misaligned with too-general outcome measures](sel-target-measure-misalignment-thesis.md) — related
+- [Prior randomized evaluation of the 4Rs program found moderate to large positive impacts on teacher practices and small positive impacts on student outcomes](prior-4rs-rct-impacts.md) — a narrower finding that bears on this claim

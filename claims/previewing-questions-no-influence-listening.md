@@ -52,3 +52,4 @@ Findings for the previewing questions condition (n = 25) of the four-group class
 - [Repetition of input yielded higher scores than previewing questions, but the two supports did not differ significantly in this study](repetition-versus-previewing-listening.md) — related
 - [Topic preparation produced the highest listening comprehension scores among the four treatment groups](topic-preparation-highest-listening-scores.md) — related
 - [Group differences reached statistical significance on each of the three listening texts individually](listening-supports-per-text-anovas.md) — related
+- [Vocabulary pre-teaching was less effective than other forms of listening support in prior studies](vocabulary-preteaching-less-effective-than-other-support.md) — related

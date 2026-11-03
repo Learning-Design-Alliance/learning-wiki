@@ -55,3 +55,5 @@ Cross-site RCT randomizing 126 classrooms (one target child each) to PFS or usua
 - [By parent report, 62% of intervention children versus 21% of controls responded or improved on ADHD symptom criteria](pfs-responder-analysis-parent-report-clinical-response.md) — related
 - [PFS reduces teacher-reported problem behavior (SSiS) in preschoolers](pfs-reduces-teacher-reported-problem-behavior.md) — related
 - [Behavioral functioning improves significantly across all intervention groups in similar magnitude](behavioral-improvement-equivalent-across-groups.md) — related
+- [Tertiary First Step improves teacher- and parent-rated adaptive and social skills relative to a comparison group](tertiary-first-step-improves-prosocial-outcomes.md) — related
+- [Tertiary First Step reduces teacher- and parent-rated problem behavior relative to a comparison group](tertiary-first-step-reduces-problem-behavior.md) — related

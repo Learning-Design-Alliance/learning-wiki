@@ -80,3 +80,4 @@ Narrative summary of the Luo et al. meta-analysis of 33 preschool studies (ages 
 - [SEL programs implemented well show positive impacts on targeted skills and academic outcomes, including meta-analytic support](sel-programs-academic-outcomes.md) — related
 - [Longer total intervention time is associated with greater learning gains, especially for low achievers](longer-time-on-task-greater-gains.md) — related
 - [SEL program effects vary by student risk level, sometimes larger for those least at risk and sometimes larger for those most at risk](sel-effects-vary-by-risk-level.md) — related
+- [Implementation fidelity in SEL programs is closely linked to positive program outcomes for teachers and students](sel-fidelity-linked-outcomes.md) — possibly the same claim (merge candidate)

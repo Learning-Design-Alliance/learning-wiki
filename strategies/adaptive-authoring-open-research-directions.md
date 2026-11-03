@@ -50,6 +50,7 @@ The editorial's forward-looking recommendations for future authoring research. I
 - [Author ITSs without programming by enabling non-programmers to create, curate, and sequence instruction through authoring tools](non-programmer-its-authoring-strategy.md)
 - [Account for personal factors such as preferences and learning styles when developing adaptive educational computer games](personal-factors-adaptive-game-design.md)
 - [Adopt a tiered or modular design for future competency measurement tools](tiered-modular-design-hl-competency-tools.md)
+- [Select modular tutoring system lessons and games most relevant to the target writing task](select-modular-tutor-modules-for-target-task.md)
 
 ## Examples
 -

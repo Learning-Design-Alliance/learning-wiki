@@ -70,3 +70,4 @@ collaboration."
 - [Included ethics-of-teaching instruments show acceptable-to-excellent internal consistency (Cronbach's α=0.74–0.97) and supported structural validity](ethics-teaching-instruments-internal-consistency-structural-validity.md) — related
 - [The Statistical Reasoning Assessment instrument showed acceptable internal consistency (Cronbach alpha .82) in a 30-subject pilot study](sra-instrument-cronbach-alpha-82-pilot.md) — related
 - [The Vocabulary Knowledge Scale used in the pilot showed very high internal consistency (α = .96)](vks-reliability-alpha-96-pilot.md) — a narrower finding that bears on this claim
+- [Test reliability was acceptable across the four listening texts](listening-test-reliability-acceptable.md) — related

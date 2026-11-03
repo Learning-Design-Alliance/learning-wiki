@@ -51,3 +51,4 @@ Conceptual analysis within Dialogical Self Theory: because the synthetic positio
 - [Outcome turns on the structural location the synthetic position occupies, not the volume of use; population-level studies indexing use alone should record a washed-out average effect](structural-location-moderates-not-volume.md) — related
 - People may absorb bias from AI and carry it beyond their interactions with the algorithm — related
 - [Authorial suspension is marked by a fluency-ownership gap, deferral of commitment despite exhausted deliberation, and an overview unavailable on withdrawal](authorial-suspension-three-markers.md)
+- [Paired and grouped collaborative activities in blended learning promoted authorial production and reflective meta-analysis in the studied dyad](blended-collaborative-activities-promote-authorial-production.md) — related

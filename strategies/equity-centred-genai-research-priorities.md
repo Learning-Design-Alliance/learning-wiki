@@ -48,6 +48,7 @@ The review's forward-looking recommendation for future research on GenAI in Glob
 - [Prioritize research on GenAI's impact on students with disabilities and design personalized teaching strategies for their needs](genai-research-students-with-disabilities.md)
 - [Prioritize construct-to-data mappings, multimodal validation, ethical implementation, and cross-disciplinary collaboration for domain-specific adaptive systems](domain-specific-adaptivity-research-priorities.md)
 - [Conduct longitudinal, culturally grounded, structurally informed research and develop Ubuntu-informed instruments in African and Global South higher education](culturally-grounded-structural-research-agenda.md)
+- [Future research agenda: detailed implementation data, qualitative study, and cross-setting comparison](future-research-life-wide-learning-agenda.md)
 
 ## Examples
 -

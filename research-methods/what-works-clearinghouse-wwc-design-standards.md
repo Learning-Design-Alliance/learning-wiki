@@ -26,6 +26,7 @@ The What Works Clearinghouse (WWC), established in 2002 by the U.S. Department o
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **What Works Clearinghouse design standards as a framework defining causal evidence requirements in education research**: The What Works Clearinghouse (WWC), established in 2002 by the U.S. Department of Education's Institute of Education Sciences, is a long-running systematic review effort. "Through its design standards, the WWC has defined its requirements for a study to be considered causal evidence," setting expectations for study quality and execution in research on program efficacy while providing decision makers with evidence to inform choices. The framework operates by screening and reviewing studies against its standards, disposing of studies that meet standards, fail them, or are excluded for ineligible design. (Neil Seftor (2017))
+- **Transition researchers should randomly assign participants and include preprogram outcome measures to meet WWC evidence standards**: The review's first recommendation for researchers is to strengthen transition study designs so they can meet WWC standards. It "strongly encourage[s] researchers to randomly assign eligible participants into a program and comparison group and to include preprogram measures of all outcomes in the analysis." This addresses the common failure of QEDs to demonstrate baseline equivalence between program and comparison groups. (Cobb et al. (2013))
 
 ### Claims
 - [The levels and rates of studies meeting WWC evidence standards have increased over the life of the What Works Clearinghouse](../claims/wwc-studies-meeting-standards-increasing-over-time.md) [+M]
@@ -35,8 +36,8 @@ The What Works Clearinghouse (WWC), established in 2002 by the U.S. Department o
 
 ## Key Sources
 - Neil Seftor. (2017). Raising the Bar. Evaluation Review, vol. 41, no. 3. https://www.mathematica.org/publications/raising-the-bar
-
 <!-- merged 2026-10-10 from theories/wwc-design-standards-causal-evidence-framework ("What Works Clearinghouse design standards as a framework defining causal evidence requirements in education research"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Cobb, R. B., Lipscomb, S., Wolgemuth, J., Schulte, T., Veliquette, A., Alwell, M., Batchelder, K., Bernard, R., Hernandez, P., Holmquist-Johnson, H., Orsi, R., Sample McMeeking, L., Wang, J., and Weinberg, A. (2013). Improving Post-High School Outcomes for Transition-Age Students with Disabilities: An Evidence Review (NCEE 2013-4011). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. http://ies.ed.gov/pubsearch/pubsinfo.asp?pubid=NCEE20134011
 
 # What Works Clearinghouse design standards as a framework defining causal evidence requirements in education research
 

@@ -61,3 +61,4 @@ Hierarchical regression (Model B) predicting reading readiness at school entry i
 - [Children's storybook knowledge (book-cover recognition) mediates the relationship between home literacy environment and literacy outcomes](storybook-knowledge-mediates-hle-literacy-link.md) — related
 - [Improvements in caregiver book-sharing behaviour mediate the intervention's impact on child language (one mediation analysis)](caregiver-book-sharing-competence-mediation.md) — related
 - [Poverty, stress, and related environmental risk factors are correlated with deficits in children's EF](poverty-stress-correlated-ef-deficits.md) — related
+- [Home literacy environment and out-of-school reading practice are positively correlated with reading growth in developed-world research](hle-correlated-reading-growth-background.md) — a broader claim this one bears on

@@ -57,3 +57,5 @@ Self-regulation-structures component of the R-I-Z-A evaluation in the one-group 
 - [Metacognitive strategies such as self-monitoring and reflective questioning have been shown to mitigate epistemic uncertainty](metacognitive-strategies-mitigate-epistemic-uncertainty.md) — related
 - [AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring](ai-feedback-support-or-dependence-self-regulation.md) — related
 - [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](metacognitive-training-increases-writing-self-monitoring.md) — related
+- [Pair's self-evaluation performed every four sessions may make students more aware of their reading level and progress, enabling strategies for improvement crucial for modification of the self-concept](pair-self-evaluation-metacognitive-awareness.md) — related
+- [QMP reporting functionalities enabled the professor to monitor and timely detect students with performance problems](qmp-reporting-monitoring-performance-problems.md) — related

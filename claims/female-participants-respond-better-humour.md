@@ -51,3 +51,4 @@ Observation from the results and conclusion sections of the pilot study, linked 
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — related
 - [Male and female subjects responded differently, confounding interpretation](sex-differences-confound-attitude-change.md) — related
 - [Within the experimental groups, the humour-based memory strategy operated more efficiently with older participants than with younger ones](humour-retention-older-participants.md) — related
+- [Male students held stronger attitudes toward mathematics than female students](gender-main-effect-mathematics-attitudes.md) — related

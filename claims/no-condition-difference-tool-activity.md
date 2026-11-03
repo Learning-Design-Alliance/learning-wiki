@@ -50,3 +50,4 @@ Multilevel analyses of students' logged online activity in the 124-student study
 - [The GD advantage in total grounds and total conceptual essay quality depended on topic length: it held for short to average topics and disappeared for longer topics.](condition-length-interaction-essay-quality.md) — related
 - [Interaction volume during AI-supported practice sessions did not differ significantly across conditions, supporting comparability of practice exposure](practice-exposure-comparable-across-conditions.md) — related
 - [Learning conditions did not differ in total questions attempted, ruling out differential effort quantity as the source of create-question differences](no-condition-difference-total-questions-generated.md) — related
+- [Total learning time does not differ by condition, ruling out time-on-task as an explanation for the differential-associative processing advantage](total-time-equivalent-across-conditions.md) — related

@@ -122,3 +122,5 @@ This meta-analysis isolates the "added value" of dialogic (interactive) shared r
 - [Children receiving the home plus preschool LINK intervention outperformed preschool-only children on Spanish vocabulary gains (d = 0.91 RNA; d = 0.79 RVK)](home-plus-preschool-beats-preschool-only-spanish.md) — related
 - [A comprehensive summer parent-involved book reading program improved reading comprehension in Grade 3 and 5 children](summer-parent-book-reading-improves-reading-comprehension.md) — a narrower finding that bears on this claim
 - [A comprehensive summer parent-involved book reading program improved receptive vocabulary but not expressive vocabulary](summer-parent-book-reading-improves-receptive-vocabulary.md) — a narrower finding that bears on this claim
+- [Head Start teachers' education and book-reading practices are associated with children's vocabulary growth over the school year](head-start-teacher-education-book-reading-vocabulary-growth.md) — related
+- [Home literacy environment and out-of-school reading practice are positively correlated with reading growth in developed-world research](hle-correlated-reading-growth-background.md) — related

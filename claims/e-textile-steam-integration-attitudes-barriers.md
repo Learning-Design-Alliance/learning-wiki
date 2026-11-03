@@ -71,3 +71,4 @@ Same attitude questionnaire (N = 36). Participants showed low reform skepticism 
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Constructing and materiality posed the main computational making challenges: frayed conductive thread caused short circuits, and two pairs' projects failed without substantial assistance](materiality-and-construction-challenges.md) — related
 - [Waste-material instructional resources enabled teachers to teach weaving lessons they had previously omitted for lack of skills and materials](waste-resources-enable-previously-omitted-weaving-lessons.md) — related
+- [Faculty overwhelmingly value active learning but report structural barriers to implementing it.](active-learning-valued-but-barriers-exist.md) — related

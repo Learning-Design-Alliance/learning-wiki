@@ -48,3 +48,4 @@ Classroom observations from the follow-on study. The article contrasts Teacher D
 - [Teachers used the VCL in ways that re-enforced their current practice, whether student-centred or teacher-centred](vcl-use-reinforced-current-practice.md) — a broader claim this one bears on
 - [Teachers valued the VCL for removing the physicality of practical work and raising the cognitive level of problem-solving](vcl-removes-physicality-raises-cognition.md) — related
 - [Some teachers declined to use the VCL citing organisational difficulties and curriculum fit](teachers-declined-vcl-organisational-curriculum.md) — related
+- [Meta events of familiarising with the environment, getting organised and sorting out problems provide participants with constant opportunities for learning in virtual worlds](tila-meta-events-opportunities-for-learning.md) — related

@@ -55,3 +55,4 @@ Independent t-test on pre-to-post gains of male and female students in the exper
 - [Experimental-group females significantly outperformed both control-group subgroups in post-hoc comparisons](experimental-females-outperformed-control-subgroups.md) — related
 - [Male and female experimental groups did not differ significantly in reading comprehension at post-test after Telegram instruction](no-gender-difference-telegram-reading-posttest.md) — related
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — reports the opposite
+- [Gender does not moderate the effect of intertextuality-aware instruction on EFL reading comprehension](gender-no-moderator-intertextuality-instruction.md) — related

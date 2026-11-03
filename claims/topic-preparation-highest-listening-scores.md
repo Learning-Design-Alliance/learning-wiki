@@ -53,3 +53,4 @@ Descriptive results of a four-group classroom experiment (N = 104 Iranian high s
 - [Repetition of input yielded higher scores than previewing questions, but the two supports did not differ significantly in this study](repetition-versus-previewing-listening.md) — related
 - [The four groups were homogeneous in general English proficiency before treatment (placement-test ANOVA sig .881)](groups-homogeneous-placement-test.md) — related
 - [Group differences reached statistical significance on each of the three listening texts individually](listening-supports-per-text-anovas.md) — related
+- [Vocabulary pre-teaching was less effective than other forms of listening support in prior studies](vocabulary-preteaching-less-effective-than-other-support.md) — related

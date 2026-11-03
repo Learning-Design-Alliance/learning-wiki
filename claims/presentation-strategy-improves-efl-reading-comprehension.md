@@ -54,3 +54,4 @@ Quasi-experiment with 61 intermediate EFL learners at Chabahar Maritime Universi
 - [Fourth-grade students taught with the SQ4R technique scored significantly higher on reading comprehension post-tests than control-group students](sq4r-improves-reading-comprehension-posttest.md) — related
 - [Task-based reading instruction produces significantly higher reading post-test scores than traditional reading instruction for intermediate Iranian EFL learners](tblt-reading-outperforms-traditional-instruction-iranian-efl.md) — related
 - [Nine of ten scored treatment-group participants performed at high-intermediate or advanced ESL reading comprehension levels on the TABE-CLAS-E posttest](treatment-tabe-reading-proficiency-levels.md) — related
+- [Intertextuality-aware instruction improves reading comprehension of intermediate EFL learners versus control instruction](intertextuality-aware-instruction-improves-efl-reading-comprehension.md) — related

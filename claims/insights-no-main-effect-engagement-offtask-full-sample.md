@@ -49,3 +49,4 @@ Growth curve analysis (Model 1, Table 3) in the same school-randomized trial of 
 - [INSIGHTS produced significant growth effects for high-maintenance children in reducing behavior problems and off-task behaviors over time](insights-growth-effects-high-maintenance-behavior-offtask.md) — related
 - [Improvements in student-teacher relationship quality partially mediated INSIGHTS effects on behavior problems and off-task behaviors, but not on engagement, for high-maintenance children](strq-partially-mediates-insights-effects-high-maintenance.md) — related
 - [INSIGHTS slowed growth in behavior problems for the full sample of low-income kindergarten and first-grade students](insights-slower-growth-behavior-problems-full-sample.md) — related
+- [INSIGHTS had no effect on grade retention through fifth grade, and the null did not vary by income](insights-no-effect-grade-retention.md) — related

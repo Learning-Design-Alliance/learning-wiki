@@ -52,3 +52,4 @@ Controlled experiment: 70 learners randomly assigned to experimental (task-based
 - [Iranian intermediate EFL learners taught through dynamic assessment outperformed a non-dynamically taught control group on a reading comprehension post-test](da-outperformed-nda-reading-comprehension-posttest.md) — related
 - [Project-based activities significantly improve intermediate EFL students' reading comprehension compared with communicative language teaching instruction](pbl-improves-efl-reading-comprehension.md) — related
 - [Task-based language assessment quizzes produced significantly higher posttest vocabulary scores than traditional assessment quizzes in a quasi-experimental Iranian EFL study](tbla-washback-higher-vocabulary-posttest.md) — related
+- [PBL instruction significantly improved EFL learners' English reading comprehension compared with traditional reading instruction](pbl-significantly-improves-efl-reading-comprehension-taiwan-university.md) — related

@@ -49,6 +49,7 @@ The article recommends that "more large-scale and well-designed RCT studies shou
 - [Prioritize larger randomized trials in pedagogical research and more representative evaluations across Africa](larger-rcts-pedagogical-research-recommendation.md)
 - [Future MBI trials for youth should use scaled-up definitive designs with active intervention controls and embedded mechanism measures](definitive-mbi-trials-active-controls-mechanisms.md)
 - [RCT researchers should collect qualitative data on context alongside implementation and impact](rct-researchers-collect-context-data.md)
+- [Future bilingualism research should combine mixed-method designs, multiple data collection tools and analysis methods, and larger samples](bilingualism-future-research-mixed-method-larger-samples.md)
 
 ## Examples
 -

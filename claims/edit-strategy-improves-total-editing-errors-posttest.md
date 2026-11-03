@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-03
 sources:
   - id: woods-groves-et-al-2017
     resource: "https://eric.ed.gov/?id=EJ1160277"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` College students with IDD who received EDIT Strategy instruction corrected a significantly higher total number of editing errors at posttest than controls (d = .84). [→ Woods-Groves et al. 2017](#woods-groves-et-al-2017)

@@ -59,3 +59,4 @@ Narrative review citing multiple meta-analytic studies of school-based SEL: the 
 - [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — related
 - [Universal school-based SEL programs produce statistically significant positive effects on social-emotional and related outcomes, per two comprehensive meta-analyses](sel-meta-analyses-significant-positive-effects.md) — a broader claim this one bears on
 - [Universal school intervention programs typically show small average effect sizes, with median effects between d = 0.07 and d = 0.16 per a cited review of 74 meta-analyses](universal-interventions-median-effect-sizes-small.md) — related
+- [Implementation fidelity in SEL programs is closely linked to positive program outcomes for teachers and students](sel-fidelity-linked-outcomes.md) — related

@@ -49,3 +49,4 @@ Independent-samples t-test comparing post-test Geography Achievement Test scores
 - [The TGT group scored higher than the lecture-based control group on the mathematics posttest, a difference the authors call significant though they print only within-group pretest-posttest tests](tgt-outperformed-lecture-posttest.md) — related
 - [Ninth graders taught pre-vocational education with practical presentations had higher raw post-test means than peers taught by lecturing, but the pre-test-adjusted difference was reported at p = 0.053](practical-presentations-higher-achievement-than-lecturing.md) — related
 - [Post-test means favoured the prior knowledge questions group over the control group](prior-knowledge-questions-posttest-means.md) — related
+- [Experimental groups outperformed control groups on post-experiment test by 6.45%](culture-activities-posttest-gain-6-45-percent.md) — related

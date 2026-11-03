@@ -46,6 +46,7 @@ The study group was taught "strategies on how to make use of contextual clues to
 - [Vocabulary In Context](vocabulary-in-context.md)
 - [Making Inferences](making_inferences.md)
 - [Implicit Vocabulary Instruction](implicit_vocabulary_instruction.md)
+- [Teach vocabulary through context clues in supplementary reading passages](vocabulary-through-context-clues-supplementary-texts.md)
 
 ## Examples
 -

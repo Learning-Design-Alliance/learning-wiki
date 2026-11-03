@@ -49,3 +49,4 @@ Discussion of the qualitative findings, describing a constant bidirectional tran
 - [Transitioning between face-to-face and virtual-world teaching is a non-linear, alternating process that reshapes lecturers' identity and agency.](vw-transition-nonlinear-reshapes-identity-agency.md) — a broader claim this one bears on
 - [Virtual-world teaching shifts perceived classroom power, with students becoming more independent than in face-to-face contexts.](vw-teaching-shifts-power-toward-student-autonomy.md) — related
 - [Virtual-world-based teaching helped lecturers deliver courses more interactively than pure online video-based modes during the pandemic.](vw-more-interactive-than-video-only-mode.md) — related
+- [Meta events of familiarising with the environment, getting organised and sorting out problems provide participants with constant opportunities for learning in virtual worlds](tila-meta-events-opportunities-for-learning.md) — related

@@ -80,3 +80,4 @@ Quasi-experimental post-test control group study with 25 experimental and 25 con
 - [Students trained in visualisation strategies show greater weekly improvement in words memorised than control students.](visualisation-strategies-improve-weekly-word-retention.md) — related
 - [Explicit metacognitive strategy instruction increases ESL learners' use of monitoring and assessment strategies but not planning strategies](metacognitive-instruction-increases-monitoring-assessment-not-planning.md) — related
 - [Explicit metacognitive strategy instruction improves ESL reading comprehension performance](metacognitive-strategy-instruction-improves-esl-reading-comprehension.md) — related
+- [PBL instruction significantly improved EFL learners' English reading comprehension compared with traditional reading instruction](pbl-significantly-improves-efl-reading-comprehension-taiwan-university.md) — related

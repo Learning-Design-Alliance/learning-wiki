@@ -51,3 +51,4 @@ Qualitative analysis of interns' anecdotal observations and field notes across t
 - [During classroom observation, think-talk-write students appeared more enthusiastic and confident in mathematics than expository-taught students](ttw-classroom-observation-enthusiasm-confidence.md) — related
 - [Students' journal entries and observed behaviour suggested increased writing self-confidence and interest](journal-excerpts-confidence-interest.md) — related
 - [Teacher observations and student opinions indicated relatively positive attitudes toward using animations in vocabulary learning](positive-attitudes-toward-animation-vocabulary-learning.md) — related
+- [Interest in cultural comparison increases vocabulary learning](cultural-comparison-increases-vocabulary-learning.md) — related

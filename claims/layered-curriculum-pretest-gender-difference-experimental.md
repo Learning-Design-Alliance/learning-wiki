@@ -48,3 +48,4 @@ Chi-square analysis of Kolb Learning Styles Inventory pre-test data from 22 expe
 - [Post-test learning styles of the experimental group showed no significant difference by gender](layered-curriculum-posttest-no-gender-difference-experimental.md) — related
 - [Female EFL learners attain significantly higher reading comprehension scores than male learners under question-generation strategy](female-efl-learners-outperform-males-reading-comprehension.md) — related
 - [The authors report that experimental-group students' learning styles did not change from pre-test to post-test](learning-styles-unchanged-pre-post-experimental.md) — related
+- [Assimilating and Diverging learners significantly outperform Converging and Accommodating learners on course achievement when learning via mobile Facebook](assimilating-diverging-outperform-converging-accommodating-mobile-facebook-achievement.md) — related

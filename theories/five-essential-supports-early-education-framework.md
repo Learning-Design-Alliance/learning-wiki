@@ -17,7 +17,7 @@ sources:
 # The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 30 claims (28 for, 1 mixed, 1 against) · 23 studies (9 associational, 5 qualitative, 3 review, 2 causal, 2 design, 1 quant-synthesis, 1 theoretical), `q2`–`q3` · 1 of 23 report an effect size · 28 claims rest on one study
+> **Evidence** · 31 claims (29 for, 1 mixed, 1 against) · 24 studies (9 associational, 5 qualitative, 3 causal, 3 review, 2 design, 1 quant-synthesis, 1 theoretical), `q2`–`q3` · 2 of 24 report an effect size · 29 claims rest on one study
 
 ## Description
 The five essential supports framework specifies five school- or center-level organizational subsystems—effective leaders, collaborative teachers, involved families, supportive environment, and ambitious instruction—that operate in strong cooperation to enable or inhibit improvement in classroom practices. The article states that "when one of the essential supports is strengthened, it buttresses the development of the other supports," and that school leadership is theorized to be the catalyst that strengthens the other four. The authors adapt this framework, originally developed for elementary schools by Bryk et al. (2010), to early education settings with revised definitions such as "Effective Instructional Leaders."
@@ -67,6 +67,7 @@ The five essential supports framework specifies five school- or center-level org
 - [Supportive leadership increased the likelihood of transitioning to the Ambitious profile](../claims/supportive-leadership-increases-ambitious-transition-likelihood.md) [+W]
 - [The feedback intervention improved principal leadership, raising teacher-principal trust in Year 1 and both instructional leadership and trust in Year 2](../claims/feedback-improved-principal-leadership-trust.md) [+W]
 - [Strong leadership, data-informed instruction, positive school culture, and increased expectations were associated with improvement in schools undergoing state intervention](../claims/leadership-data-culture-expectations-associated-improvement.md) [+W]
+- [A parent-focused transition program increases parent involvement at school during the first term](../claims/parent-transition-program-increases-school-involvement.md) [+W]
 
 ## The evidence by question
 

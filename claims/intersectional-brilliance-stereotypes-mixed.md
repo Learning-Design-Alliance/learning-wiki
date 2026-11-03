@@ -53,3 +53,4 @@ The review reports, citing Storage et al. (2020), evidence in line with the doub
 - [Perceived biased treatment linked to brilliance-oriented FABs explains a substantial portion of the gender gap in entry into brilliance-oriented fields](biased-treatment-explains-gender-gap-entry.md) — related
 - [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
 - [Shallow multiculturalism undermines Latinx students' belonging by reinforcing intersectional invisibility](shallow-multiculturalism-undermines-latinx-belonging.md) — related
+- [Candidates unintentionally overlooked average and invisible middle students](invisible-middle-students-overlooked.md) — related

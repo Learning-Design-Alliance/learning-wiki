@@ -67,3 +67,4 @@ Program description of the fast-track manufacturing pilot at Savannah Technical 
 - [The five career pathways recommendations are supported by 21 studies with participant samples ranging from 124 to 42,984 students](career-pathways-evidence-base-21-studies.md) — related
 - [Community colleges' dual mission of degrees and workforce development is a competitive advantage for piloting new credentials](dual-mission-advantage-new-credentials.md) — a broader claim this one bears on
 - [Community colleges are well positioned to lead the emerging credentialing market for three stated reasons](community-colleges-positioned-lead-credentialing-market.md) — a broader claim this one bears on
+- [Participation in career and technical education or working while in high school may relate to better employment outcomes for students with disabilities](cte-and-inschool-employment-employment-hypothesis.md) — related

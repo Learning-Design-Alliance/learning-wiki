@@ -68,3 +68,4 @@ Interview data on feedback during lesson planning: all experimental-group partic
 - [Teacher trainees who experienced the Clinical Supervision Model rated their university supervisors significantly higher than trainees under the traditional system](csm-higher-tt-supervisor-satisfaction.md) — related
 - [Classroom observations confirmed that SRI teachers modeled and evaluated strategies more frequently than control teachers](sri-implementation-observations-modeling-evaluation.md) — related
 - [Time spent on specific mentoring activities varied widely, with some teachers never observed by mentors and others observed an hour or more a month](mentoring-activity-time-varied-widely.md) — related
+- [Treatment teachers received more class observations and feedback from mentors than control teachers](cti-more-mentor-observations-feedback.md) — related

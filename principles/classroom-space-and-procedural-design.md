@@ -152,10 +152,12 @@ Less disruption, more minutes on task, learners' sense of predictability and ach
 - [Culturally Responsive Classroom Norms](culturally-responsive-classroom-norms.md) — the interaction and correction norms the rules and procedures should be checked against
 
 ## Examples
+
 - [Classroom Seating Arrangements](../strategies/classroom_seating_arrangements.md) — the specific seating configurations (traditional, roundtable, horseshoe, pods) this principle's space-arrangement guidance applies to
 - [Establish Consistent Routines](../strategies/establish_consistent_routines.md) — a concrete procedure-teaching strategy
 - [Flexible Seating](../strategies/flexible-seating.md) — movable furniture and seating choice, which needs a matching change in teaching to matter
 - [Class Meetings](../strategies/class-meetings.md) — a routine for reviewing the rules with learners
+- [Provide teachers with a concrete set of classroom management principles for stimulating lessons, clear instructions, routines, and strategic seating](../strategies/classroom-management-principles-for-adhd.md)
 
 ## Key Sources
 - Turiel, E. (2006). Thought, emotions, and social interactional processes in moral development. In M. Killen & J. G. Smetana (Eds.), *Handbook of moral development* (pp. 7-35). Erlbaum.

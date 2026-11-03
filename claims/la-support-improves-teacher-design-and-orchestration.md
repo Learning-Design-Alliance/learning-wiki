@@ -47,3 +47,4 @@ The review reports, from five teacher-focused primary studies it synthesises, qu
 ## Related Claims
 - [Four reviewed studies examined student-related impacts of LA-supported IBL on learning perception, activity engagement, content knowledge acquisition, and productive discourse](la-supported-ibl-student-impact-four-studies.md) — related
 - [Nine reviewed studies reported LA as reflective tools enhancing knowledge-building outcomes such as individual idea development and collective knowledge advancement](la-reflective-tools-improve-knowledge-building-outcomes.md) — related
+- [Practitioner inquiry enhanced teacher candidates' knowledge of practice across five dimensions](practitioner-inquiry-five-dimensions-practice.md) — related

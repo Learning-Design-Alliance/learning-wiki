@@ -127,3 +127,4 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Pupils reported high satisfaction with the children-literature program](pupil-satisfaction-children-literature-program.md) — related
 - [Students found argumentation-based activities fun and instructive, with experimenting the most-liked part](student-views-argumentation-activities-fun-instructive.md) — related
 - [Water Module students found the active, integrative teaching style stimulating for independent and critical thinking despite initial discomfort](water-module-active-learning-reception.md) — related
+- [Students report culture-based activities create an enjoyable and comfortable atmosphere](culture-activities-enjoyable-atmosphere.md) — related

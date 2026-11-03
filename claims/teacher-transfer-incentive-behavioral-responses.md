@@ -56,3 +56,5 @@ The article's stated purpose is to examine "behavioral responses" to a selective
 - Retention bonuses for high-poverty schools work only while payments last, and working conditions may outweigh pay — related
 - [TTI was more cost-effective than similar teacher-transfer incentive interventions](tti-more-cost-effective-than-similar-interventions.md) — related
 - [TTI transfer incentives increased elementary school students' math and reading test scores by an estimated 4 to 10 percentile points](tti-increased-elementary-test-scores.md) — related
+- [The Talent Transfer Initiative offered highest value-added teachers $20,000 over two years to transfer to and remain in low-achieving schools](tti-20000-transfer-incentive-design.md) — related
+- [TTI transfer teachers moved from much higher-performing, higher-income sending schools to low-achieving receiving schools](tti-transfers-from-high-to-low-achieving-schools.md) — related

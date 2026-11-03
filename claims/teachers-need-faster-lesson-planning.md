@@ -51,3 +51,4 @@ Qualitative thematic analysis of responses from 410 Brazilian teachers; Lesson P
 - [Teachers actively use AI tools but face challenges with content accuracy and usage guidelines](teachers-ai-tool-use-accuracy-concerns.md) — related
 - [Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions](llm-lessons-time-saving-scenario-drafting.md) — related
 - [Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows](adapt-reduced-perceived-workload.md) — related
+- [Workload was the number one challenge to effective teaching identified by faculty (341 comments).](workload-top-faculty-teaching-challenge.md) — related

@@ -69,3 +69,4 @@ Review synthesis of four acute-effect studies in which 20–30-min PA sessions t
 - [Intervention effect sizes on mathematics are negatively associated with participants' age and intervention duration, while intervention type does not explain heterogeneity](pa-math-effect-modifiers-age-duration.md)
 - [Dose-response evidence suggests 10-minute active breaks, moderate intensity, and twice-daily frequency favour academic-related outcomes](active-break-dose-response-academic-outcomes.md) — possibly the same claim (merge candidate)
 - [Duration and intensity of PA bouts may moderate attention effects, consistent with an inverted-U hypothesis](pa-duration-intensity-inverted-u-attention.md) — related
+- [A 10-minute pre-testing review improves multiple-choice performance in all three learning conditions](pre-testing-review-additive-benefit.md) — related

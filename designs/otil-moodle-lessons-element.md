@@ -40,7 +40,8 @@ The OTIL lessons are online listening lessons implemented on the Moodle learning
 - [Otil Moodle Significant Posttest Advantage](../claims/otil-moodle-significant-posttest-advantage.md) [+M]
 
 ## Related Designs
-- 
+
+- [Polemic web forum tasks on ICT use in a Moodle blended setting](polemic-web-forum-ict-tasks-moodle.md)
 
 ## Examples
 -

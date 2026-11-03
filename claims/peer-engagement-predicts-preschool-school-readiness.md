@@ -50,3 +50,4 @@ Two-level hierarchical linear models on data from an RCT of ParentCorps in New Y
 - [Children with low initial engagement in classrooms with low-engaged peers show small school readiness growth, while those in high-engagement classrooms show large growth](low-engagement-children-classroom-composition-growth.md) — related
 - [Classroom-level attention-impulse control does not significantly predict preschool school readiness skills, and neither peer measure predicts language growth](peer-attention-impulse-control-null-preschool.md) — related
 - [A child's engagement relative to classroom peers positively predicts spring school readiness, while relative attention-impulse control does not](relative-engagement-status-predicts-readiness.md) — related
+- [Classroom composition may influence preschool learning, with opportunities to learn from peers with advanced skills suggested as beneficial](preschool-peer-composition-advanced-skills.md) — related

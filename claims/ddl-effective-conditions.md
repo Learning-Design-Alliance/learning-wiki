@@ -55,3 +55,4 @@ The article reports Boulton & Cobb's (2017) meta-analytic conclusions on the con
 - [The corpus-tool production advantage is bounded: findings are limited to verb-noun collocations in one Turkish ELT setting](corpus-tool-collocation-findings-scope-limits.md) — related
 - [Corpus-based DDL shows large effects on L2 learning outcomes in meta-analytic evidence](ddl-meta-analysis-large-effects.md) — a broader claim this one bears on
 - [Sufficient training time led to better vocabulary acquisition results in DDL programs for secondary students](ddl-secondary-training-time.md) — related
+- [Teaching semantic prosody of English verbs through the DDL approach significantly improves EFL learners' vocabulary choice appropriateness compared with traditional instruction](ddl-semantic-prosody-improves-vocabulary-choice.md) — a narrower finding that bears on this claim

@@ -83,6 +83,7 @@ Movement breaks leverage the link between physical arousal and cognitive readine
 - [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
 - [Use a multiple-baseline across-classrooms observation routine to monitor on-task behavior around classroom activity breaks](multiple-baseline-ontask-observation-strategy.md)
 - [Embed bodyweight resistance exercises such as squats into classroom active learning breaks](bodyweight-resistance-exercises-classroom-active-breaks.md)
+- [Provide teachers with a concrete set of classroom management principles for stimulating lessons, clear instructions, routines, and strategic seating](classroom-management-principles-for-adhd.md)
 
 ## Examples
 - **GoNoodle** ([gonoodle.com](https://www.gonoodle.com)) — short, energetic "brain break" videos widely used in elementary classrooms; teachers select videos by duration and energy level.

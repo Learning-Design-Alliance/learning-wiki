@@ -56,3 +56,4 @@ In the same randomized ANOVA design, the within-subjects test-time factor showed
 - [In Experiment 2, reading the textbook-plus-story produced higher quiz scores than reading either version of the textbook alone, while the story outperformed the photocopied textbook](combined-story-textbook-highest-quiz.md) — related
 - [Transportation into the discourse accounted for long-term retention of the material but not for the initial advantage of the story over the textbook](transportation-mediation-of-retention.md) — related
 - [Both experimental and control classes scored significantly higher on the second conditional quiz than the first](both-classes-improved-conditional-quiz-scores.md) — related
+- [Delay between learning and testing reduces accuracy only after one day, and equally across learning strategies](one-day-delay-reduces-accuracy-equally.md) — related

@@ -54,3 +54,4 @@ Variance decomposition from cross-nested hierarchical linear models (Table A.2) 
 - [School characteristics were associated with participation: district-run schools, higher proportions of eligible students, and strong family engagement](school-characteristics-chicago-connected-participation.md) — related
 - [28% of eligible CPS students participated in Chicago Connected by May 2021](chicago-connected-28-percent-eligible-participated.md) — related
 - [In the U.S., variance in student achievement is explained more by family economic background than by school-level expenditures](family-economic-background-explains-more-variance-than-school-expenditures.md) — related
+- [Participation in community reading activities is positively associated with reading gains](community-reading-activities-associated-reading-gains.md) — related

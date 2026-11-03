@@ -60,3 +60,5 @@ Pretest using a 30-item TOEFL vocabulary multiple-choice section administered to
 - [The three groups did not differ significantly in vocabulary knowledge at pretest, supporting group homogeneity](pretest-homogeneity-three-vocabulary-groups.md) — related
 - [Both SMS and paper-based exercise groups improved vocabulary scores significantly from pre-test to post-test](both-groups-improved-vocabulary-exercises.md) — related
 - [First-year EFL students who did vocabulary exercises via SMS outperformed those doing paper-based exercises on a post-test](sms-exercises-outperform-paper-based-vocabulary.md) — related
+- [SMS methodology is reported to enhance retrieval of memorized English language rules](sms-enhances-retrieval-memorized-rules.md) — related
+- [The SMS experimental group outperformed the control group on the post-test](sms-group-outperformed-control-post-test.md) — related

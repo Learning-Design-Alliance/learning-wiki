@@ -45,6 +45,7 @@ Teachers devised reflection prompts centred on three questions—what happened (
 ## Related Strategies
 
 - [Calm and Honest Reflection](calm_and_honest_reflection.md)
+- [Design polemic web forum tasks with multiple voices and student-centred decisions to prompt freedom to learn](polemic-forum-multiple-voices-freedom-to-learn.md)
 
 ## Examples
 -

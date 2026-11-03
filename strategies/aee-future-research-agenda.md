@@ -48,7 +48,8 @@ The review sets out a research agenda: future studies should assess AEEs with pr
 - [Subgroup analyses by population and comparator find no statistically significant differences in effect sizes for knowledge or skills](../claims/aee-no-significant-subgroup-differences.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Future research agenda: detailed implementation data, qualitative study, and cross-setting comparison](future-research-life-wide-learning-agenda.md)
 
 ## Examples
 -

@@ -31,6 +31,7 @@ DST holds that, as the article states, "the self is populated by other inner sel
 - [Dialogical voice-synergy model of collaboration](dialogical-voice-synergy-model-of-collaboration.md)
 - [Lonchamp's three-level integration of dialog, knowledge, and action analysis for dual-interaction CSCL environments](lonchamps-three-level-integration-of-dialog-knowledge-and-action-analysis-for-dual-interac.md)
 - [Bakhtinian dialogic framework of four interconnected themes — voices, expanding the dialogue, inter-animation, and relations](bakhtinian-dialogic-framework-of-four-interconnected-themes-voices-expanding-the-dialogue.md)
+- [Dialogic thematic analysis: centripetal and centrifugal forces as an analytic framework for meaning-making](dialogic-thematic-analysis-centripetal-and-centrifugal-forces-as-an-analytic-framework-for.md)
 
 ## Key Sources
 - Aaron J. Peltoniemi, Joni Lämsä, Sami Lehesvuori, Raija Hämäläinen. (2025). Understanding the role of I-positions facilitating knowledge construction in a computer-supported collaborative learning environment. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09447-6

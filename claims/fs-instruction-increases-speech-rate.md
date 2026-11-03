@@ -48,3 +48,4 @@ Quasi-experimental 5-week classroom study with 19 completers (control n = 8, tre
 - [FS treatment group significantly increased its ratio of formulaic syllables to total syllables (d = 1.2); between-group difference not statistical (p = .07, d = 1.0)](fs-instruction-increases-fs-use-ratio.md) — related
 - [FS treatment group significantly increased mean length of run while the control group decreased (between-group d = 1.4)](fs-instruction-increases-mean-length-of-run.md) — related
 - [Posttest FS use correlates with fluency: r = 0.54 with speech rate and r = 0.28 with mean length of run](fs-use-correlates-with-fluency-measures.md) — related
+- [Speech rate, mean length of utterance, phonation time ratio and stressed words per minute were the best predictors of fluency scores](temporal-measures-predict-fluency.md) — related

@@ -78,3 +78,4 @@ Descriptive analysis of postsecondary outcomes by disability status across the s
 - [Fourth graders with disabilities scored 40 points lower in reading and 28 points lower in mathematics than peers without disabilities on the 2022 NAEP](naep-2022-disability-gap-40-reading-28-math.md) — related
 - [In 2012, youth with disabilities were more likely than other students to struggle academically and less likely to take steps to obtain postsecondary education and jobs](youth-disabilities-academic-struggle-fewer-postsecondary-steps.md) — related
 - [Students with IEPs related to disabilities other than learning disabilities graduated at a far lower rate (46.4%) than students with learning-disability IEPs (77.5%) or without IEPs (84.6%)](cps-graduation-disability-gaps.md) — related
+- [Students with disabilities lag same-age peers on postsecondary enrollment and independent living indicators](disability-postsecondary-outcome-gap.md) — related

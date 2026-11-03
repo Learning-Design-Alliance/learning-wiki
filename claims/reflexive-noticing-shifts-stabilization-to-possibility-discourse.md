@@ -69,3 +69,4 @@ This is a single-school qualitative discourse study without a comparison school 
 - [Students' differing values about a campus predator-prey problem produced no agreed definition of the issue and no agreed action](differing-values-no-agreed-environmental-decision.md) — related
 - [Epistemic reflexivity requires internal dialogue that references both teaching practices and epistemic cognition as a calibration process](epistemic-reflexivity-calibration-teaching-practices.md) — related
 - [Consciousness is most prominent during change and has little role in fixed reflexes and well-established habits](consciousness-prominent-in-change-not-habits.md) — related
+- [Agnes shifted to an exotopic position, viewing the problem from outside, which expanded collaboration](exotopic-position-shift-expands-collaboration.md) — related

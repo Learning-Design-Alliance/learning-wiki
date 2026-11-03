@@ -50,3 +50,4 @@ Secondary per-text analyses in the same four-group experiment: each of the three
 - [Repetition of input yielded higher scores than previewing questions, but the two supports did not differ significantly in this study](repetition-versus-previewing-listening.md) — related
 - [Topic preparation produced the highest listening comprehension scores among the four treatment groups](topic-preparation-highest-listening-scores.md) — related
 - [One-way ANOVA on posttest scores showed a statistically significant difference among the subtitle, no-subtitle, and control groups (F = 84.161, Sig. = .000)](anova-significant-difference-three-groups-vocabulary.md) — related
+- [Vocabulary pre-teaching was less effective than other forms of listening support in prior studies](vocabulary-preteaching-less-effective-than-other-support.md) — related

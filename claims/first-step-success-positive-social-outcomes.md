@@ -57,3 +57,4 @@ Single RCT in 34 elementary schools in Albuquerque. Effect sizes were 0.37 (SSRS
 - [Preschool First Step to Success produces statistically significant postintervention improvements on all teacher-reported symptom and functioning outcomes for preschoolers at risk for ADHD, with large effect sizes](pfs-large-teacher-reported-effects-adhd-risk-preschoolers.md) — related
 - [PFS improves parent-reported social skills with smaller effects than teacher-reported outcomes](pfs-improves-parent-reported-social-skills.md) — related
 - [Preschool First Step intervention improves teacher-reported social skills (ESP-ABI) in preschoolers with challenging behaviors](pfs-improves-teacher-reported-social-skills-abi.md) — related
+- [Tertiary First Step improves teacher- and parent-rated adaptive and social skills relative to a comparison group](tertiary-first-step-improves-prosocial-outcomes.md) — related

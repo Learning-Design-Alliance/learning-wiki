@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 164 claims (66 for, 85 mixed, 13 against) · 90 studies (32 quant-synthesis, 28 causal, 12 review, 7 theoretical, 6 qualitative, 3 design, 2 associational), `q1`–`q4` · 24 of 90 report an effect size · 159 claims rest on one study
+> **Evidence** · 167 claims (67 for, 87 mixed, 13 against) · 91 studies (32 quant-synthesis, 29 causal, 12 review, 7 theoretical, 6 qualitative, 3 design, 2 associational), `q1`–`q4` · 24 of 91 report an effect size · 162 claims rest on one study
 
 ## Description and scope
 
@@ -256,6 +256,9 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [Among surveyed students, PBL students moderately out-performed non-PBL students on grade A achievement (chi-square p=0.065)](../claims/pbl-grade-a-chi-square-surveyed.md) [~W]
 - [PBL scored lower than non-PBL on stimulating students to carry on learning, though not statistically significantly](../claims/pbl-lower-stimulated-carry-on-learning-null.md) [-W]
 - [Student-centred approaches (problem-based learning, guided inquiry, cooperative learning) outperformed teacher-centred methods in the reviewed studies](../claims/student-centred-methods-outperform-teacher-centred.md) [+W]
+- [PBL participants used the synthesizing-subject-matter and searching-for-supporting-details strategies significantly better than non-PBL participants](../claims/pbl-improves-subm-sdet-strategies.md) [+W]
+- [PBL participants completed problem-solving tasks cooperatively, with after-class discussion the most frequent task and up to 89% extending learning after class](../claims/pbl-task-self-reports-cooperative-problem-solving.md) [~W]
+- [PBL participants spent significantly more weekly time reading English texts than non-PBL participants during the treatment](../claims/pbl-increases-out-of-class-reading-time.md) [~W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

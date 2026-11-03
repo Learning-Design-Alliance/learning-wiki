@@ -50,3 +50,4 @@ Repeated-measures ANOVA with test time as within-subjects factor and country as 
 - [Help-seeking models transfer above chance across sites but perform poorly on the Costa Rican data](help-seeking-model-transfer-mixed.md) — related
 - [Help abuse is negatively associated with learning in both the Philippines and United States datasets](help-abuse-negative-philippines-us.md) — related
 - [Collaborative classroom practice in Costa Rica may explain why help-seeking models fail to transfer there](collaboration-explains-costa-rica-divergence.md) — related
+- [The Philippines has the highest degree of linguistic diversity among the selected countries with more than 180 languages spoken](philippines-highest-linguistic-diversity-180-languages.md) — related

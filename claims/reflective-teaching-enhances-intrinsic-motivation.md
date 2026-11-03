@@ -50,3 +50,4 @@ Independent samples t-test on post-treatment intrinsic motivation: experimental 
 ## Related Claims
 - [Weekly journal writing as a self-assessment technique significantly increased Iranian EFL learners' intrinsic motivation over a semester](journal-writing-self-assessment-increased-intrinsic-motivation.md) — related
 - [Reflective teaching significantly enhances learner autonomy of Iranian upper-intermediate female EFL learners](reflective-teaching-enhances-learner-autonomy.md) — related
+- [Reflectivity does not have a statistically significant effect on reading comprehension of Iranian EFL learners](reflectivity-no-effect-reading-comprehension-iranian-efl.md) — related

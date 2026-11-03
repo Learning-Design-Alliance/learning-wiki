@@ -46,6 +46,7 @@ The report closes with six actions for those who create, publish, and select chi
 
 - [Liberation Literature and Counter-Narratives](liberation_literature_and_counter-narratives.md)
 - [Mirrors, Windows, and Sliding Glass Doors](mirrors-windows-and-sliding-glass-doors.md)
+- [Policy makers should consult specialists on the indirect connotations of texts in instructional materials](policymakers-consult-specialists-text-connotations.md)
 
 ## Examples
 

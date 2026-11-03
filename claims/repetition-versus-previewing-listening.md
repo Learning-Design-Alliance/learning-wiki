@@ -49,3 +49,5 @@ Descriptive comparison between the repetition of input group and the previewing 
 - [Previewing questions alone did not appear to influence learners' listening comprehension performance](previewing-questions-no-influence-listening.md) — related
 - [Group differences reached statistical significance on each of the three listening texts individually](listening-supports-per-text-anovas.md) — related
 - [Topic preparation produced the highest listening comprehension scores among the four treatment groups](topic-preparation-highest-listening-scores.md) — related
+- [Repetition strategy instruction in L1 shows no statistically significant effect on EFL listening comprehension](l1-repetition-strategy-no-significant-effect.md) — related
+- [Vocabulary pre-teaching was less effective than other forms of listening support in prior studies](vocabulary-preteaching-less-effective-than-other-support.md) — related

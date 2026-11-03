@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 242 claims (167 show a difference, 44 mixed, 31 no difference) · 137 studies (77 causal, 27 associational, 14 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 42 of 137 report an effect size · 237 claims rest on one study
+> **Evidence** · 252 claims (174 show a difference, 45 mixed, 33 no difference) · 141 studies (81 causal, 27 associational, 14 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 42 of 141 report an effect size · 247 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -280,6 +280,16 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Online-instruction group fails to improve content-building skill despite gains in other writing components](../claims/online-group-content-skill-no-improvement.md) [~M] — instruction changes it
 - [SEED PD had no impact on student writing quality](../claims/seed-pd-no-impact-student-writing-quality.md) [-M] — instruction changes it
 - [Graphic novel instruction did not significantly improve EFL students' reading comprehension, writing, or analytical reading skills compared to plain text instruction](../claims/graphic-novels-no-effect-comprehension-writing.md) [-M] — measured as an outcome of the instruction studied
+- [A writing workshop-based program significantly improves overall basic writing skills of prospective English teachers](../claims/writing-workshop-improves-basic-writing-skills-prospective-teachers.md) [+M] — measured as an outcome of the instruction studied
+- [Benefits of blended strategy instruction on source-based essay quality remain significant regardless of prior reading and writing skills or time on task](../claims/blended-strategy-benefits-independent-of-prior-skill-and-time.md) [-M] — an instructional effect differs with it
+- [Blended reading and writing strategy training produces higher quality source-based essays than reading-only, writing-only, or control conditions](../claims/blended-strategy-training-improves-source-based-essay-quality.md) [+M] — measured as an outcome of the instruction studied
+- [Scaffolding through the writing process approach met EFL students' needs and improved their writing skill despite persistent difficulty with basic elements such as grammar.](../claims/scaffolding-met-needs-despite-grammar-difficulty.md) [~M] — measured as an outcome of the instruction studied
+- [Status-marking errors (nonstandard verb forms, subject-verb agreement, double negatives, object pronouns as subject) were rare in both groups](../claims/status-marking-errors-rare-both-groups.md) [-M] — measured as an outcome of the instruction studied
+- [Teacher scaffolding within a writing process approach significantly improved EFL students' self-reported writing skills from pre-test to post-test.](../claims/scaffolding-writing-process-improves-efl-writing.md) [+M] — measured as an outcome of the instruction studied
+- [The writing workshop program significantly improves punctuation skills](../claims/writing-workshop-improves-punctuation-component.md) [+M] — measured as an outcome of the instruction studied
+- [The writing workshop program significantly improves spelling skills](../claims/writing-workshop-improves-spelling-component.md) [+M] — measured as an outcome of the instruction studied
+- [Web-assisted instruction with adaptive LSA modules reduced average error counts in most writing error categories compared to teacher-led instruction alone](../claims/web-assisted-instruction-reduced-writing-errors-business-communication.md) [+M] — measured as an outcome of the instruction studied
+- [Writing Pal training has been linked to increases in holistic essay scores on persuasive SAT-style writing tasks over time](../claims/writing-pal-training-increases-sat-essay-scores.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

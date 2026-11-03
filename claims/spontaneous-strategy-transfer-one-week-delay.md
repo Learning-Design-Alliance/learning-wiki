@@ -70,3 +70,4 @@ Experiment 2 final recall in both sessions favored the instructed group, showing
 - [Retrieval practice instructions improved final recall of translations in Experiment 1](retrieval-instructions-improve-final-recall-exp1.md) — related
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
 - [On a delayed assessment 1 to 3 months later, many students transferred their appreciation of variation to another context and could explain the meaning of variation](delayed-assessment-variation-transfer.md) — related
+- [Strategy transfer to social studies content was incomplete without teacher reminders.](anticipatory-guide-transfer-social-studies.md) — related

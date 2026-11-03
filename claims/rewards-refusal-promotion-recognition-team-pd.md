@@ -47,3 +47,4 @@ Rewards theme in the review's organizational-level synthesis, drawing on Bakah e
 ## Related Claims
 - [A pilot AIDA-supported induction course reached 354 new students and supported early-stage orientation, yet further development and upscaling of AIDA subsequently stalled](aida-induction-pilot-then-stalled-upscaling.md) — related
 - [Many programs face partnership alignment, hiring-placement, and administrative capacity challenges that limit financial sustainability](partnership-and-capacity-challenges-residencies.md) — related
+- [Faculty perceive institutional reward structures as valuing research over teaching, with focus on research in promotion and tenure the third most cited challenge.](institutional-reward-structures-favour-research.md) — related

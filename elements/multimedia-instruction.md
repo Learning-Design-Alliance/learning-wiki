@@ -154,6 +154,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Pair short-story reading with short animation-film segments in EFL reading lessons](../strategies/animation-film-segments-with-story-reading-strategy.md)
 - [Instructors compile native-speaker video lessons and pair students for peer-supported immersive multimedia learning of L2 oral skills](../strategies/compile-native-video-lessons-peer-pairs-strategy.md)
 - [Use visual and aural aids and varied, vivid lesson structures in listening lessons](../strategies/visual-aural-aids-listening-lessons.md)
+- [Use filmed experiments in geography lessons to explain course material and save time, especially for large class groups](../strategies/filmed-experiments-large-class-groups.md)
 
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/cbo9780511811678](https://doi.org/10.1017/cbo9780511811678)

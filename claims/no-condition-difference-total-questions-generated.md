@@ -48,3 +48,4 @@ Manipulation check in the same experiment: a 3 × 2 ANOVA on total questions att
 - [Explaining and teaching both improve basic comprehension relative to notetaking, but do not differ from each other](explaining-teaching-improve-comprehension-over-notetaking.md) — related
 - [Writing teaching scripts or textbook explanations improves university students' create-level research question generation more than writing study notes for their own learning](generating-for-others-beats-notetaking-question-generation.md) — related
 - [Students in the GD and TD conditions did not differ significantly in time online or in adding, editing, or deleting elements in the Debate-tool.](no-condition-difference-tool-activity.md) — related
+- [Total learning time does not differ by condition, ruling out time-on-task as an explanation for the differential-associative processing advantage](total-time-equivalent-across-conditions.md) — related

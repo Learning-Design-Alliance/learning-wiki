@@ -60,8 +60,10 @@ Physical arrangement is not neutral: it shapes which behaviors are possible and 
 6. Review arrangement each term against observed on-task behavior and activity mix; treat layout as an instructional decision, not a fixed feature.
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the auditory counterpart; crowding and noise compound each other's attentional costs
 - [Clear Structure](../principles/clear-structure.md) — physical zones work best when their purpose is explicit and consistently enforced
+- [Provide teachers with a concrete set of classroom management principles for stimulating lessons, clear instructions, routines, and strategic seating](classroom-management-principles-for-adhd.md)
 
 ## Examples
 - **Clever Classrooms (University of Salford, HEAD project)** — large-scale UK study of 153 classrooms identifying "naturalness" factors (light, ownership, flexibility) accounting for meaningful variance in learning progress: [http://www.salford.ac.uk/cleverclassrooms](http://www.salford.ac.uk/cleverclassrooms)

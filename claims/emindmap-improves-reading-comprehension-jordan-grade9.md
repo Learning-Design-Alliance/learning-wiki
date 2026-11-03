@@ -71,3 +71,4 @@ Quasi-experimental study of two ninth-grade sections (30 students each) in two I
 - [Sharing mind map mobile learning with digital archive information improves sixth graders' learning performance compared with traditional learning](smm-mobile-learning-improves-achievement.md) — related
 - [CMMCALL program improved low-achievers' academic performance in grammar and reading comprehension](cmmcall-improved-low-achievers-performance.md) — related
 - [Concept mapping and paraphrasing instruction produced no significant difference in EFL learners' reading comprehension post-test scores](concept-mapping-paraphrasing-no-significant-difference.md) — related
+- [PBL instruction significantly improved EFL learners' English reading comprehension compared with traditional reading instruction](pbl-significantly-improves-efl-reading-comprehension-taiwan-university.md) — related

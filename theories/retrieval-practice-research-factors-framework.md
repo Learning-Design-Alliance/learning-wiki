@@ -17,7 +17,7 @@ sources:
 # Retrieval Practice Experiment Architecture and Factors
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 26 claims (13 for, 13 mixed) · 29 studies (20 causal, 5 review, 3 quant-synthesis, 1 theoretical), `q2`–`q4` · 11 of 29 report an effect size · 25 claims rest on one study
+> **Evidence** · 27 claims (14 for, 13 mixed) · 30 studies (21 causal, 5 review, 3 quant-synthesis, 1 theoretical), `q2`–`q4` · 11 of 30 report an effect size · 26 claims rest on one study
 
 ## Description
 The chapter's organizing framework: learners study materials, a retrieval practice condition completes initial retrieval activities while a control does not, and all take a final criterial assessment. The factors explored include "aspects of the initial retrieval practice conditions, the conditions of the ﬁnal criterial assessment, characteristics of the learners, the nature of the materials, and the setting of the study", which structure the chapter's sections.
@@ -65,6 +65,7 @@ The chapter's organizing framework: learners study materials, a retrieval practi
 - [Experimental group gained memorization skill over time while control group did not](../claims/experimental-group-gained-memorization-skill-over-time.md) [~W]
 - [The experimental and control groups did not differ significantly at pre-test but the experimental group outperformed the control group at post-test](../claims/ds-posttest-between-group-outperformance.md) [+W]
 - [Experimental groups' post-test mean scores far exceeded control groups' across all three school categories](../claims/pbl-post-test-means-exceed-control.md) [+W]
+- [SMS methodology is reported to enhance retrieval of memorized English language rules](../claims/sms-enhances-retrieval-memorized-rules.md) [+W]
 
 ## Related Theories
 - 

@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 62 claims (34 for, 27 mixed, 1 against) · 50 studies (23 causal, 16 quant-synthesis, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 16 of 50 report an effect size · 55 claims rest on one study
+> **Evidence** · 66 claims (35 for, 29 mixed, 2 against) · 52 studies (25 causal, 16 quant-synthesis, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 16 of 52 report an effect size · 59 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,10 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 - [Review evidence cited in the article: in 67 studies of achievement impacts, 61% found greater achievement in cooperative than in traditionally taught control groups](../claims/cl-achievement-review-evidence.md) [+M]
 - [Both jigsaw and traditionally taught groups showed statistically significant pre-test to post-test gains, with a larger gain in the jigsaw group](../claims/jigsaw-and-control-both-gain-significantly-pre-to-post.md) [+W]
 - [Blind students taught with CLE performed significantly better in Thai language development than traditionally taught students at the .01 level, with one small kindergarten group as an exception](../claims/cle-blind-students-significant-thai-language.md) [+W]
+- [Cooperative learning showed a significant cross-level interaction with pretest computation competence at posttest, with higher-pretest students benefiting more from CL than control peers](../claims/cl-pretest-cross-level-interaction-posttest.md) [~W]
+- [The study's results contrast with claims that students in Islamic countries cannot be taught through cooperative learning](../claims/ctbl-contradicts-ab-raza-islamic-countries-claim.md) [+W]
+- [A 10-week structured intervention including cooperative learning produced no statistically significant main effects on non-counting computation competence of grade-2 persistent counters relative to a control group at posttest](../claims/structured-cooperative-intervention-no-main-effect-posttest.md) [-W]
+- [The cross-level interaction favoring cooperative learning for higher-pretest students was not found at follow-up, indicating no long-term impact](../claims/cl-interaction-not-persistent-follow-up.md) [~W]
 
 ## Related Principles
 

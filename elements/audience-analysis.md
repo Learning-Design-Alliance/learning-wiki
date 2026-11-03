@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 42 claims (24 for, 17 mixed, 1 against) · 50 studies (16 causal, 13 associational, 9 review, 5 theoretical, 3 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 4 of 50 report an effect size · 37 claims rest on one study
+> **Evidence** · 43 claims (25 for, 17 mixed, 1 against) · 51 studies (16 causal, 13 associational, 10 review, 5 theoretical, 3 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 4 of 51 report an effect size · 38 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
@@ -91,6 +91,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [Student background variables significantly affect learning motivation and demographic variables significantly affect learning achievement](../claims/background-demographic-variables-affect-motivation-achievement.md) [~W]
 - [Pre-test analysis showed participants across all four groups had inadequate knowledge of English classified ads rules, writing simple sentences instead of omitting articles, conjunctions, prepositions, verbs, and pronouns.](../claims/pretest-inadequate-classified-ads-rules.md) [+W]
 - [20% of students described as advanced-level learners were in fact no more than intermediate-high on the ACTFL scale](../claims/twenty-percent-claimed-advanced-actually-intermediate-high.md) [~W]
+- [Children enrolled in early education settings show great variability in skills and risk factors, with distinct language and literacy profiles rather than a homogeneous at-risk group](../claims/preschool-at-risk-children-heterogeneous-literacy-profiles.md) [+W]
 
 ## The evidence by question
 

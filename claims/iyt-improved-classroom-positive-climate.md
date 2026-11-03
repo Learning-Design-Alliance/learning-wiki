@@ -46,3 +46,4 @@ In the cluster-randomized trial, blinded observers rated classrooms with the CLA
 
 ## Related Claims
 - [In the IYT trial, intervention effects for students were moderated by grade level and free/reduced lunch status in the direction predicted](iyt-effects-moderated-by-grade-and-ses.md) — a broader claim this one bears on
+- [Classroom climate significantly improved for treatment classrooms and decreased in control classrooms according to both teachers and students.](rd-program-improved-classroom-climate.md) — related

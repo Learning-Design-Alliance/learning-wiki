@@ -49,3 +49,4 @@ Semi-structured interview with the mathematics teacher (14 years of experience) 
 - [Practitioners perceived the profile-driven workflow as reducing Social Story preparation burden](adapted-stories-reduces-preparation-burden.md) — related
 - [Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows](adapt-reduced-perceived-workload.md) — related
 - [Students' disliked features of the digital stories clustered on scenario quality, voicing, and level suitability](students-disliked-story-scenario-and-voicing-features.md) — related
+- [Students found the tablet PC lesson difficult to attend to and doubted they would remember its content, while rating it as innovative](student-perceptions-tablet-attention-difficulty.md) — related

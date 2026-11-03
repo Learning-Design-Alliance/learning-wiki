@@ -75,3 +75,4 @@ The same ANCOVA analysis reports adjusted post-test means: experimental M = 37.7
 - [Learners value classroom listening practice and prefer video or equal weighting over audio-only materials](learners-prefer-video-over-audio-materials.md) — related
 - [Meaning-focused listening input significantly enhances productive vocabulary size of Iranian intermediate EFL learners compared with traditional instruction](meaning-focused-listening-input-productive-vocabulary-gains.md) — related
 - [Grade-10 EFL students taught vocabulary with PowerPoint-enhanced lessons retained more vocabulary than students in traditional lessons](ppt-vocabulary-retention-outperforms-traditional.md) — related
+- [Audio-only listening test group outperformed video-only group on overall listening comprehension scores](audio-outperforms-video-efl-listening-test.md) — reports the opposite

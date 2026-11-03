@@ -68,3 +68,5 @@ Student-Newman-Keuls post-hoc analysis of the same four-group experiment located
 - [Topic preparation produced the highest listening comprehension scores among the four treatment groups](topic-preparation-highest-listening-scores.md) — related
 - [Previewing questions alone did not appear to influence learners' listening comprehension performance](previewing-questions-no-influence-listening.md) — related
 - [Repetition of input yielded higher scores than previewing questions, but the two supports did not differ significantly in this study](repetition-versus-previewing-listening.md) — related
+- [Repetition strategy instruction in L1 shows no statistically significant effect on EFL listening comprehension](l1-repetition-strategy-no-significant-effect.md) — related
+- [Vocabulary pre-teaching was less effective than other forms of listening support in prior studies](vocabulary-preteaching-less-effective-than-other-support.md) — related

@@ -68986,5 +68986,465 @@
  "simulation\ttwo simulations\tone simulation": {
   "label": "more simulations vs fewer simulations",
   "treatment_is_a": true
+ },
+ "active-learning\tL1 (Japanese) post-reading group discussion\tL2 (English) post-reading group discussion": {
+  "label": "L1 (Japanese) post-reading group discussion vs L2 (English) post-reading group discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tL1 (Japanese) post-reading group discussion\tindividual written response without discussion": {
+  "label": "L1 (Japanese) post-reading group discussion vs individual written response without discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tL1 (Japanese) post-reading group discussion\tno post-reading discussion": {
+  "label": "L1 (Japanese) post-reading group discussion vs no post-reading discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tL2 (English) post-reading group discussion\tindividual written response without discussion": {
+  "label": "L2 (English) post-reading group discussion vs individual written response without discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tL2 (English) post-reading group discussion\tno post-reading discussion": {
+  "label": "L2 (English) post-reading group discussion vs no post-reading discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tLeemos en pareja peer-tutoring programme\tsame Activity Sheets with usual teaching methodology": {
+  "label": "Peer tutoring vs usual teaching methodology",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL instruction with small-group scaffolding\tteacher-centered non-PBL instruction": {
+  "label": "PBL with small-group scaffolding vs teacher-centred non-PBL instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL small-group instruction\tnon-PBL individual, teacher-centered instruction": {
+  "label": "PBL with small-group instruction vs individual teacher-centred non-PBL instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL small-group scaffolding\tteacher-centered non-PBL instruction": {
+  "label": "PBL with small-group scaffolding vs teacher-centred non-PBL instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcomprehensive teacher induction\tusual district induction services": {
+  "label": "Comprehensive teacher induction vs usual district induction services",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative base groups with structured positive interdependence\tconventional lecture teaching": {
+  "label": "Cooperative learning with structured positive interdependence vs lecture teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative base groups with structured positive interdependence\tlecture teaching": {
+  "label": "Cooperative learning with structured positive interdependence vs lecture teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning\tbusiness-as-usual control": {
+  "label": "Cooperative learning vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning\tindividual learning": {
+  "label": "Cooperative learning vs individual learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning during paired seatwork\tbusiness-as-usual control": {
+  "label": "Cooperative learning vs business-as-usual instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning in heterogeneous pairs\tindividual learning with the same mathematical problems": {
+  "label": "Cooperative learning vs individual learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tdialogic collaborative activities in a blended setting\tno comparison condition reported": {
+  "label": "Collaborative/dialogic activities in blended learning vs no comparison condition reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive teaching techniques/active learning\tlecture": {
+  "label": "Active/interactive teaching vs lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tlecture/presentation of content\tother classroom practices": {
+  "label": "Active/interactive classroom practices vs lecture/presentation of content",
+  "treatment_is_a": false
+ },
+ "active-learning\tpaired and grouped collaborative activities in a blended setting\tno comparison condition reported": {
+  "label": "Collaborative activities in blended learning vs no comparison condition reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tpaired and grouped collaborative activities in a blended setting\tnot stated": {
+  "label": "Collaborative activities in blended learning vs no comparison condition stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tpaired and grouped collaborative activities in a blended setting\ttraditional teacher-centred, monologic interaction": {
+  "label": "Collaborative activities in blended learning vs traditional teacher-centred monologic interaction",
+  "treatment_is_a": true
+ },
+ "active-learning\tpaired collaborative discussion across two blended tasks\tnot stated": {
+  "label": "Collaborative discussion in blended learning vs no comparison condition stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tpaired collaborative discussion in a blended setting\tnot stated": {
+  "label": "Collaborative discussion in blended learning vs no comparison condition stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tpost-reading L1 group discussion\tindividual written response without discussion": {
+  "label": "L1 (Japanese) post-reading group discussion vs individual written response without discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tpost-reading L2 group discussion\tindividual written response without discussion": {
+  "label": "L2 (English) post-reading group discussion vs individual written response without discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning instruction with small-group scaffolding\tnon-PBL teacher-centered reading instruction": {
+  "label": "PBL with small-group scaffolding vs teacher-centred non-PBL instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning with small-group scaffolding\tteacher-centered non-PBL instruction with individual tasks": {
+  "label": "PBL with small-group scaffolding vs individual-task teacher-centred non-PBL instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group problem-based learning instruction\tindividual teacher-centered non-PBL reading instruction": {
+  "label": "PBL with small-group instruction vs individual teacher-centred non-PBL instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tself-directed learning activities for 12 weeks\tpre-intervention baseline": {
+  "label": "self-directed learning activities vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tself-directed learning activities for BA activists\tBA activist pre-test": {
+  "label": "self-directed learning activities vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tself-directed learning activities for BA pragmatists\tBA pragmatist pre-test": {
+  "label": "self-directed learning activities vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tself-directed learning activities for BA reflectors\tBA reflector pre-test": {
+  "label": "self-directed learning activities vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tself-directed learning activities for BA theorists\tBA theorist pre-test": {
+  "label": "self-directed learning activities vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcomparing the dyad's viewpoints with colleagues' perspectives\tdiscussing the dyad's viewpoints without comparison with colleagues' perspectives": {
+  "label": "comparison with colleagues' perspectives vs no comparison",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t14 sessions of listening-strategy instruction in Persian\ttraditional listening instruction without the taught strategies": {
+  "label": "explicit strategy instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tAnticipatory Reading Guide instruction\tTeacher C's class": {
+  "label": "anticipatory reading guide instruction vs conventional classroom instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tAnticipatory Reading Guide instruction\tTeachers A and B's classes": {
+  "label": "anticipatory reading guide instruction vs conventional classroom instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tAnticipatory Reading Guide instruction\ttraditional reading-strategy instruction": {
+  "label": "anticipatory reading guide instruction vs traditional reading-strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tL1 Persian instruction in listening strategies including repetition\tregular listening instruction without the strategies": {
+  "label": "explicit strategy instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPersian L1 note-taking strategy instruction\tregular listening instruction without the target strategy": {
+  "label": "explicit strategy instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tanticipatory reading guide instruction\tother third-grade classroom instruction": {
+  "label": "anticipatory reading guide instruction vs conventional classroom instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tanticipatory reading guide instruction\ttraditional reading instruction": {
+  "label": "anticipatory reading guide instruction vs traditional reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction using anticipatory reading guides\ttraditional classroom reading instruction": {
+  "label": "anticipatory reading guide instruction vs traditional classroom reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tguided guessing and making-inferences strategies in Persian\ttraditional instruction without these strategies": {
+  "label": "explicit strategy instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tidentifying-topic strategy instruction in Persian\tregular listening instruction without listening-strategy instruction": {
+  "label": "explicit strategy instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tintertextuality-aware reading instruction\tregular reading instruction": {
+  "label": "intertextuality-aware reading instruction vs regular reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvocabulary instruction\tother listening-support conditions": {
+  "label": "vocabulary instruction vs other listening-support conditions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvocabulary preview activity\tunrelated filler activity": {
+  "label": "vocabulary preview activity vs unrelated filler activity",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tDOC and DMC written correction\tcontrol with no feedback": {
+  "label": "written corrective feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tdirect metalinguistic correction (DMC)\tno written feedback control": {
+  "label": "written corrective feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tdirect metalinguistic written correction (DMC)\tno-feedback control": {
+  "label": "written corrective feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tdirect-only correction (DOC)\tno written feedback control": {
+  "label": "written corrective feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tdirect-only written correction (DOC)\tno-feedback control": {
+  "label": "written corrective feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdirect metalinguistic correction (DMC)\tdirect-only correction (DOC)": {
+  "label": "direct metalinguistic correction vs direct-only correction",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdirect-only correction (DOC)\tdirect metalinguistic correction (DMC)": {
+  "label": "direct metalinguistic correction vs direct-only correction",
+  "treatment_is_a": false
+ },
+ "feedback-type\tfeedback to children about their ideas and work\tless or different feedback": {
+  "label": "feedback about ideas and work vs less or different feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tAcuity interim assessments\tbusiness-as-usual": {
+  "label": "interim assessments vs business-as-usual",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tAcuity interim assessments and training\tbusiness-as-usual": {
+  "label": "interim assessments with training vs business-as-usual",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tDSA2 correction and practice of common DSA1 errors\tuncorrected common errors identified in DSA1": {
+  "label": "error correction and practice vs uncorrected errors",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tcommon-error correction in DSA2 after DSA1 feedback\tcommon errors identified in DSA1 before correction": {
+  "label": "error correction after feedback vs uncorrected errors",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tcommon-error correction in DSA2 followed by a written DRA\tuncorrected common errors identified in DSA1": {
+  "label": "error correction followed by a written DRA vs uncorrected errors",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tcorrection and practice of DSA1 common errors during DSA2\tcommon errors identified in DSA1 before correction": {
+  "label": "error correction and practice vs uncorrected errors",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tintegrated curriculum-based dynamic and standardized assessment\tprevious-year non-dynamic curriculum-based assessment group": {
+  "label": "dynamic assessment vs non-dynamic assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tintegrated curriculum-based dynamic speaking assessments\thistorical control with non-dynamic curriculum-based speaking assessments": {
+  "label": "dynamic assessment vs non-dynamic assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tmCLASS and Acuity interim assessments\tbusiness-as-usual conditions": {
+  "label": "interim assessments vs business-as-usual",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tmCLASS and Acuity interim assessments with training\tbusiness-as-usual": {
+  "label": "interim assessments with training vs business-as-usual",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tmCLASS and Acuity interim assessments with training\tbusiness-as-usual conditions": {
+  "label": "interim assessments with training vs business-as-usual",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tinquiry activities followed by a cube-magnet task\tpretest responses based mainly on magnet ends and surfaces": {
+  "label": "guided discovery vs pretest/baseline",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tsequential inquiry activities using different magnet shapes and challenging questions\tpretest reasoning focused on ends and surfaces": {
+  "label": "guided discovery vs pretest/baseline",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tsequential inquiry activities with challenging questions\timmediate posttest": {
+  "label": "guided discovery vs immediate posttest",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tsequential inquiry activities with challenging questions\tpretest before the activities": {
+  "label": "guided discovery vs pretest/baseline",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tsequential inquiry activities with challenging questions\tpretest before the inquiry activities": {
+  "label": "guided discovery vs pretest/baseline",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tsequential inquiry activities with challenging questions\tpretest performance on previously presented magnet shapes": {
+  "label": "guided discovery vs pretest/baseline",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tsequential inquiry activities with challenging questions\tpretest responses before implementation": {
+  "label": "guided discovery vs pretest/baseline",
+  "treatment_is_a": true
+ },
+ "media-design\taudio-only listening text\tvideo-only listening text": {
+  "label": "video-only vs audio-only",
+  "treatment_is_a": false
+ },
+ "media-design\tvisual presentation\toral presentation": {
+  "label": "visual vs oral presentation",
+  "treatment_is_a": true
+ },
+ "practice-amount\tComprehensive Teacher Induction with higher dosage of induction content\tusual district induction services": {
+  "label": "more comprehensive/intensive teacher induction vs usual induction services",
+  "treatment_is_a": true
+ },
+ "practice-amount\tComprehensive Teacher Induction with intensive mentoring\tusual district induction services": {
+  "label": "more comprehensive/intensive teacher induction vs usual induction services",
+  "treatment_is_a": true
+ },
+ "practice-amount\tComprehensive Teacher Induction with more mentoring activities and observations\tusual district induction services": {
+  "label": "more comprehensive/intensive teacher induction vs usual induction services",
+  "treatment_is_a": true
+ },
+ "practice-amount\tcomprehensive teacher induction\tusual district induction services": {
+  "label": "more comprehensive/intensive teacher induction vs usual induction services",
+  "treatment_is_a": true
+ },
+ "practice-amount\tcomprehensive teacher induction\tusual district or school induction support": {
+  "label": "more comprehensive/intensive teacher induction vs usual induction services",
+  "treatment_is_a": true
+ },
+ "practice-amount\tcomprehensive teacher induction mentoring\tusual local induction services": {
+  "label": "more comprehensive/intensive teacher induction vs usual induction services",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfour story read-aloud sessions\tone story read-aloud session": {
+  "label": "more story read-aloud practice vs less story read-aloud practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfour story read-aloud sessions\tthree story read-aloud sessions": {
+  "label": "more story read-aloud practice vs less story read-aloud practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfour story read-alouds with word-meaning explanations\tthree story read-alouds with word-meaning explanations": {
+  "label": "more story read-aloud practice vs less story read-aloud practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfourth story read-aloud\tfirst story read-aloud": {
+  "label": "more story read-aloud practice vs less story read-aloud practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfourth story read-aloud\tthird story read-aloud": {
+  "label": "more story read-aloud practice vs less story read-aloud practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher school-component dose\tlower school-component dose": {
+  "label": "higher school-component dose vs lower school-component dose",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated story read-aloud through the third and fourth sessions\tfirst story read-aloud": {
+  "label": "more story read-aloud practice vs less story read-aloud practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tthird story read-aloud\tfirst story read-aloud": {
+  "label": "more story read-aloud practice vs less story read-aloud practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tthree or four story read-alouds with word-meaning explanations\tone story read-aloud with word-meaning explanations": {
+  "label": "more story read-aloud practice vs less story read-aloud practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tthree story read-aloud sessions\tone story read-aloud session": {
+  "label": "more story read-aloud practice vs less story read-aloud practice",
+  "treatment_is_a": true
+ },
+ "praise\tTutor praises or confirms the tutee’s response\tTutee praises or confirms the tutor’s response": {
+  "label": "Tutor praise vs tutee praise",
+  "treatment_is_a": true
+ },
+ "prompts\tprompting strategies\tnot stated": {
+  "label": "prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\t$20,000 transfer incentive over two years\tno transfer incentive": {
+  "label": "transfer incentive vs no transfer incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tTTI focal teachers\tcontrol focal teachers": {
+  "label": "transfer incentive vs no transfer incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tTTI transfer incentive\tpotential sending schools without a TTI transfer": {
+  "label": "transfer incentive vs no transfer incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tTTI transfer-incentive recruitment\tno TTI transfer": {
+  "label": "transfer incentive vs no transfer incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tTTI transfer-incentive vacancy\tnormally filled control vacancy": {
+  "label": "transfer incentive vs no transfer incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tTalent Transfer Incentive: monetary payments for high-performing teachers who transfer\tno transfer incentive": {
+  "label": "transfer incentive vs no transfer incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tTalent Transfer Initiative (TTI) transfer incentive\tbusiness-as-usual control": {
+  "label": "transfer incentive vs no transfer incentive",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tpositive reinforcement measures\tmild punishment or response cost": {
+  "label": "positive reinforcement vs punishment or response cost",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treceiving school after transfer\tsending school before transfer": {
+  "label": "post-transfer receiving school vs pre-transfer sending school",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tstudents after teachers transferred to receiving schools\tstudents before teachers transferred from sending schools": {
+  "label": "post-transfer students vs pre-transfer students",
+  "treatment_is_a": true
+ },
+ "scaffolding\tintegrated curriculum-based dynamic assessments with mediated assistance\tnon-dynamic curriculum-based speaking assessments": {
+  "label": "scaffolded assessment vs unscaffolded assessment",
+  "treatment_is_a": true
+ },
+ "scaffolding\tteacher scaffolding through the writing process\tpre-intervention baseline": {
+  "label": "teacher scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tteacher scaffolding through the writing process\tpre-test": {
+  "label": "teacher scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tteacher scaffolding through the writing-process approach\tpre-test baseline before the intervention": {
+  "label": "teacher scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "simulation\tintegrated simulation scenarios and clinical practice\ttraditional separated lectures, simulation training, and bedside teaching": {
+  "label": "integrated simulation and clinical practice vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tintegrated simulation scenarios and clinical practice\ttraditional separated teaching": {
+  "label": "integrated simulation and clinical practice vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tinteractive medical or virtual simulation teaching and clinical practice\ttraditional teaching mode": {
+  "label": "interactive simulation and clinical practice vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tinteractive medical or virtual simulation teaching with clinical practice\ttraditional teaching mode": {
+  "label": "interactive simulation and clinical practice vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tinteractive medical or virtual simulation with clinical practice\ttraditional teaching mode": {
+  "label": "interactive simulation and clinical practice vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "test-format\torthographical-cue vocabulary tests in Class 2\tphonological-cue vocabulary tests in Class 1": {
+  "label": "orthographical-cue vs phonological-cue vocabulary tests",
+  "treatment_is_a": true
  }
 }

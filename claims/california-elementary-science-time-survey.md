@@ -48,3 +48,4 @@ The report cites the 2011 WestEd report High Hopes, Few Opportunities on element
 ## Related Claims
 - [Schools reported covering 86 percent of the ELA and 85 percent of the math curriculum in 2019-20, with foreign language and fine arts least covered](curriculum-coverage-ela-math-fared-best.md) — related
 - [Statewide California mathematics achievement on the CAASPP was mostly stagnant from 2015 to 2018 and lagged behind English language arts gains](california-math-caaspp-stagnant-lags-ela.md) — related
+- [Preschool classrooms provide few exemplars of advanced linguistic content and constrained math and science instruction, limiting learning opportunities](preschool-language-math-science-content-constrained.md) — related

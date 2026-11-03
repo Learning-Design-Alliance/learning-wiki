@@ -52,6 +52,7 @@ The article recommends centering tolerance formation on three interactive method
 ## Related Strategies
 
 - [Use educational discussion and debate to form ecological and moral convictions](discussion-debate-ecological-convictions.md)
+- [Active and interactive training methods to activate the subject position](active-interactive-methods-activate-subject-position.md)
 
 ## Examples
 -

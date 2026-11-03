@@ -40,6 +40,7 @@ The reviewer recommends that future research combine quantitative and qualitativ
 
 - [Extend this line of research with quantitative methods, different sample groups, and validated scales](future-studies-quantitative-different-samples-validated-scales.md)
 - [Develop multiple language assessment strategies combining quantitative and qualitative components](multiple-assessment-strategies-quantitative-qualitative.md)
+- [Future bilingualism research should combine mixed-method designs, multiple data collection tools and analysis methods, and larger samples](bilingualism-future-research-mixed-method-larger-samples.md)
 
 ## Examples
 -

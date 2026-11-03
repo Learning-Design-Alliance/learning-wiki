@@ -53,3 +53,4 @@ Cross-level interaction models (Table 1, Block 3) added to the HLM analysis of t
 - [Classroom-level peer engagement in the fall significantly predicts children's spring school readiness skills in preschool, especially motor and content-knowledge skills](peer-engagement-predicts-preschool-school-readiness.md) — related
 - [A child's engagement relative to classroom peers positively predicts spring school readiness, while relative attention-impulse control does not](relative-engagement-status-predicts-readiness.md) — related
 - [Classroom-level attention-impulse control does not significantly predict preschool school readiness skills, and neither peer measure predicts language growth](peer-attention-impulse-control-null-preschool.md) — related
+- [Classroom composition may influence preschool learning, with opportunities to learn from peers with advanced skills suggested as beneficial](preschool-peer-composition-advanced-skills.md) — related

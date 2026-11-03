@@ -48,3 +48,4 @@ Reliability analysis of the IELTS listening test administered to 95 learners for
 ## Related Claims
 - [Cronbach's alpha equals the reliability of the scale score under classical test theory, domain sampling, and generalizability theory, and should be interpreted as a reliability coefficient](alpha-is-reliability-coefficient-knowledge-tests.md) — a broader claim this one bears on
 - [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related
+- [Test reliability was acceptable across the four listening texts](listening-test-reliability-acceptable.md) — related

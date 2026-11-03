@@ -25,7 +25,7 @@ sources:
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 72 claims (28 for, 37 mixed, 7 against) · 72 studies (21 causal, 13 quant-synthesis, 10 review, 9 associational, 7 design, 6 qualitative, 6 theoretical), `q1`–`q4` · 13 of 72 report an effect size · 64 claims rest on one study
+> **Evidence** · 73 claims (28 for, 38 mixed, 7 against) · 73 studies (21 causal, 13 quant-synthesis, 10 review, 9 associational, 7 qualitative, 7 design, 6 theoretical), `q1`–`q4` · 13 of 73 report an effect size · 65 claims rest on one study
 
 ## Description and scope
 
@@ -179,6 +179,7 @@ This pattern is scoped to a course organised around a competency map with criter
 - [Narrative synthesis: three studies found no significant exam-score difference between OBEs and CBEs, with differences emerging only under specific conditions](../claims/narrative-mixed-results-three-studies-no-difference.md) [~M]
 - [Completion of a dVSS proficiency-based curriculum was associated with significant improvement in RO-SCORE across all domains and significant reduction in NASA-TLX workload](../claims/gerull-curriculum-improved-roscore-reduced-workload.md) [+W]
 - [Attending to students' learning pace was a significant moderator of TPR vocabulary effects in one meta-analysis, but only one study implemented it: ES=2.745 versus 1.021 for the 12 studies that did not](../claims/tpr-learning-pace-moderator-significant.md) [+W]
+- [Demanding curriculum characteristics including overload, mandated flexibility constraints, and lack of time hinder implementation](../claims/macro-demanding-curriculum-hinders-implementation.md) [~W]
 
 ## Related Patterns
 - [Mastery Learning](mastery-learning.md)

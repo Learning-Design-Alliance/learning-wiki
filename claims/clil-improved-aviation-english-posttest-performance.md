@@ -51,3 +51,4 @@ Independent-samples t-test comparing posttest means of CLIL (M = 94.00, SD = 3.9
 - [Explicit contextualization instruction improves procedural aspects of historical writing without improving contextualization scores themselves](explicit-contextualization-instruction-improves-writing-procedure-not-scores.md) — related
 - [Postgraduate students in a CLIL Spanish class demonstrated greater autonomy at posttest than students in a traditional textbook class, with 40% reaching the 'largely aware' level versus 12% in the control group](clil-class-greater-autonomy-posttest.md) — related
 - [Project-based CLIL significantly improved written English competence of mathematics students over one semester](project-based-clil-improves-written-english-competence.md) — related
+- [CLIL students scored higher than non-CLIL students on a mathematics test of quadratic equations](clil-students-score-higher-math-test.md) — related

@@ -53,6 +53,7 @@ The article's intervention procedure is a structured read-aloud routine: teacher
 - [Interactive Read Aloud](interactive-read-aloud.md)
 - [Text Talk Interactive Read Aloud](text-talk-interactive-read-aloud.md)
 - [Read Alouds With Accountable Talk](read-alouds-with-accountable-talk.md)
+- [Implement a daily structured reading routine combining fixed free-reading and variable enrichment activities](daily-structured-reading-routine-strategy.md)
 
 ## Examples
 -

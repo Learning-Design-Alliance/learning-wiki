@@ -56,9 +56,11 @@ The technique works through clear signaling and behavioral momentum: a predictab
 5. Follow with the instructional activity itself; the countdown is a transition device, not the lesson. Pair with clear task framing in the style of [Direct Instruction](../patterns/direct-instruction.md).
 
 ## Related Strategies
+
 - Positive framing — narrating what students are doing right during the countdown keeps the tone corrective rather than punitive
 - Strong voice — the calm authority that makes the countdown credible
 - Do Now routines — a structured opening activity that reduces the need for attention resets in the first place
+- [Provide teachers with a concrete set of classroom management principles for stimulating lessons, clear instructions, routines, and strategic seating](classroom-management-principles-for-adhd.md)
 
 ## Examples
 - **Teach Like a Champion (Lemov, 2015)** — Technique 36, "100%," includes countdown-style pacing to achieve full compliance without confrontation. [https://teachlikeachampion.org](https://teachlikeachampion.org)

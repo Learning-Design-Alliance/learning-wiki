@@ -67,6 +67,7 @@ Attention is a limited resource, especially for students with ADHD or weak execu
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — chunking applied to motivation and task initiation
 - [Activate Background Knowledge](../strategies/activate_background_knowledge.md) — leveraging existing knowledge as an attentional and comprehension anchor
 - [Leverage what students do well and enjoy to address their learning challenges](leverage-strengths-to-mitigate-challenges.md)
+- [Provide teachers with a concrete set of classroom management principles for stimulating lessons, clear instructions, routines, and strategic seating](classroom-management-principles-for-adhd.md)
 
 ## Examples
 - **Elementary classroom:** A third-grader with ADHD sits beside the teacher, receives directions one step at a time with a pictorial checklist, and earns movement breaks every 20 minutes; the teacher tracks on-task minutes per period to evaluate the package.

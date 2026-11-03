@@ -53,3 +53,4 @@ Exploratory analysis of open-ended responses from teacher and coach data-collect
 - [Teachers least often taught the aspects of the ERWC curriculum associated with writing and metacognition](teachers-least-often-taught-writing-and-metacognition.md) — related
 - Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence — related
 - [Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery](pacing-calendars-standardized-assessments-impediments.md) — related
+- [Demanding curriculum characteristics including overload, mandated flexibility constraints, and lack of time hinder implementation](macro-demanding-curriculum-hinders-implementation.md) — related

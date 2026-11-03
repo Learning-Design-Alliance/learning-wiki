@@ -50,3 +50,4 @@ Review finding across the three studies (Second Step, RULER, 4Rs) that included 
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - [CARE for Teachers improved the emotional support domain of observed classroom interaction quality (CLASS)](care-teachers-improves-classroom-emotional-support.md) — related
+- [Prior randomized evaluation of the 4Rs program found moderate to large positive impacts on teacher practices and small positive impacts on student outcomes](prior-4rs-rct-impacts.md) — related

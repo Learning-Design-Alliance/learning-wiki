@@ -53,3 +53,4 @@ Quasi-experiment with an experimental class using ChatGPT and a control class us
 - [Student interpreters who practiced with an automated scoring system outperformed the control group on total interpreting scores at post-test](automated-scoring-improves-interpreting-total-scores.md) — related
 - Post-test mean differences favored the ChatGPT group on knowing, applying, and reasoning subscales and overall at α=0.05 — related
 - [Studies report experiment classes using JAS achieve higher average study results than control classes](jas-experiment-class-higher-than-control.md) — related
+- [Experimental groups outperformed control groups on post-experiment test by 6.45%](culture-activities-posttest-gain-6-45-percent.md) — related

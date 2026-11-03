@@ -56,3 +56,4 @@ A t-test on global satisfaction ratings from 1,185 students on 27 e-learning cou
 - [There is a negative relationship between presential sessions and female students' global valuation of e-learning, but a positive one for male students](presential-sessions-negative-female-valuation.md) — related
 - [Regression models explain approximately 75 percent of variability in students' global satisfaction with e-learning courses](regression-models-explain-75-percent-e-learning-satisfaction.md) — related
 - [Despite more challenges, minoritized, female, and lower-income students were more likely to rate their online STEM experience as good as or better than in person](minoritized-female-low-income-rated-online-experience-equal-or-better.md) — related
+- [Female students previewed significantly fewer vodcasts than male students before lectures.](gender-difference-in-vodcast-previewing.md) — related

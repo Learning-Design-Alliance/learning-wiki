@@ -48,3 +48,4 @@ Discussion of the pre/post design with experimental and control groups: the arti
 - [Overconfidence (bias) decreased from pretest to posttest across all groups including control, with no group differences](bias-decreased-across-groups-no-feedback-effect.md) — a broader claim this one bears on
 - [Both treatment and control groups showed significant pre-post declines in grades and declines in discipline referrals over the transition year](time-effect-grades-discipline-decline-after-transition.md) — a broader claim this one bears on
 - [Students' interest in the lesson content declined as the semester progressed regardless of condition](lesson-interest-declines-over-time.md) — a broader claim this one bears on
+- [Students in the treatment group decreased in self-awareness while control students increased, a finding the authors attribute to the self-consciousness measure used.](rd-program-self-awareness-decreased-in-treatment-group.md) — related

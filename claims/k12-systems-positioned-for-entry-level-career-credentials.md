@@ -59,3 +59,4 @@ This is the article's own framing assertion in the CREATE K-12 pillar, offered w
 - [The gap between technical AI exposure and actual employer adoption is a limited opportunity window for CTE programs to shape adoption](exposure-adoption-gap-opportunity-window.md) — related
 - [Changes in the credentialing market have produced demand for shorter credentials focused around job market competencies](credentialing-market-demand-shorter-competency-credentials.md) — related
 - [K-12 stakeholders across sectors report enthusiasm for competency-based learning, assessment, and recognition technologies](cross-sector-enthusiasm-competency-recognition-k12.md) — related
+- [Participation in career and technical education or working while in high school may relate to better employment outcomes for students with disabilities](cte-and-inschool-employment-employment-hypothesis.md) — a narrower finding that bears on this claim

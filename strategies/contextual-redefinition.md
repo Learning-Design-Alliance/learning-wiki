@@ -64,6 +64,7 @@ The strategy leverages inference from context while protecting against the well-
 - [Pretesting](pretesting.md) — shares the guess-then-feedback mechanism
 - [Morphological Analysis](morphological-analysis-instruction.md) — complements contextual inference with word-part analysis
 - [Teach target vocabulary explicitly with read-aloud, repetition, context guessing, word lists, and multi-slide word-meaning-L1-picture presentations](explicit-vocabulary-instruction-intentional-environment-recipe.md)
+- [Using collective or shared learning to resolve unknown concepts during CLIL lessons](clil-collective-learning-strategy.md)
 
 ## Examples
 - **Before-reading vocabulary routine**: a middle-school science teacher presents "evaporate" in "The puddle evaporated, leaving only a faint ring of dust," collects student guesses, then confirms the definition before students read the water-cycle chapter.

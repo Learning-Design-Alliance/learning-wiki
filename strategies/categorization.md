@@ -57,8 +57,10 @@ Expertise research shows that what distinguishes experts is not only richer know
 5. Ask learners to re-sort the original set, then apply the categories to new cases ([Application](../elements/application.md)).
 
 ## Related Strategies
+
 - [Comparing cases](../elements/comparing-cases.md) — the pairwise comparison that categorization generalizes to whole sets
 - [Concept attainment](../patterns/concept-attainment.md) — the induction-based approach to teaching a single concept via positive and negative instances
+- [Teach students to generate differences between related concepts and associate each feature with its concept name before assessment](generate-differences-associate-features-strategy.md)
 
 ## Examples
 - **Physics problem sorting** — Chi et al.'s classic paradigm: novices sort mechanics problems by "inclined plane" or "pulley"; experts sort by conservation of energy or Newton's second law. Replicating this as a pre-instruction activity reveals and reshapes novice intuitions.

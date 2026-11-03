@@ -52,3 +52,4 @@ Analysis of 578 thematic units from 162 written products identified integration 
 - [Sixth graders mostly select relevant ideas well from multiple online texts when using a snippet tool](sixth-graders-select-relevant-ideas-well-snippet-tool.md) — related
 - [Self-reported multiple-text strategies did not predict intratextual comprehension, where prior knowledge was the unique predictor](strategies-not-predict-intratextual-comprehension.md)
 - [Snippet selection contributes to integration quality over and above reading fluency and reading comprehension](snippet-selection-predicts-integration-above-reading-skills.md) — related
+- [Embedded and mixed are the most frequent intertextuality types in the analyzed reading passages](embedded-mixed-intertextuality-most-frequent.md) — related

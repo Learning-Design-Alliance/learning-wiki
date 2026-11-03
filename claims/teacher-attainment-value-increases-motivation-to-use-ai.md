@@ -53,3 +53,4 @@ Theoretical argument in the attainment value section, with no new data: attainme
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Teachers' subjective task values for TSRs—intrinsic, attainment, utility, and cost—shape their motivation to build relationships](teacher-values-shape-tsr-motivation.md) — related
+- [Teachers' disbelief about curricular change effectiveness reduces willingness to implement it](micro-teacher-disbelief-reduces-implementation-willingness.md) — a narrower finding that bears on this claim

@@ -12,7 +12,7 @@ generated:
 # Experiential Learning Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (8 for, 5 mixed) · 7 studies (4 causal, 2 review, 1 quant-synthesis), `q2`–`q3` · 1 of 7 report an effect size · 13 claims rest on one study
+> **Evidence** · 16 claims (8 for, 8 mixed) · 8 studies (4 causal, 2 review, 1 quant-synthesis, 1 associational), `q2`–`q3` · 1 of 8 report an effect size · 16 claims rest on one study
 
 ## Description
 David Kolb's Experiential Learning Theory (ELT) is "a holistic model of the learning process and a multi-linear model of adult development" (Baker, Jensen, & Kolb, 2002, p. 51), rooted explicitly in Dewey, Kurt Lewin, and Piaget. It models learning as a four-stage cycle — concrete experience, reflective observation, abstract conceptualization, and active experimentation — organized around two underlying dialectical continuums: **apprehension** (concrete experience) versus **comprehension** (abstract conceptualization), and **intension** (reflective observation) versus **extension** (active experimentation). Kolb's central theoretical claim is that learning requires actively resolving the discomfort of whichever pole of each continuum a learner is *not* naturally comfortable with: "perception alone is not sufficient for learning; something must be done with it," and "transformation alone cannot represent learning, for there must be something to be transformed" (Baker, Jensen, & Kolb, pp. 56–67). This dialectical-resolution requirement is the theory's core explanatory mechanism, distinguishing it from a purely descriptive account of "learning by doing."
@@ -55,6 +55,9 @@ In response to the last two criticisms, some accounts propose a **revised experi
 - [There is an interaction effect between cooperative learning model and Kolb learning style on learning results in Basics of Political Science](../claims/interaction-cooperative-model-learning-style-outcomes.md) [~W] — attached 2026-11-03 from Sugiharto (2015), which proposed "Kolb learning styles (assimilator and accommodator) as a moderator of instructional-model effects".
 - [Accommodator-style students learned Basics of Political Science better with GI than with STAD](../claims/accommodators-higher-with-gi-than-stad.md) [~W] — attached 2026-11-03 from Sugiharto (2015), which proposed "Kolb learning styles (assimilator and accommodator) as a moderator of instructional-model effects".
 - [Assimilator-style students learned Basics of Political Science better with STAD than with GI](../claims/assimilators-higher-with-stad-than-gi.md) [~W] — attached 2026-11-03 from Sugiharto (2015), which proposed "Kolb learning styles (assimilator and accommodator) as a moderator of instructional-model effects".
+- [Assimilating and Diverging learners report significantly higher observational modelling through mobile Facebook than Converging and Accommodating learners](../claims/assimilating-diverging-higher-observational-modelling-mobile-facebook.md) [~W]
+- [Assimilating and Diverging learners significantly outperform Converging and Accommodating learners on course achievement when learning via mobile Facebook](../claims/assimilating-diverging-outperform-converging-accommodating-mobile-facebook-achievement.md) [~W]
+- [Assimilating and Diverging learners report significantly higher self-efficacy toward learning in mobile Facebook than Converging and Accommodating learners](../claims/assimilating-diverging-higher-self-efficacy-mobile-facebook.md) [~W]
 
 ## Related Theories
 

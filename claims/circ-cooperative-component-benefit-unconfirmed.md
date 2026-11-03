@@ -53,3 +53,4 @@ Alternate contrast from the same cluster randomized trial (Appendix D.3): CIRC v
 - [Comprehension gains appeared on main-idea and inference items but not on word-meaning-guessing items](item-level-gains-except-guessing-meaning.md) — related
 - [The authors observed that CIRC students gained vocabulary, became more able to identify main ideas and references, and worked in an enjoyable, enthusiastic group climate](circ-observed-vocabulary-and-climate-gains.md) — related
 - [Post-test reading comprehension means were 81.45 for the CIRC group versus 76.09 for the control group](circ-posttest-means-81-45-vs-76-09.md) — related
+- [The study's results contrast with claims that students in Islamic countries cannot be taught through cooperative learning](ctbl-contradicts-ab-raza-islamic-countries-claim.md) — related

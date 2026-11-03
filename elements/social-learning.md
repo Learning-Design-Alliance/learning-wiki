@@ -13,7 +13,7 @@ generated:
 # Social Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 34 claims (20 for, 12 mixed, 2 against) · 32 studies (9 causal, 8 qualitative, 5 quant-synthesis, 4 review, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 5 of 32 report an effect size · 32 claims rest on one study
+> **Evidence** · 35 claims (21 for, 12 mixed, 2 against) · 33 studies (9 causal, 9 qualitative, 5 quant-synthesis, 4 review, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 5 of 33 report an effect size · 33 claims rest on one study
 
 ## Description
 Social learning is the element in which interaction with peers, models, or communities is treated as a direct source of learning.
@@ -58,6 +58,7 @@ Social learning is the element in which interaction with peers, models, or commu
 - [The authors observed higher engagement, enthusiasm, and peer study-group use in the Kahoot group than in the control group](../claims/kahoot-engagement-peer-study-groups-observed.md) [+W]
 - [No significant difference in interest between male and female students taught electrochemistry with Round-robin](../claims/round-robin-electrochemistry-interest-no-gender-difference.md) [~W]
 - [Teamwork communication pedagogy through electronic networking sites increased student interest in learning](../claims/teamwork-electronic-networking-increased-interest.md) [+W]
+- [Both Dutch and Finnish pupils felt they had learned about the other culture and found interacting with pupils of a different cultural background interesting](../claims/tila-intercultural-gains-both-groups.md) [+W]
 
 ## The evidence by question
 - *Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]

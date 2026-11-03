@@ -58,3 +58,4 @@ Challenge finding from the systematic review's thematic analysis. The review sta
 - [Students reported AWA highlighting provoked reflection on their writing despite questioning its accuracy](awa-highlighting-provokes-student-reflection.md) — a narrower finding that bears on this claim
 - [AWE is more effective when complemented by teacher feedback rather than used as a standalone tool](awe-more-effective-with-teacher-feedback.md) — related
 - [AI-generated virtual patients exhibit limitations including inauthentic conversational flow, excessive agreeableness, role departure, and clinical inaccuracy](ai-virtual-patient-limitations-flow-agreeableness-role-departure.md) — related
+- [The Writing Pal automated writing evaluation achieves expert-equivalent accuracy, with 44-55% exact and 94-96% adjacent accuracy](writing-pal-awe-expert-equivalent-accuracy.md) — reports the opposite

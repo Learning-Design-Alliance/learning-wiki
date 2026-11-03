@@ -22,7 +22,7 @@ sources:
 # Pre-reading Questioning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (7 for, 9 mixed, 2 against) · 27 studies (10 causal, 8 review, 7 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 10 of 27 report an effect size · 9 claims rest on one study
+> **Evidence** · 19 claims (8 for, 9 mixed, 2 against) · 28 studies (11 causal, 8 review, 7 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 11 of 28 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +127,7 @@ Claims this page cited before it was rewritten as a conditional model, and claim
 - [Prior-knowledge activation instructions before study had little effect on retention in Experiment 2](../claims/prior-knowledge-activation-little-effect-on-retention.md) [-M] — open talk about headings before study; bears against open brainstorming as a pre-reading step, not against specific questions.
 - [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors …](../claims/predicting-contextual-analysis-rereading-most-frequent.md) [~W] — counts of coded behaviours among 1,570 students; descriptive, does not test whether predicting helps.
 - [Upper-level students most often reported contextual analysis, setting the purpose for reading, monitoring comprehension, and rereading](../claims/secondary-students-top-metacognitive-behaviors.md) [~W] — counts among 488 grade 7–12 students; shows purpose-setting is reported, not that it helps.
+- [Anticipatory reading guides significantly improve reading comprehension scores for third-grade struggling readers compared to traditional instruction.](../claims/anticipatory-reading-guides-improve-third-grade-comprehension.md) [+M] — attached 2026-11-03 from Ortlieb (2013), which proposed "Teach struggling readers to preview questions before reading to direct attention and set a purpose."; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -62,6 +62,8 @@ Incidental word learning from context is real but modest: learners pick up only 
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — background knowledge is what makes contextual inference possible
 - [Wide Reading](../strategies/wide-reading.md) — the volume-of-reading engine that supplies the repeated encounters implicit learning depends on *(if unavailable, see Nagy et al., 1985 on volume of reading and incidental learning)*
 - [Teach vocabulary through contextual-clue inference strategies rather than mechanical grammar questions](contextual-clue-vocabulary-inference-strategy.md)
+- [Combine direct vocabulary teaching with multiple story encounters, especially for less-able learners](combine-direct-teaching-with-story-read-aloud.md)
+- [Teach vocabulary through context clues in supplementary reading passages](vocabulary-through-context-clues-supplementary-texts.md)
 
 ## Examples
 - A science teacher reading a passage aloud pauses at *sediment*, says "bits of rock and soil that settle to the bottom," and moves on — a two-second gloss that preserves comprehension

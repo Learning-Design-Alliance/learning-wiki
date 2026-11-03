@@ -41,7 +41,8 @@ Focused communication tasks are communicative tasks "designed to elicit producti
 - [Fct Implicit Knowledge Elicited Imitation](../claims/fct-implicit-knowledge-elicited-imitation.md) [+M]
 
 ## Related Designs
-- 
+
+- [Time-pressured picture-cued writing tasks elicit obligatory article use for measuring implicit knowledge.](picture-cued-writing-task-implicit-knowledge.md)
 
 ## Examples
 -

@@ -26,6 +26,7 @@ The review applies a structured evidence-rating framework in which programs rece
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **What Works Clearinghouse evidence-based standards for reviewing transition program research**: The review applies a structured evidence-rating framework in which programs receive categorical effectiveness ratings such as mixed effects and potentially positive effects for specific outcome domains like employment, postsecondary education, and independent living. The article states it "uses evidence-based standards developed by the What Works Clearinghouse to review the research literature on programs that help students with disabilities make transitions after high school." The framework organizes findings by program type and outcome domain rather than by single pooled estimates. (R. Brian Cobb et al. (2013))
+- **What Works Clearinghouse evidence standards and reporting indicators applied to transition research**: The review applies the WWC Procedures and Standards Handbook, Version 2.1, including pilot single-case design standards, to rate transition studies. Reporting indicators include the rating of effectiveness (positive, potentially positive, mixed, no discernible, potentially negative, or negative effects), the improvement index (percentile-point change for an average student), and the extent of evidence rating (small versus medium-to-large, based on number of studies, schools, and participants). SCDs contribute evidence only when at least five studies from three distinct research teams with at least 20 participants meet pilot standards. (Cobb et al. (2013))
 
 ### Claims
 - [Community-based work programs for transition-age students with disabilities show mixed effects on employment outcomes](../claims/community-based-work-programs-mixed-employment-effects.md) [+M]
@@ -37,8 +38,8 @@ The review applies a structured evidence-rating framework in which programs rece
 
 ## Key Sources
 - R. Brian Cobb, Stephen Lipscomb, Jennifer Wolgemuth, Theresa Schulte, Abigail Veliquette, Morgen Alwell, Keriu Batchelder, Robert Bernard, Paul Hernandez, Helen Holmquist-Johnson, Rebecca Orsi, Laura Sample McMeeking, Jun Wang, Andrea Welnberg. (2013). Improving Post-High School Outcomes for Transition-Age Students with Disabilities: An Evidence Review. Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. https://www.mathematica.org/publications/improving-posthigh-school-outcomes-for-transitionage-students-with-disabilities-an-evidence-review
-
 <!-- merged 2026-10-10 from theories/wwc-evidence-standards-transition-review ("What Works Clearinghouse evidence-based standards for reviewing transition program research"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Cobb, R. B., Lipscomb, S., Wolgemuth, J., Schulte, T., Veliquette, A., Alwell, M., Batchelder, K., Bernard, R., Hernandez, P., Holmquist-Johnson, H., Orsi, R., Sample McMeeking, L., Wang, J., and Weinberg, A. (2013). Improving Post-High School Outcomes for Transition-Age Students with Disabilities: An Evidence Review (NCEE 2013-4011). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. http://ies.ed.gov/pubsearch/pubsinfo.asp?pubid=NCEE20134011
 
 # What Works Clearinghouse evidence-based standards for reviewing transition program research
 

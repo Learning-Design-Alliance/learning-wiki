@@ -13,7 +13,7 @@ generated:
 # Operations and Place Value
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 77 claims (54 show a difference, 14 mixed, 9 no difference) · 48 studies (25 causal, 13 associational, 5 quant-synthesis, 2 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 48 report an effect size · 75 claims rest on one study
+> **Evidence** · 78 claims (55 show a difference, 14 mixed, 9 no difference) · 49 studies (26 causal, 13 associational, 5 quant-synthesis, 2 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 49 report an effect size · 76 claims rest on one study
 
 ## Description
 This page brings together two factors from the Learner Variability Navigator. Operations covers addition, subtraction, multiplication and division: at first learners treat an operation as an instruction about which calculation to do, and LVN stresses that they also need a conceptual understanding of what each operation means, which lets them estimate an approximate answer as well as calculate an exact one quickly and accurately. Place value is understanding that in the base-ten system the same digit stands for different values (ones, tens, hundreds) depending on its position, which children work out as they explore the size of numbers and how numbers relate.
@@ -114,6 +114,7 @@ Operations are assessed with standardised numerical operations subtests that ask
 - [The intervention produced significant effects on the Addition/Subtraction Combinations, Place Value, and Number Sequences subtests but not on Magnitude Comparisons](../claims/temi-pm-subtest-effects-asc-pv-ns.md) [~M] — instruction changes it
 - [Domain-general abilities moderate fraction intervention effects but whole-number calculation skill does not](../claims/domain-general-abilities-moderate-fraction-intervention-effects.md) [-W] — an instructional effect differs with it
 - [A single session of mental rotation training improves math calculation performance in 6- to 8-year-olds](../claims/mental-rotation-training-improves-math-calculation-children.md) [+M] — instruction changes it
+- [Pretest computation score was a large predictor of posttest computation competence, indicating high continuity in performance](../claims/pretest-score-large-predictor-posttest.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Numerical Operations Subtest of the Wechsler Individual Achievement Test (WIAT-III)** (Wechsler, 2009): Standardized test of procedural knowledge of Operations: writing numbers, counting and solving arithmetic problems, up to fractions and negative integers.

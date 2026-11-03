@@ -39,6 +39,7 @@ The authors propose a forward-looking research agenda for school choice policy: 
 ## Related Strategies
 
 - [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
+- [Future research agenda: detailed implementation data, qualitative study, and cross-setting comparison](future-research-life-wide-learning-agenda.md)
 
 ## Examples
 -

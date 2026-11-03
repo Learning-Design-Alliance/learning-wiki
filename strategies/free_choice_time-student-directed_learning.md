@@ -60,9 +60,11 @@ Choice taps learners' needs for autonomy, one of the three basic psychological n
 5. **Reflect and share.** Close with brief reflection on what was accomplished and what to choose next time, building self-regulation over successive cycles.
 
 ## Related Strategies
+
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — the canonical routine structure for making free choice time productive
 - [Montessori Prepared Environment](montessori_prepared_environment.md) — a fully developed curricular model built around self-chosen work in a designed environment
 - [Genius Hour / 20% Time](genius_hour_20_time.md) — interest-driven open inquiry applied to a fixed weekly time block
+- [Let students choose their own writing topics to build confidence and increase communicative language ability.](student-chosen-writing-topics.md)
 
 ## Examples
 - **Responsive Classroom's Academic Choice** ([https://www.responsiveclassroom.org](https://www.responsiveclassroom.org)) — a planning–working–reflecting routine in which K–8 students choose among teacher-designed tasks, used widely in US elementary schools.

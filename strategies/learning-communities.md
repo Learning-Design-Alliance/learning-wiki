@@ -72,6 +72,7 @@ Learning communities work because knowledge is socially constructed and because 
 - [Apply peer-facilitated learning in online programming courses to improve learning outcomes](apply-peer-facilitated-learning-online-programming.md)
 - [Teachers should structure group work so student communication stays on-task and productive](structure-group-communication-on-task.md)
 - [Structure disability awareness programs to include extensive personal contact, joint participation, equal status, and cooperative interdependence](structure-interaction-equal-status-cooperative-interdependence.md)
+- [Structure positive interdependence through goal, role, and reward interdependence in cooperative base groups](structure-positive-interdependence-goal-role-reward.md)
 
 ## Examples
 - **[Community of Inquiry](../principles/community-of-inquiry.md)** frameworks in online courses — sustained forum discourse combining social, cognitive, and teaching presence (see the [Community of Inquiry framework](https://www.thecommunityofinquiry.org)).

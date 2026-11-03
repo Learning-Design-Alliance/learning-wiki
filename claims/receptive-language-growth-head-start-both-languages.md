@@ -55,3 +55,4 @@ First-stage growth curve models of the four language measures (TELD-3, PPVT-III,
 - [DLL children can catch up to monolingual norms in English vocabulary, but need substantial time and exposure to do so](dll-catch-up-over-time.md) — related
 - [Bilingual children score higher in English than Spanish, with the language effect larger in the expressive modality](english-spanish-language-by-modality-interaction.md) — related
 - [Dual language narrative intervention produced a large English vocabulary gain (d = .98) but only a small Spanish vocabulary gain (d = .34)](english-vocabulary-large-effect-spanish-small.md) — related
+- [Head Start teachers' education and book-reading practices are associated with children's vocabulary growth over the school year](head-start-teacher-education-book-reading-vocabulary-growth.md) — related

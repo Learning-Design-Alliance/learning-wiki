@@ -48,6 +48,7 @@ The article recommends sequencing writing support in distinct stages for young w
 
 - Harry Three Stage Writing Tutor
 - [Process Writing](process-writing.md)
+- [Record the types of errors made so as not to keep making the same types of errors, and use writing feedback to support other English skills.](error-recording-and-cross-skill-feedback.md)
 
 ## Examples
 -

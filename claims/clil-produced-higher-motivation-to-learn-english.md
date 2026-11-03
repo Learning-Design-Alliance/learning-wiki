@@ -48,3 +48,4 @@ Independent-samples t-test comparing motivation questionnaire scores of CLIL (M 
 - [CLIL instruction significantly improved aviation English posttest performance compared to traditional instruction](clil-improved-aviation-english-posttest-performance.md) — related
 - [CLIL instruction produced significantly more positive attitudes toward language learning than traditional instruction](clil-produced-more-positive-attitudes-toward-language-learning.md) — related
 - [Postgraduate students in a CLIL Spanish class demonstrated greater autonomy at posttest than students in a traditional textbook class, with 40% reaching the 'largely aware' level versus 12% in the control group](clil-class-greater-autonomy-posttest.md) — related
+- [Students' attitudes toward learning mathematics in English remained positive or improved during the CLIL experience](clil-positive-attitudes-mathematics.md) — related

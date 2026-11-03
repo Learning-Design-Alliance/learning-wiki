@@ -96,6 +96,7 @@ Graphic organizers work by externalizing structure, reducing the working-memory 
 - [Chunking Information](chunking_information.md) — organizers are the visual enactment of chunking: grouping related items into a single structured unit
 - [Note-Taking Structures](note-taking_structures.md) — structured notes (Cornell, matrices) are learner-generated organizers applied to lectures and readings
 - [Provide concept maps and hypermaps so learners see conceptual relationships and their own location in the system](concept-maps-hypermaps-navigation-support.md)
+- [Framing strategy using visual grids to organise mathematical concepts](framing-visual-grid-strategy.md)
 
 ## Examples
 - **Inspiration / Kidspiration (https://www.inspiration.com)** — concept-mapping software widely used in K–12 for learner-constructed graphic organizers across content areas.

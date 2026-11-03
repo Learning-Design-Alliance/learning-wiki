@@ -50,3 +50,4 @@ Stahl summarizes Pollack and Ben-David Kolikant's case study of dyads with oppos
 - [Learning partners converge strongly in their use of knowledge resources during collaboration](strong-convergence-resource-use-during-collaboration.md) — reports the opposite
 - [The fine-tuned chatbot LlamaLo extensively expanded the user's dialogic space through deepening and widening acts across ten contentious-topic discussions](llamalo-expanded-user-dialogic-space.md) — related
 - [LlamaLo exhibited bias and presented contested assertions as facts, notably in the Israeli-Palestinian conflict discussion](llamalo-bias-contested-assertions.md) — related
+- [Paired and grouped collaborative activities in blended learning promoted authorial production and reflective meta-analysis in the studied dyad](blended-collaborative-activities-promote-authorial-production.md) — related

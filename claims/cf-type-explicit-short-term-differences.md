@@ -78,3 +78,4 @@ Factorial repeated measures ANOVA on error correction test scores with time and 
 - [Both feedback conditions outperformed the no-feedback control group on grammar posttest scores](feedback-groups-outperform-control-grammar-young-efl.md) — related
 - [Posttest grammar scores differed significantly among the three feedback groups (omnibus ANOVA)](posttest-anova-significant-group-difference-grammar.md) — related
 - [Explicit metalinguistic instruction on L1-L2 differences improved learners' English language production](explicit-metalinguistic-instruction-improves-production.md) — related
+- [Written corrective feedback facilitates acquisition of both explicit and implicit knowledge of English articles among low-intermediate EFL learners.](written-cf-facilitates-explicit-and-implicit-knowledge-articles.md) — a broader claim this one bears on

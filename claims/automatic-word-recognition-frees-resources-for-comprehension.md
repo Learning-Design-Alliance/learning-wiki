@@ -139,3 +139,4 @@ either. Any design that rests on this claim is resting on a mechanism, and shoul
 - [Low-performing students struggle more with working memory demands at the inferring and mapping stages of relational reasoning](low-performers-working-memory-inferring-mapping.md) — related
 - [Fluency gains from rereading follow the power law: improvement occurs up to about the fourth reading and then diminishes](power-law-four-rereadings-limit.md) — related
 - [A meta-analysis of 18 repeated reading studies found moderate mean fluency gains and smaller comprehension gains, with adult implementation, speed cueing, and three to four readings as effective components](therrien-meta-analysis-repeated-reading-components.md) — related
+- [Story schema knowledge is acquired through continuous interaction with stories during a reading intervention](story-schema-acquired-through-intervention.md) — a narrower finding that bears on this claim

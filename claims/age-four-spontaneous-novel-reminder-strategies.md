@@ -53,3 +53,4 @@ In the same preregistered study's transfer phase, children who had used the demo
 - [From age 6, children deploy effective external strategies on most trials, with strategy number, combination, and order varying widely within and across age groups](from-age-six-effective-external-strategies-most-trials.md) — related
 - [Most 3-year-olds deployed a demonstrated external marking strategy, but none modified it to solve a conceptually similar transfer task](three-year-olds-copy-but-do-not-modify-external-strategy.md) — related
 - [Creative independence develops through three levels: copying, reproductive-and-creative, and constructive-and-creative](three-levels-creative-independence-copying-reproductive-constructive.md) — related
+- [Strategy transfer to social studies content was incomplete without teacher reminders.](anticipatory-guide-transfer-social-studies.md) — related

@@ -49,3 +49,4 @@ Author's summary classification of the 10,000-theme Bowdoin error data (the page
 - [Carelessness accounts for 23 per cent of spelling errors in college students' written themes](carelessness-23-percent-spelling-errors.md) — related
 - [Silent-letter omission and insertion errors together comprise 55 per cent of real spelling errors](silent-letter-errors-55-percent.md) — related
 - [Over 25 per cent of college students cannot spell common words, and 50 per cent fail on words such as accommodate and rhythm](college-students-fail-common-word-spelling.md) — related
+- [CLIL students showed high English proficiency with no grammatical or spelling errors identified in recorded classroom speech](clil-students-high-english-proficiency.md) — related

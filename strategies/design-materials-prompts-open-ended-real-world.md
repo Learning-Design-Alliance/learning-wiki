@@ -50,6 +50,7 @@ The article's discussion identifies specific design features that its cited lite
 - [Simulations + Structured Activity](simulations-structured-activity.md)
 - [Encourage Active Learning](encourage_active_learning.md)
 - [Make disciplinary norms of thinking explicit for effective reflection](make-disciplinary-norms-of-thinking-explicit.md)
+- [Design polemic web forum tasks with multiple voices and student-centred decisions to prompt freedom to learn](polemic-forum-multiple-voices-freedom-to-learn.md)
 
 ## Examples
 -

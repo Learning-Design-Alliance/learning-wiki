@@ -28,6 +28,7 @@ The article's second model assesses collaboration "from a dialogical perspective
 - [Cohesion-graph model for automated collaboration assessment](cohesion-graph-model-for-automated-collaboration-assessment.md)
 - [Bakhtinian dialogic framework of four interconnected themes — voices, expanding the dialogue, inter-animation, and relations](bakhtinian-dialogic-framework-of-four-interconnected-themes-voices-expanding-the-dialogue.md)
 - [Dialogical self theory (DST) I-positions as a CSCL analytical framework](dialogical-self-theory-dst-i-positions-as-a-cscl-analytical-framework.md)
+- [Dialogic thematic analysis: centripetal and centrifugal forces as an analytic framework for meaning-making](dialogic-thematic-analysis-centripetal-and-centrifugal-forces-as-an-analytic-framework-for.md)
 
 ## Key Sources
 - Mihai Dascalu, Stefan Trausan-Matu, Danielle S. Mcnamara, Philippe Dessus. (2015). ReaderBench – Automated Evaluation of Collaboration based on Cohesion and Dialogism. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-015-9226-y

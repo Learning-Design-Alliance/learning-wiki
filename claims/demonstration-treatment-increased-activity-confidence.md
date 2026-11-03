@@ -47,3 +47,4 @@ The researcher's observational interpretation in the Discussion section, contras
 ## Related Claims
 - [Demonstration technique significantly improves the vocabulary and grammar element of speaking in EFL learners](demonstration-technique-improves-vocabulary-grammar-efl-speaking.md) — related
 - [Before treatment, most EFL learners showed problems in speaking, especially in vocabulary and grammar](efl-learners-pretest-vocabulary-grammar-problems.md) — related
+- [After the scaffolding intervention, learners could more confidently express their ideas in their writings.](scaffolding-increased-writing-confidence.md) — related

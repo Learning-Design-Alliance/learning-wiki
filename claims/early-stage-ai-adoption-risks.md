@@ -53,3 +53,4 @@ This is the authors' analytical argument, not an empirical test: the article off
 - [The article argues that formal rules and enforcement mechanisms alone are insufficient to shape student AI-use behaviour in practice](rules-and-enforcement-insufficient-for-ai-behaviour.md) — related
 - [Existing upskilling frameworks accelerate single stages and leave four gaps: fragmentation, missing verification, shallow default LLM pedagogy, and lack of external outcome measurement](four-gaps-existing-upskilling-frameworks.md) — related
 - [The article argues that widespread adoption of generative AI creates a viable means of addressing management education's memorization-centered challenges](genai-viable-means-management-education-reform.md) — related
+- [Misalignment between curricular change and high-stakes testing policy is a macro-level obstacle to adoption](macro-testing-policy-misalignment-hinders-adoption.md) — related

@@ -66,3 +66,4 @@ Year 2 teacher survey ratings showed statistically significant impacts on both l
 ## Related Claims
 - [The performance feedback intervention positively impacted both examined measures of principal leadership, including moving teachers from the 50th to the 60th percentile on teacher-principal trust in Year 1](feedback-intervention-improved-principal-leadership.md) — possibly the same claim (merge candidate)
 - [The feedback intervention raised students' mathematics achievement in Year 1 by about four weeks of learning, with a similar but non-significant cumulative effect in Year 2 and no significant reading/ELA effect in either year](feedback-boosted-year1-math-achievement-only.md) — related
+- [TTI had no statistically significant impacts on school climate, collaboration, or how students were assigned to teachers](tti-no-significant-impacts-collaboration-student-assignment.md) — related

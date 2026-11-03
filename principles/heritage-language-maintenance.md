@@ -170,9 +170,11 @@ Heritage-language proficiency, school-language conversational fluency, school-la
 - [Accessible Vocabulary and Syntax](accessible-vocabulary-syntax.md) — keeping the school language of materials within reach while it is acquired
 
 ## Examples
+
 - [Primary Language Support with Bilingual Texts](../strategies/primary_language_support_with_bilingual_texts.md)
 - [Connecting ELLs' Background Knowledge to Content](../strategies/connecting_ells_background_knowledge_to_content.md)
 - [Bilingual Books and Cognate Attention](../strategies/bilingual-books-and-cognate-attention-transfer.md)
+- [Additive multilingualism as a proposed paradigm for Rwanda: maintaining the local language while students learn other languages](../designs/additive-multilingualism-rwanda-proposal.md)
 
 ## Key Sources
 - Hansen, L., Umeda, Y., & McKinney, M. (2002). Ragged interlanguage morphology and orders of acquisition issues. *Journal of Multilingual and Multicultural Development, 23*(1-2), 6-20.

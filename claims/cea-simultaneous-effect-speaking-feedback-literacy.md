@@ -55,3 +55,4 @@ Quasi-experiment with pretest-posttest control group design; 60 first-semester v
 - [Group dynamics-oriented instruction significantly improves Iranian EFL learners' speaking ability](gdoi-improves-speaking-ability-iranian-efl.md) — related
 - [Introducing regular formative self-assessment significantly improves EFL learners' self-efficacy in a quasi-experimental institute setting](self-assessment-improves-efl-self-efficacy.md) — related
 - [Self-assessment has a significant simultaneous effect on students' independence and writing competence together](self-assessment-simultaneous-effect-manova.md) — related
+- [Integrating dynamic speaking assessments with standardized criterion-referenced assessments significantly improves post-test performance](integrated-dynamic-standardized-assessment-improves-post-cra.md) — related

@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 228 claims (118 show a difference, 55 mixed, 55 no difference) · 180 studies (74 associational, 73 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 31 of 180 report an effect size · 227 claims rest on one study
+> **Evidence** · 230 claims (120 show a difference, 55 mixed, 55 no difference) · 181 studies (74 causal, 74 associational, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 31 of 181 report an effect size · 229 claims rest on one study
 
 ## How to read this page
 
@@ -313,6 +313,8 @@ A learner's economic and social position: family income or poverty (often measur
 - [The programme significantly improved enjoyment of reading for pupils not eligible for free school meals but not for FSM-eligible pupils](../claims/sarp-enjoyment-fsm-differential.md) [~M] — an instructional effect differs by group
 - [TEEP showed no impact on attainment for students eligible for free school meals](../claims/teep-no-impact-fsm-subgroup.md) [-M] — an instructional effect differs by group
 - [The intervention was equally effective for high and low SES families, with the ACT effect equal to about 50% of the SES gap in math/science test scores](../claims/ses-equivalence-and-gap-closure.md) [-M] — an instructional effect differs by group
+- [INSIGHTS reduced SPED receipt for low-income students by 6 percentage points, an effect that replicated across models](../claims/insights-reduced-sped-low-income-students.md) [+M] — an instructional effect differs by group
+- [Unadjusted descriptive comparisons showed INSIGHTS students less likely to receive SPED, especially low-income students](../claims/insights-descriptive-sped-differences.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

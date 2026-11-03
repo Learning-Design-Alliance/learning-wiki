@@ -66,6 +66,7 @@ Learning contracts operationalize learner autonomy, and autonomy is a reliable l
 - [Self-Assessment](../elements/self-assessment.md) — the evaluation mechanism that makes contracts formative rather than purely contractual
 - [Establish evaluative criteria as a creative project evolves through student-faculty feedback conferences](evolving-criteria-feedback-conferences.md)
 - [Handle fuzzy effort criteria as charitable yes/no binary requirements with periodic check-ins](fuzzy-criteria-as-charitable-yes-no-requirements.md)
+- [Use learning contracts in which students choose readings and commit to goals to build responsibility](learning-contract-reading-choice-strategy.md)
 
 ## Examples
 - **Knowles' andragogical practice** — Knowles used contracts as the organizing structure for graduate courses in adult education at Boston University and the Fielding Institute; students negotiated individualized objectives within a shared course competency framework (Knowles, 1986).

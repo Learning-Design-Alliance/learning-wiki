@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 179 claims (122 show a difference, 35 mixed, 22 no difference) · 134 studies (47 causal, 31 associational, 24 review, 15 quant-synthesis, 7 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 26 of 134 report an effect size · 174 claims rest on one study
+> **Evidence** · 181 claims (123 show a difference, 36 mixed, 22 no difference) · 136 studies (48 causal, 31 associational, 24 review, 15 quant-synthesis, 8 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 26 of 136 report an effect size · 176 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -217,6 +217,8 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Children whose parents received dialogic reading training hold the book, pose and solicit questions, and sustain attention significantly more at post-test](../claims/dialogic-reading-children-hold-book-questions-attention.md) [+M] — instruction changes it
 - [The joint attention advantage of the intervention group does not maintain at 4-month follow-up](../claims/joint-attention-effect-not-maintained-follow-up.md) [~M] — instruction changes it
 - [Abrupt scene changes in video lectures may distract students and negate the benefits of embedded summaries](../claims/abrupt-scene-changes-negate-summary-benefits.md) [+M] — instruction changes it
+- [Practicing attention getters halved time needed to regain student attention](../claims/attention-getter-practice-halves-refocus-time.md) [+M] — measured as an outcome of the instruction studied
+- [Visual elements of video may distract test takers and impose cognitive load during listening assessment](../claims/video-visuals-distract-test-takers.md) [~W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

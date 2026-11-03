@@ -16,7 +16,7 @@ grain_size: lesson, unit
 # Workshop Model
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 15 claims (10 for, 5 mixed) · 31 studies (10 quant-synthesis, 8 causal, 7 review, 2 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 9 of 31 report an effect size · 7 claims rest on one study
+> **Evidence** · 17 claims (12 for, 5 mixed) · 32 studies (10 quant-synthesis, 9 causal, 7 review, 2 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 9 of 32 report an effect size · 9 claims rest on one study
 
 ## Description and scope
 
@@ -120,6 +120,7 @@ Claims this page cited before the 2026-10-15 rewrite that are not used as core e
 
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M] — two reviews and one experiment on grouping information in immediate memory (its table counts 4 distinct studies). The earlier page used it for "a predictable routine reduces extraneous load"; the claim is about chunking material, not about classroom routines, so it bears on this pattern only by analogy.
 - [Students trust and respect teachers who support them as learners through clear lessons, monitoring, feedback, and individualized support, not teachers who act as buddies](../claims/students-want-teachers-supporting-as-learners.md) [+W] — one research brief's summary of student surveys and interviews in Chicago schools; associational. It bears on how learners read conferring and clear mini-lessons (as care), not on what they learn from them.
+- [A writing workshop-based program significantly improves overall basic writing skills of prospective English teachers](../claims/writing-workshop-improves-basic-writing-skills-prospective-teachers.md) [+W] — attached 2026-11-03 from Ashraf Atta M. S. Salem (2013), which proposed "Introduce the writing workshop approach in faculties of education for teaching writing"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -137,6 +138,7 @@ This pattern is scoped to building skill in a practice learners can carry out at
 
 - [Individual studies excluded from meta-analysis mostly showed no significant between-group differences, with single exceptions favouring the workshop for practical skills and online for satisfaction](../claims/excluded-studies-single-exceptions-favour-each-arm.md) [~W]
 - [Writer's Workshop with sharing shifted first-grade ELL students' writing attitudes from mechanics-focused to strategies-focused](../claims/writers-workshop-writing-attitudes-ell.md) [+W]
+- [The writing workshop program significantly improves the process writing component](../claims/writing-workshop-improves-process-writing-component.md) [+W]
 
 ## Related Patterns
 

@@ -73,3 +73,4 @@ Within-group paired comparison in the same quasi-experiment: the experimental gr
 - [Post-presentation input flooding via reading significantly improves simple past tense recognition scores relative to traditional instruction](post-presentation-flooding-improves-past-tense-recognition.md) — a narrower finding that bears on this claim
 - [Pre-presentation input flooding via reading significantly improves young EFL learners' simple past tense recognition scores relative to traditional instruction](pre-presentation-flooding-improves-past-tense-recognition.md) — a narrower finding that bears on this claim
 - [Input flood may be just as salient and beneficial as input enhancement for short, simplified texts.](input-flood-as-salient-as-input-enhancement.md) — related
+- [Experimental groups outperformed control groups on post-experiment test by 6.45%](culture-activities-posttest-gain-6-45-percent.md) — related
