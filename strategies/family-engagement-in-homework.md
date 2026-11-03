@@ -5,14 +5,14 @@ title: Family Engagement In Homework
 description: Structuring homework so that family members participate meaningfully — as interactors, monitors, or resources — rather than merely enforcing completion.
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-29
+  by: "process:article-ingest"
+  at: 2026-11-02
 ---
 
 # Family Engagement In Homework
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 12 studies (5 causal, 4 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 13 studies (5 causal, 5 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Family engagement in homework moves beyond the traditional "parent as enforcer" role toward structured participation: families interact with the learner around the content, monitor progress with autonomy support, or contribute as resources (sharing knowledge, materials, or real-world connections). The strategy is carried out through deliberately designed assignments — interactive tasks, clear communication of learning goals, and guidance for families on *how* to help — rather than leaving the family's role to chance.
@@ -32,6 +32,7 @@ Homework's effect on achievement is small overall and depends far more on qualit
 #### Constraints
 - Parental intrusion and controlling help (doing the task, correcting under pressure) is associated with *lower* achievement and motivation Parental help can undermine autonomy and depress homework outcomes.
 - Interactive homework designs can widen inequities when family time, language proficiency, or content knowledge varies; alternatives (independent options, school-based support) must exist [-M]
+- Monitoring homework on its own (checking it is done) correlates slightly negatively with achievement, while setting rules about when and where homework is done and helping with its content correlate positively; training parents raised homework completion and cut homework problems more than it raised achievement, and helped achievement in elementary but not middle school [Training parents to be involved in homework raises homework completion (significant under fixed effects only) and cuts homework problems but barely moves achievement](../claims/parent-homework-involvement-mixed-achievement-link.md) [~M]
 - Frequent unstructured homework in early grades shows near-zero achievement benefit and can generate family conflict [~S]
 - Excessive homework volume displaces sleep and play, degrading the learning it was meant to support [-M]
 
@@ -73,7 +74,7 @@ Homework's effect on achievement is small overall and depends far more on qualit
 
 ## Key Sources
 - Cooper, H., Robinson, J. C., & Patall, E. A. (2006). Does homework improve academic achievement? A synthesis of research, 1987–2003. *Review of Educational Research, 76*(1), 1–62. [doi:10.3102/00346543076001001](https://doi.org/10.3102/00346543076001001)
-- Patall, E. A., Cooper, H., & Robinson, J. C. (2008). Parent involvement in homework: A research synthesis for teachers. *Educational Psychologist, 43*(4), 274–284. [doi:10.3102/0034654308325185](https://doi.org/10.3102/0034654308325185)
+- Patall, E. A., Cooper, H., & Robinson, J. C. (2008). Parent involvement in homework: A research synthesis. *Review of Educational Research, 78*(4), 1039–1101. [doi:10.3102/0034654308325185](https://doi.org/10.3102/0034654308325185) <!-- corrected 2026-11-02: title, journal, volume and pages were wrong for this DOI (Crossref: Review of Educational Research 78(4), 1039–1101) -->
 - Hoover-Dempsey, K. V., Battiato, A. C., Walker, J. M. T., Reed, R. P., DeJong, J. M., & Jones, K. P. (2001). Parental involvement in homework. *Educational Psychologist, 36*(3), 195–209.
 - Trautwein, U. (2007). The homework–achievement relation reconsidered: Differentiating homework time, homework frequency, and homework effort. *Learning and Instruction, 17*(3), 372-388. [doi:10.1016/j.learninstruc.2007.02.009](https://doi.org/10.1016/j.learninstruc.2007.02.009)
 - Epstein, J. L., & Van Voorhis, F. L. (2001). More than minutes: Teachers' roles in designing homework. *Educational Psychologist, 36*(3), 181–193. [doi:10.1207/s15326985ep3603_4](https://doi.org/10.1207/s15326985ep3603_4)

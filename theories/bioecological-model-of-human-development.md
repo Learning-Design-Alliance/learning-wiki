@@ -12,7 +12,7 @@ generated:
 # Bioecological Model of Human Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 36 claims (20 for, 15 mixed, 1 against) · 31 studies (16 associational, 6 review, 5 quant-synthesis, 4 theoretical), `q1`–`q3` · 5 of 31 report an effect size · 34 claims rest on one study
+> **Evidence** · 36 claims (20 for, 15 mixed, 1 against) · 32 studies (16 associational, 6 quant-synthesis, 6 review, 4 theoretical), `q1`–`q3` · 6 of 32 report an effect size · 34 claims rest on one study
 
 ## Description
 Urie Bronfenbrenner's bioecological model holds that human development results from **proximal processes** — "stimulating, regular face-to-face interactions over extended periods with people, objects, or symbols" (Bronfenbrenner, 1994) — that realize a person's biological, psychological, and social potential. A parent shaping a child through parenting behaviors, modeling, and encouragement is a proximal process. Development is **transactional and bidirectional**: children affect their immediate contexts as much as contexts affect children — insecurely attached children are more emotionally demanding, and language-delayed children elicit less verbal exchange from adults.

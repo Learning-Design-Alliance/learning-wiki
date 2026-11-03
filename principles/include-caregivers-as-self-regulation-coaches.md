@@ -18,7 +18,7 @@ sources:
 # Include parents, teachers, or mentors in any self-regulation intervention and support their own skills and coaching capacity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (13 for, 9 mixed, 1 against) · 28 studies (14 quant-synthesis, 6 causal, 5 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 11 of 28 report an effect size · 16 claims rest on one study
+> **Evidence** · 23 claims (13 for, 9 mixed, 1 against) · 29 studies (15 quant-synthesis, 6 causal, 5 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 12 of 29 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
