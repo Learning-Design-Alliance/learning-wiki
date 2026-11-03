@@ -50,3 +50,4 @@ Narrative review synthesizing multiple studies (Aiken et al., 1975; Einstein et 
 - [Laptop note-takers transcribed more verbatim and did worse on conceptual questions than longhand note-takers in one set of experiments, but a direct replication found no consistent difference in test performance](laptop-notes-verbatim-shallower.md) — related
 - [Transcribed versus organised note-taking effects depend on lecture format: transcription won with audio lectures, summarising won with text](note-structure-transcribe-organise-format-dependent.md) — related
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — related
+- [Lecturer-generated summaries spliced into online video lectures improve student recall of lecture content on quizzes](lecturer-generated-summaries-improve-video-recall.md) — related

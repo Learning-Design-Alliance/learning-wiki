@@ -49,6 +49,7 @@ Before the intervention, the two participating teachers attended a two-day works
 - [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](fhao-teacher-professional-development.md)
 - [Train teachers to implement peer-tutoring programs through an all-day modeling and role-playing workshop plus a program manual](pals-teacher-training-workshop-modeling-role-play.md)
 - [Train-the-Trainer professional development for attendance-intervention staff](train-the-trainer-attendance-intervention-pd.md)
+- [Five-day teacher workshop for WRD curriculum framework training](five-day-wrd-teacher-workshop.md)
 
 ## Examples
 -

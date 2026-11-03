@@ -49,6 +49,7 @@ The experimental treatment applied Glynn's Teaching-With-Analogy model step by s
 - [Analogies](analogies.md)
 - [Use Analogies](use-analogies.md)
 - [Concrete Examples](concrete-examples.md)
+- [Teaching clinical subjects using analogies in small groups of about 6 students as a student-centered alternative to traditional instruction.](analogies-small-groups-clinical-subject-strategy.md)
 
 ## Examples
 -

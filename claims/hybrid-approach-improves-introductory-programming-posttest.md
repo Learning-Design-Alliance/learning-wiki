@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-03
 sources:
   - id: çakiroğlu-2013
     resource: "https://eric.ed.gov/?id=EJ1008878"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After a 10-week intervention, the experimental group (M: 58.90; SD: 15.26) outperformed the control group (M: 46.63; SD: 14.28) on the ProKT posttest, t(74)=3.825, p<0.05. [→ Çakiroğlu 2013](#cakiroglu-2013)
@@ -53,3 +54,4 @@ Quasi-experimental comparison of two naturally occurring groups of 38 second-yea
 - [Web-supported well-structured problem-solving instruction produced higher academic achievement in an introductory C programming course than web-supported traditional instruction](ps-instruction-higher-cp-achievement.md) — related
 - [Most students taught with detailed analogies evaluated the technique positively, though some misinterpreted analogies](students-view-detailed-analogies-positively.md) — related
 - [Online algorithm visualization treatment produced higher achievement-test scores than traditional instruction in an introduction to programming course](oav-higher-achievement-than-traditional.md) — related
+- [The analogy group's distribution of correct answers differed radically from the traditional group's, suggesting student-centered methodologies may favor academic performance in Higher Education.](analogy-group-radically-different-curve-performance.md) — related

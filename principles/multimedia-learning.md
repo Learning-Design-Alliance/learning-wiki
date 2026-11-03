@@ -232,6 +232,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](../strategies/common-tools-ctml-lesson-workflow.md)
 - [Replace on-device pictures with drawings of real objects to make mobile-device media complementary to the objects](../strategies/drawings-replace-pictures-complementary-mobile-media.md)
 - [Use AR overlays aligned with multimedia learning principles: pair words with nearby, simultaneous images and segment lessons into self-paced chunks](../strategies/ar-design-multimedia-principles-strategy.md)
+- [Use web-assisted conceptual change texts with visualizations to prevent and remediate science misconceptions](../strategies/web-assisted-cct-misconception-strategy.md)
 
 ### Illustrative
 

@@ -59,8 +59,10 @@ Reflective writing converts experience into articulated knowledge: the act of ex
 6. Close the loop: learners periodically reread entries and write a synthesis of how their thinking changed, feeding forward into [Assessment](../elements/assessment.md) or goal-setting.
 
 ## Related Strategies
+
 - [5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md) — a feedback mechanism that keeps journal dialogue sustainable
 - [3-Source Rule](../strategies/3-source_rule.md) — a structure for evidence-based entries responding to readings
+- [Use weekly diary-report forms with feedback to develop pre-service teachers' self-regulation strategies](weekly-diary-report-forms-feedback.md)
 
 ## Examples
 - **Service-learning reflection (Ash & Clayton model)**: structured "What? So What? Now What?" journals used in university service-learning courses, with instructor feedback after each stage ([https://compact.org](https://compact.org)).

@@ -57,3 +57,4 @@ Questionnaire evaluation within the field test, using six Likert-scale usability
 - [Students prefer the lowly scaffolded, strategy-free tutoring system for usability and enjoyment](students-prefer-low-scaffolded-strategy-free-tutor.md) — related
 - [Experimental-group students reported positive perceptions of AR, with highest scores for enjoyment (M = 4.44) and ease of use (M = 4.29)](positive-student-perceptions-ar-tam-questionnaire.md) — related
 - [Experimental-group students rated the Every Circuit system highly enjoyable, with all nine responses between 7 and 9 on a 1-10 scale](every-circuit-enjoyment-ratings.md) — related
+- [Students gave positive feedback on DPP and rated guided problem solving highly, but hints, chat, and participation-rate display were rated less useful](student-feedback-dpp-sceppsys.md) — related

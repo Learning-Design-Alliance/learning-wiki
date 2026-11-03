@@ -64,3 +64,5 @@ Case study data: a biology student described retaining little across 20-minute v
 - [Reasoning style measures (faith in intuition, need for evidence, cognitive reflection) show no significant relation to video evaluation](reasoning-style-null-video-evaluation.md) — related
 - [Technical unpredictability of recordings severely frustrated students who valued them, while staff treated technical issues as abstract and eventually solved](technical-issues-asymmetric-impact-staff-students.md) — related
 - [Students overwhelmingly preferred video materials over text materials for learning technical ESP content](student-preference-video-over-text-esp.md) — related
+- [Lecturer-generated summaries spliced into online video lectures improve student recall of lecture content on quizzes](lecturer-generated-summaries-improve-video-recall.md) — related
+- [Students perceive lecturer-generated summaries in video lectures as helpful for review, note-taking, and maintaining attention](student-perceptions-of-video-summaries-positive.md) — related

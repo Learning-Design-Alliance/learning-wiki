@@ -53,3 +53,4 @@ Process measures collected from intervention-condition participants at the end o
 - [Teachers rated the CSC coaching as highly satisfactory (TCES total M = 89.92)](high-teacher-satisfaction-csc-coaching.md) — related
 - [Teachers and parents reported high satisfaction with First Step, and coach-teacher alliance was high, supporting social acceptability](first-step-satisfaction-alliance-asd-subsample.md) — possibly the same claim (merge candidate)
 - [Subjects reported high satisfaction with the computer-based mapping training](high-satisfaction-concept-map-training.md) — related
+- [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related

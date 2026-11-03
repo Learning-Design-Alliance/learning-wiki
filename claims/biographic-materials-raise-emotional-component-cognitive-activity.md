@@ -47,3 +47,4 @@ Quasi-experimental pedagogical experiment in grades 7-9 (five control classes, 1
 ## Related Claims
 - [Learners do not receive enough information about the creators of physics laws (pre-test finding)](learners-lack-knowledge-of-physics-law-creators.md) — related
 - [Students learning with the software showed higher learning motivation at post-test than students taught by traditional method](motion-vector-software-raises-learning-motivation.md) — related
+- [The proposed technique of active means and active learning methods increases the level of the motivational component of learners' cognitive activity in physics teaching](active-technique-increases-motivational-component-physics.md) — related

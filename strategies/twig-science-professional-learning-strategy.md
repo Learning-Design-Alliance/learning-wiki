@@ -56,6 +56,7 @@ The publisher supports implementation with Customer Success team assistance plus
 - [Pursue continuous collaboration between digital learning platform providers and school districts, with teacher training, to interconnect platform use with instruction](provider-district-collaboration-for-dlp-use.md)
 - [Secure administrator commitment and multi-year investment when implementing a blended learning program](administrator-commitment-multi-year-blended-implementation.md)
 - [Implement continuous virtual professional development programs for faculty](continuous-virtual-faculty-professional-development.md)
+- [Provide teacher training workshops and mentor support for virtual exchange practitioners](teacher-training-workshops-mentor-support-virtual-exchange.md)
 
 ## Examples
 -

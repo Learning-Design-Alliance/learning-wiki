@@ -54,3 +54,4 @@ Pre-test/post-test experimental and control group design with 60 randomly chosen
 - [Flipped classroom instruction produced significantly better post-test writing scores than traditional instruction among Iraqi EFL sophomores](fci-improves-iraqi-efl-writing-posttest.md) — related
 - [Flipped classroom instruction produces higher functional writing skills than traditional teaching among third-year ESP business majors](flipped-classroom-improves-functional-writing-esp-business-majors.md) — related
 - [Brainstorming-strategy instruction produced significantly higher post-test writing performance than traditional instruction among English-major university students](brainstorming-improves-efl-writing-performance.md) — related
+- [Wiki-based writing environments increase EFL writing achievement in content compared with traditional pen-and-paper process writing.](wiki-based-writing-increases-efl-content-achievement.md) — a narrower finding that bears on this claim

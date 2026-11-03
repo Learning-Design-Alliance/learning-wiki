@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 128 claims (52 for, 67 mixed, 9 against) · 79 studies (32 quant-synthesis, 15 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 20 of 79 report an effect size · 123 claims rest on one study
+> **Evidence** · 132 claims (56 for, 67 mixed, 9 against) · 81 studies (32 quant-synthesis, 17 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 20 of 81 report an effect size · 127 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,8 @@ On 2026-10-19 (wave 2) the other claims linked here were read and moved into the
 - [Questionnaire results show PBL superior to conventional teaching for learning interest, independent analysis skills, scope of knowledge, self-study, team spirit, and oral expression](../claims/pbl-questionnaire-superiority-six-outcomes.md) [+W] — attached 2026-11-01 from Zhou Jiyin et al. (2016), which proposed "Adopt PBL as an optional, supplementary teaching method in Chinese pharmacy education, tailored to local institutional needs"; tests this page's relationship.
 - [PBL produced better social science learning outcomes than Direct Instruction in fourth-grade elementary students](../claims/pbl-beats-direct-instruction-social-science-elementary.md) [+W] — attached 2026-11-02 from Berti Dyah Permatasari et al. (2019), which proposed "Use Problem Based Learning as an innovative alternative for elementary social science instruction"; tests this page's relationship.
 - [No interaction between learning model and learning interest: PBL outperformed DI at every interest level](../claims/no-interaction-model-interest-pbl-higher-all-levels.md) [+W] — attached 2026-11-02 from Berti Dyah Permatasari et al. (2019), which proposed "Use Problem Based Learning as an innovative alternative for elementary social science instruction".
+- [PBL teaching significantly improves the critical thinking temperament dimensions of analysis, openness and justice in English-major sophomores](../claims/pbl-improves-analysis-openness-justice-temperament.md) [+W] — attached 2026-11-03 from Zhen Zhou (2018), which proposed "Use PBL to cultivate critical thinking in English teaching because it centres students on real problem situations"; tests this page's relationship.
+- [PBL teaching significantly improves the critical thinking skills of analysis and interpretation in English-major sophomores](../claims/pbl-improves-analysis-interpretation-skills.md) [+W] — attached 2026-11-03 from Zhen Zhou (2018), which proposed "Use PBL to cultivate critical thinking in English teaching because it centres students on real problem situations"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -226,6 +228,8 @@ At the curriculum level, the expectation of a small and variable average should 
 - [The review attributes to a meta-analysis that PBL pharmacy students performed better on midterm (OR = 1.46) and final examinations (OR = 1.60) than traditional-learning students, with no difference in subjective evaluations](../claims/meta-analysis-pbl-pharmacy-exam-performance-advantage.md) [+W]
 - [Two aspects of the clinical PBL course drew relatively lower satisfaction: the self-directed-learning role required of students and the appropriateness of practice sites](../claims/lower-satisfaction-self-directed-role-and-practice-site.md) [~W]
 - [Descriptive gains in algebra achievement were largest for the blended learning group, followed by PBL and then TLM](../claims/bl-largest-descriptive-gain-algebra.md) [~W]
+- [PBL in small groups supports creativity through openness to new ideas, handling problems from different angles, and imagining various solutions](../claims/pbl-small-group-creativity.md) [+W]
+- [PBL group pre-service teachers report challenging, creative, cognitive, affective, and group-related positive learning keys](../claims/pbl-positive-learning-keys-qualitative.md) [+W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

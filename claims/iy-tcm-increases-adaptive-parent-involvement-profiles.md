@@ -55,3 +55,4 @@ Latent transition analysis with treatment condition as covariate in a group rand
 - [The Low Contact/Low Comfort profile was more likely to contain parents of FRL and African American students](low-low-profile-demographic-correlates.md) — related
 - [Low contact alone was not associated with adverse student outcomes; the Low Contact/High Comfort profile had the most favorable correlates](low-contact-alone-not-a-risk-high-comfort-favorable.md) — related
 - [IY TCM shows no significant effects on disruptive behavior or concentration problems](iytcm-no-effect-disruptive-concentration.md) — related
+- [Teacher-to-parent communication did not affect teachers' assessments of student effort or in-class behavior](no-effect-teacher-effort-behavior-ratings.md) — related

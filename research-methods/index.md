@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**968 entries** · 0 stable · 968 in review · 0 drafts
+**969 entries** · 0 stable · 969 in review · 0 drafts
 
 ---
 
@@ -416,6 +416,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Graphical model framework for MML estimation of multidimensional IRT models](graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models.md) - The article presents a framework in which a multidimensional IRT model is represented as a directed acyclic graph whose nodes are random variables and whose edges encode conditional (in)dependence relations.
 * [Grey-number method for evaluating mean performance from linguistic grades](grey-number-method-for-evaluating-mean-performance-from-linguistic-grades.md) - The article proposes using grey numbers (GNs), numbers with unknown position within known boundaries represented as closed real intervals, to estimate group mean performance when students are assessed with linguistic grades A–F.
 * [Group disciplinary engagement (GDE) framework](group-disciplinary-engagement-gde-framework.md) - The GDE framework conceptualizes engagement at the group rather than individual level, extending productive disciplinary engagement (Engle & Conant) with a situative perspective.
+* [Group time series design for single-group instructional intervention studies](group-time-series-design-for-single-group-instructional-intervention-studies.md) - A group time series design involves repeated pretests and posttests on a single group, allowing researchers to track development over multiple measurement points.
 * [Group-plus-individual (person-oriented) analysis of intervention outcomes](group-plus-individual-person-oriented-analysis-of-intervention-outcomes.md) - This framework holds that evaluating remedial interventions solely by group-level improvement can obscure subgroup effects, so outcomes should be examined \"at both the group and individual (or ''person-oriented'') level\".
 * [GSR model: realism as three independently manipulable dimensions of geometry, shading, and rendering](gsr-model-realism-as-three-independently-manipulable-dimensions-of-geometry-shading-and-re.md) - The geometry, shading, and rendering (GSR) model is a technical taxonomy of realism grounded in the actual production process of computer-generated imagery in 3D software.
 * [Gunawardena et al.'s Interaction Analysis Model (IAM) for collaborative knowledge construction](gunawardena-et-als-interaction-analysis-model-iam-for-collaborative-knowledge-construction.md) - The IAM describes CKC as evolving \"from lower mental functions, i.e., 'pooling of knowledge,' to higher mental functions through five distinct CKC phases\": (1) sharing and comparing information, (2) discovering and exploring dissonance or disagreement, (3) negotiating shared meaning or co-constructi

@@ -103,3 +103,6 @@ Quasi-experimental pre-test, post-test control group study of 80 purposively sam
 - [Online algorithm visualization treatment produced higher achievement-test scores than traditional instruction in an introduction to programming course](oav-higher-achievement-than-traditional.md) — related
 - [GeoGebra instruction with guided discovery worksheets produced significantly higher quadratic functions achievement than textbook-based instruction in a randomized pretest-posttest experiment](geogebra-guided-discovery-quadratic-achievement-gain.md) — a narrower finding that bears on this claim
 - [Preschool pupils taught science and mathematics with ICT scored significantly higher than traditionally taught pupils at post-test](ict-preschool-post-test-advantage.md) — related
+- [ICT-based teaching of Astronomy and Space Physics produced higher scientific literacy scores than traditional teaching](ict-teaching-higher-scientific-literacy-scores.md) — a narrower finding that bears on this claim
+- [Teachers reported high student motivation and self-directed learning when teaching through ICT tools](teacher-reports-high-motivation-ict-teaching.md) — related
+- [Geogebra-assisted instruction improves overall post-test scores on applications of derivative](geogebra-improves-overall-scores-applications-derivative.md) — related

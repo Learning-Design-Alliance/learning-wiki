@@ -36,7 +36,8 @@ Early Risers is a multi-year prevention programme for elementary-aged children w
 - [After two years of implementation, Early Risers showed a statistically significant positive effect on the Academic Competence Composite in the 2001 supplemental findings](../claims/early-risers-two-year-academic-competence-significant.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Steps for Life](steps-for-life.md)
 
 ## Key Sources
 - Early Risers. (2012). WWC Intervention Report: Children Classified as Having an Emotional Disturbance. What Works Clearinghouse, U.S. Department of Education. http://www.med.umn.edu/psychiatry/research/earlyrisers/home.html

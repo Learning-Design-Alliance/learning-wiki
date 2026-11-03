@@ -71,3 +71,4 @@ Post-experiment assessment in session 2: "a solid majority of 86%" viewed positi
 - [Demographic characteristics (gender, age, race, major) showed no significant association with lower digital distraction in the rule-mining profiles](demographics-not-associated-lower-distraction.md) — related
 - [Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams](students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness.md) — related
 - [The classroom teacher judged the application successful and positive, recommending its extension to all lessons](mesnevi-values-education-teacher-views-positive.md) — related
+- [Most learners report that visual input helps them understand speakers](visual-input-helps-comprehension-perceptions.md) — related

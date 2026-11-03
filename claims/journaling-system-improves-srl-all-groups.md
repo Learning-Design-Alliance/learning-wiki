@@ -62,3 +62,4 @@ Longitudinal comparison of LIST-K SRL sub-scale scores across the pre-, post-, a
 - [A six-week SRL video annotation intervention was followed by a statistically significant increase in high school students' ITS-AR monologue scores](srl-video-annotation-improved-acting-rubric-scores.md) — related
 - [Metacognitive and affective chatbot feedback each produce higher retention scores than neutral feedback, with no significant difference between metacognitive and affective groups](chatbot-metacognitive-affective-feedback-boost-retention.md) — related
 - [Chatbot-guided feedback SRL improved university students' reflection more than conventional SRL](srl-cgf-improves-reflection.md) — related
+- [Diary keeping significantly increases metacognition strategy use of pre-service science teachers](diaries-increase-metacognition-strategies.md) — related

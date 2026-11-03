@@ -48,3 +48,4 @@ Two-way repeated-measures ANOVA of discourse completion test scores for 45 Japan
 - [Both CI and SI groups significantly outperformed the control group on recognizing English request hedges, with no significant difference between the two treatments](both-treatments-beat-control-ajt.md) — related
 - [From post-test to delayed post-test the CI group showed further DCT gains while the SI group showed losses](dct-delayed-trends-ci-gains-si-losses.md) — related
 - [No significant instruction-by-time interaction was found on the discourse completion test](dct-no-interaction-instruction-time.md) — related
+- [Mini-game-supported controlled L2 practice transfers to written productive use, with higher accuracy on a written discourse completion test](mini-game-practice-transfers-to-written-productive-wdct.md) — related

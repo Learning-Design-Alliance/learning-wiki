@@ -80,6 +80,8 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Train delivery staff and monitor fidelity to the explicit session schedule during one-to-one reading interventions](train-and-monitor-fidelity-one-to-one-reading.md)
 - [Sustained, rigorous, relevant technology-centered PD with school-district support, collaborative facilitation, and lesson-plan sharing to promote faithful implementation](sustained-collaborative-dg-pd-design.md)
 - [Provide coaching and performance feedback to teachers after initial training to sustain knowledge and skills](post-training-coaching-and-performance-feedback.md)
+- [Extended professional development pairing CTE teachers with science teacher partners in a community of practice](science-in-cte-extended-pd-teacher-partners.md)
+- [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
 
 ## Examples
 -

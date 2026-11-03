@@ -55,3 +55,4 @@ Multivariate path analysis (Mplus, FIML, bootstrapped 95% CIs with 5,000 draws) 
 - [Third-grade reading comprehension is predicted by third-grade word reading and listening comprehension, with no direct attention effect](grade3-comprehension-predicted-by-word-reading-and-listening.md) — related
 - [Attention is more strongly associated with reading and cognitive measures than hyperactivity, which correlates mainly with phonemic decoding and memory](attention-more-associated-reading-than-hyperactivity.md) — related
 - [Poor readers are highly heterogeneous and do not all display the same type of reading impairment](poor-readers-heterogeneous-reading-behaviours.md) — related
+- [At-risk first graders who received 47 hours of one-on-one tutoring read significantly more proficiently than matched at-risk non-tutored peers](one-on-one-tutoring-improves-at-risk-first-grade-reading.md) — related

@@ -56,3 +56,4 @@ Table 8 comparison of average scores shows the control group began higher (43.91
 - [CPS sections showed larger pre-posttest gains than the control group despite lower pretest preparedness](cps-larger-preposttest-gains.md) — related
 - [Experimental group also scored higher than control group on post-test academic achievement](experimental-higher-achievement-posttest.md) — related
 - [Narrative theory instruction improved students' visual aesthetic scores for poster design](narrative-theory-improved-visual-aesthetic-scores.md) — related
+- [Overall, the experimental group's posttest average was significantly higher than the control group's despite both groups declining from pretest to posttest.](wikipedia-corpus-overall-posttest-significant-advantage.md) — related

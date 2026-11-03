@@ -48,3 +48,4 @@ Two-way ANOVA interaction test (Table 3 and text) on 140 students. Both the text
 - [Learning approach and school level each had a significant main effect on mathematics critical thinking ability in a two-way ANOVA](anova-main-effects-learning-and-school-level.md) — related
 - [Learning approach and KAM show a significant interaction effect on teachers' mathematical questioning ability, though the article's text is internally inconsistent about it](learning-kam-interaction-questioning-ability.md) — related
 - [Prior mathematical ability had a significant main effect on mathematics critical thinking ability](pma-significant-main-effect-critical-thinking.md) — related
+- [Instructional model interacts with critical thinking ability in affecting argumentative writing skill](interaction-instruction-critical-thinking-writing.md) — related

@@ -52,3 +52,5 @@ Thirty female intermediate EFL learners (aged 15–25) at Iranian English instit
 - [Humorous-song treatment shows no significant difference between EFL learners' immediate and delayed listening recall](humorous-song-immediate-delayed-recall-null.md) — related
 - [Both instructed and regular listening classes produce significant within-group gains in general listening comprehension over a 10-week course](both-groups-gain-listening-over-course.md) — related
 - [Both the experimental and control classes improved significantly from pre-test to post-test in listening](otil-both-classes-significant-pre-post-gains.md) — related
+- [The no-captions control group also improved significantly in listening comprehension over the treatment period](control-group-listening-gains-without-captions.md) — a narrower finding that bears on this claim
+- [English verbal songs significantly improve connected speech aspects of adult EFL learners' speech production](english-verbal-songs-improve-connected-speech-production.md) — related

@@ -47,6 +47,7 @@ The article recommends EFL teachers incorporate the concept map strategy as a br
 - [Integrate mind and concept maps into preclinical curricula with structured training, weekly review use, and collaborative mapping](integrate-mapping-structured-training-preclinical.md)
 - [Concept Mapping](concept_mapping.md)
 - [Implement brainstorming sessions in EFL writing lessons through small monitored groups with clarified problems, open expression, deferred judgment and fixed timing](brainstorming-session-procedures-efl-writing.md)
+- [Apply mind mapping in mathematics teaching through overview, preview, inview, and review stages](mind-mapping-overview-preview-inview-review.md)
 
 ## Examples
 -

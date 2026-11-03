@@ -51,3 +51,4 @@ Linear model predicting final exam grade from group and prior performance in the
 - [Training activity scores in cognitive, metacognitive, and behavioral/environmental regulation each significantly related to subsequent exam performance after controlling for prior knowledge](training-scores-partial-correlations-exams.md) — related
 - [Formulating implementation intentions did not increase university students' use of distributed practice during a four-week course](implementation-intentions-no-increase-distributed-practice.md) — related
 - [Choice-based personalization did not affect final exam performance in the MOOC](choice-personalization-no-final-exam-effect.md) — related
+- [Quiz-and-reflection and extended-quiz conditions show no significant difference in final exam performance after controlling for prior exam scores](quiz-reflection-vs-extended-quiz-final-exam-no-difference.md) — related

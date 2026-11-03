@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (34 for, 12 mixed, 2 against) · 39 studies (11 review, 10 causal, 9 theoretical, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 5 of 39 report an effect size · 46 claims rest on one study
+> **Evidence** · 49 claims (35 for, 12 mixed, 2 against) · 40 studies (11 causal, 11 review, 9 theoretical, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 5 of 40 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -177,6 +177,7 @@ Combining two methods, the share of time each gets, the order of the two, and th
 - [Component-level retention shows the same pattern: LTM superior except knowledge, where the traditional method is superior](../claims/ltm-component-retention-pattern.md) [+W]
 - [LTM outperforms the traditional method on comprehension, application and skills achievement, but the traditional method is superior on the knowledge component](../claims/ltm-component-achievement-pattern.md) [+W]
 - [Combined instruction produced significantly greater attitudinal improvement than either software alone or teacher alone](../claims/combined-instruction-best-for-attitudes.md) [+W]
+- [The balanced knowledge acquisition policy achieved more even task distribution across learning goals than free collaboration](../claims/balanced-knowledge-policy-task-distribution.md) [+W]
 
 ## Related Principles
 

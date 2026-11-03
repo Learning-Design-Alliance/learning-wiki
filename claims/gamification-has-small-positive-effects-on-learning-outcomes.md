@@ -131,3 +131,4 @@ gamified vocabulary practice.
 - [The gamified class achieved a higher average final grade (61% vs 53%), with correlation to gamification unconfirmed](gamification-higher-final-grades-python-course.md) — a narrower finding that bears on this claim
 - [Gamification of web-based learning improves creative thinking among primary school students learning English](gamification-web-learning-improves-creative-thinking.md) — a narrower finding that bears on this claim
 - [Gamification of web-based learning improves academic achievement among primary school students learning English](gamification-web-learning-improves-primary-achievement.md) — a narrower finding that bears on this claim
+- [Prior research on educational computer games shows mixed effects on cognitive and academic achievement outcomes](mixed-prior-evidence-games-cognitive-gains.md) — related

@@ -53,3 +53,4 @@ Meta-regression of overall attitude effects (Akçay et al. excluded) found a sig
 - [Age significantly moderates MBI effects on executive functions across all RCTs (larger benefits with older age) and on negative behaviour in active-control RCTs (larger benefits with younger age)](age-moderates-mbi-outcomes.md) — related
 - [No significant differences in attitude effects between the five types of innovative teaching approach](no-approach-differences-attitude-effects.md) — related
 - [The height of connected components decreases with age, while their number and length are unrelated to age or pedagogy](cc-height-decreases-with-age-pedagogy-null.md) — related
+- [Multimedia-assisted physics teaching significantly reduced students' negative attitudes to physics across all five measured aspects](multimedia-teaching-reduced-negative-physics-attitudes.md) — related

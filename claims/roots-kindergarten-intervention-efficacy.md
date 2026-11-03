@@ -56,3 +56,4 @@ Partially nested Time × Condition mixed-model analysis of the RCT comparing ROO
 - [An earlier preliminary investigation of ROOTS found small-to-medium positive effects on kindergarten mathematics achievement measures](roots-preliminary-small-medium-effects.md) — related
 - [Year 1 of the ROOTS efficacy trial used a classroom-blocked RCT assigning at-risk kindergartners to ROOTS-large, ROOTS-small, or no-treatment control conditions](roots-year1-rct-design.md) — related
 - [ROOTS participants demonstrated positive intervention effects on proximal and distal mathematics measures across two cohorts](roots-positive-effects-two-cohorts.md) — possibly the same claim (merge candidate)
+- [At-risk tutored students gained nearly 20 NCE points while non-tutored at-risk peers declined from fall to spring](nce-growth-tutored-versus-non-tutored-decline.md) — related

@@ -49,3 +49,4 @@ Exploratory correlational analysis of ASSISTments logs of 1033 treatment-conditi
 - [Among students performing proficiently or above, high-performing girls spent marginally significantly more time on homework than high-performing boys](high-performing-girls-more-homework-time.md) — related
 - [Among 7th-grade ASSISTments users, there is no significant overall gender difference in homework time or number of problems completed](no-gender-difference-overall-homework-time-middle-school.md) — related
 - [Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding](prior-cross-sectional-platform-usage-achievement-link.md) — related
+- [Time spent using MasterMaths software was positively and significantly correlated with mathematics performance improvement in Louw et al.'s (2008) study](mastermaths-time-on-task-correlated-with-mathematics-improvement.md) — related

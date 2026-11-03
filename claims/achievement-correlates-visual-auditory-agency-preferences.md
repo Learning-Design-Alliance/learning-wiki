@@ -55,3 +55,4 @@ Pearson correlation analyses between Scientific Knowledge and Skills Test scores
 - [Science learning-preference levels did not differ significantly between students with and without learning disabilities](no-preference-differences-by-learning-disability.md) — related
 - [Correlational meta-analyses of learning styles and achievement average r = 0.24 but do not test or support the matching hypothesis](learning-style-achievement-correlations-r24.md) — related
 - [Auditory learners are the highest scorers under both teaching styles but gain no significant benefit from the experiment format](auditory-learners-highest-scorers-no-experiment-gain.md) — related
+- [Students' perception that visual strategies are better than traditional methods strongly predicts their preference for using them.](perceived-usefulness-predicts-preference-for-visual-strategies.md) — related

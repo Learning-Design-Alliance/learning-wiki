@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 179 claims (75 for, 93 mixed, 11 against) · 120 studies (41 causal, 25 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 33 of 120 report an effect size · 168 claims rest on one study
+> **Evidence** · 180 claims (75 for, 94 mixed, 11 against) · 121 studies (42 causal, 25 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 33 of 121 report an effect size · 169 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,7 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Students in virtual, technology-enhanced environments generally do not deploy effective metacognitive strategies unless guided by appropriate scaffolding](../claims/vle-learners-need-metacognitive-scaffolding.md) [+W] — attached 2026-10-29 from O'Neill et al. (2026), which proposed "Use the VLE to extend metacognitive influence on student activity outside class time with realistic staff input, and re-frame educators as designers"; tests this page's relationship.
 - [Fifth-grade students using metacognitive strategy with books of literary quality scored significantly higher in post-test reading comprehension than a control group reading the 100 Basic Works conventionally](../claims/metacognitive-strategy-literary-books-posttest-reading-comprehension.md) [+M] — attached 2026-11-01 from Erkan Çer (2016), which proposed "Pair metacognitive strategy instruction with books of literary quality appropriate to children's developmental levels"; tests this page's relationship.
 - [Junior secondary students taught Basic Science with a self-regulated learning approach achieved higher adjusted mean scores than students taught with the conventional method](../claims/srl-approach-higher-basic-science-achievement.md) [+W] — attached 2026-11-02 from Nwafor Chika E et al. (2015), which proposed "Include self-regulated learning instructional strategy in pre-service teacher curricula and provide regular teacher training on its use"; tests this page's relationship.
+- [Diary keeping has no significant effect on cognitive strategies such as rehearsal, elaboration, organization, and critical thinking](../claims/diaries-no-effect-cognitive-strategies.md) [~W] — attached 2026-11-03 from Arsal (2010), which proposed "Pair diary reporting with additional self-regulation strategy training for greater improvement".
 
 ## Objective and learner-valued goal
 

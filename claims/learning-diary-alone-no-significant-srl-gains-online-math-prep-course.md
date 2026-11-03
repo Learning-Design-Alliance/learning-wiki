@@ -89,3 +89,5 @@ Planned pre-to-post gain contrasts in the randomized four-group trial: "Groups C
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — related
 - [The course showed no significant pre-post interaction effects on intercultural sensitivity, with only a marginal endpoint difference on acceptance and adaptation](sis-course-no-intercultural-sensitivity-interaction.md) — related
 - [Control-group students without the tolerance course showed essentially no change in tolerance over the academic year](control-group-tolerance-unchanged-without-course.md) — related
+- [Diary keeping significantly increases academic achievement of pre-service science teachers](diaries-increase-academic-achievement.md) — related
+- [Diary keeping significantly increases time management strategy use of pre-service science teachers](diaries-increase-time-management-strategies.md) — related

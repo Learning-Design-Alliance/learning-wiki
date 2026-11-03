@@ -48,3 +48,4 @@ Within-group pre-post comparison for the VSSPlus experimental group (n = 40) ove
 ## Related Claims
 - [University EFL students taught with VSSPlus significantly outperformed students taught with VSS on a post vocabulary achievement test](vssplus-outperformed-vss-post-vat.md) — related
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
+- [Experimental group showed significant pre-to-post gains on vocabulary test score](experimental-group-pre-post-vocabulary-gains.md) — possibly the same claim (merge candidate)

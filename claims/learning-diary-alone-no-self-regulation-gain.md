@@ -75,3 +75,7 @@ Quasi-experimental comparison across four university courses with pre–post mea
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related
 - [Tenth-grade students who wrote structured reflective science journals significantly outperformed control students on overall self-regulation strategies](reflective-journal-writing-improves-self-regulation-strategies.md) — related
 - [Keeping a journal as a writing-to-learn activity showed no statistically significant achievement difference from conventional instruction](journal-keeping-no-achievement-effect.md) — related
+- [Diary keeping significantly increases academic achievement of pre-service science teachers](diaries-increase-academic-achievement.md) — related
+- [Diary keeping significantly increases metacognition strategy use of pre-service science teachers](diaries-increase-metacognition-strategies.md) — related
+- [Diary keeping significantly increases time management strategy use of pre-service science teachers](diaries-increase-time-management-strategies.md) — related
+- [Diary keeping significantly increases intrinsic motivation and task value of pre-service science teachers](diaries-increase-intrinsic-motivation-task-value.md) — related

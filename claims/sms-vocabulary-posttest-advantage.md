@@ -67,3 +67,5 @@ Quasi-experiment with two intact classes (32 experimental, 30 control students w
 - [University freshmen learning academic vocabulary via SMS show no significant short-term advantage over freshmen learning the same words with a dictionary](sms-vs-dictionary-no-posttest-difference.md) — reports the opposite
 - [Turkish 6th graders taught English vocabulary by phonetic association learned words faster than a control group taught conventionally in the first week](phonetic-association-faster-initial-vocabulary-learning.md) — related
 - [WhatsApp-delivered vocabulary instruction produced significantly higher post-test vocabulary scores than traditional classroom instruction among Iranian junior high school EFL learners](whatsapp-vocabulary-instruction-outperformed-traditional-classroom-instruction.md) — related
+- [Both SMS and paper-based exercise groups improved vocabulary scores significantly from pre-test to post-test](both-groups-improved-vocabulary-exercises.md) — related
+- [First-year EFL students who did vocabulary exercises via SMS outperformed those doing paper-based exercises on a post-test](sms-exercises-outperform-paper-based-vocabulary.md) — related

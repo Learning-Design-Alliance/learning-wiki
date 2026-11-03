@@ -52,3 +52,4 @@ Pretest mean-similarity t-test (Table 2) comparing the two classes after normali
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
 - [Groups were equivalent in mathematics achievement before the application](digital-storytelling-math-pretest-equivalence.md) — related
+- [Initial physics ability differed between the two experimental groups before treatment](initial-ability-difference-between-groups.md) — related

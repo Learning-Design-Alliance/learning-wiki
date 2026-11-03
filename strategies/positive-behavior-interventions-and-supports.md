@@ -93,6 +93,7 @@ PBIS treats behavior as a learnable skill rather than an innate trait, applying 
 - [Implement multi-tiered supports focused on acceleration, not remediation](multi-tiered-supports-acceleration-not-remediation.md)
 - [Target school-climate improvement within individual schools and communities, using schoolwide behavior systems, social-emotional learning, and compensatory supports](school-climate-improvement-strategies-for-equity.md)
 - [School-level strategies for improving school climate](school-climate-improvement-strategies.md)
+- [Use tier 2 and 3 school-wide positive behavior supports alongside academic instruction to increase attentiveness and engagement](tier2-tier3-pbis-academic-ebd.md)
 
 ## Examples
 - **[Center on PBIS](https://www.pbis.org)** — the national technical assistance center; hosts implementation guides, fidelity measures (Tiered Fidelity Inventory), and state implementation networks.

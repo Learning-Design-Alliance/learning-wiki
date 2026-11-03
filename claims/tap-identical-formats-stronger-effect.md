@@ -55,3 +55,4 @@ Moderator analysis of transfer-appropriate processing (Table 2): identical forma
 - [Practice test format moderates the testing effect: mixed-format (g = 0.80) and multiple-choice (g = 0.70) practice tests produced larger effects than short-answer tests (g = 0.48)](practice-test-format-moderates-effect.md) — related
 - [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) — reports the opposite
 - [The Kansas Reading Tests' use of arithmetical, physical and practical problems taps mental processes scarcely comparable to ordinary reading comprehension](kansas-reading-tests-problem-solving-incomparable.md) — related
+- [Transfer from mini-game practice to spoken production is smaller than transfer to written tasks](spoken-transfer-weaker-than-written-transfer.md) — related

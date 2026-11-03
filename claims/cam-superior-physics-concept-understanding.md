@@ -51,3 +51,5 @@ Quasi-experimental study of 228 ninth-grade students in two Mohindergarh schools
 - [Ninth-grade students taught Newton's Laws through project-based learning game techniques scored significantly higher on a concept achievement post-test than students taught by traditional methods](pbl-game-techniques-higher-physics-posttest.md) — related
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related
 - [Physics concept understanding is independent of intelligence when prior understanding is a covariate](physics-concept-understanding-independent-of-intelligence.md) — related
+- [Drill skill model produces higher physics learning achievement than concept attainment model in Indonesian junior high school students](drill-skill-outperforms-concept-attainment-physics-achievement.md) — related
+- [Concept attainment model did not show significant influence on student learning achievement compared to drill skill model](concept-attainment-no-significant-influence.md) — related

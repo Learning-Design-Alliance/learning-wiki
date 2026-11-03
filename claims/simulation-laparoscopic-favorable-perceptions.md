@@ -58,3 +58,4 @@ Narrative synthesis of the review's own included studies: of 11 studies included
 - [Self-confidence gains from single-session simulation are often temporary, suggesting a dose–response effect](simulation-confidence-dose-response.md) — related
 - [Simulation-based medical education improves knowledge-based performance of undergraduate medical students as an adjunct to existing curricula](sbme-improves-knowledge-performance-undergraduates.md) — related
 - [Learners self-reported high satisfaction (4.4/5) and perceived educational value (4.9/5) for the curriculum](pem-sbl-high-satisfaction-educational-value.md)
+- [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — a narrower finding that bears on this claim

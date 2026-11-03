@@ -55,3 +55,4 @@ Meta-analysis of 11 controlled studies (3 RCTs, 13 quasi-experimental with contr
 - [PBL teaching improves problem-solving, independent learning, teamwork, communication and clinical reasoning abilities more than traditional teaching in orthopaedics education](pbl-improves-process-abilities-orthopaedics.md) — a narrower finding that bears on this claim
 - [Non-traditional teaching methods significantly improve critical thinking dispositions in nursing students compared to control groups](non-traditional-methods-improve-ct-dispositions.md) — related
 - [Active training improved problem-solving performance, while traditional and heuristic methods did not differ from each other](active-training-best-for-problem-solving.md) — a narrower finding that bears on this claim
+- [PBL teaching significantly improves the critical thinking skills of analysis and interpretation in English-major sophomores](pbl-improves-analysis-interpretation-skills.md) — related

@@ -49,3 +49,5 @@ Quasi-experiment with two intact Year 9 classes (experimental n = 28, control n 
 - [Students reported positive perceptions of GeoGebra for learning circles, with lower confidence in using the software](geogebra-circles-positive-perceptions.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [Twelfth-grade students taught Access databases with Moodle-based educational software obtained significantly higher final-test grades than a comparable control class](moodle-access-software-higher-final-test-grades.md) — related
+- [Geogebra-assisted instruction improves overall post-test scores on applications of derivative](geogebra-improves-overall-scores-applications-derivative.md) — related
+- [Geogebra-assisted instruction improves conceptual knowledge of applications of derivative compared to traditional instruction](geogebra-improves-conceptual-knowledge-applications-derivative.md) — related

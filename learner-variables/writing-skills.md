@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 216 claims (149 show a difference, 39 mixed, 28 no difference) · 120 studies (61 causal, 27 associational, 13 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 38 of 120 report an effect size · 211 claims rest on one study
+> **Evidence** · 222 claims (152 show a difference, 42 mixed, 28 no difference) · 123 studies (63 causal, 27 associational, 14 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 39 of 123 report an effect size · 217 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -254,6 +254,12 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Argument quality differences between treatment and control groups were not statistically significant in the first week of online discussion](../claims/argument-quality-week-one-not-significant.md) [-M] — instruction changes it
 - [Paper-and-pencil concept mapping at the pre-writing stage significantly improved EFL students' argumentative essay performance across five writing aspects](../claims/concept-mapping-prewriting-improves-efl-argumentative-essays.md) [+M] — instruction changes it
 - [Web-based advantages concentrate in skills practiced through the medium: the web group's interaction occurred mostly through reading and writing](../claims/web-medium-shapes-skill-gains-pattern.md) [+W] — instruction changes it
+- [Contextual teaching and learning produces higher argumentative writing scores than non-contextual instruction in university students](../claims/ctl-improves-argumentative-writing-hasani.md) [+M] — instruction changes it
+- [High critical-thinking students write better arguments under contextual than non-contextual instruction](../claims/ctl-benefits-high-critical-thinking-writers.md) [~M] — an instructional effect differs with it
+- [Instructional model interacts with critical thinking ability in affecting argumentative writing skill](../claims/interaction-instruction-critical-thinking-writing.md) [~M] — an instructional effect differs with it
+- [Low critical-thinking students do worse in contextual than non-contextual instruction for argumentative writing](../claims/ctl-disadvantages-low-critical-thinking-writers.md) [~M] — an instructional effect differs with it
+- [Pre-task planning, whether individual or collaborative, with or without teacher feedback, improves structural organization and clarity of argumentative essays relative to no planning](../claims/pre-task-planning-improves-essay-organization.md) [+W] — instruction changes it
+- [SRSD interventions produce large effect sizes on writing outcomes for students with EBD and meet standards for an evidence-based practice](../claims/srsd-writing-ebp-ebd.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

@@ -48,3 +48,4 @@ Intercorrelation analysis of the five socioemotional skills dimensions (Table 3)
 - [All eight SAICS dimensions showed high internal consistency (Cronbach's alpha ≥ 0.89), high factor loadings (0.76–0.96), and convergent validity (inter-dimension correlations r > 0.34)](saics-reliability-convergent-validity.md) — related
 - [Group engagement dimensions are positively interrelated concurrently, except socioemotional engagement](gde-dimensions-positively-interrelated-except-se.md) — related
 - [SFAILQ shows high reliability, convergent validity with digital literacy (r = 0.49–0.68), and discriminant validity (HTMT below 0.80)](sfailq-reliability-convergent-discriminant.md) — related
+- [Changes across the eleven skill dimensions were positively inter-correlated in the intervention group (all p < .001)](steps-for-life-skill-change-correlations.md) — related

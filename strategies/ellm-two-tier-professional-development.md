@@ -56,6 +56,7 @@ ELLM's instructional support system uses two programs, one developing teachers a
 - [Pair Tier 2 intervention delivery with professional development workshops and in-class coaching visits](pd-workshops-plus-in-class-coaching-tier2.md)
 - [Pair new instructional practices with sustained in-class coaching after initial professional development](coaching-support-after-pd-for-fidelity.md)
 - [Provide coaching and performance feedback to teachers after initial training to sustain knowledge and skills](post-training-coaching-and-performance-feedback.md)
+- [Five-day teacher workshop for WRD curriculum framework training](five-day-wrd-teacher-workshop.md)
 
 ## Examples
 

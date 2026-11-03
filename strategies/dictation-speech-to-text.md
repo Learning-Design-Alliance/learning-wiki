@@ -69,6 +69,7 @@ Speech-to-text removes the transcription bottleneck — handwriting mechanics, s
 - Keyboarding instruction — the alternative transcription bypass; often taught alongside dictation so learners have two routes
 - Pre-writing and oral rehearsal strategies — dictation pairs naturally with talking out ideas before (or as) drafting
 - [ASR read-aloud compare-and-repeat self-study strategy for pronunciation practice](asr-read-aloud-compare-repeat-strategy.md)
+- [Use oral elicited imitation tasks with automatic speech recognition as meaningful spoken practice](oeit-with-asr-for-spoken-practice.md)
 
 ## Related Elements
 - [Accommodations](../elements/accommodations.md) — dictation is a canonical assessment and instructional accommodation

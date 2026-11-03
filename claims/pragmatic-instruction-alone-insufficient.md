@@ -47,3 +47,4 @@ Authors' interpretation of the same randomized experiment: the control group (me
 ## Related Claims
 - [Telecollaboration with native English speakers significantly improves EFL students' pragmatic comprehension beyond pragmatic instruction alone](telecollaboration-improves-pragmatic-comprehension.md) — possibly the same claim (merge candidate)
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](mere-exposure-insufficient-advanced-l2-communicative-competence.md) — related
+- [Student mobility alone is insufficient for developing intercultural competence in student teachers](student-mobility-insufficient-intercultural-competence.md) — related

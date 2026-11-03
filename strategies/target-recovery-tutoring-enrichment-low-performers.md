@@ -45,6 +45,7 @@ Given estimated global learning losses, the authors recommend that "it would mak
 - [Provide academic support and enrichment to improve academic performance of at-risk students](academic-support-enrichment-dropout-strategy.md)
 - [Provide English learner-specific summer learning and staff accelerated learning programs with EL specialists](el-specific-summer-learning-and-el-specialist-staffing.md)
 - [Offer scalable summer school as a post-pandemic academic recovery intervention for districts](scalable-summer-school-post-pandemic-recovery-strategy.md)
+- [Provide a sufficient dose of 44-80 hours of intensive instruction as a general target for at-risk reading interventions](sufficient-dose-44-80-hours-target.md)
 
 ## Examples
 -

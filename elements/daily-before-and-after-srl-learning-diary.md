@@ -62,7 +62,8 @@ A daily online learning diary with two sections per learning day. "Before learni
 - [Goal Setting](goal-setting.md)
 
 ## Examples
--
+
+- [Use learner diaries at key stages during virtual exchange to prompt reflection](../strategies/learner-diaries-virtual-exchange-reflection.md)
 
 ## Key Sources
 - Bellhäuser, H., Liborius, P., & Schmitz, B. (2022). Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior. Frontiers in Psychology, 13, 813381. https://doi.org/10.3389/fpsyg.2022.813381

@@ -82,6 +82,7 @@ Multimedia works when the combination reduces extraneous load and enables refere
 - [Replace on-device pictures with drawings of real objects to make mobile-device media complementary to the objects](drawings-replace-pictures-complementary-mobile-media.md)
 - [Use AR overlays aligned with multimedia learning principles: pair words with nearby, simultaneous images and segment lessons into self-paced chunks](ar-design-multimedia-principles-strategy.md)
 - [Use multimedia and real models alongside 5E activities, and assign homework for the enter and evaluation phases to save time](multimedia-and-homework-for-5e-phases.md)
+- [Use web-assisted conceptual change texts with visualizations to prevent and remediate science misconceptions](web-assisted-cct-misconception-strategy.md)
 
 ## Examples
 - **PhET Interactive Simulations** (https://phet.colorado.edu) — research-validated science simulations paired with guided inquiry activities; studies show simulation-plus-guided-activity outperforms simulation alone [~M]

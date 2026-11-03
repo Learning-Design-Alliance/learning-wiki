@@ -52,3 +52,6 @@ ANCOVA with interaction term (Table 4: Teaching Methods & Gender, F = .425). The
 - [There is no significant interaction between teaching method and gender on Igbo language reading comprehension achievement](no-method-gender-interaction-igbo-reading-comprehension.md) — related
 - [Concept mapping instruction produces significantly higher basic science achievement than conventional teaching among Nigerian junior secondary students](concept-mapping-beats-conventional-basic-science-achievement.md) — related
 - [Method-by-gender interaction is significant only for application of Light waves, not for understanding or analysis](method-gender-interaction-application-only.md) — related
+- [No significant gender difference in academic performance among students exposed to the demonstration method](gender-no-significant-difference-demonstration-borno.md) — related
+- [No significant gender difference in academic performance among students exposed to the lecture method](gender-no-significant-difference-lecture-borno.md) — related
+- [Demonstration method was more effective than lecture method in learning economics concepts among secondary school students in Borno State](demonstration-more-effective-than-lecture-economics-borno.md) — related

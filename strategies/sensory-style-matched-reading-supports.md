@@ -47,7 +47,8 @@ After diagnosing learners' sensory styles with Reid's (1987) questionnaire, the 
 - [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [-S]
 
 ## Related Strategies
-- 
+
+- [Use colourful, attractive, and purposeful multisensory materials at the pre-reading phase to draw students' attention to the reading text.](multisensory-materials-pre-reading-phase.md)
 
 ## Examples
 -

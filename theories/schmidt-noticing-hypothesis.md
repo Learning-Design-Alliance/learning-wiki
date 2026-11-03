@@ -99,6 +99,7 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - [Decision-making restaurant-choice task: pairs merge into larger groups across cycles while re-choosing a restaurant](../elements/decision-making-restaurant-task.md)
 - [Travel fair carousel task: pairs present a destination to rotating visitors across immediate repetition cycles](../elements/travel-fair-carousel-task.md)
 - [Use focused audio-appended reading tasks with highlighted target forms to promote L2 grammatical accuracy](../strategies/focused-audio-appended-reading-task-strategy.md)
+- [Use recasting during jigsaw retelling tasks to deliver incidental focus on form](../strategies/recasting-during-jigsaw-retelling.md)
 
 ## Key Sources
 - Schmidt, R. W. (1990). The role of consciousness in second language learning. *Applied Linguistics, 11*(2), 129–158. [doi:10.1093/applin/11.2.129](https://doi.org/10.1093/applin/11.2.129)

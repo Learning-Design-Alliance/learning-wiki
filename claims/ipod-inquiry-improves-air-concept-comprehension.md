@@ -51,3 +51,4 @@ Quasi-experimental study of 53 experimental and 53 control third graders taught 
 - [Primary students hold characteristic misconceptions about air and air pressure](primary-students-air-pressure-misconceptions.md) — related
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — a broader claim this one bears on
+- [Experimental group mean scientific literacy score of 21.3967 versus control group mean of 11.8943](experimental-mean-21-4-versus-control-11-9.md) — related

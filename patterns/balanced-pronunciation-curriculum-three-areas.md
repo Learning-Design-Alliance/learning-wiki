@@ -18,7 +18,7 @@ sources:
 # Balanced pronunciation curriculum covering suprasegmentals, segmentals, and fluency, with a short list of central features selected by diagnosis
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 24 claims (11 for, 13 mixed) · 16 studies (4 causal, 4 quant-synthesis, 3 review, 3 design, 2 theoretical), `q1`–`q4` · 5 of 16 report an effect size · 19 claims rest on one study
+> **Evidence** · 26 claims (13 for, 13 mixed) · 17 studies (5 causal, 4 quant-synthesis, 3 review, 3 design, 2 theoretical), `q1`–`q4` · 5 of 17 report an effect size · 21 claims rest on one study
 
 ## Description and scope
 
@@ -137,6 +137,8 @@ This pattern is scoped to pronunciation for intelligibility and comprehensibilit
 - [Fluency training shows the largest intervention effect (g = 1.78) among intervention methods](../claims/fluency-training-largest-effect-chinese-children.md) [+W]
 - [Explicit reduced-forms instruction increases EFL learners' ability to produce reduced forms in their own speech, while regular instruction alone does not](../claims/reduced-forms-instruction-improves-production.md) [+W]
 - [Native-speaker raters of Arabic-accented English speech focused more on prosodic elements (stress, rhythm, intonation, speech rate, sentence melody) than on individual sounds](../claims/ns-raters-focus-on-prosodic-elements.md) [+W]
+- [Connected speech is a natural feature of native-speaker English that contributes to speech naturalness and intelligibility](../claims/connected-speech-naturalness-importance.md) [+W]
+- [Connected speech includes phonological processes of reduction, elision, assimilation, and contraction](../claims/connected-speech-phonological-processes.md) [+W]
 
 ## Related Patterns
 - 

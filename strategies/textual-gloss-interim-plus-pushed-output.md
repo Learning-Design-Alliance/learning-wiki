@@ -45,7 +45,8 @@ The article recommends treating textual glossing as an interim solution: glossin
 - [Reading with marginal glosses is the most beneficial task condition for incidental vocabulary acquisition gains](../claims/marginal-glosses-most-beneficial-task.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use hypertext gloss software with clear task goals and salient, carefully consulted annotations](hypertext-gloss-annotation-consultation-strategy.md)
 
 ## Examples
 -

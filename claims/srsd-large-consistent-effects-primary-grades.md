@@ -49,3 +49,4 @@ Moderation analysis by instructional focus in the meta-analysis. SRSD studies re
 - [For writing quality, SRSD outperformed transcription instruction (β = 1.32) and effects were larger for weak writers (β = 0.92), both significant](srsd-vs-transcription-moderation-writing-quality.md) — related
 - [SRSD had potentially positive effects on writing achievement for students with a specific learning disability, with 88% of single-case experiments showing positive effects](srsd-potentially-positive-writing-achievement-sld.md) — related
 - [Effects of writing instruction vary across dimensions of composition: quality 0.32, productivity 0.31, other 0.34, but fluency smaller and non-significant (0.15)](writing-instruction-effects-vary-by-composition-dimension.md) — related
+- [SRSD interventions produce large effect sizes on writing outcomes for students with EBD and meet standards for an evidence-based practice](srsd-writing-ebp-ebd.md) — related

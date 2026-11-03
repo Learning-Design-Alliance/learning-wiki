@@ -57,3 +57,4 @@ Descriptive statistics and ANOVA summary tables from the SPSS version 21 analysi
 - [Both groups improved from pretest to posttest, with the blended group's posttest means exceeding the control group's](pre-post-gains-blended-exceed-control.md) — related
 - [Students taught with the contextual mathematical thinking learning model showed significantly higher enhancement of higher-order thinking ability than the control group](cmtl-model-higher-gain-than-control.md) — related
 - [Higher-order thinking ability improved significantly in both the experimental and control groups after learning activities](within-group-hots-gains-significant.md) — related
+- [Overall, the experimental group's posttest average was significantly higher than the control group's despite both groups declining from pretest to posttest.](wikipedia-corpus-overall-posttest-significant-advantage.md) — related

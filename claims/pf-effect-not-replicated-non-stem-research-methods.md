@@ -61,3 +61,4 @@ The authors' two quasi-experimental studies with 212 and 152 10th graders, condu
 - [Ninth-grade students in a Productive Failure design scored significantly higher than Direct Instruction students on complex systems explanatory knowledge about climate](pf-beats-di-complex-systems-explanatory-knowledge.md) — related
 - [In young elementary students with a comparing-and-contrasting activity in instruction, problem solving prior to instruction (PF) showed no advantage over direct instruction (DI) for conceptual knowledge](pf-no-advantage-young-students-conceptual-knowledge.md) — related
 - [Productive failure instructional design in a seamless learning environment increased elementary students' collaborative problem-solving competency in science](productive-failure-seamless-collaborative-problem-solving.md) — related
+- [Lab findings on reflection may not transfer to authentic classroom environments](lab-class-transfer-caution-reflection-quizzing.md) — related

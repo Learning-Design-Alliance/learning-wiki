@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-03
 sources:
   - id: ben-clarke-2016
     resource: "https://doi.org/10.1080/19345747.2015.1116034"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` ROOTS intervention students' gains exceeded those of typically achieving students who were not eligible for ROOTS by 17.6 points on ASPENS (g = .45) and 5.4 points on oral counting (g = .23). [→ Ben Clarke 2016](#ben-clarke-2016)
@@ -55,3 +56,5 @@ Second set of partially clustered time × condition models comparing ROOTS stude
 - [ROOTS participation reduced the achievement gap between at-risk and non-at-risk students within intervention classrooms on the TEMA](roots-closed-achievement-gap-tema.md) — related
 - [The ROOTS kindergarten mathematics intervention significantly improved fall-to-spring gains on three of six outcome measures compared with control, with positive effect sizes on all measures](roots-kindergarten-intervention-efficacy.md) — related
 - [Kindergartners at risk for mathematics difficulties who participated in the ROOTS intervention demonstrated larger informal and formal early number skills gains than control peers](roots-participation-larger-informal-formal-number-skills-gains.md) — related
+- [An achievement gap remained between tutored at-risk students and typically developing peers despite significant tutoring gains](achievement-gap-remains-despite-tutoring-gains.md) — reports the opposite
+- [At-risk tutored students gained nearly 20 NCE points while non-tutored at-risk peers declined from fall to spring](nce-growth-tutored-versus-non-tutored-decline.md) — related

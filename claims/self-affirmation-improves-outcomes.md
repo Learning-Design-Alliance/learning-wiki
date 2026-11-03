@@ -118,3 +118,5 @@ Following an earlier successful large-scale replication in the same Midwestern s
 - [The article found no evidence that theorized moderators of self-affirmation effects (implementation, individual, or social-context differences) explained the difference between cohorts.](moderators-cannot-explain-difference.md) — related
 - [The article found no evidence of greater benefits for potentially threatened students or differential effectiveness by prior academic performance in cohort 2.](no-differential-benefit-threatened-or-prior-achievement.md) — related
 - [There was no difference by experimental condition in the trajectory of GPA across terms for Black and Hispanic students in cohort 2.](no-trajectory-difference-cohort2.md) — related
+- [Self-affirmation did not close the Black-White achievement gap, contradicting earlier findings](self-affirmation-no-black-white-gap-reduction.md) — reports the opposite
+- [Self-affirmation writing showed no overall average effect on seventh-grade state test scores in a district-wide randomized trial](self-affirmation-no-overall-test-score-effect.md) — related

@@ -51,6 +51,7 @@ The article's implementation model pairs a one-day workshop with ongoing coach s
 - [Provide ongoing, targeted professional learning on ESL instructional strategies for middle grades content-area teachers](ongoing-targeted-esl-professional-learning.md)
 - [Sustained, rigorous, relevant technology-centered PD with school-district support, collaborative facilitation, and lesson-plan sharing to promote faithful implementation](sustained-collaborative-dg-pd-design.md)
 - [Provide coaching and performance feedback to teachers after initial training to sustain knowledge and skills](post-training-coaching-and-performance-feedback.md)
+- [Extended professional development pairing CTE teachers with science teacher partners in a community of practice](science-in-cte-extended-pd-teacher-partners.md)
 
 ## Examples
 -

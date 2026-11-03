@@ -60,3 +60,4 @@ The only entry here is a policy report's narrative summary of Cohen et al. (2009
 - [The review reports that a brief values-affirmation writing assignment raised Black students' semester grades, narrowing the Black-White achievement gap](values-affirmation-grade-gains-reported.md) — related
 - [A district-wide randomized trial of values affirmation in 7th grade produced significant but relatively modest impacts compared to prior studies](values-affirmation-district-trial-modest-impacts.md) — related
 - [A large-scale replication of self-affirmation writing exercises found no evidence of treatment benefits for potentially threatened students in the new cohort 2 study.](cohort-2-self-affirmation-null-replication.md) — related
+- [Self-affirmation writing showed no overall average effect on seventh-grade state test scores in a district-wide randomized trial](self-affirmation-no-overall-test-score-effect.md) — related

@@ -50,3 +50,6 @@ Paired sample t-test on the quasi-experimental non-equivalent pretest-posttest g
 ## Related Claims
 - [Students taught with WSDC debate significantly outperformed control students on both critical thinking and speaking posttests](debate-outperforms-control-ct-and-speaking.md) — a broader claim this one bears on
 - [WSDC debate instruction significantly improved tenth-grade EFL students' speaking skill achievement within the experimental group](wsdc-debate-improves-efl-speaking-skill.md) — related
+- [Instructing critical thinking through debate significantly improves EFL learners' critical thinking skills compared to lecturing](debate-improves-efl-critical-thinking-skills.md) — related
+- [Instructing critical thinking through debate significantly improves EFL learners' reading comprehension compared to lecturing](debate-improves-efl-reading-comprehension.md) — related
+- [The vast majority of EFL learners perceive debate instruction as effective for developing critical thinking skills](students-perceive-debate-effective-for-ct.md) — related

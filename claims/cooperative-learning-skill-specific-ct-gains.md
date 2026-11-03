@@ -50,3 +50,4 @@ Between-group comparison of pre-to-post gains per CTTBE skill in the same quasi-
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
 - [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related
 - [Cooperative learning reduced disparities between students' critical thinking scores, with lower performers gaining most](cooperative-learning-reduces-score-disparities.md) — related
+- [PBL teaching significantly improves the critical thinking skills of analysis and interpretation in English-major sophomores](pbl-improves-analysis-interpretation-skills.md) — related

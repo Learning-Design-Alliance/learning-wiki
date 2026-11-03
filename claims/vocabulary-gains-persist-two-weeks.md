@@ -69,3 +69,4 @@ Delayed posttest administered 2 weeks after the first session to 14 of the initi
 - [Both groups declined in vocabulary scores on the delayed posttest, possibly because rare off-list words were encountered too few times](delayed-posttest-vocabulary-decline-off-list-words.md) — reports the opposite
 - [Vocabulary knowledge measured after audiovisual instruction remained stable between week one and week two, with changes restricted to one or two words](audiovisual-group-stable-retention-weeks.md) — related
 - [Vocabulary gains from textual gloss use occur immediately but are not maintained over three weeks across all proficiency levels](gloss-gains-not-maintained-three-weeks.md) — reports the opposite
+- [The intentional group lost more of its immediate vocabulary gain over four weeks than the incidental group](intentional-group-greater-loss-delayed-retention.md) — related

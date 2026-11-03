@@ -59,3 +59,4 @@ The review reports, citing Peters et al. (2009), a direct comparison showing inc
 - [Highly informative contexts produce higher retention of word meaning, with context affecting knowledge of meaning rather than form](informative-contexts-produce-higher-word-meaning-retention.md) — related
 - [In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print](sms-vocabulary-learning-beats-paper-materials.md) — related
 - [Explicit spelling instruction improves spelling skills more than incidental instruction (Hedges' g = 0.43) and more than no instruction (g = 0.54)](explicit-spelling-instruction-beats-incidental.md) — related
+- [The intentional group lost more of its immediate vocabulary gain over four weeks than the incidental group](intentional-group-greater-loss-delayed-retention.md) — reports the opposite

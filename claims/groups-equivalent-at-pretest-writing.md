@@ -64,3 +64,6 @@ Independent-samples t-test on pre-test essay scores of both groups (N = 25 each)
 - [Eleventh-grade students taught with the discourse analysis method showed larger pretest-to-posttest gains in textual analysis skill than the traditionally taught control group](discourse-analysis-improves-textual-analysis.md) — related
 - [Virtual collaborative writing yields higher clout, emotional tone and function-word scores than face-to-face pen-and-paper collaborative writing](telecollaborative-writing-higher-clout-tone-function-words.md) — related
 - [Paper-and-pencil concept mapping at the pre-writing stage significantly improved EFL students' argumentative essay performance across five writing aspects](concept-mapping-prewriting-improves-efl-argumentative-essays.md) — related
+- [Both wiki-based and traditional pen-and-paper process-based writing instruction improve EFL writing achievement across all measured subskills.](process-based-writing-improves-all-efl-writing-subskills.md) — related
+- [Wiki-based writing environments increase EFL writing achievement in content compared with traditional pen-and-paper process writing.](wiki-based-writing-increases-efl-content-achievement.md) — related
+- [MI-based instruction improved the making-suggestions subskill of EFL pre-service teachers](mi-instruction-improves-making-suggestions-subskill.md) — related

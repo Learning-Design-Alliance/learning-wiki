@@ -70,6 +70,7 @@ Assigned positions work because arguing a case requires deeper processing than r
 - **Mock trials and moot courts** (law school curricula) — Students are assigned roles (prosecution, defense, judge) and must argue or evaluate a case from within that role, with preparation from case files.
 - **Classroom deliberation formats such as [Talking Points](https://www.thersa.org) or structured deliberation protocols** — Learners receive a position card and must voice its arguments before open discussion, ensuring minority or unfamiliar positions are represented.
 - [Use structured classroom Debate with mandatory speaking roles to build ESL learners' willingness to communicate](../strategies/structured-debate-mandatory-speaking-roles.md)
+- [Use the Meeting-House Debate strategy to instruct critical thinking skills in EFL reading classes](../strategies/meeting-house-debate-strategy.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (1979). Conflict in the classroom: Controversy and learning. *Review of Educational Research, 49*(1), 51–70. [doi:10.3102/00346543049001051](https://doi.org/10.3102/00346543049001051)

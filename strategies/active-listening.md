@@ -79,12 +79,14 @@ Active listening functions as a learning strategy because it improves the qualit
 6. Debrief the practice itself: what did listeners learn they had misunderstood? This makes listening errors visible and revisable.
 
 ## Related Strategies
+
 - [Questioning Techniques](questioning-techniques.md) — clarifying questions are the probing half of active listening
 - [Peer Feedback Protocols](peer-feedback-protocols.md) — structured listening is the precondition for useful peer response
 - [Restorative Circles](restorative-circles.md) — community formats where listening turns are formally equalized
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a minimal structure that gives every student both speaking and listening roles
 - [Socratic Seminar](socratic-seminar.md) — extended discussion format where listening to and building on prior turns is the core skill
 - [Peer Feedback](../elements/peer-feedback.md) — feedback quality depends on accurately understanding the work and intent being reviewed
+- [Integrate the four core motivational interviewing skills into role-play conversations with virtual humans.](motivational-interviewing-role-play-strategy.md)
 
 ## Examples
 - **National School Reform Faculty Tuning Protocols** ([nsrfharmony.org](https://www.nsrfharmony.org)) — peer review protocols in which presenters speak uninterrupted while peers listen and only later question, making disciplined listening the engine of professional learning communities.

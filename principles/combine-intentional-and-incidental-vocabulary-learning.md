@@ -18,7 +18,7 @@ sources:
 # Combine intentional and incidental vocabulary learning rather than relying on incidental learning alone
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (16 for, 11 mixed, 2 against) · 20 studies (7 causal, 7 quant-synthesis, 5 review, 1 associational), `q1`–`q3` · 3 of 20 report an effect size · 24 claims rest on one study
+> **Evidence** · 31 claims (17 for, 12 mixed, 2 against) · 21 studies (8 causal, 7 quant-synthesis, 5 review, 1 associational), `q1`–`q3` · 3 of 21 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +123,7 @@ Every claim the earlier page cited is used in the model above. Claims found whil
 - [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](../claims/reading-versus-listening-incidental-vocabulary-gains.md) [+S]: proportions of words learned were similar for reading and listening (17% and 15% immediately); reading had the larger effect size on first posttests only. It bears on the low-literacy row (listening as the input mode).
 - [Extensive reading improves vocabulary acquisition and spelling through repeated meaningful exposure](../claims/extensive-reading-improves-vocabulary-and-spelling.md) [+W]: a curriculum review (rigour r1) with no effect sizes; bears on step 8 in direction only.
 - [After eight encounters in reading, L2 learners recognize the form and meaning of unknown words better than they can recall their meaning](../claims/eight-encounters-form-meaning-recognition-exceed-recall.md) [~M] — attached 2026-10-16 from Pellicer-Sánchez (2016), which proposed "Design extensive reading materials so that unknown vocabulary items recur about eight times for substantial incidental learning".
+- [Intentional condition outperformed incidental condition on immediate vocabulary retention (25.89 vs 22.87 out of 38)](../claims/intentional-immediate-retention-advantage-hypertext-gloss.md) [+W] — attached 2026-11-03 from Zandieh et al. (2012), which proposed "Combine incidental and intentional vocabulary-learning modalities in CALL environments".
 
 ## Objective and learner-valued goal
 
@@ -146,6 +147,7 @@ Words recognised at the end of a session, words recalled at a delay, words used 
 - [Extensive reading has a very large positive effect on English vocabulary learning in between-group comparisons (d = 1.32)](../claims/extensive-reading-large-effect-vocabulary-group-contrasts.md) [~W]
 - [Learning context (ESL vs EFL) does not significantly moderate the gloss effect, though EFL contexts showed a nominally larger effect](../claims/learning-context-not-significant-gloss-moderator.md) [~W]
 - [Observed classroom vocabulary teaching in the studied Tamil Nadu government school was a partial embedded method with minimal importance given to vocabulary and no intentional learning environment](../claims/partial-embedded-vocabulary-teaching-observed.md) [-W]
+- [The intentional group lost more of its immediate vocabulary gain over four weeks than the incidental group](../claims/intentional-group-greater-loss-delayed-retention.md) [~W]
 
 ## Related Principles
 - 

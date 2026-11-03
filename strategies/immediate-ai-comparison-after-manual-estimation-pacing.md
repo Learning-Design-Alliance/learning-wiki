@@ -42,6 +42,7 @@ For replication of the lesson design, the article recommends that "Within a stan
 - [Time Management In Instruction](time-management-in-instruction.md)
 - [Timers and Pacing](timers_and_pacing.md)
 - [Correlate mathematical and scientific studies through manual activities as a plan for lesson concentration](schrag-concentration-manual-activities.md)
+- [Double the forty-minute learning period to eighty minutes when using the demonstration method](double-period-demonstration-method.md)
 
 ## Examples
 -

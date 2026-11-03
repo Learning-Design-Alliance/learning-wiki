@@ -85,8 +85,10 @@ Concept mapping is the element in which learners represent concepts and their re
 - [Discussion-Based Learning](../principles/collaborative-learning.md)
 
 ## Examples
+
 - Learners map relationships among causes, effects, and stakeholders in a history unit.
 - Students revise a concept map before and after instruction to show changing understanding.
+- [Use Toulmin-based argumentation activities (developing arguments, competing theories, predict-observe-explain, expression tables, concept maps) with small-group techniques to teach science units.](../strategies/toulmin-argumentation-activity-strategy.md)
 
 ## Key Sources
 - Novak, J. D., & Cañas, A. J. (2008). The theory underlying concept maps and how to construct and use them. Technical Report IHMC CmapTools.

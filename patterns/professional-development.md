@@ -38,7 +38,7 @@ sources:
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 59 claims (36 for, 18 mixed, 5 against) · 52 studies (14 causal, 11 review, 10 qualitative, 8 quant-synthesis, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 8 of 52 report an effect size · 53 claims rest on one study
+> **Evidence** · 60 claims (37 for, 18 mixed, 5 against) · 53 studies (15 causal, 11 review, 10 qualitative, 8 quant-synthesis, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 8 of 53 report an effect size · 54 claims rest on one study
 
 ## Description and scope
 
@@ -185,6 +185,7 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [The 93-hour PD was implemented with high fidelity, and treatment teachers received 95 more hours of math-related PD than controls](../claims/pd-implemented-with-high-fidelity-95-hour-contrast.md) [~W]
 - [Teachers maintained Pyramid Model practices after coaching ended, with two of three teachers needing only brief reminders](../claims/pyramid-practice-maintenance-after-coaching-ends.md) [~W]
 - [Coaching produced no additional experimental gains on teacher self-reported efficacy or stress, and no significant pre-post ODR changes appeared in the full sample](../claims/no-coaching-effect-on-teacher-self-reports.md) [-W]
+- [CON-ELM teachers changed significantly more than ELM-ELM teachers for three of four teaching practices](../claims/con-elm-greater-change-than-elm-elm.md) [+W]
 
 ## Related Patterns
 

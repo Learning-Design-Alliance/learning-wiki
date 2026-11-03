@@ -52,3 +52,4 @@ Outcome finding from the same alternating-treatments study of middle school stud
 - [Middle school students with intellectual disabilities taught problem-solving or study planning skills showed significantly more capacity on the targeted skill than students in the alternating control group](self-determination-instruction-increased-targeted-skill-capacity.md) — related
 - [All four students achieved above the performance levels teachers expected on the Goal Attainment Scale, exceeding their personal goals by 10% to 20%](students-exceeded-teacher-gas-expectations.md) — possibly the same claim (merge candidate)
 - [Goal setting improves performance](goal-setting-improves-performance.md) — related
+- [The family-involved SDLMI significantly improves goal attainment in Korean language of middle school students with disabilities who exhibit problem behavior](family-involved-sdlmi-improves-goal-attainment.md) — related

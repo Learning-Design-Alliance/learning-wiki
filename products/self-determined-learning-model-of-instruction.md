@@ -14,13 +14,14 @@ generated:
 # Self-Determined Learning Model of Instruction
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 5 studies (1 causal, 1 quant-synthesis, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 1 of 5 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 against) · 6 studies (2 causal, 1 quant-synthesis, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 1 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 A teacher-implemented instructional model developed by Palmer et al. that guides young learners, including those with diverse learning needs, through interest investigation, choice making, and goal setting and attainment across curricular contexts.
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Self-Determination Learning Model of Instruction (SDLMI)**: The SDLMI is an instruction model that "enables teachers to achieve educational goals and students to employ self-regulated problem-solving strategies and to achieve self-selected goals." It consists of three steps: "setting a goal, taking action, and adjusting the goal and plan," operationalized through 12 questions that guide students to identify learning problems, explore solutions, and evaluate outcomes. Teachers ask questions and work with students to answer them, optimizing communication skills. In this study, the SDLMI was applied in Korean language classes with additional components added to involve families. (Kim et al. (2012))
 
 ### Claims
 - [Young children ages 5-6 can set learning goals and use the Self-Determined Learning Model of Instruction to achieve them](../claims/young-children-set-goals-sdlmi-achieve.md) [+M]
@@ -28,6 +29,8 @@ A teacher-implemented instructional model developed by Palmer et al. that guides
 - [Self-regulated problem-solving instruction produced immediate, marked increases in target behaviors for all four students, with a mean of 2.3 training sessions to reach 80% mastery](../claims/problem-solving-instruction-increases-target-behaviors-developmental-disabilities.md) [+M]
 - [Students' baseline performance of target behaviors was low (0% to 20%) and rose to 100%, maintained by Andy, Jane, and Joan during the maintenance condition](../claims/baseline-low-performance-maintained-100-percent.md) [+M]
 - Authentic student choice of goal; a teacher-imposed goal defeats the model's purpose [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [-S]
+- [The family-involved SDLMI significantly improves academic engagement of middle school students with disabilities who exhibit problem behavior](../claims/family-involved-sdlmi-improves-academic-engagement.md) [+M]
+- [The family-involved SDLMI significantly improves goal attainment in Korean language of middle school students with disabilities who exhibit problem behavior](../claims/family-involved-sdlmi-improves-goal-attainment.md) [+M]
 
 ## Using it in practice
 <!-- The classroom recipe from the strategy page folded into this one (2026-10-20), shown here so it stays readable; the full old body is in the merged comment below. -->
@@ -61,8 +64,8 @@ A teacher-implemented instructional model developed by Palmer et al. that guides
 - Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [doi:10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 - Raley, S. K., Shogren, K. A., & McDonald, A. (2018). Whole-class implementation of the Self-Determined Learning Model of Instruction in inclusive high school mathematics classes. *Inclusion, 6*(3), 164–174.
-
 <!-- merged 2026-10-20 from strategies/self-determined-learning-model-of-instruction ("Self-Determined Learning Model of Instruction"), misfiled as a strategie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Kim, N. H., & Park, J. (2012). The effects of the family-involved SDLMI on academic engagement and goal attainment of middle school students with disabilities who exhibit problem behavior. International Journal of Special Education, 27(1), 117-127. https://eric.ed.gov/?id=EJ977631
 
 # Self-Determined Learning Model of Instruction
 

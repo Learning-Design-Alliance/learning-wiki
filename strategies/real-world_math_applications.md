@@ -93,6 +93,7 @@ Authentic contexts can support transfer by helping learners map abstract structu
 - [Implement contextual teaching and learning where application of knowledge is the instructional goal, with confidence that basic content mastery is maintained](implement-ctl-when-application-is-goal.md)
 - [Three-part learning support: contextualized real-world problems, hot topics, and question-and-answer](three-part-learning-support-strategy.md)
 - [Present contextual mathematics problems in the local cultural context](local-cultural-context-problems-strategy.md)
+- [Ground problem solving tasks in learners' real-world contexts to reduce extraneous cognitive load](ground-tasks-in-learners-real-world-contexts.md)
 
 ## Examples
 - **[The Math Forum / NCTM Illuminations](https://www.nctm.org/classroom-resources/illuminations/)** — published lessons anchoring standards-aligned mathematics in authentic scenarios (design, finance, data).

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-03
 sources:
   - id: temel-2014
     resource: "https://eric.ed.gov/?id=EJ1136398"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A two-way ANOVA found no significant difference between pre-test–post-test CCTDI scores according to teaching method (PBL vs traditional). [→ Temel 2014](#temel-2014)
@@ -56,3 +57,7 @@ True experimental pre-test–post-test control group study; 49 pre-service teach
 - [Control group showed no statistically significant pre-test to post-test change in critical thinking disposition](control-group-no-cctdi-change.md) — related
 - [Descriptive means moved in opposite directions: the treatment group's critical thinking disposition mean rose while the control group's fell](ctd-means-opposite-directions.md) — related
 - [Moodle-based online argumentation implementation improved critical thinking disposition of science teacher candidates compared with a control group](moodle-online-argumentation-critical-thinking-disposition.md) — related
+- [PBL teaching significantly improves the critical thinking temperament dimensions of analysis, openness and justice in English-major sophomores](pbl-improves-analysis-openness-justice-temperament.md) — related
+- [PBL teaching did not significantly improve students' CET4 English scores compared with traditional teaching](pbl-no-effect-english-scores.md) — related
+- [Traditional classroom teaching showed no significant improvement in students' critical thinking ability over the same period](traditional-teaching-no-critical-thinking-gain.md) — related
+- [PBL teaching significantly improves the critical thinking skills of analysis and interpretation in English-major sophomores](pbl-improves-analysis-interpretation-skills.md) — related

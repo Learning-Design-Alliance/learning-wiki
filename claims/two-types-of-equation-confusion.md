@@ -48,3 +48,4 @@ Meeting report of Thorndike's paper on the psychology of the equation, distingui
 - [Combining utility value of distinguishing with conditional knowledge fosters interleaving of confusable categories (Abel et al., 2024)](utility-value-conditional-knowledge-foster-interleaving.md) — related
 - [Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation](dahmus-students-translate-but-no-single-equation.md) — related
 - [A gradient-matching algorithm decomposes almost any composite student equation into primitive physics equations](shapiro-equation-decomposition-algorithm.md) — related
+- [Most error types in financial mathematics pre-tests involved confusing accumulated amount with interest or selecting the wrong formula](financial-mathematics-error-types-reverse-and-formula.md) — related

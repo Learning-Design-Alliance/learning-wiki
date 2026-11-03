@@ -60,3 +60,4 @@ Quasi-experiment with 38 intermediate-level university EFL students: treatment g
 - [The process writing approach significantly improved academic writing success among first-year preschool teaching students relative to traditional instruction](process-writing-improves-academic-writing-success.md) — related
 - [Paper-and-pencil concept mapping at the pre-writing stage significantly improved EFL students' argumentative essay performance across five writing aspects](concept-mapping-prewriting-improves-efl-argumentative-essays.md) — related
 - [Genre-based instruction produces significantly better post-test writing performance than traditional instruction for Iranian EFL learners](genre-based-instruction-improves-efl-writing-posttest.md) — related
+- [Contextual teaching and learning produces higher argumentative writing scores than non-contextual instruction in university students](ctl-improves-argumentative-writing-hasani.md) — related

@@ -69,3 +69,4 @@ The article reports that data indicated the worked example effect could be obtai
 - [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — possibly the same claim (merge candidate)
 - [Under many circumstances, studying worked examples produced superior learning compared to active problem solving, as suggested by previous research](worked-examples-superior-to-problem-solving-many-circumstances.md) — a broader claim this one bears on
 - [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](worked-examples-better-than-problem-solving-cited.md) — related
+- [Learners in the integrated-format condition experienced fewer cognitive-load challenges than learners in the split-attention condition](split-attention-integrated-format-fewer-challenges.md) — related

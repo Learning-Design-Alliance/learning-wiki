@@ -49,3 +49,4 @@ Covariance analysis of the final knowledge test's reproduction section (Table 2 
 - [Project-method learners significantly outperformed control learners on the final test's understanding-level questions](project-method-understanding-level-final-test.md) — related
 - [Fourth graders taught science and social studies through the project method achieved higher final-test knowledge than peers taught in the usual way](project-method-higher-final-knowledge-young-learners.md) — a broader claim this one bears on
 - [Ninth-grade students taught Newton's Laws through project-based learning game techniques scored significantly higher on a concept achievement post-test than students taught by traditional methods](pbl-game-techniques-higher-physics-posttest.md) — related
+- [Project scores were comparable between conditions except the fifth project, where the control group scored higher](project-scores-fifth-project-control-higher.md) — reports the opposite

@@ -60,9 +60,11 @@ STT functions as an [accommodation](../elements/accommodations.md) that bypasses
 6. Review progress periodically and decide whether to maintain, fade, or expand STT use
 
 ## Related Strategies
+
 - [Word Prediction Software](word-prediction-software.md) — the complementary transcription support for learners who type but spell poorly
 - [Text-to-Speech Technology](text-to-speech-technology.md) — the inverse accommodation; pairing the two lets learners hear and check their dictated text
 - [Graphic Organizers](graphic-organizers.md) — pre-dictation planning structures that compensate for the linear nature of speech
+- [Use oral elicited imitation tasks with automatic speech recognition as meaningful spoken practice](oeit-with-asr-for-spoken-practice.md)
 
 ## Examples
 - **Dragon Speech Recognition (Nuance)** — professional-grade dictation with voice training and custom vocabulary; widely used for students with severe dysgraphia or motor impairments

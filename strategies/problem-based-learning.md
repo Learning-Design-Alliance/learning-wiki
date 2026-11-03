@@ -68,6 +68,7 @@ PBL aims to build flexible, usable knowledge by anchoring it in the context of a
 - [Choose TBL over PBL when faculty resources are constrained](tbl-resource-efficient-faculty-shortages.md)
 - [Introduce and promote PBL pedagogy in undergraduate pharmacology education](promote-pbl-undergraduate-pharmacology.md)
 - [Design PBL courses around small group size and realistic case scenarios to support student satisfaction](pbl-small-groups-realistic-cases-satisfaction.md)
+- [Structure PBL instruction through the five steps of question, analysis, problem solving, results reporting, and reflection and evaluation](pbl-five-step-english-teaching-strategy.md)
 
 ## Examples
 - **McMaster University Medical School** — the original PBL curriculum (1969), in which small tutorial groups work through patient problems; adopted widely, notably at Maastricht University ([https://www.maastrichtuniversity.nl](https://www.maastrichtuniversity.nl))

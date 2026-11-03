@@ -74,3 +74,4 @@ Review reports correlational evidence on perceived assessment appropriateness an
 - [Student teachers' beliefs about sources of knowledge predict their learning approaches and motivation in teacher education](source-of-knowledge-beliefs-predict-learning-approaches.md) — related
 - [Traditional rote-memorization exams became infeasible during online teaching, and teachers moved toward practices resembling authentic assessment](rote-exams-infeasible-authentic-assessment-shift.md) — related
 - [Teacher-centred students reported cognitive difficulties including inefficient, transient, superficial and rote learning](tcbio-inefficient-transient-superficial-rote-learning.md) — related
+- [PBL supports deep, meaningful, and permanent learning while LBCC is associated with superficial learning](pbl-deep-learning-vs-lbcc-superficial.md) — a narrower finding that bears on this claim

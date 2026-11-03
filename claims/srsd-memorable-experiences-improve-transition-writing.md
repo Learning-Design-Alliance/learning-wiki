@@ -57,3 +57,4 @@ Primary analysis of a pragmatic randomised controlled trial using a cross-classi
 - [Small group teaching appears an effective strategy for raising writing skills among pupils between Levels 3c and 4b](small-group-teaching-effective-writing-levels-3c-4b.md) — related
 - [The Discover Summer School showed no statistically significant effect on spelling and grammar attainment](discover-summer-school-no-significant-spelling-grammar-effect.md) — related
 - [The Discover Summer School showed no statistically significant effect on extended writing attainment in an underpowered randomised trial](discover-summer-school-no-significant-writing-effect.md) — reports the opposite
+- [SRSD interventions produce large effect sizes on writing outcomes for students with EBD and meet standards for an evidence-based practice](srsd-writing-ebp-ebd.md) — related

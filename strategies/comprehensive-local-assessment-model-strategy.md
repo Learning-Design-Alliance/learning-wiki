@@ -47,6 +47,7 @@ The authors recommend that schools employ a more comprehensive assessment model 
 ## Related Strategies
 
 - [Use multiple evidence sources alongside benchmark scores when identifying students for intensive intervention](combine-screening-benchmarks-with-other-risk-factors.md)
+- [Foster a school-university collaborative relationship to support identification, assessment access, and communication](school-university-collaborative-relationship.md)
 
 ## Examples
 -

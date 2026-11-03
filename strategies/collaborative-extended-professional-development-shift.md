@@ -56,6 +56,7 @@ The article recommends replacing traditional single-day workshops with professio
 - [Use structured professional development workshops featuring the PPH framework to build workforce confidence for pro-environmental change](structured-pd-workshops-pph-confidence.md)
 - [Policy actions to build collaborative professional capacity through PLCs](plc-supportive-staffing-and-policy-actions.md)
 - [Collaborative Autoethnography for Teacher PD](collaborative-autoethnography-for-teacher-pd.md)
+- [Extended professional development pairing CTE teachers with science teacher partners in a community of practice](science-in-cte-extended-pd-teacher-partners.md)
 
 ## Examples
 -

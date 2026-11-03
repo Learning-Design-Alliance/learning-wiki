@@ -66,6 +66,7 @@ Bilingual texts let multilingual learners access grade-level concepts through th
 - [Accessible Vocabulary and Syntax](../principles/accessible-vocabulary-syntax.md) — bilingual glossaries and cognate instruction complement simplified L2 text
 - Dialogic Reading — bilingual shared reading at home extends the strategy to families
 - [Teach in students' home language in primary, assess learning levels and differentiate instruction, and align teacher training with language-of-instruction policy](sl-home-language-assessment-differentiation.md)
+- [Use keyword method with L1 translations and pictures for deliberate vocabulary study](keyword-method-l1-pictures-vocabulary-strategy.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — bilingual editions can serve as the assigned text with L2 follow-up

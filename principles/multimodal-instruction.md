@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 59 claims (29 for, 26 mixed, 4 against) · 55 studies (28 causal, 12 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 12 of 55 report an effect size · 53 claims rest on one study
+> **Evidence** · 61 claims (31 for, 26 mixed, 4 against) · 56 studies (29 causal, 12 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 13 of 56 report an effect size · 55 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Learners taught with the audiovisual method showed higher vocabulary retention in week two than learners taught with the conventional method](../claims/audiovisual-method-higher-vocabulary-retention.md) [+W] — attached 2026-11-02 from Bozavlı (2017), which proposed "Present new vocabulary with simultaneous voice and written script so learners hear pronunciation while following the text"; tests this page's relationship.
 - [Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported](../claims/video-based-tasks-improve-listening-comprehension.md) [+W] — attached 2026-11-02 from Abdullah Sarani et al. (2014), which proposed "Use video rather than audio-only materials for listening instruction because visual cues convey contextual and paralinguistic meaning"; tests this page's relationship.
 - [TPR instruction significantly improves EFL young learners' L2 vocabulary knowledge from pretest to posttest](../claims/tpr-improves-iranian-efl-childrens-vocabulary.md) [+W] — attached 2026-11-02 from Nazgol Nekoui Naeini (2016), which proposed "Teach vocabulary to young beginning EFL learners through coordinated speech and physical action (TPR)".
+- [Multisensory language teaching improves post-test reading achievement in young English learners compared with mainstream coursebook instruction.](../claims/mslt-improves-post-test-reading-achievement.md) [+W] — attached 2026-11-03 from Çelik Korkmaz et al. (2018), which proposed "Supporting coursebooks with supplementary multisensory materials and activities makes learning more fun and permanent."; tests this page's relationship.
+- [Multisensory language teaching improves reading retention in young English learners a month after treatment, with a large effect size.](../claims/mslt-improves-reading-retention.md) [+W] — attached 2026-11-03 from Çelik Korkmaz et al. (2018), which proposed "Supporting coursebooks with supplementary multisensory materials and activities makes learning more fun and permanent."; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

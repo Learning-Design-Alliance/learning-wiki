@@ -43,7 +43,8 @@ The article suggests that material developers and curriculum designers should "d
 - [The experimental group's collocation scores improved significantly from pretest to posttest after corpus-based instruction](../claims/experimental-group-significant-pre-post-gain-corpus-instruction.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Corpus-based group discovery of word collocations using KWIC concordance lines](corpus-kwic-group-discovery-lexical-learning.md)
 
 ## Examples
 -

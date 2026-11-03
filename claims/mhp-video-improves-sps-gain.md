@@ -48,3 +48,5 @@ Quasi-experimental non-equivalent control group study with 28 students per class
 - [Between-subjects tests show significant video effects on both gain scores separately: SPS (Sig. 0.001) and concept mastery (Sig. 0.002)](between-subjects-significant-gains-sps-and-cm.md) — related
 - [A science learning video integrated with a local MHP plant improves junior high students' concept mastery more than PowerPoint images-narration](mhp-video-improves-concept-mastery-gain.md) — related
 - [MANOVA shows a significant multivariate class effect favoring the video group on SPS and concept mastery combined](manova-significant-class-effect-sps-cm.md) — possibly the same claim (merge candidate)
+- [Experimental class shows higher average SPS observation percentages across all three meetings](experimental-class-higher-sps-observation-across-meetings.md) — related
+- [Experimental class outperforms control class on every individual science process skill indicator](experimental-class-outperforms-every-sps-indicator.md) — related

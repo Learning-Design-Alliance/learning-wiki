@@ -70,3 +70,4 @@ Independent-samples t-tests comparing 67 lower-proficiency (L) and 30 higher-pro
 - [Different dashboard designs produce different learning outcome impacts, as predictive and descriptive dashboards diverge](lad-design-type-moderates-outcomes.md) — related
 - [The proficiency grouping procedure produced a very large pre-test difference between high- and low-proficiency groups](proficiency-grouping-large-pretest-difference.md) — related
 - [Speaking proficiency and speaking anxiety were significantly negatively correlated at posttest](speaking-proficiency-anxiety-negative-correlation.md) — related
+- [Self-efficacy correlates positively with foreign language achievement measures](self-efficacy-correlates-language-achievement.md) — related

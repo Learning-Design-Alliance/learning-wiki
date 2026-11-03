@@ -51,3 +51,5 @@ Quasi-experimental pre-post study: twenty experimental-group students taught via
 - [The experimental group's descriptive pre- and post-test means were higher than the control group's, but the unadjusted difference was not tested](mi-descriptive-pre-post-means.md) — related
 - [The CAI group shows no statistically significant pre-test to post-test gain in learning Voice in English Grammar](cai-within-group-gain-not-significant.md) — related
 - [The experimental group's achievement scores improved significantly from pre-test to post-test after instruction with e-Mind Maps](e-mind-maps-within-group-achievement-gain.md) — related
+- [MI-based instruction improved overall EFL pre-service teacher speaking performance in a one-group pre-post design](mi-instruction-improves-efl-preservice-speaking-overall.md) — related
+- [MI-based instruction improved the making-requests subskill of EFL pre-service teachers](mi-instruction-improves-making-requests-subskill.md) — related

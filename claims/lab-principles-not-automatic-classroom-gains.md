@@ -47,3 +47,4 @@ Authors' interpretation (type e) from the Discussion, drawing on their two exper
 ## Related Claims
 - [Laboratory-identified behavioural markers of states such as confusion can, with care, indicate the same state in real online learning environments](lab-behavioural-markers-transfer-online.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
+- [Lab findings on reflection may not transfer to authentic classroom environments](lab-class-transfer-caution-reflection-quizzing.md) — a narrower finding that bears on this claim

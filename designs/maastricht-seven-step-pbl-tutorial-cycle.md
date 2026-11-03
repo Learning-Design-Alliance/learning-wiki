@@ -44,7 +44,8 @@ The course used a hybrid form of the 7-step Maastricht PBL model in which a case
 - [Pbl Skills Interpersonal Problem Solving Group](../claims/pbl-skills-interpersonal-problem-solving-group.md) [+W]
 
 ## Related Designs
-- 
+
+- [PBL course structure with weekly problem situations, small-group problem-solving plans, and end-of-week solution presentations](pbl-weekly-problem-cycle-small-groups.md)
 
 ## Examples
 -

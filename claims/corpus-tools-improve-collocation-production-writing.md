@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-03
 sources:
   - id: kartal-and-yangineksi-2018
     resource: "https://so04.tci-thaijo.org/index.php/pasaa"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Controlling for pre-test production, the corpus group produced significantly more correct verb-noun collocations in post-experiment writing than the control group, with a medium-to-large effect size (r = .418, adjusted r = .397). [→ Kartal and Yangineksi 2018](#kartal-and-yangineksi-2018)
@@ -52,3 +53,6 @@ ANCOVA on collocation production counts from mid-term (pre) and final (post) exa
 - [Corpus-based collocation findings align with prior concordancing and data-driven learning studies](corpus-collocation-findings-consistent-with-prior-ddl-research.md) — a broader claim this one bears on
 - [Written corrective feedback reduces grammatical errors in EFL post-test writing](wcf-reduces-grammatical-errors-posttest.md) — related
 - [EFL student teachers hold positive views of concordancing for collocation learning and most intend future use](student-teachers-positive-views-concordancing.md) — related
+- [Corpus-based lexical instruction using the Wikipedia Corpus produced significantly higher lexical gains than conventional instruction for medium-level (Level II) learners.](wikipedia-corpus-medium-level-learners-significant-gains.md) — related
+- [For advanced (Level I) learners, conventional instruction was slightly more suitable than corpus-based instruction, though the difference was not statistically significant.](wikipedia-corpus-advanced-learners-no-significant-difference.md) — related
+- [Low-level (Level III) learners performed significantly better under conventional lexical instruction than under corpus-based instruction with the Wikipedia Corpus.](wikipedia-corpus-low-level-learners-disadvantaged.md) — related

@@ -66,3 +66,5 @@ Quasi-experimental comparison of two intact College Algebra classes taught by th
 - [Problem solving strategy is more effective than the scientific approach for 10th-grade students' mathematical communication ability](problem-solving-strategy-more-effective-communication.md) — related
 - [Students using worked-example worksheets in weekly Supplemental Practice sessions significantly outperformed control students on test 3 and the final exam in a large College Algebra course](sp-worked-examples-outperform-test3-final.md) — related
 - [Post-test achievement was significantly higher for students taught with problem-solving instruction than with conventional lecture](problem-solving-instruction-significant-posttest-advantage.md) — related
+- [Students taught by WRD-trained teachers achieve significantly higher learning outcomes than students in control classes](wrd-trained-teachers-boost-student-achievement.md) — related
+- [CBPSI significantly improved problem solving performance of Grade 10 learners from pre-test to post-test](cbpsi-improves-problem-solving-performance-grade-10.md) — related

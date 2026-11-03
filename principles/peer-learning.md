@@ -51,7 +51,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 55 claims (30 for, 24 mixed, 1 against) · 58 studies (17 causal, 13 quant-synthesis, 8 review, 6 qualitative, 5 associational, 5 design, 4 theoretical), `q1`–`q4` · 13 of 58 report an effect size · 47 claims rest on one study
+> **Evidence** · 56 claims (30 for, 25 mixed, 1 against) · 59 studies (17 causal, 13 quant-synthesis, 9 review, 6 qualitative, 5 associational, 5 design, 4 theoretical), `q1`–`q4` · 13 of 59 report an effect size · 48 claims rest on one study
 
 ## Conditional relationship
 
@@ -198,6 +198,7 @@ Pair performance, each learner's immediate unaided performance, delayed retentio
 - [Peer tutoring significantly improved achievement at the comprehension level of the cognitive domain](../claims/peer-tutoring-comprehension-level-achievement.md) [+W]
 - [Teachers in a 16-week cross-age peer tutoring RCT reported high implementation fidelity and support, with 94% reporting pairs worked well together](../claims/teacher-reported-high-fidelity-peer-tutoring-implementation.md) [+W]
 - [Being the peer teacher showed a slight, non-significant trend toward higher test scores on the content the student prepared and presented](../claims/peer-teacher-slight-nonsignificant-score-advantage.md) [~W]
+- [Peer tutoring interventions are effective for students with EBD, and those with EBD benefit most among students with disabilities](../claims/peer-tutoring-effective-ebd.md) [~W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — one of the clearest vehicles for peer learning

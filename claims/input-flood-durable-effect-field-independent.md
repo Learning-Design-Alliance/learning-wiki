@@ -51,3 +51,4 @@ Paired comparison for field-independent learners in the input flood group: delay
 - [Input flood treatment has no durable long-term effect on field-dependent learners' collocation knowledge](input-flood-no-durable-effect-field-dependent.md) — reports the opposite
 - [Input flood treatment improves EFL learners' collocation knowledge relative to regular instruction in both immediate and delayed post-tests](input-flood-improves-collocation-knowledge-short-and-long-term.md) — a broader claim this one bears on
 - [Delayed post-test performance of feedback recipients still exceeds control group post-test performance](wcf-delayed-still-exceeds-control.md) — related
+- [Post-presentation input flooding via reading significantly improves simple past tense recognition scores relative to traditional instruction](post-presentation-flooding-improves-past-tense-recognition.md) — a narrower finding that bears on this claim

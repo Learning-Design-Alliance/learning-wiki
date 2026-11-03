@@ -58,9 +58,11 @@ Repeated, spaced encounters with content strengthen retention far more than a si
 6. Use brief [Assessment](../elements/assessment.md) checkpoints to decide whether further exposures are needed or the content can be faded.
 
 ## Related Strategies
+
 - [Spaced Practice](../principles/spaced-learning.md) — the scheduling principle that governs *when* multiple exposures should occur
 - [Retrieval Practice](retrieval-practice-activities.md) — the most effective way to make each exposure active
 - [Interleaving](interleaving.md) — mixing exposures to related topics so each encounter also requires discrimination
+- [Train oral presentation techniques then provide repeated real application opportunities](presentation-techniques-plus-repeated-application.md)
 
 ## Examples
 - **Spiral curricula in mathematics (e.g., [Illustrative Mathematics](https://illustrativemathematics.org))** — core concepts such as proportional reasoning reappear across units in increasingly complex contexts, each time with new problem types.

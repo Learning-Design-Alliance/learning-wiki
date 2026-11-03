@@ -49,3 +49,4 @@ Qualitative content analysis of semi-structured interviews with the executive te
 - [Pre-service teachers choose strategies, methods, and techniques mainly for fit with objective content and for promoting active student participation](reasons-for-choosing-strategies-methods-techniques.md) — related
 - [WebQuest-based mathematics instruction improves retention of data, counting and probability learning three months after instruction](webquests-improve-math-retention-delayed-posttest.md) — related
 - [The article concludes that computer-assisted education produced more permanent and more associable learning of seasons concepts than traditional teaching methods](cae-permanent-associable-learning-seasons.md) — related
+- [Students report that Parole makes vocabulary learning permanent but time-consuming](parole-user-perceptions-permanence-and-time-cost.md) — related

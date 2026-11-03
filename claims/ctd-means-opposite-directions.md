@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-11-03
 sources:
   - id: norazlinda-mohd-darby-abdullah-mat-rashid-2017
     resource: "https://doi.org/10.5539/jel.v6n3p305"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The control group's mean declined from 51.66 to 50.80 while the treatment group's mean rose from 51.77 to 52.36 across the intervention. [→ Norazlinda Mohd Darby & Abdullah Mat Rashid 2017](#norazlinda-mohd-darby-abdullah-mat-rashid-2017)
@@ -57,3 +58,6 @@ Descriptive statistics from the quasi-experiment (Table 3): control group M 51.6
 - [Moodle-based online argumentation implementation improved critical thinking disposition of science teacher candidates compared with a control group](moodle-online-argumentation-critical-thinking-disposition.md) — related
 - [PBL and traditional teaching do not differ significantly in their effect on pre-service teachers’ critical thinking dispositions](pbl-no-difference-critical-thinking-disposition.md) — related
 - [Raw post-test descriptive means rose for the PowerPoint group (59.9 to 68.4) but stayed flat for the control group (58.45 to 58.1)](ppt-listening-pre-post-descriptives.md) — related
+- [The experimental group's distribution across motivational levels shifted toward higher levels from pre-test to post-test while the control group's did not](experimental-group-level-shift-motivational-component.md) — related
+- [PBL teaching significantly improves the critical thinking temperament dimensions of analysis, openness and justice in English-major sophomores](pbl-improves-analysis-openness-justice-temperament.md) — related
+- [Both groups improved significantly from pre-test to post-test with no pre-existing difference between them](significant-pre-post-gains-both-esp-groups.md) — related

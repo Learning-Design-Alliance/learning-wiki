@@ -60,6 +60,8 @@ The page specifies a professional development model for implementing Readable En
 - [Implement strategy interventions through regular teachers with minimal professional development and structured materials](teacher-led-minimal-pd-intervention-strategy.md)
 - [Pair new instructional practices with sustained in-class coaching after initial professional development](coaching-support-after-pd-for-fidelity.md)
 - [Run an after-school literacy tutoring program pairing an existing after-school site, a structured scripted curriculum, and service-learning college student tutors](service-learning-after-school-tutoring-model.md)
+- [Extended professional development pairing CTE teachers with science teacher partners in a community of practice](science-in-cte-extended-pd-teacher-partners.md)
+- [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
 
 ## Examples
 -

@@ -57,8 +57,10 @@ Value affirmation addresses the motivational and identity-based barriers that de
 5. Avoid collecting or grading the writing; evaluative framing undermines the self-integrity mechanism
 
 ## Related Strategies
+
 - [Belonging interventions](belonging-interventions.md) — the closely related family of social-psychological interventions; both target threat rather than content
 - [Check-In](../elements/check-in.md) — routine affective monitoring that sustains the same psychological safety over time
+- [Brief in-school self-affirmation writing exercises administered before major assessments](self-affirmation-writing-exercise-strategy.md)
 
 ## Examples
 - **Cohen et al. (2006, 2009)** — Seventh-grade students completed a values-affirmation writing assignment early in the term; African American students' grade gaps were substantially reduced, with effects persisting through middle school.

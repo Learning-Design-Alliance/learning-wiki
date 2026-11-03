@@ -66,3 +66,4 @@ Independent samples t-test (unequal variances assumed) comparing total marks of 
 - [The prw group scored higher on six of seven inferential-comprehension sub-skills, but only the sequence sub-skill difference was statistically significant](prw-subskill-performance-mixed-significance.md) — related
 - [At post-test the experimental group significantly outperformed the control group on all six motor tests, at significance levels varying from p<0.05 to p<0.001](post-test-experimental-outperforms-control-motor-tests.md) — related
 - [ANOVA showed a significant difference in reading comprehension posttest performance among the three strategy groups](anova-significant-posttest-difference-three-groups.md) — related
+- [Post-test comparison shows the PBL group significantly outperformed the control group on analysis, openness and justice temperaments and analysis and interpretation skills](pbl-posttest-group-differences.md) — related

@@ -93,6 +93,7 @@ PBS reframes behavior management from reactive discipline to instructional desig
 - [Sustain and resource statewide PBIS scale-up with emphasis on advanced-tier implementation support](statewide-pbis-scale-up-advanced-tier-support.md)
 - [Target school-climate improvement within individual schools and communities, using schoolwide behavior systems, social-emotional learning, and compensatory supports](school-climate-improvement-strategies-for-equity.md)
 - [School-level strategies for improving school climate](school-climate-improvement-strategies.md)
+- [Use tier 2 and 3 school-wide positive behavior supports alongside academic instruction to increase attentiveness and engagement](tier2-tier3-pbis-academic-ebd.md)
 
 ## Examples
 - **SWPBIS** (https://www.pbis.org) — the U.S. OSEP-funded national implementation framework; thousands of schools report reduced office discipline referrals under faithful Tier 1 implementation [~S]

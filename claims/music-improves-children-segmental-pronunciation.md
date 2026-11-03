@@ -48,3 +48,4 @@ Independent-sample t-test comparing posttest pronunciation scores of 15 experime
 - [Music-based song instruction improves Iranian children's intonation more than teacher-read song instruction](music-improves-children-intonation.md) — related
 - [Music-based song instruction improves Iranian children's stress pattern recognition more than teacher-read song instruction](music-improves-children-stress-pattern-recognition.md) — related
 - [Gains were largest in stress and pronunciation, smallest in speech-sound articulation, and about 10% of experimental students showed no progress](component-level-prosodic-gain-pattern.md) — related
+- [Songs were selected based on popularity, familiarity, amount, and speed of speech delivery criteria](song-selection-criteria-connected-speech.md) — related

@@ -67,9 +67,11 @@ Authors' observation during game sessions in the computer classroom: students wa
 - [Collaboration](../learner-variables/collaboration.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Students predominantly evaluated team success as fast gameplay, equating efficiency and victory with good teamwork despite prior instructions](students-equate-team-success-with-speed.md) — reports the opposite
 - [Hackathon teams face 16 general challenges across seven types that hamper teamwork](hackathon-teamwork-challenges-sixteen-general-seven-types.md) — a broader claim this one bears on
 - [Specific teamwork challenges hinder development of mutual trust and shared mental models in a hackathon CSCL setting](challenges-hinder-mutual-trust-shared-mental-models.md) — a broader claim this one bears on
 - [Good quality coach-athlete relationships are associated with satisfaction with performance, personal treatment and training, higher motivation and physical self-concept, and greater team cohesion and collective efficacy](relationship-quality-consequent-outcomes.md) — related
 - [Local teams learn more than geographically distributed teams, but dispersed teams can communicate as effectively as co-located teams given sufficient time to develop group relationships](distributed-teams-communication-effectiveness.md) — related
 - [The process evaluation found PBL developed pupils' oracy, communication, teamwork and research skills](pbl-process-evaluation-skills-benefits.md) — related
+- [Students' main motivation for learning physics is gaining good marks, with very low internal motivation](low-internal-motivation-physics-marks.md)

@@ -54,3 +54,5 @@ Paired-samples t-test comparing the experimental group's pre- and post-test spea
 - [Pictorial aids improve intermediate EFL learners' speaking proficiency compared with traditional instruction](pictorial-aids-improve-efl-speaking-proficiency.md) — possibly the same claim (merge candidate)
 - [Tutored problem-based learning through cognition-based tasks significantly increased Iranian intermediate EFL learners' speaking proficiency from pretest to posttest](pbl-cognition-tasks-increase-speaking-proficiency.md) — possibly the same claim (merge candidate)
 - [The experimental group improved significantly from pre-test to post-test in overall speaking proficiency, with a large within-group effect](experimental-group-prepost-speaking-gain.md) — possibly the same claim (merge candidate)
+- [Second Life speaking activities increase EFL learners' speaking achievement](sl-speaking-activities-increase-achievement.md) — possibly the same claim (merge candidate)
+- [Traditional speaking activities increase EFL learners' speaking achievement](traditional-speaking-activities-increase-achievement.md) — related

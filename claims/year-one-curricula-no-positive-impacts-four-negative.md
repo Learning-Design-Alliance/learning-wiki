@@ -79,3 +79,4 @@ First-year (2006-2007) results of the school-level randomized evaluation, report
 - [After one year, RSF Cohort 2 students generally performed at the same levels as matched comparison students, with only three statistically significant differences](rsf-cohort2-few-significant-differences-vs-matched-controls.md) — related
 - [The intervention produced no statistically significant effects on standardized measures of reading comprehension](no-transfer-to-standardized-reading-comprehension.md) — related
 - [Schools assigned to Reading for Knowledge disproportionately exited the study before the second year, ending that curriculum's second-cohort implementation](reading-for-knowledge-school-attrition-second-year.md) — related
+- [Project scores were comparable between conditions except the fifth project, where the control group scored higher](project-scores-fifth-project-control-higher.md) — related

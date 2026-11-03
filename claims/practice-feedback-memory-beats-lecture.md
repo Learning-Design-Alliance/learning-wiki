@@ -55,3 +55,4 @@ Study 1, a three-cell randomized online experiment (N = 297) comparing lecture, 
 - [Teacher-created video mistake messages were not harmful but produced no significant learning differences compared with answer-only feedback (n = 649)](teacher-video-mistake-messages-null.md) — related
 - [Explanatory feedback has a greater benefit for students than corrective feedback in digital environments](explanatory-feedback-beats-corrective-digital.md) — related
 - [Receiving knowledge passively hampers the development of relational competence](receiving-knowledge-passively-hampers-relational-competence.md) — a narrower finding that bears on this claim
+- [Lecturer-generated summaries spliced into online video lectures improve student recall of lecture content on quizzes](lecturer-generated-summaries-improve-video-recall.md) — related

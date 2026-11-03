@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 53 claims (28 show a difference, 11 mixed, 14 no difference) · 29 studies (15 causal, 6 review, 4 associational, 2 design, 2 theoretical), `q1`–`q3` · 10 of 29 report an effect size · 52 claims rest on one study
+> **Evidence** · 55 claims (30 show a difference, 11 mixed, 14 no difference) · 31 studies (16 causal, 6 review, 5 associational, 2 design, 2 theoretical), `q1`–`q3` · 10 of 31 report an effect size · 54 claims rest on one study
 
 ## Bottom line
 
@@ -91,6 +91,8 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Kolb learning-style measures, as a system, are significantly related to student motivation, with Active Experimentation the highest-correlated subscale](../claims/learning-styles-related-to-motivation.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
 - [The experimental class was dominated by sequential (85%), visual (77.5%) and dependent (77.5%) learning-style preferences, and group heterogeneity helped sequential learners absorb holistic reading strategies](../claims/cl-learning-styles-distribution.md) [+W] — an effect differed by reported style in this study; matching to style is not supported overall
 - [Using learning styles for differentiated instruction is problematic and not advisable to spend much teaching time on](../claims/learning-styles-problematic-for-di.md) [-W] — an effect differed by reported style in this study; matching to style is not supported overall
+- [Most learners report that visual input helps them understand speakers](../claims/visual-input-helps-comprehension-perceptions.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Students' perception that visual strategies are better than traditional methods strongly predicts their preference for using them.](../claims/perceived-usefulness-predicts-preference-for-visual-strategies.md) [+M] — instruction changes reported style
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

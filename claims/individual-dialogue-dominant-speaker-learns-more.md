@@ -53,3 +53,4 @@ The authors' theoretical interpretation of dialogue patterns, offered as an expl
 - [Students interpreted discourse visualisation accurately and expressed motivation to contribute more to rank highly](students-interpret-visualisation-and-motivated-to-contribute.md) — related
 - [Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work](students-report-peer-collaboration-supports-learning.md) — related
 - [Dyadic pair interaction showed domination and unequal cognitive engagement, consistent with prior CSCL drawback findings](dyadic-domination-unequal-engagement.md) — related
+- [Structured collaboration did not significantly improve balance of student code contributions compared to free collaboration](structured-dpp-no-contribution-balance-gain.md) — related

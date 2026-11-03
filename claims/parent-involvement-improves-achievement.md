@@ -52,7 +52,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 4 quant-synthesis `r?` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 <!-- title before 2026-10-15: Parent Involvement Improves Achievement -->
 
@@ -107,13 +107,14 @@ Most figures were read from the authors' accepted manuscript, which this wiki ca
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **10 distinct studies** (6 quant-synthesis, 3 review, 1 causal), `q2`–`q4`, 4 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **11 distinct studies** (7 quant-synthesis, 3 review, 1 causal), `q2`–`q4`, 5 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Hill & Tyson 2009](https://doi.org/10.1037/a0015362) | q3 · quant-synthesis · r? | i1 · small effect, r=.18 | this claim |
 | [Castro et al. 2015](https://doi.org/10.1016/j.edurev.2015.01.002) | q3 · quant-synthesis · r? | i? | this claim |
 | [Jeynes 2005](https://doi.org/10.1177/0042085905274540) | q3 · quant-synthesis · r? | i2 · medium effect, ~0.7–0.75 SD | this claim |
+| [Barger et al. 2019](https://doi.org/10.1037/bul0000201) | q3 · quant-synthesis · r? | i1 · small effect, r = .13 to .23 for academic adjustment | this claim |
 | Oakes 2017 | q4 · review · r2 | i2 | [Meta-analyses find parental involvement associated with better student outcomes, effect si](parental-involvement-meta-analyses-effect-sizes.md) (supports) |
 | UChicago Consortium on School Research 2025 | q2 · review · r2 | i? | [Family engagement in schools is closely linked to improved student academic achievement, s](family-engagement-linked-student-outcomes.md) (supports) |
 | Roschelle 2020 | q2 · review · r2 | i? | [Parental focus on compliance harms homework learning, while supporting effort and process ](parent-compliance-versus-process-support.md) (qualifies) |

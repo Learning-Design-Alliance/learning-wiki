@@ -19,13 +19,14 @@ sources:
 # Nature of Science Scale (NOSS)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The Nature of Science Scale (NOSS), developed by Özgelen (2013), is a 30-item instrument for measuring views of the nature of science among learners and teachers.
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Nature of Scientific Knowledge Scale (Rubba & Anderson, 1978; 48 items, six dimensions).**: A 5-point Likert scale developed by Rubba and Anderson (1978) to reveal student understanding about the nature of scientific knowledge, specifically for students aged 12-15, translated into Turkish by Taşar (2006). It covers 48 items of which 24 are positive statements and 24 are negative statements, with a maximum score of 240 and minimum of 48. The study found six dimensions — ethics, creativity, development, simplicity, testability and combination — with Cronbach's Alpha coefficients of .86-.87 per dimension and .84 overall. (Balci et al. (2016))
 
 ### Claims
 - [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+W]
@@ -33,14 +34,15 @@ The Nature of Science Scale (NOSS), developed by Özgelen (2013), is a 30-item i
 - [The formative-assessment-embedded group retained higher NOS and SK scores than the control group on a retention test four weeks after the intervention](../claims/formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) [+W]
 - [Neither group showed a significant decline from post-test to retention test on NOS or SK measures](../claims/no-significant-posttest-retention-decline-either-group.md) [+W]
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](../claims/pretest-equivalence-noss-sks-groups.md) [+W]
+- [Scientific argumentation based learning improves students' understanding of the nature of scientific knowledge on five of six dimensions.](../claims/argumentation-improves-nature-of-scientific-knowledge.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Mustafa Metin. (2022). Comparing Effects of Two Different Explicit–Reflective Instructions on Pre-School Prospective Teachers' View about Nature of Science and Scientific Knowledge. Journal of Science Learning, 5(1), 165-175. https://doi.org/10.17509/jsl.v5i1.33190
-
 <!-- merged 2026-10-10 from elements/noss-nature-of-science-scale-ozgelen ("Nature of Science Scale (NOSS)"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Balci, C. & Yenice, N. (2016). Effects of the scientific argumentation based learning process on teaching the unit of cell division and inheritance to eighth grade students. Journal of Education in Science, Environment and Health (JESEH), 2(1), 67-84. https://www.jeseh.net
 
 # Nature of Science Scale (NOSS)
 

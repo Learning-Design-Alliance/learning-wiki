@@ -74,3 +74,4 @@ Quasi-experimental pre-test/post-test study with one experimental group (n=38) t
 - [Only the combined condition outperformed the control condition on a test of chemistry knowledge](combined-condition-only-outperformed-control-chemistry.md) — related
 - [Analogical instruction had almost no effect on students' attitudes towards physics](analogical-instruction-no-attitude-effect.md) — related
 - [A week of reflective writing after a general chemistry lab experiment produces a statistically significant posttest increase compared to a control group](reflective-writing-significant-posttest-gain-chemistry-lab.md) — related
+- [The analogy group's distribution of correct answers differed radically from the traditional group's, suggesting student-centered methodologies may favor academic performance in Higher Education.](analogy-group-radically-different-curve-performance.md) — related

@@ -77,12 +77,14 @@ Exhibitions leverage authentic audiences and purposes to raise the stakes and re
 5. Follow the exhibition with structured reflection on audience feedback and next steps
 
 ## Related Strategies
+
 - Portfolio assessment — exhibitions frequently draw on a curated body of work assembled over time
 - Project-based learning — the exhibition is the culminating public product of a project cycle
 - Socratic seminar — a related public, dialogic format focused on ideas rather than artifacts
 - **Critique Protocols (e.g., "kind, specific, helpful" gallery critique)** — the rehearsal mechanism that makes exhibitions assess learning rather than polish
 - **Portfolio Defense** — a variant where the exhibition is a formal graduation requirement assessed against competencies
 - **Project-Based Learning capstones** — exhibitions are the standard culminating event in PBL models such as EL Education and High Tech High
+- [Project-based assessment with community exhibition for WRD learning](wrd-project-based-community-exhibition-assessment.md)
 
 ## Examples
 - **EL Education (formerly Expeditionary Learning)** schools use "passage presentations" and final exhibitions in which students defend their work before panels of staff, family, and community members ([https://eleducation.org](https://eleducation.org))

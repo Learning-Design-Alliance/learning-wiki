@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 46 claims (32 for, 14 mixed) · 45 studies (27 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q1`–`q4` · 12 of 45 report an effect size · 42 claims rest on one study
+> **Evidence** · 48 claims (33 for, 15 mixed) · 47 studies (28 causal, 7 review, 6 quant-synthesis, 4 associational, 2 qualitative), `q1`–`q4` · 12 of 47 report an effect size · 44 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -82,6 +82,8 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](../claims/multimedia-improves-size-vocabulary-thai-third-grade.md) [+W] — attached 2026-11-02 from Mathukorn Jingjit (2015), which proposed "Researcher-designed multimedia vocabulary program on CD with text, picture, and sound"; tests this page's relationship.
 - [Multimedia learning did not significantly improve third-grade Thai pupils' achievement in depth of vocabulary knowledge](../claims/multimedia-no-effect-depth-vocabulary-thai-third-grade.md) [~W] — attached 2026-11-02 from Mathukorn Jingjit (2015), which proposed "Researcher-designed multimedia vocabulary program on CD with text, picture, and sound"; tests this page's relationship.
 - [Watching BBC World clips without English subtitles also improved intermediate EFL learners' vocabulary development relative to no treatment](../claims/unsubtitled-clips-improve-vocabulary-vs-control.md) [+W]
+- [Learners value classroom listening practice and prefer video or equal weighting over audio-only materials](../claims/learners-prefer-video-over-audio-materials.md) [+W]
+- [Perceived difficulty of physics showed the greatest pre-post shift in the interactive multimedia group](../claims/perceived-difficulty-greatest-shift-esa.md) [~W]
 
 ## The evidence by question
 

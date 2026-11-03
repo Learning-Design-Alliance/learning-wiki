@@ -73,3 +73,4 @@ The same multilevel model analysis at the late-spring maintenance time point fou
 - [The largest SRSD effects in rural Grade 5–6 classrooms are for writing reasons and explanations, with smaller effects for topic and ending sentences](srsd-largest-effects-reasons-explanations.md) — related
 - [SRSD for POW + TREE instruction increases the total number of words written by Grade 5–6 rural students compared with control, with smaller effects than for elements](srsd-pow-tree-increases-words-written-rural.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — a broader claim this one bears on
+- [SRSD interventions produce large effect sizes on writing outcomes for students with EBD and meet standards for an evidence-based practice](srsd-writing-ebp-ebd.md) — related

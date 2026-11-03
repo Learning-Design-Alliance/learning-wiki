@@ -99,3 +99,4 @@ Within the same advantages synthesis, the review cites one reviewed study report
 - [VR safety training for hazard identification significantly outperforms traditional methods for reinforced concrete and stone cladding tasks](vr-hazard-training-outperforms-traditional-methods.md) — a narrower finding that bears on this claim
 - [VR-based safety training enhances self-efficacy more effectively than traditional lecture-based training](vr-safety-training-enhances-self-efficacy.md) — a narrower finding that bears on this claim
 - [Students taught Ottoman Turkish readings with an augmented reality application achieved higher academic success than students taught with the classical method](ar-ottoman-turkish-higher-achievement-than-classical.md) — a narrower finding that bears on this claim
+- [Prior research on educational computer games shows mixed effects on cognitive and academic achievement outcomes](mixed-prior-evidence-games-cognitive-gains.md) — related

@@ -59,3 +59,6 @@ Semi-experimental study with 40 EFL learners aged 16-18 in Rasht, Iran, randomly
 - [Experimental-group EFL students taught with working memory strategies significantly outperformed control-group students on a vocabulary post-test](wm-strategies-improve-efl-vocabulary-retention.md) — related
 - [Iranian intermediate EFL learners who learned adjectives through authentic tasks outperformed learners who studied dictionary extracts on a vocabulary post-test](authentic-task-outperformed-dictionary-extract-adjectives.md) — related
 - [Turkish 6th graders taught English vocabulary by phonetic association learned words faster than a control group taught conventionally in the first week](phonetic-association-faster-initial-vocabulary-learning.md) — a narrower finding that bears on this claim
+- [Experimental group significantly outperformed control group on post-test vocabulary learning strategies questionnaire total score](experimental-group-outperformed-control-vls-posttest.md) — related
+- [Experimental group significantly outperformed control group on post-test vocabulary test score](experimental-group-outperformed-control-vocabulary-posttest.md) — related
+- [Students taught by WRD-trained teachers achieve significantly higher learning outcomes than students in control classes](wrd-trained-teachers-boost-student-achievement.md) — related

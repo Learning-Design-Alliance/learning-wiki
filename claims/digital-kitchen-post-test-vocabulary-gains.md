@@ -52,3 +52,4 @@ Between-group comparison of post-minus-pre-test scores in the comparative experi
 - [Iranian intermediate EFL learners taught reading with CALL software scored significantly higher on reading comprehension than learners taught the same texts from printed pages](call-improves-reading-comprehension-iranian-efl.md) — related
 - [On the delayed test ten days later, the control group's actual delayed score exceeded the experimental group's, although the authors conclude the experimental group acquired more lexical items](digital-kitchen-delayed-test-inconsistency.md) — related
 - [Dynamic task-type vocabulary instruction produces significantly better vocabulary gains than static task-type instruction among intermediate EFL learners](dynamic-task-type-better-vocabulary-gains.md) — related
+- [Experimental group significantly outperformed control group on post-test vocabulary test score](experimental-group-outperformed-control-vocabulary-posttest.md) — related

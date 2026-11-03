@@ -62,6 +62,8 @@ The program's professional development model combines an initial workshop with o
 - [Sustained, rigorous, relevant technology-centered PD with school-district support, collaborative facilitation, and lesson-plan sharing to promote faithful implementation](sustained-collaborative-dg-pd-design.md)
 - [Train teachers through hands-on practice of the tutoring procedure with a supporting resource pack](hands-on-teacher-training-practice-with-resource-pack.md)
 - [Teach-Model-Coach-Review caregiver coaching with mastery-timed workshops](tmcr-caregiver-coaching-workshops.md)
+- [Five-day teacher workshop for WRD curriculum framework training](five-day-wrd-teacher-workshop.md)
+- [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
 
 ## Examples
 -

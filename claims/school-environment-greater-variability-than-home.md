@@ -67,3 +67,4 @@ Variability analysis of the arithmetic experiment across the six classes. The au
 ## Related Claims
 - [High school English compositions written at home differ negligibly from those written at school in form and content](home-compositions-equal-school-compositions.md) — related
 - [Cross-site standard deviations of ITT effects were estimated for education and workforce interventions using data from 16 large multisite randomized controlled trials](cross-site-itt-effect-variation-16-multisite-rcts.md) — related
+- [The enhancement activity group showed more uniform gains (lower post-test standard deviation) than the control group](enhancement-activity-lower-score-variability.md) — reports the opposite

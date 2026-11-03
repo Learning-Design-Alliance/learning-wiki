@@ -44,7 +44,8 @@ The article recommends that because the concept attainment model was effective f
 - [No significant treatment-by-intelligence interaction on physics concept understanding](../claims/no-treatment-intelligence-interaction-physics-concepts.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use drill skill model for teaching physics concepts requiring practice and skill development](drill-skill-for-physics-light-concept.md)
 
 ## Examples
 -

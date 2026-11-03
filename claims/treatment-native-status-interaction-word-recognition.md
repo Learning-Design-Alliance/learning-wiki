@@ -49,3 +49,4 @@ Interaction tests across all 11 outcome measures in the randomized trial; Table 
 - [Non-native English learners made significantly greater reading gains than native learners on 7 of 11 measures, while native learners gained more on vocabulary](non-native-learners-larger-reading-gains.md) — reports the opposite
 - [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
 - [Learners in K-3 structured decoding curricula adapted for adults (comparison group) did not differ significantly from treatment or control groups on any reading measure](k3-adapted-curricula-no-differential-gains.md) — related
+- [Sam and Pat showed no impacts for five of six subgroups, with a suggestive but non-significant positive effect on word attack decoding for lower-literacy students (effect size = 0.16)](sam-and-pat-subgroup-lower-literacy-suggestive.md) — related

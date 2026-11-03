@@ -80,3 +80,4 @@ Delayed measurement two weeks after the posttest with the same 45 participants; 
 - [Teaching vocabulary through semantic mapping significantly improves EFL learners' overall vocabulary achievement compared with usual vocabulary instruction](semantic-mapping-improves-vocabulary-achievement.md) — related
 - [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](active-learning-permanence-effect-my-town-unit.md) — related
 - [The structural group retained significantly more vocabulary than the contextual group on the delayed retention test, except among high achievers](retention-test-structural-advantage-except-high-achievers.md) — a narrower finding that bears on this claim
+- [Multisensory language teaching improves reading retention in young English learners a month after treatment, with a large effect size.](mslt-improves-reading-retention.md) — related

@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 125 claims (81 for, 34 mixed, 10 against) · 105 studies (46 causal, 25 review, 19 theoretical, 13 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 20 of 105 report an effect size · 114 claims rest on one study
+> **Evidence** · 126 claims (82 for, 34 mixed, 10 against) · 106 studies (47 causal, 25 review, 19 theoretical, 13 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 20 of 106 report an effect size · 115 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -196,6 +196,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Authors attribute the integrated component's limited efficacy to cognitive load from transcribing between notations for at-risk learners](../claims/cognitive-load-transcribing-limits-integrated-benefit.md) [+W]
 - [Students taught with experiments perceived less cognitive load than students taught by traditional method](../claims/experiment-method-lower-perceived-cognitive-load.md) [+W]
 - [Cognitive load did not differ significantly between lecture plus 3D courseware and lecture plus image instruction](../claims/no-cognitive-load-difference-3d-versus-image-instruction.md) [~W]
+- [Learners in the integrated-format condition experienced fewer cognitive-load challenges than learners in the split-attention condition](../claims/split-attention-integrated-format-fewer-challenges.md) [+W] — attached 2026-11-03 from Dhlamini (2016), which proposed "Cognitive load theory as a framework for modelling problem solving performance".
 
 ## The evidence by question
 
@@ -227,6 +228,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Manage the three load types: reduce extraneous load, optimize intrinsic load, and increase germane load](../principles/cognitive-load-management.md)
 - [Select interaction types based on content type rather than random variation to preserve format-meaning coherence](../strategies/content-type-based-interaction-selection.md)
 - [Balance cognitive load in digital learning by aligning design-factor costs and benefits with desired learning outcomes via constructive alignment](../strategies/align-cognitive-load-with-learning-outcomes-digital.md)
+- [Ground problem solving tasks in learners' real-world contexts to reduce extraneous cognitive load](../strategies/ground-tasks-in-learners-real-world-contexts.md)
 
 ## Key Sources
 - Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285. [doi:10.1207/s15516709cog1202_4](https://doi.org/10.1207/s15516709cog1202_4)

@@ -55,3 +55,4 @@ PCER Consortium (2008, Chapter 6) randomized study with high child-level attriti
 - [Doors to Discovery™ shows potentially positive effects on preschool print knowledge, with mixed findings across two studies](doors-to-discovery-potentially-positive-print-knowledge.md) — related
 - [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool phonological processing](prek-mathematics-no-phonological-effects.md) — related
 - [Bright Beginnings shows no discernible effects on preschool phonological processing (effect size -0.08, not statistically significant)](bright-beginnings-null-phonological-processing.md) — related
+- [Connected speech includes phonological processes of reduction, elision, assimilation, and contraction](connected-speech-phonological-processes.md) — related

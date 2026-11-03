@@ -69,3 +69,4 @@ Practice-effect control analysis using a randomly chosen comparison section (n =
 - [Reflective journal writing significantly improved the learning strategies subscale of self-regulation](journal-writing-improves-learning-strategies-subscale.md) — related
 - [Students in differentiated classes grow significantly more on elaboration, critical thinking, metacognitive self-regulation and effort regulation](growth-on-learning-strategy-scales.md) — related
 - [Students reported cognitive benefits of case-based learning, with CBL2 frequencies higher but time-management problems reported](cbl-cognitive-impact-student-opinions.md) — related
+- [Quiz-and-reflection and extended-quiz conditions show no significant difference in self-reported metacognitive self-regulation](quiz-reflection-vs-extended-quiz-self-regulation-no-difference.md) — related

@@ -71,3 +71,4 @@ The same factorial repeated-measures analysis of the SFS social awareness subsca
 - [The course showed no significant pre-post interaction effects on intercultural sensitivity, with only a marginal endpoint difference on acceptance and adaptation](sis-course-no-intercultural-sensitivity-interaction.md) — related
 - [Control and experimental groups were equivalent at pre-test but differed significantly at post-test in mathematics achievement](cooperative-learning-pretest-equivalence-posttest-difference.md) — related
 - [Parent and teacher ratings of social competence improved markedly from pre to post in both ART and control groups, with no differences between the groups](parent-teacher-competence-both-groups-improve.md) — related
+- [Virtual exchange participation develops student teachers' intercultural competence](virtual-exchange-develops-intercultural-competence-student-teachers.md) — related

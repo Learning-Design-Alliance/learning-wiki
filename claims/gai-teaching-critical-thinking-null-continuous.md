@@ -54,3 +54,4 @@ Random-effects meta-analysis of three continuous-variable studies (I2 = 98%) rep
 - [GAI-assisted teaching significantly improves learning self-efficacy compared with traditional teaching (SMD = 0.75)](gai-teaching-improves-learning-self-efficacy.md) — related
 - [GAI-assisted teaching significantly increases student satisfaction with teaching compared with traditional teaching (SMD = 1.52; OR = 5.58)](gai-teaching-increases-student-satisfaction.md) — related
 - [Concept mapping is effective in improving critical thinking, while problem-based learning is not significantly effective](concept-mapping-effective-pbl-not-significant.md) — related
+- [Brain-based teaching showed no significant effect on learning, attitude, critical thinking, or self-efficacy in one prior study](brain-based-teaching-null-effect-siercks.md) — related

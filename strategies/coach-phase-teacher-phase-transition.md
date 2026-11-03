@@ -47,6 +47,7 @@ FSN uses a phased implementation in which "a trained coach delivers the first 5-
 - [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 - [Deliver Xtreme Reading professional development through a 5-day site training followed by monthly implementation coaching](xtreme-reading-pd-coaching-strategy.md)
+- [Three-step tutor training model: initial training, daily debriefing, and individual consultation](three-step-tutor-training-model.md)
 
 ## Examples
 -

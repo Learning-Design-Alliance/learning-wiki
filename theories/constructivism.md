@@ -12,7 +12,7 @@ generated:
 # Constructivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 33 claims (16 for, 15 mixed, 2 against) · 38 studies (14 causal, 6 quant-synthesis, 6 theoretical, 4 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 7 of 38 report an effect size · 29 claims rest on one study
+> **Evidence** · 35 claims (18 for, 15 mixed, 2 against) · 39 studies (15 causal, 6 quant-synthesis, 6 theoretical, 4 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 7 of 39 report an effect size · 31 claims rest on one study
 
 ## Description
 Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know. Rather than treating knowledge as something transmitted whole from teacher to learner, constructivist perspectives emphasize interpretation, prior knowledge, social interaction, and meaning-making.
@@ -69,6 +69,8 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Interviews show constructivist-taught students explained path difference and fringe formation, while control students retained path-difference misconceptions](../claims/interview-path-difference-understanding-difference.md) [~W]
 - [Post-test difficulty in Hindi falls to 20% in constructivist classes versus 42% in conventional classes](../claims/constructivist-group-lower-posttest-difficulty.md) [+W]
 - [Descriptively, the high constructivist group showed the largest gain over the posttest grand mean and the low transmissive group the largest deficit](../claims/gains-over-grand-mean-ordering-ability-environment.md) [+W]
+- [The Constructivist Learning Model improved eighth-grade science achievement more than traditional teaching](../claims/clm-improves-8th-grade-science-achievement.md) [+W] — attached 2026-11-03 from Qarareh (2016), which proposed "Constructivist Learning Model: four-stage teaching framework".
+- [The Constructivist Learning Model improved eighth-grade students' scientific thinking more than traditional teaching](../claims/clm-improves-scientific-thinking.md) [+W] — attached 2026-11-03 from Qarareh (2016), which proposed "Constructivist Learning Model: four-stage teaching framework".
 
 ## The evidence by question
 - *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]
@@ -108,6 +110,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Provide in-service training for teachers in the constructivist approach to support knowledge retention](../strategies/inservice-training-constructivist-approach.md)
 - [Combine video viewing with post-viewing activities to test comprehension and encourage productive use of technical vocabulary](../strategies/video-plus-post-viewing-activities-esp.md)
 - [Tarnopolsky's constructivist blended learning approach to ESP](../designs/tarnopolsky-constructivist-blended-learning-esp.md)
+- [Structure science lessons in four constructivist stages](../strategies/four-stage-constructivist-lesson-strategy.md)
 
 ## Key Sources
 - Piaget, J. (1970). *Science of education and the psychology of the child*. Viking.

@@ -53,3 +53,5 @@ Qualitative content analysis of interviews with experimental-group students, cod
 - [The multimedia tool was reported to motivate students and support positive attitudes toward the course](mbio-motivates-and-positive-attitudes.md) — related
 - [Students in the multimedia group reported that the tool provided an easy learning environment, concretion and visuality](mbio-students-report-easy-environment-concretion-visuality.md) — related
 - [Participants reported uniformly positive feedback on the multimedia environmental awareness programme](positive-feedback-multimedia-environmental-awareness-programme.md) — related
+- [73.56% of experimental-group students gave positive comments on journal entry practice in reflective compositions](majority-positive-feedback-journal-entry-practice.md) — related
+- [Most learners report that visual input helps them understand speakers](visual-input-helps-comprehension-perceptions.md) — related

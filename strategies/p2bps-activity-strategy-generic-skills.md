@@ -49,6 +49,7 @@ The article's discussion recommends a set of concrete activities within P2BPS: o
 ## Related Strategies
 
 - [Inquiry-Based Writing](inquiry-based_writing.md)
+- [Use worked-out context-based examples with peer group study as the core instructional device](worked-out-context-based-examples-peer-groups.md)
 
 ## Examples
 -

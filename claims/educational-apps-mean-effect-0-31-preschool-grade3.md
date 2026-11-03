@@ -49,3 +49,4 @@ Random effects meta-analysis with RVE of 36 studies and 285 effect sizes. The RV
 - [Educational apps produce effects about 0.17 SD higher on constrained than unconstrained skills](apps-larger-effects-constrained-skills.md) — related
 - [App effects are larger in studies of preschool children than kindergarten to Grade 3 children](apps-larger-effects-preschool-than-k3.md) — related
 - Studies using researcher-developed outcomes yield effects about 0.42 SD larger than studies using standardized outcomes — related
+- [Rigorous effectiveness research on literacy instruction for adult ESL learners was nearly absent prior to this study](few-rigorous-studies-adult-esl-literacy.md) — related

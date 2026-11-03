@@ -49,3 +49,4 @@ Qualitative analysis of coding discrepancies found ChatGPT applied a lower bar f
 - [Instructors use more first-person and second-person pronouns and more questions than LLMs in feedback comments](instructors-more-pronouns-and-questions.md) — related
 - [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — related
 - [Human experts provide more nuanced and mixed feedback than ChatGPT-4o and Perplexity in mixed reality simulation mentoring](human-experts-more-nuanced-feedback-than-llm-mrs.md) — a broader claim this one bears on
+- [73.56% of experimental-group students gave positive comments on journal entry practice in reflective compositions](majority-positive-feedback-journal-entry-practice.md) — related

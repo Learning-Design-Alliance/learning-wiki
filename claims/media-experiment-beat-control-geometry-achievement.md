@@ -61,3 +61,4 @@ Product-trials effectiveness test using a static group comparison design with fo
 - [The experimental class XI AP1 averaged 90 on the posttest after using the media, versus 79.7 for control class XI AP2](corel-videostudio-posttest-experimental-90-control-79-7.md) — related
 - [Varied grouping scaffolds produced significantly higher daily-task scores than graphic-organizer-only instruction in sixth-grade geometry](grouping-scaffolds-significant-daily-task-gain.md) — related
 - [No significant difference between scaffolding and control classes on the teacher-made geometry unit test](no-unit-test-difference-scaffolding.md) — reports the opposite
+- [Students taught by WRD-trained teachers achieve significantly higher learning outcomes than students in control classes](wrd-trained-teachers-boost-student-achievement.md) — related

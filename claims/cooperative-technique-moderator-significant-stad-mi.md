@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-03
 sources:
   - id: turgut-2018
     resource: "https://doi.org/10.12973/iji.2018.11345a"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-03 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Between-group homogeneity testing shows a statistically significant difference in effect sizes across cooperative learning techniques (QB=24,996, p=0,000), with multiple intelligence-assisted technique and STAD having the maximum effect. [→ Turgut 2018](#turgut-2018)

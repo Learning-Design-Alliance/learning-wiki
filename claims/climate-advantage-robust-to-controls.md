@@ -75,3 +75,4 @@ Controlled analyses addressing the alternative explanation that unmeasured facto
 - [Beating-the-odds California secondary schools have substantially more positive school climates than other secondary schools](bto-schools-higher-school-climate-percentile.md) — a broader claim this one bears on
 - Adjusting for low-income student share narrows but does not eliminate demographic performance gaps in the PEP framework — related
 - [Only 2.4 percent of the sampled California secondary schools were classified as beating the odds, and 1.2 percent as chronically underperforming](bto-schools-rare-2-point-4-percent.md) — related
+- [Intervention students had significantly greater improvement in all skills after adjusting for demographic and school characteristics (regression coefficients β = 0.17–0.44)](steps-for-life-adjusted-regression-gains.md) — related

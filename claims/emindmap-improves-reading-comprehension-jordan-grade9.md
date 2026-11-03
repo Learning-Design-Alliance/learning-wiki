@@ -63,3 +63,6 @@ Quasi-experimental study of two ninth-grade sections (30 students each) in two I
 - [Teaching vocabulary through semantic mapping significantly improves EFL learners' overall vocabulary achievement compared with usual vocabulary instruction](semantic-mapping-improves-vocabulary-achievement.md) — related
 - [The “SQP2RS via WTL” strategy produced significantly higher 10th-grade English reading comprehension scores than traditional teaching](sqp2rs-via-wtl-improves-reading-comprehension.md) — related
 - [Third-semester English students taught with CIRC achieved significantly higher reading comprehension post-test scores than students taught with the traditional method](circ-beats-traditional-method-reading-comprehension.md) — related
+- [CAI based on the TLS method significantly improves English reading ability in ninth grade Thai EFL students](cai-tls-improves-english-reading-thai-efl.md) — related
+- [Instructing critical thinking through debate significantly improves EFL learners' reading comprehension compared to lecturing](debate-improves-efl-reading-comprehension.md) — related
+- [Multisensory language teaching improves post-test reading achievement in young English learners compared with mainstream coursebook instruction.](mslt-improves-post-test-reading-achievement.md) — related

@@ -54,3 +54,4 @@ t-test comparison of attitudes mean scores of male (n=46) and female (n=29) SS2 
 - [In a quasi-experiment on giving students prior topics and instructional objectives, Literature-in-English achievement did not differ significantly by gender in an ANCOVA across treatment and control students](gender-difference-prior-objectives-not-significant.md) — related
 - [Among students taught Basic Technology via field trip, male and female post-test performance did not differ in the authors' conclusion, though the article also reports a significant difference](field-trip-gender-no-difference-basic-technology.md) — related
 - [No significant difference in interest between male and female students taught electrochemistry with Round-robin](round-robin-electrochemistry-interest-no-gender-difference.md) — related
+- [Female students increased their attitudes toward physical education classes more than male students.](female-students-greater-attitude-increase.md) — related

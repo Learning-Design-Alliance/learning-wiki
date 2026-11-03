@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 154 claims (82 for, 62 mixed, 10 against) · 132 studies (57 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 15 of 132 report an effect size · 153 claims rest on one study
+> **Evidence** · 160 claims (86 for, 64 mixed, 10 against) · 138 studies (63 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 17 of 138 report an effect size · 159 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -189,6 +189,12 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Instructional software alone significantly improved learners' attitudes towards pronunciation](../claims/software-improves-pronunciation-attitudes.md) [+W]
 - [Participants held positive attitudes toward Web-based reading strategy instruction](../claims/positive-attitudes-toward-web-based-strategy-instruction.md) [+W]
 - [Both paper-flashcard and digital-flashcard groups made significant productive vocabulary gains over the 12-week treatment](../claims/pf-df-significant-pv-gains.md) [~W]
+- [Second Life speaking activities increase EFL learners' speaking achievement](../claims/sl-speaking-activities-increase-achievement.md) [+W] — attached 2026-11-03 from Guzel et al. (2016), which proposed "Second Life as a virtual EFL speaking practice environment"; tests this page's relationship.
+- [Geogebra-assisted instruction improves overall post-test scores on applications of derivative](../claims/geogebra-improves-overall-scores-applications-derivative.md) [+W]
+- [Time spent using MasterMaths software was positively and significantly correlated with mathematics performance improvement in Louw et al.'s (2008) study](../claims/mastermaths-time-on-task-correlated-with-mathematics-improvement.md) [~W]
+- [Longer time spent in the Parole software correlates with more words learned and retained](../claims/parole-study-duration-correlates-with-vocabulary-outcomes.md) [~W]
+- [Wiki-based writing environments increase EFL writing achievement in content compared with traditional pen-and-paper process writing.](../claims/wiki-based-writing-increases-efl-content-achievement.md) [+W]
+- [Students held positive attitudes toward mobile-assisted vocabulary exercises, with an overall mean of 3.98 on a five-point scale](../claims/positive-attitudes-mobile-vocabulary-exercises.md) [+W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

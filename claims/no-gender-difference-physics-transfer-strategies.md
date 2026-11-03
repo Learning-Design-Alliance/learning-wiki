@@ -49,3 +49,5 @@ Three t-test comparisons of male versus female transfer scores (Tables 5-7) in t
 - [Male and female students show no significant difference in understanding of Light waves](no-gender-difference-understanding-light-waves.md) — related
 - [Method-by-gender interaction is significant only for application of Light waves, not for understanding or analysis](method-gender-interaction-application-only.md) — related
 - [Male and female students differ significantly in application of Light waves, favouring males](gender-difference-application-light-waves.md) — related
+- [No significant gender difference in academic performance among students exposed to the demonstration method](gender-no-significant-difference-demonstration-borno.md) — related
+- [No significant gender difference in academic performance among students exposed to the lecture method](gender-no-significant-difference-lecture-borno.md) — related

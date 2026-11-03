@@ -47,3 +47,5 @@ Independent-samples t-test comparing post-test scientific thinking of the two 32
 ## Related Claims
 - [E-learning-enriched physics teaching significantly improved scientific thinking scores from pre-test to post-test in the experimental group of intermediate girls](e-learning-enrichment-improves-scientific-thinking-pre-post.md) — related
 - [At post-test, the e-learning experimental group significantly outperformed the control group in attitude toward physics](e-learning-outperforms-control-attitude.md) — related
+- [T-test found a statistically significant difference between groups (t = -13.203, df = 242, p = 0.000)](ttest-significant-ict-effect-scientific-literacy.md) — related
+- [Experimental group mean scientific literacy score of 21.3967 versus control group mean of 11.8943](experimental-mean-21-4-versus-control-11-9.md) — related

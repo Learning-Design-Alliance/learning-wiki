@@ -49,3 +49,4 @@ Pre-test/post-test equivalent-group experiment with 21 control and 21 experiment
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
 - [Learning the physics unit Work, Power and Energy through a CAI package produced significantly higher posttest achievement than traditional teaching among IX standard students](cai-package-improves-ix-physics-achievement.md) — related
 - [At post-test, the e-learning experimental group significantly outperformed the control group in attitude toward physics](e-learning-outperforms-control-attitude.md) — related
+- [Peer education and traditional teaching both improved attitudes toward physical education, with no significant difference between the two groups.](peer-education-no-group-difference-pe-attitudes.md) — related

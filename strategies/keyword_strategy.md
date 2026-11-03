@@ -64,6 +64,7 @@ The keyword strategy is a form of elaborative encoding: it attaches new, arbitra
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the keyword strategy works only when the keyword itself is firmly anchored in prior knowledge
 - [Structured discussions that anchor new vocabulary in students' personal experience](structured-discussion-vocabulary-anchoring.md)
 - [Teach even-odd digit-pair-to-image encoding as a memory aid in educational and training programs](digit-image-pair-image-encoding-strategy.md)
+- [Use keyword method with L1 translations and pictures for deliberate vocabulary study](keyword-method-l1-pictures-vocabulary-strategy.md)
 
 ## Examples
 - To teach *carline* (witch), use the keyword *car* and show a picture of a witch in a car: recall the keyword (*car*), the image (a witch driving a car), and retrieve the meaning (witch).

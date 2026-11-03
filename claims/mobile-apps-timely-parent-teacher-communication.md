@@ -53,3 +53,4 @@ Focus-group finding from a high school teacher describing app-based messaging du
 - [Teachers and caregivers called for additional guidance and support in their communication and collaboration](educators-insufficient-guidance-family-communication.md) — related
 - [Families' geoscience sense-making during learning-on-the-move was shaped by the immersive qualities of a mobile AR app](mobile-ar-families-immersive-geoscience-lotm.md) — related
 - [Text-message alerts to parents about incomplete middle-school homework raise student performance](parent-text-alerts-incomplete-homework-raise-performance.md) — related
+- [Implementation of assigned communication was incomplete but high for weekly messages](communication-implementation-fidelity.md) — related

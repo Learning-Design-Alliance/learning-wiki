@@ -67,3 +67,4 @@ Paired-samples t-test for related samples (Table 3): experimental pretest-postes
 - [The conventionally instructed control group also improved significantly from pretest to posttest in all three teaching-skill domains](control-group-prepost-gains.md) — a narrower finding that bears on this claim
 - [The WebQuest experimental group improved significantly from pretest to posttest in planning, implementation and evaluation teaching skills](webquest-group-prepost-gains.md) — a narrower finding that bears on this claim
 - [Higher-order thinking ability improved significantly in both the experimental and control groups after learning activities](within-group-hots-gains-significant.md) — a narrower finding that bears on this claim
+- [Traditional classroom teaching showed no significant improvement in students' critical thinking ability over the same period](traditional-teaching-no-critical-thinking-gain.md) — reports the opposite

@@ -48,3 +48,4 @@ Turn-level certainty ratings (validated against human coders, MAE .32) across St
 - [When participants declined to decide and the agent asked again, the resulting commitments were the weakest in the corpus](re-asked-decisions-yield-weakest-commitments.md) — related
 - [Public regard decreased linearly over time while reported discrimination dipped at Time 2 and rose again at Time 3](public-regard-decreases-discrimination-fluctuates.md) — related
 - [A deployed reflection agent followed its prompt's countable rules but broke its dispositional rules about manner](agent-followed-countable-not-dispositional-rules.md) — related
+- [Integrating spelling games with visualisation strategies can re-motivate students when performance dips mid-intervention.](spelling-games-reinforce-visualisation-strategies.md) — related

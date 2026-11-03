@@ -48,3 +48,4 @@ Meta-regression of instructional focus by writing skill status for writing quali
 - [SRSD instruction had large and consistent positive effects across composition outcomes (0.59–1.04) for primary grade students](srsd-large-consistent-effects-primary-grades.md) — related
 - [Writing instruction effects on quality were descriptively larger for weak writers (0.47) than typical writers (0.08), but not statistically significant without considering instructional focus](weak-writers-larger-quality-effects-descriptive.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
+- [SRSD interventions produce large effect sizes on writing outcomes for students with EBD and meet standards for an evidence-based practice](srsd-writing-ebp-ebd.md) — related

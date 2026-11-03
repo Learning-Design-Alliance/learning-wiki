@@ -51,3 +51,4 @@ Quasi-experimental comparison of two pre-existing classes taught with ISIA (n = 
 - [ICT-supported short narratives produced higher post-test achievement than regular curriculum instruction in 6th-grade Force and Motion](ict-narratives-posttest-achievement-advantage.md) — related
 - [ISIA students gained significantly more confidence in their learning than conventional-instruction peers](isia-greater-confidence-in-learning.md) — related
 - [ISIA students developed significantly greater inquiry process skills than conventional-instruction peers](isia-greater-inquiry-process-skills.md) — related
+- [Scientific inquiry learning model based on conceptual change improves science process skills better than conventional learning](scientific-inquiry-conceptual-change-improves-science-process-skills.md) — related

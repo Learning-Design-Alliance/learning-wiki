@@ -49,3 +49,4 @@ Independent-samples t-test on post-test scores of 20 experimental and 20 control
 - [Student participation in speaking discussions increased after pictorial aids were introduced](pictorial-aids-increase-classroom-participation.md) — related
 - [Teaching phrasal verbs through pictures significantly improves pre-intermediate EFL learners' active application of phrasal verbs in speaking](pictures-improve-active-phrasal-verb-use-speaking.md) — related
 - [Control group showed only slight speaking gains from pre-test to post-test](control-group-slight-speaking-gain.md) — related
+- [Traditional speaking activities increase EFL learners' speaking achievement](traditional-speaking-activities-increase-achievement.md) — related

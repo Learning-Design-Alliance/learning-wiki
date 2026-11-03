@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-03
 sources:
   - id: fahlman-m-2011
     resource: "https://doi.org/10.1080/19325037.2011.10599191"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-03 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Teachers who participated in the professional development workshop showed a significant group-by-time interaction for nutrition self-efficacy, with post scores significantly higher than control teachers' post scores. [→ Fahlman M 2011](#fahlman-m-2011)
@@ -74,3 +75,4 @@ Fine-grained item-level repeated-measures ANOVAs on the same 59-teacher sample. 
 - [Participation in multi-model professional development significantly raises EFL teachers' overall sense of efficacy relative to an untreated control group](pd-raises-efl-teacher-efficacy-overall.md) — related
 - [Both Blended and Behavioral professional development training significantly increased teachers' knowledge, self-efficacy, and self-reported use of instructional methods compared with a no-training control](blended-and-behavioral-pd-increase-teacher-knowledge-efficacy-use.md) — a narrower finding that bears on this claim
 - [Focus group discussion feedback during teaching practice raises pre-service teachers' self-efficacy perceptions more than teaching practice alone](focus-group-discussion-feedback-raises-pst-self-efficacy.md) — a narrower finding that bears on this claim
+- [Brain-based teaching significantly improves self-efficacy in young EFL learners](brain-based-teaching-improves-young-efl-self-efficacy.md) — related

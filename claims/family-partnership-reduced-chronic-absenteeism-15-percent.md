@@ -56,3 +56,4 @@ The playbook cites Robinson, Lee, Dearing, & Rogers (2018), an intervention targ
 - [Historical legacy of boarding schools and biased attendance responses deepen generational distrust that undermines attendance partnerships with AI/AN families](boarding-school-legacy-distrust-undermines-attendance-efforts.md) — related
 - [Community schools are associated with positive student outcomes including reduced absenteeism, improved academics, and more positive school climates](community-schools-positive-outcomes.md) — a broader claim this one bears on
 - [EWIMS reduced the percentage of students who were chronically absent after one year of implementation](ewims-reduced-chronic-absence-one-year.md) — related
+- [Teacher-to-parent communication reduces student absenteeism](teacher-parent-communication-reduces-absenteeism.md) — related

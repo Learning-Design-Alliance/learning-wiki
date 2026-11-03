@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-03
 sources:
   - id: tatiana-v-sibgatullina-and-olga-g-selivanova-2016
     resource: "http://creativecommons.org/licenses/by/4.0/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After training, the experimental group's complex assessment of educational skills was higher than the control group's (22.83/63.4% vs 18.16/50.4%). [→ Tatiana V. Sibgatullina and Olga G. Selivanova 2016](#tatiana-v-sibgatullina-and-olga-g-selivanova-2016)
@@ -55,3 +56,4 @@ Control-stage qualimetric assessment of the pedagogical experiment with experime
 - [The experimental group outperformed controls on only one of five budget questions — identifying maximum stock levels from an inflow–outflow graph — with no significant advantage on the others](question-four-only-significant-advantage.md) — related
 - [SimCalc replacement units produced statistically significant pretest-to-posttest gains in conceptual understanding with student-level effect sizes of .63, .50, and .56 in three Texas experiments](simcalc-texas-experiments-effect-sizes.md) — related
 - [University students who created digital stories with generative-AI help rated their own collaborative problem-solving skills higher than traditionally taught students](gai-assisted-dst-improves-cps-skills.md) — related
+- [Experimental class shows higher average SPS observation percentages across all three meetings](experimental-class-higher-sps-observation-across-meetings.md) — related

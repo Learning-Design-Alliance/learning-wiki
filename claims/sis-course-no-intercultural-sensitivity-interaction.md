@@ -68,3 +68,4 @@ Endpoint simple effect on the combined acceptance and adaptation subscale; the p
 - [No statistically significant interaction effects between satisfaction and adaptive feedback on the subsequent pre-actional phase; only marginal trends emerged (H4 not supported)](no-significant-satisfaction-feedback-interactions.md) — related
 - [No statistically significant pre-test sensitization interaction with the CBS treatment was found](no-pretest-treatment-interaction-cbs.md) — a broader claim this one bears on
 - [A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) — related
+- [Virtual exchange participation develops student teachers' intercultural competence](virtual-exchange-develops-intercultural-competence-student-teachers.md) — reports the opposite

@@ -26,7 +26,7 @@ sources:
 # Note-taking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (10 for, 15 mixed) · 35 studies (11 causal, 10 review, 8 quant-synthesis, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 11 of 35 report an effect size · 15 claims rest on one study
+> **Evidence** · 26 claims (11 for, 15 mixed) · 36 studies (12 causal, 10 review, 8 quant-synthesis, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 11 of 36 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,7 @@ Note completeness, note accuracy, immediate performance, delayed retention, tran
 - [Increased student engagement is proposed as the mechanism for guided notes' achievement effect, but remains untested](../claims/guided-notes-engagement-mechanism-untested.md) [~W]
 - [Guided-notes effect sizes differ by study sample size, with the smallest and largest samples showing the largest effects](../claims/guided-notes-sample-size-moderator.md) [~W]
 - [Guided notes benefit achievement more relative to student-generated notes than relative to professor-provided full lecture notes](../claims/guided-notes-vs-note-type-moderator.md) [~W]
+- [Students perceive lecturer-generated summaries in video lectures as helpful for review, note-taking, and maintaining attention](../claims/student-perceptions-of-video-summaries-positive.md) [+W]
 
 ## Related Principles
 - [Graphic Organizers](graphic-organizers.md) — graphic note formats can make structure and relationships more visible.

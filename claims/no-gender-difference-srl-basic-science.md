@@ -49,3 +49,4 @@ ANCOVA on treatment-group-only scores by gender. The article reports "F-calculat
 - [No significant difference in achievement between male and female students taught basic science with concept mapping](no-gender-difference-concept-mapping-achievement.md) — related
 - [Junior secondary students taught Basic Science with a self-regulated learning approach achieved higher adjusted mean scores than students taught with the conventional method](srl-approach-higher-basic-science-achievement.md) — related
 - [No statistically significant gender difference in direct achievement of scientific concepts](no-gender-difference-direct-achievement-modules-study.md) — related
+- [No significant gender difference in academic performance among students exposed to the lecture method](gender-no-significant-difference-lecture-borno.md) — related

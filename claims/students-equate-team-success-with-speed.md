@@ -45,6 +45,8 @@ Qualitative analysis of student feedback in the HRM course case; many students d
 
 
 ## Related Claims
+
 - [Team members' technical aptitude shaped role adoption, with less game-experienced members taking passive roles and power asymmetries limiting exploration](technical-aptitude-shapes-team-roles.md) — related
 - [Team spirit motivated slower teams to persist, and the co-located classroom setting revealed the physical, face-to-face nature of teamwork](team-spirit-and-face-to-face-benefits.md) — reports the opposite
 - [In open-ended constructivist activities, task success or failure is not a reliable indicator of learning, so learner models based only on performance risk misjudging learners](performance-not-indicator-learning-open-ended.md) — related
+- [Students' main motivation for learning physics is gaining good marks, with very low internal motivation](low-internal-motivation-physics-marks.md)

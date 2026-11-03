@@ -48,3 +48,4 @@ Within the same 2 × 5 MANCOVA framework, one significant finding emerged for Na
 - [Struggling adult readers made significant reading gains across all instructional groups, but all improvements were associated with small effect sizes](adult-literacy-significant-gains-small-effect-sizes.md) — related
 - [Learner characteristics, class assignment, and WIC benefits significantly predicted persistence in adult literacy classes (Greenberg et al.)](learner-characteristics-predict-adult-persistence.md) — related
 - [Efficiency in phonological and orthographic processing contributes significantly to individual differences in adult ESL reading measures](phonological-orthographic-efficiency-predicts-esl-reading.md) — related
+- [Rigorous effectiveness research on literacy instruction for adult ESL learners was nearly absent prior to this study](few-rigorous-studies-adult-esl-literacy.md) — related

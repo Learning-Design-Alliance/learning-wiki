@@ -50,3 +50,4 @@ Experiment 4 assigned 222 undergraduates to audio-visual clips at 1x or 2x speed
 - [Interest and familiarity positively predict comprehension of speeded audio clips, but the benefit of familiarity decreases as playback speed increases](interest-familiarity-predict-speeded-comprehension.md) — related
 - [Textual slide content yields a small comprehension advantage over pictorial slide content in speeded audio-visual lectures, with no effect of speed](textual-beats-pictorial-slides-speeded-lectures.md) — related
 - [Audio-visual lecture clips produce better comprehension than audio-only clips, and the multimedia advantage holds at accelerated speed](audio-visual-outperforms-audio-only-at-speed.md) — related
+- [Abrupt scene changes in video lectures may distract students and negate the benefits of embedded summaries](abrupt-scene-changes-negate-summary-benefits.md) — related

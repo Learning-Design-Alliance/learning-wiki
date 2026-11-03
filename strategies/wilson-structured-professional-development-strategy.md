@@ -51,6 +51,7 @@ The Wilson Reading System is implemented through "a formal professional developm
 - [Online asynchronous professional learning series completed in teams across the school year](stari-professional-learning-series.md)
 - [Intensive trainer-led observation and feedback model for tutoring professional development](early-steps-trainer-observation-feedback-training.md)
 - [Build coordinator capacity through a structured weekly professional learning community with personalized coaching and targeted assets-and-needs-assessment training](weekly-plc-coaching-for-community-school-coordinators.md)
+- [Three-step tutor training model: initial training, daily debriefing, and individual consultation](three-step-tutor-training-model.md)
 
 ## Examples
 -

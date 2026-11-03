@@ -53,3 +53,4 @@ The only source is a programme document's assertion; it reports no comparison of
 - Student oral presentations of laboratory results became the central activity stimulating active and cooperative learning — related
 - [A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking](teacher-responses-can-close-off-pupil-thinking.md) — related
 - [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](self-analysis-knowledge-drives-teacher-change.md) — related
+- [Multisensory materials increased pupils' willingness to be actively involved in stimulating and challenging activities.](mslt-increases-willingness-engagement.md) — related

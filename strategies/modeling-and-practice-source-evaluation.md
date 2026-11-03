@@ -58,8 +58,10 @@ Source evaluation is a procedural skill that novices cannot acquire from rules a
 5. **Distribute and revisit**: schedule brief re-practice across the term rather than concentrating it in one unit ([Distributed Practice](distributed-practice.md))
 
 ## Related Strategies
+
 - [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a framing device for teaching students how to locate reliable information rather than just avoid bad information
 - [Case-Based Learning](../elements/case-based-learning.md) — real misinformation cases give evaluation practice authentic stakes
+- [Train oral presentation techniques then provide repeated real application opportunities](presentation-techniques-plus-repeated-application.md)
 
 ## Examples
 - **[Stanford History Education Group — Civic Online Reasoning curriculum](https://cor.stanford.edu)** — free lessons in which teachers model lateral reading and students practice evaluating real websites, tweets, and images; the curriculum is built directly on this model-then-practice structure.

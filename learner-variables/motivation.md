@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 371 claims (244 show a difference, 88 mixed, 39 no difference) · 270 studies (92 causal, 91 associational, 40 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 6 design), `q1`–`q4` · 72 of 270 report an effect size · 359 claims rest on one study
+> **Evidence** · 373 claims (246 show a difference, 88 mixed, 39 no difference) · 272 studies (94 causal, 91 associational, 40 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 6 design), `q1`–`q4` · 72 of 272 report an effect size · 361 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -421,6 +421,8 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Experimental group motivation was significantly higher in 3 of 5 sub-categories, but no correlation was found between test results and motivation](../claims/busuu-motivation-higher-no-correlation.md) [~M] — instruction changes it
 - [In the final interview the experimental and control groups differed significantly in interest in other forms of life, with the experimental group extending interest to emotional needs](../claims/experimental-control-differ-interest-other-forms-life.md) [+M] — instruction changes it
 - [Pre-Algebra-focused students performed much better in high-teacher-engagement or high-engagement classrooms than in low-engagement classrooms (two significant interaction effects)](../claims/interaction-prealgebra-students-engaged-classrooms.md) [~M] — an instructional effect differs with it
+- [Diary keeping significantly increases intrinsic motivation and task value of pre-service science teachers](../claims/diaries-increase-intrinsic-motivation-task-value.md) [+M] — instruction changes it
+- [Self-efficacy correlates positively with foreign language achievement measures](../claims/self-efficacy-correlates-language-achievement.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

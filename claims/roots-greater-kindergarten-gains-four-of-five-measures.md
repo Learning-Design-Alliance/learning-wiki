@@ -63,3 +63,4 @@ Randomized block trial with 290 at-risk kindergartners in 37 classrooms; student
 - [The ROOTS kindergarten mathematics intervention significantly improved fall-to-spring gains on three of six outcome measures compared with control, with positive effect sizes on all measures](roots-kindergarten-intervention-efficacy.md) — related
 - [The intervention produced a large treatment effect on sixth graders' recognition of taught bound roots](large-treatment-effect-root-recognition-grade-6.md) — related
 - [ROOTS participants demonstrated positive intervention effects on proximal and distal mathematics measures across two cohorts](roots-positive-effects-two-cohorts.md) — related
+- [At-risk tutored students gained nearly 20 NCE points while non-tutored at-risk peers declined from fall to spring](nce-growth-tutored-versus-non-tutored-decline.md) — related

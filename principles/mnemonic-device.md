@@ -22,7 +22,7 @@ sources:
 # Mnemonic Device
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (7 for, 5 mixed, 2 against) · 23 studies (8 causal, 8 quant-synthesis, 7 review), `q2`–`q4` · 9 of 23 report an effect size · 9 claims rest on one study
+> **Evidence** · 15 claims (8 for, 5 mixed, 2 against) · 24 studies (8 causal, 8 quant-synthesis, 8 review), `q2`–`q4` · 10 of 24 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +129,10 @@ For example, a nursing student may want to remember the order of a patient asses
 The expectation should weaken if comparisons with general learners, with time held equal, show mnemonics no better than retrieval practice of the same items on delayed tests, or if the disabilities syntheses, read in full, turn out to compare mnemonics only with no instruction. It should narrow if gains vanish beyond a few weeks without spaced review. If learner-made mnemonics match supplied ones for novices, step 4 should start learner-made cues sooner; if they are worse, keep supplied cues longer. If mnemonic instruction harms later understanding of the same content, the "use only for arbitrary items" condition should become a firm exclusion. Do not protect the model by calling every failure "a badly built mnemonic" after the fact.
 
 Recall with the cue, recall without it, delayed recall, use in a task and understanding of the content are separate claims. The present evidence establishes no number of items per mnemonic, no schedule and no criterion for retiring a cue.
+
+## Claims
+
+- [Mnemonic instruction is highly effective for increasing knowledge and retention of science facts for students with EBD](../claims/mnemonic-instruction-science-ebd.md) [+W]
 
 ## Related Principles
 - [Chunking](chunking.md) — many mnemonic devices work by organizing information into more manageable memory units.

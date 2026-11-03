@@ -60,8 +60,10 @@ Classroom PBIS treats behavior as a learnable skill set rather than a trait, app
 5. Collect acknowledgment and referral data; review every 4–6 weeks and intensify supports (CICO, individual plans) for students not responding.
 
 ## Related Strategies
+
 - Classroom management systems that share PBIS's structure but lack its teaching and data components tend to be compliance-only; PBIS's distinctive move is treating expectations as curriculum
 - Function-based thinking — identifying what problem behavior achieves for the student (escape, attention) before selecting a response
+- [Use tier 2 and 3 school-wide positive behavior supports alongside academic instruction to increase attentiveness and engagement](tier2-tier3-pbis-academic-ebd.md)
 
 ## Examples
 - **[PBIS Technical Guide](https://www.pbis.org)** — the national PBIS implementation center; provides classroom matrix templates, CICO materials, and fidelity measures (Self-Assessment Survey, TFI).

@@ -65702,5 +65702,545 @@
  "simulation\tvirtual simulation and video-based instruction followed by laboratory practice\tface-to-face explanation and demonstration followed by laboratory practice": {
   "label": "virtual simulation/video instruction vs face-to-face instruction",
   "treatment_is_a": true
+ },
+ "active-learning\tConstructivist Learning Model\ttraditional method": {
+  "label": "Constructivist learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tMeeting-House debate instruction\ttraditional lecture instruction": {
+  "label": "Debate instruction vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tMeeting-House debate instruction\ttraditional lecture-based instruction": {
+  "label": "Debate instruction vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative pre-task planning\tindividual pre-task planning": {
+  "label": "Collaborative pre-task planning vs individual pre-task planning",
+  "treatment_is_a": true
+ },
+ "active-learning\tcritical-thinking instruction through debate\ttraditional lecturing instruction": {
+  "label": "Debate-based critical-thinking instruction vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tdeveloped active training technique\ttraining without the developed technique": {
+  "label": "Active training technique vs training without the technique",
+  "treatment_is_a": true
+ },
+ "active-learning\tdeveloped technique using active training means and active learning methods\ttraining without the developed technique": {
+  "label": "Active training technique vs training without the technique",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer education\texperimental-group pretest": {
+  "label": "Peer education vs pretest/baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer education\ttraditional teaching": {
+  "label": "Peer education vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer education, pretest to posttest\tpre-program attitude level": {
+  "label": "Peer education vs pre-program baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer tutoring\tunspecified comparison": {
+  "label": "Peer tutoring vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer tutoring\tunspecified comparison condition": {
+  "label": "Peer tutoring vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning\tlecture-based computer course": {
+  "label": "Problem-based learning vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning (PBL)\tlecture-based computer course (LBCC)": {
+  "label": "Problem-based learning vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning in small groups\tlecture-based computer course with individual practice": {
+  "label": "Small-group problem-based learning vs lecture-based instruction with individual practice",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning in small groups\tlecture-based computer instruction with individual practice": {
+  "label": "Small-group problem-based learning vs lecture-based instruction with individual practice",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning with collaborative problem solving\tlecture-based computer course with individual practice": {
+  "label": "Collaborative problem-solving PBL vs lecture-based instruction with individual practice",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning with group problem solving\tlecture-based computer course with individual sample practice": {
+  "label": "Group problem-solving PBL vs lecture-based instruction with individual practice",
+  "treatment_is_a": true
+ },
+ "active-learning\tscientific argumentation based learning process\ttraditional teaching methods": {
+  "label": "Scientific argumentation-based learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tscientific argumentation-based learning\ttraditional teaching methods": {
+  "label": "Scientific argumentation-based learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tscientific argumentation-based learning process\ttraditional teaching methods": {
+  "label": "Scientific argumentation-based learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "debriefing\tweekly 5-item quiz plus learning reflection\tweekly 10-item quiz without reflection": {
+  "label": "debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tCON-ELM teachers’ change after adopting ELM\tELM-ELM teachers’ change across two ELM years": {
+  "label": "ELM adoption/change vs continued ELM instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tELM core mathematics program\tstandard district mathematics instruction": {
+  "label": "ELM core mathematics program vs standard district mathematics instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tELM core mathematics program in Year 2\tstandard district mathematics instruction in Year 1": {
+  "label": "ELM core mathematics program vs standard district mathematics instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tELM for two years (ELM-ELM)\tELM for one year (CON-ELM)": {
+  "label": "Two years of ELM vs one year of ELM",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect instruction\tunspecified comparison": {
+  "label": "Direct instruction vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tincidental learning condition\tintentional learning condition": {
+  "label": "Intentional learning vs incidental learning",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tintentional learning condition\tincidental learning condition": {
+  "label": "Intentional learning vs incidental learning",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tintentional learning condition with advance notice of tests\tincidental learning condition without advance notice of tests": {
+  "label": "Intentional learning with advance test notice vs incidental learning without advance test notice",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tintentional vocabulary learning instructions\tincidental vocabulary learning without advance test instructions": {
+  "label": "Intentional vocabulary learning with advance test notice vs incidental vocabulary learning without advance test notice",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tintentional vocabulary learning with advance notice of tests\tincidental vocabulary learning without advance notice of tests": {
+  "label": "Intentional learning with advance test notice vs incidental learning without advance test notice",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher-directed mathematics instruction\tunspecified comparison condition": {
+  "label": "Teacher-directed instruction vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher-mediated mathematics interventions\tquestionable or ineffective mathematics interventions": {
+  "label": "Teacher-mediated mathematics intervention vs questionable or ineffective mathematics intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional teaching, pretest to posttest\tpre-program attitude level": {
+  "label": "Traditional teaching posttest level vs pre-program baseline",
+  "treatment_is_a": true
+ },
+ "feedback-presence\terror correction feedback on collocation errors\tno treatment": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback-mediated collaborative planning\tcollaborative planning without feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback-mediated individual planning\tindividual planning without feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tincidental focus on form with recasts\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tincidental focus on form with recasts during jigsaw retelling\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\trecast feedback during jigsaw retelling\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\trecasting during jigsaw retelling\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tgrammatical-collocation feedback\tlexical-collocation feedback": {
+  "label": "grammatical-collocation feedback vs lexical-collocation feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tlexical-collocation feedback\tgrammatical-collocation feedback": {
+  "label": "grammatical-collocation feedback vs lexical-collocation feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tneeds-improvement sentences\tpositive sentences": {
+  "label": "needs-improvement sentences vs positive sentences",
+  "treatment_is_a": true
+ },
+ "gamification\tcomputer game practice\tclassical homework": {
+  "label": "game-based learning vs traditional non-game learning",
+  "treatment_is_a": true
+ },
+ "gamification\teducational computer games\ttraditional paper-and-pencil drills": {
+  "label": "game-based learning vs traditional non-game learning",
+  "treatment_is_a": true
+ },
+ "gamification\tgames for learning\ttraditional teaching without games": {
+  "label": "game-based learning vs traditional non-game learning",
+  "treatment_is_a": true
+ },
+ "gamification\tmath computer-game exercises using the Scholastics Program\tclassical homework and exercises": {
+  "label": "game-based learning vs traditional non-game learning",
+  "treatment_is_a": true
+ },
+ "gamification\tmini-game controlled practice with feedback\tcontrol group": {
+  "label": "game-based learning vs non-game control",
+  "treatment_is_a": true
+ },
+ "gamification\tmini-game practice embedded in a mystery story\tcontrol group": {
+  "label": "game-based learning vs non-game control",
+  "treatment_is_a": true
+ },
+ "gamification\trule instruction plus mystery-story mini-game practice\tcontrol group": {
+  "label": "game-based learning vs non-game control",
+  "treatment_is_a": true
+ },
+ "gamification\tvisualisation strategies plus spelling games\tvisualisation strategies without games": {
+  "label": "game-based learning vs non-game learning",
+  "treatment_is_a": true
+ },
+ "media-design\tIntegrated problem and questions on the same page\tProblem and questions on opposite sides of the page": {
+  "label": "Integrated vs separated problem-and-question layout",
+  "treatment_is_a": true
+ },
+ "media-design\tembedded questions in video subtitles\tpaper-only questions (not assessed for helpfulness)": {
+  "label": "Embedded video questions vs paper-only questions",
+  "treatment_is_a": true
+ },
+ "media-design\tembedded questions synchronized in the video as subtitles\tquestions provided only on paper": {
+  "label": "Embedded video questions vs paper-only questions",
+  "treatment_is_a": true
+ },
+ "media-design\tfull English captions\tkeyword English captions": {
+  "label": "Full captions vs keyword captions",
+  "treatment_is_a": true
+ },
+ "media-design\tfull English captions\tno captions": {
+  "label": "Full captions vs no captions",
+  "treatment_is_a": true
+ },
+ "media-design\tfull-caption film viewing after treatment\tfull-caption group before treatment": {
+  "label": "Post-treatment viewing vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tfull-text English captions\tkeyword English captions": {
+  "label": "Full captions vs keyword captions",
+  "treatment_is_a": true
+ },
+ "media-design\tfull-text English captions\tno captions": {
+  "label": "Full captions vs no captions",
+  "treatment_is_a": true
+ },
+ "media-design\tfull-text captions\tkeyword captions": {
+  "label": "Full captions vs keyword captions",
+  "treatment_is_a": true
+ },
+ "media-design\tfull-text captions\tno captions": {
+  "label": "Full captions vs no captions",
+  "treatment_is_a": true
+ },
+ "media-design\tkeyword English captions\tno captions": {
+  "label": "Keyword captions vs no captions",
+  "treatment_is_a": true
+ },
+ "media-design\tkeyword captions\tno captions": {
+  "label": "Keyword captions vs no captions",
+  "treatment_is_a": true
+ },
+ "media-design\tkeyword captions\tpre-treatment listening": {
+  "label": "Keyword captions vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tmultisensory language teaching with pictorial, auditory, and manipulative materials\tmainstream coursebook-based education": {
+  "label": "Multisensory materials vs coursebook-based instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tno-caption film viewing\tpre-treatment baseline": {
+  "label": "Post-treatment viewing vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tsummaries delivered by a guest lecturer in a coffee-shop setting\tno summaries": {
+  "label": "Summaries vs no summaries",
+  "treatment_is_a": true
+ },
+ "media-design\tsummaries delivered by the main lecturer\tno summaries": {
+  "label": "Summaries vs no summaries",
+  "treatment_is_a": true
+ },
+ "media-design\tsummaries delivered by the main lecturer\tsummaries delivered by a guest lecturer in a coffee-shop setting": {
+  "label": "Main-lecturer summaries vs guest-lecturer coffee-shop summaries",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual input in video\tother usefulness ratings/no visual input": {
+  "label": "Visual input vs no visual input",
+  "treatment_is_a": true
+ },
+ "other\t12-week PBL teaching model\texperimental group pre-test": {
+  "label": "PBL teaching model vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "other\t12-week PBL teaching model\tpre-test before PBL": {
+  "label": "PBL teaching model vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "other\t12-week PBL teaching model\ttraditional teaching mode": {
+  "label": "PBL teaching model vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "other\t16 weeks of built-in CI training with active listening integrated into interpreting-skills training\tpre-training baseline": {
+  "label": "Built-in active-listening integration vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "other\t16 weeks of stand-alone active-listening training within CI training\tpre-training baseline": {
+  "label": "Stand-alone active-listening training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "other\t16-week CI training with built-in active listening\tpre-test before training": {
+  "label": "Built-in active-listening integration in CI training vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "other\t16-week CI training with stand-alone active listening\tpre-test before training": {
+  "label": "Stand-alone active-listening training in CI training vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "other\t20-min physical-activity break\t10-min sedentary lesson": {
+  "label": "Physical-activity break vs sedentary lesson",
+  "treatment_is_a": true
+ },
+ "other\t20-week Nuffield Early Language Intervention\tuntreated control": {
+  "label": "Nuffield Early Language Intervention vs untreated control",
+  "treatment_is_a": true
+ },
+ "other\t2001 onward\tup to 2000": {
+  "label": "Later period vs earlier period",
+  "treatment_is_a": true
+ },
+ "practice-amount\tLonger time spent using Parole\tShorter time spent using Parole": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlonger Parole use\tshorter Parole use": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore time spent on MasterMaths\tless time spent on MasterMaths": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore time spent on mini-game practice\tless time spent on mini-game practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore time spent on practice\tless time spent on practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore time spent practising\tless time spent practising": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\t5-item quiz plus learning reflection\t10-item extended quiz": {
+  "label": "brief quizzes plus learning reflections vs longer quizzes without reflections",
+  "treatment_is_a": true
+ },
+ "prompts\t5-item weekly quizzes followed by learning reflections\t10-item weekly extended quizzes without reflections": {
+  "label": "brief quizzes plus learning reflections vs longer quizzes without reflections",
+  "treatment_is_a": true
+ },
+ "prompts\tbrief weekly quizzes plus learning reflections\tlonger weekly quizzes without reflection": {
+  "label": "brief quizzes plus learning reflections vs longer quizzes without reflections",
+  "treatment_is_a": true
+ },
+ "prompts\tdaily self-regulation diary reports with weekly feedback\tno diary-based self-regulation activity": {
+  "label": "self-regulation diary prompts with feedback vs no diary-based self-regulation activity",
+  "treatment_is_a": true
+ },
+ "prompts\tself-affirmation writing exercise\twriting about things important to other people": {
+  "label": "self-affirmation writing vs writing about things important to other people",
+  "treatment_is_a": true
+ },
+ "prompts\tself-instruction\tnot specified": {
+  "label": "self-instruction prompts vs no specified self-instruction",
+  "treatment_is_a": true
+ },
+ "prompts\tself-monitoring\tnot specified": {
+  "label": "self-monitoring prompts vs no specified self-monitoring",
+  "treatment_is_a": true
+ },
+ "simulation\t30-minute Veterans on Campus game-based virtual role-play simulation\tnot stated": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\t30-minute Veterans on Campus game-based virtual role-play training\tpretraining baseline": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\t30-minute Veterans on Campus game-based virtual-human role-play\tpretraining baseline": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\t30-minute Veterans on Campus game-based virtual-human role-play training\tpretraining baseline": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tVOC game-based virtual role-play training\tpretraining baseline": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tVOC game-based virtual-human role-play training\tpretraining baseline": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tVeterans on Campus game-based virtual-human role-play training\tno training/baseline": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tgame-based role-play conversations with emotionally responsive virtual student veterans\tpretraining baseline": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "technology-tool\t12 sessions of Interactive Metronome synchronized metronome tapping\tregular physical education/health education activities": {
+  "label": "Interactive Metronome training vs regular physical/health education",
+  "treatment_is_a": true
+ },
+ "technology-tool\t15-minute Spaceteam ESL warm-up for six weeks\tTraditional interactive classroom activities for six weeks": {
+  "label": "Spaceteam ESL vs traditional interactive classroom activities",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2 hours in class plus 1 hour of WhatsApp activities weekly\t2 hours in class plus 1 hour of face-to-face activities weekly": {
+  "label": "WhatsApp activities vs face-to-face activities",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2 hours in-class plus 1 hour of WhatsApp learning activities weekly\t2 hours in-class plus 1 hour of face-to-face learning activities weekly": {
+  "label": "WhatsApp activities vs face-to-face activities",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2-hour Thinkspace online problem-solving intervention\tlecture-only instruction": {
+  "label": "Thinkspace online problem-solving vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\t20-hour Web-based reading-strategy training\tpaper-based pretest baseline": {
+  "label": "Web-based reading-strategy training vs paper-based/pretraining baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t20-hour Web-based reading-strategy training\tpretraining hypertext-reading baseline": {
+  "label": "Web-based reading-strategy training vs paper-based/pretraining baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t20-hour Web-based reading-strategy training\tpretraining strategy-use baseline": {
+  "label": "Web-based reading-strategy training vs paper-based/pretraining baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t20-hour web-based reading strategy training\tpretraining questionnaire baseline": {
+  "label": "Web-based reading-strategy training vs paper-based/pretraining baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t20-hour web-based reading-strategy training\tpretraining baseline": {
+  "label": "Web-based reading-strategy training vs paper-based/pretraining baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D Mathematics Robot in Second Life\tpre-application attitude responses": {
+  "label": "3D Mathematics Robot in Second Life vs pre-application baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D Mathematics Robot in Second Life\tpre-application attitude scores": {
+  "label": "3D Mathematics Robot in Second Life vs pre-application baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D Mathematics Robot in Second Life\tpre-application baseline": {
+  "label": "3D Mathematics Robot in Second Life vs pre-application baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D Mathematics Robot in Second Life\tpre-application fear/learning-belief item scores": {
+  "label": "3D Mathematics Robot in Second Life vs pre-application baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D Mathematics Robot in Second Life\tpre-application interest-item scores": {
+  "label": "3D Mathematics Robot in Second Life vs pre-application baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D Mathematics Robot in Second Life\tpre-application scores": {
+  "label": "3D Mathematics Robot in Second Life vs pre-application baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D Mathematics Robot in Second Life\tpre-application time/advanced-information item scores": {
+  "label": "3D Mathematics Robot in Second Life vs pre-application baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D courseware group\tother three instructional groups": {
+  "label": "3D courseware vs other instructional groups",
+  "treatment_is_a": true
+ },
+ "technology-tool\t40-minute multimedia environmental sustainability programme\tpre-programme assessment": {
+  "label": "Multimedia environmental-sustainability programme vs pre-programme baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\t5E model enriched with animations\t5E instructional model": {
+  "label": "Animation-enriched 5E model vs 5E instructional model",
+  "treatment_is_a": true
+ },
+ "technology-tool\t5E model enriched with animations\t5E model enriched with cooperative learning": {
+  "label": "Animation-enriched 5E model vs cooperatively enriched 5E model",
+  "treatment_is_a": true
+ },
+ "technology-tool\t70% face-to-face coursework plus 30% WhatsApp discussions\t70% face-to-face coursework plus 30% face-to-face discussions": {
+  "label": "WhatsApp-supported blended coursework vs face-to-face blended coursework",
+  "treatment_is_a": true
+ },
+ "technology-tool\t75% in-class learning plus 25% Twitter activities\t100% in-class learning with no app mediation": {
+  "label": "Twitter-supported blended learning vs 100% in-class learning without app mediation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAGLS automated grading system\tbefore AGLS implementation": {
+  "label": "AGLS automated grading vs pre-AGLS grading",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAGLS automated grading system\tgrading before AGLS": {
+  "label": "AGLS automated grading vs pre-AGLS grading",
+  "treatment_is_a": true
+ },
+ "technology-tool\tATR CALL BRIX mobile flipped-learning course with e-mentoring and self-evaluation\tpaper-based course without ATR CALL BRIX or the self-evaluation system": {
+  "label": "ATR CALL BRIX mobile flipped learning vs paper-based course without ATR CALL BRIX",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAcademic vocabulary via SMS\tAcademic vocabulary using a dictionary": {
+  "label": "SMS vocabulary instruction vs dictionary-based vocabulary learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAustralian National Implementation Study program\tbaseline and non-participants": {
+  "label": "Australian National Implementation Study programme vs baseline/non-participants",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAuthoring by Tutoring\tAuthoring by Demonstration": {
+  "label": "Authoring by Tutoring vs Authoring by Demonstration",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAuthoring by Tutoring with SimStudent\tAuthoring by Demonstration with SimStudent": {
+  "label": "Authoring by Tutoring with SimStudent vs Authoring by Demonstration with SimStudent",
+  "treatment_is_a": true
+ },
+ "worked-examples\tContext-based problem-solving instruction with worked-out examples\tPre-intervention baseline": {
+  "label": "worked examples vs no worked examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked-out context-based examples\tnot stated": {
+  "label": "worked examples vs no worked examples",
+  "treatment_is_a": true
  }
 }

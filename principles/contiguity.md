@@ -50,7 +50,7 @@ sources:
 # Contiguity Principle (Spatial and Temporal)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (17 for, 14 mixed) · 25 studies (8 review, 6 causal, 5 quant-synthesis, 2 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 25 report an effect size · 26 claims rest on one study
+> **Evidence** · 32 claims (18 for, 14 mixed) · 26 studies (8 review, 7 causal, 5 quant-synthesis, 2 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 26 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,7 @@ Taken together: for learners new to complex material, words placed with and time
 - [Letting learners pace instruction helped on complex material in one experiment](../claims/learner-paced-beats-system-paced-complex-material.md) [~M]: pacing control as a partial substitute when separation cannot be removed.
 - [Audio explanations with an LDI integrated structure lead to longer fixation times on referred-to picture elements during interpretation phases than LDI separated structures](../claims/ldi-integrated-longer-fixations-interpretation.md) [+M] — attached 2026-10-18 from Manuela Glaser et al. (2022), which proposed "Design audio explanations of complex pictures with an integrated LDI structure, presenting each element's localization, description, and interpretation in immediate succession".
 - [Linkages between picture elements and interpretation statements are better recognized with an LDI integrated than an LDI separated audio structure](../claims/ldi-integrated-better-recognition-linkages.md) [+M] — attached 2026-10-18 from Manuela Glaser et al. (2022), which proposed "Design audio explanations of complex pictures with an integrated LDI structure, presenting each element's localization, description, and interpretation in immediate succession"; tests this page's relationship.
+- [Learners in the integrated-format condition experienced fewer cognitive-load challenges than learners in the split-attention condition](../claims/split-attention-integrated-format-fewer-challenges.md) [+W] — attached 2026-11-03 from Dhlamini (2016), which proposed "Design problem solving instruction to minimize extraneous cognitive load by integrating problem elements physically"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

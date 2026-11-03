@@ -45,6 +45,7 @@ The article draws a pedagogical implication from its findings: learners should b
 ## Related Strategies
 
 - [Incorporate CALL-based glossing technology into EFL reading instruction and materials](incorporate-call-glossing-in-reading-instruction.md)
+- [Use hypertext gloss software with clear task goals and salient, carefully consulted annotations](hypertext-gloss-annotation-consultation-strategy.md)
 
 ## Examples
 -

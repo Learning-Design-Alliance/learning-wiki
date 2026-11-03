@@ -82,3 +82,4 @@ The review reports, citing Shih et al. (1999), an experimental priming study in 
 - [Stereotype threat compromises the test performance of learners whose group is the target of a negative stereotype](stereotype-threat-compromises-performance.md) — a broader claim this one bears on
 - [Disidentification relieves stereotype threat at the cost of loss of motivation and dissociation from school achievement](disidentification-costs-motivation.md) — related
 - [Sociocultural factors including stereotype threat, teacher interactions, and parental perceptions are discussed as likely sources of later-emerging gender differences in math](sociocultural-sources-of-gender-differences-in-math.md) — related
+- [Achievement variation by gender and ethnicity appears slighter in the self-affirmation condition](self-affirmation-slighter-achievement-variation.md) — related

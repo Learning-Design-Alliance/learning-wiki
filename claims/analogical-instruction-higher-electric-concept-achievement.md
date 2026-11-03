@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2012
+source_checked: 2026-11-03
 sources:
   - id: ugur-et-al-2012
     resource: "http://www.akademikplus.com/eujer/index.html"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After treatment, the experimental (analogy) group showed better performance than the control group on the post Electric Concept Test, a statistically significant difference favoring the experimental group, with no pre-test difference between groups. [→ Ugur et al. 2012](#ugur-et-al-2012)
@@ -52,3 +53,4 @@ Independent group t-test comparing post Electric Concept Test scores in a non-eq
 - [All three learning environments produced statistically significant pre-test to post-test achievement gains in simple electricity](all-three-environments-significant-gains-electricity.md) — related
 - [Analogical instruction had almost no effect on students' attitudes towards physics](analogical-instruction-no-attitude-effect.md) — related
 - [Analogical instruction reduced students' misconceptions about direct current circuits more than traditional instruction, though not completely](analogical-instruction-reduces-misconceptions-more.md) — related
+- [The analogy group's distribution of correct answers differed radically from the traditional group's, suggesting student-centered methodologies may favor academic performance in Higher Education.](analogy-group-radically-different-curve-performance.md) — related

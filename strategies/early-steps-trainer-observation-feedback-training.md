@@ -52,6 +52,7 @@ Early Steps training involves 9 full-day visits by the trainer across the school
 - [Pair Tier 2 intervention delivery with professional development workshops and in-class coaching visits](pd-workshops-plus-in-class-coaching-tier2.md)
 - [Run an after-school literacy tutoring program pairing an existing after-school site, a structured scripted curriculum, and service-learning college student tutors](service-learning-after-school-tutoring-model.md)
 - [Support interventionists with focused professional development workshops plus ongoing in-classroom coaching](pd-workshops-plus-coaching-for-interventionists.md)
+- [Three-step tutor training model: initial training, daily debriefing, and individual consultation](three-step-tutor-training-model.md)
 
 ## Examples
 -

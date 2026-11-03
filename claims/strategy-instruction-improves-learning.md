@@ -111,3 +111,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Identified SRL interventions all focused on goal setting and monitoring and none on supporting self-evaluation](srl-interventions-neglect-self-evaluation.md) — related
 - [Teachers and students reported that self-monitoring strategies supported academic self-monitoring but produced little behavioral change and were not used for self-regulation](qualitative-views-self-monitoring-strategies.md) — reports the opposite
 - [Students developed self-regulation, gaining the ability to monitor problem-solving processes and correct irrelevant strategies, with self-evaluation enabling reflection on their actions](self-regulation-gains-from-self-evaluation-sections.md) — related
+- [Self-regulation and teacher-mediated interventions improve mathematics skills for students with EBD](self-regulation-teacher-mediated-math-ebd.md) — a narrower finding that bears on this claim

@@ -88,6 +88,7 @@ Inquiry supports learning by engaging learners in knowledge construction, which 
 **BSCS Science: An Inquiry Approach** — A published secondary science curriculum organized around structured inquiry sequences (engage, investigate, explain) with scaffolded evidence analysis. [https://bscs.org](https://bscs.org)
 
 **[Class Discussion](class-discussion.md) with discrepant events** — Instructor presents a demonstration whose outcome contradicts learners' predictions, then facilitates discussion where learners reconcile evidence with prior beliefs.
+- [Implement four-phase scientific inquiry with conceptual change in physics lessons](../strategies/four-phase-scientific-inquiry-conceptual-change-strategy.md)
 
 ## Key Sources
 - Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006). *Educational Psychologist, 42*(2), 99–107. [doi:10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)

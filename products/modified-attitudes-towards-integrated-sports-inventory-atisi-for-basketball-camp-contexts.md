@@ -24,7 +24,8 @@ A basketball-context self-report assessment adapted from the CAIPE-R to measure 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [The Attitude Scale in Physical Education and Sports (BESTÖ)](the-attitude-scale-in-physical-education-and-sports-besto.md)
 
 ## Key Sources
 - Papaioannou, C., Evaggelinou, C., & Block, M. (2014). The effect of a disability camp program on attitudes towards the inclusion of children with disabilities in a summer sport and leisure activity camp. International Journal of Special Education, 29(1), 121-127.

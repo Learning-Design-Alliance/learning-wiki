@@ -49,3 +49,4 @@ Dimension-level grouping of the same semantic differential survey using Osgood's
 - [Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions](ada-high-tam-acceptance-secondary-math.md) — related
 - [Teachers rated the TARGET-tool's core features as easy to learn and efficient, but found scheduling student scans complex and the abundance of motivating strategies overwhelming](target-tool-usability-strengths-and-frictions.md) — related
 - [Older adults rate the blended LMS workshop positively on ease of use, perceived usefulness, attitude toward using, and intention to use](tam-validation-blended-workshop-older-adults.md) — related
+- [Students held positive attitudes toward mobile-assisted vocabulary exercises, with an overall mean of 3.98 on a five-point scale](positive-attitudes-mobile-vocabulary-exercises.md) — related

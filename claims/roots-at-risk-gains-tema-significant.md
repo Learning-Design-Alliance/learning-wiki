@@ -57,3 +57,4 @@ Cluster-randomized trial with 29 classrooms (14 treatment, 15 control) using a n
 - [The ROOTS kindergarten mathematics intervention significantly improved fall-to-spring gains on three of six outcome measures compared with control, with positive effect sizes on all measures](roots-kindergarten-intervention-efficacy.md) — related
 - [Kindergartners at risk for mathematics difficulties who participated in the ROOTS intervention demonstrated larger informal and formal early number skills gains than control peers](roots-participation-larger-informal-formal-number-skills-gains.md) — related
 - [ROOTS participants demonstrated positive intervention effects on proximal and distal mathematics measures across two cohorts](roots-positive-effects-two-cohorts.md) — related
+- [At-risk tutored students gained nearly 20 NCE points while non-tutored at-risk peers declined from fall to spring](nce-growth-tutored-versus-non-tutored-decline.md) — related

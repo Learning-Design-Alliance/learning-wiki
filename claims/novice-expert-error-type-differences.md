@@ -53,3 +53,4 @@ The review reports, citing Brodbeck et al. (1992), a field study of error handli
 - [Experts detect and correct small changes before events become full-blown, while novices are distracted by possibly irrelevant phenomena](expert-monitoring-prevents-full-blown-events.md) — related
 - [In object counting, deaf and hearing children make similar attention and principle errors, but deaf children make more number-string errors](deaf-more-number-string-errors-object-counting.md) — related
 - [Participants with very little prior experience with Deaf communities reported greater post-intervention gains](low-prior-experience-greater-gains.md) — related
+- [Most error types in financial mathematics pre-tests involved confusing accumulated amount with interest or selecting the wrong formula](financial-mathematics-error-types-reverse-and-formula.md) — related
