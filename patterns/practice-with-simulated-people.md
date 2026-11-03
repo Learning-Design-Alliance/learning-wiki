@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 174 claims (82 for, 74 mixed, 18 against) · 94 studies (33 review, 20 causal, 16 quant-synthesis, 10 qualitative, 10 design, 4 theoretical, 1 associational), `q1`–`q4` · 19 of 94 report an effect size · 169 claims rest on one study
+> **Evidence** · 175 claims (82 for, 74 mixed, 19 against) · 95 studies (33 review, 20 causal, 16 quant-synthesis, 11 design, 10 qualitative, 4 theoretical, 1 associational), `q1`–`q4` · 19 of 95 report an effect size · 170 claims rest on one study
 
 ## Description and scope
 
@@ -208,6 +208,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Positive learner attitudes were measured after only one supervised application and may decline with repeated or mandatory use](../claims/attitudes-after-one-supervised-use.md) [~W]
 - [Role-play training shows no significant difference between groups in theoretical examination scores](../claims/role-play-no-significant-theory-exam-difference.md) [~W]
 - [Second Life role-play yields higher multicultural acceptance and cultural enrichment than face-to-face role-play](../claims/sl-higher-multicultural-acceptance.md) [~W]
+- [Participants raised three concerns about the PCR class: low confidence to use learned expressions in real communication, insufficient grammar development, and doubts about roleplay tests](../claims/pcr-participant-concerns-three-aspects.md) [-W]
 
 ## Examples
 

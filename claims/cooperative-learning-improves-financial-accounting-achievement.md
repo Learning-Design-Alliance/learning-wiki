@@ -52,3 +52,4 @@ ANCOVA on post-test scores with pre-test as covariate in a randomized pre-test-p
 - [Descriptive post-test means show the demonstration group (M = 58.57) scored higher than the control group (M = 48.13)](descriptive-posttest-means-demonstration-versus-control.md) — related
 - [MANOVA with repeated measures showed significant main effects of test-time and a significant group-learning-by-test-time interaction on mathematics achievement](manova-group-learning-testtime-interaction-math.md) — related
 - [Grade 10 learners taught financial mathematics with a group approach significantly outperformed learners taught with conventional non-group instruction](group-approach-outperforms-non-group-grade10-financial-maths.md) — related
+- [All three experimental approaches were equally effective for spelling achievement and significantly better than conventional instruction](three-approaches-equal-spelling-achievement.md) — related

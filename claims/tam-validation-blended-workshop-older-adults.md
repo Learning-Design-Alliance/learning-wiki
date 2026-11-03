@@ -54,3 +54,4 @@ TAM-based validation test (five-point Likert scale) applied to the blended works
 - [Students report positive attitudes towards studying physics in the blended web-based environment](web-based-learning-positive-attitudes-toward-physics.md) — related
 - [Experimental-group students reported positive perceptions of AR, with highest scores for enjoyment (M = 4.44) and ease of use (M = 4.29)](positive-student-perceptions-ar-tam-questionnaire.md) — related
 - [Students rated the application positively on a semantic differential scale, but finding time to use it and doing exercises were scored easy with a bias toward hard](semantic-differential-attitudes-english-app.md) — related
+- [Students positively perceived YouTube's usefulness, ease of use, and their attitude toward it for vocabulary learning](student-positive-perceptions-youtube-vocabulary.md) — related

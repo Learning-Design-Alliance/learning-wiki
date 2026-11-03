@@ -53,3 +53,4 @@ Quasi-experimental pre-test/post-test study with 23 experimental and 22 control 
 - [WhatsApp-delivered vocabulary instruction produced significantly higher post-test vocabulary scores than traditional classroom instruction among Iranian junior high school EFL learners](whatsapp-vocabulary-instruction-outperformed-traditional-classroom-instruction.md) — related
 - [Experimental-group EFL students taught with working memory strategies significantly outperformed control-group students on a vocabulary post-test](wm-strategies-improve-efl-vocabulary-retention.md) — related
 - [PBL-taught Iranian EFL learners achieved significantly higher vocabulary recall (total post-test) than conventionally taught learners](pbl-improves-efl-vocabulary-recall.md) — related
+- [Grade-10 EFL students taught vocabulary with PowerPoint-enhanced lessons retained more vocabulary than students in traditional lessons](ppt-vocabulary-retention-outperforms-traditional.md) — related

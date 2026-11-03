@@ -52,3 +52,4 @@ Illustrative argument (no data) in the critique section: the same overt behavior
 - [Students who chose to comment on videos and rate comments (active/constructive) were reported to gain conceptual understanding of presentation skills while passive watchers did not, in self-selected groups](active-constructive-engagement-improves-video-conceptual-understanding.md) — related
 - [Specified aspects acted as micro-scaffolds: comments on example videos were almost equally distributed over the aspects, indicating participants watched with those aspects in mind](aspects-scaffold-video-commenting-thinking.md) — related
 - [Two teaching modes for AI-supported decision making differ in AI prediction, student engagement, and teacher scaffolding](imsd-fmpd-teaching-modes-ai-decision-making.md) — related
+- [Child engagement during alphabet instruction was high in all four treatments](high-engagement-all-treatments.md) — related

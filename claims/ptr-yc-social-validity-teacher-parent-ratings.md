@@ -71,3 +71,4 @@ Posttreatment family questionnaire on a 5-point Likert scale completed by 54% of
 - [Typical early childhood providers implemented PTR-YC with very high fidelity, while BAU classrooms completed almost none of the process steps](ptr-yc-high-fidelity-by-typical-providers.md) — related
 - [Teachers and families rate the family-involved SDLMI as highly acceptable and socially valid](family-involved-sdlmi-social-validity-high-ratings.md) — related
 - [Teacher-to-parent communication did not affect teachers' assessments of student effort or in-class behavior](no-effect-teacher-effort-behavior-ratings.md) — related
+- [Teachers and parents rated the LINK training and materials very positively, and parents reported increased reading time and child engagement](link-social-validity-parent-teacher-perceptions.md) — related

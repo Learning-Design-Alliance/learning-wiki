@@ -47,3 +47,4 @@ Quasi-experimental pretest-posttest non-equivalent control group study of two in
 ## Related Claims
 - [Male and female students taught Igbo language reading comprehension with the cloze approach do not differ significantly in achievement](cloze-approach-no-gender-difference-igbo-reading.md) — a narrower finding that bears on this claim
 - [There is no significant interaction between teaching method and gender on Igbo language reading comprehension achievement](no-method-gender-interaction-igbo-reading-comprehension.md) — a narrower finding that bears on this claim
+- [All three experimental approaches were equally effective for spelling achievement and significantly better than conventional instruction](three-approaches-equal-spelling-achievement.md) — related

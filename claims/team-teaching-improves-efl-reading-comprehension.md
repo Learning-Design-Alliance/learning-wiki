@@ -50,3 +50,4 @@ Quasi-experiment in one Jordanian secondary school: 48 eleventh-grade male stude
 - [Traditional reading comprehension instruction produced no statistically significant pre-test to post-test improvement in the control group](traditional-method-no-significant-reading-gains.md) — related
 - [Explicit reading strategy instruction produced a statistically significant pre-to-post gain in reading comprehension for Ethiopian EFL university students](strategy-instruction-significant-prepost-gain-efl.md) — related
 - [Grade 11 ESL learners who received explicit reading strategy instruction achieved statistically and practically significantly higher reading comprehension scores than control-group learners](strategy-instruction-improves-grade11-esl-reading-comprehension.md) — related
+- [Collaborative teaching of PVE improves seventh-graders' attitudes towards PVE compared with teaching by the PVE teacher alone](collaborative-teaching-improves-pve-attitudes.md) — related

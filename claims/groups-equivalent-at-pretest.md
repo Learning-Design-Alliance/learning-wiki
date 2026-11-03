@@ -78,3 +78,4 @@ Mann-Whitney test on questionnaire pretest scores; mean ranks were 42.04 (experi
 - [The self-assessment and teacher-assessment groups did not differ significantly in motivation at pre-test](no-pre-test-motivation-difference-between-groups.md) — related
 - [SL and traditional groups were equivalent in speaking achievement at pre-test](equivalent-pretest-groups.md) — related
 - [Inductive and deductive groups were statistically equivalent on grammar pre-tests at both university and elementary levels before the experiment](pretest-equivalence-inductive-deductive-groups.md) — possibly the same claim (merge candidate)
+- [Experimental and control groups were equivalent before treatment on both annual examination and pretest scores](groups-equivalent-at-baseline.md) — related

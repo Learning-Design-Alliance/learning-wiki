@@ -163,3 +163,4 @@ Both syntheses find the effect of corrective feedback durable, and they overlap 
 - [Exposure to corrective feedback significantly improves EFL students' grammatical error correction ability](cf-improves-error-correction.md) — a narrower finding that bears on this claim
 - [Exposure to corrective feedback significantly improves EFL students' grammatical error detection ability](cf-improves-error-detection.md) — a narrower finding that bears on this claim
 - [Beginning EFL learners who produced written output and received corrective feedback outperformed input-only learners on a delayed receptive vocabulary post-test](output-plus-feedback-outperforms-input-only-receptive-vocabulary.md) — a narrower finding that bears on this claim
+- [Explicit metalinguistic instruction on L1-L2 differences improved learners' English language production](explicit-metalinguistic-instruction-improves-production.md) — related

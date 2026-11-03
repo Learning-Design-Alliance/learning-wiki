@@ -51,3 +51,4 @@ Qualitative interviews conducted repeatedly throughout the project to assess stu
 - [Organization-simulation knowledge practices support interdisciplinary learning](organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) — related
 - [Qualitative findings showed increased student motivation toward English class and learning vocabulary through videogames](videogame-motivation-qualitative-increase.md) — related
 - [Students' attitudes toward life made gradual progress across the ten weekly themes of the course](gradual-attitude-progress-across-weekly-themes.md) — related
+- [Focus group interviews identify motivation (fun, attractiveness, clarity) and knowledge transfer (real life, speaking) as student themes about UbD](ubd-student-views-motivation-knowledge-transfer.md) — related

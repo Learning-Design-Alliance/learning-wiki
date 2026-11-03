@@ -16,6 +16,8 @@ sources:
     author: Abdul Majeed Al-Tayib Umar
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: al-tayib-umar-2018-2
     resource: "https://doi.org/10.5539/elt.v11n2p15"
     title: "Abdul Majeed Al-Tayib Umar. (2018). The Impact of Assessment for Learning on Students' Achievement in English for Specific Purposes: A Case Study of Pre-Medical Students at Khartoum University: Sudan. English Language Teaching, 11(2). https://doi.org/10.5539/elt.v11n2p15"
@@ -42,7 +44,7 @@ sources:
 
 Abdul Majeed Al-Tayib Umar. (2018). The Impact of Assessment for Learning on Students' Achievement in English for Specific Purposes: A Case Study of Pre-Medical Students at Khartoum University: Sudan. English Language Teaching, 11(2). https://doi.org/10.5539/elt.v11n2p15
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Questionnaire administered to the experimental group (n = 27) after the course, processed in SPSS 17.0; the largest endorsements were for immediate feedback (84%) and reduced final-exam tension (88%).
 

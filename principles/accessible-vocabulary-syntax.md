@@ -31,7 +31,7 @@ sources:
 # Accessible Vocabulary & Syntax
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (15 for, 4 mixed, 2 against) · 29 studies (10 causal, 6 review, 4 quant-synthesis, 3 design, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 4 of 29 report an effect size · 16 claims rest on one study
+> **Evidence** · 22 claims (16 for, 4 mixed, 2 against) · 30 studies (10 causal, 7 review, 4 quant-synthesis, 3 design, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 4 of 30 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -116,6 +116,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study](../claims/young-readers-rely-on-semantic-syntactic-context-for-word-analysis.md) [+W]
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [-M]
 - [Lexical simplification (high-frequency target words) substantially reduces word-level processing times in adult sentence reading](../claims/lexical-simplification-reduces-target-word-processing.md) [+W] — attached 2026-10-22 from Miriam Rivero-Contreras et al. (2023), which proposed "Apply Easy-to-Read adaptations—visual support and lexical simplification—to facilitate adult sentence processing"; tests this page's relationship.
+- [Readability formulas measure stylistic qualities and miss content readability, so they cannot substitute for editorial judgment](../claims/readability-formulas-miss-content-readability.md) [+W] — attached 2026-11-03 from Audio-Visual Communication Review et al. (1955), which proposed "Use readability formulas as an aid to editorial judgment, not as a substitute for it".
 
 ## Objective and learner-valued goal
 

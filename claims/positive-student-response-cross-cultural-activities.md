@@ -61,3 +61,4 @@ The authors' evaluation in the Conclusion section is based on informal feedback 
 - [Student teachers report high satisfaction with virtual exchange](student-teachers-satisfied-with-virtual-exchange.md) — related
 - [Virtual exchange participation develops student teachers' intercultural competence](virtual-exchange-develops-intercultural-competence-student-teachers.md) — related
 - [Foreign language competence development through virtual exchange is contextual and not measured by standardised tests](virtual-exchange-foreign-language-gains-contextual.md) — related
+- [Computer-assisted elaborative feedback with partner exchange sharpened Japanese EFL majors' reading skills](computer-assisted-feedback-reading-skills.md) — related

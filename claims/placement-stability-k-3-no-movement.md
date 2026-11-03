@@ -46,3 +46,4 @@ Observational placement tracking across kindergarten through third grade in the 
 
 ## Related Claims
 - [Among CARS-matched pairs, children placed in inclusive kindergartens significantly outperformed peers in segregated settings on achievement, language, cognition, adaptive behavior, autism symptoms, and prosocial skills four years later](cars-matched-pairs-inclusive-outperform-segregated.md) — related
+- [Classroom placement was highly stable across K–3, with no children moving between autism-labeled and inclusive settings, and initial placement was driven by district policy rather than child characteristics](placement-stability-district-policy-driven.md) — possibly the same claim (merge candidate)

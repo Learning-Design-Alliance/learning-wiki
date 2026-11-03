@@ -50,3 +50,6 @@ Randomized experiment with 58 preschoolers blocked by letter knowledge and assig
 ## Related Claims
 - [Combined letter name and sound instruction produced greater letter sound gains than number instruction, with a trend over letter sound only instruction](combined-lnls-letter-sound-gains-over-control.md) — related
 - [Letter sound only instruction may interfere with letter name learning relative to incidental exposure](ls-only-possible-letter-name-interference.md) — related
+- [Experimental letter names plus sounds instruction produced greater growth in taught letter names and sounds than typical preschool LN+LS instruction](experimental-lnls-beats-typical-lnls.md) — related
+- [Preschoolers in all four alphabet instruction conditions made significant growth from pretest to posttest on alphabet learning outcomes](significant-alphabet-growth-all-four-conditions.md) — related
+- [Single-focus letter name or letter sound instruction led to significantly greater growth on taught alphabet content than the other conditions](single-focus-content-greater-growth.md) — related

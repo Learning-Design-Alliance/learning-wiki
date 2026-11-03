@@ -62,6 +62,7 @@ Video's power comes from combining spoken narration with dynamic visuals, exploi
 - [Use Worked Examples](worked-examples-first.md) — screencast demonstrations of solved problems are video-based worked examples
 - [Interactive Video Quizzing](interactive-video-quizzing.md) — embedding questions to force generative processing
 - [Use authentic pedagogical video materials (e.g., TV5 Monde applications) as the basis for audiovisual vocabulary lessons](tv5-monde-video-vocabulary-lessons.md)
+- [Structured YouTube viewing sequence for vocabulary lessons: pre-questions, dual viewing with pausing, group discussion, and role-play follow-up](structured-youtube-viewing-sequence-vocabulary.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short narrated screencasts paired with practice exercises; the hint system delivers sub-demonstrations on demand.

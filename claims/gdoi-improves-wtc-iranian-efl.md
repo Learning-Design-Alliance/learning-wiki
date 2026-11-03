@@ -47,3 +47,4 @@ Quasi-experimental ANCOVA comparing 54 experimental and 54 control learners on p
 ## Related Claims
 - [Group dynamics-oriented instruction significantly improves Iranian EFL learners' speaking ability](gdoi-improves-speaking-ability-iranian-efl.md) — related
 - [WTC differs significantly across class sizes in Iranian EFL classes, with the smallest class showing the highest WTC](class-size-significant-wtc-difference-iranian-efl.md) — related
+- [Teaching communication strategies raises EFL learners’ classroom Willingness to Communicate more than regular instruction, with a large between-group difference (eta squared = .10)](cs-training-raises-wtc-posttest.md) — related

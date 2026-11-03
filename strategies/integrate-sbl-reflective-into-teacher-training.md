@@ -49,6 +49,7 @@ Based on participant views and the study's findings, the authors recommend exten
 ## Related Strategies
 
 - [Two-column reflective writings with guiding questions in the reflective learning group](two-column-reflective-writings-strategy.md)
+- [Use scenario-based learning in teacher-education professional knowledge courses, with curricular activities fostering positive attitudes](scenario-based-learning-in-teacher-education-strategy.md)
 
 ## Examples
 -

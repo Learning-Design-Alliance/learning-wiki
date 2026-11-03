@@ -48,6 +48,7 @@ The authors' recommendations section proposes three follow-up actions: conduct f
 
 - [Extend interactive workbook development to other grades and domains and train teachers in its use](extend-interactive-workbook-and-train-teachers.md)
 - [Re-arrange and extend the web-assisted flipped-classroom activity materials to other science subjects and disciplines](rearrange-web-assisted-materials-other-subjects.md)
+- [Extend cooperative learning research to male students, other subjects, and affective outcomes](extend-cooperative-learning-research-strategy.md)
 
 ## Examples
 -

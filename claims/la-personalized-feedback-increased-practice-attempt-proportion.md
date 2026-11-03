@@ -48,3 +48,4 @@ Randomized experiment in a large introductory chemistry course (783 consenting s
 - [The engagement effect of personalized feedback was driven mainly by students who had not previously attempted practice problems](engagement-effect-driven-by-prior-non-attempters.md) — related
 - [Personalized feedback did not increase the number of practice problems attempted among students who engaged, in either phase](no-increase-practice-problem-count.md) — related
 - [Students receiving personalized feedback began homework earlier than the control group during the intervention phase (about half a day earlier)](la-personalized-feedback-earlier-homework-start.md) — related
+- [Intervention class students submit a greater proportion of interactive homework assignments than control class students](outreach-increases-homework-submissions.md) — related

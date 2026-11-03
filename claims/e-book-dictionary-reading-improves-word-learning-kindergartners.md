@@ -53,3 +53,4 @@ Randomized two-group intervention: 78 LSES kindergartners divided into experimen
 - [Receptive word comprehension improved for both dictionary and non-dictionary words, with no receptive-level difference between the two word types](receptive-learning-occurs-without-dictionary-support.md) — related
 - [Three repetitions of dictionary word meanings produced significant progress in word explanation, and three more repetitions (six total) brought further progress](six-word-meaning-exposures-beat-three-for-explanation.md) — related
 - [Word production showed no posttest difference between dictionary and non-dictionary words, with an initial pretest gap favoring non-dictionary words](word-production-no-dictionary-advantage.md) — related
+- [Using the Learner's terminological thesaurus and dictionary yields a statistically significant pooled advantage over regular instruction in lexical-skill outcomes](thesaurus-dictionary-pooled-advantage-lexical-competence.md) — related

@@ -54,3 +54,4 @@ Moderator analysis at the comparison level in the unassisted-discovery meta-anal
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
 - [Dependent measure moderates discovery effects: acquisition scores amplify the explicit-instruction advantage, and reaction-time measures reverse the enhanced-discovery advantage](dependent-measure-moderates-discovery-effects.md) — related
 - [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — related
+- [Meta-analytic evidence cited in the article: enhanced discovery learning outperforms other instruction, while unassisted discovery does not benefit learners](minimal-guidance-inquiry-inferior-explicit-instruction.md) — related

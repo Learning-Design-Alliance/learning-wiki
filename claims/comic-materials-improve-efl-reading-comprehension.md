@@ -49,3 +49,4 @@ Experimental study with 60 adult female Iranian pre-intermediate EFL learners di
 - [Genre-based reading instruction produces significantly higher reading posttest scores than traditional instruction for Iranian female high school EFL learners](gbi-outperforms-traditional-reading-instruction-iranian-high-school.md) — related
 - [Presentation strategy instruction produces significantly higher reading comprehension post-test scores than ordinary strategy-based instruction for Iranian intermediate EFL learners](presentation-strategy-improves-efl-reading-comprehension.md) — related
 - [Comic pictures may help struggling readers reach good readers' pace through greater picture use](comic-pictures-help-struggling-readers.md) — related
+- [Using comics as a literary-didactic method did not significantly improve primary pupils' reading comprehension or ability to perceive text incoherence compared to control instruction](comics-no-effect-reading-literacy.md) — related

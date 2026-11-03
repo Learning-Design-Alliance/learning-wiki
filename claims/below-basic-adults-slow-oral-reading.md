@@ -53,3 +53,4 @@ Analysis of the 2003 NAAL supplemental study of 19,714 adults administered decod
 - [Children with only fluency difficulties read more correct words per minute than children with both decoding and fluency problems](fluency-only-difficulties-faster-than-combined.md) — related
 - [Adults read ordinary prose much faster than arithmetic problem material or isolated numerals](prose-read-faster-than-numerals-and-problems.md) — related
 - [More effective readers are those who vary their reading rate to suit the type of material](rate-flexibility-marks-effective-readers.md) — related
+- [National writing assessment data show most US 8th graders perform below proficiency in writing](naep-8th-grade-writing-below-proficiency.md) — related

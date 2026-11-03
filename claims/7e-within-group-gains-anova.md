@@ -67,3 +67,7 @@ One-way repeated-measures ANOVA on experiment-1's pre-test, post-test and retent
 - [Writing performance improved significantly from pre-test to post-test across the writing-instruction groups](pretest-posttest-writing-gain-significant.md) — a narrower finding that bears on this claim
 - [Experimental group showed significant pre-to-post gains on vocabulary test score](experimental-group-pre-post-vocabulary-gains.md) — related
 - [Experimental-group students showed significant pre-to-post gains in learning achievement with the CoBl model](cobl-achievement-pre-post-gains.md) — related
+- [When pre-test scores were controlled, the software had a significant effect on academic achievement, with the model explaining 44% of variance](ancova-software-achievement-effect.md) — related
+- [Both groups improved greatly from pretest to posttest and maintained performance from posttest to delayed posttest](both-groups-gained-and-maintained-over-time.md) — related
+- [Practical competencies-oriented teaching materials do not significantly improve students' problem-solving attitude](practical-materials-no-problem-solving-attitude-gain.md) — related
+- [Both groups improved vocabulary retention from pre-test to post-test, with a larger gain in the PowerPoint group](within-group-vocabulary-gains-both-conditions.md) — related

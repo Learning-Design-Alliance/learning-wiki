@@ -115,3 +115,4 @@ Sanders, M. R., Markie-Dadds, C., Tully, L. A., & Bor, W. (2000). The triple P-p
 - [Students who voluntarily requested coaching possessed more academic risk factors than the comparison group on all three baseline surveys](coaching-self-selectors-higher-academic-risk.md) — related
 - [PFS was implemented with high coach and teacher fidelity and child compliance, but parent compliance was low](pfs-implementation-fidelity-high-parent-compliance-low.md) — related
 - [Intervention parents were more likely than control parents to ask their child about revising for upcoming tests](pep-parents-more-likely-ask-about-revision.md) — related
+- [Learning was observed even when teachers engaged in the training alone without mentoring or feedback](antecedent-only-training-produces-learning.md) — related

@@ -60,3 +60,4 @@ Synthesis in the RQ1 findings section of the review: LLMs can "simulate evaluati
 - [GenAI is reframed from a threat to academic integrity into a catalyst for more equitable assessment](genai-reframed-integrity-threat-to-equity-catalyst.md) — related
 - [Most studies used online peer feedback to improve students' task performance](peer-feedback-function-task-performance-dominant.md) — related
 - [GenAI can most effectively support knowledge building in the Collaboration Zone as a dialogic 'sparring partner'](genai-collaboration-zone-sparring-partner.md) — related
+- [Computer-assisted elaborative feedback with partner exchange sharpened Japanese EFL majors' reading skills](computer-assisted-feedback-reading-skills.md) — related

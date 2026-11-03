@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 145 claims (109 show a difference, 15 mixed, 21 no difference) · 117 studies (68 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 30 of 117 report an effect size · 142 claims rest on one study
+> **Evidence** · 148 claims (112 show a difference, 15 mixed, 21 no difference) · 119 studies (70 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 31 of 119 report an effect size · 145 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -183,6 +183,9 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Students rate simulation as improving critical thinking, problem solving, reporting and recording, and decision making, with communication and nursing process rated lower](../claims/simulation-improves-self-rated-maternity-skills.md) [+M] — instruction changes it
 - [Learners' interview responses indicated schema construction linking novel problems to worked-out examples](../claims/interview-responses-indicate-schema-construction.md) [+W] — instruction changes it
 - [Creative independence develops through three levels: copying, reproductive-and-creative, and constructive-and-creative](../claims/three-levels-creative-independence-copying-reproductive-constructive.md) [+W] — instruction changes it
+- [After controlling for pretest, TTPS intervention students solved more problems on the posttest than comparison peers](../claims/ttps-posttest-ancova-advantage.md) [+M] — instruction changes it
+- [Materials-only instruction with increasing irrelevant propositions improves experimental problem-solving accuracy for children with MD](../claims/materials-only-improves-md-experimental-problem-solving.md) [+W] — instruction changes it
+- [TTPS intervention students improved their problem-solving performance from pretest to posttest while comparison students did not](../claims/ttps-improves-problem-solving-within-group.md) [+M] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

@@ -50,3 +50,4 @@ Dependent-measure moderator analysis in the enhanced-discovery meta-analysis, Q(
 - [Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children](age-moderates-discovery-effects.md) — related
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
 - [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — related
+- [Meta-analytic evidence cited in the article: enhanced discovery learning outperforms other instruction, while unassisted discovery does not benefit learners](minimal-guidance-inquiry-inferior-explicit-instruction.md) — related

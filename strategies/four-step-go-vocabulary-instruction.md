@@ -47,6 +47,7 @@ The article describes a four-step implementation sequence: "preparation, present
 ## Related Strategies
 
 - [Twelve-step teacher-led concept-diagram vocabulary lesson routine](twelve-step-concept-diagram-routine.md)
+- [Practical strategies for implementing PPT vocabulary lessons](ppt-vocabulary-implementation-strategies.md)
 
 ## Examples
 -

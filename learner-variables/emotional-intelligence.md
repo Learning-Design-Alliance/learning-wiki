@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 82 claims (55 show a difference, 18 mixed, 9 no difference) · 56 studies (20 causal, 15 review, 10 quant-synthesis, 9 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 56 report an effect size · 81 claims rest on one study
+> **Evidence** · 87 claims (59 show a difference, 18 mixed, 10 no difference) · 59 studies (22 causal, 15 review, 10 quant-synthesis, 10 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 59 report an effect size · 86 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -118,6 +118,11 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [The IY TCM program reduced teacher-reported student emotional dysregulation compared to control classrooms (d = −0.14)](../claims/iy-tcm-reduced-emotional-dysregulation.md) [+M] — instruction changes it
 - [A school-based social-emotional skills program produced significant pre-post gains in interpersonal relationships and defining goals, while a waiting-list group showed no significant change](../claims/isc-program-improves-interpersonal-relationships-and-goal-definition.md) [+M] — instruction changes it
 - [Boys in the intervention group improved in emotional regulation, interpersonal relationships and goal definition from pre to post, and teachers perceived greater impact for boys than girls](../claims/isc-program-gender-differences-boys-improve-more.md) [+M] — instruction changes it
+- [CLE classes showed more frequent learning behaviors, emotional-intelligence behaviors, and student-centered teacher behaviors than traditional classes, by Chi-Square comparison](../claims/cle-blind-study-behaviors-chi-square.md) [+M] — instruction changes it
+- [Kinesthetic learners have higher emotional intelligence than auditory learners (8.35% higher) and read learners (6.11% higher)](../claims/kinesthetic-higher-emotional-intelligence-than-auditory-read.md) [+W] — instruction changes it
+- [Learning style (auditory, read, kinesthetic) has a statistically significant effect on elementary students' emotional intelligence](../claims/learning-style-significant-effect-emotional-intelligence.md) [+W] — instruction changes it
+- [The interaction between learning model and learning style on emotional intelligence is not significant](../claims/model-by-learning-style-interaction-not-significant.md) [-W] — instruction changes it
+- [Web-assisted instruction with emotional intelligence content produced higher post-test academic achievement, environmental attitudes and emotional intelligence than traditional lecture in 8th-grade energy-saving instruction](../claims/web-assisted-ei-content-posttest-advantage.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

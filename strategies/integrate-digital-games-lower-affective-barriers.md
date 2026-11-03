@@ -44,6 +44,7 @@ The article recommends that teachers consider integrating digital games into the
 ## Related Strategies
 
 - [Offer interactive digital games like PàN as one option in teachers' pedagogical toolboxes for L2 vocabulary and engagement](interactive-games-as-pedagogical-toolbox-option.md)
+- [Embed generalisation-querying games across the English curriculum with continuity of approach](continuity-gag-across-curriculum.md)
 
 ## Examples
 -

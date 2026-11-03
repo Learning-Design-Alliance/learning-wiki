@@ -49,3 +49,4 @@ Quasi-experimental ATT-weighted comparison of 3,384 City Connects students and 1
 - [Blueprint Math Fellows tutoring raised middle school students' math test scores by 0.12 standard deviations relative to nonparticipant peers](blueprint-tutoring-012-sd-math-gain.md) — related
 - [10.4% of grade 8 mathematics score variability lies between schools and is predicted by City Connects participation](city-connects-explains-between-school-variance-grade-8-math.md) — related
 - [Mediation hypothesis not confirmed: indirect effects of City Connects through grade 5 academic and non-cognitive skills are not significantly different from zero](city-connects-mediation-not-confirmed-grade-5-skills.md) — related
+- [Preliminary fixed-effects models suggest students most at risk (Tier 3) experience the greatest achievement growth after City Connects introduction](city-connects-tier3-greatest-growth-preliminary.md) — related

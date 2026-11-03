@@ -49,3 +49,4 @@ Preliminary descriptive test of problem-solving ability using Polya techniques a
 - [Performance under the Polya Problem-Solving Model differed significantly by scoring level, with high scorers gaining most](polya-model-scoring-level-differences.md) — related
 - [Senior secondary students taught current electricity with the Polya Problem-Solving Model performed better on the PTCE than students taught by lecture method](polya-model-beats-lecture-current-electricity.md) — related
 - [Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation](dahmus-students-translate-but-no-single-equation.md) — related
+- [Most new physics education students and a majority of in-service physics teachers failed a metacognitive knowledge ability test](mkat-failure-students-teachers.md) — related

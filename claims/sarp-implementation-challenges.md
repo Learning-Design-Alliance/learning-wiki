@@ -47,3 +47,4 @@ Process evaluation using observations of training and four summer events, a volu
 ## Related Claims
 - [Pupils who attended the Saturday school showed positive engagement, improved behaviour, confidence, and social skills per the process evaluation](hsom-positive-engagement-attenders.md) — related
 - [Pupils, teachers and parents held very positive views about the uniformed youth group intervention](youth-united-positive-stakeholder-views.md) — related
+- [Intervention and control parents did not differ on baseline at-school involvement measured by parent night attendance](baseline-parent-night-attendance-equivalent.md) — related

@@ -60,3 +60,4 @@ Additional (non-protocol) intention-to-treat analysis using national Key Stage 2
 - [Mind the Gap showed no statistically significant effect on the primary outcome of combined reading and numeracy attainment in Year 4 pupils](mind-the-gap-no-attainment-effect.md) — related
 - [Standardized reading and math test scores showed no treatment effect](ssstp-no-test-score-effect.md) — related
 - [No strong evidence that Mathematics Mastery had a greater impact on lower-attaining than higher-attaining pupils](maths-mastery-no-differential-effect-by-attainment.md) — related
+- [After one year, differences between intervention and comparison pupils' writing were small or very small and sometimes favoured the comparison group, so no secure causal conclusion is possible](talk-for-writing-small-mixed-impact-estimates.md) — related

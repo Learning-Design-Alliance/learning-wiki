@@ -57,3 +57,4 @@ The umbrella review reports this meta-analysis of 46 correlation matrices on in-
 - [The extended TAM model explains 42.3% of the variance in intention to use mobile library applications](extended-tam-explains-42-percent-variance-mla-intention.md) — a narrower finding that bears on this claim
 - [Pre-service teachers' attitudes towards ICT (in education) and ease of use positively impact their ICT competence for educational practice](attitudes-ease-of-use-impact-ict-competence.md) — a narrower finding that bears on this claim
 - [Perceived usefulness, rather than perceived ease of use, was the primary predictor of LLM adoption across TAM-based studies](perceived-usefulness-predicts-llm-adoption.md) — a narrower finding that bears on this claim
+- [Children perceived the JCLS as highly useful and easy to use, with PU and PEOU means near the scale maximum](jcls-high-perceived-usefulness-ease-of-use.md) — related

@@ -71,3 +71,4 @@ Repeated measures ANOVA on the experimental group's (n=34) BSTE scores across th
 - [Within-group score changes across pre-test, post-test and retention test were significant in both pretested groups, with larger variance explained in the experimental group](7e-within-group-gains-anova.md) — related
 - [Within the experimental group, attitudes rose significantly from pretest to posttest and monitoring test, and the gain held between posttest and monitoring test](experimental-group-within-group-attitude-increase.md) — possibly the same claim (merge candidate)
 - [Repeated measures ANOVA shows a significant score change in the experimental group from pre-test to post-test](repeated-measures-anova-games-group-change.md) — related
+- [Within the experimental group, AAT, EIS and EAS scores rose significantly from pre-test to post-test](experimental-group-prepost-gains.md) — related

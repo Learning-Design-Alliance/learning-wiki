@@ -42,6 +42,7 @@ The article describes a reusable design in which "The role of multimedia as a me
 ## Related Designs
 
 - [Three-stage methodology for developing cognitive independence of future Informatics teachers through multimedia tools](three-stage-multimedia-cognitive-independence-methodology.md)
+- [Eight-stage methodology for developing and validating e-teaching materials, from goal setting through correction to efficiency checking](eight-stage-e-teaching-materials-development-methodology.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Authors' classroom observation during the three-class experiment; they attribute
 ## Related Claims
 - [Pupils taught with the IWB and XERTE resource scored no better on post-tests than pupils taught traditionally](iwb-no-significant-score-difference-mauritius.md) — a narrower finding that bears on this claim
 - [Pre-test scores showed no difference between IWB and traditional groups](iwb-pretest-no-difference.md) — related
+- [Instructional resources increased pupil concentration, enthusiasm and class participation in observed lessons](instructional-resources-boost-concentration-participation.md) — related

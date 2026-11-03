@@ -49,3 +49,4 @@ Multilevel variance decomposition of grade 8 mathematics scores in the Boston Pu
 - [City Connects participation is associated with a 0.15 SD advantage in grade 8 mathematics achievement](city-connects-015-sd-grade-8-math-advantage.md) — related
 - [Mediation hypothesis not confirmed: indirect effects of City Connects through grade 5 academic and non-cognitive skills are not significantly different from zero](city-connects-mediation-not-confirmed-grade-5-skills.md) — related
 - [Grade 5 academic and non-cognitive skills are positive predictors of grade 8 mathematics scores](grade-5-skills-predict-grade-8-math-achievement.md) — related
+- [Dosage effects and replicated results across methods support attributing observed outcomes to the City Connects intervention](city-connects-dosage-and-replication-causal-argument.md) — related

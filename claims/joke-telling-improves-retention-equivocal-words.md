@@ -63,3 +63,5 @@ Pilot quasi-experiment with four groups of Spanish B1 learners (36 English, 36 G
 - [Exposing college students to a topic-relevant 90-second external stimulus before a lecture significantly improves immediate information retention compared with a neutral control](pre-lecture-external-stimulus-improves-retention.md) — related
 - [Vocabulary learned by phonetic association was retained better in the second week than vocabulary learned conventionally](phonetic-association-better-retention-week-two.md) — related
 - [Turkish 6th graders taught English vocabulary by phonetic association learned words faster than a control group taught conventionally in the first week](phonetic-association-faster-initial-vocabulary-learning.md) — related
+- [Literacy-based teaching methods produced significantly higher posttest grammar and vocabulary scores than normal instruction in beginning Spanish classes](literacy-methods-higher-posttest-spanish-achievement.md) — related
+- [Grade-10 EFL students taught vocabulary with PowerPoint-enhanced lessons retained more vocabulary than students in traditional lessons](ppt-vocabulary-retention-outperforms-traditional.md) — related

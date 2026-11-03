@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 215 claims (172 show a difference, 31 mixed, 12 no difference) · 161 studies (88 associational, 28 review, 25 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q4` · 3 of 161 report an effect size · 213 claims rest on one study
+> **Evidence** · 216 claims (173 show a difference, 31 mixed, 12 no difference) · 162 studies (88 associational, 28 review, 26 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q4` · 4 of 162 report an effect size · 214 claims rest on one study
 
 ## How to read this page
 
@@ -252,6 +252,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [There was no difference by experimental condition in the trajectory of GPA across terms for Black and Hispanic students in cohort 2.](../claims/no-trajectory-difference-cohort2.md) [-W] — an instructional effect differs by group
 - [Self-affirmation did not close the Black-White achievement gap, contradicting earlier findings](../claims/self-affirmation-no-black-white-gap-reduction.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Self-affirmation eliminated the Hispanic students' reading and mathematics deficit observed in the comparison group](../claims/self-affirmation-erased-hispanic-test-score-gap.md) [+M] — an instructional effect differs by group
+- [Head Start impacts on receptive vocabulary and early numeracy were statistically significantly larger among Hispanic students](../claims/head-start-larger-impacts-hispanic-children.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

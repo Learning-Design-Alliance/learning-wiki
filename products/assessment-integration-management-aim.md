@@ -34,6 +34,7 @@ Assessment Integration Management (AIM) is a web-based system for creating tests
 
 - [Online Experimental Psychological System (OPES) computerized cognitive test battery](online-experimental-psychological-system-opes-computerized-cognitive-test-battery.md)
 - [eDia computer-based diagnostic assessment system](edia-computer-based-diagnostic-assessment-system.md)
+- [ClassMarker](classmarker.md)
 
 ## Key Sources
 - Hu, A., Chien, M., & Meyer, P. (2021). Comparability of MAP Growth tests administered through different technology and psychometric infrastructure: A simulation study. NWEA. https://www.nwea.org/research/publication/comparability-of-map-growth-tests-administered-through-different-technology-and-psychometric-infrastructure-a-simulation-study/

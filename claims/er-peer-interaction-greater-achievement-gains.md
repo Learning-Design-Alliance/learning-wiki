@@ -57,3 +57,4 @@ The article reports, citing Manning and Manning (1984), a pretest-posttest study
 - [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](teacher-initiated-and-student-mediated-mapping-no-difference.md) — related
 - [The article advances a five-part rationale for benefits of adding a peer element to extensive reading](five-rationales-peer-element-er.md) — related
 - [Repeated listening improves oral reading fluency in second-grade students, with Listening Only outgaining Reading While Listening and Reading Only](repeated-listening-improves-oral-reading-fluency.md) — related
+- [Peer collaboration on discussion-plus-presentation tasks improved Thai learners' oral presentations](peer-interaction-improves-presentations.md) — related

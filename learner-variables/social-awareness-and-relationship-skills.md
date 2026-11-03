@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 201 claims (134 show a difference, 44 mixed, 23 no difference) · 147 studies (45 causal, 42 review, 26 associational, 16 quant-synthesis, 9 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 39 of 147 report an effect size · 194 claims rest on one study
+> **Evidence** · 202 claims (135 show a difference, 44 mixed, 23 no difference) · 148 studies (45 causal, 42 review, 26 associational, 16 quant-synthesis, 9 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 39 of 148 report an effect size · 195 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -242,6 +242,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [A school-based social-emotional skills program produced significant pre-post gains in interpersonal relationships and defining goals, while a waiting-list group showed no significant change](../claims/isc-program-improves-interpersonal-relationships-and-goal-definition.md) [+M] — instruction changes it
 - [Boys in the intervention group improved in emotional regulation, interpersonal relationships and goal definition from pre to post, and teachers perceived greater impact for boys than girls](../claims/isc-program-gender-differences-boys-improve-more.md) [~M] — instruction changes it
 - [Drama method has a large, positive effect on social communication skills according to a random-effects meta-analysis of 24 studies](../claims/drama-large-positive-effect-social-communication-skills.md) [+W] — instruction changes it
+- [Participants perceived the PCR class as beneficial in four areas: awareness of social factors, indirect strategies, nonverbal communication, and a motivating atmosphere](../claims/pcr-perceived-benefits-four-areas.md) [+W] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

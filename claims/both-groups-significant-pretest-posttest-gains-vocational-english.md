@@ -68,3 +68,4 @@ Paired samples t-test within the experimental group (N = 58), which received fou
 - [Thai undergraduates' business vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group](mangomon-rpg-gamification-improves-business-vocabulary.md) — related
 - [The experimental group's average achievement enhancement (28.14 points) exceeded the control group's (19.27 points) despite a lower pre-test mean](cta-module-greater-score-enhancement.md) — related
 - [The control group receiving traditional word-list instruction showed no sufficiently significant progress in productive vocabulary size](control-group-no-significant-vocabulary-progress.md) — reports the opposite
+- [Students showed significant improvement in vocabulary recognition and understanding from pre-test to post-test over the seven-week module](vks-pre-post-significant-improvement.md) — related

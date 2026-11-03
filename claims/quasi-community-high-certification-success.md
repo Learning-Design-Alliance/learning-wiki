@@ -50,3 +50,4 @@ Outcome reported from the ethnographic case study of the eight-week, 120-hour co
 - [Turn-taking test review makes each member's expertise visible, enabling peers to locate and draw on community knowledge](test-review-brings-expertise-to-open.md)
 - [Ungraded practice tests function as a legitimate mediating practice that empowers learners and redefines the instructor's authority](ungraded-tests-mediating-practice.md)
 - [Storytelling from work experience serves as a key vehicle of knowledge production and communication in adult classroom quasi-communities](quasi-community-storytelling-knowledge.md) — related
+- [Over the course, students proposed more comprehensive and practical solutions to increasingly complex scenarios, as rated by four examiners](scenario-solutions-improved-over-time.md) — related

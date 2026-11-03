@@ -65,6 +65,7 @@ Anchoring projects in justice issues raises the authenticity and personal stakes
 - Culturally responsive teaching approaches — provide the pedagogical stance this strategy operationalizes within PBL
 - [Engage youth as partners in stewardship rather than as subjects to be taught](youth-as-stewardship-partners.md)
 - [Use community-focused prompts and authentic audiences to make creative projects personally meaningful](community-prompts-authentic-audience-360-film.md)
+- [Make social justice issues explicit by assigning critical literature and guiding questions alongside experiential activities in teacher education](make-social-justice-issues-explicit-strategy.md)
 
 ## Examples
 - **Science/math:** Students analyze air-quality or lead-pipe data from their own zip code, then present remediation demands to the city council — a structure used in community science curricula such as those from the [Public Science Project](https://www.publicscienceproject.org) (participatory action research in New York schools).

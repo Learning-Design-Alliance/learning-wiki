@@ -75,6 +75,7 @@ A free, structured **UbD Template 2.0** (Wiggins & McTighe) walks designers thro
 - [Career-centric reverse academic planning: start from a career aspiration and map backward to courses, credentials, and experiences using skills taxonomies](../strategies/career-centric-reverse-academic-planning.md)
 - [Design flipped classroom instruction according to subject type, knowledge type, and students' independent learning ability](../strategies/design-flips-by-subject-knowledge-and-self-learning.md)
 - [FOCUS curriculum design: backward design, just-in-time developmental sequencing, and deconstruct/reconstruct](../designs/focus-curriculum-design-pattern.md)
+- [Implement UbD through collaborative teacher design groups with iterative evaluation meetings](../strategies/ubd-teacher-design-groups-strategy.md)
 
 ## Key Sources
 - Wiggins, G., & McTighe, J. (1998). *Understanding by design*. Association for Supervision and Curriculum Development.

@@ -76,3 +76,4 @@ Pretest-posttest control group experiment with 23 students per group in a Bartı
 - [Jigsaw cooperative learning produces higher posttest achievement than traditional teaching for preschool sense-organs instruction](jigsaw-outperforms-traditional-preschool-sense-organs.md) — a narrower finding that bears on this claim
 - [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — related
 - [Both jigsaw and traditionally taught groups showed statistically significant pre-test to post-test gains, with a larger gain in the jigsaw group](jigsaw-and-control-both-gain-significantly-pre-to-post.md) — related
+- [Cooperative learning produced higher General Science posttest achievement than traditional teaching among 9th-grade students](cooperative-learning-higher-general-science-achievement.md) — related

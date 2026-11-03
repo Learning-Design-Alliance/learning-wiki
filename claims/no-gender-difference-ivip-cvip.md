@@ -68,3 +68,5 @@ t-test comparing 15 male and 15 female students in the conventional control grou
 - [Male students significantly outperformed female students in the video-based competitive instructional strategy](males-outperformed-females-comvip.md) — related
 - [Gender has no influence on performance of students taught geometry with the video-based cooperative strategy](no-gender-difference-coovip-geometry.md) — related
 - [Video-based instructional strategy produces significant post-test performance differences among cooperative, competitive, individualized, and conventional groups in geometry](video-based-strategy-posttest-differences-geometry.md) — related
+- [No significant gender difference in achievement among students taught solid geometry with animation-with-narration CAI](no-gender-difference-an-cai.md) — a narrower finding that bears on this claim
+- [No significant gender difference in achievement among students taught solid geometry with animation-with-text CAI](no-gender-difference-at-cai.md) — related

@@ -44,6 +44,7 @@ Based on the moderator finding that effect sizes rise from 0,868 (3 weeks and le
 ## Related Strategies
 
 - [Increase Multiple Intelligence Theory-based activities in elementary school mathematics curricula](increase-mi-activities-elementary-math-curricula.md)
+- [Extend study duration and add a delayed post-test to measure vocabulary retention](delayed-post-test-for-retention-research.md)
 
 ## Examples
 -

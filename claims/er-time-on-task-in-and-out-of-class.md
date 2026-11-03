@@ -65,3 +65,4 @@ Analysis of 89 retrieved self-reported student reading record sheets from the 10
 ## Related Claims
 - [Self-reported out-of-class ER time correlates almost perfectly with observed in-class time on task](self-reported-reading-correlates-in-class-time-on-task.md) — related
 - [EFL learners in an enhanced extensive reading treatment group significantly outperform a control group on five of six writing subscales](er-treatment-outperforms-control-five-writing-subscales.md) — related
+- [Graded readers motivated adult Hispanic ESL students to read books of different genres inside and outside the classroom, without grade incentives](graded-readers-motivate-voluntary-reading.md) — possibly the same claim (merge candidate)

@@ -46,6 +46,7 @@ The authors' developmental findings motivate a timing recommendation: because ch
 ## Related Strategies
 
 - [Avoid labeling activities with gender-interest stereotypes; describe activities as equally interesting to girls and boys](avoid-gender-interest-stereotype-labels-in-activities.md)
+- [Keep mathematics teaching and evaluation gender bias-free and give boys and girls the same opportunities and challenges](gender-bias-free-mathematics-teaching.md)
 
 ## Examples
 -

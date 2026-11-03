@@ -50,3 +50,4 @@ Descriptive comparison of the same 21 participants' pre- and post-test scores ma
 - [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice](moderate-motivation-imi-mangomon.md) — related
 - [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related
 - [No statistically significant treatment–contrast differences emerged when students were compared within similar initial CEFR ability sub-groups](no-subgroup-differences-cefr-levels.md) — related
+- [Speaking-skill score distribution shifted upward after integrative teaching (mean 65.75 to 76.5)](german-speaking-pre-post-descriptives.md) — related

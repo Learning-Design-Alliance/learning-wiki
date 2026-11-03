@@ -91,3 +91,4 @@ Quasi-experimental study at the University of Texas at San Antonio with 133 firs
 - [Dual enrollment programs have positive effects on credit accumulation, with an average improvement index of +14 percentile points](dual-enrollment-positive-credit-accumulation.md) — related
 - [Linked learning communities produced no statistically significant or substantively important effects on credit accumulation across six studies](linked-learning-communities-credit-accumulation-no-effect.md) — related
 - [I-BEST has no discernible effects on credit accumulation](ibest-no-discernible-effects-credit-accumulation.md) — related
+- [Prior studies reviewed report that summer bridge participants persist to the second year and earn higher GPAs than non-participants](prior-studies-bridge-persistence-gpa.md) — related

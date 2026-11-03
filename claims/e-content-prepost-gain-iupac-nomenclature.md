@@ -52,3 +52,4 @@ Within-group pre-post comparison for the experimental group (n=36) taught throug
 - [Post-test means favoured the prior knowledge questions group over the control group](prior-knowledge-questions-posttest-means.md) — related
 - [Both groups improved significantly on the achievement test from pre-test to post-test, with the experimental group reaching a much higher post-test mean](jigsaw-iv-within-group-achievement-gains.md) — related
 - [Prospective teachers taught Mathematics with a multimedia package scored significantly higher on the post-test than peers taught with Active Learning Methodology](multimedia-package-higher-posttest-mathematics-prospective-teachers.md) — related
+- [Both the adaptive and the conventional tutoring groups achieved significantly higher post-test than pre-test scores](within-group-pre-post-gains-both-groups.md) — related

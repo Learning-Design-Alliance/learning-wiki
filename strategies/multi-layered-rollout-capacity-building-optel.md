@@ -38,6 +38,7 @@ The OPTEL rollout was planned as a multi-layered, multi-year endeavor whose init
 
 - [Layered professional development for curriculum implementation (webinars, workshops, coaching)](stemscopes-layered-professional-development.md)
 - [Cross-division convenings and joint review sessions to strengthen a state education agency's internal collaboration on multilingual policy](cross-division-collaboration-cde-multilingual-support.md)
+- [Train local prospective trainers with assessments to build local training capacity](train-the-trainers-with-qualification-assessments.md)
 
 ## Examples
 -

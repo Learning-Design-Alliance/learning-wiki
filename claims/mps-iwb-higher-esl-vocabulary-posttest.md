@@ -51,3 +51,4 @@ Quasi-experiment with 134 fifth-graders in six intact classes randomly assigned 
 - [The effect size of using e-Mind Maps on fifth-graders' English achievement was high (η² = 0.39)](e-mind-maps-achievement-effect-size-high.md) — related
 - [Post-test achievement differed significantly between the test and control groups in favour of the test group](post-test-achievement-significant-favouring-test-group.md) — related
 - [Female master's students in a Twitter-supported blended course achieved higher post-test scores than students in a 100% in-class course](twitter-blended-achievement-gain.md) — related
+- [Second graders learning multiplication with the JCLS rated constructivist learning significantly higher than the blackboard control group](jcls-higher-constructivist-learning-than-blackboard.md) — a narrower finding that bears on this claim

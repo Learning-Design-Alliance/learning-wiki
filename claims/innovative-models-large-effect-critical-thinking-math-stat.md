@@ -51,3 +51,4 @@ Random-effects meta-analysis of 19 experimental/comparison studies coded with sa
 - [Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors](high-heterogeneity-innovative-models-critical-thinking.md) — related
 - Statistical critical thinking is under-researched relative to mathematical critical thinking in this literature — a narrower finding that bears on this claim
 - [The certainty of evidence for the effects of teaching strategies on critical thinking ranges from very low to moderate, with no strategy rated high.](certainty-of-evidence-teaching-strategies-critical-thinking-very-low-to-moderate.md) — related
+- [Junior high students taught with culture-based RME achieve higher post-test critical mathematical thinking scores than students taught with conventional mathematics education](rme-culture-based-better-critical-thinking-posttest.md) — a narrower finding that bears on this claim

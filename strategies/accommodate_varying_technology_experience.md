@@ -69,6 +69,7 @@ Technology unfamiliarity imposes extraneous [cognitive load](../principles/cogni
 - [Scaffold adults from beginning users to confident digital citizens with hands-on, competency-based classes and layered teacher support](scaffold-confidence-hands-on-digital-literacy-classes.md)
 - [Provide students access to prevalent digital tools to develop fluency and confidence as an integral part of DL education programs](provide-access-prevalent-tools-dl-fluency.md)
 - [Promote the flipped classroom in low-resource settings using free digital tools, peer instruction, and group discussions.](flipped-classroom-low-resource-settings-strategy.md)
+- [Add user instructions or interactive tips to the homepage for first-time users of an integrated learning system](add-user-instructions-first-time-users.md)
 
 ## Examples
 - **Open University (UK)** — provides structured "Skills for OU Study" resources including optional digital-skills modules before distance learners encounter the virtual learning environment (https://www.open.ac.uk/skillsforstudy).

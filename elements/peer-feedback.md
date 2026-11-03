@@ -13,7 +13,7 @@ generated:
 # Peer Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 5 studies (3 quant-synthesis, 2 causal), `q3`–`q4` · 3 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 6 studies (3 causal, 3 quant-synthesis), `q2`–`q4` · 3 of 6 report an effect size · 7 claims rest on one study
 
 ## Description
 Peer feedback is the element in which learners respond to one another's work with comments intended to improve revision or performance.
@@ -29,6 +29,7 @@ Peer feedback is the element in which learners respond to one another's work wit
 - [Feedback provision support improves quality of feedback provision (g = 0.72) and quality of feedback reception (g = 0.69) but not subject-matter-related knowledge](../claims/provision-support-improves-both-process-qualities.md) [+W]
 - [Instructional support improves quality of feedback provision (g = 0.64) and quality of feedback reception (g = 0.49) but not subject-matter-related knowledge](../claims/support-effects-differ-by-dependent-variable.md) [+W]
 - [Students producing high-quality revisions spent more time addressing higher order comments](../claims/high-quality-revisers-more-time-higher-order-comments.md) [+W]
+- [Feedback provision dipped in weeks three and six across all groups, possibly because the skills taught those weeks had fewer components](../claims/feedback-dipped-weeks-three-and-six.md) [~W]
 
 ## Related Elements
 - [Peer Feedback/Peer Review](peer-review.md)

@@ -62,3 +62,4 @@ Delayed post-tests (weeks 7-11) measured retention five weeks after each post-te
 - [Experimental group significantly outperformed control group on post-test vocabulary learning strategies questionnaire total score](experimental-group-outperformed-control-vls-posttest.md) — related
 - [Parole users retained more vocabulary twelve weeks after instruction than control students](parole-software-improves-vocabulary-retention.md) — related
 - [EFL students using Web 2.0 learner-created content scored significantly higher on a vocabulary post-test than a lecture-based control group](web2-learner-content-vocabulary-posttest-gain.md) — related
+- [Grade-10 EFL students taught vocabulary with PowerPoint-enhanced lessons retained more vocabulary than students in traditional lessons](ppt-vocabulary-retention-outperforms-traditional.md) — related

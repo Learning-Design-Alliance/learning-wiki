@@ -50,6 +50,7 @@ A teacher (or team) articulates their own inquiry question about their practice;
 
 - (none yet linked)
 - [Four ecosystem recommendations: experiment with currency forms, protect time for inquiry, include everyone in team learning, and invest in adaptive platforms](four-micro-credential-ecosystem-recommendations.md)
+- [Use video clips portraying conceptual hurdles and mathematical confusion to provoke inquiry in professional development](conceptual-hurdle-video-clip-selection.md)
 
 ## Examples
 - Project SIGMa used this cycle with school-based teacher teams over one to two years, with teams entering and progressing through different phases of the [adaptive cycle](../theories/adaptive-cycles-framework.md) of change at different rates.

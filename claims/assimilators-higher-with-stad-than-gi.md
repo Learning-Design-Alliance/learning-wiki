@@ -16,12 +16,14 @@ sources:
     author: Sugiharto
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Assimilator-style students learned Basics of Political Science better with STAD than with GI
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Sugiharto. (2015). The Effect of Cooperative Learning Model and Kolb Learning Styles on Learning Result of The Basics of Politics. Journal of Education and Practice, Vol.6, No.21. https://eric.ed.gov/?id=EJ1079121
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Scheffe post hoc test comparing the assimilator cells (A1B2, n = 18 GI; A2B2, n = 21 STAD); Table 5 marks the contrast "Significant", though only marginally above the critical value. The author explains assimilators prefer structured, lecturer-guided, independent learning.
 

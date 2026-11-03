@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 321 claims (200 show a difference, 52 mixed, 69 no difference) · 220 studies (87 causal, 52 associational, 36 quant-synthesis, 28 review, 8 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 49 of 220 report an effect size · 312 claims rest on one study
+> **Evidence** · 324 claims (201 show a difference, 53 mixed, 70 no difference) · 223 studies (89 causal, 52 associational, 36 quant-synthesis, 29 review, 8 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 49 of 223 report an effect size · 315 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -372,6 +372,9 @@ What a learner can read without effort, and whether the language of instruction 
 - [A dual language narrative intervention improved English narrative retell skills of Spanish-speaking preschool DLLs in a multiple-baseline design](../claims/dual-language-narrative-intervention-improved-english-retells.md) [+M] — instruction changes it
 - [Contemplative teaching with transformative instruction significantly improved EFL reading comprehension compared with a conventional reading program](../claims/contemplative-teaching-improves-reading-comprehension.md) [+M] — instruction changes it
 - [Dual language narrative intervention produced a large English vocabulary gain (d = .98) but only a small Spanish vocabulary gain (d = .34)](../claims/english-vocabulary-large-effect-spanish-small.md) [~W] — an instructional effect differs with it
+- [Oral language skills indicatively support writing in younger pupils and struggling writers, with oral language influence on writing partly mediated through reading](../claims/oral-language-supports-early-writing-development.md) [+M] — learners who differ on it differ in outcomes
+- [Pretest vocabulary and alphabet knowledge did not moderate alphabet learning growth, and DLLs showed only limited differential response](../claims/no-moderation-by-vocabulary-or-dll-status.md) [~W] — an instructional effect differs with it
+- [Using comics as a literary-didactic method did not significantly improve primary pupils' reading comprehension or ability to perceive text incoherence compared to control instruction](../claims/comics-no-effect-reading-literacy.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

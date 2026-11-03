@@ -61,9 +61,11 @@ Library websites are learning interfaces: every search box, label, and menu eith
 7. [Assess performance](../elements/assess-performance.md) continuously via analytics (search usage, page depth, abandonment) and revise.
 
 ## Related Strategies
+
 - Plain-language labeling of research tools — reduces the vocabulary barrier that most strongly predicts novice failure
 - Embedded librarian instruction — pairs the simplified interface with guided practice in using it
 - Discovery service optimization — the search layer is the highest-traffic component of most library sites
+- [Add user instructions or interactive tips to the homepage for first-time users of an integrated learning system](add-user-instructions-first-time-users.md)
 
 ## Related Elements
 - [Chunking](../principles/chunking.md) — limits menu and page complexity to what working memory can hold

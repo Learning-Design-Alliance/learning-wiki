@@ -50,3 +50,4 @@ Multilevel mediation analysis (Models 1-3) with Aroian Sobel tests of indirect e
 - [Grade 5 academic and non-cognitive skills are positive predictors of grade 8 mathematics scores](grade-5-skills-predict-grade-8-math-achievement.md) — related
 - [City Connects participation is associated with a 0.15 SD advantage in grade 8 mathematics achievement](city-connects-015-sd-grade-8-math-advantage.md) — related
 - [Motivation's effect on later mathematical performance is indirect, mediated by executive functioning and early numeracy skills](motivation-indirect-effect-mediated-by-ef-and-numeracy.md) — related
+- [Preliminary fixed-effects models suggest students most at risk (Tier 3) experience the greatest achievement growth after City Connects introduction](city-connects-tier3-greatest-growth-preliminary.md) — related

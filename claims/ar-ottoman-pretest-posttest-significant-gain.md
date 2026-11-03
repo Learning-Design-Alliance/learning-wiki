@@ -47,3 +47,4 @@ Analysis of pre- and post-test data from the 60-student quasi-experiment, analyz
 ## Related Claims
 - [The authors report that students' insecurities and fears toward the Ottoman Turkish lesson decreased after the AR-supported study](ar-ottoman-decreased-insecurity-fears.md) — related
 - [Students taught Ottoman Turkish readings with an augmented reality application achieved higher academic success than students taught with the classical method](ar-ottoman-turkish-higher-achievement-than-classical.md) — related
+- [The cooperative learning group improved significantly from pretest to posttest](cooperative-group-pretest-posttest-gain.md) — a narrower finding that bears on this claim

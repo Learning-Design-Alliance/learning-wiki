@@ -30,7 +30,7 @@ sources:
 # Learning by Producing (multimedia production as learning)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 26 claims (16 for, 9 mixed, 1 against) · 35 studies (11 causal, 9 quant-synthesis, 6 design, 4 theoretical, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 10 of 35 report an effect size · 18 claims rest on one study
+> **Evidence** · 27 claims (16 for, 10 mixed, 1 against) · 36 studies (12 causal, 9 quant-synthesis, 6 design, 4 theoretical, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 10 of 36 report an effect size · 19 claims rest on one study
 
 ## Description and scope
 
@@ -158,6 +158,7 @@ This pattern is scoped to units in which a team or individual makes a media prod
 - [Learning by creation shifts learners from consumers to creators of learning content and increases their awareness of taking learning ownership](../claims/learning-by-creation-increases-ownership-awareness.md) [+W]
 - [63.3% of students would like to write more interactive stories in school versus 34.0% for traditional stories, a significant difference.](../claims/preference-interactive-stories.md) [+W]
 - [Published studies of homemade PowerPoint games show no significant performance difference between game-creating and control groups](../claims/ppt-games-no-performance-difference-studies.md) [-W]
+- [Experimental-group students used compound nouns in slide bullet points more than control-group students, supporting stylistic appropriateness for presentations](../claims/compound-nouns-bullet-points-stylistic-advantage.md) [~W]
 
 ## Related Patterns
 

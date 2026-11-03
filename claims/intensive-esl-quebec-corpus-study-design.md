@@ -51,3 +51,4 @@ Descriptive account of the study's design as printed: oral English development o
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
 - [Collaborative models in Second Life positively influenced French learners' speaking capability and inter-peer collaboration](second-life-collaboration-french-speaking.md) — related
 - [61% of the experimental class (23 of 38 students) showed substantial improvement in spoken proficiency](oct-61-percent-improved.md) — related
+- [Communicatively developing methods in course retraining improved Tatar-school teachers' coherent speech quality across eight measured characteristics](communicatively-developing-methods-improve-teacher-coherent-speech.md) — related

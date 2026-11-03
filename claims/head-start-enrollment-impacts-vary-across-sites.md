@@ -50,3 +50,4 @@ Multisite randomized trial analysis (Bloom & Weiland, 2015) treating each Head S
 - [Head Start's impacts on ECCE enrollment are larger in states with less rigorous child care licensing regulations](licensing-rigor-moderates-head-start-enrollment-impacts.md) — related
 - [The original Head Start Impact Study threshold-variable method conflates low quality with missing data and discards continuous variance](threshold-variable-conflates-missing-and-low-quality.md) — related
 - [Tobit models decompose the Head Start impact into a 48-percentage-point increase in probability of an observed quality score and a 2-point increase in quality conditional on observation](tobit-decomposition-head-start-quality-impact.md) — related
+- [Whether Head Start impacts vary across centers remained undetermined in this abstract, with analyses underway at presentation](head-start-cross-center-variation-underway.md) — related

@@ -48,3 +48,4 @@ Dependent t-test on curriculum-based measure scores for SWD in the treatment gro
 - [Two of three students with ASD declined in word problem solving performance from pretest to posttest after the intervention](asd-students-declined-post-intervention.md) — related
 - [SWD in both treatment and control groups showed a statistically significant pretest-to-posttest improvement on question 8](item-analysis-question-8-significant-gain.md) — related
 - [No statistically significant difference was found between posttest scores of SWD in the treatment group and SWD in the control group](knws-no-significant-difference-treatment-vs-control-swd.md) — related
+- [TTPS intervention students improved their problem-solving performance from pretest to posttest while comparison students did not](ttps-improves-problem-solving-within-group.md) — related

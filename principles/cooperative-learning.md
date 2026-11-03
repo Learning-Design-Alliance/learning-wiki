@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 61 claims (33 for, 27 mixed, 1 against) · 49 studies (22 causal, 16 quant-synthesis, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 16 of 49 report an effect size · 54 claims rest on one study
+> **Evidence** · 62 claims (34 for, 27 mixed, 1 against) · 50 studies (23 causal, 16 quant-synthesis, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 16 of 50 report an effect size · 55 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,7 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 - [Students taught through the STAD model of cooperative learning achieved significantly higher mathematics learning achievement than students taught through problem-based learning.](../claims/stad-cooperative-learning-higher-math-achievement-than-pbl.md) [+W]
 - [Review evidence cited in the article: in 67 studies of achievement impacts, 61% found greater achievement in cooperative than in traditionally taught control groups](../claims/cl-achievement-review-evidence.md) [+M]
 - [Both jigsaw and traditionally taught groups showed statistically significant pre-test to post-test gains, with a larger gain in the jigsaw group](../claims/jigsaw-and-control-both-gain-significantly-pre-to-post.md) [+W]
+- [Blind students taught with CLE performed significantly better in Thai language development than traditionally taught students at the .01 level, with one small kindergarten group as an exception](../claims/cle-blind-students-significant-thai-language.md) [+W]
 
 ## Related Principles
 

@@ -47,3 +47,4 @@ Repeated-measures follow-up analyses on AJT scores reported alongside Figure 2 a
 
 ## Related Claims
 - [Both CI and SI groups significantly outperformed the control group on recognizing English request hedges, with no significant difference between the two treatments](both-treatments-beat-control-ajt.md) — possibly the same claim (merge candidate)
+- [Both groups improved greatly from pretest to posttest and maintained performance from posttest to delayed posttest](both-groups-gained-and-maintained-over-time.md) — possibly the same claim (merge candidate)

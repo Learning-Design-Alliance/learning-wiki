@@ -84,3 +84,4 @@ The same blind follow-up battery found Kaufman means of 86 versus 95 favoring LE
 
 ## Related Claims
 - [Among CARS-matched pairs, children placed in inclusive kindergartens significantly outperformed peers in segregated settings on achievement, language, cognition, adaptive behavior, autism symptoms, and prosocial skills four years later](cars-matched-pairs-inclusive-outperform-segregated.md) — related
+- [Four years after the LEAP RCT, LEAP graduates outperformed comparison children significantly on cognitive (Leiter, d = .42) and social skills (SSRS prosocial, d = .52), with non-significant differences on achievement, language, and adaptive behavior](leap-followup-significant-cognitive-social-gains.md) — possibly the same claim (merge candidate)

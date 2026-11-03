@@ -39,6 +39,7 @@ The article recommends that RTC platforms add a mechanism governing shared edits
 ## Related Strategies
 
 - [Make partners' AI use visible through transparency mechanisms in early collaborative programming phases](ai-use-transparency-features-collaborative-programming.md)
+- [Add user instructions or interactive tips to the homepage for first-time users of an integrated learning system](add-user-instructions-first-time-users.md)
 
 ## Examples
 -

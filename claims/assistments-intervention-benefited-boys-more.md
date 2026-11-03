@@ -54,3 +54,4 @@ Augmented 3-level HLM on 2,756 students from 44 schools (treatment and control),
 - [Girls made significantly fewer hint requests, fewer attempts per problem, and fewer bottom-out hint requests than boys while doing online homework](girls-fewer-hint-requests-attempts-assistments.md) — related
 - [Among 7th-grade ASSISTments users, there is no significant overall gender difference in homework time or number of problems completed](no-gender-difference-overall-homework-time-middle-school.md) — related
 - [Among students performing proficiently or above, high-performing girls spent marginally significantly more time on homework than high-performing boys](high-performing-girls-more-homework-time.md) — related
+- [Tikichuela improved both boys' and girls' math scores but widened the gender gap because boys gained more](tikichuela-widened-gender-gap.md) — related

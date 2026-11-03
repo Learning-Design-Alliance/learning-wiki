@@ -128,3 +128,4 @@ Gain-score comparison in the same quasi-experiment: experimental group mean gain
 - [The Constructivist Learning Model improved eighth-grade students' scientific thinking more than traditional teaching](clm-improves-scientific-thinking.md) — related
 - [Students taught by WRD-trained teachers achieve significantly higher learning outcomes than students in control classes](wrd-trained-teachers-boost-student-achievement.md) — related
 - [Scientific inquiry learning model based on conceptual change improves science process skills better than conventional learning](scientific-inquiry-conceptual-change-improves-science-process-skills.md) — related
+- [Practical competencies-oriented teaching materials with supplementary local cases produce significantly better learning achievement than traditional lecture in a Human Resource Management unit](practical-competencies-materials-improve-learning-achievement.md) — related

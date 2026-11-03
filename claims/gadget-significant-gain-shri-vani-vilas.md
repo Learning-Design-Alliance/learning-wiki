@@ -50,3 +50,6 @@ Finding 4 of the equivalent-group experiment: the 40-student experimental group 
 - [Experimental groups showed significant pre-to-post gains in English grammar achievement after gadget-based learning in Gopala Samudram Middle School](gadget-significant-gain-gopala-samudram.md) — related
 - [Control groups taught conventionally showed no significant pre-to-post gain in English grammar achievement in Shri Vani Vilas Middle School](conventional-method-no-gain-shri-vani-vilas.md) — related
 - [Both schools' control groups achieved the same pre-test and post-test scores under traditional method, indicating learning problems with conventional grammar teaching](conventional-method-learning-problems-standard-ii.md) — related
+- [Control-group pupils taught English grammar by conventional methods show no significant pre-test to post-test difference](conventional-method-no-gain-control-group-grammar.md) — related
+- [Discovery learning strategies produce significant achievement gains in English grammar for standard V learners compared with conventional methods](discovery-learning-effective-english-grammar-standard-v.md) — related
+- [Standard V pupils show low pre-test achievement in English grammar under conventional methods relative to the experimental group](pre-test-low-achievement-conventional-grammar.md) — related

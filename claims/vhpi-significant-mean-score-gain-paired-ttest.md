@@ -74,3 +74,4 @@ Paired samples t-test for the 75 control-group pre-service teachers taught by co
 - [The ADI group showed significant within-group gains on demonstrated scientific literacy from pre- to post-test, while the structured-inquiry group did not](adi-within-group-sla-d-gain-comparison-null.md) — related
 - [The experimental group's pre-to-post achievement gain was statistically significant (t = 9.79473, P = 0.0001)](experimental-group-significant-prepost-gain.md) — related
 - [Differences between the paired experimental groups and between the paired control groups are not statistically significant on achievement or retention tests](synectics-groups-homogeneous-no-within-condition-differences.md) — related
+- [Both the adaptive and the conventional tutoring groups achieved significantly higher post-test than pre-test scores](within-group-pre-post-gains-both-groups.md) — reports the opposite

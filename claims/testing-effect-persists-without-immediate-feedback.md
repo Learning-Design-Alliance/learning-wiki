@@ -54,3 +54,4 @@ Authors' interpretation of the main retention result in light of the feedback de
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [The keyword method group significantly outperformed the traditional group on a delayed recall posttest three weeks later](keyword-method-delayed-recall-advantage.md) — related
+- [Learning was observed even when teachers engaged in the training alone without mentoring or feedback](antecedent-only-training-produces-learning.md) — related

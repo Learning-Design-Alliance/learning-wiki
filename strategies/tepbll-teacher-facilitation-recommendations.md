@@ -50,6 +50,7 @@ The review distills teacher-facilitation recommendations from the included studi
 - [Instructor recommendations for running a module-development course project](module-development-course-recommendations.md)
 - [Six literature-based recommendations for implementing project based learning](pbl-implementation-six-recommendations.md)
 - [Position the teacher as facilitator of discussion who lets students struggle with problems and gives individualized feedback](teacher-as-facilitator-individualized-feedback-clinical-pbl.md)
+- [Language educators should leverage technology capabilities for teaching writing and other language skills, without overstating technology's role](leverage-mobile-technology-across-language-skills.md)
 
 ## Examples
 -

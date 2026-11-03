@@ -48,3 +48,5 @@ Reliability analysis of 10 final-test variants (13 tasks each, split into even a
 ## Related Claims
 - [Validity coefficients with external criteria provide a lower bound for a test's reliability](validity-lower-bound-reliability.md) — related
 - [Concept Test reliability was 0.72, rising to r = 0.84 after Spearman-Brown correction](concept-test-reliability-spearman-brown-084.md) — related
+- [Both computer-based and paper-based versions of the achievement test show high split-half reliability coefficients](high-reliability-both-test-modes.md) — related
+- [The 60-item achievement test showed very good pilot reliability (r = .90) before mode administration](pilot-reliability-achievement-test.md) — related

@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 90 claims (50 for, 30 mixed, 10 against) · 93 studies (35 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 22 of 93 report an effect size · 77 claims rest on one study
+> **Evidence** · 92 claims (51 for, 31 mixed, 10 against) · 95 studies (37 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 24 of 95 report an effect size · 78 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,7 @@ The heading is kept because tools look for it; new links land here unread. Re-re
 - [Physics students taught with the Inquiry Training model based on JITT show higher problem-solving ability than students taught with cooperative learning in General Physics II](../claims/it-jitt-higher-problem-solving-than-cooperative.md) [+W] — attached 2026-11-02 from Betty Turnip et al. (2016), which proposed "Design physics lectures around problem solving and investigation using an inquiry approach".
 - [Metacognition gains after inquiry learning differed across three classes: knowledge gains differed among all three, while awareness gains differed only between Group A and Groups B and C, not between B and C](../claims/inquiry-impact-inconsistent-across-groups.md) [~W] — attached 2026-11-02 from Asy’ari et al. (2019), which proposed "Emphasize declarative knowledge within inquiry learning steps to support construction of comprehensive metacognition awareness".
 - [Inquiry-based preschool science intervention increased informative explorations relative to controls](../claims/inquiry-preschool-science-informative-explorations.md) [+W] — attached 2026-11-02 from Dejonckheere et al. (2016), which proposed "Inquiry-based preschool science with probe questions and structured phases supports scientific reasoning development"; tests this page's relationship.
+- [Inquiry-based teaching interventions produce a statistically significant, medium-sized increase in secondary students' interest in school science and technology compared with control classes](../claims/inquiry-interventions-increase-school-science-interest.md) [+M] — attached 2026-11-03 from Patrice Potvin et al. (2017), which proposed "Embed minimal guidance within inquiry-based interventions rather than leaving students unguided".
 
 ## Objective and learner-valued goal
 
@@ -221,6 +222,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [Prior Nigerian studies on guided inquiry versus conventional teaching report mixed results, with one study finding the conventional method superior](../claims/guided-inquiry-prior-evidence-mixed.md) [~W]
 - [Students taught with structured inquiry report more favourable attitudes and perceptions than conventionally taught students](../claims/structured-inquiry-favourable-student-attitudes-perceptions.md) [+W]
 - [The animation-assisted 5E application produced a significant pre-to-post attitude change in the experimental group while the control group's attitudes did not change](../claims/animation-5e-attitude-change-experimental-only.md) [~W]
+- [Inquiry-based interventions show no detectable difference from control teaching on students' school science and technology self-concept](../claims/inquiry-interventions-no-self-concept-difference.md) [~W]
 
 ## Related Principles
 

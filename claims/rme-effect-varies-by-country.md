@@ -50,3 +50,4 @@ Moderator analysis across six countries of implementation; Indonesia contributed
 - [Geographical location does not significantly moderate the effect of RME on mathematical literacy](geographic-location-no-moderating-effect-rme-literacy.md) — related
 - [Implementing RME has a large positive overall effect on students' mathematical abilities compared to conventional approaches (g = 0.97)](rme-overall-positive-effect-mathematical-ability.md) — related
 - [Effect of MIT-based instruction does not differ significantly across Turkey's geographical regions](mit-effect-homogeneous-geographical-region.md) — related
+- [Students taught with culture-based RME show better character than students taught with conventional mathematics education](rme-culture-based-better-character.md) — related

@@ -55,3 +55,5 @@ Independent Samples t-Test on pre-test Vocabulary Size Test scores of the 20-stu
 - [The two groups did not differ significantly in listening ability at pretest, supporting group homogeneity](pretest-homogeneity-listening-groups.md) — related
 - [Pre-treatment reading comprehension of the two groups was statistically equivalent (Levene sig. 0.247; F = 3.959, sig. 0.051)](circ-pretest-groups-equivalent-homogeneity.md) — related
 - [Before the treatment, the experimental and control groups showed no statistically significant difference in conceptual fluency on the idiom pre-test](pretest-equivalence-idiom-groups.md) — related
+- [Before treatment, experimental and control groups did not differ significantly in Willingness to Communicate](cs-study-pretest-no-difference.md) — related
+- [Experimental and control groups showed no significant difference in pre-test vocabulary scores, supporting group equivalence at baseline](youtube-study-pretest-equivalence.md) — possibly the same claim (merge candidate)

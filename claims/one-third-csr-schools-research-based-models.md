@@ -51,3 +51,4 @@ Descriptive analysis of model adoption using CSRQ Center ratings covering the 31
 - [Low-performing CSR elementary schools that adopted models with scientific research bases gained in mathematics achievement after three years](low-performing-elementary-csr-math-gains-research-models.md) — related
 - Middle school CSR schools adopting models with limited scientific research bases realized mathematics and reading gains after three years — related
 - Five years after receiving CSR awards, schools did not demonstrate larger achievement growth than matched comparison schools — related
+- [About two thirds of the preservice teachers (67%) reported choosing the CEIT department willingly](two-thirds-chose-ceit-willingly.md) — related

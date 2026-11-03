@@ -49,3 +49,6 @@ Reported outcome for one cohort of the NVCC summer bridge program, which refresh
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — related
 - [Students in three summer math programs showed large improvements in grades the semester after the program](summer-math-programs-large-grade-improvements-next-semester.md) — related
 - [Grade retention and tracking students into remedial instruction undermine achievement, while formative assessment with acceleration strategies improves learning](retention-and-downtracking-undermine-achievement.md) — related
+- [Fall-to-fall retention was significantly higher for the 2015 Summer Bridge cohort than for controls](summer-bridge-fall-to-fall-retention-cohort-2015.md) — related
+- [Summer Bridge participants at a Hispanic-serving community college outperformed non-participants in gatekeeper course pass rates, with gains growing across cohorts](summer-bridge-gatekeeper-pass-rates-hispanic-community-college.md) — related
+- [Summer Bridge participants in cohorts 2014 and 2015 had significantly higher gatekeeper pass rates, semester GPA, and earned credit hours than controls](summer-bridge-significantly-higher-gpa-credit-hours.md) — related

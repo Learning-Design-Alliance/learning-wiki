@@ -49,3 +49,4 @@ Authors' interpretive conclusion from their course experience, offered without s
 - [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) — a narrower finding that bears on this claim
 - [Two-force-plate recording revealed individual left-right impulse asymmetries in student jumps while total takeoff and landing impulses remained comparable](two-force-plate-impulse-asymmetry-student-project.md) — a narrower finding that bears on this claim
 - [Overlaying mass times calculated acceleration with net force from force plates provides a compelling visual connection to Newton's Second Law](ma-overlay-net-force-visual-connection-second-law.md) — related
+- [Students began making estimates and inferences during the project interviews, suggesting growth in scientific process skills](deaf-students-process-skills-growth-interviews.md) — related

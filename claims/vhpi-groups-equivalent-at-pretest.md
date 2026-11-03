@@ -82,3 +82,4 @@ Chi-square test on the 2×4 contingency table of group by van Hiele level (VHL 0
 - [The two groups were equivalent in van Hiele level at pretest except for obtuse angles, where the control group scored significantly higher before instruction](pretest-equivalence-except-obtuse-angles.md) — related
 - [Experimental and control groups were equivalent in oral fluency before the intervention](efl-fluency-pretest-group-equivalence.md) — related
 - [At the beginning of the experiment the experimental and control groups showed no significant differences in integrative collaboration](no-baseline-differences-integrative-collaboration.md) — a narrower finding that bears on this claim
+- [Access and public school students showed no significant difference in English scores before treatment](access-public-schools-no-pretest-difference.md) — related

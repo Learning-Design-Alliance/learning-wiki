@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 85 claims (52 for, 32 mixed, 1 against) · 70 studies (32 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 21 of 70 report an effect size · 77 claims rest on one study
+> **Evidence** · 87 claims (54 for, 32 mixed, 1 against) · 72 studies (34 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 21 of 72 report an effect size · 79 claims rest on one study
 
 ## Description and scope
 
@@ -192,6 +192,8 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Students were satisfied with Learning Together at high to highest levels and ranked it the most suitable instruction method for the course](../claims/lt-student-satisfaction-high-french-literature.md) [+W]
 - [Structured collaboration did not influence assignment completion time compared to free collaboration](../claims/structured-dpp-no-completion-time-effect.md) [~W]
 - [No significant gender difference in biology performance among students taught with cooperative CAI](../claims/no-gender-difference-cooperative-cai.md) [~W]
+- [Blind students taught with CLE performed significantly better in Thai language development than traditionally taught students at the .01 level, with one small kindergarten group as an exception](../claims/cle-blind-students-significant-thai-language.md) [+W]
+- [The cooperative learning group improved significantly from pretest to posttest](../claims/cooperative-group-pretest-posttest-gain.md) [+W]
 
 ## Related Patterns
 

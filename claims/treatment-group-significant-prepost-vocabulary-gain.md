@@ -51,3 +51,4 @@ Paired Samples t-Test comparing the treatment group's pre-test (mean 5380.000) a
 - [Within-group score changes across pre-test, post-test and retention test were significant in both pretested groups, with larger variance explained in the experimental group](7e-within-group-gains-anova.md) — related
 - [The experimental group's speaking fluency scores rose significantly from pre-test to post-test after lexical chunks treatment](experimental-group-pre-post-fluency-gain.md) — related
 - [Experimental group showed significant pre-to-post gains on vocabulary test score](experimental-group-pre-post-vocabulary-gains.md) — possibly the same claim (merge candidate)
+- [Students showed significant improvement in vocabulary recognition and understanding from pre-test to post-test over the seven-week module](vks-pre-post-significant-improvement.md) — related

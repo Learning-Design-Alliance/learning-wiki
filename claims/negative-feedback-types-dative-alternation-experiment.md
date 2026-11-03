@@ -52,3 +52,4 @@ Peer-reviewed experimental study in Studies in Second Language Acquisition. The 
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](recasts-more-enduring-than-metalinguistic-feedback.md) — related
 - [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](form-focused-input-manipulation-illusory-for-competence.md) — related
 - [Design studies indicated metalinguistic information about how English spelling and pronunciation work helped adult learners remember and apply what they learned](metalinguistic-information-aids-adult-decoding-learning.md) — related
+- [Learners remember the linguistic information targeted in the interactional feedback they receive in naturalistic peer conversation](learners-remember-feedback-targeted-language.md) — related

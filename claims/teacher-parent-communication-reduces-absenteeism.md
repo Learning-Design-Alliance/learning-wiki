@@ -53,3 +53,4 @@ Attendance records during the first four weeks served as a secondary outcome in 
 - [EWIMS reduced the percentage of students who were chronically absent after one year of implementation](ewims-reduced-chronic-absence-one-year.md) — related
 - [Needs-improvement messages, not positive messages, drove the credit-earning effect](needs-improvement-messages-drive-credit-effect.md) — related
 - [Teacher-to-parent communication did not affect teachers' assessments of student effort or in-class behavior](no-effect-teacher-effort-behavior-ratings.md) — related
+- [Attendance mailings to guardians reduce student absences, with all treatment mailings pooled reducing absences by 0.9 days (a 5.3% decrease) versus control](attendance-mailings-reduce-absences-pooled.md) — related

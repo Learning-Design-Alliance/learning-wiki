@@ -49,3 +49,4 @@ Quasi-experimental effectiveness test in four Salatiga primary schools: SDN Kuto
 - [Limited trials of the model prototype showed pretest-to-posttest increases in students' storytelling scores](limited-trial-storytelling-score-increases.md) — related
 - [Control-group learners also improved significantly from pretest to posttest, but less than the storytelling group](control-group-significant-prepost-improvement-outperformed.md) — related
 - [The collocation group's mean score rose from 8.2 to 17.7 while the control group's rose from 8.7 to 11.1](collocation-group-gain-9-5-versus-control-2-4.md) — related
+- [The cooperative learning group improved significantly from pretest to posttest](cooperative-group-pretest-posttest-gain.md) — related

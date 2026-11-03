@@ -54,6 +54,7 @@ The article recommends providing metalinguistic explanation online during commun
 - [Use intensive recasts repeatedly focused on a single structure as an implementable alternative to explicit feedback](intensive-recasts-single-structure-strategy.md)
 - [Use metalinguistic corrective feedback during focused communicative tasks to develop both implicit and explicit grammatical knowledge](metalinguistic-feedback-focused-tasks-strategy.md)
 - [Embed controlled grammar mini-games in a meaning-focused story read in class](embed-mini-games-in-meaning-focused-story.md)
+- [Adopt literacy-based teaching methods as an alternative to grammar lecture and vocabulary rote memorization in communicative second language classrooms](literacy-methods-alternative-to-lecture-rote-strategy.md)
 
 ## Examples
 -

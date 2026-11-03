@@ -111,6 +111,7 @@ Justice-focused projects draw their motivational power from authenticity and per
 - [Apply Youth Participatory Action Research principles to school-based citizen science design to support student agency](ypar-principles-for-ccs-design.md)
 - [Use effective climate change education themes: deliberative discussions, interacting with scientists, addressing misconceptions, and school and community projects](effective-climate-change-education-themes.md)
 - [Use integrated-skills project work on environmental topics to raise awareness and language skills](integrated-skills-project-work-environmental-topics.md)
+- [Make social justice issues explicit by assigning critical literature and guiding questions alongside experiential activities in teacher education](make-social-justice-issues-explicit-strategy.md)
 
 ## Examples
 - **Mikva Challenge** (https://www.mikvachallenge.org) — Chicago-area students investigate community problems and run "action civics" campaigns addressing real policy issues with elected officials.

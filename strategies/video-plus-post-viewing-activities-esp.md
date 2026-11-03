@@ -46,6 +46,7 @@ Following Tarnopolsky's constructivist blended learning approach, the article pr
 - [Combine video clips with Small Group Activity techniques, using video-support techniques such as slowing playback, pre- and post-viewing comprehension sessions, and repeating or pausing scenes](video-clips-small-group-activity-strategy.md)
 - [Videos](videos.md)
 - [Video-clip techniques: silent viewing, pause-based prediction, and rewind](video-clip-techniques-silent-pause-rewind.md)
+- [Structured YouTube viewing sequence for vocabulary lessons: pre-questions, dual viewing with pausing, group discussion, and role-play follow-up](structured-youtube-viewing-sequence-vocabulary.md)
 
 ## Examples
 -

@@ -74,3 +74,4 @@ Author's interpretation of the included studies' reporting pattern: "Negative im
 - [The pooled effect of multiple intelligence practices is resistant to publication bias](mi-effect-resistant-publication-bias.md) — related
 - Small sample sizes and publication bias against non-significant findings may inflate meta-analytic effect size estimates in the chemistry teaching-method categories — related
 - Publication bias affects several blended BOPPPS outcome syntheses but trim-and-fill does not change significance — related
+- [Publication bias checks indicate the positive FCM effect is robust: trim-and-fill estimate 0.21619 and fail-safe number 5725.2](fcm-meta-publication-bias-robust.md) — related

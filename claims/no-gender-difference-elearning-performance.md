@@ -68,3 +68,5 @@ ANCOVA on the e-learning group (n = 30 per Table 2) with pretest as covariate; t
 - [No significant treatment-by-gender interaction on physics concept understanding](no-treatment-gender-interaction-physics-concepts.md) — related
 - [The authors argue blended learning could be used to close the gender gap in algebra achievement because male and female students achieved comparably under BL](bl-closes-gender-gap-algebra.md) — related
 - [No significant gender difference in biology performance among students taught with cooperative CAI](no-gender-difference-cooperative-cai.md) — related
+- [No significant gender difference in achievement among students taught solid geometry with animation-with-narration CAI](no-gender-difference-an-cai.md) — related
+- [No significant gender difference in achievement among students taught solid geometry with animation-with-text CAI](no-gender-difference-at-cai.md) — related

@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (66 show a difference, 22 mixed, 7 no difference) · 73 studies (29 associational, 12 review, 11 causal, 7 qualitative, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 6 of 73 report an effect size · 91 claims rest on one study
+> **Evidence** · 99 claims (70 show a difference, 22 mixed, 7 no difference) · 74 studies (29 associational, 12 review, 11 causal, 7 qualitative, 6 design, 6 theoretical, 3 quant-synthesis), `q1`–`q4` · 6 of 74 report an effect size · 95 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -139,6 +139,10 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Mere home access to computers did not sustain young children's interest, which declined for home-only users](../claims/access-alone-does-not-sustain-computer-interest.md) [+M] — learners who differ on it differ in outcomes
 - [Internet and computer access problems limited participation in the online argumentation implementation](../claims/internet-access-limits-online-argumentation.md) [+W] — learners who differ on it differ in outcomes
 - [Three weeks after the experiment, retest grades showed a very slight decrease in both groups, but experimental-group students with home Internet access showed no decrease](../claims/retest-durability-internet-access-home.md) [~M] — an instructional effect differs with it
+- [Deaf students held alternative conceptions about seasons, attributing them to the Moon's shadow and clouds](../claims/deaf-students-alternative-seasons-conceptions.md) [+W] — learners who differ on it differ in outcomes
+- [Deaf students in a 7-day astronomy project learned between 9 and 13 new astronomy words in sign language](../claims/deaf-students-learned-9-13-astronomy-sign-words.md) [+M] — learners who differ on it differ in outcomes
+- [Deaf students ordered close celestial bodies more successfully than far celestial bodies after the project](../claims/deaf-students-order-close-celestial-bodies-better.md) [+M] — learners who differ on it differ in outcomes
+- [Twenty-one of 30 deaf students correctly marked where the Sun rises and sets after observation-based activities](../claims/sun-rise-set-drawing-21-of-30-correct.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

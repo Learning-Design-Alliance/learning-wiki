@@ -43,6 +43,7 @@ The developed artifact is a set of e-teaching materials for the 'Teaching profic
 ## Related Designs
 
 - [Model of subject-oriented training of future humanities teachers based on e-teaching materials](subject-oriented-training-model-e-teaching-materials.md)
+- [Eight-stage methodology for developing and validating e-teaching materials, from goal setting through correction to efficiency checking](eight-stage-e-teaching-materials-development-methodology.md)
 
 ## Examples
 -

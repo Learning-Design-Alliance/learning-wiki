@@ -50,3 +50,4 @@ Random-effects meta-analysis of seventeen experimental studies with control grou
 - [PISA content domain does not significantly moderate the effect of RME on mathematical literacy](pisa-content-no-moderating-effect-rme-literacy.md) — related
 - [Class capacity does not significantly moderate the effect of RME on mathematical literacy](class-capacity-no-moderating-effect-rme-literacy.md) — related
 - [Geographical location does not significantly moderate the effect of RME on mathematical literacy](geographic-location-no-moderating-effect-rme-literacy.md) — related
+- [Students taught with culture-based RME show better character than students taught with conventional mathematics education](rme-culture-based-better-character.md) — related

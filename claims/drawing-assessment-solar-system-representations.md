@@ -49,3 +49,4 @@ Qualitative observation of EG students' end-of-activity drawings made without vi
 - [The authors selected the animation film using criteria of soundtrack, animated character, short duration, age-appropriate content, and depiction of planetary motion](animation-film-selection-criteria.md) — related
 - [Individual viewing of an animation film about the Solar System yields low knowledge gains in first-graders](individual-viewing-animation-low-gains.md) — related
 - [A short animated film transmits a high density of information that cannot be learned in a single viewing and can negatively affect understanding](animation-information-density-single-viewing.md) — related
+- [Twenty-one of 30 deaf students correctly marked where the Sun rises and sets after observation-based activities](sun-rise-set-drawing-21-of-30-correct.md) — related

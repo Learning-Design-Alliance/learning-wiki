@@ -50,3 +50,4 @@ Multi-level moderation analysis of the randomized Head Start Impact Study for th
 - [Neighborhood characteristics show no statistically significant moderation of Head Start impacts on Woodcock Johnson Letter-Word Identification](no-neighborhood-moderation-head-start-letter-word-id.md) — related
 - [No significant differences in Head Start treatment impact on Applied Problems or Letter Word Identification by level of neighborhood crime](no-crime-moderation-applied-problems-letter-word.md) — related
 - [Randomization in high-crime neighborhoods is associated with smaller Head Start impacts on PPVT scores relative to low-crime neighborhoods](neighborhood-crime-moderates-head-start-ppvt-impact.md) — related
+- [Whether Head Start impacts vary across centers remained undetermined in this abstract, with analyses underway at presentation](head-start-cross-center-variation-underway.md) — related

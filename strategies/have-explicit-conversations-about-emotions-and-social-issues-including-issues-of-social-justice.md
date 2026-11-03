@@ -92,6 +92,7 @@ The social-issues half rests on a different and less settled base. Jagers and co
 8. **Close deliberately.** Summarize what was said, name what remains unresolved, and say what happens next — a conversation left open at the bell does its damage in the corridor ([Individual Reflection](../elements/individual-reflection.md)).
 
 ## Related Strategies
+
 - [Emotion Identification and Labeling](emotion_identification_and_labeling.md) — the vocabulary foundation the emotions half depends on
 - [Identifying Feelings](identify_feelings.md) — the learner-facing routine for naming internal states
 - [Community-Building Circles](community-building-circles.md) — the structure that distributes airtime and makes silence acceptable
@@ -100,6 +101,7 @@ The social-issues half rests on a different and less settled base. Jagers and co
 - [Explicit Discussion of Perspectives](explicit_discussion_of_perspectives.md) — planned examination of how a situation is experienced from different positions
 - [Socratic Seminar](socratic-seminar.md) — text-anchored discussion with defined roles
 - [Norm Setting](norm_setting.md) — the precondition for all of the above
+- [Make social justice issues explicit by assigning critical literature and guiding questions alongside experiential activities in teacher education](make-social-justice-issues-explicit-strategy.md)
 
 ## Examples
 

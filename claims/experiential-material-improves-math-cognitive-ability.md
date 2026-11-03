@@ -53,3 +53,4 @@ Quasi-experimental matching-only pretest-posttest control group study in two Gun
 - [Experimental classes taught with local-wisdom-based social studies materials scored higher on knowledge than control classes after one semester](local-wisdom-materials-higher-knowledge-ttest.md) — related
 - [Fifth-graders taught with PAIKEM achieved higher mathematics learning results than those taught with conventional methods](paikem-outperforms-conventional-mathematics-outcomes.md) — related
 - [Instruction through the situated learning model significantly reduces mathematics anxiety of seventh-grade students compared with traditional teaching](situated-learning-reduces-mathematics-anxiety.md) — related
+- [Second graders learning multiplication with the JCLS rated experiential learning significantly higher than peers learning with a traditional blackboard](jcls-higher-experiential-learning-than-blackboard.md) — related

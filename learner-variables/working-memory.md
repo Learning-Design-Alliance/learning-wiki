@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 136 claims (80 show a difference, 36 mixed, 20 no difference) · 109 studies (40 causal, 25 associational, 22 review, 12 quant-synthesis, 7 theoretical, 3 qualitative), `q1`–`q4` · 20 of 109 report an effect size · 128 claims rest on one study
+> **Evidence** · 137 claims (80 show a difference, 37 mixed, 20 no difference) · 110 studies (40 causal, 26 associational, 22 review, 12 quant-synthesis, 7 theoretical, 3 qualitative), `q1`–`q4` · 21 of 110 report an effect size · 129 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -179,6 +179,7 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Dual n-back task training has a positive and significant effect on the expansion of phonological memory capacity in adult beginner-level EFL learners](../claims/dual-n-back-training-expands-pmc-adult-efl-beginners.md) [+M] — instruction changes it
 - [Prior studies report positive correlations between working memory capacity and second-language vocabulary and proficiency outcomes](../claims/wm-capacity-correlates-l2-learning.md) [+M] — learners who differ on it differ in outcomes
 - [Strategy training outcomes on word problem accuracy interact with working memory capacity, favoring children with higher WMC](../claims/wmc-by-treatment-interaction-cmat-solution-accuracy.md) [+M] — an instructional effect differs with it
+- [Working memory capacity correlates with outcomes differently across strategy conditions, with compensatory negative correlations under materials-only instruction](../claims/wmc-correlations-vary-by-strategy-condition.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-03
 sources:
   - id: namaziandost-2018
     resource: "https://eric.ed.gov/?id=EJ1191678"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Iranian intermediate EFL learners taught prosodic features through authentic videos significantly outperformed a traditionally taught control group on a post-test of prosodic ability (t = 2.495, p = .017). [→ Namaziandost 2018](#namaziandost-2018)
@@ -55,3 +56,4 @@ Quasi-experiment with 40 Iranian intermediate EFL learners (experimental n=20, c
 - [Video-based instruction improves reading comprehension of Iranian intermediate EFL learners more than conventional instruction](video-materials-improve-reading-comprehension-iranian-efl.md) — related
 - [PowerPoint-enhanced teaching (visual input) produced significantly better listening comprehension post-test scores than traditional teaching for Iranian intermediate EFL learners](powerpoint-visual-input-improves-efl-listening-comprehension.md) — related
 - [Meaning-focused listening input significantly enhances productive vocabulary size of Iranian intermediate EFL learners compared with traditional instruction](meaning-focused-listening-input-productive-vocabulary-gains.md) — related
+- [Authentic video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment](authentic-video-improves-efl-vocabulary.md) — related

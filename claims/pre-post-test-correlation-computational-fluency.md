@@ -50,3 +50,4 @@ Correlational analysis within the same quasi-experiment: "a correlation between 
 ## Related Claims
 - [SPST pre-test and post-test scores show a moderate positive correlation](spst-pretest-posttest-correlation.md) — related
 - [Post-game competence, effort, and deep-learning strategy use correlate significantly with pre-game measures, but interest does not](pre-post-motivation-correlations-stability.md) — related
+- [Test scores and studio art production scores showed moderate positive correlations at all three measurement points](test-production-moderate-correlations.md) — related

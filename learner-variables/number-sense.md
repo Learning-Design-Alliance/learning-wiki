@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 133 claims (97 show a difference, 20 mixed, 16 no difference) · 61 studies (26 causal, 26 associational, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 27 of 61 report an effect size · 127 claims rest on one study
+> **Evidence** · 137 claims (101 show a difference, 20 mixed, 16 no difference) · 62 studies (27 causal, 26 associational, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 28 of 62 report an effect size · 131 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -168,6 +168,10 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Kindergarteners did not improve on placing positive integers, possibly because zero was marked in the middle rather than at the edge of the line](../claims/kindergarten-positives-zero-placement-hypothesis.md) [-M] — instruction changes it
 - [Playing a linear board game including negative integers significantly improved first graders' placement of negative integers on empty number lines](../claims/board-game-negatives-first-grade-gains.md) [+M] — instruction changes it
 - [The intervention produced significant effects on the Addition/Subtraction Combinations, Place Value, and Number Sequences subtests but not on Magnitude Comparisons](../claims/temi-pm-subtest-effects-asc-pv-ns.md) [~M] — instruction changes it
+- [Head Start had small but statistically significant average impacts on children's receptive vocabulary, early reading, early numeracy, and externalizing skills, with no average impact on oral comprehension or self-regulation](../claims/head-start-small-average-impacts-four-outcomes.md) [+M] — instruction changes it
+- [Head Start impacts on receptive vocabulary and early numeracy were statistically significantly larger among Hispanic students](../claims/head-start-larger-impacts-hispanic-children.md) [+M] — instruction changes it
+- [Head Start impacts were statistically significantly larger for dual language learners on receptive vocabulary and early numeracy](../claims/head-start-larger-impacts-dual-language-learners.md) [+M] — instruction changes it
+- [Head Start reduced individual residual outcome variance for treatment group members on receptive vocabulary and early numeracy, indicating compression of the outcome distribution](../claims/head-start-reduced-residual-variance-vocabulary-numeracy.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

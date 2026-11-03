@@ -67,3 +67,4 @@ In the same quasi-experimental study, post-hoc comparisons of adjusted post-test
 - [Web-supported well-structured problem-solving instruction produced higher academic achievement in an introductory C programming course than web-supported traditional instruction](ps-instruction-higher-cp-achievement.md) — related
 - [Web-based STAD cooperative learning produces significantly higher cognitive study outcomes than text-based STAD in an Organizational Behavior course](web-based-stad-beats-text-based-stad-cognitive.md) — related
 - [Students in the three groups had significant differences in problem-solving attitudes before the experimental teaching began](pretest-problem-solving-attitude-group-differences.md) — related
+- [Practical competencies-oriented teaching materials do not significantly improve students' problem-solving attitude](practical-materials-no-problem-solving-attitude-gain.md) — reports the opposite

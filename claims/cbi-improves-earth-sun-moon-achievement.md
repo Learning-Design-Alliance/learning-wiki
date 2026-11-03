@@ -52,3 +52,4 @@ ANCOVA in a pre-test/post-test control group experiment with 26 experimental and
 - [CBI produced higher academic achievement than the conventional method for B.Ed. students in Optional 1 English](cbi-more-effective-than-conventional-method-b-ed-english.md) — related
 - [Pupils taught with the IWB and XERTE resource scored no better on post-tests than pupils taught traditionally](iwb-no-significant-score-difference-mauritius.md) — reports the opposite
 - [Simulation-based biology teaching produced significantly higher post-test success scores than traditional teaching methods for education students.](simulation-biology-higher-posttest-success.md) — related
+- [Practical competencies-oriented teaching materials with supplementary local cases produce significantly better learning achievement than traditional lecture in a Human Resource Management unit](practical-competencies-materials-improve-learning-achievement.md) — related

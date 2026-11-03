@@ -73,3 +73,4 @@ Narrative review attribution: the article states, citing Rennie (2012) and Nejat
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — related
 - [The author reports that YouTube use motivated experimental-group students to engage in learning activities](youtube-motivation-observation-efl-students.md) — related
 - [Students reacted positively to PowerPoint-enhanced listening lessons, reporting benefits for comprehension and motivation](positive-student-reactions-powerpoint-listening-lessons.md) — related
+- [Teachers perceived YouTube videos as beneficial for teaching English vocabulary, and unanimously agreed they need special training to use it effectively](teacher-perceptions-youtube-beneficial-training.md) — related

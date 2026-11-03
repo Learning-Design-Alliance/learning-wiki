@@ -52,3 +52,4 @@ One-way ANOVA (alpha 5%) in a quasi-experiment, posttest-only control group desi
 - [Prospective teachers taught with an activity-based blended learning strategy reported significantly higher motivation than those taught with conventional blended learning](abl-motivation-beats-conventional-blended.md) — related
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
 - [Students learning with the software showed higher learning motivation at post-test than students taught by traditional method](motion-vector-software-raises-learning-motivation.md) — related
+- [Learner activity and participation increased under the REACT strategy compared with the previous learning model](react-increases-participation-geography.md) — related

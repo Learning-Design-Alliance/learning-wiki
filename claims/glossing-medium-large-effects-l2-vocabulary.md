@@ -99,3 +99,4 @@ The evidence recorded here is second-hand. Both entries are background statement
 - [Five of the six largest effect sizes in the meta-analysis came from CALL glossing studies](call-studies-dominate-top-effect-sizes.md) — related
 - [The percentage of text glossed significantly differentiates effect sizes, with the highest mean for more than 50% glossing (1.13) and the second highest for less than 5% (0.85), but a much smaller mean for 5-10% (0.20)](glossing-percentage-groups-significant-difference.md) — related
 - [L1 glossing produces a medium-to-large overall improvement in L2 reading comprehension (g = .68) across experimental and quasi-experimental studies](l1-glossing-overall-effect-size-068.md) — related
+- [Both giving and receiving marginal L1 glosses improve L2 vocabulary learning on a fill-in-the-blank test relative to no glosses](marginal-l1-glosses-improve-fill-in-blank-vocabulary.md) — a narrower finding that bears on this claim

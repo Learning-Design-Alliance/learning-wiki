@@ -46,3 +46,4 @@ Independent-samples t-test on pre-test FAAT scores of the two randomized groups 
 
 ## Related Claims
 - [Before treatment, demonstration-method and conventional-approach students show no significant difference in financial accounting achievement](no-pretest-difference-demonstration-conventional-financial-accounting.md) — related
+- [Access and public school students showed no significant difference in English scores before treatment](access-public-schools-no-pretest-difference.md) — related

@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 254 claims (119 for, 117 mixed, 18 against) · 190 studies (77 causal, 36 review, 27 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 48 of 190 report an effect size · 230 claims rest on one study
+> **Evidence** · 255 claims (119 for, 118 mixed, 18 against) · 191 studies (78 causal, 36 review, 27 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 48 of 191 report an effect size · 231 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -302,6 +302,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [A second year of ELM experience showed moderate but non-significant advantages for teacher demonstrations, group responses, and academic feedback, with no advantage for individual responses](../claims/second-year-elm-moderate-nonsignificant-effects.md) [~W]
 - [The amount of corrective feedback an individual learner received correlated positively with that learner's post-test performance](../claims/learner-feedback-amount-correlates-posttest-performance.md) [+W]
 - [The amount of feedback given for a specific word correlated positively with the number of correct responses to its post-test item](../claims/word-level-feedback-correlates-item-correct-responses.md) [+W]
+- [Overall post-hoc analyses found no significant difference between giver and receiver groups on either test](../claims/no-significant-giver-receiver-difference-overall.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

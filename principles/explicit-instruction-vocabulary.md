@@ -35,7 +35,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (36 for, 11 mixed, 3 against) · 54 studies (26 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 11 of 54 report an effect size · 40 claims rest on one study
+> **Evidence** · 51 claims (36 for, 12 mixed, 3 against) · 55 studies (27 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 11 of 55 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,7 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Grade 5 EFL students doing hierarchy vocabulary exercises scored significantly higher than students doing copying exercises on an immediate vocabulary post-test](../claims/hierarchy-exercises-beat-copying-immediate-vocabulary.md) [+W] — attached 2026-11-02 from Lin et al. (2013), which proposed "Use hierarchy vocabulary exercises rather than copying exercises after explicit vocabulary instruction"; tests this page's relationship.
 - [Explicit definitions drove the largest definition-recall gains: definition-trained groups recalled 62–63% of meanings (ds > 2) versus 36% for strategy-trained students (d = 0.95)](../claims/explicit-definitions-largest-definition-recall-gains.md) [+W] — attached 2026-11-02 from Craigo L. et al. (2017), which proposed "Teach community college students a repertoire of independent word-learning strategies together with elaborated definitions, using instructor modeling, guided practice, and feedback"; tests this page's relationship.
 - [No treatment effects transferred to independent reading: treatment groups performed no better than controls on the transfer passage](../claims/no-transfer-to-independent-reading.md) [~W] — attached 2026-11-02 from Craigo L. et al. (2017), which proposed "Teach community college students a repertoire of independent word-learning strategies together with elaborated definitions, using instructor modeling, guided practice, and feedback"; tests this page's relationship.
+- [Textbook-based morphosyntactic teaching was a sound basis for understanding and reusing key compound nouns, with no clear added value from the cognitive perspective on that measure](../claims/textbook-teaching-sound-basis-key-compounds.md) [~M] — attached 2026-11-03 from Fries (2017), which proposed "Teach compound nouns through a cognitive-semantic approach as a complement to, not a replacement for, morphosyntactic instruction".
 
 ## Objective and learner-valued goal
 

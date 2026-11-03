@@ -47,6 +47,7 @@ The article recommends embedding dynamic user models that monitor students' inte
 - [Design AI tutors for complementarity across role paradigms and move beyond static prompting toward dynamic learner modeling](design-for-complementarity-and-dynamic-learner-modeling.md)
 - [Use strategy-based evidence models to trigger adaptive scaffolding toward more productive problem-solving strategies](strategy-evidence-models-trigger-adaptive-scaffolding.md)
 - [Recognize high-spendency behavior and prompt students toward less spending and more generative practice](prompt-high-spendency-students-toward-generative-practice.md)
+- [Dynamically update student model thresholds during learning to counter concept drift](dynamic-threshold-updating-concept-drift.md)
 
 ## Examples
 -

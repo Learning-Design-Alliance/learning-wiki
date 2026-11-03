@@ -47,3 +47,4 @@ A t-test on the control group's pre-test and post-test achievement scores (n = 3
 ## Related Claims
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — possibly the same claim (merge candidate)
 - [Experimental-group achievement rose significantly from pre- to post-test while the control group's gain was not significant](ict-narratives-within-group-achievement-gain.md) — related
+- [B.Ed in-service teachers showed low baseline communicative competency in English under conventional methods](low-baseline-communicative-competency-bed-teachers.md) — related

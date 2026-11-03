@@ -56,3 +56,4 @@ Paired-samples t test within the control group (n=36): t = -16.621, p = .000, si
 - [Control-group gains were under 1 point per dimension and non-significant only in debugging](control-group-debugging-gain-nonsignificant.md) — reports the opposite
 - [Conventional leaflet-based instruction places mothers as passive recipients and yields smaller independence gains than ELC](conventional-instruction-passive-recipient-smaller-gains.md) — related
 - [The control group's academic achievement also rose significantly from pre-test to post-test under guidebook-based teaching](control-group-significant-pre-post-gain.md) — related
+- [The complete sample showed a significant overall pre-to-post gain of about 16 points](overall-sample-significant-prepost-gain.md) — related

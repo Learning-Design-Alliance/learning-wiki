@@ -66,3 +66,4 @@ Quasi-experimental "Non-randomized Control Group Pretest-Posttest Design" with 4
 - [Regular classroom use of mobile devices with 3G was associated with higher total course achievement scores than the lecture-only section](mobile-3g-use-higher-achievement-scores.md) — a narrower finding that bears on this claim
 - [Content-Based Instruction was more effective than Problem-Based Learning for teaching EFL writing in a quasi-experimental comparison](cbi-more-effective-than-pbl-efl-writing.md) — related
 - [Lecturer-generated summaries spliced into online video lectures improve student recall of lecture content on quizzes](lecturer-generated-summaries-improve-video-recall.md) — related
+- [Integrative teaching techniques improve German speaking-skill learning outcomes in a single-group quasi-experiment](integrative-techniques-improve-german-speaking-outcomes.md) — related

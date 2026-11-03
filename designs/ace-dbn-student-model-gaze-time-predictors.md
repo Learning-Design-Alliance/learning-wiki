@@ -48,7 +48,8 @@ ACE's student model is a Dynamic Bayesian Network that assesses exploratory beha
 - [Leave-one-out cross-validation over 36 students confirms significant accuracy and stability gains from eye-tracking in both self-explanation and exploration assessment](../claims/cross-validation-confirms-eye-tracking-gains.md) [+W]
 
 ## Related Designs
-- 
+
+- [Bayesian student modeling middleware based on FSLSM with dynamic threshold updating](bayesian-student-modeling-middleware-fslsm.md)
 
 ## Examples
 -

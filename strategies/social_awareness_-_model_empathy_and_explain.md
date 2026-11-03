@@ -66,6 +66,7 @@ Modeling works because learners acquire social-cognitive skills by observing a c
 - [Active Listening](active-listening.md) — the discussion protocol that operationalizes empathy during conversation
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — extends perspective analysis to systemic framing
 - [Model social imagination of fictional characters' perspectives using connection stems, character-focused questions, and letters to characters](model-social-imagination-connection-stems.md)
+- [Make social justice issues explicit by assigning critical literature and guiding questions alongside experiential activities in teacher education](make-social-justice-issues-explicit-strategy.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the primary rehearsal format

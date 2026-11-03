@@ -65,3 +65,4 @@ Observational correlation analysis of problem parameters a, b, c fitted on real 
 
 ## Related Claims
 - [Simulated-data study shows difficulty and skill are estimated from few data, while discrimination and variance require far more (at least 30 solvers; 50 problems and 150 students)](simulation-data-requirements-parameter-estimation.md) — related
+- [Problem difficulty level relates to metacognitive knowledge level: the more difficult the problem, the higher the metacognitive knowledge required](problem-difficulty-metacognitive-level.md) — related

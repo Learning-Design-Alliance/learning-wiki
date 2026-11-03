@@ -55,3 +55,4 @@ Study of 219 college students reading two low previous knowledge hypertexts at h
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
 - [Teaching between study phases contributes to comprehension more than teaching after the study phase](teaching-timing-between-study-phases.md) — related
 - [Metacognitive activity scores were neither associated with verbal ability nor with Internet experience](metacognitive-scores-unrelated-verbal-ability-internet-experience.md) — related
+- [Most new physics education students and a majority of in-service physics teachers failed a metacognitive knowledge ability test](mkat-failure-students-teachers.md) — related

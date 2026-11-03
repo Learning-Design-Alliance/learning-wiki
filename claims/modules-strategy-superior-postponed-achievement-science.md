@@ -48,3 +48,4 @@ ANCOVA of the postponed achievement test given three weeks after the experiment 
 - [Seventh-grade students taught science with an educational modules strategy significantly outperform conventionally taught students on the direct (immediate) achievement test](modules-strategy-superior-direct-achievement-science.md) — related
 - [MIT-based teaching produced significantly higher permanence-test scores three weeks after instruction than conventional teaching](mit-teaching-higher-permanence-scores-visual-arts.md) — related
 - [No statistically significant gender difference or gender-by-method interaction in postponed achievement](no-gender-difference-postponed-achievement-modules-study.md) — related
+- [All three experimental approaches were equally effective for spelling achievement and significantly better than conventional instruction](three-approaches-equal-spelling-achievement.md) — related

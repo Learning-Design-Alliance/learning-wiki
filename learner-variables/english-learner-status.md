@@ -13,7 +13,7 @@ generated:
 # English-Learner Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 119 claims (69 show a difference, 28 mixed, 22 no difference) · 81 studies (29 associational, 24 causal, 11 review, 7 quant-synthesis, 5 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 14 of 81 report an effect size · 118 claims rest on one study
+> **Evidence** · 121 claims (71 show a difference, 28 mixed, 22 no difference) · 83 studies (30 associational, 25 causal, 11 review, 7 quant-synthesis, 5 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 15 of 83 report an effect size · 120 claims rest on one study
 
 ## Description
 English-learner (EL) status marks a learner who is acquiring the language of instruction while learning content in it. Schools classify learners on a proficiency test and reclassify them once they reach a threshold, so the EL group changes composition over time: the learners who succeed leave it. In the research the status appears as a predictor of outcomes, as a moderator of instructional effects (language supports that help ELs more), and as the target of programmes such as bilingual and dual-language models. It is narrower than [reading and language](reading-and-language.md), which covers reading and language skill in every learner.
@@ -149,6 +149,8 @@ English-learner (EL) status marks a learner who is acquiring the language of ins
 - [Special Education and ELL students in the clicker group earned better objective and benchmark test scores](../claims/clickers-benefit-special-education-ell-students.md) [+M] — an instructional effect differs with it
 - [In the San Francisco multisite randomized study, Word Generation students learned more words than controls, and former ELLs outperformed English-only classmates for four years after reclassification, with the gap diminishing yearly](../claims/word-generation-san-francisco-ell-advantage.md) [+M] — learners who differ on it differ in outcomes
 - [Quasi-experimental implementation of Word Generation in six Boston schools improved knowledge of taught academic words, with greater gains for language minority students but no benefit for students still classified as limited in English proficiency](../claims/word-generation-boston-quasi-experiment-gains.md) [~M] — an instructional effect differs with it
+- [Head Start impacts were statistically significantly larger for dual language learners on receptive vocabulary and early numeracy](../claims/head-start-larger-impacts-dual-language-learners.md) [+M] — an instructional effect differs with it
+- [Higher English proficiency was associated with more confident and successful interaction in paired tasks](../claims/proficiency-positively-related-to-interaction.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners classified as English learners reach lower achievement and attainment than their peers, and does the gap hold for those who reach proficiency?* [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](../claims/el-lag-limited-academic-content-exposure.md) [+M]

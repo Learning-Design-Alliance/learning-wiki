@@ -49,3 +49,4 @@ Open-ended questionnaire content analysis; respondents most preferred "collabora
 - [Students expressed positive overall opinions of GBSRI, rating Independent Practicing highest and Post-writing lowest](gbsri-positive-student-opinions-stage-ratings.md) — related
 - [Most interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work](gbsri-interview-attributions-and-pair-work-discomfort.md) — related
 - Survey respondents most prefer presenting their information experientially rather than chronologically — related
+- [Peer collaboration on discussion-plus-presentation tasks improved Thai learners' oral presentations](peer-interaction-improves-presentations.md) — related

@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 90 claims (24 for, 30 mixed, 36 against) · 82 studies (26 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 14 of 82 report an effect size · 82 claims rest on one study
+> **Evidence** · 91 claims (25 for, 30 mixed, 36 against) · 83 studies (27 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 14 of 83 report an effect size · 83 claims rest on one study
 
 ## Description and scope
 
@@ -212,6 +212,7 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Undergraduate students in online sections using asynchronous peer text discussion scored significantly higher on course exams than students in a classroom section using synchronous lecture-discussion (d = 0.66)](../claims/asynchronous-discussion-online-sections-higher-exam-scores.md) [-W]
 - [Both blended learning and problem-based learning produced significantly higher algebra achievement than traditional lecture method, while BL and PBL did not differ significantly](../claims/bl-pbl-outperform-tlm-algebra.md) [+W]
 - [Descriptive gains in algebra achievement were largest for the blended learning group, followed by PBL and then TLM](../claims/bl-largest-descriptive-gain-algebra.md) [+W]
+- [Animation-with-text CAI did not significantly outperform lecture method on solid geometry achievement](../claims/at-cai-not-significant-vs-lecture.md) [+W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

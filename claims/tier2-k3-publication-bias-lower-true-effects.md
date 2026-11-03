@@ -56,3 +56,4 @@ Trim-and-fill (Card, 2012) funnel-plot asymmetry analysis applied to each meta-a
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - Funnel-plot asymmetry in the TBL meta-analyses is not supported by formal tests of publication bias — reports the opposite
 - Publication bias tests provide mixed evidence but overall suggest bias is unlikely — reports the opposite
+- [Publication bias checks indicate the positive FCM effect is robust: trim-and-fill estimate 0.21619 and fail-safe number 5725.2](fcm-meta-publication-bias-robust.md) — related

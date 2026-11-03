@@ -51,6 +51,7 @@ Critical pedagogy de-centers the traditional teacher-centered classroom. Curricu
 
 - A unit built around a current social-justice issue, where students research the issue, discuss competing perspectives, and plan a collective response
 - [Equity Unbound: an open connected course explicitly designed with social justice principles](../elements/equity-unbound-open-connected-course.md)
+- [Make social justice issues explicit by assigning critical literature and guiding questions alongside experiential activities in teacher education](../strategies/make-social-justice-issues-explicit-strategy.md)
 
 ## Key Sources
 - Ganly, S. (2007). *Educational philosophies in the classroom: The categories of various teaching philosophies*. Retrieved from https://archive.is/20130628165859/www.associatedcontent.com/article/352631/educational_philosophies_in_the_classroom_pg2.html

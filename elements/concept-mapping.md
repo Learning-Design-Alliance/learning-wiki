@@ -13,7 +13,7 @@ generated:
 # Concept Mapping
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (15 for, 9 mixed, 2 against) · 18 studies (10 causal, 3 quant-synthesis, 2 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 9 of 18 report an effect size · 23 claims rest on one study
+> **Evidence** · 27 claims (16 for, 9 mixed, 2 against) · 19 studies (11 causal, 3 quant-synthesis, 2 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 9 of 19 report an effect size · 24 claims rest on one study
 
 ## Description
 Concept mapping is the element in which learners represent concepts and their relationships visually, typically as nodes and labeled links. It is useful for organizing prior knowledge, identifying structure, and making connections visible before, during, or after learning.
@@ -67,6 +67,7 @@ Concept mapping is the element in which learners represent concepts and their re
 - [Students taught with concept mapping expressed a positive attitude toward concept mapping on a 14-item Likert questionnaire](../claims/positive-attitude-toward-concept-mapping-likert.md) [+W]
 - [Subjects reported high satisfaction with the computer-based mapping training](../claims/high-satisfaction-concept-map-training.md) [+W] — attached 2026-11-02 from Foster et al. (2016), which proposed "Two-hour Lectora-based computer training using VUE conceptual mapping on industrial technical problems".
 - [Preschool children's mind maps consisted mostly of first- and second-level branches, with cross links and examples appearing rarely and only in specific themes](../claims/preschool-mind-map-element-distribution.md) [~W]
+- [The sharing mind map system was rated significantly higher on interactivity but not on ease of use](../claims/smm-interactivity-higher-ease-of-use-null.md) [+W]
 
 ## The evidence by question
 

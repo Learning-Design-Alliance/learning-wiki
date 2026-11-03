@@ -50,3 +50,4 @@ Null result from teacher surveys (three Likert-scale questions on effort, behavi
 - [Teachers and parents rated PTR-YC as socially valid, finding it acceptable, effective, and unlikely to produce negative side effects](ptr-yc-social-validity-teacher-parent-ratings.md) — related
 - [Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior](lsc-contributions-strongest-in-operations-weakest-on-student-behavior.md) — related
 - [Teacher-to-parent communication reduces student absenteeism](teacher-parent-communication-reduces-absenteeism.md) — related
+- [Teacher outreach on top of interactive homework produces a large increase in parent–teacher bidirectional communication among 8th grade parents](teacher-outreach-increases-bidirectional-communication.md) — related

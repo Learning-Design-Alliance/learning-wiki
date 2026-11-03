@@ -51,3 +51,4 @@ Large-scale national assessment data (NAEP 2005) cited as the article's motivati
 - [Most U.S. 8th graders read below proficiency: 69 percent fall below the proficient level and 26 percent below the basic level on the 2007 NAEP reading assessment](2007-naep-69-percent-8th-grade-below-proficient-reading.md) — related
 - [Low reading-group first graders read far fewer words than high-group peers, limiting elaboration](low-group-first-graders-read-few-words.md) — related
 - [A large share of black fourth-graders score below NAEP Basic in reading, and the article argues many are children with undiagnosed dyslexia](naep-below-basic-black-fourth-graders-dyslexia.md) — related
+- [National writing assessment data show most US 8th graders perform below proficiency in writing](naep-8th-grade-writing-below-proficiency.md) — related

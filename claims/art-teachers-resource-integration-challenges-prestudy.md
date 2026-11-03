@@ -72,3 +72,4 @@ Pre-study questionnaire on AI perceptions among the 48 surveyed teachers. The ar
 - [ChatGPT-generated art lesson plans pose challenges of impracticality, overlooked safety issues, and required teacher revision time](chatgpt-lesson-plan-challenges-practicality-safety.md) — related
 - [Fragmented data systems made intervention planning slow and burdensome, with educators spending 2-3 hours building a single student intervention plan](fragmented-data-systems-slow-intervention-planning.md) — related
 - [Teachers want to spend orchestration time on one-on-one support and planning, and are willing to invest up-front time in routines and collaboration skills](teachers-prefer-one-on-one-support-time.md) — related
+- [Waste-material instructional resources enabled teachers to teach weaving lessons they had previously omitted for lack of skills and materials](waste-resources-enable-previously-omitted-weaving-lessons.md) — related

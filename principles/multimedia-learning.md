@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 124 claims (55 for, 65 mixed, 4 against) · 95 studies (51 causal, 17 review, 15 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 23 of 95 report an effect size · 115 claims rest on one study
+> **Evidence** · 125 claims (55 for, 66 mixed, 4 against) · 96 studies (52 causal, 17 review, 15 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 23 of 96 report an effect size · 116 claims rest on one study
 
 ## Conditional relationship
 
@@ -208,6 +208,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [No interaction was found between image type and test occasion in learning preposition senses with visual glosses](../claims/no-interaction-image-type-test-occasion.md) [~W]
 - [The multimedia group's adjusted post-test mean (21.01) exceeded the teacher-centred group's (15.07)](../claims/mbio-post-mean-21-vs-15.md) [+W]
 - [Pupils using the audio-and-image (AI) mode significantly outperformed pupils using the audio-image-text (AIT) mode on the music theory post-test](../claims/ai-mode-outperformed-ait-mode-music-theory.md) [+W]
+- [Animation-with-text CAI did not significantly outperform lecture method on solid geometry achievement](../claims/at-cai-not-significant-vs-lecture.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

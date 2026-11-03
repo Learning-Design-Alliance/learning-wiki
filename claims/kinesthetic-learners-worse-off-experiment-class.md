@@ -49,3 +49,4 @@ OLS regression Model 2 with learning-style-by-experiment interactions (Kinesthet
 
 ## Related Claims
 - [Visual perception dominates multimodal sensory design (98.7%), with auditory (39.7%), kinesthetic (29.5%), tactile (19.2%), and olfactory (1.3%) far less common](visual-perception-dominates-sensory-design.md) — related
+- [Learning style (auditory, read, kinesthetic) has a statistically significant effect on elementary students' emotional intelligence](learning-style-significant-effect-emotional-intelligence.md) — related

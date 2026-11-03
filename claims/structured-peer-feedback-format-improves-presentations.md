@@ -69,3 +69,4 @@ Case illustration from the second spell: Karthik, whose first-spell presentation
 - [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
 - [Students reported feeling more comfortable giving technical seminars before peers than before teachers](students-more-comfortable-presenting-to-peers.md) — related
 - [Unstructured peer observation without guidance produces vague, negative feedback that is unhelpful to presenters](unstructured-peer-feedback-vague-negative.md) — related
+- [Qualitative evaluation identified per-format conditions: rubrics improved feedback transparency, summative peer assessment was judged infeasible, and video was seen as complementary to live observation](qualitative-conditions-rubrics-peer-assessment-video.md) — related

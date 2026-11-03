@@ -50,3 +50,4 @@ Three-group experiment with 60 intermediate Iranian EFL learners (20 per group) 
 - [Watching cartoons with English subtitles produces no statistically significant vocabulary-gain advantage over watching without subtitles among upper-intermediate ELT students](no-subtitle-advantage-cartoon-vocabulary-gains.md) — reports the opposite
 - [The three groups did not differ significantly in vocabulary knowledge at pretest, supporting group homogeneity](pretest-homogeneity-three-vocabulary-groups.md) — related
 - [Vocabulary improvement occurred incidentally regardless of subtitles, attributed to target words being contextualized in the cartoons](cartoon-context-incidental-vocabulary-learning.md) — related
+- [EFL students who watched YouTube clips during reading activities scored significantly higher on a vocabulary post-test than students not exposed to the videos](youtube-vocabulary-posttest-outperformed.md) — related

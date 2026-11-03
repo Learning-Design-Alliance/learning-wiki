@@ -49,3 +49,4 @@ The paper reports, citing work at the Temporal Dynamics of Learning Center funde
 - [Affective support in AutoTutor benefits low-knowledge learners but not high-knowledge learners, and gaze-based disengagement reactivity yields significant gains only on deep learning](affect-and-gaze-adaptation-effects.md) — related
 - [The commentary pattern can cause tool-tutor desynchronization when students act faster than the tutor reacts](commentary-pattern-synchronization-problem.md) — related
 - [Children's vocabulary acquisition benefited from the robot tutor's instruction and knowledge demonstration](robot-tutor-role-vocabulary-gains.md) — related
+- [Child engagement during alphabet instruction was high in all four treatments](high-engagement-all-treatments.md) — related

@@ -40,6 +40,7 @@ The pilot emphasizes local capacity-building by choosing to "Recruit and train s
 
 - [Recruit and train local tribal members for planning staffs, supplementing on-the-job experience with training materials and workshops](recruit-and-train-local-tribal-planners.md)
 - [Provide tutors 20 hours of pre-service training plus ongoing weekly coaching and professional development](tutor-training-weekly-coaching-strategy.md)
+- [Train local prospective trainers with assessments to build local training capacity](train-the-trainers-with-qualification-assessments.md)
 
 ## Examples
 -

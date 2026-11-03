@@ -60,3 +60,4 @@ Paired-sample t-tests in SPSS 26.0 on pre/post CCTDI-adapted disposition scores 
 - [PBL improves EFL students' critical thinking disposition, creativity, and language scores, with noted gender differences](pbl-improves-efl-critical-thinking.md) — related
 - [Critical thinking disposition gains from one- or two-semester interventions are not sustained at two years](ct-gains-not-sustained-two-years.md) — related
 - [Control group showed no statistically significant pre-test to post-test change in critical thinking disposition](control-group-no-cctdi-change.md) — related
+- [Wagner students' overall pre-to-post critical thinking prompt gain of 9.8% was not statistically significant](wagner-prepost-gain-not-significant.md) — related

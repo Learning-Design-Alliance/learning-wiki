@@ -143,3 +143,4 @@ Open questions include how effects scale in online and hybrid settings, where in
 - [Prior meta-analysis reported an effect size of 0.76 for academic controversy versus individualistic learning on achievement](johnson-johnson-controversy-meta-analysis-076.md) — a narrower finding that bears on this claim
 - [Gender did not significantly interact with concept mapping to affect achievement, but a significant interaction of group and method emerged for cooperative learning](gender-method-interaction-effects-trigonometry.md) — related
 - [Evidence on cooperative learning in Asian contexts is mixed relative to Western findings](cooperative-learning-asian-context-mixed-evidence.md) — a narrower finding that bears on this claim
+- [Group form of orthoepic practicum work is reported as better than frontal form for trainees' individual recording and collective activity](group-practicum-better-than-frontal-for-speech-training.md) — a narrower finding that bears on this claim

@@ -132,3 +132,5 @@ The authors review 418 prejudice-reduction experiments published 2007–2019, es
 - [Honours community members report isolation and negative bias from regular students and lecturers](honours-community-isolation-from-regular-students.md) — related
 - [Teachers reported that role-plays and the discussions after them fostered pupils' empathy and knowledge about bullying](role-play-discussion-built-knowledge-empathy.md) — a narrower finding that bears on this claim
 - [Drama and theatre-based work forms in teacher education are associated with equity-related outcomes including empathy, perspective-taking, collaboration, attitude shifts, and advocacy](drama-work-forms-equity-outcomes-empathy-advocacy.md) — related
+- [Students exposed to the Generalisation Assessment Game had significantly less ethnic prejudice than students not exposed](gag-reduced-ethnic-prejudice.md) — a narrower finding that bears on this claim
+- [Students exposed to the Generalisation Assessment Game had significantly less religious prejudice than students not exposed](gag-reduced-religious-prejudice.md) — a narrower finding that bears on this claim

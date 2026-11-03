@@ -58,3 +58,4 @@ Hierarchical regression of observed emotion expressions on teacher-rated learnin
 - [Observed shame expressions during challenging tasks predict greater teacher-rated social competence, work-related skills, and academic skills](observed-shame-predicts-school-readiness.md) — related
 - [Observed task persistence during challenging tasks predicts teacher-rated academic competence and learning-related behaviors in Head Start graduates](observed-persistence-predicts-school-readiness-head-start.md) — related
 - [Children's self-rated general anxiety was not directly related to math achievement at either assessment time](self-rated-general-anxiety-not-related-to-math.md) — related
+- [Disgust and anxiety during dissection are negatively associated with motivation, interest and achievement (as reported in prior work cited by the article)](disgust-anxiety-hinder-dissection-learning.md) — related

@@ -71,3 +71,5 @@ Paired T-test analysis of pretest-posttest gains: the peer-supported group rose 
 - [Unsupported low-achieving students showed only a slight achievement increase (d = 0.19) under traditional instruction](not-supported-slight-gain-d-019.md) — related
 - [Both RT and regular remedial instruction significantly improved underachievers' oral reading fluency over 15 weeks](both-remedial-forms-improved-oral-fluency.md) — related
 - [Peer teaching produced significantly higher mathematics achievement than no peer teaching among low-scoring undergraduate female students in Oman](peer-teaching-improves-math-achievement-undergraduate-oman.md) — related
+- [Peer support significantly improves oral production in both reading aloud and speaking among low English achievers](peer-support-gains-low-achievers.md) — related
+- [Peer support significantly improves speaking oral production among high English achievers](peer-support-speaking-gain-high-achievers.md) — related

@@ -50,3 +50,4 @@ Authors' observational interpretation from the discussion section, not a tested 
 - [Creative drama instruction shows no statistically significant effect on retention of social studies knowledge five weeks after instruction](creative-drama-no-significant-retention-effect.md) — related
 - [During classroom observation, think-talk-write students appeared more enthusiastic and confident in mathematics than expository-taught students](ttw-classroom-observation-enthusiasm-confidence.md) — related
 - [The authors observed that CIRC students gained vocabulary, became more able to identify main ideas and references, and worked in an enjoyable, enthusiastic group climate](circ-observed-vocabulary-and-climate-gains.md) — related
+- [The author attributes the speaking gains to increased enthusiasm, openness and reduced boredom under integrative teaching](integrative-teaching-motivation-interpretation.md) — related

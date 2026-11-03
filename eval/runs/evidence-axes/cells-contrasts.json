@@ -66790,5 +66790,389 @@
  "simulation\tsimulation-based teaching\ttraditional blackboard teaching": {
   "label": "simulation-based instruction vs conventional instruction",
   "treatment_is_a": true
+ },
+ "active-learning\t7-day indoor and outdoor astronomy project with experiments, modeling, observations, and activities\tpre-project status with no astronomy instruction": {
+  "label": "Astronomy project-based active learning vs no-instruction baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tExperimenting and Discussing (ED)\tReading, Presenting, and Questioning (RPQ)": {
+  "label": "Experimenting and discussing vs reading, presenting, and questioning",
+  "treatment_is_a": true
+ },
+ "active-learning\tRPQ learning package\tpre-test": {
+  "label": "Reading, presenting, and questioning learning package vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tReading, Presenting, and Questioning (RPQ)\tpre-test baseline": {
+  "label": "Reading, presenting, and questioning learning package vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tastronomy activities with observations, measurements, modeling, and interviews\tstudents' earlier interviews before later project activities": {
+  "label": "Astronomy project activities vs pre-project baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tcomputer-assisted peer interaction in pairs\tworking individually": {
+  "label": "Computer-assisted peer interaction in pairs vs individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\texperimental group\tcontrol group": {
+  "label": "Active-learning intervention vs control condition",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom model\ttraditional teaching methods": {
+  "label": "Flipped classroom vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup discussion followed by oral presentations\tnot stated": {
+  "label": "Group discussion followed by oral presentation vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\timmersive multimedia learning with peer support\timmersive multimedia learning without peer support": {
+  "label": "Immersive multimedia learning with peer support vs without peer support",
+  "treatment_is_a": true
+ },
+ "active-learning\tproject-based flipped group translation and peer interaction\ttraditional lecture-centered instruction": {
+  "label": "Project-based flipped collaborative learning vs traditional lecture-centered instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tregular and extensive shared, guided and independent writing\tless or no shared, guided and independent writing": {
+  "label": "Extensive shared, guided, and independent writing vs less or no such writing",
+  "treatment_is_a": true
+ },
+ "active-learning\tsummative peer assessment of students’ research plans\talternative assessment procedures": {
+  "label": "Summative peer assessment vs alternative assessment procedures",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tBlueprint writing\tStandard process writing": {
+  "label": "Blueprint writing vs standard process writing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tBlueprint writing with conspicuous strategies and explicit instruction\tStandard process writing": {
+  "label": "Blueprint writing with explicit strategies vs standard process writing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tCDA instruction\ttraditional reading instruction": {
+  "label": "CDA reading instruction vs traditional reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tCDA reading instruction\ttraditional reading instruction": {
+  "label": "CDA reading instruction vs traditional reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tConventional method\tPre-test baseline": {
+  "label": "Conventional instruction vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tDiscovery learning\tConventional methods": {
+  "label": "Discovery learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExperimental LN+LS instruction\taverage growth": {
+  "label": "Experimental LN+LS instruction vs average growth",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPCR instruction in complaints and apologies\tpre-test before PCR instruction": {
+  "label": "Pragmatic consciousness-raising instruction vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTwelve-session pragmatic consciousness-raising classes\tPre-test before the classes": {
+  "label": "Pragmatic consciousness-raising instruction vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tblueprint writing with conspicuous strategies and explicit instruction\tstandard process writing": {
+  "label": "Blueprint writing with explicit strategies vs standard process writing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcognitive-semantic compound-noun instruction\tmorphosyntactic compound-noun instruction": {
+  "label": "Cognitive-semantic compound-noun instruction vs morphosyntactic compound-noun instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcognitive-semantic compound-noun instruction with circles-and-arrows\tmorphosyntactic compound-noun instruction": {
+  "label": "Cognitive-semantic compound-noun instruction vs morphosyntactic compound-noun instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcognitive-semantic instruction linking compound nouns to specialised terminology and graphical representations\tmorphosyntactic textbook-based instruction": {
+  "label": "Cognitive-semantic compound-noun instruction vs morphosyntactic compound-noun instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcognitive-semantic instruction on compound nouns\tmorphosyntactic textbook-based instruction": {
+  "label": "Cognitive-semantic compound-noun instruction vs morphosyntactic compound-noun instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcognitive-semantic instruction treating CNs as lexicalised terms\tmorphosyntactic grammar instruction": {
+  "label": "Cognitive-semantic compound-noun instruction vs morphosyntactic grammar instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcognitive-semantic instruction using circles-and-arrows representations for compound-noun word order\tmorphosyntactic instruction without the graphical representations": {
+  "label": "Cognitive-semantic compound-noun instruction with graphical representations vs morphosyntactic instruction without graphical representations",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcognitive-semantic instruction with circles-and-arrows representations\tmorphosyntactic instruction with CN errors marked in the margin": {
+  "label": "Cognitive-semantic compound-noun instruction with graphical representations vs morphosyntactic instruction with marked errors",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcognitive-semantic instruction with domain-based and graphical explanations\tmorphosyntactic textbook-based instruction": {
+  "label": "Cognitive-semantic compound-noun instruction vs morphosyntactic compound-noun instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcognitive-semantic instruction with graphical CN representations\tmorphosyntactic grammar instruction": {
+  "label": "Cognitive-semantic compound-noun instruction vs morphosyntactic grammar instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcombined verbal plus visual-spatial strategy instruction\tuntreated control": {
+  "label": "Verbal-plus-visual strategy instruction vs untreated control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcommunication strategy training\tpre-treatment baseline": {
+  "label": "Communication-strategy training vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcommunication strategy training\tregular language instruction": {
+  "label": "Communication-strategy training vs regular language instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcommunication-strategy training\texperimental-group pre-test": {
+  "label": "Communication-strategy training vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcommunication-strategy training\tregular language instruction": {
+  "label": "Communication-strategy training vs regular language instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tconventional grammar instruction\tpre-test baseline": {
+  "label": "Conventional grammar instruction vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tconventional instruction post-test\tconventional instruction pre-test": {
+  "label": "Conventional instruction vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcritical literature plus guided questionnaire reflection\tno critical literature and unguided written reflection": {
+  "label": "Critical literature plus guided reflection vs no critical literature and unguided reflection",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcritical literature plus guided reflection\tneither critical literature nor guided reflection": {
+  "label": "Critical literature plus guided reflection vs neither critical literature nor guided reflection",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcritical literature plus guided reflection on the linguistic activity\tneither critical literature nor guided reflection": {
+  "label": "Critical literature plus guided reflection vs neither critical literature nor guided reflection",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\teffective teaching seminar\tno seminar control": {
+  "label": "Effective teaching seminar vs no-seminar control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texperimental letter names plus sounds instruction\ttypical letter names plus sounds instruction": {
+  "label": "Experimental letter-names-plus-sounds instruction vs typical letter-names-plus-sounds instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit metalinguistic instruction directing attention to L1–L2 differences\t?": {
+  "label": "Explicit metalinguistic instruction vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tletter names only\tletter names plus sounds conditions": {
+  "label": "Letter-names-plus-sounds instruction vs letter-names-only instruction",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tletter sounds only\tletter names plus sounds conditions": {
+  "label": "Letter-names-plus-sounds instruction vs letter-sounds-only instruction",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tregular language instruction\tcontrol-group pre-test": {
+  "label": "Regular language instruction vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix-class-hour remedial training\tpre-test": {
+  "label": "Remedial training vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix-class-hour remedial training in pitch patterns\tpre-training baseline": {
+  "label": "Remedial pitch-pattern training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix-class-hour remedial training with explicit pitch-pattern drills\tpre-test before remedial training": {
+  "label": "Explicit remedial pitch-pattern training vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix-class-hour remedial training with explicit written and oral pitch-pattern drills\tpre-test before remedial training": {
+  "label": "Explicit written-and-oral pitch-pattern training vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstrategy-instruction conditions\tother randomized conditions": {
+  "label": "Strategy instruction vs other randomized conditions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttwelve-session pragmatic consciousness-raising classes\tpre-test before the PCR classes": {
+  "label": "Pragmatic consciousness-raising instruction vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttwelve-session pragmatic consciousness-raising classes with explicit instruction, L1/L2 comparison, and interview project\tpre-test before PCR instruction": {
+  "label": "Explicit pragmatic consciousness-raising instruction with L1/L2 comparison and interview project vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tverbal plus visual strategy instruction\tmaterials-only curriculum": {
+  "label": "Verbal-plus-visual strategy instruction vs materials-only curriculum",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tverbal plus visual strategy instruction\tuntreated control": {
+  "label": "Verbal-plus-visual strategy instruction vs untreated control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tverbal strategy instruction\tuntreated control": {
+  "label": "Verbal strategy instruction vs untreated control",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tVSM, performance feedback, reflection, and mentoring\tVSM, performance feedback, and reflection without mentoring": {
+  "label": "mentoring with feedback-based training vs feedback-based training without mentoring",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tlanguage items targeted in interactional feedback\tnot reported": {
+  "label": "targeted feedback vs feedback targeting not reported",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tlanguage targeted in interactional feedback\tlanguage not targeted in interactional feedback": {
+  "label": "targeted feedback vs non-targeted feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tlinguistic items targeted in interactional feedback\tnot reported": {
+  "label": "targeted feedback vs feedback targeting not reported",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tprior VSM, performance feedback, reflection, and mentoring training\tprior VSM, performance feedback, and reflection training without mentoring": {
+  "label": "mentoring with feedback-based training vs feedback-based training without mentoring",
+  "treatment_is_a": true
+ },
+ "feedback-type\tinclusive-setting academic feedback and corrective guidance\tsegregated-setting behavior-management and compliance feedback": {
+  "label": "academic/corrective feedback vs behavior-management/compliance feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmeaning negotiation\trecasts and explicit corrections": {
+  "label": "meaning negotiation vs recasts/explicit corrections",
+  "treatment_is_a": true
+ },
+ "feedback-type\tnegative feedback with opportunity to modify output\tnot stated": {
+  "label": "negative feedback with opportunity to modify output vs not stated",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tregular and systematic formative assessment of writing\tless or no formative assessment of writing": {
+  "label": "more formative assessment vs less or no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\trubrics supporting peer feedback\tpeer feedback without rubrics": {
+  "label": "rubric-supported peer feedback vs peer feedback without rubrics",
+  "treatment_is_a": true
+ },
+ "gamification\tGeneralisation Assessment Game (GAG)\tpre-test before GAG": {
+  "label": "Game-based assessment vs pre-test",
+  "treatment_is_a": true
+ },
+ "gamification\tGeneralisation Assessment Game (GAG)\tregular English Language instruction without GAG": {
+  "label": "Gamified English instruction vs non-gamified English instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tGeneralisation Assessment Game (GAG) in English class\tEnglish class without GAG": {
+  "label": "Gamified English instruction vs non-gamified English instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tGeneralisation Assessment Game (GAG) with critical appraisal of religious generalisations\tEnglish-language instruction without GAG": {
+  "label": "Gamified critical-appraisal instruction vs non-gamified English instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tDiscovery learning\tconventional methods": {
+  "label": "guided discovery vs conventional methods",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tDiscovery learning given to the control group\tpost-test before treatment": {
+  "label": "guided discovery vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tDiscovery learning grammar instruction\tpre-test baseline": {
+  "label": "guided discovery grammar instruction vs pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tdiscovery learning\tconventional methods": {
+  "label": "guided discovery vs conventional methods",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tdiscovery learning post-test\tdiscovery learning pre-test": {
+  "label": "post-test vs pre-test within guided discovery",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tdiscovery learning treatment post-test\tcontrol-group post-test before treatment": {
+  "label": "guided-discovery treatment post-test vs control-group pre-treatment baseline",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation with narration\tanimation with on-screen text": {
+  "label": "animation with narration vs animation with on-screen text",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation with narration\tlecture method": {
+  "label": "animation with narration vs lecture method",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation with on-screen text\tlecture method": {
+  "label": "animation with on-screen text vs lecture method",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation with on-screen text (AT)\tanimation with narration (AN)": {
+  "label": "animation with narration vs animation with on-screen text",
+  "treatment_is_a": false
+ },
+ "media-design\tcognitive-semantic graphical circles-and-arrows explanation of CN word order\tmorphosyntactic explanation without the graphical heuristic": {
+  "label": "cognitive-semantic graphical heuristic explanation vs non-graphical morphosyntactic explanation",
+  "treatment_is_a": true
+ },
+ "other\t12-session Pragmatic Consciousness-Raising approach\tpre-test before PCR instruction": {
+  "label": "Pragmatic consciousness-raising instruction vs pretest/baseline",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore opportunities to produce output\tfewer opportunities to produce output": {
+  "label": "more practice opportunities vs fewer practice opportunities",
+  "treatment_is_a": true
+ },
+ "prompts\tguided questionnaire reflection after the activity\tunguided written reflection after the activity": {
+  "label": "guided vs unguided reflection prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tguided reflection using specific questions after the activity\tunguided written reflection": {
+  "label": "guided vs unguided reflection prompts",
+  "treatment_is_a": true
+ },
+ "scaffolding\tgraded readers with scaffolded silent reading\tcontrol class receiving regular instruction": {
+  "label": "scaffolded silent reading vs regular instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tgraded readers with scaffolded silent reading\tcontrol class without graded-reader ScSR": {
+  "label": "scaffolded silent reading vs regular instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tgraded readers with scaffolded silent reading\tregular ESL reading and writing instruction": {
+  "label": "scaffolded silent reading vs regular instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tgraded readers with scaffolded silent reading\tregular instruction without the graded-reader intervention": {
+  "label": "scaffolded silent reading vs regular instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tgraded readers with scaffolded silent reading\tusual instruction control group": {
+  "label": "scaffolded silent reading vs regular instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tgraded readers with scaffolded silent reading and learner choice\tparticipants' attitudes at the beginning of the study": {
+  "label": "scaffolded silent reading vs beginning-of-study baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tgraded readers with teacher conferencing, reading logs, and journals\tcontrol class without the scaffolded silent-reading project": {
+  "label": "scaffolded silent reading vs regular instruction",
+  "treatment_is_a": true
+ },
+ "test-format\tcomputer-based achievement test\tpaper-based achievement test": {
+  "label": "computer-based test vs paper-based test",
+  "treatment_is_a": true
+ },
+ "test-format\tcomputer-based test\tpaper-based test": {
+  "label": "computer-based test vs paper-based test",
+  "treatment_is_a": true
  }
 }

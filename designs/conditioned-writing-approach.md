@@ -20,7 +20,7 @@ sources:
 > **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
-Conditioned writing is an approach to teaching Chinese essay writing, developed by Chen in Taiwan, that differs from guided writing by explaining questions through both directions and conditions for instruction. Chou (2005) explains that it "provides explicit instructions to the students for composing a Chinese essay" and focuses on specific writing skills requiring students to respond accordingly. By combining sample reading and writing, it aims to develop writing abilities progressively from phrases to sentences and from paragraphs to the entire essay. This study embedded it in question sets within the CWB online system, drawing on the cognitive process theory of writing (Flower & Hayes, 1981) across planning, translating, reviewing, and monitoring.
+Conditioned writing is an approach to teaching Chinese essay writing, developed by Chen in Taiwan, that differs from guided writing by explaining questions through both directions and conditions for instruction. Chou (2005) explains that it "provides explicit instructions to the students for composing a Chinese essay" and focuses on specific writing skills requiring students to respond accordingly. By combining sample reading and writing, it aims to develop writing abilities progressively from phrases to sentences and from paragraphs to the entire essay. This study embedded it in question sets within the CWB online system, drawing on the cognitive process theory of writing ([Flower & Hayes, 1981](https://doi.org/10.2307/356600)) across planning, translating, reviewing, and monitoring.
 
 ## Design Implications
 

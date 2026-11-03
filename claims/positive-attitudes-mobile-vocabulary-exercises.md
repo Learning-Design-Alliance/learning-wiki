@@ -49,3 +49,4 @@ Post-study questionnaire with ten Likert-scale items completed by the 40 experim
 - [Students expressed highly positive feedback toward the game-based learning approach across knowledge, attitude, habit, and viewpoint aspects](positive-student-feedback-game-based-nutrition.md) — related
 - [Students rated the application positively on a semantic differential scale, but finding time to use it and doing exercises were scored easy with a bias toward hard](semantic-differential-attitudes-english-app.md) — related
 - [University students held positive attitudes toward GAI in DST creation but expressed moderate concern about over-reliance and low concern about reduced social interaction](student-perceptions-gai-dst-mixed-attitudes.md) — related
+- [Students held positive attitudes toward the use of PowerPoint in vocabulary lessons](positive-student-attitudes-ppt-vocabulary.md) — related

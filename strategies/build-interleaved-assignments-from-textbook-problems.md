@@ -52,6 +52,7 @@ Because the greatest barrier to implementation is the scarcity of interleaved as
 
 - [Include a small block of problems of a new skill at the start of an assignment, then interleave the rest](small-initial-block-then-interleave.md)
 - [Rearrange existing practice problems into interleaved assignments rather than writing new materials](rearrange-problems-for-interleaved-practice.md)
+- [Adapt textbook exercises into open-ended, realistic word problems with higher-level reasoning questions](adapt-textbook-tasks-to-realistic-problems.md)
 
 ## Examples
 -

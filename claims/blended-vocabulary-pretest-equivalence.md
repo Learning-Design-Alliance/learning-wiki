@@ -59,3 +59,4 @@ Independent-samples t-test on pre-test scores of the same 40-learner randomized 
 - [Experimental and control groups were equivalent in vocabulary knowledge before the intervention](pretest-equivalence-authentic-games-study.md) — possibly the same claim (merge candidate)
 - [The treatment and control groups had equivalent vocabulary sizes at pre-test](equivalent-vocabulary-sizes-at-pretest.md) — possibly the same claim (merge candidate)
 - [Before the treatment, the experimental and control groups showed no statistically significant difference in conceptual fluency on the idiom pre-test](pretest-equivalence-idiom-groups.md) — related
+- [Experimental and control groups showed no significant difference in pre-test vocabulary scores, supporting group equivalence at baseline](youtube-study-pretest-equivalence.md) — possibly the same claim (merge candidate)

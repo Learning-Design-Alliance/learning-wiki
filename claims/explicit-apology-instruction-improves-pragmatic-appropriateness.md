@@ -70,3 +70,4 @@ Independent-samples t-tests comparing post-test DCT scores between experimental 
 - [Proficiency level (intermediate vs advanced) did not significantly influence reading or strategy gains in either language](proficiency-level-did-not-moderate-strategy-instruction-gains.md) — related
 - [Iranian translation students are not successful in comprehending interlanguage pragmatic features prior to instruction](translation-students-lack-ilp-comprehension.md) — a narrower finding that bears on this claim
 - [Explicit instruction of refusals significantly improves Iranian EFL learners' pragmatic performance of refusals](explicit-refusal-instruction-improves-pragmatic-performance.md) — related
+- [Explicit comparison of L1 and L2 complaints and apologies through the interview project was followed by more appropriate strategies in the posttest](l1-l2-comparison-improves-strategy-use.md) — related

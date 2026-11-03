@@ -56,3 +56,4 @@ Randomized trial of 57 kindergarteners (Flex n = 29, Plain n = 28). The treatmen
 - [In a rural district's flexible scheduling program, students used only 19 percent of daily flex-time for academic activities](flex-time-low-academic-use-rural-district.md) — related
 - [During COVID, a third-grade volume-of-reading strategy showed greater reading growth than a control group without the strategy](covid-volume-reading-growth-over-control.md) — related
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — related
+- [Child engagement during alphabet instruction was high in all four treatments](high-engagement-all-treatments.md) — related

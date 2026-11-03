@@ -49,3 +49,4 @@ Author's stated limitation and interpretation, not a tested result: the favorabl
 - [Korean simulation-based IPE studies report high satisfaction but concentrate on Kirkpatrick levels 1 and 2, with no study measuring level 4 training efficacy](korean-sim-ipe-kirkpatrick-levels-1-2-only.md) — related
 - [80% of students did not agree to integrate multimedia-based vocabulary instruction into their curriculum despite its reported effectiveness](multimedia-curriculum-integration-rejected.md) — related
 - [Chinese college EFL learners held strongly favorable attitudes toward a multimedia vocabulary application, with more than 80% reacting positively](multimedia-vocabulary-app-favorable-attitudes.md) — related
+- [The article reports that the REACT strategy affects learners' learning motivation and attitudes and contributes to a more positive learning environment](react-affects-motivation-attitudes.md) — related

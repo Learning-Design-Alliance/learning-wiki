@@ -47,6 +47,7 @@ Because implementing PBL proved difficult in this study, the authors recommend p
 
 - [Recommendation: evaluate PBL effectiveness through multicenter primary studies comparing educational centers, cultures, and psychological adaptation factors](multicenter-pbl-research-recommendation.md)
 - [Implement problem-based learning through four stages, adapted for primary children with songs and storytelling](pbl-four-stages-songs-storytelling.md)
+- [Use problem-based learning as an additional mathematics teaching strategy to overcome the male image of mathematics](pbl-to-overcome-male-image-of-mathematics.md)
 
 ## Examples
 -

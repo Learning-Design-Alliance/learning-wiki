@@ -42,6 +42,7 @@ The article proposes a staged methodology in which the role of multimedia expand
 ## Related Designs
 
 - [Escalating role of multimedia across teacher-training stages](escalating-multimedia-role-across-stages.md)
+- [Eight-stage methodology for developing and validating e-teaching materials, from goal setting through correction to efficiency checking](eight-stage-e-teaching-materials-development-methodology.md)
 
 ## Examples
 -

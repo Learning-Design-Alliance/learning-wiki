@@ -42,7 +42,8 @@ The article develops a methodological system of blended learning in computer sci
 - [Roadmap Blended Learning Improves Diagnostic Group Results](../claims/roadmap-blended-learning-improves-diagnostic-group-results.md) [+M]
 
 ## Related Designs
-- 
+
+- [Eight-stage methodology for developing and validating e-teaching materials, from goal setting through correction to efficiency checking](eight-stage-e-teaching-materials-development-methodology.md)
 
 ## Examples
 -
