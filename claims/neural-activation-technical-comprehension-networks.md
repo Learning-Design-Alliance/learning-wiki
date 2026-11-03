@@ -68,3 +68,4 @@ The same voxelwise correlation analysis found that "greater activation w as asso
 - [Text deep cohesion relates to passage comprehensibility indirectly via activation in semantic integration regions](deep-cohesion-activation-mediation.md) — related
 - [Activation in four stepwise-selected brain regions predicts individual participants' technical comprehension, generalizing across independent reading presentations](four-roi-activation-predicts-individual-comprehension.md) — a narrower finding that bears on this claim
 - [Activation changes non-monotonically over three readings of technical passages, consistent with a shift from semantic to executive processing](repetition-activation-inverted-u.md) — related
+- [Only the L1 discussion group showed higher-order processing such as comprehension monitoring, autobiographical connections, and questioning textual reliability](l1-discussion-higher-order-processing.md) — related

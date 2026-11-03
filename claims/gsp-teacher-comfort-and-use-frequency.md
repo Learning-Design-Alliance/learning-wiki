@@ -48,3 +48,4 @@ Self-report DGIQ administered six times across the school year to the experiment
 ## Related Claims
 - [Most surveyed US K-12 teachers reported knowledge, comfort, and confidence for online teaching during early COVID-19, but only 19% preferred online teaching to classroom teaching](k12-teachers-covid-self-efficacy-online-teaching.md) — related
 - [Student perceptions were mixed or negative on learning graph functions in greater depth and on increased problem-solving confidence with Geometer's Sketchpad](gsp-perception-depth-confidence-mixed.md) — related
+- [Pupils felt comfortable carrying out discussion tasks in the 3D virtual environment and did not prefer to carry them out face-to-face, despite technological problems with sound](tila-opensim-comfort-despite-sound-problems.md) — related

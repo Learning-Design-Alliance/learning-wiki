@@ -55,3 +55,4 @@ Test successfulness histogram for the 2010 control and experimental groups (Fig.
 - [CPS sections showed larger pre-posttest gains than the control group despite lower pretest preparedness](cps-larger-preposttest-gains.md) — related
 - [Experimental class shows higher average SPS observation percentages across all three meetings](experimental-class-higher-sps-observation-across-meetings.md) — related
 - [Experimental groups' post-test mean scores far exceeded control groups' across all three school categories](pbl-post-test-means-exceed-control.md) — related
+- [Cooperative learning benefits higher-achieving students more on competency tests](cooperative-learning-benefits-higher-achievers.md) — related

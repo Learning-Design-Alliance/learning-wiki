@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 175 claims (82 for, 74 mixed, 19 against) · 95 studies (33 review, 20 causal, 16 quant-synthesis, 11 design, 10 qualitative, 4 theoretical, 1 associational), `q1`–`q4` · 19 of 95 report an effect size · 170 claims rest on one study
+> **Evidence** · 176 claims (83 for, 74 mixed, 19 against) · 96 studies (33 review, 21 causal, 16 quant-synthesis, 11 design, 10 qualitative, 4 theoretical, 1 associational), `q1`–`q4` · 19 of 96 report an effect size · 171 claims rest on one study
 
 ## Description and scope
 
@@ -209,6 +209,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Role-play training shows no significant difference between groups in theoretical examination scores](../claims/role-play-no-significant-theory-exam-difference.md) [~W]
 - [Second Life role-play yields higher multicultural acceptance and cultural enrichment than face-to-face role-play](../claims/sl-higher-multicultural-acceptance.md) [~W]
 - [Participants raised three concerns about the PCR class: low confidence to use learned expressions in real communication, insufficient grammar development, and doubts about roleplay tests](../claims/pcr-participant-concerns-three-aspects.md) [-W]
+- [Alternating simulation scenarios with bedside teaching lets students practice less harmful examinations on real patients and invasive or rejected items on simulators, ensuring patient safety](../claims/alternating-simulation-bedside-patient-safety.md) [+W]
 
 ## Examples
 

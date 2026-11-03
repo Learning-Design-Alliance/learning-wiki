@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 253 claims (143 for, 93 mixed, 17 against) · 161 studies (77 review, 38 quant-synthesis, 27 causal, 8 design, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 30 of 161 report an effect size · 243 claims rest on one study
+> **Evidence** · 255 claims (144 for, 93 mixed, 18 against) · 162 studies (77 review, 38 quant-synthesis, 28 causal, 8 design, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 30 of 162 report an effect size · 245 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -308,6 +308,8 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Students learning with PhET simulation reported slightly higher motivation than the PowerPoint control group on computer-attitude and self-determination aspects](../claims/phet-solar-system-motivation-gain.md) [+W] — attached 2026-11-02 from Prima et al. (2018), which proposed "PhET 'Gravity and Orbits' simulation as Solar System teaching media".
 - [The understanding (C2) cognitive domain showed the smallest but still favorable gain favoring PhET, with experimental N-gain 0.49 versus control 0.31](../claims/phet-cognitive-domain-c2-gain.md) [+W]
 - [Simulation exposure produced no detectable change in clinical trials career interest](../claims/vct-no-career-interest-change.md) [~W]
+- [Alternating simulation scenarios with bedside teaching lets students practice less harmful examinations on real patients and invasive or rejected items on simulators, ensuring patient safety](../claims/alternating-simulation-bedside-patient-safety.md) [+W]
+- [Integrated simulation-and-clinical-practice teaching produced no statistically significant difference in clinical basic skills or theory exam scores compared with traditional teaching](../claims/integrated-simulation-clinical-practice-no-score-difference.md) [-W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

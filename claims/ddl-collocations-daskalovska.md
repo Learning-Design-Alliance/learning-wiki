@@ -54,3 +54,4 @@ The review reports this single comparison study of 46 first-year students in Mac
 - [Corpus-tool instruction significantly improves EFL student teachers' production of verb-noun collocations in writing, with a medium-to-large effect](corpus-tools-improve-collocation-production-writing.md) — related
 - [DDL effects are consistent under specific conditions: limited native-speaker instructors, higher-level learners, both computer- and paper-based concordancing, and vocabulary/lexicogrammar uses](ddl-effective-conditions.md) — related
 - [Corpus-based DDL shows large effects on L2 learning outcomes in meta-analytic evidence](ddl-meta-analysis-large-effects.md) — related
+- [Teaching semantic prosody of English verbs through the DDL approach significantly improves EFL learners' vocabulary choice appropriateness compared with traditional instruction](ddl-semantic-prosody-improves-vocabulary-choice.md) — related

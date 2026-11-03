@@ -52,3 +52,4 @@ The article reports the Boulton & Cobb (2017) meta-analysis, the first on corpus
 - [Corpus-based collocation findings align with prior concordancing and data-driven learning studies](corpus-collocation-findings-consistent-with-prior-ddl-research.md) — related
 - [Corpus-based instruction using COCA concordance lines improved EFL students' verb-noun collocation recognition more than traditional instruction](corpus-based-activities-improve-verb-noun-collocation-learning.md) — related
 - [Corpus-tool instruction significantly improves EFL student teachers' production of verb-noun collocations in writing, with a medium-to-large effect](corpus-tools-improve-collocation-production-writing.md) — related
+- [Some DDL-treated learners outperformed native English speakers on the vocabulary choice appropriateness posttest](ddl-learners-surpass-native-speaker-judgments.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ Multi-method implementation fidelity evaluation using observations, structured i
 - [Both interventions were implemented with high fidelity, good program coverage, high attendance, and low attrition](tier2-interventions-high-fidelity-implementation.md) — related
 - [The 93-hour PD was implemented with high fidelity, and treatment teachers received 95 more hours of math-related PD than controls](pd-implemented-with-high-fidelity-95-hour-contrast.md) — related
 - [By the end of Year 3, more than 75% of centers implemented each ECE PDI component with fidelity, meeting the overall program fidelity benchmark](ece-pdi-met-fidelity-benchmark-year-3.md) — related
+- [Technology access was the only RMEP core component that did not meet performance standards](rmep-technology-access-fidelity-gap.md) — a narrower finding that bears on this claim

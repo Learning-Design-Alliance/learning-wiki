@@ -60,3 +60,4 @@ Affective sub-theme of the multimedia-group interview analysis: "'motivating tow
 - [Students in the Twitter-supported blended course reported positive attitudes at the technological, individual, and community levels of activity theory](twitter-attitudes-three-activity-theory-levels.md) — related
 - [Students show deficiencies in improving school performance, group work, problem solving and communication in learning activities with ICT, despite positive attitudes toward technology.](escuela2-students-deficiencies-higher-order.md) — related
 - [Students formed positive views and attitudes toward teaching with tablets](students-positive-attitudes-tablets-ar-lessons.md) — related
+- [Intermediate EFL students hold positive attitudes toward e-portfolio use across awareness, work/activity, and pros and cons](ep-positive-student-attitudes.md) — related

@@ -49,3 +49,4 @@ Meta-analysis of 23 single-subject design studies (78 participants, 140 observed
 - [PND outcomes were not significantly affected by participant characteristics, device types/functions, intervention strategies, or target skill types](pnd-not-moderated-by-characteristics-device-strategy-skill.md) — related
 - [Conducting maintenance and generalization phases was significantly associated with higher PND scores than treatment-only cases](maintenance-generalization-phases-associated-with-pnd.md) — related
 - [Employment of a mastery criterion was positively associated with PND scores (τ = .168, p = .023)](mastery-criterion-positive-association-pnd.md) — related
+- [Computer-based instruction and prompting strategies may help students with intellectual disabilities live more independently by increasing functional skills](computer-instruction-prompting-independent-living-hypothesis.md) — related

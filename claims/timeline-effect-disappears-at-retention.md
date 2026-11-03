@@ -79,3 +79,4 @@ Paired-samples t-tests per condition in the same experiment: Visual and Timeline
 - [Representational scripting produced no individual learning gains: overall post-test scores did not exceed pre-test scores](no-individual-learning-gains.md) — related
 - [Critical thinking disposition gains from one- or two-semester interventions are not sustained at two years](ct-gains-not-sustained-two-years.md) — related
 - [No significant difference between the experimental group's post-test and its 21-day retention test scores](poster-group-posttest-retention-no-difference.md) — related
+- [Low-proficiency children showed a significant drop in picture identification scores from the third to the fourth session](low-proficiency-fourth-session-drop.md) — related

@@ -38,7 +38,7 @@ sources:
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 62 claims (39 for, 18 mixed, 5 against) · 55 studies (17 causal, 11 review, 10 qualitative, 8 quant-synthesis, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 8 of 55 report an effect size · 56 claims rest on one study
+> **Evidence** · 64 claims (41 for, 18 mixed, 5 against) · 57 studies (18 causal, 11 review, 10 qualitative, 8 quant-synthesis, 4 design, 3 associational, 3 theoretical), `q1`–`q4` · 8 of 57 report an effect size · 58 claims rest on one study
 
 ## Description and scope
 
@@ -188,6 +188,8 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [Coaching produced no additional experimental gains on teacher self-reported efficacy or stress, and no significant pre-post ODR changes appeared in the full sample](../claims/no-coaching-effect-on-teacher-self-reports.md) [-W]
 - [CON-ELM teachers changed significantly more than ELM-ELM teachers for three of four teaching practices](../claims/con-elm-greater-change-than-elm-elm.md) [+W]
 - [SEED PD increased the minutes students spent writing per week](../claims/seed-pd-increased-student-writing-time.md) [+W]
+- [Treatment teachers received more class observations and feedback from mentors than control teachers](../claims/cti-more-mentor-observations-feedback.md) [+W]
+- [Past trials of MTP web-mediated coaching yielded moderate to large improvements in teacher implementation and teaching practices](../claims/mtp-past-trial-improvements.md) [+W]
 
 ## Related Patterns
 

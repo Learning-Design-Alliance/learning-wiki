@@ -54,3 +54,4 @@ Survey distributions of comfort with role assignment options. ND students felt m
 - [Neurodivergent students' comfort is highest for fully structured assignments and lowest for assignments with no structure](nd-comfort-highest-fully-structured-assignments.md) — related
 - [Neurodivergent students prefer teams of 3–5 students while neurotypical students most prefer teams of 2](nd-prefer-teams-of-3-to-5-nt-prefer-pairs.md) — related
 - [50% of neurodivergent students report some discomfort with semester-long teams compared to 22% of neurotypical students](nd-semester-long-team-discomfort.md) — related
+- [Pupils felt comfortable carrying out discussion tasks in the 3D virtual environment and did not prefer to carry them out face-to-face, despite technological problems with sound](tila-opensim-comfort-despite-sound-problems.md) — related

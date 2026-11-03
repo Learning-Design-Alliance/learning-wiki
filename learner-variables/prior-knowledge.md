@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 234 claims (132 show a difference, 68 mixed, 34 no difference) · 188 studies (72 causal, 34 review, 28 associational, 23 theoretical, 11 quant-synthesis, 11 design, 9 qualitative), `q1`–`q4` · 33 of 188 report an effect size · 217 claims rest on one study
+> **Evidence** · 235 claims (133 show a difference, 68 mixed, 34 no difference) · 189 studies (73 causal, 34 review, 28 associational, 23 theoretical, 11 quant-synthesis, 11 design, 9 qualitative), `q1`–`q4` · 33 of 189 report an effect size · 218 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -282,6 +282,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [No significant difference was found between the number of prior networking classes taken and perceived benefits of the CbMW.](../claims/prior-classes-no-significant-difference.md) [-M] — learners who differ on it differ in outcomes
 - [Prior knowledge does not significantly influence treatment-dependent learning achievement](../claims/prior-knowledge-no-treatment-influence.md) [-W] — learners who differ on it differ in outcomes
 - [Students with high prior scientific reasoning skills achieve significantly better biology comprehension than students with low prior reasoning skills](../claims/high-prior-reasoning-better-biology-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Pretest computation score was a large predictor of posttest computation competence, indicating high continuity in performance](../claims/pretest-score-large-predictor-posttest.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

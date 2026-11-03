@@ -31,7 +31,7 @@ sources:
 # Mentoring and Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 78 claims (38 for, 33 mixed, 7 against) · 60 studies (16 causal, 14 review, 10 associational, 9 qualitative, 5 quant-synthesis, 4 design, 2 theoretical), `q1`–`q4` · 7 of 60 report an effect size · 74 claims rest on one study
+> **Evidence** · 81 claims (41 for, 33 mixed, 7 against) · 62 studies (17 causal, 14 review, 11 associational, 9 qualitative, 5 quant-synthesis, 4 design, 2 theoretical), `q1`–`q4` · 7 of 62 report an effect size · 77 claims rest on one study
 
 ## Conditional relationship
 
@@ -185,6 +185,9 @@ Observed practice, the coached person's students' achievement, persistence, comp
 - [Manual group participants reached levels similar to the hands-on group after receiving hands-on supervision](../claims/manual-group-catches-up-with-hands-on-supervision.md) [+W]
 - [SL placement duration and mentor preparation moderate the effectiveness of SL experiences](../claims/sl-duration-and-mentor-moderators.md) [~W]
 - [A truncated three-month pilot of the Cities Mentor Project with 17 intervention and 18 control youth indicates the intervention is feasible, usable, and appreciated by participants.](../claims/cities-mentor-pilot-feasible-usable.md) [+W]
+- [Treatment teachers received more class observations and feedback from mentors than control teachers](../claims/cti-more-mentor-observations-feedback.md) [+W]
+- [Treatment teachers received significantly more intensive mentoring activities than control teachers](../claims/cti-treatment-more-intensive-mentoring.md) [+W]
+- [Past trials of MTP web-mediated coaching yielded moderate to large improvements in teacher implementation and teaching practices](../claims/mtp-past-trial-improvements.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — coaching often operates through contingent support and gradual release.

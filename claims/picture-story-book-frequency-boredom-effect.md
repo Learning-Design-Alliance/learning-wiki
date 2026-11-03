@@ -48,3 +48,4 @@ Observational and interview data from the treatment meetings. Students said they
 - [Receptive word comprehension improved for both dictionary and non-dictionary words, with no receptive-level difference between the two word types](receptive-learning-occurs-without-dictionary-support.md) — related
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](ai-effect-duration-one-to-two-months-peak.md) — related
 - [Students held strongly positive perceptions of picture story books in reading class](positive-student-perceptions-picture-story-books.md) — reports the opposite
+- [Students preferred short SMS exercises answerable immediately without reference materials](sms-short-immediate-exercises-preferred.md) — related

@@ -73,3 +73,8 @@ Quasi-experiment with two intact classes (32 experimental, 30 control students w
 - [Integrating ten mobile phone TEFL-oriented features into the EFL classroom did not produce a statistically significant difference in foundation-year students' general English achievement, though post-test means favored the experimental group](mobile-phone-features-no-significant-achievement-gain.md) — related
 - [EFL students using Web 2.0 learner-created content scored significantly higher on a vocabulary post-test than a lecture-based control group](web2-learner-content-vocabulary-posttest-gain.md) — related
 - [Mobile voice-based WhatsApp chat use produces greater speaking proficiency gains than traditional instruction alone in B1 ESL learners](whatsapp-voice-chat-improves-speaking-proficiency.md) — related
+- [Assimilating and Diverging learners significantly outperform Converging and Accommodating learners on course achievement when learning via mobile Facebook](assimilating-diverging-outperform-converging-accommodating-mobile-facebook-achievement.md) — related
+- [Experimental groups outperformed control groups on post-experiment test by 6.45%](culture-activities-posttest-gain-6-45-percent.md) — related
+- [SMS methodology is reported to enhance retrieval of memorized English language rules](sms-enhances-retrieval-memorized-rules.md) — related
+- [The SMS experimental group outperformed the control group on the post-test](sms-group-outperformed-control-post-test.md) — related
+- [Students preferred short SMS exercises answerable immediately without reference materials](sms-short-immediate-exercises-preferred.md) — related

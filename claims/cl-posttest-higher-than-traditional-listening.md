@@ -54,3 +54,5 @@ Independent-samples t-test on posttest scores of two intact classes (CG N=53, me
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [Formative evaluation raised adult ESL learners' achievement scores over one semester while traditional teaching produced no noticeable change](formative-evaluation-raises-adult-esl-achievement.md) — related
 - [Peer cooperative self-access listening materials adaptation improves EFL learners' listening comprehension performance more than teacher-selected materials](cooperative-materials-adaptation-improves-listening-comprehension.md) — related
+- [Cooperative learning improves course exam achievement more than lecture teaching in college Comprehensive English classes](cooperative-learning-improves-course-exam-achievement-college.md) — related
+- [Cooperative learning does not significantly improve overall English competency test scores compared with lecture teaching](cooperative-learning-no-competency-gain.md) — related

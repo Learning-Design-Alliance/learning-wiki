@@ -54,3 +54,4 @@ Independent samples t-test on post-test accuracy (percentage of error-free claus
 - [PowerPoint-enhanced teaching (visual input) produced significantly better listening comprehension post-test scores than traditional teaching for Iranian intermediate EFL learners](powerpoint-visual-input-improves-efl-listening-comprehension.md) — related
 - [Meaning-focused listening input significantly enhances productive vocabulary size of Iranian intermediate EFL learners compared with traditional instruction](meaning-focused-listening-input-productive-vocabulary-gains.md) — related
 - [Experimental group showed greater accuracy in discourse analysis](sct-tblt-accuracy-advantage.md) — related
+- [Audio-only listening test group outperformed video-only group on overall listening comprehension scores](audio-outperforms-video-efl-listening-test.md) — reports the opposite

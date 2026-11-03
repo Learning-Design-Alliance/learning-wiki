@@ -71,3 +71,4 @@ Independent-samples t-test on pre-test essay scores of both groups (N = 25 each)
 - [Active learning students outperformed traditional-instruction students on each of the 14 individual writing and research skills, with an average 10.5-point higher score](active-learning-gains-fourteen-individual-skills.md) — related
 - [ABSI activity-report writing scores were significantly higher for the multi-modal treatment group than the ABSI-only comparison group](absi-multimodal-higher-writing-scores.md) — related
 - [Facebook-based learning significantly enhances creativity in writing among Islamic Studies students compared to control group](facebook-based-learning-enhances-creativity-writing-islamic-studies.md) — related
+- [Teacher scaffolding within a writing process approach significantly improved EFL students' self-reported writing skills from pre-test to post-test.](scaffolding-writing-process-improves-efl-writing.md) — related

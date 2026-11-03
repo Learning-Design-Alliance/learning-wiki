@@ -27,7 +27,7 @@ sources:
 # Journaling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (12 for, 7 mixed, 1 against) · 26 studies (10 causal, 10 quant-synthesis, 3 review, 2 theoretical, 1 associational), `q1`–`q4` · 11 of 26 report an effect size · 13 claims rest on one study
+> **Evidence** · 25 claims (16 for, 8 mixed, 1 against) · 27 studies (11 causal, 10 quant-synthesis, 3 review, 2 theoretical, 1 associational), `q1`–`q4` · 11 of 27 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +127,9 @@ Claims this page cited before it was rewritten, and other claims bearing on jour
 - [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](../claims/dialogue-journals-meet-sla-conditions.md) [+W] — a theoretical argument with no data; used in the second-language row.
 - [Expressive Writing Improves Health Outcomes](../claims/expressive-writing-improves-health-outcomes.md) [~M] and [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](../claims/expressive-writing-improves-exam-performance.md) [~M] — emotional disclosure writing: a very small average effect on health across 146 randomized studies, and a medium effect on exam scores for test-anxious ninth graders that a later meta-analysis did not support as general. They bear on affective journals, not on learning content.
 - [Lower achieving students who wrote weekly reflective diaries during software design achieved overall course scores statistically comparable to higher achieving students who did not.](../claims/reflective-diary-comparable-overall-scores.md) [+W] — attached 2026-11-03 from Hsieh et al. (2012), which proposed "Reflective thinking via weekly weblogs can aid lower achieving students to reach learning performance comparable with higher achieving students in a software design course."; tests this page's relationship.
+- [Teacher-feedback collaborative journaling produced the highest posttest self-efficacy, significantly outperforming no-feedback and no-journal conditions](../claims/teacher-feedback-journaling-highest-self-efficacy.md) [+W] — attached 2026-11-03 from Baleghizadeh et al. (2014), which proposed "Use collaborative reflective journals with teacher or peer feedback to build EFL learners' self-efficacy".
+- [Peer-feedback collaborative journaling significantly outperformed no-feedback and no-journal conditions on self-efficacy](../claims/peer-feedback-journaling-beats-no-feedback-control.md) [+W] — attached 2026-11-03 from Baleghizadeh et al. (2014), which proposed "Use collaborative reflective journals with teacher or peer feedback to build EFL learners' self-efficacy".
+- [Non-collaborative reflective journaling without feedback still improves self-efficacy relative to no journaling](../claims/no-feedback-journaling-still-improves-self-efficacy.md) [+W] — attached 2026-11-03 from Baleghizadeh et al. (2014), which proposed "Use collaborative reflective journals with teacher or peer feedback to build EFL learners' self-efficacy".
 
 ## Objective and learner-valued goal
 
@@ -146,6 +149,8 @@ Better entries, more entries, self-regulation questionnaire scores, course exams
 - [A personal utility prompt in journal writing improves learning motivation and comprehension](../claims/personal-utility-prompt-motivation-comprehension.md) [+W]
 - [Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied](../claims/journal-writing-improves-outcomes-with-support.md) [+W]
 - [Learning Cycle Model, Use of Animation, Reflective Diaries and Multiple Intelligence Theory Based Teaching each had very large retention effect sizes for pre-service teachers](../claims/retention-very-large-effect-sizes-meta-analysis.md) [+W]
+- [Reflective journaling raises EFL learners' general self-efficacy: one-way ANOVA on posttest SGSES scores was significant across the four journaling conditions](../claims/reflective-journaling-raises-efl-self-efficacy-anova.md) [+W]
+- [Teacher feedback and peer feedback on collaborative journals did not differ significantly in their effect on self-efficacy](../claims/teacher-peer-feedback-no-significant-difference.md) [~W]
 
 ## Related Principles
 - [Purposeful Reflection](reflection.md) — journaling is one concrete routine for structured reflection.

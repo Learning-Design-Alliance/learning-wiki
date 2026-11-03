@@ -43,6 +43,8 @@ Student-Teams Achievement Divisions (STAD; Slavin, 1994) is a cooperative-learni
 
 - [Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md) — another 4-6-student cooperative structure, but organized around expert specialization on subtopics rather than shared study of the same whole-class content
 - [Use STAD-style individual progress scores with translated group scores as grade incentives in cooperative learning](individual-progress-score-group-incentive-strategy.md)
+- [Allow cooperative teams to take midterm exams collaboratively while keeping final exams individual](cooperative-midterm-individual-final-exams.md)
+- [Team Assisted Individualised (TAI) instruction combining cooperative learning with individualised programmed instruction](tai-cooperative-individualised-strategy.md)
 
 ## Examples
 

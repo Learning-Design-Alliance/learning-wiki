@@ -59,3 +59,4 @@ Randomized experiment in one urban middle school: 38 students in grades 6–8 ra
 - [The relationship between reading fluency and comprehension was inconsistent among struggling adolescent readers in both groups](inconsistent-fluency-comprehension-relationship.md) — related
 - [In a large RCT (n = 871), Fusion Reading produced a small significant effect on word reading efficiency (Glass Δ = 0.11) but no significant differences on reading comprehension measures](fusion-striving-readers-rct-small-effects.md) — related
 - [ECHOS teachers significantly improved their PreSCOT scores in predicting, investigating, and evaluating across the year while control teachers did not](echos-teachers-improved-predicting-investigating-evaluating.md) — related
+- [Anticipatory reading guides significantly improve reading comprehension scores for third-grade struggling readers compared to traditional instruction.](anticipatory-reading-guides-improve-third-grade-comprehension.md) — related

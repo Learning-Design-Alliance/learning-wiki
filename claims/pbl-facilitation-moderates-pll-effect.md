@@ -71,3 +71,4 @@ Omnibus QM test of the joint regression coefficients for task type, training, an
 - [Peer supporter training duration ranged from a few hours to 192 hours, was most often in person, and intensive six-week training led all recruited peers to resign in one trial](peer-supporter-training-duration-and-burden.md) — related
 - [Class size and disciplinary domain do not significantly moderate POGIL's achievement effect, leaving residual heterogeneity unexplained](pogil-achievement-moderators-nonsignificant.md) — related
 - [PBL-treated undergraduates produced higher-quality problem solutions than non-PBL controls](pbl-improves-solution-quality-malaysian-undergraduates.md) — a narrower finding that bears on this claim
+- [PBL participants completed problem-solving tasks cooperatively, with after-class discussion the most frequent task and up to 89% extending learning after class](pbl-task-self-reports-cooperative-problem-solving.md) — related

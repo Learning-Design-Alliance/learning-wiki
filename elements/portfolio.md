@@ -13,7 +13,7 @@ generated:
 # Portfolio
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (16 for, 2 mixed) · 10 studies (5 causal, 1 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 10 report an effect size · 18 claims rest on one study
+> **Evidence** · 19 claims (17 for, 2 mixed) · 11 studies (6 causal, 1 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 11 report an effect size · 19 claims rest on one study
 
 ## Description
 A portfolio is a purposeful collection of learner work — artifacts, drafts, and reflections — assembled over time to document progress, demonstrate competence, and support self-evaluation. Unlike point-in-time [assessment](assessment.md), it captures process as well as product, and the learner typically participates in selecting and annotating what is included.
@@ -69,6 +69,7 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 - [ESL students using an e-portfolio system with peer and teacher feedback showed significant improvement in writing performance compared with a conventional group](../claims/eportfolio-improves-esl-writing-performance.md) [+W]
 - [E-portfolio use improved ESL students' perceived value of writing and writing self-concept, but not writing anxiety](../claims/eportfolio-improves-writing-value-self-concept-not-anxiety.md) [+W]
 - [E-portfolio use increased ESL students' self-consistency in applying a process approach to writing](../claims/eportfolio-process-approach-self-consistency.md) [+W]
+- [Intermediate EFL students hold positive attitudes toward e-portfolio use across awareness, work/activity, and pros and cons](../claims/ep-positive-student-attitudes.md) [+W]
 
 ## The evidence by question
 - *Does building a portfolio in a course raise learners' engagement, achievement and persistence?* [Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence](../claims/epportfolio-courses-engagement-grades-persistence.md) [+W]

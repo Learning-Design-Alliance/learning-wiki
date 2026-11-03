@@ -43,6 +43,7 @@ The article recommends that teachers embed mathematical language in everyday int
 ## Related Strategies
 
 - [Guided Play](guided-play.md)
+- [Use video-based case analysis of everyday situations to promote perception of mathematics in children's play](video-case-analysis-everyday-math-situations.md)
 
 ## Examples
 -

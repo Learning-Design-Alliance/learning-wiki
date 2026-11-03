@@ -3,6 +3,7 @@ type: claim
 title: Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts
 description: Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts
 id: tti-20000-incentive-filled-90-percent-vacancies
+aliases: [tti-transfer-incentive-90-percent-vacancies-filled]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -18,16 +19,27 @@ sources:
     i: "?"
     kind: design
     rigour: "?"
+  - id: glazerman-2012
+    resource: "http://ies.ed.gov/ncee"
+    title: "Glazerman, S., A. Protik, B. Teh, J. Bruch, N. Seftor. (2012). Moving Teachers: Implementation of Transfer Incentives in Seven Districts (NCEE 2012-4052). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. http://ies.ed.gov/ncee"
+    author: Glazerman, S., A. Protik, B. Teh, J. Bruch, N. Seftor
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · design `r?` · `q3`
+> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r?` · `q3`
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i?` A $20,000 per-teacher transfer incentive filled 90 percent of targeted vacancies in hard-to-staff schools with some of the districts' highest-performing teachers. [→ Steven Glazerman 2012](#steven-glazerman-2012)
+
+`q3 i?` Filling vacancies by using transfer incentives was feasible; 63 of 70 treatment vacancies (90 percent) were filled with a TTI candidate. [→ Glazerman 2012](#glazerman-2012)
 
 ## Evidence
 
@@ -41,10 +53,22 @@ Implementation findings from the seven-district TTI pilot report. The incentive 
 
 > "By offering $20,000 per teacher, seven school districts piloting a transfer-incentive strategy, known as the Talent Transfer Initiative (TTI), filled 90 percent of their targeted vacancies in hard-to-staff schools with some of the districts' highest-performing teachers."
 
+### Glazerman 2012
+
+Glazerman, S., A. Protik, B. Teh, J. Bruch, N. Seftor. (2012). Moving Teachers: Implementation of Transfer Incentives in Seven Districts (NCEE 2012-4052). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. http://ies.ed.gov/ncee
+
+`q3 · i?` · `causal · r2`
+
+Implementation analysis of TTI program records in seven cohort 1 districts reports that "63 (90 percent) were filled with a TTI candidate by the end of the summer recruitment season."
+
+> "Among the 70 vacancies assigned to treatment, 63 (90 percent) were filled with a TTI candidate by the end of the summer recruitment season."
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [A $20,000 selective transfer incentive offers high-performing teachers in 10 districts payment to move into their district's hardest-to-staff schools](selective-transfer-incentive-20000-hard-to-staff-schools.md) — related
 - [A study of a $20,000 selective transfer incentive examined high-performing teachers' behavioral responses in 10 districts](teacher-transfer-incentive-behavioral-responses.md) — related
 - [The transfer incentive targeted high-performing teachers into the hardest-to-staff schools within their own districts](selective-transfer-targets-hardest-to-staff-schools.md) — related
@@ -57,3 +81,5 @@ Implementation findings from the seven-district TTI pilot report. The incentive 
 - Michigan's teacher vacancy data are severely underreported, with nearly 90% of districts reporting zero vacancies in 2021-22 — related
 - [Most TTI teachers stayed on the job even after incentive payments ended](tti-teachers-retained-after-payments.md) — related
 - [The paper examines high-performing teachers' willingness to transfer and the transfer offer's effect on receiving schools' internal dynamics](transfer-offer-effects-teacher-willingness-and-school-dynamics.md) — related
+- [The Talent Transfer Initiative offered highest value-added teachers $20,000 over two years to transfer to and remain in low-achieving schools](tti-20000-transfer-incentive-design.md) — related
+- [A large candidate pool was needed: 1,012 candidates were identified for 63 transfers, a ratio of 16 candidates per slot](tti-large-candidate-pool-per-transfer.md) — related

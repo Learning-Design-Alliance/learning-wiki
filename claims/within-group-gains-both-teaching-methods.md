@@ -74,3 +74,4 @@ Pairwise comparison within the experiment group on achievement; the article repo
 - [Students taught with Razalas' Method of Grouping achieved significantly higher gain scores than students in Individual Learning in Integral Calculus](razalas-grouping-higher-gain-scores.md) — related
 - [Both DS-integrated and traditional writing instruction significantly improved narrative writing scores from pre-test to post-test](both-instruction-types-improved-narrative-writing.md) — related
 - [Both traditional teaching and the OCRA approach significantly improved pre-test to post-test achievement, with a larger gain in the OCRA group](ocra-and-control-pre-post-gains.md) — related
+- [Both CTBL and GI groups improved significantly from pre-test to post-test](ctbl-gi-both-significant-gains.md) — related

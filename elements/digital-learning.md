@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 68 claims (34 for, 28 mixed, 6 against) · 56 studies (23 causal, 9 review, 7 quant-synthesis, 5 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 6 of 56 report an effect size · 67 claims rest on one study
+> **Evidence** · 69 claims (35 for, 28 mixed, 6 against) · 57 studies (24 causal, 9 review, 7 quant-synthesis, 5 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 6 of 57 report an effect size · 68 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -104,6 +104,7 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Students found the virtual museum application enjoyable, useful, and motivating.](../claims/virtual-museum-enjoyable-useful-motivating.md) [+W] — attached 2026-11-03 from Ulusoy (2010), which proposed "Virtual museum websites as supplemental learning resources for history education.".
 - [Virtual museum application significantly improved open education students' attitudes toward history lessons.](../claims/virtual-museum-application-improves-history-attitudes.md) [+W]
 - [Technical problems with computers and networks are a downside of e-learning implementation](../claims/technical-problems-downside-elearning.md) [-W]
+- [Pupils felt comfortable carrying out discussion tasks in the 3D virtual environment and did not prefer to carry them out face-to-face, despite technological problems with sound](../claims/tila-opensim-comfort-despite-sound-problems.md) [+W]
 
 ## Related Elements
 

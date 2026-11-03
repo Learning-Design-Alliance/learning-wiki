@@ -59,3 +59,4 @@ Meta-analysis of 43 studies (28 theses, 15 articles) conducted in Turkey between
 - [Jigsaw I produced no significant difference in attitudes toward the Turkish course compared with conventional teaching](jigsaw-i-no-attitude-difference-turkish-course.md) — related
 - [Reciprocal teaching produced significantly more favourable attitudes towards Islamic culture than the traditional method](reciprocal-teaching-attitudes-islamic-culture.md) — a narrower finding that bears on this claim
 - [Constructivist-trained teachers show significantly more positive teaching attitudes than conventionally trained teachers](constructivist-training-improves-teacher-attitude.md) — a narrower finding that bears on this claim
+- [TAI and framing strategies were more effective than the traditional method in promoting students' attitudes toward mathematics](tai-framing-more-effective-than-traditional-method-attitudes.md) — related

@@ -53,3 +53,4 @@ Microgenetic analysis of language-related episodes from 60-minute SCMC-based int
 - [A collective unit of subjects emerges when two utterances form a dialogical pair in SCMD](collective-subject-emergence-dialogical-pair.md) — related
 - [The mediational strategy is reported as more effective than other intervention approaches such as the graduated prompt](mediational-strategy-more-effective-than-graduated-prompt.md) — related
 - [Frequency of explicit mediational strategies decreased dramatically by the last G-DA session](explicit-mediation-decreased-last-session.md) — related
+- [Three new forms of mediated assistance emerge from a practice sequence prior to dynamic speaking assessments](new-forms-of-mediated-assistance-emerge.md) — related

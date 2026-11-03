@@ -67,6 +67,7 @@ Explicit modeling gives novices a complete expert performance to study, reducing
 - [Gradual Release of Responsibility](gradual-release-of-responsibility.md) — the "I do, we do, you do" sequencing that fades modeling into independence
 - [Gradual-release coaching model (I do, we do, you do) for building turnaround capacity](gradual-release-turnaround-coaching-model.md)
 - [Provide explicit prompting instruction and expert scaffolding before or during novice LLM activities](explicit-prompting-instruction-before-llm-tasks.md)
+- [Implement anticipatory reading guides through a phased release: teacher modeling, collaborative creation, then independent guide construction.](phased-anticipatory-guide-implementation.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the observable-performance component

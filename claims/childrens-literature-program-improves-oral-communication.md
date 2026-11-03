@@ -57,3 +57,4 @@ One-way ANOVA on the oral communication post-test yielded F = 251.525, p = .0001
 - [Experimental group taught with oral communicative tasks significantly outperformed the control group on all post-task speaking components](oct-post-task-outperformed-control.md) — related
 - [Teaching Arabic oral skills with a Virtual Trip Model produces significantly higher post-test achievement than traditional teaching among third graders](vtm-improves-arabic-oral-skills-post-test.md) — related
 - [Pupils' life skills and language learning strategies improved significantly from pre-test to post-test within both experimental groups](within-group-pre-post-gains-life-skills-strategies.md) — related
+- [Culture-based activities improve EFL learners' communicative and linguistic competence](culture-based-activities-improve-communicative-linguistic-competence.md) — related

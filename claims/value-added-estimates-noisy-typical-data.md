@@ -56,3 +56,4 @@ Simulation analysis of value-added estimation error using OLS and Empirical Baye
 - [Value-added error rates apply to measuring both teacher and school performance in the upper elementary grades using student test score gain data](value-added-error-rates-teacher-and-school-upper-elementary.md) — related
 - [The study used two sets of analyses—rating stability and the stable component's link to future contributions—to simulate each measure's predictive accuracy](two-analysis-approach-principal-measure-accuracy.md) — related
 - [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related
+- [Estimated teacher performance is decomposed into persistent performance, transitory performance, match quality, and value-added error](value-added-four-component-decomposition.md) — related

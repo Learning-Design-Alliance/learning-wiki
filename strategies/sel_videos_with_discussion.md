@@ -61,8 +61,10 @@ Video is effective when it functions as a model of social-emotional behavior rat
 6. Revisit the scenario in later lessons to reinforce and transfer the concept.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the pre-viewing prompt that anchors the video to learners' experience
 - [Case-Based Learning](case-based-learning.md) — the video functions as a compressed case; the same discussion architecture applies
+- [Use video-based case analysis of everyday situations to promote perception of mathematics in children's play](video-case-analysis-everyday-math-situations.md)
 
 ## Examples
 - **[Second Step](https://www.secondstep.org)** (Committee for Children) — K–8 SEL curriculum built around short video scenarios of peer conflict, each followed by scripted discussion questions and role-play activities.

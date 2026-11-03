@@ -53,6 +53,7 @@ This strategy personalizes MOOC assignments by having learners choose topics tie
 - [Choice](choice.md)
 - [Make Learning Relevant](make_learning_relevant.md)
 - [Implement REACT through hands-on and minds-on geography assignments linking content to real-world contexts](react-hands-on-geography-assignments-strategy.md)
+- [Let students choose their own writing topics to build confidence and increase communicative language ability.](student-chosen-writing-topics.md)
 
 ## Examples
 -

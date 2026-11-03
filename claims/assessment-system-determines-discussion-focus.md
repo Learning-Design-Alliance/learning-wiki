@@ -72,3 +72,4 @@ Results section synthesis across the three schools: substantial assessment in PB
 - [Staff at one university Indigenous centre report that many students, Indigenous and non-Indigenous, show keen interest in local Indigenous culture and take part avidly when it is taught](local-indigenous-culture-student-interest.md) — related
 - [Students' discussion skills increased from first to third year in all three institutions, but at different rates across cultures](discussion-skills-increase-first-to-third-year.md) — related
 - [Student-centered education is feasible in different cultural contexts, but processes and outcomes are likely to differ across them](student-centered-education-feasible-across-cultures.md) — a broader claim this one bears on
+- [Culture-based activities reduce student anxiety and stress](culture-activities-reduce-anxiety.md) — related

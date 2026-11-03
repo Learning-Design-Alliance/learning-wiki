@@ -65,3 +65,4 @@ Authors' qualitative class observations during the treatment (students' activiti
 - [Instructional resources increased pupil concentration, enthusiasm and class participation in observed lessons](instructional-resources-boost-concentration-participation.md) — related
 - [The author attributes the speaking gains to increased enthusiasm, openness and reduced boredom under integrative teaching](integrative-teaching-motivation-interpretation.md) — related
 - [Teachers reported that students were more active, more motivated, and improved their academic and social skills during differentiation-approach lessons.](teachers-report-student-engagement-and-skill-gains.md) — related
+- [Culture-based activities increase student willingness to participate](culture-activities-increase-participation.md) — related

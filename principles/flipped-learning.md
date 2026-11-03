@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 112 claims (62 for, 46 mixed, 4 against) · 74 studies (33 causal, 19 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 27 of 74 report an effect size · 104 claims rest on one study
+> **Evidence** · 113 claims (62 for, 47 mixed, 4 against) · 75 studies (33 causal, 19 quant-synthesis, 13 review, 4 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 27 of 75 report an effect size · 105 claims rest on one study
 
 ## Conditional relationship
 
@@ -246,6 +246,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](../claims/flipped-classroom-two-components.md) [+W]
 - [Before-class online quizzes were used to ensure preparation and to launch class discussion](../claims/pre-class-quizzes-launch-discussion.md) [+W]
 - [The flipped classroom rests on blended learning, student-centered learning, and active learning as theoretical foundations](../claims/flipped-classroom-theoretical-foundations.md) [+W]
+- [Middle school students completed a larger percentage of assigned videos than high school students](../claims/rmep-middle-school-higher-video-completion.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

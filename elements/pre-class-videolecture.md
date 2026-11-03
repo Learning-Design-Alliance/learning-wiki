@@ -13,7 +13,7 @@ generated:
 # Pre-Class Video/Lecture
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 36 claims (17 for, 13 mixed, 6 against) · 38 studies (19 causal, 6 review, 4 quant-synthesis, 4 qualitative, 3 associational, 2 theoretical), `q1`–`q4` · 7 of 38 report an effect size · 31 claims rest on one study
+> **Evidence** · 39 claims (17 for, 15 mixed, 7 against) · 39 studies (19 causal, 6 review, 4 quant-synthesis, 4 qualitative, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 7 of 39 report an effect size · 34 claims rest on one study
 
 ## Description
 Instructional content — exposition, worked demonstrations, or recorded lectures — is delivered via video before class, so that synchronous time can be spent on application, discussion, and feedback rather than first exposure. The video functions as the initial-instruction component of a [Flipped Classroom](../principles/flipped-learning.md), shifting information transmission outside the group learning space.
@@ -82,6 +82,9 @@ Pre-class video works only when paired with accountability and application: stud
 - [Students perceive lecturer-generated summaries in video lectures as helpful for review, note-taking, and maintaining attention](../claims/student-perceptions-of-video-summaries-positive.md) [~W]
 - [Adding a guest lecturer to deliver video summaries negates the recall benefit of those summaries](../claims/guest-lecturer-summaries-negate-recall-benefit.md) [~W]
 - [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](../claims/flipped-classroom-two-components.md) [+W]
+- [Focusing resources on high-implementing teachers increased video assignments and student completion rates](../claims/rmep-high-implementer-focus-increased-video-activity.md) [~W]
+- [Middle school students completed a larger percentage of assigned videos than high school students](../claims/rmep-middle-school-higher-video-completion.md) [~W]
+- [Most teachers initially did not assign online videos, with 61 percent assigning none during fall 2014](../claims/rmep-low-teacher-video-adoption-year-2.md) [-W]
 
 ## The evidence by question
 - *Does a flipped course raise academic performance over the same course taught by lecture?* [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](../claims/flipped-classroom-improves-academic-performance-hpe.md) [+M]

@@ -58,3 +58,4 @@ Practitioner perspectives in the primer identify these barriers: scaffolding and
 - [Teachers support interdisciplinary curriculum integration but identify resource limitations, not curricular constraints, as the main barrier](e-textile-steam-integration-attitudes-barriers.md) — related
 - [Trust between policy and practice, and between national and school levels, is a core attribute of curriculum renewal alignment](trust-core-attribute-curriculum-alignment.md) — related
 - [Barriers to soft skills integration: time constraints, systemic obstacles, learner emotional strain, and adapting to new modalities](soft-skills-curricular-barriers-medical-education.md) — related
+- [Lack of support and infrastructure at the school level hinders curricular change implementation](meso-lack-support-infrastructure-hinders-implementation.md) — related

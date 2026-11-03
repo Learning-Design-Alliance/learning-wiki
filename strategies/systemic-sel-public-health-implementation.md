@@ -46,6 +46,7 @@ The report recommends that sustainable SEL requires supportive infrastructures a
 - [Five getting-started steps for building an integrated, school-based system of care](getting-started-steps-integrated-systems-of-care.md)
 - [System-level strategies to build enabling conditions for Powerful Learning](system-level-strategies-powerful-learning-conditions.md)
 - [Eight research-design recommendations for the next generation of SEL research](eight-recommendations-future-sel-research.md)
+- [Train teaching staff in SEL tools and abilities as a preventive route to student mental health](sel-teacher-training-prevention-strategy.md)
 
 ## Examples
 -

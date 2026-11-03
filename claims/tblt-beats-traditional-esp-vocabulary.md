@@ -52,3 +52,4 @@ Independent-sample t-test comparing post-test means of the randomly assigned con
 - [Journal entry practice enhancement activities outperform general vocabulary exercises for learning ESP technical vocabulary](journal-entry-practice-outperforms-vocabulary-exercises.md) — related
 - [Nasiri and Shokrpour (2012) found non-intensive English course students significantly outperformed intensive course students](nasiri-shokrpour-non-intensive-outperformed-intensive.md) — related
 - [Dynamic assessment significantly improves ESP learners' incidental vocabulary learning.](da-improves-esp-incidental-vocabulary.md) — related
+- [Project-based ESP instruction improves tertiary ESP students' acquisition of specialization-related English vocabulary compared with conventional instruction](pbl-esp-vocabulary-gains-qassim.md) — related

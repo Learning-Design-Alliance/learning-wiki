@@ -61,3 +61,5 @@ Delayed posttest results of the error correction test in the four-session experi
 - [Grammatical accuracy gains from written corrective feedback are retained at delayed post-test, but lexical accuracy gains are not](wcf-retention-grammar-lexical-split.md) — related
 - [Written corrective feedback in general is inconclusive as a predictor of long-term improvement in L2 writing accuracy, with roughly 55% of studies showing positive effects](wcf-inconclusive-predictor-long-term-accuracy.md) — related
 - [Explicit metalinguistic instruction on L1-L2 differences improved learners' English language production](explicit-metalinguistic-instruction-improves-production.md) — related
+- [DOC and DMC have the same effects on the development of explicit knowledge of English articles.](doc-and-dmc-same-effects-explicit-knowledge.md) — related
+- [Written corrective feedback facilitates acquisition of both explicit and implicit knowledge of English articles among low-intermediate EFL learners.](written-cf-facilitates-explicit-and-implicit-knowledge-articles.md) — a broader claim this one bears on

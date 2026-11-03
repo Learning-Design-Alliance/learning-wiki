@@ -39,8 +39,8 @@ Literacy Boost is Save the Children's early-literacy intervention programme, inc
 
 ## Key Sources
 - Angela Johnson, Catherine Galloway, Elliot Friedlander, Claude Goldenberg. (2019). Advancing educational quality in Rwanda: Improving teachers' literacy pedagogy and print environments. International Journal of Educational Research 98, 134-145. https://www.sciencedirect.com/journal/international-journal-of-educational-research
-
 <!-- merged 2026-10-10 from elements/literacy-boost-teacher-pd-rwanda ("Literacy Boost teacher professional development program (Save the Children, rural Rwanda)"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Dowd, A. J., Friedlander, E., Jonason, C., Leer, J., Sorensen, L. Z., D'Sa, N., Guajardo, J., Pava, C., & Pisani, L. (2016). Life-wide Learning and Early Reading Development in Twelve African and Asian Sites. SREE Spring 2016 Conference. https://eric.ed.gov/?id=ED567020
 
 # Literacy Boost teacher professional development program (Save the Children, rural Rwanda)
 

@@ -60,9 +60,11 @@ Vocabulary is acquired primarily through repeated encounters with words in meani
 6. **Fade the scaffold.** As learners grow, shift from teacher-selected target words to self-selected ones, and from guided notebooks to independent word-consciousness habits [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — previewing topic-related words before reading primes meaning-making during detection
 - [Annotating](../principles/annotating.md) — highlighting and margin notes in the e-book reader are the annotation layer of this strategy
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the teacher's modeled word investigation is a think-aloud demonstration of the detective routine
+- [Using collective or shared learning to resolve unknown concepts during CLIL lessons](clil-collective-learning-strategy.md)
 
 ## Examples
 - **Epic! (getepic.com)** — classroom e-book library with read-to-me audio; teachers assign leveled texts and students flag mystery words during independent reading.

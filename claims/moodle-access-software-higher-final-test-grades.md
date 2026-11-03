@@ -49,3 +49,4 @@ Quasi-experiment comparing two XII-grade classes at a technical college (experim
 - [Year 9 students learning circles with GeoGebra significantly outperformed the control group on the post test](geogebra-circles-posttest-outperformance.md) — related
 - [Post-test mean learning outcomes were 81.81 in the ChatGPT class versus 70.45 in the conventional class](chatgpt-experimental-mean-81-81-vs-control-70-45.md) — related
 - [Use of the educational software during the experimental stage produced better worksheet grades for the experimental group, with the gap widening from Worksheet 1 to Worksheet 2](worksheet-grades-favor-software-group.md) — a narrower finding that bears on this claim
+- [Experimental groups outperformed control groups on post-experiment test by 6.45%](culture-activities-posttest-gain-6-45-percent.md) — related

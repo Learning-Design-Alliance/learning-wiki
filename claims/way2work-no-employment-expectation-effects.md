@@ -61,3 +61,4 @@ RCT analysis of employment and expectation outcomes at the 24-month follow-up, b
 - [The PROMISE interim evaluation measured impacts on primary outcomes at 18 months after enrollment](promise-impacts-measured-18-months.md) — related
 - Longitudinal program evaluation strategies were described in only three studies — related
 - [PS-ASD participants acquired community-based competitive employment at far higher rates than high-school-services-as-usual controls (90.3% vs 5.9% at 3 months; 87.1% vs 11.1% at 12 months)](psasd-competitive-employment-rct.md) — related
+- [Community-based work experience programs show mixed effects on employment outcomes for students with disabilities, based on a medium-to-large extent of evidence](community-based-work-experience-mixed-employment-effects.md) — related

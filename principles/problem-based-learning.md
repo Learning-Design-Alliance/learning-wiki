@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 136 claims (58 for, 68 mixed, 10 against) · 83 studies (32 quant-synthesis, 19 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 20 of 83 report an effect size · 131 claims rest on one study
+> **Evidence** · 140 claims (59 for, 71 mixed, 10 against) · 84 studies (32 quant-synthesis, 20 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 21 of 84 report an effect size · 135 claims rest on one study
 
 ## Conditional relationship
 
@@ -234,6 +234,10 @@ At the curriculum level, the expectation of a small and variable average should 
 - [PBL group pre-service teachers report challenging, creative, cognitive, affective, and group-related positive learning keys](../claims/pbl-positive-learning-keys-qualitative.md) [+W]
 - [Among surveyed students, PBL students moderately out-performed non-PBL students on grade A achievement (chi-square p=0.065)](../claims/pbl-grade-a-chi-square-surveyed.md) [~W]
 - [PBL scored lower than non-PBL on stimulating students to carry on learning, though not statistically significantly](../claims/pbl-lower-stimulated-carry-on-learning-null.md) [-W]
+- [PBL participants used the synthesizing-subject-matter and searching-for-supporting-details strategies significantly better than non-PBL participants](../claims/pbl-improves-subm-sdet-strategies.md) [+W]
+- [PBL participants completed problem-solving tasks cooperatively, with after-class discussion the most frequent task and up to 89% extending learning after class](../claims/pbl-task-self-reports-cooperative-problem-solving.md) [~W]
+- [Reading comprehension was significantly positively correlated with active English learning attitudes in the PBL group but not in the non-PBL group](../claims/rc-attitude-correlation-pbl-only.md) [~W]
+- [PBL participants spent significantly more weekly time reading English texts than non-PBL participants during the treatment](../claims/pbl-increases-out-of-class-reading-time.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

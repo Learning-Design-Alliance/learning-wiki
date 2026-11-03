@@ -72,3 +72,4 @@ The source is a fact sheet for schools produced for Regional Educational Laborat
 - [Chronically absent preschoolers are much more likely to stay chronically absent, and each successive year of chronic absenteeism compounds risk of low second-grade reading](preschool-absence-predicts-later-chronic-absence-and-reading-risk.md) — related
 - [Many children enter kindergarten without the foundational mathematics skills needed to succeed](children-enter-kindergarten-without-foundational-math-skills.md) — related
 - [Attendance patterns indicate students were substantially more engaged in Discovery sessions than in regular classes](discovery-attendance-exceeds-class-attendance.md) — related
+- [Early childhood homelessness and maltreatment are associated with lower achievement, poorer social skills, and higher absenteeism in early primary grades](early-homelessness-maltreatment-associated-school-outcomes.md) — related

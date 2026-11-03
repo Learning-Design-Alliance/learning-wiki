@@ -44,6 +44,7 @@ The review recommends that future studies combine methods, because standardized 
 - [Three development directions for observational self-regulation measures: broader behaviors, cross-context observability, and clear operational definitions](observational-tool-development-three-directions.md)
 - [Combine published assessment tools with government data and/or teacher reports to more effectively identify students in need of additional support](combine-assessments-government-data-teacher-reports.md)
 - [Use observational methods (e.g., CLASS) alongside self-report to assess classroom efficacy and reduce shared method variance](observational-methods-assess-classroom-efficacy.md)
+- [Future bilingualism research should combine mixed-method designs, multiple data collection tools and analysis methods, and larger samples](bilingualism-future-research-mixed-method-larger-samples.md)
 
 ## Examples
 -

@@ -46,7 +46,9 @@ The review recommends that learning environments for pharmaceutical care combine
 - [The review finds flipped learning, PBL, gamification, and collaborative learning adapted to digital environments produced positive effects on motivation, participation, and transversal competences](../claims/flipped-pbl-gamification-collaborative-digital-effects.md) [+W]
 
 ## Related Strategies
+
 - [Blended Learning](../patterns/blended-learning.md)
+- [Engage students, families, and communities in literacy activities outside of school](engage-families-communities-out-of-school-literacy-activities.md)
 
 ## Examples
 -

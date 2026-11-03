@@ -53,3 +53,4 @@ Analysis of coach logs filled out for the 22 teachers who began the intervention
 - [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — a broader claim this one bears on
 - [Ongoing professional development and mentorship are critical to coaches' growth and confidence in their coaching skills](ongoing-pd-mentorship-critical-coach-growth.md) — related
 - [Sunnyside students participating in the Compact Writing Assignments pilot completed quarterly research papers at a rate more than 15 percent higher than non-participants](sunnyside-writing-engagement-15-percent-increase.md) — related
+- [Focusing resources on high-implementing teachers increased video assignments and student completion rates](rmep-high-implementer-focus-increased-video-activity.md) — related

@@ -120,3 +120,4 @@ Quasi-experimental control condition (n = 42); Table 2 reports pre-test mean 9.4
 - [Online-instruction group fails to improve content-building skill despite gains in other writing components](online-group-content-skill-no-improvement.md) — related
 - [Standard VI pupils learning English vocabulary through a multimedia e-TLM package showed significant pretest-to-posttest achievement gains](e-tlm-vocabulary-significant-gains-standard-vi.md) — related
 - [Overall grammar achievement gains were significantly higher for the instructional media group than the conventional group across all four grammar items](instructional-media-higher-overall-grammar-gains.md) — related
+- [Scaffolding through the writing process approach met EFL students' needs and improved their writing skill despite persistent difficulty with basic elements such as grammar.](scaffolding-met-needs-despite-grammar-difficulty.md) — reports the opposite

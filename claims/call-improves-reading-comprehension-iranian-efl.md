@@ -62,3 +62,4 @@ Quasi-experimental comparison of two intact groups of Iranian female intermediat
 - [Task-based reading instruction produces significantly higher reading post-test scores than traditional reading instruction for intermediate Iranian EFL learners](tblt-reading-outperforms-traditional-instruction-iranian-efl.md) — related
 - [Video-based instruction improves reading comprehension of Iranian intermediate EFL learners more than conventional instruction](video-materials-improve-reading-comprehension-iranian-efl.md) — related
 - [Authentic video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment](authentic-video-improves-efl-vocabulary.md) — related
+- [Intertextuality-aware instruction improves reading comprehension of intermediate EFL learners versus control instruction](intertextuality-aware-instruction-improves-efl-reading-comprehension.md) — related

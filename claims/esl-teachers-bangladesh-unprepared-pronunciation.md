@@ -52,3 +52,4 @@ Thematic synthesis of multiple reviewed studies. The review reports that "ESL te
 - [Teachers attribute students' lack of pronunciation progress mainly to instruction and practice factors rather than learner factors](teachers-blame-instruction-over-learners-for-progress.md) — related
 - [Teachers' attention easily diverts to English learners' grammar, vocabulary, and pronunciation even when unrelated to the day's learning goal](teacher-attention-diverted-el-grammar.md) — related
 - [Students reported that pronunciation was not emphasized or assessed in their prior English education](students-report-pronunciation-not-assessed.md) — related
+- [Teachers' lack of pedagogical knowledge about CLT hinders curricular change implementation at the micro-level](micro-teacher-qualifications-hinder-clt-implementation.md) — a broader claim this one bears on

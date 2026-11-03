@@ -72,3 +72,4 @@ Same quasi-experimental ANOVA analysis. The interaction between test type and gr
 - [Before the course, 72% of surveyed students held no English certificate and Part IV (Short Talks) was the most commonly reported weak TOEIC listening part (46%)](toeic-students-weak-part-iv-no-certificate.md) — related
 - [Computer-based science and technology instruction produces significantly higher corrected post-test problem solving skill scores than traditional teaching](cbi-improves-problem-solving-skills.md) — related
 - [Interactive learning technologies produced greater gains in foreign language communicative competence than traditional instruction in a 54-student quasi-experiment](interactive-technologies-greater-flcc-gains-kfu.md) — related
+- [Culture-based activities improve EFL learners' communicative and linguistic competence](culture-based-activities-improve-communicative-linguistic-competence.md) — related

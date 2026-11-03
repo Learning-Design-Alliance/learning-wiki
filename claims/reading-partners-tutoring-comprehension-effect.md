@@ -57,3 +57,4 @@ Large randomized controlled trial conducted by MDRC comparing tutored students t
 - [SpellRead™ shows potentially positive effects on alphabetics for adolescent readers, with an average improvement index of +23 across two studies](spellread-potentially-positive-alphabetics.md) — related
 - [Earobics® has positive effects on alphabetics for K–3 beginning readers, based on four WWC-reviewed studies](earobics-positive-effects-alphabetics.md) — related
 - [SpellRead™ has positive effects on alphabetics for struggling beginning readers, with an average improvement index of +18 percentile points](spellread-positive-effects-alphabetics.md) — related
+- [Anticipatory reading guides significantly improve reading comprehension scores for third-grade struggling readers compared to traditional instruction.](anticipatory-reading-guides-improve-third-grade-comprehension.md) — related

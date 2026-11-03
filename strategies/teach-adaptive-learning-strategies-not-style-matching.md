@@ -48,6 +48,7 @@ The article's core recommendation is that "instead of tailoring instruction to s
 ## Related Strategies
 
 - [Align taught discussion strategies with learning tasks and provide timely individual feedback on strategy and label use](align-discussion-strategies-with-tasks-and-feedback.md)
+- [Use general teaching techniques and materials that cover the needs of learners with diverse learning preferences](general-techniques-diverse-learning-preferences.md)
 
 ## Examples
 -

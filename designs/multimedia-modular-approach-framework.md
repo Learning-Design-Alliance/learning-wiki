@@ -42,7 +42,8 @@ Multimedia Modular Approach is defined as a way or method of teaching a subject 
 - [Multimedia Modular Approach Improves Speaking Skill](../claims/multimedia-modular-approach-improves-speaking-skill.md) [+M]
 
 ## Related Designs
-- 
+
+- [Integrative-modular technology with concentric modules](integrative-modular-technology-concentric-modules.md)
 
 ## Examples
 -

@@ -80,3 +80,4 @@ Qualitative case study of two Japanese adult EFL learners using reflective journ
 - [Collaboration and private speech fostered a supportive classroom climate](sct-tblt-classroom-climate.md) — related
 - [Students perceive discussion boards as lowering anxiety about expressing opinions in a second language](discussion-board-lowers-l2-writing-anxiety.md) — related
 - [Teaching mathematics in English using CLIL improved pupils' motivation and reduced fear of the subject.](clil-maths-motivation-fear-reduction.md) — related
+- [Proficiency-level mismatch in Lingua Franca telecollaboration debates increased anxiety of less proficient pupils, while more proficient pupils became less anxious and more confident](tila-proficiency-mismatch-increases-anxiety-less-proficient.md) — a narrower finding that bears on this claim

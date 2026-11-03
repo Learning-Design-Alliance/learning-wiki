@@ -55,3 +55,4 @@ Independent t-test on delayed post-test scores of the same 45 freshmen: SMS grou
 - [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related
 - [First-year EFL students who did vocabulary exercises via SMS outperformed those doing paper-based exercises on a post-test](sms-exercises-outperform-paper-based-vocabulary.md) — related
 - [Knowledge retention was better for the tablets group on the delayed post-test](tablets-ar-better-knowledge-retention-delayed-posttest.md) — related
+- [Students preferred short SMS exercises answerable immediately without reference materials](sms-short-immediate-exercises-preferred.md) — related

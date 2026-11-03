@@ -50,3 +50,4 @@ Mann–Whitney comparison of subtracted TONA networks between adaptive MAI (13 g
 - [Proxemic configuration significantly shifts the relational organization of regulation, from a visually anchored system when far to a strategy-oriented system when close](proxemic-configuration-rr1-relational-shift.md) — related
 - [Joint attention is a group phenomenon not reducible to either individual's mental representations](joint-attention-group-phenomenon.md) — related
 - D'Mello proposes attention tracking and management as a new AIED research direction — related
+- [The meaning-making process was characterised by shared management, joint attention, mutual influence and reciprocal positioning](meaning-making-shared-management-joint-attention.md) — related

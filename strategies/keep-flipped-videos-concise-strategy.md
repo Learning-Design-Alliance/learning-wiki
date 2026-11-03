@@ -43,6 +43,7 @@ The authors recommend that teachers new to flipped learning "make an extra effor
 - [Limit flipped classroom video duration to around 20 minutes and use opening quizzes](limit-flipped-classroom-video-duration-and-use-quizzes.md)
 - [Design flipped-classroom videos with sound-image synchronization, short durations, full-body instructor visibility, and opportunities for immediate questions](flipped-video-design-recommendations.md)
 - [Limit pre-class video length to 20 minutes to reduce student burden](limit-pre-class-video-length-20-minutes.md)
+- [Use short introductory vodcasts (10-15 minutes) as a preview tool to reduce the time burden on students in compressed curricula.](short-introductory-vodcasts-preview-strategy.md)
 
 ## Examples
 -

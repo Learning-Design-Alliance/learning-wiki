@@ -47,3 +47,4 @@ Process analysis of read receipts recorded during the seven-week application, in
 ## Related Claims
 - [Learners' written reports identify fragmented-time use, convenience, and reminder effects as advantages of SMS vocabulary learning](sms-vocabulary-advantages-reports.md) — related
 - [Learners showed positive attitudes toward receiving SMS vocabulary messages, and instant messaging raised intercultural awareness](sms-positive-attitudes-intercultural-awareness.md) — related
+- [Students preferred receiving SMS exercises in the afternoon or evening](sms-afternoon-evening-timing-preference.md) — related

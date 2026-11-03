@@ -59,3 +59,4 @@ Table 8 comparison of average scores shows the control group began higher (43.91
 - [Overall, the experimental group's posttest average was significantly higher than the control group's despite both groups declining from pretest to posttest.](wikipedia-corpus-overall-posttest-significant-advantage.md) — related
 - [Active learning students outperformed traditional-instruction students on each of the 14 individual writing and research skills, with an average 10.5-point higher score](active-learning-gains-fourteen-individual-skills.md) — related
 - [Both the situated learning group and the traditional instruction group improved significantly from pre-test to post-test in vocational English vocabulary](both-groups-significant-pretest-posttest-gains-vocational-english.md) — related
+- [The experimental group started with lower pre-test scores but achieved a higher average than the control group in the post-test](qmp-lower-pretest-higher-posttest-descriptive.md) — related

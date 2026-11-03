@@ -143,3 +143,4 @@ Meta-analysis of 8 RCTs (n=592), low heterogeneity (I2 =21%). Pooled odds ratio 
 - [Questionnaire results show PBL superior to conventional teaching for learning interest, independent analysis skills, scope of knowledge, self-study, team spirit, and oral expression](pbl-questionnaire-superiority-six-outcomes.md) — related
 - [Student responses to PBL statistics learning were positive, and more positive than responses to conventional learning](pbl-statistics-positive-student-responses.md) — related
 - [Students perceived PBL as providing significant benefits to presentation skills, teamwork, leadership and ability to use IT](pbl-significant-perceived-skill-benefits.md) — related
+- [PBL participants completed problem-solving tasks cooperatively, with after-class discussion the most frequent task and up to 89% extending learning after class](pbl-task-self-reports-cooperative-problem-solving.md) — related

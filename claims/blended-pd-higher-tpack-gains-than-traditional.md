@@ -51,3 +51,4 @@ Quasi-experimental pretest-posttest non-equivalent groups study of 60 in-service
 - [Teachers' ICT knowledge was above the general average in both groups after the intervention](ict-knowledge-above-average-both-groups.md) — related
 - [Both Blended and Behavioral professional development training significantly increased teachers' knowledge, self-efficacy, and self-reported use of instructional methods compared with a no-training control](blended-and-behavioral-pd-increase-teacher-knowledge-efficacy-use.md) — related
 - [Both groups improved from pretest to posttest, with the blended group's posttest means exceeding the control group's](pre-post-gains-blended-exceed-control.md) — related
+- [The EmMa continuous professional development course significantly improved early childhood teachers' mathematical pedagogical content knowledge](emma-improves-mpck-early-childhood-teachers.md) — a narrower finding that bears on this claim

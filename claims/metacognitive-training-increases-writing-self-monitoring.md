@@ -62,3 +62,4 @@ Discussion-section finding from an interview study of 10 Jordanian secondary-sch
 - [Korean EFL middle school students desire extra help with writing to achieve balanced English competence](korean-efl-students-desire-writing-balance.md) — related
 - [Reflection deepens over time as students move from describing observations to intuitive evaluation](reflection-deepens-over-time-schmidt-brown.md) — related
 - [E-learning fosters learner autonomy and self-directed learning by enabling students to control pace, time, and content](elearning-fosters-learner-autonomy-self-direction.md) — related
+- [Pair's self-evaluation performed every four sessions may make students more aware of their reading level and progress, enabling strategies for improvement crucial for modification of the self-concept](pair-self-evaluation-metacognitive-awareness.md) — related

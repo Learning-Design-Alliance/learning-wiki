@@ -50,3 +50,4 @@ From the qualitative analysis of the 25 written reports and the authors' discuss
 - [Users successfully localized the hard-to-use mobile text messaging technology into their daily lives despite poor developer localization](users-localize-hard-to-use-text-messaging.md) — related
 - [Interviewed students perceived SMS learning support as having more advantages than disadvantages](sms-perceived-more-advantages-than-disadvantages.md) — related
 - [Students reported SMS limitations including character limits, lack of formatting, and one-way communication](sms-reported-disadvantages-character-limit-one-way.md) — related
+- [SMS methodology is reported to enhance retrieval of memorized English language rules](sms-enhances-retrieval-memorized-rules.md) — related

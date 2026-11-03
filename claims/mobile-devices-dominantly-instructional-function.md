@@ -47,3 +47,4 @@ Kendall's tau-b association test across the 140 observed cases: communication de
 ## Related Claims
 - [PND outcomes were not significantly affected by participant characteristics, device types/functions, intervention strategies, or target skill types](pnd-not-moderated-by-characteristics-device-strategy-skill.md) — related
 - [Mobile device-based interventions are very effective for individuals with intellectual disabilities, with a mean PND of 91.8 across 140 observed cases](mobile-devices-very-effective-id-mean-pnd-91-8.md) — related
+- [Computer-based instruction and prompting strategies may help students with intellectual disabilities live more independently by increasing functional skills](computer-instruction-prompting-independent-living-hypothesis.md) — related

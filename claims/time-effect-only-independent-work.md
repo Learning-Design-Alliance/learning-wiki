@@ -69,3 +69,4 @@ Follow-up contrasts on the activity-type-by-time interaction from the same EEG a
 - [Students were less attentive during video watching than during lecture, with video showing the greatest alpha power of the four activities](video-watching-least-attentive-alpha.md) — related
 - [Teacher-initiated activities also increased theta power and decreased beta and gamma power, converging with the alpha-based inference of lower wakefulness and attention](theta-beta-gamma-convergent-evidence.md) — related
 - [Perception performance was superior for independent-study events (6–7) than for lecture events (1–5)](ivr-pvas-perception-better-independent-study-events.md) — related
+- [Only 25% of students were actively attentive for most of instruction](low-active-attention-novice-lessons.md) — related

@@ -47,3 +47,4 @@ Writing performance was assessed from a mark portfolio of four submitted essays,
 ## Related Claims
 - [Students taught with the developed exposition-text learning material scored higher on a Bahasa Indonesia achievement post-test than students taught with the ordinary book](exposition-material-higher-achievement-posttest.md) — related
 - [Studies report experiment classes using JAS achieve higher average study results than control classes](jas-experiment-class-higher-than-control.md) — related
+- [E-portfolio corrective feedback improves content micro-components idea quality and exposition but not idea development or idea wrap-up](ep-feedback-content-microcomponents-mixed.md) — related

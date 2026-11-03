@@ -49,6 +49,7 @@ An implementable recipe for oral-skill sessions: seat students facing one anothe
 - [Extend discussion sessions beyond the classroom through social network sites and visual cues](extend-discussions-sns-visual-cues-strategy.md)
 - [Shoeless Learning Spaces](shoeless_learning_spaces.md)
 - [Speed Chatting (Pre-Reading)](speed-chatting-pre-reading.md)
+- [Let students choose their own writing topics to build confidence and increase communicative language ability.](student-chosen-writing-topics.md)
 
 ## Examples
 -

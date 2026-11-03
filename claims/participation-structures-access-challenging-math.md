@@ -68,3 +68,4 @@ Cross-dimension comparison of the same 14 lessons. "None of the 14 lessons" high
 - [The four lessons rated highest on both student explanations and agency, authority, and identity featured Math Talks, but their strongest features often ended when the Math Talks did](math-talks-support-explanations-agency.md) — related
 - [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — related
 - [Mathematical sense-making received High ratings most frequently among the MQI dimensions, while linking representations and multiple solutions/procedures were most often rated Not Present](dimension-rating-distributions-vary.md) — related
+- [Candidates called on higher-ability students more often in math and science](ability-bias-in-questioning.md) — related

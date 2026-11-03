@@ -52,3 +52,4 @@ Across four scenario-based laboratory experiments with adolescent participants, 
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [The growth mindset intervention successfully fostered mindset beliefs but this did not transfer to learning outcomes](mindset-belief-fostered-without-outcome-change.md) — related
 - [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
+- [Culture-based activities increase student willingness to participate](culture-activities-increase-participation.md) — a narrower finding that bears on this claim

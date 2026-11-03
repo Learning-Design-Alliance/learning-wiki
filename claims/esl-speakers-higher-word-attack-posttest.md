@@ -49,3 +49,4 @@ Within the same 2 × 5 MANCOVA framework, one significant finding emerged for Na
 - [Learner characteristics, class assignment, and WIC benefits significantly predicted persistence in adult literacy classes (Greenberg et al.)](learner-characteristics-predict-adult-persistence.md) — related
 - [Efficiency in phonological and orthographic processing contributes significantly to individual differences in adult ESL reading measures](phonological-orthographic-efficiency-predicts-esl-reading.md) — related
 - [Rigorous effectiveness research on literacy instruction for adult ESL learners was nearly absent prior to this study](few-rigorous-studies-adult-esl-literacy.md) — related
+- [Some DDL-treated learners outperformed native English speakers on the vocabulary choice appropriateness posttest](ddl-learners-surpass-native-speaker-judgments.md) — related

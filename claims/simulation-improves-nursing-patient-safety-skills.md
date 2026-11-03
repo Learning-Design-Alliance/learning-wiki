@@ -51,3 +51,4 @@ Systematic review (PRISMA 2020) of 20 studies from 12 countries, synthesized nar
 - [Manikin-based simulation produced equal or superior competency outcomes versus traditional clinical practice, except in the Patient Safety domain](manikin-simulation-competency-versus-clinical.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [Fidelity to SBAR moderates communication clarity improvements: classroom studies show higher fidelity and larger gains than clinical-setting studies](sbar-fidelity-moderates-clarity-gains.md) — related
+- [Alternating simulation scenarios with bedside teaching lets students practice less harmful examinations on real patients and invasive or rejected items on simulators, ensuring patient safety](alternating-simulation-bedside-patient-safety.md) — related

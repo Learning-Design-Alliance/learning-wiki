@@ -43,6 +43,7 @@ The authors propose a three-part agenda to address gaps their metareview exposed
 - [Prioritize high-quality randomized controlled trials and umbrella reviews over producing further redundant CI meta-analyses](rcts-and-umbrella-reviews-for-ci.md)
 - [Prioritise longitudinal research and cost analysis when evaluating digital clinical skills modalities](longitudinal-cost-research-digital-clinical-skills.md)
 - [Research agenda: standardize reporting, run comparative efficacy studies, and track longitudinal transfer to clinical practice](competency-simulation-research-agenda-reporting-transfer.md)
+- [Future research agenda: detailed implementation data, qualitative study, and cross-setting comparison](future-research-life-wide-learning-agenda.md)
 
 ## Examples
 -

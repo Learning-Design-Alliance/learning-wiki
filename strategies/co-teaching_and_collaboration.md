@@ -58,8 +58,10 @@ Co-teaching works when it is a genuine instructional partnership rather than par
 6. Debrief after the lesson: identify areas needing clarification, adjust subsequent planning, and share insights with colleagues through [Communities of Practice](../principles/communities-of-practice.md).
 
 ## Related Strategies
+
 - [Scaffolding](../principles/cognitive-load-management.md) — co-teaching is often the delivery mechanism for language scaffolds planned jointly
 - [Collaborative Learning](../patterns/collaborative-learning.md) — the learner-facing analogue; co-taught classrooms frequently structure peer collaboration with language roles
+- [Using collective or shared learning to resolve unknown concepts during CLIL lessons](clil-collective-learning-strategy.md)
 
 ## Examples
 - A middle-school math teacher and an ELL specialist co-plan a unit on ratios: they identify "ratio," "proportion," and "per" as key terms, target the language function of comparing quantities, and design a task where learners write comparison sentences before solving problems. The specialist leads a brief vocabulary routine; both teachers circulate during group work.

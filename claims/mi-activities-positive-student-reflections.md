@@ -59,3 +59,4 @@ Qualitative interviews with ten randomly selected students after post-testing, p
 - [Students report high satisfaction with CAMI, finding it more interesting and easier to understand than traditional instruction](cami-learning-satisfaction-chinese-instruments.md) — possibly the same claim (merge candidate)
 - [Experimental group students reported higher attention and concept understanding during activity-based lessons](abl-attention-understanding-ratings.md) — related
 - [Seventh graders taught with a Multiple Intelligences strategy developed more positive environmental attitudes than peers taught by traditional methods](mi-strategy-higher-environmental-attitude.md) — related
+- [Students reported positive attitudes toward QMP-based automated formative evaluations](qmp-student-satisfaction-positive-attitudes.md) — related

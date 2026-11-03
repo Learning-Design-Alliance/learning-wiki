@@ -76,6 +76,7 @@ Learning contracts support learning primarily by forcing goal specification and 
 
 **University independent-study and practicum courses** — Typical implementation: a proposal template with goals, activities, timeline, and deliverables, approved by a faculty supervisor and assessed at midterm and final checkpoints.
 - [Individualized Student Plan co-signed by student specifying interventions, responsibilities, and timelines](../strategies/individualized-student-plan-coaching.md)
+- [Use learning contracts in which students choose readings and commit to goals to build responsibility](../strategies/learning-contract-reading-choice-strategy.md)
 
 ## Key Sources
 - Knowles, M. S. (1986). *Using learning contracts: Practical approaches to individualizing and structuring learning*. Jossey-Bass.

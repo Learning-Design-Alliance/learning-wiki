@@ -63,3 +63,4 @@ Qualitative thematic analysis of participant responses on identity. Participants
 - [Intersectional brilliance stereotypes show mixed patterns, supporting both intersectional invisibility and double jeopardy accounts](intersectional-brilliance-stereotypes-mixed.md) — related
 - [Shallow multiculturalism undermines Latinx students' belonging by reinforcing intersectional invisibility](shallow-multiculturalism-undermines-latinx-belonging.md) — related
 - [Many commercial recorded simulations feature young, pale, well‐built actors, limiting diverse representation](commercial-simulations-lack-diverse-representation.md) — related
+- [Candidates unintentionally overlooked average and invisible middle students](invisible-middle-students-overlooked.md) — related

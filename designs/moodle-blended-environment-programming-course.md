@@ -45,6 +45,7 @@ The article designed a blended environment for a Programming Languages course co
 ## Related Designs
 
 - [Moodle course pattern combining resources, interactive activities, communication tools and automated evaluation for skills teaching](moodle-resource-activity-evaluation-course-pattern.md)
+- [Polemic web forum tasks on ICT use in a Moodle blended setting](polemic-web-forum-ict-tasks-moodle.md)
 
 ## Examples
 -

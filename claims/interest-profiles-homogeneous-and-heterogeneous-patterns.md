@@ -56,3 +56,4 @@ Descriptive structural finding from the latent profile analyses of the 204 stude
 - [Latent profile analysis of RIASEC interests in Dutch Grade 9 students reveals seven distinct vocational interest profiles](seven-vocational-interest-profiles-grade-9.md) — a narrower finding that bears on this claim
 - [Three distinct racial-mathematical identity profiles emerge among Black adolescents and are robust across two time points one year apart](three-racial-mathematical-identity-profiles-lpa.md) — related
 - [AI competence dimensions are unequally developed among vocational school teachers](ai-competence-dimensions-unequally-developed.md) — related
+- [Children enrolled in early education settings show great variability in skills and risk factors, with distinct language and literacy profiles rather than a homogeneous at-risk group](preschool-at-risk-children-heterogeneous-literacy-profiles.md) — related

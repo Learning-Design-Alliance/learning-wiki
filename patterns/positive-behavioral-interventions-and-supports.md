@@ -15,7 +15,7 @@ grain_size: program, school
 # Positive Behavioral Interventions And Supports
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 51 claims (35 for, 12 mixed, 4 against) · 35 studies (18 causal, 7 review, 6 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 9 of 35 report an effect size · 45 claims rest on one study
+> **Evidence** · 53 claims (36 for, 13 mixed, 4 against) · 37 studies (20 causal, 7 review, 6 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 9 of 37 report an effect size · 47 claims rest on one study
 
 ## Description and scope
 
@@ -142,6 +142,8 @@ This pattern is scoped to a school-wide, tiered system of taught and acknowledge
 - [No additional benefit identified for the 49 schools that self-funded a second year](../claims/ctg-no-additional-benefit-second-year.md) [~W]
 - [No significant pre–post changes in office discipline referrals occurred in the full sample following school-wide professional development](../claims/no-prepost-odr-change-full-sample.md) [-W]
 - [SW-PBIS showed no significant effect on school-level suspension rates in Minnesota](../claims/swpbis-no-significant-suspension-rate-effects.md) [-W]
+- [Teachers preferred positive-reinforcement strategies over mild punishment and valued class-wide, time-saving interventions](../claims/teacher-preferences-positive-reinforcement-and-feasibility.md) [+W]
+- [Higher school-component dosage is associated with better teacher-reported social skills and lower problem behavior](../claims/tertiary-first-step-dose-response-school-outcomes.md) [~W]
 
 ## Related Patterns
 - [Social-Emotional Learning](social-emotional-learning.md) — teaches named social and emotional skills; PBIS teaches and acknowledges setting-specific expectations, and the two are often run together

@@ -23,7 +23,7 @@ sources:
 # Talent Transfer Initiative
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 9 claims (9 for) · 4 studies (4 causal), `q2`–`q3` · 0 of 4 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (9 for) · 5 studies (5 causal), `q2`–`q3` · 0 of 5 report an effect size · 7 claims rest on one study
 
 ## Description
 A U.S. Department of Education–supported programme that offered high-performing teachers financial incentives to transfer into hard-to-staff schools within participating districts.

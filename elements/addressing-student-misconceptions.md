@@ -13,7 +13,7 @@ generated:
 # Addressing Student Misconceptions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 44 claims (31 for, 11 mixed, 2 against) · 34 studies (18 causal, 6 associational, 4 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 9 of 34 report an effect size · 40 claims rest on one study
+> **Evidence** · 45 claims (32 for, 11 mixed, 2 against) · 35 studies (19 causal, 6 associational, 4 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 9 of 35 report an effect size · 41 claims rest on one study
 
 ## Description
 Activating students' prior knowledge is usually beneficial, but it is a mixed blessing when that prior knowledge is itself misleading or wrong — a common situation at any grade level, not just among young children. A kindergartner may think the sun literally "rises" (echoing adult speech) or that the earth is flat because it looks flat from the ground; a high school student may believe a boulder falls faster than a pebble, or that an object dropped from a moving car falls straight down rather than continuing to travel alongside the car as it falls.
@@ -89,6 +89,7 @@ Second, and just as important: **treat students' existing beliefs with respect**
 - [Adding a whole-number-strategy misconception to a fraction tutor's student model improved its fit to the data and gave per-student misconception estimates that tracked pre-test errors](../claims/misconception-kc-improves-fraction-student-model.md) [+W]
 - [Most student teachers misidentify the poles of a temporary magnet formed by frictional magnetization, with the misconception more frequent in the control group](../claims/frictional-magnetization-pole-misconception.md) [+W]
 - [Prospective science teachers in both groups held conceptual misunderstandings about sound, electricity, magnetism, light and optics](../claims/prospective-teachers-physics-misconceptions-five-topics.md) [+W]
+- [Participants commonly view a magnetic pole as located at the ends, a view associated with upper-lower or internal-external surfaces for a ring magnet.](../claims/poles-viewed-as-located-at-ends.md) [+W]
 
 ## The evidence by question
 - *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]

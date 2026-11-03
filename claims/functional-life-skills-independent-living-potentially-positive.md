@@ -3,6 +3,7 @@ type: claim
 title: Functional life skills development programs show potentially positive effects on independent living, with a small evidence base
 description: Functional life skills development programs show potentially positive effects on independent living, with a small evidence base
 id: functional-life-skills-independent-living-potentially-positive
+aliases: [functional-life-skills-potentially-positive-independent-living]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -18,16 +19,27 @@ sources:
     i: "?"
     kind: review
     rigour: "?"
+  - id: cobb-2013
+    resource: "http://ies.ed.gov/pubsearch/pubsinfo.asp?pubid=NCEE20134011"
+    title: "Cobb, R. B., Lipscomb, S., Wolgemuth, J., Schulte, T., Veliquette, A., Alwell, M., Batchelder, K., Bernard, R., Hernandez, P., Holmquist-Johnson, H., Orsi, R., Sample McMeeking, L., Wang, J., and Weinberg, A. (2013). Improving Post-High School Outcomes for Transition-Age Students with Disabilities: An Evidence Review (NCEE 2013-4011). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. http://ies.ed.gov/pubsearch/pubsinfo.asp?pubid=NCEE20134011"
+    author: Cobb, R. B., Lipscomb, S., Wolgemuth, J., Schulte, T., Veliquette, A., Alwell, M., Batchelder, K., Bernard, R., Hernandez, P., Holmquist-Johnson, H., Orsi, R., Sample McMeeking, L., Wang, J., and Weinberg, A.
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Functional life skills development programs show potentially positive effects on independent living, with a small evidence base
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r?` · `q2`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q2 i?` Functional life skills development programs had potentially positive effects on independent living, though the extent of evidence was small. [→ R. Brian Cobb 2013](#r-brian-cobb-2013)
+
+`q2 i?` Functional life-skills development programs were found to have potentially positive effects on independent living outcomes, but the extent of evidence was small. [→ Cobb 2013](#cobb-2013)
 
 ## Evidence
 
@@ -41,7 +53,19 @@ The review's summary states functional life skills development programs had "pot
 
 > "Functional life skills development programs had potentially positive effects on independent living although the extent of evidence was small."
 
+### Cobb 2013
+
+Cobb, R. B., Lipscomb, S., Wolgemuth, J., Schulte, T., Veliquette, A., Alwell, M., Batchelder, K., Bernard, R., Hernandez, P., Holmquist-Johnson, H., Orsi, R., Sample McMeeking, L., Wang, J., and Weinberg, A. (2013). Improving Post-High School Outcomes for Transition-Age Students with Disabilities: An Evidence Review (NCEE 2013-4011). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. http://ies.ed.gov/pubsearch/pubsinfo.asp?pubid=NCEE20134011
+
+`q2 · i?` · `review · r2`
+
+Finding based on 13 single-case design studies meeting WWC pilot standards with reservations, involving 42 students, nearly all with intellectual disability. The review reports "potentially positive effects on independent living outcomes" with a small evidence base.
+
+> "Functional life-skills development programs were found to have potentially positive effects on independent living outcomes. But, again, the extent of evidence was small."
+
 ## Discussion
+
+
 
 ## Related Claims
 
@@ -50,3 +74,5 @@ The review's summary states functional life skills development programs had "pot
 - [The WWC found Voyager Universal Literacy System® had potentially positive effects on alphabetics for kindergarten students](voyager-potentially-positive-alphabetics.md) — related
 - [Attending Green Dot Public Schools produces statistically significant positive effects on high school mathematics achievement (potentially positive effects rating, small extent of evidence)](green-dot-positive-math-achievement.md) — related
 - [UCSMP Algebra has potentially positive effects on the algebra domain, with mixed findings across two studies and a small extent of evidence](ucsmp-algebra-potentially-positive-algebra-domain.md) — related
+- [Computer-based instruction and prompting strategies may help students with intellectual disabilities live more independently by increasing functional skills](computer-instruction-prompting-independent-living-hypothesis.md) — related
+- [Community-based work experience programs show potentially positive effects on postsecondary education outcomes, with a small extent of evidence](community-based-work-programs-postsecondary-potentially-positive.md) — related

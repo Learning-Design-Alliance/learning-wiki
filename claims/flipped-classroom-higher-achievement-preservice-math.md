@@ -63,3 +63,4 @@ Quasi-experimental study with 25 students per group, groups formed by prior achi
 - [Pre-service teachers in PBL groups achieve significantly higher post-test scores than those in lecture-based computer course groups](pbl-higher-achievement-than-lbcc-pre-service-teachers.md) — related
 - [Peer instruction produced significantly higher post-test conceptual comprehension scores than traditional lecture in a pre-service teacher methodology course](peer-instruction-higher-posttest-conceptual-comprehension.md) — related
 - [Material resources in schools are a necessary but non-sufficient condition for effective ICT integration; an active and dynamic methodological approach must also be implemented.](escuela2-material-resources-insufficient.md) — related
+- [The EmMa continuous professional development course significantly improved early childhood teachers' mathematical pedagogical content knowledge](emma-improves-mpck-early-childhood-teachers.md) — related

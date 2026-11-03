@@ -52,3 +52,4 @@ Questionnaire II habit items (Likert scale) showed meaning/definition lookup hig
 - [Dictionary type used is significantly associated with lexical proficiency in writing among upper-intermediate Iranian EFL learners](dictionary-type-associated-lexical-proficiency-writing.md) — related
 - [Skill in dictionary use correlates strongly with lexical proficiency in writing](dictionary-use-skill-correlates-lexical-proficiency.md) — related
 - [Trainees most often checked new-word pronunciation with online dictionaries, but rarely checked words they believed they already knew](online-dictionary-pronunciation-checking.md) — related
+- [Language skills are the most frequent scope of bilingualism research, examined in 21 of the sample studies](bilingualism-research-most-common-scope-language-skills.md) — related

@@ -49,3 +49,4 @@ fNIRS hyperscanning of child-instructor dyads during the interactive sessions co
 - [Child-instructor neural synchrony did not directly correlate with children's word-learning outcomes](no-synchrony-learning-outcome-correlation.md) — related
 - [Scaffolding storytelling yields better novel word learning than passive story-listening in first-grade children during in-person sessions](scaffolding-storytelling-better-word-learning-in-person.md) — related
 - [The scaffolding word-learning advantage disappears in remote (online) learning sessions](scaffolding-advantage-disappears-remote.md) — related
+- [Story schema knowledge is acquired through continuous interaction with stories during a reading intervention](story-schema-acquired-through-intervention.md) — related

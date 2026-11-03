@@ -74,3 +74,4 @@ The synthesis reports, citing the Digital Education Council Global AI Faculty Su
 - [Teachers' low digital competence and lack of AI training frameworks are key barriers to GAI integration in K-12](teacher-digital-competence-barrier-gai-k12.md) — related
 - [Teachers value pronunciation instruction highly but report seldom teaching it and low satisfaction with how they teach it](teachers-value-pronunciation-but-seldom-teach-it.md) — related
 - [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related
+- [Faculty overwhelmingly value active learning but report structural barriers to implementing it.](active-learning-valued-but-barriers-exist.md) — related

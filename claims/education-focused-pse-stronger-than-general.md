@@ -50,3 +50,4 @@ Three-level mixed-effects model (M2) testing parenting self-efficacy type as a f
 ## Related Claims
 - [Parenting self-efficacy correlates most strongly with home-based participation and parental expectations and aspirations, and least with parent-teacher communication and relationships](pse-strongest-home-based-and-expectations.md) — related
 - [Parenting self-efficacy shows a small to medium positive correlation with parents' contributions to the home-school partnership among primary school families](pse-hsp-overall-correlation.md) — a broader claim this one bears on
+- [A parent-focused transition program increases parental self-efficacy to manage the transition to primary school](parent-transition-program-increases-transition-self-efficacy.md) — related

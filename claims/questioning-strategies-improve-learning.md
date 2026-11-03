@@ -158,3 +158,4 @@ Reviewed studies of "wait time" — the duration of pauses separating utterances
 - [Integrating external knowledge improves the quality and complexity of generated questions](external-knowledge-improves-question-quality.md) — related
 - [Treatment teachers more often evaluated student understanding via leveled questions, while control teachers more often monitored student performance](treatment-leveled-questions-vs-control-monitoring.md) — related
 - [The experiment group teacher credited small-group work, interaction, modelling and student question-writing for improved comprehension and recall](teacher-opinions-reciprocal-teaching-benefits.md) — related
+- [Only the L1 discussion group showed higher-order processing such as comprehension monitoring, autobiographical connections, and questioning textual reliability](l1-discussion-higher-order-processing.md) — a narrower finding that bears on this claim

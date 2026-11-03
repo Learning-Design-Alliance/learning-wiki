@@ -49,3 +49,4 @@ Quasi-experimental pretest-posttest study of 88 mathematics students at Universi
 - [A project-based flipped learning model raised translation competence test scores in a Business English Translation course over one 16-week semester](flipped-translation-competence-posttest-gain.md) — related
 - [CLIL and non-CLIL groups were homogeneous in language and content knowledge at pretest](clil-and-non-clil-groups-homogeneous-at-pretest.md) — related
 - [CLIL instruction significantly improved aviation English posttest performance compared to traditional instruction](clil-improved-aviation-english-posttest-performance.md) — related
+- [CLIL students scored high marks on teacher continuous assessment integrating language and mathematics elements](clil-teacher-continuous-assessment-high-marks.md) — related

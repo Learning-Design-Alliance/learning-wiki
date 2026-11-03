@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 92 claims (59 for, 32 mixed, 1 against) · 75 studies (37 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 22 of 75 report an effect size · 84 claims rest on one study
+> **Evidence** · 96 claims (61 for, 34 mixed, 1 against) · 78 studies (40 causal, 19 quant-synthesis, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 22 of 78 report an effect size · 88 claims rest on one study
 
 ## Description and scope
 
@@ -199,6 +199,10 @@ This pattern is scoped to small-group work where each member's individual learni
 - [No significant gender difference in biology performance among students taught with cooperative CAI](../claims/no-gender-difference-cooperative-cai.md) [~W]
 - [Blind students taught with CLE performed significantly better in Thai language development than traditionally taught students at the .01 level, with one small kindergarten group as an exception](../claims/cle-blind-students-significant-thai-language.md) [+W]
 - [The cooperative learning group improved significantly from pretest to posttest](../claims/cooperative-group-pretest-posttest-gain.md) [+W]
+- [Students perceive cooperative learning as less effective for English competency and learning efficiency than for practice and interest](../claims/cooperative-learning-perceived-competency-efficiency-lower.md) [~W]
+- [The study's results contrast with claims that students in Islamic countries cannot be taught through cooperative learning](../claims/ctbl-contradicts-ab-raza-islamic-countries-claim.md) [+W]
+- [Students perceive cooperative learning as increasing opportunities to practise English](../claims/cooperative-learning-increases-practice-opportunities.md) [+W]
+- [Cooperative learning showed a significant cross-level interaction with pretest computation competence at posttest, with higher-pretest students benefiting more from CL than control peers](../claims/cl-pretest-cross-level-interaction-posttest.md) [~W]
 
 ## Related Patterns
 

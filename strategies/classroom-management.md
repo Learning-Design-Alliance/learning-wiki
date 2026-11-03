@@ -64,6 +64,7 @@ The strongest finding in the management literature is that prevention outperform
 - [Check-In](../elements/check-in.md) — routine relationship maintenance that surfaces problems early
 - [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
 - [Use RJ strategies such as proactive circles to manage classrooms and establish norms beyond discipline](proactive-circles-classroom-management-norms.md)
+- [Provide teachers with a concrete set of classroom management principles for stimulating lessons, clear instructions, routines, and strategic seating](classroom-management-principles-for-adhd.md)
 
 ## Examples
 - **Positive Behavioral Interventions and Supports (PBIS)** ([https://www.pbis.org](https://www.pbis.org)) — school-wide framework teaching expectations explicitly and tiering support; associated with reductions in office discipline referrals [+M]

@@ -63,3 +63,5 @@ Paired-samples t-test on the experimental group (n=55) in a pretest posttest qua
 - [Perceived reading strategy use positively affected reading comprehension among Grade 11 ESL learners](strategy-use-positively-affects-comprehension-grade11-esl.md) — related
 - [Explicit metacognitive strategy instruction increases ESL learners' use of monitoring and assessment strategies but not planning strategies](metacognitive-instruction-increases-monitoring-assessment-not-planning.md) — related
 - [Explicit metacognitive strategy instruction improves ESL reading comprehension performance](metacognitive-strategy-instruction-improves-esl-reading-comprehension.md) — a narrower finding that bears on this claim
+- [PBL instruction significantly improved EFL learners' English reading comprehension compared with traditional reading instruction](pbl-significantly-improves-efl-reading-comprehension-taiwan-university.md) — related
+- [Automated formative evaluations via QMP produced no statistically significant reading comprehension improvement compared to printed materials](qmp-automated-formative-evaluations-no-significant-reading-gains.md) — reports the opposite

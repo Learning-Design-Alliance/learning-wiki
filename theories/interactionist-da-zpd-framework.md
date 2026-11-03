@@ -61,6 +61,7 @@ Dynamic assessment is presented as a Vygotskian alternative to psychometric test
 - [Mediate each grammar-test item interactively using clue-seeking, elimination and comparison strategies, with a take-home information paper](../strategies/mediated-item-strategies-information-paper.md)
 - [Use structured hints graduated from implicit to explicit during DA mediation](../strategies/structured-hints-da-mediation-strategy.md)
 - [RECIPROCITY rating scale](../products/reciprocity-rating-scale.md)
+- [Use a dynamic practice session with mediated assistance, group ZPD, and collaborative engagement prior to dynamic speaking assessments](../strategies/dynamic-practice-session-ma-gzpd-ce.md)
 
 ## Key Sources
 - Ebadi, S. (2016). Exploring DIALANG's Diagnostic Feedback in Online L2 Dynamic Assessment. Teaching English with Technology, 16(1), 41-58. https://eric.ed.gov/?id=EJ1135925

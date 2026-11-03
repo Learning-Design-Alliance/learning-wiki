@@ -47,3 +47,4 @@ Descriptive comparison of pre/post standard deviations in the same quasi-experim
 ## Related Claims
 - [Form-focused instruction reduced individual variation in performance, with standard deviations in both experimental groups dropping markedly more than in the control group](form-focused-instruction-reduces-individual-variation.md) — related
 - [The treatment did not level out inter-subject differences and made the treatment group more diverse in second conditional performance](treatment-increased-inter-subject-variation.md) — related
+- [CTBL class became more homogeneous in proficiency while the GI class remained heterogeneous](ctbl-homogenizes-team-proficiency.md) — related

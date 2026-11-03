@@ -52,3 +52,4 @@ The dissertation reports, citing Aust, Kelley and Roby (1993), a study of 80 fif
 - [In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print](sms-vocabulary-learning-beats-paper-materials.md) — related
 - [Comprehension questions are the most effective extensive reading treatment for vocabulary learning, followed by dictionary usage and vocabulary exercise](comprehension-questions-most-effective-er-treatment.md) — related
 - [Learners most commonly consult dictionaries to find word meanings during reading and writing, and least before listening](dictionary-habits-meaning-lookup-reading.md) — related
+- [Students preferred short SMS exercises answerable immediately without reference materials](sms-short-immediate-exercises-preferred.md) — related

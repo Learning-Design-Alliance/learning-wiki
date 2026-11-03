@@ -49,3 +49,4 @@ The author connects the dosage in both studies (570 and 180 minutes) to Podlozny
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](ai-effect-duration-one-to-two-months-peak.md) — related
 - [Intervention dosage (duration, frequency, intensity) shows no consistent association with app effect sizes](app-dosage-no-consistent-association.md) — related
 - [The authors interpret the null between-group result as reflecting the program's short duration and students' lack of experience with critical thinking tasks](mbsep-short-duration-interpretation.md) — related
+- [Fluency and accuracy moved in opposite directions under drama-based instruction](fluency-accuracy-tradeoff-drama.md) — related

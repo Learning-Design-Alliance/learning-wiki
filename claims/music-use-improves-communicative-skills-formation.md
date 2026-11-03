@@ -51,3 +51,4 @@ Quasi-experimental formation-stage comparison: experimental group A (22 students
 - [Mobile VR-based music genre learning improves genre characterization learning compared to traditional lessons with printed materials and passive listening](mobile-vr-improves-music-genre-characterization-learning.md) — related
 - [Both groups improved significantly from pre-test to post-test, but the blended learning group's average gain (16.11) was roughly twice the control group's gain (9.62)](blended-gain-double-traditional-gain-music.md) — related
 - [Traditional song teaching with educational music repertoire produced significant attitude increases only on performance-related items and no significant change on other items](traditional-repertoire-song-teaching-limited-attitude-change.md) — related
+- [Experimental group exceeded control group in high-level knowledge component of communicative competence](experimental-group-higher-knowledge-component.md) — related

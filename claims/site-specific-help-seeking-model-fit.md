@@ -52,3 +52,4 @@ Cross-validated linear regression models built per site from log-derived help-se
 - [Pre-test knowledge differed significantly across the three countries, producing a country by test time interaction](pretest-differences-country-time-interaction.md) — related
 - [Help-seeking skill models built from ITS practice data were not transferable across Costa Rican, Philippine, and US contexts (reported by Ogan et al., 2014)](help-seeking-models-not-transferable-across-cultures.md) — related
 - [Collaborative classroom practice in Costa Rica may explain why help-seeking models fail to transfer there](collaboration-explains-costa-rica-divergence.md) — related
+- [The Philippines has the highest degree of linguistic diversity among the selected countries with more than 180 languages spoken](philippines-highest-linguistic-diversity-180-languages.md) — related

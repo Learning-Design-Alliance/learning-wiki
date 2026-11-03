@@ -49,3 +49,4 @@ RCT of 56 children with ADHD (30 intervention, 26 control) aged 5-9; parent ADHD
 - [NAT produced large gains in Chinese handwriting construction and accuracy but no significant effect on directionality was detected](nat-chinese-handwriting-construction-accuracy-gains.md) — related
 - [By parent report, 62% of intervention children versus 21% of controls responded or improved on ADHD symptom criteria](pfs-responder-analysis-parent-report-clinical-response.md) — related
 - [Behavioral functioning improves significantly across all intervention groups in similar magnitude](behavioral-improvement-equivalent-across-groups.md) — reports the opposite
+- [Both intervention and control groups remained significantly more symptomatic than the normal comparison group at post-assessment](post-assessment-gap-with-normal-comparison-remains.md) — related

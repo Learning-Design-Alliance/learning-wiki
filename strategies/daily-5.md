@@ -61,9 +61,11 @@ Daily 5 converts the literacy block from whole-class seatwork into structured in
 6. **Align Word Work and Work on Writing** to your phonics and writing scope and sequence so independent tasks reinforce, rather than diverge from, taught content.
 
 ## Related Strategies
+
 - [Guided reading small groups](../strategies/guided-reading.md) — the teacher-led instruction Daily 5 rotations exist to make time for
 - [Independent reading](independent-reading-time.md) — the highest-value single task within the rotation
 - [Work stations / literacy centers](../strategies/literacy-centers.md) — the broader family of rotation structures Daily 5 simplifies
+- [Implement a daily structured reading routine combining fixed free-reading and variable enrichment activities](daily-structured-reading-routine-strategy.md)
 
 ## Examples
 - **The Daily CAFE (dailycafe.com)** — the publisher's official site with launch sequences, stamina charts, and conferring protocols.

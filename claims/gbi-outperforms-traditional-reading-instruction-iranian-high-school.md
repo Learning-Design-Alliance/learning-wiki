@@ -64,3 +64,4 @@ Quasi-experimental comparison of 40 experimental and 40 control participants aft
 - [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in reading comprehension](web-based-instruction-outperforms-traditional-reading.md) — related
 - [Flipped model of instruction has a significant positive effect on Iranian EFL learners' reading comprehension](flipped-instruction-improves-efl-reading-comprehension.md) — related
 - [Nine of ten scored treatment-group participants performed at high-intermediate or advanced ESL reading comprehension levels on the TABE-CLAS-E posttest](treatment-tabe-reading-proficiency-levels.md) — related
+- [Supplementary textbook use (Khate Sefid) improves reading comprehension of Iranian female high school EFL learners compared with the national textbook alone](khate-sefid-supplementary-textbook-improves-reading-comprehension.md) — related

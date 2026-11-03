@@ -279,3 +279,4 @@ This study found that the seductive details effect was not uniform: readers with
 - [Background music with lyrics impaired reading comprehension and listening performance, especially under high linguistic load](lyrical-bgm-interference.md) — a narrower finding that bears on this claim
 - [The main disadvantages of AR in physics teaching are software and hardware shortcomings (e.g., camera freeze, visualization delay) and extraneous cognitive load from attending to secondary details](ar-physics-disadvantages-technical-and-extraneous-load.md) — related
 - [Materials-only instruction with increasing irrelevant propositions improves experimental problem-solving accuracy for children with MD](materials-only-improves-md-experimental-problem-solving.md) — reports the opposite
+- [Visual elements of video may distract test takers and impose cognitive load during listening assessment](video-visuals-distract-test-takers.md) — a narrower finding that bears on this claim

@@ -60,8 +60,10 @@ Stamina is a capacity that develops through practice under manageable load, much
 6. **Build toward a goal.** Aim for developmentally appropriate sustained reading (roughly 20–30+ minutes for upper elementary and secondary students).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — brief pre-reading activation helps students enter a text and sustain engagement
 - [Sustained Silent Reading](sustained-silent-reading.md) — the broader routine within which gradual increase operates
+- [Implement a daily structured reading routine combining fixed free-reading and variable enrichment activities](daily-structured-reading-routine-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — stamina is built through repeated, distributed reading practice

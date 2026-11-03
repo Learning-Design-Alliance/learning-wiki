@@ -54,3 +54,4 @@ The report's formative assessment section, drawing on educator interviews. One t
 - [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](students-find-chatgpt-useful-but-lacking-depth.md) — related
 - [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](ai-math-pedagogical-opportunities-personalisation-feedback.md) — a broader claim this one bears on
 - [The commentary argues there is little evidence that personalised learning technologies have saved teacher time or reduced workload](little-evidence-personalisation-saves-teacher-time.md) — related
+- [Workload was the number one challenge to effective teaching identified by faculty (341 comments).](workload-top-faculty-teaching-challenge.md) — related

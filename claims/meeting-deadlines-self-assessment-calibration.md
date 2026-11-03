@@ -52,3 +52,4 @@ Study 1 results, mixed-model ANOVA on the meeting deadlines facet; the interacti
 - [Bias scores did not improve over the school year, but school year level mattered: year 1 students became less overconfident while year 3 students improved their underconfidence](bias-no-change-year-level-effects.md) — related
 - [In Study 1 the treatment group reported a significant decrease in stress while the control group reported no change](stress-decrease-time-management-intervention.md) — related
 - [The time management intervention did not improve self-reported time management skills relative to control in skill-bucket analyses](tm-intervention-no-self-reported-skill-gain.md) — related
+- [Students in the treatment group decreased in self-awareness while control students increased, a finding the authors attribute to the self-consciousness measure used.](rd-program-self-awareness-decreased-in-treatment-group.md) — related

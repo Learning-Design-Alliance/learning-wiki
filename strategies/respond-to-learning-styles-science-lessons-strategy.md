@@ -48,6 +48,7 @@ Based on the study's results, the authors recommend that teachers deliver scienc
 
 - [Select TTS dialogue format by learner characteristics, with LMS pre-assessment routing and role disclosure supports](route-tts-dialogue-format-by-learner-style.md)
 - [Use a three-stage model to help learners identify and apply their learning-style characteristics](three-stage-learning-style-awareness-model.md)
+- [Use general teaching techniques and materials that cover the needs of learners with diverse learning preferences](general-techniques-diverse-learning-preferences.md)
 
 ## Examples
 -

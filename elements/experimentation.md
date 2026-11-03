@@ -13,7 +13,7 @@ generated:
 # Experimentation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (10 for, 9 mixed, 2 against) · 29 studies (13 causal, 9 quant-synthesis, 2 review, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 29 report an effect size · 15 claims rest on one study
+> **Evidence** · 22 claims (11 for, 9 mixed, 2 against) · 30 studies (14 causal, 9 quant-synthesis, 2 review, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 30 report an effect size · 16 claims rest on one study
 
 ## Description
 Experimentation asks learners to pose a question or prediction, systematically vary conditions, observe outcomes, and revise their understanding based on evidence. It functions as both a learning activity and a model of scientific reasoning: the learner generates a hypothesis, gathers data, and confronts discrepancies between expectation and result.
@@ -67,6 +67,7 @@ Experimentation supports learning by making learners active generators and teste
 - [Students taught with experiments perceived less cognitive load than students taught by traditional method](../claims/experiment-method-lower-perceived-cognitive-load.md) [+W]
 - [High prior reasoning students outperform low reasoning students in generating questions, identifying variables, and making hypotheses](../claims/high-reasoning-outperforms-inquiry-steps.md) [~W]
 - [All students improved experimental design knowledge after simulation exposure (main effect of time)](../claims/vct-knowledge-main-effect-of-time.md) [+W]
+- [Students in traditional and experiment conditions outperform tablet condition on transfer questions about fog formation](../claims/transfer-fog-traditional-experiment-outperform-tablet.md) [+W]
 
 ## The evidence by question
 - *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]

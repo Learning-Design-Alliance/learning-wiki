@@ -64,6 +64,7 @@ Vocabulary knowledge is incremental and relational: learners acquire word meanin
 - [Concept Attainment](../patterns/concept-attainment.md) — gradients are a continuous version of the same compare/contrast logic
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — positioning words on a continuum is analogical mapping of degree
 - [Teach vocabulary through contextual-clue inference strategies rather than mechanical grammar questions](contextual-clue-vocabulary-inference-strategy.md)
+- [Teach vocabulary through context clues in supplementary reading passages](vocabulary-through-context-clues-supplementary-texts.md)
 
 ## Examples
 - **Bringing Words to Life (Beck, McKeown, & Kucan)** — Tier Two vocabulary routines including word relationships and "word wizards" activities that gradients extend; gradients appear widely in the companion *Robust Vocabulary Instruction* materials.

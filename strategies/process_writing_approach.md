@@ -104,6 +104,7 @@ The approach works because it distributes cognitive load across the composing cy
 - [Action-oriented feedback](action-oriented-feedback.md) — conference and peer feedback should specify what to do next, not just evaluate
 - [Use GenAI across the writing process stages of pre-writing, drafting language support, and revision feedback, and for discussion questions, differentiated explanations, and scaffolded practice](genai-writing-process-and-instructional-uses.md)
 - [Alleviate writer's block through planning and outlining, drafting without perfectionism, and editing beyond spell-check](writers-block-three-step-alleviation-strategy.md)
+- [Provide teacher scaffolding throughout all stages of the writing process, giving feedback on drafts and gradually transferring responsibility to learners.](teacher-scaffolding-throughout-writing-process.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — high writing volume is the fluency engine of the approach

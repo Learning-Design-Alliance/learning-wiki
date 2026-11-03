@@ -63,3 +63,4 @@ Authors' hypothesis displayed in Figure 3 (Implementation Supports to Curriculum
 - [An SEL program with mindfulness training (MindUP) improved diurnal cortisol slopes and social-emotional, self-concept, and math outcomes versus an active control](mindup-cortisol-randomized-trial.md) — related
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — a broader claim this one bears on
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — related
+- [Implementation fidelity in SEL programs is closely linked to positive program outcomes for teachers and students](sel-fidelity-linked-outcomes.md) — a broader claim this one bears on

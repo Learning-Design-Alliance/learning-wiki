@@ -52,3 +52,4 @@ This is the brief's central interpretive argument, not a tested result: low expo
 - [AI adoption at work shows generational and occupational patterns, with younger workers and tech, professional services, and finance fields more likely to use AI](generational-occupational-ai-adoption-patterns.md) — related
 - [Workforce readiness for AI is widely acknowledged as a priority but implemented in concentrated pockets rather than coordinated across disciplines](ai-workforce-readiness-concentrated-not-coordinated.md) — related
 - [The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment](k12-systems-positioned-for-entry-level-career-credentials.md) — related
+- [Participation in career and technical education or working while in high school may relate to better employment outcomes for students with disabilities](cte-and-inschool-employment-employment-hypothesis.md) — related

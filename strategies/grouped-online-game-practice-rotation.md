@@ -47,6 +47,7 @@ The article's implementable classroom recipe: select games from free online game
 ## Related Strategies
 
 - [Use index-card games as follow-up activities to consolidate and retain new vocabulary](index-card-game-vocabulary-follow-up.md)
+- [Select modular tutoring system lessons and games most relevant to the target writing task](select-modular-tutor-modules-for-target-task.md)
 
 ## Examples
 -

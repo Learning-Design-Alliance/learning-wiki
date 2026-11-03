@@ -31,7 +31,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 54 claims (28 for, 23 mixed, 3 against) · 66 studies (40 causal, 12 review, 10 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 17 of 66 report an effect size · 47 claims rest on one study
+> **Evidence** · 55 claims (28 for, 24 mixed, 3 against) · 67 studies (41 causal, 12 review, 10 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 17 of 67 report an effect size · 48 claims rest on one study
 
 ## Conditional relationship
 
@@ -195,6 +195,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Tree-thinking gains from the experimental curriculum were retained on an unannounced closed-book posttest given 5–6 weeks after primary instruction](../claims/tree-thinking-gains-retained-unannounced-delayed-posttest.md) [+W]
 - [Both treatment groups made significant pre-test to post-test gains on the acceptability judgment test, and the gains were maintained at delayed post-test](../claims/ajt-gains-maintained-delayed-posttest.md) [~W]
 - [Control-group success rates mostly declined from week one to week two](../claims/control-group-success-declined-second-week.md) [+W]
+- [DMC is superior to DOC on short-term improvement of implicit knowledge, but its effect wears off over time.](../claims/dmc-superior-doc-short-term-implicit-knowledge.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

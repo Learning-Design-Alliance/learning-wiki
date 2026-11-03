@@ -67,6 +67,7 @@ Collaboration improves achievement when it is genuinely cooperative — positive
 - [Project-Based Learning](project-based-learning-pbl.md) — sustained collaborative work toward an authentic product
 - [Design learning tasks with high interdependence to promote student collaboration](design-high-interdependence-tasks-collaboration.md)
 - [Teachers should structure group work so student communication stays on-task and productive](structure-group-communication-on-task.md)
+- [Structure positive interdependence through goal, role, and reward interdependence in cooperative base groups](structure-positive-interdependence-goal-role-reward.md)
 
 ## Examples
 - **Jigsaw classroom** (Aronson) — students become "experts" in one segment and teach it to their home group; the original design specifically used interdependence to reduce intergroup bias ([jigsaw.org](https://www.jigsaw.org)).

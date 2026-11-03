@@ -49,3 +49,4 @@ Independent-samples t-test comparing two groups of 30 pre-intermediate EFL learn
 - [Traditionally taught elementary EFL learners significantly outperform web-based learners in structural knowledge](traditional-instruction-outperforms-web-based-structure.md) — related
 - [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in reading comprehension](web-based-instruction-outperforms-traditional-reading.md) — related
 - [Flipped model of instruction has a significant positive effect on Iranian EFL learners' reading comprehension](flipped-instruction-improves-efl-reading-comprehension.md) — related
+- [Supplementary textbook use (Khate Sefid) improves reading comprehension of Iranian female high school EFL learners compared with the national textbook alone](khate-sefid-supplementary-textbook-improves-reading-comprehension.md) — related

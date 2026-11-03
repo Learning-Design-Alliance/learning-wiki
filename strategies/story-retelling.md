@@ -67,6 +67,7 @@ Retelling forces learners to construct a coherent representation of a text rathe
 - [Acting-Role-Play](acting-role-play.md) — dramatization variant of retelling that adds embodied encoding
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — extends comprehension monitoring to expository text through structured dialogue
 - [Story retelling with familiar picture books to practice sequencing](story-retelling-sequencing-familiar-books.md)
+- [Use short reading passages from supplementary books as springboards for integrated skills practice (retelling, summarizing, role play)](supplementary-passages-integrated-skills-practice.md)
 
 ## Examples
 - **[Text Talk](text-talk.md) (Beck & McKeown)** — published K–1 program in which teachers read decontextualized storybook text, then lead discussion and retelling focused on story structure and vocabulary rather than pictures.

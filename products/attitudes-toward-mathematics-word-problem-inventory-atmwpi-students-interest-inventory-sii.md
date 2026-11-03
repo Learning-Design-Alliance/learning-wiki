@@ -33,6 +33,7 @@ Awofala's study-developed battery comprising an attitudes inventory, an interest
 ## Related Products and Programmes
 
 - [Mathematics Achievement Test (MAT) and Mathematics Interest Inventory (MII) instruments](mathematics-achievement-test-mat-and-mathematics-interest-inventory-mii-instruments.md)
+- [Attitudes toward Mathematics Inventory (ATMI)](attitudes-toward-mathematics-inventory-atmi.md)
 
 ## Key Sources
 - Awofala, A. O. A. (2014). Examining Personalisation of Instruction, Attitudes toward and Achievement in Mathematics Word Problems among Nigerian Senior Secondary School Students. International Journal of Education in Mathematics, Science and Technology, 2(4), 273-288. https://www.ijemst.com

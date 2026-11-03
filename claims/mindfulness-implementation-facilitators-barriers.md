@@ -48,3 +48,5 @@ The review's implementation analysis of feasibility reports from included studie
 - [Implementation of co-regulation strategies was shaped by classroom context, facilitator experience and mindset, and varied in ease across strategies](co-regulation-implementation-factors-context-experience-strategy-ease.md) — related
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](competing-time-priorities-dominant-barrier-language-curriculum.md) — related
 - [Feasibility of implementing PAL in classrooms was mixed: initial enthusiasm faded as teacher workload accumulated](pal-feasibility-mixed-enthusiasm-faded.md) — related
+- [Demanding curriculum characteristics including overload, mandated flexibility constraints, and lack of time hinder implementation](macro-demanding-curriculum-hinders-implementation.md) — related
+- [Lack of support and infrastructure at the school level hinders curricular change implementation](meso-lack-support-infrastructure-hinders-implementation.md) — related

@@ -47,3 +47,4 @@ Control-phase re-testing of the gap-filling/synonym task, which at baseline yiel
 ## Related Claims
 - [Spanish B1 learners taught equivocal words through joke-telling retained more vocabulary on a two-week delayed post-test than learners taught the same items conventionally](joke-telling-improves-retention-equivocal-words.md) — related
 - [Teaching English grammar with humorous activities produced more correct quiz answers than traditional instruction in a small classroom experiment](humour-teaching-improves-grammar-quiz-results.md) — related
+- [Culture-based activities improve EFL learners' communicative and linguistic competence](culture-based-activities-improve-communicative-linguistic-competence.md) — a broader claim this one bears on

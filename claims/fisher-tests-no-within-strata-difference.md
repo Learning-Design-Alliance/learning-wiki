@@ -49,3 +49,4 @@ Within-strata Fisher exact tests in the same pedagogical experiment (17 experime
 - [A larger proportion of game-playing students showed positive score change than control students on adaptability and resourcefulness, but not significantly on communication](proportion-positive-change-games-vs-control.md) — related
 - [Experts verbalized fewer SRL phases overall than novices during clinical reasoning, with feelings of uncertainty almost absent among experts](experts-fewer-srl-verbalizations-less-uncertainty.md) — related
 - [Using the Learner's terminological thesaurus and dictionary yields a statistically significant pooled advantage over regular instruction in lexical-skill outcomes](thesaurus-dictionary-pooled-advantage-lexical-competence.md) — related
+- [Cooperative learning benefits higher-achieving students more on competency tests](cooperative-learning-benefits-higher-achievers.md) — related

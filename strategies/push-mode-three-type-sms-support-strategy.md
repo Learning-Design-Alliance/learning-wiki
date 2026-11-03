@@ -54,6 +54,7 @@ The article's implementable recipe: use the push mode, in which "the instructor 
 ## Related Strategies
 
 - [Weekly need-based e-mentoring messages via LINE combined with weekly in-class self-evaluations](line-e-mentoring-with-in-class-self-evaluation.md)
+- [Send SMS exercises in the afternoon or evening, two or three per week](sms-afternoon-evening-scheduling-strategy.md)
 
 ## Examples
 -

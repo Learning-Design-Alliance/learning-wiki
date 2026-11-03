@@ -70,6 +70,7 @@ Self correction works because it activates self-monitoring during learning: lear
 - [Use self-scoring against correct answers as a tool to foster primary students' monitoring accuracy during math problem-solving practice](self-scoring-foster-monitoring-accuracy-strategy.md)
 - [Use a pupil-plays-teacher error-correction game format for language testing](pupil-plays-teacher-error-correction-format.md)
 - [Have students correct each other's compositions in pairs before submission](pair-peer-correction-before-submission.md)
+- [Use editing checklists and correction symbols so students identify and correct their own mechanical errors rather than having the teacher correct them.](editing-checklists-correction-symbols.md)
 
 ## Examples
 - **Writing revision checklists** — Students use a COPS-style checklist (Capitalization, Organization, Punctuation, Spelling) to self-edit drafts before peer or teacher review; the routine is taught with modeled think-alouds first.

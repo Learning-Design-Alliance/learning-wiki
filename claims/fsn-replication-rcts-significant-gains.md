@@ -53,3 +53,4 @@ Best-evidence synthesis of five replication RCTs of First Step Next (N = 200, 28
 - [First Step Next reduces relational aggression and child-teacher conflict in at-risk preschoolers](fsn-relational-aggression-teacher-conflict-reduction.md) — related
 - [First Step to Success shows potentially positive effects on social outcomes (average improvement index +23)](first-step-success-positive-social-outcomes.md) — related
 - [First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)](first-step-success-internal-behavior-substantive-nonsig.md) — related
+- [Tertiary First Step reduces teacher- and parent-rated problem behavior relative to a comparison group](tertiary-first-step-reduces-problem-behavior.md) — related

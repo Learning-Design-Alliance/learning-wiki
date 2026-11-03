@@ -95,3 +95,4 @@ Theoretical argument summarising the utility value section, with no data: when A
 - [Teachers' beliefs show no correlation with their 3D printing integration levels](no-correlation-teacher-beliefs-3d-printing.md) — related
 - [Qualitative analysis suggests reciprocal relationship between utility-value and quality of technology integration, dependent on instructional context](reciprocal-utility-quality-relationship.md) — related
 - [Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality](utility-value-predicts-tech-integration.md) — related
+- [Teachers' disbelief about curricular change effectiveness reduces willingness to implement it](micro-teacher-disbelief-reduces-implementation-willingness.md) — a narrower finding that bears on this claim

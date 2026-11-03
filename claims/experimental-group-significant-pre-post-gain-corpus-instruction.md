@@ -58,3 +58,4 @@ Paired-samples t-test within the 15-student experimental group receiving corpus-
 - [Corpus-based DDL activities outperformed traditional activities for learning verb-adverb collocations in a Macedonian university study](ddl-collocations-daskalovska.md) — related
 - [DDL effects are consistent under specific conditions: limited native-speaker instructors, higher-level learners, both computer- and paper-based concordancing, and vocabulary/lexicogrammar uses](ddl-effective-conditions.md) — related
 - [Corpus-based DDL shows large effects on L2 learning outcomes in meta-analytic evidence](ddl-meta-analysis-large-effects.md) — related
+- [Teaching semantic prosody of English verbs through the DDL approach significantly improves EFL learners' vocabulary choice appropriateness compared with traditional instruction](ddl-semantic-prosody-improves-vocabulary-choice.md) — related

@@ -49,3 +49,4 @@ Qualitative follow-up interviews with six experimental-group students selected b
 - [Access to spell check and editing tools without explicit instruction did not improve, and may have reduced, control students' error correction](tool-access-alone-insufficient-editing.md) — related
 - [Journal writing with weekly teacher feedback fostered cooperative learning atmosphere and student-teacher rapport](journal-writing-builds-rapport-and-cooperation.md) — related
 - [Time management is the most overwhelming writing difficulty reported by the EFL students, alongside spelling and grammatical mistakes](time-management-overwhelming-efl-writing-difficulty.md) — related
+- [Scaffolding through the writing process approach met EFL students' needs and improved their writing skill despite persistent difficulty with basic elements such as grammar.](scaffolding-met-needs-despite-grammar-difficulty.md) — related

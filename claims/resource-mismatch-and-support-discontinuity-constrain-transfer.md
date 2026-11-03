@@ -93,3 +93,7 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [PBL was generally delivered with fidelity but required substantial management support and organisational change](pbl-fidelity-requires-management-support.md) — related
 - [Increased instructional time, access to material resources, and spatial reorganisation appear to have increased teachers' confidence and motivation](time-space-reorganisation-teacher-confidence.md) — related
 - [Teachers' lack of ICT knowledge and skills is reported as a major obstacle to ICT implementation, pointing to the need for further teacher training](teacher-ict-knowledge-gap-obstacle.md) — related
+- [Faculty overwhelmingly value active learning but report structural barriers to implementing it.](active-learning-valued-but-barriers-exist.md) — a narrower finding that bears on this claim
+- [Lack of guidance and inadequate professional development at the macro-level hinders curricular change implementation](macro-lack-guidance-inadequate-pd-hinders-implementation.md) — related
+- [The report hypothesizes transfer incentives affect achievement through team performance, collaboration, and resource reallocation pathways](tti-logic-model-pathways.md) — related
+- [Workload was the number one challenge to effective teaching identified by faculty (341 comments).](workload-top-faculty-teaching-challenge.md) — related

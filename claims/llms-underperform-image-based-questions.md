@@ -52,3 +52,4 @@ In the review's discussion of technical challenges, it states that "their perfor
 - [Multimodal input consistently improves accuracy but not F1, model size correlates moderately with performance, and reasoning models show mixed results](multimodality-size-reasoning-mixed-effects.md) — reports the opposite
 - [LLM errors on multimodal physics problems fall into four categories, with visual processing errors most prevalent, and error type distribution does not differ significantly across models](four-category-llm-multimodal-error-taxonomy.md) — related
 - [The Multimodal Interference Effect: mapping visual representations to physical concepts degrades LLM performance even on non-visual problem aspects](multimodal-interference-effect-llms.md) — a broader claim this one bears on
+- [Question type affects accuracy: feature-to-concept questions are answered best and applied questions worst](question-type-accuracy-ordering.md) — related

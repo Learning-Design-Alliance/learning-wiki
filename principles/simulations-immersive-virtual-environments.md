@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 298 claims (154 for, 127 mixed, 17 against) · 179 studies (75 review, 39 causal, 39 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 39 of 179 report an effect size · 293 claims rest on one study
+> **Evidence** · 299 claims (154 for, 127 mixed, 18 against) · 180 studies (75 review, 40 causal, 39 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 39 of 180 report an effect size · 294 claims rest on one study
 
 ## Conditional relationship
 
@@ -534,6 +534,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Prior studies cited in the article report mixed results, with Scerbo et al. finding simulated limbs outperformed a VRS for phlebotomy training while later simulator studies found advantages for simulation](../claims/mixed-prior-evidence-vrs-versus-traditional-training.md) [~W]
 - [Simulation-based biology teaching produced significantly higher post-test success scores than traditional teaching methods for education students.](../claims/simulation-biology-higher-posttest-success.md) [+W]
 - [Students taught with simulation methods reported satisfaction with simulation-based biology education.](../claims/simulation-biology-student-satisfaction.md) [~W]
+- [Integrated simulation-and-clinical-practice teaching produced no statistically significant difference in clinical basic skills or theory exam scores compared with traditional teaching](../claims/integrated-simulation-clinical-practice-no-score-difference.md) [-W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

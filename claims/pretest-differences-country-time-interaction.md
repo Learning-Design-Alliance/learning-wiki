@@ -52,3 +52,4 @@ Tukey post-hoc comparisons following a one-way ANOVA on pre-test scores across t
 - [Collaborative classroom practice in Costa Rica may explain why help-seeking models fail to transfer there](collaboration-explains-costa-rica-divergence.md) — related
 - [Help-seeking models transfer above chance across sites but perform poorly on the Costa Rican data](help-seeking-model-transfer-mixed.md) — related
 - [Carelessness detectors trained on Philippine students generalize to USA students without re-fitting](carelessness-detector-cross-country-generalizability.md) — related
+- [The Philippines has the highest degree of linguistic diversity among the selected countries with more than 180 languages spoken](philippines-highest-linguistic-diversity-180-languages.md) — related

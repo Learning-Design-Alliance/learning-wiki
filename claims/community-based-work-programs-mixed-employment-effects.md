@@ -48,3 +48,4 @@ The review's summary of its WWC-standards synthesis states that community-based 
 - [Way2Work Maryland did not affect employment or expectation outcomes as of 24 months after enrollment](way2work-no-employment-expectation-effects.md) — a narrower finding that bears on this claim
 - [Community-based work programs show potentially positive effects on postsecondary education outcomes for students with disabilities](community-based-work-programs-postsecondary-potentially-positive.md) — related
 - [Control group members had ready access to transition-related services, and Way2Work services may have substituted for existing services](way2work-services-substitutes-for-existing-services.md) — related
+- [Community-based work experience programs show mixed effects on employment outcomes for students with disabilities, based on a medium-to-large extent of evidence](community-based-work-experience-mixed-employment-effects.md) — possibly the same claim (merge candidate)

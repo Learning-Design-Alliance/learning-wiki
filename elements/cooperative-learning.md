@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 39 claims (27 for, 11 mixed, 1 against) · 32 studies (19 causal, 9 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q1`–`q3` · 9 of 32 report an effect size · 37 claims rest on one study
+> **Evidence** · 43 claims (29 for, 12 mixed, 2 against) · 34 studies (21 causal, 9 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q1`–`q3` · 9 of 34 report an effect size · 41 claims rest on one study
 
 ## Description
 Cooperative learning organizes instruction so that small groups of learners work interdependently toward a shared goal, with each member responsible for both their own learning and their teammates' learning. It is distinguished from mere group work by deliberate structuring: positive interdependence, individual accountability, promotive interaction, social skills, and group processing (Johnson & Johnson's five elements).
@@ -91,6 +91,10 @@ Cooperative learning reliably improves achievement when group goals and individu
 - [Cooperative learning produced higher General Science posttest achievement than traditional teaching among 9th-grade students](../claims/cooperative-learning-higher-general-science-achievement.md) [+W] — attached 2026-11-03 from Qaisara Parveen (2012), which proposed "Cooperative learning material package: five lesson plans, five worksheets and five quizzes with Slavin-style group scoring"; tests this page's relationship.
 - [The cooperative learning group improved significantly from pretest to posttest](../claims/cooperative-group-pretest-posttest-gain.md) [+W]
 - [Jigsaw cooperative learning produces more positive student attitudes toward learning than traditional lecture-based instruction in Vietnamese higher education.](../claims/jigsaw-learning-positive-attitudes-vietnamese-higher-ed.md) [+W]
+- [Cooperative learning showed a significant cross-level interaction with pretest computation competence at posttest, with higher-pretest students benefiting more from CL than control peers](../claims/cl-pretest-cross-level-interaction-posttest.md) [~W]
+- [The study's results contrast with claims that students in Islamic countries cannot be taught through cooperative learning](../claims/ctbl-contradicts-ab-raza-islamic-countries-claim.md) [+W]
+- [A 10-week structured intervention including cooperative learning produced no statistically significant main effects on non-counting computation competence of grade-2 persistent counters relative to a control group at posttest](../claims/structured-cooperative-intervention-no-main-effect-posttest.md) [-W]
+- [Both CTBL and GI groups improved significantly from pre-test to post-test](../claims/ctbl-gi-both-significant-gains.md) [+W]
 
 ## Related Elements
 - [Coaching](coaching.md) — the teacher's role shifts to monitoring groups and intervening at the process level

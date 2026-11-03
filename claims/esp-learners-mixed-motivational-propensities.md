@@ -115,3 +115,4 @@ Descriptive item analysis of intrinsic subtypes: "all Intrinsic Motivati on-Know
 - [Item analysis showed high self-reported engagement and subscale differences in discriminatory power, with social engagement items weakest and cognitive engagement items strongest](qcge-sas-item-analysis-discrimination-subscale-differences.md) — related
 - [Children with ADHD show higher external regulation, introjected regulation and amotivation, and lower intrinsic motivation and identified regulation, toward learning than TD children](adhd-motivation-profile-sdt-dimensions.md) — related
 - [Intrinsic motivation ranks among the lowest-centrality factors in students' AI motivational system](intrinsic-motivation-low-centrality-ai.md) — related
+- [Needs with weighted percentages above the questionnaire cut-score became the focus of the ESP course and project work](needs-cut-score-course-focus-qassim.md) — related

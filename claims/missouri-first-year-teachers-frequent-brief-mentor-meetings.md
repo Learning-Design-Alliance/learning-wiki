@@ -47,3 +47,4 @@ Weighted descriptive analysis of the 2022/23 MO DESE mentoring survey (analytic 
 ## Related Claims
 - [Time spent on specific mentoring activities varied widely, with some teachers never observed by mentors and others observed an hour or more a month](mentoring-activity-time-varied-widely.md) — related
 - [The mentoring topics first-year teachers most frequently received guidance on were noninstructional rather than instructional](mentoring-focused-on-noninstructional-topics.md) — related
+- [TTI transfer teachers received less mentoring but provided more mentoring than control counterparts](tti-mentoring-received-less-provided-more.md) — related

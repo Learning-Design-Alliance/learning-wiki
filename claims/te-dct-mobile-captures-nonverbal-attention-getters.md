@@ -51,3 +51,4 @@ Descriptive analysis of video responses from 13 participants (8 L1, 5 L2 Spanish
 - [Participants showed little metapragmatic awareness of their own nonverbal attention-getting devices in immediate recall](limited-metapragmatic-awareness-nonverbals.md) — related
 - [Scenario type (social distance and power differential) did not appear to affect the overall number of nonverbal devices used](scenario-type-no-effect-device-count.md) — related
 - [Attention plays a major role in L2 learning because a task-relevant knowledge base is built in memory through attention](attention-builds-task-relevant-knowledge-base.md) — related
+- [Practicing attention getters halved time needed to regain student attention](attention-getter-practice-halves-refocus-time.md) — related

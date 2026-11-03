@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 94 claims (25 for, 31 mixed, 38 against) · 86 studies (30 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 14 of 86 report an effect size · 86 claims rest on one study
+> **Evidence** · 95 claims (25 for, 31 mixed, 39 against) · 87 studies (31 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 14 of 87 report an effect size · 87 claims rest on one study
 
 ## Description and scope
 
@@ -216,6 +216,7 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Gender differences in learning success differ by method: favoring females in Laban Section III and males throughout the traditional group](../claims/gender-differences-by-method.md) [~W]
 - [Reflective learning produces significantly higher mean gains in conceptual understanding than lecture-discussion among prospective teachers](../claims/reflective-learning-higher-conceptual-understanding-gains.md) [-W]
 - [Jigsaw cooperative learning produces more positive student attitudes toward learning than traditional lecture-based instruction in Vietnamese higher education.](../claims/jigsaw-learning-positive-attitudes-vietnamese-higher-ed.md) [-W]
+- [Students in traditional and experiment conditions outperform tablet condition on transfer questions about the relation between wind and air pressure](../claims/transfer-wind-pressure-traditional-experiment-outperform-tablet.md) [-W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

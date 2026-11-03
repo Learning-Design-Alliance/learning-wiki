@@ -60,8 +60,10 @@ Tiered seating is a physical-environment strategy: it works by improving mutual 
 6. Gather learner feedback on comfort, visibility, and distraction, and adjust seating options; treat the arrangement as iterable.
 
 ## Related Strategies
+
 - Flexible seating and classroom zoning — tiered areas are one zone within a multi-zone classroom; the same evidence base and cautions apply
 - Circle-time and morning meeting formats — common early-childhood uses of carpeted tiered areas
+- [Provide teachers with a concrete set of classroom management principles for stimulating lessons, clear instructions, routines, and strategic seating](classroom-management-principles-for-adhd.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the primary activity the seating arrangement supports

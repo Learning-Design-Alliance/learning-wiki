@@ -50,3 +50,4 @@ A complementary ANOVA within the scaffolding group (n = 31) found no significant
 ## Related Claims
 - [Without scaffolding, field-independent students outperform field-dependent students in learning achievement](control-group-field-independent-outperform-field-dependent.md) — related
 - [Cognitive style in the FDI dimension shows no significant main effect on self-efficacy or achievement when the scaffolding condition is pooled](fdi-cognitive-style-no-main-effect-pooled.md) — related
+- [No significant main effect of style of categorisation on students' attitudes toward mathematics](no-main-effect-style-categorisation-attitudes.md) — related

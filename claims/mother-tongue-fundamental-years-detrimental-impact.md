@@ -53,3 +53,5 @@ A narrative-review assertion attributed to Dutcher (2004), quoted in the theoret
 - [In the ToTAL trial, instruction in the mother tongue of Haitian Creole was associated with gains in French on skills that were not explicitly taught.](haitian-creole-instruction-french-gains.md) — related
 - [African children are primarily schooled in English from Grade 4 onwards, and the language-in-education policy has failed to promote indigenous African languages](liep-failure-english-from-grade-4.md) — related
 - [Teachers in South African multilingual classrooms use code-switching, offering English content but switching to the mother tongue for elaboration and discussion](teachers-code-switch-english-to-mother-tongue.md) — related
+- [Implementation challenges of mother tongue-based multilingual education stem mainly from poor or absent policy planning](mtb-mle-poor-policy-planning-challenges.md) — related
+- [Rwanda adopted English as the sole language of instruction from Grade 1 under its New Language Policy, discarding French in 2008](rwanda-english-sole-language-of-instruction.md) — related

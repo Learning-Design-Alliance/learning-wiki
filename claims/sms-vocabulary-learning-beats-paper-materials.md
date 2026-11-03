@@ -62,3 +62,4 @@ The one entry is a review's two-sentence report of a single 30-student, two-grou
 - [Prior SMS-based vocabulary studies reviewed found posttest advantages for mobile groups but inconsistent delayed-posttest results](sms-vocabulary-studies-posttest-advantage-mixed-delayed.md) — related
 - [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related
 - [Integrating ten mobile phone TEFL-oriented features into the EFL classroom did not produce a statistically significant difference in foundation-year students' general English achievement, though post-test means favored the experimental group](mobile-phone-features-no-significant-achievement-gain.md) — related
+- [SMS methodology is reported to enhance retrieval of memorized English language rules](sms-enhances-retrieval-memorized-rules.md) — related

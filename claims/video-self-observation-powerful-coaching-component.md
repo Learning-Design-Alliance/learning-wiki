@@ -55,3 +55,4 @@ Observation stage section of the qualitative study: in the web-mediated CSI coac
 - [Judgments of learning are often inaccurate](fluent-illusions-mislead-self-assessment.md) — related
 - [Video-based analysis of teacher-student interactions mediates positive coaching outcomes, and challenging teachers supports reflection but is uncommon](video-analysis-mediation-coaching-outcomes.md) — related
 - [Video-based professional development positively affects classroom interactions and assessment practices](vbpd-positive-effects-classroom-interactions.md) — a broader claim this one bears on
+- [Past trials of MTP web-mediated coaching yielded moderate to large improvements in teacher implementation and teaching practices](mtp-past-trial-improvements.md) — related

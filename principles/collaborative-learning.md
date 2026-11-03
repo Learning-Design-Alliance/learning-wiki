@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 100 claims (41 for, 53 mixed, 6 against) · 99 studies (28 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 9 qualitative, 5 design), `q1`–`q4` · 16 of 99 report an effect size · 94 claims rest on one study
+> **Evidence** · 102 claims (43 for, 53 mixed, 6 against) · 101 studies (28 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 11 qualitative, 5 design), `q1`–`q4` · 16 of 101 report an effect size · 96 claims rest on one study
 
 ## Conditional relationship
 
@@ -201,6 +201,8 @@ Group performance during the task, individual understanding straight after it, d
 - [Treatment teachers provided more opportunities for student pairs to collaborate than control teachers](../claims/treatment-more-student-pair-collaboration.md) [+W]
 - [Post-test problem-solving mean scores were 78.35 for the jumping-task CPS class, 67.12 for the sharing-task CPS class, and 58.76 for the conventional class](../claims/post-test-means-three-classes-jumping-sharing-conventional.md) [~W]
 - [The article concludes that reading comprehension in general is enhanced through collaboration and interaction](../claims/comprehension-enhanced-through-collaboration-interpretation.md) [+W]
+- [Paired and grouped collaborative activities in blended learning promoted authorial production and reflective meta-analysis in the studied dyad](../claims/blended-collaborative-activities-promote-authorial-production.md) [+W]
+- [Partner work was most successful grouping format for primary students](../claims/partner-work-most-successful-primary.md) [+W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

@@ -48,3 +48,4 @@ Control-phase re-testing of the socio-cultural and strategic components. Value r
 - [Baseline testing showed weak discursive (32%) and socio-cultural knowledge (34%) but stronger strategic (62%) and value-ranking (67%) performance](baseline-component-profile-ascertaining.md) — related
 - [Interactive learning technologies produced greater gains in foreign language communicative competence than traditional instruction in a 54-student quasi-experiment](interactive-technologies-greater-flcc-gains-kfu.md) — a broader claim this one bears on
 - [Linguistic-component scores rose to 79% (vocabulary) and 94% (grammar) at re-testing, with the largest gains in the experimental group](linguistic-component-79-94-retest.md) — related
+- [Culture-based activities improve EFL learners' communicative and linguistic competence](culture-based-activities-improve-communicative-linguistic-competence.md) — a broader claim this one bears on

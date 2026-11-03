@@ -53,3 +53,4 @@ The article's abstract states this as a framing claim about why "Student growth 
 - [Value-added error rates apply to measuring both teacher and school performance in the upper elementary grades using student test score gain data](value-added-error-rates-teacher-and-school-upper-elementary.md) — related
 - [A low alpha for an error-prone covariate can attenuate, inflate, or artificially produce a spurious effect (phantom effect) in the coefficient of a perfectly reliable predictor](low-alpha-covariate-phantom-effect.md) — related
 - [Unprincipled inclusion of covariates ('garbage-can regression') can introduce rather than remove bias](garbage-can-regression-fallibility.md) — related
+- [Estimated teacher performance is decomposed into persistent performance, transitory performance, match quality, and value-added error](value-added-four-component-decomposition.md) — related

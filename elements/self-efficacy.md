@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 111 claims (63 for, 41 mixed, 7 against) · 97 studies (38 associational, 30 causal, 16 review, 8 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 29 of 97 report an effect size · 106 claims rest on one study
+> **Evidence** · 114 claims (65 for, 41 mixed, 8 against) · 100 studies (38 associational, 33 causal, 16 review, 8 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 31 of 100 report an effect size · 109 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -159,6 +159,9 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Reading efficacy correlated positively but weakly to moderately with reading achievement in blended learning settings](../claims/reading-efficacy-weak-moderate-correlation-blended.md) [+W]
 - [Fall mindfulness subscales significantly or marginally predict change in student engagement efficacy over the school year](../claims/mindfulness-predicts-change-student-engagement-efficacy.md) [~W]
 - [Perceived confidence showed a significant main effect favoring still images overall and a significant disordinal interaction, with LVs less confident with VR and HVs slightly more confident with VR](../claims/perceived-confidence-main-effect-and-disordinal-interaction.md) [~W]
+- [A parent-focused transition program increases parental self-efficacy to manage the transition to primary school](../claims/parent-transition-program-increases-transition-self-efficacy.md) [+W]
+- [Tertiary First Step improves parenting efficacy but not parental distress within the intervention group](../claims/tertiary-first-step-parenting-outcomes-mixed.md) [+W]
+- [Motivation and self-efficacy showed no impact on source-based essay scores in preliminary analyses](../claims/motivation-self-efficacy-no-impact-source-based-essays.md) [-W]
 
 ## The evidence by question
 

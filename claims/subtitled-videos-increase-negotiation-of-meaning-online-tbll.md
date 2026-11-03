@@ -52,3 +52,4 @@ Quasi-experiment with 10 NNS-NNS dyads (5 per condition, intact sections randoml
 - [EFL primary children's meaning negotiation during a spot-the-differences task is low in amount but significantly higher in the L2 than in the L1](efl-child-nom-low-l2-higher-than-l1.md) — related
 - [Mixed dyads outperform matched dyads in meaning negotiation only in the L2 (proficiency pairing × language interaction)](pairing-language-interaction-nom-l2-only.md) — related
 - [Treatment dyads exchanged more words per message and spent more time on chat than control dyads](clair-dyads-higher-chat-activity.md) — related
+- [A practice sequence prior to dynamic speaking assessments produces more native-speaker-like interaction with less repetition](practice-sequence-reduces-repetition-in-dsa.md) — related

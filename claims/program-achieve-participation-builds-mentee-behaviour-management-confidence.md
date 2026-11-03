@@ -53,3 +53,4 @@ Case-study finding from researcher observations and interviews: the mentee selec
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — related
 - [A continuous cycle of authentic experiences and feedback supports preservice teachers to build their digital practice](authentic-experience-feedback-cycle-digital-practice.md) — a broader claim this one bears on
 - [Successful implementation of classroom chess lessons required tutors with strong class management and teaching skills](chess-tutor-class-management-implementation.md) — related
+- [Teachers preferred positive-reinforcement strategies over mild punishment and valued class-wide, time-saving interventions](teacher-preferences-positive-reinforcement-and-feasibility.md) — related

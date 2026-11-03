@@ -44,6 +44,7 @@ The course applied Riggs and Linder's (2016) three-element Architecture of Engag
 
 - [Modularized PBL+AI framework for biomedical engineering education](modularized-pbl-ai-framework-biomedical.md)
 - [Two-strand course content (pedagogical and research) supported by an online community strand](two-strand-pedagogical-research-course-content.md)
+- [Integrative-modular technology with concentric modules](integrative-modular-technology-concentric-modules.md)
 
 ## Examples
 -

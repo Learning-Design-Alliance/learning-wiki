@@ -50,3 +50,5 @@ Weighted descriptive analysis of the mentoring survey reported in figure 1 and t
 - [Student teachers who perceived their mentors modeled effective instruction and provided coaching, feedback, and job assistance felt better prepared, and domain-specific coaching was related to higher first-year REACH ratings](cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness.md) — related
 - [Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs](rtap-mentorship-value-and-variability.md) — related
 - [Experimental-group trainees reported more frequent observations and more systematic, adequate feedback than control-group trainees](csm-more-observations-feedback.md) — related
+- [Treatment teachers received more class observations and feedback from mentors than control teachers](cti-more-mentor-observations-feedback.md) — related
+- [TTI transfer teachers received less mentoring but provided more mentoring than control counterparts](tti-mentoring-received-less-provided-more.md) — related

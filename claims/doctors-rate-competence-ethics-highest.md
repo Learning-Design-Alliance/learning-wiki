@@ -52,3 +52,4 @@ Synthesis of the doctor-targeted questionnaires and studies among the 20 include
 - [General interpersonal qualities and communication are the most frequently mentioned good-doctor attributes across 20 studies](interpersonal-communication-most-mentioned-good-doctor.md) — related
 - [Stakeholder groups differ in their conceptions of a good doctor, with patients emphasizing communication and doctors medical skills](stakeholder-differences-good-doctor-concept.md) — possibly the same claim (merge candidate)
 - [Patient-satisfaction questionnaires focus strongly on communication skills](patients-emphasize-communication-skills.md) — related
+- [Baseline: few students rank communication with pupils first and communicative values are not prioritized](baseline-communication-not-top-value.md) — related

@@ -69,3 +69,4 @@ The review attributes this finding to prior studies it cites (Demirbilek & Talan
 ## Related Claims
 - [Usability problems — disorientation, distraction, and cognitive overload — hinder demonstrating effectiveness of self-controlled hypermedia learning](hypermedia-usability-problems-hinder-effectiveness.md) — related
 - [Macrosystem conditions such as social media and AI access shape availability to learn, with FoMO causing distractions during learning](macrosystem-fomo-distracts-learning.md) — a narrower finding that bears on this claim
+- [Visual elements of video may distract test takers and impose cognitive load during listening assessment](video-visuals-distract-test-takers.md) — related

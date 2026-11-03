@@ -48,3 +48,4 @@ Pre/post Questionnaire 2 administered only to the 40 experimental-class students
 - [Formative evaluation raised adult ESL learners' achievement scores over one semester while traditional teaching produced no noticeable change](formative-evaluation-raises-adult-esl-achievement.md) — related
 - [Applying formative evaluation strengthened the teacher's beliefs that every student can learn and boosted students' self-confidence](formative-evaluation-boosts-teacher-beliefs.md) — related
 - [Interviewed experimental students overwhelmingly reported liking formative evaluation and improved learning, and no longer feared tests](interviews-students-favor-formative-evaluation.md) — related
+- [Supplementary textbook use improved learners' attitudes, confidence, interest, and perceived reading ability over a semester](supplementary-textbooks-improve-attitudes-confidence-interest.md) — related

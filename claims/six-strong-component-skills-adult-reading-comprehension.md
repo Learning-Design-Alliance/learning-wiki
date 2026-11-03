@@ -68,3 +68,4 @@ Random effects meta-analysis of 16 studies and 2,707 struggling adult readers, u
 - [Poor readers are highly heterogeneous and do not all display the same type of reading impairment](poor-readers-heterogeneous-reading-behaviours.md) — related
 - [English reading comprehension achievement correlates moderately and positively with English self-efficacy before and after instruction](reading-comprehension-self-efficacy-moderate-correlation.md) — related
 - [Reading efficacy correlated positively but weakly to moderately with reading achievement in blended learning settings](reading-efficacy-weak-moderate-correlation-blended.md) — related
+- [Reading and writing measures show moderate correlations, with stronger overlap in lower-level processes than higher-level processes](reading-writing-overlap-lower-level-processes.md) — reports the opposite

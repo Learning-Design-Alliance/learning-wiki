@@ -48,3 +48,4 @@ Three-level mixed-effects model (M3) across four home-school partnership outcome
 - [Education-focused parenting self-efficacy correlates more strongly with home-school partnership outcomes than general parenting self-efficacy](education-focused-pse-stronger-than-general.md) — related
 - [Parenting self-efficacy shows a small to medium positive correlation with parents' contributions to the home-school partnership among primary school families](pse-hsp-overall-correlation.md) — a broader claim this one bears on
 - [Parental aspiration/expectation for children's educational achievement has the strongest relationship with academic achievement among involvement components](parental-aspiration-expectation-strongest-relationship.md) — related
+- [A parent-focused transition program increases parental self-efficacy to manage the transition to primary school](parent-transition-program-increases-transition-self-efficacy.md) — related

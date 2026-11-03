@@ -71,3 +71,4 @@ Independent-samples t-test comparing post-test essay scores of the experimental 
 - [Active learning students outperformed traditional-instruction students on each of the 14 individual writing and research skills, with an average 10.5-point higher score](active-learning-gains-fourteen-individual-skills.md) — related
 - [Online-based writing instruction produces equivalent overall essay performance gains compared to classroom-based instruction for ESL students](online-lms-writing-instruction-equivalent-gains.md) — related
 - [Cooperative learning significantly improves EFL writing achievement compared with solitary writing](cooperative-writing-improves-efl-writing-achievement.md) — related
+- [Teacher scaffolding within a writing process approach significantly improved EFL students' self-reported writing skills from pre-test to post-test.](scaffolding-writing-process-improves-efl-writing.md) — related

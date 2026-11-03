@@ -92,3 +92,4 @@ Independent groups t-test comparing posttest scores of the experimental group (m
 - [Both the SMS and control groups improved significantly from pretest to posttest in the programming course](both-groups-pretest-posttest-gains.md) — related
 - [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — related
 - [The SMS-supported experimental group's posttest achievement scores were significantly higher than its own pretest scores](sms-group-pretest-posttest-gain.md) — related
+- [The SMS experimental group outperformed the control group on the post-test](sms-group-outperformed-control-post-test.md) — related

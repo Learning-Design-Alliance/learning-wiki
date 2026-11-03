@@ -64,3 +64,4 @@ Earlier Consortium survey research on CHSRI schools, cited in the report's intro
 - [Student reports of instruction were generally similar across school types, with juniors in small schools reporting higher academic press and support](chsri-student-experiences-academic-press-support.md) — related
 - [Schools small by design showed significantly higher teacher influence and all four professional capacity measures](small-by-design-schools-higher-teacher-influence-and-capacity.md) — related
 - [Teachers valued Lesson Study as professional development and reported changes to their practice despite null pupil outcomes](lesson-study-teachers-valued-pd.md) — related
+- [TTI had no statistically significant impacts on school climate, collaboration, or how students were assigned to teachers](tti-no-significant-impacts-collaboration-student-assignment.md) — related

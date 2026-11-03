@@ -48,3 +48,4 @@ Quasi-experimental comparison within one Introductory Physiology course of 60 co
 - [Students performed significantly better on comprehension questions after live lecture than after pre-recorded lecture](live-lecture-better-comprehension-questions.md) — reports the opposite
 - [Both PRL-user and PRL-non-user groups scored significantly higher on memory questions than on comprehension questions](prl-groups-higher-memory-than-comprehension.md) — related
 - [Lecture modality (written, audio, video, live) shows no consistent effect on memory for lecture content or on the note-taking effect](lecture-modality-no-effect-note-taking-memory.md) — a broader claim this one bears on
+- [Performance on questions from the non-vodcast lecturer's lectures did not differ significantly between the two cohorts.](no-vodcast-effect-on-non-vodcast-lecturer-questions.md) — a narrower finding that bears on this claim

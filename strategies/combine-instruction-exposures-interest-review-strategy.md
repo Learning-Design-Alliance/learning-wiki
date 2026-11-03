@@ -42,6 +42,7 @@ The review's conclusion offers teachers a set of implementable moves: "it is mor
 ## Related Strategies
 
 - [Employ alternative vocabulary teaching methods in unnatural foreign language environments to ensure retention efficiency](alternative-methods-unnatural-environments-retention.md)
+- [Combine direct vocabulary teaching with multiple story encounters, especially for less-able learners](combine-direct-teaching-with-story-read-aloud.md)
 
 ## Examples
 -

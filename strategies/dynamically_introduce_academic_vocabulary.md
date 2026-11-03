@@ -66,6 +66,7 @@ Vocabulary knowledge is incremental and context-dependent; words are acquired th
 - [Annotating](../principles/annotating.md) — learners can mark and gloss new vocabulary in texts as one form of re-encounter
 - [Structured discussions that anchor new vocabulary in students' personal experience](structured-discussion-vocabulary-anchoring.md)
 - [Use OPS-English vocabulary-based activities across the school day to reinforce word meaning where direct instruction time is limited](ops-english-vocabulary-activities-reinforce-word-meaning.md)
+- [Combine direct vocabulary teaching with multiple story encounters, especially for less-able learners](combine-direct-teaching-with-story-read-aloud.md)
 
 ## Related Elements
 - [Analogies](../elements/analogies.md) — linking unfamiliar academic words to familiar concepts at first exposure

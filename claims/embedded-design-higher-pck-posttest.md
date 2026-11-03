@@ -48,3 +48,4 @@ Quasi-experimental comparison group study of 40 volunteer second-year pre-servic
 - [The embedded design and applied experience groups did not differ significantly on the pretest of pedagogical content knowledge](no-pretest-difference-between-conditions.md) — related
 - [Adding eleven hours of in-situ applied experience to the course did not increase pedagogical content knowledge achievement over the embedded design course alone](insitu-hours-no-achievement-gain.md) — related
 - [Embedded design quiz performance exceeded the 80% mastery threshold on all three quizzes while applied experience quiz scores ranged from 34-80%](embedded-design-mastery-quiz-threshold.md) — related
+- [The EmMa continuous professional development course significantly improved early childhood teachers' mathematical pedagogical content knowledge](emma-improves-mpck-early-childhood-teachers.md) — a narrower finding that bears on this claim

@@ -58,3 +58,4 @@ Multilevel model result from the same 527-child sample: teacher responsiveness, 
 - [Teacher-student interaction quality may reflect pre-existing student characteristics rather than teacher skill unless prior achievement is accounted for](interaction-quality-confounded-by-prior-achievement.md) — reports the opposite
 - [Kindergarten attention uniquely predicts both first-grade compositional fluency and quality one year later](attention-longitudinal-first-grade-writing.md) — related
 - [Kindergarten attention is not uniquely predictive of third-grade writing quality in either genre](kindergarten-attention-not-predictive-grade3-writing.md) — related
+- [Quality of teacher-child interactions and teachers' feedback in pre-kindergarten classrooms is associated with children's academic, language, and social outcomes](teacher-child-interaction-quality-associated-with-prek-outcomes.md) — related

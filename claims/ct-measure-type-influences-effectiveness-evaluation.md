@@ -53,3 +53,4 @@ The review's comparison of CT outcomes across its 33 studies (Appendix D) report
 - [Systematically designed E&M instruction based on the First Principles of Instruction model produced significantly higher domain-specific CT scores than regular instruction](systematic-design-first-principles-higher-domain-specific-ct.md) — related
 - [Domain-specific CT performance (CTEM) significantly predicted domain-general CT performance (posttest HCTA)](ctem-predicts-posttest-hcta.md) — related
 - [The systematically designed learning environment did not produce a significantly greater pretest–posttest improvement in domain-general CT than regular instruction](first-principles-no-domain-general-ct-gain.md) — related
+- [Students' performance on vocabulary tests is influenced by familiarity with the test type rather than the test type itself](test-familiarity-drives-vocabulary-test-performance.md) — a narrower finding that bears on this claim

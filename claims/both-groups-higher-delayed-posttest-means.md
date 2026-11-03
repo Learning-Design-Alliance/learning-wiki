@@ -48,3 +48,4 @@ Descriptive comparison of delayed post-test means for the SMS group (N=28) and d
 - [Vocabulary taught via SMS is retained significantly better in the long term than vocabulary learned with a dictionary](sms-outperforms-dictionary-delayed-retention.md) — related
 - [The SMS group's vocabulary scores rose significantly from post-test to delayed post-test four weeks later](sms-group-significant-delayed-posttest-gain.md) — a narrower finding that bears on this claim
 - [University freshmen learning academic vocabulary via SMS show no significant short-term advantage over freshmen learning the same words with a dictionary](sms-vs-dictionary-no-posttest-difference.md) — related
+- [Students preferred short SMS exercises answerable immediately without reference materials](sms-short-immediate-exercises-preferred.md) — related

@@ -48,3 +48,4 @@ The paper reports research conducted by Purkey in North Carolina in which studen
 ## Related Claims
 - [Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded](increasing-wait-time-improves-response-quality.md) — related
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
+- [Wait time increased student participation in classroom discussion](wait-time-increases-participation.md) — related

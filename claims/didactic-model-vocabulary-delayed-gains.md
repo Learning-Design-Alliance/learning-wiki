@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-03
 sources:
   - id: hmidani-2017
     resource: "https://doi.org/10.15446/profile.v19n_sup1.68617"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Vocabulary scores showed no statistically significant group difference at mid-test (p = .37) but a significant difference favoring the study group at post-test (p = .001). [→ Hmidani 2017](#hmidani-2017)

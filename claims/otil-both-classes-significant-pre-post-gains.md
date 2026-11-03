@@ -56,3 +56,4 @@ Paired-samples T-test on each class (N=46 per class). Experimental class paired 
 - [Both groups improved significantly from pre-test to post-test in the local history learning activities](pre-post-gains-both-groups.md) — related
 - [Control group also improved significantly from pre-test to post-test in both courses](control-group-significant-pre-post-gains.md) — related
 - [Experimental group outperformed control group on post-tests in both courses](experimental-group-outperformed-control-post-tests.md) — related
+- [Guessing and making-inference strategy instruction in L1 significantly improves EFL listening comprehension](l1-guessing-inference-strategy-improves-listening.md) — related

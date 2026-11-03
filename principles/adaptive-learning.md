@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 86 claims (46 for, 36 mixed, 4 against) · 82 studies (27 causal, 20 review, 11 design, 9 quant-synthesis, 7 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 14 of 82 report an effect size · 79 claims rest on one study
+> **Evidence** · 87 claims (47 for, 36 mixed, 4 against) · 83 studies (28 causal, 20 review, 11 design, 9 quant-synthesis, 7 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 14 of 83 report an effect size · 80 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,7 @@ Re-read 2026-10-15: the claims below were read against the model above and do no
 - [Subject domain moderates the adaptive teaching effect: benefits in languages, none in STEM or humanities](../claims/domain-moderates-adaptive-teaching-effect.md) [~M] — attached 2026-10-22 from Sibley et al. (2025), which proposed "Implement adaptive teaching with high fidelity: apply adaptive elements constantly, since benefits emerge only in highly adaptive units"; tests this page's relationship.
 - [Individual records revealed contrasting specific disabilities within the same pupil across arithmetic operations](../claims/individual-records-specific-disabilities.md) [+W] — attached 2026-10-24 from Buford Johnson (1918), which proposed "Instruction should be devised from elaborated testing built on analysis of individual performance".
 - [Learner models with population-level parameters systematically misestimate the trial of mastery for most students whose learning rates vary](../claims/population-parameters-systematic-mastery-error.md) [+W] — attached 2026-10-27 from Eglington et al. (2022), which proposed "Adaptive instructional systems should include online mechanisms that adjust for systematic learner-model error".
+- [Web-assisted instruction with adaptive LSA modules reduced average error counts in most writing error categories compared to teacher-led instruction alone](../claims/web-assisted-instruction-reduced-writing-errors-business-communication.md) [+W] — attached 2026-11-03 from Austin et al. (2017), which proposed "Assign web-assisted grammar and mechanics modules outside class to free instructional time for higher-level writing strategies"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

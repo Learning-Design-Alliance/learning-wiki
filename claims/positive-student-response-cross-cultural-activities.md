@@ -63,3 +63,4 @@ The authors' evaluation in the Conclusion section is based on informal feedback 
 - [Foreign language competence development through virtual exchange is contextual and not measured by standardised tests](virtual-exchange-foreign-language-gains-contextual.md) — related
 - [Computer-assisted elaborative feedback with partner exchange sharpened Japanese EFL majors' reading skills](computer-assisted-feedback-reading-skills.md) — related
 - [Students most enjoyed conducting experiments during the inquiry-based process and generally gave no negative feedback](students-enjoyed-conducting-experiments-most.md) — related
+- [Culture-based activities improve EFL learners' communicative and linguistic competence](culture-based-activities-improve-communicative-linguistic-competence.md) — related

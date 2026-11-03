@@ -52,3 +52,5 @@ In the language post-test ANCOVA (Table 2), the GROUP * CS interaction was signi
 - [The cooperative learning program showed no significant effect on language achievement in fourth-grade students](cooperative-learning-no-language-effect.md) — related
 - [A cooperative learning program produced significantly higher mathematics achievement than traditional teaching in fourth-grade students](cooperative-learning-improves-math-achievement-fourth-grade.md) — related
 - [Teaching type interacts with attribution style and academic achievement in the global-local favorable condition](teaching-type-attribution-style-global-local-favorable-interaction.md) — related
+- [No significant main effect of style of categorisation on students' attitudes toward mathematics](no-main-effect-style-categorisation-attitudes.md) — related
+- [Significant interaction effect of treatment and style of categorisation on students' attitudes toward mathematics](treatment-sct-interaction-attitudes.md) — related

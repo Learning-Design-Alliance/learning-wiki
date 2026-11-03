@@ -57,3 +57,4 @@ Thematic synthesis within the same systematic review of 50 empirical studies (20
 - [Review reports that asking students to notice particular errors decreased errors in a subsequent draft without reducing overall writing quality (Chandler)](noticing-errors-decreases-errors-preserves-quality.md) — related
 - [Customized AI writing systems show benefits in writing quality, learning processes, assessment reliability, and feedback literacy](customized-ai-writing-positive-outcomes.md) — related
 - [AWE is more effective when complemented by teacher feedback rather than used as a standalone tool](awe-more-effective-with-teacher-feedback.md) — related
+- [The Writing Pal automated writing evaluation achieves expert-equivalent accuracy, with 44-55% exact and 94-96% adjacent accuracy](writing-pal-awe-expert-equivalent-accuracy.md) — related

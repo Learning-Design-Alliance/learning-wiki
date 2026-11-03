@@ -62,3 +62,4 @@ The claim rests on one narrative review read from its abstract, and the abstract
 - [Noticing formulaic sequences without production practice does not yield spontaneous use, per the reviewed literature](noticing-fs-without-practice-insufficient.md) — a narrower finding that bears on this claim
 - [Weaving TBLA into vocabulary classes may help learners notice gaps in their developing foreign-language vocabulary](tbla-helps-notice-vocabulary-gaps.md) — related
 - [Connected speech is a natural feature of native-speaker English that contributes to speech naturalness and intelligibility](connected-speech-naturalness-importance.md) — related
+- [A practice sequence prior to dynamic speaking assessments produces more native-speaker-like interaction with less repetition](practice-sequence-reduces-repetition-in-dsa.md) — related

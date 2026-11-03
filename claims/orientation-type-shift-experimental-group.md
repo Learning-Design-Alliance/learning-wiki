@@ -47,3 +47,4 @@ The evaluation-resultative stage re-applied the ascertaining-stage methods to me
 ## Related Claims
 - [In the experimental group the share of teachers with adequate self-esteem rose to 58% and low self-esteem fell to 13% during the training program, while the control group stayed the same](training-program-self-esteem-shift-experimental-group.md) — related
 - [The control group showed no significant changes in self-regulation indicators across the experiment](control-group-no-significant-self-regulation-changes.md) — related
+- [Students shifted toward communicative orientation after the formative stage](students-shift-communicative-orientation.md) — related

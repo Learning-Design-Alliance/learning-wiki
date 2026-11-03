@@ -60,3 +60,4 @@ Mixed-methods analysis of coaches' retrospective TDF survey and teacher/coach fo
 - [Teachers support interdisciplinary curriculum integration but identify resource limitations, not curricular constraints, as the main barrier](e-textile-steam-integration-attitudes-barriers.md) — related
 - [Low pre-reading compliance and resource demands hinder TBL implementation](tbl-implementation-barriers.md) — a narrower finding that bears on this claim
 - [Time constraints are the most frequently cited physician barrier to SDL engagement, within the environmental context and resources domain](time-constraints-top-physician-sdl-barrier.md) — related
+- [Demanding curriculum characteristics including overload, mandated flexibility constraints, and lack of time hinder implementation](macro-demanding-curriculum-hinders-implementation.md) — related

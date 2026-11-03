@@ -60,3 +60,4 @@ Delayed posttest results for dictogloss writing accuracy in the four-session exp
 - [Writing gains from written corrective feedback decline between post-test and delayed post-test](wcf-gains-decline-delayed-posttest.md) — reports the opposite
 - [Written corrective feedback in general is inconclusive as a predictor of long-term improvement in L2 writing accuracy, with roughly 55% of studies showing positive effects](wcf-inconclusive-predictor-long-term-accuracy.md) — related
 - [The treatment's benefits on the second conditional were maintained on delayed posttests four and eight weeks after instruction](virtual-world-gains-maintained-delayed-posttests.md) — related
+- [Written corrective feedback facilitates acquisition of both explicit and implicit knowledge of English articles among low-intermediate EFL learners.](written-cf-facilitates-explicit-and-implicit-knowledge-articles.md) — a broader claim this one bears on

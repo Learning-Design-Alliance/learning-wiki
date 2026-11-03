@@ -50,3 +50,4 @@ Paired-samples t-tests on the 11 experimental-group children's PKBS problem beha
 - [Within the experimental group, social skill scores increased significantly from pretest to posttest and follow-up](fss-psv-experimental-group-social-skill-increase.md) — related
 - [FSS-PSV implementation did not produce a group difference in social skills: both experimental and control groups increased significantly](fss-psv-no-social-skill-group-effect.md) — related
 - [Teachers and parents reported positive social validity of FSS-PSV, with most happy with the program and willing to recommend it](fss-psv-positive-social-validity.md) — related
+- [Tertiary First Step improves positive peer interactions and reduces negative peer interactions within the intervention group](tertiary-first-step-improves-peer-social-behavior.md) — related

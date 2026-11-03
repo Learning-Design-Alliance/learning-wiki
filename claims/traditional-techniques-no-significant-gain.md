@@ -49,3 +49,4 @@ Paired t-test in the control group (n=30) taught by conventional techniques; the
 - [Traditional vocabulary teaching produced no statistically significant pretest-to-posttest gain in the control group](traditional-teaching-no-significant-vocabulary-gain.md) — possibly the same claim (merge candidate)
 - [The control group taught by the traditional method showed no significant pre-test to post-test improvement](traditional-group-no-vocabulary-gain.md) — related
 - [The control group receiving traditional word-list instruction showed no sufficiently significant progress in productive vocabulary size](control-group-no-significant-vocabulary-progress.md) — related
+- [Traditional instruction of semantic prosody through dictionaries and intuition produced no significant improvement in vocabulary choice appropriateness](traditional-sp-instruction-no-significant-gain.md) — related

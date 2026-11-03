@@ -50,3 +50,4 @@ Randomized two-condition experiment with 104 undergraduates (52 per group) searc
 - [Correlates of recall diverge by condition: search performance and prior knowledge predict recall only in the thinking-before-googling group, while metacognitive and motivational correlates emerge only in the googling-only group](recall-correlates-diverge-by-condition.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
 - [Pretesting before instruction enhances learning of subsequently presented material even when pretest answers are wrong, with multiple-choice pretesting more effective than cued-recall pretesting](pretesting-enhances-learning-mc-beats-cued-recall.md) — related
+- [A 10-minute pre-testing review improves multiple-choice performance in all three learning conditions](pre-testing-review-additive-benefit.md) — related

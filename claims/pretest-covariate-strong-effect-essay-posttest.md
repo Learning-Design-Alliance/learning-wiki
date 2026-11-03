@@ -52,3 +52,4 @@ Secondary analysis within the robust ANCOVA of the five-group experiment: the co
 - [The pretest covariate showed no significant effect on posttest statistical reasoning scores in the ANCOVA model](pretest-covariate-nonsignificant-fathom-ancova.md) — related
 - [Collaborative pre-task planning produces better essay structural organization and clarity than individual planning](collaborative-planning-beats-individual-planning.md) — related
 - [After treatment, demonstration-method students significantly outperform conventional-approach students in financial accounting achievement, with a large effect](demonstration-method-posttest-advantage-financial-accounting.md) — related
+- [Pretest computation score was a large predictor of posttest computation competence, indicating high continuity in performance](pretest-score-large-predictor-posttest.md) — related

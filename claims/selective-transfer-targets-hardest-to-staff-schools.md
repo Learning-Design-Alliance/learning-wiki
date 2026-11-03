@@ -52,3 +52,4 @@ The program design, as described in the article, offered $20,000 to "high-perfor
 - [Most TTI teachers stayed on the job even after incentive payments ended](tti-teachers-retained-after-payments.md) — related
 - [Most TTI teachers stayed on the job even after transfer payments ended](tti-teachers-stayed-after-payments-ended.md) — related
 - [TTI was more cost-effective than similar teacher-transfer incentive interventions](tti-more-cost-effective-than-similar-interventions.md) — related
+- [The Talent Transfer Initiative offered highest value-added teachers $20,000 over two years to transfer to and remain in low-achieving schools](tti-20000-transfer-incentive-design.md) — related
