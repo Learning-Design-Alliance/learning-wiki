@@ -3,6 +3,8 @@
 # build_longtail.py, then a Pagefind index over both (docs_hooks/two_tier.py says why).
 # One script, so the deploy, preview and validate workflows cannot drift apart.
 #   scripts/build_site.sh [--strict]        SKIP_SEARCH=1 leaves out the Pagefind index (validate.yml)
+#   COMPRESS_LONGTAIL=1 then serves the long tail from gzipped shards (build_longtail.py --compress),
+#   after Pagefind, so search still indexes every page's full text.
 set -euo pipefail
 cd "$(dirname "$0")/.."
 rm -rf docs && mkdir -p docs
@@ -15,6 +17,10 @@ ln -s ../evidence.md docs/evidence.md
 ln -s ../checks.md docs/checks.md
 mkdocs build ${1:-}
 python3 scripts/build_longtail.py --site site
-[ -n "${SKIP_SEARCH:-}" ] && exit 0
-# Permalink glyphs and the collapsed metadata and evidence-code panels are not content.
-python3 -m pagefind --site site --output-subdir pagefind --exclude-selectors ".headerlink" --exclude-selectors "details.info"
+if [ -z "${SKIP_SEARCH:-}" ]; then
+  # Permalink glyphs and the collapsed metadata and evidence-code panels are not content.
+  python3 -m pagefind --site site --output-subdir pagefind --exclude-selectors ".headerlink" --exclude-selectors "details.info"
+fi
+if [ -n "${COMPRESS_LONGTAIL:-}" ]; then
+  python3 scripts/build_longtail.py --site site --compress
+fi
