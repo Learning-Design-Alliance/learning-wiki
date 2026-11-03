@@ -13,7 +13,7 @@ generated:
 # Michigan Model middle school nutrition module "What's Food Got to Do With It?"
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 causal, 1 quant-synthesis), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A Michigan Model for Health curriculum module that provides middle-school nutrition lessons, teacher training, and supporting instructional materials for health education.
@@ -24,7 +24,7 @@ A Michigan Model for Health curriculum module that provides middle-school nutrit
 ### Claims
 
 - [In-service nutrition professional development significantly increases health teachers' nutrition self-efficacy relative to controls](../claims/inservice-training-increases-nutrition-teaching-self-efficacy.md) [+M]
-- [In-service nutrition training increases teachers' intentions to teach nutrition content, with gains on six of eight measures](../claims/inservice-training-increases-intentions-to-teach-nutrition.md) [+M]
+- [Teachers' intentions to teach nutrition content rose from pre to post after in-service nutrition training, on six of eight measures, but no group-by-time difference from controls was reported](../claims/inservice-training-increases-intentions-to-teach-nutrition.md) [+W]
 - [Enhanced curriculum approaches alone show minimal effect on reducing food consumption or energy intake (Md = 0.12) but improve nutritional knowledge (Md = 0.75) and FV consumption or preference (Md = 0.45)](../claims/curriculum-approaches-effects-vary-by-outcome.md) [~M]
 
 ## Related Products and Programmes

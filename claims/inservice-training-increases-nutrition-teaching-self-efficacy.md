@@ -65,7 +65,7 @@ Fine-grained item-level repeated-measures ANOVAs on the same 59-teacher sample. 
 
 
 ## Related Claims
-- [In-service nutrition training increases teachers' intentions to teach nutrition content, with gains on six of eight measures](inservice-training-increases-intentions-to-teach-nutrition.md) — related
+- [Teachers' intentions to teach nutrition content rose from pre to post after in-service nutrition training, on six of eight measures, but no group-by-time difference from controls was reported](inservice-training-increases-intentions-to-teach-nutrition.md) — related
 - [In-service nutrition training significantly increases teachers' nutrition outcome expectations relative to controls](inservice-training-increases-nutrition-outcome-expectations.md) — related
 - [In-service nutrition training increases teachers' rating of the value of conflict resolution and personal health skills](inservice-training-increases-outcome-value-health-skills.md) — related
 - [The intervention and control groups differed significantly in race, with more African American teachers in the intervention group](group-race-imbalance-nutrition-pd-study.md) — related

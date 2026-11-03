@@ -42,7 +42,7 @@ The article provided teachers eight hours of weekend professional development on
 ## Claims
 
 - [In-service nutrition professional development significantly increases health teachers' nutrition self-efficacy relative to controls](../claims/inservice-training-increases-nutrition-teaching-self-efficacy.md) [+W]
-- [In-service nutrition training increases teachers' intentions to teach nutrition content, with gains on six of eight measures](../claims/inservice-training-increases-intentions-to-teach-nutrition.md) [+W]
+- [Teachers' intentions to teach nutrition content rose from pre to post after in-service nutrition training, on six of eight measures, but no group-by-time difference from controls was reported](../claims/inservice-training-increases-intentions-to-teach-nutrition.md) [+W]
 - [In-service nutrition training significantly increases teachers' nutrition outcome expectations relative to controls](../claims/inservice-training-increases-nutrition-outcome-expectations.md) [+W]
 
 ## Related Strategies

@@ -64,7 +64,7 @@ Item-level ANOVAs on the same sample: all 11 outcome-expectation items showed si
 
 
 ## Related Claims
-- [In-service nutrition training increases teachers' intentions to teach nutrition content, with gains on six of eight measures](inservice-training-increases-intentions-to-teach-nutrition.md) — related
+- [Teachers' intentions to teach nutrition content rose from pre to post after in-service nutrition training, on six of eight measures, but no group-by-time difference from controls was reported](inservice-training-increases-intentions-to-teach-nutrition.md) — related
 - [In-service nutrition professional development significantly increases health teachers' nutrition self-efficacy relative to controls](inservice-training-increases-nutrition-teaching-self-efficacy.md) — related
 - [In-service nutrition training increases teachers' rating of the value of conflict resolution and personal health skills](inservice-training-increases-outcome-value-health-skills.md) — related
 - [A six-lesson constructivist-oriented nutrition curriculum significantly increased urban middle school students' nutrition knowledge relative to controls](constructivist-nutrition-education-knowledge-gains.md) — related
