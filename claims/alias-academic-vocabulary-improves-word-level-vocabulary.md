@@ -52,3 +52,4 @@ Cluster-randomized field trial with 2,082 sixth-grade students in 14 urban middl
 ## Related Claims
 - [Academic vocabulary instruction improves morphological awareness skills](alias-academic-vocabulary-improves-morphological-awareness.md) — related
 - [A 16-week universally designed online depth-of-vocabulary intervention improved standardized vocabulary knowledge relative to a control group in fifth graders](online-depth-vocabulary-intervention-improved-standardized-vocabulary.md) — related
+- [RAVE instruction enhances middle school students' knowledge of academic words on a researcher-designed measure](rave-improves-word-knowledge-year1.md) — a narrower finding that bears on this claim

@@ -72,3 +72,4 @@ Observer-as-participant field notes recorded long periods of silence and focused
 - [Qualitative findings showed increased student motivation toward English class and learning vocabulary through videogames](videogame-motivation-qualitative-increase.md) — related
 - [Playful embodied robot sessions sustained young children's attention well beyond the planned session length, and children voluntarily invited peers into one-on-one play](robot-extended-attention-voluntary-collaboration.md) — related
 - [Interviewed Spaceteam ESL players said they spoke more English during play, and one said he stopped attending to his nervousness; the authors suggest motivation may explain a non-significant fluency trend](spaceteam-interviews-motivation-anxiety.md) — related
+- [Trainee teachers shift toward agreement that videogames help develop the curriculum crosswise after experiencing one](videogame-experience-shifts-trainee-teacher-acceptance.md) — related

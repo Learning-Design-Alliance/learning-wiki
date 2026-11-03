@@ -50,3 +50,4 @@ Synthesis across the 22 reviewed studies: communication tools such as video conf
 - [Key challenges for eWIL include securing partner organizations, lack of support systems, software quality, staff training and equity of access](ewil-implementation-challenges.md) — related
 - [Technology can remove geographical barriers and allow rural and external students to engage in WIL activities](ewil-removes-geographical-barriers.md) — related
 - [Technologies are used to assess student performance during WIL, commonly via online reflective journals and e-portfolios](technology-assessment-reflective-journals-ewil.md) — related
+- [Teaching staff relied heavily on StudyDesk (89.0%) and email (80.3%) while using other online resources sparingly](dlist7-teaching-staff-technology-utilization.md) — related

@@ -54,3 +54,4 @@ Quasi-experiment with 48 purposefully selected third graders randomly assigned t
 - [Intermediate first-grade students taught Arabic grammar with a computerized program achieved significantly higher adjusted scores than students taught the usual way](computerized-program-arabic-grammar-achievement-iraq.md) — related
 - [Computer-based science and technology instruction produces significantly higher corrected post-test problem solving skill scores than traditional teaching](cbi-improves-problem-solving-skills.md) — related
 - [First graders taught Arabic literacy with the systemic approach scored higher on a reading achievement test than traditionally taught peers](systemic-approach-improves-first-grade-reading-achievement.md) — related
+- [The program significantly improved linguistic life skills (oral interpersonal communication) versus control](childrens-literature-program-improves-oral-communication.md) — related

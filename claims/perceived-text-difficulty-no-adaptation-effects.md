@@ -45,4 +45,4 @@ A 2×2×2 mixed ANOVA on perceived difficulty ratings (overall M = 2.43, SD = 0.
 
 
 ## Related Claims
--
+- [Comprehension texts were well matched in perceived difficulty across days](texts-matched-perceived-difficulty.md) — related

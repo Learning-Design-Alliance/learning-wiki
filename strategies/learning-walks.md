@@ -65,6 +65,7 @@ Learning walks work because they make teaching practice observable and discussab
 - [Peer Observation](../strategies/peer-observation.md) — reciprocal, single-classroom observation with richer feedback than a walk
 - [Professional Learning Communities](../strategies/professional-learning-communities.md) — the team structure that typically hosts and acts on walk findings
 - [Student-designed community walks that flip teacher and learner roles to build cultural humility](student-led-community-walks-cultural-humility.md)
+- [Engage in FA development opportunities: peer observation, PLCs, and coaching](fa-development-opportunities.md)
 
 ## Examples
 - **Instructional Rounds in Action** (Harvard Graduate School of Education): networks of schools conducting rounds visits with a defined problem of practice and networked debriefs ([https://www.gse.harvard.edu](https://www.gse.harvard.edu))

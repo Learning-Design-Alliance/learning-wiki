@@ -55,3 +55,4 @@ Analytical derivation in the commentary: assuming standardized parallel items, a
 - Reliability evidence in prescribing assessment studies generally employs Classical Test Theory — related
 - [The Hungarian analytic scoring scale showed high reliability (Cronbach's Alpha 0.83) in this study](hungarian-analytic-scale-reliability-083.md) — related
 - [The reliability of the IELTS-based proficiency test used for participant selection was supported by a Cronbach's Alpha of 0.81](ielts-proficiency-test-alpha-081.md) — a narrower finding that bears on this claim
+- [DLISt7 demonstrated excellent internal reliability, with a slightly higher alpha coefficient obtained in the main study using a larger sample](dlist7-internal-reliability-excellent-alpha.md) — a narrower finding that bears on this claim

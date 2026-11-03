@@ -59,3 +59,4 @@ Quasi-experimental group pre-test and post-test comparison of 276 third-year Com
 - [Problem solving strategy is more effective than the scientific approach for students' mathematical creativity](problem-solving-strategy-more-effective-creativity.md) — related
 - [Teamwork communication pedagogy through electronic networking sites increased student interest in learning](teamwork-electronic-networking-increased-interest.md) — related
 - [Students reported that the DPBL approach improved knowledge, creative thinking and teamwork skills](dpbl-improves-knowledge-creative-thinking-teamwork.md) — related
+- [Student-centred approaches (problem-based learning, guided inquiry, cooperative learning) outperformed teacher-centred methods in the reviewed studies](student-centred-methods-outperform-teacher-centred.md) — a broader claim this one bears on

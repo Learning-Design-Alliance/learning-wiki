@@ -84,12 +84,12 @@ This account describes how preserving two shared languages between parent and ch
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does maintaining and developing a learner's heritage language cost their acquisition of the school language, or support it?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (3 theoretical, 2 causal, 2 review), `q1`–`q2`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does maintaining and developing a learner's heritage language cost their acquisition of the school language, or support it?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (3 review, 3 theoretical, 1 causal), `q1`–`q2`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Hansen, Umeda, and McKinney 2002](https://doi.org/10.1111/1467-9922.00200) | q2 · causal · r? | i? | this claim |
-| [Kohnert et al. 2005](<https://doi.org/10.1044/0161-1461(2005/025)>) | q2 · causal · r? | i? | this claim |
+| [Kohnert et al. 2005](<https://doi.org/10.1044/0161-1461(2005/025)>) | q2 · review · r? | i? | this claim |
 | Ebert 2005 | q1 · theoretical · r? | i? | this claim |
 | [Cummins 1979](https://doi.org/10.3102/00346543049002222) | q2 · theoretical · r3 | i? | [Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement](l1-maintenance-supports-l2-without-cost.md) (supports); [Preservation of the mother tongue predicts second-language achievement among migrant child](mother-tongue-preservation-predicts-l2-achievement.md) (supports); [Semilingualism — less than native-like skill in both languages — is associated with detrim](semilingualism-associated-with-negative-cognitive-effects.md) (qualifies) |
 | Rolla 2024 | q2 · review · r2 | i? | [Spanish use at home does not limit English learning: young Spanish–English bilinguals with](spanish-home-use-does-not-limit-english-learning.md) (supports) |

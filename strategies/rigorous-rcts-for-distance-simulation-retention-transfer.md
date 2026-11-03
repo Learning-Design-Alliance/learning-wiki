@@ -57,6 +57,7 @@ Based on the evidence gaps it identifies, the review recommends that future work
 - [Require adequately powered studies of skill retention and transfer before recommending major investment in cadaveric simulation](adequately-powered-studies-before-cadaveric-investment.md)
 - [Future online-training trials should follow TIDieR reporting, match comparison arms on duration and content, use Kirkpatrick's outcome hierarchy, and run factorial experiments optimising online features](tidier-reporting-and-factorial-designs-for-online-training-trials.md)
 - [Prioritize larger sample sizes, multicentre designs, and rigorous reporting in future simulation-based CRM transfer and patient-outcome research](multicentre-rigorous-crm-outcome-research-strategy.md)
+- [RCT researchers should collect qualitative data on context alongside implementation and impact](rct-researchers-collect-context-data.md)
 
 ## Examples
 -

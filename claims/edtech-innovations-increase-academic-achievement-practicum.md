@@ -55,3 +55,4 @@ Quasi-experimental post-application comparison of two groups of student teachers
 - [Undergraduate students taught IUPAC nomenclature of organic chemistry through an e-content package scored significantly higher on the post-test than students taught by conventional methods](e-content-package-posttest-advantage-iupac-nomenclature.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [Significant difference favoring general/academic high school graduates on good teaching and generic skills](high-school-type-good-teaching-generic-skills.md) — related
+- [MFTM significantly improves multiplication facts achievement among deaf students from pre-test to post-test](mftm-significant-pre-post-gain-deaf-students.md) — a narrower finding that bears on this claim

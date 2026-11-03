@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (36 for, 12 mixed, 2 against) · 41 studies (12 causal, 11 review, 9 theoretical, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 6 of 41 report an effect size · 48 claims rest on one study
+> **Evidence** · 52 claims (38 for, 12 mixed, 2 against) · 42 studies (13 causal, 11 review, 9 theoretical, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 6 of 42 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,8 @@ Claims the earlier page cited that the model above does not use; each is context
 - [Hybrid PBL+LBL pedagogy yields significantly higher comprehensive ability scores than LBL alone](../claims/pbl-lbl-hybrid-better-comprehensive-ability.md) [+W] — attached 2026-11-01 from Liu CX et al. (2020), which proposed "Use PBL as a supplement to LBL rather than replacing lecturing, to combine systematic knowledge delivery with problem-based engagement"; tests this page's relationship.
 - [Multifaceted EBP interventions combining lectures, computer sessions, small-group discussions, journal clubs, and assignments were more likely to improve knowledge, skills, and attitudes than single interventions or no intervention](../claims/multifaceted-ebp-interventions-improve-competence.md) [+W] — attached 2026-11-01 from Kyriakoulis Konstantinos et al. (2016), which proposed "Use a multifaceted approach when teaching EBP to undergraduate health students"; tests this page's relationship.
 - [The Mixed Course combining technical and didactic content in equal proportions was the only condition with significant reflective-CRK gains at both posttest and follow-up](../claims/mixed-course-only-significant-condition.md) [+M] — attached 2026-11-03 from Rosenkränzer et al. (2016), which proposed "Combine technical and subject-related didactic input in roughly equal proportions when promoting student teachers' CRK for teaching systems thinking"; tests this page's relationship.
+- [Students taught with an eclectic learning approach achieved significantly higher post-test scores in English than students taught with a traditional learning approach.](../claims/eclectic-approach-higher-english-achievement.md) [+W] — attached 2026-11-03 from Suleman et al. (2016), which proposed "Adopt an eclectic learning approach in elementary English teaching to improve achievement and retention."; tests this page's relationship.
+- [Students taught with an eclectic learning approach retained significantly more English content than students taught with a traditional learning approach.](../claims/eclectic-approach-higher-english-retention.md) [+W] — attached 2026-11-03 from Suleman et al. (2016), which proposed "Adopt an eclectic learning approach in elementary English teaching to improve achievement and retention."; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

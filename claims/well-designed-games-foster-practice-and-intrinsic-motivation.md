@@ -88,3 +88,4 @@ Authors' interpretation in the section on games as a culture medium: intrinsic i
 - [Difficult math exercises impair elementary children's motivational, cognitive and affective task experiences relative to easier exercises](difficult-math-tasks-impair-motivation-engagement.md) — related
 - [The competitive Game Show increased students' tutoring engagement relative to baseline](game-show-increases-tutoring-engagement.md) — related
 - [The simulation game group felt significantly less competent than the no-game group, with no significant differences in interest or effort](simulation-game-lowers-competence-no-interest-effort-effect.md) — a narrower finding that bears on this claim
+- [Students were significantly more engaged in Year 3 when working on game-based homework and labwork, compared to students in Year 1, whose coursework was not game based.](students-significantly-more-engaged-game-based-homework-labwork.md) — a narrower finding that bears on this claim

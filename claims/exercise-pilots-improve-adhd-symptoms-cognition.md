@@ -122,3 +122,4 @@ Between-subjects pilot by Verret et al. of a 10-week moderate- to high-intensity
 - [Preliminary evidence from a small number of experimental studies suggests motor skill interventions in primary school settings may positively impact mathematics and/or reading performance](motor-skill-interventions-preliminary-academic-impact.md) — related
 - [Neuropsychological software programs positively impacted cognitive performance, with memory benefits across nearly all reviewed studies](neuropsychological-software-improves-cognition.md) — related
 - [By parent report, 62% of intervention children versus 21% of controls responded or improved on ADHD symptom criteria](pfs-responder-analysis-parent-report-clinical-response.md) — related
+- [Behavioral functioning improves significantly across all intervention groups in similar magnitude](behavioral-improvement-equivalent-across-groups.md) — related

@@ -49,3 +49,5 @@ Semi-experimental pretest-posttest control-group study; 25 study-group and 25 co
 - [Control-group children also improved significantly on social adaptation and skills, but their gains included negative-rank changes unlike the study group](control-group-gains-mixed-ranks.md) — related
 - [The TMPT Program improves 5-6-year-old children's social problem-solving skills relative to a control group](tmpt-program-improves-preschool-social-problem-solving.md) — related
 - [Disadvantaged 60-72-month-old children who participated in a play-supported readiness program scored significantly higher than control-group children on most MPERS sub-scales at posttest](play-supported-program-higher-readiness-posttest.md) — related
+- [The program significantly improved personal and social life skills versus control](childrens-literature-program-improves-personal-social-skills.md) — related
+- [Teacher training in natural communication strategies and social stories improved social skills of students with autism versus control](teacher-training-natural-communication-social-stories-improved-social-skills-autism.md) — related

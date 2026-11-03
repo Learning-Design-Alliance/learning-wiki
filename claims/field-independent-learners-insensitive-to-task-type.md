@@ -48,3 +48,4 @@ Tukey HSD comparison in the randomized controlled study found the FI Dynamic ver
 - [Under dynamic task-type instruction, field-dependent learners significantly outperform field-independent learners, while within the static group FI learners significantly outperform FD learners](fd-outperforms-fi-under-dynamic-instruction.md) — related
 - [Field-dependent learners are more sensitive to task type: they perform best of all subgroups under dynamic instruction and worst under static instruction](field-dependent-learners-sensitive-to-task-type.md) — related
 - [Dynamic task-type vocabulary instruction produces significantly better vocabulary gains than static task-type instruction among intermediate EFL learners](dynamic-task-type-better-vocabulary-gains.md) — related
+- [Vocabulary instruction type and cognitive style interacted in ESP reading comprehension, with FI students highest overall](interaction-vocabulary-instruction-cognitive-style-esp-reading.md) — related

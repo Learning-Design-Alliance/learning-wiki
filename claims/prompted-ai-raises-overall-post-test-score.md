@@ -50,3 +50,4 @@ Overall post-intervention test (multiple-choice plus open-ended, max 18) in the 
 - [The post-test advantage of generative AI-supported instruction persists after controlling for pre-test performance (ANCOVA)](genai-geometry-ancova-group-effect.md) — related
 - [Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning](prompting-raises-perspicuity-dependability-lowers-novelty.md) — related
 - [Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest](elaboration-strategy-affects-posttest-performance.md) — related
+- [PSBLW with open problems yields the highest posttest scores](psblw-open-problems-highest-posttest.md) — related

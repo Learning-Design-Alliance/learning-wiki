@@ -49,3 +49,5 @@ Quasi-experimental comparison of three sections (n=39 web-facilitated, n=24 hybr
 - [More than 92.3% of web-facilitated students earned an overall grade of A compared to 83.3% of hybrid and 62.5% of online students](letter-grade-a-distribution-by-section.md) — related
 - [No statistically significant differences among the three sections on mid-term exam, online journal entries, or combined totals](no-significant-difference-midterm-journal-combined.md) — related
 - [Web-facilitated section students earned significantly higher final course grade and final letter grade means than online section students](web-facilitated-higher-final-grade-than-online.md) — related
+- [Hybrid students significantly outperformed online students on weekly assignments](hybrid-outperform-weekly-assignments.md) — related
+- [No significant difference in final examination scores between online and hybrid students](no-significant-difference-final-examination.md) — related

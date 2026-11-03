@@ -47,3 +47,4 @@ Group-comparison t-tests on the pretest and interest/belief scales among the 176
 ## Related Claims
 - [The experimental and control groups were equivalent on all four environmental literacy dimensions at pre-test](pretest-equivalence-environmental-literacy-groups.md) — reports the opposite
 - [Groups were equivalent at pre-test but differed significantly at post-test](video-podcast-pretest-equivalent-posttest-difference.md) — related
+- [Blog activities did not improve students’ interest in environmental problems](blog-activities-not-improve-environmental-interest.md) — related

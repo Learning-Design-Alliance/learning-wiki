@@ -16,7 +16,7 @@ sources:
 # Teach the conceptual underpinnings of L2 forms rather than only their structural aspects or formulaic units
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (13 for, 8 mixed, 2 against) · 19 studies (6 causal, 5 theoretical, 3 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 1 of 19 report an effect size · 20 claims rest on one study
+> **Evidence** · 25 claims (14 for, 8 mixed, 3 against) · 20 studies (7 causal, 5 theoretical, 3 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 1 of 20 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,8 @@ Learners, forms and sources differ across these claims, so do not rank them by l
 - [Both CI and SI groups significantly outperformed the control group on recognizing English request hedges, with no significant difference between the two treatments](../claims/both-treatments-beat-control-ajt.md) [~W] — attached 2026-11-02 from Takimoto (2014), which proposed "Design input-based pragmatics tasks so learners process both pragmalinguistic and sociopragmatic features, and repeat the tasks".
 - [Cognitive-linguistic instruction of phrasal verbs outperforms translation for exposed phrasal verbs among intermediate Iranian EFL learners](../claims/cognitive-linguistics-outperforms-translation-exposed-pvs.md) [+W] — attached 2026-11-03 from Mohammad Javad Ansari (2016), which proposed "Teach phrasal verbs by explaining and categorizing particle meanings with visual aids rather than translation alone"; tests this page's relationship.
 - [Cognitive-linguistic instruction transfers to unexposed phrasal verbs with the same particles](../claims/cognitive-linguistics-transfer-unexposed-pvs.md) [+W] — attached 2026-11-03 from Mohammad Javad Ansari (2016), which proposed "Teach phrasal verbs by explaining and categorizing particle meanings with visual aids rather than translation alone"; tests this page's relationship.
+- [CG-based grammar instruction produces significant short- and long-term learning gains in use of the English active and passive voice](../claims/cg-based-voice-instruction-significant-gains.md) [+M] — attached 2026-11-03 from Jakub Bielak et al. (2013), which proposed "Use meaning-oriented grammatical descriptions to elucidate semantic differences between competing structures"; tests this page's relationship.
+- [Traditional instruction was more successful than CG-based instruction on the more spontaneous oral test](../claims/traditional-instruction-superior-oral-spontaneous.md) [-M] — attached 2026-11-03 from Jakub Bielak et al. (2013), which proposed "Use meaning-oriented grammatical descriptions to elucidate semantic differences between competing structures"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

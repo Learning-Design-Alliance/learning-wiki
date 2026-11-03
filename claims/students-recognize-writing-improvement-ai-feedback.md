@@ -78,3 +78,4 @@ Classroom observation at School A during implementation; one student's rubric "C
 - [GenAI assistance shows a leveling effect on writing quality for non-native English speaking students](genai-quality-leveling-nnes.md) — related
 - [AWE is more effective for surface-level writing skills than for higher-order skills such as argumentation and coherence](awe-surface-level-stronger-than-higher-order.md) — reports the opposite
 - [Automated support for micro-level revision targeting factual knowledge is well represented, whereas tools supporting writing strategies and self-monitoring for macro-level text quality are infrequent](strobl-2019-micro-macro-pedagogical-imbalance.md) — related
+- [Korean EFL middle school students desire extra help with writing to achieve balanced English competence](korean-efl-students-desire-writing-balance.md) — related

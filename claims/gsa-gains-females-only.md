@@ -92,3 +92,4 @@ Domain-level RM-ANOVAs on the four GSA spatial domains (Table 6). The article li
 - [Experimental students gained on lunar periodicity LPCI domains while only the control group gained on the phase/Sun-Earth-Moon positions domain](lpci-domain-gains-differ-by-curriculum-group.md) — related
 - [Post-test scores on the LPCI, GSA, and PSVT-Rot were significantly correlated for every group except control males on PSVT-Rot versus LPCI](post-assessment-correlations-spatial-lunar.md) — related
 - [Mental rotation scores (PSVT-Rot) increased significantly for all groups except experimental males, in both curricula](psvt-rot-gains-all-but-experimental-males.md) — related
+- [The courseware reduces the visual-spatial ability gap between male and female students, with no significant gender difference in visual-aspect sub-microscopic gains](courseware-reduces-visual-spatial-gender-gap.md) — related

@@ -47,3 +47,4 @@ Discussion of the SEM result estimating a direct path between 6th-grade equality
 ## Related Claims
 - [Spatial ability predicts algebra word problem performance above and beyond its general relation to mathematics ability](spatial-predicts-algebra-word-problems-specifically.md) — related
 - [In-class attention and complex spatial ability (MRT) predict seventh-grade mathematics achievement above and beyond prior mathematical knowledge](attention-and-mrt-predict-seventh-grade-math-above-prior-achievement.md) — related
+- [Prior knowledge predicts problem-solving ability](prior-knowledge-predicts-problem-solving.md) — related

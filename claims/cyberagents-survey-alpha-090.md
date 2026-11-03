@@ -78,3 +78,4 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [The seven holistic leadership factors demonstrated high internal consistency across pre- and post-test administrations.](holistic-leadership-factors-high-reliability.md) — related
 - [The exam instrument showed acceptable reliability with a Cronbach coefficient of 0.82](exam-reliability-cronbach-082-nursing-skills.md) — related
 - [The Vocabulary Knowledge Scale used in the pilot showed very high internal consistency (α = .96)](vks-reliability-alpha-96-pilot.md) — related
+- [The 9-item questionnaire showed very high internal consistency (Cronbach's Alpha 0.97)](videogame-questionnaire-cronbach-alpha-097.md) — related

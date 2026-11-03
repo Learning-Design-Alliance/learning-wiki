@@ -77,6 +77,8 @@ PLCs work when they shift professional learning from transmission (expert delive
 - [Policy actions to build collaborative professional capacity through PLCs](plc-supportive-staffing-and-policy-actions.md)
 - [Weekly design meetings as key sites of teacher inquiry, collaboration, and knowledge creation](weekly-design-meetings-teacher-inquiry.md)
 - [Weekly grade-level communities of instructional practice built around formative assessment evidence](weekly-cip-meetings-formative-evidence.md)
+- [Engage in FA development opportunities: peer observation, PLCs, and coaching](fa-development-opportunities.md)
+- [Involve teachers in action research and collaborative inquiry with higher-education academics to improve science teaching](teacher-action-research-collaborative-inquiry-strategy.md)
 
 ## Examples
 - **Solution Tree / DuFour model** ([solutiontree.com](https://www.solutiontree.com)) — the most widely adopted PLC framework; schools organize into course-alike or grade-level teams running assessment-analysis cycles.

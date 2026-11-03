@@ -79,3 +79,4 @@ Multilevel models (students recruited from six schools, with seventh-grade schoo
 - [Sixth-grade understanding of mathematical equality predicts ninth-grade expression evaluation above and beyond general mathematics ability](equality-problems-predict-expression-evaluation.md) — related
 - [Spatial abilities and in-class attention each uniquely predict mathematical competence from 6th to 9th grade, controlling general ability](spatial-and-attention-unique-predictors-math.md) — a broader claim this one bears on
 - [Spatial ability predicts algebra word problem performance above and beyond its general relation to mathematics ability](spatial-predicts-algebra-word-problems-specifically.md) — a narrower finding that bears on this claim
+- [Prior knowledge predicts problem-solving ability](prior-knowledge-predicts-problem-solving.md) — related

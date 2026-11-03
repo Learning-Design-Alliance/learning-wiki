@@ -71,3 +71,4 @@ Figure 3 plot shows "the two almost parallel lines"; the difference in mean impr
 - [Improvement (N-gain) in mathematical reasoning ability is greater for students learning with mind mapping strategy than for students receiving conventional learning](mind-mapping-greater-kpm-n-gain.md) — related
 - [Students learning with mind mapping strategy (SMM) achieve higher mathematical reasoning ability (KPM) posttest scores than students receiving conventional learning (PK)](mind-mapping-higher-kpm-achievement.md) — related
 - [Learning model and students' early mathematical ability (KAM) interact in increasing mathematical problem-solving ability](interaction-learning-kam-problem-solving.md) — related
+- [Interaction between learning model and problem type on problem-solving ability](interaction-learning-model-problem-type.md) — reports the opposite

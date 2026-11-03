@@ -50,3 +50,4 @@ Pairwise comparison in the physical grouping domain from the POP-coded RCT obser
 - [Whole-group instruction was the most common grouping structure in elementary resource-room reading instruction despite small class sizes](whole-group-most-common-resource-room-grouping.md) — related
 - [Teacher-guided whole-class discussions show more contextualization, explanatory questions, and abstract concepts than student dyad discussions](whole-class-more-contextualization-than-dyads.md) — related
 - [In an RCT, VPD+VMC treatment teachers differed significantly from control teachers in observed time allocation across five of six POP observation domains](vpd-vmc-rct-time-allocation-differences.md) — a broader claim this one bears on
+- [Classroom observations revealed uneven adherence to training, with repetition and chorus reading still dominating classes](observations-uneven-adherence-chorus-reading.md) — related

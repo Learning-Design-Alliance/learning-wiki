@@ -67,3 +67,4 @@ Cohen's d analysis comparing post-test ITBS science mean standard scores between
 - [Both SWH treatment and comparison groups showed significant pre-to-post growth in ITBS science scores, with larger mean gains in the treatment group](swh-within-group-prepost-gains-swd.md) — related
 - [Students with disabilities in SWH classrooms significantly outperformed comparison-group peers on post-intervention ITBS science scores](swh-posttest-outperforms-comparison-swd.md) — related
 - [Treatment and comparison groups showed no significant difference on pre-intervention ITBS science scores](swh-pretest-equivalence-no-significant-difference.md) — related
+- [Both groups showed significant growth from pre-test to post-test on all four assessments](both-groups-significant-growth-all-assessments.md) — a broader claim this one bears on

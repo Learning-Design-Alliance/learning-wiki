@@ -55,3 +55,4 @@ Randomised controlled study (T1 pre-test, T2 10-minute intervention, T3 post-tes
 - [Demonstration-based CPR training tended to produce more accurate performance than lecture-based approaches](demonstration-beats-lecture-cpr-training.md) — related
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — a broader claim this one bears on
 - [Rhythm-shadowing training produced measurable improvements in mean length of run and pause ratio as fluency indicators](rhythm-shadowing-fluency-gains.md) — related
+- [Pre-training CPR skills were virtually zero and post-training gain was 92.0%, indicating training was highly effective](cpr-training-highly-effective-nigerian-students.md) — related

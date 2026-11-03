@@ -59,6 +59,7 @@ The review's future-directions recommendations call for comparative and better-p
 - [Use both qualitative and quantitative research designs, including longitudinal follow-up, to clarify which aspects of residency training best prepare doctors](mixed-methods-longitudinal-residency-outcomes-research.md)
 - [Conduct multi-centre, multi-country randomised controlled trials with adequate confounding adjustment to clarify PBL-career associations](multicentre-rct-pbl-career-recommendation.md)
 - [Compare discovery-based activities to a lecture on identical content to isolate the benefit of direct manipulation](compare-daa-to-lecture-same-content.md)
+- [RCT researchers should collect qualitative data on context alongside implementation and impact](rct-researchers-collect-context-data.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Descriptive qualitative analysis of diaries and semi-structured interviews with 
 - [When choosing Layered Curriculum activities, students prioritized enjoyable activities and activities they believed they could do](students-choose-enjoyable-feasible-activities.md) — related
 - [Students performing Layered Curriculum activities encountered problems particularly in the B and A layers, mainly in organizing and accessing information](layered-curriculum-problems-b-a-layers.md) — related
 - [Experimental group students reported higher attention and concept understanding during activity-based lessons](abl-attention-understanding-ratings.md) — related
+- [Free choice of book motivated students to read more and gain more enjoyment](rsa-free-book-choice-motivates.md) — related

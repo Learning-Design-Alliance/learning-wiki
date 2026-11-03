@@ -47,3 +47,4 @@ Pre-test post-test control quasi-experiment with 80 SS3 students in two purposiv
 ## Related Claims
 - [Students taught with the Process Approach improved significantly from pre-test to post-test on all essay-writing variables](process-approach-pre-post-gains-experimental.md) — a narrower finding that bears on this claim
 - [The Control and Experimental groups were homogeneous in essay-writing performance at pre-test](process-approach-pretest-homogeneity.md) — related
+- [Online-based writing instruction produces equivalent overall essay performance gains compared to classroom-based instruction for ESL students](online-lms-writing-instruction-equivalent-gains.md) — related

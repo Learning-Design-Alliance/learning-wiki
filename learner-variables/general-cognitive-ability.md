@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 186 claims (116 show a difference, 38 mixed, 32 no difference) · 132 studies (51 causal, 44 associational, 15 quant-synthesis, 13 review, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 32 of 132 report an effect size · 183 claims rest on one study
+> **Evidence** · 194 claims (124 show a difference, 38 mixed, 32 no difference) · 136 studies (55 causal, 44 associational, 15 quant-synthesis, 13 review, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 32 of 136 report an effect size · 191 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -222,6 +222,14 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [For students with intermediate and low initial mathematics ability, PMRI and conventional learning showed no significant difference in achievement of mathematics reasoning ability](../claims/pmri-no-difference-intermediate-low-ability.md) [-M] — an instructional effect differs with it
 - [There is no interaction between learning (SMM vs PK) and early mathematical ability (KAM) in increasing mathematical reasoning ability](../claims/no-learning-kam-interaction-kpm.md) [-M] — an instructional effect differs with it
 - [Ability-grouping composition in reciprocal teaching of collaborative learning significantly affects individual achievement, with the high homogeneous group showing the largest mean gain (19.5) and the low homogeneous group the smallest (11.75)](../claims/ability-grouping-affects-individual-achievement-rt.md) [+M] — an instructional effect differs with it
+- [27.4% of students moved from the low-ability to the high-ability student-level latent class between pre-test and post-test](../claims/lta-mixirtm-274-percent-transition.md) [+M] — instruction changes it
+- [High numerical ability students significantly outperformed low numerical ability students in mathematics achievement](../claims/high-numerical-ability-better-math-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [SSCS alone also reversed the ability gap: low academic students improved 17.66% more than high academic students](../claims/sscs-alone-low-academic-17-percent-higher.md) [+M] — an instructional effect differs with it
+- [SSCS+MS learning improves low academic students' creative thinking ability 36.18% more than high academic students](../claims/sscs-ms-creative-thinking-low-academic-36-percent.md) [+M] — an instructional effect differs with it
+- [The differentiation approach significantly increased mathematics achievement of gifted students compared with the Ministry of National Education curriculum.](../claims/differentiation-approach-beats-national-curriculum-gifted.md) [+M] — an instructional effect differs with it
+- [The differentiation approach significantly increased mathematics achievement of gifted students compared with the Purdue model.](../claims/differentiation-approach-beats-purdue-model-gifted.md) [+M] — an instructional effect differs with it
+- [The differentiation approach, designed for gifted students, also significantly increased mathematics achievement of non-gifted students.](../claims/differentiation-approach-benefits-non-gifted-students.md) [+M] — an instructional effect differs with it
+- [The newly developed differentiation approach significantly increased mathematics achievement of gifted students compared with the Program for Noticing Individual Skills.](../claims/differentiation-approach-beats-pnis-gifted-achievement.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

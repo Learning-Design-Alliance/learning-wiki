@@ -55,6 +55,7 @@ The article's implementation strategy organizes ABSL teaching as a weekly plan o
 ## Related Strategies
 
 - [Use Toulmin-based argumentation activities (developing arguments, competing theories, predict-observe-explain, expression tables, concept maps) with small-group techniques to teach science units.](toulmin-argumentation-activity-strategy.md)
+- [Structure cartoon-supported PBL activities in sequential problem-solving steps](sequential-cartoon-pbl-activity-steps.md)
 
 ## Examples
 -

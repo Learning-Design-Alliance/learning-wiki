@@ -87,6 +87,7 @@ Math talks operationalize [Active Learning](../principles/active-learning.md) in
 - [Case-Based Learning](../patterns/case-based-learning.md) — shares the structure of discussing and comparing solution approaches to a shared problem
 - [Formative Assessment](../patterns/formative-assessment.md) — math talks double as a real-time window into learner reasoning
 - [Extend rich student discourse beyond Math Talks and use participation structures and story problems to broaden access and sense-making](extend-discourse-beyond-math-talks.md)
+- [Discuss mathematical concepts with students rather than telling](discuss-mathematical-concepts-fa.md)
 
 ## Examples
 - **Number Talks (Parrish, 2010)** — A K–5 routine: a computation such as 16 × 25 is posed mentally, learners share strategies ("I did 25 × 4 four times…"), and the facilitator records each on the board for comparison. ([Math Solutions](https://mathsolutions.com))

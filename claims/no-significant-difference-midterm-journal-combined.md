@@ -52,3 +52,5 @@ One-way ANOVA results for these measures: mid-term exam F = .38, p = .68; journa
 - [Web-facilitated section students earned significantly higher final exam means than both hybrid and online section students in an undergraduate exercise psychology course](web-facilitated-higher-final-exam-than-hybrid-online.md) — related
 - [The SR and SU groups were roughly equal in English proficiency before the treatment, as measured by their mid-term exam](sr-su-groups-equal-pretest-proficiency.md) — related
 - [Web-facilitated section students earned significantly higher final course grade and final letter grade means than online section students](web-facilitated-higher-final-grade-than-online.md) — related
+- [No significant difference in final examination scores between online and hybrid students](no-significant-difference-final-examination.md) — related
+- [Online students were as successful as hybrid students in overall course performance](online-as-successful-as-hybrid-overall-performance.md) — related

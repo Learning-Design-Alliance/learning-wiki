@@ -110,6 +110,7 @@ Concept mapping supports meaningful learning by forcing learners to identify rel
 - [Lecture Support with Graphic Organizers](../strategies/graphic_organizers_for_lecture_support.md)
 - [Graphic Organizers as Thinking Tools](../strategies/graphic_organizers_as_thinking_tools.md)
 - [Unit Planning with Graphic Organizers](../strategies/graphic_organizers_for_unit_planning.md)
+- [Use digital graphic organizer applications for collaborative concept mapping](../strategies/digital-graphic-organizer-applications-strategy.md)
 
 ## Key Sources
 - Novak, J. D., & Cañas, A. J. (2008). The theory underlying concept maps and how to construct and use them. *Technical Report IHMC CmapTools 2006-01 Rev 01-2008*, Florida Institute for Human and Machine Cognition. [https://cmap.ihmc.us/docs/theory-of-concept-maps](https://cmap.ihmc.us/docs/theory-of-concept-maps)

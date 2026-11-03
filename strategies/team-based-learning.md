@@ -66,6 +66,7 @@ TBL operationalizes [Active Learning](../principles/active-learning.md) at scale
 - [Mitigate the free-rider phenomenon in TBL through peer assessment and individual accountability](tbl-free-rider-mitigation-peer-assessment.md)
 - [Implement TBL with dedicated teaching teams, systematic teacher training, and diversified assessment](tbl-implementation-strategy-dedicated-teams.md)
 - [Implement the grouping method from the start of the classes rather than only in the final period](implement-grouping-from-course-start.md)
+- [Assign student teams to research and present real mining case studies with peer evaluation](student-case-study-presentations-peer-evaluation.md)
 
 ## Examples
 - **[Team-Based Learning Collaborative](https://www.teambasedlearning.org)** — professional community and published TBL modules, especially in health sciences education

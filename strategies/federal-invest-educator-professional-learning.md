@@ -49,6 +49,7 @@ The brief calls for increasing funding under ESSA and the Higher Education Act t
 - [Sustain teacher residencies through blended federal and state funding, including TQP grants, ESSER funds, and dedicated state investments](funding-teacher-residencies-federal-state.md)
 - [Invest in high-quality, standards-aligned professional development for school leaders, including leaders of color](invest-principal-professional-development.md)
 - [Seven-policy comprehensive approach to equalizing student access to certified and experienced teachers](comprehensive-policies-equitable-teacher-access.md)
+- [Establish a professional development training center for multiple intelligences-based teacher training](mi-professional-development-center-strategy.md)
 
 ## Examples
 -

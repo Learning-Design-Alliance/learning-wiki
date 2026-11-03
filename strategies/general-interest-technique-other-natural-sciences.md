@@ -42,7 +42,8 @@ The article recommends extending the general technique for the formation of lear
 - [The experimental group's distribution across motivational levels shifted toward higher levels from pre-test to post-test while the control group's did not](../claims/experimental-group-level-shift-motivational-component.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Expand brain-based learning research to chemistry, physics, biology and primary education using diverse methodologies](bbl-expand-research-fields-methodologies.md)
 
 ## Examples
 -

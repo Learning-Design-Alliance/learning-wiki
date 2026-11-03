@@ -19,7 +19,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (25 for, 19 mixed, 4 against) · 56 studies (26 causal, 12 quant-synthesis, 9 review, 6 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 10 of 56 report an effect size · 39 claims rest on one study
+> **Evidence** · 49 claims (25 for, 19 mixed, 5 against) · 57 studies (26 causal, 12 quant-synthesis, 10 review, 6 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 10 of 57 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,7 @@ Immediate procedural performance, conceptual understanding, transfer, delayed re
 - [Prior meta-analytic evidence reported by the article indicates direct instruction succeeds in teaching academic skills to students with special needs](../claims/kinder-meta-analysis-direct-instruction-special-needs.md) [+W]
 - [The study could not determine which instruction type was better; per Figure 2 the implicit group slightly outperformed the explicit group by a small margin](../claims/instruction-type-comparison-inconclusive-implicit-slight-edge.md) [~W]
 - [The reviewed literature indicates mathematically disabled learners' problems can be addressed through appropriate, explicit and early instruction and intervention](../claims/early-explicit-intervention-math-disabilities-review.md) [+W]
+- [Student-centred approaches (problem-based learning, guided inquiry, cooperative learning) outperformed teacher-centred methods in the reviewed studies](../claims/student-centred-methods-outperform-teacher-centred.md) [-W]
 
 ## Related Principles
 - [Modeling](modeling.md) — direct instruction depends on visible demonstration, not verbal explanation alone

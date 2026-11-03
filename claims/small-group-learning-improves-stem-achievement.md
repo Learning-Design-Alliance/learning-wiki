@@ -106,3 +106,4 @@ A meta-analysis of research on undergraduate science, mathematics, engineering, 
 - [Higher SDL ability is reported when students work in small groups with peers and an educator rather than one-on-one](small-groups-peers-educator-higher-sdl.md) — a narrower finding that bears on this claim
 - [The article reports that involvement in cooperative learning is a strong predictor of undergraduate academic performance](cooperative-learning-predicts-performance.md) — related
 - [First-year engineering students taught integration through group work achieved higher average exam performance ratios than a comparable class taught traditionally](group-work-higher-integration-performance-ratio.md) — a narrower finding that bears on this claim
+- [Cooperative group work activities improve pre-school children's pattern recognition skills more than individual instruction](cooperative-group-work-improves-preschool-pattern-recognition.md) — a narrower finding that bears on this claim

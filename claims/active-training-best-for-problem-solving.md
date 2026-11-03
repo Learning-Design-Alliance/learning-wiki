@@ -69,3 +69,4 @@ Tukey's post-hoc test (Table 8, Fig. 1): active group mean 13.8 (n = 34), tradit
 - [Students taught college algebra via the scientific heuristic method performed significantly better on the post-test than students taught by direct instruction](scientific-heuristic-outperforms-direct-instruction-posttest.md) — related
 - [Sidak post hoc tests showed blended learning and e-learning each significantly outperformed traditional teaching, but did not differ significantly from each other](sidak-posthoc-blended-elearning-traditional.md) — related
 - [Patterning instruction produced significantly better performance than reading, mathematics, or social studies instruction on the patterning posttest and far generalization test](patterning-instruction-beats-controls-on-patterning-tests.md) — a narrower finding that bears on this claim
+- [PSBLW improves mathematical problem-solving ability more than direct instruction](psblw-improves-math-problem-solving-ability.md) — related

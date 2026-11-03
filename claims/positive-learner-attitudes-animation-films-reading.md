@@ -46,3 +46,5 @@ Semi-structured interview with experimental-group learners only, conducted in th
 
 ## Related Claims
 - [Experimental-group students held predominantly positive attitudes toward using the animated sitcom for grammar learning](positive-attitudes-animated-sitcom-grammar.md) — related
+- [Interview content analysis attributes animation-based learning gains to cognitive, metacognitive, affective, and behavioral components of student attitudes.](animation-bjt-interview-abc-components.md) — related
+- [All 24 students expressed positive attitudes towards specific aspects of RSA in completing extensive reading tasks](rsa-positive-student-perceptions.md) — related

@@ -51,3 +51,4 @@ Two-way ANOVA for mixed measures on CCT-X pre-test and post-test scores of the e
 - [Existing teaching methods produced no significant change and a descriptive decline in control group critical thinking scores](existing-methods-no-significant-cct-x-change.md) — reports the opposite
 - [Group main effect: concept cartoon teaching explained 18% of variance in critical thinking scores between groups](group-main-effect-18-percent-variance.md) — related
 - [No significant overall change in CCT-X scores from pre-test to post-test regardless of group](measurement-main-effect-not-significant.md) — related
+- [Cartoon-supported problem-based learning improves fourth-grade students' perceptions of their problem-solving skills](cartoon-pbl-improves-problem-solving-perceptions.md) — related

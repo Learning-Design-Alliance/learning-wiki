@@ -49,3 +49,4 @@ Pre/post-test control-group experiment: 30 7th graders taught via MI activities 
 - [Seventh graders taught with a Multiple Intelligences strategy developed more positive environmental attitudes than peers taught by traditional methods](mi-strategy-higher-environmental-attitude.md) — related
 - [Multiple-intelligences-based science instruction produced significantly higher post-test achievement than traditional instruction in a quasi-experiment with fifth graders](mi-instruction-higher-science-achievement-quasi-experiment.md) — a broader claim this one bears on
 - [MI-based teaching strategy produces significantly higher MI gain scores than traditional teaching in junior high science](mi-strategy-higher-mi-gain-than-traditional.md) — related
+- [Traditional teaching strategies dominated the classroom (87%) with no multiple intelligences activities before the intervention](traditional-strategies-dominated-baseline.md) — related

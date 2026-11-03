@@ -91,6 +91,7 @@ Guided play leverages children's intrinsic motivation by preserving autonomy whi
 - [Manipulate goal/environment features (target arrangement) to steer learners toward specific strategies or broader exploration](target-arrangement-steers-strategy-adoption.md)
 - [Scaffolding storytelling: guiding a child to create their own story about new material through open-ended questions, hints, and validation](scaffolding-storytelling-strategy.md)
 - [Design guided play environments that balance child-initiated curiosity with social scaffolding](guided-play-balances-curiosity-and-scaffolding.md)
+- [Use probe questions during a trigger phase to direct attention to causal variables](probe-questions-trigger-phase-strategy.md)
 
 ## Examples
 - **Restaurant scenario:** children create menus, write orders, and calculate bills, reinforcing numeracy and literacy within pretend play; the adult asks, "How much do two soups and a salad cost?"

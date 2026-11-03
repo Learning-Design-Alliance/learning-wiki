@@ -49,3 +49,4 @@ Behavioral lexical decision task administered before and after the two-week lear
 - [Words encountered in diverse contexts are identified faster, with a mean 26-ms advantage](diverse-contexts-speed-word-identification.md) — related
 - [The AI-enhanced flipped classroom raises post-class assignment accuracy over the traditional classroom, an advantage the standard flipped classroom did not show](ai-enhancement-raises-assignment-accuracy.md) — related
 - [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](cd-semantic-richness-improves-lexical-processing.md) — a broader claim this one bears on
+- [RAVE instruction enhances efficiency of lexical access to instructed words](rave-improves-lexical-access-year1.md) — related

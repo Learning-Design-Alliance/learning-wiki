@@ -52,3 +52,5 @@ Wilcoxon test for related pairs on the experimental group's scores from post mea
 - [Preschoolers with autism given a multi-component communication intervention used more social communicative utterances with their caregivers than comparison children 4 months after it ended, a small difference that was not significant immediately after intervention](scu-ccx-maintained-at-follow-up.md) — related
 - [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — related
 - [No significant difference between post-test and one-month follow-up scores](no-significant-posttest-followup-difference.md) — related
+- [Social skills gains were maintained at follow-up, with no significant post-to-follow-up differences](social-skills-gains-maintained-follow-up.md) — a broader claim this one bears on
+- [Teacher training in natural communication strategies and social stories improved social skills of students with autism versus control](teacher-training-natural-communication-social-stories-improved-social-skills-autism.md) — related

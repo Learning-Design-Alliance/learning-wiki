@@ -54,6 +54,7 @@ Churchill (2011) developed a set of recommendations for the use of blogs in educ
 - [Multimodal Learning Logs/Blogs](multimodal-learning-logs-blogs.md)
 - [Design online courses with predictable structure, professionally relevant choice, and substantive instructor discussion facilitation to support learner presence](design-features-supporting-learner-presence.md)
 - [Recommended uses of blogs for language learning: teacher's blog, other skills, and e-portfolio](blog-language-learning-recommendations.md)
+- [Use blogs to share multimedia and reflective questions for environmental education](blog-multimedia-reflection-environmental-education.md)
 
 ## Examples
 -

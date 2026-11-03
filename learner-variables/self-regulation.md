@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 249 claims (177 show a difference, 41 mixed, 31 no difference) · 177 studies (64 causal, 38 review, 38 associational, 14 quant-synthesis, 11 theoretical, 9 qualitative, 3 design), `q1`–`q4` · 33 of 177 report an effect size · 240 claims rest on one study
+> **Evidence** · 250 claims (178 show a difference, 41 mixed, 31 no difference) · 178 studies (65 causal, 38 review, 38 associational, 14 quant-synthesis, 11 theoretical, 9 qualitative, 3 design), `q1`–`q4` · 33 of 178 report an effect size · 241 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -298,6 +298,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Learners' reciprocity patterns shifted from other-regulation toward self-regulation across the G-DA course](../claims/reciprocity-shifted-toward-self-regulation.md) [+M] — instruction changes it
 - [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](../claims/metacognitive-training-increases-writing-self-monitoring.md) [+W] — instruction changes it
 - [An after-school EF/VS intervention improves directly assessed executive function in kindergarten and first-grade children (intent-to-treat)](../claims/after-school-intervention-improves-executive-function.md) [+M] — instruction changes it
+- [The STP-PreK Enhanced group shows greater growth in emotion regulation and executive functioning than the other groups](../claims/self-regulation-greater-growth-enhanced.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

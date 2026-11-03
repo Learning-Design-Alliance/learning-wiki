@@ -51,3 +51,4 @@ Reliability analysis of the 30-item questionnaire based on Gardner's Attitude & 
 - [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related
 - [The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)](ai-reflection-instrument-alpha-863.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
+- [The multiple intelligences questionnaire demonstrated reliability with an overall Cronbach's alpha of 0.8587](mi-questionnaire-reliability.md) — related

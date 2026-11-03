@@ -54,3 +54,5 @@ Quasi-experiment with pretest, immediate posttest and delayed posttest; 50 Polis
 - [X-Word Grammar students improved significantly more on subject-verb agreement, borderline on tense, and not significantly on aspect/verb forms](xword-significant-subject-verb-agreement-gain.md) — related
 - [Instruction with the Comprehensive Charts significantly improved EFL freshmen's tense-form recognition in the non-written context](comprehensive-charts-improve-tense-recognition.md) — related
 - [Most participants preferred the focus on formS approach and deemed it the most effective tense-teaching method](students-prefer-focus-on-forms-tense-teaching.md) — related
+- [CG-based grammar instruction produces significant short- and long-term learning gains in use of the English active and passive voice](cg-based-voice-instruction-significant-gains.md) — related
+- [No significant differences between STAN and COG on the two written tests](no-significant-written-between-group-differences.md) — a narrower finding that bears on this claim

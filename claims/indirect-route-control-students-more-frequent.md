@@ -48,3 +48,4 @@ Qualitative analysis of seventh-grade dynamic assessment transcripts found stude
 - [Conflation of the instructed word's meaning with the root's meaning was more frequent among intervention students than control students](conflation-more-frequent-intervention-students.md) — related
 - [The direct route—explicitly applying bound-root meanings—was the most common morphological problem-solving strategy for all groups, and RAVE and Honors RAVE students used it more frequently than control students](direct-route-bound-roots-intervention-higher-rate.md) — related
 - [False connections—linking to a word mistakenly believed to be root-related—were infrequent, occurring 10 times out of 262 episodes](false-connections-infrequent-10-of-262.md) — related
+- [RAVE students show stronger morphological problem-solving with Latin roots on a dynamic assessment](large-treatment-effect-root-recognition-grade-6.md) — related

@@ -58,3 +58,4 @@ Process-evaluation evidence from informal interviews during 30 evaluator visits 
 - [Participating schools highly valued Dialogic Teaching, with teachers reporting positive effects on pupil engagement and confidence](dialogic-teaching-valued-engagement-confidence.md) — related
 - [Teachers observed that cooperative learning boosted participation, confidence, and motivation, including among weak and shy students](cooperative-learning-teacher-observations-participation-confidence.md) — related
 - [Staff in participating schools reported improvements in children's spoken language, listening, narrative skills, vocabulary and confidence, attributing them to the small-group format and engaging content](neli-staff-reported-improvements.md) — related
+- [Students highly valued the sharing stage for practicing listening, speaking, and writing skills](rsa-sharing-practice-skills.md) — related

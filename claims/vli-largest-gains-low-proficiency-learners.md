@@ -52,3 +52,4 @@ Comparison of low-proficiency subgroups (n = 30 per condition) in the same quasi
 - [Both high and low proficiency VLI subgroups outperformed their TCI counterparts in posttest creative thinking](vli-outperformed-tci-both-proficiency-levels.md) — related
 - [VLI and TCI groups did not differ significantly in creative thinking before instruction](vli-tci-no-pretest-difference.md) — related
 - [ATI research using static aptitude measures has yielded remarkably sparse robust results](ati-static-measures-sparse-results.md) — a broader claim this one bears on
+- [Under SSCS+MS, low academic students' creative thinking improvement exceeded high academic students' (descriptive corrected means)](sscs-ms-low-academic-exceeds-high-corrected-means.md) — related

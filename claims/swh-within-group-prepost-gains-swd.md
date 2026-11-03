@@ -67,3 +67,4 @@ Paired-samples t-test of pre/post ITBS science standard scores for 199 compariso
 - [SWH treatment produced a moderate pre-post effect size (d = 0.740) versus a small effect (d = 0.260) for comparison instruction, and a moderate between-group effect (d = 0.400)](swh-effect-sizes-moderate-vs-small.md) — related
 - [Students with disabilities in SWH classrooms significantly outperformed comparison-group peers on post-intervention ITBS science scores](swh-posttest-outperforms-comparison-swd.md) — related
 - [Treatment and comparison groups showed no significant difference on pre-intervention ITBS science scores](swh-pretest-equivalence-no-significant-difference.md) — related
+- [Both groups showed significant growth from pre-test to post-test on all four assessments](both-groups-significant-growth-all-assessments.md) — a broader claim this one bears on

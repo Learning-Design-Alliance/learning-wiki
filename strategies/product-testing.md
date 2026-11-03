@@ -67,6 +67,7 @@ Product testing operationalizes [Authentic Audiences & Purposes](../principles/a
 - [Use prototyping tasks to help students unfamiliar with design-mode thinking share incomplete ideas](prototyping-tasks-for-design-mode-thinking-novices.md)
 - [Use iterative design with short feedback loops and multiple user-feedback methods during product development](iterative-design-short-feedback-loops.md)
 - [Participatory design sessions with educators to gather usability feedback on educational robot prototypes](participatory-design-educator-usability-sessions.md)
+- [Validate multimedia instructional materials with student feedback before deployment](pilot-validation-instructional-materials.md)
 
 ## Examples
 - **Stanford d.school design courses** — student teams run live usability sessions with real users on low-fidelity prototypes, then iterate before final review ([https://dschool.stanford.edu](https://dschool.stanford.edu))

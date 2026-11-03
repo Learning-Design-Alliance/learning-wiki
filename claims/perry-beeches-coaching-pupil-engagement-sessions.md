@@ -50,3 +50,4 @@ Qualitative process evaluation finding from session observations and coach inter
 - [Process evaluation found that poor behaviour and lack of pupil engagement spoiled delivery of some sessions and may have contributed to the lack of impact](chatterbooks-behaviour-engagement-problems.md) — reports the opposite
 - [The process evaluation found ThinkForward feasible to deliver, with teachers reporting benefits for intervention pupils' behaviour](thinkforward-process-evaluation-feasibility.md) — related
 - [Observations suggested pupils were engaged by and enjoyed the summer school, with the interactive poetry approach appearing to motivate writing](discover-summer-school-pupil-engagement-observations.md) — related
+- [Using a variety of reflective modes supported learning across academic, social, and personal development planes](varied-reflective-modes-multivocality-benefits.md) — related

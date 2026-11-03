@@ -47,3 +47,5 @@ Wilcoxon signed-ranks test on the 12-student control group continuing normal edu
 ## Related Claims
 - [A differentiated mathematics program significantly increased the mathematics attitudes of fifth-grade gifted students from pre-test to post-test](differentiated-math-program-increases-gifted-attitude.md) — related
 - [Post-test mathematics attitude scores did not differ significantly between the differentiated-instruction and control groups](gifted-attitude-posttest-no-between-group-difference.md) — related
+- [The differentiation approach significantly increased mathematics achievement of gifted students compared with the Ministry of National Education curriculum.](differentiation-approach-beats-national-curriculum-gifted.md) — related
+- [The differentiation approach, designed for gifted students, also significantly increased mathematics achievement of non-gifted students.](differentiation-approach-benefits-non-gifted-students.md) — related

@@ -47,3 +47,4 @@ From the qualitative interviews with 15 experimental-group students: responses o
 ## Related Claims
 - [The effect of computer-based teaching on academic success does not differ significantly by type of course, though social studies showed the largest effect size (1.54) and mathematics the lowest (1.06)](cbt-effect-no-difference-by-course-type.md) — related
 - [Teaching 6th-grade social studies through performing arts produces significantly higher academic achievement than current-syllabus teaching](performing-arts-social-studies-achievement-gain.md) — related
+- [Most students wanted argumentation-based activities continued, mainly in science lessons](students-want-argumentation-activities-continued-science.md) — related

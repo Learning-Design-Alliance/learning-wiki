@@ -95,3 +95,4 @@ In the same exploratory regressions, "Only learning preference had a significant
 - [The pre/post-testing advantage cannot be attributed to extra training time: training time did not significantly predict final performance](training-time-null-covariate-latimier.md) — related
 - [Motivational pedagogical agents did not significantly improve posttest scores or error rates in an adaptive algebra system after controlling for pretest](motivational-pa-null-conceptual-gains.md) — related
 - [No significant improvement in science test performance from the robotics and programming unit](mbot-no-science-improvement.md) — related
+- [Lower pretest exploratory levels predicted greater gains, but the group difference in this relationship was not significant](pretest-levels-predict-gain-not-significant-interaction.md) — related

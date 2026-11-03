@@ -48,3 +48,4 @@ Analysis of two-tier IMCCT second-tier responses across pre, post and delayed te
 - [Some alternative conceptions persisted or newly emerged after instruction, including conceptions not seen in pre-tests](alternative-conceptions-persist-emerge-posttest.md) — reports the opposite
 - [The explanation assisted REACT group retains its advantage on a delayed test nine weeks after the intervention despite score decline](react-explanation-delayed-retention.md) — related
 - [Explanation assisted REACT strategy produces significantly higher post-test conceptual understanding of impulse, momentum and collisions than traditional teaching](react-explanation-posttest-impulse-momentum.md) — related
+- [Interviews show fire-context instruction eliminated alternative concepts among experiment group students](fire-context-interviews-eliminate-alternative-concepts.md) — related

@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 150 claims (114 show a difference, 15 mixed, 21 no difference) · 120 studies (71 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 31 of 120 report an effect size · 147 claims rest on one study
+> **Evidence** · 155 claims (118 show a difference, 16 mixed, 21 no difference) · 122 studies (73 causal, 15 review, 11 quant-synthesis, 8 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 31 of 122 report an effect size · 152 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -188,6 +188,11 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [TTPS intervention students improved their problem-solving performance from pretest to posttest while comparison students did not](../claims/ttps-improves-problem-solving-within-group.md) [+M] — instruction changes it
 - [Facebook-based learning significantly enhances creativity in problem solving among Islamic Studies students compared to control group](../claims/facebook-based-learning-enhances-creativity-problem-solving-islamic-studies.md) [+M] — instruction changes it
 - [Significant differences exist in student achievement based on creativity indicators within the Facebook-based learning treatment group](../claims/significant-differences-student-achievement-creativity-indicators-facebook-treatment.md) [+M] — learners who differ on it differ in outcomes
+- [Cartoon-supported problem-based learning improves fourth-grade students' perceptions of their problem-solving skills](../claims/cartoon-pbl-improves-problem-solving-perceptions.md) [+M] — instruction changes it
+- [Interaction between learning model and problem type on problem-solving ability](../claims/interaction-learning-model-problem-type.md) [~W] — instruction changes it
+- [Open problems improve mathematical problem-solving ability more than closed problems](../claims/open-problems-improve-math-problem-solving-ability.md) [+W] — instruction changes it
+- [Prior knowledge predicts problem-solving ability](../claims/prior-knowledge-predicts-problem-solving.md) [+W] — learners who differ on it differ in outcomes
+- [PSBLW improves mathematical problem-solving ability more than direct instruction](../claims/psblw-improves-math-problem-solving-ability.md) [+W] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

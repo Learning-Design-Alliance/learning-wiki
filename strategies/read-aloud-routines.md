@@ -66,6 +66,7 @@ Reading aloud exposes learners to language and text structures above their indep
 - [Repeated Reading](repeated-reading.md) — targets fluency through learner reading rather than listening
 - [Vocabulary Pre-Teaching](pre-teaching-vocabulary.md) — the front-loaded complement to in-text vocabulary pauses
 - [Implement structured read-aloud with planned stops, guiding and higher-order questions, and modeled vocabulary meaning-finding](structured-read-aloud-stops-questions-strategy.md)
+- [Train parents to use paired reading supplemented with comprehension, fluency, and vocabulary strategies during summer book reading](parent-paired-reading-multi-strategy-summer-program.md)
 
 ## Examples
 - **Dialogic reading interventions** ([Whitehurst et al., 1988](https://doi.org/10.1037/0012-1649.24.4.552)) — parents of 2–3-year-olds trained in PEER questioning produced measurable expressive language gains in weeks.

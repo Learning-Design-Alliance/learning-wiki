@@ -44,7 +44,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (30 for, 21 mixed) · 60 studies (18 causal, 14 review, 13 quant-synthesis, 5 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 18 of 60 report an effect size · 39 claims rest on one study
+> **Evidence** · 53 claims (32 for, 21 mixed) · 61 studies (19 causal, 14 review, 13 quant-synthesis, 5 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 18 of 61 report an effect size · 41 claims rest on one study
 
 ## Description
 
@@ -140,6 +140,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Quiz-and-reflection and extended-quiz conditions show no significant difference in final exam performance after controlling for prior exam scores](../claims/quiz-reflection-vs-extended-quiz-final-exam-no-difference.md) [~W] — attached 2026-11-03 from Virginia Clinton (2018), which proposed "Instructors can choose between brief quizzes with reflections and longer quizzes based on practical constraints, since both appear equally effective".
 - [Quiz-and-reflection and extended-quiz conditions show no significant difference in self-reported metacognitive self-regulation](../claims/quiz-reflection-vs-extended-quiz-self-regulation-no-difference.md) [~W] — attached 2026-11-03 from Virginia Clinton (2018), which proposed "Instructors can choose between brief quizzes with reflections and longer quizzes based on practical constraints, since both appear equally effective".
 - [Dynamic assessment with mediated grammar testing produced higher post-test syntactic scores than deductive grammar instruction in Iranian college-preparatory EFL learners](../claims/dynamic-assessment-outperforms-static-syntactic-development.md) [+W] — attached 2026-11-03 from Mohamad Reza Jafary et al. (2012), which proposed "Use dynamic assessment as both a teaching device and a measure of grammatical knowledge"; tests this page's relationship.
+- [Formative testing with feedback and remediation yields higher junior secondary mathematics achievement than feedback alone or test-only control](../claims/feedback-remediation-outperforms-feedback-only-math-jss.md) [+W] — attached 2026-11-03 from Ajogbeje Oke James et al. (2012), which proposed "Combine regular formative testing with prompt feedback and structured remediation to improve mathematics learning"; tests this page's relationship.
+- [Formative testing with feedback alone yields higher mathematics achievement than testing without feedback](../claims/feedback-only-outperforms-test-only-control-math-jss.md) [+W] — attached 2026-11-03 from Ajogbeje Oke James et al. (2012), which proposed "Combine regular formative testing with prompt feedback and structured remediation to improve mathematics learning"; tests this page's relationship.
 
 ## Source verification and open tests
 

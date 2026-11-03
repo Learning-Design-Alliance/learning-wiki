@@ -47,6 +47,7 @@ The Pebble-in-the-Pond model is an instructional development approach in which d
 ## Examples
 
 - [Entrepreneur course: a task-centered online course teaching business startup to non-business majors](../elements/entrepreneur-task-centered-course-byu.md)
+- [Pebble deposit acid mine drainage evaluation using released environmental baseline data](../designs/pebble-acid-mine-drainage-evaluation-exercise.md)
 
 ## Key Sources
 - M. David Merrill. (2007). A Task-Centered Instructional Strategy. Journal of Research on Technology in Education, 40(1), 5–22. https://eric.ed.gov/?id=EJ826059

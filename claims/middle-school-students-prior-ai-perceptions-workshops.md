@@ -85,3 +85,4 @@ Self-perception items on the pre-test. Only a minority (17.1%, n = 35) said they
 
 ## Related Claims
 - [Workshop participants converge on the claim that generative AI benefits accrue fastest to students who already understand the material](ai-benefits-accrue-to-stronger-students.md) — related
+- [A majority of students (60.8%) indicated awareness of DLISt7 despite it being an unpublished framework](dlist7-student-awareness-sixty-forty-split.md) — related

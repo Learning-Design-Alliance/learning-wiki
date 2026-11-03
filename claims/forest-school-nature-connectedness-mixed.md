@@ -69,3 +69,4 @@ Review's synthesis of two studies using the Nature Relatedness and Environmental
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](nature-exposure-reduces-learner-stress.md) — related
 - [Outdoor learning in nature reduces student stress (cortisol decline), but stress-restoration findings are mixed by measure and age](outdoor-learning-reduces-student-stress-cortisol.md) — related
 - [After the forest-themed program, ecocentric orientation showed the largest increase in experimental-group responses while egocentric and society-centered orientations were reduced](forest-program-ecocentrism-increase-preschoolers.md) — related
+- [Outdoor activities with parents are moderately associated with students’ interest in environmental problems](outdoor-activities-moderately-related-to-environmental-interest.md) — related

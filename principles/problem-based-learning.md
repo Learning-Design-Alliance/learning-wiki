@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 134 claims (56 for, 68 mixed, 10 against) · 82 studies (32 quant-synthesis, 18 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 20 of 82 report an effect size · 129 claims rest on one study
+> **Evidence** · 136 claims (58 for, 68 mixed, 10 against) · 83 studies (32 quant-synthesis, 19 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 20 of 83 report an effect size · 131 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,8 @@ On 2026-10-19 (wave 2) the other claims linked here were read and moved into the
 - [No interaction between learning model and learning interest: PBL outperformed DI at every interest level](../claims/no-interaction-model-interest-pbl-higher-all-levels.md) [+W] — attached 2026-11-02 from Berti Dyah Permatasari et al. (2019), which proposed "Use Problem Based Learning as an innovative alternative for elementary social science instruction".
 - [PBL teaching significantly improves the critical thinking temperament dimensions of analysis, openness and justice in English-major sophomores](../claims/pbl-improves-analysis-openness-justice-temperament.md) [+W] — attached 2026-11-03 from Zhen Zhou (2018), which proposed "Use PBL to cultivate critical thinking in English teaching because it centres students on real problem situations"; tests this page's relationship.
 - [PBL teaching significantly improves the critical thinking skills of analysis and interpretation in English-major sophomores](../claims/pbl-improves-analysis-interpretation-skills.md) [+W] — attached 2026-11-03 from Zhen Zhou (2018), which proposed "Use PBL to cultivate critical thinking in English teaching because it centres students on real problem situations"; tests this page's relationship.
+- [Cartoon-supported problem-based learning improves fourth-grade students' perceptions of their problem-solving skills](../claims/cartoon-pbl-improves-problem-solving-perceptions.md) [+W] — attached 2026-11-03 from Derya Duygu Tanrıkulu (2022), which proposed "Use cartoons as a humour element to support problem-based learning in primary school Social Studies".
+- [Cartoon-supported problem-based learning improves fourth-grade students' achievement in Social Studies](../claims/cartoon-pbl-improves-social-studies-achievement.md) [+W] — attached 2026-11-03 from Derya Duygu Tanrıkulu (2022), which proposed "Use cartoons as a humour element to support problem-based learning in primary school Social Studies".
 
 ## Objective and learner-valued goal
 

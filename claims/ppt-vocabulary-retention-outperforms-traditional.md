@@ -56,3 +56,4 @@ Two-group pre-test/post-test study of 68 grade-10 students (34 per group, two in
 - [EFL students using Web 2.0 learner-created content scored significantly higher on a vocabulary post-test than a lecture-based control group](web2-learner-content-vocabulary-posttest-gain.md) — related
 - [PowerPoint-enhanced teaching (visual input) produced significantly better listening comprehension post-test scores than traditional teaching for Iranian intermediate EFL learners](powerpoint-visual-input-improves-efl-listening-comprehension.md) — related
 - [Both groups improved vocabulary retention from pre-test to post-test, with a larger gain in the PowerPoint group](within-group-vocabulary-gains-both-conditions.md) — related
+- [Students taught with an eclectic learning approach retained significantly more English content than students taught with a traditional learning approach.](eclectic-approach-higher-english-retention.md) — related

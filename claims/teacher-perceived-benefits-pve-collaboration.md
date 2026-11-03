@@ -46,3 +46,4 @@ Qualitative analysis of semi-structured interviews with the five participating t
 
 ## Related Claims
 - [Teachers perceived the AIED-U system as a mixed experience: valued exercise lists and reports, but recognition imprecision and workflow demands added work](teachers-mixed-perception-aied-u-system.md) — related
+- [Teachers reported that students were more active, more motivated, and improved their academic and social skills during differentiation-approach lessons.](teachers-report-student-engagement-and-skill-gains.md) — related

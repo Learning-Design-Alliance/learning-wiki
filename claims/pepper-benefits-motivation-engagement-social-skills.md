@@ -72,3 +72,4 @@ Review synthesis of secondary benefit outcomes. The review separately reports th
 - [RALL studies report learning gains when social robots are used to teach vocabulary, reading skills, speaking skills, grammar, and sign language](rall-learning-gains-five-language-domains.md) — related
 - [Contrary to similar research, an asocial robot produced higher learning gains than a more social robot in a tutoring study](asocial-robot-higher-learning-gains.md) — related
 - [Children's vocabulary acquisition benefited from the robot tutor's instruction and knowledge demonstration](robot-tutor-role-vocabulary-gains.md) — related
+- [Teachers reported that students were more active, more motivated, and improved their academic and social skills during differentiation-approach lessons.](teachers-report-student-engagement-and-skill-gains.md) — related

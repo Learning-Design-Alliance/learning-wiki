@@ -95,3 +95,4 @@ In a MOOC writing course, the study compared students given "guided rubric" trai
 - [Students perceived the content checklist as a helpful instructional intervention for formulating peer feedback](content-checklist-perceived-helpful.md) — related
 - [Students reported rubric-driven gains in content awareness, paragraph organization, and vocabulary use, but mechanics received the least attention](rubric-category-specific-student-gains.md) — related
 - [Interviewed students reported that rubric use, though initially stressful, helped them appreciate the qualities of good writing](rubric-interviews-appreciation-good-writing.md) — related
+- [Students' reflection writing improved after guidance, and cloud-platform students showed greater progress in discussions, feedback, and analysis of Chinese readings](reflection-writing-guidance-and-discussion-progress.md) — related

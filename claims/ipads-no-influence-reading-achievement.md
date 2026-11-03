@@ -50,3 +50,5 @@ Quasi-experimental five-week study of 45 middle-school students: the treatment g
 - [A struggling fifth-grade reader with ADHD gained one full grade level in reading over six weeks of iPad-mediated tutoring](ipad-tutoring-one-grade-level-growth-six-weeks-adhd-case.md) — related
 - [Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not](mics-pre-post-no-group-differential-effect.md) — related
 - [An overwhelming majority (82 percent) of students who used iPads as e-readers would recommend them, citing e-reader features such as adjustable font, dictionary and pronunciation of unknown text](students-recommend-ipad-ereaders.md) — related
+- [Comprehension scores do not differ significantly between iPad and paper](comprehension-no-difference-ipad-paper.md) — related
+- [Treatment order affects reading speed for School B but not other groups](treatment-order-reading-speed-school-b.md) — related

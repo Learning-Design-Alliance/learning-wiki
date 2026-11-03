@@ -83,6 +83,7 @@ Graphic organizers work because they externalize relational structure: spatial a
 - [Advance Organizers](../elements/advance-organizers.md) — organizers presented *before* content to activate prior knowledge; this strategy uses them *during and after* delivery
 - Comparing Cases — group comparison of completed organizers enacts the same contrasting mechanism
 - Jigsaw — a cooperative structure that distributes organizer sections across groups
+- [Use digital graphic organizer applications for collaborative concept mapping](digital-graphic-organizer-applications-strategy.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — a provided frame given *before* content, priming the structure learners will fill in

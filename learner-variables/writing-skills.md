@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 237 claims (165 show a difference, 43 mixed, 29 no difference) · 133 studies (73 causal, 27 associational, 14 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 41 of 133 report an effect size · 232 claims rest on one study
+> **Evidence** · 241 claims (167 show a difference, 44 mixed, 30 no difference) · 136 studies (76 causal, 27 associational, 14 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 42 of 136 report an effect size · 236 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -275,6 +275,10 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Academic vocabulary instruction improves standardized written expression](../claims/alias-vocabulary-improves-written-expression.md) [-M] — instruction changes it
 - [Multi-modal instruction within ABSI improved both multi-modal representation coherence and argument quality scores](../claims/absi-multimodal-improves-coherence-and-argument-quality.md) [+M] — instruction changes it
 - [Students with special needs and lower-performing students showed the largest gains in writing fluency after the improv sequence](../claims/improv-gains-special-needs-students.md) [+W] — an instructional effect differs with it
+- [Explicit and task-based genre instruction lead EFL students to outperform implicit and self-study instruction on lexical and discourse features of classified ads.](../claims/explicit-task-based-outperform-implicit-self-study-classified-ads.md) [+M] — instruction changes it
+- [No-instruction (self-study) is insufficient for L2 students learning classified ad features without instruction.](../claims/self-study-no-instruction-insufficient-classified-ads.md) [+M] — instruction changes it
+- [Online-instruction group fails to improve content-building skill despite gains in other writing components](../claims/online-group-content-skill-no-improvement.md) [~M] — instruction changes it
+- [SEED PD had no impact on student writing quality](../claims/seed-pd-no-impact-student-writing-quality.md) [-M] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

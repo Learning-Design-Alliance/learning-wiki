@@ -52,3 +52,4 @@ Independent samples t tests on the 188-participant sample (Table 2): male M = 3.
 - [Women were less accurate than men on the opposites tests but were less mature and less advanced in scholarship](sex-differences-opposites-accuracy.md) — related
 - [In Study 1, women reported more epistemic conflict regulation than men](gender-difference-epistemic-conflict-regulation.md) — related
 - [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](gender-gaps-computer-self-efficacy-knowledge-motivation.md) — related
+- [Women academics mentioned fewer external motivators and more resource management strategies than men](gender-differences-in-advice-content.md) — related

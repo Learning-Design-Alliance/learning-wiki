@@ -68,3 +68,4 @@ In Study 2 of the same MMLS research, students carried out both individual and c
 - [Cooperative storytelling tasks outperformed individual tasks across performance, autonomy, anxiety, and emotion measures](cooperative-storytelling-outperformed-individual.md) — related
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related
 - [Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons](cooperative-learning-science-studies-mixed.md) — related
+- [Collaborative online comic creation improved Mandarin vocabulary performance significantly more than individual online comic creation or paper-based comic creation](collaborative-online-comics-improve-mandarin-vocabulary.md) — related

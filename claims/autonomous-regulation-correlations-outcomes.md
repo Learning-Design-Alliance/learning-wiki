@@ -64,3 +64,4 @@ Correlational analysis of all measured variables (Table 1) among 188 adult learn
 - [Dual Empowerment positively predicts affective, motivational, and cognitive mediating processes](dual-empowerment-predicts-psychological-mediators.md) — related
 - [Autonomous or intrinsic motivation is positively associated with academic performance, while controlled or extrinsic motivation shows minimal or negative associations](autonomous-motivation-positive-controlled-motivation-not.md) — related
 - [Post-game competence, effort, and deep-learning strategy use correlate significantly with pre-game measures, but interest does not](pre-post-motivation-correlations-stability.md) — related
+- [The activity associated with the second wave of data collection had a positive influence on Engagement, Intrinsic Motivation, Positive Affect and Work and Play, and a negative effect on Negative Affect.](wave2-pendu-car-positive-influence-engagement-edutorcs.md) — related

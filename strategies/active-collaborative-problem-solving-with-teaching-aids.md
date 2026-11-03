@@ -46,6 +46,7 @@ The article recommends that teachers replace teacher-centred presentation with a
 
 - [Chemistry teachers should employ varied effective pedagogies, especially inquiry-based and problem-based approaches, supplemented with visualization and real-world materials](employ-varied-effective-chemistry-pedagogies.md)
 - [Shift physics teaching from lecture methods to activity-based problem-solving models](shift-from-lecture-to-activity-based-physics-teaching.md)
+- [Use finger-based manipulative methods with active student involvement to teach multiplication facts to deaf learners](finger-manipulatives-active-involvement-multiplication-deaf.md)
 
 ## Examples
 -

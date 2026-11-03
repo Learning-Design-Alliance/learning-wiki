@@ -47,3 +47,4 @@ This is a logic-model statement of intended teacher outcomes in the partnership 
 ## Related Claims
 - [The partnership's long-term goal is that students can solve fraction computation and ratio and rate problems](tft-student-long-term-outcome-goal.md) — related
 - [External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames](external-resources-support-pedagogical-judgment-alignment.md) — related
+- [FA recommendations align with NCTM equitable teaching practices despite limited explicit analysis](fa-recommendations-align-nctm-equity.md) — related

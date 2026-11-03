@@ -13,7 +13,7 @@ generated:
 # Social Presence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (35 for, 15 mixed, 1 against) · 41 studies (8 causal, 8 review, 7 associational, 7 qualitative, 6 design, 3 theoretical, 2 quant-synthesis), `q1`–`q3` · 5 of 41 report an effect size · 48 claims rest on one study
+> **Evidence** · 52 claims (36 for, 15 mixed, 1 against) · 42 studies (9 causal, 8 review, 7 associational, 7 qualitative, 6 design, 3 theoretical, 2 quant-synthesis), `q1`–`q3` · 5 of 42 report an effect size · 49 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,7 @@ Perceived presence, participation, satisfaction, persistence and individual lear
 - [Correlationally, more opportunities for social interaction during class were associated with more engagement and, in 2021 only, with more self-directed study time](../claims/interaction-correlations-engagement-self-study.md) [+W]
 - [Emotional experiences in online distance teaching were dominated by negatives — frustration, sadness, and detachment driven by lack of student feedback and visual contact.](../claims/online-teaching-emotional-negatives-dominate.md) [~W]
 - [Students reported high engagement perceptions, including feeling connected with the university through Facebook conversations with classmates](../claims/facebook-course-engagement-perceptions.md) [+W]
+- [There was a significantly positive effect of interacting with the instructor on the Engagement variable, but no other significant effects produced by any of the social partner variables.](../claims/interacting-with-instructor-positive-effect-engagement-edutorcs.md) [+M]
 
 ## Related Principles
 - [Community of Inquiry](community-of-inquiry.md) — the parent framework situating social presence alongside teaching and cognitive presence

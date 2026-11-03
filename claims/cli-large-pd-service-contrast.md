@@ -50,3 +50,4 @@ Spring teacher survey contrast analysis of 446 teachers (239 treatment, 207 cont
 - [Teachers participate almost universally in formal professional development (averaging 30 required hours per year) but report much lower satisfaction with it than participation](formal-pd-high-participation-low-satisfaction.md) — related
 - [Content-intensive math PD produced a statistically significant, sustained gain in grade 4 teachers' math content knowledge (21 percentile points in spring)](content-intensive-pd-teacher-knowledge-gain.md) — related
 - [CLI shows no significant impact on cohort 1 first-grade students' GRADE literacy achievement](cli-no-first-grade-achievement-impact.md) — related
+- [SEED PD provided substantially more writing PD hours than control schools](seed-pd-more-writing-pd-hours.md) — possibly the same claim (merge candidate)

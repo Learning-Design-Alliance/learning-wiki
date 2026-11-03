@@ -48,3 +48,4 @@ Semi-experimental pretest–posttest non-equalized control group study with 4th 
 - [Experiment group students developed more positive attitudes toward computers and toward social studies than control group students](interactive-workbook-computer-social-attitudes.md) — related
 - [Experiment group showed significant pretest-to-posttest gains in computer, internet, social studies attitudes and academic success](experiment-group-within-group-gains.md) — related
 - [Concept cartoon© teaching produced a statistically significant posttest score advantage over traditional teaching in fourth-grade science](concept-cartoons-posttest-advantage-quasi-experiment.md) — related
+- [Cartoon-supported problem-based learning improves fourth-grade students' achievement in Social Studies](cartoon-pbl-improves-social-studies-achievement.md) — related

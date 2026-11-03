@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 107 claims (57 for, 47 mixed, 3 against) · 81 studies (34 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 23 of 81 report an effect size · 101 claims rest on one study
+> **Evidence** · 108 claims (58 for, 47 mixed, 3 against) · 82 studies (35 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 23 of 82 report an effect size · 102 claims rest on one study
 
 ## Conditional relationship
 
@@ -228,6 +228,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [First graders in the game group nearly all learned to identify negative integers after playing the board game, far exceeding control gains](../claims/negative-integer-identification-gains.md) [+M]
 - [Students showed strong interest and full participation during marble-game lessons, per the authors' observations](../claims/marble-game-student-interest-participation.md) [~W]
 - [Students learning a system analysis unit with a 3D game-based learning system achieve higher post-test scores than students taught by traditional face-to-face instruction](../claims/3d-game-based-learning-higher-posttest-software-engineering.md) [+W]
+- [In Year 3, students reported that their game-based coursework felt like work and play more frequently than like work (50% of the time compared to 41%).](../claims/year3-game-based-coursework-like-work-and-play-50-compared-to-41.md) [+W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

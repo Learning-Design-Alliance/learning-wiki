@@ -54,3 +54,4 @@ Momentary time sampling of three 10-min video samples per child at pre- and post
 - [Teachers receiving BEST in CLASS showed higher observed adherence and competence in delivering the intervention practices at posttest than comparison teachers](best-in-class-higher-adherence-competence.md) — related
 - [SSIS-CIP produces small-to-medium positive effects on teacher-rated social skills in primary-grade classrooms](ssis-cip-teacher-rated-social-skills-effects.md) — related
 - [PFS reduces teacher-reported problem behavior (SSiS) in preschoolers](pfs-reduces-teacher-reported-problem-behavior.md) — related
+- [Behavioral functioning improves significantly across all intervention groups in similar magnitude](behavioral-improvement-equivalent-across-groups.md) — related

@@ -39,7 +39,7 @@ sources:
 # Reflection
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (14 for, 9 mixed, 1 against) · 29 studies (8 causal, 6 quant-synthesis, 5 review, 5 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 6 of 29 report an effect size · 18 claims rest on one study
+> **Evidence** · 25 claims (14 for, 10 mixed, 1 against) · 30 studies (8 causal, 6 quant-synthesis, 6 review, 5 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 6 of 30 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,7 @@ Better reflections, higher course exams, changed practice, and delayed or transf
 - [Guided reflection was the most frequently applied individual support activity in the included interventions](../claims/guided-reflection-most-frequent-support-activity.md) [~W]
 - [Comparing their decisions with other teachers' reflections led a majority (70% to 80%) of pre-service teachers to modify or entirely re-invent their responses to classroom challenges](../claims/video-comparative-reflection-response-modification.md) [+W]
 - [The monitoring and reflection intervention had no significant effect on post-intervention academic performance](../claims/no-academic-performance-effect.md) [-W]
+- [Reflection deepens over time as students move from describing observations to intuitive evaluation](../claims/reflection-deepens-over-time-schmidt-brown.md) [~W]
 
 ## Related Principles
 - [Metacognition](self-regulated-learning.md)

@@ -56,7 +56,7 @@ The review's analysis of its Table 1 studies: several observe an immediate answe
 | [Zara Contractor and Germán Reyes 2026](https://doi.org/10.48550/arxiv.2607.08849) | q4 · causal · r3 | i1 · small effect, 0.21 SD (not significant, p = 0.068) | [One week later, the AI-access group's lead on unaided assessments shrinks to 3.9 pp (0.21 ](genai-learning-gain-persists-one-week.md) (qualifies) |
 | [Benjamin Lira 2025](https://doi.org/10.48550/arxiv.2502.02880) | q4 · causal · r3 | i1; i2 | [Practicing cover letter writing with an AI tool improved unassisted writing skill more tha](ai-practice-improved-writing-skill-persisted-one-day.md) (qualifies) |
 | [Bergh 2026](https://doi.org/10.48550/arxiv.2609.21194) | q3 · causal · r2 | i2 | [The retention gap persisted at 48 hours with no differential forgetting between groups (39](chatgpt-lower-48h-retention-no-differential-forgetting.md) (qualifies) |
-| [Zingaretti et al. 2026](https://doi.org/10.22599/jesla.152) | q2 · causal · r1 | i? | [Gains from an intensive period of second-language study persist for weeks without rehearsa](l2-fluency-gains-persist-weeks-without-practice.md) (qualifies) |
+| [Zingaretti et al. 2026](https://doi.org/10.22599/jesla.152) | q2 · causal · r1 | i? | [Gains from a one-week intensive second-language course held at a three-week follow-up with](l2-fluency-gains-persist-weeks-without-practice.md) (qualifies) |
 | [Cheng 2009](https://doi.org/10.64152/10125/66828) | q3 · causal · r2 | i? | [Vocabulary retention declines between immediate and first delayed recall, then rises sligh](vocabulary-forgetting-pattern-decline-then-rise.md) (qualifies) |
 <!-- synthesis:end -->
 

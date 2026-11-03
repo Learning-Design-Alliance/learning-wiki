@@ -49,3 +49,4 @@ Theoretical argument in an editorial: some teachers realize the chief difficulty
 - [The editorial argues existing composition scales measure form on topics of artificial interest and cannot measure improvement in thought content](existing-composition-scales-miss-thought-content.md) — related
 - [The editorial frames remediation of weak thinking fields versus intensive cultivation of strong fields, and transfer across fields, as open questions](open-questions-remediate-or-cultivate-transfer.md) — related
 - [The editorial predicts thought-content scales would amply repay their construction cost through diagnostic value and studies of higher thought processes](thought-content-scales-diagnostic-value.md) — related
+- [Reflection in language learning contexts is hindered by learners' difficulty expressing thoughts in the target language](language-learners-expression-difficulty-reflection.md) — related

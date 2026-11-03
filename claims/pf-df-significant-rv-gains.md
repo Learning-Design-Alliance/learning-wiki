@@ -70,3 +70,4 @@ Paired t-test within the DF group (n = 26) studying with Quizlet and Cram over 1
 - [Both paper-flashcard and digital-flashcard groups made significant productive vocabulary gains over the 12-week treatment](pf-df-significant-pv-gains.md) — related
 - [Gains in receptive and productive vocabulary did not differ significantly between the paper-flashcard-with-VLS group and the digital-flashcard group](no-significant-difference-pf-vls-vs-df.md) — related
 - [The PF and DF groups were unequal at pre-test, with the DF group scoring significantly higher in both receptive and productive vocabulary](pretest-inequality-pf-df-groups.md) — related
+- [Students had no significant improvement in Mandarin vocabulary performance in the control group or the individual comics group](no-significant-improvement-control-and-individual-groups.md) — related

@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 64 claims (31 for, 28 mixed, 5 against) · 53 studies (20 causal, 9 review, 7 quant-synthesis, 5 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 6 of 53 report an effect size · 63 claims rest on one study
+> **Evidence** · 65 claims (32 for, 28 mixed, 5 against) · 54 studies (21 causal, 9 review, 7 quant-synthesis, 5 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 6 of 54 report an effect size · 64 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -100,6 +100,7 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Teamwork communication pedagogy through electronic networking sites increased student interest in learning](../claims/teamwork-electronic-networking-increased-interest.md) [+W]
 - [Experimental-group students were more familiar with electronic educational resources and transferred e-teaching-materials experience to teaching practice](../claims/e-teaching-materials-experience-transfers-to-practice.md) [+W]
 - [Students' agreement on the disadvantages of mobile learning was weaker and more uncertain, with 45.3% positive, 25.3% negative and 21.3% neutral](../claims/disadvantages-items-weaker-more-uncertain.md) [~W]
+- [Teaching staff relied heavily on StudyDesk (89.0%) and email (80.3%) while using other online resources sparingly](../claims/dlist7-teaching-staff-technology-utilization.md) [+W]
 
 ## Related Elements
 

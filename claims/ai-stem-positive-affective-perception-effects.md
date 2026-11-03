@@ -56,3 +56,4 @@ The review's synthesis reports that 17 studies examined affective outcomes. Stud
 - [EAI modalities were associated with higher student motivation and changes in attitudes toward STEM knowledge areas](eai-motivation-attitude-stem-effects.md) — possibly the same claim (merge candidate)
 - [ICT-enabled learning may change beliefs and perceptions about girls' capacity and ICT's value](ict-changes-beliefs-perceptions-girls.md) — related
 - [Affective outcomes (satisfaction, confidence, engagement) are consistently positive across ADS modalities but rest predominantly on subjective, short-term measures](ads-affective-outcomes-consistent-subjective.md) — a broader claim this one bears on
+- [Deaf students report high overall perception of MFTM across interest, self-confidence, persistence and motivation](high-student-perception-mftm-four-dimensions.md) — a narrower finding that bears on this claim

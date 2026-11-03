@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 68 claims (43 for, 23 mixed, 2 against) · 51 studies (19 causal, 14 quant-synthesis, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 12 of 51 report an effect size · 66 claims rest on one study
+> **Evidence** · 74 claims (46 for, 26 mixed, 2 against) · 53 studies (21 causal, 14 quant-synthesis, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 12 of 53 report an effect size · 72 claims rest on one study
 
 ## Description and scope
 
@@ -115,6 +115,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Within-group pre-to-post gains were larger in the blended learning group (MD = 14.327, d = 1.016) than in the comparison group (MD = 8.231, d = .408)](../claims/blended-learning-within-group-gain-math-conceptual-understanding.md) [+W] — attached 2026-11-02 from Abdissa et al. (2024), which proposed "Integrate blended learning elements into secondary mathematics curricula and support teachers with training"; tests this page's relationship.
 - [Combined teacher-plus-software instruction significantly outperformed software alone on pronunciation performance](../claims/combined-instruction-beats-software-alone.md) [+W] — attached 2026-11-02 from Yang Gao et al. (2016), which proposed "Combine human-aided instruction with instructional software when teaching pronunciation to young lower-proficiency learners"; tests this page's relationship.
 - [Blended problem-based learning produced significantly higher posttest academic achievement than PBL and traditional lecture instruction](../claims/bpbl-higher-academic-achievement-than-pbl-and-lecture.md) [+W] — attached 2026-11-03 from Yu et al. (2015), which proposed "Integrating technology into PBL to provide time flexibility and asynchronous communication can enhance academic achievement"; tests this page's relationship.
+- [Blended teaching produces higher academic achievement than traditional teaching in a psychological diseases course](../claims/blended-teaching-higher-academic-achievement-medical-students.md) [+W] — attached 2026-11-03 from Mosalanejad et al. (2010), which proposed "Use blended learning with standard designing strategies for teaching medical sciences"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -173,6 +174,11 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Both blended learning and problem-based learning produced significantly higher algebra achievement than traditional lecture method, while BL and PBL did not differ significantly](../claims/bl-pbl-outperform-tlm-algebra.md) [+W]
 - [Students viewed WeChat mobile learning as a supplement to, not a substitute for, traditional classroom teaching](../claims/wechat-mobile-learning-supplement-not-substitute.md) [~W]
 - [Blended learning treatment showed no significant reading achievement advantage over face-to-face instruction for sixth-grade ELA students](../claims/blended-learning-no-reading-achievement-advantage-middle-school.md) [-W]
+- [Hybrid students significantly outperformed online students on the second major assignment](../claims/hybrid-outperform-second-major-assignment.md) [+W]
+- [Both blended and traditional teaching produced significant pretest-posttest changes in personality subscales](../claims/both-teaching-methods-change-personality-subscales.md) [~W]
+- [Hybrid students significantly outperformed online students on weekly assignments](../claims/hybrid-outperform-weekly-assignments.md) [+W]
+- [No significant difference in final examination scores between online and hybrid students](../claims/no-significant-difference-final-examination.md) [~W]
+- [Online students were as successful as hybrid students in overall course performance](../claims/online-as-successful-as-hybrid-overall-performance.md) [~W]
 
 ## Examples
 

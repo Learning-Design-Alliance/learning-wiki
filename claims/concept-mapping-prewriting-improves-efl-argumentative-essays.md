@@ -59,3 +59,4 @@ Paired t-test on pre-test versus post-test mean scores of the 19-student experim
 - [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related
 - [Pre-task planning, whether individual or collaborative, with or without teacher feedback, improves structural organization and clarity of argumentative essays relative to no planning](pre-task-planning-improves-essay-organization.md) — related
 - [Seventh-graders using the CWB online interactive writing system significantly outperform the paper-and-pencil control group in text organization and structure on the post-test](cwb-system-improves-organization-posttest.md) — related
+- [Online-based writing instruction produces equivalent overall essay performance gains compared to classroom-based instruction for ESL students](online-lms-writing-instruction-equivalent-gains.md) — related

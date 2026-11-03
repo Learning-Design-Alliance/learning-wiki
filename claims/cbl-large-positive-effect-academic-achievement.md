@@ -54,3 +54,5 @@ Meta-analysis of five CBL studies using Hedges' d under a fixed-effect model; th
 - [Digital story applications have a high positive average effect on students' academic achievement compared to other teaching methods (ES = 0.750)](digital-story-high-positive-effect-academic-achievement.md) — related
 - [Individual study effect sizes range from -0.07 to 3.35, with most classified as moderate to amazing effects](effect-size-distribution-range-indonesian-studies.md) — related
 - [AR applications have a medium positive pooled effect (ES = 0.517) on students' academic achievement compared with traditional learning methods](ar-medium-positive-effect-academic-achievement.md) — related
+- [Creative applications show a large positive effect on learning retention (FEM ES = 1.244; REM ES = 1.311)](creative-applications-large-effect-retention.md) — related
+- [Creative thinking techniques (CTT) show a large positive effect on academic success (REM ES = 1.501)](ctt-large-effect-academic-success.md) — related

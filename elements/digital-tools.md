@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 166 claims (89 for, 67 mixed, 10 against) · 143 studies (68 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 18 of 143 report an effect size · 165 claims rest on one study
+> **Evidence** · 169 claims (89 for, 69 mixed, 11 against) · 145 studies (70 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 18 of 145 report an effect size · 168 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -201,6 +201,9 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [The utilization of educational technology techniques and innovations has a high effect size on academic achievement (η² = 0.916, D = 6.60)](../claims/edtech-high-effect-size-academic-achievement.md) [+W]
 - [The WeChat mobile learning mode helped students learn literature in interest stimulation, ability improvement, and content learning](../claims/wechat-mobile-learning-literature-benefits.md) [+W]
 - [No statistically significant difference in effective teaching perceptions between Facebook and Adobe Connect groups](../claims/facebook-vs-connect-no-significant-difference-effective-teaching.md) [~W]
+- [Students in the cloud-platform group reported significantly positive learning satisfaction across all measured domains](../claims/cloud-platform-learning-satisfaction-domains.md) [~W]
+- [Comprehension scores do not differ significantly between iPad and paper](../claims/comprehension-no-difference-ipad-paper.md) [~W]
+- [Literal-level comprehension is lower on iPad, especially for university students](../claims/literal-comprehension-lower-ipad.md) [-W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

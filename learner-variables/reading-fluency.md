@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 125 claims (81 show a difference, 25 mixed, 19 no difference) · 78 studies (37 causal, 17 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 18 of 78 report an effect size · 124 claims rest on one study
+> **Evidence** · 129 claims (82 show a difference, 25 mixed, 22 no difference) · 81 studies (40 causal, 17 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 19 of 81 report an effect size · 128 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -165,6 +165,10 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [The trained test group's average reading speed rose 39 percent, from 73.6 to 102.3 wpm, while the control group's stayed near 75 wpm](../claims/wpm-gain-39-percent-vision-span.md) [+M] — instruction changes it
 - [Training in expansion of vision span significantly increases the reading speed of EFL undergraduates from pre-test to post-test](../claims/vision-span-training-increases-efl-reading-speed.md) [+M] — instruction changes it
 - [In Experiment 2 the two classes differed significantly in transfer-text reading speed, with Class 2 faster than Class 1](../claims/class-difference-reading-speed-experiment-2.md) [+M] — instruction changes it
+- [A comprehensive summer parent-involved book reading program improved oral reading fluency in Grade 3 and 5 children](../claims/summer-parent-book-reading-improves-reading-fluency.md) [+M] — instruction changes it
+- [L2 reading speed (SLRT-I) and L2 spelling showed no improvement as a function of the intervention, and no group made significant gains in L2 spelling](../claims/l2-reading-speed-spelling-not-remediated.md) [-M] — instruction changes it
+- [Reading speed and comprehension are not significantly correlated](../claims/reading-speed-comprehension-uncorrelated.md) [-M] — learners who differ on it differ in outcomes
+- [Students read marginally faster on iPad than paper, though not statistically significant overall](../claims/ipad-reading-speed-marginally-faster.md) [-M] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

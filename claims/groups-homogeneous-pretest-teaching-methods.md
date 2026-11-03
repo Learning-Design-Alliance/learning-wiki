@@ -54,3 +54,4 @@ Pre-test Mann-Whitney analysis of both twenty-student groups on the EFL Teaching
 - [At the start of the experiment the experimental and control groups did not differ significantly in their stated desire to join extracurricular public work](baseline-equivalence-desire-public-work.md) — related
 - [The control and experimental groups were statistically equivalent on the ESP pre-test before the clicker implementation](esp-pretest-group-equivalence.md) — possibly the same claim (merge candidate)
 - [At the beginning of the experiment the experimental and control groups showed no significant differences in integrative collaboration](no-baseline-differences-integrative-collaboration.md) — a narrower finding that bears on this claim
+- [Pre-test multiplication facts achievement does not differ significantly between the MFTM and CTM groups](pretest-equivalent-mftm-ctm-groups.md) — possibly the same claim (merge candidate)

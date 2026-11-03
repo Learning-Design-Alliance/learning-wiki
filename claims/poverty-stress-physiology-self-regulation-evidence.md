@@ -50,3 +50,4 @@ Background literature cited in the article's introduction to support the experie
 - [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](poverty-cortisol-executive-function-mediation.md) — related
 - [Family stress and family investment models explain mediating processes of SES influence](ses-family-stress-investment-mediation.md) — a broader claim this one bears on
 - [An SEL program with mindfulness training (MindUP) improved diurnal cortisol slopes and social-emotional, self-concept, and math outcomes versus an active control](mindup-cortisol-randomized-trial.md) — related
+- [Family Rewards reduced current poverty and hardship and increased receipt of preventive healthcare but did not improve school outcomes overall for elementary, middle, or high school students](family-rewards-early-findings-no-overall-school-impact.md) — related

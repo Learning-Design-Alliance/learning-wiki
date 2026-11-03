@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 90 claims (54 for, 33 mixed, 3 against) · 76 studies (54 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 17 of 76 report an effect size · 85 claims rest on one study
+> **Evidence** · 91 claims (55 for, 33 mixed, 3 against) · 77 studies (55 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 17 of 77 report an effect size · 86 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -126,6 +126,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Instructional video materials significantly improve vocabulary learning of Iranian EFL learners compared with no video treatment](../claims/instructional-video-improves-efl-vocabulary.md) [+W]
 - [Viewing instructional videos improves EFL learners' language proficiency regardless of whether captions are present.](../claims/video-viewing-improves-proficiency-regardless-captions.md) [~W]
 - [Video cases yield a meaningful difference in design patterns mentioned in the oral observation report, favoring the experimental group.](../claims/video-cases-meaningful-difference-oral-observation-report.md) [~W]
+- [Practical engineering students taught the transistor with computer animation express significantly more positive attitudes towards electronics than peers taught with static diagrams.](../claims/animation-bjt-more-positive-attitudes-towards-electronics.md) [+W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

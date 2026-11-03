@@ -56,3 +56,4 @@ Repeated-measures ANOVA on a subset of 275 TEMA-3-tested children who answered a
 - [The learning benefit of mathematics test practice is larger for boys than for girls](math-practice-effect-larger-for-boys.md) — related
 - [Across all questions, final performance showed a main effect of learning condition and a large main effect of question type, with only a trend toward an interaction](omnibus-anova-condition-question-type-latimier.md) — related
 - [Math ability on the TEMA-3 is statistically equivalent between girls and boys, with no gender difference in mean, variance, or age-related growth](tema3-math-ability-gender-equivalence.md) — related
+- [No significant interaction effect of numerical ability and gender on mathematics achievement](no-numerical-ability-gender-interaction-math-achievement.md) — related

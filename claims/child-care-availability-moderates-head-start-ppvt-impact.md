@@ -57,3 +57,4 @@ Randomized evaluation (Head Start Impact Study) with multi-level models includin
 - [Randomization in high-crime neighborhoods is associated with smaller Head Start impacts on PPVT scores relative to low-crime neighborhoods](neighborhood-crime-moderates-head-start-ppvt-impact.md) — related
 - [Head Start's impacts on receptive vocabulary are larger in urban than rural communities, while impacts on oral comprehension are larger in rural communities](urban-rural-moderation-of-head-start-impacts.md) — related
 - [Head Start reduced individual residual outcome variance for treatment group members on receptive vocabulary and early numeracy, indicating compression of the outcome distribution](head-start-reduced-residual-variance-vocabulary-numeracy.md) — related
+- [An additional hour per day in Head Start increases receptive vocabulary (PPVT) scores by .062 SD for the full sample](head-start-hour-ppvt-increase.md) — related

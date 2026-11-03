@@ -45,6 +45,7 @@ In the instructional reflection, the authors recommend adjusting time allocation
 ## Related Strategies
 
 - [Structured post-screening discussion using amplification followed by moral case deliberation](film-amplification-moral-case-deliberation-strategy.md)
+- [Use blogs to share multimedia and reflective questions for environmental education](blog-multimedia-reflection-environmental-education.md)
 
 ## Examples
 -

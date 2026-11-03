@@ -69,6 +69,7 @@ Collective analysis converts interpretation from a private expert task into a [c
 - [Use data collaboratively through a structured data analysis process among educators](collaborative-structured-data-analysis.md)
 - [Apply Youth Participatory Action Research principles to school-based citizen science design to support student agency](ypar-principles-for-ccs-design.md)
 - [Build coherent programmatic research efforts through collaborative theme identification](collaborative-programmatic-research-efforts.md)
+- [Involve teachers in action research and collaborative inquiry with higher-education academics to improve science teaching](teacher-action-research-collaborative-inquiry-strategy.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the vehicle for surfacing and negotiating competing interpretations

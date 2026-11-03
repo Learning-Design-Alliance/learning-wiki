@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 327 claims (203 show a difference, 54 mixed, 70 no difference) · 225 studies (90 causal, 52 associational, 36 quant-synthesis, 30 review, 8 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 50 of 225 report an effect size · 318 claims rest on one study
+> **Evidence** · 330 claims (204 show a difference, 55 mixed, 71 no difference) · 228 studies (93 causal, 52 associational, 36 quant-synthesis, 30 review, 8 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 51 of 228 report an effect size · 321 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -378,6 +378,9 @@ What a learner can read without effort, and whether the language of instruction 
 - [Academic vocabulary instruction significantly improves word-level vocabulary knowledge in linguistically diverse middle school students](../claims/alias-academic-vocabulary-improves-word-level-vocabulary.md) [+M] — instruction changes it
 - [Evidence on bilingual cognitive advantages is mixed, so no definitive conclusion on whether bilingualism confers cognitive advantages is currently possible](../claims/bilingual-cognitive-advantage-mixed-evidence.md) [~M] — learners who differ on it differ in outcomes
 - [Students with underdeveloped initial vocabulary knowledge show greater response to the intervention](../claims/alias-greater-response-for-low-initial-vocabulary.md) [+M] — an instructional effect differs with it
+- [A comprehensive summer parent-involved book reading program improved reading comprehension in Grade 3 and 5 children](../claims/summer-parent-book-reading-improves-reading-comprehension.md) [+M] — instruction changes it
+- [Reading speed and comprehension are not significantly correlated](../claims/reading-speed-comprehension-uncorrelated.md) [-M] — learners who differ on it differ in outcomes
+- [Treatment and reading ability interacted significantly on several measures, including LISTEN (ηh2 = .446), PHON-L2 (ηh2 = .191) and SLS (ηh2 = .181), indicating the training effect depended on reading skill](../claims/treatment-reading-ability-interaction.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

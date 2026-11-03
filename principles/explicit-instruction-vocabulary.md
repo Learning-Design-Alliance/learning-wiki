@@ -35,7 +35,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 53 claims (38 for, 12 mixed, 3 against) · 56 studies (28 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 12 of 56 report an effect size · 43 claims rest on one study
+> **Evidence** · 57 claims (41 for, 12 mixed, 4 against) · 58 studies (30 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 13 of 58 report an effect size · 46 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,9 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Textbook-based morphosyntactic teaching was a sound basis for understanding and reusing key compound nouns, with no clear added value from the cognitive perspective on that measure](../claims/textbook-teaching-sound-basis-key-compounds.md) [~M] — attached 2026-11-03 from Fries (2017), which proposed "Teach compound nouns through a cognitive-semantic approach as a complement to, not a replacement for, morphosyntactic instruction".
 - [Academic vocabulary instruction significantly improves word-level vocabulary knowledge in linguistically diverse middle school students](../claims/alias-academic-vocabulary-improves-word-level-vocabulary.md) [+W] — attached 2026-11-03 from Lesaux et al. (2012), which proposed "Effective vocabulary instruction must be text-based, focus on high-utility academic words, build word-learning ability, and integrate multiple literacy modes"; tests this page's relationship.
 - [Academic vocabulary instruction improves morphological awareness skills](../claims/alias-academic-vocabulary-improves-morphological-awareness.md) [+W] — attached 2026-11-03 from Lesaux et al. (2012), which proposed "Effective vocabulary instruction must be text-based, focus on high-utility academic words, build word-learning ability, and integrate multiple literacy modes".
+- [Explicit vocabulary instruction produced higher ESP reading comprehension posttest scores than implicit vocabulary instruction](../claims/explicit-vocabulary-instruction-higher-esp-reading-comprehension-than-implicit.md) [+W] — attached 2026-11-03 from Kusumawati et al. (2017), which proposed "Prefer explicit vocabulary instruction over implicit instruction to promote ESP reading comprehension"; tests this page's relationship.
+- [RAVE instruction enhances middle school students' knowledge of academic words on a researcher-designed measure](../claims/rave-improves-word-knowledge-year1.md) [+W] — attached 2026-11-03 from McKeown et al. (2018), which proposed "Teach academic words through multiple authentic contexts and active processing rather than definitions alone"; tests this page's relationship.
+- [RAVE instruction enhances efficiency of lexical access to instructed words](../claims/rave-improves-lexical-access-year1.md) [+W] — attached 2026-11-03 from McKeown et al. (2018), which proposed "Teach academic words through multiple authentic contexts and active processing rather than definitions alone"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -187,6 +190,7 @@ Recognising a word, recalling its meaning, comprehending a text that uses it, us
 - [Observed classroom vocabulary teaching in the studied Tamil Nadu government school was a partial embedded method with minimal importance given to vocabulary and no intentional learning environment](../claims/partial-embedded-vocabulary-teaching-observed.md) [-W]
 - [Students taught with the structural method of vocabulary teaching scored significantly higher than students taught with the contextual method on the posttest](../claims/structural-method-outperforms-contextual-posttest-vocabulary.md) [+W]
 - [The intervention produced a large treatment effect on sixth graders' recognition of taught bound roots](../claims/large-treatment-effect-root-recognition-grade-6.md) [+W]
+- [RAVE instruction did not produce significant gains on a text comprehension recall task in Year 1](../claims/rave-no-text-recall-effect-year1.md) [-W]
 
 ## Related Principles
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — explicit vocabulary instruction is a direct mechanism for making language more usable

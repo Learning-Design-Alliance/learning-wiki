@@ -1,0 +1,52 @@
+---
+type: claim
+title: Social skills gains were maintained at follow-up, with no significant post-to-follow-up differences
+description: Social skills gains were maintained at follow-up, with no significant post-to-follow-up differences
+id: social-skills-gains-maintained-follow-up
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-03
+evidence_strength: weak
+newest_evidence: 2016
+sources:
+  - id: alothman-2016
+    resource: "https://doi.org/10.5539/ies.v9n5p265"
+    title: "Alothman, I. A. (2016). The Efficiency of a Selective Training Program on the Development of Some Social Skills of Saudi Students with Autism. International Education Studies, 9(5). https://doi.org/10.5539/ies.v9n5p265"
+    author: Alothman, I. A.
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Social skills gains were maintained at follow-up, with no significant post-to-follow-up differences
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Wilcoxon tests found no statistically significant differences between post and follow-up measurements on the SSS or its sub-dimensions. [→ Alothman 2016](#alothman-2016)
+
+## Evidence
+
+### Alothman 2016
+
+Alothman, I. A. (2016). The Efficiency of a Selective Training Program on the Development of Some Social Skills of Saudi Students with Autism. International Education Studies, 9(5). https://doi.org/10.5539/ies.v9n5p265
+
+`q2 · i?` · `causal · r1`
+
+Wilcoxon tests comparing post and follow-up SSS scores for the experimental group (n = 3) found no significant differences, which the author interprets as confirming the program's continued positive impact. Equivalence was not tested.
+
+> "Table 7 shows no statistically-significant differences at (.01) between the averages of scores ranks of the experimental group in the post and follow-up measurement on the SSS and its sub-dimensions"
+
+## Discussion
+
+
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
+## Related Claims
+- [Experimental group's social skills scores improved significantly from pre- to post-test](pre-post-gains-social-skills-experimental-group.md) — related
+- [Non-verbal communication gains persisted at a two-month follow-up, with no statistically significant decline from post-test](peer-tutoring-asd-gains-retained-two-month-followup.md) — a narrower finding that bears on this claim

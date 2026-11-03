@@ -55,3 +55,4 @@ Teacher post-surveys (n=5) in the multiple-case study; teachers reported the fee
 - [AI feedback after sessions can provide on average eight qualified comments aligned with expert feedback per 30-min lesson](ai-feedback-eight-comments-per-lesson.md) — related
 - [SWOT analysis concluded blended learning is the ideal future teaching concept and e-Learning implementation creates new cooperation opportunities without saving time](swot-blended-learning-ideal-concept.md) — reports the opposite
 - [Automated scoring and feedback technologies help trainees save time and self-monitor progress, but VR assessment may measure efficiency rather than safe practices](automated-feedback-efficiency-limitation.md) — related
+- [Korean EFL middle school students desire extra help with writing to achieve balanced English competence](korean-efl-students-desire-writing-balance.md) — related

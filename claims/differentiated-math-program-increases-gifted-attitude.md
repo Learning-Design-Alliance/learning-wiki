@@ -47,3 +47,7 @@ Wilcoxon signed-ranks test on the 12-student experimental group in a controlled 
 ## Related Claims
 - [Post-test mathematics attitude scores did not differ significantly between the differentiated-instruction and control groups](gifted-attitude-posttest-no-between-group-difference.md) — reports the opposite
 - [Traditional (regular-curriculum) instruction did not significantly change gifted students' mathematics attitudes, with descriptive scores decreasing](regular-curriculum-no-attitude-gain-gifted.md) — related
+- [The differentiation approach significantly increased mathematics achievement of gifted students compared with the Ministry of National Education curriculum.](differentiation-approach-beats-national-curriculum-gifted.md) — related
+- [The newly developed differentiation approach significantly increased mathematics achievement of gifted students compared with the Program for Noticing Individual Skills.](differentiation-approach-beats-pnis-gifted-achievement.md) — related
+- [The differentiation approach significantly increased mathematics achievement of gifted students compared with the Purdue model.](differentiation-approach-beats-purdue-model-gifted.md) — related
+- [The differentiation approach, designed for gifted students, also significantly increased mathematics achievement of non-gifted students.](differentiation-approach-benefits-non-gifted-students.md) — related

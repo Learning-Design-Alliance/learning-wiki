@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 231 claims (131 show a difference, 68 mixed, 32 no difference) · 185 studies (69 causal, 34 review, 28 associational, 23 theoretical, 11 quant-synthesis, 11 design, 9 qualitative), `q1`–`q4` · 32 of 185 report an effect size · 214 claims rest on one study
+> **Evidence** · 232 claims (131 show a difference, 68 mixed, 33 no difference) · 186 studies (70 causal, 34 review, 28 associational, 23 theoretical, 11 quant-synthesis, 11 design, 9 qualitative), `q1`–`q4` · 32 of 186 report an effect size · 215 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -279,6 +279,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Pretest scores strongly predict posttest essay performance in the planning experiment](../claims/pretest-covariate-strong-effect-essay-posttest.md) [+M] — learners who differ on it differ in outcomes
 - [High prior readiness was not required for achievement gains with learning objects, contrary to earlier findings](../claims/los-gains-not-limited-to-high-readiness-students.md) [-W] — an instructional effect differs with it
 - [Outside experts judged that learners' knowledge structure integrity improved after participating in the SMM approach](../claims/knowledge-structure-integrity-improved.md) [+W] — instruction changes it
+- [No significant difference was found between the number of prior networking classes taken and perceived benefits of the CbMW.](../claims/prior-classes-no-significant-difference.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

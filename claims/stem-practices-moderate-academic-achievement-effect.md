@@ -57,3 +57,4 @@ Random-effects meta-analysis of 27 academic achievement effect sizes from studie
 - [Creative drama-based learning has a large positive effect on academic success in Turkish language instruction (REM ES = 1.712)](creative-drama-large-effect-turkish.md) — related
 - [AR applications have a medium positive pooled effect (ES = 0.517) on students' academic achievement compared with traditional learning methods](ar-medium-positive-effect-academic-achievement.md) — related
 - [Concept mapping instruction has a very large positive effect on Turkish students' academic success compared to traditional teaching (ES=1.119)](concept-mapping-meta-analysis-turkish-academic-success.md) — related
+- [Creative thinking techniques (CTT) show a large positive effect on academic success (REM ES = 1.501)](ctt-large-effect-academic-success.md) — related

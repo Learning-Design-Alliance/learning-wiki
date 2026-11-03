@@ -58,3 +58,4 @@ Two-way ANOVA interaction test (learning × KAM) on N-gain of problem-solving ab
 - [Learning strategy and self-efficacy interact in their effect on mathematical representation ability](strategy-self-efficacy-interaction-mathematical-representation.md) — related
 - [There is no interaction between learning (SMM vs PK) and early mathematical ability (KAM) in increasing mathematical reasoning ability](no-learning-kam-interaction-kpm.md) — related
 - [There is an interaction between learning (SMM vs PK) and school rank in enhancing mathematical reasoning ability, with high-rank schools benefiting most from SMM](learning-school-rank-interaction-kpm.md) — related
+- [Interaction between learning model and problem type on problem-solving ability](interaction-learning-model-problem-type.md) — related

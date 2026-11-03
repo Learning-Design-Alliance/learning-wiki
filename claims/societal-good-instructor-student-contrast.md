@@ -75,3 +75,4 @@ Study 2 Global Theme 3 held that "The sense of fulfillment through positive expe
 - [Personal experience influenced teachers' visions of AI futures more than organizational culture or societal factors](personal-experience-over-organizational-culture.md) — related
 - [Students valued experiential learning most about how they learned, citing community interviews and intercultural teamwork as powerful learning moments](experiential-learning-valued-most-sis.md) — related
 - [Teachers rated the experiential training package positively, describing it as effective, accountable, and revealing of actual versus perceived performance](teacher-reflection-journals-social-validity.md) — related
+- [Reflection across synthesized studies revealed student self-awareness, confidence growth, and perceptions of learning conditions](reflection-reveals-self-awareness-confidence-perceptions.md) — related

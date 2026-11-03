@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 251 claims (181 show a difference, 42 mixed, 28 no difference) · 170 studies (73 causal, 45 associational, 21 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 46 of 170 report an effect size · 245 claims rest on one study
+> **Evidence** · 252 claims (182 show a difference, 42 mixed, 28 no difference) · 171 studies (74 causal, 45 associational, 21 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 46 of 171 report an effect size · 246 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -286,6 +286,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [In the final interview the experimental and control groups differed significantly in interest in other forms of life, with the experimental group extending interest to emotional needs](../claims/experimental-control-differ-interest-other-forms-life.md) [+W] — instruction changes it
 - [A majority of students rated the gamified courses enjoyable or very enjoyable, with some reporting reduced school-related stress compared with non-gamified classes](../claims/gamified-courses-majority-enjoyable-stress-relief.md) [+M] — instruction changes it
 - [Students in two gamified undergraduate media studies courses reported high enjoyment and that gamification held their attention at mid-course and term end](../claims/gamified-media-courses-high-enjoyment-attention.md) [+M] — instruction changes it
+- [Most students wanted argumentation-based activities continued, mainly in science lessons](../claims/students-want-argumentation-activities-continued-science.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

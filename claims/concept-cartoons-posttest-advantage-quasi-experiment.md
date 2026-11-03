@@ -75,3 +75,4 @@ Baseline comparison of the same quasi-experiment: the pretest t-test gave "P‐v
 - [The paired t-test on the two groups' achievement scores showed a statistically significant difference favouring the experimental group](paired-ttest-significant-difference-elearning-groups.md) — related
 - [Fourth-grade students using the interactive web-based workbook scored significantly higher on the academic success test than the control group at posttest](interactive-workbook-higher-academic-success.md) — related
 - [Primary-grade students taught perfectionism concepts through cartoon analysis and production scored significantly higher on a posttest than students taught through bibliotherapy](cartoon-condition-greater-perfectionism-concept-learning.md) — a narrower finding that bears on this claim
+- [Cartoon-supported problem-based learning improves fourth-grade students' achievement in Social Studies](cartoon-pbl-improves-social-studies-achievement.md) — related

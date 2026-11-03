@@ -54,3 +54,4 @@ Fidelity analysis across the four exercise administrations during the 2011-2012 
 - [A large-scale replication of self-affirmation writing exercises found no evidence of treatment benefits for potentially threatened students in the new cohort 2 study.](cohort-2-self-affirmation-null-replication.md) — related
 - [Fidelity to self-affirmation treatment was high in both cohorts, with 98.0% of treatment students providing at least one self-affirming response.](high-fidelity-self-affirmation-implementation.md) — related
 - [A significant Administration Time × School interaction emerged, with one blended school showing no decline while the other and the comparison school declined](blended-school-interaction-time-decline-pattern.md) — related
+- [Student engagement with the STAR Lite program increased across successive cohorts](star-lite-engagement-increased-cohorts.md) — reports the opposite

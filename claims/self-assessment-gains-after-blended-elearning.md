@@ -51,3 +51,4 @@ Paired-samples t-test within the experimental group (n = 33): cognition t = 2.80
 - [Both blended and traditionally trained teacher groups improved significantly on all four TPACK-based ICT knowledge dimensions from pretest to posttest](both-groups-pre-post-tpack-gains.md) — related
 - [The dynamic assessment group showed a statistically significant pretest-to-posttest gain in reading comprehension with a large effect size](da-group-significant-pretest-posttest-gain-reading.md) — related
 - [A scenario-based blended learning environment combined with teaching practice is associated with a statistically significant increase in preservice teachers' attitudes toward the teaching profession](scenario-blended-learning-positive-teaching-attitudes.md) — related
+- [Both blended and traditional teaching produced significant pretest-posttest changes in personality subscales](both-teaching-methods-change-personality-subscales.md) — related

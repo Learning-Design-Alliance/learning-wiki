@@ -72,3 +72,4 @@ Post hoc comparison across the four pretest/posttest by group conditions in the 
 - [Perceived grammar-skill improvement did not differ between flipped and nonflipped students, and the confidence change was larger in the control group](perceived-grammar-skills-no-group-difference.md) — related
 - [Flipped classroom instruction produced significantly better post-test writing scores than traditional instruction among Iraqi EFL sophomores](fci-improves-iraqi-efl-writing-posttest.md) — related
 - [Prior EFL flipped-classroom studies report positive but partly non-significant performance effects](prior-flipped-efl-studies-mixed-performance-evidence.md) — related
+- [Online-based writing instruction produces equivalent overall essay performance gains compared to classroom-based instruction for ESL students](online-lms-writing-instruction-equivalent-gains.md) — related

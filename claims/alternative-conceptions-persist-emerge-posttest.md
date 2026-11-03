@@ -68,3 +68,5 @@ Post- and delayed-test IMCCT coding in the experimental group revealed newly eme
 - [Alternative conceptions in force and motion were very difficult to change: of 14 students, 6 showed substantial conceptual change, 1 some change, and 7 no change](force-motion-conceptions-difficult-to-change.md) — related
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — related
 - [Explanation assisted REACT strategy produces significantly higher post-test conceptual understanding of impulse, momentum and collisions than traditional teaching](react-explanation-posttest-impulse-momentum.md) — related
+- [Students widely hold the alternative concept that expansion-contraction involves mass change](mass-change-alternative-concept-expansion-contraction.md) — related
+- [Phase-change confusion was eliminated for both groups after instruction](phase-change-confusion-eliminated-post-test.md) — reports the opposite

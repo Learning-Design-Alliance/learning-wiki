@@ -48,3 +48,4 @@ Correlational analysis within the randomized experiment (N = 336; video task com
 ## Related Claims
 - [Personalized refutation text significantly predicts stronger conceptual change among teachers who held both math-gender misconceptions at pre-test](personalized-refutation-text-conceptual-change-misconception-holders.md) — related
 - [Students exposed to the biased LLM showed no awareness of its influence, reporting lower perceived AI influence than neutral-condition participants despite larger bias effects](bias-transfer-without-awareness-llm-writing.md) — related
+- [A majority of students (60.8%) indicated awareness of DLISt7 despite it being an unpublished framework](dlist7-student-awareness-sixty-forty-split.md) — related

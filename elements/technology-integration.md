@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 186 claims (93 for, 78 mixed, 15 against) · 156 studies (39 causal, 27 review, 25 associational, 24 qualitative, 22 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 31 of 156 report an effect size · 183 claims rest on one study
+> **Evidence** · 188 claims (93 for, 80 mixed, 15 against) · 158 studies (40 causal, 28 review, 25 associational, 24 qualitative, 22 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 31 of 158 report an effect size · 185 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -211,6 +211,8 @@ Technology integration is the element in which digital tools are used in direct 
 - [Computer-assisted elaborative feedback with partner exchange sharpened Japanese EFL majors' reading skills](../claims/computer-assisted-feedback-reading-skills.md) [+W]
 - [Teaching with educational technology innovations and techniques produces statistically significant gains in total academic achievement among pre-service teachers compared with traditional methods](../claims/edtech-innovations-increase-academic-achievement-practicum.md) [+W]
 - [Supportive coaching had no direct impact on technology integration strategies due to standardized testing](../claims/coaching-no-direct-impact-tech-integration.md) [-W]
+- [Self-handicapping thoughts were the largest inhibitor of science teachers' ICT use, explaining about 38.2% of lack of utilization](../claims/self-handicapping-largest-ict-inhibitor.md) [~W]
+- [Online-based writing instruction produces equivalent overall essay performance gains compared to classroom-based instruction for ESL students](../claims/online-lms-writing-instruction-equivalent-gains.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

@@ -62,3 +62,4 @@ Content analysis of semi-structured focus-group interviews with 30 undergraduate
 - [The authors report that humorous instruction changed students' mood, encouraged oral participation and reduced hesitation in speaking English](humour-instruction-improves-classroom-mood-and-speaking-confidence.md) — related
 - [Interviewed Spaceteam ESL players said they spoke more English during play, and one said he stopped attending to his nervousness; the authors suggest motivation may explain a non-significant fluency trend](spaceteam-interviews-motivation-anxiety.md) — related
 - [Collaboration and private speech fostered a supportive classroom climate](sct-tblt-classroom-climate.md) — related
+- [Play rehearsal and performance were perceived as the most exciting and enjoyable RSA stages, building confidence in speaking English](rsa-acting-confidence-enjoyment.md) — related

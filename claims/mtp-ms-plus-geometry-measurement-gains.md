@@ -49,3 +49,4 @@ Results of a year-long school-level randomized study of 42 pre-k teachers and 44
 - [At baseline, business-as-usual children scored significantly higher than Plus and Basic children on pre-test number sense and operations](mtp-ms-baseline-pretest-differences.md) — related
 - [The Pre-K Mathematics intervention produces greater math knowledge gains in 4-year-olds than business-as-usual control](pre-k-math-gains-4-year-olds.md) — related
 - [Basic and Plus teachers showed fairly high and statistically similar adherence to the MTP-M/S curricula](mtp-ms-teacher-adherence-fidelity.md) — related
+- [Students receiving Enhanced Anchored Instruction outscored business-as-usual counterparts on the curriculum-based Fractions Computation test](eai-fractions-computation-posttest-advantage.md) — related

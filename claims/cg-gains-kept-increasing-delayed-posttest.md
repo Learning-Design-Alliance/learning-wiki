@@ -48,3 +48,5 @@ Delayed-posttest comparison in the quasi-experiment. The article reports COG gai
 - [CG-based form-focused instruction is at least moderately effective in fostering mostly explicit grammatical knowledge of the English present tense/progressive](cg-instruction-effective-explicit-grammar-knowledge.md) — related
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — related
 - [Cognitive training gains are maintained or further enhanced at two-month follow-up](act-cognitive-gains-sustained-follow-up.md) — related
+- [CG-based grammar instruction produces significant short- and long-term learning gains in use of the English active and passive voice](cg-based-voice-instruction-significant-gains.md) — related
+- [Instructional gains were larger on the form-focused measure than on the meaning/use-focused thematic structure measure](gains-larger-form-than-meaning-use-measure.md) — related

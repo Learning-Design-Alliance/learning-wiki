@@ -48,3 +48,4 @@ Descriptive summary of WAEC Senior Secondary School Certificate Examination entr
 ## Related Claims
 
 - [Senior secondary students taught with CRAIS achieved significantly higher mathematics posttest scores than students taught with modified conventional teaching strategy](crais-improves-mathematics-achievement-nigeria-ss2.md)
+- [Deaf students' UPSR mathematics pass rates remained low between 2008 and 2014](deaf-upsr-mathematics-achievement-low-2008-2014.md) — related

@@ -84,6 +84,7 @@ Graphic organizers exploit the visual channel to convey relational information t
 - [Student-generated mapping exercise](student-generated-mapping-strategy.md)
 - [Provide concept maps and hypermaps so learners see conceptual relationships and their own location in the system](concept-maps-hypermaps-navigation-support.md)
 - [Run pre-writing strategy instruction as alternating treatments across sessions, with an essay after each strategy](alternate-three-prewriting-activities-sessions.md)
+- [Use digital graphic organizer applications for collaborative concept mapping](digital-graphic-organizer-applications-strategy.md)
 
 ## Examples
 - **[Concept Attainment](../patterns/concept-attainment.md)** — organizers such as T-charts of examples and non-examples support hypothesis testing about category membership.

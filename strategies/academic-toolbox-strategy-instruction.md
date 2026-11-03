@@ -59,6 +59,7 @@ Within the SSC, after the diagnostic assessment component, instructors teach a s
 - [Name the Negative Voice](name_the_negative_voice.md)
 - [Positive Self Talk Modeling](positive-self-talk-modeling.md)
 - [Toolbox assignments applying taught reading strategies directly to the paired content course material](toolbox-assignments-applied-reading-strategies.md)
+- [Advising strategies for students on academic probation: validation, just-in-time resources, goal setting, and mindset dialogues](star-lite-advising-strategies-probation.md)
 
 ## Examples
 -

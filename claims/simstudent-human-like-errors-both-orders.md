@@ -50,3 +50,4 @@ Analysis of error patterns in the fraction addition simulation, benchmarked agai
 - [SimStudent given interleaved-ordering curricula received more negative feedback in stoichiometry and fraction addition, supporting more effective when-learning](interleaved-more-negative-feedback-when-learning.md) — related
 - [In SimStudent simulations across three math and science domains, interleaved-order curricula yielded as effective or more effective learning than blocked-order curricula](simstudent-interleaved-as-or-more-effective.md) — related
 - [BEAGLE's error recurrence rate (86.2%) falls within the realistic novice envelope, far above vanilla LLMs (7.8%) and below rule-based SimStudent's mechanical saturation (92.0%)](beagle-error-recurrence-novice-envelope.md) — related
+- [Error patterns differed across student-level latent classes, with Class 1 students making more errors on nearly all items](error-patterns-differ-latent-classes.md) — related

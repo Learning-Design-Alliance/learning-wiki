@@ -58,9 +58,11 @@ Response cards are a low-cost implementation of [Active Learning](../principles/
 5. Alternate with [Practice](../elements/practice.md) and discussion so rapid responding does not become the only participation format.
 
 ## Related Strategies
+
 - [Choral Responding](choral-responding.md) — the verbal sibling of response cards; same whole-group response logic with spoken answers
 - [Cold Calling](cold-call.md) — complementary technique that guarantees individual accountability alongside group display
 - [Formative Assessment Routines](formative-assessment-routines.md) — response cards as one data-gathering tool within a broader assessment cycle
+- [Use LMS discussion boards as a low-anxiety alternative to oral recitation for L2 opinion expression](lms-discussion-board-recitation-substitute.md)
 
 ## Examples
 - **Plickers** (https://www.plickers.com) — students hold printed QR-style cards; the teacher scans the room with a device and receives per-student response data, combining the low-tech card mechanic with digital record-keeping.

@@ -78,3 +78,4 @@ Derived from the meta-analytic Alpha using the Spearman–Brown formula. The exp
 - [Confidence intervals around alpha do not resolve the problem because they inherit alpha's failure to indicate knowledge-test reliability](alpha-ci-does-not-fix-reliability.md) — related
 - Fixed alpha cutoff values create publication bias so knowledge tests with low alphas are underrepresented in the literature — related
 - [The homogenization pretest used in the game-based vocabulary study showed high reliability (Cronbach's alpha = 0.87)](vocabulary-pretest-reliability-alpha-087.md) — a narrower finding that bears on this claim
+- [The multiple intelligences questionnaire demonstrated reliability with an overall Cronbach's alpha of 0.8587](mi-questionnaire-reliability.md) — related

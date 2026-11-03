@@ -80,6 +80,7 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Train teachers in direct instruction and in differentiated and scaffolded instruction for tiered RTI interventions](direct-instruction-and-scaffolded-instruction-rti-training.md)
 - [Implement SWH with layered supports across pre-, during-, and post-instruction phases plus sustained teacher professional development](swh-layered-supports-implementation-strategy.md)
 - [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
+- [Engage in FA development opportunities: peer observation, PLCs, and coaching](fa-development-opportunities.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Fully unconditional three-level HLM run to justify multilevel modeling. The auth
 - [Between-student differences explain a large fraction of CASED label variance, limiting what any clip-level visual model can learn](between-student-label-variance-limits-clip-models.md) — related
 - [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related
 - Classroom membership accounts for 11% of variance in students' perceived competence, justifying multilevel analysis — related
+- [Teacher-level intraclass correlations indicated 11.7% of pre-test and 40.6% of post-test ability variance lay at the teacher level](teacher-level-icc-pre-post-fractions.md) — related
