@@ -161,7 +161,7 @@ def main():
     update_frontmatter(page_path, args.by)
     if args.verify:
         add_verified(page_path, args.by)
-    append_revision_card(slug, page_type, args.by, args.type, args.desc)
+    append_revision_card(slug, page_type, ok.actor_for(args.by), args.type, args.desc)
     append_wiki_log(page_type, slug, args.type, args.desc)
 
     print(f"Logged revision: {page_type}/{slug}")

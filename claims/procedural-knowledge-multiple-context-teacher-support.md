@@ -48,3 +48,4 @@ Post hoc Bonferroni comparison following the procedural-knowledge ANOVA [F(3, 14
 ## Related Claims
 - [Combined conceptual and procedural knowledge of logic was highest in the teacher-supported courseware groups, with single- and multiple-context courseware alone resembling teacher-only instruction](combined-knowledge-contextualization-teacher-support.md) — a broader claim this one bears on
 - [Ninth-graders learning logic with contextualized courseware plus teacher support achieved higher conceptual knowledge than courseware-only or teacher-only groups](teacher-supported-contextualized-courseware-conceptual-logic.md) — related
+- [Combined teacher-plus-software instruction significantly outperformed software alone on pronunciation performance](combined-instruction-beats-software-alone.md) — related

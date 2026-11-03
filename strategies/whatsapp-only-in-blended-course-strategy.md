@@ -45,6 +45,7 @@ The article's concluding recommendation directs teachers to embed WhatsApp activ
 
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Adopt mobile messaging applications, especially WhatsApp, across English-language teaching](adopt-whatsapp-mobile-apps-elt-strategy.md)
+- [Integrate mobile messaging applications such as WhatsApp into the L2 curriculum to promote regular-participation learning communities](integrate-whatsapp-into-l2-curriculum-strategy.md)
 
 ## Examples
 -

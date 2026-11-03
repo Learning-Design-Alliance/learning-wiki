@@ -52,3 +52,4 @@ Quasi-experiment with 30 Iranian female high school students per group. Post-tes
 - [Female EFL learners attain significantly higher reading comprehension scores than male learners under question-generation strategy](female-efl-learners-outperform-males-reading-comprehension.md) — related
 - [Question-generation strategy significantly improves Iranian male EFL learners' reading comprehension](question-generation-improves-male-efl-reading-comprehension.md) — related
 - [Question-generation strategy produces significantly better overall reading comprehension performance than conventional instruction](question-generation-significant-overall-effect-reading-comprehension.md) — possibly the same claim (merge candidate)
+- [Reading strategies training also improves inferential reading comprehension of elementary-proficiency EFL vocational students](strategies-training-improves-inferential-comprehension-efl.md) — related

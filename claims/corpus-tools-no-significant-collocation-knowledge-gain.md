@@ -51,3 +51,4 @@ One-way ANCOVA on CKT post-test scores with pre-test as covariate in a pre/post 
 - [The experimental group's collocation scores improved significantly from pretest to posttest after corpus-based instruction](experimental-group-significant-pre-post-gain-corpus-instruction.md) — related
 - [Corpus-based collocation findings align with prior concordancing and data-driven learning studies](corpus-collocation-findings-consistent-with-prior-ddl-research.md) — related
 - [EFL student teachers hold positive views of concordancing for collocation learning and most intend future use](student-teachers-positive-views-concordancing.md) — related
+- [Teaching medical vocabulary through collocations produced higher posttest scores than traditional techniques in Iranian EFL medical students](collocation-instruction-outperforms-traditional-medical-vocabulary-teaching.md) — related

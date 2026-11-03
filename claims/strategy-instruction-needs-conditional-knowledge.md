@@ -64,7 +64,7 @@ This is the source paper that introduces conditional knowledge as one of three c
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does teaching when and why to use a procedure, not only its steps, improve flexible use and understanding?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 theoretical, 1 quant-synthesis, 1 review), `q1`–`q4`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does teaching when and why to use a procedure, not only its steps, improve flexible use and understanding?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **9 distinct studies** (5 causal, 2 theoretical, 1 quant-synthesis, 1 review), `q1`–`q4`, 3 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -72,7 +72,9 @@ This is the source paper that introduces conditional knowledge as one of three c
 | [Paris et al. 1983](<https://doi.org/10.1016/0361-476x(83)90018-8>) | q1 · theoretical · r? | i? | this claim |
 | [Alfieri et al. 2013](https://doi.org/10.1080/00461520.2013.775712) | q4 · quant-synthesis · r? | i2 · medium effect, d=0.50, 95% CI [.44, .56] | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (qualifies) |
 | [Gentner et al. 2003](https://doi.org/10.1037/0022-0663.95.2.393) | q3 · causal · r? | i? | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (qualifies) |
+| [Ziegler & Stern 2016](https://doi.org/10.1016/j.learninstruc.2015.09.006) | q3 · causal · r2 | i3 · large effect, d = 1.21 at one day, 0.94 at ten weeks | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (qualifies) |
 | [Rittle-Johnson & Star 2007](https://doi.org/10.1037/0022-0663.99.3.561) | q3 · causal · r? | i? | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (qualifies) |
+| [Ziegler & Stern 2014](https://doi.org/10.1016/j.learninstruc.2014.04.006) | q3 · causal · r2 | i2 · medium effect, d = 0.46 to 0.76 on transformation tests; i2 · medium effect, d = 0.53 at one week | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (qualifies) |
 | [Burgos 2021](https://doi.org/10.17583/redimat.2021.6778) | q1 · theoretical · r2 | i? | [Students can apply procedural knowledge to solve integration problems but show limited und](procedural-strong-conceptual-limited-integral.md) (supports) |
 | Star 2015 | q2 · review · r3 | i? | [Alternative-strategy practices are most effective for improving procedural flexibility, wi](alternative-strategies-most-effective-for-procedural-flexibility.md) (supports) |
 <!-- synthesis:end -->

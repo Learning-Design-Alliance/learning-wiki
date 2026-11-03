@@ -56,3 +56,7 @@ Follow-up analysis of the randomized trial using the SESAT at kindergarten postt
 - [Student outcomes did not differ significantly between two-student and five-student ROOTS groups on any measure](no-group-size-effect-on-student-outcomes.md) — related
 - [The ROOTS kindergarten mathematics intervention significantly improved fall-to-spring gains on three of six outcome measures compared with control, with positive effect sizes on all measures](roots-kindergarten-intervention-efficacy.md) — related
 - [The intervention does not produce significant immediate or follow-up gains on generalized social communication or standardized language measures](no-significant-gains-nls-pls.md) — related
+- [CBMs detected intervention gains that standardized test scores and teacher grades did not reach significance on](cbms-detect-gains-standardized-tests-miss.md) — related
+- [Formal early number skills gains in kindergarten predict first-grade mathematics achievement, with informal gains not uniquely associated](formal-gains-predict-grade1-sat10.md) — related
+- [Relations between early number skills gains and first-grade mathematics achievement differ by intervention participation, with significant paths only for ROOTS participants](moderation-gains-achievement-by-intervention.md) — related
+- [ROOTS participants demonstrated positive intervention effects on proximal and distal mathematics measures across two cohorts](roots-positive-effects-two-cohorts.md) — related

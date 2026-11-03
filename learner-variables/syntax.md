@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 88 claims (54 show a difference, 13 mixed, 21 no difference) · 63 studies (37 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 7 of 63 report an effect size · 85 claims rest on one study
+> **Evidence** · 89 claims (55 show a difference, 13 mixed, 21 no difference) · 64 studies (38 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 7 of 64 report an effect size · 86 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -126,6 +126,7 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [Syntactic parsing ability is strongly correlated with EFL reading rate among Chinese college students in both pretest and posttest](../claims/syntactic-parsing-ability-correlates-with-efl-reading-rate.md) [+M] — learners who differ on it differ in outcomes
 - [Conventional grammar teaching produced no significant pre-to-post change in the control group](../claims/conventional-method-no-gain-control-group-grammar.md) [-M] — instruction changes it
 - [Tertiary EFL students taught advanced grammar via task-based instruction outperformed peers taught with explicit form-focused instruction on negotiated written-production scores](../claims/tblt-outperforms-form-focused-grammar-tertiary-writing.md) [+M] — instruction changes it
+- [Online corrective feedback produced larger reductions in sentence structure, grammar and vocabulary errors than conventional corrective feedback, which showed no grammar improvement](../claims/ocf-larger-error-reductions.md) [+M] — instruction changes it
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

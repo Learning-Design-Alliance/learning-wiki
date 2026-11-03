@@ -47,3 +47,4 @@ Quasi-experimental study of 76 grade XI students in two classes (38 each), taugh
 ## Related Claims
 - [Students with high curiosity achieved higher reading comprehension scores than students with low curiosity](high-curiosity-higher-reading-comprehension.md) — related
 - [Teaching strategy and curiosity interact: INSERT suits high-curiosity students while SQ3R suits low-curiosity students](strategy-curiosity-interaction-reading.md) — related
+- [A 10-week SQ3R-based reading program increased reading comprehension test scores of all seven participating 4th graders with comprehension difficulties](sq3r-program-increased-comprehension-scores-action-research.md) — related

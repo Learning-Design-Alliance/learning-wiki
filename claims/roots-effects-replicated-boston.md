@@ -76,3 +76,5 @@ Discussion comparison of the two trials: the Oregon study found no significant N
 - [At-risk kindergarten students receiving the ROOTS Tier 2 intervention made significantly greater mathematics gains than at-risk control peers on the TEMA standard score](roots-at-risk-gains-tema-significant.md) — related
 - [The Pre-K Mathematics intervention produces greater math knowledge gains in 4-year-olds than business-as-usual control](pre-k-math-gains-4-year-olds.md) — related
 - [The ROOTS kindergarten mathematics intervention significantly improved fall-to-spring gains on three of six outcome measures compared with control, with positive effect sizes on all measures](roots-kindergarten-intervention-efficacy.md) — related
+- [The intervention produced a large treatment effect on sixth graders' recognition of taught bound roots](large-treatment-effect-root-recognition-grade-6.md) — related
+- [ROOTS participants demonstrated positive intervention effects on proximal and distal mathematics measures across two cohorts](roots-positive-effects-two-cohorts.md) — related

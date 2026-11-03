@@ -42,7 +42,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 63 claims (28 for, 32 mixed, 3 against) · 60 studies (13 review, 12 causal, 11 associational, 9 theoretical, 6 qualitative, 5 design, 4 quant-synthesis), `q1`–`q4` · 7 of 60 report an effect size · 55 claims rest on one study
+> **Evidence** · 64 claims (29 for, 32 mixed, 3 against) · 61 studies (13 causal, 13 review, 11 associational, 9 theoretical, 6 qualitative, 5 design, 4 quant-synthesis), `q1`–`q4` · 7 of 61 report an effect size · 56 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,7 @@ Read against the model on 2026-10-19. Of the eighteen claims that had gathered h
 - [The autonomy-supportive physics unit fostered need satisfaction, positive achievement emotions, and learning behaviors, and reduced negative emotions](../claims/autonomy-support-fosters-need-satisfaction-emotions-behaviors.md) [+W] — attached 2026-10-25 from Flunger et al. (2019), which proposed "Provide autonomy support in physics instruction because it benefits students' motivation and learning behaviors"; tests this page's relationship.
 - [Forums were perceived as serial monologues with mandatory participation and were rarely a preferred tool](../claims/forums-serial-monologues-mandatory-participation.md) [~W] — attached 2026-10-30 from Banegas et al. (2014), which proposed "Do not make forum participation or group-work tasks mandatory in online teacher education".
 - [Students still want teachers' help and do not want all control handed over to them](../claims/students-still-want-teacher-support-under-autonomy.md) [+W] — attached 2026-11-01 from Yushan Wang (2010), which proposed "Give learners more control over listening practice to foster autonomy while retaining teacher guidance".
+- [The Vocabulary Self-Selection group outperformed the Input Enhancement group on the seen achievement posttest](../claims/vss-outperforms-input-enhancement-seen-posttest.md) [+W] — attached 2026-11-02 from Golfam Masoudi (2017), which proposed "Allow learners to self-select the vocabulary they study to build autonomy and motivation".
 
 ## Objective and learner-valued goal
 

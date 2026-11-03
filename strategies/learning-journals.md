@@ -13,7 +13,7 @@ generated:
 # Learning Journals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 11 studies (7 quant-synthesis, 3 causal, 1 review), `q2`–`q4` · 6 of 11 report an effect size
+> **Evidence** · 3 claims (3 for) · 12 studies (7 quant-synthesis, 4 causal, 1 review), `q2`–`q4` · 6 of 12 report an effect size
 
 ## Description
 A learning journal is a sustained, learner-authored record in which students document what they did, what they understood, what confused them, and how their thinking changed. Entries are typically short, frequent, and structured by prompts or frameworks (e.g., Gibbs' reflective cycle) rather than free-form diary writing. The journal functions simultaneously as a learning activity (elaborative writing), a metacognitive mirror, and a formative assessment source for the instructor.

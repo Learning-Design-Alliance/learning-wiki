@@ -72,3 +72,4 @@ The review reports this experimental class-grouping study from the school sector
 - [Genetic influences drive the phenotypic correlations between cognitive skills and reading components](genetic-influences-drive-cognitive-reading-correlations.md) — related
 - [Parental recognition or referral request and comorbid behaviour problems predicted GP recognition and referral of child hyperactivity in a London community sample](parent-request-predicts-gp-adhd-recognition.md) — related
 - [Child problem behavior was not associated with teacher implementation of BEST in CLASS](child-problem-behavior-null-implementation.md) — related
+- [Participation in MTP-S eliminates the negative association between student disruptive behavior and teacher attainment projections](mtp-s-eliminates-disruptive-behavior-projection-link.md) — related

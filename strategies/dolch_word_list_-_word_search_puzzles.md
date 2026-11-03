@@ -12,7 +12,7 @@ generated:
 # Dolch Word List - Word Search Puzzles
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 11 studies (4 causal, 4 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 4 of 11 report an effect size
 
 ## Description
 This strategy uses word search puzzles whose target words are drawn from the Dolch Word List — the 220 high-frequency service words compiled by Edward W. Dolch (1936) that account for a large share of running text in early reading materials. Learners scan letter grids to locate sight words, providing repeated visual exposure intended to build automatic word recognition. The puzzles function as low-stakes, self-checkable practice rather than primary instruction.

@@ -12,7 +12,7 @@ generated:
 # Direct Instruction Spelling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 15 studies (6 quant-synthesis, 4 causal, 4 review, 1 theoretical), `q1`–`q4` · 6 of 15 report an effect size
+> **Evidence** · 5 claims (5 for) · 16 studies (6 quant-synthesis, 5 causal, 4 review, 1 theoretical), `q1`–`q4` · 6 of 16 report an effect size
 
 ## Description
 Direct instruction spelling teaches spelling through explicitly sequenced, teacher-led lessons: the instructor models a spelling pattern or strategy, guides choral or written practice, and immediately corrects errors. Lessons follow a fixed routine — review of previously taught words, introduction of a new pattern with [demonstration](../patterns/direct-instruction.md), guided practice, and a short test or dictation — so that attention goes to the pattern rather than to figuring out the task. The approach contrasts with incidental "catch it as you read" spelling, which leaves generalization to chance.

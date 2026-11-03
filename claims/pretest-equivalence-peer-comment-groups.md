@@ -71,3 +71,4 @@ Baseline comparison of the two intact classes before treatment: control M=5.730 
 - [Test and control groups showed no significant pretest difference in creative writing](intertextual-reading-pretest-equivalence.md) — related
 - [The two classes were equivalent in writing competence and thematic structure before instruction](pretest-equivalence-theme-theory-study.md) — possibly the same claim (merge candidate)
 - [The treatment and control groups had equivalent vocabulary sizes at pre-test](equivalent-vocabulary-sizes-at-pretest.md) — related
+- [Before the treatment, the experimental and control groups showed no statistically significant difference in conceptual fluency on the idiom pre-test](pretest-equivalence-idiom-groups.md) — related

@@ -47,7 +47,8 @@ The article recommends that EFL teachers introduce podcasts as listening materia
 - [Listening to podcasts improved EFL students' self-regulation more than listening to radio programs](../claims/podcasts-improved-efl-self-regulation.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Use podcasts on mobile phones for extensive out-of-class listening practice](podcast-mobile-extensive-listening-strategy.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ Observational frequency analysis of the 2,874-turn corpus from 221 sessions. The
 - [Student chat questions in the pilot were distributed across seven categories, dominated by study strategies (23%), conceptual quantum (20%), and mathematical formalism (17%)](itas-question-category-distribution.md) — related
 - [AutoTutor cannot handle most student questions, so student question frequency extinguishes quickly in tutoring sessions](autotutor-student-questions-extinguish.md) — related
 - [Post-solution dialogues in physics tutoring most prominently serve explaining conceptual knowledge and integrating it with strategic problem-solving knowledge](post-solution-dialogue-roles-conceptual-integration.md) — related
+- [Treatment group discourse followed a seven-step developmental process while control group discourse followed only three steps and rarely settled on a position](seven-step-versus-three-step-discourse-process.md) — related

@@ -51,3 +51,5 @@ Paired-samples t-test of the control group's (n = 25) pretest and posttest score
 - [Explicit instruction alone produced no statistically significant pretest-to-posttest gain in conditional sentences (p=.18)](explicit-instruction-no-significant-gain-conditionals.md) — related
 - [The control group, continuing the regular preschool program, also showed significant pretest-to-posttest vocabulary gains](control-group-regular-program-vocabulary-gains.md) — reports the opposite
 - [Intensive exposure to EFL classes alone produced no statistically significant literacy gains in adult learners lacking basic literacy](intensive-exposure-alone-no-literacy-gain.md) — related
+- [Both strategies produced gains in vocabulary knowledge over the course of the treatment](both-strategies-improved-vocabulary-knowledge.md) — reports the opposite
+- [Traditional vocabulary techniques alone produced no statistically significant pretest-to-posttest gain in the control group](traditional-techniques-no-significant-gain.md) — possibly the same claim (merge candidate)

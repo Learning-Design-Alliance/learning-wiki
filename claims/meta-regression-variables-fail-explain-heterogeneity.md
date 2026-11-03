@@ -52,3 +52,4 @@ Meta-regression with theoretical knowledge scores as outcome and intervention me
 - [Meta-regression finds discipline, country, year, and learner identity do not significantly explain heterogeneity in TBL-versus-PBL effects](meta-regression-covariates-not-significant-tbl-pbl.md) — related
 - [Randomization, education classification, and gender diversity partially explain the heterogeneity of TBL effects](heterogeneity-sources-tbl-meta-regression.md) — reports the opposite
 - [Intervention effect sizes on mathematics are negatively associated with participants' age and intervention duration, while intervention type does not explain heterogeneity](pa-math-effect-modifiers-age-duration.md) — related
+- [Duration of the TPR intervention in weeks significantly predicts effect size, explaining 35% of the variance](tpr-intervention-duration-predicts-effect.md) — related

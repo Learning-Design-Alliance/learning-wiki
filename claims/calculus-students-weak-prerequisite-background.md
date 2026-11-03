@@ -50,3 +50,4 @@ Pretest analysis of the two intact classes (n=9 control, n=21 experimental after
 - [Both groups improved significantly from pretest to posttest, and the experimental group's posttest scores significantly exceeded the control group's](razalas-within-between-posttest-differences.md) — related
 - [First-year students taught Calculus with Microsoft Mathematics achieved higher post-test scores than students taught conventionally](microsoft-mathematics-higher-post-test-calculus.md) — related
 - [Both groups improved from pretest to posttest at the individual level, with the article attributing the experimental group's larger gains to the etudes](individual-gains-etudes-more-effective-than-traditional.md) — related
+- [First-semester calculus students in an experimental reflective-abstraction section outperformed a matched traditional section on a posttest of limits](reflective-abstraction-curriculum-improves-limit-posttest.md) — related

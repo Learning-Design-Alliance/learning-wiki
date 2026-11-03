@@ -13,7 +13,7 @@ generated:
 # Real World Math Applications
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 10 studies (5 causal, 3 quant-synthesis, 2 theoretical), `q2`–`q4` · 4 of 10 report an effect size
+> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 12 studies (7 causal, 3 quant-synthesis, 2 theoretical), `q2`–`q4` · 6 of 12 report an effect size
 
 ## Description
 Real-world math applications anchor mathematical concepts in authentic contexts — budgeting, design, sports statistics, engineering, commerce — so learners see how the mathematics functions outside the classroom. The strategy is carried out by selecting or constructing tasks whose context genuinely requires the target mathematics, then having learners model, compute, and interpret results within that context rather than practicing decontextualized procedures alone.
@@ -92,6 +92,7 @@ Authentic contexts can support transfer by helping learners map abstract structu
 - [Teach ratio through varied contextual problem states solved with multiple strategies](teach-ratio-varied-contextual-problems-multiple-strategies.md)
 - [Implement contextual teaching and learning where application of knowledge is the instructional goal, with confidence that basic content mastery is maintained](implement-ctl-when-application-is-goal.md)
 - [Three-part learning support: contextualized real-world problems, hot topics, and question-and-answer](three-part-learning-support-strategy.md)
+- [Present contextual mathematics problems in the local cultural context](local-cultural-context-problems-strategy.md)
 
 ## Examples
 - **[The Math Forum / NCTM Illuminations](https://www.nctm.org/classroom-resources/illuminations/)** — published lessons anchoring standards-aligned mathematics in authentic scenarios (design, finance, data).

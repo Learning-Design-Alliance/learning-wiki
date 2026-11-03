@@ -60,8 +60,10 @@ Relevant, interest-based contexts increase engagement and can improve performanc
 6. **Discuss and generalize.** Use [Peer Discussion](../elements/peer-discussion.md) to name the shared mathematical structure across contexts, then move toward formal, context-free representation.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — cultural contexts work by surfacing what students already know
 - [Analogies](../strategies/analogies.md) — a familiar context functions as an analogy for the abstract structure
+- [Present contextual mathematics problems in the local cultural context](local-cultural-context-problems-strategy.md)
 
 ## Examples
 - **Walkington's adaptive personalization studies** — algebra problems personalized to hobbies (sports, music, gaming) improved performance in [ASSISTments](https://www.assistments.org)

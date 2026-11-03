@@ -49,3 +49,4 @@ Paired-samples t-test comparing the 24 experimental-group participants' IELTS sp
 - [Control group showed only slight speaking gains from pre-test to post-test](control-group-slight-speaking-gain.md) — related
 - [Before treatment, the cognition-based and objective-based groups did not differ significantly in speaking proficiency](pbl-groups-homogeneous-pretest-speaking.md) — related
 - [Authentic problem-based vocabulary tasks improve immediate vocabulary recall of intermediate Iranian EFL learners compared with conventional input-based tasks](pbl-tasks-improve-vocabulary-recall-efl.md) — related
+- [The experimental group improved significantly from pre-test to post-test in overall speaking proficiency, with a large within-group effect](experimental-group-prepost-speaking-gain.md) — related

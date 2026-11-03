@@ -55,3 +55,4 @@ Experimental 40  99,62  3,81"
 - [The multicultural education programme showed no significant effect on students' attitude towards cultural diversity](multicultural-education-no-effect-cultural-diversity.md) — related
 - [A six-hats-based training program produces larger achievement gains in Islamic concepts than usual teaching among university students](six-hats-program-improves-islamic-concepts-achievement.md) — related
 - [Constructivist-trained teachers show significantly more positive teaching attitudes than conventionally trained teachers](constructivist-training-improves-teacher-attitude.md) — related
+- [Using infographics in geography lessons improves students' attitudes towards the geography lesson relative to usual instruction](infographics-improve-geography-attitudes.md) — related

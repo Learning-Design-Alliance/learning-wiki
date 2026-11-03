@@ -74,3 +74,4 @@ In the individual domain × measure comparisons, grades exceeded test scores wit
 - [Trait self-control correlates with grades but not with standardized test scores at the bivariate level](tsc-correlates-grades-not-standardized-tests.md) — related
 - [Openness shows larger correlations with achievement in language than in STEM subject domains, a pattern that holds for both grades and test scores](openness-language-stem-domain-moderation.md) — related
 - [Openness is most strongly associated with standardized test scores (especially English) and weakly or negatively associated with mathematics course grades](openness-predicts-standardized-tests-most.md) — related
+- [CBM scores correlated with standardized test scores but teacher grades did not correlate with either measure](cbm-correlates-with-standardized-not-grades.md) — related

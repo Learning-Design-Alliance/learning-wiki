@@ -54,3 +54,5 @@ Written practicality survey administered before the effectiveness test to 16 ins
 - [Eleven experts rated the tentative STEM-ICT instructional model as appropriate at a high level](stem-ict-model-expert-evaluation-high.md) — related
 - [Students taught with the TEFA-T model rated their own metacognitive skills higher than a conventionally taught class](tefa-t-improves-metacognitive-skills.md) — related
 - [Teachers rated current student critical thinking as moderate and need for the model as highest](teacher-needs-survey-critical-thinking.md) — related
+- [Experts judged the contextual mathematical thinking learning model valid, with an average evaluation score of 4.23](cmtl-model-expert-validation.md) — related
+- [Observed implementation of the model was practical: learning-activity elements averaged in the good category and 85.7% of students responded positively](cmtl-model-practicality-observations.md) — related

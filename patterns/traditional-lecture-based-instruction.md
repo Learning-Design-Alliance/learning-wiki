@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 87 claims (22 for, 30 mixed, 35 against) · 80 studies (25 quant-synthesis, 24 causal, 16 review, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 13 of 80 report an effect size · 79 claims rest on one study
+> **Evidence** · 90 claims (24 for, 30 mixed, 36 against) · 82 studies (26 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 14 of 82 report an effect size · 82 claims rest on one study
 
 ## Description and scope
 
@@ -209,6 +209,9 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Regular classroom use of mobile devices with 3G was associated with higher total course achievement scores than the lecture-only section](../claims/mobile-3g-use-higher-achievement-scores.md) [-W]
 - [Students receiving traditional lectures showed no significant pre-post change in overall attitudes to learning English](../claims/traditional-lectures-no-attitude-change.md) [+W]
 - [Geometry achievement and retention showed no significant gender differences in either the GSP or the traditional teaching group](../claims/no-gender-difference-geometry-achievement-retention.md) [~W]
+- [Undergraduate students in online sections using asynchronous peer text discussion scored significantly higher on course exams than students in a classroom section using synchronous lecture-discussion (d = 0.66)](../claims/asynchronous-discussion-online-sections-higher-exam-scores.md) [-W]
+- [Both blended learning and problem-based learning produced significantly higher algebra achievement than traditional lecture method, while BL and PBL did not differ significantly](../claims/bl-pbl-outperform-tlm-algebra.md) [+W]
+- [Descriptive gains in algebra achievement were largest for the blended learning group, followed by PBL and then TLM](../claims/bl-largest-descriptive-gain-algebra.md) [+W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-02
 recheck_by: 2027
 sources:
   - id: weaver-2022
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
+> **Currency** · newest study 2022 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A study of rural Michigan school districts found students with no home broadband access, or only cell-phone access, lag peers with even slow home internet in digital skills by about the difference between an eighth and 11th grader, and are less likely to plan to attend college. [→ Weaver 2022](#weaver-2022)

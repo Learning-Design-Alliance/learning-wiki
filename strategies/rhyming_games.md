@@ -12,7 +12,7 @@ generated:
 # Rhyming Games
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 11 studies (4 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 4 of 11 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 12 studies (5 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 4 of 12 report an effect size
 
 ## Description
 Rhyming games involve activities that focus on identifying and creating rhyming words to enhance phonological awareness — the ability to detect and manipulate the sound structure of spoken language. Typical formats include rhyming matching games, "odd one out" rhyme detection, rhyming bingo, word family charts, and oral call-and-response rhyme generation. Because rhyme is one of the most salient units of sound for young children, these games serve as an accessible entry point into broader phonemic awareness before formal [phonics](../principles/phonics.md) instruction.

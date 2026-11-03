@@ -52,3 +52,5 @@ Five-point scale ratings of four qualities (Table 4) in the 72-student experimen
 ## Related Claims
 - [Five-month implementation of the CIEA produced significant group-by-time interactions favouring the experimental group on five of eight basic social-behaviour scales](ciea-improved-five-basic-social-behaviour-scales.md) — related
 - [An interactive-methods scheme for forming social tolerance raised the tolerance index of future teachers by 34% in the experimental group versus 5% in the control group](tolerance-index-eg-34-percent-vs-cg-5-percent.md) — related
+- [Control-group students without the tolerance course showed essentially no change in tolerance over the academic year](control-group-tolerance-unchanged-without-course.md) — related
+- [A compulsory specialized course on religions of the region increased students' confessional tolerance over a four-year teaching experiment](specialized-religion-course-increased-confessional-tolerance.md) — related

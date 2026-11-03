@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: liu-patel-koedinger-2016
     resource: "https://doi.org/10.1145/2883851.2883967"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · n=40 students
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 The student models that choose the next problem in an intelligent tutor usually track only skills that help a learner succeed. This claim is about whether a model can also track a misconception: a strategy that gives correct answers on some problems and wrong answers on others. In the independent whole-number strategy, a learner applies the operation to the two numerators and the two denominators separately (1/2 + 2/3 gives 3/5). This gives correct answers to fraction multiplication problems and wrong ones to most addition problems.
 

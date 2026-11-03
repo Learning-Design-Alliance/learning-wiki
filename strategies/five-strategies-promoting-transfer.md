@@ -17,7 +17,7 @@ sources:
 # Promote transfer through varied examples, over-learning, generalization, similarity and common components
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 4 studies (3 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 6 studies (5 causal, 1 quant-synthesis), `q2`–`q4` · 3 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 The article lists five procedures for promoting transfer of knowledge: using varieties of examples so students see common features, degree of mastery through over-learning, generalization, similarity of stimuli, and training on common components (identical elements). It states that "Generalization : This is the 'heart' of transfer. It enables a learner to apply general concept or principles to other situations." Teachers are advised to give practice in finding relationships on their own and to relate learning experiences to the new situations to which transfer is expected.

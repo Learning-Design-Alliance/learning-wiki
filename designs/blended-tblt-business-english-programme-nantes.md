@@ -41,7 +41,8 @@ The programme combines one-hour plenary sessions and one-hour small-group sessio
 - [Vrc Underexploited By Students](../claims/vrc-underexploited-by-students.md) [+M]
 
 ## Related Designs
-- 
+
+- [Moodle course pattern combining resources, interactive activities, communication tools and automated evaluation for skills teaching](moodle-resource-activity-evaluation-course-pattern.md)
 
 ## Examples
 -

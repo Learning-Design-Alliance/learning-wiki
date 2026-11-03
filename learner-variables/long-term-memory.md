@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 225 claims (131 show a difference, 55 mixed, 39 no difference) · 147 studies (80 causal, 32 review, 17 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 50 of 147 report an effect size · 217 claims rest on one study
+> **Evidence** · 226 claims (132 show a difference, 55 mixed, 39 no difference) · 149 studies (82 causal, 32 review, 17 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 50 of 149 report an effect size · 218 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -260,6 +260,7 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Humorous-song treatment shows no significant difference between EFL learners' immediate and delayed listening recall](../claims/humorous-song-immediate-delayed-recall-null.md) [-M] — instruction changes it
 - [Text production does not significantly improve long-term retention of new GFL vocabulary after one week or three weeks](../claims/text-production-no-significant-long-term-vocabulary-retention.md) [-M] — instruction changes it
 - [Word-recall advantage of musical mnemonic persists across repeated trials including a delayed trial 10 days later](../claims/musical-mnemonic-delayed-recall-trial.md) [+M] — instruction changes it
+- [Learning cycle approach-based teaching produced higher retention test scores eight months after implementation](../claims/learning-cycle-higher-retention-8-months.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

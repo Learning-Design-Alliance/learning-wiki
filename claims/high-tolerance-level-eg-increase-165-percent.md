@@ -46,3 +46,4 @@ Level-distribution analysis of Intol test results (Table 2) in the 72-student qu
 
 ## Related Claims
 - [An interactive-methods scheme for forming social tolerance raised the tolerance index of future teachers by 34% in the experimental group versus 5% in the control group](tolerance-index-eg-34-percent-vs-cg-5-percent.md) — related
+- [A compulsory specialized course on religions of the region increased students' confessional tolerance over a four-year teaching experiment](specialized-religion-course-increased-confessional-tolerance.md) — related

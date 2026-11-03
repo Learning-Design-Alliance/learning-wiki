@@ -12,7 +12,7 @@ generated:
 # Cold Call To Sample Pair Responses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 16 studies (9 quant-synthesis, 3 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 7 of 16 report an effect size
+> **Evidence** · 5 claims (5 for) · 17 studies (9 quant-synthesis, 4 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 7 of 17 report an effect size
 
 ## Description
 This strategy combines [Think-Pair-Share](../elements/class-discussion.md)-style pair work with cold calling: instead of asking for volunteers after pair discussion, the instructor names specific students and asks them to report what their pair said. Because any student may be called, every pair has an incentive to produce a discussable answer, and the instructor gains a representative sample of the class's thinking rather than a skewed sample of confident volunteers.

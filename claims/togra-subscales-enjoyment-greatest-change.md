@@ -51,3 +51,4 @@ Subscale analysis (Table 7) of attitudes toward geography-related careers, enjoy
 ## Related Claims
 - [Music workshop students developed more positive geography-related attitudes than controls (effect size=.569)](music-workshops-improve-geography-attitudes.md) — a broader claim this one bears on
 - [The treatment effect on attitudes held after controlling for demographic covariates, with GATE students gaining more on both measures](togra-regression-group-effect-covariates.md) — related
+- [Control-group students' attitudes towards geography declined significantly over the six weeks while experimental-group attitudes rose](control-group-attitude-declined.md) — related

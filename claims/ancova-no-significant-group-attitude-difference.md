@@ -53,3 +53,4 @@ ANCOVA on posttest GWAS scores of both groups (Table 7, R Squared = .572): the g
 - [Environmentally friendly behaviors increased far more in the visual-materials group (about 65%) than in the control group (about 4%)](visual-materials-increase-friendly-behaviors.md) — related
 - [Caricature animations in the online learning environment did not significantly change students' attitudes toward humor](caricature-animation-no-attitude-toward-humor-effect.md) — related
 - [Experimental classes taught with local-wisdom-based social studies materials scored higher on social attitudes than control classes after one semester](local-wisdom-materials-higher-social-attitude-ttest.md) — related
+- [The web-assisted virtual material produced no statistically significant change in students' attitudes toward science and technology lesson](virtual-material-no-attitude-effect.md) — related

@@ -50,3 +50,4 @@ Pretest equivalence check in the 40-participant quasi-experiment; participants w
 - [Embedded design quiz performance exceeded the 80% mastery threshold on all three quizzes while applied experience quiz scores ranged from 34-80%](embedded-design-mastery-quiz-threshold.md) — related
 - [Adding eleven hours of in-situ applied experience to the course did not increase pedagogical content knowledge achievement over the embedded design course alone](insitu-hours-no-achievement-gain.md) — related
 - [Before the intervention, the experimental and control groups did not differ significantly in self-efficacy toward science education](pretest-equivalence-self-efficacy-groups.md)
+- [Classroom and online students did not differ significantly on the first course quiz taken before the instructional design could take effect](first-quiz-no-group-difference-online-classroom.md) — related

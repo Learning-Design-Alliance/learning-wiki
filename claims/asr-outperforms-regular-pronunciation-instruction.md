@@ -49,3 +49,5 @@ Quasi-experiment with 64 third graders randomly assigned to three ASR experiment
 - [An AI-supported reading progress tool produced large effect sizes for speed and accuracy but not significant prosody gains for third-grade EFL learners](ai-reading-progress-speed-accuracy-large-effects-prosody-null.md) — related
 - [The Fluspeak ASR-based pronunciation software gave good results with beginners focusing on phoneme production but poor results overall for advanced learners seeking fluency](fluspeak-good-beginners-poor-advanced.md) — related
 - [CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development](capt-strong-segmentals-weak-prosody.md) — a broader claim this one bears on
+- [Combined teacher-plus-software instruction significantly outperformed software alone on pronunciation performance](combined-instruction-beats-software-alone.md) — related
+- [Instructional software alone significantly improved general pronunciation quality over two weeks for young Chinese EFL learners](software-alone-improves-pronunciation-young-efl.md) — related

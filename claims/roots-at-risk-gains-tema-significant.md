@@ -55,3 +55,5 @@ Cluster-randomized trial with 29 classrooms (14 treatment, 15 control) using a n
 - [No statistically significant differences between ROOTS and control conditions on oral counting gains or covariate-adjusted SAT-10 scores](roots-replication-null-oral-counting-sat10.md) — related
 - [Student outcomes did not differ significantly between two-student and five-student ROOTS groups on any measure](no-group-size-effect-on-student-outcomes.md) — related
 - [The ROOTS kindergarten mathematics intervention significantly improved fall-to-spring gains on three of six outcome measures compared with control, with positive effect sizes on all measures](roots-kindergarten-intervention-efficacy.md) — related
+- [Kindergartners at risk for mathematics difficulties who participated in the ROOTS intervention demonstrated larger informal and formal early number skills gains than control peers](roots-participation-larger-informal-formal-number-skills-gains.md) — related
+- [ROOTS participants demonstrated positive intervention effects on proximal and distal mathematics measures across two cohorts](roots-positive-effects-two-cohorts.md) — related

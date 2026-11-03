@@ -49,3 +49,4 @@ Meta-analysis in RevMan 5.3 of twelve studies of PBL-type interventions versus c
 - [PBL methods produce significantly better knowledge scores than traditional teaching among dental students (pooled MD 4.15)](pbl-improves-knowledge-scores.md) — related
 - [Student satisfaction favours traditional teaching over PBL methods (pooled MD -0.14), conflicting with the skills and knowledge findings](satisfaction-favours-traditional-teaching.md) — related
 - [Problem-based learning shows a small but significant pooled advantage over lecture-based learning in dental education (SMD = 0.33)](pbl-small-significant-advantage-dental.md) — related
+- [Accessing the online caries diagnosis module did not significantly improve dental students' radiographic diagnostic accuracy](online-module-no-accuracy-gain-caries.md) — related

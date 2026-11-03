@@ -49,3 +49,4 @@ Descriptive statistics on pretest-to-posttest score mean differences for the thr
 - [Pre-K children receiving explicit nursery rhyme instruction significantly improved their nursery rhyme completion scores over ten weeks](nursery-rhyme-instruction-improves-completion-scores.md) — related
 - [Explicit pronunciation instruction improves controlled production of targeted sounds and prosody, with smaller and less certain gains in spontaneous speech](explicit-communicative-pronunciation-instruction-works.md) — related
 - [Gains were largest in stress and pronunciation, smallest in speech-sound articulation, and about 10% of experimental students showed no progress](component-level-prosodic-gain-pattern.md) — related
+- [Software-only instruction produced significantly greater gains on segmental than on suprasegmental pronunciation aspects](software-gains-segmental-over-suprasegmental.md) — reports the opposite

@@ -87,3 +87,4 @@ Interview question on effects on success in social studies; permanent learning w
 - [Students reported difficulties with the ABSL implementation, most commonly problems in the discussion process and difficulties creating arguments in concept cartoon and migration story activities](absl-student-views-difficulties.md) — related
 - [Students most often attributed OrCheTaboo's contribution to retention in learning, followed by fun learning, association between concepts, and increased motivation](orchetaboo-perceived-contribution-categories.md) — a narrower finding that bears on this claim
 - [Students reported cognitive benefits of case-based learning, with CBL2 frequencies higher but time-management problems reported](cbl-cognitive-impact-student-opinions.md) — related
+- [Treatment students evaluated the lessons positively, reporting that the classes helped them master the second conditional](positive-student-evaluations-virtual-world-lessons.md) — related

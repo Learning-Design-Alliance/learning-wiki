@@ -5,6 +5,31 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-03 · evidence headings: two-author, mononym and compound-surname leads; header-only merges
+
+**Headings.** The 2026-11-01 surname fix missed three common shapes, and the load-bearing judge
+caught four of them in j-screric-20 alone (`Damianus D. Samo 2017`, `Tugba Inciman Celik 2021`):
+- a two-author citation joined by `&` ("Maria Entezari & Mohammad Javdan") reached the check whole,
+  because only commas were split on, and never matched;
+- a record with a one-name author ("Samo, Damianus D., Darhim, Kartasasmita, Bana") has an odd
+  number of parts, so no surnames were read; the first part is still the first surname and the
+  citation gives the author count;
+- a compound surname ("Inciman Celik") was compared against the lead's last word only.
+The second surname now keeps the citation's spelling (`Dökme`, not ERIC's `Dokme`), in title case
+when printed in capitals. Tested on every heading of the claim pages ingested since 2026-11-01:
+968 of 8,629 change, all full name to surname form (the `&` case is most of them); the non-`&`
+changes were read one by one. **Still not done:** the existing full-name headings. Renaming one
+changes an anchor that subclaims, `sources[]` ids, observation records and other pages' links use,
+so it needs a tool that re-points all of those, not a heading edit.
+
+**Merges.** `merge_main.py` stopped on `strategies/family-engagement-in-homework.md`, where #471
+and j-screric-20 had each added evidence and both had rewritten the `> **Evidence** ·` line and the
+`generated:` stamp. A content page whose conflict touches only those lines (and the
+`> **Currency** ·` line) is now merged with them blanked on all three sides; the stamp is taken
+from the later side and the header lines are rebuilt on the merged tree. Any other overlap still
+stops for a person. `revisions/*.md` is merged as an append-only log. (A NUL placeholder made
+`git merge-file` treat the page as binary; the placeholder is printable.)
+
 ## 2026-11-02 · merging main is now a script, not a hand job
 
 **What changed.** `scripts/merge_main.py` merges `origin/main`, or any `--ref`, into the current branch. It settles the conflicts that are not really conflicts and stops on the ones that are:

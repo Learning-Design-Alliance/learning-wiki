@@ -3,6 +3,7 @@ type: claim
 title: The SPARK program produced a small but statistically significant positive impact on reading achievement of 0.12 standard deviations in a two-year RCT
 description: The SPARK program produced a small but statistically significant positive impact on reading achievement of 0.12 standard deviations in a two-year RCT
 id: spark-rct-reading-impact-012-sd
+aliases: [spark-mclp-cohort1-two-year-reading-impact-012sd]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -18,16 +19,27 @@ sources:
     i: 0
     kind: causal
     rigour: 2
+  - id: jones-et-al-2015
+    resource: "https://eric.ed.gov/?id=ED558151"
+    title: "Curtis J. Jones, Rachel Lander, Rachel Westrum. (2015). The Interim Results of a Randomized Control Trial of the SPARK Early Literacy Program/Milwaukee Community Literacy Project. Presented at the Annual Meeting of the Society for Research in Educational Effectiveness, Washington, DC. https://eric.ed.gov/?id=ED558151"
+    author: Curtis J. Jones, Rachel Lander, Rachel Westrum
+    q: 3
+    i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # The SPARK program produced a small but statistically significant positive impact on reading achievement of 0.12 standard deviations in a two-year RCT
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i0` In a randomized control trial across six Milwaukee Public Schools, SPARK participants outperformed control students on standardized MAP reading achievement, with a pooled effect of 0.12 standard deviations significant at the 5% level. [→ Curtis Jones 2018](#curtis-jones-2018)
+
+`q3 i0` The weighted pooled impact of MCLP on Cohort 1 post MAP/MPG reading scores was a standardized effect size of 0.122 standard deviations, significant at p < .05. [→ Jones et al. 2015](#jones-et-al-2015)
 
 ## Evidence
 
@@ -41,13 +53,26 @@ Two-year student-level randomized control trial: 251 kindergarten through second
 
 > "Overall, SPARK was found to have a significant impact on reading achievement of 0.12 standard deviations. This finding is significant at the 5% probability level."
 
+### Jones et al. 2015
+
+Curtis J. Jones, Rachel Lander, Rachel Westrum. (2015). The Interim Results of a Randomized Control Trial of the SPARK Early Literacy Program/Milwaukee Community Literacy Project. Presented at the Annual Meeting of the Society for Research in Educational Effectiveness, Washington, DC. https://eric.ed.gov/?id=ED558151
+
+`q3 · i0` · `causal · r2`
+
+Randomized control trial with 496 consented Cohort 1 students (245 MCLP, 251 control), analyzed by intent to treat using fall 2011 pre-test and spring 2013 post-test MAP/MPG scores. Table 3 reports the pooled standardized effect size of 0.122 standard deviations with robust SE 0.061 and p < .05 — a small effect below d = 0.2.
+
+> "After two years of participation, the MCLP was found to have a small but significant impact on the reading achievement of the first cohort (0.12 standard deviations) (Table 3)."
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [School-level assignment to the Open Court Reading (Imagine It!) curriculum does not produce a statistically significant impact on elementary students' reading achievement relative to business-as-usual control curricula in either study year](ocr-scale-up-no-significant-overall-reading-impact.md) — related
 - [SPARK showed no statistically significant impact on regular school day attendance](spark-no-attendance-impact.md) — related
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](future-forward-prior-rct-evidence.md) — possibly the same claim (merge candidate)
 - [SPARK tutoring significantly improved early-grade reading achievement (MAP), with an overall effect of 2.8 RIT points (g = .23)](spark-improves-map-reading-achievement.md) — related
 - [SPARK's reading achievement benefit was larger for lower-achieving students (4.4 RIT points, g = .36), with a significant SPARK-by-baseline interaction](spark-map-effect-larger-for-low-achievers.md) — related
 - [Switch-on Reading produces a small positive impact on reading (+0.24) for Year 7 weak readers in a waiting-list RCT](switch-on-reading-overall-effect-024.md) — related
+- [After one year of participation, SPARK/MCLP produced a significant 0.12 SD improvement in MAP/MPG reading scores for Cohort 2](spark-mclp-cohort2-one-year-mpg-impact-012sd.md) — related

@@ -51,3 +51,4 @@ Two-year student-level randomized control trial in seven Milwaukee Public School
 - [The SPARK program produced a small but statistically significant positive impact on reading achievement of 0.12 standard deviations in a two-year RCT](spark-rct-reading-impact-012-sd.md) — related
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](future-forward-prior-rct-evidence.md) — related
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a broader claim this one bears on
+- [After one year of participation, SPARK/MCLP produced a significant 0.12 SD improvement in MAP/MPG reading scores for Cohort 2](spark-mclp-cohort2-one-year-mpg-impact-012sd.md) — related

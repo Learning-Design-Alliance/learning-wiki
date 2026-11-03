@@ -17,7 +17,7 @@ sources:
 # Curriculum design combining learning progressions, CPA model, and spaced/interleaved practice
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies (2 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (3 causal, 1 quant-synthesis), `q3`–`q4` · 3 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 The curriculum is "built around research-based learning progressions, a Concrete-Pictorial-Abstract model, and rich mathematical activities designed to connect concepts, interleave and space practice for long-term retention, and provide meaningful contexts for learning." This design pattern organizes content sequencing, activity design, and practice scheduling across the PreK-8 program.

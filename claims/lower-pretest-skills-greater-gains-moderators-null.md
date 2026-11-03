@@ -69,3 +69,4 @@ The same correlational analysis tested teacher and child characteristics as mode
 - [Children with lower growth mindset before training showed greater growth-mindset gains during cognitive training](lower-baseline-mindset-greater-training-gains.md) — a narrower finding that bears on this claim
 - [Teacher-judged science ability repeatedly predicts gain in understanding, while age does not and gender effects are weak and non-replicable](ability-predicts-gain-age-gender-do-not.md) — related
 - [Baseline externalizing symptoms moderated the social-cognitive outcome, with children lower in externalizing showing larger improvement in emotion recognition](externalizing-moderates-cam-c-outcome.md) — related
+- [Initial EF and VS skill levels do not significantly moderate intervention effects on classroom behavior](no-moderation-by-initial-ef-vs-skills.md) — related

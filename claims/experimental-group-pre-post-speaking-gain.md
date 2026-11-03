@@ -53,3 +53,4 @@ Paired-samples t-test comparing the experimental group's pre- and post-test spea
 - [The experimental group's pre-to-post achievement gain was statistically significant (t = 9.79473, P = 0.0001)](experimental-group-significant-prepost-gain.md) — related
 - [Pictorial aids improve intermediate EFL learners' speaking proficiency compared with traditional instruction](pictorial-aids-improve-efl-speaking-proficiency.md) — possibly the same claim (merge candidate)
 - [Tutored problem-based learning through cognition-based tasks significantly increased Iranian intermediate EFL learners' speaking proficiency from pretest to posttest](pbl-cognition-tasks-increase-speaking-proficiency.md) — possibly the same claim (merge candidate)
+- [The experimental group improved significantly from pre-test to post-test in overall speaking proficiency, with a large within-group effect](experimental-group-prepost-speaking-gain.md) — possibly the same claim (merge candidate)

@@ -67,3 +67,4 @@ Transfer-task definition recall ANCOVA; the article notes definitions were not p
 - [All three interventions significantly improved cloze performance on treatment passages, with a significant treatment-by-passage interaction driven by variable control-group means](cloze-treatment-effect-with-passage-interaction.md) — related
 - [Training seventh graders to elaborate produced better long-term recall than questions stimulating elaboration, and the training transferred to new passages](trained-elaboration-beats-question-stimulated-elaboration.md) — related
 - [Repeated peer reading did not produce transferable fluency gains on the AIMSweb posttest for most struggling adolescent readers](repeated-reading-no-fluency-transfer-adolescents.md) — related
+- [Isolated (bottom-up) vocabulary training was associated with lower comprehension on the transfer text than on the control text](bottom-up-training-lower-comprehension.md) — related

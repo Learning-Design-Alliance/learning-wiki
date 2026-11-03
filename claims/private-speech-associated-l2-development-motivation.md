@@ -53,3 +53,4 @@ Lantolf describes a small-scale self-report study of language students at an Ame
 - The ZPD is falsely equated with Krashen's i+1 and with scaffolding in second language studies — related
 - [Students in the style-informed EFL classes reported that the teaching procedure was useful and that their interests and motivation increased](students-report-increased-motivation-style-informed-elt.md) — related
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
+- [Students reported that analysing authentic TED talks was motivating and that self/peer evaluation of their video-recorded speaking tasks helped them overcome anxiety and track their progress](task-cycle-activities-reported-benefits.md) — related

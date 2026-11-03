@@ -53,3 +53,4 @@ Omnibus ANOVA on posttest scores after 8 treatment sessions; Table 8 prints Betw
 - [On the immediate posttest of explicit L2 knowledge, direct CF and metalinguistic CF with rule explanations outperformed the control group while metalinguistic code CF did not.](cf-type-explicit-short-term-differences.md) — related
 - [CF treatment improved regular past tense performance on both GJT and EIT with large effects](cf-treatment-improves-regular-past-tense-gjt-eit.md) — related
 - [Learners in all three corrective-feedback groups improve irregular past tense performance on both GJT and EIT from pretest to posttests, a within-group gain that does not separate the feedback types](cf-treatment-improves-irregular-past-tense-gjt-eit.md) — related
+- [One-way ANOVA on posttest scores showed a statistically significant difference among the subtitle, no-subtitle, and control groups (F = 84.161, Sig. = .000)](anova-significant-difference-three-groups-vocabulary.md) — related

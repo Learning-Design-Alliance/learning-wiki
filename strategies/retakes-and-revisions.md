@@ -12,7 +12,7 @@ generated:
 # Retakes And Revisions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 8 studies (5 quant-synthesis, 2 causal, 1 review), `q2`–`q4` · 4 of 8 report an effect size
+> **Evidence** · 2 claims (2 for) · 9 studies (5 quant-synthesis, 3 causal, 1 review), `q2`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Retakes and revisions give learners a structured second attempt at demonstrating competence: after an assessment or submitted work, learners receive feedback, engage in targeted remediation, and then retake the assessment or revise the product. The revised result typically replaces the original grade (or the higher of the two), so the final score reflects eventual mastery rather than first-attempt performance.

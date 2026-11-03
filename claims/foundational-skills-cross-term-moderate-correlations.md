@@ -51,3 +51,4 @@ Correlational analysis (Table 3.2) using listwise deletion, computed only on stu
 - [School effectiveness estimates from fall-to-spring versus spring-to-spring growth correlate only moderately to strongly (.399 to .705), below the .90 threshold at which rank orderings diverge in accountability](within-between-year-effectiveness-correlations-below-090.md) — related
 - [CCM-estimated skill profiles showed minor positive correlations with external pre- and post-test scores, ranging from .018 to .495](ccm-external-validation-correlations-pre-post-tests.md) — related
 - [Foundational Skills test scores generally increased across terms and grades, with less growth observed at higher grades](foundational-skills-scores-increase-across-terms-and-grades.md) — related
+- [Teachers' Fall and Spring projections of the same student are strongly correlated within students](fall-spring-projection-correlation.md) — related

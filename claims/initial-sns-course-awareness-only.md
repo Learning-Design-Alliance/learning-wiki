@@ -69,3 +69,4 @@ Open-question data from the same first intervention study: 17% vs. 7% reported p
 - [Adding individual reflection to the SNS safety course produced changes in attitudes and behavior that the collaborative version did not](individual-reflection-improves-attitudes-behavior.md) — related
 - [A parents' information evening improved parents' skills and prompted information-sharing, but reached only a minority of parents](parents-evening-partial-reach.md) — related
 - [School attention to SNS safety positively influences privacy care, which in turn relates to safer pupil behavior](school-attention-privacy-care-mediation.md) — related
+- [The course approach was ineffective for students with a high level of religious addiction, including two students with radical Islam](course-ineffective-high-religious-addiction-students.md) — related

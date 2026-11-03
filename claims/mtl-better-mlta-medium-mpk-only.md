@@ -71,3 +71,4 @@ Same quasi-experiment; Table 4 reports Low-Low post-test Sig. 0.661 and N-Gain S
 - [There is no interaction between learning approach (SSML vs CL) and mathematical prior knowledge (upper, middle, low) on enhancement of MPSA](no-interaction-approach-mpk-mpsa.md) — related
 - [The SSML advantage in MPSA enhancement is significant for middle-MPK students but not for upper- and low-MPK students](ssml-advantage-significant-only-middle-mpk.md) — related
 - [Metacognitive teaching-learning improved students' self-regulated learning more than conventional teaching, overall and at high and medium MPK levels](mtl-improves-srl-overall.md) — related
+- [Overall, students taught fractions with the PMRI approach show significantly better achievement and improvement of mathematics reasoning ability than students taught by conventional learning](pmri-fraction-reasoning-better-than-conventional.md) — related

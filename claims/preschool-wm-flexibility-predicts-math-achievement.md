@@ -61,3 +61,4 @@ Longitudinal SEM study of 175 children assessed at age 5 on six EF measures and 
 - [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — a broader claim this one bears on
 - [Early fine motor skills predict later arithmetic skills in most longitudinal studies, but not when executive functions are controlled](fms-predict-later-arithmetic.md) — related
 - [EF abilities strongly predict pre-academic abilities in preschoolers](efs-predict-preacademic-abilities-preschool.md) — related
+- [An after-school EF/VS intervention improves directly assessed executive function in kindergarten and first-grade children (intent-to-treat)](after-school-intervention-improves-executive-function.md) — related

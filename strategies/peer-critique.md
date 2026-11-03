@@ -13,7 +13,7 @@ generated:
 # Peer Critique
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 11 studies (5 causal, 4 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 4 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 13 studies (7 causal, 4 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 6 of 13 report an effect size
 
 ## Description
 Peer critique is a structured feedback arrangement in which learners review one another's drafts, solutions, or performances against explicit criteria and deliver actionable suggestions for revision. It is carried out through protocols (e.g., gallery walks, "warm/cool" feedback, rubric-guided review) that specify what reviewers look for, how comments are phrased, and how authors respond.

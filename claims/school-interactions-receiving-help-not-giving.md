@@ -49,3 +49,4 @@ In the comparison of interaction frequencies across contexts, the study reports 
 
 - [Students with visual impairments and additional disabilities reported more school social challenges than peers who were only visually impaired](additional-disabilities-more-school-social-challenges.md)
 - [High school students with visual impairments fitted in significantly less and felt significantly less accepted at school than in other contexts](vi-students-fit-in-less-accepted-at-school.md)
+- [Students with visual impairments submitted many job applications but received comparatively few interviews, and securing interviews was a commonly reported challenge](low-interview-to-application-ratio.md) — related

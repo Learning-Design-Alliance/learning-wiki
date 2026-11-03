@@ -12,7 +12,7 @@ generated:
 # Dual Coding Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 16 claims (13 for, 3 mixed) · 13 studies (7 causal, 5 review, 1 qualitative), `q1`–`q3` · 0 of 13 report an effect size · 16 claims rest on one study
+> **Evidence** · 17 claims (14 for, 3 mixed) · 14 studies (8 causal, 5 review, 1 qualitative), `q1`–`q3` · 0 of 14 report an effect size · 17 claims rest on one study
 
 ## Description
 Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems. Learning can improve when instruction coordinates language with meaningful imagery or other visual representation.
@@ -41,6 +41,7 @@ Dual Coding Theory proposes that verbal and nonverbal information can be process
 - [Teaching reading with picture story books improved reading comprehension in first-year Paket B students at PKBM Medaso Kolaka](../claims/picture-story-books-improve-paket-b-reading-comprehension.md) [+W] — attached 2026-11-01 from Roslina (2017), which proposed "Dual coding framework for picture story books in reading".
 - [Comic reading materials improve EFL reading comprehension more than general texts and pictures](../claims/comic-materials-improve-efl-reading-comprehension.md) [+W] — attached 2026-11-02 from Roozafzai (2012), which proposed "Dual Coding Theory explains how visuals support reading comprehension".
 - [Eye-gaze data and verbal reports show complementary effects of the two activity types on integration across representations](../claims/complementary-effects-eye-gaze-verbal-reports.md) [~W]
+- [Intermediate EFL learners who watched BBC World clips with bimodal English subtitles significantly outperformed the no-subtitle and control groups on a vocabulary posttest](../claims/bimodal-subtitles-outperform-vocabulary-posttest.md) [+W] — attached 2026-11-02 from Effat Heidari Sirmandi (2016), which proposed "Dual coding theory as the theoretical basis for bimodal subtitling effects on vocabulary learning".
 
 ## Related Theories
 

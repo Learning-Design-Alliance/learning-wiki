@@ -47,3 +47,4 @@ Paired-samples t-test of the experimental group's (n = 25) pretest and posttest 
 ## Related Claims
 - [Iranian pre-university students taught vocabulary with flash cards significantly outperformed traditionally taught students on a vocabulary posttest](vfc-outperformed-traditional-vocabulary-teaching.md) — related
 - [Traditional vocabulary teaching produced no statistically significant pretest-to-posttest gain in the control group](traditional-teaching-no-significant-vocabulary-gain.md) — related
+- [Both strategies produced gains in vocabulary knowledge over the course of the treatment](both-strategies-improved-vocabulary-knowledge.md) — a broader claim this one bears on

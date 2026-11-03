@@ -49,3 +49,4 @@ Field-note and project observation from the two 15-student classes; the article 
 - [OLC students reported more favorable attitudes toward art and technology, particularly feeling more choice in what they learned](olc-more-favorable-attitudes-choice.md) — related
 - [An online-learning component with peer discussion groups did not significantly raise eighth-grade art project scores compared with face-to-face instruction, though a small practical effect was found](olc-no-significant-art-achievement-difference.md) — related
 - [OLC students showed significantly higher engagement in art than face-to-face students](olc-significantly-higher-engagement.md) — related
+- [Two-dimensioned artistic activities were the most creative and most enjoyed part of the museum education program, letting students express feelings and thoughts](artistic-activities-most-creative-enjoyed.md) — related

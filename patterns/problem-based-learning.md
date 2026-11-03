@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 152 claims (56 for, 84 mixed, 12 against) · 85 studies (32 quant-synthesis, 24 causal, 11 review, 7 theoretical, 6 qualitative, 3 design, 2 associational), `q1`–`q4` · 23 of 85 report an effect size · 147 claims rest on one study
+> **Evidence** · 156 claims (60 for, 84 mixed, 12 against) · 87 studies (32 quant-synthesis, 26 causal, 11 review, 7 theoretical, 6 qualitative, 3 design, 2 associational), `q1`–`q4` · 24 of 87 report an effect size · 151 claims rest on one study
 
 ## Description and scope
 
@@ -146,6 +146,9 @@ The twelve claims listed here before that wave were read against the model on 20
 - [Problem Based Economics improves students' economics problem-solving skills on open-ended performance tasks (effect size 0.27)](../claims/pbe-improves-performance-task-skills.md) [+W] — attached 2026-11-02 from Finkelstein et al. (2011), which proposed "Problem Based Economics unit structure: seven interrelated problem-solving phases with a facilitative teacher"; tests this page's relationship.
 - [PBL produced significantly higher mixtures achievement than teacher-centered traditional instruction in 10th-grade chemistry](../claims/pbl-beats-traditional-mixtures-achievement.md) [+W] — attached 2026-11-02 from Musa Üce (2016), which proposed "PBL unit pattern: real-life ill-structured problem case driving group investigation and laboratory work"; tests this page's relationship.
 - [Tutored problem-based learning through cognition-based tasks significantly increased Iranian intermediate EFL learners' speaking proficiency from pretest to posttest](../claims/pbl-cognition-tasks-increase-speaking-proficiency.md) [+W] — attached 2026-11-02 from Loghman Ansarian et al. (2016), which proposed "PBL tutorial cycle: minimal-information problem presentation, learner questioning, and reflection at completion".
+- [Senior secondary students taught Further Mathematics with problem-based learning scored significantly higher on a post-test teacher-made test than students taught with the traditional method](../claims/pbl-beats-traditional-method-tmt-further-mathematics.md) [+W] — attached 2026-11-02 from Alfred Olufemi Fatade et al. (2013), which proposed "Adopt problem-based learning as an alternative instructional strategy to the traditional method in Further Mathematics classrooms and integrate its philosophy into pre-service teacher preparation"; tests this page's relationship.
+- [Senior secondary students taught Further Mathematics with problem-based learning scored significantly higher on a post-test researcher-designed higher-order test than students taught with the traditional method](../claims/pbl-beats-traditional-method-rdt-further-mathematics.md) [+W] — attached 2026-11-02 from Alfred Olufemi Fatade et al. (2013), which proposed "Adopt problem-based learning as an alternative instructional strategy to the traditional method in Further Mathematics classrooms and integrate its philosophy into pre-service teacher preparation"; tests this page's relationship.
+- [Instructional strategy has a statistically significant main effect on senior secondary students' achievement in algebra, with a large partial eta squared of .136](../claims/treatment-main-effect-algebra-achievement.md) [+W] — attached 2026-11-02 from Ojaleye et al. (2018), which proposed "Integrate the philosophy of problem-based and blended learning into preservice teacher curricula in Nigeria"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -244,6 +247,7 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [Teachers perceived the Teach-First Approach as more focused and a more efficient approach to learning](../claims/teach-first-focused-efficient.md) [-W]
 - [Two aspects of the clinical PBL course drew relatively lower satisfaction: the self-directed-learning role required of students and the appropriateness of practice sites](../claims/lower-satisfaction-self-directed-role-and-practice-site.md) [~W]
 - [The review attributes to a meta-analysis that PBL pharmacy students performed better on midterm (OR = 1.46) and final examinations (OR = 1.60) than traditional-learning students, with no difference in subjective evaluations](../claims/meta-analysis-pbl-pharmacy-exam-performance-advantage.md) [+W]
+- [Both blended learning and problem-based learning produced significantly higher algebra achievement than traditional lecture method, while BL and PBL did not differ significantly](../claims/bl-pbl-outperform-tlm-algebra.md) [+W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

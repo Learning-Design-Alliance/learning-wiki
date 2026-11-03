@@ -57,3 +57,4 @@ Quasi-experimental 2x2 factorial study in two Malaysian secondary schools: 40 ex
 - [Secondary students taught chemistry with computer simulations achieved higher mean scores than students taught with lecture method](computer-simulation-beats-lecture-chemistry-achievement.md) — related
 - [Multimedia-based biology instruction produces higher biology achievement than teacher-centred instruction](mbio-higher-achievement-than-tcbio.md) — related
 - [A six-hats-based training program produces larger achievement gains in Islamic concepts than usual teaching among university students](six-hats-program-improves-islamic-concepts-achievement.md) — related
+- [First-year nursing students taught with virtual simulation and interactive multimedia scored higher on the theoretical exam than the traditionally taught group](virtual-multimedia-higher-theory-scores-nursing.md) — related

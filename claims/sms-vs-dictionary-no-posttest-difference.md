@@ -52,3 +52,4 @@ Independent t-test on immediate post-test scores of 45 non-English-major freshme
 - [The SMS group's vocabulary scores rose significantly from post-test to delayed post-test four weeks later](sms-group-significant-delayed-posttest-gain.md) — related
 - [Vocabulary taught via SMS is retained significantly better in the long term than vocabulary learned with a dictionary](sms-outperforms-dictionary-delayed-retention.md) — related
 - [Chinese EFL students learning vocabulary via daily SMS messages outperformed a paper-based self-regulated group on the immediate posttest after a three-week intervention](sms-vocabulary-posttest-advantage.md) — reports the opposite
+- [No significant difference between SR-set and SU-set groups on the immediate short-term translation test, with the SR group descriptively slightly higher](no-significant-sr-su-difference-immediate-test.md) — related

@@ -12,7 +12,7 @@ generated:
 # Text + Structured Activity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 16 studies (7 quant-synthesis, 5 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 16 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (5 for) · 17 studies (7 quant-synthesis, 6 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 17 report an effect size · 1 claim rests on one study
 
 ## Description
 Students engage with text resources (physical or digital) accompanied by a structured activity designed to ensure active learning and engagement with the material. The text conveys information; the structured activity forces processing of that information — answering questions, applying concepts, annotating, or self-explaining — so that reading does not remain passive. This combination provides instruction in pre-class, in-class, or asynchronous settings, and serves as a low-bandwidth alternative to video-based delivery.

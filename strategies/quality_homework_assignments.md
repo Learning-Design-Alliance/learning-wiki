@@ -12,7 +12,7 @@ generated:
 # Quality Homework Assignments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 16 studies (7 quant-synthesis, 4 causal, 4 review, 1 theoretical), `q1`–`q4` · 6 of 16 report an effect size
+> **Evidence** · 5 claims (5 for) · 17 studies (7 quant-synthesis, 5 causal, 4 review, 1 theoretical), `q1`–`q4` · 6 of 17 report an effect size
 
 ## Description
 Quality homework is purposefully designed out-of-class work that reinforces classroom learning, invites real-world application, and offers enriching experiences — rather than busywork assigned by routine. Effective assignments are meaningful, low-stakes, aligned with explicit learning goals, and designed so learners can complete them independently, often spacing practice over time.

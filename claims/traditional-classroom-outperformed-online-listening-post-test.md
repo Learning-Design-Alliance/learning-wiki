@@ -52,3 +52,5 @@ Quasi-experiment with 44 Syariah and Law Faculty students (22 control, 22 experi
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — reports the opposite
 - [Multimedia application is more effective than conventional media for sixth-semester students' listening comprehension, per a t-test comparison](multimedia-more-effective-than-conventional-media-listening.md) — related
 - [Students in a blended course with weekly WhatsApp-mediated learning activities achieved significantly higher post-test scores than students in a fully in-class control group](whatsapp-blended-achievement-gains.md) — related
+- [Traditionally taught elementary EFL learners significantly outperform web-based learners in structural knowledge](traditional-instruction-outperforms-web-based-structure.md) — related
+- [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in reading comprehension](web-based-instruction-outperforms-traditional-reading.md) — related

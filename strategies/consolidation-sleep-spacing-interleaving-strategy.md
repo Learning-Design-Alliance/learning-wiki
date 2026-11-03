@@ -17,7 +17,7 @@ sources:
 # Optimize consolidation through sufficient sleep, spaced and interleaved study, and rest periods between learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (6 quant-synthesis, 2 causal, 1 review), `q2`–`q4` · 5 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (6 quant-synthesis, 3 causal, 1 review), `q2`–`q4` · 5 of 10 report an effect size
 
 ## Description
 The review holds that consolidation can be optimized for enhanced learning and remembering. "Sleep is the most important means to consolidate, integrate and semanticize memories, which is supposed to generalize memories, foster insight, and create strong schemas." Spacing and interleaving of topics over time are given as reasons for pronounced effects on memory performance, and offline rest periods show consolidation-like effects; the review advises regular breaks with little new information and repeating information on separate days.

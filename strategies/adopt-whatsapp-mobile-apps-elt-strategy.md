@@ -56,6 +56,8 @@ The article closes with recommendations to integrate mobile applications into En
 - [Use WhatsApp as a supportive technology alongside traditional instruction, with careful attention to message timing](whatsapp-as-supportive-technology-strategy.md)
 - [Adopt mobile learning and train faculty to produce mobile-fitted teaching materials](adopt-mobile-learning-train-faculty-strategy.md)
 - [Use WhatsApp mobile learning activities only within a blended course strategy that integrates face-to-face and mobile learning](whatsapp-only-in-blended-course-strategy.md)
+- [Integrate mobile messaging applications such as WhatsApp into the L2 curriculum to promote regular-participation learning communities](integrate-whatsapp-into-l2-curriculum-strategy.md)
+- [Integrate mobile language learning apps into language teaching so students gain additional learning time outside school](mobile-app-additional-learning-time-strategy.md)
 
 ## Examples
 -

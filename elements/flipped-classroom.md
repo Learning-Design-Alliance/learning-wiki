@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 52 claims (27 for, 20 mixed, 5 against) · 31 studies (17 causal, 10 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 11 of 31 report an effect size · 51 claims rest on one study
+> **Evidence** · 53 claims (27 for, 21 mixed, 5 against) · 32 studies (17 causal, 11 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 11 of 32 report an effect size · 52 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -76,6 +76,7 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [The flipped classroom strategy showed a very large effect size on achievement (d = 3) and a large effect size on self-regulated learning skills (d = 0.8)](../claims/fcrs-effect-sizes-achievement-srls.md) [+W]
 - [Students taught by a teacher with no flipped-learning experience showed statistically significant improvements in EFL composition writing proficiency over a 15-week flipped course](../claims/flipped-learning-significant-writing-gains-nfe-group.md) [+W]
 - [The flipped-learning experimental group improved TOEIC scores significantly more than the paper-based control group](../claims/flipped-course-toeic-gain-exceeds-control.md) [+W]
+- [Class size showed no significant relationship with TPR effect sizes in meta-regression](../claims/tpr-class-size-null-meta-regression.md) [~W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

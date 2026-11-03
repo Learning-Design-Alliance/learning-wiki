@@ -17,7 +17,7 @@ sources:
 # Combine written take-home packets, make-and-take workshops, and supervised parent training programs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (5 quant-synthesis), `q3`–`q4` · 3 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (6 quant-synthesis), `q3`–`q4` · 4 of 6 report an effect size
 
 ## Description
 Synthesizing prior parent-involvement research, the authors identify three more effective training forms: "(a) providing written directions with a take-home instructional packet, (b) providing 'make and take' workshops where parents construct materials and practice using them, and (c) providing programs whereby parents receive extensive training and ongoing supervision by school personnel". The study's intervention implemented all three: take-home folders and materials, hands-on practice in training sessions, and ongoing researcher contact via email and weekly surveys.

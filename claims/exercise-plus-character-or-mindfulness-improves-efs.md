@@ -92,3 +92,4 @@ Narrative review noting most aerobic-exercise studies involved adults or single 
 - [Open-skill exercises yield larger executive function benefits than closed-skill exercises for inhibitory control and working memory](open-skill-exercise-larger-ef-benefits.md) — a broader claim this one bears on
 - [Type of PA may moderate acute effects: coordinative exercises outperformed a normal PE lesson of the same intensity](coordinative-exercises-attention-advantage.md) — related
 - [Sport-specific disciplines relate to distinct executive functions: tennis and football with inhibitory control and working memory, with a larger tennis association in males](sport-disciplines-executive-functions-tennis-football.md) — related
+- [A higher study load (three classes plus two sectional classes per week) yields the greatest stamina development, and three classes alone are insufficient for Presidential standards](study-load-three-plus-sectional-classes-stamina.md) — related

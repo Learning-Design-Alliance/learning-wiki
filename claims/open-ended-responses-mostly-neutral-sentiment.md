@@ -53,3 +53,4 @@ Sentiment polarity analysis using Python's TextBlob library on open-ended respon
 - [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — reports the opposite
 - [Teachers who engaged with EducaSim generally viewed it as a positive experience](educasim-positive-teacher-sentiment-254-sessions.md) — related
 - [GPT-generated tutor feedback is predominantly positive or neutral in sentiment](gpt-feedback-predominantly-positive-sentiment.md) — related
+- [Students overwhelmingly reported that animation use positively affected their grammar success, citing permanence, repetition, understanding, interest and participation](students-report-animation-aided-success.md) — related

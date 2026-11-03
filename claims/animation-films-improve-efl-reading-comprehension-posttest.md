@@ -46,3 +46,5 @@ Independent-samples t-test comparing two groups of 30 pre-intermediate EFL learn
 
 ## Related Claims
 - [Genre-based reading instruction produces significantly higher reading posttest scores than traditional instruction for Iranian female high school EFL learners](gbi-outperforms-traditional-reading-instruction-iranian-high-school.md) — related
+- [Traditionally taught elementary EFL learners significantly outperform web-based learners in structural knowledge](traditional-instruction-outperforms-web-based-structure.md) — related
+- [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in reading comprehension](web-based-instruction-outperforms-traditional-reading.md) — related

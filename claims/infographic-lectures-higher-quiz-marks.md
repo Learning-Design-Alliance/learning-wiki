@@ -55,3 +55,4 @@ Quasi-experimental comparison of short quizzes on a 10-point scale after three c
 - [The impact of instructional infographics on classroom interaction differs between scientific-college (IT) and humanistic-college (Business) students](infographic-interaction-effect-differs-by-college.md)
 - [The impact of instructional infographics on information perception does not differ between scientific-college (IT) and humanistic-college (Business) students](infographic-perception-effect-similar-across-colleges.md)
 - [Regression shows a significant relationship between quiz marks and students' perception in both colleges, though far stronger in the IT College (R-square 0.919) than the Business College (R-square 0.226)](infographic-quiz-marks-predict-perception.md)
+- [Using infographics as instructional materials in 10th-grade geography lessons raises academic achievement post-test scores relative to usual materials](infographics-raise-geography-achievement.md) — related

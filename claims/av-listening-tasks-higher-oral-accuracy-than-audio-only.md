@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-02
 sources:
   - id: pooya-drood-hanieh-davatgari-asl-2016
     resource: "https://doi.org/10.5539/elt.v9n9p110"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After five sessions of training, the audio-visual group's post-test accuracy (M=85.88, SD=7.15) was significantly higher than the audio-only group's (M=80.86, SD=3.66), t-test significance 0.008. [→ Pooya Drood & Hanieh Davatgari Asl 2016](#pooya-drood-hanieh-davatgari-asl-2016)
@@ -50,3 +51,4 @@ Independent samples t-test on post-test accuracy (percentage of error-free claus
 - [Video-based listening instruction produced a larger score improvement than audio-based instruction in an Indonesian EFL high-school experiment](video-beats-audio-listening-gain.md) — related
 - [Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported](video-based-tasks-improve-listening-comprehension.md) — related
 - [An audio-visual intervention program produces significantly higher post-test language development, listening comprehension and vocabulary in preschool children than no treatment](av-intervention-improves-preschool-language-development.md) — related
+- [PowerPoint-enhanced teaching (visual input) produced significantly better listening comprehension post-test scores than traditional teaching for Iranian intermediate EFL learners](powerpoint-visual-input-improves-efl-listening-comprehension.md) — related

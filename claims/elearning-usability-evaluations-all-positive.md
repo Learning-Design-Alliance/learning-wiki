@@ -49,3 +49,4 @@ Systematic review of 42 studies; the abstract-level usability finding is corrobo
 - [Participants rated SOPHIE 2.0 as engaging, easy to use, and clinically relevant in a self-service format](sophie2-high-perceived-usability-and-value.md) — a narrower finding that bears on this claim
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](expert-evaluation-realism-and-feedback-awareness.md) — a narrower finding that bears on this claim
 - [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related
+- [Participants reported uniformly positive feedback on the multimedia environmental awareness programme](positive-feedback-multimedia-environmental-awareness-programme.md) — a narrower finding that bears on this claim

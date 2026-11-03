@@ -18,7 +18,7 @@ sources:
 # MyTeachingPartner-Secondary (MTP-S)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 3 studies (2 causal, 1 quant-synthesis), `q3` · 2 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 4 studies (3 causal, 1 quant-synthesis), `q3` · 2 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 MyTeachingPartner–Secondary is a University of Virginia Center for Advanced Study of Teaching and Learning professional-development programme that combines a video library of effective teacher–student interactions with individualized web-based coaching for secondary teachers.
@@ -27,11 +27,13 @@ MyTeachingPartner–Secondary is a University of Virginia Center for Advanced St
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **MyTeachingPartner–Secondary: video library plus web-based individualized coaching for secondary teachers**: MTP-S is a professional development program aiming to increase student learning through improved teacher–student interactions. Teachers access "a video library featuring examples of high-quality interactions" and receive web-based coaching approximately twice per month. It uses the CLASS-S to define and observe effective teaching practices, and is available in a direct teacher support model and a coach support ('train-the-trainer') model. (MyTeachingPartner-Secondary (MTP-S))
 - **CLASS-S organizes effective secondary teaching into three domains of teacher-student interaction**: The Classroom Assessment Scoring System–Secondary (CLASS-S) defines and observes effective teaching practices in MTP-S. Its dimensions are organized into three domains: "(1) Emotional Support", "(2) Classroom Organization", and "(3) Instructional Support", each with named dimensions such as positive climate, behavior management, and quality of feedback. The video library is organized by these CLASS-S dimensions. (MyTeachingPartner-Secondary (MTP-S))
+- **MyTeachingPartner-Secondary (MTP-S) video-based teacher coaching intervention**: MTP-S is a year-long professional development coaching program for secondary teachers that "uses the Classroom Assessment Scoring System-Secondary (CLASS-S) as a framework for guiding video-based interactions between teachers and a highly trained coach." Teachers videotape their focal class, coaches select brief segments tied to CLASS-S dimensions, teachers reflect online, and each cycle ends with a 20–30 minute phone conference, repeated approximately every 6 weeks. (Hafen et al. (2015))
 
 ### Claims
 - [MTP-S showed no statistically significant effect on general achievement during the intervention year](../claims/mtp-s-no-significant-effect-intervention-year.md) [-M]
 - [WWC rates MTP-S as having potentially positive effects on general achievement, with a small extent of evidence](../claims/mtp-s-potentially-positive-general-achievement.md) [+M]
 - [MTP-S produced a positive, statistically significant effect on general achievement in the post-intervention year with a new student cohort](../claims/mtp-s-significant-positive-effect-post-intervention-year.md) [+M]
+- [Participation in MTP-S eliminates the negative association between student disruptive behavior and teacher attainment projections](../claims/mtp-s-eliminates-disruptive-behavior-projection-link.md) [+M]
 
 ## Related Products and Programmes
 
@@ -40,8 +42,8 @@ MyTeachingPartner–Secondary is a University of Virginia Center for Advanced St
 
 ## Key Sources
 - U.S. Department of Education, Institute of Education Sciences, What Works Clearinghouse. (2015, June). Teacher Training, Evaluation, and Compensation intervention report: MyTeachingPartner–Secondary. http://whatworks.ed.gov
-
 <!-- merged 2026-10-10 from elements/mtp-secondary-video-library-coaching-program ("MyTeachingPartner–Secondary: video library plus web-based individualized coaching for secondary teachers"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Hafen, C. A., Ruzek, E. A., Gregory, A., Allen, J. P., & Mikami, A. Y. (2015). Focusing on teacher–student interactions eliminates the negative impact of students’ disruptive behavior on teacher perceptions. International Journal of Behavioral Development. https://doi.org/10.1177/0165025415579455
 
 # MyTeachingPartner–Secondary: video library plus web-based individualized coaching for secondary teachers
 

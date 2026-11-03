@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-02
 sources:
   - id: teke-2015
     resource: "https://eric.ed.gov/?id=EJ1105195"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-test achievement of the simulation-taught experimental group was significantly higher than that of the lecture-taught control group (F=25.160, p<0.05), with Bonferroni correction showing the difference favored the experimental group. [→ Teke 2015](#teke-2015)
@@ -55,3 +56,4 @@ Pretest/post-test control-group quasi-experiment with 35 experimental and 35 con
 - [Seventh graders taught technical education with a hypertext didactic text scored higher on a final didactic test than pupils taught by traditional methods](hypertext-didactic-text-higher-didactic-test-scores-grade-7.md) — related
 - [Simulation-based biology teaching produced significantly higher post-test success scores than traditional teaching methods for education students.](simulation-biology-higher-posttest-success.md) — related
 - [Seventh-grade students taught science with an educational modules strategy significantly outperform conventionally taught students on the direct (immediate) achievement test](modules-strategy-superior-direct-achievement-science.md) — related
+- [A gain- and activity-based web-assisted virtual material produced significantly higher 6th-grade achievement on the 'Systems in our body' unit than usual teaching](web-assisted-virtual-material-achievement-gain.md) — related

@@ -12,7 +12,7 @@ generated:
 # Explicit Phonics Routines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 13 studies (4 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size
+> **Evidence** · 4 claims (4 for) · 14 studies (5 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 4 of 14 report an effect size
 
 ## Description
 Explicit phonics routines are structured, teacher-directed sequences for teaching grapheme–phoneme correspondences and how to blend them into words. A typical routine moves from teacher modeling ("this letter says /m/"), to guided practice with immediate correction, to independent reading and spelling of words containing only taught patterns. Instruction follows a planned scope and sequence from simple to complex, with new content introduced in small steps and previously taught patterns reviewed cumulatively.

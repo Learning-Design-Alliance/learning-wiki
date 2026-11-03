@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 186 claims (135 show a difference, 26 mixed, 25 no difference) · 125 studies (67 causal, 28 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 125 report an effect size · 183 claims rest on one study
+> **Evidence** · 191 claims (139 show a difference, 26 mixed, 26 no difference) · 128 studies (70 causal, 28 associational, 15 quant-synthesis, 10 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 24 of 128 report an effect size · 188 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -227,6 +227,11 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Receptive vocabulary learning benefits from TPRS instruction more than productive learning in very young learners](../claims/tprs-receptive-outperforms-productive-preschoolers.md) [+M] — instruction changes it
 - [Four-year-olds taught L2 vocabulary with TPRS largely retained it on delayed posttests two weeks later, in a single-group study with no control group](../claims/tprs-long-term-vocabulary-retention-preschoolers.md) [+W] — instruction changes it
 - [TPRS treatment produces a short-term effect on very young learners' receptive and productive L2 vocabulary, with immediate posttest means higher than pretests in all weeks](../claims/tprs-short-term-vocabulary-gains-preschoolers.md) [+M] — instruction changes it
+- [Both paper-flashcard and digital-flashcard groups made significant receptive vocabulary gains over a 12-week treatment](../claims/pf-df-significant-rv-gains.md) [+M] — instruction changes it
+- [Both strategies produced gains in vocabulary knowledge over the course of the treatment](../claims/both-strategies-improved-vocabulary-knowledge.md) [+M] — instruction changes it
+- [Gains in receptive and productive vocabulary did not differ significantly between the paper-flashcard-with-VLS group and the digital-flashcard group](../claims/no-significant-difference-pf-vls-vs-df.md) [-M] — instruction changes it
+- [Input Enhancement strategy improved the vocabulary knowledge of Iranian EFL learners over a three-month treatment](../claims/input-enhancement-improves-efl-vocabulary-knowledge.md) [+M] — instruction changes it
+- [WhatsApp-delivered vocabulary instruction produced significantly higher post-test vocabulary scores than traditional classroom instruction among Iranian junior high school EFL learners](../claims/whatsapp-vocabulary-instruction-outperformed-traditional-classroom-instruction.md) [+M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

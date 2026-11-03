@@ -26,7 +26,8 @@ A 30-item, five-point Likert self-report assessment developed by Horwitz et al. 
 - [Explicit affective strategy training significantly raised Iranian EFL learners' level of anxiety control relative to the control group by the end of the study](../claims/affective-strategy-training-raises-anxiety-control.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Foreign Language Listening Anxiety Questionnaire (FLLAQ)](foreign-language-listening-anxiety-questionnaire-fllaq.md)
 
 ## Key Sources
 - Fatemeh Mostafavi, Fereidoon Vahdany. (2016). The Effect of Explicit Affective Strategy Training on Iranian EFL learners' Oral Language Proficiency and Anxiety Reduction. Advances in Language and Literary Studies 7(4). https://doi.org/10.7575/aiac.alls.v.7n.4p.197

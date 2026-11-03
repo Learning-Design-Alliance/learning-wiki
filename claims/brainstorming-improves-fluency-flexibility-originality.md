@@ -54,3 +54,4 @@ Independent-samples T tests on the three creative-thinking subskills in the same
 - [CREATE benefits transfer to a new task on all three creativity components: fluency, flexibility, and originality](create-transfer-effects-all-components.md) — related
 - [Sharing individually generated ideas during the group phase (cognitive group awareness) increases the originality of collaboratively generated ideas](cognitive-group-awareness-raises-group-phase-originality.md) — related
 - [Control group showed no significant total creativity gain, improving significantly only on fluency](control-group-no-total-creativity-gain.md) — related
+- [Blended learning improves the flexibility skill of verbal creative thinking](blended-learning-improves-flexibility-skill.md) — related

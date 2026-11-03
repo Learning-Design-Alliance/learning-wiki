@@ -57,3 +57,4 @@ Affective sub-theme of the multimedia-group interview analysis: "'motivating tow
 - [Students in the multimedia group reported that the tool provided an easy learning environment, concretion and visuality](mbio-students-report-easy-environment-concretion-visuality.md) — related
 - [The teacher and researcher judged the individualized tablet-group students more motivated than the control group, but report this as a subjective opinion](subjective-higher-motivation-individualized-group.md) — related
 - [Students' attitudes toward life made gradual progress across the ten weekly themes of the course](gradual-attitude-progress-across-weekly-themes.md) — related
+- [Students in the Twitter-supported blended course reported positive attitudes at the technological, individual, and community levels of activity theory](twitter-attitudes-three-activity-theory-levels.md) — related

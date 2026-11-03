@@ -70,7 +70,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 5 studies (6 entries) · 4 causal `r1`–`r2`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2`–`i3`
-> **Currency** · newest study 2016 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2016 · 1 of 6 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Comparing Contrasting Cases Improves Learning -->
 
 Learners who compare two or more cases that differ on key features — side by side, with attention directed to what varies and why — learn more than learners who study the same cases one at a time or study a single case (d = .50 across 57 experiments), and transfer the principle more often (48% vs 19% in one negotiation experiment); in one algebra experiment the gain was in procedural knowledge and flexibility, not conceptual knowledge. <!-- deprecated (2026-10-05, overstated for Rittle-Johnson & Star 2007): learn the underlying principles better than learners who study the same cases one at a time. -->
@@ -192,13 +192,15 @@ Experiment 1 of the article; numbers read from the authors' accepted manuscript.
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does comparing analogous cases improve transfer more than studying cases one at a time?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 quant-synthesis, 2 review), `q2`–`q4`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does comparing analogous cases improve transfer more than studying cases one at a time?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **9 distinct studies** (5 causal, 2 quant-synthesis, 2 review), `q2`–`q4`, 3 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Alfieri et al. 2013](https://doi.org/10.1080/00461520.2013.775712) | q4 · quant-synthesis · r? | i2 · medium effect, d=0.50, 95% CI [.44, .56]; i2 · medium effect, d = .50, 95% CI [.44, .56] | this claim; [Presenting multiple cases from different perspectives supports transfer in ill-structured ](cognitive-flexibility-theory-multiple-cases.md) (qualifies) |
 | [Gentner et al. 2003](https://doi.org/10.1037/0022-0663.95.2.393) | q3 · causal · r? | i? | this claim |
+| [Ziegler & Stern 2016](https://doi.org/10.1016/j.learninstruc.2015.09.006) | q3 · causal · r2 | i3 · large effect, d = 1.21 at one day, 0.94 at ten weeks | this claim |
 | [Rittle-Johnson & Star 2007](https://doi.org/10.1037/0022-0663.99.3.561) | q3 · causal · r? | i? | this claim |
+| [Ziegler & Stern 2014](https://doi.org/10.1016/j.learninstruc.2014.04.006) | q3 · causal · r2 | i2 · medium effect, d = 0.46 to 0.76 on transformation tests; i2 · medium effect, d = 0.53 at one week | this claim |
 | [Jacobson & Spiro 1995](https://doi.org/10.2190/4t1b-hbp0-3f7e-j4pn) | q3 · causal · r2 | i? | [Presenting multiple cases from different perspectives supports transfer in ill-structured ](cognitive-flexibility-theory-multiple-cases.md) (qualifies) |
 | [Şenel Elaldı 2016](https://doi.org/10.11114/jets.v4i1.1097) | q2 · quant-synthesis · r2 | i? | [Individually analyzed method and approach studies show widely varying effects, with analog](method-approach-effect-sizes-vary-analogy-largest.md) (supports) |
 | Shavelson 1986 | q2 · review · r2 | i? | [Encoding variability across varied example contexts produces decontextualization supportin](encoding-variability-decontextualization-transfer.md) (supports) |

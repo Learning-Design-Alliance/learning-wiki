@@ -13,7 +13,7 @@ generated:
 # Self Monitoring Checklists
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (4 causal, 4 quant-synthesis, 2 review), `q2`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 11 studies (5 causal, 4 quant-synthesis, 2 review), `q2`–`q4` · 3 of 11 report an effect size
 
 ## Description
 A self monitoring checklist is a structured list of criteria, steps, or comprehension prompts that learners use to evaluate their own work or understanding while a task is in progress. The learner — not the instructor — performs the judgment, comparing current performance against explicit standards and deciding what to adjust. Checklists convert the abstract instruction "check your work" into concrete, observable checkpoints, making them a core tool of [Self-Regulated Learning](../theories/self-regulated-learning.md).

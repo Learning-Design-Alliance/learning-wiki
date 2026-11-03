@@ -13,7 +13,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 43 claims (22 for, 17 mixed, 4 against) · 45 studies (22 causal, 12 review, 5 theoretical, 4 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 9 of 45 report an effect size · 34 claims rest on one study
+> **Evidence** · 43 claims (22 for, 17 mixed, 4 against) · 47 studies (24 causal, 12 review, 5 theoretical, 4 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 11 of 47 report an effect size · 34 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.

@@ -69,3 +69,4 @@ Split-sample models for students in the lower half of baseline achievement estim
 - [SPARK significantly improved early-grade literacy (PALS), with an overall effect of 5.7 scale points (g = .35)](spark-improves-pals-literacy.md) — related
 - [SPARK's literacy benefit was much larger for less-literate students (10.5 PALS points, g = .66), with a significant SPARK-by-baseline interaction](spark-pals-effect-larger-for-less-literate.md) — related
 - [The SPARK program produced a small but statistically significant positive impact on reading achievement of 0.12 standard deviations in a two-year RCT](spark-rct-reading-impact-012-sd.md) — related
+- [After one year of participation, SPARK/MCLP produced a significant 0.12 SD improvement in MAP/MPG reading scores for Cohort 2](spark-mclp-cohort2-one-year-mpg-impact-012sd.md) — related

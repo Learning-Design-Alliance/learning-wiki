@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 89 claims (50 for, 29 mixed, 10 against) · 90 studies (32 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 20 of 90 report an effect size · 76 claims rest on one study
+> **Evidence** · 90 claims (50 for, 30 mixed, 10 against) · 93 studies (35 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 22 of 93 report an effect size · 77 claims rest on one study
 
 ## Conditional relationship
 
@@ -220,6 +220,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [There is a significant difference in effectiveness among inquiry learning Levels 2, 3, and 4 in improving Grade X students' science process skills](../claims/significant-difference-among-inquiry-levels-2-3-4-process-skills.md) [~W]
 - [Prior Nigerian studies on guided inquiry versus conventional teaching report mixed results, with one study finding the conventional method superior](../claims/guided-inquiry-prior-evidence-mixed.md) [~W]
 - [Students taught with structured inquiry report more favourable attitudes and perceptions than conventionally taught students](../claims/structured-inquiry-favourable-student-attitudes-perceptions.md) [+W]
+- [The animation-assisted 5E application produced a significant pre-to-post attitude change in the experimental group while the control group's attitudes did not change](../claims/animation-5e-attitude-change-experimental-only.md) [~W]
 
 ## Related Principles
 

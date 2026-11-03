@@ -18,7 +18,7 @@ sources:
 # Spaced Repetition
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (20 for, 6 mixed) · 21 studies (9 causal, 5 review, 4 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 21 report an effect size · 22 claims rest on one study
+> **Evidence** · 26 claims (20 for, 6 mixed) · 22 studies (10 causal, 5 review, 4 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 22 report an effect size · 22 claims rest on one study
 
 ## Description
 Spaced repetition is the element in which key material is revisited at strategically increasing intervals rather than massed into a single session. It is useful when the aim is durable retention rather than short-term performance.

@@ -12,7 +12,7 @@ generated:
 # Conceptual Change
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 11 studies (5 causal, 4 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 13 studies (7 causal, 4 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 5 of 13 report an effect size · 2 claims rest on one study
 
 ## Description
 Conceptual change instruction targets learners' entrenched intuitive theories — misconceptions that are coherent, functional, and resistant to direct correction. The strategy first makes prior conceptions explicit, then confronts them with evidence or explanations they cannot account for, and finally supports construction of the replacement conception. It is carried out through prediction tasks, contrasting cases, refutational texts, and discussion rather than simple transmission of correct information.

@@ -12,7 +12,7 @@ generated:
 # Sensory Processing and Handwriting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies (4 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 12 studies (5 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 2 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy embeds handwriting instruction in multisensory activities — tracing letters in sand or shaving cream, forming letters from playdough, tracing sandpaper letters, or writing on textured surfaces — so that letter shapes are encoded through tactile, proprioceptive, and visual channels simultaneously. It is typically paired with explicit letter-formation instruction and repeated practice, and is widely used in early childhood and occupational therapy contexts.

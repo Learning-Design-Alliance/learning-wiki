@@ -66,3 +66,4 @@ Quasi-experiment in Moroccan public schools with 109 secondary students in three
 - [Reported benefits of asynchronous e-learning include cost-effectiveness, self-paced learning, flexibility, and immediate feedback](asynchronous-elearning-benefits-nurses.md) — related
 - [Patients generally preferred digital asthma monitoring tools, finding them motivating and usable at their own pace](digital-asthma-tools-patient-preference.md) — related
 - [Most surveyed EFL students want more control over their listening learning, including pace, material, repetition times and physical/emotional state](efl-students-want-more-listening-control.md) — related
+- [Students reacted positively to PowerPoint-enhanced listening lessons, reporting benefits for comprehension and motivation](positive-student-reactions-powerpoint-listening-lessons.md) — related

@@ -48,3 +48,4 @@ Independent samples t-test on speaking post-test scores of 55 female second-grad
 ## Related Claims
 - [In one Iranian study of two high-school EFL classes, the class taught with 21st century skills scored significantly higher in listening than the class taught traditionally](21st-century-skills-improve-listening-efl.md) — related
 - [The zero class hour group and the traditionally taught group made statistically similar listening gains after two months](zero-class-hour-equivalent-to-traditional-listening-gains.md) — related
+- [Traditionally taught elementary EFL learners significantly outperform web-based learners in speaking performance](traditional-instruction-outperforms-web-based-speaking.md) — related

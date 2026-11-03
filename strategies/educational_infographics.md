@@ -61,9 +61,11 @@ Infographics exploit the capacity of the visual channel to carry information in 
 6. Optionally, have learners create their own infographic to demonstrate synthesis ([Demonstration](../elements/demonstration.md) in reverse: learners produce the model).
 
 ## Related Strategies
+
 - [Advance Organizers](../elements/advance-organizers.md) — an infographic can serve as a visual advance organizer presented before instruction
 - [Case Studies](../elements/case-studies.md) — infographics can compress case data for initial analysis
 - [Annotating](../principles/annotating.md) — learner annotation turns a static infographic into an active processing task
+- [Use infographics in geography lessons where visual and information content are given together, especially where achievement and attitudes are low](infographics-for-low-achievement-attitude.md)
 
 ## Examples
 - **[Information is Beautiful](https://informationisbeautiful.net)** — David McCandless's data-journalism infographics; widely used in media literacy and statistics teaching to discuss both insight and visual distortion.

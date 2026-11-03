@@ -12,7 +12,7 @@ generated:
 # Teaching Academic Vocabulary in PBL
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 8 studies (4 causal, 4 quant-synthesis), `q3`–`q4` · 3 of 8 report an effect size
+> **Evidence** · 2 claims (2 for) · 11 studies (7 causal, 4 quant-synthesis), `q3`–`q4` · 5 of 11 report an effect size
 
 ## Description
 In project-based learning (PBL), teaching academic vocabulary means identifying the specialized and high-utility academic words students will need to read, discuss, and produce during a project, then planning deliberate instruction for those words rather than leaving acquisition to incidental exposure. Instruction typically combines explicit teaching of word meanings and morphology, multiple encounters across contexts, and structured opportunities to use the words in authentic project tasks. This is especially consequential for English Language Learners (ELLs), who must build academic language while simultaneously learning content.

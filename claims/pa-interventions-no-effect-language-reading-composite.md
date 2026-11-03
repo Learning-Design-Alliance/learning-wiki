@@ -55,3 +55,4 @@ Random-effect meta-analysis of 31 included studies, split into subgroups of 4 la
 - [Physical activity interventions in childhood show no overall benefit for executive functions or academic achievement](pa-interventions-no-overall-benefit-ef-achievement.md) — a broader claim this one bears on
 - [A significant overall improvement in academic achievement was detected after physical activity programs compared with controls](pa-interventions-improve-overall-academic-achievement.md) — reports the opposite
 - [Across 29 controlled studies, positive overall effects of school-based PA on mathematics performance appear in 45% of studies and neutral effects in 52%, with only one negative subgroup result](pa-interventions-45-percent-positive-math.md) — related
+- [The PA intervention's benefit appeared in mathematics but not significantly in reading outcomes](pa-intervention-more-beneficial-for-mathematics.md) — a narrower finding that bears on this claim

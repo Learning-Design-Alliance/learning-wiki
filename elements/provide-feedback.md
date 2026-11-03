@@ -13,7 +13,7 @@ generated:
 # Provide Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 34 claims (18 for, 13 mixed, 3 against) · 35 studies (9 review, 8 quant-synthesis, 7 causal, 3 associational, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 5 of 35 report an effect size · 29 claims rest on one study
+> **Evidence** · 35 claims (19 for, 13 mixed, 3 against) · 36 studies (9 review, 8 causal, 8 quant-synthesis, 3 associational, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 5 of 36 report an effect size · 30 claims rest on one study
 
 ## Description
 Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.
@@ -81,6 +81,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [The experimental group's grammar scores increased significantly from pretest to posttest after the error correction session](../claims/exp-group-significant-prepost-gain-past-tense.md) [+W] — attached 2026-11-02 from Fulda Karaazmak (2018), which proposed "Remedial grammar error correction session based on errors from a written pretest"; tests this page's relationship.
 - [Learners perceived instructor corrective feedback delivered through Voice Thread as helpful for improving grammar accuracy](../claims/online-instructor-feedback-perceived-helpful.md) [+W]
 - [Direct versus indirect written corrective feedback proved inconclusive: DCF showed five large positive and two negative effects, ICF results were split](../claims/dcf-vs-icf-inconclusive.md) [~W]
+- [Young EFL learners receiving input-providing corrective feedback improve significantly in grammar from pretest to immediate and delayed posttests, with gains retained](../claims/input-providing-group-significant-gains-over-time.md) [+W]
 
 ## The evidence by question
 - *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](../claims/feedback-improves-learning.md) [+S]

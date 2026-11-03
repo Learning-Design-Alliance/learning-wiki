@@ -50,3 +50,6 @@ Questionnaire study using five-point Likert scales (N = 34 per group) measuring 
 - [MI-based instruction significantly improved students' attitudes toward learning English relative to traditional instruction](mi-instruction-improves-attitude-toward-english.md) — related
 - [The experimental group showed significantly more positive attitudes towards learning English than the control group on the post-test attitude scale](e-mind-maps-attitude-posttest-advantage.md) — related
 - [Saudi female secondary EFL students who used Edmodo alongside traditional teaching showed more positive EFL learning attitudes than a control group after six weeks](edmodo-blended-instruction-more-positive-efl-attitudes.md) — related
+- [Students in the Twitter-supported blended course reported positive attitudes at the technological, individual, and community levels of activity theory](twitter-attitudes-three-activity-theory-levels.md) — related
+- [Female master's students in a Twitter-supported blended course achieved higher post-test scores than students in a 100% in-class course](twitter-blended-achievement-gain.md) — related
+- [Students in the Twitter-supported blended course reported more positive attitudes toward the learning process than students in the fully in-class course](twitter-blended-attitude-gain.md) — related

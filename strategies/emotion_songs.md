@@ -12,7 +12,7 @@ generated:
 # Emotion Songs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies (4 causal, 4 review, 3 quant-synthesis), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 12 studies (5 causal, 4 review, 3 quant-synthesis), `q2`–`q4` · 2 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 Emotion songs involve creating or adapting songs — using familiar tunes, original lyrics, or published material — to help learners identify, label, and express feelings. The strategy pairs melodic structure with emotional vocabulary so that affective concepts are encoded through both verbal and musical channels, then reinforced through singing, movement, and discussion.

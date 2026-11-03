@@ -50,3 +50,4 @@ Cluster-randomized trial with schools randomly assigned within municipality; mul
 - [UBC produced no significant effects on children's language, literacy, or socioemotional skills after two years](ubc-no-significant-child-outcomes.md) — related
 - [Preschool classrooms in the validation sample scored lowest on Instructional Support relative to Emotional Support and Classroom Organization](ece-sample-instructional-support-lowest-class-domain.md) — related
 - [Comprehensive teacher induction generated no significant improvements in novice teachers' classroom practices in the first year](comprehensive-induction-no-classroom-practice-gains-first-year.md) — related
+- [ECE PDI participation showed positive but statistically non-significant effects on PreK CLASS Emotional Support, Classroom Organization, and Instructional Support](ece-pdi-class-impacts-non-significant.md) — related

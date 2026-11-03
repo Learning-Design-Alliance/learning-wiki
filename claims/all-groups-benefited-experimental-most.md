@@ -56,3 +56,5 @@ Quasi-experimental study with recast, prompt, and control groups tested before, 
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related
 - [Both structured input and structured output instruction produced durable gains in -ed knowledge maintained over a three-week delayed posttest](structured-input-output-durable-gains.md) — related
 - [Both CALL-based and written-question tasks produce positive effects on EFL grammar learning](both-task-types-improve-grammar-learning.md) — related
+- [Grammar-oriented uptake rates are significantly higher in input-providing and output-prompting feedback classes than in a no-feedback class among young EFL learners](feedback-groups-uptake-exceed-no-feedback-young-efl.md) — related
+- [Output-prompting feedback outperforms input-providing and no-feedback conditions on both immediate and delayed grammar posttests in young EFL learners](output-prompting-outperforms-input-providing-grammar.md) — related

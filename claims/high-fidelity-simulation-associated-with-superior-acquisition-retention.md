@@ -75,3 +75,4 @@ The review reports contradictory individual findings: Zhao et al (2021), Ochoa e
 - [Technology-enhanced simulation may result in superior retention of clinical knowledge and skills compared to traditional teaching methods alone, with durable retention for months to years](simulation-improves-knowledge-retention.md) — related
 - [Residents training on placenta models performed better than residents training on cadavers or only having surgical videos available](placenta-model-residents-performed-better.md) — a narrower finding that bears on this claim
 - [Preoperative mental practice and mental imagery enhance MIS surgical performance](mental-practice-enhances-mis-performance.md) — related
+- [Lecture plus 3D courseware produced significantly better learning results than lecture alone, lecture plus video, and lecture plus image instruction](3d-courseware-superior-learning-results-color-management.md) — a narrower finding that bears on this claim

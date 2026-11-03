@@ -48,6 +48,7 @@ APPEND_ONLY = [
     "sources/authorities.ndjson",
     "retracted.ndjson",
     "log.md",
+    "revisions/*.md",
     "eval/load-bearing/reviewed.ndjson",
     "eval/duplicates/*.ndjson",
     "eval/claim-merges/decisions.ndjson",
@@ -68,6 +69,16 @@ REGENERATE = [
     ["scripts/build_indexes.py"],
     ["scripts/build_evidence_report.py"],
     ["scripts/build_check_report.py"],
+]
+# Lines on a content page that a script writes from the rest of the page: the evidence and
+# currency header lines (add_evidence_summary/_profile, add_currency) and the `generated:`
+# stamp. Two branches that each add a claim to one page both rewrite them, and nothing else
+# on the page need overlap. Blanked on all three sides before merging; rebuilt afterwards.
+HEADER_LINE = re.compile(r"^(> \*\*(?:Evidence|Currency)\*\* · .*|  (?:by|at): .*)$", re.M)
+HEADER_REGENERATE = [
+    ["scripts/add_evidence_summary.py", "--apply"],
+    ["scripts/add_evidence_profile.py", "--apply"],
+    ["scripts/add_currency.py", "--apply"],
 ]
 README_BLOCK = re.compile(r"(<!-- page-counts:start[^\n]*-->).*?(<!-- page-counts:end -->)", re.S)
 
@@ -119,6 +130,39 @@ def merge_readme() -> bool:
     return True
 
 
+def merge_headers(path: str) -> bool:
+    """Merge a content page with its generated header lines blanked on every side. False when
+    anything else on the page conflicts. The blanked lines come back from whichever side was
+    generated later; the header scripts then rebuild the evidence and currency lines."""
+    if not path.endswith(".md") or "/" not in path:
+        return False
+    texts = {k: stage(path, n) for k, n in (("base", 1), ("ours", 2), ("theirs", 3))}
+    blank = lambda s: HEADER_LINE.sub(lambda m: m.group(0).split(" · ")[0].split(":")[0] + " @@merge_main:regenerated@@", s)
+    files = {k: ROOT / f".merge_main.hdr.{k}" for k in texts}
+    try:
+        for k, t in texts.items():
+            files[k].write_text(blank(t))
+        r = git("merge-file", str(files["ours"]), str(files["base"]), str(files["theirs"]), check=False)
+        if r.returncode != 0:
+            return False
+        merged = files["ours"].read_text()
+    finally:
+        for f in files.values():
+            f.unlink(missing_ok=True)
+    at = lambda t: (re.search(r"^  at: (.*)$", t, re.M) or [None, ""])[1]
+    donor = texts["theirs"] if at(texts["theirs"]) >= at(texts["ours"]) else texts["ours"]
+    values = {m.group(0).split(" · ")[0].split(":")[0]: m.group(0) for m in HEADER_LINE.finditer(donor)}
+    for k, t in texts.items():   # a line only one side has
+        for m in HEADER_LINE.finditer(t):
+            values.setdefault(m.group(0).split(" · ")[0].split(":")[0], m.group(0))
+    out = re.sub(r"^(.*) @@merge_main:regenerated@@$", lambda m: values.get(m.group(1), m.group(0)), merged, flags=re.M)
+    if "@@merge_main:regenerated@@" in out:
+        return False
+    (ROOT / path).write_text(out)
+    git("add", "--", path)
+    return True
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     ap.add_argument("--dry-run", action="store_true")
@@ -154,7 +198,7 @@ def main() -> int:
 
     git("merge", "--no-commit", "--no-ff", a.ref, check=False)
     conflicted = [p for p in git("diff", "--name-only", "--diff-filter=U").stdout.splitlines() if p]
-    real, settled = [], []
+    real, settled, headers = [], [], False
     for p in conflicted:
         if matches(p, APPEND_ONLY):
             union(p); settled.append(f"{p} (both sides kept)")
@@ -162,6 +206,8 @@ def main() -> int:
             git("checkout", "--ours", "--", p); git("add", "--", p); settled.append(f"{p} (rebuilt)")
         elif p == "README.md" and merge_readme():
             settled.append("README.md (count block rebuilt)")
+        elif merge_headers(p):
+            headers = True; settled.append(f"{p} (header lines rebuilt)")
         else:
             real.append(p)
     if real:
@@ -171,7 +217,7 @@ def main() -> int:
             print(f"  {p}", file=sys.stderr)
         return 2
 
-    for cmd in REGENERATE:
+    for cmd in (HEADER_REGENERATE if headers else []) + REGENERATE:
         r = subprocess.run([sys.executable, *cmd], cwd=ROOT, capture_output=True, text=True)
         if r.returncode != 0:
             print(f"{' '.join(cmd)} failed; merge left uncommitted:\n{r.stderr[-2000:]}", file=sys.stderr)

@@ -13,7 +13,7 @@ generated:
 # Exit Ticket
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 17 studies (8 quant-synthesis, 5 causal, 3 review, 1 theoretical), `q2`–`q4` · 7 of 17 report an effect size
+> **Evidence** · 6 claims (6 for) · 18 studies (8 quant-synthesis, 6 causal, 3 review, 1 theoretical), `q2`–`q4` · 7 of 18 report an effect size
 
 ## Description
 An exit ticket is a brief assessment activity — typically 1–3 questions or a single prompt — completed by every learner in the final minutes of a lesson and submitted before leaving. It serves two functions simultaneously: it requires learners to retrieve and consolidate the day's content, and it generates rapid evidence the instructor can use to adjust the next lesson.

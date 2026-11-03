@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 310 claims (190 show a difference, 51 mixed, 69 no difference) · 212 studies (80 causal, 52 associational, 36 quant-synthesis, 28 review, 8 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 46 of 212 report an effect size · 301 claims rest on one study
+> **Evidence** · 316 claims (196 show a difference, 51 mixed, 69 no difference) · 216 studies (83 causal, 52 associational, 36 quant-synthesis, 28 review, 8 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 46 of 216 report an effect size · 307 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -361,6 +361,12 @@ What a learner can read without effort, and whether the language of instruction 
 - [Second Life and face-to-face role-play produce no significant difference in ESP linguistic performance for tourism students](../claims/sl-vs-ftf-no-language-difference.md) [-M] — instruction changes it
 - [Second Life role-play interactions show more conversational turns with shorter contributions than face-to-face role-play](../claims/sl-interaction-turn-patterns.md) [~M] — instruction changes it
 - [Vocabulary instruction with the educational marble game produced significantly higher adjusted post-test scores than traditional instruction in a German second-foreign-language course](../claims/marble-game-higher-vocabulary-posttest-than-traditional.md) [+M] — instruction changes it
+- [A 10-week SQ3R-based reading program increased reading comprehension test scores of all seven participating 4th graders with comprehension difficulties](../claims/sq3r-program-increased-comprehension-scores-action-research.md) [+M] — instruction changes it
+- [Both strategies produced gains in vocabulary knowledge over the course of the treatment](../claims/both-strategies-improved-vocabulary-knowledge.md) [+M] — instruction changes it
+- [Input Enhancement strategy improved the vocabulary knowledge of Iranian EFL learners over a three-month treatment](../claims/input-enhancement-improves-efl-vocabulary-knowledge.md) [+M] — instruction changes it
+- [Reading strategies training also improves inferential reading comprehension of elementary-proficiency EFL vocational students](../claims/strategies-training-improves-inferential-comprehension-efl.md) [+M] — instruction changes it
+- [Reading strategies training improves literal reading comprehension of elementary-proficiency EFL vocational students relative to conventional teaching](../claims/strategies-training-improves-literal-comprehension-efl.md) [+M] — instruction changes it
+- [Web-based reading strategy training improved Iranian EFL learners' hypertext reading comprehension from pretest to posttest](../claims/web-based-strategy-training-improved-hypertext-comprehension.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

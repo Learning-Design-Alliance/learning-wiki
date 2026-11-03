@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-02
 sources:
   - id: shiri-2015
     resource: "http://dx.doi.org/10.7575/aiac.alls.v.6n.3p.155"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group (mean 14.76) scored significantly higher than the control group (mean 13.62) on the listening post-test (independent-samples t-test, p = .018). [→ Shiri 2015](#shiri-2015)
@@ -51,3 +52,4 @@ Independent-samples t-test comparing post-test listening scores of the podcast g
 - [Using podcasts as a motivational teaching strategy significantly increased Iranian EFL learners' motivation for listening (ELCMS)](podcasts-increase-listening-motivation-efl.md) — related
 - [The zero class hour group and the traditionally taught group made statistically similar listening gains after two months](zero-class-hour-equivalent-to-traditional-listening-gains.md) — related
 - [Post-test comprehension scores did not differ significantly between the strategy-instruction and skill-based groups despite a higher experimental mean](between-group-posttest-not-significant.md) — related
+- [Mobile podcast-based listening practice reduces EFL learners' listening anxiety more than desktop computer-based practice](mobile-podcasts-reduce-listening-anxiety.md) — related

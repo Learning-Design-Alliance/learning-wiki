@@ -49,3 +49,4 @@ Semi-experimental comparison of the second experimental group (thinking loudly, 
 - [The thinking loudly strategy produced a statistically significant post-test gain in linguistic intelligence over traditional teaching among second middle grade female students](thinking-loudly-improves-linguistic-intelligence.md) — related
 - [The exploration strategy produced statistically significant post-test gains in linguistic intelligence over traditional teaching among second middle grade female students](exploration-strategy-improves-linguistic-intelligence.md) — related
 - [Think–Pair–Share instruction produces a large statistically significant achievement advantage over traditional teaching in third-grade science](tps-large-achievement-advantage-third-grade-science.md) — related
+- [At the start of the school year the two groups differed significantly in three vocabulary learning strategies](pilot-start-of-year-strategy-differences.md) — related

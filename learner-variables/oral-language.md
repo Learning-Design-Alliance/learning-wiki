@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 198 claims (126 show a difference, 37 mixed, 35 no difference) · 132 studies (52 causal, 32 associational, 22 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 37 of 132 report an effect size · 195 claims rest on one study
+> **Evidence** · 201 claims (129 show a difference, 37 mixed, 35 no difference) · 134 studies (54 causal, 32 associational, 22 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 38 of 134 report an effect size · 198 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -235,6 +235,9 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Eleventh-grade students taught with the discourse analysis method showed larger pretest-to-posttest gains in use of language skill than the traditionally taught control group](../claims/discourse-analysis-improves-use-of-language.md) [+M] — instruction changes it
 - [Receptive vocabulary learning benefits from TPRS instruction more than productive learning in very young learners](../claims/tprs-receptive-outperforms-productive-preschoolers.md) [+M] — instruction changes it
 - [Four-year-olds taught L2 vocabulary with TPRS largely retained it on delayed posttests two weeks later, in a single-group study with no control group](../claims/tprs-long-term-vocabulary-retention-preschoolers.md) [+W] — instruction changes it
+- [PowerPoint-enhanced teaching (visual input) produced significantly better listening comprehension post-test scores than traditional teaching for Iranian intermediate EFL learners](../claims/powerpoint-visual-input-improves-efl-listening-comprehension.md) [+M] — instruction changes it
+- [Students reacted positively to PowerPoint-enhanced listening lessons, reporting benefits for comprehension and motivation](../claims/positive-student-reactions-powerpoint-listening-lessons.md) [+W] — instruction changes it
+- [Students reported that analysing authentic TED talks was motivating and that self/peer evaluation of their video-recorded speaking tasks helped them overcome anxiety and track their progress](../claims/task-cycle-activities-reported-benefits.md) [+W] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

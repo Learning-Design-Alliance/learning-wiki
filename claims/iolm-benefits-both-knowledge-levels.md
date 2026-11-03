@@ -53,3 +53,4 @@ Discourse analysis of interaction transcripts from the same LARFLAST user study 
 - [The interactive open learner modelling approach was suitable for dealing with cold start in user-adaptive systems (OWL-OLM trial)](iolm-suitable-for-cold-start.md) — related
 - [Interactive open learner modelling can foster reflective thinking](iolm-fosters-reflective-thinking.md) — a broader claim this one bears on
 - [An evaluative study of STyLE-OLM shows the IOLM approach can improve the quality of the learner model](iolm-improves-learner-model-quality.md) — a broader claim this one bears on
+- [Using learning styles for differentiated instruction is problematic and not advisable to spend much teaching time on](learning-styles-problematic-for-di.md) — related

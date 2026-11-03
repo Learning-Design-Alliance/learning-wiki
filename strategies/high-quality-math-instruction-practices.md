@@ -42,6 +42,7 @@ The report recommends that teachers, supported by well-designed curricular mater
 
 - [Design summer programs with purposeful curriculum, stable staff, and cultural relevance, sustained over multiple summers](multi-summer-high-quality-summer-programs.md)
 - [Embed discussion and high-quality explanations within explicit, step-by-step mathematics instruction](embed-discussion-within-explicit-math-instruction.md)
+- [Promote reflective abstraction through instructor, peer, and curricular agents of change in mathematics teaching](promote-reflective-abstraction-agents-of-change-strategy.md)
 
 ## Examples
 -

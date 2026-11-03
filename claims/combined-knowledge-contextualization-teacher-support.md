@@ -47,3 +47,4 @@ Post hoc Bonferroni tests following the combined-knowledge ANOVA [F(3, 147)= 12,
 ## Related Claims
 - [Ninth-graders learning logic with contextualized courseware plus teacher support achieved higher conceptual knowledge than courseware-only or teacher-only groups](teacher-supported-contextualized-courseware-conceptual-logic.md) — a narrower finding that bears on this claim
 - [On procedural knowledge of logic, the multiple-context courseware with teacher support outperformed teacher-only instruction, while the context-courseware groups performed similarly](procedural-knowledge-multiple-context-teacher-support.md) — a narrower finding that bears on this claim
+- [Combined teacher-plus-software instruction significantly outperformed software alone on pronunciation performance](combined-instruction-beats-software-alone.md) — related

@@ -12,7 +12,7 @@ generated:
 # Text Talk Interactive Read Aloud
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 causal, 1 theoretical), `q2`–`q4` · 3 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 8 studies (4 causal, 3 quant-synthesis, 1 theoretical), `q2`–`q4` · 5 of 8 report an effect size
 
 ## Description
 Text Talk is an interactive read-aloud approach developed by Beck and McKeown in which the teacher reads a rich, above-grade-level text aloud to young children and pauses at strategic points to ask open-ended, meaning-focused questions. Unlike typical read-alouds that lean on pictures, Text Talk deliberately delays showing illustrations until after children have constructed meaning from the language itself, and it follows up with explicit vocabulary instruction on words drawn from the story.

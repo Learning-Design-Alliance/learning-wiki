@@ -53,3 +53,4 @@ Study of 60 clinical students randomised across traditional instruction, hand-he
 - [Simulation training improves fundus identification rate and time compared with simulated-patient-only training in a randomised trial](wu-3d-printed-eye-model-improves-fundus-identification.md) — related
 - [Simulation with patient-specific 3D-printed teeth improved crown preparation quality versus traditional patient care](3d-printed-teeth-simulation-crown-preparation.md) — related
 - [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](simulation-crossover-22-percent-increase-critically-unwell.md) — related
+- [Lecture plus 3D courseware produced significantly better learning results than lecture alone, lecture plus video, and lecture plus image instruction](3d-courseware-superior-learning-results-color-management.md) — a narrower finding that bears on this claim

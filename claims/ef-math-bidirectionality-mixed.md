@@ -50,3 +50,4 @@ The review reports, citing Coolen et al. (2021), that "only EF surviving as a pr
 - [Executive functioning and early numeracy skills assessed in kindergarten directly predict mathematical performance in second grade, jointly explaining 57.3% of its variance](ef-and-early-numeracy-directly-predict-grade-2-math.md) — related
 - [Evidence for integrated EF–mathematics interventions is growing but mixed](integrated-ef-math-interventions-mixed-evidence.md) — related
 - [An integrated EF and mathematics intervention improves overall early numeracy in four-year-olds more than practice as usual](integrated-ef-math-intervention-improves-numeracy.md) — related
+- [An after-school EF/VS intervention improves directly assessed executive function in kindergarten and first-grade children (intent-to-treat)](after-school-intervention-improves-executive-function.md) — related

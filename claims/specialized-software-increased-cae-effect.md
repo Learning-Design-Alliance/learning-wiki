@@ -48,3 +48,4 @@ Authors' discussion statement about the moderator 'usage of specialized software
 ## Related Claims
 - [RM-CC5 usage metrics correlated positively with achievement, and together accounted for an additional 7.3% of variance in Grade 5 scores beyond prior achievement, though causality and relative contributions could not be inferred](rm-cc5-usage-metrics-achievement-correlation.md) — related
 - [Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding](prior-cross-sectional-platform-usage-achievement-link.md) — related
+- [The authors conclude educational software and computer-assisted instruction contribute to a significant increase of educational efficiency](educational-software-increases-teaching-efficiency.md) — related

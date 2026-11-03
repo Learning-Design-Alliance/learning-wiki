@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 149 claims (79 for, 60 mixed, 10 against) · 127 studies (52 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 15 of 127 report an effect size · 148 claims rest on one study
+> **Evidence** · 154 claims (82 for, 62 mixed, 10 against) · 132 studies (57 causal, 24 review, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 15 of 132 report an effect size · 153 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -184,6 +184,11 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Vocational students taught with JiTT through web technologies showed significantly higher writing ability than conventionally taught students at the .01 level](../claims/jitt-web-writing-ability-significant.md) [~W]
 - [Vocational students taught with JiTT through web technologies showed significantly more positive attitudes toward English learning than control students](../claims/jitt-web-attitudes-significant.md) [+W]
 - [iPad-using students reported higher satisfaction that the set activities enhanced their learning, confidence and understanding than control-group students](../claims/ipad-higher-perceived-learning-confidence.md) [+W]
+- [The type of educational software matters: heterogeneous technology effects are not solely a product of context](../claims/software-type-matters-holding-context-constant.md) [~W]
+- [Use of the educational software during the experimental stage produced better worksheet grades for the experimental group, with the gap widening from Worksheet 1 to Worksheet 2](../claims/worksheet-grades-favor-software-group.md) [+W]
+- [Instructional software alone significantly improved learners' attitudes towards pronunciation](../claims/software-improves-pronunciation-attitudes.md) [+W]
+- [Participants held positive attitudes toward Web-based reading strategy instruction](../claims/positive-attitudes-toward-web-based-strategy-instruction.md) [+W]
+- [Both paper-flashcard and digital-flashcard groups made significant productive vocabulary gains over the 12-week treatment](../claims/pf-df-significant-pv-gains.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

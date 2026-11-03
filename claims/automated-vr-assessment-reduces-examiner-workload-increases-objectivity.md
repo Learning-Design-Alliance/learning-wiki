@@ -49,3 +49,4 @@ Authors' discussion-level argument, not a tested result. The review proposes tha
 - [Most VR assessments occur at Miller's performance level, with the action level absent](vr-assessments-mostly-performance-level-miller.md) — related
 - [VR is implemented both as an automated independent assessment tool and as a supporting tool evaluated by human examiners](vr-automated-versus-supporting-assessment-implementation.md) — related
 - [OSCE appears to be an appropriate examination format little influenced by external factors such as examiner background or time of day](osce-appropriate-format-little-influenced-by-external-factors.md)
+- [Virtual and traditionally taught nursing groups showed no significant difference in practical skills measured by OSCE](osce-no-difference-virtual-traditional-nursing.md) — related

@@ -61,3 +61,4 @@ Independent-samples t-test on pre-test scores of the two groups (43 each). The a
 - [The two groups did not differ significantly in listening ability at pretest, supporting group homogeneity](pretest-homogeneity-listening-groups.md) — related
 - [Control and experimental groups did not differ significantly on phonological memory measures at pre-test](time1-groups-equivalent-pm-tests.md) — possibly the same claim (merge candidate)
 - [Experimental and control groups showed no significant pre-test difference before the intervention](cct-pretest-equivalence.md) — related
+- [Before treatment, the experimental and control groups were equivalent on both achievement and attitude](pretest-equivalence-achievement-attitude.md) — a broader claim this one bears on

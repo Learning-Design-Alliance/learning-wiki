@@ -105,3 +105,5 @@ Ngo et al. (2024) support the general claim that ASR practice improves pronuncia
 - [The control group showed no significant improvement in pronunciation accuracy without instruction or monitor training](control-group-no-pronunciation-improvement.md) — related
 - [Third-grade EFL students taught pronunciation with ASR software significantly outperformed peers taught with regular instruction](asr-outperforms-regular-pronunciation-instruction.md) — related
 - [One month of playing the digital information gap game PàN produced no statistically significant improvement in FSL learners' comprehensibility, fluency, or overall pronunciation](pan-game-no-significant-pronunciation-gains.md) — related
+- [Combined teacher-plus-software instruction significantly outperformed software alone on pronunciation performance](combined-instruction-beats-software-alone.md) — related
+- [Instructional software alone significantly improved general pronunciation quality over two weeks for young Chinese EFL learners](software-alone-improves-pronunciation-young-efl.md) — related

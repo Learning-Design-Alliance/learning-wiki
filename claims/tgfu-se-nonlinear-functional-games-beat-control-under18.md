@@ -76,3 +76,4 @@ Same under-18 primary NMA: "Nonlinear ranked second (P-score = 0.812; SMD = 1.24
 - [The treatment ordering is sensitive to outcome definition, participant age, and individual studies, including the reconstructed Orangi effect](ranking-sensitive-to-outcome-age-and-studies.md) — related
 - [Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.](teaching-games-for-understanding-improves-tactical-decision-making.md) — related
 - [TGfU studies generally report positive results for game performance and understanding, but reveal weaknesses in the social domain relative to other models](tgfu-positive-results-with-social-domain-weakness.md)
+- [The game-like method is more favourable than the traditional method for developing strength (pull-ups)](game-like-method-favors-strength.md) — a narrower finding that bears on this claim

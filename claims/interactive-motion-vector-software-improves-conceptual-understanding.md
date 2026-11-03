@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-02
 sources:
   - id: mohd-jasmy-abd-rahman-2014
     resource: "https://doi.org/10.5539/ies.v7n13p14"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Post-test conceptual understanding was significantly higher for the experimental group (mean 81.350) than the control group (mean 61.595), t = 10.67, p = 0.01. [→ Mohd. Jasmy Abd Rahman 2014](#mohd-jasmy-abd-rahman-2014)
@@ -73,3 +74,5 @@ Paired comparison within the experimental group: pre-test mean 39.815, post-test
 - [ISIA students gained significantly more conceptual understanding of forces and motion than conventional-instruction peers](isia-greater-conceptual-understanding-gains.md) — related
 - [First-year university students studying projectile motion with a Mathematica program achieve higher post-test scores than students using a projectile motion experiment set](mathematica-program-higher-projectile-achievement.md) — related
 - [The experimental class XI AP1 averaged 90 on the posttest after using the media, versus 79.7 for control class XI AP2](corel-videostudio-posttest-experimental-90-control-79-7.md) — related
+- [Computer assisted instruction with Derive reduced misconceptions and raised understanding across all six derivative attainments](derive-instruction-reduces-derivative-misconceptions.md) — a narrower finding that bears on this claim
+- [Twelfth-grade students taught Access databases with Moodle-based educational software obtained significantly higher final-test grades than a comparable control class](moodle-access-software-higher-final-test-grades.md) — related

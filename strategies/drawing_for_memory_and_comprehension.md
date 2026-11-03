@@ -12,7 +12,7 @@ generated:
 # Drawing for Memory and Comprehension
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
+> **Evidence** · 3 claims (3 for) · 13 studies (5 causal, 5 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 13 report an effect size
 
 ## Description
 Drawing asks learners to construct a pictorial representation of content they are trying to learn — a diagram, sketch, or illustration of a concept, process, or text. The act of drawing requires learners to select key information, organize it spatially, and translate verbal material into visual form, producing deeper processing than rereading or copying. It is a generative learning activity: the learner, not the instructor, produces the external representation.

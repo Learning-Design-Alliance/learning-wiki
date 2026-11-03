@@ -17,7 +17,7 @@ sources:
 # Contrasting cases with a synthesis (inventing principles) task to develop perceptual differentiation of discussion features
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 3 claims (3 for) · 4 studies (3 causal, 1 quant-synthesis), `q2`–`q4` · 2 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 6 studies (5 causal, 1 quant-synthesis), `q2`–`q4` · 4 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 The instructional approach uses "juxtaposed examples that are chosen to highlight distinctive features or relationships", with most features held constant so key differences stand out. Learners synthesize across multiple cases by inventing guiding principles, in line with Schwartz and Martin's (2004) approach, so that differentiation of stimuli and of principles reinforce each other and support transfer. The activity prepares learners for an expert recap, creating "a time-for-telling".

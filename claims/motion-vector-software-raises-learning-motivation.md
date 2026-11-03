@@ -53,3 +53,4 @@ Quasi-experiment motivation measure: pre-test means nearly equal (3.05 vs 3.03, 
 - [Form Six students taught graph functions with Geometer's Sketchpad scored significantly higher on the post-test achievement measure than students taught by chalk and talk](gsp-post-test-achievement-significant.md) — related
 - [OER-based blended learning with Quipper School raised grade XI physics students' attention motivation significantly higher than face-to-face classroom learning](oer-blended-quipper-attention-motivation.md) — related
 - [Students taught with experiments perceived less cognitive load than students taught by traditional method](experiment-method-lower-perceived-cognitive-load.md) — related
+- [Computer assisted instruction with Derive reduced misconceptions and raised understanding across all six derivative attainments](derive-instruction-reduces-derivative-misconceptions.md) — related

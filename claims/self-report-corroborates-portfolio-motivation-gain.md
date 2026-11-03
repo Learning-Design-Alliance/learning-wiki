@@ -46,3 +46,4 @@ Self-report assessment administered to increase the credibility of the motivatio
 
 ## Related Claims
 - [Portfolio-based instruction raises EFL learners' motivation in reading comprehension courses](portfolio-assessment-raises-efl-motivation.md) — possibly the same claim (merge candidate)
+- [Students' questionnaire responses attribute listening improvement to the demands of interpreting tasks, corroborating the quantitative gains](student-questionnaires-corroborate-listening-gains.md) — related

@@ -12,7 +12,7 @@ generated:
 # Dynamically Introduce Academic Vocabulary
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 13 studies (6 quant-synthesis, 4 causal, 3 review), `q2`–`q4` · 4 of 13 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 14 studies (6 quant-synthesis, 5 causal, 3 review), `q2`–`q4` · 4 of 14 report an effect size
 
 ## Description
 Rather than presenting academic vocabulary as static lists to memorize, this strategy introduces target words through dynamic, contextualized encounters: a memorable story, a vivid example, or a humorous personal anecdote at first exposure, followed by repeated meetings with the word across varied authentic contexts — discussion, reading, writing, and application tasks. Each encounter adds nuance to the learner's understanding, so the definition is internalized as a usable tool rather than recited as a string.

@@ -45,6 +45,7 @@ In light of the study's results, the researchers recommend that education stakeh
 ## Related Strategies
 
 - [Train teachers to prepare and use computerized educational packages and establish supervised Arabic educational websites](teacher-training-computerized-packages-strategy.md)
+- [Adopt blended learning for Arabic language teaching with teacher training and computerized curriculum materials](adopt-blended-learning-arabic-with-teacher-training.md)
 
 ## Examples
 -

@@ -36,6 +36,7 @@ A nationally representative longitudinal education dataset collected and maintai
 ## Related Products and Programmes
 
 - [ELS:2002 longitudinal database](els2002-longitudinal-database.md)
+- [National Early Intervention Longitudinal Study (NEILS) data set](national-early-intervention-longitudinal-study-neils-data-set.md)
 
 ## Key Sources
 - James Soland. (2017). Combining Academic, Noncognitive, and College Knowledge Measures to Identify Students Not on Track For College: A Data-Driven Approach. Research & Practice in Assessment, Volume Twelve, Summer 2017. https://rpajournal.com

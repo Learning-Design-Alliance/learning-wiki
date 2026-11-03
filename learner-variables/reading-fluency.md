@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 124 claims (80 show a difference, 25 mixed, 19 no difference) · 77 studies (36 causal, 17 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 18 of 77 report an effect size · 123 claims rest on one study
+> **Evidence** · 125 claims (81 show a difference, 25 mixed, 19 no difference) · 78 studies (37 causal, 17 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 18 of 78 report an effect size · 124 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -164,6 +164,7 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Post-training reading speed differs significantly between the trained and untrained groups, which did not differ before training](../claims/between-group-speed-difference-post-training.md) [+M] — instruction changes it
 - [The trained test group's average reading speed rose 39 percent, from 73.6 to 102.3 wpm, while the control group's stayed near 75 wpm](../claims/wpm-gain-39-percent-vision-span.md) [+M] — instruction changes it
 - [Training in expansion of vision span significantly increases the reading speed of EFL undergraduates from pre-test to post-test](../claims/vision-span-training-increases-efl-reading-speed.md) [+M] — instruction changes it
+- [In Experiment 2 the two classes differed significantly in transfer-text reading speed, with Class 2 faster than Class 1](../claims/class-difference-reading-speed-experiment-2.md) [+M] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

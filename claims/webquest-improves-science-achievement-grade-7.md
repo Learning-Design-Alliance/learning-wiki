@@ -53,3 +53,5 @@ Quasi-experimental pre-test/post-test study with control group; 49 7th graders (
 - [WebQuest instruction shows no significant immediate effect on ninth-grade mathematics achievement at posttest](webquests-no-immediate-achievement-effect.md) — reports the opposite
 - [Smart board-supported teaching of the 7th-grade unit 'electricity in our lives' produced higher post-test achievement than the 2005 Science and Technology curriculum](smart-board-higher-posttest-achievement-electricity-unit.md) — related
 - [Using a WebQuest significantly enhances 4th graders' spiritual intelligence in favor of the experimental group](webquest-enhances-spiritual-intelligence-experimental.md) — related
+- [No significant association was found between students' achievement and their attitudes toward the science lesson in either group](no-achievement-attitude-correlation.md) — related
+- [A gain- and activity-based web-assisted virtual material produced significantly higher 6th-grade achievement on the 'Systems in our body' unit than usual teaching](web-assisted-virtual-material-achievement-gain.md) — related

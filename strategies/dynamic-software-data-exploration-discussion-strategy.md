@@ -44,7 +44,8 @@ The article recommends that technology be used not merely to compute numbers but
 - [Form Four students taught statistical reasoning with Fathom outperformed control-group students on posttest statistical reasoning scores after controlling for pretest](../claims/fathom-instruction-improves-statistical-reasoning-form-four.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Equip classrooms with visualization software such as CAS and DGS so students construct their own knowledge of hard concepts](cas-visualization-classrooms-for-hard-concepts.md)
 
 ## Examples
 -

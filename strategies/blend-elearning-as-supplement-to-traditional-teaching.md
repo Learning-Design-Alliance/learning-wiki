@@ -55,6 +55,8 @@ The review's design recommendation is that educators should not seek to replace 
 - [Accompany blended learning activities with immediate formative feedback and mode-appropriate activity variety](immediate-feedback-activity-variety-blended.md)
 - [Use WhatsApp mobile learning activities only within a blended course strategy that integrates face-to-face and mobile learning](whatsapp-only-in-blended-course-strategy.md)
 - [Use SMS as a complementary device for vocabulary instruction and assessment, including reciprocal testing](sms-complementary-vocabulary-instruction-strategy.md)
+- [Advise teachers to use Twitter learning activities in blended courses integrating face-to-face and online discussion](advise-twitter-activities-blended-courses.md)
+- [Blend web-based and traditional approaches rather than replacing classroom instruction with web-based instruction](amalgamate-web-based-and-traditional-approaches.md)
 
 ## Examples
 -

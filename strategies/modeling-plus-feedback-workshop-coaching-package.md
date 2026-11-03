@@ -48,6 +48,7 @@ The article recommends training that includes modeling (in-person or video demon
 ## Related Strategies
 
 - [Instructional Coaching](instructional-coaching.md)
+- [Provide coaching and performance feedback to teachers after initial training to sustain knowledge and skills](post-training-coaching-and-performance-feedback.md)
 
 ## Examples
 -

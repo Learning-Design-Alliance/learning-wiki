@@ -43,6 +43,7 @@ Rather than hiring external tutors or adding after-school programming, the Once 
 - [Integrate tutoring into the regular school day rather than scheduling it outside instructional time](integrate-tutoring-into-regular-school-day.md)
 - [Embed near-peer members within established community youth-serving organizations during extended-day hours rather than creating parallel systems](embed-members-in-community-partners-extended-day.md)
 - [Staff online tutoring with experienced, highly qualified classroom teachers and provide training in literacy, trauma-informed teaching, and remote instruction](hoot-reading-tutor-qualification-and-training-strategy.md)
+- [Use existing after-school programs with paraprofessional staff as a scalable setting for foundational-skills interventions](after-school-context-for-foundational-skills-intervention.md)
 
 ## Examples
 -

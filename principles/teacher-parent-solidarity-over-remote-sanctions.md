@@ -18,7 +18,7 @@ sources:
 # Strengthen ties between teachers and parents rather than pressing for remote sanctions behind teaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (22 for, 7 mixed) · 23 studies (8 causal, 5 review, 4 quant-synthesis, 4 associational, 2 qualitative), `q1`–`q4` · 8 of 23 report an effect size · 25 claims rest on one study
+> **Evidence** · 29 claims (22 for, 7 mixed) · 24 studies (8 causal, 5 quant-synthesis, 5 review, 4 associational, 2 qualitative), `q1`–`q4` · 9 of 24 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 

@@ -48,3 +48,4 @@ Descriptive analysis of standard deviations across the three groups on the writt
 ## Related Claims
 - [Differentiated instruction reduced the experimental group's score standard deviation (6.30 to 4.73) while the control group's stayed nearly unchanged (6.44 to 6.47)](di-reduced-classroom-diversity-sd.md) — related
 - [Post-test scores were more consistent (lower standard deviation) in the teaching-aids groups than in the control groups on both measures](teaching-aids-lower-post-test-variability.md) — related
+- [The treatment did not level out inter-subject differences and made the treatment group more diverse in second conditional performance](treatment-increased-inter-subject-variation.md) — reports the opposite

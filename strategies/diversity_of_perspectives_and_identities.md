@@ -12,7 +12,7 @@ generated:
 # Diversity of Perspectives and Identities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (4 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 3 of 7 report an effect size
 
 ## Description
 This strategy deliberately incorporates diverse voices, identities, experiences, and epistemologies into curriculum content, materials, examples, and discussion. It goes beyond representation: learners compare and reason across differing perspectives, treating diversity itself as an intellectual resource rather than a demographic fact.

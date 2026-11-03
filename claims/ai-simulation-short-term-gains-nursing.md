@@ -76,3 +76,4 @@ Design-tier stratification of the review's included studies: 3 RCTs assessed wit
 - [Direct comparisons find simulated patients as effective as real patients for CST outcomes](sp-equivalent-to-real-patients-cst.md) — related
 - [Evidence on simulated patients versus peer role play is mixed: equal competence in one randomised trial, higher skills and satisfaction for SPs in others](sp-versus-peer-role-play-mixed.md) — related
 - [Video feedback intervention is associated with increased self-efficacy in athletic training students learning a psychomotor competency skill, with significant pairwise differences only between trials spanning the intervention](video-feedback-increases-self-efficacy-psychomotor-skill.md) — related
+- [Virtual and traditionally taught nursing groups showed no significant difference in practical skills measured by OSCE](osce-no-difference-virtual-traditional-nursing.md) — related

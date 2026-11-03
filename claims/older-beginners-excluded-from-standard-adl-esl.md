@@ -57,3 +57,4 @@ The author's practitioner analysis of federally-funded adult education and commu
 - US federal adult education funding structures (AEFLA and Title I) are fragmented and lack purchasing leverage, making scale difficult for ed-tech entrepreneurs — related
 - [Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content](students-report-routines-help-and-rushed-pacing-hurts.md) — related
 - WIOA requires integration of technology and digital skills into federally funded adult education programs, positioning entrepreneurs to capitalize on the mandate — related
+- [The authors tentatively suggest fast-paced reading may potentially improve reading comprehension for adult ESL learners](fast-paced-reading-may-improve-comprehension.md) — related

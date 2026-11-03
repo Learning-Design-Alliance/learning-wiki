@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (27 for, 18 mixed, 3 against) · 55 studies (28 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 55 report an effect size · 37 claims rest on one study
+> **Evidence** · 49 claims (28 for, 18 mixed, 3 against) · 56 studies (29 causal, 11 review, 9 quant-synthesis, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 15 of 56 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,7 @@ Claims on neighbouring questions, found while rewriting this page. Each is cited
 - [The group taught to design graphic organisers (Experimental group B) scored statistically higher than both the prepared-organiser group and the control group](../claims/design-your-own-organiser-group-outperformed.md) [+W] — attached 2026-11-02 from Josiah Owolabi et al. (2015), which proposed "Use graphic organisers, and prefer having students design their own, when teaching algebraic word problems"; tests this page's relationship.
 - [Concept mapping as a post-reading strategy significantly improves EFL learners' critical thinking ability](../claims/concept-mapping-improves-efl-critical-thinking.md) [+W] — attached 2026-11-02 from Khodadady et al. (2011), which proposed "Integrate concept mapping regularly in EFL reading classes as a post-reading or brainstorming tool"; tests this page's relationship.
 - [A semantic-mapping treatment produced a significantly larger vocabulary size than the control group at post-test in Turkish undergraduate EFL learners](../claims/semantic-mapping-treatment-larger-vocabulary-size-posttest.md) [+W] — attached 2026-11-02 from Mehmet ALTAY (2017), which proposed "Facilitate learner-produced semantic mapping with teacher monitoring and supplementary lexical databases rather than leaving learners alone"; tests this page's relationship.
+- [Paper-and-pencil concept mapping at the pre-writing stage significantly improved EFL students' argumentative essay performance across five writing aspects](../claims/concept-mapping-prewriting-improves-efl-argumentative-essays.md) [+W] — attached 2026-11-02 from Al-Shaer (2014), which proposed "Two-stage pre-writing mapping: idea map for generation followed by hierarchical concept map for classification"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

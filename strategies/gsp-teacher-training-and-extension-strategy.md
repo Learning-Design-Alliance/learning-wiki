@@ -50,6 +50,7 @@ The article's recommendations for mathematics teachers, teacher-training institu
 - [Use dynamic mathematics software with guided discovery for math topics students find difficult](dynamic-software-guided-discovery-difficult-topics.md)
 - [Sustained, rigorous, relevant technology-centered PD with school-district support, collaborative facilitation, and lesson-plan sharing to promote faithful implementation](sustained-collaborative-dg-pd-design.md)
 - [Integrate mathematics content with the context of teaching in methods courses, sequencing content before pedagogy](content-before-pedagogy-methods-course-strategy.md)
+- [Equip classrooms with visualization software such as CAS and DGS so students construct their own knowledge of hard concepts](cas-visualization-classrooms-for-hard-concepts.md)
 
 ## Examples
 -

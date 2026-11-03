@@ -56,3 +56,8 @@ Quasi-experiment at KAU Community College: two parallel classes taught by routin
 - [Traditional classroom listening instruction produced significantly higher post-test achievement than online learning after one month](traditional-classroom-outperformed-online-listening-post-test.md) — related
 - [Tertiary EFL students whose instruction was supplemented with Facebook tasks showed almost double the average test improvement of a traditionally taught comparison group over one semester](facebook-supplemented-efl-larger-average-improvement.md) — related
 - [University students in a blended learning German course showed significantly greater achievement gains than students in a traditional face-to-face course over 10 weeks](blended-learning-greater-german-achievement-gains.md) — related
+- [Blended learning develops fifth graders' verbal creative thinking more than traditional instruction](blended-learning-develops-verbal-creative-thinking.md) — related
+- [Traditionally taught elementary EFL learners significantly outperform web-based learners in structural knowledge](traditional-instruction-outperforms-web-based-structure.md) — related
+- [Female master's students in a Twitter-supported blended course achieved higher post-test scores than students in a 100% in-class course](twitter-blended-achievement-gain.md) — related
+- [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in reading comprehension](web-based-instruction-outperforms-traditional-reading.md) — related
+- [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in writing](web-based-instruction-outperforms-traditional-writing.md) — related

@@ -49,3 +49,4 @@ Quasi-experiment with 45 year-one BA students in three groups; written tests of 
 - [Instruction with focused communication tasks produced a significantly larger gain in implicit knowledge of past unreal conditionals than control instruction on an elicited imitation test](fct-implicit-knowledge-elicited-imitation.md) — related
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — related
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — a broader claim this one bears on
+- [The treatment's benefits on the second conditional were maintained on delayed posttests four and eight weeks after instruction](virtual-world-gains-maintained-delayed-posttests.md) — related

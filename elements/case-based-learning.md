@@ -13,7 +13,7 @@ generated:
 # Case-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (7 for, 2 mixed, 2 against) · 21 studies (9 causal, 6 review, 4 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 21 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (7 for, 2 mixed, 2 against) · 23 studies (11 causal, 6 review, 4 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 23 report an effect size · 5 claims rest on one study
 
 ## Description
 Case-based learning places learners in the role of analyst or decision-maker confronting a realistic scenario — a patient presentation, a business dilemma, a legal dispute — and asks them to apply theoretical concepts to interpret it and choose a course of action. The case functions as an authentic problem context in which abstract principles must be retrieved, adapted, and defended rather than merely recalled.

@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 124 claims (81 for, 33 mixed, 10 against) · 104 studies (45 causal, 25 review, 19 theoretical, 13 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 20 of 104 report an effect size · 113 claims rest on one study
+> **Evidence** · 125 claims (81 for, 34 mixed, 10 against) · 105 studies (46 causal, 25 review, 19 theoretical, 13 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 20 of 105 report an effect size · 114 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -195,6 +195,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [A short animated film transmits a high density of information that cannot be learned in a single viewing and can negatively affect understanding](../claims/animation-information-density-single-viewing.md) [+W]
 - [Authors attribute the integrated component's limited efficacy to cognitive load from transcribing between notations for at-risk learners](../claims/cognitive-load-transcribing-limits-integrated-benefit.md) [+W]
 - [Students taught with experiments perceived less cognitive load than students taught by traditional method](../claims/experiment-method-lower-perceived-cognitive-load.md) [+W]
+- [Cognitive load did not differ significantly between lecture plus 3D courseware and lecture plus image instruction](../claims/no-cognitive-load-difference-3d-versus-image-instruction.md) [~W]
 
 ## The evidence by question
 

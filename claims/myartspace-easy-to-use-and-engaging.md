@@ -68,3 +68,4 @@ Focus group reports from students in the final trial. The article notes students
 - [Myartspace enabled students to gather substantial multimedia evidence during a museum visit](myartspace-effective-gathering-museum-evidence.md) — related
 - [The post-visit lesson supported reflection and synthesis, but students could not effectively process all collected items in one lesson](post-visit-reflection-limited-by-item-volume.md) — related
 - [Collecting with Myartspace prompted collaborative and competitive negotiation among students about what to collect](collecting-prompts-negotiation-and-competition.md) — related
+- [Two-dimensioned artistic activities were the most creative and most enjoyed part of the museum education program, letting students express feelings and thoughts](artistic-activities-most-creative-enjoyed.md) — related

@@ -41,6 +41,7 @@ This strategy uses language learning apps, online platforms and mobile-assisted 
 
 - [Platform Agnostic Design](platform_agnostic_design.md)
 - [Investigate teachers' and learners' 'emic' perspectives on MALL to identify obstacles to integration](research-emic-views-of-mall-users.md)
+- [Integrate mobile language learning apps into language teaching so students gain additional learning time outside school](mobile-app-additional-learning-time-strategy.md)
 
 ## Examples
 -

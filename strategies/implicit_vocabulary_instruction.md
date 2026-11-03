@@ -12,7 +12,7 @@ generated:
 # Implicit Vocabulary Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 5 studies (3 quant-synthesis, 2 causal), `q3`–`q4` · 2 of 5 report an effect size
+> **Evidence** · 1 claim (1 for) · 6 studies (3 causal, 3 quant-synthesis), `q3`–`q4` · 2 of 6 report an effect size
 
 ## Description
 Implicit vocabulary instruction teaches words "in the moment" using heavy contextual support, brief planned definitions, and incidental encounters, rather than through separate, formal vocabulary lessons. Teachers anticipate difficult words in a text (often domain-specific or Tier III words) and prepare short glosses, synonyms, or contextual cues that are delivered as the words arise. The goal is uninterrupted comprehension of the current text, with word learning occurring as a by-product of meaningful reading and listening.

@@ -53,3 +53,4 @@ Two-group experiment: after a placement test, 40 pre-intermediate EFL learners a
 - [Audio-visual listening tasks produce higher oral accuracy than audio-only listening tasks for intermediate Iranian EFL learners](av-listening-tasks-higher-oral-accuracy-than-audio-only.md) — related
 - [Authentic-video instruction produced significantly higher post-test prosodic ability than traditional instruction for Iranian intermediate EFL learners](authentic-videos-improve-prosodic-ability.md) — related
 - [The experimental group's language development total scores rise significantly from pre-test to post-test after the audio-visual intervention](av-intervention-pre-post-gain-experimental-group.md) — related
+- [PowerPoint-enhanced teaching (visual input) produced significantly better listening comprehension post-test scores than traditional teaching for Iranian intermediate EFL learners](powerpoint-visual-input-improves-efl-listening-comprehension.md) — related

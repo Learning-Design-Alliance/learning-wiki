@@ -48,3 +48,4 @@ Post-test results in Table 4 for 27 students per group show the experimental gro
 - [Using a module containing critical thinking aspects produces significantly higher academic achievement than the commonly used school module in 8th-grade human circulatory system learning](cta-module-higher-academic-achievement-circulatory.md) — related
 - [The experimental group's average achievement enhancement (28.14 points) exceeded the control group's (19.27 points) despite a lower pre-test mean](cta-module-greater-score-enhancement.md) — related
 - [Applying critical thinking aspects on the module makes an effective contribution of 64% to students' academic achievement enhancement](cta-module-64-percent-contribution.md) — related
+- [Post-test scores of the supplementary-reading group were more homogeneous and covered a higher range than control-group scores](posttest-score-range-homogeneity.md) — related

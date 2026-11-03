@@ -49,3 +49,4 @@ Baseline comparison in the same quasi-experimental study: pre-test means were 48
 - [The experimental and control groups were homogeneous in teaching methods achievement at the start of the experiment](groups-homogeneous-pretest-teaching-methods.md) — possibly the same claim (merge candidate)
 - [The experimental group's ESP scores improved significantly from pre-test to post-test under clicker use, while the control group's did not](clicker-group-significant-pre-post-gain.md) — related
 - [Post-training reading speed differs significantly between the trained and untrained groups, which did not differ before training](between-group-speed-difference-post-training.md) — related
+- [Pre-test comparison showed no significant difference between experimental and control groups before implementation](pretest-no-difference-groups.md) — related

@@ -53,3 +53,4 @@ Quasi-experiment with two randomly assigned 7th-grade classes (N=74, 37 per grou
 - [WebQuest-based instruction improves 7th-grade science achievement more than classical curriculum-based teaching](webquest-improves-science-achievement-grade-7.md) — related
 - [Smart board-supported teaching of the 7th-grade unit 'electricity in our lives' produced higher post-test achievement than the 2005 Science and Technology curriculum](smart-board-higher-posttest-achievement-electricity-unit.md) — related
 - [Journal writing as a writing-to-learn activity raises fourth-grade science achievement more than regular instruction alone](journal-writing-wtl-improves-fourth-grade-science-achievement.md) — related
+- [A gain- and activity-based web-assisted virtual material produced significantly higher 6th-grade achievement on the 'Systems in our body' unit than usual teaching](web-assisted-virtual-material-achievement-gain.md) — related

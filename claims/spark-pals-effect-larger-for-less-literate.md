@@ -68,3 +68,4 @@ Split-sample PALS models for students in the lower half of baseline achievement,
 - [Most SPARK students who started below the PALS literacy benchmark reached benchmark by post-test, while nearly all below-benchmark controls stayed below](spark-below-benchmark-students-met-benchmark.md) — related
 - [SPARK significantly improved early-grade literacy (PALS), with an overall effect of 5.7 scale points (g = .35)](spark-improves-pals-literacy.md) — related
 - [SPARK's reading achievement benefit was larger for lower-achieving students (4.4 RIT points, g = .36), with a significant SPARK-by-baseline interaction](spark-map-effect-larger-for-low-achievers.md) — related
+- [Cohort 2 SPARK/MCLP participants scored substantially higher than controls on the PALS early literacy assessment, with a large pooled effect of 0.40 SD](spark-mclp-cohort2-pals-pooled-effect-040.md) — related

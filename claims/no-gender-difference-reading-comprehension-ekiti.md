@@ -55,3 +55,4 @@ A 2 x 3 ANCOVA of 270 SSSII students' reading comprehension scores by gender and
 - [The teaching-method effect on achievement interacts with student sex](six-hats-achievement-sex-interaction.md) — reports the opposite
 - [In grade 10 expository-text classrooms, neither treatment, gender, nor school type significantly affected reading comprehension](grade10-expository-no-significant-effects.md) — related
 - [No statistically significant gender difference or gender-by-method interaction in postponed achievement](no-gender-difference-postponed-achievement-modules-study.md) — related
+- [Treatment and gender did not interact significantly in their effects on algebra achievement](no-treatment-gender-interaction-algebra.md) — possibly the same claim (merge candidate)

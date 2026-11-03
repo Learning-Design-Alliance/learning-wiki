@@ -12,7 +12,7 @@ generated:
 # Creative Handwriting Activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (3 quant-synthesis, 3 review, 2 causal, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (3 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Creative handwriting activities replace repetitive copywork with varied, playful, and often multi-sensory tasks — writing in sand or shaving cream, forming letters with clay or body movements, tracing rainbow letters, composing real messages to real audiences, or using novel tools (chalk, paintbrushes, tablets with styluses). The goal is to build legible, automatic letter formation while sustaining motivation, rather than treating handwriting as isolated mechanical drill.

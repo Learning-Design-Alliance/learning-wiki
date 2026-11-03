@@ -50,3 +50,4 @@ Multilevel Poisson growth model across six instructional units in the cluster ra
 - [Dosage and preintervention language skills showed little moderation of vocabulary treatment effects](moderation-dosage-celf-small.md) — related
 - [Student activity declines consistently from the first to the last learning unit across all three outcome groups](activity-declines-across-course-units.md) — related
 - [Story Friends treatment participants had greater vocabulary gains than comparison participants on unit tests, with large effect sizes](story-friends-large-vocabulary-gains.md) — related
+- [Both strategies produced gains in vocabulary knowledge over the course of the treatment](both-strategies-improved-vocabulary-knowledge.md) — reports the opposite

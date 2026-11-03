@@ -13,7 +13,7 @@ generated:
 # Use Advance Organizers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (3 quant-synthesis, 2 causal, 2 review, 1 theoretical), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q2`–`q4` · 4 of 10 report an effect size
 
 ## Description
 An advance organizer is introductory material presented *before* the main learning content at a higher level of abstraction, generality, or inclusiveness than the content itself. Introduced by Ausubel, organizers come in two forms: **expository** organizers (new conceptual scaffolding for unfamiliar material) and **comparative** organizers (explicit links between new material and prior knowledge). They may be prose, outlines, concept maps, or analogies, and are carried out by framing the lesson's structure and anchoring concepts before details are introduced.

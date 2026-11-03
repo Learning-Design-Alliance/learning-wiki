@@ -56,3 +56,4 @@ Bootstrapped mediator-contrast estimates in the 107-child sample (Table 5) were 
 - [Teacher-rated behavioral inattention was not uniquely predictive of any grade 1 math outcome despite significant zero-order correlations](behavioral-inattention-not-unique-predictor.md) — related
 - [Executive functioning was not a significant unique predictor of first-grade reading in children with low number sense](ef-not-predictor-first-grade-reading.md) — related
 - [Sustained attention predicts number sense task performance](sustained-attention-predicts-number-sense.md) — related
+- [Improvements in executive function mediate the intervention's effects on learning-related behaviors and problem behaviors](ef-improvement-mediates-classroom-behavior.md) — related
