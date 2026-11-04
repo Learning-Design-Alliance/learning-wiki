@@ -109,3 +109,4 @@ Nothing here says where retention falls off.
 - [Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported](communicatively-developing-methods-improve-teacher-coherent-speech.md) — related
 - [The present study's significant gains contrast with Brown's (1992) claim that intensive programs are not beneficial for elementary-level learners](findings-contradict-brown-elementary-learners-claim.md) — related
 - [Pronunciation gains from the Audio Articulation Method persisted at delayed post-test four weeks later](aam-gains-persist-delayed-posttest.md) — related
+- [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related

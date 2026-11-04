@@ -56,3 +56,5 @@ Quasi-experimental study of 50 gynecology residents assigned to PBL-CBL or tradi
 - [Students report higher satisfaction with PBL-CBL teaching than with LBL in orthopedic education](pbl-cbl-higher-teaching-satisfaction.md) — related
 - [Emerging teaching methods (PBL, CBL, FC) significantly improve dental students' exam scores compared to lecture-based learning](emerging-methods-improve-dental-exam-scores.md) — a broader claim this one bears on
 - [Case review-based learning improves orthodontic examination scores compared with lecture-based learning](cbl-improves-orthodontic-exam-scores.md) — related
+- [AI-assisted PBL-CBL combined teaching raises medical interns' clinical skill examination scores in post-herpetic neuralgia compared with lecture-based teaching](ai-pbl-cbl-improves-clinical-skill-examination-scores.md) — related
+- [AI-assisted PBL-CBL combined teaching raises medical interns' theoretical examination scores in post-herpetic neuralgia compared with lecture-based teaching](ai-pbl-cbl-improves-theoretical-examination-scores.md) — a narrower finding that bears on this claim

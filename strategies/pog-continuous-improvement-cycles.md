@@ -48,6 +48,7 @@ To sustain progress and ensure efficacy of the POG framework, the brief recommen
 - [Use student experience data in an iterative inquire-change-monitor cycle with students as partners](cultivate-data-improvement-cycle.md)
 - [Build a constituency of educator groups and public advocacy to sustain systemic standards-based reform](constituency-for-standards-reform.md)
 - [Iterative semester-long improvement cycles combining feature integration with real-world testing](iterative-semester-testing-improvement-cycles.md)
+- [Use Kotter's 8-step and COM-B models within iterative action-research cycles to co-design EPA implementation improvements with expert and stakeholder panels](kotter-comb-action-research-epa-implementation.md)
 
 ## Examples
 -

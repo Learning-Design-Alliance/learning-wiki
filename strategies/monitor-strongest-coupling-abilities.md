@@ -47,6 +47,7 @@ The authors recommend that "to facilitate early detection and possibly even effe
 ## Related Strategies
 
 - [Monitor learning difficulties as they emerge during educational disruption rather than relying solely on preexisting vulnerability indicators](monitor-emerging-learning-difficulties-during-disruption.md)
+- [Establish a dynamic assessment and early intervention mechanism using learning motivation as a key monitoring indicator](dynamic-motivation-monitoring-early-intervention.md)
 
 ## Examples
 -

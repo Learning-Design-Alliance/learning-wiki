@@ -48,6 +48,7 @@ The article recommends expanding preclinical simulation exercises, diversifying 
 - [Provide both digital 3D and physical learning modalities to accommodate diverse student preferences](provide-both-digital-and-physical-modalities.md)
 - [Expand simulation-based teaching to additional physiology practicals and organ systems](expand-simulation-across-physiology-curriculum.md)
 - [Use predefined progression criteria and staged supervised practice to standardize training in invasive dental procedures](predefined-progression-criteria-staged-supervised-practice.md)
+- [Use simulation-based training, digital tools, and interdisciplinary workshops to teach dental trauma management](simulation-digital-interdisciplinary-dental-trauma-training.md)
 
 ## Examples
 -

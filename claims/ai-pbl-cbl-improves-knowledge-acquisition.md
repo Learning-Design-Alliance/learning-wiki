@@ -56,3 +56,4 @@ Meta-analysis (RevMan 5.4) of four RCTs using objective examinations, with 110 A
 - [PBL methods produce significantly better knowledge scores than traditional teaching among dental students (pooled MD 4.15)](pbl-improves-knowledge-scores.md) — related
 - [Analogies taught in small groups did not produce a statistically significant difference in clinical-case exam performance compared with traditional instruction in a wound-healing unit.](analogies-small-groups-no-significant-difference-surgery.md) — related
 - [Both PBL formats improve knowledge versus conventional teaching](pbl-improves-knowledge-versus-conventional-teaching.md) — related
+- [AI-assisted PBL-CBL combined teaching raises medical interns' clinical skill examination scores in post-herpetic neuralgia compared with lecture-based teaching](ai-pbl-cbl-improves-clinical-skill-examination-scores.md) — a narrower finding that bears on this claim

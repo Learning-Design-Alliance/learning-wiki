@@ -49,3 +49,4 @@ Subject-area breakdown of the same 84-question EUS benchmark (Table 2). Pharmacy
 - [ChatGPT-5.1, DeepSeek-R1, and Gemini 2.5 Flash show high, statistically comparable accuracy on Turkish Pharmacy Specialty Examination questions](llms-high-comparable-accuracy-eus.md) — related
 - [ChatGPT accuracy on health licensing examinations is highest in pharmacy and lowest in nursing](chatgpt-accuracy-field-order-pharmacy-nursing.md) — a broader claim this one bears on
 - [LLMs frequently assign maximum self-reported confidence to incorrect EUS answers](llm-overconfidence-incorrect-eus-answers.md) — related
+- [Several LLMs achieved 100% accuracy on knowledge-based topics including restorative procedures, periodontal diseases, and local anesthesia](llms-perfect-accuracy-knowledge-based-topics.md) — related

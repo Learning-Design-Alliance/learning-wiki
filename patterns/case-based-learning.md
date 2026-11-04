@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 84 claims (43 for, 39 mixed, 2 against) · 62 studies (28 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 62 report an effect size · 79 claims rest on one study
+> **Evidence** · 85 claims (44 for, 39 mixed, 2 against) · 63 studies (29 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 19 of 63 report an effect size · 80 claims rest on one study
 
 ## Description and scope
 
@@ -152,6 +152,7 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [A CBCL session on spinal infection was feasible and well accepted in a Brazilian radiology residency program](../claims/cbcl-feasible-accepted-brazilian-radiology-residency.md) [+W] — attached 2026-11-04 from Montague Steven et al. (2026), which proposed "CBCL session pattern: pre-session preparation, small groups of four, and a three-step individual–group–plenary case sequence".
 - [No significant difference between CBL-3D and traditional teaching in qualitative diagnosis of focal liver lesions](../claims/cbl-3d-reconstruction-no-gain-qualitative-diagnosis.md) [~W] — attached 2026-11-04 from Wu Yanyan et al. (2026), which proposed "Combining CBL with 3D image reconstruction as a clinical teaching model for spatially complex ultrasound skills".
 - [Case review-based learning improves orthodontic examination scores compared with lecture-based learning](../claims/cbl-improves-orthodontic-exam-scores.md) [+W] — attached 2026-11-04 from Gao Jie et al. (2026), which proposed "Structured longitudinal case review model linking each treatment stage to theoretical knowledge"; tests this page's relationship.
+- [BOPPPS-CBL instruction is associated with significantly higher adjusted post-test knowledge scores than lecture-based learning in undergraduate HAI education](../claims/boppps-cbl-higher-adjusted-posttest-hai-knowledge.md) [+W] — attached 2026-11-04 from Fei Yuda et al. (2026), which proposed "BOPPPS-CBL session structure integrating case-based learning into the Participatory Learning phase"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

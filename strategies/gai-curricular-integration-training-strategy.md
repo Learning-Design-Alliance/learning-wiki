@@ -63,6 +63,8 @@ The article recommends that GAI-based teaching be adopted as a complement to, no
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Position AI-SPs as preparation, reflection, and supplementation for real patient contact rather than replacement](ai-sp-supplement-not-replacement.md)
+- [Integrate AISP platforms into medical curricula as complements to traditional teaching with expanded case variety](aisp-curricular-integration-strategy.md)
+- [Integrate AI into structured peer teaching in four modes with training and quality safeguards](four-mode-ai-integration-peer-teaching-strategy.md)
 
 ## Examples
 -

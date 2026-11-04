@@ -50,3 +50,4 @@ Before–after quasi-experimental study (Lazzarini et al., as charted in Table 1
 - [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related
 - [A pilot RCT found simulation workshop participants 16 times more likely to be assessed as competent in debridement skills and more confident than controls](simulation-workshop-debridement-competence-confidence.md) — related
 - [Simulator practicals increased student confidence in practical skills](simulator-practicals-increase-practical-skills-confidence.md) — related
+- [A 3-day Ebola training workshop significantly increased health professionals' knowledge and confidence in caring for EVD patients](ebola-training-workshop-increased-knowledge-confidence.md) — related

@@ -60,3 +60,4 @@ Qualitative case-study analysis of 157 minutes of audio-recorded group discussio
 - [In-situ simulation is used in healthcare for four mapped purposes: assessment, system readiness and safety culture, clinical skills and patient outcomes, and non-technical skills, knowledge and confidence](iss-four-purpose-mapping-categories.md) — related
 - [Participants anticipate professional development and patient-level benefits from interprofessional learning](anticipated-benefits-ipe-pharmacy.md) — related
 - [In situ simulated emergency training added to routine training raises self-rated first aid ability in junior nurses](in-situ-set-improves-first-aid-junior-nurses.md) — related
+- [By September 2025, 88.89% of participants had progressed to the level of clinical experts, a substantial increase compared with the baseline rate of 2.78% before retraining.](retraining-increases-advancement-to-clinical-nurse-specialist.md) — related

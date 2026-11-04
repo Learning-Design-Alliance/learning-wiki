@@ -54,3 +54,5 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - [In the same RCT, the experimental group scored higher than the control group on all seven dimensions of critical thinking ability (all P < 0.05)](pbl-virtual-simulation-critical-thinking-all-dimensions-trauma-orthopedics.md) — related
 - [In the same RCT, no significant between-group differences were observed in baseline theoretical knowledge or clinical skills scores before teaching](pbl-virtual-simulation-no-baseline-differences-trauma-orthopedics.md) — related
 - [Medical imaging interns receiving the SPOC-based blended package report higher teaching satisfaction than controls, with a marked ceiling pattern in the experimental group](spoc-blended-package-higher-teaching-satisfaction.md) — related
+- [BOPPPS with virtual simulation yields significantly higher total internship performance scores than traditional teaching (d = 3.12)](boppps-virtual-simulation-higher-internship-performance.md) — related
+- [Teaching satisfaction is significantly higher with BOPPPS plus virtual simulation (98.3% vs. 86.7%)](boppps-virtual-simulation-teaching-satisfaction.md) — related

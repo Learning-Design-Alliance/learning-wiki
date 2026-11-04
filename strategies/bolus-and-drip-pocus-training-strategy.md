@@ -47,6 +47,7 @@ The review describes "a 'bolus and drip' approach" that "effectively integrat[es
 - [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
 - [Implement Classtime with a kick-off training day plus ongoing grade-specific follow-up sessions](classtime-kickoff-plus-ongoing-pd-strategy.md)
 - [Short structured LUS training combining e-learning, half-day on-site session and focused proficiency assessment](short-structured-lus-training-programme.md)
+- [Combine online modules with hands-on simulation training to teach POCUS-guided procedural skills to novices](blended-online-hands-on-pocus-procedural-training.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 70 claims (35 for, 29 mixed, 6 against) · 58 studies (24 causal, 9 review, 7 quant-synthesis, 6 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 6 of 58 report an effect size · 69 claims rest on one study
+> **Evidence** · 75 claims (40 for, 29 mixed, 6 against) · 60 studies (26 causal, 9 review, 7 quant-synthesis, 6 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 6 of 60 report an effect size · 74 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -106,6 +106,11 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Technical problems with computers and networks are a downside of e-learning implementation](../claims/technical-problems-downside-elearning.md) [-W]
 - [Pupils felt comfortable carrying out discussion tasks in the 3D virtual environment and did not prefer to carry them out face-to-face, despite technological problems with sound](../claims/tila-opensim-comfort-despite-sound-problems.md) [+W]
 - [YouTube is the most used online video platform overall, but reliance shifts toward specialized platforms as students enter clinical years](../claims/youtube-dominant-shift-to-specialized-platforms.md) [~W]
+- [Blended digital training improves lay health care workers' knowledge of HIV index case testing modestly more than standard in-person training alone](../claims/blended-digital-training-modest-knowledge-gains-index-testing.md) [+W] — attached 2026-11-04 from Tembo Tapiwa A et al. (2026), which proposed "Tingathe tablet-guided blended digital training package for HIV index case testing".
+- [Blended digital training substantially improves lay health care workers' fidelity to index and contact client counseling protocols](../claims/blended-digital-training-substantial-fidelity-gains.md) [+W] — attached 2026-11-04 from Tembo Tapiwa A et al. (2026), which proposed "Tingathe tablet-guided blended digital training package for HIV index case testing".
+- [Blended digital training improves lay health care workers' acceptability of digital training modalities more than standard training alone](../claims/blended-digital-training-acceptability-gains.md) [+W] — attached 2026-11-04 from Tembo Tapiwa A et al. (2026), which proposed "Tingathe tablet-guided blended digital training package for HIV index case testing".
+- [Lay health care workers report high engagement with and satisfaction toward blended digital training in low-resource settings](../claims/digital-training-high-engagement-satisfaction.md) [+W] — attached 2026-11-04 from Tembo Tapiwa A et al. (2026), which proposed "Tingathe tablet-guided blended digital training package for HIV index case testing".
+- [An 8-hour online educational program significantly improved emergency nurses' knowledge, skills, and personal preparedness, though scores remained moderate](../claims/online-program-improved-knowledge-skills-preparedness.md) [+W]
 
 ## Related Elements
 

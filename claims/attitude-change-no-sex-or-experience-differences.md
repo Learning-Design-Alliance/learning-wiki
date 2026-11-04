@@ -52,3 +52,4 @@ Subgroup analyses of the three significant subscales found no differences by sex
 - [Service-learning participation is associated with a large increase in dental students' empathy toward community service](service-learning-empathy-increase-dental-students.md) — related
 - [Service-learning participation is associated with a small increase in dental students' norms regarding community service](service-learning-norms-increase-small-effect.md) — related
 - [Service-learning participation is associated with a large reduction in dental students' perceived costs of community engagement](service-learning-perceived-costs-reduction.md) — related
+- [Attitude gains were significant in male students but not in female students](csas-gains-males-not-females.md) — reports the opposite

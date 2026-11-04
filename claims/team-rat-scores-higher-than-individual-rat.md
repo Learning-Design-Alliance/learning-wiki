@@ -67,3 +67,5 @@ Quasi-experimental comparison within two sections of a junior/senior-level Behav
 - [Included studies report positive correlations between TBL participation and assessment performance, with i-RAT scores predicting final examination performance](tbl-participation-correlates-assessment-performance.md) — related
 - [TBL improves team readiness assurance test scores compared to individual tests](tbl-grat-outperforms-irat.md) — a broader claim this one bears on
 - [Students consistently scored higher on the tRAT than on the iRAT across all themes, reflecting the benefits of peer explanation and collaborative reasoning.](tbl-trat-exceeds-irat-across-themes.md) — a narrower finding that bears on this claim
+- [Seven of nine readiness assurance questions achieved the maximum score during the t-RAT](seven-of-nine-max-t-rat.md) — related
+- [Team-based readiness assurance test scores significantly exceeded individual readiness assurance test scores in an interdisciplinary TBL session](t-rat-exceeds-i-rat-interdisciplinary-tbl.md) — possibly the same claim (merge candidate)

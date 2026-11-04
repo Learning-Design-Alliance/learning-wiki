@@ -58,3 +58,4 @@ Baseline check in the quasi-experiment: after the shared first intervention, pre
 - [Experimental and control groups were equivalent in oral fluency before the intervention](efl-fluency-pretest-group-equivalence.md) — related
 - [The contextual and structural groups were statistically equivalent on the pretest before instruction](pretest-equivalence-contextual-structural-groups.md) — related
 - [Experimental and control groups showed no significant difference in English achievement before the intervention.](eclectic-approach-groups-equivalent-pretest.md) — related
+- [Baseline EMQ scores did not differ between GGR and SNAPPS groups, ensuring equivalent starting clinical reasoning skills](ggr-snapps-equivalent-baseline.md) — related

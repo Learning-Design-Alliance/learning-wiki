@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 123 claims (72 for, 42 mixed, 9 against) · 108 studies (40 associational, 38 causal, 16 review, 8 quant-synthesis, 5 design, 1 qualitative), `q1`–`q4` · 33 of 108 report an effect size · 118 claims rest on one study
+> **Evidence** · 127 claims (75 for, 43 mixed, 9 against) · 111 studies (41 associational, 38 causal, 17 review, 8 quant-synthesis, 5 design, 2 qualitative), `q1`–`q4` · 34 of 111 report an effect size · 122 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -171,6 +171,10 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Both OCL and SBL significantly improved teachers' teaching efficacy after the intervention](../claims/ocl-sbl-improve-teaching-efficacy.md) [+W]
 - [Self-efficacy for ultrasound procedural performance increased significantly after training among Korean Medicine students (p < .001, d = 1.44)](../claims/ultrasound-training-self-efficacy-increase-km.md) [+W]
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest predictor](../claims/se-mov-positive-predict-sdl-henan-sem.md) [+W]
+- [Years of teaching experience significantly predict university teachers' self‐efficacy beliefs](../claims/experience-predicts-university-teacher-self-efficacy.md) [~W]
+- [PFA training improved nursing students' self-efficacy in disaster intervention and perception of disaster preparedness](../claims/pfa-training-improved-student-self-efficacy-preparedness.md) [+W]
+- [Participants reported perceived increases in confidence when approaching early clinical tasks after completing the integrated module.](../claims/integrated-module-increases-confidence-early-clinical-tasks.md) [+W]
+- [A video-based climate change program improved nursing students' climate change perceptions, environmental self-efficacy, and reduced climate anxiety, with large effects](../claims/video-based-climate-program-large-effects-students.md) [+W]
 
 ## The evidence by question
 
@@ -192,6 +196,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - **[Reciprocal teaching](../strategies/reciprocal_teaching.md)** — students take turns leading comprehension strategies, giving each learner a public mastery experience and modeling for peers.
 - [Build relational school resources (teacher–student relationships, peer support, encouragement, extracurriculars) to scaffold self-regulation for low-efficacy marginalized students](../strategies/relational-resources-low-efficacy-students.md)
 - [Balance AI integration in SRL so technological advantages are harnessed without undermining student self-efficacy](../strategies/balanced-ai-integration-srl-self-efficacy.md)
+- [Support self-efficacy through positive reinforcement, peer modeling, constructive feedback, and early mastery experiences](../strategies/self-efficacy-support-strategies-clinical-skills.md)
 
 ## Key Sources
 - Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman.

@@ -71,6 +71,7 @@ Peer coaching works because articulating feedback to a peer forces the coach to 
 - [Use professional learning communities to review student work and give teachers feedback](plc-student-work-review-feedback-bhs.md)
 - [Video-based coaching cycles in which teachers analyze their own discussions, practice talk moves, and reflect on effectiveness](video-based-strengths-based-coaching-cycles.md)
 - [Engage in FA development opportunities: peer observation, PLCs, and coaching](fa-development-opportunities.md)
+- [Support self-efficacy through positive reinforcement, peer modeling, constructive feedback, and early mastery experiences](self-efficacy-support-strategies-clinical-skills.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the general element; peer coaching removes the expert/novice asymmetry

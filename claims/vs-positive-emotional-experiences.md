@@ -66,3 +66,4 @@ Synthesized finding from the meta-synthesis of 17 qualitative studies, drawing o
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — possibly the same claim (merge candidate)
 - [Simulator practicals increased student confidence in practical skills](simulator-practicals-increase-practical-skills-confidence.md) — related
 - [Increased exposure to unsupervised difficult conversations is associated with greater emotional confidence, while rare exposure is associated with higher distress](exposure-frequency-emotional-reaction-association.md) — related
+- [Fear of embarrassment and lack of psychological safety reduce nursing students' participation and retention in active learning activities](psychological-safety-barrier-active-learning-nursing.md) — reports the opposite

@@ -70,3 +70,5 @@ Results section reporting all six Mini-CEX sub-dimensions as non-significant. Th
 - [No significant difference between PBL-CBL and traditional groups in post-class basic knowledge or skills scores](pbl-cbl-no-difference-basic-knowledge-skills-scores.md) — related
 - [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](ai-mentor-pilot-improves-overall-mini-cex.md) — related
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
+- [AI-assisted PBL-CBL combined teaching improves Mini-CEX clinical reasoning domains (interviewing, physical examination, clinical judgment, communication) but not humanistic qualities/professionalism or organization/efficiency](ai-pbl-cbl-improves-mini-cex-clinical-reasoning-domains.md) — related
+- [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related

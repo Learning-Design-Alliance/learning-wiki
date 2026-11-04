@@ -67,3 +67,4 @@ Descriptive statistics on the same sample (Table 3). The article reports the ove
 ## Related Claims
 - [GenAI usage behavior dimensions correlate positively with perceived learning outcomes (r = 0.106–0.418), with usage habits showing the strongest correlation](genai-usage-habits-strongest-correlation-learning-outcomes.md) — related
 - [Among Chinese higher vocational students, GenAI usage habits and usage contexts are positively associated with perceived learning outcomes while usage frequency is negatively associated, controlling for gender and grade](genai-usage-habits-positive-frequency-negative-predictors-vocational-outcomes.md) — related
+- [Over 75% of students in the AI-enhanced flipped classroom group reported a regular habit of using AI tools at least once per week.](majority-regular-weekly-ai-use.md) — related

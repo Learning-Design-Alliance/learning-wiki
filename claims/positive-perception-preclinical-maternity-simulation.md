@@ -52,3 +52,4 @@ Post-rotation questionnaire study of 64 maternity nursing students using Jeffrie
 - [Participants reported high satisfaction with simulation sessions but criticized time allocation and group size](simulation-session-satisfaction-time-group-size.md) — related
 - [Nursing students reported high satisfaction with community care simulation, with all SDS domain means around 4.5 and support rated lowest](ccs-high-satisfaction-sds-domain-scores.md) — related
 - [Readiness for clinical transition is the highest-rated SBL perception item (mean 4.53) while realism is the lowest (mean 3.81)](readiness-clinical-transition-highest-realism-lowest-sbl-items.md) — related
+- [Most nurses expressed satisfaction with the AMS course content and its relevance to everyday practice](nursing-ams-course-satisfaction-relevance.md) — related

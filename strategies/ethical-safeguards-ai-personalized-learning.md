@@ -65,6 +65,7 @@ The review identifies three central ethical challenges for AI-driven personalize
 - [Investigate stakeholder privacy requirements and define transparent rules for learner-data use](aied-learner-data-privacy-practices.md)
 - [Monitor equity: provision access for all students, audit outputs for bias, and study heterogeneous impacts](monitor-equity-genai.md)
 - [Three-level data protection mechanism for AI-SP privacy, informed consent, and legal risk management](ai-sp-three-level-data-protection.md)
+- [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
 
 ## Examples
 -

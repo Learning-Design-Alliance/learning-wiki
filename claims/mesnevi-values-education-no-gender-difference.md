@@ -49,3 +49,4 @@ Mann-Whitney U analysis of the 31-student experimental group (15 female, 16 male
 - [Posttest attitude differences did not vary by family income level](mesnevi-values-education-no-income-difference.md) — related
 - [Case-study instruction affected male and female students' environmental attitudes at the same level](case-study-attitudes-no-gender-difference.md) — related
 - [Male participants rated TQM applicability higher than female participants in all scale dimensions](gender-difference-tqm-perceptions-male-higher.md) — related
+- [Novices and experienced participants rated the simulator similarly with no significant differences in perceptions](similar-simulator-perceptions-novice-experienced.md) — related

@@ -147,6 +147,7 @@ Debriefing is where much of the learning from experience is actually consolidate
 - [Include debriefing with reflective questions after simulation sessions before receiving feedback](../strategies/debriefing-before-feedback-simulations.md)
 - [Deliver artistic experiential dementia education weekly over 4–8 weeks with direct interaction, guided creative expression, and facilitated reflective discussion](../strategies/art-based-dementia-education-implementation-guidelines.md)
 - [Use clinical pause points during simulation debriefing to promote timely knowledge construction and clinical judgement](../strategies/clinical-pause-simulation-debriefing.md)
+- [Use structured debriefing, formative assessment, and continuous feedback to consolidate learning in active learning activities](../strategies/structured-debriefing-formative-assessment-active-learning.md)
 
 ## Key Sources
 - Fanning, R. M., & Gaba, D. M. (2007). The role of debriefing in simulation-based learning. *Simulation in Healthcare, 2*(2), 115–125. [doi:10.1097/SIH.0b013e3180315539](https://doi.org/10.1097/SIH.0b013e3180315539)

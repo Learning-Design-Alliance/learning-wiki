@@ -86,3 +86,4 @@ Linear-model analysis of the same randomized comparison confirmed the exam-score
 - [MEET remediation cohort showed significant overall OSCE improvement after AI virtual patient use](aivp-meet-cohort-significant-osce-gain.md) — related
 - [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — a narrower finding that bears on this claim
 - [Web-based Orthotrainer training produced diagnostic performance equivalent to analogue case analysis training across training sessions and the final module exam](orthotrainer-equivalent-diagnostic-performance.md) — related
+- [AI-assisted peer teaching improves OSCE performance, with the largest effect on clinical reasoning](ai-assisted-peer-teaching-osce-clinical-reasoning.md) — related

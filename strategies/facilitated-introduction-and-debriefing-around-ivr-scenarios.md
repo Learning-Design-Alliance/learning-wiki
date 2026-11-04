@@ -51,6 +51,7 @@ A concrete design recipe drawn from the simulation training framework and the tr
 ## Related Strategies
 
 - [Simulations + Structured Activity](simulations-structured-activity.md)
+- [Enhance poverty simulations with structured debriefings, trained volunteers, and psychological safety guidelines](enhance-simulations-debriefing-volunteer-training.md)
 
 ## Examples
 -

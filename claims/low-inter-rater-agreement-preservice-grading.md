@@ -55,3 +55,4 @@ Inter-rater analysis of rubric-component scores from 231 pre-service teachers gr
 - [Inter-rater reliability of the ANTS system reached substantial agreement in most raters that reported it](ants-inter-rater-reliability-substantial.md) — related
 - [The CALM tool showed only weak inter-rater agreement (weighted Kappa 0.45) in its single ED video-review study](calm-weak-kappa-045-single-study.md) — related
 - [Mistral 7B shows high ICCs but low Fleiss kappa when scoring summary statements](mistral-7b-high-icc-low-fleiss-kappa.md) — related
+- [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related

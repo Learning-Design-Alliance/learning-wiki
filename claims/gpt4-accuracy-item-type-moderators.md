@@ -51,3 +51,4 @@ Narrative synthesis of performance moderators across 19 examination studies in t
 - [LLMs, particularly GPT-4, can match or exceed medical students' examination performance](llms-match-or-exceed-medical-students-exam-performance.md) — related
 - [In the combined review analysis, ChatGPT-3.5 failed eight of nine UK postgraduate exams while ChatGPT-4 passed nine of eleven](chatgpt-4-passed-nine-of-eleven-postgraduate-exams.md) — related
 - [Item-level performance reveals specific weaknesses in radiology interpretation and specialized clinical topics](item-level-weaknesses-radiology-clinical-topics-syria.md) — related
+- [State-of-the-art LLMs show strong potential as diagnostic decision-support systems in dentistry based on vignette-based question performance](llms-diagnostic-decision-support-dentistry-potential.md) — reports the opposite

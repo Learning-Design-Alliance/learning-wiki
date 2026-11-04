@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 228 claims (106 for, 117 mixed, 5 against) · 131 studies (70 associational, 25 review, 22 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 46 of 131 report an effect size · 220 claims rest on one study
+> **Evidence** · 229 claims (106 for, 118 mixed, 5 against) · 132 studies (70 associational, 25 review, 23 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 47 of 132 report an effect size · 221 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -269,6 +269,7 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [I Control improved teacher-reported executive function behaviors, with the largest effects for students with the highest baseline deficits on the BRIEF Behavior Regulation Index](../claims/i-control-improves-teacher-reported-executive-function.md) [+W] — attached 2026-11-02 from Stephen W. Smith et al. (2017), which proposed "Self-regulation depends in part on executive functioning, guiding school-based intervention for students with behavior problems".
 - [Curricular interventions including Tools of the Mind and Promoting Alternative Thinking Strategies can improve preschoolers' EF skills](../claims/curricular-interventions-improve-preschool-ef.md) [+W]
 - [Young children’s EF skills show a robust positive relationship with academic outcomes in preschool through third grade](../claims/ef-correlates-academic-outcomes-preschool-third-grade.md) [+W]
+- [The integrated program was associated with improved Digit Span Backward (working memory) performance but not Digit Span Forward performance](../claims/breakfast-morning-sport-improves-digit-span-backward-not-forward.md) [~W]
 
 ## Related Theories
 

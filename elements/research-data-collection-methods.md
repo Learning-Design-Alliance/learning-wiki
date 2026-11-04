@@ -13,7 +13,7 @@ generated:
 # Research Data Collection Methods
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (4 for, 4 mixed, 1 against) · 8 studies (5 causal, 2 review, 1 quant-synthesis), `q2`–`q3` · 0 of 8 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (4 for, 5 mixed, 1 against) · 9 studies (5 causal, 2 review, 1 quant-synthesis, 1 associational), `q2`–`q3` · 0 of 9 report an effect size · 10 claims rest on one study
 
 ## Description
 People tend to change their behavior when they know they're being watched — the **Hawthorne effect**. Observational research can be done **naturalistically**, in the participants' natural environment where they are usually unaware they're being observed (reducing the likelihood of the Hawthorne effect), or in a **laboratory** setting, where the researcher can control confounding factors and distractions at the cost of ecological validity and the expense of maintaining the controlled setting. A naturalistic classroom observation loses control — a substitute teacher on the observation day, for instance, could change student behavior and skew the data — that a laboratory setting would avoid, but at the price of studying behavior somewhat removed from its natural context.
@@ -48,6 +48,7 @@ People tend to change their behavior when they know they're being watched — th
 - [Students who experienced both methods rate live video observation as less distracting for children and more convenient than onsite observation](../claims/wave2-paired-lvo-advantages.md) [~W]
 - [In the Contrasting Cases project, treatment diffusion appeared higher on control teachers' survey responses compared with their fidelity scores from analyzed videos](../claims/cc-treatment-diffusion-survey-versus-video.md) [~W]
 - [In the Contrasting Cases project, treatment teachers' self-reported instructional practices measured by surveys and logs were significantly and positively correlated with scores from coding of their lesson videos](../claims/cc-self-report-correlated-with-video-coding.md) [+W]
+- [Self‐reported self‐efficacy questionnaires may not reflect actual teaching behaviour quality](../claims/self-report-self-efficacy-may-not-reflect-teaching-behaviour.md) [~W]
 
 ## Related Elements
 

@@ -51,3 +51,4 @@ Narrative synthesis of complication outcomes across seven studies; pooling was d
 - [Simulation-based training produces a small improvement in behavior performance compared with non-simulation based training for airway management](sbt-small-behavior-performance-benefit-airway.md) — related
 - [No significant difference in successful intubation rate or esophageal intubation rate before and after simulation training](simulation-no-significant-success-rate-change.md) — related
 - [Simulator training showed no significant effects on adenoma detection rate, polyp detection rate, or patient pain scores](mikoto-no-detection-outcome-effects.md) — related
+- [Complication rates did not differ significantly between pre- and post-training periods](no-significant-complication-change-after-porcine-training.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Content sensitivity was tested by comparing iRAT distributions across themes usi
 - [Individual weekly readiness assurance test (iRAT) scores are strongly predictive of summative examination performance (R²≈0.38–0.41) and reproducible over consecutive years.](tbl-readiness-scores-predict-summative-performance.md) — related
 - [IRAT performance shows a stronger association with final exam performance than TRAT performance does](irat-stronger-final-exam-association-than-trat.md) — related
 - [Exploratory theme-level analyses found performance differences between exam formats varied by curricular content area](theme-dependent-performance-variation.md) — related
+- [Year 1 medical students positively receive the ease of accessing learning resources, clearly defined ILOs, interactive sessions, team composition, facilitator support and real-world applicability of weekly themes in integrated TBL.](tbl-elements-positively-received-year1-medical.md) — related

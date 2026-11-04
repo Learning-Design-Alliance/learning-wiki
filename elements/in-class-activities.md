@@ -13,7 +13,7 @@ generated:
 # In-Class Activities
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (9 for, 1 mixed) · 16 studies (5 quant-synthesis, 4 causal, 3 design, 2 theoretical, 1 review, 1 associational), `q1`–`q4` · 8 of 16 report an effect size · 6 claims rest on one study
+> **Evidence** · 11 claims (10 for, 1 mixed) · 17 studies (5 quant-synthesis, 4 causal, 4 design, 2 theoretical, 1 review, 1 associational), `q1`–`q4` · 8 of 17 report an effect size · 7 claims rest on one study
 
 ## Description
 In-class activities are structured tasks — problem solving, discussions, simulations, peer instruction, case analysis — that require learners to actively generate, apply, or critique content during class time rather than passively receive it. They shift class time from information transmission to supervised application, with the instructor acting as facilitator and feedback source.
@@ -59,6 +59,7 @@ Structured in-class activities improve exam performance and reduce failure rates
 - [Hands-on engagement with an AIDA beta significantly improved students' attitudes toward it, with a large effect size](../claims/aida-hands-on-use-improves-attitudes.md) [+W]
 - [During jumping task based on CPS lessons, 44% of experimental-class students were rated strongly active and 29% active by observers](../claims/observation-student-activity-jumping-task-cps.md) [+W]
 - [Class time in the flipped model was devoted to active learning activities rather than lecturing](../claims/flipped-class-time-active-learning-activities.md) [+W]
+- [Facilitator observations indicated higher student engagement than in lecture-based sessions](../claims/facilitator-observed-higher-engagement-than-lectures.md) [+W]
 
 ## The evidence by question
 

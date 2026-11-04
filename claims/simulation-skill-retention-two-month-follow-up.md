@@ -69,3 +69,4 @@ RCT of 120 medical and nursing students comparing VR with live simulation, asses
 - [Synectics workshops significantly increase perceived teamwork skills immediately after training, with gains retained three months later](synectics-improves-teamwork-skills-retained.md) — related
 - [Knowledge retention after simulation varies by item type: cellular and genetic concepts are less retained than procedural or physiological ones.](simulation-retention-varies-by-concept-type.md) — related
 - [VR-trained and small-group-trained fellows show no significant difference in post-training checklist scores for tracheostomy emergencies](vr-noninferior-tracheostomy-emergency-checklist.md) — related
+- [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related

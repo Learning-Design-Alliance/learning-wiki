@@ -69,3 +69,5 @@ Review synthesis of preference data across the 22 included studies; the preferen
 - [Students preferred face-to-face delivery over virtual delivery for both CBL and GBL](face-to-face-preferred-over-virtual.md) — related
 - [Over 80% of orthodontic postgraduates rated the SCL model superior to traditional teaching methods](scl-rated-superior-to-traditional-teaching-orthodontic-postgraduates.md) — related
 - [Most students endorse the service learning model and would recommend it for future students](service-learning-student-endorsement-recommendation.md) — a narrower finding that bears on this claim
+- [TBL produces significantly higher student engagement and peer/instructor interaction than lecture-based instruction](tbl-higher-engagement-peer-interaction-than-lecture.md) — related
+- [TBL students attribute self-efficacy to peer discussion while lecture students attribute it to practice cases and systematic approach](tbl-peer-discussion-vs-lecture-practice-cases-self-efficacy.md) — related

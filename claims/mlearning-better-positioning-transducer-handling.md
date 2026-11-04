@@ -47,3 +47,4 @@ Review synthesis attributing this advantage to studies using m-learning (Lozano-
 ## Related Claims
 - [Telemedicine-based teaching of ultrasonography produces results similar to traditional methods in most comparative studies, except for venous access procedures where studies disagree](telemedicine-ultrasound-teaching-similar-to-traditional.md) — related
 - [Student satisfaction with telemedicine ultrasound teaching is similar to traditional teaching, and distance formats are widely accepted by students](telemedicine-teaching-student-satisfaction-acceptance.md) — related
+- [Simulation-based online ultrasound training produces theoretical and practical outcomes comparable to traditional on-site instruction in physiotherapy students](simulation-online-ultrasound-training-comparable-outcomes.md) — related

@@ -67,6 +67,7 @@ TBL operationalizes [Active Learning](../principles/active-learning.md) at scale
 - [Implement TBL with dedicated teaching teams, systematic teacher training, and diversified assessment](tbl-implementation-strategy-dedicated-teams.md)
 - [Implement the grouping method from the start of the classes rather than only in the final period](implement-grouping-from-course-start.md)
 - [Assign student teams to research and present real mining case studies with peer evaluation](student-case-study-presentations-peer-evaluation.md)
+- [Implement TBL for chest radiograph interpretation using pre-class recordings, readiness assurance tests, and the 4S framework](tbl-chest-radiograph-session-implementation-strategy.md)
 
 ## Examples
 - **[Team-Based Learning Collaborative](https://www.teambasedlearning.org)** — professional community and published TBL modules, especially in health sciences education

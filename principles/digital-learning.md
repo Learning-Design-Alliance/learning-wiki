@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 99 claims (43 for, 49 mixed, 7 against) · 108 studies (29 causal, 23 review, 18 theoretical, 16 quant-synthesis, 8 associational, 7 qualitative, 7 design), `q1`–`q4` · 14 of 108 report an effect size · 88 claims rest on one study
+> **Evidence** · 100 claims (43 for, 50 mixed, 7 against) · 109 studies (29 causal, 24 review, 18 theoretical, 16 quant-synthesis, 8 associational, 7 qualitative, 7 design), `q1`–`q4` · 14 of 109 report an effect size · 89 claims rest on one study
 
 ## Conditional relationship
 
@@ -216,6 +216,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Textbook-based learning with teacher-assisted consolidation (TAL) produced significantly higher immediate post-test knowledge scores than computer-aided learning with teacher-assisted consolidation (CALT).](../claims/tal-higher-immediate-post-test-than-calt.md) [-W]
 - [Material resources in schools are a necessary but non-sufficient condition for effective ICT integration; an active and dynamic methodological approach must also be implemented.](../claims/escuela2-material-resources-insufficient.md) [+W]
 - [Online FMA-LE training is limited by unverifiable engagement and unequal lecture-review access, and results do not generalize beyond video-based scoring](../claims/online-fma-training-limitations-video-only.md) [~W]
+- [Telemedicine and in-person disaster preparedness courses both increased knowledge, with no significant difference in posttest scores between modalities](../claims/telemedicine-in-person-disaster-course-equivalent-posttest.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

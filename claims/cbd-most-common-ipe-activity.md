@@ -50,3 +50,4 @@ Synthesis of learning activities across the 41 included studies in this scoping 
 - [Low facilitator-to-student ratios (roughly 1:6 to 1:16) are preferred in CBD- and simulation-based IPE and were associated with more interaction and feedback opportunities](low-facilitator-ratios-ipe.md) — related
 - [Experiential learning is the most frequently cited learning theory guiding faculty development initiatives in IPE](experiential-learning-most-cited-ipe-faculty-development.md) — related
 - [Problem-based learning, case-based learning, small group discussion, flipped learning, and blended learning were the most common online active learning strategies employed.](oal-dental-education-common-strategies.md) — related
+- [Undergraduate nursing students report exposure to diverse active learning strategies, with team-based learning, simulation, and case-based learning most frequently experienced](nursing-students-experience-diverse-active-learning-strategies.md) — related

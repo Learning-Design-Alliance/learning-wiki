@@ -52,3 +52,5 @@ Comparative study (Høegh-Larsen et al., BMC Nursing, cited in review) comparing
 - [Students perceived greater writing improvements than evaluators confirmed](student-perceived-gains-exceed-evaluator-ratings.md) — related
 - [The review's authors interpret structured pre-briefing as supporting nursing students' metacognition, clinical judgment, and meaningful simulation learning](structured-pre-briefing-supports-clinical-judgment.md) — related
 - [Doctors' self-ratings of understanding overestimate their actual ability to define and use accuracy measures](self-rated-understanding-overestimates-ability.md) — related
+- [Trainee doctors specializing in gynecology tended to overestimate themselves](gynecology-overestimation.md) — a narrower finding that bears on this claim
+- [Less surgical experience is associated with overestimation of abilities](less-experience-overestimation.md) — related

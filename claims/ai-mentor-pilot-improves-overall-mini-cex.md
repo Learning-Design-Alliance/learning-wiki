@@ -50,3 +50,4 @@ Single-group pretest–posttest pilot in which 32 students conducted a 15-minute
 - [AI scores correlated significantly with Mini-CEX scores (r = 0.579, p < 0.001)](ai-scores-correlate-minicex-r-0579.md) — related
 - [Adding a serious game to standard burn training produces a large improvement in Mini-CEX total clinical competence scores relative to standard training alone](serious-game-burn-mini-cex-total-score.md) — related
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
+- [AI-assisted PBL-CBL combined teaching improves Mini-CEX clinical reasoning domains (interviewing, physical examination, clinical judgment, communication) but not humanistic qualities/professionalism or organization/efficiency](ai-pbl-cbl-improves-mini-cex-clinical-reasoning-domains.md) — related

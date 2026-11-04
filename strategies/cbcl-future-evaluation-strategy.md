@@ -47,7 +47,8 @@ The article recommends that future CBCL studies move beyond subjective perceptio
 - [Participant feedback yielded four central themes: engagement, clinical reasoning development, collaborative learning, and professional relevance](../claims/cbcl-feedback-four-themes-radiology-residency.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use longitudinal follow-up assessments to evaluate knowledge retention and clinical application of TBL](longitudinal-assessment-tbl-retention.md)
 
 ## Examples
 -

@@ -46,6 +46,7 @@ The SDP model (Talebzadeh, 2025b) is an operational constraint framework that in
 ## Related Designs
 
 - [Integrated AI Triad (IAT) model for teacher-AI cooperative instructional design](integrated-ai-triad-iat-model.md)
+- [Hybrid paper-electronic medication administration workflow with two distinct pathways](hybrid-medication-administration-workflow-ed.md)
 
 ## Examples
 -

@@ -58,3 +58,4 @@ PLS-SEM path analysis of cross-sectional questionnaire data from 1,198 undergrad
 - [Teacher–AI collaboration is positively related to university teachers' work engagement](teacher-ai-collaboration-positively-related-work-engagement.md) — related
 - [Higher education teachers' digital competence positively and significantly correlates with their work engagement and effort expectancy](digital-competence-correlates-work-engagement.md) — related
 - [Higher digital competence is positively associated with students' digital informal learning and academic engagement](digital-competence-positive-association-dil-engagement.md) — related
+- [Learning engagement is positively correlated with mathematics achievement among high school students.](learning-engagement-positive-correlation-math-achievement.md) — related

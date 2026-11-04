@@ -72,3 +72,4 @@ Subgroup meta-analysis by birth era for mathematics. The most severe impairments
 - [Mathematics impairments are more pronounced than reading deficits for extremely preterm children, and deficits appear across all gestational age strata including late preterm](preterm-deficits-gestational-age-strata.md)
 - [For cohorts born since 1990, reading progress increased while math progress slowed](post-1990-reading-up-math-slowed.md) — related
 - [Preterm birth is associated with deficits in both higher-order reading comprehension and lower-order reading subskills of decoding and word identification, but not pseudoword decoding](preterm-reading-subskill-deficits.md) — related
+- [More than half of very preterm children do not meet expected school readiness or attainment levels at ages 5 to 7 years](half-very-preterm-below-expected-attainment.md) — related

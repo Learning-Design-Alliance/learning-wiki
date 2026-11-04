@@ -55,6 +55,7 @@ The brief recommends building on federal ECE investments by expanding federal pr
 - [Federal strategy to raise ECE quality by setting higher CCDBG standards, minimum quality requirements for federally supported preschool, and funding coaching](federal-strategy-ece-quality-standards-coaching.md)
 - [Six-part strategy for assuring qualified teachers for all students](six-part-qualified-teachers-strategy.md)
 - [Develop and disseminate free, society-based early education models for disadvantaged children and families](society-based-free-models-disadvantaged-children.md)
+- [Reduce families' dependence on private education or expand access to high-quality learning resources for lower-income youth](reduce-private-education-dependence-policy-korea.md)
 
 ## Examples
 -

@@ -50,3 +50,5 @@ Narrative review attributing this to Zhang et al.'s study in which students were
 - [Multi-agent AI standardized patient training improved final OSCE-aligned examination scores compared with a structured non-LLM control condition](ma-scaffolding-improves-osce-exam-score.md) — related
 - [Candidates receiving additional musculoskeletal training (lectures, workshops, video, spaced education, or SCIM) scored higher or similar on OSCEs compared with controls](additional-msk-training-osce-higher-or-similar.md) — related
 - [Students achieved high and consistent OSCE handover performance across antenatal and postpartum stations after the intervention](isbar-osce-high-consistent-performance.md) — related
+- [Simulation-trained students showed higher mean scores across all four OSCE stations compared with clinically trained peers](sbt-higher-mean-scores-all-osce-stations.md) — a narrower finding that bears on this claim
+- [Simulation-trained students significantly outperformed clinically trained peers on the radiation safety procedures OSCE station](sbt-outperforms-cbt-safety-procedures-station.md) — related

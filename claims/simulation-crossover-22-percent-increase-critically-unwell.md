@@ -60,3 +60,4 @@ Narrative review attributing this to McCoy et al.'s prospective randomised cross
 - [Simulation-trained medical students obtain higher tutor-rated practical patient-education scores than students trained with real patients or with theory alone](simulation-training-higher-practical-patient-education-scores.md) — related
 - [Scenario-based simulation yields higher post-test knowledge scores than video-based training in anaesthesia undergraduates learning perioperative anaphylaxis management](sbs-higher-post-test-than-vbt-perioperative-anaphylaxis.md) — related
 - [Voiceover-plus-review-game pedagogy produces quiz performance statistically equivalent to traditional didactic lecture and significantly better than no prior exposure](voiceover-review-game-quiz-equivalence.md) — related
+- [Integrated micro-skills training-CPTM improves OSCE practical skill scores versus traditional teaching](microskills-cptm-higher-osce.md) — related

@@ -49,3 +49,4 @@ Assertion recorded in the review's Table 2 summary of SNAPPS benefits, which als
 - [Supporting evidence is unevenly distributed across the eight clinical teaching models, with OMP and SNAPPS the most extensively studied](omp-snapps-most-studied.md) — related
 - [SNAPPS outperformed the one-minute preceptor and both outperformed traditional clinical teaching for clinical reasoning skill](snapps-superior-one-minute-preceptor-traditional-teaching.md) — possibly the same claim (merge candidate)
 - [Probing the preceptor showed one of the largest behavioural changes, with residents actively asking questions after SNAPPS](snapps-probe-increases-resident-questions.md) — related
+- [Both GGR and SNAPPS significantly improve overall clinical reasoning scores in final-year MBBS students (p<0.001)](ggr-snapps-both-improve-clinical-reasoning.md) — related

@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 72 claims (41 for, 26 mixed, 5 against) · 40 studies (24 causal, 12 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 13 of 40 report an effect size · 71 claims rest on one study
+> **Evidence** · 74 claims (42 for, 27 mixed, 5 against) · 41 studies (24 causal, 12 quant-synthesis, 3 review, 1 associational, 1 design), `q1`–`q4` · 13 of 41 report an effect size · 73 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -96,6 +96,8 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Flipped classroom students are nearly twice as likely to meet physical activity recommendations as traditional-instruction students immediately post-course.](../claims/fc-doubles-odds-of-meeting-pa-guidelines.md) [+W]
 - [Self-directed learning ability and autonomous motivation each significantly and partially mediate the effect of flipped classroom on physical activity.](../claims/sdl-and-am-partially-mediate-fc-pa.md) [+W]
 - [A chained indirect effect through self-directed learning ability then autonomous motivation significantly transmits the flipped classroom effect on physical activity.](../claims/chained-sdl-then-am-indirect-effect.md) [+W]
+- [A higher proportion of flipped classroom students passed the pharmacology exam (75% vs 60% above 50%)](../claims/fc-higher-pass-rate-dental-pharmacology.md) [+W]
+- [The AI-enhanced flipped classroom group scored higher on pre-class preparation and PPT quality than the flipped classroom group, with no significant differences in presentation performance or professional knowledge mastery.](../claims/ai-flipped-classroom-pre-class-quality-gains-bounded.md) [~W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

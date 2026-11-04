@@ -75,3 +75,4 @@ The review's synthesis of SBP intervention evaluations (attributed to Rahmani et
 - [A binding state mandate makes schools 33 percentage points more likely to offer the SBP, and SBP availability increases math, reading, and science achievement in ECLS-K data](sbp-availability-increases-ecls-k-achievement.md) — related
 - [Breakfast After the Bell shows benefits for attendance and behavior, but mixed evidence on test scores](batb-mixed-academic-evidence.md) — related
 - [School Breakfast Program availability is associated with better attendance and reading scores, especially among boys and lower-income students](sbp-attendance-reading-gains.md) — related
+- [The integrated program was associated with improved breakfast habits, school engagement, and academic grades](breakfast-morning-sport-improves-breakfast-habits-engagement-grades.md) — a narrower finding that bears on this claim

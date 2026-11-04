@@ -65,3 +65,4 @@ One-way ANCOVA with project-based learning as independent variable, post-test at
 - [Project based learning improved students' attitudes toward mathematics more than traditional teaching](pbl-improved-mathematics-attitudes.md) — possibly the same claim (merge candidate)
 - [Web-assisted instruction with emotional intelligence content produced higher post-test academic achievement, environmental attitudes and emotional intelligence than traditional lecture in 8th-grade energy-saving instruction](web-assisted-ei-content-posttest-advantage.md) — related
 - [Project based learning has a positive effect on students' attitudes towards classification of organisms](pbl-positive-attitude-classification.md) — possibly the same claim (merge candidate)
+- [Communication skills attitudes improved after an SRL-based curriculum](csas-improvement-after-srl-communication-curriculum.md) — related

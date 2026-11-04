@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-04
 sources:
   - id: richard-océane-2023
     resource: "https://doi.org/10.1080/10872981.2023.2199469"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most pre/post-test (n = 65) and non-randomized controlled (n = 14) studies showed significant improvement in attitudes, skills, knowledge, and behaviors. [→ Richard Océane 2023](#richard-oceane-2023)
@@ -58,3 +59,6 @@ Narrative analysis of the review's non-RCT and PPT studies. For attitudes, "42 o
 - [A one-day clinical simulation curriculum significantly improves pre-health students' basic-science knowledge immediately after the intervention.](simulation-improves-prehealth-knowledge-immediate.md) — a narrower finding that bears on this claim
 - [Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills.](simulation-increases-clinical-confidence.md) — a narrower finding that bears on this claim
 - [Pork belly simulation training improves within-group self-assessed practical skills and confidence](pork-belly-sim-improves-self-assessed-skills-confidence.md) — a narrower finding that bears on this claim
+- [A 3-day Ebola training workshop significantly increased health professionals' knowledge and confidence in caring for EVD patients](ebola-training-workshop-increased-knowledge-confidence.md) — a narrower finding that bears on this claim
+- [Providers reported increased skill, knowledge, and confidence after training interventions](provider-confidence-knowledge-skill-increased-after-training.md) — a narrower finding that bears on this claim
+- [VP simulation training increases clinical self-efficacy but not more than video training](vp-simulation-increases-clinical-self-efficacy.md) — a narrower finding that bears on this claim

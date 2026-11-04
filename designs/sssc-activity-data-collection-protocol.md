@@ -41,7 +41,8 @@ The evaluation's activity data collection is a two-phase instrument for retrospe
 - [Sssc Training Volume 2021](../claims/sssc-training-volume-2021.md) [+M]
 
 ## Related Designs
-- 
+
+- [Two-phase mixed-methods study of board exam prep resources across 42 accredited COM programs](two-phase-com-board-prep-study-2026.md)
 
 ## Examples
 -

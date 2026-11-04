@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 336 claims (209 show a difference, 56 mixed, 71 no difference) · 233 studies (96 causal, 52 associational, 36 quant-synthesis, 32 review, 8 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 52 of 233 report an effect size · 327 claims rest on one study
+> **Evidence** · 337 claims (210 show a difference, 56 mixed, 71 no difference) · 234 studies (96 causal, 52 associational, 36 quant-synthesis, 33 review, 8 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 52 of 234 report an effect size · 328 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -387,6 +387,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [Supplementary textbook use improved learners' attitudes, confidence, interest, and perceived reading ability over a semester](../claims/supplementary-textbooks-improve-attitudes-confidence-interest.md) [+W] — measured as an outcome of the instruction studied
 - [Asymmetrical scaffolding produced higher EFL reading comprehension post-test scores than symmetrical scaffolding](../claims/asymmetrical-scaffolding-outperforms-symmetrical-reading-comprehension.md) [+M] — measured as an outcome of the instruction studied
 - [Symmetrical scaffolding significantly improved EFL learners' reading comprehension scores](../claims/symmetrical-scaffolding-improves-reading-comprehension.md) [+M] — measured as an outcome of the instruction studied
+- [International students studying CBL in a second language and unaccustomed to active learning show poorer knowledge gains than domestic peers](../claims/cbl-international-students-second-language-poorer-gains.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

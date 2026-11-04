@@ -72,3 +72,4 @@ The review reports that across all 16 included articles no study evaluated outco
 - [Across Kirkpatrick Levels 1 and 2, most studies found no statistically significant differences between observer and active participant roles in simulation-based education](observer-vs-active-role-mostly-no-difference-kirkpatrick-1-2.md) — related
 - [Trainees and observers reported generally positive experiences with seven tools in 10 studies (Kirkpatrick level 1)](positive-trainee-experience-seven-tools.md) — related
 - [No included WBA feedback study demonstrated improved learning and performance as a direct result of WBA (Kirkpatrick Level 4); the highest level reached was Level 3](wba-feedback-no-kirkpatrick-level-4-evidence.md) — related
+- [Pharmacy students reported strong engagement and positive reactions to the campaign as an experiential learning activity.](pharmacy-students-strong-engagement-experiential-campaign.md) — related

@@ -50,6 +50,7 @@ The article recommends that business programmes move towards structured AI liter
 - [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
 - [Focus staff development on the judgement work of AI integration rather than tool training](staff-development-judgement-work-of-ai-integration.md)
 - [Supersede restriction-based education and advance toward education that makes new generations aware of the negative consequences of technology use.](move-beyond-restriction-based-screen-education.md)
+- [Integrate structured guidance on responsible, critical AI use alongside self-directed learning approaches](structured-guidance-responsible-critical-ai-use-nursing.md)
 
 ## Examples
 -

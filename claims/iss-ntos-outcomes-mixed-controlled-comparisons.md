@@ -79,3 +79,5 @@ The review reports four controlled comparisons with null results: lecture-based 
 - [In situ simulated emergency training added to routine training raises self-rated first aid ability in junior nurses](in-situ-set-improves-first-aid-junior-nurses.md) — related
 - [In situ simulated emergency training does not significantly improve clinical communication in junior nurses](in-situ-set-no-effect-clinical-communication.md) — related
 - [In situ simulated emergency training does not significantly improve critical thinking in junior nurses](in-situ-set-no-effect-critical-thinking.md) — related
+- [An in-situ simulated patient environment improved knowledge and attitude scores across all professional groups](in-situ-simulated-patient-environment-improved-knowledge-attitude.md) — related
+- [Educational programs incorporating realistic simulations, virtual technologies, and interprofessional exercises are most effective in improving technical skills, confidence, and crisis management](rea-36-studies-simulation-virtual-interprofessional-most-effective.md) — a broader claim this one bears on

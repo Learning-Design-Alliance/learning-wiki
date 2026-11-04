@@ -50,3 +50,4 @@ Randomized comparison within the Upper Limb module analyzed by Mann-Whitney U. C
 - [Integrated videos did not improve confidence in guiding differential diagnosis except in the upper limb examination](video-no-differential-diagnosis-confidence-gain.md) — a narrower finding that bears on this claim
 - [Integrated videos improved perceived explanation quality but not overall confidence for hip/ankle/foot examinations](integrated-video-explanation-quality-hip-ankle-foot.md) — related
 - [No significant differences between intervention and control groups for any knee examination survey item](no-significant-difference-knee-examination-video.md) — related
+- [A standardized training program significantly increases veterinary students' perceived knowledge and confidence in SBWGTT placement and POCUS pathology recognition](training-program-increases-student-knowledge-confidence-sbwgtt.md) — related

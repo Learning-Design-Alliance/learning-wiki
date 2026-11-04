@@ -76,3 +76,4 @@ The review reports this workforce modelling estimate, attributed to Segal et al.
 - [Foundations can serve more people by identifying and supporting effective interventions that are ready to be scaled](foundations-scale-by-supporting-ready-interventions.md) — related
 - [Contextual resource constraints in low- and middle-income settings may limit implementation of structured, feedback-intensive clinical teaching models](resource-constraints-limit-model-transferability.md) — related
 - [Barriers to nurses' diabetes knowledge acquisition include lack of guidelines, inadequate staffing, salary and training resources](barriers-nurse-diabetes-knowledge-ssa.md) — related
+- [Fast-paced, high-stimulus clinical settings with short appointments, lack of privacy and limited access to mental health specialists are major barriers to personality disorder care.](clinical-environment-barriers-to-pd-care.md) — a narrower finding that bears on this claim

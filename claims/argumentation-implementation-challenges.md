@@ -60,3 +60,4 @@ Practitioner perspectives in the primer identify these barriers: scaffolding and
 - [Barriers to soft skills integration: time constraints, systemic obstacles, learner emotional strain, and adapting to new modalities](soft-skills-curricular-barriers-medical-education.md) — related
 - [Lack of support and infrastructure at the school level hinders curricular change implementation](meso-lack-support-infrastructure-hinders-implementation.md) — related
 - [Patient-related, technical and organisational challenges hindered clinical LUS integration](lus-integration-challenges-ed.md) — related
+- [Logistical constraints, including limited time for individualized feedback and challenges related to the physical learning environment, were identified as barriers to the integrated module.](logistical-constraints-limit-individualized-feedback.md) — related

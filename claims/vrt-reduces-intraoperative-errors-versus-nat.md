@@ -74,3 +74,4 @@ Single-centre two-arm RCT randomizing 13 participants to VR training or no addit
 - [Simulation-based training reduces intraoperative errors in laparoscopic surgery](simulation-training-reduces-intraoperative-errors.md) — a broader claim this one bears on
 - [Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test](structured-vrst-curriculum-higher-goals-total.md) — related
 - [Technical errors during biotissue training decreased significantly per attempt, but clinically relevant errors remained at the final attempt, especially for pancreaticojejunostomy](learnbot-error-decrease-residual-errors.md) — related
+- [Consultant paediatric surgeons showed a significant overall reduction in operative time after a 12-week porcine-model laparoscopic training programme](porcine-model-training-reduces-operative-time-consultants.md) — related

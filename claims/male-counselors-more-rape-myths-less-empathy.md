@@ -70,3 +70,4 @@ Bivariate correlations between gender and empathy subscales; the article interpr
 - [Counselors exposed to 'sex trafficking' labels reported more victimization-oriented attitudes than counselors exposed to 'prostitute' labels](trafficking-labels-shift-counselor-attitudes-toward-victimization.md) — related
 - [Programs reduce rape myth acceptance relative to control (g = −0.47)](tdv-programs-reduce-rape-myth-acceptance.md) — related
 - [Female medical students were reported to have higher empathy scores than male students in 18 of the included studies, with no gender differences found in seven cross-sectional studies](female-medical-students-higher-empathy-scores.md) — related
+- [Female students reported significantly higher empathic care intentions than male students, but the sex difference in empathy was not significant](sex-differences-empathic-care-intentions.md) — related

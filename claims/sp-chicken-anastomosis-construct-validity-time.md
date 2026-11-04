@@ -53,3 +53,4 @@ Blinded construct validity comparison of recorded SP chicken anastomosis perform
 - [A modified Delphi process with 14 panelists achieved 100% agreement on a metrics set of 5 steps, 20 errors, 1 failure-to-progress definition and 4 critical errors for the SP anastomosis task](sp-anastomosis-delphi-metrics-consensus.md) — related
 - [The SP chicken anastomosis metrics achieved high inter-rater reliability (IRR 0.96) between two blinded trained reviewers](sp-anastomosis-metrics-inter-rater-reliability.md) — related
 - [Among participants who completed the task without critical errors, novices committed significantly more errors (12.3 vs 8.1) and took more than twice as long (25.3 vs 11.2 min) as experts](sp-anastomosis-non-ce-subgroup-differences.md) — related
+- [Novice first-attempt completion times were significantly longer than expert times on all six FRS VR tasks](frs-vr-novice-times-longer-than-experts.md) — related

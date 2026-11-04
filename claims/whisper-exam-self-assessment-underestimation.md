@@ -48,3 +48,4 @@ Exploratory linkage of tablet identification numbers to questionnaire responses;
 - [The collaborative case-based ‘whisper exam’ is feasible to implement as summative assessment in undergraduate medical education, with a 93.1% pass rate among 350 third-year students](whisper-exam-feasible-summative-collaborative-assessment.md) — related
 - [Most students reported lower pre-exam anxiety before the collaborative whisper exam compared to traditional individual written examinations](whisper-exam-lower-perceived-stress.md) — related
 - [Contextual factors (learner level, discipline, format) moderate Angoff outcomes](angoff-contextual-moderators.md) — related
+- [Low self-confidence leads trainees to underestimate and examiners to give lower grades](low-self-confidence-underestimation-lower-grades.md) — related

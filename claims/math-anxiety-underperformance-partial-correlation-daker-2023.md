@@ -52,3 +52,4 @@ In-lab experimental session with 83 participants (from an initial 288 who comple
 - [Math anxiety is significantly negatively correlated with math achievement in second and third graders, independent of trait anxiety and IQ](math-anxiety-negative-math-achievement-young-children.md) — related
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — a broader claim this one bears on
 - [Math anxiety relates more strongly to Mathematical Reasoning than to Numerical Operations in second and third graders](math-anxiety-stronger-mathematical-reasoning-than-numerical-operations.md) — related
+- [Mathematics anxiety is negatively correlated with learning engagement and mathematics achievement among high school students.](math-anxiety-negative-correlation-engagement-achievement.md) — related

@@ -52,3 +52,4 @@ Narrative synthesis of Pang et al. (2012), an open-ended survey-based qualitativ
 - [Dental hygiene graduates report persistent low confidence in policy use, research use, and advocacy relative to high confidence in clinical domains](dh-graduates-low-confidence-policy-research-advocacy.md) — related
 - [Independent-practice dental hygienists identify educational gaps in public health knowledge, business management, and communication skills](dh-independent-practice-gaps-business-public-health.md) — related
 - [Dental hygiene students show significant cultural competence gaps with deaf and refugee populations, attributed to insufficient communication and cultural training](dh-students-cultural-competence-gaps-deaf-refugee.md) — related
+- [Placement experiences with limited mental health exposure represent a missed opportunity to build confidence in personality disorder care.](limited-clinical-placement-exposure-to-pd.md) — related

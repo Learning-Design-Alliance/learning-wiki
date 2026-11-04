@@ -70,3 +70,4 @@ Random-effects pooled comparison for pseudoword decoding. The article reports th
 - [Preterm academic deficits persist across birth eras, with a substantial mathematics achievement gap in the most recent era (2001-2018)](preterm-deficits-birth-era-strata.md) — related
 - [Preterm reading deficits appear at all assessment ages but are less pronounced at 12 to 18 years, whereas mathematics deficits remain similar in magnitude across age groups](preterm-deficits-age-strata.md) — related
 - [Semantic ability correlates with phonological awareness, rapid naming, and both decoding measures in children with dyslexia](semantics-correlates-pa-ran-decoding.md) — related
+- [More than half of very preterm children do not meet expected school readiness or attainment levels at ages 5 to 7 years](half-very-preterm-below-expected-attainment.md) — related

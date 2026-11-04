@@ -73,3 +73,4 @@ The review reports, citing Milam et al. and Myers et al., that studies hypothesi
 - [Stereotype threat compromises the test performance of learners whose group is the target of a negative stereotype](stereotype-threat-compromises-performance.md) — a broader claim this one bears on
 - [Social identity threat impairs math performance via increased intrusive thoughts and working memory load (being-cognition disfluency)](social-identity-threat-working-memory-performance.md) — related
 - [White men performed measurably worse on tests of innate athletic ability when under stereotype threat](stereotype-threat-athletic-task-white-men.md) — related
+- [High‐skill recognition is better for knot tying, whereas low‐skill recognition is better for the more demanding tasks (CS and IS)](task-dependent-skill-recognition-asymmetry.md) — related

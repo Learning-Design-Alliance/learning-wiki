@@ -69,3 +69,4 @@ Bayesian network meta-analysis (BUGSnet in R 4.3.2, random-effects model, mean d
 - [A single two-hour EBM literature searching workshop did not significantly improve medical students' overall EBM literature searching skills at one week (10.51 vs. 10.50, P=0.99)](single-workshop-no-literature-searching-gain.md) — reports the opposite
 - [Both PBL-CBL and traditional teaching groups improve theoretical and skills scores after the course](both-groups-improve-scores-after-course.md) — related
 - [BOPPPS/FC-CBL group achieves significantly higher theory test scores than LBL group in general practice residency training](boppps-fc-cbl-higher-theory-test-scores-than-lbl.md) — related
+- [International students studying CBL in a second language and unaccustomed to active learning show poorer knowledge gains than domestic peers](cbl-international-students-second-language-poorer-gains.md) — related

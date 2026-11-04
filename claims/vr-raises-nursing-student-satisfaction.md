@@ -51,3 +51,4 @@ Fixed-effects meta-analysis of four randomized controlled trials measuring learn
 - [Digital clinical skills teaching produces higher student satisfaction and engagement across multiple modalities, despite mixed efficacy for skills](digital-clinical-skills-teaching-satisfaction-engagement.md) — related
 - [VR instruction improves nursing students' theoretical knowledge more than traditional teaching methods (SMD = 0.97)](vr-improves-nursing-theoretical-knowledge.md) — related
 - [Students report greater satisfaction with VR-based anatomy learning than with conventional or 2D methods](vr-anatomy-satisfaction-advantage.md) — possibly the same claim (merge candidate)
+- [Integrated model raises satisfaction, clinical thinking, practical skill self-ratings and engagement, with no difference in resource utilization](microskills-cptm-questionnaire-engagement.md) — related

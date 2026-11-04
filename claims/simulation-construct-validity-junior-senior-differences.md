@@ -72,3 +72,4 @@ Sub-group analysis of Gelinas-Phaneuf et al.'s VR tumour-resection simulator: "a
 - [Subanalyses by training level tend to favour CAI for both medical students and residents, though confidence intervals are imprecise](cai-students-residents-subanalysis.md)
 - [The overall positive surgical margin rate was 27.8%, with PSM rates higher in junior surgeons (39.5% and 36.1%) than senior surgeons (17.5% and 21.1%), though not statistically significant](psm-rates-by-surgeon-experience-versius.md) — related
 - [Training modality preferences differ by proficiency level: juniors favor box-trainers and theory, intermediates perfused organs and box-trainers, seniors perfused and ex vivo organs](level-stratified-training-modality-preferences.md) — related
+- [No significant difference in training effect between more and less experienced radiologists or between residents and radiologists](mul-training-effect-independent-of-experience.md) — reports the opposite

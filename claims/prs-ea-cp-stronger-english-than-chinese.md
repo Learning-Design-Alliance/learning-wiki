@@ -76,3 +76,4 @@ Aggregate p-value tests (Simes/ACAT) over SBayesR results contrasted English- an
 - [Gene-based tests identify associations including KCNC1 with pure-tone phonological composite, GTF3C1 with Chinese vocabulary measures, and CATSPERD with English word reading](gene-based-magma-associations-kcnc1-gtf3c1.md) — related
 - The number of genome-wide significant loci associated with educational attainment increases with GWAS discovery sample size — related
 - [Genome-wide association studies and polygenic scores link genetic variants to individual differences in educational attainment, with small per-SNP but increasing aggregate effects](gwas-polygenic-scores-educational-attainment.md) — related
+- [Polygenic scores for EA and dyslexia have opposite associations with school performance in all three subjects](pgs-ea-dyslexia-opposite-school-performance.md) — related

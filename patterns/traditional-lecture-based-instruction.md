@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 110 claims (34 for, 34 mixed, 42 against) · 98 studies (41 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 2 associational, 2 design), `q1`–`q4` · 18 of 98 report an effect size · 102 claims rest on one study
+> **Evidence** · 111 claims (35 for, 34 mixed, 42 against) · 99 studies (41 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 18 of 99 report an effect size · 103 claims rest on one study
 
 ## Description and scope
 
@@ -232,6 +232,7 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Students taught with integrated Rain Classroom and CBL scored significantly lower on objective questions than students taught with traditional lectures](../claims/rain-classroom-cbl-lower-objective-scores.md) [+W]
 - [Students taught with integrated Rain Classroom and CBL scored significantly higher on subjective questions than students taught with traditional lectures](../claims/rain-classroom-cbl-higher-subjective-scores.md) [-W]
 - [Active learning students report greater autonomous clinical practice at 12 months, including vital signs monitoring (46.7% vs. 3%, r = 0.512) and maximum safe local anesthetic dose calculation (82.6% vs. 44%, r = 0.744)](../claims/active-learning-greater-autonomous-clinical-practice-12-months.md) [+W]
+- [Facilitator observations indicated higher student engagement than in lecture-based sessions](../claims/facilitator-observed-higher-engagement-than-lectures.md) [+W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

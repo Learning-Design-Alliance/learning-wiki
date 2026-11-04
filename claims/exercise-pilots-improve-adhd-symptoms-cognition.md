@@ -123,3 +123,4 @@ Between-subjects pilot by Verret et al. of a 10-week moderate- to high-intensity
 - [Neuropsychological software programs positively impacted cognitive performance, with memory benefits across nearly all reviewed studies](neuropsychological-software-improves-cognition.md) — related
 - [By parent report, 62% of intervention children versus 21% of controls responded or improved on ADHD symptom criteria](pfs-responder-analysis-parent-report-clinical-response.md) — related
 - [Behavioral functioning improves significantly across all intervention groups in similar magnitude](behavioral-improvement-equivalent-across-groups.md) — related
+- [A 16-week integrated structured breakfast and morning sport program was associated with greater improvement in Stroop Test performance (selective attention and inhibitory control) than ordinary school routine](breakfast-morning-sport-improves-stroop-selective-attention.md) — a narrower finding that bears on this claim

@@ -1,0 +1,55 @@
+---
+type: claim
+title: BOPPPS-CBL instruction is associated with significantly higher adjusted post-test knowledge scores than lecture-based learning in undergraduate HAI education
+description: BOPPPS-CBL instruction is associated with significantly higher adjusted post-test knowledge scores than lecture-based learning in undergraduate HAI education
+id: boppps-cbl-higher-adjusted-posttest-hai-knowledge
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: fei-yuda-2026
+    resource: "https://doi.org/10.1186/s12909-026-09428-9"
+    title: "Fei Yuda, Zhang Yaning, Cai Jie, Xu Mei, Huang Jing, Du Bin. (2026). Effects of the BOPPPS model combined with case-based learning on knowledge acquisition and learning engagement in undergraduate nursing students: a multi-cohort quasi-experimental study. BMC Medical Education. https://doi.org/10.1186/s12909-026-09428-9"
+    author: Fei Yuda, Zhang Yaning, Cai Jie, Xu Mei, Huang Jing, Du Bin
+    q: 2
+    i: 3
+    kind: causal
+    rigour: 2
+---
+
+# BOPPPS-CBL instruction is associated with significantly higher adjusted post-test knowledge scores than lecture-based learning in undergraduate HAI education
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Fei Yuda 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
+
+## Subclaims
+`q2 i3` After ANCOVA adjustment for pre-test scores, the BOPPPS-CBL group scored significantly higher on the post-test than the LBL group (adjusted mean difference = 13.58, partial eta-squared = 0.669). [→ Fei Yuda 2026](#fei-yuda-2026)
+
+## Evidence
+
+### Fei Yuda 2026
+
+Fei Yuda, Zhang Yaning, Cai Jie, Xu Mei, Huang Jing, Du Bin. (2026). Effects of the BOPPPS model combined with case-based learning on knowledge acquisition and learning engagement in undergraduate nursing students: a multi-cohort quasi-experimental study. BMC Medical Education. https://doi.org/10.1186/s12909-026-09428-9
+
+`q2 · i3` · `causal · r2`
+
+Multi-cohort quasi-experiment with historical control (2023 LBL n=21; 2024/2025 BOPPPS-CBL n=43) at one Chinese nursing school; ANCOVA on identical pre/post tests showed "adjusted mean = 87.19 vs. 73.61" with partial eta-squared = 0.669.
+
+> "ANCOVA revealed that the BOPPPS-CBL group achieved significantly higher post-test scores after adjusting for baseline differences (adjusted mean = 87.19 vs. 73.61; mean difference = 13.58, 95% CI: 11.14–16.03, F(1,61) = 123.46, p < 0.001, partial eta-squared = 0.669)."
+
+## Discussion
+
+
+## Related Claims
+- [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — a broader claim this one bears on
+- [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
+- [BOPPPS/FC-CBL group achieves significantly higher theory test scores than LBL group in general practice residency training](boppps-fc-cbl-higher-theory-test-scores-than-lbl.md) — related
+- [BOPPPS/FC-CBL group achieves significantly higher practical skills scores than LBL group](boppps-fc-cbl-higher-practical-skills-than-lbl.md) — related
+- [Differences among the six novel teaching strategies are minor, and in pairwise meta-analysis only BOPPPS and SBL significantly beat LBL on all three outcomes](minor-differences-among-novel-strategies-pairwise.md) — related
+- [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
+- [BOPPPS/FC-CBL group achieves significantly higher clinical case evaluation scores than LBL group](boppps-fc-cbl-higher-clinical-case-scores-than-lbl.md) — related

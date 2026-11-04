@@ -53,3 +53,4 @@ Bivariate non-parametric comparisons (Mann–Whitney U, Kruskal–Wallis) across
 - [In the adjusted model, intermediate professional title is positively associated with the high-level profile while short nursing tenure is negatively associated with it](title-and-tenure-associations-high-level-profile.md) — related
 - [Age group and staff position are the only demographic factors associated with significant growth in perceived competency, with registered nurses and nurses aged 30–34 showing the greatest gains](age-and-staff-position-moderate-competency-growth.md) — reports the opposite
 - [Demographic and professional characteristics showed no statistically significant associations with PCC competency scores](no-demographic-associations-pcc-competency.md) — related
+- [Significant differences in patient-centered medication management by age and experience, but not overall competence](age-experience-differences-patient-centered-medication-management.md) — related

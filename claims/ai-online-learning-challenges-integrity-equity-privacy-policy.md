@@ -78,3 +78,4 @@ The review reports, citing Rodríguez et al. (2022), systemic inequality issues 
 - [IDs raised data security, privacy, authorship, ownership, and plagiarism concerns, noting a lack of guidelines and policies for ethical GenAI use](genai-data-security-authorship-policy-gaps.md) — a narrower finding that bears on this claim
 - [Ethical and legal considerations were emphasized by 71% of included studies on AI competencies for health professionals](ethical-legal-considerations-71-percent-studies.md) — related
 - [Significant barriers to AI implementation include algorithmic bias, lack of transparency, data privacy concerns, unregulated use, and system limitations](ai-implementation-barriers-medical-education.md) — possibly the same claim (merge candidate)
+- [Generative AI in board exam prep emerged as a challenge in interviews but was not captured in the survey](generative-ai-emerging-challenge-board-prep.md) — a narrower finding that bears on this claim

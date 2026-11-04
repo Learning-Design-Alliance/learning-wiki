@@ -69,3 +69,4 @@ Difficulty-range classification against thresholds P≤.25, .25<P<.75, and P≥.
 - [GenAI-assisted items showed weaker corrected point-biserial discrimination and more negative discrimination than educator-crafted items](genai-mcq-weaker-discrimination.md) — related
 - [Faculty-generated SBMCQs met all three ideal item-analysis criteria more often than ChatGPT-generated SBMCQs (19 vs. 9 of 40)](faculty-sbmcqs-outperform-chatgpt-ideal-criteria.md) — related
 - [GenAI-assisted and educator-crafted total scores were positively correlated (r=0.49) but showed limited agreement at the individual level](genai-mcq-score-agreement-limited.md) — related
+- [A majority of ChatGPT-generated MCQs met 'good quality' criteria for balanced difficulty and discrimination](chatgpt-mcq-good-quality-proportion.md) — related

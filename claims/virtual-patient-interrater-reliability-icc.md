@@ -49,3 +49,4 @@ Interrater reliability analysis of the pilot study's 5 raters scoring the same 4
 - [Expert raters systematically scored virtual patients as moderately more severe than configured, with a mean absolute error of 5.80 on total MADRS score](systematic-severity-overestimation-virtual-patients.md) — related
 - [Expert raters' MADRS scores of LLM-based virtual patients fall near predefined clinical profile scores, with a mean item difference of 0.52 (SD 0.75)](virtual-patients-madrs-score-alignment.md) — related
 - [Expert raters rated the virtual patients' profile consistency, character cohesion, and dialogue realism favorably across 20 interviews](virtual-patient-qualitative-realism-ratings.md) — related
+- [Expert reference standard for MUL measurements showed excellent agreement (ICC 0.90)](expert-reference-mul-icc-090.md) — related

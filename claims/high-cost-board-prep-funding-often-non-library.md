@@ -1,0 +1,49 @@
+---
+type: claim
+title: About half of funding for high-cost board exam prep resources originates outside the library budget
+description: About half of funding for high-cost board exam prep resources originates outside the library budget
+id: high-cost-board-prep-funding-often-non-library
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: muellenbach-j-2026
+    resource: "https://doi.org/10.5195/jmla.2026.2320"
+    title: "Muellenbach J, Robinson K, Chen H, Bright HS IV, Fitterling L. (2026). Board exam preparation resource trends in academic health sciences libraries serving colleges of osteopathic medicine programs. Journal of the Medical Library Association : JMLA. https://doi.org/10.5195/jmla.2026.2320"
+    author: Muellenbach J, Robinson K, Chen H, Bright HS IV, Fitterling L.
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# About half of funding for high-cost board exam prep resources originates outside the library budget
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` High-cost subscriptions such as TrueLearn, ScholarRx, and OnlineMedEd were often funded by non-library units including the Dean's office and Academic Affairs, while libraries focused on lower-cost review collections. [→ Muellenbach J 2026](#muellenbach-j-2026)
+
+## Evidence
+
+### Muellenbach J 2026
+
+Muellenbach J, Robinson K, Chen H, Bright HS IV, Fitterling L. (2026). Board exam preparation resource trends in academic health sciences libraries serving colleges of osteopathic medicine programs. Journal of the Medical Library Association : JMLA. https://doi.org/10.5195/jmla.2026.2320
+
+`q2 · i?` · `associational · r2`
+
+Phase one survey with parallel funding items (Q1a library-funded, Q2a non-library-funded) to reduce misclassification. The discussion states "about half of the funding for these resources originates outside the library budget."
+
+> "Survey responses revealed that high-cost subscriptions, including TrueLearn (COMLEX Level 1, Level 2, and COMAT Shelf Exams), ScholarRx, and OnlineMedEd, were often funded by non-library units such as the Dean's office, Academic Affairs, or student support departments (Table 2)."
+
+## Discussion
+
+
+## Related Claims
+- [All responding COM libraries provide at least one dedicated board exam prep resource, with TrueLearn COMLEX Level 1 the most commonly funded resource overall](com-libraries-provide-board-prep-resources-truelearn-most-common.md) — related
+- [Libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget](library-expertise-essential-regardless-of-funding-source.md) — related

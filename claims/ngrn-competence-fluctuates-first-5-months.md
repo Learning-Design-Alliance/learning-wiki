@@ -50,3 +50,4 @@ Longitudinal self-assessment of 151 newly graduated registered nurses using the 
 - [Therapeutic interventions is the lowest self-assessed competence domain and was rated insufficient in the first months of work](therapeutic-interventions-lowest-competence-domain.md) — related
 - [Simulation was not suggested as supporting the helping role and teaching–coaching competence domains](simulation-not-suggested-helping-teaching-coaching.md) — related
 - [Preceptors identified nine potentialities through which simulation may support newly graduated nurses during their transition to independent practice](nine-simulation-potentialities-ngrn-transition.md) — related
+- [Individual growth curves demonstrated continuous improvement for most students over the training period.](individual-growth-curves-continuous-improvement.md) — related

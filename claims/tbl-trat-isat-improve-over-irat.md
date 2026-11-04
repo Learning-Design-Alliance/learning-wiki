@@ -61,3 +61,4 @@ Discussion of performance results: the authors state the tRAT gain is expected b
 - [TBL improves team readiness assurance test scores compared to individual tests](tbl-grat-outperforms-irat.md) — related
 - [Students in healthcare-professions TBL achieve significantly higher GRAT scores than IRAT scores (pooled SMD = 2.05)](grat-scores-higher-than-irat-tbl-meta-analysis.md) — related
 - [Students consistently scored higher on the tRAT than on the iRAT across all themes, reflecting the benefits of peer explanation and collaborative reasoning.](tbl-trat-exceeds-irat-across-themes.md) — a narrower finding that bears on this claim
+- [Team-based readiness assurance test scores significantly exceeded individual readiness assurance test scores in an interdisciplinary TBL session](t-rat-exceeds-i-rat-interdisciplinary-tbl.md) — a narrower finding that bears on this claim

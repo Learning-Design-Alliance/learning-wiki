@@ -48,3 +48,4 @@ Descriptive survey results from the same 318-student cross-sectional study, repo
 - [Female students assign greater importance to planning and participation in their overall valuation, while course pacing matters only for male students](gender-differences-teaching-methods-importance.md) — related
 - [Students were satisfied with Learning Together at high to highest levels and ranked it the most suitable instruction method for the course](lt-student-satisfaction-high-french-literature.md) — related
 - [The scenario-based group's overall experience score was substantially higher than the traditional group's](overall-experience-higher-simulation-group.md) — related
+- [Most nurses expressed satisfaction with the AMS course content and its relevance to everyday practice](nursing-ams-course-satisfaction-relevance.md) — related

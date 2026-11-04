@@ -57,3 +57,4 @@ One-way ANOVA comparing users and non-users on 5-point Likert items (3 neutral) 
 - [Students using LecturaAgents reported stronger perceived understanding, assessment readiness, and future learning support than comparison-tool users](lecturaagents-student-survey-perceptions.md) — related
 - [VLI learners held more positive attitudes toward the learning situation than TCI learners](vli-more-positive-attitudes-than-tci.md) — related
 - [Year 3 participants showed more positive attitudes toward the integrated courses than year 1 participants (97% vs 74% positive)](year3-more-positive-attitude-integrated-courses.md) — related
+- [Students report low self-assessed knowledge but high perceived need for education and willingness to train](low-self-knowledge-high-education-need.md) — related

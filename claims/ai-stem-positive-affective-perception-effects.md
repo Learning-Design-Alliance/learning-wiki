@@ -58,3 +58,4 @@ The review's synthesis reports that 17 studies examined affective outcomes. Stud
 - [Affective outcomes (satisfaction, confidence, engagement) are consistently positive across ADS modalities but rest predominantly on subjective, short-term measures](ads-affective-outcomes-consistent-subjective.md) — a broader claim this one bears on
 - [Deaf students report high overall perception of MFTM across interest, self-confidence, persistence and motivation](high-student-perception-mftm-four-dimensions.md) — a narrower finding that bears on this claim
 - [Students show deficiencies in improving school performance, group work, problem solving and communication in learning activities with ICT, despite positive attitudes toward technology.](escuela2-students-deficiencies-higher-order.md) — related
+- [Student perceptions of AI technology may negatively influence satisfaction with synthetic voices](ai-perception-affects-satisfaction.md) — related

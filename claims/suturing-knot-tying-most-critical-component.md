@@ -49,3 +49,5 @@ Survey item on perceived importance of simulator training modules reported for t
 - [Simulation-based training improves suturing, cutting, and cautery skills](simulation-training-improves-suturing-cutting-cautery.md) — related
 - [A Leap Motion Controller-based system discriminated expert from novice surgical knot-tying performance with 100% accuracy, supporting construct validity for objective dexterity assessment](lmc-construct-validity-dexterity-assessment.md) — related
 - [Digital and virtual classroom suturing training can cost less than face-to-face training, with printed savings of 58.9% and 44.2%](digital-suturing-training-cost-savings.md) — related
+- [Knot Tying showed the lowest and most variable expert scores on FRS VR, likely due to poor interaction fidelity](frs-vr-knot-tying-poor-interaction-fidelity.md) — related
+- [High‐skill recognition is better for knot tying, whereas low‐skill recognition is better for the more demanding tasks (CS and IS)](task-dependent-skill-recognition-asymmetry.md) — related

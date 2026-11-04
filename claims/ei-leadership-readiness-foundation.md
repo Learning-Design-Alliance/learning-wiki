@@ -48,3 +48,4 @@ Interview theme on leadership: students described leadership as understanding fe
 - [Students report that EI supports interpersonal relationships and teamwork through empathy, active listening, and conflict management](ei-teamwork-empathy-conflict-management.md) — related
 - [Students enact agency toward groups by fostering relational awareness, building interpersonal relationships, holding dialogue, and seeing from other perspectives](agency-toward-groups-actions.md) — related
 - [Evidence on simulation-based leadership training lacks longitudinal follow-up and objective patient-centered outcomes, limiting causal inference](limited-longitudinal-evidence-simulation-leadership.md) — related
+- [Emotionally sensitive communication and interpersonal relationship skills are the least represented themes with limited systematic longitudinal development](emotional-competencies-least-represented.md) — related

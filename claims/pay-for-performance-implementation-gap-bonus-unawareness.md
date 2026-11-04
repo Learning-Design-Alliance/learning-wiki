@@ -53,3 +53,4 @@ The brief's key findings report that both studies found the policy as implemente
 - [Educators' understanding of the TIF program improved in year two, but more than one-third of teachers still did not know they were eligible for a bonus and underestimated bonus size](tif-educator-understanding-improved-but-incomplete.md) — related
 - [More than half of teachers in the evaluation districts did not know they were eligible for pay-for-performance bonuses](tif-more-than-half-of-teachers-unaware-of-bonus-eligibility.md) — related
 - [In the 10 evaluation districts, educators did not always understand the performance measures and pay-for-performance bonuses used for TIF](tif-educators-did-not-always-understand-measures-and-bonuses.md) — related
+- [Awareness of pre-notification policies is strongly associated with consistent pre-notification behaviour](pre-notification-policy-awareness-behaviour-link.md) — related

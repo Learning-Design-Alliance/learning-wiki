@@ -49,3 +49,4 @@ Overconfidence defined as an incorrect response with a self-reported confidence 
 - [Accuracy rates differ significantly among ChatGPT, Claude, and Gemini on text-based endodontic examination questions](llm-accuracy-differs-endodontic-exam-questions.md) — related
 - [Self-reported confidence scores differ significantly among the three LLMs, with Gemini highest and Claude lowest](llm-confidence-scores-differ-endodontic-questions.md) — related
 - [Accuracy, confidence, and overconfidence do not differ significantly between basic knowledge and clinical questions](no-question-type-differences-llm-endodontic-performance.md) — related
+- [Error distributions differed directionally across LLMs: Claude produced more false positives (14.2%), whereas Gemini and ChatGPT produced more false negatives (25.9% and 47.9%, respectively)](llm-ospe-asymmetric-error-patterns.md) — related

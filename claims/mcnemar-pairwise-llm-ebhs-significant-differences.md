@@ -51,3 +51,4 @@ McNemar's test compared paired responses across the 300 items for each model pai
 - [Proprietary LLM architectures showed consistently higher mean accuracy than open-source architectures on the EBHS examination, with GPT-5 Pro the leading model at 85% accuracy.](proprietary-llms-outperform-open-source-ebhs.md) — related
 - [Claude Sonnet 4.5 significantly outperformed Grok 4 on OLA questions, the only significant pairwise difference on that examination](claude-outperformed-grok4-ola-pairwise.md) — related
 - [Gemini 2.5 Pro significantly outperformed GPT-5 on EDAIC questions as the only significant pairwise difference after Holm correction](gemini-outperformed-gpt5-edaic-pairwise.md) — related
+- [Qwen-3 and MedGemma exhibited notably lower accuracy on pediatric dentistry DUS questions than other LLMs](qwen-medgemma-lowest-accuracy-pediatric-dus.md) — related

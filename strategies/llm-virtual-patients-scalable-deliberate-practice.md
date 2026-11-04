@@ -50,6 +50,7 @@ The article recommends LLM-driven multimodal simulation as a scalable solution t
 
 - [Use rubric-guided multiagent LLM simulation workflows for scalable, auditable psychotherapy practice and formative feedback](multiagent-llm-simulation-psychotherapy-training-strategy.md)
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
+- [Use periodic high-intensity training sessions to compensate for uneven clinical case exposure in paediatric surgery](periodic-high-intensity-training-uneven-case-volumes.md)
 
 ## Examples
 -

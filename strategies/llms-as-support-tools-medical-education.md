@@ -48,6 +48,7 @@ Based on the demonstrated consistency gap, the authors recommend that AI systems
 - [Use LLMs as supportive educational tools and complements, not replacements, in medical education](llms-as-supportive-tools-not-replacements-medical-education.md)
 - [Frame LLM use in biomedical education around low‐stakes formative tasks with expert‐guided verification and rationale requests](llm-low-stakes-formative-use-expert-verification-strategy.md)
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
+- [Use ChatGPT-4o as a supplementary educational tool rather than an autonomous clinical decision-support system in non-English contexts](chatgpt-4o-as-supplementary-tool-non-english.md)
 
 ## Examples
 -

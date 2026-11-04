@@ -52,3 +52,4 @@ Lecturer evaluation of DPBL activities by the five lecturers involved in the stu
 ## Related Claims
 - [DPBL students scored higher than direct instruction students on knowledge, creative thinking, and teamwork in a Computer Networks course](dpbl-outperformed-direct-instruction-outcomes.md) — related
 - [Students reported that the DPBL approach improved knowledge, creative thinking and teamwork skills](dpbl-improves-knowledge-creative-thinking-teamwork.md) — related
+- [Students report the exercise enhanced creative problem-solving (80% agree or strongly agree)](pbl-enhanced-problem-solving-perceptions.md) — related

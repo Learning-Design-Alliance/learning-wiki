@@ -49,3 +49,4 @@ Qualitative interpretivist study using semi-structured interviews with academics
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related
 - [GenAI-era ICT assessment reform requires a whole-of-institution transformation across seven sequential themes](genai-assessment-reform-sequential-seven-themes.md) — related
 - [GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving](genai-immediacy-reduces-teacher-interactions.md) — related
+- [Student interviews yielded three themes: emotions, feelings of being a doctor, and interactions with simulated participants](student-interview-themes-communication-curriculum.md) — related

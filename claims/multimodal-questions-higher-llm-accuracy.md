@@ -53,3 +53,4 @@ Subgroup analysis by question format across the included studies (text-only 47 s
 - [GPT-4 achieves passing accuracy on USMLE Steps 1–3 (mean 86%), significantly exceeding GPT-3.5 (mean 56%)](gpt4-usme-passing-accuracy-exceeds-gpt35.md) — related
 - [LLMs underperformed on image-based dental examination questions compared with text-based questions](llms-underperform-image-based-questions.md) — reports the opposite
 - [LLMs perform worse on dental licensing examinations than on medical licensing examinations](llms-perform-worse-dental-than-medical-licensing-exams.md) — related
+- [ChatGPT-4o's accuracy on U.S. Dental Decks was consistent across question formats (plain-text, case-box, and image-based)](chatgpt-4o-us-question-format-consistency.md) — related

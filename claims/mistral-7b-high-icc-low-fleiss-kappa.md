@@ -54,3 +54,4 @@ Same experimental comparative study; the local Mistral 7B model was deployed via
 - [GPT-4 achieved almost perfect inter-rater reliability with faculty after three iterations of rubric engineering on three of four medical school OEQ questions](gpt4-almost-perfect-irr-after-rubric-engineering.md) — related
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [The checklist assessment showed strong interrater reliability, contributing validation evidence](checklist-interrater-reliability-kappa-0875.md) — related
+- [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related

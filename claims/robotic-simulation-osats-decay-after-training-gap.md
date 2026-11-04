@@ -48,3 +48,5 @@ Retrospective single-institution study of 30 residents in a skill decay group re
 - [Higher-order OSATS subdomains are most vulnerable to decay while fundamental psychomotor domains remain stable](higher-order-osats-subdomains-vulnerable-to-decay.md) — related
 - [Task completion time worsens after training gaps, with efficiency loss evident by six months](robotic-simulation-efficiency-loss-by-six-months.md) — related
 - [Higher baseline OSATS predicts subsequent measurable skill decline](higher-baseline-osats-predicts-decline.md) — related
+- [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
+- [Robotic simulation training independently associated with higher OSATS and TSM scores after adjustment](robotic-simulation-training-higher-performance.md) — related

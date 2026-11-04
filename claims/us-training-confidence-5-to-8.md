@@ -52,3 +52,4 @@ Wilcoxon signed-rank comparison of pre- and post-training questionnaire ratings 
 - [A renal biopsy simulation workshop significantly increased fifth-year medical students' self-perceived ability to perform renal biopsy](renal-biopsy-simulation-workshop-increased-student-confidence.md) — related
 - [High-fidelity simulation and procedural simulation workshops yield similar cannulation times for VA-ECMO training](high-fidelity-vs-procedural-simulation-ecmo-cannulation-time.md) — related
 - [Self-efficacy for ultrasound procedural performance increased significantly after training among Korean Medicine students (p < .001, d = 1.44)](ultrasound-training-self-efficacy-increase-km.md) — related
+- [Reader confidence in measuring MUL significantly increased across all training groups](online-training-improves-mul-reader-confidence.md) — related

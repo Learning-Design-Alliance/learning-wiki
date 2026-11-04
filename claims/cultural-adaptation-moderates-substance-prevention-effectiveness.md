@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: bajpai-tewari-2026
     resource: "https://doi.org/10.3390/ijerph23081073"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Culturally grounded kiR adaptations for Mexican descent students produced more favourable substance use attitudes and behaviours, particularly among English-dominant high-risk students. [→ Bajpai Tewari 2026](#bajpai-tewari-2026)

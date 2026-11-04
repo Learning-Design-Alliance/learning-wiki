@@ -71,3 +71,4 @@ Paired Wilcoxon signed-rank tests in the longitudinal subset evaluated at both t
 - [The sonic scaler is faster than Gracey curettes across all strata, with no significant difference in cleaning effectiveness](sonic-scaler-faster-than-gracey.md) — related
 - [Students become faster and more accurate in equation rearrangement over a short practice session even without feedback](short-practice-improves-equation-rearrangement.md) — reports the opposite
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — a broader claim this one bears on
+- [Reasoning-enabled LLM modes improved accuracy but required excessively long generation times, creating a speed-accuracy trade-off](llm-reasoning-speed-accuracy-tradeoff-dental-exam.md) — related

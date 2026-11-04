@@ -59,3 +59,4 @@ Item analysis of four test sessions in a crossover study that enrolled all 120 f
 - [GenAI-assisted items had more distractor-functioning red flags — nonfunctioning and negatively discriminating distractors — although these differences were not statistically significant](genai-mcq-distractor-red-flags.md) — related
 - [Human-edited GenAI-assisted items achieved plausible difficulty: mean difficulty index did not differ significantly and more GenAI-assisted items fell in the acceptable difficulty range](genai-mcq-plausible-difficulty.md) — related
 - [Student-generated MCQs showed higher item discrimination than AI-generated MCQs, with a small effect size and a majority of AI items in the poor-discrimination band](student-gen-items-higher-discrimination.md) — related
+- [A majority of ChatGPT-generated MCQs met 'good quality' criteria for balanced difficulty and discrimination](chatgpt-mcq-good-quality-proportion.md) — reports the opposite

@@ -64,3 +64,5 @@ Post-task questionnaire with 25 items (21 Likert-scale) completed by 30 students
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related
 - [Students rated the peer-assisted simulation workshops highly, with mean satisfaction scores above 4 of 5](high-satisfaction-peer-simulation-workshops.md) — related
 - [Students rate the simulation program highly acceptable and useful, with the simulation component rated most useful.](simulation-high-acceptability-ratings.md) — related
+- [Students rate the AISP chatbot highly usable, with robotic conversational style the most common concern](aisp-cortex-usability-cuq-findings.md) — related
+- [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related

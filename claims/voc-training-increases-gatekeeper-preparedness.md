@@ -55,3 +55,4 @@ A quasi-experimental post-hoc study of 758 faculty, staff and administrators (65
 - [Digital interventions show sustained improvements in performance and retention, with confidence and diagnostic ability remaining elevated four months post-intervention in some studies](digital-learning-knowledge-retention-four-months.md) — a broader claim this one bears on
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Neither exam format meaningfully changed students' self-perceived preparedness for the upcoming summative exam](no-change-self-perceived-preparedness.md) — related
+- [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related

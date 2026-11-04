@@ -1,0 +1,54 @@
+---
+type: claim
+title: Exercise capacity assessment, exercise prescription, and patient education showed the most clinically meaningful shifts
+description: Exercise capacity assessment, exercise prescription, and patient education showed the most clinically meaningful shifts
+id: pr-training-largest-gains-core-delivery-competencies
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: weak
+newest_evidence: 2026
+sources:
+  - id: walsh-jessica-a-2026
+    resource: "https://doi.org/10.1017/S146342362610139X"
+    title: "Walsh Jessica A., Dale Marita T., McKeough Zoe J., Alison Jennifer A., Dennis Sarah M. (2026). Changes in knowledge, skills, and confidence following a training program for primary care physiotherapists and exercise physiologists in pulmonary rehabilitation: a pre-post study. Primary Health Care Research & Development, 27, e74. https://doi.org/10.1017/S146342362610139X"
+    author: Walsh Jessica A., Dale Marita T., McKeough Zoe J., Alison Jennifer A., Dennis Sarah M.
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Exercise capacity assessment, exercise prescription, and patient education showed the most clinically meaningful shifts
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Among self-rated domains, exercise capacity assessment, exercise prescription, and patient education showed the most clinically meaningful pre-to-post shifts and are the competencies most directly required for day-to-day PR delivery in private practice. [→ Walsh Jessica A. 2026](#walsh-jessica-a-2026)
+
+## Evidence
+
+### Walsh Jessica A. 2026
+
+Walsh Jessica A., Dale Marita T., McKeough Zoe J., Alison Jennifer A., Dennis Sarah M. (2026). Changes in knowledge, skills, and confidence following a training program for primary care physiotherapists and exercise physiologists in pulmonary rehabilitation: a pre-post study. Primary Health Care Research & Development, 27, e74. https://doi.org/10.1017/S146342362610139X
+
+`q2 · i?` · `causal · r1`
+
+Authors' interpretation of the Likert data from the pre-post cohort, identifying the three domains with the largest shifts as those "most directly required for day-to-day PR delivery in private practice". No effect sizes are printed for individual domains.
+
+> "Among the self-rated domains, exercise capacity assessment, exercise prescription, and patient education showed the most clinically meaningful shifts pre- to post-training and are the competencies most directly required for day-to-day PR delivery in private practice."
+
+## Discussion
+
+
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: measured as an outcome of the instruction studied
+
+## Related Claims
+- [A short pulmonary rehabilitation training program significantly improved knowledge scores in primary care physiotherapists and AEPs](pr-training-improves-knowledge-primary-care-clinicians.md) — related
+- [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — a broader claim this one bears on
+- [Spirometry was the lowest-rated domain at baseline and remained lowest after training despite improvement](spirometry-lowest-rated-domain-pr-training.md) — related
+- [Most participants met the 80% knowledge competency threshold and 94% met practical competencies only after training](pr-training-competency-threshold-attainment.md) — related

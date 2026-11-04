@@ -87,3 +87,4 @@ In the same ZINB count model of StatBot use, prior knowledge carried a negative 
 - [Student personal and educational characteristics (gender, age, grade, GPA, courses taken, SAE type) were descriptively profiled for the 102 participants in the two groups](participant-characteristics-oklahoma-animal-science-students.md) — related
 - [Female students used the application more and learned more vocabulary, while male students scored higher on performance rating and posttest](gender-differences-english-app-usage.md) — related
 - [Female participants scored significantly higher than male participants on perceived skills in promoting student SEL](lq-gender-difference-perceived-sel-skills.md) — related
+- [Female students are more negative about their overall integrated TBL experience than male students.](female-students-more-negative-overall-tbl-experience.md) — related

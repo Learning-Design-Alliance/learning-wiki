@@ -53,3 +53,5 @@ The review attributes this to Lin-na et al. (2023), a quasi-experimental study o
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Feedback-oriented and interactive instructional methods are associated with improvements in clinical reasoning, procedural skills, and learner confidence in orthodontic postgraduate education](feedback-oriented-interactive-methods-improve-orthodontic-clinical-competence.md) — related
 - [Simulation training across medical and surgical scenarios yields significantly higher OSCE scores than didactic lectures across two year groups](simulation-higher-osce-scores-zhang.md) — related
+- [Integrated micro-skills training-CPTM improves OSCE practical skill scores versus traditional teaching](microskills-cptm-higher-osce.md) — related
+- [Simroid robot training effects persisted at the second assessment, with significant differences in clinical examination and doctor-patient communication](simroid-robot-effects-persisted-second-assessment.md) — related

@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (13 for, 11 mixed, 3 against) · 28 studies (8 review, 7 causal, 6 quant-synthesis, 5 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 28 report an effect size · 25 claims rest on one study
+> **Evidence** · 28 claims (13 for, 12 mixed, 3 against) · 29 studies (8 review, 7 causal, 6 quant-synthesis, 5 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 29 report an effect size · 26 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -78,6 +78,7 @@ Assessment is the structured collection of evidence about learner understanding,
 - [In an exploratory blinded comparison of five double-marked submissions, no statistically significant differences were detected between AI-generated and faculty-generated feedback across rated domains](../claims/blinded-comparison-no-significant-difference-ai-vs-faculty-feedback.md) [~W]
 - [Classic Mini-CEX systematically overlooks OHL communication practices in pediatric pneumonia education](../claims/mini-cex-blind-spot-ohl-communication.md) [-W]
 - [Faculty preparedness gaps and psychometric subjectivity are key barriers to implementing OHL-Mini-CEX](../claims/ohl-mini-cex-implementation-barriers.md) [~W]
+- [Trainee surgeons' self-assessment scores are lower than expert evaluation scores on a suture exercise](../claims/sa-lower-than-ee-suture-scores.md) [~W]
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

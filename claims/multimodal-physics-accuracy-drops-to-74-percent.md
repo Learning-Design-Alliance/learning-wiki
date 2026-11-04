@@ -77,3 +77,4 @@ Cochran's Q test for paired proportions comparing the three models on the 44 mul
 - [Studies using both text- and image-based questions show higher pooled LLM accuracy (78%) than text-only studies (71%)](multimodal-questions-higher-llm-accuracy.md) — reports the opposite
 - [LLMs underperformed on image-based dental examination questions compared with text-based questions](llms-underperform-image-based-questions.md) — related
 - [Image-associated items show lower model accuracy both when images are supplied (OR 0.33) and when withheld (OR 0.11)](image-items-lower-model-accuracy.md) — related
+- [Item characteristics associated with LLM-human discrepancy on multimodal OSPE items cluster into three mechanisms: non-standard histological staining, 3D spatial reasoning from 2D images, and semantic inflexibility in short-answer evaluation](llm-ospe-divergence-mechanisms.md) — related

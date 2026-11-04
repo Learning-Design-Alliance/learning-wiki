@@ -64,3 +64,7 @@ The review's synthesis of 15 included studies (two RCTs, one quasi-experimental,
 - [Students perceive personalised simulation with adaptive scenario complexity and targeted role allocation as supporting professional confidence and role development](personalised-simulation-confidence-role-development.md) — related
 - [Participants anticipate professional development and patient-level benefits from interprofessional learning](anticipated-benefits-ipe-pharmacy.md) — related
 - [Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills.](simulation-increases-clinical-confidence.md) — related
+- [A competency-based multiactor emergency preparedness training curriculum improved cognitive knowledge, self-assessed skill, and scenario performance after video debriefing](competency-based-multiactor-ept-improved-performance.md) — related
+- [An in-situ simulated patient environment improved knowledge and attitude scores across all professional groups](in-situ-simulated-patient-environment-improved-knowledge-attitude.md) — related
+- [Most participants reported perceived competency gains in interprofessional collaboration, communication, teamwork and empathy, and professional knowledge and skills](mcleims-perceived-competency-gains.md) — a narrower finding that bears on this claim
+- [Providers reported increased skill, knowledge, and confidence after training interventions](provider-confidence-knowledge-skill-increased-after-training.md) — a narrower finding that bears on this claim

@@ -58,3 +58,4 @@ Focus group participants described accessing high-fidelity simulation from home 
 - [Professional hierarchy and low student confidence are key barriers to interprofessional education](hierarchy-and-confidence-barriers-ipe.md) — related
 - [Participants identify skilled facilitation, curriculum integration, institutional support, and simulation's safe learning environment as enablers of sim-IPE](sim-ipe-implementation-enablers.md) — related
 - [Clinical simulation is perceived as a safe environment that allows learning from mistakes without risk to patients](simulation-safe-environment-learning-from-errors.md) — related
+- [The effectiveness of active learning in nursing education is shaped by multilevel conditions including learner readiness, psychological safety, instructional facilitation, classroom dynamics, and institutional support](multilevel-conditions-shape-active-learning-effectiveness.md) — related

@@ -55,3 +55,5 @@ Psychometric analysis in Study 2, in which two postgraduate raters who received 
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
 - [Most variables of the START-Play fidelity measure show good to excellent interrater reliability, with ICCs ranging from 0.77 to 0.95](start-play-fidelity-icc-077-095.md) — related
 - [CAR 1.0 achieved good to excellent inter-rater reliability across all five key components (α = 0.836 to 0.973)](car-1-0-cronbach-alpha-reliability.md) — related
+- [Expert reference standard for MUL measurements showed excellent agreement (ICC 0.90)](expert-reference-mul-icc-090.md) — related
+- [Task-specific metrics show excellent inter-rater reliability for simulated laparoscopic crural repair assessment](tsm-excellent-inter-rater-reliability-crural-repair.md) — a narrower finding that bears on this claim

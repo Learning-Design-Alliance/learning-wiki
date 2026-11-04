@@ -57,6 +57,7 @@ The review recommends that, given pooled LLM accuracy of about 64%, dental educa
 - [Use LLMs in supervised settings to generate formative question variants and structured self-assessments for surgical trainees, while guarding against knowledge miscalibration.](supervised-llm-formative-question-generation-surgical-training.md)
 - [Use AI language models as adjunctive tools in medical education, especially for test preparation or knowledge reinforcement](ai-adjunctive-tool-medical-education-test-prep.md)
 - [Cross-verify LLM answers using multiple models to reduce the risk of overconfident misinformation](cross-verification-multiple-llm-models.md)
+- [Use ChatGPT-4o as a supplementary educational tool rather than an autonomous clinical decision-support system in non-English contexts](chatgpt-4o-as-supplementary-tool-non-english.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ One-way ANOVA with repeated measures on five self-efficacy trials from an intact
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — related
 - [Group self-efficacy means increased across all five questionnaire trials, from a baseline mean of 6.14 to 9.51 post-intervention](group-self-efficacy-increased-across-five-trials.md) — possibly the same claim (merge candidate)
 - [Video-assisted instruction improved CVC psychomotor skill performance one week after training, with large effect sizes](video-assisted-instruction-cvc-psychomotor-skills.md) — related
+- [VP simulation training increases clinical self-efficacy but not more than video training](vp-simulation-increases-clinical-self-efficacy.md) — related

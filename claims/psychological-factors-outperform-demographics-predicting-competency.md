@@ -49,3 +49,4 @@ Two-stage OLS regression on posttest scores of 501 nurses; Model 1 demographics 
 - [Course development satisfaction and AI proficiency add incremental explained variance beyond demographics, with the largest contribution to academic adjustment (R2 = 0.240)](hierarchical-regression-incremental-variance-academic-adjustment.md) — related
 - [Higher educational qualification and longer nursing experience predict self‐reported skills, but demographic factors do not predict perceived knowledge](qualification-experience-predict-skills-not-knowledge.md) — related
 - [Resilience in handover is the strongest predictor of perceived competency (β = 0.376) and correlates most strongly with it (r = 0.920)](resilience-strongest-predictor-of-handover-competency.md) — related
+- [The mediation model accounts for 51.0% of the variance in perceived clinical competence](model-explains-51-percent-variance-clinical-competence.md) — related

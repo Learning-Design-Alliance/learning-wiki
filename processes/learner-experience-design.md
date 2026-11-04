@@ -14,7 +14,7 @@ grain_size: course
 # Learner Experience Design (LXD)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 36 claims (21 for, 14 mixed, 1 against) · 43 studies (14 causal, 11 design, 9 review, 3 quant-synthesis, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 4 of 43 report an effect size · 32 claims rest on one study
+> **Evidence** · 37 claims (21 for, 14 mixed, 2 against) · 44 studies (15 causal, 11 design, 9 review, 3 quant-synthesis, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 4 of 44 report an effect size · 33 claims rest on one study
 
 ## Description
 Learner Experience Design imports the methods of user-centred design — user research, personas and scenarios, prototyping, usability testing, heuristic evaluation — into instructional design, and makes one substantive claim while doing it: **usability is not polish applied after the instruction, it is part of the instruction.**
@@ -96,6 +96,7 @@ LXD inherits the empathize-and-test moves from [Design Thinking](design-thinking
 - [After usability testing and refinement, the simulation was piloted with 23 residents without unanticipated technical problems](../claims/pilot-23-residents-no-implementation-issues.md) [+W]
 - [Students perceived the educational value of HoloLens as dependent on usability, learner control, and curricular integration](../claims/hololens-value-depends-on-implementation.md) [+W]
 - [Reported barriers to the VR session include headset ergonomics and occasional motion sickness](../claims/vr-barriers-headset-ergonomics-motion-sickness.md) [~W]
+- [Simulation-related variables (usability, satisfaction, presence, technology acceptance) do not predict training outcomes](../claims/simulation-variables-do-not-predict-outcomes.md) [-W]
 
 #### Supporting
 - [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S] — the mechanism the whole argument rests on

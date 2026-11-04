@@ -57,3 +57,4 @@ Conceptual argument in Section 1.3, citing prior research on AI enhancing person
 - [Adaptive learning functions as the algorithmic engine that operationalizes personalized learning](adaptive-learning-engine-of-personalization.md) — related
 - [Instructional videos and AI chatbots show complementary rather than redundant functions for science learning](videos-and-ai-chatbots-complementary-functions.md) — a narrower finding that bears on this claim
 - [Adult learners perceive conversational AI as thinking partners that support problem exploration without direct instruction](ai-thinking-partners-support-problem-exploration.md) — a narrower finding that bears on this claim
+- [Most students expected AI to serve as personal tutor, creative partner, and critical thinking partner rather than merely a content generator.](students-expect-collaborative-ai-roles-beyond-content-generation.md) — a narrower finding that bears on this claim

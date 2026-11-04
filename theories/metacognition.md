@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 507 claims (242 for, 237 mixed, 28 against) · 274 studies (136 causal, 55 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 8 design), `q1`–`q4` · 92 of 274 report an effect size · 500 claims rest on one study
+> **Evidence** · 510 claims (243 for, 237 mixed, 30 against) · 276 studies (136 causal, 57 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 8 design), `q1`–`q4` · 92 of 276 report an effect size · 503 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -551,6 +551,9 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Relevant exam images significantly increase perceived ease of learning (EOL) judgments among nursing students](../claims/medication-images-increase-eol-judgments.md) [~W]
 - [Less-trained students rate the sonic scaler more favourably despite lower objective performance, and perceived effectiveness does not correlate with measured effectiveness](../claims/self-assessment-dissociation-massed-cohort.md) [+W]
 - [Students' self-assessment of performance broadly aligned with examination outcomes but showed a tendency toward underestimation](../claims/whisper-exam-self-assessment-underestimation.md) [~W]
+- [Trainees who overestimated themselves were rated less competent by the expert](../claims/overestimators-rated-less-competent.md) [+W]
+- [Self-reported confidence and familiarity with screening tools did not reliably translate into accurate sepsis determination](../claims/confidence-competence-gap-sepsis-recognition.md) [-W]
+- [Less surgical experience is associated with overestimation of abilities](../claims/less-experience-overestimation.md) [-W]
 
 ## The evidence by question
 

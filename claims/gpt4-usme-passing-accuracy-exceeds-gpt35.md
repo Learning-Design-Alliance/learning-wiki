@@ -65,3 +65,4 @@ Narrative synthesis of 9 USMLE benchmark evaluation studies within the review's 
 - [LLMs with high question-level accuracy on medical licensing exam cases show substantially lower case-level accuracy, with consistency gaps of 10% to 17.9%](llm-consistency-gap-question-vs-case-level.md) — related
 - [ChatGPT-4 achieved an overall accuracy of 81% on the Polish PES orthopedics exam, exceeding the 75% passing threshold on average](chatgpt-4-81-percent-accuracy-pes-orthopedics.md) — related
 - [Current-generation LLMs achieve 86% to 94% mean success rates on European anesthesiology examination questions, exceeding the EDAIC part I passing threshold](llm-success-rates-86-94-percent-anesthesiology-exams.md) — related
+- [ChatGPT-4o achieved 71% accuracy on the Chinese question bank, comparable to dental undergraduates and OMS graduate students but lower than OMS specialists](chatgpt-4o-71-percent-chinese-question-bank-accuracy.md) — related

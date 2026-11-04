@@ -55,3 +55,4 @@ Exploratory cross-tabulation (visualized as a heatmap in Fig. 1) of regulatory a
 - [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — a broader claim this one bears on
 - [Factor 1 student teachers were confident self-reliant GenAI users who showed limited ethical awareness and reflective practices](f1-self-reliant-limited-ethical-awareness.md) — related
 - [Post-test ethical-dimension results are non-uniform: 47% on respecting users in the network, 40% on privacy protection and 30% on knowledge of differences](dca-post-ethical-dimension-profile.md) — related
+- [Awareness of pre-notification policies is strongly associated with consistent pre-notification behaviour](pre-notification-policy-awareness-behaviour-link.md) — related

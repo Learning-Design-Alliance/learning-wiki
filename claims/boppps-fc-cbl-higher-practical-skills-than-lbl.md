@@ -50,3 +50,5 @@ Same RCT; practical skills exam focused on thoracentesis worth 110 marks. Indepe
 - [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
 - [No significant baseline differences between BOPPPS/FC-CBL and LBL groups on demographics or entry-level scores](boppps-fc-cbl-lbl-no-baseline-differences.md) — related
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
+- [BOPPPS-CBL instruction is associated with significantly higher adjusted post-test knowledge scores than lecture-based learning in undergraduate HAI education](boppps-cbl-higher-adjusted-posttest-hai-knowledge.md) — related
+- [Gain scores were significantly larger in the BOPPPS-CBL group than the LBL group (Cohen's d = 1.77)](boppps-cbl-larger-gain-scores.md) — related

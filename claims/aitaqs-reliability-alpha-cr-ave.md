@@ -77,3 +77,4 @@ Convergent validity analysis (Table 9). All CR values "exceed 0.7"; AVE values b
 - [All eight SAICS dimensions showed high internal consistency (Cronbach's alpha ≥ 0.89), high factor loadings (0.76–0.96), and convergent validity (inter-dimension correlations r > 0.34)](saics-reliability-convergent-validity.md) — related
 - [The three measurement instruments show acceptable reliability and validity in this sample](measurement-model-cfa-reliability-validity.md) — related
 - [TEIQue-ASF shows poor model fit in this adolescent sample](teique-asf-poor-model-fit-adolescents.md) — related
+- [The satisfaction survey showed good reliability and internal consistency](tbl-satisfaction-survey-reliability.md) — related

@@ -55,6 +55,7 @@ The article recommends that institutions develop policies and formal guidance on
 - [Use generative AI as an educator content-creation tool for student critique, supported by explicit guidelines and training](genai-content-creation-for-critique-with-guidelines-and-training.md)
 - [Provide AI literacy training, human-AI interaction opportunities, and ethical-use guidelines and policies for instructional designers](ai-literacy-training-ethical-genai-guidelines-ids.md)
 - [Establish standardized, ethically sound guidelines and coordinated stakeholder efforts for integrating LLMs into dental education](llm-integration-guidelines-dental-education-strategy.md)
+- [Incorporate guided AI-based learning activities, structured training on responsible AI use, and institutional guidelines for AI integration](guided-ai-learning-activities-training-guidelines.md)
 
 ## Examples
 -

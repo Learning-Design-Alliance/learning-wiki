@@ -13,7 +13,7 @@ generated:
 # Act
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 mixed) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (3 qualitative), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 `Act` is the execution phase of a challenge-based or inquiry cycle, where learners move from investigation and planning into producing, testing, sharing, or implementing a response in the real world.
@@ -50,6 +50,7 @@ generated:
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](../claims/choice-rich-infrastructure-supports-productive-deviation-and-learning.md) [~W]
 - [Teams that narrowed the first problem and ran small Plan-Do-Study-Act tests before scaling saw themselves as more effective improvers](../claims/small-pdsa-cycles-narrow-first-problem.md) [~W]
+- [Pharmacy students reported knowledge acquisition and communication skill development through delivering the campaign.](../claims/pharmacy-students-knowledge-and-communication-skill-gains.md) [+W]
 
 ## Related Elements
 - [Application](application.md)

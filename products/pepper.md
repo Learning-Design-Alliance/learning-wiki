@@ -32,6 +32,7 @@ Pepper is a humanoid social-robot platform developed by SoftBank Robotics for mu
 
 - [NAO humanoid robot with Choregraphe programming environment](nao-humanoid-robot-with-choregraphe-programming-environment.md)
 - [Skusie](skusie.md)
+- [Simroid dental training robot](simroid-dental-training-robot.md)
 
 ## Key Sources
 - Martinez-Roig, R., Aragonés-González, M., & Cazorla, M. (2026). Exploring the implementation of the Pepper social robot in formal education: a scoping review. Journal of New Approaches in Educational Research, 15, 22. https://doi.org/10.1007/s44322-026-00072-1

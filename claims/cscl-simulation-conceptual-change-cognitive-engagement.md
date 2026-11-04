@@ -73,3 +73,4 @@ Qualitative case-study analysis of conversational interactions of 7 dyads workin
 - [Students showed growth in representational competence and conceptual understanding of particle motion across an online sequence of representational challenges](online-rca-growth-particle-motion.md) — related
 - [A computer-based simulation game helped students apply theoretical team-role knowledge to identify team roles in practice and evaluate their own performance in a role](simulation-game-team-role-self-reflection.md) — related
 - [The authors report that CBPS enhanced prospective teachers' collaboration and motivation](cbps-collaboration-motivation-observation.md) — related
+- [Subjective assessment of student behaviour in CBL leads students to prioritise participation over collaborative learning, decoupling engagement from knowledge gained](cbl-subjective-behaviour-assessment-decouples-engagement-knowledge.md) — related

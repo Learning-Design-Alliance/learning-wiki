@@ -71,3 +71,5 @@ Items were categorized against published DI thresholds (poor ≤ 0.20; acceptabl
 - [Faculty-generated SBMCQs met all three ideal item-analysis criteria more often than ChatGPT-generated SBMCQs (19 vs. 9 of 40)](faculty-sbmcqs-outperform-chatgpt-ideal-criteria.md) — related
 - [GenAI-assisted items showed weaker corrected point-biserial discrimination and more negative discrimination than educator-crafted items](genai-mcq-weaker-discrimination.md) — related
 - [LLM-assisted MCQ generation achieved a 5.6-fold efficiency gain over student authorship in a formative medical exam context](llm-mcq-generation-efficiency-gain.md) — related
+- [ChatGPT-generated and educator-generated MCQs show no statistically significant difference in difficulty index in a real dental exam](chatgpt-educator-mcq-no-difficulty-difference.md) — related
+- [ChatGPT-generated and educator-generated MCQs show no statistically significant difference in discriminative index in a real dental exam](chatgpt-educator-mcq-no-discrimination-difference.md) — related

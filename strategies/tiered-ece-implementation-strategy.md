@@ -80,6 +80,7 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Implement progressive and layered simulation training across career stages for paediatric surgery nurses](progressive-layered-simulation-training-career-stages.md)
 - [Enhance digital training platforms with interactivity, supervision, and expanded content coverage](optimize-digital-platforms-engagement-supervision-content.md)
 - [Incorporate more clinical exposure and preclinical simulations to improve dental students' TDI management knowledge and confidence.](more-clinical-exposure-preclinical-simulations-tadi.md)
+- [Use asynchronous instructional videos as preparatory scaffolding before simulation-based workshops to enable more efficient use of supervised training time.](asynchronous-videos-as-preparatory-scaffolding.md)
 
 ## Examples
 -

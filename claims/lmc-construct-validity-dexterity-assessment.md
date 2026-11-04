@@ -51,3 +51,5 @@ Construct validity study (study [127]) evaluating the LMC for objective measurem
 - [Microsoft Kinect and the Leap Motion Controller were the most widely used COTS gesture-detection devices in surgical research, appearing in 50% and 36% of the 86 included studies respectively](kinect-leap-motion-most-used-cots-surgical-gesture-devices.md) — related
 - [Hand motion volumetry recorded by the Versius system software serves as an exploratory objective marker of surgical skill, with lower volumetry indicating better ergonomics](hand-motion-volumetry-skill-marker.md) — related
 - [Approximately 86.61% of trainees prioritize suturing and knot-tying practice as the most critical simulator training component](suturing-knot-tying-most-critical-component.md) — related
+- [Knot Tying showed the lowest and most variable expert scores on FRS VR, likely due to poor interaction fidelity](frs-vr-knot-tying-poor-interaction-fidelity.md) — related
+- [High‐skill recognition is better for knot tying, whereas low‐skill recognition is better for the more demanding tasks (CS and IS)](task-dependent-skill-recognition-asymmetry.md) — related

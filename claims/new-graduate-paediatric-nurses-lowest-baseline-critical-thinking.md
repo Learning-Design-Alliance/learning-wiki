@@ -48,3 +48,4 @@ Baseline observational finding from the study's pretest data (n = 60): preceptor
 - [No included study measured critical thinking as an explicit outcome or compared simulation modalities directly](sbe-delirium-no-explicit-ct-measure.md) — related
 - [Graduating nurses often lack clinical skills and readiness for practice](graduating-nurses-lack-clinical-readiness.md) — related
 - [The clarifying goals and values dimension of clinical decision-making shows the largest improvement after Jeffries-framework simulation](jeffries-simulation-clarifying-goals-values-largest-cdmns-gain.md) — related
+- [An AI-supported four-stage training framework was associated with significant improvement in overall teaching competence among prosthodontics graduate students.](ai-training-framework-improves-teaching-competence-prosthodontics.md) — related

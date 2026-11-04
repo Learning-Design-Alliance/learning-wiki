@@ -52,3 +52,4 @@ Cross-sectional survey of 2,017 healthcare professionals in tertiary, secondary,
 - [Educational level was significantly associated with total BLS knowledge score, with bachelor's and master's degree holders scoring higher.](education-level-associated-bls-knowledge-score.md) — related
 - [Item-level BLS knowledge accuracy varied considerably, with the lowest accuracy on airway-management, defibrillation, and quality-control items.](item-level-bls-accuracy-varies-considerably.md) — related
 - [Defibrillation-related knowledge had the lowest domain-specific accuracy among BLS knowledge domains.](defibrillation-knowledge-lowest-domain-accuracy.md) — related
+- [Most participants met the 80% knowledge competency threshold and 94% met practical competencies only after training](pr-training-competency-threshold-attainment.md) — related

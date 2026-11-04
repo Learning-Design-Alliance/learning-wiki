@@ -83,3 +83,4 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - The proposed coding scheme achieves high inter-rater reliability across design object, design move, and communication move dimensions — related
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — related
 - [Mistral 7B shows high ICCs but low Fleiss kappa when scoring summary statements](mistral-7b-high-icc-low-fleiss-kappa.md) — related
+- [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related

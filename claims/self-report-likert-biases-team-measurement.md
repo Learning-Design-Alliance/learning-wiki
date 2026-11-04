@@ -48,3 +48,4 @@ Theoretical argument in the article's measurement-methods discussion, citing pri
 ## Related Claims
 
 - [Team behaviors explain up to 42% of the variance in team performance, with action processes and organizational citizenship behaviors the strongest contributors](team-behaviors-explain-variance-team-performance.md)
+- [Self-report ceiling effects and social desirability bias explain the discrepancy between high aggregate scores and qualitatively identified gaps](self-report-ceiling-effects-argue-multi-method-assessment.md) — related

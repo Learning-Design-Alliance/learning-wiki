@@ -49,3 +49,4 @@ Pre-test analysis of the 14-item pattern test across the two experimental groups
 - [Before implementation, the experimental and control groups showed no statistically significant difference in academic achievement pre-test scores](absl-social-studies-pretest-equivalence.md) — related
 - [Random assignment created equivalent groups, and performance did not differ by pattern dimension, orientation, or missing-item position](patterning-equivalent-groups-null-dimensions.md) — related
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
+- [Baseline EMQ scores did not differ between GGR and SNAPPS groups, ensuring equivalent starting clinical reasoning skills](ggr-snapps-equivalent-baseline.md) — related

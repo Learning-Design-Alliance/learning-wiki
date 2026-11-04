@@ -56,3 +56,4 @@ Mann-Whitney U comparisons (Fig. 2B-E) of the 100-point comprehensive assessment
 - [Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison](flipped-classroom-higher-grades-than-traditional.md) — related
 - [Testing student preparation is associated with slightly higher learning gains in flipped classroom implementations](test-of-preparation-moderates-flipped-learning.md) — related
 - [The flipped classroom intervention was implemented through planning, implementation, and evaluation stages over 12 weeks](flipped-classroom-three-stage-implementation.md) — related
+- [The AI-enhanced flipped classroom group scored higher on pre-class preparation and PPT quality than the flipped classroom group, with no significant differences in presentation performance or professional knowledge mastery.](ai-flipped-classroom-pre-class-quality-gains-bounded.md) — related

@@ -48,3 +48,4 @@ Unweighted NASA-TLX administered after each testing round of the telemedicine si
 - [Designer workload across an 11-module instructional design model for product development averaged normal-to-high (50–75%)](nasa-tlx-normal-high-workload-design-process.md) — related
 - [NASA-TLX dimensions varied by design phase: frustration and mental demand rose considerably in the initial modules, and mental demand was lower during the final manufacturing steps](nasa-tlx-dimensions-vary-by-design-phase.md) — related
 - [The virtual physical examination was the most difficult simulation step, receiving the lowest Single Ease Question rating (median 4.50)](seq-virtual-physical-exam-hardest-step.md) — related
+- [The dominant barrier to EPAAs was high workload, and most interns could not easily fit EPAAs into their day](high-workload-dominant-barrier-to-epaas.md) — related

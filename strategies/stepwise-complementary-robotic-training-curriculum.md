@@ -64,6 +64,7 @@ The review recommends that training modalities be combined in a progressive curr
 - [Integrate the validated SP chicken anastomosis task into SP-specific Proficiency Based Progression training pathways](sp-pbp-training-pathway-strategy.md)
 - [Incorporate SPS combined with online CBL into pediatric surgical training to enhance preparedness and well-being](incorporate-sps-online-cbl-training-strategy.md)
 - [Match training modality emphasis to trainee proficiency level](match-modality-emphasis-to-proficiency-level.md)
+- [Combine online modules with hands-on simulation training to teach POCUS-guided procedural skills to novices](blended-online-hands-on-pocus-procedural-training.md)
 
 ## Examples
 -

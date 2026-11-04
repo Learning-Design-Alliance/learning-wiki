@@ -54,3 +54,5 @@ Mini-CEX rated independently by three faculty raters (mean Cohen's κ = 0.74) fo
 - [Integrated online-PBL-CBL teaching improves overall Mini-CEX clinical competence but not its individual sub-dimensions](online-pbl-cbl-minicex-overall-competence-gain.md) — related
 - [AI-Mentor pilot yields the largest gains in reasoning-aligned Mini-CEX domains, notably clinical judgment](ai-mentor-largest-gains-reasoning-domains.md) — related
 - [At baseline, the intervention and control groups showed no statistically significant differences in demographics, evaluation location, or referral type, and comparable low pre-intervention Mini-CEX scores](serious-game-burn-trial-baseline-equivalence.md) — related
+- [AI-assisted PBL-CBL combined teaching improves Mini-CEX clinical reasoning domains (interviewing, physical examination, clinical judgment, communication) but not humanistic qualities/professionalism or organization/efficiency](ai-pbl-cbl-improves-mini-cex-clinical-reasoning-domains.md) — related
+- [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related

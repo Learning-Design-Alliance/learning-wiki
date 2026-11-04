@@ -31,7 +31,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (28 for, 24 mixed, 4 against) · 68 studies (42 causal, 12 review, 10 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 17 of 68 report an effect size · 49 claims rest on one study
+> **Evidence** · 57 claims (28 for, 25 mixed, 4 against) · 69 studies (43 causal, 12 review, 10 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 17 of 69 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
@@ -197,6 +197,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Control-group success rates mostly declined from week one to week two](../claims/control-group-success-declined-second-week.md) [+W]
 - [DMC is superior to DOC on short-term improvement of implicit knowledge, but its effect wears off over time.](../claims/dmc-superior-doc-short-term-implicit-knowledge.md) [~W]
 - [Technical and non-technical ACLS skills decline by 12 months post-training across all simulation groups](../claims/acls-skill-decline-at-twelve-months.md) [-W]
+- [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](../claims/pr-knowledge-decline-at-3-months-above-baseline.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

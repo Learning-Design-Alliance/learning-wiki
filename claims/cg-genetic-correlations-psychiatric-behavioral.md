@@ -49,3 +49,6 @@ LDSC genetic correlation analysis of Cg summary statistics against PGC and UK Bi
 - A multivariate GWAS on the common factor identifies a genome-wide significant locus on chromosome 12q13.12 that no univariate trait GWAS detected — related
 - The common factor model is specific to reading and ADHD rather than broader psychiatric liability, and stability analyses support the reading-ADHD structure — related
 - [A common genetic factor captures shared genetic influences across four reading-related traits and ADHD, with ADHD loading negatively and reading traits positively](common-genetic-factor-reading-traits-adhd.md) — related
+- [Dyslexia and educational attainment show a negative genetic correlation with strong genetic overlap](dyslexia-ea-negative-genetic-correlation.md) — related
+- [Concordant and discordant dyslexia partitions show opposite genetic covariance patterns with cognitive and psychiatric traits](dyslexia-partition-genetic-covariance.md) — related
+- [No sex differences in the effect of dyslexia genetic liability on school performance](no-sex-difference-dyslexia-pgs-school-performance.md) — related

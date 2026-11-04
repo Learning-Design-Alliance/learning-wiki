@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 253 claims (174 show a difference, 46 mixed, 33 no difference) · 142 studies (81 causal, 27 associational, 15 review, 11 quant-synthesis, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 42 of 142 report an effect size · 248 claims rest on one study
+> **Evidence** · 254 claims (175 show a difference, 46 mixed, 33 no difference) · 143 studies (81 causal, 27 associational, 15 review, 11 quant-synthesis, 4 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 42 of 143 report an effect size · 249 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -291,6 +291,7 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Web-assisted instruction with adaptive LSA modules reduced average error counts in most writing error categories compared to teacher-led instruction alone](../claims/web-assisted-instruction-reduced-writing-errors-business-communication.md) [+M] — measured as an outcome of the instruction studied
 - [Writing Pal training has been linked to increases in holistic essay scores on persuasive SAT-style writing tasks over time](../claims/writing-pal-training-increases-sat-essay-scores.md) [+M] — measured as an outcome of the instruction studied
 - [Contradictory findings on ChatGPT for scientific writing: lower writing quality but higher knowledge scores](../claims/contradictory-chatgpt-scientific-writing-findings.md) [~M] — measured as an outcome of the instruction studied
+- [Participants reported movement from fragmented prior understanding toward more organized understanding of essay writing processes](../claims/fragmented-to-organized-understanding-shift.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

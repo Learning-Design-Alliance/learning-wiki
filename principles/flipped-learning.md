@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 129 claims (74 for, 51 mixed, 4 against) · 83 studies (41 causal, 19 quant-synthesis, 13 review, 4 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 31 of 83 report an effect size · 121 claims rest on one study
+> **Evidence** · 136 claims (80 for, 52 mixed, 4 against) · 87 studies (43 causal, 19 quant-synthesis, 13 review, 4 associational, 4 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 31 of 87 report an effect size · 128 claims rest on one study
 
 ## Conditional relationship
 
@@ -176,6 +176,10 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Flipped classroom produced significantly higher adjusted post-test knowledge scores than lecture-based learning in a fluids and electrolytes course (partial η² = 0.65)](../claims/flipped-classroom-higher-posttest-knowledge-nursing-rct.md) [+W] — attached 2026-11-04 from Yousefi Mahboubeh Sadat et al. (2026), which proposed "Integrate active, student-centered pedagogies such as the flipped classroom into nursing curricula"; tests this page's relationship.
 - [Flipped classroom group scored significantly higher on Satisfaction, Involvement, Task Orientation, and Innovation, but not on Personalization, Student Cohesiveness, or Individualization](../claims/flipped-rct-cucei-four-of-seven-subscales.md) [~W] — attached 2026-11-04 from Yousefi Mahboubeh Sadat et al. (2026), which proposed "Integrate active, student-centered pedagogies such as the flipped classroom into nursing curricula"; tests this page's relationship.
 - [Flipped classroom students achieve significantly higher post-test knowledge scores than lecture-based students in practical gastrointestinal anatomy (Cohen's d = 0.87)](../claims/flipped-classroom-higher-posttest-gi-anatomy.md) [+W] — attached 2026-11-04 from Mohammadi Shabnam et al. (2026), which proposed "Flipped classroom design aligning pre-class lower-order and in-class higher-order Bloom's taxonomy objectives"; tests this page's relationship.
+- [PUC-FC students scored highest on all three practical skill examinations (full crown preparation, pit and fissure sealing, intraoral suture)](../claims/puc-fc-skill-exam-advantage.md) [+W] — attached 2026-11-04 from Cui Ming-Wang et al. (2026), which proposed "Three-phase closed-loop flipped classroom workflow with near-peer mentoring"; tests this page's relationship.
+- [Integrating asynchronous videos with simulation-based practice was perceived as enabling more focused engagement during supervised sessions, shifting attention from procedural recall to technical execution.](../claims/video-simulation-integration-focuses-technical-execution.md) [+W] — attached 2026-11-04 from Herrera Alcaíno Álvaro et al. (2026), which proposed "Integrated video-plus-simulation module design combining asynchronous preparation with supervised hands-on practice using individual simulation kits.".
+- [Flipped classroom students achieved significantly higher mean pharmacology exam grades than traditional classroom students](../claims/fc-higher-mean-exam-grade-dental-pharmacology.md) [+W] — attached 2026-11-04 from Galvin Sheila (2026), which proposed "Flipped classroom design for dental pharmacology: pre-class recorded lectures with embedded reflective questions plus periodic live review sessions"; tests this page's relationship.
+- [Students rated the flipped classroom more positively than the traditional classroom, but the satisfaction difference was not statistically significant](../claims/fc-satisfaction-higher-not-significant.md) [~W] — attached 2026-11-04 from Galvin Sheila (2026), which proposed "Successful flipped classroom implementation requires engagement supports: content timing, faculty development, infrastructure and student readiness"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -263,6 +267,9 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Flipped classroom students are nearly twice as likely to meet physical activity recommendations as traditional-instruction students immediately post-course.](../claims/fc-doubles-odds-of-meeting-pa-guidelines.md) [+W]
 - [Self-directed learning ability and autonomous motivation each significantly and partially mediate the effect of flipped classroom on physical activity.](../claims/sdl-and-am-partially-mediate-fc-pa.md) [~W]
 - [A chained indirect effect through self-directed learning ability then autonomous motivation significantly transmits the flipped classroom effect on physical activity.](../claims/chained-sdl-then-am-indirect-effect.md) [+W]
+- [Flipped classroom exam grade distribution shifted rightward, with more students achieving higher grades overall](../claims/fc-grade-distribution-rightward-shift.md) [+W]
+- [A higher proportion of flipped classroom students passed the pharmacology exam (75% vs 60% above 50%)](../claims/fc-higher-pass-rate-dental-pharmacology.md) [+W]
+- [Facilitator observations indicated higher student engagement than in lecture-based sessions](../claims/facilitator-observed-higher-engagement-than-lectures.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

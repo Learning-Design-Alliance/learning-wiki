@@ -74,3 +74,4 @@ Table 4 entry for Ruiter et al. (2019), a non-randomized trial in which grade-8 
 - [Cycling desks increase students' classroom energy expenditure by around 36% relative to normal class hours](cycling-desks-increase-classroom-energy-expenditure-36-percent.md) — related
 - [Studying on a stationary bike (PAL) has no significant effect on university students' final course grades compared to a standard desk](pal-no-effect-final-course-grades-university.md) — related
 - [Standing desks are associated with higher academic engagement in primary-school classrooms](standing-desks-higher-academic-engagement.md) — related
+- [A 16-week integrated structured breakfast and morning sport program was associated with greater improvement in Stroop Test performance (selective attention and inhibitory control) than ordinary school routine](breakfast-morning-sport-improves-stroop-selective-attention.md) — related

@@ -50,3 +50,4 @@ A position paper on reliability and validity in AI in education. It reports, as 
 - [Automated AI assessment systems reduce grading time and improve evaluation consistency in nursing education](automated-ai-assessment-reduces-grading-time-bias.md) — related
 - [Warning labels alone did not improve performance or reduce reliance on GenAI advice, and students sometimes adopted incorrect AI answers](genai-warning-labels-insufficient-reliance.md) — related
 - [Automation bias toward fluent LLM output surrenders learners' epistemic agency](automation-bias-surrenders-epistemic-agency.md) — related
+- [Professional accuracy showed the smallest improvement among the five dimensions, with some students scoring lower due to uncritical adoption of AI-generated content.](professional-accuracy-gains-smallest-among-dimensions.md) — a narrower finding that bears on this claim

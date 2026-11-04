@@ -51,3 +51,4 @@ Quasi-experimental pre–post survey of matched dental students (n = 77) in a Ch
 - [Attitudinal changes after service-learning did not differ significantly by sex or prior community service experience](attitude-change-no-sex-or-experience-differences.md) — related
 - [Service-learning participation is associated with a large reduction in dental students' perceived costs of community engagement](service-learning-perceived-costs-reduction.md) — related
 - [Service learning participation is associated with improved dental knowledge scores in fourth-year dental students](service-learning-improves-dental-knowledge-scores.md) — related
+- [Attitude gains were significant in male students but not in female students](csas-gains-males-not-females.md) — related

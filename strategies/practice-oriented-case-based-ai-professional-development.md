@@ -55,6 +55,7 @@ Drawing on recent AI-focused literature, the review recommends orienting AI prof
 - [Integrate structured opportunities for critical engagement with AI into teacher education programs](structured-critical-ai-engagement-teacher-education.md)
 - [Support teachers' digital competence development through operationalisations connecting technical and pedagogical knowledge while protecting educator well-being](connect-technical-pedagogical-support-wellbeing.md)
 - [Provide prolonged, sustained professional development so in-service teachers can deliver digital game-based learning effectively](sustained-professional-development-for-dgbl-teachers.md)
+- [Integrate AI into structured peer teaching in four modes with training and quality safeguards](four-mode-ai-integration-peer-teaching-strategy.md)
 
 ## Examples
 -

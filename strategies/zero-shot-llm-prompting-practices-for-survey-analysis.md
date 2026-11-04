@@ -49,6 +49,7 @@ The article enumerates prompting techniques used to improve LLM results without 
 ## Related Strategies
 
 - [Translate deductive coding rubrics into structured zero-shot prompts to compare LLM coding against human coding](zero-shot-prompt-codebook-translation-strategy.md)
+- [Prompting skills training with structured prompts for teaching preparation](deepseek-prompting-skills-training-strategy.md)
 
 ## Examples
 -

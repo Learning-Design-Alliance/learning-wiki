@@ -55,3 +55,4 @@ Regression and descriptive comparison of students grouped by total utterances (b
 - [Student LLM usage patterns varied across data science courses: Course-BD showed the highest frequency and over-reliance with near-zero perceived learning effect](llm-usage-varied-across-data-science-courses.md) — related
 - [Integrating LLMs into data science course feedback systems improved student engagement and learning outcomes](llm-feedback-systems-data-science-engagement-outcomes.md) — related
 - [The five clustering variables differed significantly across the four clusters, with large effect sizes for all five.](five-variables-differentiate-four-clusters.md) — related
+- [AI utility perception, but not usage frequency, is associated with learning outcomes](ai-utility-perception-not-frequency-predicts-learning.md) — reports the opposite

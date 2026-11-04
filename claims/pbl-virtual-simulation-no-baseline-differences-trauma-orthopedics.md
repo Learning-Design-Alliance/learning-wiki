@@ -55,3 +55,4 @@ Baseline comparison in the same assessor-blinded RCT of 50 clinical medical stud
 - [Flipped classroom instruction is associated with higher final knowledge scores than traditional instruction in medical education (SMD 0.90).](flipped-classroom-higher-knowledge-scores-medical-education.md) — related
 - [VR instruction shows a statistically significant difference in nursing students' practical skills versus traditional methods, though the pooled estimate is small (SMD = 0.15)](vr-practical-skills-pooled-effect.md) — related
 - [PBL-based teaching yields higher practical-skills assessment scores than LBL in Chinese standardized residency training](pbl-higher-practical-skills-chinese-srt.md) — related
+- [AI-assisted peer teaching improves postintervention orthopedic knowledge scores](ai-assisted-peer-teaching-improves-knowledge.md) — related

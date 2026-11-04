@@ -59,6 +59,7 @@ The review recommends moving grief training out of isolated voluntary workshops 
 - [Integrate mandatory, longitudinal mental health literacy, self-care and reflective practice curricula throughout medical education rather than as isolated end-of-programme options.](longitudinal-mental-health-curriculum-medical-education.md)
 - [Adopt interdisciplinary simulation sessions to address curriculum gaps in topics spanning multiple specialties](interdisciplinary-simulation-for-cross-specialty-gaps.md)
 - [Spiral, phased integration of gerodontology content across all curriculum phases with regular assessment](spiral-phased-gerodontology-integration.md)
+- [Use simulation-based training, digital tools, and interdisciplinary workshops to teach dental trauma management](simulation-digital-interdisciplinary-dental-trauma-training.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Systematic review narrative synthesis of eight studies (four RCTs, four non-rand
 - [The included studies do not reflect which intervention is better or which favours the acquisition and retention of knowledge more effectively.](studies-do-not-reflect-which-intervention-is-better.md) — a narrower finding that bears on this claim
 - [An RCT using self-reported combined knowledge and skills found a significant within-group pretest-to-posttest increase with a large effect size, but reported no between-group comparison](self-report-knowledge-skills-within-group-gain.md) — a narrower finding that bears on this claim
 - [Perceived knowledge, skills and attitudes toward mental health care are strongly positively correlated (r = 0.606–0.790)](knowledge-skills-attitudes-strongly-correlated-icu-mental-health.md) — related
+- [VP training does not enhance knowledge about mental disorders](vp-training-no-knowledge-gains.md) — related

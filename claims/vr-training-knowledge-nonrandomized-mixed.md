@@ -89,3 +89,4 @@ Prospective cohort study of 299 undergraduate nursing students using a VP game d
 - [An RCT using self-reported combined knowledge and skills found a significant within-group pretest-to-posttest increase with a large effect size, but reported no between-group comparison](self-report-knowledge-skills-within-group-gain.md) — related
 - The RCTs showed some concern or high overall risk of bias and the non-randomized studies moderate to serious risk, making the evidence base uncertain — related
 - [Non-randomized and pre/post-test studies broadly support simulation training benefits for attitudes, skills, knowledge and behaviors, though subject to natural learning effects](simulation-nonrct-ppt-narrative-support.md) — a broader claim this one bears on
+- [VP training does not enhance knowledge about mental disorders](vp-training-no-knowledge-gains.md) — related

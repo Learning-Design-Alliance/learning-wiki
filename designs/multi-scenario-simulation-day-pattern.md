@@ -45,7 +45,9 @@ This pattern organizes a single-day learning event around multiple distinct clin
 - [Simulation Checklist Completion Feasibility](../claims/simulation-checklist-completion-feasibility.md) [+M]
 
 ## Related Designs
-- 
+
+- [Sequential simulation as a linked patient-journey design with team-based participation and interprofessional exposure](sequential-simulation-patient-journey-theory.md)
+- [mCLEIMS station design: six teams rotating through six 25-minute sequential simulation stations](mcleims-station-rotation-design.md)
 
 ## Examples
 -

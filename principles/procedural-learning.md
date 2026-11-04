@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (31 for, 17 mixed, 2 against) · 67 studies (33 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 11 of 67 report an effect size · 40 claims rest on one study
+> **Evidence** · 52 claims (33 for, 17 mixed, 2 against) · 68 studies (34 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 11 of 68 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,8 @@ Claims that bear on procedural learning but are not part of the model above, eac
 - [Participants who first trained with visible RFM feedback maintained high ventilation performance after feedback removal, suggesting a carry-over learning effect](../claims/rfm-carryover-learning-effect-after-feedback-removal.md) [+W] — attached 2026-11-04 from alrashed Latifah; Bodanese Eliane (2026), which proposed "Integrate visible RFM feedback into neonatal resuscitation training using a blended sequence of visible and hidden phases"; tests this page's relationship.
 - [In hidden-first participants ventilating a preterm manikin, visible RFM feedback significantly reduced breath-to-breath variability in tidal volume and mask leak](../claims/visible-rfm-feedback-reduces-ventilation-variability-preterm.md) [+W] — attached 2026-11-04 from alrashed Latifah; Bodanese Eliane (2026), which proposed "Integrate visible RFM feedback into neonatal resuscitation training using a blended sequence of visible and hidden phases".
 - [Video-assisted instruction improved CVC psychomotor skill performance one week after training, with large effect sizes](../claims/video-assisted-instruction-cvc-psychomotor-skills.md) [+W] — attached 2026-11-04 from Koç Gamze et al. (2026), which proposed "Video-assisted instruction supports short-term psychomotor skill acquisition in simulated clinical training".
+- [Modified Peyton’s four-step approach yields higher immediate post-training OSCE scores than traditional Peyton in resident clinical skills training](../claims/modified-peyton-higher-immediate-osce.md) [+W] — attached 2026-11-04 from Liu Bingyan et al. (2026), which proposed "Modified Peyton’s four-step pattern: video playback, deconstruction with post-hoc questions, peer group learning with mutual supervision, and video-recorded practice".
+- [Modified Peyton’s four-step approach yields better one-month skill retention than traditional Peyton](../claims/modified-peyton-one-month-retention.md) [+W] — attached 2026-11-04 from Liu Bingyan et al. (2026), which proposed "Modified Peyton’s four-step pattern: video playback, deconstruction with post-hoc questions, peer group learning with mutual supervision, and video-recorded practice".
 
 ## Objective and learner-valued goal
 

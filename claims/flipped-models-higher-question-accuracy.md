@@ -3,13 +3,13 @@ type: claim
 title: Both flipped and AI-enhanced flipped classrooms achieve higher in-class question accuracy than the traditional classroom
 description: Both flipped and AI-enhanced flipped classrooms achieve higher in-class question accuracy than the traditional classroom
 id: flipped-models-higher-question-accuracy
+aliases: [flipped-classrooms-higher-question-accuracy]
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-20
 sources:
   - id: liu-yj-2026
     resource: "https://doi.org/10.1186/s12909-026-09608-7"
@@ -25,11 +25,13 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
-> **Design limits** · Liu YJ 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q2 i?` Question accuracy was significantly higher in both the AI-enhanced flipped classroom (p < 0.01) and the flipped classroom (p < 0.05) than in the traditional classroom. [→ Liu YJ 2026](#liu-yj-2026)
+
+`q2 i?` Question accuracy was significantly higher in the AI-enhanced flipped classroom group (p < 0.01) and the flipped classroom group (p < 0.05) than in the traditional classroom group. [→ Liu Ya Jie 2026](#liu-yj-2026)
 
 ## Evidence
 
@@ -43,7 +45,21 @@ Classroom interaction analysis in the same three-cohort quasi-experiment (N=68).
 
 > "the question accuracy rates in both the AI-enhanced flipped classroom group ( p < 0.01) and the flipped class room group ( p < 0.05) were significantly higher than those in the traditional classroom group"
 
+<!-- merged 2026-11-04 from flipped-classrooms-higher-question-accuracy: that page's entry for this study, which differed from the one above, kept verbatim.
+### Liu Ya Jie 2026
+
+Liu Ya Jie, Ma Hui Zi, Luo Hai Yun, Xiong Yun Xia, Qu Fan Wei, Xie Jian Ping, Guo Ying. (2026). From traditional classroom to AI-enhanced flipped classroom: a three-year pedagogical evolution for international students in pharmacology. BMC Medical Education. https://doi.org/10.1186/s12909-026-09608-7
+
+`q2 · i?`
+
+Quasi-experimental comparison of in-class question accuracy across the three instructional models using a classroom real-time response system. The article reports that "the question accuracy rates in both the AI-enhanced flipped classroom group (p < 0.01) and the flipped classroom group (p < 0.05) were significantly higher than those in the traditional classroom group".
+
+> "Furthermore, the question accuracy rates in both the AI-enhanced flipped classroom group (p < 0.01) and the flipped classroom group (p < 0.05) were significantly higher than those in the traditional classroom group (Fig. 1B)."
+-->
+
 ## Discussion
+
+
 
 ## Related Claims
 
@@ -56,3 +72,4 @@ Classroom interaction analysis in the same three-cohort quasi-experiment (N=68).
 - [A DLS with multiple scaffolds improved achievement and SRL attitudes, with high-achieving students beating traditional teaching but not flipped classroom](multiple-scaffolds-dls-achievement-srl.md) — related
 - [PBL and flipped classrooms frequently show better post-test performance and knowledge retention than traditional methods](pbl-flipped-better-post-test-performance.md) — a broader claim this one bears on
 - [Flipped classroom teaching improves medical students' multiple-choice question scores compared to traditional teaching](flipped-classroom-improves-mcq-scores-medical-students.md) — related
+- [Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison](flipped-classroom-higher-grades-than-traditional.md) — related

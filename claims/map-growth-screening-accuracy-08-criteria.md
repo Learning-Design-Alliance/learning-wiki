@@ -53,3 +53,4 @@ Classification accuracy results in Tables 2.9 and 2.10 for the primary and secon
 - [MAP Growth cut scores at the 30th percentile of national norms best identify Grade K-8 students in need of intensive intervention in reading and mathematics](map-growth-30th-percentile-screening-cut-scores.md) — related
 - Classification threshold trades sensitivity against specificity: 0.30 yields 91.3% sensitivity, 0.60 yields 89.7% specificity — related
 - [Only four screeners demonstrated acceptable diagnostic accuracy for distinguishing children with or at-risk of mathematical learning difficulties](four-screeners-acceptable-diagnostic-accuracy.md) — related
+- [The Rasch assessment model demonstrates high discriminative performance with area under the curve of 0.93](rasch-model-high-discriminative-performance.md) — related

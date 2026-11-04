@@ -52,3 +52,4 @@ Survey item frequencies from the cross‐sectional study of 502 Jordanian ICU nu
 - [Higher educational qualification and longer nursing experience predict self‐reported skills, but demographic factors do not predict perceived knowledge](qualification-experience-predict-skills-not-knowledge.md) — related
 - [Simulation-based education increases post-registration nurses' odds of satisfactory observed delirium-care practice at 6 weeks in a cluster RCT](sbe-delirium-odds-satisfactory-practice-rct.md) — related
 - [Most nurses and midwives report never receiving formal in-service wound-management training](most-nurses-no-formal-wound-training.md) — related
+- [Participants perceived training adequacy differently by group: written-instructions group wanted more, expert-led group found it too time-consuming](mul-training-perceived-adequacy-varies-by-group.md) — related

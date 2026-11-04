@@ -61,3 +61,4 @@ RCT reported in the review's Table 3 (Luo et al, n=13 per group, 1-hour session)
 - [Students trained with role-play activity score higher than control students on a practical history-taking test with a teacher standardized patient](role-play-higher-sp-history-taking-test-score.md) — related
 - [LLM-VSP self-practice improves medical history-taking performance in matched comparison (Cohen d=0.52)](llm-vsp-improves-history-taking-matched.md) — related
 - [GP residents showed statistically significant pre-post improvements in history-taking (Cohen's d = 1.11) and clinical reasoning (Cohen's d = 1.32) after a 12-week VP training program](vp-training-improves-history-taking-clinical-reasoning.md) — related
+- [AI-powered simulated patient practice with automated rubric-based feedback improves medical students' headache history-taking OSCE scores](aisp-cortex-improves-headache-osce-scores.md) — related

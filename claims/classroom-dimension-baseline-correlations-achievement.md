@@ -49,3 +49,4 @@ Correlational results (Table 2) from the TRIAD evaluation sample reporting assoc
 - [The intervention raised observed teacher confidence and enthusiasm, with partial mediation via this dimension for African American students only, though the group difference was not significant](teacher-confidence-enthusiasm-mediation-mixed.md) — related
 - [Support for mathematical discourse was increased by the intervention but was not significantly associated with post-treatment mathematics achievement for either group](mathematical-discourse-null-achievement-association.md) — related
 - [The TRIAD intervention raised teachers' observed expectations and responsiveness to developmental needs (b = 0.10, p = .05)](triad-raised-teacher-expectations-developmental-appropriateness.md) — related
+- [Teacher support is positively and significantly correlated with high school students’ mathematics achievement (r = 0.091).](teacher-support-positive-correlation-math-achievement.md) — related

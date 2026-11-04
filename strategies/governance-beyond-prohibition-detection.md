@@ -94,6 +94,8 @@ The article recommends that effective institutional governance extend beyond pro
 - [Mitigation strategy: AI-literacy curricula with fact-checking modules, comprehensive educator training, and transparent documentation of AI use](ai-literacy-fact-checking-mitigation-strategy.md)
 - [Frame LLM integration as an assessable AI literacy competency with differentiated integrity policies and reasoning-focused assessment redesign](ai-literacy-competency-medical-curriculum-strategy.md)
 - [Design AI-mediated cognitive supports with transparency, clear boundaries, and teacher evaluation](ai-supports-transparency-boundaries-evaluation.md)
+- [Incorporate guided AI-based learning activities, structured training on responsible AI use, and institutional guidelines for AI integration](guided-ai-learning-activities-training-guidelines.md)
+- [Integrate structured guidance on responsible, critical AI use alongside self-directed learning approaches](structured-guidance-responsible-critical-ai-use-nursing.md)
 
 ## Examples
 -

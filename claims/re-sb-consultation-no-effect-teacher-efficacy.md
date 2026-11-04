@@ -54,3 +54,4 @@ In the same quasi-experimental study, the Teacher Sense of Efficacy Scale total 
 - [Online RE-SB consultation significantly decreases teachers' efficacy in student engagement compared to control](online-consultation-decreases-student-engagement-efficacy.md) — related
 - [Online RE-SB group consultation does not significantly reduce teachers' irrational beliefs compared to control](online-re-sb-consultation-ineffective-irrational-beliefs.md) — related
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — related
+- [No significant differences in self‐efficacy beliefs across teachers' disciplines](no-discipline-differences-university-teacher-self-efficacy.md) — related

@@ -71,3 +71,4 @@ Authors' interpretation of the Experiment B follow-up data: even high-quality de
 - [Shifting away from traditional IRE recitation toward student participation in discussion improves student learning](ire-shift-toward-discussion-improves-learning.md) — related
 - [Participating in a relevant group discussion, whether explaining or listening, raises immediate recall relative to an irrelevant discussion, but this advantage does not persist one month later](relevant-discussion-immediate-recall-advantage-fades.md) — related
 - [IVR knowledge benefits appear immediately post-intervention but attenuate at later follow-up](ivr-knowledge-gains-attenuate-at-follow-up.md) — related
+- [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related

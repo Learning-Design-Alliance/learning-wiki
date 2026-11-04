@@ -62,3 +62,6 @@ The review's synthesis of empirical SP studies across settings (anaesthesia, obs
 - [CHW trainees value realistic standardized patient scenarios as a key benefit of simulation-based MI training](chws-value-realistic-sp-scenarios-in-mi-simulation-training.md) — related
 - [CHW trainees value structured preparation, pre-briefing, and immediate SP feedback in simulation-based MI training](chws-value-structure-preparation-and-feedback-in-mi-simulation-training.md) — a narrower finding that bears on this claim
 - [Simulation-based MI training significantly improves CHW trainees' confidence in engaging in conversations with individuals holding differing opinions](simulation-mi-training-increases-chw-confidence-engaging-differing-opinions.md) — a narrower finding that bears on this claim
+- [Authentic cases incorporating patient encounters, role-plays or multimedia motivate preclinical students' engagement and support knowledge gains](cbl-authentic-cases-motivate-engagement-knowledge.md) — related
+- [Feedback facilitators such as faculty coaches can increase trainee receptivity to patient feedback](feedback-facilitators-increase-receptivity.md) — related
+- [Simulated participants judged prepared students as performing better in simulations](sp-reflections-prepared-students-perform-better.md) — a narrower finding that bears on this claim

@@ -67,3 +67,4 @@ Case-level paired t-tests for URTI and diarrhoea in the same study. The URTI cas
 ## Related Claims
 - [Individual learner responses to the DCBL intervention were highly heterogeneous across all three case domains](heterogeneous-individual-sct-responses-dcbl.md) — related
 - [A single-session rule-based DCBL intervention did not produce a statistically significant overall change in SCT-measured antibiotic-stewardship reasoning among MBBS learners](single-session-dcbl-no-significant-overall-sct-change.md) — related
+- [GGR outperforms SNAPPS on complex cases (chronic liver disease, chronic dyspnoea, chronic diarrhoea) but not on the simpler anaemia case](ggr-advantage-complex-cases-only.md) — related

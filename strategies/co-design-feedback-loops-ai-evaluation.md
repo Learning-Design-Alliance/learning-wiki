@@ -62,6 +62,7 @@ The report recommends that states integrate co-design with feedback loops—defi
 - [Use the DOT Framework's Empathize and Test/Feedback stages as practical checklists, and build professional learning communities around shared prompting and critique practices](dot-empathize-test-checklist-plc-strategy.md)
 - [Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively](staged-teacher-ai-teaming-implementation.md)
 - [Integrate GPT models into LA-supported feedback systems with an iterative instructor-student validation loop to improve reliability](iterative-validation-loop-gpt-feedback-systems.md)
+- [Use Kotter's 8-step and COM-B models within iterative action-research cycles to co-design EPA implementation improvements with expert and stakeholder panels](kotter-comb-action-research-epa-implementation.md)
 
 ## Examples
 -

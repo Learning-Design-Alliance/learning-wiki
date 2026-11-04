@@ -45,6 +45,7 @@ The paper assigns institutions minimum responsibilities for enabling AI-mediated
 - [Require process transparency artefacts: process logs, prompt records, reflective commentaries and oral defences](process-transparency-artefacts-strategy.md)
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Deploy soft barriers transparently: institutional approval, policy-level disclosure, and accessibility testing](transparent-disclosed-soft-barrier-deployment.md)
+- [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
 
 ## Examples
 -

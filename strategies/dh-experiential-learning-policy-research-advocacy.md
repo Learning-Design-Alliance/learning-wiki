@@ -50,6 +50,7 @@ The review recommends that dental hygiene programs embed hands-on opportunities 
 ## Related Strategies
 
 - [Incorporate clinical training in long-term care facilities, home visits, and interprofessional education into geriatric dental curricula](ltc-home-visits-interprofessional-training-strategy.md)
+- [Explore alternative experiential learning activities for students who do not respond positively to poverty simulations](alternative-experiential-activities-poverty-education.md)
 
 ## Examples
 -

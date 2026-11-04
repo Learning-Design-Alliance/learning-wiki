@@ -51,6 +51,7 @@ The review identifies three primary ethical concerns—data privacy and security
 - [AI risk management should build students' ability to understand, manage, and respond to AI-related risks, not only reduce perceived risks](build-risk-management-ability-not-only-reduce-risk-perception.md)
 - [Balance AI integration in SRL so technological advantages are harnessed without undermining student self-efficacy](balanced-ai-integration-srl-self-efficacy.md)
 - [Three-level data protection mechanism for AI-SP privacy, informed consent, and legal risk management](ai-sp-three-level-data-protection.md)
+- [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
 
 ## Examples
 -

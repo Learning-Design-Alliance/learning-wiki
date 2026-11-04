@@ -55,3 +55,4 @@ Course achievement comparison in the quasi-experimental study: clinical skills f
 - [A hematuria-focused vertically integrated teaching program is associated with higher modified OSCE total scores assessing competency transfer among urology clerkship students in simulated settings.](hematuria-integrated-program-higher-osce-total.md) — related
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
 - [Classic Mini-CEX systematically overlooks OHL communication practices in pediatric pneumonia education](mini-cex-blind-spot-ohl-communication.md) — related
+- [Modified Peyton’s four-step approach yields higher immediate post-training OSCE scores than traditional Peyton in resident clinical skills training](modified-peyton-higher-immediate-osce.md) — related

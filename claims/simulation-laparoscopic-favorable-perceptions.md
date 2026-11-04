@@ -63,3 +63,5 @@ Narrative synthesis of the review's own included studies: of 11 studies included
 - [Students expressed interest in broader use of simulation across physiology practicals](student-demand-for-broader-simulation-use.md) — a narrower finding that bears on this claim
 - [Students perceived VEGA's on-demand vignette generation as compensating for limited clinical practicum opportunities](vega-unlimited-vignettes-compensate-practicum.md) — a narrower finding that bears on this claim
 - [Students perceive simulation practice as a protective factor that enhances confidence, safety, and readiness for real procedures](simulation-perceived-protective-factor-confidence.md) — a narrower finding that bears on this claim
+- [Students report low self-assessed knowledge but high perceived need for education and willingness to train](low-self-knowledge-high-education-need.md) — related
+- [Simulation-related variables (usability, satisfaction, presence, technology acceptance) do not predict training outcomes](simulation-variables-do-not-predict-outcomes.md) — related

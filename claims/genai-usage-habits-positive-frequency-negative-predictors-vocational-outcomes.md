@@ -69,3 +69,4 @@ Overall model test for the same regression of perceived learning outcomes on the
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
 - [Chinese higher vocational students report medium-high GenAI usage (M = 3.75) with usage habits highest, and above-average perceived learning outcomes (M = 4.01) with competency development ranked highest](vocational-students-genai-usage-medium-high-outcomes-above-average.md) — related
 - [Practice frequency, not cumulative usage time, was strongly associated with posttest presentation performance after controlling for baseline and demographics](practice-frequency-predicts-posttest-performance.md) — reports the opposite
+- [AI utility perception, but not usage frequency, is associated with learning outcomes](ai-utility-perception-not-frequency-predicts-learning.md) — related

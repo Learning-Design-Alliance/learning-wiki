@@ -53,3 +53,4 @@ Secondary analysis of a randomized controlled trial with 226 Grade 6–8 struggl
 - [The CCT treatment effect on comprehension was statistically significant only for students with pretest ORF up to 0.20 SD above the sample mean (64.0% of the sample), and not for higher-fluency students](orf-region-of-significance-cct-effect.md) — possibly the same claim (merge candidate)
 - [The CCT intervention showed no statistically significant effect on posttest oral reading fluency, including within the low-fluency region of significance](cct-no-posttest-orf-effect.md) — related
 - [CCT lessons provided suggestive evidence of greater science vocabulary and content learning than LT lessons](cct-suggestive-science-vocabulary-gain.md) — related
+- [Greater clinical experience predicts higher competence and lower insecurity but does not moderate training gains](clinical-experience-predicts-competence-insecurity-not-gains.md) — related

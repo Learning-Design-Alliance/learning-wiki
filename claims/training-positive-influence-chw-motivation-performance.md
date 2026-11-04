@@ -52,3 +52,4 @@ The review reports a Pakistani 8-day TBA training where intervention-arm TBAs "s
 - [Community selection of CHWs positively influenced CHW motivation or performance in some studies, but effects were not uniform](community-selection-mixed-effect-chw-motivation.md) — related
 - [High workload and large populations to cover were associated with lower CHW motivation and performance](high-workload-lower-chw-motivation-performance.md) — related
 - [Extended curative tasks increased CHW self-reported motivation and community recognition](curative-tasks-increase-chw-motivation-recognition.md) — related
+- [Lay health care workers report high engagement with and satisfaction toward blended digital training in low-resource settings](digital-training-high-engagement-satisfaction.md) — related

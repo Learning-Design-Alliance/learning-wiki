@@ -49,3 +49,4 @@ Narrative analysis of four studies excluded from meta‐analysis because differe
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Training outcomes extend from individual clinical care to teaching, quality improvement, and specialty development roles](transfer-extends-to-specialty-development-roles.md) — related
 - [A communication skills training program improved community aged care staff knowledge and care experiences in a randomized-cohort controlled trial](communication-skills-training-improved-staff-knowledge-dementia.md) — related
+- [Following the retraining program, nurses show significant improvements in professional engagement indicators including publications, consultations, lectures, and leadership activities.](retraining-improves-professional-engagement-indicators.md) — related

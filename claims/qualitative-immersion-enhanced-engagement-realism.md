@@ -58,3 +58,8 @@ Semistructured interviews with all 54 experimental-group participants, analyzed 
 - [Students perceive consequence-based virtual scenarios as developing real-time collaborative communication and shared decision-making](consequence-based-virtual-scenarios-collaborative-communication.md) — related
 - [Participants anticipate professional development and patient-level benefits from interprofessional learning](anticipated-benefits-ipe-pharmacy.md) — related
 - [Focus group interviews identified four user-experience themes: individualized learning, clinical reasoning engagement, educational applicability, and areas for improvement](vega-focus-group-four-themes.md) — related
+- [Active learning is perceived by nursing students and educators to enhance confidence, engagement, knowledge retention, and clinical reasoning](active-learning-enhances-nursing-outcomes-perceptions.md) — related
+- [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](aisp-focus-group-three-themes.md) — related
+- [Augmented reality tabletop exercises enhanced immersion and engagement but showed limited usability](ar-tabletop-exercises-enhanced-engagement-limited-usability.md) — related
+- [Qualitative interviews identify five themes: learning interest, self-directed learning, communication and humanistic care, clinical thinking, and improvement suggestions](boppps-virtual-simulation-qualitative-themes.md) — related
+- [Open-ended reflections most often highlighted realism of the simulation (51.5%), the simulation patient's role (32.0%), and interprofessional collaboration (20.6%)](mcleims-open-ended-themes.md) — related

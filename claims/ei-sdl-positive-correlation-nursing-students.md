@@ -55,3 +55,4 @@ Cross-sectional correlational study of 300 nursing students in Kashan, Iran usin
 - [SDL readiness among nurses shows no significant correlation with age, gender, academic status, or marital status](sdl-readiness-no-demographic-correlations.md) — related
 - [Emotional intelligence is the strongest predictor of self-directed learning in the regression model](ei-strongest-sdl-predictor.md) — related
 - [Emotional, spiritual, and moral intelligence together account for 52.1% of variance in self-directed learning](three-intelligences-explain-52-percent-sdl-variance.md) — related
+- [Self-directed learning, AI acceptance, and perceived clinical competence are mutually positively correlated](sdl-ai-acceptance-competence-correlations-nursing.md) — related

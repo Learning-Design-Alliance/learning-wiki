@@ -57,9 +57,11 @@ Remote AR support is essentially [Demonstration](../elements/demonstration.md) a
 5. **Debrief and document** — capture the annotated session as a reusable reference and have the learner restate the procedure in their own words.
 
 ## Related Strategies
+
 - Remote Expert Consultation — voice/video-only predecessor; AR adds shared spatial reference
 - Just-in-Time Performance Support — recorded AR overlays serve the same function asynchronously
 - Video Coaching — similar expert-observation loop without in-context annotation
+- [Provide remote real-time guidance during student practice, allowing the teacher to observe operations and correct technique from a distance](remote-real-time-practice-guidance-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the expert's annotated modeling is a demonstration embedded in the learner's own environment

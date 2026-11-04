@@ -49,3 +49,4 @@ In this randomized controlled trial of 30 anesthesiology residents, the simulati
 - [Pork belly simulation training reduces TAP block procedure time compared to traditional training](pork-belly-sim-shorter-tap-procedure-time.md) — related
 - [Pork belly simulation training improves within-group self-assessed practical skills and confidence](pork-belly-sim-improves-self-assessed-skills-confidence.md) — related
 - [Both training groups improve abdominal image identification but simulation group scores higher post-training](both-groups-improve-abdominal-image-identification-sim-higher.md) — related
+- [Residents rated the pork-based model higher in fidelity and satisfaction than the silicone model, with no difference in operational difficulty](pork-model-higher-fidelity-satisfaction-than-silicone.md) — related

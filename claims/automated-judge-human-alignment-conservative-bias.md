@@ -67,3 +67,4 @@ A human validation study had three domain experts independently score a stratifi
 - Three expert coders reached 77.15% overall agreement (Fleiss' κ = 0.763) on the LCT MOOC sample, and over half of their disagreements lay between Exploration and Integration — related
 - [Agreement between AI-generated competency scores and human ratings was mixed across studies, with some reporting moderate to strong agreement and others showing score inflation and inconsistent performance](ai-ssp-score-agreement-with-human-ratings-mixed.md) — related
 - [Proportional bias: AI assigned relatively higher scores at the lower end of the performance distribution](proportional-bias-ai-higher-scores-lower-end.md) — related
+- [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related

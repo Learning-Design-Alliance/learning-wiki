@@ -85,3 +85,4 @@ Post-survey questionnaire results from the think-aloud study. Participants repor
 - [The experimental group rated AVDS usability as excellent while the control group rated it as good](sus-usability-excellent-experimental-good-control.md) — related
 - [EVS usability scores above 'good' benchmark but students become more critical of usability when encountering staff competency or testing problems](evs-usability-context-dependent.md) — related
 - [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — related
+- [Students rate the AISP chatbot highly usable, with robotic conversational style the most common concern](aisp-cortex-usability-cuq-findings.md) — related

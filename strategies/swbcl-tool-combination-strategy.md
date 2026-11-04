@@ -47,7 +47,8 @@ The article recommends promoting active collaborative learning "using tools that
 - [Positive learning communities and collaborative social interaction drive learning](../claims/social-connection-and-collaboration-drive-learning.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Use sequenced instructional materials, collaborative writing, and guided peer interaction to support persuasive writing in online and blended environments](sequenced-materials-collaboration-peer-interaction-strategy.md)
 
 ## Examples
 -

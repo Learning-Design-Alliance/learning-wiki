@@ -40,6 +40,7 @@ A reasoning-based prompting strategy in which the LLM first extracts key pedagog
 ## Related Strategies
 
 - [Structured prompt framework for LLM-assisted inductive coding (role assignment, format specification, reasoning-based prompting)](structured-prompt-framework-inductive-coding.md)
+- [Prompting skills training with structured prompts for teaching preparation](deepseek-prompting-skills-training-strategy.md)
 
 ## Examples
 -

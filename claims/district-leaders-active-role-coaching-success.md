@@ -52,3 +52,4 @@ A three-year research study of instructional coaching across 32 districts, repor
 - The coaching pilot strengthened school leaders' relationships with coaches and led leaders to advocate for full-time dedicated coaches to scale the model — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related
 - [Interviewees most frequently cited the absence of coaching and professional learning support after initial installation as the source of implementation variation](coaching-absence-undermines-hqim-implementation.md) — related
+- [Institutional investment in and recognition of faculty contribution to CBL supports improved student knowledge outcomes and engagement](cbl-faculty-investment-recognition-improves-outcomes.md) — a narrower finding that bears on this claim

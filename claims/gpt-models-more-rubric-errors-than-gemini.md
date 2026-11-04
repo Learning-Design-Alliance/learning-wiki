@@ -55,3 +55,4 @@ Cross-model comparison from the conclusion's summary of the rubric-item-level er
 - [FATE benchmarks rank Gemini 2.5 Flash highest among commercial AI tutors, with actionability weakest for all models](fate-benchmark-commercial-ai-tutors.md) — related
 - [Students reported first-pass false-positive deductions at a mean of 2.94 per term, normalising to about 0.6% of rubric items](student-reported-grading-errors-lata.md) — related
 - [Lexical adaptation of the general rhetorical parser reduced false positives in legal essay analysis without introducing parse errors](lexical-adaptation-reduced-false-positives-legal-parser.md) — related
+- [Error distributions differed directionally across LLMs: Claude produced more false positives (14.2%), whereas Gemini and ChatGPT produced more false negatives (25.9% and 47.9%, respectively)](llm-ospe-asymmetric-error-patterns.md) — related

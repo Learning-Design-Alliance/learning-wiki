@@ -48,6 +48,7 @@ Based on the review's findings that distress and burnout hinder performance whil
 
 - [Integrate social-emotional learning into school programs alongside academic content](integrate-sel-curricula-academic-content.md)
 - [Integrate resilience-building strategies and psychological skills into communication training](integrate-resilience-building-in-communication-training.md)
+- [Foster a supportive organizational climate through a university-department-supervisor tri-level linkage](tri-level-organizational-climate-support.md)
 
 ## Examples
 -

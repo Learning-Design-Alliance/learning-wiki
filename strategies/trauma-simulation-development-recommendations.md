@@ -53,6 +53,7 @@ Based on the gaps identified in its scoping review, the article recommends sever
 ## Related Strategies
 
 - [Conduct well-blinded randomized controlled trials of high-fidelity computer-based simulations, including evaluations at behaviour and results levels and of affective-domain outcomes](robust-rct-high-fidelity-orthodontic-simulation-research.md)
+- [Use simulation-based training, digital tools, and interdisciplinary workshops to teach dental trauma management](simulation-digital-interdisciplinary-dental-trauma-training.md)
 
 ## Examples
 -

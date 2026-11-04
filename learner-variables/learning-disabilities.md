@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 153 claims (107 show a difference, 27 mixed, 19 no difference) · 89 studies (41 associational, 23 causal, 11 review, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 17 of 89 report an effect size · 151 claims rest on one study
+> **Evidence** · 160 claims (111 show a difference, 30 mixed, 19 no difference) · 90 studies (42 associational, 23 causal, 11 review, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 17 of 90 report an effect size · 158 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -187,6 +187,13 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [Estimated intent-to-treat effects of Head Start on cognitive and socioemotional outcomes for children with special needs are sensitive to how the subgroup is defined, with consistently larger effects under the IEP definition](../claims/hs-itt-effects-sensitive-subgroup-definition.md) [~M] — an instructional effect differs with it
 - [Among CARS-matched pairs, autism symptom scores 4 years post favored the included member of each pair (d = .68), and prosocial skills favored included children (d = .48)](../claims/inclusive-placement-autism-symptoms-prosocial.md) [+M] — instruction changes it
 - [Students with special needs and lower-performing students showed the largest gains in writing fluency after the improv sequence](../claims/improv-gains-special-needs-students.md) [+M] — an instructional effect differs with it
+- [Dyslexia and educational attainment show a negative genetic correlation with strong genetic overlap](../claims/dyslexia-ea-negative-genetic-correlation.md) [+W] — learners who differ on it differ in outcomes
+- [Dyslexia diagnosis partially mediates the effect of dyslexia polygenic scores on school performance](../claims/dyslexia-diagnosis-partial-mediation.md) [~W] — learners who differ on it differ in outcomes
+- [No sex differences in the effect of dyslexia genetic liability on school performance](../claims/no-sex-difference-dyslexia-pgs-school-performance.md) [+W] — learners who differ on it differ in outcomes
+- [Polygenic scores for EA and dyslexia have opposite associations with school performance in all three subjects](../claims/pgs-ea-dyslexia-opposite-school-performance.md) [+W] — learners who differ on it differ in outcomes
+- [The concordant dyslexia-EA genetic partition is associated with better mathematics performance only](../claims/dyslexia-concordant-partition-mathematics.md) [~W] — learners who differ on it differ in outcomes
+- [The discordant dyslexia-EA genetic partition is associated with worse school performance across all subjects and higher rates of psychopathology](../claims/dyslexia-discordant-partition-worse-outcomes.md) [+W] — learners who differ on it differ in outcomes
+- [The dyslexia-specific genetic component independent of EA is associated with poorer performance in language-related subjects but not mathematics](../claims/dyslexia-noea-language-specific-effect.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

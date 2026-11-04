@@ -54,3 +54,4 @@ Randomised controlled trial of 50 surgical residents comparing a simulation-base
 - [Simulation-based training contributes to patient safety in laparoscopic surgery](simulation-training-contributes-to-patient-safety.md) — related
 - [Simulation-based training improves laparoscopic performance time in the operating room](simulation-training-improves-performance-time.md) — a broader claim this one bears on
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — a broader claim this one bears on
+- [Complication rates did not differ significantly between pre- and post-training periods](no-significant-complication-change-after-porcine-training.md) — related

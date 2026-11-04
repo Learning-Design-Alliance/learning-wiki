@@ -72,3 +72,4 @@ Same narrative synthesis of reaction outcomes. The review reports dissatisfactio
 - [Expressed dissatisfaction with online technology, instruction, or content is not the primary reason for dropping](dissatisfaction-not-primary-drop-reason.md) — related
 - [At Kirkpatrick Level 1, satisfaction, perceptions, anxiety, and learning flow did not differ significantly between roles, but emotional arousal favored active participants](level-1-reactions-emotional-arousal-advantage.md) — related
 - [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](pepper-technical-difficulties-most-reported-limitation.md) — related
+- [Most nurses expressed satisfaction with the AMS course content and its relevance to everyday practice](nursing-ams-course-satisfaction-relevance.md) — a narrower finding that bears on this claim

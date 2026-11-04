@@ -61,3 +61,4 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [Most students wanted argumentation-based activities continued, mainly in science lessons](students-want-argumentation-activities-continued-science.md) — related
 - [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related
 - [Most students endorse the service learning model and would recommend it for future students](service-learning-student-endorsement-recommendation.md) — related
+- [Students valued teacher guidance (90%) and recommended continuation of the activity (93%)](pbl-scaffolding-teacher-guidance-continuation.md) — related

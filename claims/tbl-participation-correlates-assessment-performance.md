@@ -51,3 +51,4 @@ The review attributes this finding to Carrasco et al. and Nayak et al. among the
 - [Both course sections show the same team-over-individual RAT trend despite a significant difference in scores between the sections](rat-section-difference-same-trend.md) — related
 - [Team-based learning showed significantly higher performance than traditional learning in one included study](tbl-significantly-higher-performance-hossain.md) — related
 - [Individual weekly readiness assurance test (iRAT) scores are strongly predictive of summative examination performance (R²≈0.38–0.41) and reproducible over consecutive years.](tbl-readiness-scores-predict-summative-performance.md) — a narrower finding that bears on this claim
+- [Seven of nine readiness assurance questions achieved the maximum score during the t-RAT](seven-of-nine-max-t-rat.md) — related

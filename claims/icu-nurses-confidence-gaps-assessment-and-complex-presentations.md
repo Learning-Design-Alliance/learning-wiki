@@ -70,3 +70,4 @@ Item‐level descriptive results from the skills subscale (Table 3); the article
 - [Only 32% of Jordanian ICU nurses had received formal mental health training, and 79% felt they could be better prepared with additional education](icu-nurses-mental-health-training-gap.md) — related
 - [Jordanian ICU nurses report moderate self‐perceived knowledge, skills and attitudes toward mental health care (means 3.19–3.28 on a 5‐point scale)](jordanian-icu-nurses-moderate-self-reported-mental-health-competence.md) — related
 - [Round 1 participants most strongly endorsed risk identification and collaborative safety planning, while hospital admission outcomes received the lowest endorsements](round1-risk-safety-planning-highest-endorsement.md) — related
+- [Spirometry was the lowest-rated domain at baseline and remained lowest after training despite improvement](spirometry-lowest-rated-domain-pr-training.md) — related

@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**998 entries** · 0 stable · 998 in review · 0 drafts
+**1000 entries** · 0 stable · 1000 in review · 0 drafts
 
 ---
 
@@ -188,6 +188,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Curriculum analytics using cognitive diagnostic modeling and hierarchical learner-profile clustering](curriculum-analytics-using-cognitive-diagnostic-modeling-and-hierarchical-learner-profile.md) - A two-step curriculum analytics approach that maps existing assessments to professional standards and applies a generalized cognitive diagnostic model to assessment grades to produce attainment probabilities (0–1) per standard, then uses hierarchical agglomerative clustering to group learners into i
 * [Curriculum-grounded ontology framework for building educational QA benchmarks](curriculum-grounded-ontology-framework-for-building-educational-qa-benchmarks.md) - The article proposes an end-to-end framework in which a national curriculum textbook is ingested via OCR and semantic chunking, formalized against a predefined domain ontology, and used to construct a provenance-traced QA benchmark with category-level evaluation.
 * [Curriculum-Instruction-Assessment triad taxonomy of AI educational purposes in VET](curriculum-instruction-assessment-triad-taxonomy-of-ai-educational-purposes-in-vet.md) - Building on Wang et al.
+* [CUSUM learning-curve analysis for procedural proficiency benchmarking](cusum-learning-curve-analysis-for-procedural-proficiency-benchmarking.md) - The article applies cumulative sum (CUSUM) methods as a quantitative framework for defining surgical proficiency.
 
 #### D {: #letter-d }
 
@@ -227,6 +228,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Durkin's eight-category scheme for classifying teachers' comprehension-related behavior](durkins-eight-category-scheme-for-classifying-teachers-comprehension-related-behavior.md) - The article develops a coding scheme distinguishing comprehension instruction—\"Teacher does/says something to help children understand or work out the meaning of more than a single, isolated word\"—from seven related categories: application, assignment, help with assignment, review of instruction, pr
 * [Dynamic structural equation modelling for intra-individual emotion trajectories](dynamic-structural-equation-modelling-for-intra-individual-emotion-trajectories.md) - The study advocates measuring emotions repeatedly after every session and analysing them with dynamic structural equation modelling, a process-oriented, intra-individual approach \"only recently applied in educational research\".
 * [Dynamical-systems analysis of intelligent tutoring system process data](dynamical-systems-analysis-of-intelligent-tutoring-system-process-data.md) - The article proposes dynamical systems theory and associated analysis techniques as tools for examining behavioral patterns and variations within ITSs.
+* [Dyslexia–educational attainment polygenic-liability partitioning method](dyslexiaeducational-attainment-polygenic-liability-partitioning-method.md) - The article proposes dissecting the genetic liability for dyslexia into components based on their relationship with educational attainment, using EA as a proxy for school performance that reflects both cognitive abilities and noncognitive influences.
 
 #### E {: #letter-e }
 

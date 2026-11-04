@@ -50,3 +50,4 @@ Phase 1 of the three-phase validation assessed AI scoring reliability using the 
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
 - [LLM observer ratings converge excellently with human expert judgments in applying the CAARS observer instrument to generated narratives](llm-observer-ratings-converge-with-human-experts.md) — related
 - [AEEGS scores show high absolute agreement with 12 human expert raters' scores on mathematical Economics essay items (average-measures ICC = 0.863)](aeegs-high-agreement-human-raters-icc-0863.md) — related
+- [Expert reference standard for MUL measurements showed excellent agreement (ICC 0.90)](expert-reference-mul-icc-090.md) — related

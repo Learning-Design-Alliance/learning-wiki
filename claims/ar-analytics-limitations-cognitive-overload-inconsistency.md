@@ -51,3 +51,4 @@ Systematic review synthesis of limitation codes (Table 11) across the reviewed s
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — related
 - [Usability problems — disorientation, distraction, and cognitive overload — hinder demonstrating effectiveness of self-controlled hypermedia learning](hypermedia-usability-problems-hinder-effectiveness.md) — related
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
+- [Augmented reality tabletop exercises enhanced immersion and engagement but showed limited usability](ar-tabletop-exercises-enhanced-engagement-limited-usability.md) — related

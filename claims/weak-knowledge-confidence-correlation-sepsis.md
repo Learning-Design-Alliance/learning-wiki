@@ -52,3 +52,5 @@ Pearson product-moment correlation in the 355-nurse survey found "a weak yet sta
 - [Assignment to the arousal condition correlates significantly but weakly with exam score (r = 0.176) in a correlation matrix of 846 students](arousal-condition-exam-score-correlation.md) — related
 - [Invested mental effort and interest are only weakly and inconsistently positively correlated across measurement points, with some correlations non-significant](effort-interest-weak-inconsistent-positive-correlation.md) — related
 - [Positive motivational assessments of introductory activities correlate weakly with learning outcomes on near-in-time tests but not with distant exam results](motivational-assessments-correlate-weakly-near-tests.md) — related
+- [Self-reported confidence and familiarity with screening tools did not reliably translate into accurate sepsis determination](confidence-competence-gap-sepsis-recognition.md) — a narrower finding that bears on this claim
+- [There is a weak to moderate positive correlation between SBWGTT placement time and the presence of complications](correlation-placement-time-complications-sbwgtt.md) — related

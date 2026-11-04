@@ -55,3 +55,4 @@ The authors' interpretive account of how contract grading changes feedback dynam
 - [Students report teacher feedback on writing is insufficient, and they value scores over feedback](insufficient-writing-feedback-scores-over-feedback.md) — related
 - [Ungraded practice tests function as a legitimate mediating practice that empowers learners and redefines the instructor's authority](ungraded-tests-mediating-practice.md) — related
 - [The authors report that fourteen weeks of contract-required work improves writing quality enough to warrant a B](fourteen-weeks-contract-work-warrants-b.md) — related
+- [Subjective assessment of student behaviour in CBL leads students to prioritise participation over collaborative learning, decoupling engagement from knowledge gained](cbl-subjective-behaviour-assessment-decouples-engagement-knowledge.md) — related

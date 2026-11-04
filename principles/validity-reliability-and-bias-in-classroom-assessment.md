@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 403 claims (185 for, 190 mixed, 28 against) · 303 studies (95 associational, 70 design, 50 causal, 46 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 26 of 303 report an effect size · 396 claims rest on one study
+> **Evidence** · 407 claims (186 for, 193 mixed, 28 against) · 306 studies (96 associational, 72 design, 50 causal, 46 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 26 of 306 report an effect size · 400 claims rest on one study
 
 ## Conditional relationship
 
@@ -252,6 +252,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [A DistilBERT essay-scoring model shows sufficiently high internal consistency with Spearman-Brown coefficients from .77 to .92](../claims/distilbert-internal-consistency-spearman-brown-77-92.md) [+W] — attached 2026-11-04 from Debelak Rudolf (2026), which proposed "Assess internal consistency of AI-based scores by splitting input text into comparable parts and correlating part scores"; tests this page's relationship.
 - [The DistilBERT model shows indications of fairness violations when comparing human and AI scores across different topics](../claims/distilbert-fairness-violations-across-topics.md) [+W] — attached 2026-11-04 from Debelak Rudolf (2026), which proposed "Evaluate fairness of AI-based scores by comparing model accuracy and score bias across relevant subgroups (prediction invariance)"; tests this page's relationship.
 - [GenAI-assisted item sets showed lower KR-20 internal consistency reliability, and Spearman-Brown projections implied far more items would be needed to reach KR-20=0.70](../claims/genai-mcq-lower-reliability.md) [+M] — attached 2026-11-04 from Sze Kai Ping et al. (2026), which proposed "Use GenAI as a drafting adjunct within educator-led item workflows that prioritize distractor engineering, pilot testing, empirical item analysis, and repair before item-bank or summative use"; tests this page's relationship.
+- [Task-specific metrics show excellent inter-rater reliability for simulated laparoscopic crural repair assessment](../claims/tsm-excellent-inter-rater-reliability-crural-repair.md) [+W] — attached 2026-11-04 from Garces-Palacios S et al. (2026), which proposed "Use task-specific metrics as standardized assessment tools in surgical simulation education"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -477,6 +478,9 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The student-generated exam showed higher internal consistency than the AI-generated exam, though both exceeded the KR-20 ≥ 0.50 threshold](../claims/student-gen-exam-higher-kr20.md) [+W]
 - [Clinical exposure and performance are not consistently associated with shelf exam scores](../claims/clinical-exposure-inconsistent-shelf-scores.md) [~W]
 - [Step 1 performance strongly predicts shelf exam performance across clerkships](../claims/step1-predicts-shelf-exam-performance.md) [+W]
+- [Three LLMs showed inconsistent systematic bias on multimodal OSPE grading: Claude over-scored by +2.5 points (proportional), Gemini under-scored by −5.0 and ChatGPT by −10.0 points (non-proportional)](../claims/llm-ospe-systematic-bias-bland-altman.md) [~W]
+- [Classification accuracy declines near the median score threshold due to overlap between low‐ and high‐skill feature distributions](../claims/accuracy-declines-near-median-threshold.md) [~W]
+- [LLM-generated scores on multimodal OSPE items correlate strongly with human scores in rank order yet diverge substantially on categorical pass/fail decisions](../claims/llm-ospe-rank-agreement-paradox.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

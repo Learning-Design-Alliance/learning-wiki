@@ -50,3 +50,4 @@ Quasi-experimental study comparing practical skill performance via objective str
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — related
 - [First-year nursing students taught with virtual simulation and interactive multimedia scored higher on the theoretical exam than the traditionally taught group](virtual-multimedia-higher-theory-scores-nursing.md) — related
 - [Integrated simulation-and-clinical-practice teaching produced no statistically significant difference in clinical basic skills or theory exam scores compared with traditional teaching](integrated-simulation-clinical-practice-no-score-difference.md) — related
+- [Integrated micro-skills training-CPTM improves OSCE practical skill scores versus traditional teaching](microskills-cptm-higher-osce.md) — reports the opposite

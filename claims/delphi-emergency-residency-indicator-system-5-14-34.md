@@ -52,3 +52,4 @@ A two-round modified Delphi study with 19 emergency medicine experts from 11 ter
 - [A modified Delphi needs assessment with 26 stakeholders identified areas of convergence and divergence that informed the core competencies](delphi-needs-assessment-long-covid-competencies.md) — related
 - [A modified Delphi consensus process with 25 head and neck surgery specialists established 22 essential competencies for general surgery residents.](delphi-consensus-22-competencies-hns-general-surgery.md) — related
 - [In the first Delphi round, 12 of 22 potential competencies received unanimous endorsement and 10 required revisions based on expert feedback.](delphi-first-round-12-unanimous-10-revised.md) — related
+- [Two rounds of Delphi expert consultation with 22 experts demonstrate significant consensus and refine the retraining program from 9 to 11 learning modules.](delphi-consultation-refines-retraining-program-modules.md) — related

@@ -74,3 +74,4 @@ Pairwise reliability analysis across temperature settings within each model type
 - [Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested](within-judge-stability-llm-rubric.md) — related
 - [Cross-model agreement on assertions is moderate (median 0.401) and higher among construct-derived than corpus-derived assertions](assertion-cross-model-agreement-moderate-median-0401.md) — related
 - [Model choice, prompting configuration, and rubric component all significantly affect LLM-human agreement, with significant interactions](mixed-effects-model-significant-main-and-interaction-effects.md) — related
+- [Data contamination and single-dataset limitations restrict generalizability of LLM benchmarking results on dental specialization exams](llm-dental-benchmark-data-contamination-limitation.md) — related

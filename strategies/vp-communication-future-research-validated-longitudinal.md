@@ -64,6 +64,7 @@ The review recommends that future research prioritize standardized and validated
 - [Assign clerkship students to follow a single patient longitudinally from outpatient visit through surgery and postoperative review](longitudinal-patient-following-strategy.md)
 - [Design future AR simulation studies with objective performance measures, controlled comparative designs and validated usability instruments](ar-simulation-future-study-design-recommendations.md)
 - [Future evaluative research protocols should include avoidance of involuntary hospital admissions as a key outcome and use both PROMs and PREMs](proms-prems-involuntary-admission-evaluation.md)
+- [Use longitudinal follow-up assessments to evaluate knowledge retention and clinical application of TBL](longitudinal-assessment-tbl-retention.md)
 
 ## Examples
 -

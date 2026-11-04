@@ -35,7 +35,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (35 for, 12 mixed) · 51 studies (14 causal, 11 quant-synthesis, 10 review, 7 qualitative, 4 theoretical, 3 associational, 2 design), `q1`–`q4` · 9 of 51 report an effect size · 41 claims rest on one study
+> **Evidence** · 49 claims (37 for, 12 mixed) · 53 studies (14 causal, 11 quant-synthesis, 11 review, 8 qualitative, 4 theoretical, 3 associational, 2 design), `q1`–`q4` · 9 of 53 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -179,6 +179,8 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Experiential learning approaches improve fruit and vegetable consumption or preference (Md = 0.68), within the Zone of Desired Effects](../claims/experiential-learning-fv-consumption-md-0-68.md) [+W]
 - [Students taught with the Experiential Learning Approach scored significantly higher on the Mathematical Creativity Test than students taught with Conventional Teaching Methods](../claims/ela-higher-mathematical-creativity-than-ctm.md) [+W]
 - [A model routing maternal interaction through Experiential Learning Care fits independence outcomes better than direct interaction alone](../claims/elc-path-model-better-fit-than-direct-interaction.md) [+W]
+- [Pharmacy students reported strong engagement and positive reactions to the campaign as an experiential learning activity.](../claims/pharmacy-students-strong-engagement-experiential-campaign.md) [+W]
+- [An operational exercise empowerment program increased nurses' disaster response competence across all domains, with a significant group-by-time interaction](../claims/operational-exercise-program-increased-disaster-competence.md) [+W]
 
 ## Related Principles
 - [Debriefing](debriefing.md) — a core mechanism for making experience educative

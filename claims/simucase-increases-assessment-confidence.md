@@ -50,3 +50,4 @@ Focus-group perceptions from the same 10-participant qualitative pilot. Students
 - [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](students-recommend-simulation-in-each-course.md) — related
 - [Students find computer-based simulation feedback insufficient because incorrect responses are marked without explanation](simucase-feedback-insufficient.md) — related
 - [Clinical simulation improved pathophysiology learning with a significant grade shift toward higher marks](clinical-simulation-improves-pathophysiology-grades.md) — related
+- [Participants reported perceived increases in confidence when approaching early clinical tasks after completing the integrated module.](integrated-module-increases-confidence-early-clinical-tasks.md) — related

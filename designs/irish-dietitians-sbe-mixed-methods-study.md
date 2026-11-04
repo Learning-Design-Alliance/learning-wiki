@@ -46,7 +46,8 @@ A convergent mixed-methods study combining an anonymous online SurveyMonkey ques
 - [Key barriers to SBE implementation are lack of knowledge or training, lack of awareness of resources, limited time and resources, and limited institutional support](../claims/sbe-barriers-knowledge-time-institutional-support.md) [+W]
 
 ## Related Designs
-- 
+
+- [Two-phase mixed-methods study of board exam prep resources across 42 accredited COM programs](two-phase-com-board-prep-study-2026.md)
 
 ## Examples
 -

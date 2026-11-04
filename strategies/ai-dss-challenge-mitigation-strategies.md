@@ -45,6 +45,7 @@ The review maps each identified challenge—model interpretability, algorithmic 
 - [Use this Toolkit: Mitigating Racial Bias in Edtech](use_this_toolkit-mitigating_racial_bias_in_edtech.md)
 - [Teachers adopting EAI should address digital literacy and ethical design challenges identified for each AI dimension](teacher-challenges-eai-inclusion-digital-literacy-ethics.md)
 - [Integrate IoT and biometric technologies to augment the security, scalability, and operational efficiency of online proctoring systems](integrate-iot-biometric-proctoring.md)
+- [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
 
 ## Examples
 -

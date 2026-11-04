@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 180 claims (92 for, 74 mixed, 14 against) · 155 studies (75 causal, 24 review, 16 associational, 15 quant-synthesis, 12 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 18 of 155 report an effect size · 179 claims rest on one study
+> **Evidence** · 181 claims (92 for, 75 mixed, 14 against) · 156 studies (76 causal, 24 review, 16 associational, 15 quant-synthesis, 12 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 18 of 156 report an effect size · 180 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -215,6 +215,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Conventional microscopy achieved significantly higher cataract module scores than the 3D heads-up display, while vitrectomy scores did not differ](../claims/cataract-scores-favour-conventional-vitrectomy-comparable.md) [~W]
 - [No connectivity issues occurred during AR telementored simulation in a controlled environment with stable network infrastructure](../claims/ar-telementoring-no-connectivity-issues-controlled-environment.md) [~W]
 - [Total exam scores did not differ significantly between students taught with integrated Rain Classroom/CBL and traditional lectures](../claims/rain-classroom-cbl-no-total-score-difference.md) [~W]
+- [Over 75% of students in the AI-enhanced flipped classroom group reported a regular habit of using AI tools at least once per week.](../claims/majority-regular-weekly-ai-use.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

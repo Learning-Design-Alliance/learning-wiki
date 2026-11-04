@@ -59,3 +59,4 @@ A pragmatic randomized controlled trial with 84 second-year nursing students (42
 - [A biofeedback-based stress monitoring tool significantly reduced surgeons' mean stress scores in a randomized controlled trial](stress-feedback-tool-reduced-stress-rct.md) — related
 - [VR temporal demands during short testing quizzes are significantly lower than traditional paper-based testing](vr-short-testing-quizzes-lower-temporal-demands.md) — related
 - [Students trained via VR report significantly greater satisfaction than students trained on real patients or a mannequin](vr-training-greater-satisfaction-ecg-training.md) — related
+- [A video-based climate change program improved nursing students' climate change perceptions, environmental self-efficacy, and reduced climate anxiety, with large effects](video-based-climate-program-large-effects-students.md) — related

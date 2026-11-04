@@ -59,3 +59,4 @@ Cross-cutting finding reported in the abstract and RQ2 findings: learners direct
 - [Anderson's structured cognitive tutoring systems and Papert's constructionist approach embody contrasting positions on control and learner agency](anderson-papert-comparative-models-control-agency.md) — related
 - [Example-tracing tutors support a variety of pedagogical approaches beyond step-based problem solving, including collaborative learning, educational games, and guided invention activities.](example-tracing-tutors-support-varied-pedagogies.md) — related
 - [Each successive AI scenario demands higher AI literacy levels, from Informed to Active participant](ai-scenarios-require-rising-literacy-levels.md) — related
+- [Most students expected AI to serve as personal tutor, creative partner, and critical thinking partner rather than merely a content generator.](students-expect-collaborative-ai-roles-beyond-content-generation.md) — related

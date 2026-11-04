@@ -53,6 +53,7 @@ The article recommends integrating AI simulated patients into undergraduate curr
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
 - [Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours](vp-replace-passive-before-bedside-strategy.md)
+- [Integrate AISP platforms into medical curricula as complements to traditional teaching with expanded case variety](aisp-curricular-integration-strategy.md)
 
 ## Examples
 -

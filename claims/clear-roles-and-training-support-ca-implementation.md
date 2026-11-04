@@ -64,3 +64,4 @@ Cross-case qualitative finding (RQ1-3) from documents, interviews, and walkthrou
 - [Faculty organized EdTech integration decisions in ways aligned with the principles](dexter-2023-faculty-decisions-aligned-principles.md) — related
 - [Integrative SDL frameworks combining individual motivation with structured organizational support yielded the best outcomes in fostering lifelong learning among healthcare professionals](integrative-sdl-frameworks-best-outcomes.md) — related
 - [Substituting teacher-collected video for in-person evaluation produced more productive feedback, fairer perceptions, and modestly more observation time](video-evaluation-better-feedback-fairness.md) — related
+- [Libraries with formal shared decision-making report better alignment and more proactive resource management than libraries excluded from governance](shared-governance-linked-to-proactive-library-management.md) — related

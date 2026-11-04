@@ -221,3 +221,4 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [Regulatory oversight by bodies such as the US FDA is presented as critical for fostering trust in AI among clinicians and patients](regulatory-oversight-fosters-trust-in-ai.md) — related
 - [Over-reliance on AI leading to superficial learning is the most frequently reported learning risk, documented in 65.52% of reviewed studies](overreliance-superficial-learning-risk.md) — related
 - [Students' overreliance on generative AI can limit development of critical thinking skills when AI replaces rather than scaffolds learner reasoning](generative-ai-overreliance-limits-critical-thinking-development.md) — related
+- [Professional accuracy showed the smallest improvement among the five dimensions, with some students scoring lower due to uncritical adoption of AI-generated content.](professional-accuracy-gains-smallest-among-dimensions.md) — a narrower finding that bears on this claim

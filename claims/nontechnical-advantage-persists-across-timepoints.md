@@ -49,3 +49,4 @@ Longitudinal analysis of AS-NTS scores at T1–T5 found significant between-grou
 - [Technical and non-technical ACLS skills decline by 12 months post-training across all simulation groups](acls-skill-decline-at-twelve-months.md) — related
 - [Mannequin and combined simulation groups report higher interest than the computer simulation group, with no differences on other satisfaction items](simulation-mode-interest-satisfaction-item.md) — related
 - [Computer, mannequin, and combined simulation all significantly improve ACLS technical skills (megacode scores, CPR initiation time, defibrillation time) with no significant between-group differences](three-simulation-modes-equal-technical-acls-gains.md) — related
+- [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related

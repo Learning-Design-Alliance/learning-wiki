@@ -49,7 +49,8 @@ The article recommends that RT instruction incorporate social learning strategie
 - [No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' theater alone](../claims/readers-theater-alone-no-unique-eb-gains-evidence.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Use video recording and post-session video review to support skill retention and self-directed review](video-recording-review-for-skill-retention.md)
 
 ## Examples
 -

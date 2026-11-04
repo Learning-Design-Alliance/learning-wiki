@@ -65,3 +65,4 @@ Quasi-experimental non-equivalent groups comparison of grades in the course "Did
 - [University students taught with a Blackboard-Mashup flipped classroom strategy scored significantly higher on an achievement test than students taught traditionally](fcrs-achievement-beats-traditional-instruction.md) — related
 - [Medical students in an integrated histology course scored significantly higher on the end-of-semester exam than non-participants taught traditionally](integrated-histology-higher-test-scores.md) — related
 - [The vodcast-access cohort showed no significant improvement over the control cohort on the end-of-module exam.](no-vodcast-effect-on-eom-exam-performance.md) — related
+- [Both the flipped classroom and AI-enhanced flipped classroom groups achieved higher question accuracy than the traditional classroom group.](flipped-models-higher-question-accuracy.md) — related

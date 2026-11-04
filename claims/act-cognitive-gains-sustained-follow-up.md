@@ -56,3 +56,4 @@ Simple-effects analyses within each group across pre-training, post-training, an
 - [From post-test to delayed post-test the CI group showed further DCT gains while the SI group showed losses](dct-delayed-trends-ci-gains-si-losses.md) — related
 - [Experimental-group students improved significantly from pretest to follow-up while control-group improvement was not significant](eg-significant-pretest-followup-gain.md) — related
 - [Short-term skill retention after AR-guided training was stable for time and imaging metrics at a minimum one-day follow-up](ar-simulator-short-term-retention-stable.md) — related
+- [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — reports the opposite

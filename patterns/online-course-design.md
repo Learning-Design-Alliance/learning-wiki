@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 58 claims (28 for, 29 mixed, 1 against) · 42 studies (11 causal, 11 associational, 6 quant-synthesis, 5 qualitative, 5 design, 3 review, 1 theoretical), `q1`–`q4` · 9 of 42 report an effect size · 55 claims rest on one study
+> **Evidence** · 59 claims (29 for, 29 mixed, 1 against) · 43 studies (11 causal, 11 associational, 6 quant-synthesis, 6 qualitative, 5 design, 3 review, 1 theoretical), `q1`–`q4` · 9 of 43 report an effect size · 56 claims rest on one study
 
 ## Description and scope
 
@@ -177,6 +177,7 @@ This pattern is scoped to the shape of a mostly online course across a term. How
 - [There was a significantly positive effect of interacting with the instructor on the Engagement variable, but no other significant effects produced by any of the social partner variables.](../claims/interacting-with-instructor-positive-effect-engagement-edutorcs.md) [+M]
 - [Disappearing students complicated maintaining constructivist groups in the online course](../claims/disappearing-students-online-group-work.md) [~W]
 - [Instructional communication strongly predicts perceived student engagement (β = 0.82)](../claims/ic-strongly-predicts-student-engagement.md) [+W]
+- [The variety of learning activities offered each week, along with the engagement and clinical relevance of these, was the strongest theme raised by students in open-ended survey responses.](../claims/variety-of-learning-activities-strongest-student-theme.md) [+W]
 
 ## Related Patterns
 - [Blended Learning](blended-learning.md) — divides a course between online and in-person time; this pattern shapes the online course itself

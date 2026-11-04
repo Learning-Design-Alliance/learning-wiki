@@ -51,3 +51,5 @@ Qualitative synthesis of seven included studies in a systematic review. The revi
 - [Surgical performance improvement after virtual reality simulator training is limited to novice and intermediate trainees, not experienced or expert surgeons](vrs-performance-gains-novice-intermediate-only.md)
 - [Repeated simulator attempts improve VRS performance, with expert groups showing no further improvement](vrs-simulator-performance-curves-improve.md)
 - [Twenty-eight studies of the Eyesi cataract training modules collectively demonstrated all five sources of validity evidence, with strong data for each parameter except response processes.](eyesi-cataract-all-five-validity-sources-28-studies.md) — related
+- [Novice first-attempt total scores were significantly lower than expert median scores on all six FRS VR tasks](frs-vr-novice-scores-lower-than-experts.md) — related
+- [HelpMeSee MSICS simulator overall scores increase significantly with ophthalmic surgical experience, supporting construct validity](helpmesee-msics-score-increases-with-experience.md) — related

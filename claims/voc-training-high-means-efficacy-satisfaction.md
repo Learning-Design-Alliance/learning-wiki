@@ -76,3 +76,4 @@ Reaction data from the posttraining survey showed very high satisfaction and wil
 - [Game-based virtual-human role-play training significantly increases faculty self-efficacy and behavioral intent to support student veterans, with sustained gains at 3-month follow-up.](voc-training-increases-gatekeeper-self-efficacy-likelihood.md) — related
 - [Game-based virtual-human role-play training significantly increases faculty military cultural competency, with sustained gains at 3-month follow-up.](voc-training-increases-military-cultural-competency.md) — related
 - [Participants were highly satisfied with the workshop and all would recommend it to colleagues](bronchoscopy-workshop-high-satisfaction.md) — related
+- [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related

@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 230 claims (155 show a difference, 45 mixed, 30 no difference) · 146 studies (51 causal, 45 associational, 26 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 32 of 146 report an effect size · 223 claims rest on one study
+> **Evidence** · 236 claims (160 show a difference, 46 mixed, 30 no difference) · 148 studies (51 causal, 47 associational, 26 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 33 of 148 report an effect size · 229 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -266,6 +266,12 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Pair interaction reportedly reduces anxiety and increases confidence and motivation](../claims/pair-interaction-reduces-anxiety-increases-motivation.md) [+W] — measured as an outcome of the instruction studied
 - [Trait anxiety is only weakly associated with final national ranking in a high-stakes medical examination.](../claims/trait-anxiety-weakly-associated-with-ranking.md) [+M] — learners who differ on it differ in outcomes
 - [Most students reported lower pre-exam anxiety before the collaborative whisper exam compared to traditional individual written examinations](../claims/whisper-exam-lower-perceived-stress.md) [+W] — measured as an outcome of the instruction studied
+- [Learner anxiety affects self-assessment but not expert evaluation of technical skill](../claims/anxiety-affects-sa-not-ee.md) [~M] — learners who differ on it differ in outcomes
+- [Mathematics anxiety and learning engagement jointly exert a serial (chain) mediating role between teacher support and mathematics achievement.](../claims/serial-mediation-anxiety-engagement-teacher-support-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [Mathematics anxiety is negatively correlated with learning engagement and mathematics achievement among high school students.](../claims/math-anxiety-negative-correlation-engagement-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Mathematics anxiety mediates the association between teacher support and mathematics achievement.](../claims/math-anxiety-mediation-teacher-support-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [Teacher support is negatively associated with mathematics anxiety and positively associated with learning engagement.](../claims/teacher-support-anxiety-engagement-paths.md) [+M] — measured as an outcome of the instruction studied
+- [The direct association between teacher support and mathematics achievement becomes non-significant after including mathematics anxiety and learning engagement, indicating full mediation.](../claims/full-mediation-no-direct-effect-teacher-support-achievement.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

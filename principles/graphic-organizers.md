@@ -215,6 +215,7 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 - [Use semantic mapping as a vocabulary teaching device in EFL classes to build deeper vocabulary knowledge](../strategies/semantic-mapping-vocabulary-teaching-strategy.md)
 - [Combine a graphic organizer with varied grouping formats to scaffold non-routine problem solving](../strategies/combine-organizer-with-varied-grouping-scaffolds.md)
 - [Use digital graphic organizer applications for collaborative concept mapping](../strategies/digital-graphic-organizer-applications-strategy.md)
+- [Progress from small-group domain-specific mind maps to class-wide integration to fade scaffolding](../strategies/small-group-to-class-wide-mind-map-fading.md)
 
 ## Key Sources
 - Hall, T., & Strangman, N. (2002). *Graphic organizers*. National Center on Accessing the General Curriculum.
