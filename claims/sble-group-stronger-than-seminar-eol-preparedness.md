@@ -51,3 +51,4 @@ Level 3 (BEHAVIOR) evaluation reported in the review: face-to-face semistructure
 - [Debriefing was a central element of nearly all reviewed palliative/EOL communication SBLEs, but methods varied widely](debriefing-central-sble-palliative-communication.md) — related
 - [Extended immersive ward-based simulation may improve preparedness and self-confidence of nursing students](immersive-ward-simulation-improves-preparedness.md) — related
 - [Simulation-based learning experiences are being used to teach palliative and end-of-life communication skills to nursing students and clinicians](sble-teach-palliative-eol-communication-nursing.md) — a broader claim this one bears on
+- [Simulation-based education contributes to developing communication, interviewing and therapeutic engagement skills in undergraduate psychiatry](simulation-develops-clinical-skills-undergraduate-psychiatry.md) — related

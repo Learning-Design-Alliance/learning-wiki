@@ -53,7 +53,8 @@ Based on its encouraging findings, the review recommends implementing simulation
 - [Virtual standardized patient training improved alcohol screening and brief intervention skills and diagnostic accuracy for depression and PTSD in two RCTs, while a suicide risk assessment RCT found no significant effect](../claims/vsp-training-skills-rct-mixed-results.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Integrate structured suicide prevention training with simulated practice of responding to suicidal communication into clergy formation](structured-suicide-prevention-training-clergy-formation.md)
 
 ## Examples
 -

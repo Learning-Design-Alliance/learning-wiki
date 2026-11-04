@@ -53,6 +53,7 @@ The article recommends that future research "should look at longitudinal mixed m
 - [Prioritize longitudinal studies tracking trainees from simulation to real-world surgical performance](longitudinal-simulation-to-or-tracking-studies.md)
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
 - [Prioritize multicenter, randomized designs with standardized reporting and longitudinal follow-up in future surgical education research](prioritize-multicenter-randomized-standardized-reporting-research.md)
+- [Assign clerkship students to follow a single patient longitudinally from outpatient visit through surgery and postoperative review](longitudinal-patient-following-strategy.md)
 
 ## Examples
 -

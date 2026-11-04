@@ -52,3 +52,4 @@ Conclusion-level summary of the fine-tuning experiments (Section 5.1, Table 2; A
 - [Native speakers rated outputs of LLMs fine-tuned on Nigerian Pidgin English as understandable and context-aware, though no non-fine-tuned baseline was evaluated](pidgin-fine-tuning-improves-linguistic-alignment.md) — related
 - [A fine-tuned Qwen3.5-9B simulated-respondent model predicts item difficulty with Pearson correlation 0.85, exceeding MathBERT (0.68) and MetaMath (0.75) baselines](llm-simulated-respondents-predict-item-difficulty-above-regression-baselines.md) — related
 - [The EduQwen 32B models achieve up to 96.52% accuracy on the CDPK Benchmark, surpassing the previous leaderboard leader Gemini-3 Pro at 90.55%](eduqwen-32b-sota-cdpk-benchmark.md) — related
+- [Scaling Qwen2.5 from 3B to 32B parameters improved both metrics and reduced the consistency gap by approximately 50%](model-scaling-reduces-consistency-gap.md) — related

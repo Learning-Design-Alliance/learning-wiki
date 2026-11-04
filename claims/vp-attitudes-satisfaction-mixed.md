@@ -75,3 +75,6 @@ Narrative synthesis of 11 attitudinal-outcome studies; the review notes diminish
 - [Learner self-reported improvement after AI-generated virtual patient training is sometimes discordant with observed or cohort-comparison performance](ai-virtual-patient-self-report-performance-discordance.md) — related
 - [Most studies reporting change in attitude or behaviour rely on student self-reports, which is not a reliable method for measuring long-term changes in attitude](self-reports-unreliable-for-attitude-change.md) — related
 - [Students generally favored the interactive simulation over the paper-based method in attitudinal survey responses](students-favor-simulation-attitudinal-survey.md) — related
+- [All 13 individual teaching quality items favored the patient-in-classroom group, with effect sizes exceeding d = 1.0](patient-in-classroom-item-level-gains.md) — related
+- [Mannequin and combined simulation groups report higher interest than the computer simulation group, with no differences on other satisfaction items](simulation-mode-interest-satisfaction-item.md) — related
+- [Students trained via VR report significantly greater satisfaction than students trained on real patients or a mannequin](vr-training-greater-satisfaction-ecg-training.md) — related

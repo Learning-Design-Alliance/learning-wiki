@@ -50,3 +50,4 @@ Meta-analysis of influencing factors across the 16 included cross-sectional stud
 - [Nurses' pooled spiritual care competency score is 70.51 (95% CI: 70.23–70.79), indicating a medium level of ability](pooled-nurse-spiritual-care-competency-70-51.md) — related
 - [Nurses who received spiritual education courses scored higher in spiritual care ability, reported as the biggest influencing factor](spiritual-education-courses-biggest-factor.md) — a narrower finding that bears on this claim
 - [Nurses assessed in 2023 had the highest average spiritual care score, with 2019–2023 mean differences statistically significant](spiritual-care-scores-highest-2023-subgroup.md) — related
+- [Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences](profile-differences-career-stage-psychological-variables.md) — related

@@ -58,3 +58,4 @@ Quasi-experimental 2x2 factorial study in two Malaysian secondary schools: 40 ex
 - [Multimedia-based biology instruction produces higher biology achievement than teacher-centred instruction](mbio-higher-achievement-than-tcbio.md) — related
 - [A six-hats-based training program produces larger achievement gains in Islamic concepts than usual teaching among university students](six-hats-program-improves-islamic-concepts-achievement.md) — related
 - [First-year nursing students taught with virtual simulation and interactive multimedia scored higher on the theoretical exam than the traditionally taught group](virtual-multimedia-higher-theory-scores-nursing.md) — related
+- [Students taught with the eHistoLab virtual microscopy web application achieved significantly higher histology post-test scores than students taught by e-lecturing](ehistolab-higher-posttest-than-e-lecturing.md) — a narrower finding that bears on this claim

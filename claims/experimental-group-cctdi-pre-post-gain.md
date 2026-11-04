@@ -54,3 +54,4 @@ Paired samples t-test on the experimental group (n=22) in the quasi-experimental
 - [Experiment and control groups did not differ significantly on pre-test scores before the critical thinking treatment](pretest-equivalence-nursing-critical-thinking-groups.md) — related
 - [Descriptive means moved in opposite directions: the treatment group's critical thinking disposition mean rose while the control group's fell](ctd-means-opposite-directions.md) — related
 - [PBL and traditional teaching do not differ significantly in their effect on pre-service teachers’ critical thinking dispositions](pbl-no-difference-critical-thinking-disposition.md) — related
+- [The iHEC cohort showed higher post-rotation critical thinking disposition than the conventional cohort (Cohen's d = 0.75)](ihec-higher-critical-thinking.md) — related

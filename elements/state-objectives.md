@@ -13,7 +13,7 @@ generated:
 # State objectives
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies (4 review, 3 theoretical, 2 causal, 1 design), `q1`–`q3` · 0 of 10 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 11 studies (4 review, 3 theoretical, 2 causal, 1 qualitative, 1 design), `q1`–`q3` · 0 of 11 report an effect size · 3 claims rest on one study
 
 ## Description
 Stating objectives means explicitly communicating what learners should know or be able to do by the end of an instructional episode, before instruction begins. It functions as an advance signal of relevance and direction, orienting attention toward the features of the task that matter and setting a standard against which learners can monitor their own progress. Goal statements, though written for the teacher's own planning, are properly expressed from the learner's point of view: "learners will acquire the ability to construct a convincing argument" is a goal statement, while "the teacher will show students examples of logical arguments" is not, since it describes teacher action rather than what students will learn.
@@ -65,7 +65,7 @@ Stated objectives improve learning primarily by directing attention and supporti
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Explicitly communicated learning outcomes made clinical teachers more attentive to students' individual learning needs](../claims/famuplus-teacher-attentiveness-communication.md) [+W]
 
 ## The evidence by question
 

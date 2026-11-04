@@ -52,3 +52,4 @@ Qualitative design study: 12 clinical-year medical students in Years 4–6 compl
 - [Learners valued repeatable practice and recorded review in MedEasy while questioning missing actions and feedback criteria](learners-value-repeatable-practice-question-gaps.md) — related
 - [Students and staff co-designed evaluation criteria, and resultant challenges were explored through dialogue, interview, and thematic analysis](co-designed-evaluation-criteria-challenges-thematic-analysis.md) — related
 - [Language teachers in two workshops responded positively to the evaluation framework, leading to a four-category revision](teacher-workshops-validate-app-evaluation-framework.md) — related
+- [Student responses to the AI chatbot standardized patient experience were bimodal, with 65% agreeing it helped practice interview skills while 35% disagreed](ai-chatbot-sp-bimodal-acceptability.md) — related

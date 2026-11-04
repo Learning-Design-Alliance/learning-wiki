@@ -53,3 +53,4 @@ Baseline comparison of the 84 treatment and 75 control children in inner-city sc
 - Montessori- and traditionally-enrolled children in this sample were demographically matched on age, gender, fluid intelligence, and SES — related
 - [The two groups did not differ significantly in vocabulary knowledge before the intervention](pbl-vocabulary-groups-equivalent-pretest.md) — related
 - [The two intervention groups were equivalent at baseline except in practical reasoning, where group 1 scored higher](baseline-equivalence-except-practical-reasoning.md) — a narrower finding that bears on this claim
+- [At baseline, the intervention and control groups showed no statistically significant differences in demographics, evaluation location, or referral type, and comparable low pre-intervention Mini-CEX scores](serious-game-burn-trial-baseline-equivalence.md) — related

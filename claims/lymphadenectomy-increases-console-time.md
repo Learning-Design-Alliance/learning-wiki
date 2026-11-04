@@ -49,3 +49,4 @@ Multivariable linear mixed-effects analysis of the 151-patient prospective cohor
 - [Late-experience hip arthroscopy cases show significantly shorter traction time than early-experience cases](hip-arthroscopy-experience-shorter-traction-time.md) — related
 - [Surgeon experience in hip arthroscopy is associated with significantly shorter operative time in late versus early experience phases](hip-arthroscopy-experience-shorter-operative-time.md) — related
 - [Surgeons achieved proficiency in Versius-assisted radical prostatectomy within 40 cases, with experienced surgeons reaching proficiency after 23 cases and novice surgeons after 37](versius-rp-proficiency-under-40-cases.md) — related
+- [Soft or normal pancreatic texture significantly increased the risk of conversion to open surgery, while larger pancreatic duct diameter reduced it](learnbot-conversion-risk-factors.md) — related

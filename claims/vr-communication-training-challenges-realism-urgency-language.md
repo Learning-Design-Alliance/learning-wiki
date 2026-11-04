@@ -55,3 +55,5 @@ The review's thematic synthesis of challenges across the included studies identi
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
 - [Students performed not as well and experienced higher levels of anxiety if the language of the virtual simulation was not in their native language](non-native-language-virtual-simulation-worse-performance-higher-anxiety.md) — related
 - [Technical limitations including delayed responses and transcription errors constrained AIVP realism and rapport-building](aivp-technical-limitations-constrained-realism.md) — related
+- [Students reported limitations of community care simulation in session timing, preparation, facilitator support, performance anxiety and limited participation](ccs-perceived-limitations-timing-preparation-anxiety.md) — related
+- [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](ccs-perceived-strengths-realism-reasoning-communication.md) — related

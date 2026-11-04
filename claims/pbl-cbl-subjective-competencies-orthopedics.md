@@ -111,3 +111,4 @@ Meta-analysis of 2 studies (162 students) on the critical thinking disposition i
 - [Most students report that the MDT-CDIO model enhances interdisciplinary collaboration and clinical reasoning skills](mdt-cdio-students-report-enhanced-collaboration-reasoning.md) — related
 - [PBL-CBL combined teaching improves post-class case analysis scores compared with traditional lecture-based teaching in gynecology residents](pbl-cbl-improves-case-analysis-scores-gynecology-residents.md) — related
 - [PBL-CBL teaching increases residents' learning interest, initiative, and critical thinking compared with traditional teaching](pbl-cbl-increases-interest-initiative-thinking.md) — related
+- [A CBCL session on spinal infection was feasible and well accepted in a Brazilian radiology residency program](cbcl-feasible-accepted-brazilian-radiology-residency.md) — related

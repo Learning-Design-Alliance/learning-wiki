@@ -52,3 +52,4 @@ Within-group pre–post comparisons using Wilcoxon Signed Ranks Test found stati
 - [Within the experimental group, pre-post gains were significant only for attitudes and uses, while the control group showed no significant change on any dimension](within-group-prepost-gains-experimental-only-attitudes-uses.md) — reports the opposite
 - [Measured climate science knowledge significantly decreased pre- to post-intervention in all three groups, including controls](climate-knowledge-decreased-all-groups.md) — reports the opposite
 - [Both traditional and MIT-based Technology instruction produce statistically significant pre-to-post gains in emotional and knowledge scores](both-methods-significant-pre-post-gains.md) — related
+- [Both e-lecturing and eHistoLab instruction significantly improved histology knowledge from pre-test to post-test](both-methods-improved-histology-knowledge.md) — a narrower finding that bears on this claim

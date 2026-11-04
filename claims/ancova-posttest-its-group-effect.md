@@ -90,3 +90,4 @@ Independent samples t-test of post-test scores in a pre/post-test controlled exp
 - [Pre-service teachers in PBL groups achieve significantly higher post-test scores than those in lecture-based computer course groups](pbl-higher-achievement-than-lbcc-pre-service-teachers.md) — related
 - [Web-assisted instruction with emotional intelligence content produced higher post-test academic achievement, environmental attitudes and emotional intelligence than traditional lecture in 8th-grade energy-saving instruction](web-assisted-ei-content-posttest-advantage.md) — related
 - [Paired sample t-test confirms significantly higher post-test scores for the experimental group](pbl-paired-t-test-significant.md) — related
+- [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related

@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 97 claims (42 for, 48 mixed, 7 against) · 106 studies (28 causal, 23 review, 18 theoretical, 16 quant-synthesis, 8 associational, 7 qualitative, 6 design), `q1`–`q4` · 14 of 106 report an effect size · 86 claims rest on one study
+> **Evidence** · 98 claims (42 for, 49 mixed, 7 against) · 107 studies (29 causal, 23 review, 18 theoretical, 16 quant-synthesis, 8 associational, 7 qualitative, 6 design), `q1`–`q4` · 14 of 107 report an effect size · 87 claims rest on one study
 
 ## Conditional relationship
 
@@ -214,6 +214,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [The mere presence of computers in schools is insufficient to improve mathematics grades without adequate utilisation](../claims/computer-presence-insufficient-without-utilisation.md) [~W]
 - [Textbook-based learning with teacher-assisted consolidation (TAL) produced significantly higher immediate post-test knowledge scores than computer-aided learning with teacher-assisted consolidation (CALT).](../claims/tal-higher-immediate-post-test-than-calt.md) [-W]
 - [Material resources in schools are a necessary but non-sufficient condition for effective ICT integration; an active and dynamic methodological approach must also be implemented.](../claims/escuela2-material-resources-insufficient.md) [+W]
+- [Online FMA-LE training is limited by unverifiable engagement and unequal lecture-review access, and results do not generalize beyond video-based scoring](../claims/online-fma-training-limitations-video-only.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible
@@ -235,6 +236,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Quantum Randi Challenge: a modifiable computer game teaching quantum mechanics](../products/quantum-randi-challenge-qrc.md)
 - [Use freely available gravitational-wave education tools and resources, including Black Hole Hunter and Einstein's Messengers](../strategies/grav-wave-education-tools-for-educators.md)
 - [Provide teachers with training periods on how, when, and where to use language-learning technologies](../strategies/teacher-training-periods-for-language-technology.md)
+- [Beijing Oubeier adaptive nursing virtual simulation platform (Version 3.2)](../products/beijing-oubeier-adaptive-nursing-virtual-simulation-platform-version-32.md)
 
 ### Illustrative
 

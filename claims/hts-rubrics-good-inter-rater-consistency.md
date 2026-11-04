@@ -71,3 +71,4 @@ Analysis of pilot rubric scores from three expert world history teachers who sco
 - [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](pt-osce-icc-assessors-substantial.md) — related
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
 - [Posttest scoring by three judges showed high inter-judge reliability across all four poster dimensions](posttest-judge-reliability-kendall-w.md) — related
+- [The SP chicken anastomosis metrics achieved high inter-rater reliability (IRR 0.96) between two blinded trained reviewers](sp-anastomosis-metrics-inter-rater-reliability.md) — a narrower finding that bears on this claim

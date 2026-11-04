@@ -70,3 +70,4 @@ Same mixed ANOVA on the two near transfer items: posttest (M = 1.85) significant
 - [Studying instructional and video modeling examples improved heredity problem-solving performance and self-assessment accuracy from pretest to posttest](video-modeling-pretest-posttest-gains.md) — related
 - [Observing a male model enhances perceived competence more from pretest to posttest than observing a female model, for both male and female observers](male-model-boosts-perceived-competence.md) — related
 - [Alternating observation and performance in dyads yielded better transfer than individual practice or a control condition in a video-game task](dyad-observation-performance-alternation-transfer.md) — related
+- [QR-code-linked demonstration videos significantly improve OSPE performance in pharmacology students](qr-code-linked-videos-improve-ospe-performance.md) — related

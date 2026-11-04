@@ -51,3 +51,4 @@ Content analysis of semi-structured interviews with the 18 experimental-group st
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Formative focus groups found 5th graders most liked choosing story locations, and nearly all felt they learned from the app](cityhacks-formative-focus-groups.md) — related
 - [Students reported learning to construct arguments and design experiments during the activities](students-learned-arguments-experiment-design.md) — related
+- [Students’ emotional experience of SGLM was mixed: most found it enjoyable while about half reported initial stress and tension](sglm-mixed-enjoyment-and-stress.md) — related

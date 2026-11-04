@@ -52,3 +52,4 @@ One-way repeated-measures ANOVA on the experimental group's (n = 13) pretest, po
 - [Keyword strategy instruction significantly improves science concept scores of middle school students with SLD compared to control instruction](keyword-strategy-improves-science-concepts-sld.md) — related
 - [Students with SLD taught with the keyword strategy reach science concept performance similar to typically developing peers](keyword-strategy-sld-peer-level-performance.md) — related
 - [Within the experimental group, self-efficacy rose significantly from pretest to posttest and follow-up, with no significant drop from posttest to follow-up](experimental-group-within-group-self-efficacy-gain.md) — related
+- [Cohort 2022 showed significant gains from pre-test (4.3 ± 1.6) to post-test (7.6 ± 2.2) with retention at post-post-test (6.3 ± 2.4), and an 11.7% numerical decrease after the post-test that was not statistically significant](xr-cbl-cohort-2022-gains-retention.md) — related

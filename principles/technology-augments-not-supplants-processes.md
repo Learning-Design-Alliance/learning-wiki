@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 168 claims (105 for, 51 mixed, 12 against) · 136 studies (30 review, 30 theoretical, 28 qualitative, 23 causal, 14 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 136 report an effect size · 164 claims rest on one study
+> **Evidence** · 169 claims (106 for, 51 mixed, 12 against) · 137 studies (30 review, 30 theoretical, 29 qualitative, 23 causal, 14 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 137 report an effect size · 165 claims rest on one study
 
 ## Conditional relationship
 
@@ -263,6 +263,7 @@ Claims this page cited that the model above does not use. Each keeps its old mar
 - [Students overwhelmingly favored a hybrid approach combining VDTs with cadaveric dissection over full replacement](../claims/students-favor-hybrid-vdt-cadaver-approach.md) [+W] — attached 2026-10-31 from Telecan Teodora et al. (2025), which proposed "Use virtual dissection tables as a complement to, not a substitute for, cadaveric dissection within a multimodal curriculum"; tests this page's relationship.
 - [A minority of students stated they needed lecturer support alongside the RLOs](../claims/minority-students-needed-lecturer-support-alongside-rlos.md) [+W] — attached 2026-11-01 from Bath-Hextall Fiona et al. (2011), which proposed "Use RLOs as a supplement to, not a replacement for, other delivery approaches such as lectures".
 - [AI-supported module used mainly as a reflective comparison tool rather than an answer provider](../claims/ai-module-reflective-scaffold-use.md) [+W] — attached 2026-11-04 from İnan Onur; Akyüz Ali (2026), which proposed "Position AI feedback as a supervised cognitive scaffold, not an authority"; tests this page's relationship.
+- [Students perceived benefits for review and recall with HoloLens, but not as a stand-alone learning solution](../claims/hololens-review-recall-supplementary.md) [+W] — attached 2026-11-04 from Lin Joseph et al. (2026), which proposed "Use mixed-reality anatomy tools as a supplement within a multimodal curriculum rather than as a replacement".
 
 ## Objective and learner-valued goal
 

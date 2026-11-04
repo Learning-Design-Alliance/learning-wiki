@@ -57,3 +57,4 @@ Pairwise correlations of raw data at each of the 21 measurement points (Fig. 10)
 - [Mental effort is more suitably modeled as a non-linear than linear predictor of learning outcomes in most re-analyzed studies](mental-effort-nonlinear-predictor-reanalyses.md) — related
 - [The model's assumed negative correlation between cognitive load and learner resources was not supported; the overall correlation was positive](load-resources-negative-correlation-not-supported.md) — related
 - [Group membership showed weak negative Pearson correlations with knowledge score and perceived interest](weak-negative-correlations-group-membership.md) — related
+- [Perceived visualisation, understanding and self-assessment ratings of 3D IMs were strongly positively inter-correlated, while preference for physical models correlated weakly negatively](spearman-correlations-3d-im-likert-items.md) — related

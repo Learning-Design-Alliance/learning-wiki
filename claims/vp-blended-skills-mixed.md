@@ -87,3 +87,4 @@ Random-effects meta-analysis of blended-learning skills outcomes. The pooled "SM
 - [Team-based learning shows no significant difference in multiple-choice question scores compared to traditional teaching](team-based-learning-no-significant-difference-mcq-scores.md) — related
 - [Virtual simulations are less effective than mannequins or real persons for procedural skills among nursing participants](vs-less-effective-procedural-skills-nursing.md) — related
 - [Virtual simulations and mannequins or real persons show no significant difference in improving knowledge in medical and nursing education](vs-mannequin-rp-no-difference-knowledge.md) — related
+- [Patient-in-classroom teaching was rated higher in overall teaching quality than traditional lectures, with a large effect size](patient-in-classroom-higher-teaching-quality.md) — related

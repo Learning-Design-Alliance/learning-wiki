@@ -48,3 +48,4 @@ Postinteraction survey ratings from SOPHIE arm participants on system features. 
 - [Participants rated SOPHIE 2.0 as engaging, easy to use, and clinically relevant in a self-service format](sophie2-high-perceived-usability-and-value.md) — related
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](expert-evaluation-realism-and-feedback-awareness.md) — related
 - [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
+- [Students valued VSP convenience but rated realism and feedback value below human standardized patients](vsp-student-feedback-convenience-high-realism-low.md) — related

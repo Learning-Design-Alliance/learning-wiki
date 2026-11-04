@@ -51,3 +51,5 @@ Mixed quantitative–qualitative expert review with seven experts in teacher edu
 - [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related
 - [The final indicator system shows good reliability (ICC = 0.86) and content validity (S-CVI = 0.92; I-CVI 0.85–1.00)](icc-and-cvi-reliability-validity-tb-educator-indicator-system.md) — related
 - [Content validity of the HLC-N exceeds recommended thresholds (I-CVI 0.813–1.00; S-CVI/Ave 0.952)](hlc-n-content-validity-cvi.md) — related
+- [The single low-rated item, scenario content facilitating critical thinking, was revised per reviewer suggestions and reached CVI and MKC of 1.00 in round two](critical-thinking-item-revised-to-full-agreement.md) — related
+- [A simulated scenario for pediatric EVD management built with RCDP achieved excellent content validity from seven expert reviewers across two assessment rounds](rcdp-evd-scenario-content-validity.md) — related

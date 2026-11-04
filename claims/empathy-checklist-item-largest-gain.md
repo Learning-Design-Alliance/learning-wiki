@@ -74,3 +74,5 @@ Further item-level comparisons in the same exam-phase analysis showed the medica
 - [Some VSP history-taking behaviors correlated with clinical reasoning metrics](vsp-behaviors-correlate-clinical-reasoning.md) — related
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
 - [AI-VPs delivering immediate, targeted feedback improve empathic communication in subsequent human-based interviews](ai-vp-feedback-improves-empathic-communication.md) — related
+- [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — related
+- [LLM-VSP self-practice improves medical history-taking performance in matched comparison (Cohen d=0.52)](llm-vsp-improves-history-taking-matched.md) — related

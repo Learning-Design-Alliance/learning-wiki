@@ -78,3 +78,4 @@ The article's abstract reports the psychometric outcome across the validation sa
 - [The seven holistic leadership factors demonstrated high internal consistency across pre- and post-test administrations.](holistic-leadership-factors-high-reliability.md) — related
 - [DLISt7 demonstrated excellent internal reliability, with a slightly higher alpha coefficient obtained in the main study using a larger sample](dlist7-internal-reliability-excellent-alpha.md) — related
 - [The 9-item questionnaire showed very high internal consistency (Cronbach's Alpha 0.97)](videogame-questionnaire-cronbach-alpha-097.md) — related
+- [The three measurement instruments show acceptable reliability and validity in this sample](measurement-model-cfa-reliability-validity.md) — related

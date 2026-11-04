@@ -47,6 +47,7 @@ This implementable strategy holds that educators can introduce GenAI by weaving 
 - [Embed AI as a learning partner and redesign assessments for AI-rich contexts](ai-learning-partner-assessment-redesign-strategies.md)
 - [Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy](genai-steam-integration-strategies.md)
 - [Incorporate collaborative learning activities within AI literacy teaching, attending to activity modality and integration with other activities and assessments](incorporate-cl-in-ai-literacy-teaching.md)
+- [Use intentional, scenario‐based curriculum design with AI literacy embedded across subjects](scenario-based-ai-literacy-curriculum-design.md)
 
 ## Examples
 -

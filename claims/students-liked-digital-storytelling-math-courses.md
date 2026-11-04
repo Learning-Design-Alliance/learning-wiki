@@ -53,3 +53,4 @@ Written opinion forms from the 30 experimental-group students after the applicat
 - [Most experimental-group students wanted similar WhatsApp applications used in their other courses](students-want-whatsapp-in-other-courses.md) — related
 - [Most intervention participants responded favorably to the citizen science project, with being outdoors in nature the most-cited enjoyment](qualitative-favorable-citizen-science-responses.md) — related
 - [Most students wanted argumentation-based activities continued, mainly in science lessons](students-want-argumentation-activities-continued-science.md) — related
+- [Most students were satisfied with the SGLM process and wanted it continued, but three reported dissatisfaction tied to time pressure and material difficulties](sglm-satisfaction-continuation-mixed.md) — related

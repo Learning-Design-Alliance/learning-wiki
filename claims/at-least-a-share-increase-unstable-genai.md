@@ -49,3 +49,4 @@ Grade-distribution DiD on the at-least-A threshold indicator. The authors state 
 - [GenAI availability produced no significant differential effect on final grades in more GenAI-susceptible courses relative to less susceptible ones](genai-availability-no-significant-grade-effect-susceptible-courses.md) — related
 - [Positive average grade effects appear only under COVID-laden treatment anchors, indicating such readings reflect the COVID shock rather than ChatGPT](covid-laden-anchors-produce-spurious-positive-grade-effect.md) — related
 - [Effects of GenAI availability on self-reported understanding are insignificant; effects on interest are significant only under the transient-COVID assumption](genai-satisfaction-understanding-null-interest-assumption-dependent.md) — related
+- [Grade-8 adopter effects are weaker and not robust to violations of parallel trends, warranting caution](grade8-adopter-effects-not-robust.md) — related

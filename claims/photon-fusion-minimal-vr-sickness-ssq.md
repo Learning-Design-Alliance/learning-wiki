@@ -57,3 +57,4 @@ SSQ administered after the lab session; Table I reports nausea 3.18 (SD 4.77), o
 - [Adverse effects of IVR simulation in nursing education are generally mild visual and vestibular symptoms](ivr-adverse-effects-mild-visual-vestibular.md) — related
 - [Reviews of eduXR experiences reveal human interface issues, motion sickness, and problems with interaction affordances](eduxr-reviews-reveal-interface-motion-sickness-affordances.md) — related
 - [VR use in anatomy learning can cause adverse effects and disorientation for some learners](vr-anatomy-adverse-effects-cybersickness.md) — related
+- [VR participants report more technical issues and cybersickness symptoms than slideshow participants](vr-technical-issues-cybersickness.md) — related

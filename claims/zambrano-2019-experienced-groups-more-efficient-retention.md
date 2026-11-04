@@ -52,3 +52,4 @@ Delayed retention phase of the factorial experiment; efficiency combined standar
 - [Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect](collective-working-memory-effect-task-complexity.md) — related
 - [Low information density improves individual test performance in the short-term retention test, but the benefit fades by the delayed test](zambrano-2019-low-density-benefit-shortlived.md) — related
 - [Collaborative learning is more efficient than individual learning for high-load tasks, but less efficient for low-load tasks](collective-working-memory-effect-complexity-dependent.md) — related
+- [Prior angiography experience, not instructional format, showed the most consistent association with objective performance](experience-most-consistent-performance-predictor.md) — a narrower finding that bears on this claim

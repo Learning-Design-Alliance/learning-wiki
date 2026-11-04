@@ -88,3 +88,5 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [Over the course, students proposed more comprehensive and practical solutions to increasingly complex scenarios, as rated by four examiners](scenario-solutions-improved-over-time.md) — related
 - [AI scores demonstrated high consistency with expert ratings (ICC = 0.893)](ai-scoring-high-consistency-expert-ratings-icc-0893.md) — related
 - [Inter-rater reliability of the drawing assessments was high, with an average-measures ICC of 0.988 for the total score](high-inter-rater-reliability-drawing-assessments.md) — related
+- [LLM-generated total scores showed moderate agreement with faculty ratings of VSP history-taking performance (ICC(2,1)=0.51)](llm-vsp-scoring-moderate-agreement-faculty.md) — related
+- [The SP chicken anastomosis metrics achieved high inter-rater reliability (IRR 0.96) between two blinded trained reviewers](sp-anastomosis-metrics-inter-rater-reliability.md) — a narrower finding that bears on this claim

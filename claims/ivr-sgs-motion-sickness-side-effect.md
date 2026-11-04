@@ -53,3 +53,4 @@ The review reports that only one eligible study (Smith & Ericson, 2009) used a q
 - [Reviews of eduXR experiences reveal human interface issues, motion sickness, and problems with interaction affordances](eduxr-reviews-reveal-interface-motion-sickness-affordances.md) — a broader claim this one bears on
 - [VR use in anatomy learning can cause adverse effects and disorientation for some learners](vr-anatomy-adverse-effects-cybersickness.md) — a narrower finding that bears on this claim
 - [SVVR training is well tolerated, with only mild discomfort and no discontinuation due to adverse effects](svvr-training-well-tolerated-mild-discomfort.md) — related
+- [VR participants report more technical issues and cybersickness symptoms than slideshow participants](vr-technical-issues-cybersickness.md) — related

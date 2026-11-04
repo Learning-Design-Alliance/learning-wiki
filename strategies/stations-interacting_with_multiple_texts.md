@@ -60,9 +60,11 @@ Stations exploit the benefits of multiple, contrasting representations: encounte
 6. Close with an individual synthesis task (short write, claim-evidence paragraph) to consolidate learning.
 
 ## Related Strategies
+
 - [Jigsaw](../strategies/jigsaw.md) — the expert-group inversion of the same rotation structure
 - [Gallery Walk](../strategies/gallery-walk.md) — stations in reverse: learners produce artifacts, then rotate to view and critique peers' work
 - [Case Studies](../elements/case-studies.md) — a single deep source instead of many brief ones; stations trade depth for breadth of perspective
+- [Interdisciplinary scenario stations combining 3D models, CT-A interpretation, and expert-led clinical discussion](interdisciplinary-ica-scenario-stations.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the text resources that populate stations

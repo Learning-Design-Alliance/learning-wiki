@@ -18,7 +18,7 @@ sources:
 # Goal Setting
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (1 review, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 Goal setting is the element in which learners or instructors establish clear targets for performance, progress, or improvement. It is useful when visible goals help focus effort, strategy choice, and persistence.
@@ -42,6 +42,8 @@ Goal setting is the element in which learners or instructors establish clear tar
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+W]
+- [Defining self-created learning outcomes during clinical electives improved students' reported focus, motivation, and sense of self-efficacy](../claims/famuplus-improved-focus-motivation-self-efficacy.md) [+W] — attached 2026-11-04 from Punz A et al. (2026), which proposed "FamuPlus: a four-step pilot program supporting self-created learning outcomes in clinical electives"; tests this page's relationship.
+- [Students found it challenging to formulate measurable, realistic learning outcomes, especially for affective goals such as empathy](../claims/famuplus-measurable-outcomes-challenge-affective.md) [~W] — attached 2026-11-04 from Punz A et al. (2026), which proposed "FamuPlus: a four-step pilot program supporting self-created learning outcomes in clinical electives".
 
 ## Related Elements
 - [Learning Outcomes](learning-outcomes.md)

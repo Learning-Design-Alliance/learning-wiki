@@ -58,3 +58,4 @@ Qualitative case studies of courses at 10 institutions that used adaptive course
 - [Little is known about learning activity types used by educators during remote instruction](little-known-remote-instruction-activity-types.md) — a broader claim this one bears on
 - [STEM faculty implemented the five inquiry phases online during COVID-19 emergency remote teaching](faculty-implemented-inquiry-phases-online-covid.md) — related
 - [The COVID-19 shift to online learning in higher education caused panic and discomfort because many instructors lacked skills, resources, and didactic aptitude](pandemic-remote-shift-instructor-unpreparedness.md) — related
+- [Students valued HoloLens for shared, instructor-guided collaborative learning, especially synchronized faculty pointing at structures](hololens-shared-instructor-guided-learning.md) — related

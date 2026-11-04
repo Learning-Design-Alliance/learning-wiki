@@ -47,6 +47,7 @@ The article adopts Anderson and Krathwohl's (2001) Revised Bloom's Taxonomy, in 
 - [Six-phase assignment process mapped to BRT cognitive steps](../designs/brt-six-phase-assignment-process.md)
 - [Bloom-level mapping of exercise difficulty levels in AI exercise generation](../designs/bloom-mapped-exercise-difficulty-generation.md)
 - [Use Bloom's taxonomy to convert lower-order questions into higher-order questions in faculty training](../strategies/blooms-taxonomy-question-conversion-training.md)
+- [Use a low-threshold online training plus a SMART template to prepare students for self-created learning outcomes](../strategies/famuplus-online-training-smart-template-strategy.md)
 
 ## Key Sources
 - Sankaranarayanan Paleeri. (2014). Setting Objectives of Value Education in Constructivist Approach in the Light of Revised Blooms Taxonomy (RBT). i-manager's Journal of School Educational Technology. https://www.imanagerpublications.com

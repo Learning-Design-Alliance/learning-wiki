@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 131 claims (78 for, 48 mixed, 5 against) · 99 studies (41 associational, 30 causal, 21 review, 4 quant-synthesis, 2 design, 1 theoretical), `q1`–`q3` · 24 of 99 report an effect size · 129 claims rest on one study
+> **Evidence** · 132 claims (78 for, 49 mixed, 5 against) · 100 studies (42 associational, 30 causal, 21 review, 4 quant-synthesis, 2 design, 1 theoretical), `q1`–`q3` · 25 of 100 report an effect size · 130 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -178,6 +178,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Assimilating and Diverging learners report significantly higher self-efficacy toward learning in mobile Facebook than Converging and Accommodating learners](../claims/assimilating-diverging-higher-self-efficacy-mobile-facebook.md) [~W]
 - [Tertiary First Step improves parenting efficacy but not parental distress within the intervention group](../claims/tertiary-first-step-parenting-outcomes-mixed.md) [+W]
 - [Students' confidence in explaining and making space management decisions increased after the module.](../claims/space-management-confidence-gains-dental.md) [+W]
+- [Total 21st-century skills correlate moderately with teacher self-efficacy (r = 0.49) and attitudes toward teaching (r = 0.35) among preservice teachers](../claims/21c-skills-correlations-self-efficacy-attitudes.md) [~W]
 
 ## The evidence by question
 

@@ -71,3 +71,5 @@ Trait anxiety (STAI Y-2) was compared between groups with a 2 × 3 ANOVA in the 
 - [Math anxiety is not significantly correlated with trait anxiety in young children](math-anxiety-uncorrelated-trait-anxiety-children.md) — related
 - [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related
 - [Production paradigms elicit higher state math anxiety than decision paradigms, particularly for individuals with high trait math anxiety](production-paradigms-higher-state-math-anxiety.md) — related
+- [Trait anxiety in the sample was elevated (mean 49.03 ± 12.05; 22.8% classified as high)](elevated-trait-anxiety-first-year-cohort.md) — related
+- [State anxiety on simulation days was moderate for most students (mean 48.93 ± 10.75; 63.6% in the moderate range)](moderate-state-anxiety-simulation-days.md) — related

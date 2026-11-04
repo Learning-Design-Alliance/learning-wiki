@@ -42,7 +42,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 71 claims (34 for, 34 mixed, 3 against) · 66 studies (16 causal, 13 review, 12 associational, 9 theoretical, 6 qualitative, 6 design, 4 quant-synthesis), `q1`–`q4` · 9 of 66 report an effect size · 63 claims rest on one study
+> **Evidence** · 73 claims (36 for, 34 mixed, 3 against) · 67 studies (17 causal, 13 review, 12 associational, 9 theoretical, 6 qualitative, 6 design, 4 quant-synthesis), `q1`–`q4` · 9 of 67 report an effect size · 65 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,8 @@ Read against the model on 2026-10-19. Of the eighteen claims that had gathered h
 - [Teacher style (autonomy supportive vs. controlling) has no effect on rote learning achievement](../claims/teacher-style-no-effect-rote-learning.md) [~M] — attached 2026-11-03 from Hofferber et al. (2014), which proposed "Use autonomy supportive teacher behaviors to facilitate deep and effective student learning"; tests this page's relationship.
 - [Students whose vote did not select the winning topic report the same intrinsic motivation as students whose choice was received](../claims/non-received-choice-no-motivation-deficit.md) [~W] — attached 2026-11-03 from Meyer et al. (2013), which proposed "Implement classroom topic choice through a transparent majority vote with caring teacher support"; tests this page's relationship.
 - [Students given topic choice via majority vote report higher intrinsic motivation than students assigned a topic without choice](../claims/majority-vote-choice-raises-intrinsic-motivation-biology.md) [+M] — attached 2026-11-03 from Meyer et al. (2013), which proposed "Implement classroom topic choice through a transparent majority vote with caring teacher support"; tests this page's relationship.
+- [Autonomy-supportive supervision benefits are strengthened, not diminished, by clear direction](../claims/autonomy-support-and-structure-complementary.md) [+W] — attached 2026-11-04 from Neufeld A (2026), which proposed "Distinguish necessary clinical direction from psychologically controlling pressure"; tests this page's relationship.
+- [High control predicts need frustration even when autonomy support is also present](../claims/high-control-predicts-need-frustration-despite-autonomy-support.md) [+W] — attached 2026-11-04 from Neufeld A (2026), which proposed "Distinguish necessary clinical direction from psychologically controlling pressure"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

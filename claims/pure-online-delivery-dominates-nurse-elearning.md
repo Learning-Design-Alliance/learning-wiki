@@ -47,3 +47,4 @@ Delivery-mode classification of the included studies using the Ngenzi et al. thr
 ## Related Claims
 - [In the narrative synthesis, blended and purely online conditions within a single study generally produced similar learning outcomes, and media elements such as video or online quizzes did not appear to influence learning.](narrative-synthesis-variants-of-online-learning.md) — related
 - [Of 13 online learning practice variables examined, only use of a blended approach and expanded time on task significantly influenced effectiveness; the other 11 did not.](eleven-of-thirteen-practice-variables-nonsignificant.md) — related
+- [Most nurses are willing to attend frailty training and prefer blended online-offline formats, short sessions, and practice-oriented content](nurses-frailty-training-preferences.md) — related

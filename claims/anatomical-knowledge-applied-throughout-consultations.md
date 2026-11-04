@@ -47,3 +47,4 @@ The review reports this from one qualitative stimulated-recall study of 10 inter
 
 ## Related Claims
 - [Training programmes improved healthcare practitioners' communication with patients with PPS relative to control groups](pps-training-improves-hcp-communication.md) — related
+- [Students reported that early exposure to surface anatomy, palpation, and systematic physical examination enhanced their confidence and competence with real patients](early-surface-anatomy-exposure-confidence.md) — related

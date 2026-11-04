@@ -49,6 +49,8 @@ The review recommends that scenario development allow active participation acros
 
 - [Use the observer role alongside active participation as a resource-efficient strategy to expand access to simulation-based education](observer-role-scaling-sbe-access-strategy.md)
 - [Active and interactive training methods to activate the subject position](active-interactive-methods-activate-subject-position.md)
+- [Use reflective learning, lived-experience sharing, and active participation in aesthetics-based nursing education](reflective-lived-experience-aesthetics-education-strategy.md)
+- [Implement centralised scheduling, shared mapped scenario repositories, and inclusive access supports for virtual simulation IPE](virtual-simulation-ipe-implementation-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ The review attributes this gender difference to Huang et al. (2022), a survey-ba
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — a broader claim this one bears on
 - [Female participants reported significantly higher maths anxiety and general anxiety, while males reported higher maths self-efficacy and maths interest](sex-differences-maths-anxiety-motivation-means.md) — related
 - [Student voices on GenAI and academic integrity are diverse, shaped by gender, academic level, discipline, psychological factors, and cultural context, though gender findings are inconsistent](diversity-student-voices-genai-integrity.md) — related
+- [Male interns report significantly higher self-perceived clinical confidence than females, while theoretical knowledge does not differ significantly by gender](gender-confidence-knowledge-difference-veneers.md) — related

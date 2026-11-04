@@ -50,3 +50,4 @@ Narrative synthesis of performance moderators across 19 examination studies in t
 - [GPT-4 achieves passing accuracy on USMLE Steps 1–3 (mean 86%), significantly exceeding GPT-3.5 (mean 56%)](gpt4-usme-passing-accuracy-exceeds-gpt35.md) — related
 - [LLMs, particularly GPT-4, can match or exceed medical students' examination performance](llms-match-or-exceed-medical-students-exam-performance.md) — related
 - [In the combined review analysis, ChatGPT-3.5 failed eight of nine UK postgraduate exams while ChatGPT-4 passed nine of eleven](chatgpt-4-passed-nine-of-eleven-postgraduate-exams.md) — related
+- [Item-level performance reveals specific weaknesses in radiology interpretation and specialized clinical topics](item-level-weaknesses-radiology-clinical-topics-syria.md) — related

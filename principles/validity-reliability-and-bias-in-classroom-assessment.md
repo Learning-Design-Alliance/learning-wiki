@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 377 claims (169 for, 182 mixed, 26 against) · 288 studies (92 associational, 62 design, 48 causal, 45 review, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 25 of 288 report an effect size · 370 claims rest on one study
+> **Evidence** · 382 claims (171 for, 183 mixed, 28 against) · 290 studies (93 associational, 63 design, 48 causal, 45 review, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 25 of 290 report an effect size · 375 claims rest on one study
 
 ## Conditional relationship
 
@@ -242,6 +242,9 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [No identified procedural skills assessment tool has established construct validity; only face and content validity are reported](../claims/no-construct-validity-procedural-assessment-tools.md) [+W] — attached 2026-11-01 from Morris Marie C. et al. (2012), which proposed "Develop standardised assessment tools with proven reliability and validity for end-point procedural skills certification".
 - [Reliability of identified procedural skills assessment tools is limited, with κ ranging from 0.65 to 0.93 and much missing entirely](../claims/limited-reliability-procedural-tools-kappa-range.md) [+W] — attached 2026-11-01 from Morris Marie C. et al. (2012), which proposed "Develop standardised assessment tools with proven reliability and validity for end-point procedural skills certification".
 - [Construct-level predictive validities (mean .450) are substantially higher than raw predictor-outcome correlations (mean .171) across 57 predictor-outcome pairs in medical student selection](../claims/clpv-substantially-higher-than-raw-poc.md) [+W] — attached 2026-11-01 from McManus IC et al. (2013), which proposed "Judge selection measures by construct-level predictive validity, not by correlations within the selected group"; tests this page's relationship.
+- [LLM-generated total scores showed moderate agreement with faculty ratings of VSP history-taking performance (ICC(2,1)=0.51)](../claims/llm-vsp-scoring-moderate-agreement-faculty.md) [+W] — attached 2026-11-04 from Gao Xiaoxing et al. (2026), which proposed "Use LLM-based VSP scoring for formative feedback and programmatic-assessment sampling, not for unsupervised high-stakes decisions"; tests this page's relationship.
+- [AI-faculty agreement was stronger for information gathering than for communication skills](../claims/llm-agreement-stronger-information-gathering-than-communication.md) [+W] — attached 2026-11-04 from Gao Xiaoxing et al. (2026), which proposed "Use LLM-based VSP scoring for formative feedback and programmatic-assessment sampling, not for unsupervised high-stakes decisions"; tests this page's relationship.
+- [Proportional bias: AI assigned relatively higher scores at the lower end of the performance distribution](../claims/proportional-bias-ai-higher-scores-lower-end.md) [-W] — attached 2026-11-04 from Gao Xiaoxing et al. (2026), which proposed "Use LLM-based VSP scoring for formative feedback and programmatic-assessment sampling, not for unsupervised high-stakes decisions"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -451,6 +454,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Inter-rater reliability of the drawing assessments was high, with an average-measures ICC of 0.988 for the total score](../claims/high-inter-rater-reliability-drawing-assessments.md) [+W]
 - [Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components](../claims/higher-concordance-binary-than-ternary-components.md) [~W]
 - [The 13-item attitude questionnaire demonstrated good internal consistency (Cronbach's α = 0.873) but was not formally validated as a psychometric instrument](../claims/rat-questionnaire-internal-consistency-alpha-0873.md) [~W]
+- [The indicator system's predictive validity — whether scores correlate with clinical performance and patient outcomes — remains unverified and requires future multi-center testing](../claims/indicator-system-predictive-validity-unverified.md) [~W]
+- [Rater variability accounted for 37% of residual variance in faculty total scores and 52% in communication scores](../claims/rater-variability-37-percent-residual-variance.md) [-W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

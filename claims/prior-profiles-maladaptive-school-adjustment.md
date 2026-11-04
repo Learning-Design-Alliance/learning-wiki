@@ -52,3 +52,4 @@ Narrative review of prior profile studies: the article reports, citing Malmberg 
 - [Students with SEN are more likely to belong to motivational profiles with maladaptive patterns](sen-students-more-likely-maladaptive-motivational-profiles.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [In Study 2 (N=210), the profile-achievement link held while controlling initial performance and using effort and grade as outcomes](study2-effort-grade-controlling-initial-performance.md) — a narrower finding that bears on this claim
+- [High control predicts need frustration even when autonomy support is also present](high-control-predicts-need-frustration-despite-autonomy-support.md) — related

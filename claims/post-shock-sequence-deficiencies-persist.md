@@ -48,3 +48,4 @@ Second-phase results for 39 students using modified instructions. The article re
 - [Modified, clearer AED verbal instructions significantly improve dental students' simulated performance and reduce time to shock delivery](modified-aed-verbal-instructions-improve-performance.md) — related
 - [Final-year dental students show insufficient competence in AED use under conventional voice prompts in a simulated cardiac arrest scenario](dental-students-insufficient-aed-competence-conventional-prompts.md) — related
 - [Prior training in basic life support or AED use does not guarantee correct AED performance](prior-training-does-not-guarantee-aed-competence.md) — related
+- [Testing a pediatric EVD simulation scenario with five nursing students needed no setup modifications, using three brief feedback pauses with repetition cycles of no more than five minutes](rcdp-scenario-testing-mastery-no-modifications.md) — related

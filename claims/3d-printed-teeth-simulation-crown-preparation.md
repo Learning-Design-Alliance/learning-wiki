@@ -50,3 +50,4 @@ The review reports, citing Tricio et al., "increased competence among students w
 - [3D visualisation training outperformed traditional teaching on exam outcomes and clinical practice assessment (Shao et al.)](shao-3d-imaging-outperformed-traditional.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](simulation-crossover-22-percent-increase-critically-unwell.md) — related
+- [The 2022 cohort rated 3D imaged models significantly more positively than the 2021 cohort for visualisation, understanding and self-assessment of tooth preparations](cohort-2022-rated-3d-ims-more-positively.md) — related

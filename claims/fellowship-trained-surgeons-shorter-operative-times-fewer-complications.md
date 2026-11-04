@@ -49,3 +49,4 @@ The review reports that "Fellowship-trained surgeons showed shorter operative ti
 - [Late-experience hip arthroscopy cases show significantly shorter traction time than early-experience cases](hip-arthroscopy-experience-shorter-traction-time.md) — related
 - [Overall complication rates do not differ significantly between late and early hip arthroscopy experience phases](hip-arthroscopy-complications-no-experience-difference.md) — related
 - [Surgeons' previous experience and participation in structured training programmes are associated with shorter robot-assisted learning curves](experience-and-training-programmes-shorten-learning-curves.md) — a broader claim this one bears on
+- [After completing the LEARNBOT training program, 40 previously RPD-inexperienced surgeons across 20 European centers performed 486 RPDs with outcomes comparable to established benchmarks](learnbot-feasibility-outcomes-486-rpd.md) — related

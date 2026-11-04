@@ -55,3 +55,4 @@ Conceptual argument: engagement is defined as the observable cognitive and socia
 - [Proposition 1: outcome-aligned ownership performances will predict later individual transfer beyond AI-assisted product quality alone](proposition-1-ownership-predicts-transfer.md) — related
 - [Essay quality was highest for AI-generated drafts and lowest with no AI, negatively correlated with ownership, suggesting an ownership-quality tradeoff.](ai-draft-quality-ownership-tradeoff.md) — related
 - [A meta-analysis of 69 studies reports generative AI improves academic performance with g = 0.7, but the article argues this likely reflects immediate task success rather than learning](genai-meta-analysis-g-0-7-performance-not-learning.md) — related
+- [Time-based CME credit allocation has three fundamental limitations: participation as proxy, weak alignment with clinical reasoning, and limited personalization](time-based-cme-three-limitations.md) — related

@@ -63,3 +63,4 @@ Synthesized finding from the meta-synthesis of 17 qualitative studies, drawing o
 - [Pair interaction reportedly reduces anxiety and increases confidence and motivation](pair-interaction-reduces-anxiety-increases-motivation.md) — related
 - [Students report that progressive simulation practice builds handover confidence by reducing anxiety](progressive-simulation-practice-builds-confidence.md) — a narrower finding that bears on this claim
 - [Repeated clinical exposure reduces fear and develops professional self-efficacy in nursing students managing delirium](repeated-exposure-builds-delirium-self-efficacy.md) — a narrower finding that bears on this claim
+- [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — possibly the same claim (merge candidate)

@@ -57,3 +57,4 @@ Mixed ANOVA on self-efficacy in the 2x2 experiment: significant observer-gender 
 - [Students across all genders perceive scientific citizenship positively](scientific-citizenship-positive-across-genders.md) — related
 - [Female students consistently reported higher distress while male students reported higher resilience, a pattern observed across multiple countries](gender-patterns-distress-resilience-university-students.md) — related
 - [Gender is associated with healthcare leaders' digital competence, with females' computer and patient monitoring system knowledge lower than males'](gender-associated-leaders-digital-competence.md) — related
+- [Male interns report significantly higher self-perceived clinical confidence than females, while theoretical knowledge does not differ significantly by gender](gender-confidence-knowledge-difference-veneers.md) — related

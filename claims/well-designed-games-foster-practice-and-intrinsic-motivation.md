@@ -89,3 +89,4 @@ Authors' interpretation in the section on games as a culture medium: intrinsic i
 - [The competitive Game Show increased students' tutoring engagement relative to baseline](game-show-increases-tutoring-engagement.md) — related
 - [The simulation game group felt significantly less competent than the no-game group, with no significant differences in interest or effort](simulation-game-lowers-competence-no-interest-effort-effect.md) — a narrower finding that bears on this claim
 - [Students were significantly more engaged in Year 3 when working on game-based homework and labwork, compared to students in Year 1, whose coursework was not game based.](students-significantly-more-engaged-game-based-homework-labwork.md) — a narrower finding that bears on this claim
+- [High control predicts need frustration even when autonomy support is also present](high-control-predicts-need-frustration-despite-autonomy-support.md) — related

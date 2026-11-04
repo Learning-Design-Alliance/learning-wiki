@@ -50,6 +50,7 @@ The article recommends that instructors use short quizzes at the beginning of fa
 - [Iteratively improve pre-session homework by adding explanations of thesaurus structure and revising assessments based on demonstrated student difficulties](iterative-improvement-pre-session-materials.md)
 - [Design flipped-classroom videos with sound-image synchronization, short durations, full-body instructor visibility, and opportunities for immediate questions](flipped-video-design-recommendations.md)
 - [Use quizzes or assignments due at the beginning of class to ensure students review materials and come prepared.](beginning-of-class-quizzes-assignments-preparation.md)
+- [Use pre-session readiness materials and MCQ self-assessment to shift content acquisition out of class time](cbcl-pre-session-readiness-strategy.md)
 
 ## Examples
 -

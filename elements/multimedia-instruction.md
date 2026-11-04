@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 96 claims (60 for, 33 mixed, 3 against) · 80 studies (58 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 17 of 80 report an effect size · 91 claims rest on one study
+> **Evidence** · 99 claims (60 for, 36 mixed, 3 against) · 81 studies (59 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 17 of 81 report an effect size · 94 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -132,6 +132,9 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Instructional media teaching produced significantly higher lexis formation achievement than conventional teaching among teacher training students](../claims/instructional-media-higher-lexis-formation-achievement.md) [+W]
 - [Instructional media teaching produced significantly higher comprehension achievement than conventional teaching among teacher training students](../claims/instructional-media-higher-comprehension-achievement.md) [+W]
 - [Both SVVR and noninteractive video groups improve attitudes toward delirium care with no significant between-group difference](../claims/attitudes-improve-both-groups-no-group-difference.md) [+W]
+- [No significant differences between video and presentation formats were found for the Simmons 2 and Headhunter catheters overall, or among experienced participants](../claims/no-format-difference-simmons-headhunter-experienced.md) [~W]
+- [Participants rated video-based instruction as significantly more helpful than presentation-based instruction](../claims/video-rated-more-helpful-than-presentation.md) [~W]
+- [Presentation-based instruction produced significantly lower median fluoroscopy time than video-based instruction for the Vertebralis catheter task](../claims/presentation-group-less-fluoroscopy-time-vertebralis.md) [~W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

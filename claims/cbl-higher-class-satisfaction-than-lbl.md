@@ -55,3 +55,4 @@ Meta-analysis of three of nine questionnaire-survey studies (1,181 students eval
 - [Students reported positive evaluations of CBL, citing aroused learning interest, enhanced self-study, improved communication and cooperation, and improved problem-solving](cbl-positive-student-evaluations-psychology.md) — related
 - [Students reported that case-based learning increased interest in the course and awareness of the teaching profession](cbl-affective-impact-student-opinions.md) — related
 - [PBL-CBL teaching increases resident satisfaction compared with traditional lecture-based teaching](pbl-cbl-increases-resident-satisfaction.md) — related
+- [IWCL+CBL students report higher satisfaction with the teaching model than LBL+CBL students](iwcl-cbl-higher-teaching-satisfaction.md) — related

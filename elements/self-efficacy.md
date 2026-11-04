@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 114 claims (65 for, 41 mixed, 8 against) · 100 studies (38 associational, 33 causal, 16 review, 8 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 31 of 100 report an effect size · 109 claims rest on one study
+> **Evidence** · 116 claims (66 for, 41 mixed, 9 against) · 102 studies (38 associational, 35 causal, 16 review, 8 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 31 of 102 report an effect size · 111 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -162,6 +162,8 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [A parent-focused transition program increases parental self-efficacy to manage the transition to primary school](../claims/parent-transition-program-increases-transition-self-efficacy.md) [+W]
 - [Tertiary First Step improves parenting efficacy but not parental distress within the intervention group](../claims/tertiary-first-step-parenting-outcomes-mixed.md) [+W]
 - [Motivation and self-efficacy showed no impact on source-based essay scores in preliminary analyses](../claims/motivation-self-efficacy-no-impact-source-based-essays.md) [-W]
+- [Within-group gains over time occurred in both groups for academic performance, but only the embodied learning group showed significant within-group gains in attitudes and self-efficacy.](../claims/el-within-group-gains-three-outcomes.md) [+W]
+- [Early social media adoption is associated with higher grade repetition, lower likelihood of an excellent grade-8 mark, and lower academic self-efficacy, but not with upper-secondary track choice](../claims/early-social-media-secondary-academic-outcomes.md) [-W]
 
 ## The evidence by question
 

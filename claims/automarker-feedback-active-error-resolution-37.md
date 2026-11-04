@@ -47,3 +47,4 @@ Self-reflection survey questions gauging know-why asked whether test-case feedba
 ## Related Claims
 - [Students reported that automarker clues and comments were extremely helpful for completing their programming assignments](automarker-clues-extremely-helpful-30-responses.md) — related
 - [Students surveyed in a DSA course perceived the automarker as a formative instructional strategy that supported experiential learning of programming](automarker-survey-favourable-formative-perceptions.md) — related
+- [Engagement with the feedback process was limited: 39.0% of students declined to comment and a further 30.2% had no specific suggestion](limited-engagement-with-feedback-process.md) — related

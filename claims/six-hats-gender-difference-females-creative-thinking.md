@@ -50,3 +50,4 @@ A 2x2 ANCOVA examined gender effects on Torrance posttest scores. The article st
 - [Gender has no significant main effect on gifted students' post-test achievement in the study](gender-no-significant-main-effect-gifted-achievement.md) — related
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — related
 - [A Six Hats Model training program significantly improves creative thinking scores of gifted seventh-grade students](six-hats-training-improves-creative-thinking-gifted.md) — related
+- [Female and male students' histology post-test scores did not differ significantly](no-gender-difference-histology-posttest.md) — related

@@ -44,6 +44,7 @@ The review identifies enhanced collaboration with radiographers as a strategy to
 
 - [Combine emergency department exposure with structured trauma X-ray teaching programmes for junior doctors](structured-trauma-xray-teaching-programme-strategy.md)
 - [Provide short, intensive, structured training in plain trauma X-ray interpretation for junior doctors](short-intensive-trauma-xray-training-strategy.md)
+- [Increase radiology education emphasis in the medical curriculum](radiology-education-curriculum-emphasis.md)
 
 ## Examples
 -

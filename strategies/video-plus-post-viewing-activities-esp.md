@@ -47,6 +47,7 @@ Following Tarnopolsky's constructivist blended learning approach, the article pr
 - [Videos](videos.md)
 - [Video-clip techniques: silent viewing, pause-based prediction, and rewind](video-clip-techniques-silent-pause-rewind.md)
 - [Structured YouTube viewing sequence for vocabulary lessons: pre-questions, dual viewing with pausing, group discussion, and role-play follow-up](structured-youtube-viewing-sequence-vocabulary.md)
+- [Integrate expert-narrated videos as pre-session material within a blended neuroangiography curriculum combining case-based learning, discussion, and simulation practice](blended-video-neuroangiography-curriculum.md)
 
 ## Examples
 -

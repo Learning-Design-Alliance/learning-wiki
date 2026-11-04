@@ -47,7 +47,8 @@ The review supports using clinical simulation in undergraduate nursing education
 - [Simulation Based Education Improves Outcomes](../claims/simulation-based-education-improves-outcomes.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Increase hands-on training and early patient contact to build clinical examination confidence](hands-on-training-early-patient-contact.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ The review concludes that standardizing core competencies and expanding programs
 ## Related Strategies
 
 - [Include core diabetes competencies in nursing curricula and expand continuing professional development across SSA](core-diabetes-competencies-nursing-curricula-ssa.md)
+- [Embed the Long COVID core competencies in training and professional development to standardize practices and improve patient outcomes](embed-competencies-in-long-covid-training.md)
 
 ## Examples
 -

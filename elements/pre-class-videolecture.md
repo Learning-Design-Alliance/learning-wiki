@@ -117,6 +117,7 @@ Pre-class video works only when paired with accountability and application: stud
 - [Keep pre-class teaching videos short (10–20 minutes), goal-targeted, and followed by checking homework](../strategies/short-goal-targeted-pre-class-videos.md)
 - [Flip the classroom by assigning pre-recorded multimedia lectures rather than textbook readings as the pre-class material](../strategies/assign-multimedia-prelectures-when-flipping.md)
 - [Record discipline-specific writing videos and scholar interviews online so students in unstreamed first-year courses can access writing instruction relevant to their field](../strategies/recorded-disciplinary-writing-videos-interviews.md)
+- [Use pre-session readiness materials and MCQ self-assessment to shift content acquisition out of class time](../strategies/cbcl-pre-session-readiness-strategy.md)
 
 ## Key Sources
 - Guo, P. J., Kim, J., & Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. *Proceedings of the First ACM Conference on Learning @ Scale*, 41–50. [doi:10.1145/2556325.2566239](https://doi.org/10.1145/2556325.2566239)

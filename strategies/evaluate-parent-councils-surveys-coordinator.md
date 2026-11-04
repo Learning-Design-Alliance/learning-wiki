@@ -43,6 +43,7 @@ The brief closes its recommendations with continuous improvement: "Organizations
 
 - [Provide training and jargon-free resources so council members can make informed contributions](training-and-jargon-free-resources-for-council-members.md)
 - [Continuously assess and re-evaluate feature implementation through user-centered research, including default-setting experiments](continuous-assessment-edtech-feature-implementation.md)
+- [Evaluate training effectiveness regularly with pre- and post-training assessments to measure impact on knowledge and skills](pre-post-training-assessment-pi-competency.md)
 
 ## Examples
 -

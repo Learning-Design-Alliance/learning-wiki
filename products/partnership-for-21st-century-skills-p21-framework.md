@@ -31,6 +31,7 @@ A framework developed by the Partnership for 21st Century Skills that organizes 
 ## Related Products and Programmes
 
 - [CSTA/ISTE operational definition of computational thinking](cstaiste-operational-definition-of-computational-thinking.md)
+- [Multidimensional 21st-Century Skills Scale (Cevik and Senturk)](multidimensional-21st-century-skills-scale-cevik-and-senturk.md)
 
 ## Key Sources
 - Dede, C. (2009). Comparing Frameworks for "21st Century Skills". Harvard Graduate School of Education. https://eric.ed.gov

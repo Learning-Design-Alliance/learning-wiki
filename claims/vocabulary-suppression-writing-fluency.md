@@ -46,3 +46,4 @@ In the longitudinal SEM, bivariate correlations between Grade 1 vocabulary and G
 
 ## Related Claims
 - [Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables](vocabulary-not-uniquely-related-to-written-composition.md) — related
+- [Interpersonal communication shows a significant negative partial association with GPA, consistent with a statistical suppressor effect rather than a substantive finding](ic-negative-partial-association-suppressor.md) — related

@@ -13,7 +13,7 @@ generated:
 # Visual Imagery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 33 claims (19 for, 10 mixed, 4 against) · 42 studies (22 causal, 15 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 6 of 42 report an effect size · 29 claims rest on one study
+> **Evidence** · 34 claims (20 for, 10 mixed, 4 against) · 43 studies (22 causal, 15 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 43 report an effect size · 30 claims rest on one study
 
 ## Description
 Visual imagery is the deliberate formation of mental pictures to represent verbal or abstract content — scenes, spatial layouts, processes, or relationships. As an instructional element, it either prompts learners to generate their own images or supplies carefully chosen visuals that learners connect to the material, engaging both verbal and pictorial processing channels.
@@ -80,6 +80,7 @@ Imagery-based encoding improves recall and comprehension because information sto
 - [Visual memorization techniques improved structural understanding of invention themes](../claims/visual-memorization-improves-structural-understanding.md) [+W]
 - [Cognitive load did not differ significantly between lecture plus 3D courseware and lecture plus image instruction](../claims/no-cognitive-load-difference-3d-versus-image-instruction.md) [~W]
 - [CL-based instruction with image schemas improves Vietnamese EFL learners' knowledge of ten English prepositions more than traditional instruction](../claims/cl-image-schemas-outperform-traditional-preposition-instruction.md) [+W] — attached 2026-11-03 from Hung et al. (2018), which proposed "3-D image schemas representing trajector-landmark relations for ten English prepositions"; tests this page's relationship.
+- [Students perceived that producing visual material outputs helped them understand and explain abstract anatomical course content](../claims/sglm-perceived-visual-learning.md) [+W]
 
 ## The evidence by question
 

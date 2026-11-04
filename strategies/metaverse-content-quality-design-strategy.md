@@ -56,6 +56,7 @@ The review's Content dimension synthesis concludes that 'high-quality simulation
 - [Select technology-based learning elements intentionally across four design considerations, chosen to align with stakeholders and learning theory](intentional-selection-four-design-considerations.md)
 - [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](stepped-ai-simulation-integration-strategies.md)
 - [Integrate cost-effective simulation with structured, proficiency-based curricula into pediatric MIS training](proficiency-based-curricula-neonatal-mis.md)
+- [Use joystick-controlled flexible laparoscopes and structured training together to shorten the scopist learning curve in advanced laparoscopy](joystick-control-and-training-structure-scopist-learning.md)
 
 ## Examples
 -

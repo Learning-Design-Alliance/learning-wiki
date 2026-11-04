@@ -41,7 +41,9 @@ The pause procedure is one of the simplest supplements to an otherwise unchanged
 5. Repeat for each subsequent segment.
 
 ## Related Strategies
+
 - [Think-Pair-Share (Turn & Talk)](think-pair-share-turn-talk.md)
+- [Break VR lectures into short sections with assessment questions and consider inserted break prompts to mitigate cybersickness](short-vr-sections-break-prompts.md)
 
 ## Examples
 

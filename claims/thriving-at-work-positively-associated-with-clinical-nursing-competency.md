@@ -49,3 +49,4 @@ Covariate-adjusted regression on 421 newly graduated nurses with clinical nursin
 - [The direct association between caring profiles and clinical nursing competency remained significant for high versus low but not moderate versus low](direct-association-significant-high-vs-low-not-moderate-vs-low.md) — related
 - [Both high and moderate caring profiles were associated with higher thriving at work than the low profile](high-and-moderate-profiles-associated-with-higher-thriving-at-work.md) — related
 - [Three latent profiles of holistic humanistic caring perception (low, moderate, high) were identified among newly graduated nurses](three-latent-profiles-holistic-humanistic-caring-perception-newly-graduated-nurses.md) — related
+- [Clinical nurses' core competency falls into three latent profiles — low-level (43.97%), moderate-level (41.98%) and high-level (14.05%) — with a relatively small high-level subgroup](three-latent-core-competency-profiles-nurses.md) — related

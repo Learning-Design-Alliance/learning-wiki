@@ -55,3 +55,6 @@ SEM mediation analysis with 225 4th graders; the indirect growth-mindset path vi
 - [Growth math mindset positively predicts academic grit in primary students](growth-math-mindset-predicts-academic-grit.md) — a narrower finding that bears on this claim
 - [Math mindsets and academic grit correlate substantially with primary math achievement](mindset-grit-math-achievement-correlations.md) — related
 - [Grit and enjoyment are key positive-psychology predictors of language learning success](grit-and-enjoyment-predict-language-success.md) — related
+- [Achievement goals and grit sequentially chain-mediate the growth mindset–mathematics achievement relationship](chain-mediation-goals-grit-math.md) — related
+- [Grit mediates the relationship between growth mindset and mathematics achievement](grit-mediation-growth-mindset-math.md) — possibly the same claim (merge candidate)
+- [Growth mindset correlates positively with grit and grit correlates positively with mathematics achievement](growth-mindset-grit-correlations.md) — a narrower finding that bears on this claim

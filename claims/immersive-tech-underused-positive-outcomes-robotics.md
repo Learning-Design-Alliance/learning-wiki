@@ -90,3 +90,4 @@ Narrative synthesis of immersive-technology studies in Results §4.2.6, includin
 - [Gamification carries a risk of negative skill transfer when game scenarios differ from real-life practice](gamification-negative-transfer-risk.md) — related
 - [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](vr-neurosurgical-simulators-low-haptic-fidelity.md) — related
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
+- [Students perceived that HoloLens increased engagement, but immersion was fragile and contingent on technical reliability and physical comfort](hololens-engagement-fragile-immersion.md) — related

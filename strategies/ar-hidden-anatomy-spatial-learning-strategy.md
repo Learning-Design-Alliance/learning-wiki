@@ -53,6 +53,7 @@ The article recommends using AR to integrate simulated fluoroscopic imaging so u
 - [Recommendation that educators include implicit spatial training combining multimodal visual and physical resources](recommend-multimodal-visual-haptic-spatial-training.md)
 - [Augmented Reality (AR) for Medical Education and Training](augmented-reality-ar-for-medical-education-and-training.md)
 - [Virtual Reality Simulations](virtual-reality-simulations.md)
+- [Increase radiology education emphasis in the medical curriculum](radiology-education-curriculum-emphasis.md)
 
 ## Examples
 -

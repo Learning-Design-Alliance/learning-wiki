@@ -65,3 +65,4 @@ Focus group thematic analysis (N = 12 students): a shy student described friends
 - [Positive school climate characteristics are significantly associated with reduced depression and stress symptoms, improved self-esteem, and better academic performance among Indian secondary school adolescents](school-climate-emotional-health-academic-achievement-india-review.md) — related
 - [Teachers reported that cross-age peer tutoring improved peer relationships and social interaction between year groups](peer-tutoring-improved-cross-year-group-relationships.md) — related
 - [Adult family members of included children reported improved expectations, family activities, and social outcomes, with 71% reporting regular best-friend play and visitation](family-quality-of-life-inclusive-placement.md) — related
+- [Students’ emotional experience of SGLM was mixed: most found it enjoyable while about half reported initial stress and tension](sglm-mixed-enjoyment-and-stress.md) — related

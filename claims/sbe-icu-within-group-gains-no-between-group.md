@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: el-hussein-mohamed-toufic-2026
     resource: "https://doi.org/10.1111/jan.70640"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The scoping review reports that a randomized controlled trial of ICU nurses (Ho et al. 2021) found no between-group differences at 6 weeks on primary outcomes or clinical observation audit, while the intervention group showed significant within-group improvements in knowledge, confidence and competence. [→ EL Hussein Mohamed Toufic 2026](#el-hussein-mohamed-toufic-2026)
@@ -72,3 +73,4 @@ A scoping review of simulation-based education (SBE) for delirium recognition. I
 - [High-fidelity simulation combining 3D printing, moulage, and role-play yields higher stoma care knowledge scores than low-fidelity static models in nursing students](hfs-3d-printer-moulage-higher-stoma-knowledge.md) — reports the opposite
 - [Repeated clinical exposure reduces fear and develops professional self-efficacy in nursing students managing delirium](repeated-exposure-builds-delirium-self-efficacy.md) — related
 - [SVVR training produces a larger immediate increase in nurses' confidence in delirium management than noninteractive video, but the between-group difference is not sustained at 1-month follow-up](svvr-immediate-confidence-gain-not-sustained.md) — related
+- [Both collaborative and individual simulation-based learning produce large pre-to-post gains in physical therapy students' clinical competence, with no statistically significant difference between modalities](collaborative-sbl-clinical-competence-gains-equivalent.md) — related

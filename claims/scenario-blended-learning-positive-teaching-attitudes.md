@@ -49,3 +49,4 @@ Single-group pretest-posttest quasi-experiment with 37 CEIT preservice teachers 
 - [The share of preservice teachers resolved to perform the teaching profession rose from 81.1% before practice to 86.5% after it](teaching-intent-rose-81-to-865-percent.md) — related
 - [Over the course, students proposed more comprehensive and practical solutions to increasingly complex scenarios, as rated by four examiners](scenario-solutions-improved-over-time.md) — related
 - [Students' self-assessment scores rose significantly from before to after studying through blended e-learning, with medium-to-large gains on all three aspects](self-assessment-gains-after-blended-elearning.md) — related
+- [Preservice teachers' 21st-century skills significantly and positively predict attitudes toward the teaching profession (β = 0.39), a more moderate effect than on self-efficacy](21c-skills-predict-teaching-attitudes.md) — related

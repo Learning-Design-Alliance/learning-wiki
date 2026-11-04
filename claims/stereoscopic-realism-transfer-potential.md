@@ -74,3 +74,4 @@ Narrative review attributing this to Bogomolova et al. (2021) on learning comple
 - [Learners' spatial ability moderates whether realistic visualizations help or hinder learning](spatial-ability-moderates-realism-effects.md) — related
 - [Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats](xr-higher-agent-realism-than-non-immersive.md) — related
 - [Drawing and haptic-visual observation activities helped students visualize and notice anatomical details, though some found household objects insufficiently contextualized](exploring-3d-anatomy-compartmental-conceptual-cognition.md) — related
+- [Students reported that HoloLens made anatomy spatially intelligible but not fully realistic, describing holograms as simplified or cartoon-like](hololens-spatial-intelligibility-not-realism.md) — related

@@ -49,6 +49,7 @@ The article recommends education shift emphasis from teaching functional AI reck
 - [Focus staff development on the judgement work of AI integration rather than tool training](staff-development-judgement-work-of-ai-integration.md)
 - [Teach AI-mediated judgement and make process, judgement and transfer visible in assessment](teach-ai-mediated-judgement-assessment.md)
 - [Research directions: scaffold reasoning without displacing epistemic agency and rethink curricula to preserve core human capabilities](human-ai-colearning-research-directions.md)
+- [Combine behavioural observation with explicit evaluation of formulation and reasoning processes in simulation-based assessment](combine-behavioural-observation-with-formulation-assessment.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Covariate-adjusted mediation analysis with 5000 bootstrap samples on 421 newly g
 - [Thriving at work was positively associated with clinical nursing competency](thriving-at-work-positively-associated-with-clinical-nursing-competency.md) — related
 - [Only-child status, living situation and work experience were associated with caring perception profile membership](only-child-living-situation-work-experience-associated-with-caring-profile-membership.md) — related
 - [Three latent profiles of holistic humanistic caring perception (low, moderate, high) were identified among newly graduated nurses](three-latent-profiles-holistic-humanistic-caring-perception-newly-graduated-nurses.md) — related
+- [Clinical nurses' core competency falls into three latent profiles — low-level (43.97%), moderate-level (41.98%) and high-level (14.05%) — with a relatively small high-level subgroup](three-latent-core-competency-profiles-nurses.md) — related

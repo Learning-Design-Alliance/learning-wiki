@@ -60,6 +60,7 @@ The brief recommends ongoing, collaborative, subject-specific professional learn
 - [Prioritize sustained, pedagogically grounded faculty TPACK development over one-off technology workshops and infrastructure investment](sustained-faculty-tpack-development-programs.md)
 - [Implement AI-supported STEM instruction through sustained, system-level integration of one to two months or more rather than isolated short interventions](sustained-system-level-ai-integration-stem.md)
 - [Integrate AI-enabled personalized STEM education with teacher participation, project-based collaboration, and cross-disciplinary task design, matched to students' cognitive developmental level](evidence-based-pedagogically-aligned-ai-stem-integration.md)
+- [Use intentional, scenario‐based curriculum design with AI literacy embedded across subjects](scenario-based-ai-literacy-curriculum-design.md)
 
 ## Examples
 -

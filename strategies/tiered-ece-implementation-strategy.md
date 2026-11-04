@@ -68,6 +68,12 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Use AI-powered virtual patients for deliberate, psychologically safe communication practice with automated personalized feedback](ai-virtual-patient-deliberate-practice-strategy.md)
 - [Use combined PBL-CBL teaching in clinical settings where direct patient exposure is limited](pbl-cbl-for-limited-patient-exposure-settings.md)
 - [Use virtual simulation resources to prepare students before high-risk or complex experiments](virtual-simulation-prelearning-before-complex-experiments.md)
+- [Increase hands-on training and early patient contact to build clinical examination confidence](hands-on-training-early-patient-contact.md)
+- [Secure institutional support for patient recruitment, faculty development, and logistics before adopting patient-in-classroom teaching](institutional-support-patient-in-classroom-adoption.md)
+- [Repurpose a clinical chronic disease management platform as an interactive learning environment in residency training](repurpose-clinical-platform-as-learning-environment.md)
+- [Scaffold early community-based experiences through longitudinal, progressively structured activities with supervision and reflection](scaffold-early-community-experiences-longitudinally.md)
+- [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](scaffolded-collaborative-to-individual-simulation-progression.md)
+- [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
 
 ## Examples
 -

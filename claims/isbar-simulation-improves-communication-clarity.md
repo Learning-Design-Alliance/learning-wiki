@@ -26,7 +26,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
-> **Design limits** · Sun Jui-Chiung 2026: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i3` After the ISBAR-structured handover simulation intervention, students' overall post-test Communication Clarity Scale scores significantly exceeded their own pre-test scores (within-subject dz = 1.04); with no control group, the authors state the gain cannot be attributed to the intervention alone. [→ Sun Jui-Chiung 2026](#sun-jui-chiung-2026)

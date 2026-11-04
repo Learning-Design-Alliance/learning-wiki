@@ -49,6 +49,7 @@ The article's implications recommend that institutions "avoid positioning AI as 
 - [Use early cheating-risk predictions only for low-stakes support with human review, never for disciplinary decisions](support-oriented-use-of-cheating-risk-predictions.md)
 - [Implement AI-assisted report feedback through a four-stage phased pathway beginning with mature low-level tools](phased-four-stage-ai-feedback-implementation.md)
 - [Adopt a hybrid human-AI tutoring model rather than replacing expert instructors with AI](hybrid-human-ai-surgical-tutoring-model.md)
+- [Use LLMs in medical education as support tools requiring human review, not as independent decision-makers or authoritative instructors](llms-as-support-tools-medical-education.md)
 
 ## Examples
 -

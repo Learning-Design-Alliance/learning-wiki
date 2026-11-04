@@ -97,3 +97,4 @@ Observational and interview study of four after-school sites; educators reported
 - [Technology in digital tutoring was reliable and accessible but rarely used for higher-order thinking](digital-tutoring-reliable-but-low-higher-order-use.md) — related
 - [Material resources in schools are a necessary but non-sufficient condition for effective ICT integration; an active and dynamic methodological approach must also be implemented.](escuela2-material-resources-insufficient.md) — related
 - [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — related
+- [Students reported difficulties with time management, material access, and indecision over subject and material selection during SGLM](sglm-difficulties-time-material-indecision.md) — related

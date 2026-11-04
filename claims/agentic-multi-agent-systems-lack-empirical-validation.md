@@ -62,3 +62,4 @@ Theme 2 of the article's thematic analysis, covering the evolution from single-a
 - [LEA's course-agnostic architecture was operationalised across three courses with no changes to the orchestrator, mastery tracker, or scaffolding engine](orchestration-layer-generalises-knowledge-layer-adapts.md) — related
 - [In a graduate QIS course pilot, the specialized Spoke-and-Wheel architecture showed no task-boundary failures across 75 student interactions, though no controlled comparison against the prototype was run](itas-specialization-no-task-boundary-failures.md) — a narrower finding that bears on this claim
 - [Intelligent tutoring systems used at scale are generally not representative of the richness that research systems demonstrate](its-at-scale-simpler-than-research-vision.md) — related
+- [CLICS's architectural distinctions from structured reflective CME remain a theoretical argument, not a demonstrated finding](clics-distinctions-untested.md) — related

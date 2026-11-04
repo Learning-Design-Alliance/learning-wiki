@@ -50,3 +50,4 @@ Three-round Delphi survey of Hong Kong school teachers, who refined an initial a
 - [Competence is the only SDT need that ChatGPT learning activities satisfy across all three SRL phases; relatedness and autonomy are not adequately satisfied at every phase.](competence-only-need-satisfied-all-srl-phases.md) — related
 - [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no significant independent effect](competence-strongest-predictor-relatedness-null.md) — related
 - Two Delphi rounds with 20 Chinese CDC experts achieved consensus, with Kendall's W rising significantly from 0.295 to 0.328 — related
+- [Both students and academics reached formal Delphi consensus on the need for more simulated classes, with students also reaching consensus on more case-based learning](delphi-consensus-modern-teaching-methods.md) — related

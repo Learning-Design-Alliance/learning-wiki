@@ -50,6 +50,7 @@ The article recommends that universities and hospitals consider VR as a tool in 
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
+- [Use VR simulation alongside other teaching models to raise motivation and satisfaction in anatomy education](vr-alongside-other-teaching-models-anatomy.md)
 
 ## Examples
 -

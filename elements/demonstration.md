@@ -26,7 +26,7 @@ sources:
 # Demonstration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (4 for, 4 mixed) · 8 studies (5 causal, 2 review, 1 theoretical), `q2`–`q3` · 0 of 8 report an effect size · 6 claims rest on one study
+> **Evidence** · 10 claims (6 for, 4 mixed) · 9 studies (6 causal, 2 review, 1 theoretical), `q2`–`q3` · 0 of 9 report an effect size · 8 claims rest on one study
 
 ## Description
 A demonstration presents a complete or partial model of a skill, process, or solution so learners can observe expert performance before attempting it themselves. The instructor or system makes thinking visible — articulating what is being done and why — rather than simply showing the end result.
@@ -69,6 +69,8 @@ Demonstrations reduce the cognitive burden of initial skill acquisition by givin
 - [Reinforcement learning modeling revealed avoidance of choices made by demonstrators described as Worst, with description affecting copying rather than observational outcome learning](../claims/rl-avoidance-of-worst-demonstrators.md) [~W]
 - [Brain activity was not modulated by demonstrator description, but the copying rate modulated activity in action-observation and decision-making regions for Best demonstrators only](../claims/copying-rate-neural-modulation-best-only.md) [~W]
 - [Interviewed students reported enjoying the demonstration method because of step-by-step explanation and verbal explanation with examples](../claims/students-enjoy-demonstration-method-step-by-step-explanation.md) [+W]
+- [QR-code-linked demonstration videos significantly improve OSPE performance in pharmacology students](../claims/qr-code-linked-videos-improve-ospe-performance.md) [+W] — attached 2026-11-04 from Eldhose Anupa et al. (2026), which proposed "QR-code-linked OSPE demonstration video resource"; tests this page's relationship.
+- [Students report QR-code-linked demonstration videos improve comprehension and confidence in OSPE techniques](../claims/students-report-videos-improve-ospe-comprehension.md) [+W] — attached 2026-11-04 from Eldhose Anupa et al. (2026), which proposed "QR-code-linked OSPE demonstration video resource"; tests this page's relationship.
 
 ## Related Elements
 - [Practice](practice.md) — the necessary follow-on; demonstration without practice rarely transfers

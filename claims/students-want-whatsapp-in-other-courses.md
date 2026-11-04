@@ -48,3 +48,4 @@ Qualitative content analysis (categorical and frequency analysis) of open-ended 
 - [Most experimental-group students liked the digital-storytelling mathematics courses and wanted the application to continue](students-liked-digital-storytelling-math-courses.md) — related
 - [Experimental-group students reported enjoying learning Newton's Laws through game-based projects and wanted the method used in other lessons](pbl-game-student-enjoyment-interviews.md) — related
 - [Most students wanted argumentation-based activities continued, mainly in science lessons](students-want-argumentation-activities-continued-science.md) — related
+- [Most students were satisfied with the SGLM process and wanted it continued, but three reported dissatisfaction tied to time pressure and material difficulties](sglm-satisfaction-continuation-mixed.md) — related

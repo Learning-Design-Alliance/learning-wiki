@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-04
 sources:
   - id: el-andari-r-2023
     resource: "https://doi.org/10.1503/cjs.017921"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' mean time to completion fell from 54 (SD 5) to 35 (SD 6) minutes and residents' from 47 (SD 6) to 31 (SD 6) minutes (both p < 0.05), with skills scores rising from 131 (SD 21) to 208 (SD 19) for students and 149 (SD 21) to 237 (SD 15) for residents (p < 0.05). [→ EL-Andari R 2023](#el-andari-r-2023)

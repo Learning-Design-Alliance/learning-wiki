@@ -57,3 +57,4 @@ Validation rescoring of a stratified subset of 40 dialogues spanning all 8 agent
 - [Expert-in-the-loop revision substantially improves medical accuracy and educational quality of generated storylines](expert-revision-improves-generated-medical-storylines.md) — related
 - [Expert tutors' lesson-planning and practice-design leaderboards separated AI models, and expert-rated practice design correlated with fewer student answer disputes](expert-leaderboards-separate-ai-tutors.md) — related
 - [Students agreed that Learning Analytics SRL rubric scores represented their approach to learning well](students-agree-rubric-scores-represent-approach-to-learning.md) — related
+- [LLM-generated total scores showed moderate agreement with faculty ratings of VSP history-taking performance (ICC(2,1)=0.51)](llm-vsp-scoring-moderate-agreement-faculty.md) — related

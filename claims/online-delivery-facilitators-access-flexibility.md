@@ -49,3 +49,4 @@ The review's content analysis of facilitatory features, aggregating statements f
 - [Content analysis identified four facilitatory features of technology-based teaching: delivery mode, multimedia design, clinical skill practice, and interaction or feedback](four-facilitatory-features-tech-stroke-teaching.md) — a broader claim this one bears on
 - [ChatGPT use in STEAM IBL is reported to improve teaching efficiency, student engagement, and flexible instructional design](chatgpt-steam-ibl-teaching-process-advantages.md) — related
 - [Technology can remove geographical barriers and allow rural and external students to engage in WIL activities](ewil-removes-geographical-barriers.md) — related
+- [Students perceive virtual simulation as reducing geographical and scheduling barriers to interprofessional education](virtual-simulation-reduces-geographical-scheduling-barriers-ipe.md) — a narrower finding that bears on this claim

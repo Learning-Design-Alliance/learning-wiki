@@ -49,3 +49,4 @@ Paired t-tests within each group of 40 physicians. TCL moved from a pre-knowledg
 - [Internet-based learning and traditional lecture produce no significant difference in CPR knowledge gains for physicians](ibl-tcl-no-knowledge-difference-cpr.md) — related
 - [Physicians learning CPR via IBL required substantially less time than the six-hour traditional lecture](ibl-time-savings-cpr-cme.md) — related
 - [Pre-training CPR skills were virtually zero and post-training gain was 92.0%, indicating training was highly effective](cpr-training-highly-effective-nigerian-students.md) — related
+- [Both e-lecturing and eHistoLab instruction significantly improved histology knowledge from pre-test to post-test](both-methods-improved-histology-knowledge.md) — related

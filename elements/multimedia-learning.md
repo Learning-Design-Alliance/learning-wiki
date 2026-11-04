@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 49 claims (34 for, 15 mixed) · 48 studies (29 causal, 7 review, 6 quant-synthesis, 4 associational, 2 qualitative), `q1`–`q4` · 12 of 48 report an effect size · 45 claims rest on one study
+> **Evidence** · 50 claims (35 for, 15 mixed) · 49 studies (29 causal, 7 review, 6 quant-synthesis, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 13 of 49 report an effect size · 46 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -85,6 +85,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Learners value classroom listening practice and prefer video or equal weighting over audio-only materials](../claims/learners-prefer-video-over-audio-materials.md) [+W]
 - [Perceived difficulty of physics showed the greatest pre-post shift in the interactive multimedia group](../claims/perceived-difficulty-greatest-shift-esa.md) [~W]
 - [EFL learners perceive captioned instructional videos as helpful for vocabulary acquisition but not as a distraction to comprehension.](../claims/captions-perceived-as-vocabulary-aid-not-distraction.md) [+W]
+- [The 2022 cohort rated 3D imaged models significantly more positively than the 2021 cohort for visualisation, understanding and self-assessment of tooth preparations](../claims/cohort-2022-rated-3d-ims-more-positively.md) [+M] — attached 2026-11-04 from Ablal Manal et al. (2026), which proposed "3D imaged models (3D IMs): annotated, fully rotatable digital tooth-preparation resources"; tests this page's relationship.
 
 ## The evidence by question
 

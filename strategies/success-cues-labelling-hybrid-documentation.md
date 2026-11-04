@@ -45,6 +45,7 @@ The article recommends three concrete design moves for open hardware learning pl
 ## Related Strategies
 
 - [Demonstrate the step-by-step process of constructing free-body diagrams rather than presenting already completed diagrams](demonstrate-fbd-construction-step-by-step.md)
+- [Improve XR-CBL case presentations with labeled structures, step-by-step guidance, focused videos, technical reliability, and embedded assessment](xr-cbl-case-presentation-improvement-strategy.md)
 
 ## Examples
 -

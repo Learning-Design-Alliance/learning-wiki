@@ -60,3 +60,4 @@ Narrative review attributing this to Brucker et al. (2014), who compared dynamic
 - [Spatial ability correlated positively with neuroanatomy performance across pretest and both quizzes in a crossover 3D-module study (Allen et al.)](allen-spatial-ability-correlates-neuroanatomy-performance.md) — a narrower finding that bears on this claim
 - [Students' spatial skills moderate their benefit from understanding-activities and perception-activities](spatial-skills-moderate-connection-activities.md) — related
 - [Low spatial ability learners on average performed better than high spatial ability learners when taught through animations](lsa-learners-outperform-hsa-with-animations.md) — reports the opposite
+- [Students reported that HoloLens made anatomy spatially intelligible but not fully realistic, describing holograms as simplified or cartoon-like](hololens-spatial-intelligibility-not-realism.md) — related

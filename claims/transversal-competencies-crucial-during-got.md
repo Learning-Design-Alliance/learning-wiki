@@ -49,3 +49,4 @@ Results section on transversal competencies: teachers reported that safe environ
 - [The COVID-19 pandemic was accompanied by increased depression and anxiety and diminished mental wellness among students and faculty](pandemic-increased-depression-anxiety-diminished-wellness.md) — related
 - [Educators during the pandemic may experience secondary traumatic stress, compassion fatigue, and community trauma alongside their own individual trauma](educator-secondary-traumatic-stress-pandemic.md) — related
 - [Creating a safe and supportive learning environment is crucial for clinical reasoning development](safe-learning-environment-clinical-reasoning.md) — related
+- [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — a narrower finding that bears on this claim

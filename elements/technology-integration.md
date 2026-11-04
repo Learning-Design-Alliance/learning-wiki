@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 193 claims (96 for, 81 mixed, 16 against) · 160 studies (41 causal, 28 review, 26 associational, 24 qualitative, 22 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 31 of 160 report an effect size · 190 claims rest on one study
+> **Evidence** · 194 claims (96 for, 82 mixed, 16 against) · 161 studies (41 causal, 28 review, 26 associational, 25 qualitative, 22 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 31 of 161 report an effect size · 191 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -218,6 +218,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [Students show deficiencies in improving school performance, group work, problem solving and communication in learning activities with ICT, despite positive attitudes toward technology.](../claims/escuela2-students-deficiencies-higher-order.md) [-W]
 - [In the Escuela 2.0 program in Castilla-La Mancha, only about one third of teachers integrate ICT into classroom practice with active methodologies, while two thirds use technology in isolated activities or retain traditional pedagogical models.](../claims/escuela2-teacher-ict-integration-third-active.md) [~W]
 - [Most EFL students found SMS-based mini-lessons engaging](../claims/sms-mini-lessons-engaging-efl.md) [+W]
+- [Students perceived the educational value of HoloLens as dependent on usability, learner control, and curricular integration](../claims/hololens-value-depends-on-implementation.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

@@ -63,3 +63,4 @@ Descriptive statistics from the quasi-experiment (Table 3): control group M 51.6
 - [Both groups improved significantly from pre-test to post-test with no pre-existing difference between them](significant-pre-post-gains-both-esp-groups.md) — related
 - [No significant differences in critical thinking dispositions were found among PBL, B-PBL, and traditional lecture groups at pretest or posttest](no-significant-ct-disposition-differences-among-groups.md) — related
 - [Theoretical competence improved after theory training with no significant group differences](theoretical-competence-improves-after-lecture.md) — related
+- [The iHEC cohort showed higher post-rotation critical thinking disposition than the conventional cohort (Cohen's d = 0.75)](ihec-higher-critical-thinking.md) — related

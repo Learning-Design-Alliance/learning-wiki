@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (28 for, 16 mixed, 2 against) · 64 studies (31 causal, 14 review, 9 quant-synthesis, 7 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 10 of 64 report an effect size · 36 claims rest on one study
+> **Evidence** · 48 claims (30 for, 16 mixed, 2 against) · 65 studies (32 causal, 14 review, 9 quant-synthesis, 7 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 10 of 65 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,8 @@ Claims that bear on procedural learning but are not part of the model above, eac
 - [Prior laparoscopic and robotic experience transferred to the Versius platform, enabling proficiency in fewer than 40 cases under structured proctoring](../claims/skill-transfer-prior-experience-versius.md) [+W] — attached 2026-11-04 from Fernández-Conejo G et al. (2026), which proposed "Structured proctoring shortens the learning curve for surgeons adopting a new robotic platform".
 - [Simulation training reduced mean intubation time (149.81±108 sec before vs 51±96 sec after, p<0.001)](../claims/simulation-reduces-vl-intubation-time.md) [+W] — attached 2026-11-04 from Bahri Badra et al. (2025), which proposed "Four-step procedural simulation sequence for teaching videolaryngoscope intubation"; tests this page's relationship.
 - [Simulation training reduced the mean number of attempts for successful intubation (3.81 vs 1.84, p<0.001)](../claims/simulation-reduces-intubation-attempts.md) [+W] — attached 2026-11-04 from Bahri Badra et al. (2025), which proposed "Four-step procedural simulation sequence for teaching videolaryngoscope intubation"; tests this page's relationship.
+- [Participants who first trained with visible RFM feedback maintained high ventilation performance after feedback removal, suggesting a carry-over learning effect](../claims/rfm-carryover-learning-effect-after-feedback-removal.md) [+W] — attached 2026-11-04 from alrashed Latifah; Bodanese Eliane (2026), which proposed "Integrate visible RFM feedback into neonatal resuscitation training using a blended sequence of visible and hidden phases"; tests this page's relationship.
+- [In hidden-first participants ventilating a preterm manikin, visible RFM feedback significantly reduced breath-to-breath variability in tidal volume and mask leak](../claims/visible-rfm-feedback-reduces-ventilation-variability-preterm.md) [+W] — attached 2026-11-04 from alrashed Latifah; Bodanese Eliane (2026), which proposed "Integrate visible RFM feedback into neonatal resuscitation training using a blended sequence of visible and hidden phases".
 
 ## Objective and learner-valued goal
 

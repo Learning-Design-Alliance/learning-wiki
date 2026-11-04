@@ -48,3 +48,4 @@ Post-course survey of the PBL group only (N = 28) using a 9-question survey with
 - [In a voluntary group survey, all 12 module-activity items had a median of 4, with M5 implementation items rated highest](survey-positive-learning-value-m5-highest.md) — related
 - [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](pbl-attitudes-valuing-interdependence-self.md) — related
 - [Most RCS Core Team members who completed the Inclusive Innovation Survey showed positive beliefs and efficacy aligned with the Inclusive Innovation Core Tenets](iis-core-team-positive-beliefs-efficacy.md) — related
+- [Participants rated the BOPPPS-PBL teaching model highly, with a mean teaching-effectiveness score of 56.43 ± 5.17 out of 60](boppps-pbl-high-teaching-effectiveness-ratings.md) — related

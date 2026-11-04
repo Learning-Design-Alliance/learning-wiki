@@ -49,3 +49,4 @@ Thematic analysis of open-ended questionnaire responses identified existing chal
 - [MDT-CDIO integrated teaching yields higher student satisfaction across all five evaluated dimensions than traditional teaching](mdt-cdio-higher-satisfaction-all-dimensions.md) — related
 - [Most students report that the MDT-CDIO model enhances interdisciplinary collaboration and clinical reasoning skills](mdt-cdio-students-report-enhanced-collaboration-reasoning.md) — related
 - [Prospective teachers' views on both applications clustered into four themes, with a minority of the reflective group reporting initial difficulties](four-themes-views-applications.md) — related
+- [Thematic analysis identified hands-on practice, contextualization, educator variety, and clinical application as key student-perceived themes](thematic-themes-scenario-feedback.md) — related

@@ -1,0 +1,50 @@
+---
+type: claim
+title: BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching
+description: BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching
+id: boppps-higher-overall-course-scores
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: li-p-2026
+    resource: "https://doi.org/10.2196/77728"
+    title: "Li P, Taoyu J, Yaxin L, Xiao-li P, Muzi L, Haoying D. (2026). Evaluation of the Bridge-in, Objective, Preassessment, Participatory Learning, Postassessment, and Summary–Based Instructional Model in Disaster Nursing: Quasi-Experimental Study. JMIR Medical Education. https://doi.org/10.2196/77728"
+    author: Li P, Taoyu J, Yaxin L, Xiao-li P, Muzi L, Haoying D.
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` The experimental group achieved a significantly higher overall course score than the control group (mean 86.93, SD 5.08 vs mean 81.60, SD 6.90; t50=−3.186, P=.002). [→ Li P 2026](#li-p-2026)
+
+## Evidence
+
+### Li P 2026
+
+Li P, Taoyu J, Yaxin L, Xiao-li P, Muzi L, Haoying D. (2026). Evaluation of the Bridge-in, Objective, Preassessment, Participatory Learning, Postassessment, and Summary–Based Instructional Model in Disaster Nursing: Quasi-Experimental Study. JMIR Medical Education. https://doi.org/10.2196/77728
+
+`q2 · i?` · `causal · r1`
+
+Independent-samples t test comparing overall course scores between the BOPPPS blended teaching group (n=27) and the traditional lecture-based control group (n=25). The overall course score combined process assessment (40%) and final examination (60%) components.
+
+> "the BOPPPS-based blended model produced significantly higher overall course scores in the experimental group (mean 86.93, SD 5.08) than in the control group (mean 81.60, SD 6.90; t50=−3.186, P=.002)."
+
+## Discussion
+
+
+## Related Claims
+- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — a broader claim this one bears on
+- [A BOPPPS-based structured perioperative observation model was associated with higher learning objective clarity and self-reported purposeful observation than a conventional clerkship in early anesthesiology exposure](structured-perioperative-observation-improves-objective-clarity.md) — a narrower finding that bears on this claim

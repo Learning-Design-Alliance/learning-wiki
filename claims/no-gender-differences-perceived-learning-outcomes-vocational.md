@@ -79,3 +79,4 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [No significant gender differences on any component of achievement or retention](no-gender-difference-components.md) — related
 - [Female students showed greater improvement than male students across all categories in both studies](gender-gap-writing-fluency-gains.md) — related
 - [No gender differences were found in any dimension according to teacher SEL training](ruler-no-gender-differences.md) — related
+- [Older age is independently associated with higher perceived geriatric knowledge and competence, while gender is not](age-associated-gender-not-perceived-geriatric-knowledge.md) — related

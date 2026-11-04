@@ -56,3 +56,4 @@ Repeated-measures ANOVA on the 30-student experimental group's three attitude me
 - [Experimental-group students' attitudes toward collaboration became more positive after a wiki-supported CSCL intervention in Lyceum Literature teaching](cscl-wiki-improves-collaboration-attitudes-pre-post.md) — related
 - [Both groups improved greatly from pretest to posttest and maintained performance from posttest to delayed posttest](both-groups-gained-and-maintained-over-time.md) — related
 - [Within the experimental group, AAT, EIS and EAS scores rose significantly from pre-test to post-test](experimental-group-prepost-gains.md) — related
+- [Within-group gains over time occurred in both groups for academic performance, but only the embodied learning group showed significant within-group gains in attitudes and self-efficacy.](el-within-group-gains-three-outcomes.md) — related

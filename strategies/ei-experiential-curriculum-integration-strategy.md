@@ -53,6 +53,7 @@ The article recommends weaving EI training into existing courses with objectives
 ## Related Strategies
 
 - [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
+- [Integrate structured suicide prevention training with simulated practice of responding to suicidal communication into clergy formation](structured-suicide-prevention-training-clergy-formation.md)
 
 ## Examples
 -

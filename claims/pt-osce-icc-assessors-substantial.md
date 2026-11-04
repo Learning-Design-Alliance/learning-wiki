@@ -53,3 +53,4 @@ Random effects meta-analysis of intraclass correlation coefficients between OSCE
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
 - [Most variables of the START-Play fidelity measure show good to excellent interrater reliability, with ICCs ranging from 0.77 to 0.95](start-play-fidelity-icc-077-095.md) — related
 - [Inter-rater reliability of the GOALS total score was good (ICC = 0.795) in blinded porcine cholecystectomy assessment](goals-good-inter-rater-reliability-porcine-model.md) — related
+- [Rater variability accounted for 37% of residual variance in faculty total scores and 52% in communication scores](rater-variability-37-percent-residual-variance.md) — related

@@ -66,3 +66,5 @@ Same synthesis of faculty-versus-resident comparisons. The review reports that d
 ## Related Claims
 - [The start of the academic year is not without risk for patient outcomes, with five of 19 studies reporting negative findings around July](july-effect-not-without-risk-five-of-nineteen.md) — related
 - [Supervised resident training reduced operative time after 30–50 cases, approximating senior benchmarks](supervised-resident-training-reduces-operative-time-30-50-cases.md) — related
+- [Propensity-matched trainee-led isolated AVR was not associated with higher in-hospital mortality or morbidity; matched mortality and dialysis were lower in trainee cases](trainee-avr-matched-outcomes-no-excess-harm.md) — a narrower finding that bears on this claim
+- [Trainee first-operator AVR and MVR cases had longer cardiopulmonary bypass and cross-clamp times than consultant cases, without increased early mortality or morbidity](trainee-cases-longer-operative-times-no-harm.md) — a narrower finding that bears on this claim

@@ -63,3 +63,4 @@ Quasi-experimental matched-comparison analysis of 2,855 treatment students in gr
 - [Impacts varied across teachers: 40 of 59 teachers had a majority of their students outperform their virtual comparison counterparts](assistments-teacher-variation-outperformance.md) — related
 - [The effect of an ITS varies by education level: middle school students benefited more from an ITS than high school students](choi-education-level-moderates-its-effect.md) — related
 - [In an experiment on computer-assisted instruction, low- and high-SES students benefited equally relative to conventional instruction, and the SES achievement gap remained the same](cai-equal-ses-benefits-gap-unchanged.md) — related
+- [Interaction between group assignment and baseline scores is not statistically significant, though high-baseline students show a trend of larger gains](baseline-heterogeneity-nonsignificant-interaction-trend.md) — related

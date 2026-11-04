@@ -47,3 +47,4 @@ Longitudinal follow-up survey administered to students from the 2017-2022 cohort
 ## Related Claims
 - [Students rated the bridging function of the course most highly, with the top course model items being strengthened basic-clinical linkage (4.72) and helped construct a coherent medical knowledge framework (4.70).](pbl-bridge-course-top-items-basic-clinical-linkage.md) — related
 - [Tutors received high ratings across all ten facilitation behaviors (all items above 4.2), with the highest scores for professional preparation and open-ended questioning, and the lowest for fostering an inclusive climate.](pbl-bridge-tutor-facilitation-high-ratings.md) — related
+- [Clerkship students rated the R-ISAM model significantly higher than Basic Sciences and Physiopathology students across all seven evaluation domains (p < 0.001)](clerkship-students-rate-r-isam-highest.md) — related

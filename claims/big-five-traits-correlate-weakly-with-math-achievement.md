@@ -75,3 +75,4 @@ The authors place this alongside earlier cross-domain findings of a modest link 
 - [Extraversion is negatively correlated with the average number of annotation acts](extraversion-negatively-correlated-average-annotation-acts.md) — related
 - [Cognitive abilities show the strongest correlation with academic achievement among the student-characteristic domains examined](cognitive-abilities-strongest-correlate-academic-achievement.md) — related
 - [Teaching type interacts with personality factors on academic achievement for all Big Five traits except neuroticism](teaching-type-personality-interaction-big-five.md) — related
+- [Academic achievement correlates positively with all five antecedent conditions in the sample](positive-correlations-five-antecedents-achievement.md) — related

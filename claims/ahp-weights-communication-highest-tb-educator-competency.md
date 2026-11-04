@@ -50,3 +50,4 @@ AHP weight calculation in YAAHP 12.11 using pairwise comparisons on the 1–9 Sa
 - [Student AI competency achievement and curriculum-AI frontier alignment dominate the indicator-level priority ranking](ai-competency-achievement-top-indicator.md) — related
 - [Expert perceptions reveal a developmental asymmetry in which content knowledge outweighs integrated pedagogical capacity in AI education](developmental-asymmetry-ck-over-tpack.md) — related
 - [Experts rate AI-related competences for learners and educators as the highest-impact and most important AI-in-education trend](ai-competences-highest-rated-delphi-trend.md) — related
+- [AHP weighting placed skill highest (0.405) among first-level dimensions, with implicit competencies (self-concept, trait, motivation) jointly carrying 53% of total weight](ahp-weights-skill-highest-implicit-53-percent.md) — related

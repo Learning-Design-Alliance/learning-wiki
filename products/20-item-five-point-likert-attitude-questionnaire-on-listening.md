@@ -29,6 +29,7 @@ A researcher-developed 20-item five-point Likert questionnaire by Mojtaba Ghasse
 ## Related Products and Programmes
 
 - [Gardner's Attitude/Motivation Test Battery (AMTB)](gardners-attitudemotivation-test-battery-amtb.md)
+- [Attitudes Towards Teaching Profession Scale (ATTPS)](attitudes-towards-teaching-profession-scale-attps.md)
 
 ## Key Sources
 - Mojtaba Ghassemi. (2013). The impact of Cooperative Materials Adaptation on Listening Comprehension Performance of Iranian EFL Learners. English Language Teaching, 6(2). https://doi.org/10.5539/elt.v6n2p45

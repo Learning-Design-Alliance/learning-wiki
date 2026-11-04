@@ -50,3 +50,4 @@ One-way ANCOVA on the experimental group's pre- and post-test scores, controllin
 - [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related
 - [ANCOVA adjusting for pre-test scores showed a significant group effect favouring the peer instruction group on post-test comprehension](ancova-group-effect-peer-instruction-posttest.md) — related
 - [Paired sample t-test confirms significantly higher post-test scores for the experimental group](pbl-paired-t-test-significant.md) — related
+- [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related

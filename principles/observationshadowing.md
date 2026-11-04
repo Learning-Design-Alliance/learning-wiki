@@ -18,7 +18,7 @@ sources:
 # Observation/Shadowing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (11 for, 14 mixed) · 27 studies (6 review, 5 causal, 4 theoretical, 3 quant-synthesis, 3 associational, 3 qualitative, 3 design), `q1`–`q4` · 3 of 27 report an effect size · 22 claims rest on one study
+> **Evidence** · 29 claims (15 for, 14 mixed) · 28 studies (6 causal, 6 review, 4 theoretical, 3 quant-synthesis, 3 associational, 3 qualitative, 3 design), `q1`–`q4` · 3 of 28 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,9 @@ Claims that mention observation but bear on this page little or not at all:
 - [In Coach Wright, Asset-mindset participants noticed Jeremy's positive behaviors while Deficit-mindset participants framed behavior as rule compliance, and strength language sometimes appeared without referencing actual strengths](../claims/coach-wright-topics-track-asset-deficit-mindsets.md) [~W]: in a digital teaching simulation, what participants noticed in a scenario was associated with their mindset; associational. It suggests that what an observer brings shapes what they record, which the debrief should check; it does not test observation as learning.
 - [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](../claims/reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) [~W]: teachers' talk in nine sessions at one school, a discourse analysis; noticing here means noticing in one's own classroom and talk, not observing others. It suggests that seeing something surprising is not enough to change a view without a conversation that holds it open.
 - [Students conducting live video observations produce richer scientific observation notes than students conducting onsite observations](../claims/lvo-richer-observation-notes-than-oso.md) [+W] — attached 2026-11-03 from Pickering et al. (2011), which proposed "Use instructor-facilitated, collective live video observation so the whole class can observe, discuss, and be guided in scientific observation methodology".
+- [A BOPPPS-based structured perioperative observation model was associated with higher learning objective clarity and self-reported purposeful observation than a conventional clerkship in early anesthesiology exposure](../claims/structured-perioperative-observation-improves-objective-clarity.md) [+W] — attached 2026-11-04 from Zhu Xiaocheng et al. (2026), which proposed "Structured perioperative observation pattern: explicit objectives plus checklist-guided observation and reflective summary within existing clinical exposure time"; tests this page's relationship.
+- [The structured observation group showed greater gains in anesthesia-related awareness and knowledge test scores than the conventional group](../claims/structured-observation-greater-awareness-knowledge-gains.md) [+W] — attached 2026-11-04 from Zhu Xiaocheng et al. (2026), which proposed "Structured perioperative observation pattern: explicit objectives plus checklist-guided observation and reflective summary within existing clinical exposure time"; tests this page's relationship.
+- [Open-ended feedback suggested structured observation shifted student descriptions from visible equipment and procedures toward perioperative workflow, patient safety, and team collaboration](../claims/open-ended-feedback-shift-toward-workflow-safety.md) [+W] — attached 2026-11-04 from Zhu Xiaocheng et al. (2026), which proposed "Provide explicit objectives and observation frameworks to prevent early clinical exposure from becoming passive watching".
 
 ## Objective and learner-valued goal
 
@@ -153,6 +156,7 @@ What the observer can describe, what they can explain, their confidence, their o
 
 - [SQU ELT trainers encouraged peer observation and same-day feedback sessions, with 78.9% of trainees agreeing trainers encouraged class visits and 81.9% agreeing feedback came the same day as observation](../claims/squ-trainers-encouraged-peer-observation-and-same-day-feedback.md) [+W]
 - [Students who experienced both methods rate live video observation as less distracting for children and more convenient than onsite observation](../claims/wave2-paired-lvo-advantages.md) [~W]
+- [The association between structured perioperative observation and the primary outcome remained significant after adjustment for covariates in a linear mixed-effects model](../claims/mixed-effects-adjusted-structured-observation-effect.md) [+W]
 
 ## Related Principles
 - [Mentoring/Coaching](mentoring-and-coaching.md) — observation and shadowing are often most effective when paired with guided interpretation from a mentor or coach.

@@ -58,3 +58,4 @@ RCT reported in the review's Table 3 (control n=11, feedback n=10, 4 sessions of
 - [Near-peer feedback improved clinical note scores compared to no feedback in one included study](near-peer-feedback-improves-clinical-note-scores.md) — related
 - [Software-based platforms generally improve examination scores, diagnostic accuracy, and decision-making performance](software-platforms-improve-knowledge-and-decision-making.md) — a broader claim this one bears on
 - [Immediate feedback combined with reflection improved diagnostic accuracy on training cases versus outpatient clinic attendance or lecture](immediate-feedback-reflection-diagnostic-accuracy-training-cases.md) — related
+- [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — related

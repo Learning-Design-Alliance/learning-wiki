@@ -53,6 +53,8 @@ The review proposes a progressive training pathway in which learners begin clini
 
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Use structured training pathways with supervised early practice and experience-informed patient counselling in hip arthroscopy](structured-training-pathways-hip-arthroscopy.md)
+- [Use speech-enabled GenAI standardized patients as a low-stakes practice venue for customer discovery interviews](genai-sp-low-stakes-customer-discovery-practice-strategy.md)
+- [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](scaffolded-collaborative-to-individual-simulation-progression.md)
 
 ## Examples
 -

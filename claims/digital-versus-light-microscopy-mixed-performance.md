@@ -69,3 +69,4 @@ The review reports from the included study by Mantaring et al. (2023) that stude
 - Research output on digital histology and pathology teaching increased steadily from 2013 to 2024, with first-year medical students the most frequently studied group — related
 - [Learner satisfaction with digital learning resources for prescribing is positive but shows no structural differences from traditional teaching](dlr-learner-satisfaction-positive-no-differences.md)
 - [Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results](vp-attitudes-satisfaction-mixed.md)
+- [Most students preferred virtual microscopy over recorded e-lecturing for learning histology and reported higher motivation with it](students-prefer-virtual-microscopy-histology.md) — related

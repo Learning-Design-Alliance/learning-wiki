@@ -98,6 +98,7 @@ Availability alone is insufficient; tools must be paired with instruction in whe
 - [Teach Self-Regulation Strategies](../strategies/teach-self-regulation-strategies.md) — tools are the external half of self-regulation; strategy instruction is the internal half
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — access to reference tools works best when learners can connect new material to what they already know
 - [Increase access to digital learning so materials are organized and accessible online](digital-learning-access-organized-materials.md)
+- [Link instructional videos and checklists to a QR code for on-demand student access](qr-code-access-to-instructional-videos.md)
 
 ## Examples
 - **Elementary math**: a manipulatives shelf with base-ten blocks, fraction tiles, and number lines, labeled by unit; students retrieve what they need at the start of [Practice](../elements/practice.md).

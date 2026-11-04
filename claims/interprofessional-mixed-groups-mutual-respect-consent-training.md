@@ -64,3 +64,5 @@ Theme from the same focus group thematic analysis with intervention participants
 - [Role clarity is the second most reported IPE outcome, with 32 review articles highlighting understanding of roles and responsibilities](ipe-role-clarity-second-most-reported.md) — related
 - [Teams and teamwork is the most frequently developed IPEC core competency in interprofessional education, identified in 65 instances across 62 studies](ipe-teams-teamwork-most-frequent-competency.md) — related
 - [Control facilitators reported role ambiguity while intervention facilitators did not.](control-facilitators-role-ambiguity.md) — related
+- [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related
+- [Among 98 students providing written suggestions, the most frequent improvement themes were interdisciplinary case teaching (28.6%) and emergency care training (26.5%)](student-suggested-improvements-five-themes.md) — related

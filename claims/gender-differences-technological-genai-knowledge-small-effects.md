@@ -63,3 +63,4 @@ One-way ANOVAs by gender across the seven TPACK domains in the 127-faculty surve
 - [Male students score significantly higher than females on Openness to Experience and Extraversion, while age shows no significant correlation with personality](gender-age-personality-differences.md) — related
 - [Girls rate the female agent as a significantly better model than boys do](girls-rate-agent-better-model.md) — related
 - [Female students scored significantly higher than males on higher-order thinking skills (p = 0.015).](females-higher-hot-scores.md) — related
+- [Male interns report significantly higher self-perceived clinical confidence than females, while theoretical knowledge does not differ significantly by gender](gender-confidence-knowledge-difference-veneers.md) — related

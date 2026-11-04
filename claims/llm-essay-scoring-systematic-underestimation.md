@@ -60,3 +60,4 @@ Bland-Altman bias analysis across five LLMs (GPT-4.1, Llama 4 Maverick, Gemini 2
 - [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — related
 - [RAG prompting shows systematic leniency, over-scoring relative to teacher mean scores in all four rubric dimensions (total bias = 1.787)](rag-systematic-leniency-overscoring.md) — reports the opposite
 - [ChatGPT 3.5 grading with the best prompt was significantly lower than official IELTS examiner grades, indicating systematic bias in absolute grading](llm-grades-significantly-lower-than-examiners.md) — a narrower finding that bears on this claim
+- [Proportional bias: AI assigned relatively higher scores at the lower end of the performance distribution](proportional-bias-ai-higher-scores-lower-end.md) — related

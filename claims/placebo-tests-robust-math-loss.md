@@ -49,3 +49,4 @@ Robustness analysis re-estimating the main regression with a departure dummy for
 - [Positive average grade effects appear only under COVID-laden treatment anchors, indicating such readings reflect the COVID shock rather than ChatGPT](covid-laden-anchors-produce-spurious-positive-grade-effect.md) — related
 - [The climate × immigrant status interaction is robust across alternative specifications, sampling weights, and multiple imputation](interaction-robust-across-specifications.md) — related
 - [Reading losses resemble mathematics losses, but science effects are insignificant and reading/science results are unreliable because pre-pandemic trends were non-linear](reading-science-trend-limits.md) — reports the opposite
+- [Grade-8 adopter effects are weaker and not robust to violations of parallel trends, warranting caution](grade8-adopter-effects-not-robust.md) — related

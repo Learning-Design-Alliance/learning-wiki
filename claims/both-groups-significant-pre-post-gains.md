@@ -77,3 +77,4 @@ Wilcoxon signed rank test on the control group's (N total 13) pre- and post-test
 - [Both groups improved significantly from pretest to posttest on the BLAT](blat-within-group-gains-both-groups.md) — possibly the same claim (merge candidate)
 - [Experimental group gained memorization skill over time while control group did not](experimental-group-gained-memorization-skill-over-time.md) — related
 - [Higher-order thinking ability improved significantly in both the experimental and control groups after learning activities](within-group-hots-gains-significant.md) — a narrower finding that bears on this claim
+- [All three groups showed significant within-group improvement in disaster nursing competency regardless of instruction type](within-group-competency-improvement-all-groups.md) — related

@@ -51,3 +51,4 @@ LC-CUSUM analysis of the prospective cohort using console time thresholds (<165/
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
 - [Lymphadenectomy was associated with a statistically significant increase in console time (estimated difference 18.0 min, 95% CI 6.3–29.6)](lymphadenectomy-increases-console-time.md) — related
 - [Junior 1, a regular video game player, showed the lowest hand motion values and greatest reduction in motion metrics, possibly reflecting dexterity transfer from gaming](video-gaming-dexterity-transfer-robotic-surgery.md) — related
+- [LC-CUSUM trajectories showed progressive skill acquisition in both groups, with descriptive trends toward earlier competency in the mikoto arm](mikoto-lc-cusum-learning-curves.md) — related

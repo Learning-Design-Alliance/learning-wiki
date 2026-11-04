@@ -57,3 +57,4 @@ Paired-samples t-test on the control group's essay scores (N = 25); Table 3 repo
 - [The control group taught by the traditional method showed no significant pre-test to post-test improvement](traditional-group-no-vocabulary-gain.md) — possibly the same claim (merge candidate)
 - [The combined (traditional plus active learning) teaching method significantly improved pre-to-post knowledge scores](combined-method-significant-pre-post-gain.md) — related
 - [Intensive exposure to EFL classes alone produced no statistically significant literacy gains in adult learners lacking basic literacy](intensive-exposure-alone-no-literacy-gain.md) — related
+- [The traditional instruction group showed only slight, statistically non-significant gains across all questionnaire domains](traditional-group-non-significant-gains.md) — related

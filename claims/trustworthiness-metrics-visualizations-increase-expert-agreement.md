@@ -82,3 +82,4 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](crase-scoring-equivalent-to-human-markers-rejected.md) — related
 - [Standardized personal statements and letters of recommendation improve inter-rater reliability and mitigate bias](standardized-admissions-tools-reliability.md) — related
 - [Rubric-guided grading pipelines can approach human-level agreement when explicit rubrics, exemplars, and calibration are used](rubric-guided-grading-human-agreement.md) — related
+- [The SP chicken anastomosis metrics achieved high inter-rater reliability (IRR 0.96) between two blinded trained reviewers](sp-anastomosis-metrics-inter-rater-reliability.md) — a narrower finding that bears on this claim

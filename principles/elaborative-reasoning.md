@@ -36,7 +36,7 @@ sources:
 # Elaborative Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (21 for, 17 mixed, 4 against) · 37 studies (22 causal, 7 quant-synthesis, 4 review, 3 associational, 1 qualitative), `q2`–`q4` · 15 of 37 report an effect size · 36 claims rest on one study
+> **Evidence** · 43 claims (22 for, 17 mixed, 4 against) · 38 studies (22 causal, 7 quant-synthesis, 4 review, 3 associational, 2 qualitative), `q2`–`q4` · 15 of 38 report an effect size · 37 claims rest on one study
 
 ## Conditional relationship
 
@@ -180,6 +180,7 @@ Immediate recall, delayed recall, explanation and transfer are separate claims; 
 - [Accumulation and cross-text elaboration are uncorrelated and show opposite-sign correlations with intertextual comprehension](../claims/strategy-dimensions-uncorrelated-opposite-correlations.md) [~W]
 - [Self-explanation-based and inquiry learning elicit more elaborative processes than hypermedia and observational learning, fully for hypothesis testing and integrating and partly for giving explanations](../claims/generation-approaches-elicit-more-elaborative-processes.md) [+W]
 - [Correctness of generated and classified examples during learning correlates selectively with posttest task performance](../claims/example-correctness-correlations-posttest.md) [~W]
+- [Midwifery students perceived that generating learning materials deepened and made more lasting their knowledge of course topics](../claims/sglm-perceived-knowledge-increase-retention.md) [+W]
 
 ## Related Principles
 

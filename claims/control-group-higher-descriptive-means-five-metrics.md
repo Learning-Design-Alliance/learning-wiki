@@ -48,3 +48,4 @@ Descriptive comparison from Table 1 of the quasi-experiment: control means excee
 - [Both the control and experimental groups demonstrated a perfect success rate in completing phlebotomy on actual patients](both-groups-perfect-phlebotomy-success-rate.md) — related
 - [No significant difference was found between the traditional-method control group and the VRS experimental group on any of five phlebotomy performance metrics measured on actual patients](no-significant-difference-traditional-vs-vrs-phlebotomy-metrics.md) — possibly the same claim (merge candidate)
 - [Time to complete the procedure showed the lowest p value between groups but remained non-significant](time-to-complete-lowest-p-value-nonsignificant.md) — related
+- [Simulator training showed no significant effects on adenoma detection rate, polyp detection rate, or patient pain scores](mikoto-no-detection-outcome-effects.md) — related

@@ -13,7 +13,7 @@ generated:
 # Case-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (7 for, 2 mixed, 2 against) · 23 studies (11 causal, 6 review, 4 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 23 report an effect size · 5 claims rest on one study
+> **Evidence** · 12 claims (7 for, 3 mixed, 2 against) · 24 studies (12 causal, 6 review, 4 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 24 report an effect size · 6 claims rest on one study
 
 ## Description
 Case-based learning places learners in the role of analyst or decision-maker confronting a realistic scenario — a patient presentation, a business dilemma, a legal dispute — and asks them to apply theoretical concepts to interpret it and choose a course of action. The case functions as an authentic problem context in which abstract principles must be retrieved, adapted, and defended rather than merely recalled.
@@ -58,6 +58,7 @@ Case-based learning improves exam performance and supports transfer by forcing l
 - [Case-based learning does not produce a larger increase in self-reported theory-based knowledge usage than studying with theoretical models](../claims/no-group-difference-theory-usage-increase.md) [-W]
 - [Case-based learning produced the highest chemistry achievement, followed by the 7E learning cycle model, with both exceeding conventional teaching (all pairwise differences significant)](../claims/cbl-highest-achievement-ordering.md) [+W] — attached 2026-11-01 from Adesoji et al. (2015), which proposed "Case-based learning strategy for chemistry".
 - [Case-based learning yielded the highest attitude mean score, significantly above conventional teaching, but the 7E-versus-CBL attitude difference was not significant](../claims/cbl-attitude-7e-not-significant.md) [+W] — attached 2026-11-01 from Adesoji et al. (2015), which proposed "Case-based learning strategy for chemistry".
+- [Cohort 2022 showed significant gains from pre-test (4.3 ± 1.6) to post-test (7.6 ± 2.2) with retention at post-post-test (6.3 ± 2.4), and an 11.7% numerical decrease after the post-test that was not statistically significant](../claims/xr-cbl-cohort-2022-gains-retention.md) [~W] — attached 2026-11-04 from Aytaç Güneş et al. (2026), which proposed "XR-CBL anatomy modules combining donor-derived MRI, 3D photogrammetric and segmented models, and zSpace desktop XR in the gross anatomy laboratory".
 
 ## The evidence by question
 - *Does teaching through realistic cases, by itself, raise learning?* [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [+M]

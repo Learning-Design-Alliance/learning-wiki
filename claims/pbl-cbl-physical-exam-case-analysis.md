@@ -76,3 +76,4 @@ Meta-analysis of 4 studies (248 students) on case analysis scores. The pooled es
 - [Computer/internet-based learning programs improved physical examination skill performance compared to students without IT support](computer-based-learning-improves-pe-skills.md) — related
 - [The CBL group performed significantly better on the final exam than the non-CBL group](cbl-improves-final-exam-performance-biochemistry.md) — related
 - [Case-based learning prevented the increase in surface approach to learning observed across the semester in the non-CBL group](cbl-prevents-surface-approach-increase-biochemistry.md) — related
+- [IWCL+CBL and LBL+CBL produce no significant overall difference in specialty physical examination proficiency in an otolaryngology clerkship](iwcl-cbl-no-difference-physical-exam-proficiency.md) — related

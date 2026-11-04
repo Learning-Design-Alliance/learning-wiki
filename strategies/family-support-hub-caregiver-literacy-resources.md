@@ -46,6 +46,7 @@ The Literacy Packs include a Family Support Hub giving families instructional ma
 - [Family Literacy Engagement](family-literacy-engagement.md)
 - [Support implementation with initial Science of Reading training plus PLC-based lesson study and model lessons](plc-lesson-study-implementation-support.md)
 - [Connect home and school learning through a family guide linking playful everyday science activities to classroom instruction](family-guide-connecting-home-and-school-science.md)
+- [Link instructional videos and checklists to a QR code for on-demand student access](qr-code-access-to-instructional-videos.md)
 
 ## Examples
 -

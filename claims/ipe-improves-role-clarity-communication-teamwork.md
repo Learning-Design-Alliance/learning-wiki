@@ -56,3 +56,4 @@ Synthesis of 88 studies in this scoping review found "The positive impacts of IP
 - [Faculty development for interprofessional education emphasizes interprofessional collaborative and facilitation competencies, with communication and teamwork as the most highlighted domains](ipe-faculty-development-competencies-communication-teamwork.md) — related
 - [IPE produces negative impacts including logistical challenges, power dynamics, communication barriers, and feeling overwhelmed by extra workload](ipe-negative-impacts-power-dynamics-workload.md) — reports the opposite
 - [Control facilitators reported role ambiguity while intervention facilitators did not.](control-facilitators-role-ambiguity.md) — related
+- [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related

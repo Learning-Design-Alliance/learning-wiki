@@ -49,3 +49,4 @@ Multivariate logistic regression in a cross-sectional study of 277 students acro
 - [Exploratory meta-analysis yields a small, non-significant pooled negative PSMU–AP correlation with substantial heterogeneity](psmu-ap-pooled-r-nonsignificant-heterogeneous.md) — related
 - [PSMU shows a strong positive direct effect on academic performance decrement in one PLS-SEM study](psmu-direct-effect-academic-performance-decrement.md) — related
 - [PSMU mediated via technostress and exhaustion predicts academic performance decrement](psmu-technostress-exhaustion-mediation-apd.md) — related
+- [Multivariable regression confirms gender and university as independent predictors of knowledge score](regression-gender-university-predictors-knowledge-syria.md) — related

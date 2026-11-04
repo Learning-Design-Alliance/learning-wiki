@@ -51,3 +51,4 @@ A one-shot case study evaluated satisfaction of 60 undergraduates recruited by s
 - Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams — related
 - [Learning and innovation skills outcomes: 15 innovations from the game design program and six from the mathematics CAI program, with all students working creatively with others](innovation-skills-by-program-outcomes.md) — related
 - [Autonomy, diversity, interactivity, openness and Web 2.0 showed a positive significant effect on students' achievement in a structural model](connectivist-principles-positive-effect-achievement.md) — related
+- [Participants rated the BOPPPS-PBL teaching model highly, with a mean teaching-effectiveness score of 56.43 ± 5.17 out of 60](boppps-pbl-high-teaching-effectiveness-ratings.md) — related

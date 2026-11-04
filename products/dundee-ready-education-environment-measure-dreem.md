@@ -26,7 +26,8 @@ A 50-item standardized questionnaire developed at Dundee University Medical Scho
 - [PBL outperformed LBL on all five DREEM subscales, including perceptions of teachers and social self-perceptions](../claims/pbl-favors-all-dreem-subscales.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [65-item R-ISAM evaluation questionnaire with seven domains](65-item-r-isam-evaluation-questionnaire-with-seven-domains.md)
 
 ## Key Sources
 - Qin Yongjie, Wang Yungui, Floden Robert E. (2016). The Effect of Problem-Based Learning on Improvement of the Medical Educational Environment: A Systematic Review and Meta-Analysis. Medical Principles and Practice. https://doi.org/10.1159/000449036

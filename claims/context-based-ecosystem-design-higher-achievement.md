@@ -87,3 +87,5 @@ Post-hoc comparison following the ANCOVA on post-test AT scores in the quasi-exp
 - [High prior readiness was not required for achievement gains with learning objects, contrary to earlier findings](los-gains-not-limited-to-high-readiness-students.md) — related
 - [Small-group problem-based instruction (PBIS) produced the highest adjusted mathematics achievement among the four treatment conditions](pbis-highest-adjusted-math-achievement.md) — related
 - [Video-production experiential teaching raises theoretical knowledge scores more than lecture-based instruction in dental preventive medicine students](video-production-experiential-teaching-improves-theoretical-knowledge.md) — related
+- [The iHEC cohort showed higher post-rotation self-directed learning readiness than the conventional cohort (Cohen's d = 0.78)](ihec-higher-sdl-readiness.md) — related
+- [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related

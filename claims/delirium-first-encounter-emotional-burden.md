@@ -70,3 +70,4 @@ Interview data showed "altered consciousness and inability to communicate evoked
 - [Nursing students initially recognize delirium through behavioral and motor cues rather than as a neurocognitive syndrome](students-recognize-delirium-through-behavioral-cues.md) — related
 - [Nursing students struggle to label observed changes as delirium and often misinterpret them as other conditions](students-misattribute-delirium-symptoms.md) — related
 - [Nursing students report that purely theoretical delirium education is insufficient for clinical readiness](theory-alone-insufficient-delirium-education.md) — related
+- [Repeated simulated patient encounters produced no significant change in state anxiety or LSAS over time among students with repeated responses](no-anxiety-reduction-repeated-simulation-exposure.md) — related

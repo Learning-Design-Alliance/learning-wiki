@@ -76,3 +76,5 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — related
 - [Students report that progressive simulation practice builds handover confidence by reducing anxiety](progressive-simulation-practice-builds-confidence.md) — a narrower finding that bears on this claim
 - [Virtual simulation fosters clinical reasoning and psychomotor skills in a safe, realistic environment with immediate feedback](virtual-simulation-safe-environment-immediate-feedback-claim.md) — related
+- [Students' narratives frame simulations ambivalently: anxiety and performance insecurity coexist with perceived safe space for learning from mistakes](ambivalent-narratives-simulation-anxiety-safe-space.md) — related
+- [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — related

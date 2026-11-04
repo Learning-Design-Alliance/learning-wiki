@@ -131,3 +131,5 @@ The review reports countervailing findings in the same category, including that 
 - [MEET remediation cohort showed significant overall OSCE improvement after AI virtual patient use](aivp-meet-cohort-significant-osce-gain.md) — a narrower finding that bears on this claim
 - [AI virtual patient use produced no statistically significant OSCE improvement in the volunteer cohort](aivp-volunteer-cohort-no-significant-osce-change.md) — a narrower finding that bears on this claim
 - [Virtual simulation fosters clinical reasoning and psychomotor skills in a safe, realistic environment with immediate feedback](virtual-simulation-safe-environment-immediate-feedback-claim.md) — related
+- [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — a narrower finding that bears on this claim
+- [LLM-VSP self-practice improves medical history-taking performance in matched comparison (Cohen d=0.52)](llm-vsp-improves-history-taking-matched.md) — a narrower finding that bears on this claim

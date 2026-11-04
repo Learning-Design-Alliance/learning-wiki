@@ -58,3 +58,4 @@ Bayesian Multilevel-SEM estimated separately for each of four outcomes (intrinsi
 - [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](relatedness-care-support-internalization.md) — related
 - [Students' perceived relative lack of autonomy support positively predicts extrinsic regulation](relative-lack-of-autonomy-support-predicts-extrinsic-regulation.md) — a narrower finding that bears on this claim
 - [Student perceptions of autonomy support, structure, and involvement positively predict student self-determination, mediated by autonomy and competence need satisfaction](student-perceived-strategies-predict-sdi.md) — related
+- [Autonomy-supportive supervision benefits are strengthened, not diminished, by clear direction](autonomy-support-and-structure-complementary.md) — related

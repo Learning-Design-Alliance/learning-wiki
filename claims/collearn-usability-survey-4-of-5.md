@@ -51,3 +51,4 @@ Post-session Likert questionnaire with 16 raters across teacher, researcher, stu
 - [Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5](learnlens-teacher-satisfaction-4-1-of-5.md) — related
 - [In a pilot study, the TigerGPT survey chatbot achieved a 75% usability rating and an 81% satisfaction score, with 50% of participants preferring it over traditional surveys](tigergpt-pilot-usability-satisfaction.md) — related
 - [Students rate the virtual campus positively overall, with communication tools scoring lowest](virtual-campus-positive-communication-lowest.md) — related
+- [Nursing students reported high satisfaction with community care simulation, with all SDS domain means around 4.5 and support rated lowest](ccs-high-satisfaction-sds-domain-scores.md) — related

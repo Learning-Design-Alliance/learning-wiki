@@ -77,3 +77,4 @@ Narrative review attribution in Section 5: the paper reports, citing Goh et al.,
 - [Optimizing prompts can vastly improve the accuracy of LLM outputs, but critical evaluation of the resulting outputs still requires domain expertise.](prompt-optimization-improves-accuracy-expertise-still-needed.md) — related
 - [AI-related placebo effects lead users to overestimate their own abilities while or after being assisted by an AI](ai-placebo-effect-overestimation.md) — related
 - [Student prompts that omit key pertinent negatives are associated with AI-induced diagnostic errors](prompt-omission-pertinent-negatives-ai-errors.md) — a narrower finding that bears on this claim
+- [AI use is associated with lower critical thinking, with trust strengthening and AI literacy weakening the effect](ai-use-lower-critical-thinking-literacy-buffer.md) — related

@@ -26,7 +26,7 @@ sources:
 # Dual Coding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (18 for, 12 mixed, 7 against) · 47 studies (20 causal, 14 review, 10 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 15 of 47 report an effect size · 28 claims rest on one study
+> **Evidence** · 38 claims (19 for, 12 mixed, 7 against) · 48 studies (20 causal, 14 review, 10 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 15 of 48 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,7 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - [Instructors preferred the drawing-focused framing practice that was less effective than the control condition](../claims/instructors-prefer-less-effective-draw-framing.md) [-W]
 - [Among students not provided with diagrams, self-construction of free-body diagrams strongly and positively correlated with problem-solving performance and prior Mechanics achievement](../claims/self-constructed-fbd-correlates-with-performance.md) [+W]
 - [Students using visual representations (cards or computer) solved a logic word problem at higher rates than students using the traditional paper-and-pencil method.](../claims/visual-representations-improve-word-problem-solving.md) [+W]
+- [Students perceived that producing visual material outputs helped them understand and explain abstract anatomical course content](../claims/sglm-perceived-visual-learning.md) [+W]
 
 ## Related Principles
 - [Multimodal Instruction](multimodal-instruction.md)

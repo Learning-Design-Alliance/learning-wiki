@@ -70,3 +70,4 @@ The review contrasts low expectation teachers' diffident, tightly structured pra
 - [Engineering students perceive AI chatbot benefits as strongest for relief from competence frustration, moderate for autonomy, and weakest for relatedness](ai-chatbot-need-specific-benefits-engineering-students.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - Self-determination theory grew incrementally by adding mini-theories as evidence accumulated — related
+- [Residents experience EPAs as compliance-driven documentation that thwarts autonomy](epas-experienced-as-compliance-documentation.md) — a narrower finding that bears on this claim

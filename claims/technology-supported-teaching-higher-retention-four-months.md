@@ -80,3 +80,4 @@ Single-factor repeated-measures ANOVA for the control group; printed means pre-t
 - [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — related
 - [Learning cycle approach-based teaching produced higher retention test scores eight months after implementation](learning-cycle-higher-retention-8-months.md) — related
 - [Pronunciation gains from the Audio Articulation Method persisted at delayed post-test four weeks later](aam-gains-persist-delayed-posttest.md) — related
+- [Cohort 2022 showed significant gains from pre-test (4.3 ± 1.6) to post-test (7.6 ± 2.2) with retention at post-post-test (6.3 ± 2.4), and an 11.7% numerical decrease after the post-test that was not statistically significant](xr-cbl-cohort-2022-gains-retention.md) — related

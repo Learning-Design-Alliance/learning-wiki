@@ -56,3 +56,4 @@ MANOVA on CCTDI pretest/posttest scores across the three instructional groups sh
 - [Descriptive means moved in opposite directions: the treatment group's critical thinking disposition mean rose while the control group's fell](ctd-means-opposite-directions.md) — related
 - [Cognitive Maturity disposition scores significantly declined during the WISE Agent intervention, interpreted as de-centering of naive optimism](wise-agent-cognitive-maturity-decline.md) — related
 - [WISE Agent feedback significantly increased Truth-seeking and CT Self-confidence disposition scores](wise-agent-truth-seeking-self-confidence-gains.md) — related
+- [AI-enabled personalized teaching improved several CTDI-CV subdimensions but not critical thinking self-confidence or cognitive maturity](ctdi-cv-subdimension-effects-mixed.md) — related

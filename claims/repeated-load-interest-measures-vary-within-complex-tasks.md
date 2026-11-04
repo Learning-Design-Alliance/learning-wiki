@@ -65,3 +65,4 @@ Repeated-measures study of N = 360 lower-secondary students in chemistry lessons
 - [Lower secondary students' situation-specific engagement varies most strongly between lessons within students, with smaller between-student variation](engagement-varies-most-between-lessons-within-students.md) — related
 - [Group membership showed weak negative Pearson correlations with knowledge score and perceived interest](weak-negative-correlations-group-membership.md) — related
 - [Self-reported understanding of climate change correlates only weakly with measured climate science knowledge](weak-correlation-self-reported-measured-climate-knowledge.md) — related
+- [Perceived visualisation, understanding and self-assessment ratings of 3D IMs were strongly positively inter-correlated, while preference for physical models correlated weakly negatively](spearman-correlations-3d-im-likert-items.md) — related

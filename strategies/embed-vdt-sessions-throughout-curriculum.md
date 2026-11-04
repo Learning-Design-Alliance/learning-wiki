@@ -43,7 +43,8 @@ The review reports that VDT integration applied across entire academic curricula
 - [Student satisfaction with VDTs ranged from 64 to 95%, with preference for VDT-exclusive learning low (2.4–30.2%)](../claims/vdt-satisfaction-high-exclusive-preference-low.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Embed longitudinal planning scaffolds and time support at semester transitions in preclinical curricula](longitudinal-planning-scaffolds-transitions.md)
 
 ## Examples
 -

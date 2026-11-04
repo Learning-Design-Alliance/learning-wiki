@@ -54,3 +54,4 @@ Participant comment from Focus Group 1 within the Conceptual sub-theme, describi
 - [Students value discussion boards for shared understanding but some view them as unnecessary for factual anatomy knowledge](exploring-3d-anatomy-dialogue-knowledge-understanding.md) — related
 - [Medical students perceive Exploring 3D Anatomy as most valuable for novice learners, with advanced students requesting more clinical application](exploring-3d-anatomy-novice-advanced-theme.md) — related
 - [Learners split between strategic inquiry focused on assessment performance and exploratory inquiry valuing discovery and holistic understanding](exploring-3d-anatomy-strategic-exploratory-inquiry.md) — related
+- [Students perceived that producing visual material outputs helped them understand and explain abstract anatomical course content](sglm-perceived-visual-learning.md) — related

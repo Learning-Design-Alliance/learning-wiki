@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 127 claims (56 for, 67 mixed, 4 against) · 98 studies (54 causal, 17 review, 15 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 23 of 98 report an effect size · 118 claims rest on one study
+> **Evidence** · 128 claims (56 for, 68 mixed, 4 against) · 99 studies (55 causal, 17 review, 15 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 23 of 99 report an effect size · 119 claims rest on one study
 
 ## Conditional relationship
 
@@ -211,6 +211,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Pupils using the audio-and-image (AI) mode significantly outperformed pupils using the audio-image-text (AIT) mode on the music theory post-test](../claims/ai-mode-outperformed-ait-mode-music-theory.md) [+W]
 - [Animation-with-text CAI did not significantly outperform lecture method on solid geometry achievement](../claims/at-cai-not-significant-vs-lecture.md) [~W]
 - [Static and dynamic graphics produce equivalent learning gains for children learning from a multimedia science lesson](../claims/static-dynamic-graphics-equivalent-gains.md) [~W]
+- [No significant differences between video and presentation formats were found for the Simmons 2 and Headhunter catheters overall, or among experienced participants](../claims/no-format-difference-simmons-headhunter-experienced.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

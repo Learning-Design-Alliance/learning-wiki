@@ -51,3 +51,4 @@ ANCOVAs in Study 1 (160 Prolific participants, between-subject interaction forma
 - [In Desktop-VR, interaction format (object movement vs. camera movement vs. no interaction) showed no significant main effect on learning outcomes](no-main-effect-interaction-format-desktop-vr.md) — related
 - [Visuospatial ability moderated the effect of interaction format on difficult recognition in Desktop-VR, with camera movement benefiting higher-ability learners](vsa-moderates-difficult-recognition-desktop-vr.md) — related
 - [Higher-visuospatial-ability learners experienced lower motion sickness in Desktop-VR, with a tendency for an interaction with format](vsa-motion-sickness-desktop-vr.md) — related
+- [Baseline visuospatial ability independently predicted final camera navigation and hand–eye coordination performance](baseline-visuospatial-ability-predicts-laparoscopic-performance.md) — related

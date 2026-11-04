@@ -55,3 +55,4 @@ Meta-analysis of 25 studies reporting GPT-3.5 accuracy and 29 reporting GPT-4 ac
 - [GPT-3.5 achieves an integrated accuracy of 54% on dental licensing examinations](gpt-3-5-integrated-accuracy-54-percent-dental-licensing.md) — related
 - [GPT-4 significantly outperforms ChatGPT-3.5 in accuracy on national health licensing examinations](gpt4-outperforms-chatgpt35-licensing-exams.md) — related
 - [GPT-4 passed medical licensing examinations in 26 of 29 cases and outperformed average medical students in 13 of 17 cases, while GPT-3.5 passed in only 10 of 26 and surpassed students in 4 of 14](gpt4-pass-and-student-comparison-rates.md) — related
+- [LLMs with high question-level accuracy on medical licensing exam cases show substantially lower case-level accuracy, with consistency gaps of 10% to 17.9%](llm-consistency-gap-question-vs-case-level.md) — related

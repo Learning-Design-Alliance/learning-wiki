@@ -50,3 +50,5 @@ Multilevel random-effects meta-analysis of 48 studies (78 samples) reporting WIS
 - [Gender differences in fluid intelligence (gF) on the WISC are negligible, and newer fluid-reasoning subtests show no difference or favour females](wisc-fluid-intelligence-no-gender-difference.md) — related
 - [Gender differences on WISC subtests and factors are generally smaller or unchanged with newer WISC versions, never larger](wisc-newer-versions-smaller-gender-differences.md) — related
 - [Females outperform males on WISC processing speed (gS) with a medium advantage (d = -0.37), larger for Coding than Symbol search](wisc-processing-speed-female-advantage.md) — related
+- [Male students scored significantly higher than female students on total knowledge score, with a negligible standardized effect](gender-difference-clinical-surgical-knowledge-syria.md) — related
+- [Male students report slightly higher SDL-R than female students, with small effect sizes and no difference in interpersonal communication](sex-differences-sdlr-small-effect-sizes.md) — related

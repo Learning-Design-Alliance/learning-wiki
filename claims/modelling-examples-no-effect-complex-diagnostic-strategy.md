@@ -76,3 +76,4 @@ ANOVA on posttest-only measures (second diagnosis, intrinsic, germane, and extra
 - [Adding modeling videos and prompts during video analysis does not improve posttest or follow-up professional vision outcomes beyond the basic VLE](modeling-videos-prompts-no-additional-vision-gains.md) — related
 - [Resident self-explanation with prompts produced a large improvement in diagnostic performance compared with solving word puzzles](self-explanation-prompts-beats-word-puzzles-diagnostic-performance.md) — related
 - [On camera doctor defect-diagnosis questions the conditions did not differ overall, but DAA students generated better malfunction explanations](daa-camera-doctor-description-advantage.md) — related
+- [Experienced learners reported lower confidence in recognizing complications after video-based teaching, which the authors attribute to videos showing only ideal scenarios](video-lower-complication-confidence-experienced.md) — related

@@ -52,3 +52,4 @@ OLS regressions of questionnaire items on global satisfaction by gender (Table 3
 - [Tutor contribution is important for female students' global satisfaction but irrelevant for male students](tutor-contribution-female-satisfaction.md) — related
 - [Solving practical cases influences female students' global satisfaction but not male students', despite similar ratings of that aspect](practical-cases-influence-female-satisfaction.md) — related
 - [Regression models explain approximately 75 percent of variability in students' global satisfaction with e-learning courses](regression-models-explain-75-percent-e-learning-satisfaction.md) — related
+- [Students rated course content (68.6% substantial) and teaching quality (64.5% satisfied) more positively than method diversity (52.8%) and encouragement to participate (50.0%)](content-rated-above-interactive-teaching-dimensions.md) — related

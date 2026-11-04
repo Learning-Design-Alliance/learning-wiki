@@ -63,6 +63,7 @@ The review recommends treating CPR education as an ongoing, reinforcement-based 
 - [Schedule deliberate practice with repetitive reinforcement sessions to sustain NTS knowledge and behaviors over time](deliberate-practice-reinforcement-nts-retention.md)
 - [Use targeted educational interventions — continuing education, dissection courses, generative retrieval and integrated anatomy training — to sustain basic science retention](targeted-interventions-sustain-basic-science-retention.md)
 - [Encourage continuous school-based CPR training with refresher courses, supported by policymakers, schools, parents and teachers](continuous-school-cpr-training-with-refreshers.md)
+- [Provide regular, periodic refresher training on frailty rather than one-time orientation programs](regular-frailty-refresher-training-strategy.md)
 
 ## Examples
 -

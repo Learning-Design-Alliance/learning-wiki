@@ -1,0 +1,52 @@
+---
+type: claim
+title: Regression confirms robust intervention effect after covariate adjustment (B=3.924)
+description: Regression confirms robust intervention effect after covariate adjustment (B=3.924)
+id: llm-vsp-regression-robust-effect
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: stone-alicia-2026
+    resource: "https://doi.org/10.2196/92486"
+    title: "Stone Alicia, Vicente Maria Asuncion, Xia Oudong, He Yuchen, Chen Chen, Yin Rong, Zhang Wuyang, Chang Haoli, Yang Wei, Li Fei, Li Xinhua, Xia Zhuying, Xie Xiaoyun, Huang Jing, Zeng Qiuming, Yang Guang, Wu Jing. (2026). Effect of Large Language Model–Powered Virtual Standardized Patients on History-Taking Among Undergraduate Medical Students: Propensity-Matched Cohort Study. JMIR Medical Education. https://doi.org/10.2196/92486"
+    author: Stone Alicia, Vicente Maria Asuncion, Xia Oudong, He Yuchen, Chen Chen, Yin Rong, Zhang Wuyang, Chang Haoli, Yang Wei, Li Fei, Li Xinhua, Xia Zhuying, Xie Xiaoyun, Huang Jing, Zeng Qiuming, Yang Guang, Wu Jing
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Regression confirms robust intervention effect after covariate adjustment (B=3.924)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` The intervention effect remained significant after adjusting for baseline scores, sex, major, and test case (B=3.924, P<.001; R²=0.708). [→ Stone Alicia 2026](#stone-alicia-2026)
+
+## Evidence
+
+### Stone Alicia 2026
+
+Stone Alicia, Vicente Maria Asuncion, Xia Oudong, He Yuchen, Chen Chen, Yin Rong, Zhang Wuyang, Chang Haoli, Yang Wei, Li Fei, Li Xinhua, Xia Zhuying, Xie Xiaoyun, Huang Jing, Zeng Qiuming, Yang Guang, Wu Jing. (2026). Effect of Large Language Model–Powered Virtual Standardized Patients on History-Taking Among Undergraduate Medical Students: Propensity-Matched Cohort Study. JMIR Medical Education. https://doi.org/10.2196/92486
+
+`q3 · i?` · `causal · r2`
+
+Multivariate linear regression on the matched sample (n=80) adjusting for baseline test scores, sex, academic major, and final test case. The article reports "B=3.924; P<.001" and R²=0.708; no standardized effect size is printed for the group coefficient.
+
+> "Following adjustment for covariates (baseline test scores, sex, academic major, and final test cases), the intervention effect remained statistically significant (B=3.924; P<.001). The model’s coefficient of determination R2 reached 0.708, indicating that the model explained the majority of the variance in final MHT assessment scores."
+
+## Discussion
+
+
+## Related Claims
+- [LLM-VSP advantages appear in both content and communication skills subscores](llm-vsp-content-and-skills-subscores.md) — related
+- [LLM-VSP self-practice improves medical history-taking performance in matched comparison (Cohen d=0.52)](llm-vsp-improves-history-taking-matched.md) — a broader claim this one bears on
+- [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related
+- [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related
+- [Intervention students had significantly greater improvement in all skills after adjusting for demographic and school characteristics (regression coefficients β = 0.17–0.44)](steps-for-life-adjusted-regression-gains.md) — related

@@ -70,3 +70,4 @@ Session 2 final-response analysis: main final accuracy significantly improved, �
 - [Students become faster and more accurate in equation rearrangement over a short practice session even without feedback](short-practice-improves-equation-rearrangement.md) — related
 - [The student model rapidly adapts to a child's knowledge level, reaching the first key skill after about 148 tasks](rapid-adaptation-to-learner-knowledge-level.md) — related
 - [UP improvement over repeated XR sessions is greater and faster for ventriculostomy than for tumor resection](procedure-variability-moderates-xr-learning-gains.md) — related
+- [Scoring accuracy reaches its peak by the third practice session, with no further significant gains afterward](third-practice-session-learning-threshold.md) — related

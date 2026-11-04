@@ -56,3 +56,4 @@ SEM path from Table 3: growth math mindset to academic grit β=0.593, p<0.01; th
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [Teachers who are effective at improving academic behaviors and mindsets are often not the same teachers who raise math test scores](teacher-effectiveness-noncognitive-uncorrelated-test-scores.md) — related
 - [Growth mindset interventions improve math outcomes, particularly for disadvantaged and high-risk students, but effects depend on a supportive teacher-mindset context](growth-mindset-interventions-conditional-teacher-context.md) — related
+- [Growth mindset correlates positively with grit and grit correlates positively with mathematics achievement](growth-mindset-grit-correlations.md) — a broader claim this one bears on

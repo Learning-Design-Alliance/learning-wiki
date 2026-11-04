@@ -18,7 +18,7 @@ moved_from: [principle/situated-learning]
 # Situated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 24 claims (17 for, 5 mixed, 2 against) · 24 studies (8 causal, 6 qualitative, 5 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 3 of 24 report an effect size · 22 claims rest on one study
+> **Evidence** · 25 claims (18 for, 5 mixed, 2 against) · 25 studies (8 causal, 7 qualitative, 5 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 3 of 25 report an effect size · 23 claims rest on one study
 
 ## Description
 Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used. Learning is strengthened when it happens through participation in authentic practices rather than only through abstract decontextualized instruction.
@@ -55,6 +55,7 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Students in the situated learning environment reported mostly positive perceptions, including improved communication, pronunciation, learning, and motivation](../claims/positive-student-perceptions-situated-learning-vocational-english.md) [+W] — attached 2026-11-03 from Melike Özüdoğru (2017), which proposed "Situated learning environments defined by nine critical characteristics (Herrington & Oliver framework)".
 - [Situated learning instruction did not produce a statistically significant post-test achievement advantage over traditional instruction in vocational English vocabulary](../claims/situated-learning-no-significant-posttest-advantage-vocational-english.md) [-W] — attached 2026-11-03 from Melike Özüdoğru (2017), which proposed "Situated learning environments defined by nine critical characteristics (Herrington & Oliver framework)"; tests this page's relationship.
 - [Some students perceived the weekly situated learning assignments as time-consuming and overly challenging](../claims/situated-learning-assignments-perceived-time-consuming-challenging.md) [~W]
+- [Students valued HoloLens for shared, instructor-guided collaborative learning, especially synchronized faculty pointing at structures](../claims/hololens-shared-instructor-guided-learning.md) [+W] — attached 2026-11-04 from Lin Joseph et al. (2026), which proposed "Situated Learning Theory as an analytic framework for mixed-reality anatomy instruction".
 
 ## The evidence by question
 - *Does instruction built around authentic tasks and contexts produce better learning and transfer than abstract, decontextualized instruction?* [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](../claims/authentic-assignments-greater-itbs-gains.md) [+M]

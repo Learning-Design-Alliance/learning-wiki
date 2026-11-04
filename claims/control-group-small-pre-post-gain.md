@@ -52,3 +52,4 @@ Paired-samples t-test on the control group (N = 20) reported in Tables 4 and 5: 
 - [The combined (traditional plus active learning) teaching method significantly improved pre-to-post knowledge scores](combined-method-significant-pre-post-gain.md) — related
 - [The control group taught by the traditional method showed no significant pre-test to post-test improvement](traditional-group-no-vocabulary-gain.md) — reports the opposite
 - [Pre-post score correlations were near-perfect in the experimental group (r = .990) and moderate in the control group (r = .63)](paired-correlations-experimental-control-groups.md) — related
+- [Both e-lecturing and eHistoLab instruction significantly improved histology knowledge from pre-test to post-test](both-methods-improved-histology-knowledge.md) — related

@@ -48,3 +48,4 @@ Two-sample t-tests of Teacher Satisfaction Survey scores (22 items, coefficient 
 - [Students in experienced-teacher (Cohort 1) classrooms reported significantly higher satisfaction with SBI than students in novice-teacher (Cohort 2) classrooms](sbi-student-satisfaction-cohort-difference.md) — related
 - [Teacher experience with SBI did not significantly affect fidelity of implementation, as both experienced and novice implementers achieved similar fidelity scores](sbi-teacher-experience-no-fidelity-effect.md) — related
 - [Neither PD approach changed teacher perceptions of teaching or attitudes towards teaching](pd-no-change-teacher-perceptions.md) — related
+- [No survey item differed significantly between the two clinical teaching bases; all categorical effect sizes were negligible (|Cohen's h| ≤ 0.143)](no-between-centre-differences-negligible-effect-sizes.md) — related

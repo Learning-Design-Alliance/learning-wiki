@@ -1,0 +1,51 @@
+---
+type: claim
+title: A two-round modified Delphi process with 19 emergency experts produced a three-tier core competency indicator system of 5 first-level, 14 second-level and 34 third-level indicators for emergency residency training in China
+description: A two-round modified Delphi process with 19 emergency experts produced a three-tier core competency indicator system of 5 first-level, 14 second-level and 34 third-level indicators for emergency residency training in...
+id: delphi-emergency-residency-indicator-system-5-14-34
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: yu-caixia-2026
+    resource: "https://doi.org/10.1186/s12909-026-09876-3"
+    title: "Yu Caixia, Guo Wanwei, Yu Linna, Huang Chongming, Zhao Guoxiang. (2026). Development of core competency indicators for emergency medicine residents based on the competency model: a Delphi and analytic hierarchy process study. BMC Medical Education. https://doi.org/10.1186/s12909-026-09876-3"
+    author: Yu Caixia, Guo Wanwei, Yu Linna, Huang Chongming, Zhao Guoxiang
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 3
+---
+
+# A two-round modified Delphi process with 19 emergency experts produced a three-tier core competency indicator system of 5 first-level, 14 second-level and 34 third-level indicators for emergency residency training in China
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Two rounds of Delphi consultation with 19 experts from 11 tertiary hospitals yielded a final system of 5 first-level indicators, 14 second-level indicators, and 34 third-level indicators organized under the iceberg competency model. [→ Yu Caixia 2026](#yu-caixia-2026)
+
+## Evidence
+
+### Yu Caixia 2026
+
+Yu Caixia, Guo Wanwei, Yu Linna, Huang Chongming, Zhao Guoxiang. (2026). Development of core competency indicators for emergency medicine residents based on the competency model: a Delphi and analytic hierarchy process study. BMC Medical Education. https://doi.org/10.1186/s12909-026-09876-3
+
+`q2 · i?` · `design · r3`
+
+A two-round modified Delphi study with 19 emergency medicine experts from 11 tertiary hospitals across four regions of China, preceded by a literature review and semi-structured interviews. The article reports: "This resulted in 5 first-level indicators, 14 s-level indicators, and 34 third-level indicators."
+
+> "Following this, the research team held discussions based on the feedback from both Delphi rounds and finalized the indicator system. This resulted in 5 first-level indicators, 14 s-level indicators, and 34 third-level indicators."
+
+## Discussion
+
+
+## Related Claims
+- [AHP weighting placed skill highest (0.405) among first-level dimensions, with implicit competencies (self-concept, trait, motivation) jointly carrying 53% of total weight](ahp-weights-skill-highest-implicit-53-percent.md) — related
+- [The indicator system's predictive validity — whether scores correlate with clinical performance and patient outcomes — remains unverified and requires future multi-center testing](indicator-system-predictive-validity-unverified.md) — related
+- [Semi-structured interviews with senior emergency specialists surfaced implicit competency indicators, such as stress resilience and rapid communication skills, not fully captured in the literature](interviews-surfaced-implicit-indicators-stress-resilience.md) — related
+- [A modified Delphi needs assessment with 26 stakeholders identified areas of convergence and divergence that informed the core competencies](delphi-needs-assessment-long-covid-competencies.md) — related

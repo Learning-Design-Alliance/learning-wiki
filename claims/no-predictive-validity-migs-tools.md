@@ -50,3 +50,4 @@ Systematic review synthesis across all 72 included studies and all 37 tools. The
 - [The majority of automated performance metrics in gynecological surgery have limited validity evidence, hindering transferability outside research settings](apms-limited-validity-evidence.md) — related
 - [Only two of 37 objective assessment tools in minimally invasive gynecological surgery showed substantial evidence of validity](only-two-migs-tools-substantial-validity.md) — related
 - [Only two of the included studies demonstrated predictive validity of their metrics for live robotic hysterectomy performance.](limited-predictive-validity-two-studies.md) — related
+- [The indicator system's predictive validity — whether scores correlate with clinical performance and patient outcomes — remains unverified and requires future multi-center testing](indicator-system-predictive-validity-unverified.md) — related

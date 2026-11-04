@@ -47,3 +47,4 @@ Qualitative phase of the explanatory sequential mixed method: semi-structured in
 ## Related Claims
 - [Experimental-group students perceived the MPS as increasing interactivity, supporting multimodal-integrated learning, and making instruction more student-centered](mps-perceived-interactivity-student-centered.md) — related
 - [Interviewed students reported increased motivation and learning support from mobile learning, alongside technical problems](mobile-learning-student-views-motivation-technical-issues.md) — related
+- [Blended learning with demonstration videos provides deeper understanding of pharmacology subject matter](blended-videos-deeper-understanding-pharmacology.md) — related

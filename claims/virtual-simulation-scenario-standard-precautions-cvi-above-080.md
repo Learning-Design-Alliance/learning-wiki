@@ -50,3 +50,4 @@ Expert validation study using a researcher-developed Likert-type questionnaire o
 - [Content validity of the HLC-N exceeds recommended thresholds (I-CVI 0.813–1.00; S-CVI/Ave 0.952)](hlc-n-content-validity-cvi.md) — related
 - [Scenario revision changed 'Materials to be selected' to 'Materials and actions to be selected' at the request of two experts](scenario-revision-materials-and-actions-item.md) — related
 - [A local-wisdom-based social studies learning model is judged feasible by expert panels, with CVR > 0 on every assessed item](local-wisdom-model-expert-feasibility-cvr.md) — related
+- [A simulated scenario for pediatric EVD management built with RCDP achieved excellent content validity from seven expert reviewers across two assessment rounds](rcdp-evd-scenario-content-validity.md) — related

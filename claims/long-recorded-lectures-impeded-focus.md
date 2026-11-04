@@ -66,3 +66,4 @@ Case study data: a biology student described retaining little across 20-minute v
 - [Students overwhelmingly preferred video materials over text materials for learning technical ESP content](student-preference-video-over-text-esp.md) — related
 - [Lecturer-generated summaries spliced into online video lectures improve student recall of lecture content on quizzes](lecturer-generated-summaries-improve-video-recall.md) — related
 - [Students perceive lecturer-generated summaries in video lectures as helpful for review, note-taking, and maintaining attention](student-perceptions-of-video-summaries-positive.md) — related
+- [Distraction during lecture was reported only by slideshow participants, suggesting VR is more engaging](vr-more-engaging-fewer-distractions.md) — related

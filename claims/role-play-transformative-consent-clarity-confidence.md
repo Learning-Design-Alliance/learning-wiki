@@ -50,3 +50,4 @@ Thematic analysis following Braun and Clarke's framework of a focus group with s
 - [Plotting experience against OSCE results showed no effect of years of emergency department experience on consent-taking skill scores](ed-experience-no-effect-osce-consent.md) — related
 - [Lecture-based and 4C/ID-based training produced comparable knowledge retention among emergency care professionals](no-knowledge-difference-lecture-vs-4cid-consent-training.md) — related
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
+- [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related

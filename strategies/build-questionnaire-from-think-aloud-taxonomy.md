@@ -46,6 +46,7 @@ The article recommends building questionnaires so that each item corresponds to 
 ## Related Strategies
 
 - [Have respondents think aloud while completing a questionnaire, and interview them afterwards, to diagnose item interpretation problems](think-aloud-during-questionnaire-completion.md)
+- [Use cognitive interviewing with think-aloud and verbal probing to evaluate established questionnaires in new linguistic and educational contexts, revising conservatively](cognitive-interviewing-instrument-adaptation-strategy.md)
 
 ## Examples
 -

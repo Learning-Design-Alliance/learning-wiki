@@ -57,3 +57,4 @@ Internal consistency and variability analysis of the eight SAICS dimensions in t
 - [The GISA shows moderately strong convergent validity with the six RISE subtests (r = .71 to .77)](gisa-convergent-validity-rise-subtests.md) — related
 - [Correlations between socioemotional skills dimensions are statistically significant and mostly high, ranging from 0.91 to 0.17, with Problem Solving most correlated with other dimensions](socioemotional-dimension-correlations-range-091-to-017.md) — related
 - [Changes across the eleven skill dimensions were positively inter-correlated in the intervention group (all p < .001)](steps-for-life-skill-change-correlations.md) — related
+- [The three measurement instruments show acceptable reliability and validity in this sample](measurement-model-cfa-reliability-validity.md) — related
