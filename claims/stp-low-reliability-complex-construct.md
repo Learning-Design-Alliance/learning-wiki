@@ -82,3 +82,4 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement — related
 - The proposed coding scheme achieves high inter-rater reliability across design object, design move, and communication move dimensions — related
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — related
+- [Mistral 7B shows high ICCs but low Fleiss kappa when scoring summary statements](mistral-7b-high-icc-low-fleiss-kappa.md) — related

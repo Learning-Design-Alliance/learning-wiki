@@ -90,3 +90,4 @@ Discussion-level interpretation (attributed by the review to Hamilton et al., 20
 - [Digital learning platforms and virtual learning environments enhance knowledge retention and flexibility in orthodontic education](digital-platforms-enhance-orthodontic-knowledge-retention.md) — related
 - [VR-based UAV flight training (DroneSim) offers comparable or superior results to real-world building inspection training](dronesim-vr-uav-training-comparable-results.md) — reports the opposite
 - [A social collaborative VR-based construction safety education system enhances experiential safety learning](social-collaborative-vr-enhances-safety-learning.md) — related
+- [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related

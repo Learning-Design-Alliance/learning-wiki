@@ -58,3 +58,4 @@ Randomized controlled experiment at Texas A&M University with 179 participants, 
 - [LLM-enhanced feedback did not yield a statistically significant improvement in final grades compared with traditional AI feedback](llm-feedback-no-significant-grade-gain.md) — related
 - [Solving context-personalized AI-generated tasks yields higher learning performance than solving standard tasks](gai-personalized-tasks-learning-performance.md) — related
 - [LLM use as an educational resource showed mixed effects on student learning outcomes compared with conventional methods](llm-educational-resource-mixed-learning-effects.md) — a broader claim this one bears on
+- [AI-assisted group achieved significantly higher post-rotation AI scores than the traditional group (adjusted mean difference 2.058 points, p = 0.041)](ai-assisted-group-higher-post-rotation-scores-ancova.md) — related

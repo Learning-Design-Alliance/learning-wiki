@@ -46,7 +46,8 @@ Systematic review following PRISMA with PROSPERO registration, analyzing 12 stud
 
 
 ## Related Claims
-- [Fidelity to SBAR moderates communication clarity improvements: classroom studies show higher fidelity and larger gains than clinical-setting studies](sbar-fidelity-moderates-clarity-gains.md) — related
+- [Earlier studies of SBAR reported 71–87% fidelity with moderate to considerable clarity gains in classrooms, and 53–83% fidelity with no or moderate gains in clinical settings](sbar-fidelity-moderates-clarity-gains.md) — related
 - [The evidence base on SBAR-based simulation for nursing students comprises 12 studies with 886 participants, most rated weak in methodological quality](sbar-simulation-evidence-base-weak-quality.md) — related
 - [Effects of SBAR-based simulation on communication ability, critical thinking, confidence, learning self-efficacy, and attitude toward patient safety are divergent across studies](sbar-simulation-divergent-other-outcomes.md) — related
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](sbar-structured-communication-in-simulation.md) — related
+- [Role-playing simulation with SBAR-based observation improves nurse-patient communication behaviors among nursing students](role-play-sbar-improves-nurse-patient-communication.md) — related

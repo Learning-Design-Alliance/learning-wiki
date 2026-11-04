@@ -48,3 +48,4 @@ EPHPP quality appraisal of the 12 included studies by two independent reviewers.
 - [SBAR-based simulation programs produce significant improvements in communication clarity for nursing students in six of twelve reviewed studies](sbar-simulation-improves-communication-clarity-nursing-students.md) — related
 - [Effects of SBAR-based simulation on communication ability, critical thinking, confidence, learning self-efficacy, and attitude toward patient safety are divergent across studies](sbar-simulation-divergent-other-outcomes.md) — related
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](sbar-structured-communication-in-simulation.md) — related
+- [Role-playing simulation with SBAR-based observation improves nurse-patient communication behaviors among nursing students](role-play-sbar-improves-nurse-patient-communication.md) — related

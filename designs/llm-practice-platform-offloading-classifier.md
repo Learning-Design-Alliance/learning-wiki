@@ -43,6 +43,7 @@ The article built a custom web platform (React frontend, Python backend, Postgre
 
 - [Purpose-built no-code vibe-coding research platform for controlled experimentation](no-code-vibe-coding-research-platform.md)
 - [Custom GenAI writing platform with 30-word prompt limit and copy-paste disabled](deepseek-abstract-writing-platform-constrained-prompts.md)
+- [Custom-built web application integrating an AI chatbot into a three-part diagnostic reasoning case](ai-integrated-diagnostic-reasoning-web-application.md)
 
 ## Examples
 -

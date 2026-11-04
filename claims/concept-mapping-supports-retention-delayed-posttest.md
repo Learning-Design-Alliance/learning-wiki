@@ -50,3 +50,4 @@ Delayed post-test administered five days after the unit. Treatment group showed 
 - [Within-group score changes across pre-test, post-test and retention test were significant in both pretested groups, with larger variance explained in the experimental group](7e-within-group-gains-anova.md) — related
 - [Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests](vocabulary-forgetting-pattern-decline-then-rise.md) — related
 - [Recognition scores exceed production scores and immediate posttest scores exceed delayed posttest scores](recognition-exceeds-production-and-immediate-exceeds-delayed.md) — related
+- [TBDM's advantage over TMBM was smaller at the one-week delayed assessment (9.75 points) than at the immediate assessment (14.17 points)](tbdm-advantage-smaller-at-delayed-assessment.md) — related

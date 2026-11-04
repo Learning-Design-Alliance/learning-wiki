@@ -47,6 +47,7 @@ At the institutional level, the article recommends "training interventions for s
 - [Provide explicit teaching of SRL methods as structured guidance for regulating learning in online and blended settings](explicit-teaching-srl-methods-online-blended.md)
 - [Advise students to plan their study days, use breaks between lectures for independent study, prevent procrastination, and invest effort](advise-students-plan-breaks-effort-avoid-procrastination.md)
 - [University teachers should act as role models by explicitly communicating lecture goals and time plans and reminding students to start exam preparation early](teachers-role-models-communicate-goals-time-plans.md)
+- [Adopt flexible, competency-based attendance policies and flipped classrooms for senior medical students](flexible-attendance-flipped-classroom-senior-students.md)
 
 ## Examples
 -

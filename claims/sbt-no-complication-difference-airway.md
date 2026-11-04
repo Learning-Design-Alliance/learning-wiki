@@ -49,3 +49,4 @@ Narrative synthesis of complication outcomes across seven studies; pooling was d
 - [Simulation-based training shows no significant benefit over non-simulation based training for time-skill in airway management](sbt-no-time-skill-benefit-airway.md) — related
 - [Simulation-based training shows no significant benefit over non-simulation based training for knowledge acquisition in airway management](sbt-no-knowledge-benefit-airway.md) — related
 - [Simulation-based training produces a small improvement in behavior performance compared with non-simulation based training for airway management](sbt-small-behavior-performance-benefit-airway.md) — related
+- [No significant difference in successful intubation rate or esophageal intubation rate before and after simulation training](simulation-no-significant-success-rate-change.md) — related

@@ -72,3 +72,4 @@ Theoretical argument in a conceptual essay: assessment systems treated artefacts
 - [ChatGPT-assisted students reported substantially lower ownership of their submitted code across self-attributed ownership, psychological ownership, and authorship attribution](chatgpt-lower-code-ownership.md) — related
 - [Participants report AI-generated database diagrams were less accurate than what students had previously produced, cautioning against assuming AI artifacts are better](ai-database-diagrams-less-accurate.md) — a narrower finding that bears on this claim
 - [Lack of active involvement in problem-solving decreased participants' satisfaction with AI-generated essays](ai-essay-scaffolding-reduced-satisfaction-from-lack-involvement.md) — related
+- [Assessments requiring creative or critical thinking fall below a 50% solvability threshold for LLMs, per Akbar](creative-critical-thinking-below-50-percent-llm-solvability.md) — related

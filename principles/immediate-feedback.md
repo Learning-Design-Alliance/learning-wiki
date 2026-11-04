@@ -26,7 +26,7 @@ sources:
 # Immediate Feedback
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (10 for, 16 mixed, 2 against) · 36 studies (12 review, 9 causal, 6 quant-synthesis, 5 qualitative, 3 theoretical, 1 design), `q1`–`q4` · 3 of 36 report an effect size · 22 claims rest on one study
+> **Evidence** · 32 claims (13 for, 17 mixed, 2 against) · 37 studies (12 review, 10 causal, 6 quant-synthesis, 5 qualitative, 3 theoretical, 1 design), `q1`–`q4` · 3 of 37 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -111,6 +111,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Thematic analysis of open responses surfaced four themes: immediacy as core value, calibrated trust, pinpointing the mistake, and progress and control](../claims/four-qualitative-themes-genai-practice-feedback.md) [+W] — attached 2026-10-11 from Lili Chen et al. (2026), which proposed "Decouple feedback immediacy from solution verification: keep the human in the loop upstream at answer verification, not at the point of grading".
 - [Immediate feedback reduces multiple-choice lure production on later tests, and the overall positive effect of testing outweighs negative consequences](../claims/feedback-reduces-lure-production.md) [+W] — attached 2026-10-16 from Marsh et al. (2007), which proposed "Design multiple-choice testing to include immediate feedback, a don't-know option with penalties, and varied question formats to reduce the learning of false facts"; tests this page's relationship.
+- [Real-time feedback training increases compliance with the combined compression rate-and-depth target in hands-only CPR among medical students](../claims/real-time-feedback-improves-compression-target-hands-only-cpr.md) [+W] — attached 2026-11-04 from Piñeros-Alvarez JL et al. (2026), which proposed "Integrate real-time feedback devices into CPR training to optimize skill acquisition"; tests this page's relationship.
+- [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](../claims/real-time-feedback-no-ventilation-improvement.md) [~W] — attached 2026-11-04 from Piñeros-Alvarez JL et al. (2026), which proposed "Integrate real-time feedback devices into CPR training to optimize skill acquisition"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -134,6 +136,8 @@ Accuracy during practice, delayed retention, transfer and the learner's wish for
 - [Corrections were less effective after a two-week delay than immediately for both formats (belief regression)](../claims/belief-regression-two-week-delay-both-formats.md) [~W]
 - [In the laboratory experiment, feedback order effects on next-day recognition were specific to congruent trials, with a trend for feedback boosting incongruent-item memory regardless of timing](../claims/exp1-congruent-specific-feedback-memory-interaction.md) [~W]
 - [Mental practice shows no effect on movement duration, and feedback timing shows no significant effect on post-acquisition or retention performance](../claims/movement-duration-and-feedback-null-findings.md) [-W]
+- [Real-time feedback training improves compression depth control within the recommended 5–6 cm range in hands-only CPR](../claims/real-time-feedback-improves-compression-depth-hands-only.md) [+W]
+- [Real-time feedback training improves the compression target and depth control in 30:2 CPR cycles](../claims/real-time-feedback-improves-compression-30-2-cycles.md) [+W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — immediate feedback is one of the most actionable forms of formative assessment.

@@ -40,6 +40,7 @@ The report recommends that a future adult-learning study "should first examine w
 
 - [Conduct field studies of GenAI-assisted coding under realistic development conditions, explicitly accounting for team structure, project complexity, and organizational processes.](field-studies-realistic-genai-development-conditions.md)
 - [Document prior research on a solution, starting from community-needs assessment efforts, before planning future evaluations](document-prior-research-before-evaluation.md)
+- [Evaluate AI-assisted training with a post-training unaided assessment on a separate radiograph set](post-training-unaided-evaluation-strategy.md)
 
 ## Examples
 -

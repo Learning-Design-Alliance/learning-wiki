@@ -49,3 +49,4 @@ Two-way mixed ANOVA (PrePost within, Group between) on student questionnaire rat
 - [Student-reported engagement, instructor enthusiasm, and helpful feedback improved across a semester in both trained and untrained sections, suggesting rapport effects independent of UDL training](semester-rapport-improves-engagement-items.md) — related
 - [For several UDL items the intervention group showed significantly greater pre-to-post change than the control group (significant PrePost x Group interactions)](udl-training-prepost-group-interactions.md) — related
 - [Both groups increased in beginning lectures with an outline, but the intervention group showed significantly more change (Q7)](udl-training-outline-item-interaction.md) — related
+- [Intervention students rate knowledge translation, planning, communication confidence and career development value higher than control students](video-production-boosts-communication-confidence-and-career-perception.md) — related

@@ -44,6 +44,7 @@ To help students instruct the LLM effectively, the methodology applies three est
 ## Related Strategies
 
 - [Translate deductive coding rubrics into structured zero-shot prompts to compare LLM coding against human coding](zero-shot-prompt-codebook-translation-strategy.md)
+- [Use few-shot prompting with chain-of-thought and annotated rubric examples for LLM-based scoring of learner-generated clinical text](few-shot-cot-annotated-rubric-prompting-strategy.md)
 
 ## Examples
 -

@@ -73,3 +73,4 @@ WestEd-reported student survey perceptions of the social worker added to each ca
 - [Math proficiency rose in West Kern Consortium districts after the community schools initiative, with three districts exceeding the county average in 2024–25](west-kern-math-proficiency-gains.md)
 - [Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability](mentorship-gap-barrier-first-generation-chemists.md) — related
 - [Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs](rtap-mentorship-value-and-variability.md) — related
+- [Over 65% and 90% of graduates agreed mentorship programs and practical exposures would improve MPH programs; over 90% agreed on problem solving skills](graduates-recommend-mentorship-practical-exposure-problem-solving.md) — related

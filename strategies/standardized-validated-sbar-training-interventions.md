@@ -39,14 +39,15 @@ The review's forward-looking recommendations are that "standardized and validate
 
 ## Claims
 
-- [Fidelity to SBAR moderates communication clarity improvements: classroom studies show higher fidelity and larger gains than clinical-setting studies](../claims/sbar-fidelity-moderates-clarity-gains.md) [+W]
+- [Earlier studies of SBAR reported 71–87% fidelity with moderate to considerable clarity gains in classrooms, and 53–83% fidelity with no or moderate gains in clinical settings](../claims/sbar-fidelity-moderates-clarity-gains.md) [+W]
 - [Effects of SBAR-based simulation on communication ability, critical thinking, confidence, learning self-efficacy, and attitude toward patient safety are divergent across studies](../claims/sbar-simulation-divergent-other-outcomes.md) [+W]
 - [The evidence base on SBAR-based simulation for nursing students comprises 12 studies with 886 participants, most rated weak in methodological quality](../claims/sbar-simulation-evidence-base-weak-quality.md) [+W]
 - [SBAR-based simulation programs produce significant improvements in communication clarity for nursing students in six of twelve reviewed studies](../claims/sbar-simulation-improves-communication-clarity-nursing-students.md) [+W]
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](../claims/sbar-structured-communication-in-simulation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use an SBAR-inspired observation grid to structure and assess nurse-patient communication during simulation](sbar-grid-assess-patient-communication-simulation.md)
 
 ## Examples
 -

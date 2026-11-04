@@ -49,3 +49,4 @@ The review reports, citing Hossain et al. (2022), that "TBL showed significantly
 - [Included studies report positive correlations between TBL participation and assessment performance, with i-RAT scores predicting final examination performance](tbl-participation-correlates-assessment-performance.md) — related
 - [Student preference for CBL, PBL or TBL over traditional teaching was reported in 15 of 22 studies (68.1%), but only two studies used a controlled comparison with lecture](preference-over-lecture-15-studies-only-two-controlled.md) — related
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — related
+- [RAT was preferred over PowerPoint-based lectures across all nine comparative pedagogical domains, ranging from 55.3% (self-paced learning) to 84.0% (curriculum integration)](rat-preferred-over-powerpoint-all-nine-domains.md) — related

@@ -56,6 +56,7 @@ The authors recommend that in clinical teaching settings educators employ case-b
 - [Combine the PBL and ATI models with different approaches for optimal results](combine-pbl-and-ati-models-strategy.md)
 - [Case study method combined with project method for developing independent cognitive activity](case-study-project-method-informatics.md)
 - [Use case-based learning as a basis for developing curricula to improve cognitive, social and affective skills](cbl-as-curriculum-basis-strategy.md)
+- [Use combined PBL-CBL teaching in clinical settings where direct patient exposure is limited](pbl-cbl-for-limited-patient-exposure-settings.md)
 
 ## Examples
 -

@@ -61,3 +61,4 @@ Authors' interpretation in the Discussion connecting the RQ2 modification result
 - [Students use self-initiated strategies of verification, skill improvement, post-editing, pre-editing and reliance management to cope with GenAI challenges](genai-translation-self-initiated-coping-strategies.md) — related
 - [Classroom verification norm is predicted to show threshold behavior and hysteresis rather than a smooth response to teacher-set requirements](verification-norm-threshold-hysteresis-prediction.md) — related
 - [Participants with prior coding and AI experience benefited more from AI-featured computational activities than those with limited experience](prior-experience-moderates-ai-scaffolding-benefit.md) — related
+- [Pilot students began shifting from output-oriented toward mechanism-based explanations](pilot-shift-toward-mechanism-based-explanations.md) — related

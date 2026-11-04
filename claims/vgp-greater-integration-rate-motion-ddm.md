@@ -51,3 +51,4 @@ Drift diffusion model fits to individual subjects' RT and accuracy data in Exper
 - [A single-parameter change in feed-forward connection strength in a neural decision model captures VGP behavior, including faster RTs with stable accuracy](neural-model-single-parameter-feedforward-captures-vgp.md) — related
 - [According to a probabilistic population neural model, VGPs make better use of the evidence, with log odds 19% higher than NVGPs in the motion task](vgp-better-posterior-log-odds-motion.md) — related
 - [Fifty hours of action video-game training causally improves probabilistic inference in non-gamers, with better use of evidence only in the action-trained group](action-training-causal-probabilistic-inference.md) — related
+- [Junior 1, a regular video game player, showed the lowest hand motion values and greatest reduction in motion metrics, possibly reflecting dexterity transfer from gaming](video-gaming-dexterity-transfer-robotic-surgery.md) — related

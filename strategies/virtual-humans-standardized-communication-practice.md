@@ -48,6 +48,7 @@ The article recommends virtual human simulation as a means of providing "a safe 
 ## Related Strategies
 
 - [Role Play](role-play.md)
+- [Use standardized patient social history encounters, reflective writing, and a mini-OSCE practice to teach SDH history collection](sp-social-history-reflective-writing-mini-osce-strategy.md)
 
 ## Examples
 -

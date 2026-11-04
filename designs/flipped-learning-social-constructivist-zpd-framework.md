@@ -46,6 +46,7 @@ The article frames flipped learning as a constructivist-inspired approach in whi
 ## Related Designs
 
 - [Blended learning as a student-centred combination of face-to-face and online instruction](blended-learning-conceptual-framework.md)
+- [Time simulation sessions toward the end of the academic year to engage learners in their zone of proximal development](time-simulation-zpd-end-of-year.md)
 
 ## Examples
 -

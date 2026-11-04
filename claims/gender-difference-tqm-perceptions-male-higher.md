@@ -48,3 +48,4 @@ Mann-Whitney U tests on post-test scores by gender in the experimental group (11
 - [Posttest attitude differences between experimental and control groups did not vary by gender](mesnevi-values-education-no-gender-difference.md) — related
 - [Position affects post-test TQM perceptions: principals rated applicability higher, significantly in management structure and overall but not the cultural dimension](position-effect-tqm-perceptions-principals-higher.md) — related
 - [Experimental and control groups did not differ significantly in TQM perceptions before the training](tqm-pretest-no-group-difference.md) — related
+- [Students' perceptions of university lectures are significantly below neutral, with female students rating lectures more positively than males](ul-perceptions-below-neutral-females-higher.md) — related

@@ -56,3 +56,8 @@ Systematic review of 31 experimental, quasi-experimental and RCT studies publish
 - [Rhythm or pacing aids during CPR training were associated with more consistent compression rates](pacing-aids-consistent-compression-rates.md) — related
 - [Compression depth and ventilated volume declined over twelve months in nursing students without monthly VAM practice, and differed from those who practised monthly](monthly-practice-depth-volume-decline.md) — a narrower finding that bears on this claim
 - [Pre-training practical evaluation with instructor feedback improved CPR skill performance except hand placement](pre-training-evaluation-feedback-improves-skills.md) — related
+- [The feedback group shows longer hands-off time and total CPR time than the control group in 30:2 cycles](feedback-group-longer-hands-off-time.md) — related
+- [Real-time feedback training improves the compression target and depth control in 30:2 CPR cycles](real-time-feedback-improves-compression-30-2-cycles.md) — a narrower finding that bears on this claim
+- [Real-time feedback training improves compression depth control within the recommended 5–6 cm range in hands-only CPR](real-time-feedback-improves-compression-depth-hands-only.md) — a narrower finding that bears on this claim
+- [Real-time feedback training increases compliance with the combined compression rate-and-depth target in hands-only CPR among medical students](real-time-feedback-improves-compression-target-hands-only-cpr.md) — a narrower finding that bears on this claim
+- [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](real-time-feedback-no-ventilation-improvement.md) — reports the opposite

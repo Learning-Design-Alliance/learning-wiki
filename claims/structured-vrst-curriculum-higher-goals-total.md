@@ -1,0 +1,55 @@
+---
+type: claim
+title: Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test
+description: Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test
+id: structured-vrst-curriculum-higher-goals-total
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-03
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: sparn-mb-2026
+    resource: "https://doi.org/10.1007/s00464-026-12755-z"
+    title: "Sparn MB, Chatziisaak D, Schmied B, Brunner W, Vitz M, Ströse L, Hahnloser D, Bischofberger S. (2026). Effect of a structured virtual reality simulation curriculum on laparoscopic performance in a porcine cholecystectomy model: a prospective comparative study. Surgical Endoscopy. https://doi.org/10.1007/s00464-026-12755-z"
+    author: Sparn MB, Chatziisaak D, Schmied B, Brunner W, Vitz M, Ströse L, Hahnloser D, Bischofberger S.
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` The intervention group's median total GOALS score (17.6) was significantly higher than the control group's (14.0; p = 0.013). [→ Sparn MB 2026](#sparn-mb-2026)
+
+## Evidence
+
+### Sparn MB 2026
+
+Sparn MB, Chatziisaak D, Schmied B, Brunner W, Vitz M, Ströse L, Hahnloser D, Bischofberger S. (2026). Effect of a structured virtual reality simulation curriculum on laparoscopic performance in a porcine cholecystectomy model: a prospective comparative study. Surgical Endoscopy. https://doi.org/10.1007/s00464-026-12755-z
+
+`q3 · i?` · `causal · r1`
+
+Prospective comparative study of 71 novice trainees (19 intervention, 52 control) at the Davos Course, assessed by blinded raters using GOALS in a porcine cholecystectomy model; the intervention group's "Median = 17.6 points" exceeded the control's "Median = 14.0 points" (U = 382.5, p = 0.013).
+
+> "The total GOALS score was also significantly higher in the intervention group (Median = 17.6 points) compared to the control group (Median = 14.0 points; U = 382.5, p = 0.013)."
+
+## Discussion
+
+
+## Related Claims
+- [Inter-rater reliability of the GOALS total score was good (ICC = 0.795) in blinded porcine cholecystectomy assessment](goals-good-inter-rater-reliability-porcine-model.md) — related
+- [Virtual reality training improves OSATS scores compared with no additional training for junior trainees in laparoscopic cholecystectomy](vrt-improves-osats-versus-nat-laparoscopic-cholecystectomy.md) — related
+- [Subjective performance ratings (NRS) were significantly higher after structured VRST than after deliberate practice](structured-vrst-higher-nrs-ratings.md) — related
+- [All five GOALS subdomains (depth perception, bimanual dexterity, efficiency, tissue handling, autonomy) were significantly improved after structured VRST](structured-vrst-improves-all-goals-subdomains.md) — a narrower finding that bears on this claim
+- [Virtual reality training improves economy-of-movement and error global rating scores compared with no additional training in one RCT](vrt-improves-grantcharov-grs-domains.md) — related
+- [Virtual reality training reduces intraoperative error counts compared with no additional training in laparoscopic cholecystectomy](vrt-reduces-intraoperative-errors-versus-nat.md) — related
+- [Baseline characteristics and prior laparoscopic experience did not differ significantly between the structured VRST and control groups](no-baseline-differences-vrst-groups.md) — related
+- [No significant differences found between virtual reality training and simulation training in GOALS scores or time to completion](vrt-versus-st-no-significant-difference.md) — related

@@ -65,3 +65,4 @@ Reliability analysis of the SATS-36 in this sample; point estimates were "found 
 
 ## Related Claims
 - [Excel-based statistics instruction improved pre-service teachers' attitudes towards statistics more than theoretical instruction on all six SATS-36 factors](excel-instruction-improves-attitudes-towards-statistics.md) — related
+- [The HLC-N demonstrates good construct validity with a six-factor structure explaining 72.558% of variance and good CFA model fit](hlc-n-good-construct-validity-efa-cfa.md) — related

@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 176 claims (83 for, 74 mixed, 19 against) · 96 studies (33 review, 21 causal, 16 quant-synthesis, 11 design, 10 qualitative, 4 theoretical, 1 associational), `q1`–`q4` · 19 of 96 report an effect size · 171 claims rest on one study
+> **Evidence** · 184 claims (90 for, 75 mixed, 19 against) · 100 studies (33 review, 24 causal, 16 quant-synthesis, 12 design, 10 qualitative, 4 theoretical, 1 associational), `q1`–`q4` · 20 of 100 report an effect size · 179 claims rest on one study
 
 ## Description and scope
 
@@ -141,6 +141,10 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [A social-chatbot intervention was followed by lower loneliness and social anxiety](../claims/quasi-experimental-chatbot-intervention-lowered-loneliness-short-term.md) [+W] (not about this page): read 2026-10-19; companionship for wellbeing, reported in a review, not rehearsal of a performance.
 - [Student satisfaction with virtual patients is generally positive](../claims/vp-satisfaction-generally-positive.md) [+W]: read 2026-10-19; 17 satisfaction studies, most items indifferent between groups; satisfaction is recorded separately from performance here and does not change the model.
 - [Virtual patient simulations for SUD training report positive learning outcomes across the 12 included studies](../claims/vp-sud-simulations-positive-learning-outcomes.md) [+W] — attached 2026-10-31 from Morvannou Adèle et al. (2024), which proposed "Diversify SUD populations portrayed in virtual patient simulations".
+- [Hybrid simulation with role-playing improves hand hygiene compliance and PPE use in medication administration among nursing students](../claims/hybrid-simulation-improves-hand-hygiene-and-ppe-nursing.md) [+W] — attached 2026-11-04 from Changuiti O et al. (2026), which proposed "Sequence role-playing before hybrid simulation with standardized patients to develop both technical and non-technical skills"; tests this page's relationship.
+- [Role-playing simulation with SBAR-based observation improves nurse-patient communication behaviors among nursing students](../claims/role-play-sbar-improves-nurse-patient-communication.md) [+W] — attached 2026-11-04 from Changuiti O et al. (2026), which proposed "Sequence role-playing before hybrid simulation with standardized patients to develop both technical and non-technical skills"; tests this page's relationship.
+- [Nursing students' communication clarity rose significantly from before to after ISBAR-structured handover simulation teaching, in an uncontrolled pre-post study](../claims/isbar-simulation-improves-communication-clarity.md) [+W] — attached 2026-11-04 from Sun Jui-Chiung et al. (2026), which proposed "Incorporate structured, scenario-based ISBAR handover practice into specialist nursing curricula, particularly in high-risk areas"; tests this page's relationship.
+- [ISBAR-structured handover simulation teaching significantly improves nursing students' handover confidence](../claims/isbar-simulation-improves-handover-confidence.md) [+W] — attached 2026-11-04 from Sun Jui-Chiung et al. (2026), which proposed "Incorporate structured, scenario-based ISBAR handover practice into specialist nursing curricula, particularly in high-risk areas"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -210,6 +214,10 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Second Life role-play yields higher multicultural acceptance and cultural enrichment than face-to-face role-play](../claims/sl-higher-multicultural-acceptance.md) [~W]
 - [Participants raised three concerns about the PCR class: low confidence to use learned expressions in real communication, insufficient grammar development, and doubts about roleplay tests](../claims/pcr-participant-concerns-three-aspects.md) [-W]
 - [Alternating simulation scenarios with bedside teaching lets students practice less harmful examinations on real patients and invasive or rejected items on simulators, ensuring patient safety](../claims/alternating-simulation-bedside-patient-safety.md) [+W]
+- [Hybrid simulation with role-playing improves patient identification accuracy and allergy verification among nursing students](../claims/hybrid-simulation-improves-patient-id-and-allergy-verification.md) [+W]
+- [All residents in high-fidelity scenarios diagnosed shoulder dystocia and called for assistance within one minute, but key tasks and documentation varied](../claims/high-fidelity-scenario-performance-gaps.md) [~W]
+- [Students report that progressive simulation practice builds handover confidence by reducing anxiety](../claims/progressive-simulation-practice-builds-confidence.md) [+W]
+- [SP ratings and blinded third-party rater consensus show moderate-to-strong agreement](../claims/sp-tp-rater-agreement-moderate-strong.md) [+W]
 
 ## Examples
 
@@ -220,6 +228,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](../strategies/tiered-ece-implementation-strategy.md)
 - [Pair online lectures with virtual role-play or simulation sessions to add experiential learning](../strategies/online-lecture-virtual-roleplay-simulation.md)
 - [Use conversation analysis of real interactions to underpin and enhance role play and simulated patient training rather than replace it](../strategies/use-ca-to-enhance-simulation-design.md)
+- [Use standardized patient social history encounters, reflective writing, and a mini-OSCE practice to teach SDH history collection](../strategies/sp-social-history-reflective-writing-mini-osce-strategy.md)
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)

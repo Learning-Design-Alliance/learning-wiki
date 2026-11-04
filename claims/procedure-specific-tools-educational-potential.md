@@ -47,3 +47,4 @@ The review's conclusion section states "procedure‐specific tools hold great ed
 ## Related Claims
 - [Only two of 37 objective assessment tools in minimally invasive gynecological surgery showed substantial evidence of validity](only-two-migs-tools-substantial-validity.md) — related
 - [Instruments show great heterogeneity in measurement quality, with validity or reliability information lacking in many cases](heterogeneous-measurement-quality-teacher-competence-instruments.md) — related
+- [Lack of standardised universally adopted training curricula persists across the literature](lack-standardised-training-curricula-heterogeneity.md) — related

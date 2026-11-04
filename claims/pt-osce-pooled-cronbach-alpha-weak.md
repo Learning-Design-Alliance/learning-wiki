@@ -70,3 +70,4 @@ Univariate meta-regression investigating sources of the moderate heterogeneity i
 - [Cronbach's alpha values for OSCE scores vary widely across studies, ranging from 0.43 to 0.93, with most studies not reaching good internal consistency](osce-cronbach-alpha-wide-variability.md) — a broader claim this one bears on
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — related
 - [Each OSCE station score correlates strongly with the total OSCE score, with a pooled Pearson correlation of 0.71](pt-osce-station-total-correlation-strong.md) — related
+- [A strong, statistically significant positive correlation was observed between process-oriented and summative assessment scores (r = 0.892).](pbl-bridge-process-summative-correlation.md) — related

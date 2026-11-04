@@ -110,3 +110,4 @@ Subanalysis based on one study (n=181) providing online chat rooms. Pooled "SMD=
 - [CAI within a blended learning strategy outperforms face-to-face teaching alone for ECG competence acquisition](blended-cai-beats-face-to-face-ecg.md) — related
 - [CAI is not better than face-to-face teaching for acquiring ECG competence overall, with high heterogeneity among studies](cai-no-overall-advantage-ecg-competence.md) — reports the opposite
 - [Subanalyses by training level tend to favour CAI for both medical students and residents, though confidence intervals are imprecise](cai-students-residents-subanalysis.md) — related
+- [Access to a structured Google Sites learning pathway increases consistent use of the faculty-recommended nine-step ECG interpretation worksheet.](google-sites-increases-worksheet-use.md) — related

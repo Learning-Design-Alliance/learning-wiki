@@ -60,3 +60,4 @@ Meta-analysis of nine RCTs involving 1,127 pharmacy students (514 CBL, 613 LBL) 
 - [CBL significantly improves problem-solving abilities compared with LBL (RR = 2.19)](cbl-improves-problem-solving-abilities.md) — related
 - [CBL significantly increases knowledge scores compared with LBL in Chinese dental education (SMD=1.58)](cbl-increases-knowledge-scores-chinese-dental.md) — related
 - [TBL pedagogy yields higher objective theoretical test scores than traditional LBL in Chinese pharmacy education](tbl-higher-theoretical-test-scores-than-lbl-chinese-pharmacy.md) — related
+- [Both PBL-CBL and traditional teaching groups improve theoretical and skills scores after the course](both-groups-improve-scores-after-course.md) — related

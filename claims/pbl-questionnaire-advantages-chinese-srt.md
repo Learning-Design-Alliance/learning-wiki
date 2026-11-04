@@ -63,3 +63,5 @@ Meta-analysis of questionnaire surveys (yes/no items, pooled as odds ratios) fro
 - [Questionnaire surveys in most included studies indicate positive PBL effects on learning interest, scope of knowledge, team spirit, and oral expression](pbl-questionnaire-positive-outcomes-radiology.md) — related
 - [Questionnaire results show PBL superior to conventional teaching for learning interest, independent analysis skills, scope of knowledge, self-study, team spirit, and oral expression](pbl-questionnaire-superiority-six-outcomes.md) — related
 - [In the PBL class all students reached the minimum standard score on statistics outcomes, while fewer than half did in the conventional class](pbl-statistics-mastery-100-percent-vs-control.md) — related
+- [PBL-CBL teaching increases residents' learning interest, initiative, and critical thinking compared with traditional teaching](pbl-cbl-increases-interest-initiative-thinking.md) — a narrower finding that bears on this claim
+- [No significant difference between PBL-CBL and traditional groups in post-class basic knowledge or skills scores](pbl-cbl-no-difference-basic-knowledge-skills-scores.md) — related

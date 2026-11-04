@@ -71,3 +71,4 @@ The review reports, citing Skulmowski & Rey (2021), that "the benefits of realis
 - [Realism can serve as signaling when a drastic contrast in shading and rendering highlights relevant parts](realism-signaling-drastic-contrast.md) — related
 - [Test type determines realism benefits: realistic detail aids retention as retrieval cues, schematic visuals aid transfer](test-type-moderates-realism-benefits.md) — related
 - [The main disadvantages of AR in physics teaching are software and hardware shortcomings (e.g., camera freeze, visualization delay) and extraneous cognitive load from attending to secondary details](ar-physics-disadvantages-technical-and-extraneous-load.md) — related
+- [Drawing and haptic-visual observation activities helped students visualize and notice anatomical details, though some found household objects insufficiently contextualized](exploring-3d-anatomy-compartmental-conceptual-cognition.md) — related

@@ -54,3 +54,4 @@ Thematic analysis of brief interviews with four intervention-cohort students and
 - [Students found AI effective for ideation and formatting but unreliable for practical experimental details](ai-effective-ideation-unreliable-practical-details.md) — related
 - [The perceived value of GenAI and XR varied across design stages: GenAI suited early exploratory prototyping, XR once a 3D artifact existed for spatial evaluation](phase-dependent-genai-xr-value-design-stages.md) — related
 - [GenAI tools proved most valuable in early UX ideation stages, while design and testing require a human touch](genai-most-valuable-early-ux-stages.md) — related
+- [AI-supported module used mainly as a reflective comparison tool rather than an answer provider](ai-module-reflective-scaffold-use.md) — related

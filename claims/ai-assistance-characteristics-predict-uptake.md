@@ -49,3 +49,4 @@ Comparing acted-on versus ignored AI assistance in a stratified sample, the stud
 - [In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly](feedback-quality-predicts-revision-only-in-teacher-condition.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Uptake of AI assistance in peer feedback was low, with just 9% of AI suggestions leading to revisions](low-uptake-ai-assistance-peer-feedback.md) — related
+- [Subgroup analysis revealed a significant effect in low-complexity cases (p = 0.007) but not in medium–high complexity cases (p = 0.798)](subgroup-significant-low-complexity-only.md) — related

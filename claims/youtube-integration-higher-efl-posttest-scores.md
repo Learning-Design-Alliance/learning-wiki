@@ -68,3 +68,4 @@ Quasi-experimental "Non-randomized Control Group Pretest-Posttest Design" with 4
 - [Lecturer-generated summaries spliced into online video lectures improve student recall of lecture content on quizzes](lecturer-generated-summaries-improve-video-recall.md) — related
 - [Integrative teaching techniques improve German speaking-skill learning outcomes in a single-group quasi-experiment](integrative-techniques-improve-german-speaking-outcomes.md) — related
 - [Teaching with educational technology innovations and techniques produces statistically significant gains in total academic achievement among pre-service teachers compared with traditional methods](edtech-innovations-increase-academic-achievement-practicum.md) — related
+- [RAT was preferred over PowerPoint-based lectures across all nine comparative pedagogical domains, ranging from 55.3% (self-paced learning) to 84.0% (curriculum integration)](rat-preferred-over-powerpoint-all-nine-domains.md) — related

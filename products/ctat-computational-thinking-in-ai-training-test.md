@@ -34,6 +34,7 @@ A validated multiple-choice assessment developed by Shile Zhang et al. for measu
 ## Related Products and Programmes
 
 - [25-item electronic magnetism cognitive achievement test](25-item-electronic-magnetism-cognitive-achievement-test.md)
+- [The 25-item Turkish Computational Thinking Test (CTt) adapted by Sungur](the-25-item-turkish-computational-thinking-test-ctt-adapted-by-sungur.md)
 
 ## Key Sources
 - Shile Zhang and Shuhan Zhang. (2026). Integrating AI into computational thinking: development and validation of an assessment tool for higher education students. International Journal of STEM Education. https://doi.org/10.1186/s40594-026-00623-0

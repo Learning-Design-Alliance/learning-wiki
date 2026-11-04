@@ -65,3 +65,4 @@ Funnel plot and Egger's test on the 15 studies indicated slight publication bias
 ## Related Claims
 - [The CBL exam-score advantage is robust to subgroup and leave-one-out sensitivity analyses but shows potential publication bias](cbl-exam-effect-robustness-publication-bias.md) — related
 - [Pooled satisfaction and self-confidence effects are sensitive to individual studies, while knowledge, performance and self-efficacy effects are robust in leave-one-out analysis](hfps-leave-one-out-sensitivity-pattern.md) — related
+- [Performance on non-integrated factual recall questions remained relatively stable or showed a slight decline under case discussions](cbl-non-integrated-questions-stable-or-slight-decline.md) — related

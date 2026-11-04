@@ -1,0 +1,51 @@
+---
+type: claim
+title: The simulation session increased intern self-reported confidence in managing post-ROSC patients and communicating handoffs
+description: The simulation session increased intern self-reported confidence in managing post-ROSC patients and communicating handoffs
+id: post-rosc-simulation-increased-confidence
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-03
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: harris-e-2026
+    resource: "https://doi.org/10.15766/mep_2374-8265.11642"
+    title: "Harris E, Collis A, Carlbom D, Johnson N, Town J, Raikhel V. (2026). Post In-Hospital Cardiac Arrest Simulation to Improve Medical Decision Making and Communication in Internal Medicine Residents. MedEdPORTAL. https://doi.org/10.15766/mep_2374-8265.11642"
+    author: Harris E, Collis A, Carlbom D, Johnson N, Town J, Raikhel V.
+    q: 3
+    i: "?"
+    kind: design
+    rigour: 2
+---
+
+# The simulation session increased intern self-reported confidence in managing post-ROSC patients and communicating handoffs
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` Learners showed statistically significant increases in confidence managing PEA arrest, VT/VF arrest, generating a differential diagnosis, providing post-ROSC handoff, and using a defibrillator. [→ Harris E 2026](#harris-e-2026)
+
+## Evidence
+
+### Harris E 2026
+
+Harris E, Collis A, Carlbom D, Johnson N, Town J, Raikhel V. (2026). Post In-Hospital Cardiac Arrest Simulation to Improve Medical Decision Making and Communication in Internal Medicine Residents. MedEdPORTAL. https://doi.org/10.15766/mep_2374-8265.11642
+
+`q3 · i?` · `design · r2`
+
+Pre/post surveys on 5-point Likert scale grouped into not confident (1-3) and confident (4-5), analyzed by chi-square. Significant increases reported for PEA and VT/VF arrest management, differential diagnosis (8 to 27 of 32), handoff (9 to 27 of 32), and defibrillator use (12 to 26 of 32), all P < .01.
+
+> "there was a statistically significant increase in learners' reported confidence in managing a patient after a pulseless electrical activity (PEA) arrest (pre: 5 of 32, post: 23 of 32, P < .01) and ventricular tachycardia (VT)/ventricular fibrillation (VF) arrest cardiac arrest (pre: 3 of 32, post: 21 of 32, P < .01)"
+
+## Discussion
+
+
+## Related Claims
+- [Final-year dental students show insufficient competence in AED use under conventional voice prompts in a simulated cardiac arrest scenario](dental-students-insufficient-aed-competence-conventional-prompts.md) — related
+- [Most learners reported the session improved their confidence in caring for post-ROSC patients, communication, and leadership skills](learners-reported-session-improved-skills.md) — related
+- [A post-ROSC simulation curriculum increased intern knowledge of post-ROSC hemodynamic and respiratory targets](post-rosc-simulation-increased-knowledge-targets.md) — related
+- [Significant improvements in confidence, performance, management, communication, anxiety and knowledge scores were reported following ISS, but four controlled comparisons found no significant difference versus control or comparison training](iss-ntos-outcomes-mixed-controlled-comparisons.md) — a broader claim this one bears on

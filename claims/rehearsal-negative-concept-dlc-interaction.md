@@ -49,3 +49,4 @@ From hierarchical regression and mediation test results (N=272). The rehearsal a
 - [No significant relationship found between DLC interaction and self-reported metacognitive abilities on the MSLQ](no-mslq-relationship-dlc.md) — related
 - [Frequent use of reflective prompts related to better strategic problem-solving and conceptual understanding](reflective-prompts-frequency-problem-solving.md) — related
 - [Students in the control conditions overwhelmingly chose rehearsal or re-reading as their learning strategy](students-choose-rehearsal-strategies.md) — related
+- [Teaching and learning activities reported by students shift across categories from memorising facts to independent research reports](tla-progression-across-categories.md) — related

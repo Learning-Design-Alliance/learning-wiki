@@ -48,3 +48,6 @@ Review synthesis of comparative patient studies with traditional (often anatomic
 - [Teaching color Doppler twinkle artifact improved cannulation time with a positive but non-significant impact on success rate](color-doppler-twinkle-artifact-improves-cannulation-time.md) — related
 - [Success rate after USG-PVC training does not differ significantly between nurses, physicians, and ED-technicians](no-success-rate-difference-nurses-physicians-technicians.md) — related
 - [Implementing USG-PVC education reduces the need for subsequent central venous catheters or PICCs](usg-pvc-education-reduces-cvc-picc-need.md) — related
+- [Needle passes and procedure time favoured the ultrasound-guided phase but did not reach statistical significance](needle-passes-and-time-favour-us-non-significant.md) — related
+- [PGY residents completed US-guided cannulation significantly faster than clerks (68.5 vs. 133 s)](pgy-faster-than-clerks-cannulation-time.md) — related
+- [Completion rate increased from 43% to 100% in the ultrasound-guided phase, a large but statistically non-significant difference](us-guided-completion-rate-100-vs-43-non-significant.md) — related

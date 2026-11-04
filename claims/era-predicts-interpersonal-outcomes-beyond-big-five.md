@@ -69,3 +69,4 @@ Both measures were independent predictors: "Performance-tested ERA and teacher-o
 - [Emotion regulation variables predict academic outcomes (GPA and academic honors) beyond Big Five personality traits and gender in high school students](era-predicts-academic-outcomes-beyond-big-five.md) — related
 - [Teacher-observed emotion regulation correlates with academic outcomes more strongly than performance-tested ERA does](teacher-observed-er-stronger-academic-correlations.md) — related
 - [Emotion differentiation is linked to more effective emotion regulation and more accurate understanding of others' emotions](emotion-differentiation-linked-regulation-and-understanding.md) — related
+- [Performance-based emotion recognition ability is a small but significant independent predictor of OSCE performance](emotion-recognition-predicts-osce-performance.md) — related

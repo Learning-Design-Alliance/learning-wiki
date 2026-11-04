@@ -43,6 +43,7 @@ The feedback system is a Hybrid-AI framework that "combines data-driven forecast
 ## Related Designs
 
 - [Hybrid micro-level personalization framework combining learner-driven preferences with system-driven Bloom's Taxonomy cognitive assessment](hybrid-micro-personalization-framework.md)
+- [Hybrid rule-based plus LLM-supported AI interpretation module](hybrid-rule-based-llm-interpretation-module.md)
 
 ## Examples
 -

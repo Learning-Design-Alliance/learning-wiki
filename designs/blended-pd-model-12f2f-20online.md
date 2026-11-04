@@ -42,7 +42,8 @@ A flexible blended learning model in which an online platform delivers most of t
 - [Blended Pd Higher Tpack Gains Than Traditional](../claims/blended-pd-higher-tpack-gains-than-traditional.md) [+M]
 
 ## Related Designs
-- 
+
+- [Blended-learning CPD programme design combining asynchronous video lectures, case-based seminars and online discussions](blended-learning-cpd-component-mix-periodontology.md)
 
 ## Examples
 -

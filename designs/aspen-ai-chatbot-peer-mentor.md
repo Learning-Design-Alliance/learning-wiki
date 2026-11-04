@@ -43,6 +43,7 @@ Aspen is a custom AI chatbot built as a prompt-engineered pedagogical agent on a
 
 - [Jordan Chatbot: a unit-specific GPT-4o pedagogical support agent grounded in constructivist and socio-cultural learning theory](jordan-chatbot-unit-specific-gpt4o-agent.md)
 - [Seven unit-specific custom GPT chatbots for pharmaceutical science units](seven-co-created-cgpt-chatbots-pharmaceutical-science.md)
+- [Custom-built web application integrating an AI chatbot into a three-part diagnostic reasoning case](ai-integrated-diagnostic-reasoning-web-application.md)
 
 ## Examples
 -

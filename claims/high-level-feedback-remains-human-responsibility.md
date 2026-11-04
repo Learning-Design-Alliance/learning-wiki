@@ -60,3 +60,4 @@ Theoretical argument in Section 4.2 of this conceptual paper, citing empirical s
 - [Teachers retain ultimate control over AI systems because professional responsibility cannot be delegated](teachers-retain-ultimate-control-responsibility-not-delegable.md) — possibly the same claim (merge candidate)
 - [Teacher professional judgement is represented in AI ethics literature as an ethical and interpretive capacity central to responsible AI use, not a technical skill to be replaced](teacher-judgement-ethical-interpretive-capacity.md) — a broader claim this one bears on
 - [Human judgement is central to accurate and ethical human-AI knowledge building](human-judgement-central-ai-knowledge-building.md) — a broader claim this one bears on
+- [Subgroup analysis revealed a significant effect in low-complexity cases (p = 0.007) but not in medium–high complexity cases (p = 0.798)](subgroup-significant-low-complexity-only.md) — related

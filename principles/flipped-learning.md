@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 113 claims (62 for, 47 mixed, 4 against) · 75 studies (33 causal, 19 quant-synthesis, 13 review, 4 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 27 of 75 report an effect size · 105 claims rest on one study
+> **Evidence** · 119 claims (66 for, 49 mixed, 4 against) · 78 studies (36 causal, 19 quant-synthesis, 13 review, 4 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 28 of 78 report an effect size · 111 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,10 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [A project-based flipped learning model raised translation competence test scores in a Business English Translation course over one 16-week semester](../claims/flipped-translation-competence-posttest-gain.md) [+W] — attached 2026-11-03 from Lijun Deng (2018), which proposed "Project-based flipped learning pattern with client and translator groups rotating across business translation units"; tests this page's relationship.
 - [Classroom participation was rated significantly higher in the flipped project-based class than in the control class](../claims/flipped-translation-classroom-participation-higher.md) [+W] — attached 2026-11-03 from Lijun Deng (2018), which proposed "Project-based flipped learning pattern with client and translator groups rotating across business translation units".
 - [The flipped classroom model improved Egyptian EFL students' listening comprehension in a one-group pre-posttest study](../claims/flipped-classroom-improves-efl-listening-comprehension.md) [+W] — attached 2026-11-03 from Ahmad (2016), which proposed "Devote class time to active learning rather than lecturing in flipped EFL classrooms"; tests this page's relationship.
+- [Flipped classroom combined with case-based learning improves post-course knowledge quiz scores in nuclear medicine residents](../claims/flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) [~W] — attached 2026-11-04 from Ji Y et al. (2026), which proposed "Flipped classroom combined with CBL instructional pattern for residency training".
+- [Flipped classroom residents score higher on case analysis questions than traditional classroom residents (33.61 ± 2.61 vs. 31.43 ± 3.17, p = 0.010)](../claims/fc-higher-case-analysis-scores-gastroenterology.md) [+W] — attached 2026-11-04 from Hu Jing et al. (2026), which proposed "Micro-video-based flipped classroom protocol: pre-class micro-videos followed by interactive in-class discussion"; tests this page's relationship.
+- [Flipped classroom residents score higher on clinical skills assessment than traditional classroom residents (89.23 ± 2.71 vs. 86.11 ± 3.59, p = 0.001)](../claims/fc-higher-clinical-skills-scores-gastroenterology.md) [+W] — attached 2026-11-04 from Hu Jing et al. (2026), which proposed "Micro-video-based flipped classroom protocol: pre-class micro-videos followed by interactive in-class discussion"; tests this page's relationship.
+- [Blended learning (virtual flipped classroom plus demonstration) achieves higher laboratory OSPE scores than traditional lectures in practical immunohematology training](../claims/blended-learning-higher-laboratory-ospe-immunohematology.md) [+M] — attached 2026-11-04 from Saniee Nadia et al. (2026), which proposed "Shifting theoretical content to the pre-class phase frees in-class time for skill practice, feedback, and interactive learning in laboratory courses"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -247,6 +251,8 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Before-class online quizzes were used to ensure preparation and to launch class discussion](../claims/pre-class-quizzes-launch-discussion.md) [+W]
 - [The flipped classroom rests on blended learning, student-centered learning, and active learning as theoretical foundations](../claims/flipped-classroom-theoretical-foundations.md) [+W]
 - [Middle school students completed a larger percentage of assigned videos than high school students](../claims/rmep-middle-school-higher-video-completion.md) [~W]
+- [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](../claims/fc-satisfaction-and-implementation-challenges.md) [~W]
+- [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](../claims/flipped-classroom-cbl-improves-concept-and-application-questions.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

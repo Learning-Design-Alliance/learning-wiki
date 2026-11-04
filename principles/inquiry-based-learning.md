@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 98 claims (55 for, 33 mixed, 10 against) · 98 studies (39 causal, 20 quant-synthesis, 12 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 25 of 98 report an effect size · 84 claims rest on one study
+> **Evidence** · 99 claims (55 for, 34 mixed, 10 against) · 99 studies (39 causal, 20 quant-synthesis, 12 review, 10 theoretical, 7 qualitative, 7 design, 4 associational), `q1`–`q4` · 25 of 99 report an effect size · 85 claims rest on one study
 
 ## Conditional relationship
 
@@ -229,6 +229,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [Students most enjoyed conducting experiments during the inquiry-based process and generally gave no negative feedback](../claims/students-enjoyed-conducting-experiments-most.md) [~W]
 - [Student-centred approaches (problem-based learning, guided inquiry, cooperative learning) outperformed teacher-centred methods in the reviewed studies](../claims/student-centred-methods-outperform-teacher-centred.md) [+W]
 - [With a sphere magnet, both upper-lower and internal-external surfaces have lost their functions, and the inquiry begins with the question of how to find the poles of a magnet.](../claims/sphere-magnet-creates-cognitive-engagement.md) [~W]
+- [Learners split between strategic inquiry focused on assessment performance and exploratory inquiry valuing discovery and holistic understanding](../claims/exploring-3d-anatomy-strategic-exploratory-inquiry.md) [~W]
 
 ## Related Principles
 

@@ -74,3 +74,4 @@ Interview response from Tina, one of three students in the ChatGPT feedback grou
 - [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — related
 - [Thematic analysis of open responses surfaced four themes: immediacy as core value, calibrated trust, pinpointing the mistake, and progress and control](four-qualitative-themes-genai-practice-feedback.md) — related
 - [The platform's out-of-scope audit protocol is designed to neutralize student distrust of AI error by rewarding verified hallucination reports](out-of-scope-audit-builds-trust.md) — related
+- [Subgroup analysis revealed a significant effect in low-complexity cases (p = 0.007) but not in medium–high complexity cases (p = 0.798)](subgroup-significant-low-complexity-only.md) — related

@@ -53,3 +53,4 @@ Random-effects meta-analysis of 28 between-subject comparative studies in health
 - [Flipped classroom instruction is associated with higher final knowledge scores than traditional instruction in medical education (SMD 0.90).](flipped-classroom-higher-knowledge-scores-medical-education.md) — related
 - [Flipped classroom shows a significant pooled advantage over lecture-based learning in dental education (SMD = 0.50)](flipped-classroom-significant-vs-lbl-dental.md) — related
 - [Flipped classrooms are associated with higher learner satisfaction in medical education (pooled SMD = 0.69), with residents showing larger improvement than undergraduates (SMD 1.69 vs 0.37)](flipped-classroom-learner-satisfaction-residents.md) — related
+- [Video-production experiential teaching raises theoretical knowledge scores more than lecture-based instruction in dental preventive medicine students](video-production-experiential-teaching-improves-theoretical-knowledge.md) — related

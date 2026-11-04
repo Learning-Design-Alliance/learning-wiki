@@ -59,3 +59,5 @@ Exit-survey Likert results from the 59 completers of the two-session self-servic
 - [Usability evaluations of e-learning interventions in undergraduate clinical medicine uniformly reported positive feedback, with simple intuitive interactive design identified as key](elearning-usability-evaluations-all-positive.md) — a broader claim this one bears on
 - [93% of students rated usability and control as important to their learning](usability-and-control-rated-important-by-93-percent.md) — related
 - [Teachers perceived research evidence as most effectively communicated when interactive, accessible, relevant, balanced, credible and practice-focused](teachers-views-effective-research-communication.md) — related
+- [Participants rate SOPHIE's actionable feedback highest among system features, above avatar realism](sophie-actionable-feedback-highest-rated-feature.md) — related
+- [SOPHIE participants report higher confidence in communication skills than controls](sophie-higher-confidence-vs-reading.md) — related

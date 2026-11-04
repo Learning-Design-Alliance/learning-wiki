@@ -97,3 +97,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Lack of guidance and inadequate professional development at the macro-level hinders curricular change implementation](macro-lack-guidance-inadequate-pd-hinders-implementation.md) — related
 - [The report hypothesizes transfer incentives affect achievement through team performance, collaboration, and resource reallocation pathways](tti-logic-model-pathways.md) — related
 - [Workload was the number one challenge to effective teaching identified by faculty (341 comments).](workload-top-faculty-teaching-challenge.md) — related
+- [Teachers experienced a responsibility-capacity paradox: they view emotional support as core to their role yet feel structurally limited by workload, low mental health literacy and lack of training](responsibility-capacity-paradox-teachers.md) — related

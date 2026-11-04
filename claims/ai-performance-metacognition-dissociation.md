@@ -76,3 +76,4 @@ Narrative review attribution in Section 5: the paper reports, citing Goh et al.,
 - [The paper reports that metacognition—students thinking about how they understand their own learning—supports more efficient and effective learning and improved outcomes](metacognition-efficiency-effectiveness-outcomes-claim.md) — related
 - [Optimizing prompts can vastly improve the accuracy of LLM outputs, but critical evaluation of the resulting outputs still requires domain expertise.](prompt-optimization-improves-accuracy-expertise-still-needed.md) — related
 - [AI-related placebo effects lead users to overestimate their own abilities while or after being assisted by an AI](ai-placebo-effect-overestimation.md) — related
+- [Student prompts that omit key pertinent negatives are associated with AI-induced diagnostic errors](prompt-omission-pertinent-negatives-ai-errors.md) — a narrower finding that bears on this claim

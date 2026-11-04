@@ -60,3 +60,4 @@ Subgroup analysis by teaching method (Figure 3B) in the meta-analysis of 29 RCTs
 - [CBL improved exam scores in both basic theory and applied psychology course subgroups, but course type did not explain the heterogeneity](cbl-subgroup-course-types-heterogeneity.md) — related
 - [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](pbl-comprehensive-question-scores-smd-053.md) — related
 - [Students reported that case-based learning increased interest in the course and awareness of the teaching profession](cbl-affective-impact-student-opinions.md) — related
+- [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](flipped-classroom-cbl-improves-concept-and-application-questions.md) — reports the opposite

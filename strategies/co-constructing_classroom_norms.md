@@ -77,11 +77,13 @@ Co-construction converts classroom management from external control to internali
 6. **Revisit**: review norms after conflicts, at term transitions, and when group composition changes; revise rather than merely re-post.
 
 ## Related Strategies
+
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a sibling autonomy-supportive structure from Responsive Classroom; norms give academic choice its guardrails
 - [Active Listening](active-listening.md) — the facilitation skill the teacher models during the co-construction process itself
 - [Establishing Classroom Routines](establishing-classroom-routines.md) — routines operationalize norms as repeated practice
 - [Restorative Circles](restorative-circles.md) — a protocol for repairing community when norms are broken
 - [Team Contracts](team_contracts.md) — norm co construction scoped to small-group project work
+- [Co-develop classroom mental health activities with both teachers and young people before embedding them in routine lessons](co-develop-with-teachers-and-young-people.md)
 
 ## Examples
 - **Responsive Classroom (Center for Responsive Schools)** — its "Hopes and Dreams → classroom rules" routine has students state personal goals, then derive shared rules that serve those goals ([responsivereads.com](https://www.responsivereads.com)).

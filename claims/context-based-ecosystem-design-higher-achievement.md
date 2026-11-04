@@ -86,3 +86,4 @@ Post-hoc comparison following the ANCOVA on post-test AT scores in the quasi-exp
 - [CoBl students showed greater learning achievement than traditional-instruction control students (p = .001)](cobl-beats-traditional-achievement.md) — a narrower finding that bears on this claim
 - [High prior readiness was not required for achievement gains with learning objects, contrary to earlier findings](los-gains-not-limited-to-high-readiness-students.md) — related
 - [Small-group problem-based instruction (PBIS) produced the highest adjusted mathematics achievement among the four treatment conditions](pbis-highest-adjusted-math-achievement.md) — related
+- [Video-production experiential teaching raises theoretical knowledge scores more than lecture-based instruction in dental preventive medicine students](video-production-experiential-teaching-improves-theoretical-knowledge.md) — related

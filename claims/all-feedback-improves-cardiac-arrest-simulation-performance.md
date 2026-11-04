@@ -49,3 +49,4 @@ This finding comes from the thematic synthesis of a mixed-method systematic revi
 - [Feedback and debriefing are the most important educational components of simulation-based learning in cardiac arrest education](feedback-debriefing-most-important-simulation-components.md) — a broader claim this one bears on
 - [Feedback from trained humans was in some settings as effective as mechanical feedback devices for CPR quality](human-feedback-equivalent-to-mechanical-devices.md) — related
 - Current cardiac arrest simulation feedback literature primarily focuses on technical skills measured quantitatively, with limited research on non-technical aspects — related
+- [Final-year dental students show insufficient competence in AED use under conventional voice prompts in a simulated cardiac arrest scenario](dental-students-insufficient-aed-competence-conventional-prompts.md) — related

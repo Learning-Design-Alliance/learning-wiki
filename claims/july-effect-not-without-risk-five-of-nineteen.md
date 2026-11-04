@@ -47,3 +47,4 @@ Narrative synthesis of 19 studies comparing patient outcomes at the start of the
 
 ## Related Claims
 - [Residents' care resulted mostly in similar patient outcomes compared with faculty when dedicated supervision and additional operation time were arranged](resident-care-similar-to-faculty-with-supervision.md) — related
+- [Baseline knowledge did not differ between early and mid academic year residents, suggesting routine exposure is inadequate](no-baseline-difference-academic-year.md) — related

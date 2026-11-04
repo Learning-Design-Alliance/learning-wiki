@@ -60,6 +60,8 @@ AR's principal learning-science advantage is making invisible, three-dimensional
 - [Simulation-Based Medical Training](simulation-based-medical-training.md) — AR is one modality within the broader simulation family; VR and manikin simulation offer complementary fidelity trade-offs
 - [Virtual Reality (VR) Immersive Training](virtual-reality-immersive-training.md) — fully synthetic environments versus AR's overlay on the real world
 - [Adopt emerging gesture-capture and telestration technologies to extend embodied anatomical teaching in dental education](telestration-gesture-tech-dental-future-directions.md)
+- [Use AR visualization of hidden anatomy and simulated fluoroscopy to teach spatial reasoning in a radiation-free environment](ar-hidden-anatomy-spatial-learning-strategy.md)
+- [Use brief task-specific training with handheld ultrasound devices to enable rapid procedural skill acquisition in novices within limited rotations](brief-task-specific-us-training-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — instructor-led navigation of the AR model makes expert reasoning visible before independent exploration

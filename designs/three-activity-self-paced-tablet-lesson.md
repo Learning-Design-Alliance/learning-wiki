@@ -40,7 +40,8 @@ The individualized lesson was structured as three sequenced activities through w
 - [Individualized Pacing Reached Game Activity](../claims/individualized-pacing-reached-game-activity.md) [+W]
 
 ## Related Designs
-- 
+
+- [Modular exercise sequence progressing from cognitive visualization to combined haptic-visual drawing](exploring-3d-anatomy-modular-exercise-progression.md)
 
 ## Examples
 -

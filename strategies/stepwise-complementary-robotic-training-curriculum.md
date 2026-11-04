@@ -58,6 +58,7 @@ The review recommends that training modalities be combined in a progressive curr
 - [Integrate AI-driven simulation into dental curricula as a complement to traditional training, attending to domain-specific effectiveness and the lack of long-term validated outcomes](ads-curricular-integration-strategy.md)
 - [Develop universal objective assessment and feedback methods that go beyond time and motion to capture tissue handling and interaction forces](universal-objective-assessment-tissue-force-feedback.md)
 - [Combine background theory, video demonstrations, and simulator training in an integrated endoscopy curriculum (GATE model)](gate-integrated-endoscopy-training-concept.md)
+- [Stepwise progression pathway integrating theoretical instruction, simulation, and supervised clinical practice](stepwise-progression-theory-simulation-supervised-practice.md)
 
 ## Examples
 -

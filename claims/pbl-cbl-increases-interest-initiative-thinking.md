@@ -1,0 +1,52 @@
+---
+type: claim
+title: "PBL-CBL teaching increases residents' learning interest, initiative, and critical thinking compared with traditional teaching"
+description: "PBL-CBL teaching increases residents' learning interest, initiative, and critical thinking compared with traditional teaching"
+id: pbl-cbl-increases-interest-initiative-thinking
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-03
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: zhang-zhigang-2026
+    resource: "https://doi.org/10.1186/s12909-026-09964-4"
+    title: "Zhang Zhigang, Fei Jing, Zhang Jiaojiao, Zhu Xiaoqing, Fang Huibin, Zhu Ying. (2026). The effectiveness of the combined problem-based learning (PBL) and case-based learning (CBL) teaching method in the clinical practical teaching for gynecology resident. BMC Medical Education. https://doi.org/10.1186/s12909-026-09964-4"
+    author: Zhang Zhigang, Fei Jing, Zhang Jiaojiao, Zhu Xiaoqing, Fang Huibin, Zhu Ying
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# PBL-CBL teaching increases residents' learning interest, initiative, and critical thinking compared with traditional teaching
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` The PBL-CBL group scored higher than the traditional group on questionnaire measures of interesting (6.44 ± 1.12 vs. 5.24 ± 0.97, P = 0.001), initiative (6.48 ± 0.96 vs. 4.32 ± 1.03, P = 0.01), and thinking (6.2 ± 1.12 vs. 4.32 ± 1.03, P = 0.001). [→ Zhang Zhigang 2026](#zhang-zhigang-2026)
+
+## Evidence
+
+### Zhang Zhigang 2026
+
+Zhang Zhigang, Fei Jing, Zhang Jiaojiao, Zhu Xiaoqing, Fang Huibin, Zhu Ying. (2026). The effectiveness of the combined problem-based learning (PBL) and case-based learning (CBL) teaching method in the clinical practical teaching for gynecology resident. BMC Medical Education. https://doi.org/10.1186/s12909-026-09964-4
+
+`q2 · i?` · `causal · r2`
+
+A 10-item self-developed questionnaire administered to all 50 residents showed teaching effect scores "higher than those for the traditional group" (P < 0.05). Table 3 reports interesting, initiative, and thinking scores all significantly favouring PBL-CBL.
+
+> "The mean teaching effect scores for the PBL-CBL group were found to be higher than those for the traditional group (P < 0.05, Fig. 4A and Table 3)."
+
+## Discussion
+
+
+## Related Claims
+- [PBL-CBL combined teaching improves post-class case analysis scores compared with traditional lecture-based teaching in gynecology residents](pbl-cbl-improves-case-analysis-scores-gynecology-residents.md) — related
+- [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
+- [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — a broader claim this one bears on
+- [PBL students reported significantly higher satisfaction and interest in the course than LBL students](pbl-higher-satisfaction-interest.md) — a broader claim this one bears on
+- [PBL-CBL teaching increases resident satisfaction compared with traditional lecture-based teaching](pbl-cbl-increases-resident-satisfaction.md) — related

@@ -49,3 +49,4 @@ Parallel multiple mediation analysis (PROCESS macro, 5,000 bootstrap samples) wi
 - [Concurrent sleep problems at age 11–13 do not increase the risk of poor academic performance after controlling for mental health problems](concurrent-dims-no-adjusted-risk.md) — related
 - [Transitory sleep problems (DIMS at age 7–9 only) do not increase the risk of later poor academic performance](transitory-dims-no-increased-risk.md) — related
 - [Behavioral health conditions and school processes partially mediate the association between cumulative ACEs and school outcomes](aces-school-outcomes-mediated-behavioral-health-school-processes.md) — related
+- [Improving parental mental health in general may not in itself improve children's educational outcomes](improving-parental-mental-health-may-not-improve-achievement.md) — related

@@ -53,3 +53,4 @@ Sensitivity analyses accompanying the review's meta-analyses: exclusion of the t
 - [Pooled satisfaction and self-confidence effects are sensitive to individual studies, while knowledge, performance and self-efficacy effects are robust in leave-one-out analysis](hfps-leave-one-out-sensitivity-pattern.md) — related
 - [The pooled TBL effect on examination scores is robust to leave-one-out sensitivity analysis and model choice, and publication bias was not detected](tbl-effect-robustness-sensitivity.md) — related
 - [The pooled VR score effect is robust to study removal and shows no significant publication bias](vr-anatomy-effect-robust-no-publication-bias.md) — related
+- [Leave-one-institution-out validation confirmed directional stability of main, interaction, and conditional indirect effects across all six institutional exclusions](leave-one-institution-out-stability-validation.md) — related

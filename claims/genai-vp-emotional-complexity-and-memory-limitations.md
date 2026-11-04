@@ -50,3 +50,4 @@ The review's Design Limitations section, synthesizing limitations observed acros
 - [AI-generated virtual patients exhibit limitations including inauthentic conversational flow, excessive agreeableness, role departure, and clinical inaccuracy](ai-virtual-patient-limitations-flow-agreeableness-role-departure.md) — a broader claim this one bears on
 - [The adaptive virtual patient produces a steadily climbing disclosure trajectory across a session while a prompt-only baseline with the same LLM and persona stays flat](avp-climbing-disclosure-vs-static-flat.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
+- [Technical limitations including delayed responses and transcription errors constrained AIVP realism and rapport-building](aivp-technical-limitations-constrained-realism.md) — related

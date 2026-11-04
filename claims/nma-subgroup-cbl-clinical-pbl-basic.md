@@ -53,3 +53,4 @@ Subgroup analyses by region, curricula, and educational background within the NM
 - [CBL improved exam scores in both basic theory and applied psychology course subgroups, but course type did not explain the heterogeneity](cbl-subgroup-course-types-heterogeneity.md) — related
 - [CBL effects differ between theoretical and practical courses for knowledge, skill and comprehensive ability scores](cbl-subgroup-theoretical-versus-practical-courses.md) — related
 - [Subgroup analyses by intervention duration and region reduce heterogeneity only for interventions longer than six months and Western countries, without significant PBL differences in any subgroup](pbl-subgroup-duration-region-heterogeneity.md) — related
+- [Both PBL-CBL and traditional teaching groups improve theoretical and skills scores after the course](both-groups-improve-scores-after-course.md) — related

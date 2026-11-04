@@ -59,3 +59,4 @@ Index of moderated mediation with Monte Carlo confidence intervals (20,000 draws
 - The Monte Carlo power analysis indicates limited statistical power for several hypothesised direct and indirect effects — related
 - [Perceived AI literacy does not moderate the indirect warmth and competence pathways from GenAI use to trust](ai-literacy-does-not-moderate-mediation-pathways.md) — related
 - [Challenge emotions mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors, with a relatively small indirect effect](challenge-emotions-mediation-genai-literacy-srlb.md) — related
+- [Open science engagement significantly moderates the mediated pathway, amplifying the indirect effect by 58% under high-engagement conditions](open-science-moderates-mediated-pathway-58-percent.md) — related

@@ -53,3 +53,4 @@ Microgenetic frequency analysis of reciprocating acts (Table 12) from the first 
 - [LLM scaffolding level is associated with the student's next dialogue act, and the association persists within broad request categories](scaffolding-associated-with-next-student-move.md) — related
 - [Learning and teaching processes in networked learning are not static but have different dynamics at various stages of collaborative work](nl-processes-dynamics-vary-by-phase.md) — a broader claim this one bears on
 - [Only the high-participation high-interactivity course D showed significant reciprocity, cyclical-tie, and Simmelian-tie patterns, indicating group-formation processes](ergm-relational-structures-course-d.md) — related
+- [Teaching and learning activities reported by students shift across categories from memorising facts to independent research reports](tla-progression-across-categories.md) — related

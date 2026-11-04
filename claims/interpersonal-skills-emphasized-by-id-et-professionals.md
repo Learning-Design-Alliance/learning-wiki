@@ -72,3 +72,4 @@ The comparison section reports that “many K12 ETs emphasized gaining buy-in an
 - [Communication skills are consistently ranked the most important competencies yet underemphasized in professional preparation](communication-skills-most-important-but-underemphasized.md) — related
 - [Altınay and colleagues emphasize critical thinking, critical friendship, teamwork, and network-based collaboration for international standards](critical-friendship-teamwork-international-standards.md) — related
 - [Feedback provision is emphasized more than receiving feedback in P2P-teacher qualification measures](feedback-provision-over-receiving-p2p.md) — related
+- [Students report that EI supports interpersonal relationships and teamwork through empathy, active listening, and conflict management](ei-teamwork-empathy-conflict-management.md) — related

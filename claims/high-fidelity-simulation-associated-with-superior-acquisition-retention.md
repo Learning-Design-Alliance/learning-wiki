@@ -76,3 +76,4 @@ The review reports contradictory individual findings: Zhao et al (2021), Ochoa e
 - [Residents training on placenta models performed better than residents training on cadavers or only having surgical videos available](placenta-model-residents-performed-better.md) — a narrower finding that bears on this claim
 - [Preoperative mental practice and mental imagery enhance MIS surgical performance](mental-practice-enhances-mis-performance.md) — related
 - [Lecture plus 3D courseware produced significantly better learning results than lecture alone, lecture plus video, and lecture plus image instruction](3d-courseware-superior-learning-results-color-management.md) — a narrower finding that bears on this claim
+- [High-fidelity simulation combining 3D printing, moulage, and role-play yields higher stoma care knowledge scores than low-fidelity static models in nursing students](hfs-3d-printer-moulage-higher-stoma-knowledge.md) — a narrower finding that bears on this claim

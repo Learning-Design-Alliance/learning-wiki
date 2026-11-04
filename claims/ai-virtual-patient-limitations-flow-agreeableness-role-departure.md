@@ -74,3 +74,4 @@ Subgroup analysis of studies published before 2023, prior to the LLM era: the re
 - [AI-generated virtual patients in HPE are used mainly for teaching and learning communication skills, diagnostic reasoning and management reasoning, with assessment a minority use case](ai-virtual-patients-hpe-use-case-range.md) — related
 - Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes — related
 - [Reviewed GenAI virtual patients show underdeveloped emotional-behavioral complexity, limited adaptability beyond dialog, and no memory across interactions](genai-vp-emotional-complexity-and-memory-limitations.md) — a narrower finding that bears on this claim
+- [Technical limitations including delayed responses and transcription errors constrained AIVP realism and rapport-building](aivp-technical-limitations-constrained-realism.md) — possibly the same claim (merge candidate)

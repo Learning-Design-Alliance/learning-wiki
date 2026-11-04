@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 255 claims (144 for, 93 mixed, 18 against) · 162 studies (77 review, 38 quant-synthesis, 28 causal, 8 design, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 30 of 162 report an effect size · 245 claims rest on one study
+> **Evidence** · 269 claims (156 for, 94 mixed, 19 against) · 170 studies (77 review, 38 quant-synthesis, 34 causal, 10 design, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 32 of 170 report an effect size · 259 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -310,6 +310,20 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Simulation exposure produced no detectable change in clinical trials career interest](../claims/vct-no-career-interest-change.md) [~W]
 - [Alternating simulation scenarios with bedside teaching lets students practice less harmful examinations on real patients and invasive or rejected items on simulators, ensuring patient safety](../claims/alternating-simulation-bedside-patient-safety.md) [+W]
 - [Integrated simulation-and-clinical-practice teaching produced no statistically significant difference in clinical basic skills or theory exam scores compared with traditional teaching](../claims/integrated-simulation-clinical-practice-no-score-difference.md) [-W]
+- [High-fidelity simulation combining 3D printing, moulage, and role-play yields higher stoma care knowledge scores than low-fidelity static models in nursing students](../claims/hfs-3d-printer-moulage-higher-stoma-knowledge.md) [+M] — attached 2026-11-04 from Avcu Cagla et al. (2026), which proposed "High-fidelity stoma care simulation model integrating 3D-printed stoma, moulage, and peer role-play".
+- [High-fidelity simulation yields higher stoma care skill scores than low-fidelity static models](../claims/hfs-3d-printer-moulage-higher-stoma-skills.md) [+M] — attached 2026-11-04 from Avcu Cagla et al. (2026), which proposed "High-fidelity stoma care simulation model integrating 3D-printed stoma, moulage, and peer role-play".
+- [High-fidelity simulation yields higher student satisfaction and self-confidence in learning than low-fidelity models](../claims/hfs-3d-printer-moulage-higher-satisfaction-selfconfidence.md) [+W] — attached 2026-11-04 from Avcu Cagla et al. (2026), which proposed "High-fidelity stoma care simulation model integrating 3D-printed stoma, moulage, and peer role-play".
+- [In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73](../claims/virtual-simulation-scenario-standard-precautions-cvi-above-080.md) [+W] — attached 2026-11-04 from Gusmão Cristine Maria Pereira et al. (2026), which proposed "Validated virtual simulation scenario for teaching Standard Precautions and PPE donning and doffing".
+- [Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test](../claims/structured-vrst-curriculum-higher-goals-total.md) [+W] — attached 2026-11-04 from Sparn MB et al. (2026), which proposed "Structured VRST curriculum of 23 exercises in four modules for laparoscopic cholecystectomy"; tests this page's relationship.
+- [Prior evidence cited by the article shows simulation training improved shoulder dystocia delivery outcomes and reduced neonatal complications](../claims/prior-evidence-simulation-improves-outcomes.md) [+W]
+- [Nursing students report high satisfaction and self-confidence after hybrid simulation training](../claims/high-satisfaction-self-confidence-hybrid-simulation-nursing.md) [+W]
+- [All residents in high-fidelity scenarios diagnosed shoulder dystocia and called for assistance within one minute, but key tasks and documentation varied](../claims/high-fidelity-scenario-performance-gaps.md) [~W]
+- [Hybrid simulation with role-playing improves patient identification accuracy and allergy verification among nursing students](../claims/hybrid-simulation-improves-patient-id-and-allergy-verification.md) [+W]
+- [No significant difference in successful intubation rate or esophageal intubation rate before and after simulation training](../claims/simulation-no-significant-success-rate-change.md) [-W]
+- [Outpatient sick-day management showed the largest knowledge gap at baseline and the greatest post-simulation gain](../claims/sick-day-management-largest-gap-gain.md) [+W]
+- [Simulation-based radiology training significantly improves procedural sequencing knowledge from pretest to posttest among medical technical assistant trainees](../claims/simulation-radiology-training-improves-procedural-sequencing.md) [+W]
+- [A single simulation-based intervention with structured debriefing improved immediate adrenal crisis knowledge among pediatric residents](../claims/simulation-debriefing-improved-adrenal-crisis-knowledge.md) [+W]
+- [Theoretical pharmacology knowledge improves after simulation training except for the right patient domain](../claims/simulation-improves-pharmacology-knowledge-except-right-patient.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
@@ -392,6 +406,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Implement modelling as short, computer-simulation-supported activities at the high school level](../strategies/short-computer-supported-high-school-modelling-activities.md)
 - [Integrate AI-driven simulation into dental curricula as a complement to traditional training, attending to domain-specific effectiveness and the lack of long-term validated outcomes](../strategies/ads-curricular-integration-strategy.md)
 - [Co-design VR communication scenarios with nurse educators and technology developers, incorporating authentic clinical cases and language resources](../strategies/co-design-vr-scenarios-educators-developers.md)
+- [Integrate simulation, case-based learning, and communication-focused training into pre-clinical delirium curricula](../strategies/simulation-case-based-delirium-training.md)
 
 ## Key Sources
 - Garris, R., Ahlers, R., & Driskell, J. E. (2002). Games, motivation, and learning: A research and practice model. *Simulation & Gaming, 33*(4), 441–467. [doi:10.1177/1046878102238607](https://doi.org/10.1177/1046878102238607)

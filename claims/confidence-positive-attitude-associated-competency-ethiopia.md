@@ -50,5 +50,5 @@ Random-effects pooling of five studies on confidence and positive attitudes; the
 - [Encouragement from clinical staff is associated with higher clinical practice competency (AOR = 3.95)](clinical-staff-encouragement-associated-competency-ethiopia.md) — related
 - [Clinical preceptor support shows the strongest association with clinical practice competency (AOR = 4.44)](preceptor-support-associated-competency-ethiopia.md) — related
 - [The effect of high-fidelity simulation on practising nurses' self-confidence is inconclusive, varying by study design](hfs-self-confidence-inconclusive-design-dependent.md) — related
-- [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
+- [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [The pooled proportion of clinical practice competency among midwifery and nursing students in Ethiopia is 39.02%](pooled-competency-39-percent-ethiopia-nursing-midwifery.md) — related

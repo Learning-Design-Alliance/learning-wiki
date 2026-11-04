@@ -58,3 +58,4 @@ Five studies (373 students in all) assessed communication and collaboration skil
 - [More PBL than LBL students report satisfaction with improved communication skills (RR = 1.66)](pbl-satisfaction-communication-skills.md) — related
 - [Students reported positive evaluations of CBL, citing aroused learning interest, enhanced self-study, improved communication and cooperation, and improved problem-solving](cbl-positive-student-evaluations-psychology.md) — related
 - [A 15-week small-group PBL model in clinical practice sites significantly increased 5th-year pharmacy students' self-assessed competencies on all 17 evaluated items (P < 0.05)](pbl-clinical-model-increased-pharmacy-competencies-all-items.md) — related
+- [Communication and academic skills scored highest for usefulness at work (86%), leadership next (80%)](communication-academic-highest-usefulness.md) — related

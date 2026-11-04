@@ -1,0 +1,50 @@
+---
+type: claim
+title: All five GOALS subdomains (depth perception, bimanual dexterity, efficiency, tissue handling, autonomy) were significantly improved after structured VRST
+description: All five GOALS subdomains (depth perception, bimanual dexterity, efficiency, tissue handling, autonomy) were significantly improved after structured VRST
+id: structured-vrst-improves-all-goals-subdomains
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-03
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: sparn-mb-2026
+    resource: "https://doi.org/10.1007/s00464-026-12755-z"
+    title: "Sparn MB, Chatziisaak D, Schmied B, Brunner W, Vitz M, Ströse L, Hahnloser D, Bischofberger S. (2026). Effect of a structured virtual reality simulation curriculum on laparoscopic performance in a porcine cholecystectomy model: a prospective comparative study. Surgical Endoscopy. https://doi.org/10.1007/s00464-026-12755-z"
+    author: Sparn MB, Chatziisaak D, Schmied B, Brunner W, Vitz M, Ströse L, Hahnloser D, Bischofberger S.
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# All five GOALS subdomains (depth perception, bimanual dexterity, efficiency, tissue handling, autonomy) were significantly improved after structured VRST
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` Each GOALS subdomain score was significantly higher in the intervention group than in controls. [→ Sparn MB 2026](#sparn-mb-2026)
+
+## Evidence
+
+### Sparn MB 2026
+
+Sparn MB, Chatziisaak D, Schmied B, Brunner W, Vitz M, Ströse L, Hahnloser D, Bischofberger S. (2026). Effect of a structured virtual reality simulation curriculum on laparoscopic performance in a porcine cholecystectomy model: a prospective comparative study. Surgical Endoscopy. https://doi.org/10.1007/s00464-026-12755-z
+
+`q3 · i?` · `causal · r1`
+
+Mann–Whitney comparisons of blinded GOALS domain ratings in the same 71-participant porcine cholecystectomy post-test showed the intervention group "scored higher" on every subdomain, with p values from 0.008 to 0.029 as printed.
+
+> "the intervention group scored higher in 'depth perception' (U = 397.5; p = 0.019), 'bimanual dexterity' (U = 387.5; p = 0.014), 'efficiency' (U = 375.5; p = 0.010), 'tissue handling' (U = 411.0; p = 0.029), and 'autonomy' (U = 367.5; p = 0.008)."
+
+## Discussion
+
+
+## Related Claims
+- [Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test](structured-vrst-curriculum-higher-goals-total.md) — a broader claim this one bears on
+- [Subjective performance ratings (NRS) were significantly higher after structured VRST than after deliberate practice](structured-vrst-higher-nrs-ratings.md) — related
+- [Virtual reality training shows no significant improvement in total GOALS scores or GOALS domains compared with no additional training](vrt-no-goals-improvement-versus-nat.md) — reports the opposite

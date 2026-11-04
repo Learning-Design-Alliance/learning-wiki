@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 60 claims (32 show a difference, 13 mixed, 15 no difference) · 34 studies (18 causal, 6 review, 5 associational, 2 design, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 11 of 34 report an effect size · 59 claims rest on one study
+> **Evidence** · 64 claims (34 show a difference, 14 mixed, 16 no difference) · 36 studies (18 causal, 6 review, 6 associational, 2 design, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 11 of 36 report an effect size · 63 claims rest on one study
 
 ## Bottom line
 
@@ -98,6 +98,10 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Learning style (auditory, read, kinesthetic) has a statistically significant effect on elementary students' emotional intelligence](../claims/learning-style-significant-effect-emotional-intelligence.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
 - [The interaction between learning model and learning style on emotional intelligence is not significant](../claims/model-by-learning-style-interaction-not-significant.md) [-M] — an effect differed by reported style in this study; matching to style is not supported overall
 - [Matching styles of learning shows a small effect size of ES = 0.41, limited by difficulty discerning meta-analyses](../claims/matching-learning-styles-small-effect-limited.md) [~M] — an effect differed by reported style in this study; matching to style is not supported overall
+- [Belief in combining learning modalities shows a weak positive correlation with exam scores](../claims/multimodal-belief-weak-positive-exam-correlation.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Online video lectures are the most preferred learning modality among medical students, chosen by 71.7% versus 26.9% for textbooks and 1.4% for university lectures](../claims/ovl-most-preferred-modality-medical-students.md) [+M] — reported style was measured as an outcome of the instruction studied
+- [Preferred learning modality shows no significant association with exam scores among medical students](../claims/preferred-modality-no-exam-score-association.md) [-M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Three qualitative themes emerged from free-text responses: visual engagement and retention, preference for blended delivery, and projection visibility as a technical constraint](../claims/rat-qualitative-themes-three.md) [~M] — reported style was measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

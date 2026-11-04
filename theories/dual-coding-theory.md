@@ -12,7 +12,7 @@ generated:
 # Dual Coding Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 25 claims (22 for, 3 mixed) · 20 studies (13 causal, 5 review, 1 associational, 1 qualitative), `q1`–`q3` · 1 of 20 report an effect size · 25 claims rest on one study
+> **Evidence** · 26 claims (23 for, 3 mixed) · 21 studies (13 causal, 5 review, 1 associational, 1 qualitative, 1 design), `q1`–`q3` · 1 of 21 report an effect size · 26 claims rest on one study
 
 ## Description
 Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems. Learning can improve when instruction coordinates language with meaningful imagery or other visual representation.
@@ -50,6 +50,7 @@ Dual Coding Theory proposes that verbal and nonverbal information can be process
 - [Viewing captioned instructional videos significantly improves EFL learners' overall language proficiency compared to viewing without captions.](../claims/captions-improve-language-proficiency-efl.md) [+W] — attached 2026-11-03 from BavaHarji et al. (2014), which proposed "Dual coding theory and multiple-channel theory explain how captioned videos enhance language learning through simultaneous visual and verbal coding.".
 - [EFL learners perceive captioned instructional videos as helpful for vocabulary acquisition but not as a distraction to comprehension.](../claims/captions-perceived-as-vocabulary-aid-not-distraction.md) [+W]
 - [Graphic novel instruction significantly improved EFL students' vocabulary learning compared to plain text instruction](../claims/graphic-novels-improve-vocabulary-learning.md) [+W] — attached 2026-11-03 from Öz et al. (2015), which proposed "Visual scaffolding: pictures in graphic novels function as contextual clues that support EFL comprehension and vocabulary learning"; tests this page's relationship.
+- [Students most often cited visualisation of complicated processes as the most helpful aspect of the activity.](../claims/visualisation-most-helpful-aspect.md) [+W]
 
 ## Related Theories
 

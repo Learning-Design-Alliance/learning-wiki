@@ -75,3 +75,4 @@ Same Swedish sibling-correlation analyses: "holding constant genetic relatedness
 - [Twin ratings show chaos in the home is partially genetically confounded with school achievement (22% genetic variance; 37% of association via shared genes)](chaos-home-genetic-confound-school-achievement.md) — a narrower finding that bears on this claim
 - [Associations between the rearing environment and children's outcomes can be partly or fully due to genetic confounding rather than causal environmental transmission](genetic-confounding-rearing-environment-causal-claims.md) — a narrower finding that bears on this claim
 - [Heritability of educational achievement varies as a function of SES in the United States but not in countries with more uniform access to high-quality education](heritability-ses-interaction-country-policy.md) — related
+- [Sibling similarity in symptoms is modest, with intraclass correlations of 0.07–0.15](modest-sibling-similarity-in-symptoms.md) — related

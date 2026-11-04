@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 89 claims (60 show a difference, 18 mixed, 11 no difference) · 60 studies (23 causal, 15 review, 10 quant-synthesis, 10 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 60 report an effect size · 88 claims rest on one study
+> **Evidence** · 92 claims (62 show a difference, 18 mixed, 12 no difference) · 63 studies (23 causal, 15 review, 12 associational, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 16 of 63 report an effect size · 91 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -125,6 +125,9 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Web-assisted instruction with emotional intelligence content produced higher post-test academic achievement, environmental attitudes and emotional intelligence than traditional lecture in 8th-grade energy-saving instruction](../claims/web-assisted-ei-content-posttest-advantage.md) [+M] — instruction changes it
 - [No significant difference in EI growth between online and face-to-face intervention groups](../claims/no-difference-online-versus-face-to-face-ei.md) [-M] — instruction changes it
 - [Pre-test scores were the only statistically significant predictor of Trait EI post-test scores](../claims/pre-test-only-significant-trait-ei-predictor.md) [+M] — learners who differ on it differ in outcomes
+- [Facial emotion recognition accuracy does not differ significantly between low-achieving and control adolescents, though accuracy varies strongly across emotion categories.](../claims/no-fer-accuracy-group-difference.md) [-M] — learners who differ on it differ in outcomes
+- [Health sciences students experience emotional intelligence as self-awareness and emotional regulation that develops over time rather than as an innate trait](../claims/ei-self-awareness-regulation-developmental-qualitative.md) [+M] — measured as an outcome of the instruction studied
+- [Performance-based emotion recognition ability is a small but significant independent predictor of OSCE performance](../claims/emotion-recognition-predicts-osce-performance.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

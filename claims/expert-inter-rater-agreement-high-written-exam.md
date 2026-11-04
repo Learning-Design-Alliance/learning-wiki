@@ -55,3 +55,4 @@ In the evaluation, the written exam "was graded by three experts", providing the
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [Human Graders of Open-Ended Work Agree With Each Other Less Than Treating One Grade as Ground Truth Implies](human-graders-agree-less-than-single-grade-ground-truth-implies.md) — related
 - [Posttest scoring by three judges showed high inter-judge reliability across all four poster dimensions](posttest-judge-reliability-kendall-w.md) — a narrower finding that bears on this claim
+- [Inter-rater reliability of the drawing assessments was high, with an average-measures ICC of 0.988 for the total score](high-inter-rater-reliability-drawing-assessments.md) — related

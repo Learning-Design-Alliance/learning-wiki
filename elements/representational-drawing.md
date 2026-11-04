@@ -13,7 +13,7 @@ generated:
 # Representational Drawing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (4 for, 7 mixed, 2 against) · 11 studies (8 causal, 2 quant-synthesis, 1 review), `q1`–`q3` · 3 of 11 report an effect size · 13 claims rest on one study
+> **Evidence** · 15 claims (6 for, 7 mixed, 2 against) · 12 studies (9 causal, 2 quant-synthesis, 1 review), `q1`–`q3` · 3 of 12 report an effect size · 15 claims rest on one study
 
 ## Description
 Representational drawing is the element in which learners sketch, diagram, or draw structures and relationships to support understanding.
@@ -36,3 +36,5 @@ Representational drawing is the element in which learners sketch, diagram, or dr
 - [Model-focused framing prompts yield higher transfer learning gains than business-as-usual, while drawing-focused prompts yield lower gains than the control condition](../claims/model-framing-higher-transfer-gains-draw-lower.md) [-W]
 - [CAD integration at the synthesis stage increases idea generation and 2D-to-3D sketch changes and yields higher-rated synthesis products](../claims/cad-synthesis-stage-more-ideas-and-higher-products.md) [~W]
 - [The form of automatically generated model-based feedback did not influence the type of representation](../claims/feedback-form-did-not-influence-representation-type.md) [~W]
+- [TBDM was associated with a higher total drawing score than TMBM, with an adjusted mean difference of 11.96 points](../claims/tbdm-higher-total-drawing-score.md) [+W] — attached 2026-11-04 from Wu Yun et al. (2026), which proposed "Tracing-Based Drawing Method (TBDM): standardized 1:1 cranial templates with transparent tracing as a transitional scaffold".
+- [TBDM outperformed TMBM on all four drawing-score dimensions: structural completeness, proportional accuracy, adjacency accuracy, and artistic quality](../claims/tbdm-higher-on-all-four-dimensions.md) [+W] — attached 2026-11-04 from Wu Yun et al. (2026), which proposed "Tracing-Based Drawing Method (TBDM): standardized 1:1 cranial templates with transparent tracing as a transitional scaffold".

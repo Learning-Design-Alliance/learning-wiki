@@ -13,7 +13,7 @@ generated:
 # Progressive Disclosure
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (5 review, 2 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 4 claims (2 for, 2 mixed) · 11 studies (5 review, 3 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Progressive disclosure structures content so that learners see a simplified or partial view first, with additional layers of detail, options, or complexity revealed only after the foundational material is mastered. It functions as a sequencing element: the design decision is not *what* to teach but *when* each piece becomes visible, keeping the learner's working-memory load matched to their current competence.
@@ -53,7 +53,7 @@ Progressive disclosure manages intrinsic load by preventing the simultaneous pre
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](../claims/genai-progressive-disclosure-cbl-final-exam.md) [~W]
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — provide the overview that staged disclosure otherwise hides, preventing disorientation

@@ -66,3 +66,4 @@ The review's synthesis states that "Image‐based quizzes and formative feedback
 ## Related Claims
 - Research output on digital histology and pathology teaching increased steadily from 2013 to 2024, with first-year medical students the most frequently studied group — related
 - [Histology and pathology teaching methods in digital and blended environments have become more accessible, interactive, and student-centered than traditional instruction, with e-learning modules the most frequently used method](digital-histology-teaching-methods-more-student-centered.md) — related
+- [Static quiz-based posts dominate engagement on an educational histology Instagram account, indicating a preference for active recall formats](histo-embryo-static-quiz-posts-dominate-engagement.md) — related

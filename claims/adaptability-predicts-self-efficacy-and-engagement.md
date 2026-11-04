@@ -52,3 +52,4 @@ In the same fully-forward SEM of 500 students, adaptability (Adaptability Scale 
 - [Self-efficacy significantly predicted engagement and inversely predicted disengagement, and mediated adaptability's links to outcomes](self-efficacy-predicts-engagement-and-mediation.md) — related
 - [Fluid reasoning significantly predicted enjoyment but not self-efficacy after accounting for adaptability and covariates](fluid-reasoning-predicts-enjoyment-not-self-efficacy.md) — related
 - [Lockdown was significantly associated with higher disengagement (β = 0.12) but not with self-efficacy among university students](lockdown-predicts-disengagement-not-self-efficacy.md) — related
+- [Intervention group reports higher perceived difficulty, reasoning improvement, engagement, self-efficacy, and course material evaluation](genai-cbl-subjective-experience.md) — related

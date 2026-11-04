@@ -54,3 +54,4 @@ Descriptive mapping of program country of origin across WHO regions. The review 
 - [School belonging research is geographically concentrated in WEIRD contexts, with entire world regions virtually absent from the evidence base](weird-concentration-school-belonging-research.md) — a broader claim this one bears on
 - [The GTA literature is skewed towards the Global North and largely omits patient perspectives, despite patient-centred justifications for GTA programmes](gta-literature-gaps-patient-voice-global-north.md) — a broader claim this one bears on
 - [Academic global surgery programs most frequently emphasize competencies in equity, research, systems strengthening, and leadership](ags-programs-emphasize-equity-research-systems-leadership.md) — related
+- [International frameworks incorporate structured curricula, mentorship, proctoring, and competency-based progression](international-frameworks-structured-competency-progression.md) — related

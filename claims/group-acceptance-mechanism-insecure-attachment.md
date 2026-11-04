@@ -51,3 +51,4 @@ Authors' theoretical interpretation (type e) in the discussion, citing Bowth & J
 - [Cooperative learning is associated with greater peer acceptance and cross-group friendships and has been shown to reduce bullying and perceived stress among marginalized students](cooperative-learning-promotes-inclusion.md) — related
 - [The instructor-led mindfulness arm showed significant pre-post improvements in mindfulness, self-compassion, well-being, perceived stress, anxiety, depression, and burnout, while the self-taught arm showed significant pre-post improvements in self-compassion and well-being](mt-arm-specific-pre-post-improvements.md) — related
 - [Group play therapy increases collaboration skills of orphans](group-play-therapy-increases-collaboration-orphans.md) — related
+- [Students describe EI as a mechanism for managing academic stress through time management and mastery-oriented cognitive reframing](ei-stress-management-time-mastery-reframing.md) — related

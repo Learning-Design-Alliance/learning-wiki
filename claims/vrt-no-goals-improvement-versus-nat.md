@@ -71,3 +71,4 @@ Meta-analysis of five RCTs on GOALS domain scores, 47 participants randomized to
 - [Virtual reality training improves economy-of-movement and error global rating scores compared with no additional training in one RCT](vrt-improves-grantcharov-grs-domains.md) — related
 - [Robotic novices trained with extended reality simulators complete tasks significantly faster than novices with no additional training](xr-training-faster-time-to-complete-than-no-training.md) — related
 - [Extended reality training shows no statistically significant difference in time to complete compared to dry lab training](xr-vs-dry-lab-time-to-complete-no-significant-difference.md) — related
+- [All five GOALS subdomains (depth perception, bimanual dexterity, efficiency, tissue handling, autonomy) were significantly improved after structured VRST](structured-vrst-improves-all-goals-subdomains.md) — reports the opposite

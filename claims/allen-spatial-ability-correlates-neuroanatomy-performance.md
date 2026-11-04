@@ -55,3 +55,4 @@ Crossover trial comparing a 3D online learning module with gross anatomy lab res
 - [Interactive 3D stereoscopic video produced higher post-test scores on anatomical relationships and clinical reasoning than 2D video (Bernard et al.)](bernard-3d-stereoscopy-relationships-reasoning.md) — related
 - [Spatial ability significantly predicts learning gains in XR anatomy training contexts, suggesting elementary XR designs need layered scaffolds for varying spatial reasoning](spatial-ability-predicts-xr-learning-gains.md) — related
 - [Baseline 50-states pretest scores predicted game performance more strongly than CMT spatial-reasoning scores](baseline-pretest-predicts-game-performance-better-than-cmt.md) — related
+- [Spatial training studies report statistically significant improvements in spatial anatomy performance despite null effects on knowledge test scores](spatial-training-improves-spatial-anatomy-performance.md) — related

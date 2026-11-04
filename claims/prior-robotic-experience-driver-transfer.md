@@ -50,3 +50,4 @@ Narrative synthesis across the five included studies in this systematic review. 
 - [Surgical competence in robotic LLND is achieved after 12–53 cases regardless of learning outcome](robotic-llnd-competence-12-53-cases.md) — related
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related
 - [Intermediate-level trainees exhibit reduced performance when transferring between robotic platforms (GEARS −2.9)](intermediates-reduced-scores-platform-transfer.md) — related
+- [Prior laparoscopic and robotic experience transferred to the Versius platform, enabling proficiency in fewer than 40 cases under structured proctoring](skill-transfer-prior-experience-versius.md) — a narrower finding that bears on this claim

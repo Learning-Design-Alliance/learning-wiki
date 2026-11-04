@@ -49,3 +49,5 @@ This is an author interpretation stated in the review's Background section, not 
 - [Objective, device-based feedback is preferred in cardiac arrest simulation education](device-based-feedback-preferred.md) — a narrower finding that bears on this claim
 - Current cardiac arrest simulation feedback literature primarily focuses on technical skills measured quantitatively, with limited research on non-technical aspects — related
 - [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](analytics-feedback-reflection-strengthen-learning-gains.md) — a broader claim this one bears on
+- [Final-year dental students show insufficient competence in AED use under conventional voice prompts in a simulated cardiac arrest scenario](dental-students-insufficient-aed-competence-conventional-prompts.md) — related
+- [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — a narrower finding that bears on this claim

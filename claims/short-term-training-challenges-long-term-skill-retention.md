@@ -61,3 +61,4 @@ This is the protocol's discussion-section synthesis (authors' interpretation) of
 - [No included flipped classroom study assessed long-term learning retention](no-long-term-retention-evidence-flipped-classroom.md) — a narrower finding that bears on this claim
 - [Critical evidence gaps include longitudinal effects on skill retention, comparative evaluations of guardrail designs, equity impacts at scale, and standardized replication metrics](genai-personalization-evidence-gaps.md) — related
 - [The authors interpret the weaker individual-level effects as possibly due to the informative-only format, short duration, and highly educated sample](authors-explanations-weak-individual-effects.md) — a narrower finding that bears on this claim
+- [Short-term skill retention after AR-guided training was stable for time and imaging metrics at a minimum one-day follow-up](ar-simulator-short-term-retention-stable.md) — related

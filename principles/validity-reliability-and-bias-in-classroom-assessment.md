@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 373 claims (167 for, 180 mixed, 26 against) · 284 studies (91 associational, 61 design, 46 causal, 45 review, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 25 of 284 report an effect size · 366 claims rest on one study
+> **Evidence** · 377 claims (169 for, 182 mixed, 26 against) · 288 studies (92 associational, 62 design, 48 causal, 45 review, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 25 of 288 report an effect size · 370 claims rest on one study
 
 ## Conditional relationship
 
@@ -447,6 +447,10 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The Algebra Achievement Test showed acceptable internal consistency and inter-rater reliability in this study](../claims/aat-reliability-k21-interrater.md) [~W]
 - [The 9-item questionnaire showed very high internal consistency (Cronbach's Alpha 0.97)](../claims/videogame-questionnaire-cronbach-alpha-097.md) [+W]
 - [The listening comprehension test measured ten sub-skills with high criterion validity and test-retest reliability](../claims/listening-comprehension-test-ten-skills-validity-reliability.md) [+W]
+- [The HLC-N demonstrates good construct validity with a six-factor structure explaining 72.558% of variance and good CFA model fit](../claims/hlc-n-good-construct-validity-efa-cfa.md) [+W]
+- [Inter-rater reliability of the drawing assessments was high, with an average-measures ICC of 0.988 for the total score](../claims/high-inter-rater-reliability-drawing-assessments.md) [+W]
+- [Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components](../claims/higher-concordance-binary-than-ternary-components.md) [~W]
+- [The 13-item attitude questionnaire demonstrated good internal consistency (Cronbach's α = 0.873) but was not formally validated as a psychometric instrument](../claims/rat-questionnaire-internal-consistency-alpha-0873.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

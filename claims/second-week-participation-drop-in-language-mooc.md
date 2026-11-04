@@ -48,3 +48,4 @@ Observed in the user flow data through the weeks of the 'Basic Spanish 1' MOOC. 
 - [A pronounced drop in performance occurs at week 8 after the first exam in an area of law, which is attributed to cyclic drops in motivation](week-8-performance-drop-motivation.md) — related
 - [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — related
 - [Online attrition during Orientation Week is twice that of onground classes' first week](orientation-week-attrition-double-online.md) — related
+- [Risk of first probation and attrition is highest early in didactic training, concentrated in the first and second academic units.](early-didactic-risk-window-probation-attrition-pa.md) — related

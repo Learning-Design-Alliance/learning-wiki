@@ -49,6 +49,7 @@ The article recommends updating AI literacy frameworks so they "move beyond tool
 - [Integrate emotion-regulation and metacognitive support into AI literacy education, with differentiated learning assistance](ai-literacy-emotion-regulation-metacognitive-support.md)
 - [Define a shared empirical research agenda grounding K-12 AI education designs](k12-ai-education-research-agenda.md)
 - [Provide early, proactive metacognitive support that guides feedback interpretation and strategy adjustment, beyond merely presenting performance information](early-proactive-calibration-support-tools.md)
+- [Evaluate AI-assisted training with a post-training unaided assessment on a separate radiograph set](post-training-unaided-evaluation-strategy.md)
 
 ## Examples
 -

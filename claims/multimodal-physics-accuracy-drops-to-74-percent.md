@@ -76,3 +76,4 @@ Cochran's Q test for paired proportions comparing the three models on the 44 mul
 - [The review reports, citing Polverini and Gregorcic, that ChatGPT-4-Turbo solves physics tasks with line graphs with a similar overall score as high school students](chatgpt-4-turbo-line-graph-physics-score-similar-high-school-students.md) — related
 - [Studies using both text- and image-based questions show higher pooled LLM accuracy (78%) than text-only studies (71%)](multimodal-questions-higher-llm-accuracy.md) — reports the opposite
 - [LLMs underperformed on image-based dental examination questions compared with text-based questions](llms-underperform-image-based-questions.md) — related
+- [Image-associated items show lower model accuracy both when images are supplied (OR 0.33) and when withheld (OR 0.11)](image-items-lower-model-accuracy.md) — related

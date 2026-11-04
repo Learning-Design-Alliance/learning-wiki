@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 75 claims (47 for, 26 mixed, 2 against) · 54 studies (22 causal, 14 quant-synthesis, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 12 of 54 report an effect size · 73 claims rest on one study
+> **Evidence** · 78 claims (49 for, 27 mixed, 2 against) · 56 studies (24 causal, 14 quant-synthesis, 7 review, 6 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 13 of 56 report an effect size · 76 claims rest on one study
 
 ## Description and scope
 
@@ -180,6 +180,9 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [No significant difference in final examination scores between online and hybrid students](../claims/no-significant-difference-final-examination.md) [~W]
 - [Online students were as successful as hybrid students in overall course performance](../claims/online-as-successful-as-hybrid-overall-performance.md) [~W]
 - [Supplementing classroom instruction with e-learning raises post-test achievement more than classroom-only instruction](../claims/blended-elearning-raises-esp-posttest-scores.md) [+W]
+- [Blended learning achieves higher student satisfaction than traditional lectures in practical immunohematology training](../claims/blended-learning-higher-satisfaction-immunohematology.md) [+W]
+- [Blended learning achieves higher hospital OSPE scores than traditional lectures in practical immunohematology training](../claims/blended-learning-higher-hospital-ospe-immunohematology.md) [+M]
+- [Nursing students report high satisfaction and self-confidence after hybrid simulation training](../claims/high-satisfaction-self-confidence-hybrid-simulation-nursing.md) [~W]
 
 ## Examples
 

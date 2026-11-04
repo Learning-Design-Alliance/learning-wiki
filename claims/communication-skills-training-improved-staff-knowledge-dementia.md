@@ -47,3 +47,4 @@ A multi-centre-controlled pretest/post-test design with randomized cohort alloca
 ## Related Claims
 - [Implementation of the capabilities model of dementia care was associated with better staff work satisfaction and family-rated quality of life at 12 months](capabilities-model-dementia-care-improved-satisfaction-qol.md) — related
 - [CNTPs improve nurses' traits including psychological empowerment, job productivity, professional development and the affective dimension, though some effects fade at follow‐up](cntps-improve-nurse-traits-narrative.md) — related
+- [SVVR training produces greater gains in nurses' delirium care knowledge than noninteractive video education immediately after training and at 1-month follow-up](svvr-greater-delirium-knowledge-gains-than-video.md) — related

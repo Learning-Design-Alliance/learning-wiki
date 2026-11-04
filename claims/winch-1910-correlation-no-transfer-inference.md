@@ -46,3 +46,4 @@ The author's interpretive conclusion (General Conclusions section) drawn from th
 
 ## Related Claims
 - [Accuracy in arithmetical reasoning and accuracy in numerical computation were highly positively correlated in each school, but such correlation does not warrant inferring causal relation or transfer](winch-high-positive-correlations-reasoning-computation.md) — possibly the same claim (merge candidate)
+- [Improving parental mental health in general may not in itself improve children's educational outcomes](improving-parental-mental-health-may-not-improve-achievement.md) — a narrower finding that bears on this claim

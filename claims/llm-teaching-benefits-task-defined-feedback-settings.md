@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: liu-xiaoliu-2026
     resource: "https://doi.org/10.1186/s12909-026-09879-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports the clearest signals in case-based progression, history-taking practice, simulated patients, and structured feedback training — settings sharing clearly defined tasks, immediate feedback, and repeated practice. [→ Liu Xiaoliu 2026](#liu-xiaoliu-2026)
@@ -58,3 +59,4 @@ The review's narrative synthesis of included-study results, attributed to specif
 - [In an RCT reviewed by this study, an LLM-based digital patient improved ophthalmology medical history-taking skills relative to control](llm-digital-patient-improves-history-taking-rct.md) — a narrower finding that bears on this claim
 - [Near-peer feedback improved clinical note scores compared to no feedback in one included study](near-peer-feedback-improves-clinical-note-scores.md) — related
 - [Regular ISS over longer periods was reported for complex practices and patient outcomes, while one to three sessions were reported effective for more easily defined or isolated tasks](iss-frequency-matches-task-complexity.md) — related
+- [Simulated-patient and expert rating convergence may depend on comprehensive simulated-patient training](simulated-patient-training-supports-expert-congruence.md) — related

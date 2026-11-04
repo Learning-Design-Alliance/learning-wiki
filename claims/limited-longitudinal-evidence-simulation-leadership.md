@@ -55,3 +55,4 @@ The review's own limitations analysis of its 12 included studies, many of which 
 - [Evidence for transfer of simulation training to operating-room outcomes was sparse in neuro-oncological simulation research](sparse-transfer-evidence-simulation-to-or.md) — related
 - [No included flipped classroom study assessed long-term learning retention](no-long-term-retention-evidence-flipped-classroom.md) — related
 - [Critical evidence gaps include longitudinal effects on skill retention, comparative evaluations of guardrail designs, equity impacts at scale, and standardized replication metrics](genai-personalization-evidence-gaps.md) — related
+- [Students conceptualize EI as the foundation of leadership development and leadership readiness, including patient-centered leadership](ei-leadership-readiness-foundation.md) — related

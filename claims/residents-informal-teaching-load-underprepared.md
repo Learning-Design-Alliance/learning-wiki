@@ -49,3 +49,4 @@ This is the review's thematic synthesis (Theme 1) of 32 studies spanning surveys
 - [Residents across specialties and regions consistently request structured teaching training with explicit objectives](residents-request-structured-teaching-training.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Longitudinal, integrated RaT programs produce more durable teaching skill gains than brief stand-alone workshops](longitudinal-rat-programs-durable-gains.md) — related
+- [EI development occurred informally through experience rather than structured curricular mechanisms, revealing an institutional gap](ei-institutional-gap-informal-development.md) — related

@@ -50,3 +50,4 @@ The review reports that "Jamenis et al. (2020) found that Mini-CEX improved orth
 - [OSCE use in orthodontic education improves diagnostic accuracy, procedural proficiency, and communication skills through simulated patient interactions](osce-improves-orthodontic-clinical-competence.md) — related
 - [Mini-CEX shows a positive effect of feedback and perceived positive educational impact, with most specialists recording strengths, improvement areas and agreed actions](mini-cex-positive-feedback-effect-educational-impact.md) — related
 - [A structured feedback format enabled peer observers to observe systematically and helped presenters identify areas to improve](structured-peer-feedback-format-improves-presentations.md) — related
+- [AI scores correlated significantly with Mini-CEX scores (r = 0.579, p < 0.001)](ai-scores-correlate-minicex-r-0579.md) — related

@@ -51,6 +51,7 @@ The review's concluding recommendation for a balanced instructional approach: "t
 - [Use laboratory teaching approaches that develop scientific process skills and include activities in which students take responsibility](laboratory-activities-develop-process-skills-and-responsibility.md)
 - [Prioritize virtual simulation methods in teachers' instructional design, especially for practical worship topics](prioritize-virtual-simulation-instructional-design.md)
 - [Use web-assisted activities and simulations in an integrated way with real experiments rather than as a replacement](integrated-web-activities-with-real-experiments.md)
+- [Pair large-group RAT with small-group Anatomage laboratory sessions to create a tiered blended learning model](tiered-blended-rat-plus-small-group-anatomage.md)
 
 ## Examples
 -

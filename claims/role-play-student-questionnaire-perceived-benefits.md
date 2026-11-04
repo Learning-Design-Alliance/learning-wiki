@@ -50,3 +50,4 @@ Feedback questionnaire given to observation-group students only (n=25) after the
 - [Studies of simulated patient-based CST report positive effects on trainee confidence and communication performance](sp-cst-positive-effects-confidence-performance.md) — a broader claim this one bears on
 - [Undergraduate medical student education combining didactic sessions, role-play and experiential learning increased confidence in medication history and reconciliation](student-confidence-increased-medication-reconciliation.md) — related
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — related
+- [Students reported high confidence gains in history-taking, differential diagnosis, and management planning from AIVP](aivp-survey-confidence-gains.md) — related

@@ -105,3 +105,4 @@ Uncontrolled before-after study (RT-SIM) with 32 psychiatry residents completing
 - [Simulation training improves self-perceived skills at six-month follow-up compared with active comparators, but shows no significant skill advantage at immediate post-test](simulation-skills-six-month-followup-suicide.md) — related
 - [A randomized controlled trial found VR and conventional 2D approaches both improved orthognathic diagnosis and treatment planning understanding with no significant difference between groups](vr-versus-conventional-orthognathic-planning-no-difference.md) — related
 - [There is weak evidence to support one resilience intervention over another for physicians who have completed training](weak-evidence-resilience-interventions-physicians.md) — related
+- [AI chatbot access is associated with improved diagnostic accuracy in pre-clerkship medical students](ai-access-improves-diagnostic-accuracy-preclerkship.md) — related

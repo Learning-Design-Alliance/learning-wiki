@@ -48,3 +48,4 @@ Findings from the semi-structured interviews with twelve participants, analyzed 
 - [After PCR instruction, apology WDCT scores improved significantly on some criteria but not on politeness in either scenario](pcr-apology-gains-mixed-by-criterion.md) — related
 - [Twelve sessions of PCR instruction significantly improved Thai engineering students' WDCT performance on complaints across all four criteria in both scenarios](pcr-improves-complaint-wdct-scores.md) — related
 - [Participants perceived the PCR class as beneficial in four areas: awareness of social factors, indirect strategies, nonverbal communication, and a motivating atmosphere](pcr-perceived-benefits-four-areas.md) — related
+- [Participants reported high satisfaction with simulation sessions but criticized time allocation and group size](simulation-session-satisfaction-time-group-size.md) — related

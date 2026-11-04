@@ -42,6 +42,8 @@ The editorial proposes a mentorship registry, potentially housed within ACS or R
 - [Develop discipline-specific transparency toolkits coauthored by first-generation faculty covering the unwritten mechanics of academic chemistry careers](discipline-specific-transparency-toolkits.md)
 - [Provide mentorship and outreach support after program entry to sustain persistence in alternative STEM programs](post-entry-mentorship-support-alternative-stem-programs.md)
 - [Contacts Between Students And Faculty](contacts-between-students-and-faculty.md)
+- [Establish equitable access and a national registry of trainee procedures](equitable-access-procedure-registry.md)
+- [Provide post-graduation mentorship, publication support and alumni engagement to further graduates' competence and employment](mph-post-graduation-mentorship-and-employment-advocacy.md)
 
 ## Examples
 -

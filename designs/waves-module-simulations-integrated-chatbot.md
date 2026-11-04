@@ -46,6 +46,7 @@ A 10-page extra-credit online activity on wave concepts, built for a large-enrol
 - [Combining visual demonstrations, guided inquiry, computational-model manipulation, and group discussion to teach cutting-edge science concepts](demo-inquiry-model-discussion-sequence.md)
 - [Three-phase Gen AI-assisted problem-posing activity with pre-training, training video, and post-training reflections](three-phase-gen-ai-problem-posing-activity.md)
 - [Scaffolding-perspective comparison of chatbots and search engines as technological scaffolds for problem posing](chatbot-search-engine-scaffolding-comparison.md)
+- [Custom-built web application integrating an AI chatbot into a three-part diagnostic reasoning case](ai-integrated-diagnostic-reasoning-web-application.md)
 
 ## Examples
 -

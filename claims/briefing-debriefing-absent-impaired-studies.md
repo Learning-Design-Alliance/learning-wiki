@@ -48,3 +48,4 @@ Review's audit of briefing and debriefing practices across the impaired-performa
 - Studies finding unaltered performance under simulation stress tended to involve more experienced participants and smaller samples — related
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](stereotype-threat-undermines-collaborative-contribution.md) — related
 - [Inducing a high-stress environment during healthcare simulation is generally associated with impaired performance](high-stress-simulation-impairs-performance.md) — related
+- [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related

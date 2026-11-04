@@ -71,3 +71,4 @@ Linear mixed models with activity ID as random intercept compared similarity acr
 - [Interest tailoring was structurally present in AI-generated readings: logs averaged 52.24 tailoring markers per 10,000 words and showed moderate divergence (cosine similarity 0.50–0.61)](interest-tailoring-structural-in-reading-logs.md) — related
 - [Large language models can support learning and teaching across education levels, from reading and writing support for elementary students to professional training](llm-support-learning-across-education-levels.md) — related
 - [LLM-generated ideas diverge from lesson ideas in grounding, misconception substance, vocabulary, uncertainty markers, and analogy use](llm-idea-divergence-patterns-qualitative.md) — related
+- [Mistral 7B shows high ICCs but low Fleiss kappa when scoring summary statements](mistral-7b-high-icc-low-fleiss-kappa.md) — related

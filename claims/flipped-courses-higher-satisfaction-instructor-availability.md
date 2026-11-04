@@ -52,3 +52,4 @@ Survey comparison using six items from the University Student Satisfaction and T
 - [Students in flipped college algebra rated the course overall significantly lower than lecture-based students (p = .04)](flipped-course-lower-overall-rating.md) — reports the opposite
 - [Pre-service teachers in the flipped-learning group reported high satisfaction with the flipped learning activity's usefulness for video-production skills](positive-questionnaire-feedback-flipped-activity.md) — related
 - [MLM students report more positive perceptions of instructor clarity, class atmosphere, and effective use of class time than non-MLM students despite identical instructors and in-class activities](mlm-students-better-perceptions-of-instruction.md) — related
+- [Trainees report high satisfaction with flipped classroom combined with CBL but flag pre-class time burden](flipped-classroom-cbl-satisfaction-pre-class-time-burden.md) — related

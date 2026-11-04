@@ -48,3 +48,4 @@ Narrative synthesis of the Adatara et al. cross-sectional study; the review repo
 - [Age is significantly associated with leaders' ICT use, with younger nurse leaders more able than older counterparts](age-associated-ict-use-nurse-leaders.md) — related
 - [Higher education level is significantly associated with leaders' ICT use and informatics competencies](education-level-associated-informatics-competencies.md) — related
 - [Gender, prior digital experience, training and related factors influence digital competence](digital-competence-influencing-factors.md) — a broader claim this one bears on
+- [Younger nursing professionals self-assessed RC competence highest, significantly on 4 of 8 subscales](younger-nurses-higher-self-assessed-rc-competence.md) — related

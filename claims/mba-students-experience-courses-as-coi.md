@@ -54,3 +54,4 @@ Descriptive analysis of the validated 34-item CoI Survey completed by 21 MBA stu
 - [Learner presence in an accelerated online MBA context manifests as three qualities: learner intentions, learner metacognition, and peer monitoring](learner-presence-three-qualities-mba.md) — related
 - [Peer monitoring among MBA learners goes beyond CoI social presence by involving professionally relevant evaluation of peers' contributions](peer-monitoring-exceeds-social-presence.md) — related
 - [International online MBA students perceived cultural differences in collaboration but reported they did not negatively affect their learning](cultural-differences-visible-not-negative-collaboration.md) — related
+- [Across all eight cases, the Integration dimension achieved the highest grand mean (4.61) while the Interest dimension received the lowest rating (4.15) with the smallest standard deviation.](pbl-bridge-integration-highest-interest-lowest-case-dimension.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2023
+source_checked: 2026-11-04
 sources:
   - id: yun-jungmi-2023
     resource: "https://doi.org/10.1186/s12909-023-04495-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Divergent results were obtained for communication ability, critical thinking, confidence, learning self-efficacy, and attitude toward patient safety. [→ Yun Jungmi 2023](#yun-jungmi-2023)
@@ -54,3 +55,4 @@ Narrative synthesis of the 12 included studies' outcome measures, which included
 - [SBAR-based simulation programs produce significant improvements in communication clarity for nursing students in six of twelve reviewed studies](sbar-simulation-improves-communication-clarity-nursing-students.md) — related
 - [Student nurses applied the seven CoRT critical thinking tools when delivering health talks to patients](cort-tools-applied-in-nursing-health-talks.md) — related
 - [Brain-based teaching showed no significant effect on learning, attitude, critical thinking, or self-efficacy in one prior study](brain-based-teaching-null-effect-siercks.md) — related
+- [Role-playing simulation with SBAR-based observation improves nurse-patient communication behaviors among nursing students](role-play-sbar-improves-nurse-patient-communication.md) — related

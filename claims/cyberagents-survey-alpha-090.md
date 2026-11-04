@@ -79,3 +79,4 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [The exam instrument showed acceptable reliability with a Cronbach coefficient of 0.82](exam-reliability-cronbach-082-nursing-skills.md) — related
 - [The Vocabulary Knowledge Scale used in the pilot showed very high internal consistency (α = .96)](vks-reliability-alpha-96-pilot.md) — related
 - [The 9-item questionnaire showed very high internal consistency (Cronbach's Alpha 0.97)](videogame-questionnaire-cronbach-alpha-097.md) — related
+- [The 13-item attitude questionnaire demonstrated good internal consistency (Cronbach's α = 0.873) but was not formally validated as a psychometric instrument](rat-questionnaire-internal-consistency-alpha-0873.md) — related

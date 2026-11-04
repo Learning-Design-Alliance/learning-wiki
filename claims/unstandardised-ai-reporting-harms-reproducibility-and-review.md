@@ -51,3 +51,4 @@ Editorial argument by the author, grounded in observed manuscript deficiencies: 
 - [A systematic search found almost no rigorous studies contrasting online and face-to-face instruction for K–12 students: none with computable effect sizes through 2006, and only five meeting meta-analysis criteria through July 2008.](few-rigorous-k12-online-studies.md) — related
 - Marked heterogeneity of assessment methods, many lacking formal validation, limits comparability between studies and standardisation of the field — related
 - Included AI-VP studies lack consistent theoretical frameworks and standardized outcome measures, preventing statistical aggregation — a narrower finding that bears on this claim
+- [Lack of standardised universally adopted training curricula persists across the literature](lack-standardised-training-curricula-heterogeneity.md) — related

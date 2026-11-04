@@ -46,6 +46,7 @@ FLEX is a blended learning study format at the Zurich University of Applied Scie
 ## Related Designs
 
 - [Blended learning as a student-centred combination of face-to-face and online instruction](blended-learning-conceptual-framework.md)
+- [Blended-learning CPD programme design combining asynchronous video lectures, case-based seminars and online discussions](blended-learning-cpd-component-mix-periodontology.md)
 
 ## Examples
 -

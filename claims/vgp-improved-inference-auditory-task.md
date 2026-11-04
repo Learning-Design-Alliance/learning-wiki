@@ -54,3 +54,4 @@ DDM fits to the auditory analog task (tone in white noise, varying tone-to-noise
 - [Fifty hours of action video-game training causally improves probabilistic inference in non-gamers, with better use of evidence only in the action-trained group](action-training-causal-probabilistic-inference.md) — related
 - [VGPs respond faster than NVGPs with equivalent accuracy, and the RT advantage is larger at low motion coherence](vgp-faster-rt-equivalent-accuracy-coherence-interaction.md) — related
 - [Apparent improvements from systematic sensory training locate in central factors such as attention and understanding, so strictly there is no sense training](sensory-gains-reflect-central-factors.md) — reports the opposite
+- [Junior 1, a regular video game player, showed the lowest hand motion values and greatest reduction in motion metrics, possibly reflecting dexterity transfer from gaming](video-gaming-dexterity-transfer-robotic-surgery.md) — related

@@ -55,3 +55,4 @@ In the dissatisfaction NMA (42 studies, 2921 trainees), ten interventions each s
 - [SBL is the highest-ranked strategy for medical students' satisfaction, significantly exceeding PBL and TBL as well as LBL](sbl-highest-ranked-student-satisfaction-nma.md) — related
 - [CBL increases teaching satisfaction versus LBL (RR=1.38)](cbl-increases-teaching-satisfaction.md) — related
 - [Residents report greater satisfaction with PBL-based teaching than with LBL in Chinese standardized residency training](pbl-higher-teaching-satisfaction-chinese-srt.md) — related
+- [PBL-CBL teaching increases resident satisfaction compared with traditional lecture-based teaching](pbl-cbl-increases-resident-satisfaction.md) — related

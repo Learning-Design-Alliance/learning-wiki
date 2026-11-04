@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 498 claims (240 for, 231 mixed, 27 against) · 267 studies (133 causal, 52 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 7 design), `q1`–`q4` · 89 of 267 report an effect size · 491 claims rest on one study
+> **Evidence** · 499 claims (240 for, 231 mixed, 28 against) · 268 studies (134 causal, 52 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 7 design), `q1`–`q4` · 89 of 268 report an effect size · 492 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -542,6 +542,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [DA makes learners aware of word-guessing strategies of identifying, evaluating, and monitoring.](../claims/da-promotes-vocabulary-strategy-awareness.md) [+W]
 - [At follow-up, prior posttest summarizing was the strongest predictor in both groups, and metacognitive knowledge additionally predicted achievement in the experimental group](../claims/mkr-predicts-followup-eg-only.md) [+W]
 - [Strategy training reduced familiarity-based judgments and increased no-memory responses, indicating a shift toward more reliable monitoring cues](../claims/training-shifts-cues-away-from-familiarity.md) [+W]
+- [Students do not reliably distinguish beneficial from detrimental AI influence on their diagnostic accuracy](../claims/students-cannot-distinguish-beneficial-detrimental-ai-influence.md) [-W]
 
 ## The evidence by question
 

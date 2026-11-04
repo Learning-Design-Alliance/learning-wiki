@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 423 claims (188 for, 178 mixed, 57 against) · 290 studies (109 causal, 61 review, 38 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 59 of 290 report an effect size · 407 claims rest on one study
+> **Evidence** · 425 claims (188 for, 180 mixed, 57 against) · 292 studies (111 causal, 61 review, 38 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 61 of 292 report an effect size · 409 claims rest on one study
 
 ## Description and scope
 
@@ -404,6 +404,8 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Leveraging reminders was the most common way to enhance the user-system dialogue in the reviewed interventions](../claims/reminders-most-common-dialogue-support.md) [~W]
 - [Student attitudes toward VOLTA were positive when it supplemented TA help but mixed when it replaced TA assistance](../claims/volta-attitudes-positive-with-ta-mixed-without.md) [~W]
 - [Tutor-intervention did not produce a statistically significant improvement in writing scores from pretest to posttest within the tutor group.](../claims/tutor-intervention-no-significant-writing-gain.md) [-W]
+- [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](../claims/genai-progressive-disclosure-cbl-final-exam.md) [~W]
+- [Absolute average error increased significantly from pre- to post-test in the conventional group but not in the AI-assisted group (exploratory)](../claims/conventional-group-error-increase-ai-group-stable.md) [~W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

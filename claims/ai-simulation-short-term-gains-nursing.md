@@ -77,3 +77,5 @@ Design-tier stratification of the review's included studies: 3 RCTs assessed wit
 - [Evidence on simulated patients versus peer role play is mixed: equal competence in one randomised trial, higher skills and satisfaction for SPs in others](sp-versus-peer-role-play-mixed.md) — related
 - [Video feedback intervention is associated with increased self-efficacy in athletic training students learning a psychomotor competency skill, with significant pairwise differences only between trials spanning the intervention](video-feedback-increases-self-efficacy-psychomotor-skill.md) — related
 - [Virtual and traditionally taught nursing groups showed no significant difference in practical skills measured by OSCE](osce-no-difference-virtual-traditional-nursing.md) — related
+- [MEET remediation cohort showed significant overall OSCE improvement after AI virtual patient use](aivp-meet-cohort-significant-osce-gain.md) — a narrower finding that bears on this claim
+- [Virtual simulation fosters clinical reasoning and psychomotor skills in a safe, realistic environment with immediate feedback](virtual-simulation-safe-environment-immediate-feedback-claim.md) — related

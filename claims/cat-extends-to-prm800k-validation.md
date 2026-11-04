@@ -53,3 +53,4 @@ Validation on PRM800K, a process supervision dataset with human-labelled reasoni
 - [Without step-level supervision, neither the student model nor the tutor model can acquire misconceptions regardless of training data size](step-level-supervision-essential-misconception-acquisition.md) — related
 - [The system's error detection recall rate for complex rhythm errors was 91.2% ± 1.8%](rhythm-error-detection-recall-91-2.md) — related
 - [A task-specific prompt with explicit guidance about correct-answer cases significantly outperforms literature-based PedCoT prompting on TM test cases (84% vs 59% accuracy)](task-specific-prompt-beats-pedcot-prompting.md) — related
+- [Models answer many trap items correctly even when the modal human answer is incorrect, with machine facility of 79.5% on trap items versus 24.4% human facility](models-answer-trap-items-correctly.md) — related

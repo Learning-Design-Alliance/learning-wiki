@@ -65,3 +65,4 @@ Frequency analysis of the skill dimension across included studies. The article s
 
 ## Related Claims
 - [Mapped against DigComp 2.2, developed-region frameworks cover communication and collaboration more widely while developing-region frameworks emphasize problem solving](regional-digcomp-coverage-developed-vs-developing.md) — related
+- [AI topics should be addressed in all domains and for all roles of nurses, supported by workshop consensus](tiger-2026-ai-across-all-roles.md) — related

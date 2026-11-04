@@ -49,3 +49,4 @@ The review reports, citing Reitano et al. 2023 (29 medical and non-medical stude
 - [Skill transferability is demonstrated in cross-platform simulated training amongst experts and novices](cross-platform-skill-transfer-novices-experts.md) — related
 - [Participants perceive skills as transferable between the Hugo RAS and dV-trainer, with higher workload reported on the SP platform](participant-perceptions-transferability-workload.md) — related
 - [Prior robotic surgical experience is the main driver of better baseline performance and skills progression](prior-robotic-experience-driver-transfer.md) — related
+- [Prior laparoscopic and robotic experience transferred to the Versius platform, enabling proficiency in fewer than 40 cases under structured proctoring](skill-transfer-prior-experience-versius.md) — related

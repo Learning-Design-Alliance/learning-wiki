@@ -45,7 +45,7 @@ The review concludes that HFS training can be used in ongoing training for pract
 - [High-fidelity simulation training improves professional skills among practising registered nurses (moderate pooled effect)](../claims/hfs-professional-skills-practising-nurses.md) [+W]
 - [The effect of high-fidelity simulation on practising nurses' self-confidence is inconclusive, varying by study design](../claims/hfs-self-confidence-inconclusive-design-dependent.md) [~W]
 - [Simulation Based Education Improves Outcomes](../claims/simulation-based-education-improves-outcomes.md) [+M]
-- [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](../claims/sbe-icu-within-group-gains-no-between-group.md) [~W]
+- [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](../claims/sbe-icu-within-group-gains-no-between-group.md) [~W]
 
 ## Related Strategies
 

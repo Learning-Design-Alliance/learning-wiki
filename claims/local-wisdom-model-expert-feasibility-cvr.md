@@ -51,3 +51,4 @@ Expert validation stage of the R&D study: three material experts rated 59 statem
 - [Expert and student judgements rate the WEIEC application feasible, with Aiken's V of 0.80 from experts and 0.81 from students](weiec-application-feasible-aiken-v-experts-students.md) — related
 - [In local-wisdom-based assessment development, integration of local wisdom values scores highest (71.92%) and validity lowest (56.92%)](assessment-aspects-integration-highest-validity-lowest.md) — related
 - [Outside experts judged that learners' knowledge structure integrity improved after participating in the SMM approach](knowledge-structure-integrity-improved.md) — related
+- [In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73](virtual-simulation-scenario-standard-precautions-cvi-above-080.md) — related

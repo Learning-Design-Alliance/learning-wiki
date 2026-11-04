@@ -56,3 +56,4 @@ Random-effects pooling of the 3 included studies that reported comprehensive que
 - [In the RCT, PBL students obtained significantly better final exam grades than LBL students, but the meta-analysis found no significant final-exam difference](pbl-final-exam-rct-vs-meta-analysis-discrepancy.md) — related
 - [PBL and LBL show no significant difference in comprehensive scores in surgical education](pbl-lbl-no-difference-comprehensive-scores-surgery.md) — reports the opposite
 - [The CBL group performed significantly better on the final exam than the non-CBL group](cbl-improves-final-exam-performance-biochemistry.md) — related
+- [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](genai-progressive-disclosure-cbl-final-exam.md) — related

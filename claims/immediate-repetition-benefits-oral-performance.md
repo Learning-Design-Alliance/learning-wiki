@@ -64,3 +64,4 @@ The article reviews prior task-repetition research (Bygate 2001; Ahmadian and Ta
 - [Task performance varied significantly across the nine oral communicative tasks on all speaking components](oct-anova-task-variance.md) — related
 - [Experimental group taught with oral communicative tasks significantly outperformed the control group on all post-task speaking components](oct-post-task-outperformed-control.md) — related
 - [Project-based CLIL significantly improved vocabulary and pronunciation but not grammar, fluency, or comprehensibility](clil-gains-vocabulary-pronunciation-only.md) — related
+- [Students report that progressive simulation practice builds handover confidence by reducing anxiety](progressive-simulation-practice-builds-confidence.md) — a narrower finding that bears on this claim

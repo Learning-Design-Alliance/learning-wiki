@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 257 claims (185 show a difference, 47 mixed, 25 no difference) · 164 studies (52 associational, 42 causal, 32 review, 12 quant-synthesis, 12 qualitative, 8 theoretical, 6 design), `q1`–`q4` · 39 of 164 report an effect size · 251 claims rest on one study
+> **Evidence** · 258 claims (186 show a difference, 47 mixed, 25 no difference) · 165 studies (52 associational, 42 causal, 32 review, 13 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 39 of 165 report an effect size · 252 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -297,6 +297,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [The STP-PreK Enhanced group shows greater growth in emotion regulation and executive functioning than the other groups](../claims/self-regulation-greater-growth-enhanced.md) [+M] — instruction changes it
 - [Individually based protective strategies such as active coping are ineffective for youth facing the most severe and chronic stressors unless broader interpersonal and setting supports are in place.](../claims/active-coping-ineffective-without-supports-severely-stressed-youth.md) [~M] — an instructional effect differs with it
 - [Learning qualitative research initially involves considerable anxiety, frustration, and confusion for students, alongside positive emotions such as excitement, surprise, and humility](../claims/affective-dimension-anxiety-frustration-excitement-qualitative-research.md) [+M] — measured as an outcome of the instruction studied
+- [Health sciences students experience emotional intelligence as self-awareness and emotional regulation that develops over time rather than as an innate trait](../claims/ei-self-awareness-regulation-developmental-qualitative.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

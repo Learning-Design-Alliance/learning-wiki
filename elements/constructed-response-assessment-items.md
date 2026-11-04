@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 91 claims (30 for, 59 mixed, 2 against) · 69 studies (22 design, 16 associational, 15 causal, 11 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 69 report an effect size · 91 claims rest on one study
+> **Evidence** · 93 claims (30 for, 61 mixed, 2 against) · 70 studies (22 design, 16 causal, 16 associational, 11 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 70 report an effect size · 93 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -135,6 +135,8 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [The parabola achievement test used was a 27-item open-ended instrument with high internal consistency (Cronbach's alpha 0.942) and near-perfect inter-rater agreement](../claims/pat-27-item-reliable-achievement-test.md) [+W]
 - [The Algebra Achievement Test showed acceptable internal consistency and inter-rater reliability in this study](../claims/aat-reliability-k21-interrater.md) [~W]
 - [The Writing Pal automated writing evaluation achieves expert-equivalent accuracy, with 44-55% exact and 94-96% adjacent accuracy](../claims/writing-pal-awe-expert-equivalent-accuracy.md) [+W]
+- [Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components](../claims/higher-concordance-binary-than-ternary-components.md) [~W]
+- [Mistral 7B shows high ICCs but low Fleiss kappa when scoring summary statements](../claims/mistral-7b-high-icc-low-fleiss-kappa.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]
@@ -151,6 +153,7 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - A third-grade mathematics extended-response item asking students to divide books among classrooms and explain their reasoning in words (Illinois Standards Achievement Test, 2006)
 - A fifth-grade science item asking students to plan a full investigation (prediction, materials, controlled/manipulated variables, procedure) rather than just answer a single question (Washington State Assessment of Student Learning, 2004)
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](../strategies/learner-controlled-assessment-science-fair-projects.md)
+- [Assess game-based learning outcomes using pre/post knowledge tests and satisfaction surveys](../strategies/pre-post-tests-and-satisfaction-surveys-for-game-based-learning.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.

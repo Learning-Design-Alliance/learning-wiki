@@ -62,3 +62,4 @@ Structural equation model fitting across six NTFD baseline models (three phenoty
 - [Genetic factors account for a substantial share of variation in educational outcomes and related behavioral traits](genetic-factors-substantial-share-educational-outcome-variation.md) — related
 - [Heritability estimates are population-specific parameters, and the heritability of cognitive skills rises gradually through childhood and adolescence](heritability-population-specific-rises-through-childhood.md) — related
 - [High heritability does not imply that environmental interventions to modify a trait are doomed to failure](high-heritability-does-not-preclude-environmental-intervention.md) — related
+- [Sibling similarity in symptoms is modest, with intraclass correlations of 0.07–0.15](modest-sibling-similarity-in-symptoms.md) — related

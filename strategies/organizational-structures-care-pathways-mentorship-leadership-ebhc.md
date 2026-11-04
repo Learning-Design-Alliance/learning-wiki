@@ -46,6 +46,7 @@ In its conclusions, the review recommends that "healthcare organizations and edu
 - [Design EBP education that is multi‐modal, clinically integrated, and team‐based with mentorship and case‐based discussions](multimodal-clinically-integrated-team-based-ebp-education.md)
 - [Develop healthcare leaders' digital competence through continuous education, mentoring, and organizational structures](develop-leaders-digital-competence-education-mentoring.md)
 - [Healthcare institutions should prioritize SDL-friendly environments including protected learning time, access to digital tools, and mentorship programs](sdl-friendly-environments-strategy.md)
+- [Formalize clinical peer-mentorship programs pairing senior staff with junior nurses](peer-mentorship-junior-nurses-wound-care.md)
 
 ## Examples
 -

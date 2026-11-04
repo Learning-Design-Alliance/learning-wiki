@@ -18,7 +18,7 @@ sources:
 # Multiple-choice retrieval practice questions with competitive alternatives
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (4 for, 5 mixed, 3 against) · 12 studies (5 causal, 3 review, 2 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 12 report an effect size · 11 claims rest on one study
+> **Evidence** · 13 claims (4 for, 5 mixed, 4 against) · 13 studies (5 causal, 3 review, 2 quant-synthesis, 2 associational, 1 theoretical), `q2`–`q4` · 4 of 13 report an effect size · 12 claims rest on one study
 
 ## Description
 A recognition-format retrieval practice item: a multiple-choice question whose incorrect options are competitive alternatives, intended to make recognition practice demand retrieval comparable to short-answer production. The study built its MCQs this way, "by including competitive alternatives in the MCQs to ensure that the MCQs cannot be attributed to being relatively easier than short-answer questions", scoring one point per correct response.
@@ -53,6 +53,7 @@ A recognition-format retrieval practice item: a multiple-choice question whose i
 - [Contrasting orthographically similar L2 words during multiple-choice learning improves their subsequent recall in the productive direction](../claims/contrasting-orthographically-similar-l2-words-improves-recall.md) [+W]
 - [Typing practice leads to more correct use of French diacritics than multiple-choice practice, but handwriting does not differ significantly](../claims/typing-beats-multiple-choice-diacritics.md) [-W]
 - [Practicing French vocabulary by writing or typing leads to higher spelling scores than practicing by multiple choice](../claims/writing-typing-beat-multiple-choice-spelling.md) [~W]
+- [A surface-feature classifier recovers the keyed answer at 34.4%, almost entirely attributable to a longest-option heuristic rather than broad surface leakage](../claims/surface-feature-classifier-longest-option-artifact.md) [-W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [+M]

@@ -66,6 +66,7 @@ Fishbowl makes discussion itself an object of study: observers learn discourse a
 - [Jigsaw](jigsaw.md) — another role-structured format ensuring every student has a defined, necessary role
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lower-stakes precursor that builds the rehearsal fishbowl requires
 - [Use varied in-class group-work techniques (structured/unstructured discussion, circle of voices, fishbowl) to implement flipped learning](group-work-techniques-flipped-inclass-strategy.md)
+- [Alternate learners between participant and observer roles across two simulation cases with a teaching talk between them](alternating-observer-participant-roles-simulation-strategy.md)
 
 ## Examples
 - **[Facing History and Ourselves](../products/facing-history-and-ourselves.md)** — publishes fishbowl protocols for discussing historical dilemmas and identity issues, with observer role sheets (https://www.facinghistory.org).

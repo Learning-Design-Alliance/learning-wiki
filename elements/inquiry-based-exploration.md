@@ -13,7 +13,7 @@ generated:
 # Inquiry-Based Exploration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (11 for, 5 mixed, 2 against) · 23 studies (7 causal, 7 review, 5 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 7 of 23 report an effect size · 14 claims rest on one study
+> **Evidence** · 19 claims (11 for, 6 mixed, 2 against) · 24 studies (7 causal, 7 review, 5 quant-synthesis, 3 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 24 report an effect size · 15 claims rest on one study
 
 ## Description
 Inquiry-based exploration places learners in front of an open-ended problem, question, or phenomenon and asks them to investigate it — gathering information, forming hypotheses, testing ideas, and generating solutions — rather than first receiving a fully worked explanation. The instructor's role shifts from transmitter to designer of the problem and facilitator of the investigation.
@@ -66,6 +66,7 @@ Inquiry can build deep conceptual understanding and durable engagement because l
 - [Open inquiry improves students' conceptual understanding of science, supported by seven reviewed studies](../claims/open-inquiry-improves-conceptual-understanding.md) [+W]
 - [Open inquiry affects students' motivation, though one reviewed study found no significant difference in collaborative attitudes](../claims/open-inquiry-student-motivation.md) [~W]
 - [A cited meta-analysis found discovery-method instruction positively affected achievement in 61% of 138 studies](../claims/discovery-method-meta-analysis-61-percent-138-studies.md) [~M]
+- [Learners split between strategic inquiry focused on assessment performance and exploratory inquiry valuing discovery and holistic understanding](../claims/exploring-3d-anatomy-strategic-exploratory-inquiry.md) [~W]
 
 ## The evidence by question
 - *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]

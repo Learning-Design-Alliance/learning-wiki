@@ -54,3 +54,4 @@ The authors read the moderate correlation as evidence that LLMs approach problem
 - [LLM-generated distractors for math multiple-choice questions are judged mathematically valid more often than plausible to students, and rarely reproduce the full set of human-written distractors](llm-math-distractors-more-valid-than-plausible.md) — related
 - [LLMs predict common distractors above chance but fall 15 percentage points below chance at predicting which errors students rarely select](llm-distractor-prediction-asymmetry.md) — related
 - [Distractor similarity to the correct answer increases MCQ complexity](distractor-similarity-increases-complexity.md) — related
+- [Model selection of the dominant human distractor is compatible with a plausibility-weighted baseline, showing no systematic divergence beyond option plausibility](distractor-selection-plausibility-baseline.md) — related

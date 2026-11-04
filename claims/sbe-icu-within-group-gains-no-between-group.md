@@ -1,7 +1,7 @@
 ---
 type: claim
-title: In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks
-description: In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks
+title: In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks
+description: In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks
 id: sbe-icu-within-group-gains-no-between-group
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 2
 ---
 
-# In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks
+# In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` A randomized controlled trial found no between-group differences at 6 weeks on primary outcomes or clinical observation audit, while the intervention group showed significant within-group improvements in knowledge, confidence and competence. [→ EL Hussein Mohamed Toufic 2026](#el-hussein-mohamed-toufic-2026)
+`q3 i?` The scoping review reports that a randomized controlled trial of ICU nurses (Ho et al. 2021) found no between-group differences at 6 weeks on primary outcomes or clinical observation audit, while the intervention group showed significant within-group improvements in knowledge, confidence and competence. [→ EL Hussein Mohamed Toufic 2026](#el-hussein-mohamed-toufic-2026)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ EL Hussein Mohamed Toufic, Sheehan Dawson S., Hirst Sandra. (2026). Simulation�
 
 `q3 · i?` · `review · r2`
 
-This single-blind, parallel-group randomized controlled trial randomized 72 critical-care RNs (36 intervention; 36 control) to a multicomponent SBE programme (online videos, flip-chart session, role-play and OSCE with standardized patients) versus online videos only. At 6 weeks "there were no between-group differences on primary outcomes or on the clinical observation audit"; no effect size is printed for this null finding.
+A scoping review of simulation-based education (SBE) for delirium recognition. It summarises one included study, Ho et al. (2021), DOI 10.1111/jan.14938, as a single-blind, parallel-group randomized controlled trial that randomized 72 critical-care RNs (36 intervention; 36 control) to a multicomponent SBE programme (online videos, flip-chart session, role-play and OSCE with standardized patients) versus online videos only. At 6 weeks "there were no between-group differences on primary outcomes or on the clinical observation audit"; no effect size is printed for this null finding. The trial and its findings are the review's account of Ho et al.; the review itself ran no experiment, and the within-group gains in the intervention arm are not a between-group effect.
 
 > "At 6 weeks, there were no between-group differences on primary outcomes or on the clinical observation audit; however, the intervention group showed significant within-group improvements over time in knowledge, confidence and competence whereas the control group showed no significant within-group changes."
 
@@ -68,3 +68,7 @@ This single-blind, parallel-group randomized controlled trial randomized 72 crit
 - [Pre-post evaluations in reviewed SBLE studies report significant gains in EOL knowledge and attitudes, but not uniformly across studies](pre-post-sble-gains-mixed.md) — related
 - [Most CBL interventions report positive effects on knowledge, attitudes, and skills, but studies finding no positive effect were often randomized controlled trials](cbl-outcomes-mostly-positive-rcts-often-null.md) — related
 - [High-fidelity simulation-based training led to improved patient care during cardiopulmonary bypass weaning compared with interactive seminars, at both post-test and retention test](simulation-beats-seminar-cpb-weaning-transfer.md) — related
+- [Both SVVR and noninteractive video groups improve attitudes toward delirium care with no significant between-group difference](attitudes-improve-both-groups-no-group-difference.md) — related
+- [High-fidelity simulation combining 3D printing, moulage, and role-play yields higher stoma care knowledge scores than low-fidelity static models in nursing students](hfs-3d-printer-moulage-higher-stoma-knowledge.md) — reports the opposite
+- [Repeated clinical exposure reduces fear and develops professional self-efficacy in nursing students managing delirium](repeated-exposure-builds-delirium-self-efficacy.md) — related
+- [SVVR training produces a larger immediate increase in nurses' confidence in delirium management than noninteractive video, but the between-group difference is not sustained at 1-month follow-up](svvr-immediate-confidence-gain-not-sustained.md) — related

@@ -55,3 +55,4 @@ Simple-effects analyses within each group across pre-training, post-training, an
 - [Word recognition gains from phonological awareness training were maintained at one-month follow-up with no significant decline from post-test](pa-training-gains-maintained-follow-up-asd.md) — related
 - [From post-test to delayed post-test the CI group showed further DCT gains while the SI group showed losses](dct-delayed-trends-ci-gains-si-losses.md) — related
 - [Experimental-group students improved significantly from pretest to follow-up while control-group improvement was not significant](eg-significant-pretest-followup-gain.md) — related
+- [Short-term skill retention after AR-guided training was stable for time and imaging metrics at a minimum one-day follow-up](ar-simulator-short-term-retention-stable.md) — related

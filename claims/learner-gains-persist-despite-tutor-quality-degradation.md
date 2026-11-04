@@ -77,3 +77,4 @@ Decoupling analysis (§5.3) using Pearson correlations between learner-side and 
 - [Family-side evidence on GenAI guidance is thin, largely descriptive, and centered on parental beliefs and mediation strategies](family-side-parental-mediation-genai.md) — related
 - [AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized](ai-role-collaborative-learning-undertheorized.md) — related
 - [Trained students engage in more conversational turns with the GenAI tool](trained-students-more-conversational-turns.md) — related
+- [Exploratory correlations showed moderate to strong descriptive associations between selected user experience and cognitive load dimensions](incarne-ux-cognitive-load-correlations.md) — related

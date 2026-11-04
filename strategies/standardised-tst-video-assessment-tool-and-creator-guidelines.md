@@ -50,6 +50,7 @@ The review recommends two complementary actions: developing a standardised, vali
 - [Six practical design guidelines for building a Video Enhanced Rubric](six-ver-design-guidelines.md)
 - [Prioritise adequately powered multicentre comparative studies linked to objective metrics and clinical correlation, and develop standardised competency assessment frameworks](multicentre-objective-metrics-studies-robotic-training.md)
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
+- [Carefully vet freely available video resources for clinical correlation and procedural detail rather than assuming all supplemental video content is comparably rigorous](vet-video-resources-clinical-correlation-rigor.md)
 
 ## Examples
 -

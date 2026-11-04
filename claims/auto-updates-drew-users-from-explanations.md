@@ -54,3 +54,4 @@ Qualitative observation from the pilot workshop (n=7). The article also reports 
 - [Constituting AI as a critical file that returns questions instead of revisions is a design requirement for sustaining productive struggle](ai-as-critical-file-design.md) — related
 - [Output-level Unicode soft barriers can achieve high copy-paste resistance, but effectiveness is highly model- and task-dependent](soft-barriers-cpr-model-task-dependent.md) — related
 - [Physical access to AI-provided material does not automatically produce epistemological access; facilitation converts one into the other](facilitation-converts-physical-to-epistemological-access.md) — a broader claim this one bears on
+- [Pilot students began shifting from output-oriented toward mechanism-based explanations](pilot-shift-toward-mechanism-based-explanations.md) — related

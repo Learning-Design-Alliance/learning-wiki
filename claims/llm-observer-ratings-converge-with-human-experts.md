@@ -55,3 +55,4 @@ Human-rater validation study: five M.Sc.-level psychologists, blind to persona c
 - [Between-conversation persona stability is intensity-dependent: high-intensity ADHD personas cluster tightly while moderate-intensity personas show the highest aggregate variability](intensity-dependent-between-conversation-stability.md) — related
 - [In Study 2, inter-rater agreement for rating creative problem solving ideas was good to excellent across indicators](cps-idea-ratings-good-excellent-interrater-agreement.md) — related
 - [Most variables of the START-Play fidelity measure show good to excellent interrater reliability, with ICCs ranging from 0.77 to 0.95](start-play-fidelity-icc-077-095.md) — related
+- [AI scores demonstrated high consistency with expert ratings (ICC = 0.893)](ai-scoring-high-consistency-expert-ratings-icc-0893.md) — related

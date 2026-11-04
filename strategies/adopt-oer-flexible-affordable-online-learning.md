@@ -49,6 +49,7 @@ The article recommends using open educational resources in online learning, argu
 ## Related Strategies
 
 - [Explore the 5R affordances combined with evidence-based teaching practices to develop OER-enabled pedagogies](explore-5r-affordances-oer-enabled-pedagogy.md)
+- [Open online courses as flexible supplements for skills under-represented in formal curricula](open-online-courses-as-curricular-supplements.md)
 
 ## Examples
 -
