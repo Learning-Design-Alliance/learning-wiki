@@ -46,7 +46,7 @@ A linear mixed-effects model with batch as random intercept followed by Type III
 
 
 ## Related Claims
-- [Concordance between LLM and human ratings is higher for binary rubric components than for ternary components](higher-concordance-binary-than-ternary-components.md) — a narrower finding that bears on this claim
+- [Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components](higher-concordance-binary-than-ternary-components.md) — a narrower finding that bears on this claim
 - [Same-model LLM configuration pairs agree more than cross-model pairs, and agreement decreases monotonically as temperature difference increases](llm-pairwise-agreement-model-type-temperature.md) — related
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [Model and prompt choice account for only a small share of misalignment error, which concentrates in transcript-conditioned higher-order interactions](variance-decomposition-model-prompt-weak-levers.md) — related

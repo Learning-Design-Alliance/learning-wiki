@@ -1,7 +1,7 @@
 ---
 type: claim
-title: GenAI-assisted progressive-disclosure CBL modestly improves delayed final exam performance
-description: GenAI-assisted progressive-disclosure CBL modestly improves delayed final exam performance
+title: GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison
+description: GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison
 id: genai-progressive-disclosure-cbl-final-exam
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: waseem-j-2026
     resource: "https://doi.org/10.2196/103584"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# GenAI-assisted progressive-disclosure CBL modestly improves delayed final exam performance
+# GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i1` The intervention group scored higher on the delayed final exam (mean 80.96 vs 78.62; P=.02; d=0.31). [→ Waseem J 2026](#waseem-j-2026)
+`q2 i1` In a nonrandomized comparison with allocation by administrative class, the intervention group scored higher on the delayed final exam than the static-CBL control group (mean 80.96 vs 78.62; P=.02; d=0.31). [→ Waseem J 2026](#waseem-j-2026)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Waseem J, Ritter Nicola L, McMordie J, Su P, Hu M, Chen C, Xu S. (2026). Generat
 
 `q2 · i1` · `causal · r2`
 
-Delayed final exam administered 3-4 weeks after the module. The intervention group scored higher with a small-to-moderate effect size (Cohen d=0.31).
+Nonrandomized posttest-only controlled quasi-experiment: 224 undergraduates were allocated by administrative class and teaching session (8 sessions, 4 per arm) to a multicomponent GenAI-assisted progressive-disclosure CBL package (n=114) or conventional static CBL (n=110). On the final exam, a secondary outcome given 3-4 weeks after the module, the intervention group scored higher with a small-to-moderate effect size (Cohen d=0.31). The authors describe the package as "associated with" modestly higher exam performance: unobserved class-level factors could account for the difference, a class-level multilevel model could not be fitted, and randomized designs are needed to determine the effect.
 
 > "the final examination score was also compared, showing higher performance in the intervention group (mean 80.96, SD 8.47 vs mean 78.62, SD 6.63; P=.02), with a small-to-moderate effect size (Cohen d=0.31, 95% CI 0.04-0.57)"
 

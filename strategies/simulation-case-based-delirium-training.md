@@ -44,7 +44,7 @@ Students advocated incorporating high-fidelity simulations, role-playing, and ca
 - [Observing nurse role models shapes nursing students' clinical behavior, communication, and professional values during delirium care](../claims/nurse-role-models-shape-student-development.md) [+W]
 - [Repeated clinical exposure reduces fear and develops professional self-efficacy in nursing students managing delirium](../claims/repeated-exposure-builds-delirium-self-efficacy.md) [+W]
 - [Physical restraint practices and inadequate communication during delirium care trigger ethical and moral discomfort in nursing students](../claims/restraint-triggers-ethical-discomfort.md) [+W]
-- [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](../claims/sbe-icu-within-group-gains-no-between-group.md) [~W]
+- [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](../claims/sbe-icu-within-group-gains-no-between-group.md) [~W]
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](../claims/sbar-structured-communication-in-simulation.md) [+W]
 - [SVVR training produces greater gains in nurses' delirium care knowledge than noninteractive video education immediately after training and at 1-month follow-up](../claims/svvr-greater-delirium-knowledge-gains-than-video.md) [+W]
 

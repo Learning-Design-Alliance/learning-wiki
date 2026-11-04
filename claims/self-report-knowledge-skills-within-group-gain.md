@@ -46,7 +46,7 @@ RCT of 227 primary health care professionals comparing a VP game intervention to
 
 ## Related Claims
 - [In the Albright RCT, knowledge, skills, and likelihood to screen increased significantly from pre- to post-test and versus control](albright-rct-significant-gains.md) — reports the opposite
-- [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
+- [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [VR training improved mental health knowledge in two non-randomized studies but showed no statistically significant effect on diagnostic recognition in a cohort study](vr-training-knowledge-nonrandomized-mixed.md) — related
 - [VR training interventions can promote knowledge and skills acquisition in health care professionals and students for assessing and treating mental health disorders, though the evidence base is uncertain](vr-training-promotes-mental-health-knowledge-skills.md) — a broader claim this one bears on
 - [A single-group pretest–posttest study found no significant effect of VSP training on attitudes toward individuals with substance abuse disorders but a significant increase in perceived competence](vsp-training-attitudes-null-competence-gain.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: zhang-j-2026
     resource: "https://doi.org/10.1002/ase.70288"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Cognition theme contrasts compartmental learning (allocation of learning to areas directly relevant to the formal curriculum) with conceptual learning (holistically observing and assimilating ideas to understand three-dimensional space for anatomical size, shape, positions, and relationships). [→ Zhang J 2026](#zhang-j-2026)

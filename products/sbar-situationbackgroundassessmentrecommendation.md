@@ -24,7 +24,7 @@ SBAR is a standardized healthcare communication framework, originating in the U.
 
 ### Claims
 - [SBAR-based simulation programs produce significant improvements in communication clarity for nursing students in six of twelve reviewed studies](../claims/sbar-simulation-improves-communication-clarity-nursing-students.md) [+M]
-- [Fidelity to SBAR moderates communication clarity improvements: classroom studies show higher fidelity and larger gains than clinical-setting studies](../claims/sbar-fidelity-moderates-clarity-gains.md) [~M]
+- [Earlier studies of SBAR reported 71–87% fidelity with moderate to considerable clarity gains in classrooms, and 53–83% fidelity with no or moderate gains in clinical settings](../claims/sbar-fidelity-moderates-clarity-gains.md) [~W]
 
 ## Related Products and Programmes
 -

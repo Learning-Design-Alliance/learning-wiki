@@ -48,5 +48,5 @@ Kirkpatrick levels 1 and 2 evaluation in the Fluharty et al. study (370 BSN and 
 
 - [A simulation-based group showed stronger emotional and clinical preparedness and knowledge-to-practice conversion than a seminar-based comparison group](sble-group-stronger-than-seminar-eol-preparedness.md)
 - [Debriefing was a central element of nearly all reviewed palliative/EOL communication SBLEs, but methods varied widely](debriefing-central-sble-palliative-communication.md) — related
-- [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
+- [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [Simulation-based learning experiences are being used to teach palliative and end-of-life communication skills to nursing students and clinicians](sble-teach-palliative-eol-communication-nursing.md) — a broader claim this one bears on

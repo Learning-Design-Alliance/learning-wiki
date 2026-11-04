@@ -50,5 +50,5 @@ Self-report questionnaire on a 0-10 scale across 5 domains. All comparisons rema
 - [Midterm self-efficacy (comfort and confidence) did not differ between conditions after three assignments, though both varied significantly across algorithmic topics](genai-condition-no-self-efficacy-difference.md) — reports the opposite
 - [Perceived adaptability significantly and positively predicted self-efficacy and all three engagement dimensions](adaptability-predicts-self-efficacy-and-engagement.md) — related
 - [GenAI-assisted progressive-disclosure CBL improves case-analysis performance with a large effect size](genai-progressive-disclosure-cbl-case-analysis.md) — related
-- [GenAI-assisted progressive-disclosure CBL modestly improves delayed final exam performance](genai-progressive-disclosure-cbl-final-exam.md) — related
+- [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](genai-progressive-disclosure-cbl-final-exam.md) — related
 - [All five questionnaire domains improved significantly after training, with large effect sizes (r = 0.67–0.81)](us-training-all-questionnaire-domains-improved.md) — related

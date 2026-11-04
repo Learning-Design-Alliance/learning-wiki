@@ -23,7 +23,7 @@ A structured clinical handover framework used by healthcare professionals and ed
 - **ISBAR framework for structured clinical handover**: ISBAR (Introduction, Situation, Background, Assessment, Recommendation) is described as the most internationally recognized structured handover tool, whose five components guide nurses in transmitting and receiving cognition about a patient's current condition. The framework guides both the sender and receiver of handover to communicate systematically according to the patient's condition, helping to reduce the omission of critical information, eliminate irrelevant content and enhance continuity of care. In this study it served as the organizing structure for a simulation-based teaching intervention in obstetric nursing education. (Sun Jui-Chiung et al. (2026))
 
 ### Claims
-- [ISBAR-structured handover simulation teaching significantly improves nursing students' communication clarity](../claims/isbar-simulation-improves-communication-clarity.md) [+M]
+- [Nursing students' communication clarity rose significantly from before to after ISBAR-structured handover simulation teaching, in an uncontrolled pre-post study](../claims/isbar-simulation-improves-communication-clarity.md) [+W]
 - [Students report that ISBAR provides a cognitive scaffold for organized handover expression](../claims/isbar-cognitive-scaffold-organized-expression.md) [+M]
 
 ## Related Products and Programmes

@@ -39,7 +39,7 @@ A tabletop card game developed as a supplementary learning tool for teaching ane
 - Anesthetic drug pharmacology knowledge
 
 ### Claims
-- [Card Game Improves Anesthesiology Resident Pharmacology Knowledge](../claims/card-game-improves-anesthesiology-resident-pharmacology-knowledge.md) [+M]
+- [Anesthesiology residents' anesthetic-drug knowledge scores rose significantly from pretest to posttest around a card-game session, in a single-group study with no control group](../claims/card-game-improves-anesthesiology-resident-pharmacology-knowledge.md) [+W]
 
 ## Related Designs
 - 

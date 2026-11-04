@@ -24,7 +24,7 @@ A 20-question, non-validated objective test developed by nuclear medicine educat
 ### Claims
 
 - [Pre-course test reveals high factual recall but insufficient clinical application ability under traditional teaching](../claims/pre-course-test-reveals-application-deficit-traditional-teaching.md) [+W]
-- [Both concept and application question scores improve significantly after flipped classroom combined with CBL](../claims/flipped-classroom-cbl-improves-concept-and-application-questions.md) [+W]
+- [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](../claims/flipped-classroom-cbl-improves-concept-and-application-questions.md) [+W]
 
 ## Related Products and Programmes
 -

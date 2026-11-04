@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A 20-item virtual simulation scenario for teaching Standard Precautions achieved content validity indices above 0.80 in expert validation with 11 experts
-description: A 20-item virtual simulation scenario for teaching Standard Precautions achieved content validity indices above 0.80 in expert validation with 11 experts
+title: In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73
+description: In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73
 id: virtual-simulation-scenario-standard-precautions-cvi-above-080
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 recheck_by: 2029
 sources:
   - id: gusmão-cristine-maria-pereira-2026
@@ -21,14 +22,14 @@ sources:
     rigour: 2
 ---
 
-# A 20-item virtual simulation scenario for teaching Standard Precautions achieved content validity indices above 0.80 in expert validation with 11 experts
+# In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` Most scenario items achieved a content validity index above 0.80 in a panel of 11 expert nurses, and items below the threshold were revised based on expert suggestions. [→ Gusmão Cristine Maria Pereira 2026](#gusmao-cristine-maria-pereira-2026)
+`q2 i?` Most scenario items achieved a content validity index above 0.80 in a panel of 11 expert nurses; four item-level ratings were 0.73 (setting appropriateness and relevance, expected-outcomes clarity, materials appropriateness), and of those items only "Materials to be selected" was revised, the other two being kept unchanged. [→ Gusmão Cristine Maria Pereira 2026](#gusmao-cristine-maria-pereira-2026)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Gusmão Cristine Maria Pereira, Lima Laís do Espirito Santo, Menegueti Mayra Go
 
 `q2 · i?` · `design · r2`
 
-Expert validation study using a researcher-developed Likert-type questionnaire on REDCap with 11 expert nurses; the article reports that most items achieved a CVI above 0.80 and that "Items scoring below this threshold were revised based on the experts’ suggestions."
+Expert validation study using a researcher-developed Likert-type questionnaire on REDCap with 11 expert nurses; the article reports that most items achieved a CVI above 0.80 and that "Items scoring below this threshold were revised based on the experts’ suggestions." Its Table 1 shows four of the 60 item-level CVIs at 0.73: "Setting for simulation and debriefing" (appropriateness and relevance), "Expected outcomes" (clarity) and "Materials to be selected" (appropriateness). Only the last was revised (to "Materials and actions to be selected"); the other two were retained unchanged because the experts proposed no revision.
 
 > "In the face and content validity assessment, most scenario items achieved a content validity index (CVI) above 0.80, as shown in Table 1. Items scoring below this threshold were revised based on the experts’ suggestions."
 

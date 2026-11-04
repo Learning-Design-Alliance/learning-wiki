@@ -43,7 +43,7 @@ The article recommends incorporating validated virtual simulation scenarios into
 ## Claims
 
 - [Virtual simulation fosters clinical reasoning and psychomotor skills in a safe, realistic environment with immediate feedback](../claims/virtual-simulation-safe-environment-immediate-feedback-claim.md) [+W]
-- [A 20-item virtual simulation scenario for teaching Standard Precautions achieved content validity indices above 0.80 in expert validation with 11 experts](../claims/virtual-simulation-scenario-standard-precautions-cvi-above-080.md) [+W]
+- [In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73](../claims/virtual-simulation-scenario-standard-precautions-cvi-above-080.md) [+W]
 
 ## Related Strategies
 - 

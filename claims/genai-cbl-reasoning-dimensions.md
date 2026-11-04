@@ -48,4 +48,4 @@ Subdimensional analysis of the case-analysis score across 4 reasoning dimensions
 ## Related Claims
 - [Students reported high confidence gains in history-taking, differential diagnosis, and management planning from AIVP](aivp-survey-confidence-gains.md) — related
 - [GenAI-assisted progressive-disclosure CBL improves case-analysis performance with a large effect size](genai-progressive-disclosure-cbl-case-analysis.md) — related
-- [GenAI-assisted progressive-disclosure CBL modestly improves delayed final exam performance](genai-progressive-disclosure-cbl-final-exam.md) — related
+- [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](genai-progressive-disclosure-cbl-final-exam.md) — related

@@ -46,5 +46,5 @@ Robustness checks across the experimental comparative study found that extreme d
 
 
 ## Related Claims
-- [Concordance between LLM and human ratings is higher for binary rubric components than for ternary components](higher-concordance-binary-than-ternary-components.md) — a broader claim this one bears on
+- [Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components](higher-concordance-binary-than-ternary-components.md) — a broader claim this one bears on
 - [In one reviewed study, GPT-4 automated essay scoring showed score inflation, with AI–human rating discrepancies exceeding 1.5 standard deviations in 38% of graduate-level bibliographies](gpt4-essay-score-inflation.md) — related

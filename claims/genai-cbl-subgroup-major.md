@@ -48,4 +48,4 @@ Exploratory subgroup analysis by major (clinical medicine, psychiatry, medical l
 - [The relationship between student characteristics and achievement does not differ significantly by academic area, cultural context, publication bias status, research quality, report type, or publication year](non-significant-moderators-characteristics-achievement.md) — a broader claim this one bears on
 - [Graduating with a science major is associated with lower hazards of first academic probation but not significantly with attrition.](science-major-lower-hazard-probation-not-attrition-pa.md) — related
 - [GenAI-assisted progressive-disclosure CBL improves case-analysis performance with a large effect size](genai-progressive-disclosure-cbl-case-analysis.md) — related
-- [GenAI-assisted progressive-disclosure CBL modestly improves delayed final exam performance](genai-progressive-disclosure-cbl-final-exam.md) — related
+- [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](genai-progressive-disclosure-cbl-final-exam.md) — related

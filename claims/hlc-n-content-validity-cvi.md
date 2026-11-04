@@ -48,4 +48,4 @@ Content validity evaluation based on relevance ratings by the 16 Delphi experts.
 ## Related Claims
 - [Expert review establishes excellent content validity for TAILS (S-CVI/Ave = 0.98; I-CVI 0.86–1.00)](tails-content-validity-cvi.md) — related
 - [The final indicator system shows good reliability (ICC = 0.86) and content validity (S-CVI = 0.92; I-CVI 0.85–1.00)](icc-and-cvi-reliability-validity-tb-educator-indicator-system.md) — related
-- [A 20-item virtual simulation scenario for teaching Standard Precautions achieved content validity indices above 0.80 in expert validation with 11 experts](virtual-simulation-scenario-standard-precautions-cvi-above-080.md) — related
+- [In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73](virtual-simulation-scenario-standard-precautions-cvi-above-080.md) — related

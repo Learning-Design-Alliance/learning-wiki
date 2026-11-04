@@ -53971,13 +53971,14 @@
 "type":"claim"
 },
 {
-"description":"Game-based learning with a card game significantly improved anesthesiology residents' knowledge of anesthetic drugs",
+"description":"Anesthesiology residents' anesthetic-drug knowledge scores rose significantly from pretest to posttest around a card-game session, in a single-group study with no control group",
 "evidence_strength":"moderate",
 "id":"card-game-improves-anesthesiology-resident-pharmacology-knowledge",
 "newest_evidence":"2026",
 "path":"claims/card-game-improves-anesthesiology-resident-pharmacology-knowledge.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"Game-based learning with a card game significantly improved anesthesiology residents' knowledge of anesthetic drugs",
+"title":"Anesthesiology residents' anesthetic-drug knowledge scores rose significantly from pretest to posttest around a card-game session, in a single-group study with no control group",
 "type":"claim"
 },
 {
@@ -69877,6 +69878,7 @@
 "id":"clt-aligned-e-learning-modules-improve-osce-performance",
 "newest_evidence":"2025",
 "path":"claims/clt-aligned-e-learning-modules-improve-osce-performance.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)",
 "type":"claim"
@@ -146604,6 +146606,7 @@
 "id":"exploring-3d-anatomy-compartmental-conceptual-cognition",
 "newest_evidence":"2026",
 "path":"claims/exploring-3d-anatomy-compartmental-conceptual-cognition.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Drawing and haptic-visual observation activities helped students visualize and notice anatomical details, though some found household objects insufficiently contextualized",
 "type":"claim"
@@ -159244,13 +159247,14 @@
 "type":"claim"
 },
 {
-"description":"Both concept and application question scores improve significantly after flipped classroom combined with CBL",
+"description":"Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison",
 "evidence_strength":"weak",
 "id":"flipped-classroom-cbl-improves-concept-and-application-questions",
 "newest_evidence":"2026",
 "path":"claims/flipped-classroom-cbl-improves-concept-and-application-questions.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"Both concept and application question scores improve significantly after flipped classroom combined with CBL",
+"title":"Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison",
 "type":"claim"
 },
 {
@@ -173251,13 +173255,14 @@
 "type":"claim"
 },
 {
-"description":"GenAI-assisted progressive-disclosure CBL modestly improves delayed final exam performance",
+"description":"GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison",
 "evidence_strength":"moderate",
 "id":"genai-progressive-disclosure-cbl-final-exam",
 "newest_evidence":"2026",
 "path":"claims/genai-progressive-disclosure-cbl-final-exam.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"GenAI-assisted progressive-disclosure CBL modestly improves delayed final exam performance",
+"title":"GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison",
 "type":"claim"
 },
 {
@@ -194348,14 +194353,15 @@
 "type":"claim"
 },
 {
-"description":"Concordance between LLM and human ratings is higher for binary rubric components than for ternary components",
+"description":"Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components",
 "evidence_strength":"moderate",
 "id":"higher-concordance-binary-than-ternary-components",
 "newest_evidence":"2026",
 "path":"claims/higher-concordance-binary-than-ternary-components.md",
 "recheck_by":"2029",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"Concordance between LLM and human ratings is higher for binary rubric components than for ternary components",
+"title":"Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components",
 "type":"claim"
 },
 {
@@ -199220,6 +199226,7 @@
 "id":"hybrid-simulation-improves-patient-id-and-allergy-verification",
 "newest_evidence":"2026",
 "path":"claims/hybrid-simulation-improves-patient-id-and-allergy-verification.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Hybrid simulation with role-playing improves patient identification accuracy and allergy verification among nursing students",
 "type":"claim"
@@ -219344,13 +219351,14 @@
 "type":"claim"
 },
 {
-"description":"ISBAR-structured handover simulation teaching significantly improves nursing students' communication clarity",
+"description":"Nursing students' communication clarity rose significantly from before to after ISBAR-structured handover simulation teaching, in an uncontrolled pre-post study",
 "evidence_strength":"moderate",
 "id":"isbar-simulation-improves-communication-clarity",
 "newest_evidence":"2026",
 "path":"claims/isbar-simulation-improves-communication-clarity.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"ISBAR-structured handover simulation teaching significantly improves nursing students' communication clarity",
+"title":"Nursing students' communication clarity rose significantly from before to after ISBAR-structured handover simulation teaching, in an uncontrolled pre-post study",
 "type":"claim"
 },
 {
@@ -335214,6 +335222,7 @@
 "id":"pre-course-test-reveals-application-deficit-traditional-teaching",
 "newest_evidence":"2026",
 "path":"claims/pre-course-test-reveals-application-deficit-traditional-teaching.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Pre-course test reveals high factual recall but insufficient clinical application ability under traditional teaching",
 "type":"claim"
@@ -374740,13 +374749,14 @@
 "type":"claim"
 },
 {
-"description":"Fidelity to SBAR moderates communication clarity improvements: classroom studies show higher fidelity and larger gains than clinical-setting studies",
+"description":"A systematic review's discussion contrasts SBAR fidelity and communication-clarity gains reported by earlier classroom and clinical-setting studies; the ranges overlap and no moderation analysis was run",
 "evidence_strength":"weak",
 "id":"sbar-fidelity-moderates-clarity-gains",
 "newest_evidence":"2023",
 "path":"claims/sbar-fidelity-moderates-clarity-gains.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"Fidelity to SBAR moderates communication clarity improvements: classroom studies show higher fidelity and larger gains than clinical-setting studies",
+"title":"Earlier studies of SBAR reported 71–87% fidelity with moderate to considerable clarity gains in classrooms, and 53–83% fidelity with no or moderate gains in clinical settings",
 "type":"claim"
 },
 {
@@ -374855,13 +374865,13 @@
 "type":"claim"
 },
 {
-"description":"In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks",
+"description":"In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks",
 "evidence_strength":"weak",
 "id":"sbe-icu-within-group-gains-no-between-group",
 "newest_evidence":"2026",
 "path":"claims/sbe-icu-within-group-gains-no-between-group.md",
 "status":"review",
-"title":"In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks",
+"title":"In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks",
 "type":"claim"
 },
 {
@@ -387445,6 +387455,7 @@
 "id":"self-talk-authentic-modelling",
 "newest_evidence":"2026",
 "path":"claims/self-talk-authentic-modelling.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Self-talk activities were perceived as feasible and beneficial only when grounded in authentic, realistic modelling rather than exaggerated positivity",
 "type":"claim"
@@ -395338,6 +395349,7 @@
 "id":"simulation-radiology-training-improves-procedural-sequencing",
 "newest_evidence":"2026",
 "path":"claims/simulation-radiology-training-improves-procedural-sequencing.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Simulation-based radiology training significantly improves procedural sequencing knowledge from pretest to posttest among medical technical assistant trainees",
 "type":"claim"
@@ -469830,14 +469842,15 @@
 "type":"claim"
 },
 {
-"description":"A 20-item virtual simulation scenario for teaching Standard Precautions achieved content validity indices above 0.80 in expert validation with 11 experts",
+"description":"In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73",
 "evidence_strength":"moderate",
 "id":"virtual-simulation-scenario-standard-precautions-cvi-above-080",
 "newest_evidence":"2026",
 "path":"claims/virtual-simulation-scenario-standard-precautions-cvi-above-080.md",
 "recheck_by":"2029",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"A 20-item virtual simulation scenario for teaching Standard Precautions achieved content validity indices above 0.80 in expert validation with 11 experts",
+"title":"In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73",
 "type":"claim"
 },
 {

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Concordance between LLM and human ratings is higher for binary rubric components than for ternary components
-description: Concordance between LLM and human ratings is higher for binary rubric components than for ternary components
+title: Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components
+description: Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components
 id: higher-concordance-binary-than-ternary-components
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 recheck_by: 2029
 sources:
   - id: stadler-p-2026
@@ -21,14 +22,14 @@ sources:
     rigour: 2
 ---
 
-# Concordance between LLM and human ratings is higher for binary rubric components than for ternary components
+# Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` Concordance was higher for the binary rubric components (person and factual accuracy) than for the ternary components. [→ Stadler P 2026](#stadler-p-2026)
+`q2 i?` Concordance was generally higher for the binary rubric components (person and factual accuracy) than for the ternary components, with exceptions for particular model and prompting configurations. [→ Stadler P 2026](#stadler-p-2026)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Stadler P, Bucichowski P, Holzhausen Y, Hege I, Peters H, Kaminski J. (2026). Te
 
 `q2 · i?` · `causal · r2`
 
-Across all 16 model × prompting conditions in the experimental comparative study, agreement (Gwet AC1/AC2) was systematically greater for binary components (person, factual accuracy) than for ternary ones (SQ, transformation, narrowing, global). The study states "higher for the binary rubric components (person and factual accuracy) than for the ternary components".
+Four LLMs were each run under 4 prompting strategies (16 model × prompting conditions) to rate 122 summary statements. Agreement with the expert ratings (Gwet AC1 for binary components, AC2 for ternary ones) was generally higher for the binary components (person, factual accuracy) than for the ternary ones (semantic qualifiers, transformation, narrowing, global); the results section says the binary components "usually showed the highest agreement". The pattern is not uniform: Mistral 7B under zero-shot prompting reached AC2=0.876 on semantic qualifiers while its person rating collapsed to near chance (AC1=0.037), and Mistral Large scored only AC1=0.530 on factual accuracy under few-shot prompting. The authors note the difference may partly reflect the distribution of ratings in the human reference set.
 
 > "Concordance was higher for the binary rubric components (person and factual accuracy) than for the ternary components."
 

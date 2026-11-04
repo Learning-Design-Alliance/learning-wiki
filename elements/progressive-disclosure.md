@@ -53,7 +53,7 @@ Progressive disclosure manages intrinsic load by preventing the simultaneous pre
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [GenAI-assisted progressive-disclosure CBL modestly improves delayed final exam performance](../claims/genai-progressive-disclosure-cbl-final-exam.md) [~W]
+- [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](../claims/genai-progressive-disclosure-cbl-final-exam.md) [~W]
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — provide the overview that staged disclosure otherwise hides, preventing disorientation

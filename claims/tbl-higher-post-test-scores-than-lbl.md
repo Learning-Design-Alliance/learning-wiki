@@ -63,4 +63,4 @@ Meta-analysis of 28 studies comparing TBL and LBL final examination scores in me
 - [TBL significantly increases medical students' theoretical examination scores compared with LBL in Chinese medical education (pooled SMD = 2.46)](tbl-increases-theoretical-examination-scores-china.md) — possibly the same claim (merge candidate)
 - [The CBL group performed significantly better on the final exam than the non-CBL group](cbl-improves-final-exam-performance-biochemistry.md) — related
 - [Both PBL-CBL and traditional teaching groups improve theoretical and skills scores after the course](both-groups-improve-scores-after-course.md) — related
-- [GenAI-assisted progressive-disclosure CBL modestly improves delayed final exam performance](genai-progressive-disclosure-cbl-final-exam.md) — related
+- [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](genai-progressive-disclosure-cbl-final-exam.md) — related

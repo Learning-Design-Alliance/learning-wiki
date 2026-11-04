@@ -51,6 +51,6 @@ Concordance with human expert ratings measured with accuracy and Gwet AC1/AC2 ac
 - [Few-shot chain-of-thought prompting outperforms zero-shot prompting for detecting teacher questions](few-shot-cot-outperforms-zero-shot-question-detection.md) — related
 - [Reasoning-capable model variants and chain-of-thought prompting yield no measurable improvement in either alignment axis for classroom evaluation](reasoning-variants-no-alignment-improvement.md) — reports the opposite
 - [Chain-of-thought prompting yields higher-quality GenAI feedback on argumentative essays than Zero-shot prompting and teacher feedback](cot-prompting-higher-feedback-quality-than-zero-shot-and-teacher.md) — related
-- [Concordance between LLM and human ratings is higher for binary rubric components than for ternary components](higher-concordance-binary-than-ternary-components.md) — related
+- [Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components](higher-concordance-binary-than-ternary-components.md) — related
 - [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting score at or above zero-shot on every dataset tested, and above it in most comparisons](in-context-examples-improve-bloom-classification.md) — related
 - [In-context learning did not consistently improve LLM annotation reliability over zero-shot prompting for engagement coding](icl-no-better-than-zero-shot-engagement-coding.md) — related

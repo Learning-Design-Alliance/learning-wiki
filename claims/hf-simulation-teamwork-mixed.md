@@ -49,7 +49,7 @@ The review's synthesis of four RCTs measuring teamwork performance. Thomas et al
 
 ## Related Claims
 
-- [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md)
+- [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md)
 - [Long-term retention of high-fidelity simulation benefits is controversial: one RCT found no difference at 3 months while another found improvement after a median of 107 days](hf-simulation-retention-controversial.md)
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md)
 - [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](hf-simulation-null-secondary-outcomes.md) — possibly the same claim (merge candidate)

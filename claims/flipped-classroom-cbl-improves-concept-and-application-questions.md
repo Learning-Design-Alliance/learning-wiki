@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Both concept and application question scores improve significantly after flipped classroom combined with CBL
-description: Both concept and application question scores improve significantly after flipped classroom combined with CBL
+title: Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison
+description: Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison
 id: flipped-classroom-cbl-improves-concept-and-application-questions
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: ji-y-2026
     resource: "https://doi.org/10.1186/s12909-026-09808-1"
@@ -20,14 +21,14 @@ sources:
     rigour: 1
 ---
 
-# Both concept and application question scores improve significantly after flipped classroom combined with CBL
+# Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Correct response rates on both concept questions (e.g., repeated iodine-131 treatment, contraindications) and application questions (e.g., dose determination, post-treatment precautions) improved significantly (all P < 0.001). [→ Ji Y 2026](#ji-y-2026)
+`q2 i?` In one cohort with no control group, correct-response rates were significantly higher after the course on 7 of 10 concept items (questions 1–10) and 6 of 10 application items (questions 11–20); the other 7 items, several near ceiling before the course, showed no significant change. [→ Ji Y 2026](#ji-y-2026)
 
 ## Evidence
 
@@ -37,7 +38,9 @@ Ji Y, Zhang X, Han X, Xiong G, Chen X, Lu Y, Zhang Q, Sui S, Yang Z, Yu S, Xu W,
 
 `q2 · i?` · `causal · r1`
 
-Item-level analysis of the 20-question knowledge test in the same retrospective single-group study. Both concept and application question types showed significantly higher correct response rates post-course (all P < 0.001).
+Item-level analysis of the 20-question knowledge test in a retrospective single-group pre-post study of 40 standardized-training residents rotating through a nuclear medicine department (9 from nuclear medicine, 25 from radiology, 6 from ultrasound; 40 took the pre-test, 36 the post-test; items compared by chi-square or Fisher's exact test). Table 2 shows significantly higher post-course correct-response rates (P < 0.05) on 7 of the 10 concept items (questions 1–10) and 6 of the 10 application items (questions 11–20), with P < 0.001 on only 4 items. Seven items showed no significant change (P from 0.17 to >0.99), among them questions 1, 2 and 20, where 95–100% were already correct before the course. The results text states "all P < 0.001", which its own table does not bear out. With no control group, the authors note that maturation or repeated testing could explain the gains, which are within-group changes, not a comparison with another form of teaching.
+
+The article's results text, contradicted in part by its Table 2:
 
 > "trainees answered both concept questions (e.g., repeated treatment of hyperthyroidism with iodine-131, contraindications to treatment of hyperthyroidism with iodine-131, nature of iodine-131, procedure of thyroid imaging) and application questions (e.g., determination of the dose of iodine-131 therapy, precautions after treatment) with a significantly higher percentage of correct answers (all P < 0.001)"
 

@@ -47,6 +47,6 @@ The concept analysis reports that "New graduates with clinical readiness practic
 ## Related Claims
 - [Training outcomes extend from individual clinical care to teaching, quality improvement, and specialty development roles](transfer-extends-to-specialty-development-roles.md) — related
 - [Simulation-based education increases post-registration nurses' odds of satisfactory observed delirium-care practice at 6 weeks in a cluster RCT](sbe-delirium-odds-satisfactory-practice-rct.md) — related
-- [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
+- [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [Proposed definition: clinical readiness for practice is acquiring professional knowledge, skills, communication, self-management, and confident application](proposed-definition-clinical-readiness-nursing-students.md) — related
 - [Graduating nurses often lack clinical skills and readiness for practice](graduating-nurses-lack-clinical-readiness.md) — related

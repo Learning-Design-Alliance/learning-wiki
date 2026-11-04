@@ -46,7 +46,7 @@ Nonrandomized posttest quasi-experimental study of 224 undergraduates assigned b
 
 
 ## Related Claims
-- [GenAI-assisted progressive-disclosure CBL modestly improves delayed final exam performance](genai-progressive-disclosure-cbl-final-exam.md) — related
+- [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](genai-progressive-disclosure-cbl-final-exam.md) — related
 - [Intervention increases behavioral engagement: voluntary responses, evidence-referencing, and discussion time](genai-cbl-behavioral-engagement.md) — related
 - [Intervention improves information gathering, hypothesis generation, and differential diagnosis but not treatment planning](genai-cbl-reasoning-dimensions.md) — related
 - [No reliable evidence that the intervention effect differs by academic major](genai-cbl-subgroup-major.md) — related

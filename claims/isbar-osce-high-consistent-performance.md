@@ -46,7 +46,7 @@ Post-intervention OSCE performance of 57 nursing students across two stations, e
 
 ## Related Claims
 - [Students report that ISBAR provides a cognitive scaffold for organized handover expression](isbar-cognitive-scaffold-organized-expression.md) — related
-- [ISBAR-structured handover simulation teaching significantly improves nursing students' communication clarity](isbar-simulation-improves-communication-clarity.md) — related
+- [Nursing students' communication clarity rose significantly from before to after ISBAR-structured handover simulation teaching, in an uncontrolled pre-post study](isbar-simulation-improves-communication-clarity.md) — related
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — reports the opposite
 - [OSCE designs with 5-10 stations achieve good internal consistency (Cronbach's alpha = 0.83), outperforming designs with fewer than 5 or more than 10 stations](osce-5-10-stations-optimal-reliability.md) — related
 - [Cronbach's alpha values for OSCE scores vary widely across studies, ranging from 0.43 to 0.93, with most studies not reaching good internal consistency](osce-cronbach-alpha-wide-variability.md) — related

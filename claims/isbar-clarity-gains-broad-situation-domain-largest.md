@@ -45,7 +45,7 @@ Item-level exploratory analysis of the Communication Clarity Scale in a single-g
 
 
 ## Related Claims
-- [ISBAR-structured handover simulation teaching significantly improves nursing students' communication clarity](isbar-simulation-improves-communication-clarity.md) — related
+- [Nursing students' communication clarity rose significantly from before to after ISBAR-structured handover simulation teaching, in an uncontrolled pre-post study](isbar-simulation-improves-communication-clarity.md) — related
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](sbar-structured-communication-in-simulation.md) — a broader claim this one bears on
 - [Simulation-based training is associated with improved patient safety-related skills and knowledge in undergraduate nursing students](simulation-improves-nursing-patient-safety-skills.md) — a broader claim this one bears on
 - [Students report that ISBAR provides a cognitive scaffold for organized handover expression](isbar-cognitive-scaffold-organized-expression.md) — related

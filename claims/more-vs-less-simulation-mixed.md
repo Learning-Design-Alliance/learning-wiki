@@ -65,7 +65,7 @@ p = 0.001"
 
 
 ## Related Claims
-- [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
+- [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [No included comparative study assessed patient-based clinical outcomes, patient acceptability of care, or staff resource time](no-patient-outcomes-assessed.md) — related
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related

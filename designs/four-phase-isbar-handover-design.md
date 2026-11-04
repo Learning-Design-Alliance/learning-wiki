@@ -38,7 +38,7 @@ The article describes a four-phase intervention design for teaching ISBAR-struct
 - clinical reasoning in obstetric contexts
 
 ### Claims
-- [Isbar Simulation Improves Communication Clarity](../claims/isbar-simulation-improves-communication-clarity.md) [+M]
+- [Nursing students' communication clarity rose significantly from before to after ISBAR-structured handover simulation teaching, in an uncontrolled pre-post study](../claims/isbar-simulation-improves-communication-clarity.md) [+W]
 - [Isbar Simulation Improves Handover Confidence](../claims/isbar-simulation-improves-handover-confidence.md) [+M]
 
 ## Related Designs

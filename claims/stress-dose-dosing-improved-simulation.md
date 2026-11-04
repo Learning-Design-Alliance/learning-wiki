@@ -50,4 +50,4 @@ Item-level McNemar analysis in Table 1; the article reports stress-dose dosing a
 - [Outpatient sick-day management showed the largest knowledge gap at baseline and the greatest post-simulation gain](sick-day-management-largest-gap-gain.md) — related
 - [A single simulation-based intervention with structured debriefing improved immediate adrenal crisis knowledge among pediatric residents](simulation-debriefing-improved-adrenal-crisis-knowledge.md) — a broader claim this one bears on
 - [Self-confidence gains from single-session simulation are often temporary, suggesting a dose–response effect](simulation-confidence-dose-response.md) — related
-- [Both concept and application question scores improve significantly after flipped classroom combined with CBL](flipped-classroom-cbl-improves-concept-and-application-questions.md) — related
+- [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](flipped-classroom-cbl-improves-concept-and-application-questions.md) — related

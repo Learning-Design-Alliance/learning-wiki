@@ -87,7 +87,7 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [The flipped classroom intervention was implemented through planning, implementation, and evaluation stages over 12 weeks](../claims/flipped-classroom-three-stage-implementation.md) [~W]
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](../claims/fc-satisfaction-and-implementation-challenges.md) [~W]
 - [Flipped classroom and traditional classroom groups show comparable multiple-choice question performance (p = 0.651)](../claims/fc-comparable-multiple-choice-performance.md) [~W]
-- [Both concept and application question scores improve significantly after flipped classroom combined with CBL](../claims/flipped-classroom-cbl-improves-concept-and-application-questions.md) [+W]
+- [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](../claims/flipped-classroom-cbl-improves-concept-and-application-questions.md) [+W]
 - [Lower-baseline residents show larger score gains after flipped classroom combined with CBL](../claims/flipped-classroom-cbl-larger-gains-lower-baseline-residents.md) [~W]
 - [Team collaboration shows the largest perceived-effectiveness advantage for the flipped classroom (2.64 ± 0.53 vs. 2.14 ± 0.83, p < 0.001)](../claims/fc-largest-team-collaboration-advantage.md) [+W]
 

@@ -157,7 +157,9 @@ def body_and_refs(text):
 def impossible_values(text):
     out = []
     dec = r"(-?\d*\.\d+)"          # a printed decimal: "R2 = 21%" and "p=2.9 10-12" are not
-    tail = r"(?![\d.]|\s*%|\s*(?:×|x|\*|·)?\s*10\s*[-−–^]|\s*[eE][-−]|\s*[-−–]\s*\d|\s*[×*/])"
+    # A superscript exponent straight after the number is scientific notation written the French
+    # way, "p=9.10⁻⁹" for 9 × 10⁻⁹ (pmc-13716441), not a p value of 9.1.
+    tail = r"(?![\d.]|\s*%|\s*(?:×|x|\*|·)?\s*10\s*[-−–^]|\s*[eE][-−]|\s*[-−–]\s*\d|\s*[×*/]|\s*[⁻⁰¹²³⁴⁵⁶⁷⁸⁹])"
     pats = [
         ("variance-explained > 1", rf"{_VAR}\s*[=:]\s*{dec}{tail}"),
         ("correlation > 1", rf"(?<![A-Za-z])r\s*\(\s*\d+\s*\)\s*=\s*{dec}{tail}"),

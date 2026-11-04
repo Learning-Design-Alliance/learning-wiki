@@ -404,7 +404,7 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Leveraging reminders was the most common way to enhance the user-system dialogue in the reviewed interventions](../claims/reminders-most-common-dialogue-support.md) [~W]
 - [Student attitudes toward VOLTA were positive when it supplemented TA help but mixed when it replaced TA assistance](../claims/volta-attitudes-positive-with-ta-mixed-without.md) [~W]
 - [Tutor-intervention did not produce a statistically significant improvement in writing scores from pretest to posttest within the tutor group.](../claims/tutor-intervention-no-significant-writing-gain.md) [-W]
-- [GenAI-assisted progressive-disclosure CBL modestly improves delayed final exam performance](../claims/genai-progressive-disclosure-cbl-final-exam.md) [~W]
+- [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](../claims/genai-progressive-disclosure-cbl-final-exam.md) [~W]
 - [Absolute average error increased significantly from pre- to post-test in the conventional group but not in the AI-assisted group (exploratory)](../claims/conventional-group-error-increase-ai-group-stable.md) [~W]
 
 ## Examples

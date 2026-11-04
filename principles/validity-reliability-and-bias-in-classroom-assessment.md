@@ -449,7 +449,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The listening comprehension test measured ten sub-skills with high criterion validity and test-retest reliability](../claims/listening-comprehension-test-ten-skills-validity-reliability.md) [+W]
 - [The HLC-N demonstrates good construct validity with a six-factor structure explaining 72.558% of variance and good CFA model fit](../claims/hlc-n-good-construct-validity-efa-cfa.md) [+W]
 - [Inter-rater reliability of the drawing assessments was high, with an average-measures ICC of 0.988 for the total score](../claims/high-inter-rater-reliability-drawing-assessments.md) [+W]
-- [Concordance between LLM and human ratings is higher for binary rubric components than for ternary components](../claims/higher-concordance-binary-than-ternary-components.md) [~W]
+- [Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components](../claims/higher-concordance-binary-than-ternary-components.md) [~W]
 - [The 13-item attitude questionnaire demonstrated good internal consistency (Cronbach's α = 0.873) but was not formally validated as a psychometric instrument](../claims/rat-questionnaire-internal-consistency-alpha-0873.md) [~W]
 
 ## Related Principles

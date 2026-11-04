@@ -45,7 +45,7 @@ RCT with 227 nurses, nurse practitioners and doctors using an online simulation 
 
 
 ## Related Claims
-- [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
+- [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [Simulation-based education consistently improved nurses' confidence in delirium recognition and assessment across included studies](sbe-delirium-confidence-gains.md) — related
 - [Simulation training increased nursing students' confidence in cardiopulmonary physical examination skills more than traditional training (Tawalbeh et al. study)](simulation-confidence-cardiopulmonary-tawalbeh.md) — related
 - [PPS training increased healthcare practitioners' confidence and self-efficacy, with 48% reporting better ways of making the link between symptoms and psychosocial stressors](pps-training-confidence-self-efficacy.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Game-based learning with a card game significantly improved anesthesiology residents' knowledge of anesthetic drugs"
-description: "Game-based learning with a card game significantly improved anesthesiology residents' knowledge of anesthetic drugs"
+title: "Anesthesiology residents' anesthetic-drug knowledge scores rose significantly from pretest to posttest around a card-game session, in a single-group study with no control group"
+description: "Anesthesiology residents' anesthetic-drug knowledge scores rose significantly from pretest to posttest around a card-game session, in a single-group study with no control group"
 id: card-game-improves-anesthesiology-resident-pharmacology-knowledge
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: anchalee-santi-2026
     resource: "https://doi.org/10.1186/s12909-026-10011-5"
@@ -68,11 +69,11 @@ sources:
     rigour: 1
 ---
 
-# Game-based learning with a card game significantly improved anesthesiology residents' knowledge of anesthetic drugs
+# Anesthesiology residents' anesthetic-drug knowledge scores rose significantly from pretest to posttest around a card-game session, in a single-group study with no control group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (7 entries) · causal `r1` · `q3`
-> **Currency** · newest study 2026 · 4 of 7 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 7 of 7 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Residents' total knowledge scores increased significantly from pretest to posttest after playing the card game. [→ Anchalee Santi 2026](#anchalee-santi-2026)
@@ -152,6 +153,7 @@ The card game intervention consisted of
 
 ## Discussion
 
+This was a single-group, cross-sectional observational pilot (19 residents) with identical pre- and posttests and no comparison group, which the authors name as a limitation. The pre-post gain is a within-group change and cannot show that the card game caused it, rather than retesting on the same items or other factors, or that it beats lecture-based teaching.
 
 ## Related Claims
 - [Playing Losing the Lake significantly increased seventh graders' objective-test content knowledge relative to a control group viewing an earth science website](losing-the-lake-objective-test-gains.md) — a broader claim this one bears on

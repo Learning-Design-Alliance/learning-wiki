@@ -46,7 +46,7 @@ Systematic review of 15 studies (2010–2025) on clinical simulation in nursing 
 
 ## Related Claims
 - [Simulation type–outcome alignment: high-fidelity formats favour judgment and decision-making, VR and games favour empathy and reflection](simulation-type-outcome-alignment.md) — related
-- [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
+- [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [AI-enhanced simulation in high-acuity nursing training improves clinical confidence and emergency preparedness](ai-simulation-improves-clinical-confidence-nursing.md) — related
 - [Simulation-based education compared to patient-based clinical teaching alone shows a large pooled advantage in objectively assessed outcomes in undergraduate nursing students](sbe-vs-clinical-pooled-smd-0-96.md) — related
 - [The effect of high-fidelity simulation on practising nurses' self-confidence is inconclusive, varying by study design](hfs-self-confidence-inconclusive-design-dependent.md) — related

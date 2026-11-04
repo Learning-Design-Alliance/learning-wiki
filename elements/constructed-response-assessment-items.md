@@ -135,7 +135,7 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [The parabola achievement test used was a 27-item open-ended instrument with high internal consistency (Cronbach's alpha 0.942) and near-perfect inter-rater agreement](../claims/pat-27-item-reliable-achievement-test.md) [+W]
 - [The Algebra Achievement Test showed acceptable internal consistency and inter-rater reliability in this study](../claims/aat-reliability-k21-interrater.md) [~W]
 - [The Writing Pal automated writing evaluation achieves expert-equivalent accuracy, with 44-55% exact and 94-96% adjacent accuracy](../claims/writing-pal-awe-expert-equivalent-accuracy.md) [+W]
-- [Concordance between LLM and human ratings is higher for binary rubric components than for ternary components](../claims/higher-concordance-binary-than-ternary-components.md) [~W]
+- [Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components](../claims/higher-concordance-binary-than-ternary-components.md) [~W]
 - [Mistral 7B shows high ICCs but low Fleiss kappa when scoring summary statements](../claims/mistral-7b-high-icc-low-fleiss-kappa.md) [~W]
 
 ## The evidence by question

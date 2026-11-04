@@ -152,7 +152,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - [The CALM tool showed only weak inter-rater agreement (weighted Kappa 0.45) in its single ED video-review study](../claims/calm-weak-kappa-045-single-study.md) [~W]
 - [Checklists show reasonable validity and reliability but have an early ceiling effect and are most appropriate for novice learners in formative settings](../claims/checklists-valid-but-ceiling-effect-novice-formative.md) [~W]
 - [The heterogeneity of suturing assessment tools precludes meta-analysis, though their content could be merged into a panel of competence markers](../claims/heterogeneous-suturing-tools-preclude-meta-analysis.md) [~W]
-- [Concordance between LLM and human ratings is higher for binary rubric components than for ternary components](../claims/higher-concordance-binary-than-ternary-components.md) [~W]
+- [Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components](../claims/higher-concordance-binary-than-ternary-components.md) [~W]
 
 ## Related Principles
 - [Mastery Learning](mastery-learning.md) — the progression rule that learners advance on demonstrated mastery rather than schedule

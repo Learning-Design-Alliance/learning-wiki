@@ -188,8 +188,8 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 - [Video cases increase the number of design patterns from the pattern language 'Teaching' that pre-service teachers mention in written advice.](../claims/video-cases-increase-pattern-language-teaching.md) [+W]
 - [Video cases stimulate more development of the design pattern 'Dealing with disorder' than a course without video cases.](../claims/video-cases-increase-design-pattern-dealing-with-disorder.md) [+W]
 - [The CBL group perceived assessment as significantly more appropriate, with no other CEQ subscale differences](../claims/cbl-improves-perceived-assessment-appropriateness.md) [+W]
-- [Both concept and application question scores improve significantly after flipped classroom combined with CBL](../claims/flipped-classroom-cbl-improves-concept-and-application-questions.md) [~W]
-- [GenAI-assisted progressive-disclosure CBL modestly improves delayed final exam performance](../claims/genai-progressive-disclosure-cbl-final-exam.md) [~W]
+- [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](../claims/flipped-classroom-cbl-improves-concept-and-application-questions.md) [~W]
+- [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](../claims/genai-progressive-disclosure-cbl-final-exam.md) [~W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)

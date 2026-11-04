@@ -45,4 +45,4 @@ Refinement step reported in the results section: expert suggestions were analyze
 
 
 ## Related Claims
-- [A 20-item virtual simulation scenario for teaching Standard Precautions achieved content validity indices above 0.80 in expert validation with 11 experts](virtual-simulation-scenario-standard-precautions-cvi-above-080.md) — related
+- [In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73](virtual-simulation-scenario-standard-precautions-cvi-above-080.md) — related

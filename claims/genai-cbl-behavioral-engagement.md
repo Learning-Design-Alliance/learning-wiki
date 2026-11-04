@@ -48,4 +48,4 @@ Video-derived behavioral indicators from classroom recordings. All 3 differences
 - [SSS participation increased growth in classroom engagement relative to control schools](sss-increased-engagement-growth-fifth-grade.md) — related
 - [Predominantly lecture-based courses are associated with less engagement, while class discussion and group work time are associated with more](lecture-decreases-discussion-groupwork-increase-engagement.md) — related
 - [GenAI-assisted progressive-disclosure CBL improves case-analysis performance with a large effect size](genai-progressive-disclosure-cbl-case-analysis.md) — related
-- [GenAI-assisted progressive-disclosure CBL modestly improves delayed final exam performance](genai-progressive-disclosure-cbl-final-exam.md) — related
+- [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](genai-progressive-disclosure-cbl-final-exam.md) — related

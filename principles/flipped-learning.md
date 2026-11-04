@@ -252,7 +252,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [The flipped classroom rests on blended learning, student-centered learning, and active learning as theoretical foundations](../claims/flipped-classroom-theoretical-foundations.md) [+W]
 - [Middle school students completed a larger percentage of assigned videos than high school students](../claims/rmep-middle-school-higher-video-completion.md) [~W]
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](../claims/fc-satisfaction-and-implementation-challenges.md) [~W]
-- [Both concept and application question scores improve significantly after flipped classroom combined with CBL](../claims/flipped-classroom-cbl-improves-concept-and-application-questions.md) [+W]
+- [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](../claims/flipped-classroom-cbl-improves-concept-and-application-questions.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

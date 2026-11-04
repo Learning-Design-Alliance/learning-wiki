@@ -71,7 +71,7 @@ Block-RCT with 35 psychiatry residents assigned to SIM-ECT (n = 18) or tradition
 - [The review reports that high-fidelity simulation outperformed case-based discussion for clinical reasoning and leadership in paediatric emergencies](hfs-superior-case-based-discussion-reasoning.md) — related
 - The HFS evidence base for practising nurses comprises eight small studies with risk-of-bias concerns — related
 - [High-fidelity simulation training yields a large effect on learning satisfaction among practising registered nurses](hfs-learning-satisfaction-practising-nurses.md) — related
-- [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
+- [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [High-fidelity simulation training improves professional skills among practising registered nurses (moderate pooled effect)](hfs-professional-skills-practising-nurses.md) — related
 - [High-fidelity simulation improved pharmacology learning and retention compared to low-fidelity and sham groups](high-fidelity-simulation-improves-pharmacology-retention.md) — related
 - [Intermediate-fidelity mannequin simulation increased knowledge but not confidence compared with no additional instruction (Tiffen et al. study)](intermediate-fidelity-simulation-knowledge-not-confidence.md) — related
