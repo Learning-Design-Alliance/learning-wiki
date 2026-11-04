@@ -13,7 +13,7 @@ generated:
 # Selected-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 43 claims (8 for, 29 mixed, 6 against) · 33 studies (8 associational, 7 causal, 6 review, 6 design, 3 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q3` · 6 of 33 report an effect size · 41 claims rest on one study
+> **Evidence** · 44 claims (8 for, 30 mixed, 6 against) · 34 studies (8 causal, 8 associational, 6 review, 6 design, 3 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q3` · 6 of 34 report an effect size · 42 claims rest on one study
 
 ## Description
 In selected-response items — multiple-choice, true-false, and matching — students select a response the teacher or test developer provides rather than constructing one in their own words, so the item measures recognition rather than recall. Because results don't depend on a scorer's judgment (and so are often machine-scored), these items are called "objective," and their elimination of scoring error increases reliability. But teachers who rely on objective items exclusively risk reducing the validity of their overall assessment, since objective items aren't appropriate for every learning goal — effective assessment depends on aligning the technique to the actual goal (if the goal is for students to conduct an experiment, they should be asked to conduct one, not asked about conducting one).
@@ -101,6 +101,7 @@ Other common item-writing mistakes cut across formats: unclear wording (leaving 
 - [BOPPPS teaching advantage concentrates in single-choice questions with no significant differences in true/false or case-based essay sections](../claims/boppps-advantage-single-choice-only.md) [~W]
 - [GPA and gender effects on performance vary by question format](../claims/gpa-gender-effects-vary-by-format.md) [~W]
 - [Discrimination factor does not differ significantly among EMQ, MCQ, and SAQ formats](../claims/discrimination-factor-no-format-difference.md) [~W]
+- [The facial nerve anatomy knowledge test showed high reliability with KR20 of 0.96 after pilot removal of two questions](../claims/facial-nerve-test-kr20-reliability.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

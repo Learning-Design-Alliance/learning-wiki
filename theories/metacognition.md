@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 500 claims (240 for, 232 mixed, 28 against) · 269 studies (134 causal, 53 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 7 design), `q1`–`q4` · 90 of 269 report an effect size · 493 claims rest on one study
+> **Evidence** · 502 claims (241 for, 233 mixed, 28 against) · 270 studies (134 causal, 54 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 7 design), `q1`–`q4` · 90 of 270 report an effect size · 495 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -544,6 +544,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Strategy training reduced familiarity-based judgments and increased no-memory responses, indicating a shift toward more reliable monitoring cues](../claims/training-shifts-cues-away-from-familiarity.md) [+W]
 - [Students do not reliably distinguish beneficial from detrimental AI influence on their diagnostic accuracy](../claims/students-cannot-distinguish-beneficial-detrimental-ai-influence.md) [-W]
 - [Accuracy, confidence, and overconfidence do not differ significantly between basic knowledge and clinical questions](../claims/no-question-type-differences-llm-endodontic-performance.md) [~W]
+- [First-year biology students enter university with modest metacognitive knowledge of effective study strategies, rating all strategies similarly (means 56–77 out of 100)](../claims/modest-metacognitive-knowledge-study-strategies-biology-entry.md) [+W]
+- [Metacognitive knowledge of study strategies does not differ meaningfully across demographic groups](../claims/no-demographic-differences-metacognitive-knowledge.md) [~W]
 
 ## The evidence by question
 

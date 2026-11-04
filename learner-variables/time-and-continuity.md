@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 204 claims (134 show a difference, 46 mixed, 24 no difference) · 175 studies (88 causal, 36 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 36 of 175 report an effect size · 200 claims rest on one study
+> **Evidence** · 206 claims (136 show a difference, 46 mixed, 24 no difference) · 176 studies (88 causal, 37 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 36 of 176 report an effect size · 202 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -261,6 +261,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Benefits of blended strategy instruction on source-based essay quality remain significant regardless of prior reading and writing skills or time on task](../claims/blended-strategy-benefits-independent-of-prior-skill-and-time.md) [-W] — an instructional effect differs with it
 - [Treatment and control groups differed significantly in dosage of induction content, engagement in mentoring activities, and exposure to class observations and feedback](../claims/cti-groups-differ-content-activities-observations.md) [+W] — measured as an outcome of the instruction studied
 - [The feedback group shows longer hands-off time and total CPR time than the control group in 30:2 cycles](../claims/feedback-group-longer-hands-off-time.md) [+W] — measured as an outcome of the instruction studied
+- [Continued training yields significant gains in most OSATS subdomains except knowledge of instruments](../claims/continued-training-osats-subdomain-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Task completion time worsens after training gaps, with efficiency loss evident by six months](../claims/robotic-simulation-efficiency-loss-by-six-months.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

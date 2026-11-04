@@ -67,3 +67,5 @@ RCT of 120 medical and nursing students comparing VR with live simulation, asses
 - [High-fidelity simulation training produced knowledge and skill gains in nursing students that persisted at three months](high-fidelity-simulation-cpr-gains-retained-3-months.md) — related
 - [Non-verbal communication gains persisted at a two-month follow-up, with no statistically significant decline from post-test](peer-tutoring-asd-gains-retained-two-month-followup.md) — related
 - [Synectics workshops significantly increase perceived teamwork skills immediately after training, with gains retained three months later](synectics-improves-teamwork-skills-retained.md) — related
+- [Knowledge retention after simulation varies by item type: cellular and genetic concepts are less retained than procedural or physiological ones.](simulation-retention-varies-by-concept-type.md) — related
+- [VR-trained and small-group-trained fellows show no significant difference in post-training checklist scores for tracheostomy emergencies](vr-noninferior-tracheostomy-emergency-checklist.md) — related

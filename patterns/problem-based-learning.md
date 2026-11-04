@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 169 claims (68 for, 87 mixed, 14 against) · 93 studies (32 quant-synthesis, 29 causal, 12 review, 7 theoretical, 6 qualitative, 5 design, 2 associational), `q1`–`q4` · 24 of 93 report an effect size · 164 claims rest on one study
+> **Evidence** · 174 claims (70 for, 90 mixed, 14 against) · 95 studies (32 quant-synthesis, 31 causal, 12 review, 7 theoretical, 6 qualitative, 5 design, 2 associational), `q1`–`q4` · 24 of 95 report an effect size · 169 claims rest on one study
 
 ## Description and scope
 
@@ -261,6 +261,11 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [PBL participants spent significantly more weekly time reading English texts than non-PBL participants during the treatment](../claims/pbl-increases-out-of-class-reading-time.md) [~W]
 - [Student performance in the integrated PBL bridge course was consistently high across seven cohorts, with all cohort mean total scores above 90 and 81.06% of students achieving an excellent grade.](../claims/pbl-bridge-course-consistently-high-performance.md) [+W]
 - [Replacing Problem-Based Learning with Team-Based Learning in a large medical programme reduced weekly staff facilitator hours by 63% and room bookings by 84% while maintaining high student satisfaction.](../claims/tbl-reduces-staff-and-room-burden-maintains-satisfaction.md) [-W]
+- [Both PBL formats improve knowledge versus conventional teaching](../claims/pbl-improves-knowledge-versus-conventional-teaching.md) [+W]
+- [Integrated PBL and medical humanities teaching produced no significant between-group difference in post-intervention theoretical examination scores compared with LBL](../claims/integrated-pbl-humanities-no-difference-theoretical-scores.md) [~W]
+- [Microscopic image interpretation scores showed a borderline between-group difference favoring the integrated PBL and medical humanities group over LBL](../claims/integrated-pbl-humanities-borderline-microscopic-interpretation.md) [+W]
+- [Video-assisted PBL enhances self-directed learning readiness more than traditional PBL](../claims/video-assisted-pbl-enhances-self-directed-learning-readiness.md) [~W]
+- [Video-assisted PBL yields higher pediatric nursing knowledge than traditional PBL and conventional teaching](../claims/video-assisted-pbl-higher-pediatric-knowledge.md) [~W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

@@ -50,3 +50,4 @@ Within-family MR analysis in MoBa trios, adjusting for both parents' PGIs. The c
 - [Two-sample MR finds inverse-variance weighted estimates linking maternal education to fewer depressive but more ADHD-inattention traits, with other estimators consistent with the null](two-sample-mr-ivw-maternal-education-inattention.md) — related
 - [Genetic liability for ADHD predicts lower GCSE attainment but not greater school absence (ALSPAC cohort)](adhd-genetic-liability-attainment-not-absence.md) — related
 - [In complete-case sensitivity analyses, maternal education showed unexpected positive associations with children's depressive and ADHD-inattention traits](complete-case-positive-maternal-education-associations.md) — related
+- [Children's higher education-linked genetic propensities are associated with lower student–teacher conflict and more positive teacher responses at age 5, but not closeness](pgsedu-evokes-lower-teacher-conflict.md) — related

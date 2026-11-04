@@ -57,6 +57,8 @@ The review's design recommendation is that educators should not seek to replace 
 - [Use SMS as a complementary device for vocabulary instruction and assessment, including reciprocal testing](sms-complementary-vocabulary-instruction-strategy.md)
 - [Advise teachers to use Twitter learning activities in blended courses integrating face-to-face and online discussion](advise-twitter-activities-blended-courses.md)
 - [Blend web-based and traditional approaches rather than replacing classroom instruction with web-based instruction](amalgamate-web-based-and-traditional-approaches.md)
+- [Use AI language models as adjunctive tools in medical education, especially for test preparation or knowledge reinforcement](ai-adjunctive-tool-medical-education-test-prep.md)
+- [Incorporate puzzle-based blended learning into undergraduate EBM curricula, particularly for complex clinical reasoning and evidence appraisal skills](puzzle-blended-learning-ebm-curriculum-strategy.md)
 
 ## Examples
 -

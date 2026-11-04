@@ -50,3 +50,4 @@ Randomized comparison within the Hip/Ankle/Foot module analyzed by Mann-Whitney 
 - [Integrated instructional videos increased upper limb examination confidence and perceived explanation quality among first-year medical students](integrated-video-confidence-upper-limb-examination.md) — related
 - [No significant differences between intervention and control groups for any knee examination survey item](no-significant-difference-knee-examination-video.md) — related
 - [Integrated videos did not improve confidence in guiding differential diagnosis except in the upper limb examination](video-no-differential-diagnosis-confidence-gain.md) — related
+- [Self-reported confidence with module skills did not differ significantly within the PGY1 cohort over the year or between end-of-year PGY1 and control residents](self-confidence-no-significant-difference-modules.md) — related

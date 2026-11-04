@@ -194,3 +194,4 @@ A narrative review reports this meta-analysis of more than 90 PreK–12 articles
 - [Meta-analytic longitudinal evidence shows achievement affects later motivation about twice as strongly as motivation affects later achievement, with both pooled effects small](scharmer-pooled-achievement-motivation-effects-twice.md) — related
 - [In Study 1, peer and teacher relatedness correlate moderately with each other and with outcomes, while well-being and engagement correlate only trivially](relatedness-descriptive-correlations-study1.md) — related
 - Methodological features explain variation in structure findings: methods centering teachers' and students' experiences and aligning with the focal outcome matter — related
+- [Student–teacher relationship processes may be one proximal mechanism through which school-level moderation of genetic associations with achievement operates, though this was not tested directly](school-level-moderation-hypothesis.md) — related

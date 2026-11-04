@@ -51,3 +51,4 @@ Time-trend estimates from the same linear mixed-effects models; interest was the
 - [Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity](quadratic-cubic-trends-improve-linear-model-teacher-behavior.md) — related
 - [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while the significant SWE-Chat traits stay flat](trait-temporal-trends-inconclusive-learning-curves.md) — related
 - [Interest and self-concept measures decrease between pre- and post-tests regardless of intervention, making a control group essential for interpretation](questionnaire-effect-decreases-require-control-group.md) — a narrower finding that bears on this claim
+- [Self-reported visual and auditory learning preferences declined significantly across matriculating classes during the study](vark-preferences-declining-trend.md) — related

@@ -47,3 +47,5 @@ Paired Wilcoxon signed-rank tests on retrospective single-item self-reports from
 ## Related Claims
 - [Both EM residents and PGY trainees reported significantly lower procedural stress with ultrasound guidance](lower-stress-with-us-guidance-both-groups.md) — related
 - [PGY residents completed US-guided cannulation significantly faster than clerks (68.5 vs. 133 s)](pgy-faster-than-clerks-cannulation-time.md) — related
+- [Anesthesia trainees who first learned vascular access using ultrasound are more likely to prefer ultrasound guidance than those who first learned landmark-based techniques](initial-ultrasound-training-associated-with-ultrasound-preference.md) — related
+- [Trainees report greater confidence with ultrasound-guided than with landmark-based cannulation for both IJV and RA access](trainees-greater-confidence-ultrasound-guided-cannulation.md) — related

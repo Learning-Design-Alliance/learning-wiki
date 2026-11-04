@@ -49,3 +49,4 @@ The article reports this experimental vignette study, citing van der Goot and co
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Perceived individual and class-directed autonomy support positively predict students' intrinsic motivation, effort, and persistence](autonomy-support-predicts-intrinsic-motivation-effort-persistence.md) — related
 - [Student age and sample gender composition moderate associations between motivation antecedents and motivation types](age-gender-moderate-motivation-antecedents.md) — related
+- [Full-time students, students with better-staffed placements, and students with well-functioning assigned supervision report higher perceived competencies](placement-conditions-associated-safety-competencies.md) — related

@@ -49,3 +49,4 @@ Propensity-matched comparison of operative times in the national AVR cohort; the
 - [Propensity-matched trainee-led isolated AVR was not associated with higher in-hospital mortality or morbidity; matched mortality and dialysis were lower in trainee cases](trainee-avr-matched-outcomes-no-excess-harm.md) — related
 - [Residents' care resulted mostly in similar patient outcomes compared with faculty when dedicated supervision and additional operation time were arranged](resident-care-similar-to-faculty-with-supervision.md) — a broader claim this one bears on
 - [In the UK national cohort, trainees performed 18.7% of isolated AVR and 9.8% of isolated mitral operations, with mitral repair lowest at 8.1%](trainee-exposure-avr-mitral-national-proportions.md) — related
+- [Resident-led femoral IMN takes longer but shows no difference in revision rates or hospital stay](resident-imn-longer-operative-time-similar-revision-stay.md) — related

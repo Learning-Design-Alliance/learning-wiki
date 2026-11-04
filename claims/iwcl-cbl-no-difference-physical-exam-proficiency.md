@@ -49,3 +49,4 @@ Controlled educational intervention with 79 undergraduates in preexisting clerks
 - [IWCL+CBL students achieve higher anatomical proficiency than LBL+CBL students, especially for structural detail and auditory pathway parameters](iwcl-cbl-higher-anatomical-proficiency.md) — related
 - [IWCL+CBL students score higher on practical subject examinations but not on the theoretical examination](iwcl-cbl-higher-practical-subject-scores.md) — reports the opposite
 - [PBL-CBL improves physical examination and case analysis performance relative to LBL](pbl-cbl-physical-exam-case-analysis.md) — related
+- [Integrated PBL and medical humanities teaching produced no significant between-group difference in post-intervention theoretical examination scores compared with LBL](integrated-pbl-humanities-no-difference-theoretical-scores.md) — related

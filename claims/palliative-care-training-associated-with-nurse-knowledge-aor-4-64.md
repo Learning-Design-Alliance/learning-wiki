@@ -48,3 +48,4 @@ Meta-analysis of the association between palliative care training and nurses' kn
 - [B.S.-degree nurses show significantly higher odds of palliative care knowledge than diploma nurses (AOR = 3.01)](bs-degree-nurses-higher-palliative-knowledge-odds-aor-3-01.md) — related
 - [Pooled good knowledge of palliative care among Ethiopian nurses is 45.57%, meaning more than half had poor knowledge](ethiopian-nurses-palliative-care-knowledge-pooled-45-57.md) — related
 - [Only 36.02% of reviewed Ethiopian nurses had palliative care training, and Egger's test indicated no publication bias](low-training-coverage-and-no-publication-bias.md) — related
+- [Systematic palliative care training is associated with higher odds of high-competency rather than moderate-competency profile membership (OR = 3.210).](palliative-training-associated-high-competency-membership.md) — related

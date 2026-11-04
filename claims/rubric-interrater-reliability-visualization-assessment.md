@@ -55,3 +55,4 @@ Two authors independently scored all blinded submissions across T0–T2 after ca
 - The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement — related
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — a broader claim this one bears on
 - [Essay scoring showed substantial inter-rater agreement, with Cohen's kappa of 0.78, 0.70, 0.81, and 0.83 across the four rubric criteria](statecraft-x-essay-kappa-agreement.md) — a narrower finding that bears on this claim
+- [The checklist assessment showed strong interrater reliability, contributing validation evidence](checklist-interrater-reliability-kappa-0875.md) — related

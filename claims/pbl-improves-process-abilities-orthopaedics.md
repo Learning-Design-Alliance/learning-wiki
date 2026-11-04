@@ -145,3 +145,5 @@ Meta-analysis of 8 RCTs (n=592), low heterogeneity (I2 =21%). Pooled odds ratio 
 - [Students perceived PBL as providing significant benefits to presentation skills, teamwork, leadership and ability to use IT](pbl-significant-perceived-skill-benefits.md) — related
 - [PBL participants completed problem-solving tasks cooperatively, with after-class discussion the most frequent task and up to 89% extending learning after class](pbl-task-self-reports-cooperative-problem-solving.md) — related
 - [Participation in a BOPPPS-PBL nursing innovation course is associated with higher post-course creativity scores among newly recruited nurses](boppps-pbl-course-creativity-increase.md) — a narrower finding that bears on this claim
+- [Both PBL formats improve knowledge versus conventional teaching](pbl-improves-knowledge-versus-conventional-teaching.md) — related
+- [Video-assisted PBL yields higher pediatric nursing knowledge than traditional PBL and conventional teaching](video-assisted-pbl-higher-pediatric-knowledge.md) — related

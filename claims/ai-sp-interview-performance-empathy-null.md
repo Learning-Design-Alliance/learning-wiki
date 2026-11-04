@@ -73,3 +73,4 @@ Same blinded simulated interview assessment; Table 3 reports empathy 4.02 ± 0.6
 - [Multi-agent AI standardized patient training improved final OSCE-aligned examination scores compared with a structured non-LLM control condition](ma-scaffolding-improves-osce-exam-score.md) — a broader claim this one bears on
 - [Studies of simulated patient-based CST report positive effects on trainee confidence and communication performance](sp-cst-positive-effects-confidence-performance.md) — a broader claim this one bears on
 - [The largest OSCE-domain improvement from multi-agent scaffolding was in communication performance](communication-largest-osce-gain.md) — a narrower finding that bears on this claim
+- [Structurally designed AI-SPs are noninferior to human SPs in communication skill improvement, with unique advantages for self-efficacy](ai-sp-noninferior-communication-skills.md) — related

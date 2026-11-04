@@ -58,3 +58,4 @@ Mixed quantitative–qualitative expert review with seven experts in teacher edu
 - [The DKSCQ-N demonstrates strong content validity with a scale-level Content Validity Index of 0.95 following expert review and item refinement.](dkscqn-content-validity-s-cvi-095.md) — related
 - [Content validity of the HSPNCS is acceptable (S-CVI/Ave 0.972)](hspncs-acceptable-content-validity.md) — related
 - [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](vega-content-validity-cvi.md) — related
+- [Content validity of OPTIS was established through five consecutive rounds of expert feedback involving 18 experts](optis-content-validity-expert-rounds.md) — related

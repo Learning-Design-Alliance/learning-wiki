@@ -53,3 +53,4 @@ Nonrandomized curriculum-embedded comparison of intact cohorts: fourth-year Zoom
 - [The within-student spatial–factual difference score shifts from negative in the Conventional cohort to positive in the VR cohort](within-student-spatial-factual-delta-shift.md) — a narrower finding that bears on this claim
 - [VR-cohort students reported high self-reported understanding, positive format evaluations, and willingness to participate again](vr-students-report-high-understanding-and-willingness.md) — related
 - [Students report greater satisfaction with VR-based anatomy learning than with conventional or 2D methods](vr-anatomy-satisfaction-advantage.md) — related
+- [VR-based acupuncture training was associated with higher theoretical knowledge posttest scores than conventional instruction](vr-acupuncture-higher-theoretical-knowledge.md) — related

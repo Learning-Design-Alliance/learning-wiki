@@ -72,3 +72,4 @@ Same RCT, Results section, reporting the two examination subsections. Basic theo
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — a broader claim this one bears on
 - [PBL-based teaching yields higher total scores than LBL in Chinese standardized residency training](pbl-higher-total-scores-chinese-srt.md) — a broader claim this one bears on
 - [PBL is associated with significantly higher total medical psychology examination scores than traditional lecture-based teaching in China (Hedges' g = 1.510)](pbl-higher-medical-psychology-scores-china.md) — a broader claim this one bears on
+- [First-year medical students in an integrated NM-PAL model reported significantly higher overall self-reported core competency scores than lecture-based peers over 10 months](nm-pal-higher-self-reported-core-competence.md) — related

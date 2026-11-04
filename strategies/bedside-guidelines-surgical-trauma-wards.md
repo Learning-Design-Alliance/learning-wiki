@@ -47,6 +47,7 @@ The article recommends that hospitals "Provide accessible evidence‐based proto
 
 - [Use the observational metric for assessment, learner self- and peer-assessment, educational programme evaluation, and clinical audit of wound-dressing performance](metric-based-assessment-self-peer-audit-strategy.md)
 - [Use validated assessment instruments rather than self-created surveys when evaluating wound care education](validated-instruments-wound-care-evaluation.md)
+- [Establish institutional supports — standardized MDT protocols, guidelines access, and regular wound care training — to translate knowledge into practice](institutional-mdt-protocols-and-training-strategy.md)
 
 ## Examples
 -

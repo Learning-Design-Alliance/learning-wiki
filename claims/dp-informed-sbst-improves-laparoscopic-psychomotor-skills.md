@@ -58,3 +58,4 @@ Systematic review of ten studies (five RCTs, five observational) on DP-informed 
 - [Feedback based on intraoperative surgical performance improves surgical performance across live and simulated procedures](intraoperative-feedback-improves-surgical-performance.md) — related
 - [Simulation-based training should be incorporated into surgical curricula targeting novice learners](simulation-training-should-be-incorporated-into-curricula.md) — a broader claim this one bears on
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — related
+- [Immediate feedback on incorrect operations and surgical step prompts are the most valued learning resources](cataract-vsim-feedback-prompts-most-valued.md) — related

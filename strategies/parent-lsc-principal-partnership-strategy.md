@@ -45,6 +45,7 @@ The playbook gives families and Local School Council members concrete actions: g
 
 - [Use survey profiles, discussion questions, and the Details report to guide school improvement deliberations](survey-report-discussion-questions-improvement-strategy.md)
 - [Families partner with schools on attendance and grades through belonging, collaborative support, and joint monitoring](family-engagement-three-playbook-actions.md)
+- [Head teachers should involve parents through meetings, report card attendance, and joint improvement plans](head-teacher-parental-involvement-practices.md)
 
 ## Examples
 -

@@ -44,7 +44,8 @@ PsychCare Quest is a newly developed, non-commercial board game created for this
 - [Gbl Improves Academic Self Efficacy Nursing](../claims/gbl-improves-academic-self-efficacy-nursing.md) [+M]
 
 ## Related Designs
-- 
+
+- [Custom Python board game for hypertension pharmacotherapy with three difficulty levels](python-board-game-hypertension-gbl.md)
 
 ## Examples
 -

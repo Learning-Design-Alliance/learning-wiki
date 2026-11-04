@@ -13,7 +13,7 @@ generated:
 # Case-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (9 for, 3 mixed, 2 against) · 25 studies (13 causal, 6 review, 4 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 25 report an effect size · 8 claims rest on one study
+> **Evidence** · 17 claims (11 for, 4 mixed, 2 against) · 27 studies (14 causal, 6 review, 4 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 27 report an effect size · 11 claims rest on one study
 
 ## Description
 Case-based learning places learners in the role of analyst or decision-maker confronting a realistic scenario — a patient presentation, a business dilemma, a legal dispute — and asks them to apply theoretical concepts to interpret it and choose a course of action. The case functions as an authentic problem context in which abstract principles must be retrieved, adapted, and defended rather than merely recalled.
@@ -61,6 +61,9 @@ Case-based learning improves exam performance and supports transfer by forcing l
 - [Cohort 2022 showed significant gains from pre-test (4.3 ± 1.6) to post-test (7.6 ± 2.2) with retention at post-post-test (6.3 ± 2.4), and an 11.7% numerical decrease after the post-test that was not statistically significant](../claims/xr-cbl-cohort-2022-gains-retention.md) [~W] — attached 2026-11-04 from Aytaç Güneş et al. (2026), which proposed "XR-CBL anatomy modules combining donor-derived MRI, 3D photogrammetric and segmented models, and zSpace desktop XR in the gross anatomy laboratory".
 - [CBL with 3D reconstruction improves basic liver ultrasound scanning scores versus traditional teaching](../claims/cbl-3d-reconstruction-improves-scanning-scores.md) [+W]
 - [CBL with 3D reconstruction improves hepatic segmentation and lesion localization scores versus traditional teaching](../claims/cbl-3d-reconstruction-improves-segmentation-localization.md) [+W]
+- [A case-based learning module on pediatric bacterial meningitis produced statistically significant pre/post knowledge gains in postgraduate learners](../claims/cbl-pediatric-meningitis-knowledge-gains.md) [+W] — attached 2026-11-04 from Huynh G et al. (2026), which proposed "Open-access pediatric bacterial meningitis CBL module with facilitator guide, trainee case, and pre/post quizzes".
+- [Learners rated the CBL module highly, with 100% reporting learning objectives were met and 93.5% endorsing anticipated practice change](../claims/cbl-pediatric-meningitis-learner-ratings.md) [+W] — attached 2026-11-04 from Huynh G et al. (2026), which proposed "Open-access pediatric bacterial meningitis CBL module with facilitator guide, trainee case, and pre/post quizzes".
+- [Instructors show higher willingness to adopt CBL than LBL for future clinical teaching](../claims/cbl-higher-instructor-adoption-willingness.md) [~W]
 
 ## The evidence by question
 - *Does teaching through realistic cases, by itself, raise learning?* [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [+M]

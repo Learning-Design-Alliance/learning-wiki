@@ -50,3 +50,4 @@ Mann-Whitney U tests comparing process assessment and final examination scores b
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](boppps-higher-overall-course-scores.md) — related
 - [BOPPPS teaching significantly improves final examination scores compared with traditional teaching in undergraduate clinical and health education](boppps-improves-final-examination-scores.md) — a broader claim this one bears on
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
+- [The 5E+AI teaching model significantly improved medical students' medical knowledge test scores compared with lecture-based instruction](5e-ai-model-improved-medical-knowledge-test-scores.md) — related

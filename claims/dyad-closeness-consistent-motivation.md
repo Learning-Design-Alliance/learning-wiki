@@ -50,3 +50,4 @@ Two longitudinal studies following students across elementary school in the US a
 - [Teacher-child closeness shows concurrent benefits but no prospective spillover to other domains once conflict covariation is controlled](closeness-benefits-concurrent-not-prospective.md) — related
 - [Elementary students' perceptions of interactions with their teacher become more positive over time in classrooms characterized by positive teacher-student interactions](positive-teacher-student-interactions-improve-student-perceptions-over-time.md) — related
 - Adolescent motivation research relies almost exclusively on student self-report of relationships, with dyadic and non-dyadic configurations both common — related
+- [All three student–teacher relationship dimensions at age 5 are positively associated with educational performance at ages 6–8](strs-dimensions-predict-educational-performance.md) — related

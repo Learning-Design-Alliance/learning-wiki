@@ -40,7 +40,8 @@ A clinical simulation activity for a 6-ECTS second-year Health Education course.
 - [Ccs High Satisfaction Sds Domain Scores](../claims/ccs-high-satisfaction-sds-domain-scores.md) [+M]
 
 ## Related Designs
-- 
+
+- [Three-component simulation design: prebriefing, immersive scenario, and structured debriefing aligned with Healthcare Simulation Standards of Best Practice](prebriefing-scenario-debriefing-simulation-design.md)
 
 ## Examples
 -

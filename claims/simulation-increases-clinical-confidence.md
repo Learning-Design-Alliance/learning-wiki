@@ -1,0 +1,51 @@
+---
+type: claim
+title: "Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills."
+description: "Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills."
+id: simulation-increases-clinical-confidence
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: tomobi-oluwakemi-2026
+    resource: "https://doi.org/10.1371/journal.pone.0354377"
+    title: "Tomobi Oluwakemi, DeFazio Sarah, Lin Dena, Brashear Alyssa, Smart Klint, Epps Gregory, Woodberry Kerri. (2026). Advancing health equity through simulation-based education for pre-health students. PLOS One. https://doi.org/10.1371/journal.pone.0354377"
+    author: Tomobi Oluwakemi, DeFazio Sarah, Lin Dena, Brashear Alyssa, Smart Klint, Epps Gregory, Woodberry Kerri
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Students reported significantly higher post-simulation confidence in identifying stroke, heart attack, intraoperative emergency, CPR need, and opioid overdose, and in using naloxone. [→ Tomobi Oluwakemi 2026](#tomobi-oluwakemi-2026)
+
+## Evidence
+
+### Tomobi Oluwakemi 2026
+
+Tomobi Oluwakemi, DeFazio Sarah, Lin Dena, Brashear Alyssa, Smart Klint, Epps Gregory, Woodberry Kerri. (2026). Advancing health equity through simulation-based education for pre-health students. PLOS One. https://doi.org/10.1371/journal.pone.0354377
+
+`q2 · i?` · `causal · r1`
+
+Pre/post paired Likert-scale surveys (1-5) in the same single-group study. Table 7 reports e.g. intraoperative emergency confidence rising from 1.47 to 4.11 and opioid overdose identification from 2.31 to 4.47, each p < 0.0001; no standardized effect sizes are printed.
+
+> "Participants reported increased confidence (p < 0.001), most significantly in understanding stroke, heart attack, intraoperative emergency, cardiopulmonary resuscitation (CPR), opioid overdose, and administering naloxone."
+
+## Discussion
+
+
+## Related Claims
+- [AI-enhanced simulation in high-acuity nursing training improves clinical confidence and emergency preparedness](ai-simulation-improves-clinical-confidence-nursing.md) — related
+- [NTS training for emergency department professionals is associated with consistent pre- to post-training improvements in knowledge, teamwork attitudes, and self-confidence (low to moderate certainty).](nts-training-improves-ed-learning-outcomes.md) — related
+- [Non-randomized and pre/post-test studies broadly support simulation training benefits for attitudes, skills, knowledge and behaviors, though subject to natural learning effects](simulation-nonrct-ppt-narrative-support.md) — a broader claim this one bears on
+- [Across the reviewed studies, simulation-based interventions consistently improved paediatric undergraduate learning outcomes, including clinical reasoning, procedural skills and confidence](sbe-consistently-improved-paediatric-ume-outcomes.md) — related

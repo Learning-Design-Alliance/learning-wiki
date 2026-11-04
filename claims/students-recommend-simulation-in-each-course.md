@@ -58,3 +58,4 @@ Focus-group theme from the qualitative pilot; one participant suggested each cla
 - [The authors interpret the higher Natural Sciences AR effect as arising because abstract natural-science concepts can be more easily concretized in AR than social-science concepts](ar-concretization-explanation-natural-sciences.md) — related
 - [Clinical simulation improved pathophysiology learning with a significant grade shift toward higher marks](clinical-simulation-improves-pathophysiology-grades.md) — related
 - [Scenario-based learning through assignments was viewed as making learning more permanent](scenario-based-learning-permanent.md) — related
+- [Qualitative interviews suggest narrative features acted as a catalyst for meaning-making and peer-assisted elements provided social scaffolding for skill development](nm-pal-qualitative-mechanisms-meaning-making-scaffolding.md) — related

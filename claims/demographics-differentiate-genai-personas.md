@@ -75,3 +75,4 @@ Study Field distributions (Fig. 5d) across clusters. The article also reports Cl
 - [A four-cluster solution is optimal for segmenting higher education users' GenAI chatbot adoption perceptions](four-cluster-solution-genai-personas.md) — a broader claim this one bears on
 - [Chance-level identity discrimination is uniform across participants and not associated with AI literacy, personality, or demographics](detection-failure-uniform-not-tied-to-individual-differences.md) — related
 - [Skill portfolio measures stratify by demographics: men, younger cohorts, and more educated workers show higher specialisation](specialisation-demographic-stratification-linkedin.md) — related
+- [Metacognitive knowledge of study strategies does not differ meaningfully across demographic groups](no-demographic-differences-metacognitive-knowledge.md) — reports the opposite

@@ -18,7 +18,7 @@ sources:
 # Self-Directed Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (16 for, 31 mixed, 3 against) · 51 studies (17 review, 10 causal, 9 theoretical, 8 quant-synthesis, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 51 report an effect size · 41 claims rest on one study
+> **Evidence** · 51 claims (16 for, 32 mixed, 3 against) · 52 studies (17 review, 11 causal, 9 theoretical, 8 quant-synthesis, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 52 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,7 @@ Completion, achievement at the end of the course, self-reported autonomy or moti
 - [Self-directed learning scores increased significantly within all three groups over the course](../claims/sdl-gains-significant-in-all-groups.md) [~W]
 - [E-learning fosters learner autonomy and self-directed learning by enabling students to control pace, time, and content](../claims/elearning-fosters-learner-autonomy-self-direction.md) [+W]
 - [Only BA pragmatists and theorists significantly improved self-directed learning ability; BA activists and reflectors did not](../claims/ba-pragmatists-theorists-only-improved-sdl-ability.md) [~W]
+- [Video-assisted PBL enhances self-directed learning readiness more than traditional PBL](../claims/video-assisted-pbl-enhances-self-directed-learning-readiness.md) [~W]
 
 ## Related Principles
 - [Self-Regulated Learning](self-regulated-learning.md) — provides the mechanism-level account of how learners plan, monitor, and revise

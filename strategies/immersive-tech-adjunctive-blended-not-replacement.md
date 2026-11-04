@@ -62,6 +62,9 @@ The review recommends a measured adoption strategy: immersive technologies and v
 - [Embed game activities and resources across distributed existing media rather than building a stand-alone immersive game world](distributed-media-altrg-resource-strategy.md)
 - [Use AI-powered virtual patients for deliberate, psychologically safe communication practice with automated personalized feedback](ai-virtual-patient-deliberate-practice-strategy.md)
 - [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
+- [Use AI-simulated audiences to give students safe, repeated low-stakes communication practice](ai-simulated-audiences-low-stakes-communication-practice.md)
+- [Position AI-SPs as preparation, reflection, and supplementation for real patient contact rather than replacement](ai-sp-supplement-not-replacement.md)
+- [Deploy LLM-driven virtual patients for scalable, standardized deliberate practice of psychiatric interviews](llm-virtual-patients-scalable-deliberate-practice.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ R-ISAM is a five-phase spiral curriculum model integrating gross anatomy, histol
 ## Related Designs
 
 - [Structured workflow integrating donor-specific pathologies and XR technologies into a case-based learning framework for gross anatomy](donor-derived-xr-cbl-workflow-pattern.md)
+- [The integrated NM-PAL curriculum pattern: five synergistic modules combining narrative cases with small-group peer mentoring](nm-pal-five-module-curriculum-pattern.md)
 
 ## Examples
 -

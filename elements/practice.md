@@ -13,7 +13,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 54 claims (33 for, 16 mixed, 5 against) · 66 studies (30 causal, 13 quant-synthesis, 13 review, 5 theoretical, 3 associational, 1 qualitative, 1 design), `q1`–`q4` · 14 of 66 report an effect size · 41 claims rest on one study
+> **Evidence** · 55 claims (33 for, 17 mixed, 5 against) · 67 studies (30 causal, 13 quant-synthesis, 13 review, 5 theoretical, 3 associational, 2 design, 1 qualitative), `q1`–`q4` · 14 of 67 report an effect size · 42 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -108,6 +108,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [A four-week intervention using active methods and local environmental problems raised the percentage of first-year middle school students reaching the average on an environmental knowledge test from 1.64% to 98%](../claims/local-environmental-intervention-improves-environmental-knowledge.md) [+W]
 - [Experimental participants report positive attitudes toward timed reading, citing better concentration, confidence, and motivation to read more](../claims/timed-reading-positive-attitudes.md) [~W] — attached 2026-11-02 from Molood Mahdizadeh (2018), which proposed "Timed reading activity with Asian and Pacific Speed Readings for ESL Learners passages".
 - [Technical errors during biotissue training decreased significantly per attempt, but clinically relevant errors remained at the final attempt, especially for pancreaticojejunostomy](../claims/learnbot-error-decrease-residual-errors.md) [~W]
+- [Approximately 86.61% of trainees prioritize suturing and knot-tying practice as the most critical simulator training component](../claims/suturing-knot-tying-most-critical-component.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

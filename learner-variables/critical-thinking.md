@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 177 claims (125 show a difference, 32 mixed, 20 no difference) · 117 studies (58 causal, 22 review, 11 associational, 8 quant-synthesis, 7 theoretical, 6 design, 5 qualitative), `q1`–`q3` · 24 of 117 report an effect size · 175 claims rest on one study
+> **Evidence** · 179 claims (127 show a difference, 32 mixed, 20 no difference) · 118 studies (58 causal, 22 review, 12 associational, 8 quant-synthesis, 7 theoretical, 6 design, 5 qualitative), `q1`–`q3` · 25 of 118 report an effect size · 177 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -218,6 +218,8 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Direct effect of critical thinking dispositions on perceptions of success remains significant after adding mediators](../claims/ctd-direct-effect-success-remains.md) [+M] — learners who differ on it differ in outcomes
 - [Problem-solving and decision-making skills partially mediate the link between critical thinking dispositions and perceptions of success](../claims/parallel-mediation-ctd-success.md) [+M] — learners who differ on it differ in outcomes
 - [Students' overreliance on generative AI can limit development of critical thinking skills when AI replaces rather than scaffolds learner reasoning](../claims/generative-ai-overreliance-limits-critical-thinking-development.md) [~M] — measured as an outcome of the instruction studied
+- [Critical thinking skills correlate strongly and positively with personal and professional competency perceptions among earthquake-exposed teacher candidates](../claims/ct-competency-strong-correlation-earthquake-candidates.md) [+M] — learners who differ on it differ in outcomes
+- [Post-earthquake conditions were perceived to positively affect critical thinking skills, dominated by gaining a different perspective](../claims/post-earthquake-positive-ct-effects.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

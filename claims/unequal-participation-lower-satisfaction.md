@@ -56,3 +56,4 @@ Spearman correlations between group-level gini coefficient and group-mean satisf
 - [Perceived satisfaction correlates strongly and negatively with work imbalance (Gini index), and willingness to collaborate again correlates with group productivity](satisfaction-gini-correlation.md) — possibly the same claim (merge candidate)
 - [Courses with higher posting participation show more subgroups and more unequal communication than expected by chance, while high-interactivity courses show more equal participation](participation-unequal-communication-interactivity-equal.md) — related
 - [The balanced knowledge acquisition policy achieved more even task distribution across learning goals than free collaboration](balanced-knowledge-policy-task-distribution.md) — related
+- [Platform satisfaction is strongly positively correlated with willingness to recommend](cataract-vsim-satisfaction-recommend-correlation.md) — related

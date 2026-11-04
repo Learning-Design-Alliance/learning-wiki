@@ -41,7 +41,8 @@ Because most school climate measures target student respondents and self-report 
 - [School climate measurement relies heavily on student self-report questionnaires, with families and observational methods rarely represented](../claims/student-selfreport-dominates-climate-measurement.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use multi-informant or observational measures of teacher behavior in future rGE research](multi-informant-teacher-behavior-measures.md)
 
 ## Examples
 -

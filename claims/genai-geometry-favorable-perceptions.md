@@ -53,3 +53,4 @@ Descriptive statistics (means and SDs) on the perception subscale, assessed only
 - [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](genai-feedback-rated-higher-genuineness-blind.md) — related
 - [Experimental-group students report predominantly positive attitudes toward assessment for learning, especially immediate feedback and reduced exam anxiety](afl-positive-student-attitudes-esp.md) — related
 - [EFL learners rated explicit strategy instruction favorably and reported increased confidence and efficiency in learning.](learners-perceive-strategy-instruction-as-useful.md) — related
+- [Students in the VR group reported more positive learning experiences than controls across all 11 feedback items](vr-acupuncture-positive-learning-experience.md) — related

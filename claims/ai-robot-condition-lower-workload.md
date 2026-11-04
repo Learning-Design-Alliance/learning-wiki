@@ -74,3 +74,4 @@ Frustration violated normality, so medians and a Wilcoxon signed-rank test were 
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
 - [Designer workload across an 11-module instructional design model for product development averaged normal-to-high (50–75%)](nasa-tlx-normal-high-workload-design-process.md) — related
 - [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — related
+- [Effort is higher with the app while frustration is higher without it, with no overall workload difference](app-effort-higher-frustration-higher-without.md) — related

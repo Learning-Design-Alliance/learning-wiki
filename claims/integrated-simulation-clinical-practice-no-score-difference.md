@@ -50,3 +50,4 @@ Quasi-experimental comparison of 42 observation-group and 38 control-group third
 - [Virtual and traditionally taught nursing groups showed no significant difference in practical skills measured by OSCE](osce-no-difference-virtual-traditional-nursing.md) — related
 - [Clinical simulation improved pathophysiology learning with a significant grade shift toward higher marks](clinical-simulation-improves-pathophysiology-grades.md) — related
 - [PE and internal punctures scores differed significantly across the diagnostic, internal medicine and internship periods in the integrated cohort](pe-punctures-scores-vary-by-period.md) — related
+- [Students report higher satisfaction and more positive emotional responses with simulation-based teaching than with traditional practical instruction](simulation-higher-satisfaction-positive-emotions.md) — related

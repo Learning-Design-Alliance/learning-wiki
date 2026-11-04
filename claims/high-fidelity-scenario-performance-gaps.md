@@ -48,3 +48,4 @@ Observation of six residents in high-fidelity SimMOM scenarios (two per session)
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
 - [Prior evidence cited by the article shows simulation training improved shoulder dystocia delivery outcomes and reduced neonatal complications](prior-evidence-simulation-improves-outcomes.md) — related
 - [Simulation training significantly improved residents' theoretical knowledge of shoulder dystocia management](simulation-improved-theoretical-knowledge-shoulder-dystocia.md) — related
+- [Intraoperative calls for help were infrequent in resident-led cases](resident-imn-low-call-for-help-rate.md) — related

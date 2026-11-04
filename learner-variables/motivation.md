@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 380 claims (251 show a difference, 89 mixed, 40 no difference) · 276 studies (96 causal, 92 associational, 40 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 7 design), `q1`–`q4` · 74 of 276 report an effect size · 368 claims rest on one study
+> **Evidence** · 384 claims (254 show a difference, 90 mixed, 40 no difference) · 279 studies (97 causal, 94 associational, 40 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 7 design), `q1`–`q4` · 74 of 279 report an effect size · 372 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -430,6 +430,10 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Students were most engaged during the demonstration and least engaged during the lecture portions of the session.](../claims/engagement-demonstration-vs-lecture-ciq.md) [+M] — measured as an outcome of the instruction studied
 - [Grit mediates the relationship between growth mindset and mathematics achievement](../claims/grit-mediation-growth-mindset-math.md) [+M] — learners who differ on it differ in outcomes
 - [Growth mindset correlates positively with grit and grit correlates positively with mathematics achievement](../claims/growth-mindset-grit-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Blended teaching students report significantly higher total engagement on the Student Engagement Scale, driven by emotions, engagement, and performance dimensions](../claims/rg-uclass-higher-student-engagement-ses.md) [+M] — measured as an outcome of the instruction studied
+- [Higher-quality support from the dyslexia clinic is associated with higher teaching self-efficacy, more strongly than with parental self-efficacy](../claims/clinic-support-associated-with-higher-teaching-self-efficacy.md) [+M] — measured as an outcome of the instruction studied
+- [Only mothers' teaching self-efficacy is independently associated with the amount of mother–child conflict during homework](../claims/teaching-self-efficacy-independently-associated-with-mother-child-conflict.md) [+M] — learners who differ on it differ in outcomes
+- [Self-efficacy negatively moderates the association between educational appropriateness and both competence outcomes, with weaker positive associations among managers with higher self-efficacy](../claims/self-efficacy-moderates-educational-appropriateness-competence.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

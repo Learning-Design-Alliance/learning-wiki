@@ -50,3 +50,4 @@ Wilcoxon signed-rank test on paired pre/post ratings from 30 participants. Willi
 - [Median self-confidence in performing US-guided peripheral venous access increased from 5 to 8 after the brief training](us-training-confidence-5-to-8.md) — related
 - [All five questionnaire domains improved significantly after training, with large effect sizes (r = 0.67–0.81)](us-training-all-questionnaire-domains-improved.md) — a broader claim this one bears on
 - [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related
+- [Intraoperative calls for help were infrequent in resident-led cases](resident-imn-low-call-for-help-rate.md) — related

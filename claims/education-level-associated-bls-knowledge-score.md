@@ -49,3 +49,4 @@ Multivariable linear regression on 2,017 responses with college-or-below as refe
 - [Physicians and nurses had significantly higher odds of high knowledge-based BLS competency than technicians and other clinical staff.](physicians-nurses-higher-bls-competency-than-technicians.md) — related
 - [Healthcare professionals in tertiary hospitals had significantly higher odds of high knowledge-based BLS competency than those in primary hospitals.](tertiary-hospital-higher-bls-competency-than-primary.md) — related
 - [B.S.-degree nurses show significantly higher odds of palliative care knowledge than diploma nurses (AOR = 3.01)](bs-degree-nurses-higher-palliative-knowledge-odds-aor-3-01.md) — related
+- [Personnel with a bachelor's degree scored significantly higher than associate-degree holders in managing complicated child delivery](bachelor-degree-higher-ccd-score.md) — related

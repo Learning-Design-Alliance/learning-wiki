@@ -77,3 +77,4 @@ This page records two separate results from one experiment (Reisslein, Atkinson 
 - [Total learning time did not differ, but the worked-example group tended to spend more time on the most relevant quality-criteria content](learning-time-focus-quality-criteria-unit.md) — related
 - [Textual prompts produce higher first-attempt practice accuracy, while pictorial prompts produce higher second-attempt accuracy](prompt-format-first-second-attempt-accuracy.md) — related
 - [Test-score increases occurred only for identical and near-transfer problems; no increases were found for far-transfer problems in any of the three conditions](germane-load-gains-limited-to-identical-and-near-transfer-problems.md) — related
+- [Overall performance improved significantly for far transfer (r = 0.53) but not for near transfer (r = 0.30, p = 0.19)](far-transfer-total-score-gain-not-near.md) — related

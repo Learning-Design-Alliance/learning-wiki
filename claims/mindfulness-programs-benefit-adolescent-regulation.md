@@ -71,3 +71,4 @@ The brief's summary of its review of preventive self-regulation interventions re
 - [Isolated school mindfulness programs show mixed results, with one multi-site trial showing no improvement and increased anxiety in some subgroups](school-mindfulness-mixed-results.md) — reports the opposite
 - [Emotion regulation may reduce inappropriate prescriptions, while empathy shows no significant correlation with prescription volume or quality](emotion-regulation-prescribing-quality.md) — a narrower finding that bears on this claim
 - [Mental training methods for surgical stress management show positive effects on stress experience and technical performance](mental-training-positive-effects-surgical-stress.md) — related
+- [Mindfulness shows no significant direct relationship with school results or well-being in adolescents](mindfulness-no-direct-effect-school-results-well-being.md) — related

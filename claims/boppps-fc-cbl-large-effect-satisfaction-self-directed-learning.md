@@ -48,3 +48,4 @@ Randomised trial of 38 general-practice residents (19 per group) in one hospital
 ## Related Claims
 - [Flipped classroom residents report higher perceived teaching effectiveness in clinical skills, learning interest, self-learning, problem-solving, and team collaboration, but not theoretical knowledge](fc-higher-perceived-effectiveness-domains.md) — related
 - [Differences among the six novel teaching strategies are minor, and in pairwise meta-analysis only BOPPPS and SBL significantly beat LBL on all three outcomes](minor-differences-among-novel-strategies-pairwise.md) — related
+- [Students in the flipped group rated the method as beneficial with a median benefit scale value of 4 out of 5](flipped-learning-benefit-median-four.md) — related

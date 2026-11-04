@@ -100,3 +100,4 @@ Table 2 characterizes the Oliveira et al. 2016 Cochrane/meta-analysis of 19 stud
 - [Concept mapping is effective in improving critical thinking, while problem-based learning is not significantly effective](concept-mapping-effective-pbl-not-significant.md) — reports the opposite
 - [Non-traditional teaching methods significantly improve critical thinking dispositions in nursing students compared to control groups](non-traditional-methods-improve-ct-dispositions.md) — a broader claim this one bears on
 - [Non-traditional teaching methods significantly improve critical thinking skills in nursing students compared to control groups](non-traditional-methods-improve-ct-skills.md) — a broader claim this one bears on
+- [Video-assisted PBL yields higher pediatric nursing knowledge than traditional PBL and conventional teaching](video-assisted-pbl-higher-pediatric-knowledge.md) — related

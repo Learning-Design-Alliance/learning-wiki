@@ -53,3 +53,4 @@ Prospective comparative study of 71 novice trainees (19 intervention, 52 control
 - [Virtual reality training reduces intraoperative error counts compared with no additional training in laparoscopic cholecystectomy](vrt-reduces-intraoperative-errors-versus-nat.md) — related
 - [Baseline characteristics and prior laparoscopic experience did not differ significantly between the structured VRST and control groups](no-baseline-differences-vrst-groups.md) — related
 - [No significant differences found between virtual reality training and simulation training in GOALS scores or time to completion](vrt-versus-st-no-significant-difference.md) — related
+- [Trainees show significant post-training improvements in self-assessed laparoscopic skills including hand–eye coordination, bimanual dexterity, energy device use and suturing](post-training-self-assessed-laparoscopic-skill-improvements.md) — related

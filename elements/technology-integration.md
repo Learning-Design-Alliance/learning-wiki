@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 195 claims (97 for, 82 mixed, 16 against) · 162 studies (41 causal, 29 review, 26 associational, 25 qualitative, 22 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 31 of 162 report an effect size · 192 claims rest on one study
+> **Evidence** · 196 claims (98 for, 82 mixed, 16 against) · 163 studies (42 causal, 29 review, 26 associational, 25 qualitative, 22 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 31 of 163 report an effect size · 193 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -220,6 +220,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [Most EFL students found SMS-based mini-lessons engaging](../claims/sms-mini-lessons-engaging-efl.md) [+W]
 - [Students perceived the educational value of HoloLens as dependent on usability, learner control, and curricular integration](../claims/hololens-value-depends-on-implementation.md) [~W]
 - [AI applications in clinical education enhance learner engagement, flexibility, feedback, and objective competency assessment](../claims/ai-enhances-engagement-feedback-assessment-clinical-education.md) [+W]
+- [Video-assisted PBL yields higher pediatric nursing knowledge than traditional PBL and conventional teaching](../claims/video-assisted-pbl-higher-pediatric-knowledge.md) [+W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

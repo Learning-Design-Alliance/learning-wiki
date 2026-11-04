@@ -111,3 +111,4 @@ Narrative review attributing to Li, Kizilcec, Bailenson, and Ju (2016) an examin
 - [Research has shown that video feedback can help increase conversational and affective communication](video-feedback-increases-conversational-affective-communication.md) — related
 - [Prior research suggests student-student interaction treatments affect online learning more than student-teacher interactions, while oral versus text presentation of information shows no difference](interaction-type-and-presentation-background-claims.md) — related
 - [Online instructors perceived facilitators who communicated frequently as their best facilitators.](instructors-rate-frequent-communicators-best.md) — related
+- [Students preferred face-to-face delivery over virtual delivery for both CBL and GBL](face-to-face-preferred-over-virtual.md) — related

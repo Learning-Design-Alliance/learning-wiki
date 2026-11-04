@@ -67,3 +67,4 @@ The editorial reports, citing Kasepalu, Chejara, Prieto and Ley, a quasi-experim
 - [Teachers reported the tool shifted their practice toward goal-oriented teaching and dashboard-informed adjustment, but increased planning workload and instructional time](assessmake21-teacher-practice-shift-and-workload.md) — related
 - [Teacher feedback during co-design directly produced four dashboard design changes: predictive alerts, navigation redesign, integrated attendance-performance view, and a Help tab](teacher-feedback-drove-mlad-design-changes.md) — related
 - [Different dashboard designs produce different learning outcome impacts, as predictive and descriptive dashboards diverge](lad-design-type-moderates-outcomes.md) — a narrower finding that bears on this claim
+- [Effort is higher with the app while frustration is higher without it, with no overall workload difference](app-effort-higher-frustration-higher-without.md) — related

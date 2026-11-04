@@ -70,3 +70,4 @@ Average pairwise Cohen's kappa with human judges on LO alignment was 0.65 (SE = 
 - [Inter-annotator agreement was moderate (combined mean Fleiss's κ of 0.62 across 23 groups), yet most students reported having reached consensus](moderate-kappa-versus-perceived-consensus-gap.md) — related
 - Five judges classifying 63 test units reached average inter-judge correlation of 0.542 ± 0.019 on the two scales — related
 - [The test's exercises were validated by six expert judges who reached practical agreement after modification](six-judge-validity-agreement-test-exercises.md) — related
+- [Agreement between prompting strategies was moderate to substantial (Cohen's κ 0.518–0.632; Fleiss' κ = 0.571)](moderate-substantial-agreement-prompting-strategies.md) — related

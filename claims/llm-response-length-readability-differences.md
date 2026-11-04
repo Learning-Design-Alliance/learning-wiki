@@ -56,3 +56,4 @@ Descriptive analysis of responses from the three originally fine-tuned models (T
 - [Revising texts to improve readability-formula scores often produces nonexistent or insignificant comprehension gains](readability-revision-gains-nonexistent-insignificant.md) — related
 - [LLM temperature settings significantly affect generated-text length and complexity, with Llama3 producing more complex texts than GPT-3.5](temperature-drives-generated-text-complexity.md) — related
 - [GPT-4 revision of educational math content improves readability metrics but yields mixed K-12 learning outcomes, with improved mastery in some content areas and higher error rates in others](gpt4-rewritten-math-content-mixed-outcomes.md) — related
+- [All EUS-generated LLM texts show low Flesch Reading Ease scores, indicating substantial reading difficulty](low-fre-llm-pharmacy-texts.md) — related

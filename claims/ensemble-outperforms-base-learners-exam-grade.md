@@ -48,3 +48,4 @@ Performance evaluation of the stacked-generalization ensemble versus ten base le
 ## Related Claims
 - [Ensemble modeling of multiple LLM scorers yields performance gains in automated divergent thinking scoring](ensemble-models-performance-gains-llm-scoring.md) — a broader claim this one bears on
 - [Rank-averaged ensembling stabilized predictions but did not outperform the single base model](ensemble-stabilizes-but-not-better-than-model1.md) — related
+- [An ML ensemble model predicts MCAT scores with limited accuracy, explaining 36% of variance](ml-mcat-prediction-limited-accuracy.md) — a narrower finding that bears on this claim

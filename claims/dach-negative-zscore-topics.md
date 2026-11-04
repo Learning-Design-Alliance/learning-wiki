@@ -51,3 +51,4 @@ Descriptive Z-score analysis of the DACH subsample (n = 291) in Fig. 4; negative
 - [DACH HCPs rated perceived knowledge and relevance more than 20% higher than other European countries for many topics, while transversal communication skills were rated comparably](dach-vs-europe-topic-deviations.md) — related
 - [The largest unmet educational needs among DACH HCPs are dementia symptom management, depression, chronic pain, resilience and diversity, MCI/dementia screening, and sarcopenia](dach-highest-educational-need-topics-zscores.md) — related
 - [Across nearly all geriatric domains, DACH HCPs rated relevance higher than interest, and interest higher than their self-reported knowledge](relevance-exceeds-interest-exceeds-knowledge-dach.md) — related
+- [Nurses' correct response rates vary by MDT topic, highest for benefits and lowest for enzyme secretion and pressure-ulcer suitability](mdt-knowledge-item-level-gaps.md) — related

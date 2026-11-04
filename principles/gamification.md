@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 71 claims (38 for, 30 mixed, 3 against) · 64 studies (25 causal, 16 review, 15 quant-synthesis, 3 associational, 3 design, 2 theoretical), `q1`–`q4` · 16 of 64 report an effect size · 63 claims rest on one study
+> **Evidence** · 72 claims (38 for, 31 mixed, 3 against) · 65 studies (26 causal, 16 review, 15 quant-synthesis, 3 associational, 3 design, 2 theoretical), `q1`–`q4` · 16 of 65 report an effect size · 64 claims rest on one study
 
 ## Conditional relationship
 
@@ -237,6 +237,7 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [The experimental group outgained the control group by 25.5 percentage points across the five fluency items](../claims/fluency-posttest-item-percentages-experimental-gain.md) [+W]
 - [Weekly gain scores favored the treatment group throughout the course, rising from the low 40s to the low 60s while control stayed near 30 points](../claims/equity-pedagogy-weekly-gain-scores-higher.md) [+W]
 - [Cooperative team-based competition in a gamified course was associated with high reported enjoyment of group work, in contrast to studies using solely competitive elements](../claims/cooperative-team-competition-group-work-enjoyment.md) [~W]
+- [PointSolutions wagering questions help keep poorly performing teams engaged in review games](../claims/wager-questions-engagement.md) [~W]
 
 ## Related Principles
 - [Autonomy](autonomy.md) — gamification works when it expands meaningful choice, not when it controls learners through rewards

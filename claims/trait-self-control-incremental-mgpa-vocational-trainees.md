@@ -56,3 +56,4 @@ Simultaneous multivariate multiple regression in Mplus with cluster-robust stand
 - [Conscientiousness is positively associated with course grades and final examination grades in mathematics and English after controlling for covariates](conscientiousness-positively-predicts-grades-adjusted.md) — related
 - [Students' SRL scores significantly predict post-curriculum test performance above and beyond prior knowledge](srl-scores-predict-post-test-above-prior-knowledge.md) — related
 - [In low-performing online participants, self-organization, commuting time, and preference for intensive reviewing predict examination scores](low-performers-online-predictors.md) — related
+- [Regulatory difficulty shows a modest incremental negative association with school-recorded GPA after covariates, aggression, and achievement motivation (β = −0.214)](regulatory-difficulty-incremental-negative-gpa.md) — related

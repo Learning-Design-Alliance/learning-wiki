@@ -13,7 +13,7 @@ generated:
 # Performance-Based Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (2 for, 4 mixed) · 5 studies (2 review, 2 design, 1 causal), `q1`–`q3` · 0 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (4 for, 5 mixed) · 7 studies (2 causal, 2 review, 2 design, 1 associational), `q1`–`q3` · 0 of 7 report an effect size · 9 claims rest on one study
 
 ## Description
 Performance-based assessment is the element in which learners demonstrate knowledge or skill by performing, producing, or solving something observable rather than only selecting answers. It is useful when the learning target involves application, integration, or authentic performance. Typically the teacher observes both the process (e.g., data collection during an experiment) and the product (e.g., the completed report), though for some tasks (a paper drafted partly outside class) only the product may actually be visible, and for others (group interaction skills) there may be no discrete product at all.
@@ -48,6 +48,9 @@ Performance assessments carry real, specific tradeoffs (Linn & Miller, 2005). Th
 - [Students achieved high and consistent OSCE handover performance across antenatal and postpartum stations after the intervention](../claims/isbar-osce-high-consistent-performance.md) [+W] — attached 2026-11-04 from Sun Jui-Chiung et al. (2026), which proposed "OSCE as an objective assessment instrument for ISBAR handover communication".
 - [Examiners rated the PJ-OSCE format as appropriate, with 86.3% giving a positive assessment.](../claims/pj-osce-examiner-evaluation-format-appropriate.md) [~W]
 - [The PJ-OSCE achieved high internal consistency, with circuit-level Cronbach's alpha averaging 0.84.](../claims/pj-osce-high-reliability-cronbach-alpha-084.md) [+W]
+- [The 10-minute two-station four-domain modified OSCE is more sensitive than the end-of-rotation comprehensive score in detecting key competency differences from pathway-driven training.](../claims/modified-osce-more-sensitive-than-comprehensive-score.md) [+W] — attached 2026-11-04 from Peng Shuang et al. (2026), which proposed "10-minute, two-station, four-domain modified OSCE for end-of-rotation competency assessment".
+- [The OSCE score advantage of the vertically integrated program is concentrated in station 2 (management and communication) and in the safe management and communication/follow-up domains.](../claims/osce-advantage-station2-safe-management-communication.md) [+W]
+- [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](../claims/osce-correlates-self-reported-competence.md) [~W]
 
 ## Related Elements
 

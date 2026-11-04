@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 66 claims (35 for, 26 mixed, 5 against) · 37 studies (21 causal, 12 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 11 of 37 report an effect size · 65 claims rest on one study
+> **Evidence** · 69 claims (38 for, 26 mixed, 5 against) · 39 studies (23 causal, 12 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 12 of 39 report an effect size · 68 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -90,6 +90,9 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](../claims/flipped-classroom-cbl-improves-concept-and-application-questions.md) [+W]
 - [Lower-baseline residents show larger score gains after flipped classroom combined with CBL](../claims/flipped-classroom-cbl-larger-gains-lower-baseline-residents.md) [~W]
 - [Team collaboration shows the largest perceived-effectiveness advantage for the flipped classroom (2.64 ± 0.53 vs. 2.14 ± 0.83, p < 0.001)](../claims/fc-largest-team-collaboration-advantage.md) [+W]
+- [Both groups improved significantly from pretest to posttest, but improvement was significantly greater in the flipped classroom condition](../claims/flipped-rct-greater-within-group-gain.md) [+M]
+- [Within the flipped learning experimental group, pretest-posttest and pretest-follow-up gains were significant while the posttest-follow-up difference was not](../claims/flipped-group-within-gains-significant-retention.md) [+W]
+- [MANOVA on the seven CUCEI subscales yielded a significant multivariate effect favoring the flipped classroom (Pillai's Trace = 0.93)](../claims/flipped-rct-cucei-manova-omnibus.md) [+W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

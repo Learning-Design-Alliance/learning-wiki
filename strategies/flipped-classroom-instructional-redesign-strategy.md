@@ -53,6 +53,7 @@ The article's conclusion recommends that "Instructors and other educational lead
 - [Promote the flipped classroom in low-resource settings using free digital tools, peer instruction, and group discussions.](flipped-classroom-low-resource-settings-strategy.md)
 - [Repeat flipped-learning studies across diverse subject areas and contexts before generalising effects](repeat-flipped-learning-studies-diverse-contexts-strategy.md)
 - [Adopt the flipped classroom when sufficient teaching resources are available, and design distance courses progressively with clearly instructed in-class group activities](adopt-flipped-classroom-with-sufficient-resources.md)
+- [Equip instructors with concrete personalization strategies when adopting flipped designs dominated by group activities](personalization-strategies-flipped-designs.md)
 
 ## Examples
 -

@@ -62,3 +62,4 @@ Narrative synthesis of the review's own included studies: of 11 studies included
 - [Residents reported high satisfaction with simulation-based learning, with 100% finding it useful and 70% perceiving psychomotor improvement](resident-satisfaction-vascular-simulation.md) — a narrower finding that bears on this claim
 - [Students expressed interest in broader use of simulation across physiology practicals](student-demand-for-broader-simulation-use.md) — a narrower finding that bears on this claim
 - [Students perceived VEGA's on-demand vignette generation as compensating for limited clinical practicum opportunities](vega-unlimited-vignettes-compensate-practicum.md) — a narrower finding that bears on this claim
+- [Students perceive simulation practice as a protective factor that enhances confidence, safety, and readiness for real procedures](simulation-perceived-protective-factor-confidence.md) — a narrower finding that bears on this claim

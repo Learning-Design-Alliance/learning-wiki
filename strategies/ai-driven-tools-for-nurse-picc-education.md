@@ -48,6 +48,7 @@ In its implications for research, the article states that "Future research shoul
 - [Tailored training strategies for PICC care knowledge by hospital level: standardized in-service training in secondary/primary hospitals and guideline optimization with self-directed learning support in tertiary hospitals](tailored-picc-training-strategies-by-hospital-level.md)
 - [Hospitals should provide easier access to PICC care guidelines, such as purchasing clinical guideline databases and training on guideline use](easier-access-to-picc-guidelines.md)
 - [Research should explore simulation's effects across diverse populations including developing countries](strategy-explore-simulation-diverse-populations.md)
+- [Evaluate digital decision-support in novice providers and optimize interface design to minimize cognitive overhead](future-research-novice-providers-interface-optimization.md)
 
 ## Examples
 -

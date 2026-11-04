@@ -51,3 +51,4 @@ Correlational analysis of TutorTrac visit counts against cumulative GPA by quart
 - [Only the 200740F high-use group showed a significantly higher rate of good academic standing compared to non-visitors](tutoring-good-standing-significant-only-one-cohort.md) — related
 - [The GPA advantage of high-use tutoring visitors held across math SAT score, high school GPA, ethnicity, and first-generation status](tutoring-gpa-advantage-no-interaction-background.md) — related
 - [Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse](tutoring-visits-no-course-grade-advantage.md) — related
+- [Time Management correlates with first-semester GPA and pre-clerkship GPA across four cohorts](time-management-correlates-gpa-medical-students.md) — related

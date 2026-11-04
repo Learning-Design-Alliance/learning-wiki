@@ -56,3 +56,5 @@ Narrative synthesis of the 12 included studies' outcome measures, which included
 - [Student nurses applied the seven CoRT critical thinking tools when delivering health talks to patients](cort-tools-applied-in-nursing-health-talks.md) — related
 - [Brain-based teaching showed no significant effect on learning, attitude, critical thinking, or self-efficacy in one prior study](brain-based-teaching-null-effect-siercks.md) — related
 - [Role-playing simulation with SBAR-based observation improves nurse-patient communication behaviors among nursing students](role-play-sbar-improves-nurse-patient-communication.md) — related
+- [Simulation-based handoff training with a structured communication tool enhanced nurse anesthesia students' perceived confidence in team communication and patient safety interventions.](sim-handoff-training-increased-perceived-team-communication-safety-confidence.md) — related
+- [Student confidence in patient communication showed more variability than confidence in provider-to-provider communication after the handoff simulation.](sim-handoff-training-patient-communication-confidence-variability.md) — a narrower finding that bears on this claim

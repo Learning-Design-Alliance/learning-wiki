@@ -59,3 +59,4 @@ Participant testimony gathered by R15CC from members of the NDE More Rigorous In
 - [The DD process and product cultivated commitment and trust among participants and informed a new university AI governance policy](dd-cultivated-trust-governance-policy.md) — related
 - [Interpersonal agency in instructional design centers on collegial engagement, learner advocacy and trust building with faculty clients](interpersonal-agency-instructional-design.md) — related
 - [Trust is a key enabler of knowledge sharing in online learning communities](trust-enables-knowledge-sharing-online.md) — related
+- [Near-peer teaching is reported to foster a comfortable learning environment and reinforce concepts for student-teachers](near-peer-teaching-comfortable-environment.md) — related

@@ -1,0 +1,48 @@
+---
+type: claim
+title: Simulation-based teaching reduces the time required to complete venipuncture and arterial blood gas sampling compared with traditional teaching
+description: Simulation-based teaching reduces the time required to complete venipuncture and arterial blood gas sampling compared with traditional teaching
+id: simulation-reduces-procedure-completion-time
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: mazón-tapia-maría-gabriela-and-borges-marcos-carvalho-2026
+    resource: "https://doi.org/10.1187/cbe.25-11-0258"
+    title: "Mazón Tapia María Gabriela and Borges Marcos Carvalho. (2026). Evaluating Medical Biochemistry Teaching and Learning Through Simulation: A Mixed-Methods, Quasi-Experimental Study in Medical Students in Ecuador. CBE—Life Sciences Education. https://doi.org/10.1187/cbe.25-11-0258"
+    author: Mazón Tapia María Gabriela and Borges Marcos Carvalho
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Simulation-based teaching reduces the time required to complete venipuncture and arterial blood gas sampling compared with traditional teaching
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` The intervention group completed in vivo procedures in significantly less time than the control group at post-test. [→ Mazón Tapia María Gabriela and Borges Marcos Carvalho 2026](#mazon-tapia-maria-gabriela-and-borges-marcos-carvalho-2026)
+
+## Evidence
+
+### Mazón Tapia María Gabriela and Borges Marcos Carvalho 2026
+
+Mazón Tapia María Gabriela and Borges Marcos Carvalho. (2026). Evaluating Medical Biochemistry Teaching and Learning Through Simulation: A Mixed-Methods, Quasi-Experimental Study in Medical Students in Ecuador. CBE—Life Sciences Education. https://doi.org/10.1187/cbe.25-11-0258
+
+`q3 · i?` · `causal · r2`
+
+A quasi-experimental between-group comparison of 404 first-semester medical students found that "the intervention group completed the procedures in less time than the control group". No standardized effect size was printed, so impact is coded i? (no magnitude reported; not a null effect).
+
+> "In the post-test evaluation, the intervention group completed the procedures in less time than the control group: in vivo venipuncture with a vacuum tube (116.0 [91.0–137.5] s vs. 127.0 [105.0–173.0] s; U = 16,488, p = 0.0008)"
+
+## Discussion
+
+
+## Related Claims
+- [Simulation-based teaching produces higher post-intervention technical skill scores and success rates for blood-sampling procedures than traditional teaching](simulation-higher-technical-skills-success-rates.md) — related

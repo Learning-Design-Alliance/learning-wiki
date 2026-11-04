@@ -55,3 +55,4 @@ Observational time tracking over a one-year deployment at a single institution, 
 - [ConnectED reduces 45-minute lesson preparation time to approximately 15–20 minutes in-system, versus 3–4 hours for manual preparation](connected-reduces-lesson-preparation-time.md) — related
 - [Automated tool reduces correction time by 43% (raw) and 33% (normalised)](automated-tool-reduces-correction-time-43-percent.md) — related
 - [Instructors reported time savings of up to 80% for quiz preparation compared to traditional methods](instructor-reported-time-savings-up-to-80-percent.md) — related
+- [Facilitators reported reduced preparation time using the CBL module compared with preparing didactic teaching materials de novo](cbl-pediatric-meningitis-facilitator-prep-time.md) — related

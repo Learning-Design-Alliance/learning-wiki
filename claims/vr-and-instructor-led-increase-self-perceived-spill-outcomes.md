@@ -88,3 +88,5 @@ First-phase changes in Cohort 2 (n = 20) after VR simulation-based training, fro
 - [Following crossover, second-phase change scores did not differ significantly between the two cohort-defined instructional orders, which does not establish equivalence](second-phase-change-scores-no-significant-difference.md) — related
 - [All participants were satisfied with VR training, and most preferred combined instructor-led plus VR instruction and did not believe VR could replace instructor-led explanation](post-training-perceptions-combined-instruction-preferred.md) — related
 - [A renal biopsy simulation workshop significantly increased fifth-year medical students' self-perceived ability to perform renal biopsy](renal-biopsy-simulation-workshop-increased-student-confidence.md) — related
+- [Students' best virtual simulation scores are significantly higher than their initial scores](cataract-vsim-best-scores-higher-than-initial.md) — related
+- [VR training increased confidence on all 4 perceived competence scale items, while small group training increased only 2 of 4](vr-confidence-gains-all-pcs-items.md) — reports the opposite

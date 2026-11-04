@@ -48,3 +48,4 @@ Regression models controlling for pre-test performance and highest level complet
 ## Related Claims
 - [There were no overall differences between embedded self-explanation and explanatory feedback conditions on pre-post learning gains](no-overall-differences-self-explanation-vs-explanatory-feedback.md) — related
 - [Students across all conditions demonstrated significant pre-post learning gains on near-transfer physics questions, but not on far-transfer questions](significant-near-transfer-learning-gains-all-conditions.md) — a broader claim this one bears on
+- [Overall performance improved significantly for far transfer (r = 0.53) but not for near transfer (r = 0.30, p = 0.19)](far-transfer-total-score-gain-not-near.md) — related

@@ -94,6 +94,7 @@ Flipped learning works because it reallocates scarce, socially rich classroom ti
 - [Assess e-learning readiness and motivation before implementing the flipped classroom, and provide brief in-class explanations of out-of-class assignments](fc-readiness-assessment-and-assignment-briefing.md)
 - [Use quizzes or assignments due at the beginning of class to ensure students review materials and come prepared.](beginning-of-class-quizzes-assignments-preparation.md)
 - [Implement flipped reading instruction by assigning pre-class videos and reserving class time for collaborative application](flipped-reading-video-then-in-class-practice-strategy.md)
+- [Use third-party video resources as preassignment work for flipped classrooms to lessen faculty burden](third-party-preassignment-strategy.md)
 
 ## Examples
 - **[Clintondale High School](https://flippedhighschool.com) (Michigan)** — flipped its entire curriculum school-wide; failure rates dropped substantially (reported ~33% in some subjects) in the first year.

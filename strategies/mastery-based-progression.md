@@ -70,6 +70,7 @@ Mastery learning rests on the assumption that most learners can reach high stand
 - [Gate sensitive simulated-patient content behind an accumulated-skill threshold with constraint-first prompting](avp-content-gating-strategy.md)
 - [Detect high-friction topics and add extra scaffolding there rather than weakening the weekly gate](extra-scaffolding-high-friction-topics.md)
 - [Early-semester mandatory tutoring intervention for lowest-scoring students](early-semester-mandatory-tutoring-lowest-scoring.md)
+- [Decompose evidence-chain explanation into trainable parts with targeted feedback to improve investigation interpretation, the domain the pathway program did not move.](decompose-evidence-chain-explanation-into-trainable-parts.md)
 
 ## Patterns That Use This Strategy
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — mastery progression is the advancement mechanism

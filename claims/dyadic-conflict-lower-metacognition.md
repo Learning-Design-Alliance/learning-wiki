@@ -55,3 +55,4 @@ Two cross-sectional studies in grades 3-6 (Huang 2010; Zee & de Bree 2017; mean 
 - [Dyadic teacher-student closeness is consistently positively associated with elementary students' regulation of motivation](dyad-closeness-consistent-motivation.md) — related
 - [Low self-regulation (inattention and impulsivity) at kindergarten entry predicts greater teacher-child conflict by kindergarten spring, and this effect persists into first grade](low-self-regulation-predicts-teacher-conflict-persisting.md) — related
 - Adolescent motivation research relies almost exclusively on student self-report of relationships, with dyadic and non-dyadic configurations both common — related
+- [All three student–teacher relationship dimensions at age 5 are positively associated with educational performance at ages 6–8](strs-dimensions-predict-educational-performance.md) — related

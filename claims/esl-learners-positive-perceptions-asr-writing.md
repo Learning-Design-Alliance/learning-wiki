@@ -68,3 +68,4 @@ Mixed-methods one-shot study: 17 ESL students in a university EAP class trained 
 - [Students perceived HPL as positively as Scratch across TAM dimensions](hpl-student-perception-equal-scratch.md) — related
 - [Experimental-group students reported positive perceptions of AR, with highest scores for enjoyment (M = 4.44) and ease of use (M = 4.29)](positive-student-perceptions-ar-tam-questionnaire.md) — related
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related
+- [Learners rate the AI-Mentor cognitive core highly on technology acceptance](ai-mentor-high-tam-acceptance.md) — related

@@ -64,3 +64,4 @@ Descriptive post-intervention analysis within the experimental group (n = 102) o
 - [Experimental-group students reported positive perceptions of AR, with highest scores for enjoyment (M = 4.44) and ease of use (M = 4.29)](positive-student-perceptions-ar-tam-questionnaire.md) — related
 - [Students rated the application positively on a semantic differential scale, but finding time to use it and doing exercises were scored easy with a bias toward hard](semantic-differential-attitudes-english-app.md) — related
 - [Learners reported high acceptability of MAPLE-CR, with questionnaire means of 4.19-4.62 on positively worded items but salient cognitive-load concerns](maple-cr-high-acceptability-cognitive-load.md) — related
+- [Learners rate the AI-Mentor cognitive core highly on technology acceptance](ai-mentor-high-tam-acceptance.md) — related

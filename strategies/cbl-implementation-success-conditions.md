@@ -61,6 +61,7 @@ The review enumerates crucial considerations for maximizing CBL's potential: "en
 - [Support CBL implementation with instructor training, gradual student introduction, and monitoring of student stress and feedback](cbl-implementation-support-strategy.md)
 - [Implement CoBl with prepared resources, multi-role instructors, and active collaborative learners](cobl-implementation-strategy.md)
 - [Provide sufficient pre-class preparation time and adjust teaching based on ongoing trainee feedback](sufficient-pre-class-time-ongoing-feedback-strategy.md)
+- [Balance active-learning formats by matching cognitive demands across comparison conditions](matched-cognitive-demands-active-learning-formats.md)
 
 ## Examples
 -

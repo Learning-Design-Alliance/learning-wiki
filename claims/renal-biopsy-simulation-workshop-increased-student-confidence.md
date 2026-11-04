@@ -56,3 +56,5 @@ Prospective single-center pre-post educational intervention with 113 fifth-year 
 - [Students reported high educational satisfaction and motivation after the workshop, with 78.6% reporting increased interest in nephrology](high-satisfaction-and-nephrology-interest-after-workshop.md) — related
 - [Both VR simulation-based training and instructor-led instruction were followed by significant short-term increases in pharmacy interns' self-perceived spill-management outcomes](vr-and-instructor-led-increase-self-perceived-spill-outcomes.md) — related
 - [Median self-confidence in performing US-guided peripheral venous access increased from 5 to 8 after the brief training](us-training-confidence-5-to-8.md) — related
+- [A 2-hour near-peer otolaryngology bootcamp significantly improves medical students' knowledge quiz scores](near-peer-bootcamp-knowledge-quiz-gain.md) — related
+- [Peer-assisted simulation workshops significantly improve immediate workshop-specific knowledge test scores in undergraduate medical students](peer-simulation-workshops-immediate-knowledge-gain.md) — related

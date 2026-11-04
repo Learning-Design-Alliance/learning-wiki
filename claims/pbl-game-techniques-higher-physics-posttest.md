@@ -79,3 +79,4 @@ Quasi-experimental comparison of 21 experimental and 13 control students after a
 - [A game-driven, PBL-based redesign of an introductory computer applications course improved student achievement significantly more than the existing drill-and-practice course.](pbl-altrg-redesign-improves-achievement.md) — a narrower finding that bears on this claim
 - [Project based learning improves academic achievement in classification of organisms compared with conventional instruction](pbl-improves-achievement-classification-organisms.md) — related
 - [Project-based ESP instruction improves tertiary ESP students' acquisition of specialization-related English vocabulary compared with conventional instruction](pbl-esp-vocabulary-gains-qassim.md) — related
+- [Voiceover-plus-review-game pedagogy produces quiz performance statistically equivalent to traditional didactic lecture and significantly better than no prior exposure](voiceover-review-game-quiz-equivalence.md) — related

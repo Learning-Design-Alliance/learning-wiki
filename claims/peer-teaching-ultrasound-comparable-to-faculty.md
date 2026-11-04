@@ -51,3 +51,4 @@ Systematic review synthesis of six comparative studies of peer- versus faculty-l
 - [Peer-assisted ultrasound teaching can produce long-term retention of knowledge and skills](peer-teaching-long-term-retention-ultrasound.md) — related
 - [Near-peer-led and instructor-led documentation workshops produced equivalent H&P and OSCE HPI scores](near-peer-vs-instructor-workshop-equivalent-outcomes.md) — related
 - [Peer-assisted ECE produced higher post-test knowledge and OSPE scores than faculty-assisted ECE in one randomized trial](peer-assisted-ece-higher-post-test-ospe.md) — related
+- [The near-peer bootcamp was feasible to coordinate as an alternative to faculty-led teaching](near-peer-bootcamp-feasibility.md) — related

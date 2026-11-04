@@ -128,3 +128,4 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [Faculty hold more tempered views of LLMs than students (51% vs 74% positive), centred on clinical reasoning development and content reliability](faculty-student-perception-gap-llms.md) — related
 - [Learner perceptions of GenAI-supported virtual patients were positive across 14 of the 15 reviewed studies](genai-vp-positive-learner-perceptions.md) — related
 - [Hallucination — the generation of inaccurate, unverified, or illogical content — is the most frequently reported technical challenge for LLMs in dental education](hallucination-most-frequent-technical-challenge.md) — related
+- [Distance education was perceived to negatively affect both professional competencies and critical thinking skills](distance-education-negative-effects-competencies-ct.md) — related

@@ -50,3 +50,4 @@ National probability-based KnowledgePanel survey (May 13 to June 1, 2020) of und
 - [Students experiencing more major challenges reported lower satisfaction with their post-COVID STEM course and learning](more-challenges-lower-post-covid-satisfaction.md) — related
 - [The Covid-19 pandemic's rapid shift of US K-12 schools to digital learning produced a wealth of digital learning analytics available for improving student learning outcomes](covid-shift-digital-produced-wealth-learning-analytics.md) — related
 - [About half (51.79%) of medical science students were satisfied with e-learning during the COVID-19 pandemic across 24 cross-sectional studies](medical-students-elearning-satisfaction-51-79-percent-covid.md) — related
+- [Composite satisfaction scores were higher (less satisfied) in the in-person group, converging with item-level findings](composite-score-in-person-lower-satisfaction.md) — reports the opposite

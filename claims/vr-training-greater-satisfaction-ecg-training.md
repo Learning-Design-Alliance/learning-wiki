@@ -52,3 +52,4 @@ Anonymous 16-item satisfaction questionnaire (three-point Likert scale, previous
 - [Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results](vp-attitudes-satisfaction-mixed.md) — related
 - [Simulation-trained medical students obtain higher tutor-rated practical patient-education scores than students trained with real patients or with theory alone](simulation-training-higher-practical-patient-education-scores.md) — related
 - [VR-based training leads to significantly higher final thoracentesis procedural scores than traditional mannequin-based training in medical interns](vr-training-improves-thoracentesis-final-scores.md) — related
+- [Student satisfaction with teaching is higher after scenario-based simulation than after video-based training](sbs-higher-student-satisfaction-than-vbt.md) — related

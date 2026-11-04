@@ -47,3 +47,4 @@ Analysis in this longitudinal study of African American high-school students: th
 ## Related Claims
 - [Prior comparative evidence shows small intention–norm and intention–control associations and a TPB model significant in Thailand but not South Africa](comparative-tpb-evidence-thailand-south-africa.md) — related
 - [The structural model explains 71.6% of variance in GenAI-assisted learning procrastination and 58.5% in behavioral intention](model-variance-explained-galp-bi.md) — related
+- [Instructional communication strongly predicts perceived student engagement (β = 0.82)](ic-strongly-predicts-student-engagement.md) — related

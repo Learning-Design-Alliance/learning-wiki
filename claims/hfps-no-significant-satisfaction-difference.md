@@ -52,3 +52,4 @@ Random-effect meta-analysis of self-rating satisfaction instruments measured jus
 - [Pooled satisfaction and self-confidence effects are sensitive to individual studies, while knowledge, performance and self-efficacy effects are robust in leave-one-out analysis](hfps-leave-one-out-sensitivity-pattern.md) — related
 - [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](hf-simulation-null-secondary-outcomes.md) — related
 - [HFPS based on life-threatening scenarios shows no significant difference from other teaching methods on nursing students' self-efficacy (d=0.05)](hfps-no-significant-self-efficacy-difference.md) — related
+- [No clear differences in ALS performance metrics in the asystole scenario between groups](app-no-asystole-performance-difference.md) — related

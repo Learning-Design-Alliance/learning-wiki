@@ -53,6 +53,7 @@ The review's research agenda calls for diversifying the evidence base on residen
 - [Prioritize longitudinal, comparative-effectiveness, and patient-outcome research and standardized practices for podiatry simulation](podiatry-simulation-research-gap-agenda.md)
 - [Rigorously compare PBL with traditional methods before broad PGME implementation, using larger samples, controls, and follow-up](compare-pbl-traditional-methods-before-pgme-implementation.md)
 - [Integrate quantitative and qualitative approaches in future cardiac arrest simulation feedback research](integrate-quantitative-qualitative-feedback-research.md)
+- [Implement structured autonomy programs with competency-based progression for independent resident operating](structured-autonomy-program-surgical-training.md)
 
 ## Examples
 -

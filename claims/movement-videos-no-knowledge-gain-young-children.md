@@ -49,3 +49,4 @@ Randomised MANCOVA with pre-test as covariate, group as independent variable, an
 - [Enjoyment of the instructional type did not differ between the movement and seated video groups, with both groups reporting high enjoyment](movement-videos-enjoyment-null-group-difference.md) — related
 - [The authors interpret the null movement effect as possibly due to experimenter-controlled video pacing obstructing children's memory encoding](experimenter-paced-segmentation-may-obstruct-encoding.md) — related
 - [Guiding questions and student control over video movement improve learning outcomes and satisfaction](guiding-questions-and-video-control-improve-learning.md) — related
+- [Free-movement VR increases task-relevant bodily movement compared with seated VR](free-movement-vr-increases-task-relevant-bodily-movement.md) — related

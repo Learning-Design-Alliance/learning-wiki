@@ -49,3 +49,4 @@ Thematic analysis of six interviews found OUA systematised existing monitoring p
 - [Perceived ease-of-use based on simplicity and familiarity with common chart types heavily influenced teachers' visualization preferences](simplicity-familiarity-drive-dashboard-preference.md) — related
 - [Teachers' technology acceptance follows the TAM: perceived usefulness, perceived ease of use, and attitude toward technology predict technology integration, moderated by organizational, technological, and individual factors](tam-predicts-teacher-technology-integration.md) — related
 - [Students positively perceived YouTube's usefulness, ease of use, and their attitude toward it for vocabulary learning](student-positive-perceptions-youtube-vocabulary.md) — related
+- [Learners rate the AI-Mentor cognitive core highly on technology acceptance](ai-mentor-high-tam-acceptance.md) — related

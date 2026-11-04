@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 92 claims (62 show a difference, 18 mixed, 12 no difference) · 63 studies (23 causal, 15 review, 12 associational, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 16 of 63 report an effect size · 91 claims rest on one study
+> **Evidence** · 95 claims (64 show a difference, 19 mixed, 12 no difference) · 64 studies (23 causal, 15 review, 13 associational, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 16 of 64 report an effect size · 94 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -128,6 +128,9 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Facial emotion recognition accuracy does not differ significantly between low-achieving and control adolescents, though accuracy varies strongly across emotion categories.](../claims/no-fer-accuracy-group-difference.md) [-M] — learners who differ on it differ in outcomes
 - [Health sciences students experience emotional intelligence as self-awareness and emotional regulation that develops over time rather than as an innate trait](../claims/ei-self-awareness-regulation-developmental-qualitative.md) [+M] — measured as an outcome of the instruction studied
 - [Performance-based emotion recognition ability is a small but significant independent predictor of OSCE performance](../claims/emotion-recognition-predicts-osce-performance.md) [+W] — learners who differ on it differ in outcomes
+- [EI mediates the relationship between mindfulness and both well-being and school results](../claims/ei-mediates-mindfulness-well-being-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Mindfulness correlates positively and significantly with trait emotional intelligence in Portuguese adolescents](../claims/mindfulness-positive-correlation-trait-ei-adolescents.md) [+M] — measured as an outcome of the instruction studied
+- [Trait EI is positively associated with well-being but not significantly with school results in adolescents](../claims/trait-ei-well-being-not-school-results.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

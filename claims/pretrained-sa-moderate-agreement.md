@@ -50,3 +50,4 @@ Reliability check in which two researchers independently classified students' an
 - [A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability](fine-tuned-bert-matches-human-coders-self-affirmation-essays.md) — related
 - [Back-translation evaluation outperforms LLM-as-a-Judge (code+image) in agreement with human raters across four models](backtranslation-outperforms-llm-judge-diagram-agreement.md) — related
 - [Machine learning detects five of eight reflective-writing categories with substantial or almost perfect reliability and three with moderate reliability (Cohen's κ .53–.85)](ml-detects-reflection-categories-kappa-053-085.md) — related
+- [Agreement between prompting strategies was moderate to substantial (Cohen's κ 0.518–0.632; Fleiss' κ = 0.571)](moderate-substantial-agreement-prompting-strategies.md) — related

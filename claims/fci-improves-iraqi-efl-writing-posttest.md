@@ -87,3 +87,4 @@ Descriptive statistics (Table 2) for the same quasi-experiment show the experime
 - [A project-based flipped learning model raised translation competence test scores in a Business English Translation course over one 16-week semester](flipped-translation-competence-posttest-gain.md) — related
 - [Interactive learning technologies produced greater gains in foreign language communicative competence than traditional instruction in a 54-student quasi-experiment](interactive-technologies-greater-flcc-gains-kfu.md) — related
 - [The flipped classroom model improved Egyptian EFL students' listening comprehension in a one-group pre-posttest study](flipped-classroom-improves-efl-listening-comprehension.md) — related
+- [Both groups improved significantly from pretest to posttest, but improvement was significantly greater in the flipped classroom condition](flipped-rct-greater-within-group-gain.md) — related

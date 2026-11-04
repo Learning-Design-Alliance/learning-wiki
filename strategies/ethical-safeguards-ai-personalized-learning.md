@@ -64,6 +64,7 @@ The review identifies three central ethical challenges for AI-driven personalize
 - [Embed ethical safeguards — informed consent, moral decision-making frameworks, explainable AI — when deploying AI agents in MOOC research](ethical-safeguards-for-ai-agents-in-moocs.md)
 - [Investigate stakeholder privacy requirements and define transparent rules for learner-data use](aied-learner-data-privacy-practices.md)
 - [Monitor equity: provision access for all students, audit outputs for bias, and study heterogeneous impacts](monitor-equity-genai.md)
+- [Three-level data protection mechanism for AI-SP privacy, informed consent, and legal risk management](ai-sp-three-level-data-protection.md)
 
 ## Examples
 -

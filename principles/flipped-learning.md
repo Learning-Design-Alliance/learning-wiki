@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 119 claims (66 for, 49 mixed, 4 against) · 78 studies (36 causal, 19 quant-synthesis, 13 review, 4 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 28 of 78 report an effect size · 111 claims rest on one study
+> **Evidence** · 125 claims (71 for, 50 mixed, 4 against) · 81 studies (39 causal, 19 quant-synthesis, 13 review, 4 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 29 of 81 report an effect size · 117 claims rest on one study
 
 ## Conditional relationship
 
@@ -171,6 +171,10 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Flipped classroom residents score higher on case analysis questions than traditional classroom residents (33.61 ± 2.61 vs. 31.43 ± 3.17, p = 0.010)](../claims/fc-higher-case-analysis-scores-gastroenterology.md) [+W] — attached 2026-11-04 from Hu Jing et al. (2026), which proposed "Micro-video-based flipped classroom protocol: pre-class micro-videos followed by interactive in-class discussion"; tests this page's relationship.
 - [Flipped classroom residents score higher on clinical skills assessment than traditional classroom residents (89.23 ± 2.71 vs. 86.11 ± 3.59, p = 0.001)](../claims/fc-higher-clinical-skills-scores-gastroenterology.md) [+W] — attached 2026-11-04 from Hu Jing et al. (2026), which proposed "Micro-video-based flipped classroom protocol: pre-class micro-videos followed by interactive in-class discussion"; tests this page's relationship.
 - [Blended learning (virtual flipped classroom plus demonstration) achieves higher laboratory OSPE scores than traditional lectures in practical immunohematology training](../claims/blended-learning-higher-laboratory-ospe-immunohematology.md) [+M] — attached 2026-11-04 from Saniee Nadia et al. (2026), which proposed "Shifting theoretical content to the pre-class phase frees in-class time for skill practice, feedback, and interactive learning in laboratory courses"; tests this page's relationship.
+- [Students in the flipped group rated the method as beneficial with a median benefit scale value of 4 out of 5](../claims/flipped-learning-benefit-median-four.md) [+W] — attached 2026-11-04 from Akbaytürk N (2026), which proposed "Flipped learning can serve as a complementary, student-centered auxiliary method alongside traditional anatomy education".
+- [Adding a SimZone 0 interactive-video preparatory phase before instructor-led CPR training is associated with significantly higher competence retention at 6 months among nursing students](../claims/zone0-iv-cpr-competence-retention-6-months.md) [+W] — attached 2026-11-04 from Trampal Ramos Á et al. (2026), which proposed "Incorporate structured preparatory self-directed learning before instructor-led procedural training"; tests this page's relationship.
+- [Flipped classroom produced significantly higher adjusted post-test knowledge scores than lecture-based learning in a fluids and electrolytes course (partial η² = 0.65)](../claims/flipped-classroom-higher-posttest-knowledge-nursing-rct.md) [+W] — attached 2026-11-04 from Yousefi Mahboubeh Sadat et al. (2026), which proposed "Integrate active, student-centered pedagogies such as the flipped classroom into nursing curricula"; tests this page's relationship.
+- [Flipped classroom group scored significantly higher on Satisfaction, Involvement, Task Orientation, and Innovation, but not on Personalization, Student Cohesiveness, or Individualization](../claims/flipped-rct-cucei-four-of-seven-subscales.md) [~W] — attached 2026-11-04 from Yousefi Mahboubeh Sadat et al. (2026), which proposed "Integrate active, student-centered pedagogies such as the flipped classroom into nursing curricula"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -253,6 +257,8 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Middle school students completed a larger percentage of assigned videos than high school students](../claims/rmep-middle-school-higher-video-completion.md) [~W]
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](../claims/fc-satisfaction-and-implementation-challenges.md) [~W]
 - [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](../claims/flipped-classroom-cbl-improves-concept-and-application-questions.md) [+W]
+- [Both groups improved significantly from pretest to posttest, but improvement was significantly greater in the flipped classroom condition](../claims/flipped-rct-greater-within-group-gain.md) [+M]
+- [MANOVA on the seven CUCEI subscales yielded a significant multivariate effect favoring the flipped classroom (Pillai's Trace = 0.93)](../claims/flipped-rct-cucei-manova-omnibus.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term
@@ -280,6 +286,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Adopt the flipped classroom gradually: start small, front-load video preparation, gather student feedback, and scale up as comfort grows](../strategies/gradual-flipped-classroom-adoption-strategy.md)
 - [Use pre-session readiness materials and MCQ self-assessment to shift content acquisition out of class time](../strategies/cbcl-pre-session-readiness-strategy.md)
 - [Use AI-generated vignette item sets for post-lecture review and preclinical preparation](../strategies/vega-preclinical-preparation-strategy.md)
+- [Use third-party video resources as preassignment work for flipped classrooms to lessen faculty burden](../strategies/third-party-preassignment-strategy.md)
 
 ### Illustrative
 

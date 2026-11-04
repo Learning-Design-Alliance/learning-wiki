@@ -69,3 +69,4 @@ Omission analysis in the same evaluation: coding present information as missing.
 - [Across 468 data points, human coders, LLMs, and both standards agreed on the same value in 280 cases (59.8%)](coder-agreement-patterns-upset-468.md) — related
 - Neither LLM nor human coders showed systematic over- or under-estimation in extracting data from educational meta-analyses — related
 - [LLMs are not ready to be used as primary data extraction tools without explicit human validation in education research synthesis](llms-not-ready-primary-data-extraction-without-human-validation.md) — reports the opposite
+- [Hallucination rates ranged from 11% to 20.1% across LLMs without significant intermodel differences](hallucination-rates-11-20-percent-no-model-differences.md) — related

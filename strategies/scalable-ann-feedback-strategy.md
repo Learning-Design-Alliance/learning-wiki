@@ -51,6 +51,7 @@ The article recommends automatic adaptive feedback in simulations as a way to gi
 - [Adaptive scenario generation: introduce training scenarios targeting weaknesses identified from real-time performance metrics](astra-adaptive-scenario-generation.md)
 - [Use teaching approximations (role play, microteaching) to scaffold pre-service teachers' pedagogical reasoning](teaching-approximations-pedagogical-reasoning.md)
 - [Provide preparatory materials, scenario introductions, adequate practice time, and constructive feedback in simulation teaching](simulation-teaching-preparation-practice-feedback.md)
+- [Provide real-time automated feedback on insertion depth and target-point accuracy during simulated needling practice](realtime-needling-feedback-strategy.md)
 
 ## Examples
 -

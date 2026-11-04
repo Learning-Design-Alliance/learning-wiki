@@ -54,3 +54,5 @@ Random effects meta-analysis of Pearson correlations between OSCE station scores
 - [A strong, statistically significant positive correlation was observed between process-oriented and summative assessment scores (r = 0.892).](pbl-bridge-process-summative-correlation.md) — related
 - [A large-scale summative PJ-OSCE can be successfully developed and delivered within a German model curriculum context.](large-scale-summative-pj-osce-feasible-german-model-curriculum.md) — related
 - [The PJ-OSCE achieved high internal consistency, with circuit-level Cronbach's alpha averaging 0.84.](pj-osce-high-reliability-cronbach-alpha-084.md) — related
+- [The OSCE score advantage of the vertically integrated program is concentrated in station 2 (management and communication) and in the safe management and communication/follow-up domains.](osce-advantage-station2-safe-management-communication.md) — related
+- [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](osce-correlates-self-reported-competence.md) — related

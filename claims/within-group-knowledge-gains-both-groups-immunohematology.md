@@ -53,3 +53,4 @@ Within-group pre–post comparisons using Wilcoxon Signed Ranks Test found stati
 - [Measured climate science knowledge significantly decreased pre- to post-intervention in all three groups, including controls](climate-knowledge-decreased-all-groups.md) — reports the opposite
 - [Both traditional and MIT-based Technology instruction produce statistically significant pre-to-post gains in emotional and knowledge scores](both-methods-significant-pre-post-gains.md) — related
 - [Both e-lecturing and eHistoLab instruction significantly improved histology knowledge from pre-test to post-test](both-methods-improved-histology-knowledge.md) — a narrower finding that bears on this claim
+- [Both game-based blended learning and interactive lecture produce significant pre-to-post EBM competency gains](both-groups-significant-ebm-gains.md) — possibly the same claim (merge candidate)

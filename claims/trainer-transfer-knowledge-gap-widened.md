@@ -66,3 +66,4 @@ Authors' interpretation in the Conclusions section, based on the widening descri
 ## Related Claims
 - [Traditional classroom food safety training of managerial employees produced cumulative knowledge gains essentially no larger than those in untreated control stores](traditional-food-safety-training-no-gain-over-control.md) — related
 - [Classroom training was the most common method reported by managerial employees while on-the-job training was most common for non-managerial employees](training-methods-differ-by-employee-type.md) — related
+- [The performance gap between blended-teaching and control groups widens significantly over the course of the intervention](rg-uclass-performance-gap-widens-over-time.md) — related

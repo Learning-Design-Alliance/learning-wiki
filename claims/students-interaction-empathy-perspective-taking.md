@@ -86,3 +86,4 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Preservice teachers' interview views indicate drama supports expression, empathy, creativity, communication and group work](drama-preservice-teacher-views-positive.md) — related
 - [Teachers rated the experiential training package positively, describing it as effective, accountable, and revealing of actual versus perceived performance](teacher-reflection-journals-social-validity.md) — related
 - [Students value role-play for interpersonal engagement and virtual patients for reducing stress and supporting reflective learning](qualitative-mechanisms-roleplay-vs-virtual-patients.md) — related
+- [Qualitative interviews suggest narrative features acted as a catalyst for meaning-making and peer-assisted elements provided social scaffolding for skill development](nm-pal-qualitative-mechanisms-meaning-making-scaffolding.md) — related

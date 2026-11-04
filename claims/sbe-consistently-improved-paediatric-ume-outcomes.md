@@ -74,3 +74,5 @@ The review's synthesis of Table 3 outcome data across the 30 studies, assessed v
 - [Digital effectiveness depends on the skill taught: virtual training matched face-to-face for suturing and knot-tying, but computer-based learning fell short for CPR](skill-type-moderates-digital-effectiveness-suturing-cpr.md) — related
 - [VR teaching outperforms traditional teaching on secondary outcomes including course participation, learning efficiency, and shorter train time](vr-secondary-outcomes-favor-vr.md) — related
 - [A virtual reality open inguinal hernia model improved medical students' knowledge of the procedure but did not assess technical skill](vr-open-hernia-model-improves-student-knowledge.md) — related
+- [Perceived confidence in CPR skill retention improved markedly between 3 and 6 months in both groups](retention-confidence-self-report-trajectory.md) — a narrower finding that bears on this claim
+- [Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills.](simulation-increases-clinical-confidence.md) — related

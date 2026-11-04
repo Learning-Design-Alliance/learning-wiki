@@ -49,3 +49,4 @@ Satisfaction with teaching was the most-studied questionnaire outcome: 25 studie
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — related
 - [Most new teaching methods reduce dissatisfaction relative to LBL, with WeChat-based combinations most favoured by residents](new-methods-reduce-dissatisfaction-versus-lbl.md) — related
 - [Students were generally satisfied with the PBL approach across the included studies](pbl-medical-psychology-student-satisfaction.md) — related
+- [Overall teaching satisfaction was significantly higher in the integrated PBL and medical humanities group than in the LBL group](integrated-pbl-humanities-higher-teaching-satisfaction.md) — related

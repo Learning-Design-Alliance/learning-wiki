@@ -48,3 +48,4 @@ Descriptive analysis of an eight-question Likert-type satisfaction inventory com
 - [Teachers rated the CSC coaching as highly satisfactory (TCES total M = 89.92)](high-teacher-satisfaction-csc-coaching.md) — related
 - [Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5](learnlens-teacher-satisfaction-4-1-of-5.md) — related
 - [Teachers, parents, and coaches report high satisfaction and strong coach-teacher alliance with First Step Next](fsn-high-satisfaction-alliance.md) — related
+- [Students rated the peer-assisted simulation workshops highly, with mean satisfaction scores above 4 of 5](high-satisfaction-peer-simulation-workshops.md) — related

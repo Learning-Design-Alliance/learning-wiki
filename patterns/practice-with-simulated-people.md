@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 198 claims (97 for, 82 mixed, 19 against) · 111 studies (34 review, 27 causal, 16 quant-synthesis, 14 design, 13 qualitative, 4 theoretical, 3 associational), `q1`–`q4` · 21 of 111 report an effect size · 193 claims rest on one study
+> **Evidence** · 200 claims (98 for, 83 mixed, 19 against) · 113 studies (34 review, 29 causal, 16 quant-synthesis, 14 design, 13 qualitative, 4 theoretical, 3 associational), `q1`–`q4` · 21 of 113 report an effect size · 195 claims rest on one study
 
 ## Description and scope
 
@@ -232,6 +232,8 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Communication skills, pharmaceutical care competencies, and collaborative skills are identified as essential for sim-IPE participation](../claims/essential-competencies-sim-ipe-participation.md) [~W]
 - [Among students, a medium-fidelity passive simulator configuration was associated with improved ventilation frequency and pressure during hands-on training](../claims/medium-fidelity-best-for-novice-students.md) [+W]
 - [Reasoning models performed best for case generation but were unsuitable for real-time patient simulation due to long response latency](../claims/reasoning-models-latency-unsuitable-simulator.md) [~W]
+- [Students rated the integrated VP session positively, with role modelling (M = 4.44) and varied case practice (M = 4.35) rated higher than “what-if” discussions (M = 3.76)](../claims/positive-perceptions-vp-role-modelling-varied-cases-what-if.md) [+W]
+- [No significant performance difference between VR and small group fellows on any of the 4 individual tracheostomy emergency cases](../claims/vr-small-group-no-case-level-difference.md) [~W]
 
 ## Examples
 

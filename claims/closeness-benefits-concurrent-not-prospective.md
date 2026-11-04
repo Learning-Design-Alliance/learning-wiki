@@ -52,3 +52,4 @@ Within-time covariation results (Table 4) showed closeness related to engagement
 - [Dyadic teacher-student closeness is consistently positively associated with elementary students' regulation of motivation](dyad-closeness-consistent-motivation.md) — related
 - [Cross-lagged panel models revealed robust support for four transactional models of teacher- and student-reported closeness and teacher-reported conflict and dependency](four-transactional-models-closeness-conflict-dependency.md) — related
 - [Student-teacher closeness, conflict and dependency, students' motivation, and academic achievement inform each other across the elementary grades](transactional-relations-motivation-relationships-achievement-k6.md) — related
+- [All three student–teacher relationship dimensions at age 5 are positively associated with educational performance at ages 6–8](strs-dimensions-predict-educational-performance.md) — related

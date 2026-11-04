@@ -62,3 +62,4 @@ Within-school component of the multilevel SEM partitioning teacher-level variati
 - [Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals](teacher-reports-coherence-trust-increased.md) — related
 - [Teachers' Grow use is strongly influenced by technology professional development, their own use of technology, and principal support for Grow](tech-pd-own-use-influence-grow.md) — related
 - [Strong leadership, data-informed instruction, positive school culture, and increased expectations were associated with improvement in schools undergoing state intervention](leadership-data-culture-expectations-associated-improvement.md) — related
+- [The three identified factors align with international leadership pathways, including the parent-community ties pathway in Chicago research](factors-align-international-pathways.md) — related

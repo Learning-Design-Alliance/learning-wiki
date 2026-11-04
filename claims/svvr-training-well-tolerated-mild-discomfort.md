@@ -52,3 +52,4 @@ Tolerability assessment using the Virtual Reality Sickness Questionnaire (oculom
 - [Motion sickness after the iVR experience was negligible for most participants, but a minority felt significant discomfort](ivr-motion-sickness-negligible-minority-discomfort.md) — related
 - [Motion sickness remains a disagreeable side effect of IVR serious games for a minority of participants](ivr-sgs-motion-sickness-side-effect.md) — related
 - [No significant safety issues arose in VR-IWS use; one young participant reported minor dizziness in one session only](vr-iws-no-significant-safety-issues.md) — related
+- [The zone 0 interactive-video intervention was feasible and highly acceptable, with no adverse events or technical issues](zone0-iv-feasibility-acceptability.md) — related

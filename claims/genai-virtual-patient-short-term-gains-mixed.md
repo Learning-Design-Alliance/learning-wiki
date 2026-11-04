@@ -135,3 +135,4 @@ The review reports countervailing findings in the same category, including that 
 - [LLM-VSP self-practice improves medical history-taking performance in matched comparison (Cohen d=0.52)](llm-vsp-improves-history-taking-matched.md) — a narrower finding that bears on this claim
 - [The collaborative model improves medical interns' doctor-patient communication ability](fsph-3d-model-improves-doctor-patient-communication.md) — related
 - [The authors conclude the LLM-based simulator may be an accessible, cost-effective tool for clinical reasoning training, pending validation with objective outcomes](llm-simulator-accessible-cost-effective-pending-validation.md) — related
+- [AI-Mentor pilot yields the largest gains in reasoning-aligned Mini-CEX domains, notably clinical judgment](ai-mentor-largest-gains-reasoning-domains.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ A parallel-group randomized controlled trial of 70 medical students (35 per grou
 - [At baseline, the intervention and control groups showed no statistically significant differences in demographics, evaluation location, or referral type, and comparable low pre-intervention Mini-CEX scores](serious-game-burn-trial-baseline-equivalence.md) — related
 - [Teacher satisfaction with the clinical encounter was significantly higher in the serious game group than in the control group](serious-game-burn-teacher-satisfaction.md) — related
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — related
+- [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](ai-mentor-pilot-improves-overall-mini-cex.md) — related

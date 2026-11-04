@@ -48,3 +48,4 @@ Same regression approach applied to final-exam condition-topic scores; "conditio
 - [PF students outperformed AL students on condition-topic midterm items by nearly five percentage points after controlling for prior performance](pf-beats-al-midterm-biology.md) — related
 - [PF still showed a positive, significant effect for combined medium- and high-achieving students on the midterm](pf-effect-med-high-combined.md) — related
 - [PF benefit for low-performing students persisted marginally on the final exam while effects for medium and high achievers were non-significant](pf-final-exam-ability-split.md) — reports the opposite
+- [Humanistic qualities/rapport shows no significant improvement, revealing a persistent humanistic gap](humanistic-gap-no-significant-rapport-improvement.md) — related

@@ -55,3 +55,4 @@ Correlation analysis (diagnostic, not hypothesis-testing) in the survey of 276 u
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — related
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [Three configurational pathways drive high academic achievement among Chinese undergraduates](three-configurations-high-academic-achievement.md) — related
+- [Knowledge, academic self-efficacy, and self-directed learning readiness are positively correlated](knowledge-self-efficacy-sdlr-positive-correlations.md) — related

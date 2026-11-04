@@ -49,3 +49,4 @@ Dosage reporting from the Results section of the randomized trial: sessions last
 - [No dose-response effect: video benefits do not systematically increase with intervention length](no-dose-response-video-duration.md) — related
 - [Students in treatment schools used the Core5 digital component for an average of 78.4 minutes per week, with usage varying by grade](core5-digital-component-usage-patterns.md) — related
 - [Digital providers charged more per hour and delivered fewer hours than nondigital providers](digital-providers-higher-cost-fewer-hours.md) — related
+- [Dosage of SM interventions varied extensively, with median session length 45 minutes, six sessions, across twelve weeks](sm-intervention-dosage-variability.md) — related

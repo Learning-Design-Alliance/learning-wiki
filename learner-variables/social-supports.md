@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 107 claims (81 show a difference, 20 mixed, 6 no difference) · 91 studies (24 associational, 17 review, 16 qualitative, 15 causal, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 9 of 91 report an effect size · 107 claims rest on one study
+> **Evidence** · 109 claims (83 show a difference, 20 mixed, 6 no difference) · 92 studies (25 associational, 17 review, 16 qualitative, 15 causal, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 9 of 92 report an effect size · 109 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -143,6 +143,8 @@ Social supports are the people available to help a learner if needed, and the le
 - [An increase in emotional support predicts a reduction in teacher-reported conduct problems in the spring, controlling for fall conduct problems](../claims/emotional-support-reduces-teacher-reported-conduct-problems.md) [+M] — learners who differ on it differ in outcomes
 - [Songs and practice opportunities may support skill retention and peer bonding](../claims/whs-songs-practice-retention-bonding.md) [+W] — instruction changes it
 - [The effect of emotional support on teacher-reported conduct problems is amplified when hostile attribution bias decreases](../claims/emotional-support-hostile-attribution-interaction-conduct-problems.md) [~M] — learners who differ on it differ in outcomes
+- [Higher-quality support from the dyslexia clinic is associated with higher teaching self-efficacy, more strongly than with parental self-efficacy](../claims/clinic-support-associated-with-higher-teaching-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived stress, household chaos, and clinic support together explain substantial variance in teaching and parental self-efficacy](../claims/predictors-explain-substantial-variance-in-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

@@ -49,6 +49,7 @@ The article recommends three deployments of large-scale synthetic error datasets
 - [Error-injection exercises: diagnosing subtly wrong simulations as graded practice](error-injection-diagnosis-exercises.md)
 - [Use ANN-based adaptive feedback to provide scalable, process-oriented real-time feedback at scale in higher education](scalable-ann-feedback-strategy.md)
 - [Use simulated learners to scale up formative evaluation and component validation, without replacing summative studies](simulated-learners-evaluation-strategy.md)
+- [Use rubric-guided multiagent LLM simulation workflows for scalable, auditable psychotherapy practice and formative feedback](multiagent-llm-simulation-psychotherapy-training-strategy.md)
 
 ## Examples
 -

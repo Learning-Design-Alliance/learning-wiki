@@ -48,3 +48,4 @@ Mann–Whitney comparisons of blinded GOALS domain ratings in the same 71-partic
 - [Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test](structured-vrst-curriculum-higher-goals-total.md) — a broader claim this one bears on
 - [Subjective performance ratings (NRS) were significantly higher after structured VRST than after deliberate practice](structured-vrst-higher-nrs-ratings.md) — related
 - [Virtual reality training shows no significant improvement in total GOALS scores or GOALS domains compared with no additional training](vrt-no-goals-improvement-versus-nat.md) — reports the opposite
+- [Trainees show significant post-training improvements in self-assessed laparoscopic skills including hand–eye coordination, bimanual dexterity, energy device use and suturing](post-training-self-assessed-laparoscopic-skill-improvements.md) — related

@@ -52,3 +52,5 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Digital interventions show sustained improvements in performance and retention, with confidence and diagnostic ability remaining elevated four months post-intervention in some studies](digital-learning-knowledge-retention-four-months.md) — related
 - [Experiment group vocabulary gains persisted at the five-month follow-up, with no significant posttest-to-follow-up decline](vocabulary-gains-persist-five-month-follow-up.md) — related
 - [Synectics workshops significantly increase perceived teamwork skills immediately after training, with gains retained three months later](synectics-improves-teamwork-skills-retained.md) — related
+- [Knowledge gains from a one-day simulation curriculum persist at three months among pre-health students who completed follow-up.](simulation-knowledge-retention-three-months.md) — related
+- [Knowledge retention after simulation varies by item type: cellular and genetic concepts are less retained than procedural or physiological ones.](simulation-retention-varies-by-concept-type.md) — related

@@ -55,3 +55,4 @@ Systematic review synthesis of validity evidence by tool category. For APMs the 
 - [Validity-evidence patterns in orthopaedic surgery mirror those in general surgery and cardiothoracic reviews, with strong content evidence and weak response-process and consequences evidence](orthopaedic-patterns-mirror-general-cvt-surgery-reviews.md) — related
 - [Checklists show reasonable validity and reliability but have an early ceiling effect and are most appropriate for novice learners in formative settings](checklists-valid-but-ceiling-effect-novice-formative.md) — related
 - [No identified procedural skills assessment tool has established construct validity; only face and content validity are reported](no-construct-validity-procedural-assessment-tools.md) — reports the opposite
+- [Validity evidence for the CBL module was gathered across six domains, with internal structure supported by significant quiz gains](cbl-meningitis-six-domain-validity.md) — related

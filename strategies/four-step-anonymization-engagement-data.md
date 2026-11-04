@@ -40,6 +40,7 @@ The anonymization tip sheet defines anonymization as 'removing information that 
 
 - [Record sessions with consent, data-protection communication, disclosure norms, and detailed notetaking](recording-consent-and-data-protection-tips.md)
 - [Privacy-preserving deployment measures for an ITS under GDPR and EU AI Act](gdpr-compliant-its-deployment-measures.md)
+- [Three-level data protection mechanism for AI-SP privacy, informed consent, and legal risk management](ai-sp-three-level-data-protection.md)
 
 ## Examples
 -

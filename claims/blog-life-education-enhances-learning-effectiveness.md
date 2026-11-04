@@ -49,3 +49,4 @@ One-sample t-test analysis of the 21-item learning effectiveness scale (10 infor
 - [Blog-assisted life education instruction significantly enhances students' collaborative learning attitudes and attitudes toward blog use](blog-life-education-enhances-learning-attitudes.md) — related
 - [Most students enjoyed the blog-assisted life education course, favoring film watching and blog activity as instructional methods](students-favored-blog-assisted-life-education-course.md) — related
 - [Majorities of students reported self-improvements in information literacy, multimedia material processing, and courseware design after the blended course](self-reported-skill-gains-blended-pet-course.md) — related
+- [Satisfaction item-level differences favor GBL on participation and expectations items](gbl-item-level-satisfaction-advantages.md) — related

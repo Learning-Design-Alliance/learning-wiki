@@ -50,3 +50,4 @@ Content validation involved a panel of seven lecturers with a minimum of 15 year
 - [The DKSCQ-N demonstrates strong content validity with a scale-level Content Validity Index of 0.95 following expert review and item refinement.](dkscqn-content-validity-s-cvi-095.md) — related
 - [Expert and student judgements rate the WEIEC application feasible, with Aiken's V of 0.80 from experts and 0.81 from students](weiec-application-feasible-aiken-v-experts-students.md) — related
 - [The CSL-LTS demonstrates adequate internal consistency with Cronbach's α of 0.832 and McDonald's ω of 0.841](csl-lts-internal-consistency.md) — related
+- [Content validity of OPTIS was established through five consecutive rounds of expert feedback involving 18 experts](optis-content-validity-expert-rounds.md) — related

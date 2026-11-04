@@ -47,3 +47,5 @@ Randomized controlled trial of 125 German paramedic trainees in dyadic VR simula
 ## Related Claims
 - [Repeated VR exposure shortens time to correct working diagnosis and time to first IM epinephrine administration in the assessment scenario](repeated-vr-exposure-faster-diagnosis-and-epinephrine.md) — related
 - [Time-based outcomes correlate strongly and negatively with overall checklist performance](time-outcomes-negative-correlation-performance.md) — related
+- [SBS-trained students outperform VBT-trained students on technical skills in a simulated perioperative anaphylaxis scenario one week after training](sbs-better-technical-skills-simulated-scenario.md) — related
+- [Scenario-based simulation yields higher post-test knowledge scores than video-based training in anaesthesia undergraduates learning perioperative anaphylaxis management](sbs-higher-post-test-than-vbt-perioperative-anaphylaxis.md) — related

@@ -53,3 +53,4 @@ Meta-analysis of 8 randomized controlled trials reporting student satisfaction o
 - [More PBL than LBL students report satisfaction with improved self-study ability (RR = 1.44)](pbl-satisfaction-self-study-ability.md) — related
 - [SP+CBL pedagogy significantly improves teaching satisfaction compared with LBL in Chinese clinical education.](sp-cbl-improves-teaching-satisfaction.md) — related
 - [Student satisfaction does not differ between PBL and LBL (pooled RR 1.18, CI crossing 1)](pbl-lbl-satisfaction-no-difference.md) — related
+- [Students report higher satisfaction and more positive emotional responses with simulation-based teaching than with traditional practical instruction](simulation-higher-satisfaction-positive-emotions.md) — a narrower finding that bears on this claim

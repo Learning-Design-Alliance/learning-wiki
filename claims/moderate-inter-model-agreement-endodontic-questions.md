@@ -50,3 +50,4 @@ Exploratory agreement analysis based on correctness patterns (not answer-option 
 - [Accuracy rates differ significantly among ChatGPT, Claude, and Gemini on text-based endodontic examination questions](llm-accuracy-differs-endodontic-exam-questions.md) — related
 - [The three LLMs showed fair inter-model agreement on the AAMC SJT, agreeing most strongly on incorrect answers](llm-fair-agreement-same-errors-aamc-sjt.md) — related
 - [Inter-run reliability of LLM performance on the EBHS examination was consistently high, with an overall mean Cohen's κ of 0.821 and no model falling below moderate agreement.](llm-ebhs-inter-run-reliability-high-kappa-0821.md) — related
+- [Agreement between prompting strategies was moderate to substantial (Cohen's κ 0.518–0.632; Fleiss' κ = 0.571)](moderate-substantial-agreement-prompting-strategies.md) — related

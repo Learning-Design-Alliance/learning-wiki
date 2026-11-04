@@ -80,3 +80,4 @@ Systematic review (20 studies) of simulation-based training for nursing students
 - [Workshop, simulation, and team-review methods significantly improve teamwork behaviors, while the pooled effect of didactic education alone was not significant](didactic-education-fails-to-improve-teamwork.md) — related
 - [Blended learning (virtual flipped classroom plus demonstration) achieves higher laboratory OSPE scores than traditional lectures in practical immunohematology training](blended-learning-higher-laboratory-ospe-immunohematology.md) — related
 - [Patient-in-classroom teaching was rated higher in overall teaching quality than traditional lectures, with a large effect size](patient-in-classroom-higher-teaching-quality.md) — related
+- [Nursing students report higher perceived patient safety competencies in clinical settings than in academic settings, with small effect sizes](nursing-students-higher-safety-competencies-clinical-than-academic.md) — related

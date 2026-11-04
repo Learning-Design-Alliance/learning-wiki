@@ -51,3 +51,7 @@ Anonymous satisfaction questionnaire completed by all 79 students (100% response
 - [Students report higher satisfaction with PBL-CBL teaching than with LBL in orthopedic education](pbl-cbl-higher-teaching-satisfaction.md) — related
 - [Students report higher class satisfaction with CBL than with LBL (RR = 1.63)](cbl-higher-class-satisfaction-than-lbl.md) — related
 - [CBL increases teaching satisfaction versus LBL (RR=1.38)](cbl-increases-teaching-satisfaction.md) — related
+- [Students in the CBL group report higher satisfaction across all evaluated domains than the LBL group](cbl-higher-student-satisfaction.md) — related
+- [Overall teaching satisfaction was significantly higher in the integrated PBL and medical humanities group than in the LBL group](integrated-pbl-humanities-higher-teaching-satisfaction.md) — related
+- [Online PBL was associated with higher student satisfaction than in-person PBL in a Japanese medical cohort](online-pbl-higher-satisfaction-japanese-cohort.md) — related
+- [Student satisfaction with teaching is higher after scenario-based simulation than after video-based training](sbs-higher-student-satisfaction-than-vbt.md) — related

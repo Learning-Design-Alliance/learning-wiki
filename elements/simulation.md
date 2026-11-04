@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 286 claims (165 for, 102 mixed, 19 against) · 179 studies (77 review, 38 quant-synthesis, 37 causal, 14 design, 6 qualitative, 4 associational, 3 theoretical), `q1`–`q4` · 32 of 179 report an effect size · 276 claims rest on one study
+> **Evidence** · 305 claims (175 for, 110 mixed, 20 against) · 189 studies (77 review, 46 causal, 38 quant-synthesis, 14 design, 6 qualitative, 5 associational, 3 theoretical), `q1`–`q4` · 33 of 189 report an effect size · 295 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -341,6 +341,25 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Residents reported high satisfaction with simulation-based learning, with 100% finding it useful and 70% perceiving psychomotor improvement](../claims/resident-satisfaction-vascular-simulation.md) [+W]
 - [Simulation-based neonatal ventilation training improved theoretical knowledge in both medical students and health professionals in Tanzania](../claims/simulation-training-improves-neonatal-ventilation-knowledge.md) [+W]
 - [A significant difference in mean ventilation rate across configurations was observed among health professionals at the final assessment, with the high-fidelity passive group closest to the reference rate](../claims/professionals-final-bpm-difference.md) [~W]
+- [High-fidelity simulation and procedural simulation workshops yield similar cannulation times for VA-ECMO training](../claims/high-fidelity-vs-procedural-simulation-ecmo-cannulation-time.md) [~W] — attached 2026-11-04 from Bouras Marwan et al. (2026), which proposed "Three-hour procedural simulation workshop for VA-ECMO cannulation technical skills".
+- [Simulator-based TEE training significantly improves medical students' TEE knowledge scores](../claims/simulator-tee-training-improves-student-knowledge.md) [+W] — attached 2026-11-04 from Beres Adam et al. (2026), which proposed "TEE-SEEDS simulator-based training protocol"; tests this page's relationship.
+- [Simulator-based TEE training significantly increases medical students' confidence across all measured categories](../claims/simulator-tee-training-increases-student-confidence.md) [+W] — attached 2026-11-04 from Beres Adam et al. (2026), which proposed "TEE-SEEDS simulator-based training protocol".
+- [All participants successfully demonstrated TEE skills after simulator-based training](../claims/simulator-tee-training-skills-mastery.md) [+W] — attached 2026-11-04 from Beres Adam et al. (2026), which proposed "TEE-SEEDS simulator-based training protocol"; tests this page's relationship.
+- [Students' best virtual simulation scores are significantly higher than their initial scores](../claims/cataract-vsim-best-scores-higher-than-initial.md) [+W]
+- [High-fidelity simulation training is associated with better surgical draping performance than procedural workshop training](../claims/high-fidelity-simulation-better-surgical-draping-ecmo.md) [+W]
+- [Students rate the simulation program highly acceptable and useful, with the simulation component rated most useful.](../claims/simulation-high-acceptability-ratings.md) [+W]
+- [The catheterization domain score is significantly higher after procedural workshop training than after high-fidelity simulation training](../claims/catheterization-domain-higher-procedural-workshop-ecmo.md) [-W]
+- [Student satisfaction with teaching is higher after scenario-based simulation than after video-based training](../claims/sbs-higher-student-satisfaction-than-vbt.md) [+W]
+- [Simulation-based training with the Snaid® extrication device significantly improves ability to teach others, readiness to use the device, and willingness to recommend it](../claims/snaid-simulation-training-improves-teach-readiness-recommend.md) [+W]
+- [Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills.](../claims/simulation-increases-clinical-confidence.md) [+W]
+- [Cybersickness increases over time in VR simulation regardless of movement condition](../claims/cybersickness-increases-over-time-vr.md) [~W]
+- [Procedural simulation workshop training is associated with better advanced communication performance than high-fidelity simulation training](../claims/procedural-workshop-better-advanced-communication-ecmo.md) [~W]
+- [Perceived gains from SCL followed a U-shaped curve relative to clinical experience, with the 50–80 cases group reporting the lowest satisfaction](../claims/scl-perceived-gains-u-shaped-clinical-experience.md) [~W]
+- [Students rate clinical reasoning skills and overall satisfaction highest among self-reported outcomes](../claims/cataract-vsim-highest-rated-outcomes.md) [~W]
+- [Knowledge gains from a one-day simulation curriculum persist at three months among pre-health students who completed follow-up.](../claims/simulation-knowledge-retention-three-months.md) [~W]
+- [Turret position moderates post-training outcomes: turret 9 shows better skill and confidence, while turret 12 shows better comfort](../claims/snaid-turret-position-moderates-outcomes.md) [~W]
+- [No significant performance difference between VR and small group fellows on any of the 4 individual tracheostomy emergency cases](../claims/vr-small-group-no-case-level-difference.md) [~W]
+- [VR-based acupuncture training was associated with higher theoretical knowledge posttest scores than conventional instruction](../claims/vr-acupuncture-higher-theoretical-knowledge.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -63,3 +63,4 @@ The brief summarizes its OPRE comprehensive review of self-regulation interventi
 - [Some social-emotional and cognitive-behavioural initiatives showed no effect or a negative effect on educator wellbeing](some-initiatives-no-or-negative-effect.md) — related
 - [Weak metacognitive-regulation capacities are associated with disengagement, aggression, and delinquency, while reflective scaffolding interventions improve psychosocial functioning](mr-weakness-delinquency-scaffolding-improves.md) — a narrower finding that bears on this claim
 - [Isolated school mindfulness programs show mixed results, with one multi-site trial showing no improvement and increased anxiety in some subgroups](school-mindfulness-mixed-results.md) — reports the opposite
+- [Mindfulness shows no significant direct relationship with school results or well-being in adolescents](mindfulness-no-direct-effect-school-results-well-being.md) — related

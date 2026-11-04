@@ -74,3 +74,4 @@ Study 1 ANCOVA interaction term on motion sickness was a non-significant tendenc
 - [Cybersickness remains a persistent practical challenge, affecting approximately 42% of VR users, and can occur in AR where symptoms may exceed those in VR](cybersickness-prevalence-vr-ar-immersive-learning.md) — related
 - [Motion sickness after the iVR experience was negligible for most participants, but a minority felt significant discomfort](ivr-motion-sickness-negligible-minority-discomfort.md) — related
 - [Immersion in the virtual classroom did not induce unwanted negative side effects (cybersickness)](vr-immersion-no-cybersickness.md) — related
+- [Cybersickness increases over time in VR simulation regardless of movement condition](cybersickness-increases-over-time-vr.md) — related

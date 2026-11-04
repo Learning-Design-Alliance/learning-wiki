@@ -47,3 +47,4 @@ Case evaluation questionnaire across all eight PBL cases (N = 1,072). The articl
 ## Related Claims
 - [In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable, among the CoI presences and metacognition dimensions](cognitive-presence-highest-least-variable-online-cbi.md) — related
 - [Students in an accelerated online MBA program experience their courses as a community of inquiry, with all three CoI presences rated above 4.0 on a 5-point scale](mba-students-experience-courses-as-coi.md) — related
+- [Case complexity was rated as a comparatively underdeveloped aspect of the SCL session](scl-case-complexity-underdeveloped-aspect.md) — related

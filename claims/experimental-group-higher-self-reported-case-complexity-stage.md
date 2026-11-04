@@ -48,3 +48,4 @@ Students' self-reported highest case-complexity stage was analysed as an explora
 - [MAPLE-CR produced greater pretest-to-posttest score gains than case-matched self-study, while the control group also improved significantly](maple-cr-greater-gain-control-also-improved.md) — related
 - [Medical interns using MAPLE-CR achieved higher posttest clinical reasoning knowledge scores than controls completing case-matched self-study](maple-cr-higher-posttest-than-self-study.md) — related
 - [A structured microskill stepwise progression model improves end-of-rotation tooth extraction competence compared with traditional apprenticeship-based teaching.](microskill-stepwise-progression-improves-tooth-extraction-competence.md) — related
+- [Students reported that stepwise build-up in case complexity and recognition of similar reasoning steps across cases supported transfer](stepwise-complexity-similar-reasoning-steps-themes.md) — related

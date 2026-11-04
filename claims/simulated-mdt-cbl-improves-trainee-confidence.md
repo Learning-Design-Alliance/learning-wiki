@@ -52,3 +52,4 @@ Educational pilot study (Mackay et al., 2024) with 11 oncology and 8 respiratory
 - [A formal oncology CBL programme delivered via videoconferencing may enhance learning opportunities for rural and remote trainees in Australia](videoconferenced-cbl-for-rural-trainees.md) — related
 - All eligible postgraduate CBL studies had serious methodological flaws identified by CASP appraisal, limiting the validity and reliability of their conclusions — related
 - [Case-based learning is viewed positively by practicing doctors, with all eligible postgraduate studies reporting favourable perceptions](cbl-viewed-positively-practicing-doctors.md) — related
+- [A case-based learning module on pediatric bacterial meningitis produced statistically significant pre/post knowledge gains in postgraduate learners](cbl-pediatric-meningitis-knowledge-gains.md) — related

@@ -49,3 +49,4 @@ Paired McNemar’s exact test on completion status of the same seven residents a
 - [A 25-minute skill-focused ultrasound training curriculum enabled all 30 participants to successfully complete US-guided cannulation on a simulation model](brief-skill-focused-us-training-100-cannulation-success.md) — related
 - [Ultrasound guidance improves PVC placement outcomes versus conventional methods primarily in DIVA patients](ultrasound-guidance-improves-pvc-outcomes-diva.md) — related
 - [Ultrasound-guided phase OSCE performance scores and overall ratings were nominally higher than landmark-phase performance among EM residents with paired data](us-guided-osce-nominally-higher-than-landmark.md) — related
+- [Ultrasound-guided cannulation was associated with fewer required attempts and less frequent supervisor assistance than landmark-based technique](ultrasound-guided-fewer-attempts-less-assistance.md) — related

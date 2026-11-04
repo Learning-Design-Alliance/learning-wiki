@@ -48,3 +48,4 @@ Post-experiment satisfaction survey administered to Groups A and B, 10 items on 
 - [The article concludes the CSTPP is better suited to home-based self-study with close teacher-parent interaction](cstpp-better-suited-home-based-self-study.md) — related
 - [Students using the CSTPP in class without parental participation showed no significant pre-post change in overall attitudes to learning English](cstpp-no-parental-participation-no-attitude-change.md) — related
 - [Junior high school students using the CSTPP at home with parental participation showed a significant pre-post increase in attitudes toward instruction](cstpp-parental-participation-attitudes-toward-instruction-gain.md) — related
+- [Students rated the peer-assisted simulation workshops highly, with mean satisfaction scores above 4 of 5](high-satisfaction-peer-simulation-workshops.md) — related

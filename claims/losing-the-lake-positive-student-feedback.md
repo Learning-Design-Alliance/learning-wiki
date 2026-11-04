@@ -59,3 +59,4 @@ Post-intervention feedback survey administered only to the experimental group (n
 - [Students rated the classroom games as fun and engaging (mean 4.7/5) and did not find leaderboards intimidating (mean 1.7/5)](gamification-survey-fun-engagement-leaderboards.md) — related
 - [Students rated activity-based lessons as more motivational than lecture-based lessons in post-lesson surveys](abl-rated-more-motivational-post-lesson.md) — related
 - [Teacher interviews attributed increased motivation and engagement to the visual and interactive features of learning objects in both settings](teacher-interviews-los-motivation-both-settings.md) — related
+- [PointSolutions wagering questions help keep poorly performing teams engaged in review games](wager-questions-engagement.md) — related

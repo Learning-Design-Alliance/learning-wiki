@@ -53,6 +53,7 @@ Students advocated incorporating high-fidelity simulations, role-playing, and ca
 - [Integrate family-centered and empathic care into delirium education](family-centered-delirium-education.md)
 - [Integrate high-quality, high-fidelity simulation-based learning into endocrinology curricula alongside traditional methods](integrate-high-quality-sbl-endocrinology-curricula.md)
 - [Integrate expert-narrated videos as pre-session material within a blended neuroangiography curriculum combining case-based learning, discussion, and simulation practice](blended-video-neuroangiography-curriculum.md)
+- [Incorporate hands-on clinical simulation with low-fidelity task trainers into basic science curricula to bridge theoretical knowledge and clinical application](hands-on-clinical-simulation-basic-science-strategy.md)
 
 ## Examples
 -

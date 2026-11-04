@@ -50,3 +50,4 @@ Review synthesis of practical usability and feasibility outcomes in the Results 
 - [After design adjustments, the LAD achieved good–excellent usability (SUS M = 4.13, equal to 78.25%)](thermos-lad-sus-good-excellent-usability.md) — related
 - [A truncated three-month pilot of the Cities Mentor Project with 17 intervention and 18 control youth indicates the intervention is feasible, usable, and appreciated by participants.](cities-mentor-pilot-feasible-usable.md) — a narrower finding that bears on this claim
 - [After usability testing and refinement, the simulation was piloted with 23 residents without unanticipated technical problems](pilot-23-residents-no-implementation-issues.md) — related
+- [The zone 0 interactive-video intervention was feasible and highly acceptable, with no adverse events or technical issues](zone0-iv-feasibility-acceptability.md) — related

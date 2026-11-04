@@ -31,7 +31,7 @@ sources:
 # Accessible Vocabulary & Syntax
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (17 for, 4 mixed, 2 against) · 31 studies (11 causal, 7 review, 4 quant-synthesis, 3 design, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 4 of 31 report an effect size · 18 claims rest on one study
+> **Evidence** · 24 claims (18 for, 4 mixed, 2 against) · 32 studies (11 causal, 7 review, 4 quant-synthesis, 4 design, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 4 of 32 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Immediate comprehension of a simplified text, comprehension of the original, del
 - [Adequate definitions of abstract and familiar terms rarely appear before the eleventh year](../claims/adequate-definitions-rare-before-eleventh-year.md) [+W]
 - [In-context (top-down) vocabulary training had no significant impact on reading comprehension](../claims/top-down-training-no-comprehension-impact.md) [~W]
 - [Word difficulty varies: short familiar-format words are easiest and abstract words hardest](../claims/word-difficulty-varies-across-target-words.md) [+W]
+- [ChatGPT-5.1 generates EUS answers with significantly lower linguistic complexity (GFI, SMOG) than DeepSeek-R1 and Gemini 2.5 Flash](../claims/chatgpt-lower-gfi-smog-readability.md) [+W]
 
 ## Related Principles
 - [Explicit Instruction: Vocabulary](explicit-instruction-vocabulary.md) — focuses on the direct teaching of word meanings and usage

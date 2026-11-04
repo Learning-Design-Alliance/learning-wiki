@@ -50,3 +50,4 @@ Systematic review following PRISMA of 104 studies; 38 comparative studies (29 RC
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — a narrower finding that bears on this claim
 - [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — a narrower finding that bears on this claim
 - [Remote teaching achieves competency outcomes equivalent to traditional learning for basic surgical skills in most studies](rt-equivalent-to-tl-basic-surgical-skills.md) — a narrower finding that bears on this claim
+- [PainScan training produces superior pain assessment skill development compared to on-site training](painscan-superior-skill-development-vs-onsite.md) — a narrower finding that bears on this claim

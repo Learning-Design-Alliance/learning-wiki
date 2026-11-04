@@ -62,3 +62,5 @@ Post-task questionnaire with 25 items (21 Likert-scale) completed by 30 students
 - [Students perceived high learning impact from the personalised GPT agents, with improved conceptual understanding rated highest (mean 4.6, SD 0.5)](student-perceptions-gpt-learning-impact.md) — related
 - [Experimental-group students rated the Every Circuit system highly enjoyable, with all nine responses between 7 and 9 on a 1-10 scale](every-circuit-enjoyment-ratings.md) — related
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related
+- [Students rated the peer-assisted simulation workshops highly, with mean satisfaction scores above 4 of 5](high-satisfaction-peer-simulation-workshops.md) — related
+- [Students rate the simulation program highly acceptable and useful, with the simulation component rated most useful.](simulation-high-acceptability-ratings.md) — related

@@ -59,3 +59,4 @@ The review reports that "Feedback-oriented and interactive methods were consiste
 - [Feedback usefulness from multisource feedback is enhanced by increasing its specificity, and specific, patient-sourced feedback on communication skills is most consistently used](msf-feedback-specificity-enhances-usefulness.md) — related
 - [AI scores correlated significantly with Mini-CEX scores (r = 0.579, p < 0.001)](ai-scores-correlate-minicex-r-0579.md) — related
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — a narrower finding that bears on this claim
+- [Over 80% of orthodontic postgraduates rated the SCL model superior to traditional teaching methods](scl-rated-superior-to-traditional-teaching-orthodontic-postgraduates.md) — a narrower finding that bears on this claim

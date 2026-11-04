@@ -71,3 +71,4 @@ The mechanism is illustrated through two carefully transcribed, representative e
 - [Classroom observations revealed subtle but decisive teaching differences correlated with the difference in learning outcomes](observed-classroom-differences-correlated-with-outcomes.md) — related
 - [Teachers rated ChatGPT as effective for interdisciplinary integration, with 61% giving ratings of 4 or above](chatgpt-supports-interdisciplinary-integration-ratings.md) — related
 - [Teacher role grows more concrete from low-structured sensemaking to high-structured deliberation and vanishes in dialectic deliberation](teacher-role-shift-across-lta-patterns.md) — related
+- [Case complexity was rated as a comparatively underdeveloped aspect of the SCL session](scl-case-complexity-underdeveloped-aspect.md) — related

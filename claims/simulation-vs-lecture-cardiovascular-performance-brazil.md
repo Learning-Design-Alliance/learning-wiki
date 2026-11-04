@@ -52,3 +52,4 @@ Quasi-experimental study of 30 Brazilian nursing students (15 per group) compari
 - [Peer tutoring in clinical simulation is associated with improved technical skills such as laparoscopic tasks, lumbar puncture, and cardiovascular examination](peer-tutoring-simulation-technical-skill-gains.md) — related
 - [Simulation training improves cardiac auscultation skills but shows no effect on respiratory auscultation skills](sbme-cardiac-not-respiratory-auscultation.md) — related
 - [A post-ROSC simulation curriculum increased intern knowledge of post-ROSC hemodynamic and respiratory targets](post-rosc-simulation-increased-knowledge-targets.md) — related
+- [Knowledge gains varied by workshop topic, largest for pulmonary auscultation and smallest for rectal and breast examination](knowledge-gain-varies-by-workshop-topic.md) — related

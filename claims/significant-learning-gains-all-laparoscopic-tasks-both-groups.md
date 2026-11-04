@@ -47,3 +47,4 @@ Within-group Friedman ANOVA across the four assessment days in the randomized tr
 ## Related Claims
 - [Bihemispheric tDCS during laparoscopic simulation training selectively improved final bimanual coordination performance compared with sham stimulation](tdcs-selectively-improves-bimanual-coordination-laparoscopic-training.md) — related
 - [tDCS showed no independent effect on camera navigation or hand–eye coordination outcomes in laparoscopic training](tdcs-no-effect-camera-navigation-hand-eye.md) — related
+- [Trainees show significant post-training improvements in self-assessed laparoscopic skills including hand–eye coordination, bimanual dexterity, energy device use and suturing](post-training-self-assessed-laparoscopic-skill-improvements.md) — related

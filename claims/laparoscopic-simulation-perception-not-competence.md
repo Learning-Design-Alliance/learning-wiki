@@ -50,3 +50,4 @@ Interpretive conclusion of the scoping review's narrative synthesis, which used 
 - [Peer tutoring in clinical simulation is associated with gains in non-technical skills including self-efficacy, self-confidence, self-perception of learning, and reflective abilities](peer-tutoring-simulation-non-technical-gains.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — reports the opposite
 - [Peer tutoring in clinical simulation is associated with improved technical skills such as laparoscopic tasks, lumbar puncture, and cardiovascular examination](peer-tutoring-simulation-technical-skill-gains.md) — related
+- [Students perceive simulation practice as a protective factor that enhances confidence, safety, and readiness for real procedures](simulation-perceived-protective-factor-confidence.md) — related

@@ -50,3 +50,6 @@ Retrospective single-item self-report questionnaire administered once at program
 - [Needle passes and procedure time favoured the ultrasound-guided phase but did not reach statistical significance](needle-passes-and-time-favour-us-non-significant.md) — related
 - [A 25-minute skill-focused ultrasound training curriculum enabled all 30 participants to successfully complete US-guided cannulation on a simulation model](brief-skill-focused-us-training-100-cannulation-success.md) — related
 - [PGY residents completed US-guided cannulation significantly faster than clerks (68.5 vs. 133 s)](pgy-faster-than-clerks-cannulation-time.md) — related
+- [A majority of trainees reported anxiety about performing vascular access without ultrasound, and most acknowledged the importance of landmark-based skills](trainee-anxiety-and-landmark-importance-perceptions.md) — related
+- [Trainees report greater confidence with ultrasound-guided than with landmark-based cannulation for both IJV and RA access](trainees-greater-confidence-ultrasound-guided-cannulation.md) — related
+- [Ultrasound-guided cannulation was associated with fewer required attempts and less frequent supervisor assistance than landmark-based technique](ultrasound-guided-fewer-attempts-less-assistance.md) — related

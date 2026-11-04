@@ -63,3 +63,4 @@ Network meta-analysis of 58 RCTs with 5,427 students reporting theoretical test 
 - [PBL and LBL show no significant difference in theoretical knowledge in surgical education](pbl-lbl-no-difference-theoretical-knowledge-surgery.md) — related
 - [Both PBL-CBL and traditional teaching groups improve theoretical and skills scores after the course](both-groups-improve-scores-after-course.md) — related
 - [BOPPPS/FC-CBL group achieves significantly higher theory test scores than LBL group in general practice residency training](boppps-fc-cbl-higher-theory-test-scores-than-lbl.md) — related
+- [Instructors show higher willingness to adopt CBL than LBL for future clinical teaching](cbl-higher-instructor-adoption-willingness.md) — related

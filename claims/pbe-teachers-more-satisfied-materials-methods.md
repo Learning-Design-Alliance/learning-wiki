@@ -49,3 +49,4 @@ Teacher survey outcome in the randomized controlled trial; the two-item satisfac
 - [PBE shows no statistically significant effect on teachers' self-reported pedagogical practices, and the survey measure may lack sensitivity](pbe-no-pedagogical-practice-effect.md) — related
 - [PBE professional development shows no statistically significant effect on teachers' economics content knowledge, possibly masked by a ceiling effect](pbe-no-teacher-knowledge-effect.md) — related
 - [Problem Based Economics professional development raises grade 11–12 students' economics content knowledge on the Test of Economic Literacy by an average of 2.6 test items (effect size 0.32)](pbe-raises-tel-content-knowledge.md) — related
+- [Satisfaction item-level differences favor GBL on participation and expectations items](gbl-item-level-satisfaction-advantages.md) — related

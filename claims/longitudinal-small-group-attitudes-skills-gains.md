@@ -51,3 +51,4 @@ Longitudinal pre-post evaluation of EBM integration into a medical school curric
 - [A multifaceted EBM course for pharmacy students significantly improved overall EBM test scores (11.4 vs. 12.6, P<0.0001)](pharmacy-ebm-workshop-test-score-gain.md) — related
 - [A three-session EBM and critical appraisal course produced a highly statistically significant overall pre-post score difference (Z-score=-3.398, P=0.001) among medical students](three-session-course-significant-pre-post-difference.md) — related
 - [A single experiment-based session within a lecture-dominated course produces no significant overall learning gains on a post-experiment questionnaire](no-significant-gains-single-experiment-session.md) — related
+- [Intervention group achieved significantly higher post-intervention total EBM scores than control group (13.11 vs 10.12)](intervention-group-higher-post-test-total-ebm.md) — related

@@ -56,3 +56,5 @@ Teachers' perceived workload was measured with the raw NASA-TLX (0–10 per subs
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
 - [Designer workload across an 11-module instructional design model for product development averaged normal-to-high (50–75%)](nasa-tlx-normal-high-workload-design-process.md) — related
 - [Experimental teachers reported the Glogster model, tiered assignments and scaffolding were effective for struggling students, though assessment demanded much effort](glogster-tiered-scaffolding-struggling-students.md) — related
+- [Effort is higher with the app while frustration is higher without it, with no overall workload difference](app-effort-higher-frustration-higher-without.md) — related
+- [App-guided ALS support shows no clear improvement in overall perceived workload compared with standard practice](app-guided-als-no-overall-workload-difference.md) — related

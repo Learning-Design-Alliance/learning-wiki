@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 214 claims (142 show a difference, 55 mixed, 17 no difference) · 130 studies (43 causal, 42 associational, 15 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 30 of 130 report an effect size · 211 claims rest on one study
+> **Evidence** · 215 claims (143 show a difference, 55 mixed, 17 no difference) · 131 studies (44 causal, 42 associational, 15 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 30 of 131 report an effect size · 212 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -249,6 +249,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Students report culture-based activities create an enjoyable and comfortable atmosphere](../claims/culture-activities-enjoyable-atmosphere.md) [+W] — measured as an outcome of the instruction studied
 - [The Control group course scored worst on sadness and boredom, with the majority of students feeling happy and stimulated in all three designs](../claims/control-worst-sadness-boredom.md) [+M] — measured as an outcome of the instruction studied
 - [Working with LEGO Mindstorms robots was highly engaging and motivating for students, but produced stress, insecurity about theoretical knowledge, and logistical frustration](../claims/robots-engaging-but-stressful.md) [~M] — measured as an outcome of the instruction studied
+- [Effort is higher with the app while frustration is higher without it, with no overall workload difference](../claims/app-effort-higher-frustration-higher-without.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

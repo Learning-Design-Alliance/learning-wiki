@@ -68,3 +68,4 @@ Results section reporting all six Mini-CEX sub-dimensions as non-significant. Th
 - [Integrated online-PBL-CBL teaching improves six DOPS procedural dimensions but not overall DOPS performance](online-pbl-cbl-dops-six-dimensions-improved.md) — related
 - [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — related
 - [No significant difference between PBL-CBL and traditional groups in post-class basic knowledge or skills scores](pbl-cbl-no-difference-basic-knowledge-skills-scores.md) — related
+- [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](ai-mentor-pilot-improves-overall-mini-cex.md) — related

@@ -52,3 +52,4 @@ MLR direct-path estimates from the parcel-based latent SEM on the N = 131 survey
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest direct predictor](se-mov-positive-predict-sdl.md) — related
 - [Thoughtless use of generative AI significantly and negatively predicts both self-efficacy and motivation](tuga-negative-effect-se-mov.md) — related
 - [Self-efficacy has a significant positive effect on motivation among undergraduates using generative AI](se-positive-effect-mov.md) — related
+- [The direct effect of general pedagogical knowledge on student engagement is not significant](gpk-direct-effect-on-engagement-nonsignificant.md) — related

@@ -62,3 +62,4 @@ Among 11 studies assessing knowledge or skills outcomes, the review reports that
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
 - [Hybrid simulation of breast examination produces better lesion reporting and malignant-feature identification than traditional teaching](hybrid-breast-exam-simulation-beats-tabletop-model.md) — related
 - [Computer/internet-based learning programs improved physical examination skill performance compared to students without IT support](computer-based-learning-improves-pe-skills.md) — related
+- [Video-assisted instruction improved CVC psychomotor skill performance one week after training, with large effect sizes](video-assisted-instruction-cvc-psychomotor-skills.md) — related

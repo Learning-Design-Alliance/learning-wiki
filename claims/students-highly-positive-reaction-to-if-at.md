@@ -50,3 +50,4 @@ Anonymous course evaluation survey after the two-hour IF-AT midterm, with attitu
 - [Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items](if-at-integrated-testlet-items-excellent-discrimination.md) — related
 - [Students reported uniformly positive reactions to using IF-AT scratch-off cards in group review](ifat-student-comments-positive.md) — related
 - [Chinese college EFL learners held strongly favorable attitudes toward a multimedia vocabulary application, with more than 80% reacting positively](multimedia-vocabulary-app-favorable-attitudes.md) — related
+- [Over 90% of residents responded positively to most feedback items, but about 57% were neutral or negative on time required](snapps-feedback-positive-except-time-burden.md) — related

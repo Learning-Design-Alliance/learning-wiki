@@ -53,3 +53,4 @@ Thematic analysis by three researchers of Study 2's open-ended survey data; stud
 - [Students perceived AIvaluate assessments as reducing social pressure and offering flexible pacing and ease of use, but noted technical challenges and lack of dynamic human interaction](aivaluate-thematic-advantages-and-limitations.md) — related
 - [Students' primary concerns about AI videos are inaccurate information, reduced interaction with educators, and diminished educational value](student-concerns-ai-videos-quality-interaction-value.md) — related
 - [Most students preferred receiving corrective feedback online via email, with ease of submission and time saving the leading reasons](students-prefer-online-corrective-feedback.md) — related
+- [Students preferred face-to-face delivery over virtual delivery for both CBL and GBL](face-to-face-preferred-over-virtual.md) — related

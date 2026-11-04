@@ -61,3 +61,4 @@ ANCOVA on extraneous cognitive load in the VR modality experiment, controlling f
 - [No effects of visible instructor on extraneous processing across three field studies](no-visible-instructor-extraneous-processing.md) — related
 - [Cueing did not reduce learners' self-rated cognitive load in the immersive VR dual-task environment](vr-cueing-no-cognitive-load-reduction.md) — related
 - [Desktop VR and still-image presentations produced no significant differences on overall scenic orientation, timed detail recall, or time on learning presentation](desktop-vr-still-image-no-significant-main-effects-core-measures.md) — related
+- [Cognitive load does not differ between free-movement and seated VR conditions](cognitive-load-no-difference-vr-conditions.md) — related

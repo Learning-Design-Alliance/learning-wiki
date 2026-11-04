@@ -110,3 +110,4 @@ Undergraduates read educational texts (textbook chapters or a Scientific America
 - [Generating information produces a memory advantage over passively reading it (the generation effect)](generation-effect-memory-advantage.md) — related
 - [Post-testing yields significantly better retention than pre-testing when total retrieval-practice time is held comparable (position effect)](quiz-position-post-beats-pre-latimier.md) — related
 - [Both groups shifted from information-collection strategies toward retrieval-based strategies as the exam approached](strategy-use-shifts-toward-retrieval-near-exam.md) — related
+- [Group studiers and solo studiers differ in time spent on listening, rereading, and watching non-course videos, but not on high-impact strategies](group-solo-studiers-strategy-time-differences.md) — related

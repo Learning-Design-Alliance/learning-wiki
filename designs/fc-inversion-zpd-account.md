@@ -47,6 +47,7 @@ The article describes the flipped classroom as "a blended learning model that in
 
 - [Blended Learning](../patterns/blended-learning.md)
 - [Flipped classroom as a blended, student-centered instructional model expanding active learning into class time](flipped-classroom-blended-model-theory.md)
+- [Flipped classroom as constructivist blended learning that moves lower-order Bloom's levels outside class](flipped-classroom-constructivist-blended-model.md)
 
 ## Examples
 -

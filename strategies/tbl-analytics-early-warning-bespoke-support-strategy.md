@@ -45,7 +45,8 @@ The article demonstrates a strategy in which routine iRAT data from the first fo
 - [Individual weekly readiness assurance test (iRAT) scores are strongly predictive of summative examination performance (R²≈0.38–0.41) and reproducible over consecutive years.](../claims/tbl-readiness-scores-predict-summative-performance.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Use early internal course assessments to flag students at risk of underperformance on high-stakes exams](early-internal-assessments-flag-at-risk-students.md)
 
 ## Examples
 -

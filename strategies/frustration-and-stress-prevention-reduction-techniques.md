@@ -64,6 +64,7 @@ Teacher stress is reliably associated with poorer instructional quality, higher 
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — breaking tasks down reduces the overload that generates frustration in the first place
 - [Include emotional assessments into new digital learning platforms to address emotional stress and teacher burnout before attrition](emotional-assessments-in-digital-learning-platforms.md)
 - [Support CBL implementation with instructor training, gradual student introduction, and monitoring of student stress and feedback](cbl-implementation-support-strategy.md)
+- [Targeted training programs focusing on psychological self-adjustment for lower-competency nurse profiles](targeted-psychological-self-adjustment-training-strategy.md)
 
 ## Examples
 - An elementary teacher plays soft instrumental music during independent reading, using the period as a low-demand recovery window while learners stay productively engaged.

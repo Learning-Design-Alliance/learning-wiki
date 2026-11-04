@@ -57,3 +57,4 @@ Content validity evaluation by six nursing faculty and clinical nurses using an 
 - [In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73](virtual-simulation-scenario-standard-precautions-cvi-above-080.md) — related
 - [The final indicator system shows good reliability (ICC = 0.86) and content validity (S-CVI = 0.92; I-CVI 0.85–1.00)](icc-and-cvi-reliability-validity-tb-educator-indicator-system.md) — related
 - [Preliminary survey found VEGA's cases, items, and feedback easy to understand, with all ratings between 3 and 4 on a 4-point scale](vega-preliminary-survey-comprehensibility.md) — related
+- [Content validity of OPTIS was established through five consecutive rounds of expert feedback involving 18 experts](optis-content-validity-expert-rounds.md) — related

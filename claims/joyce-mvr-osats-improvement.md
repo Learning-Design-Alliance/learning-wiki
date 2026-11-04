@@ -53,3 +53,4 @@ Pre-post simulation program reported in the review: 11 first- to third-year card
 - [A 2-day endoscopic mitral annuloplasty course significantly improved operative speed, suture accuracy and theoretical knowledge](sardari-nia-endoscopic-mv-course-gains.md) — related
 - [Simulation-based training significantly improves surgical trainees' time to completion, technical errors, skills scores and theoretical knowledge in heart valve surgery](sbt-improves-valve-surgery-trainee-outcomes.md) — a broader claim this one bears on
 - [Mean anastomosis completion time decreased significantly after training, with significant reductions among second- and third-year residents](anastomosis-completion-time-reduction-pgy2-3.md) — related
+- [Post-training objective assessments show significantly reduced operation time in pattern cutting and suturing tasks and improved suturing quality](objective-task-time-reduction-suturing-quality-gain.md) — related

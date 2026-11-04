@@ -66,3 +66,5 @@ Review synthesis of preference data across the 22 included studies; the preferen
 - [Students strongly prefer flipped courses, with high approval ratios on preference items including technology ease and in-class activity effectiveness.](students-strongly-prefer-flipped-courses.md) — related
 - [Team-teaching students reported substantially higher rates of note supervision, class participation, work coverage, teacher supervision, and perceived improvement than traditional-method students](team-teaching-higher-perceived-feedback-quality.md) — related
 - [Students reported high-to-highest satisfaction with the clinical PBL model, with the facilitator role of the teacher rated highest](high-satisfaction-clinical-pbl-pharmacy-facilitator-role.md) — related
+- [Students preferred face-to-face delivery over virtual delivery for both CBL and GBL](face-to-face-preferred-over-virtual.md) — related
+- [Over 80% of orthodontic postgraduates rated the SCL model superior to traditional teaching methods](scl-rated-superior-to-traditional-teaching-orthodontic-postgraduates.md) — related

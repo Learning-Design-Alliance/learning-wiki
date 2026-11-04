@@ -50,3 +50,4 @@ Narrative synthesis across included randomised trials (e.g. Nathan 2022; Cho 202
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — a broader claim this one bears on
 - [Simulation-based training improves suturing, cutting, and cautery skills](simulation-training-improves-suturing-cutting-cautery.md) — related
 - [Computer, mannequin, and combined simulation all significantly improve ACLS technical skills (megacode scores, CPR initiation time, defibrillation time) with no significant between-group differences](three-simulation-modes-equal-technical-acls-gains.md) — reports the opposite
+- [Approximately 86.61% of trainees prioritize suturing and knot-tying practice as the most critical simulator training component](suturing-knot-tying-most-critical-component.md) — related
