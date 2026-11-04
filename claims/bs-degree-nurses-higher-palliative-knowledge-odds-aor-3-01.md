@@ -49,3 +49,4 @@ Meta-analysis of educational status as a factor associated with nurses' palliati
 - [Pooled good knowledge of palliative care among Ethiopian nurses is 45.57%, meaning more than half had poor knowledge](ethiopian-nurses-palliative-care-knowledge-pooled-45-57.md) — related
 - [Only 36.02% of reviewed Ethiopian nurses had palliative care training, and Egger's test indicated no publication bias](low-training-coverage-and-no-publication-bias.md) — related
 - [Educational qualification shows no significant association with wound-care knowledge or practice levels](qualification-no-association-wound-knowledge.md) — related
+- [Educational level was significantly associated with total BLS knowledge score, with bachelor's and master's degree holders scoring higher.](education-level-associated-bls-knowledge-score.md) — related

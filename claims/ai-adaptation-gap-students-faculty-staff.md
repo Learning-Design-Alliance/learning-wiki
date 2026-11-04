@@ -73,3 +73,4 @@ Pairwise Welch comparisons on the academic integrity concerns index showed "g = 
 - [Professional staff show a pragmatically compressed GenAI profile with high ethical awareness and the widest span of create-level endorsement of any cohort](professional-staff-compressed-genai-profile.md) — related
 - [Faculty perceptions of student ethical inadequacy contradict students' own acceptance of ethical responsibility, with both groups showing pragmatic conscious acceptance of AI](faculty-student-contradiction-ethical-responsibility-ai.md) — related
 - [Students exhibit an inverted competence profile, endorsing creation-level GenAI tasks above several foundational items that would normally precede them](students-inverted-genai-competence-profile.md) — related
+- [More than half of students reported not receiving an individualized educational approach, in contrast to academic staff perceptions](students-report-no-individualized-approach-staff-discrepancy.md) — related

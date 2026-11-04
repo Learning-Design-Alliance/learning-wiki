@@ -63,6 +63,7 @@ Relevance connections work best when they are made by learners themselves or tie
 - [Cognitive apprenticeship](../patterns/cognitive-apprenticeship.md) — practitioner modeling of workplace writing enacts the modeling and articulation phases
 - [Theory courses should require an application piece such as real-world clients or service-learning to prepare designers for practice](theory-course-application-piece.md)
 - [Design AI scaffolds for STEM learning by linking learners' goals and interests to real scientific applications of AI](strategy-design-field-specific-ai-scaffolds-stem.md)
+- [Emphasizing clinical relevance during theoretical teaching to support motivation and perceived value of lecture attendance](clinical-relevance-emphasis-lecture-motivation.md)
 
 ## Examples
 - A science instructor invites a working researcher to walk through a published paper and a rejected draft, showing how revision and clarity affect publication outcomes.

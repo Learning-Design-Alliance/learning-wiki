@@ -56,6 +56,7 @@ The authors recommend integrating TBL with other teaching methods such as Proble
 - [Three-part implementation guidance for applying CBL in Chinese dental education](cbl-implementation-guidance-chinese-dental.md)
 - [Combine the PBL and ATI models with different approaches for optimal results](combine-pbl-and-ati-models-strategy.md)
 - [Case study method combined with project method for developing independent cognitive activity](case-study-project-method-informatics.md)
+- [Integrate BOPPPS, flipped classroom, and case-based learning into a single pedagogical model for residency training](integrate-boppps-fc-cbl-single-model-residency.md)
 
 ## Examples
 -

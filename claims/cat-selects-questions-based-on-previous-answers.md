@@ -9,6 +9,7 @@ generated:
   at: 2026-10-08
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-04
 sources:
   - id: rel-mid-atlantic-2019
     resource: "https://www.mathematica.org/publications/measuring-up-considerations-for-adopting-computerized-adaptive-testing"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In CAT, a correct answer leads to a more difficult next question and an incorrect answer leads to an easier next question. [→ REL Mid-Atlantic 2019](#rel-mid-atlantic-2019)

@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 137 claims (93 show a difference, 32 mixed, 12 no difference) · 72 studies (36 associational, 18 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 19 of 72 report an effect size · 134 claims rest on one study
+> **Evidence** · 138 claims (94 show a difference, 32 mixed, 12 no difference) · 73 studies (36 associational, 19 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 20 of 73 report an effect size · 135 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -172,6 +172,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Objective knowledge and self-perceived clinical confidence show a weak negative correlation (r = -0.201) among dental interns](../claims/negative-knowledge-confidence-correlation-veneers.md) [+M] — learners who differ on it differ in outcomes
 - [SDL-R shows a consistent performance-linked gradient across perceived class rank and self-reported GPA terciles, most pronounced in planning and implementation](../claims/sdlr-performance-linked-gradient-rank-gpa.md) [+M] — learners who differ on it differ in outcomes
 - [The instructor-led-first cohort showed greater first-phase changes than the VR-first cohort in self-perceived spill-kit knowledge and PPE donning ability, but modality was confounded with cohort](../claims/instructor-led-first-greater-first-phase-changes-q1-q3.md) [~W] — measured as an outcome of the instruction studied
+- [A renal biopsy simulation workshop significantly increased fifth-year medical students' self-perceived ability to perform renal biopsy](../claims/renal-biopsy-simulation-workshop-increased-student-confidence.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

@@ -53,3 +53,4 @@ Review synthesis of McClure's (2024) quantitative cohort comparison (n = 181 acr
 - [American Indian/Alaska Native students showed higher disengagement under remote testing than in-school testing](american-indian-alaska-native-higher-disengagement-remote.md) — related
 - [Student anxiety under remote proctoring is mixed: some students report reduced anxiety from home comfort and no travel, while others face anxiety from connectivity issues and fear of wrongful accusations](mixed-anxiety-remote-proctored-exams.md) — related
 - [A 6-week NCLEX Coaching Model showed no significant first-time pass-rate improvement but significantly improved confidence/readiness scores (Schlairet & Rubenstein, 2019)](nclex-coaching-model-confidence-readiness-gains.md) — related
+- [Remote proctoring shows no statistically significant performance differences versus test centres](remote-proctoring-no-performance-difference.md) — reports the opposite

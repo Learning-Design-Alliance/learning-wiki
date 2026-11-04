@@ -44,7 +44,8 @@ The article uses Bloom's cognitive domain, established by Benjamin Bloom in 1956
 - [Three-domain taxonomy of algebra learning outcomes: conceptual knowledge, procedural knowledge, and procedural flexibility](algebra-outcome-three-domain-taxonomy.md)
 
 ## Examples
--
+
+- [Educational objectives for a dietary oral health curriculum organized according to Bloom's knowledge and cognitive process dimensions](../designs/bloom-organized-dietary-oral-health-objectives.md)
 
 ## Key Sources
 - Anees, S. (2017). Analysis of Assessment Levels of Students’ Learning according to Cognitive Domain of Bloom’s Taxonomy. https://eric.ed.gov/?id=ED586762

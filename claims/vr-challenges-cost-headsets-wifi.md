@@ -63,3 +63,4 @@ Focus-group findings (Further development theme, 11 codes). Teachers cited Wi-Fi
 - [Computer-based simulation and immersive VR platforms differ in their primary limitations: feedback timeliness versus physiological discomfort](vs-platform-specific-limitations.md) — related
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
 - [Students experienced technical challenges, internet issues and navigation issues during engagement with online simulation approaches](students-experienced-technical-internet-navigation-issues.md) — related
+- [VM users cited internet access and its cost as the main obstacles to using virtual microscopy](vm-users-internet-cost-obstacles.md) — related

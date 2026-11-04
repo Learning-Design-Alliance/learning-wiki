@@ -52,3 +52,4 @@ This is the review authors' narrative assessment of the corpus of 14 included st
 - [Across the reviewed studies, simulation-based interventions consistently improved paediatric undergraduate learning outcomes, including clinical reasoning, procedural skills and confidence](sbe-consistently-improved-paediatric-ume-outcomes.md) — related
 - [Simulation improves critical thinking in nursing and medical students compared to traditional teaching](simulation-improves-critical-thinking-nursing-medical-students.md) — related
 - [Students rate simulation as improving critical thinking, problem solving, reporting and recording, and decision making, with communication and nursing process rated lower](simulation-improves-self-rated-maternity-skills.md) — reports the opposite
+- [New graduate paediatric surgery nurses show lowest baseline proficiency in critical thinking and research skills](new-graduate-paediatric-nurses-lowest-baseline-critical-thinking.md) — related

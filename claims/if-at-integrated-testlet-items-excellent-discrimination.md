@@ -57,3 +57,4 @@ Item analysis of one case-study course's IF-AT-scored midterm (20 items, 51 stud
 - [Intra-testlet items were slightly more difficult than stand-alone questions (p′ = 0.69 ± 0.15 vs 0.75 ± 0.15)](intra-testlet-items-slightly-more-difficult.md) — related
 - [Survey items show good discrimination overall, but several items exhibit ceiling effects that limit measuring change over time](survey-item-discrimination-and-ceiling-effects.md) — related
 - [Partial credit accounts for only a small proportion of IF-AT exam scores, though weaker students depend on it more](if-at-partial-credit-small-proportion-of-score.md) — related
+- [Including ethnicity does not significantly change item discrimination](ethnicity-inclusion-no-discrimination-effect.md) — related

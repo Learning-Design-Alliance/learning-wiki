@@ -50,3 +50,5 @@ Pilot evaluation with 10 students from the same recruitment pool, run with the s
 - [An abbreviated 12-item RPM subset predicts sentence recognition in CI users with comparable validity to the full 48-item test](abbreviated-12-item-rpm-predicts-ci-sentence-recognition.md) — related
 - [Alpha of knowledge tests is higher for language and mathematics than for science and social sciences/humanities](knowledge-test-alpha-domain-differences.md) — related
 - [The Statistical Reasoning Assessment instrument showed acceptable internal consistency (Cronbach alpha .82) in a 30-subject pilot study](sra-instrument-cronbach-alpha-82-pilot.md) — related
+- [A pilot test with 20 nursing students found no difficulties in understanding or completing the questionnaire](csl-lts-pilot-comprehensibility.md) — related
+- [Time-limited tests are less equitable because speededness disproportionately impacts some groups](speededness-disproportionate-equity-impact.md) — reports the opposite

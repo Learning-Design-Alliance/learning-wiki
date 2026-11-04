@@ -82,6 +82,7 @@ Interactive scenarios work because they require learners to apply knowledge to a
 - Case-based discussion — the non-interactive ancestor; scenarios add decision-making to case analysis
 - Simulation debriefing protocols (e.g., PEARLS) — the structured reflection that converts scenario experience into learning
 - [Use hybrid simulations combining real-world materials with low-cost simulators to enable realistic, interactive scenarios at reduced cost](hybrid-simulation-real-world-materials-low-cost-simulators.md)
+- [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 
 ## Examples
 - **[Harvard Business Publishing Simulations](https://www.harvardbusiness.org/)** — business simulations (e.g., the Change Management simulation) where learners make sequential strategic decisions and see organizational consequences unfold.

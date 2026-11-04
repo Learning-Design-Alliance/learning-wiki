@@ -65,3 +65,4 @@ Thematic analysis of semi-structured interviews with 20 adult learners, prompted
 - [Insufficient volume and diversity of curated content limited the curation module's ability to spark exploration of new learning strategies](curation-module-insufficient-content-limited-exploration.md) — related
 - [Hybrid models combining SDVT with real-time feedback may enhance learner autonomy while maintaining instructional oversight](hybrid-sdvt-rt-feedback-benefits.md) — related
 - [The combination of e-mentoring and in-class self-evaluation encouraged sustained engagement in outside-of-class learning activities](e-mentoring-self-evaluation-sustained-engagement.md) — related
+- [AI applications in clinical education enhance learner engagement, flexibility, feedback, and objective competency assessment](ai-enhances-engagement-feedback-assessment-clinical-education.md) — related

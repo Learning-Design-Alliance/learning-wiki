@@ -70,3 +70,4 @@ Second ordinal logistic regression predicting preference for AI relative to huma
 - [Students' preferences for AI versus human scoring and feedback vary significantly across assessment scenarios, with strong human preference for high-stakes tasks](scoring-preferences-vary-by-scenario.md)
 - [After PAIRR, most students prefer combined peer and AI feedback over either source alone](pairr-builds-confidence-in-ai-while-affirming-human-feedback.md)
 - [Students express concerns about GenAI, with non-users (never/rarely) significantly more concerned than other users, and concerns uncorrelated with knowledge](genai-concerns-nonusers-differ.md) — related
+- [Technological affinity shows no association with learning outcomes in either instructional mode](tech-affinity-no-association-outcomes.md) — related

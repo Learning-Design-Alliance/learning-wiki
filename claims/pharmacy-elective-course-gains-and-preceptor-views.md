@@ -53,3 +53,4 @@ Pre-post evaluation of a 2-hour weekly elective EBM course (case studies, proble
 - [Participants in the Essential Searching Skills course showed increased pre-test to post-test confidence and knowledge on skills covered in the course](srss-course-pre-post-knowledge-gains.md) — related
 - [A single two-hour EBM literature searching workshop did not significantly improve medical students' overall EBM literature searching skills at one week (10.51 vs. 10.50, P=0.99)](single-workshop-no-literature-searching-gain.md) — related
 - [Game-based learning improved pharmacy students' literature searching course scores in one reported study](game-based-learning-improves-literature-searching-scores-pharmacy.md) — related
+- [Peer-led SMA clinical outcome assessment workshops produced a 75% average increase in self-reported preparedness and familiarity among 79 Canadian clinical evaluators](sma-coa-workshops-75-percent-preparedness-increase.md) — related

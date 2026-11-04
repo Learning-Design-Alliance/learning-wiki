@@ -55,3 +55,6 @@ Focus group participants described accessing high-fidelity simulation from home 
 - [Creating a safe and supportive learning environment is crucial for clinical reasoning development](safe-learning-environment-clinical-reasoning.md) — a broader claim this one bears on
 - [Transversal competencies—establishing a safe learning environment, accessibility, and empathy for students' situations—were emphasized as crucial during the pandemic](transversal-competencies-crucial-during-got.md) — a broader claim this one bears on
 - [Students perceive virtual simulation as standardising interprofessional learning experiences across clinical placements and campuses](virtual-simulation-standardises-ipe-experiences.md) — related
+- [Professional hierarchy and low student confidence are key barriers to interprofessional education](hierarchy-and-confidence-barriers-ipe.md) — related
+- [Participants identify skilled facilitation, curriculum integration, institutional support, and simulation's safe learning environment as enablers of sim-IPE](sim-ipe-implementation-enablers.md) — related
+- [Clinical simulation is perceived as a safe environment that allows learning from mistakes without risk to patients](simulation-safe-environment-learning-from-errors.md) — related

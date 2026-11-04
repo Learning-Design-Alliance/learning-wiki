@@ -55,3 +55,4 @@ This scoping review of 26 publications on faculty development in interprofession
 - [Data analysis and management, communication and teamwork, and evaluation of AI tools were each identified by 43% of included studies](three-competencies-43-percent-studies.md) — related
 - [Small interdisciplinary teamwork was the most widely reported teaching strategy, explicitly reported in 62 articles](small-interdisciplinary-teams-62-articles.md) — related
 - [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related
+- [Communication skills, pharmaceutical care competencies, and collaborative skills are identified as essential for sim-IPE participation](essential-competencies-sim-ipe-participation.md) — related

@@ -55,7 +55,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (26 for, 28 mixed, 3 against) · 35 studies (18 causal, 6 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 20 of 35 report an effect size · 52 claims rest on one study
+> **Evidence** · 58 claims (26 for, 29 mixed, 3 against) · 36 studies (18 causal, 7 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 20 of 36 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -190,6 +190,7 @@ The expectation should weaken if comparisons with comparable learners find no ad
 - [On raw exam scores, interleaved homework produced no significant midterm difference between sections but a significant final exam advantage for the interleaved section](../claims/interleaved-homework-final-exam-raw-advantage-calculus.md) [+W]
 - [Interleaving disproportionately benefited students with below-average or up-to-0.96-SD-above-average midterm scores, though ceiling effects may contribute](../claims/interleaving-disproportionately-benefits-lower-midterm-scores.md) [~W]
 - [Random practice versus blocked practice shows no statistically significant difference on procedural performance tests](../claims/random-vs-blocked-practice-no-significant-difference.md) [-W]
+- [Blocked versus interleaved GPC practice showed no clear difference in first-grade test performance](../claims/blocked-interleaved-gpc-null.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — when practice of the same thing recurs; usually confounded with interleaving

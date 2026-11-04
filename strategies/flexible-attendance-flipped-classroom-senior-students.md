@@ -46,6 +46,7 @@ The article recommends that "Colleges should also consider more flexible, compet
 - [Adopt standardized, competency-based frameworks that align instructional content and assessment strategies with clearly defined clinical outcomes](standardized-competency-based-frameworks-orthodontic-education.md)
 - [Adopt flipped classroom instruction, with particular attention to at-risk students, supported by institutional infrastructure and teacher video-design training](adopt-flipped-classroom-at-risk-infrastructure-strategy.md)
 - [Universities should provide SRL training and consider reducing the length of breaks between lectures, using web-based instruction to give flexible attendance](institutions-srl-training-shorter-breaks-web-instruction.md)
+- [Integrate BOPPPS, flipped classroom, and case-based learning into a single pedagogical model for residency training](integrate-boppps-fc-cbl-single-model-residency.md)
 
 ## Examples
 -

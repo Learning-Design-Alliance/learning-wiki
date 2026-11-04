@@ -60,3 +60,4 @@ Domain-specific synthesis in the review's quantitative analysis across five outc
 - [Some social-emotional and cognitive-behavioural initiatives showed no effect or a negative effect on educator wellbeing](some-initiatives-no-or-negative-effect.md) — related
 - [Science effects were smaller for broad general science measures than for physical science measures](outcome-construct-moderates-5e-science-effects.md) — related
 - [Two small pilot RCTs measuring resilience with validated scales reported significant improvement](pilot-rcts-significant-resilience-gains.md) — related
+- [Lower-performing students report poorer health-related quality of life in five of eight RAND-36 domains](lower-aps-poorer-rand36-domains.md) — related

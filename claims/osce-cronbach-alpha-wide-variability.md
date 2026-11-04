@@ -51,3 +51,4 @@ Descriptive synthesis of all 26 alpha values from 23 studies. The wide range (0.
 - [A six-station sport medicine OSCE showed high reliability and construct validity, with senior residents outscoring junior residents](dwyer-sem-osce-reliability-validity.md) — a narrower finding that bears on this claim
 - [OSCEs used with physical therapy students show weak internal consistency, with a pooled Cronbach's alpha of 0.55 below the acceptable range](pt-osce-pooled-cronbach-alpha-weak.md) — a narrower finding that bears on this claim
 - [Students achieved high and consistent OSCE handover performance across antenatal and postpartum stations after the intervention](isbar-osce-high-consistent-performance.md) — related
+- [The PJ-OSCE achieved high internal consistency, with circuit-level Cronbach's alpha averaging 0.84.](pj-osce-high-reliability-cronbach-alpha-084.md) — a narrower finding that bears on this claim

@@ -48,6 +48,7 @@ The review recommends using its six-domain competency framework to assess nurses
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
 - [Use simulation and virtual reality to train nurse managers' decision-making competency](simulation-vr-training-nurse-manager-decision-making.md)
 - [Use the competency framework as a fluid tool for appraisal, self-assessment and identifying learning needs](competency-framework-as-development-review-tool.md)
+- [Use the framework to design competence-based education, training programs, and assessment tools for BCP](bcp-framework-training-design-strategy.md)
 
 ## Examples
 -

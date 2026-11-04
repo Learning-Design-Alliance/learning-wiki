@@ -55,6 +55,7 @@ The review's forward-looking recommendations for VS teaching design: future devi
 - [Provide preparatory materials, scenario introductions, adequate practice time, and constructive feedback in simulation teaching](simulation-teaching-preparation-practice-feedback.md)
 - [Prioritize rigorous VR training studies with larger samples, validated outcome measures, immersive designs, and LLM integration in mental health education research](future-vr-mental-health-research-recommendations.md)
 - [Use virtual simulation resources to prepare students before high-risk or complex experiments](virtual-simulation-prelearning-before-complex-experiments.md)
+- [Design future sectional anatomy sessions to be more multimodal and collaborative](future-sessions-more-multimodal-and-collaborative.md)
 
 ## Examples
 -

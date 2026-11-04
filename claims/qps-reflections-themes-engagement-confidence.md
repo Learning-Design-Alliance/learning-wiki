@@ -51,3 +51,4 @@ Thematic analysis of 300-word written reflections from 151 participants, coded i
 - [Teams and teamwork is the most frequently developed IPEC core competency in interprofessional education, identified in 65 instances across 62 studies](ipe-teams-teamwork-most-frequent-competency.md) — related
 - [Focus group participants described role-play as transformative for conceptual clarity and confidence in consent-taking](role-play-transformative-consent-clarity-confidence.md) — related
 - [IPE interventions show significant improvements in role clarity, communication skills, and teamwork dynamics](ipe-improves-role-clarity-communication-teamwork.md) — related
+- [The collaborative model shows no significant effect on inter-professional teamwork competence or transformative learning readiness](fsph-3d-model-no-effect-teamwork-transformative-learning.md) — related

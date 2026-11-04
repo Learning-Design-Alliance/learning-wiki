@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 147 claims (97 show a difference, 28 mixed, 22 no difference) · 97 studies (32 causal, 28 associational, 22 quant-synthesis, 9 review, 4 design, 2 theoretical), `q1`–`q4` · 31 of 97 report an effect size · 142 claims rest on one study
+> **Evidence** · 148 claims (98 show a difference, 28 mixed, 22 no difference) · 98 studies (32 causal, 28 associational, 22 quant-synthesis, 10 review, 4 design, 2 theoretical), `q1`–`q4` · 31 of 98 report an effect size · 143 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -188,6 +188,7 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [The Test Dyslexic group made significant gains on irregular pseudoword reading accuracy in the SLRT-I, reaching the performance level of the non-dyslexic groups, unlike the Control Dyslexic group](../claims/slrt-irregular-pseudoword-accuracy-gains.md) [+M] — instruction changes it
 - [The Test Dyslexic group outperformed the Control Dyslexic group on the post-TOWRE L3 word decoding measures despite equivalent pretest performance, but did not catch up with either nondyslexic group](../claims/towre-posttest-dyslexic-outperformed-control.md) [~M] — instruction changes it
 - [17 of 28 correlational studies reported significant correlations between phonological/phonemic awareness skills and reading comprehension in deaf readers](../claims/pa-ps-correlations-reading-comprehension-deaf.md) [~M] — learners who differ on it differ in outcomes
+- [Later introduction of exceptions improves category learning, suggesting delayed teaching of exception words may aid decoding](../claims/late-exception-introduction-benefits.md) [+W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

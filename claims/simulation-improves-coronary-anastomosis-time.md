@@ -50,3 +50,5 @@ Random-effects meta-analysis of six studies (eleven groups) comparing time to co
 - [Simulation improves trainee scores on individual technical subtasks of coronary anastomosis](simulation-improves-anastomosis-subtask-scores.md) — related
 - [Coronary anastomosis simulation training is associated with higher objective skill scores than no formal simulation training](simulation-improves-coronary-anastomosis-skill-score.md) — related
 - [Surgeons trained on the dVSS tubes task were significantly faster at creating vesicourethral anastomosis than untrained controls, with no other differences](wang-dvss-training-faster-anastomosis.md) — a narrower finding that bears on this claim
+- [Mean anastomosis completion time decreased significantly after training, with significant reductions among second- and third-year residents](anastomosis-completion-time-reduction-pgy2-3.md) — a narrower finding that bears on this claim
+- [Simulation-based training with a leakage-testing vascular anastomosis model reduced severe leakage (Grade 3) from 69.3% to 28.1% among surgical residents](leakage-grade3-reduction-vascular-anastomosis-simulation.md) — related

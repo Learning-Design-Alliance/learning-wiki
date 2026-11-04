@@ -55,3 +55,4 @@ The review reports, citing Huxham et al. (2012), a comparison of student anxiety
 - [Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects](higher-anxiety-is-associated-with-smaller-testing-effects.md) — related
 - [Students performed better on oral measures than written measures in comparison studies](students-perform-better-oral-than-written.md) — related
 - [Moving oral assessments online reduced required support staff hours from almost 8 days to 3 days](online-oral-assessments-reduced-staff-hours.md)
+- [Bulgarian students more frequently preferred oral examinations while international students preferred practical and test-based assessments, and staff predominantly favored test-based examinations](assessment-format-preferences-differ-by-group.md) — related

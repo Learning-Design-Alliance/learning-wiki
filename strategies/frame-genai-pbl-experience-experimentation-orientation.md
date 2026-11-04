@@ -44,6 +44,7 @@ The authors recommend supporting history-taking from genAI-enabled virtual patie
 - [Design future AI curricula to fit the school day, centering student and teacher needs for K-12 in-person and virtual learning](design-recommendations-future-k12-ai-curricula.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Use speech-enabled GenAI standardized patients as a low-stakes practice venue for customer discovery interviews](genai-sp-low-stakes-customer-discovery-practice-strategy.md)
+- [Pair AI-supported PBL sessions with brief learner orientation and a short postsession debrief](brief-orientation-and-debrief-for-ai-pbl.md)
 
 ## Examples
 -

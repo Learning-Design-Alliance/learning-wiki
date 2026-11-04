@@ -61,3 +61,4 @@ The review summarizes Offner's analysis of factors other than fatigue that condi
 - [Addition efficiency drops sharply from the first to the second two-minute period, indicating initial spurt](initial-spurt-in-addition-two-minute-periods.md) — a narrower finding that bears on this claim
 - Prior initial-spurt experiments failed because test periods were too lengthy and subjects too few — related
 - [General skill learning appears to occur during rest periods, but fatigue release cannot be excluded as an explanation](general-skill-learning-offline-fatigue-caveat.md) — a narrower finding that bears on this claim
+- [The VR group scored significantly lower than controls at week 2, reflecting an initial learning curve with the VR system](vr-initial-learning-curve-week-2.md) — a narrower finding that bears on this claim

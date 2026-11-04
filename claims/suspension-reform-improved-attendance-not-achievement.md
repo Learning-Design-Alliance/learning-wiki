@@ -51,3 +51,4 @@ Difference-in-differences analysis of the Philadelphia discipline reform reports
 - [In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased](partial-implementation-schools-peer-outcomes-declined.md) — related
 - [Peer outcomes following a district suspension reform varied with school-level implementation](school-level-implementation-moderates-discipline-reform-peer-effects.md) — related
 - [District policies discouraging suspensions show mixed effects: shortened suspensions were associated with improved attendance but worse school climate](discipline-policy-changes-mixed-effects.md) — related
+- [Approximately half of students reported attending all lectures, with attendance of dental-discipline lectures more common among international students](dental-lecture-attendance-half-report-full-attendance.md) — related

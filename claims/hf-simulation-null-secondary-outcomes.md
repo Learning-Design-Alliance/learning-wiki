@@ -79,3 +79,4 @@ Retention analysis of four RCTs measuring knowledge three months after training.
 - [Teamwork training interventions produce significant positive effects on teamwork behaviors in controlled studies](teamwork-training-improves-teamwork-behaviors.md) — related
 - [High-fidelity simulation yields higher student satisfaction and self-confidence in learning than low-fidelity models](hfs-3d-printer-moulage-higher-satisfaction-selfconfidence.md) — reports the opposite
 - [Nursing students report high satisfaction and self-confidence after hybrid simulation training](high-satisfaction-self-confidence-hybrid-simulation-nursing.md) — related
+- [Simulation alone significantly improves satisfaction and self-confidence within both groups regardless of feedback condition](simulation-alone-improves-satisfaction-both-groups.md) — reports the opposite

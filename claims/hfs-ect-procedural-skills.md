@@ -78,3 +78,4 @@ Block-RCT with 35 psychiatry residents assigned to SIM-ECT (n = 18) or tradition
 - [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](hf-simulation-null-secondary-outcomes.md) — related
 - [High-fidelity simulation yields higher stoma care skill scores than low-fidelity static models](hfs-3d-printer-moulage-higher-stoma-skills.md) — related
 - [Nursing students report high satisfaction and self-confidence after hybrid simulation training](high-satisfaction-self-confidence-hybrid-simulation-nursing.md) — related
+- [Simulation alone significantly improves satisfaction and self-confidence within both groups regardless of feedback condition](simulation-alone-improves-satisfaction-both-groups.md) — reports the opposite

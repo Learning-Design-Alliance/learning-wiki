@@ -53,3 +53,4 @@ Thematic synthesis (Section 4.2). The review reports that "AI systems are capabl
 - Predicting student outcomes was a common AIEd use in higher education, with ten studies predicting academic performance — possibly the same claim (merge candidate)
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
 - [Early warning and proactive support agents are associated with reported retention and grade improvements in institutional deployments](early-warning-agents-retention-gains.md) — related
+- [Learning analytics and predictive modeling enable institutions to monitor learner progression, identify at-risk learners, and optimize curriculum](learning-analytics-monitor-risk-optimize-curriculum.md) — possibly the same claim (merge candidate)

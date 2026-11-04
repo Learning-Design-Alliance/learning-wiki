@@ -55,3 +55,4 @@ Cross-case qualitative finding (RQ2-3) from documents, interviews, and cognitive
 - [LO assessment supported by CA tools prompted faculty toward more authentic, participatory, and reflective teaching practices](ca-assessment-prompts-authentic-reflective-teaching.md) — related
 - [Field Test II with students should not be implemented until Field Test I evaluation yields a go decision on staff competencies](sequential-field-testing-go-no-go.md) — related
 - [Faculty organized EdTech integration decisions in ways aligned with the principles](dexter-2023-faculty-decisions-aligned-principles.md) — related
+- [Participants identify skilled facilitation, curriculum integration, institutional support, and simulation's safe learning environment as enablers of sim-IPE](sim-ipe-implementation-enablers.md) — related

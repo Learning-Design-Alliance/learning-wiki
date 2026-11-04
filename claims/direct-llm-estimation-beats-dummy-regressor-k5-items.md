@@ -75,3 +75,4 @@ Reading holdout results for the direct approach (GPT-4o 1-100 ratings, standardi
 - [Zero-shot LLMs perform only marginally above random in five-class competency classification but exceed 70% accuracy on binary classification](zero-shot-llm-granularity-competency-classification.md) — related
 - [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](llm-difficulty-magnitude-error-varies-across-models.md) — related
 - [Perceived task difficulty ratings show a strong relation to Rasch-estimated relative task difficulty, supporting construct validity of the single-item scale](perceived-task-difficulty-correlates-with-relative-task-difficulty.md) — related
+- [Angoff estimates correlated with observed item difficulty more strongly for LLMs than for faculty judges](llm-angoff-item-difficulty-correlation.md) — related

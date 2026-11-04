@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/worked-example-demonstrations-no-usability-impact.md
+---
+
+# Revision history: [claims/worked-example-demonstrations-no-usability-impact](../claims/worked-example-demonstrations-no-usability-impact.md)
+
+### 2026-11-04 · ingest · process:wiki-ingest
+Ingested from pmc-13545339 (Comparing the outcomes of the technology-enhanced learning of sectional anatomy with and without preceding demonstrations: A study about the worked-example effect in anatomy education.) via eval_harness.py + ingest_extractions.py

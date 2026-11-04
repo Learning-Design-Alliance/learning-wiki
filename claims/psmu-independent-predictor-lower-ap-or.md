@@ -50,3 +50,4 @@ Multivariate logistic regression in a cross-sectional study of 277 students acro
 - [PSMU shows a strong positive direct effect on academic performance decrement in one PLS-SEM study](psmu-direct-effect-academic-performance-decrement.md) — related
 - [PSMU mediated via technostress and exhaustion predicts academic performance decrement](psmu-technostress-exhaustion-mediation-apd.md) — related
 - [Multivariable regression confirms gender and university as independent predictors of knowledge score](regression-gender-university-predictors-knowledge-syria.md) — related
+- [Psychological symptom burden is independently and negatively associated with self-perceived academic performance](psychological-symptom-burden-negative-aps.md) — related

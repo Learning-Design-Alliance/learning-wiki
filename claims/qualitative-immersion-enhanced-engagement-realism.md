@@ -56,3 +56,5 @@ Semistructured interviews with all 54 experimental-group participants, analyzed 
 - [SVVR training produces greater gains in nurses' delirium care knowledge than noninteractive video education immediately after training and at 1-month follow-up](svvr-greater-delirium-knowledge-gains-than-video.md) — related
 - [Participant feedback yielded four central themes: engagement, clinical reasoning development, collaborative learning, and professional relevance](cbcl-feedback-four-themes-radiology-residency.md) — related
 - [Students perceive consequence-based virtual scenarios as developing real-time collaborative communication and shared decision-making](consequence-based-virtual-scenarios-collaborative-communication.md) — related
+- [Participants anticipate professional development and patient-level benefits from interprofessional learning](anticipated-benefits-ipe-pharmacy.md) — related
+- [Focus group interviews identified four user-experience themes: individualized learning, clinical reasoning engagement, educational applicability, and areas for improvement](vega-focus-group-four-themes.md) — related

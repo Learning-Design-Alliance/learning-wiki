@@ -69,3 +69,4 @@ Theoretical argument defining the three failure modes and mapping each onto dist
 - [The convenience and low opportunity cost of LLMs poses a risk of over-reliance, deskilling, and reduced judgment competence when learners outsource tasks that are essential learning opportunities.](llm-over-reliance-deskilling-risk.md) — related
 - [Procedural knowledge engaged through applying tasks is hypothesized to function as a cognitive bridge between domain-specific reasoning processes, pending empirical validation](procedural-knowledge-bridge-hypothesis.md) — related
 - [Engagement mode is orthogonal to instructional task: any task can be engaged at any of the four modes](engagement-mode-orthogonal-to-instructional-task.md) — related
+- [Endoscopist-level analysis showed mixed individual changes with no group-level upskilling or deskilling trend](endoscopist-level-mixed-changes-no-group-trend.md) — related

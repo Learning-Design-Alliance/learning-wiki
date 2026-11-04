@@ -70,3 +70,4 @@ Political-leanings comparison on the same pre/post HICCK measure: both liberals 
 - [Both groups improved significantly from pre-test to post-test with no pre-existing difference between them](significant-pre-post-gains-both-esp-groups.md) — related
 - [Classroom climate significantly improved for treatment classrooms and decreased in control classrooms according to both teachers and students.](rd-program-improved-classroom-climate.md) — related
 - [Within-group knowledge gains from pre-test to post-test are statistically significant in both the intervention and control groups](within-group-knowledge-gains-both-groups-immunohematology.md) — reports the opposite
+- [Knowledge scores increased in the intervention group but decreased in the control group over the study week](knowledge-gains-intervention-decline-control.md) — reports the opposite

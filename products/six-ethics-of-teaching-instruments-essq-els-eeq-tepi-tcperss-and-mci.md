@@ -27,7 +27,8 @@ A review-synthesized set of six self-report or peer-assessment instruments devel
 - [All 6 instruments received only moderate-quality GRADE evidence due to single-study evidence, limited cross-context validation, and absent temporal stability data](../claims/moderate-grade-evidence-ethics-teaching-instruments.md) [~M]
 
 ## Related Products and Programmes
--
+
+- [Teachers' Generative AI Pedagogical Judgment, Ethical Leadership, and Professional Agency Scale](teachers-generative-ai-pedagogical-judgment-ethical-leadership-and-professional-agency-sca.md)
 
 ## Key Sources
 - Chaimo Kesinee, Thanasilp Sureeporn. (2026). Psychometric properties of instruments assessing the ethics of teaching: a COSMIN-based systematic review. Journal of Educational Evaluation for Health Professions. https://doi.org/10.3352/jeehp.2026.23.12

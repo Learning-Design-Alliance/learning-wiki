@@ -30,6 +30,7 @@ Nie et al.'s 18-item five-dimension self-report scale measures higher education 
 - [44-item ethical GenAI use questionnaire](44-item-ethical-genai-use-questionnaire.md)
 - [Generative AI Student Feedback Literacy Scale (GenAI-SFLS)](generative-ai-student-feedback-literacy-scale-genai-sfls.md)
 - [Self-Directed Learning Readiness Scale (SDLRS)](self-directed-learning-readiness-scale-sdlrs.md)
+- [Teachers' Generative AI Pedagogical Judgment, Ethical Leadership, and Professional Agency Scale](teachers-generative-ai-pedagogical-judgment-ethical-leadership-and-professional-agency-sca.md)
 
 ## Key Sources
 - Nie J, Zhang Z, Lu X, Zhang Y and Zhang M (2026) Development and validation of the generative AI assessment literacy scale for higher education students: psychometric evidence and associations with feedback engagement and academic integrity. Front. Educ. 11:1934632. https://doi.org/10.3389/feduc.2026.1934632

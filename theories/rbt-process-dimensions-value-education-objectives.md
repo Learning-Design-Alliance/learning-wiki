@@ -48,6 +48,7 @@ The article adopts Anderson and Krathwohl's (2001) Revised Bloom's Taxonomy, in 
 - [Bloom-level mapping of exercise difficulty levels in AI exercise generation](../designs/bloom-mapped-exercise-difficulty-generation.md)
 - [Use Bloom's taxonomy to convert lower-order questions into higher-order questions in faculty training](../strategies/blooms-taxonomy-question-conversion-training.md)
 - [Use a low-threshold online training plus a SMART template to prepare students for self-created learning outcomes](../strategies/famuplus-online-training-smart-template-strategy.md)
+- [Educational objectives for a dietary oral health curriculum organized according to Bloom's knowledge and cognitive process dimensions](../designs/bloom-organized-dietary-oral-health-objectives.md)
 
 ## Key Sources
 - Sankaranarayanan Paleeri. (2014). Setting Objectives of Value Education in Constructivist Approach in the Light of Revised Blooms Taxonomy (RBT). i-manager's Journal of School Educational Technology. https://www.imanagerpublications.com

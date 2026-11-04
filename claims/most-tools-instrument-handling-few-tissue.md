@@ -65,3 +65,4 @@ The review's abstract states "Only three studies evaluated tissue handling skill
 ## Related Claims
 - [A total of 2618 surgical residents were trained and assessed using data-driven assessment tools across the 35 included studies](2618-residents-trained-data-driven-assessment.md) — related
 - [Only 35 of 2814 identified studies describe data-driven assessment tools implemented in laparoscopic skills training curricula for surgical residents](35-of-2814-studies-data-driven-assessment-curricula.md) — related
+- [Specific OSATS elements — gentleness, instrument handling, tissue exposure, and the summary score — significantly predict grade B/C delayed gastric emptying](osats-elements-gentleness-instrument-tissue-predict-dge.md) — related

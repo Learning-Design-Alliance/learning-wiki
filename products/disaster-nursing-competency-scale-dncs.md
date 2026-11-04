@@ -26,7 +26,8 @@ The DNCS is a 50-item Likert self-assessment developed by Hu for measuring under
 - [All three groups showed significant within-group improvement in disaster nursing competency regardless of instruction type](../claims/within-group-competency-improvement-all-groups.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Nurse Competence Scale (NCS)](nurse-competence-scale-ncs.md)
 
 ## Key Sources
 - Li P, Taoyu J, Yaxin L, Xiao-li P, Muzi L, Haoying D. (2026). Evaluation of the Bridge-in, Objective, Preassessment, Participatory Learning, Postassessment, and Summary–Based Instructional Model in Disaster Nursing: Quasi-Experimental Study. JMIR Medical Education. https://doi.org/10.2196/77728

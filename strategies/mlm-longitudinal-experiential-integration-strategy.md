@@ -49,6 +49,7 @@ The review recommends embedding MLM as a longitudinal, explicitly structured com
 - [Design RaT programs as longitudinal, integrated curricula with structured instruction, direct practice, formative feedback, and ongoing coaching](longitudinal-integrated-rat-program-design.md)
 - [Evaluate and assess experiential learning modules longitudinally to build pre-service teachers' pedagogical skills](longitudinal-evaluation-of-elt-engineering-modules.md)
 - [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
+- [Integrate mandatory, longitudinal mental health literacy, self-care and reflective practice curricula throughout medical education rather than as isolated end-of-programme options.](longitudinal-mental-health-curriculum-medical-education.md)
 
 ## Examples
 -

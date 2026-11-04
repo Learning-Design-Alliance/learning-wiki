@@ -52,3 +52,4 @@ The review's synthesis of 99 included studies reports that "simulation-based tra
 - [Skill retention after neuraxial technical training tends to decline over time](skill-retention-declines-after-neuraxial-training.md) — related
 - Most identified training and assessment studies are of low methodological quality — related
 - [Simulation training for ultrasound‐guided regional anaesthesia most often shows significant improvement at Kirkpatrick level 2 outcomes](usra-simulation-improves-kirkpatrick-level-2.md) — related
+- [Stepwise CBME training improves multiple secondary outcome measures across all three training stages](stepwise-cbme-improves-secondary-outcomes.md) — related

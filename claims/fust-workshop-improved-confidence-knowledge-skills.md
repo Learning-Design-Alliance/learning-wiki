@@ -49,3 +49,4 @@ Before–after quasi-experimental study (Lazzarini et al., as charted in Table 1
 - [3D printed foot models produced similar anxiety and confidence changes to standard teaching and increased self-confidence and task self-efficacy in scalpel skill practice](3d-printed-foot-models-scalpel-skills.md) — related
 - [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related
 - [A pilot RCT found simulation workshop participants 16 times more likely to be assessed as competent in debridement skills and more confident than controls](simulation-workshop-debridement-competence-confidence.md) — related
+- [Simulator practicals increased student confidence in practical skills](simulator-practicals-increase-practical-skills-confidence.md) — related

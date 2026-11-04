@@ -40,7 +40,8 @@ The authors' development model combining the ADDIE instructional design model (A
 - 
 
 ## Related Designs
-- 
+
+- [ADDIE instructional design model guiding the phased development of an AI-based learning tool](addie-model-guided-vega-development.md)
 
 ## Examples
 -

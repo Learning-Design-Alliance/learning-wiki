@@ -62,3 +62,4 @@ The review's synthesis of 15 included studies (two RCTs, one quasi-experimental,
 - [Non-randomized and pre/post-test studies broadly support simulation training benefits for attitudes, skills, knowledge and behaviors, though subject to natural learning effects](simulation-nonrct-ppt-narrative-support.md) — a broader claim this one bears on
 - [Team training programs in hospitals produce sustained improvements in teamwork knowledge, skills, attitudes, and behaviors on the job, up to 12 months after training](team-training-sustained-ksa-transfer-hospitals.md) — related
 - [Students perceive personalised simulation with adaptive scenario complexity and targeted role allocation as supporting professional confidence and role development](personalised-simulation-confidence-role-development.md) — related
+- [Participants anticipate professional development and patient-level benefits from interprofessional learning](anticipated-benefits-ipe-pharmacy.md) — related

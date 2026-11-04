@@ -48,3 +48,4 @@ Formative usability evaluation of a telemedicine maternal care simulation with 1
 - [Ambiguous rubric language prevented scoring of 3 tasks in round 1; language revision restored scorability, while testers overlooked telemedicine-specific tasks](rubric-language-revision-restored-scoring.md) — related
 - [Adapted SUS scores indicated above-average usability, with the round 2 median of 77.5 exceeding the industry average of 68](sus-median-77-5-above-average-usability.md) — a narrower finding that bears on this claim
 - [The virtual physical examination was the most difficult simulation step, receiving the lowest Single Ease Question rating (median 4.50)](seq-virtual-physical-exam-hardest-step.md) — a narrower finding that bears on this claim
+- [During initial testing, issues were identified in 9 of 40 simulations, generally minor, and testers still rated the simulator favourably](initial-testing-minor-issues-9-of-40.md) — related

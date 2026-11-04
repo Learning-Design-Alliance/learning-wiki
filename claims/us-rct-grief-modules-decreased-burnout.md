@@ -49,3 +49,4 @@ The review reports a US randomized controlled trial (cited as reference 34, Medi
 - [In a Danish RCT, trained physicians identified more cases of complicated grief and prescribed fewer psychotropic drugs than untrained control physicians](danish-rct-grief-training-more-identification-fewer-psychotropics.md)
 - [In a Spanish RCT, widows whose family physician was trained in bereavement care experienced poorer emotional outcomes than widows in the control group](spanish-rct-bereavement-training-poorer-widow-outcomes.md)
 - [Grief training outcomes were usually measured by immediate self-assessment showing increased knowledge and comfort, with few studies measuring patient care, physician well-being or longitudinal effects](grief-training-outcomes-self-assessed-few-longitudinal.md) — related
+- [Emotional exhaustion and depersonalization show no significant bivariate correlation with patient safety competency](burnout-dimensions-null-bivariate-psc.md) — related

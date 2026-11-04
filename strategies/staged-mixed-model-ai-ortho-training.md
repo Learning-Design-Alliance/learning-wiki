@@ -47,6 +47,8 @@ The review recommends a staged approach to AI integration in orthopaedic educati
 
 - [Phased implementation of AI in nursing education: simulation for emergency care, adaptive platforms for at-risk learners, automated formative feedback, and multi-site pilots](phased-ai-implementation-nursing-education-strategy.md)
 - [Implement AI-assisted report feedback through a four-stage phased pathway beginning with mature low-level tools](phased-four-stage-ai-feedback-implementation.md)
+- [Longitudinal integration of AI literacy competencies across all phases of medical education](longitudinal-ai-literacy-curriculum-integration.md)
+- [Implement progressive and layered simulation training across career stages for paediatric surgery nurses](progressive-layered-simulation-training-career-stages.md)
 
 ## Examples
 -

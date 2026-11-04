@@ -32,7 +32,8 @@ A 23-item Chinese-language Likert questionnaire adapted by Liu (2016) from Noels
 - [An SDT-based questionnaire yields seven distinct, reliable motivation subtypes for Chinese college ESP learners](../claims/sdt-seven-factor-esp-motivation-structure.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Systems Thinking Scale (20-item, Chinese validated version)](systems-thinking-scale-20-item-chinese-validated-version.md)
 
 ## Key Sources
 - Liu, L. (2016). Why Do Chinese College Students Learn ESP: An Analysis of Language Learning Motivations within SDT Framework. English Language Teaching, 9(4). https://doi.org/10.5539/elt.v9n4p92

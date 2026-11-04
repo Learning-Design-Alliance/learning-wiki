@@ -48,3 +48,4 @@ Review synthesis of two studies (Oliveira et al.; Carter et al.) comparing profe
 - [Nurses show a steep learning curve after initial USG-PVC training, reaching over 70% success probability after four to nine real-world attempts](steep-learning-curve-usg-pvc-nurses-attempts.md) — related
 - [Ultrasound guidance improves PVC placement outcomes versus conventional methods primarily in DIVA patients](ultrasound-guidance-improves-pvc-outcomes-diva.md) — related
 - [Systematic reviews suggest nurse-led services achieve outcomes at least as good as traditional physician-led models, with some evidence of cost-effectiveness](nurse-led-services-outcomes-at-least-as-good.md) — related
+- [Physicians and nurses had significantly higher odds of high knowledge-based BLS competency than technicians and other clinical staff.](physicians-nurses-higher-bls-competency-than-technicians.md) — related

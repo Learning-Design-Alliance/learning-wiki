@@ -45,7 +45,8 @@ Personalisation of instruction is an instructional design in which problem conte
 - [Personalisation Significant On Each Attitude Subscale](../claims/personalisation-significant-on-each-attitude-subscale.md) [+M]
 
 ## Related Designs
-- 
+
+- [Personalised feedback as individualised, performance-specific information across cognitive, psychomotor and affective domains](personalised-feedback-individualised-performance-specific-information.md)
 
 ## Examples
 -

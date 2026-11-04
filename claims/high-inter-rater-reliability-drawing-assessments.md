@@ -52,3 +52,4 @@ Reliability analysis of the six blinded evaluators' scores in the randomized cro
 - [AI grading of the exam is highly stable across five independent runs at the total-score level (ICC(A,1) = 0.967), with lower but still strong cell-level stability (ICC(A,1) = 0.836)](ai-grading-run-to-run-reliability-icc.md) — related
 - [Expert graders show high agreement among themselves when scoring a written exam on first degree equations](expert-inter-rater-agreement-high-written-exam.md) — related
 - [TBDM was associated with a higher total drawing score than TMBM, with an adjusted mean difference of 11.96 points](tbdm-higher-total-drawing-score.md) — related
+- [CAR 1.0 achieved good to excellent inter-rater reliability across all five key components (α = 0.836 to 0.973)](car-1-0-cronbach-alpha-reliability.md) — related

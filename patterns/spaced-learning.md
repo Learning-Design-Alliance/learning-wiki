@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 85 claims (34 for, 46 mixed, 5 against) · 63 studies (33 causal, 13 review, 7 quant-synthesis, 3 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 15 of 63 report an effect size · 80 claims rest on one study
+> **Evidence** · 86 claims (34 for, 47 mixed, 5 against) · 64 studies (33 causal, 14 review, 7 quant-synthesis, 3 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 15 of 64 report an effect size · 81 claims rest on one study
 
 ## Description
 
@@ -163,6 +163,7 @@ The examples are local design instances, not additional observations from those 
 - [ARTS's efficiency advantage over the Atkinson algorithm persists at one-week delayed post-test](../claims/arts-efficiency-advantage-persists-delayed-test.md) [+W]
 - [ARTS yields higher post-test accuracy than the Atkinson algorithm apart from trials invested](../claims/arts-higher-posttest-accuracy-than-atkinson.md) [+W]
 - [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](../claims/jigsaw-followup-decline-no-between-group-difference.md) [~W]
+- [Blocked versus interleaved GPC practice showed no clear difference in first-grade test performance](../claims/blocked-interleaved-gpc-null.md) [~W]
 
 ## Examples
 - [Memdora collaborative deck layer](../designs/memdora-collaborative-deck-layer.md) — a teacher's shared deck updates for all followers while each learner's spacing stays individual

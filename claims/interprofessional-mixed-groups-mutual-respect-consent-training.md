@@ -66,3 +66,5 @@ Theme from the same focus group thematic analysis with intervention participants
 - [Control facilitators reported role ambiguity while intervention facilitators did not.](control-facilitators-role-ambiguity.md) — related
 - [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related
 - [Among 98 students providing written suggestions, the most frequent improvement themes were interdisciplinary case teaching (28.6%) and emergency care training (26.5%)](student-suggested-improvements-five-themes.md) — related
+- [Participants anticipate professional development and patient-level benefits from interprofessional learning](anticipated-benefits-ipe-pharmacy.md) — a broader claim this one bears on
+- [The collaborative model shows no significant effect on inter-professional teamwork competence or transformative learning readiness](fsph-3d-model-no-effect-teamwork-transformative-learning.md) — related

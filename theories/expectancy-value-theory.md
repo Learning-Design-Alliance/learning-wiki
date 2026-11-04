@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 57 claims (34 for, 22 mixed, 1 against) · 42 studies (19 causal, 9 associational, 6 review, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 11 of 42 report an effect size · 56 claims rest on one study
+> **Evidence** · 58 claims (35 for, 22 mixed, 1 against) · 43 studies (20 causal, 9 associational, 6 review, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 12 of 43 report an effect size · 57 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -116,6 +116,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Perceived task value of LQ-type training increased significantly in the intervention group (d = 0.55) with a large gain-score difference between groups (d = 1.24)](../claims/lq-workshop-increased-task-value.md) [+W] — attached 2026-11-03 from Talvio et al. (2015), which proposed "Expectancy-value theory as a framework for understanding teacher motivation to attend and apply SEL training".
 - [Most first-year students expect a lower degree grade than they hope for, and few cite ability as key to success](../claims/student-grade-expectations-and-success-attributions.md) [~W]
 - [Radiology-specialized trainees report substantially higher perceived utility value of the simulation than laboratory-specialized trainees](../claims/radiology-trainees-report-higher-utility-value.md) [~W]
+- [Perceived educational value and anticipation of anaphylaxis correlate weakly but significantly with objective VR performance](../claims/perceived-value-anticipation-correlate-performance.md) [+W]
 
 ## Related Theories
 

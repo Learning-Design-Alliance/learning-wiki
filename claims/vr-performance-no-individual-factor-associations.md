@@ -1,0 +1,49 @@
+---
+type: claim
+title: VR simulation performance shows no significant association with prior VR experience, age, gender, or professional background
+description: VR simulation performance shows no significant association with prior VR experience, age, gender, or professional background
+id: vr-performance-no-individual-factor-associations
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: weak
+newest_evidence: 2026
+sources:
+  - id: giese-julian-2026
+    resource: "https://doi.org/10.1038/s41598-026-69133-x"
+    title: "Giese Julian, Ehlers Jan P., Weichert Olaf, Nitsche Julia. (2026). Effect of repeated exposure to an identical multi-user virtual reality anaphylaxis scenario on paramedic trainee performance: a randomized controlled trial. Scientific Reports. https://doi.org/10.1038/s41598-026-69133-x"
+    author: Giese Julian, Ehlers Jan P., Weichert Olaf, Nitsche Julia
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 1
+---
+
+# VR simulation performance shows no significant association with prior VR experience, age, gender, or professional background
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` No significant associations were found between VR simulation performance and prior VR experience, age, gender, or professional background. [→ Giese Julian 2026](#giese-julian-2026)
+
+## Evidence
+
+### Giese Julian 2026
+
+Giese Julian, Ehlers Jan P., Weichert Olaf, Nitsche Julia. (2026). Effect of repeated exposure to an identical multi-user virtual reality anaphylaxis scenario on paramedic trainee performance: a randomized controlled trial. Scientific Reports. https://doi.org/10.1038/s41598-026-69133-x
+
+`q3 · i?` · `associational · r1`
+
+Exploratory secondary analysis in the RCT examining whether individual participant characteristics modulate performance outcomes; the article reports no significant associations for any assessed factor.
+
+> "No significant associations were found between VR simulation performance and prior VR experience, age, gender, or professional background."
+
+## Discussion
+
+
+## Related Claims
+- [The simulation advantage and interest differences hold across subgroups of age, gender, school form, and grade](no-subgroup-differences-method-comparison.md) — related
+- [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related

@@ -28,6 +28,7 @@ The review organizes the 20 unique AI-SSP systems by their primary intended use 
 ## Related Research Methods
 
 - [Eight-category taxonomy of AI technologies in elementary STEM education](eight-category-taxonomy-of-ai-technologies-in-elementary-stem-education.md)
+- [Four-domain taxonomy organizing AI applications in medical education](four-domain-taxonomy-organizing-ai-applications-in-medical-education.md)
 
 ## Key Sources
 - Zhang Wenjia (Stella), Daniels Benjamin B, Mita Carol, Nguyen Hoang, Duong David B. (2026). AI for Clinical Competency Assessment: Scoping Review of Methods and Applications. JMIR Medical Education. https://doi.org/10.2196/92826

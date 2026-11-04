@@ -52,3 +52,4 @@ Comparison of Affinity for Technology Interaction scores (German ATI scale) acro
 - [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](affinity-propagation-six-cluster-solution.md)
 - [Text reproducers copied nearly all of their final text from ChatGPT with long verbatim sequences, while text integrators showed fragment-level micro-uptake](text-reproducers-near-verbatim-copying.md) — related
 - [Clusters did not differ significantly in the number of prompts sent to ChatGPT](clusters-no-difference-in-prompt-count.md) — related
+- [Technological affinity shows no association with learning outcomes in either instructional mode](tech-affinity-no-association-outcomes.md) — related

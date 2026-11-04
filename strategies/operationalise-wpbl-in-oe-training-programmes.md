@@ -45,6 +45,7 @@ The review's top policy recommendation in table 4 is to "Explore approaches to o
 ## Related Strategies
 
 - [Simulation Based Training](simulation-based-training.md)
+- [Incorporate obstetric emergency simulation modules with structured personalised feedback into critical care nursing programmes](obstetric-emergency-simulation-personalised-feedback-critical-care.md)
 
 ## Examples
 -

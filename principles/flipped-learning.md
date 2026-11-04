@@ -279,6 +279,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [OCW-integrated flipped classroom: pre-class self-study of open course materials followed by in-class collaborative group learning with TA support](../designs/ocw-flipped-classroom-two-stage-design.md)
 - [Adopt the flipped classroom gradually: start small, front-load video preparation, gather student feedback, and scale up as comfort grows](../strategies/gradual-flipped-classroom-adoption-strategy.md)
 - [Use pre-session readiness materials and MCQ self-assessment to shift content acquisition out of class time](../strategies/cbcl-pre-session-readiness-strategy.md)
+- [Use AI-generated vignette item sets for post-lecture review and preclinical preparation](../strategies/vega-preclinical-preparation-strategy.md)
 
 ### Illustrative
 

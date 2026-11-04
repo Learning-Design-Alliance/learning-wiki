@@ -48,3 +48,4 @@ Open-ended questionnaire item on whether TTs would recommend their US: 98% of ex
 - [Teacher trainees who experienced the Clinical Supervision Model rated their university supervisors significantly higher than trainees under the traditional system](csm-higher-tt-supervisor-satisfaction.md) — related
 - [Experimental-group trainees reported more frequent observations and more systematic, adequate feedback than control-group trainees](csm-more-observations-feedback.md) — related
 - [Cooperating teachers who experienced the Clinical Supervision Model rated their university supervisors significantly higher than cooperating teachers under the traditional system](csm-higher-ct-supervisor-satisfaction.md) — related
+- [Preceptor shortages leave pharmacy students on wards without supervision or feedback](preceptor-shortages-unsupervised-wards.md) — related

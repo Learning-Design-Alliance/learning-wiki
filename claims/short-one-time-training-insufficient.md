@@ -47,3 +47,4 @@ Authors' interpretation (type e) from the Conclusion and Discussion sections, no
 ## Related Claims
 - [Conflict resolution skills training produced no statistically significant change in college students' conflict handling styles on any of the five MODE subscales](conflict-training-no-change-handling-styles.md) — related
 - [The authors interpret the null between-group result as reflecting the program's short duration and students' lack of experience with critical thinking tasks](mbsep-short-duration-interpretation.md) — related
+- [Insufficient session time and large group size were the main reported limitations](insufficient-time-and-group-size-limitations.md) — related

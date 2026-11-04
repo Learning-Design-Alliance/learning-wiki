@@ -50,3 +50,4 @@ LLM comparative testing conducted during the system-wide RAG optimization. The a
 - [GPT-4o-mini natural language feedback was overwhelmingly helpful and never harmful in quality annotation](nl-feedback-quality-92-percent-helpful.md) — related
 - [Optimal RAG configuration differs by discipline: STEM subjects perform best with 512-character chunks and temperature 0.3 (faithfulness 0.97), while humanities require 1000-character chunks and temperature 0.1 (context recall 1.00, faithfulness 0.98)](rag-configuration-discipline-dependent-moodle-tutor.md) — related
 - [Running the Socrates playground and grader incurred low cost, with even gpt-4o consuming only $169.90](socrates-low-operational-cost.md) — related
+- [Reasoning models performed best for case generation but were unsuitable for real-time patient simulation due to long response latency](reasoning-models-latency-unsuitable-simulator.md) — related

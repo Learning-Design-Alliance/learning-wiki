@@ -53,3 +53,4 @@ Randomised study of 31 medical and biomedical students comparing an AR app (Grey
 - [Improvements in objective knowledge outcomes (Kirkpatrick Level 2) from technology-enhanced learning were inconsistent across neuroanatomy interventions](tl-neuroanatomy-l2-knowledge-inconsistent.md) — a broader claim this one bears on
 - [Mind mapping significantly improves knowledge retention in neuroanatomy learning versus didactic lecture (Teli et al., 2020)](mind-mapping-neuroanatomy-knowledge-retention-teli.md) — related
 - [Extraneous load showed low internal consistency (α = 0.283), limiting its interpretability in this VR anatomy context](incarne-extraneous-load-poor-reliability.md) — related
+- [Preceding worked-example demonstrations increase knowledge gains in technology-enhanced learning of sectional anatomy among novice medical students](worked-example-demonstrations-increase-sectional-anatomy-knowledge-gains.md) — related

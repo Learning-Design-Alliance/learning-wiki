@@ -67,3 +67,5 @@ Internal consistency was examined using Cronbach's alpha. Values were acceptable
 - [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — a broader claim this one bears on
 - [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related
 - [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](self-developed-test-reliability-069.md) — related
+- [The CRCDCS demonstrated satisfactory internal consistency (α = 0.876; ω = 0.861) and test–retest reliability (ICC = 0.85, 95% CI: 0.82–0.91).](crcdc-reliability-alpha-omega-icc.md) — related
+- [The DKSCQ-N demonstrates high internal consistency (Cronbach's α = 0.906) and excellent test-retest stability (ICC = 0.829) over two weeks.](dkscqn-reliability-alpha-icc.md) — related

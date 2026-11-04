@@ -67,3 +67,4 @@ In the same stratified analysis, systems thinking improved significantly in both
 - [The QPS module significantly improves interns' self-assessed knowledge efficacy, with the largest gain in hospital error reporting knowledge](qps-module-improves-knowledge-efficacy.md) — related
 - [The QPS module significantly improves interns' overall systems thinking as measured by the Systems Thinking Scale](qps-module-improves-systems-thinking-sts.md) — related
 - [A structured Quality and Patient Safety module significantly improves medical interns' knowledge test scores across graduating cohorts](qps-module-improves-intern-knowledge-scores.md) — related
+- [Participation in patient safety training is associated with higher self-reported patient safety competency](safety-training-higher-psc.md) — related

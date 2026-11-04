@@ -54,6 +54,7 @@ The review recommends that, given pooled LLM accuracy of about 64%, dental educa
 - [Frame LLM use in biomedical education around low‐stakes formative tasks with expert‐guided verification and rationale requests](llm-low-stakes-formative-use-expert-verification-strategy.md)
 - [Use current LLMs in the notary domain only as supervised support tools in preliminary drafting or educational contexts](supervised-llm-support-preliminary-legal-drafting.md)
 - [Verify ChatGPT outputs against reliable resources and do not rely on it solely for high-stakes exam study](verify-chatgpt-outputs-high-stakes-exams.md)
+- [Use LLMs in supervised settings to generate formative question variants and structured self-assessments for surgical trainees, while guarding against knowledge miscalibration.](supervised-llm-formative-question-generation-surgical-training.md)
 
 ## Examples
 -

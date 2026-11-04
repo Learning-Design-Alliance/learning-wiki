@@ -49,3 +49,4 @@ The review reports that "virtual learning environments and distance education mo
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
 - [Adult learners perceive immersive game-based platforms and interactive AI interfaces as effective mediums for enhancing learner-AI artifact-mediated interaction](immersive-platforms-interactive-interfaces-artifact-mediated.md) — related
+- [AI applications in clinical education enhance learner engagement, flexibility, feedback, and objective competency assessment](ai-enhances-engagement-feedback-assessment-clinical-education.md) — related

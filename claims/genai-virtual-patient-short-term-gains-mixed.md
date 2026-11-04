@@ -133,3 +133,5 @@ The review reports countervailing findings in the same category, including that 
 - [Virtual simulation fosters clinical reasoning and psychomotor skills in a safe, realistic environment with immediate feedback](virtual-simulation-safe-environment-immediate-feedback-claim.md) — related
 - [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — a narrower finding that bears on this claim
 - [LLM-VSP self-practice improves medical history-taking performance in matched comparison (Cohen d=0.52)](llm-vsp-improves-history-taking-matched.md) — a narrower finding that bears on this claim
+- [The collaborative model improves medical interns' doctor-patient communication ability](fsph-3d-model-improves-doctor-patient-communication.md) — related
+- [The authors conclude the LLM-based simulator may be an accessible, cost-effective tool for clinical reasoning training, pending validation with objective outcomes](llm-simulator-accessible-cost-effective-pending-validation.md) — related

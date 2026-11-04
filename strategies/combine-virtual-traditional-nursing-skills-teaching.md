@@ -46,6 +46,7 @@ The article recommends using both delivery modes together rather than choosing o
 - [Integrate complementary methods — simulations, feedback, and targeted tools — into mental health nurse training and assessment](integrate-simulations-feedback-targeted-tools-mhn-assessment.md)
 - [Blend e-delivered theoretical content with face-to-face practice to develop student teachers' teaching skills](blend-elearning-with-classroom-practice-strategy.md)
 - [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
+- [Combine knowledge-based BLS instruction with hands-on and simulation-based training.](combine-knowledge-instruction-with-simulation-bls.md)
 
 ## Examples
 -

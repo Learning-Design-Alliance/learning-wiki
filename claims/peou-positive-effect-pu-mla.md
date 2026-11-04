@@ -49,3 +49,4 @@ SEM path analysis reports that "the relationship among PEOU and PU states the si
 - [Perceived usefulness and perceived ease of use both significantly predict behavioral intention to use m-learning apps outside the classroom](pu-peou-predict-behavioral-intention.md) — related
 - [Perceived usefulness partially mediates the effect of perceived ease of use on behavioral intention to use m-learning apps](pu-partially-mediates-peou-bi.md) — related
 - [Perceived usefulness and perceived ease of use are direct significant predictors of intention to use mobile library applications](pu-peou-predict-intention-mobile-library-apps.md) — related
+- [TAM analysis found perceived usefulness predicted behavioral intention and fidelity was associated with behavioral intention only among health professionals](tam-fidelity-motivates-experienced-clinicians.md) — related

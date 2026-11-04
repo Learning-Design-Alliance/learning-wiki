@@ -72,3 +72,4 @@ The review asserts, citing Kruger and Dunning (1999), that "strong reliance on o
 - [Online genre knowledge shapes credibility expectations and guides credibility evaluations](online-genre-knowledge-shapes-credibility-evaluations.md) — related
 - [Gaps in source knowledge hinder source-credibility judgments, particularly inferences about benevolence](source-knowledge-gaps-hinder-benevolence-judgments.md) — related
 - [Misconceptions were addressed in nine reviewed articles, all in science, via augmented activation, refutation texts, or analogical reasoning, though one study found activating inaccurate information may not be detrimental](misconception-addressing-techniques-science-review.md) — related
+- [Nurses who reported a need for further PICC care training scored higher on knowledge, possibly reflecting reverse causation consistent with the Dunning–Kruger effect](training-need-positive-association-dunning-kruger.md) — a narrower finding that bears on this claim

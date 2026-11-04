@@ -44,6 +44,7 @@ The authors propose concrete integration mechanisms for the identified requireme
 
 - [Domain-adapt RAG pipelines for mathematical education via entity recognition, notation-aware retrieval, and pedagogical re-ranking](domain-adapted-rag-for-mathematical-education.md)
 - [Refine LLM feedback prompts and adopt RAG to reduce verbosity and align feedback with course content](refine-llm-prompts-rag-reduce-verbosity.md)
+- [Augment LLMs with retrieval-augmented generation using authoritative subspecialty resources to address remaining knowledge gaps on board-style examinations.](rag-subspecialty-resources-llm-knowledge-gaps.md)
 
 ## Examples
 -

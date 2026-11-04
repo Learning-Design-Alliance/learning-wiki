@@ -47,3 +47,4 @@ Theoretical assertion from the article's review of self-regulation methods, attr
 ## Related Claims
 - [Adults with ADHD report deficient emotional self-regulation symptoms far more frequently than adults without ADHD](desr-more-frequent-in-adhd-adults-than-controls.md) — related
 - [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](inverted-u-arousal-executive-function.md) — related
+- [Students identify communication and emotional regulation as their main weaknesses and teamwork as a strength after simulation](simulation-self-assessment-weaknesses-strengths.md) — related

@@ -48,6 +48,7 @@ For live surgery, the review describes feedback facilitated by review of a video
 ## Related Strategies
 
 - [Analyzing Video Replays](analyzing_video_replays.md)
+- [Use post-operative OSATS video review and feedback sessions in surgical training programs while automated video analysis is not yet available](postoperative-osats-video-review-feedback-sessions.md)
 
 ## Examples
 -

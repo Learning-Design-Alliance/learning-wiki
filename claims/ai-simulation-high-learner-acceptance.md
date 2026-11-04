@@ -59,3 +59,4 @@ Synthesis of acceptance evidence from 8 studies using standardized instruments (
 - [Virtual simulations for SUD training show good acceptance rates from learners](vp-sud-simulations-good-learner-acceptance.md) — related
 - [93% of students rated usability and control as important to their learning](usability-and-control-rated-important-by-93-percent.md) — a narrower finding that bears on this claim
 - [Adapted SUS scores indicated above-average usability, with the round 2 median of 77.5 exceeding the industry average of 68](sus-median-77-5-above-average-usability.md) — related
+- [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — a narrower finding that bears on this claim

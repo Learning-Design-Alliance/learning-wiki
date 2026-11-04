@@ -56,3 +56,4 @@ The review reports that "students also experienced technical challenges, interne
 - [Well-designed courseware enhances efficiency, supports independent student navigation, and lets faculty focus on teaching rather than technical challenges](courseware-efficiency-usability-gateway-math.md) — related
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
 - [Legal and technical issues are described as the main challenges of developing and using virtual patients](vp-challenges-legal-technical.md) — related
+- [VM users cited internet access and its cost as the main obstacles to using virtual microscopy](vm-users-internet-cost-obstacles.md) — related

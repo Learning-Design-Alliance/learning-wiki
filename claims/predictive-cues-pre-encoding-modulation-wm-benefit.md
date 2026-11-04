@@ -56,3 +56,4 @@ An fMRI study by Bollinger et al. using an object delayed-response task with pre
 - [Perceptual attention and working memory are distinct entities that causally affect each other](wm-perceptual-attention-distinct-entities.md) — related
 - [In-depth semantic knowledge penetrates early visual processing, reducing the P100 component and aiding recognition of blurred objects](semantic-knowledge-reduces-p100-early-visual-processing.md) — related
 - [Dual-mode (auditory plus visual) presentation of worked examples enhances subsequent problem-solving efficiency, except under high visual-search conditions without attention cues](dual-mode-worked-example-presentation.md) — related
+- [Later introduction of exceptions improves category learning, suggesting delayed teaching of exception words may aid decoding](late-exception-introduction-benefits.md) — related

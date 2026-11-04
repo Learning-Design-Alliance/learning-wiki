@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 75 claims (48 for, 24 mixed, 3 against) · 41 studies (17 quant-synthesis, 10 causal, 8 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 14 of 41 report an effect size · 67 claims rest on one study
+> **Evidence** · 81 claims (51 for, 27 mixed, 3 against) · 42 studies (17 quant-synthesis, 11 causal, 8 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 14 of 42 report an effect size · 73 claims rest on one study
 
 ## Description and scope
 
@@ -104,6 +104,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](../claims/tbl-higher-post-test-scores-than-lbl.md) [+M] — attached 2026-10-31 from Xie Zhi-Bo et al. (2025), which proposed "Generalize TBL pedagogy in medical education classrooms"; tests this page's relationship.
 - [Most implementations of TBL in clinical disciplines are modified versions missing one or more TBL steps, with the peer-review step most often omitted](../claims/tbl-clinical-disciplines-mostly-modified-implementation.md) [+W] — attached 2026-10-31 from Sterpu Irene et al. (2024), which proposed "Implement TBL in clinical disciplines as the full concept and evaluate it against interactive seminars with rigorous study designs".
 - [TBL in clinical disciplines is associated with increased knowledge acquisition in many studies, but findings on long-term knowledge retention are contradictory](../claims/tbl-clinical-knowledge-acquisition-mixed-retention.md) [~W] — attached 2026-10-31 from Sterpu Irene et al. (2024), which proposed "Implement TBL in clinical disciplines as the full concept and evaluate it against interactive seminars with rigorous study designs"; tests this page's relationship.
+- [Students consistently scored higher on the tRAT than on the iRAT across all themes, reflecting the benefits of peer explanation and collaborative reasoning.](../claims/tbl-trat-exceeds-irat-across-themes.md) [+W] — attached 2026-11-04 from Sheader Elizabeth et al. (2026), which proposed "TBL's structured weekly cycle of prework, iRAT, tRAT, application exercises, and peer review serves as a scalable template that generates routine analytics data.".
 
 ## Illustrative design instance and observation record
 
@@ -173,6 +174,11 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [In nonrandomized studies of undergraduate (5-year program) students, TBL showed a large positive effect on examination scores with reduced heterogeneity (SMD = 4.39)](../claims/tbl-undergraduate-subgroup-effect.md) [+W]
 - [Students allowed an open textbook during exams performed significantly worse than students with no aids or instructor-prepared aids](../claims/open-textbook-condition-worse-than-no-aids-and-instructor-aids.md) [+W]
 - [Both CTBL and GI groups improved significantly from pre-test to post-test](../claims/ctbl-gi-both-significant-gains.md) [+W]
+- [Replacing Problem-Based Learning with Team-Based Learning in a large medical programme reduced weekly staff facilitator hours by 63% and room bookings by 84% while maintaining high student satisfaction.](../claims/tbl-reduces-staff-and-room-burden-maintains-satisfaction.md) [+W]
+- [iRAT scores vary significantly between curriculum themes, indicating that readiness data can function as a real-time curriculum signal for content difficulty and alignment.](../claims/tbl-irat-theme-variation-curriculum-signal.md) [~W]
+- [Students born outside the UK achieved lower iRAT scores than home students, yet this difference did not persist in the final semester test.](../claims/tbl-place-of-birth-irat-gap-closes-by-semester-end.md) [~W]
+- [iRAT performance is structurally neutral to time of day and room size, with no differences in iRAT or end-of-semester test performance across these environmental factors.](../claims/tbl-irat-structurally-neutral-to-environment.md) [+W]
+- [Criterion-referenced peer review identifies the same struggling students as the iRAT, with students in the lowest iRAT decile receiving significantly lower peer ratings during themes 1–4.](../claims/tbl-peer-review-identifies-struggling-students.md) [~W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — shares positive interdependence and individual accountability; TBL adds the readiness assurance cycle and simultaneous reporting

@@ -128,3 +128,4 @@ The article's abstract states the consequence of the opt-out conceptualization: 
 - [Opting out has disadvantages: it can obscure implicit knowledge, enable excessive opting out, and complicate assessment](opting-out-disadvantages-assessment.md) — related
 - [Aberrant student behavior produces systematic, non-random data biases: cheating concentrated in difficult exercises and domain-dependent rapid guessing](aberrant-behavior-systematic-data-biases.md) — a narrower finding that bears on this claim
 - [Shallow learners show slower responses and higher certainty of slip, suggesting struggle rather than fast guessing](shallow-learners-slow-struggling-not-guessing.md) — related
+- [Slow test-takers perform as well as fast ones when given the time they need, and may perform better on difficult items](slow-test-takers-perform-as-well-as-fast-ones.md) — related

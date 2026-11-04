@@ -55,6 +55,7 @@ The review recommends that debriefing be treated as a critical phase of high-fid
 - [Simulation Based Training](simulation-based-training.md)
 - [Use debriefing to enable multiple viewpoints, shared cognitive resources, and challenge students' assumptions to foster critical thinking](debriefing-multiple-viewpoints-critical-thinking.md)
 - [Use a structured debrief based on PEARLS covering teamwork, communication, and clinical reasoning](pearls-structured-debrief-strategy.md)
+- [Pair AI-supported PBL sessions with brief learner orientation and a short postsession debrief](brief-orientation-and-debrief-for-ai-pbl.md)
 
 ## Examples
 -

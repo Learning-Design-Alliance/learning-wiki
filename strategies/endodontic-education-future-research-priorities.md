@@ -49,6 +49,7 @@ The review sets out unanswered educational questions for future work: whether "i
 ## Related Strategies
 
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
+- [Use case-based learning and performance-based assessments to strengthen undergraduate vital pulp therapy education](case-based-performance-assessment-vpt-teaching.md)
 
 ## Examples
 -

@@ -1,0 +1,51 @@
+---
+type: claim
+title: "Educational level was significantly associated with total BLS knowledge score, with bachelor's and master's degree holders scoring higher."
+description: "Educational level was significantly associated with total BLS knowledge score, with bachelor's and master's degree holders scoring higher."
+id: education-level-associated-bls-knowledge-score
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: pan-pan-2026
+    resource: "https://doi.org/10.3389/fpubh.2026.1881120"
+    title: "Pan Pan, Zhou YaXiong, Jiang YaoWen, Xia YiQin, Han TianYong, Pan E., Chen Yao. (2026). Knowledge-based Basic Life Support competency and associated factors among healthcare professionals across different hospital levels: a multicenter cross-sectional study. Frontiers in Public Health. https://doi.org/10.3389/fpubh.2026.1881120"
+    author: Pan Pan, Zhou YaXiong, Jiang YaoWen, Xia YiQin, Han TianYong, Pan E., Chen Yao
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# Educational level was significantly associated with total BLS knowledge score, with bachelor's and master's degree holders scoring higher.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` Participants with a bachelor's degree (B = 9.64) or master's degree or above (B = 7.86) had significantly higher adjusted total BLS knowledge scores than the reference group. [→ Pan Pan 2026](#pan-pan-2026)
+
+## Evidence
+
+### Pan Pan 2026
+
+Pan Pan, Zhou YaXiong, Jiang YaoWen, Xia YiQin, Han TianYong, Pan E., Chen Yao. (2026). Knowledge-based Basic Life Support competency and associated factors among healthcare professionals across different hospital levels: a multicenter cross-sectional study. Frontiers in Public Health. https://doi.org/10.3389/fpubh.2026.1881120
+
+`q3 · i?` · `associational · r2`
+
+Multivariable linear regression on 2,017 responses with college-or-below as reference. The article reports 'B = 9.64, 95% CI: 4.99–14.30, p < 0.001' for bachelor's and 'B = 7.86, 95% CI: 2.68–13.03, p = 0.003' for master's degree.
+
+> "Educational level was also significantly associated with total BLS knowledge score, with higher scores observed among participants with a bachelor's degree (B = 9.64, 95% CI: 4.99–14.30, p < 0.001) or a master's degree (B = 7.86, 95% CI: 2.68–13.03, p = 0.003)."
+
+## Discussion
+
+
+## Related Claims
+- [Only 40.26% of surveyed healthcare professionals met the criterion for high knowledge-based BLS competency (score ≥80 points).](40-percent-high-bls-knowledge-competency.md) — related
+- [Physicians and nurses had significantly higher odds of high knowledge-based BLS competency than technicians and other clinical staff.](physicians-nurses-higher-bls-competency-than-technicians.md) — related
+- [Healthcare professionals in tertiary hospitals had significantly higher odds of high knowledge-based BLS competency than those in primary hospitals.](tertiary-hospital-higher-bls-competency-than-primary.md) — related
+- [B.S.-degree nurses show significantly higher odds of palliative care knowledge than diploma nurses (AOR = 3.01)](bs-degree-nurses-higher-palliative-knowledge-odds-aor-3-01.md) — related

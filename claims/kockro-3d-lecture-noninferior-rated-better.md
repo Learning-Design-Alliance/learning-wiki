@@ -71,3 +71,5 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [Lecture plus 3D courseware produced significantly better learning results than lecture alone, lecture plus video, and lecture plus image instruction](3d-courseware-superior-learning-results-color-management.md) — reports the opposite
 - [Spatial training studies report statistically significant improvements in spatial anatomy performance despite null effects on knowledge test scores](spatial-training-improves-spatial-anatomy-performance.md) — related
 - [VR lecture rated more enjoyable, more effective, and less boring than slideshow lecture](vr-lecture-enjoyment-effectiveness-boredom.md) — related
+- [Metaverse-based interactive VR instruction is associated with higher overall anatomy test performance than a conventional 2D online lecture](metaverse-vr-higher-overall-anatomy-test-performance.md) — reports the opposite
+- [The within-student spatial–factual difference score shifts from negative in the Conventional cohort to positive in the VR cohort](within-student-spatial-factual-delta-shift.md) — related

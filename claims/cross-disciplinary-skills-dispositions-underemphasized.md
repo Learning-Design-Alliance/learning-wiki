@@ -72,3 +72,4 @@ The abstract reports that knowledge and skills aligned with the literature, but 
 - [Dispositions such as positivity, lifelong learning orientation, and persistence are reported as essential for ID/ET practice](dispositions-essential-for-id-et-practice.md) — related
 - [Communication skills are consistently ranked the most important competencies yet underemphasized in professional preparation](communication-skills-most-important-but-underemphasized.md) — a narrower finding that bears on this claim
 - [Technology's impact on learning depends heavily on teachers' skills, values, and dispositions — core elements of teacher identity](technology-impact-depends-on-teacher-identity.md) — related
+- [Cross-cultural sensitivity, highlighted in the literature for physician leadership, was notably absent from participants' competency perceptions](cross-cultural-sensitivity-absent-from-middle-manager-competency-perceptions.md) — related

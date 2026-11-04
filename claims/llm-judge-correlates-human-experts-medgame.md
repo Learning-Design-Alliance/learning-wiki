@@ -57,3 +57,4 @@ Human validation of the LLM-as-a-Judge protocol: three medical Ph.D. holders rat
 - [CLARA achieves the highest agreement with blinded human developmental ranking judgments compared with readability and prompting baselines](clara-highest-human-ranking-agreement.md) — related
 - [Task-specific fine-tuning substantially improves open-source LLMs on MedGame Bench and narrows the gap with commercial models](fine-tuning-improves-open-source-llms-medgame-bench.md) — related
 - [An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy](anvil-llm-judge-analogy-screening.md) — related
+- [Automated formative scores showed strong rank-order agreement with blinded expert ratings for participation, reflection, and reasoning dimensions](maple-cr-formative-expert-convergence.md) — related

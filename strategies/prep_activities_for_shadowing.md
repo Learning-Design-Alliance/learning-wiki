@@ -57,8 +57,10 @@ Unprepared observers lack the schemas to know where to look, so much of an exper
 5. After shadowing, run a debrief in which learners compare observations to predictions and articulate what they would do differently; then schedule guided [Practice](../elements/practice.md) on the observed task.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the core mechanism by which prep makes observation meaningful
 - [Debriefing](../strategies/debriefing.md) — the necessary post-observation counterpart; prep sets up what debriefing harvests
+- [Pair a pre-test anastomosis attempt with standardized video instruction and supervised practice before a post-test on the same simulator](video-instruction-supervised-practice-prepost-strategy.md)
 
 ## Examples
 - **Clinical education**: medical and nursing students receive the patient chart and a "what would you do next?" prompt before shadowing rounds, then discuss decisions in post-round debriefs; simulation programs formalize this as prebriefing (e.g., standards from the International Nursing Association for Clinical Simulation and Learning).

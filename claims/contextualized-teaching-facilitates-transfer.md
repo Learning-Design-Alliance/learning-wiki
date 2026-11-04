@@ -118,3 +118,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Nursing students report that purely theoretical delirium education is insufficient for clinical readiness](theory-alone-insufficient-delirium-education.md) — a narrower finding that bears on this claim
 - [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](ccs-perceived-strengths-realism-reasoning-communication.md) — a narrower finding that bears on this claim
 - [Experts reported students asked more advanced and clinically meaningful questions than in a typical anatomy laboratory](experts-report-advanced-student-questions.md) — related
+- [Nursing students report that clinical simulation strengthens their understanding of biosafety practices, particularly PPE use and risk perception](simulation-strengthens-biosafety-ppe-understanding.md) — a narrower finding that bears on this claim

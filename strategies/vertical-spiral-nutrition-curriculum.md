@@ -50,6 +50,7 @@ The review recommends curricular innovations that embed nutrition across all yea
 - [Adopt a dietitian–clinician co-teacher model and multidisciplinary teaching teams to clarify roles and increase appropriate referrals](dietitian-clinician-co-teacher-model.md)
 - [Integrate culinary medicine into compulsory German medical curricula with prevention and interprofessional learning contexts](integrate-cm-into-german-medical-curricula.md)
 - [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
+- [Integrate diet- and nutrition-related oral health content into existing curricula via online instruction, coursework integration, or nutrition courses with clinic integration](integrate-diet-nutrition-content-existing-curricula.md)
 
 ## Examples
 -

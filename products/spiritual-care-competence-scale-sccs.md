@@ -29,6 +29,9 @@ A 27-item original or 22-item Chinese self-report Likert-scale instrument develo
 ## Related Products and Programmes
 
 - [Self-Directed Learning Readiness Scale (SDLRS)](self-directed-learning-readiness-scale-sdlrs.md)
+- [Nurse Competence Scale (NCS)](nurse-competence-scale-ncs.md)
+- [Integrated competency system for tumor early screening](integrated-competency-system-for-tumor-early-screening.md)
+- [Systems Thinking Scale (20-item, Chinese validated version)](systems-thinking-scale-20-item-chinese-validated-version.md)
 
 ## Key Sources
 - Kaiyue Wu, Xinsheng Wang, Linbo Sun, Jiayi Feng, Changping Song. (2025). Nurse Competency in Providing Spiritual Care and Associated Influencing Factors: A Systematic Review and Meta‐Analysis. Nursing Open. https://doi.org/10.1002/nop2.70192

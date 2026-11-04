@@ -56,3 +56,4 @@ Narrative review attributing this to McCoy et al.'s prospective randomised cross
 - [Lecture plus 3D courseware produced significantly better learning results than lecture alone, lecture plus video, and lecture plus image instruction](3d-courseware-superior-learning-results-color-management.md) — related
 - [Patient-in-classroom teaching was rated higher in overall teaching quality than traditional lectures, with a large effect size](patient-in-classroom-higher-teaching-quality.md) — related
 - [Scenario-based 3D simulator training produced statistically significant pre-to-post improvements across all evaluated perception domains in first-year medical students](scenario-3d-ica-significant-gains-all-domains.md) — related
+- [Simulation-trained medical students obtain higher tutor-rated practical patient-education scores than students trained with real patients or with theory alone](simulation-training-higher-practical-patient-education-scores.md) — related

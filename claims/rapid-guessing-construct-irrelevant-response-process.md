@@ -62,3 +62,4 @@ The authors summarize evidence from their data analyses and previous research fi
 - [Computer-based testing's routine capture of item-level response times has driven increased interest in applications of response time to measuring ability and achievement](computer-based-testing-drives-response-time-interest.md) — related
 - [Differing response styles create a construct-irrelevant source of bias that distorts fundamental inferences made from survey data](response-styles-construct-irrelevant-bias.md) — related
 - [Aberrant student behavior produces systematic, non-random data biases: cheating concentrated in difficult exercises and domain-dependent rapid guessing](aberrant-behavior-systematic-data-biases.md) — a narrower finding that bears on this claim
+- [Slow test-takers perform as well as fast ones when given the time they need, and may perform better on difficult items](slow-test-takers-perform-as-well-as-fast-ones.md) — related

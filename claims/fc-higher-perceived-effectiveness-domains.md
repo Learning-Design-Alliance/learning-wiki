@@ -56,3 +56,5 @@ Anonymous three-point-scale questionnaires completed by both groups after the ob
 - [Team collaboration shows the largest perceived-effectiveness advantage for the flipped classroom (2.64 ± 0.53 vs. 2.14 ± 0.83, p < 0.001)](fc-largest-team-collaboration-advantage.md) — a narrower finding that bears on this claim
 - [Flipped classroom increases learning interest (pooled RR 1.42) but this pooled estimate shows significant publication bias](fc-learning-interest-rr-142-with-publication-bias.md) — related
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](fc-satisfaction-and-implementation-challenges.md) — related
+- [BOPPPS/FC-CBL produces very large effect sizes for teaching satisfaction and self-directed learning capacity](boppps-fc-cbl-large-effect-satisfaction-self-directed-learning.md) — related
+- [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — related

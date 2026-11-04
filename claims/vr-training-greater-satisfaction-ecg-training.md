@@ -50,3 +50,5 @@ Anonymous 16-item satisfaction questionnaire (three-point Likert scale, previous
 - [VR simulation training produces higher DOPS procedural skill scores than real-patient or mannequin training for ECG lead placement](vr-training-higher-dops-ecg-lead-placement.md) — related
 - [In a pragmatic RCT, VR communication simulation produced higher communication ability, confidence and satisfaction and lower clinical practice stress than video-based learning](vr-rct-chou-2024-communication-outcomes.md) — related
 - [Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results](vp-attitudes-satisfaction-mixed.md) — related
+- [Simulation-trained medical students obtain higher tutor-rated practical patient-education scores than students trained with real patients or with theory alone](simulation-training-higher-practical-patient-education-scores.md) — related
+- [VR-based training leads to significantly higher final thoracentesis procedural scores than traditional mannequin-based training in medical interns](vr-training-improves-thoracentesis-final-scores.md) — related

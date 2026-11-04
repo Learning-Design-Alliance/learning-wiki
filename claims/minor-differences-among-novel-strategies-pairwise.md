@@ -53,3 +53,4 @@ Pairwise random-effects meta-analyses of direct comparisons in the 80 RCTs. Diff
 - [Blended BOPPPS teaching is associated with higher medical theory knowledge scores than LBL](blended-boppps-higher-knowledge-scores.md) — related
 - [Blended BOPPPS teaching is associated with favorable subjective outcomes including autonomous learning, teamwork, and problem-solving ability](blended-boppps-favorable-subjective-outcomes.md) — related
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
+- [BOPPPS/FC-CBL produces very large effect sizes for teaching satisfaction and self-directed learning capacity](boppps-fc-cbl-large-effect-satisfaction-self-directed-learning.md) — related

@@ -34,7 +34,8 @@ The review applies a scoring tool based on the five sources of validity original
 - [Only seven studies of vascular surgery simulation achieved a level of effectiveness greater than 3/5, with the majority scoring LoE 1-2/5](../claims/few-simulators-loe-above-3.md) [+M]
 
 ## Related Research Methods
--
+
+- [Messick's unified validity framework for assessment](messicks-unified-validity-framework-for-assessment.md)
 
 ## Key Sources
 - Hertz P , Rattenborg S , Haug TR , Houlind K , Konge L , Bjerrum F . (2024). Training and assessment for colorectal surgery and appendicectomy– a systematic review. Colorectal Dis. https://doi.org/10.1111/codi.16905

@@ -189,6 +189,7 @@ The expectation should weaken if classroom comparisons with comparable learners 
 - [Pre Reading Quizzes](../strategies/pre-reading-quizzes.md)
 - [Use Pre Questions](../strategies/use-pre-questions.md)
 - [Pre-questioning: teacher and students generate questions and inferences about a passage summary before reading](../strategies/pre-questioning-strategy-recipe.md)
+- [Pair a pre-test anastomosis attempt with standardized video instruction and supervised practice before a post-test on the same simulator](../strategies/video-instruction-supervised-practice-prepost-strategy.md)
 
 ## Key Sources
 

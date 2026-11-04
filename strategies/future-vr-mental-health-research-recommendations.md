@@ -51,6 +51,7 @@ The review's forward-looking recommendations for VR training research in mental 
 - [Future HFS trials for practising nurses need larger samples, rigorous randomised design and standardised, fully reported measures](hfs-nurse-research-quality-recommendations.md)
 - [Use cluster randomized clinical trials and blinded simulation-based behavior assessment to strengthen NTS training evidence](cluster-rct-blinded-simulation-assessment-nts.md)
 - [Future research should include long-term RCTs with adequate sample sizes, standardized outcome measures, and cost-effectiveness analyses](strategy-long-term-rcts-standardized-outcomes-arvr.md)
+- [Use size-matched randomized designs with baseline testing to isolate immersion effects in VR anatomy studies](size-matched-randomized-designs-vr-anatomy-studies.md)
 
 ## Examples
 -

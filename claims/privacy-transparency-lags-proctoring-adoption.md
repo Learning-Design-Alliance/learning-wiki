@@ -70,3 +70,4 @@ The review's own synthesis (attributed to Khalil et al. 2022 and Nigam et al. 20
 - [Legitimate concerns exist about aied rollout regarding datafication, surveillance, and possibly poor pedagogy](aied-rollout-datafication-surveillance-concerns.md) — related
 - Only 4% of AIED ethics papers address emotion-related ethical concerns, dominated by affective surveillance consequences — related
 - [AIED technologies span school administration to personalised learning, with ethical risks including surveillance, privacy loss, and dehumanising prescriptive teaching](aied-technologies-applications-ethical-challenges-synthesis.md) — related
+- [Significant barriers to AI implementation include algorithmic bias, lack of transparency, data privacy concerns, unregulated use, and system limitations](ai-implementation-barriers-medical-education.md) — related

@@ -49,6 +49,7 @@ The authors suggest that "More opportunities for hands-on training and early pat
 - [Use clinical simulation as a pedagogical strategy for developing cardiovascular assessment competencies in undergraduate nursing education](clinical-simulation-strategy-cardiovascular-nursing.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Use combined PBL-CBL teaching in clinical settings where direct patient exposure is limited](pbl-cbl-for-limited-patient-exposure-settings.md)
+- [Combine knowledge-based BLS instruction with hands-on and simulation-based training.](combine-knowledge-instruction-with-simulation-bls.md)
 
 ## Examples
 -

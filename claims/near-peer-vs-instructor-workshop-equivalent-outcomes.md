@@ -50,3 +50,4 @@ Review reports Kusnoor et al. 2022 randomised parallel trial: "No difference bet
 - [Peer-assisted ECE produced higher post-test knowledge and OSPE scores than faculty-assisted ECE in one randomized trial](peer-assisted-ece-higher-post-test-ospe.md) — related
 - [Peer-assisted ultrasound instruction is comparably effective to faculty-led instruction in most comparative studies](peer-teaching-ultrasound-comparable-to-faculty.md) — related
 - [Peer-led and clinical educator-led group teaching produce no significant difference in student test scores in clinical physiotherapy placements](peer-vs-educator-led-clinical-group-teaching-no-score-difference.md) — related
+- [Peer-led SMA clinical outcome assessment workshops produced a 75% average increase in self-reported preparedness and familiarity among 79 Canadian clinical evaluators](sma-coa-workshops-75-percent-preparedness-increase.md) — related

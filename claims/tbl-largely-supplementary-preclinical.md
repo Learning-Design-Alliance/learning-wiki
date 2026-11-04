@@ -51,3 +51,4 @@ The review's synthesis of 37 studies reports that TBL is "largely supplementary"
 - [Student perceptions of pre-clinical TBL are generally favourable, but peer feedback is sometimes met with hesitation](tbl-student-perceptions-favourable-peer-feedback-hesitation.md) — related
 - Reporting of the 4S framework in application design and of peer evaluation is limited: only 3 of 37 studies used 4S principles and about one-third reported peer evaluation — related
 - [Most implementations of TBL in clinical disciplines are modified versions missing one or more TBL steps, with the peer-review step most often omitted](tbl-clinical-disciplines-mostly-modified-implementation.md) — related
+- [Replacing Problem-Based Learning with Team-Based Learning in a large medical programme reduced weekly staff facilitator hours by 63% and room bookings by 84% while maintaining high student satisfaction.](tbl-reduces-staff-and-room-burden-maintains-satisfaction.md) — related

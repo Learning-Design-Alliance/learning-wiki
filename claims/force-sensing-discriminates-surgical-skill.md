@@ -56,3 +56,4 @@ The review reports a prospective cross-skill comparison of 60 participants (20 n
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — related
 - [Prior robotic surgical experience is the main driver of better baseline performance and skills progression](prior-robotic-experience-driver-transfer.md) — related
 - [Microanastomosis training models discriminated competence levels: untrained groups scored significantly lower than trained groups on the NOMAT tool](nomat-untrained-significantly-lower-than-trained.md) — related
+- [Time pressure increases errors in health-professional performance, with mastery only partially compensating](time-pressure-increases-clinical-errors.md) — related

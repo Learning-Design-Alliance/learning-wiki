@@ -54,3 +54,4 @@ Null observational finding from the rubric-item-level error analysis across five
 - [Validator false-negative cases reveal structural reasoning weaknesses, including answer-schema misinterpretation and internal inconsistency](code-gen-validator-fn-reasoning-weaknesses.md) — related
 - [Lower-performing groups gain relative advantage because the scorer detects incorrect responses better for them, producing more false positives](lower-performers-more-false-positives-advantage.md) — related
 - [81.54% of incorrectly analysed programs were incorrect programs analysed as correct](php-its-error-direction-misleading-majority.md) — related
+- [A small subset of EBHS examination questions produced incorrect responses across most or all LLMs, concentrated in specialized domains including rare congenital anomalies, European-specific practice patterns, historical terminology and eponyms, and complex reconstructions.](llm-ebhs-persistent-subspecialty-knowledge-gaps.md) — related

@@ -56,6 +56,7 @@ As a practitioner implication, the article recommends designing debriefing conve
 - [Use clinical pause points during simulation debriefing to promote timely knowledge construction and clinical judgement](clinical-pause-simulation-debriefing.md)
 - [Include an immediate, structured debriefing session with descriptive, analysis and application phases in every high-fidelity simulation training](immediate-structured-debriefing-hf-simulation.md)
 - [Use RCDP with immediate directive feedback at scene interruptions, reserving debriefing for consolidation](rcdp-immediate-feedback-with-consolidation-debriefing.md)
+- [Incorporate clinical simulation with structured debriefing into nursing education planning for biosafety and emotional management](simulation-debriefing-biosafety-planning-strategy.md)
 
 ## Examples
 -

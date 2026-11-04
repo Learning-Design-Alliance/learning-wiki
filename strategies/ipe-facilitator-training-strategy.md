@@ -43,6 +43,7 @@ The review recommends that facilitators require preparation before implementing 
 ## Related Strategies
 
 - [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
+- [Use simulations, dedicated clinical time, and interprofessional education to teach family caregiver collaboration](family-caregiver-simulation-clinical-iep-strategies.md)
 
 ## Examples
 -

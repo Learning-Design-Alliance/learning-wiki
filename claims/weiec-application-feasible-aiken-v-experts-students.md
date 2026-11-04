@@ -70,3 +70,4 @@ Preliminary field testing with 35 students of class XII SMA 5 Samarinda assessin
 - [Using the mobile WEIEC application produced a significantly larger pretest-posttest gain in electric circuit interpretation ability than the control condition, with a reported 85.8% effective contribution](weiec-improves-electric-circuit-interpretation-ability.md) — related
 - [Nine experts rated the PBL-based civic education teaching material eligible for learning, with an average final score of 92%](pbl-civic-expert-validation-92-percent.md) — related
 - [Expert validators rated the Corel VideoStudio Pro X7-based media very valid (97.7% material expert, 76.5% media expert) and a limited trial group rated it 93.06%](corel-videostudio-media-expert-validation-ratings.md) — related
+- [The CSL-LTS demonstrates adequate content validity with Aiken's V values exceeding 0.8 for all three assessed attributes](csl-lts-content-validity-aiken-v.md) — related

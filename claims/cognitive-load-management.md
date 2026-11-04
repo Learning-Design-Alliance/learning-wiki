@@ -106,3 +106,4 @@ Open questions include how to measure load reliably in real classrooms (subjecti
 - [Learner control over pace improves learning while control over pedagogical aspects undermines it, with prior-knowledge and outcome-type moderators](learner-control-pace-versus-pedagogical.md) — related
 - [Segmenting online multimedia lessons into short user-paced segments improves transfer and reduces cognitive load](segmenting-improves-transfer-and-reduces-load.md) — a narrower finding that bears on this claim
 - [Segmentation of instructional videos enhances learning outcomes](segmentation-enhances-video-learning.md) — possibly the same claim (merge candidate)
+- [BCP settings may increase cognitive load and psychotherapists report BCP is more tiring and strenuous than face-to-face psychotherapy](bcp-increases-cognitive-load-and-fatigue.md) — related

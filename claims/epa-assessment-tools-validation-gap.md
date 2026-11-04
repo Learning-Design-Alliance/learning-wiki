@@ -49,3 +49,4 @@ Frequency analysis of EPA assessment tools across the included studies in this s
 - [Workplace observation by faculty is the dominant EPA implementation and assessment method, and logistical difficulties and faculty development issues are leading implementation barriers](epa-implementation-workplace-observation-logistical-barriers.md) — related
 - [Consensus methods and focus groups are the most common EPA development methodologies, with medical education experts and clinicians the most involved stakeholders](epa-development-consensus-focus-groups-stakeholders.md) — related
 - Marked heterogeneity of assessment methods, many lacking formal validation, limits comparability between studies and standardisation of the field — a broader claim this one bears on
+- [Royal College Entrustable Professional Activities de-emphasize ECG compared with PoCUS, with one ECG milestone versus nine for PoCUS](ecg-deemphasized-in-epas-versus-pocus.md) — related

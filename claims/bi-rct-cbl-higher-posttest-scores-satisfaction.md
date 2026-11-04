@@ -63,3 +63,5 @@ Randomised controlled trial (Bi et al., 2019) in which 80 first-year postgraduat
 - [Case-based learning prevented the increase in surface approach to learning observed across the semester in the non-CBL group](cbl-prevents-surface-approach-increase-biochemistry.md) — related
 - [PBL-CBL teaching increases resident satisfaction compared with traditional lecture-based teaching](pbl-cbl-increases-resident-satisfaction.md) — related
 - [RAT was preferred over PowerPoint-based lectures across all nine comparative pedagogical domains, ranging from 55.3% (self-paced learning) to 84.0% (curriculum integration)](rat-preferred-over-powerpoint-all-nine-domains.md) — related
+- [Residents taught with CBL plus 3D reconstruction report higher satisfaction than residents taught with traditional lectures across all five survey domains](cbl-3d-reconstruction-higher-satisfaction-liver-ultrasound.md) — related
+- [Junior pediatric surgeons who received SPS plus online CBL had significantly lower SAS scores than the control group at 1 month after on-call initiation](sps-cbl-lower-sas-one-month.md) — related

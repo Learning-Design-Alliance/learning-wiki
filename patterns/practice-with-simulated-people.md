@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 191 claims (94 for, 78 mixed, 19 against) · 105 studies (34 review, 24 causal, 16 quant-synthesis, 12 qualitative, 12 design, 4 theoretical, 3 associational), `q1`–`q4` · 21 of 105 report an effect size · 186 claims rest on one study
+> **Evidence** · 198 claims (97 for, 82 mixed, 19 against) · 111 studies (34 review, 27 causal, 16 quant-synthesis, 14 design, 13 qualitative, 4 theoretical, 3 associational), `q1`–`q4` · 21 of 111 report an effect size · 193 claims rest on one study
 
 ## Description and scope
 
@@ -147,6 +147,9 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [ISBAR-structured handover simulation teaching significantly improves nursing students' handover confidence](../claims/isbar-simulation-improves-handover-confidence.md) [+W] — attached 2026-11-04 from Sun Jui-Chiung et al. (2026), which proposed "Incorporate structured, scenario-based ISBAR handover practice into specialist nursing curricula, particularly in high-risk areas"; tests this page's relationship.
 - [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](../claims/ccs-perceived-strengths-realism-reasoning-communication.md) [+W] — attached 2026-11-04 from Gómez‐Torres et al. (2026), which proposed "Use structured prebriefing to define objectives, roles and expectations before each simulation scenario to promote psychological safety".
 - [Students reported limitations of community care simulation in session timing, preparation, facilitator support, performance anxiety and limited participation](../claims/ccs-perceived-limitations-timing-preparation-anxiety.md) [~W] — attached 2026-11-04 from Gómez‐Torres et al. (2026), which proposed "Use structured prebriefing to define objectives, roles and expectations before each simulation scenario to promote psychological safety".
+- [Simulation-trained medical students obtain higher tutor-rated practical patient-education scores than students trained with real patients or with theory alone](../claims/simulation-training-higher-practical-patient-education-scores.md) [+W] — attached 2026-11-04 from Aparicio M. et al. (2026), which proposed "Combine theoretical lessons with simulation-based learning to teach patient education competencies"; tests this page's relationship.
+- [Evaluating patient learning is the weakest patient-education competency and the one most responsive to simulation training](../claims/evaluating-patient-learning-weakest-simulation-responsive.md) [+W] — attached 2026-11-04 from Aparicio M. et al. (2026), which proposed "Combine theoretical lessons with simulation-based learning to teach patient education competencies"; tests this page's relationship.
+- [Junior pediatric surgeons who received SPS plus online CBL had significantly lower SAS scores than the control group at 1 month after on-call initiation](../claims/sps-cbl-lower-sas-one-month.md) [~W] — attached 2026-11-04 from Li Yang et al. (2026), which proposed "Blended four-week program of emergency standardized patient simulation plus structured online case-based learning".
 
 ## Illustrative design instance and observation record
 
@@ -225,6 +228,10 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Simulation-based education contributes to developing communication, interviewing and therapeutic engagement skills in undergraduate psychiatry](../claims/simulation-develops-clinical-skills-undergraduate-psychiatry.md) [+W]
 - [Students valued VSP convenience but rated realism and feedback value below human standardized patients](../claims/vsp-student-feedback-convenience-high-realism-low.md) [~W]
 - [LLM-VSP advantages appear in both content and communication skills subscores](../claims/llm-vsp-content-and-skills-subscores.md) [+W]
+- [The PJ-OSCE required substantial human resources, including 81 examiners and 63 standardised patients over 7.5 days.](../claims/pj-osce-substantial-human-resource-demands.md) [~W]
+- [Communication skills, pharmaceutical care competencies, and collaborative skills are identified as essential for sim-IPE participation](../claims/essential-competencies-sim-ipe-participation.md) [~W]
+- [Among students, a medium-fidelity passive simulator configuration was associated with improved ventilation frequency and pressure during hands-on training](../claims/medium-fidelity-best-for-novice-students.md) [+W]
+- [Reasoning models performed best for case generation but were unsuitable for real-time patient simulation due to long response latency](../claims/reasoning-models-latency-unsuitable-simulator.md) [~W]
 
 ## Examples
 

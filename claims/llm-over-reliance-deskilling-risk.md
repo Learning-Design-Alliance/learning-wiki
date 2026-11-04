@@ -55,3 +55,4 @@ Authors' theoretical argument in the section on interaction between LLM use and 
 - [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](metacognitive-displacement-illusion-of-competence.md) — a narrower finding that bears on this claim
 - [Documented GenAI-related challenges to active learning include cognitive debt, metacognitive laziness, unreflected acceptance, and overreliance on GenAI access](genai-risks-cognitive-debt-deskilling-overreliance.md) — a broader claim this one bears on
 - [Before instruction, physics students show skepticism about LLM learning impacts, agreeing that over-reliance risks dependence, false confidence, and reduced conceptual understanding](pre-instruction-skepticism-llm-learning-impacts.md) — related
+- [Endoscopist-level analysis showed mixed individual changes with no group-level upskilling or deskilling trend](endoscopist-level-mixed-changes-no-group-trend.md) — related

@@ -74,6 +74,10 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Scaffold early community-based experiences through longitudinal, progressively structured activities with supervision and reflection](scaffold-early-community-experiences-longitudinally.md)
 - [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](scaffolded-collaborative-to-individual-simulation-progression.md)
 - [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
+- [Combine knowledge-based BLS instruction with hands-on and simulation-based training.](combine-knowledge-instruction-with-simulation-bls.md)
+- [Expand simulation-based teaching to additional physiology practicals and organ systems](expand-simulation-across-physiology-curriculum.md)
+- [Use predefined progression criteria and staged supervised practice to standardize training in invasive dental procedures](predefined-progression-criteria-staged-supervised-practice.md)
+- [Implement progressive and layered simulation training across career stages for paediatric surgery nurses](progressive-layered-simulation-training-career-stages.md)
 
 ## Examples
 -

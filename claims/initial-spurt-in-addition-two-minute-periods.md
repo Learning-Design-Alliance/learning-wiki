@@ -50,3 +50,4 @@ Experiment with 46 male college students adding columns of ten one-place numbers
 - Prior initial-spurt experiments failed because test periods were too lengthy and subjects too few — related
 - [Efficiency in the work curve is conditioned by factors beyond fatigue proper: practice, adaptation, preparedness, warming up, spurts, voluntary effort, ennui, and diurnal rhythms (Offner)](work-curve-factors-beyond-fatigue.md) — a broader claim this one bears on
 - [In ten-minute arithmetic practice tests, pupils accomplish 6–21% more work in the first minute than in the average of the later minutes](first-minute-superiority-arithmetic-practice.md) — related
+- [The VR group scored significantly lower than controls at week 2, reflecting an initial learning curve with the VR system](vr-initial-learning-curve-week-2.md) — related

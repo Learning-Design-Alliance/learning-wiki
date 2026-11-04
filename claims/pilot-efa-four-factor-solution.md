@@ -63,3 +63,5 @@ Pilot EFA (principal axis factoring with oblimin rotation) with an independent s
 - Motivation and learning-strategy scales cluster into three factors: High-Level Learning Strategies, High-Level Motivation, and Low-Level Learning Strategies and Motivation — related
 - Factor analysis identifies three components of ICT consideration: help/importance, tools for an end, and negative valuation — related
 - [Cognitive interviewing informed differentiated item-level decisions for ITEM: 11 questions received proposed wording or contextual revisions, 2 presentation-only modifications, and 6 were retained unchanged, with no items removed](item-item-level-decision-distribution.md) — reports the opposite
+- [Exploratory factor analysis with 350 ICU nurses identified a three-factor structure (AECR, PCER, ROPR) explaining 57.34% of variance, with all 19 items loading strongly (0.633–0.853) and no substantial cross-loadings.](crcdc-efa-three-factor-structure.md) — related
+- [Item refinement reduced the scale from 45 to 36 items through NGT and pilot testing](hspncs-item-refinement-process.md) — related

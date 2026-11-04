@@ -54,3 +54,4 @@ The review reports the Ivy Tech Community College predictive analytics case, in 
 - [Reviewed studies indicate AI predictive analytics can project student progress, group learners by risk, and enable early intervention](ai-predictive-analytics-early-intervention.md) — related
 - [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — reports the opposite
 - [LA deployments at higher education institutions report positive results, with some interventions reporting improvements of up to 20%](hei-la-deployments-positive-results.md) — related
+- [Learning analytics and predictive modeling enable institutions to monitor learner progression, identify at-risk learners, and optimize curriculum](learning-analytics-monitor-risk-optimize-curriculum.md) — a broader claim this one bears on

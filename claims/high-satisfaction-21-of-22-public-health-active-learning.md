@@ -53,3 +53,4 @@ Descriptive synthesis of the 22 included studies in the review's Results section
 - [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) — related
 - [CBL, PBL, and TBL each significantly improve nursing students' problem-solving abilities](cbl-pbl-tbl-problem-solving-subgroups.md) — related
 - [TBL increases student satisfaction and engagement in ethics education](tbl-increases-ethics-satisfaction-engagement.md) — a narrower finding that bears on this claim
+- [Replacing Problem-Based Learning with Team-Based Learning in a large medical programme reduced weekly staff facilitator hours by 63% and room bookings by 84% while maintaining high student satisfaction.](tbl-reduces-staff-and-room-burden-maintains-satisfaction.md) — related

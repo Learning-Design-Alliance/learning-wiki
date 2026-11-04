@@ -53,6 +53,7 @@ The article recommends grounding simulated patient scenarios in conversation ana
 - [Role Play](role-play.md)
 - [Simulation Based Training](simulation-based-training.md)
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
+- [Use linear virtual patients as a substitute or supplement to role-play, not as the sole method](virtual-patients-substitute-supplement-roleplay.md)
 
 ## Examples
 -

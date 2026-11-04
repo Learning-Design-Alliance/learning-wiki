@@ -69,3 +69,4 @@ Mann–Whitney U comparison on the Self-Confidence in Learning subscale (Cronbac
 - [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](hf-simulation-null-secondary-outcomes.md) — reports the opposite
 - [High-fidelity simulation combining 3D printing, moulage, and role-play yields higher stoma care knowledge scores than low-fidelity static models in nursing students](hfs-3d-printer-moulage-higher-stoma-knowledge.md) — related
 - [High-fidelity simulation yields higher stoma care skill scores than low-fidelity static models](hfs-3d-printer-moulage-higher-stoma-skills.md) — related
+- [Simulation alone significantly improves satisfaction and self-confidence within both groups regardless of feedback condition](simulation-alone-improves-satisfaction-both-groups.md) — related

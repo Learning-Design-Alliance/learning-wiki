@@ -56,3 +56,4 @@ Systematic review of educational interventions in thyroid surgery (2011–2025),
 - [VR simulator training improves overall pedicle screw placement success relative to traditional training](vr-training-higher-overall-screw-placement-success.md) — related
 - [Qualitative synthesis indicates AR shortens learning curves, reduces errors, and differentiates proficiency levels in laparoscopic training](ar-qualitative-synthesis-learning-curves-errors.md) — related
 - [Simulation-based training significantly improves technical performance and accelerates skill acquisition in robotic surgery](simulation-training-improves-technical-performance.md) — related
+- [Repeated VR exposure shortens time to correct working diagnosis and time to first IM epinephrine administration in the assessment scenario](repeated-vr-exposure-faster-diagnosis-and-epinephrine.md) — a narrower finding that bears on this claim

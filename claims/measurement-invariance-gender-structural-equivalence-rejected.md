@@ -56,3 +56,4 @@ Three-stage WLSMV multigroup invariance sequence (Nmen=251, Nwomen=255) followed
 - [The cross-lagged model holds equally for intervention and control groups and for boys and girls](model-invariance-gender-and-intervention-groups.md) — related
 - [The GenAI-SRL scale achieves measurement invariance across gender groups at metric and scalar levels](genai-srl-measurement-invariance-gender.md) — related
 - [Workplace harassment did not significantly degrade teacher self-efficacy, plausibly due to a ceiling effect](harassment-no-significant-effect-teacher-self-efficacy.md) — related
+- [Multigroup CFA supports configural and loading invariance across gender groups, but scalar and strict invariance could not be evaluated conclusively](multigroup-cfa-gender-invariance-partial.md) — related

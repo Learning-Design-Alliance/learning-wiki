@@ -46,6 +46,7 @@ The article recommends routinizing a solution by attaching it to structures and 
 - [Infuse social psychological concepts into existing pre-service courses and professional development rather than new standalone courses](infuse-social-psychology-teacher-education.md)
 - [Implement strategy interventions through regular teachers with minimal professional development and structured materials](teacher-led-minimal-pd-intervention-strategy.md)
 - [Embed resilience and coherence-strengthening interventions into existing curricular structures rather than standalone courses](embed-soc-interventions-existing-frameworks.md)
+- [Make family caregivers explicit in existing nursing content rather than adding new material](make-family-caregivers-explicit-strategy.md)
 
 ## Examples
 -

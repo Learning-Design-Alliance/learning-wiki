@@ -43,7 +43,8 @@ The article uses the ADDIE model as the organizing framework for designing its c
 - [Addie Computer Program Improves Reading Comprehension Ninth Graders](../claims/addie-computer-program-improves-reading-comprehension-ninth-graders.md) [+M]
 
 ## Related Designs
-- 
+
+- [ADDIE instructional design model guiding the phased development of an AI-based learning tool](addie-model-guided-vega-development.md)
 
 ## Examples
 -

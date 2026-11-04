@@ -59,6 +59,7 @@ The review observes that PBL "is often combined with other teaching methods, suc
 - [Use a combined PBL-LBL dual-track teaching model in surgical education under resource constraints](pbl-lbl-dual-track-surgical-education.md)
 - [Apply PBL selectively in Chinese radiology education, balancing its benefits against time and resource costs](pbl-selective-application-chinese-context.md)
 - [Use combined PBL-CBL teaching in clinical settings where direct patient exposure is limited](pbl-cbl-for-limited-patient-exposure-settings.md)
+- [Adapt the blended online-PBL-CBL framework to other surgical disciplines and incorporate AI-assisted learning](adapt-blended-framework-other-disciplines-ai-future.md)
 
 ## Examples
 -

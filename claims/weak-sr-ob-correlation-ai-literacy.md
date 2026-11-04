@@ -62,3 +62,5 @@ Correlational analysis in the full sample (N = 288) found SR–OB correlations "
 - [Technical competence of students is negatively correlated with learner perceptions (r = -0.5595)](technical-competence-negative-correlation-learner-perceptions.md) — related
 - [Self-assessed abilities are uncorrelated with actual performance measures, and Kirkpatrick level 1 is generally not recommended](self-assessment-uncorrelated-with-performance.md) — a broader claim this one bears on
 - [Self-reported understanding of climate change correlates only weakly with measured climate science knowledge](weak-correlation-self-reported-measured-climate-knowledge.md) — a narrower finding that bears on this claim
+- [Knowledge and self-reported competence represent distinct but weakly correlated constructs within the DKSCQ-N (r = 0.13).](dkscqn-knowledge-competence-distinct-constructs.md) — a narrower finding that bears on this claim
+- [Perceived educational value and anticipation of anaphylaxis correlate weakly but significantly with objective VR performance](perceived-value-anticipation-correlate-performance.md) — a narrower finding that bears on this claim

@@ -22,7 +22,7 @@ sources:
 # Building Empathy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (17 for, 4 mixed) · 31 studies (11 causal, 8 quant-synthesis, 7 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 7 of 31 report an effect size · 15 claims rest on one study
+> **Evidence** · 22 claims (17 for, 4 mixed, 1 against) · 32 studies (11 causal, 8 quant-synthesis, 7 review, 2 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 32 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -112,6 +112,7 @@ An immediate change in a rating, a delayed change in attitude, more accurate inf
 - [The Through the D'mentia Lens virtual reality simulation improved caregivers' empathy and confidence in caring](../claims/tdl-virtual-reality-improved-empathy-confidence.md) [+W]
 - [Among well-described quantitative NM programme evaluations, statistically significant impacts were reported for increased empathy (three programmes) and increased perspective-taking/reflection (one programme)](../claims/nm-significant-gains-empathy-perspective-taking.md) [+W]
 - [Simulated disability sport activities (wheelchair basketball, wheelchair rugby, boccia) were perceived by the authors as the most important activities leading to positive attitude change](../claims/simulated-disability-sports-most-important-activity.md) [+W]
+- [Strengthening empathy in the family-member agent did not translate into broader knowledge delivery](../claims/a8-empathy-revision-lowest-knowledge-coverage.md) [-W]
 
 ## Related Principles
 - [Perspective Seeking/Multiple Perspectives](cognitive-flexibility.md) — empathy often grows when learners examine the same issue from more than one position.

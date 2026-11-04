@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 79 claims (50 for, 27 mixed, 2 against) · 57 studies (24 causal, 14 quant-synthesis, 7 review, 7 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 13 of 57 report an effect size · 77 claims rest on one study
+> **Evidence** · 80 claims (51 for, 27 mixed, 2 against) · 58 studies (24 causal, 14 quant-synthesis, 8 associational, 7 review, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 13 of 58 report an effect size · 78 claims rest on one study
 
 ## Description and scope
 
@@ -116,6 +116,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Combined teacher-plus-software instruction significantly outperformed software alone on pronunciation performance](../claims/combined-instruction-beats-software-alone.md) [+W] — attached 2026-11-02 from Yang Gao et al. (2016), which proposed "Combine human-aided instruction with instructional software when teaching pronunciation to young lower-proficiency learners"; tests this page's relationship.
 - [Blended problem-based learning produced significantly higher posttest academic achievement than PBL and traditional lecture instruction](../claims/bpbl-higher-academic-achievement-than-pbl-and-lecture.md) [+W] — attached 2026-11-03 from Yu et al. (2015), which proposed "Integrating technology into PBL to provide time flexibility and asynchronous communication can enhance academic achievement"; tests this page's relationship.
 - [Blended teaching produces higher academic achievement than traditional teaching in a psychological diseases course](../claims/blended-teaching-higher-academic-achievement-medical-students.md) [+W] — attached 2026-11-03 from Mosalanejad et al. (2010), which proposed "Use blended learning with standard designing strategies for teaching medical sciences"; tests this page's relationship.
+- [More than 90% of VM-experienced students advocated combining traditional and virtual microscopy in histology laboratory sessions](../claims/students-prefer-hybrid-lm-vm.md) [+W] — attached 2026-11-04 from Koney Nii Koney‐Kwaku et al. (2026), which proposed "Adopt a strategic blended approach integrating traditional light microscopy and virtual microscopy, supported by institutional commitments".
 
 ## Illustrative design instance and observation record
 

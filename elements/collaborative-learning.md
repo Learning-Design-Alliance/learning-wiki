@@ -13,7 +13,7 @@ generated:
 # Collaborative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (14 for, 12 mixed) · 31 studies (8 causal, 7 quant-synthesis, 6 review, 4 associational, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 8 of 31 report an effect size · 23 claims rest on one study
+> **Evidence** · 27 claims (14 for, 13 mixed) · 32 studies (8 causal, 7 quant-synthesis, 6 review, 4 associational, 3 qualitative, 3 theoretical, 1 design), `q1`–`q4` · 8 of 32 report an effect size · 24 claims rest on one study
 
 ## Description
 Collaborative learning organizes learners into structured teams that jointly solve problems, complete tasks, and construct shared understanding. The structure matters as much as the grouping: effective designs assign roles, interdependence, and individual accountability rather than simply seating learners together.
@@ -76,6 +76,7 @@ Collaboration supports learning when it forces learners to articulate, defend, a
 - [Both project-based groups (magazine and wall newspaper) significantly outperformed the control group on reading comprehension, with the largest mean difference between the wall newspaper group and the control group](../claims/tukey-both-project-groups-beat-control.md) [+W]
 - [Large study group size prevented the learning process in both communication settings](../claims/large-group-size-prevented-learning.md) [~W]
 - [Most students report that the MDT-CDIO model enhances interdisciplinary collaboration and clinical reasoning skills](../claims/mdt-cdio-students-report-enhanced-collaboration-reasoning.md) [~W]
+- [Communication skills, pharmaceutical care competencies, and collaborative skills are identified as essential for sim-IPE participation](../claims/essential-competencies-sim-ipe-participation.md) [~W]
 
 ## The evidence by question
 - *Does working jointly on a task raise achievement over working alone or instruction without group work?* [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]

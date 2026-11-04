@@ -58,3 +58,4 @@ Qualitative case-study analysis of 157 minutes of audio-recorded group discussio
 - [Interprofessional training in a psychiatric ward improved all three subscales of the Assessment of Interprofessional Team Collaboration Scale](ipe-psychiatric-ward-improved-aitcs-subscale.md) — related
 - [Comparative ISBTT studies suggest simulation added to training improves collaborative behaviors, with mixed results for modality and interprofessional versus uniprofessional comparisons](isbtt-comparative-studies-mixed-results.md) — related
 - [In-situ simulation is used in healthcare for four mapped purposes: assessment, system readiness and safety culture, clinical skills and patient outcomes, and non-technical skills, knowledge and confidence](iss-four-purpose-mapping-categories.md) — related
+- [Participants anticipate professional development and patient-level benefits from interprofessional learning](anticipated-benefits-ipe-pharmacy.md) — related

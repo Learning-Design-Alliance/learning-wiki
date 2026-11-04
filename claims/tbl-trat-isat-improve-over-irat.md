@@ -60,3 +60,4 @@ Discussion of performance results: the authors state the tRAT gain is expected b
 - [Team RATs almost always reuse the i-RAT MCQs immediately afterwards, with in-session immediate feedback via IF-AT mechanisms and facilitator-led clarification](trat-same-mcqs-immediate-feedback-ifat.md) — related
 - [TBL improves team readiness assurance test scores compared to individual tests](tbl-grat-outperforms-irat.md) — related
 - [Students in healthcare-professions TBL achieve significantly higher GRAT scores than IRAT scores (pooled SMD = 2.05)](grat-scores-higher-than-irat-tbl-meta-analysis.md) — related
+- [Students consistently scored higher on the tRAT than on the iRAT across all themes, reflecting the benefits of peer explanation and collaborative reasoning.](tbl-trat-exceeds-irat-across-themes.md) — a narrower finding that bears on this claim

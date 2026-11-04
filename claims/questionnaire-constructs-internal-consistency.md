@@ -71,3 +71,5 @@ collaboration."
 - [The Statistical Reasoning Assessment instrument showed acceptable internal consistency (Cronbach alpha .82) in a 30-subject pilot study](sra-instrument-cronbach-alpha-82-pilot.md) — related
 - [The Vocabulary Knowledge Scale used in the pilot showed very high internal consistency (α = .96)](vks-reliability-alpha-96-pilot.md) — a narrower finding that bears on this claim
 - [Test reliability was acceptable across the four listening texts](listening-test-reliability-acceptable.md) — related
+- [The HSPNCS demonstrates excellent internal consistency (Cronbach's alpha 0.967)](hspncs-high-internal-consistency.md) — related
+- [The scale demonstrates strong reliability and validity evidence including internal consistency, composite reliability, and average variance extracted](reliability-validity-evidence-generative-ai-teacher-scale.md) — related

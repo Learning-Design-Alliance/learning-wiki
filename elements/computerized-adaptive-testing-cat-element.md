@@ -51,6 +51,7 @@ Computerized adaptive testing (CAT) is a technology-based assessment approach in
 
 - [Adopt computerized adaptive testing to serve both low- and high-achieving students](../strategies/adopt-cat-for-low-and-high-achievers.md)
 - [Innovate PRO assessment with short index questions, computerized adaptive testing and conversation tools](../strategies/pro-assessment-innovation-strategies.md)
+- [Offset added testing time and cost via computerized adaptive testing, shortened exam content, and remote proctoring](../strategies/cat-and-test-design-offset-power-testing-costs.md)
 
 ## Key Sources
 - Freeman, E. (2014). The potential of adaptive assessment. Education Leadership, 71(6). https://www.nwea.org/research/publication/the-potential-of-adaptive-assessment/

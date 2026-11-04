@@ -16,7 +16,7 @@ grain_size: lesson
 # Game-Based Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 28 claims (14 for, 13 mixed, 1 against) · 34 studies (12 causal, 10 review, 7 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 6 of 34 report an effect size · 22 claims rest on one study
+> **Evidence** · 29 claims (15 for, 13 mixed, 1 against) · 35 studies (13 causal, 10 review, 7 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 7 of 35 report an effect size · 23 claims rest on one study
 
 ## Description and scope
 
@@ -154,6 +154,7 @@ This pattern is scoped to cumulative skills that break into items scored on the 
 - [Students' perceived usability of the game declined significantly across lessons while focused attention, aesthetics, and satisfaction remained stable](../claims/gbl-perceived-usability-declined-across-lessons.md) [~W]
 - [Gamification effectiveness varies by task type, population and cultural context, limiting generalization](../claims/gamification-effectiveness-context-dependent-limitation.md) [~W]
 - [All 30 students passed their assigned CIEP levels and 17 students moved out of the elementary level by passing level 103](../claims/ciep-level-progression-outcomes-thirty-students.md) [+W]
+- [In the voluntary follow-up, within-session gains were positive across all 5 attempts, with CR and aggregate formative scores rising from attempt 1 to 2 but statistically uncertain later trajectories](../claims/maple-cr-followup-repeated-use-patterns.md) [+W]
 
 ## Related Patterns
 - [Programmed Instruction](programmed-instruction.md) — the historic ancestor of this pattern's small-step, immediate-feedback, self-paced core

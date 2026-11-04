@@ -55,3 +55,4 @@ Thematic analysis of semi-structured interviews with 17 volunteering experimenta
 - [Prospective teachers taught with CCCT outperformed a lecture-based control group on academic achievement (g = 0.839)](ccct-outperformed-lecture-achievement.md) — related
 - [Within-group achievement gains were significant for the CCCT group but not for the control group](ccct-within-group-achievement-gain.md) — related
 - [No significant relative pre–post changes for attitudes toward collaborative learning, overall teamwork, or remaining teamwork subscales](genarch-null-did-collaborative-attitudes-teamwork.md) — related
+- [Students identify communication and emotional regulation as their main weaknesses and teamwork as a strength after simulation](simulation-self-assessment-weaknesses-strengths.md) — related

@@ -71,3 +71,4 @@ Same Cheung et al. comparison reported in the review: AI generation of 50 MCQs t
 - [Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant](hdr-human-scoring-time-burden.md) — related
 - [GPT-4 achieves the highest pooled accuracy among LLMs (81%), significantly outperforming GPT-3.5 (60%)](gpt4-highest-accuracy-81-outperforms-gpt35.md) — related
 - [Most reviewed studies (5 of 8) demonstrated that LLMs can produce MCQs valid for medical exams](llm-mcq-generation-majority-valid.md) — related
+- [LLM-generated modified Angoff cutoff estimates are comparable to faculty-generated estimates for a medical MCQ examination](llm-angoff-estimates-comparable-to-faculty.md) — related

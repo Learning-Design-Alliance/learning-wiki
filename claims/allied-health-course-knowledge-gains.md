@@ -49,3 +49,4 @@ Pre-post evaluation of a 13-week multifaceted course (lectures, tutorials, works
 - [Most included studies sampled medical students (n=13), with few studies among nursing, pharmacy, physiotherapy, dentistry, or mixed disciplines](medical-students-dominate-ebp-teaching-evidence.md) — related
 - [A multifaceted information-skills elective produced pre-post gains across search-related tasks among medical students, including assessing reliability/validity of web information (2.59 to 3.77)](information-skills-elective-task-gains.md) — related
 - [Websites improve practical skills performance in physiotherapy education](websites-improve-practical-skills-physiotherapy.md) — related
+- [Peer-led SMA clinical outcome assessment workshops produced a 75% average increase in self-reported preparedness and familiarity among 79 Canadian clinical evaluators](sma-coa-workshops-75-percent-preparedness-increase.md) — related

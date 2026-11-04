@@ -13,7 +13,7 @@ generated:
 # Iterative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (13 for, 6 mixed, 2 against) · 21 studies (7 causal, 4 quant-synthesis, 4 design, 3 review, 2 qualitative, 1 associational), `q1`–`q4` · 4 of 21 report an effect size · 20 claims rest on one study
+> **Evidence** · 23 claims (14 for, 7 mixed, 2 against) · 23 studies (8 causal, 4 quant-synthesis, 4 design, 3 review, 2 associational, 2 qualitative), `q1`–`q4` · 5 of 23 report an effect size · 22 claims rest on one study
 
 ## Description
 Iterative learning is the element in which learners improve through repeated cycles of attempt, feedback, revision, and retry. It is useful when quality emerges through refinement rather than one-shot performance.
@@ -58,6 +58,8 @@ Iterative learning is the element in which learners improve through repeated cyc
 - [Repeated simulator attempts improve VRS performance, with expert groups showing no further improvement](../claims/vrs-simulator-performance-curves-improve.md) [+W]
 - [Business plan scores increased significantly across review rounds in all three assessment groups](../claims/all-modes-significant-gains-across-rounds.md) [+W]
 - [Multiple posttest attempts in the emporium method did not boost posttest scores; single-attempt students scored higher](../claims/multiple-attempts-no-posttest-boost.md) [-W]
+- [The OSATS learning curve for robotic gastroenterostomy shows a turning point after 34 procedures, with lower grade B/C DGE after the turning point](../claims/osats-rge-learning-curve-turning-point-34.md) [~W]
+- [In the voluntary follow-up, within-session gains were positive across all 5 attempts, with CR and aggregate formative scores rising from attempt 1 to 2 but statistically uncertain later trajectories](../claims/maple-cr-followup-repeated-use-patterns.md) [+W]
 
 ## The evidence by question
 

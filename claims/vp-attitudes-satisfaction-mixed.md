@@ -78,3 +78,4 @@ Narrative synthesis of 11 attitudinal-outcome studies; the review notes diminish
 - [All 13 individual teaching quality items favored the patient-in-classroom group, with effect sizes exceeding d = 1.0](patient-in-classroom-item-level-gains.md) — related
 - [Mannequin and combined simulation groups report higher interest than the computer simulation group, with no differences on other satisfaction items](simulation-mode-interest-satisfaction-item.md) — related
 - [Students trained via VR report significantly greater satisfaction than students trained on real patients or a mannequin](vr-training-greater-satisfaction-ecg-training.md) — related
+- [Satisfaction does not correlate significantly with patient-centered attitudes (PPOS scores)](satisfaction-ppos-no-correlation.md) — related

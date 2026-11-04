@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: zheng-hui-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1896815"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` FC students scored significantly higher on practical skills assessments than LBL students, with a printed effect size of pooled SMD = 0.50 (95% CI 0.30–0.70) and moderate heterogeneity. [→ Zheng Hui 2026](#zheng-hui-2026)
@@ -73,3 +74,4 @@ Meta-analysis of 7 studies of practical skills assessment in preventive medicine
 - [Flipped classroom residents report higher perceived teaching effectiveness in clinical skills, learning interest, self-learning, problem-solving, and team collaboration, but not theoretical knowledge](fc-higher-perceived-effectiveness-domains.md) — related
 - [Flipped classroom combined with case-based learning improves post-course knowledge quiz scores in nuclear medicine residents](flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) — related
 - [Video-production experiential teaching raises theoretical knowledge scores more than lecture-based instruction in dental preventive medicine students](video-production-experiential-teaching-improves-theoretical-knowledge.md) — related
+- [BOPPPS/FC-CBL group achieves significantly higher clinical case evaluation scores than LBL group](boppps-fc-cbl-higher-clinical-case-scores-than-lbl.md) — related

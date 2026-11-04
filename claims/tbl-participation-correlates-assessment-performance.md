@@ -50,3 +50,4 @@ The review attributes this finding to Carrasco et al. and Nayak et al. among the
 - [Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module](team-rat-scores-higher-than-individual-rat.md) — related
 - [Both course sections show the same team-over-individual RAT trend despite a significant difference in scores between the sections](rat-section-difference-same-trend.md) — related
 - [Team-based learning showed significantly higher performance than traditional learning in one included study](tbl-significantly-higher-performance-hossain.md) — related
+- [Individual weekly readiness assurance test (iRAT) scores are strongly predictive of summative examination performance (R²≈0.38–0.41) and reproducible over consecutive years.](tbl-readiness-scores-predict-summative-performance.md) — a narrower finding that bears on this claim

@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 122 claims (83 show a difference, 28 mixed, 11 no difference) · 73 studies (21 review, 20 associational, 11 causal, 7 quant-synthesis, 7 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 9 of 73 report an effect size · 122 claims rest on one study
+> **Evidence** · 124 claims (85 show a difference, 28 mixed, 11 no difference) · 74 studies (21 review, 21 associational, 11 causal, 7 quant-synthesis, 7 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 9 of 74 report an effect size · 124 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -158,6 +158,8 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Pupils felt safe when working in groups during CLIL activities.](../claims/clil-group-work-feeling-safe.md) [+M] — instruction changes it
 - [Group risk-sharing removes personal humiliation and eases writing anxiety](../claims/group-credit-reduces-humiliation-anxiety.md) [+M] — measured as an outcome of the instruction studied
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](../claims/virtual-simulation-low-pressure-psychological-safety.md) [+M] — measured as an outcome of the instruction studied
+- [Higher safety attitudes are the most consistent psychosocial correlate of patient safety competency](../claims/safety-attitudes-psc-association.md) [+M] — learners who differ on it differ in outcomes
+- [Participation in patient safety training is associated with higher self-reported patient safety competency](../claims/safety-training-higher-psc.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

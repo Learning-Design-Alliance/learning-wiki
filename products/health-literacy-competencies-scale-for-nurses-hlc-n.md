@@ -29,7 +29,9 @@ The HLC-N is a 39-item, five-dimension Likert-scale assessment developed by Bao 
 - [Health status, health literacy training, and competency training are independent predictors of nurses' HLC, explaining 7.8% of variance](../claims/training-and-health-status-predict-nurse-hlc.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Nurse Competence Scale (NCS)](nurse-competence-scale-ncs.md)
+- [Patient Safety Competency Evaluation Scale](patient-safety-competency-evaluation-scale.md)
 
 ## Key Sources
 - Bao Xuemei, Liu Shuhan, Hu Xiaoxiao, Zhang Qinghua, Jiang Mei, Gan Yingting and Wang Yu. (2026). Development and psychometric validation of a health literacy competency scale for nurses, and its application in a cross-sectional survey: a methodological study. Frontiers in Public Health. https://doi.org/10.3389/fpubh.2026.1978033

@@ -68,3 +68,4 @@ Cluster profiles from the discussion: cluster 1 (four senior professors) assigne
 - Institutional strategic orientation received the highest overall SNAP priority (0.2072) among the seven enablers — related
 - [Seven enablers of LA-based educational interventions were identified and validated by an international expert panel](seven-enablers-la-based-educational-interventions.md) — related
 - [Experts rank Curriculum System and Content Design as the highest-priority dimension for AI certificate program evaluation, with Cross-Cultural Adaptability lowest](expert-priority-hierarchy-ai-certificate-dimensions.md)
+- [Perceptions of middle-manager competencies differ by hierarchical level: senior managers emphasize strategic traits while frontline managers emphasize interaction and communication](hierarchical-level-differences-in-middle-manager-competency-perceptions.md) — related

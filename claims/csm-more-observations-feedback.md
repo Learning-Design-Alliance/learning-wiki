@@ -69,3 +69,4 @@ Interview data on feedback during lesson planning: all experimental-group partic
 - [Classroom observations confirmed that SRI teachers modeled and evaluated strategies more frequently than control teachers](sri-implementation-observations-modeling-evaluation.md) — related
 - [Time spent on specific mentoring activities varied widely, with some teachers never observed by mentors and others observed an hour or more a month](mentoring-activity-time-varied-widely.md) — related
 - [Treatment teachers received more class observations and feedback from mentors than control teachers](cti-more-mentor-observations-feedback.md) — related
+- [Preceptor shortages leave pharmacy students on wards without supervision or feedback](preceptor-shortages-unsupervised-wards.md) — related

@@ -50,3 +50,4 @@ Matched t test on the control group's pretest and posttest vocabulary scores (me
 - [A storytelling approach produced significantly higher vocabulary posttest scores than traditional instruction for young Iranian EFL learners](storytelling-approach-vocabulary-posttest-advantage-young-efl.md) — related
 - [TPR instruction significantly improves EFL young learners' L2 vocabulary knowledge from pretest to posttest](tpr-improves-iranian-efl-childrens-vocabulary.md) — related
 - [The suggestopedia-based storytelling teaching model produced a larger pretest-to-posttest gain in storytelling skill than conventional teaching in the effectiveness test](suggestopedia-storytelling-model-higher-gain-than-conventional.md) — related
+- [MAPLE-CR produced greater pretest-to-posttest score gains than case-matched self-study, while the control group also improved significantly](maple-cr-greater-gain-control-also-improved.md) — related

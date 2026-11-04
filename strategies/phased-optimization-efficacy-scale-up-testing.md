@@ -42,6 +42,7 @@ The partnership sequences program development into distinct phases: "Conduct opt
 - [Phase the intervention through cohorts that move from development to usability/feasibility testing to efficacy testing](phased-cohort-development-usability-efficacy-testing.md)
 - [Conduct a smaller sequence of rapid-cycle studies that build on one another instead of planning a single large confirmatory study](sequence-of-smaller-rapid-cycle-dlp-studies.md)
 - [Conduct a larger-scale, statewide study of mentoring features and retention to detect small or moderate relationships](statewide-mentoring-retention-study-recommendation.md)
+- [Use blinded external evaluators and a phased refine-then-reevaluate process when piloting an educational simulation system](phased-blinded-pilot-evaluation-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ The review's synthesis across the ten included studies finds that, despite the d
 - [Geriatric core competencies for physicians, medical students, and nurses most frequently cover disease and comorbidities, pharmacologic/medication management, and cognitive/dementia problems](most-frequent-geriatric-competencies-disease-medication-cognition.md) — related
 - [Teams and teamwork is the most frequently developed IPEC core competency in interprofessional education, identified in 65 instances across 62 studies](ipe-teams-teamwork-most-frequent-competency.md) — related
 - [The dementia care competency literature is limited on culturally sensitive care and absent on sub-populations such as young onset dementia](dementia-competency-literature-gaps-cultural-subpopulations.md) — related
+- [The 19 FCG-C were crosswalked with the 2021 AACN Essentials, aligning family caregiving content across all 10 AACN domains](fcg-c-crosswalked-aacn-essentials-ten-domains.md) — related

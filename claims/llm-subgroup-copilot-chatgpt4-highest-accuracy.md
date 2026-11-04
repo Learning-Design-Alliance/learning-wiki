@@ -63,3 +63,4 @@ Model-stratified subgroup analysis within the meta-analysis of 39 studies. Copil
 - [ChatGPT models achieve a pooled accuracy of 70.1% on national health licensing examinations](chatgpt-pooled-accuracy-70-percent-licensing-exams.md) — related
 - [GPT-4 achieves a pooled MCQ accuracy of 81% on medical licensing examinations, significantly surpassing GPT-3.5's 58%](gpt4-81-percent-pooled-accuracy-surpasses-gpt35.md) — related
 - [GPT-4 significantly outperforms ChatGPT-3.5 in accuracy on national health licensing examinations](gpt4-outperforms-chatgpt35-licensing-exams.md) — related
+- [Accuracy, confidence, and overconfidence do not differ significantly between basic knowledge and clinical questions](no-question-type-differences-llm-endodontic-performance.md) — related

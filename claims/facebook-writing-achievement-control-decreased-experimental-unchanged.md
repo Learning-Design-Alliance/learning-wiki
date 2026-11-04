@@ -72,3 +72,4 @@ Dependent samples t-test on the Facebook experimental group's essays (n=48) in t
 - [Facebook-based peer comment activities significantly improve students' writing quality over a semester](facebook-peer-comments-improve-writing-quality.md) — related
 - [Control-group success rates mostly declined from week one to week two](control-group-success-declined-second-week.md) — related
 - [Assimilating and Diverging learners significantly outperform Converging and Accommodating learners on course achievement when learning via mobile Facebook](assimilating-diverging-outperform-converging-accommodating-mobile-facebook-achievement.md) — related
+- [Knowledge scores increased in the intervention group but decreased in the control group over the study week](knowledge-gains-intervention-decline-control.md) — related

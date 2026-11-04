@@ -51,3 +51,4 @@ Bias analysis of RAG scores against teacher mean scores for the 300 responses, r
 - [Small language models used as automated judges exhibit severe leniency bias against tutoring responses](slm-judges-show-severe-leniency-bias.md) — related
 - [Independent LLM evaluators agreed on agent rankings but differed markedly in leniency, with ceiling effects compressing between-agent discrimination](llm-evaluator-leniency-ceiling-effects.md) — related
 - [In one study of five LLMs scoring 60 undergraduate essays on IELTS rubric dimensions, systematic underestimation of human scores was the dominant bias trend, with some models also compressing scores into a narrow range](llm-essay-scoring-systematic-underestimation.md) — reports the opposite
+- [LLM evaluators converged on agent rankings but differed markedly in leniency and discrimination](llm-evaluators-leniency-ceiling-effects.md) — related

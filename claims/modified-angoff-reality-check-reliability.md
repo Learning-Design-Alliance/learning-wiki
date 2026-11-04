@@ -48,3 +48,4 @@ The meta-analysis pooled inter-rater reliability coefficients (Fisher's z-transf
 - [Angoff (Yes/No) variant shows the highest variability in cut scores](angoff-yes-no-highest-variability.md) — related
 - [Angoff and Modified Angoff standard-setting show good inter-rater reliability in dental education, with reported coefficients ranging from 0.65 to 0.94](angoff-good-inter-rater-reliability-dental.md) — a broader claim this one bears on
 - [Percentage rating format in the Modified Angoff method yields higher reliability than the Yes/No format, with ICCs of 0.48–0.65 versus a maximum of 0.41](percentage-format-more-reliable-than-yes-no-angoff.md) — related
+- [Reliability of the modified Angoff procedure increases as the number of raters increases for both faculty and LLM panels](angoff-reliability-increases-with-rater-number.md) — related

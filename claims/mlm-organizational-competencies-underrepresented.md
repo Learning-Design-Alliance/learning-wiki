@@ -50,3 +50,4 @@ Aggregation of competencies across the 16 included publications, with counts per
 - [Balanced SEL frameworks cover intrapersonal, interpersonal, and cognitive competencies and mix skills, knowledge, and attitudes](balance-criterion-intrapersonal-interpersonal-cognitive-competencies.md) — related
 - [EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning](edtech-ai-messaging-individual-vs-social-curricula.md) — related
 - Sixteen publications met inclusion criteria in a scoping review of MLM competency frameworks in undergraduate medical education — related
+- [Perceptions of middle-manager competencies differ by hierarchical level: senior managers emphasize strategic traits while frontline managers emphasize interaction and communication](hierarchical-level-differences-in-middle-manager-competency-perceptions.md) — related

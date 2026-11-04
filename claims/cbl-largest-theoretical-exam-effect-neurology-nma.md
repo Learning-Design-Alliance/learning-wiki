@@ -70,3 +70,4 @@ Bayesian NMA pairwise results: CBL significantly outperformed PBL, FCM, EBM and 
 - [CBL is the most effective method overall for both theoretical and practical neurology teaching outcomes, with no evidence of publication bias](cbl-optimal-strategy-neurology-nma.md) — a broader claim this one bears on
 - [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — a broader claim this one bears on
 - [Subgroup results: CBL ranks best for clinical curricula and across educational backgrounds, while PBL ranks best for basic courses, developing countries, and operational skills](nma-subgroup-cbl-clinical-pbl-basic.md) — related
+- [CBL with 3D reconstruction improves basic liver ultrasound scanning scores versus traditional teaching](cbl-3d-reconstruction-improves-scanning-scores.md) — related

@@ -59,3 +59,6 @@ Narrative synthesis of the review's own included studies: of 11 studies included
 - [Simulation-based medical education improves knowledge-based performance of undergraduate medical students as an adjunct to existing curricula](sbme-improves-knowledge-performance-undergraduates.md) — related
 - [Learners self-reported high satisfaction (4.4/5) and perceived educational value (4.9/5) for the curriculum](pem-sbl-high-satisfaction-educational-value.md)
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — a narrower finding that bears on this claim
+- [Residents reported high satisfaction with simulation-based learning, with 100% finding it useful and 70% perceiving psychomotor improvement](resident-satisfaction-vascular-simulation.md) — a narrower finding that bears on this claim
+- [Students expressed interest in broader use of simulation across physiology practicals](student-demand-for-broader-simulation-use.md) — a narrower finding that bears on this claim
+- [Students perceived VEGA's on-demand vignette generation as compensating for limited clinical practicum opportunities](vega-unlimited-vignettes-compensate-practicum.md) — a narrower finding that bears on this claim

@@ -60,3 +60,6 @@ Meta-analysis of 13 randomized controlled trials with 2030 students pooling tota
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](boppps-higher-overall-course-scores.md) — a narrower finding that bears on this claim
 - [Participation in a BOPPPS-PBL nursing innovation course is associated with higher post-course creativity scores among newly recruited nurses](boppps-pbl-course-creativity-increase.md) — a narrower finding that bears on this claim
 - [Participation in the BOPPPS-PBL course is associated with a modest increase in general self-efficacy among newly recruited nurses](boppps-pbl-course-self-efficacy-increase.md) — related
+- [BOPPPS/FC-CBL group achieves significantly higher practical skills scores than LBL group](boppps-fc-cbl-higher-practical-skills-than-lbl.md) — related
+- [BOPPPS/FC-CBL group achieves significantly higher theory test scores than LBL group in general practice residency training](boppps-fc-cbl-higher-theory-test-scores-than-lbl.md) — a narrower finding that bears on this claim
+- [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — a narrower finding that bears on this claim

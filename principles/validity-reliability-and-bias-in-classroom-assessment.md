@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 382 claims (171 for, 183 mixed, 28 against) · 290 studies (93 associational, 63 design, 48 causal, 45 review, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 25 of 290 report an effect size · 375 claims rest on one study
+> **Evidence** · 394 claims (179 for, 187 mixed, 28 against) · 297 studies (94 associational, 69 design, 48 causal, 45 review, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 25 of 297 report an effect size · 387 claims rest on one study
 
 ## Conditional relationship
 
@@ -245,6 +245,10 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [LLM-generated total scores showed moderate agreement with faculty ratings of VSP history-taking performance (ICC(2,1)=0.51)](../claims/llm-vsp-scoring-moderate-agreement-faculty.md) [+W] — attached 2026-11-04 from Gao Xiaoxing et al. (2026), which proposed "Use LLM-based VSP scoring for formative feedback and programmatic-assessment sampling, not for unsupervised high-stakes decisions"; tests this page's relationship.
 - [AI-faculty agreement was stronger for information gathering than for communication skills](../claims/llm-agreement-stronger-information-gathering-than-communication.md) [+W] — attached 2026-11-04 from Gao Xiaoxing et al. (2026), which proposed "Use LLM-based VSP scoring for formative feedback and programmatic-assessment sampling, not for unsupervised high-stakes decisions"; tests this page's relationship.
 - [Proportional bias: AI assigned relatively higher scores at the lower end of the performance distribution](../claims/proportional-bias-ai-higher-scores-lower-end.md) [-W] — attached 2026-11-04 from Gao Xiaoxing et al. (2026), which proposed "Use LLM-based VSP scoring for formative feedback and programmatic-assessment sampling, not for unsupervised high-stakes decisions"; tests this page's relationship.
+- [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](../claims/vega-content-validity-cvi.md) [+W] — attached 2026-11-04 from Shin Sujin et al. (2026), which proposed "Ground AI-generated assessment items in a recognized competency framework with expert content validation before learner use".
+- [The 5-LLM panel showed higher generalizability and lower rater-related variance than the 10-judge faculty panel](../claims/llm-panel-higher-g-coefficient-lower-rater-variance.md) [+W] — attached 2026-11-04 from Salah Eldin Kassab; Shadan Mariam; Ziganshina Arina; Khanday Shifan; Hamdy Hossam (2026), which proposed "Use LLMs as decision-assistance adjuncts to faculty in modified Angoff standard setting while maintaining expert human oversight"; tests this page's relationship.
+- [Exploratory Graph Analysis identified three distinct communities fully consistent with the theoretical three-factor model, supporting the structural validity and multidimensional nature of the CRCDCS.](../claims/crcdc-ega-network-structure.md) [+W] — attached 2026-11-04 from Magsoodi Fahimeh (2026), which proposed "Use a multi-method psychometric evaluation combining factor analysis, network analysis, and reliability coefficients when developing a new competency scale".
+- [The CRCDCS demonstrated satisfactory internal consistency (α = 0.876; ω = 0.861) and test–retest reliability (ICC = 0.85, 95% CI: 0.82–0.91).](../claims/crcdc-reliability-alpha-omega-icc.md) [+W] — attached 2026-11-04 from Magsoodi Fahimeh (2026), which proposed "Use a multi-method psychometric evaluation combining factor analysis, network analysis, and reliability coefficients when developing a new competency scale".
 
 ## Objective and learner-valued goal
 
@@ -456,6 +460,14 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The 13-item attitude questionnaire demonstrated good internal consistency (Cronbach's α = 0.873) but was not formally validated as a psychometric instrument](../claims/rat-questionnaire-internal-consistency-alpha-0873.md) [~W]
 - [The indicator system's predictive validity — whether scores correlate with clinical performance and patient outcomes — remains unverified and requires future multi-center testing](../claims/indicator-system-predictive-validity-unverified.md) [~W]
 - [Rater variability accounted for 37% of residual variance in faculty total scores and 52% in communication scores](../claims/rater-variability-37-percent-residual-variance.md) [-W]
+- [The CSL-LTS demonstrates adequate internal consistency with Cronbach's α of 0.832 and McDonald's ω of 0.841](../claims/csl-lts-internal-consistency.md) [+W]
+- [Reliability of the modified Angoff procedure increases as the number of raters increases for both faculty and LLM panels](../claims/angoff-reliability-increases-with-rater-number.md) [~W]
+- [The CSL-LTS demonstrates strong temporal stability with an intraclass correlation coefficient of 0.991 over a 15-day test–retest interval](../claims/csl-lts-temporal-stability-icc.md) [+W]
+- [The high overall pass rate of 97.1% may limit the discriminatory power of the PJ-OSCE in its current form.](../claims/pj-osce-high-pass-rate-limits-discriminatory-power.md) [~W]
+- [The scale demonstrates strong reliability and validity evidence including internal consistency, composite reliability, and average variance extracted](../claims/reliability-validity-evidence-generative-ai-teacher-scale.md) [+W]
+- [Multigroup CFA supports configural and loading invariance across gender groups, but scalar and strict invariance could not be evaluated conclusively](../claims/multigroup-cfa-gender-invariance-partial.md) [~W]
+- [Faculty- and LLM-derived Angoff cutoff scores produced identical pass and fail classifications](../claims/identical-pass-fail-classifications-faculty-llm-angoff.md) [~W]
+- [Specific OSATS elements — gentleness, instrument handling, tissue exposure, and the summary score — significantly predict grade B/C delayed gastric emptying](../claims/osats-elements-gentleness-instrument-tissue-predict-dge.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

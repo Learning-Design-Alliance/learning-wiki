@@ -53,3 +53,6 @@ Network meta-analysis of clinical reasoning from 14 studies, covering 6 teaching
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related
 - [MDT-CDIO integrated teaching yields higher overall performance scores than traditional teaching in orthopedic clinical education](mdt-cdio-higher-overall-performance-scores.md) — related
+- [CBL with 3D reconstruction improves basic liver ultrasound scanning scores versus traditional teaching](cbl-3d-reconstruction-improves-scanning-scores.md) — related
+- [CBL with 3D reconstruction improves hepatic segmentation and lesion localization scores versus traditional teaching](cbl-3d-reconstruction-improves-segmentation-localization.md) — related
+- [No significant difference between CBL-3D and traditional teaching in qualitative diagnosis of focal liver lesions](cbl-3d-reconstruction-no-gain-qualitative-diagnosis.md) — related

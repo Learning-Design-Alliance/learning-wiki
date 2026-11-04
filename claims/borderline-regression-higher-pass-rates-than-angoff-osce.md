@@ -69,3 +69,4 @@ The review reports from Moreno-Lopez and Hope's retrospective UK study of dental
 - [Percentage rating format in the Modified Angoff method yields higher reliability than the Yes/No format, with ICCs of 0.48–0.65 versus a maximum of 0.41](percentage-format-more-reliable-than-yes-no-angoff.md) — related
 - [Contextual factors (learner level, discipline, format) moderate Angoff outcomes](angoff-contextual-moderators.md) — related
 - [Angoff methods produce significantly higher pass rates than conventional fixed standard-setting methods](angoff-higher-pass-rates-than-fixed.md) — related
+- [The high overall pass rate of 97.1% may limit the discriminatory power of the PJ-OSCE in its current form.](pj-osce-high-pass-rate-limits-discriminatory-power.md) — related

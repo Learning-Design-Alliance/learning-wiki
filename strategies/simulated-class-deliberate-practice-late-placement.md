@@ -43,6 +43,7 @@ The article recommends a simulated class as a low-stakes setting for deliberate 
 - [Simulation Based Practice](simulation-based-practice.md)
 - [Expand supervised practicum experiences in teacher preparation to include AI-focused pedagogies](supervised-practicum-ai-focused-pedagogies.md)
 - [Include debriefing with reflective questions after simulation sessions before receiving feedback](debriefing-before-feedback-simulations.md)
+- [Pair AI-supported PBL sessions with brief learner orientation and a short postsession debrief](brief-orientation-and-debrief-for-ai-pbl.md)
 
 ## Examples
 -

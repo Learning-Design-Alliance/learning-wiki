@@ -56,3 +56,5 @@ CFA of the PIQNS, GeNTS, and WEANS in the 842-student sample, estimated by maxim
 - [All eight SAICS dimensions showed high internal consistency (Cronbach's alpha ≥ 0.89), high factor loadings (0.76–0.96), and convergent validity (inter-dimension correlations r > 0.34)](saics-reliability-convergent-validity.md) — related
 - [PI, educator competence perception, and willingness to engage in geriatric nursing are pairwise positively correlated](pairwise-correlations-pi-competence-willingness.md) — related
 - [Among Chinese vocational nursing students, professional identity is positively associated with willingness to engage in geriatric nursing](pi-associated-with-geriatric-willingness.md) — related
+- [Convergent and discriminant validity are supported by AVE values exceeding 0.50 and discriminant validity criteria met for both factors.](dkscqn-ave-discriminant-validity.md) — related
+- [Convergent validity supported by CR and AVE values](hspncs-convergent-validity-cr-ave.md) — related

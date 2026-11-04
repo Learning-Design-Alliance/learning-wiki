@@ -50,3 +50,4 @@ Random-effects meta-analysis of seven studies (14 groups) comparing five-point-s
 - [Coronary anastomosis simulation training is associated with faster task completion than no formal simulation training](simulation-improves-coronary-anastomosis-time.md) — related
 - [Simulator fidelity does not significantly affect improvement rates in coronary anastomosis simulation training](simulator-fidelity-no-significant-effect.md) — related
 - [Junior and non-cardiothoracic residents show larger time improvements from coronary anastomosis simulation than senior residents](junior-residents-gain-more-time-from-simulation.md) — related
+- [Simulation-based training with a leakage-testing vascular anastomosis model reduced severe leakage (Grade 3) from 69.3% to 28.1% among surgical residents](leakage-grade3-reduction-vascular-anastomosis-simulation.md) — related

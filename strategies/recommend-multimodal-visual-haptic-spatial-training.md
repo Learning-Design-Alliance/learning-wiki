@@ -48,6 +48,7 @@ The article recommends that educators seeking to enhance three-dimensional spati
 - [Use AR visualization of hidden anatomy and simulated fluoroscopy to teach spatial reasoning in a radiation-free environment](ar-hidden-anatomy-spatial-learning-strategy.md)
 - [Integrate mixed-reality visualization with physical interaction rather than relying on a single modality](integrate-mr-visualization-physical-interaction.md)
 - [Increase 3D simulation training frequency and establish an online MDT discussion platform to optimize the MDT-CDIO model](mdt-cdio-optimization-3d-simulation-online-platform.md)
+- [Design future sectional anatomy sessions to be more multimodal and collaborative](future-sessions-more-multimodal-and-collaborative.md)
 
 ## Examples
 -
