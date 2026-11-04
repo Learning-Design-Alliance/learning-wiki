@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: gao-xiaoxing-2026
     resource: "https://doi.org/10.2196/95578"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 92 students, 63 (68.5%) completed the feedback survey: satisfaction mean 6.4/10, convenience mean 4.1/5, realism mean 1.8/5, feedback value mean 2.4/5. [→ Gao Xiaoxing 2026](#gao-xiaoxing-2026)

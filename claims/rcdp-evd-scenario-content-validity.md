@@ -47,7 +47,7 @@ Content assessment by seven nurse reviewers via an online Likert-scale form, ana
 ## Related Claims
 - [The single low-rated item, scenario content facilitating critical thinking, was revised per reviewer suggestions and reached CVI and MKC of 1.00 in round two](critical-thinking-item-revised-to-full-agreement.md) — possibly the same claim (merge candidate)
 - [Expert review establishes excellent content validity for TAILS (S-CVI/Ave = 0.98; I-CVI 0.86–1.00)](tails-content-validity-cvi.md) — related
-- [Testing with five nursing students required no scenario modifications, with three brief feedback pauses and cycles under five minutes achieving mastery](rcdp-scenario-testing-mastery-no-modifications.md) — related
+- [Testing a pediatric EVD simulation scenario with five nursing students needed no setup modifications, using three brief feedback pauses with repetition cycles of no more than five minutes](rcdp-scenario-testing-mastery-no-modifications.md) — related
 - [The final indicator system shows good reliability (ICC = 0.86) and content validity (S-CVI = 0.92; I-CVI 0.85–1.00)](icc-and-cvi-reliability-validity-tb-educator-indicator-system.md) — related
 - [Content validity of the HLC-N exceeds recommended thresholds (I-CVI 0.813–1.00; S-CVI/Ave 0.952)](hlc-n-content-validity-cvi.md) — related
 - [In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73](virtual-simulation-scenario-standard-precautions-cvi-above-080.md) — related

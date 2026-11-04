@@ -41,7 +41,7 @@ Rapid-cycle deliberate practice (RCDP) is a clinical simulation strategy charact
 - clinical decision-making
 
 ### Claims
-- [Rcdp Scenario Testing Mastery No Modifications](../claims/rcdp-scenario-testing-mastery-no-modifications.md) [+M]
+- [Testing a pediatric EVD simulation scenario with five nursing students needed no setup modifications, using three brief feedback pauses with repetition cycles of no more than five minutes](../claims/rcdp-scenario-testing-mastery-no-modifications.md) [+W]
 
 ## Related Designs
 - 

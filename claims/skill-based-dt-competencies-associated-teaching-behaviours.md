@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: liu-hsing-yuan-2026
     resource: "https://doi.org/10.1186/s12909-026-09830-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Skill-based DT competencies (CSI-TW) were statistically associated with DT-aligned teaching behaviours (β = 0.429, p = 0.050) in the final regression model. [→ Liu Hsing-Yuan 2026](#liu-hsing-yuan-2026)

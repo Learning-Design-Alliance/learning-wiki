@@ -45,6 +45,6 @@ Within-group pretest-posttest paired comparisons using Wilcoxon signed-rank test
 
 
 ## Related Claims
-- [BOPPPS-based blended teaching improves disaster nursing competency gains more than no systematic instruction, but not significantly more than traditional lecture-based teaching](boppps-blended-teaching-disaster-nursing-competency-gains.md) — related
+- [Self-reported disaster nursing competency rose more in a BOPPPS-based blended disaster-nursing elective than with no disaster-nursing instruction, but not significantly more than in the same elective taught by lecture](boppps-blended-teaching-disaster-nursing-competency-gains.md) — related
 - [Both groups improved significantly from pretest to posttest, and the experimental group's posttest scores significantly exceeded the control group's](razalas-within-between-posttest-differences.md) — related
 - [Both experimental and control students showed significant pre-to-post gains on the Newton's Laws achievement test](both-groups-significant-pre-post-gains.md) — related

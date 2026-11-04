@@ -46,7 +46,7 @@ Mann-Whitney U tests comparing process assessment and final examination scores b
 
 ## Related Claims
 - [BOPPPS teaching advantage concentrates in single-choice questions with no significant differences in true/false or case-based essay sections](boppps-advantage-single-choice-only.md) — related
-- [BOPPPS-based blended teaching improves disaster nursing competency gains more than no systematic instruction, but not significantly more than traditional lecture-based teaching](boppps-blended-teaching-disaster-nursing-competency-gains.md) — related
+- [Self-reported disaster nursing competency rose more in a BOPPPS-based blended disaster-nursing elective than with no disaster-nursing instruction, but not significantly more than in the same elective taught by lecture](boppps-blended-teaching-disaster-nursing-competency-gains.md) — related
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](boppps-higher-overall-course-scores.md) — related
 - [BOPPPS teaching significantly improves final examination scores compared with traditional teaching in undergraduate clinical and health education](boppps-improves-final-examination-scores.md) — a broader claim this one bears on
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related

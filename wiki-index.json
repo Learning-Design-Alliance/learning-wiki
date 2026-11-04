@@ -47791,13 +47791,14 @@
 "type":"claim"
 },
 {
-"description":"BOPPPS-based blended teaching improves disaster nursing competency gains more than no systematic instruction, but not significantly more than traditional lecture-based teaching",
+"description":"Self-reported disaster nursing competency rose more in a BOPPPS-based blended disaster-nursing elective than with no disaster-nursing instruction, but not significantly more than in the same elective taught by lecture",
 "evidence_strength":"moderate",
 "id":"boppps-blended-teaching-disaster-nursing-competency-gains",
 "newest_evidence":"2026",
 "path":"claims/boppps-blended-teaching-disaster-nursing-competency-gains.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"BOPPPS-based blended teaching improves disaster nursing competency gains more than no systematic instruction, but not significantly more than traditional lecture-based teaching",
+"title":"Self-reported disaster nursing competency rose more in a BOPPPS-based blended disaster-nursing elective than with no disaster-nursing instruction, but not significantly more than in the same elective taught by lecture",
 "type":"claim"
 },
 {
@@ -197836,6 +197837,7 @@
 "id":"hololens-value-depends-on-implementation",
 "newest_evidence":"2026",
 "path":"claims/hololens-value-depends-on-implementation.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Students perceived the educational value of HoloLens as dependent on usability, learner control, and curricular integration",
 "type":"claim"
@@ -242648,6 +242650,7 @@
 "newest_evidence":"2026",
 "path":"claims/llm-consistency-gap-question-vs-case-level.md",
 "recheck_by":"2029",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"LLMs with high question-level accuracy on medical licensing exam cases show substantially lower case-level accuracy, with consistency gaps of 10% to 17.9%",
 "type":"claim"
@@ -358162,13 +358165,14 @@
 "type":"claim"
 },
 {
-"description":"Testing with five nursing students required no scenario modifications, with three brief feedback pauses and cycles under five minutes achieving mastery",
+"description":"Testing a pediatric EVD simulation scenario with five nursing students needed no setup modifications, using three brief feedback pauses with repetition cycles of no more than five minutes",
 "evidence_strength":"weak",
 "id":"rcdp-scenario-testing-mastery-no-modifications",
 "newest_evidence":"2026",
 "path":"claims/rcdp-scenario-testing-mastery-no-modifications.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"Testing with five nursing students required no scenario modifications, with three brief feedback pauses and cycles under five minutes achieving mastery",
+"title":"Testing a pediatric EVD simulation scenario with five nursing students needed no setup modifications, using three brief feedback pauses with repetition cycles of no more than five minutes",
 "type":"claim"
 },
 {
@@ -394608,6 +394612,7 @@
 "id":"sglm-perceived-visual-learning",
 "newest_evidence":"2026",
 "path":"claims/sglm-perceived-visual-learning.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Students perceived that producing visual material outputs helped them understand and explain abstract anatomical course content",
 "type":"claim"
@@ -401110,6 +401115,7 @@
 "id":"skill-based-dt-competencies-associated-teaching-behaviours",
 "newest_evidence":"2026",
 "path":"claims/skill-based-dt-competencies-associated-teaching-behaviours.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Skill-based DT competencies are independently associated with DT-aligned teaching behaviours after controlling for demographics and experience",
 "type":"claim"
@@ -406118,6 +406124,7 @@
 "id":"software-platforms-improve-knowledge-and-decision-making",
 "newest_evidence":"2026",
 "path":"claims/software-platforms-improve-knowledge-and-decision-making.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Software-based platforms generally improve examination scores, diagnostic accuracy, and decision-making performance",
 "type":"claim"
@@ -477963,6 +477970,7 @@
 "id":"vr-slideshow-similar-procedural-performance-usg-lp",
 "newest_evidence":"2026",
 "path":"claims/vr-slideshow-similar-procedural-performance-usg-lp.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"No statistically significant difference in procedural performance between VR and slideshow lecture groups",
 "type":"claim"
@@ -478742,6 +478750,7 @@
 "id":"vsp-student-feedback-convenience-high-realism-low",
 "newest_evidence":"2026",
 "path":"claims/vsp-student-feedback-convenience-high-realism-low.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Students valued VSP convenience but rated realism and feedback value below human standardized patients",
 "type":"claim"
