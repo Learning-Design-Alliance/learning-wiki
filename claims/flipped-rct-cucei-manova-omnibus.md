@@ -46,3 +46,4 @@ Omnibus one-way MANOVA on all seven CUCEI subscales in the same RCT, conducted t
 
 ## Related Claims
 - [Flipped classroom group scored significantly higher on Satisfaction, Involvement, Task Orientation, and Innovation, but not on Personalization, Student Cohesiveness, or Individualization](flipped-rct-cucei-four-of-seven-subscales.md) — related
+- [Flipped classroom students report more positive perceptions of resources, effort, and overall learning environment on the AEEMI](flipped-classroom-positive-aeemi-perceptions.md) — related

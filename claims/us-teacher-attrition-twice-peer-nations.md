@@ -54,3 +54,4 @@ Descriptive international comparison in the 'Condition of Teaching' section, dra
 - [Texas teacher attrition exceeds the national average by over 50%, with about 12% of teachers exiting districts before the 2023–24 school year](texas-teacher-attrition-exceeds-national-average.md) — related
 - [Texas teacher attrition has exceeded the national average by about 25% over the past decade, reaching nearly 12% in 2021–22](texas-attrition-above-national-average.md) — related
 - [Teacher turnover is 35%–37% higher in schools with the largest concentrations of students of color and students from low-income backgrounds than in schools with the smallest](school-composition-turnover-inequity.md) — related
+- [Four cohorts of PaT learners showed annual attrition below 10 percent](pat-programme-attrition-below-ten-percent.md) — related

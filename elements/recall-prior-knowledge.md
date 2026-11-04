@@ -78,6 +78,7 @@ Merrill's First Principles also place activation first ("activation of existing 
 - **K-W-L charts** — learners record what they *Know*, what they *Want* to know, and later what they *Learned*; the K and W columns are the activation component.
 - **[Khan Academy](https://www.khanacademy.org)** — unit introductions and "review" prerequisites links prompt recall of earlier topics before new lessons.
 - [Use backward design: complete the concept column first, mapping prior-knowledge, connecting, and application concepts before planning activities](../strategies/backward-design-concept-column-first.md)
+- [Use a progression of clinical cases to bridge prior knowledge and prompt critical questioning](../strategies/case-progression-critical-questioning-strategy.md)
 
 ## Key Sources
 - Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology, 51*(5), 267–272. [doi:10.1037/h0046669](https://doi.org/10.1037/h0046669)

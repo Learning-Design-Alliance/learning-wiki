@@ -53,3 +53,4 @@ Systematic review of nine studies (2007–August 2025) synthesizing quantitative
 - [Early clinical exposure is associated with higher empathy scores regardless of gender and academic year](ece-higher-empathy-scores.md) — related
 - [ECE benefits both junior and senior preclinical dental students, with a larger pooled effect in junior students](ece-benefits-junior-and-senior-students.md) — a narrower finding that bears on this claim
 - [ECE reduces transition stress from preclinical to clinical training and supports smoother student transition](ece-reduces-transition-stress.md) — related
+- [Preclinical HVRS training significantly improves endodontic access cavity preparation scores on real patients](hvrs-training-improves-access-cavity-scores.md) — a narrower finding that bears on this claim

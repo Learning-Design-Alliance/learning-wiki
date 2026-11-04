@@ -65,3 +65,4 @@ Narrative review assertion attributed to the included primary studies (Moliterno
 - [Immersive VR assessments of nursing and medical students are concentrated in settings that are difficult to replicate, especially emergencies](vr-assessments-concentrated-in-difficult-to-replicate-emergency-settings.md) — related
 - [High-fidelity SBL does not outperform low-fidelity SBL on knowledge and skill gains, per one study the review cites](high-fidelity-not-superior-to-low-fidelity-sbl.md) — reports the opposite
 - [Simulation-based learning consistently improves nursing students' knowledge and skills acquisition across diverse designs and simulation topics](sbl-improves-nursing-knowledge-skills-acquisition.md) — related
+- [In situ simulated emergency training improves clinical reasoning in junior nurses](in-situ-set-improves-clinical-reasoning-junior-nurses.md) — related

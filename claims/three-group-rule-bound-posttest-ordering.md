@@ -48,3 +48,4 @@ One-way ANOVA (Table 13: F = 102.25, Sig. 0.00) with LSD post hoc comparisons (T
 - [Focused audio-appended reading tasks produced significantly higher written accuracy than unfocused tasks for the rule-bound structure (passive voice) on the posttest](focused-outperformed-unfocused-rule-bound-accuracy.md) — a narrower finding that bears on this claim
 - [On the non-rule-bound posttest, focused outperformed both unfocused and control groups, and unfocused outperformed control](three-group-non-rule-bound-posttest-ordering.md) — related
 - [Before treatment, focused, unfocused, and control groups did not differ significantly in accuracy for either structure type](pretest-accuracy-group-equivalence.md) — related
+- [Accuracy differs significantly among the three intervention groups on the quiz, with graded values across groups](puzzle-intervention-groups-graded-quiz-accuracy.md) — related

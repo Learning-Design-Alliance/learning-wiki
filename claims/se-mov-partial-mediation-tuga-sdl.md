@@ -3,6 +3,7 @@ type: claim
 title: Self-efficacy and motivation partially mediate the negative relationship between thoughtless GenAI use and self-directed learning, including a sequential SE→MOV pathway
 description: Self-efficacy and motivation partially mediate the negative relationship between thoughtless GenAI use and self-directed learning, including a sequential SE→MOV pathway
 id: se-mov-partial-mediation-tuga-sdl
+aliases: [se-mov-partial-mediation-tuga-sdl-henan-sem]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -35,8 +36,11 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q2 i?` Indirect effects through MOV (β = −0.37), SE (β = −0.09), and the sequential SE–MOV path (β = −0.20) are all significant, and the direct effect remains significant, indicating partial mediation. [→ Hui Zhao & Huijuan Gu 2026](#hui-zhao-huijuan-gu-2026)
 `q2 i?` The direct TUGA→SDL effect remains significant alongside the indirect effects, so mediation is partial rather than full. [→ Hui Zhao & Huijuan Gu 2026 (2)](#hui-zhao-huijuan-gu-2026-2)
+
+`q2 i?` Indirect effects through MOV (β = −0.37, p < .001), SE (β = −0.09, p = .012), and the sequential SE–MOV path (β = −0.20, p = .003) were all significant, with the direct effect remaining significant (partial mediation). [→ Zhao Hui; Gu Huijuan 2026](#hui-zhao-huijuan-gu-2026-2)
 
 ## Evidence
 
@@ -60,10 +64,24 @@ Same mediation analysis (Table 8, all paths labelled PM, partial mediation). Bec
 
 > "At the same time, the direct effect remained significant (β = −0.42, t = 6.76, p < .001). These results indicate that SE, MOV , and the sequential SE–MOV pathway partially mediate the relationship between the TUGA and SDL."
 
+<!-- merged 2026-11-04 from se-mov-partial-mediation-tuga-sdl-henan-sem: that page's entry for this study, which differed from the one above, kept verbatim.
+### Zhao Hui; Gu Huijuan 2026
+
+Zhao Hui; Gu Huijuan. (2026). Thoughtless use of generative artificial intelligence and college students’ self-directed learning: a multi-group SEM analysis of gender differences. Scientific Reports 16. https://doi.org/10.1038/s41598-026-54337-y
+
+`q2 · i?`
+
+Bootstrapped mediation analysis within PLS-SEM on the 487-student sample, testing direct and indirect effects. All three indirect paths were significant while "the direct effect remained significant", which the article classifies as partial mediation (PM) in Table 8.
+
+> "the indirect effects through MOV (β = −0.37, t = 5.52, p < .001), SE (β = −0.09, t = 2.50, p = .012), and the sequential path of SE and MOV (β = −0.20, t = 2.75, p = .003) were all significant. At the same time, the direct effect remained significant (β = −0.42, t = 6.76, p < .001)."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender](gender-moderates-tuga-effects.md) — related
 - [Thoughtless use of generative AI significantly and negatively predicts both self-efficacy and motivation](tuga-negative-effect-se-mov.md) — related
 - [Self-efficacy has a significant positive effect on motivation among undergraduates using generative AI](se-positive-effect-mov.md) — related
@@ -74,3 +92,6 @@ Same mediation analysis (Table 8, all paths labelled PM, partial mediation). Bec
 - [The TUGA, motivation, and self-efficacy jointly explain 75.3% of the variance in undergraduates’ self-directed learning](model-explains-75-percent-sdl-variance.md) — related
 - [Student-perceived cognitive activation partially mediates the relation between student-observed learning activities and students' effort in learning](cognitive-activation-mediates-icap-effort-relation-distance-teaching.md) — related
 - [In the article's running example, treatment improves behavior partly through effortful control, yielding partial mediation](partial-mediation-effortful-control-example.md) — related
+- [The structural model explains 75.3% of the variance in self-directed learning, but measurement invariance across gender was only partial](sdl-variance-explained-partial-invariance.md) — related
+- [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest predictor](se-mov-positive-predict-sdl-henan-sem.md) — related
+- [Thoughtless use of generative AI exerts a significant direct negative effect on undergraduates’ self-directed learning](tuga-negative-direct-effect-sdl-henan-sem.md) — related

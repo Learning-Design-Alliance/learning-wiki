@@ -54,3 +54,4 @@ Pearson correlations between pooled motivational assessments and test/exam resul
 - [The learning advantage of multimedia introductory messages is partially visible on global exams and not durable across the study](multimedia-introductory-message-exam-effect-partial.md) — related
 - [Across the total sample, exam scores correlated only weakly with total course points earned in learning activities (r = 0.30), suggesting grades did not strictly follow assessed learning](weak-correlation-exam-scores-course-points.md) — related
 - [Belief in combining learning modalities shows a weak positive correlation with exam scores](multimodal-belief-weak-positive-exam-correlation.md) — related
+- [Sepsis knowledge correlates only weakly with self-rated confidence (r = .213)](weak-knowledge-confidence-correlation-sepsis.md) — related

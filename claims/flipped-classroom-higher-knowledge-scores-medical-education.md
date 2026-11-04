@@ -63,3 +63,5 @@ Meta-analysis of 127 studies (21,171 participants; 90 observational studies and 
 - [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](flipped-classroom-higher-motivation-imms.md) — related
 - [Flipped classroom and traditional classroom groups show comparable multiple-choice question performance (p = 0.651)](fc-comparable-multiple-choice-performance.md) — related
 - [Flipped classroom residents score higher on clinical skills assessment than traditional classroom residents (89.23 ± 2.71 vs. 86.11 ± 3.59, p = 0.001)](fc-higher-clinical-skills-scores-gastroenterology.md) — related
+- [Flipped classroom students achieve significantly higher post-test knowledge scores than lecture-based students in practical gastrointestinal anatomy (Cohen's d = 0.87)](flipped-classroom-higher-posttest-gi-anatomy.md) — a narrower finding that bears on this claim
+- [In the same RCT, no significant between-group differences were observed in baseline theoretical knowledge or clinical skills scores before teaching](pbl-virtual-simulation-no-baseline-differences-trauma-orthopedics.md) — related

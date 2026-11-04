@@ -54,6 +54,7 @@ The review recommends that future studies pair digital metrics with concurrent v
 - [Prioritize predictive-validity research, benchmarking of existing tools, and integration of kinematic data and AI in surgical skill assessment](future-migs-assessment-kinematic-ai-benchmarking.md)
 - [Prioritize longitudinal studies tracking trainees from simulation to real-world surgical performance](longitudinal-simulation-to-or-tracking-studies.md)
 - [Use performance thresholds that meaningfully measure surgeon performance alongside standardized terminology when assessing surgical learning curves](meaningful-thresholds-standardized-terminology-learning-curves.md)
+- [Design future AR simulation studies with objective performance measures, controlled comparative designs and validated usability instruments](ar-simulation-future-study-design-recommendations.md)
 
 ## Examples
 -

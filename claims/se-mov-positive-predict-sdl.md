@@ -60,3 +60,6 @@ Same PLS-SEM path analysis (Table 6). MOV was the strongest direct predictor of 
 - [Reflective AI use predicts programming self-efficacy and engagement, while PSE does not predict engagement (survey SEM)](ru-predicts-pse-and-engagement-pse-null.md) — related
 - [Teachers' self-efficacy for SRL promotion, but not their attainment value, is positively related to their self-reported SRL promotion when both are modelled simultaneously](teacher-self-efficacy-predicts-srl-promotion.md) — related
 - [College students' attributions of motivation problems to lack of value and interest strongly predict lower intention to take additional classes in the field](value-interest-attributions-predict-attrition-intention.md) — related
+- [The structural model explains 75.3% of the variance in self-directed learning, but measurement invariance across gender was only partial](sdl-variance-explained-partial-invariance.md) — related
+- [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest predictor](se-mov-positive-predict-sdl-henan-sem.md) — possibly the same claim (merge candidate)
+- [Thoughtless use of generative AI exerts a significant direct negative effect on undergraduates’ self-directed learning](tuga-negative-direct-effect-sdl-henan-sem.md) — related

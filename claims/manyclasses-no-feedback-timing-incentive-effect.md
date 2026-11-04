@@ -48,3 +48,4 @@ The article reports, citing Fyfe et al. (2021), a ManyClasses within-participant
 - [Extrinsic incentives have mixed results on effort and achievement, working better when immediate and larger](extrinsic-incentives-mixed-results-effort-achievement.md) — related
 - [Immediate Elaborated Feedback in a formative assessment game significantly improved students' programming knowledge, interest, and problem-solving versus systems without immediate feedback](immediate-elaborated-feedback-improves-programming-learning.md) — reports the opposite
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
+- [Feedback timing (immediate vs delayed) shows mixed effects, with no timing effect found in some studies](feedback-timing-mixed-evidence.md) — a broader claim this one bears on

@@ -51,3 +51,4 @@ Pearson correlation analysis (Table 8) in the cross-sectional survey of 134 inte
 ## Related Claims
 - [Dental interns report limited clinical exposure and low self-perceived preparedness for laminate veneer treatment](low-self-perceived-clinical-preparedness-veneers.md) — related
 - [Students' self-reported AI literacy was moderately negatively correlated with objectively measured AI competency, suggesting potential overestimation of AI abilities](perceived-ai-ability-misaligns-objective-competency.md) — related
+- [Knowledge scores are positively associated with self-reported screening and counselling practice among dental interns](knowledge-practice-association-dental-interns-opmd.md) — related

@@ -107,3 +107,4 @@ Review synthesis reporting the grade-by-SES interaction from the Australian stud
 - [Tablet-based DGBL shows strong efficacy for children from low-SES families](tablet-dgbl-effective-low-ses-children.md) — related
 - [SES is negatively associated with children's cognitive and academic performance, leading to long-term educational and economic disparities](ses-negative-association-cognitive-academic.md) — related
 - [Authentic learning raised achievement similarly across low, medium and high socioeconomic status schools](authentic-learning-effective-across-ses-levels.md) — related
+- [The pandemic negatively affected most children's lifestyle domains regardless of vulnerability status](pandemic-negative-lifestyle-effects-across-groups.md) — reports the opposite

@@ -55,3 +55,4 @@ LLM-as-a-judge evaluation of 120 learning activities across four Gemini models a
 - [The three system architectures differ sharply in computational cost, with MAS-CMD trading the highest rubric scores for the greatest latency and token usage](quality-efficiency-tradeoff-mas-architectures.md) — related
 - [Teaching primarily helps the student agent realize existing potential rather than raise its absolute performance ceiling](teaching-narrow-pass-gap-not-ceiling.md) — related
 - [LLM evaluators converged on agent rankings but differed markedly in leniency and discrimination](llm-evaluators-leniency-ceiling-effects.md) — related
+- [Brief written rubric-based assessments may have limited sensitivity to detect incremental effects of serious-game add-ons due to potential ceiling effects](brief-rubric-assessment-limited-sensitivity-ceiling.md) — related

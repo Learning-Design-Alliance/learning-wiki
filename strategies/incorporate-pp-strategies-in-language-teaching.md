@@ -44,7 +44,8 @@ Based on the finding that PP interventions positively affect language performanc
 - [Grit and enjoyment are key positive-psychology predictors of language learning success](../claims/grit-and-enjoyment-predict-language-success.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Integrate resilience-building strategies and psychological skills into communication training](integrate-resilience-building-in-communication-training.md)
 
 ## Examples
 -

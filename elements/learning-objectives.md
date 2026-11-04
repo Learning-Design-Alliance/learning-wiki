@@ -13,7 +13,7 @@ generated:
 # Learning Objectives
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 10 studies (5 quant-synthesis, 2 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 10 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 11 studies (5 quant-synthesis, 2 causal, 2 review, 1 associational, 1 design), `q2`–`q4` · 5 of 11 report an effect size · 3 claims rest on one study
 
 ## Description
 Learning objectives are explicit statements of the knowledge, skills, or dispositions learners should acquire, typically phrased in observable terms ("analyze," "construct," "compare" rather than "understand" or "appreciate"). They function as the design contract of a learning experience: aligning content, activities, and assessment around a shared target.
@@ -55,6 +55,7 @@ Well-specified objectives improve learning primarily by orienting learners' atte
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Theory-based agents show significantly better Objective-Assessment alignment (d = 0.32), while Content-Activity alignment favors non-theory agents (d = -0.19)](../claims/objective-assessment-alignment-theory-advantage.md) [~W]
 - [Courses with higher-order learning objectives use and emphasize GAI skills more across its roles](../claims/higher-order-objectives-courses-emphasize-gai-skills-more.md) [+W]
+- [Delphi panel reached consensus on six competence areas and 43 learning objectives for dental care of DOP](../claims/delphi-consensus-43-learning-objectives-dop.md) [+W] — attached 2026-11-04 from Hillebrecht Anna‐Lena et al. (2026), which proposed "Graduate profile with 21 learning objectives for dental care of dependent older people".
 
 ## Related Elements
 

@@ -51,3 +51,4 @@ Systematic mapping review searching seven databases from inception to October 20
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
 - [In a theory-guided in-situ simulation programme, an interprofessional primary care team progressed through the expansive learning cycle from questioning current practice to consolidating new practices](simlab-expansive-learning-cycle-progression.md) — related
 - [Regular ISS over longer periods was reported for complex practices and patient outcomes, while one to three sessions were reported effective for more easily defined or isolated tasks](iss-frequency-matches-task-complexity.md) — related
+- [The e-learning platform mapped onto the four stages of the Kolb experiential learning cycle within a blended learning design](kolb-cycle-blended-elearning-mapping.md) — related

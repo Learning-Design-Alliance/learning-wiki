@@ -56,3 +56,4 @@ Multilevel meta-analysis of cross-sectional (k = 35) and longitudinal (k = 8) ob
 - [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related
 - [Resistance training alone is more effective than concurrent (resistance plus aerobic) training for cognition and academic outcomes in youth](resistance-training-more-effective-than-concurrent-training.md) — related
 - [Resistance training interventions have a small positive effect on combined cognition, academic achievement, and on-task behaviour in school-aged youth](resistance-training-small-positive-effect-academic-outcomes-youth.md) — related
+- [Students with good school achievement showed higher balance, lower limb coordination, and global physical fitness than insufficient achievers](good-achievement-higher-motor-fitness-scores.md) — related

@@ -48,3 +48,4 @@ MANCOVA between-group contrast on overall self-assessment (cognition, skill, and
 - [Blended e-learning students reported significantly higher self-assessed cognition and skill than traditional-learning students, with no significant difference in attitude](blended-elearning-self-assessment-cognition-skill.md) — a narrower finding that bears on this claim
 - [Students' self-assessment scores rose significantly from before to after studying through blended e-learning, with medium-to-large gains on all three aspects](self-assessment-gains-after-blended-elearning.md) — related
 - [Blackboard-based blended teaching produced significantly higher academic achievement than traditional teaching, with η² = 0.75](blackboard-blended-teaching-achievement-eta-075.md) — related
+- [MOOC-HFS blended internship improves academic performance across all assessments compared to traditional teaching](mooc-hfs-blended-improves-academic-performance.md) — related

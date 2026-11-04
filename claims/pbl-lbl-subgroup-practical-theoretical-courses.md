@@ -70,3 +70,4 @@ Null subgroup findings from the same practical-versus-theoretical course-type su
 - [Hybrid PBL+LBL pedagogy yields significantly better clinical skills assessment scores than LBL alone](pbl-lbl-hybrid-better-skills-scores.md) — related
 - [Hybrid PBL+LBL pedagogy yields significantly better clinical theoretical knowledge assessment scores than LBL alone in Chinese medical students](pbl-lbl-hybrid-better-theory-scores-china.md) — related
 - [PBL+LBL significantly increases medical writing scores compared with LBL alone](pbl-lbl-increases-medical-writing-scores.md) — related
+- [In the same RCT, no significant between-group differences were observed in baseline theoretical knowledge or clinical skills scores before teaching](pbl-virtual-simulation-no-baseline-differences-trauma-orthopedics.md) — related

@@ -55,6 +55,8 @@ The review recommends that curriculum integration of ECE proceed "through hybrid
 - [Secure institutional support for patient recruitment, faculty development, and logistics before adopting patient-in-classroom teaching](institutional-support-patient-in-classroom-adoption.md)
 - [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](scaffolded-collaborative-to-individual-simulation-progression.md)
 - [Strengthen simulation-based training, clinical case exposure, and complication management in undergraduate prosthodontic education](simulation-training-clinical-exposure-veneer-education.md)
+- [Incorporate more clinical exposure and preclinical simulations to improve dental students' TDI management knowledge and confidence.](more-clinical-exposure-preclinical-simulations-tadi.md)
+- [Sequence OCL before SBL in a hybrid professional development framework](ocl-then-sbl-hybrid-teacher-pd.md)
 
 ## Examples
 -

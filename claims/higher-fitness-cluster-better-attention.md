@@ -74,3 +74,4 @@ d’ Cohen = 0.58, 95% CI [0.21, 0.95])"
 - [Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents](vo2max-best-correlated-cognition.md) — related
 - [Adolescents with high weekly physical exercise hours (more than 4 h/week) show significantly better selective attention, concentration, and processing speed than lower-exercise groups, with no differences between low and moderate groups](high-exercise-hours-better-cognitive-adolescents.md) — related
 - [Benefits of practical life exercises for attention emerge for girls but not boys](practical-life-attention-gender-effect.md) — related
+- [In the high-achievement network, age was negatively correlated with sustained (−0.58) and alternating attention (−0.47), while physical fitness was positively correlated with motor coordination (0.39) and physical activity (0.32)](high-achievement-network-age-attention-fitness-edges.md) — related

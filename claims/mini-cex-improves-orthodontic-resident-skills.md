@@ -52,3 +52,5 @@ The review reports that "Jamenis et al. (2020) found that Mini-CEX improved orth
 - [A structured feedback format enabled peer observers to observe systematically and helped presenters identify areas to improve](structured-peer-feedback-format-improves-presentations.md) — related
 - [AI scores correlated significantly with Mini-CEX scores (r = 0.579, p < 0.001)](ai-scores-correlate-minicex-r-0579.md) — related
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — a narrower finding that bears on this claim
+- [Classic Mini-CEX systematically overlooks OHL communication practices in pediatric pneumonia education](mini-cex-blind-spot-ohl-communication.md) — related
+- [Dual formative feedback operates bidirectionally at provider and organizational levels](ohl-mini-cex-dual-feedback.md) — related

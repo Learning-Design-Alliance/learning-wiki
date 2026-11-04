@@ -48,3 +48,4 @@ Correlational analysis of the full sample of 48 student teachers reported in Res
 - [The inquiry-based instruction group scored significantly higher than the traditional-approach group on the post-test of scientific process skills](inquiry-group-higher-post-test-spst.md) — related
 - [Post-game competence, effort, and deep-learning strategy use correlate significantly with pre-game measures, but interest does not](pre-post-motivation-correlations-stability.md) — related
 - [Pre- and post-test scores are positively correlated in the whole sample (r=0.63, p<0.01) and in the middle school subsample (r=0.63, p<0.01)](pre-post-test-correlation-computational-fluency.md) — related
+- [Exit quiz scores correlated positively with both pre- and post-PI scores.](exit-quiz-correlates-pre-post-pi.md) — related

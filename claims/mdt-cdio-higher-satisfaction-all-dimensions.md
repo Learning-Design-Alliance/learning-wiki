@@ -50,3 +50,4 @@ Self-designed 40-item satisfaction questionnaire (Cronbach's α = 0.921, CVI = 0
 - [MDT-CDIO integrated teaching yields higher theoretical assessment scores than traditional teaching in orthopedic clinical education](mdt-cdio-higher-theoretical-assessment-scores.md) — related
 - [A minority of students report challenges integrating expert perspectives and desire more hands-on practice during initial MDT-CDIO implementation](mdt-cdio-implementation-challenges-hands-on-time.md) — related
 - [Most students report that the MDT-CDIO model enhances interdisciplinary collaboration and clinical reasoning skills](mdt-cdio-students-report-enhanced-collaboration-reasoning.md) — related
+- [In the same RCT, the experimental group reported higher scores than the control group across all five dimensions of teaching satisfaction (all P < 0.05)](pbl-virtual-simulation-satisfaction-all-dimensions-trauma-orthopedics.md) — related

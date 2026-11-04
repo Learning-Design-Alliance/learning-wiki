@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 69 claims (38 for, 26 mixed, 5 against) · 39 studies (23 causal, 12 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 12 of 39 report an effect size · 68 claims rest on one study
+> **Evidence** · 72 claims (41 for, 26 mixed, 5 against) · 40 studies (24 causal, 12 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 13 of 40 report an effect size · 71 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -93,6 +93,9 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Both groups improved significantly from pretest to posttest, but improvement was significantly greater in the flipped classroom condition](../claims/flipped-rct-greater-within-group-gain.md) [+M]
 - [Within the flipped learning experimental group, pretest-posttest and pretest-follow-up gains were significant while the posttest-follow-up difference was not](../claims/flipped-group-within-gains-significant-retention.md) [+W]
 - [MANOVA on the seven CUCEI subscales yielded a significant multivariate effect favoring the flipped classroom (Pillai's Trace = 0.93)](../claims/flipped-rct-cucei-manova-omnibus.md) [+W]
+- [Flipped classroom students are nearly twice as likely to meet physical activity recommendations as traditional-instruction students immediately post-course.](../claims/fc-doubles-odds-of-meeting-pa-guidelines.md) [+W]
+- [Self-directed learning ability and autonomous motivation each significantly and partially mediate the effect of flipped classroom on physical activity.](../claims/sdl-and-am-partially-mediate-fc-pa.md) [+W]
+- [A chained indirect effect through self-directed learning ability then autonomous motivation significantly transmits the flipped classroom effect on physical activity.](../claims/chained-sdl-then-am-indirect-effect.md) [+W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

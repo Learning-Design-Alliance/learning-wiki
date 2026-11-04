@@ -15,7 +15,7 @@ grain_size: lesson
 # Think-Pair-Share
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 22 claims (10 for, 12 mixed) · 39 studies (15 causal, 11 review, 6 quant-synthesis, 2 associational, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 8 of 39 report an effect size · 12 claims rest on one study
+> **Evidence** · 23 claims (10 for, 13 mixed) · 40 studies (15 causal, 11 review, 6 quant-synthesis, 2 associational, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 8 of 40 report an effect size · 13 claims rest on one study
 
 ## Description and scope
 
@@ -116,6 +116,7 @@ This pattern is scoped to a short routine embedded in a larger lesson. It is not
 - [Cooperative learning with Think-Pair-Share and RoundTable was followed by larger critical thinking gains than traditional teaching in 4th graders, in a two-class quasi-experiment](../claims/tps-roundtable-cooperative-learning-critical-thinking-gains.md) [+W]
 - [An individual preparation phase before collaborative concept mapping yields significantly more clarification and positioning statements and less non-task talk in the epistemic dimension](../claims/wip-more-clarification-positioning-epistemic.md) [+W]
 - [Wait time increased student participation in classroom discussion](../claims/wait-time-increases-participation.md) [+W]
+- [Free-text comments raised fairness concerns about pairing with a weaker partner and technical and organizational issues with the digital format](../claims/whisper-exam-fairness-and-digital-format-criticisms.md) [~W]
 
 ## Related Patterns
 - [Peer Instruction](peer-instruction.md)

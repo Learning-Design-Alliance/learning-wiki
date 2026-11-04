@@ -76,3 +76,4 @@ Review reports correlational evidence on perceived assessment appropriateness an
 - [Teacher-centred students reported cognitive difficulties including inefficient, transient, superficial and rote learning](tcbio-inefficient-transient-superficial-rote-learning.md) — related
 - [PBL supports deep, meaningful, and permanent learning while LBCC is associated with superficial learning](pbl-deep-learning-vs-lbcc-superficial.md) — a narrower finding that bears on this claim
 - [The interaction effect between students' learning approaches and the three treatment modes on posttest scores was not significant.](no-interaction-learning-approach-treatment-mode.md) — related
+- [The integrated Rain Classroom/CBL approach shifted learning emphasis toward deeper conceptual understanding potentially at the expense of rote memorization](rain-classroom-cbl-shifted-learning-emphasis.md) — a narrower finding that bears on this claim

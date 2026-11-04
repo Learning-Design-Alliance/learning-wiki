@@ -78,3 +78,4 @@ Evaluator-blinded parallel RCT (n=20 medical students) comparing Vuzix M300XL sm
 - [Simulation-based training improves suturing, cutting, and cautery skills](simulation-training-improves-suturing-cutting-cautery.md) — related
 - [Simulator-based skills training improves performance in therapeutic endoscopic procedures (polypectomy, upper GI bleeding control, esophageal dilation)](simulator-training-improves-therapeutic-endoscopy-skills.md) — related
 - [Improvements in suturing skills are not significantly associated with age, seniority or previous training history](suturing-gain-unrelated-to-age-seniority-history.md) — related
+- [Both groups perform comparably on basic tasks such as completing medical history forms and pre-LA aspiration](comparable-basic-task-performance-between-groups.md) — a narrower finding that bears on this claim

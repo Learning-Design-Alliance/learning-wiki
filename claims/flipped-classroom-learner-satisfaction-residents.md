@@ -83,3 +83,5 @@ Learner-group subgroup analysis for satisfaction (Fig. 6B): undergraduates SMD =
 - [Students in both classes reported low satisfaction with the traditional summative assessment model](summative-assessment-dissatisfaction-translation.md) — related
 - [Team collaboration shows the largest perceived-effectiveness advantage for the flipped classroom (2.64 ± 0.53 vs. 2.14 ± 0.83, p < 0.001)](fc-largest-team-collaboration-advantage.md) — related
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](fc-satisfaction-and-implementation-challenges.md) — a narrower finding that bears on this claim
+- [Active learning and team-based learning interventions have not consistently improved shelf exam scores](active-learning-no-consistent-shelf-improvement.md) — related
+- [Flipped classroom students report more positive perceptions of resources, effort, and overall learning environment on the AEEMI](flipped-classroom-positive-aeemi-perceptions.md) — related

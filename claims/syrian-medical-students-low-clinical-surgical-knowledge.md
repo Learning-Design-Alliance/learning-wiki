@@ -51,3 +51,4 @@ Cross-sectional survey of 500 Syrian medical students and recent graduates using
 - [Item-level performance reveals specific weaknesses in radiology interpretation and specialized clinical topics](item-level-weaknesses-radiology-clinical-topics-syria.md) — a narrower finding that bears on this claim
 - [Multivariable regression confirms gender and university as independent predictors of knowledge score](regression-gender-university-predictors-knowledge-syria.md) — related
 - [Academic year, marital status, working status, and financial status show no significant association with knowledge level](no-association-demographics-knowledge-syria.md) — related
+- [Medical interns demonstrate suboptimal diagnostic performance in oral diseases, averaging 7.14 ± 2.9 on a 0–20 scale](medical-interns-suboptimal-oral-disease-diagnostic-performance.md) — related

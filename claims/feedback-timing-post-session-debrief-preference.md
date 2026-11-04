@@ -58,3 +58,4 @@ Formative interview finding on feedback timing: a participant stated "Do not int
 - [Learners valued repeatable practice and recorded review in MedEasy while questioning missing actions and feedback criteria](learners-value-repeatable-practice-question-gaps.md) — related
 - [Formative participants found human SP practice valuable for embodied cues but episodic and unevenly connected to individualized feedback](human-sp-practice-episodic-uneven-feedback.md) — related
 - [Immediate explanatory feedback prevents consolidation of erroneous concepts in interactive tutoring](immediate-explanatory-feedback-prevents-error-consolidation.md) — related
+- [CHW trainees value real-time SP feedback and debriefing for refining MI techniques and deepening learning](chws-value-sp-feedback-and-debriefing-in-mi-simulation-training.md) — related

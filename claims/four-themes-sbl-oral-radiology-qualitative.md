@@ -49,3 +49,4 @@ Qualitative thematic analysis of open-ended responses independently coded by two
 - [Dental students hold overall positive perceptions of simulation-based learning in oral radiology, with a combined mean of 4.27 on a 5-point Likert scale](dental-students-positive-perceptions-sbl-oral-radiology.md) — related
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Educator open-ended responses yield four themes: ChatGPT dominance, need for methodological guidance, ethical concerns, and infrastructure barriers](educator-ai-barriers-four-themes.md) — related
+- [Four factors influence learners' non-use of OLRs: personal study habits, content value, time cost, and resource delivery](four-factors-influence-olr-non-use.md) — related

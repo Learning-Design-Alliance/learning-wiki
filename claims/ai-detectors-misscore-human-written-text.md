@@ -59,3 +59,4 @@ A single anecdotal test reported in the dialogue: a paper written without AI was
 - [In a paired exploratory comparison, extensive machine rewriting by a commercial humanizer materially degraded the manuscript while changing the detection score only slightly](humanizer-rewriting-small-score-change.md) — related
 - [Educators run more proctored AI-free assessments conditionally on compromised outcomes, and reject AI detectors based on classroom experience of false positives](conditional-ai-free-assessment-detector-false-positives.md) — related
 - [Neither humans nor machines reliably detect machine-generated text; humans detect it at chance level](ai-text-detection-at-chance-level.md) — related
+- [Free-text comments raised fairness concerns about pairing with a weaker partner and technical and organizational issues with the digital format](whisper-exam-fairness-and-digital-format-criticisms.md) — related

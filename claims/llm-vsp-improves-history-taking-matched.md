@@ -53,3 +53,4 @@ Propensity-matched comparison (40 pairs) of end-of-term OSCE scores with real st
 - [Some VSP history-taking behaviors correlated with clinical reasoning metrics](vsp-behaviors-correlate-clinical-reasoning.md) — related
 - [The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items](empathy-checklist-item-largest-gain.md) — related
 - [In an RCT reviewed by this study, an LLM-based digital patient improved ophthalmology medical history-taking skills relative to control](llm-digital-patient-improves-history-taking-rct.md) — related
+- [GP residents showed statistically significant pre-post improvements in history-taking (Cohen's d = 1.11) and clinical reasoning (Cohen's d = 1.32) after a 12-week VP training program](vp-training-improves-history-taking-clinical-reasoning.md) — related

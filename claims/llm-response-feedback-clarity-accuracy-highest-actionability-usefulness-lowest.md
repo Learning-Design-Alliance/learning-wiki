@@ -51,3 +51,4 @@ Cross-sectional rating study of 144 students across three educational levels who
 - [Students rate human-generated feedback as superior to AI-generated feedback in quality, helpfulness, and clarity, and as more likely to be acted upon](human-feedback-rated-superior-to-ai-feedback.md) — related
 - [Only perceived accuracy differed across educational contexts, rated lower in CTeSP than in secondary and undergraduate education](perceived-accuracy-lower-ctesp-context-difference.md) — related
 - [EFL learners rated explicit strategy instruction favorably and reported increased confidence and efficiency in learning.](learners-perceive-strategy-instruction-as-useful.md) — related
+- [Students rated faculty-reviewed AI-generated pharmacology feedback favourably, with median scores of 4 out of 5 across clarity, actionability, confidence and usefulness](students-rate-moderated-ai-feedback-median-4-of-5.md) — related

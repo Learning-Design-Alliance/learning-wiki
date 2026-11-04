@@ -47,6 +47,7 @@ Based on the review's findings that distress and burnout hinder performance whil
 ## Related Strategies
 
 - [Integrate social-emotional learning into school programs alongside academic content](integrate-sel-curricula-academic-content.md)
+- [Integrate resilience-building strategies and psychological skills into communication training](integrate-resilience-building-in-communication-training.md)
 
 ## Examples
 -

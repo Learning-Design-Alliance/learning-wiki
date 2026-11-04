@@ -85,3 +85,4 @@ Same survey's technology-access items; 96% of students used home internet access
 - [The authors observed higher course motivation among students using the analogy-based simulations](observed-motivation-analogy-simulation-students.md) — related
 - [Internet and computer access problems limited participation in the online argumentation implementation](internet-access-limits-online-argumentation.md) — related
 - [Students reported that internet connection instability and limited time were barriers to creating online comics](internet-and-time-barriers-online-comics.md) — related
+- [Access to technology and hardware was not seen as a barrier to SBE readiness, with adequate access reported (mean 3.21)](technology-access-not-a-barrier-to-sbe-readiness.md) — related

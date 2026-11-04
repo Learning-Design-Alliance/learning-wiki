@@ -50,3 +50,4 @@ Survey of the 322 students who reported using VM; Table 3 prints internet costs 
 - [Non-users of VM blamed lack of hardware devices, internet access, technical knowledge, and insufficient promotion by instructional personnel](vm-nonusers-obstacles-devices-promotion.md) — related
 - [Students experienced technical challenges, internet issues and navigation issues during engagement with online simulation approaches](students-experienced-technical-internet-navigation-issues.md) — related
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
+- [Key weaknesses were device compatibility, limited personalization, and lack of a navigation aid, each reported by roughly a third of users](elearning-weaknesses-device-navigation-personalization.md) — related

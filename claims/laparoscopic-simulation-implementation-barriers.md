@@ -57,3 +57,4 @@ Narrative mapping across included studies, notably the Wilkinson et al. systemat
 - [Resource availability and addressing technical and financial limitations are emphasized as facilitating conditions for XR in surgical training](xr-facilitating-conditions-resources-costs.md) — related
 - [Applying PBL widely in Chinese pediatric medical education is constrained by time demands, student knowledge-structure difficulties, and faculty and financial resources](pbl-adoption-barriers-chinese-pediatric-education.md) — related
 - [Diet and nutrition education within dental and dental hygiene schools is often fragmented and incomplete](diet-nutrition-education-fragmented-incomplete.md) — related
+- [Key barriers to SBE implementation are lack of knowledge or training, lack of awareness of resources, limited time and resources, and limited institutional support](sbe-barriers-knowledge-time-institutional-support.md) — related

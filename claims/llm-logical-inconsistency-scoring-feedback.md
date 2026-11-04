@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-04
 recheck_by: 2029
 sources:
   - id: cohn-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In the Rules Task evaluation, the LLM sometimes cited the relevant student text and applicable rubric directive yet still failed to award the appropriate point, a case the authors term logical inconsistency. [→ Cohn 2026](#cohn-2026)
@@ -64,3 +65,4 @@ Qualitative constant comparative analysis of GPT-4's reasoning chains during the
 - [Research-informed and ML-based rubrics assess students' mechanistic reasoning comparably, supporting ML techniques in rubric development](ml-and-research-informed-rubrics-assess-comparably.md) — related
 - [LLMs prompted with diverse strategies can analyze educational survey feedback and generate corrective tutor feedback at or above expert human performance in specific scenarios](llm-prompting-human-level-educational-feedback.md) — related
 - [The review concludes GPT-4 is not yet suitable for use in medical education despite its potential, due to insufficient accuracy, inconsistent performance, and country-specific policy and knowledge challenges](gpt4-not-yet-suitable-medical-education.md) — related
+- [The AI tended to award slightly generous scores and occasionally under-emphasised mechanistic reasoning](ai-tends-generous-scores-underemphasises-mechanistic-reasoning.md) — related

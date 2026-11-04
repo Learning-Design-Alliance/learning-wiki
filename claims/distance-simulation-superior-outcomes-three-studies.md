@@ -103,3 +103,5 @@ Study of 11 novice surgical trainees evaluating a virtual classroom training pla
 - [Simulation-based training significantly improves technical performance and accelerates skill acquisition in robotic surgery](simulation-training-improves-technical-performance.md) — related
 - [PainScan training produces superior pain assessment skill development compared to on-site training](painscan-superior-skill-development-vs-onsite.md) — related
 - [There is a limit to adaptability and competency development via telementoring when task complexity is high: mediastinal POCUS was less responsive to telementored feedback than lung POCUS](telementoring-complexity-ceiling-mediastinal-pocus.md) — related
+- [Healthcare professionals perceive AR smart glasses with real-time remote guidance as generally usable and acceptable in simulated pediatric bladder catheterization](ar-smart-glasses-favorable-usability-simulated-catheterization.md) — related
+- [No connectivity issues occurred during AR telementored simulation in a controlled environment with stable network infrastructure](ar-telementoring-no-connectivity-issues-controlled-environment.md) — related

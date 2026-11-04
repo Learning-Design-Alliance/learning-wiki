@@ -47,6 +47,7 @@ The review's forward‐looking recommendation is that "future research should in
 - [Future research on professional reasoning in occupational therapy should target information processing, reasoning modalities, methodological quality assessment, and non-English-speaking contexts](future-research-directions-professional-reasoning.md)
 - [Develop standardised delivery-quality assessment using a maximum of two scores (one communication, one content-delivery)](standardised-two-score-delivery-quality-assessment.md)
 - [Use a three-group design (two experimental, one control) to isolate the added explanation principle's effect](three-group-design-react-explanation-comparison.md)
+- [Design future AR simulation studies with objective performance measures, controlled comparative designs and validated usability instruments](ar-simulation-future-study-design-recommendations.md)
 
 ## Examples
 -

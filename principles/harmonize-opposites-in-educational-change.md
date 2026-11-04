@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 53 claims (39 for, 12 mixed, 2 against) · 43 studies (14 causal, 11 review, 9 theoretical, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 7 of 43 report an effect size · 51 claims rest on one study
+> **Evidence** · 54 claims (40 for, 12 mixed, 2 against) · 44 studies (15 causal, 11 review, 9 theoretical, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 7 of 44 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,7 @@ Claims the earlier page cited that the model above does not use; each is context
 - [The Mixed Course combining technical and didactic content in equal proportions was the only condition with significant reflective-CRK gains at both posttest and follow-up](../claims/mixed-course-only-significant-condition.md) [+M] — attached 2026-11-03 from Rosenkränzer et al. (2016), which proposed "Combine technical and subject-related didactic input in roughly equal proportions when promoting student teachers' CRK for teaching systems thinking"; tests this page's relationship.
 - [Students taught with an eclectic learning approach achieved significantly higher post-test scores in English than students taught with a traditional learning approach.](../claims/eclectic-approach-higher-english-achievement.md) [+W] — attached 2026-11-03 from Suleman et al. (2016), which proposed "Adopt an eclectic learning approach in elementary English teaching to improve achievement and retention."; tests this page's relationship.
 - [Students taught with an eclectic learning approach retained significantly more English content than students taught with a traditional learning approach.](../claims/eclectic-approach-higher-english-retention.md) [+W] — attached 2026-11-03 from Suleman et al. (2016), which proposed "Adopt an eclectic learning approach in elementary English teaching to improve achievement and retention."; tests this page's relationship.
+- [Blended reading and writing strategy training produces higher quality source-based essays than reading-only, writing-only, or control conditions](../claims/blended-strategy-training-improves-source-based-essay-quality.md) [+W] — attached 2026-11-04 from Weston-Sementelli et al. (2016), which proposed "Combine reading comprehension and writing strategy instruction to improve source-based writing performance"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

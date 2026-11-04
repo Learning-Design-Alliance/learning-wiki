@@ -57,6 +57,8 @@ The review recommends moving grief training out of isolated voluntary workshops 
 - [Breadcrumb strategy: embed small AI-native skill exercises, nudges, and prompts across multiple courses throughout the four-year curriculum](breadcrumb-strategy-ai-native-skills.md)
 - [Integrate EI into health sciences curricula through structured experiential methods such as reflective journaling, simulation, peer mentoring, and structured debriefing](ei-experiential-curriculum-integration-strategy.md)
 - [Integrate mandatory, longitudinal mental health literacy, self-care and reflective practice curricula throughout medical education rather than as isolated end-of-programme options.](longitudinal-mental-health-curriculum-medical-education.md)
+- [Adopt interdisciplinary simulation sessions to address curriculum gaps in topics spanning multiple specialties](interdisciplinary-simulation-for-cross-specialty-gaps.md)
+- [Spiral, phased integration of gerodontology content across all curriculum phases with regular assessment](spiral-phased-gerodontology-integration.md)
 
 ## Examples
 -

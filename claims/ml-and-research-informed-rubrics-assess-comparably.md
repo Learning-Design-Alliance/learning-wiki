@@ -49,3 +49,4 @@ The article's summary of its quantitative comparison of a research-informed rubr
 - [k-means and k-medoids clustering merged conceptually distinct mechanistic reasoning types, making them less effective than HDBSCAN for this data](kmeans-kmedoids-merged-distinct-reasoning-types.md) — related
 - [HDBSCAN clustering of BERT embeddings yielded fifteen clusters capturing the content and complexity of students' mechanistic reasoning](hdbscan-clusters-capture-reasoning-content-and-complexity.md) — related
 - [Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive](llm-logical-inconsistency-scoring-feedback.md) — related
+- [The AI tended to award slightly generous scores and occasionally under-emphasised mechanistic reasoning](ai-tends-generous-scores-underemphasises-mechanistic-reasoning.md) — related

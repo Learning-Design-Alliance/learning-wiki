@@ -67,6 +67,7 @@ Cumulative quizzing combines two of the most robust findings in learning science
 - Interleaved practice — cumulative quizzing's sibling; both force discrimination between topics
 - Feedback-driven review — the corrective loop that makes quiz retrievals safe and productive
 - [Implement weekly low-stakes spaced recall quizzes cycling fundamental concepts monthly, with a plan to address student frustration](weekly-spaced-recall-quiz-strategy-fundamental-concepts.md)
+- [Incorporate learner-recommended external question banks and apps alongside instructor-curated OLRs](incorporate-learner-recommended-olrs.md)
 
 ## Examples
 - **Introductory statistics courses using weekly cumulative quizzes** — a common implementation in discipline-based education research; each quiz samples regression, descriptives, and probability from prior weeks alongside new material.

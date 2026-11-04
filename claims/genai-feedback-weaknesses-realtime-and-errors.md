@@ -79,3 +79,4 @@ Same qualitative dataset; the discussion also notes ChatGPT's wrong string name 
 - [Challenges of asynchronous e-learning include lack of real-time feedback, computer-skill gaps, and insufficiency for confidence and practical skills](asynchronous-elearning-challenges-nurses.md) — related
 - [Mobile access to the Voice Thread application resolved participants' initial difficulties uploading voice entries](mobile-app-resolved-vt-upload-difficulties.md) — related
 - [Analysis of the existing computer-based instruction course identified four problems: unlinked program functions, rigid assessment, decontextualized applications, and weak feedback.](existing-cai-course-problems-analysis.md) — related
+- [Access to technology and hardware was not seen as a barrier to SBE readiness, with adequate access reported (mean 3.21)](technology-access-not-a-barrier-to-sbe-readiness.md) — related

@@ -56,3 +56,4 @@ Participants completed the same bandit task in two sessions on adjacent days wit
 - [Spatial orientation skills can be measured reliably with a gamified virtual-environment battery, with average test–retest reliability r = 0.74](vr-battery-reliably-measures-spatial-orientation.md) — related
 - [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](self-developed-test-reliability-069.md) — related
 - [The PRO-SDLS showed a high degree of reliability in this study's test-retest sample, with a Pearson coefficient of 0.91.](pro-sdls-reliability-confirmed-study-sample.md) — related
+- [Feedback orientation is a multidimensional quasi-trait stable for approximately six months, useful for tailoring feedback](feedback-orientation-quasi-trait-tailoring.md) — related

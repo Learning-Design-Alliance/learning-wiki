@@ -53,3 +53,4 @@ The article reports, citing Self (1999a), the field-level argument that systems 
 - [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](teachers-envision-chatbots-extending-capacity-availability.md) — related
 - [Providing all students with instant personalised guidance at the same time is a challenge for flipped learning that ChatGPT-FLGA was designed to address](flipped-learning-personalised-guidance-gap.md) — related
 - [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — related
+- [AI models could forecast student outcomes, supporting personalised learning strategies and early intervention](ai-models-forecast-student-outcomes-personalised-learning.md) — a narrower finding that bears on this claim

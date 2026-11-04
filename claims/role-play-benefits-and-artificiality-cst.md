@@ -52,3 +52,4 @@ The review's narrative synthesis of role play studies with medical and nursing s
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
 - [Most role-play-group students report the activity improved their history-taking skills and confidence communicating with real patients](role-play-student-questionnaire-perceived-benefits.md) — related
+- [CHW trainees value realistic standardized patient scenarios as a key benefit of simulation-based MI training](chws-value-realistic-sp-scenarios-in-mi-simulation-training.md) — related

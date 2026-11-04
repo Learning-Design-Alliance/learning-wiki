@@ -45,7 +45,8 @@ The authors recommend that "to facilitate early detection and possibly even effe
 - [The mutualism model provides the best account of longitudinal changes in vocabulary and matrix reasoning, with by far the highest normalized model-selection probability](../claims/mutualism-model-best-fit-vocabulary-reasoning.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Monitor learning difficulties as they emerge during educational disruption rather than relying solely on preexisting vulnerability indicators](monitor-emerging-learning-difficulties-during-disruption.md)
 
 ## Examples
 -

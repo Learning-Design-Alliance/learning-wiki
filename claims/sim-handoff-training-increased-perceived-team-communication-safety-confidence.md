@@ -73,3 +73,4 @@ Same SET-M post-simulation survey item on confidence in communicating with the h
 - [Student confidence in patient communication showed more variability than confidence in provider-to-provider communication after the handoff simulation.](sim-handoff-training-patient-communication-confidence-variability.md) — related
 - [Students perceive simulation practice as a protective factor that enhances confidence, safety, and readiness for real procedures](simulation-perceived-protective-factor-confidence.md) — related
 - [Students recommended offering the handoff simulation earlier in the curriculum, before or at the beginning of clinical rotations.](students-recommend-earlier-handoff-simulation-placement.md) — related
+- [Students perceived HVRS training as useful and wanted it integrated into the endodontics curriculum](hvrs-positive-student-perceptions.md) — related

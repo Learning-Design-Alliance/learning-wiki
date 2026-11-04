@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 200 claims (98 for, 83 mixed, 19 against) · 113 studies (34 review, 29 causal, 16 quant-synthesis, 14 design, 13 qualitative, 4 theoretical, 3 associational), `q1`–`q4` · 21 of 113 report an effect size · 195 claims rest on one study
+> **Evidence** · 210 claims (106 for, 85 mixed, 19 against) · 116 studies (34 review, 30 causal, 16 quant-synthesis, 15 design, 13 qualitative, 4 associational, 4 theoretical), `q1`–`q4` · 23 of 116 report an effect size · 205 claims rest on one study
 
 ## Description and scope
 
@@ -150,6 +150,9 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Simulation-trained medical students obtain higher tutor-rated practical patient-education scores than students trained with real patients or with theory alone](../claims/simulation-training-higher-practical-patient-education-scores.md) [+W] — attached 2026-11-04 from Aparicio M. et al. (2026), which proposed "Combine theoretical lessons with simulation-based learning to teach patient education competencies"; tests this page's relationship.
 - [Evaluating patient learning is the weakest patient-education competency and the one most responsive to simulation training](../claims/evaluating-patient-learning-weakest-simulation-responsive.md) [+W] — attached 2026-11-04 from Aparicio M. et al. (2026), which proposed "Combine theoretical lessons with simulation-based learning to teach patient education competencies"; tests this page's relationship.
 - [Junior pediatric surgeons who received SPS plus online CBL had significantly lower SAS scores than the control group at 1 month after on-call initiation](../claims/sps-cbl-lower-sas-one-month.md) [~W] — attached 2026-11-04 from Li Yang et al. (2026), which proposed "Blended four-week program of emergency standardized patient simulation plus structured online case-based learning".
+- [Simulation-based MI training significantly improves CHW trainees' confidence in engaging in conversations with individuals holding differing opinions](../claims/simulation-mi-training-increases-chw-confidence-engaging-differing-opinions.md) [+M] — attached 2026-11-04 from Chance-Revels et al. (2026), which proposed "Integrate simulation-based MI training with SPs, authentic scenarios, and immediate feedback into CHW education programs".
+- [GP residents showed statistically significant pre-post improvements in history-taking (Cohen's d = 1.11) and clinical reasoning (Cohen's d = 1.32) after a 12-week VP training program](../claims/vp-training-improves-history-taking-clinical-reasoning.md) [+W] — attached 2026-11-04 from Chen Yuanshuai et al. (2026), which proposed "Integrate VP training early in residency and wrap it in facilitated feedback, reflection, and peer dialogue, since the platform alone is necessary but insufficient"; tests this page's relationship.
+- [Residents attributed CDM competency gains to the VP platform's structured design: systematic diagnostic reasoning, adaptive competence under uncertainty, and reflective learning](../claims/vp-structured-design-mechanisms-qualitative.md) [+W] — attached 2026-11-04 from Chen Yuanshuai et al. (2026), which proposed "Integrate VP training early in residency and wrap it in facilitated feedback, reflection, and peer dialogue, since the platform alone is necessary but insufficient".
 
 ## Illustrative design instance and observation record
 
@@ -234,6 +237,13 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Reasoning models performed best for case generation but were unsuitable for real-time patient simulation due to long response latency](../claims/reasoning-models-latency-unsuitable-simulator.md) [~W]
 - [Students rated the integrated VP session positively, with role modelling (M = 4.44) and varied case practice (M = 4.35) rated higher than “what-if” discussions (M = 3.76)](../claims/positive-perceptions-vp-role-modelling-varied-cases-what-if.md) [+W]
 - [No significant performance difference between VR and small group fellows on any of the 4 individual tracheostomy emergency cases](../claims/vr-small-group-no-case-level-difference.md) [~W]
+- [CHW trainees value realistic standardized patient scenarios as a key benefit of simulation-based MI training](../claims/chws-value-realistic-sp-scenarios-in-mi-simulation-training.md) [+W]
+- [CHW trainees value real-time SP feedback and debriefing for refining MI techniques and deepening learning](../claims/chws-value-sp-feedback-and-debriefing-in-mi-simulation-training.md) [+W]
+- [Simulation-based MI training significantly improves CHW trainees' confidence in applying MI skills to promote health behavior change](../claims/simulation-mi-training-increases-chw-confidence-applying-mi-skills.md) [+W]
+- [CHW trainees value structured preparation, pre-briefing, and immediate SP feedback in simulation-based MI training](../claims/chws-value-structure-preparation-and-feedback-in-mi-simulation-training.md) [+W]
+- [Clinical knowledge scores improved significantly (mean increase 6.7 points, Cohen's d = 0.76) after the VP training program](../claims/vp-training-improves-clinical-knowledge.md) [+W]
+- [Dietitians view SBE as a supportive tool that builds confidence but not a replacement for real patient contact](../claims/sbe-supportive-not-replacement-view.md) [~W]
+- [Many dietitians use role-play and case-based activities without identifying them as simulation, reflecting uncertainty about what constitutes SBE](../claims/dietitians-unrecognised-simulation-activities.md) [~W]
 
 ## Examples
 

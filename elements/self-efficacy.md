@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 119 claims (69 for, 41 mixed, 9 against) · 104 studies (38 associational, 37 causal, 16 review, 8 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 31 of 104 report an effect size · 114 claims rest on one study
+> **Evidence** · 123 claims (72 for, 42 mixed, 9 against) · 108 studies (40 associational, 38 causal, 16 review, 8 quant-synthesis, 5 design, 1 qualitative), `q1`–`q4` · 33 of 108 report an effect size · 118 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -167,6 +167,10 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Knowledge, academic self-efficacy, and self-directed learning readiness are positively correlated](../claims/knowledge-self-efficacy-sdlr-positive-correlations.md) [+W]
 - [Video-assisted PBL enhances academic self-efficacy more than traditional PBL](../claims/video-assisted-pbl-enhances-academic-self-efficacy.md) [+W]
 - [VR training increased confidence on all 4 perceived competence scale items, while small group training increased only 2 of 4](../claims/vr-confidence-gains-all-pcs-items.md) [+W]
+- [Self‐efficacy showed the strongest differentiation across learner profiles, with resilient students reporting markedly higher self‐efficacy than disadvantaged low achievers and levels comparable to advantaged high achievers](../claims/self-efficacy-strongest-differentiator-resilient-profiles.md) [~W]
+- [Both OCL and SBL significantly improved teachers' teaching efficacy after the intervention](../claims/ocl-sbl-improve-teaching-efficacy.md) [+W]
+- [Self-efficacy for ultrasound procedural performance increased significantly after training among Korean Medicine students (p < .001, d = 1.44)](../claims/ultrasound-training-self-efficacy-increase-km.md) [+W]
+- [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest predictor](../claims/se-mov-positive-predict-sdl-henan-sem.md) [+W]
 
 ## The evidence by question
 

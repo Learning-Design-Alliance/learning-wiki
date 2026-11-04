@@ -49,3 +49,4 @@ Qualitative synthesis of the 28 combined verbal-nonverbal cueing excerpts in the
 - [Most identified scaffolding behaviours in expert-novice visual interaction are active verbal cueing, followed by active verbal chunking](cueing-dominates-scaffolding-excerpts.md) — a broader claim this one bears on
 - [Isolated nonverbal cues require novice proficiency and receptiveness to be effective](nonverbal-cues-require-novice-proficiency.md) — related
 - [Active verbal cues provide concrete, partial information that reduces novices' uncertainty during visual problem-solving](verbal-cues-reduce-uncertainty.md) — related
+- [Novice ultrasound learners experienced substantial cognitive load combining psychomotor probe manipulation with matching 2D images to 3D anatomy, requiring instructor scaffolding](novice-ultrasound-cognitive-load-scaffolding.md) — related

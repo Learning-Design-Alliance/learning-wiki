@@ -47,6 +47,7 @@ The article explicitly states that "AI-SP should be used under supervised condit
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
 - [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
+- [Use AISPs as a supplementary self-directed learning resource where direct patient contact is limited](aisp-supplementary-sdl-strategy.md)
 
 ## Examples
 -

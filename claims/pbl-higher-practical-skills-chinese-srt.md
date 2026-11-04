@@ -68,3 +68,4 @@ Meta-analysis of 22 publications involving 1096 residents (intervention 547, LBL
 - [PBL-based teaching shows no advantage over LBL on operational skills in diagnostic imaging](pbl-no-advantage-diagnostic-imaging-skills.md) — related
 - [PBL is associated with higher overall DREEM medical educational environment scores than LBL in randomized trials](pbl-higher-dreem-than-lbl.md) — related
 - [Microscopic image interpretation scores showed a borderline between-group difference favoring the integrated PBL and medical humanities group over LBL](integrated-pbl-humanities-borderline-microscopic-interpretation.md) — related
+- [In the same RCT, no significant between-group differences were observed in baseline theoretical knowledge or clinical skills scores before teaching](pbl-virtual-simulation-no-baseline-differences-trauma-orthopedics.md) — related

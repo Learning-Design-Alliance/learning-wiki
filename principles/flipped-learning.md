@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 125 claims (71 for, 50 mixed, 4 against) · 81 studies (39 causal, 19 quant-synthesis, 13 review, 4 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 29 of 81 report an effect size · 117 claims rest on one study
+> **Evidence** · 129 claims (74 for, 51 mixed, 4 against) · 83 studies (41 causal, 19 quant-synthesis, 13 review, 4 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 31 of 83 report an effect size · 121 claims rest on one study
 
 ## Conditional relationship
 
@@ -175,6 +175,7 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Adding a SimZone 0 interactive-video preparatory phase before instructor-led CPR training is associated with significantly higher competence retention at 6 months among nursing students](../claims/zone0-iv-cpr-competence-retention-6-months.md) [+W] — attached 2026-11-04 from Trampal Ramos Á et al. (2026), which proposed "Incorporate structured preparatory self-directed learning before instructor-led procedural training"; tests this page's relationship.
 - [Flipped classroom produced significantly higher adjusted post-test knowledge scores than lecture-based learning in a fluids and electrolytes course (partial η² = 0.65)](../claims/flipped-classroom-higher-posttest-knowledge-nursing-rct.md) [+W] — attached 2026-11-04 from Yousefi Mahboubeh Sadat et al. (2026), which proposed "Integrate active, student-centered pedagogies such as the flipped classroom into nursing curricula"; tests this page's relationship.
 - [Flipped classroom group scored significantly higher on Satisfaction, Involvement, Task Orientation, and Innovation, but not on Personalization, Student Cohesiveness, or Individualization](../claims/flipped-rct-cucei-four-of-seven-subscales.md) [~W] — attached 2026-11-04 from Yousefi Mahboubeh Sadat et al. (2026), which proposed "Integrate active, student-centered pedagogies such as the flipped classroom into nursing curricula"; tests this page's relationship.
+- [Flipped classroom students achieve significantly higher post-test knowledge scores than lecture-based students in practical gastrointestinal anatomy (Cohen's d = 0.87)](../claims/flipped-classroom-higher-posttest-gi-anatomy.md) [+W] — attached 2026-11-04 from Mohammadi Shabnam et al. (2026), which proposed "Flipped classroom design aligning pre-class lower-order and in-class higher-order Bloom's taxonomy objectives"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -259,6 +260,9 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](../claims/flipped-classroom-cbl-improves-concept-and-application-questions.md) [+W]
 - [Both groups improved significantly from pretest to posttest, but improvement was significantly greater in the flipped classroom condition](../claims/flipped-rct-greater-within-group-gain.md) [+M]
 - [MANOVA on the seven CUCEI subscales yielded a significant multivariate effect favoring the flipped classroom (Pillai's Trace = 0.93)](../claims/flipped-rct-cucei-manova-omnibus.md) [+W]
+- [Flipped classroom students are nearly twice as likely to meet physical activity recommendations as traditional-instruction students immediately post-course.](../claims/fc-doubles-odds-of-meeting-pa-guidelines.md) [+W]
+- [Self-directed learning ability and autonomous motivation each significantly and partially mediate the effect of flipped classroom on physical activity.](../claims/sdl-and-am-partially-mediate-fc-pa.md) [~W]
+- [A chained indirect effect through self-directed learning ability then autonomous motivation significantly transmits the flipped classroom effect on physical activity.](../claims/chained-sdl-then-am-indirect-effect.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

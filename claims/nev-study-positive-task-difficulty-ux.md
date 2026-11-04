@@ -51,3 +51,4 @@ Preregistered qualitative study: 14 participants (3 female, 11 male) in semi-str
 - [Participants with higher subject expertise completed tasks and used the tools more easily than less experienced participants](nev-expertise-eases-task-completion.md) — related
 - [Traditional teaching was rated easier, more efficient, and clearer, while iVR was rated more inventive and leading-edge](traditional-rated-easier-ivr-more-inventive.md) — related
 - [Perceived usefulness and realism are the most common UX dimensions assessed, with less experienced users rating usefulness more positively](ux-usefulness-realism-dominant-dimensions.md) — related
+- [Users rated the pediatric endocrinology e-learning tool positively across all six UEQ categories, with attractiveness and stimulation highest and dependability lowest](ueq-positive-evaluation-pediatric-elearning.md) — related

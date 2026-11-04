@@ -71,3 +71,4 @@ Same randomized study; Table 2 shows critical thinking self-confidence d = 0.21,
 - [AI-enabled personalized teaching raised overall critical thinking disposition (CTDI-CV total score) above the positive-disposition threshold](ai-teaching-ctdi-cv-total-score-higher.md) — related
 - [No significant differences in critical thinking dispositions were found among PBL, B-PBL, and traditional lecture groups at pretest or posttest](no-significant-ct-disposition-differences-among-groups.md) — related
 - [CCTDI subscale improvements favour non-traditional methods on six of seven dispositions, with maturity not reaching significance](cctdi-subscales-favour-non-traditional-methods.md) — related
+- [In the same RCT, the experimental group scored higher than the control group on all seven dimensions of critical thinking ability (all P < 0.05)](pbl-virtual-simulation-critical-thinking-all-dimensions-trauma-orthopedics.md) — related

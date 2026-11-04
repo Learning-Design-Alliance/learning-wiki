@@ -54,3 +54,4 @@ The review reports, citing Stadler et al., an experiment comparing LLM-supported
 - [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](llm-search-lower-extraneous-cognitive-load.md) — a narrower finding that bears on this claim
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — a broader claim this one bears on
 - [Recommendation homogeneity does not differ between students using ChatGPT 3.5 and students using Google](llm-recommendation-homogeneity-no-difference.md) — related
+- [Contradictory findings on ChatGPT for scientific writing: lower writing quality but higher knowledge scores](contradictory-chatgpt-scientific-writing-findings.md) — related

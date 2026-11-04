@@ -72,3 +72,4 @@ Meta-analysis of five RCTs on GOALS domain scores, 47 participants randomized to
 - [Robotic novices trained with extended reality simulators complete tasks significantly faster than novices with no additional training](xr-training-faster-time-to-complete-than-no-training.md) — related
 - [Extended reality training shows no statistically significant difference in time to complete compared to dry lab training](xr-vs-dry-lab-time-to-complete-no-significant-difference.md) — related
 - [All five GOALS subdomains (depth perception, bimanual dexterity, efficiency, tissue handling, autonomy) were significantly improved after structured VRST](structured-vrst-improves-all-goals-subdomains.md) — reports the opposite
+- [Depth perception is the GEARS subdomain that significantly improves with simulator training, while bimanual dexterity and efficiency show non-significant positive trends](depth-perception-significant-gains-simulator-training.md) — reports the opposite

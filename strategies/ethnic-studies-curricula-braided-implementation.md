@@ -44,6 +44,7 @@ Ethnic Studies Local Support Grant funding addresses designing and implementing 
 - [Implement the CCSS with AI/AN students through expanded resources, localization of reform, and specialized extended professional development](ccss-implementation-ai-an-localization-pd.md)
 - [Expand transitional kindergarten and preschool by braiding UPK funds with hiring, culturally responsive curriculum, and community college partnerships](upk-transitional-kindergarten-braided-implementation.md)
 - [Adapt RaT curricula to local cultural, institutional, and workforce characteristics rather than directly adopting Western-designed programs](contextually-adapted-rat-program-design.md)
+- [Local adaptation of the framework across diverse contexts](pat-framework-local-adaptation.md)
 
 ## Examples
 -

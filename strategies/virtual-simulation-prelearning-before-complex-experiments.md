@@ -45,6 +45,7 @@ The article recommends having students learn experimental principles and virtual
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Adopt hierarchical hybrid teaching in vocational education: prioritize hands-on training with step-by-step instructional videos, and use industry-standard operational videos with virtual simulation for complicated tasks](hierarchical-hybrid-teaching-vocational-skills.md)
 - [Use risk-free high-fidelity VR simulation to complement physical training for hazardous clinical procedures](risk-free-vr-pretraining-for-hazardous-procedures.md)
+- [Supplement virtual simulation training with shared online virtual simulation experimental teaching resources from the National Virtual Simulation Experiment Teaching Course Sharing Platform (ilab-x)](ilab-x-shared-virtual-simulation-resources.md)
 
 ## Examples
 -

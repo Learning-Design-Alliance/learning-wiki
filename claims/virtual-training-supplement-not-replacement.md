@@ -51,3 +51,4 @@ Finding from the qualitative analysis of open-ended questions about perceived op
 - [MR and RLE groups report similar stress, exhaustion, and self-efficacy levels after mass casualty incident training](mr-rle-similar-stress-exhaustion-self-efficacy.md) — related
 - [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](students-contextualize-ai-video-appropriateness.md) — related
 - [Interprofessional mass casualty incident simulation increased disaster-response confidence in 96% of participating pre-licensed nursing students](mass-casualty-simulation-confidence.md) — related
+- [Dietitians view SBE as a supportive tool that builds confidence but not a replacement for real patient contact](sbe-supportive-not-replacement-view.md) — possibly the same claim (merge candidate)

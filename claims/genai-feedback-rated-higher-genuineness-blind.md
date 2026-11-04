@@ -55,3 +55,4 @@ Mann–Whitney U comparison of post-intervention perception questionnaire scores
 - [Students perceived instructor feedback as significantly more useful than AI-generated feedback, with no significant differences on fairness, developmental value or encouragement](instructor-feedback-perceived-more-useful-than-ai-feedback.md) — reports the opposite
 - [Post-experimental questionnaire ratings favoured MT-ITS numerically but the differences between conditions were not significant](mt-its-questionnaire-ratings-not-significant.md) — related
 - [No significant feedback-source differences were observed among high-SRL cluster students](no-genai-tutor-difference-high-srl-cluster.md) — related
+- [Students rated faculty-reviewed AI-generated pharmacology feedback favourably, with median scores of 4 out of 5 across clarity, actionability, confidence and usefulness](students-rate-moderated-ai-feedback-median-4-of-5.md) — related

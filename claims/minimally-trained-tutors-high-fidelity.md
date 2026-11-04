@@ -52,3 +52,4 @@ Fidelity observations of 13.5% of tutoring sessions, twice each semester, by res
 - [Nearly all teachers implemented the TEC Summer Learning Program as planned despite wide variation in program conditions](tec-summer-high-fidelity-despite-variation.md) — related
 - [Tutoring sessions were implemented with high procedural fidelity (mean 93.4%)](treatment-fidelity-peer-tutoring-sessions.md) — related
 - [Implementation fidelity and global instructional quality were high across the intervention's instructional components](high-fidelity-vocabulary-self-regulation-tutoring.md) — related
+- [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](spoc-blended-package-high-adherence.md) — related

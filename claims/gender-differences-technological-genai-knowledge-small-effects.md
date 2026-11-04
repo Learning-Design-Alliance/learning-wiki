@@ -64,3 +64,4 @@ One-way ANOVAs by gender across the seven TPACK domains in the 127-faculty surve
 - [Girls rate the female agent as a significantly better model than boys do](girls-rate-agent-better-model.md) — related
 - [Female students scored significantly higher than males on higher-order thinking skills (p = 0.015).](females-higher-hot-scores.md) — related
 - [Male interns report significantly higher self-perceived clinical confidence than females, while theoretical knowledge does not differ significantly by gender](gender-confidence-knowledge-difference-veneers.md) — related
+- [Postgraduate qualification was positively and health education specialisation negatively associated with teaching efficacy; female teachers scored higher on pedagogical knowledge](demographic-covariates-knowledge-efficacy.md) — reports the opposite

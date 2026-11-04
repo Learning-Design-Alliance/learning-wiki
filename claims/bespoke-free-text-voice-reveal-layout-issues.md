@@ -75,3 +75,4 @@ across the entire video” and “very distracting. ”"
 - [Linguist review of draft items revealed communication problems with terminology and imprecisely reasoned attitude statements](linguist-review-revealed-item-communication-problems.md) — related
 - [Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers](podcast-design-barriers-pauses-voice-monotony.md) — related
 - [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](ithinksmart-prototype-feedback-themes.md) — related
+- [Free-text comments raised fairness concerns about pairing with a weaker partner and technical and organizational issues with the digital format](whisper-exam-fairness-and-digital-format-criticisms.md) — related

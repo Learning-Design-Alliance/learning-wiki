@@ -49,3 +49,4 @@ The review reports CUSUM-based learning curve studies finding that "residents re
 - [Skill retention after neuraxial technical training tends to decline over time](skill-retention-declines-after-neuraxial-training.md) — related
 - [Simulation-based training enhances outcomes across multiple Kirkpatrick levels in neuraxial space access education](simulation-based-training-enhances-neuraxial-outcomes.md) — related
 - Most included studies were of low methodological quality, with only 22 of 99 rated high quality by MERSQI — related
+- [Resident self-assessments converged with supervisor assessments after a mean of about 1.3 procedures](self-assessment-converges-supervisor-feedback.md) — related

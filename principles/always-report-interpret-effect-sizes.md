@@ -23,7 +23,7 @@ sources:
 # Always report and interpret effect sizes alongside p values for primary outcomes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (18 for, 14 mixed) · 33 studies (13 quant-synthesis, 10 causal, 5 review, 5 theoretical), `q1`–`q4` · 11 of 33 report an effect size · 31 claims rest on one study
+> **Evidence** · 33 claims (19 for, 14 mixed) · 34 studies (13 quant-synthesis, 11 causal, 5 review, 5 theoretical), `q1`–`q4` · 11 of 34 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,7 @@ Reporting an effect size, interpreting it against a reference class, and the dec
 - [Across and within studies, researcher and developer measures show larger average effect sizes than broad and narrow measures, and narrow measures exceed broad measures by +0.07](../claims/researcher-developer-measures-larger-effect-sizes-full-sample.md) [~W]
 - [Sub-group effect sizes for FSM-eligible pupils (+0.48) and boys only (+0.26) were larger but based on very small numbers and deemed not secure](../claims/rti-subgroup-effects-fsm-boys-not-secure.md) [~W]
 - [The control group's pre-test to post-test fluency decrease was not statistically significant but represented a medium effect (r=0.5)](../claims/spaceteam-control-pre-post-decline-medium-effect.md) [~W]
+- [Cavity classification distribution favored the HVRS group but was not statistically significant](../claims/hvrs-cavity-classification-not-significant.md) [+W]
 
 ## Related Principles
 

@@ -48,6 +48,7 @@ This strategy addresses the review's headline gap: because research concentrates
 
 - [Assess AI competencies continuously with formative quizzes, peer review, reflective journals, real-world summative projects, and portfolios](ai-competency-assessment-strategies.md)
 - [Reduce assessment burden in integrated spiral curricula by combining formative and summative assessments or using technology-enhanced assessment platforms](reduce-assessment-burden-integrated-curricula.md)
+- [Use AI-based assessment periodically for formative feedback while avoiding AI in summative assessment](ai-formative-not-summative-assessment-strategy.md)
 
 ## Examples
 -

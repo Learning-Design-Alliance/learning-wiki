@@ -52,3 +52,4 @@ Independent samples t-tests on pre-test Environmental Literacy Scale scores (Tab
 - [Descriptive gains show the experimental group's attitude change exceeded the control group's, and pretesting had no effect on the intervention](pi-attitude-gain-pretesting-null.md) — related
 - [Random assignment created equivalent groups, and performance did not differ by pattern dimension, orientation, or missing-item position](patterning-equivalent-groups-null-dimensions.md) — related
 - [Experimental and control groups differed systematically at pretest in budget knowledge, science interest, environmental concern, and environmental actions](pretest-group-differences-self-selection.md) — reports the opposite
+- [Learning gains did not differ by campus location.](pi-gains-comparable-across-campuses.md) — related

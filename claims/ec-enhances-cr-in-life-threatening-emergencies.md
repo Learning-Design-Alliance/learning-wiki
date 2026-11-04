@@ -52,3 +52,4 @@ Narrative synthesis of the scoping review's included studies, reporting the emer
 - [Work context, via acute stress and cognitive load, is a major moderator of emotional competence's impact on clinical reasoning](work-context-acute-stress-moderates-ec-cr.md) — a broader claim this one bears on
 - [Evidence that emotional competence improves patient outcomes is limited and mixed](ec-patient-outcomes-limited-mixed.md) — related
 - [Clinicians' emotional responses to patients impacted patient engagement and diagnostic decisions, with negative emotions associated with poorer quality care and positive emotions with more comprehensive care](clinician-emotions-shape-patient-engagement-and-care-quality.md) — a broader claim this one bears on
+- [Low diagnostic accuracy was observed for systemic or life-threatening oral conditions such as pemphigus and squamous cell carcinoma](low-accuracy-systemic-life-threatening-oral-conditions.md) — related

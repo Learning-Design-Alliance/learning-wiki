@@ -48,3 +48,4 @@ Survey of 114 first-year medical students (Class of 2028) who experienced four a
 - [The most popular combination of anatomy exam preferences matches the composite of the most favored option for each question](most-popular-anatomy-exam-preference-combination-matches-composite.md) — related
 - [Medical students prefer multiple choice questions over fill-in-the-blank questions on anatomy practical exams](students-prefer-mcq-over-fill-in-blank-anatomy-practicals.md) — related
 - [Students overwhelmingly favored a hybrid approach combining VDTs with cadaveric dissection over full replacement](students-favor-hybrid-vdt-cadaver-approach.md) — related
+- [Students with access to online cadaveric image repositories achieve significantly higher practical exam scores than controls in the image-covered regions](online-cadaveric-images-improve-practical-exam-performance.md) — related

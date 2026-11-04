@@ -51,3 +51,4 @@ Descriptive synthesis of technical performance outcomes across included studies 
 - [Supervised resident training reduced operative time after 30–50 cases, approximating senior benchmarks](supervised-resident-training-reduces-operative-time-30-50-cases.md) — related
 - Studies finding unaltered performance under simulation stress tended to involve more experienced participants and smaller samples — related
 - [User performance differences favor more experienced participants in XR simulation, but not consistently across all metrics](xr-performance-favors-experienced-users.md) — a broader claim this one bears on
+- [A meta-analysis tends to show a minimal negative impact of resident participation in thyroidectomy procedures when adequately supervised.](resident-thyroidectomy-participation-minimal-impact.md) — related

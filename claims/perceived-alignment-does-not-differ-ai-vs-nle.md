@@ -52,3 +52,4 @@ Kruskal–Wallis comparison of student-perceived curricular alignment across Cha
 - [Students identified MCQ item source at a rate significantly above the 50% chance level in a real exam setting](students-identify-mcq-source-above-chance.md) — related
 - [Easier items were perceived as better aligned with the curriculum (strong difficulty–alignment association)](easier-items-perceived-as-better-aligned.md) — related
 - [Distractor distribution did not differ across ChatGPT, Google Gemini and NLE MCQs](distractor-distribution-does-not-differ-across-sources.md) — related
+- [Exploratory theme-level analyses found performance differences between exam formats varied by curricular content area](theme-dependent-performance-variation.md) — related

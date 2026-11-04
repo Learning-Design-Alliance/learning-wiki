@@ -75,3 +75,4 @@ Responses to the statement "Without Facebook I would be lonely": "only 3 per cen
 - [Social Relations is perceived as the most important purpose of Facebook usage among students.](social-relations-most-important-usage-purpose.md) — related
 - [Students reported high engagement perceptions, including feeling connected with the university through Facebook conversations with classmates](facebook-course-engagement-perceptions.md) — related
 - [One Life improves friendship development skills, particularly with the opposite sex](one-life-improves-friendship-skills.md) — related
+- [Students reported moderate to high digital readiness while valuing face-to-face instructor contact](students-moderately-highly-digitally-ready.md) — related

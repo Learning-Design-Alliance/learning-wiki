@@ -110,3 +110,4 @@ Same PISA secondary analysis, Results section. The article reports the average r
 - [Low iron stores were associated with worse school performance in girls but not boys, with sex-specific patterns in reading outcomes](iron-stores-school-performance-sex-differences.md) — related
 - [Male students showed a larger descriptive effect size (ES = +0.36) than female students (ES = +0.22), but the difference was not statistically significant](air-reading-gender-difference-not-significant.md) — related
 - [Self-affirmation eliminated the female reading advantage over boys observed in the comparison group](self-affirmation-erased-female-reading-advantage.md) — related
+- [A female reading advantage was found, but males outperformed females in math and science in lower- and upper-income groups](gender-advantage-reading-not-math-science.md) — a narrower finding that bears on this claim

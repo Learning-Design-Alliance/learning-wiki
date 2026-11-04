@@ -87,3 +87,4 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Teachers rated the experiential training package positively, describing it as effective, accountable, and revealing of actual versus perceived performance](teacher-reflection-journals-social-validity.md) — related
 - [Students value role-play for interpersonal engagement and virtual patients for reducing stress and supporting reflective learning](qualitative-mechanisms-roleplay-vs-virtual-patients.md) — related
 - [Qualitative interviews suggest narrative features acted as a catalyst for meaning-making and peer-assisted elements provided social scaffolding for skill development](nm-pal-qualitative-mechanisms-meaning-making-scaffolding.md) — related
+- [Most students report that the service learning programme enhanced empathy and sense of professional responsibility](service-learning-enhances-empathy-responsibility.md) — related

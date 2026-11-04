@@ -56,3 +56,6 @@ Item analysis of four test sessions in a crossover study that enrolled all 120 f
 - [47.08% of the 242 correct MCQs met all evaluated criteria and only four items exhibited three or more flaws](mcq-flaw-cooccurrence-121-pass-all.md) — related
 - [ChatPDF.com generates more difficult and discriminating MCQs than ChatGPT 3.5 and ChatGPT 4](chatpdf-com-more-difficult-discriminating-mcqs.md) — related
 - [In the one human-vs-LLM comparison, human-written MCQs outperformed ChatGPT-generated MCQs in quality and validity, while AI was far faster](humans-outperform-chatgpt-mcq-quality.md) — possibly the same claim (merge candidate)
+- [GenAI-assisted items had more distractor-functioning red flags — nonfunctioning and negatively discriminating distractors — although these differences were not statistically significant](genai-mcq-distractor-red-flags.md) — related
+- [Human-edited GenAI-assisted items achieved plausible difficulty: mean difficulty index did not differ significantly and more GenAI-assisted items fell in the acceptable difficulty range](genai-mcq-plausible-difficulty.md) — related
+- [Student-generated MCQs showed higher item discrimination than AI-generated MCQs, with a small effect size and a majority of AI items in the poor-discrimination band](student-gen-items-higher-discrimination.md) — related

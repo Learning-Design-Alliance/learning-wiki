@@ -48,6 +48,7 @@ The article recommends embedding the extra active group-work day in the regular 
 
 - [Schedule CSR within regular ELA and content-area instruction, spreading sessions across teachers in secondary settings](csr-embedded-scheduling-strategy.md)
 - [Integrate tutoring into the regular school day rather than scheduling it outside instructional time](integrate-tutoring-into-regular-school-day.md)
+- [Integrate peer-to-peer Puzzle activities into the regular academic schedule to maximize participation](integrate-puzzle-regular-academic-schedule.md)
 
 ## Examples
 -

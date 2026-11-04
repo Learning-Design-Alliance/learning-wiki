@@ -48,3 +48,4 @@ Paired comparison of seven EM residents who completed both landmark and ultrasou
 - [Both EM residents and PGY trainees reported significantly lower procedural stress with ultrasound guidance](lower-stress-with-us-guidance-both-groups.md) — related
 - [Needle passes and procedure time favoured the ultrasound-guided phase but did not reach statistical significance](needle-passes-and-time-favour-us-non-significant.md) — related
 - [Completion rate increased from 43% to 100% in the ultrasound-guided phase, a large but statistically non-significant difference](us-guided-completion-rate-100-vs-43-non-significant.md) — related
+- [Neither self-assessment, self-efficacy change, nor self-video activity was significantly associated with OSCE performance in novice ultrasound training](no-quantitative-predictors-of-osce-ultrasound.md) — related

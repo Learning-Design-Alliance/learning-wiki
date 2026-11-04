@@ -87,6 +87,7 @@ Blended designs outperform either mode alone when the two components are deliber
 - [Advise teachers to use Twitter learning activities in blended courses integrating face-to-face and online discussion](advise-twitter-activities-blended-courses.md)
 - [Blend web-based and traditional approaches rather than replacing classroom instruction with web-based instruction](amalgamate-web-based-and-traditional-approaches.md)
 - [Blend e-delivered theoretical content with face-to-face practice to develop student teachers' teaching skills](blend-elearning-with-classroom-practice-strategy.md)
+- [Integrate web-based case analysis tools into blended learning combining digital case-based practice with face-to-face teaching](blended-digital-analogue-case-analysis-strategy.md)
 
 ## Related Elements
 - [Lectures](../elements/lectures.md) — typically relocated to the online strand as recorded video

@@ -54,3 +54,4 @@ The review's narrative synthesis of the 11 included studies concludes outcomes w
 - [One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills](ai-simulation-inferior-bse-skills.md) — related
 - [There is no one-size-fits-all order of engagement modes; supposedly inferior modes can excel with the right use, learners, and timing](no-one-size-fits-all-engagement-order.md) — related
 - [Two teaching modes for AI-supported decision making differ in AI prediction, student engagement, and teacher scaffolding](imsd-fmpd-teaching-modes-ai-decision-making.md) — related
+- [AI chatbots, simulations, and generative models enhanced student engagement and learning efficiency in dental education](ai-tools-enhance-dental-student-engagement-efficiency.md) — related

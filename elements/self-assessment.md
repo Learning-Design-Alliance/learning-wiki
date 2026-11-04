@@ -145,6 +145,7 @@ Self-assessment is the element in which learners judge their own work, understan
 - Learners score a draft against a rubric before submission.
 - Students rate confidence and identify one misconception after a quiz.
 - [Future self-assessment interventions should redirect students' attention from invalid cues toward valid, predictive cues rather than providing self-assessment accuracy feedback](../strategies/redirect-self-assessment-cues-toward-valid-cues.md)
+- [Integrate formal self-evaluation curriculum with timely supervisory feedback to develop accurate resident self-assessment](../strategies/self-evaluation-curriculum-timely-feedback.md)
 
 ## Key Sources
 - Andrade, H. (2019). A critical review of research on student self-assessment. *Frontiers in Education, 4*, 87. [https://doi.org/10.3389/feduc.2019.00087](https://doi.org/10.3389/feduc.2019.00087)

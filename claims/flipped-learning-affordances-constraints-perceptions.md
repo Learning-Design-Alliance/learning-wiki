@@ -71,3 +71,4 @@ Same thematic analysis of open-ended responses: constraints included needing mor
 - [Kuwaiti pre-service teachers held favourable perceptions of flipped learning, with over 90% agreement on six questionnaire items](positive-student-perceptions-flipped-learning.md) — related
 - [Pre-service teachers reported coming to class prepared and completing assignments in class as the flipped classroom's main positive aspects](fc-positive-aspects-participant-opinions.md) — related
 - [Flexibility and access are an initial characterization of Open Teaching](open-teaching-flexibility-and-access.md) — related
+- [Students valued flexibility and self-directed learning but desired more in-person interaction and better lecture recordings in the hybrid flipped course](student-themes-flexibility-interaction-recordings.md) — related

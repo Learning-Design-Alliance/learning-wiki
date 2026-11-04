@@ -85,6 +85,7 @@ Distributed practice is one of the most robust findings in learning science: spa
 - [Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation](generation-as-post-encoding-consolidation-strategy.md)
 - [Sequence retrieval practice from less effortful item types (multiple choice, factual) to more effortful ones (short answer, applied) as learners reach mastery](sequence-practice-easy-to-difficult-item-types.md)
 - [Select feedback technology to match the learner population, setting and learning objective, and reinforce with spaced booster training](match-feedback-device-to-context-plus-booster-training.md)
+- [Provide short, distributed booster sessions during the early clinical phase to consolidate instrumentation competence](distributed-booster-sessions-early-clinical-phase.md)
 
 ## Examples
 - **Anki / spaced-repetition flashcards** ([https://apps.ankiweb.net](https://apps.ankiweb.net)) — implements expanding-interval scheduling for vocabulary, medicine, and law study; used widely in medical education.

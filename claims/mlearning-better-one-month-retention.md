@@ -50,3 +50,4 @@ Quasi-experimental study with 90 NICU nurses. At one month, total mean IPAT scor
 - [Baseline positioning performance was equivalent across all three groups and indicated a need for change](baseline-equivalent-need-for-change.md) — related
 - [Repeated measures ANOVA confirms significant within-group improvement over time in both intervention groups but not control](repeated-anova-within-group-improvement.md) — related
 - [Onsite training skill effects are larger at immediate post‐intervention than at follow‐up, while hybrid skill effects do not differ by assessment point](onsite-skill-effects-larger-immediate-post-intervention.md) — a broader claim this one bears on
+- [Significant Time × Group interaction shows experimental group maintained scores while control group declined at final examination](mooc-hfs-time-group-interaction-retention.md) — related

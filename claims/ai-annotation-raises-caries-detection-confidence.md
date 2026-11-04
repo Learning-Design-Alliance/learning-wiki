@@ -49,3 +49,4 @@ Self-reported confidence on a 1–10 scale in the same two-session within-subjec
 - [AI-assisted training did not significantly improve undergraduate dental students' diagnostic scores for proximal caries extension compared with conventional radiology training](ai-training-no-gain-dental-caries-diagnostic-scores.md) — related
 - [In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related
 - [Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not](verification-bottleneck-confidence-dissociation.md) — related
+- [AI-assisted radiograph interpretation showed improved outcomes in dental student training](ai-assisted-radiograph-interpretation-improved-outcomes.md) — a broader claim this one bears on

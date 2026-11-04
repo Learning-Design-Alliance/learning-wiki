@@ -50,3 +50,4 @@ Figure 4 reports average UEQ-S ratings (normalized -3 to +3) per task from the i
 - [Traditional teaching was rated easier, more efficient, and clearer, while iVR was rated more inventive and leading-edge](traditional-rated-easier-ivr-more-inventive.md) — related
 - [Privacy-non-invasive anti-cheating interventions do not significantly affect user experience or emotional experience in unproctored online tests](interventions-no-ux-emotion-effect.md) — a narrower finding that bears on this claim
 - [Perceived usefulness and realism are the most common UX dimensions assessed, with less experienced users rating usefulness more positively](ux-usefulness-realism-dominant-dimensions.md) — related
+- [Users rated the pediatric endocrinology e-learning tool positively across all six UEQ categories, with attractiveness and stimulation highest and dependability lowest](ueq-positive-evaluation-pediatric-elearning.md) — related

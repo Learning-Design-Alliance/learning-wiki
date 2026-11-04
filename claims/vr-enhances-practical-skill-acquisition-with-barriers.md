@@ -105,3 +105,5 @@ The review's synthesis of reported limitations across VR studies, naming cybersi
 - [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](vr-neurosurgical-simulators-low-haptic-fidelity.md) — related
 - [Virtual simulation fosters clinical reasoning and psychomotor skills in a safe, realistic environment with immediate feedback](virtual-simulation-safe-environment-immediate-feedback-claim.md) — related
 - [Simulation-based teaching produces higher post-intervention technical skill scores and success rates for blood-sampling procedures than traditional teaching](simulation-higher-technical-skills-success-rates.md) — a narrower finding that bears on this claim
+- [VR-based dialogue simulations revealed implicit learning outcomes such as courage, emotional resilience, and the ability to give and receive feedback](vr-simulation-implicit-hidden-learning-outcomes.md) — related
+- [Transfer of VR training gains to real clinical practice remains unconfirmed](vr-training-transfer-unconfirmed.md) — related

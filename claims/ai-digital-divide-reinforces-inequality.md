@@ -106,3 +106,4 @@ This is a conceptual policy paper drawing on the literature and international po
 - [Internet and computer access problems limited participation in the online argumentation implementation](internet-access-limits-online-argumentation.md) — a narrower finding that bears on this claim
 - [One analyzed article found that lack of access to technological resources in higher education limits academic success among the Latino-ethnic population](technology-access-limits-latino-success.md) — a narrower finding that bears on this claim
 - [Non-users of VM blamed lack of hardware devices, internet access, technical knowledge, and insufficient promotion by instructional personnel](vm-nonusers-obstacles-devices-promotion.md) — a narrower finding that bears on this claim
+- [Access to technology and hardware was not seen as a barrier to SBE readiness, with adequate access reported (mean 3.21)](technology-access-not-a-barrier-to-sbe-readiness.md) — related

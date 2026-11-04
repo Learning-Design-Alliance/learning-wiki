@@ -43,7 +43,8 @@ The article's recommendations target the barriers its survey identified: "More t
 - [Most teachers viewed the IWB as an effective tool benefiting all types of learners](../claims/iwb-teachers-positive-perceptions.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Enable SBE integration through clearer definitions, targeted educator training, and institutional support including shared resources](sbe-enablement-definitions-training-institutional-support.md)
 
 ## Examples
 -

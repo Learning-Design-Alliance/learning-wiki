@@ -73,3 +73,4 @@ Correlational analysis of grade point average against PSP-1 subtest and total sc
 - [PSP-1 performance increases with age across grades 1–4, with significant differences between adjacent age groups on total score](psp1-performance-increases-with-age.md) — related
 - [Students with APD were rated below average by teachers far more often than non-APD peers, especially in reading and language skills](apd-students-rated-below-average-more-often.md) — related
 - [Dichotic listening subtests were the most challenging PSP-1 tasks, especially for children with auditory processing difficulties](dichotic-listening-tasks-most-challenging-psp1.md) — related
+- [GPA shows a significant positive correlation with oral disease diagnostic performance (p < 0.001) while age shows no significant association](gpa-positive-correlation-diagnostic-performance.md) — related

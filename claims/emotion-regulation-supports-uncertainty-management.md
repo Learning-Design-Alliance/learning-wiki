@@ -56,3 +56,4 @@ Narrative synthesis of the review's uncertainty-management studies (23 of 98 art
 - [Uncertainty is a central feature of challenges in transdisciplinary learning for sustainability, encompassing both emotional and cognitive dimensions](uncertainty-central-td-challenges.md) — related
 - [Fear and clinical uncertainty were associated with more cautious clinical decisions, including more admissions, more diagnostic tests, and more antibiotic prescriptions](fear-and-uncertainty-lead-to-cautious-decisions.md) — related
 - [CALM improved positive affect and distress tolerance](calm-improves-positive-affect-distress-tolerance.md) — related
+- [Increased exposure to unsupervised difficult conversations is associated with greater emotional confidence, while rare exposure is associated with higher distress](exposure-frequency-emotional-reaction-association.md) — related

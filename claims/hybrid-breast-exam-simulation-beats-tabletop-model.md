@@ -50,3 +50,4 @@ Narrative review attributing this to Nassif et al.'s study comparing hybrid simu
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Live simulations with real patients showed the greatest effects among simulation types (g = 2.27, medical education only)](simulation-type-moderates-effectiveness.md) — a broader claim this one bears on
 - [Cook et al. found multiple learning strategies was the only instructional design feature with a significantly positive pooled effect on Kirkpatrick level 4 patient outcomes (0.53, p < 0.001)](multiple-learning-strategies-pooled-patient-outcomes.md) — a broader claim this one bears on
+- [Practical teaching activities should include training in recognizing malignancy risk factors such as smoking, persistent dysphonia, and non-healing oral ulcers.](teaching-malignancy-risk-factor-recognition.md) — related

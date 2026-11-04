@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 102 claims (43 for, 53 mixed, 6 against) · 101 studies (28 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 11 qualitative, 5 design), `q1`–`q4` · 16 of 101 report an effect size · 96 claims rest on one study
+> **Evidence** · 103 claims (44 for, 53 mixed, 6 against) · 102 studies (29 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 11 qualitative, 5 design), `q1`–`q4` · 16 of 102 report an effect size · 97 claims rest on one study
 
 ## Conditional relationship
 
@@ -203,6 +203,7 @@ Group performance during the task, individual understanding straight after it, d
 - [The article concludes that reading comprehension in general is enhanced through collaboration and interaction](../claims/comprehension-enhanced-through-collaboration-interpretation.md) [+W]
 - [Paired and grouped collaborative activities in blended learning promoted authorial production and reflective meta-analysis in the studied dyad](../claims/blended-collaborative-activities-promote-authorial-production.md) [+W]
 - [Partner work was most successful grouping format for primary students](../claims/partner-work-most-successful-primary.md) [+W]
+- [OCL produced greater gains in pedagogical knowledge than SBL (significant group × time interaction)](../claims/ocl-greater-knowledge-gains-than-sbl.md) [+W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

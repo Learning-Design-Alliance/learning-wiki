@@ -68,3 +68,4 @@ Review synthesis of preference data across the 22 included studies; the preferen
 - [Students reported high-to-highest satisfaction with the clinical PBL model, with the facilitator role of the teacher rated highest](high-satisfaction-clinical-pbl-pharmacy-facilitator-role.md) — related
 - [Students preferred face-to-face delivery over virtual delivery for both CBL and GBL](face-to-face-preferred-over-virtual.md) — related
 - [Over 80% of orthodontic postgraduates rated the SCL model superior to traditional teaching methods](scl-rated-superior-to-traditional-teaching-orthodontic-postgraduates.md) — related
+- [Most students endorse the service learning model and would recommend it for future students](service-learning-student-endorsement-recommendation.md) — a narrower finding that bears on this claim

@@ -66,3 +66,4 @@ Descriptive statistics from the same questionnaire: the highest-rated item was "
 - [Students rate GenAI's creativity enhancement in programming significantly above neutral](genai-creativity-enhancement-perceptions.md) — related
 - [Students rated the LLM-based assignments as useful, challenging, engaging, and enjoyable at both the first and fifth iterations, with no significant change across the semester](positive-affective-responses-llm-assignments.md) — related
 - [Students express strong behavioral intention to continue using GenAI in programming](genai-behavioral-intention-strong.md) — related
+- [Students in a hybrid flipped medical terminology course rated all positive intrinsic motivation dimensions significantly above the neutral midpoint, with perceived tension significantly below it](positive-imi-hybrid-flipped-medical-terminology.md) — related

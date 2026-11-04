@@ -64,7 +64,7 @@ sources:
 # Coherence Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (20 for, 21 mixed, 3 against) · 42 studies (20 causal, 8 review, 5 quant-synthesis, 5 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 12 of 42 report an effect size · 37 claims rest on one study
+> **Evidence** · 46 claims (21 for, 22 mixed, 3 against) · 43 studies (21 causal, 8 review, 5 quant-synthesis, 5 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 12 of 43 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,8 @@ Each question links a general claim that gathers the studies behind it and the n
 - [In Study 2 with a longer text and five SD amounts, greater seductive detail amount again worsened recall (b = −0.33, p = .005)](../claims/sd-amount-negative-recall-study2.md) [+W] — attached 2026-10-18 from Lukas Wesenberg et al. (2026), which proposed "Avoid large amounts of seductive details in learning materials; small amounts may have negligible effects"; tests this page's relationship.
 - [Reading comprehension is significantly higher when extraneous illustrations are removed from beginning reader books](../claims/streamlined-illustrations-improve-reading-comprehension.md) [+M] — attached 2026-10-27 from Eng et al. (2020), which proposed "Limit extraneous illustrations in reading materials for beginning readers to support attention and comprehension"; tests this page's relationship.
 - [Beginning readers make more gaze shifts away from text when reading a book with extraneous illustrations than a streamlined version](../claims/extraneous-illustrations-increase-gaze-shifts-away-from-text.md) [+M] — attached 2026-10-27 from Eng et al. (2020), which proposed "Limit extraneous illustrations in reading materials for beginning readers to support attention and comprehension".
+- [Irrelevant instructional humour yields worse transfer performance than relevant humour and than no humour in adult learners](../claims/irrelevant-humour-worse-transfer-adults.md) [+W] — attached 2026-11-04 from Bender et al. (2026), which proposed "Avoid irrelevant instructional humour because of the risk of a detrimental seductive details effect"; tests this page's relationship.
+- [Evidence for a seductive-details effect of irrelevant humour versus control is inconsistent across studies](../claims/seductive-humour-effect-inconsistent.md) [~W] — attached 2026-11-04 from Bender et al. (2026), which proposed "Avoid irrelevant instructional humour because of the risk of a detrimental seductive details effect"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

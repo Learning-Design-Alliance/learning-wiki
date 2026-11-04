@@ -50,3 +50,4 @@ Three multiple regression analyses at pretest, posttest, and retention. Retentio
 ## Related Claims
 - [Students with high prior scientific reasoning skills achieve significantly better biology comprehension than students with low prior reasoning skills](high-prior-reasoning-better-biology-comprehension.md) — related
 - [High prior reasoning students outperform low reasoning students in generating questions, identifying variables, and making hypotheses](high-reasoning-outperforms-inquiry-steps.md) — related
+- [Detailed medical inquiry knowledge is low in both groups with no significant difference, despite high basic inquiry retention in the active learning group](detailed-inquiry-low-both-groups-no-difference.md) — related

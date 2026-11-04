@@ -47,3 +47,4 @@ Diagnostic time recorded in seconds for each radiograph in the two-session study
 ## Related Claims
 - [AI-assisted caries annotation significantly improves dental students' diagnostic performance on panoramic radiographs compared with conventional interpretation](ai-annotation-improves-dental-student-caries-detection.md) — related
 - [Both AI-assisted and conventional training groups showed significant reductions in completion time from pre- to post-test](both-groups-reduced-completion-time-pre-to-post.md) — related
+- [AI-assisted radiograph interpretation showed improved outcomes in dental student training](ai-assisted-radiograph-interpretation-improved-outcomes.md) — a broader claim this one bears on

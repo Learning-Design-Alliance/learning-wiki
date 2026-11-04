@@ -49,3 +49,4 @@ Aligned Rank Transform (ART) ANOVA, a robust non-parametric analysis, examined m
 - [Blended learning (virtual flipped classroom plus demonstration) achieves higher laboratory OSPE scores than traditional lectures in practical immunohematology training](blended-learning-higher-laboratory-ospe-immunohematology.md) — related
 - [Blended learning achieves higher student satisfaction than traditional lectures in practical immunohematology training](blended-learning-higher-satisfaction-immunohematology.md) — related
 - [Blended learning achieves higher self-perceived laboratory competence than traditional lectures in practical immunohematology training](blended-learning-higher-self-perceived-competence-immunohematology.md) — related
+- [Flipped classroom students achieve significantly higher post-test knowledge scores than lecture-based students in practical gastrointestinal anatomy (Cohen's d = 0.87)](flipped-classroom-higher-posttest-gi-anatomy.md) — related

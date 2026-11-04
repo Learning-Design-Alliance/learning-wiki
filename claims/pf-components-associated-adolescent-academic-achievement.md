@@ -50,3 +50,4 @@ Cross-sectional partial correlation analysis of 713 adolescents, adjusted for ag
 - [Specific physical fitness components are differentially associated with specific executive function domains in adolescents](pf-components-map-onto-ef-domains.md) — related
 - [Gender differences appear in academic achievement and several cognitive parameters but not in inhibition/interference or social skills](gender-differences-aa-cognitive-parameters.md) — related
 - [Field-based cardiorespiratory fitness is positively associated with writing and written expression skills in children with overweight/obesity](crf-associated-writing-skills-overweight-obese-children.md) — related
+- [Students with good school achievement showed higher balance, lower limb coordination, and global physical fitness than insufficient achievers](good-achievement-higher-motor-fitness-scores.md) — reports the opposite

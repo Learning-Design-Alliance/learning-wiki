@@ -50,3 +50,4 @@ Random-effects meta-analysis pooling studies reporting the association between c
 - [Instructor supervision during procedures is associated with higher clinical practice competency (AOR = 2.97)](instructor-following-procedure-associated-competency-ethiopia.md) — related
 - [Clinical preceptor support shows the strongest association with clinical practice competency (AOR = 4.44)](preceptor-support-associated-competency-ethiopia.md) — related
 - [The pooled proportion of clinical practice competency among midwifery and nursing students in Ethiopia is 39.02%](pooled-competency-39-percent-ethiopia-nursing-midwifery.md) — related
+- [Midwifery educators' quality of life is positively and significantly correlated with students' perceived clinical education quality at the institutional level (r = 0.219, p = 0.042).](educator-qol-institutional-clinical-training-correlation.md) — related

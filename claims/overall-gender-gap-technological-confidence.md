@@ -88,3 +88,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Gender, study major and age group show no significant differences in team creative skills across stickiness stages](no-gender-major-age-differences-creative-skills.md) — related
 - [Male interns report significantly higher self-perceived clinical confidence than females, while theoretical knowledge does not differ significantly by gender](gender-confidence-knowledge-difference-veneers.md) — related
 - [VR simulation performance shows no significant association with prior VR experience, age, gender, or professional background](vr-performance-no-individual-factor-associations.md) — related
+- [Postgraduate qualification was positively and health education specialisation negatively associated with teaching efficacy; female teachers scored higher on pedagogical knowledge](demographic-covariates-knowledge-efficacy.md) — related

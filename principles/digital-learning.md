@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 98 claims (42 for, 49 mixed, 7 against) · 107 studies (29 causal, 23 review, 18 theoretical, 16 quant-synthesis, 8 associational, 7 qualitative, 6 design), `q1`–`q4` · 14 of 107 report an effect size · 87 claims rest on one study
+> **Evidence** · 99 claims (43 for, 49 mixed, 7 against) · 108 studies (29 causal, 23 review, 18 theoretical, 16 quant-synthesis, 8 associational, 7 qualitative, 7 design), `q1`–`q4` · 14 of 108 report an effect size · 88 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,7 @@ Claims read against this model that bear on it only at the edges, or not at all.
 - [Tertiary institutions face substantial ICT infrastructure constraints, with 54.2% of colleges lacking well-equipped computer laboratories and only 46% ICT usage reported](../claims/ict-infrastructure-constraints-tertiary-colleges.md) [~M] — attached 2026-10-31 from Gloria Mothibi (2015), which proposed "Provide adequate ICT infrastructure to facilitate e-learning in higher education, because the meta-analytic effect size indicates this can substantially improve learning and achievement".
 - [Multimedia materials alone are insufficient: attitude changes required interactivity and hands-on use](../claims/interactivity-hands-on-required-attitude-change.md) [+W] — attached 2026-11-03 from Záhorec et al. (2010), which proposed "Multimedia teaching materials must offer interactivity and hands-on student use to influence attitudes"; tests this page's relationship.
 - [Access to a structured Google Sites learning pathway increases consistent use of the faculty-recommended nine-step ECG interpretation worksheet.](../claims/google-sites-increases-worksheet-use.md) [+W] — attached 2026-11-04 from El Ayech Boudiche Faten et al. (2026), which proposed "Embed the faculty-recommended structured worksheet within the digital learning pathway rather than leaving it as a standalone resource".
+- [MEES motivation, learning enhancers, and real-world translation domains were highly rated, while barriers and learning discouragers received low scores](../claims/mees-domain-scores-pediatric-elearning.md) [+W] — attached 2026-11-04 from Hrasnica F et al. (2026), which proposed "Incorporate key messages, feedback, real-world cases, interactivity, and customizable content into e-learning tools".
 
 ## Objective and learner-valued goal
 

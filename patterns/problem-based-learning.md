@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 174 claims (70 for, 90 mixed, 14 against) · 95 studies (32 quant-synthesis, 31 causal, 12 review, 7 theoretical, 6 qualitative, 5 design, 2 associational), `q1`–`q4` · 24 of 95 report an effect size · 169 claims rest on one study
+> **Evidence** · 178 claims (72 for, 92 mixed, 14 against) · 97 studies (32 causal, 32 quant-synthesis, 12 review, 7 theoretical, 6 qualitative, 6 design, 2 associational), `q1`–`q4` · 25 of 97 report an effect size · 173 claims rest on one study
 
 ## Description and scope
 
@@ -151,6 +151,7 @@ The twelve claims listed here before that wave were read against the model on 20
 - [Instructional strategy has a statistically significant main effect on senior secondary students' achievement in algebra, with a large partial eta squared of .136](../claims/treatment-main-effect-algebra-achievement.md) [+W] — attached 2026-11-02 from Ojaleye et al. (2018), which proposed "Integrate the philosophy of problem-based and blended learning into preservice teacher curricula in Nigeria"; tests this page's relationship.
 - [Pre-service teachers in PBL groups achieve significantly higher post-test scores than those in lecture-based computer course groups](../claims/pbl-higher-achievement-than-lbcc-pre-service-teachers.md) [+M] — attached 2026-11-03 from Akın Efendioglu (2015), which proposed "Use PBL instead of lecture-based instruction in computer courses for pre-service teachers to promote active participation and meaningful learning"; tests this page's relationship.
 - [PBL supports deep, meaningful, and permanent learning while LBCC is associated with superficial learning](../claims/pbl-deep-learning-vs-lbcc-superficial.md) [+W] — attached 2026-11-03 from Akın Efendioglu (2015), which proposed "Use PBL instead of lecture-based instruction in computer courses for pre-service teachers to promote active participation and meaningful learning"; tests this page's relationship.
+- [Non-linear PBL grades comparable to essays and oral presentations but lower than online quizzes](../claims/non-linear-pbl-grades-comparable-to-essays-and-oral-presentations.md) [~M] — attached 2026-11-04 from Francis WR et al. (2026), which proposed "Individualized PBL assessments address grading and communication challenges of group-based PBL".
 
 ## Illustrative design instance and observation record
 
@@ -266,6 +267,9 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [Microscopic image interpretation scores showed a borderline between-group difference favoring the integrated PBL and medical humanities group over LBL](../claims/integrated-pbl-humanities-borderline-microscopic-interpretation.md) [+W]
 - [Video-assisted PBL enhances self-directed learning readiness more than traditional PBL](../claims/video-assisted-pbl-enhances-self-directed-learning-readiness.md) [~W]
 - [Video-assisted PBL yields higher pediatric nursing knowledge than traditional PBL and conventional teaching](../claims/video-assisted-pbl-higher-pediatric-knowledge.md) [~W]
+- [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](../claims/deepseek-pbl-minicex-clinical-gains.md) [+W]
+- [PBL-DeepSeek students achieve higher theoretical examination scores than traditionally taught students in a glaucoma clerkship](../claims/deepseek-pbl-higher-theory-scores-glaucoma.md) [+W]
+- [Students in the PBL-DeepSeek group report high satisfaction and would continue using the approach, but a minority worry about AI accuracy](../claims/deepseek-pbl-satisfaction-and-accuracy-concerns.md) [~W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

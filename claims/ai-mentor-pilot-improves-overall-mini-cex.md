@@ -49,3 +49,4 @@ Single-group pretest–posttest pilot in which 32 students conducted a 15-minute
 - [Integrated online-PBL-CBL teaching improves overall Mini-CEX clinical competence but not its individual sub-dimensions](online-pbl-cbl-minicex-overall-competence-gain.md) — related
 - [AI scores correlated significantly with Mini-CEX scores (r = 0.579, p < 0.001)](ai-scores-correlate-minicex-r-0579.md) — related
 - [Adding a serious game to standard burn training produces a large improvement in Mini-CEX total clinical competence scores relative to standard training alone](serious-game-burn-mini-cex-total-score.md) — related
+- [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related

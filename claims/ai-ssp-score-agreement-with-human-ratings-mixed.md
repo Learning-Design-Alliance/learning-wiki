@@ -56,3 +56,4 @@ Review-level synthesis of the studies' score accuracy and reliability evaluation
 - History-taking was the most frequently assessed competency in AI-SSP studies (52%), and assessed domains shifted over time toward interactional competencies — related
 - Twenty-one studies describing 20 unique AI-SSP systems for clinical competency assessment were published between 2008 and 2026, with 71% published in 2024 or later — a broader claim this one bears on
 - [LLM-generated essay scores correlated moderately to strongly with expert human assessor scores](llm-essay-scoring-correlates-with-experts.md) — a narrower finding that bears on this claim
+- [AI showed moderate to high correlations with human evaluators for essay grading and thematic analysis](ai-moderate-high-correlation-human-essay-grading.md) — related

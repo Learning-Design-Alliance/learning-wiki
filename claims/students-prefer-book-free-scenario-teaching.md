@@ -49,3 +49,4 @@ Content analysis of evaluation-form answers coded under the general-evaluation t
 - [Experimental-group students reported enjoying learning Newton's Laws through game-based projects and wanted the method used in other lessons](pbl-game-student-enjoyment-interviews.md) — related
 - [Students in the active-learning flipped course reported strongly positive attitudes, and course retention was higher than in the control group](active-learning-positive-attitudes-and-retention-ap.md) — related
 - [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related
+- [Students in the PBL-DeepSeek group report high satisfaction and would continue using the approach, but a minority worry about AI accuracy](deepseek-pbl-satisfaction-and-accuracy-concerns.md) — related

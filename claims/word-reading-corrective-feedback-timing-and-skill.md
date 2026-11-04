@@ -74,3 +74,4 @@ The review's synthesis of three studies of word-reading feedback methods, report
 - [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](metacognitive-illusion-pretesting-underrated.md) — related
 - [Immediate trial-by-trial feedback was more helpful than delayed feedback for children ages 8-11, but timing conclusions remain weak overall](immediate-feedback-better-than-delayed-children.md) — related
 - [Corrective feedback effects on partially acquired structures may emerge only on delayed measures, not immediately](delayed-emergence-of-cf-effects-partially-acquired-structures.md) — related
+- [Feedback timing (immediate vs delayed) shows mixed effects, with no timing effect found in some studies](feedback-timing-mixed-evidence.md) — related

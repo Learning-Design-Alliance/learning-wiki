@@ -57,3 +57,4 @@ Counterfactual analysis by SES group (parental education combined with household
 - [Literacy loss among post-COVID girls was concentrated among disadvantaged subgroups (poorest quintile, rural, OBC caste)](literacy-loss-disadvantaged-girls-subgroups.md) — related
 - [Parental education is not related to whether children are tracked immediately or delayed](parental-education-not-related-delayed-tracking.md) — related
 - [Markers of vulnerability (rural residence, disadvantaged caste, poverty) amplified pandemic learning loss for girls but not boys](vulnerability-markers-amplify-girls-learning-loss.md) — a narrower finding that bears on this claim
+- [The pandemic negatively affected most children's lifestyle domains regardless of vulnerability status](pandemic-negative-lifestyle-effects-across-groups.md) — related

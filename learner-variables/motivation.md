@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 384 claims (254 show a difference, 90 mixed, 40 no difference) · 279 studies (97 causal, 94 associational, 40 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 7 design), `q1`–`q4` · 74 of 279 report an effect size · 372 claims rest on one study
+> **Evidence** · 385 claims (255 show a difference, 90 mixed, 40 no difference) · 280 studies (98 causal, 94 associational, 40 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 7 design), `q1`–`q4` · 75 of 280 report an effect size · 373 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -434,6 +434,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Higher-quality support from the dyslexia clinic is associated with higher teaching self-efficacy, more strongly than with parental self-efficacy](../claims/clinic-support-associated-with-higher-teaching-self-efficacy.md) [+M] — measured as an outcome of the instruction studied
 - [Only mothers' teaching self-efficacy is independently associated with the amount of mother–child conflict during homework](../claims/teaching-self-efficacy-independently-associated-with-mother-child-conflict.md) [+M] — learners who differ on it differ in outcomes
 - [Self-efficacy negatively moderates the association between educational appropriateness and both competence outcomes, with weaker positive associations among managers with higher self-efficacy](../claims/self-efficacy-moderates-educational-appropriateness-competence.md) [~M] — an instructional effect differs with it
+- [Correlations among T2 variables support the hypothesized ability-motivation-behavior sequence, with SDL ability positively correlated with autonomous motivation and motivation with physical activity.](../claims/t2-correlations-support-ability-motivation-behavior-sequence.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

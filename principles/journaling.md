@@ -27,7 +27,7 @@ sources:
 # Journaling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (16 for, 8 mixed, 1 against) · 27 studies (11 causal, 10 quant-synthesis, 3 review, 2 theoretical, 1 associational), `q1`–`q4` · 11 of 27 report an effect size · 18 claims rest on one study
+> **Evidence** · 26 claims (17 for, 8 mixed, 1 against) · 28 studies (11 causal, 10 quant-synthesis, 3 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 11 of 28 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,7 @@ Better entries, more entries, self-regulation questionnaire scores, course exams
 - [Learning Cycle Model, Use of Animation, Reflective Diaries and Multiple Intelligence Theory Based Teaching each had very large retention effect sizes for pre-service teachers](../claims/retention-very-large-effect-sizes-meta-analysis.md) [+W]
 - [Reflective journaling raises EFL learners' general self-efficacy: one-way ANOVA on posttest SGSES scores was significant across the four journaling conditions](../claims/reflective-journaling-raises-efl-self-efficacy-anova.md) [+W]
 - [Teacher feedback and peer feedback on collaborative journals did not differ significantly in their effect on self-efficacy](../claims/teacher-peer-feedback-no-significant-difference.md) [~W]
+- [Smartphone-based reflection app lowered practical barriers to structural reflection and decreased the mental burden of self-regulated learning for nursing students on clinical placement](../claims/reflection-app-lowers-barriers-structural-reflection-nursing-placement.md) [+W]
 
 ## Related Principles
 - [Purposeful Reflection](reflection.md) — journaling is one concrete routine for structured reflection.

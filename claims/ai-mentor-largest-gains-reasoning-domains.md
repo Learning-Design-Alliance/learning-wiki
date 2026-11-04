@@ -48,3 +48,4 @@ Domain-level paired analysis within the same n = 32 pretest–posttest pilot. Th
 - [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](ai-mentor-pilot-improves-overall-mini-cex.md) — a broader claim this one bears on
 - [The adjusted intervention effect varied across Mini-CEX domains, largest for therapeutic planning (MD 3.96) and diagnostic planning (MD 3.70) and smallest for history taking (MD 2.87)](serious-game-domain-effect-size-variation.md) — reports the opposite
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on
+- [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related

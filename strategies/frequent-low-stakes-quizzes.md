@@ -118,6 +118,7 @@ Retrieval practice produces substantially more durable retention than restudying
 - [Apply retrieval practice (quizzes, peer teaching, flipped classroom) and monitor detail loss to balance gist and episodic memory](retrieval-practice-balance-gist-detail-strategy.md)
 - [Deliver a 30-minute lecture on the Probability Approach between two quizzes](30-minute-probability-approach-lecture.md)
 - [Use weekly formative quizzes during EFL listening instruction to support achievement and reduce anxiety](weekly-formative-quizzes-efl-listening-instruction.md)
+- [Incorporate learner-recommended external question banks and apps alongside instructor-curated OLRs](incorporate-learner-recommended-olrs.md)
 
 ## Examples
 - **Team-Based Learning** ([tbl.teamslearn.org](http://www.tbl.teamslearn.org)) — individual Readiness Assurance Tests taken before team discussion, with immediate appeal and feedback

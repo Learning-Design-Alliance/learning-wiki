@@ -69,3 +69,4 @@ Single-group study of 65 UK medical graduates using interviews, questionnaires a
 - [Students lack knowledge of and confidence in appropriate antimicrobial prescribing, and most want more training in rational antibiotic selection](students-lack-antimicrobial-prescribing-competence.md)
 - [Final-year students lack pharmacovigilance competencies, particularly knowledge of adverse drug reaction reporting](students-lack-pharmacovigilance-competencies.md)
 - [Final-year medical students show a general lack of preparedness, self-confidence, knowledge and skills for prescribing, especially in general and antimicrobial prescribing and pharmacovigilance](final-year-students-insufficient-prescribing-competencies.md)
+- [Prescribing competence concerns prompted the Prescribing Safety Assessment, with feedback mechanisms often absent alongside educational interventions](psa-prescribing-competence-feedback-gap.md)

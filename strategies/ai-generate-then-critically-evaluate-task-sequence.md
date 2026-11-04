@@ -52,6 +52,7 @@ This strategy embeds ChatGPT into pedagogy as a catalyst for critical thinking r
 - [Embed AI as a learning partner and redesign assessments for AI-rich contexts](ai-learning-partner-assessment-redesign-strategies.md)
 - [Redesign assessments to require critical thinking, originality, interactive activities, and real-time or proctored formats](redesign-assessments-to-resist-chatgpt.md)
 - [Design AI-integration activities that set explicit expectations for AI-assisted work, integrate reflective assessments of AI outputs, and build tasks strengthening critical thinking and academic integrity](explicit-expectations-reflective-assessments-ai-tasks.md)
+- [Run a preclass 30-minute AI literacy training covering query formulation and critical evaluation of AI output](preclass-ai-literacy-training-deepseek-pbl.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ Pre- and post-workshop survey study of 79 regulated allied health professionals 
 - [A 13-week multifaceted course for therapy and physiotherapy students produced statistically significant mean increases in perceived knowledge (14.15) and actual knowledge (3.56)](allied-health-course-knowledge-gains.md) — related
 - [An elective EBM course for pharmacy students improved pre-post course scores from 8.6/15 to 13.7/15, with preceptors and students reporting improved literature critique and interpretation confidence](pharmacy-elective-course-gains-and-preceptor-views.md) — related
 - [The near-peer bootcamp was feasible to coordinate as an alternative to faculty-led teaching](near-peer-bootcamp-feasibility.md) — related
+- [Faculty preparedness gaps and psychometric subjectivity are key barriers to implementing OHL-Mini-CEX](ohl-mini-cex-implementation-barriers.md) — related

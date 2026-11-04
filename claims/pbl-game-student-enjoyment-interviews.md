@@ -60,3 +60,4 @@ Qualitative interviews with experimental-group participants. Student C said "The
 - [Pupils reported high satisfaction with the children-literature program](pupil-satisfaction-children-literature-program.md) — related
 - [Most students wanted argumentation-based activities continued, mainly in science lessons](students-want-argumentation-activities-continued-science.md) — related
 - [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related
+- [Most students endorse the service learning model and would recommend it for future students](service-learning-student-endorsement-recommendation.md) — related

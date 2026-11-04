@@ -47,3 +47,4 @@ Pearson product moment correlations computed within the online sections (n = 69)
 ## Related Claims
 - [Across the total sample, exam scores correlated only weakly with total course points earned in learning activities (r = 0.30), suggesting grades did not strictly follow assessed learning](weak-correlation-exam-scores-course-points.md) — related
 - [Undergraduate students in online sections using asynchronous peer text discussion scored significantly higher on course exams than students in a classroom section using synchronous lecture-discussion (d = 0.66)](asynchronous-discussion-online-sections-higher-exam-scores.md) — related
+- [Engagement with online quizzes is associated with higher practical exam scores](quiz-engagement-linked-to-practical-exam.md) — related

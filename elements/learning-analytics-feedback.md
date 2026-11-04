@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 90 claims (31 for, 43 mixed, 16 against) · 74 studies (23 review, 19 associational, 9 theoretical, 8 qualitative, 7 causal, 7 design, 1 quant-synthesis), `q1`–`q3` · 4 of 74 report an effect size · 87 claims rest on one study
+> **Evidence** · 91 claims (32 for, 43 mixed, 16 against) · 75 studies (24 review, 19 associational, 9 theoretical, 8 qualitative, 7 causal, 7 design, 1 quant-synthesis), `q1`–`q3` · 4 of 75 report an effect size · 88 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available ([Baker & Inventado, 2016](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -136,6 +136,7 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Different dashboard designs produce different learning outcome impacts, as predictive and descriptive dashboards diverge](../claims/lad-design-type-moderates-outcomes.md) [~M]
 - [Comparing LAD users and non-users confounds the dashboard effect with student engagement levels](../claims/lad-user-nonuser-confound-engagement.md) [-W]
 - [Learning analytics and predictive modeling enable institutions to monitor learner progression, identify at-risk learners, and optimize curriculum](../claims/learning-analytics-monitor-risk-optimize-curriculum.md) [+W]
+- [AI models could forecast student outcomes, supporting personalised learning strategies and early intervention](../claims/ai-models-forecast-student-outcomes-personalised-learning.md) [+W]
 
 ## The evidence by question
 

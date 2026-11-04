@@ -52,3 +52,6 @@ Path analysis from the PLS-SEM bootstrapping results (Table 6) in the Results se
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest direct predictor](se-mov-positive-predict-sdl.md) — related
 - [The TUGA, motivation, and self-efficacy jointly explain 75.3% of the variance in undergraduates’ self-directed learning](model-explains-75-percent-sdl-variance.md) — related
 - [Self-efficacy has a significant positive effect on motivation among undergraduates using generative AI](se-positive-effect-mov.md) — related
+- [The structural model explains 75.3% of the variance in self-directed learning, but measurement invariance across gender was only partial](sdl-variance-explained-partial-invariance.md) — related
+- [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest predictor](se-mov-positive-predict-sdl-henan-sem.md) — related
+- [Thoughtless use of generative AI exerts a significant direct negative effect on undergraduates’ self-directed learning](tuga-negative-direct-effect-sdl-henan-sem.md) — possibly the same claim (merge candidate)

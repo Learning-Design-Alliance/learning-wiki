@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 347 claims (187 for, 139 mixed, 21 against) · 209 studies (75 review, 63 causal, 39 quant-synthesis, 14 qualitative, 9 design, 8 theoretical, 1 associational), `q1`–`q4` · 44 of 209 report an effect size · 342 claims rest on one study
+> **Evidence** · 361 claims (193 for, 144 mixed, 24 against) · 217 studies (75 review, 69 causal, 39 quant-synthesis, 15 qualitative, 10 design, 8 theoretical, 1 associational), `q1`–`q4` · 46 of 217 report an effect size · 356 claims rest on one study
 
 ## Conditional relationship
 
@@ -370,6 +370,10 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [SBS-trained students outperform VBT-trained students on technical skills in a simulated perioperative anaphylaxis scenario one week after training](../claims/sbs-better-technical-skills-simulated-scenario.md) [+W] — attached 2026-11-04 from Yang Xiuli et al. (2026), which proposed "Integrate scenario-based simulation into anaesthesia curricula to prepare students for high-stakes, low-frequency emergencies such as perioperative anaphylaxis"; tests this page's relationship.
 - [SBS-trained students show higher non-technical skills (ANTS) overall, driven by teamwork and situation awareness but not task management or decision-making](../claims/sbs-higher-ants-teamwork-situation-awareness.md) [+W] — attached 2026-11-04 from Yang Xiuli et al. (2026), which proposed "Integrate scenario-based simulation into anaesthesia curricula to prepare students for high-stakes, low-frequency emergencies such as perioperative anaphylaxis"; tests this page's relationship.
 - [VR-based acupuncture training was associated with higher practical skills assessment scores than conventional instruction](../claims/vr-acupuncture-higher-practical-skills.md) [+W] — attached 2026-11-04 from Wu Lingyi et al. (2026), which proposed "Adopt immersive VR as a supplementary component of procedural healthcare training programs"; tests this page's relationship.
+- [Preclinical HVRS training significantly improves endodontic access cavity preparation scores on real patients](../claims/hvrs-training-improves-access-cavity-scores.md) [+M] — attached 2026-11-04 from Şimşek Emine (2026), which proposed "Provide preclinical HVRS training before first real-patient endodontic procedures to support clinical skill development".
+- [In situ simulated emergency training improves clinical reasoning in junior nurses](../claims/in-situ-set-improves-clinical-reasoning-junior-nurses.md) [+W] — attached 2026-11-04 from Shen Meiyu et al. (2026), which proposed "Conduct simulation training in the real clinical environment using actual clinical resources"; tests this page's relationship.
+- [In situ simulated emergency training improves first aid ability in junior nurses](../claims/in-situ-set-improves-first-aid-junior-nurses.md) [+W] — attached 2026-11-04 from Shen Meiyu et al. (2026), which proposed "Conduct simulation training in the real clinical environment using actual clinical resources"; tests this page's relationship.
+- [VR-based training yields higher objective structured endoscopic skills scores than model simulation](../claims/vr-training-higher-endoscopic-skills-scores.md) [+W] — attached 2026-11-04 from Zhang Yunyun et al. (2026), which proposed "Integrate VR simulation into residency curricula as a supplementary modality for endoscopic training"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -583,6 +587,16 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Simulation-based teaching reduces the time required to complete venipuncture and arterial blood gas sampling compared with traditional teaching](../claims/simulation-reduces-procedure-completion-time.md) [+W]
 - [Simulation-based training with the Snaid® extrication device significantly improves ability to teach others, readiness to use the device, and willingness to recommend it](../claims/snaid-simulation-training-improves-teach-readiness-recommend.md) [+W]
 - [Students rate the simulation program highly acceptable and useful, with the simulation component rated most useful.](../claims/simulation-high-acceptability-ratings.md) [+W]
+- [In situ simulated emergency training does not significantly improve clinical communication in junior nurses](../claims/in-situ-set-no-effect-clinical-communication.md) [-W]
+- [In situ simulated emergency training does not significantly improve critical thinking in junior nurses](../claims/in-situ-set-no-effect-critical-thinking.md) [-W]
+- [Simulation-based MI training significantly improves CHW trainees' confidence in using culturally appropriate resources to combat health misinformation](../claims/simulation-mi-training-increases-chw-confidence-combatting-misinformation.md) [+W]
+- [SBL produced greater gains in teaching efficacy than OCL (significant group × time interaction)](../claims/sbl-greater-efficacy-gains-than-ocl.md) [~W]
+- [Dietitians view SBE as a supportive tool that builds confidence but not a replacement for real patient contact](../claims/sbe-supportive-not-replacement-view.md) [~W]
+- [VR advantages in skills scores concentrate in manipulation smoothness, operational proficiency, and visual field stability](../claims/vr-skills-advantage-specific-dimensions.md) [+W]
+- [Core barriers to VP training implementation were limited physical examination fidelity, a restrictive documentation interface, transfer difficulty, and variable workshop effectiveness](../claims/vp-training-implementation-barriers.md) [-W]
+- [Transfer of VR training gains to real clinical practice remains unconfirmed](../claims/vr-training-transfer-unconfirmed.md) [~W]
+- [Virtual-reality simulator training alone failed to show significant transfer to in vivo porcine suturing in a cited prior randomized trial, contrasting with the present physical-simulator findings](../claims/vr-simulator-training-no-transfer-porcine-suturing.md) [~W]
+- [Knowledge-examination gains from VR training are domain-specific](../claims/vr-knowledge-gains-domain-specific.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

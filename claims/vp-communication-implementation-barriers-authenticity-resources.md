@@ -73,3 +73,4 @@ Secondary-outcome synthesis of barriers for VR/AR and metaverse interventions, a
 - [Teachers are described mainly as creators of virtual patients, facing time, resource, technical and legal demands](vp-teacher-category-creator-role.md) — related
 - [Availability and scalability are described as key technology advantages of virtual patients over real-patient contact](vp-technology-availability-scalability.md) — reports the opposite
 - [Blended learning poses challenges for students and institutions, including unrealistic expectations, isolation, and technology and support issues](blended-learning-challenges-students-institutions.md) — related
+- [Core barriers to VP training implementation were limited physical examination fidelity, a restrictive documentation interface, transfer difficulty, and variable workshop effectiveness](vp-training-implementation-barriers.md) — related

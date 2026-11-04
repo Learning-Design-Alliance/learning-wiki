@@ -51,3 +51,4 @@ A parallel-group randomized controlled trial of 70 medical students (35 per grou
 - [Teacher satisfaction with the clinical encounter was significantly higher in the serious game group than in the control group](serious-game-burn-teacher-satisfaction.md) — related
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — related
 - [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](ai-mentor-pilot-improves-overall-mini-cex.md) — related
+- [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related

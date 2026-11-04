@@ -51,3 +51,4 @@ Review of 3 studies measuring suturing, cutting, and cautery skills, finding "si
 - [For lower-stakes basic skills, AR shows noninferiority rather than superiority over traditional instruction](ar-noninferiority-basic-skills.md) — related
 - [Post-training objective assessments show significantly reduced operation time in pattern cutting and suturing tasks and improved suturing quality](objective-task-time-reduction-suturing-quality-gain.md) — a narrower finding that bears on this claim
 - [Approximately 86.61% of trainees prioritize suturing and knot-tying practice as the most critical simulator training component](suturing-knot-tying-most-critical-component.md) — related
+- [Cumulative exposure (total simulation time and repetitions) shows no significant association with final suturing performance](exposure-not-associated-with-suturing-proficiency.md) — related

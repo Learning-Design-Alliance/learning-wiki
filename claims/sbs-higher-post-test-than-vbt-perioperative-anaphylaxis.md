@@ -51,3 +51,4 @@ Pilot randomised controlled trial comparing SBS (n=42) and VBT (n=42) among four
 - [Both SBS and VBT improve knowledge scores, but the score gain (delta) is significantly larger under SBS](sbs-larger-delta-score-gain-than-vbt.md) — possibly the same claim (merge candidate)
 - [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](simulation-crossover-22-percent-increase-critically-unwell.md) — related
 - [Repeated exposure to an identical VR anaphylaxis scenario yields higher guideline-based checklist performance in the common assessment scenario than first-time exposure](repeated-identical-vr-exposure-higher-checklist-score.md) — related
+- [Active learning students report higher confidence in independently managing high-risk patients at 12 months (46.7% vs. 6%, r = 0.467)](active-learning-higher-confidence-managing-high-risk-patients.md) — related

@@ -75,3 +75,4 @@ Bootstrapped mediation analysis (PROCESS, 5000 iterations) in the preregistered 
 - [Instructor body posture shows no significant main or interaction effects on students' motivation, though pairwise contrasts favour conditions over slumped/closed](posture-motivation-null-main-effects.md) — related
 - [Student-perceived teacher enthusiasm mediates the relationship between teacher enjoyment and student enjoyment](teacher-enthusiasm-mediation-enjoyment.md) — related
 - [Task performance mediated the reward contrast's effect on task interest but failed to mediate its effect on continuing motivation for the task](task-performance-mediation-task-interest-not-continuing.md) — related
+- [Humorous elements increase perceived instructor likability but show inconsistent effects on situational interest and learning atmosphere](humour-instructor-likability-effect.md) — related

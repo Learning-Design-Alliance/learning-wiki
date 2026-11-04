@@ -60,3 +60,4 @@ The review reports a consensus that GenAI tailors responses to students' work an
 - [Computer-based learning systems need to adapt to learners' needs to provide effective personalised instruction](adaptation-needed-for-personalised-instruction.md) — related
 - [In Statistics for Business, digital tools enabled uninvigilated assessment, flexible pacing, and a personalised mastery approach with AI-provided immediate feedback](stats-business-digital-mastery-shift.md) — related
 - [Personalized feedback is the most frequently reported pedagogical benefit of AI agents, reported in 44.83% of reviewed studies](personalized-feedback-top-benefit.md) — related
+- [AI models could forecast student outcomes, supporting personalised learning strategies and early intervention](ai-models-forecast-student-outcomes-personalised-learning.md) — related

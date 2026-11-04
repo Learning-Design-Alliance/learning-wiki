@@ -58,3 +58,4 @@ Anonymous three-point-scale questionnaires completed by both groups after the ob
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](fc-satisfaction-and-implementation-challenges.md) — related
 - [Residents taught with BOPPPS/FC-CBL self-rated teaching satisfaction and self-directed learning higher than lecture-taught residents, with large reported effect sizes but an inconsistently described rating scale](boppps-fc-cbl-large-effect-satisfaction-self-directed-learning.md) — related
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — related
+- [Active learning and team-based learning interventions have not consistently improved shelf exam scores](active-learning-no-consistent-shelf-improvement.md) — related

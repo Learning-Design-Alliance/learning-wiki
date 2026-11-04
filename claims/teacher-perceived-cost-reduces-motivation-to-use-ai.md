@@ -125,3 +125,4 @@ Theoretical argument about risk and uncertainty in the cost section, with no dat
 - [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related
 - [Implementing grief training faces multi-level challenges including small class sizes, faculty turnover and low motivation because some physicians do not consider grief support part of their job](grief-training-implementation-challenges.md)
 - [Student teachers face multiple challenges in utilizing educational technology innovations during practicum, including lack of specialists, training, and fear of abandoning traditional methods](challenges-utilizing-edtech-student-teachers.md) — related
+- [Greater familiarity with SBE is associated with more positive attitudes, stronger motivation, and fewer perceived resource and cost barriers](sbe-familiarity-attitudes-motivation-association.md) — a narrower finding that bears on this claim

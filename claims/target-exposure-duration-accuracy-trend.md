@@ -48,3 +48,4 @@ The review reports Bernstein and Davis's (1982) video-tape procedure study of ex
 - [Motivation generally increases SPT accuracy, but some goals can motivate inaccuracy](motivation-affects-spt-accuracy-with-exceptions.md) — related
 - [Induced perspective-taking strategies affect SPT outcomes, but no consensus exists on the most effective strategy](strategy-inductions-affect-spt-outcomes.md) — related
 - [Familiarity with the target improves SPT accuracy](target-familiarity-improves-spt-accuracy.md) — a broader claim this one bears on
+- [Training produces only a non-significant increasing trend in diagnostic accuracy among students](training-accuracy-nonsignificant-trend.md) — related

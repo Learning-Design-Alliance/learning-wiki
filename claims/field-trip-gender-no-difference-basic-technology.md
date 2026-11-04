@@ -78,3 +78,4 @@ ANCOVA on post-test scores of male and female students taught using field trip, 
 - [Students' attitudes towards computers did not differ significantly based on owning a computer or gender, and paternal education level had no significant effect on attitudes or achievement.](demographic-variables-no-attitude-effect.md) — related
 - [Gender had no significant influence on performance when taught solubility with practical activities](no-gender-difference-practical-activities-solubility.md) — related
 - [Gender had no significant influence on performance when taught solubility with practical manual](no-gender-difference-practical-manual-solubility.md) — related
+- [Female students report significantly higher learning environment perceptions than male students, though post-test performance does not differ by gender](female-students-higher-perceptions-exploratory.md) — related

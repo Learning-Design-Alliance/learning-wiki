@@ -56,3 +56,4 @@ The article's results text, contradicted in part by its Table 2:
 - [Lower-baseline residents show larger score gains after flipped classroom combined with CBL](flipped-classroom-cbl-larger-gains-lower-baseline-residents.md) — related
 - [Stress-dose hydrocortisone dosing accuracy improved from 42.9% to 93.9% after the simulation](stress-dose-dosing-improved-simulation.md) — related
 - [Both CBL and GBL in a virtual flipped classroom produce significant within-group knowledge gains over time](cbl-gbl-virtual-flipped-significant-gains.md) — a broader claim this one bears on
+- [Both groups improved significantly from pre- to post-test, with a larger within-group gain in the flipped classroom group (d = 1.87 vs. d = 0.86)](within-group-gains-larger-flipped-group.md) — related

@@ -51,3 +51,4 @@ Three-round Delphi survey of Hong Kong school teachers, who refined an initial a
 - [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no significant independent effect](competence-strongest-predictor-relatedness-null.md) — related
 - Two Delphi rounds with 20 Chinese CDC experts achieved consensus, with Kendall's W rising significantly from 0.295 to 0.328 — related
 - [Both students and academics reached formal Delphi consensus on the need for more simulated classes, with students also reaching consensus on more case-based learning](delphi-consensus-modern-teaching-methods.md) — related
+- [In the first Delphi round, 12 of 22 potential competencies received unanimous endorsement and 10 required revisions based on expert feedback.](delphi-first-round-12-unanimous-10-revised.md) — related

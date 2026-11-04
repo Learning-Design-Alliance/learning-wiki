@@ -51,3 +51,5 @@ Review discussion attributing findings to included studies: Maloney et al. found
 - [Exposure to traumatic dental injuries in practice is usually but not consistently associated with higher practitioner knowledge](tdi-exposure-knowledge-mixed.md) — related
 - [Evidence on whether attending TDI educational courses increases practitioner knowledge is inconclusive](tdi-courses-knowledge-inconclusive.md) — related
 - [Introduction of local guidelines was followed by improved SHO confidence in managing corneal abrasions](guidelines-improved-corneal-abrasion-confidence.md) — a narrower finding that bears on this claim
+- [Most dental students report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related
+- [Students who had heard of or read the IADT guidelines scored significantly higher on TDI knowledge.](iadt-guideline-awareness-associated-with-higher-tadi-knowledge.md) — related

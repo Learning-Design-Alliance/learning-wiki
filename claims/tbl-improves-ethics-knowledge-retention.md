@@ -58,3 +58,4 @@ Ozgonul (2017) compared TBL and lecture-based instruction in a medical ethics cl
 - [TBL outperforms lecture-based learning on short-term cognitive outcomes such as theoretical exam performance](tbl-superior-lecture-short-term-cognitive.md) — related
 - [Most reviewed studies found active learning improved satisfaction and knowledge acquisition and was superior to traditional lectures](active-learning-superior-lectures-dental-classroom.md) — a broader claim this one bears on
 - [Flipped learning, PBL, group discussion, and TBL were the most frequently evaluated active learning strategies, each showing superiority to lectures in direct-measure studies](flipped-pbl-discussion-tbl-most-evaluated-dental.md) — a broader claim this one bears on
+- [Active learning and team-based learning interventions have not consistently improved shelf exam scores](active-learning-no-consistent-shelf-improvement.md) — related

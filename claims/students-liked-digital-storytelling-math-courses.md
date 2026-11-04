@@ -54,3 +54,4 @@ Written opinion forms from the 30 experimental-group students after the applicat
 - [Most intervention participants responded favorably to the citizen science project, with being outdoors in nature the most-cited enjoyment](qualitative-favorable-citizen-science-responses.md) — related
 - [Most students wanted argumentation-based activities continued, mainly in science lessons](students-want-argumentation-activities-continued-science.md) — related
 - [Most students were satisfied with the SGLM process and wanted it continued, but three reported dissatisfaction tied to time pressure and material difficulties](sglm-satisfaction-continuation-mixed.md) — related
+- [Students in the PBL-DeepSeek group report high satisfaction and would continue using the approach, but a minority worry about AI accuracy](deepseek-pbl-satisfaction-and-accuracy-concerns.md) — related

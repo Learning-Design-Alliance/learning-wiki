@@ -87,3 +87,4 @@ Study-level frequency analysis across the 54 included studies identifies infrast
 - [Technology in digital tutoring was reliable and accessible but rarely used for higher-order thinking](digital-tutoring-reliable-but-low-higher-order-use.md) — related
 - [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — a narrower finding that bears on this claim
 - [Non-users of VM blamed lack of hardware devices, internet access, technical knowledge, and insufficient promotion by instructional personnel](vm-nonusers-obstacles-devices-promotion.md) — a narrower finding that bears on this claim
+- [Access to technology and hardware was not seen as a barrier to SBE readiness, with adequate access reported (mean 3.21)](technology-access-not-a-barrier-to-sbe-readiness.md) — related

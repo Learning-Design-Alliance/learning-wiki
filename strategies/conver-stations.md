@@ -58,9 +58,11 @@ The strategy operationalizes [collaborative learning](../principles/collaborativ
 5. Optionally repeat, then close with a whole-class synthesis or individual written reflection ([Self-Explanation](../elements/articulation.md)).
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lower-mobility discussion structure serving a similar participation-broadening goal
 - [Jigsaw](jigsaw.md) — another rotation-based structure, but rotates expertise rather than discussion ideas
 - [Socratic Seminar](socratic-seminar.md) — whole-class alternative when group logistics are impractical
+- [Use small groups of well-known co-students with rotating roles as simulator and respondent to foster psychological safety and peer learning](small-familiar-groups-rotating-roles-vr-simulation-strategy.md)
 
 ## Examples
 - A high-school civics class discusses "Should voting be mandatory?" in five groups; after ten minutes, two students per group rotate, bringing distinct arguments (compulsory turnout, civic duty, enforcement concerns) into new configurations for a second round.

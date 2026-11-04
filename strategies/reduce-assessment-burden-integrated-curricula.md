@@ -39,6 +39,7 @@ The article recommends that future iterations of R-ISAM address the assessment i
 ## Related Strategies
 
 - [Design balanced, integrated assessment models that combine theoretical and laboratory learning and incorporate both formative and summative dimensions supported by technology](balanced-integrated-general-chemistry-assessment-models.md)
+- [Spiral, phased integration of gerodontology content across all curriculum phases with regular assessment](spiral-phased-gerodontology-integration.md)
 
 ## Examples
 -

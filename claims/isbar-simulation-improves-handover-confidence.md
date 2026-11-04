@@ -48,3 +48,4 @@ A single-group pretest-posttest study of 57 nursing students. Paired-samples t-t
 - [Students report that ISBAR provides a cognitive scaffold for organized handover expression](isbar-cognitive-scaffold-organized-expression.md) — related
 - [Nursing students' communication clarity rose significantly from before to after ISBAR-structured handover simulation teaching, in an uncontrolled pre-post study](isbar-simulation-improves-communication-clarity.md) — related
 - [Students report that progressive simulation practice builds handover confidence by reducing anxiety](progressive-simulation-practice-builds-confidence.md) — related
+- [Simulation-based CARE handover training produces a large increase in nurses' perceived handover competency from pretest to posttest](simulation-care-training-increases-perceived-handover-competency.md) — related

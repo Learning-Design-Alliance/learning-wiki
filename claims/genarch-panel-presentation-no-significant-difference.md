@@ -48,3 +48,4 @@ A blinded seven-member panel (two professors, five senior students) rated record
 - [Perceived tool quality was perfectly rank-associated with panel-rated presentation score among the four GenARch teams (exploratory)](genarch-wblt-quality-presentation-correlation-exploratory.md) — related
 - [GenARch use was associated with a positive relative pre–post change in the Team-Q conflict-management subscale](genarch-positive-conflict-management-did.md) — related
 - [No significant relative pre–post changes for attitudes toward collaborative learning, overall teamwork, or remaining teamwork subscales](genarch-null-did-collaborative-attitudes-teamwork.md) — related
+- [In an exploratory blinded comparison of five double-marked submissions, no statistically significant differences were detected between AI-generated and faculty-generated feedback across rated domains](blinded-comparison-no-significant-difference-ai-vs-faculty-feedback.md) — related

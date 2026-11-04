@@ -48,3 +48,4 @@ Independent samples t-test comparing mean GEARS scores between XR-trained (n = 6
 - [XR training shows a large but non-significant effect on GEARS scores compared to no additional training](xr-gears-vs-no-training-large-non-significant-effect.md) — reports the opposite
 - [Robotic novices trained with extended reality simulators complete tasks significantly faster than novices with no additional training](xr-training-faster-time-to-complete-than-no-training.md) — related
 - [Extended reality training shows no statistically significant difference in GEARS scores compared to dry lab training](xr-vs-dry-lab-gears-no-significant-difference.md) — related
+- [Novice surgeons trained on a sensorized vascular simulator achieve significantly higher overall GEARS scores in an in vivo porcine robotic vascular dissection task than untrained controls](simulator-training-higher-gears-porcine-vascular-dissection.md) — related

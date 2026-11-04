@@ -46,3 +46,4 @@ Narrative attribution: the article cites a meta-analysis of 40 studies on item-b
 
 ## Related Claims
 - [Meta-analytic effect sizes for cognitive-motivational techniques are substantial: multimedia d = 1.01 overall, elaborative feedback d = 0.71 recall, intrinsic integration d = 0.62](cognitive-motivational-techniques-effect-sizes.md) — related
+- [Elaborate feedback produces larger achievement effects than corrective feedback in computer-based assessment](elaborate-feedback-larger-effects-than-corrective-cba.md) — possibly the same claim (merge candidate)

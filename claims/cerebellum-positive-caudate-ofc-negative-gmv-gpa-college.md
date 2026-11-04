@@ -50,3 +50,4 @@ Whole-brain voxel-level regression of VBM gray matter volume on GPA in 153 colle
 - [Impulsivity partially mediates the relationships of left cerebellar and right caudate gray matter volumes with college GPA](impulsivity-partially-mediates-brain-gpa-links.md) — related
 - [Trait impulsivity is negatively associated with college GPA](impulsivity-negatively-associated-college-gpa.md) — related
 - The study's brain–GPA and impulsivity findings are limited to young adults and cannot support causal claims — related
+- [GPA shows a significant positive correlation with oral disease diagnostic performance (p < 0.001) while age shows no significant association](gpa-positive-correlation-diagnostic-performance.md) — related

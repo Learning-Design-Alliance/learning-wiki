@@ -98,3 +98,6 @@ The review reports these positive signals alongside settings where incorrect key
 - [ChatPDF.com generates more difficult and discriminating MCQs than ChatGPT 3.5 and ChatGPT 4](chatpdf-com-more-difficult-discriminating-mcqs.md) — related
 - [Llama 2 generates MCQs of worse quality than humans on question clarity and distractor quality](llama-2-mcq-quality-worse-than-humans.md) — related
 - [All AI-generated case drafts required expert correction, with a mean of 1.65 medical errors and 2.43 logical inconsistencies per case](genai-cbl-hallucination-audit.md) — a narrower finding that bears on this claim
+- [GenAI-assisted items had more distractor-functioning red flags — nonfunctioning and negatively discriminating distractors — although these differences were not statistically significant](genai-mcq-distractor-red-flags.md) — related
+- [LLM-assisted MCQ generation achieved a 5.6-fold efficiency gain over student authorship in a formative medical exam context](llm-mcq-generation-efficiency-gain.md) — related
+- [Student-generated MCQs showed higher item discrimination than AI-generated MCQs, with a small effect size and a majority of AI items in the poor-discrimination band](student-gen-items-higher-discrimination.md) — related

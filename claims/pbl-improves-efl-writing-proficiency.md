@@ -50,3 +50,4 @@ Narrative synthesis of nine studies (Studies 5, 9, 10, 11, 12, 15, 17, 21, 25) o
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
 - [Low-proficiency EFL undergraduates report feeling more competent in English tasks through ChatGPT-assisted writing feedback, conversational practice, and translation support](chatgpt-competence-experience-efl-undergraduates.md) — related
 - [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related
+- [Non-linear PBL grades comparable to essays and oral presentations but lower than online quizzes](non-linear-pbl-grades-comparable-to-essays-and-oral-presentations.md) — related

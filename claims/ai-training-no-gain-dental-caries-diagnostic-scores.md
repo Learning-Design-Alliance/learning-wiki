@@ -52,3 +52,4 @@ Randomized experimental study of 79 undergraduate dental students (41 AI, 38 con
 - [Both AI-assisted and conventional training groups showed significant reductions in completion time from pre- to post-test](both-groups-reduced-completion-time-pre-to-post.md) — related
 - [Absolute average error increased significantly from pre- to post-test in the conventional group but not in the AI-assisted group (exploratory)](conventional-group-error-increase-ai-group-stable.md) — related
 - [Accessing the online caries diagnosis module did not significantly improve dental students' radiographic diagnostic accuracy](online-module-no-accuracy-gain-caries.md) — related
+- [AI-assisted radiograph interpretation showed improved outcomes in dental student training](ai-assisted-radiograph-interpretation-improved-outcomes.md) — reports the opposite

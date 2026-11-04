@@ -52,3 +52,4 @@ The ANCOVA on transfer scores found no significant difference between control an
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — reports the opposite
 - [Individual interest is a stable positive predictor of academic achievement, while seductive details harm recall and transfer](individual-interest-predicts-achievement.md) — reports the opposite
 - [Seductive detail amount did not increase learners' intrinsic motivation in either study](sd-amount-no-motivation-effect.md) — related
+- [Evidence for a seductive-details effect of irrelevant humour versus control is inconsistent across studies](seductive-humour-effect-inconsistent.md) — related

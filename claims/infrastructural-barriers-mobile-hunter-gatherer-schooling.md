@@ -71,3 +71,4 @@ The review attributes this figure to Mokibelo (2014), reporting that "40% of San
 - [When hunter-gatherer languages are not used in schools, children often drop out because they do not understand the language of instruction](language-of-instruction-dropout-hunter-gatherer.md) — related
 - [Schooling disrupts hunter-gatherer values, languages, and traditional knowledge, contributing to language loss and erosion of traditional knowledge transmission](schooling-disrupts-hunter-gatherer-values-language-knowledge.md) — related
 - [Hunter-gatherer communities also view schooling positively, as a means of asserting rights, socioeconomic empowerment, and new social relationships](schooling-viewed-as-empowerment-hunter-gatherer.md) — related
+- [Students residing more than 1000 m from school showed significantly higher global school achievement than students living in the village core](distant-village-higher-school-achievement.md) — related

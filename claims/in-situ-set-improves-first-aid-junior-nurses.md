@@ -1,0 +1,71 @@
+---
+type: claim
+title: In situ simulated emergency training improves first aid ability in junior nurses
+description: In situ simulated emergency training improves first aid ability in junior nurses
+id: in-situ-set-improves-first-aid-junior-nurses
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: shen-meiyu-2026
+    resource: "https://doi.org/10.1186/s12909-026-08961-x"
+    title: "Shen Meiyu, Tan Xiaolin, Xianyu Yunyan, Chen Qiuxiang, Fang Yu, Zeng Chao, Yang Guirong, Pan Minghao, Cai Zhongxiang. (2026). Developing and evaluating an in situ, simulated emergency training course for nurses with low seniority. BMC Medical Education. https://doi.org/10.1186/s12909-026-08961-x"
+    author: Shen Meiyu, Tan Xiaolin, Xianyu Yunyan, Chen Qiuxiang, Fang Yu, Zeng Chao, Yang Guirong, Pan Minghao, Cai Zhongxiang
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
+  - id: shen-meiyu-2026-2
+    resource: "https://doi.org/10.1186/s12909-026-08961-x"
+    title: "Shen Meiyu, Tan Xiaolin, Xianyu Yunyan, Chen Qiuxiang, Fang Yu, Zeng Chao, Yang Guirong, Pan Minghao, Cai Zhongxiang. (2026). Developing and evaluating an in situ, simulated emergency training course for nurses with low seniority. BMC Medical Education. https://doi.org/10.1186/s12909-026-08961-x"
+    author: Shen Meiyu, Tan Xiaolin, Xianyu Yunyan, Chen Qiuxiang, Fang Yu, Zeng Chao, Yang Guirong, Pan Minghao, Cai Zhongxiang
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# In situ simulated emergency training improves first aid ability in junior nurses
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Shen Meiyu 2026 (2): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
+
+## Subclaims
+`q3 i?` After training, first aid scores were significantly higher in the intervention group than the control group. [→ Shen Meiyu 2026](#shen-meiyu-2026)
+`q3 i?` Within the intervention group, first aid scores increased significantly from before to after training. [→ Shen Meiyu 2026 (2)](#shen-meiyu-2026-2)
+
+## Evidence
+
+### Shen Meiyu 2026
+
+Shen Meiyu, Tan Xiaolin, Xianyu Yunyan, Chen Qiuxiang, Fang Yu, Zeng Chao, Yang Guirong, Pan Minghao, Cai Zhongxiang. (2026). Developing and evaluating an in situ, simulated emergency training course for nurses with low seniority. BMC Medical Education. https://doi.org/10.1186/s12909-026-08961-x
+
+`q3 · i?` · `causal · r2`
+
+In the randomized controlled study of 82 junior nurses, the between-group post-training difference in first aid ability was significant (z = -4.263, p < 0.05), with the intervention group scoring higher than the control group.
+
+> "After training, the scores on the four scales in the intervention group were higher than those in the control group; however, only the scores for CR (z = -2.198) and FA (z = -4.263) differed significantly (p < 0.05)."
+
+### Shen Meiyu 2026 (2)
+
+Shen Meiyu, Tan Xiaolin, Xianyu Yunyan, Chen Qiuxiang, Fang Yu, Zeng Chao, Yang Guirong, Pan Minghao, Cai Zhongxiang. (2026). Developing and evaluating an in situ, simulated emergency training course for nurses with low seniority. BMC Medical Education. https://doi.org/10.1186/s12909-026-08961-x
+
+`q3 · i?` · `causal · r2`
+
+Within the intervention group, Wilcoxon signed-rank tests showed first aid scores rose significantly from pre- to post-training (z = -4.931, p < 0.05), while the control group showed no significant change (z = -1.238, p > 0.05).
+
+> "In the intervention group, after the training, the scores for CT (z= -2.218), CC (z= -2.326), CR (z= -3.593), and FA (z = -4.931) were significantly higher than before training (p < 0.05)."
+
+## Discussion
+
+
+## Related Claims
+- [In situ simulated emergency training improves clinical reasoning in junior nurses](in-situ-set-improves-clinical-reasoning-junior-nurses.md) — related
+- [Significant improvements in confidence, performance, management, communication, anxiety and knowledge scores were reported following ISS, but four controlled comparisons found no significant difference versus control or comparison training](iss-ntos-outcomes-mixed-controlled-comparisons.md) — related
+- [Interventions combining core simulation with in-situ refreshers, visual prompts, and structured micro-debriefs more often reported larger or more durable behavioural improvements.](workflow-reinforcement-durable-behavioural-change.md) — related
+- [In a theory-guided in-situ simulation programme, an interprofessional primary care team progressed through the expansive learning cycle from questioning current practice to consolidating new practices](simlab-expansive-learning-cycle-progression.md) — related

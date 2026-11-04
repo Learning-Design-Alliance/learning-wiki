@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: zhang-yukun-2026
     resource: "https://doi.org/10.1186/s13049-026-01574-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Programmes that combined core simulation with short in-situ refreshers, visual prompts, and structured micro-debriefs more often reported larger or more durable behavioural improvements. [→ Zhang YuKun 2026](#zhang-yukun-2026)
@@ -51,3 +52,4 @@ The review's narrative synthesis of included studies found that system-embedded 
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Effective experiential learning interventions combine enjoyable practical activities with behaviour change techniques, theory, and short intense delivery](effective-experiential-learning-intervention-characteristics.md) — related
 - [In situ simulation improved teamwork behaviours in 12 of 14 domains during the simulation phase, but benefits returned to baseline when the program was discontinued](in-situ-simulation-teamwork-gains-lost-without-continuation.md) — related
+- [In situ simulated emergency training improves first aid ability in junior nurses](in-situ-set-improves-first-aid-junior-nurses.md) — related

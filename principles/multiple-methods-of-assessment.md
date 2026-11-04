@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (27 for, 17 mixed, 2 against) · 52 studies (13 causal, 10 review, 8 theoretical, 7 associational, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q4` · 5 of 52 report an effect size · 40 claims rest on one study
+> **Evidence** · 47 claims (28 for, 17 mixed, 2 against) · 53 studies (14 causal, 10 review, 8 theoretical, 7 associational, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q4` · 5 of 53 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -188,6 +188,7 @@ Agreement between methods, accuracy of a decision, later achievement and motivat
 - [Monroe's silent reading test permits substantial chance success, inflating comprehension scores](../claims/monroe-test-chance-success-defect.md) [+W]
 - [Adding the verbal group test to Stanford MA raises the multiple correlation with achievement from 0.54 to 0.605](../claims/group-test-adds-to-stanford-ma-prediction.md) [~W]
 - [A single reading behaviour with a common proximal cause may have multiple different distal causes](../claims/multiple-distal-causes-one-reading-behaviour.md) [+W]
+- [Brief written rubric-based assessments may have limited sensitivity to detect incremental effects of serious-game add-ons due to potential ceiling effects](../claims/brief-rubric-assessment-limited-sensitivity-ceiling.md) [+W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — multiple methods improve formative interpretation when different evidence streams inform next steps.

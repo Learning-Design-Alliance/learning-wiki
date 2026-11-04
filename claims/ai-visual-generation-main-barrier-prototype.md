@@ -50,3 +50,4 @@ Phase 2 prototype evaluation with three practitioners using SUS and 5-point Like
 - [Practitioners perceived the profile-driven workflow as reducing Social Story preparation burden](adapted-stories-reduces-preparation-burden.md) — related
 - [Students identified weaknesses in the AI feedback model: lack of real-time feedback, software/economic access barriers, and occasional incorrect or inconsistent outputs](genai-feedback-weaknesses-realtime-and-errors.md) — related
 - [Reviewer free-text comments identified synthetic voice, slide–narration reveal timing, and slide layout as the main remaining quality issues](bespoke-free-text-voice-reveal-layout-issues.md) — related
+- [MEES motivation, learning enhancers, and real-world translation domains were highly rated, while barriers and learning discouragers received low scores](mees-domain-scores-pediatric-elearning.md) — related

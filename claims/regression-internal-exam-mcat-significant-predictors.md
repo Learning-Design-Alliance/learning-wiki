@@ -49,3 +49,5 @@ Multiple linear regression on 290 students with NBME score as dependent variable
 - [Internal pharmacology exam scores strongly correlate with NBME Pharmacology Subject Exam scores (r = 0.69)](internal-pharmacology-exam-strong-correlation-nbme.md) — related
 - [MCAT scores moderately correlate with NBME Pharmacology Subject Exam scores (r = 0.45)](mcat-moderate-correlation-nbme-pharmacology.md) — related
 - [The combined regression model explains 54% of variance in NBME Pharmacology scores with low multicollinearity](model-explains-54-percent-variance-low-vif.md) — related
+- [GPA shows a significant positive correlation with oral disease diagnostic performance (p < 0.001) while age shows no significant association](gpa-positive-correlation-diagnostic-performance.md) — related
+- [Step 1 performance strongly predicts shelf exam performance across clerkships](step1-predicts-shelf-exam-performance.md) — related

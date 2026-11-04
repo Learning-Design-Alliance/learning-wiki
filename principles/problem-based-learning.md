@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 145 claims (60 for, 75 mixed, 10 against) · 86 studies (32 quant-synthesis, 22 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 21 of 86 report an effect size · 140 claims rest on one study
+> **Evidence** · 147 claims (61 for, 76 mixed, 10 against) · 87 studies (32 quant-synthesis, 23 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 22 of 87 report an effect size · 142 claims rest on one study
 
 ## Conditional relationship
 
@@ -243,6 +243,8 @@ At the curriculum level, the expectation of a small and variable average should 
 - [Video-assisted PBL enhances academic self-efficacy more than traditional PBL](../claims/video-assisted-pbl-enhances-academic-self-efficacy.md) [~W]
 - [Integrated PBL and medical humanities teaching produced no significant between-group difference in post-intervention theoretical examination scores compared with LBL](../claims/integrated-pbl-humanities-no-difference-theoretical-scores.md) [~W]
 - [Video-assisted PBL yields higher pediatric nursing knowledge than traditional PBL and conventional teaching](../claims/video-assisted-pbl-higher-pediatric-knowledge.md) [~W]
+- [PBL-DeepSeek students achieve higher theoretical examination scores than traditionally taught students in a glaucoma clerkship](../claims/deepseek-pbl-higher-theory-scores-glaucoma.md) [+W]
+- [Students in the PBL-DeepSeek group report high satisfaction and would continue using the approach, but a minority worry about AI accuracy](../claims/deepseek-pbl-satisfaction-and-accuracy-concerns.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.
@@ -259,6 +261,7 @@ At the curriculum level, the expectation of a small and variable average should 
 - **Design challenge**: Learners create and defend a solution to a practical constraint-based problem.
 - **Cross-disciplinary PBL module**: Learners integrate literacy, numeracy, and research skills to address a shared problem.
 - [Structure PBL teaching around the problem-laying, information-search, group-discussion, summary, and effectiveness-evaluation sequence](../strategies/pbl-teaching-process-sequence-strategy.md)
+- [DeepSeek-R1-assisted PBL curriculum for glaucoma clerkship](../designs/deepseek-r1-pbl-glaucoma-curriculum.md)
 
 ## Key Sources
 - Marra, R. M., Jonassen, D. H., Palmer, B., & Luft, S. (2014). Why problem-based learning works: Theoretical foundations. *Journal on Excellence in College Teaching, 25*(3-4), 221-238.

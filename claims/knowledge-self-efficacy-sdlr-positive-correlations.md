@@ -48,3 +48,4 @@ Pearson correlation analysis of the trial data found significant positive correl
 - [SDL readiness among nurses shows no significant correlation with age, gender, academic status, or marital status](sdl-readiness-no-demographic-correlations.md) — related
 - [Academic achievement correlates positively with all five antecedent conditions in the sample](positive-correlations-five-antecedents-achievement.md) — related
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
+- [Emotional intelligence correlates positively with self-directed learning among nursing students (r = 0.63)](ei-sdl-positive-correlation-nursing-students.md) — related

@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 107 claims (32 for, 34 mixed, 41 against) · 96 studies (39 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 2 associational, 2 design), `q1`–`q4` · 17 of 96 report an effect size · 99 claims rest on one study
+> **Evidence** · 110 claims (34 for, 34 mixed, 42 against) · 98 studies (41 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 2 associational, 2 design), `q1`–`q4` · 18 of 98 report an effect size · 102 claims rest on one study
 
 ## Description and scope
 
@@ -229,6 +229,9 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Both flipped learning and traditional teaching significantly improved facial nerve anatomy knowledge within groups, with no statistically significant difference between the groups](../claims/flipped-learning-facial-nerve-no-between-group-difference.md) [+W]
 - [Microscopic image interpretation scores showed a borderline between-group difference favoring the integrated PBL and medical humanities group over LBL](../claims/integrated-pbl-humanities-borderline-microscopic-interpretation.md) [-W]
 - [Integrated PBL and medical humanities teaching produced no significant between-group difference in post-intervention theoretical examination scores compared with LBL](../claims/integrated-pbl-humanities-no-difference-theoretical-scores.md) [+W]
+- [Students taught with integrated Rain Classroom and CBL scored significantly lower on objective questions than students taught with traditional lectures](../claims/rain-classroom-cbl-lower-objective-scores.md) [+W]
+- [Students taught with integrated Rain Classroom and CBL scored significantly higher on subjective questions than students taught with traditional lectures](../claims/rain-classroom-cbl-higher-subjective-scores.md) [-W]
+- [Active learning students report greater autonomous clinical practice at 12 months, including vital signs monitoring (46.7% vs. 3%, r = 0.512) and maximum safe local anesthetic dose calculation (82.6% vs. 44%, r = 0.744)](../claims/active-learning-greater-autonomous-clinical-practice-12-months.md) [+W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

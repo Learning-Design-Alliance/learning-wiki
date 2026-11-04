@@ -46,3 +46,4 @@ R-SPQ-2F deep approach scores measured at week one and after the final exam in t
 
 ## Related Claims
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
+- [MOOC-HFS blended model promotes deep learning approaches without changing surface learning on R-SPQ-2F](mooc-hfs-promotes-deep-learning-approaches.md) — reports the opposite

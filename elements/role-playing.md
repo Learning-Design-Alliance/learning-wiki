@@ -13,7 +13,7 @@ generated:
 # Role-Playing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (11 for, 5 mixed, 2 against) · 14 studies (6 causal, 3 review, 3 qualitative, 1 associational, 1 theoretical), `q1`–`q3` · 3 of 14 report an effect size · 18 claims rest on one study
+> **Evidence** · 19 claims (11 for, 6 mixed, 2 against) · 15 studies (6 causal, 3 review, 3 qualitative, 2 associational, 1 theoretical), `q1`–`q3` · 3 of 15 report an effect size · 19 claims rest on one study
 
 ## Description
 Role-playing is the element in which learners adopt roles and act through a scenario, interaction, or decision process from that perspective. It is useful when learning depends on situational judgment, empathy, communication, or applied decision-making.
@@ -54,6 +54,7 @@ Role-playing is the element in which learners adopt roles and act through a scen
 - [The role-playing game increased students' perceived enjoyment of learning from pretest to posttest](../claims/rpg-increased-perceived-enjoyment-learning.md) [+W] — attached 2026-11-02 from Nitaya Wongpinunwatana (2013), which proposed "IS control and audit role-playing game with case study and video".
 - [The role-playing game increased students' perceived ability to perform actual information systems auditing tasks from pretest to posttest](../claims/rpg-increased-perceived-ability-perform-audit-tasks.md) [+W]
 - [Hybrid simulation with role-playing improves patient identification accuracy and allergy verification among nursing students](../claims/hybrid-simulation-improves-patient-id-and-allergy-verification.md) [+W]
+- [Many dietitians use role-play and case-based activities without identifying them as simulation, reflecting uncertainty about what constitutes SBE](../claims/dietitians-unrecognised-simulation-activities.md) [~W]
 
 ## Related Elements
 - [Decision-Making](decision-making.md)

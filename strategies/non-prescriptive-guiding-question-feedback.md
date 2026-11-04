@@ -44,6 +44,7 @@ The article recommends that instead of offering direct answers or evaluation out
 - [Questioning Techniques](questioning-techniques.md)
 - [Guided Inquiry](guided_inquiry.md)
 - [Combine GAI tools with traditional methods in a hybrid approach to balance efficient collaboration and critical evaluation](hybrid-gai-traditional-dst-approach.md)
+- [Use AI-based assessment periodically for formative feedback while avoiding AI in summative assessment](ai-formative-not-summative-assessment-strategy.md)
 
 ## Examples
 -

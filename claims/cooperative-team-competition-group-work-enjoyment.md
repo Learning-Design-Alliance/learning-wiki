@@ -70,3 +70,4 @@ Authors' interpretation (type e) offered in the results and discussion, contrast
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, with no detectable wear-out effect](kahoot-enjoyment-stable-across-groups-and-time.md) — reports the opposite
 - [Students strongly oppose preassigned teams and value autonomy in review game participation](review-game-team-autonomy.md) — reports the opposite
+- [Students reported preparation effort for the collaborative exam comparable to individual examinations, indicating the team format did not reduce preparation](whisper-exam-preparation-effort-comparable.md) — related

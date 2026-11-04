@@ -48,3 +48,4 @@ Meta-analysis pooling 15 RCTs (1086 CBL vs 1086 lecture students) using Hedges' 
 - [PBL is associated with significantly higher total medical psychology examination scores than traditional lecture-based teaching in China (Hedges' g = 1.510)](pbl-higher-medical-psychology-scores-china.md) — related
 - [Emerging teaching methods (PBL, CBL, FC) significantly improve dental students' exam scores compared to lecture-based learning](emerging-methods-improve-dental-exam-scores.md) — a broader claim this one bears on
 - [CBL improved exam scores in both basic theory and applied psychology course subgroups, but course type did not explain the heterogeneity](cbl-subgroup-course-types-heterogeneity.md) — a narrower finding that bears on this claim
+- [Total exam scores did not differ significantly between students taught with integrated Rain Classroom/CBL and traditional lectures](rain-classroom-cbl-no-total-score-difference.md) — a narrower finding that bears on this claim

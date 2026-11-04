@@ -74,3 +74,4 @@ Psychometric analysis of the study's 12-item, 5-point Likert reflection instrume
 - [The 13-item attitude questionnaire demonstrated good internal consistency (Cronbach's α = 0.873) but was not formally validated as a psychometric instrument](rat-questionnaire-internal-consistency-alpha-0873.md) — related
 - [The HSPNCS demonstrates excellent internal consistency (Cronbach's alpha 0.967)](hspncs-high-internal-consistency.md) — related
 - [The scale demonstrates strong reliability and validity evidence including internal consistency, composite reliability, and average variance extracted](reliability-validity-evidence-generative-ai-teacher-scale.md) — related
+- [The seven-item AR usability questionnaire showed high internal consistency (α = 0.97) that may reflect item redundancy](ar-usability-questionnaire-high-alpha-redundancy.md) — related

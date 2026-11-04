@@ -66,3 +66,4 @@ The review reports, citing Smith, Ghazizadeh and Shadmehr (2006), evidence from 
 - [Later sequence position slows general learning rate in the face view discrimination task](sequence-position-slows-face-learning-rate.md) — related
 - [Authoring tool usability trades off against the depth and flexibility of the ITSs that can be built](authoring-tool-usability-power-tradeoff.md) — related
 - [A slow rate of development in an instructional film is more helpful to learning than a fast rate](slow-film-rate-of-development-aids-learning.md) — related
+- [Across the preclinical-to-clinical transition students become faster while cleaning quality declines — a speed–accuracy trade-off independent of training schedule](speed-accuracy-tradeoff-clinical-transition.md) — a narrower finding that bears on this claim

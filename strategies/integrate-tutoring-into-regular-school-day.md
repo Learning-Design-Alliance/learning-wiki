@@ -44,6 +44,7 @@ This recommendation advises districts to embed tutoring within the regular schoo
 - [Exercise flexibility in timing, frequency, and tutor choice when implementing a highly structured tutoring program, and consider preservice teachers as tutors](flexible-implementation-structured-tutoring-preservice-tutors.md)
 - [Embed integration elements in the robot's persona and background so multicultural inclusion is addressed within regular activities](embed-integration-elements-robot-persona.md)
 - [Schedule the supplemental active session as part of the normal class week rather than out of class](in-class-supplemental-day-strategy.md)
+- [Integrate peer-to-peer Puzzle activities into the regular academic schedule to maximize participation](integrate-puzzle-regular-academic-schedule.md)
 
 ## Examples
 -

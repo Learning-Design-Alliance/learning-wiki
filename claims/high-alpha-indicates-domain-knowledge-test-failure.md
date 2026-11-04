@@ -68,3 +68,4 @@ Analytical argument in the article's section on inadequate selection criteria. F
 - [The self-assessment questionnaire measuring cognition, skill, and attitude showed good validity and reliability in this sample](self-assessment-questionnaire-csa-validity-reliability.md) — related
 - [The level determination exam (DBS) used to check prior knowledge showed high internal consistency (0.822)](dbs-level-determination-exam-reliability.md) — related
 - [The seven holistic leadership factors demonstrated high internal consistency across pre- and post-test administrations.](holistic-leadership-factors-high-reliability.md) — related
+- [The seven-item AR usability questionnaire showed high internal consistency (α = 0.97) that may reflect item redundancy](ar-usability-questionnaire-high-alpha-redundancy.md) — a narrower finding that bears on this claim

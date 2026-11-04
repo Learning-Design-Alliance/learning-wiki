@@ -56,3 +56,4 @@ Social validity data collected at posttest from intervention teachers using a si
 - [Teachers using We Have Skills! show greater improvement in self-efficacy than control teachers](whs-teacher-self-efficacy-improvement.md) — related
 - [Students in high and highest rated AVID schools are overwhelmingly positive about the program's impact on them](avid-high-schools-students-overwhelmingly-positive.md) — related
 - [All participants were satisfied with VR training, and most preferred combined instructor-led plus VR instruction and did not believe VR could replace instructor-led explanation](post-training-perceptions-combined-instruction-preferred.md) — related
+- [Participants were highly satisfied with the workshop and all would recommend it to colleagues](bronchoscopy-workshop-high-satisfaction.md) — related

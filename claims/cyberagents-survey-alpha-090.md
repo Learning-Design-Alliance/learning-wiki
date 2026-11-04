@@ -82,3 +82,4 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [The 13-item attitude questionnaire demonstrated good internal consistency (Cronbach's α = 0.873) but was not formally validated as a psychometric instrument](rat-questionnaire-internal-consistency-alpha-0873.md) — related
 - [The DKSCQ-N demonstrates high internal consistency (Cronbach's α = 0.906) and excellent test-retest stability (ICC = 0.829) over two weeks.](dkscqn-reliability-alpha-icc.md) — related
 - [The HSPNCS demonstrates excellent internal consistency (Cronbach's alpha 0.967)](hspncs-high-internal-consistency.md) — related
+- [The seven-item AR usability questionnaire showed high internal consistency (α = 0.97) that may reflect item redundancy](ar-usability-questionnaire-high-alpha-redundancy.md) — related

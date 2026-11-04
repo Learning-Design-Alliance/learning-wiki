@@ -49,6 +49,7 @@ The article recommends two implementable practices to counter students' passive,
 - [Embed metacognitive scaffolds in GenAI search systems — prompting sub-question formulation, guiding output comparison, and encouraging reflection on AI-user knowledge discrepancies](genai-metacognitive-scaffolds-for-laziness.md)
 - [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
 - [Pair agent-based tools with instructor-provided cognitive scaffolding to bridge the gap between efficient retrieval and higher-order cognition](scaffold-agents-toward-higher-order.md)
+- [Run a preclass 30-minute AI literacy training covering query formulation and critical evaluation of AI output](preclass-ai-literacy-training-deepseek-pbl.md)
 
 ## Examples
 -

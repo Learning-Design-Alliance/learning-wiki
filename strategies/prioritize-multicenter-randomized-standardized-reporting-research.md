@@ -52,6 +52,7 @@ The review identifies key methodological gaps in the current evidence base and s
 - [Prioritize operational-setting protocols, longitudinal expertise tracking, team dynamics, and real-time monitoring as next steps for educational neuroimaging](neuroimaging-future-research-directions-hpe.md)
 - [Evaluate mental practice with longitudinal mixed-method designs in real clinical teams, and embed MP in organisational routines such as pre-surgical briefings](longitudinal-mixed-method-mp-evaluation.md)
 - [Adopt better methodologies and validated tools for identifying long-term EBP competency retention and for measuring attitude change](better-methods-for-retention-and-attitude-measurement.md)
+- [Design future AR simulation studies with objective performance measures, controlled comparative designs and validated usability instruments](ar-simulation-future-study-design-recommendations.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ The review reports, citing Gardner and Giordano (2023), that preparing for oral 
 - [Moving oral assessments online reduced required support staff hours from almost 8 days to 3 days](online-oral-assessments-reduced-staff-hours.md)
 - [Traditional rote-memorization exams became infeasible during online teaching, and teachers moved toward practices resembling authentic assessment](rote-exams-infeasible-authentic-assessment-shift.md) — related
 - [Control group students relied on memorizing algebraic formulas and could not connect graphs with algebraic expressions, while GeoGebra students built those connections and interpreted graphs better](control-memorization-versus-geogebra-graph-algebra-links.md) — related
+- [The integrated Rain Classroom/CBL approach shifted learning emphasis toward deeper conceptual understanding potentially at the expense of rote memorization](rain-classroom-cbl-shifted-learning-emphasis.md) — a narrower finding that bears on this claim

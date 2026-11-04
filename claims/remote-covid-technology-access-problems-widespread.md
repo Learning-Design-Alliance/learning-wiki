@@ -155,3 +155,5 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 - [Mobile access to the Voice Thread application resolved participants' initial difficulties uploading voice entries](mobile-app-resolved-vt-upload-difficulties.md) — related
 - [Technology in digital tutoring was reliable and accessible but rarely used for higher-order thinking](digital-tutoring-reliable-but-low-higher-order-use.md) — related
 - [Non-users of VM blamed lack of hardware devices, internet access, technical knowledge, and insufficient promotion by instructional personnel](vm-nonusers-obstacles-devices-promotion.md) — related
+- [Key weaknesses were device compatibility, limited personalization, and lack of a navigation aid, each reported by roughly a third of users](elearning-weaknesses-device-navigation-personalization.md) — related
+- [Access to technology and hardware was not seen as a barrier to SBE readiness, with adequate access reported (mean 3.21)](technology-access-not-a-barrier-to-sbe-readiness.md) — related

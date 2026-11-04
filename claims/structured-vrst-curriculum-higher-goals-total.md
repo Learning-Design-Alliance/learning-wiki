@@ -54,3 +54,4 @@ Prospective comparative study of 71 novice trainees (19 intervention, 52 control
 - [Baseline characteristics and prior laparoscopic experience did not differ significantly between the structured VRST and control groups](no-baseline-differences-vrst-groups.md) — related
 - [No significant differences found between virtual reality training and simulation training in GOALS scores or time to completion](vrt-versus-st-no-significant-difference.md) — related
 - [Trainees show significant post-training improvements in self-assessed laparoscopic skills including hand–eye coordination, bimanual dexterity, energy device use and suturing](post-training-self-assessed-laparoscopic-skill-improvements.md) — related
+- [Depth perception is the GEARS subdomain that significantly improves with simulator training, while bimanual dexterity and efficiency show non-significant positive trends](depth-perception-significant-gains-simulator-training.md) — related

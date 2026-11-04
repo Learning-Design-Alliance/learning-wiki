@@ -72,3 +72,4 @@ Wilcoxon Signed-Ranks test within the control group in the same quasi-experiment
 - [No significant post-test difference between groups on science process skills despite significant within-group gains in both groups](gems-no-between-group-science-process-difference.md) — related
 - [Experimental group gained memorization skill over time while control group did not](experimental-group-gained-memorization-skill-over-time.md) — related
 - [The experimental group's text production improved significantly from pre-test to post-test](experimental-group-pre-post-gain-significant.md) — related
+- [Both groups improved significantly from pre- to post-test, with a larger within-group gain in the flipped classroom group (d = 1.87 vs. d = 0.86)](within-group-gains-larger-flipped-group.md) — related

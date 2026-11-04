@@ -61,3 +61,4 @@ Meta-analysis of nine RCTs involving 1,127 pharmacy students (514 CBL, 613 LBL) 
 - [CBL significantly increases knowledge scores compared with LBL in Chinese dental education (SMD=1.58)](cbl-increases-knowledge-scores-chinese-dental.md) — related
 - [TBL pedagogy yields higher objective theoretical test scores than traditional LBL in Chinese pharmacy education](tbl-higher-theoretical-test-scores-than-lbl-chinese-pharmacy.md) — related
 - [Both PBL-CBL and traditional teaching groups improve theoretical and skills scores after the course](both-groups-improve-scores-after-course.md) — related
+- [Web-based Orthotrainer training produced diagnostic performance equivalent to analogue case analysis training across training sessions and the final module exam](orthotrainer-equivalent-diagnostic-performance.md) — related

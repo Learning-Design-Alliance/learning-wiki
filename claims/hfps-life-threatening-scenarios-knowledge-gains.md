@@ -49,3 +49,4 @@ Meta-analysis of 33 studies (44 comparisons, n=3042 nursing students) using a ra
 - [HFPS based on life-threatening clinical scenarios produces significantly larger performance gains than other teaching methods in nursing students (d=0.50)](hfps-life-threatening-scenarios-performance-gains.md)
 - [Scenario, manikin brand and control intervention explain heterogeneity only for self-efficacy, not for the other HFPS learning outcomes](hfps-heterogeneity-moderators-self-efficacy-only.md) — related
 - [Pooled satisfaction and self-confidence effects are sensitive to individual studies, while knowledge, performance and self-efficacy effects are robust in leave-one-out analysis](hfps-leave-one-out-sensitivity-pattern.md) — related
+- [Low diagnostic accuracy was observed for systemic or life-threatening oral conditions such as pemphigus and squamous cell carcinoma](low-accuracy-systemic-life-threatening-oral-conditions.md) — related

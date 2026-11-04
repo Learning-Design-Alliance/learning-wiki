@@ -47,6 +47,7 @@ The article recommends enabling leadership that can navigate and negotiate exist
 
 - [Creating Space for New Ideas](creating_space_for_new_ideas.md)
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
+- [Develop a centralised, strategically governed SBE framework with embedded leadership and faculty development](centralised-strategically-governed-sbe-framework.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Thematic synthesis of 108 quotes under social design found that "Some felt isola
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
 - [Cooperative learning benefits both low- and high-proficiency EFL students in the Chinese context](cooperative-writing-benefits-all-proficiency-levels.md) — related
+- [Students reported moderate to high digital readiness while valuing face-to-face instructor contact](students-moderately-highly-digitally-ready.md) — related

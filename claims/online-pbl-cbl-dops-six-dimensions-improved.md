@@ -68,3 +68,4 @@ Results section reporting non-significant DOPS findings. The Discussion attribut
 - [Integrated online-PBL-CBL teaching improves overall Mini-CEX clinical competence but not its individual sub-dimensions](online-pbl-cbl-minicex-overall-competence-gain.md) — related
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — related
+- [Non-linear PBL grades comparable to essays and oral presentations but lower than online quizzes](non-linear-pbl-grades-comparable-to-essays-and-oral-presentations.md) — related

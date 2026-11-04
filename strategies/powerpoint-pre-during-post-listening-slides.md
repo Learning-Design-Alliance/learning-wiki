@@ -46,7 +46,8 @@ The article's treatment used PowerPoint slides at all three stages of a listenin
 - [Audio-visual listening tasks produce higher oral accuracy than audio-only listening tasks for intermediate Iranian EFL learners](../claims/av-listening-tasks-higher-oral-accuracy-than-audio-only.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Use ASD-friendly visual and interactive methods when delivering oral health education to autistic children](asd-friendly-visual-interactive-education-methods.md)
 
 ## Examples
 -

@@ -59,3 +59,4 @@ The review reports this synthesis of educational research on Stable Dispositions
 - [Dispositions such as positivity, lifelong learning orientation, and persistence are reported as essential for ID/ET practice](dispositions-essential-for-id-et-practice.md) — related
 - [Grit and enjoyment are key positive-psychology predictors of language learning success](grit-and-enjoyment-predict-language-success.md) — related
 - [Academic achievement correlates positively with all five antecedent conditions in the sample](positive-correlations-five-antecedents-achievement.md) — a narrower finding that bears on this claim
+- [Conscientiousness is positively associated with interest/enjoyment, effort/importance, and perceived competence in hybrid flipped learning](conscientiousness-positive-motivation-hybrid-flipped.md) — a narrower finding that bears on this claim

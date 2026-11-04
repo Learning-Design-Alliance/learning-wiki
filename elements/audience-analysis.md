@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 47 claims (26 for, 20 mixed, 1 against) · 55 studies (17 causal, 16 associational, 10 review, 5 theoretical, 3 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 5 of 55 report an effect size · 42 claims rest on one study
+> **Evidence** · 48 claims (26 for, 21 mixed, 1 against) · 56 studies (17 causal, 17 associational, 10 review, 5 theoretical, 3 quant-synthesis, 2 qualitative, 2 design), `q1`–`q4` · 5 of 56 report an effect size · 43 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
@@ -96,6 +96,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [Demographic characteristics (age, gender, education, institution type, tenure) show no statistically significant difference in new nurse managers' competence scores](../claims/demographics-no-competence-difference-nurse-managers.md) [~W]
 - [Baseline DMP recognition before gAI varies by expertise, with junior trainees scoring significantly lower than trainers in both anatomical areas](../claims/baseline-dmp-recognition-expertise-differences.md) [~W]
 - [Cluster analysis identified two student phenotypes differing in satisfaction, modality, gender and age](../claims/two-student-phenotypes-pbl-satisfaction.md) [~W]
+- [Registered nurses show moderate sepsis knowledge with major gaps in early clinical sign recognition and septic shock management](../claims/nurse-sepsis-knowledge-gaps-eastern-china.md) [~W]
 
 ## The evidence by question
 

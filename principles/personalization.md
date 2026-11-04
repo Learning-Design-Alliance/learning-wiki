@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 114 claims (62 for, 42 mixed, 10 against) · 114 studies (33 review, 28 causal, 13 theoretical, 11 associational, 11 qualitative, 9 quant-synthesis, 9 design), `q1`–`q4` · 9 of 114 report an effect size · 109 claims rest on one study
+> **Evidence** · 115 claims (63 for, 42 mixed, 10 against) · 115 studies (34 review, 28 causal, 13 theoretical, 11 associational, 11 qualitative, 9 quant-synthesis, 9 design), `q1`–`q4` · 9 of 115 report an effect size · 110 claims rest on one study
 
 ## Conditional relationship
 
@@ -224,6 +224,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Teacher-participants differed considerably in their preferred lesson structure, with one teacher conceptualising structure as best fit for a given student rather than best practice](../claims/teacher-preferences-differ-lesson-structure.md) [+W]
 - [Learning-styles-based adaptive tutoring did not increase academic achievement relative to conventional computer-based tutoring in EFL](../claims/learning-styles-tutoring-no-achievement-gain-efl.md) [-W]
 - [Over a third of learning-outcome studies show a mismatch between task difficulty and learner proficiency](../claims/over-third-studies-task-proficiency-mismatch.md) [+W]
+- [Feedback orientation is a multidimensional quasi-trait stable for approximately six months, useful for tailoring feedback](../claims/feedback-orientation-quasi-trait-tailoring.md) [+W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

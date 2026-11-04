@@ -71,3 +71,4 @@ Survey correlational analysis by classroom SES showing a significant association
 - [Students showed lower math growth in fall 2020 across grades 3-8 relative to peers in the previous, more typical year](fall-2020-lower-math-growth-grades-3-8.md) — related
 - [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
 - [BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6](bipoc-math-achievement-drop-fall-2020.md) — related
+- [Positive lifestyle changes during the pandemic predicted lower post-crisis academic achievement](positive-lifestyle-changes-lower-achievement.md) — related

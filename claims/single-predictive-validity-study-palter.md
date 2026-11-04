@@ -52,3 +52,4 @@ The review reports this as the only included study of predictive validity (Palte
 - [XR simulator training of residents improved live-patient surgical outcomes compared to residents not trained with XR](xr-training-transfers-to-live-patient-outcomes.md) — a broader claim this one bears on
 - [Simulation-based training contributes to patient safety in laparoscopic surgery](simulation-training-contributes-to-patient-safety.md) — related
 - [VR training simulators develop perceptual-motor skills for machinery operation, but real-world skill transfer remains difficult to assess](vr-simulators-perceptual-motor-skills-transfer-challenge.md) — a broader claim this one bears on
+- [Transfer of VR training gains to real clinical practice remains unconfirmed](vr-training-transfer-unconfirmed.md) — reports the opposite

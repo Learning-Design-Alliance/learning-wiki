@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 129 claims (78 for, 49 mixed, 2 against) · 117 studies (37 causal, 29 review, 14 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 15 of 117 report an effect size · 115 claims rest on one study
+> **Evidence** · 131 claims (79 for, 50 mixed, 2 against) · 119 studies (37 causal, 30 review, 15 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 16 of 119 report an effect size · 117 claims rest on one study
 
 ## Conditional relationship
 
@@ -214,6 +214,7 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [At large peer-teacher relatedness discrepancies, high teacher relatedness compensates for absent peer relatedness to support engagement, whereas low teacher relatedness accompanies low engagement (Study 1)](../claims/teacher-specific-compensation-engagement.md) [+W] — attached 2026-11-03 from Núñez-Regueiro et al. (2024), which proposed "Design interventions and theories around peer and teacher relatedness as interdependent, rather than independent, factors of adolescent development".
 - [Personalized motivational prompts improve total mean scores on a low-stakes standardized test](../claims/personalized-motivational-prompts-improve-low-stakes-test-performance.md) [+W] — attached 2026-11-03 from Hawthorne et al. (2015), which proposed "Use personalized motivational prompts as a practical, low-cost strategy to enhance performance on low-stakes tests".
 - [Students most enjoyed oral-language-based reading activities — teacher read aloud, reading plays, short stories, silent reading, and student read aloud — each enjoyed by roughly 50% of students.](../claims/oral-language-activities-most-enjoyed.md) [+W] — attached 2026-11-03 from Varuzza et al. (2014), which proposed "Successful teachers motivate young adolescents through classroom interaction, challenging literacy activities, and discussion about what was read.".
+- [Socio‐emotional differentiation aligns more closely with academic achievement than with socioeconomic position across the full distribution of profiles](../claims/socio-emotional-differentiation-aligns-with-achievement-not-ses.md) [+W] — attached 2026-11-04 from Rémeau Margot et al. (2026), which proposed "Motivational vulnerabilities should be identified and supported across the full socioeconomic spectrum, moving beyond SES as a sole marker of risk".
 
 ## Objective and learner-valued goal
 
@@ -263,6 +264,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Teaching mathematics in English using CLIL improved pupils' motivation and reduced fear of the subject.](../claims/clil-maths-motivation-fear-reduction.md) [+W]
 - [Both convergent and divergent task instruction increased learners' motivation over the treatment period](../claims/both-task-types-increase-motivation.md) [~W]
 - [Radiology-specialized trainees report substantially higher perceived utility value of the simulation than laboratory-specialized trainees](../claims/radiology-trainees-report-higher-utility-value.md) [~W]
+- [Motivational and behavioural feedback interventions show small-to-medium effects, cautioning generic porting of strategies](../claims/motivational-feedback-small-medium-effects.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 116 claims (49 for, 63 mixed, 4 against) · 92 studies (59 causal, 12 review, 10 quant-synthesis, 4 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 21 of 92 report an effect size · 107 claims rest on one study
+> **Evidence** · 117 claims (50 for, 63 mixed, 4 against) · 93 studies (60 causal, 12 review, 10 quant-synthesis, 4 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 22 of 93 report an effect size · 108 claims rest on one study
 
 ## Description and scope
 
@@ -181,6 +181,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Learners value classroom listening practice and prefer video or equal weighting over audio-only materials](../claims/learners-prefer-video-over-audio-materials.md) [~W]
 - [Animation-with-text CAI did not significantly outperform lecture method on solid geometry achievement](../claims/at-cai-not-significant-vs-lecture.md) [~W]
 - [EFL learners perceive captioned instructional videos as helpful for vocabulary acquisition but not as a distraction to comprehension.](../claims/captions-perceived-as-vocabulary-aid-not-distraction.md) [+W]
+- [Images significantly improve both performance and EOL judgments among non-native language speakers](../claims/images-benefit-non-native-speakers-performance-eol.md) [+W]
 
 ## Examples
 

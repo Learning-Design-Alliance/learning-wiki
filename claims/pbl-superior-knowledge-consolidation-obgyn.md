@@ -50,3 +50,4 @@ Descriptive synthesis of 24 included studies in a systematic review registered o
 - [Systematic review finds PBL contributes to clinical skill development in OB/GYN education](pbl-clinical-skills-development-obgyn.md) — related
 - [Systematic review finds positive student satisfaction with PBL in OB/GYN education](pbl-positive-student-satisfaction-obgyn.md) — related
 - [PBL structured steps develop teamwork and communication skills in OB/GYN students](pbl-teamwork-communication-skills-obgyn.md) — related
+- [Students report high satisfaction and perceived applicability of the Puzzle activity for learning consolidation](puzzle-high-satisfaction-perceived-applicability.md) — related

@@ -70,3 +70,4 @@ Case illustration from the second spell: Karthik, whose first-spell presentation
 - [Students reported feeling more comfortable giving technical seminars before peers than before teachers](students-more-comfortable-presenting-to-peers.md) — related
 - [Unstructured peer observation without guidance produces vague, negative feedback that is unhelpful to presenters](unstructured-peer-feedback-vague-negative.md) — related
 - [Qualitative evaluation identified per-format conditions: rubrics improved feedback transparency, summative peer assessment was judged infeasible, and video was seen as complementary to live observation](qualitative-conditions-rubrics-peer-assessment-video.md) — related
+- [Dual formative feedback operates bidirectionally at provider and organizational levels](ohl-mini-cex-dual-feedback.md) — related

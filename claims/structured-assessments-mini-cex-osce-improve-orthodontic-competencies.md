@@ -56,3 +56,5 @@ The review reports that structured assessments "provide structured feedback that
 - [Simulation-based training enhances short-term diagnostic accuracy, treatment planning, and practical skills in orthodontic education](simulation-short-term-clinical-skills-orthodontics.md) — related
 - [Feedback usefulness from multisource feedback is enhanced by increasing its specificity, and specific, patient-sourced feedback on communication skills is most consistently used](msf-feedback-specificity-enhances-usefulness.md) — related
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — a narrower finding that bears on this claim
+- [Classic Mini-CEX systematically overlooks OHL communication practices in pediatric pneumonia education](mini-cex-blind-spot-ohl-communication.md) — related
+- [Dual formative feedback operates bidirectionally at provider and organizational levels](ohl-mini-cex-dual-feedback.md) — related

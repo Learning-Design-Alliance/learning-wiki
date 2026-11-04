@@ -49,3 +49,4 @@ The review concludes that more longitudinal studies are needed to see if the eff
 - [Longitudinal studies of trust and reliance in AI advice examine whether users rely appropriately over time but not whether independent reasoning capacity is maintained](longitudinal-trust-studies-omit-skill-outcomes.md) — related
 - [There is a need for a standardised, validated wellbeing instrument suitable for longitudinal use to evaluate primary-secondary transitions interventions](standardised-wellbeing-instrument-need.md) — related
 - [Nurse-led educational interventions may enhance nursing knowledge and decrease skin tear incidence.](nurse-led-education-improves-knowledge-and-reduces-skin-tear-incidence.md) — related
+- [Bronchoscopy manipulation skills may decay over time, necessitating periodic practice to maintain proficiency](bronchoscopy-skill-decay-periodic-practice.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Post hoc internal consistency computation on nine attitudinal preference items f
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
 - [The self-assessment questionnaire measuring cognition, skill, and attitude showed good validity and reliability in this sample](self-assessment-questionnaire-csa-validity-reliability.md) — related
 - [Remote Anatomage Teaching via a smart digital podium is technically feasible for large-group anatomy lectures without interruption](rat-technically-feasible-large-group-lectures.md) — related
+- [The seven-item AR usability questionnaire showed high internal consistency (α = 0.97) that may reflect item redundancy](ar-usability-questionnaire-high-alpha-redundancy.md) — related
