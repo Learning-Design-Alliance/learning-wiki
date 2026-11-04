@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: xue-gang-2026
     resource: "https://doi.org/10.1186/s12909-026-09558-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The experimental group showed higher overall teaching effectiveness scores (mean difference 5.00, 95% CI 4.35 to 5.65, P < 0.01) and total teaching satisfaction scores (mean difference 16.72, 95% CI 12.35 to 21.09, P < 0.05). [→ Xue Gang 2026](#xue-gang-2026)

@@ -37,7 +37,7 @@ Collaborative decision-making is the element in which learners evaluate options 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Collecting with Myartspace prompted collaborative and competitive negotiation among students about what to collect](../claims/collecting-prompts-negotiation-and-competition.md) [+W]
-- [Students reported consensus-based decision-making and mutual benefit from both partner's and their own contributions during the team examination](../claims/whisper-exam-consensus-and-mutual-contribution.md) [+W]
+- [Students reported consensus-based decision-making, benefit from their partner's knowledge, and that their own contributions were essential during the team examination](../claims/whisper-exam-consensus-and-mutual-contribution.md) [+W]
 
 ## Related Elements
 - [Decision-Making](decision-making.md)

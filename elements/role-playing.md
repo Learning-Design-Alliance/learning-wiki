@@ -54,7 +54,7 @@ Role-playing is the element in which learners adopt roles and act through a scen
 - [The role-playing game increased students' perceived enjoyment of learning from pretest to posttest](../claims/rpg-increased-perceived-enjoyment-learning.md) [+W] — attached 2026-11-02 from Nitaya Wongpinunwatana (2013), which proposed "IS control and audit role-playing game with case study and video".
 - [The role-playing game increased students' perceived ability to perform actual information systems auditing tasks from pretest to posttest](../claims/rpg-increased-perceived-ability-perform-audit-tasks.md) [+W]
 - [Hybrid simulation with role-playing improves patient identification accuracy and allergy verification among nursing students](../claims/hybrid-simulation-improves-patient-id-and-allergy-verification.md) [+W]
-- [Many dietitians use role-play and case-based activities without identifying them as simulation, reflecting uncertainty about what constitutes SBE](../claims/dietitians-unrecognised-simulation-activities.md) [~W]
+- [Many of 15 interviewed Irish dietitians had used role-play and scenario-based activities without recognising them as simulation, associating SBE with high-fidelity approaches](../claims/dietitians-unrecognised-simulation-activities.md) [~W]
 
 ## Related Elements
 - [Decision-Making](decision-making.md)

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: chang-chia-chen-2026
     resource: "https://doi.org/10.1038/s41598-026-48620-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The LMM group × time interaction for teaching efficacy was significant (β = 4.39, 95% CI 3.06–5.71, p < 0.001), indicating the SBL group improved more than the OCL group. [→ Chang Chia-Chen 2026](#chang-chia-chen-2026)

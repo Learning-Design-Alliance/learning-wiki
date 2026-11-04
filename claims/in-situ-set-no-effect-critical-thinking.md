@@ -46,5 +46,5 @@ In the randomized controlled study of 82 junior nurses, the between-group post-t
 
 ## Related Claims
 - [In situ simulated emergency training does not significantly improve clinical communication in junior nurses](in-situ-set-no-effect-clinical-communication.md) — related
-- [In situ simulated emergency training improves clinical reasoning in junior nurses](in-situ-set-improves-clinical-reasoning-junior-nurses.md) — related
+- [In situ simulated emergency training added to routine training raises self-rated clinical reasoning in junior nurses](in-situ-set-improves-clinical-reasoning-junior-nurses.md) — related
 - [Significant improvements in confidence, performance, management, communication, anxiety and knowledge scores were reported following ISS, but four controlled comparisons found no significant difference versus control or comparison training](iss-ntos-outcomes-mixed-controlled-comparisons.md) — related

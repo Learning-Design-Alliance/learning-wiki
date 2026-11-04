@@ -50,4 +50,4 @@ Same single-group pretest/posttest study (n = 60); preceptors rated decision-mak
 - [Simulation-based curriculum with deliberate practice improved cognitive knowledge and cardiovascular assessment skills from pre-test to post-test (Jeffries et al. study)](deliberate-practice-harvey-simulation-skills.md) — related
 - [Very high majorities of students rated high-fidelity simulation as enhancing learning, clinical reasoning, decision-making, and value](coffey-hfs-student-ratings.md) — related
 - [Simulation training increased nursing students' confidence in cardiopulmonary physical examination skills more than traditional training (Tawalbeh et al. study)](simulation-confidence-cardiopulmonary-tawalbeh.md) — related
-- [In situ simulated emergency training improves clinical reasoning in junior nurses](in-situ-set-improves-clinical-reasoning-junior-nurses.md) — related
+- [In situ simulated emergency training added to routine training raises self-rated clinical reasoning in junior nurses](in-situ-set-improves-clinical-reasoning-junior-nurses.md) — related

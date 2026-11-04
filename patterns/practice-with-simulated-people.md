@@ -243,7 +243,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [CHW trainees value structured preparation, pre-briefing, and immediate SP feedback in simulation-based MI training](../claims/chws-value-structure-preparation-and-feedback-in-mi-simulation-training.md) [+W]
 - [Clinical knowledge scores improved significantly (mean increase 6.7 points, Cohen's d = 0.76) after the VP training program](../claims/vp-training-improves-clinical-knowledge.md) [+W]
 - [Dietitians view SBE as a supportive tool that builds confidence but not a replacement for real patient contact](../claims/sbe-supportive-not-replacement-view.md) [~W]
-- [Many dietitians use role-play and case-based activities without identifying them as simulation, reflecting uncertainty about what constitutes SBE](../claims/dietitians-unrecognised-simulation-activities.md) [~W]
+- [Many of 15 interviewed Irish dietitians had used role-play and scenario-based activities without recognising them as simulation, associating SBE with high-fidelity approaches](../claims/dietitians-unrecognised-simulation-activities.md) [~W]
 
 ## Examples
 

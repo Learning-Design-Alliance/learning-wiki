@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: chen-j-2026
     resource: "https://doi.org/10.1097/MD.0000000000049908"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Adherence to the intervention was generally high: mean micro-video completion rate was 96.7%, online quiz participation rate was 100%, and mean face-to-face seminar attendance was 93.3%. [→ Chen J 2026](#chen-j-2026)

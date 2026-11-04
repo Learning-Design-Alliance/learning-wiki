@@ -21898,6 +21898,7 @@
 "newest_evidence":"2026",
 "path":"claims/ai-tends-generous-scores-underemphasises-mechanistic-reasoning.md",
 "recheck_by":"2029",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"The AI tended to award slightly generous scores and occasionally under-emphasised mechanistic reasoning",
 "type":"claim"
@@ -60866,6 +60867,7 @@
 "id":"chained-sdl-then-am-indirect-effect",
 "newest_evidence":"2026",
 "path":"claims/chained-sdl-then-am-indirect-effect.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"A chained indirect effect through self-directed learning ability then autonomous motivation significantly transmits the flipped classroom effect on physical activity.",
 "type":"claim"
@@ -66902,6 +66904,7 @@
 "id":"chws-value-sp-feedback-and-debriefing-in-mi-simulation-training",
 "newest_evidence":"2026",
 "path":"claims/chws-value-sp-feedback-and-debriefing-in-mi-simulation-training.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"CHW trainees value real-time SP feedback and debriefing for refining MI techniques and deepening learning",
 "type":"claim"
@@ -66912,6 +66915,7 @@
 "id":"chws-value-structure-preparation-and-feedback-in-mi-simulation-training",
 "newest_evidence":"2026",
 "path":"claims/chws-value-structure-preparation-and-feedback-in-mi-simulation-training.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"CHW trainees value structured preparation, pre-briefing, and immediate SP feedback in simulation-based MI training",
 "type":"claim"
@@ -106904,6 +106908,7 @@
 "id":"deepseek-pbl-higher-theory-scores-glaucoma",
 "newest_evidence":"2026",
 "path":"claims/deepseek-pbl-higher-theory-scores-glaucoma.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"PBL-DeepSeek students achieve higher theoretical examination scores than traditionally taught students in a glaucoma clerkship",
 "type":"claim"
@@ -106924,6 +106929,7 @@
 "id":"deepseek-pbl-satisfaction-and-accuracy-concerns",
 "newest_evidence":"2026",
 "path":"claims/deepseek-pbl-satisfaction-and-accuracy-concerns.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Students in the PBL-DeepSeek group report high satisfaction and would continue using the approach, but a minority worry about AI accuracy",
 "type":"claim"
@@ -108228,6 +108234,7 @@
 "id":"delphi-emergency-residency-indicator-system-5-14-34",
 "newest_evidence":"2026",
 "path":"claims/delphi-emergency-residency-indicator-system-5-14-34.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"A two-round modified Delphi process with 19 emergency experts produced a three-tier core competency indicator system of 5 first-level, 14 second-level and 34 third-level indicators for emergency residency training in China",
 "type":"claim"
@@ -112648,14 +112655,15 @@
 "type":"claim"
 },
 {
-"description":"Many dietitians use role-play and case-based activities without identifying them as simulation, reflecting uncertainty about what constitutes SBE",
+"description":"Many of 15 interviewed Irish dietitians had used role-play and scenario-based activities without recognising them as simulation, associating SBE with high-fidelity approaches",
 "evidence_strength":"moderate",
 "id":"dietitians-unrecognised-simulation-activities",
 "newest_evidence":"2026",
 "path":"claims/dietitians-unrecognised-simulation-activities.md",
 "recheck_by":"2031",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"Many dietitians use role-play and case-based activities without identifying them as simulation, reflecting uncertainty about what constitutes SBE",
+"title":"Many of 15 interviewed Irish dietitians had used role-play and scenario-based activities without recognising them as simulation, associating SBE with high-fidelity approaches",
 "type":"claim"
 },
 {
@@ -210276,23 +210284,23 @@
 "type":"claim"
 },
 {
-"description":"In situ simulated emergency training improves clinical reasoning in junior nurses",
+"description":"In a randomised trial of 82 junior nurses, in situ simulated emergency training held 2-3 times a month on top of once-monthly routine stratified training raised scores on a self-rated clinical reasoning scale more than routine training alone; the extra training sessions are not separated from the simulation itself",
 "evidence_strength":"moderate",
 "id":"in-situ-set-improves-clinical-reasoning-junior-nurses",
 "newest_evidence":"2026",
 "path":"claims/in-situ-set-improves-clinical-reasoning-junior-nurses.md",
 "status":"review",
-"title":"In situ simulated emergency training improves clinical reasoning in junior nurses",
+"title":"In situ simulated emergency training added to routine training raises self-rated clinical reasoning in junior nurses",
 "type":"claim"
 },
 {
-"description":"In situ simulated emergency training improves first aid ability in junior nurses",
+"description":"In a randomised trial of 82 junior nurses, in situ simulated emergency training held 2-3 times a month on top of once-monthly routine stratified training raised scores on a self-rated first aid questionnaire more than routine training alone; the extra training sessions are not separated from the simulation itself",
 "evidence_strength":"moderate",
 "id":"in-situ-set-improves-first-aid-junior-nurses",
 "newest_evidence":"2026",
 "path":"claims/in-situ-set-improves-first-aid-junior-nurses.md",
 "status":"review",
-"title":"In situ simulated emergency training improves first aid ability in junior nurses",
+"title":"In situ simulated emergency training added to routine training raises self-rated first aid ability in junior nurses",
 "type":"claim"
 },
 {
@@ -325549,6 +325557,7 @@
 "id":"pbl-virtual-simulation-higher-practical-operation-trauma-orthopedics",
 "newest_evidence":"2026",
 "path":"claims/pbl-virtual-simulation-higher-practical-operation-trauma-orthopedics.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"In the same RCT, PBL combined with virtual simulation produced significantly higher practical operation scores than lecture-based teaching (86.28 ± 3.18 vs. 76.52 ± 3.39, p < 0.01)",
 "type":"claim"
@@ -325559,6 +325568,7 @@
 "id":"pbl-virtual-simulation-higher-satisfaction-trauma-orthopedics",
 "newest_evidence":"2026",
 "path":"claims/pbl-virtual-simulation-higher-satisfaction-trauma-orthopedics.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"In the same RCT, PBL combined with virtual simulation received significantly higher student evaluations of teaching effectiveness (17.72 ± 1.24 vs. 12.72 ± 1.02, p < 0.01) and teaching satisfaction (86.96 ± 6.46 vs. 70.24 ± 8.71, p < 0.05)",
 "type":"claim"
@@ -325569,6 +325579,7 @@
 "id":"pbl-virtual-simulation-higher-written-exam-trauma-orthopedics",
 "newest_evidence":"2026",
 "path":"claims/pbl-virtual-simulation-higher-written-exam-trauma-orthopedics.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"In an RCT of trauma orthopedic teaching, PBL combined with virtual simulation produced significantly higher written examination scores than lecture-based teaching (88.48 ± 4.02 vs. 77.04 ± 5.31, p < 0.01)",
 "type":"claim"
@@ -364362,6 +364373,7 @@
 "id":"rain-classroom-cbl-higher-subjective-scores",
 "newest_evidence":"2026",
 "path":"claims/rain-classroom-cbl-higher-subjective-scores.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Students taught with integrated Rain Classroom and CBL scored significantly higher on subjective questions than students taught with traditional lectures",
 "type":"claim"
@@ -386286,6 +386298,7 @@
 "id":"sbe-supportive-not-replacement-view",
 "newest_evidence":"2026",
 "path":"claims/sbe-supportive-not-replacement-view.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Dietitians view SBE as a supportive tool that builds confidence but not a replacement for real patient contact",
 "type":"claim"
@@ -386645,6 +386658,7 @@
 "id":"sbl-greater-efficacy-gains-than-ocl",
 "newest_evidence":"2026",
 "path":"claims/sbl-greater-efficacy-gains-than-ocl.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"SBL produced greater gains in teaching efficacy than OCL (significant group × time interaction)",
 "type":"claim"
@@ -392949,6 +392963,7 @@
 "id":"sdl-and-am-partially-mediate-fc-pa",
 "newest_evidence":"2026",
 "path":"claims/sdl-and-am-partially-mediate-fc-pa.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Self-directed learning ability and autonomous motivation each significantly and partially mediate the effect of flipped classroom on physical activity.",
 "type":"claim"
@@ -416777,6 +416792,7 @@
 "id":"sp-anastomosis-delphi-metrics-consensus",
 "newest_evidence":"2026",
 "path":"claims/sp-anastomosis-delphi-metrics-consensus.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"A modified Delphi process with 14 panelists achieved 100% agreement on a metrics set of 5 steps, 20 errors, 1 failure-to-progress definition and 4 critical errors for the SP anastomosis task",
 "type":"claim"
@@ -420327,6 +420343,7 @@
 "id":"spoc-blended-package-high-adherence",
 "newest_evidence":"2026",
 "path":"claims/spoc-blended-package-high-adherence.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance",
 "type":"claim"
@@ -488567,6 +488584,7 @@
 "id":"vr-enhances-practical-skill-acquisition-with-barriers",
 "newest_evidence":"2026",
 "path":"claims/vr-enhances-practical-skill-acquisition-with-barriers.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer",
 "type":"claim"
@@ -489286,6 +489304,7 @@
 "id":"vr-simulator-training-no-transfer-porcine-suturing",
 "newest_evidence":"2026",
 "path":"claims/vr-simulator-training-no-transfer-porcine-suturing.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Virtual-reality simulator training alone failed to show significant transfer to in vivo porcine suturing in a cited prior randomized trial, contrasting with the present physical-simulator findings",
 "type":"claim"
@@ -489306,6 +489325,7 @@
 "id":"vr-skills-advantage-specific-dimensions",
 "newest_evidence":"2026",
 "path":"claims/vr-skills-advantage-specific-dimensions.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"VR advantages in skills scores concentrate in manipulation smoothness, operational proficiency, and visual field stability",
 "type":"claim"
@@ -489578,6 +489598,7 @@
 "id":"vr-training-transfer-unconfirmed",
 "newest_evidence":"2026",
 "path":"claims/vr-training-transfer-unconfirmed.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Transfer of VR training gains to real clinical practice remains unconfirmed",
 "type":"claim"
@@ -493604,13 +493625,14 @@
 "type":"claim"
 },
 {
-"description":"Students reported consensus-based decision-making and mutual benefit from both partner's and their own contributions during the team examination",
+"description":"Students reported consensus-based decision-making, benefit from their partner's knowledge, and that their own contributions were essential during the team examination",
 "evidence_strength":"moderate",
 "id":"whisper-exam-consensus-and-mutual-contribution",
 "newest_evidence":"2026",
 "path":"claims/whisper-exam-consensus-and-mutual-contribution.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"Students reported consensus-based decision-making and mutual benefit from both partner's and their own contributions during the team examination",
+"title":"Students reported consensus-based decision-making, benefit from their partner's knowledge, and that their own contributions were essential during the team examination",
 "type":"claim"
 },
 {
@@ -493619,6 +493641,7 @@
 "id":"whisper-exam-fairness-and-digital-format-criticisms",
 "newest_evidence":"2026",
 "path":"claims/whisper-exam-fairness-and-digital-format-criticisms.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Free-text comments raised fairness concerns about pairing with a weaker partner and technical and organizational issues with the digital format",
 "type":"claim"

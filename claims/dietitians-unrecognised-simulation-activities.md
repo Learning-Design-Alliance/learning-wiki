@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Many dietitians use role-play and case-based activities without identifying them as simulation, reflecting uncertainty about what constitutes SBE
-description: Many dietitians use role-play and case-based activities without identifying them as simulation, reflecting uncertainty about what constitutes SBE
+title: Many of 15 interviewed Irish dietitians had used role-play and scenario-based activities without recognising them as simulation, associating SBE with high-fidelity approaches
+description: Many of 15 interviewed Irish dietitians had used role-play and scenario-based activities without recognising them as simulation, associating SBE with high-fidelity approaches
 id: dietitians-unrecognised-simulation-activities
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 recheck_by: 2031
 sources:
   - id: a-power-2026
@@ -21,14 +22,14 @@ sources:
     rigour: 2
 ---
 
-# Many dietitians use role-play and case-based activities without identifying them as simulation, reflecting uncertainty about what constitutes SBE
+# Many of 15 interviewed Irish dietitians had used role-play and scenario-based activities without recognising them as simulation, associating SBE with high-fidelity approaches
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
-`q3 i?` While 60% of interview participants were unfamiliar with the term SBE beforehand, 93% described previous experience with simulation activities, often not recognising lower-fidelity activities such as role-play as simulation. [→ A. Power 2026](#a-power-2026)
+`q2 i?` In interviews with 15 Irish registered dietitians, while 60% of participants were unfamiliar with the term SBE beforehand, 93% described previous experience with simulation activities, many participants not recognising lower-fidelity activities such as role-play or scenario-based discussions as simulation. The finding is from a qualitative interview sample and is not an estimate for dietitians generally. [→ A. Power 2026](#a-power-2026)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ A. Power, C. Lee, C. Corish, and A. Shaw. (2026). Registered Dietitians' Knowled
 
 `q2 · i?` · `associational · r2`
 
-Thematic analysis of 15 semi-structured interviews deductively coded to COM-B domains. The quote shows the terminology–experience disconnect: "60% of interview participants reported that they had not been familiar with the term SBE" while 93% described simulation experience.
+Thematic analysis of 15 semi-structured interviews deductively coded to COM-B domains. The quote shows the terminology–experience disconnect: "60% of interview participants reported that they had not been familiar with the term SBE" while 93% described simulation experience. Many participants associated SBE with high-technology or high-fidelity approaches and did not recognise role-play or scenario-based discussions as simulation; several had used such activities for years without labelling them so.
 
 > "While 60% of interview participants reported that they had not been familiar with the term SBE or what it encompassed prior to participating in the study, 93% described previous experience with simulation activities."
 

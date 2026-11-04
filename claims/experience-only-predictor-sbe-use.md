@@ -45,7 +45,7 @@ Binary logistic regression on the survey data (n = 114) with predictors includin
 
 
 ## Related Claims
-- [Many dietitians use role-play and case-based activities without identifying them as simulation, reflecting uncertainty about what constitutes SBE](dietitians-unrecognised-simulation-activities.md) — related
+- [Many of 15 interviewed Irish dietitians had used role-play and scenario-based activities without recognising them as simulation, associating SBE with high-fidelity approaches](dietitians-unrecognised-simulation-activities.md) — related
 - [Greater familiarity with SBE is associated with more positive attitudes, stronger motivation, and fewer perceived resource and cost barriers](sbe-familiarity-attitudes-motivation-association.md) — related
 - [Only 14% of surveyed Irish dietitians report using simulation-based education despite 78% exposure and 85% interest in further training](irish-dietitians-low-sbe-use-high-interest.md) — related
 - [Dietitians view SBE as a supportive tool that builds confidence but not a replacement for real patient contact](sbe-supportive-not-replacement-view.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: stamer-tjorven-2026
     resource: "https://doi.org/10.1186/s12909-026-08785-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` VR can significantly enhance the acquisition and retention of clinical and procedural skills, improving knowledge, procedural accuracy, error reduction and learner confidence. [→ Stamer Tjorven 2026](#stamer-tjorven-2026)

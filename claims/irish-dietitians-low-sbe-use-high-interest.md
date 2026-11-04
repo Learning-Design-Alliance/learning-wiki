@@ -46,7 +46,7 @@ National online survey of CORU-registered dietitians in Ireland, analysed with d
 
 
 ## Related Claims
-- [Many dietitians use role-play and case-based activities without identifying them as simulation, reflecting uncertainty about what constitutes SBE](dietitians-unrecognised-simulation-activities.md) — related
+- [Many of 15 interviewed Irish dietitians had used role-play and scenario-based activities without recognising them as simulation, associating SBE with high-fidelity approaches](dietitians-unrecognised-simulation-activities.md) — related
 - [Years of professional experience was the only significant predictor of current SBE use among Irish dietitians](experience-only-predictor-sbe-use.md) — related
 - [Key barriers to SBE implementation are lack of knowledge or training, lack of awareness of resources, limited time and resources, and limited institutional support](sbe-barriers-knowledge-time-institutional-support.md) — related
 - [Greater familiarity with SBE is associated with more positive attitudes, stronger motivation, and fewer perceived resource and cost barriers](sbe-familiarity-attitudes-motivation-association.md) — related

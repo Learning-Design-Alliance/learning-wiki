@@ -40,8 +40,8 @@ The in situ SET course consists of nine courses, each covering one emergency the
 - Master emergency treatment processes for specific clinical scenarios
 
 ### Claims
-- [In Situ Set Improves Clinical Reasoning Junior Nurses](../claims/in-situ-set-improves-clinical-reasoning-junior-nurses.md) [+M]
-- [In Situ Set Improves First Aid Junior Nurses](../claims/in-situ-set-improves-first-aid-junior-nurses.md) [+M]
+- [In Situ Set Improves Clinical Reasoning Junior Nurses](../claims/in-situ-set-improves-clinical-reasoning-junior-nurses.md) [+W]
+- [In Situ Set Improves First Aid Junior Nurses](../claims/in-situ-set-improves-first-aid-junior-nurses.md) [+W]
 
 ## Related Designs
 - 

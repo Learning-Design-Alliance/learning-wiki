@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: xue-gang-2026
     resource: "https://doi.org/10.1186/s12909-026-09558-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After the intervention, the experimental group achieved significantly higher written examination scores than the control group (mean difference 11.44, 95% CI 8.76 to 14.12, P < 0.01). [→ Xue Gang 2026](#xue-gang-2026)

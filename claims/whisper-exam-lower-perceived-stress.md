@@ -50,7 +50,7 @@ Descriptive survey of 193 respondents (54.3% of 350 students) using a four-point
 ## Related Claims
 - [The collaborative case-based ‘whisper exam’ is feasible to implement as summative assessment in undergraduate medical education, with a 93.1% pass rate among 350 third-year students](whisper-exam-feasible-summative-collaborative-assessment.md) — related
 - [Students reported preparation effort for the collaborative exam comparable to individual examinations, indicating the team format did not reduce preparation](whisper-exam-preparation-effort-comparable.md) — related
-- [Students reported consensus-based decision-making and mutual benefit from both partner's and their own contributions during the team examination](whisper-exam-consensus-and-mutual-contribution.md) — related
+- [Students reported consensus-based decision-making, benefit from their partner's knowledge, and that their own contributions were essential during the team examination](whisper-exam-consensus-and-mutual-contribution.md) — related
 - [In a Spring 2026 pilot (N=98), 52% of students reported lower stress during the AI-mediated Socratic Test than in traditional exams](socratic-test-pilot-lower-stress.md) — related
 - [Students perceived teamwork in the whisper exam as constructive and enjoyable, with nearly all respondents rating interaction as constructive](whisper-exam-teamwork-constructive-enjoyable.md) — related
 - [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related

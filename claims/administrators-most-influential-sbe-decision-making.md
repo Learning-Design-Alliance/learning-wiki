@@ -45,7 +45,7 @@ Descriptive analysis of Section D of the SCORS survey on sustainable education d
 
 
 ## Related Claims
-- [Many dietitians use role-play and case-based activities without identifying them as simulation, reflecting uncertainty about what constitutes SBE](dietitians-unrecognised-simulation-activities.md) — related
+- [Many of 15 interviewed Irish dietitians had used role-play and scenario-based activities without recognising them as simulation, associating SBE with high-fidelity approaches](dietitians-unrecognised-simulation-activities.md) — related
 - [Institutional strategic orientation most strongly influences the other enablers (PageRank 0.2430)](institutional-strategic-orientation-pagerank-most-influential.md) — related
 - [PLC development by promoting role: administrative-staff-led PLCs rated shared leadership lower but shared values higher than teacher- and student-led PLCs, with no statistically significant differences](plc-promoting-role-type-a-leadership-values-pattern.md) — related
 - [Staff perceive the organisation as 'somewhat ready' to implement simulation-based education, with an overall SCORS score of 103.86](scors-overall-readiness-somewhat-ready-103-86.md) — a broader claim this one bears on

@@ -60,7 +60,7 @@ Consensus building supports learning because articulating and defending a positi
 - [Contrasting cases show the highest-scoring dyad (Select) engaged in inquiry, questioning, explaining, and argumentation to consensus during micro-failures, while the lowest-scoring dyad (Generate) showed dominance, unexplained disagreement, and off-task behavior](../claims/contrasting-cases-inquiry-versus-dominance.md) [+W]
 - [The DD process and product cultivated commitment and trust among participants and informed a new university AI governance policy](../claims/dd-cultivated-trust-governance-policy.md) [+M] — attached 2026-10-28 from Teresa Swist et al. (2024), which proposed "UTS EdTech Ethics Deliberative Democracy consultation".
 - [An individual preparation phase yields significantly more integration-oriented and conflict-oriented consensus building and less externalisation and non-task talk in the social dimension](../claims/wip-more-integration-conflict-consensus.md) [+W]
-- [Students reported consensus-based decision-making and mutual benefit from both partner's and their own contributions during the team examination](../claims/whisper-exam-consensus-and-mutual-contribution.md) [+W]
+- [Students reported consensus-based decision-making, benefit from their partner's knowledge, and that their own contributions were essential during the team examination](../claims/whisper-exam-consensus-and-mutual-contribution.md) [+W]
 
 ## Related Elements
 - [Collaborative Decision-Making](collaborative-decision-making.md) — the decision-oriented variant; consensus building adds the requirement of a jointly reasoned rationale

@@ -179,7 +179,7 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [Students born outside the UK achieved lower iRAT scores than home students, yet this difference did not persist in the final semester test.](../claims/tbl-place-of-birth-irat-gap-closes-by-semester-end.md) [~W]
 - [iRAT performance is structurally neutral to time of day and room size, with no differences in iRAT or end-of-semester test performance across these environmental factors.](../claims/tbl-irat-structurally-neutral-to-environment.md) [+W]
 - [Criterion-referenced peer review identifies the same struggling students as the iRAT, with students in the lowest iRAT decile receiving significantly lower peer ratings during themes 1–4.](../claims/tbl-peer-review-identifies-struggling-students.md) [~W]
-- [Students reported consensus-based decision-making and mutual benefit from both partner's and their own contributions during the team examination](../claims/whisper-exam-consensus-and-mutual-contribution.md) [~W]
+- [Students reported consensus-based decision-making, benefit from their partner's knowledge, and that their own contributions were essential during the team examination](../claims/whisper-exam-consensus-and-mutual-contribution.md) [~W]
 - [Students reported preparation effort for the collaborative exam comparable to individual examinations, indicating the team format did not reduce preparation](../claims/whisper-exam-preparation-effort-comparable.md) [+W]
 
 ## Related Patterns

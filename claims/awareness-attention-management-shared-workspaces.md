@@ -72,4 +72,4 @@ Attention protocols (tapping, repositioning materials, self-interruption) let pa
 - [Markov chain analysis yields nine finer-grained behavioral clusters that map predominantly onto the three broader behavior types](nine-markov-clusters-map-three-behavior-types.md) — related
 - [BeeBot polygon activities support geometry learning through decomposition, embodied turn-taking, and mediating artifacts](beebot-polygon-activity-geometry-decomposition.md) — related
 - [Rearranging pairs within the group zone of proximal development according to problem-solving needs enhances individual performance](gzpd-rearrangement-enhances-performance.md) — related
-- [Students reported consensus-based decision-making and mutual benefit from both partner's and their own contributions during the team examination](whisper-exam-consensus-and-mutual-contribution.md) — related
+- [Students reported consensus-based decision-making, benefit from their partner's knowledge, and that their own contributions were essential during the team examination](whisper-exam-consensus-and-mutual-contribution.md) — related

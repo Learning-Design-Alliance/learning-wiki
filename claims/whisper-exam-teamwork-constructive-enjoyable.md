@@ -50,4 +50,4 @@ Descriptive survey results from the post-exam questionnaire (n = 191 respondents
 ## Related Claims
 - [The collaborative case-based ‘whisper exam’ is feasible to implement as summative assessment in undergraduate medical education, with a 93.1% pass rate among 350 third-year students](whisper-exam-feasible-summative-collaborative-assessment.md) — related
 - [Most students reported lower pre-exam anxiety before the collaborative whisper exam compared to traditional individual written examinations](whisper-exam-lower-perceived-stress.md) — related
-- [Students reported consensus-based decision-making and mutual benefit from both partner's and their own contributions during the team examination](whisper-exam-consensus-and-mutual-contribution.md) — related
+- [Students reported consensus-based decision-making, benefit from their partner's knowledge, and that their own contributions were essential during the team examination](whisper-exam-consensus-and-mutual-contribution.md) — related

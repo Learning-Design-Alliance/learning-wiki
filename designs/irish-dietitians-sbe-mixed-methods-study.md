@@ -42,7 +42,7 @@ A convergent mixed-methods study combining an anonymous online SurveyMonkey ques
 - [Dietitians view SBE as a supportive tool that builds confidence but not a replacement for real patient contact](../claims/sbe-supportive-not-replacement-view.md) [+W]
 - [Years of professional experience was the only significant predictor of current SBE use among Irish dietitians](../claims/experience-only-predictor-sbe-use.md) [+W]
 - [Greater familiarity with SBE is associated with more positive attitudes, stronger motivation, and fewer perceived resource and cost barriers](../claims/sbe-familiarity-attitudes-motivation-association.md) [+W]
-- [Many dietitians use role-play and case-based activities without identifying them as simulation, reflecting uncertainty about what constitutes SBE](../claims/dietitians-unrecognised-simulation-activities.md) [+W]
+- [Many of 15 interviewed Irish dietitians had used role-play and scenario-based activities without recognising them as simulation, associating SBE with high-fidelity approaches](../claims/dietitians-unrecognised-simulation-activities.md) [+W]
 - [Key barriers to SBE implementation are lack of knowledge or training, lack of awareness of resources, limited time and resources, and limited institutional support](../claims/sbe-barriers-knowledge-time-institutional-support.md) [+W]
 
 ## Related Designs
