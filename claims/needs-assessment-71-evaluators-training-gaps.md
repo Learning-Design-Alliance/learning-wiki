@@ -46,5 +46,5 @@ Qualitative needs-assessment phase using virtual focus group discussions with 71
 
 
 ## Related Claims
-- [Peer-led SMA clinical outcome assessment workshops produced a 75% average increase in self-reported preparedness and familiarity among 79 Canadian clinical evaluators](sma-coa-workshops-75-percent-preparedness-increase.md) — related
+- [Self-reported preparedness and familiarity rose by an average of 75% from before to after peer-led SMA clinical outcome assessment workshops among 79 Canadian clinical evaluators, in an uncontrolled pre-post survey](sma-coa-workshops-75-percent-preparedness-increase.md) — related
 - [Lack of awareness and limited use of PROMs among SMA clinical evaluators constitutes a key gap, with fatigue particularly under-captured by traditional COAs](proms-underused-sma-fatigue-gap.md) — related

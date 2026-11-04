@@ -52,4 +52,4 @@ Multicenter prospective quasi-experimental one-group pre-post study across four 
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Simulation training increased nursing students' confidence in cardiopulmonary physical examination skills more than traditional training (Tawalbeh et al. study)](simulation-confidence-cardiopulmonary-tawalbeh.md) — related
 - [Simulation-based training improved PPE donning/doffing performance and reduced cognitive load from pre-test to post-test](simulation-ppe-donning-doffing-pre-post-gains.md) — a narrower finding that bears on this claim
-- [Simulation training based on the Jeffries framework significantly improves clinical decision-making ability of new graduate paediatric surgery nurses](jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) — related
+- [Clinical decision-making scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) — related

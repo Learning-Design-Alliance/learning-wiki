@@ -45,9 +45,9 @@ The authors recommend that "medical education policymakers consider the strategi
 
 - [BOPPPS/FC-CBL group achieves significantly higher clinical case evaluation scores than LBL group](../claims/boppps-fc-cbl-higher-clinical-case-scores-than-lbl.md) [+W]
 - [BOPPPS/FC-CBL group achieves significantly higher practical skills scores than LBL group](../claims/boppps-fc-cbl-higher-practical-skills-than-lbl.md) [+W]
-- [BOPPPS/FC-CBL group shows significantly higher teamwork skills and clinical thinking than LBL group](../claims/boppps-fc-cbl-higher-teamwork-clinical-thinking.md) [+W]
+- [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](../claims/boppps-fc-cbl-higher-teamwork-clinical-thinking.md) [+W]
 - [BOPPPS/FC-CBL group achieves significantly higher theory test scores than LBL group in general practice residency training](../claims/boppps-fc-cbl-higher-theory-test-scores-than-lbl.md) [+W]
-- [BOPPPS/FC-CBL produces very large effect sizes for teaching satisfaction and self-directed learning capacity](../claims/boppps-fc-cbl-large-effect-satisfaction-self-directed-learning.md) [+W]
+- [Residents taught with BOPPPS/FC-CBL self-rated teaching satisfaction and self-directed learning higher than lecture-taught residents, with large reported effect sizes but an inconsistently described rating scale](../claims/boppps-fc-cbl-large-effect-satisfaction-self-directed-learning.md) [+W]
 - [No significant baseline differences between BOPPPS/FC-CBL and LBL groups on demographics or entry-level scores](../claims/boppps-fc-cbl-lbl-no-baseline-differences.md) [+W]
 - [Flipped classroom residents score higher on clinical skills assessment than traditional classroom residents (89.23 ± 2.71 vs. 86.11 ± 3.59, p = 0.001)](../claims/fc-higher-clinical-skills-scores-gastroenterology.md) [+W]
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](../claims/fc-practical-exam-smd-050.md) [+W]

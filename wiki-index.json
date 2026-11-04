@@ -2702,6 +2702,7 @@
 "newest_evidence":"2026",
 "path":"claims/40-percent-high-bls-knowledge-competency.md",
 "recheck_by":"2031",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Only 40.26% of surveyed healthcare professionals met the criterion for high knowledge-based BLS competency (score ≥80 points).",
 "type":"claim"
@@ -48055,13 +48056,14 @@
 "type":"claim"
 },
 {
-"description":"BOPPPS/FC-CBL group shows significantly higher teamwork skills and clinical thinking than LBL group",
+"description":"In a 38-resident randomised trial, end-of-training five-point self-ratings of teamwork and clinical thinking were higher in the BOPPPS/FC-CBL group than the lecture-based group (reported d = 1.18 and 0.96); these are self-report ratings, not skill assessments",
 "evidence_strength":"moderate",
 "id":"boppps-fc-cbl-higher-teamwork-clinical-thinking",
 "newest_evidence":"2026",
 "path":"claims/boppps-fc-cbl-higher-teamwork-clinical-thinking.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"BOPPPS/FC-CBL group shows significantly higher teamwork skills and clinical thinking than LBL group",
+"title":"BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire",
 "type":"claim"
 },
 {
@@ -48075,13 +48077,14 @@
 "type":"claim"
 },
 {
-"description":"BOPPPS/FC-CBL produces very large effect sizes for teaching satisfaction and self-directed learning capacity",
+"description":"In a 38-resident randomised trial, end-of-training five-point self-ratings of teaching satisfaction and self-directed learning capacity were higher in the BOPPPS/FC-CBL group (reported d = 1.48 and 1.62), though the paper's own scale coding (1 = very satisfied) contradicts reading higher scores as better",
 "evidence_strength":"moderate",
 "id":"boppps-fc-cbl-large-effect-satisfaction-self-directed-learning",
 "newest_evidence":"2026",
 "path":"claims/boppps-fc-cbl-large-effect-satisfaction-self-directed-learning.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"BOPPPS/FC-CBL produces very large effect sizes for teaching satisfaction and self-directed learning capacity",
+"title":"Residents taught with BOPPPS/FC-CBL self-rated teaching satisfaction and self-directed learning higher than lecture-taught residents, with large reported effect sizes but an inconsistently described rating scale",
 "type":"claim"
 },
 {
@@ -95161,6 +95164,7 @@
 "id":"crcdc-ega-network-structure",
 "newest_evidence":"2026",
 "path":"claims/crcdc-ega-network-structure.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Exploratory Graph Analysis identified three distinct communities fully consistent with the theoretical three-factor model, supporting the structural validity and multidimensional nature of the CRCDCS.",
 "type":"claim"
@@ -98039,6 +98043,7 @@
 "newest_evidence":"2026",
 "path":"claims/csl-lts-internal-consistency.md",
 "recheck_by":"2029",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"The CSL-LTS demonstrates adequate internal consistency with Cronbach's α of 0.832 and McDonald's ω of 0.841",
 "type":"claim"
@@ -98049,6 +98054,7 @@
 "id":"csl-lts-pilot-comprehensibility",
 "newest_evidence":"2026",
 "path":"claims/csl-lts-pilot-comprehensibility.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"A pilot test with 20 nursing students found no difficulties in understanding or completing the questionnaire",
 "type":"claim"
@@ -98060,6 +98066,7 @@
 "newest_evidence":"2026",
 "path":"claims/csl-lts-temporal-stability-icc.md",
 "recheck_by":"2029",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"The CSL-LTS demonstrates strong temporal stability with an intraclass correlation coefficient of 0.991 over a 15-day test–retest interval",
 "type":"claim"
@@ -105809,6 +105816,7 @@
 "newest_evidence":"2026",
 "path":"claims/defibrillation-knowledge-lowest-domain-accuracy.md",
 "recheck_by":"2031",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Defibrillation-related knowledge had the lowest domain-specific accuracy among BLS knowledge domains.",
 "type":"claim"
@@ -168715,13 +168723,14 @@
 "type":"claim"
 },
 {
-"description":"A 3D printing-assisted family-school-hospital collaborative education model improves medical interns' knowledge of urinary system tumor early screening",
+"description":"In a non-randomised pre-post study of 120 interns grouped by boarding status, the group given the 3D printing-assisted family-school-hospital programme gained more on a knowledge test than the traditionally taught group (d = 0.56 in the abstract, 0.88 in the results section); the authors state the design shows an association, not that the programme caused the gain",
 "evidence_strength":"moderate",
 "id":"fsph-3d-model-improves-tumor-screening-knowledge",
 "newest_evidence":"2026",
 "path":"claims/fsph-3d-model-improves-tumor-screening-knowledge.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"A 3D printing-assisted family-school-hospital collaborative education model improves medical interns' knowledge of urinary system tumor early screening",
+"title":"A 3D printing-assisted family-school-hospital collaborative education model was associated with larger gains in medical interns' knowledge of urinary system tumor early screening than traditional teaching, in a non-randomised comparison",
 "type":"claim"
 },
 {
@@ -223353,6 +223362,7 @@
 "newest_evidence":"2026",
 "path":"claims/item-level-bls-accuracy-varies-considerably.md",
 "recheck_by":"2031",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Item-level BLS knowledge accuracy varied considerably, with the lowest accuracy on airway-management, defibrillation, and quality-control items.",
 "type":"claim"
@@ -225344,21 +225354,23 @@
 "type":"claim"
 },
 {
-"description":"Simulation training based on the Jeffries framework significantly improves clinical decision-making ability of new graduate paediatric surgery nurses",
+"description":"Clinical decision-making scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study",
 "evidence_strength":"moderate",
 "id":"jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses",
 "path":"claims/jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"Simulation training based on the Jeffries framework significantly improves clinical decision-making ability of new graduate paediatric surgery nurses",
+"title":"Clinical decision-making scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study",
 "type":"claim"
 },
 {
-"description":"Simulation training based on the Jeffries framework significantly improves total core competence scores of new graduate paediatric surgery nurses",
+"description":"Total core competence scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study",
 "evidence_strength":"moderate",
 "id":"jeffries-simulation-improves-core-competence-new-graduate-paediatric-nurses",
 "path":"claims/jeffries-simulation-improves-core-competence-new-graduate-paediatric-nurses.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"Simulation training based on the Jeffries framework significantly improves total core competence scores of new graduate paediatric surgery nurses",
+"title":"Total core competence scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study",
 "type":"claim"
 },
 {
@@ -372301,14 +372313,15 @@
 "type":"claim"
 },
 {
-"description":"Retrieval augmentation is essential for on-premise educational QA: a local LLM without retrieval scores below even a TF-IDF baseline",
+"description":"In one on-premise introductory computer-science QA system built on open educational resources, a local LLM without retrieval scored below a TF-IDF baseline on 300 test queries",
 "evidence_strength":"moderate",
 "id":"retrieval-augmentation-essential-local-llm-below-tfidf",
 "newest_evidence":"2026",
 "path":"claims/retrieval-augmentation-essential-local-llm-below-tfidf.md",
 "recheck_by":"2029",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"Retrieval augmentation is essential for on-premise educational QA: a local LLM without retrieval scores below even a TF-IDF baseline",
+"title":"In one on-premise introductory computer-science QA system built on open educational resources, a local LLM without retrieval scored below a TF-IDF baseline on 300 test queries",
 "type":"claim"
 },
 {
@@ -406091,13 +406104,14 @@
 "type":"claim"
 },
 {
-"description":"Peer-led SMA clinical outcome assessment workshops produced a 75% average increase in self-reported preparedness and familiarity among 79 Canadian clinical evaluators",
+"description":"Pre- and post-workshop surveys of 79 volunteer Canadian clinical evaluators showed an average 75% increase in self-reported preparedness and familiarity with SMA outcome assessments; with no comparison group and self-report only, the study cannot show the workshops caused the change or that skill improved",
 "evidence_strength":"moderate",
 "id":"sma-coa-workshops-75-percent-preparedness-increase",
 "newest_evidence":"2026",
 "path":"claims/sma-coa-workshops-75-percent-preparedness-increase.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"Peer-led SMA clinical outcome assessment workshops produced a 75% average increase in self-reported preparedness and familiarity among 79 Canadian clinical evaluators",
+"title":"Self-reported preparedness and familiarity rose by an average of 75% from before to after peer-led SMA clinical outcome assessment workshops among 79 Canadian clinical evaluators, in an uncontrolled pre-post survey",
 "type":"claim"
 },
 {

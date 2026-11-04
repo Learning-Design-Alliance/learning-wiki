@@ -46,7 +46,7 @@ Theme from thematic content analysis of the needs assessment and workshop data: 
 
 
 ## Related Claims
-- [Peer-led SMA clinical outcome assessment workshops produced a 75% average increase in self-reported preparedness and familiarity among 79 Canadian clinical evaluators](sma-coa-workshops-75-percent-preparedness-increase.md) — related
+- [Self-reported preparedness and familiarity rose by an average of 75% from before to after peer-led SMA clinical outcome assessment workshops among 79 Canadian clinical evaluators, in an uncontrolled pre-post survey](sma-coa-workshops-75-percent-preparedness-increase.md) — related
 - [Clinical evaluators reported that current SMA COAs show ceiling effects in treated infants and floor effects in strong sitters and ambulant individuals](sma-coa-ceiling-floor-effects.md) — related
 - [Non-Quebec participants reported significantly lower pre-workshop familiarity with SMA-specific COAs than Quebec participants](provincial-familiarity-gap-sma-coas.md) — related
 - [Most SMA training resources target researchers and physicians rather than hands-on assessment training for allied health professionals, and mentorship opportunities are lacking](sma-training-targets-physicians-not-allied-health.md) — related

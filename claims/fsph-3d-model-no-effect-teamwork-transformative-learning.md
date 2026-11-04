@@ -49,7 +49,7 @@ Non-randomized controlled pre-post study of 120 clinical medical interns (60 per
 - [Collaboration](../learner-variables/collaboration.md) — outcome: measured as an outcome of the instruction studied
 
 ## Related Claims
-- [A 3D printing-assisted family-school-hospital collaborative education model improves medical interns' knowledge of urinary system tumor early screening](fsph-3d-model-improves-tumor-screening-knowledge.md) — related
+- [A 3D printing-assisted family-school-hospital collaborative education model was associated with larger gains in medical interns' knowledge of urinary system tumor early screening than traditional teaching, in a non-randomised comparison](fsph-3d-model-improves-tumor-screening-knowledge.md) — related
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Participants reported increased confidence, readiness and teamwork after completing the SimLab programme](simlab-confidence-teamwork-gains.md) — related
 - [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related

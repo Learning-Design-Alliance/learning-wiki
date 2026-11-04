@@ -44,7 +44,7 @@ These figures describe two things at once: what education research has produced,
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 1,120 (10%) | 6,541 (58%) | 3,497 (31%) | 186 (2%) |
+| 1,120 (10%) | 6,542 (58%) | 3,496 (31%) | 186 (2%) |
 
 **Studies per claim:** 0: 3, 1: 47,080, 2: 502, 3: 65, 4 or more: 21.
 

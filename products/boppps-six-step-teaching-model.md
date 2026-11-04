@@ -13,7 +13,7 @@ generated:
 # BOPPPS six-step teaching model
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 4 studies (3 causal, 1 quant-synthesis), `q2`–`q3` · 2 of 4 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 4 studies (3 causal, 1 quant-synthesis), `q2`–`q3` · 2 of 4 report an effect size · 8 claims rest on one study
 
 ## Description
 BOPPPS is a goal-oriented, student-centered teaching framework organized around bridge-in, objectives, pre-assessment, participatory learning, post-assessment, and summary, used by educators to structure lessons and courses.
@@ -32,7 +32,7 @@ BOPPPS is a goal-oriented, student-centered teaching framework organized around 
 - [Self-reported disaster nursing competency rose more in a BOPPPS-based blended disaster-nursing elective than with no disaster-nursing instruction, but not significantly more than in the same elective taught by lecture](../claims/boppps-blended-teaching-disaster-nursing-competency-gains.md) [~W]
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](../claims/boppps-higher-overall-course-scores.md) [+M]
 - [BOPPPS/FC-CBL group achieves significantly higher theory test scores than LBL group in general practice residency training](../claims/boppps-fc-cbl-higher-theory-test-scores-than-lbl.md) [+M]
-- [BOPPPS/FC-CBL produces very large effect sizes for teaching satisfaction and self-directed learning capacity](../claims/boppps-fc-cbl-large-effect-satisfaction-self-directed-learning.md) [+M]
+- [Residents taught with BOPPPS/FC-CBL self-rated teaching satisfaction and self-directed learning higher than lecture-taught residents, with large reported effect sizes but an inconsistently described rating scale](../claims/boppps-fc-cbl-large-effect-satisfaction-self-directed-learning.md) [~W]
 
 ## Related Products and Programmes
 

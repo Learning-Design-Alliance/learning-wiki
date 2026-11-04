@@ -17,7 +17,7 @@ sources:
 # Implement progressive and layered simulation training across career stages for paediatric surgery nurses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends a staged approach to simulation training for paediatric surgery nurses. During undergraduate internships, comprehensive knowledge and practical programmes should be established; for newly graduated nurses, the emphasis should be on clinical competence, handling critical situations, and teamwork; senior nurses can enrol in advanced scenario simulation courses. The authors also suggest developing "an online course specifically for paediatric surgery nurses, including those working in primary hospitals" to leverage the flexibility of online classes.
@@ -47,8 +47,8 @@ The article recommends a staged approach to simulation training for paediatric s
 
 ## Claims
 
-- [Simulation training based on the Jeffries framework significantly improves clinical decision-making ability of new graduate paediatric surgery nurses](../claims/jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) [+W]
-- [Simulation training based on the Jeffries framework significantly improves total core competence scores of new graduate paediatric surgery nurses](../claims/jeffries-simulation-improves-core-competence-new-graduate-paediatric-nurses.md) [+W]
+- [Clinical decision-making scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](../claims/jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) [+W]
+- [Total core competence scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](../claims/jeffries-simulation-improves-core-competence-new-graduate-paediatric-nurses.md) [+W]
 - [New graduate paediatric surgery nurses show lowest baseline proficiency in critical thinking and research skills](../claims/new-graduate-paediatric-nurses-lowest-baseline-critical-thinking.md) [+W]
 
 ## Related Strategies

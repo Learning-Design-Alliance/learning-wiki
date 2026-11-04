@@ -17,7 +17,7 @@ sources:
 # Synergistic complementarity of BOPPPS, FC, and CBL as explanation for large effect sizes
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors propose that the large effect sizes arise because "FC ensures preparation, BOPPPS provides structure, and CBL supplies authentic engagement." FC addresses CBL's limitation of unproductive discussions when learners are unprepared; BOPPPS addresses FC-CBL's lack of explicit phase structure; and CBL addresses BOPPPS's risk of becoming "procedural without authentic content." This mutual compensation creates what the authors term a "synergistic effect" that likely explains the observed outcomes across multiple domains.
@@ -39,7 +39,7 @@ The authors propose that the large effect sizes arise because "FC ensures prepar
 - Teamwork
 
 ### Claims
-- [Boppps Fc Cbl Large Effect Satisfaction Self Directed Learning](../claims/boppps-fc-cbl-large-effect-satisfaction-self-directed-learning.md) [+M]
+- [Boppps Fc Cbl Large Effect Satisfaction Self Directed Learning](../claims/boppps-fc-cbl-large-effect-satisfaction-self-directed-learning.md) [~W]
 
 ## Related Designs
 - 

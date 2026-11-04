@@ -42,7 +42,7 @@ As a future research direction, the article proposes examining "how augmenting L
 ## Claims
 
 - [A small subset of EBHS examination questions produced incorrect responses across most or all LLMs, concentrated in specialized domains including rare congenital anomalies, European-specific practice patterns, historical terminology and eponyms, and complex reconstructions.](../claims/llm-ebhs-persistent-subspecialty-knowledge-gaps.md) [+W]
-- [Retrieval augmentation is essential for on-premise educational QA: a local LLM without retrieval scores below even a TF-IDF baseline](../claims/retrieval-augmentation-essential-local-llm-below-tfidf.md) [+W]
+- [In one on-premise introductory computer-science QA system built on open educational resources, a local LLM without retrieval scored below a TF-IDF baseline on 300 test queries](../claims/retrieval-augmentation-essential-local-llm-below-tfidf.md) [+W]
 - [Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification](../claims/rag-reduces-not-eliminates-hallucinations.md) [~W]
 
 ## Related Strategies

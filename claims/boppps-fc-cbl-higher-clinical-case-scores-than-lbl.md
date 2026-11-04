@@ -47,7 +47,7 @@ Same RCT; clinical thinking exam worth 100 points using a novel case not previou
 ## Related Claims
 - [BOPPPS/FC-CBL group achieves significantly higher theory test scores than LBL group in general practice residency training](boppps-fc-cbl-higher-theory-test-scores-than-lbl.md) — related
 - [BOPPPS/FC-CBL group achieves significantly higher practical skills scores than LBL group](boppps-fc-cbl-higher-practical-skills-than-lbl.md) — related
-- [BOPPPS/FC-CBL group shows significantly higher teamwork skills and clinical thinking than LBL group](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
+- [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
 - [Flipped classroom residents score higher on clinical skills assessment than traditional classroom residents (89.23 ± 2.71 vs. 86.11 ± 3.59, p = 0.001)](fc-higher-clinical-skills-scores-gastroenterology.md) — related
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
 - [Emerging teaching methods (PBL, CBL, FC) significantly improve dental students' exam scores compared to lecture-based learning](emerging-methods-improve-dental-exam-scores.md) — a broader claim this one bears on

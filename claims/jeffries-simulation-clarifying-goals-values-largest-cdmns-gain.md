@@ -42,6 +42,6 @@ CDMNS subscale result from Table 3 of the same study (n = 60): the clarifying go
 
 
 ## Related Claims
-- [Simulation training based on the Jeffries framework significantly improves clinical decision-making ability of new graduate paediatric surgery nurses](jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) — a broader claim this one bears on
+- [Clinical decision-making scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) — a broader claim this one bears on
 - [Improvements after Jeffries-framework simulation vary across competence dimensions, with no significant change in professional development](jeffries-simulation-dimension-specific-competence-changes.md) — related
 - [New graduate paediatric surgery nurses show lowest baseline proficiency in critical thinking and research skills](new-graduate-paediatric-nurses-lowest-baseline-critical-thinking.md) — related

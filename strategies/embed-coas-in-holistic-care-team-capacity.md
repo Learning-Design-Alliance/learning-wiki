@@ -41,7 +41,7 @@ Participants agreed that required assessments should be embedded within a holist
 - [A needs assessment of 71 physiotherapists, occupational therapists and nurses identified inconsistent access to SMA-specific training and challenges applying standardized assessments](../claims/needs-assessment-71-evaluators-training-gaps.md) [+W]
 - [Lack of awareness and limited use of PROMs among SMA clinical evaluators constitutes a key gap, with fatigue particularly under-captured by traditional COAs](../claims/proms-underused-sma-fatigue-gap.md) [+W]
 - [Clinical evaluators reported that current SMA COAs show ceiling effects in treated infants and floor effects in strong sitters and ambulant individuals](../claims/sma-coa-ceiling-floor-effects.md) [+W]
-- [Peer-led SMA clinical outcome assessment workshops produced a 75% average increase in self-reported preparedness and familiarity among 79 Canadian clinical evaluators](../claims/sma-coa-workshops-75-percent-preparedness-increase.md) [+W]
+- [Self-reported preparedness and familiarity rose by an average of 75% from before to after peer-led SMA clinical outcome assessment workshops among 79 Canadian clinical evaluators, in an uncontrolled pre-post survey](../claims/sma-coa-workshops-75-percent-preparedness-increase.md) [+W]
 
 ## Related Strategies
 

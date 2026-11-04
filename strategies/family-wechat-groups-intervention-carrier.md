@@ -40,7 +40,7 @@ The article recommends relying on family WeChat groups as the digital platform f
 
 ## Claims
 
-- [A 3D printing-assisted family-school-hospital collaborative education model improves medical interns' knowledge of urinary system tumor early screening](../claims/fsph-3d-model-improves-tumor-screening-knowledge.md) [+W]
+- [A 3D printing-assisted family-school-hospital collaborative education model was associated with larger gains in medical interns' knowledge of urinary system tumor early screening than traditional teaching, in a non-randomised comparison](../claims/fsph-3d-model-improves-tumor-screening-knowledge.md) [+W]
 
 ## Related Strategies
 

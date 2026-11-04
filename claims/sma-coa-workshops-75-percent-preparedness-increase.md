@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Peer-led SMA clinical outcome assessment workshops produced a 75% average increase in self-reported preparedness and familiarity among 79 Canadian clinical evaluators"
-description: "Peer-led SMA clinical outcome assessment workshops produced a 75% average increase in self-reported preparedness and familiarity among 79 Canadian clinical evaluators"
+title: "Self-reported preparedness and familiarity rose by an average of 75% from before to after peer-led SMA clinical outcome assessment workshops among 79 Canadian clinical evaluators, in an uncontrolled pre-post survey"
+description: "Pre- and post-workshop surveys of 79 volunteer Canadian clinical evaluators showed an average 75% increase in self-reported preparedness and familiarity with SMA outcome assessments; with no comparison group and self-report only, the study cannot show the workshops caused the change or that skill improved"
 id: sma-coa-workshops-75-percent-preparedness-increase
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: osman-homira-2026
     resource: "https://doi.org/10.1177/22143602261416298"
@@ -20,14 +21,14 @@ sources:
     rigour: 3
 ---
 
-# Peer-led SMA clinical outcome assessment workshops produced a 75% average increase in self-reported preparedness and familiarity among 79 Canadian clinical evaluators
+# Self-reported preparedness and familiarity rose by an average of 75% from before to after peer-led SMA clinical outcome assessment workshops among 79 Canadian clinical evaluators, in an uncontrolled pre-post survey
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Pre- and post-workshop surveys of 79 allied health professionals showed an average 75% increase in self-reported preparedness and familiarity across all COAs covered in the training. [→ Osman Homira 2026](#osman-homira-2026)
+`q2 i?` Pre- and post-workshop surveys of 79 allied health professionals showed an average 75% increase in self-reported preparedness and familiarity across all COAs covered in the training; with no comparison group, this is a before-after change and does not show that the workshops caused it. [→ Osman Homira 2026](#osman-homira-2026)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Osman Homira, Masnata Maria, Adamji Zainab, Rodrigue Xavier, Nguyen Cam-Tu Émil
 
 `q2 · i?` · `design · r3`
 
-Pre- and post-workshop survey study of 79 regulated allied health professionals (28 OTs, 50 PTs, 1 registered nurse) attending two SMA COA workshops; quantitative data analyzed with descriptive statistics. The article reports "an average 75% increase in self-reported preparedness and familiarity"; no standardized effect size was printed.
+Pre- and post-workshop survey study of 79 regulated allied health professionals (28 OTs, 50 PTs, 1 registered nurse) attending two SMA COA workshops; quantitative data analyzed with descriptive statistics. The article reports "an average 75% increase in self-reported preparedness and familiarity"; no standardized effect size was printed. There was no comparison group, participation was voluntary, and the outcomes were self-reported; the authors note possible self-selection bias, that self-reported familiarity and confidence "may not align with objective performance or long-term skill retention", and that practice change was not assessed. The figure is a before-after change in self-report, not evidence that the workshops caused it.
 
 > "The pre- and post-workshop survey data revealed an average 75% increase in self-reported preparedness and familiarity across all COAs covered in the training (Figure 2)."
 

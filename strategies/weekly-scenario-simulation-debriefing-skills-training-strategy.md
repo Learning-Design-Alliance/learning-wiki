@@ -45,8 +45,8 @@ The article's intervention model combines weekly scenario simulation courses wit
 
 ## Claims
 
-- [Simulation training based on the Jeffries framework significantly improves clinical decision-making ability of new graduate paediatric surgery nurses](../claims/jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) [+M]
-- [Simulation training based on the Jeffries framework significantly improves total core competence scores of new graduate paediatric surgery nurses](../claims/jeffries-simulation-improves-core-competence-new-graduate-paediatric-nurses.md) [+M]
+- [Clinical decision-making scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](../claims/jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) [+W]
+- [Total core competence scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](../claims/jeffries-simulation-improves-core-competence-new-graduate-paediatric-nurses.md) [+W]
 - [The clarifying goals and values dimension of clinical decision-making shows the largest improvement after Jeffries-framework simulation](../claims/jeffries-simulation-clarifying-goals-values-largest-cdmns-gain.md) [+W]
 - [Improvements after Jeffries-framework simulation vary across competence dimensions, with no significant change in professional development](../claims/jeffries-simulation-dimension-specific-competence-changes.md) [+W]
 - [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](../claims/debriefing-psychometric-instruction-valued.md) [+W]

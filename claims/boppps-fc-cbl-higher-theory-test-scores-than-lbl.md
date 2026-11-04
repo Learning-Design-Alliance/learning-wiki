@@ -52,4 +52,4 @@ Randomized controlled trial with 38 general practice residents (19 per group) ov
 - [CBL is the highest-ranked strategy for enhancing medical students' theoretical test scores, with CBL, PBL, SBL and FC each significantly outperforming LBL](cbl-highest-ranked-theoretical-test-scores-nma.md) — related
 - [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — related
 - [No significant baseline differences between BOPPPS/FC-CBL and LBL groups on demographics or entry-level scores](boppps-fc-cbl-lbl-no-baseline-differences.md) — related
-- [BOPPPS/FC-CBL group shows significantly higher teamwork skills and clinical thinking than LBL group](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
+- [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related

@@ -60,7 +60,7 @@ Null subscale result from Table 2: professional development changed by only "0.3
 
 ## Related Claims
 - [The clarifying goals and values dimension of clinical decision-making shows the largest improvement after Jeffries-framework simulation](jeffries-simulation-clarifying-goals-values-largest-cdmns-gain.md) — related
-- [Simulation training based on the Jeffries framework significantly improves total core competence scores of new graduate paediatric surgery nurses](jeffries-simulation-improves-core-competence-new-graduate-paediatric-nurses.md) — a broader claim this one bears on
+- [Total core competence scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](jeffries-simulation-improves-core-competence-new-graduate-paediatric-nurses.md) — a broader claim this one bears on
 - [Largest professional development gains occur in practical application (+27%) and critical evaluation (+26%), with ethical awareness showing the smallest gain (+18%)](pd-gains-largest-application-evaluation-smallest-ethics.md) — reports the opposite
-- [Simulation training based on the Jeffries framework significantly improves clinical decision-making ability of new graduate paediatric surgery nurses](jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) — related
+- [Clinical decision-making scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) — related
 - [New graduate paediatric surgery nurses show lowest baseline proficiency in critical thinking and research skills](new-graduate-paediatric-nurses-lowest-baseline-critical-thinking.md) — related

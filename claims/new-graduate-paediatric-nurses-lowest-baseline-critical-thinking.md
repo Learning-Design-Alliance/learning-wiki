@@ -42,8 +42,8 @@ Baseline observational finding from the study's pretest data (n = 60): preceptor
 
 
 ## Related Claims
-- [Simulation training based on the Jeffries framework significantly improves clinical decision-making ability of new graduate paediatric surgery nurses](jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) — related
-- [Simulation training based on the Jeffries framework significantly improves total core competence scores of new graduate paediatric surgery nurses](jeffries-simulation-improves-core-competence-new-graduate-paediatric-nurses.md) — related
+- [Clinical decision-making scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) — related
+- [Total core competence scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](jeffries-simulation-improves-core-competence-new-graduate-paediatric-nurses.md) — related
 - [Improvements after Jeffries-framework simulation vary across competence dimensions, with no significant change in professional development](jeffries-simulation-dimension-specific-competence-changes.md) — related
 - [No included study measured critical thinking as an explicit outcome or compared simulation modalities directly](sbe-delirium-no-explicit-ct-measure.md) — related
 - [Graduating nurses often lack clinical skills and readiness for practice](graduating-nurses-lack-clinical-readiness.md) — related

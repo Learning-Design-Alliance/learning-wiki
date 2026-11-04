@@ -40,7 +40,7 @@ The article advocates a localized, family-oriented approach to cancer early dete
 ### Claims
 
 - [The collaborative model improves medical interns' doctor-patient communication ability](../claims/fsph-3d-model-improves-doctor-patient-communication.md) [+W]
-- [A 3D printing-assisted family-school-hospital collaborative education model improves medical interns' knowledge of urinary system tumor early screening](../claims/fsph-3d-model-improves-tumor-screening-knowledge.md) [+W]
+- [A 3D printing-assisted family-school-hospital collaborative education model was associated with larger gains in medical interns' knowledge of urinary system tumor early screening than traditional teaching, in a non-randomised comparison](../claims/fsph-3d-model-improves-tumor-screening-knowledge.md) [+W]
 - [The collaborative model improves medical interns' self-directed learning ability](../claims/fsph-3d-model-improves-self-directed-learning.md) [+W]
 - [The collaborative model improves medical interns' social medical curiosity](../claims/fsph-3d-model-improves-social-medical-curiosity.md) [+W]
 

@@ -48,4 +48,4 @@ Pre-workshop survey comparison between the 49 Quebec-based attendees and the 30 
 ## Related Claims
 - [The greatest post-workshop familiarity gain occurred for the Adapted Test of Neuromuscular Disorders 3.0 and the smallest for the BSID-III](atend-3-greatest-familiarity-gain-bsid3-smallest.md) — related
 - [Lack of awareness and limited use of PROMs among SMA clinical evaluators constitutes a key gap, with fatigue particularly under-captured by traditional COAs](proms-underused-sma-fatigue-gap.md) — related
-- [Peer-led SMA clinical outcome assessment workshops produced a 75% average increase in self-reported preparedness and familiarity among 79 Canadian clinical evaluators](sma-coa-workshops-75-percent-preparedness-increase.md) — related
+- [Self-reported preparedness and familiarity rose by an average of 75% from before to after peer-led SMA clinical outcome assessment workshops among 79 Canadian clinical evaluators, in an uncontrolled pre-post survey](sma-coa-workshops-75-percent-preparedness-increase.md) — related

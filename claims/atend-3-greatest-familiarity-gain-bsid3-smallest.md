@@ -45,6 +45,6 @@ Pre- and post-workshop survey comparison across the COAs covered in the two SMA 
 
 
 ## Related Claims
-- [Peer-led SMA clinical outcome assessment workshops produced a 75% average increase in self-reported preparedness and familiarity among 79 Canadian clinical evaluators](sma-coa-workshops-75-percent-preparedness-increase.md) — a broader claim this one bears on
+- [Self-reported preparedness and familiarity rose by an average of 75% from before to after peer-led SMA clinical outcome assessment workshops among 79 Canadian clinical evaluators, in an uncontrolled pre-post survey](sma-coa-workshops-75-percent-preparedness-increase.md) — a broader claim this one bears on
 - [Non-Quebec participants reported significantly lower pre-workshop familiarity with SMA-specific COAs than Quebec participants](provincial-familiarity-gap-sma-coas.md) — related
 - [Video-based scoring and simulation demonstrations enabled participants to reach consensus on assessment scoring, defined as agreement among at least 90 percent of participants](video-simulation-consensus-scoring-workshops.md) — related
