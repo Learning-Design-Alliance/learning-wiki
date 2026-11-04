@@ -56,3 +56,4 @@ Descriptive statistics from the 551-student cross-sectional survey show a coexis
 - [Physical Strain, reported by 120 participants, comprises visual fatigue and session exhaustion from reading and verifying AI outputs](physical-strain-visual-fatigue-session-exhaustion.md) — related
 - [Stress-resilience dissociations were identified, with high distress coexisting alongside moderate-to-high resilience](stress-resilience-dissociation-high-distress.md) — related
 - [Trainees reported high satisfaction with the AI-enabled personalized teaching model](high-satisfaction-ai-personalized-teaching.md) — related
+- [Pressure to achieve high grades was the most common anxiety trigger among clinical-year students](grade-pressure-top-anxiety-trigger.md) — related

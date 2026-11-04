@@ -50,3 +50,4 @@ Study in which 53 surgeons each performed an endoscopic intracorporeal suturing 
 - [Weisser et al. 3D-printed pediatric MIS curriculum: expert surgeons outperformed residents on all tasks with high interrater reliability](susiped1-experts-outperform-residents.md) — related
 - [PLS simulator is the most commonly used pediatric MIS training model, with construct validity established for its pattern-cutting task](pls-simulator-most-used-construct-validity.md) — related
 - [Training modality preferences differ by proficiency level: juniors favor box-trainers and theory, intermediates perfused organs and box-trainers, seniors perfused and ex vivo organs](level-stratified-training-modality-preferences.md) — related
+- [In CRT training, proficiency-based progression demonstrated superiority over traditional simulation in which proficiency benchmarks were optional](pbp-superiority-crt-training.md) — related

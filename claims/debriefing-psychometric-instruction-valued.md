@@ -56,3 +56,4 @@ Focus-group theme from the qualitative pilot. The course paired simulations with
 - [Participants generally perceive NTS training programs as beneficial despite variations in teaching strategies](nts-training-icu-positive-reaction-perceptions.md) — related
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
 - [Group reflection and debriefing after VR simulation is perceived by students as the aspect providing the most learning benefits](group-reflection-debriefing-most-learning-benefit-students.md) — related
+- [Pre-class preparation (93.5%) and instructor debriefings (93.6%) were rated highly effective](preclass-and-debrief-ratings-pilot.md) — related

@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 129 claims (57 for, 68 mixed, 4 against) · 100 studies (56 causal, 17 review, 15 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 24 of 100 report an effect size · 120 claims rest on one study
+> **Evidence** · 131 claims (58 for, 69 mixed, 4 against) · 102 studies (58 causal, 17 review, 15 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 24 of 102 report an effect size · 122 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,7 @@ Claims linked to this page later go here until they are read against the model. 
 - [There is no statistically significant difference in vocabulary post-test scores between students learning via animation and via paper-based text](../claims/animation-vs-paper-vocabulary-posttest-no-significant-difference.md) [~W] — attached 2026-11-02 from Kayaoğlu et al. (2011), which proposed "Integrate animations into language classes as an additional technique, not as a replacement for traditional methods"; tests this page's relationship.
 - [Animation-based teaching benefits high prior knowledge learners (weighted mean effect size 0.49) but not low prior knowledge learners (-0.16)](../claims/animations-effective-only-high-prior-knowledge.md) [~M] — attached 2026-11-02 from Kaushal et al. (2019), which proposed "Offer animation-based teaching only to learners who already have sufficient prior knowledge of the domain".
 - [Video annotations outperform picture and text-only annotations for learning difficult vocabulary words](../claims/video-annotations-outperform-pictures-for-difficult-words.md) [+W] — attached 2026-11-03 from Lin et al. (2012), which proposed "Use video annotations when target word meanings are difficult or unfamiliar to learners"; tests this page's relationship.
+- [Video training produces greater post-training total questionnaire score improvements than PDF training in physicians' invasive fungal disease knowledge](../claims/video-training-superior-ifd-knowledge-gains.md) [+W] — attached 2026-11-04 from Chen Yijian et al. (2026), which proposed "Incorporate video-based learning tools into medical training for complex clinical knowledge"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -213,6 +214,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Static and dynamic graphics produce equivalent learning gains for children learning from a multimedia science lesson](../claims/static-dynamic-graphics-equivalent-gains.md) [~W]
 - [No significant differences between video and presentation formats were found for the Simmons 2 and Headhunter catheters overall, or among experienced participants](../claims/no-format-difference-simmons-headhunter-experienced.md) [~W]
 - [Images significantly improve both performance and EOL judgments among non-native language speakers](../claims/images-benefit-non-native-speakers-performance-eol.md) [+W]
+- [Both groups reported difficulty translating their study resource to donor-image-based test questions, but textbook-image students reported this more often](../claims/translatability-difficulty-both-groups-textbook-more.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

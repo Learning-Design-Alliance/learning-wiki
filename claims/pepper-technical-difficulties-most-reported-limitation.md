@@ -62,3 +62,4 @@ Review synthesis of implementation issues across the 13 included studies. The re
 - [Legal and technical issues are described as the main challenges of developing and using virtual patients](vp-challenges-legal-technical.md) — related
 - [Iraqi EFL learners reported infrastructure, technology, and social barriers to flipped classroom implementation](fci-implementation-barriers-iraq.md) — a narrower finding that bears on this claim
 - [Students' critical remarks identified pedagogical shortcomings and technological challenges, and the authors suggest implementation problems may explain the limited quantitative differences](implementation-problems-explain-limited-interest-differences.md) — related
+- [Controller-operation difficulty was the most commonly reported challenge and may have impeded immersion](ncpr-vr-controller-difficulty-feedback.md) — related

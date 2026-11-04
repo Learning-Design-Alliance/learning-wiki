@@ -47,3 +47,4 @@ Latent change SEM in Phase 1 of a randomized two-phase experiment (N = 957 UK un
 ## Related Claims
 - [Changes in motivation outcomes were non-linear over six weeks, with TeachQuest sustaining interest and RJP maintaining self-efficacy](nonlinear-motivation-change-six-weeks.md) — related
 - [Both interventions produced higher meaning, mastery, and autonomy than control, but lower immersion than control for RJP](user-experience-group-differences.md) — related
+- [Both groups gained self-efficacy, but the digital RPP group improved more and more consistently](rpp-digital-platform-self-efficacy-gains.md) — related

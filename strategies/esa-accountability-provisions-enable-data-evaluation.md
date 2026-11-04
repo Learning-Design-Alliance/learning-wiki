@@ -47,6 +47,7 @@ The brief recommends that state policymakers designing or redesigning ESA progra
 ## Related Strategies
 
 - [Use transparency to promote professional accountability](use-transparency-to-promote-professional-accountability.md)
+- [Publish national data on ALS uptake, completion, delay, exemption and any association with ARCP capability sign-off to evaluate the current system.](publish-als-uptake-and-outcome-data.md)
 
 ## Examples
 -

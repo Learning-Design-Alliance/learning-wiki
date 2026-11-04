@@ -52,3 +52,4 @@ Acceptability assessment (n=13) within the pilot feasibility RCT of STORY MINE a
 - [Exploratory ITT analyses showed small to medium negative effect estimates favoring control on confidence, hope, self-stigma, and personal recovery](story-mine-negative-exploratory-effects.md) — related
 - [Excluding two participants in acute crisis reduced the negative effect estimates to very small or small](story-mine-sensitivity-crisis-exclusion.md) — related
 - [Intervention engagement (narratives consumed) showed no clear association with outcome changes](story-mine-engagement-outcome-null-association.md) — related
+- [The FC/TPS pilot demonstrated high feasibility and learner acceptability but not proven efficacy](fc-tps-pilot-feasibility-not-efficacy.md) — related

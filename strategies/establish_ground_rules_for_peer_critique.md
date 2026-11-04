@@ -60,9 +60,11 @@ Peer feedback improves achievement most when it is structured and criterion-refe
 6. Revisit and revise the norms periodically as critique becomes routine.
 
 ## Related Strategies
+
 - [Use Structured Critique Protocols](../strategies/use_structured_critique_protocols.md) — protocols operationalize the norms in a repeatable sequence
 - [Model Receiving Feedback](../strategies/model_receiving_feedback.md) — the receiving side of the same normative culture
 - [Co-Construct Rubrics](../strategies/co-construct_rubrics.md) — shared criteria give critique something specific to be grounded in
+- [Establish psychological safety through shared ground rules, confidentiality, respect, and a mistakes-as-learning philosophy during simulation-based learning](psychological-safety-ground-rules-sbl.md)
 
 ## Examples
 - **Ron Berger's Expeditionary Learning critique culture** — elementary students use "kind, specific, helpful" norms and multiple-draft critique; documented in *An Ethic of Excellence* (2003).

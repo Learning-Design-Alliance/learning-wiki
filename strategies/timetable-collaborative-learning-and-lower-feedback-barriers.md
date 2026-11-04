@@ -46,7 +46,8 @@ The article's implications section proposes three practical directions for clini
 - [Study-group membership and extracurricular participation were moderately correlated (r = 0.56), consistent with a shared scheduling constraint](../claims/study-group-extracurricular-correlation-r056.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Improve standardised nurse training through scheduled feedback mechanisms, planned rotation schedules, standardised examinations and supportive communication culture](scheduled-feedback-rotation-and-exam-improvements-strategy.md)
 
 ## Examples
 -

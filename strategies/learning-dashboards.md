@@ -75,6 +75,7 @@ Dashboards are only as effective as the self-regulatory behavior they trigger; d
 - [Use discussion analytics to alert instructors about students who may need more assistance](instructor-alerts-from-discussion-analytics.md)
 - [Provide early, proactive metacognitive support that guides feedback interpretation and strategy adjustment, beyond merely presenting performance information](early-proactive-calibration-support-tools.md)
 - [Plan a built-in stealth assessment dashboard that tracks student progress from gameplay data](stealth-assessment-dashboard-gameplay-data.md)
+- [Integrate real-time engagement analytics into large-class clinical instruction to support data-informed teaching](real-time-engagement-analytics-strategy.md)
 
 ## Examples
 - **[Open University, UK — "Student Progress Dashboard"](https://www.open.ac.uk)** — self-referenced progress indicators shown to distance learners; evaluated studies found effects depended on students' prior attainment.

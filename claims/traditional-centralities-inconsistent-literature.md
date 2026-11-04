@@ -57,3 +57,4 @@ The article's literature review (summarized in its Fig. 3) of SNA studies of cen
 - [Network measurement in undergraduate SNA research shows little consistency even when research questions overlap](inconsistent-network-measures-undergrad-sna.md) — related
 - [SNA, particularly when combined with content analysis, can provide a detailed understanding of interactions between network members, supporting optimisation of course design, learner-group composition and dropout identification](sna-combined-content-analysis-understanding-interactions.md) — related
 - [Closeness and betweenness centralities showed negative correlations with performance in approximately 4% of courses](closeness-betweenness-negative-correlations-subset.md) — related
+- [Year 2 students show significantly higher closeness and lower betweenness centrality than Year 1, with no cohort difference in in-degree](year2-higher-closeness-lower-betweenness.md) — related

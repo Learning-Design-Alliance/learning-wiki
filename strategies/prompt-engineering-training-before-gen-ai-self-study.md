@@ -51,6 +51,7 @@ The authors recommend training students on prompt engineering before deploying G
 - [Train instructional designers in prompt engineering, articulating prompt objectives, context, and example outputs to improve GenAI-assisted design](prompt-engineering-training-for-instructional-designers.md)
 - [Teach prompt engineering before programming concepts, with scaffolded guidance for novices and exploratory approaches for advanced students](prompt-engineering-curriculum-integration-strategy.md)
 - [Train students in cooperative learning before applying cooperative techniques](train-students-before-cooperative-learning.md)
+- [Introduce SDM training with an explanatory flowchart of SDM steps before chatbot practice](sdm-flowchart-orientation-before-chatbot-practice.md)
 
 ## Examples
 -

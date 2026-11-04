@@ -58,6 +58,7 @@ The article recommends embedding the standards into structured professional lear
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
 - [Provide staff and student induction and ongoing training for educational technologies in inquiry-based contexts](staff-student-induction-training-edtech-pbl.md)
 - [Train teachers and tutors on instructional use rather than device mastery, and include school-level storage and maintenance training](ict-capacity-building-instructional-focus.md)
+- [Develop structured, standardized training pathways for simulation technicians integrating technical and pedagogical domains](structured-training-pathways-simulation-technicians.md)
 
 ## Examples
 -

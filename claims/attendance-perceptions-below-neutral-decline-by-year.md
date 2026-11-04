@@ -47,3 +47,4 @@ Four-item Attendance perception scale (α = 0.726) in the cross-sectional survey
 ## Related Claims
 - [Students' perceptions of university lectures are significantly below neutral, with female students rating lectures more positively than males](ul-perceptions-below-neutral-females-higher.md) — related
 - [Students use online video lectures and textbooks significantly more frequently than university lectures, with 92.1% reporting often or always using OVL](ovl-tb-used-more-frequently-than-ul.md) — related
+- [Post-simulation satisfaction, self-confidence, and perceptions of educational practices differ significantly by academic year, with higher values among students in more advanced years and large effect sizes](sbl-satisfaction-confidence-increase-with-academic-year.md) — related

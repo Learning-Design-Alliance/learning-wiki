@@ -61,6 +61,7 @@ The review's design recommendation is that educators should not seek to replace 
 - [Incorporate puzzle-based blended learning into undergraduate EBM curricula, particularly for complex clinical reasoning and evidence appraisal skills](puzzle-blended-learning-ebm-curriculum-strategy.md)
 - [Integrate web-based case analysis tools into blended learning combining digital case-based practice with face-to-face teaching](blended-digital-analogue-case-analysis-strategy.md)
 - [Integrate AISP platforms into medical curricula as complements to traditional teaching with expanded case variety](aisp-curricular-integration-strategy.md)
+- [Combine e-learning with face-to-face practice exchange groups to develop clinical reasoning](blended-learning-for-clinical-reasoning.md)
 
 ## Examples
 -

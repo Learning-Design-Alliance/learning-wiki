@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/e-learning-no-sct-clinical-reasoning-gain.md
+---
+
+# Revision history: [claims/e-learning-no-sct-clinical-reasoning-gain](../claims/e-learning-no-sct-clinical-reasoning-gain.md)
+
+### 2026-11-04 · ingest · process:wiki-ingest
+Ingested from pmc-13267392 (Pedagogical impact of different levels of e-learning teaching during anesthesia residency: a randomized clinical trial.) via eval_harness.py + ingest_extractions.py

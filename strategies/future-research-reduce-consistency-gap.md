@@ -46,6 +46,7 @@ The authors outline methodological directions for future work: improving prompti
 ## Related Strategies
 
 - [Build infrastructure-level mechanisms to monitor, benchmark, and control LLM response behavior across model transitions in conversation-based assessment](infrastructure-mechanisms-for-llm-response-consistency.md)
+- [Caution: LLMs need consistency and accuracy improvements before large-scale adoption for clinical scoring](llm-consistency-caution-clinical-scoring.md)
 
 ## Examples
 -

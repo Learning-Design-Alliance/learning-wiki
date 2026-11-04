@@ -48,3 +48,4 @@ Scenario testing with five sixth-semester nursing students in a Skills and Simul
 ## Related Claims
 - [A simulated scenario for pediatric EVD management built with RCDP achieved excellent content validity from seven expert reviewers across two assessment rounds](rcdp-evd-scenario-content-validity.md) — related
 - [Post-shock sequence deficiencies persist regardless of instruction modification](post-shock-sequence-deficiencies-persist.md) — related
+- [Multiagent, time-synchronized FPA was implemented without device- or software-related interruption in pediatric emergency simulations](fpa-feasibility-no-interruption-pediatric-emergency-sim.md) — related

@@ -54,3 +54,4 @@ Psychometric evaluation across both subsamples assessing internal consistency, c
 - [AI literacy scales show good structural validity and internal consistency but are rarely tested for other measurement properties](ai-scales-structural-validity-strong-other-properties-untested.md) — related
 - [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related
 - [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](ct-pck-reliability-internal-consistency.md) — related
+- [The five-item PBL collaboration peer-evaluation scale demonstrates strong internal consistency](pbl-collaboration-scale-reliability.md) — a narrower finding that bears on this claim

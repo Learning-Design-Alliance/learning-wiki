@@ -50,3 +50,4 @@ Quasi-experimental study (Masoumian Hosseini et al. 2022, Iran) of 60 third-year
 - [A hospital disaster management skill training program improved nurse educators' knowledge, skills, attitudes, and behavior](hdm-skill-training-improved-nurse-educators.md) — related
 - [Structured digital-based education improved nursing students' disaster literacy and disaster preparedness beliefs](structured-digital-education-improved-disaster-literacy.md) — related
 - [Virtual reality simulation training improved reserve nurses' theoretical knowledge, emergency care capability, and total disaster preparedness, but not post-disaster management](vr-simulation-training-improved-response-capability.md) — related
+- [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — related

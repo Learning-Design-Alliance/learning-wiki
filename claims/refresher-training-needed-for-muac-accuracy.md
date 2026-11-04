@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: choo-esther-m-2026
     resource: "https://doi.org/10.1371/journal.pone.0358775"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Healthcare workers judged initial MUAC training insufficient to maintain accuracy over six months and recommended ongoing refresher training for caregivers. [→ Choo Esther M. 2026](#choo-esther-m-2026)

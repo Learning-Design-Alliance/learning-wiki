@@ -85,3 +85,4 @@ The review reports, citing Nakayama et al.'s item response theory study, that a 
 ## Related Claims
 - [Ranking-based evaluation is more reliable and less manipulable than numeric rating, whose scores are noisy, inflated, and inconsistent](ranking-more-reliable-than-rating-peer-grading.md) — related
 - [In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage](bradley-terry-model-selection-matters-more-than-source-type.md) — related
+- [Students noted inherent subjectivity in fixed numerical rating scales within the QVP](numerical-scale-subjectivity-qvp.md) — related

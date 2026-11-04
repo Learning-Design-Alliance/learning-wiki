@@ -63,3 +63,4 @@ Among 11 studies assessing knowledge or skills outcomes, the review reports that
 - [Hybrid simulation of breast examination produces better lesion reporting and malignant-feature identification than traditional teaching](hybrid-breast-exam-simulation-beats-tabletop-model.md) — related
 - [Computer/internet-based learning programs improved physical examination skill performance compared to students without IT support](computer-based-learning-improves-pe-skills.md) — related
 - [Video-assisted instruction improved CVC psychomotor skill performance one week after training, with large effect sizes](video-assisted-instruction-cvc-psychomotor-skills.md) — related
+- [Literature offers no consensus on whether video demonstration or standardized patient teaching is better for psychomotor skills, motivating direct comparison](no-consensus-vd-vs-sp-psychomotor-teaching.md) — related

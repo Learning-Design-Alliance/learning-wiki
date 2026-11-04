@@ -73,3 +73,5 @@ Exploratory Welch tests comparing reported global fit indices by dimensionality 
 - [Early numeracy shows a two-factor structure (NRS and CS) on the Dutch ENT-3, with the two-factor model outperforming a one-factor model at several time points](two-factor-structure-ent3-nrs-cs.md) — related
 - The Benefit scale's two factors (Effectiveness and Empowerment) fit satisfactorily for both groups, but their near-1.00 correlation suggests a potential unidimensional structure — related
 - The hypothesised three-variable structural model fits the survey data well across printed fit indices — related
+- [The MID competency scale showed acceptable model fit except for a mediocre RMSEA](mid-competency-instrument-model-fit.md) — a narrower finding that bears on this claim
+- [Unidimensionality of the MID competency scale was rejected](mid-competency-instrument-unidimensionality-rejected.md) — related

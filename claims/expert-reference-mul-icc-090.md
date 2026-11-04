@@ -56,3 +56,4 @@ ICC analysis of MUL measurements by two independent faculty members on the 20 te
 - [In Study 2, inter-rater agreement for rating creative problem solving ideas was good to excellent across indicators](cps-idea-ratings-good-excellent-interrater-agreement.md) — related
 - [All three online training methods significantly improved diagnostic performance for MUL measurements on prostate MRI with no significant differences between groups](online-training-improves-mul-diagnostic-performance.md) — related
 - [Both training modalities show poor interobserver reliability relative to expert reference measurements](poor-reliability-both-training-modalities.md) — related
+- [Two independent observers showed excellent interrater agreement when assessing nursing students' VAP prevention skill performance in simulation](excellent-interrater-agreement-vap-checklist.md) — related

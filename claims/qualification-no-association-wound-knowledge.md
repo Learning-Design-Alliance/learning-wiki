@@ -49,3 +49,4 @@ Bivariate chi-square analysis among 178 respondents; the article reports "X 2 = 
 - [Formal in-service wound-care training is the sole independent predictor of good theoretical knowledge](in-service-training-predicts-wound-knowledge.md) — related
 - [B.S.-degree nurses show significantly higher odds of palliative care knowledge than diploma nurses (AOR = 3.01)](bs-degree-nurses-higher-palliative-knowledge-odds-aor-3-01.md) — related
 - [Nurses begin with low baseline knowledge of diabetic foot care, and educational qualifications may moderate post-training knowledge gains](low-baseline-nurse-knowledge-moderated-by-qualification.md) — related
+- [Pre-eclampsia knowledge decline differed significantly by professional education level, with certificate holders declining more than diploma and degree holders](education-level-pre-eclampsia-knowledge-decline.md) — related

@@ -54,3 +54,4 @@ Pearson correlation analysis in the 691-student sample (Table 1) showed growth m
 - [Academic grit mediates a positive indirect effect of growth math mindset on math achievement](grit-mediation-growth-math-mindset-achievement.md) — a broader claim this one bears on
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — related
 - [Growth mindset shows a significant negative direct association with mathematics achievement and a non-significant total effect in Chinese Grade 7 students](growth-mindset-negative-direct-association-math-china.md) — reports the opposite
+- [Grit, sense of belonging, and motives for attending college showed no significant direct associations with academic achievement in this sample](grit-belonging-motives-no-achievement-association.md) — reports the opposite

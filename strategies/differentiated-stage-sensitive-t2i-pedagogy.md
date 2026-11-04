@@ -47,6 +47,7 @@ Based on the finding that students with different competence levels and risk per
 
 - [Differentiated, profile-matched university AI-readiness and career-education support instead of uniform AI-literacy programs](profile-differentiated-ai-career-education-support.md)
 - [Adopt a differentiated integration strategy for GenAI in undergraduate medical education rather than uniform adoption](differentiated-genai-integration-strategy.md)
+- [Differentiate AI-integration support by learner profile rather than applying a uniform approach](profile-differentiated-ai-integration-strategies.md)
 
 ## Examples
 -

@@ -45,6 +45,7 @@ The authors used the PEARLS (Promoting Excellence And Reflective Learning in Sim
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
 - [Include an immediate, structured debriefing session with descriptive, analysis and application phases in every high-fidelity simulation training](immediate-structured-debriefing-hf-simulation.md)
 - [Include debriefing with reflective questions after simulation sessions before receiving feedback](debriefing-before-feedback-simulations.md)
+- [Structured pre- and post-simulation assignments to consolidate clinical reasoning learning](pre-post-simulation-reflective-assignments.md)
 
 ## Examples
 -

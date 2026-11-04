@@ -50,3 +50,5 @@ Random-effects pooling of five studies on instructor supervision during procedur
 - [Confidence during procedures and positive attitudes are associated with higher clinical practice competency (AOR = 2.70)](confidence-positive-attitude-associated-competency-ethiopia.md) — related
 - [Clinical preceptor support shows the strongest association with clinical practice competency (AOR = 4.44)](preceptor-support-associated-competency-ethiopia.md) — related
 - [The pooled proportion of clinical practice competency among midwifery and nursing students in Ethiopia is 39.02%](pooled-competency-39-percent-ethiopia-nursing-midwifery.md) — related
+- [Limited instructor feedback and inadequate clinical supervision were associated with clinical skill anxiety](feedback-and-supervision-associated-with-csa.md) — related
+- [Female sex, lack of prior clinical-skills exposure, and high academic stress were associated with clinical skill anxiety](sex-exposure-stress-associated-with-csa.md) — related

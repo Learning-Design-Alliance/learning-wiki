@@ -52,3 +52,5 @@ One-month 5-point Likert satisfaction questionnaire in the RCT; Table 6 reports 
 - [Modified Peyton training takes significantly less time than traditional Peyton training](modified-peyton-shorter-training-time.md) — related
 - [At one-month follow-up the experimental group outperformed controls on six specific checklist tasks](modified-peyton-six-checklist-tasks-retention.md) — related
 - [Flipped classroom residents report higher perceived teaching effectiveness in clinical skills, learning interest, self-learning, problem-solving, and team collaboration, but not theoretical knowledge](fc-higher-perceived-effectiveness-domains.md) — related
+- [Residents taught with integrated 3D visualization and PBL report higher teaching satisfaction across most survey items](3d-visualization-pbl-higher-satisfaction-pcc.md) — related
+- [Higher engagement with case-based learning is significantly associated with greater satisfaction, better understanding, and enhanced perceived skills](cbl-engagement-associated-with-satisfaction-and-perceived-benefits.md) — related

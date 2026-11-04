@@ -73,3 +73,4 @@ Semi-structured interviews with eight purposively selected respondents, each las
 - [Treatment students perceived OAV as useful and effective, with algorithmic thinking the most frequent contribution theme (28%)](oav-perceived-contributions-seven-themes.md) — related
 - [EFL learners rated explicit strategy instruction favorably and reported increased confidence and efficiency in learning.](learners-perceive-strategy-instruction-as-useful.md) — related
 - [Students rated AI most valuable for time-efficient information gathering and complex mechanism explanation, while remaining cautious about AI information accuracy.](student-ai-perceptions-efficiency-versus-accuracy-caution.md) — related
+- [Role clarity and internal motivation are reported as motivation-related influences on EBP competence, with unclear role expectations and low volition hindering development](role-clarity-motivation-tcm-nurse-ebp.md) — related

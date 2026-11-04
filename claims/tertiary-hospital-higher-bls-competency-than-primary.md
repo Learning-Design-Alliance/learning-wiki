@@ -71,3 +71,4 @@ Multivariable linear regression for total BLS knowledge score. The article repor
 - [Defibrillation-related knowledge had the lowest domain-specific accuracy among BLS knowledge domains.](defibrillation-knowledge-lowest-domain-accuracy.md) — related
 - [Factors associated with PICC care knowledge differ across hospital levels: guidelines and training need were significant only in tertiary hospitals, while education and prior training were significant only in secondary/primary hospitals](hospital-level-stratified-picc-knowledge-factors.md) — related
 - [Nurses in tertiary hospitals scored higher on PICC care knowledge than nurses in secondary/primary hospitals](tertiary-hospital-nurses-higher-picc-knowledge.md) — related
+- [Providers working in District Hospitals/Medical Centers had higher odds of good partograph knowledge than those in Health Centers](district-hospital-higher-odds-partograph-knowledge.md) — related

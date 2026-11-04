@@ -25,7 +25,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (23 for, 8 mixed, 2 against) · 49 studies (15 review, 13 quant-synthesis, 11 causal, 4 qualitative, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 9 of 49 report an effect size · 22 claims rest on one study
+> **Evidence** · 34 claims (24 for, 8 mixed, 2 against) · 50 studies (15 review, 13 quant-synthesis, 11 causal, 4 qualitative, 3 design, 2 associational, 2 theoretical), `q1`–`q4` · 9 of 50 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,7 @@ A good debrief conversation, a correct stated change, the next performance, dela
 - [Roundtable debriefing in the emergency department produced no statistically significant reduction in patient fall rates](../claims/roundtable-debriefing-no-fall-reduction.md) [-W]
 - [Trainees valued grief training activities involving reflection, debriefing with peers and the direct involvement of bereaved caregivers](../claims/trainees-value-reflective-and-bereaved-caregiver-involvement.md) [+W]
 - [CHW trainees value real-time SP feedback and debriefing for refining MI techniques and deepening learning](../claims/chws-value-sp-feedback-and-debriefing-in-mi-simulation-training.md) [+W]
+- [Pre-class preparation (93.5%) and instructor debriefings (93.6%) were rated highly effective](../claims/preclass-and-debrief-ratings-pilot.md) [+W]
 
 ## Related Principles
 - [Purposeful Reflection](reflection.md) — debriefing is one of the most structured forms of reflection after action

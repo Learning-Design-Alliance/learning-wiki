@@ -54,3 +54,5 @@ Observational analysis of betweenness centrality correlations with performance a
 - [In a correlation meta-analysis across 69 course offerings, diffusion-based centralities correlated with academic achievement with high combined coefficients and predictive intervals](diffusion-centralities-meta-analysis-achievement.md) — related
 - [Betweenness centrality has a lower combined correlation (r=0.38) than degree centralities with a small lower predictive interval bound](betweenness-centrality-lower-correlation.md) — related
 - [Closeness and betweenness centralities showed negative correlations with performance in approximately 4% of courses](closeness-betweenness-negative-correlations-subset.md) — related
+- [In Year 1, no centrality metric was significantly associated with CGPA](year1-centrality-cgpa-null.md) — related
+- [Year 2 students show significantly higher closeness and lower betweenness centrality than Year 1, with no cohort difference in in-degree](year2-higher-closeness-lower-betweenness.md) — related

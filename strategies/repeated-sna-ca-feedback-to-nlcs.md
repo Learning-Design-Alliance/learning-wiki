@@ -42,6 +42,7 @@ The authors recommend that networked learning communities be given feedback from
 ## Related Strategies
 
 - [Support novice online teachers by introducing them to a larger pedagogical framework within which design decisions can be located](novice-online-teacher-pedagogical-framework-support.md)
+- [Network-aware PBL facilitation: use SNA indicators to diagnose isolation and distribute participation](network-aware-pbl-facilitation.md)
 
 ## Examples
 -

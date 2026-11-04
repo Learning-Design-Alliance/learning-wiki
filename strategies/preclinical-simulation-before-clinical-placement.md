@@ -44,7 +44,8 @@ The article recommends that simulation precede real clinical practice: the major
 - [Total perception score correlates positively with total outcome score (r = 0.709) and total satisfaction score (r = 0.740)](../claims/perception-correlates-outcome-satisfaction-simulation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use repeated practice sessions with structured feedback to develop preclinical rest seat preparation skills](repeated-practice-sessions-rest-seat-skills.md)
 
 ## Examples
 -

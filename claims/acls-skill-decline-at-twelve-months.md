@@ -69,3 +69,4 @@ Descriptive trends in CPR and defibrillation initiation times across the follow-
 - [Evidence on SBL retention of knowledge and skills is mixed and limited to two-to-five-month follow-ups](sbl-retention-mixed-limited-followup.md) — related
 - [Mannequin and combined simulation groups maintain consistently higher non-technical skill scores than the computer group across all five follow-up assessments](nontechnical-advantage-persists-across-timepoints.md) — related
 - [Mannequin-based and combined simulation produce higher non-technical skill scores than computer simulation alone after ACLS training](scenario-simulation-beats-computer-for-nontechnical-skills.md) — related
+- [The largest 12-month between-group difference in ALS performance is in non-technical skills, favouring low-dose high-frequency training](ldhf-als-largest-gain-non-technical-skills.md) — related

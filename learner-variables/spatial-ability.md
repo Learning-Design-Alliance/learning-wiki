@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 101 claims (68 show a difference, 22 mixed, 11 no difference) · 62 studies (24 causal, 18 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 16 of 62 report an effect size · 100 claims rest on one study
+> **Evidence** · 102 claims (69 show a difference, 22 mixed, 11 no difference) · 63 studies (25 causal, 18 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 16 of 63 report an effect size · 101 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -137,6 +137,7 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Gains in drawing the sub-microscopic level of changing states of matter after a courseware unit did not differ significantly between male and female students](../claims/courseware-reduces-visual-spatial-gender-gap.md) [~W] — spatial ability not measured: the authors interpret equal gender gains in drawing particles as a narrowed visual-spatial gap, which the study did not test
 - [Mental rotation training did not generalize to a broader spatial relations test](../claims/no-transfer-spatial-relations-pma.md) [-M] — instruction changes it
 - [Baseline visuospatial ability independently predicted final camera navigation and hand–eye coordination performance](../claims/baseline-visuospatial-ability-predicts-laparoscopic-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Students using the 3D model reported higher confidence, greater ability to visualize spatial relationships, and greater enjoyment than textbook-image students](../claims/3d-model-higher-confidence-visualization-enjoyment.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

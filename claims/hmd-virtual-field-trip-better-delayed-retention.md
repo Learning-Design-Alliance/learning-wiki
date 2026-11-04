@@ -55,3 +55,5 @@ Independent-samples t-test (Hypothesis 5) on the delayed posttest after the full
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
 - [Upper basic students taught Basic Technology practical skills via field trip scored higher on a post-test than students taught by expository method](field-trip-beats-expository-basic-technology.md) — related
 - [The keyword method group significantly outperformed the traditional group on a delayed recall posttest three weeks later](keyword-method-delayed-recall-advantage.md) — related
+- [Screen-based 360° contextual simulation videos yield higher posttest Student Satisfaction and Self-Confidence in Learning scores than dose-matched 2D videos](360-video-higher-scls-nursing.md) — related
+- [Screen-based 360° contextual simulation videos yield higher posttest Simulation Design Scale scores than dose-matched 2D instructional videos in undergraduate nursing students](360-video-higher-sds-nursing.md) — related

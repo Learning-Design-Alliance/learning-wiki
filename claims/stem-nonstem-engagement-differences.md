@@ -69,3 +69,4 @@ Process mining on STEM and non-STEM subgroups showed STEM students more likely t
 - [Students at highly selective institutions show more deep and routine-learning engagement and less exam-driven engagement with a GenAI Tutor](selectivity-engagement-quality-differences.md) — related
 - [Shallow, copy-pasting engagement occurred but was not the dominant mode of GenAI Tutor use, and was lowest during exam preparation](shallow-engagement-not-dominant-mode.md) — related
 - [Shallow engagement with a GenAI Tutor persists over time, while deep engagers transition flexibly across engagement types](shallow-engagement-persists-deep-flexible.md) — related
+- [48.6% of students adopted new study methods in response to pre-class testing](pre-class-tests-prompt-study-strategy-adaptation.md) — related

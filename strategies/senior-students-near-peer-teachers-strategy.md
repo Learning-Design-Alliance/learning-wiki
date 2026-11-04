@@ -45,7 +45,8 @@ A strategy in which senior medical students, with a junior resident, deliver sim
 - [Near-peer teaching is reported to foster a comfortable learning environment and reinforce concepts for student-teachers](../claims/near-peer-teaching-comfortable-environment.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Rotate learners through junior and senior interprofessional roles across simulation scenarios](rotate-interprofessional-roles-across-simulation-scenarios.md)
 
 ## Examples
 -

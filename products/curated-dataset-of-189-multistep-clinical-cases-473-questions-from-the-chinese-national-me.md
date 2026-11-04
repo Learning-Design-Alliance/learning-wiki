@@ -24,7 +24,8 @@ A physician-annotated Chinese-language dataset of 189 sequential clinical cases 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Validated 9,800-question NNLE evaluation corpus (2022–2025)](validated-9800-question-nnle-evaluation-corpus-20222025.md)
 
 ## Key Sources
 - Cha J, Zhao Y, Zong H. (2026). Large Language Model Performance on Multistep Clinical Cases: Comparative Study Across Question and Case Levels. JMIR Medical Education. https://doi.org/10.2196/95342

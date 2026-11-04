@@ -49,3 +49,4 @@ Single-group post-intervention usability study of 35 critical-care graduate heal
 - [The seven-item AR usability questionnaire showed high internal consistency (α = 0.97) that may reflect item redundancy](ar-usability-questionnaire-high-alpha-redundancy.md) — related
 - [Three comparative studies reported superior outcomes for distance simulation over traditional training, involving augmented reality telementoring, remote robotic teaching, and a virtual classroom](distance-simulation-superior-outcomes-three-studies.md) — related
 - [Augmented reality tabletop exercises enhanced immersion and engagement but showed limited usability](ar-tabletop-exercises-enhanced-engagement-limited-usability.md) — related
+- [The FC/TPS pilot demonstrated high feasibility and learner acceptability but not proven efficacy](fc-tps-pilot-feasibility-not-efficacy.md) — related

@@ -53,3 +53,7 @@ Dimension-level teaching satisfaction results in the same assessor-blinded RCT o
 - [BOPPPS with virtual simulation improves humanistic care ability overall (d = 0.46), with gains in cognition and patience but not courage](boppps-virtual-simulation-humanistic-care.md) — related
 - [Teaching satisfaction is significantly higher with BOPPPS plus virtual simulation (98.3% vs. 86.7%)](boppps-virtual-simulation-teaching-satisfaction.md) — related
 - [Residents in the modified Peyton group report higher teaching satisfaction across all surveyed dimensions](modified-peyton-higher-satisfaction.md) — related
+- [Integrating 3D visualization reconstruction with PBL improves practical surgical operation assessment scores versus lecture-based learning](3d-visualization-pbl-higher-practical-scores-pcc.md) — related
+- [Residents taught with integrated 3D visualization and PBL report higher teaching satisfaction across most survey items](3d-visualization-pbl-higher-satisfaction-pcc.md) — related
+- [Working time and satisfaction do not differ between interactive and passive e-learning groups](e-learning-working-time-satisfaction-no-difference.md) — reports the opposite
+- [Humanistic care-integrated Mini-CEX teaching improves humanistic care ability across cognition, courage, and patience dimensions](mini-cex-humanistic-care-ability-gains.md) — related

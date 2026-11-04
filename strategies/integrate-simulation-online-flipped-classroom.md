@@ -47,6 +47,7 @@ The article recommends leveraging the demonstrated advantages of interactive sim
 ## Related Strategies
 
 - [Integrate synchronous discussion tools into online flipped learning environments to maximize engagement and self-regulation](integrate-synchronous-discussion-flipped-learning.md)
+- [Integrate interactive digital tools into large-enrollment courses to teach conceptually demanding content where lab access is limited](digital-tools-for-large-enrollment-conceptually-dense-content.md)
 
 ## Examples
 -

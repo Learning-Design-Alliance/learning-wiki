@@ -76,3 +76,4 @@ The structural model retained a significant direct path after including the thre
 - [Misalignment profiles predict growth-oriented disengagement: students can endorse self-change while withdrawing when routes are perceived as infeasible](misalignment-profiles-predict-growth-oriented-disengagement.md) — related
 - [Student-perceived cognitive activation partially mediates the relation between student-observed learning activities and students' effort in learning](cognitive-activation-mediates-icap-effort-relation-distance-teaching.md) — related
 - [The direct association between teacher support and mathematics achievement becomes non-significant after including mathematics anxiety and learning engagement, indicating full mediation.](full-mediation-no-direct-effect-teacher-support-achievement.md) — related
+- [Academic motivation indirectly predicts cognitive engagement through enhanced perceived school support](am-indirect-effect-ces-via-pss.md) — related

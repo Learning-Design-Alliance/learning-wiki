@@ -49,3 +49,4 @@ Random-effects meta-analysis of 10 RCTs assessing procedural skills. Pooled SMD=
 - [Virtual simulations and mannequins or real persons show no significant difference in fostering clinical reasoning, but the evidence is inconclusive](vs-mannequin-rp-no-difference-clinical-reasoning.md) — related
 - [Virtual simulations and mannequins or real persons show no significant difference in improving knowledge in medical and nursing education](vs-mannequin-rp-no-difference-knowledge.md) — related
 - [Virtual simulations and real persons show no significant difference in enhancing communication skills](vs-rp-no-difference-communication-skills.md) — related
+- [A meta-analysis of 12 medical simulation studies found proficiency-based progression training reduces procedural errors by 60%, procedure time by 15%, and increases correctly executed steps by 47% versus conventional simulation](pbp-meta-analysis-errors-time-steps.md) — related

@@ -61,3 +61,4 @@ One cross-sectional study (Ye et al., China) synthesized narratively: "significa
 - [Early clinical exposure in undergraduate dental education shows evidence of effectiveness in knowledge, psychomotor skills, and affective domains](ece-dental-effectiveness-cognitive-psychomotor-affective.md) — related
 - [Early preclinical exposure group outperformed late exposure group on theory, OSCE communication, and empathy measures](epce-higher-theory-osce-empathy-scores.md) — related
 - [Empathy levels among medical students show equivocal trajectories across educational years, with significantly lower levels reported in 14 of 30 studies and higher, mixed or unchanged levels in the remainder](medical-student-empathy-trajectory-equivocal.md)
+- [Both groups' JSPE-HPS scores increased over time, suggesting a general effect of theoretical empathy education](jspe-time-effect-both-groups.md) — related

@@ -57,6 +57,7 @@ The article recommends integrating a digital chronic disease management platform
 - Ihec Digital Platform Element
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Integrate real-time engagement analytics into large-class clinical instruction to support data-informed teaching](real-time-engagement-analytics-strategy.md)
 
 ## Examples
 -

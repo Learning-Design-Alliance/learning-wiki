@@ -53,3 +53,5 @@ A 10-item self-developed questionnaire administered to all 50 residents showed t
 - [Residents taught with CBL plus 3D reconstruction report higher satisfaction than residents taught with traditional lectures across all five survey domains](cbl-3d-reconstruction-higher-satisfaction-liver-ultrasound.md) — related
 - [Students taught with the 5E+AI model reported significantly higher learning interest, self-perceived communication competence, and course satisfaction](5e-ai-model-improved-self-report-questionnaire-dimensions.md) — related
 - [Students in the CBL group report higher satisfaction across all evaluated domains than the LBL group](cbl-higher-student-satisfaction.md) — related
+- [Residents taught with integrated 3D visualization and PBL report higher teaching satisfaction across most survey items](3d-visualization-pbl-higher-satisfaction-pcc.md) — related
+- [Higher engagement with case-based learning is significantly associated with greater satisfaction, better understanding, and enhanced perceived skills](cbl-engagement-associated-with-satisfaction-and-perceived-benefits.md) — related

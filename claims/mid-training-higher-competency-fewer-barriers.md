@@ -52,3 +52,4 @@ Multiple linear regression from the cross-sectional survey; the abstract reports
 - [Graduates from public universities show higher MID skills and attitudes scores and fewer barriers than private-university graduates](public-university-graduates-mid-advantage.md) — related
 - [Younger dentists report fewer barriers to practicing MID](younger-dentists-fewer-mid-practice-barriers.md) — related
 - [Adequate remuneration is the only barrier item dentists most commonly identified as an obstacle to practicing MID](remuneration-barrier-mid-practice.md) — related
+- [Systematic reviews show a gap between dentists' MID knowledge and clinical practice](mid-knowledge-practice-gap.md) — related

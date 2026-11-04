@@ -56,3 +56,4 @@ Stepwise regression on survey data from 210 Iranian EFL learners (convenience sa
 - [Criterion measures, attitudes towards learning English, instrumentality promotion, and ideal L2 self are the strongest predictors of L2 self-efficacy](strongest-motivation-predictors-of-self-efficacy.md) — related
 - [Learning motivation is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models](learning-motivation-positive-ai-english-acceptance.md) — related
 - [Self-efficacy is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models](self-efficacy-positive-ai-english-acceptance.md) — related
+- [Learners' motivation and goals to learn English is the most critical sub-indicator for blended MOOC implementation](learner-motivation-top-priority-bmooc.md) — related

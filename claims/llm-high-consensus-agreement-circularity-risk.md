@@ -59,3 +59,4 @@ ing good agreement with the consensus."
 - [Teachers systematically assign higher grades than all evaluated LLM grading models](teachers-grade-higher-than-all-llm-models.md) — related
 - [The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain](judge-calibration-labels-strong-severity-uneven.md)
 - [Evaluator-agent scores agreed closely with a 16-rater human consensus benchmark for both MI (ICC(2,1)=0.959) and CBT (ICC(2,1)=0.934)](evaluator-agrees-with-human-rater-consensus.md) — related
+- [ChatGPT LLM scores showed only moderate agreement with human transcript scores.](llm-moderate-agreement-human-scores.md) — related

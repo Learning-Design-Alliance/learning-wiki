@@ -80,3 +80,4 @@ Across the regression analyses in the same survey, "students who reported higher
 - [Academic achievement predicts disaffection but not behavioral/cognitive or emotional engagement at the between-student level](achievement-predicts-disaffection-not-engagement.md) — related
 - [Classroom disciplinary problems are directly and negatively related to student achievement and to competence self-perceptions, test anxiety, and engagement](discipline-problems-negatively-related-achievement-motivation.md) — related
 - [Positive motivational beliefs are associated with high-level learning strategies, consistent with Pintrich and García's self-regulated learning proposal](motivation-cognition-patterns-srl.md) — related
+- [Engagement score, quiz completion rate, and assessment format independently predict answer accuracy in multivariate regression](multivariate-predictors-answer-accuracy.md) — related

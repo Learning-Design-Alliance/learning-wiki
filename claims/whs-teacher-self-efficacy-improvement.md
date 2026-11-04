@@ -50,3 +50,4 @@ A randomized controlled trial with 70 K-3 classrooms (37 intervention, 33 contro
 - [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related
 - [Within the experimental group, self-efficacy rose significantly from pretest to posttest and follow-up, with no significant drop from posttest to follow-up](experimental-group-within-group-self-efficacy-gain.md) — related
 - [Both Blended and Behavioral professional development training significantly increased teachers' knowledge, self-efficacy, and self-reported use of instructional methods compared with a no-training control](blended-and-behavioral-pd-increase-teacher-knowledge-efficacy-use.md) — related
+- [Both groups gained self-efficacy, but the digital RPP group improved more and more consistently](rpp-digital-platform-self-efficacy-gains.md) — related

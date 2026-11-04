@@ -47,3 +47,4 @@ The article's analysis of practical barriers states that "Most clinical precepto
 ## Related Claims
 - [Classic Mini-CEX systematically overlooks OHL communication practices in pediatric pneumonia education](mini-cex-blind-spot-ohl-communication.md) — related
 - [Self-reported preparedness and familiarity rose by an average of 75% from before to after peer-led SMA clinical outcome assessment workshops among 79 Canadian clinical evaluators, in an uncontrolled pre-post survey](sma-coa-workshops-75-percent-preparedness-increase.md) — related
+- [Time-consuming assessment and manual documentation plus heavy clinical workload were primary obstacles to implementing mini-CEX and DOPS](mini-cex-dops-time-burden-primary-obstacle.md) — related

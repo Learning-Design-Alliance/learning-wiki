@@ -49,3 +49,4 @@ Quasi-experimental single-group pre-post study of 271 MBBS learners. Paired t-te
 - [Individual learner responses to the DCBL intervention were highly heterogeneous across all three case domains](heterogeneous-individual-sct-responses-dcbl.md) — related
 - [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — related
 - [The UTI case showed a statistically significant domain-specific SCT improvement, while URTI and diarrhoea cases showed no significant change](uti-case-significant-sct-improvement.md) — related
+- [Interactive e-learning does not improve clinical reasoning measured by script concordance test compared with passive e-learning](e-learning-no-sct-clinical-reasoning-gain.md) — related

@@ -59,3 +59,4 @@ Intervention adherence assessed using platform-generated learning records and in
 - [Medical imaging interns receiving the SPOC-based blended package report higher self-directed learning ability than controls, with the experimental mean near the scale ceiling](spoc-blended-package-higher-self-directed-learning.md) — related
 - [Medical imaging interns receiving the SPOC-based blended package report higher teaching satisfaction than controls, with a marked ceiling pattern in the experimental group](spoc-blended-package-higher-teaching-satisfaction.md) — related
 - [Lay health care workers report high engagement with and satisfaction toward blended digital training in low-resource settings](digital-training-high-engagement-satisfaction.md) — related
+- [All 32 certified perinatal professionals completed the self-directed NCPR-VR workflow (100% completion rate)](ncpr-vr-100-percent-completion.md) — related

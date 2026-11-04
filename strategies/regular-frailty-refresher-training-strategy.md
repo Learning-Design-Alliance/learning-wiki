@@ -45,6 +45,7 @@ Based on the graded association between recency of frailty education and KAP sco
 ## Related Strategies
 
 - [Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components](cpr-education-reinforcement-based-design-strategy.md)
+- [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
 
 ## Examples
 -

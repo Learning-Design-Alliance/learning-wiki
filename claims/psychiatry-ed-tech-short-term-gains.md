@@ -54,3 +54,4 @@ Systematic review per PRISMA searching five databases to May 2025; nine studies 
 - [Evidence on long-term retention and transfer of clinical communication skills to clinical practice remained inconsistent or lacking across included reviews](vp-communication-long-term-retention-transfer-inconsistent.md) — a broader claim this one bears on
 - [Confidence gains after brief RaT workshops do not automatically translate into improved teaching performance](confidence-gains-not-translate-performance.md) — related
 - [Virtual patient simulations for SUD training report positive learning outcomes across the 12 included studies](vp-sud-simulations-positive-learning-outcomes.md) — a narrower finding that bears on this claim
+- [Comprehensive data linking simulation training to patient outcomes, complication rates, and long-term skill retention are lacking](simulation-skill-transfer-outcomes-lacking.md) — related

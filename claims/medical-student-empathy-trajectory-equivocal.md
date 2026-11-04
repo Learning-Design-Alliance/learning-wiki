@@ -56,3 +56,4 @@ Systematic review of 30 quantitative studies (24 cross-sectional, 6 longitudinal
 - [Self-administered and observed empathy measures can yield opposite trajectories during clinical training, as one longitudinal study found declining self-reported but improving observed empathy](self-report-versus-observed-empathy-divergence.md)
 - [Only three of nine cross-sectional studies found an association between empathy scores and a preference for people-orientated specialties](specialty-preference-empathy-weak-association.md)
 - [Early clinical exposure is associated with higher empathy scores regardless of gender and academic year](ece-higher-empathy-scores.md)
+- [Both groups' JSPE-HPS scores increased over time, suggesting a general effect of theoretical empathy education](jspe-time-effect-both-groups.md) — a narrower finding that bears on this claim

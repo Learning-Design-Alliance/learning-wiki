@@ -50,3 +50,4 @@ Bootstrapped path analysis (1,000 draws) using factor scores from the 414-studen
 ## Related Claims
 - [Global perceived-SEC is positively associated with autonomous motivation, introjected motivation, and prosocial behavior, and negatively with conduct problems](global-perceived-sec-predicts-motivation-and-behaviors.md) — a broader claim this one bears on
 - [Perceived competence for social regulation negatively predicts external motivation and conduct problems, and perceived competence for tolerance positively predicts autonomous motivation](specific-perceived-sec-dimensions-unique-associations.md) — related
+- [Academic motivation indirectly predicts cognitive engagement through enhanced perceived school support](am-indirect-effect-ces-via-pss.md) — related

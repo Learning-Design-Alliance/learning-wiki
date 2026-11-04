@@ -47,3 +47,4 @@ Self-rating survey of the 21 students at the end of the intervention. The articl
 ## Related Claims
 - [An AI-supported four-stage training framework was associated with significant improvement in overall teaching competence among prosthodontics graduate students.](ai-training-framework-improves-teaching-competence-prosthodontics.md) — a broader claim this one bears on
 - [Students taught with the 5E+AI model reported significantly higher learning interest, self-perceived communication competence, and course satisfaction](5e-ai-model-improved-self-report-questionnaire-dimensions.md) — related
+- [Participants rated NCPR-VR highly useful and were willing to recommend it (median 5 of 5 on both)](ncpr-vr-usefulness-recommend-medians.md) — related

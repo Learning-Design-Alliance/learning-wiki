@@ -49,3 +49,4 @@ Narrative synthesis of questionnaire studies in the review; this entry reports t
 - [High authenticity simulations show higher effects than low authenticity simulations](high-authenticity-simulations-higher-effects.md) — a broader claim this one bears on
 - [N-vinyl-2-pyrrolidone-embalmed donors showed significantly greater abdominal response to CO2 insufflation than formalin-embalmed donors, suggesting better suitability for laparoscopic simulation](pyrrolidone-greater-insufflation-response-than-formalin.md) — related
 - [Soft-embalmed body donor models remain usable over prolonged sequential use without perceived tissue deterioration](soft-embalmed-prolonged-reuse-feasible.md) — a narrower finding that bears on this claim
+- [Trainees rated both case-specific and generic-anatomy 3D-printed models highly for realism, planning, and preparedness despite objective transfer differences](high-perceived-realism-both-model-types.md) — related

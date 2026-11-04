@@ -63,3 +63,4 @@ Authors' conclusion to the teacher-role theme of the interview study. A student 
 - [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](bounded-reliance-hybrid-feedback-preference.md) — related
 - [AR reduces reliance on instructor supervision and enables autonomous laparoscopic practice](ar-reduces-instructor-reliance-autonomous-practice.md) — related
 - [Learners in both teaching models interacted mostly with TAs and peers rather than with the instructor](learners-interact-mostly-tas-peers-not-instructor.md) — related
+- [Immediate feedback and self-reflection-driven engagement shifted novice nurses from passive to active participation in learning](mini-cex-dops-self-reflection-active-engagement.md) — related

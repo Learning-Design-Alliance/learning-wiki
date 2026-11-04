@@ -47,3 +47,4 @@ The trial reported no statistically significant differences among the video-assi
 ## Related Claims
 - [Both PBL formats improve knowledge versus conventional teaching](pbl-improves-knowledge-versus-conventional-teaching.md) — related
 - [Video-assisted PBL yields higher pediatric nursing knowledge than traditional PBL and conventional teaching](video-assisted-pbl-higher-pediatric-knowledge.md) — related
+- [The two groups were comparable in gender, age, and educational background before instruction](3d-visualization-pbl-groups-comparable-baseline.md) — related

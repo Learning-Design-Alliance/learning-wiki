@@ -51,3 +51,4 @@ Follow-up ICC analyses rerunning Prompt 3 with ChatGPT 4.0 (agreement ICC = 0.74
 - [The best prompt showed excellent test-retest reliability (intrarater consistency ICC = 0.89) when rerun in ChatGPT 3.5](llm-grading-excellent-intrarater-consistency.md) — related
 - [A teacher without IELTS-specific training showed poorer grading consistency than the best LLM prompt condition](teacher-grading-poorer-consistency-than-llm.md) — related
 - [Automated grading achieves excellent agreement with human grading (ICC = 0.893)](automated-grading-excellent-agreement-icc-0893.md) — related
+- [Transcript scores showed good agreement with video-based scores (ICC 0.830).](transcript-video-good-agreement-icc-0830.md) — related

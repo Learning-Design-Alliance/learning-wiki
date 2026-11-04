@@ -89,3 +89,4 @@ Independent samples t-test on pre-test scores in the quasi-experimental study (n
 - [Weekly pre-test scores showed no significant treatment-control differences in eight of ten weeks; control scored higher in the first two weeks (p<.05)](equity-pedagogy-pretest-equivalence-eight-of-ten-weeks.md) — related
 - [The contextual and structural groups were statistically equivalent on the pretest before instruction](pretest-equivalence-contextual-structural-groups.md) — related
 - [Experimental and control groups showed no significant difference in numeracy and science achievement at pre-test](ict-preschool-pretest-equivalence.md) — related
+- [No significant difference in baseline pre-studying test scores between the 3D Model Group and the Textbook Image Group](no-baseline-score-difference-3d-vs-textbook-groups.md) — related

@@ -18,7 +18,7 @@ sources:
 # Unidimensional Rasch model scaling
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 9 claims (6 for, 3 mixed) · 6 studies (3 associational, 2 design, 1 causal), `q2`–`q3` · 0 of 6 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (7 for, 3 mixed) · 7 studies (4 associational, 2 design, 1 causal), `q2`–`q3` · 1 of 7 report an effect size · 10 claims rest on one study
 
 ## Description
 All MAP tests assume a single latent achievement factor and are scaled on the unidimensional Rasch model with the RIT scale, linearly transformed from logits (RIT = logit x 10 + 200). The article's stated rationale is that "Rasch model has unique properties over other models", including sufficiency, separability, specific objectivity, and latent additivity, and that the model preserves the interpretability of the construct map and item order across the person-location range.
@@ -27,6 +27,7 @@ All MAP tests assume a single latent achievement factor and are scaled on the un
 <!-- How each source describes or uses the method -->
 - **Unidimensional Rasch model scaling of MAP scores on the RIT scale**: All MAP tests assume a single latent achievement factor and are scaled on the unidimensional Rasch model with the RIT scale, linearly transformed from logits (RIT = logit x 10 + 200). The article's stated rationale is that "Rasch model has unique properties over other models", including sufficiency, separability, specific objectivity, and latent additivity, and that the model preserves the interpretability of the construct map and item order across the person-location range. (Shudong Wang et al. (2013))
 - **Item response theory using a Rasch model for evaluating ultrasound competency assessment**: The article applies item response theory using a 1-parameter Rasch model to estimate item difficulty and student ability in a practical ultrasound assessment. The authors state that "The application of the 1-parameter Rasch model proved to be a robust methodological choice for this cohort (n=68); its mathematical parsimony allowed for stable and reliable estimates of item difficulty and student proficiency even in samples of modest size." The framework requires assumptions of unidimensionality, local independence, and parameter invariance. (Fernández-Carnero Samuel et al. (2026))
+- **Rasch Learning Gain: a psychometric benchmark for estimating learning gain**: Rasch Learning Gain is defined as the difference between estimated posttest and pretest latent abilities (RLG=(θpost−θpre)) on the Rasch measurement scale, serving as an estimate of individual learning gain across an instructional intervention. The article applied the dichotomous 1-parameter logistic Rasch model with conditional maximum likelihood estimation for item parameters and maximum likelihood estimation for person abilities. Because the Rasch model allows estimation of individual students' abilities independently of the specific test items used, it is widely applied in educational measurement and medical education research, and served as the benchmark method in this study. (Rauf A et al. (2026))
 
 ### Claims
 - [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](../claims/map-cat-unidimensional-factor-structure.md) [+M]
@@ -38,6 +39,7 @@ All MAP tests assume a single latent achievement factor and are scaled on the un
 - [Point measure correlations were unchanged by the difficulty adjustment because the new person ability estimates are linear transformations of the old ones](../claims/map-k2-point-measure-correlations-unchanged.md) [~W]
 - [The Rasch assessment model demonstrates high discriminative performance with area under the curve of 0.93](../claims/rasch-model-high-discriminative-performance.md) [+M]
 - [Item response theory analysis identifies image optimization, structure diameter, and structure surface distance as the most difficult assessment items](../claims/irt-identifies-most-difficult-ultrasound-items.md) [+M]
+- [Both WGS and RLG detect the same significant interaction between teaching format and learning disposition in the empirical dataset](../claims/wgs-rlg-same-interaction-effect.md) [+M]
 
 ## Related Research Methods
 -
@@ -46,6 +48,7 @@ All MAP tests assume a single latent achievement factor and are scaled on the un
 - Shudong Wang, Marty McCall, Hong Jiao, & Gregg Harris. (2013). Construct Validity and Measurement Invariance of Computerized Adaptive Testing: Application to Measures of Academic Progress (MAP) Using Confirmatory Factor Analysis. Journal of Educational and Developmental Psychology, 3(1). https://doi.org/10.5539/jedp.v3n1p88
 <!-- merged 2026-10-10 from theories/rasch-unidimensional-scaling-rit-map ("Unidimensional Rasch model scaling of MAP scores on the RIT scale"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Fernández-Carnero Samuel, Diaz-Pulido Belen, Méndez-Rodriguez Jorge, Pecos-Martin Daniel, Garcia-Miguel Santiago, Achalandabaso-Ochoa Alexander, Cuenca-Zaldívar Nicolas, Naranjo-Cinto Sr Fermín. (2026). Digital Simulation–Based Ultrasound Training for Physiotherapy Students: Prospective Randomized Controlled Trial. JMIR Medical Education. https://doi.org/10.2196/87897
+- Rauf A, Backhaus J, Hammer S, König S. (2026). Comparing the Weighted Gain Score and a Rasch-Based Approach for Estimating Learning Outcomes in Medical Education: Quantitative Study. JMIR Medical Education. https://doi.org/10.2196/75516
 
 # Unidimensional Rasch model scaling of MAP scores on the RIT scale
 

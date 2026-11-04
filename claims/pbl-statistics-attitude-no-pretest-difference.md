@@ -57,3 +57,4 @@ Independent two-sample t-test on pre-test Rasch scores of 35 intervention and 35
 - [The experiment and control groups were equivalent on the triangles achievement test before instruction](triangles-pretest-equivalence-groups.md) — related
 - [Control and experimental groups did not differ significantly in pre-test attitude towards mathematics after homogeneity matching](matched-groups-no-pretest-attitude-difference.md) — related
 - [Game-based and traditional-instruction students show no significant difference in learning achievement at pre-test](game-vs-traditional-no-pretest-difference-system-analysis.md) — related
+- [No significant difference in baseline pre-studying test scores between the 3D Model Group and the Textbook Image Group](no-baseline-score-difference-3d-vs-textbook-groups.md) — related

@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 94 claims (64 show a difference, 20 mixed, 10 no difference) · 46 studies (15 review, 15 associational, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 14 of 46 report an effect size · 94 claims rest on one study
+> **Evidence** · 101 claims (69 show a difference, 21 mixed, 11 no difference) · 49 studies (18 associational, 15 review, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 16 of 49 report an effect size · 101 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -129,6 +129,13 @@ Personality traits are relatively stable individual differences, most often meas
 - [Comfort in group learning settings is negatively associated with neuroticism after Bonferroni correction](../claims/comfort-group-learning-negative-neuroticism-correlation.md) [+M] — learners who differ on it differ in outcomes
 - [Exploratory cluster analysis identifies two student profiles differing in neuroticism/self-efficacy, comfort, and learning success](../claims/cluster-analysis-two-student-profiles.md) [~W] — learners who differ on it differ in outcomes
 - [Neuroticism and self-efficacy are substantially negatively correlated](../claims/neuroticism-self-efficacy-negative-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [AI-context variables and personality traits add incremental variance to self-directed learning beyond covariates, but personality-trait × AI-dimension interactions add only a substantively small increment](../claims/hierarchical-regression-incremental-variance-sdl.md) [~M] — an instructional effect differs with it
+- [Conscientiousness, self-esteem, openness, and self-control each positively predict self-directed learning among Chinese medical undergraduates, with conscientiousness showing the largest effect](../claims/personality-traits-positive-predict-sdl-medical-undergraduates.md) [+M] — learners who differ on it differ in outcomes
+- [Grit, sense of belonging, and motives for attending college showed no significant direct associations with academic achievement in this sample](../claims/grit-belonging-motives-no-achievement-association.md) [-M] — learners who differ on it differ in outcomes
+- [Interpersonal self-control was positively associated with academic achievement among Chilean university students](../claims/interpersonal-self-control-positive-achievement-association.md) [+M] — learners who differ on it differ in outcomes
+- [Resilience correlates positively with satisfaction domains; pandemic-related concerns associate with lower satisfaction](../claims/resilience-satisfaction-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Self-directed learning correlates positively with conscientiousness, openness, self-esteem, AI cognition, and subjective norms, while self-control correlates negatively with subjective norms](../claims/spearman-correlations-sdl-personality-ai-dimensions.md) [+M] — learners who differ on it differ in outcomes
+- [Work self-control showed a small but significant negative association with academic achievement among Chilean university students](../claims/work-self-control-negative-achievement-association.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

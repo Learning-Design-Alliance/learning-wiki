@@ -79,3 +79,4 @@ Same Haataja et al. naturalistic eye-tracking study; gaze expressing communion e
 - [Student-started eye contacts occur when teacher agency is low, and their durations increase as teacher agency decreases](student-started-eye-contacts-low-agency.md) — related
 - [The relation between eye contact and teacher interpersonal behavior differed between teachers: Joanne's agency effect was opposite and Lily's communion effect was non-significant](teacher-differences-gaze-interpersonal.md) — a narrower finding that bears on this claim
 - [Teacher gazes at student faces and teacher-started eye contacts occur during high teacher agency, and teacher-started eye contacts are shorter when agency is higher](teacher-gazes-high-agency.md) — a narrower finding that bears on this claim
+- [The expert leader established eye contact with team members more frequently during direct orders](fpa-expert-eye-contact-during-direct-orders.md) — a narrower finding that bears on this claim

@@ -76,3 +76,4 @@ Same interview study: participants with strong expectations for how work is done
 - [ND and NT students both prefer some instructor involvement and in-person collaboration over fully student-directed and online collaboration](nd-nt-prefer-some-instructor-involvement-in-person.md) — related
 - [Neurodivergent students prefer teams of 3–5 students while neurotypical students most prefer teams of 2](nd-prefer-teams-of-3-to-5-nt-prefer-pairs.md) — related
 - [The authors suggest incorporating scholarship on the challenges of active learning into courses may help students reflect on their own discomfort and resistance](explicit-engagement-with-al-challenges-scholarship-suggestion.md) — related
+- [Coping with technical failures, equipment operation, and computer use are the most valued technician skills](top-skills-simulation-technician-poland.md) — related

@@ -101,6 +101,8 @@ Role play is a form of situated, active practice: it requires learners to *perfo
 - [Use standardized patient social history encounters, reflective writing, and a mini-OSCE practice to teach SDH history collection](sp-social-history-reflective-writing-mini-osce-strategy.md)
 - [Use linear virtual patients as a substitute or supplement to role-play, not as the sole method](virtual-patients-substitute-supplement-roleplay.md)
 - [Use AI-simulated audiences to give students safe, repeated low-stakes communication practice](ai-simulated-audiences-low-stakes-communication-practice.md)
+- [Use student standardized patients with role rotation and multi-source debriefing in scenario-based skills training](ssp-role-rotation-debriefing-strategy.md)
+- [Use standardized patients with structured training and consistent role portrayal across simulation sessions](standardized-patients-structured-training-consistent-portrayal.md)
 
 ## Examples
 - **Corporate customer-service training** — agents rehearse handling an angry customer while a peer plays the customer from a brief; the debrief names specific de-escalation moves observed

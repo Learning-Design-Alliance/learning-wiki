@@ -47,6 +47,7 @@ The article recommends that "future studies should use size‐matched randomized
 
 - [Future research should include long-term RCTs with adequate sample sizes, standardized outcome measures, and cost-effectiveness analyses](strategy-long-term-rcts-standardized-outcomes-arvr.md)
 - [Prioritize rigorous VR training studies with larger samples, validated outcome measures, immersive designs, and LLM integration in mental health education research](future-vr-mental-health-research-recommendations.md)
+- [Class-level randomization with blinded examiners for comparing instructional methods across intact student groups](class-level-randomization-strategy.md)
 
 ## Examples
 -

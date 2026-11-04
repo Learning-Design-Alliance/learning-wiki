@@ -64,3 +64,5 @@ The review reports behavioural improvement "across study designs", with ratings 
 - [Video-group students scored higher than audio-group students on all observed instructional-process aspects (motivation, response, teamwork, participation)](video-higher-process-observation-means.md) — related
 - [App use shows no clear difference in teamwork (TEAM) or non-technical skills (ANTS) scores](app-no-team-ants-difference.md) — related
 - [SBS-trained students show higher non-technical skills (ANTS) overall, driven by teamwork and situation awareness but not task management or decision-making](sbs-higher-ants-teamwork-situation-awareness.md) — a narrower finding that bears on this claim
+- [Ottawa GRS scores rated both leaders within the competent range while TEAM scores differentiated the expert and novice leaders more clearly](ottawa-grs-versus-team-score-differentiation.md) — related
+- [Multidisciplinary simulation increased nontechnical self-efficacy by 0.3 points on a 4-point scale](simulation-increased-nontechnical-self-efficacy-otolaryngology.md) — related

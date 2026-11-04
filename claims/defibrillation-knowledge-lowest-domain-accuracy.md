@@ -50,3 +50,4 @@ Domain-specific analysis of 20-item BLS knowledge questionnaire responses from 2
 - [Only 40.26% of surveyed healthcare professionals met the criterion for high knowledge-based BLS competency (score ≥80 points).](40-percent-high-bls-knowledge-competency.md) — related
 - [Item-level BLS knowledge accuracy varied considerably, with the lowest accuracy on airway-management, defibrillation, and quality-control items.](item-level-bls-accuracy-varies-considerably.md) — related
 - [Healthcare professionals in tertiary hospitals had significantly higher odds of high knowledge-based BLS competency than those in primary hospitals.](tertiary-hospital-higher-bls-competency-than-primary.md) — related
+- [A cross-sectional study of junior doctors found confidence was high for basic CPR tasks and lower for advanced interventions such as defibrillation and administration of resuscitation drugs.](junior-doctors-confidence-basic-cpr-higher-than-advanced.md) — related

@@ -56,3 +56,4 @@ Multi-institutional survey across 10 Bangladeshi universities (n=73 analyzed her
 - [Frequent generative AI use enhances perceived confidence and efficiency but increases technological dependence among university students](genai-self-efficacy-paradox-technological-dependence.md) — related
 - [Perceived collaboration among peers positively predicts academic engagement, but competitive climates can undercut collaboration](peer-collaboration-predicts-engagement.md) — related
 - [True attrition in competitive programming is preceded by an 83.71% reduction in monthly contest participation](contest-participation-decline-precedes-cp-attrition.md) — related
+- [Year 1 students scored significantly higher on the peer collaboration scale than Year 2 students](year1-higher-collaboration-score.md) — related

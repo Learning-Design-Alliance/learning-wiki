@@ -55,3 +55,4 @@ The review reports, citing Pavo et al. (2016), that in a two-rescuer scenario wi
 - [All feedback, whether human or device-based, improves performance in cardiac arrest simulation education](all-feedback-improves-cardiac-arrest-simulation-performance.md) — related
 - [Compression depth and ventilated volume declined over twelve months in nursing students without monthly VAM practice, and differed from those who practised monthly](monthly-practice-depth-volume-decline.md) — related
 - [Final-year dental students show insufficient competence in AED use under conventional voice prompts in a simulated cardiac arrest scenario](dental-students-insufficient-aed-competence-conventional-prompts.md) — related
+- [Survival to discharge after treated in-hospital cardiac arrest in the UK is reported at 25.8%, compared with 23.6% in earlier UK summaries, but these are system indicators, not training indicators.](uk-in-hospital-arrest-survival-system-indicator.md) — related

@@ -13,7 +13,7 @@ generated:
 # Inferencing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 47 claims (35 show a difference, 8 mixed, 4 no difference) · 28 studies (19 causal, 4 review, 4 associational, 1 design), `q1`–`q4` · 7 of 28 report an effect size · 46 claims rest on one study
+> **Evidence** · 48 claims (36 show a difference, 8 mixed, 4 no difference) · 29 studies (20 causal, 4 review, 4 associational, 1 design), `q1`–`q4` · 8 of 29 report an effect size · 47 claims rest on one study
 
 ## Description
 Inferencing is the work a reader does to supply meaning a text does not state outright: linking one sentence to another, connecting the text to what the reader already knows or has experienced, and adding what is learned to existing knowledge. It supports reading comprehension, and the Learner Variability Navigator notes that it develops with age, moving from inferences drawn from within the text towards deeper inferences that draw on the reader's own knowledge. It is usually assessed through comprehension questions that ask for information the text implies rather than states; LVN lists no dedicated measure for it.
@@ -83,6 +83,7 @@ It matters most in middle and high school, where subject-specific texts assume b
 - [Within the eco-hunt group, all six science process skill dimensions improved significantly, with classifying improving most (39.3%) and predicting least (9.2%)](../claims/sps-dimension-gains-classifying-most-predicting-least.md) [+M] — instruction changes it
 - [Reading strategies training also improves inferential reading comprehension of elementary-proficiency EFL vocational students](../claims/strategies-training-improves-inferential-comprehension-efl.md) [+M] — instruction changes it
 - [Students began making estimates and inferences during the project interviews, suggesting growth in scientific process skills](../claims/deaf-students-process-skills-growth-interviews.md) [+W] — instruction changes it
+- [Case-based inference accuracy was significantly higher in the AI-enhanced group than in both comparison groups](../claims/ai-enhanced-higher-case-inference-accuracy.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 <!-- The Learner Variability Navigator lists no measures for this factor. -->

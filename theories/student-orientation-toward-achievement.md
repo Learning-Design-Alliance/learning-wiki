@@ -12,7 +12,7 @@ generated:
 # Student Orientation Toward Achievement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (1 for, 4 mixed) · 5 studies (3 associational, 1 causal, 1 review), `q2`–`q3` · 1 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (1 for, 5 mixed) · 6 studies (4 associational, 1 causal, 1 review), `q2`–`q3` · 1 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 Students' motivation can be decomposed along two independent spectrums: how strongly they are motivated to *approach success*, and how strongly they are motivated to *avoid failure* (Bohlin, 2011). Crossing these two spectrums yields four student profiles, closely paralleling the approach/avoidance distinction in [Goal Orientation Theory](goal-orientation-theory.md).
@@ -57,6 +57,7 @@ To protect a sense of self-worth, both failure-avoiding and failure-accepting st
 - [Motivational profiles were associated with mental effort while studying the video modeling examples, but not with posttest mental effort](../claims/motivational-profile-mental-effort.md) [+W]
 - [Self-handicapping decreases effort to protect self-worth, in contrast to defensive pessimism](../claims/self-handicapping-versus-defensive-pessimism.md) [~W]
 - [Familial resemblance in profile membership appears only for high performers; struggling profiles show child-specific influences](../claims/familial-resemblance-only-high-performers.md) [~W]
+- [Academic performance did not significantly predict membership in any of the four latent psychosocial profiles among Chilean university students](../claims/academic-performance-did-not-predict-profile-membership.md) [~W]
 
 ## Related Theories
 - [Goal Orientation Theory](goal-orientation-theory.md) — success-oriented students closely resemble a mastery-approach orientation; overstrivers resemble performance-approach mixed with performance-avoidance; failure-avoiding students resemble performance-avoidance and failure-avoidant goals directly

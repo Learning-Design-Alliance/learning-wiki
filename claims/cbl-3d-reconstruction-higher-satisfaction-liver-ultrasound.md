@@ -52,3 +52,8 @@ In this single-center RCT, 60 residents were randomized 1:1 after a pre-course t
 - [PBL-CBL teaching increases residents' learning interest, initiative, and critical thinking compared with traditional teaching](pbl-cbl-increases-interest-initiative-thinking.md) — related
 - [In the same RCT, the experimental group reported higher scores than the control group across all five dimensions of teaching satisfaction (all P < 0.05)](pbl-virtual-simulation-satisfaction-all-dimensions-trauma-orthopedics.md) — related
 - [Residents in the modified Peyton group report higher teaching satisfaction across all surveyed dimensions](modified-peyton-higher-satisfaction.md) — related
+- [Integrating 3D visualization reconstruction with PBL improves practical surgical operation assessment scores versus lecture-based learning](3d-visualization-pbl-higher-practical-scores-pcc.md) — related
+- [Residents taught with integrated 3D visualization and PBL report higher teaching satisfaction across most survey items](3d-visualization-pbl-higher-satisfaction-pcc.md) — related
+- [Integrating 3D visualization reconstruction with PBL improves theoretical examination scores versus lecture-based learning in pheochromocytoma training](3d-visualization-pbl-higher-theoretical-scores-pcc.md) — related
+- [3D visualization technology supports doctor-patient communication in resident training](3d-visualization-supports-doctor-patient-communication.md) — related
+- [The experimental group scored substantially higher on subjective clinical case analysis questions (28.5 ± 3.2 vs 21.3 ± 4.1, P < 0.001) than on objective memory questions (15.2% gain)](ai-kg-clinical-case-analysis-gain.md) — related

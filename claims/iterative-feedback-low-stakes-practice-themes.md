@@ -68,3 +68,4 @@ The article reports, immediately after a student's account of iterative re-testi
 - [Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent](reflection-themes-copilot-comment-workflow.md) — related
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related
 - [Case analysis assistance and Socratic dialogue simulation dominated GenAI usage, and dialogue-based interaction patterns were associated with better outcomes than passive use](genai-usage-patterns-dialogue-effective.md) — related
+- [Immediate feedback and self-reflection-driven engagement shifted novice nurses from passive to active participation in learning](mini-cex-dops-self-reflection-active-engagement.md) — related

@@ -56,3 +56,4 @@ The review reports, from Sakowitz et al.'s randomized controlled trial comparing
 - [No significant difference was found between the traditional-method control group and the VRS experimental group on any of five phlebotomy performance metrics measured on actual patients](no-significant-difference-traditional-vs-vrs-phlebotomy-metrics.md) — related
 - [Metaverse-based interactive VR instruction is associated with higher overall anatomy test performance than a conventional 2D online lecture](metaverse-vr-higher-overall-anatomy-test-performance.md) — reports the opposite
 - [No clear differences in ALS performance metrics in the asystole scenario between groups](app-no-asystole-performance-difference.md) — related
+- [Improvement in overall scores did not differ significantly between digital and conventional training groups](no-group-session-interaction-overall-scores.md) — related

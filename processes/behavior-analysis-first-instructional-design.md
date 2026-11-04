@@ -17,7 +17,7 @@ sources:
 # Analyze terminal behavior and objectives before manipulating teaching methods in instructional design
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 33 claims (20 for, 12 mixed, 1 against) · 33 studies (20 causal, 8 associational, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 3 of 33 report an effect size · 33 claims rest on one study
+> **Evidence** · 34 claims (20 for, 13 mixed, 1 against) · 34 studies (21 causal, 8 associational, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 3 of 34 report an effect size · 34 claims rest on one study
 
 ## Description
 Glaser's design orientation sets a task sequence: specify the terminal performance standard, determine student entry characteristics and prerequisites, construct procedures and materials to move the learner from one state to the other with provisions for motivation, and assess achieved competence against criteria. He argues analysis of behavior has been neglected yet has been the most influential element in recent instructional improvements, more so than manipulations of teaching method.
@@ -72,6 +72,7 @@ Glaser's design orientation sets a task sequence: specify the terminal performan
 - [Baseline knowledge did not differ between early and mid academic year residents, suggesting routine exposure is inadequate](../claims/no-baseline-difference-academic-year.md) [+W]
 - [Prior angiography experience, not instructional format, showed the most consistent association with objective performance](../claims/experience-most-consistent-performance-predictor.md) [+W]
 - [Baseline positioning performance was equivalent across all three groups and indicated a need for change](../claims/baseline-equivalent-need-for-change.md) [+W]
+- [Interns have higher baseline paediatric BLS knowledge than nurses](../claims/interns-higher-baseline-bls-knowledge-than-nurses.md) [~W]
 
 ## Related Principles
 - 

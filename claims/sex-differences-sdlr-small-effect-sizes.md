@@ -52,3 +52,4 @@ Cross-sectional ANOVA comparing male and female students across all preclinical 
 - [SDL-R in preclinical medical students declines modestly in M1 Spring and then recovers through year two, with gains concentrated at curricular transition points](sdlr-transient-m1-spring-decline-recovery.md) — related
 - [Female learners show a small but statistically significant advantage over males in L2 learning achievement (g = 0.17)](small-female-advantage-l2-achievement-meta-analysis.md) — related
 - [Males show a statistically significant but practically negligible advantage on WISC Full-Scale IQ (d = 0.09), which becomes non-significant with newer WISC versions](wisc-fsiq-negligible-male-advantage.md) — related
+- [Female sex is associated with lower probability of adequate academic performance among medical students in Lima](female-sex-lower-adequate-performance-medical-students.md) — related

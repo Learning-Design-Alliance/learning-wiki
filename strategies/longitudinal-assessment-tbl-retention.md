@@ -42,6 +42,7 @@ The article recommends that future studies assess knowledge retention and clinic
 - [Use faculty development workshops to standardize TBL facilitation with diverse team composition and case integration](faculty-development-tbl-facilitation.md)
 - [Evaluate CBCL implementations with objective outcomes, longitudinal follow-up, and controlled designs](cbcl-future-evaluation-strategy.md)
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
+- [Use longitudinal approaches combining repeated exposure, clinical case discussions, and practical application to translate knowledge into practice](longitudinal-repeated-exposure-knowledge-translation.md)
 
 ## Examples
 -

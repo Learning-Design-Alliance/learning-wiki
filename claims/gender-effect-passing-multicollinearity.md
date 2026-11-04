@@ -68,3 +68,4 @@ In the combined regression the gender coefficient was insignificant; the authors
 - [Gender/sex predicted reporting that getting help from peers increased self-efficacy when modeled alone, but this relationship was attenuated after accounting for initial self-efficacy](gender-predicts-peer-help-attenuated-by-initial-efficacy.md) — related
 - [Students' prior GPA positively predicts the probability of passing the class for at-risk students](prior-gpa-predicts-passing-at-risk.md) — related
 - [Passing rate is significantly positively correlated with advising, GPA, and gender among at-risk students](passing-correlations-advising-gpa-gender.md) — possibly the same claim (merge candidate)
+- [Female pharmacy students show better antifungal stewardship practice adherence than male students](female-students-better-practice-adherence-antifungal.md) — related

@@ -75,3 +75,5 @@ Same Mini-CEX assessment in the RCT. Two domains showed "no statistically signif
 - [No significant difference between PBL-CBL and traditional groups in post-class basic knowledge or skills scores](pbl-cbl-no-difference-basic-knowledge-skills-scores.md) — related
 - [AI-assisted PBL-CBL combined teaching raises medical interns' theoretical examination scores in post-herpetic neuralgia compared with lecture-based teaching](ai-pbl-cbl-improves-theoretical-examination-scores.md) — related
 - [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related
+- [AI simulation improves Mini-CEX medical interviewing skills and organization/efficiency but not professionalism, clinical judgment, counseling, or overall competence](ai-simulated-patient-minicex-domains-gynecology.md) — related
+- [Humanistic care-integrated Mini-CEX teaching improves Mini-CEX scores and comprehensive course performance but not the personal traits dimension](mini-cex-humanistic-care-minicex-course-gains.md) — related

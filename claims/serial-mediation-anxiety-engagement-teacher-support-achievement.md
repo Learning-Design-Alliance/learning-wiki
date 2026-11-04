@@ -51,3 +51,4 @@ Bootstrap SEM serial mediation analysis (10,000 resamples, 95% CI) in Mplus 8.3 
 ## Related Claims
 - [Learning engagement mediates the association between teacher support and mathematics achievement.](learning-engagement-mediation-teacher-support-achievement.md) — related
 - [Mathematics anxiety mediates the association between teacher support and mathematics achievement.](math-anxiety-mediation-teacher-support-achievement.md) — related
+- [A serial chain through psychological state then behavioral engagement mediates exam success (10.8% of total effect)](serial-chain-psychological-state-behavioral-engagement.md) — related

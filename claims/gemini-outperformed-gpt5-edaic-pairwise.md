@@ -51,3 +51,4 @@ EDAIC analysis of 219 questions answered by 4 LLMs, using Friedman and Wilcoxon 
 - [Proprietary LLM architectures showed consistently higher mean accuracy than open-source architectures on the EBHS examination, with GPT-5 Pro the leading model at 85% accuracy.](proprietary-llms-outperform-open-source-ebhs.md) — related
 - [Hallucination rates ranged from 11% to 20.1% across LLMs without significant intermodel differences](hallucination-rates-11-20-percent-no-model-differences.md) — related
 - [Gemini 2.5 Pro achieved the highest accuracy (92.44%) on pediatric dentistry DUS questions, significantly outperforming most other LLMs](gemini-2-5-pro-highest-accuracy-pediatric-dus.md) — related
+- [No statistically significant performance gap existed between Turkish and English administration of the same radiology questions to ChatGPT-5 and Gemini 2.5 Pro](no-language-gap-turkish-english-llm-radiology-accuracy.md) — related

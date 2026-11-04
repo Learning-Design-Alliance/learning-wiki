@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 148 claims (90 for, 53 mixed, 5 against) · 111 studies (46 associational, 34 causal, 22 review, 4 quant-synthesis, 4 design, 1 theoretical), `q1`–`q3` · 29 of 111 report an effect size · 146 claims rest on one study
+> **Evidence** · 149 claims (91 for, 53 mixed, 5 against) · 112 studies (46 associational, 34 causal, 22 review, 5 design, 4 quant-synthesis, 1 theoretical), `q1`–`q3` · 29 of 112 report an effect size · 147 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -195,6 +195,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [PFA training improved nursing students' self-efficacy in disaster intervention and perception of disaster preparedness](../claims/pfa-training-improved-student-self-efficacy-preparedness.md) [+W]
 - [A video-based climate change program improved nursing students' climate change perceptions, environmental self-efficacy, and reduced climate anxiety, with large effects](../claims/video-based-climate-program-large-effects-students.md) [+W]
 - [Self‐reported self‐efficacy questionnaires may not reflect actual teaching behaviour quality](../claims/self-report-self-efficacy-may-not-reflect-teaching-behaviour.md) [~W]
+- [Multidisciplinary simulation increased technical self-efficacy by 0.5 points on a 5-point scale, except tracheostomy suctioning](../claims/simulation-increased-technical-self-efficacy-otolaryngology.md) [+W]
 
 ## The evidence by question
 

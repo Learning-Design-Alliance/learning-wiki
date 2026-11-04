@@ -75,3 +75,4 @@ Multiple linear regression for the perceived knowledge‐and‐beliefs domain; a
 - [Improvements in suturing skills are not significantly associated with age, seniority or previous training history](suturing-gain-unrelated-to-age-seniority-history.md) — reports the opposite
 - [Demographic and professional factors explain only 1.8% of variance in perceived competency, whereas internal psychological factors raise explained variance to 76.5%](psychological-factors-outperform-demographics-predicting-competency.md) — related
 - [Significant differences in patient-centered medication management by age and experience, but not overall competence](age-experience-differences-patient-centered-medication-management.md) — related
+- [Experience variables did not predict post-training VAP knowledge-based competence](experience-did-not-predict-post-training-vap-knowledge.md) — related

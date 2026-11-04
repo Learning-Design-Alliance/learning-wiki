@@ -67,3 +67,4 @@ Mixed between-within ANOVA on the facilitation checklist in the same RCT; note d
 - [A 40-hour critical thinking workshop intervention significantly increases educators' use of higher-order questions compared with a control group](ct-workshop-increases-higher-order-questions.md) — related
 - [The intervention does not significantly change the total number of questions educators ask](ct-workshop-no-change-total-questions.md) — related
 - [The intervention significantly increases educators' use of lecture with slide presentation relative to control](ct-workshop-increases-slide-lecturing.md) — related
+- [ICM students rated the teacher significantly higher on encouraging critical engagement, questions and student-centred learning](icm-higher-teacher-ratings-dental.md) — a broader claim this one bears on

@@ -63,6 +63,7 @@ The review enumerates crucial considerations for maximizing CBL's potential: "en
 - [Provide sufficient pre-class preparation time and adjust teaching based on ongoing trainee feedback](sufficient-pre-class-time-ongoing-feedback-strategy.md)
 - [Balance active-learning formats by matching cognitive demands across comparison conditions](matched-cognitive-demands-active-learning-formats.md)
 - [Implement CBL with institutional faculty support, clinician facilitators, authentic multimodal cases, preparation incentives and a safe group environment while avoiding behaviour-only assessment](cbl-implementation-strategy-realist-review.md)
+- [Implement faculty development programs, systematic curriculum integration, and student orientation to maximize case-based learning benefits](cbl-structured-implementation-strategy.md)
 
 ## Examples
 -

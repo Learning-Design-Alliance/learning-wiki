@@ -63,3 +63,4 @@ Latent profile analysis was applied to action-control belief scales (agency beli
 - [Cluster analysis of medical students' emotions after diagnostic tasks reveals three distinct emotion clusters](three-emotion-clusters-diagnostic-tasks.md) — related
 - [Latent profile analysis of 750 online undergraduates identifies five distinct SRL profiles, including a qualitatively distinct low-regulators-with-limited-social-skills profile](five-srl-profiles-online-math-course.md) — related
 - [K-means clustering of LMS log data identified two distinct SRL profiles (high and low) among online students](two-srl-profiles-from-lms-log-clustering.md) — related
+- [Latent profile analysis identifies four AI-context learner subgroups — Active Adopters, Cognitively Advanced but Constrained, Passive Followers, and Disengaged — with markedly different self-directed learning levels](four-latent-profiles-ai-context-sdl.md) — related

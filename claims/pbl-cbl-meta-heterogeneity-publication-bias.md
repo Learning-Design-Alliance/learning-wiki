@@ -78,3 +78,4 @@ Trim-and-fill analysis for theoretical scores (with 5 virtual studies added). Th
 - [Removing 5 heterogeneous studies leaves the PBL advantage intact (SMD 0.79) with reduced heterogeneity, and the Liu et al study most affects stability](sensitivity-analysis-pbl-pooled-smd-stable.md) — related
 - [The pooled VR score effect is robust to study removal and shows no significant publication bias](vr-anatomy-effect-robust-no-publication-bias.md) — related
 - [IWCL+CBL students score higher on practical subject examinations but not on the theoretical examination](iwcl-cbl-higher-practical-subject-scores.md) — related
+- [Sensitivity analyses suggest limited impact of short-term non-adherence: high-adherence students scored 84.4 versus 81.6 for low-adherence students, who comprised 5.6% of the experimental group](ai-kg-adherence-sensitivity-analysis.md) — related

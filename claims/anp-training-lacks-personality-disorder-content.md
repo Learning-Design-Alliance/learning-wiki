@@ -51,3 +51,4 @@ In semi-structured interviews with 10 female trainee ANPs in Northern Ireland, t
 - [Placement experiences with limited mental health exposure represent a missed opportunity to build confidence in personality disorder care.](limited-clinical-placement-exposure-to-pd.md) — related
 - [Trainee ANPs perceive that individuals with personality disorder attend services mainly in crisis, though this may reflect limited awareness of subtle presentations rather than actual absence.](anps-perceive-pd-crisis-only-attendance.md) — related
 - [Prenatal clinicians describe inadequate, generic, and disengaging TIC training relying heavily on self-directed learning](inadequate-generic-tic-training-prenatal.md) — related
+- [None of the participating nursing faculty received institutionally structured training in soft skills pedagogy, leaving teaching dependent on individual initiative](no-institutional-soft-skills-training-faculty.md) — possibly the same claim (merge candidate)

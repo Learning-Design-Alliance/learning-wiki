@@ -75,3 +75,4 @@ Case-wise bootstrap comparison of semantic network modularity for the two school
 - [Montessori and traditional groups produced similar total verbal fluency responses, but Montessori children produced more unique responses](montessori-more-unique-verbal-fluency-responses.md) — related
 - [Both groups' empirical semantic network measures differ from random networks, and the groups were matched on demographics and nonverbal intelligence](network-measures-differ-from-random-groups-matched.md) — related
 - [Montessori-educated children outperform those in traditional schools in mathematics with an effect size of 0.22, according to a recent systematic review of 12 baseline-equivalent studies](montessori-maths-outperforms-traditional-es-022.md) — related
+- [Year 2 PBL collaboration networks are denser, more transitive, and have shorter average path lengths than Year 1 networks](year2-pbl-networks-denser-more-transitive-shorter-paths.md) — related

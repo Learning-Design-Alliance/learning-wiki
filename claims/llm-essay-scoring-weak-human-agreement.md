@@ -70,3 +70,4 @@ Evaluation of six GPT and Llama models prompted out-of-the-box to score essays o
 - [Agreement between AI-generated competency scores and human ratings was mixed across studies, with some reporting moderate to strong agreement and others showing score inflation and inconsistent performance](ai-ssp-score-agreement-with-human-ratings-mixed.md) — related
 - [LLM-generated essay scores correlated moderately to strongly with expert human assessor scores](llm-essay-scoring-correlates-with-experts.md) — reports the opposite
 - [AI showed moderate to high correlations with human evaluators for essay grading and thematic analysis](ai-moderate-high-correlation-human-essay-grading.md) — reports the opposite
+- [ChatGPT LLM scores showed only moderate agreement with human transcript scores.](llm-moderate-agreement-human-scores.md) — reports the opposite

@@ -57,3 +57,4 @@ MANOVA on CCTDI pretest/posttest scores across the three instructional groups sh
 - [Cognitive Maturity disposition scores significantly declined during the WISE Agent intervention, interpreted as de-centering of naive optimism](wise-agent-cognitive-maturity-decline.md) — related
 - [WISE Agent feedback significantly increased Truth-seeking and CT Self-confidence disposition scores](wise-agent-truth-seeking-self-confidence-gains.md) — related
 - [AI-enabled personalized teaching improved several CTDI-CV subdimensions but not critical thinking self-confidence or cognitive maturity](ctdi-cv-subdimension-effects-mixed.md) — related
+- [Digital RPP improves critical thinking disposition more than traditional group practice](rpp-digital-platform-critical-thinking-gains.md) — related

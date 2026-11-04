@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 83 claims (41 for, 39 mixed, 3 against) · 59 studies (31 causal, 14 review, 9 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 17 of 59 report an effect size · 75 claims rest on one study
+> **Evidence** · 87 claims (45 for, 39 mixed, 3 against) · 60 studies (32 causal, 14 review, 9 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 18 of 60 report an effect size · 79 claims rest on one study
 
 ## Description
 
@@ -177,6 +177,9 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [The spacing benefit on quiz performance is larger for lower-ability students than for higher-ability students](../claims/spacing-benefit-larger-lower-ability.md) [~W] — attached 2026-10-26 from Paulo F. Carvalho et al. (2020), which proposed "Use spaced study as a buffer that improves performance for lower-ability students and those who do not engage in active practice"; tests this page's relationship.
 - [High-order rule learning in the long ASRT task increases during rest periods and decreases during practice](../claims/high-order-rule-learning-offline-during-rest.md) [+W] — attached 2026-10-26 from Romain Quentin et al. (2021), which proposed "Design training so that rest periods follow practice when high-order rule consolidation is the goal, since different learning subcomponents develop at different times".
 - [Expanding spaced schedule not significantly more effective than intensive schedule for collocation learning](../claims/spacing-no-advantage-collocations.md) [~W] — attached 2026-11-03 from Snoder (2017), which proposed "Instructors need not space out collocation exposures; intensive schedules suffice"; tests this page's relationship.
+- [Low-dose, high-frequency ALS training yields higher overall simulation-based resuscitation performance scores at 12 months than annual full-day training](../claims/ldhf-als-higher-overall-performance-12-months.md) [+M] — attached 2026-11-04 from Moll Lisa et al. (2026), which proposed "Replace infrequent intensive refresher courses with regular short scenario-based sessions with feedback for maintaining resuscitation competence"; tests this page's relationship.
+- [The largest 12-month between-group difference in ALS performance is in non-technical skills, favouring low-dose high-frequency training](../claims/ldhf-als-largest-gain-non-technical-skills.md) [+M] — attached 2026-11-04 from Moll Lisa et al. (2026), which proposed "Replace infrequent intensive refresher courses with regular short scenario-based sessions with feedback for maintaining resuscitation competence"; tests this page's relationship.
+- [Low-dose high-frequency training shortens time to key resuscitation interventions, including CPR initiation, rhythm analysis, supraglottic airway insertion and hands-off time](../claims/ldhf-als-shorter-time-to-interventions.md) [+M] — attached 2026-11-04 from Moll Lisa et al. (2026), which proposed "Replace infrequent intensive refresher courses with regular short scenario-based sessions with feedback for maintaining resuscitation competence"; tests this page's relationship.
 
 ## Source verification and open tests
 
@@ -487,6 +490,7 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 - [Offline change in general skill between sessions 12 h apart was significant, but between sessions a week apart was not](../claims/long-offline-general-skill-12h-not-week.md) [~W]
 - [Concentrated high-duration virtual reality training (>30 h over several weeks) was associated with reduced complication rates, while spaced-out simulator sessions were not](../claims/concentrated-vrs-training-reduces-complications.md) [-W]
 - [Cognitive psychology reviews show spacing effects are robust and the optimal inter-study interval scales with the retention interval](../claims/optimal-isi-scales-with-retention-interval-cognitive-reviews.md) [~W]
+- [Defibrillation-related and CPR-related domain scores are also significantly higher after low-dose high-frequency ALS training](../claims/ldhf-als-defibrillation-cpr-domain-gains.md) [+W]
 
 ## Key Sources
 

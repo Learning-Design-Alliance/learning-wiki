@@ -68,3 +68,4 @@ The review's synthesis of 15 included studies (two RCTs, one quasi-experimental,
 - [An in-situ simulated patient environment improved knowledge and attitude scores across all professional groups](in-situ-simulated-patient-environment-improved-knowledge-attitude.md) — related
 - [Most participants reported perceived competency gains in interprofessional collaboration, communication, teamwork and empathy, and professional knowledge and skills](mcleims-perceived-competency-gains.md) — a narrower finding that bears on this claim
 - [Providers reported increased skill, knowledge, and confidence after training interventions](provider-confidence-knowledge-skill-increased-after-training.md) — a narrower finding that bears on this claim
+- [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) — related

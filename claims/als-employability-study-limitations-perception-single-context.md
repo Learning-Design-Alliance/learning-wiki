@@ -50,3 +50,4 @@ Authors' stated limitation in the discussion: the quantitative analysis is based
 - [Self-report measures of SRL capture perceptions of strategy use rather than implementation quality, and a combined trace-data approach may be best](self-report-srl-limitations-combined-approach.md) — related
 - [Questionnaire data may capture learners' perceptions rather than the strategies they actually performed](questionnaires-measure-perception-not-performed-strategies.md) — related
 - [The authors identify open questions: cultural and social background effects and skill-specific self-efficacy effects of self-assessment remain uninvestigated](self-assessment-self-efficacy-open-questions.md) — related
+- [The curriculum's generalizability is limited by a single-institution convenience sample and reliance on self-efficacy measures](otolaryngology-simulation-self-efficacy-study-limitations.md) — a narrower finding that bears on this claim

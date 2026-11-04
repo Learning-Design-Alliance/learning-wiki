@@ -77,3 +77,4 @@ One-way repeated-measures ANOVA on experiment-1's pre-test, post-test and retent
 - [Students' reading and writing scores improved significantly from pre-test to post-tests in all three classes](cle-peer-teaching-reading-writing-gains.md) — related
 - [Within-group gains over time occurred in both groups for academic performance, but only the embodied learning group showed significant within-group gains in attitudes and self-efficacy.](el-within-group-gains-three-outcomes.md) — related
 - [Repeated measures ANOVA confirms significant within-group improvement over time in both intervention groups but not control](repeated-anova-within-group-improvement.md) — related
+- [Both teaching methods produced statistically significant pretest-to-posttest knowledge gains, with no significant difference in posttest scores between groups](pretest-posttest-gains-both-methods-no-posttest-difference.md) — related

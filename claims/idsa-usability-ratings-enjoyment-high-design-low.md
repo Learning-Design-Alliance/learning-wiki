@@ -60,3 +60,4 @@ Questionnaire evaluation within the field test, using six Likert-scale usability
 - [Students gave positive feedback on DPP and rated guided problem solving highly, but hints, chat, and participation-rate display were rated less useful](student-feedback-dpp-sceppsys.md) — related
 - [The inCarne VR prototype received descriptively positive user experience ratings across all AttrakDiff dimensions, with attractivity scoring highest (M = 1.71, SD = 0.59)](incarne-vr-positive-user-experience-attractivity-highest.md) — related
 - [Students rate the AISP chatbot highly usable, with robotic conversational style the most common concern](aisp-cortex-usability-cuq-findings.md) — related
+- [Peer discussion received the lowest positive rating (74.2%) of the intervention components](peer-discussion-lowest-rating-pilot.md) — related

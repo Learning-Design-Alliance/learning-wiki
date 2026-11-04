@@ -52,3 +52,4 @@ Forward-selection regression models built per site on log-derived features predi
 - [Help-seeking models transfer above chance across sites but perform poorly on the Costa Rican data](help-seeking-model-transfer-mixed.md) — related
 - [Pre-test score differences do not explain the cross-cultural differences in effective help-seeking behaviors](pretest-does-not-explain-cultural-differences.md) — related
 - [The Philippines has the highest degree of linguistic diversity among the selected countries with more than 180 languages spoken](philippines-highest-linguistic-diversity-180-languages.md) — related
+- [High academic abuse is more frequent among students with inadequate academic performance in bivariate analysis](high-abuse-bivariate-association-low-performance.md) — related

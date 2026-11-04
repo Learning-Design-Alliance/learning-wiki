@@ -48,3 +48,4 @@ Methodological synthesis across the 16 included studies. The review reports "con
 - [No dose-response effect: video benefits do not systematically increase with intervention length](no-dose-response-video-duration.md) — related
 - [Intervention duration significantly moderates Gen-AI's effect on HOT, with the strongest effects at 8–16 weeks (ES = 0.759) and weaker effects for shorter (0.494) and longer (0.372) interventions](genai-intervention-duration-moderator.md) — related
 - [Evidence on school swimming instruction is scarce in secondary education, with most studies in primary and preschool stages](school-swimming-secondary-evidence-scarcity.md) — related
+- [Swimming skill mastery did not differ significantly across the three pedagogical models](swimming-skill-mastery-no-group-difference.md) — related

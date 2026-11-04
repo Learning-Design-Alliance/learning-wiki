@@ -48,3 +48,4 @@ DHC class 3 from the qualitative corpus captured students' reflective self-asses
 - [Prospective teachers' qualitative feedback credited CCCT with communication, teamwork and engagement gains but noted unequal participation and time constraints](ccct-qualitative-strengths-challenges.md) — related
 - [The article reports three main effects of self-regulation: calming, refreshing, and activating](three-effects-of-self-regulation.md) — related
 - [The competency profiles differ by overall level, with all seven CIRN dimensions increasing synchronously, rather than by divergent strength-and-weakness combinations](synchronous-dimension-increases-across-profiles.md) — related
+- [Radar charts after feedback helped novice nurses identify strengths, weaknesses and track progress across clinical domains](mini-cex-dops-radar-charts-progress-tracking.md) — related

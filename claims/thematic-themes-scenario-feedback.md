@@ -50,3 +50,4 @@ Qualitative thematic analysis of open-ended focus group interviews with students
 - [Focus group interviews identified four user-experience themes: individualized learning, clinical reasoning engagement, educational applicability, and areas for improvement](vega-focus-group-four-themes.md) — related
 - [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](aisp-focus-group-three-themes.md) — related
 - [The variety of learning activities offered each week, along with the engagement and clinical relevance of these, was the strongest theme raised by students in open-ended survey responses.](variety-of-learning-activities-strongest-student-theme.md) — related
+- [Students identify logical organisation, clinical reasoning integration, demonstration, and hands-on practice as key strengths of the near-peer tutorial](near-peer-tutorial-qualitative-strengths.md) — related

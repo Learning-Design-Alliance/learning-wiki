@@ -53,3 +53,4 @@ Graphical normality checks (histograms, Q-Q plots, CDF curves, and residuals fro
 - [The multivariate normality assumption of the norming model was judged met for all domains and grades, despite some tail deviations in Q-Q plots](normality-assumption-met-foundational-skills-norming.md) — possibly the same claim (merge candidate)
 - [Normality assumptions of the true score model appeared reasonable for the course-specific tests](normality-assumption-reasonable-course-specific.md) — possibly the same claim (merge candidate)
 - The outcome data met t-test assumptions: Lilliefors normality (Lo < Lt for both classes) and variance homogeneity (F count 0.579 < F table 1.84) — related
+- [WGS demonstrates stable inferential behavior despite deviations from normality in both datasets](wgs-robust-nonnormal-data.md) — related

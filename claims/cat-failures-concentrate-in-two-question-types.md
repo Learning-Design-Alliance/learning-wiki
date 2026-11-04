@@ -52,3 +52,4 @@ Analysis of the Eedi benchmark of 20,964 real student responses, with 343 TM cas
 - A student's incorrect 1/3 response to a shaded-region task still shows correct command of fraction notation — related
 - [Student errors on underestimated fraction items reflect systematic misconception patterns rather than random error](fraction-errors-systematic-misconception-patterns.md) — related
 - [Knowledge gaps concentrate in technically demanding veneer topics: preparation classification (45.5%) and cement thickness effects on shade selection (28.4%)](knowledge-gaps-technical-veneer-topics.md) — a narrower finding that bears on this claim
+- [Within the intervention cohort, 71.9% of residents completed all required standard views, with failures concentrated in technically demanding views](standard-view-acquisition-bottlenecks-phantom-module.md) — related

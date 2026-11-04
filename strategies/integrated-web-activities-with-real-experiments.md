@@ -49,6 +49,7 @@ The article's discussion recommends that web-assisted activities and simulations
 - [Use virtual simulations to enhance cognitive learning while prioritizing in-person laboratory sessions for psychomotor and technical skills](virtual-simulations-cognitive-in-person-psychomotor.md)
 - [Integrate simulation technologies with traditional teaching through blended approaches tailored to specific clinical tasks](blended-simulation-integration-orthodontic-curricula.md)
 - [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](stepped-ai-simulation-integration-strategies.md)
+- [Integrate interactive digital tools into large-enrollment courses to teach conceptually demanding content where lab access is limited](digital-tools-for-large-enrollment-conceptually-dense-content.md)
 
 ## Examples
 -

@@ -65,6 +65,7 @@ The article recommends that GAI-based teaching be adopted as a complement to, no
 - [Position AI-SPs as preparation, reflection, and supplementation for real patient contact rather than replacement](ai-sp-supplement-not-replacement.md)
 - [Integrate AISP platforms into medical curricula as complements to traditional teaching with expanded case variety](aisp-curricular-integration-strategy.md)
 - [Integrate AI into structured peer teaching in four modes with training and quality safeguards](four-mode-ai-integration-peer-teaching-strategy.md)
+- [Integrate AI- and technology-related communication skills systematically into medical curricula](integrate-ai-communication-skills-curricula.md)
 
 ## Examples
 -

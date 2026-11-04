@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 261 claims (187 show a difference, 48 mixed, 26 no difference) · 167 studies (53 associational, 43 causal, 32 review, 13 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 39 of 167 report an effect size · 255 claims rest on one study
+> **Evidence** · 265 claims (191 show a difference, 48 mixed, 26 no difference) · 170 studies (55 associational, 44 causal, 32 review, 13 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 39 of 170 report an effect size · 259 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -301,6 +301,10 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Self-reported coping strategies were not associated with better national ranking among French final-year medical students.](../claims/coping-strategies-not-associated-with-ranking.md) [-M] — learners who differ on it differ in outcomes
 - [Trait anxiety is only weakly associated with final national ranking in a high-stakes medical examination.](../claims/trait-anxiety-weakly-associated-with-ranking.md) [~M] — learners who differ on it differ in outcomes
 - [Effort is higher with the app while frustration is higher without it, with no overall workload difference](../claims/app-effort-higher-frustration-higher-without.md) [+M] — measured as an outcome of the instruction studied
+- [63.9% of students experienced increased stress or anxiety from pre-class tests](../claims/pre-class-tests-increase-stress-anxiety.md) [+M] — measured as an outcome of the instruction studied
+- [All three swimming teaching models significantly improved emotion regulation and social adaptability over 16 weeks, with significant time × group interaction effects](../claims/swimming-intervention-omnibus-time-group-interaction.md) [+M] — measured as an outcome of the instruction studied
+- [Baseline sense of coherence and coping, not GPA, differentiate the post-graduation profiles](../claims/baseline-soc-coping-differentiate-profiles.md) [+M] — learners who differ on it differ in outcomes
+- [Cooperative learning swimming teaching produced the largest improvements in adolescent emotion regulation, significantly exceeding understanding and traditional teaching models](../claims/cooperative-learning-swimming-emotion-regulation.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

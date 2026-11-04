@@ -53,3 +53,4 @@ Repeated two-tailed Pearson correlation between direct and indirect strategies a
 - [Direct and indirect vocabulary learning strategies correlate significantly and positively with each other (r=0.75).](direct-indirect-strategies-correlated.md) — related
 - [Strategy use correlates significantly and positively with both breadth (r=0.65) and depth (r=0.77) of vocabulary knowledge, with depth showing the higher correlation.](strategy-use-correlates-with-depth-more-than-breadth.md) — related
 - [Low-proficiency Chinese EFL students use direct vocabulary learning strategies more frequently than indirect strategies (p<0.001).](efl-direct-strategies-more-frequent-than-indirect.md) — related
+- [Vocabulary breadth and depth were associated with different psychological-strategic predictor configurations: breadth with self-efficacy and monitoring, depth with intrinsic motivation and evaluation.](divergent-predictors-vocabulary-breadth-depth.md) — related

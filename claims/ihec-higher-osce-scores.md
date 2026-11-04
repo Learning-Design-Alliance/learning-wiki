@@ -52,3 +52,5 @@ ANCOVA comparison of post-rotation OSCE scores between the conventional (n = 118
 - [Post-rotation educational satisfaction was higher in the iHEC cohort than in the conventional cohort](ihec-higher-satisfaction.md) — related
 - [Self-directed learning partially mediated the association between iHEC teaching model and educational performance, accounting for 51.4% of the total association](sdl-partial-mediation-ihec-performance.md) — related
 - [The 10-minute two-station four-domain modified OSCE is more sensitive than the end-of-rotation comprehensive score in detecting key competency differences from pathway-driven training.](modified-osce-more-sensitive-than-comprehensive-score.md) — related
+- [AI-group students achieve significantly higher total OSCE scores than control-group students](ai-simulated-patient-osce-scores-gynecology.md) — related
+- [A specialty-specific OSCE plus WBA curriculum raised end-of-rotation OSCE total scores versus historical controls in radiation oncology postgraduates](specialty-osce-wba-curriculum-higher-osce-total.md) — related

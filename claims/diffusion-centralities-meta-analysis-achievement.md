@@ -59,3 +59,5 @@ Correlation meta-analysis (17 meta-analyses, one per centrality measure) pooling
 - [Degree centrality has a combined correlation of r=0.56 with grades and moderate heterogeneity (I²=55%)](degree-centrality-meta-analysis-r056.md) — a narrower finding that bears on this claim
 - [Degree centrality correlates positively with academic performance in all 69 course offerings studied](degree-centrality-positive-correlation-all-courses.md) — a narrower finding that bears on this claim
 - [Eigenvector centrality has a combined correlation of r=0.41 with grades and is a consistent indicator of student success](eigenvector-centrality-consistent-indicator.md) — a narrower finding that bears on this claim
+- [In Year 1, no centrality metric was significantly associated with CGPA](year1-centrality-cgpa-null.md) — related
+- [Year 2 students show significantly higher closeness and lower betweenness centrality than Year 1, with no cohort difference in in-degree](year2-higher-closeness-lower-betweenness.md) — related

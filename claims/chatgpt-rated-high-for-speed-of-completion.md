@@ -63,3 +63,4 @@ Item-level analysis of the concluding survey (Likert scale 1–10) administered 
 - [Students rated all major course activities as highly useful, with scores between 7.5 and 8.4 on a 0-9 scale](high-activity-usefulness-ratings.md) — related
 - [Students rated all student-facing design principles positively, with formative assessment and learning content rated highest (above 6 on a 7-point scale)](design-principles-rated-positively-survey.md) — related
 - [ChatGPT accuracy varies substantially across countries and specialties, from 73% on Italian to 22% on French examinations](chatgpt-accuracy-varies-across-countries-and-specialties.md) — related
+- [Students reported high acceptance of the AI + knowledge graph model in an unvalidated survey (91.5% improved learning efficiency, 88.1% helped understand knowledge associations, 85.2% willing to use long-term), with limited negative feedback](ai-kg-student-satisfaction-feedback.md) — related

@@ -40,6 +40,7 @@ The report recommends providing completed example forms and a vendor-facing inta
 
 - [Require a brief certification questionnaire to filter vendor pitches](certification-questionnaire-filters-vendor-pitches.md)
 - [Provide both a pre-populated exemplar microworld and a blank microworld to lower the entry barrier](exemplar-plus-blank-microworld-strategy.md)
+- [Use information technology to streamline documentation and protect feedback time](mini-cex-dops-it-streamlining-strategy.md)
 
 ## Examples
 -

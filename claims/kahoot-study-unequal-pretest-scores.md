@@ -59,3 +59,4 @@ Baseline comparison of the two intact sections prior to intervention: the contro
 - [Groups were equivalent at pre-test but differed significantly at post-test](video-podcast-pretest-equivalent-posttest-difference.md) — reports the opposite
 - [Experimental and control groups were equivalent in oral fluency before the intervention](efl-fluency-pretest-group-equivalence.md) — related
 - [The SR and SU groups were roughly equal in English proficiency before the treatment, as measured by their mid-term exam](sr-su-groups-equal-pretest-proficiency.md) — reports the opposite
+- [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related

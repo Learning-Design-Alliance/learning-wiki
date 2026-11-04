@@ -58,3 +58,5 @@ Meta-analysis of 21 RCTs measuring skill performance at course conclusion. The p
 - [Effects of high-fidelity simulation on teamwork performance are mixed: one RCT found improved teamwork behaviors while three found no significant difference](hf-simulation-teamwork-mixed.md) — related
 - [High-fidelity simulation shows only small-to-moderate benefits over low-fidelity simulation in skill performance (SMD 0.64) and knowledge (SMD 0.39)](hf-vs-lf-small-moderate-benefit.md) — related
 - [High-fidelity simulation outperforms traditional training in skill performance (SMD 1.63) and knowledge (SMD 0.69) immediately after training](hf-vs-traditional-skill-knowledge-benefit.md) — related
+- [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-retention-nurses-exploratory.md) — related
+- [Nurses trained with simulation showed higher skill scores than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-scores-nurses-exploratory.md) — related

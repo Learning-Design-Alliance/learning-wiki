@@ -49,3 +49,4 @@ Cross-model comparison within the same in silico study: pairwise McNemar accurac
 - [Self-reported confidence scores differ significantly among the three LLMs, with Gemini highest and Claude lowest](llm-confidence-scores-differ-endodontic-questions.md) — related
 - [Accuracy rates differ significantly among ChatGPT, Claude, and Gemini on text-based endodontic examination questions](llm-accuracy-differs-endodontic-exam-questions.md) — related
 - [Inter-model agreement is moderate, indicating models do not consistently identify the same questions correctly](moderate-inter-model-agreement-endodontic-questions.md) — related
+- [No statistically significant performance gap existed between Turkish and English administration of the same radiology questions to ChatGPT-5 and Gemini 2.5 Pro](no-language-gap-turkish-english-llm-radiology-accuracy.md) — related

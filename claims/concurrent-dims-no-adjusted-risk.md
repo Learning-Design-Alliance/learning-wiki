@@ -50,3 +50,4 @@ Logistic regression in the same longitudinal cohort, contrasting the Concurrent 
 - [Transitory sleep problems (DIMS at age 7–9 only) do not increase the risk of later poor academic performance](transitory-dims-no-increased-risk.md) — related
 - [Short sleep duration at age 3 was not associated with quality of life at about age 13](sleep-quality-of-life-null-longitudinal.md) — related
 - [Improving parental mental health in general may not in itself improve children's educational outcomes](improving-parental-mental-health-may-not-improve-achievement.md) — related
+- [Sleep duration, mental health, and cognitive performance mediate the screen time–academic performance association](sleep-mental-health-cognition-mediate-screen-academic-association.md) — related

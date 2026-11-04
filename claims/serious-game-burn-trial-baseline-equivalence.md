@@ -51,3 +51,4 @@ Baseline comparison in the randomized trial (Table 2): age (P = 0.351), sex (P >
 - [The adjusted intervention effect varied across Mini-CEX domains, largest for therapeutic planning (MD 3.96) and diagnostic planning (MD 3.70) and smallest for history taking (MD 2.87)](serious-game-domain-effect-size-variation.md) — related
 - [Before intervention, treatment and control kindergartners did not differ on age, demographics, vocabulary, phoneme segmentation, letter knowledge, or reading](pretest-equivalence-phoneme-awareness-kindergarten-trial.md) — related
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
+- [The two groups were comparable in gender, age, and educational background before instruction](3d-visualization-pbl-groups-comparable-baseline.md) — related

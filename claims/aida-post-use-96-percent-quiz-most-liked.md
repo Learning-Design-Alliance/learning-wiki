@@ -54,3 +54,4 @@ Study 6 post-test perceptions; the experimental group rated all core AIDA functi
 - [Students scored an average of 4.3 out of 5 on a Markdown quiz after watching the AI-generated videos, suggesting short-term learning](ai-video-viewing-yields-quiz-scores-4-3.md) — related
 - [Most students would reengage with context-personalized tasks and prefer them over standard tasks, across both experimental conditions](gai-reengagement-task-preference.md) — related
 - [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related
+- [84.0% of students preferred to maintain or increase pre-class test frequency](pre-class-tests-high-acceptance-frequency-preference.md) — related

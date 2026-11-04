@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 181 claims (92 for, 75 mixed, 14 against) · 156 studies (76 causal, 24 review, 16 associational, 15 quant-synthesis, 12 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 18 of 156 report an effect size · 180 claims rest on one study
+> **Evidence** · 184 claims (93 for, 76 mixed, 15 against) · 157 studies (77 causal, 24 review, 16 associational, 15 quant-synthesis, 12 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 18 of 157 report an effect size · 183 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -216,6 +216,9 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [No connectivity issues occurred during AR telementored simulation in a controlled environment with stable network infrastructure](../claims/ar-telementoring-no-connectivity-issues-controlled-environment.md) [~W]
 - [Total exam scores did not differ significantly between students taught with integrated Rain Classroom/CBL and traditional lectures](../claims/rain-classroom-cbl-no-total-score-difference.md) [~W]
 - [Over 75% of students in the AI-enhanced flipped classroom group reported a regular habit of using AI tools at least once per week.](../claims/majority-regular-weekly-ai-use.md) [~W]
+- [Improvement in overall scores did not differ significantly between digital and conventional training groups](../claims/no-group-session-interaction-overall-scores.md) [~W] — attached 2026-11-04 from Thai NP et al. (2026), which proposed "Dental Teacher system combined with Exocad software for digital feedback and assessment of occlusal rest seats".
+- [Digital group scored higher than conventional group on width and length criteria across sessions](../claims/digital-group-higher-width-length-scores.md) [+W] — attached 2026-11-04 from Thai NP et al. (2026), which proposed "Dental Teacher system combined with Exocad software for digital feedback and assessment of occlusal rest seats".
+- [Conventional group scored higher than digital group on the shape criterion](../claims/conventional-group-higher-shape-scores.md) [-W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

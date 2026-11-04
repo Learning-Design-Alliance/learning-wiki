@@ -59,3 +59,4 @@ Qualitative thematic analysis of interviews with the five teachers implementing 
 - [Local and remote students in a BSC did not differ significantly in their perceptions of the efficiency of BSC](bsc-no-perception-difference-local-remote.md) — related
 - [Qualitative observations and interviews indicated learners learned to identify and solve problems and experienced the intervention positively](qualitative-support-for-intervention-experience.md) — related
 - [Six factors complicate implementing inclusive innovations and their perception by teachers, including lack of skills, diagnostic mechanisms and resources](six-barriers-inclusive-innovation-implementation.md) — related
+- [Providers identified learning materials, mentorship, practice, staff rotation, ongoing training, and equipment availability as factors influencing retention](qualitative-factors-influencing-retention.md) — related

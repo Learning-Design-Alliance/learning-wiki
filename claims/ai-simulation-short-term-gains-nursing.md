@@ -84,3 +84,4 @@ Design-tier stratification of the review's included studies: 3 RCTs assessed wit
 - [Structurally designed AI-SPs are noninferior to human SPs in communication skill improvement, with unique advantages for self-efficacy](ai-sp-noninferior-communication-skills.md) — related
 - [AI-powered simulated patient practice improves clinical reasoning measured by the CRI-HT scale](aisp-cortex-improves-cri-ht-reasoning.md) — a narrower finding that bears on this claim
 - [Virtual patient simulations produced educational improvements equivalent to live standardized patient simulations](virtual-patients-equivalent-to-standardized-patients.md) — related
+- [Literature offers no consensus on whether video demonstration or standardized patient teaching is better for psychomotor skills, motivating direct comparison](no-consensus-vd-vs-sp-psychomotor-teaching.md) — related

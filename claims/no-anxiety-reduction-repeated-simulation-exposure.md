@@ -51,3 +51,5 @@ Longitudinal comparison of first versus last responses among 21 students who sub
 - [Repeated clinical exposure reduces fear and develops professional self-efficacy in nursing students managing delirium](repeated-exposure-builds-delirium-self-efficacy.md) — reports the opposite
 - [Simulation exposure produced no detectable change in clinical trials career interest](vct-no-career-interest-change.md) — related
 - [First encounters with delirium produce intense fear, professional inadequacy, and empathy-based emotional burden in nursing students](delirium-first-encounter-emotional-burden.md) — related
+- [Mean clinical skill anxiety scores declined progressively with year of study](csa-declines-with-year-of-study.md) — reports the opposite
+- [Post-course state anxiety did not differ between cohorts](post-course-stai-s-similar-across-cohorts.md) — related

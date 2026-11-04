@@ -50,6 +50,8 @@ The article concludes that ChatGPT-4o "may be best used as a supplementary educa
 - [Use LLMs in medical education as support tools requiring human review, not as independent decision-makers or authoritative instructors](llms-as-support-tools-medical-education.md)
 - [Use AI language models as adjunctive tools in medical education, especially for test preparation or knowledge reinforcement](ai-adjunctive-tool-medical-education-test-prep.md)
 - [Use LLMs as supportive educational tools and complements, not replacements, in medical education](llms-as-supportive-tools-not-replacements-medical-education.md)
+- [Deploy healthcare LLMs as augmentative tools under human oversight rather than autonomous decision-makers](llm-augmentative-tools-human-oversight.md)
+- [Use high-performance LLMs as supportive tools in medical education for feedback and learning-process optimization, pending image-based validation](llms-supportive-tools-medical-education-feedback.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Survey finding from the same cross-sectional study; the abstract reports "select
 ## Related Claims
 - [Dentists in the Federal District, Brazil demonstrate high overall competency in MID, particularly in preventive and diagnostic domains](brazilian-dentists-high-mid-competency.md) — related
 - [Adequate remuneration is the only barrier item dentists most commonly identified as an obstacle to practicing MID](remuneration-barrier-mid-practice.md) — related
+- [Systematic reviews show a gap between dentists' MID knowledge and clinical practice](mid-knowledge-practice-gap.md) — a broader claim this one bears on

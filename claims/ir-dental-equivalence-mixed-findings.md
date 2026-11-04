@@ -91,3 +91,4 @@ The review reports Dwisaptarini et al.'s RCT of minimal invasive caries removal 
 - [Technology-enhanced simulation may result in superior retention of clinical knowledge and skills compared to traditional teaching methods alone, with durable retention for months to years](simulation-improves-knowledge-retention.md) — related
 - [Prior studies cited in the article report mixed results, with Scerbo et al. finding simulated limbs outperformed a VRS for phlebotomy training while later simulator studies found advantages for simulation](mixed-prior-evidence-vrs-versus-traditional-training.md) — related
 - [Overall technical quality of treatments was similar between natural and artificial teeth groups](similar-technical-quality-both-groups.md)
+- [In CRT training, proficiency-based progression demonstrated superiority over traditional simulation in which proficiency benchmarks were optional](pbp-superiority-crt-training.md) — related

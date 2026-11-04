@@ -59,9 +59,11 @@ Meta-analyses consistently find that technology-mediated instruction produces le
 5. Teach the tool explicitly; ensure the interface itself does not consume working memory needed for learning [Managing cognitive load is essential when novel interfaces add extraneous demand.](../principles/cognitive-load-management.md) [+M].
 
 ## Related Strategies
+
 - [Blended Learning](../patterns/blended-learning.md) — the structural pattern most technology use in formal education serves
 - [Flipped Classroom](../principles/flipped-learning.md) — reassigns exposition to technology to free contact time for application
 - [Adaptive Learning](../principles/adaptive-learning.md) — technology's distinctive capability of individualizing pacing and difficulty
+- [Integrate interactive digital tools into large-enrollment courses to teach conceptually demanding content where lab access is limited](digital-tools-for-large-enrollment-conceptually-dense-content.md)
 
 ## Examples
 - **[PhET Interactive Simulations](https://phet.colorado.edu)** — research-validated science simulations; studies show guided inquiry use outperforms unstructured exploration.

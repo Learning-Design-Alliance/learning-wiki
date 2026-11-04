@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: chance-revels-2026
     resource: "https://doi.org/10.1007/s10900-025-01543-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` CHW trainees consistently highlighted the value of realistic SP encounters and real-world scenarios in building confidence and making the simulation feel applicable to their roles. [→ Chance-Revels 2026](#chance-revels-2026)
@@ -55,3 +56,4 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [Authentic cases incorporating patient encounters, role-plays or multimedia motivate preclinical students' engagement and support knowledge gains](cbl-authentic-cases-motivate-engagement-knowledge.md) — related
 - [Feedback facilitators such as faculty coaches can increase trainee receptivity to patient feedback](feedback-facilitators-increase-receptivity.md) — related
 - [Open-ended reflections most often highlighted realism of the simulation (51.5%), the simulation patient's role (32.0%), and interprofessional collaboration (20.6%)](mcleims-open-ended-themes.md) — related
+- [Students taught with a standardized patient reported marginally more engaging, effective, and confidence-building learning experiences than students taught by video demonstration](sp-feedback-more-engaging-and-confidence-building.md) — related

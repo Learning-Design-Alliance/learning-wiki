@@ -48,3 +48,4 @@ Self-reported weekly reading time collected via an added questionnaire item. The
 - [PBL participants exhibited significantly higher active English learning attitudes than non-PBL participants overall and on motivation intensity, desire to learn English, and communication inside and outside the classroom](pbl-fosters-active-english-learning-attitudes.md) — related
 - [Students given more control spent significantly more weekly time on listening practice, indicating greater effort and autonomy](learner-control-increases-listening-practice-time.md) — related
 - [Reading comprehension was significantly positively correlated with active English learning attitudes in the PBL group but not in the non-PBL group](rc-attitude-correlation-pbl-only.md) — related
+- [ICM students reported higher active participation and motivation, but frontal-teaching students scored higher on deepening content outside class](icm-active-participation-mixed-outside-class.md) — related

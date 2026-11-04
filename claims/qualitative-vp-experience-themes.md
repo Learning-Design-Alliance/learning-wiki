@@ -52,3 +52,4 @@ Qualitative inductive content analysis of participants' open-ended responses in 
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
 - [Focus group interviews identified four user-experience themes: individualized learning, clinical reasoning engagement, educational applicability, and areas for improvement](vega-focus-group-four-themes.md) — related
 - [EFL learners perceive AI-mediated instruction as engaging, personalized, anxiety-reducing, and empowering for autonomous learning](learner-perceptions-ai-engagement-personalization.md) — related
+- [Open-ended QVP questions enabled nuanced reflection but introduced risk of socially desirable responses](open-ended-questions-reflection-and-bias-qvp.md) — related

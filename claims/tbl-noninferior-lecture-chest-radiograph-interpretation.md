@@ -26,7 +26,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
-> **Design limits** · Kehrli Kelsey F. 2026: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Both TBL and lecture cohorts improved on chest radiograph interpretation pre/post tests with no statistically significant between-group differences in post-test scores or mean improvement. [→ Kehrli Kelsey F. 2026](#kehrli-kelsey-f-2026)

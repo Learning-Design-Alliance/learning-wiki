@@ -53,3 +53,4 @@ Bootstrapping analysis submitting each exam to GPT-4 50 times (API 'n' parameter
 - [GPT-4 significantly outperforms the average Dutch student on VWO English reading comprehension, scoring 8.3 (March) and 8.1 (June) without re-prompting](gpt4-outperforms-average-student-english-exams.md) — related
 - [The authors argue that LLMs such as GPT-3 threaten OBE validity by enabling answers without deep understanding, particularly in unproctored settings](llms-threaten-obe-validity-argument.md) — related
 - [MELD analysis found no completion matched the MRCP sample paper at 95% or more, suggesting ChatGPT-4 was unlikely trained on it](meld-analysis-suggests-no-mrcp-training-data-memorisation.md) — related
+- [ChatGPT versions were inconsistent, matching scores in all 3 runs for only 18% and 10% of encounters.](llm-inconsistent-across-runs.md) — related

@@ -50,3 +50,4 @@ Systematic review finding from the Results section. The review reports that "all
 - [ANOVA in iteration 1 shows statistically significant pre-to-post differences for seven of eight skill sets, with cultural competency not significant](anova-iteration1-significant-skill-gains-except-cultural.md) — related
 - [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — a broader claim this one bears on
 - [Objective nutrition knowledge increased significantly after the 'Eat This!' online lecture series](eat-this-objective-knowledge-increase-significant.md) — a broader claim this one bears on
+- [Knowledge scores declined significantly across all four assessed HMS/HBS domains after training](hms-hbs-knowledge-decline-all-four-domains.md) — reports the opposite

@@ -56,3 +56,4 @@ Narrative synthesis of adverse-effect reporting across 7 included RCTs. The most
 - [SVVR training is well tolerated, with only mild discomfort and no discontinuation due to adverse effects](svvr-training-well-tolerated-mild-discomfort.md) — a narrower finding that bears on this claim
 - [VR participants report more technical issues and cybersickness symptoms than slideshow participants](vr-technical-issues-cybersickness.md) — a narrower finding that bears on this claim
 - [VRISE symptoms were generally mild to moderate and only weakly associated with age and corrective-glasses use](vrise-mild-weak-age-and-glasses-associations.md) — related
+- [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — a narrower finding that bears on this claim

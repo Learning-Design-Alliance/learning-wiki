@@ -52,3 +52,4 @@ Review synthesis of an observational study in occupational therapy students comp
 - [Work context, via acute stress and cognitive load, is a major moderator of emotional competence's impact on clinical reasoning](work-context-acute-stress-moderates-ec-cr.md) — related
 - [Emotional intelligence is not a strong predictor of clinical performance in rehabilitation science students](emotional-intelligence-not-strong-predictor-clinical-performance.md) — related
 - [Emotional intelligence correlates positively with self-directed learning among nursing students (r = 0.63)](ei-sdl-positive-correlation-nursing-students.md) — related
+- [Self-rating versus instructor-rating discrepancies vary by competency domain: trainees rate themselves higher in clinical practice and health teaching, instructors rate trainees higher in case study and specialised nursing](domain-specific-competency-rating-differences.md) — related

@@ -88,3 +88,4 @@ The review reports, citing Schrijvers et al. (2019a), that Transformative Dialog
 ## Related Claims
 - [Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate](reading-literary-fiction-improves-theory-of-mind.md) — related
 - [Lifetime exposure to narrative fiction correlates with ToM and empathy, but correlational designs preclude causal conclusions](fiction-exposure-correlates-tom-empathy.md) — related
+- [Understanding (problem-oriented) teaching outperformed traditional teaching on problem solving and emotional expression](understanding-teaching-problem-solving-emotional-expression.md) — related

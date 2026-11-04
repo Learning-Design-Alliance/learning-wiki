@@ -87,3 +87,4 @@ The review attributes longitudinal findings to named recent investigations: Baug
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — related
 - [Self-administered and observed empathy measures can yield opposite trajectories during clinical training, as one longitudinal study found declining self-reported but improving observed empathy](self-report-versus-observed-empathy-divergence.md) — related
 - [In a 5-year longitudinal MSF study, all ratings increased between assessments, though the increase for patient ratings was not significant and changes were small-to-moderate](msf-five-year-ratings-increased-small-moderate.md) — related
+- [Comprehensive data linking simulation training to patient outcomes, complication rates, and long-term skill retention are lacking](simulation-skill-transfer-outcomes-lacking.md) — related

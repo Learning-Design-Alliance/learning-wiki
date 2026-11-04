@@ -71,3 +71,4 @@ One of four cross-sectional studies (42,751 participants combined) in the sedent
 - [Sleep duration shows no association with gross and fine motor skills in children aged 0–4 years](sleep-motor-development-null-early-years.md)
 - [A consistent bedtime routine is associated with better sleep outcomes in young children, with a dose-dependent relationship between nights per week of routine adherence and sleep benefits](bedtime-routine-dose-dependent-sleep-benefits.md)
 - [Only 22.34% of Chinese school-aged children get sufficient sleep (≥10 hours), while 37.96% have short sleep duration (<9 hours)](insufficient-sleep-prevalence-chinese-children.md) — related
+- [Sleep duration, mental health, and cognitive performance mediate the screen time–academic performance association](sleep-mental-health-cognition-mediate-screen-academic-association.md) — related

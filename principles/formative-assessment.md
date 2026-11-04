@@ -44,7 +44,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (35 for, 21 mixed) · 62 studies (20 causal, 14 review, 13 quant-synthesis, 5 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 18 of 62 report an effect size · 44 claims rest on one study
+> **Evidence** · 58 claims (36 for, 22 mixed) · 63 studies (20 causal, 14 review, 13 quant-synthesis, 6 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 18 of 63 report an effect size · 46 claims rest on one study
 
 ## Description
 
@@ -145,6 +145,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Replacing daily homework with daily assessments improved course grade distributions in principles of financial accounting](../claims/daily-assessments-improved-course-grades.md) [+W] — attached 2026-11-03 from Bush et al. (2011), which proposed "Replace daily homework with frequent low-stakes daily assessments to improve performance"; tests this page's relationship.
 - [Daily assessments increased satisfactory completion rates compared to daily homework](../claims/daily-assessments-increased-satisfactory-completion.md) [+W] — attached 2026-11-03 from Bush et al. (2011), which proposed "Replace daily homework with frequent low-stakes daily assessments to improve performance"; tests this page's relationship.
 - [Daily assessments improved final exam performance on five of eight topics](../claims/daily-assessments-improved-final-exam-topics.md) [+W] — attached 2026-11-03 from Bush et al. (2011), which proposed "Replace daily homework with frequent low-stakes daily assessments to improve performance"; tests this page's relationship.
+- [63.9% of students experienced increased stress or anxiety from pre-class tests](../claims/pre-class-tests-increase-stress-anxiety.md) [~W] — attached 2026-11-04 from Ekpenyong et al. (2026), which proposed "Frame pre-class tests as formative learning tools with extended windows, reliable technology, and aligned content".
+- [84.0% of students preferred to maintain or increase pre-class test frequency](../claims/pre-class-tests-high-acceptance-frequency-preference.md) [+W] — attached 2026-11-04 from Ekpenyong et al. (2026), which proposed "Frame pre-class tests as formative learning tools with extended windows, reliable technology, and aligned content".
 
 ## Source verification and open tests
 

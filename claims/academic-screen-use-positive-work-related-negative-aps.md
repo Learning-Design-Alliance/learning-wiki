@@ -47,3 +47,4 @@ Final block of the hierarchical linear regression (n = 89 complete cases) predic
 ## Related Claims
 - [Psychological symptom burden is independently and negatively associated with self-perceived academic performance](psychological-symptom-burden-negative-aps.md) — related
 - [Total screen time is unrelated to self-perceived academic performance in every analysis](total-screen-time-unrelated-aps.md) — related
+- [Recreational screen time is negatively associated with academic performance among Chinese middle school students](recreational-screen-time-negative-academic-performance-chinese-adolescents.md) — related

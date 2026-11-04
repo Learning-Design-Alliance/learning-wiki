@@ -49,3 +49,5 @@ In the post-course assessment of this RCT (n = 30 per group), qualitative diagno
 - [CBL with 3D reconstruction improves hepatic segmentation and lesion localization scores versus traditional teaching](cbl-3d-reconstruction-improves-segmentation-localization.md) — related
 - [CBL with 3D reconstruction improves basic liver ultrasound scanning scores versus traditional teaching](cbl-3d-reconstruction-improves-scanning-scores.md) — related
 - [MDT-CBL showed the best improvement in clinical reasoning versus lecture-based learning, with 3D-CBL and 3D-PBL next, but only 3D-PBL had high-quality evidence](mdt-cbl-best-clinical-reasoning-gains.md) — related
+- [Integrating 3D visualization reconstruction with PBL improves theoretical examination scores versus lecture-based learning in pheochromocytoma training](3d-visualization-pbl-higher-theoretical-scores-pcc.md) — related
+- [The experimental group scored substantially higher on subjective clinical case analysis questions (28.5 ± 3.2 vs 21.3 ± 4.1, P < 0.001) than on objective memory questions (15.2% gain)](ai-kg-clinical-case-analysis-gain.md) — related

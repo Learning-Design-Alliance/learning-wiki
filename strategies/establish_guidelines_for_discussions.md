@@ -64,6 +64,7 @@ Discussion quality depends less on the topic than on whether participants believ
 - [Establishing Classroom Norms](establishing_classroom_norms.md) — the broader practice of which discussion guidelines are a specific instance
 - [Create a safe space in arts instruction so students can take productive risks and grow emotionally](safe-space-arts-instruction-strategy.md)
 - [Engage student voice through safe sharing spaces, assumption removal, active listening, co-creation, and co-designed action plans](promising-practices-engaging-student-voice.md)
+- [Establish psychological safety through shared ground rules, confidentiality, respect, and a mistakes-as-learning philosophy during simulation-based learning](psychological-safety-ground-rules-sbl.md)
 
 ## Examples
 - **Courageous Conversations About Race** (Singleton, 2015) — the four agreements (stay engaged, experience discomfort, speak your truth, accept non-closure) used in equity-focused professional development and classrooms.

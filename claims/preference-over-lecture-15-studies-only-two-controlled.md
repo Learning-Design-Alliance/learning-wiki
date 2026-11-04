@@ -71,3 +71,4 @@ Review synthesis of preference data across the 22 included studies; the preferen
 - [Most students endorse the service learning model and would recommend it for future students](service-learning-student-endorsement-recommendation.md) — a narrower finding that bears on this claim
 - [TBL produces significantly higher student engagement and peer/instructor interaction than lecture-based instruction](tbl-higher-engagement-peer-interaction-than-lecture.md) — related
 - [TBL students attribute self-efficacy to peer discussion while lecture students attribute it to practice cases and systematic approach](tbl-peer-discussion-vs-lecture-practice-cases-self-efficacy.md) — related
+- [All surveyed students perceive the near-peer tutorial as superior to lectures, textbooks, or videos for learning musculoskeletal examination](near-peer-tutorial-superior-to-traditional-resources.md) — a narrower finding that bears on this claim

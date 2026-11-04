@@ -49,3 +49,4 @@ Convergent validity and internal consistency assessment via CFA in the validatio
 - [The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity](gaa-ls-reliability-convergent-discriminant.md) — related
 - [Convergent and discriminant validity are supported by AVE values exceeding 0.50 and discriminant validity criteria met for both factors.](dkscqn-ave-discriminant-validity.md) — related
 - [The three measurement instruments show acceptable reliability and validity in this sample](measurement-model-cfa-reliability-validity.md) — related
+- [Composite reliability was adequate for both factors of the MID competency scale](mid-competency-instrument-composite-reliability.md) — related

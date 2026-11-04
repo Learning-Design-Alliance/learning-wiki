@@ -55,6 +55,7 @@ The article recommends that teachers embed frequent low-stakes testing in listen
 - [Frequent, Low-Stakes Quizzes](frequent-low-stakes-quizzes.md)
 - [Reducing Test Anxiety](reducing-test-anxiety.md)
 - [Test Anxiety Reduction](test-anxiety-reduction.md)
+- [Use formative quizzes, writing portfolios, and peer-feedback rubrics rather than relying only on a final examination](formative-assessment-toolkit-strategy.md)
 
 ## Examples
 -

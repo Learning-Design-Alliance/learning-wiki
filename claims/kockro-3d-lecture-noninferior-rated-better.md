@@ -74,3 +74,7 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [Metaverse-based interactive VR instruction is associated with higher overall anatomy test performance than a conventional 2D online lecture](metaverse-vr-higher-overall-anatomy-test-performance.md) — reports the opposite
 - [The within-student spatial–factual difference score shifts from negative in the Conventional cohort to positive in the VR cohort](within-student-spatial-factual-delta-shift.md) — related
 - [Knowledge-examination gains from VR training are domain-specific](vr-knowledge-gains-domain-specific.md) — related
+- [Students studying musculoskeletal anatomy with an interactive 3D digital model show greater pre-to-post test score improvement than students studying textbook images](3d-model-greater-score-gains-than-textbook-images.md) — reports the opposite
+- [Students using the 3D model reported higher confidence, greater ability to visualize spatial relationships, and greater enjoyment than textbook-image students](3d-model-higher-confidence-visualization-enjoyment.md) — related
+- [Prior meta-analytic evidence indicates 3D visualization technology yields superior anatomical knowledge and satisfaction compared to 2D materials](3dvt-meta-analysis-superior-knowledge-satisfaction.md) — related
+- [Improvement in overall scores did not differ significantly between digital and conventional training groups](no-group-session-interaction-overall-scores.md) — related

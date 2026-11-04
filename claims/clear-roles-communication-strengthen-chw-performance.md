@@ -50,3 +50,4 @@ Synthesis-level finding of the systematic review, reporting that "Clearly define
 - [Embedment of CHWs in community and health systems diminished workload and increased CHW credibility](chw-embedment-diminishes-workload-increases-credibility.md) — related
 - [Community support in the form of feedback and rewards had a greater influence on CHW performance than support from the health system](community-feedback-rewards-greater-influence-chw-performance.md) — related
 - [High workload and large populations to cover were associated with lower CHW motivation and performance](high-workload-lower-chw-motivation-performance.md) — related
+- [Role clarity and internal motivation are reported as motivation-related influences on EBP competence, with unclear role expectations and low volition hindering development](role-clarity-motivation-tcm-nurse-ebp.md) — related

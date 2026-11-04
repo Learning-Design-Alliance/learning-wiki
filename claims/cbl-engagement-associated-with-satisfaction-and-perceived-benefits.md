@@ -1,0 +1,57 @@
+---
+type: claim
+title: Higher engagement with case-based learning is significantly associated with greater satisfaction, better understanding, and enhanced perceived skills
+description: Higher engagement with case-based learning is significantly associated with greater satisfaction, better understanding, and enhanced perceived skills
+id: cbl-engagement-associated-with-satisfaction-and-perceived-benefits
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: alrashed-fahad-abdulaziz-2026
+    resource: "https://doi.org/10.1186/s12909-026-09316-2"
+    title: "Alrashed Fahad Abdulaziz, Ahmad Tauseef, Alangari Saad M., Albabtain Mohammed A., Aldughaither Abdullah S., Alrashed Rashed, Alsabih Ahmed Othman, Abdulghani Hamza M. (2026). Medical students’ perceptions of the impact of case-based learning on engagement, cognitive skills, and communication. BMC Medical Education. https://doi.org/10.1186/s12909-026-09316-2"
+    author: Alrashed Fahad Abdulaziz, Ahmad Tauseef, Alangari Saad M., Albabtain Mohammed A., Aldughaither Abdullah S., Alrashed Rashed, Alsabih Ahmed Othman, Abdulghani Hamza M.
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
+---
+
+# Higher engagement with case-based learning is significantly associated with greater satisfaction, better understanding, and enhanced perceived skills
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Engagement frequency was significantly associated with satisfaction, understanding, critical thinking, problem-solving, retention, and teamwork (all p < 0.001). [→ Alrashed Fahad Abdulaziz 2026](#alrashed-fahad-abdulaziz-2026)
+
+## Evidence
+
+### Alrashed Fahad Abdulaziz 2026
+
+Alrashed Fahad Abdulaziz, Ahmad Tauseef, Alangari Saad M., Albabtain Mohammed A., Aldughaither Abdullah S., Alrashed Rashed, Alsabih Ahmed Othman, Abdulghani Hamza M. (2026). Medical students’ perceptions of the impact of case-based learning on engagement, cognitive skills, and communication. BMC Medical Education. https://doi.org/10.1186/s12909-026-09316-2
+
+`q2 · i?` · `associational · r1`
+
+Chi-squared tests on survey data from 327 students compared perceptions across four self-reported engagement frequency categories. Among frequently engaged students, 45.6% were satisfied versus 55.9% of very frequently engaged; associations with understanding and critical thinking were also significant (p < 0.001).
+
+> "Engagement varied, but higher engagement was significantly associated with greater satisfaction, better understanding, and enhanced skills (p < 0.001)."
+
+## Discussion
+
+
+## Learner Variables
+- [Academic Self-Concept](../learner-variables/academic-self-concept.md) — outcome: measured as an outcome of the instruction studied
+
+## Related Claims
+- [In the RCT, PBL students rated their own communication skills and critical thinking significantly higher on a questionnaire than LBL students did](pbl-rct-higher-communication-critical-thinking.md) — related
+- [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — related
+- [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
+- [PBL-CBL teaching increases residents' learning interest, initiative, and critical thinking compared with traditional teaching](pbl-cbl-increases-interest-initiative-thinking.md) — related
+- [Blended BOPPPS teaching is associated with favorable subjective outcomes including autonomous learning, teamwork, and problem-solving ability](blended-boppps-favorable-subjective-outcomes.md) — related
+- [In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related
+- [Residents in the modified Peyton group report higher teaching satisfaction across all surveyed dimensions](modified-peyton-higher-satisfaction.md) — related

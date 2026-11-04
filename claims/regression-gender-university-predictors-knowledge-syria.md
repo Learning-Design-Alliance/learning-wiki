@@ -49,3 +49,4 @@ Multivariable linear regression with HC3 robust standard errors on 500 participa
 - [Higher PSMU independently predicts lower odds of high academic performance after confounder adjustment](psmu-independent-predictor-lower-ap-or.md) — related
 - [Syrian medical students show low overall theoretical knowledge of clinical and surgical skills](syrian-medical-students-low-clinical-surgical-knowledge.md) — related
 - [University attended is significantly associated with clinical and surgical knowledge level](university-association-clinical-surgical-knowledge-syria.md) — related
+- [Engagement score, quiz completion rate, and assessment format independently predict answer accuracy in multivariate regression](multivariate-predictors-answer-accuracy.md) — related

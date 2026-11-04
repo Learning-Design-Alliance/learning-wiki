@@ -59,3 +59,4 @@ Correlational study comparing AEEGS scores with those of 12 human raters, each m
 - [The Algebra Achievement Test showed acceptable internal consistency and inter-rater reliability in this study](aat-reliability-k21-interrater.md) — related
 - [AI scores demonstrated high consistency with expert ratings (ICC = 0.893)](ai-scoring-high-consistency-expert-ratings-icc-0893.md) — related
 - [AI showed moderate to high correlations with human evaluators for essay grading and thematic analysis](ai-moderate-high-correlation-human-essay-grading.md) — a broader claim this one bears on
+- [AI-generated OPTION-12 ratings agree strongly with human expert ratings of shared decision-making performance in AI-simulated consultations](ai-human-option12-agreement-feasibility.md) — a narrower finding that bears on this claim

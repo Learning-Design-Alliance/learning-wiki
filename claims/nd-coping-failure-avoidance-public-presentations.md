@@ -57,3 +57,4 @@ Interview study with four ND computing students on scenarios where prior strateg
 - [Neurodivergent students prefer teams of 3–5 students while neurotypical students most prefer teams of 2](nd-prefer-teams-of-3-to-5-nt-prefer-pairs.md) — related
 - [ND and NT students both prefer some instructor involvement and in-person collaboration over fully student-directed and online collaboration](nd-nt-prefer-some-instructor-involvement-in-person.md) — related
 - Work-avoidant orientation correlates negatively with GPA in the project-based course — related
+- [Coping with technical failures, equipment operation, and computer use are the most valued technician skills](top-skills-simulation-technician-poland.md) — related

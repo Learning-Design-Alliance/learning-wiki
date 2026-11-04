@@ -50,3 +50,4 @@ A quasi-experiment with 48 first-year English majors assigned to experimental (c
 - [Overall, the experimental group's posttest average was significantly higher than the control group's despite both groups declining from pretest to posttest.](wikipedia-corpus-overall-posttest-significant-advantage.md) — related
 - [Corpus-tool instruction significantly improves EFL student teachers' production of verb-noun collocations in writing, with a medium-to-large effect](corpus-tools-improve-collocation-production-writing.md) — related
 - [Corpus-based collocation instruction on lexical collocations improved collocational knowledge more than learning individual words](collocation-chunks-beat-individual-words.md) — related
+- [The personalized teaching intervention was associated with significantly greater vocabulary depth gains than conventional instruction (d = 0.69).](personalized-teaching-vocabulary-depth-gains.md) — related

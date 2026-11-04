@@ -51,3 +51,4 @@ Comparison of the two fitted SEMs (n = 386): the theory-driven MABC model (Model
 - [Academic engagement and regulation of behavior and context show incremental validity over cognitive predictors of university GPA](engagement-and-behavior-context-regulation-incremental-validity.md) — related
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [A three-predictor regression model (Source, APTTD, positive emotion) explains 32% of variance in group project grades](regression-model-32-percent-variance-grades.md) — related
+- [Engagement score, quiz completion rate, and assessment format independently predict answer accuracy in multivariate regression](multivariate-predictors-answer-accuracy.md) — related

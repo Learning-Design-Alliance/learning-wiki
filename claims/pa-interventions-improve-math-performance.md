@@ -53,3 +53,4 @@ Random-effect meta-analysis (RevMan 5.4.1) pooling 24 included studies that used
 - [A classroom-based physical activity program (Energizers) increases children's daily in-school physical activity compared with no program](energizers-increased-in-school-steps.md) — related
 - [Student-centred strategies, methods and techniques produce a moderate-to-high overall effect on primary school students' mathematics achievement compared to traditional teaching (ES = 0.787, random-effects model)](student-centred-methods-math-achievement-meta-analysis-0787.md) — related
 - [School-based physical activity interventions show a small positive pooled effect on children's mathematics performance (d = 0.23) across 11 randomised trials](school-pa-small-positive-effect-math-meta-analysis.md) — related
+- [Partial HPSF schools (physical activity only) showed no significant mathematics improvement versus control schools](partial-hpsf-no-mathematics-effect-versus-control.md) — related

@@ -50,3 +50,4 @@ Fisher exact test comparison immediately after the 4-hour zone 1 seminar in the 
 - [CPR quality scores were significantly higher in the experimental group at 3 and 6 months but not immediately after training](zone0-iv-cpr-quality-retention.md) — related
 - [The zone 0 interactive-video intervention was feasible and highly acceptable, with no adverse events or technical issues](zone0-iv-feasibility-acceptability.md) — related
 - [73% of experimental students achieved CPR competence during the self-directed zone 0 interactive-video phase alone](zone0-self-directed-competence-acquisition.md) — related
+- [Subjective confidence and safety do not differ significantly between training formats despite performance differences](ldhf-als-no-confidence-difference.md) — related

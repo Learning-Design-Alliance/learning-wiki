@@ -91,3 +91,4 @@ Testimony of Phyllis Rosser, a consultant on sex bias in testing, at the April 2
 - [Women were less accurate than men on the opposites tests but were less mature and less advanced in scholarship](sex-differences-opposites-accuracy.md) — related
 - [In this group the average girl's grades equal or exceed the average boy's in all six subjects, with the largest advantage in Latin](girl-boy-average-grade-comparison-1912.md) — related
 - [Male students showed a larger descriptive effect size (ES = +0.36) than female students (ES = +0.22), but the difference was not statistically significant](air-reading-gender-difference-not-significant.md) — related
+- [Boys spent more time in MVPA and less time in ST during school hours, whereas girls had higher GPAs](gender-descriptive-differences-pa-st-gpa.md) — related

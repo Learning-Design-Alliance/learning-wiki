@@ -44,6 +44,7 @@ The article's forward-looking design recommendations for community care simulati
 ## Related Strategies
 
 - [Embedding online simulation throughout curricula and providing more student access to online simulation approaches](embed-online-simulation-throughout-curricula.md)
+- [Structured pre- and post-simulation assignments to consolidate clinical reasoning learning](pre-post-simulation-reflective-assignments.md)
 
 ## Examples
 -

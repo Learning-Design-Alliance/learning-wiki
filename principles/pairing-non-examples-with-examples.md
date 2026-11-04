@@ -22,7 +22,7 @@ sources:
 # Pairing Non-examples with Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (8 for, 7 mixed) · 24 studies (11 causal, 7 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 4 of 24 report an effect size · 10 claims rest on one study
+> **Evidence** · 16 claims (9 for, 7 mixed) · 25 studies (12 causal, 7 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 4 of 25 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -122,6 +122,7 @@ Claims read for this page that bear on it less directly; none is part of the mod
 - [Invention Tasks Prepare Future Learning](../claims/invention-tasks-prepare-future-learning.md) [~M]: ninth-graders who invented a statistics procedure before instruction later learned more from a worked-example resource; its Discussion says pairing invention with contrasting cases is the standard design, which the entry does not test.
 - [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](../claims/self-explanation-effect-worked-examples.md) [+M]: a review reporting that self-explaining examples, and explaining their deep structure, went with better problem solving; it bears on step 3's explanation prompt, not on non-examples.
 - [Contrasting erroneous examples were more often effective than correct examples and problem-solving, sometimes equally or more effective than erroneous examples](../claims/con-errex-more-often-effective.md) [+W] — attached 2026-10-19 from Sonja Dieterich et al. (2025), which proposed "Use contrasting erroneous examples rather than erroneous examples alone when the goal is comparing incorrect and correct solutions"; tests this page's relationship.
+- [Including normal and abnormal karyotypes together, with explanations after incorrect answers, was rated highly helpful for learning](../claims/contrasting-normal-abnormal-karyotypes-rated-helpful.md) [+W] — attached 2026-11-04 from Barrio Eva et al. (2026), which proposed "Pair normal and pathological cases and give immediate explanatory feedback in digital diagnostic-training tools".
 
 ## Objective and learner-valued goal
 

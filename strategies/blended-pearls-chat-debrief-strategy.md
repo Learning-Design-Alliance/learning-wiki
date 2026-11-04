@@ -60,6 +60,7 @@ The article recommends a blended debrief approach: the four PEARLS phases (react
 - [Use a structured debriefing session after simulation scenarios to consolidate learning points.](structured-debriefing-after-simulation.md)
 - [Use a structured 3-phase debriefing model as the core of in situ simulation training](three-phase-debriefing-model-in-situ-simulation.md)
 - [Enhance poverty simulations with structured debriefings, trained volunteers, and psychological safety guidelines](enhance-simulations-debriefing-volunteer-training.md)
+- [Use the PEARLS Healthcare Debriefing Tool with paired otolaryngology faculty and nurse educator facilitators](pearls-debrief-with-dual-discipline-facilitators.md)
 
 ## Examples
 -

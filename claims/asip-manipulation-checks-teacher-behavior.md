@@ -67,3 +67,4 @@ Multilevel condition × time test of student-perceived autonomy support (LCQ, α
 - [The autonomy-supportive intervention program increased students' classroom engagement and decreased their disengagement over the semester](asip-improved-engagement-disengagement.md) — related
 - Participants were successfully blind to stimulation condition assignment across all four groups — related
 - [Teaching practices increase in both intervention conditions as a manipulation check](teaching-practices-increase-both-intervention-conditions.md) — related
+- [PHEEM total score increased modestly, driven by role autonomy and teaching, with no change in the social-support domain](pheem-total-increased-social-support-null.md) — related

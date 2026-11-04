@@ -80,3 +80,4 @@ Narrative synthesis: generative AI and chatbot-based virtual patients "more comm
 - [Video cases significantly improved cognitive, affective, and overall learning outcomes compared to paper cases in dental education](video-cases-outperform-paper-cases-dental-pbl.md) — related
 - [Residents reported high satisfaction with simulation-based learning, with 100% finding it useful and 70% perceiving psychomotor improvement](resident-satisfaction-vascular-simulation.md) — related
 - [AI chatbots, simulations, and generative models enhanced student engagement and learning efficiency in dental education](ai-tools-enhance-dental-student-engagement-efficiency.md) — related
+- [Participants perceived the AI-simulated patient interaction as authentic and potentially useful for shared decision-making training](perceived-authenticity-ai-sdm-chatbot.md) — a narrower finding that bears on this claim

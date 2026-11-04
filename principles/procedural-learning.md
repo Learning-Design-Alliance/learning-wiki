@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 52 claims (33 for, 17 mixed, 2 against) · 68 studies (34 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 11 of 68 report an effect size · 42 claims rest on one study
+> **Evidence** · 53 claims (33 for, 18 mixed, 2 against) · 69 studies (35 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 11 of 69 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -177,6 +177,7 @@ Accuracy with help, unaided accuracy, speed, delayed retention, choice among pro
 - [The teaching-skill advantage of hands-on supervision was maintained at two-month follow-up](../claims/hands-on-supervision-gains-maintained-follow-up.md) [+W]
 - [Simulation-based radiology training significantly improves procedural sequencing knowledge from pretest to posttest among medical technical assistant trainees](../claims/simulation-radiology-training-improves-procedural-sequencing.md) [~W]
 - [Higher-performing suturing groups differ mainly in suturing time, accurate needle passages, and unnecessary piercing points, not other components](../claims/suture-components-group-discrimination.md) [~W]
+- [The case-specific model group outperformed the generic-anatomy group on the first 3D-printed training procedure, but scores were similar on the second procedure](../claims/first-training-procedure-advantage-case-specific-models.md) [~W]
 
 ## Related Principles
 - [Explicit Instruction](direct-instruction.md) — often supplies the visible model and sequence that procedural learning needs

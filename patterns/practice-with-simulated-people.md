@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 219 claims (111 for, 89 mixed, 19 against) · 118 studies (35 review, 31 causal, 16 quant-synthesis, 15 design, 13 qualitative, 4 associational, 4 theoretical), `q1`–`q4` · 23 of 118 report an effect size · 214 claims rest on one study
+> **Evidence** · 230 claims (118 for, 93 mixed, 19 against) · 125 studies (36 review, 34 causal, 16 quant-synthesis, 16 design, 13 qualitative, 6 associational, 4 theoretical), `q1`–`q4` · 24 of 125 report an effect size · 225 claims rest on one study
 
 ## Description and scope
 
@@ -157,6 +157,8 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [VP simulation training increases clinical self-efficacy but not more than video training](../claims/vp-simulation-increases-clinical-self-efficacy.md) [~W] — attached 2026-11-04 from Cecil Julia et al. (2026), which proposed "Use VP simulations with pre-briefings and enhanced authenticity as a scalable complementary method in psychotherapy training"; tests this page's relationship.
 - [VP simulation training reduces perceived insecurity across most subdomains](../claims/vp-simulation-reduces-perceived-insecurity.md) [+W] — attached 2026-11-04 from Cecil Julia et al. (2026), which proposed "Use VP simulations with pre-briefings and enhanced authenticity as a scalable complementary method in psychotherapy training"; tests this page's relationship.
 - [VP training does not enhance knowledge about mental disorders](../claims/vp-training-no-knowledge-gains.md) [~W] — attached 2026-11-04 from Cecil Julia et al. (2026), which proposed "Use VP simulations with pre-briefings and enhanced authenticity as a scalable complementary method in psychotherapy training".
+- [Dental students' communication skills with standardized patients remained consistent in several domains and improved over time in others across 2016–2022](../claims/dental-sp-communication-seven-year-trends.md) [+W] — attached 2026-11-04 from Tiwari Tamanna et al. (2025), which proposed "Standardized patient encounter with immediate SP feedback and coach debrief as summative communication assessment"; tests this page's relationship.
+- [AI-generated OPTION-12 ratings agree strongly with human expert ratings of shared decision-making performance in AI-simulated consultations](../claims/ai-human-option12-agreement-feasibility.md) [+W] — attached 2026-11-04 from Herschbach L et al. (2026), which proposed "Use AI-simulated patients to provide scalable, low-threshold SDM practice opportunities with individualized automated feedback".
 
 ## Illustrative design instance and observation record
 
@@ -253,6 +255,15 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Insecurity decreases earlier with video training than with VP training](../claims/insecurity-decreases-earlier-with-video-than-vp.md) [~W]
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](../claims/qualitative-vp-experience-themes.md) [+W]
 - [Virtual patient simulations produced educational improvements equivalent to live standardized patient simulations](../claims/virtual-patients-equivalent-to-standardized-patients.md) [+W]
+- [AI simulation improves Mini-CEX medical interviewing skills and organization/efficiency but not professionalism, clinical judgment, counseling, or overall competence](../claims/ai-simulated-patient-minicex-domains-gynecology.md) [+W]
+- [AI-VSP teaching of history-taking skills achieves learning outcomes not significantly different from conventional SP in a randomized controlled trial](../claims/ai-vsp-non-inferior-to-sp-history-taking.md) [+M]
+- [OSCE performance did not differ significantly between AI-VSP and SP groups](../claims/ai-vsp-sp-osce-scores-similar.md) [+W]
+- [Mixed-effects models adjusting for age and class-level clustering found no significant differences in any primary learning outcome between AI-VSP and SP](../claims/ai-vsp-adjusted-analysis-no-outcome-difference.md) [~W]
+- [Both AI-VSP and SP groups improved significantly from pre-test to post-test, with no significant difference in score improvement between groups](../claims/ai-vsp-sp-post-test-improvement-similar.md) [~W]
+- [Comprehensive data linking simulation training to patient outcomes, complication rates, and long-term skill retention are lacking](../claims/simulation-skill-transfer-outcomes-lacking.md) [~W]
+- [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](../claims/simulation-higher-skill-retention-nurses-exploratory.md) [+W]
+- [Post hoc analysis suggests OSCE equivalence and non-inferiority of AI-VSP for other learning outcomes and satisfaction](../claims/ai-vsp-equivalence-non-inferiority-post-hoc.md) [+W]
+- [Technicians and collaborators disagree on whether technicians should perform roles in simulation scenarios](../claims/technician-role-scenario-disagreement.md) [~W]
 
 ## Examples
 
@@ -266,6 +277,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Use standardized patient social history encounters, reflective writing, and a mini-OSCE practice to teach SDH history collection](../strategies/sp-social-history-reflective-writing-mini-osce-strategy.md)
 - [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](../strategies/scaffolded-collaborative-to-individual-simulation-progression.md)
 - [Use LLM-based virtual patient simulations to provide on-demand, repeated standardized interview practice for rater training and calibration](../strategies/virtual-patient-rater-training-strategy.md)
+- [Use student standardized patients with role rotation and multi-source debriefing in scenario-based skills training](../strategies/ssp-role-rotation-debriefing-strategy.md)
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)

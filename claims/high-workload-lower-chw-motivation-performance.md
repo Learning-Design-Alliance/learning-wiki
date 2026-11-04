@@ -50,3 +50,4 @@ Review synthesis reporting that in 14 studies "a high workload was reported by C
 - [Lack of clarity on CHW tasks and roles, especially from the community side, lowered CHW motivation and performance](role-clarity-lack-lowers-chw-motivation-performance.md) — related
 - [Clearly defined CHW roles and clear communication processes among health system levels could strengthen CHW performance](clear-roles-communication-strengthen-chw-performance.md) — related
 - [Training positively influenced CHW motivation, job satisfaction and performance, though effects varied across studies](training-positive-influence-chw-motivation-performance.md) — related
+- [Role clarity and internal motivation are reported as motivation-related influences on EBP competence, with unclear role expectations and low volition hindering development](role-clarity-motivation-tcm-nurse-ebp.md) — related

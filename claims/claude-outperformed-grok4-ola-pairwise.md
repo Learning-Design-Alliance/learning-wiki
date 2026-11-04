@@ -48,3 +48,4 @@ OLA external validation analysis of 118 questions answered by 4 LLMs, analyzed w
 ## Related Claims
 - [Gemini 2.5 Pro significantly outperformed GPT-5 on EDAIC questions as the only significant pairwise difference after Holm correction](gemini-outperformed-gpt5-edaic-pairwise.md) — related
 - [Pairwise comparisons with Bonferroni-corrected McNemar's tests identified statistically significant differences favouring the highest-performing proprietary systems, most notably GPT-5 Pro over five lower-ranked models.](mcnemar-pairwise-llm-ebhs-significant-differences.md) — related
+- [Subspecialty performance varied: Gemini 2.5 Pro and Claude Sonnet led in abdominal and musculoskeletal radiology, and 3rd-year residents significantly outperformed 1st-year residents in musculoskeletal radiology](subspecialty-variation-llm-radiology-performance.md) — related

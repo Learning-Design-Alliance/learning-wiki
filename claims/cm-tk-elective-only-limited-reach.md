@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 recheck_by: 2031
 sources:
   - id: stock-schröer-b-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` None of the evaluated courses formed part of the compulsory curriculum; all were voluntary, often with small group sizes. [→ Stock-Schröer B 2026](#stock-schroer-b-2026)
@@ -49,3 +50,4 @@ Review-level finding from the discussion of implementation across the nine inclu
 - [Students rated CM and TK course offerings as satisfactory or very satisfactory at all study sites](cm-tk-courses-high-student-satisfaction.md) — related
 - [Culinary medicine and teaching-kitchen courses improve German undergraduate medical students' diet-related knowledge, skills and attitudes](cm-tk-improve-diet-related-competencies-german-medical-students.md) — related
 - [Göttingen CM elective improved counselling skills, knowledge, attitudes, well-being and eating habits in both virtual and in-person formats, while cooking frequency did not change](goettingen-cm-gains-virtual-in-person-cooking-frequency-null.md) — a narrower finding that bears on this claim
+- [Participation in a German culinary medicine elective improved medical students' counselling competencies, nutritional knowledge, attitudes, well-being and eating habits](culinary-medicine-elective-improves-counselling-competencies.md) — related

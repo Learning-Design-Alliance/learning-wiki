@@ -59,3 +59,4 @@ Reliability calibration study in which three raters (the authors) independently 
 - [Expert reviewers agreed the CAR's five key components sufficiently describe an excellent scientific conclusion](car-expert-content-validity-review.md) — related
 - [Statistically significant gains were detected on CAR key components 1 and 2 but not on components 3, 4, and 5 between first and third semester students](car-key-component-gains-by-semester.md) — related
 - [A literature review found that only 26 of 54 published process-of-science assessment tools examined some aspect of conclusion making](literature-review-conclusion-assessment-tools-scarcity.md)
+- [Two independent observers showed excellent interrater agreement when assessing nursing students' VAP prevention skill performance in simulation](excellent-interrater-agreement-vap-checklist.md) — related

@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 136 claims (80 for, 52 mixed, 4 against) · 87 studies (43 causal, 19 quant-synthesis, 13 review, 4 associational, 4 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 31 of 87 report an effect size · 128 claims rest on one study
+> **Evidence** · 142 claims (83 for, 55 mixed, 4 against) · 90 studies (44 causal, 19 quant-synthesis, 13 review, 5 associational, 5 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 32 of 90 report an effect size · 134 claims rest on one study
 
 ## Conditional relationship
 
@@ -180,6 +180,9 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Integrating asynchronous videos with simulation-based practice was perceived as enabling more focused engagement during supervised sessions, shifting attention from procedural recall to technical execution.](../claims/video-simulation-integration-focuses-technical-execution.md) [+W] — attached 2026-11-04 from Herrera Alcaíno Álvaro et al. (2026), which proposed "Integrated video-plus-simulation module design combining asynchronous preparation with supervised hands-on practice using individual simulation kits.".
 - [Flipped classroom students achieved significantly higher mean pharmacology exam grades than traditional classroom students](../claims/fc-higher-mean-exam-grade-dental-pharmacology.md) [+W] — attached 2026-11-04 from Galvin Sheila (2026), which proposed "Flipped classroom design for dental pharmacology: pre-class recorded lectures with embedded reflective questions plus periodic live review sessions"; tests this page's relationship.
 - [Students rated the flipped classroom more positively than the traditional classroom, but the satisfaction difference was not statistically significant](../claims/fc-satisfaction-higher-not-significant.md) [~W] — attached 2026-11-04 from Galvin Sheila (2026), which proposed "Successful flipped classroom implementation requires engagement supports: content timing, faculty development, infrastructure and student readiness"; tests this page's relationship.
+- [ICM students reported significantly higher preparation ratings than frontal-teaching students, with large effects on the overall preparation score](../claims/icm-higher-preparation-ratings-dental.md) [+W] — attached 2026-11-04 from Reuter Ann Katrin et al. (2026), which proposed "Implement the inverted classroom model as a complement to traditional teaching, with institutional support and careful attention to cognitive load in early-stage learners"; tests this page's relationship.
+- [ICM students rated collaborative learning significantly higher than frontal-teaching students, with large effects](../claims/icm-higher-collaborative-learning-ratings.md) [+W] — attached 2026-11-04 from Reuter Ann Katrin et al. (2026), which proposed "Implement the inverted classroom model as a complement to traditional teaching, with institutional support and careful attention to cognitive load in early-stage learners"; tests this page's relationship.
+- [ICM students reported higher active participation and motivation, but frontal-teaching students scored higher on deepening content outside class](../claims/icm-active-participation-mixed-outside-class.md) [~W] — attached 2026-11-04 from Reuter Ann Katrin et al. (2026), which proposed "Implement the inverted classroom model as a complement to traditional teaching, with institutional support and careful attention to cognitive load in early-stage learners"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -270,6 +273,9 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Flipped classroom exam grade distribution shifted rightward, with more students achieving higher grades overall](../claims/fc-grade-distribution-rightward-shift.md) [+W]
 - [A higher proportion of flipped classroom students passed the pharmacology exam (75% vs 60% above 50%)](../claims/fc-higher-pass-rate-dental-pharmacology.md) [+W]
 - [Facilitator observations indicated higher student engagement than in lecture-based sessions](../claims/facilitator-observed-higher-engagement-than-lectures.md) [+W]
+- [Pre-class preparation (93.5%) and instructor debriefings (93.6%) were rated highly effective](../claims/preclass-and-debrief-ratings-pilot.md) [+W]
+- [Half of students spent over two hours preparing for each pre-class test](../claims/pre-class-tests-preparation-time-investment.md) [~W]
+- [The FC/TPS pilot demonstrated high feasibility and learner acceptability but not proven efficacy](../claims/fc-tps-pilot-feasibility-not-efficacy.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

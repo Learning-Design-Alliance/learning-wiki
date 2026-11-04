@@ -44,6 +44,7 @@ The article's implementation strategy is to release sensitive disclosure topics 
 
 - [Mastery Based Progression](mastery-based-progression.md)
 - [Development strategies targeting AI virtual patient limitations: expert-reviewed content, iterative prompt engineering, behavioral rules, few-shot prompting, and conversational memory](ai-virtual-patient-mitigation-strategies.md)
+- [Configure the LLM simulated patient with behavioral constraints and standardized scripts to ensure consistency](llm-simulated-patient-prompt-constraints-strategy.md)
 
 ## Examples
 -

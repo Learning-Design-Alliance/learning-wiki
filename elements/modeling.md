@@ -13,7 +13,7 @@ generated:
 # Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 22 claims (12 for, 9 mixed, 1 against) · 19 studies (10 causal, 5 review, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q3` · 6 of 19 report an effect size · 19 claims rest on one study
+> **Evidence** · 23 claims (12 for, 10 mixed, 1 against) · 20 studies (11 causal, 5 review, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q3` · 6 of 20 report an effect size · 20 claims rest on one study
 
 ## Description
 Modeling is the instructional element in which an instructor, expert, or advanced peer demonstrates expert thinking and behavior — making both the actions and the reasoning behind them visible. It functions as the observational entry point to skill acquisition: learners study a competent performance, including its decision points and self-monitoring, before producing their own attempts.
@@ -72,6 +72,7 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 - [Video modeling interventions yield strong or moderate treatment effects in 56% of reviewed studies of students with EBD](../claims/vm-ebd-56-percent-strong-moderate-pnd.md) [+W]
 - [Demonstration-based CPR training tended to produce more accurate performance than lecture-based approaches](../claims/demonstration-beats-lecture-cpr-training.md) [+W]
 - [After treatment, demonstration-method students significantly outperform conventional-approach students in financial accounting achievement, with a large effect](../claims/demonstration-method-posttest-advantage-financial-accounting.md) [+W]
+- [Literature offers no consensus on whether video demonstration or standardized patient teaching is better for psychomotor skills, motivating direct comparison](../claims/no-consensus-vd-vs-sp-psychomotor-teaching.md) [~W]
 
 ## The evidence by question
 - *Should modelling come before the learner's first attempts?* [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]

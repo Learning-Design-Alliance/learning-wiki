@@ -51,3 +51,4 @@ Cross-sectional one-way ANOVA of total SDL-R across age groups (means from 80.72
 - [SDL-R in preclinical medical students declines modestly in M1 Spring and then recovers through year two, with gains concentrated at curricular transition points](sdlr-transient-m1-spring-decline-recovery.md) — related
 - [Male students report slightly higher SDL-R than female students, with small effect sizes and no difference in interpersonal communication](sex-differences-sdlr-small-effect-sizes.md) — related
 - [Younger nursing students more frequently report motivational challenges in self-directed learning than mature students](younger-students-motivation-challenges-sdl.md) — related
+- [Study-related stress peaks at year 4 while satisfaction and intrinsic motivation decline across training](stress-peaks-year4-motivation-declines.md) — related

@@ -54,3 +54,4 @@ Quasi-experiment with 120 nursing interns (60 per group) comparing BOPPPS plus v
 - [In the same RCT, the experimental group reported higher scores than the control group across all five dimensions of teaching satisfaction (all P < 0.05)](pbl-virtual-simulation-satisfaction-all-dimensions-trauma-orthopedics.md) — related
 - [In an RCT of trauma orthopedic teaching, PBL combined with virtual simulation produced significantly higher written examination scores than lecture-based teaching (88.48 ± 4.02 vs. 77.04 ± 5.31, p < 0.01)](pbl-virtual-simulation-higher-written-exam-trauma-orthopedics.md) — related
 - [BOPPPS with virtual simulation improves humanistic care ability overall (d = 0.46), with gains in cognition and patience but not courage](boppps-virtual-simulation-humanistic-care.md) — related
+- [Working time and satisfaction do not differ between interactive and passive e-learning groups](e-learning-working-time-satisfaction-no-difference.md) — related

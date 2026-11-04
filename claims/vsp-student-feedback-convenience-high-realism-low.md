@@ -50,3 +50,4 @@ Anonymous postencounter online questionnaire completed by 63 of 92 students (68.
 - [Participants rate SOPHIE's actionable feedback highest among system features, above avatar realism](sophie-actionable-feedback-highest-rated-feature.md) — related
 - [In a paired crossover study, the AIPatient GenAI system matched or exceeded human-simulated patients on emotional realism, technical reliability, and clinical reasoning support](aipatient-matches-or-exceeds-human-simulated-patients.md) — reports the opposite
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](expert-evaluation-realism-and-feedback-awareness.md) — related
+- [Student satisfaction did not differ significantly between AI-VSP and SP groups](ai-vsp-sp-satisfaction-similar.md) — related

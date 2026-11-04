@@ -89,3 +89,4 @@ One-way ANOVA on perceived independent thinking across clusters; the article des
 - [Higher academic self-efficacy profiles report greater overall academic AI use, with a large effect (η² = .36)](higher-self-efficacy-profiles-greater-ai-use.md) — related
 - [Confused guessers had significantly lower pre- and post-test skill scores than most other clusters, but their science learning gains were not significantly different from those of Clusters 1, 2, and 4.](confused-guessers-lower-skills-similar-gains.md) — related
 - [Problem-solving-prepared students often accepted the AI solution uncritically or critiqued it based on their own misconceptions](problem-solving-preparation-yields-uncritical-or-misconception-based-critiques.md) — related
+- [Baseline sense of coherence and coping, not GPA, differentiate the post-graduation profiles](baseline-soc-coping-differentiate-profiles.md) — related

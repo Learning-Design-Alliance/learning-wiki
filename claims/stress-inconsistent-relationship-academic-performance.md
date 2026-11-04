@@ -49,3 +49,4 @@ Review synthesis of 4 observational studies of stress and academic performance. 
 - [Grit shows the strongest relationship to academic performance of all non-cognitive factors examined in rehabilitation science students](grit-strongest-non-cognitive-correlate-academic-performance-rehabilitation.md) — related
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — related
 - [The direct association between internet addiction and GPA-based academic performance is inconsistent across studies of health sciences students](ia-gpa-association-inconsistent.md) — related
+- [Rehabilitation classes show the lowest answer accuracy across both cohorts](rehabilitation-lowest-answer-accuracy.md) — related

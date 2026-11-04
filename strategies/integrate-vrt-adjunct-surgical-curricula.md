@@ -53,6 +53,7 @@ The article concludes that virtual reality training could provide a useful train
 - [Hybrid model: initial VR training for procedural familiarity followed by supervised hands-on practice](hybrid-vr-then-hands-on-thoracentesis-model.md)
 - [Incorporate hands-on clinical simulation with low-fidelity task trainers into basic science curricula to bridge theoretical knowledge and clinical application](hands-on-clinical-simulation-basic-science-strategy.md)
 - [Sequence porcine-model training as the final step of a graduated simulation pathway](graduated-simulation-pathway-porcine-final-step.md)
+- [Practice frame assembly outside the operating room to mitigate prolonged procedure times for trainees](prior-frame-assembly-practice-mitigates-prolonged-times.md)
 
 ## Examples
 -

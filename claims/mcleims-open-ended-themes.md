@@ -50,3 +50,4 @@ Thematic analysis of open-ended responses from 97 students (response rate 89.8%)
 - [Students identified mannequin realism limitations, technical and operational issues, and restricted access to simulation labs as barriers to SBL in oral radiology](barriers-sbl-oral-radiology-realism-technical-access.md) — related
 - [CHW trainees value realistic standardized patient scenarios as a key benefit of simulation-based MI training](chws-value-realistic-sp-scenarios-in-mi-simulation-training.md) — related
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
+- [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) — related

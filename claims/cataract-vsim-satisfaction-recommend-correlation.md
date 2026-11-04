@@ -47,3 +47,4 @@ Exploratory Spearman's rank correlation analysis in the study of 31 students fou
 ## Related Claims
 - [Perceived satisfaction correlates strongly and negatively with work imbalance (Gini index), and willingness to collaborate again correlates with group productivity](satisfaction-gini-correlation.md) — related
 - [More unequal distribution of participation in online collaboration groups is associated with lower satisfaction with the collaboration](unequal-participation-lower-satisfaction.md) — related
+- [Resilience correlates positively with satisfaction domains; pandemic-related concerns associate with lower satisfaction](resilience-satisfaction-correlations.md) — related

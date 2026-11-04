@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 287 claims (136 for, 136 mixed, 15 against) · 213 studies (67 causal, 63 associational, 28 review, 18 quant-synthesis, 15 theoretical, 12 qualitative, 10 design), `q1`–`q4` · 49 of 213 report an effect size · 271 claims rest on one study
+> **Evidence** · 288 claims (137 for, 136 mixed, 15 against) · 214 studies (67 causal, 63 associational, 28 review, 18 quant-synthesis, 15 theoretical, 13 qualitative, 10 design), `q1`–`q4` · 49 of 214 report an effect size · 272 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -334,6 +334,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Regulatory difficulty shows a modest incremental negative association with school-recorded GPA after covariates, aggression, and achievement motivation (β = −0.214)](../claims/regulatory-difficulty-incremental-negative-gpa.md) [+W]
 - [Weekly reflections were barely used while learning goals and daily reflections dominated actual app use](../claims/weekly-reflections-barely-used-goals-daily-dominant.md) [~W] — attached 2026-11-04 from Ivo Bril-Broers et al. (2026), which proposed "Self-regulated learning cycle model underlying the Nurse-IT reflection app".
 - [Smartphone-based reflection app lowered practical barriers to structural reflection and decreased the mental burden of self-regulated learning for nursing students on clinical placement](../claims/reflection-app-lowers-barriers-structural-reflection-nursing-placement.md) [+W]
+- [Radar charts after feedback helped novice nurses identify strengths, weaknesses and track progress across clinical domains](../claims/mini-cex-dops-radar-charts-progress-tracking.md) [+W]
 
 ## The evidence by question
 

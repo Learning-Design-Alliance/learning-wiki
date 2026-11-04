@@ -72,3 +72,5 @@ Same multinomial logistic regression analysis. The three non-gender predictors w
 - [The low regulators with limited social skills profile showed significantly lower social presence than the low regulators profile, with no significant difference in teaching or cognitive presence](limited-social-skills-profile-lower-social-presence.md) — related
 - [Student personal and educational characteristics (gender, age, grade, GPA, courses taken, SAE type) were descriptively profiled for the 102 participants in the two groups](participant-characteristics-oklahoma-animal-science-students.md) — related
 - [Gender, study major and age group show no significant differences in team creative skills across stickiness stages](no-gender-major-age-differences-creative-skills.md) — related
+- [Academic performance did not significantly predict membership in any of the four latent psychosocial profiles among Chilean university students](academic-performance-did-not-predict-profile-membership.md) — related
+- [Age and sex predicted membership in the latent psychosocial profiles among Chilean university students](age-sex-predict-latent-profile-membership.md) — related

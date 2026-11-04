@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 52 claims (15 for, 35 mixed, 2 against) · 52 studies (11 review, 10 causal, 10 design, 9 theoretical, 8 associational, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 52 report an effect size · 47 claims rest on one study
+> **Evidence** · 53 claims (15 for, 36 mixed, 2 against) · 53 studies (11 review, 11 design, 10 causal, 9 theoretical, 8 associational, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 53 report an effect size · 48 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - [Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components](../claims/higher-concordance-binary-than-ternary-components.md) [~W]
 - [LC-CUSUM trajectories showed progressive skill acquisition in both groups, with descriptive trends toward earlier competency in the mikoto arm](../claims/mikoto-lc-cusum-learning-curves.md) [+W]
 - [The pork-based simulation model stratifies surgical competency across PGY levels](../claims/pork-model-stratifies-competency-pgy-levels.md) [~W]
+- [Ottawa GRS scores rated both leaders within the competent range while TEAM scores differentiated the expert and novice leaders more clearly](../claims/ottawa-grs-versus-team-score-differentiation.md) [~W]
 
 ## Related Principles
 - [Mastery Learning](mastery-learning.md) — the progression rule that learners advance on demonstrated mastery rather than schedule

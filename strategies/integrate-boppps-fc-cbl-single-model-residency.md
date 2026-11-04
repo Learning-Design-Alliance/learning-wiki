@@ -60,6 +60,7 @@ The authors recommend that "medical education policymakers consider the strategi
 - [Adopt flexible, competency-based attendance policies and flipped classrooms for senior medical students](flexible-attendance-flipped-classroom-senior-students.md)
 - [Phased implementation, rigorous case development, faculty development, and balanced assessment when adopting BOPPPS-CBL](boppps-cbl-implementation-strategies.md)
 - [Use faculty development workshops to standardize TBL facilitation with diverse team composition and case integration](faculty-development-tbl-facilitation.md)
+- [Implement faculty development programs, systematic curriculum integration, and student orientation to maximize case-based learning benefits](cbl-structured-implementation-strategy.md)
 
 ## Examples
 -

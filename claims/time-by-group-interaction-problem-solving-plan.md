@@ -84,3 +84,4 @@ The interaction is described as disordinal and strongest for females who receive
 - [ECHOS teachers significantly improved their PreSCOT scores in predicting, investigating, and evaluating across the year while control teachers did not](echos-teachers-improved-predicting-investigating-evaluating.md) — related
 - [The F-Ratio from Repeated Measures ANOVA was significant (p < .001) for the overall observation score and for each composite score (N = 40) for the five observations.](pd-improved-instructional-practices-equip.md) — related
 - [Repeated Measures ANOVA on MAP scores in the fall and the spring indicated a significant difference (p < .001) for the overall composite score and for general science content and process standards separately.](pd-improved-student-achievement-map.md) — related
+- [The group-by-exposure interaction was statistically significant for both mathematics and reading comprehension](hpsf-group-exposure-interaction-significant.md) — related

@@ -68,6 +68,7 @@ Gamification reliably increases short-term engagement and activity completion, b
 - [Use a game balancing technique when assigning students to competition-based persuasive conditions to avoid discouraging competition-averse students.](game-balancing-competition-group-assignment.md)
 - [Incorporate game elements such as rewards, adaptive difficulty, immersive environments, and clear feedback into digital interventions for ADHD](game-elements-strategy-adhd-digital-interventions.md)
 - [Reward students with badges on the platform for participation and completion to encourage more participation in all project stages.](badges-encourage-platform-participation.md)
+- [Gamified team point system with public tracking and a final excellence award](gamified-team-points-excellence-award.md)
 
 ## Related Elements
 - [Provide feedback](../elements/provide-feedback.md) — points and badges are feedback delivery mechanisms; their instructional value depends on informational content
