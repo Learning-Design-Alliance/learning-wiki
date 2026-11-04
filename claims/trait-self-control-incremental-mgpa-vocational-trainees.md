@@ -55,3 +55,4 @@ Simultaneous multivariate multiple regression in Mplus with cluster-robust stand
 - [Fluid reasoning significantly predicted enjoyment but not self-efficacy after accounting for adaptability and covariates](fluid-reasoning-predicts-enjoyment-not-self-efficacy.md) — related
 - [Conscientiousness is positively associated with course grades and final examination grades in mathematics and English after controlling for covariates](conscientiousness-positively-predicts-grades-adjusted.md) — related
 - [Students' SRL scores significantly predict post-curriculum test performance above and beyond prior knowledge](srl-scores-predict-post-test-above-prior-knowledge.md) — related
+- [In low-performing online participants, self-organization, commuting time, and preference for intensive reviewing predict examination scores](low-performers-online-predictors.md) — related

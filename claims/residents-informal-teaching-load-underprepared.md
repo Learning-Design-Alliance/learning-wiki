@@ -50,3 +50,4 @@ This is the review's thematic synthesis (Theme 1) of 32 studies spanning surveys
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Longitudinal, integrated RaT programs produce more durable teaching skill gains than brief stand-alone workshops](longitudinal-rat-programs-durable-gains.md) — related
 - [EI development occurred informally through experience rather than structured curricular mechanisms, revealing an institutional gap](ei-institutional-gap-informal-development.md) — related
+- [A majority (60%) of surveyed emergency medicine program directors report no structured and longitudinal ECG curriculum](majority-pds-report-no-structured-ecg-curriculum.md) — a narrower finding that bears on this claim

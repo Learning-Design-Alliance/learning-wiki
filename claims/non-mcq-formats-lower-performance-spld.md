@@ -67,3 +67,5 @@ The review reports additional quantitative outcomes: lower first-year scores (Gi
 - [Prevalence of SpLDs among medical students averages 5.5%, ranging from 2% to 11.5% across studies](spld-prevalence-medical-students-5-5-percent.md) — related
 - [Medical students with SpLDs report persistent academic, emotional, and social challenges including reading and writing difficulties, time pressure, anxiety, and isolation](spld-qualitative-challenges-emotional-burden.md) — related
 - [Late identification of SpLDs is associated with poorer academic outcomes, increased stress, and higher burnout risk among medical students](delayed-spld-diagnosis-poorer-outcomes.md) — related
+- [Students' perception of EMQs is average and unrelated to actual EMQ performance](emq-perception-unrelated-to-performance.md) — related
+- [GPA and gender effects on performance vary by question format](gpa-gender-effects-vary-by-format.md) — related

@@ -61,3 +61,4 @@ Reliability analysis of ratings by two trained inter-raters using an 11-band ana
 - [PET speaking scores showed significant inter-rater agreement between the two raters](pet-speaking-inter-rater-reliability-significant.md) — related
 - [Face-to-face pen-and-paper collaborative writing yields higher analytic, authentic, words-per-sentence and long-word scores than virtual collaborative writing](pen-paper-collaborative-writing-higher-analytic-authentic.md) — related
 - [Both computer-based and paper-based versions of the achievement test show high split-half reliability coefficients](high-reliability-both-test-modes.md) — related
+- [CAR 1.0 achieved good to excellent inter-rater reliability across all five key components (α = 0.836 to 0.973)](car-1-0-cronbach-alpha-reliability.md) — related

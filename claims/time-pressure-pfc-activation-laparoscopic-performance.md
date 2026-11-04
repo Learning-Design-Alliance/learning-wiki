@@ -67,3 +67,4 @@ The review attributes this subsequent fNIRS study to the same group [65], compar
 
 - [Experts show significantly lower prefrontal cortex activation than novices during technical skill performance, but novices may retain persistent PFC engagement even after reaching expert-level observed performance](experts-lower-pfc-activation-than-novices.md)
 - [Task nature modulates brain activation: problem-solving tasks and difficult cases induced higher activation than simple recall or routine cases, and incorrect answers induced higher PFC activation than correct answers](task-difficulty-modulates-brain-activation.md)
+- [Time pressure increases errors in health-professional performance, with mastery only partially compensating](time-pressure-increases-clinical-errors.md) — related

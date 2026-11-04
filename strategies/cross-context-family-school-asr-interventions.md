@@ -51,6 +51,7 @@ The authors recommend prevention and intervention programs that integrate family
 - [Start early: foster a positive math climate at home and school to prevent the distal avoidance pathway](early-positive-math-climate-prevention.md)
 - [Interventions should simultaneously enhance academic self-concept and achievement](interventions-enhance-both-self-concept-and-achievement.md)
 - [Embed longitudinal planning scaffolds and time support at semester transitions in preclinical curricula](longitudinal-planning-scaffolds-transitions.md)
+- [Prioritize academic engagement in interventions to prevent negative risk-taking and address both domains to interrupt vicious cycles](engagement-first-intervention-negative-risk-taking-prevention.md)
 
 ## Examples
 -

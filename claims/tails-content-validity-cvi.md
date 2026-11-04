@@ -53,3 +53,8 @@ Mixed quantitative–qualitative expert review with seven experts in teacher edu
 - [Content validity of the HLC-N exceeds recommended thresholds (I-CVI 0.813–1.00; S-CVI/Ave 0.952)](hlc-n-content-validity-cvi.md) — related
 - [The single low-rated item, scenario content facilitating critical thinking, was revised per reviewer suggestions and reached CVI and MKC of 1.00 in round two](critical-thinking-item-revised-to-full-agreement.md) — related
 - [A simulated scenario for pediatric EVD management built with RCDP achieved excellent content validity from seven expert reviewers across two assessment rounds](rcdp-evd-scenario-content-validity.md) — related
+- [Content validity evaluation of the preliminary 30-item CRCDCS indicated CVR values from 0.40 to 1.00 with nine items below the 0.62 threshold removed, and I-CVI values from 0.80 to 1.00 for retained items.](crcdc-content-validity-cvr-icvi.md) — related
+- [The CSL-LTS demonstrates adequate content validity with Aiken's V values exceeding 0.8 for all three assessed attributes](csl-lts-content-validity-aiken-v.md) — related
+- [The DKSCQ-N demonstrates strong content validity with a scale-level Content Validity Index of 0.95 following expert review and item refinement.](dkscqn-content-validity-s-cvi-095.md) — related
+- [Content validity of the HSPNCS is acceptable (S-CVI/Ave 0.972)](hspncs-acceptable-content-validity.md) — related
+- [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](vega-content-validity-cvi.md) — related

@@ -54,3 +54,4 @@ Systematic review of 20 studies (narrative synthesis) of simulation-based patien
 - [Simulation-based training is associated with improved patient safety-related skills and knowledge in undergraduate nursing students](simulation-improves-nursing-patient-safety-skills.md) — related
 - [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](no-definitive-superiority-active-methods-dentistry.md) — related
 - [VR clinical simulation produced higher anxiety than face-to-face manikin simulation in maternal-newborn nursing](vr-simulation-higher-anxiety-than-face-to-face.md) — a narrower finding that bears on this claim
+- [Personalised video-assisted feedback improves selected simulation-based learning subdimensions: nursing process, patient safety and reflective behaviour](personalised-video-feedback-improves-nursing-process-safety-reflection.md) — related

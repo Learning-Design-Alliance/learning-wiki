@@ -51,6 +51,7 @@ The review identifies implementation strategies that "significantly enhanced exp
 - [Simulation Based Learning](simulation-based-learning.md)
 - [Scenario Based Training](scenario-based-training.md)
 - [Use RCDP with immediate directive feedback at scene interruptions, reserving debriefing for consolidation](rcdp-immediate-feedback-with-consolidation-debriefing.md)
+- [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 
 ## Examples
 -

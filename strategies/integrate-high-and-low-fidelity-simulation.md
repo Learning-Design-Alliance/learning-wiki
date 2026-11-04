@@ -54,6 +54,7 @@ The review recommends combining high-fidelity body donor models with low-fidelit
 - [Implement simulation-based education with targeted interventions, high-intensity low-dose high-frequency training, and strong integration and support](three-features-effective-sbe-programs.md)
 - [Progressively integrate haptic simulators from basic skills to complex surgical tasks across the curriculum](progressive-haptic-simulator-curricular-integration.md)
 - [Use targeted educational interventions — continuing education, dissection courses, generative retrieval and integrated anatomy training — to sustain basic science retention](targeted-interventions-sustain-basic-science-retention.md)
+- [Implement progressive and layered simulation training across career stages for paediatric surgery nurses](progressive-layered-simulation-training-career-stages.md)
 
 ## Examples
 -

@@ -55,6 +55,7 @@ The article draws implementation remarks for digital trainings for young childre
 - [Balancing Screen Time with Physical Activity](balancing_screen_time_with_physical_activity.md)
 - [Parent Workshops](parent-workshops.md)
 - [Blend digital and physical learning experiences to address screen-time concerns in early childhood technology](blend-digital-physical-learning-experiences.md)
+- [Use family WeChat groups as the intervention carrier for tumor screening education](family-wechat-groups-intervention-carrier.md)
 
 ## Examples
 -

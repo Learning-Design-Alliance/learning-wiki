@@ -3,6 +3,7 @@ type: claim
 title: Platform-generated scores and rubric-based teaching quality produced substantially divergent rankings of the same AI teaching agents
 description: Platform-generated scores and rubric-based teaching quality produced substantially divergent rankings of the same AI teaching agents
 id: platform-rubric-rankings-diverge-ai-teaching-agents
+aliases: [platform-scores-diverge-from-rubric-quality]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -28,7 +29,10 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
+
 `q2 i?` Agent rankings by platform score and by 8-dimension rubric quality diverged: A8 ranked third by platform but last by rubric, and A6 rose from fourth to first. [→ Zhang Hui 2026](#zhang-hui-2026)
+
+`q3 i?` Platform and rubric rankings diverged for most agents, with A8 ranked third by platform but last by rubric and A6 rising from fourth to first. [→ Zhang Hui MM 2026](#zhang-hui-2026)
 
 ## Evidence
 
@@ -42,11 +46,28 @@ Rank comparison of 8 agents from 167 dialogues on the Chaoxing platform versus r
 
 > "Agent rankings from platform scores and from the 8-dimension rubric diverged substantially (Figure 6A). Two agents illustrate this most clearly: A8 ranked third by platform score but last by rubric quality, and A6 rose from fourth to first."
 
+<!-- merged 2026-11-04 from platform-scores-diverge-from-rubric-quality: that page's entry for this study, which differed from the one above, kept verbatim.
+### Zhang Hui MM 2026
+
+Zhang Hui MM, Qu Lihui PHD, Zheng Jianmin MMgmt, Xiong Yi MSc, Bai Hongbo MSc, Ji Ruiying MSc, Liu Guohui MSc, Chen Wanling MD, Cheng Zirui MD, Chen Youbang MSc, Yang Chun-tao PhD. (2026). What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education. JMIR Medical Education. https://doi.org/10.2196/96819
+
+`q3 · i?`
+
+Cross-sectional observational analysis of 167 dialogues from 22 students interacting with 8 agents on the Chaoxing platform. The divergence reflects that "platform scores index student performance during the interaction, whereas the rubric indexes the teaching quality of the agent itself."
+
+> "Two agents illustrate this most clearly: A8 ranked third by platform score but last by rubric quality, and A6 rose from fourth to first."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Strengthening an agent's empathic persona did not translate into broader knowledge delivery: the revised family-member agent had high role-play quality but the lowest knowledge coverage](empathy-revision-did-not-improve-knowledge-coverage.md) — related
 - [Independent LLM evaluators agreed on agent rankings but differed markedly in leniency, with ceiling effects compressing between-agent discrimination](llm-evaluator-leniency-ceiling-effects.md) — related
 - [LLM-based rubric scores agreed with expert ratings at the total-score level and on cognitive-process dimensions, but agreement was low for more subjective dimensions](ai-expert-agreement-cognitive-versus-subjective-dimensions.md) — related
 - [AI teaching agents differed most on knowledge-related dimensions and least on role-play quality, with adaptive difficulty calibration a shared weakness](agents-differ-knowledge-not-role-performance.md) — related
+- [Strengthening empathy in the family-member agent did not translate into broader knowledge delivery](a8-empathy-revision-lowest-knowledge-coverage.md) — related
+- [Platform scores varied significantly across the 8 AI teaching agents](platform-scores-varied-across-agents.md) — possibly the same claim (merge candidate)
+- [Rubric-based agent quality showed no systematic association with end-of-course chapter examination performance](rubric-quality-examination-no-association.md) — related

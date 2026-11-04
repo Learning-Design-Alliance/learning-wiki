@@ -31,7 +31,7 @@ sources:
 # Phonics
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (19 for, 8 mixed, 6 against) · 47 studies (13 quant-synthesis, 12 causal, 10 review, 6 theoretical, 5 associational, 1 qualitative), `q1`–`q4` · 12 of 47 report an effect size · 21 claims rest on one study
+> **Evidence** · 34 claims (19 for, 9 mixed, 6 against) · 48 studies (13 quant-synthesis, 12 causal, 11 review, 6 theoretical, 5 associational, 1 qualitative), `q1`–`q4` · 12 of 48 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,7 @@ Decoding taught words, decoding new words, spelling, fluency, comprehension and 
 - [Phonics instruction is the only treatment approach whose effectiveness on reading performance in children and adolescents with reading disabilities is statistically confirmed](../claims/phonics-instruction-only-confirmed-reading-treatment.md) [-W]
 - [After correcting for publication bias, the effect of phonics instruction on reading performance remains small but statistically significant](../claims/phonics-reading-effect-robust-to-publication-bias.md) [+W]
 - [Units of Sound showed no statistically significant effect on spelling (SWST), with a negative non-significant effect size of -0.07](../claims/units-of-sound-no-significant-spelling-effect.md) [-W]
+- [Explicit GPC instruction boosts reading acquisition, but spelling-sound regularities can also be learned implicitly from text exposure](../claims/explicit-plus-implicit-gpc-learning.md) [~W]
 
 ## Related Principles
 - [Chunking](chunking.md) — phonics scope-and-sequence works by introducing grapheme–phoneme correspondences in small, cumulative sets

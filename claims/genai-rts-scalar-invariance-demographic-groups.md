@@ -51,3 +51,4 @@ Multigroup confirmatory models tested configural, metric, and scalar invariance 
 - [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](sfailq-scalar-invariance-age-groups.md) — related
 - [GenAI-RTS subscale reliability is acceptable to good (ω = .75–.88)](genai-rts-subscale-reliability-acceptable.md) — related
 - [The GenAI-RTS is supported by a five-factor structure in which Strategic reliance comprises Deliberate Use and Critical Evaluation facets alongside Instrumental, Dependent, and Dialogic factors](genai-rts-five-factor-structure-supported.md) — related
+- [Multigroup CFA supports configural and loading invariance across gender groups, but scalar and strict invariance could not be evaluated conclusively](multigroup-cfa-gender-invariance-partial.md) — related

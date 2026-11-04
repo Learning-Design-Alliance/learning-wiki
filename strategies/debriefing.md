@@ -73,6 +73,7 @@ Debriefing operationalizes the reflection stage of experiential learning: experi
 - [Teacher as facilitator monitoring VR progress and debriefing after diagnostic VR sessions](teacher-facilitator-role-in-poed-vr.md)
 - [Integrate obesity simulation suits into broader multimodal designs with structured prebriefing, guided reflection, and debriefing rather than using them as standalone interventions](oss-embed-in-multimodal-design.md)
 - [Pair online lectures with virtual role-play or simulation sessions to add experiential learning](online-lecture-virtual-roleplay-simulation.md)
+- [Use video recordings during debriefing to help students identify their own errors and support reflective learning](video-assisted-debriefing-error-identification-strategy.md)
 
 ## Examples
 - **Simulation-based healthcare education** — Post-scenario debriefing is considered the pedagogical heart of simulation; programs following Fanning & Gaba's framework treat the scenario as merely the stimulus for the debrief.

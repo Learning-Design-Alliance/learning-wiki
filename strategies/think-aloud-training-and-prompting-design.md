@@ -51,6 +51,7 @@ The review recommends two highlighted strategies for improving think-aloud valid
 
 - [Think-Aloud Modeling](think-aloud-modeling.md)
 - [Use a multi-study mixed method design combining process data (eye tracking), concurrent think-aloud, and retrospective interviews to study SRL adaptation](mixed-method-eye-tracking-think-aloud-retrospective-srl-strategy.md)
+- [Use think-aloud protocols and reflection journals to bridge the gap between perceived and actual success](think-aloud-reflection-journals-success-gap.md)
 
 ## Examples
 -

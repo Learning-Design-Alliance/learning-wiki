@@ -130,6 +130,7 @@ As Morshead (1965) pointed out on publication of the affective-domain handbook, 
 - [Validated 13-item programming knowledge test based on Bloom's Taxonomy](../products/validated-13-item-programming-knowledge-test-based-on-blooms-taxonomy.md)
 - [Author-developed 31-question achievement test covering four cognitive levels](../products/author-developed-31-question-achievement-test-covering-four-cognitive-levels.md)
 - [Use a low-threshold online training plus a SMART template to prepare students for self-created learning outcomes](../strategies/famuplus-online-training-smart-template-strategy.md)
+- [Educational objectives for a dietary oral health curriculum organized according to Bloom's knowledge and cognitive process dimensions](../designs/bloom-organized-dietary-oral-health-objectives.md)
 
 ## Key Sources
 - Bloom, B. S. (Ed.), Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). *Taxonomy of educational objectives, Handbook I: The cognitive domain*. David McKay Co.

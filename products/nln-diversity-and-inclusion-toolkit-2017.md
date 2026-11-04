@@ -24,7 +24,8 @@ A National League for Nursing toolkit that provides questions and guidance for d
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [AARP Family Caregiving How-To Video Series, AJN caregiver content, and NLN ACE.C materials](aarp-family-caregiving-how-to-video-series-ajn-caregiver-content-and-nln-acec-materials.md)
 
 ## Key Sources
 - Langan, L., Frazer, K., Darley, A., Goodman, L., Browne, F., Fulfilled, P., Halligan, P., & Redmond, C. (2025). Inclusive pedagogy in online simulation‐based learning in undergraduate nursing education: A scoping review. Journal of Advanced Nursing, 81, 591–606. https://doi.org/10.1111/jan.16284

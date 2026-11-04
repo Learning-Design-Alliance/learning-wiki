@@ -53,3 +53,4 @@ Subgroup analyses were performed according to discipline, item type, and learner
 - [Angoff methods produce significantly higher pass rates than conventional fixed standard-setting methods](angoff-higher-pass-rates-than-fixed.md) — related
 - [Number of judges positively influences cut scores, while test length influences pass rates](angoff-moderators-judges-items.md)
 - [The Modified Angoff method was acceptable for setting different pass marks for senior and junior residents on the same OSCE](modified-angoff-different-pass-marks.md) — related
+- [Faculty- and LLM-derived Angoff cutoff scores produced identical pass and fail classifications](identical-pass-fail-classifications-faculty-llm-angoff.md) — related

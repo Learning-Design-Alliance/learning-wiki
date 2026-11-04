@@ -46,6 +46,7 @@ The article translates its finding that teaching quality monitoring most influen
 ## Related Strategies
 
 - [Policymakers should fund and deliver authentic, job-embedded principal professional learning and remove access barriers](support-authentic-principal-professional-learning.md)
+- [Actively promote and curricularly integrate new e-learning technologies with support from teaching and administrative staff](promote-and-integrate-elearning-technologies.md)
 
 ## Examples
 -

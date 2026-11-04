@@ -42,6 +42,7 @@ The review calls for further research to explore simulation's effects "across di
 
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 - [Allocate simulation groups so CALD students receive peer support while interacting with domestic students](group-allocation-supporting-cald-peers-sbl.md)
+- [Future research should explore AI-driven educational tools, adaptive learning platforms, and decision-support systems to enhance nurses' PICC care knowledge](ai-driven-tools-for-nurse-picc-education.md)
 
 ## Examples
 -

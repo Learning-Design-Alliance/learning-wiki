@@ -48,7 +48,8 @@ Computerized adaptive tests (CATs) are a test-delivery format in which item sele
 - [Computerized adaptive testing (CAT) as an assessment component](computerized-adaptive-testing-cat-element.md)
 
 ## Examples
--
+
+- [Offset added testing time and cost via computerized adaptive testing, shortened exam content, and remote proctoring](../strategies/cat-and-test-design-offset-power-testing-costs.md)
 
 ## Key Sources
 - Steven Wise. (2014). The utility of adaptive testing in addressing the problem of unmotivated examinees. Journal of Computerized Adaptive Testing, 2(1), 1–17. https://www.nwea.org/research/publication/the-utility-of-adaptive-testing-in-addressing-the-problem-of-unmotivated-examinees/

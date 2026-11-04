@@ -49,3 +49,4 @@ Frequency analysis of impact-assessment methodologies across the 478 included st
 - Most EPA research focuses on early phases of development and implementation, with few randomised controlled trials — related
 - EPA studies concentrate on implementation, with development and assessment secondary — related
 - Quality assessment of EPAs and cost implications were not specifically evident in the included studies. — related
+- [Royal College Entrustable Professional Activities de-emphasize ECG compared with PoCUS, with one ECG milestone versus nine for PoCUS](ecg-deemphasized-in-epas-versus-pocus.md) — related

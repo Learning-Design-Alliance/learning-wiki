@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 322 claims (170 for, 132 mixed, 20 against) · 195 studies (75 review, 49 causal, 39 quant-synthesis, 14 qualitative, 9 design, 8 theoretical, 1 associational), `q1`–`q4` · 42 of 195 report an effect size · 317 claims rest on one study
+> **Evidence** · 329 claims (174 for, 135 mixed, 20 against) · 200 studies (75 review, 54 causal, 39 quant-synthesis, 14 qualitative, 9 design, 8 theoretical, 1 associational), `q1`–`q4` · 43 of 200 report an effect size · 324 claims rest on one study
 
 ## Conditional relationship
 
@@ -361,6 +361,8 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Number of simulated fluoroscopic images declined significantly for insertion and alignment across training runs](../claims/ar-simulator-fluoroscopic-image-count-decline.md) [+W] — attached 2026-11-04 from Stauffer Tobias et al. (2026), which proposed "Combine realistic haptic feedback from physical setups with AR-based procedural guidance to enable self-directed surgical training"; tests this page's relationship.
 - [VR simulation training produces higher DOPS procedural skill scores than real-patient or mannequin training for ECG lead placement](../claims/vr-training-higher-dops-ecg-lead-placement.md) [+W] — attached 2026-11-04 from Kermanian Fatemeh et al. (2026), which proposed "VR simulation design combining 3D anatomical visualization, immediate error feedback, and repeatable practice"; tests this page's relationship.
 - [Testing a pediatric EVD simulation scenario with five nursing students needed no setup modifications, using three brief feedback pauses with repetition cycles of no more than five minutes](../claims/rcdp-scenario-testing-mastery-no-modifications.md) [+W] — attached 2026-11-04 from da Silva Ruana Luiz Ferreira; Oliveira-Kumakura Ana Railka de Souza (2026), which proposed "Three-stage scenario engineering pattern: construct from evidence, validate with expert reviewers, test with target audience".
+- [Repeated exposure to an identical VR anaphylaxis scenario yields higher guideline-based checklist performance in the common assessment scenario than first-time exposure](../claims/repeated-identical-vr-exposure-higher-checklist-score.md) [+W] — attached 2026-11-04 from Giese Julian et al. (2026), which proposed "Use VR as a reproducible adjunct for repeated rehearsal of standardized, time-critical emergency workflows"; tests this page's relationship.
+- [Repeated VR exposure shortens time to correct working diagnosis and time to first IM epinephrine administration in the assessment scenario](../claims/repeated-vr-exposure-faster-diagnosis-and-epinephrine.md) [+W] — attached 2026-11-04 from Giese Julian et al. (2026), which proposed "Use VR as a reproducible adjunct for repeated rehearsal of standardized, time-critical emergency workflows"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -558,6 +560,11 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [No statistically significant difference in procedural performance between VR and slideshow lecture groups](../claims/vr-slideshow-similar-procedural-performance-usg-lp.md) [-W]
 - [Students perceive virtual simulation as standardising interprofessional learning experiences across clinical placements and campuses](../claims/virtual-simulation-standardises-ipe-experiences.md) [~W]
 - [Students reported that HoloLens made anatomy spatially intelligible but not fully realistic, describing holograms as simplified or cartoon-like](../claims/hololens-spatial-intelligibility-not-realism.md) [~W]
+- [Among health professionals, a high-fidelity active simulator configuration supported improved performance during hands-on training](../claims/high-fidelity-active-best-for-experienced-professionals.md) [+W]
+- [Residents reported high satisfaction with simulation-based learning, with 100% finding it useful and 70% perceiving psychomotor improvement](../claims/resident-satisfaction-vascular-simulation.md) [+W]
+- [Reported barriers to the VR session include headset ergonomics and occasional motion sickness](../claims/vr-barriers-headset-ergonomics-motion-sickness.md) [~W]
+- [A significant difference in mean ventilation rate across configurations was observed among health professionals at the final assessment, with the high-fidelity passive group closest to the reference rate](../claims/professionals-final-bpm-difference.md) [~W]
+- [Training intensity was not equivalent between groups, confounding the comparison of VR versus mannequin-based training](../claims/vr-training-intensity-confound.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.
@@ -596,6 +603,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [A three-stage design framework for model-based support in VR simulation-based teacher education](../designs/model-based-support-design-framework-vr-teacher-ed.md)
 - [Sequence simulation first, then repeat the same assignment with physical laboratory equipment](../strategies/simulation-first-then-laboratory-sequence.md)
 - [Use BlindAid in three potential applications: O&M training simulator, diagnostic tool, and internet-based virtual exploration](../strategies/blindaid-three-potential-applications.md)
+- [Use weekly scenario simulation with structured debriefing and operational skills training to develop new graduate nurses' competence](../strategies/weekly-scenario-simulation-debriefing-skills-training-strategy.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

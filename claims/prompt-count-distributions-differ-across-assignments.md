@@ -71,3 +71,4 @@ Descriptive distribution of prompt counts among LLM users across the seven assig
 - [In AQUALAB, estimated β is ordered across episode completion status (means 1.181, 1.506, 2.343; Kruskal–Wallis p = 8.62×10−29) and higher-β quintiles complete more content more efficiently](aqualab-beta-completion-and-efficiency.md) — related
 - [Perceived usefulness of AI and intent to continue using it differ significantly across challenge domains, with academic tasks rated most useful](ai-usefulness-differs-across-challenge-domains.md) — related
 - [Students issue fewer prompts on team assignments, a medium-large within-student difference](fewer-prompts-on-team-assignments.md) — related
+- [Platform scores varied significantly across the 8 AI teaching agents](platform-scores-varied-across-agents.md) — related

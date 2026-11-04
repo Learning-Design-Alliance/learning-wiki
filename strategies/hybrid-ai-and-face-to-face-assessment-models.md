@@ -45,6 +45,7 @@ The article recommends that future work move beyond comparing purely AI-mediated
 - [Use a mixed-methods assessment sequence: diagnostic inventory, structured verification tasks, and discipline-specific critique or workflow-design assignments](mixed-methods-ai-literacy-assessment-sequence.md)
 - [Design AI-powered support for international students that integrates with university systems and helps sustain community for long-term use](long-term-ai-support-integrated-university-systems.md)
 - [Direct future pedagogical agent research toward assessment, reflective practice, administration, personalisation and media richness](future-research-assessment-reflective-personalisation.md)
+- [Reflect on the structural design of high-stakes examinations to reduce perceived catastrophic consequences of a single assessment.](high-stakes-exam-structural-design-reflection.md)
 
 ## Examples
 -

@@ -49,6 +49,7 @@ The review's implication-for-practice section recommends that decision-makers in
 - [During initial evaluation, investigate legal compliance, equity, accessibility, and context-specific barriers](initial-evaluation-equity-accessibility-barriers.md)
 - [Pair technology access with targeted investments in infrastructure, staffing, and support, and pilot initiatives with dedicated budgets](pair-access-with-infrastructure-investment.md)
 - [Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education](inclusive-digital-strategies-ai-adult-education-policy.md)
+- [Ensure equitable access to patient safety education across employment groups](equitable-training-access-employment-groups.md)
 
 ## Examples
 -

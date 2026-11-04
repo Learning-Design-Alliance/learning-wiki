@@ -55,3 +55,4 @@ Correlational analysis in the prior-knowledge survey of the 13-student course, c
 - [Perceived usefulness of ChatGPT, an invalid cue, is associated with overestimation of performance](perceived-usefulness-invalid-metacognitive-cue.md) — related
 - [Technical competence of students is negatively correlated with learner perceptions (r = -0.5595)](technical-competence-negative-correlation-learner-perceptions.md) — related
 - [Objective knowledge and self-perceived clinical confidence show a weak negative correlation (r = -0.201) among dental interns](negative-knowledge-confidence-correlation-veneers.md) — related
+- [Knowledge and self-reported competence represent distinct but weakly correlated constructs within the DKSCQ-N (r = 0.13).](dkscqn-knowledge-competence-distinct-constructs.md) — related

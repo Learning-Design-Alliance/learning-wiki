@@ -45,6 +45,7 @@ As future work, the authors propose refining the prompt used to generate combine
 - [Planned enhancements: multi-turn conversational follow-up, RAG-based personalization, and feedback analytics for AI-assisted instruction](planned-ai-instruction-enhancements-rag-multiturn.md)
 - [Upgrade retrieval to Agentic RAG and adopt context-aware emotive narration to reduce cognitive load](agentic-rag-and-context-aware-audio-upgrades.md)
 - [Technical integration of GSR knowledge via onboarding system prompts, knowledge graphs, retrieval-augmented generation, and a control module](gsr-knowledge-technical-integration-strategies.md)
+- [Augment LLMs with retrieval-augmented generation using authoritative subspecialty resources to address remaining knowledge gaps on board-style examinations.](rag-subspecialty-resources-llm-knowledge-gaps.md)
 
 ## Examples
 -

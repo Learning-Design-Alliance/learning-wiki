@@ -50,3 +50,4 @@ Exploratory affinity-propagation clustering on standardised mean Vte and median 
 - [In hidden-first participants ventilating a preterm manikin, visible RFM feedback significantly increased the proportion of breaths with leak≤30%](visible-rfm-feedback-increases-low-leak-breaths-preterm.md) — related
 - [In hidden-first participants ventilating a term manikin, visible RFM feedback significantly increased mean expired tidal volume](visible-rfm-feedback-increases-mean-vte-term-manikin.md) — related
 - [Most ventilation adjustments occurred when RFM feedback was visible, suggesting real-time feedback prompted corrective action](ventilation-adjustments-occur-under-visible-rfm-feedback.md) — related
+- [A significant difference in mean ventilation rate across configurations was observed among health professionals at the final assessment, with the high-fidelity passive group closest to the reference rate](professionals-final-bpm-difference.md) — related

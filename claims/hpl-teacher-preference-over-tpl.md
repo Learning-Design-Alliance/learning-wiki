@@ -50,3 +50,4 @@ Direct comparison question administered to 49 pre-service teachers after using b
 - [A communication robot as cooperative learning partner elicited student interactions similar to those with human partners](robovie-cooperative-learning-partner-interactions.md) — related
 - [Fun perception decreases significantly from initial expectancy on both platforms](fun-perception-decreases-from-expectancy.md) — related
 - [Students showed a slight preference for Quizlet over Cram as their preferred digital flashcard system](quizlet-preferred-over-cram.md) — related
+- [Simulator acceptability was high with no differences between groups in either population](high-simulator-acceptability-across-groups.md) — related

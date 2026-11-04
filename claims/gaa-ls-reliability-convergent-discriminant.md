@@ -60,3 +60,6 @@ Study 2 reliability and validity analysis. "AVE values ranged from .60 to .66, s
 - [Included ethics-of-teaching instruments show acceptable-to-excellent internal consistency (Cronbach's α=0.74–0.97) and supported structural validity](ethics-teaching-instruments-internal-consistency-structural-validity.md) — related
 - [The Vocabulary Knowledge Scale used in the pilot showed very high internal consistency (α = .96)](vks-reliability-alpha-96-pilot.md) — related
 - [The three measurement instruments show acceptable reliability and validity in this sample](measurement-model-cfa-reliability-validity.md) — related
+- [Convergent and discriminant validity are supported by AVE values exceeding 0.50 and discriminant validity criteria met for both factors.](dkscqn-ave-discriminant-validity.md) — related
+- [Convergent validity supported by CR and AVE values](hspncs-convergent-validity-cr-ave.md) — related
+- [The HSPNCS demonstrates excellent internal consistency (Cronbach's alpha 0.967)](hspncs-high-internal-consistency.md) — related

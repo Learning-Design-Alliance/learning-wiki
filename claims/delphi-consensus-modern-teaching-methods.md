@@ -47,3 +47,4 @@ Round 2 consensus verification matrix for the 124-expert panel. Table 2 shows Q1
 ## Related Claims
 - [A three-round Delphi process with 36 Hong Kong school teachers reached consensus on 20 ChatGPT-based learning activities that satisfy SDT needs and foster SRL phases.](delphi-consensus-20-chatgpt-learning-activities.md) — related
 - [A modified Delphi process with 14 panelists achieved 100% agreement on a metrics set of 5 steps, 20 errors, 1 failure-to-progress definition and 4 critical errors for the SP anastomosis task](sp-anastomosis-delphi-metrics-consensus.md) — related
+- [Video-based scoring and simulation demonstrations enabled participants to reach consensus on assessment scoring, defined as agreement among at least 90 percent of participants](video-simulation-consensus-scoring-workshops.md) — related

@@ -40,7 +40,7 @@ The external validity study used a GenAI chatbot built with a retrieval-augmente
 
 - [The RAG-enhanced assistant achieves context recall above 0.93 and answer relevance of 0.87 on an expert-built 52-question evaluation set](../claims/rag-assistant-high-recall-relevance.md) [+W]
 - [Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification](../claims/rag-reduces-not-eliminates-hallucinations.md) [~W]
-- [Retrieval augmentation is essential for on-premise educational QA: a local LLM without retrieval scores below even a TF-IDF baseline](../claims/retrieval-augmentation-essential-local-llm-below-tfidf.md) [+W]
+- [In one on-premise introductory computer-science QA system built on open educational resources, a local LLM without retrieval scored below a TF-IDF baseline on 300 test queries](../claims/retrieval-augmentation-essential-local-llm-below-tfidf.md) [+W]
 
 ## Related Designs
 

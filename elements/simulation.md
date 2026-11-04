@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 274 claims (158 for, 97 mixed, 19 against) · 174 studies (77 review, 38 quant-synthesis, 34 causal, 13 design, 6 qualitative, 3 associational, 3 theoretical), `q1`–`q4` · 32 of 174 report an effect size · 264 claims rest on one study
+> **Evidence** · 286 claims (165 for, 102 mixed, 19 against) · 179 studies (77 review, 38 quant-synthesis, 37 causal, 14 design, 6 qualitative, 4 associational, 3 theoretical), `q1`–`q4` · 32 of 179 report an effect size · 276 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -329,6 +329,18 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Interrater reliability for total MADRS score across expert raters interviewing the same virtual patients was high (ICC 0.90, 95% CI 0.68-0.99), though preliminary](../claims/virtual-patient-interrater-reliability-icc.md) [~W] — attached 2026-11-04 from Bossio Botero Veronica et al. (2026), which proposed "Voice-enabled LLM virtual patient simulation system for standardized clinical assessment training".
 - [Students valued VSP convenience but rated realism and feedback value below human standardized patients](../claims/vsp-student-feedback-convenience-high-realism-low.md) [~W]
 - [Technical errors during biotissue training decreased significantly per attempt, but clinically relevant errors remained at the final attempt, especially for pancreaticojejunostomy](../claims/learnbot-error-decrease-residual-errors.md) [~W]
+- [Simulation-based training with a leakage-testing vascular anastomosis model reduced severe leakage (Grade 3) from 69.3% to 28.1% among surgical residents](../claims/leakage-grade3-reduction-vascular-anastomosis-simulation.md) [+W] — attached 2026-11-04 from Arpornsujaritkun N et al. (2026), which proposed "Novel bench-top vascular anastomosis simulation model with integrated leakage testing system".
+- [Final evaluation panellists rated the LLM-based gastroenterology clinical simulator highly across all four domains, with educational value highest (mean 4.57)](../claims/llm-simulator-high-ratings-four-domains-pilot.md) [+W] — attached 2026-11-04 from Maimaris S et al. (2026), which proposed "LLM-based clinical simulation system combining a case generator, patient simulator and web chat interface".
+- [Linear virtual patients and student role-plays produce equivalent patient-centered attitudes (PPOS) in third-year medical students](../claims/linear-vps-roleplay-equivalent-ppos-attitudes.md) [~W] — attached 2026-11-04 from Pers Michał et al. (2026), which proposed "Linear virtual patients focused on the patient's perspective implemented in the DID-ACT curriculum".
+- [Simulator acceptability was high with no differences between groups in either population](../claims/high-simulator-acceptability-across-groups.md) [~W] — attached 2026-11-04 from Mocellin D et al. (2026), which proposed "Low-cost, high-fidelity neonatal ventilation simulator with configurable feedback".
+- [Among health professionals, a high-fidelity active simulator configuration supported improved performance during hands-on training](../claims/high-fidelity-active-best-for-experienced-professionals.md) [+W]
+- [Among students, a medium-fidelity passive simulator configuration was associated with improved ventilation frequency and pressure during hands-on training](../claims/medium-fidelity-best-for-novice-students.md) [+W]
+- [At the final assessment, no significant differences were observed among simulator configuration groups in tutor evaluation scores for either cohort](../claims/no-final-assessment-differences-between-configurations.md) [~W]
+- [No statistically significant gender differences were found in students' perceptions of SBL in oral radiology](../claims/no-gender-differences-sbl-perceptions-oral-radiology.md) [~W]
+- [Thematic analysis of open-ended responses identified four themes: enhanced skill development and safe learning environment, bridging theory with practice, barriers, and looking ahead](../claims/four-themes-sbl-oral-radiology-qualitative.md) [+W]
+- [Residents reported high satisfaction with simulation-based learning, with 100% finding it useful and 70% perceiving psychomotor improvement](../claims/resident-satisfaction-vascular-simulation.md) [+W]
+- [Simulation-based neonatal ventilation training improved theoretical knowledge in both medical students and health professionals in Tanzania](../claims/simulation-training-improves-neonatal-ventilation-knowledge.md) [+W]
+- [A significant difference in mean ventilation rate across configurations was observed among health professionals at the final assessment, with the high-fidelity passive group closest to the reference rate](../claims/professionals-final-bpm-difference.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
@@ -412,6 +424,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Integrate AI-driven simulation into dental curricula as a complement to traditional training, attending to domain-specific effectiveness and the lack of long-term validated outcomes](../strategies/ads-curricular-integration-strategy.md)
 - [Co-design VR communication scenarios with nurse educators and technology developers, incorporating authentic clinical cases and language resources](../strategies/co-design-vr-scenarios-educators-developers.md)
 - [Integrate simulation, case-based learning, and communication-focused training into pre-clinical delirium curricula](../strategies/simulation-case-based-delirium-training.md)
+- [Use weekly scenario simulation with structured debriefing and operational skills training to develop new graduate nurses' competence](../strategies/weekly-scenario-simulation-debriefing-skills-training-strategy.md)
 
 ## Key Sources
 - Garris, R., Ahlers, R., & Driskell, J. E. (2002). Games, motivation, and learning: A research and practice model. *Simulation & Gaming, 33*(4), 441–467. [doi:10.1177/1046878102238607](https://doi.org/10.1177/1046878102238607)

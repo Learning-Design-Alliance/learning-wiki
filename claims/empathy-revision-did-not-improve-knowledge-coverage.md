@@ -48,3 +48,5 @@ Case-level observation of agent A8 after a prompt-only revision to strengthen em
 - [AI teaching agents differed most on knowledge-related dimensions and least on role-play quality, with adaptive difficulty calibration a shared weakness](agents-differ-knowledge-not-role-performance.md) — related
 - [Platform-generated scores and rubric-based teaching quality produced substantially divergent rankings of the same AI teaching agents](platform-rubric-rankings-diverge-ai-teaching-agents.md) — related
 - [The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items](empathy-checklist-item-largest-gain.md) — related
+- [Strengthening empathy in the family-member agent did not translate into broader knowledge delivery](a8-empathy-revision-lowest-knowledge-coverage.md) — possibly the same claim (merge candidate)
+- [Rubric-based agent quality showed no systematic association with end-of-course chapter examination performance](rubric-quality-examination-no-association.md) — related

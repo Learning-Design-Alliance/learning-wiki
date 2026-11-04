@@ -49,3 +49,4 @@ Structured questionnaire with open-ended questions administered immediately afte
 - [A CBCL session on spinal infection was feasible and well accepted in a Brazilian radiology residency program](cbcl-feasible-accepted-brazilian-radiology-residency.md) — a broader claim this one bears on
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
 - [Student perceptions of pre-clinical TBL are generally favourable, but peer feedback is sometimes met with hesitation](tbl-student-perceptions-favourable-peer-feedback-hesitation.md) — related
+- [Focus group interviews identified four user-experience themes: individualized learning, clinical reasoning engagement, educational applicability, and areas for improvement](vega-focus-group-four-themes.md) — related

@@ -75,3 +75,4 @@ The review reports Williams et al. (2013) college-student experiments on learnin
 - [When refined prompts failed, novices overgeneralized and concluded LLMs could not detect anaphors, attributing failure to the model rather than to their prompting](novice-overgeneralization-llm-incapability.md) — related
 - [The RR model explains children's stubborn persistence with ineffective spelling strategies that the Overlapping Waves model could not account for](rr-model-explains-stubborn-ineffective-strategies.md) — related
 - [Mental set acquired for one task persists and impairs performance in spelling recall and in geography problem-solving](set-persistence-spelling-geography.md) — related
+- [Later introduction of exceptions improves category learning, suggesting delayed teaching of exception words may aid decoding](late-exception-introduction-benefits.md) — related

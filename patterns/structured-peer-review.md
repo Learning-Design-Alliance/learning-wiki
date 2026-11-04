@@ -32,7 +32,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 54 claims (32 for, 22 mixed) · 62 studies (20 causal, 11 quant-synthesis, 10 associational, 8 review, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 14 of 62 report an effect size · 40 claims rest on one study
+> **Evidence** · 55 claims (32 for, 23 mixed) · 63 studies (21 causal, 11 quant-synthesis, 10 associational, 8 review, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 14 of 63 report an effect size · 41 claims rest on one study
 
 ## Description and scope
 
@@ -174,6 +174,7 @@ This pattern is scoped to peers commenting on an individual's draft that the aut
 - [Elements of both the nature and the reception of feedback are significantly related to receivers' use of that feedback](../claims/feedback-nature-and-reception-related-to-use.md) [~W]
 - [Peer review scores correlated increasingly with instructor scores across the three review rounds](../claims/peer-teacher-score-correlation-increases.md) [+W]
 - [Overall post-hoc analyses found no significant difference between giver and receiver groups on either test](../claims/no-significant-giver-receiver-difference-overall.md) [~W]
+- [Criterion-referenced peer review identifies the same struggling students as the iRAT, with students in the lowest iRAT decile receiving significantly lower peer ratings during themes 1–4.](../claims/tbl-peer-review-identifies-struggling-students.md) [~W]
 
 ## Related Patterns
 - [Collaborative Evaluation](collaborative-evaluation.md)

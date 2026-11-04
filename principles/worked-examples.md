@@ -31,7 +31,7 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (18 for, 15 mixed, 3 against) · 31 studies (21 causal, 4 theoretical, 3 quant-synthesis, 3 review), `q1`–`q4` · 7 of 31 report an effect size · 31 claims rest on one study
+> **Evidence** · 38 claims (20 for, 15 mixed, 3 against) · 32 studies (22 causal, 4 theoretical, 3 quant-synthesis, 3 review), `q1`–`q4` · 7 of 32 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -100,7 +100,7 @@ Each question below links a general claim that gathers the studies behind it int
 ## Further evidence, not yet read against this model
 <!-- Re-read 2026-10-19: all sixteen claims listed here (eight restored 2026-10-01 from before the 2026-09-30 rewrite, eight attached by the linker 2026-10-07 to 2026-10-18) were read against the model and now sit in it: the situation table, the observation table, or Evidence and qualifications. New claims the linker attaches land below until the next re-read. -->
 Every claim previously listed here has been read against the model above and moved into it. Claims linked later appear below until they are read.
-
+- [Preceding worked-example demonstrations increase knowledge gains in technology-enhanced learning of sectional anatomy among novice medical students](../claims/worked-example-demonstrations-increase-sectional-anatomy-knowledge-gains.md) [+W] — attached 2026-11-04 from Fonseca Guilherme Reis Borges Coelho et al. (2026), which proposed "Provide outcome-focused audiovisual demonstrations before self-directed technology-enhanced learning for novice learners"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -167,6 +167,7 @@ The authors recommend assigning worked-example type by prior knowledge: "by appl
 - [The worked example effect failed to replicate for geometry and kinematics problems, and was reinstated when worked examples were restructured to reduce split attention](../claims/worked-example-effect-split-attention-replication-history.md) [~W]
 - [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](../claims/worked-examples-better-than-problem-solving-cited.md) [+W]
 - [Worked-example effects in a 3D role-playing game for chemical formulas: significant on knowledge comprehension, marginal on knowledge application](../claims/worked-example-effect-3d-game-chemical-formulas.md) [~W]
+- [Preceding worked-example demonstrations increase instructional efficiency in technology-enhanced learning of sectional anatomy](../claims/worked-example-demonstrations-increase-instructional-efficiency.md) [+W]
 
 ## Key Sources
 

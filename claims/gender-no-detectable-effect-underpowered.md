@@ -3,13 +3,14 @@ type: claim
 title: Student gender showed no detectable effect on rubric-based teaching quality scores, though the analysis was underpowered
 description: Student gender showed no detectable effect on rubric-based teaching quality scores, though the analysis was underpowered
 id: gender-no-detectable-effect-underpowered
+aliases: [gender-effect-not-detected-small-imbalanced-sample]
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-18
+source_checked: 2026-11-04
 sources:
   - id: zhang-hui-2026
     resource: "https://doi.org/10.2196/96819"
@@ -25,10 +26,13 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i0` negligible
-> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
+
 `q2 i0` Mann-Whitney U tests found no significant difference in any dimension or total score between male (n=7) and female (n=15) students (79.1 vs 80.1; P=.82; Cohen d=0.07). [→ Zhang Hui 2026](#zhang-hui-2026)
+
+`q3 i0` No significant difference was detected in any dimension or in total score (79.1 vs 80.1; P=.82; Cohen d=0.07 for total score). [→ Zhang Hui MM 2026](#zhang-hui-2026)
 
 ## Evidence
 
@@ -42,12 +46,27 @@ Exploratory gender comparison across all 8 rubric dimensions using Mann-Whitney 
 
 > "No significant difference was detected in any dimension or in total score (79.1 vs 80.1; P=.82; all dimension-level P>.05; Cohen d=0.07 for total score)."
 
+<!-- merged 2026-11-04 from gender-effect-not-detected-small-imbalanced-sample: that page's entry for this study, which differed from the one above, kept verbatim.
+### Zhang Hui MM 2026
+
+Zhang Hui MM, Qu Lihui PHD, Zheng Jianmin MMgmt, Xiong Yi MSc, Bai Hongbo MSc, Ji Ruiying MSc, Liu Guohui MSc, Chen Wanling MD, Cheng Zirui MD, Chen Youbang MSc, Yang Chun-tao PhD. (2026). What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education. JMIR Medical Education. https://doi.org/10.2196/96819
+
+`q3 · i0`
+
+Mann-Whitney U tests compared male (n=7) and female (n=15) students across all 8 dimensions. The authors state the "small, imbalanced sample" and very small effect size made the analysis substantially underpowered.
+
+> "No significant difference was detected in any dimension or in total score (79.1 vs 80.1; P=.82; all dimension-level P>.05; Cohen d=0.07 for total score)."
+-->
+
 ## Discussion
 
 
+
 ## Learner Variables
+
 - [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
+
 - Female physical education teachers endorse progressivism and existentialist education more, and male teachers endorse perennialism and essentialism more, with no significant gender difference for reconstructivism — related
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related

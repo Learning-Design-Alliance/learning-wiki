@@ -56,3 +56,4 @@ Cross-case qualitative finding (RQ1-1) from interviews, cognitive walkthroughs, 
 - Coaches reported that usage dashboards grounded coaching conversations in evidence rather than perception and prompted reality checks on implementation — related
 - [Trustworthiness metrics and visualizations surfaced previously overlooked pedagogical risks and enabled more deliberate reasoning about trade-offs between competing objectives](trustworthiness-tools-surface-risks-enable-tradeoff-reasoning.md) — related
 - [Teachers reported the tool shifted their practice toward goal-oriented teaching and dashboard-informed adjustment, but increased planning workload and instructional time](assessmake21-teacher-practice-shift-and-workload.md) — related
+- [Learning analytics and predictive modeling enable institutions to monitor learner progression, identify at-risk learners, and optimize curriculum](learning-analytics-monitor-risk-optimize-curriculum.md) — related

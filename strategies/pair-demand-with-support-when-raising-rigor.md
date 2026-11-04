@@ -46,6 +46,7 @@ The article argues that raising academic demand alone can backfire: students wit
 - [Set a High Bar for Each Student](set_a_high_bar_for_each_student.md)
 - [Provide rigorous and relevant instruction connecting academics to postsecondary options](rigorous-relevant-instruction-postsecondary-strategy.md)
 - [Equitable access to rigorous and culturally sustaining curricula, including automatic advanced-coursework enrollment](rigorous-culturally-sustaining-curricula-access.md)
+- [Create structured opportunities for positive risk-taking and scaffold the transition period to mitigate transient engagement costs](structured-positive-risk-taking-opportunities-with-transition-scaffolding.md)
 
 ## Examples
 -

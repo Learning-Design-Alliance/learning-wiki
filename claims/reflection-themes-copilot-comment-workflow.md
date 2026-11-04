@@ -64,3 +64,4 @@ LLM-assisted four-round thematic analysis of end-of-activity reflections (Table 
 - [Qualitative reflections identify developmental inappropriateness (45%), vagueness and repetition (32%), and implementation feasibility (23%) as the main AI limitations](ai-limitations-themes-early-childhood-science.md) — related
 - [The predominant student evaluation of LLMs (42%) is positive but conditional on the student's own verification work](students-positive-with-caveat-llm-evaluation.md) — related
 - [Students report that GenAI's immediate feedback enabled iterative learning and low-stakes practice, the dominant qualitative themes of the intervention](iterative-feedback-low-stakes-practice-themes.md) — related
+- [Students' overreliance on generative AI can limit development of critical thinking skills when AI replaces rather than scaffolds learner reasoning](generative-ai-overreliance-limits-critical-thinking-development.md) — related

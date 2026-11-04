@@ -51,3 +51,4 @@ Context analysis (Table 4) of the 28 included studies across simulator, cadaver,
 - [VR-trained and bench-top-trained subjects showed no objective performance difference but a significant GRS difference on a final VR simulator assessment](vr-benchtop-no-objective-difference-significant-grs-difference.md) — reports the opposite
 - [The majority of automated performance metrics in gynecological surgery have limited validity evidence, hindering transferability outside research settings](apms-limited-validity-evidence.md) — related
 - [Almost no trauma simulation studies used automated evaluation; checklists and questionnaires dominated assessment](trauma-simulation-automated-evaluation-gap.md) — related
+- [Evaluating patient learning is the weakest patient-education competency and the one most responsive to simulation training](evaluating-patient-learning-weakest-simulation-responsive.md) — related

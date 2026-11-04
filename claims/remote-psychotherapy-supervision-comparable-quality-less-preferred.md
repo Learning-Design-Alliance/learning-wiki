@@ -48,3 +48,5 @@ The review reports on studies of virtual psychotherapy supervision during the pa
 - [External feedback from supervisors, tutors, and peers supports students' completion and accuracy of self-assessment, with high achievers more likely to use tutor feedback](external-feedback-supports-self-assessment-implementation.md) — related
 - [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](virtual-communities-counter-supervision-isolation.md) — related
 - [Videoconference-based learning was the most widely implemented online method in psychiatric trainee education](videoconference-most-implemented-psychiatric-education.md) — related
+- [Meta-analytic findings indicate technology-assisted interventions and traditional face-to-face psychotherapy result in comparable outcomes](bcp-comparable-outcomes-meta-analytic.md) — related
+- [BCP settings may increase cognitive load and psychotherapists report BCP is more tiring and strenuous than face-to-face psychotherapy](bcp-increases-cognitive-load-and-fatigue.md) — related

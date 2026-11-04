@@ -52,3 +52,5 @@ Review discussion of implementation challenges, attributed to the reviewed liter
 - [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](faculty-reluctant-engagement-genai.md) — related
 - [Faculty and facilitators in IPE have difficulty identifying interprofessional learning opportunities in practice settings, requiring experienced agents to support them](ipe-faculty-difficulty-identifying-learning-opportunities.md) — related
 - [Mandated faculty participation achieved the highest simulator engagement (90%), and simulator-based assessment challenged a department's beliefs about resident preparedness](mandated-participation-90-percent-simulator-engagement.md) — related
+- [Professional hierarchy and low student confidence are key barriers to interprofessional education](hierarchy-and-confidence-barriers-ipe.md) — related
+- [Participants identify skilled facilitation, curriculum integration, institutional support, and simulation's safe learning environment as enablers of sim-IPE](sim-ipe-implementation-enablers.md) — related

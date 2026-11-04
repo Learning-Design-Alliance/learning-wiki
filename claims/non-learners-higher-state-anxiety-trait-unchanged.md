@@ -73,3 +73,4 @@ Trait anxiety (STAI Y-2) was compared between groups with a 2 × 3 ANOVA in the 
 - [Production paradigms elicit higher state math anxiety than decision paradigms, particularly for individuals with high trait math anxiety](production-paradigms-higher-state-math-anxiety.md) — related
 - [Trait anxiety in the sample was elevated (mean 49.03 ± 12.05; 22.8% classified as high)](elevated-trait-anxiety-first-year-cohort.md) — related
 - [State anxiety on simulation days was moderate for most students (mean 48.93 ± 10.75; 63.6% in the moderate range)](moderate-state-anxiety-simulation-days.md) — related
+- [State and trait anxiety show only a moderate correlation, suggesting situational exam stress can acutely elevate anxiety even in students not habitually anxious.](state-trait-anxiety-moderate-correlation.md) — related

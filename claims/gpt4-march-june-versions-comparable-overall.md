@@ -50,3 +50,4 @@ Version comparison from the Discussion's re-analysis of Table 1 and Table 2 data
 - [GPT-3.5 passes Dutch VWO English reading comprehension exams with a mean grade of 7.3 with re-prompting, and 6.5 when only its first responses are scored](gpt35-passes-dutch-vwo-english-exams.md) — related
 - [GPT-4 significantly outperforms the average Dutch student on VWO English reading comprehension, scoring 8.3 (March) and 8.1 (June) without re-prompting](gpt4-outperforms-average-student-english-exams.md) — related
 - [Self-consistency did not improve GPT-4's answer accuracy on these exams, unlike in chain-of-thought tasks](self-consistency-no-accuracy-gain-reading-exams.md) — related
+- [Including ethnicity does not significantly change mean question facility, but shifts facility in both directions for individual items](ethnicity-inclusion-facility-effects.md) — a narrower finding that bears on this claim

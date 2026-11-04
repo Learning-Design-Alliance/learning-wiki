@@ -79,3 +79,5 @@ In the theoretical-score NMA (72 studies, 4874 trainees), eight interventions ea
 - [Hybrid PBL+LBL pedagogy yields significantly better clinical skills assessment scores than LBL alone](pbl-lbl-hybrid-better-skills-scores.md) — related
 - [TBL pedagogy yields higher objective theoretical test scores than traditional LBL in Chinese pharmacy education](tbl-higher-theoretical-test-scores-than-lbl-chinese-pharmacy.md) — a narrower finding that bears on this claim
 - [MDT-CDIO integrated teaching yields higher theoretical assessment scores than traditional teaching in orthopedic clinical education](mdt-cdio-higher-theoretical-assessment-scores.md) — related
+- [BOPPPS/FC-CBL group achieves significantly higher theory test scores than LBL group in general practice residency training](boppps-fc-cbl-higher-theory-test-scores-than-lbl.md) — related
+- [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — a narrower finding that bears on this claim

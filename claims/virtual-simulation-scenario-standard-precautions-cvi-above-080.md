@@ -51,3 +51,6 @@ Expert validation study using a researcher-developed Likert-type questionnaire o
 - [Scenario revision changed 'Materials to be selected' to 'Materials and actions to be selected' at the request of two experts](scenario-revision-materials-and-actions-item.md) — related
 - [A local-wisdom-based social studies learning model is judged feasible by expert panels, with CVR > 0 on every assessed item](local-wisdom-model-expert-feasibility-cvr.md) — related
 - [A simulated scenario for pediatric EVD management built with RCDP achieved excellent content validity from seven expert reviewers across two assessment rounds](rcdp-evd-scenario-content-validity.md) — related
+- [Content validity evaluation of the preliminary 30-item CRCDCS indicated CVR values from 0.40 to 1.00 with nine items below the 0.62 threshold removed, and I-CVI values from 0.80 to 1.00 for retained items.](crcdc-content-validity-cvr-icvi.md) — related
+- [The CSL-LTS demonstrates adequate content validity with Aiken's V values exceeding 0.8 for all three assessed attributes](csl-lts-content-validity-aiken-v.md) — related
+- [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](vega-content-validity-cvi.md) — related

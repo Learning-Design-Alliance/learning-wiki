@@ -24,7 +24,7 @@ sources:
 # Criterion- and Norm-Referenced Testing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (11 for, 27 mixed, 3 against) · 29 studies (10 theoretical, 8 associational, 4 causal, 4 design, 2 review, 1 quant-synthesis), `q1`–`q3` · 1 of 29 report an effect size · 41 claims rest on one study
+> **Evidence** · 44 claims (12 for, 29 mixed, 3 against) · 30 studies (10 theoretical, 8 associational, 5 design, 4 causal, 2 review, 1 quant-synthesis), `q1`–`q3` · 1 of 30 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -179,6 +179,9 @@ The model should weaken if teachers given skill-level criterion-referenced repor
 - [Mastery Angoff produces the highest cut scores and lowest pass rates among Angoff variants](../claims/mastery-angoff-highest-cut-scores.md) [~W]
 - [Students' relative rank order in reading remained stable across fourth grade on most measures, with GMRT reading comprehension the exception (r = .16)](../claims/rank-order-stability-reading-measures-fourth-grade.md) [~W]
 - [All post-test means were significantly lower than the Tobacyk and Milford (1983) norms, with many pre-test means also lower.](../claims/posttest-lower-than-tobacyk-milford-norms.md) [~W]
+- [Reliability of the modified Angoff procedure increases as the number of raters increases for both faculty and LLM panels](../claims/angoff-reliability-increases-with-rater-number.md) [+W]
+- [LLM-generated modified Angoff cutoff estimates are comparable to faculty-generated estimates for a medical MCQ examination](../claims/llm-angoff-estimates-comparable-to-faculty.md) [~W]
+- [Faculty- and LLM-derived Angoff cutoff scores produced identical pass and fail classifications](../claims/identical-pass-fail-classifications-faculty-llm-angoff.md) [~W]
 
 ## Related Principles
 - [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — the fuller treatment of aptitude/cognitive-ability tests' history, standardization, and cultural-bias concerns

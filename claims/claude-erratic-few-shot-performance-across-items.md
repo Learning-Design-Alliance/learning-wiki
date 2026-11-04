@@ -52,3 +52,4 @@ Cross-item comparison of scoring mechanisms (Results): "Claude’s performance o
 - [Few-shot prompting modestly improves LLM-human score agreement, inconsistently across datasets and models](few-shot-prompting-inconsistent-grading-gains.md) — related
 - [Confidence-aware selective test-time scoring achieves the best average agreement with expert rubric scoring across six NGSS drawing items](ca-selective-best-average-agreement-drawings.md) — related
 - [On fully correct responses, the GPT few-shot models outperformed the fine-tuned models, averaging less than one category distance from the gold score](gpt-outperforms-finetuned-on-fully-correct-responses.md) — related
+- [LLMs differed substantially in how they conceptualized the minimally competent candidate and estimated item-level probabilities](llm-heterogeneity-mcc-conceptualization.md) — related

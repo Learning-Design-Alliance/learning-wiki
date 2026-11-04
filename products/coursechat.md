@@ -26,7 +26,7 @@ CourseChat is an on-premises retrieval-augmented tutoring platform developed by 
 - [Prebuilt quiz banks of 435 questions across 65 modules decouple practice from live generation, with warm practice-request medians of 4.8 and 5.8 ms](../claims/prebuilt-quiz-banks-decouple-practice.md) [+M]
 - [A deterministic follow-up resolver raised intended-topic follow-up rates to 90–100% across five courses with all 400 scope checks passing, without changing the generator](../claims/deterministic-resolver-raises-topic-checks.md) [+M]
 - [In a ten-request live textbook audit, citation integrity coexisted with substantive error: every citation resolved to its source, yet answers included retrieval misses and contradictions](../claims/citation-integrity-coexists-with-error.md) [-W]
-- [Retrieval augmentation is essential for on-premise educational QA: a local LLM without retrieval scores below even a TF-IDF baseline](../claims/retrieval-augmentation-essential-local-llm-below-tfidf.md) [+W]
+- [In one on-premise introductory computer-science QA system built on open educational resources, a local LLM without retrieval scored below a TF-IDF baseline on 300 test queries](../claims/retrieval-augmentation-essential-local-llm-below-tfidf.md) [+W]
 
 ## Related Products and Programmes
 -

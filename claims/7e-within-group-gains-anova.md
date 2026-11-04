@@ -76,3 +76,4 @@ One-way repeated-measures ANOVA on experiment-1's pre-test, post-test and retent
 - [Synectics workshops significantly increase perceived problem-solving skills, retained three months later](synectics-improves-problem-solving-skills-retained.md) — related
 - [Students' reading and writing scores improved significantly from pre-test to post-tests in all three classes](cle-peer-teaching-reading-writing-gains.md) — related
 - [Within-group gains over time occurred in both groups for academic performance, but only the embodied learning group showed significant within-group gains in attitudes and self-efficacy.](el-within-group-gains-three-outcomes.md) — related
+- [Repeated measures ANOVA confirms significant within-group improvement over time in both intervention groups but not control](repeated-anova-within-group-improvement.md) — related

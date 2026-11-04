@@ -49,3 +49,4 @@ Meta-analysis of three studies (McKendree, Ricketts, Meeks) of MCQ-type assessme
 - [Late identification of SpLDs is associated with poorer academic outcomes, increased stress, and higher burnout risk among medical students](delayed-spld-diagnosis-poorer-outcomes.md) — related
 - [Prevalence of SpLDs among medical students averages 5.5%, ranging from 2% to 11.5% across studies](spld-prevalence-medical-students-5-5-percent.md) — related
 - [Medical students with SpLDs report persistent academic, emotional, and social challenges including reading and writing difficulties, time pressure, anxiety, and isolation](spld-qualitative-challenges-emotional-burden.md) — related
+- [Accommodation denial is common among US medical students seeking USMLE accommodations, with adverse consequences](usmle-accommodation-denial-common.md) — related

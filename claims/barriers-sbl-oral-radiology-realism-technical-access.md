@@ -1,0 +1,51 @@
+---
+type: claim
+title: Students identified mannequin realism limitations, technical and operational issues, and restricted access to simulation labs as barriers to SBL in oral radiology
+description: Students identified mannequin realism limitations, technical and operational issues, and restricted access to simulation labs as barriers to SBL in oral radiology
+id: barriers-sbl-oral-radiology-realism-technical-access
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: almashraqi-abeer-a-2026
+    resource: "https://doi.org/10.1002/jdd.70138"
+    title: "Almashraqi Abeer A., Jethlia Ankur, Glanville Rebecca, Daas Hanin, Ali Kamran. (2026). Simulation-Based Learning in Oral Radiology: Students' Perceptions of Training in Intraoral Radiographic Techniques Across Two Dental Institutes. Journal of Dental Education. https://doi.org/10.1002/jdd.70138"
+    author: Almashraqi Abeer A., Jethlia Ankur, Glanville Rebecca, Daas Hanin, Ali Kamran
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 3
+---
+
+# Students identified mannequin realism limitations, technical and operational issues, and restricted access to simulation labs as barriers to SBL in oral radiology
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Students reported that mannequins do not fully replicate human anatomy or patient behavior, encountered mechanical rigidity, unstable bite blocks, loose parts, and unrealistic positioning, and faced limited access to mannequins and simulation lab time. [→ Almashraqi Abeer A. 2026](#almashraqi-abeer-a-2026)
+
+## Evidence
+
+### Almashraqi Abeer A. 2026
+
+Almashraqi Abeer A., Jethlia Ankur, Glanville Rebecca, Daas Hanin, Ali Kamran. (2026). Simulation-Based Learning in Oral Radiology: Students' Perceptions of Training in Intraoral Radiographic Techniques Across Two Dental Institutes. Journal of Dental Education. https://doi.org/10.1002/jdd.70138
+
+`q2 · i?` · `qualitative · r3`
+
+Theme 3 (Barriers) from thematic analysis of open-ended responses across both institutions. Students noted mannequins "do not fully replicate human anatomy or patient behavior" and that insufficient resources limited opportunities for repetition.
+
+> "students encountered technical and operational issues, such as mechanical rigidity, unstable bite blocks, loose parts, and unrealistic positioning."
+
+## Discussion
+
+
+## Related Claims
+- [Realism of technology is a prominent enabler of critical thinking development in technologically supported SBL, mapped to the information quality dimension of the D&M IS Success Model](realism-enabler-critical-thinking-sbl.md) — related
+- [The most frequently reported challenge of virtual simulation teaching is its lack of realism, alongside operational complexity, English-language demands, cultural mismatch, and adverse physical reactions](vs-challenges-realism-and-usability.md) — related
+- [Thematic analysis of open-ended responses identified four themes: enhanced skill development and safe learning environment, bridging theory with practice, barriers, and looking ahead](four-themes-sbl-oral-radiology-qualitative.md) — related
+- [Dental students hold overall positive perceptions of simulation-based learning in oral radiology, with a combined mean of 4.27 on a 5-point Likert scale](dental-students-positive-perceptions-sbl-oral-radiology.md) — related

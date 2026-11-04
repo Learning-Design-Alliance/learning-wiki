@@ -50,3 +50,6 @@ Multivariate linear regression on the matched sample (n=80) adjusting for baseli
 - [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related
 - [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related
 - [Intervention students had significantly greater improvement in all skills after adjusting for demographic and school characteristics (regression coefficients β = 0.17–0.44)](steps-for-life-adjusted-regression-gains.md) — related
+- [The collaborative model improves medical interns' doctor-patient communication ability](fsph-3d-model-improves-doctor-patient-communication.md) — possibly the same claim (merge candidate)
+- [The collaborative model improves medical interns' self-directed learning ability](fsph-3d-model-improves-self-directed-learning.md) — related
+- [The collaborative model improves medical interns' social medical curiosity](fsph-3d-model-improves-social-medical-curiosity.md) — related

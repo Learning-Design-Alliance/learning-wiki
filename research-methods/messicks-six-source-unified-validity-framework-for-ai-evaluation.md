@@ -29,7 +29,8 @@ The article anchors its validity discussion in Messick's unified theory of valid
 - [Content evidence is the most prevalent type of validity evidence for physical therapy educational assessments, but median evidence ratings are 0 or 1 across all five Messick categories](../claims/pt-assessment-validity-evidence-sparse-weak.md) [+M]
 
 ## Related Research Methods
--
+
+- [Messick's unified validity framework for assessment](messicks-unified-validity-framework-for-assessment.md)
 
 ## Key Sources
 - Peng Wang, Fred Paas. (2026). Five Educational-Psychology Lenses for Training and Evaluating AI Models. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10195-8

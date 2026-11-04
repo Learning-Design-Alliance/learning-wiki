@@ -66,3 +66,4 @@ The repeated measures ANOVA on the open-ended conceptual knowledge test showed a
 ## Related Claims
 - [Autonomy supportive teaching produces greater conceptual knowledge gains than controlling teaching in seventh grade biology](autonomy-support-boosts-conceptual-knowledge-biology.md) — related
 - [Teacher style (autonomy supportive vs. controlling) has no effect on rote learning achievement](teacher-style-no-effect-rote-learning.md) — related
+- [Repeated measures ANOVA confirms significant within-group improvement over time in both intervention groups but not control](repeated-anova-within-group-improvement.md) — related

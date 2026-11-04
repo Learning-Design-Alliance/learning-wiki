@@ -55,3 +55,4 @@ The report's reliability chapter summary reports marginal (IRT internal consiste
 - [Fall 2020 MAP Growth tests showed high levels of marginal reliability across all grades in both remote and in-person administration](map-growth-fall-2020-high-marginal-reliability.md) — a narrower finding that bears on this claim
 - [Between-term score correlations are moderate and lowest for Phonological Awareness](spanish-foundational-skills-between-term-correlations.md) — related
 - [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](self-developed-test-reliability-069.md) — related
+- [The CSL-LTS demonstrates strong temporal stability with an intraclass correlation coefficient of 0.991 over a 15-day test–retest interval](csl-lts-temporal-stability-icc.md) — related

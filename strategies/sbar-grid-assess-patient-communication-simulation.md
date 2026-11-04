@@ -49,6 +49,7 @@ The article describes an evaluation grid inspired by SBAR (Situation-Background-
 ## Related Strategies
 
 - [Develop standardized, validated SBAR training interventions and monitor fidelity within simulation programs](standardized-validated-sbar-training-interventions.md)
+- [Combine modified Mini-CEX assessment with SBAR structured communication in experimental health assessment teaching](mini-cex-sbar-integrated-teaching-strategy.md)
 
 ## Examples
 -

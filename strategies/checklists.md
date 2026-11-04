@@ -84,6 +84,7 @@ Checklists can be customized with different scales (4-point, 7-point), criteria,
 - [Handle fuzzy effort criteria as charitable yes/no binary requirements with periodic check-ins](fuzzy-criteria-as-charitable-yes-no-requirements.md)
 - [Phase-specific research-committee activities: setting requirements, monitoring fulfillment and standardization, and conveying a common knowledge base](research-committee-phase-strategies.md)
 - [Use the platform's rubrics and checklists so students assess their own and peers' abstracts throughout the project stages.](rubrics-checklists-for-self-and-peer-assessment.md)
+- [Use predefined progression criteria and staged supervised practice to standardize training in invasive dental procedures](predefined-progression-criteria-staged-supervised-practice.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the checklist is the instrument; performance assessment is the act it supports

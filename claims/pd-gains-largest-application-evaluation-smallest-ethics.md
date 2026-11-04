@@ -49,3 +49,4 @@ Study 3 pre-post dimension analysis (n=36). Table 5: practical application 45(20
 - [A GenAI-integrated professional development program produced significant pre-to-post gains in EAP educators' ethical awareness (d = 0.93) and digital andragogical competence](genai-pd-significant-ethical-awareness-gains.md) — reports the opposite
 - Learning gains were highest for students whose background knowledge was lowest at pre-test — related
 - [A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes](pd-masterclass-24-percent-ai-competence-gain.md) — a broader claim this one bears on
+- [Improvements after Jeffries-framework simulation vary across competence dimensions, with no significant change in professional development](jeffries-simulation-dimension-specific-competence-changes.md) — reports the opposite

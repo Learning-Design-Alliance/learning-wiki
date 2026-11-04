@@ -30,7 +30,7 @@ sources:
 # Video Replay Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (20 for, 11 mixed) · 33 studies (10 qualitative, 6 quant-synthesis, 6 review, 4 causal, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 5 of 33 report an effect size · 27 claims rest on one study
+> **Evidence** · 34 claims (22 for, 12 mixed) · 34 studies (10 qualitative, 6 quant-synthesis, 6 review, 5 causal, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 6 of 34 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,9 @@ Claims this page cited before it was rewritten, or found in the search, that bea
 - [Video-assisted debriefing enhances precision but risks psychological safety and narrows reflection to individual performance](../claims/video-debriefing-precision-safety-tradeoffs.md) [~M] — attached 2026-10-18 from Charlott Sellberg et al. (2025), which proposed "Align performance-review media such as video with instructional aims, facilitator expertise, and the emotional climate of training"; tests this page's relationship.
 - [Video review of resident performance in clinical PGME settings shows positive learning effects, with 8 of 11 studies reporting significant results](../claims/video-review-positive-learning-effect-pgme.md) [+W] — attached 2026-10-31 from Robbrecht M et al. (2025), which proposed "Video review should be integrated with feedback or coaching sessions rather than used in isolation"; tests this page's relationship.
 - [Pre-service clinical teachers who viewed videotapes of their teaching with guided feedback provided more total feedback to students than teachers in a seminar-only group and a control group across eight teaching episodes](../claims/video-review-guided-feedback-increases-clinical-teacher-feedback.md) [+M] — attached 2026-11-03 from Andrews et al. (2011), which proposed "Train pre-service clinical educators with guided video review of their own teaching rather than a teaching workshop alone"; tests this page's relationship.
+- [Personalised video-assisted feedback in simulation significantly increases student satisfaction and self-confidence compared to structured self-debriefing](../claims/personalised-video-feedback-raises-satisfaction-self-confidence.md) [+W] — attached 2026-11-04 from Gökduman Keleş Mine; Göçmez Sema (2026), which proposed "Integrate personalised video-assisted feedback into simulation-based education as a reinforcement strategy".
+- [Personalised video-assisted feedback improves selected simulation-based learning subdimensions: nursing process, patient safety and reflective behaviour](../claims/personalised-video-feedback-improves-nursing-process-safety-reflection.md) [+W] — attached 2026-11-04 from Gökduman Keleş Mine; Göçmez Sema (2026), which proposed "Integrate personalised video-assisted feedback into simulation-based education as a reinforcement strategy"; tests this page's relationship.
+- [Personalised video-assisted feedback does not significantly improve theoretical knowledge scores compared to structured self-debriefing](../claims/personalised-video-feedback-knowledge-not-significant.md) [~W] — attached 2026-11-04 from Gökduman Keleş Mine; Göçmez Sema (2026), which proposed "Integrate personalised video-assisted feedback into simulation-based education as a reinforcement strategy".
 
 ## Objective and learner-valued goal
 
@@ -181,6 +184,7 @@ Noticing in a recording, explaining it, the next performance and lasting change 
 - [Use immediate video tape playback to give new instructors insight into their teaching errors](../strategies/immediate-video-tape-playback-instructor-training.md)
 - [Adjust the fluency workshop by removing the marking-pauses activity for conversational dialogues and allocating structured class time for reflection on role-play recordings](../strategies/fluency-workshop-adjustments-marking-pauses-reflection.md)
 - [Combine mentoring, video/audio self-evaluation, and iterative target-setting cycles to change classroom talk](../strategies/mentoring-video-iterative-cycles-classroom-talk.md)
+- [Use video recordings during debriefing to help students identify their own errors and support reflective learning](../strategies/video-assisted-debriefing-error-identification-strategy.md)
 
 ## Key Sources
 - Baecher, L., & McCormack, B. (2015). The impact of video review on supervisory conferencing. *Language and Education, 29*(2), 153-167. [https://doi.org/10.1080/09500782.2014.992905](https://doi.org/10.1080/09500782.2014.992905)

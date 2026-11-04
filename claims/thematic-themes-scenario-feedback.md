@@ -47,3 +47,4 @@ Qualitative thematic analysis of open-ended focus group interviews with students
 ## Related Claims
 - [Experts reported students asked more advanced and clinically meaningful questions than in a typical anatomy laboratory](experts-report-advanced-student-questions.md) — related
 - [A minority of students report challenges integrating expert perspectives and desire more hands-on practice during initial MDT-CDIO implementation](mdt-cdio-implementation-challenges-hands-on-time.md) — related
+- [Focus group interviews identified four user-experience themes: individualized learning, clinical reasoning engagement, educational applicability, and areas for improvement](vega-focus-group-four-themes.md) — related

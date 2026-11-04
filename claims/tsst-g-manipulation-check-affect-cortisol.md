@@ -71,3 +71,4 @@ Cortisol reactivity analysis comparing the stress group with a randomly-selected
 - [Acute psychosocial stress differentially affects cognitive flexibility by sex (significant Sex × Condition interaction on perseverative errors)](acute-stress-sex-specific-cognitive-flexibility.md) — related
 - [Changes in cortisol did not predict perseverative errors in any sex](cortisol-change-not-predict-flexibility.md) — related
 - [Outdoor learning in nature reduces student stress (cortisol decline), but stress-restoration findings are mixed by measure and age](outdoor-learning-reduces-student-stress-cortisol.md) — related
+- [Women report significantly higher stress impact, anxiety and psychological support use than men during high-stakes examination preparation.](gender-differences-stress-anxiety-medical-students.md) — related

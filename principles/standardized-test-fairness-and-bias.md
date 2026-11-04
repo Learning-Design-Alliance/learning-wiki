@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 60 claims (17 for, 38 mixed, 5 against) · 40 studies (11 causal, 11 associational, 9 review, 4 design, 3 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 40 report an effect size · 59 claims rest on one study
+> **Evidence** · 63 claims (19 for, 39 mixed, 5 against) · 42 studies (12 causal, 11 associational, 9 review, 4 design, 4 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 42 report an effect size · 62 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,8 @@ Claims found while rewriting, used in the default design or the situation table 
 - [The proximal-content advantage on AAT questions is more pronounced for low-achieving examinees](../claims/proximity-advantage-low-achievers-corpus.md) [+W] — attached 2026-10-27 from Britt Hadar et al. (2023), which proposed "Test developers should pre-test question materials so content is not psychologically closer to some examinees than to others"; tests this page's relationship.
 - [In a high-stakes field exam, proximity improved performance of low-achieving examinees only on questions containing irrelevant details](../claims/proximity-helps-low-achievers-irrelevant-details-field.md) [+W] — attached 2026-10-27 from Britt Hadar et al. (2023), which proposed "Test developers should pre-test question materials so content is not psychologically closer to some examinees than to others"; tests this page's relationship.
 - [National demographic data show significant differential attainment on prescribing-related assessments by age, sex and ethnicity](../claims/differential-attainment-national-prescribing-assessments.md) [+W] — attached 2026-10-31 from McLachlan JC et al. (2025), which proposed "Routinely collect demographic data in prescribing competence assessments to enable subgroup analysis".
+- [Slow test-takers perform as well as fast ones when given the time they need, and may perform better on difficult items](../claims/slow-test-takers-perform-as-well-as-fast-ones.md) [+W] — attached 2026-11-04 from Weiner Saul J. et al. (2026), which proposed "Eliminate time limits on written high-stakes assessments by universalizing maximal accommodation"; tests this page's relationship.
+- [Accommodation denial is common among US medical students seeking USMLE accommodations, with adverse consequences](../claims/usmle-accommodation-denial-common.md) [+W] — attached 2026-11-04 from Weiner Saul J. et al. (2026), which proposed "Eliminate time limits on written high-stakes assessments by universalizing maximal accommodation".
 
 ## Objective and learner-valued goal
 
@@ -189,6 +191,7 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 - [The scoring models showed no meaningful demographic bias in pairwise standardized mean differences or mixed-effects prediction error analysis](../claims/no-meaningful-demographic-bias-naep-scoring-models.md) [+W]
 - [Differential item functioning appeared for home language (item 16) and teaching subject (items 2 and 3), but differential test functioning showed no overall group benefit](../claims/ctck-dif-dtf-results.md) [+W]
 - [Synergistic ankle dorsiflexion and plantar flexion items remain hardest FMA-LE items, with no between-group differences on any item](../claims/ankle-items-hardest-fma-le.md) [+W]
+- [Including ethnicity does not significantly change item discrimination](../claims/ethnicity-inclusion-no-discrimination-effect.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — the norm-referenced tests (SAT, ACT) most directly implicated in the differential-prediction findings here

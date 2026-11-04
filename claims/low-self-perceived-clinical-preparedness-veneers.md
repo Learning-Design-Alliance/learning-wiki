@@ -50,3 +50,4 @@ Analysis of the seven subjective items (Table 3, n = 134) of the KAP questionnai
 - [Knowledge gaps concentrate in technically demanding veneer topics: preparation classification (45.5%) and cement thickness effects on shade selection (28.4%)](knowledge-gaps-technical-veneer-topics.md) — related
 - [Male interns report significantly higher self-perceived clinical confidence than females, while theoretical knowledge does not differ significantly by gender](gender-confidence-knowledge-difference-veneers.md) — related
 - [Objective knowledge and self-perceived clinical confidence show a weak negative correlation (r = -0.201) among dental interns](negative-knowledge-confidence-correlation-veneers.md) — related
+- [Students perceived VEGA's on-demand vignette generation as compensating for limited clinical practicum opportunities](vega-unlimited-vignettes-compensate-practicum.md) — related

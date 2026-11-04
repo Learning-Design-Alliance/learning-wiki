@@ -50,3 +50,4 @@ Pre-intervention check using September–October sign-in sheets at three parent 
 - [IY TCM intervention teachers were more likely to rate parents in the most adaptive involvement profiles at follow-up compared to control teachers](iy-tcm-increases-adaptive-parent-involvement-profiles.md) — related
 - [Schools and volunteers welcomed the programme, but full school engagement and parental engagement were challenging to secure](sarp-implementation-challenges.md) — related
 - [Teacher outreach on top of interactive homework produces a large increase in parent–teacher bidirectional communication among 8th grade parents](teacher-outreach-increases-bidirectional-communication.md) — related
+- [Groups were comparable on most descriptive variables but differed on residence and voluntary choice of department](baseline-differences-residence-voluntary-choice.md) — related

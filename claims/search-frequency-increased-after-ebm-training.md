@@ -54,3 +54,4 @@ Pre-post evaluation of information-seeking behaviors among final-year medical st
 - [An online EBM course integrated with clinical clerkships significantly improved question development, sources of evidence, and search strategies scores among medical students](online-ebm-course-domain-gains.md) — related
 - [A single two-hour EBM literature searching workshop did not significantly improve medical students' overall EBM literature searching skills at one week (10.51 vs. 10.50, P=0.99)](single-workshop-no-literature-searching-gain.md) — related
 - [A single experiment-based session within a lecture-dominated course produces no significant overall learning gains on a post-experiment questionnaire](no-significant-gains-single-experiment-session.md) — related
+- [Theoretical training alone improves patient-education knowledge in all three student groups](theoretical-training-improves-knowledge-all-groups.md) — related

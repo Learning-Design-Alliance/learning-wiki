@@ -49,3 +49,4 @@ Preregistered experimental study of 3–8-year-olds (N = 72) in Australia; child
 - [From age 4, children spontaneously devise multiple previously unseen reminder-setting strategies across transfer trials, with this tendency increasing with age](age-four-spontaneous-novel-reminder-strategies.md) — related
 - [Young children can self-initiate external metacognitive strategies and transfer them across contexts, with flexibility increasing over the preschool and early school years](young-children-self-initiate-external-metacognitive-strategies.md) — a broader claim this one bears on
 - [Strategy transfer to social studies content was incomplete without teacher reminders.](anticipatory-guide-transfer-social-studies.md) — related
+- [Speededness on one task rarely transfers to other tasks, even similar ones](speededness-transfer-limited.md) — related

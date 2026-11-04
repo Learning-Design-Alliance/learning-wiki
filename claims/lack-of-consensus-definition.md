@@ -52,3 +52,4 @@ The review's impact section states "this review highlights that the lack of cons
 - Nine of the 39 studies did not define clinical supervision. — a narrower finding that bears on this claim
 - The most frequent terms used in definitions of clinical supervision are 'professional' and 'reflection'. — a narrower finding that bears on this claim
 - [Only one study compared group versus one-to-one clinical supervision, revealing participant preference for group format.](one-study-compared-group-vs-one-to-one.md) — related
+- [Preceptor shortages leave pharmacy students on wards without supervision or feedback](preceptor-shortages-unsupervised-wards.md) — related

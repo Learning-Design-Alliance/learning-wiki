@@ -49,6 +49,7 @@ Each 30-minute station presented one ICA pattern case with textual information, 
 ## Related Strategies
 
 - [Stations: Interacting with Multiple Texts](stations-interacting_with_multiple_texts.md)
+- [Design future sectional anatomy sessions to be more multimodal and collaborative](future-sessions-more-multimodal-and-collaborative.md)
 
 ## Examples
 -

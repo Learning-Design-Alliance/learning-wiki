@@ -50,3 +50,4 @@ The review reports that "Doig et al. found that the reliability of the OSCE exam
 - [Automated VR assessment could reduce examiner workload and increase objectivity in OSCE-style practical exams](automated-vr-assessment-reduces-examiner-workload-increases-objectivity.md)
 - [When OSCEs have 5-10 stations, duration per station under 10 minutes yields significantly better internal consistency (alpha = 0.88) than 10 or more minutes (alpha = 0.64)](osce-station-duration-under-10-minutes-better-reliability.md) — related
 - [When station number varies widely, duration time per station is not a major factor affecting OSCE internal consistency](osce-duration-not-major-factor-when-station-number-varies.md) — related
+- [Examiners rated the PJ-OSCE format as appropriate, with 86.3% giving a positive assessment.](pj-osce-examiner-evaluation-format-appropriate.md) — related

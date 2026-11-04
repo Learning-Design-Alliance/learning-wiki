@@ -52,3 +52,4 @@ Cross-sectional survey regression (N = 1445) comparing RQ1 and RQ3 models. The a
 - [Media use behaviours predict 19% of variance in online vigilance, with media multitasking the strongest predictor](media-use-predicts-online-vigilance.md) — related
 - [Media use and online vigilance predict substantially more variance in academic performance among Namibian (27%) than South African (4%) students](namibia-south-africa-variance-difference.md) — related
 - [Online vigilance correlates negatively with academic performance in the full sample and strongly in Namibia, but not in the South African or Botswana samples](online-vigilance-correlates-country-pattern.md) — related
+- [Purpose-specific screen use explains academic performance variance beyond total screen-time duration, while total duration adds nothing beyond purpose](screen-use-purpose-beats-duration-academic-performance.md) — related

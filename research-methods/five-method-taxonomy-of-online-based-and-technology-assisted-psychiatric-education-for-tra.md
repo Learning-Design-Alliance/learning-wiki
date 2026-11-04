@@ -30,7 +30,8 @@ The review organizes the literature on online-based and technology-assisted psyc
 - [Trainer-led online training outperformed self-paced online training for behavioral activation skills](../claims/trainer-led-beats-self-paced-online-skills-training.md) [+W]
 
 ## Related Research Methods
--
+
+- [Four-domain taxonomy organizing AI applications in medical education](four-domain-taxonomy-organizing-ai-applications-in-medical-education.md)
 
 ## Key Sources
 - Mohd Amiruddin Mohd Kassim, Sidi Muhammad Yusoff Azli Shah, Jane Tze Yn Lim, Tuti Iryani Mohd Daud. (2025). Online-Based and Technology-Assisted Psychiatric Education for Trainees: Scoping Review. JMIR Medical Education. https://doi.org/10.2196/64773

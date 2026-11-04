@@ -51,3 +51,4 @@ Commentary abstract describing the paper's exploratory discussion of how "learne
 - [Hands-on collaborative activity in responsive environments helps learners understand from multiple perspectives and begin to become experts (authors' reported experience)](hands-on-collaboration-becoming-experts.md) — related
 - [SEAs differentiate support to districts based on the number of CSI/TSI-identified schools, district capacity, and district willingness to engage.](seas-differentiate-support-by-district-characteristics.md) — related
 - [The SEA-as-resource-provider role was the most commonly emphasized approach, named in 10 of 23 state ESSA plans.](sea-resource-role-most-emphasized.md) — related
+- [The expert workshop yielded key insights including the value of an educational-psychological perspective and the need to differentiate Modalities](bcp-expert-workshop-insights.md) — related

@@ -77,6 +77,7 @@ Simulation works because it compresses experience: learners encounter rare, high
 - [Use conversation analysis of real interactions to underpin and enhance role play and simulated patient training rather than replace it](use-ca-to-enhance-simulation-design.md)
 - [Include an immediate, structured debriefing session with descriptive, analysis and application phases in every high-fidelity simulation training](immediate-structured-debriefing-hf-simulation.md)
 - [Role-play activity training with doctor, standardized-patient and evaluator roles plus peer and teacher debriefing before real-patient interviews](role-play-history-taking-training-strategy.md)
+- [Use weekly scenario simulation with structured debriefing and operational skills training to develop new graduate nurses' competence](weekly-scenario-simulation-debriefing-skills-training-strategy.md)
 
 ## Examples
 - **Flight simulation (aviation)** — Full-motion simulators with standardized proficiency checks are the canonical case; airline pilots log most initial type-rating hours in simulation before touching the aircraft.

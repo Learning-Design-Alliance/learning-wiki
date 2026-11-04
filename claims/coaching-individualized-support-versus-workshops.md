@@ -52,3 +52,4 @@ The brief's framing statement contrasts coaching with workshop-based professiona
 - [Professional learning, broadly defined to include teacher collaboration, coaching, and workshops, was the most important support strategy for instructional change](professional-learning-most-important-support.md) — related
 - [Teachers prefer professional learning led by their colleagues over training from outside consultants](teachers-prefer-colleague-led-professional-learning.md) — related
 - [Provider assistance to probation schools suffered from low intensity, poor communication among providers, and weak organizational change strategies](probation-support-implementation-constraints.md) — related
+- [More than half of students reported not receiving an individualized educational approach, in contrast to academic staff perceptions](students-report-no-individualized-approach-staff-discrepancy.md) — related

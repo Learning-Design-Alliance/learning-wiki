@@ -51,3 +51,4 @@ Post-intervention survey of comments and suggestions from both intervention grou
 - [ADA produces directional but non-significant trends toward more positive-activating and less negative-deactivating emotions versus conventional materials](ada-emotions-directional-non-significant.md) — related
 - [AI-supported inquiry-based learning significantly improved secondary students' creative mathematical performance compared with traditional instruction](ai-ibi-improves-creative-mathematical-performance.md) — related
 - [After gamified security training, female students gave more positive confidence and format-preference ratings than male students (descriptive survey percentages, no inferential test)](gender-differences-gamified-security-training.md) — related
+- [Students reported high educational satisfaction and motivation after the workshop, with 78.6% reporting increased interest in nephrology](high-satisfaction-and-nephrology-interest-after-workshop.md) — related

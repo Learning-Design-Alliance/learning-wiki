@@ -69,3 +69,5 @@ Test–retest assessment with 81 nurses re-completing the HLC-N after a two-week
 - [Theoretically defined test reliability computable from a single administration via parallel-half vector lengths and angle exceeds split-half reliability but falls below Cronbach alpha](single-administration-theoretical-reliability-vectors.md) — related
 - [AI literacy scales show good structural validity and internal consistency but are rarely tested for other measurement properties](ai-scales-structural-validity-strong-other-properties-untested.md) — related
 - [Chongqing nurses show moderately high HLC (mean 154.41, SD 20.60) with weakest knowledge and collaboration dimension scores](nurses-moderately-high-hlc-weak-knowledge-collaboration.md) — related
+- [The CSL-LTS demonstrates strong temporal stability with an intraclass correlation coefficient of 0.991 over a 15-day test–retest interval](csl-lts-temporal-stability-icc.md) — related
+- [The DKSCQ-N demonstrates high internal consistency (Cronbach's α = 0.906) and excellent test-retest stability (ICC = 0.829) over two weeks.](dkscqn-reliability-alpha-icc.md) — related

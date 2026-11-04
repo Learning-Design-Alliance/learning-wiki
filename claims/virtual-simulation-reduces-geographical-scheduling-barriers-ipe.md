@@ -47,3 +47,4 @@ Qualitative focus group study with 29 purposively sampled senior students from f
 ## Related Claims
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — a broader claim this one bears on
 - [Online delivery was reported to enhance geographical access, enable flexible student-led learning, and increase teaching efficiency](online-delivery-facilitators-access-flexibility.md) — a broader claim this one bears on
+- [Professional hierarchy and low student confidence are key barriers to interprofessional education](hierarchy-and-confidence-barriers-ipe.md) — related

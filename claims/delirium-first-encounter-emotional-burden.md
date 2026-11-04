@@ -71,3 +71,4 @@ Interview data showed "altered consciousness and inability to communicate evoked
 - [Nursing students struggle to label observed changes as delirium and often misinterpret them as other conditions](students-misattribute-delirium-symptoms.md) — related
 - [Nursing students report that purely theoretical delirium education is insufficient for clinical readiness](theory-alone-insufficient-delirium-education.md) — related
 - [Repeated simulated patient encounters produced no significant change in state anxiety or LSAS over time among students with repeated responses](no-anxiety-reduction-repeated-simulation-exposure.md) — related
+- [Students experience anxiety and nervousness during simulation but recognize emotional regulation as central to safe patient interaction](simulation-emotional-regulation-anxiety.md) — related

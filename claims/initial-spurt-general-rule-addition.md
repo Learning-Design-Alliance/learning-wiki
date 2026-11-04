@@ -50,3 +50,4 @@ Tabulation in the same addition experiment of how often each period's score exce
 - Prior initial-spurt experiments failed because test periods were too lengthy and subjects too few — related
 - [Addition efficiency drops sharply from the first to the second two-minute period, indicating initial spurt](initial-spurt-in-addition-two-minute-periods.md) — related
 - [Efficiency in the work curve is conditioned by factors beyond fatigue proper: practice, adaptation, preparedness, warming up, spurts, voluntary effort, ennui, and diurnal rhythms (Offner)](work-curve-factors-beyond-fatigue.md) — a broader claim this one bears on
+- [The VR group scored significantly lower than controls at week 2, reflecting an initial learning curve with the VR system](vr-initial-learning-curve-week-2.md) — related

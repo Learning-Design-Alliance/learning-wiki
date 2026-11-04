@@ -74,3 +74,4 @@ Dependent t test within the jigsaw group (n=23) one month after instruction; the
 - [Learning from interactive whiteboard lessons supported by visual materials persisted, with only a small significant decline four weeks after the post-test](iwb-visual-persistence-of-learning.md) — related
 - [Teaching 7th-grade social studies with the jigsaw technique produced higher post-test achievement scores than traditional instruction](jigsaw-higher-achievement-science-within-time.md) — related
 - [No significant difference between post-test and one-month follow-up scores](no-significant-posttest-followup-difference.md) — related
+- [Both intervention groups showed significant performance decline from one week to one month post-intervention](both-groups-decline-one-month.md) — related

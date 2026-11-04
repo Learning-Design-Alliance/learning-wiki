@@ -79,3 +79,6 @@ The article's abstract reports the psychometric outcome across the validation sa
 - [DLISt7 demonstrated excellent internal reliability, with a slightly higher alpha coefficient obtained in the main study using a larger sample](dlist7-internal-reliability-excellent-alpha.md) — related
 - [The 9-item questionnaire showed very high internal consistency (Cronbach's Alpha 0.97)](videogame-questionnaire-cronbach-alpha-097.md) — related
 - [The three measurement instruments show acceptable reliability and validity in this sample](measurement-model-cfa-reliability-validity.md) — related
+- [The DKSCQ-N demonstrates high internal consistency (Cronbach's α = 0.906) and excellent test-retest stability (ICC = 0.829) over two weeks.](dkscqn-reliability-alpha-icc.md) — related
+- [The HSPNCS demonstrates excellent internal consistency (Cronbach's alpha 0.967)](hspncs-high-internal-consistency.md) — related
+- [The scale demonstrates strong reliability and validity evidence including internal consistency, composite reliability, and average variance extracted](reliability-validity-evidence-generative-ai-teacher-scale.md) — related

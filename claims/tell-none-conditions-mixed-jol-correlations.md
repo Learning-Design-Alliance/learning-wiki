@@ -72,3 +72,4 @@ Across 118 JoLs in the no-agent condition, confidence correlated negatively and 
 - [Students' self-assessed question specificity was not significantly correlated with their observed specificity](students-miscalibrate-question-specificity.md) — related
 - [No trace format supported calibrated self-evaluation: perceived-achieved correlations were low and non-significant in all conditions](no-trace-format-supported-calibrated-self-evaluation.md) — related
 - [In a real programming course, students with an eliciting LLM agent on a learning dashboard wrote more reflection messages than students with a telling agent](elicit-agent-more-reflection-messages-lad.md) — related
+- [Institution A students showed significantly more positive perceptions than Institution B on self-confidence, skill development, and skill mastery through repetition](institution-differences-sbl-perceptions-confidence-skills.md) — related

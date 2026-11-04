@@ -54,3 +54,4 @@ Judge-selection analysis during pipeline development. The authors selected Claud
 - [Independent LLM evaluators agreed on agent rankings but differed markedly in leniency, with ceiling effects compressing between-agent discrimination](llm-evaluator-leniency-ceiling-effects.md) — related
 - [In one study of five LLMs scoring 60 undergraduate essays on IELTS rubric dimensions, systematic underestimation of human scores was the dominant bias trend, with some models also compressing scores into a narrow range](llm-essay-scoring-systematic-underestimation.md) — reports the opposite
 - [No consistent relationship was observed between false-positive and false-negative rates and either the question or the LLM model](no-consistent-fp-fn-pattern.md) — reports the opposite
+- [LLM evaluators converged on agent rankings but differed markedly in leniency and discrimination](llm-evaluators-leniency-ceiling-effects.md) — related

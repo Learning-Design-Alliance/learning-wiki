@@ -56,6 +56,7 @@ The authors propose a dual-track model in which LBL handles theory and basic sur
 - [Combine PBL with LBL as a dual-track teaching model in Chinese medical education](pbl-lbl-dual-track-medical-education-strategy.md)
 - [Combine the PBL and ATI models with different approaches for optimal results](combine-pbl-and-ati-models-strategy.md)
 - [Use combined PBL-CBL teaching in clinical settings where direct patient exposure is limited](pbl-cbl-for-limited-patient-exposure-settings.md)
+- [Adapt the blended online-PBL-CBL framework to other surgical disciplines and incorporate AI-assisted learning](adapt-blended-framework-other-disciplines-ai-future.md)
 
 ## Examples
 -

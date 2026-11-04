@@ -56,3 +56,4 @@ Authors' interpretive discussion of the null ANCOVA result, offered without new 
 - [The null UK trial result contrasts with two US retrospective cohort studies, possibly due to shorter duration and lower intensity and to control groups already teaching foreign languages](fll-null-contrasts-us-cohort-studies-dose.md) — related
 - [The authors judge the one-month treatment duration insufficient for developing judge-rated L2 pronunciation, and impressionistic ratings a possible reason for the null fluency result](short-treatment-impressionistic-ratings-limit-pronunciation-gains.md) — related
 - [Short improv exposure (under 10 hours) produced gains consistent with meta-analytic findings that moderate drama instruction durations are most effective](short-exposure-sufficient-gains.md) — related
+- [Insufficient session time and large group size were the main reported limitations](insufficient-time-and-group-size-limitations.md) — related

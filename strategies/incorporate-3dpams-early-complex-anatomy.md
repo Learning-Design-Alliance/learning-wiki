@@ -49,7 +49,8 @@ The review recommends deploying 3DPAMs in the first years of medical school and 
 - [3D + PBL improves understanding of orthopedic anatomical structures](../claims/3d-pbl-improves-understanding-orthopedic-anatomy.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design future sectional anatomy sessions to be more multimodal and collaborative](future-sessions-more-multimodal-and-collaborative.md)
 
 ## Examples
 -

@@ -62,3 +62,4 @@ Network meta-analysis of 58 RCTs with 5,427 students reporting theoretical test 
 - [PBL improves total cell biology examination scores compared with LBL in Chinese medical education (pooled SMD 0.89)](pbl-beats-lbl-total-exam-scores-cell-biology.md) — a narrower finding that bears on this claim
 - [PBL and LBL show no significant difference in theoretical knowledge in surgical education](pbl-lbl-no-difference-theoretical-knowledge-surgery.md) — related
 - [Both PBL-CBL and traditional teaching groups improve theoretical and skills scores after the course](both-groups-improve-scores-after-course.md) — related
+- [BOPPPS/FC-CBL group achieves significantly higher theory test scores than LBL group in general practice residency training](boppps-fc-cbl-higher-theory-test-scores-than-lbl.md) — related

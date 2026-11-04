@@ -52,3 +52,5 @@ Random effects meta-analysis of Pearson correlations between OSCE station scores
 - [OSCE designs with 5-10 stations achieve good internal consistency (Cronbach's alpha = 0.83), outperforming designs with fewer than 5 or more than 10 stations](osce-5-10-stations-optimal-reliability.md) — related
 - [Students achieved high and consistent OSCE handover performance across antenatal and postpartum stations after the intervention](isbar-osce-high-consistent-performance.md) — reports the opposite
 - [A strong, statistically significant positive correlation was observed between process-oriented and summative assessment scores (r = 0.892).](pbl-bridge-process-summative-correlation.md) — related
+- [A large-scale summative PJ-OSCE can be successfully developed and delivered within a German model curriculum context.](large-scale-summative-pj-osce-feasible-german-model-curriculum.md) — related
+- [The PJ-OSCE achieved high internal consistency, with circuit-level Cronbach's alpha averaging 0.84.](pj-osce-high-reliability-cronbach-alpha-084.md) — related

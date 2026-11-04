@@ -41,7 +41,8 @@ The report derives a set of guidelines from performance-standard-setting best pr
 - [Logistic regression can identify the ELP score at which students have a probability of 0.5 of being proficient on the academic content assessment, as a candidate English-proficient standard](../claims/logistic-regression-half-probability-criterion.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use predefined progression criteria and staged supervised practice to standardize training in invasive dental procedures](predefined-progression-criteria-staged-supervised-practice.md)
 
 ## Examples
 -

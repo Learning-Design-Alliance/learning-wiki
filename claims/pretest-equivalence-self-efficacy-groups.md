@@ -51,3 +51,4 @@ Independent samples t-test of pretest scores for the 65 prospective teachers: ex
 - [On the initial test's application section the experimental and control groups did not differ significantly](project-method-application-initial-null.md) — related
 - [Before instruction, the experimental and control groups did not differ significantly in request speech act use](pretest-equivalence-request-groups.md) — related
 - [The embedded design and applied experience groups did not differ significantly on the pretest of pedagogical content knowledge](no-pretest-difference-between-conditions.md)
+- [Baseline anxiety and self-efficacy did not differ between the intervention and control groups before the intervention](sps-cbl-baseline-equivalence-observed.md) — related

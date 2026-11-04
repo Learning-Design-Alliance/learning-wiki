@@ -51,6 +51,8 @@ The review recommends that scenario development allow active participation acros
 - [Active and interactive training methods to activate the subject position](active-interactive-methods-activate-subject-position.md)
 - [Use reflective learning, lived-experience sharing, and active participation in aesthetics-based nursing education](reflective-lived-experience-aesthetics-education-strategy.md)
 - [Implement centralised scheduling, shared mapped scenario repositories, and inclusive access supports for virtual simulation IPE](virtual-simulation-ipe-implementation-strategy.md)
+- [Use simulations, dedicated clinical time, and interprofessional education to teach family caregiver collaboration](family-caregiver-simulation-clinical-iep-strategies.md)
+- [Design recommendations for a contextually appropriate sim-IPE module in resource-constrained settings](sim-ipe-module-design-recommendations.md)
 
 ## Examples
 -

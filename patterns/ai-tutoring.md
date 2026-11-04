@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 425 claims (188 for, 180 mixed, 57 against) · 292 studies (111 causal, 61 review, 38 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 61 of 292 report an effect size · 409 claims rest on one study
+> **Evidence** · 427 claims (189 for, 181 mixed, 57 against) · 293 studies (112 causal, 61 review, 38 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 62 of 293 report an effect size · 411 claims rest on one study
 
 ## Description and scope
 
@@ -299,6 +299,8 @@ Claims linked to this pattern that the model above does not use. All were read a
 - [Within-domain Socratic GenAI dialogue yields higher self-assessed critical thinking than outside-domain dialogue across all participants](../claims/within-domain-socratic-genai-raises-critical-thinking.md) [+W] — attached 2026-10-29 from Aleksandra Bereznikova et al. (2026), which proposed "Guide conversational GenAI interactions with Socratic reasoning grounded in learners' domain of expertise".
 - [Self-rated critical thinking rose significantly after a within-domain Socratic GenAI dialogue for teachers and undergraduates but not for graduate students (no separate control; order and topic bundled)](../claims/socratic-genai-ct-gains-vary-by-group.md) [~M] — attached 2026-10-29 from Aleksandra Bereznikova et al. (2026), which proposed "Guide conversational GenAI interactions with Socratic reasoning grounded in learners' domain of expertise".
 - [The adaptive peer-like agent brought the most benefit to children's vocabulary learning and affective engagement compared with fixed-role agents](../claims/adaptive-peer-agent-most-benefit.md) [+W] — attached 2026-10-29 from Chen et al. (2020), which proposed "Design educational agents to adaptively switch between tutor and tutee roles based on the student's engagement and learning needs"; tests this page's relationship.
+- [Medical interns using MAPLE-CR achieved higher posttest clinical reasoning knowledge scores than controls completing case-matched self-study](../claims/maple-cr-higher-posttest-than-self-study.md) [+M] — attached 2026-11-04 from Zhao Zhengqi et al. (2026), which proposed "Use generative AI as a process-oriented scaffold orchestrating the full PBL cycle rather than as an on-demand answer tool"; tests this page's relationship.
+- [Learners reported high acceptability of MAPLE-CR, with questionnaire means of 4.19-4.62 on positively worded items but salient cognitive-load concerns](../claims/maple-cr-high-acceptability-cognitive-load.md) [~M] — attached 2026-11-04 from Zhao Zhengqi et al. (2026), which proposed "Use generative AI as a process-oriented scaffold orchestrating the full PBL cycle rather than as an on-demand answer tool".
 
 ## Illustrative design instance and observation record
 

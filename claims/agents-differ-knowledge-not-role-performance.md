@@ -3,13 +3,13 @@ type: claim
 title: AI teaching agents differed most on knowledge-related dimensions and least on role-play quality, with adaptive difficulty calibration a shared weakness
 description: AI teaching agents differed most on knowledge-related dimensions and least on role-play quality, with adaptive difficulty calibration a shared weakness
 id: agents-differ-knowledge-not-role-performance
+aliases: [agents-differed-most-on-knowledge-dimensions]
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-20
 recheck_by: 2029
 sources:
   - id: zhang-hui-2026
@@ -26,10 +26,13 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
+
 `q2 i?` Between-agent variation was largest on knowledge-point coverage (CV=27.3%) and medical knowledge accuracy (CV=18.5%), smallest on role-play quality (CV=5.7%), and difficulty calibration was low across nearly all agents. [→ Zhang Hui 2026](#zhang-hui-2026)
+
+`q3 i?` Between-agent variation was largest on knowledge-point coverage (CV=27.3%) and medical knowledge accuracy (CV=18.5%), smallest on role-play quality (CV=5.7%), and adaptive difficulty control was low across nearly all agents. [→ Zhang Hui MM 2026](#zhang-hui-2026)
 
 ## Evidence
 
@@ -43,10 +46,24 @@ Rubric scoring of 167 dialogues by Claude Opus 4.8 across 8 agents; agent totals
 
 > "It was largest on the 2 knowledge-related dimensions, namely knowledge-point coverage (CV=27.3%) and medical knowledge accuracy (CV=18.5%), indicating that agents differed most in what and how accurately they taught. In contrast, role-play quality was the most uniform dimension (CV=5.7%)"
 
+<!-- merged 2026-11-04 from agents-differed-most-on-knowledge-dimensions: that page's entry for this study, which differed from the one above, kept verbatim.
+### Zhang Hui MM 2026
+
+Zhang Hui MM, Qu Lihui PHD, Zheng Jianmin MMgmt, Xiong Yi MSc, Bai Hongbo MSc, Ji Ruiying MSc, Liu Guohui MSc, Chen Wanling MD, Cheng Zirui MD, Chen Youbang MSc, Yang Chun-tao PhD. (2026). What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education. JMIR Medical Education. https://doi.org/10.2196/96819
+
+`q3 · i?`
+
+Rubric-based scoring of all 167 dialogues by Claude Opus 4.8 (mean of 4 runs). Coefficients of variation summarize between-agent spread per dimension. "Role-play quality was the most uniform dimension (CV=5.7%)."
+
+> "It was largest on the 2 knowledge-related dimensions, namely knowledge-point coverage (CV=27.3%) and medical knowledge accuracy (CV=18.5%), indicating that agents differed most in what and how accurately they taught."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Strengthening an agent's empathic persona did not translate into broader knowledge delivery: the revised family-member agent had high role-play quality but the lowest knowledge coverage](empathy-revision-did-not-improve-knowledge-coverage.md) — related
 - [Among 6,699 LLM-judge deduction flags, visual delivery is the largest deficiency category (39%) and learner adaptation the second (27%), while content problems are rarer (16%)](video-deductions-visual-and-adaptation-dominant.md) — related
 - [Task category is the dominant factor in agent performance: cross-category spread (26.3 points) far exceeds cross-model spread (8.8 points)](category-difficulty-dominates-model-differences-academiclaw.md) — related
@@ -54,3 +71,4 @@ Rubric scoring of 167 dialogues by Claude Opus 4.8 across 8 agents; agent totals
 - [LLM-based rubric scores agreed with expert ratings at the total-score level and on cognitive-process dimensions, but agreement was low for more subjective dimensions](ai-expert-agreement-cognitive-versus-subjective-dimensions.md) — related
 - [Boundary compliance (S3) drives nearly all inter-model safety divergence, with a 53-point gap between the safest and least safe models](boundary-compliance-drives-safety-divergence-academiclaw.md) — related
 - [Current AI instructional-video systems score higher on content dimensions (Accuracy, Logic) than on delivery dimensions (Engagement, Adaptability), with Adaptability lowest](ai-video-systems-content-stronger-than-delivery.md) — related
+- [Strengthening empathy in the family-member agent did not translate into broader knowledge delivery](a8-empathy-revision-lowest-knowledge-coverage.md) — related

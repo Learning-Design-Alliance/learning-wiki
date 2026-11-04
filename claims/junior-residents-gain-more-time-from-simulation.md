@@ -52,3 +52,4 @@ Subgroup analysis (test for subgroup differences, Fig. 3) comparing time improve
 - [The coronary anastomosis learning curve on a simulator stabilizes after about 30 anastomoses](learning-curve-stabilizes-after-30-anastomoses.md) — related
 - [Simulation improves trainee scores on individual technical subtasks of coronary anastomosis](simulation-improves-anastomosis-subtask-scores.md) — related
 - [Coronary anastomosis simulation training is associated with higher objective skill scores than no formal simulation training](simulation-improves-coronary-anastomosis-skill-score.md) — related
+- [Mean anastomosis completion time decreased significantly after training, with significant reductions among second- and third-year residents](anastomosis-completion-time-reduction-pgy2-3.md) — related

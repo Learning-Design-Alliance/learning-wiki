@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 111 claims (80 for, 28 mixed, 3 against) · 76 studies (25 associational, 18 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 19 of 76 report an effect size · 105 claims rest on one study
+> **Evidence** · 114 claims (81 for, 30 mixed, 3 against) · 78 studies (27 associational, 18 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 19 of 78 report an effect size · 108 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -167,6 +167,9 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Autonomy supportive teaching produces greater conceptual knowledge gains than controlling teaching in seventh grade biology](../claims/autonomy-support-boosts-conceptual-knowledge-biology.md) [+W] — attached 2026-11-03 from Hofferber et al. (2014), which proposed "Self-determination theory: autonomy support satisfies the basic need for autonomy and promotes intrinsic motivation and deeper learning"; tests this page's relationship.
 - [Students given topic choice via majority vote report higher intrinsic motivation than students assigned a topic without choice](../claims/majority-vote-choice-raises-intrinsic-motivation-biology.md) [+M] — attached 2026-11-03 from Meyer et al. (2013), which proposed "Self-Determination Theory: autonomy support benefits engagement and intrinsic motivation"; tests this page's relationship.
 - [Students whose vote did not select the winning topic report the same intrinsic motivation as students whose choice was received](../claims/non-received-choice-no-motivation-deficit.md) [~M] — attached 2026-11-03 from Meyer et al. (2013), which proposed "Self-Determination Theory: autonomy support benefits engagement and intrinsic motivation".
+- [Residents report low self-perceived autonomy for bifascicular block, failure to capture, Brugada pattern, and acute MI with bundle branch block](../claims/low-resident-autonomy-critical-ecg-diagnoses.md) [~W]
+- [Quality of family relationships, not number of adults in the family, matters for adolescents' motivation and achievement](../claims/family-relationship-quality-over-family-structure.md) [+W]
+- [Family satisfaction partially mediates the association between family structure and autonomous motivation and academic achievement](../claims/family-satisfaction-partial-mediator-family-structure-achievement.md) [~W]
 
 ## The evidence by question
 

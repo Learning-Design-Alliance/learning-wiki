@@ -25,7 +25,7 @@ sources:
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 73 claims (28 for, 38 mixed, 7 against) · 73 studies (21 causal, 13 quant-synthesis, 10 review, 9 associational, 7 qualitative, 7 design, 6 theoretical), `q1`–`q4` · 13 of 73 report an effect size · 65 claims rest on one study
+> **Evidence** · 76 claims (31 for, 38 mixed, 7 against) · 74 studies (22 causal, 13 quant-synthesis, 10 review, 9 associational, 7 qualitative, 7 design, 6 theoretical), `q1`–`q4` · 13 of 74 report an effect size · 68 claims rest on one study
 
 ## Description and scope
 
@@ -153,6 +153,9 @@ Added 2026-10-17 after a search for competency-based, mastery-based and self-pac
 - [Online attrition in an orientation week was twice that of on-ground first weeks](../claims/orientation-week-attrition-double-online.md) [~M] — continuing-education online classes; bears on the first contact in a self-paced programme
 - [Career coaches appeared to expand exposure to and completion of community-college health sciences programmes](../claims/coaching-expanded-program-exposure-completion.md) [+W] — associational
 - [The three pilots shared online technology for mastery pathways, credit for demonstrated mastery, anytime/anywhere learning, and improved data management](../claims/proficiency-pilots-shared-design-attributes.md) [+M] — attached 2026-11-03 from Lewis et al. (2013), which proposed "Proficiency-based systems award credit for demonstrated mastery rather than seat time, allowing students to progress at their own pace".
+- [Stepwise CBME training significantly improves ultrasound-guided biopsy pathological concordance rate compared to conventional training](../claims/stepwise-cbme-improves-biopsy-concordance.md) [+W] — attached 2026-11-04 from Xu Kailun et al. (2026), which proposed "Match clinical teaching opportunities to current competency level rather than to case availability"; tests this page's relationship.
+- [Stepwise CBME training significantly improves catheterization success rate for venous access port implantation compared to conventional training](../claims/stepwise-cbme-improves-port-catheterization-success.md) [+W] — attached 2026-11-04 from Xu Kailun et al. (2026), which proposed "Match clinical teaching opportunities to current competency level rather than to case availability"; tests this page's relationship.
+- [Stepwise CBME training significantly shortens operative time for supervised breast-conserving surgery compared to conventional training](../claims/stepwise-cbme-shortens-bcs-operative-time.md) [+W] — attached 2026-11-04 from Xu Kailun et al. (2026), which proposed "Match clinical teaching opportunities to current competency level rather than to case availability"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

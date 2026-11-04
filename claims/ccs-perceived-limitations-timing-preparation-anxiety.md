@@ -49,3 +49,4 @@ Thematic analysis of reflective narratives in the same mixed-methods study of 10
 - [Students identified coaching benefits in three broad themes (improved cognitions, behaviors, subjective well-being) and limitations including 30-minute session length and desire for more accountability](coaching-benefits-and-limitations-student-perspectives.md) — related
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
 - [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](ccs-perceived-strengths-realism-reasoning-communication.md) — related
+- [Peer observation and structured debriefing are perceived by students as key opportunities for reflection and learning during simulation](debriefing-peer-observation-reflection.md) — related

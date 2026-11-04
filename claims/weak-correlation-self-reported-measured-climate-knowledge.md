@@ -67,3 +67,4 @@ Group-specific correlations: the IPCC group showed the largest post-intervention
 ## Related Claims
 - [Repeated measures of invested mental effort, perceived task difficulty, interest, and self-assessed understanding differ significantly across measurement points within complex learning tasks and are not adequately represented by their mean](repeated-load-interest-measures-vary-within-complex-tasks.md) — related
 - [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](weak-sr-ob-correlation-ai-literacy.md) — a broader claim this one bears on
+- [Perceived educational value and anticipation of anaphylaxis correlate weakly but significantly with objective VR performance](perceived-value-anticipation-correlate-performance.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ The perspective reports the author's Texas Twin Project analyses probing whether
 - [Biological aging can be quantified early in the life course via methylation profile scores applied to child and adolescent samples](mps-biological-aging-quantified-early-life-course.md) — related
 - [Cross-tissue correspondence of methylation profile scores is acceptable for saliva but lower for cheek samples, a major methodological concern](mps-cross-tissue-correspondence-saliva-cheek.md) — related
 - [Pubertal timing shows no association with accelerated biological age in children, but more advanced pubertal development relates to a faster pace of aging and higher inflammation](pubertal-timing-mps-pace-of-aging-null-and-mixed.md) — related
+- [Chronic inflammation secondary to obesity is associated with an increased risk of periodontal disease](obesity-inflammation-periodontal-disease-risk.md) — related

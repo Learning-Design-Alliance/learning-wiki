@@ -54,3 +54,4 @@ Narrative analysis of the review's non-RCT and PPT studies. For attitudes, "42 o
 - [Simulation training improves attitudes toward suicide risk assessment compared with active comparators immediately after training and compared with inactive comparators at 2–4 months](simulation-training-improves-attitudes-suicide-risk.md) — a narrower finding that bears on this claim
 - [Repeated simulator attempts improve VRS performance, with expert groups showing no further improvement](vrs-simulator-performance-curves-improve.md) — a narrower finding that bears on this claim
 - [Satisfaction and engagement with the simulations predicted post-test knowledge and attitude outcomes](vct-satisfaction-engagement-predictors.md) — a narrower finding that bears on this claim
+- [Simulator practicals increased student confidence in practical skills](simulator-practicals-increase-practical-skills-confidence.md) — a narrower finding that bears on this claim

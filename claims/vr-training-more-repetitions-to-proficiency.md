@@ -51,3 +51,4 @@ The review's narrative synthesis of its seven VR studies states this qualificati
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — related
 - [VR training's effect on OSATS-assisted skill acquisition shows conflicting evidence](vr-osats-conflicting-evidence.md) — related
 - [Skills trained in a haptic simulator were not transferable to a non-haptic simulator in one randomized trial](haptic-trained-skills-not-transferable-non-haptic-simulator.md) — related
+- [Training intensity was not equivalent between groups, confounding the comparison of VR versus mannequin-based training](vr-training-intensity-confound.md) — related

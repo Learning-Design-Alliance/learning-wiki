@@ -71,3 +71,4 @@ Reliability analysis of a single Gemini-Flash judge scored n=3 times across thir
 - [Human-shadow prompting generates broad psychometric variance while AI-assistant responses are uniform](human-shadow-prompting-generates-psychometric-variance.md) — related
 - [Cognitive artifact scoring in the digital workbook achieved high intercoder reliability, with average Spearman's rho of 0.97 overall](high-intercoder-reliability-workbook-scoring.md) — related
 - [Autograder accuracy on individual exams fluctuates around the expected performance, and strong deviations can be reliably detected by validation](per-exam-accuracy-fluctuates-validation-detects-deviations.md) — related
+- [The 5-LLM panel showed higher generalizability and lower rater-related variance than the 10-judge faculty panel](llm-panel-higher-g-coefficient-lower-rater-variance.md) — related

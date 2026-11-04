@@ -50,3 +50,4 @@ Literature-based evaluation of the TPACK model in the article's framework-review
 - [The article argues that teacher digital competencies must be reconceptualised beyond person-centric views towards holistic, ecological conceptualisations](ecological-reframing-teacher-digital-competencies.md) — related
 - [Netherlands case: design-based TPACK interventions improved student teachers' TPACK and were sustained, but scaling was delayed by leadership decision structures](netherlands-tpack-interventions-sustained-scaling-delayed.md) — related
 - [Virtual exchange participation develops student teachers' digital-pedagogical competence (TPACK)](virtual-exchange-develops-tpack-student-teachers.md) — related
+- [Existing digital competence frameworks for psychotherapists are not specifically conceptualized for BCP](existing-frameworks-not-bcp-specific.md) — related

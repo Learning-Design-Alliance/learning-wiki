@@ -52,3 +52,4 @@ Meta-analysis of 27 publications involving 1542 residents (intervention 770, LBL
 - [PBL combined with WeChat outperforms LBL in theoretical test scores and reduces dissatisfaction among Chinese internal medicine residents](pbl-wechat-outperforms-lbl-theoretical-scores-residents.md) — related
 - [PBL teaching yields higher total scores than traditional teaching in orthopaedics education](pbl-higher-total-scores-orthopaedics.md) — related
 - [PBL is associated with higher overall DREEM medical educational environment scores than LBL in randomized trials](pbl-higher-dreem-than-lbl.md) — related
+- [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — a narrower finding that bears on this claim

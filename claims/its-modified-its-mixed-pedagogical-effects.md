@@ -68,3 +68,4 @@ Borchers et al.'s quasi-experiment with 82 ninth-graders using Mathtutor found a
 - [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](assistments-low-performers-significant-gains.md) — related
 - [Effects of ITSs are mitigated when compared to non-intelligent tutoring systems: three of four comparisons found no significant difference in learning gains](its-vs-non-intelligent-ts-mitigated.md) — related
 - [Most ITS-versus-teacher studies in K-12 report a positive effect of ITSs on student performance, with medium-to-large effect sizes](its-vs-teacher-k12-positive-effects.md) — related
+- [Students' self-assessments of their practical performance are higher than tutor assessments](student-self-assessment-higher-than-tutors.md) — related

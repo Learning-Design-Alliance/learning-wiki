@@ -60,6 +60,7 @@ The review recommends that educators craft assignments incorporating generative 
 - [Embed ethical inquiry into AI-supported instruction by having learners compare AI-generated texts with peer-reviewed sources](compare-ai-texts-with-peer-reviewed-sources.md)
 - [Require students to justify AI-assisted solutions and compare AI-generated with self-developed code](justify-and-compare-ai-assisted-solutions.md)
 - [Incorporate AI-generated text into teaching: students critique AI essays and write better versions](critique-ai-generated-essays-activity.md)
+- [Design AI-assisted activities that require students to explain reasoning and evaluate AI outputs against disciplinary criteria](ai-assisted-activities-requiring-explanation-and-evaluation.md)
 
 ## Examples
 -

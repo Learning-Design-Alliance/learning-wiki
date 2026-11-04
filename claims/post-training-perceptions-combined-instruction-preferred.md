@@ -51,3 +51,4 @@ Post-training perception question administered to all 37 participants after both
 - [AR and 2D methods boosted knowledge similarly, but the 3D AR method drew greater satisfaction and student preference (Lopez et al.)](lopez-ar-similar-knowledge-higher-satisfaction.md) — related
 - [Students reported highest satisfaction with the feedback process in the CASP-based teaching format](satisfaction-feedback-process-casp-teaching.md) — related
 - [Both VR simulation-based training and instructor-led instruction were followed by significant short-term increases in pharmacy interns' self-perceived spill-management outcomes](vr-and-instructor-led-increase-self-perceived-spill-outcomes.md) — related
+- [VR-cohort students reported high self-reported understanding, positive format evaluations, and willingness to participate again](vr-students-report-high-understanding-and-willingness.md) — related

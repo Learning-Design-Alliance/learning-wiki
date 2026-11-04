@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 172 claims (121 show a difference, 31 mixed, 20 no difference) · 115 studies (58 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 24 of 115 report an effect size · 170 claims rest on one study
+> **Evidence** · 177 claims (125 show a difference, 32 mixed, 20 no difference) · 117 studies (58 causal, 22 review, 11 associational, 8 quant-synthesis, 7 theoretical, 6 design, 5 qualitative), `q1`–`q3` · 24 of 117 report an effect size · 175 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -213,6 +213,11 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [AI-enabled personalized teaching improved several CTDI-CV subdimensions but not critical thinking self-confidence or cognitive maturity](../claims/ctdi-cv-subdimension-effects-mixed.md) [~M] — measured as an outcome of the instruction studied
 - [AI-enabled personalized teaching raised overall critical thinking disposition (CTDI-CV total score) above the positive-disposition threshold](../claims/ai-teaching-ctdi-cv-total-score-higher.md) [+M] — measured as an outcome of the instruction studied
 - [The iHEC cohort showed higher post-rotation critical thinking disposition than the conventional cohort (Cohen's d = 0.75)](../claims/ihec-higher-critical-thinking.md) [+M] — measured as an outcome of the instruction studied
+- [Critical thinking dispositions positively predict decision-making skills in primary school students](../claims/ctd-predicts-decision-making-primary.md) [+M] — learners who differ on it differ in outcomes
+- [Critical thinking dispositions, problem-solving and decision-making skills each positively predict perceptions of success](../claims/higher-order-skills-predict-success-perception.md) [+M] — learners who differ on it differ in outcomes
+- [Direct effect of critical thinking dispositions on perceptions of success remains significant after adding mediators](../claims/ctd-direct-effect-success-remains.md) [+M] — learners who differ on it differ in outcomes
+- [Problem-solving and decision-making skills partially mediate the link between critical thinking dispositions and perceptions of success](../claims/parallel-mediation-ctd-success.md) [+M] — learners who differ on it differ in outcomes
+- [Students' overreliance on generative AI can limit development of critical thinking skills when AI replaces rather than scaffolds learner reasoning](../claims/generative-ai-overreliance-limits-critical-thinking-development.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

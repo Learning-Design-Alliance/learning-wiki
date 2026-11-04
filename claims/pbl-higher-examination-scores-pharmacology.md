@@ -69,3 +69,4 @@ Meta-analysis of 30 comparative studies involving 4119 participants reporting ex
 - [Both PBL-CBL and traditional teaching groups improve theoretical and skills scores after the course](both-groups-improve-scores-after-course.md) — related
 - [MDT-CDIO integrated teaching yields higher theoretical assessment scores than traditional teaching in orthopedic clinical education](mdt-cdio-higher-theoretical-assessment-scores.md) — related
 - [RFPETM students scored significantly higher than TPETM students on online, midterm, experimental report, final, and composite pharmacology experimental course scores](rfpetm-higher-qelp-scores-than-tpetm.md) — a narrower finding that bears on this claim
+- [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — a narrower finding that bears on this claim

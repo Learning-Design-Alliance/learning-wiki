@@ -65,3 +65,4 @@ Primary outcome domains B and E in the within-participants comparison of 20 stud
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — reports the opposite
 - [Across all modalities, training interventions improved either performance or safety outcomes](training-interventions-improve-performance-or-safety-across-modalities.md) — related
 - [VR safety training for hazard identification significantly outperforms traditional methods for reinforced concrete and stone cladding tasks](vr-hazard-training-outperforms-traditional-methods.md) — reports the opposite
+- [Preceding worked-example demonstrations do not significantly impact perceptions of educational technology usability](worked-example-demonstrations-no-usability-impact.md) — related

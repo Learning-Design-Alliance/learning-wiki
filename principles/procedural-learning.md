@@ -186,6 +186,8 @@ Accuracy with help, unaided accuracy, speed, delayed retention, choice among pro
 
 ## Examples
 
+- [Pair a pre-test anastomosis attempt with standardized video instruction and supervised practice before a post-test on the same simulator](../strategies/video-instruction-supervised-practice-prepost-strategy.md)
+
 ### Illustrative
 
 **[Procedural Information](../elements/procedural-information.md)** — Stepwise guidance is provided just in time as learners perform a routine or method.

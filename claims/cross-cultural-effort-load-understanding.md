@@ -47,3 +47,4 @@ Qualitative semi-structured interviews with bilingual participants in five langu
 ## Related Claims
 - [Effort was consistently described as willful, motivation-dependent investment, whereas load was described as imposed and difficult to control](effort-willful-load-imposed.md) — a narrower finding that bears on this claim
 - [The 'heart and soul' effort item is suitable for learning contexts in Mandarin Chinese and Spanish but not in the other interviewed cultures](lifeblood-item-culture-limited.md) — related
+- [Students could define patient-centeredness but none recalled all four parts of the patient's perspective](students-define-patient-centeredness-incomplete-perspective.md) — related

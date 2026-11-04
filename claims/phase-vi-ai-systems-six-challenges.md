@@ -81,3 +81,4 @@ The chapter identifies six challenges for Phase VI systems, citing prior work. N
 - [Regulatory and ethics compliance posed substantial, underestimated challenges that delayed the ITS rollout by a year](compliance-effort-delayed-its-rollout.md) — related
 - [GenAI models span multiple agent types, mainly model-based and goal-based, but categorisation is difficult without model specifics](genai-agent-type-characterisation.md) — related
 - [Explainable AI in education is an ethical design choice, grounded in the five principles of beneficial AI including explicability](explainable-ai-education-ethical-design-choice.md) — related
+- [The authors conclude the LLM-based simulator may be an accessible, cost-effective tool for clinical reasoning training, pending validation with objective outcomes](llm-simulator-accessible-cost-effective-pending-validation.md) — related

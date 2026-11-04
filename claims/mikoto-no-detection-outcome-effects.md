@@ -48,3 +48,4 @@ Secondary endpoint analyses of the cluster-randomized trial (mixed-effects model
 - [Procedure-related complications do not differ significantly between simulation-based and non-simulation based training groups](sbt-no-complication-difference-airway.md) — related
 - [The control group's means and standard deviations were higher than the experimental group's on five performance metrics, though not significantly](control-group-higher-descriptive-means-five-metrics.md) — related
 - [Cecal intubation time decreased significantly within the mikoto group but not between groups](mikoto-within-group-cit-reduction.md) — related
+- [Patient sex, age, and colonoscopy indication significantly affected PDR-5 across all endoscopist groups](sex-age-indication-affect-pdr5.md) — related

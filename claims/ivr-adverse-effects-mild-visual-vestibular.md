@@ -55,3 +55,4 @@ Narrative synthesis of adverse-effect reporting across 7 included RCTs. The most
 - [VR use in anatomy learning can cause adverse effects and disorientation for some learners](vr-anatomy-adverse-effects-cybersickness.md) — a narrower finding that bears on this claim
 - [SVVR training is well tolerated, with only mild discomfort and no discontinuation due to adverse effects](svvr-training-well-tolerated-mild-discomfort.md) — a narrower finding that bears on this claim
 - [VR participants report more technical issues and cybersickness symptoms than slideshow participants](vr-technical-issues-cybersickness.md) — a narrower finding that bears on this claim
+- [VRISE symptoms were generally mild to moderate and only weakly associated with age and corrective-glasses use](vrise-mild-weak-age-and-glasses-associations.md) — related

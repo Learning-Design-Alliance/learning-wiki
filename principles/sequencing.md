@@ -48,7 +48,7 @@ sources:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (24 for, 23 mixed, 1 against) · 43 studies (16 causal, 10 theoretical, 9 review, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 4 of 43 report an effect size · 44 claims rest on one study
+> **Evidence** · 49 claims (25 for, 23 mixed, 1 against) · 44 studies (17 causal, 10 theoretical, 9 review, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 5 of 44 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -176,6 +176,7 @@ Claims this page cites that bear on it only indirectly. Every other claim the ea
 - [Teams receiving part-task congruent representational tools (causal then simulation) outperformed teams with partly matched or mismatched tools on a complex business-economics learning task](../claims/matched-representational-tools-better-complex-task-performance.md) [+W] — attached 2026-10-19 from B. Slof et al. (2012), which proposed "Introduce qualitative representations before quantitative ones and let learners construct representations congruent with the tasks to be carried out".
 - [In-between explaining enhanced university students' conceptual knowledge more than after-study explaining (Experiment 1)](../claims/in-between-explaining-beats-after-study-explaining-conceptual-knowledge.md) [+M] — attached 2026-10-23 from Lachner et al. (2020), which proposed "Prepone explaining to between study phases when designing learning environments"; tests this page's relationship.
 - [In-between explaining triggered more monitoring of knowledge gaps than after-study explaining (Experiment 1)](../claims/in-between-explaining-increases-monitoring-activities.md) [+M] — attached 2026-10-23 from Lachner et al. (2020), which proposed "Prepone explaining to between study phases when designing learning environments".
+- [A structured microskill stepwise progression model improves end-of-rotation tooth extraction competence compared with traditional apprenticeship-based teaching.](../claims/microskill-stepwise-progression-improves-tooth-extraction-competence.md) [+M] — attached 2026-11-04 from Wu Zongxi et al. (2026), which proposed "Nine-stage deconstruction of tooth extraction into sequential microskills of increasing complexity"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

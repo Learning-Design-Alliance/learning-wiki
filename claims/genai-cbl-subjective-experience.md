@@ -52,3 +52,4 @@ Self-report questionnaire on a 0-10 scale across 5 domains. All comparisons rema
 - [GenAI-assisted progressive-disclosure CBL improves case-analysis performance with a large effect size](genai-progressive-disclosure-cbl-case-analysis.md) — related
 - [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](genai-progressive-disclosure-cbl-final-exam.md) — related
 - [All five questionnaire domains improved significantly after training, with large effect sizes (r = 0.67–0.81)](us-training-all-questionnaire-domains-improved.md) — related
+- [No statistically significant difference was observed between groups in the psychological self-efficacy domain of the questionnaire.](no-significant-difference-psychological-self-efficacy-domain.md) — related

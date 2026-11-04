@@ -52,3 +52,4 @@ Frequency analysis of EPA development methodologies across the included studies 
 - [EPA development and review processes require key stakeholder engagement in nutrition and dietetics education.](epa-development-requires-key-stakeholder-engagement.md) — related
 - [Iterative revision of EPAs based on feedback was undertaken in two included studies.](iterative-revision-of-epas-from-feedback.md) — related
 - Expert consensus-based methodologies, such as a modified Delphi process, were commonly used to develop robotic hysterectomy performance metrics. — related
+- [Royal College Entrustable Professional Activities de-emphasize ECG compared with PoCUS, with one ECG milestone versus nine for PoCUS](ecg-deemphasized-in-epas-versus-pocus.md) — related

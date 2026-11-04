@@ -3,13 +3,14 @@ type: claim
 title: LLM-based rubric scores agreed with expert ratings at the total-score level and on cognitive-process dimensions, but agreement was low for more subjective dimensions
 description: LLM-based rubric scores agreed with expert ratings at the total-score level and on cognitive-process dimensions, but agreement was low for more subjective dimensions
 id: ai-expert-agreement-cognitive-versus-subjective-dimensions
+aliases: [ai-expert-agreement-cognitive-dimensions]
 status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-11-04
 sources:
   - id: zhang-hui-2026
     resource: "https://doi.org/10.2196/96819"
@@ -25,10 +26,13 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
+
 `q2 i?` AI and expert total scores correlated positively (r=0.61; ICC=0.51), with agreement strongest on cognitive-process dimensions and near-zero or negative ICC for role-play quality and the two 5-point dimensions. [→ Zhang Hui 2026](#zhang-hui-2026)
+
+`q3 i?` AI and expert total scores were positively correlated (r=0.61; ICC=0.51), with agreement strongest on cognitive-process dimensions and near zero or negative ICC for role-play quality and the two 5-point dimensions. [→ Zhang Hui MM 2026](#zhang-hui-2026)
 
 ## Evidence
 
@@ -42,7 +46,20 @@ Validation rescoring of a stratified subset of 40 dialogues spanning all 8 agent
 
 > "AI and expert ratings were closely aligned in magnitude (mean totals 79.1 vs 78.5) and were positively correlated at the total-score level (r=0.61; ICC=0.51)."
 
+<!-- merged 2026-11-04 from ai-expert-agreement-cognitive-dimensions: that page's entry for this study, which differed from the one above, kept verbatim.
+### Zhang Hui MM 2026
+
+Zhang Hui MM, Qu Lihui PHD, Zheng Jianmin MMgmt, Xiong Yi MSc, Bai Hongbo MSc, Ji Ruiying MSc, Liu Guohui MSc, Chen Wanling MD, Cheng Zirui MD, Chen Youbang MSc, Yang Chun-tao PhD. (2026). What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education. JMIR Medical Education. https://doi.org/10.2196/96819
+
+`q3 · i?`
+
+Validation subset of 40 dialogues spanning all 8 agents, independently rescored by a blinded medical-education expert using the identical rubric. Low per-dimension ICC "reflects a ceiling effect rather than rater disagreement."
+
+> "AI and expert ratings were closely aligned in magnitude (mean totals 79.1 vs 78.5) and were positively correlated at the total-score level (r=0.61; ICC=0.51)."
+-->
+
 ## Discussion
+
 
 
 ## Related Claims
@@ -58,3 +75,4 @@ Validation rescoring of a stratified subset of 40 dialogues spanning all 8 agent
 - [Expert tutors' lesson-planning and practice-design leaderboards separated AI models, and expert-rated practice design correlated with fewer student answer disputes](expert-leaderboards-separate-ai-tutors.md) — related
 - [Students agreed that Learning Analytics SRL rubric scores represented their approach to learning well](students-agree-rubric-scores-represent-approach-to-learning.md) — related
 - [LLM-generated total scores showed moderate agreement with faculty ratings of VSP history-taking performance (ICC(2,1)=0.51)](llm-vsp-scoring-moderate-agreement-faculty.md) — related
+- [Automated formative scores showed strong rank-order agreement with blinded expert ratings for participation, reflection, and reasoning dimensions](maple-cr-formative-expert-convergence.md) — related

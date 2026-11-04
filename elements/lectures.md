@@ -14,7 +14,7 @@ generated:
 # Lectures
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (10 for, 5 mixed, 4 against) · 31 studies (10 causal, 9 review, 7 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 6 of 31 report an effect size · 13 claims rest on one study
+> **Evidence** · 20 claims (10 for, 6 mixed, 4 against) · 32 studies (10 causal, 9 review, 7 quant-synthesis, 3 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 6 of 32 report an effect size · 14 claims rest on one study
 
 ## Description
 A lecture is an instructor-led presentation that delivers content in a structured, sequenced format to a group of learners. It functions as an efficient means of transmitting foundational knowledge — explaining concepts, modeling reasoning, and organizing material — but its effectiveness depends on how attention is managed and how actively learners process the presented content.
@@ -82,6 +82,7 @@ Lectures can efficiently build foundational knowledge when content is well-organ
 - [Lecturer-generated summaries spliced into online video lectures improve student recall of lecture content on quizzes](../claims/lecturer-generated-summaries-improve-video-recall.md) [+W]
 - [A one-hour presentation intervention shifts first-year university students toward a more incremental theory of intelligence in the short term](../claims/one-hour-intervention-shifts-incremental-theory-short-term.md) [+W] — attached 2026-11-03 from Skipper (2015), which proposed "One-hour brain plasticity presentation intervention with memory-based control".
 - [Only 25% of students were actively attentive for most of instruction](../claims/low-active-attention-novice-lessons.md) [-W]
+- [Students most frequently reported attending lectures for examination preparation and easier understanding, whereas staff emphasized structured presentation and classroom discussions](../claims/students-attend-lectures-exam-preparation-staff-structured-presentation.md) [~W]
 
 ## The evidence by question
 - *Does replacing part of lecture with active learning raise exam scores and pass rates?* [Active Learning Improves Exam Performance](../claims/active-learning-improves-exam-performance.md) [+S]

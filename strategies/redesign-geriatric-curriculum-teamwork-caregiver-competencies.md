@@ -49,6 +49,7 @@ Based on the identified underrepresentation of interdisciplinary teamwork and pa
 - [Co-develop a dementia care competency framework with persons living with dementia, care partners and health professionals](codevelop-dementia-competency-framework-stakeholders.md)
 - [Integrate family-centered and empathic care into delirium education](family-centered-delirium-education.md)
 - [Develop targeted, competency-based interprofessional continuing education programs and European frameworks for geriatric care](targeted-competency-based-geriatric-cpd-strategy.md)
+- [Use simulations, dedicated clinical time, and interprofessional education to teach family caregiver collaboration](family-caregiver-simulation-clinical-iep-strategies.md)
 
 ## Examples
 -

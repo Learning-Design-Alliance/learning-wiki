@@ -46,6 +46,8 @@ The article recommends expanding preclinical simulation exercises, diversifying 
 
 - [Integrate ECE into dental curricula through hybrid models balancing simulation and real patient contact](hybrid-ece-curriculum-integration-strategy.md)
 - [Provide both digital 3D and physical learning modalities to accommodate diverse student preferences](provide-both-digital-and-physical-modalities.md)
+- [Expand simulation-based teaching to additional physiology practicals and organ systems](expand-simulation-across-physiology-curriculum.md)
+- [Use predefined progression criteria and staged supervised practice to standardize training in invasive dental procedures](predefined-progression-criteria-staged-supervised-practice.md)
 
 ## Examples
 -

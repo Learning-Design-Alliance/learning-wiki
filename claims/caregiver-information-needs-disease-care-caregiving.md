@@ -50,3 +50,4 @@ Review synthesis of caregiver information preferences reporting that "the partic
 - [Caregivers with low confidence in their own health are more likely to seek health information online](low-health-confidence-increases-information-seeking.md) — related
 - [Knowledge and self-efficacy in COVID-19 caregiving increased after a self-learning software intervention](self-learning-software-increased-covid-caregiving-knowledge.md) — related
 - [Informal caregivers tend to seek more health information on the internet than non-caregivers](caregivers-seek-more-health-information-than-non-caregivers.md) — related
+- [The CARE Act, enacted in 44 U.S. states, mandates hospitals record, notify, and educate designated family caregivers](care-act-44-states-caregiver-mandates.md) — related

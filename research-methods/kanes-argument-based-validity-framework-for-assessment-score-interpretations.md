@@ -26,7 +26,8 @@ The article applies Messick construct-validity framework and Kane's argument-bas
 - [Frontier LLMs achieve near-ceiling accuracy on all four 2026 Spanish specialty-access examinations, with the strongest configuration at 94.8% pooled accuracy](../claims/frontier-llm-near-ceiling-accuracy-spanish-specialty-exams.md) [~M]
 
 ## Related Research Methods
--
+
+- [Messick's unified validity framework for assessment](messicks-unified-validity-framework-for-assessment.md)
 
 ## Key Sources
 - Clemente García-Hidalgo, Manuel Carpio-Salmerón, Pau Benito, Carlos Carazo-Casas, Beatriz Carratalá, Jaime Campos Pavón. (2026). Construct Validity of Frontier Large Language Models on 4 Spanish Health Professions Specialty-Access Examinations (MIR, EIR, PIR, and FIR): Cross-Sectional Benchmarking and Psychometric Study. JMIR Medical Education. https://doi.org/10.2196/106199

@@ -51,3 +51,4 @@ Random-effects pooling of five studies on preceptor support; the printed effect 
 - [Instructor supervision during procedures is associated with higher clinical practice competency (AOR = 2.97)](instructor-following-procedure-associated-competency-ethiopia.md) — related
 - [The pooled proportion of clinical practice competency among midwifery and nursing students in Ethiopia is 39.02%](pooled-competency-39-percent-ethiopia-nursing-midwifery.md) — related
 - [Successful e-learning students were characterised by technology competence, high motivation and open attitudes, while preceptors guided, supported and gave feedback](elearning-learner-preceptor-characteristics.md) — related
+- [Preceptor shortages leave pharmacy students on wards without supervision or feedback](preceptor-shortages-unsupervised-wards.md) — a narrower finding that bears on this claim

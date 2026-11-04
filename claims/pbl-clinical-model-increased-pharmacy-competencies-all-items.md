@@ -49,3 +49,4 @@ One-group pretest-posttest quasi-experiment with 36 fifth-year pharmacy students
 - [Students reported high-to-highest satisfaction with the clinical PBL model, with the facilitator role of the teacher rated highest](high-satisfaction-clinical-pbl-pharmacy-facilitator-role.md) — possibly the same claim (merge candidate)
 - [In an RCT, pharmacy students taught with PBL rated their own problem-solving and self-directed learning significantly higher on a questionnaire than LBL students did](pbl-rct-higher-problem-solving-self-directed-learning.md) — related
 - [CBL significantly enhances communication and collaboration skills compared with LBL (RR = 2.49)](cbl-enhances-communication-collaboration-skills.md) — related
+- [Pharmacy students report clinical rotations limited to one day per week with minimal patient interaction](limited-clinical-exposure-pharmacy-uganda.md) — related

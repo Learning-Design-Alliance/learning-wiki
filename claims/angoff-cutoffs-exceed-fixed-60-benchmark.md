@@ -51,3 +51,4 @@ The review reports from Yousef et al.'s retrospective studies of Saudi dental MC
 - [Contextual factors (learner level, discipline, format) moderate Angoff outcomes](angoff-contextual-moderators.md) — related
 - [Angoff methods produce significantly higher pass rates than conventional fixed standard-setting methods](angoff-higher-pass-rates-than-fixed.md) — related
 - [Mastery Angoff produces the highest cut scores and lowest pass rates among Angoff variants](mastery-angoff-highest-cut-scores.md) — related
+- [Analytics-informed bespoke interventions among the bottom 50 students increased semester performance by 20%, improved summative exam marks by 5%, and reduced exam failure rate by 41% without inflating whole-cohort attainment.](tbl-analytics-bespoke-intervention-improves-performance.md) — related

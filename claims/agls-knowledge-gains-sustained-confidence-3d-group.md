@@ -55,3 +55,4 @@ The review's Table 2 summarizes an empirical study by Lisk et al. evaluating the
 - [Head-mounted display interventions improve anatomy recognition, spatial orientation, and learner confidence versus conventional instruction](hmd-improves-spatial-understanding-and-confidence.md) — related
 - [3D printed foot models produced similar anxiety and confidence changes to standard teaching and increased self-confidence and task self-efficacy in scalpel skill practice](3d-printed-foot-models-scalpel-skills.md) — related
 - [Self-reported confidence in knowledge increased in both groups after dramatization](dramatization-increases-student-confidence.md) — related
+- [A 3D printing-assisted family-school-hospital collaborative education model was associated with larger gains in medical interns' knowledge of urinary system tumor early screening than traditional teaching, in a non-randomised comparison](fsph-3d-model-improves-tumor-screening-knowledge.md) — related

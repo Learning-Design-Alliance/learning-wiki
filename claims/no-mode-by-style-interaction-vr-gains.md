@@ -59,3 +59,4 @@ A 3 by 2 two-way ANCOVA of gain score by learning mode and learning style with p
 - [The included studies did not test the learning-style-by-instructional-method interaction, so the achievement gains cannot be attributed to matching instruction to styles](learning-styles-studies-lack-style-method-interaction-test.md) — a broader claim this one bears on
 - [The interactive group scored higher on categorical interactivity but lower on perceived effective score than the general group](categorical-higher-effective-lower-interactive-group.md) — related
 - [The interaction between learning model and learning style on emotional intelligence is not significant](model-by-learning-style-interaction-not-significant.md) — possibly the same claim (merge candidate)
+- [Significant main effect of examination topic on learning outcomes, with no significant mode × topic interaction](topic-effect-no-mode-topic-interaction-anatomy.md) — related

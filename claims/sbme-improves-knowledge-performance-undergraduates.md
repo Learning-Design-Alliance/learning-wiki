@@ -48,3 +48,4 @@ Narrative systematic review per PRISMA of Ovid MEDLINE, EMBASE and PubMed (2010�
 - [DP-informed simulation-based surgical training is associated with improved psychomotor skill acquisition in laparoscopic surgery](dp-informed-sbst-improves-laparoscopic-psychomotor-skills.md) — related
 - [Most learner-facing studies of technology-enhanced simulation in laparoscopic training report favorable learner responses, mainly confidence, satisfaction, perceived safety and self-efficacy](simulation-laparoscopic-favorable-perceptions.md) — related
 - [SBME improves knowledge retention in medical students, with retention demonstrated at delayed testing in three studies](sbme-improves-knowledge-retention.md) — a narrower finding that bears on this claim
+- [Residents reported high satisfaction with simulation-based learning, with 100% finding it useful and 70% perceiving psychomotor improvement](resident-satisfaction-vascular-simulation.md) — related

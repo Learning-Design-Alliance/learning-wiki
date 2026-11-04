@@ -52,3 +52,4 @@ Multiple regression on the 523-child sample: videogame genres by scenario relate
 - [Casual games yield social and emotional benefits when sought for those purposes, played mindfully, and used within robust social contexts, but negative effects in other contexts](casual-games-social-emotional-benefits-context-dependent.md) — related
 - [Girls' social problem-solving scores exceed boys' overall and in the Turkish sample but not in the British sample](girls-higher-spsic-turkish-not-british.md) — related
 - [Switching from strategy building to puzzle solving overcame the implementation impasse](puzzle-solving-overcame-implementation-impasse.md) — related
+- [Regression analysis shows puzzle application significantly predicts knowledge and motivation scores](regression-puzzle-application-predictors.md) — related

@@ -54,3 +54,4 @@ LLM-as-a-judge evaluation of 120 learning activities across four Gemini models a
 - [Judge and crowd broadly agree on which criteria matter, but the judge's near-identical top scores make its ranking of strong systems essentially random](judge-crowd-agree-on-criteria-but-scores-separate-nothing.md) — related
 - [The three system architectures differ sharply in computational cost, with MAS-CMD trading the highest rubric scores for the greatest latency and token usage](quality-efficiency-tradeoff-mas-architectures.md) — related
 - [Teaching primarily helps the student agent realize existing potential rather than raise its absolute performance ceiling](teaching-narrow-pass-gap-not-ceiling.md) — related
+- [LLM evaluators converged on agent rankings but differed markedly in leniency and discrimination](llm-evaluators-leniency-ceiling-effects.md) — related

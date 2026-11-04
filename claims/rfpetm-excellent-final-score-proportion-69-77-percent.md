@@ -48,3 +48,4 @@ Distribution analysis of final scores across five evaluation levels for both gro
 - [Classroom performance scores correlated with final scores in the RFPETM group (R2 = 0.6823, P < .01) but not in the TPETM group](classroom-performance-final-score-correlation-rfpetm-only.md) — related
 - [RFPETM students scored significantly higher than TPETM students on online, midterm, experimental report, final, and composite pharmacology experimental course scores](rfpetm-higher-qelp-scores-than-tpetm.md) — related
 - [Over 80% of RFPETM students gave positive evaluations of the model's teaching methods, learning experiences, and cultivation of innovative abilities](rfpetm-positive-student-evaluations-over-80-percent.md) — related
+- [80% of the VR group achieved excellent final scores (≥270 points) compared to 10% of the control group](vr-excellent-competency-proportion.md) — related

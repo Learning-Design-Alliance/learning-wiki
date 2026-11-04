@@ -48,3 +48,4 @@ The review's synthesis of task design reports that "Stepwise task progression wa
 - [DP-informed simulation-based surgical training is associated with improved psychomotor skill acquisition in laparoscopic surgery](dp-informed-sbst-improves-laparoscopic-psychomotor-skills.md) — related
 - [Control groups in DP-informed SBST studies also improved but reached performance plateaus earlier and at lower competency levels](dp-sbst-control-groups-plateau-earlier-lower.md) — related
 - [Only a minority of included SBST programs tailored training to pre-existing skill levels or explicitly assessed learner motivation](dp-sbst-tailoring-and-motivation-rarely-assessed.md) — related
+- [The microskill stepwise progression model reduces variability in assessed procedural competence compared with traditional apprenticeship-based teaching.](microskill-stepwise-progression-reduces-score-variability.md) — related

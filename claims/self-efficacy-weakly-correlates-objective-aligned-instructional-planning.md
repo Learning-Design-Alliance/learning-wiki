@@ -58,3 +58,4 @@ Pearson product-moment correlation analysis of STEBI and TSMTDF scores from 101 
 - [AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers](ai-tpack-predicts-science-teaching-self-efficacy.md) — related
 - [Students' perceptions of motivationally supportive instruction were associated with higher positive motivational beliefs](m-plans-student-perceptions-linked-to-motivation.md) — related
 - [Teacher efficacy underpins the ability to differentiate instruction effectively, with efficacy dependent on pedagogical content knowledge](teacher-efficacy-pck-underpin-differentiation.md) — a broader claim this one bears on
+- [Perceived educational value and anticipation of anaphylaxis correlate weakly but significantly with objective VR performance](perceived-value-anticipation-correlate-performance.md) — a narrower finding that bears on this claim

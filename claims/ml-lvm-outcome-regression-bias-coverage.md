@@ -49,3 +49,4 @@ Simulation study 3 simulated three outcome variables each strongly predicted by 
 - [The ML-LVM provides more accurate individual-level estimates of judgment accuracy components than the person-score (PS) two-step method](ml-lvm-more-accurate-individual-level-estimates.md) — related
 - [The PS method shows systematic overestimation of the differentiation component that exceeds the 10% bias threshold in small and medium level-1 samples](ps-method-differentiation-overestimation.md) — related
 - Unilevel OLS regression and four-level multilevel analysis of the same content analysis data yield differing p-values, especially for parameters that are not highly significant. — related
+- [Self-organization weakly but consistently predicts learning outcomes across both instructional modes](self-organization-weak-consistent-predictor.md) — related

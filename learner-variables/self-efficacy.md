@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 252 claims (187 show a difference, 36 mixed, 29 no difference) · 204 studies (65 causal, 61 associational, 32 review, 19 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 43 of 204 report an effect size · 248 claims rest on one study
+> **Evidence** · 254 claims (189 show a difference, 36 mixed, 29 no difference) · 206 studies (67 causal, 61 associational, 32 review, 19 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 44 of 206 report an effect size · 250 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -283,6 +283,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [In the combined nursing sample, academic performance correlated moderately with self-efficacy, and attitudes correlated moderately with self-efficacy, while academic performance and attitudes were not significantly associated.](../claims/el-outcome-intercorrelations-nursing-sample.md) [+M] — learners who differ on it differ in outcomes
 - [Objective knowledge and self-perceived clinical confidence show a weak negative correlation (r = -0.201) among dental interns](../claims/negative-knowledge-confidence-correlation-veneers.md) [+M] — learners who differ on it differ in outcomes
 - [Perceived climate for innovation negatively moderates the creative self-efficacy–clinical competence association, weakening it as climate improves](../claims/innovation-climate-negative-moderation-cse-competence.md) [~W] — learners who differ on it differ in outcomes
+- [A renal biopsy simulation workshop significantly increased fifth-year medical students' self-perceived ability to perform renal biopsy](../claims/renal-biopsy-simulation-workshop-increased-student-confidence.md) [+M] — measured as an outcome of the instruction studied
+- [The microskill stepwise progression model is associated with higher self-reported perceived competence in specific procedural skills after FDR correction.](../claims/microskill-stepwise-progression-higher-perceived-competence-items.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

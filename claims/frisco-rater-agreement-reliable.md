@@ -90,3 +90,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [Essay scoring showed acceptable inter-rater reliability at both pretest and posttest](writing-scale-inter-rater-reliability.md) — related
 - [Essay scoring showed substantial inter-rater agreement, with Cohen's kappa of 0.78, 0.70, 0.81, and 0.83 across the four rubric criteria](statecraft-x-essay-kappa-agreement.md) — related
 - [Posttest scoring by three judges showed high inter-judge reliability across all four poster dimensions](posttest-judge-reliability-kendall-w.md) — related
+- [CAR 1.0 achieved good to excellent inter-rater reliability across all five key components (α = 0.836 to 0.973)](car-1-0-cronbach-alpha-reliability.md) — related

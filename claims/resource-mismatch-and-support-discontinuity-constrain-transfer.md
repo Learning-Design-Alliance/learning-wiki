@@ -98,3 +98,6 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [The report hypothesizes transfer incentives affect achievement through team performance, collaboration, and resource reallocation pathways](tti-logic-model-pathways.md) — related
 - [Workload was the number one challenge to effective teaching identified by faculty (341 comments).](workload-top-faculty-teaching-challenge.md) — related
 - [Teachers experienced a responsibility-capacity paradox: they view emotional support as core to their role yet feel structurally limited by workload, low mental health literacy and lack of training](responsibility-capacity-paradox-teachers.md) — related
+- [Diet and nutrition education within dental and dental hygiene schools is often fragmented and incomplete](diet-nutrition-education-fragmented-incomplete.md) — a narrower finding that bears on this claim
+- [Patient-related, technical and organisational challenges hindered clinical LUS integration](lus-integration-challenges-ed.md) — related
+- [Most SMA training resources target researchers and physicians rather than hands-on assessment training for allied health professionals, and mentorship opportunities are lacking](sma-training-targets-physicians-not-allied-health.md) — related

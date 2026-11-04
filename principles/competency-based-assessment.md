@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (13 for, 34 mixed, 2 against) · 49 studies (11 review, 10 causal, 9 design, 9 theoretical, 6 associational, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 49 report an effect size · 44 claims rest on one study
+> **Evidence** · 50 claims (14 for, 34 mixed, 2 against) · 50 studies (11 review, 10 causal, 9 design, 9 theoretical, 7 associational, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 50 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -117,6 +117,7 @@ Re-read 2026-10-15: eleven of the claims listed here were worked into the model 
 - [Written knowledge tests, OSCEs and situational judgement tests all show predictive validity for later clinical performance](../claims/assessments-predictive-validity-later-clinical-performance.md) [+W] — attached 2026-10-31 from McLachlan JC et al. (2025), which proposed "Commission research on the predictive validity of prescribing competence assessments"; tests this page's relationship.
 - [Twenty of 34 tools assessed the two highest Miller levels ('shows how' and 'does'), with team work, risk management and communication the most assessed skills](../claims/most-tools-target-higher-miller-levels.md) [+W] — attached 2026-11-01 from Okuyama Ayako et al. (2011), which proposed "Adapt context-specific assessment tools to each discipline rather than copying them across working environments".
 - [Most catalog competencies were classified as perform independently (n=274), followed by perform under supervision (n=55) and master the technique (n=34)](../claims/competence-level-distribution-perform-independently-dominant.md) [~W] — attached 2026-11-04 from Nogueira Rodrigo de Melo et al. (2026), which proposed "Define both competencies and expected performance levels to support competency-based curriculum development and assessment".
+- [Higher OSATS scores on video-assessed robotic gastroenterostomy predict a lower rate of grade B/C delayed gastric emptying after robotic pancreatoduodenectomy](../claims/osats-rge-score-predicts-grade-bc-dge.md) [+W] — attached 2026-11-04 from Video Assessment of Surgical Performance in Robotic Gastroenterostomy During Pancreatoduod, which proposed "OSATS video assessment can serve as a tool for competency-based training programs and quality-controlled implementation of robotic pancreatoduodenectomy".
 
 ## Objective and learner-valued goal
 

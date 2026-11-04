@@ -49,3 +49,4 @@ In the discussion of this scoping review of 22 included articles, the authors st
 - [No studies have assessed the dementia care knowledge, confidence and experience of graduate nurses caring for people living with dementia](no-studies-assess-graduate-nurse-dementia-knowledge.md) — related
 - [Interdisciplinary teamwork and patient/caregiver needs are significantly underrepresented in geriatric core competencies](geriatric-competencies-underrepresent-teamwork-caregiver-needs.md) — related
 - [Dementia care training improved graduate nurses' knowledge and confidence in caring for people living with dementia](dementia-training-improved-graduate-nurse-knowledge-confidence.md) — related
+- [Cross-cultural sensitivity, highlighted in the literature for physician leadership, was notably absent from participants' competency perceptions](cross-cultural-sensitivity-absent-from-middle-manager-competency-perceptions.md) — related

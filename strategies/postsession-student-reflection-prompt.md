@@ -41,6 +41,7 @@ The authors recommend that online tutoring sessions conclude with a prompt for s
 
 - [Provoke learners' awareness of their knowledge gap and prompt frequent knowledge-level evaluation to target the intermediate gap](provoke-knowledge-gap-awareness-intermediate-gap.md)
 - [Design activities that make students' AI-supported learning processes visible through reflection prompts and process documentation](process-documentation-ai-learning-visibility.md)
+- [Pair AI-supported PBL sessions with brief learner orientation and a short postsession debrief](brief-orientation-and-debrief-for-ai-pbl.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Pre-test ANOVA across the Computer (n=43), Manipulatives (n=36), and Traditional
 - [In the construction section, DGS and manipulatives instruction were equally effective and both significantly outperformed traditional instruction](construction-dgs-equals-manipulatives-beat-traditional.md) — related
 - [U-learning and E-learning groups were statistically equivalent at pretest before the intervention](pretest-equivalence-u-e-groups.md) — related
 - [Experimental and control groups were statistically equivalent on solid geometry achievement before treatment](pretest-equivalence-solid-geometry-groups.md) — related
+- [Baseline positioning performance was equivalent across all three groups and indicated a need for change](baseline-equivalent-need-for-change.md) — related

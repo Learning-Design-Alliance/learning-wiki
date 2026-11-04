@@ -69,3 +69,4 @@ The review reports, citing Kirollos and Merchant (2023), evidence that cybersick
 - [Higher-visuospatial-ability learners experienced lower motion sickness in Desktop-VR, with a tendency for an interaction with format](vsa-motion-sickness-desktop-vr.md) — related
 - [Immersion in the virtual classroom did not induce unwanted negative side effects (cybersickness)](vr-immersion-no-cybersickness.md) — related
 - Only a minority of included trials used AR or mixed reality; roughly 88% evaluated purely VR simulations — related
+- [Reported barriers to the VR session include headset ergonomics and occasional motion sickness](vr-barriers-headset-ergonomics-motion-sickness.md) — related

@@ -49,3 +49,4 @@ Pre/post survey administration by teachers across the five terms (217 responses 
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Post-session survey responses indicated students found the session relevant and worthwhile, valuing database search skills and citation management software](post-session-survey-perceptions-positive.md) — related
 - [Most integrated-course participants reported the format maximized learning time, inspired interest, enhanced understanding of key concepts, and allotted theory-practice time appropriately](integrated-histology-student-feedback.md) — related
+- [VR-cohort students reported high self-reported understanding, positive format evaluations, and willingness to participate again](vr-students-report-high-understanding-and-willingness.md) — related

@@ -50,3 +50,4 @@ Satisfaction survey using a 4-point Likert scale (neutral midpoint intentionally
 - [Students report satisfaction with simulation-based maternity sessions, agreeing simulation assisted understanding of clinical practice and should precede real practice](satisfaction-simulation-maternity-sessions.md) — related
 - [Students and teachers expressed predominantly positive opinions about the guides and activities, with time pressure the main teacher criticism](positive-student-teacher-opinions-design.md) — related
 - [Participants raised three concerns about the PCR class: low confidence to use learned expressions in real communication, insufficient grammar development, and doubts about roleplay tests](pcr-participant-concerns-three-aspects.md) — related
+- [Students expressed interest in broader use of simulation across physiology practicals](student-demand-for-broader-simulation-use.md) — related

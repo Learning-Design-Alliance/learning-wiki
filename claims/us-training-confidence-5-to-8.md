@@ -49,3 +49,4 @@ Wilcoxon signed-rank comparison of pre- and post-training questionnaire ratings 
 - [All five questionnaire domains improved significantly after training, with large effect sizes (r = 0.67–0.81)](us-training-all-questionnaire-domains-improved.md) — related
 - [Willingness to attempt US-guided cannulation before calling for help increased from 7.5 to 10 after training](us-training-willingness-7-5-to-10.md) — related
 - [Mastery learning is feasible for USG-PVC training without extra time, and overtraining beyond mastery criteria does not improve performance](mastery-learning-feasible-usg-pvc-no-extra-time.md) — related
+- [A renal biopsy simulation workshop significantly increased fifth-year medical students' self-perceived ability to perform renal biopsy](renal-biopsy-simulation-workshop-increased-student-confidence.md) — related
