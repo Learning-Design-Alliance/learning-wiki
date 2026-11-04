@@ -45,7 +45,7 @@ A post-hoc qualitative review of student prompts and AI responses, conducted by 
 
 
 ## Related Claims
-- [AI chatbot access is associated with improved diagnostic accuracy in pre-clerkship medical students](ai-access-improves-diagnostic-accuracy-preclerkship.md) — related
+- [Among pre-clerkship medical students, diagnostic accuracy scores rose for some, fell for others, and did not change for others from before to after AI chatbot access in a single-group pre-post study](ai-access-improves-diagnostic-accuracy-preclerkship.md) — related
 - [AI responses do not consistently identify missing clinical information in incomplete student prompts](ai-does-not-identify-missing-prompt-information.md) — related
 - [Students do not reliably distinguish beneficial from detrimental AI influence on their diagnostic accuracy](students-cannot-distinguish-beneficial-detrimental-ai-influence.md) — related
 - [AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved](ai-performance-metacognition-dissociation.md) — a broader claim this one bears on

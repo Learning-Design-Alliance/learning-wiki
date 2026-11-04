@@ -23,7 +23,7 @@ SNAPPS is a six-step learner-centred clinical-teaching framework developed for o
 
 ### Claims
 - [SNAPPS checklist scores improved for all six components, with self-directed learning lowest (median 1 to 2)](../claims/snapps-checklist-scores-improved-all-components.md) [+M]
-- [SNAPPS-based case presentation improves post-test MCQ scores across all three pathology residency years](../claims/snapps-improves-mcq-scores-pathology-residents.md) [+M]
+- [Post-test MCQ scores rose from pre-test to post-test across all three pathology residency years in one single-group pre-post study of SNAPPS-based case presentation](../claims/snapps-improves-mcq-scores-pathology-residents.md) [+M]
 
 ## Related Products and Programmes
 -

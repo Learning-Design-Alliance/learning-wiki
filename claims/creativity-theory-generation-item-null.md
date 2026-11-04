@@ -45,5 +45,5 @@ Exploratory unadjusted item-level paired comparison within the same 60-nurse pil
 
 
 ## Related Claims
-- [Participation in a BOPPPS-PBL nursing innovation course is associated with higher post-course creativity scores among newly recruited nurses](boppps-pbl-course-creativity-increase.md) — related
+- [Among newly recruited nurses, creativity scores rose from before to after a BOPPPS-PBL nursing innovation course in one uncontrolled pre-post study](boppps-pbl-course-creativity-increase.md) — related
 - [Students assigned the summariser role post messages reflecting a significantly higher level of knowledge construction than students without roles, while starter, moderator, theoretician, and source searcher roles do not differ significantly.](summariser-role-higher-knowledge-construction.md) — related

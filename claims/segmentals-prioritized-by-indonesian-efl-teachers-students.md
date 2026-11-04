@@ -45,7 +45,7 @@ The article cites its author's prior survey (Moedjito, 2008) as background motiv
 
 
 ## Related Claims
-- [Common serious mispronunciations of Indonesian learners stem from absent L1 phonemes and different sound categorisation in the L1](l1-absence-and-categorization-cause-mispronunciations.md) — related
-- [QDPR significantly improved Indonesian EFL learners' ability to pronounce the target English phonemes](qdpr-improved-pronunciation-ability.md) — related
-- [QDPR significantly improved Indonesian EFL learners' knowledge of the target English phonemes in a one-group pretest-posttest study](qdpr-improved-phoneme-knowledge.md) — related
+- [Common serious mispronunciations of Indonesian learners were reported alongside absent L1 phonemes and different sound categorisation in the L1](l1-absence-and-categorization-cause-mispronunciations.md) — related
+- [Indonesian EFL learners' ability to pronounce the target English phonemes rose significantly from pretest to posttest in a single-group pretest-posttest study of QDPR](qdpr-improved-pronunciation-ability.md) — related
+- [Indonesian EFL learners' knowledge of the target English phonemes rose significantly from pretest to posttest after QDPR, in one uncontrolled pretest-posttest study](qdpr-improved-phoneme-knowledge.md) — related
 - [CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development](capt-strong-segmentals-weak-prosody.md) — related

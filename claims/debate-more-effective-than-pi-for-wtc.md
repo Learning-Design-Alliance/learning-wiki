@@ -45,7 +45,7 @@ Independent samples t-test comparing post-test WTC of Group A (Debate, 67.16) an
 
 
 ## Related Claims
-- [Both Debate instruction and Philosophy Inquiry discussion significantly increased ESL learners' Willingness to Communicate over a semester](debate-and-pi-increase-esl-wtc.md) — related
+- [ESL learners' self-reported Willingness to Communicate scores rose from pre-test to post-test within the Debate and Philosophy Inquiry groups over a semester](debate-and-pi-increase-esl-wtc.md) — related
 - [The Debate group showed a larger descriptive gain in Self-Perceived Communicative Competence than the PI group](debate-larger-communicative-competence-gain.md) — related
 - [The Debate and PI groups did not differ significantly in WTC at pre-test](no-pretest-wtc-group-difference.md) — related
 - [Communicative Apprehension increased slightly more in the Debate group than in the PI group](debate-slightly-more-apprehension.md) — related

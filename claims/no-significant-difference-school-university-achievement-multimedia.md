@@ -45,7 +45,7 @@ The discussion section states "there existed no significance difference in the a
 
 
 ## Related Claims
-- [ANOVA across the total sample favoured post-intervention outcomes of the multimedia programme](anova-favours-post-intervention-multimedia-environmental-outcomes.md) — related
+- [Outcomes across the total sample rose from pre-test to post-test after the multimedia programme, in one pre-post study without a comparison group](anova-favours-post-intervention-multimedia-environmental-outcomes.md) — related
 - [Secondary school students' environmental sustainability achievement scores rose significantly after the multimedia programme](multimedia-raises-school-students-environmental-sustainability-scores.md) — related
 - [University students' environmental sustainability achievement scores rose significantly after the multimedia programme](multimedia-raises-university-students-environmental-sustainability-scores.md) — related
 - [Scheff multiple comparisons showed every post-programme mean significantly exceeded its pre-programme mean](scheff-post-means-exceed-pre-means-multimedia-programme.md) — related

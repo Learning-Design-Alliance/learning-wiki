@@ -52,4 +52,4 @@ Parallel-group randomized controlled study over five fall semesters (2020–2024
 - [Within-group knowledge gains from pre-test to post-test are statistically significant in both the intervention and control groups](within-group-knowledge-gains-both-groups-immunohematology.md) — related
 - [Adding simulation to online patient-safety training improved nursing students' patient safety competency, but adding classroom teaching to clinical simulation did not further improve teamwork attitudes](blended-simulation-versus-simulation-alone-mixed.md) — related
 - [Patient-in-classroom teaching was rated higher in overall teaching quality than traditional lectures, with a large effect size](patient-in-classroom-higher-teaching-quality.md) — related
-- [Students report QR-code-linked demonstration videos improve comprehension and confidence in OSPE techniques](students-report-videos-improve-ospe-comprehension.md) — related
+- [Students reported greater comprehension and confidence in OSPE techniques after using QR-code-linked demonstration videos](students-report-videos-improve-ospe-comprehension.md) — related

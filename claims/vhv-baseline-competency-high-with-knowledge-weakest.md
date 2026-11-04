@@ -45,5 +45,5 @@ Descriptive survey of 416 VHVs across all 16 districts using multi-stage stratif
 
 
 ## Related Claims
-- [SMART VHV Plus Model training was associated with a statistically significant competency gain from 86.14% to 98.16% (Cohen's d = 1.96)](smart-vhv-plus-model-significant-competency-gain.md) — related
+- [Competency scores rose significantly from 86.14% to 98.16% after SMART VHV Plus Model training, in one uncontrolled pre-post study (Cohen's d = 1.96)](smart-vhv-plus-model-significant-competency-gain.md) — related
 - [No statistically significant associations between overall VHV competency classification and any demographic or occupational variable examined](vhv-competency-not-differentiated-by-demographics.md) — related

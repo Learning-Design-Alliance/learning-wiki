@@ -54,7 +54,7 @@ Discussion-section finding from an interview study of 10 Jordanian secondary-sch
 - [Some EFL students experience difficulties implementing metacognitive writing strategies and report needing more training time](metacognitive-strategy-implementation-difficulties-efl-writers.md) — related
 - [Factor 2 student teachers enacted balanced, intentional and ethical engagement with Cipherbot through self-directed strategies](f2-balanced-intentional-ethical-engagement.md) — related
 - [Factor 3 student teachers were uncritical users whose agency was almost completely subverted to the GenAI system](f3-uncritical-reliant-diminished-agency.md) — related
-- [Students developed self-regulation, gaining the ability to monitor problem-solving processes and correct irrelevant strategies, with self-evaluation enabling reflection on their actions](self-regulation-gains-from-self-evaluation-sections.md) — related
+- [Students' self-regulation abilities rose from pre-test to post-test after self-evaluation sections, including monitoring problem-solving processes, correcting irrelevant strategies and reflecting on actions, in one one-group study with no comparison group](self-regulation-gains-from-self-evaluation-sections.md) — related
 - [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](metacognitive-displacement-illusion-of-competence.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
 - [In the performance phase, AI tools helped learners organize tasks and supported metacognitive monitoring, but sometimes inaccurately reflected tasks and lacked in-depth responses](ai-performance-phase-benefits-and-drawbacks.md) — related

@@ -38,7 +38,7 @@ A practical alternative to dedicated media literacy courses: embed a small serie
 
 ## Claims
 
-- [Narrow media production lessons increase students' reported thinking about media literacy concepts in daily life](../claims/media-lessons-increase-everyday-concept-thinking.md) [+W]
+- [Students' self-reported thinking about media literacy concepts in daily life rose from pre-test to post-test after narrow media production lessons, in one uncontrolled pre-post study](../claims/media-lessons-increase-everyday-concept-thinking.md) [+W]
 - [The study's central hypothesis that narrow mediated-message-communication instruction leads to broader media literacy competencies was supported, with stated limits](../claims/narrow-instruction-supports-broader-competencies-hypothesis.md) [+W]
 - [Narrow media production lessons improve overall demonstrated media literacy knowledge, but gains concentrate in messages-and-meanings concepts](../claims/narrow-lessons-knowledge-gains-limited-scope.md) [+W]
 - [Narrowly focused media production lessons increase university students' perceived media literacy competencies across all four dimensions](../claims/narrow-media-lessons-increase-perceived-competencies.md) [+W]

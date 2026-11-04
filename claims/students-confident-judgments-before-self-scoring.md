@@ -49,7 +49,7 @@ Descriptive statistics from Table 1, from 564 primary school students in 34 clas
 ## Related Claims
 - [Primary school students show no awareness of their monitoring judgment accuracy before self-scoring in mathematics problem solving](primary-students-no-monitoring-accuracy-awareness.md) — related
 - [Self-scoring improved regulation accuracy awareness only for students whose regulation judgment accuracy increased or stayed maximally accurate](self-scoring-improves-regulation-awareness-conditionally.md) — related
-- [Self-scoring improves primary students' monitoring accuracy on math problem-solving tasks to near-accurate levels](self-scoring-improves-monitoring-accuracy-math.md) — related
+- [Primary students' monitoring accuracy on math problem-solving tasks rose from pre-test to post-test after self-scoring and was near accurate in one single-group pre-post study](self-scoring-improves-monitoring-accuracy-math.md) — related
 - [Metacognitive confidence judgments and control predict English vocabulary performance from the beginning to the end of the school year in primary school children](metacognition-predicts-l2-vocabulary-growth-primary-school.md) — related
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related
 - [The literature is mixed on age differences in the accuracy of retrospective confidence judgments during recognition memory tests, with older adults sometimes producing more high-confidence false alarms and poorer resolution with deceptive lures](mixed-age-differences-confidence-judgment-resolution.md) — related

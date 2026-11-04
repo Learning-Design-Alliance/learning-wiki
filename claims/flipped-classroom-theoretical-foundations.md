@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The flipped classroom rests on blended learning, student-centered learning, and active learning as theoretical foundations
-description: The flipped classroom rests on blended learning, student-centered learning, and active learning as theoretical foundations
+title: Ahmad (2016) identified blended learning, student-centered learning, and active learning as theoretical foundations of the flipped classroom
+description: Ahmad (2016) identified blended learning, student-centered learning, and active learning as theoretical foundations of the flipped classroom
 id: flipped-classroom-theoretical-foundations
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# The flipped classroom rests on blended learning, student-centered learning, and active learning as theoretical foundations
+# Ahmad (2016) identified blended learning, student-centered learning, and active learning as theoretical foundations of the flipped classroom
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
@@ -45,7 +45,7 @@ This is a literature-review claim from the article's theoretical foundations sec
 
 
 ## Related Claims
-- [The flipped classroom model improved Egyptian EFL students' listening comprehension in a one-group pre-posttest study](flipped-classroom-improves-efl-listening-comprehension.md) — related
+- [Egyptian EFL students' listening comprehension scores rose from pre-test to post-test in a one-group pre-posttest study of the flipped classroom model](flipped-classroom-improves-efl-listening-comprehension.md) — related
 - [Blended learning or flipped classroom models may combine e-learning and traditional modalities](blended-flipped-classroom-anaesthesia.md) — related
 - [Histology and pathology teaching methods in digital and blended environments have become more accessible, interactive, and student-centered than traditional instruction, with e-learning modules the most frequently used method](digital-histology-teaching-methods-more-student-centered.md) — related
 - [The review finds flipped learning, PBL, gamification, and collaborative learning adapted to digital environments produced positive effects on motivation, participation, and transversal competences](flipped-pbl-gamification-collaborative-digital-effects.md) — related

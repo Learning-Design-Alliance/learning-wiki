@@ -49,4 +49,4 @@ Intent-to-treat regressions (N = 87) controlling for school, age, sex, grade, an
 - [Initial EF and VS skill levels do not significantly moderate intervention effects on classroom behavior](no-moderation-by-initial-ef-vs-skills.md) — related
 - [Improvements in executive function mediate the intervention's effects on learning-related behaviors and problem behaviors](ef-improvement-mediates-classroom-behavior.md) — related
 - [Visuospatial skill improvement does not mediate intervention effects on classroom behavior](vs-improvement-does-not-mediate-behavior.md) — related
-- [Self-reported gatekeeper behaviors (identifying, approaching, and referring distressed student veterans) trended upward after training but did not reach statistical significance on the composite measure.](voc-training-gatekeeper-behavior-trend.md) — related
+- [Gatekeeper behaviors (identifying, approaching, and referring distressed student veterans) trended upward from before to after training, but did not reach statistical significance on the composite measure, in one uncontrolled pre-post study.](voc-training-gatekeeper-behavior-trend.md) — related

@@ -45,7 +45,7 @@ Based on their findings, the authors recommend that teachers form asymmetrical p
 - [Asymmetrical scaffolding produced higher EFL reading comprehension post-test scores than symmetrical scaffolding](../claims/asymmetrical-scaffolding-outperforms-symmetrical-reading-comprehension.md) [+W]
 - [Learners preferred pair work and more capable partners, consistent with Vygotsky rather than Piaget](../claims/learner-attitudes-prefer-capable-partners-pair-work.md) [+W]
 - [Pair interaction reportedly reduces anxiety and increases confidence and motivation](../claims/pair-interaction-reduces-anxiety-increases-motivation.md) [+W]
-- [Symmetrical scaffolding significantly improved EFL learners' reading comprehension scores](../claims/symmetrical-scaffolding-improves-reading-comprehension.md) [+W]
+- [EFL learners' reading comprehension scores rose significantly from pre-test to post-test after symmetrical scaffolding, in one uncontrolled pre-post study](../claims/symmetrical-scaffolding-improves-reading-comprehension.md) [+W]
 
 ## Related Strategies
 

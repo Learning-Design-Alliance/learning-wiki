@@ -49,5 +49,5 @@ Semi-structured interviews of 25-30 min with three students selected from pre-te
 - [Conceptual change about condensation after PDEODE teaching was retained at delayed post-test for most alternative conceptions, but not for SAC #4 and #6](pdeode-condensation-retention-delayed-posttest.md) — related
 - [A PDEODE teaching activity reduced first-year students' alternative conceptions about condensation from pre-test to post-test](pdeode-teaching-reduces-condensation-alternative-conceptions.md) — related
 - [Responses classified as sound understanding on open-ended condensation items rose after the intervention and were still above pre-test levels at delayed post-test](pdeode-sound-understanding-increase-open-ended-items.md) — related
-- [Post-instruction gains held across age subgroups (10 years and below vs above 10 years)](remedial-instruction-gains-by-age.md) — related
+- [Mathematical ability scores were higher after remedial instruction than before in both age subgroups (10 years and below vs above 10 years), in one single-group pre-post study](remedial-instruction-gains-by-age.md) — related
 - [Interviews show fire-context instruction eliminated alternative concepts among experiment group students](fire-context-interviews-eliminate-alternative-concepts.md) — related

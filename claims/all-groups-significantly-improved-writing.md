@@ -1,7 +1,7 @@
 ---
 type: claim
-title: All four software groups significantly improved writing scores over the 15-week semester
-description: All four software groups significantly improved writing scores over the 15-week semester
+title: All four software groups showed significant rises in writing scores from pretest to posttest over the 15-week semester in an uncontrolled pre-post study
+description: All four software groups showed significant rises in writing scores from pretest to posttest over the 15-week semester in an uncontrolled pre-post study
 id: all-groups-significantly-improved-writing
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# All four software groups significantly improved writing scores over the 15-week semester
+# All four software groups showed significant rises in writing scores from pretest to posttest over the 15-week semester in an uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` All four groups (RS, TMM, MEM, WOW) significantly improved writing scores from pretest to posttest. [→ Nicholes 2016](#nicholes-2016)
+`q2 i?` All four groups (RS, TMM, MEM, WOW) showed significant rises in writing scores from pretest to posttest in within-group pre-post comparisons. [→ Nicholes 2016](#nicholes-2016)
 
 ## Evidence
 

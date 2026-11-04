@@ -45,6 +45,6 @@ Independent-samples t-test comparing the two 20-learner experimental groups on t
 
 
 ## Related Claims
-- [Input Enhancement strategy improved the vocabulary knowledge of Iranian EFL learners over a three-month treatment](input-enhancement-improves-efl-vocabulary-knowledge.md) — related
+- [Input Enhancement group's vocabulary knowledge rose from pre-test to seen post-test over a three-month treatment in Iranian EFL learners (single-group pre-post study)](input-enhancement-improves-efl-vocabulary-knowledge.md) — related
 - [The Vocabulary Self-Selection group also outperformed the Input Enhancement group on the unseen posttest](vss-outperforms-input-enhancement-unseen-posttest.md) — related
 - [Both strategies produced gains in vocabulary knowledge over the course of the treatment](both-strategies-improved-vocabulary-knowledge.md) — a broader claim this one bears on

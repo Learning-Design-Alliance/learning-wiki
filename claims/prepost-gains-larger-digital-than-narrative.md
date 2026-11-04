@@ -69,5 +69,5 @@ Applied communication skills domain from the same pre-post questionnaire (n = 6)
 - [Oral Language](../learner-variables/oral-language.md) — outcome: measured as an outcome of the instruction studied
 
 ## Related Claims
-- [Students reported the lowest baseline confidence in digital innovation competencies, which showed the strongest subjective learning gains](lowest-baseline-strongest-gains-digital-competencies.md) — possibly the same claim (merge candidate)
+- [Students' confidence ratings in digital innovation competencies were lowest at pre-test and rose the most from pre-test to post-test in one group with no comparison group](lowest-baseline-strongest-gains-digital-competencies.md) — possibly the same claim (merge candidate)
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — a broader claim this one bears on

@@ -43,9 +43,9 @@ The article identifies teacher explanation in students' own language as the dist
 
 ## Claims
 
-- [Common serious mispronunciations of Indonesian learners stem from absent L1 phonemes and different sound categorisation in the L1](../claims/l1-absence-and-categorization-cause-mispronunciations.md) [+W]
-- [QDPR significantly improved Indonesian EFL learners' knowledge of the target English phonemes in a one-group pretest-posttest study](../claims/qdpr-improved-phoneme-knowledge.md) [+W]
-- [QDPR significantly improved Indonesian EFL learners' ability to pronounce the target English phonemes](../claims/qdpr-improved-pronunciation-ability.md) [+W]
+- [Common serious mispronunciations of Indonesian learners were reported alongside absent L1 phonemes and different sound categorisation in the L1](../claims/l1-absence-and-categorization-cause-mispronunciations.md) [+W]
+- [Indonesian EFL learners' knowledge of the target English phonemes rose significantly from pretest to posttest after QDPR, in one uncontrolled pretest-posttest study](../claims/qdpr-improved-phoneme-knowledge.md) [+W]
+- [Indonesian EFL learners' ability to pronounce the target English phonemes rose significantly from pretest to posttest in a single-group pretest-posttest study of QDPR](../claims/qdpr-improved-pronunciation-ability.md) [+W]
 - [QDPR accounted for 53% of variance in phoneme knowledge and 24% of variance in pronunciation ability in simple regressions](../claims/qdpr-regression-contributions-knowledge-ability.md) [+W]
 
 ## Related Strategies

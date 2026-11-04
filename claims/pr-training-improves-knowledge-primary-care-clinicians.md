@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A short pulmonary rehabilitation training program significantly improved knowledge scores in primary care physiotherapists and AEPs
-description: A short pulmonary rehabilitation training program significantly improved knowledge scores in primary care physiotherapists and AEPs
+title: Knowledge scores rose significantly from pre-training to post-training after a short pulmonary rehabilitation training program among primary care physiotherapists and AEPs, in a single-group pre-post study
+description: Knowledge scores rose significantly from pre-training to post-training after a short pulmonary rehabilitation training program among primary care physiotherapists and AEPs, in a single-group pre-post study
 id: pr-training-improves-knowledge-primary-care-clinicians
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# A short pulmonary rehabilitation training program significantly improved knowledge scores in primary care physiotherapists and AEPs
+# Knowledge scores rose significantly from pre-training to post-training after a short pulmonary rehabilitation training program among primary care physiotherapists and AEPs, in a single-group pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i3` Median knowledge scores increased from 7 (IQR 6,8) pre-training to 10 (IQR 9,11) post-training, a large effect (Hedges' g = 1.52, 95% CI 0.81 to 2.21). [→ Walsh Jessica A. 2026](#walsh-jessica-a-2026)
+`q2 i3` Median knowledge scores increased from 7 (IQR 6,8) pre-training to 10 (IQR 9,11) post-training (Hedges' g = 1.52, 95% CI 0.81 to 2.21). [→ Walsh Jessica A. 2026](#walsh-jessica-a-2026)
 
 ## Evidence
 
@@ -49,6 +49,6 @@ Single-arm pre-post study of 17 primary care clinicians (8 physiotherapists, 9 A
 - [Private practice clinicians report high willingness to pay for PR training when linked to funding rebates](pp-clinicians-willing-to-pay-pr-training-rebate.md) — related
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
-- [Spirometry was the lowest-rated domain at baseline and remained lowest after training despite improvement](spirometry-lowest-rated-domain-pr-training.md) — related
-- [Most participants met the 80% knowledge competency threshold and 94% met practical competencies only after training](pr-training-competency-threshold-attainment.md) — related
+- [Spirometry was the lowest-rated domain at baseline and remained lowest post-training; self-rated knowledge, skills, and confidence rose from baseline to post-training in one single-group pre-post study](spirometry-lowest-rated-domain-pr-training.md) — related
+- [The proportion of participants meeting the 80% knowledge competency threshold rose from 18% pre-training to 82% post-training, and 94% met practical competencies after training, in one uncontrolled pre-post study](pr-training-competency-threshold-attainment.md) — related
 - [Exercise capacity assessment, exercise prescription, and patient education showed the most clinically meaningful shifts](pr-training-largest-gains-core-delivery-competencies.md) — related

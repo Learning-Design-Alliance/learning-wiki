@@ -39,7 +39,7 @@ Based on the finding that internal psychological factors—especially resilience
 ## Claims
 
 - [Demographic and professional factors explain only 1.8% of variance in perceived competency, whereas internal psychological factors raise explained variance to 76.5%](../claims/psychological-factors-outperform-demographics-predicting-competency.md) [+W]
-- [Resilience in handover is the strongest predictor of perceived competency (β = 0.376) and correlates most strongly with it (r = 0.920)](../claims/resilience-strongest-predictor-of-handover-competency.md) [+W]
+- [In one single-group pre-test–post-test study with no comparison group, resilience in handover had the strongest observed association with self-rated perceived competency (β = 0.376) and the strongest correlation with it (r = 0.920)](../claims/resilience-strongest-predictor-of-handover-competency.md) [+W]
 
 ## Related Strategies
 

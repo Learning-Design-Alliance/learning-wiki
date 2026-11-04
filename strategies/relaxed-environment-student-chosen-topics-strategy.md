@@ -41,7 +41,7 @@ An implementable recipe for oral-skill sessions: seat students facing one anothe
 
 - [Saudi EFL majors reported low classroom participation and rare out-of-class English use](../claims/efl-majors-low-oral-participation-survey.md) [+W]
 - [Interview participants attributed speaking gains to small groups, relaxed environment, and non-interrupting instructor mentoring](../claims/interviews-attribute-gains-to-relaxed-small-group-format.md) [+W]
-- [Open Discussion Sessions significantly improved Saudi EFL majors' pre-post speaking test scores in favor of post-testing](../claims/open-discussion-sessions-significant-speaking-gains.md) [+W]
+- [Saudi EFL majors' speaking test scores rose from pre-test to post-test after Open Discussion Sessions, in one uncontrolled pre-post study](../claims/open-discussion-sessions-significant-speaking-gains.md) [+W]
 - [Students and instructors identified real-life communication, expressing opinions orally, and developing confidence as top speaking needs](../claims/speaking-needs-priorities-saudi-efl-majors.md) [+W]
 
 ## Related Strategies

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "The study's null hypothesis of no pre-test/post-test difference in scores was rejected"
-description: "The study's null hypothesis of no pre-test/post-test difference in scores was rejected"
+title: Scores rose from pre-test to post-test in one group with no comparison group
+description: Scores rose from pre-test to post-test in one group with no comparison group
 id: null-hypothesis-rejected-pre-post-english
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# The study's null hypothesis of no pre-test/post-test difference in scores was rejected
+# Scores rose from pre-test to post-test in one group with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The author reports rejecting the null hypothesis that there is no significant difference between pre-test and post-test scores. [→ Dev 2016](#dev-2016)
+`q2 i?` Scores rose from pre-test to post-test in one group with no comparison group. [→ Dev 2016](#dev-2016)
 
 ## Evidence
 

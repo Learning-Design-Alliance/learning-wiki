@@ -202,6 +202,12 @@ def qualify(slug: str, path: Path, verdicts: dict, include_none_only: bool = Fal
     anchors = jsv.causal_anchors(path)
     if not anchors:
         return False, "no causal entry"
+    # A claim that also rests on a synthesis or review says more than its causal entries
+    # can: the judge reads only those, so rewording the title from them alone loses what
+    # the synthesis found (Murphy et al. 2009's meta-analysis on structured discussion,
+    # caught in the 2026-11-04 backlog run).
+    if re.search(r"^\s+kind:\s*(quant-synthesis|review)\s*$", path.read_text(encoding="utf-8"), re.M):
+        return False, "also rests on a synthesis or review"
     got = {}
     for a in sorted(anchors):
         vs = verdicts.get((slug, a))
@@ -210,6 +216,11 @@ def qualify(slug: str, path: Path, verdicts: dict, include_none_only: bool = Fal
         bad = [v["comparison"] for v in vs if v["comparison"] not in QUALIFYING]
         if bad:
             return False, f"entry judged {bad[0]}"
+        # From an abstract, "none" can be silence: an abstract that names no comparison
+        # group is not evidence there was none (judge_study_validity.problems() discounts
+        # it the same way). A pre-post reading from an abstract is positive and counts.
+        if any(v["comparison"] == "none" and v.get("basis") == "abstract" for v in vs):
+            return False, "comparison read as none from an abstract only"
         got[a] = vs
     if not include_none_only and not any(v["comparison"] == "pre-post-single-group"
                                          for vs in got.values() for v in vs):

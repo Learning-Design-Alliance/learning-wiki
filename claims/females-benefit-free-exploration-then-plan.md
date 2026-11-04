@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "In one word-problem study, females gained significantly when the formatted procedural plan came after an unformatted test, and scored lower when the formatted test came first"
-description: In one word-problem study, females gained significantly when the formatted procedural plan came after an unformatted test, and scored lower when the formatted test came first
+title: "In one word-problem study, females' scores rose significantly from pre-test to post-test in the unformatted-to-formatted sequence and fell from pre-test to post-test in the formatted-to-unformatted sequence, based on within-group pre-post measurements"
+description: "In one word-problem study, females' scores rose significantly from pre-test to post-test in the unformatted-to-formatted sequence and fell from pre-test to post-test in the formatted-to-unformatted sequence, based on within-group pre-post measurements"
 id: females-benefit-free-exploration-then-plan
 status: review
 generated:
@@ -28,7 +28,7 @@ sources:
     rigour: 1
 ---
 
-# In one word-problem study, females gained significantly when the formatted procedural plan came after an unformatted test, and scored lower when the formatted test came first
+# In one word-problem study, females' scores rose significantly from pre-test to post-test in the unformatted-to-formatted sequence and fell from pre-test to post-test in the formatted-to-unformatted sequence, based on within-group pre-post measurements
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
@@ -38,7 +38,7 @@ sources:
 
 ## Subclaims
 `q2 i?` Females in the unformatted-to-formatted sequence showed a significant pre-to-post gain (t = 3.618, p = .001). [→ Zambo 1994](#zambo-1994)
-`q2 i?` Females who took the formatted test first and the unformatted test second exhibited a loss on the posttest, an effect not present in other groups. [→ Zambo 1994 (2)](#zambo-1994-2)
+`q2 i?` Females who took the formatted test first and the unformatted test second exhibited a loss on the posttest, a pattern not present in other groups. [→ Zambo 1994 (2)](#zambo-1994-2)
 
 ## Evidence
 

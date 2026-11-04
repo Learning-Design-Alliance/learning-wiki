@@ -64,7 +64,7 @@ Reaction data from the posttraining survey showed very high satisfaction and wil
 
 
 ## Related Claims
-- [Self-reported gatekeeper behaviors (identifying, approaching, and referring distressed student veterans) trended upward after training but did not reach statistical significance on the composite measure.](voc-training-gatekeeper-behavior-trend.md) — related
+- [Gatekeeper behaviors (identifying, approaching, and referring distressed student veterans) trended upward from before to after training, but did not reach statistical significance on the composite measure, in one uncontrolled pre-post study.](voc-training-gatekeeper-behavior-trend.md) — related
 - [Learners self-reported high satisfaction (4.4/5) and perceived educational value (4.9/5) for the curriculum](pem-sbl-high-satisfaction-educational-value.md) — related
 - [Students reported positive usability and acceptance of MentorChat](mentorchat-positive-usability-acceptance.md) — related
 - [Teachers, parents, and coaches report high satisfaction and strong coach-teacher alliance with First Step Next](fsn-high-satisfaction-alliance.md) — related
@@ -73,7 +73,7 @@ Reaction data from the posttraining survey showed very high satisfaction and wil
 - [Most learner-facing studies of technology-enhanced simulation in laparoscopic training report favorable learner responses, mainly confidence, satisfaction, perceived safety and self-efficacy](simulation-laparoscopic-favorable-perceptions.md) — a broader claim this one bears on
 - [Over one third of participants reported increased conversations with colleagues about student veterans they were concerned about, suggesting potential institutional-level culture change.](voc-training-increases-collegial-conversations.md) — related
 - [College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.](voc-training-increases-gatekeeper-preparedness.md) — related
-- [Game-based virtual-human role-play training significantly increases faculty self-efficacy and behavioral intent to support student veterans, with sustained gains at 3-month follow-up.](voc-training-increases-gatekeeper-self-efficacy-likelihood.md) — related
-- [Game-based virtual-human role-play training significantly increases faculty military cultural competency, with sustained gains at 3-month follow-up.](voc-training-increases-military-cultural-competency.md) — related
+- [Faculty self-rated self-efficacy and behavioral intent to support student veterans rose from pretraining to posttraining and 3-month follow-up in one uncontrolled pre-post study of game-based virtual-human role-play training.](voc-training-increases-gatekeeper-self-efficacy-likelihood.md) — related
+- [Faculty military cultural competency scores rose from pretraining to posttraining and remained higher at 3-month follow-up after game-based virtual-human role-play training, in one uncontrolled pre-post study.](voc-training-increases-military-cultural-competency.md) — related
 - [Participants were highly satisfied with the workshop and all would recommend it to colleagues](bronchoscopy-workshop-high-satisfaction.md) — related
 - [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related

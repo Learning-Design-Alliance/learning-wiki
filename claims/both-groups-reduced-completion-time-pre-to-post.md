@@ -45,7 +45,7 @@ Within-group paired comparisons in the randomized study of 79 students showed si
 
 
 ## Related Claims
-- [AI-assisted annotation reduces dental students' diagnostic time per panoramic radiograph](ai-annotation-reduces-diagnostic-time.md) — related
+- [Dental students' diagnostic time per panoramic radiograph fell from pre-test to post-test after AI-assisted annotation, in one uncontrolled pre-post study](ai-annotation-reduces-diagnostic-time.md) — related
 - [AI-assisted training did not significantly improve undergraduate dental students' diagnostic scores for proximal caries extension compared with conventional radiology training](ai-training-no-gain-dental-caries-diagnostic-scores.md) — related
 - [Post-test completion time was significantly shorter in the AI-assisted training group than in the conventional group](ai-training-shorter-post-test-completion-time.md) — related
 - [Absolute average error increased significantly from pre- to post-test in the conventional group but not in the AI-assisted group (exploratory)](conventional-group-error-increase-ai-group-stable.md) — related

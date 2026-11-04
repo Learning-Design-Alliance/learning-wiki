@@ -45,4 +45,4 @@ Descriptive analysis of Table 1 (Decisions on performing the profession prior to
 
 
 ## Related Claims
-- [A scenario-based blended learning environment combined with teaching practice is associated with a statistically significant increase in preservice teachers' attitudes toward the teaching profession](scenario-blended-learning-positive-teaching-attitudes.md) — related
+- [Preservice teachers' self-reported attitudes toward the teaching profession rose significantly from before to after participation in a scenario-based blended learning environment combined with teaching practice, in one uncontrolled pre-post study](scenario-blended-learning-positive-teaching-attitudes.md) — related

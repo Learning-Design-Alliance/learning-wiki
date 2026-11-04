@@ -68,7 +68,7 @@ The same ANCOVA analysis reports adjusted post-test means: experimental M = 37.7
 
 ## Related Claims
 - [Students reacted positively to PowerPoint-enhanced listening lessons, reporting benefits for comprehension and motivation](positive-student-reactions-powerpoint-listening-lessons.md) — related
-- [Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported](video-based-tasks-improve-listening-comprehension.md) — related
+- [Iranian pre-intermediate EFL learners' listening comprehension scores rose significantly from pre-test to post-test after video-based tasks, in a within-group test with no between-group comparison reported](video-based-tasks-improve-listening-comprehension.md) — related
 - [Raw post-test descriptive means rose for the PowerPoint group (59.9 to 68.4) but stayed flat for the control group (58.45 to 58.1)](ppt-listening-pre-post-descriptives.md) — related
 - [Authentic-video instruction produced significantly higher post-test prosodic ability than traditional instruction for Iranian intermediate EFL learners](authentic-videos-improve-prosodic-ability.md) — related
 - [Audio-visual listening tasks produce higher oral accuracy than audio-only listening tasks for intermediate Iranian EFL learners](av-listening-tasks-higher-oral-accuracy-than-audio-only.md) — related

@@ -41,8 +41,8 @@ Within the blogfolio procedure, students start with an assumed stance and genera
 
 ## Claims
 
-- [Reflective blogfolios shifted EFL tertiary students' ways of knowing significantly toward more connected knowing](../claims/blogfolios-shifted-ways-of-knowing-toward-connected.md) [+W]
-- [Reflective blogfolios in EFL writing classes produced statistically significant pre-post gains in tertiary students' argumentative essay writing skills](../claims/reflective-blogfolios-improved-argumentative-writing.md) [+W]
+- [EFL tertiary students' ways-of-knowing scores rose significantly from pre- to post-assessment after reflective blogfolios, in one uncontrolled pre-post study](../claims/blogfolios-shifted-ways-of-knowing-toward-connected.md) [+W]
+- [In one uncontrolled pre-post study, tertiary students' argumentative essay writing scores in EFL writing classes rose significantly from pre-test to post-test after reflective blogfolios](../claims/reflective-blogfolios-improved-argumentative-writing.md) [+W]
 
 ## Related Strategies
 

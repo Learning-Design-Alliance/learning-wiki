@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Post-treatment survey data showed 100% of English teachers and 85% of science teachers changed completely their perceptions of employing differentiated instruction. [→ Awada and Faour 2016](#awada-and-faour-2016)
+`q2 i?` From pre-test to post-test, 100% of English teachers and 85% of science teachers self-reported completely changed perceptions of employing differentiated instruction. [→ Awada and Faour 2016](#awada-and-faour-2016)
 
 ## Evidence
 

@@ -39,7 +39,7 @@ The article describes a teaching approach in which "The real-world example was a
 ## Claims
 
 - [Mining engineering students' confidence that they could provide concrete examples of applied geoscience rose significantly over a course combining case studies and active learning](../claims/case-studies-improve-confidence-applied-geoscience-examples.md) [+W]
-- [Students gained significant improvement in exposure to geoscience concepts through the case study–based curriculum](../claims/case-studies-increase-exposure-geoscience-concepts.md) [+W]
+- [Students' self-reported exposure to geoscience concepts rose significantly from pre-test to post-test in one group with no comparison group after a case study–based curriculum](../claims/case-studies-increase-exposure-geoscience-concepts.md) [+W]
 - [Students became significantly more willing to convince others that geoscience is important in mining after the intervention](../claims/case-studies-increase-willingness-advocate-geoscience-mining.md) [+W]
 
 ## Related Strategies

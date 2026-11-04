@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Longitudinal comparison of Cohort 2 teachers' year 2 CCT classrooms against their own year 1 control classrooms shows significant improvement (ES = 0.20)"
-description: "Longitudinal comparison of Cohort 2 teachers' year 2 CCT classrooms against their own year 1 control classrooms shows significant improvement (ES = 0.20)"
+title: "Cohort 2 teachers' student achievement scores rose significantly from their year 1 classrooms to their year 2 CCT classrooms in a single-group pre-post comparison with no comparison group (ES = 0.20)"
+description: "Cohort 2 teachers' student achievement scores rose significantly from their year 1 classrooms to their year 2 CCT classrooms in a single-group pre-post comparison with no comparison group (ES = 0.20)"
 id: cct-longitudinal-cohort2-es020
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 2
 ---
 
-# Longitudinal comparison of Cohort 2 teachers' year 2 CCT classrooms against their own year 1 control classrooms shows significant improvement (ES = 0.20)
+# Cohort 2 teachers' student achievement scores rose significantly from their year 1 classrooms to their year 2 CCT classrooms in a single-group pre-post comparison with no comparison group (ES = 0.20)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i1` With pretest and teaching experience controlled, Treatment 2.2 students scored about 1.1 points higher than their Control 2.1 counterparts (p = .009, ES = 0.20). [→ Irving 2016](#irving-2016)
+`q3 i1` With pretest and teaching experience controlled, scores for Cohort 2 teachers' students rose by about 1.1 points from year 1 Control 2.1 classrooms to year 2 Treatment 2.2 classrooms in a single-group pre-post comparison with no comparison group (p = .009, ES = 0.20). [→ Irving 2016](#irving-2016)
 
 ## Evidence
 

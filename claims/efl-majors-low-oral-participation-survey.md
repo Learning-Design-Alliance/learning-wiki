@@ -67,4 +67,4 @@ Descriptive survey result from Table 3 of the needs-assessment questionnaire wit
 ## Related Claims
 - [Students and instructors identified real-life communication, expressing opinions orally, and developing confidence as top speaking needs](speaking-needs-priorities-saudi-efl-majors.md) — related
 - [Interview participants attributed speaking gains to small groups, relaxed environment, and non-interrupting instructor mentoring](interviews-attribute-gains-to-relaxed-small-group-format.md) — related
-- [Open Discussion Sessions significantly improved Saudi EFL majors' pre-post speaking test scores in favor of post-testing](open-discussion-sessions-significant-speaking-gains.md) — related
+- [Saudi EFL majors' speaking test scores rose from pre-test to post-test after Open Discussion Sessions, in one uncontrolled pre-post study](open-discussion-sessions-significant-speaking-gains.md) — related

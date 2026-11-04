@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Blog activities significantly improved students’ environmental knowledge
-description: Blog activities significantly improved students’ environmental knowledge
+title: Students’ environmental knowledge scores rose significantly from pre-test to post-test after eight weeks of blog activities, in one uncontrolled pre-post study
+description: Students’ environmental knowledge scores rose significantly from pre-test to post-test after eight weeks of blog activities, in one uncontrolled pre-post study
 id: blog-activities-improve-environmental-knowledge
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Blog activities significantly improved students’ environmental knowledge
+# Students’ environmental knowledge scores rose significantly from pre-test to post-test after eight weeks of blog activities, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -46,7 +46,7 @@ Repeated-measures t-test on 56 students’ environmental knowledge subscale scor
 
 ## Related Claims
 - [Blog activities significantly improved students’ attitudes toward the environment](blog-activities-improve-environmental-attitude.md) — related
-- [Blog activities significantly improved students’ usage of environment](blog-activities-improve-environmental-usage.md) — related
-- [Blog-assisted life education instruction significantly enhances fifth-grade elementary students' life education values](blog-assisted-life-education-enhances-life-values.md) — related
+- [Students’ usage of environment scores rose significantly from pre-test to post-test after blog activities, in one uncontrolled pre-post study](blog-activities-improve-environmental-usage.md) — related
+- [Fifth-grade elementary students' life phenomenon, harmony between nature and human beings, life meaning and value, and total life education values scores rose significantly from pre-test to post-test after blog-assisted life education instruction, in one single-group pre-post study](blog-assisted-life-education-enhances-life-values.md) — related
 - [A four-week intervention using active methods and local environmental problems raised the percentage of first-year middle school students reaching the average on an environmental knowledge test from 1.64% to 98%](local-environmental-intervention-improves-environmental-knowledge.md) — related
 - [Blog activities did not improve students’ interest in environmental problems](blog-activities-not-improve-environmental-interest.md) — related

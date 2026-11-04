@@ -49,5 +49,5 @@ The study's stated null hypothesis was tested at the 0.05 alpha level using the 
 - [Before intervention, attitude scores of the pretested experimental and control groups were statistically the same](pi-pretest-attitude-equivalence.md) — related
 - [Students taught chemical bonding with the demonstration method scored higher on the post-test than students taught by lecture method](demonstration-outperforms-lecture-chemistry-posttest.md) — related
 - [A one-sided t-test found the difference in mean student responses between team-teaching and traditional teaching to be statistically significant](t-test-significant-difference-teaching-methods.md) — related
-- [The study's null hypothesis of no pre-test/post-test difference in scores was rejected](null-hypothesis-rejected-pre-post-english.md) — related
+- [Scores rose from pre-test to post-test in one group with no comparison group](null-hypothesis-rejected-pre-post-english.md) — related
 - [Project based learning has a positive effect on students' attitudes towards classification of organisms](pbl-positive-attitude-classification.md) — related

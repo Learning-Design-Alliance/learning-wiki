@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains"
-description: "Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains"
+title: "In one single-group pretest-posttest study with no comparison group, tutors' pooled scores rose by a significant 7.4% after scenario-based tutor lessons; three lessons with established construct validity showed gains, while three newer lessons showed no significant gains"
+description: "In one single-group pretest-posttest study with no comparison group, tutors' pooled scores rose by a significant 7.4% after scenario-based tutor lessons; three lessons with established construct validity showed gains, while three newer lessons showed no significant gains"
 id: scenario-lessons-pooled-74-percent-gain
 status: review
 generated:
@@ -28,7 +28,7 @@ sources:
     rigour: 1
 ---
 
-# Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains
+# In one single-group pretest-posttest study with no comparison group, tutors' pooled scores rose by a significant 7.4% after scenario-based tutor lessons; three lessons with established construct validity showed gains, while three newer lessons showed no significant gains
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`

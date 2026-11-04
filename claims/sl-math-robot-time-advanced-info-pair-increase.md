@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Second Life-based instruction significantly increased students' wish to reserve time for and gain advanced information about mathematics (z=2.82, p<.05)"
-description: "Second Life-based instruction significantly increased students' wish to reserve time for and gain advanced information about mathematics (z=2.82, p<.05)"
+title: "Students' self-reported wishes to reserve time for and gain advanced information about mathematics were significantly higher at post-test than at pre-test after Second Life-based instruction, in one uncontrolled pre-post study (z=2.82, p<.05)"
+description: "Students' self-reported wishes to reserve time for and gain advanced information about mathematics were significantly higher at post-test than at pre-test after Second Life-based instruction, in one uncontrolled pre-post study (z=2.82, p<.05)"
 id: sl-math-robot-time-advanced-info-pair-increase
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Second Life-based instruction significantly increased students' wish to reserve time for and gain advanced information about mathematics (z=2.82, p<.05)
+# Students' self-reported wishes to reserve time for and gain advanced information about mathematics were significantly higher at post-test than at pre-test after Second Life-based instruction, in one uncontrolled pre-post study (z=2.82, p<.05)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -49,8 +49,8 @@ Wilcoxon signed-rank test on the time/advanced-information item group in the 28-
 
 ## Related Claims
 - [Second Life-based mathematics instruction significantly increased students' agreement that mathematics is interesting (z=2.95, p<.05)](sl-math-robot-interest-item-increase.md) — related
-- [Second Life-based instruction had no significant effect on the paired learn/fear items (z=1.85, p>.05)](sl-math-robot-learn-fear-pair-no-effect.md) — related
-- [Second Life-based mathematics instruction significantly increased the time students would reserve for mathematics (z=3.14, p<.05)](sl-math-robot-time-reservation-increase.md) — related
-- [Second Life-based instruction significantly increased sympathy and interest toward mathematics on the paired interest/love items (z=3.01, p<.05)](sl-math-robot-interest-love-pair-increase.md) — related
-- [Second Life-based mathematics instruction had no significant effect on students' fear of mathematics (z=1.93, p>.05)](sl-math-robot-fear-item-no-effect.md) — related
+- [Self-reported answers to the paired learn/fear items did not change significantly from pre-test to post-test in one group with no comparison group after Second Life-based instruction (z=1.85, p>.05)](sl-math-robot-learn-fear-pair-no-effect.md) — related
+- [In one uncontrolled pre-post study, students' self-reported time they would reserve for mathematics rose from pre-test to post-test after Second Life-based mathematics instruction (z=3.14, p<.05)](sl-math-robot-time-reservation-increase.md) — related
+- [Self-reported sympathy and interest toward mathematics on the paired interest/love items differed significantly from pre-test to post-test after Second Life-based instruction, with post-test scores favored in one uncontrolled pre-post study (z=3.01, p<.05)](sl-math-robot-interest-love-pair-increase.md) — related
+- [Students' self-rated fear of mathematics did not change significantly from pre-test to post-test after Second Life-based mathematics instruction, in one uncontrolled pre-post study (z=1.93, p>.05)](sl-math-robot-fear-item-no-effect.md) — related
 - [A one-group pretest-posttest study found no significant difference in total mathematics attitude scores before and after Second Life-based instruction](sl-math-robot-total-attitude-no-significant-difference.md) — related

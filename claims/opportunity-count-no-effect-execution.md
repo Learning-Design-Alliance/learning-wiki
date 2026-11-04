@@ -45,7 +45,7 @@ Generalized linear mixed-effects growth curve model predicting probability of su
 
 
 ## Related Claims
-- [After training, tutors were significantly more likely to encounter pedagogical opportunities (61.1% to 68.9%) and showed higher execution quality within those opportunities (65.5% to 68.1%)](post-training-opportunity-and-execution-gains.md) — related
+- [In one uncontrolled pre-post study, tutors' probability of encountering pedagogical opportunities rose from 61.1% pre-training to 68.9% post-training, and execution quality within those opportunities rose from 65.5% to 68.1%](post-training-opportunity-and-execution-gains.md) — related
 - [Interrupted time series analysis found tutor quality improved gradually over time (β=0.01, p=.022) with no immediate level change or slope change at the training intervention](its-gradual-trend-not-intervention-effect.md) — related
 - [Tutor training performance predicts real-life tutoring transcript scores, with a one SD increase in lesson performance associated with a 0.25 SD increase in transcript scores](training-performance-predicts-transcript-scores-025sd.md) — related
 - [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](iterative-follow-up-supports-lasting-change.md) — a broader claim this one bears on

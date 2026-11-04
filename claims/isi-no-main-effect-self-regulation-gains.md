@@ -49,7 +49,7 @@ Cluster randomized control field trial with 445 first graders in 46 classrooms a
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Fall self-regulation (HTKS) scores predict spring literacy gains in first grade](fall-htks-predicts-literacy-gains.md) — related
+- [In first grade, students with lower fall self-regulation (HTKS) scores demonstrated weaker literacy skill gains by spring](fall-htks-predicts-literacy-gains.md) — related
 - [For first graders with weak initial self-regulation, ISI is associated with greater self-regulation gains, increasing with teachers' A2i use](isi-greater-gains-weak-initial-self-regulation.md) — related
 - [HTKS scores show validity evidence for first graders, associating with teacher-rated social skills and problem behavior](htks-validity-first-graders.md) — related
 - [ISI teachers demonstrate stronger classroom management than control teachers, with more instructional time and fewer disruptions](isi-teachers-stronger-classroom-management.md) — related

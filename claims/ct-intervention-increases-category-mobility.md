@@ -65,7 +65,7 @@ Ordinal regression on overall-score categories predicting mobility probabilities
 
 ## Related Claims
 - [A greater percentage of KITS children than services-as-usual children moved into the low-risk category for reading difficulties on DIBELS and CAPT benchmarks over the summer.](kits-benchmark-risk-category-shifts.md) — related
-- [Speaking-skill score distribution shifted upward after integrative teaching (mean 65.75 to 76.5)](german-speaking-pre-post-descriptives.md) — related
+- [Speaking-skill score distribution shifted upward from pre-test to post-test in one single-group pre-post study of integrative teaching (mean 65.75 to 76.5)](german-speaking-pre-post-descriptives.md) — related
 - [Experimental group post-test speaking scores reached the high category while control group scores stayed in the average category](demonstration-posttest-high-category-versus-control-average.md) — related
 - [Low-scoring experimental-group students moved from 25% scoring below 25% at pre-test to none scoring below 25% at post-test, with scores reaching as much as 56.8%](lowest-scorers-crossed-25-percent-threshold.md) — related
 - [Vocabulary performance shifted from B1–B2 CEFR levels at pre-test to B2–C1 at post-test after four weeks of Mangomon play](cefr-band-shift-business-vocabulary-mangomon.md) — related

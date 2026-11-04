@@ -69,5 +69,5 @@ Delayed productive posttest data from Table 2 for the same 19 participants. The 
 - [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
 
 ## Related Claims
-- [TPRS treatment produces a short-term effect on very young learners' receptive and productive L2 vocabulary, with immediate posttest means higher than pretests in all weeks](tprs-short-term-vocabulary-gains-preschoolers.md) — related
-- [Receptive vocabulary learning benefits from TPRS instruction more than productive learning in very young learners](tprs-receptive-outperforms-productive-preschoolers.md) — related
+- [In one single-group pre-post study of TPRS with very young learners, immediate posttest means for receptive and productive L2 vocabulary were higher than pretest means in all weeks](tprs-short-term-vocabulary-gains-preschoolers.md) — related
+- [Receptive test means were higher than productive test means on immediate and delayed administrations during TPRS instruction among very young learners, in a single-group pre-post study with no comparison group](tprs-receptive-outperforms-productive-preschoolers.md) — related

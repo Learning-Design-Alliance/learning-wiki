@@ -53,4 +53,4 @@ Intraclass correlation analysis of the multilevel data structure: "0.117 and 0.4
 - [Instructor–student joy mimicry was predominantly dyad-specific: only 16.4% of variance in the mimicry index was attributable to instructors](joy-mimicry-predominantly-dyad-specific.md) — related
 - [Approximately 13–14% of total variance in first-grade written composition is attributable to differences among classrooms](classroom-level-variance-written-composition-first-grade.md) — related
 - [Organizational-level factors account for about 3.4% of variance in faculty's behavioral intention toward online teaching](icc-3-4-percent-behavioral-intention.md) — related
-- [Computation competence showed substantial class-specific differential development during the group-based intervention, with ICC rising from 3% at pretest to 25% at posttest](class-specific-differential-development-icc.md) — related
+- [Computation competence showed substantial class-specific differential development, with ICC rising from 3% at pretest to 25% at posttest within the measured group](class-specific-differential-development-icc.md) — related

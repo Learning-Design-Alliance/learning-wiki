@@ -48,10 +48,10 @@ Pre-post intervention analysis of the 50-resident single-group cohort using pair
 
 ## Related Claims
 - [Clinical knowledge scores improved significantly (mean increase 6.7 points, Cohen's d = 0.76) after the VP training program](vp-training-improves-clinical-knowledge.md) — related
-- [Physical examination and medical record writing scores did not improve significantly after the VP program (d = 0.28 and d = 0.26)](vp-training-no-gain-physical-exam-documentation.md) — related
+- [Physical examination and medical record writing scores did not change significantly from pre-test to post-test in one single-group pre-post study with no comparison group (d = 0.28 and d = 0.26)](vp-training-no-gain-physical-exam-documentation.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on
 - [In an RCT reviewed by this study, an LLM-based digital patient improved ophthalmology medical history-taking skills relative to control](llm-digital-patient-improves-history-taking-rct.md) — related
 - [LLM-VSP self-practice improves medical history-taking performance in matched comparison (Cohen d=0.52)](llm-vsp-improves-history-taking-matched.md) — related
 - [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — related
-- [AI-powered simulated patient practice improves clinical reasoning measured by the CRI-HT scale](aisp-cortex-improves-cri-ht-reasoning.md) — related
-- [AI-powered simulated patient practice with automated rubric-based feedback improves medical students' headache history-taking OSCE scores](aisp-cortex-improves-headache-osce-scores.md) — related
+- [CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study](aisp-cortex-improves-cri-ht-reasoning.md) — related
+- [AI-powered simulated patient practice with automated rubric-based feedback: medical students' headache history-taking OSCE scores rose from pre-test to post-test in a single-group pre-post study](aisp-cortex-improves-headache-osce-scores.md) — related

@@ -45,7 +45,7 @@ A pedagogical experiment at the Berezniki Branch of Perm National Research Polyt
 
 
 ## Related Claims
-- [95% of experimental-learning participants reached sufficient or high levels of lexical skills and speech abilities by course end](95-percent-sufficient-high-lexical-levels.md) — related
+- [95% of experimental-learning participants showed sufficient or high levels of lexical skills and speech abilities at course end in a one-group pre-test-to-post-test study with no comparison group](95-percent-sufficient-high-lexical-levels.md) — related
 - [Within individual assignment types, Fisher exact tests show almost no difference between experimental and control groups](fisher-tests-no-within-strata-difference.md) — related
 - [Kindergartners who independently read an e-book with a built-in dictionary improved in receptive word comprehension and word explanation more than controls in regular kindergarten; results for word production were inconsistent](e-book-dictionary-reading-improves-word-learning-kindergartners.md) — related
 - [University freshmen learning academic vocabulary via SMS show no significant short-term advantage over freshmen learning the same words with a dictionary](sms-vs-dictionary-no-posttest-difference.md) — related

@@ -46,7 +46,7 @@ Authors' interpretation from the analysis of the media created by student groups
 
 ## Related Claims
 - [Prospective-teacher students learning with an open-ended VBA-for-Excel approach created more creative interactive learning media than students taught by an expository VBA-based method](open-ended-vba-excel-creativity-better-than-expository.md) — related
-- [After open-ended VBA-based learning, students showed gains in independent creation: 31.43% created new ideas without following examples and 20% made animation-based props, up from 8.69% and 60.86% example-dependence](post-learning-creation-gains-vba-open-ended.md) — related
+- [In one uncontrolled pre-post study, after open-ended VBA-based learning, 31.43% of students created new ideas without following examples and 20% made animation-based props, compared with 8.69% and 60.86% before learning](post-learning-creation-gains-vba-open-ended.md) — related
 - [Post-learning media products spanned multiple mathematics topics: 42.8% geometry-related props, 28.57% arithmetic-related props, 51.43% could explain prop creation, and 60% could use shapes to run their code](post-learning-media-topic-distribution.md) — related
 - [On an essential mathematical concept mastery test, 73.91% of the 68 students understood arithmetical operations while 60.86% followed the example picture rather than creating their own](baseline-mastery-test-arithmetic-73-91-percent.md) — related
 - [Preliminary study found textbook-only teaching and students whose geometry ability was limited to the visual skill](preliminary-visual-skill-only-finding.md) — related

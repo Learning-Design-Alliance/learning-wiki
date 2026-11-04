@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Systemic barriers—supply shortages, unreliable power, absent protocols, limited supervision and high workload—restricted consistent VAP prevention despite improved knowledge
-description: Systemic barriers—supply shortages, unreliable power, absent protocols, limited supervision and high workload—restricted consistent VAP prevention despite improved knowledge
+title: Qualitative interviews identified systemic barriers—supply shortages, unreliable power, absent protocols, limited supervision and high workload—alongside knowledge scores rising from pre-test to post-test in one group with no comparison group
+description: Qualitative interviews identified systemic barriers—supply shortages, unreliable power, absent protocols, limited supervision and high workload—alongside knowledge scores rising from pre-test to post-test in one group with no comparison group
 id: systemic-barriers-limit-vap-prevention-implementation
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Systemic barriers—supply shortages, unreliable power, absent protocols, limited supervision and high workload—restricted consistent VAP prevention despite improved knowledge
+# Qualitative interviews identified systemic barriers—supply shortages, unreliable power, absent protocols, limited supervision and high workload—alongside knowledge scores rising from pre-test to post-test in one group with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

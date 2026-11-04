@@ -41,7 +41,7 @@ The article's own recommendation, drawn from its results: "the researcher s reco
 
 - [After treatment, students most strongly agreed that team teachers can control a crowded classroom and that reading comprehension is more enjoyable, and least agreed they feel more independent](../claims/team-teaching-attitude-item-pattern.md) [+W]
 - [Team teaching produces significantly higher EFL eleventh-grade reading comprehension post-test scores than traditional single-teacher instruction](../claims/team-teaching-improves-efl-reading-comprehension.md) [+W]
-- [EFL students' attitudes toward team teaching improve significantly after experiencing it in reading comprehension lessons](../claims/team-teaching-improves-student-attitudes.md) [+W]
+- [EFL students' attitudes toward team teaching rose significantly from pre-test to post-test after experiencing it in reading comprehension lessons, measured within the experimental group](../claims/team-teaching-improves-student-attitudes.md) [+W]
 
 ## Related Strategies
 - 

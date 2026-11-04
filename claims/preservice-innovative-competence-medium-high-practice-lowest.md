@@ -51,4 +51,4 @@ Descriptive statistics from the survey of 3003 pre-service teachers across 12 Ch
 - [In the structural equation model, both supports directly predict innovative competence and strongly predict the mediators](sem-direct-paths-dual-supports-innovative-competence.md) — related
 - [Chinese MTES show medium-level AI-TPACK overall, with AI-TK the lowest-scoring component and teaching beliefs the highest, indicating a basic, preliminary stage](mtes-aick-tk-lowest-medium-level-basic-stage.md) — related
 - [Pre-service educators' overall game playing competency was sufficient, with preparation strongest and evaluation weakest](preparation-strong-evaluation-weak.md) — related
-- [Students reported the lowest baseline confidence in digital innovation competencies, which showed the strongest subjective learning gains](lowest-baseline-strongest-gains-digital-competencies.md) — related
+- [Students' confidence ratings in digital innovation competencies were lowest at pre-test and rose the most from pre-test to post-test in one group with no comparison group](lowest-baseline-strongest-gains-digital-competencies.md) — related

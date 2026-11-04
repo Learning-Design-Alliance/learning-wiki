@@ -56,7 +56,7 @@ The article operationalizes germane load as learning effects: the portion of wor
 - [Both groups showed statistically significant pretest-posttest gains on the short-answer questions test](../claims/both-groups-gain-short-answer-test.md) [~W]
 - [The experimental and control groups did not differ significantly at pre-test but the experimental group outperformed the control group at post-test](../claims/ds-posttest-between-group-outperformance.md) [+W]
 - [Both groups improved significantly from pre-test to post-test with no pre-existing difference between them](../claims/significant-pre-post-gains-both-esp-groups.md) [~W]
-- [A short pulmonary rehabilitation training program significantly improved knowledge scores in primary care physiotherapists and AEPs](../claims/pr-training-improves-knowledge-primary-care-clinicians.md) [~W]
+- [Knowledge scores rose significantly from pre-training to post-training after a short pulmonary rehabilitation training program among primary care physiotherapists and AEPs, in a single-group pre-post study](../claims/pr-training-improves-knowledge-primary-care-clinicians.md) [~W]
 
 ## Related Theories
 - 

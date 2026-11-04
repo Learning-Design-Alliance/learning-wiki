@@ -43,8 +43,8 @@ The article recommends having students compare their own problem solutions to ob
 ## Claims
 
 - [Students' monitoring judgments predict their regulation judgments before and after self-scoring](../claims/monitoring-judgments-predict-regulation-judgments.md) [+W]
-- [Self-scoring improves primary students' monitoring accuracy on math problem-solving tasks to near-accurate levels](../claims/self-scoring-improves-monitoring-accuracy-math.md) [+W]
-- [Self-scoring improves regulation accuracy for the whole sample, but not significantly for low- and high-performing students on division tasks](../claims/self-scoring-regulation-accuracy-limited-division.md) [+W]
+- [Primary students' monitoring accuracy on math problem-solving tasks rose from pre-test to post-test after self-scoring and was near accurate in one single-group pre-post study](../claims/self-scoring-improves-monitoring-accuracy-math.md) [+W]
+- [Regulation accuracy rose from pre-test to post-test after self-scoring for the whole sample, but not significantly for low- and high-performing students on division tasks, in one single-group pre-post study](../claims/self-scoring-regulation-accuracy-limited-division.md) [+W]
 
 ## Related Strategies
 

@@ -45,7 +45,7 @@ A 15-week classroom quasi-experiment with 78 Chinese ELLs in a cross-border high
 
 
 ## Related Claims
-- [All four software groups significantly improved writing scores over the 15-week semester](all-groups-significantly-improved-writing.md) — related
+- [All four software groups showed significant rises in writing scores from pretest to posttest over the 15-week semester in an uncontrolled pre-post study](all-groups-significantly-improved-writing.md) — related
 - [TMM and MEM groups used the software significantly more hours than the WOW group](tmm-mem-more-hours-than-wow.md) — related
 - [The WOW group showed significant improvement in writing, listening, and speaking, and overall](wow-group-significant-improvement-three-skills.md) — related
 - [Teaching vocabulary through TMM software produced significantly higher post-test vocabulary scores than conventional instruction in Iranian intermediate EFL learners](tmm-call-outperforms-conventional-vocabulary-instruction.md) — related

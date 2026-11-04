@@ -49,5 +49,5 @@ The review reports, from an included study attributed to reference [75], that SN
 - [SNAPPS is reported as superior to the One-Minute Preceptor model in enhancing clinical reasoning](snapps-superior-omp-clinical-reasoning.md) — possibly the same claim (merge candidate)
 - [A JBI-guided scoping review identified eight structured clinical teaching models for healthcare trainees published between 2000 and 2025, from 26 included articles](eight-clinical-teaching-models-mapped.md) — related
 - [Supporting evidence is unevenly distributed across the eight clinical teaching models, with OMP and SNAPPS the most extensively studied](omp-snapps-most-studied.md) — related
-- [Probing the preceptor showed one of the largest behavioural changes, with residents actively asking questions after SNAPPS](snapps-probe-increases-resident-questions.md) — related
+- [Residents' probing-question scores rose from 3 to 4 from before to after SNAPPS, in one uncontrolled pre-post study](snapps-probe-increases-resident-questions.md) — related
 - [Both GGR and SNAPPS significantly improve overall clinical reasoning scores in final-year MBBS students (p<0.001)](ggr-snapps-both-improve-clinical-reasoning.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Only BA pragmatists and theorists significantly improved self-directed learning ability; BA activists and reflectors did not
-description: Only BA pragmatists and theorists significantly improved self-directed learning ability; BA activists and reflectors did not
+title: In a single-group pre-post study, self-rated self-directed learning ability scores rose significantly among BA pragmatists and theorists, while no significant pre-post rise was reported among BA activists and reflectors
+description: In a single-group pre-post study, self-rated self-directed learning ability scores rose significantly among BA pragmatists and theorists, while no significant pre-post rise was reported among BA activists and reflectors
 id: ba-pragmatists-theorists-only-improved-sdl-ability
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Only BA pragmatists and theorists significantly improved self-directed learning ability; BA activists and reflectors did not
+# In a single-group pre-post study, self-rated self-directed learning ability scores rose significantly among BA pragmatists and theorists, while no significant pre-post rise was reported among BA activists and reflectors
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In the BA group, only pragmatist and theorist learning styles significantly improved self-directed learning ability at the .01 level. [→ Orawiwatnakul 2011](#orawiwatnakul-2011)
+`q2 i?` In the BA group, self-rated self-directed learning ability scores rose significantly from pre-test to post-test among pragmatist and theorist learning styles at the .01 level, while no significant pre-post rise was reported among activist and reflector learning styles, in a single-group pre-post study. [→ Orawiwatnakul 2011](#orawiwatnakul-2011)
 
 ## Evidence
 
@@ -46,6 +46,6 @@ Learning-style subgroup t-tests of Guglielmino SDL questionnaire scores for the 
 
 ## Related Claims
 - [English proficiency gains from self-directed learning activities occur across all four Honey-and-Mumford learning styles in both BA and CA groups](proficiency-gains-across-all-learning-styles.md) — reports the opposite
-- [CA students in all four learning styles significantly improved self-directed learning ability](ca-all-learning-styles-improved-sdl-ability.md) — related
+- [CA students in all four learning styles had significantly higher self-rated self-directed learning ability at post-test than at pre-test in one uncontrolled pre-post study](ca-all-learning-styles-improved-sdl-ability.md) — related
 - [Both BA and CA groups significantly increased overall self-directed learning ability after the intervention](sdl-ability-increased-both-groups.md) — a broader claim this one bears on
 - [Communication Arts students significantly outperform Business Administration students on post-intervention English proficiency](ca-students-outperform-ba-on-posttest-proficiency.md) — related

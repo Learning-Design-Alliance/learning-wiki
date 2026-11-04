@@ -42,7 +42,7 @@ The authors' recommendations section proposes three follow-up actions: conduct f
 
 - [Paired t-tests show a statistically significant pretest-to-posttest increase in analytical thinking skills in all four classes at α = 0.05](../claims/cbl-analytical-thinking-significant-paired-t-test.md) [+W]
 - [The significant improvement replicated across two universities, State University of Malang and State University of Surabaya](../claims/cbl-improvement-replicates-two-universities.md) [+W]
-- [A Context Based Learning physics model improves sport science students' analytical thinking skills with a high-category N-gain of 0.78](../claims/cbl-sport-context-improves-analytical-thinking-n-gain-078.md) [+W]
+- [Sport science students' analytical thinking scores rose from pre-test to post-test after a Context Based Learning physics model, with a high-category N-gain of 0.78, in a single-group pre-post study](../claims/cbl-sport-context-improves-analytical-thinking-n-gain-078.md) [+W]
 
 ## Related Strategies
 

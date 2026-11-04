@@ -45,7 +45,7 @@ Pre-test Mann-Whitney analysis of both twenty-student groups on the EFL Teaching
 
 
 ## Related Claims
-- [Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
+- [The experimental group showed statistically significant pre-to-post achievement gains in the EFL teaching methods course after Blackboard-based instruction](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
 - [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
 - [No significant difference existed between the graphic-novel and control groups on the pre-test](no-pretest-difference-graphic-novel-control.md) — related
 - [Mann-Whitney tests found no significant difference in the number of answers between clicker and non-clicker groups in either experimental period](no-significant-clicker-nonclicker-answer-difference.md) — related

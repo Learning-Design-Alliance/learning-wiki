@@ -46,7 +46,7 @@ Parent surveys (234 pretest, 176 posttest) showed no statistically significant s
 
 ## Related Claims
 - [The SBSM curriculum significantly improved FITNESSGRAM performance, with passing rates rising from 20% to 60%](sbsm-curriculum-improved-fitnessgram-passing.md) — related
-- [The SBSM curriculum significantly increased student fitness knowledge and confidence](sbsm-curriculum-increased-fitness-knowledge-confidence.md) — related
+- [Student fitness knowledge and confidence rose from pre-test to post-test after the SBSM curriculum, in one uncontrolled pre-post study](sbsm-curriculum-increased-fitness-knowledge-confidence.md) — related
 - [The control group also improved significantly on most sub-dimensions, but no sub-dimension reached full development and its general developmental level did not change significantly](control-group-prepost-gains-limited.md) — related
 - [MUECIP significantly increased the experimental group's general developmental level and sub-dimension scores from pretest to posttest](muecip-experimental-group-prepost-gains.md) — related
 - [Teachers rated the SBSM curriculum highly effective and observed higher student participation than prior curricula](sbsm-teachers-rated-highly-effective-higher-participation.md) — related

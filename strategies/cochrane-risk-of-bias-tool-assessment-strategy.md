@@ -38,7 +38,7 @@ The article describes using the Cochrane Collaboration's risk of bias tool (vers
 
 ## Claims
 
-- [EBD education significantly improves dental students' critical appraisal performance on a risk-of-bias tool](../claims/ebd-education-improves-critical-appraisal-dental-students.md) [+W]
+- [Dental students' critical appraisal performance on a risk-of-bias tool rose from pre-test to post-test after EBD education in one uncontrolled pre-post study](../claims/ebd-education-improves-critical-appraisal-dental-students.md) [+W]
 - [After EBD training, most student responses demonstrate acquired and applied critical appraisal knowledge, though gaps persist](../claims/ebd-secondary-outcomes-acquired-applied-responses.md) [+W]
 - [Subgroup analysis finds no significant differences in outcomes by training duration or prior EBD education](../claims/ebd-subgroup-no-differences-duration-prior-education.md) [+W]
 - [Intra-student agreement between baseline and post-training responses is low, suggesting answers reflect learning rather than consistency](../claims/intra-student-agreement-low-t0-t1.md) [+W]

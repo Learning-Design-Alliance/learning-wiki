@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "A multiple-representations instruction significantly increased preservice chemistry teachers' scientifically appropriate classifications of particulate drawings from pretest to posttest"
-description: "A multiple-representations instruction significantly increased preservice chemistry teachers' scientifically appropriate classifications of particulate drawings from pretest to posttest"
+title: "Preservice chemistry teachers' scientifically appropriate classifications of particulate drawings rose significantly from pretest to posttest after multiple-representations instruction, in one uncontrolled pre-post study"
+description: "Preservice chemistry teachers' scientifically appropriate classifications of particulate drawings rose significantly from pretest to posttest after multiple-representations instruction, in one uncontrolled pre-post study"
 id: multiple-representations-instruction-increased-appropriate-classifications
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# A multiple-representations instruction significantly increased preservice chemistry teachers' scientifically appropriate classifications of particulate drawings from pretest to posttest
+# Preservice chemistry teachers' scientifically appropriate classifications of particulate drawings rose significantly from pretest to posttest after multiple-representations instruction, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -45,7 +45,7 @@ One-group quasi-experimental study of 19 preservice chemistry teachers using Wil
 
 
 ## Related Claims
-- [Improvements in classifying the chemical composition of matter were not durable: some participants reverted to their initial inappropriate classifications 17 months later](chemical-composition-gains-not-durable.md) — related
+- [In one uncontrolled pre-post study, inappropriate classifications of the chemical composition of matter rose from n=2 at posttest to n=13 at delayed posttest 17 months later](chemical-composition-gains-not-durable.md) — related
 - [Gains in scientifically appropriate classifications were maintained over 17 months, with no significant difference between posttest and delayed posttest scores](classification-gains-maintained-17-months.md) — related
 - [Classifying the physical composition of matter (pure substance vs. homogeneous vs. heterogeneous mixture) was the most difficult aspect, and confusion between homogeneous and heterogeneous mixtures persisted after instruction](physical-composition-hardest-aspect-homogeneous-heterogeneous-confusion.md) — a narrower finding that bears on this claim
 - [The instruction was most effective for the physical states of matter, shifting justifications from macroscopic to submicroscopic evidence](physical-states-aspect-most-improved-submicroscopic-justifications.md) — a narrower finding that bears on this claim

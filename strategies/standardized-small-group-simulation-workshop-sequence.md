@@ -39,7 +39,7 @@ Each workshop session lasted approximately 60 minutes and "followed a standardiz
 ## Claims
 
 - [Students rated the peer-assisted simulation workshops highly, with mean satisfaction scores above 4 of 5](../claims/high-satisfaction-peer-simulation-workshops.md) [+W]
-- [Knowledge gains differ by subgroup: male students and second-year students showed greater gains than female and third-year students](../claims/knowledge-gain-gender-academic-year-subgroups.md) [+W]
+- [Knowledge scores rose from pre-test to post-test in one group with no comparison group: male students had greater gains than female students, and second-year students had greater gains than third-year students](../claims/knowledge-gain-gender-academic-year-subgroups.md) [+W]
 - [Knowledge gains varied by workshop topic, largest for pulmonary auscultation and smallest for rectal and breast examination](../claims/knowledge-gain-varies-by-workshop-topic.md) [+W]
 - [Peer-assisted simulation workshops significantly improve immediate workshop-specific knowledge test scores in undergraduate medical students](../claims/peer-simulation-workshops-immediate-knowledge-gain.md) [+W]
 - [Workshop participation was sustained across 2 academic years, with an overall occupancy rate of 61.1%](../claims/sustained-participation-occupancy-rate.md) [+W]

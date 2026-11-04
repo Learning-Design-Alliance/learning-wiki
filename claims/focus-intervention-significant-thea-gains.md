@@ -1,7 +1,7 @@
 ---
 type: claim
-title: FOCUS Intervention students made a statistically significant increase in THEA mathematics scores from pretest to posttest (d = .61)
-description: FOCUS Intervention students made a statistically significant increase in THEA mathematics scores from pretest to posttest (d = .61)
+title: "FOCUS Intervention students' THEA mathematics scores rose from pretest to posttest in a single-group pre-post study (d = .61)"
+description: "FOCUS Intervention students' THEA mathematics scores rose from pretest to posttest in a single-group pre-post study (d = .61)"
 id: focus-intervention-significant-thea-gains
 status: review
 generated:
@@ -21,14 +21,14 @@ sources:
     rigour: 1
 ---
 
-# FOCUS Intervention students made a statistically significant increase in THEA mathematics scores from pretest to posttest (d = .61)
+# FOCUS Intervention students' THEA mathematics scores rose from pretest to posttest in a single-group pre-post study (d = .61)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
 > **Currency** · newest study 2014 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i2` Students in the FOCUS Intervention improved significantly on the THEA mathematics measure across one semester, with a medium effect size (d = .61). [→ Mireles 2014](#mireles-2014)
+`q2 i2` FOCUS Intervention students' THEA mathematics scores rose from pretest to posttest across one semester in a single-group pre-post study, with a medium effect size (d = .61). [→ Mireles 2014](#mireles-2014)
 
 ## Evidence
 

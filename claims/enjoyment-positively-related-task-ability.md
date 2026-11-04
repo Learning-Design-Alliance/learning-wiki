@@ -51,4 +51,4 @@ Simple regression on the same sample (Table 4: F=17.281, p=0.000, R2=0.191); the
 ## Related Claims
 - [Students' perceived enjoyment of learning was positively related to their perceived knowledgeability](enjoyment-positively-related-knowledgeability.md) — related
 - [Higher synopsis enjoyment predicts better comprehension of that synopsis, even controlling for reading ability in Experiment 1](enjoyment-predicts-synopsis-comprehension.md) — related
-- [The role-playing game increased students' perceived ability to perform actual information systems auditing tasks from pretest to posttest](rpg-increased-perceived-ability-perform-audit-tasks.md) — related
+- [Students' perceived ability to perform actual information systems auditing tasks rose from pretest to posttest in one uncontrolled pre-post study of a role-playing game](rpg-increased-perceived-ability-perform-audit-tasks.md) — related

@@ -50,4 +50,4 @@ Two-way ANCOVA on vocabulary performance with previous semester score as covaria
 - [Collaborative online comic creation produced significantly higher comic-creation scores than both individual online comic creation and paper-based comic creation](collaborative-comic-creation-outperforms-individual-and-paper.md) — related
 - [Students in the collaborative online comic group showed more positive attitudes toward comics learning than students in the individual online comic and paper-based comic groups](collaborative-comic-group-most-positive-attitudes.md) — related
 - [EFL students taught grammar and vocabulary with Pixton comic strips scored significantly higher on a post-test than control students taught without Pixton](pixton-comic-strips-improve-efl-grammar-vocabulary-posttest.md) — reports the opposite
-- [Both paper-flashcard and digital-flashcard groups made significant receptive vocabulary gains over a 12-week treatment](pf-df-significant-rv-gains.md) — related
+- [Receptive vocabulary scores rose significantly from pre-test to post-test within both paper-flashcard and digital-flashcard groups over 12 weeks](pf-df-significant-rv-gains.md) — related

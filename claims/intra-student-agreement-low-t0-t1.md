@@ -46,7 +46,7 @@ Prospective cohort study measuring within-student consistency across two time po
 
 
 ## Related Claims
-- [EBD education significantly improves dental students' critical appraisal performance on a risk-of-bias tool](ebd-education-improves-critical-appraisal-dental-students.md) — related
+- [Dental students' critical appraisal performance on a risk-of-bias tool rose from pre-test to post-test after EBD education in one uncontrolled pre-post study](ebd-education-improves-critical-appraisal-dental-students.md) — related
 - [After EBD training, most student responses demonstrate acquired and applied critical appraisal knowledge, though gaps persist](ebd-secondary-outcomes-acquired-applied-responses.md) — related
 - [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related
 - [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](low-inter-rater-agreement-qm-criteria.md) — related

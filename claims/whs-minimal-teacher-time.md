@@ -46,4 +46,4 @@ The article contrasts WHS's minimal time demands with other programs: "teachers 
 
 ## Related Claims
 - [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related
-- [Feasibility study shows WHS increases teacher self-efficacy from pre to post](whs-feasibility-self-efficacy-increase.md) — related
+- [Feasibility study found that teachers' self-rated self-efficacy rose from pre-test to post-test after WHS, in one uncontrolled pre-post study](whs-feasibility-self-efficacy-increase.md) — related

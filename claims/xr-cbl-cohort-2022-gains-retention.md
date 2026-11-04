@@ -48,5 +48,5 @@ Percentage-normalized score analysis (Fig. 5) for Cohort 2022 in the same repeat
 - [No significant differences between conditions on the retention test, and scores of the Visual and Timeline conditions decreased significantly from post-test to retention](timeline-effect-disappears-at-retention.md) — related
 - [Conflict orientation scores decreased significantly in both trained and untrained groups, so the decrease cannot be ascribed to the training](conflict-orientation-decrease-both-groups.md) — related
 - [Science concept gains from keyword strategy instruction are retained six weeks after instruction ends](keyword-strategy-gains-retained-six-weeks.md) — related
-- [Pronunciation gains from the Audio Articulation Method persisted at delayed post-test four weeks later](aam-gains-persist-delayed-posttest.md) — related
+- [Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study](aam-gains-persist-delayed-posttest.md) — related
 - [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](technology-supported-teaching-higher-retention-four-months.md) — related

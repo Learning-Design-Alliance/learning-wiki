@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "The role-playing game increased students' perceived ability to perform actual information systems auditing tasks from pretest to posttest"
-description: "The role-playing game increased students' perceived ability to perform actual information systems auditing tasks from pretest to posttest"
+title: "Students' perceived ability to perform actual information systems auditing tasks rose from pretest to posttest in one uncontrolled pre-post study of a role-playing game"
+description: "Students' perceived ability to perform actual information systems auditing tasks rose from pretest to posttest in one uncontrolled pre-post study of a role-playing game"
 id: rpg-increased-perceived-ability-perform-audit-tasks
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# The role-playing game increased students' perceived ability to perform actual information systems auditing tasks from pretest to posttest
+# Students' perceived ability to perform actual information systems auditing tasks rose from pretest to posttest in one uncontrolled pre-post study of a role-playing game
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

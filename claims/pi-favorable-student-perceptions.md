@@ -46,4 +46,4 @@ A post-session feedback survey with good internal consistency (Cronbach's alpha 
 
 ## Related Claims
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — related
-- [Peer instruction was associated with a statistically significant short-term improvement in performance scores among first-year osteopathic medical students in a preclinical microbiology session.](pi-improves-short-term-performance-osteopathic-microbiology.md) — related
+- [Performance scores rose significantly from pre-test to post-test after peer instruction, in one uncontrolled pre-post study of first-year osteopathic medical students in a preclinical microbiology session.](pi-improves-short-term-performance-osteopathic-microbiology.md) — related

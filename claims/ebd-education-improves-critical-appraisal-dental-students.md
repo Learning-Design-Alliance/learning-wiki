@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "EBD education significantly improves dental students' critical appraisal performance on a risk-of-bias tool"
-description: "EBD education significantly improves dental students' critical appraisal performance on a risk-of-bias tool"
+title: "Dental students' critical appraisal performance on a risk-of-bias tool rose from pre-test to post-test after EBD education in one uncontrolled pre-post study"
+description: "Dental students' critical appraisal performance on a risk-of-bias tool rose from pre-test to post-test after EBD education in one uncontrolled pre-post study"
 id: ebd-education-improves-critical-appraisal-dental-students
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# EBD education significantly improves dental students' critical appraisal performance on a risk-of-bias tool
+# Dental students' critical appraisal performance on a risk-of-bias tool rose from pre-test to post-test after EBD education in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The percentage of correct answers nearly doubled from 29.2% at baseline to 57.3% after EBD training, a statistically significant improvement. [→ de Mendonça C. I. D. 2026](#de-mendonca-c-i-d-2026)
+`q3 i?` The percentage of correct answers rose from 29.2% at baseline to 57.3% after EBD training, a statistically significant rise in one uncontrolled pre-post study. [→ de Mendonça C. I. D. 2026](#de-mendonca-c-i-d-2026)
 
 ## Evidence
 

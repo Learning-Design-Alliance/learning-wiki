@@ -67,6 +67,6 @@ Table 4 reports category means: messages and meanings rose from M = 5.30 to M = 
 - [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Narrow media production lessons increase students' reported thinking about media literacy concepts in daily life](media-lessons-increase-everyday-concept-thinking.md) — related
+- [Students' self-reported thinking about media literacy concepts in daily life rose from pre-test to post-test after narrow media production lessons, in one uncontrolled pre-post study](media-lessons-increase-everyday-concept-thinking.md) — related
 - [The study's central hypothesis that narrow mediated-message-communication instruction leads to broader media literacy competencies was supported, with stated limits](narrow-instruction-supports-broader-competencies-hypothesis.md) — a broader claim this one bears on
 - [Narrowly focused media production lessons increase university students' perceived media literacy competencies across all four dimensions](narrow-media-lessons-increase-perceived-competencies.md) — related

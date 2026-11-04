@@ -45,7 +45,7 @@ Descriptive thematic analysis of focus group discussions conducted after the pos
 
 
 ## Related Claims
-- [AI-powered simulated patient practice with automated rubric-based feedback improves medical students' headache history-taking OSCE scores](aisp-cortex-improves-headache-osce-scores.md) — related
+- [AI-powered simulated patient practice with automated rubric-based feedback: medical students' headache history-taking OSCE scores rose from pre-test to post-test in a single-group pre-post study](aisp-cortex-improves-headache-osce-scores.md) — related
 - [Focus group interviews identified four user-experience themes: individualized learning, clinical reasoning engagement, educational applicability, and areas for improvement](vega-focus-group-four-themes.md) — related
 - [Thematic analysis identified hands-on practice, contextualization, educator variety, and clinical application as key student-perceived themes](thematic-themes-scenario-feedback.md) — related
 - [Thematic analysis of open-ended responses identified four themes: enhanced skill development and safe learning environment, bridging theory with practice, barriers, and looking ahead](four-themes-sbl-oral-radiology-qualitative.md) — related

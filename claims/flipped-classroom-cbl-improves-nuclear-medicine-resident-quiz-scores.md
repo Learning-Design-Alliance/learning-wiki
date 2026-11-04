@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Flipped classroom combined with case-based learning improves post-course knowledge quiz scores in nuclear medicine residents
-description: Flipped classroom combined with case-based learning improves post-course knowledge quiz scores in nuclear medicine residents
+title: Post-course knowledge quiz scores rose from pre-course to post-course in nuclear medicine residents after a flipped classroom combined with case-based learning, in one uncontrolled pre-post study
+description: Post-course knowledge quiz scores rose from pre-course to post-course in nuclear medicine residents after a flipped classroom combined with case-based learning, in one uncontrolled pre-post study
 id: flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Flipped classroom combined with case-based learning improves post-course knowledge quiz scores in nuclear medicine residents
+# Post-course knowledge quiz scores rose from pre-course to post-course in nuclear medicine residents after a flipped classroom combined with case-based learning, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

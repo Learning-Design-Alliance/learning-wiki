@@ -38,7 +38,7 @@ The authors recommend that "Scenario-based learning method is applicable in the 
 
 ## Claims
 
-- [A scenario-based blended learning environment combined with teaching practice is associated with a statistically significant increase in preservice teachers' attitudes toward the teaching profession](../claims/scenario-blended-learning-positive-teaching-attitudes.md) [+W]
+- [Preservice teachers' self-reported attitudes toward the teaching profession rose significantly from before to after participation in a scenario-based blended learning environment combined with teaching practice, in one uncontrolled pre-post study](../claims/scenario-blended-learning-positive-teaching-attitudes.md) [+W]
 - [Over the course, students proposed more comprehensive and practical solutions to increasingly complex scenarios, as rated by four examiners](../claims/scenario-solutions-improved-over-time.md) [+W]
 - [The share of preservice teachers resolved to perform the teaching profession rose from 81.1% before practice to 86.5% after it](../claims/teaching-intent-rose-81-to-865-percent.md) [+W]
 

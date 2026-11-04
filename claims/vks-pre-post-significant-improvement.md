@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` A paired-sample t-test showed significant improvement (t(99)=-17.021, p<0.05) from pre-test (M=22.8, SD=7.7) to post-test (M=42.7, SD=10.9). [→ Kabooha and Elyas 2018](#kabooha-and-elyas-2018)
+`q3 i?` A paired-sample t-test showed vocabulary recognition and understanding scores rose (t(99)=-17.021, p<0.05) from pre-test (M=22.8, SD=7.7) to post-test (M=42.7, SD=10.9), with the change measured from pre-test to post-test. [→ Kabooha and Elyas 2018](#kabooha-and-elyas-2018)
 
 ## Evidence
 

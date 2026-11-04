@@ -48,5 +48,5 @@ Independent-samples t-tests comparing field-dependent experimental (n=17) and fi
 - [Field-independent learners outperform field-dependent learners in the input flood group on both immediate and delayed collocation post-tests](field-independent-outperform-field-dependent-input-flood.md) — related
 - [Input flood treatment improves EFL learners' collocation knowledge relative to regular instruction in both immediate and delayed post-tests](input-flood-improves-collocation-knowledge-short-and-long-term.md) — reports the opposite
 - [Input flood treatment has a durable long-term effect on field-independent learners' collocation knowledge despite some decay](input-flood-durable-effect-field-independent.md) — related
-- [Input flood treatment has no durable long-term effect on field-dependent learners' collocation knowledge](input-flood-no-durable-effect-field-dependent.md) — possibly the same claim (merge candidate)
+- [Field-dependent learners' collocation knowledge scores were not significantly higher at delayed post-test than at pre-test within the input flood group](input-flood-no-durable-effect-field-dependent.md) — possibly the same claim (merge candidate)
 - [Delayed post-test performance of feedback recipients still exceeds control group post-test performance](wcf-delayed-still-exceeds-control.md) — related

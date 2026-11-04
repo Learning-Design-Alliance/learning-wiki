@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Hybrid simulation with role-playing dramatically improves correct dosage calculation and reconstitution rates in nursing students
-description: Hybrid simulation with role-playing dramatically improves correct dosage calculation and reconstitution rates in nursing students
+title: "Among nursing students, correct dosage calculation and reconstitution rates rose from 1.3% to 93.6% between the first and second hybrid simulation sessions with role-playing, in one uncontrolled pre-post study"
+description: "Among nursing students, correct dosage calculation and reconstitution rates rose from 1.3% to 93.6% between the first and second hybrid simulation sessions with role-playing, in one uncontrolled pre-post study"
 id: hybrid-simulation-improves-dosage-calculation-nursing
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Hybrid simulation with role-playing dramatically improves correct dosage calculation and reconstitution rates in nursing students
+# Among nursing students, correct dosage calculation and reconstitution rates rose from 1.3% to 93.6% between the first and second hybrid simulation sessions with role-playing, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

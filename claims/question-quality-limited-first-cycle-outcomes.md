@@ -50,5 +50,5 @@ Authors' reflection on the first cycle of the action research, where only three 
 - [PDSA testing of instructional routines provided a durable structure for teachers to reflect on and improve instruction over time](pdsa-testing-routines-structure-teacher-reflection.md) — related
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
 - [Simplifying journal articles and providing glossaries of unfamiliar terms preceded the second-cycle improvement in proposal writing](simplification-and-glossary-supported-second-cycle-gains.md) — related
-- [Team-based discovery learning improved EFL students' research proposal writing across two action-research cycles, with cycle-two average score 85.8 above the success criterion](team-based-discovery-learning-improves-research-proposal-writing.md) — related
+- [EFL students' research proposal writing scores rose from pre-test to post-test across two action-research cycles in one uncontrolled pre-post study, with cycle-two average score 85.8 above the success criterion](team-based-discovery-learning-improves-research-proposal-writing.md) — related
 - [GenAI novices develop prompting strategies through trial and error, starting from zero-shot prompts and refining them after unsatisfactory outputs](novices-refine-prompts-trial-and-error.md) — related

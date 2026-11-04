@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "A scenario-based blended learning environment combined with teaching practice is associated with a statistically significant increase in preservice teachers' attitudes toward the teaching profession"
-description: "A scenario-based blended learning environment combined with teaching practice is associated with a statistically significant increase in preservice teachers' attitudes toward the teaching profession"
+title: "Preservice teachers' self-reported attitudes toward the teaching profession rose significantly from before to after participation in a scenario-based blended learning environment combined with teaching practice, in one uncontrolled pre-post study"
+description: "Preservice teachers' self-reported attitudes toward the teaching profession rose significantly from before to after participation in a scenario-based blended learning environment combined with teaching practice, in one uncontrolled pre-post study"
 id: scenario-blended-learning-positive-teaching-attitudes
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# A scenario-based blended learning environment combined with teaching practice is associated with a statistically significant increase in preservice teachers' attitudes toward the teaching profession
+# Preservice teachers' self-reported attitudes toward the teaching profession rose significantly from before to after participation in a scenario-based blended learning environment combined with teaching practice, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

@@ -46,5 +46,5 @@ Simple regression analyses (Table 4) after Pearson correlations of .73 (knowledg
 
 
 ## Related Claims
-- [QDPR significantly improved Indonesian EFL learners' knowledge of the target English phonemes in a one-group pretest-posttest study](qdpr-improved-phoneme-knowledge.md) — related
-- [QDPR significantly improved Indonesian EFL learners' ability to pronounce the target English phonemes](qdpr-improved-pronunciation-ability.md) — related
+- [Indonesian EFL learners' knowledge of the target English phonemes rose significantly from pretest to posttest after QDPR, in one uncontrolled pretest-posttest study](qdpr-improved-phoneme-knowledge.md) — related
+- [Indonesian EFL learners' ability to pronounce the target English phonemes rose significantly from pretest to posttest in a single-group pretest-posttest study of QDPR](qdpr-improved-pronunciation-ability.md) — related

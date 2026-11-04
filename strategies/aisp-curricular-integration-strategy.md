@@ -44,8 +44,8 @@ Based on student recommendations and the study's feasibility findings, the artic
 ## Claims
 
 - [Lower-baseline students show larger OSCE gains after AISP practice, narrowing the performance gap](../claims/aisp-cortex-catch-up-effect-low-performers.md) [+W]
-- [AI-powered simulated patient practice improves clinical reasoning measured by the CRI-HT scale](../claims/aisp-cortex-improves-cri-ht-reasoning.md) [+W]
-- [AI-powered simulated patient practice with automated rubric-based feedback improves medical students' headache history-taking OSCE scores](../claims/aisp-cortex-improves-headache-osce-scores.md) [+W]
+- [CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study](../claims/aisp-cortex-improves-cri-ht-reasoning.md) [+W]
+- [AI-powered simulated patient practice with automated rubric-based feedback: medical students' headache history-taking OSCE scores rose from pre-test to post-test in a single-group pre-post study](../claims/aisp-cortex-improves-headache-osce-scores.md) [+W]
 - [Students rate the AISP chatbot highly usable, with robotic conversational style the most common concern](../claims/aisp-cortex-usability-cuq-findings.md) [+W]
 - [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](../claims/aisp-focus-group-three-themes.md) [+W]
 - [The CRI-HT gain difference between baseline subgroups is not statistically significant](../claims/aisp-cri-ht-subgroup-gain-not-significant.md) [~W]

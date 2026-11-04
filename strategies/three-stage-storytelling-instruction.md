@@ -38,7 +38,7 @@ The article's instructional procedure organizes storybook teaching into three se
 
 ## Claims
 
-- [Storytelling instruction increased English vocabulary test performance among five-year-old Iranian kindergarten children in a one-group pre-test post-test study](../claims/storytelling-improves-kindergarten-english-vocabulary.md) [+W]
+- [English vocabulary test performance rose from pre-test to post-test among five-year-old Iranian kindergarten children in a one-group pre-test post-test study of storytelling instruction](../claims/storytelling-improves-kindergarten-english-vocabulary.md) [+W]
 
 ## Related Strategies
 - 

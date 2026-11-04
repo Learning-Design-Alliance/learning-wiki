@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "QDPR significantly improved Indonesian EFL learners' knowledge of the target English phonemes in a one-group pretest-posttest study"
-description: "QDPR significantly improved Indonesian EFL learners' knowledge of the target English phonemes in a one-group pretest-posttest study"
+title: "Indonesian EFL learners' knowledge of the target English phonemes rose significantly from pretest to posttest after QDPR, in one uncontrolled pretest-posttest study"
+description: "Indonesian EFL learners' knowledge of the target English phonemes rose significantly from pretest to posttest after QDPR, in one uncontrolled pretest-posttest study"
 id: qdpr-improved-phoneme-knowledge
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# QDPR significantly improved Indonesian EFL learners' knowledge of the target English phonemes in a one-group pretest-posttest study
+# Indonesian EFL learners' knowledge of the target English phonemes rose significantly from pretest to posttest after QDPR, in one uncontrolled pretest-posttest study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -50,8 +50,8 @@ Published online 2 December 2017 (Crossref's issued date) in the volume 11(1) is
 
 ## Related Claims
 - [QDPR accounted for 53% of variance in phoneme knowledge and 24% of variance in pronunciation ability in simple regressions](qdpr-regression-contributions-knowledge-ability.md) — related
-- [Common serious mispronunciations of Indonesian learners stem from absent L1 phonemes and different sound categorisation in the L1](l1-absence-and-categorization-cause-mispronunciations.md) — related
+- [Common serious mispronunciations of Indonesian learners were reported alongside absent L1 phonemes and different sound categorisation in the L1](l1-absence-and-categorization-cause-mispronunciations.md) — related
 - [Explicit phonological awareness instruction significantly improved adult Saudi EFL learners' oral reading literacy from pretest to posttest](pa-instruction-improves-adult-arab-efl-literacy-prepost.md) — related
-- [QDPR significantly improved Indonesian EFL learners' ability to pronounce the target English phonemes](qdpr-improved-pronunciation-ability.md) — related
+- [Indonesian EFL learners' ability to pronounce the target English phonemes rose significantly from pretest to posttest in a single-group pretest-posttest study of QDPR](qdpr-improved-pronunciation-ability.md) — related
 - [Indonesian EFL teachers and students perceived segmentals (consonants and vowels) as the top priority for pronunciation teaching, contrary to the suprasegmental trend](segmentals-prioritized-by-indonesian-efl-teachers-students.md) — related
 - [Self-correction improves EFL learners' pronunciation significantly over a semester of narrative tasks](self-correction-improves-efl-pronunciation.md) — related

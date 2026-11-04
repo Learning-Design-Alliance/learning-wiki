@@ -45,8 +45,8 @@ One-group pretest-posttest study (N = 156); time measured by stopwatch from devi
 
 
 ## Related Claims
-- [Simulation-based training with the Snaid® extrication device significantly improves knowledge of device use among military personnel](snaid-simulation-training-improves-knowledge.md) — related
-- [Simulation-based training with the Snaid® extrication device significantly improves checklist-assessed procedural performance across all observed parameters](snaid-simulation-training-improves-procedural-checklist.md) — related
-- [Simulation-based training with the Snaid® extrication device significantly improves ability to teach others, readiness to use the device, and willingness to recommend it](snaid-simulation-training-improves-teach-readiness-recommend.md) — related
+- [Knowledge scores rose significantly from pre-test to post-test among military personnel after simulation-based training with the Snaid® extrication device, in one uncontrolled pre-post study](snaid-simulation-training-improves-knowledge.md) — related
+- [Checklist-assessed procedural performance was higher at post-test than pre-test across all observed parameters in one group with no comparison group after simulation-based training with the Snaid® extrication device](snaid-simulation-training-improves-procedural-checklist.md) — related
+- [Ability to teach others, readiness to use, and willingness to recommend the Snaid® extrication device rose from pre-test to post-test after simulation-based training in one uncontrolled pre-post study](snaid-simulation-training-improves-teach-readiness-recommend.md) — related
 - [Simulation-based training with the Snaid® extrication device significantly improves skill, confidence, and comfort among military personnel](snaid-simulation-training-improves-skill-confidence.md) — related
 - [Simulation-based training with the Snaid® extrication device significantly improves self-efficacy among military personnel](snaid-simulation-training-improves-self-efficacy.md) — related

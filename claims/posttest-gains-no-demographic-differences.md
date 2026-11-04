@@ -45,6 +45,6 @@ T-test and ANOVA analyses of posttest scores across gender, age range, region of
 
 
 ## Related Claims
-- [Movie-based watch-write-talk intervention significantly raises multiculturalism perceptions](movie-intervention-raises-multiculturalism-perceptions.md) — related
+- [Multiculturalism perceptions rose from pre-test to post-test after a movie-based watch-write-talk intervention, in one uncontrolled pre-post study](movie-intervention-raises-multiculturalism-perceptions.md) — related
 - [Pre-intervention multiculturalism perceptions do not differ by gender, age, region of birth, or graduation type](pretest-perceptions-no-demographic-differences.md) — related
 - [Trainee teachers hold high multiculturalism perceptions prior to intervention](trainee-teachers-high-multiculturalism-perceptions-pretest.md) — related

@@ -41,7 +41,7 @@ The article recommends incorporating learners' real-world context meaningfully d
 
 ## Claims
 
-- [CBPSI significantly improved problem solving performance of Grade 10 learners from pre-test to post-test](../claims/cbpsi-improves-problem-solving-performance-grade-10.md) [+W]
+- [Problem solving performance of Grade 10 learners rose significantly from pre-test to post-test after CBPSI, in one uncontrolled pre-post study](../claims/cbpsi-improves-problem-solving-performance-grade-10.md) [+W]
 - [Learners' interview responses indicated schema construction linking novel problems to worked-out examples](../claims/interview-responses-indicate-schema-construction.md) [+W]
 - [Learners in the integrated-format condition experienced fewer cognitive-load challenges than learners in the split-attention condition](../claims/split-attention-integrated-format-fewer-challenges.md) [+W]
 - [Desktop VR with scaffolded interaction and reflective self-explanation reduces extraneous and intrinsic cognitive load compared to traditional instruction](../claims/desktop-vr-scaffolded-self-explanation-cognitive-load.md) [+W]

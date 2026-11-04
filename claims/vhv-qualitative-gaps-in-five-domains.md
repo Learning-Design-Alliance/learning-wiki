@@ -46,6 +46,6 @@ Phase 1 focus group discussions (n = 66; 3 groups of 22) and in-depth interviews
 
 
 ## Related Claims
-- [SMART VHV Plus Model training was associated with a statistically significant competency gain from 86.14% to 98.16% (Cohen's d = 1.96)](smart-vhv-plus-model-significant-competency-gain.md) — related
+- [Competency scores rose significantly from 86.14% to 98.16% after SMART VHV Plus Model training, in one uncontrolled pre-post study (Cohen's d = 1.96)](smart-vhv-plus-model-significant-competency-gain.md) — related
 - [Each nursing role exhibits a distinct competency pattern, with basic computer literacy and data protection common to all five](tiger-2026-role-specific-competency-patterns.md) — related
 - [Intrapersonal and interpersonal competencies are widely represented across curricula whereas organizational-level competencies appear in relatively few studies](mlm-organizational-competencies-underrepresented.md) — related

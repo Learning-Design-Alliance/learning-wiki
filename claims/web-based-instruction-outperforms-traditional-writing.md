@@ -51,4 +51,4 @@ Independent-samples t-test comparing gained writing scores of the 20-learner web
 - [At post-test, the multiple intelligences group significantly outperformed the traditionally instructed control group on the writing test](mi-group-outperformed-control-post-test-writing.md) — related
 - [Sixth-grade EFL students taught through multiple intelligences activities showed a statistically significant pre-test to post-test improvement in essay writing scores](mi-activities-significant-within-group-writing-gain.md) — related
 - [Saudi EFL preparatory students taught through a blended e-learning approach for 8 weeks outperformed a traditionally taught control group on an achievement test](blended-elearning-outperforms-traditional-efl-preparatory.md) — related
-- [MI-based instruction improved overall EFL pre-service teacher speaking performance in a one-group pre-post design](mi-instruction-improves-efl-preservice-speaking-overall.md) — related
+- [Overall EFL pre-service teacher speaking performance rose from pre-test to post-test after MI-based instruction, in one group with no comparison group](mi-instruction-improves-efl-preservice-speaking-overall.md) — related

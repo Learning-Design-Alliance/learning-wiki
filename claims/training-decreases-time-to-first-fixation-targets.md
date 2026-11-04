@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Training decreases students' time to first fixation on targets, indicating faster target acquisition"
-description: "Training decreases students' time to first fixation on targets, indicating faster target acquisition"
+title: "Students' time to first fixation on targets fell from pre-test to post-test after a 3-month training program, in one uncontrolled pre-post study"
+description: "Students' time to first fixation on targets fell from pre-test to post-test after a 3-month training program, in one uncontrolled pre-post study"
 id: training-decreases-time-to-first-fixation-targets
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Training decreases students' time to first fixation on targets, indicating faster target acquisition
+# Students' time to first fixation on targets fell from pre-test to post-test after a 3-month training program, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large

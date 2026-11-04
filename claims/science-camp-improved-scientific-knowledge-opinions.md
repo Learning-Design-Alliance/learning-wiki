@@ -46,5 +46,5 @@ A single-group quasi-experimental pretest-posttest study of 17 boarding-school s
 
 ## Related Claims
 - [Active learning based science camp activities improved students' psychomotor skills towards scientific views on environmental issues](science-camp-improved-psychomotor-skills.md) — related
-- [Active learning based science camp activities did not significantly change primary school students' scientific process skills](science-camp-no-change-scientific-process-skills.md) — related
-- [Active learning based science camp activities increased students' conceptual knowledge of environmental problems](science-camp-increased-environmental-conceptual-knowledge.md) — related
+- [Primary school students' scientific process skills did not significantly change from pre-test to post-test after active learning based science camp activities, in one single-group pre-post study](science-camp-no-change-scientific-process-skills.md) — related
+- [Students' responses on conceptual knowledge of environmental problems shifted toward higher categories and included more explanations from pre-test to post-test after active learning based science camp activities, in one uncontrolled pre-post study](science-camp-increased-environmental-conceptual-knowledge.md) — related

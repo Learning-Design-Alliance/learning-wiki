@@ -45,7 +45,7 @@ Scheff post-hoc multiple comparison across the pre and post tests of both instit
 
 
 ## Related Claims
-- [ANOVA across the total sample favoured post-intervention outcomes of the multimedia programme](anova-favours-post-intervention-multimedia-environmental-outcomes.md) — a broader claim this one bears on
+- [Outcomes across the total sample rose from pre-test to post-test after the multimedia programme, in one pre-post study without a comparison group](anova-favours-post-intervention-multimedia-environmental-outcomes.md) — a broader claim this one bears on
 - [Secondary school students' environmental sustainability achievement scores rose significantly after the multimedia programme](multimedia-raises-school-students-environmental-sustainability-scores.md) — a narrower finding that bears on this claim
 - [University students' environmental sustainability achievement scores rose significantly after the multimedia programme](multimedia-raises-university-students-environmental-sustainability-scores.md) — possibly the same claim (merge candidate)
 - [No significant difference in achievement was found between school and university students after the programme](no-significant-difference-school-university-achievement-multimedia.md) — related

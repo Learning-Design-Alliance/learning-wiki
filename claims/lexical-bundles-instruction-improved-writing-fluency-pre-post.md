@@ -52,5 +52,5 @@ Paired-sample t-test on the experimental group's pretest and posttest scores in 
 - [The fluency gain's cause is unresolved: it may reflect lexical bundles instruction or simply more paragraph writing practice](lexical-bundles-gain-confound-writing-practice.md) — related
 - [Experimental group outperformed control group on paragraph writing fluency at posttest](lexical-bundles-posttest-group-difference.md) — related
 - [Processing instruction significantly improves Iranian EFL learners' writing ability from pre-test to post-test](pi-significant-pre-post-writing-gain-iranian-efl.md) — related
-- [Blended learning instruction significantly improved Iranian EFL learners' correct use of resumptive pronouns in writing from pretest to posttest](blended-learning-improves-resumptive-pronoun-writing.md) — related
+- [Iranian EFL learners' correct use of resumptive pronouns in writing rose from pretest to posttest in the blended learning group](blended-learning-improves-resumptive-pronoun-writing.md) — related
 - [Lexical chunks instruction significantly improved the speaking fluency of Iranian EFL intermediate learners compared with a control group](lexical-chunks-instruction-improves-efl-speaking-fluency.md) — related

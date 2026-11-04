@@ -147,8 +147,8 @@ Accuracy of judgement, on-task behaviour, immediate task performance, delayed re
 ## Claims
 
 - [More frequent practice-test participation predicts higher absolute accuracy of item-specific judgments in the final exam, regardless of feedback](../claims/practice-tests-improve-absolute-judgment-accuracy.md) [~W]
-- [Self-scoring improves primary students' monitoring accuracy on math problem-solving tasks to near-accurate levels](../claims/self-scoring-improves-monitoring-accuracy-math.md) [+W]
-- [Self-scoring improves regulation accuracy for the whole sample, but not significantly for low- and high-performing students on division tasks](../claims/self-scoring-regulation-accuracy-limited-division.md) [~W]
+- [Primary students' monitoring accuracy on math problem-solving tasks rose from pre-test to post-test after self-scoring and was near accurate in one single-group pre-post study](../claims/self-scoring-improves-monitoring-accuracy-math.md) [+W]
+- [Regulation accuracy rose from pre-test to post-test after self-scoring for the whole sample, but not significantly for low- and high-performing students on division tasks, in one single-group pre-post study](../claims/self-scoring-regulation-accuracy-limited-division.md) [~W]
 - [The Monitoring Exercise protected against overconfidence in the second exam score prediction but did not affect exam scores](../claims/monitoring-exercise-reduced-overconfidence-only.md) [~W]
 - [Teaching cognitive strategies is associated with more accurate self-monitoring, while metacognitive strategy instruction shows no relation](../claims/cognitive-strategy-instruction-better-self-monitoring.md) [~W]
 - [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](../claims/gender-difference-monitoring-judgments-health-math.md) [~W]

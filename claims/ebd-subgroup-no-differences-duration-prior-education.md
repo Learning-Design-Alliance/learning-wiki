@@ -64,6 +64,6 @@ Subgroup analysis of students' self-reported prior EBD education found no signif
 
 
 ## Related Claims
-- [EBD education significantly improves dental students' critical appraisal performance on a risk-of-bias tool](ebd-education-improves-critical-appraisal-dental-students.md) — related
+- [Dental students' critical appraisal performance on a risk-of-bias tool rose from pre-test to post-test after EBD education in one uncontrolled pre-post study](ebd-education-improves-critical-appraisal-dental-students.md) — related
 - [Tier 2 dosage and scheduling findings are mixed: more frequent kindergarten sessions helped, but first-grade studies found no outcome differences across 16-hour and 32-hour schedules](tier2-dosage-scheduling-mixed-findings.md) — related
 - [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — possibly the same claim (merge candidate)

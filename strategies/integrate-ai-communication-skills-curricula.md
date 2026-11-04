@@ -40,7 +40,7 @@ The authors recommend that digital communication competencies receive systematic
 ## Claims
 
 - [A blended learning course combining H5P online modules with face-to-face standardized patient training was feasible and acceptable for medical students](../claims/blended-learning-communication-course-feasibility-pilot.md) [+W]
-- [Students reported the lowest baseline confidence in digital innovation competencies, which showed the strongest subjective learning gains](../claims/lowest-baseline-strongest-gains-digital-competencies.md) [+W]
+- [Students' confidence ratings in digital innovation competencies were lowest at pre-test and rose the most from pre-test to post-test in one group with no comparison group](../claims/lowest-baseline-strongest-gains-digital-competencies.md) [+W]
 - [In the OSCE, the intervention group outperformed the control group most clearly in AI tool counselling and appropriate closing, contributing substantially to a two-point total difference](../claims/osce-largest-differences-ai-counselling-closing.md) [+W]
 - [Pre-post self-assessments showed increases across all assessed competence domains, with larger gains for managing digital innovations than narrative communication](../claims/prepost-gains-larger-digital-than-narrative.md) [+W]
 

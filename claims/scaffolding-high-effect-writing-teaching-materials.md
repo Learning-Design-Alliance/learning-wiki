@@ -46,8 +46,8 @@ Quasi-experimental comparison of experimental vs. control class post-test scores
 
 ## Related Claims
 - [Experimental class significantly outperformed control class in ability to write physics teaching materials on both topics](kruskal-wallis-significant-writing-difference.md) — related
-- [Multiple representation ability improved with mixed gains: medium for waves and optics (d = 0.97) and low for electromagnetism (d = 0.80)](multiple-representation-mixed-gains-by-topic.md) — related
+- [Multiple representation ability scores rose from pre-test to post-test in one group, with mixed gains: medium for waves and optics (d = 0.97) and low for electromagnetism (d = 0.80)](multiple-representation-mixed-gains-by-topic.md) — related
 - [Scaffolding produced a medium-effect improvement in pre-service teachers' conceptual understanding of electromagnetism and waves and optics](scaffolding-medium-effect-conceptual-understanding.md) — related
-- [Translation among modes of representation improved with low normalized gains and large effect sizes on both topics](translation-among-modes-low-gain-large-effect.md) — related
+- [Scores for translation among modes of representation rose from pre-test to post-test, with low normalized gains and large effect sizes on both topics, in one uncontrolled pre-post study](translation-among-modes-low-gain-large-effect.md) — related
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
 - [GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks](gbsri-improves-thai-undergraduate-writing-scores.md) — related

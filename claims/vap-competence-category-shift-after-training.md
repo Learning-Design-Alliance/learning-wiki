@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Training shifted ICU nurses from low/moderate to high knowledge-based competence categories in VAP prevention
-description: Training shifted ICU nurses from low/moderate to high knowledge-based competence categories in VAP prevention
+title: Among ICU nurses, the proportion classified as high knowledge-based competence rose from pre-test to post-test after training, in one single-group pre-post study of VAP prevention
+description: Among ICU nurses, the proportion classified as high knowledge-based competence rose from pre-test to post-test after training, in one single-group pre-post study of VAP prevention
 id: vap-competence-category-shift-after-training
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Training shifted ICU nurses from low/moderate to high knowledge-based competence categories in VAP prevention
+# Among ICU nurses, the proportion classified as high knowledge-based competence rose from pre-test to post-test after training, in one single-group pre-post study of VAP prevention
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

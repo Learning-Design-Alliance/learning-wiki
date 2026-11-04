@@ -47,4 +47,4 @@ Paired samples t test (Table 3) on the complete sample of 400 participants: M = 
 ## Related Claims
 - [Access Program students improved by about 24 points on the diagnostic test over one year](access-students-significant-prepost-gain.md) — related
 - [Control-group students also improved significantly from pre-test to post-test under the 2018 Turkish Course Curriculum, gaining about 9 points](control-group-curriculum-gain.md) — related
-- [Public school students improved by only about 8 points over the same year](public-schools-smaller-prepost-gain.md) — related
+- [Public school students' scores rose by only about 8 points from pre-test to post-test over the same year within the public-school group](public-schools-smaller-prepost-gain.md) — related

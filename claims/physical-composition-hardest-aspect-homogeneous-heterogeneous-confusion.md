@@ -65,7 +65,7 @@ Analysis of written justifications on the pretest: 15 of 19 participants misclas
 
 
 ## Related Claims
-- [A multiple-representations instruction significantly increased preservice chemistry teachers' scientifically appropriate classifications of particulate drawings from pretest to posttest](multiple-representations-instruction-increased-appropriate-classifications.md) — a broader claim this one bears on
-- [Improvements in classifying the chemical composition of matter were not durable: some participants reverted to their initial inappropriate classifications 17 months later](chemical-composition-gains-not-durable.md) — related
+- [Preservice chemistry teachers' scientifically appropriate classifications of particulate drawings rose significantly from pretest to posttest after multiple-representations instruction, in one uncontrolled pre-post study](multiple-representations-instruction-increased-appropriate-classifications.md) — a broader claim this one bears on
+- [In one uncontrolled pre-post study, inappropriate classifications of the chemical composition of matter rose from n=2 at posttest to n=13 at delayed posttest 17 months later](chemical-composition-gains-not-durable.md) — related
 - [The instruction was most effective for the physical states of matter, shifting justifications from macroscopic to submicroscopic evidence](physical-states-aspect-most-improved-submicroscopic-justifications.md) — related
 - [Particle-concept understanding does not affect gains at the macroscopic or symbolic levels of changing states of matter](no-effect-macroscopic-symbolic-levels.md) — related

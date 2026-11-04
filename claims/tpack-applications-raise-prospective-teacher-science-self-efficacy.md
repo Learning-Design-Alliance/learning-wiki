@@ -49,7 +49,7 @@ Quasi-experimental pretest-posttest control-group study of 65 third-year prospec
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
-- [The current-curriculum instruction in the control group produced no significant change in prospective teachers' self-efficacy across pretest, posttest and follow-up](current-curriculum-no-self-efficacy-change.md) — related
+- [Within the control group receiving current-curriculum instruction, prospective teachers' self-reported self-efficacy showed no significant change from pretest to posttest and follow-up](current-curriculum-no-self-efficacy-change.md) — related
 - [Before the intervention, the experimental and control groups did not differ significantly in self-efficacy toward science education](pretest-equivalence-self-efficacy-groups.md) — related
 - [The self-efficacy advantage of TPACK-based applications persists three months after the course ends](tpack-self-efficacy-gain-persists-three-months.md) — related
 - [After an SDT-driven redesign of a two-day teacher workshop (one cohort of 26, no control group), self-reported AI-TPACK (d = 0.70), IPACK (d = 0.86) and AI attitude (d = 0.58) rose significantly from pre to post](sdt-driven-redesign-capacity-willingness-gains.md) — related

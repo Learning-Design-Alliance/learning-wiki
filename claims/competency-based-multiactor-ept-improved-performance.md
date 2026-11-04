@@ -47,6 +47,6 @@ Pre–post educational intervention study without control group (Scott et al. 20
 ## Related Claims
 - [Immersive virtual reality disaster training improved emergency nurses' preparedness and self-efficacy with short-term retention](immersive-vr-training-improved-preparedness-self-efficacy.md) — related
 - [NTS training for emergency department professionals is associated with consistent pre- to post-training improvements in knowledge, teamwork attitudes, and self-confidence (low to moderate certainty).](nts-training-improves-ed-learning-outcomes.md) — related
-- [An active shooter simulation with mass casualty triage improved nursing students' preparedness and triaging skills](active-shooter-simulation-improved-preparedness-triage.md) — related
+- [Nursing students' preparedness and triaging skills scores rose from pre-test to post-test after an active shooter simulation with mass casualty triage, in a one-group pre–post study](active-shooter-simulation-improved-preparedness-triage.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [Self-reported preparedness and familiarity rose by an average of 75% from before to after peer-led SMA clinical outcome assessment workshops among 79 Canadian clinical evaluators, in an uncontrolled pre-post survey](sma-coa-workshops-75-percent-preparedness-increase.md) — related

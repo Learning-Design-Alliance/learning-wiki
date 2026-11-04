@@ -1,7 +1,7 @@
 ---
 type: claim
-title: AI-powered simulated patient practice improves clinical reasoning measured by the CRI-HT scale
-description: AI-powered simulated patient practice improves clinical reasoning measured by the CRI-HT scale
+title: CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study
+description: CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study
 id: aisp-cortex-improves-cri-ht-reasoning
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# AI-powered simulated patient practice improves clinical reasoning measured by the CRI-HT scale
+# CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
@@ -45,7 +45,7 @@ In the same single-group pre-post study, the CRI-HT scale, which evaluates the r
 
 
 ## Related Claims
-- [AI-powered simulated patient practice with automated rubric-based feedback improves medical students' headache history-taking OSCE scores](aisp-cortex-improves-headache-osce-scores.md) — related
+- [AI-powered simulated patient practice with automated rubric-based feedback: medical students' headache history-taking OSCE scores rose from pre-test to post-test in a single-group pre-post study](aisp-cortex-improves-headache-osce-scores.md) — related
 - [Lower-baseline students show larger OSCE gains after AISP practice, narrowing the performance gap](aisp-cortex-catch-up-effect-low-performers.md) — related
 - [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — related
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — a broader claim this one bears on

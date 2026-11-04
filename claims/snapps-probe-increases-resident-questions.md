@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Probing the preceptor showed one of the largest behavioural changes, with residents actively asking questions after SNAPPS
-description: Probing the preceptor showed one of the largest behavioural changes, with residents actively asking questions after SNAPPS
+title: "Residents' probing-question scores rose from 3 to 4 from before to after SNAPPS, in one uncontrolled pre-post study"
+description: "Residents' probing-question scores rose from 3 to 4 from before to after SNAPPS, in one uncontrolled pre-post study"
 id: snapps-probe-increases-resident-questions
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Probing the preceptor showed one of the largest behavioural changes, with residents actively asking questions after SNAPPS
+# Residents' probing-question scores rose from 3 to 4 from before to after SNAPPS, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -46,7 +46,7 @@ Qualitative checklist-component result from the same cohort; the article reports
 
 ## Related Claims
 - [SNAPPS checklist scores improved for all six components, with self-directed learning lowest (median 1 to 2)](snapps-checklist-scores-improved-all-components.md) — related
-- [SNAPPS-based case presentation improves post-test MCQ scores across all three pathology residency years](snapps-improves-mcq-scores-pathology-residents.md) — related
+- [Post-test MCQ scores rose from pre-test to post-test across all three pathology residency years in one single-group pre-post study of SNAPPS-based case presentation](snapps-improves-mcq-scores-pathology-residents.md) — related
 - [SNAPPS outperformed the one-minute preceptor and both outperformed traditional clinical teaching for clinical reasoning skill](snapps-superior-one-minute-preceptor-traditional-teaching.md) — related
 - [SNAPPS is reported as superior to the One-Minute Preceptor model in enhancing clinical reasoning](snapps-superior-omp-clinical-reasoning.md) — related
 - [Supporting evidence is unevenly distributed across the eight clinical teaching models, with OMP and SNAPPS the most extensively studied](omp-snapps-most-studied.md) — a broader claim this one bears on

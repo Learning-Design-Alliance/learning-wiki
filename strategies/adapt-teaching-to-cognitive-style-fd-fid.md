@@ -45,7 +45,7 @@ The article recommends that teachers learn their students' cognitive style of fi
 - [Field-independent learners in the input flood group outperform field-independent control learners on both post-tests](../claims/field-independent-input-flood-vs-control.md) [+W]
 - [Field-independent learners outperform field-dependent learners in the input flood group on both immediate and delayed collocation post-tests](../claims/field-independent-outperform-field-dependent-input-flood.md) [+W]
 - [Input flood treatment has a durable long-term effect on field-independent learners' collocation knowledge despite some decay](../claims/input-flood-durable-effect-field-independent.md) [+W]
-- [Input flood treatment has no durable long-term effect on field-dependent learners' collocation knowledge](../claims/input-flood-no-durable-effect-field-dependent.md) [+W]
+- [Field-dependent learners' collocation knowledge scores were not significantly higher at delayed post-test than at pre-test within the input flood group](../claims/input-flood-no-durable-effect-field-dependent.md) [+W]
 - [Cooperative learning benefited all three cognitive style groups equally in mathematics, with no interaction between methodology and cognitive style](../claims/cooperative-learning-math-equivalent-across-cognitive-styles.md) [~W]
 - [In language, a significant methodology-by-cognitive-style interaction emerged, apparently favoring field independent students](../claims/language-posttest-style-interaction-favors-field-independent.md) [+W]
 

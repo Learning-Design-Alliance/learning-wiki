@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Consultant paediatric surgeons showed a significant overall reduction in operative time after a 12-week porcine-model laparoscopic training programme
-description: Consultant paediatric surgeons showed a significant overall reduction in operative time after a 12-week porcine-model laparoscopic training programme
+title: Among consultant paediatric surgeons, operative time fell significantly from before to after a 12-week porcine-model laparoscopic training programme in one uncontrolled pre-post study
+description: Among consultant paediatric surgeons, operative time fell significantly from before to after a 12-week porcine-model laparoscopic training programme in one uncontrolled pre-post study
 id: porcine-model-training-reduces-operative-time-consultants
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# Consultant paediatric surgeons showed a significant overall reduction in operative time after a 12-week porcine-model laparoscopic training programme
+# Among consultant paediatric surgeons, operative time fell significantly from before to after a 12-week porcine-model laparoscopic training programme in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

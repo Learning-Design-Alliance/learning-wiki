@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students reported the lowest baseline confidence in digital innovation competencies, which showed the strongest subjective learning gains
-description: Students reported the lowest baseline confidence in digital innovation competencies, which showed the strongest subjective learning gains
+title: "Students' confidence ratings in digital innovation competencies were lowest at pre-test and rose the most from pre-test to post-test in one group with no comparison group"
+description: "Students' confidence ratings in digital innovation competencies were lowest at pre-test and rose the most from pre-test to post-test in one group with no comparison group"
 id: lowest-baseline-strongest-gains-digital-competencies
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Students reported the lowest baseline confidence in digital innovation competencies, which showed the strongest subjective learning gains
+# Students' confidence ratings in digital innovation competencies were lowest at pre-test and rose the most from pre-test to post-test in one group with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

@@ -46,7 +46,7 @@ Dependent t-test within the asymmetrical group (n=28), pre-test mean 25.0357 to 
 
 
 ## Related Claims
-- [Symmetrical scaffolding significantly improved EFL learners' reading comprehension scores](symmetrical-scaffolding-improves-reading-comprehension.md) — related
+- [EFL learners' reading comprehension scores rose significantly from pre-test to post-test after symmetrical scaffolding, in one uncontrolled pre-post study](symmetrical-scaffolding-improves-reading-comprehension.md) — related
 - [Asymmetrical scaffolding produced higher EFL reading comprehension post-test scores than symmetrical scaffolding](asymmetrical-scaffolding-outperforms-symmetrical-reading-comprehension.md) — related
 - [Explicit reading strategy instruction produced a statistically significant pre-to-post gain in reading comprehension for Ethiopian EFL university students](strategy-instruction-significant-prepost-gain-efl.md) — related
 - [The video-instructed experimental group improved significantly from pre-test to post-test](experimental-group-significant-pre-post-reading-gain.md) — related

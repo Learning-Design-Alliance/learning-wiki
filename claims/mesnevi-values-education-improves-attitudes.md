@@ -45,5 +45,5 @@ Pretest-posttest control group experiment with 31 students per group at one prim
 
 
 ## Related Claims
-- [A 12-week newspapers-in-science-teaching program significantly improved sixth graders' attitudes toward science](newspapers-in-education-improved-attitude-toward-science.md) — related
+- [Sixth graders' self-rated attitudes toward science rose from pre-test to post-test after a 12-week newspapers-in-science-teaching program, in one uncontrolled pre-post study](newspapers-in-education-improved-attitude-toward-science.md) — related
 - [Values-education activities significantly improved 4th-grade students' attitudes toward being healthy compared to regular instruction](values-activities-improve-healthy-attitudes.md) — related

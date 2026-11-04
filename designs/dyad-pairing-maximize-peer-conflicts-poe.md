@@ -44,7 +44,7 @@ In this design pattern, students are assigned to dyads to work on simulation-bas
 - [Peer Conflicts Conditional On Reflection](../claims/peer-conflicts-conditional-on-reflection.md) [+M]
 - [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](../claims/cscl-simulation-conceptual-change-cognitive-engagement.md) [+W]
 - [Alternative conceptions in force and motion were very difficult to change: of 14 students, 6 showed substantial conceptual change, 1 some change, and 7 no change](../claims/force-motion-conceptions-difficult-to-change.md) [+W]
-- [High joint on-task engagement with high equality and mutuality of engagement did not necessarily mean cognitive engagement or ensure conceptual change](../claims/high-equality-mutuality-not-sufficient-conceptual-change.md) [~W]
+- [In one single-group pre-post study, dyads with high joint on-task engagement and high equality and mutuality of engagement included one student who showed substantial conceptual change and another who showed none](../claims/high-equality-mutuality-not-sufficient-conceptual-change.md) [~W]
 - [Co-construction of shared understanding needed to be accompanied by students' personal construction and sense making for conceptual change to be stable over time](../claims/personal-construction-required-stable-conceptual-change.md) [~W]
 
 ## Related Patterns

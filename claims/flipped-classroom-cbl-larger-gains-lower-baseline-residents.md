@@ -46,6 +46,6 @@ Subgroup analysis of residents at or below the pre-test median (9.5 points) in t
 
 ## Related Claims
 - [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](flipped-classroom-cbl-improves-concept-and-application-questions.md) — related
-- [Flipped classroom combined with case-based learning improves post-course knowledge quiz scores in nuclear medicine residents](flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) — related
+- [Post-course knowledge quiz scores rose from pre-course to post-course in nuclear medicine residents after a flipped classroom combined with case-based learning, in one uncontrolled pre-post study](flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) — related
 - [Parents-only nudge effects on learning were larger and positive for children with below-median baseline skills](parents-only-nudge-larger-gains-low-baseline-children.md) — related
 - [Double-dose algebra improved algebra test scores for targeted students just below the cutoff, with a larger post-policy gain than for students just above the cutoff](double-dose-algebra-test-score-gains-targeted-students.md) — related

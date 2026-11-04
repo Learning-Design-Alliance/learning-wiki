@@ -40,7 +40,7 @@ Structured Reviewing is a direct vocabulary learning strategy in which learners 
 ## Claims
 
 - [Direct vocabulary learning strategies (Structured Reviewing and Using Mechanical Techniques) significantly improve vocabulary acquisition of pre-intermediate EFL learners](../claims/direct-strategies-improve-vocabulary-acquisition-pre-intermediate.md) [+W]
-- [The effect size for the direct strategies group's pre-post improvement was large (η2 = 0.11)](../claims/direct-strategies-large-effect-size-eta-011.md) [+W]
+- [The direct strategies group's pre-test to post-test difference in means was large (η2 = 0.11), measured within that group](../claims/direct-strategies-large-effect-size-eta-011.md) [+W]
 - [The direct strategies group outperformed the indirect strategies group on vocabulary acquisition at pre-intermediate level](../claims/direct-group-outperformed-indirect-group-vocabulary.md) [+W]
 
 ## Related Strategies

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "An active shooter simulation with mass casualty triage improved nursing students' preparedness and triaging skills"
-description: "An active shooter simulation with mass casualty triage improved nursing students' preparedness and triaging skills"
+title: "Nursing students' preparedness and triaging skills scores rose from pre-test to post-test after an active shooter simulation with mass casualty triage, in a one-group pre–post study"
+description: "Nursing students' preparedness and triaging skills scores rose from pre-test to post-test after an active shooter simulation with mass casualty triage, in a one-group pre–post study"
 id: active-shooter-simulation-improved-preparedness-triage
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# An active shooter simulation with mass casualty triage improved nursing students' preparedness and triaging skills
+# Nursing students' preparedness and triaging skills scores rose from pre-test to post-test after an active shooter simulation with mass casualty triage, in a one-group pre–post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In a quasi-experimental pre–post one-group study of 88 senior-level baccalaureate nursing students, a high-fidelity active shooter simulation with mass casualty triage improved post-intervention scores across most domains, with correct responses on ASE knowledge increasing from 57% to 74% and small-to-medium effect sizes observed. [→ Delbene Lara 2026](#delbene-lara-2026)
+`q2 i?` In a quasi-experimental pre–post one-group study of 88 senior-level baccalaureate nursing students, scores across most domains rose from pre-test to post-test after a high-fidelity active shooter simulation with mass casualty triage; correct responses on ASE knowledge rose from 57% to 74%, and small-to-medium effect sizes were observed. [→ Delbene Lara 2026](#delbene-lara-2026)
 
 ## Evidence
 

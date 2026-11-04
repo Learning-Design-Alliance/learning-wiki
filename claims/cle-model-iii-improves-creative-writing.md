@@ -46,6 +46,6 @@ In the same one-group repeated-measures study (n = 43), creative writing scores 
 
 ## Related Claims
 - [A replicated grade-11 study of CLE model III used a one-experimental-group time-series design with MANOVA repeated measures, reporting significant development in reading and creative writing at the .001 level](cle-model-3-grade-11-time-series.md) — possibly the same claim (merge candidate)
-- [CLE Model III instruction significantly improves English reading ability in eleventh-grade Thai students](cle-model-iii-improves-reading-ability.md) — related
+- [English reading ability scores rose significantly from pre-test to post-test in one uncontrolled pre-post study of eleventh-grade Thai students after CLE Model III instruction](cle-model-iii-improves-reading-ability.md) — related
 - [Students report significantly higher satisfaction after learning through CLE Model III](cle-model-iii-increases-student-satisfaction.md) — related
 - [A meta-analysis of 76 CLE research studies found students taught with CLE models 1-3 in Thai and English achieved at much higher percentages than traditionally taught students, with printed effect sizes from d = 0.60 to d = 8.55](cle-meta-analysis-large-effects-thai-english.md) — a broader claim this one bears on

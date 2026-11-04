@@ -47,12 +47,12 @@ A quasi-experimental post-hoc study of 758 faculty, staff and administrators (65
 
 
 ## Related Claims
-- [Self-reported gatekeeper behaviors (identifying, approaching, and referring distressed student veterans) trended upward after training but did not reach statistical significance on the composite measure.](voc-training-gatekeeper-behavior-trend.md) — related
-- [Game-based virtual-human role-play training significantly increases faculty self-efficacy and behavioral intent to support student veterans, with sustained gains at 3-month follow-up.](voc-training-increases-gatekeeper-self-efficacy-likelihood.md) — related
-- [Game-based virtual-human role-play training significantly increases faculty military cultural competency, with sustained gains at 3-month follow-up.](voc-training-increases-military-cultural-competency.md) — related
+- [Gatekeeper behaviors (identifying, approaching, and referring distressed student veterans) trended upward from before to after training, but did not reach statistical significance on the composite measure, in one uncontrolled pre-post study.](voc-training-gatekeeper-behavior-trend.md) — related
+- [Faculty self-rated self-efficacy and behavioral intent to support student veterans rose from pretraining to posttraining and 3-month follow-up in one uncontrolled pre-post study of game-based virtual-human role-play training.](voc-training-increases-gatekeeper-self-efficacy-likelihood.md) — related
+- [Faculty military cultural competency scores rose from pretraining to posttraining and remained higher at 3-month follow-up after game-based virtual-human role-play training, in one uncontrolled pre-post study.](voc-training-increases-military-cultural-competency.md) — related
 - [Over one third of participants reported increased conversations with colleagues about student veterans they were concerned about, suggesting potential institutional-level culture change.](voc-training-increases-collegial-conversations.md) — related
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related
 - [Digital interventions show sustained improvements in performance and retention, with confidence and diagnostic ability remaining elevated four months post-intervention in some studies](digital-learning-knowledge-retention-four-months.md) — a broader claim this one bears on
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
-- [Neither exam format meaningfully changed students' self-perceived preparedness for the upcoming summative exam](no-change-self-perceived-preparedness.md) — related
+- [Students' self-rated preparedness for the upcoming summative exam did not meaningfully change from pre-test to post-test within the exam-format groups](no-change-self-perceived-preparedness.md) — related
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related

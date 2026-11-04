@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i3` A significant increase was found for the far transfer total score (r = 0.53), while no significant improvement was observed for the near transfer total score (r = 0.30, p = 0.19). [→ Li Zhien 2026](#li-zhien-2026)
+`q2 i3` Far transfer total scores rose significantly from pre-test to post-test (r = 0.53), while near transfer total scores did not change significantly from pre-test to post-test (r = 0.30, p = 0.19), in one group with no comparison group. [→ Li Zhien 2026](#li-zhien-2026)
 
 ## Evidence
 
@@ -50,4 +50,4 @@ Wilcoxon signed-rank comparison of pre- and post-intervention total scores (n = 
 - [Test-score increases occurred only for identical and near-transfer problems; no increases were found for far-transfer problems in any of the three conditions](germane-load-gains-limited-to-identical-and-near-transfer-problems.md) — reports the opposite
 - [After controlling for highest level completed, students in the self-explanation condition scored higher on near-transfer post-test items than students in the explanatory feedback condition](self-explanation-advantage-near-transfer-controlling-levels.md) — related
 - [Initial patient impressions improved significantly for far transfer (r = 0.73) but not for near transfer (p = 0.12)](initial-impressions-far-transfer-gain.md) — related
-- [Tumour-stage reasoning improved significantly for both near transfer (r = 0.75) and far transfer (r = 0.78)](tumour-stage-reasoning-gains-near-far-transfer.md) — related
+- [Tumour-stage reasoning scores rose significantly from pre-test to post-test for both near transfer (r = 0.75) and far transfer (r = 0.78), in one uncontrolled pre-post study](tumour-stage-reasoning-gains-near-far-transfer.md) — related

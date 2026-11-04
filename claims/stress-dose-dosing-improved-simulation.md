@@ -46,8 +46,8 @@ Item-level McNemar analysis in Table 1; the article reports stress-dose dosing a
 
 ## Related Claims
 - [Recognition of first-line adrenal crisis treatment improved from 80.0% to 100%](first-line-treatment-recognition-improved.md) — related
-- [Hybrid simulation with role-playing dramatically improves correct dosage calculation and reconstitution rates in nursing students](hybrid-simulation-improves-dosage-calculation-nursing.md) — related
-- [Outpatient sick-day management showed the largest knowledge gap at baseline and the greatest post-simulation gain](sick-day-management-largest-gap-gain.md) — related
+- [Among nursing students, correct dosage calculation and reconstitution rates rose from 1.3% to 93.6% between the first and second hybrid simulation sessions with role-playing, in one uncontrolled pre-post study](hybrid-simulation-improves-dosage-calculation-nursing.md) — related
+- [Outpatient sick-day management showed the largest baseline knowledge gap and the greatest observed pre-test-to-post-test rise in correct responses, from 2.9% to 85.3%, in one group with no comparison group](sick-day-management-largest-gap-gain.md) — related
 - [A single simulation-based intervention with structured debriefing improved immediate adrenal crisis knowledge among pediatric residents](simulation-debriefing-improved-adrenal-crisis-knowledge.md) — a broader claim this one bears on
 - [Self-confidence gains from single-session simulation are often temporary, suggesting a dose–response effect](simulation-confidence-dose-response.md) — related
 - [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](flipped-classroom-cbl-improves-concept-and-application-questions.md) — related

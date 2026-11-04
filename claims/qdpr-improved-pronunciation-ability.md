@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "QDPR significantly improved Indonesian EFL learners' ability to pronounce the target English phonemes"
-description: "QDPR significantly improved Indonesian EFL learners' ability to pronounce the target English phonemes"
+title: "Indonesian EFL learners' ability to pronounce the target English phonemes rose significantly from pretest to posttest in a single-group pretest-posttest study of QDPR"
+description: "Indonesian EFL learners' ability to pronounce the target English phonemes rose significantly from pretest to posttest in a single-group pretest-posttest study of QDPR"
 id: qdpr-improved-pronunciation-ability
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# QDPR significantly improved Indonesian EFL learners' ability to pronounce the target English phonemes
+# Indonesian EFL learners' ability to pronounce the target English phonemes rose significantly from pretest to posttest in a single-group pretest-posttest study of QDPR
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -45,8 +45,8 @@ Oral reading test: participants read aloud a 405-word passage; two senior EFL le
 
 
 ## Related Claims
-- [QDPR significantly improved Indonesian EFL learners' knowledge of the target English phonemes in a one-group pretest-posttest study](qdpr-improved-phoneme-knowledge.md) — related
+- [Indonesian EFL learners' knowledge of the target English phonemes rose significantly from pretest to posttest after QDPR, in one uncontrolled pretest-posttest study](qdpr-improved-phoneme-knowledge.md) — related
 - [QDPR accounted for 53% of variance in phoneme knowledge and 24% of variance in pronunciation ability in simple regressions](qdpr-regression-contributions-knowledge-ability.md) — related
-- [Common serious mispronunciations of Indonesian learners stem from absent L1 phonemes and different sound categorisation in the L1](l1-absence-and-categorization-cause-mispronunciations.md) — related
+- [Common serious mispronunciations of Indonesian learners were reported alongside absent L1 phonemes and different sound categorisation in the L1](l1-absence-and-categorization-cause-mispronunciations.md) — related
 - [Indonesian EFL teachers and students perceived segmentals (consonants and vowels) as the top priority for pronunciation teaching, contrary to the suprasegmental trend](segmentals-prioritized-by-indonesian-efl-teachers-students.md) — related
 - [Theta /theta/ sounds were pronounced more accurately than eth /eth/ sounds across all tests](theta-more-accurate-than-eth.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Computation competence showed substantial class-specific differential development during the group-based intervention, with ICC rising from 3% at pretest to 25% at posttest"
-description: "Computation competence showed substantial class-specific differential development during the group-based intervention, with ICC rising from 3% at pretest to 25% at posttest"
+title: "Computation competence showed substantial class-specific differential development, with ICC rising from 3% at pretest to 25% at posttest within the measured group"
+description: "Computation competence showed substantial class-specific differential development, with ICC rising from 3% at pretest to 25% at posttest within the measured group"
 id: class-specific-differential-development-icc
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 2
 ---
 
-# Computation competence showed substantial class-specific differential development during the group-based intervention, with ICC rising from 3% at pretest to 25% at posttest
+# Computation competence showed substantial class-specific differential development, with ICC rising from 3% at pretest to 25% at posttest within the measured group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The intraclass correlation of computation scores was 3% at pretest, 25% at posttest, and 13% at follow-up, suggesting substantial class-specific differential development during the intervention. [→ Opitz et al. 2018](#opitz-et-al-2018)
+`q3 i?` The intraclass correlation of computation scores rose from 3% at pretest to 25% at posttest within the measured group and was 13% at follow-up. [→ Opitz et al. 2018](#opitz-et-al-2018)
 
 ## Evidence
 

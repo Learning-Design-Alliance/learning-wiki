@@ -45,7 +45,7 @@ Paired-samples t tests on eight PGY1 residents' objective measures (Table 1); on
 
 
 ## Related Claims
-- [Orthopaedic interns with year-long at-home access to low-cost skills modules significantly improved OSATS Global Rating Scores across all five modules from beginning to end of the academic year](low-cost-modules-improve-pgy1-osats-longitudinal.md) — a broader claim this one bears on
+- [Orthopaedic interns' OSATS Global Rating Scores rose significantly across all five modules from the beginning to the end of the academic year in a within-group pre-test/post-test comparison after year-long at-home access to low-cost skills modules](low-cost-modules-improve-pgy1-osats-longitudinal.md) — a broader claim this one bears on
 - [Module access was associated with greater task efficiency in drill plunge, depth gauge, and angled drilling versus controls, with no significant accuracy differences between groups](module-access-efficiency-not-accuracy-gains.md) — related
 - [End-of-year PGY1 residents with module access scored significantly better GRS than a control class at the same training level without module access, across all modules](module-access-end-of-year-outperformed-control.md) — related
 - [Self-reported confidence with module skills did not differ significantly within the PGY1 cohort over the year or between end-of-year PGY1 and control residents](self-confidence-no-significant-difference-modules.md) — related

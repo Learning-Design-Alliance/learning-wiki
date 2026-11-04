@@ -52,7 +52,7 @@ Quasi-experiment with pre-test/post-test control group design; 18 prospective te
 - [Graphical calculator instruction produces significantly higher post-test performance in linear functions than traditional lecture method among Ghanaian SHS students](graphical-calculator-instruction-higher-linear-function-posttest.md) — related
 - [POGIL instruction produces significantly higher posttest problem solving skills than traditional lecture among preservice elementary teachers](pogil-raises-posttest-problem-solving-preservice-elementary-teachers.md) — related
 - [Across all four measured HOTS skills, the experimental group's posttest means exceeded the control group's, and pretest-posttest values were significantly linear](experiment-group-higher-means-all-skills.md) — related
-- [CBPSI significantly improved problem solving performance of Grade 10 learners from pre-test to post-test](cbpsi-improves-problem-solving-performance-grade-10.md) — related
+- [Problem solving performance of Grade 10 learners rose significantly from pre-test to post-test after CBPSI, in one uncontrolled pre-post study](cbpsi-improves-problem-solving-performance-grade-10.md) — related
 - [Reflective learning produces significantly higher mean gains in conceptual understanding than lecture-discussion among prospective teachers](reflective-learning-higher-conceptual-understanding-gains.md) — related
 - [Reflective learning produces significantly higher mean gains in problem solving than lecture-discussion](reflective-learning-higher-problem-solving-gains.md) — related
 - [Students receiving a computational thinking intervention significantly outperform control students on intervened mathematics topics in primary school](ct-intervention-improves-intervened-math-topics.md) — related

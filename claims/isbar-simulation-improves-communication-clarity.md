@@ -49,7 +49,7 @@ A single-group pretest-posttest study of 57 nursing students in an obstetric sim
 - [Improvement in communication clarity after ISBAR simulation teaching was broad, with the greatest gains in the situation domain](isbar-clarity-gains-broad-situation-domain-largest.md) — related
 - [Students report that ISBAR provides a cognitive scaffold for organized handover expression](isbar-cognitive-scaffold-organized-expression.md) — related
 - [Students achieved high and consistent OSCE handover performance across antenatal and postpartum stations after the intervention](isbar-osce-high-consistent-performance.md) — related
-- [ISBAR-structured handover simulation teaching significantly improves nursing students' handover confidence](isbar-simulation-improves-handover-confidence.md) — related
+- [Nursing students' self-rated handover confidence scores rose from pre-test to post-test after ISBAR-structured handover simulation teaching, in one uncontrolled pre-post study](isbar-simulation-improves-handover-confidence.md) — related
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](sbar-structured-communication-in-simulation.md) — a broader claim this one bears on
 - [In situ simulated emergency training does not significantly improve clinical communication in junior nurses](in-situ-set-no-effect-clinical-communication.md) — related
 - [Simulation-based CARE handover training produces a large increase in nurses' perceived handover competency from pretest to posttest](simulation-care-training-increases-perceived-handover-competency.md) — related

@@ -81,7 +81,7 @@ Post-hoc comparison following the ANCOVA on post-test AT scores in the quasi-exp
 - [Differentiated instruction strategies produced a statistically significant post-test difference in overall English achievement favoring the experimental group over the one-size-fits-all control group](di-significant-posttest-difference-jordan-grade8.md) — related
 - [Groups were equivalent at pre-test but differed significantly at post-test](video-podcast-pretest-equivalent-posttest-difference.md) — related
 - [Bonferroni-corrected posttest means favored the blended group (16.45 vs 12.90) after controlling for pretest performance](bonferroni-corrected-means-blended-vs-traditional.md) — a narrower finding that bears on this claim
-- [CBPSI significantly improved problem solving performance of Grade 10 learners from pre-test to post-test](cbpsi-improves-problem-solving-performance-grade-10.md) — related
+- [Problem solving performance of Grade 10 learners rose significantly from pre-test to post-test after CBPSI, in one uncontrolled pre-post study](cbpsi-improves-problem-solving-performance-grade-10.md) — related
 - [ANCOVA adjusting for pre-test scores showed a significant group effect favouring the peer instruction group on post-test comprehension](ancova-group-effect-peer-instruction-posttest.md) — related
 - [CoBl students showed greater learning achievement than traditional-instruction control students (p = .001)](cobl-beats-traditional-achievement.md) — a narrower finding that bears on this claim
 - [High prior readiness was not required for achievement gains with learning objects, contrary to earlier findings](los-gains-not-limited-to-high-readiness-students.md) — related

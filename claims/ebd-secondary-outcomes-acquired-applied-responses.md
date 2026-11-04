@@ -45,6 +45,6 @@ Qualitative analysis of response types in relation to educational content at pos
 
 
 ## Related Claims
-- [EBD education significantly improves dental students' critical appraisal performance on a risk-of-bias tool](ebd-education-improves-critical-appraisal-dental-students.md) — related
+- [Dental students' critical appraisal performance on a risk-of-bias tool rose from pre-test to post-test after EBD education in one uncontrolled pre-post study](ebd-education-improves-critical-appraisal-dental-students.md) — related
 - [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related
 - [Intra-student agreement between baseline and post-training responses is low, suggesting answers reflect learning rather than consistency](intra-student-agreement-low-t0-t1.md) — related

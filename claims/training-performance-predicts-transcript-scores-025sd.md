@@ -48,5 +48,5 @@ Mixed-effects analysis of 86 tutors' lesson scores against LLM-scored real-life 
 ## Related Claims
 - [Repeated opportunities to apply tutor moves did not by themselves improve execution: opportunity count, lesson completion, and their interaction showed no significant effects on successful execution](opportunity-count-no-effect-execution.md) — related
 - [Interrupted time series analysis found tutor quality improved gradually over time (β=0.01, p=.022) with no immediate level change or slope change at the training intervention](its-gradual-trend-not-intervention-effect.md) — related
-- [After training, tutors were significantly more likely to encounter pedagogical opportunities (61.1% to 68.9%) and showed higher execution quality within those opportunities (65.5% to 68.1%)](post-training-opportunity-and-execution-gains.md) — related
+- [In one uncontrolled pre-post study, tutors' probability of encountering pedagogical opportunities rose from 61.1% pre-training to 68.9% post-training, and execution quality within those opportunities rose from 65.5% to 68.1%](post-training-opportunity-and-execution-gains.md) — related
 - [Performance during the virtual pipetting lesson predicts real-life transfer test performance](in-lesson-performance-predicts-real-life-transfer.md) — possibly the same claim (merge candidate)

@@ -41,7 +41,7 @@ The five-week intervention taught 10 FSs per week through presentation of meanin
 
 ## Claims
 
-- [Lower-proficiency learners caught up with higher-proficiency peers on FS test performance after explicit instruction.](../claims/explicit-fs-instruction-benefits-lower-proficiency-learners.md) [+W]
+- [The mean FS test score gap between lower- and higher-proficiency learners narrowed from pre-test to post-test and delayed post-test after explicit instruction, in one uncontrolled pre-post study.](../claims/explicit-fs-instruction-benefits-lower-proficiency-learners.md) [+W]
 - [Explicit instruction on academic formulaic sequences significantly improved EFL college learners' FS test performance from pretest to posttest.](../claims/explicit-fs-instruction-improves-fs-test-performance.md) [+W]
 - [Explicit FS instruction increased learners' spontaneous use of taught FSs in writing, with 60% of taught FSs appearing in participants' writing.](../claims/explicit-fs-instruction-increases-spontaneous-fs-use.md) [+W]
 - [Participants perceived explicit FS instruction as effective, rating it 4.1 out of 5.0 overall.](../claims/positive-perceptions-explicit-fs-instruction.md) [+W]

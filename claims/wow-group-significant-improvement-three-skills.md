@@ -47,5 +47,5 @@ Paired samples t-tests with Wilcoxon confirmation on WOW pre/post scores: writin
 ## Related Claims
 - [No practice-and-drill software group (RS, TMM, MEM) significantly outperformed the reference group (WOW) on high-stakes English test performance](no-practice-drill-software-outperformed-reference-group.md) — related
 - [Both groups started with similar pre-test skill levels, with visibly low listening and speaking performance](a2-groups-similar-low-pretest-listening-speaking.md) — related
-- [All four software groups significantly improved writing scores over the 15-week semester](all-groups-significantly-improved-writing.md) — related
+- [All four software groups showed significant rises in writing scores from pretest to posttest over the 15-week semester in an uncontrolled pre-post study](all-groups-significantly-improved-writing.md) — related
 - [Teaching vocabulary through TMM software produced significantly higher post-test vocabulary scores than conventional instruction in Iranian intermediate EFL learners](tmm-call-outperforms-conventional-vocabulary-instruction.md) — related

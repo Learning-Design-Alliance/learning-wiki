@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The clarifying goals and values dimension of clinical decision-making shows the largest improvement after Jeffries-framework simulation
-description: The clarifying goals and values dimension of clinical decision-making shows the largest improvement after Jeffries-framework simulation
+title: The clarifying goals and values dimension of clinical decision-making rose from pre-test to post-test after Jeffries-framework simulation, with the largest gain in one group with no comparison group
+description: The clarifying goals and values dimension of clinical decision-making rose from pre-test to post-test after Jeffries-framework simulation, with the largest gain in one group with no comparison group
 id: jeffries-simulation-clarifying-goals-values-largest-cdmns-gain
 status: review
 generated:
@@ -17,14 +17,14 @@ sources:
     rigour: 1
 ---
 
-# The clarifying goals and values dimension of clinical decision-making shows the largest improvement after Jeffries-framework simulation
+# The clarifying goals and values dimension of clinical decision-making rose from pre-test to post-test after Jeffries-framework simulation, with the largest gain in one group with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 > **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i3` The 'clarifying goals and values' CDMNS subscale improved significantly (mean difference 2.53 ± 2.28, Cohen's d = 1.04, p < 0.001), the largest dimension-level gain. [→ Luo Wenjing 2026](#luo-wenjing-2026)
+`q3 i3` The 'clarifying goals and values' CDMNS subscale rose significantly from pre-test to post-test after Jeffries-framework simulation (mean difference 2.53 ± 2.28, Cohen's d = 1.04, p < 0.001), the largest dimension-level gain, in one group with no comparison group. [→ Luo Wenjing 2026](#luo-wenjing-2026)
 
 ## Evidence
 
@@ -43,5 +43,5 @@ CDMNS subscale result from Table 3 of the same study (n = 60): the clarifying go
 
 ## Related Claims
 - [Clinical decision-making scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) — a broader claim this one bears on
-- [Improvements after Jeffries-framework simulation vary across competence dimensions, with no significant change in professional development](jeffries-simulation-dimension-specific-competence-changes.md) — related
+- [Competence dimension scores varied in their pre-test-to-post-test changes after Jeffries-framework simulation, with no significant change in professional development, in one single-group pre-post study](jeffries-simulation-dimension-specific-competence-changes.md) — related
 - [New graduate paediatric surgery nurses show lowest baseline proficiency in critical thinking and research skills](new-graduate-paediatric-nurses-lowest-baseline-critical-thinking.md) — related

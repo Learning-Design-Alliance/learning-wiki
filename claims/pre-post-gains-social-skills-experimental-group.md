@@ -50,4 +50,4 @@ Within the experimental group (n = 3), Wilcoxon signed-rank tests on the SSS soc
 
 ## Related Claims
 - [Teacher training in natural communication strategies and social stories improved social skills of students with autism versus control](teacher-training-natural-communication-social-stories-improved-social-skills-autism.md) — related
-- [Social skills gains were maintained at follow-up, with no significant post-to-follow-up differences](social-skills-gains-maintained-follow-up.md) — related
+- [Social skills scores did not change from post-test to follow-up in the experimental group, with no statistically significant post-to-follow-up differences](social-skills-gains-maintained-follow-up.md) — related

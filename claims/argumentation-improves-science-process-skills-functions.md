@@ -46,4 +46,4 @@ Quasi-experimental pretest-posttest control group study with 30 experiment and 3
 
 ## Related Claims
 - [Argumentation-based teaching of Functions yields more positive attitudes toward mathematics than traditional teaching](argumentation-improves-maths-attitude-functions.md) — related
-- [Participating in argumentation-based lessons increases students' willingness for argumentation](argumentation-increases-willingness-for-argumentation.md) — related
+- [Students' Argumentation Willingness Scale scores rose from pretest to posttest within the experiment group after argumentation-based lessons](argumentation-increases-willingness-for-argumentation.md) — related

@@ -51,5 +51,5 @@ ANCOVA comparing posttest ELSS scores of the experimental group (n=44) and contr
 - [Explicit strategy instruction increased memory strategy use in EFL college learners, though not overall strategy use.](strategy-instruction-increases-memory-strategy-use.md) — related
 - [Learning-style based reading activities produce higher English self-efficacy than traditional reading activities in EFL freshmen classes](learning-style-activities-improve-english-self-efficacy.md) — related
 - [The experimental group's anxiety control changed significantly from pre- to post-treatment while the control group's did not](anxiety-control-change-within-groups.md) — related
-- [Explicit strategy instruction strengthened the correlation between language learning strategy use and English self-efficacy.](strategy-instruction-strengthens-strategy-self-efficacy-correlation.md) — related
+- [The correlation between language learning strategy use and English self-efficacy was larger after explicit strategy instruction than before in one uncontrolled pre-post study.](strategy-instruction-strengthens-strategy-self-efficacy-correlation.md) — related
 - [Physical activity did not increase and was unrelated to self-efficacy changes](no-physical-activity-increase-despite-efficacy-gains.md) — related

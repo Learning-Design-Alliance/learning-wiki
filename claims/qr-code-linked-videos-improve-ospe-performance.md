@@ -1,7 +1,7 @@
 ---
 type: claim
-title: QR-code-linked demonstration videos significantly improve OSPE performance in pharmacology students
-description: QR-code-linked demonstration videos significantly improve OSPE performance in pharmacology students
+title: OSPE scores rose from pre-test to post-test after access to QR-code-linked demonstration videos, in pharmacology students in one uncontrolled pre-post study
+description: OSPE scores rose from pre-test to post-test after access to QR-code-linked demonstration videos, in pharmacology students in one uncontrolled pre-post study
 id: qr-code-linked-videos-improve-ospe-performance
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# QR-code-linked demonstration videos significantly improve OSPE performance in pharmacology students
+# OSPE scores rose from pre-test to post-test after access to QR-code-linked demonstration videos, in pharmacology students in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -47,6 +47,6 @@ Prospective pretest–posttest study of 2nd-year MBBS students; paired t-test co
 
 ## Related Claims
 - [Blended learning with demonstration videos provides deeper understanding of pharmacology subject matter](blended-videos-deeper-understanding-pharmacology.md) — related
-- [Students report QR-code-linked demonstration videos improve comprehension and confidence in OSPE techniques](students-report-videos-improve-ospe-comprehension.md) — related
+- [Students reported greater comprehension and confidence in OSPE techniques after using QR-code-linked demonstration videos](students-report-videos-improve-ospe-comprehension.md) — related
 - [Students prefer learning via demonstration videos and recommend them for future batches](students-prefer-and-recommend-demonstration-videos.md) — related
 - [Novice secondary students show large pretest-to-posttest gains in learning and near transfer of probability calculation after studying a video modeling example, regardless of model or observer gender](video-modeling-examples-large-gains-probability-novices.md) — related

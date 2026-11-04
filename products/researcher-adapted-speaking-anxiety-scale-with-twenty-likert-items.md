@@ -22,7 +22,7 @@ A 20-item, five-point Likert self-report instrument adapted and administered by 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Self-regulated strategy instruction significantly reduced speaking anxiety of Egyptian EFL university students](../claims/srl-strategy-instruction-reduced-speaking-anxiety.md) [+W]
+- [Speaking anxiety scores decreased significantly from pretest to posttest after self-regulated strategy instruction, in one group of Egyptian EFL university students with no comparison group](../claims/srl-strategy-instruction-reduced-speaking-anxiety.md) [+W]
 
 ## Related Products and Programmes
 -

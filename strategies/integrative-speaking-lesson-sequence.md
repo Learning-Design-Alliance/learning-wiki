@@ -41,7 +41,7 @@ The article describes a concrete implementation sequence for integrative teachin
 
 ## Claims
 
-- [Integrative teaching techniques improve German speaking-skill learning outcomes in a single-group quasi-experiment](../claims/integrative-techniques-improve-german-speaking-outcomes.md) [+W]
+- [German speaking-skill learning outcomes rose from pre-test to post-test after integrative teaching techniques in a single-group pre-post study with no comparison group](../claims/integrative-techniques-improve-german-speaking-outcomes.md) [+W]
 - [The author attributes the speaking gains to increased enthusiasm, openness and reduced boredom under integrative teaching](../claims/integrative-teaching-motivation-interpretation.md) [+W]
 
 ## Related Strategies

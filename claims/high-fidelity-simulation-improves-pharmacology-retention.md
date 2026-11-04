@@ -51,4 +51,4 @@ Randomized controlled trial of 90 fifth-year Italian medical students (30 per gr
 - [The review reports that high-fidelity simulation outperformed case-based discussion for clinical reasoning and leadership in paediatric emergencies](hfs-superior-case-based-discussion-reasoning.md) — related
 - [Simulation-based education improves medical students' biomedical science skills and shortens the learning curve](simulation-improves-biomedical-skills-learning-curve.md) — a broader claim this one bears on
 - [High-fidelity simulation yields higher stoma care skill scores than low-fidelity static models](hfs-3d-printer-moulage-higher-stoma-skills.md) — related
-- [Theoretical pharmacology knowledge improves after simulation training except for the right patient domain](simulation-improves-pharmacology-knowledge-except-right-patient.md) — related
+- [Theoretical pharmacology knowledge scores rose from pre-test to post-test after simulation training, except for the right patient domain, in one uncontrolled pre-post study](simulation-improves-pharmacology-knowledge-except-right-patient.md) — related

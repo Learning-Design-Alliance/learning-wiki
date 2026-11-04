@@ -45,5 +45,5 @@ Authors' comparative interpretation in the Conclusion, contrasting the blended l
 
 
 ## Related Claims
-- [Blended learning instruction significantly improved Iranian EFL learners' correct use of resumptive pronouns in writing from pretest to posttest](blended-learning-improves-resumptive-pronoun-writing.md) — related
+- [Iranian EFL learners' correct use of resumptive pronouns in writing rose from pretest to posttest in the blended learning group](blended-learning-improves-resumptive-pronoun-writing.md) — related
 - [Task-based language teaching with pre-writing planning significantly improved Iranian EFL learners' correct use of resumptive pronouns in writing from pretest to posttest](tblt-improves-resumptive-pronoun-writing.md) — related

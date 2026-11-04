@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A one-day simulation-based bronchoscopy workshop significantly improves knowledge of bronchoscopy among non-physician critical care staff
-description: A one-day simulation-based bronchoscopy workshop significantly improves knowledge of bronchoscopy among non-physician critical care staff
+title: Knowledge of bronchoscopy rose among non-physician critical care staff from pre-test to post-test after a one-day simulation-based workshop in one uncontrolled pre-post study
+description: Knowledge of bronchoscopy rose among non-physician critical care staff from pre-test to post-test after a one-day simulation-based workshop in one uncontrolled pre-post study
 id: one-day-bronchoscopy-workshop-nonmd-knowledge-gains
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# A one-day simulation-based bronchoscopy workshop significantly improves knowledge of bronchoscopy among non-physician critical care staff
+# Knowledge of bronchoscopy rose among non-physician critical care staff from pre-test to post-test after a one-day simulation-based workshop in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Non-MDs improved from 54.2% pre-training to 86.2% post-training, a 32-point gain (P <0.001). [→ Jayakrishnan B 2026](#jayakrishnan-b-2026)
+`q3 i?` In one uncontrolled pre-post study, Non-MDs' correct-response scores rose from 54.2% pre-training to 86.2% post-training, a 32-point gain (P <0.001). [→ Jayakrishnan B 2026](#jayakrishnan-b-2026)
 
 ## Evidence
 
@@ -45,7 +45,7 @@ Pre-test/post-test analysis of 15 non-MDs (respiratory therapists and nurses) us
 
 
 ## Related Claims
-- [A one-day simulation-based bronchoscopy workshop significantly improves knowledge of bronchoscopy among medical doctors in critical care](one-day-bronchoscopy-workshop-md-knowledge-gains.md) — related
+- [Among medical doctors in critical care, average bronchoscopy-knowledge scores rose from pre-test to post-test after a one-day simulation-based workshop, in one uncontrolled pre-post study](one-day-bronchoscopy-workshop-md-knowledge-gains.md) — related
 - [Knowledge gains from the workshop were largest in sampling and critical care domains for both professional groups](bronchoscopy-workshop-domain-specific-gains.md) — related
 - [Participants were highly satisfied with the workshop and all would recommend it to colleagues](bronchoscopy-workshop-high-satisfaction.md) — related
 - [Delegates who stayed for extra practice all successfully navigated the bronchoscope to specified bronchopulmonary segments](bronchoscopy-workshop-informal-skill-assessment.md) — related

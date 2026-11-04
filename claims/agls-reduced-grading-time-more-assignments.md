@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Implementing the AGLS automated grader reduced grading time and allowed the instructor to require twelve assignments instead of five
-description: Implementing the AGLS automated grader reduced grading time and allowed the instructor to require twelve assignments instead of five
+title: "In one course section with no comparison group, the instructor's grading time fell from before to after AGLS implementation, and the instructor required twelve assignments instead of five."
+description: "In one course section with no comparison group, the instructor's grading time fell from before to after AGLS implementation, and the instructor required twelve assignments instead of five."
 id: agls-reduced-grading-time-more-assignments
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Implementing the AGLS automated grader reduced grading time and allowed the instructor to require twelve assignments instead of five
+# In one course section with no comparison group, the instructor's grading time fell from before to after AGLS implementation, and the instructor required twelve assignments instead of five.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

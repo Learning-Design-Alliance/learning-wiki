@@ -69,6 +69,6 @@ One-way ANOVA of post-treatment attitude scores across the four groups (between-
 - [Using infographics as instructional materials in 10th-grade geography lessons raises academic achievement post-test scores relative to usual materials](infographics-raise-geography-achievement.md) — related
 - [Before treatment, the experimental and control groups were equivalent on both achievement and attitude](pretest-equivalence-achievement-attitude.md) — related
 - [Reciprocal teaching produced significantly more favourable attitudes towards Islamic culture than the traditional method](reciprocal-teaching-attitudes-islamic-culture.md) — related
-- [EFL students' attitudes toward team teaching improve significantly after experiencing it in reading comprehension lessons](team-teaching-improves-student-attitudes.md) — related
+- [EFL students' attitudes toward team teaching rose significantly from pre-test to post-test after experiencing it in reading comprehension lessons, measured within the experimental group](team-teaching-improves-student-attitudes.md) — related
 - [MI-based instruction significantly improved students' attitudes toward learning English relative to traditional instruction](mi-instruction-improves-attitude-toward-english.md) — related
 - [Analogical instruction had almost no effect on students' attitudes towards physics](analogical-instruction-no-attitude-effect.md) — related

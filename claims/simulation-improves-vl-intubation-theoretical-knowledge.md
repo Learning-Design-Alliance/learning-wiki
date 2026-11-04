@@ -45,7 +45,7 @@ Pre-post evaluative study of 32 ED residents in Tunis; paired theoretical questi
 
 
 ## Related Claims
-- [Simulation training significantly improved residents' theoretical knowledge of shoulder dystocia management](simulation-improved-theoretical-knowledge-shoulder-dystocia.md) — a narrower finding that bears on this claim
+- [Residents' theoretical knowledge scores for shoulder dystocia management rose from pre-test to post-test after simulation training, in a single-group pre-post study](simulation-improved-theoretical-knowledge-shoulder-dystocia.md) — a narrower finding that bears on this claim
 - [Just-in-time e-learning boosters immediately before procedures improved neonatal intubation knowledge and some performance measures](jit-elearning-booster-improves-intubation-knowledge-performance.md) — related
-- [Videolaryngoscopy enables shared visualisation between instructor and learner, supporting immediate corrections during intubation training](vl-shared-view-supports-instructor-feedback.md) — related
-- [Theoretical training alone improves patient-education knowledge in all three student groups](theoretical-training-improves-knowledge-all-groups.md) — related
+- [The source described shared visualisation between instructor and learner and immediate corrections during videolaryngoscopy intubation training](vl-shared-view-supports-instructor-feedback.md) — related
+- [Patient-education knowledge scores rose from pre-test to post-test in all three student groups after theoretical training alone, in a pre-post study with no comparison group](theoretical-training-improves-knowledge-all-groups.md) — related

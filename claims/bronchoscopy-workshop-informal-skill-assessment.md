@@ -47,4 +47,4 @@ Informal skill assessment of a self-selected subgroup of 15 delegates who remain
 ## Related Claims
 - [Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group](animations-pacify-learners-navigation-imbalance.md) — related
 - [Learner flow control over animations is rarely used, and the authors report no correlation between its use and knowledge-test results although the printed Spearman r is 0.464](flow-control-unused-no-learning-correlation.md) — related
-- [A one-day simulation-based bronchoscopy workshop significantly improves knowledge of bronchoscopy among non-physician critical care staff](one-day-bronchoscopy-workshop-nonmd-knowledge-gains.md) — related
+- [Knowledge of bronchoscopy rose among non-physician critical care staff from pre-test to post-test after a one-day simulation-based workshop in one uncontrolled pre-post study](one-day-bronchoscopy-workshop-nonmd-knowledge-gains.md) — related

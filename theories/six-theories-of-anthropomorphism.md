@@ -40,7 +40,7 @@ The article reviews six accounts of anthropomorphism, defined as "the tendency t
 - [A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](../claims/anthropomorphism-benefits-vary-by-context.md) [+W]
 - [Students' teleologic explanations and anthropomorphic languages correlate with age and are associated with curricular undertaking](../claims/teleologic-anthropomorphic-language-related-to-age-and-curriculum.md) [+W]
 - [Classroom pedagogical interventions significantly reduce teleologic and anthropomorphic language, with curricular exposure but not age as a significant factor](../claims/interventions-reduce-teleologic-anthropomorphic-language-curriculum-not-age.md) [+W]
-- [Anthropomorphic explanations of 15 abstract physics concepts differ significantly before and after classroom pedagogical interventions](../claims/anthropomorphic-explanations-corrected-by-pedagogical-interventions.md) [+W]
+- [Anthropomorphic explanations of 15 abstract physics concepts differed significantly from pre-test to post-test in one group with no comparison group](../claims/anthropomorphic-explanations-corrected-by-pedagogical-interventions.md) [+W]
 
 ## Related Theories
 

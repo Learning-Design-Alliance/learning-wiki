@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Post-test production improved for Type 2 and Type 3 conditionals but decreased by almost 5% for Type 1 sentences"
-description: "Post-test production improved for Type 2 and Type 3 conditionals but decreased by almost 5% for Type 1 sentences"
+title: "In one uncontrolled pre-post study, production rose from pre-test to post-test for Type 2 and Type 3 conditionals but fell by almost 5% for Type 1 sentences"
+description: "In one uncontrolled pre-post study, production rose from pre-test to post-test for Type 2 and Type 3 conditionals but fell by almost 5% for Type 1 sentences"
 id: type1-production-decreased-posttest
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Post-test production improved for Type 2 and Type 3 conditionals but decreased by almost 5% for Type 1 sentences
+# In one uncontrolled pre-post study, production rose from pre-test to post-test for Type 2 and Type 3 conditionals but fell by almost 5% for Type 1 sentences
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Correct production of pitch patterns improved for Type 2 and Type 3 If-conditionals in the post-test, while Type 1 correct production fell by almost 5%. [→ Topal 2018](#topal-2018)
+`q2 i?` Correct production of pitch patterns rose from pre-test to post-test for Type 2 and Type 3 If-conditionals, while Type 1 correct production fell by almost 5% from pre-test to post-test, in one uncontrolled pre-post study. [→ Topal 2018](#topal-2018)
 
 ## Evidence
 
@@ -45,5 +45,5 @@ Descriptive analysis by conditional type (Table 6) of the 61 participants' oral 
 
 
 ## Related Claims
-- [A six-hour remedial training session significantly improved participants' recognition of If-clause pitch patterns (p < .05)](remedial-training-improves-pitch-recognition.md) — related
-- [The remedial training did not significantly improve participants' production of If-clause pitch patterns (p = .094)](remedial-training-production-not-significant.md) — related
+- [In one single-group pre-post study, participants' recognition scores for If-clause pitch patterns rose from pre-test to post-test after a six-hour remedial training session (p < .05)](remedial-training-improves-pitch-recognition.md) — related
+- [Participants' oral production scores for If-clause pitch patterns rose from pre-test to post-test after remedial training, in one uncontrolled pre-post study (p = .094)](remedial-training-production-not-significant.md) — related

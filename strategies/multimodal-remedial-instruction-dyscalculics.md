@@ -38,7 +38,7 @@ The article recommends differentiated remedial instruction for dyscalculic learn
 
 ## Claims
 
-- [Remedial instruction significantly enhanced the mathematical ability of dyscalculic primary students in a single-group study](../claims/remedial-instruction-enhances-mathematical-ability-dyscalculics.md) [+W]
+- [Among dyscalculic primary students, mathematical ability test scores rose significantly from pre-test to post-test after remedial instruction in a single-group study](../claims/remedial-instruction-enhances-mathematical-ability-dyscalculics.md) [+W]
 
 ## Related Strategies
 

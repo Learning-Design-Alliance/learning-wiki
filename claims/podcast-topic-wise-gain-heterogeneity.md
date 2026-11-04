@@ -45,7 +45,7 @@ Exploratory topic-wise paired analyses (Table 5), 10 items per topic, Holm-adjus
 
 
 ## Related Claims
-- [AI-generated revision podcasts produce statistically significant immediate learning gains in medical students at both study centres](ai-revision-podcasts-immediate-learning-gains-medical-students.md) — related
+- [Medical students' MCQ scores rose significantly from pre-test to immediate post-test at both study centres after AI-generated revision podcasts, in a one-group pre-post study](ai-revision-podcasts-immediate-learning-gains-medical-students.md) — related
 - [Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers](podcast-design-barriers-pauses-voice-monotony.md) — related
 - [Retention trajectories diverged by centre: Centre 1 retained gains at 30 days while Centre 2 showed significant post-to-delayed decay](podcast-retention-divergence-massed-vs-distributed.md) — related
 - [Podcast gains extend beyond recall to higher-order application and analysis items at both centres](podcast-gains-higher-order-domains.md) — related

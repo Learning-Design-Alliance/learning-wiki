@@ -49,6 +49,6 @@ Follow-up analysis on a subsample of 25 low-ability children (training group n=1
 - [Number Sense](../learner-variables/number-sense.md) — outcome: instruction changes it
 
 ## Related Claims
-- [All three groups (cooperative learning, individual learning, and control) improved significantly in early numeracy from pre-test to post-test over 12 weeks](all-groups-significant-pre-post-numeracy-gain-middle-income-kindergarteners.md) — a broader claim this one bears on
-- [Both low-ability training and low-ability control children improved significantly in early numeracy from pre-test to post-test](low-ability-children-both-groups-significant-pre-post-gains.md) — related
+- [Early numeracy scores rose significantly from pre-test to post-test over 12 weeks in the cooperative learning, individual learning, and control groups, with changes measured within each group](all-groups-significant-pre-post-numeracy-gain-middle-income-kindergarteners.md) — a broader claim this one bears on
+- [Early numeracy scores rose significantly from pre-test to post-test in both the low-ability training and low-ability control groups, with change measured within each group](low-ability-children-both-groups-significant-pre-post-gains.md) — related
 - [Participants entered the study with very poor skills, at least 1 SD below the mean on every measure and 2 SD below on receptive vocabulary, phonological awareness, and fluency](struggling-adult-reader-skill-profile.md) — related

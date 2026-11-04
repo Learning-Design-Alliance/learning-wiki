@@ -45,7 +45,7 @@ Quasi-experimental one-group pretest–posttest study (Noh et al. 2020, South Ko
 
 
 ## Related Claims
-- [An active shooter simulation with mass casualty triage improved nursing students' preparedness and triaging skills](active-shooter-simulation-improved-preparedness-triage.md) — related
+- [Nursing students' preparedness and triaging skills scores rose from pre-test to post-test after an active shooter simulation with mass casualty triage, in a one-group pre–post study](active-shooter-simulation-improved-preparedness-triage.md) — related
 - [A hospital disaster management skill training program improved nurse educators' knowledge, skills, attitudes, and behavior](hdm-skill-training-improved-nurse-educators.md) — related
 - [Immersive virtual reality disaster training improved emergency nurses' preparedness and self-efficacy with short-term retention](immersive-vr-training-improved-preparedness-self-efficacy.md) — related
 - [Simulated education and training improved nursing students' disaster evacuation knowledge, skills, and preparedness across all subcategories](simulated-education-improved-evacuation-competencies.md) — related

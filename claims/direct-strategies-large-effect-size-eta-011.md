@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "The effect size for the direct strategies group's pre-post improvement was large (η2 = 0.11)"
-description: "The effect size for the direct strategies group's pre-post improvement was large (η2 = 0.11)"
+title: "The direct strategies group's pre-test to post-test difference in means was large (η2 = 0.11), measured within that group"
+description: "The direct strategies group's pre-test to post-test difference in means was large (η2 = 0.11), measured within that group"
 id: direct-strategies-large-effect-size-eta-011
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# The effect size for the direct strategies group's pre-post improvement was large (η2 = 0.11)
+# The direct strategies group's pre-test to post-test difference in means was large (η2 = 0.11), measured within that group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium

@@ -50,5 +50,5 @@ One-group pretest–posttest study of 21 first-year prosthodontics graduate stud
 - [The largest improvements in teaching competence dimensions were in teaching content and logical structure.](ai-training-largest-gains-content-and-structure.md) — a narrower finding that bears on this claim
 - [Students reported high perceived usefulness of AI for teaching preparation and classroom performance.](students-rate-ai-usefulness-highly.md) — a narrower finding that bears on this claim
 - [A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes](pd-masterclass-24-percent-ai-competence-gain.md) — related
-- [Improvements after Jeffries-framework simulation vary across competence dimensions, with no significant change in professional development](jeffries-simulation-dimension-specific-competence-changes.md) — related
+- [Competence dimension scores varied in their pre-test-to-post-test changes after Jeffries-framework simulation, with no significant change in professional development, in one single-group pre-post study](jeffries-simulation-dimension-specific-competence-changes.md) — related
 - [New graduate paediatric surgery nurses show lowest baseline proficiency in critical thinking and research skills](new-graduate-paediatric-nurses-lowest-baseline-critical-thinking.md) — related

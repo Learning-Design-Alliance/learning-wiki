@@ -41,8 +41,8 @@ The article suggests the training intervention using the Snaid® extrication dev
 
 ## Claims
 
-- [Simulation-based training with the Snaid® extrication device significantly improves knowledge of device use among military personnel](../claims/snaid-simulation-training-improves-knowledge.md) [+W]
-- [Simulation-based training with the Snaid® extrication device significantly improves checklist-assessed procedural performance across all observed parameters](../claims/snaid-simulation-training-improves-procedural-checklist.md) [+W]
+- [Knowledge scores rose significantly from pre-test to post-test among military personnel after simulation-based training with the Snaid® extrication device, in one uncontrolled pre-post study](../claims/snaid-simulation-training-improves-knowledge.md) [+W]
+- [Checklist-assessed procedural performance was higher at post-test than pre-test across all observed parameters in one group with no comparison group after simulation-based training with the Snaid® extrication device](../claims/snaid-simulation-training-improves-procedural-checklist.md) [+W]
 - [Simulation-based training with the Snaid® extrication device significantly improves self-efficacy among military personnel](../claims/snaid-simulation-training-improves-self-efficacy.md) [+W]
 - [Simulation-based training with the Snaid® extrication device significantly reduces extrication time from the Leopard 2E tank](../claims/snaid-simulation-training-reduces-extrication-time.md) [+W]
 - [All participating students completed 100% of simulation checklist items, supporting feasibility of the program.](../claims/simulation-checklist-completion-feasibility.md) [+W]

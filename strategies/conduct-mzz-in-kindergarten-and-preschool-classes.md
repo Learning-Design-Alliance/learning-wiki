@@ -43,7 +43,7 @@ Based on the study's positive effects, the authors recommend that the MZZ "can a
 - [A significant group x measurement point interaction confirms the training effect in the main evaluation (F(1,6) = 21.55, p < .01)](../claims/mzz-group-by-time-interaction-significant.md) [+W]
 - [The ANOVA showed no statistically significant main effect of group on EMBI performance (F(1,6) = 5.55, p > .05)](../claims/mzz-no-main-effect-of-group.md) [+W]
 - [The full MZZ training program significantly improves early mathematical precursor skills in school-entry children at risk, with a large advantage over waiting controls (d = 4.6)](../claims/mzz-training-improves-early-number-competencies-at-risk-children.md) [+W]
-- [A shortened 18-session MZZ program replicated the training effect in the former waiting control group (d = 2.5)](../claims/shortened-mzz-replicates-effect-waiting-controls.md) [+W]
+- [The former waiting control group's scores rose from pre-test to post-test after a shortened 18-session MZZ program, in a pre-post comparison within that group (d = 2.5)](../claims/shortened-mzz-replicates-effect-waiting-controls.md) [+W]
 
 ## Related Strategies
 - 

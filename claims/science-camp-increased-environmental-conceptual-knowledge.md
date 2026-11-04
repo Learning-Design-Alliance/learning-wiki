@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Active learning based science camp activities increased students' conceptual knowledge of environmental problems"
-description: "Active learning based science camp activities increased students' conceptual knowledge of environmental problems"
+title: "Students' responses on conceptual knowledge of environmental problems shifted toward higher categories and included more explanations from pre-test to post-test after active learning based science camp activities, in one uncontrolled pre-post study"
+description: "Students' responses on conceptual knowledge of environmental problems shifted toward higher categories and included more explanations from pre-test to post-test after active learning based science camp activities, in one uncontrolled pre-post study"
 id: science-camp-increased-environmental-conceptual-knowledge
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Active learning based science camp activities increased students' conceptual knowledge of environmental problems
+# Students' responses on conceptual knowledge of environmental problems shifted toward higher categories and included more explanations from pre-test to post-test after active learning based science camp activities, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -47,4 +47,4 @@ Descriptive analysis of the Conceptual Knowledge Survey on Environmental Problem
 ## Related Claims
 - [Active learning based science camp activities improved students' psychomotor skills towards scientific views on environmental issues](science-camp-improved-psychomotor-skills.md) — related
 - [Active learning based science camp activities improved primary school students' opinions towards scientific knowledge](science-camp-improved-scientific-knowledge-opinions.md) — related
-- [Active learning based science camp activities did not significantly change primary school students' scientific process skills](science-camp-no-change-scientific-process-skills.md) — related
+- [Primary school students' scientific process skills did not significantly change from pre-test to post-test after active learning based science camp activities, in one single-group pre-post study](science-camp-no-change-scientific-process-skills.md) — related

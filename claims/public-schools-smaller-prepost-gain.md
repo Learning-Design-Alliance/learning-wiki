@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Public school students improved by only about 8 points over the same year
-description: Public school students improved by only about 8 points over the same year
+title: "Public school students' scores rose by only about 8 points from pre-test to post-test over the same year within the public-school group"
+description: "Public school students' scores rose by only about 8 points from pre-test to post-test over the same year within the public-school group"
 id: public-schools-smaller-prepost-gain
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# Public school students improved by only about 8 points over the same year
+# Public school students' scores rose by only about 8 points from pre-test to post-test over the same year within the public-school group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

@@ -80,7 +80,7 @@ Linear mixed model on all 500 per-question learning-delta change scores with par
 ## Related Claims
 
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
-- [The adaptive mode showed a progressive per-question learning-delta increase across the session (from Δ = 3.16 on Q1 to Δ = 19.97 on Q9), suggesting a warm-up effect as participants learned the system](adaptive-mode-per-question-delta-increase-warm-up.md) — related
+- [In one group with no comparison group, mean per-question learning delta in the adaptive mode rose progressively across the session, from Δ = 3.16 on Q1 to Δ = 19.97 on Q9](adaptive-mode-per-question-delta-increase-warm-up.md) — related
 - [No significant difference in perceived learning across the three modes (p = .845), despite the unrestricted mode's nearly double objective learning delta](no-perceived-learning-difference-across-modes.md) — related
 - [Socratic-mode participants progressively disengaged from the chatbot: message counts declined after question 5 and EEG engagement fell to its lowest value at question 10](socratic-mode-progressive-disengagement.md) — related
 - [Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of the exercises of Socratic participants who abandoned the dialogue mid-way never reached the threshold](socratic-more-attempts-many-never-reach-mastery.md) — related

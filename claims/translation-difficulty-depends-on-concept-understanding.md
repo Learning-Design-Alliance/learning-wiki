@@ -65,6 +65,6 @@ Analysis of normalized gains by source representation mode in electromagnetism (
 
 ## Related Claims
 - [Experimental class significantly outperformed control class in ability to write physics teaching materials on both topics](kruskal-wallis-significant-writing-difference.md) — related
-- [Multiple representation ability improved with mixed gains: medium for waves and optics (d = 0.97) and low for electromagnetism (d = 0.80)](multiple-representation-mixed-gains-by-topic.md) — related
-- [Translation among modes of representation improved with low normalized gains and large effect sizes on both topics](translation-among-modes-low-gain-large-effect.md) — related
+- [Multiple representation ability scores rose from pre-test to post-test in one group, with mixed gains: medium for waves and optics (d = 0.97) and low for electromagnetism (d = 0.80)](multiple-representation-mixed-gains-by-topic.md) — related
+- [Scores for translation among modes of representation rose from pre-test to post-test, with low normalized gains and large effect sizes on both topics, in one uncontrolled pre-post study](translation-among-modes-low-gain-large-effect.md) — related
 - [Graphing difficulties cluster into graph construction, variable ordering, and data translation categories, with construction difficulties most frequent](graphing-difficulties-three-convention-categories.md) — related

@@ -45,5 +45,5 @@ One-way ANOVA over the three tests in the first training period, with Tamhane's 
 
 
 ## Related Claims
-- [Knowledge retained one month after CATM training, with post-test2 scores exceeding post-test1 in both periods](catm-knowledge-retention-one-month.md) — related
+- [Knowledge scores were higher one month after CATM training than immediately after training in one group, in both periods](catm-knowledge-retention-one-month.md) — related
 - [CATM-trained cleaning workers outperformed certified cleaners and supervisors on chemicals-hazard knowledge](catm-trained-outperform-certified-control.md) — related

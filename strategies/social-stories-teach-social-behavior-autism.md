@@ -41,7 +41,7 @@ Social stories are brief stories describing a social situation and presenting ef
 ## Claims
 
 - [Experimental group's social skills scores improved significantly from pre- to post-test](../claims/pre-post-gains-social-skills-experimental-group.md) [+W]
-- [Social skills gains were maintained at follow-up, with no significant post-to-follow-up differences](../claims/social-skills-gains-maintained-follow-up.md) [+W]
+- [Social skills scores did not change from post-test to follow-up in the experimental group, with no statistically significant post-to-follow-up differences](../claims/social-skills-gains-maintained-follow-up.md) [+W]
 - [Teacher training in natural communication strategies and social stories improved social skills of students with autism versus control](../claims/teacher-training-natural-communication-social-stories-improved-social-skills-autism.md) [+W]
 
 ## Related Strategies

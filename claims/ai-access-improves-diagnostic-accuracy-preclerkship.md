@@ -1,7 +1,7 @@
 ---
 type: claim
-title: AI chatbot access is associated with improved diagnostic accuracy in pre-clerkship medical students
-description: AI chatbot access is associated with improved diagnostic accuracy in pre-clerkship medical students
+title: Among pre-clerkship medical students, diagnostic accuracy scores rose for some, fell for others, and did not change for others from before to after AI chatbot access in a single-group pre-post study
+description: Among pre-clerkship medical students, diagnostic accuracy scores rose for some, fell for others, and did not change for others from before to after AI chatbot access in a single-group pre-post study
 id: ai-access-improves-diagnostic-accuracy-preclerkship
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# AI chatbot access is associated with improved diagnostic accuracy in pre-clerkship medical students
+# Among pre-clerkship medical students, diagnostic accuracy scores rose for some, fell for others, and did not change for others from before to after AI chatbot access in a single-group pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Across the full case, 65 students (35%) improved their overall composite diagnostic score following AI use, whereas 26 students (14%) declined and 94 (51%) showed no change (Wilcoxon signed-rank Z = -4.21, P < .001). [→ Hayden Robert 2026](#hayden-robert-2026)
+`q2 i?` Across the full case, 65 students (35%) had higher overall composite diagnostic scores after AI access than before it, whereas 26 students (14%) had lower scores and 94 (51%) had no change, in a single-group pre-post study (Wilcoxon signed-rank Z = -4.21, P < .001). [→ Hayden Robert 2026](#hayden-robert-2026)
 
 ## Evidence
 

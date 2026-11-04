@@ -47,5 +47,5 @@ Figure 1 plots the comparative regression discontinuity results for 5th grade MC
 ## Related Claims
 - [City Connects shows no impact on MCAS measures in elementary school](city-connects-no-elementary-mcas-impact.md) — reports the opposite
 - [Mastery learning shifted the post-test score distribution upward: 69.08% of mastery students scored 80% and above versus 17.53% of control students](mastery-learning-score-distribution-shift-chemistry.md) — related
-- [Speaking-skill score distribution shifted upward after integrative teaching (mean 65.75 to 76.5)](german-speaking-pre-post-descriptives.md) — related
+- [Speaking-skill score distribution shifted upward from pre-test to post-test in one single-group pre-post study of integrative teaching (mean 65.75 to 76.5)](german-speaking-pre-post-descriptives.md) — related
 - [The distribution of artists named per student shifts upward under coaching-method instruction (highest 22 vs 15; lowest 9-10 vs 4-5)](coaching-method-shifts-artist-naming-distribution.md) — related

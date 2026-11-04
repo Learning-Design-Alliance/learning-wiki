@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Teachers increased their frequency of English language use in class after CLE training with reciprocal peer teaching
-description: Teachers increased their frequency of English language use in class after CLE training with reciprocal peer teaching
+title: "Teachers' frequency of English language use in class rose from pre-experiment to post-experiment 1 and 2 intervals after CLE training with reciprocal peer teaching, in one uncontrolled pre-post study"
+description: "Teachers' frequency of English language use in class rose from pre-experiment to post-experiment 1 and 2 intervals after CLE training with reciprocal peer teaching, in one uncontrolled pre-post study"
 id: cle-peer-teaching-teacher-english-use-increased
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Teachers increased their frequency of English language use in class after CLE training with reciprocal peer teaching
+# Teachers' frequency of English language use in class rose from pre-experiment to post-experiment 1 and 2 intervals after CLE training with reciprocal peer teaching, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

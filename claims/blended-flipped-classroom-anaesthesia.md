@@ -55,4 +55,4 @@ The review suggests that blended learning or flipped classroom models may enable
 - [E-learning is an important adjunct to traditional learning methods in anaesthesia education](e-learning-adjunct-anaesthesia-education.md) — related
 - [Electronic resources as adjuncts to in-person teaching were associated with increased attendance in three studies](electronic-resources-adjunct-increased-attendance.md) — a narrower finding that bears on this claim
 - [The review reports that a blended learning model contributed more to high school students' biology achievement than traditional teaching methods](blended-learning-beats-traditional-biology-achievement-review.md) — related
-- [The flipped classroom rests on blended learning, student-centered learning, and active learning as theoretical foundations](flipped-classroom-theoretical-foundations.md) — related
+- [Ahmad (2016) identified blended learning, student-centered learning, and active learning as theoretical foundations of the flipped classroom](flipped-classroom-theoretical-foundations.md) — related

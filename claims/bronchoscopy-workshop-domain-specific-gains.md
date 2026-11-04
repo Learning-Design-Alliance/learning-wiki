@@ -66,5 +66,5 @@ Domain-level analysis of non-MD pre/post responses reported in Table 3. The arti
 ## Related Claims
 - [Knowledge gains varied by workshop topic, largest for pulmonary auscultation and smallest for rectal and breast examination](knowledge-gain-varies-by-workshop-topic.md) — related
 - [Improvement in communication clarity after ISBAR simulation teaching was broad, with the greatest gains in the situation domain](isbar-clarity-gains-broad-situation-domain-largest.md) — related
-- [A one-day simulation-based bronchoscopy workshop significantly improves knowledge of bronchoscopy among medical doctors in critical care](one-day-bronchoscopy-workshop-md-knowledge-gains.md) — a broader claim this one bears on
-- [A one-day simulation-based bronchoscopy workshop significantly improves knowledge of bronchoscopy among non-physician critical care staff](one-day-bronchoscopy-workshop-nonmd-knowledge-gains.md) — related
+- [Among medical doctors in critical care, average bronchoscopy-knowledge scores rose from pre-test to post-test after a one-day simulation-based workshop, in one uncontrolled pre-post study](one-day-bronchoscopy-workshop-md-knowledge-gains.md) — a broader claim this one bears on
+- [Knowledge of bronchoscopy rose among non-physician critical care staff from pre-test to post-test after a one-day simulation-based workshop in one uncontrolled pre-post study](one-day-bronchoscopy-workshop-nonmd-knowledge-gains.md) — related

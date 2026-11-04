@@ -47,5 +47,5 @@ Propensity score matching (1-to-2 nearest neighbor) matched 49 tutored Grade 6 s
 
 ## Related Claims
 - [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](psm-baseline-equivalence-mtss-study.md) — related
-- [Synchronous online mathematics tutoring produced statistically significant within-group gains in mathematics achievement for low-achieving middle school students in two rural schools](online-tutoring-significant-within-group-gains.md) — related
+- [Mathematics achievement scores rose significantly from pre-test to post-test among low-achieving middle school students receiving synchronous online mathematics tutoring in two rural schools, in single-group pre-post studies](online-tutoring-significant-within-group-gains.md) — related
 - [The RMEP Project had no statistically detectable impact on students' mathematics achievement as measured by SOL exams](rmep-no-impact-student-achievement.md) — related

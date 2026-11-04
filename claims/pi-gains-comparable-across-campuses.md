@@ -46,4 +46,4 @@ Independent samples t-tests comparing Las Cruces (n = 151) and Melbourne (n = 67
 
 ## Related Claims
 - [The experimental and control groups were equivalent on all four environmental literacy dimensions at pre-test](pretest-equivalence-environmental-literacy-groups.md) — related
-- [Peer instruction was associated with a statistically significant short-term improvement in performance scores among first-year osteopathic medical students in a preclinical microbiology session.](pi-improves-short-term-performance-osteopathic-microbiology.md) — related
+- [Performance scores rose significantly from pre-test to post-test after peer instruction, in one uncontrolled pre-post study of first-year osteopathic medical students in a preclinical microbiology session.](pi-improves-short-term-performance-osteopathic-microbiology.md) — related

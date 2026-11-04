@@ -45,6 +45,6 @@ First-stage probit of camp attendance (N = 74 to 65) from the Heckman procedure;
 
 
 ## Related Claims
-- [A 1-week financial fitness camp raised financial knowledge of low-income 8th graders by roughly 12 percentage points on a pretest–posttest design](financial-fitness-camp-12-point-gain.md) — related
+- [Financial knowledge of low-income 8th graders rose by roughly 12 percentage points from pre-test to post-test after a 1-week financial fitness camp, in one uncontrolled pre-post study](financial-fitness-camp-12-point-gain.md) — related
 - [IDA participation and contribution level showed no statistically significant effect on financial knowledge gains from camp instruction](ida-participation-no-knowledge-gain.md) — related
-- [Heckman two-step estimates found no evidence of selection bias in the pretest–posttest gain score regressions based on camp attendance](no-selection-bias-camp-attendance.md) — related
+- [Heckman two-step estimates found statistically insignificant Mills ratio coefficients in all three specifications in pretest–posttest gain score regressions based on camp attendance, in one group with no comparison group](no-selection-bias-camp-attendance.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The Mixed Course combining technical and didactic content in equal proportions was the only condition with significant reflective-CRK gains at both posttest and follow-up
-description: The Mixed Course combining technical and didactic content in equal proportions was the only condition with significant reflective-CRK gains at both posttest and follow-up
+title: The Mixed Course combining technical and didactic content in equal proportions was the only condition in which reflective-CRK scores rose significantly from pretest to posttest and from pretest to follow-up
+description: The Mixed Course combining technical and didactic content in equal proportions was the only condition in which reflective-CRK scores rose significantly from pretest to posttest and from pretest to follow-up
 id: mixed-course-only-significant-condition
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 2
 ---
 
-# The Mixed Course combining technical and didactic content in equal proportions was the only condition with significant reflective-CRK gains at both posttest and follow-up
+# The Mixed Course combining technical and didactic content in equal proportions was the only condition in which reflective-CRK scores rose significantly from pretest to posttest and from pretest to follow-up
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i2` The Mixed Course achieved a significant increase in reflective CRK in the posttest (t(22)=2.23, p=.036, d=0.48) and in the follow-up test (t(22)=2.08, p=.049, d=0.52), while other conditions did not reach significance. [→ Rosenkränzer 2016](#rosenkranzer-2016)
+`q3 i2` Reflective CRK in the Mixed Course rose significantly from pretest to posttest (t(22)=2.23, p=.036, d=0.48) and from pretest to follow-up (t(22)=2.08, p=.049, d=0.52), while other conditions did not reach significance. [→ Rosenkränzer 2016](#rosenkranzer-2016)
 
 ## Evidence
 

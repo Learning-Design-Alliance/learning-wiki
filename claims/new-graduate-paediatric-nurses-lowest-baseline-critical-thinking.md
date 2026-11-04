@@ -44,8 +44,8 @@ Baseline observational finding from the study's pretest data (n = 60): preceptor
 ## Related Claims
 - [Clinical decision-making scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) — related
 - [Total core competence scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](jeffries-simulation-improves-core-competence-new-graduate-paediatric-nurses.md) — related
-- [Improvements after Jeffries-framework simulation vary across competence dimensions, with no significant change in professional development](jeffries-simulation-dimension-specific-competence-changes.md) — related
+- [Competence dimension scores varied in their pre-test-to-post-test changes after Jeffries-framework simulation, with no significant change in professional development, in one single-group pre-post study](jeffries-simulation-dimension-specific-competence-changes.md) — related
 - [No included study measured critical thinking as an explicit outcome or compared simulation modalities directly](sbe-delirium-no-explicit-ct-measure.md) — related
 - [Graduating nurses often lack clinical skills and readiness for practice](graduating-nurses-lack-clinical-readiness.md) — related
-- [The clarifying goals and values dimension of clinical decision-making shows the largest improvement after Jeffries-framework simulation](jeffries-simulation-clarifying-goals-values-largest-cdmns-gain.md) — related
+- [The clarifying goals and values dimension of clinical decision-making rose from pre-test to post-test after Jeffries-framework simulation, with the largest gain in one group with no comparison group](jeffries-simulation-clarifying-goals-values-largest-cdmns-gain.md) — related
 - [An AI-supported four-stage training framework was associated with significant improvement in overall teaching competence among prosthodontics graduate students.](ai-training-framework-improves-teaching-competence-prosthodontics.md) — related

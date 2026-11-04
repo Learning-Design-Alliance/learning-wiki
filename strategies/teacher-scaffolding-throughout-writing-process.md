@@ -41,8 +41,8 @@ The teacher provides step-by-step guidance from the beginning until the end of t
 ## Claims
 
 - [After the scaffolding intervention, learners could more confidently express their ideas in their writings.](../claims/scaffolding-increased-writing-confidence.md) [+W]
-- [Scaffolding through the writing process approach met EFL students' needs and improved their writing skill despite persistent difficulty with basic elements such as grammar.](../claims/scaffolding-met-needs-despite-grammar-difficulty.md) [+W]
-- [Teacher scaffolding within a writing process approach significantly improved EFL students' self-reported writing skills from pre-test to post-test.](../claims/scaffolding-writing-process-improves-efl-writing.md) [+W]
+- [EFL students' writing skill rose from pre-test to post-test after scaffolding through the writing process approach in one uncontrolled pre-post study, while most students still had difficulty with basic elements such as grammar.](../claims/scaffolding-met-needs-despite-grammar-difficulty.md) [+W]
+- [EFL students' writing skills rose significantly from pre-test to post-test in one uncontrolled pre-post study of teacher scaffolding within a writing process approach.](../claims/scaffolding-writing-process-improves-efl-writing.md) [+W]
 
 ## Related Strategies
 

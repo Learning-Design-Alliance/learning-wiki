@@ -57,10 +57,10 @@ Paired-samples t-test on the experimental group's essay scores (N=25) in a quasi
 - [Students in the Statecraft X intervention class outperformed control class students on all four essay criteria in a summative writing task](statecraft-x-intervention-outperformed-control-essay.md) — related
 - [Writing performance improved significantly from pre-test to post-test across the writing-instruction groups](pretest-posttest-writing-gain-significant.md) — related
 - [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in writing](web-based-instruction-outperforms-traditional-writing.md) — related
-- [MI-based instruction improved overall EFL pre-service teacher speaking performance in a one-group pre-post design](mi-instruction-improves-efl-preservice-speaking-overall.md) — related
-- [MI-based instruction improved oral presentation skills of EFL pre-service teachers](mi-instruction-improves-oral-presentation-skills.md) — related
-- [MI-based instruction improved the making-requests subskill of EFL pre-service teachers](mi-instruction-improves-making-requests-subskill.md) — related
-- [MI-based instruction improved the making-suggestions subskill of EFL pre-service teachers](mi-instruction-improves-making-suggestions-subskill.md) — related
+- [Overall EFL pre-service teacher speaking performance rose from pre-test to post-test after MI-based instruction, in one group with no comparison group](mi-instruction-improves-efl-preservice-speaking-overall.md) — related
+- [Oral presentation skills test scores rose from pre-test to post-test after MI-based instruction among EFL pre-service teachers in a one-group pre-post study without a comparison group](mi-instruction-improves-oral-presentation-skills.md) — related
+- [Scores on the making-requests subskill rose from pre-test to post-test among EFL pre-service teachers in a single-group pre-post study following MI-based instruction](mi-instruction-improves-making-requests-subskill.md) — related
+- [Making-suggestions subskill scores among EFL pre-service teachers rose from pre-test to post-test after MI-based instruction, in one uncontrolled pre-post study](mi-instruction-improves-making-suggestions-subskill.md) — related
 - [MFTM significantly improves multiplication facts achievement among deaf students from pre-test to post-test](mftm-significant-pre-post-gain-deaf-students.md) — a narrower finding that bears on this claim
 - [Online-based writing instruction produces equivalent overall essay performance gains compared to classroom-based instruction for ESL students](online-lms-writing-instruction-equivalent-gains.md) — related
-- [Teacher scaffolding within a writing process approach significantly improved EFL students' self-reported writing skills from pre-test to post-test.](scaffolding-writing-process-improves-efl-writing.md) — related
+- [EFL students' writing skills rose significantly from pre-test to post-test in one uncontrolled pre-post study of teacher scaffolding within a writing process approach.](scaffolding-writing-process-improves-efl-writing.md) — related

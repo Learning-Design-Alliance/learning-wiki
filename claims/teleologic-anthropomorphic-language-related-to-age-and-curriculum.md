@@ -47,7 +47,7 @@ Pearson-r correlation and Pearson chi-square analyses (Table 4) relating student
 
 
 ## Related Claims
-- [Anthropomorphic explanations of 15 abstract physics concepts differ significantly before and after classroom pedagogical interventions](anthropomorphic-explanations-corrected-by-pedagogical-interventions.md) — related
+- [Anthropomorphic explanations of 15 abstract physics concepts differed significantly from pre-test to post-test in one group with no comparison group](anthropomorphic-explanations-corrected-by-pedagogical-interventions.md) — related
 - [Students who just completed secondary education and those from the English curriculum showed the least teleologic-anthropomorphic affordance](english-curriculum-and-recent-graduates-least-teleologic-anthropomorphic.md) — related
 - [The interaction of interventions with age and curricular undertaking is not significant at the .05 level](intervention-age-curriculum-interaction-not-significant.md) — related
 - [Classroom pedagogical interventions significantly reduce teleologic and anthropomorphic language, with curricular exposure but not age as a significant factor](interventions-reduce-teleologic-anthropomorphic-language-curriculum-not-age.md) — reports the opposite

@@ -47,4 +47,4 @@ Analysis of the four-condition quasi-experiment at posttest: means rose from M=1
 ## Related Claims
 - [Teacher education interventions can promote student teachers' reflective CRK for teaching systems thinking, with a significant improvement emerging at follow-up](intervention-promotes-reflective-crk-systems-thinking-followup.md) — related
 - [Student teachers showed a very low pretest level of reflective CRK for teaching systems thinking, identifying on average only one of six planted errors](low-pretest-reflective-crk-systems-thinking.md) — related
-- [The Mixed Course combining technical and didactic content in equal proportions was the only condition with significant reflective-CRK gains at both posttest and follow-up](mixed-course-only-significant-condition.md) — related
+- [The Mixed Course combining technical and didactic content in equal proportions was the only condition in which reflective-CRK scores rose significantly from pretest to posttest and from pretest to follow-up](mixed-course-only-significant-condition.md) — related

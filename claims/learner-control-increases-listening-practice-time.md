@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students given more control spent significantly more weekly time on listening practice, indicating greater effort and autonomy
-description: Students given more control spent significantly more weekly time on listening practice, indicating greater effort and autonomy
+title: "Experimental-group students' weekly listening-practice time rose significantly from before to during the experiment, measured within that group"
+description: "Experimental-group students' weekly listening-practice time rose significantly from before to during the experiment, measured within that group"
 id: learner-control-increases-listening-practice-time
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Students given more control spent significantly more weekly time on listening practice, indicating greater effort and autonomy
+# Experimental-group students' weekly listening-practice time rose significantly from before to during the experiment, measured within that group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

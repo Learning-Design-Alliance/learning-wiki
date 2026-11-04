@@ -86,5 +86,5 @@ Cross-sectional HLM (model 3np) comparing Cohort 1 teachers' third-year connecte
 - [CCT with professional development outperforms graphing-calculator-only instruction on algebra 1 achievement across three years, with effect sizes from 0.19 to 0.37](cct-algebra-achievement-es-019-037.md) — a broader claim this one bears on
 - [In year 1, CCT treatment classrooms significantly outperformed control classrooms on the algebra posttest (ES = 0.30)](cct-year1-cross-sectional-es030.md) — related
 - [In the year 3 longitudinal comparison, the CCT effect was not significant with pretest controlled (ES = 0.13) but significant without it (ES = 0.19)](cct-year3-longitudinal-null-with-pretest.md) — related
-- [Longitudinal comparison of Cohort 2 teachers' year 2 CCT classrooms against their own year 1 control classrooms shows significant improvement (ES = 0.20)](cct-longitudinal-cohort2-es020.md) — related
+- [Cohort 2 teachers' student achievement scores rose significantly from their year 1 classrooms to their year 2 CCT classrooms in a single-group pre-post comparison with no comparison group (ES = 0.20)](cct-longitudinal-cohort2-es020.md) — related
 - [95% of treatment students improved on the NCGE versus 32% of controls, and negative change was rarer in the treatment group](ncge-improvement-proportions-treatment-vs-control.md) — related

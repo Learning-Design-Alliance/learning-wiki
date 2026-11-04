@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Blended learning instruction significantly improved Iranian EFL learners' correct use of resumptive pronouns in writing from pretest to posttest"
-description: "Blended learning instruction significantly improved Iranian EFL learners' correct use of resumptive pronouns in writing from pretest to posttest"
+title: "Iranian EFL learners' correct use of resumptive pronouns in writing rose from pretest to posttest in the blended learning group"
+description: "Iranian EFL learners' correct use of resumptive pronouns in writing rose from pretest to posttest in the blended learning group"
 id: blended-learning-improves-resumptive-pronoun-writing
 status: review
 generated:
@@ -28,7 +28,7 @@ sources:
     rigour: 1
 ---
 
-# Blended learning instruction significantly improved Iranian EFL learners' correct use of resumptive pronouns in writing from pretest to posttest
+# Iranian EFL learners' correct use of resumptive pronouns in writing rose from pretest to posttest in the blended learning group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`

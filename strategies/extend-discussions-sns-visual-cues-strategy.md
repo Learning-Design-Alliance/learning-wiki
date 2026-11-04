@@ -40,7 +40,7 @@ A recommendation from the study's suggestions: incorporate social network sites 
 ## Claims
 
 - [Saudi EFL majors reported low classroom participation and rare out-of-class English use](../claims/efl-majors-low-oral-participation-survey.md) [+W]
-- [Open Discussion Sessions significantly improved Saudi EFL majors' pre-post speaking test scores in favor of post-testing](../claims/open-discussion-sessions-significant-speaking-gains.md) [+W]
+- [Saudi EFL majors' speaking test scores rose from pre-test to post-test after Open Discussion Sessions, in one uncontrolled pre-post study](../claims/open-discussion-sessions-significant-speaking-gains.md) [+W]
 
 ## Related Strategies
 

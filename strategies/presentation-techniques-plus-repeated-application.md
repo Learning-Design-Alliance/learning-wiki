@@ -39,7 +39,7 @@ The discussion reports a two-step approach to building oral presentation skill: 
 
 ## Claims
 
-- [MI-based instruction improved oral presentation skills of EFL pre-service teachers](../claims/mi-instruction-improves-oral-presentation-skills.md) [+W]
+- [Oral presentation skills test scores rose from pre-test to post-test after MI-based instruction among EFL pre-service teachers in a one-group pre-post study without a comparison group](../claims/mi-instruction-improves-oral-presentation-skills.md) [+W]
 
 ## Related Strategies
 

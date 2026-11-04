@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "After training, tutors were significantly more likely to encounter pedagogical opportunities (61.1% to 68.9%) and showed higher execution quality within those opportunities (65.5% to 68.1%)"
-description: "After training, tutors were significantly more likely to encounter pedagogical opportunities (61.1% to 68.9%) and showed higher execution quality within those opportunities (65.5% to 68.1%)"
+title: "In one uncontrolled pre-post study, tutors' probability of encountering pedagogical opportunities rose from 61.1% pre-training to 68.9% post-training, and execution quality within those opportunities rose from 65.5% to 68.1%"
+description: "In one uncontrolled pre-post study, tutors' probability of encountering pedagogical opportunities rose from 61.1% pre-training to 68.9% post-training, and execution quality within those opportunities rose from 65.5% to 68.1%"
 id: post-training-opportunity-and-execution-gains
 status: review
 generated:
@@ -28,7 +28,7 @@ sources:
     rigour: 1
 ---
 
-# After training, tutors were significantly more likely to encounter pedagogical opportunities (61.1% to 68.9%) and showed higher execution quality within those opportunities (65.5% to 68.1%)
+# In one uncontrolled pre-post study, tutors' probability of encountering pedagogical opportunities rose from 61.1% pre-training to 68.9% post-training, and execution quality within those opportunities rose from 65.5% to 68.1%
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`

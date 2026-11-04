@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "The TR group's comprehension results were mixed: a significant 11% average-method gain but a significant 12% decrease on the three-extremes passages"
-description: "The TR group's comprehension results were mixed: a significant 11% average-method gain but a significant 12% decrease on the three-extremes passages"
+title: "The TR group's comprehension results were mixed: comprehension scores rose significantly by 11% on the average method but fell significantly by 12% on the three-extremes passages from pre-test to post-test in one uncontrolled pre-post study"
+description: "The TR group's comprehension results were mixed: comprehension scores rose significantly by 11% on the average method but fell significantly by 12% on the three-extremes passages from pre-test to post-test in one uncontrolled pre-post study"
 id: tr-comprehension-mixed-three-extremes-decrease
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# The TR group's comprehension results were mixed: a significant 11% average-method gain but a significant 12% decrease on the three-extremes passages
+# The TR group's comprehension results were mixed: comprehension scores rose significantly by 11% on the average method but fell significantly by 12% on the three-extremes passages from pre-test to post-test in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` TR comprehension increased significantly on the average method but decreased significantly on the three-extremes method passages. [→ Shimono 2018](#shimono-2018)
+`q2 i?` TR comprehension rose significantly from pre-test to post-test on the average method but fell significantly on the three-extremes method passages in one uncontrolled pre-post study. [→ Shimono 2018](#shimono-2018)
 
 ## Evidence
 

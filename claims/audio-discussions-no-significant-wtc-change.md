@@ -55,6 +55,6 @@ Repeated-measures Wilcoxon signed-rank analysis of Part 2 self-assessment WTC sc
 - [Gameplay increased participants' willingness to communicate in English](gameplay-increased-willingness-to-communicate.md) — reports the opposite
 - [Motivation correlates positively and significantly with L2 willingness to communicate among Turkish EFL preparatory students](motivation-correlates-with-l2-wtc-turkish-efl.md) — related
 - [English pronunciation self-efficacy is strongly and positively associated with willingness to communicate in English among Chinese EFL learners](pronunciation-self-efficacy-associated-with-wtc.md) — related
-- [Both Debate instruction and Philosophy Inquiry discussion significantly increased ESL learners' Willingness to Communicate over a semester](debate-and-pi-increase-esl-wtc.md) — related
+- [ESL learners' self-reported Willingness to Communicate scores rose from pre-test to post-test within the Debate and Philosophy Inquiry groups over a semester](debate-and-pi-increase-esl-wtc.md) — related
 - [Control-group learners showed no statistically significant change in Willingness to Communicate from pre-test to post-test](control-group-wtc-unchanged.md) — related
 - [Culture-based activities increase student willingness to participate](culture-activities-increase-participation.md) — related

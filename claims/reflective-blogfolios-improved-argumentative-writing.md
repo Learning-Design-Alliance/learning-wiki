@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Reflective blogfolios in EFL writing classes produced statistically significant pre-post gains in tertiary students' argumentative essay writing skills"
-description: "Reflective blogfolios in EFL writing classes produced statistically significant pre-post gains in tertiary students' argumentative essay writing skills"
+title: "In one uncontrolled pre-post study, tertiary students' argumentative essay writing scores in EFL writing classes rose significantly from pre-test to post-test after reflective blogfolios"
+description: "In one uncontrolled pre-post study, tertiary students' argumentative essay writing scores in EFL writing classes rose significantly from pre-test to post-test after reflective blogfolios"
 id: reflective-blogfolios-improved-argumentative-writing
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# Reflective blogfolios in EFL writing classes produced statistically significant pre-post gains in tertiary students' argumentative essay writing skills
+# In one uncontrolled pre-post study, tertiary students' argumentative essay writing scores in EFL writing classes rose significantly from pre-test to post-test after reflective blogfolios
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -49,7 +49,7 @@ One-group quasi-experimental pre-post study of 51 EFL tertiary students in the E
 - [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Reflective blogfolios shifted EFL tertiary students' ways of knowing significantly toward more connected knowing](blogfolios-shifted-ways-of-knowing-toward-connected.md) — related
-- [Ways of knowing predicted post-instruction argumentative writing performance but not pre-instruction performance](ways-of-knowing-predict-post-instruction-writing.md) — related
+- [EFL tertiary students' ways-of-knowing scores rose significantly from pre- to post-assessment after reflective blogfolios, in one uncontrolled pre-post study](blogfolios-shifted-ways-of-knowing-toward-connected.md) — related
+- [Ways of knowing were associated with post-instruction argumentative writing performance but not pre-instruction performance in one single-group pre-post study with no comparison group](ways-of-knowing-predict-post-instruction-writing.md) — related
 - [The article argues connected ways of knowing are better predictors of quality argumentative writing performance than separate ways of knowing](connected-knowing-better-predictor-of-writing.md) — related
 - [Paper-and-pencil concept mapping at the pre-writing stage significantly improved EFL students' argumentative essay performance across five writing aspects](concept-mapping-prewriting-improves-efl-argumentative-essays.md) — related

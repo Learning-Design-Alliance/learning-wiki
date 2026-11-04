@@ -45,7 +45,7 @@ The FOCUS learning support strategy divides weekly one-hour sessions into three 
 
 - [FOCUS Intervention students earned significantly more College Algebra grade points than the baseline comparison group, but the effect was small (η²p = .01)](../claims/focus-intervention-higher-grade-points-small-effect.md) [+W]
 - [FOCUS Intervention students were significantly less likely to withdraw from College Algebra than a baseline comparison group (OR = 0.22, a large effect)](../claims/focus-intervention-lower-course-withdrawal.md) [+W]
-- [FOCUS Intervention students made a statistically significant increase in THEA mathematics scores from pretest to posttest (d = .61)](../claims/focus-intervention-significant-thea-gains.md) [+W]
+- [FOCUS Intervention students' THEA mathematics scores rose from pretest to posttest in a single-group pre-post study (d = .61)](../claims/focus-intervention-significant-thea-gains.md) [+W]
 - [THEA score gains did not differ significantly across the five semester/year administrations of the FOCUS Intervention](../claims/focus-thea-gains-no-semester-interaction.md) [+W]
 
 ## Related Strategies

@@ -48,7 +48,7 @@ Paired comparison for field-independent learners in the input flood group: delay
 - [Input flood benefits field-dependent learners over control only on the immediate post-test, not the delayed post-test](field-dependent-input-flood-benefit-immediate-only.md) — related
 - [Field-independent learners in the input flood group outperform field-independent control learners on both post-tests](field-independent-input-flood-vs-control.md) — related
 - [Field-independent learners outperform field-dependent learners in the input flood group on both immediate and delayed collocation post-tests](field-independent-outperform-field-dependent-input-flood.md) — related
-- [Input flood treatment has no durable long-term effect on field-dependent learners' collocation knowledge](input-flood-no-durable-effect-field-dependent.md) — reports the opposite
+- [Field-dependent learners' collocation knowledge scores were not significantly higher at delayed post-test than at pre-test within the input flood group](input-flood-no-durable-effect-field-dependent.md) — reports the opposite
 - [Input flood treatment improves EFL learners' collocation knowledge relative to regular instruction in both immediate and delayed post-tests](input-flood-improves-collocation-knowledge-short-and-long-term.md) — a broader claim this one bears on
 - [Delayed post-test performance of feedback recipients still exceeds control group post-test performance](wcf-delayed-still-exceeds-control.md) — related
 - [Post-presentation input flooding via reading significantly improves simple past tense recognition scores relative to traditional instruction](post-presentation-flooding-improves-past-tense-recognition.md) — a narrower finding that bears on this claim

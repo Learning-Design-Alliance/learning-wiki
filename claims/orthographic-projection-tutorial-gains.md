@@ -46,7 +46,7 @@ The article summarizes Lajoie's (2003) study, based on her doctoral dissertation
 
 ## Related Claims
 - [Random measurement noise in pretest scores produces a negative contribution to the correlation between normalized gain and pretest score](measurement-noise-negative-gain-pretest-correlation.md) — related
-- [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — related
+- [In one single-group pretest-posttest study with no comparison group, tutors' pooled scores rose by a significant 7.4% after scenario-based tutor lessons; three lessons with established construct validity showed gains, while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — related
 - [Playing EPIGAME produced a large, statistically significant pre-to-post gain in conceptual understanding of force and motion in 7th graders](study2-significant-prepost-gains-epigame.md) — related
 - [Students receiving adaptive tutorial dialogues in EER-Tutor outperformed peers receiving non-adaptive dialogues, with effect size 0.69 on learning gains](adaptive-tutorial-dialogues-effect-size-069.md) — related
 - [Interactive CAL tutorials produced significant learning outcomes compared to non-CAL users but were not superior to noninteractive CAL](interactive-cal-not-superior-to-noninteractive-cal.md) — a broader claim this one bears on

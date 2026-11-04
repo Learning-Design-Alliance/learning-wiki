@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Social skills gains were maintained at follow-up, with no significant post-to-follow-up differences
-description: Social skills gains were maintained at follow-up, with no significant post-to-follow-up differences
+title: Social skills scores did not change from post-test to follow-up in the experimental group, with no statistically significant post-to-follow-up differences
+description: Social skills scores did not change from post-test to follow-up in the experimental group, with no statistically significant post-to-follow-up differences
 id: social-skills-gains-maintained-follow-up
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# Social skills gains were maintained at follow-up, with no significant post-to-follow-up differences
+# Social skills scores did not change from post-test to follow-up in the experimental group, with no statistically significant post-to-follow-up differences
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

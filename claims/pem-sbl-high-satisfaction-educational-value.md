@@ -51,7 +51,7 @@ End-of-curriculum anonymous online survey with 7 of 8 participants responding (8
 - [Most learner-facing studies of technology-enhanced simulation in laparoscopic training report favorable learner responses, mainly confidence, satisfaction, perceived safety and self-efficacy](simulation-laparoscopic-favorable-perceptions.md)
 - [The curriculum provided each fellow numerous critical procedure opportunities, with a mean of 27 critical care procedures performed (67.5% of opportunities)](sbl-curriculum-critical-procedure-opportunities.md)
 - [In a voluntary group survey, all 12 module-activity items had a median of 4, with M5 implementation items rated highest](survey-positive-learning-value-m5-highest.md) — related
-- [VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
+- [In one group measured before and after, learning satisfaction and self-evaluation ratings were significantly higher after VR-based training than after conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related
 - [Nursing students reported high satisfaction with community care simulation, with all SDS domain means around 4.5 and support rated lowest](ccs-high-satisfaction-sds-domain-scores.md) — related
 - [Fellows reported high acceptance of the VR curriculum and both groups rated it as meeting their needs](high-acceptance-vr-curriculum.md) — possibly the same claim (merge candidate)

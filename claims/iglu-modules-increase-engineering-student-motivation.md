@@ -45,5 +45,5 @@ Quasi-experimental pre/posttest study of senior engineering students (Data 1, N 
 
 
 ## Related Claims
-- [The omnibus multivariate within-subject effect of the IGLU intervention on combined motivation and knowledge scores was significant in both samples](iglu-omnibus-mancova-effect.md) — a broader claim this one bears on
+- [Combined motivation and knowledge scores differed significantly from pre-test to post-test in both samples, in one group with no comparison group after the IGLU intervention](iglu-omnibus-mancova-effect.md) — a broader claim this one bears on
 - [Motivation and knowledge changes did not differ by gender or ethnicity in either sample](iglu-no-gender-ethnicity-effects.md) — related

@@ -48,4 +48,4 @@ Quasi-experimental pretest-posttest paired control group study with 36 7th grade
 - [Experimental and control groups differed significantly in scientific process skills at pretest](sps-pretest-significant-difference-groups.md) — related
 - [Argumentation-based learning activities did not produce a statistically significant difference in 7th graders' conceptual understanding of Force and Motion compared with regular instruction](argumentation-no-significant-conceptual-understanding-gain-force-motion.md) — related
 - [ADI-based laboratory instruction improves science process skills more than traditional laboratory instruction](adi-lab-instruction-improves-science-process-skills.md) — reports the opposite
-- [Active learning based science camp activities did not significantly change primary school students' scientific process skills](science-camp-no-change-scientific-process-skills.md) — related
+- [Primary school students' scientific process skills did not significantly change from pre-test to post-test after active learning based science camp activities, in one single-group pre-post study](science-camp-no-change-scientific-process-skills.md) — related

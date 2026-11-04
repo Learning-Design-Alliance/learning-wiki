@@ -42,8 +42,8 @@ Because the reduction in perceived costs was minimal among junior students, the 
 
 - [The reduction in perceived costs after service-learning was significantly smaller among junior than intermediate and senior dental students](../claims/costs-reduction-smaller-junior-students.md) [+W]
 - [Service-learning participation is associated with a large increase in dental students' empathy toward community service](../claims/service-learning-empathy-increase-dental-students.md) [+W]
-- [Service-learning participation is associated with a small increase in dental students' norms regarding community service](../claims/service-learning-norms-increase-small-effect.md) [+W]
-- [Service-learning participation is associated with a large reduction in dental students' perceived costs of community engagement](../claims/service-learning-perceived-costs-reduction.md) [+W]
+- [Dental students' self-reported norms regarding community service rose slightly from pre-test to post-test after service-learning participation, in one single-group pre-post study](../claims/service-learning-norms-increase-small-effect.md) [+W]
+- [Dental students' self-rated perceived costs of community engagement showed a large reduction from pre-test to post-test after service-learning participation, in one uncontrolled pre-post study](../claims/service-learning-perceived-costs-reduction.md) [+W]
 - [Attitudinal changes after service-learning did not differ significantly by sex or prior community service experience](../claims/attitude-change-no-sex-or-experience-differences.md) [~W]
 
 ## Related Strategies

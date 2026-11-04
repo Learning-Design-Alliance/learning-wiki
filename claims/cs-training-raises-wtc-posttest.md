@@ -49,4 +49,4 @@ Quasi-experiment with 8 intact pre-intermediate classes (experimental N = 58, co
 - [Experimental-group learners became significantly more willing to communicate after receiving communication strategy training](experimental-group-wtc-gain.md) — related
 - [Before treatment, experimental and control groups did not differ significantly in Willingness to Communicate](cs-study-pretest-no-difference.md) — related
 - [Group dynamics-oriented instruction significantly improves Iranian EFL learners' willingness to communicate](gdoi-improves-wtc-iranian-efl.md) — related
-- [Both Debate instruction and Philosophy Inquiry discussion significantly increased ESL learners' Willingness to Communicate over a semester](debate-and-pi-increase-esl-wtc.md) — related
+- [ESL learners' self-reported Willingness to Communicate scores rose from pre-test to post-test within the Debate and Philosophy Inquiry groups over a semester](debate-and-pi-increase-esl-wtc.md) — related

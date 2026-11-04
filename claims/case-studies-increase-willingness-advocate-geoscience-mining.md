@@ -46,6 +46,6 @@ Survey item B15, "I can convince a friend or colleague that geology is important
 
 ## Related Claims
 - [Mining engineering students' confidence that they could provide concrete examples of applied geoscience rose significantly over a course combining case studies and active learning](case-studies-improve-confidence-applied-geoscience-examples.md) — related
-- [Students gained significant improvement in exposure to geoscience concepts through the case study–based curriculum](case-studies-increase-exposure-geoscience-concepts.md) — related
+- [Students' self-reported exposure to geoscience concepts rose significantly from pre-test to post-test in one group with no comparison group after a case study–based curriculum](case-studies-increase-exposure-geoscience-concepts.md) — related
 - [Experimental-group learners became significantly more willing to communicate after receiving communication strategy training](experimental-group-wtc-gain.md) — related
 - [Before treatment, experimental and control groups did not differ significantly in Willingness to Communicate](cs-study-pretest-no-difference.md) — related
