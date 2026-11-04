@@ -54,7 +54,8 @@ The review recommends that, given faster skill acquisition under spaced schedule
 - [Spaced trainees completed endoscopic exercises 18.7% faster than massed trainees in Verdaasdonk et al.](../claims/verdaasdonk-spaced-18-7-percent-faster-endoscopic.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Require repeated benchmark performance with spaced repetition to ensure reliable skill acquisition](repeated-benchmark-performance-spaced-repetition.md)
 
 ## Examples
 -

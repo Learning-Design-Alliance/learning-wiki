@@ -49,3 +49,4 @@ Satisfaction questionnaire (59 experimental, 62 control valid) with Mann–Whitn
 - [SDH-integrated CBL improves surgical interns' social factor identification and analysis (d = 1.39) versus CBL alone](sdh-integrated-cbl-improves-social-factor-analysis.md) — related
 - [SDH-integrated CBL improves history taking and medical record writing versus CBL alone (d = 0.54–0.60)](sdh-integrated-cbl-improves-history-taking-documentation.md) — related
 - [SDH integration does not compromise theoretical knowledge, physical examination, or diagnostic analysis versus CBL alone](sdh-integration-preserves-core-clinical-knowledge.md) — related
+- [Integrated model raises satisfaction, clinical thinking, practical skill self-ratings and engagement, with no difference in resource utilization](microskills-cptm-questionnaire-engagement.md) — related

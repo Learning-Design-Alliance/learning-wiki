@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 133 claims (104 show a difference, 19 mixed, 10 no difference) · 112 studies (43 causal, 25 review, 13 qualitative, 11 quant-synthesis, 9 associational, 6 design, 5 theoretical), `q1`–`q3` · 11 of 112 report an effect size · 133 claims rest on one study
+> **Evidence** · 137 claims (108 show a difference, 19 mixed, 10 no difference) · 115 studies (43 causal, 26 review, 14 qualitative, 11 quant-synthesis, 9 associational, 7 design, 5 theoretical), `q1`–`q3` · 11 of 115 report an effect size · 137 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -175,6 +175,10 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [The collaborative model shows no significant effect on inter-professional teamwork competence or transformative learning readiness](../claims/fsph-3d-model-no-effect-teamwork-transformative-learning.md) [-W] — measured as an outcome of the instruction studied
 - [Teamwork ability, professional ethics awareness, and understanding of healthcare-related social responsibility did not differ significantly between integrated PBL-humanities and LBL groups](../claims/integrated-pbl-humanities-null-teamwork-ethics-social-responsibility.md) [-M] — measured as an outcome of the instruction studied
 - [Students perceived teamwork in the whisper exam as constructive and enjoyable, with nearly all respondents rating interaction as constructive](../claims/whisper-exam-teamwork-constructive-enjoyable.md) [+M] — measured as an outcome of the instruction studied
+- [Most participants reported perceived competency gains in interprofessional collaboration, communication, teamwork and empathy, and professional knowledge and skills](../claims/mcleims-perceived-competency-gains.md) [+M] — measured as an outcome of the instruction studied
+- [Staff focus groups identify student preparedness, engagement and teamworking as sub-themes of student learning outcomes in integrated TBL.](../claims/staff-focus-groups-student-learning-outcomes-tbl.md) [+M] — measured as an outcome of the instruction studied
+- [Staff report improved student engagement and teamworking in TBL compared with PBL, including higher-quality discussion during TRAT and application exercises.](../claims/staff-report-improved-engagement-teamworking-tbl.md) [+M] — measured as an outcome of the instruction studied
+- [Without teamwork supports, lack of trust creates individualistic learning and withdrawal; a low-key norming intervention improved teamwork through psychological safety](../claims/cbl-teamwork-supports-psychological-safety.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

@@ -51,3 +51,4 @@ The review's outcomes synthesis, using a modified Kirkpatrick hierarchy, reports
 - [Evidence for technology-enhanced basic robotic skills training is concentrated at Kirkpatrick level 2, with no studies reporting transfer to operative behaviour or patient outcomes](kirkpatrick-level2-only-evidence-base.md) — related
 - [No reviewed game study measured behavioural change or patient/health-care outcomes; most measured knowledge and skills](no-behaviour-or-patient-outcomes-game-studies.md) — related
 - [Across Kirkpatrick Levels 1 and 2, most studies found no statistically significant differences between observer and active participant roles in simulation-based education](observer-vs-active-role-mostly-no-difference-kirkpatrick-1-2.md) — related
+- [Pharmacy students reported strong engagement and positive reactions to the campaign as an experiential learning activity.](pharmacy-students-strong-engagement-experiential-campaign.md) — related

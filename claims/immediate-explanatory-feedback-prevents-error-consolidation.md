@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-04
 sources:
   - id: rodríguez-rincón-2025
     resource: "https://doi.org/10.1007/s11423-025-10516-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Immediate explanatory feedback in interactive virtual tutoring platforms allows students to avoid consolidating erroneous concepts and to work on subsequent exercises with appropriate reasoning structures. [→ Rodríguez Rincón 2025](#rodriguez-rincon-2025)

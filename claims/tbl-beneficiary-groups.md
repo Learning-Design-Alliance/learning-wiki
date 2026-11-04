@@ -69,3 +69,4 @@ Umbrella review synthesis: one meta-analysis reported freshmen derived greater b
 - [TBL is associated with higher practical skill scores than LBL in Chinese neurology education (SMD = 1.72)](tbl-higher-practical-skill-scores-neurology-china.md) — related
 - [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](tbl-higher-theoretical-knowledge-scores-neurology-china.md) — related
 - [In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related
+- [Female students are more negative about their overall integrated TBL experience than male students.](female-students-more-negative-overall-tbl-experience.md) — related

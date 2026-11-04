@@ -55,3 +55,4 @@ The review's synthesis of the six studies (12%) examining gender reports that ge
 - [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — related
 - [No significant gender differences were found on any model variable](no-gender-differences-model-variables.md) — a broader claim this one bears on
 - [No gender differences were found in any dimension according to teacher SEL training](ruler-no-gender-differences.md) — related
+- [No significant differences in self‐efficacy beliefs across teachers' disciplines](no-discipline-differences-university-teacher-self-efficacy.md) — related

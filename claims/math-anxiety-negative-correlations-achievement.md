@@ -73,3 +73,4 @@ The authors' own study of "some 80 undergraduates" measured math anxiety and WRA
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — related
 - [Math anxiety correlates negatively with math performance at a pooled r = −.30 across 169 independent samples](math-anxiety-negative-correlation-math-performance.md) — related
 - [Test anxiety correlates negatively with math achievement at a pooled r = −.23, weaker than math anxiety's correlation](test-anxiety-negative-correlation-math-achievement.md) — related
+- [Mathematics anxiety is negatively correlated with learning engagement and mathematics achievement among high school students.](math-anxiety-negative-correlation-engagement-achievement.md) — a narrower finding that bears on this claim

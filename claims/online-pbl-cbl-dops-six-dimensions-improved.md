@@ -69,3 +69,5 @@ Results section reporting non-significant DOPS findings. The Discussion attribut
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — related
 - [Non-linear PBL grades comparable to essays and oral presentations but lower than online quizzes](non-linear-pbl-grades-comparable-to-essays-and-oral-presentations.md) — related
+- [Integrated model improves six of seven DOPS domains but not humanistic literacy](microskills-cptm-dops-mixed.md) — related
+- [At one-month follow-up the experimental group outperformed controls on six specific checklist tasks](modified-peyton-six-checklist-tasks-retention.md) — related

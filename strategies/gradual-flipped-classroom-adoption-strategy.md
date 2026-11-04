@@ -51,6 +51,7 @@ The authors' six-step recommendation set for teachers or administrators wishing 
 - [Micro Flipped Classroom](micro_flipped_classroom.md)
 - [Teacher training and preparation recommendations for implementing the flipped classroom strategy](fcrs-teacher-training-and-tool-preparation-strategy.md)
 - [Implement flipped reading instruction by assigning pre-class videos and reserving class time for collaborative application](flipped-reading-video-then-in-class-practice-strategy.md)
+- [Phased implementation with shared video library and peer-assisted feedback to scale micro-skills training](microskills-cptm-scaling-strategy.md)
 
 ## Examples
 -

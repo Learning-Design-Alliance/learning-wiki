@@ -66,3 +66,4 @@ Reliability of the two coders' independent ratings before adjudication of the 66
 - [Students engaged deeply with LLM feedback, with coded evidence of reflection, rebuttal, and acceptance in the large majority of responses](deep-engagement-llm-feedback-reflection-rebuttal-acceptance.md) — related
 - [Engagement in deep learning activities, as measured by NSSE's DEEP Learning scale, shows no statistically significant relationship with objectively measured critical thinking at the end of the first year](deep-learning-scale-no-caap-critical-thinking-relationship.md) — related
 - [Engagement does not mediate the grade difference between tool users and non-users](engagement-does-not-mediate-grade-difference.md) — related
+- [Simulation-related variables (usability, satisfaction, presence, technology acceptance) do not predict training outcomes](simulation-variables-do-not-predict-outcomes.md) — related

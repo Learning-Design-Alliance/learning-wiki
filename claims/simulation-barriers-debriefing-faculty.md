@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-04
 sources:
   - id: daneshfar-majid-moonaghi-hossein-karimi-2025
     resource: "https://doi.org/10.1186/s12909-025-07790-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Barriers compromising long-term impact of simulation-based learning included insufficient debriefing, lack of repeated exposure, and inadequate faculty development, with confidence and readiness declining over time without reinforcement. [→ Daneshfar Majid; Moonaghi Hossein Karimi 2025](#daneshfar-majid-moonaghi-hossein-karimi-2025)
@@ -48,3 +49,4 @@ The review's synthesis of barriers across included studies reports "insufficient
 - Five research gaps were identified: lack of explicit empathy definitions, limited scenario diversity, absence of repeated interventions, self-report limitations, and insufficient long-term outcome evidence — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
+- [System-level barriers including inadequate simulation-based training and lack of visual job aids constrain optimal MgSO4 practice](systemic-barriers-mgso4-training-job-aids.md) — related

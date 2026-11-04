@@ -65,6 +65,7 @@ The review reports Dwisaptarini et al.'s RCT of minimal invasive caries removal 
 
 
 ## Related Claims
+
 - [Virtual haptic drilling training achieved outcomes similar to conventional practice in less time in restorative dentistry](ir-shortens-dental-training-duration.md) — related
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — a broader claim this one bears on
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — a broader claim this one bears on
@@ -89,3 +90,4 @@ The review reports Dwisaptarini et al.'s RCT of minimal invasive caries removal 
 - [Across 51 included studies, most results favored haptic over non-haptic conditions in surgical virtual simulations](haptics-favored-in-majority-of-surgical-vs-studies.md) — a broader claim this one bears on
 - [Technology-enhanced simulation may result in superior retention of clinical knowledge and skills compared to traditional teaching methods alone, with durable retention for months to years](simulation-improves-knowledge-retention.md) — related
 - [Prior studies cited in the article report mixed results, with Scerbo et al. finding simulated limbs outperformed a VRS for phlebotomy training while later simulator studies found advantages for simulation](mixed-prior-evidence-vrs-versus-traditional-training.md) — related
+- [Overall technical quality of treatments was similar between natural and artificial teeth groups](similar-technical-quality-both-groups.md)

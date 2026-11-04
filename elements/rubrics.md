@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 42 claims (17 for, 21 mixed, 4 against) · 39 studies (18 causal, 7 review, 7 design, 4 associational, 3 quant-synthesis), `q1`–`q3` · 5 of 39 report an effect size · 39 claims rest on one study
+> **Evidence** · 43 claims (18 for, 21 mixed, 4 against) · 40 studies (18 causal, 8 design, 7 review, 4 associational, 3 quant-synthesis), `q1`–`q3` · 5 of 40 report an effect size · 40 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -72,6 +72,7 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Model choice, prompting configuration, and rubric component all significantly affect LLM-human agreement, with significant interactions](../claims/mixed-effects-model-significant-main-and-interaction-effects.md) [~W]
 - [The six-point rating scale achieved slightly better inter-observer reliability than the five-point scale in real-time piloting](../claims/optis-six-point-scale-better-real-time-reliability.md) [~W]
 - [Brief written rubric-based assessments may have limited sensitivity to detect incremental effects of serious-game add-ons due to potential ceiling effects](../claims/brief-rubric-assessment-limited-sensitivity-ceiling.md) [~W]
+- [Most participants preferred the modified Ottawa-scale over the AMC 3-point scale for greater differentiation and more clinically intuitive descriptors](../claims/ottawa-scale-preferred-over-amc-scale.md) [+W]
 
 ## The evidence by question
 - *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]

@@ -68,3 +68,4 @@ Meta-analysis of 6 RCTs reporting general and poor teaching effect (251 and 251 
 - [Students rate teaching as satisfactory more often under PBL+LBL than LBL, with no significant differences for ordinary or poor ratings](pbl-lbl-higher-teaching-satisfaction.md)
 - [CBL increases teaching satisfaction versus LBL (RR=1.38)](cbl-increases-teaching-satisfaction.md) — related
 - [Students report higher satisfaction with PBL-CBL teaching than with LBL in orthopedic education](pbl-cbl-higher-teaching-satisfaction.md) — related
+- [AI-assisted PBL-CBL combined teaching increases teaching satisfaction among medical interns compared with lecture-based teaching](ai-pbl-cbl-increases-teaching-satisfaction.md) — related

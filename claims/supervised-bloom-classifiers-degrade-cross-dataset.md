@@ -88,3 +88,4 @@ Same cross-dataset evaluation protocol (RQ1); the fine-tuned BERT reference mode
 - [Science readability models trained on context-specific corpora fail to generalize to unseen test corpora in all three languages](science-ara-models-poor-generalization-unseen-corpora.md) — a narrower finding that bears on this claim
 - [SAG model prediction performance varies widely across corpora even with the same architecture, so benchmark results cannot predict performance on new data sets](sag-performance-varies-across-corpora.md) — a narrower finding that bears on this claim
 - [Few-shot LLM approaches outperform standalone supervised ML approaches, yet hand-crafted rules remain relevant](few-shot-llm-outperforms-ml-hcr-relevant.md) — related
+- [Classification accuracy declines near the median score threshold due to overlap between low‐ and high‐skill feature distributions](accuracy-declines-near-median-threshold.md) — related

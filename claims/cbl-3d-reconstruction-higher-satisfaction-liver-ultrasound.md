@@ -51,3 +51,4 @@ In this single-center RCT, 60 residents were randomized 1:1 after a pre-course t
 - [No significant difference between CBL-3D and traditional teaching in qualitative diagnosis of focal liver lesions](cbl-3d-reconstruction-no-gain-qualitative-diagnosis.md) — related
 - [PBL-CBL teaching increases residents' learning interest, initiative, and critical thinking compared with traditional teaching](pbl-cbl-increases-interest-initiative-thinking.md) — related
 - [In the same RCT, the experimental group reported higher scores than the control group across all five dimensions of teaching satisfaction (all P < 0.05)](pbl-virtual-simulation-satisfaction-all-dimensions-trauma-orthopedics.md) — related
+- [Residents in the modified Peyton group report higher teaching satisfaction across all surveyed dimensions](modified-peyton-higher-satisfaction.md) — related

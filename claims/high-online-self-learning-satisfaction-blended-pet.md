@@ -58,3 +58,4 @@ Descriptive analysis of the 10-item survey (Cronbach's alpha = .914, KMO = .846)
 - [Student satisfaction remained high in the blended format, with teaching evaluation scores above the program average in both groups](blended-teq-above-program-average.md) — related
 - [Both video and text/image groups reported satisfaction with the materials and activities in class](both-groups-satisfied-with-materials-and-activities.md) — related
 - [Students were highly satisfied with the paired course model and its components, with 100% willing to advise a new student to take the paired courses](paired-course-high-student-satisfaction.md) — related
+- [Lay health care workers report high engagement with and satisfaction toward blended digital training in low-resource settings](digital-training-high-engagement-satisfaction.md) — related

@@ -73,3 +73,4 @@ Qualitative thematic analysis of 30-minute semi-structured interviews with 10 ra
 - [A review of 17 e-learning course-design studies identified four major design themes: course structure, content presentation, collaboration and interaction, and timely feedback](lister-four-elearning-design-themes.md) — related
 - [Teachers in the project increased expertise and improved internal motivation through self-reflection and consultations.](clil-teacher-expertise-motivation.md) — related
 - [ESL learners trained in metacognitive strategies hold more positive views of the strategies' effectiveness than untrained peers](trained-esl-learners-positive-views-metacognitive-strategies.md) — related
+- [Qualitative interviews identify five themes: learning interest, self-directed learning, communication and humanistic care, clinical thinking, and improvement suggestions](boppps-virtual-simulation-qualitative-themes.md) — related

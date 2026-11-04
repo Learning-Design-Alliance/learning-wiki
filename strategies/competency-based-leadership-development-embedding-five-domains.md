@@ -53,6 +53,7 @@ The article recommends designing structured, competency-based training framework
 ## Related Strategies
 
 - [Use the framework to design competence-based education, training programs, and assessment tools for BCP](bcp-framework-training-design-strategy.md)
+- [Incorporate paternalistic leadership training into residency supervisor qualification and development systems](leadership-training-supervisor-development-srt.md)
 
 ## Examples
 -

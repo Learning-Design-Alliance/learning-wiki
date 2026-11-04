@@ -48,3 +48,4 @@ Scoping review of 58 articles on ISBTT programs; the review's charting of theore
 - Only a small minority of ISBTT studies used the IPEC competencies to design programs or assess participants — related
 - [Most ISBTT programs are one-time events involving two or three professions, with debriefing nearly universal and psychological safety rarely addressed](isbtt-design-features-one-time-two-professions.md) — related
 - [Assessed collaborative behaviors in ISBTT rarely cover all four IPEC domains, with values and ethics almost never assessed](isbtt-outcomes-rarely-cover-all-ipec-domains.md) — related
+- [Educational programs incorporating realistic simulations, virtual technologies, and interprofessional exercises are most effective in improving technical skills, confidence, and crisis management](rea-36-studies-simulation-virtual-interprofessional-most-effective.md) — related

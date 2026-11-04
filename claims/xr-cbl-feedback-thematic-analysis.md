@@ -48,3 +48,4 @@ Qualitative thematic analysis of open-ended survey responses from both cohorts t
 - [Thematic analysis showed mixed perceptions and access challenges in the 2021 cohort versus more positive views and enhancement suggestions in the 2022 cohort](thematic-analysis-cohort-themes-3d-ims.md) — related
 - [Students in both cohorts responded positively to the XR-CBL modules, with CO 2025 reporting higher satisfaction and perceived learning gains than CO 2024 despite identical module delivery](xr-cbl-positive-perceptions-cohort-difference.md) — related
 - [Students strongly endorse online anatomical image repositories and quizzes as learning aids](student-satisfaction-anatomical-image-repository.md) — related
+- [The variety of learning activities offered each week, along with the engagement and clinical relevance of these, was the strongest theme raised by students in open-ended survey responses.](variety-of-learning-activities-strongest-student-theme.md) — related

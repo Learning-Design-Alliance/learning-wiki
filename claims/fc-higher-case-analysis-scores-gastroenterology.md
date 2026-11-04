@@ -48,3 +48,4 @@ Randomized controlled trial of 112 residents (FC n = 56, TC n = 56) after 4 week
 - [Flipped classroom residents score higher on clinical skills assessment than traditional classroom residents (89.23 ± 2.71 vs. 86.11 ± 3.59, p = 0.001)](fc-higher-clinical-skills-scores-gastroenterology.md) — related
 - [Flipped classroom and traditional classroom groups show comparable multiple-choice question performance (p = 0.651)](fc-comparable-multiple-choice-performance.md) — related
 - [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](flipped-classroom-moderate-positive-effect-college.md) — a broader claim this one bears on
+- [Flipped classroom students achieved significantly higher mean pharmacology exam grades than traditional classroom students](fc-higher-mean-exam-grade-dental-pharmacology.md) — related

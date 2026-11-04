@@ -46,6 +46,7 @@ The report describes a concrete implementation routine for CWPT: practice 30 min
 - [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
 - [In-class peer tutoring structured as 30 minutes of note comparison, feedback and doubt clarification after the teacher's explanation](in-class-peer-tutoring-session-structure.md)
 - [Open the adaptation process with a briefing session introducing criteria for adapting listening materials, then keep the teacher available as consultant](briefing-session-then-teacher-consultant-role.md)
+- [Integrate AI into structured peer teaching in four modes with training and quality safeguards](four-mode-ai-integration-peer-teaching-strategy.md)
 
 ## Examples
 -

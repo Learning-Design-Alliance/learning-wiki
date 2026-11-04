@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 94 claims (41 for, 50 mixed, 3 against) · 79 studies (37 causal, 16 review, 10 quant-synthesis, 10 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 79 report an effect size · 85 claims rest on one study
+> **Evidence** · 95 claims (41 for, 51 mixed, 3 against) · 80 studies (37 causal, 16 review, 10 quant-synthesis, 10 theoretical, 4 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 80 report an effect size · 86 claims rest on one study
 
 ## Conditional relationship
 
@@ -176,6 +176,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Students used GPT dialogue to manage perceived conceptual complexity, with simplification the most evident cognitive load management strategy, though cognitive load was not measured directly](../claims/gpt-cognitive-load-management-strategies.md) [+W]
 - [Cognitive load theory explains how clinical reasoning learning manages working memory capacity](../claims/cognitive-load-theory-clinical-reasoning-working-memory.md) [+W]
 - [Authors attribute the integrated component's limited efficacy to cognitive load from transcribing between notations for at-risk learners](../claims/cognitive-load-transcribing-limits-integrated-benefit.md) [~W]
+- [High‐skill recognition is better for knot tying, whereas low‐skill recognition is better for the more demanding tasks (CS and IS)](../claims/task-dependent-skill-recognition-asymmetry.md) [~W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

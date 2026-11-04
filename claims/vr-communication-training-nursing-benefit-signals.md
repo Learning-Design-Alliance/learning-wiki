@@ -50,3 +50,4 @@ The review's thematic synthesis of seven included studies reports benefit signal
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — related
 - [Structurally designed AI-SPs are noninferior to human SPs in communication skill improvement, with unique advantages for self-efficacy](ai-sp-noninferior-communication-skills.md) — related
+- [A video-based climate change program improved nursing students' climate change perceptions, environmental self-efficacy, and reduced climate anxiety, with large effects](video-based-climate-program-large-effects-students.md) — related

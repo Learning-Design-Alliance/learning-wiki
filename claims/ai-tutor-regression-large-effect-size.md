@@ -53,3 +53,5 @@ Linear regression model (Table S1) clustered at the student level in the crossov
 - [GLAT scores predicted performance on GenAI-supported tasks better than perceived ChatGPT proficiency](glat-predicts-task-performance-better-than-self-report.md) — related
 - [In-class chat engagement significantly predicts higher test scores in MAIC courses](chat-engagement-predicts-test-scores.md) — related
 - [In one RCT, a content-rich prompt-engineered generative AI chat tutor improved performance and engagement in a Harvard physics course](genai-chat-tutor-rct-physics-improved-performance.md) — related
+- [Real-time interaction with AI tools significantly predicts academic performance in linear regression](rti-ai-predicts-academic-performance-regression.md) — related
+- [Real-time interaction with AI tools significantly predicts learning experience in linear regression](rti-ai-predicts-learning-experience-regression.md) — related

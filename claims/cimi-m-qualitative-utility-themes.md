@@ -47,3 +47,4 @@ General Inductive Approach analysis of semi-structured debrief interviews with e
 ## Related Claims
 - [An exploratory configural caseness rule formalizes when a veteran warrants treatment for moral injury](cimi-m-configural-caseness-rule.md) — related
 - [Veterans and clinicians rate the CIMI-M as feasible, acceptable, and clinically useful in a preliminary evaluation](cimi-m-favorable-feasibility-ratings.md) — related
+- [Clinician facilitators foster student trust and improve engagement, communication and clinical reasoning in CBL](cbl-clinician-facilitators-build-trust-improve-outcomes.md) — related

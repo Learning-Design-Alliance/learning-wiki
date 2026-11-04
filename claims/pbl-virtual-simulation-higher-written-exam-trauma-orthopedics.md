@@ -53,3 +53,4 @@ Assessor-blinded RCT of 50 clinical medical students interning at the First Affi
 - [In the same RCT, no significant between-group differences were observed in baseline theoretical knowledge or clinical skills scores before teaching](pbl-virtual-simulation-no-baseline-differences-trauma-orthopedics.md) — related
 - [Case-based learning and combined emerging methods show non-significant pooled advantages over lecture-based learning](cbl-combined-methods-nonsignificant-dental.md) — related
 - [Puzzle intervention groups achieve significantly higher final exam accuracy than control groups](puzzle-higher-final-exam-accuracy-than-controls.md) — related
+- [BOPPPS with virtual simulation yields significantly higher total internship performance scores than traditional teaching (d = 3.12)](boppps-virtual-simulation-higher-internship-performance.md) — related

@@ -41,7 +41,7 @@ The article proposes a framework in which "each sung note is a practice opportun
 - [Register Compression Singing Accuracy Chinese Classrooms](../claims/register-compression-singing-accuracy-chinese-classrooms.md) [+M]
 - [Per-pitch BKT attains the highest accuracy, lowest BCE and lowest Brier score of the four model families, but lower AUC than IRT](../claims/bkt-highest-accuracy-lower-auc-than-irt.md) [+W]
 - [A one-parameter IRT model outperforms global and per-pitch baselines on AUC, BCE and Brier score but not on threshold accuracy for held-out singing attempts](../claims/irt-outperforms-baselines-discrimination-not-accuracy.md) [+M]
-- [Latent singing ability varies widely across learners, with sequence-level theta estimates spanning −3.79 to 3.36 logits](../claims/wide-latent-ability-spread-singing-learners.md) [+W]
+- [Sequence-level estimates of latent singing ability vary widely, spanning −3.79 to 3.36 logits across 2,432 practice sequences from 1,074 learners](../claims/wide-latent-ability-spread-singing-learners.md) [+W]
 
 ## Related Theories
 - 

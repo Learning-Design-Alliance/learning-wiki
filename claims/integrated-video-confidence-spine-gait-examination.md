@@ -50,3 +50,4 @@ Randomized controlled trial comparing intervention (custom video plus standard m
 - [Integrated videos improved perceived explanation quality but not overall confidence for hip/ankle/foot examinations](integrated-video-explanation-quality-hip-ankle-foot.md) — related
 - [Integrated videos did not improve confidence in guiding differential diagnosis except in the upper limb examination](video-no-differential-diagnosis-confidence-gain.md) — related
 - [No significant differences between intervention and control groups for any knee examination survey item](no-significant-difference-knee-examination-video.md) — related
+- [A standardized training program significantly increases veterinary students' perceived knowledge and confidence in SBWGTT placement and POCUS pathology recognition](training-program-increases-student-knowledge-confidence-sbwgtt.md) — related

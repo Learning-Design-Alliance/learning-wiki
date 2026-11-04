@@ -52,3 +52,4 @@ A repeated-measures ANOVA on the five-item MCC composite (covering preparedness 
 - [Over one third of participants reported increased conversations with colleagues about student veterans they were concerned about, suggesting potential institutional-level culture change.](voc-training-increases-collegial-conversations.md) — related
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
+- [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related

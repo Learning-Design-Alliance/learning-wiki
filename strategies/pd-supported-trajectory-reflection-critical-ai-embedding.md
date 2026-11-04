@@ -55,6 +55,7 @@ The article recommends that professional development move beyond tool demonstrat
 - [Direct further research toward new teacher roles, learning pathways and graduate attributes focused on imagination, creativity and innovation](research-priorities-graduate-attributes-creativity.md)
 - [Integrate structured opportunities for critical engagement with AI into teacher education programs](structured-critical-ai-engagement-teacher-education.md)
 - [Structure AI-supported professional development around collaborative reflection rather than technical training alone](collaborative-reflection-ai-tpd.md)
+- [Integrate structured guidance on responsible, critical AI use alongside self-directed learning approaches](structured-guidance-responsible-critical-ai-use-nursing.md)
 
 ## Examples
 -

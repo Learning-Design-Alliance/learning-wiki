@@ -80,3 +80,4 @@ Construct profile plot (Fig. 4) of mean scores per cluster on the original unsca
 - Ethics discussions in AIED are largely consequentialist, specifically utilitarian, in nature — related
 - [GenAI-assisted persona profiles matched campaign briefings at high levels (average 85% mobile phone, 80% drink campaign)](genai-persona-briefing-high-matching.md) — related
 - [Students' attitudes towards error-handling cluster into three characteristic learner types](three-learner-types-error-attitudes.md) — related
+- [Students rated AI most valuable for time-efficient information gathering and complex mechanism explanation, while remaining cautious about AI information accuracy.](student-ai-perceptions-efficiency-versus-accuracy-caution.md) — related

@@ -69,3 +69,4 @@ Thematic synthesis of self-reflection exercises and debriefing across the review
 - [Grief training in medical education is most often delivered as short voluntary workshops focused on transmitting knowledge about death, dying and bereavement](grief-training-short-voluntary-knowledge-focused-workshops.md) — related
 - [PKTP family learning activities created opportunities for informal teacher-family relationships and a greater sense of community](pktp-family-activities-built-informal-relationships.md) — related
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
+- [Feedback facilitators such as faculty coaches can increase trainee receptivity to patient feedback](feedback-facilitators-increase-receptivity.md) — related

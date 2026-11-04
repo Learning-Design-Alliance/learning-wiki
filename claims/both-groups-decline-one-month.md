@@ -48,3 +48,4 @@ Quasi-experimental study with 90 NICU nurses. The quote confirms "all nurses in 
 - [Both face-to-face training and mobile learning significantly improve NICU nurses' preterm infant positioning performance one week post-intervention compared to control](f2f-and-mlearning-improve-positioning-one-week.md) — related
 - [Mobile learning shows better one-month knowledge retention than face-to-face training for NICU nurses' positioning performance](mlearning-better-one-month-retention.md) — related
 - [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — related
+- [Game-based training with precision teaching improved disaster knowledge and behavioral fluency more than case-based training, with no significant fluency decline at one month](game-based-precision-teaching-improved-fluency.md) — related

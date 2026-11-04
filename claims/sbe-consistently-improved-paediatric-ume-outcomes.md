@@ -76,3 +76,4 @@ The review's synthesis of Table 3 outcome data across the 30 studies, assessed v
 - [A virtual reality open inguinal hernia model improved medical students' knowledge of the procedure but did not assess technical skill](vr-open-hernia-model-improves-student-knowledge.md) — related
 - [Perceived confidence in CPR skill retention improved markedly between 3 and 6 months in both groups](retention-confidence-self-report-trajectory.md) — a narrower finding that bears on this claim
 - [Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills.](simulation-increases-clinical-confidence.md) — related
+- [Active learning is perceived by nursing students and educators to enhance confidence, engagement, knowledge retention, and clinical reasoning](active-learning-enhances-nursing-outcomes-perceptions.md) — a broader claim this one bears on

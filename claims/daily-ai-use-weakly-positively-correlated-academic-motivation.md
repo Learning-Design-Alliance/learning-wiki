@@ -53,3 +53,4 @@ Bivariate Pearson correlations (Table 1) in the cross-sectional survey of 1,484 
 - [Emotion regulation is positively associated with academic motivation among university students](emotion-regulation-positively-associated-academic-motivation.md) — related
 - [Students' knowledge of GenAI is positively correlated with their frequency of use](genai-knowledge-frequency-use-correlation.md) — related
 - [Year of study is only weakly positively associated with reported AI usage frequency, indicating tool normalization across cohorts](weak-year-usage-frequency-association.md) — related
+- [AI utility perception, but not usage frequency, is associated with learning outcomes](ai-utility-perception-not-frequency-predicts-learning.md) — related

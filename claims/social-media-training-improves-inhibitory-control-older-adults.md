@@ -49,3 +49,4 @@ Within-group dependent t-tests in a randomized wait-list controlled study of 34 
 - [Social media use rose sharply during the workshop (d = .954) but significantly declined in the following three months (d = .553), though remaining above baseline at 4 months](social-media-use-gains-not-sustained-after-training.md) — related
 - [Between groups, the intervention showed a moderate inhibitory-control advantage at 4 weeks (p = .052) and a large advantage at 4 months (η2 = .135), with a significant main effect of time for both groups](inhibitory-control-between-group-advantage-4-months.md) — related
 - [Short-term creativity interventions can be effective in changing creativity positively](short-term-interventions-change-creativity.md) — related
+- [Both groups improved over the internship period, but the experimental group showed gains earlier](simroid-robot-both-groups-improved-over-time.md) — related

@@ -66,3 +66,4 @@ HLM subgroup analysis of the grade 1 word reading outcome following a significan
 ## Related Claims
 - [Relative effects of the standalone versus embedded intervention were inconsistent across cohorts and baseline scores, favoring first one intervention and then the other](inconsistent-relative-effects-cohort-baseline.md) — possibly the same claim (merge candidate)
 - [Stand-alone and embedded interventions produced nonsignificant differences on all other reading and language outcomes in grades K–2](tier2-stand-alone-embedded-no-other-outcome-differences.md) — related
+- [Intervention effects were consistent across the 2024 and 2025 cohorts (non-significant cohort-by-intervention interaction)](boppps-cbl-effect-consistent-across-cohorts.md) — reports the opposite

@@ -13,7 +13,7 @@ generated:
 # Identity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (75 show a difference, 17 mixed, 3 no difference) · 60 studies (18 review, 13 associational, 11 qualitative, 10 causal, 4 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 2 of 60 report an effect size · 94 claims rest on one study
+> **Evidence** · 96 claims (76 show a difference, 17 mixed, 3 no difference) · 61 studies (18 review, 13 associational, 12 qualitative, 10 causal, 4 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 2 of 61 report an effect size · 95 claims rest on one study
 
 ## Description
 Identity is a learner's sense of self and understanding of who they are, which shapes how they engage with the world. It begins forming in infancy, develops most intensely during adolescence, and keeps changing in adult life. Commonly named aspects include race, ethnicity, gender, cultural background, language and disability status. In early childhood children begin to form identities as they learn about themselves and their world; in middle childhood they come to understand social categories in more depth and start to take on social identities through interaction with peers and educators; in adolescence peers and social life take on more weight and learners navigate social spaces more independently. The LVN summaries tie identity to learning in three ways: a positive ethnic-racial identity is associated with achievement and self-esteem, it can buffer the harm of discrimination, and identity-based stereotypes can produce [stereotype threat](stereotype-threat.md) and weaken [belonging](belonging.md). It is measured mainly with ethnic and racial identity scales for older children and adolescents. The group categories themselves are not causes of learning outcomes: see the wiki's pages on [race and ethnicity](race-and-ethnicity.md) and [gender](gender.md), where differences are read as reflecting circumstances and treatment. The LVN covers identity for pre-kindergarten to grade 12 only.
@@ -131,6 +131,7 @@ Identity is a learner's sense of self and understanding of who they are, which s
 - [Achievement variation by gender and ethnicity appears slighter in the self-affirmation condition](../claims/self-affirmation-slighter-achievement-variation.md) [~M] — an instructional effect differs with it
 - [Participation in the Alkhimia curriculum shifted intervention students' identity perceptions and their dispositions toward scientific inquiry](../claims/alkhimia-shifts-identity-and-inquiry-dispositions.md) [+M] — instruction changes it
 - [C-K theory teaching, creative role identity, and creative self-efficacy together explain 56.076% of variance in creativity scores](../claims/ck-theory-multilevel-variance-creativity.md) [+M] — learners who differ on it differ in outcomes
+- [Pharmacy students perceived broader community impact and role-identity formation from participating in the campaign.](../claims/pharmacy-students-perceived-community-impact-role-identity.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Multigroup Ethnic Identity Measure, Revised (MEIM-R)** (Phinney & Ong, 2007): a brief survey of affiliation with one's ethnic group for older elementary students and adolescents.

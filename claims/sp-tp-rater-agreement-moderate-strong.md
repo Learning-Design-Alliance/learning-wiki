@@ -48,3 +48,4 @@ Leave-one-out interrater agreement analysis comparing SP scores with a reference
 ## Related Claims
 - [An automated LLM assessor rates 3E clinical communication skills with agreement comparable to individual human raters](llm-assessor-agrees-with-human-raters-3e.md) — related
 - [Standardised patient performance shows almost perfect inter-rater (kappa 0.84) and substantial intra-rater (kappa 0.75) agreement](pt-osce-sp-kappa-agreement-high.md) — related
+- [Patient and clinician rater scores sometimes correlate poorly, an undertone used to question patients as assessors](low-patient-physician-score-correlation.md) — related

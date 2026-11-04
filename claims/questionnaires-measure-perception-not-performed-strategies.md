@@ -65,3 +65,4 @@ The editorial's methodological-considerations section states this validity chall
 - [Self-report survey measures of integrity may diverge from actual behaviour, as illustrated by participants' self-perceptions versus admitted conduct](self-report-diverges-from-behaviour-ri.md) — a narrower finding that bears on this claim
 - [Students could not generalize MAI questionnaire statements to their actual metacognition awareness, motivating culturally grounded awareness instruments](mai-items-limited-generalization-to-actual-awareness.md) — a narrower finding that bears on this claim
 - [Deaf students report high overall perception of MFTM across interest, self-confidence, persistence and motivation](high-student-perception-mftm-four-dimensions.md) — related
+- [Self‐reported self‐efficacy questionnaires may not reflect actual teaching behaviour quality](self-report-self-efficacy-may-not-reflect-teaching-behaviour.md) — a narrower finding that bears on this claim

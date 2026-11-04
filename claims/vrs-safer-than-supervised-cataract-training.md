@@ -57,3 +57,4 @@ Scoping review synthesis comparing supervised surgery studies with VRS studies. 
 - [VR simulation studies with control groups showed decreased surgical time when training with a VR simulator](vr-training-decreased-surgical-time.md) — related
 - [XR simulator training of residents improved live-patient surgical outcomes compared to residents not trained with XR](xr-training-transfers-to-live-patient-outcomes.md) — a broader claim this one bears on
 - [Effectiveness evidence for ophthalmic simulators mostly stops at level 2 (contained effects), with isolated exceptions at level 3 (Sophocle) and level 5 (Eyesi for cataract surgery).](simulator-effectiveness-mostly-level-2-rare-downstream-target-effects.md) — related
+- [Complication rates did not differ significantly between pre- and post-training periods](no-significant-complication-change-after-porcine-training.md) — related

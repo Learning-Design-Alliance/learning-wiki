@@ -51,3 +51,4 @@ Ranking comparison based on the difficulty indices in Table 3, computed from the
 - [Scorer severity and standard difficulty were statistically adjusted using Many-Facet Rasch analysis before assignment and work measures were compared](rasch-adjustment-of-scorer-severity.md) — related
 - [Australian and Malaysian Muslim learners ranked discord items differently, with Australian students most resistant to anti-science statements and most accepting of divine-cause statements](australian-malaysian-discord-item-differences.md) — related
 - [CTT-based quiz difficulty rankings are validated by IRT analysis with near-perfect rank correlation](irt-validates-ctt-quiz-difficulty-ranking.md) — related
+- [Item response theory analysis identifies image optimization, structure diameter, and structure surface distance as the most difficult assessment items](irt-identifies-most-difficult-ultrasound-items.md) — related

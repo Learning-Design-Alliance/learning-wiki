@@ -101,3 +101,4 @@ The review reports these positive signals alongside settings where incorrect key
 - [GenAI-assisted items had more distractor-functioning red flags — nonfunctioning and negatively discriminating distractors — although these differences were not statistically significant](genai-mcq-distractor-red-flags.md) — related
 - [LLM-assisted MCQ generation achieved a 5.6-fold efficiency gain over student authorship in a formative medical exam context](llm-mcq-generation-efficiency-gain.md) — related
 - [Student-generated MCQs showed higher item discrimination than AI-generated MCQs, with a small effect size and a majority of AI items in the poor-discrimination band](student-gen-items-higher-discrimination.md) — related
+- [A majority of ChatGPT-generated MCQs met 'good quality' criteria for balanced difficulty and discrimination](chatgpt-mcq-good-quality-proportion.md) — related

@@ -52,3 +52,4 @@ The review's discussion synthesizes findings on learning environment, noting tha
 - [Peer tutoring contributes to psychological safety and reduced anxiety in demanding simulation learning environments](peer-tutoring-psychological-safety-anxiety.md) — related
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — a narrower finding that bears on this claim
 - [Clinical simulation is perceived as a safe environment that allows learning from mistakes without risk to patients](simulation-safe-environment-learning-from-errors.md) — a narrower finding that bears on this claim
+- [Without teamwork supports, lack of trust creates individualistic learning and withdrawal; a low-key norming intervention improved teamwork through psychological safety](cbl-teamwork-supports-psychological-safety.md) — related

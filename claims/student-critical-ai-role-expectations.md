@@ -112,3 +112,5 @@ Critical-reflection items of the post-course questionnaire (n=29 respondents). S
 - [Within this LMS-integrated design, personalised GPT use fell into four recurring cognitive partnership roles: conceptual tutor, co-designer, reflective mirror, and cognitive challenger](gpt-cognitive-partner-typology-four-roles.md) — related
 - [Students still face obstacles applying critical thinking skills to Number Theory problems despite instruction](students-obstacles-critical-thinking-number-theory.md) — related
 - [Word cloud analysis prompted qualitative changes in student thinking including objective analysis and purposeful reflection](word-clouds-prompt-changes-in-thinking.md) — related
+- [Over 75% of students in the AI-enhanced flipped classroom group reported a regular habit of using AI tools at least once per week.](majority-regular-weekly-ai-use.md) — related
+- [Most students expected AI to serve as personal tutor, creative partner, and critical thinking partner rather than merely a content generator.](students-expect-collaborative-ai-roles-beyond-content-generation.md) — possibly the same claim (merge candidate)

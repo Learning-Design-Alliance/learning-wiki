@@ -56,3 +56,5 @@ This scoping review of 26 publications on faculty development in interprofession
 - [Small interdisciplinary teamwork was the most widely reported teaching strategy, explicitly reported in 62 articles](small-interdisciplinary-teams-62-articles.md) — related
 - [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related
 - [Communication skills, pharmaceutical care competencies, and collaborative skills are identified as essential for sim-IPE participation](essential-competencies-sim-ipe-participation.md) — related
+- [Most participants reported perceived competency gains in interprofessional collaboration, communication, teamwork and empathy, and professional knowledge and skills](mcleims-perceived-competency-gains.md) — related
+- [Teamwork and interprofessional communication is the most frequently represented communication competency theme in the formal curriculum, comprising 46.9% of identified quotes](teamwork-most-frequent-communication-theme.md) — related

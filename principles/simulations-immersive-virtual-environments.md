@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 361 claims (193 for, 144 mixed, 24 against) · 217 studies (75 review, 69 causal, 39 quant-synthesis, 15 qualitative, 10 design, 8 theoretical, 1 associational), `q1`–`q4` · 46 of 217 report an effect size · 356 claims rest on one study
+> **Evidence** · 373 claims (202 for, 147 mixed, 24 against) · 224 studies (76 review, 71 causal, 39 quant-synthesis, 15 qualitative, 14 design, 8 theoretical, 1 associational), `q1`–`q4` · 46 of 224 report an effect size · 368 claims rest on one study
 
 ## Conditional relationship
 
@@ -374,6 +374,9 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [In situ simulated emergency training added to routine training raises self-rated clinical reasoning in junior nurses](../claims/in-situ-set-improves-clinical-reasoning-junior-nurses.md) [+W] — attached 2026-11-04 from Shen Meiyu et al. (2026), which proposed "Conduct simulation training in the real clinical environment using actual clinical resources"; tests this page's relationship.
 - [In situ simulated emergency training added to routine training raises self-rated first aid ability in junior nurses](../claims/in-situ-set-improves-first-aid-junior-nurses.md) [+W] — attached 2026-11-04 from Shen Meiyu et al. (2026), which proposed "Conduct simulation training in the real clinical environment using actual clinical resources"; tests this page's relationship.
 - [VR-based training yields higher objective structured endoscopic skills scores than model simulation](../claims/vr-training-higher-endoscopic-skills-scores.md) [+W] — attached 2026-11-04 from Zhang Yunyun et al. (2026), which proposed "Integrate VR simulation into residency curricula as a supplementary modality for endoscopic training"; tests this page's relationship.
+- [Simulation-trained students showed higher mean scores across all four OSCE stations compared with clinically trained peers](../claims/sbt-higher-mean-scores-all-osce-stations.md) [+W] — attached 2026-11-04 from Alyami Wadha et al. (2026), which proposed "Integrate simulation-based training alongside clinical training to support procedural readiness and radiation safety in nuclear medicine education"; tests this page's relationship.
+- [Consultant paediatric surgeons showed a significant overall reduction in operative time after a 12-week porcine-model laparoscopic training programme](../claims/porcine-model-training-reduces-operative-time-consultants.md) [+W] — attached 2026-11-04 from Pensabene Marco et al. (2026), which proposed "Integrate porcine-model laparoscopic training into continuing professional development for experienced surgeons"; tests this page's relationship.
+- [Educational programs incorporating realistic simulations, virtual technologies, and interprofessional exercises are most effective in improving technical skills, confidence, and crisis management](../claims/rea-36-studies-simulation-virtual-interprofessional-most-effective.md) [+W] — attached 2026-11-04 from Delbene Lara et al. (2026), which proposed "Integrate disaster preparedness training into nursing curricula and continuing education".
 
 ## Objective and learner-valued goal
 
@@ -597,6 +600,15 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Transfer of VR training gains to real clinical practice remains unconfirmed](../claims/vr-training-transfer-unconfirmed.md) [~W]
 - [Virtual-reality simulator training alone failed to show significant transfer to in vivo porcine suturing in a cited prior randomized trial, contrasting with the present physical-simulator findings](../claims/vr-simulator-training-no-transfer-porcine-suturing.md) [~W]
 - [Knowledge-examination gains from VR training are domain-specific](../claims/vr-knowledge-gains-domain-specific.md) [~W]
+- [Robotic simulation training independently associated with higher OSATS and TSM scores after adjustment](../claims/robotic-simulation-training-higher-performance.md) [+W]
+- [Knot Tying showed the lowest and most variable expert scores on FRS VR, likely due to poor interaction fidelity](../claims/frs-vr-knot-tying-poor-interaction-fidelity.md) [~W]
+- [Authors attribute SBT performance advantages to repeated structured rehearsal in a controlled learning environment](../claims/sbt-advantage-attributed-repeated-structured-rehearsal.md) [+W]
+- [Simulation-trained students significantly outperformed clinically trained peers on the dose calibrator use OSCE station](../claims/sbt-outperforms-cbt-dose-calibrator-station.md) [+W]
+- [All participants improved scores from Run 1 to Run 2 regardless of group, but time improvement did not correlate with experience](../claims/helpmesee-run1-run2-improvement-all-groups.md) [+W]
+- [Residents rated the pork-based model higher in fidelity and satisfaction than the silicone model, with no difference in operational difficulty](../claims/pork-model-higher-fidelity-satisfaction-than-silicone.md) [~W]
+- [Simulation-trained students significantly outperformed clinically trained peers on the dose preparation and generator handling OSCE station](../claims/sbt-outperforms-cbt-dose-preparation-station.md) [+W]
+- [Simulation-trained students significantly outperformed clinically trained peers on the radiation safety procedures OSCE station](../claims/sbt-outperforms-cbt-safety-procedures-station.md) [+W]
+- [Virtual patient simulations produced educational improvements equivalent to live standardized patient simulations](../claims/virtual-patients-equivalent-to-standardized-patients.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

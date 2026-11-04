@@ -70,3 +70,4 @@ Qualitative case studies of 28 STEM courses at nine institutions; interviews and
 - [Guided notes benefit achievement more relative to student-generated notes than relative to professor-provided full lecture notes](guided-notes-vs-note-type-moderator.md) — related
 - [The authors observed higher course motivation among students using the analogy-based simulations](observed-motivation-analogy-simulation-students.md) — related
 - [Active-learning sequence improved student engagement](active-learning-improved-student-engagement.md) — related
+- [Facilitator observations indicated higher student engagement than in lecture-based sessions](facilitator-observed-higher-engagement-than-lectures.md) — related

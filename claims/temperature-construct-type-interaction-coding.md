@@ -77,3 +77,4 @@ Pairwise reliability analysis across temperature settings. Higher-temperature pa
 - [Clarity showed the strongest and most consistent gains; coherence gains were more variable](clarity-strongest-gain-coherence-variable.md) — related
 - Card sorting of GenAI-brainstormed concepts showed best agreement for the Refreshing Stimulus category and under-70% agreement for some concepts — reports the opposite
 - [Hyperparameter setting with maximum token 53 and temperature 1 (Set C) yields the most accurate AGE grading performance](age-hyperparameter-set-c-most-accurate.md)
+- [Data contamination and single-dataset limitations restrict generalizability of LLM benchmarking results on dental specialization exams](llm-dental-benchmark-data-contamination-limitation.md) — related

@@ -48,3 +48,4 @@ Narrative synthesis reporting a GP validation study comparing self-rated underst
 - [Health professionals are less likely to identify the correct definition of likelihood ratios than of sensitivity and specificity](health-professionals-less-likely-define-likelihood-ratios-than-sensitivity-specificity.md) — related
 - [Only a minority of health professionals can define likelihood ratios, predictive values and specificity when asked to verbalise definitions](minority-health-professionals-define-accuracy-measures.md) — related
 - [Students tend to overestimate their clinical judgment ability relative to evaluator-assessed scores](students-overestimate-clinical-judgment.md) — related
+- [Less surgical experience is associated with overestimation of abilities](less-experience-overestimation.md) — related

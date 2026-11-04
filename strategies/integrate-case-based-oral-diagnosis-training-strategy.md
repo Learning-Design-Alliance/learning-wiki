@@ -50,6 +50,7 @@ The authors recommend that medical curricula strengthen oral health education by
 ## Related Strategies
 
 - [Adopt interdisciplinary simulation sessions to address curriculum gaps in topics spanning multiple specialties](interdisciplinary-simulation-for-cross-specialty-gaps.md)
+- [Use simulation-based training, digital tools, and interdisciplinary workshops to teach dental trauma management](simulation-digital-interdisciplinary-dental-trauma-training.md)
 
 ## Examples
 -

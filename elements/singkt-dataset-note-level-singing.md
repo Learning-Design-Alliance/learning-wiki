@@ -42,7 +42,7 @@ The singKT dataset is an openly released corpus of singing interactions collecte
 - [Low-register pitches are sung more accurately than high-register pitches in Chinese classrooms, reproducing register compression at scale](../claims/register-compression-singing-accuracy-chinese-classrooms.md) [+W]
 - [A one-parameter IRT model outperforms global and per-pitch baselines on AUC, BCE and Brier score but not on threshold accuracy for held-out singing attempts](../claims/irt-outperforms-baselines-discrimination-not-accuracy.md) [+W]
 - [Note-level singing correctness rises with practice repetition in a negatively accelerated curve, gaining about 7 percentage points over 30 repetitions](../claims/singing-accuracy-negatively-accurated-repetition-curve.md) [+W]
-- [Latent singing ability varies widely across learners, with sequence-level theta estimates spanning −3.79 to 3.36 logits](../claims/wide-latent-ability-spread-singing-learners.md) [+W]
+- [Sequence-level estimates of latent singing ability vary widely, spanning −3.79 to 3.36 logits across 2,432 practice sequences from 1,074 learners](../claims/wide-latent-ability-spread-singing-learners.md) [+W]
 
 ## Related Elements
 - 

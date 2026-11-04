@@ -123,3 +123,4 @@ The claim also sits within the wider evidence base on [collaborative learning im
 - [Process-based and product-based feedback produce larger performance gains than no feedback, with rubric-based feedback only marginal](process-product-feedback-strongest-performance-gains.md) — related
 - [Holding participants accountable for critique quality (not evaluation accuracy) improves review outcomes](accountability-for-critique-quality-improves-reviews.md) — related
 - [Back-evaluation of reviews increases reviewer motivation, transparency, and feedback quality](back-evaluation-increases-reviewer-motivation.md) — related
+- [The educational value of EPAAs depended primarily on the quality of the feedback discussion](epaa-educational-value-depends-on-feedback-quality.md) — related

@@ -55,3 +55,4 @@ Cluster-randomized controlled trial with four classes of second-year anesthesiol
 - [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — reports the opposite
 - [IWCL+CBL and LBL+CBL produce no significant overall difference in specialty physical examination proficiency in an otolaryngology clerkship](iwcl-cbl-no-difference-physical-exam-proficiency.md) — related
 - [PBL-DeepSeek students achieve higher theoretical examination scores than traditionally taught students in a glaucoma clerkship](deepseek-pbl-higher-theory-scores-glaucoma.md) — reports the opposite
+- [AI-assisted PBL-CBL combined teaching raises medical interns' theoretical examination scores in post-herpetic neuralgia compared with lecture-based teaching](ai-pbl-cbl-improves-theoretical-examination-scores.md) — related

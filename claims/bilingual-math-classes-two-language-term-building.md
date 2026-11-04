@@ -68,3 +68,4 @@ Author's theoretical argument extending the linguistic-subject linkage of monoli
 - [Language development functions as a consequence of, not a prerequisite for, deep conceptual exploration in secondary mathematics for English Learners](language-consequence-not-prerequisite-math-el.md) — related
 - [A bilingual PrimarWebQuest on lengths is being investigated for its contribution to mathematical and linguistic learning at primary level](bilingual-primarwebquest-lengths-learning-contribution.md) — related
 - [Comparing the US standard and metric measurement systems can deepen understanding of the metric system and support intercultural learning in bilingual classes](comparing-us-standard-metric-systems-deepens-metric-understanding.md) — related
+- [Pharmacy students reported knowledge acquisition and communication skill development through delivering the campaign.](pharmacy-students-knowledge-and-communication-skill-gains.md) — related

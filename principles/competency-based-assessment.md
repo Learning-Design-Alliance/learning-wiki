@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (14 for, 34 mixed, 2 against) · 50 studies (11 review, 10 causal, 9 design, 9 theoretical, 7 associational, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 50 report an effect size · 45 claims rest on one study
+> **Evidence** · 52 claims (15 for, 35 mixed, 2 against) · 52 studies (11 review, 10 causal, 10 design, 9 theoretical, 8 associational, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 52 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -118,6 +118,7 @@ Re-read 2026-10-15: eleven of the claims listed here were worked into the model 
 - [Twenty of 34 tools assessed the two highest Miller levels ('shows how' and 'does'), with team work, risk management and communication the most assessed skills](../claims/most-tools-target-higher-miller-levels.md) [+W] — attached 2026-11-01 from Okuyama Ayako et al. (2011), which proposed "Adapt context-specific assessment tools to each discipline rather than copying them across working environments".
 - [Most catalog competencies were classified as perform independently (n=274), followed by perform under supervision (n=55) and master the technique (n=34)](../claims/competence-level-distribution-perform-independently-dominant.md) [~W] — attached 2026-11-04 from Nogueira Rodrigo de Melo et al. (2026), which proposed "Define both competencies and expected performance levels to support competency-based curriculum development and assessment".
 - [Higher OSATS scores on video-assessed robotic gastroenterostomy predict a lower rate of grade B/C delayed gastric emptying after robotic pancreatoduodenectomy](../claims/osats-rge-score-predicts-grade-bc-dge.md) [+W] — attached 2026-11-04 from Video Assessment of Surgical Performance in Robotic Gastroenterostomy During Pancreatoduod, which proposed "OSATS video assessment can serve as a tool for competency-based training programs and quality-controlled implementation of robotic pancreatoduodenectomy".
+- [Expert-derived time- and score-based training benchmarks discriminate between novice learners and expert surgeons on all six FRS VR tasks](../claims/frs-vr-benchmarks-discriminate-novice-expert.md) [+W] — attached 2026-11-04 from Deravi Noosha D. et al. (2026), which proposed "Set VR surgical training benchmarks at or below expert trimmed mean time and at or above expert median score".
 
 ## Objective and learner-valued goal
 
@@ -155,6 +156,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - [The heterogeneity of suturing assessment tools precludes meta-analysis, though their content could be merged into a panel of competence markers](../claims/heterogeneous-suturing-tools-preclude-meta-analysis.md) [~W]
 - [Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components](../claims/higher-concordance-binary-than-ternary-components.md) [~W]
 - [LC-CUSUM trajectories showed progressive skill acquisition in both groups, with descriptive trends toward earlier competency in the mikoto arm](../claims/mikoto-lc-cusum-learning-curves.md) [+W]
+- [The pork-based simulation model stratifies surgical competency across PGY levels](../claims/pork-model-stratifies-competency-pgy-levels.md) [~W]
 
 ## Related Principles
 - [Mastery Learning](mastery-learning.md) — the progression rule that learners advance on demonstrated mastery rather than schedule

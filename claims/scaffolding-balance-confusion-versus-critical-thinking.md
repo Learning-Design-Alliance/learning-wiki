@@ -64,3 +64,4 @@ A lesson-learned synthesized from classroom trials, instructor and student feedb
 - [The supplemental model risks students skipping online work and course overload](supplemental-model-challenges.md) — related
 - [Discussion boards improve knowledge acquisition, critical and reflective thinking in physiotherapy education](discussion-boards-improve-knowledge-critical-reflective-thinking.md) — related
 - [Teachers perceived Quest as overly prescriptive, with too much material for a 50–60 minute lesson and insufficient writing opportunities, but valued its texts and co-operative learning](quest-teacher-perceptions-barriers-and-positives.md) — related
+- [Participants perceived training adequacy differently by group: written-instructions group wanted more, expert-led group found it too time-consuming](mul-training-perceived-adequacy-varies-by-group.md) — related

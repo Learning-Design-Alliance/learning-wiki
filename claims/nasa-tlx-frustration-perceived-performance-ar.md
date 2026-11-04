@@ -72,3 +72,4 @@ NASA TLX final score results (Figure 9): the average workload score achieved by 
 - [NASA-TLX dimensions varied by design phase: frustration and mental demand rose considerably in the initial modules, and mental demand was lower during the final manufacturing steps](nasa-tlx-dimensions-vary-by-design-phase.md) — related
 - [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — reports the opposite
 - [App-guided ALS support shows no clear improvement in overall perceived workload compared with standard practice](app-guided-als-no-overall-workload-difference.md) — related
+- [No significant difference in cognitive workload between novices and experienced participants across NASA-TLX domains](no-nasa-tlx-difference-novice-experienced.md) — related

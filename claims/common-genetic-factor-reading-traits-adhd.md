@@ -50,3 +50,5 @@ Genomic SEM analysis of LDSC-derived genetic covariance among five GWAS summary 
 - The common factor model is specific to reading and ADHD rather than broader psychiatric liability, and stability analyses support the reading-ADHD structure — related
 - [Nonword reading was excluded from the Genomic SEM model because its genetic correlations with word reading and spelling exceeded 1.0](nonword-reading-excluded-correlation-exceeds-one.md) — related
 - [Literacy, phonological awareness, oral language and PWM abilities share a large proportion of underlying genetic variation in unrelated youth](shared-genetic-factor-literacy-language-pwm.md) — related
+- [Concordant and discordant dyslexia partitions show opposite genetic covariance patterns with cognitive and psychiatric traits](dyslexia-partition-genetic-covariance.md) — related
+- [No sex differences in the effect of dyslexia genetic liability on school performance](no-sex-difference-dyslexia-pgs-school-performance.md) — related

@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 111 claims (60 for, 48 mixed, 3 against) · 84 studies (37 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 24 of 84 report an effect size · 105 claims rest on one study
+> **Evidence** · 112 claims (61 for, 48 mixed, 3 against) · 85 studies (37 causal, 19 quant-synthesis, 17 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 24 of 85 report an effect size · 106 claims rest on one study
 
 ## Conditional relationship
 
@@ -232,6 +232,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [In Year 3, students reported that their game-based coursework felt like work and play more frequently than like work (50% of the time compared to 41%).](../claims/year3-game-based-coursework-like-work-and-play-50-compared-to-41.md) [+W]
 - [Teacher satisfaction with the clinical encounter was significantly higher in the serious game group than in the control group](../claims/serious-game-burn-teacher-satisfaction.md) [~W]
 - [The serious game intervention produced statistically significant post-intervention improvements in all seven Mini-CEX skill domains with large effect sizes (partial η² 0.71–0.90)](../claims/serious-game-all-seven-mini-cex-domains.md) [+W]
+- [Game-based training with precision teaching improved disaster knowledge and behavioral fluency more than case-based training, with no significant fluency decline at one month](../claims/game-based-precision-teaching-improved-fluency.md) [+W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

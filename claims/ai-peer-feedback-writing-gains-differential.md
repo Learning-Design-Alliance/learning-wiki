@@ -72,3 +72,4 @@ Bonferroni-adjusted follow-up simple-effect analyses on the mixed-design ANCOVA.
 - [Generative AI-assisted feedback is associated with a statistically significant pretest–posttest improvement in violin students' intonation performance over a four-week period](genai-feedback-improves-violin-intonation-posttest.md) — related
 - [Neither feedback mode produced differential improvements in syntactic complexity; a general time effect appeared only in the first task](syntactic-complexity-no-differential-effect.md) — related
 - [GenAI benefits vary across writing sub-tasks: organization and style improve marginally while policy logic shows no improvement](genai-subtask-differential-benefits.md) — related
+- [Professional accuracy showed the smallest improvement among the five dimensions, with some students scoring lower due to uncritical adoption of AI-generated content.](professional-accuracy-gains-smallest-among-dimensions.md) — related

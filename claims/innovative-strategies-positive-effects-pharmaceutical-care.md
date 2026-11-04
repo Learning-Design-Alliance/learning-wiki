@@ -77,3 +77,4 @@ Table 5 of the review reports per-study main results, including a PBL study's "R
 - [TBL shows favorable outcomes for clinical performance, skills and learner engagement](tbl-performance-engagement-favorable.md) — a narrower finding that bears on this claim
 - [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](ccs-perceived-strengths-realism-reasoning-communication.md) — related
 - [Communication skills, pharmaceutical care competencies, and collaborative skills are identified as essential for sim-IPE participation](essential-competencies-sim-ipe-participation.md) — related
+- [Blended digital training improves lay health care workers' knowledge of HIV index case testing modestly more than standard in-person training alone](blended-digital-training-modest-knowledge-gains-index-testing.md) — a narrower finding that bears on this claim

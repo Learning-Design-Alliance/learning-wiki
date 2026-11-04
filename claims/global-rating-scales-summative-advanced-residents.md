@@ -52,3 +52,4 @@ The review's narrative synthesis of global rating scale studies (19 studies). It
 - [Checklists show reasonable validity and reliability but have an early ceiling effect and are most appropriate for novice learners in formative settings](checklists-valid-but-ceiling-effect-novice-formative.md) — related
 - [No current technical skills-assessment tool in orthopaedic surgical training fulfills accepted criteria for effective assessment](no-orthopaedic-assessment-tool-fulfills-effective-assessment-criteria.md) — related
 - [Global rating scales by expert practitioners are as reliable as item-specific checklists and less labour intensive to devise](global-rating-scales-as-reliable-as-checklists.md) — related
+- [Surgical technique subcomponents of the rating scale discriminate PGY levels better than non-technical subcomponents](technical-subcomponents-greater-discernibility.md) — a narrower finding that bears on this claim

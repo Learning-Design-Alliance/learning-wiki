@@ -97,3 +97,5 @@ The review narrates a TeamSTEPPS study in surgical and pediatric intensive care 
 - [Simulation-based CRM training transfers to the workplace: three of four studies found simulation-enhanced CRM training significantly more effective than no intervention or didactic teaching](simulation-crm-training-transfers-to-workplace.md) — a narrower finding that bears on this claim
 - [All mentored teachers maintained scores above 80% over a 21-day follow-up, while non-mentored teachers' scores were variable and largely not sustained](mentoring-sustains-performance-21-days.md) — related
 - [Short-term skill retention after AR-guided training was stable for time and imaging metrics at a minimum one-day follow-up](ar-simulator-short-term-retention-stable.md) — related
+- [A hospital disaster management skill training program improved nurse educators' knowledge, skills, attitudes, and behavior](hdm-skill-training-improved-nurse-educators.md) — a narrower finding that bears on this claim
+- [Providers reported increased skill, knowledge, and confidence after training interventions](provider-confidence-knowledge-skill-increased-after-training.md) — related

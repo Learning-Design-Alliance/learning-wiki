@@ -49,3 +49,4 @@ Paired t-test analysis of 105 KM students' pre- and post-practice self-efficacy 
 - [Students perceived instructor's supportive guidance and portable ultrasound practicality as key features of the learning environment](supportive-guidance-portable-ultrasound-environment.md) — related
 - [Participation in the BOPPPS-PBL course is associated with a modest increase in general self-efficacy among newly recruited nurses](boppps-pbl-course-self-efficacy-increase.md) — related
 - [Median self-confidence in performing US-guided peripheral venous access increased from 5 to 8 after the brief training](us-training-confidence-5-to-8.md) — related
+- [SMART VHV Plus Model training was associated with a statistically significant competency gain from 86.14% to 98.16% (Cohen's d = 1.96)](smart-vhv-plus-model-significant-competency-gain.md) — related

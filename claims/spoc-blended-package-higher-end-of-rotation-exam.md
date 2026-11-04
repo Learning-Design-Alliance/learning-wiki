@@ -51,3 +51,4 @@ Department-specific end-of-rotation examination with theoretical and practical c
 - [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](spoc-blended-package-high-adherence.md) — related
 - [All 4 principal between-group comparisons remain statistically significant after exploratory Holm correction, and bootstrap confidence intervals are consistent with conventional estimates](spoc-blended-package-sensitivity-analyses-robust.md) — related
 - [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — related
+- [Integrated micro-skills training-CPTM improves theoretical exam scores versus traditional teaching](microskills-cptm-higher-theoretical-exam.md) — related

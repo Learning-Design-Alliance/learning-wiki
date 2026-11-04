@@ -75,3 +75,4 @@ Re-analysis of Era 2 score distributions reported in Chapter 2. The widespread b
 - [Reading score distributions within A–F letter grades overlap heavily, so letter grades misrepresent the achievement of many individual students](letter-grades-hide-within-grade-score-variation.md) — related
 - [Reliability of state test scores is highest near cut-scores or the mean and much lower for very high- or low-performing students](conditional-reliability-low-at-score-tails.md) — related
 - [A mean-classification cut-score method outperformed a contrasting-groups-style mean method because it was more robust to outliers](mean-classification-cut-score-method-robust.md) — related
+- [Classification accuracy declines near the median score threshold due to overlap between low‐ and high‐skill feature distributions](accuracy-declines-near-median-threshold.md) — related

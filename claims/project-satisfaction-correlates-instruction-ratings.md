@@ -48,3 +48,4 @@ Pearson correlations from the case-study survey data (Table 5), e.g. r = 0.70 fo
 - [Multidisciplinary co-instructed capstone subprojects outperformed traditional disciplinary projects in 4 of 5 courses](co-instructed-capstone-outperformed-traditional-4-of-5.md) — related
 - [In a pilot study of student-centered guest lecturing, most online graduate students reported positive satisfaction and perceived engagement with the approach](pilot-positive-perceptions-student-centered-guest-lecturing.md) — related
 - [Higher education teachers' self-efficacy beliefs at semester start positively predict students' end-of-course overall rating, learning, and joy, and negatively predict boredom](teacher-self-efficacy-predicts-student-teaching-quality-emotions.md) — related
+- [Satisfaction with course content selection correlated strongly with perceived practical skill improvement (r = 0.541, p < 0.001)](satisfaction-content-correlates-skill-improvement.md) — related

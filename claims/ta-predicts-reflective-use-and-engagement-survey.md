@@ -49,3 +49,4 @@ Secondary survey dataset (N = 131) analyzed with a parcel-based latent SEM estim
 - [ASR usage frequency moderately predicts reflective behavior but does not significantly predict learning motivation](asr-usage-frequency-reflection-not-motivation.md) — related
 - [In the TAM structural model, satisfaction mediated sustained use: usability strongly predicted usefulness (β = 0.93), usefulness predicted satisfaction (β = 0.76), but usefulness did not directly predict use intention (β = 0.02, p = .896)](satisfaction-mediates-agent-use.md) — related
 - [AI literacy directly and positively predicts learning engagement among university students](ai-literacy-predicts-learning-engagement.md) — related
+- [Simulation-related variables (usability, satisfaction, presence, technology acceptance) do not predict training outcomes](simulation-variables-do-not-predict-outcomes.md) — reports the opposite

@@ -44,7 +44,8 @@ The review recommends leveraging online platforms and instructional supports whe
 - [Rubrics and training were the most frequently implemented presentation modes of online peer feedback](../claims/rubrics-and-training-most-frequent-presentation-modes.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Phased implementation with shared video library and peer-assisted feedback to scale micro-skills training](microskills-cptm-scaling-strategy.md)
 
 ## Examples
 -

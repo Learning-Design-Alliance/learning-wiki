@@ -52,3 +52,4 @@ Mann-Whitney U tests comparing process assessment and final examination scores b
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
 - [The 5E+AI teaching model significantly improved medical students' medical knowledge test scores compared with lecture-based instruction](5e-ai-model-improved-medical-knowledge-test-scores.md) — related
 - [MOOC-HFS blended internship improves academic performance across all assessments compared to traditional teaching](mooc-hfs-blended-improves-academic-performance.md) — related
+- [BOPPPS with virtual simulation yields significantly higher total internship performance scores than traditional teaching (d = 3.12)](boppps-virtual-simulation-higher-internship-performance.md) — related

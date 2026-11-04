@@ -52,3 +52,4 @@ Pilot study evaluation of the TigerGPT conversational survey chatbot reported in
 - [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related
 - [The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders](factria-chatbot-usability-sus-70-84.md) — related
 - [In a 16-rater usability survey after a session, CoLearn scores an overall mean of 4.0/5 with no dimension below ≈3.7, and 75% (12/16) would reuse it; Responsiveness is the lowest dimension](collearn-usability-survey-4-of-5.md) — related
+- [Students rate the AISP chatbot highly usable, with robotic conversational style the most common concern](aisp-cortex-usability-cuq-findings.md) — related

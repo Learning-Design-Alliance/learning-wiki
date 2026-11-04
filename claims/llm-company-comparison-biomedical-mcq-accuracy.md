@@ -59,3 +59,4 @@ Random‐effects proportional meta‐analysis comparing newer LLM models from co
 - [Subgroup analyses show significant between-model differences, with Copilot (75.25%) and ChatGPT-4 (72.97%) achieving the highest pooled accuracies](llm-subgroup-copilot-chatgpt4-highest-accuracy.md) — reports the opposite
 - [DeepSeek-R1 and Qwen2.5-32B significantly outperformed GPT-4o on both question-level and case-level accuracy](deepseek-qwen32b-outperform-gpt4o-clinical-cases.md) — related
 - [ChatGPT-5.1, DeepSeek-R1, and Gemini 2.5 Flash show high, statistically comparable accuracy on Turkish Pharmacy Specialty Examination questions](llms-high-comparable-accuracy-eus.md) — related
+- [ChatGPT-4o achieved 71% accuracy on the Chinese question bank, comparable to dental undergraduates and OMS graduate students but lower than OMS specialists](chatgpt-4o-71-percent-chinese-question-bank-accuracy.md) — related

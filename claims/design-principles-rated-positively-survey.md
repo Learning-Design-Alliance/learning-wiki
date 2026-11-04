@@ -71,3 +71,4 @@ Same end-of-term survey (176 respondents). The article contrasts the two DP2 sub
 - [Qualitative interviews with 23 students support the survey results, indicating the digital tutor supported students' learning processes](qualitative-interviews-support-learning-support.md) — a narrower finding that bears on this claim
 - [Students report learning from tutor-web quizzes: 53 of 60 surveyed students found last questions easier than first](student-survey-learning-quizzes.md) — related
 - [Students rated the peer-assisted simulation workshops highly, with mean satisfaction scores above 4 of 5](high-satisfaction-peer-simulation-workshops.md) — related
+- [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related

@@ -50,3 +50,4 @@ Comparison of automated vs manual grades across 122 solutions from 11 assignment
 - [More advanced LLMs (ChatGPT 4.0, Claude 3.0 Haiku) did not improve criterion-based grading over ChatGPT 3.5 with the same prompt](advanced-llms-no-grading-improvement.md) — related
 - [A teacher without IELTS-specific training showed poorer grading consistency than the best LLM prompt condition](teacher-grading-poorer-consistency-than-llm.md) — related
 - [AI scores demonstrated high consistency with expert ratings (ICC = 0.893)](ai-scoring-high-consistency-expert-ratings-icc-0893.md) — related
+- [Expert reference standard for MUL measurements showed excellent agreement (ICC 0.90)](expert-reference-mul-icc-090.md) — related

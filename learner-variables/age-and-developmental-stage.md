@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 224 claims (141 show a difference, 53 mixed, 30 no difference) · 180 studies (65 associational, 42 causal, 27 review, 24 quant-synthesis, 10 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 26 of 180 report an effect size · 222 claims rest on one study
+> **Evidence** · 225 claims (142 show a difference, 53 mixed, 30 no difference) · 181 studies (66 associational, 42 causal, 27 review, 24 quant-synthesis, 10 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 26 of 181 report an effect size · 223 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -256,6 +256,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Younger nursing students more frequently report motivational challenges in self-directed learning than mature students](../claims/younger-students-motivation-challenges-sdl.md) [+M] — learners who differ on it differ in outcomes
 - [Age group and staff position are the only demographic factors associated with significant growth in perceived competency, with registered nurses and nurses aged 30–34 showing the greatest gains](../claims/age-and-staff-position-moderate-competency-growth.md) [+M] — an instructional effect differs with it
 - [Students with good school achievement were significantly older and showed higher alternating selective attention than peers with insufficient performance](../claims/good-achievement-older-higher-alternating-attention.md) [+W] — learners who differ on it differ in outcomes
+- [Mature Nursing students reported significantly lower empathic care intentions than younger counterparts, possibly explaining the discipline's lower scores](../claims/mature-nursing-students-lower-empathic-intentions.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

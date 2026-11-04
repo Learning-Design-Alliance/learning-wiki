@@ -48,3 +48,4 @@ The article reports, citing Cloyes et al. (2020), a document analysis of foundat
 ## Related Claims
 - [The CARE Act, enacted in 44 U.S. states, mandates hospitals record, notify, and educate designated family caregivers](care-act-44-states-caregiver-mandates.md) — related
 - [The 19 FCG-C were crosswalked with the 2021 AACN Essentials, aligning family caregiving content across all 10 AACN domains](fcg-c-crosswalked-aacn-essentials-ten-domains.md) — related
+- [Document analysis found learning materials adequate and aligned with SRL principles and learning outcomes](document-analysis-materials-adequate-srl.md) — related

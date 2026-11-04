@@ -59,3 +59,4 @@ Pearson product-moment correlation analysis of math anxiety scale and math achie
 - [Math anxiety is significantly negatively correlated with math achievement in second and third graders, independent of trait anxiety and IQ](math-anxiety-negative-math-achievement-young-children.md) — related
 - [Math anxiety relates more strongly to Mathematical Reasoning than to Numerical Operations in second and third graders](math-anxiety-stronger-mathematical-reasoning-than-numerical-operations.md) — a narrower finding that bears on this claim
 - [Both SEMA subscales — numerical and situational anxiety — are equally negatively related to math achievement](math-anxiety-subscale-effects-on-achievement.md) — a narrower finding that bears on this claim
+- [Mathematics anxiety is negatively correlated with learning engagement and mathematics achievement among high school students.](math-anxiety-negative-correlation-engagement-achievement.md) — related

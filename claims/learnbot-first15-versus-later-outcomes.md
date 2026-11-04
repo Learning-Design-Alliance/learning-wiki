@@ -47,3 +47,5 @@ Stratified comparison of the first 15 RPDs per center (n=222) against subsequent
 ## Related Claims
 - [After completing the LEARNBOT training program, 40 previously RPD-inexperienced surgeons across 20 European centers performed 486 RPDs with outcomes comparable to established benchmarks](learnbot-feasibility-outcomes-486-rpd.md) — a broader claim this one bears on
 - [Risk-adjusted learning-curve analysis showed a significant downward trend in predicted POPF risk and operative duration with increasing center experience, an upward trend in blood loss, and stable major complications](learnbot-learning-curve-popf-trend.md) — related
+- [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
+- [Tertile analysis showed a significant stepwise decrease in operative time across experience but only a non-significant decreasing trend in composite failure](tertile-analysis-stepwise-operative-time.md) — related

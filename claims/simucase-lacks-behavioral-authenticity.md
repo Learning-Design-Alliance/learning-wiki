@@ -63,3 +63,4 @@ Focus-group theme from a qualitative phenomenological pilot: two focus groups (f
 - [Simulation and hybrid authentic-learning approaches do not necessarily differ in participants or experienced meaningfulness of collaboration](simulation-hybrid-approaches-differ-not-participants-meaningfulness.md) — related
 - [Domain-expert feedback indicated the Tero character initially felt unrealistic and presented a narrow perspective of forest ownership](tero-narrow-perspective-feedback.md)
 - [Beneficial design features include diverse, authentic case variation and immediate, individualized, actionable, transparent feedback, yet only 52.6% of studies incorporated feedback](ai-virtual-patients-feedback-feature-underincorporated.md) — related
+- [Authentic cases incorporating patient encounters, role-plays or multimedia motivate preclinical students' engagement and support knowledge gains](cbl-authentic-cases-motivate-engagement-knowledge.md) — reports the opposite

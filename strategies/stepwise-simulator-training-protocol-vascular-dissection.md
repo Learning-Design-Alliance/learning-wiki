@@ -52,6 +52,7 @@ The article’s training recipe consists of a standardized instructional video i
 ## Related Strategies
 
 - [Pair a pre-test anastomosis attempt with standardized video instruction and supervised practice before a post-test on the same simulator](video-instruction-supervised-practice-prepost-strategy.md)
+- [Embed technical skills practice in a full clinical encounter simulation with preoperative and postoperative tasks](full-clinical-encounter-simulation-strategy.md)
 
 ## Examples
 -

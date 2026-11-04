@@ -49,3 +49,4 @@ The review reports the frequency of each active learning strategy across the 35 
 - [The review finds flipped learning, PBL, gamification, and collaborative learning adapted to digital environments produced positive effects on motivation, participation, and transversal competences](flipped-pbl-gamification-collaborative-digital-effects.md) — related
 - [Case-based discussion is the most commonly used learning activity type in interprofessional education for undergraduate healthcare students](cbd-most-common-ipe-activity.md) — related
 - Thirty-five studies on online active learning in undergraduate dental education were included in this scoping review. — related
+- [Undergraduate nursing students report exposure to diverse active learning strategies, with team-based learning, simulation, and case-based learning most frequently experienced](nursing-students-experience-diverse-active-learning-strategies.md) — related

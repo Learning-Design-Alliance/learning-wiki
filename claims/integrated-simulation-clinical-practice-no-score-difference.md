@@ -51,3 +51,4 @@ Quasi-experimental comparison of 42 observation-group and 38 control-group third
 - [Clinical simulation improved pathophysiology learning with a significant grade shift toward higher marks](clinical-simulation-improves-pathophysiology-grades.md) — related
 - [PE and internal punctures scores differed significantly across the diagnostic, internal medicine and internship periods in the integrated cohort](pe-punctures-scores-vary-by-period.md) — related
 - [Students report higher satisfaction and more positive emotional responses with simulation-based teaching than with traditional practical instruction](simulation-higher-satisfaction-positive-emotions.md) — related
+- [Integrated micro-skills training-CPTM improves OSCE practical skill scores versus traditional teaching](microskills-cptm-higher-osce.md) — reports the opposite

@@ -64,6 +64,7 @@ The brief recommends that postsecondary leaders develop comprehensive AI usage g
 - [Deploy soft barriers transparently: institutional approval, policy-level disclosure, and accessibility testing](transparent-disclosed-soft-barrier-deployment.md)
 - [Tailor AI deployment to specific applications and stakeholder groups rather than applying a one-size-fits-all integration approach](stakeholder-specific-ai-deployment-strategy.md)
 - [Phased implementation roadmap for departments adopting GenAI personalization](phased-genai-adoption-roadmap.md)
+- [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
 
 ## Examples
 -

@@ -40,6 +40,7 @@ The article recommends attention to when breast health is taught: the programs w
 
 - [Train health educators to teach breast health using active learning strategies including simulation, cooperative learning, peer teaching, practice, and discussion groups](train-health-educators-active-learning-strategies-breast-health.md)
 - [Teachers should schedule Technology activities with special attention to each Intelligence Style](attend-to-intelligence-styles-when-scheduling.md)
+- [Adapt health education campaigns culturally for sensitive topics using female-only settings and tailored language.](culturally-tailored-female-only-health-campaign-delivery.md)
 
 ## Examples
 -

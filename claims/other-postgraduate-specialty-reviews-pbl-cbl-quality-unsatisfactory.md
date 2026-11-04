@@ -75,3 +75,4 @@ The review reports, citing three prior studies, that PBL appeared more effective
 - [Case-based learning prevented the increase in surface approach to learning observed across the semester in the non-CBL group](cbl-prevents-surface-approach-increase-biochemistry.md) — related
 - [MDT-CDIO integrated teaching yields higher overall performance scores than traditional teaching in orthopedic clinical education](mdt-cdio-higher-overall-performance-scores.md) — related
 - [No significant difference between PBL-CBL and traditional groups in post-class basic knowledge or skills scores](pbl-cbl-no-difference-basic-knowledge-skills-scores.md) — reports the opposite
+- [Student engagement with preparation resources builds confidence and is associated with improved engagement, participation and knowledge in CBL](cbl-student-preparation-improves-engagement-knowledge.md) — related

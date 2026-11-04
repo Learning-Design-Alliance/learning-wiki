@@ -53,6 +53,7 @@ The review proposes a phased approach to GenAI personalization adoption with fiv
 - [Phased implementation of AI in nursing education: simulation for emergency care, adaptive platforms for at-risk learners, automated formative feedback, and multi-site pilots](phased-ai-implementation-nursing-education-strategy.md)
 - [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
 - [Combine bottom-up co-design with top-down executive sponsorship, cross-unit collaboration and dedicated R&D capacity to embed institutional GenAI](bottom-up-codesign-top-down-sponsorship-genai-embedding.md)
+- [Phased implementation strategy for robot-assisted training to distribute costs](phased-implementation-robot-training-strategy.md)
 
 ## Examples
 -

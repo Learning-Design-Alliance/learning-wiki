@@ -49,3 +49,4 @@ Self-reported social media use among the 17 intervention participants across bas
 - [Between groups, the intervention showed a moderate inhibitory-control advantage at 4 weeks (p = .052) and a large advantage at 4 months (η2 = .135), with a significant main effect of time for both groups](inhibitory-control-between-group-advantage-4-months.md) — related
 - [Intervention participants' overall cognitive status (MMSE) increased over the study period, with the effect appearing after the workshop ended](mmse-increase-after-social-media-workshop.md) — related
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
+- [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related

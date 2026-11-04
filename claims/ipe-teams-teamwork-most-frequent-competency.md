@@ -56,3 +56,4 @@ Deductive framework analysis of 88 included studies mapped inductively derived t
 - [Assessed collaborative behaviors in ISBTT rarely cover all four IPEC domains, with values and ethics almost never assessed](isbtt-outcomes-rarely-cover-all-ipec-domains.md) — related
 - [Small interdisciplinary teamwork was the most widely reported teaching strategy, explicitly reported in 62 articles](small-interdisciplinary-teams-62-articles.md) — related
 - [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related
+- [Teamwork and interprofessional communication is the most frequently represented communication competency theme in the formal curriculum, comprising 46.9% of identified quotes](teamwork-most-frequent-communication-theme.md) — related

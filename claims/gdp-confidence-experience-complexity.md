@@ -69,4 +69,4 @@ Authors' interpretation across the review's findings: recently qualified GDPs ha
 - [Awareness of the most recent IADT guidelines is associated with higher knowledge and confidence in TDI management](iadt-guideline-awareness-knowledge-confidence.md) — related
 - [Practitioners' self-assessment of their TDI knowledge usually accurately reflects their measured knowledge](self-assessment-reflects-tdi-knowledge.md) — related
 - [Exposure to traumatic dental injuries in practice is usually but not consistently associated with higher practitioner knowledge](tdi-exposure-knowledge-mixed.md) — related
-- [Most dental students report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related
+- [Most fourth-year dental students at one Australian university report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related

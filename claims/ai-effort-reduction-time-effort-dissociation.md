@@ -96,3 +96,4 @@ Completion-sample participants answered the 5-question NASA-TLX after each task.
 - [Providing video feedback is easier than ever, making its cost-benefit question timely](video-feedback-easier-than-ever.md) — related
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
 - [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — related
+- [The dominant barrier to EPAAs was high workload, and most interns could not easily fit EPAAs into their day](high-workload-dominant-barrier-to-epaas.md) — related

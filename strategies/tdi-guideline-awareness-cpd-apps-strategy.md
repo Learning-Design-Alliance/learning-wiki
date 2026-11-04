@@ -44,7 +44,8 @@ The review recommends that GDPs regularly revise the IADT guidelines and use res
 - [Awareness of the most recent IADT guidelines is associated with higher knowledge and confidence in TDI management](../claims/iadt-guideline-awareness-knowledge-confidence.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use simulation-based training, digital tools, and interdisciplinary workshops to teach dental trauma management](simulation-digital-interdisciplinary-dental-trauma-training.md)
 
 ## Examples
 -

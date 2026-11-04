@@ -90,3 +90,4 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [Group risk-sharing removes personal humiliation and eases writing anxiety](group-credit-reduces-humiliation-anxiety.md) — related
 - [Students reported limitations of community care simulation in session timing, preparation, facilitator support, performance anxiety and limited participation](ccs-perceived-limitations-timing-preparation-anxiety.md) — related
 - [Peer observation and structured debriefing are perceived by students as key opportunities for reflection and learning during simulation](debriefing-peer-observation-reflection.md) — related
+- [Fear of embarrassment and lack of psychological safety reduce nursing students' participation and retention in active learning activities](psychological-safety-barrier-active-learning-nursing.md) — possibly the same claim (merge candidate)

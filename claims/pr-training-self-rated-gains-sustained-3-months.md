@@ -1,0 +1,57 @@
+---
+type: claim
+title: Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months
+description: Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months
+id: pr-training-self-rated-gains-sustained-3-months
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: walsh-jessica-a-2026
+    resource: "https://doi.org/10.1017/S146342362610139X"
+    title: "Walsh Jessica A., Dale Marita T., McKeough Zoe J., Alison Jennifer A., Dennis Sarah M. (2026). Changes in knowledge, skills, and confidence following a training program for primary care physiotherapists and exercise physiologists in pulmonary rehabilitation: a pre-post study. Primary Health Care Research & Development, 27, e74. https://doi.org/10.1017/S146342362610139X"
+    author: Walsh Jessica A., Dale Marita T., McKeough Zoe J., Alison Jennifer A., Dennis Sarah M.
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Statistically significant changes in median self-rated scores occurred for each component pre- to post-training, and improvements were sustained at 3-month follow-up. [→ Walsh Jessica A. 2026](#walsh-jessica-a-2026)
+
+## Evidence
+
+### Walsh Jessica A. 2026
+
+Walsh Jessica A., Dale Marita T., McKeough Zoe J., Alison Jennifer A., Dennis Sarah M. (2026). Changes in knowledge, skills, and confidence following a training program for primary care physiotherapists and exercise physiologists in pulmonary rehabilitation: a pre-post study. Primary Health Care Research & Development, 27, e74. https://doi.org/10.1017/S146342362610139X
+
+`q2 · i?` · `causal · r1`
+
+Five-point Likert self-ratings (assigned −2 to +2) were collected before and after training and at 3 months in the 17-clinician cohort; the abstract states improvements were "observed across all domains and sustained at 3 months". Figure 1 displays the distributions.
+
+> "Improvements in self-rated knowledge, skills, and confidence were observed across all domains and sustained at 3 months."
+
+## Discussion
+
+
+## Related Claims
+- [A short pulmonary rehabilitation training program significantly improved knowledge scores in primary care physiotherapists and AEPs](pr-training-improves-knowledge-primary-care-clinicians.md) — related
+- [Exercise capacity assessment, exercise prescription, and patient education showed the most clinically meaningful shifts](pr-training-largest-gains-core-delivery-competencies.md) — a narrower finding that bears on this claim
+- [Digital interventions show sustained improvements in performance and retention, with confidence and diagnostic ability remaining elevated four months post-intervention in some studies](digital-learning-knowledge-retention-four-months.md) — a broader claim this one bears on
+- [College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.](voc-training-increases-gatekeeper-preparedness.md) — related
+- [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — reports the opposite
+- [PoCUS competency declines across all I-AIM domains over 1–12 months, with Acquisition showing the most pronounced decline (median −11.8%)](pocus-acquisition-domain-most-pronounced-retention-decline.md) — reports the opposite
+- [Game-based virtual-human role-play training significantly increases faculty self-efficacy and behavioral intent to support student veterans, with sustained gains at 3-month follow-up.](voc-training-increases-gatekeeper-self-efficacy-likelihood.md) — related
+- [A statistically significant increase in medical students' self-reported EBM knowledge and attitudes was found after a 3-month single-intervention course, with EBM concept understanding rising from 2.20 to 3.17 (P<0.001)](nigeria-ebm-course-self-reported-knowledge-gains.md) — related
+- [Game-based virtual-human role-play training significantly increases faculty military cultural competency, with sustained gains at 3-month follow-up.](voc-training-increases-military-cultural-competency.md) — related
+- [Spirometry was the lowest-rated domain at baseline and remained lowest after training despite improvement](spirometry-lowest-rated-domain-pr-training.md) — related

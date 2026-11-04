@@ -39,7 +39,7 @@ The authors recommend that dental curricula include more undergraduate and postg
 ## Claims
 
 - [Dental students demonstrate average knowledge of TDI management with significant deficiencies in avulsion of permanent teeth.](../claims/dental-students-average-tadi-knowledge-avulsion-deficiency.md) [+W]
-- [Most dental students report low confidence in managing TDI cases despite having average knowledge.](../claims/dental-students-low-confidence-tadi-management.md) [+W]
+- [Most fourth-year dental students at one Australian university report low confidence in managing TDI cases despite having average knowledge.](../claims/dental-students-low-confidence-tadi-management.md) [+W]
 - [A significant relationship exists between knowledge and confidence levels in TDI management among dental students.](../claims/knowledge-confidence-relationship-tadi-management.md) [+W]
 - [GDP confidence in TDI management is lowest among recently qualified practitioners and declines as injury complexity increases](../claims/gdp-confidence-experience-complexity.md) [+W]
 

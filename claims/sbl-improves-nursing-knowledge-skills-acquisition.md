@@ -52,3 +52,4 @@ Systematic review narrative synthesis of 33 studies (15 RCTs, 18 quasi-experimen
 - [Simulation-based learning improves theoretical knowledge scores in endocrinology education compared with non-simulation-based learning](sbl-improves-endocrinology-theoretical-knowledge.md) — a narrower finding that bears on this claim
 - [The review reports that high-fidelity simulation outperformed case-based discussion for clinical reasoning and leadership in paediatric emergencies](hfs-superior-case-based-discussion-reasoning.md) — related
 - [Subgroup factors (study quality, participant status, region, simulation technique) did not explain the heterogeneity in SBL effects](subgroups-did-not-explain-sbl-heterogeneity.md) — related
+- [Active learning is perceived by nursing students and educators to enhance confidence, engagement, knowledge retention, and clinical reasoning](active-learning-enhances-nursing-outcomes-perceptions.md) — a narrower finding that bears on this claim

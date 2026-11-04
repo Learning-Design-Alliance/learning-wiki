@@ -93,3 +93,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [The SP chicken anastomosis metrics achieved high inter-rater reliability (IRR 0.96) between two blinded trained reviewers](sp-anastomosis-metrics-inter-rater-reliability.md) — a narrower finding that bears on this claim
 - [CAR 1.0 achieved good to excellent inter-rater reliability across all five key components (α = 0.836 to 0.973)](car-1-0-cronbach-alpha-reliability.md) — related
 - [The checklist assessment showed strong interrater reliability, contributing validation evidence](checklist-interrater-reliability-kappa-0875.md) — related
+- [Expert reference standard for MUL measurements showed excellent agreement (ICC 0.90)](expert-reference-mul-icc-090.md) — related

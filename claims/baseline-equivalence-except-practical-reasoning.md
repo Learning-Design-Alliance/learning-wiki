@@ -54,3 +54,4 @@ Student's t tests on pre-treatment PENCRISAL scores for the 166-student sample (
 - [The mock-test and conventional-instruction groups did not differ significantly on the pretest before the intervention](mock-test-groups-homogeneous-pretest.md) — related
 - [The experimental and control groups were not equivalent at pre-test, with more positive results in the experimental group](pre-test-nonequivalence-robotics-groups.md) — reports the opposite
 - [The control group showed no test effect, and pre-test knowledge did not differ between treatment groups or genders.](no-test-effect-control-group.md) — related
+- [Baseline EMQ scores did not differ between GGR and SNAPPS groups, ensuring equivalent starting clinical reasoning skills](ggr-snapps-equivalent-baseline.md) — related

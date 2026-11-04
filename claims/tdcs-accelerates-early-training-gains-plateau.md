@@ -52,3 +52,4 @@ Learning-curve analysis of the capacity index (K = N*d') across ten training ses
 - [Control groups in DP-informed SBST studies also improved but reached performance plateaus earlier and at lower competency levels](dp-sbst-control-groups-plateau-earlier-lower.md) — related
 - [UP improvement over repeated XR sessions is greater and faster for ventriculostomy than for tumor resection](procedure-variability-moderates-xr-learning-gains.md) — related
 - [Using the graspable multimedia system GraspLearn did not improve preschoolers' working memory capacity significantly more than the conventional multimedia system CLearn](grasplearn-no-wmc-gain-over-clearn.md) — related
+- [Both groups improved over the internship period, but the experimental group showed gains earlier](simroid-robot-both-groups-improved-over-time.md) — related

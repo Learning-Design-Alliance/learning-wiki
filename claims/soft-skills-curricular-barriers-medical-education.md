@@ -74,3 +74,4 @@ The review's second barrier category states institutions "may lack the necessary
 - [Clinician attitudes toward serious illness conversations function as both enablers and barriers, and shifting values toward a person focus is achievable](sic-attitudes-enabler-barrier.md) — related
 - [Teachers identified time demands, class size, and curriculum coverage requirements as the main obstacles to differentiating instruction](di-obstacles-time-class-size-curriculum.md) — related
 - [Workload was the number one challenge to effective teaching identified by faculty (341 comments).](workload-top-faculty-teaching-challenge.md) — related
+- [Structural and institutional constraints — time limitations, large class sizes, and dense curricular content — restrict implementation of active learning in nursing education](structural-institutional-constraints-active-learning-nursing.md) — related

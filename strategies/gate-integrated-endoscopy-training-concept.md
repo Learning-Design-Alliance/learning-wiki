@@ -52,6 +52,7 @@ The review describes a training concept called "GATE- gastroenterological educat
 ## Related Strategies
 
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
+- [Combine online modules with hands-on simulation training to teach POCUS-guided procedural skills to novices](blended-online-hands-on-pocus-procedural-training.md)
 
 ## Examples
 -

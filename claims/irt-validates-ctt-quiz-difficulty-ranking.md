@@ -52,3 +52,4 @@ IRT validation using the py-irt package on results from 765 Immunology students 
 - [Quiz-level first-attempt performance analysis across cohorts identifies persistently challenging topics in online biomedical science courses](quiz-level-cross-cohort-analysis-identifies-persistent-challenging-topics.md) — related
 - [Items ranked from easiest to most difficult are identical under CTT and MFRM](identical-item-difficulty-ranking-ctt-mfrm.md) — related
 - [In operational reading-test data, item parameter estimates from a standard 2PL/GPCM that ignores local dependence closely match those from the testlet model (average correlations 0.9893 and 0.9978)](local-dependence-small-impact-item-parameters-real-data.md) — related
+- [Item response theory analysis identifies image optimization, structure diameter, and structure surface distance as the most difficult assessment items](irt-identifies-most-difficult-ultrasound-items.md) — related

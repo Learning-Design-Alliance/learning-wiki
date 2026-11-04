@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 75 claims (16 for, 42 mixed, 17 against) · 63 studies (31 causal, 13 associational, 8 review, 5 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 21 of 63 report an effect size · 71 claims rest on one study
+> **Evidence** · 77 claims (16 for, 42 mixed, 19 against) · 65 studies (31 causal, 15 associational, 8 review, 5 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 21 of 65 report an effect size · 73 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -125,6 +125,8 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Neither metacognitive support (performance threshold or self-assessment) enhanced learning outcomes](../claims/metacognitive-supports-no-effect-istart.md) [-W] — attached 2026-11-02 from McCarthy et al. (2017), which proposed "Self-assessment metacognitive support feature".
 - [In Study 1 the treatment group's self-assessed meeting-deadlines skill decreased while the control group's increased, suggesting calibration of overconfidence](../claims/meeting-deadlines-self-assessment-calibration.md) [~W]
 - [Curriculum graduates rated their expected performance worse than Master graduates while rating case difficulty similarly](../claims/self-assessment-performance-difference.md) [~W]
+- [Self-reported confidence and familiarity with screening tools did not reliably translate into accurate sepsis determination](../claims/confidence-competence-gap-sepsis-recognition.md) [-W]
+- [Less surgical experience is associated with overestimation of abilities](../claims/less-experience-overestimation.md) [-W]
 
 ## The evidence by question
 

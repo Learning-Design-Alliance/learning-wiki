@@ -50,3 +50,4 @@ Subgroup comparison of emotional reactions (Question 14) across frequency-of-exp
 - [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](vs-positive-emotional-experiences.md) — related
 - [Emotional regulation, especially tolerance of uncertainty, supports physicians' management of clinical uncertainty](emotion-regulation-supports-uncertainty-management.md) — related
 - [Only 7.9% of Italian surgical residents report receiving formal communication training during residency, despite 91% rating it as crucial](surgical-residents-formal-communication-training-gap.md) — related
+- [Fear of embarrassment and lack of psychological safety reduce nursing students' participation and retention in active learning activities](psychological-safety-barrier-active-learning-nursing.md) — related

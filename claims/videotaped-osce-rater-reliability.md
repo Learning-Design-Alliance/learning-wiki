@@ -68,3 +68,4 @@ Authors' interpretation of the videotaped-OSCE rater study, as reported in the r
 - [Only a small fraction of published OSCE research in musculoskeletal and sport medicine was actually conducted in a Sport and Exercise Medicine setting](few-sem-setting-osce-studies-published.md) — related
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — related
 - [Over the course, students proposed more comprehensive and practical solutions to increasingly complex scenarios, as rated by four examiners](scenario-solutions-improved-over-time.md) — related
+- [Self-assessed knowledge does not significantly predict correct decision-making in fracture scenarios](self-assessed-knowledge-not-predictive-fracture-decisions.md) — related

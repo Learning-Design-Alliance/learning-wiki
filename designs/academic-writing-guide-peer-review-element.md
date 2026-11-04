@@ -41,7 +41,8 @@ The professor-investigators created a "100+ page guide for academic writing and 
 - 
 
 ## Related Designs
-- 
+
+- [Sequenced online instructional design moving from orientation to collaborative drafting and peer feedback](sequenced-online-essay-writing-design.md)
 
 ## Examples
 -

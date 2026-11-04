@@ -48,3 +48,4 @@ Chi-square tests across 500 participants found no significant association for an
 - [SDL readiness among nurses shows no significant correlation with age, gender, academic status, or marital status](sdl-readiness-no-demographic-correlations.md) — related
 - [Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences](profile-differences-career-stage-psychological-variables.md) — related
 - [Syrian medical students show low overall theoretical knowledge of clinical and surgical skills](syrian-medical-students-low-clinical-surgical-knowledge.md) — related
+- [No statistically significant associations between overall VHV competency classification and any demographic or occupational variable examined](vhv-competency-not-differentiated-by-demographics.md) — related

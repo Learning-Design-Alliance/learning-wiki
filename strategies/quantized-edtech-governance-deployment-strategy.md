@@ -43,6 +43,7 @@ The article recommends a structured ethical governance framework for institution
 - [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
 - [Evaluate quantisation choices empirically on the target task and hardware rather than inheriting them from other studies](evaluate-quantisation-on-target-task.md)
 - [Deploy quantized adapted small models offline with a teacher in the loop rather than as autonomous graders](teacher-in-the-loop-offline-small-model-deployment.md)
+- [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
 
 ## Examples
 -

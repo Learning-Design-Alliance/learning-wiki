@@ -51,3 +51,5 @@ Aggregation of competencies across the 16 included publications, with counts per
 - [EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning](edtech-ai-messaging-individual-vs-social-curricula.md) — related
 - Sixteen publications met inclusion criteria in a scoping review of MLM competency frameworks in undergraduate medical education — related
 - [Perceptions of middle-manager competencies differ by hierarchical level: senior managers emphasize strategic traits while frontline managers emphasize interaction and communication](hierarchical-level-differences-in-middle-manager-competency-perceptions.md) — related
+- [Medical record documentation competencies show a longitudinal progression across courses but are absent in some curricular areas](documentation-longitudinal-progression.md) — related
+- [Qualitative findings identified five thematic competency gap domains](vhv-qualitative-gaps-in-five-domains.md) — related

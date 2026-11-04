@@ -50,3 +50,4 @@ The article's conceptual mechanism description states that "The formative assess
 - [A structured feedback format enabled peer observers to observe systematically and helped presenters identify areas to improve](structured-peer-feedback-format-improves-presentations.md) — related
 - [Structured clinical assessments such as Mini-CEX and OSCE improve diagnostic accuracy, patient communication, and procedural skills in orthodontic postgraduate education](structured-assessments-mini-cex-osce-improve-orthodontic-competencies.md) — related
 - [Mini-CEX with structured feedback improves orthodontic residents' technical and decision-making skills](mini-cex-improves-orthodontic-resident-skills.md) — related
+- [In the feedback-provider discourse, patient assessment data is used to give trainees feedback rather than to make progression decisions](feedback-provider-discourse-formative-use.md) — related

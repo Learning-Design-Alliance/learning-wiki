@@ -50,3 +50,5 @@ Predictive linear mixed-effects model built on Senior 1's data, plotting estimat
 - [Hand motion volumetry recorded by the Versius system software serves as an exploratory objective marker of surgical skill, with lower volumetry indicating better ergonomics](hand-motion-volumetry-skill-marker.md) — related
 - [Lymphadenectomy was associated with a statistically significant increase in console time (estimated difference 18.0 min, 95% CI 6.3–29.6)](lymphadenectomy-increases-console-time.md) — related
 - [Surgeons achieved proficiency in Versius-assisted radical prostatectomy within 40 cases, with experienced surgeons reaching proficiency after 23 cases and novice surgeons after 37](versius-rp-proficiency-under-40-cases.md) — related
+- [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
+- [Tertile analysis showed a significant stepwise decrease in operative time across experience but only a non-significant decreasing trend in composite failure](tertile-analysis-stepwise-operative-time.md) — related

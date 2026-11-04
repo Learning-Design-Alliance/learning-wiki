@@ -47,6 +47,7 @@ The article recommends that research on pedagogical agents move beyond performan
 - [Evaluate LLM-supported learning beyond binary access by measuring enacted interaction and preserving no-help assessments](evaluate-llm-learning-beyond-access.md)
 - [Expand research methodologies to monitor learning processes during multimedia instruction](expand-methodologies-monitor-multimedia-learning-processes.md)
 - [Future eye tracking research in education should examine interacting pairs and groups, emotions, and combinations with other process measures](eye-tracking-future-directions-classroom.md)
+- [Establish a dynamic assessment and early intervention mechanism using learning motivation as a key monitoring indicator](dynamic-motivation-monitoring-early-intervention.md)
 
 ## Examples
 -

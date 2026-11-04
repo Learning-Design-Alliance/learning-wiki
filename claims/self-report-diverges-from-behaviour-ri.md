@@ -49,3 +49,4 @@ The review reports, citing Sarauw et al. (2021), that "survey results of partici
 - [Claims that RI teaching cannot improve action/behaviour are the most frequent no-improvement claims (8 sources), and are conflicting across the literature](ri-teaching-cannot-improve-behaviour-claims.md) — related
 - [Self-report measures of SRL capture perceptions of strategy use rather than implementation quality, and a combined trace-data approach may be best](self-report-srl-limitations-combined-approach.md) — a broader claim this one bears on
 - [Questionnaire data may capture learners' perceptions rather than the strategies they actually performed](questionnaires-measure-perception-not-performed-strategies.md) — a broader claim this one bears on
+- [Self‐reported self‐efficacy questionnaires may not reflect actual teaching behaviour quality](self-report-self-efficacy-may-not-reflect-teaching-behaviour.md) — a narrower finding that bears on this claim

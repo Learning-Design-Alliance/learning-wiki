@@ -129,3 +129,4 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [Learner perceptions of GenAI-supported virtual patients were positive across 14 of the 15 reviewed studies](genai-vp-positive-learner-perceptions.md) — related
 - [Hallucination — the generation of inaccurate, unverified, or illogical content — is the most frequently reported technical challenge for LLMs in dental education](hallucination-most-frequent-technical-challenge.md) — related
 - [Distance education was perceived to negatively affect both professional competencies and critical thinking skills](distance-education-negative-effects-competencies-ct.md) — related
+- [Professional accuracy showed the smallest improvement among the five dimensions, with some students scoring lower due to uncritical adoption of AI-generated content.](professional-accuracy-gains-smallest-among-dimensions.md) — related

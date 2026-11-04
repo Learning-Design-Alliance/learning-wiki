@@ -47,6 +47,7 @@ Based on its scenario analysis, the article concludes that "all future organizat
 
 - [Use intentional, scenario‐based curriculum design with AI literacy embedded across subjects](scenario-based-ai-literacy-curriculum-design.md)
 - [Counter-prompting: deliberately probing AI systems for their assumptions and using responses as data about the apparatus](counter-prompting-probing-ai-assumptions.md)
+- [Prompting skills training with structured prompts for teaching preparation](deepseek-prompting-skills-training-strategy.md)
 
 ## Examples
 -

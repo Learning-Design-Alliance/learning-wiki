@@ -3,6 +3,7 @@ type: claim
 title: The AI-enhanced flipped classroom raises post-class assignment accuracy over the traditional classroom, an advantage the standard flipped classroom did not show
 description: The AI-enhanced flipped classroom raises post-class assignment accuracy over the traditional classroom, an advantage the standard flipped classroom did not show
 id: ai-enhancement-raises-assignment-accuracy
+aliases: [ai-flipped-classroom-superior-assignment-accuracy]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -25,10 +26,12 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
-> **Design limits** · Liu YJ 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
+
 `q2 i?` Assignment accuracy was significantly higher in the AI-enhanced flipped classroom than the traditional classroom (p < 0.01), while the flipped classroom alone did not yield significantly higher assignment accuracy than the traditional classroom. [→ Liu YJ 2026](#liu-yj-2026)
+
+`q2 i?` Assignment accuracy was significantly higher in the AI-enhanced flipped classroom group than in the traditional classroom group (p < 0.01), while the standard flipped classroom did not yield a significantly higher assignment accuracy than the traditional classroom. [→ Liu Ya Jie 2026](#liu-yj-2026)
 
 ## Evidence
 
@@ -42,10 +45,24 @@ Post-class assignment accuracy comparison across the three cohorts in the quasi-
 
 > "The assignment accuracy rate of the AI-enhanced flipped classroom group was significantly higher than that of the traditional classroom group ( p < 0.01)"
 
+<!-- merged 2026-11-04 from ai-flipped-classroom-superior-assignment-accuracy: that page's entry for this study, which differed from the one above, kept verbatim.
+### Liu Ya Jie 2026
+
+Liu Ya Jie, Ma Hui Zi, Luo Hai Yun, Xiong Yun Xia, Qu Fan Wei, Xie Jian Ping, Guo Ying. (2026). From traditional classroom to AI-enhanced flipped classroom: a three-year pedagogical evolution for international students in pharmacology. BMC Medical Education. https://doi.org/10.1186/s12909-026-09608-7
+
+`q2 · i?`
+
+Quasi-experimental comparison of post-class assignment accuracy across the three cohorts. The article reports the AI-enhanced group's assignment accuracy was "significantly higher than that of the traditional classroom group (p < 0.01)". In the discussion, the authors note the standard flipped classroom alone did not yield a significantly higher assignment accuracy than the traditional classroom.
+
+> "The assignment accuracy rate of the AI-enhanced flipped classroom group was significantly higher than that of the traditional classroom group (p < 0.01) (Fig. 2A)."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [The AI-enhanced flipped classroom yields significantly higher in-class response rates than both the flipped and traditional classrooms in pharmacology for international medical students](ai-flipped-classroom-higher-response-rate.md) — related
 - [Both flipped and AI-enhanced flipped classrooms achieve higher in-class question accuracy than the traditional classroom](flipped-models-higher-question-accuracy.md) — related
 - [The AI-enhanced flipped classroom improves comprehensive assessment and pre-class preparation/PPT quality over the flipped classroom, but not in-class presentation performance or professional knowledge mastery](ai-flipped-boundary-deep-mastery.md) — related

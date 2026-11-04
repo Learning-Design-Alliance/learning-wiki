@@ -83,3 +83,5 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [Clinical simulation is perceived as a safe environment that allows learning from mistakes without risk to patients](simulation-safe-environment-learning-from-errors.md) — a narrower finding that bears on this claim
 - [Simulator practicals increased student confidence in practical skills](simulator-practicals-increase-practical-skills-confidence.md) — related
 - [Students perceive simulation practice as a protective factor that enhances confidence, safety, and readiness for real procedures](simulation-perceived-protective-factor-confidence.md) — a narrower finding that bears on this claim
+- [Divergence between high self-reported collaboration and hesitancy in error reporting within perceived punitive environments](divergence-collaboration-scores-error-reporting-hesitancy.md) — related
+- [Authors attribute SBT performance advantages to repeated structured rehearsal in a controlled learning environment](sbt-advantage-attributed-repeated-structured-rehearsal.md) — related

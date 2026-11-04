@@ -51,3 +51,4 @@ Mann-Whitney U test on pre-test scores in the pretest-posttest control-group des
 - [School background experience affects TQM perceptions, with 11-15-year staff less positive in cultural and human-resource dimensions; professional seniority shows no significant difference](background-experience-effect-tqm-perceptions.md) — related
 - [Male participants rated TQM applicability higher than female participants in all scale dimensions](gender-difference-tqm-perceptions-male-higher.md) — related
 - [Position affects post-test TQM perceptions: principals rated applicability higher, significantly in management structure and overall but not the cultural dimension](position-effect-tqm-perceptions-principals-higher.md) — related
+- [Novices and experienced participants rated the simulator similarly with no significant differences in perceptions](similar-simulator-perceptions-novice-experienced.md) — related

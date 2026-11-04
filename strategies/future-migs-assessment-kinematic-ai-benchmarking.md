@@ -17,7 +17,7 @@ sources:
 # Prioritize predictive-validity research, benchmarking of existing tools, and integration of kinematic data and AI in surgical skill assessment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 2 studies (1 review, 1 design), `q2`–`q3` · 0 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 The review's forward-looking recommendation is that future work should fill the predictive-validity gap, benchmark already available tools for national curricula, and integrate advanced technologies. The authors write that "Future research should prioritize filling these gaps while integrating advanced technologies like kinematic data and AI for robust, objective surgical skill assessment" within gynecological advanced training programs. They point to examples in other specialties, such as correlating kinematic data from recording devices with technical performance, and to surgical data science approaches including deep neural networks, while flagging the absence of large-scale datasets as a key challenge.
@@ -46,6 +46,7 @@ The review's forward-looking recommendation is that future work should fill the 
 - [No objective assessment tool in minimally invasive gynecological surgery showed predictive validity correlating scores with patient outcomes](../claims/no-predictive-validity-migs-tools.md) [+W]
 - [Only two of 37 objective assessment tools in minimally invasive gynecological surgery showed substantial evidence of validity](../claims/only-two-migs-tools-substantial-validity.md) [+W]
 - [Procedure-specific assessment tools hold greater educational potential than readily available global tools, though few provide benchmark scores](../claims/procedure-specific-tools-educational-potential.md) [+W]
+- [Transformer‐based models consistently outperform BiLSTM‐based models for surgical skill classification from hand kinematics](../claims/transformer-outperforms-bilstm-skill-classification.md) [~W]
 
 ## Related Strategies
 

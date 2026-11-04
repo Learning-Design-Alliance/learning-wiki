@@ -48,3 +48,4 @@ Thematic synthesis across the 15 included studies in this systematic review foun
 ## Related Claims
 - [Across the reviewed studies, simulation-based interventions consistently improved paediatric undergraduate learning outcomes, including clinical reasoning, procedural skills and confidence](sbe-consistently-improved-paediatric-ume-outcomes.md) — a broader claim this one bears on
 - [Reflective and cognitively oriented CPR approaches show potential for enhancing long-term skill retention, particularly at follow-up](reflective-practice-enhances-cpr-retention.md) — related
+- [Active learning is perceived by nursing students and educators to enhance confidence, engagement, knowledge retention, and clinical reasoning](active-learning-enhances-nursing-outcomes-perceptions.md) — related

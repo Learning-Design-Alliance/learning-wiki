@@ -72,3 +72,4 @@ The same FDR-controlled correlation analysis at post-instruction found no signif
 - [Post-instruction math anxiety mediates the relation between DMN–SN connectivity and physics course grade in male students](math-anxiety-mediates-dmn-sn-grade-males.md) — related
 - [Change in anxiety across the semester is negatively correlated with course grade and GPA for male students but not female students](anxiety-change-performance-correlation-males.md) — related
 - [Female undergraduate physics students report higher science, spatial, math, and clinical anxiety than male students at both pre- and post-instruction](sex-differences-stem-anxiety-physics-students.md) — related
+- [Attitude gains were significant in male students but not in female students](csas-gains-males-not-females.md) — related

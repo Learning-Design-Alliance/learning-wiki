@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 210 claims (106 for, 85 mixed, 19 against) · 116 studies (34 review, 30 causal, 16 quant-synthesis, 15 design, 13 qualitative, 4 associational, 4 theoretical), `q1`–`q4` · 23 of 116 report an effect size · 205 claims rest on one study
+> **Evidence** · 219 claims (111 for, 89 mixed, 19 against) · 118 studies (35 review, 31 causal, 16 quant-synthesis, 15 design, 13 qualitative, 4 associational, 4 theoretical), `q1`–`q4` · 23 of 118 report an effect size · 214 claims rest on one study
 
 ## Description and scope
 
@@ -153,6 +153,10 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Simulation-based MI training significantly improves CHW trainees' confidence in engaging in conversations with individuals holding differing opinions](../claims/simulation-mi-training-increases-chw-confidence-engaging-differing-opinions.md) [+M] — attached 2026-11-04 from Chance-Revels et al. (2026), which proposed "Integrate simulation-based MI training with SPs, authentic scenarios, and immediate feedback into CHW education programs".
 - [GP residents showed statistically significant pre-post improvements in history-taking (Cohen's d = 1.11) and clinical reasoning (Cohen's d = 1.32) after a 12-week VP training program](../claims/vp-training-improves-history-taking-clinical-reasoning.md) [+W] — attached 2026-11-04 from Chen Yuanshuai et al. (2026), which proposed "Integrate VP training early in residency and wrap it in facilitated feedback, reflection, and peer dialogue, since the platform alone is necessary but insufficient"; tests this page's relationship.
 - [Residents attributed CDM competency gains to the VP platform's structured design: systematic diagnostic reasoning, adaptive competence under uncertainty, and reflective learning](../claims/vp-structured-design-mechanisms-qualitative.md) [+W] — attached 2026-11-04 from Chen Yuanshuai et al. (2026), which proposed "Integrate VP training early in residency and wrap it in facilitated feedback, reflection, and peer dialogue, since the platform alone is necessary but insufficient".
+- [AI-enabled virtual patient simulation training improves perceived psychotherapeutic competence over four sessions](../claims/vp-simulation-improves-perceived-psychotherapeutic-competence.md) [+W] — attached 2026-11-04 from Cecil Julia et al. (2026), which proposed "Use VP simulations with pre-briefings and enhanced authenticity as a scalable complementary method in psychotherapy training"; tests this page's relationship.
+- [VP simulation training increases clinical self-efficacy but not more than video training](../claims/vp-simulation-increases-clinical-self-efficacy.md) [~W] — attached 2026-11-04 from Cecil Julia et al. (2026), which proposed "Use VP simulations with pre-briefings and enhanced authenticity as a scalable complementary method in psychotherapy training"; tests this page's relationship.
+- [VP simulation training reduces perceived insecurity across most subdomains](../claims/vp-simulation-reduces-perceived-insecurity.md) [+W] — attached 2026-11-04 from Cecil Julia et al. (2026), which proposed "Use VP simulations with pre-briefings and enhanced authenticity as a scalable complementary method in psychotherapy training"; tests this page's relationship.
+- [VP training does not enhance knowledge about mental disorders](../claims/vp-training-no-knowledge-gains.md) [~W] — attached 2026-11-04 from Cecil Julia et al. (2026), which proposed "Use VP simulations with pre-briefings and enhanced authenticity as a scalable complementary method in psychotherapy training".
 
 ## Illustrative design instance and observation record
 
@@ -244,6 +248,11 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Clinical knowledge scores improved significantly (mean increase 6.7 points, Cohen's d = 0.76) after the VP training program](../claims/vp-training-improves-clinical-knowledge.md) [+W]
 - [Dietitians view SBE as a supportive tool that builds confidence but not a replacement for real patient contact](../claims/sbe-supportive-not-replacement-view.md) [~W]
 - [Many of 15 interviewed Irish dietitians had used role-play and scenario-based activities without recognising them as simulation, associating SBE with high-fidelity approaches](../claims/dietitians-unrecognised-simulation-activities.md) [~W]
+- [An in-situ simulated patient environment improved knowledge and attitude scores across all professional groups](../claims/in-situ-simulated-patient-environment-improved-knowledge-attitude.md) [+W]
+- [Perceived insecurity varies across patient cases in VP training, with the suicidal-tendencies case eliciting the highest insecurity](../claims/insecurity-varies-by-patient-case-vp.md) [~W]
+- [Insecurity decreases earlier with video training than with VP training](../claims/insecurity-decreases-earlier-with-video-than-vp.md) [~W]
+- [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](../claims/qualitative-vp-experience-themes.md) [+W]
+- [Virtual patient simulations produced educational improvements equivalent to live standardized patient simulations](../claims/virtual-patients-equivalent-to-standardized-patients.md) [+W]
 
 ## Examples
 

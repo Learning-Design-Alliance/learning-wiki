@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 178 claims (72 for, 92 mixed, 14 against) · 97 studies (32 causal, 32 quant-synthesis, 12 review, 7 theoretical, 6 qualitative, 6 design, 2 associational), `q1`–`q4` · 25 of 97 report an effect size · 173 claims rest on one study
+> **Evidence** · 180 claims (73 for, 92 mixed, 15 against) · 99 studies (32 causal, 32 quant-synthesis, 12 review, 8 design, 7 theoretical, 6 qualitative, 2 associational), `q1`–`q4` · 25 of 99 report an effect size · 175 claims rest on one study
 
 ## Description and scope
 
@@ -152,6 +152,7 @@ The twelve claims listed here before that wave were read against the model on 20
 - [Pre-service teachers in PBL groups achieve significantly higher post-test scores than those in lecture-based computer course groups](../claims/pbl-higher-achievement-than-lbcc-pre-service-teachers.md) [+M] — attached 2026-11-03 from Akın Efendioglu (2015), which proposed "Use PBL instead of lecture-based instruction in computer courses for pre-service teachers to promote active participation and meaningful learning"; tests this page's relationship.
 - [PBL supports deep, meaningful, and permanent learning while LBCC is associated with superficial learning](../claims/pbl-deep-learning-vs-lbcc-superficial.md) [+W] — attached 2026-11-03 from Akın Efendioglu (2015), which proposed "Use PBL instead of lecture-based instruction in computer courses for pre-service teachers to promote active participation and meaningful learning"; tests this page's relationship.
 - [Non-linear PBL grades comparable to essays and oral presentations but lower than online quizzes](../claims/non-linear-pbl-grades-comparable-to-essays-and-oral-presentations.md) [~M] — attached 2026-11-04 from Francis WR et al. (2026), which proposed "Individualized PBL assessments address grading and communication challenges of group-based PBL".
+- [Students valued teacher guidance (90%) and recommended continuation of the activity (93%)](../claims/pbl-scaffolding-teacher-guidance-continuation.md) [+W] — attached 2026-11-04 from Abeysuriya V. et al. (2026), which proposed "Replace lecture-based delivery with structured, student-centered PBL supported by scaffolding in postgraduate biomedical education".
 
 ## Illustrative design instance and observation record
 
@@ -270,6 +271,7 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](../claims/deepseek-pbl-minicex-clinical-gains.md) [+W]
 - [PBL-DeepSeek students achieve higher theoretical examination scores than traditionally taught students in a glaucoma clerkship](../claims/deepseek-pbl-higher-theory-scores-glaucoma.md) [+W]
 - [Students in the PBL-DeepSeek group report high satisfaction and would continue using the approach, but a minority worry about AI accuracy](../claims/deepseek-pbl-satisfaction-and-accuracy-concerns.md) [~W]
+- [The TBL cohort performed significantly better in having CCA stations marked as 'excellent' compared with PBL cohorts, with similar performance in passing CCA stations.](../claims/tbl-cohort-better-cca-excellent-stations.md) [-W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

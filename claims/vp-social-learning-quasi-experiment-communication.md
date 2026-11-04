@@ -77,3 +77,4 @@ The review reports Hwang et al.'s comparison of a virtual patient-based social l
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
 - [Learner self-reported improvement after AI-generated virtual patient training is sometimes discordant with observed or cohort-comparison performance](ai-virtual-patient-self-report-performance-discordance.md) — reports the opposite
 - [Repeated exposure to AI-VPs is associated with improved perceived self-efficacy and more positive attitudes toward communication training](ai-vp-self-efficacy-attitudes.md) — related
+- [VP simulation training increases clinical self-efficacy but not more than video training](vp-simulation-increases-clinical-self-efficacy.md) — reports the opposite

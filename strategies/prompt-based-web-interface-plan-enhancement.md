@@ -44,6 +44,7 @@ The strategy guides a single LLM through three steps—simulating teacher-studen
 
 - [Teachers iteratively refine LLM-simulated student ideas with classroom context before instructional use](iterative-teacher-llm-refinement-strategy.md)
 - [Co-create micro-intervention repertoires with generative AI through a seed-request-refine prompt sequence, with the instructor curating output](ai-co-creation-of-emotional-micro-interventions.md)
+- [Prompting skills training with structured prompts for teaching preparation](deepseek-prompting-skills-training-strategy.md)
 
 ## Examples
 -

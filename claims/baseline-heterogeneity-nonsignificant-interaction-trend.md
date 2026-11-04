@@ -67,3 +67,5 @@ Exploratory descriptive subgroup analysis by baseline tertiles (33rd and 67th pe
 - [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](assistments-low-performers-significant-gains.md) — related
 - [vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group](vplc-assistments-no-significant-overall-effect.md) — related
 - [Patient-rated communication shows no significant change over time and no significant group × time difference in either simulation modality, though a nonsignificant large between-group effect favors the individual group descriptively](sbl-communication-no-change-group-trend.md) — related
+- [Effects of AI-assisted peer teaching are largest for students with low baseline knowledge](ai-assisted-peer-teaching-largest-effect-low-baseline.md) — reports the opposite
+- [The CRI-HT gain difference between baseline subgroups is not statistically significant](aisp-cri-ht-subgroup-gain-not-significant.md) — related

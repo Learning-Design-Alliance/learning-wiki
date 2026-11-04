@@ -49,3 +49,7 @@ Randomised trial of 38 general-practice residents (19 per group) in one hospital
 - [Flipped classroom residents report higher perceived teaching effectiveness in clinical skills, learning interest, self-learning, problem-solving, and team collaboration, but not theoretical knowledge](fc-higher-perceived-effectiveness-domains.md) — related
 - [Differences among the six novel teaching strategies are minor, and in pairwise meta-analysis only BOPPPS and SBL significantly beat LBL on all three outcomes](minor-differences-among-novel-strategies-pairwise.md) — related
 - [Students in the flipped group rated the method as beneficial with a median benefit scale value of 4 out of 5](flipped-learning-benefit-median-four.md) — related
+- [The intervention group reported significantly higher perceived learning burden (Cohen's d = 1.90)](boppps-cbl-higher-perceived-learning-burden.md) — related
+- [BOPPPS-CBL students reported significantly higher scores on all seven positive perception dimensions after Bonferroni correction](boppps-cbl-higher-positive-perceptions.md) — related
+- [BOPPPS with virtual simulation improves self-directed learning ability overall (d = 0.37), but not the self-management dimension](boppps-virtual-simulation-self-directed-learning.md) — related
+- [PUC-FC students rated the course more highly than FC and LBL students on all satisfaction dimensions except rationality of class hour arrangement](puc-fc-satisfaction-advantage.md) — related

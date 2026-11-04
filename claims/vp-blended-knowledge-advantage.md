@@ -99,3 +99,4 @@ Random-effects meta-analysis of 5 studies comparing virtual patient blended lear
 - [Team-based learning shows no significant difference in multiple-choice question scores compared to traditional teaching](team-based-learning-no-significant-difference-mcq-scores.md) — related
 - [Virtual patient simulations are at least as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](vp-vs-traditional-knowledge-smd-011.md)
 - [Distributed CAI instruction beats face-to-face teaching, but only when CAI is part of blended learning](distributed-cai-benefit-only-blended.md) — related
+- [Blended digital training improves lay health care workers' knowledge of HIV index case testing modestly more than standard in-person training alone](blended-digital-training-modest-knowledge-gains-index-testing.md) — a narrower finding that bears on this claim

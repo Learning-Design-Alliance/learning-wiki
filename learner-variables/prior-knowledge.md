@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 236 claims (134 show a difference, 68 mixed, 34 no difference) · 190 studies (73 causal, 34 review, 28 associational, 23 theoretical, 12 design, 11 quant-synthesis, 9 qualitative), `q1`–`q4` · 33 of 190 report an effect size · 219 claims rest on one study
+> **Evidence** · 243 claims (138 show a difference, 68 mixed, 37 no difference) · 194 studies (73 causal, 34 review, 30 associational, 23 theoretical, 14 design, 11 quant-synthesis, 9 qualitative), `q1`–`q4` · 34 of 194 report an effect size · 226 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -284,6 +284,13 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Students with high prior scientific reasoning skills achieve significantly better biology comprehension than students with low prior reasoning skills](../claims/high-prior-reasoning-better-biology-comprehension.md) [+M] — learners who differ on it differ in outcomes
 - [Pretest computation score was a large predictor of posttest computation competence, indicating high continuity in performance](../claims/pretest-score-large-predictor-posttest.md) [+M] — learners who differ on it differ in outcomes
 - [Objective performance metrics for the SP chicken anastomosis task discriminate expert from novice surgeons on completion time, with novices taking significantly longer (23.8 vs 12.1 min)](../claims/sp-chicken-anastomosis-construct-validity-time.md) [+M] — learners who differ on it differ in outcomes
+- [Domain-specific knowledge (replantation and storage) is not independently associated with decision accuracy](../claims/domain-specific-knowledge-not-independently-associated.md) [-M] — learners who differ on it differ in outcomes
+- [Experienced participants scored significantly higher than novices on both OSATS and TSMs in simulated crural repair](../claims/experienced-outperform-novices-osats-tsm.md) [+M] — learners who differ on it differ in outcomes
+- [Knowledge gains were consistent across breast cancer signs, risk factors, and screening domains.](../claims/bc-knowledge-gains-consistent-across-domains.md) [+M] — measured as an outcome of the instruction studied
+- [No significant difference in cognitive workload between novices and experienced participants across NASA-TLX domains](../claims/no-nasa-tlx-difference-novice-experienced.md) [-M] — learners who differ on it differ in outcomes
+- [Novice first-attempt completion times were significantly longer than expert times on all six FRS VR tasks](../claims/frs-vr-novice-times-longer-than-experts.md) [+M] — learners who differ on it differ in outcomes
+- [Novice first-attempt total scores were significantly lower than expert median scores on all six FRS VR tasks](../claims/frs-vr-novice-scores-lower-than-experts.md) [+M] — learners who differ on it differ in outcomes
+- [Novices and experienced participants rated the simulator similarly with no significant differences in perceptions](../claims/similar-simulator-perceptions-novice-experienced.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

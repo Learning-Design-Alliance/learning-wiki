@@ -75,6 +75,7 @@ The toolkit treats bias mitigation as a design discipline rather than a complian
 - [Jointly investigate fairness in machine learning with core ML researchers when deploying adaptive collaborative learning support](cscl-ml-fairness-joint-investigation.md)
 - [Select context-appropriate bias mitigation strategies from a repertoire of class balancing, sample weighting, bias attenuation, adversarial learning, and fairness-aware model designs](context-specific-bias-mitigation-strategies.md)
 - [Monitor equity: provision access for all students, audit outputs for bias, and study heterogeneous impacts](monitor-equity-genai.md)
+- [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — disaggregated outcome evaluation is the toolkit's core verification step

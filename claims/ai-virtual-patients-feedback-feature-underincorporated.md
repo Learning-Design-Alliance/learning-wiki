@@ -69,3 +69,4 @@ Qualitative synthesis of beneficial features across included studies, identifyin
 - [Clearest LLM-teaching signals appear in settings with clearly defined tasks, immediate feedback, and repeated practice, such as simulated patients and structured feedback](llm-teaching-benefits-task-defined-feedback-settings.md) — possibly the same claim (merge candidate)
 - [Participants generally perceive NTS training programs as beneficial despite variations in teaching strategies](nts-training-icu-positive-reaction-perceptions.md) — related
 - [Proposed course is the only compared course with individualized expert feedback on assignments](proposed-course-only-individualized-expert-feedback.md) — related
+- [Authentic cases incorporating patient encounters, role-plays or multimedia motivate preclinical students' engagement and support knowledge gains](cbl-authentic-cases-motivate-engagement-knowledge.md) — related

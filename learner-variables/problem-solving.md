@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 161 claims (123 show a difference, 17 mixed, 21 no difference) · 127 studies (77 causal, 15 review, 11 quant-synthesis, 9 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 31 of 127 report an effect size · 158 claims rest on one study
+> **Evidence** · 165 claims (126 show a difference, 17 mixed, 22 no difference) · 130 studies (77 causal, 16 review, 11 quant-synthesis, 10 associational, 6 design, 5 qualitative, 4 theoretical), `q1`–`q4` · 31 of 130 report an effect size · 162 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -199,6 +199,10 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Students show fear of solving problems outside taught methods, limiting creative thinking performance](../claims/student-fear-of-untaught-methods-limits-creativity.md) [+W] — learners who differ on it differ in outcomes
 - [Critical thinking dispositions, problem-solving and decision-making skills each positively predict perceptions of success](../claims/higher-order-skills-predict-success-perception.md) [+M] — learners who differ on it differ in outcomes
 - [Problem-solving and decision-making skills partially mediate the link between critical thinking dispositions and perceptions of success](../claims/parallel-mediation-ctd-success.md) [+M] — learners who differ on it differ in outcomes
+- [Formal dental trauma training is weakly but significantly correlated with better decision-making performance](../claims/formal-training-correlated-with-better-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Participation in triage training programs was associated with higher triage decision-making scores across all domains during COVID-19](../claims/triage-training-associated-with-decision-making-skills.md) [+M] — learners who differ on it differ in outcomes
+- [Self-assessed knowledge does not significantly predict correct decision-making in fracture scenarios](../claims/self-assessed-knowledge-not-predictive-fracture-decisions.md) [-M] — learners who differ on it differ in outcomes
+- [Students report the exercise enhanced creative problem-solving (80% agree or strongly agree)](../claims/pbl-enhanced-problem-solving-perceptions.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

@@ -81,6 +81,7 @@ Mastery gating strengthens retention and skill acquisition by ensuring learners 
 **[Teach to One](https://teachtoone.org)** — A K–12 math program that sequences each student's daily learning based on demonstrated mastery of prerequisite skills.
 - [Increase the use of feedback and correctives through mastery learning procedures](../strategies/formative-tests-with-corrective-feedback.md)
 - [Verify Prerequisite Knowledge Before Audiovisual Presentations](../strategies/prerequisite-checks-before-audiovisual-presentations.md)
+- [Require repeated benchmark performance with spaced repetition to ensure reliable skill acquisition](../strategies/repeated-benchmark-performance-spaced-repetition.md)
 
 ## Key Sources
 - Bloom, B. S. (1968). Learning for mastery. *Evaluation Comment, 1*(2). UCLA Center for the Study of Evaluation.

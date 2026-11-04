@@ -51,3 +51,4 @@ Process-evaluation finding from telephone interviews with five teachers represen
 - [PLC was implemented in different ways and with different levels of understanding across schools, and was judged not ready for a large-scale trial](plc-varied-implementation-not-ready-for-full-trial.md) — related
 - [Teachers reported that targeted SLC interventions were not always optimally matched to selected children, prompting a recommendation to re-evaluate targeting processes](tott-targeted-interventions-mismatch-challenge.md) — related
 - [Teachers and pupils perceived multimedia as an effective instructional medium, conditional on adequate facilities and curriculum-aligned materials](multimedia-perceived-effective-two-prerequisites.md) — related
+- [Document analysis found learning materials adequate and aligned with SRL principles and learning outcomes](document-analysis-materials-adequate-srl.md) — related

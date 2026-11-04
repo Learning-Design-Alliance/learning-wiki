@@ -49,3 +49,4 @@ Descriptive synthesis of the 20 included studies' characteristics. The review re
 - [A 13-week multifaceted course for therapy and physiotherapy students produced statistically significant mean increases in perceived knowledge (14.15) and actual knowledge (3.56)](allied-health-course-knowledge-gains.md) — related
 - [Undergraduate physiotherapy students who used iVR alongside traditional teaching scored higher on overall manual therapy performance one week later](ivr-complement-improves-manual-therapy-performance-score.md) — related
 - [Prior discipline studies of IF-AT cards show mixed learning outcomes: significant advantages in nursing, physics and human resources, but equivalent scores in athletic training and pharmacy](ifat-prior-discipline-evidence-mixed.md) — related
+- [Students from nursing, pharmacy, and physical therapy expressed slightly higher satisfaction than other programs](program-differences-satisfaction.md) — related

@@ -46,3 +46,4 @@ LIME feature-importance analysis of baseline predictors for 132 students. "Reduc
 
 ## Related Claims
 - [K-Means clustering of LIME feature-importance profiles identifies 2 responder and 4 non-responder subgroups within binary intervention-response classes](lime-clustering-dyslexia-subgroups.md) — possibly the same claim (merge candidate)
+- [Each decreasing week of gestation is associated with a higher proportion of very preterm children not achieving expected educational levels, persisting after adjustment](gestational-age-dose-response-attainment.md) — reports the opposite

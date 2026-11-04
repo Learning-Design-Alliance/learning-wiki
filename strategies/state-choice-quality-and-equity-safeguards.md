@@ -50,6 +50,7 @@ The report's Key Policy Considerations section lays out implementable state acti
 - [Retain, strengthen, and improve statewide choice options, with urgent state action on information, oversight, and funding equity](retain-strengthen-improve-choice-options.md)
 - [State policymakers should strengthen their own oversight capacity as accreditors' watchdog role weakens](state-oversight-backstop-for-weakened-accreditation.md)
 - [State and local agencies should use policy tools to ensure transparency and quality of digital tutoring](policy-tools-digital-tutoring-transparency.md)
+- [Reduce families' dependence on private education or expand access to high-quality learning resources for lower-income youth](reduce-private-education-dependence-policy-korea.md)
 
 ## Examples
 -

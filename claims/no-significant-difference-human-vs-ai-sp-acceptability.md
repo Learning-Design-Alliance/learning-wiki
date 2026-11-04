@@ -49,3 +49,4 @@ Nonparametric comparison of the 2026 survey responses (n=20) between the human S
 - [Students rated the human standardized patient customer discovery simulation highly, with 85% agreeing it met learning objectives](human-sp-customer-discovery-simulation-high-acceptability.md) — related
 - [Students rated AI-generated and instructor-created lecture slides as similar in quality in a real course](students-rate-ai-slides-similar-quality.md) — related
 - [Students perceived instructor feedback as significantly more useful than AI-generated feedback, with no significant differences on fairness, developmental value or encouragement](instructor-feedback-perceived-more-useful-than-ai-feedback.md) — related
+- [Novices and experienced participants rated the simulator similarly with no significant differences in perceptions](similar-simulator-perceptions-novice-experienced.md) — related

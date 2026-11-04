@@ -56,3 +56,4 @@ Benchmark evaluation of 97 LLMs on the 899 tested CDPK questions using a fixed f
 - [Over a quarter of benchmark tasks (23 of 80) defeat all six frontier models, with over 22% showing capability boundaries where scores swing by up to 90 points](capability-boundaries-and-universal-failures-academiclaw.md) — related
 - [Accuracy-cost value frontier: at $0.10 per million tokens, CDPK performance rose from 50% (April 2024) to 82% (June 2025)](cdpk-value-frontier-rapid-cost-performance-improvement.md) — related
 - [Current GenAI tools are not designed to support active learning and their apparent domain expertise is brittle](genai-tools-not-designed-for-active-learning.md) — related
+- [Top-performing LLMs achieved high accuracy on clinical reasoning topics such as pulp therapies and dental trauma, not just factual recall](top-llms-strong-clinical-reasoning-topics.md) — related

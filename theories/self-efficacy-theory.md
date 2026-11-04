@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 144 claims (88 for, 51 mixed, 5 against) · 109 studies (45 associational, 34 causal, 21 review, 4 quant-synthesis, 4 design, 1 theoretical), `q1`–`q3` · 28 of 109 report an effect size · 142 claims rest on one study
+> **Evidence** · 148 claims (90 for, 53 mixed, 5 against) · 111 studies (46 associational, 34 causal, 22 review, 4 quant-synthesis, 4 design, 1 theoretical), `q1`–`q3` · 29 of 111 report an effect size · 146 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -191,6 +191,10 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest predictor](../claims/se-mov-positive-predict-sdl-henan-sem.md) [+W]
 - [Self‐efficacy showed the strongest differentiation across learner profiles, with resilient students reporting markedly higher self‐efficacy than disadvantaged low achievers and levels comparable to advantaged high achievers](../claims/self-efficacy-strongest-differentiator-resilient-profiles.md) [~W]
 - [Self-efficacy for ultrasound procedural performance increased significantly after training among Korean Medicine students (p < .001, d = 1.44)](../claims/ultrasound-training-self-efficacy-increase-km.md) [+W]
+- [Years of teaching experience significantly predict university teachers' self‐efficacy beliefs](../claims/experience-predicts-university-teacher-self-efficacy.md) [~W]
+- [PFA training improved nursing students' self-efficacy in disaster intervention and perception of disaster preparedness](../claims/pfa-training-improved-student-self-efficacy-preparedness.md) [+W]
+- [A video-based climate change program improved nursing students' climate change perceptions, environmental self-efficacy, and reduced climate anxiety, with large effects](../claims/video-based-climate-program-large-effects-students.md) [+W]
+- [Self‐reported self‐efficacy questionnaires may not reflect actual teaching behaviour quality](../claims/self-report-self-efficacy-may-not-reflect-teaching-behaviour.md) [~W]
 
 ## The evidence by question
 
@@ -218,6 +222,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Sequence teacher development so vicarious experiences come before mastery experiences](../principles/sequencing.md)
 - [Design intervention programs building academic self-efficacy (vicarious learning, progressive mastery, positive feedback) before and alongside AI integration for students with motor disabilities](../strategies/self-efficacy-interventions-alongside-ai-integration.md)
 - [Apply the empathic design framework in teacher training to increase design efficiency and teacher self-efficacy, especially in K-12](../strategies/empathic-design-in-teacher-training-strategy.md)
+- [Support self-efficacy through positive reinforcement, peer modeling, constructive feedback, and early mastery experiences](../strategies/self-efficacy-support-strategies-clinical-skills.md)
 
 ## Key Sources
 - Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*, 191–215. [doi:10.1037/0033-295x.84.2.191](https://doi.org/10.1037/0033-295x.84.2.191)

@@ -52,3 +52,4 @@ Validation testing with a cohort of 3 attending critical care physicians at a lo
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
 - [Mistral 7B shows high ICCs but low Fleiss kappa when scoring summary statements](mistral-7b-high-icc-low-fleiss-kappa.md) — related
 - [Rubric-based assessment showed substantial to almost-perfect inter-rater reliability across all three time points](rubric-interrater-reliability-visualization-assessment.md) — related
+- [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related

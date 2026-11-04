@@ -63,3 +63,5 @@ Meta-analysis of 13 randomized controlled trials with 2030 students pooling tota
 - [BOPPPS/FC-CBL group achieves significantly higher practical skills scores than LBL group](boppps-fc-cbl-higher-practical-skills-than-lbl.md) — related
 - [BOPPPS/FC-CBL group achieves significantly higher theory test scores than LBL group in general practice residency training](boppps-fc-cbl-higher-theory-test-scores-than-lbl.md) — a narrower finding that bears on this claim
 - [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — a narrower finding that bears on this claim
+- [BOPPPS-CBL instruction is associated with significantly higher adjusted post-test knowledge scores than lecture-based learning in undergraduate HAI education](boppps-cbl-higher-adjusted-posttest-hai-knowledge.md) — a narrower finding that bears on this claim
+- [Gain scores were significantly larger in the BOPPPS-CBL group than the LBL group (Cohen's d = 1.77)](boppps-cbl-larger-gain-scores.md) — a narrower finding that bears on this claim

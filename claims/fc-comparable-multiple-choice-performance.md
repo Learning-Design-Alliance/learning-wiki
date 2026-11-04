@@ -49,3 +49,4 @@ Null finding from the theoretical examination component analysis in the randomiz
 - [Flipped classroom instruction is associated with higher final knowledge scores than traditional instruction in medical education (SMD 0.90).](flipped-classroom-higher-knowledge-scores-medical-education.md) — related
 - [Team-based learning shows no significant difference in multiple-choice question scores compared to traditional teaching](team-based-learning-no-significant-difference-mcq-scores.md) — related
 - [Flipped classroom residents score higher on case analysis questions than traditional classroom residents (33.61 ± 2.61 vs. 31.43 ± 3.17, p = 0.010)](fc-higher-case-analysis-scores-gastroenterology.md) — related
+- [Students rated the flipped classroom more positively than the traditional classroom, but the satisfaction difference was not statistically significant](fc-satisfaction-higher-not-significant.md) — related

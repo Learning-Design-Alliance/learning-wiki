@@ -53,3 +53,4 @@ Authors' interpretive discussion of assessment sensitivity in the same quasi-exp
 - [Residents in the iHEC-integrated teaching cohort achieved higher post-rotation OSCE scores than the conventional cohort (Cohen's d = 0.82)](ihec-higher-osce-scores.md) — related
 - [OSCE designs with 5-10 stations achieve good internal consistency (Cronbach's alpha = 0.83), outperforming designs with fewer than 5 or more than 10 stations](osce-5-10-stations-optimal-reliability.md) — related
 - [When station number varies widely, duration time per station is not a major factor affecting OSCE internal consistency](osce-duration-not-major-factor-when-station-number-varies.md) — related
+- [Modified Peyton’s four-step approach yields higher immediate post-training OSCE scores than traditional Peyton in resident clinical skills training](modified-peyton-higher-immediate-osce.md) — related

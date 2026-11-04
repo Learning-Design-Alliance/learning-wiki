@@ -49,3 +49,4 @@ The article reports this published genetic-nurturing replication study: genetic-
 - [Genetic liability for ADHD predicts lower GCSE attainment but not greater school absence (ALSPAC cohort)](adhd-genetic-liability-attainment-not-absence.md) — related
 - [Educational achievement is highly heritable, and the common environmental variance is attributable to SES effects](ea-heritable-common-env-variance-attributable-to-ses.md) — related
 - [Genetic and environmental variance components of educational achievement decrease with increasing parental SES](genetic-environmental-variance-decrease-with-ses.md) — related
+- [No sex differences in the effect of dyslexia genetic liability on school performance](no-sex-difference-dyslexia-pgs-school-performance.md) — related

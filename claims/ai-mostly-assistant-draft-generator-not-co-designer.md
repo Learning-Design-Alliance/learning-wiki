@@ -68,3 +68,4 @@ Cross-study analysis of collaboration modes (Fig. 4). The review reports integra
 - [AI serves two complementary roles in learning: cognitive partner and personalized recommendation mechanism](ai-dual-roles-cognitive-partner-recommender.md) — related
 - [Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings](pepper-three-pedagogical-roles.md) — related
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related
+- [Most students expected AI to serve as personal tutor, creative partner, and critical thinking partner rather than merely a content generator.](students-expect-collaborative-ai-roles-beyond-content-generation.md) — reports the opposite

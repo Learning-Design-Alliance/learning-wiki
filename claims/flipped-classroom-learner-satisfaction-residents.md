@@ -85,3 +85,4 @@ Learner-group subgroup analysis for satisfaction (Fig. 6B): undergraduates SMD =
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](fc-satisfaction-and-implementation-challenges.md) — a narrower finding that bears on this claim
 - [Active learning and team-based learning interventions have not consistently improved shelf exam scores](active-learning-no-consistent-shelf-improvement.md) — related
 - [Flipped classroom students report more positive perceptions of resources, effort, and overall learning environment on the AEEMI](flipped-classroom-positive-aeemi-perceptions.md) — related
+- [Students rated the flipped classroom more positively than the traditional classroom, but the satisfaction difference was not statistically significant](fc-satisfaction-higher-not-significant.md) — reports the opposite

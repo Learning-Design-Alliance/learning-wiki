@@ -60,7 +60,8 @@ This development pattern adapts an intervention-development framework to build a
 - [Cimi M Clinical Interview](../products/clinical-interview-for-moral-injurymilitary-version.md)
 
 ## Examples
--
+
+- [Use Kotter's 8-step and COM-B models within iterative action-research cycles to co-design EPA implementation improvements with expert and stakeholder panels](../strategies/kotter-comb-action-research-epa-implementation.md)
 
 ## Key Sources
 - de Goede, M. L., Boelen, P. A., Litz, B. T., & ter Heide, F. J. J. (2026). Mapping moral injury: Development and feasibility of the Clinical Interview for Moral Injury—military version (CIMI-M). PLOS One. https://doi.org/10.1371/journal.pone.0359553

@@ -48,5 +48,5 @@ Descriptive register analysis (Figure 4) of the singKT corpus using tertile regi
 ## Related Claims
 - [Note-level singing correctness rises with practice repetition in a negatively accelerated curve, gaining about 7 percentage points over 30 repetitions](singing-accuracy-negatively-accurated-repetition-curve.md) — related
 - [A one-parameter IRT model outperforms global and per-pitch baselines on AUC, BCE and Brier score but not on threshold accuracy for held-out singing attempts](irt-outperforms-baselines-discrimination-not-accuracy.md) — related
-- [Latent singing ability varies widely across learners, with sequence-level theta estimates spanning −3.79 to 3.36 logits](wide-latent-ability-spread-singing-learners.md) — related
+- [Sequence-level estimates of latent singing ability vary widely, spanning −3.79 to 3.36 logits across 2,432 practice sequences from 1,074 learners](wide-latent-ability-spread-singing-learners.md) — related
 - [Per-pitch BKT attains the highest accuracy, lowest BCE and lowest Brier score of the four model families, but lower AUC than IRT](bkt-highest-accuracy-lower-auc-than-irt.md) — related

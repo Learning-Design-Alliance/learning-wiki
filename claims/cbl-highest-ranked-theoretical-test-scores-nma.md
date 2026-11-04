@@ -65,3 +65,5 @@ Network meta-analysis of 58 RCTs with 5,427 students reporting theoretical test 
 - [BOPPPS/FC-CBL group achieves significantly higher theory test scores than LBL group in general practice residency training](boppps-fc-cbl-higher-theory-test-scores-than-lbl.md) — related
 - [Instructors show higher willingness to adopt CBL than LBL for future clinical teaching](cbl-higher-instructor-adoption-willingness.md) — related
 - [In the same RCT, no significant between-group differences were observed in baseline theoretical knowledge or clinical skills scores before teaching](pbl-virtual-simulation-no-baseline-differences-trauma-orthopedics.md) — related
+- [International students studying CBL in a second language and unaccustomed to active learning show poorer knowledge gains than domestic peers](cbl-international-students-second-language-poorer-gains.md) — related
+- [PUC-FC students outperformed FC and LBL students on case analysis questions and total theoretical scores, with no difference on basic knowledge questions](puc-fc-case-analysis-advantage.md) — a narrower finding that bears on this claim

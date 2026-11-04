@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 318 claims (184 for, 113 mixed, 21 against) · 197 studies (77 review, 51 causal, 38 quant-synthesis, 16 design, 6 associational, 6 qualitative, 3 theoretical), `q1`–`q4` · 35 of 197 report an effect size · 308 claims rest on one study
+> **Evidence** · 337 claims (196 for, 120 mixed, 21 against) · 207 studies (78 review, 54 causal, 38 quant-synthesis, 18 design, 9 associational, 7 qualitative, 3 theoretical), `q1`–`q4` · 35 of 207 report an effect size · 327 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -373,6 +373,25 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Clinical knowledge scores improved significantly (mean increase 6.7 points, Cohen's d = 0.76) after the VP training program](../claims/vp-training-improves-clinical-knowledge.md) [+W]
 - [Transfer of VR training gains to real clinical practice remains unconfirmed](../claims/vr-training-transfer-unconfirmed.md) [~W]
 - [VR-based training yields higher standardized knowledge examination scores than model simulation for otorhinolaryngology residents](../claims/vr-training-higher-knowledge-examination-scores-ent-residents.md) [+W]
+- [An immersive cinematic escape room approach improved nurses' disaster preparedness over time compared with traditional teaching](../claims/immersive-cinematic-escape-room-improved-preparedness.md) [~W] — attached 2026-11-04 from Delbene Lara et al. (2026), which proposed "Immersive cinematic escape room for disaster preparedness".
+- [Virtual reality simulation training improved reserve nurses' theoretical knowledge, emergency care capability, and total disaster preparedness, but not post-disaster management](../claims/vr-simulation-training-improved-response-capability.md) [~W] — attached 2026-11-04 from Delbene Lara et al. (2026), which proposed "Virtual reality simulation training for disaster response"; tests this page's relationship.
+- [Immersive virtual reality disaster training improved emergency nurses' preparedness and self-efficacy with short-term retention](../claims/immersive-vr-training-improved-preparedness-self-efficacy.md) [+W] — attached 2026-11-04 from Delbene Lara et al. (2026), which proposed "Virtual reality simulation training for disaster response"; tests this page's relationship.
+- [Novices and experienced participants rated the simulator similarly with no significant differences in perceptions](../claims/similar-simulator-perceptions-novice-experienced.md) [~W] — attached 2026-11-04 from Garces-Palacios S et al. (2026), which proposed "Inanimate silicone crural repair model in laparoscopic trainer box".
+- [AI-enabled virtual patient simulation training improves perceived psychotherapeutic competence over four sessions](../claims/vp-simulation-improves-perceived-psychotherapeutic-competence.md) [+W] — attached 2026-11-04 from Cecil Julia et al. (2026), which proposed "AI-enabled 2D virtual patient simulation on the MedVR Education platform with automated MI feedback"; tests this page's relationship.
+- [An in-situ simulated patient environment improved knowledge and attitude scores across all professional groups](../claims/in-situ-simulated-patient-environment-improved-knowledge-attitude.md) [+W]
+- [No statistically significant difference between SBT and CBT groups on the theoretical knowledge OSCE station](../claims/no-significant-difference-theoretical-knowledge-station.md) [~W]
+- [Participants described the potential applicability of the integrated video-plus-simulation approach to other areas of surgical training such as trauma or wound care.](../claims/applicability-to-other-surgical-training-areas.md) [~W]
+- [Knot Tying showed the lowest and most variable expert scores on FRS VR, likely due to poor interaction fidelity](../claims/frs-vr-knot-tying-poor-interaction-fidelity.md) [~W]
+- [Simulator penalties decrease with ophthalmic experience, significantly for Run 2 only](../claims/helpmesee-msics-penalties-decrease-with-experience.md) [+W]
+- [Robotic simulation training independently associated with higher OSATS and TSM scores after adjustment](../claims/robotic-simulation-training-higher-performance.md) [+W]
+- [The pork-based simulation model stratifies surgical competency across PGY levels](../claims/pork-model-stratifies-competency-pgy-levels.md) [+W]
+- [Simulation-trained students significantly outperformed clinically trained peers on the dose calibrator use OSCE station](../claims/sbt-outperforms-cbt-dose-calibrator-station.md) [+W]
+- [Simulation-trained students significantly outperformed clinically trained peers on the dose preparation and generator handling OSCE station](../claims/sbt-outperforms-cbt-dose-preparation-station.md) [+W]
+- [Authors attribute SBT performance advantages to repeated structured rehearsal in a controlled learning environment](../claims/sbt-advantage-attributed-repeated-structured-rehearsal.md) [+W]
+- [Simulation-trained students significantly outperformed clinically trained peers on the radiation safety procedures OSCE station](../claims/sbt-outperforms-cbt-safety-procedures-station.md) [+W]
+- [Simulation-based online ultrasound training produces theoretical and practical outcomes comparable to traditional on-site instruction in physiotherapy students](../claims/simulation-online-ultrasound-training-comparable-outcomes.md) [+W]
+- [Residents rated the pork-based model higher in fidelity and satisfaction than the silicone model, with no difference in operational difficulty](../claims/pork-model-higher-fidelity-satisfaction-than-silicone.md) [~W]
+- [Simulation evaluation scores do not change significantly between post-simulation and two-month follow-up](../claims/simulation-evaluations-stable-over-two-months.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

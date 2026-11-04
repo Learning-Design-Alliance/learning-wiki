@@ -57,3 +57,4 @@ Pre- and post-workshop survey study of 79 regulated allied health professionals 
 - [An elective EBM course for pharmacy students improved pre-post course scores from 8.6/15 to 13.7/15, with preceptors and students reporting improved literature critique and interpretation confidence](pharmacy-elective-course-gains-and-preceptor-views.md) — related
 - [The near-peer bootcamp was feasible to coordinate as an alternative to faculty-led teaching](near-peer-bootcamp-feasibility.md) — related
 - [Faculty preparedness gaps and psychometric subjectivity are key barriers to implementing OHL-Mini-CEX](ohl-mini-cex-implementation-barriers.md) — related
+- [A competency-based multiactor emergency preparedness training curriculum improved cognitive knowledge, self-assessed skill, and scenario performance after video debriefing](competency-based-multiactor-ept-improved-performance.md) — related

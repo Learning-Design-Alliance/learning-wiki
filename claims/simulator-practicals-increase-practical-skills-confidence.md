@@ -51,3 +51,4 @@ Self-reported questionnaire and open-ended comment data from the end-of-session 
 - [A 2-day foot ulcer simulation training workshop increased podiatrists' confidence and significantly improved their theoretical knowledge and practical skills](fust-workshop-improved-confidence-knowledge-skills.md) — related
 - [Non-randomized and pre/post-test studies broadly support simulation training benefits for attitudes, skills, knowledge and behaviors, though subject to natural learning effects](simulation-nonrct-ppt-narrative-support.md) — a broader claim this one bears on
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
+- [Providers reported increased skill, knowledge, and confidence after training interventions](provider-confidence-knowledge-skill-increased-after-training.md) — related

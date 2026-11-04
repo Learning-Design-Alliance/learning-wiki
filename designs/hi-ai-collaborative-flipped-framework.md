@@ -49,6 +49,7 @@ The article proposes a human intelligence (HI)-AI collaborative framework layere
 ## Related Designs
 
 - [Flipped classroom as constructivist blended learning that moves lower-order Bloom's levels outside class](flipped-classroom-constructivist-blended-model.md)
+- [HI-AI collaborative framework for the AI-enhanced flipped classroom](hi-ai-collaborative-flipped-classroom-framework.md)
 
 ## Examples
 -

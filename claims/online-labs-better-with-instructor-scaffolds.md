@@ -61,3 +61,4 @@ Student interviews and focus groups in the course case studies. "Online lab exer
 - [Instructors who visibly promoted iHelp and the peer help model seemed to engender greater student engagement](ihelp-instructor-promotion-engagement.md) — related
 - [Online learners reported stronger directed attention but also more giving up when comprehension failed, compared with traditional classroom learners](directed-attention-differences-online-traditional.md) — related
 - [Students valued HoloLens for shared, instructor-guided collaborative learning, especially synchronized faculty pointing at structures](hololens-shared-instructor-guided-learning.md) — related
+- [Integrating asynchronous videos with simulation-based practice was perceived as enabling more focused engagement during supervised sessions, shifting attention from procedural recall to technical execution.](video-simulation-integration-focuses-technical-execution.md) — related

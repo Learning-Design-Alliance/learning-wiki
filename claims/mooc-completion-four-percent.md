@@ -57,3 +57,4 @@ The paper cites a University of Pennsylvania Graduate School of Education study 
 - [MOOC certificate purchasing is rare: under 1% of enrolled learners purchase, with completion around 10%](mooc-purchase-rate-under-one-percent.md) — related
 - [The 2007 open course design allowed anyone to participate and prefigured the first MOOC](open-course-design-prefigured-moocs.md) — related
 - [Adult learners take MOOC courses for six stated reasons, including topical interest and viewing lurking as learning](six-reasons-adult-learners-take-moocs.md) — related
+- [AI voice cloning maintains student engagement comparable to traditional audio recording](ai-voice-cloning-maintains-engagement.md) — a narrower finding that bears on this claim

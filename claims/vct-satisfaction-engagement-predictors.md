@@ -49,3 +49,4 @@ Multiple regression analyses (N=525) predicting post-test knowledge and attitude
 - [Simulation exposure produced no detectable change in clinical trials career interest](vct-no-career-interest-change.md) — related
 - [Non-randomized and pre/post-test studies broadly support simulation training benefits for attitudes, skills, knowledge and behaviors, though subject to natural learning effects](simulation-nonrct-ppt-narrative-support.md) — a broader claim this one bears on
 - [Digital clinical skills teaching produces higher student satisfaction and engagement across multiple modalities, despite mixed efficacy for skills](digital-clinical-skills-teaching-satisfaction-engagement.md) — related
+- [Simulation-related variables (usability, satisfaction, presence, technology acceptance) do not predict training outcomes](simulation-variables-do-not-predict-outcomes.md) — reports the opposite

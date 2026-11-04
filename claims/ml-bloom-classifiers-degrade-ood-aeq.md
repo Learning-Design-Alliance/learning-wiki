@@ -58,3 +58,4 @@ Numerical evaluation (5-fold cross-validation on IID-Lau, transfer to OOD Scaria
 - [Retrained BERT relies on high-impact nouns, verbs, and adjectives for correct predictions, but this reliance is muted on the AF dataset](lime-pos-reliance-varies-by-dataset.md) — related
 - [Attribution analysis identifies interpretable input features for BERT's classification decisions, including subjunctive verbs in alternatives and appraisal words in evaluation](attribution-analysis-identifies-bert-classification-features.md) — related
 - [State-of-the-art embedding-based keyphrase models degrade on lecture slides while TF-IDF generalizes better to them](embedding-keyphrase-models-degrade-lecture-slides.md) — related
+- [Classification accuracy declines near the median score threshold due to overlap between low‐ and high‐skill feature distributions](accuracy-declines-near-median-threshold.md) — related

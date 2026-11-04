@@ -47,3 +47,4 @@ Within-level ML-SEM outcome paths. Behavioral engagement and threat evaluation p
 ## Related Claims
 - [Between-level threat evaluation negatively predicts GCSE mathematics grade with a significant moderate contextual effect](threat-evaluation-contextual-effect-gcse.md) — related
 - [Test performance predicts subsequent enjoyment, boredom, and anxiety in primary school students, but only anxiety relates reciprocally to performance](performance-predicts-subsequent-emotions.md) — related
+- [Teacher support is negatively associated with mathematics anxiety and positively associated with learning engagement.](teacher-support-anxiety-engagement-paths.md) — related

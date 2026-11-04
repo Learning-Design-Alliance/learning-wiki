@@ -46,7 +46,8 @@ The review recommends structuring microsurgical training around systematic ident
 - [Severe torsion may reduce patency, but limited torsion (≤180°) often shows no clear early patency penalty, while excessive tension is more consistently associated with failure](../claims/torsion-tolerance-versus-tension-failure.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Deploy senior postgraduates as one-on-one real-time skills mentors during operation practice](postgraduate-one-on-one-skills-mentoring.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Authors' discussion-level inference combining this crossed-design study with the
 - [CTT-based quiz difficulty rankings are validated by IRT analysis with near-perfect rank correlation](irt-validates-ctt-quiz-difficulty-ranking.md) — related
 - [Australian and Malaysian Muslim learners ranked discord items differently, with Australian students most resistant to anti-science statements and most accepting of divine-cause statements](australian-malaysian-discord-item-differences.md) — related
 - Ground-truth difficulty labels in reviewed studies come roughly equally from expert/annotator labelling (34%), Classical Test Theory (34%), and Item Response Theory (26%) — related
+- [Item response theory analysis identifies image optimization, structure diameter, and structure surface distance as the most difficult assessment items](irt-identifies-most-difficult-ultrasound-items.md) — related

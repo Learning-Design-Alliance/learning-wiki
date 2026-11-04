@@ -59,3 +59,4 @@ In the reciprocal relations model with 1,242 primary students, test performance 
 - [Within persons, better-than-usual math grades positively predict subsequent enjoyment and pride, and enjoyment and pride positively predict subsequent grades](grades-positive-emotions-within-person-reciprocal.md) — related
 - [Within-level behavioral engagement positively and threat evaluation negatively predict GCSE mathematics grade](engagement-and-threat-predict-gcse-grade-within-level.md) — related
 - [Academic buoyancy and adaptability show reciprocal cross-lagged effects over time, each a medium effect (β = .07, p < .01) in latent modeling](buoyancy-adaptability-reciprocal-cross-lagged-effects.md)
+- [Teacher support is negatively associated with mathematics anxiety and positively associated with learning engagement.](teacher-support-anxiety-engagement-paths.md) — related

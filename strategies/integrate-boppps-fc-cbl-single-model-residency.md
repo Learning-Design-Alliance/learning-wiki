@@ -58,6 +58,8 @@ The authors recommend that "medical education policymakers consider the strategi
 - [Adopt flipped classroom in preventive medicine courses according to institutional resources, with teacher information-technology training](adopt-fc-per-resources-with-teacher-it-training.md)
 - [Integrate TBL with other teaching methods and modern educational technologies](tbl-integration-with-other-methods.md)
 - [Adopt flexible, competency-based attendance policies and flipped classrooms for senior medical students](flexible-attendance-flipped-classroom-senior-students.md)
+- [Phased implementation, rigorous case development, faculty development, and balanced assessment when adopting BOPPPS-CBL](boppps-cbl-implementation-strategies.md)
+- [Use faculty development workshops to standardize TBL facilitation with diverse team composition and case integration](faculty-development-tbl-facilitation.md)
 
 ## Examples
 -

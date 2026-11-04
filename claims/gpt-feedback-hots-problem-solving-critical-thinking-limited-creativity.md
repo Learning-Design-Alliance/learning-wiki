@@ -61,3 +61,4 @@ Outcome measures from the RCT comparing GPT-feedback-supported and traditional-f
 - [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — a broader claim this one bears on
 - [Inquiry-based learning strategies in laboratory courses are reported to significantly improve critical thinking skills](inquiry-based-lab-learning-improves-ct.md) — related
 - [Intervention cohort scored significantly higher on creativity thinking, design skills, and problem solving, but not on presentation or attendance](rubric-dimension-gains-creativity-design-problem-solving.md) — reports the opposite
+- [Students report the exercise enhanced creative problem-solving (80% agree or strongly agree)](pbl-enhanced-problem-solving-perceptions.md) — related

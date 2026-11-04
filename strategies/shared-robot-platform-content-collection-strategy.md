@@ -45,7 +45,9 @@ To address the cost and labor limitations of robot-assisted health education, th
 - [Robot-assisted digital storytelling reduces hospitalized children's anxiety during intravenous injections more than video-based health education](../claims/robot-ds-reduces-hospitalization-anxiety.md) [+W]
 
 ## Related Strategies
+
 - [Robot Assisted Ds Clinical Health Education Strategy](robot-assisted-ds-clinical-health-education-strategy.md)
+- [Phased implementation strategy for robot-assisted training to distribute costs](phased-implementation-robot-training-strategy.md)
 
 ## Examples
 -

@@ -17,7 +17,7 @@ sources:
 # Germane load operationalized as learning effects measured by test-score increases
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 18 claims (6 for, 9 mixed, 3 against) · 18 studies (12 causal, 5 design, 1 quant-synthesis), `q2`–`q3` · 5 of 18 report an effect size · 18 claims rest on one study
+> **Evidence** · 19 claims (6 for, 10 mixed, 3 against) · 19 studies (13 causal, 5 design, 1 quant-synthesis), `q2`–`q3` · 6 of 19 report an effect size · 19 claims rest on one study
 
 ## Description
 The article operationalizes germane load as learning effects: the portion of working memory resources devoted to schema construction during a learning phase, whose behavioral signature is improvement on post-test problems. As the article states, "germane load assigned in the learning phase was evaluated based on the increase of the test scores." This measurement approach treats pre- to post-test gains as the index of germane load, and the article uses it to distinguish two types of germane load related to intrinsic load.
@@ -56,6 +56,7 @@ The article operationalizes germane load as learning effects: the portion of wor
 - [Both groups showed statistically significant pretest-posttest gains on the short-answer questions test](../claims/both-groups-gain-short-answer-test.md) [~W]
 - [The experimental and control groups did not differ significantly at pre-test but the experimental group outperformed the control group at post-test](../claims/ds-posttest-between-group-outperformance.md) [+W]
 - [Both groups improved significantly from pre-test to post-test with no pre-existing difference between them](../claims/significant-pre-post-gains-both-esp-groups.md) [~W]
+- [A short pulmonary rehabilitation training program significantly improved knowledge scores in primary care physiotherapists and AEPs](../claims/pr-training-improves-knowledge-primary-care-clinicians.md) [~W]
 
 ## Related Theories
 - 

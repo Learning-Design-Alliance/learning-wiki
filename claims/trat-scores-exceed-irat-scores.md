@@ -51,3 +51,6 @@ The author's interpretation of score patterns across the 69-student cohort, offe
 - [TBL improves team readiness assurance test scores compared to individual tests](tbl-grat-outperforms-irat.md) — possibly the same claim (merge candidate)
 - [Students in healthcare-professions TBL achieve significantly higher GRAT scores than IRAT scores (pooled SMD = 2.05)](grat-scores-higher-than-irat-tbl-meta-analysis.md) — possibly the same claim (merge candidate)
 - [Students consistently scored higher on the tRAT than on the iRAT across all themes, reflecting the benefits of peer explanation and collaborative reasoning.](tbl-trat-exceeds-irat-across-themes.md) — possibly the same claim (merge candidate)
+- [Seven of nine readiness assurance questions achieved the maximum score during the t-RAT](seven-of-nine-max-t-rat.md) — related
+- [Students particularly value the IRAT and AES within the closing session for gauging their own knowledge and applying it to clinically pertinent scenarios.](students-value-irat-and-aes-in-closing-session.md) — related
+- [Team-based readiness assurance test scores significantly exceeded individual readiness assurance test scores in an interdisciplinary TBL session](t-rat-exceeds-i-rat-interdisciplinary-tbl.md) — a narrower finding that bears on this claim

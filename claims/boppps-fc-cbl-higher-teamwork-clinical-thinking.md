@@ -58,3 +58,4 @@ Randomised trial of 38 general-practice residents (19 per group) in one hospital
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — related
 - [BOPPPS/FC-CBL group achieves significantly higher theory test scores than LBL group in general practice residency training](boppps-fc-cbl-higher-theory-test-scores-than-lbl.md) — related
 - [No significant baseline differences between BOPPPS/FC-CBL and LBL groups on demographics or entry-level scores](boppps-fc-cbl-lbl-no-baseline-differences.md) — related
+- [BOPPPS-CBL instruction is associated with significantly higher adjusted post-test knowledge scores than lecture-based learning in undergraduate HAI education](boppps-cbl-higher-adjusted-posttest-hai-knowledge.md) — related

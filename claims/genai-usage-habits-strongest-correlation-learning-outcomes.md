@@ -50,3 +50,4 @@ Pearson product-moment correlation analysis of all dimensional variables from th
 - [All six GenAI-SRL dimensions correlate positively with learners' perceived writing improvement (r = 0.275–0.338)](genai-srl-dimensions-correlate-perceived-writing-gains.md) — related
 - [Chinese higher vocational students report medium-high GenAI usage (M = 3.75) with usage habits highest, and above-average perceived learning outcomes (M = 4.01) with competency development ranked highest](vocational-students-genai-usage-medium-high-outcomes-above-average.md) — related
 - [Year of study is only weakly positively associated with reported AI usage frequency, indicating tool normalization across cohorts](weak-year-usage-frequency-association.md) — related
+- [AI utility perception, but not usage frequency, is associated with learning outcomes](ai-utility-perception-not-frequency-predicts-learning.md) — reports the opposite

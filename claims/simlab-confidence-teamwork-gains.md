@@ -58,3 +58,5 @@ Session 4 group interview self-reports. A participant reported "an increase in o
 - [All nine studies using ISS to assess and promote system readiness and safety cultures reported improvements in readiness scores and safety attitudes](iss-improves-readiness-safety-attitudes.md) — a broader claim this one bears on
 - [Participation in uniformed youth groups is associated with small improvements in self-reported self-confidence and teamwork](youth-united-small-non-attainment-gains.md) — related
 - [The collaborative model shows no significant effect on inter-professional teamwork competence or transformative learning readiness](fsph-3d-model-no-effect-teamwork-transformative-learning.md) — related
+- [Participants reported perceived increases in confidence when approaching early clinical tasks after completing the integrated module.](integrated-module-increases-confidence-early-clinical-tasks.md) — related
+- [Providers reported increased skill, knowledge, and confidence after training interventions](provider-confidence-knowledge-skill-increased-after-training.md) — related

@@ -57,3 +57,4 @@ Human-rater validation study: five M.Sc.-level psychologists, blind to persona c
 - [Most variables of the START-Play fidelity measure show good to excellent interrater reliability, with ICCs ranging from 0.77 to 0.95](start-play-fidelity-icc-077-095.md) — related
 - [AI scores demonstrated high consistency with expert ratings (ICC = 0.893)](ai-scoring-high-consistency-expert-ratings-icc-0893.md) — related
 - [CAR 1.0 achieved good to excellent inter-rater reliability across all five key components (α = 0.836 to 0.973)](car-1-0-cronbach-alpha-reliability.md) — related
+- [Expert reference standard for MUL measurements showed excellent agreement (ICC 0.90)](expert-reference-mul-icc-090.md) — related

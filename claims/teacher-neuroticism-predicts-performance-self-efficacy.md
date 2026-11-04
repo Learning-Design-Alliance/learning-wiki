@@ -64,3 +64,4 @@ Level-1 results of the same PSE regressions, where student-level variables predi
 - [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
 - [Neuroticism correlates negatively with achievement overall, most strongly with STEM test scores](neuroticism-negative-achievement-association.md) — related
 - [Teacher personality does not predict student academic achievement when previous achievement is controlled](teacher-personality-no-achievement-effect.md) — related
+- [Neuroticism and self-efficacy are substantially negatively correlated](neuroticism-self-efficacy-negative-correlation.md) — related

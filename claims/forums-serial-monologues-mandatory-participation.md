@@ -47,3 +47,4 @@ Survey and interview data on tool preferences. The authors report forum use is "
 ## Related Claims
 - [Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness](positive-student-response-cross-cultural-activities.md) — related
 - [Teachers perceived the potential of Web 2.0 tools but did not currently consider including them in their courses, citing lack of training](teachers-not-yet-include-web20-tools-lack-training.md) — related
+- [Prenatal clinicians prefer live, dynamic sessions over online video-based training modules](tic-live-sessions-preference-prenatal.md) — related

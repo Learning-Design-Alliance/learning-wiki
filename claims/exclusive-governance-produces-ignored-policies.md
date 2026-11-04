@@ -54,3 +54,4 @@ Focus group finding: faculty and frontline staff were often only vaguely aware o
 - [Students most often urge institutions to teach responsible AI use (N=41) and provide clear rules and guidelines (N=27)](students-urge-ai-literacy-and-clear-rules.md) — related
 - [Government regulations and policy incentives are crucial external enablers of institutional AI adoption readiness](government-regulation-external-enabler-ai-adoption.md) — related
 - [Empowering and distributive leadership styles are associated with greater faculty engagement and willingness to adopt AI in higher education, per the reviewed studies](empowering-distributive-leadership-ai-adoption.md) — related
+- [Libraries with formal shared decision-making report better alignment and more proactive resource management than libraries excluded from governance](shared-governance-linked-to-proactive-library-management.md) — related

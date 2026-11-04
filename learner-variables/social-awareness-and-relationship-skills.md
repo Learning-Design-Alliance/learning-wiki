@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 218 claims (148 show a difference, 45 mixed, 25 no difference) · 160 studies (50 causal, 42 review, 31 associational, 16 quant-synthesis, 11 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 44 of 160 report an effect size · 211 claims rest on one study
+> **Evidence** · 219 claims (149 show a difference, 45 mixed, 25 no difference) · 161 studies (50 causal, 42 review, 31 associational, 16 quant-synthesis, 12 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 44 of 161 report an effect size · 212 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -260,6 +260,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Sub-dimension correlations vary: Communication and Social Competency shows no significant relationship with Precision and Accuracy in critical thinking](../claims/subdimension-csc-precision-null-correlation.md) [-W] — learners who differ on it differ in outcomes
 - [Teamwork ability, professional ethics awareness, and understanding of healthcare-related social responsibility did not differ significantly between integrated PBL-humanities and LBL groups](../claims/integrated-pbl-humanities-null-teamwork-ethics-social-responsibility.md) [-W] — measured as an outcome of the instruction studied
 - [Most students report that the service learning programme enhanced empathy and sense of professional responsibility](../claims/service-learning-enhances-empathy-responsibility.md) [+M] — measured as an outcome of the instruction studied
+- [Prenatal clinicians report increased empathy and understanding of patient behavior through TIC learning](../claims/tic-increased-empathy-prenatal-clinicians.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

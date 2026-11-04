@@ -74,3 +74,4 @@ Subgroup analysis by intervention intensity for overall academic achievement. Th
 - [School-based physical activity shows no significant effect on language expression achievement](school-based-physical-activity-no-effect-language-expression.md) — related
 - [Classroom-based physical activity interventions did not affect children's overall physical activity levels in meta-analysis (SMD = 0.40, CI crossing zero)](classroom-physical-activity-no-effect-overall-pa.md) — related
 - [Mathematics shows the strongest association with muscular fitness among school subjects](mathematics-strongest-muscular-fitness-association.md) — related
+- [Teacher support is positively and significantly correlated with high school students’ mathematics achievement (r = 0.091).](teacher-support-positive-correlation-math-achievement.md) — related

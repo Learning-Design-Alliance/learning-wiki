@@ -68,3 +68,4 @@ Umbrella review synthesis: only one review mentioned facilitator or educator tra
 - [Most studies report positive student satisfaction with TBL in clinical disciplines, but firm conclusions are limited by uncontrolled designs](tbl-clinical-student-satisfaction-positive-limited-comparators.md) — related
 - [Non-technical skill outcomes of TBL are mixed, with positive findings for communication, decision-making, self-study and emotional intelligence](tbl-non-technical-skills-mixed.md) — related
 - [Replacing Problem-Based Learning with Team-Based Learning in a large medical programme reduced weekly staff facilitator hours by 63% and room bookings by 84% while maintaining high student satisfaction.](tbl-reduces-staff-and-room-burden-maintains-satisfaction.md) — related
+- [TBL is slightly more cost effective than PBL despite the initial outlay required for technological devices to support room-to-room videoconferencing.](tbl-more-cost-effective-than-pbl.md) — related

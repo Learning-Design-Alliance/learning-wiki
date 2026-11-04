@@ -52,3 +52,4 @@ Prospective randomized controlled study of 60 orthopedic interns randomized 1:1 
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
 - [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
 - [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — related
+- [AI-assisted peer teaching improves postintervention orthopedic knowledge scores](ai-assisted-peer-teaching-improves-knowledge.md) — related

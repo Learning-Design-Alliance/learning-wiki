@@ -51,3 +51,4 @@ Descriptive cross-sectional survey (N=94) using seven comparative forced-choice 
 - [Team-based learning showed significantly higher performance than traditional learning in one included study](tbl-significantly-higher-performance-hossain.md) — related
 - [Integrating YouTube videos into EFL instruction produced significantly higher post-test content learning than lecture-based instruction](youtube-integration-higher-efl-posttest-scores.md) — related
 - [Remote Anatomage Teaching via a smart digital podium is technically feasible for large-group anatomy lectures without interruption](rat-technically-feasible-large-group-lectures.md) — related
+- [TBL produces significantly higher student engagement and peer/instructor interaction than lecture-based instruction](tbl-higher-engagement-peer-interaction-than-lecture.md) — related

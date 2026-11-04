@@ -51,3 +51,4 @@ Pre-treatment interview question 2 with the 14 experimental teachers; "Six scien
 - [Barriers to soft skills integration: time constraints, systemic obstacles, learner emotional strain, and adapting to new modalities](soft-skills-curricular-barriers-medical-education.md) — related
 - [Experimental teachers reported the Glogster model, tiered assignments and scaffolding were effective for struggling students, though assessment demanded much effort](glogster-tiered-scaffolding-struggling-students.md) — related
 - [Workload was the number one challenge to effective teaching identified by faculty (341 comments).](workload-top-faculty-teaching-challenge.md) — related
+- [Structural and institutional constraints — time limitations, large class sizes, and dense curricular content — restrict implementation of active learning in nursing education](structural-institutional-constraints-active-learning-nursing.md) — related

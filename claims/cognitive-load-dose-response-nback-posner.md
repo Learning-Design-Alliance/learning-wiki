@@ -55,3 +55,4 @@ Mixed-effect regression with Bonferroni post hoc correction across 160 adolescen
 - [With increasing n-back task difficulty, reaction times increase and accuracy decreases](nback-difficulty-increases-rt-decreases-accuracy.md) — possibly the same claim (merge candidate)
 - [Neither muscle mass nor weekly training frequency is associated with reaction time across cue conditions in healthy male high-school students](muscle-mass-weekly-training-not-associated-rt.md) — related
 - [In an immersive VR dual-task search-and-learning environment, both a pedagogical agent cue and a light cue produced faster search times than no cueing](vr-agent-light-cues-reduce-search-time.md) — related
+- [Reasoning-enabled LLM modes improved accuracy but required excessively long generation times, creating a speed-accuracy trade-off](llm-reasoning-speed-accuracy-tradeoff-dental-exam.md) — related

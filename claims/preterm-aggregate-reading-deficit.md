@@ -51,3 +51,5 @@ Random-effects meta-analysis of 33 cohort/cross-sectional studies pooling mean d
 - [Preterm birth is associated with deficits in both higher-order reading comprehension and lower-order reading subskills of decoding and word identification, but not pseudoword decoding](preterm-reading-subskill-deficits.md)
 - [Preterm academic deficits persist across birth eras, with a substantial mathematics achievement gap in the most recent era (2001-2018)](preterm-deficits-birth-era-strata.md)
 - [Mathematics impairments are more pronounced than reading deficits for extremely preterm children, and deficits appear across all gestational age strata including late preterm](preterm-deficits-gestational-age-strata.md) — related
+- [Each decreasing week of gestation is associated with a higher proportion of very preterm children not achieving expected educational levels, persisting after adjustment](gestational-age-dose-response-attainment.md) — related
+- [More than half of very preterm children do not meet expected school readiness or attainment levels at ages 5 to 7 years](half-very-preterm-below-expected-attainment.md) — related

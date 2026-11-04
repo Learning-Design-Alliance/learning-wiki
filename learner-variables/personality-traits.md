@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 90 claims (61 show a difference, 19 mixed, 10 no difference) · 45 studies (15 review, 14 associational, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 13 of 45 report an effect size · 90 claims rest on one study
+> **Evidence** · 94 claims (64 show a difference, 20 mixed, 10 no difference) · 46 studies (15 review, 15 associational, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 14 of 46 report an effect size · 94 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -125,6 +125,10 @@ Personality traits are relatively stable individual differences, most often meas
 - [Teaching type interacts with personality factors on academic achievement for all Big Five traits except neuroticism](../claims/teaching-type-personality-interaction-big-five.md) [~M] — an instructional effect differs with it
 - [Agreeableness is positively associated with value/usefulness, effort/importance, and perceived competence in hybrid flipped learning](../claims/agreeableness-positive-motivation-hybrid-flipped.md) [+M] — learners who differ on it differ in outcomes
 - [Conscientiousness is positively associated with interest/enjoyment, effort/importance, and perceived competence in hybrid flipped learning](../claims/conscientiousness-positive-motivation-hybrid-flipped.md) [+M] — learners who differ on it differ in outcomes
+- [A composite neuroticism plus self-efficacy variable shows the highest negative correlation with comfort in group learning settings](../claims/composite-neuroticism-self-efficacy-highest-comfort-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [Comfort in group learning settings is negatively associated with neuroticism after Bonferroni correction](../claims/comfort-group-learning-negative-neuroticism-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [Exploratory cluster analysis identifies two student profiles differing in neuroticism/self-efficacy, comfort, and learning success](../claims/cluster-analysis-two-student-profiles.md) [~W] — learners who differ on it differ in outcomes
+- [Neuroticism and self-efficacy are substantially negatively correlated](../claims/neuroticism-self-efficacy-negative-correlation.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

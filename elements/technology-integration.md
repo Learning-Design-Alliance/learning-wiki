@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 198 claims (98 for, 83 mixed, 17 against) · 165 studies (43 causal, 29 review, 26 associational, 25 qualitative, 22 quant-synthesis, 15 design, 5 theoretical), `q1`–`q4` · 31 of 165 report an effect size · 195 claims rest on one study
+> **Evidence** · 199 claims (98 for, 84 mixed, 17 against) · 166 studies (44 causal, 29 review, 26 associational, 25 qualitative, 22 quant-synthesis, 15 design, 5 theoretical), `q1`–`q4` · 31 of 166 report an effect size · 196 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -223,6 +223,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [Video-assisted PBL yields higher pediatric nursing knowledge than traditional PBL and conventional teaching](../claims/video-assisted-pbl-higher-pediatric-knowledge.md) [+W]
 - [LLM-assisted MCQ generation achieved a 5.6-fold efficiency gain over student authorship in a formative medical exam context](../claims/llm-mcq-generation-efficiency-gain.md) [~W]
 - [Free-text comments raised fairness concerns about pairing with a weaker partner and technical and organizational issues with the digital format](../claims/whisper-exam-fairness-and-digital-format-criticisms.md) [-W]
+- [Within the AI-assisted PBL-CBL group, satisfaction with AI usage (91.67%) was lower than satisfaction with most other aspects of the teaching model](../claims/ai-usage-satisfaction-lag-in-intervention-group.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

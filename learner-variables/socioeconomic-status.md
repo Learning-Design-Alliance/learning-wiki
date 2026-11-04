@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 232 claims (121 show a difference, 55 mixed, 56 no difference) · 183 studies (75 causal, 75 associational, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 31 of 183 report an effect size · 231 claims rest on one study
+> **Evidence** · 233 claims (122 show a difference, 55 mixed, 56 no difference) · 184 studies (76 associational, 75 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 31 of 184 report an effect size · 232 claims rest on one study
 
 ## How to read this page
 
@@ -317,6 +317,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Unadjusted descriptive comparisons showed INSIGHTS students less likely to receive SPED, especially low-income students](../claims/insights-descriptive-sped-differences.md) [+M] — an instructional effect differs by group
 - [No statistically significant interaction effects by gender or socioeconomic status in improvement of geospatial skills or atmospheric science knowledge](../claims/no-gender-ses-interaction-gst-learning-gains.md) [-M] — an instructional effect differs by group
 - [Low‐SES high achievers significantly outperformed all low‐ and mid‐achieving profiles across SES strata, but remained lower than high‐SES high‐achieving students](../claims/resilient-achievement-pattern-across-ses-strata.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Socioeconomic deprivation is associated with lower attainment in very preterm children, with free school meal eligibility comparable in magnitude to severe brain injury](../claims/deprivation-associated-underattainment-preterm.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

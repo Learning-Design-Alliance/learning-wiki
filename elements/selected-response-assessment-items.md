@@ -13,7 +13,7 @@ generated:
 # Selected-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 48 claims (10 for, 32 mixed, 6 against) · 36 studies (10 causal, 8 associational, 6 review, 6 design, 3 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q3` · 7 of 36 report an effect size · 46 claims rest on one study
+> **Evidence** · 50 claims (10 for, 34 mixed, 6 against) · 37 studies (11 causal, 8 associational, 6 review, 6 design, 3 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q3` · 7 of 37 report an effect size · 48 claims rest on one study
 
 ## Description
 In selected-response items — multiple-choice, true-false, and matching — students select a response the teacher or test developer provides rather than constructing one in their own words, so the item measures recognition rather than recall. Because results don't depend on a scorer's judgment (and so are often machine-scored), these items are called "objective," and their elimination of scoring error increases reliability. But teachers who rely on objective items exclusively risk reducing the validity of their overall assessment, since objective items aren't appropriate for every learning goal — effective assessment depends on aligning the technique to the actual goal (if the goal is for students to conduct an experiment, they should be asked to conduct one, not asked about conducting one).
@@ -106,6 +106,8 @@ Other common item-writing mistakes cut across formats: unclear wording (leaving 
 - [Student-generated MCQs showed higher item discrimination than AI-generated MCQs, with a small effect size and a majority of AI items in the poor-discrimination band](../claims/student-gen-items-higher-discrimination.md) [+W]
 - [Distractor efficiency did not differ significantly between AI-generated and student-generated exams](../claims/distractor-efficiency-no-difference.md) [~W]
 - [Human-edited GenAI-assisted items achieved plausible difficulty: mean difficulty index did not differ significantly and more GenAI-assisted items fell in the acceptable difficulty range](../claims/genai-mcq-plausible-difficulty.md) [+W]
+- [ChatGPT generated usable MCQs roughly five times faster than educator panels but with a 44% rejection rate](../claims/chatgpt-mcq-generation-speed-rejection-tradeoff.md) [~W]
+- [ChatGPT-generated and educator-generated MCQs show no statistically significant difference in difficulty index in a real dental exam](../claims/chatgpt-educator-mcq-no-difficulty-difference.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

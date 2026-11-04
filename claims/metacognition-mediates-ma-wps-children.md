@@ -61,3 +61,5 @@ Structural equation modeling of data from 224 fourth-grade children, controlling
 - [Mathematics anxiety shows mixed relations to algebraic thinking across studies](math-anxiety-mixed-algebra-relations.md) — related
 - [Text-structure knowledge in passages and word problems mediates acquisition and cross-domain transfer effects](text-structure-knowledge-mediates-transfer.md) — related
 - [Task difficulty sensitivity mediates the relationship between math anxiety and math avoidance tendency](difficulty-sensitivity-mediation-math-avoidance.md)
+- [The direct association between teacher support and mathematics achievement becomes non-significant after including mathematics anxiety and learning engagement, indicating full mediation.](full-mediation-no-direct-effect-teacher-support-achievement.md) — related
+- [Mathematics anxiety mediates the association between teacher support and mathematics achievement.](math-anxiety-mediation-teacher-support-achievement.md) — related

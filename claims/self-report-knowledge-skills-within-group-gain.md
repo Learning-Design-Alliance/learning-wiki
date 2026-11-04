@@ -55,3 +55,4 @@ RCT of 227 primary health care professionals comparing a VP game intervention to
 - [Perceived knowledge, skills and attitudes toward mental health care are strongly positively correlated (r = 0.606–0.790)](knowledge-skills-attitudes-strongly-correlated-icu-mental-health.md) — related
 - [Game-based learning in a mental health nursing internship significantly improves nursing students' self-directed learning, with large within-group effects sustained at one-month follow-up](gbl-improves-self-directed-learning-nursing.md) — related
 - [Simulation-based CARE handover training produces a large increase in nurses' perceived handover competency from pretest to posttest](simulation-care-training-increases-perceived-handover-competency.md) — related
+- [VP training does not enhance knowledge about mental disorders](vp-training-no-knowledge-gains.md) — related

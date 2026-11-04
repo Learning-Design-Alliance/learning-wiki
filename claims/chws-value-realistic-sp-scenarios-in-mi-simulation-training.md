@@ -52,3 +52,6 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [Simulation-based MI training significantly improves CHW trainees' confidence in applying MI skills to promote health behavior change](simulation-mi-training-increases-chw-confidence-applying-mi-skills.md) — related
 - [Simulation-based MI training significantly improves CHW trainees' confidence in using culturally appropriate resources to combat health misinformation](simulation-mi-training-increases-chw-confidence-combatting-misinformation.md) — related
 - [Simulation-based MI training significantly improves CHW trainees' confidence in engaging in conversations with individuals holding differing opinions](simulation-mi-training-increases-chw-confidence-engaging-differing-opinions.md) — related
+- [Authentic cases incorporating patient encounters, role-plays or multimedia motivate preclinical students' engagement and support knowledge gains](cbl-authentic-cases-motivate-engagement-knowledge.md) — related
+- [Feedback facilitators such as faculty coaches can increase trainee receptivity to patient feedback](feedback-facilitators-increase-receptivity.md) — related
+- [Open-ended reflections most often highlighted realism of the simulation (51.5%), the simulation patient's role (32.0%), and interprofessional collaboration (20.6%)](mcleims-open-ended-themes.md) — related

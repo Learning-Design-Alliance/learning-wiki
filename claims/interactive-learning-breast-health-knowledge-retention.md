@@ -49,3 +49,4 @@ Quasi-experimental classroom-randomized study of 310 adolescent females in two n
 - [Knowledge and belief gains decayed from immediate post-test to 4-week follow-up regardless of teaching condition](post-test-to-follow-up-decay-regardless-of-condition.md) — reports the opposite
 - [Interactive learning lowered adolescent females' perceived barriers to breast self-examination immediately after the program](interactive-learning-lower-perceived-barriers-bse.md) — related
 - [Perceived susceptibility and seriousness of breast cancer did not differ by teaching method, remaining parallel across groups after the intervention and at follow-up](susceptibility-seriousness-parallel-across-teaching-methods.md) — related
+- [A student-led breast cancer awareness workshop significantly improved total breast cancer knowledge scores among female secondary school students.](student-led-bc-campaign-significant-knowledge-gains-adolescents.md) — related

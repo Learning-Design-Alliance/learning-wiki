@@ -54,3 +54,5 @@ Anonymous online questionnaire (WJX platform) completed by 29 of 31 AI-enhanced 
 - [International students use conversational AI predominantly for task-oriented academic and logistical support rather than for psychological or chronic emotional challenges](ai-task-oriented-over-emotional-support-international-students.md) — related
 - [Students rate AI's helpfulness positively overall, with academic challenges receiving the highest usefulness, satisfaction, and intent-to-continue scores](academic-domain-highest-ai-helpfulness-ratings.md) — related
 - [Students express strong behavioral intention to continue using GenAI in programming](genai-behavioral-intention-strong.md) — related
+- [Over 75% of students in the AI-enhanced flipped classroom group reported a regular habit of using AI tools at least once per week.](majority-regular-weekly-ai-use.md) — possibly the same claim (merge candidate)
+- [Students valued teacher guidance (90%) and recommended continuation of the activity (93%)](pbl-scaffolding-teacher-guidance-continuation.md) — related

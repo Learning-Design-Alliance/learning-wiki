@@ -1,0 +1,77 @@
+---
+type: claim
+title: AI-assisted PBL-CBL combined teaching yields higher Mini-CEX scores than lecture-based teaching in interviewing, physical examination, clinical judgment and communication, with no statistically significant difference in humanistic qualities/professionalism or organization/efficiency
+description: In a randomised trial of 120 interns, AI-assisted PBL-CBL teaching scored higher than lecture on four core Mini-CEX domains; differences in humanistic qualities/professionalism and organization/efficiency were not statistically significant
+id: ai-pbl-cbl-improves-mini-cex-clinical-reasoning-domains
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-11-04
+sources:
+  - id: yang-2026
+    resource: "https://doi.org/10.1186/s12909-026-09489-w"
+    title: "Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w"
+    author: "Yang, F., Wang, J., & He, L."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
+  - id: yang-2026-2
+    resource: "https://doi.org/10.1186/s12909-026-09489-w"
+    title: "Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w"
+    author: "Yang, F., Wang, J., & He, L."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# AI-assisted PBL-CBL combined teaching yields higher Mini-CEX scores than lecture-based teaching in interviewing, physical examination, clinical judgment and communication, with no statistically significant difference in humanistic qualities/professionalism or organization/efficiency
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 2 of 2 entries) · not reviewed by a person
+
+## Subclaims
+`q3 i?` The observation group scored significantly higher on medical interviewing skills, physical examination skills, clinical judgment, communication skills, overall clinical competence, and total Mini-CEX score (all P < 0.0001). [→ Yang 2026](#yang-2026)
+`q3 i?` No statistically significant differences between groups were observed in humanistic qualities/professionalism (P = 0.19) or organization/efficiency (P = 0.62). [→ Yang 2026 (2)](#yang-2026-2)
+
+## Evidence
+
+### Yang 2026
+
+Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w
+
+`q3 · i?` · `causal · r2`
+
+Mini-CEX (primary outcome) administered as one standardized encounter with a real patient per student, scored by the same independent evaluator. The observation group scored significantly higher than the lecture-based control group in the four core clinical reasoning domains (all P < 0.0001), a between-group comparison at a single post-intervention assessment; no effect sizes were printed for these domains.
+
+> "The observation group showed statistically significant improvements in medical interviewing skills (t = 6.07, P < 0.0001), physical examination skills (t = 4.46, P < 0.0001), clinical judgment (t = 10.69, P < 0.0001), and communication skills (t = 4.42, P < 0.0001)."
+
+### Yang 2026 (2)
+
+Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w
+
+`q3 · i?` · `causal · r2`
+
+Same Mini-CEX assessment in the RCT. Two domains showed "no statistically significant differences" between groups, which does not establish that the teaching had no effect on them; the authors attribute this to the teaching design focusing on core clinical skills and the short intervention duration.
+
+> "no statistically significant differences were observed between the two groups in humanistic qualities/professionalism (t = 1.32, P = 0.19) and organization/efficiency (t = 0.49, P = 0.62)"
+
+## Discussion
+
+
+## Related Claims
+- [AI-assisted peer teaching improves OSCE performance, with the largest effect on clinical reasoning](ai-assisted-peer-teaching-osce-clinical-reasoning.md) — related
+- [AI-assisted PBL-CBL combined teaching raises medical interns' clinical skill examination scores in post-herpetic neuralgia compared with lecture-based teaching](ai-pbl-cbl-improves-clinical-skill-examination-scores.md) — related
+- [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
+- [Integrated online-PBL-CBL teaching improves overall Mini-CEX clinical competence but not its individual sub-dimensions](online-pbl-cbl-minicex-overall-competence-gain.md) — related
+- [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](ai-mentor-pilot-improves-overall-mini-cex.md) — related
+- [AI-Mentor pilot yields the largest gains in reasoning-aligned Mini-CEX domains, notably clinical judgment](ai-mentor-largest-gains-reasoning-domains.md) — related
+- [AI-powered PBL/CBL shows favourable but heterogeneous effects on clinical reasoning capability that could not be statistically pooled](ai-pbl-cbl-clinical-reasoning.md) — a broader claim this one bears on
+- [No significant difference between PBL-CBL and traditional groups in post-class basic knowledge or skills scores](pbl-cbl-no-difference-basic-knowledge-skills-scores.md) — related
+- [AI-assisted PBL-CBL combined teaching raises medical interns' theoretical examination scores in post-herpetic neuralgia compared with lecture-based teaching](ai-pbl-cbl-improves-theoretical-examination-scores.md) — related
+- [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related

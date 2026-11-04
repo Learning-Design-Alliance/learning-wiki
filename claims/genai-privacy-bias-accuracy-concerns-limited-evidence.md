@@ -81,3 +81,4 @@ The review reports that participants in Scala et al.'s experiment felt the AI "r
 - [Students broadly endorse LLMs as educational aids (74% positive) while 61% raise integrity concerns, 59% cite hallucination risk, and 82% report no institutional guidance](student-llm-perceptions-no-guidance-majority.md) — related
 - [Ethical and legal considerations were emphasized by 71% of included studies on AI competencies for health professionals](ethical-legal-considerations-71-percent-studies.md) — related
 - [Significant barriers to AI implementation include algorithmic bias, lack of transparency, data privacy concerns, unregulated use, and system limitations](ai-implementation-barriers-medical-education.md) — possibly the same claim (merge candidate)
+- [Generative AI in board exam prep emerged as a challenge in interviews but was not captured in the survey](generative-ai-emerging-challenge-board-prep.md) — related

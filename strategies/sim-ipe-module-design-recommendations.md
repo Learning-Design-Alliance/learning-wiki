@@ -54,6 +54,7 @@ Participants and faculty proposed concrete design features: dedicated simulation
 ## Related Strategies
 
 - [Design simulation-based IPE scenarios that give every profession an active problem-solving role](scenario-design-active-participation-across-professions.md)
+- [Interprofessional learning opportunities such as joint supervision, shared case discussions and collaborative learning forums support ANPs to develop expertise while benefiting from specialist knowledge.](joint-supervision-and-shared-case-discussions.md)
 
 ## Examples
 -

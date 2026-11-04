@@ -57,3 +57,4 @@ The review reports, citing multiple studies, a paradox in the AI-feedback litera
 - [Collaboration and private speech fostered a supportive classroom climate](sct-tblt-classroom-climate.md) — related
 - [Students' narratives frame simulations ambivalently: anxiety and performance insecurity coexist with perceived safe space for learning from mistakes](ambivalent-narratives-simulation-anxiety-safe-space.md) — related
 - [Clinical simulation is perceived as a safe environment that allows learning from mistakes without risk to patients](simulation-safe-environment-learning-from-errors.md) — related
+- [Fear of embarrassment and lack of psychological safety reduce nursing students' participation and retention in active learning activities](psychological-safety-barrier-active-learning-nursing.md) — related

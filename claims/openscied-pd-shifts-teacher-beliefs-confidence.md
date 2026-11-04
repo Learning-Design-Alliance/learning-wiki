@@ -89,3 +89,4 @@ Same longitudinal survey analysis (Lowell, 2022); the review notes confidence in
 - [Process evaluation found a shift away from teaching procedures towards problem-solving, with increased use of discussion, objects and diagrams, but wide variation across schools](maths-mastery-process-shift-to-problem-solving.md) — related
 - [Teachers' initially negative attitudes toward pre-school cooperative group work changed positively after implementation](teacher-attitudes-toward-cooperative-learning-improve-after-implementation.md) — related
 - [A one-year PD program emphasizing IBI significantly increased middle school science teachers' overall belief about IBI from pre- to post-survey.](pd-increased-teacher-beliefs-ibi.md) — a narrower finding that bears on this claim
+- [Providers reported increased skill, knowledge, and confidence after training interventions](provider-confidence-knowledge-skill-increased-after-training.md) — related

@@ -51,3 +51,4 @@ In the same randomized trial, the clinical skills assessment evaluated core proc
 - [Flipped classroom instruction is associated with higher final knowledge scores than traditional instruction in medical education (SMD 0.90).](flipped-classroom-higher-knowledge-scores-medical-education.md) — related
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — a broader claim this one bears on
 - [BOPPPS/FC-CBL group achieves significantly higher clinical case evaluation scores than LBL group](boppps-fc-cbl-higher-clinical-case-scores-than-lbl.md) — related
+- [Flipped classroom students achieved significantly higher mean pharmacology exam grades than traditional classroom students](fc-higher-mean-exam-grade-dental-pharmacology.md) — related

@@ -48,6 +48,7 @@ The authors recommend structured simulator-based practice as a low-risk adjunct 
 - [Integrate virtual reality training as an adjunct into surgical training curricula for junior trainees](integrate-vrt-adjunct-surgical-curricula.md)
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
+- [Use periodic high-intensity training sessions to compensate for uneven clinical case exposure in paediatric surgery](periodic-high-intensity-training-uneven-case-volumes.md)
 
 ## Examples
 -

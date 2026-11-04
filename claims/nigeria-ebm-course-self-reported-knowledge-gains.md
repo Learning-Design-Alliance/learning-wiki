@@ -51,3 +51,4 @@ Pre-post evaluation of a 3-month single-intervention EBM course for 5th-year med
 - [A multifaceted EBM course for medical students produced a mean pre-post Fresno test difference of 92.8 points (P<0.001)](barghouti-fresno-mean-difference-92-8.md) — related
 - [A longitudinal multifaceted EBM curriculum for medical students significantly increased Berlin questionnaire and Fresno test knowledge scores over two and three years](west-longitudinal-ebm-curriculum-knowledge-gains.md) — related
 - [EBP attitude change depends on measurement timing: immediate post-test measures show no difference while longer-term measures show improvement](ebp-attitude-change-timing-longer-term.md) — related
+- [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related

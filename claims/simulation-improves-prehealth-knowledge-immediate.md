@@ -47,3 +47,4 @@ Quasi-experimental pretest-posttest study of 43 pre-health undergraduates; paire
 ## Related Claims
 - [Knowledge gains from a one-day simulation curriculum persist at three months among pre-health students who completed follow-up.](simulation-knowledge-retention-three-months.md) — related
 - [Non-randomized and pre/post-test studies broadly support simulation training benefits for attitudes, skills, knowledge and behaviors, though subject to natural learning effects](simulation-nonrct-ppt-narrative-support.md) — a broader claim this one bears on
+- [Poverty simulations improve average poverty attitudes among dental students immediately after participation](poverty-simulations-improve-average-poverty-attitudes.md) — related

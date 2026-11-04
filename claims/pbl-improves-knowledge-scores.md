@@ -56,3 +56,4 @@ Random-effects meta-analysis of four studies (116 PBL and 117 TT students) asses
 - [PBL-CBL produces significantly higher theoretical knowledge scores than LBL in orthopedic education](pbl-cbl-higher-theoretical-scores-orthopedics.md) — related
 - [Accessing the online caries diagnosis module did not significantly improve dental students' radiographic diagnostic accuracy](online-module-no-accuracy-gain-caries.md) — related
 - [No significant difference between PBL-CBL and traditional groups in post-class basic knowledge or skills scores](pbl-cbl-no-difference-basic-knowledge-skills-scores.md) — reports the opposite
+- [TBL and lecture-based instruction show no statistically significant difference in PA students' chest radiograph interpretation test scores](tbl-noninferior-lecture-chest-radiograph-interpretation.md) — related

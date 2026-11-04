@@ -52,3 +52,4 @@ Descriptive TCES results (α = .91 in this study) from the 32 teachers; item mea
 - [Experts rated the OTIL Model as appropriate and satisfactory (overall mean 4.92)](otil-model-expert-evaluation-appropriate-satisfactory.md) — related
 - [Teachers and parents reported high satisfaction with First Step, and coach-teacher alliance was high, supporting social acceptability](first-step-satisfaction-alliance-asd-subsample.md) — related
 - [Subjects reported high satisfaction with the computer-based mapping training](high-satisfaction-concept-map-training.md) — related
+- [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related

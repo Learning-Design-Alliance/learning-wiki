@@ -77,3 +77,4 @@ Sensitivity analyses in the same study: intention-to-treat with 20 imputations (
 - [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related
 - [ANCOVA controlling for pre-test confirms a significant effect of metacognitive strategy treatment on post-test comprehension](ancova-metacognitive-strategy-effect.md) — related
 - [The posttest advantage of the experimental section remained significant when posttest scores were covaried against pretest scores](ancova-posttest-section-type-significant.md) — related
+- [TBL and lecture cohorts show no baseline differences in admissions data](tbl-lecture-cohorts-baseline-comparable.md) — related

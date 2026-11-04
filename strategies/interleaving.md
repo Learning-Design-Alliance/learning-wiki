@@ -64,6 +64,7 @@ Interleaving improves delayed test performance across mathematics, category lear
 - [Spaced practice](../claims/spaced-practice-improves-retention.md) [+M] — interleaving's natural companion; mixed schedules distribute retrieval over time; each interleaved item forces re-selection of a strategy, embedding retrieval in the schedule
 - [Comparing cases](../elements/case-studies.md) — interleaving enacts comparison at the schedule level; explicit case comparison does it at the task level
 - [Include a small block of problems of a new skill at the start of an assignment, then interleave the rest](small-initial-block-then-interleave.md)
+- [Require repeated benchmark performance with spaced repetition to ensure reliable skill acquisition](repeated-benchmark-performance-spaced-repetition.md)
 
 ## Examples
 - **Rohrer's math worksheets** — the "mixed" practice sets in Rohrer & Taylor (2007): volume problems for prisms, cylinders, cones, and spheres shuffled in one assignment, producing large gains on a delayed test despite worse practice performance.

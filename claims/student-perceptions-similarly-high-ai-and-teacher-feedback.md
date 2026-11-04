@@ -50,3 +50,4 @@ Student perceptions were assessed through a validated questionnaire (N = 200) in
 - [Project performance improved significantly from pre- to post-feedback across all three feedback conditions with no significant differences between feedback sources](ai-teacher-feedback-equal-project-performance-gains.md) — related
 - [Questionnaire data may capture learners' perceptions rather than the strategies they actually performed](questionnaires-measure-perception-not-performed-strategies.md) — related
 - [AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance](ai-feedback-higher-perceived-quality-value.md) — reports the opposite
+- [Student satisfaction is similarly high for AI voice cloning and traditional audio recording](ai-voice-cloning-similar-satisfaction.md) — related

@@ -56,3 +56,5 @@ Pearson Product Moment correlations on the total sample (n=350) reported in Tabl
 - [Self-efficacy and gameplay interest are negatively associated with elementary students' competitive anxiety in one-on-one gameplay](self-efficacy-interest-negatively-associated-competitive-anxiety.md) — related
 - [Student satisfaction correlates positively with self-confidence and negatively with somatic and cognitive anxiety](satisfaction-correlates-self-confidence-anxiety.md) — related
 - [Reading attitude, learning satisfaction, and reading effectiveness are significantly positively correlated, and reading attitude positively predicts reading effectiveness](reading-attitude-satisfaction-effectiveness-correlations.md) — related
+- [Learning engagement is positively correlated with mathematics achievement among high school students.](learning-engagement-positive-correlation-math-achievement.md) — related
+- [Mathematics anxiety is negatively correlated with learning engagement and mathematics achievement among high school students.](math-anxiety-negative-correlation-engagement-achievement.md) — related

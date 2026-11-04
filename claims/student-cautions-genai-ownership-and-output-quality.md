@@ -66,3 +66,4 @@ Thematic analysis of semi-structured interviews (N=6) in the third semester. The
 - [Students hold cautious trust in the course-specific RAG system, expressing some level of trust but not treating it as an authoritative source and indicating they would verify important information](cautious-trust-in-course-specific-rag.md) — related
 - [Debugging GenAI-generated code fosters critical, reflective, logical, and adaptive thinking skills](debugging-genai-code-fosters-thinking-skills.md) — related
 - [Creative projects can disengage students who lack drawing skill, impose high task burden, and be perceived as equivalent to conventional teaching](student-disengagement-task-burden-creative-projects.md) — related
+- [Students rated AI most valuable for time-efficient information gathering and complex mechanism explanation, while remaining cautious about AI information accuracy.](student-ai-perceptions-efficiency-versus-accuracy-caution.md) — related

@@ -49,3 +49,4 @@ Construct-validity comparison using a low-fidelity mitral valve replacement trai
 - [A 3-week high-fidelity mitral valve repair simulation program improved residents' scores on all 11 OSATS assessment points and reduced completion time](joyce-mvr-osats-improvement.md) — related
 - [Weisser et al. 3D-printed pediatric MIS curriculum: expert surgeons outperformed residents on all tasks with high interrater reliability](susiped1-experts-outperform-residents.md) — a broader claim this one bears on
 - [A 2-day endoscopic mitral annuloplasty course significantly improved operative speed, suture accuracy and theoretical knowledge](sardari-nia-endoscopic-mv-course-gains.md) — related
+- [Experienced participants scored significantly higher than novices on both OSATS and TSMs in simulated crural repair](experienced-outperform-novices-osats-tsm.md) — a narrower finding that bears on this claim

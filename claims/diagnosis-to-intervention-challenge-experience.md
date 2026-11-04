@@ -67,3 +67,4 @@ Authors' interpretation in the Discussion section, based on observed variation a
 - [Weekly learning analytics reports served teachers in a flipped course primarily as a diagnosis tool, mentioned by all seven teachers.](la-reports-support-teacher-diagnosis.md) — related
 - [Teachers reported that learning analytics reports encouraged them to start interaction with students by referring to the report.](la-reports-prompt-teacher-student-interaction.md) — related
 - [A needs assessment with 14 teachers yielded eight main design issues for the BE COOL! learning environment, from curriculum fit to teacher monitoring and a teacher manual](teacher-needs-assessment-eight-issues.md) — related
+- [Low psychological readiness and fear of complications cause hesitancy and referral preferences among junior staff administering MgSO4](low-confidence-mgso4-hesitancy.md) — related

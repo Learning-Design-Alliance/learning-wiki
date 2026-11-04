@@ -55,3 +55,4 @@ Nonlinear growth curve models (NLMIXED in SAS) fitted to cognitive performance a
 - [Vocabulary showed accelerating linear growth and social communication skills showed decelerating linear growth from preschool to kindergarten, with substantial individual variation](differential-growth-trajectories-vocabulary-versus-social-communication.md) — related
 - [A polygenic-score study of learning over 100 days of practice in 131 adults was too small to draw meaningful conclusions about genetic effects on baseline performance and learning](pgs-learning-cogito-underpowered.md) — related
 - [Students' ELA growth over the four years followed a logarithmic pattern, selected over a quadratic model by AIC](ela-growth-logarithmic-pattern-utah-cohorts.md) — related
+- [Individual growth curves demonstrated continuous improvement for most students over the training period.](individual-growth-curves-continuous-improvement.md) — related

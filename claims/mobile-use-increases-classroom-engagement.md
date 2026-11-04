@@ -50,3 +50,4 @@ Qualitative classroom-observation finding in section 4.5.2, triangulated with su
 - [Mobile-3G classroom use produced off-task use, network difficulties and classroom-design problems, and network troubles were linked to reduced student liking](mobile-classroom-issues-off-task-network-design.md) — related
 - [In mobile-3G classrooms the lecturer's role shifted from presenter of knowledge to facilitator of learning, requiring altered planning and class structure](mobile-use-shifts-lecturer-to-facilitator.md) — related
 - [A term of regular mobile-3G classroom use increased student confidence and decreased anxiety, while liking and general usefulness showed no significant change](mobile-use-confidence-anxiety-attitude-changes.md) — related
+- [Facilitator observations indicated higher student engagement than in lecture-based sessions](facilitator-observed-higher-engagement-than-lectures.md) — related

@@ -54,3 +54,4 @@ Synthesis of a scoping review covering 23 studies (six systematic reviews and 17
 - [Virtual simulation teaching enhances learning outcomes and deepens professional cognition through repeated practice, trial-and-error, and error-correction feedback](vs-advantages-learning-outcomes.md) — related
 - [Professional development programs improve teachers' classroom assessment practices and skills](pdp-improves-teacher-assessment-practices.md) — related
 - [Nurses report competency enhancement in pain assessment through PainScan training](qualitative-competency-enhancement-painscan.md) — a narrower finding that bears on this claim
+- [A culturally informed online intervention improved the knowledge domain of cultural competence in emergencies but not attitudes or encounters](culturally-informed-online-intervention-knowledge-domain-only.md) — a narrower finding that bears on this claim

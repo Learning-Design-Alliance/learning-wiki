@@ -55,3 +55,4 @@ Meta-analysis of 5 studies involving 748 students reporting satisfaction with im
 - [PBL teaching improves problem-solving, independent learning, teamwork, communication and clinical reasoning abilities more than traditional teaching in orthopaedics education](pbl-improves-process-abilities-orthopaedics.md) — related
 - [Student satisfaction does not differ between PBL and LBL (pooled RR 1.18, CI crossing 1)](pbl-lbl-satisfaction-no-difference.md) — related
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — a broader claim this one bears on
+- [Integrated model raises satisfaction, clinical thinking, practical skill self-ratings and engagement, with no difference in resource utilization](microskills-cptm-questionnaire-engagement.md) — related

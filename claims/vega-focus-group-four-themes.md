@@ -49,3 +49,5 @@ Inductive content analysis of four online focus group interviews, each about 60 
 - [Thematic analysis identified hands-on practice, contextualization, educator variety, and clinical application as key student-perceived themes](thematic-themes-scenario-feedback.md) — related
 - [Participant feedback yielded four central themes: engagement, clinical reasoning development, collaborative learning, and professional relevance](cbcl-feedback-four-themes-radiology-residency.md) — related
 - [Students perceived VEGA's on-demand vignette generation as compensating for limited clinical practicum opportunities](vega-unlimited-vignettes-compensate-practicum.md) — related
+- [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](aisp-focus-group-three-themes.md) — related
+- [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related

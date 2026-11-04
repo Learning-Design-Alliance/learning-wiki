@@ -55,3 +55,5 @@ Pre-post evaluation (Study 3) of the Prometheus MOOC masterclass; paired-samples
 - [An online PD program using unplugged explainable machine-learning activities increased K–12 educators' AI self-efficacy from below-moderate to above-moderate levels](unplugged-ml-pd-raises-teacher-ai-self-efficacy.md) — related
 - [Short-duration TPACK-based professional development improved teachers' ML knowledge and interest (ML4STEM)](ml4stem-teacher-pd-initial-evidence.md) — related
 - [All five questionnaire domains improved significantly after training, with large effect sizes (r = 0.67–0.81)](us-training-all-questionnaire-domains-improved.md) — related
+- [An AI-supported four-stage training framework was associated with significant improvement in overall teaching competence among prosthodontics graduate students.](ai-training-framework-improves-teaching-competence-prosthodontics.md) — related
+- [Most participants met the 80% knowledge competency threshold and 94% met practical competencies only after training](pr-training-competency-threshold-attainment.md) — related

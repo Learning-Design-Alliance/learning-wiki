@@ -51,3 +51,5 @@ Narrative synthesis across included randomised trials (e.g. Nathan 2022; Cho 202
 - [Simulation-based training improves suturing, cutting, and cautery skills](simulation-training-improves-suturing-cutting-cautery.md) — related
 - [Computer, mannequin, and combined simulation all significantly improve ACLS technical skills (megacode scores, CPR initiation time, defibrillation time) with no significant between-group differences](three-simulation-modes-equal-technical-acls-gains.md) — reports the opposite
 - [Approximately 86.61% of trainees prioritize suturing and knot-tying practice as the most critical simulator training component](suturing-knot-tying-most-critical-component.md) — related
+- [Knot Tying showed the lowest and most variable expert scores on FRS VR, likely due to poor interaction fidelity](frs-vr-knot-tying-poor-interaction-fidelity.md) — related
+- [High‐skill recognition is better for knot tying, whereas low‐skill recognition is better for the more demanding tasks (CS and IS)](task-dependent-skill-recognition-asymmetry.md) — related
