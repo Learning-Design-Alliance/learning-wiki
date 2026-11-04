@@ -9,11 +9,11 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
 sources:
   - id: ekpenyong-2026
-    title: "Ekpenyong, E. E., Ikechukwu, M. S., Adediran, F. A., Kelechi, C. F., Eniola, A.-I. O., & Oloruntoba, A. A. (2026). Optimising pre-class tests to enhance student engagement in neuroanatomy: a pilot study. BMC Medical Education, 26, 1036."
-    author: "Ekpenyong, E. E., Ikechukwu, M. S., Adediran, F. A., Kelechi, C. F., Eniola, A.-I. O., & Oloruntoba, A. A."
+    resource: "https://doi.org/10.1186/s12909-026-09346-w"
+    title: "Edem, E. E., Mbagwu, S. I., Fafure, A. A., Chinyere, F. K., Adegbilero-Iwari, O. E., & Adekeye, A. O. (2026). Optimising pre-class tests to enhance student engagement in neuroanatomy: a pilot study. BMC Medical Education, 26(1), 1036. https://doi.org/10.1186/s12909-026-09346-w"
+    author: "Edem, E. E., Mbagwu, S. I., Fafure, A. A., Chinyere, F. K., Adegbilero-Iwari, O. E., & Adekeye, A. O."
     q: 2
     i: "?"
     kind: associational
@@ -24,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 63.9% of students reported increased stress or anxiety due to pre-class tests, with qualitative themes identifying time constraints, inadequate feedback, and content misalignment as sources. [→ Ekpenyong 2026](#ekpenyong-2026)
@@ -33,7 +33,7 @@ sources:
 
 ### Ekpenyong 2026
 
-Ekpenyong, E. E., Ikechukwu, M. S., Adediran, F. A., Kelechi, C. F., Eniola, A.-I. O., & Oloruntoba, A. A. (2026). Optimising pre-class tests to enhance student engagement in neuroanatomy: a pilot study. BMC Medical Education, 26, 1036.
+Edem, E. E., Mbagwu, S. I., Fafure, A. A., Chinyere, F. K., Adegbilero-Iwari, O. E., & Adekeye, A. O. (2026). Optimising pre-class tests to enhance student engagement in neuroanatomy: a pilot study. BMC Medical Education, 26(1), 1036. https://doi.org/10.1186/s12909-026-09346-w
 
 `q2 · i?` · `associational · r1`
 

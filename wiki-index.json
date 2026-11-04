@@ -92246,6 +92246,7 @@
 "id":"cooperative-learning-swimming-social-adaptability",
 "newest_evidence":"2026",
 "path":"claims/cooperative-learning-swimming-social-adaptability.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Cooperative learning swimming teaching produced the best social adaptability outcomes, especially peer interaction and collective integration",
 "type":"claim"
@@ -116033,13 +116034,14 @@
 "type":"claim"
 },
 {
-"description":"Interactive digital karyotyping tool significantly increased students' self-perceived knowledge of karyogram construction in both cohorts",
+"description":"Students' self-rated knowledge of karyogram construction rose significantly from before to after using an interactive digital karyotyping tool in both cohorts, in an uncontrolled pre–post study",
 "evidence_strength":"moderate",
 "id":"digital-karyotyping-tool-increased-self-perceived-knowledge",
 "newest_evidence":"2026",
 "path":"claims/digital-karyotyping-tool-increased-self-perceived-knowledge.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"Interactive digital karyotyping tool significantly increased students' self-perceived knowledge of karyogram construction in both cohorts",
+"title":"Students' self-rated knowledge of karyogram construction rose significantly from before to after using an interactive digital karyotyping tool in both cohorts, in an uncontrolled pre–post study",
 "type":"claim"
 },
 {
@@ -351449,7 +351451,6 @@
 "id":"pre-class-tests-increase-stress-anxiety",
 "newest_evidence":"2026",
 "path":"claims/pre-class-tests-increase-stress-anxiety.md",
-"source_checked":"2026-11-04",
 "status":"review",
 "title":"63.9% of students experienced increased stress or anxiety from pre-class tests",
 "type":"claim"
@@ -414579,6 +414580,7 @@
 "id":"simulation-higher-skill-retention-nurses-exploratory",
 "newest_evidence":"2026",
 "path":"claims/simulation-higher-skill-retention-nurses-exploratory.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)",
 "type":"claim"
@@ -415311,6 +415313,7 @@
 "id":"simulation-skill-transfer-outcomes-lacking",
 "newest_evidence":"2026",
 "path":"claims/simulation-skill-transfer-outcomes-lacking.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Comprehensive data linking simulation training to patient outcomes, complication rates, and long-term skill retention are lacking",
 "type":"claim"
@@ -449139,13 +449142,14 @@
 "type":"claim"
 },
 {
-"description":"All three swimming teaching models significantly improved emotion regulation and social adaptability over 16 weeks, with significant time × group interaction effects",
+"description":"Self-reported emotion regulation and social adaptability scores rose significantly within all three swimming teaching groups over 16 weeks, with significant time × group interaction effects",
 "evidence_strength":"moderate",
 "id":"swimming-intervention-omnibus-time-group-interaction",
 "newest_evidence":"2026",
 "path":"claims/swimming-intervention-omnibus-time-group-interaction.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"All three swimming teaching models significantly improved emotion regulation and social adaptability over 16 weeks, with significant time × group interaction effects",
+"title":"Self-reported emotion regulation and social adaptability scores rose significantly within all three swimming teaching groups over 16 weeks, with significant time × group interaction effects",
 "type":"claim"
 },
 {

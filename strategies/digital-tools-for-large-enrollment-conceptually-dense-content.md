@@ -42,7 +42,7 @@ The authors recommend integrating technology-enhanced, simulation-based approach
 
 - [Including normal and abnormal karyotypes together, with explanations after incorrect answers, was rated highly helpful for learning](../claims/contrasting-normal-abnormal-karyotypes-rated-helpful.md) [+M]
 - [Students' self-perceived ability to identify chromosomal abnormalities increased significantly after using the tool](../claims/digital-karyotyping-tool-increased-confidence-identifying-abnormalities.md) [+M]
-- [Interactive digital karyotyping tool significantly increased students' self-perceived knowledge of karyogram construction in both cohorts](../claims/digital-karyotyping-tool-increased-self-perceived-knowledge.md) [+M]
+- [Students' self-rated knowledge of karyogram construction rose significantly from before to after using an interactive digital karyotyping tool in both cohorts, in an uncontrolled pre–post study](../claims/digital-karyotyping-tool-increased-self-perceived-knowledge.md) [+M]
 - [The tool functioned comparably across small and large class sizes, with similar gains in both cohorts](../claims/digital-tool-comparable-across-class-sizes.md) [+M]
 - [Most students perceived the tool as useful and would recommend it to other students or universities](../claims/high-perceived-utility-and-recommendation-of-karyotyping-tool.md) [+M]
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](../claims/students-report-simulation-lesson-fun-and-concept-figuring.md) [+W]

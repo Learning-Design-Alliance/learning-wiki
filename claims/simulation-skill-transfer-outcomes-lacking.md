@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: ernst-s-2026
     resource: "https://doi.org/10.1093/europace/euag081"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` While studies report improved performance in specific tasks, comprehensive data on patient outcomes, complication rates, and long-term skill retention are lacking, and simulation cannot yet replicate the contextual and interpersonal dimensions of clinical practice. [→ Ernst S 2026](#ernst-s-2026)

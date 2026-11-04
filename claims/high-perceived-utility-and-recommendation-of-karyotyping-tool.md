@@ -47,5 +47,5 @@ Post-activity survey item on willingness to recommend the tool. In Zaragoza near
 ## Related Claims
 - [Including normal and abnormal karyotypes together, with explanations after incorrect answers, was rated highly helpful for learning](contrasting-normal-abnormal-karyotypes-rated-helpful.md) — related
 - [Students' self-perceived ability to identify chromosomal abnormalities increased significantly after using the tool](digital-karyotyping-tool-increased-confidence-identifying-abnormalities.md) — related
-- [Interactive digital karyotyping tool significantly increased students' self-perceived knowledge of karyogram construction in both cohorts](digital-karyotyping-tool-increased-self-perceived-knowledge.md) — related
+- [Students' self-rated knowledge of karyogram construction rose significantly from before to after using an interactive digital karyotyping tool in both cohorts, in an uncontrolled pre–post study](digital-karyotyping-tool-increased-self-perceived-knowledge.md) — related
 - [The tool functioned comparably across small and large class sizes, with similar gains in both cohorts](digital-tool-comparable-across-class-sizes.md) — related

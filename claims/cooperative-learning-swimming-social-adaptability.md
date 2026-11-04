@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: feng-wanyun-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1829856"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The cooperative learning group scored highest on social adaptation total score, peer interaction, and collective integration, significantly above the other two groups (P < 0.001). [→ Feng Wanyun 2026](#feng-wanyun-2026)
@@ -37,7 +38,7 @@ Feng Wanyun. (2026). Effects of different pedagogical swimming teaching modes on
 
 `q3 · i?` · `causal · r3`
 
-Repeated measures ANOVA of CSAS scores in the 16-week RCT (n = 120, 40 per group). Peer interaction in the cooperative group rose from 16.32 ± 3.15 to 24.16 ± 3.24 (intergroup F = 59.374, P < 0.001); "the cooperative learning group had the highest scores in peer interaction and collective integration dimensions".
+CSAS scores in the 16-week RCT (n = 120, 40 per group), with repeated-measures ANOVA for within-group change and one-way ANOVA for the between-group comparison. Peer interaction in the cooperative group rose from 16.32 ± 3.15 to 24.16 ± 3.51 (between-group one-way ANOVA F = 59.374, P < 0.001); "the cooperative learning group had the highest scores in peer interaction and collective integration dimensions".
 
 > "the cooperative learning group had the highest scores in peer interaction and collective integration dimensions, which was significantly higher than the other two groups (P < 0.001)"
 
@@ -49,7 +50,7 @@ Repeated measures ANOVA of CSAS scores in the 16-week RCT (n = 120, 40 per group
 
 ## Related Claims
 - [Cooperative learning swimming teaching produced the largest improvements in adolescent emotion regulation, significantly exceeding understanding and traditional teaching models](cooperative-learning-swimming-emotion-regulation.md) — related
-- [All three swimming teaching models significantly improved emotion regulation and social adaptability over 16 weeks, with significant time × group interaction effects](swimming-intervention-omnibus-time-group-interaction.md) — related
+- [Self-reported emotion regulation and social adaptability scores rose significantly within all three swimming teaching groups over 16 weeks, with significant time × group interaction effects](swimming-intervention-omnibus-time-group-interaction.md) — related
 - [Emotion regulation and social adaptability were strongly positively correlated after intervention, with the steepest regression slope in the cooperative learning group](emotion-regulation-social-adaptability-correlation.md) — related
 - [Gender and age did not significantly moderate the intervention effects of the three teaching models](gender-age-no-moderation-swimming-intervention.md) — related
 - [Swimming skill mastery did not differ significantly across the three pedagogical models](swimming-skill-mastery-no-group-difference.md) — related

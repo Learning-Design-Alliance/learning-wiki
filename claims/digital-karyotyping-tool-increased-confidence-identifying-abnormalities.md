@@ -50,7 +50,7 @@ Pre–post survey of the same 252 students. Before the session only 17.62% in Za
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: measured as an outcome of the instruction studied
 
 ## Related Claims
-- [Interactive digital karyotyping tool significantly increased students' self-perceived knowledge of karyogram construction in both cohorts](digital-karyotyping-tool-increased-self-perceived-knowledge.md) — related
+- [Students' self-rated knowledge of karyogram construction rose significantly from before to after using an interactive digital karyotyping tool in both cohorts, in an uncontrolled pre–post study](digital-karyotyping-tool-increased-self-perceived-knowledge.md) — related
 - [Including normal and abnormal karyotypes together, with explanations after incorrect answers, was rated highly helpful for learning](contrasting-normal-abnormal-karyotypes-rated-helpful.md) — related
 - [Most students perceived the tool as useful and would recommend it to other students or universities](high-perceived-utility-and-recommendation-of-karyotyping-tool.md) — related
 - [The tool functioned comparably across small and large class sizes, with similar gains in both cohorts](digital-tool-comparable-across-class-sizes.md) — related

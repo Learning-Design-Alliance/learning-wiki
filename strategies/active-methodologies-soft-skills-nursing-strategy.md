@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 sources:
   - id: penha-2026
-    title: "Penha, S. S., Barlem, E. L. D., da Luz, E. M. F., Silva, K. L., dos Santos Mendes, V. M. (2026). Nursing faculty perceptions of soft skills teaching in undergraduate nursing education: a qualitative study. BMC Medical Education."
+    title: "Serrano, S. P., Barlem, E. L. D., da Luz, E. M. F., Silva, K. L., & dos Santos Mendes, V. M. (2026). Nursing faculty perceptions of soft skills teaching in undergraduate nursing education: a qualitative study. BMC Medical Education, 26(1), 1001. https://doi.org/10.1186/s12909-026-09339-9"
     author: Penha, S. S., Barlem, E. L. D., da Luz, E. M. F., Silva, K. L., dos Santos Mendes, V. M
 ---
 
@@ -53,4 +53,4 @@ The article documents faculty-reported strategies for soft skills development: a
 -
 
 ## Key Sources
-- Penha, S. S., Barlem, E. L. D., da Luz, E. M. F., Silva, K. L., dos Santos Mendes, V. M. (2026). Nursing faculty perceptions of soft skills teaching in undergraduate nursing education: a qualitative study. BMC Medical Education.
+- Serrano, S. P., Barlem, E. L. D., da Luz, E. M. F., Silva, K. L., & dos Santos Mendes, V. M. (2026). Nursing faculty perceptions of soft skills teaching in undergraduate nursing education: a qualitative study. BMC Medical Education, 26(1), 1001. https://doi.org/10.1186/s12909-026-09339-9

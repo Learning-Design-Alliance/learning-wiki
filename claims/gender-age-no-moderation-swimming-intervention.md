@@ -46,6 +46,6 @@ Moderation analysis (Table 5) in the RCT (n = 120): time × gender interaction p
 
 ## Related Claims
 - [Cooperative learning swimming teaching produced the best social adaptability outcomes, especially peer interaction and collective integration](cooperative-learning-swimming-social-adaptability.md) — related
-- [All three swimming teaching models significantly improved emotion regulation and social adaptability over 16 weeks, with significant time × group interaction effects](swimming-intervention-omnibus-time-group-interaction.md) — related
+- [Self-reported emotion regulation and social adaptability scores rose significantly within all three swimming teaching groups over 16 weeks, with significant time × group interaction effects](swimming-intervention-omnibus-time-group-interaction.md) — related
 - [Cooperative learning swimming teaching produced the largest improvements in adolescent emotion regulation, significantly exceeding understanding and traditional teaching models](cooperative-learning-swimming-emotion-regulation.md) — related
 - [Demographics, child IQ, language, ASD diagnostic symptoms, and school SES did not moderate schoolMAX treatment outcomes on any of the three measures](schoolmax-no-moderation-demographics-iq-language-ses.md) — related

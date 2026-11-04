@@ -48,5 +48,5 @@ Authors' interpretation in the Discussion of the two-cohort pre–post study: ga
 ## Related Claims
 - [Including normal and abnormal karyotypes together, with explanations after incorrect answers, was rated highly helpful for learning](contrasting-normal-abnormal-karyotypes-rated-helpful.md) — related
 - [Students' self-perceived ability to identify chromosomal abnormalities increased significantly after using the tool](digital-karyotyping-tool-increased-confidence-identifying-abnormalities.md) — related
-- [Interactive digital karyotyping tool significantly increased students' self-perceived knowledge of karyogram construction in both cohorts](digital-karyotyping-tool-increased-self-perceived-knowledge.md) — a narrower finding that bears on this claim
+- [Students' self-rated knowledge of karyogram construction rose significantly from before to after using an interactive digital karyotyping tool in both cohorts, in an uncontrolled pre–post study](digital-karyotyping-tool-increased-self-perceived-knowledge.md) — a narrower finding that bears on this claim
 - [Most students perceived the tool as useful and would recommend it to other students or universities](high-perceived-utility-and-recommendation-of-karyotyping-tool.md) — related

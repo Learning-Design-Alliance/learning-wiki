@@ -47,6 +47,6 @@ One-way ANOVA and chi-square test of post-intervention skill outcomes in the RCT
 ## Related Claims
 - [Cooperative learning swimming teaching produced the largest improvements in adolescent emotion regulation, significantly exceeding understanding and traditional teaching models](cooperative-learning-swimming-emotion-regulation.md) — related
 - [Cooperative learning swimming teaching produced the best social adaptability outcomes, especially peer interaction and collective integration](cooperative-learning-swimming-social-adaptability.md) — related
-- [All three swimming teaching models significantly improved emotion regulation and social adaptability over 16 weeks, with significant time × group interaction effects](swimming-intervention-omnibus-time-group-interaction.md) — related
+- [Self-reported emotion regulation and social adaptability scores rose significantly within all three swimming teaching groups over 16 weeks, with significant time × group interaction effects](swimming-intervention-omnibus-time-group-interaction.md) — related
 - [School swimming interventions show high heterogeneity in duration, frequency and session length, with no unified methodological standard](school-swimming-intervention-heterogeneity.md) — related
 - [Differentiated exercise sets produce significantly larger improvements in swimming technique than traditional instruction for students in complex-coordination sports](differentiated-swimming-exercises-complex-coordination-gains.md) — reports the opposite

@@ -11,8 +11,9 @@ evidence_strength: moderate
 newest_evidence: 2026
 sources:
   - id: ekpenyong-2026
-    title: "Ekpenyong, E. E., Ikechukwu, M. S., Adediran, F. A., Kelechi, C. F., Eniola, A.-I. O., & Oloruntoba, A. A. (2026). Optimising pre-class tests to enhance student engagement in neuroanatomy: a pilot study. BMC Medical Education, 26, 1036."
-    author: "Ekpenyong, E. E., Ikechukwu, M. S., Adediran, F. A., Kelechi, C. F., Eniola, A.-I. O., & Oloruntoba, A. A."
+    resource: "https://doi.org/10.1186/s12909-026-09346-w"
+    title: "Edem, E. E., Mbagwu, S. I., Fafure, A. A., Chinyere, F. K., Adegbilero-Iwari, O. E., & Adekeye, A. O. (2026). Optimising pre-class tests to enhance student engagement in neuroanatomy: a pilot study. BMC Medical Education, 26(1), 1036. https://doi.org/10.1186/s12909-026-09346-w"
+    author: "Edem, E. E., Mbagwu, S. I., Fafure, A. A., Chinyere, F. K., Adegbilero-Iwari, O. E., & Adekeye, A. O."
     q: 2
     i: "?"
     kind: design
@@ -32,7 +33,7 @@ sources:
 
 ### Ekpenyong 2026
 
-Ekpenyong, E. E., Ikechukwu, M. S., Adediran, F. A., Kelechi, C. F., Eniola, A.-I. O., & Oloruntoba, A. A. (2026). Optimising pre-class tests to enhance student engagement in neuroanatomy: a pilot study. BMC Medical Education, 26, 1036.
+Edem, E. E., Mbagwu, S. I., Fafure, A. A., Chinyere, F. K., Adegbilero-Iwari, O. E., & Adekeye, A. O. (2026). Optimising pre-class tests to enhance student engagement in neuroanatomy: a pilot study. BMC Medical Education, 26(1), 1036. https://doi.org/10.1186/s12909-026-09346-w
 
 `q2 · i?` · `design · r2`
 

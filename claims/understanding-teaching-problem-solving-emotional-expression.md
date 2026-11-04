@@ -50,7 +50,7 @@ Between-group comparison in the 16-week RCT (n = 120). Problem solving rose from
 
 ## Related Claims
 - [Cooperative learning swimming teaching produced the largest improvements in adolescent emotion regulation, significantly exceeding understanding and traditional teaching models](cooperative-learning-swimming-emotion-regulation.md) — related
-- [All three swimming teaching models significantly improved emotion regulation and social adaptability over 16 weeks, with significant time × group interaction effects](swimming-intervention-omnibus-time-group-interaction.md) — related
+- [Self-reported emotion regulation and social adaptability scores rose significantly within all three swimming teaching groups over 16 weeks, with significant time × group interaction effects](swimming-intervention-omnibus-time-group-interaction.md) — related
 - [POGIL instruction produces significantly higher posttest problem solving skills than traditional lecture among preservice elementary teachers](pogil-raises-posttest-problem-solving-preservice-elementary-teachers.md) — related
 - [Students taught with integrated PBL and medical humanities reported significantly higher learning motivation, self-directed learning ability, and communication and expression skills than LBL students](integrated-pbl-humanities-higher-motivation-self-directed-communication.md) — related
 - [Expressively oriented literary programs improved ToM, emotion understanding, and self-reported insight in children and adolescents](expressive-literary-programs-improve-tom-empathy.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Interactive digital karyotyping tool significantly increased students' self-perceived knowledge of karyogram construction in both cohorts"
-description: "Interactive digital karyotyping tool significantly increased students' self-perceived knowledge of karyogram construction in both cohorts"
+title: "Students' self-rated knowledge of karyogram construction rose significantly from before to after using an interactive digital karyotyping tool in both cohorts, in an uncontrolled pre–post study"
+description: "Students' self-rated knowledge of karyogram construction rose significantly from before to after using an interactive digital karyotyping tool in both cohorts, in an uncontrolled pre–post study"
 id: digital-karyotyping-tool-increased-self-perceived-knowledge
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: barrio-eva-2026
     resource: "https://doi.org/10.1186/s12909-026-09168-w"
@@ -20,11 +21,11 @@ sources:
     rigour: 1
 ---
 
-# Interactive digital karyotyping tool significantly increased students' self-perceived knowledge of karyogram construction in both cohorts
+# Students' self-rated knowledge of karyogram construction rose significantly from before to after using an interactive digital karyotyping tool in both cohorts, in an uncontrolled pre–post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After using the digital tool, students' self-rated knowledge of karyogram construction rose significantly in both the Zaragoza (large) and Huesca (small) cohorts (p < 0.0001). [→ Barrio Eva 2026](#barrio-eva-2026)
@@ -37,7 +38,7 @@ Barrio Eva, Solanas Estela, Alcaine Clara, Emperador Sonia, Ayensa-Jimenez Jacob
 
 `q2 · i?` · `causal · r1`
 
-Pre–post interventional study without control group; 252 first-year medical students. In Zaragoza, students rating knowledge high or very high rose to 78.09%, while low/very low fell below 1%; in Huesca no student reported low or very low knowledge after the activity. The article reports "statistically significant in both cohorts".
+Pre–post interventional study without control group; about 252 first-year medical students (the article gives n ≈ 252 in its methods and 254 in its results), measured by self-report surveys rather than performance. The authors note the pre–post design "does not allow for definitive causal attribution" of the change to the tool. In Zaragoza, students rating knowledge high or very high rose to 78.09%, while low/very low fell below 1%; in Huesca no student reported low or very low knowledge after the activity. The article reports "statistically significant in both cohorts".
 
 > "These improvements were statistically significant in both cohorts, as confirmed by the Wilcoxon signed-rank test (p < 0.0001) and the McNemar–Bowker test (p < 0.0001), indicating not only an increase in median self-perceived knowledge but also a significant shift in the overall distribution of responses."
 

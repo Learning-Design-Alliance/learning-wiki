@@ -45,7 +45,7 @@ The article recommends that swimming teaching shift from a single skill orientat
 
 - [Cooperative learning swimming teaching produced the largest improvements in adolescent emotion regulation, significantly exceeding understanding and traditional teaching models](../claims/cooperative-learning-swimming-emotion-regulation.md) [+W]
 - [Cooperative learning swimming teaching produced the best social adaptability outcomes, especially peer interaction and collective integration](../claims/cooperative-learning-swimming-social-adaptability.md) [+W]
-- [All three swimming teaching models significantly improved emotion regulation and social adaptability over 16 weeks, with significant time × group interaction effects](../claims/swimming-intervention-omnibus-time-group-interaction.md) [+W]
+- [Self-reported emotion regulation and social adaptability scores rose significantly within all three swimming teaching groups over 16 weeks, with significant time × group interaction effects](../claims/swimming-intervention-omnibus-time-group-interaction.md) [+W]
 - [Swimming skill mastery did not differ significantly across the three pedagogical models](../claims/swimming-skill-mastery-no-group-difference.md) [+W]
 - [Understanding (problem-oriented) teaching outperformed traditional teaching on problem solving and emotional expression](../claims/understanding-teaching-problem-solving-emotional-expression.md) [+W]
 - [School swimming programmes predominantly adopt a technical-utilitarian orientation rather than an educational-curricular one (75% versus 25%)](../claims/school-swimming-technical-utilitarian-predominance.md) [+W]

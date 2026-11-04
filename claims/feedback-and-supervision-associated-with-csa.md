@@ -11,8 +11,9 @@ evidence_strength: moderate
 newest_evidence: 2026
 sources:
   - id: bantider-2026
-    title: "Bantider, W. H., Mulugeta, A. E., Birlie, A. T., Diriba, T., Chekol, D. B., Desse, T. T., Hunie, B. M., Dessalegn, M. K., Fasika, D. S., & Zurbachew, G. N. (2026). Clinical Skill Anxiety and Its Determinants Among Clinical‐Year Health Science Students in Ethiopia: An Institutional‐Based Cross‐Sectional Study. Nursing Open, 13(6), e70645."
-    author: "Bantider, W. H., Mulugeta, A. E., Birlie, A. T., Diriba, T., Chekol, D. B., Desse, T. T., Hunie, B. M., Dessalegn, M. K., Fasika, D. S., & Zurbachew, G. N."
+    resource: "https://doi.org/10.1002/nop2.70645"
+    title: "Wubet, H. B., Ayalew, E. M., Asmare, T. B., Teshome, D., Demilew, B. C., Tamir, T. D., Belay, M. H., Mossie, K. D., Demissie, S. F., & Gobezie, N. Z. (2026). Clinical Skill Anxiety and Its Determinants Among Clinical‐Year Health Science Students in Ethiopia: An Institutional‐Based Cross‐Sectional Study. Nursing Open, 13(6), e70645. https://doi.org/10.1002/nop2.70645"
+    author: "Wubet, H. B., Ayalew, E. M., Asmare, T. B., Teshome, D., Demilew, B. C., Tamir, T. D., Belay, M. H., Mossie, K. D., Demissie, S. F., & Gobezie, N. Z."
     q: 3
     i: "?"
     kind: associational
@@ -32,7 +33,7 @@ sources:
 
 ### Bantider 2026
 
-Bantider, W. H., Mulugeta, A. E., Birlie, A. T., Diriba, T., Chekol, D. B., Desse, T. T., Hunie, B. M., Dessalegn, M. K., Fasika, D. S., & Zurbachew, G. N. (2026). Clinical Skill Anxiety and Its Determinants Among Clinical‐Year Health Science Students in Ethiopia: An Institutional‐Based Cross‐Sectional Study. Nursing Open, 13(6), e70645.
+Wubet, H. B., Ayalew, E. M., Asmare, T. B., Teshome, D., Demilew, B. C., Tamir, T. D., Belay, M. H., Mossie, K. D., Demissie, S. F., & Gobezie, N. Z. (2026). Clinical Skill Anxiety and Its Determinants Among Clinical‐Year Health Science Students in Ethiopia: An Institutional‐Based Cross‐Sectional Study. Nursing Open, 13(6), e70645. https://doi.org/10.1002/nop2.70645
 
 `q3 · i?` · `associational · r2`
 

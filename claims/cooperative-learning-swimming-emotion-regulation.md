@@ -49,7 +49,7 @@ Randomized controlled trial of 120 adolescents aged 12–16 assigned 1:1:1 to th
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: measured as an outcome of the instruction studied
 
 ## Related Claims
-- [All three swimming teaching models significantly improved emotion regulation and social adaptability over 16 weeks, with significant time × group interaction effects](swimming-intervention-omnibus-time-group-interaction.md) — related
+- [Self-reported emotion regulation and social adaptability scores rose significantly within all three swimming teaching groups over 16 weeks, with significant time × group interaction effects](swimming-intervention-omnibus-time-group-interaction.md) — related
 - [Cooperative learning swimming teaching produced the best social adaptability outcomes, especially peer interaction and collective integration](cooperative-learning-swimming-social-adaptability.md) — related
 - [Understanding (problem-oriented) teaching outperformed traditional teaching on problem solving and emotional expression](understanding-teaching-problem-solving-emotional-expression.md) — related
 - [Swimming skill mastery did not differ significantly across the three pedagogical models](swimming-skill-mastery-no-group-difference.md) — related

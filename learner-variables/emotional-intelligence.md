@@ -134,7 +134,7 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Emotional intelligence correlates positively with self-directed learning among nursing students (r = 0.63)](../claims/ei-sdl-positive-correlation-nursing-students.md) [+M] — learners who differ on it differ in outcomes
 - [Emotional intelligence is the strongest predictor of self-directed learning in the regression model](../claims/ei-strongest-sdl-predictor.md) [+M] — learners who differ on it differ in outcomes
 - [Emotional, spiritual, and moral intelligence together account for 52.1% of variance in self-directed learning](../claims/three-intelligences-explain-52-percent-sdl-variance.md) [+M] — learners who differ on it differ in outcomes
-- [All three swimming teaching models significantly improved emotion regulation and social adaptability over 16 weeks, with significant time × group interaction effects](../claims/swimming-intervention-omnibus-time-group-interaction.md) [+M] — measured as an outcome of the instruction studied
+- [Self-reported emotion regulation and social adaptability scores rose significantly within all three swimming teaching groups over 16 weeks, with significant time × group interaction effects](../claims/swimming-intervention-omnibus-time-group-interaction.md) [+M] — measured as an outcome of the instruction studied
 - [Study-related stress predicts higher fatigue; study satisfaction and emotional-intelligence components predict lower fatigue](../claims/fatigue-predictors-cross-sectional.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
