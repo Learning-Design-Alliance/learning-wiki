@@ -55,3 +55,4 @@ Design-narrative observation of middle school students from an urban Boston scho
 - [Local teams learn more than geographically distributed teams, but dispersed teams can communicate as effectively as co-located teams given sufficient time to develop group relationships](distributed-teams-communication-effectiveness.md) — related
 - [Team leadership in the game emerged as shared and shifting, distributed to whoever held the needed information or first solved the task](shared-shifting-team-leadership-game.md) — related
 - [Team members' technical aptitude shaped role adoption, with less game-experienced members taking passive roles and power asymmetries limiting exploration](technical-aptitude-shapes-team-roles.md) — related
+- [Students strongly oppose preassigned teams and value autonomy in review game participation](review-game-team-autonomy.md) — related

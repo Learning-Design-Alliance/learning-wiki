@@ -49,3 +49,4 @@ NLN Student Satisfaction and Self-Confidence in Learning Scale (13 items, five-p
 - [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — related
 - [VR clinical simulation produced higher anxiety than face-to-face manikin simulation in maternal-newborn nursing](vr-simulation-higher-anxiety-than-face-to-face.md) — related
 - [Hybrid simulation with role-playing dramatically improves correct dosage calculation and reconstitution rates in nursing students](hybrid-simulation-improves-dosage-calculation-nursing.md) — related
+- [Students rate clinical reasoning skills and overall satisfaction highest among self-reported outcomes](cataract-vsim-highest-rated-outcomes.md) — related

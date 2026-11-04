@@ -55,3 +55,4 @@ Meta-analysis (RevMan 5.4) of four RCTs using objective examinations, with 110 A
 - [Context-based learning has a statistically significant positive overall effect on academic achievement (g=0.970) compared to traditional lecture-based instruction](cbl-positive-overall-effect-academic-achievement.md) — related
 - [PBL methods produce significantly better knowledge scores than traditional teaching among dental students (pooled MD 4.15)](pbl-improves-knowledge-scores.md) — related
 - [Analogies taught in small groups did not produce a statistically significant difference in clinical-case exam performance compared with traditional instruction in a wound-healing unit.](analogies-small-groups-no-significant-difference-surgery.md) — related
+- [Both PBL formats improve knowledge versus conventional teaching](pbl-improves-knowledge-versus-conventional-teaching.md) — related

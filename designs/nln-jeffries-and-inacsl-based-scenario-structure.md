@@ -42,7 +42,8 @@ The article structures the virtual simulation scenario on two reference framewor
 - [Virtual Simulation Scenario Standard Precautions Cvi Above 080](../claims/virtual-simulation-scenario-standard-precautions-cvi-above-080.md) [+M]
 
 ## Related Designs
-- 
+
+- [Three-component simulation design: prebriefing, immersive scenario, and structured debriefing aligned with Healthcare Simulation Standards of Best Practice](prebriefing-scenario-debriefing-simulation-design.md)
 
 ## Examples
 -

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/self-confidence-no-significant-difference-modules.md
+---
+
+# Revision history: [claims/self-confidence-no-significant-difference-modules](../claims/self-confidence-no-significant-difference-modules.md)
+
+### 2026-11-04 · ingest · process:wiki-ingest
+Ingested from pmc-13406120 (Longitudinal Pilot Study on the Use of Low-Cost Modules to Improve Junior Orthopaedic Resident Surgical Skills.) via eval_harness.py + ingest_extractions.py

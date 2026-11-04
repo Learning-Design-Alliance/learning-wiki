@@ -49,7 +49,9 @@ Case studies are the element in which learners analyze a concrete scenario, inci
 - [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples
+
 - Learners analyze a business case, patient case, or legal case and justify a response.
+- [Use a clinically and pathologically complex case as the core instructional context to foster morphology-based clinicopathological reasoning](../strategies/complex-clinical-case-clinicopathological-reasoning-strategy.md)
 
 ## Key Sources
 - Herreid, C. F. (2011). *Case study teaching*. NSTA Press.

@@ -50,6 +50,7 @@ The article recommends using ChatGPT as a thesis-writing assistant while verifyi
 ## Related Strategies
 
 - [Support learners to evaluate AI outputs by verifying sources, reporting errors, and overriding recommendations](evaluate-ai-outputs-verify-override.md)
+- [Cross-verify LLM answers using multiple models to reduce the risk of overconfident misinformation](cross-verification-multiple-llm-models.md)
 
 ## Examples
 -

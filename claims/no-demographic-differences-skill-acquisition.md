@@ -89,3 +89,4 @@ ANOVA across majors (English, Journalism, Education, Arabic, Others) in the expe
 - [The relationship between student characteristics and achievement does not differ significantly by academic area, cultural context, publication bias status, research quality, report type, or publication year](non-significant-moderators-characteristics-achievement.md) — related
 - [Subgroup analyses by mode of ACS, age, and sex show no significant differences in pooled effect sizes for academic outcomes](acs-subgroup-analyses-no-significant-differences.md) — related
 - [No gender differences were found in any dimension according to teacher SEL training](ruler-no-gender-differences.md) — related
+- [Question 4 on communication skills was an independent outlier, unaffected by modality, age or sex](communication-skills-item-modality-independent.md) — related

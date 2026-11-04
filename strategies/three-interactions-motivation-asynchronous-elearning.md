@@ -47,6 +47,7 @@ The review recommends designing asynchronous e-learning around three interaction
 
 - [Facilitating Discourse (Online)](facilitating-discourse-online.md)
 - [Apply evidence-based approaches from self-regulation, multimedia learning, motivation, and collaborative learning theories in distance and online course design](evidence-based-approaches-next-generation-distance-learning.md)
+- [Enhance digital training platforms with interactivity, supervision, and expanded content coverage](optimize-digital-platforms-engagement-supervision-content.md)
 
 ## Examples
 -

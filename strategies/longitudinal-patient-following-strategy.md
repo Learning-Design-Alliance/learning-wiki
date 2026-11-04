@@ -51,6 +51,7 @@ The article recommends guiding students "to follow selected patients throughout 
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
 - [Evaluate mental practice with longitudinal mixed-method designs in real clinical teams, and embed MP in organisational routines such as pre-surgical briefings](longitudinal-mixed-method-mp-evaluation.md)
 - [Develop standardized simulation-based leadership curricula with longitudinal evaluation and multi-center randomized comparison of formats](standardized-leadership-simulation-research-agenda.md)
+- [Use a clinically and pathologically complex case as the core instructional context to foster morphology-based clinicopathological reasoning](complex-clinical-case-clinicopathological-reasoning-strategy.md)
 
 ## Examples
 -

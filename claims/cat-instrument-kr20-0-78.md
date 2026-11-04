@@ -52,3 +52,4 @@ Instrument-development report: the CAT's content validity was established with a
 - [The researcher-built two-stage Mixtures Achievement Test showed high reliability in the pilot and research groups](mixtures-achievement-test-reliability.md) — related
 - [The 60-item grammar post-test showed KR-21 reliability of 0.94 and a moderate criterion-related validity correlation of 0.41 with the Nelson grammar total](posttest-reliability-validity-kr21-nelson-correlation.md) — related
 - [The Basic Technology Achievement Test (BTAT) showed reliability coefficients of 0.84 (KR-21) and 0.88 (KR-20)](btat-reliability-coefficients.md) — related
+- [The facial nerve anatomy knowledge test showed high reliability with KR20 of 0.96 after pilot removal of two questions](facial-nerve-test-kr20-reliability.md) — related

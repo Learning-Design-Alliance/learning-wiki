@@ -52,3 +52,4 @@ Scoping review following the Joanna Briggs Institute guideline, searching CINAHL
 - RaT research is heavily concentrated in Western healthcare systems, with no published studies from the GCC region — related
 - A scoping review identified 48 studies of technology-based teaching for health students' stroke clinical skills, most published recently and of lower methodological quality — related
 - [SNAPPS outperformed the one-minute preceptor and both outperformed traditional clinical teaching for clinical reasoning skill](snapps-superior-one-minute-preceptor-traditional-teaching.md) — related
+- [Probing the preceptor showed one of the largest behavioural changes, with residents actively asking questions after SNAPPS](snapps-probe-increases-resident-questions.md) — a narrower finding that bears on this claim

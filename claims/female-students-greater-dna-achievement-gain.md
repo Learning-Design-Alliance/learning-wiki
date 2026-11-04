@@ -51,3 +51,4 @@ Gender comparison on the post-test (table 3): male N 39, mean 3.36±0.39; female
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — related
 - [No significant difference in achievement between male and female students taught basic science with concept mapping](no-gender-difference-concept-mapping-achievement.md) — related
 - [No significant gender difference in biology achievement among students taught with concept mapping](no-gender-difference-concept-mapping-biology.md) — related
+- [Knowledge gains differ by subgroup: male students and second-year students showed greater gains than female and third-year students](knowledge-gain-gender-academic-year-subgroups.md) — reports the opposite

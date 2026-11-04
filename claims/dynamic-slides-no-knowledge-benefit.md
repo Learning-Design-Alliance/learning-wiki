@@ -52,3 +52,4 @@ In the between-subjects experiment with 238 preservice teachers, hierarchical mu
 - [Screencast design findings: static vs. dynamic screen movement, explicit vs. implicit narration, and handwriting preferred though typefaces judged more legible](screencast-design-movement-narration-handwriting.md) — related
 - [Animation outperforms static pictures for learning about a biological process with spoken narration](animation-outperforms-static-pictures-photosynthesis.md) — reports the opposite
 - [Static and dynamic graphics produce equivalent learning gains for children learning from a multimedia science lesson](static-dynamic-graphics-equivalent-gains.md) — related
+- [Students strongly prefer short, single-topic voiceovers with embedded formative quizzes and a provided script](voiceover-design-preferences.md) — related

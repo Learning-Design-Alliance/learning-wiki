@@ -50,3 +50,4 @@ Email survey of all at-risk students identified in week 5 or week 8, with six ba
 - [In a pilot study, the TigerGPT survey chatbot achieved a 75% usability rating and an 81% satisfaction score, with 50% of participants preferring it over traditional surveys](tigergpt-pilot-usability-satisfaction.md) — related
 - [The proportion of participating students classified as high-risk fell from 59% in week 4 to 39% by week 6 of the semester](high-risk-classification-declined-week4-to-week6.md) — related
 - [Students reported highest satisfaction with the feedback process in the CASP-based teaching format](satisfaction-feedback-process-casp-teaching.md) — related
+- [Over 90% of residents responded positively to most feedback items, but about 57% were neutral or negative on time required](snapps-feedback-positive-except-time-burden.md) — related

@@ -49,7 +49,8 @@ The article recommends computing personality traits implicitly from learners' an
 - [When SRL is measured at a fine grain size (specific strategies), self-reports show low calibration with behavioral measures](../claims/fine-grained-srl-self-reports-low-calibration.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use behavioral data alongside self-report measures when assessing trait mindfulness in adolescents](behavioral-data-trait-mindfulness-assessment.md)
 
 ## Examples
 -

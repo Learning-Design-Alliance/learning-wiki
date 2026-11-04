@@ -59,3 +59,4 @@ Leave-one-rater-out validation analysis comparing the selected LLM judge (GPT-5.
 - [SP ratings and blinded third-party rater consensus show moderate-to-strong agreement](sp-tp-rater-agreement-moderate-strong.md) — related
 - [LLM-generated total scores showed moderate agreement with faculty ratings of VSP history-taking performance (ICC(2,1)=0.51)](llm-vsp-scoring-moderate-agreement-faculty.md) — related
 - [Automated formative scores showed strong rank-order agreement with blinded expert ratings for participation, reflection, and reasoning dimensions](maple-cr-formative-expert-convergence.md) — related
+- [Evaluator-agent scores agreed closely with a 16-rater human consensus benchmark for both MI (ICC(2,1)=0.959) and CBT (ICC(2,1)=0.934)](evaluator-agrees-with-human-rater-consensus.md) — related

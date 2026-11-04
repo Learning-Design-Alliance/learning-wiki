@@ -57,3 +57,4 @@ Self-reported satisfaction data from the six residents who took part in high-fid
 - [Trainees valued grief training activities involving reflection, debriefing with peers and the direct involvement of bereaved caregivers](trainees-value-reflective-and-bereaved-caregiver-involvement.md) — related
 - [Peer observation and structured debriefing are perceived by students as key opportunities for reflection and learning during simulation](debriefing-peer-observation-reflection.md) — a broader claim this one bears on
 - [Personalised video-assisted feedback does not significantly improve theoretical knowledge scores compared to structured self-debriefing](personalised-video-feedback-knowledge-not-significant.md) — related
+- [Observed group differences likely reflect the combined influence of modality, self-directed structure, feedback format, and instructor involvement, not VR technology alone](vr-acupuncture-confounded-comparison.md) — related

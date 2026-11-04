@@ -49,3 +49,4 @@ Sensitivity analyses using sequentially adjusted ANCOVA models (Model 1 through 
 - [Residents in the iHEC-integrated teaching cohort achieved higher post-rotation OSCE scores than the conventional cohort (Cohen's d = 0.82)](ihec-higher-osce-scores.md) — related
 - [The iHEC cohort showed higher post-rotation self-directed learning readiness than the conventional cohort (Cohen's d = 0.78)](ihec-higher-sdl-readiness.md) — related
 - [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related
+- [The 10-minute two-station four-domain modified OSCE is more sensitive than the end-of-rotation comprehensive score in detecting key competency differences from pathway-driven training.](modified-osce-more-sensitive-than-comprehensive-score.md) — related

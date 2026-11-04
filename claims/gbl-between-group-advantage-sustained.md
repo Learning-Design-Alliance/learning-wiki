@@ -47,3 +47,4 @@ Between-group independent t-tests in the final analytical sample (n = 40; 20 per
 ## Related Claims
 - [Game-based learning in a mental health nursing internship significantly improves nursing students' academic self-efficacy, with large within-group effects sustained at one-month follow-up](gbl-improves-academic-self-efficacy-nursing.md) — related
 - [Game-based learning in a mental health nursing internship significantly improves nursing students' self-directed learning, with large within-group effects sustained at one-month follow-up](gbl-improves-self-directed-learning-nursing.md) — related
+- [GBL shows a small-to-moderate effect size advantage on final test scores and progress rates despite non-significance](gbl-effect-size-advantage-final-test.md) — related

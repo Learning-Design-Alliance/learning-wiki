@@ -45,7 +45,8 @@ The article recommends using the scale diagnostically before discussion design. 
 - [Focus group interviews with active and non-participating (lurking) students indicated that reasons for participation form a determinant dimension of online participation](../claims/focus-groups-why-dimension-grounds-scale.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Tailor case questions and session depth to learner seniority by emphasizing or skipping question subsets](tailor-cbl-questions-to-seniority.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 225 claims (146 show a difference, 41 mixed, 38 no difference) · 147 studies (65 causal, 32 associational, 24 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 43 of 147 report an effect size · 222 claims rest on one study
+> **Evidence** · 227 claims (148 show a difference, 41 mixed, 38 no difference) · 148 studies (66 causal, 32 associational, 24 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 44 of 148 report an effect size · 224 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -262,6 +262,8 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Identifying-topic strategy instruction in L1 significantly improves EFL listening comprehension](../claims/l1-identifying-topic-strategy-improves-listening.md) [+M] — measured as an outcome of the instruction studied
 - [Note-taking strategy instruction in L1 shows no statistically significant effect on EFL listening comprehension](../claims/l1-note-taking-strategy-no-significant-effect.md) [-M] — measured as an outcome of the instruction studied
 - [Teaching five listening strategies in L1 (Persian) significantly improves lower-intermediate EFL listening comprehension versus traditional instruction](../claims/l1-delivered-listening-strategy-instruction-improves-efl-listening.md) [+M] — measured as an outcome of the instruction studied
+- [Qualitative interviews suggest narrative features acted as a catalyst for meaning-making and peer-assisted elements provided social scaffolding for skill development](../claims/nm-pal-qualitative-mechanisms-meaning-making-scaffolding.md) [+M] — measured as an outcome of the instruction studied
+- [Skills most directly practiced in the NM-PAL model — information retrieval, narrative competence, and structured oral presentation — showed the largest item-level score differences](../claims/nm-pal-largest-gains-in-practiced-skills.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

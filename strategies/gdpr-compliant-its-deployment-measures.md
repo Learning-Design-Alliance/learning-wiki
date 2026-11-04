@@ -45,6 +45,7 @@ To operate the ITS in a German university regulatory environment, the authors im
 - [LA researchers and practitioners should adapt to changing regulations across jurisdictions, use regulatory sandboxes, and carefully consider data nature and privacy risks before cross-border data transfer](adapt-to-cross-jurisdiction-ai-regulation-sandboxes.md)
 - [Four-step anonymization balancing disclosure risk and data utility](four-step-anonymization-engagement-data.md)
 - [Secure enclaves for privacy-protecting researcher access to student-level data](secure-enclave-kinetic-data-access.md)
+- [Three-level data protection mechanism for AI-SP privacy, informed consent, and legal risk management](ai-sp-three-level-data-protection.md)
 
 ## Examples
 -

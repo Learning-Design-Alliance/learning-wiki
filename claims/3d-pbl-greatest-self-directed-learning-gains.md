@@ -51,3 +51,4 @@ Network meta-analysis of self-directed learning ability from 8 studies, covering
 - [3D-PBL is the most effective orthopedic teaching method across all measured outcomes in Chinese undergraduate and postgraduate education](3d-pbl-most-effective-orthopedic-teaching-china.md) — a broader claim this one bears on
 - [MDT-CBL showed the best improvement in clinical reasoning versus lecture-based learning, with 3D-CBL and 3D-PBL next, but only 3D-PBL had high-quality evidence](mdt-cbl-best-clinical-reasoning-gains.md) — related
 - [MDT-CBL produced the greatest increase in learning interest versus lecture-based learning, but 3D-PBL was the only top-ranked option with high-quality evidence](mdt-cbl-greatest-learning-interest-gains.md) — related
+- [CBL is associated with improved learning interest and self-directed learning ability](cbl-improves-interest-self-directed-learning.md) — related

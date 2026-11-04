@@ -48,7 +48,8 @@ The article proposes that integrating SP and CBL demonstrates synergistic benefi
 - [Sp Cbl Improves Clinical Practice Performance](../claims/sp-cbl-improves-clinical-practice-performance.md) [+M]
 
 ## Related Designs
-- 
+
+- [The integrated NM-PAL curriculum pattern: five synergistic modules combining narrative cases with small-group peer mentoring](nm-pal-five-module-curriculum-pattern.md)
 
 ## Examples
 -

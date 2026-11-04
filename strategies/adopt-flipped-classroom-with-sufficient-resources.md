@@ -47,6 +47,7 @@ The authors' forward-looking recommendation for instructors choosing between tea
 - [Adopt flipped classroom in preventive medicine courses according to institutional resources, with teacher information-technology training](adopt-fc-per-resources-with-teacher-it-training.md)
 - [Promote the flipped classroom in low-resource settings using free digital tools, peer instruction, and group discussions.](flipped-classroom-low-resource-settings-strategy.md)
 - [Instructors redesigning higher education courses should implement flipped classrooms as an effective pedagogical practice while attending to subject-specific and pre-class-engagement conditions](flipped-classroom-instructional-redesign-strategy.md)
+- [Equip instructors with concrete personalization strategies when adopting flipped designs dominated by group activities](personalization-strategies-flipped-designs.md)
 
 ## Examples
 -

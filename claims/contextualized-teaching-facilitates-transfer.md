@@ -119,3 +119,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](ccs-perceived-strengths-realism-reasoning-communication.md) — a narrower finding that bears on this claim
 - [Experts reported students asked more advanced and clinically meaningful questions than in a typical anatomy laboratory](experts-report-advanced-student-questions.md) — related
 - [Nursing students report that clinical simulation strengthens their understanding of biosafety practices, particularly PPE use and risk perception](simulation-strengthens-biosafety-ppe-understanding.md) — a narrower finding that bears on this claim
+- [Nurses report competency enhancement in pain assessment through PainScan training](qualitative-competency-enhancement-painscan.md) — a narrower finding that bears on this claim

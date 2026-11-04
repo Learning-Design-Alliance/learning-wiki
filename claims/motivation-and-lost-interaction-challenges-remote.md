@@ -95,3 +95,4 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [The authors attribute the blended group's advantage to enhanced interaction, flexibility, and opportunities for continuous improvement](blended-advantage-attributed-interaction-flexibility.md) — related
 - [The most frequent student criticisms of FLEX concerned self-regulated learning, missing interaction, and difficulty estimating learning time](flex-negative-perceptions-self-regulation-interaction.md) — related
 - [Before the intervention, most students reported little classroom technology use, but most felt motivated when teachers used technological tools](students-report-scarce-technology-use-but-motivated-by-it.md) — related
+- [Students most often value study groups for learning from others (38%) and collaboration (32%), but stated reasons do not predict exam performance](reasons-valuing-study-groups-no-exam-effect.md) — related

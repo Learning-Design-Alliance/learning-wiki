@@ -42,6 +42,7 @@ Based on the study's observations and taxonomy, the authors recommend "incorpora
 ## Related Strategies
 
 - [Incorporate WebQuest procedures into teacher-preparation methodology sessions and adapt them per sport](webquest-in-methodology-sessions-strategy.md)
+- [Embed disaster preparedness, crisis pedagogy, and CT-focused high-stakes instruction in teacher education programs](crisis-ready-teacher-education-strategies.md)
 
 ## Examples
 -

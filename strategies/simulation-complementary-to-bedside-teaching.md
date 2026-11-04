@@ -49,6 +49,7 @@ The article recommends that the demand for modern teaching methods observed amon
 - [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](stepped-ai-simulation-integration-strategies.md)
 - [Combine virtual and traditional teaching methods to facilitate knowledge transfer in competency-based nursing skills courses](combine-virtual-traditional-nursing-skills-teaching.md)
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
+- [Position AI-SPs as preparation, reflection, and supplementation for real patient contact rather than replacement](ai-sp-supplement-not-replacement.md)
 
 ## Examples
 -

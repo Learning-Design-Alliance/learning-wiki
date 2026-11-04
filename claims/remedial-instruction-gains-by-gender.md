@@ -48,3 +48,4 @@ Gender subgroup analysis in the same study: 31 male students (t = 13.21) and 15 
 - [Remedial instruction significantly enhanced the mathematical ability of dyscalculic primary students in a single-group study](remedial-instruction-enhances-mathematical-ability-dyscalculics.md) — a broader claim this one bears on
 - [Post-instruction gains held across age subgroups (10 years and below vs above 10 years)](remedial-instruction-gains-by-age.md) — related
 - [Experimental-group females significantly outperformed both control-group subgroups in post-hoc comparisons](experimental-females-outperformed-control-subgroups.md) — a narrower finding that bears on this claim
+- [Knowledge gains differ by subgroup: male students and second-year students showed greater gains than female and third-year students](knowledge-gain-gender-academic-year-subgroups.md) — related

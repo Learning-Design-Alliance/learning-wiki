@@ -63,3 +63,4 @@ The paper cites two audits as evidence that AI errors exist in research and ever
 - [Interviewed teachers cite poor AI output quality and risks to students' cognitive engagement as main obstacles, and subject-specific use cases as their top professional-development need](teacher-interviews-obstacles-and-pd-needs.md) — related
 - [A widely used healthcare algorithm underestimated the medical needs of Black patients because it used healthcare spending as a proxy for health status](healthcare-algorithm-bias-black-patients.md) — related
 - [All AI-generated case drafts required expert correction, with a mean of 1.65 medical errors and 2.43 logical inconsistencies per case](genai-cbl-hallucination-audit.md) — a narrower finding that bears on this claim
+- [Hallucination rates ranged from 11% to 20.1% across LLMs without significant intermodel differences](hallucination-rates-11-20-percent-no-model-differences.md) — related

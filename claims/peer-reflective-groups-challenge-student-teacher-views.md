@@ -56,3 +56,4 @@ The digest reports a 1996 study of third-year teaching students in which researc
 - [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
 - Students found using a chatbot to solve a photoelectric-effect problem and evaluating its answer insightful, and the authors propose group checking as a way to verify chatbot answers — related
 - [Team-based professional development can help higher education teachers learn to reflect critically on their teaching, but true reflection is often not achieved](team-pd-critical-reflection.md) — related
+- [Near-peer teaching is reported to foster a comfortable learning environment and reinforce concepts for student-teachers](near-peer-teaching-comfortable-environment.md) — related

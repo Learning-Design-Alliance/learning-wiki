@@ -52,3 +52,4 @@ Randomised controlled trial of a single 2-hour workshop in EBM literature search
 - [A multifaceted EBM course for pharmacy students significantly improved overall EBM test scores (11.4 vs. 12.6, P<0.0001)](pharmacy-ebm-workshop-test-score-gain.md) — reports the opposite
 - [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — reports the opposite
 - [A two-hour workshop alone increased learn unit and ROI performance in only half of the participating teachers](workshop-alone-insufficient-half-teachers.md) — related
+- [Intervention group achieved significantly higher post-intervention total EBM scores than control group (13.11 vs 10.12)](intervention-group-higher-post-test-total-ebm.md) — related

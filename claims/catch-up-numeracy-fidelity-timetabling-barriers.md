@@ -80,3 +80,4 @@ In the same interview study, the most cited barrier to delivery was "A lack of t
 - [Teachers reported insufficient time to deliver PATHS at the recommended frequency, with on average only half of lessons delivered](paths-dosage-shortfall-time.md) — related
 - [Treatment parents averaged eight weeks of intervention engagement, ranging from four to fifteen weeks](intervention-fidelity-eight-weeks-average.md) — related
 - [Implementation fidelity problems, including missing audio devices and insufficient lab monitoring, compromised the blended learning intervention](blended-implementation-fidelity-compromised-outcomes.md) — related
+- [Dosage of SM interventions varied extensively, with median session length 45 minutes, six sessions, across twelve weeks](sm-intervention-dosage-variability.md) — related

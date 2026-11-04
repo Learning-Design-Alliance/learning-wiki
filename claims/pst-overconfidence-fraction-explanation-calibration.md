@@ -57,3 +57,4 @@ Calibration analysis comparing completeness scores to confidence ratings (1: Not
 - [The comparison of decimal fractions undergoes developmental changes over the course of learning](developmental-changes-decimal-fraction-comparison.md) — related
 - [Students perceived greater writing improvements than evaluators confirmed](student-perceived-gains-exceed-evaluator-ratings.md) — related
 - [In Study 1 the treatment group's self-assessed meeting-deadlines skill decreased while the control group's increased, suggesting calibration of overconfidence](meeting-deadlines-self-assessment-calibration.md) — related
+- [First-year biology students enter university with modest metacognitive knowledge of effective study strategies, rating all strategies similarly (means 56–77 out of 100)](modest-metacognitive-knowledge-study-strategies-biology-entry.md) — related

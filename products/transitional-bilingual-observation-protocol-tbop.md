@@ -28,6 +28,7 @@ A web-based classroom observation protocol developed for transitional bilingual,
 ## Related Products and Programmes
 
 - [Four-dimensional pedagogical classroom observation model](four-dimensional-pedagogical-classroom-observation-model.md)
+- [OPTIS (Observing Principles of Teaching In School)](optis-observing-principles-of-teaching-in-school.md)
 
 ## Key Sources
 - Irby, B. J., Lara-Alecio, R., Tong, F., Guerrero, C., Sutton-Jones, K. L., & Abdelrahman, N. (2018). Implementation of Research-based ESL Strategies with Lower Grade Middle School ELLs in the Science Classroom: Findings from an Experimental Study. The Electronic Journal for English as a Second Language, 22(1). https://tesl-ej.org/

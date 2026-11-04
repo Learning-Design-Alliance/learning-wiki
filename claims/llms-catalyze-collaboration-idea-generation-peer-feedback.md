@@ -61,3 +61,4 @@ Synthesis in the RQ1 findings section of the review: LLMs can "simulate evaluati
 - [Most studies used online peer feedback to improve students' task performance](peer-feedback-function-task-performance-dominant.md) — related
 - [GenAI can most effectively support knowledge building in the Collaboration Zone as a dialogic 'sparring partner'](genai-collaboration-zone-sparring-partner.md) — related
 - [Computer-assisted elaborative feedback with partner exchange sharpened Japanese EFL majors' reading skills](computer-assisted-feedback-reading-skills.md) — related
+- [Qualitative interviews suggest narrative features acted as a catalyst for meaning-making and peer-assisted elements provided social scaffolding for skill development](nm-pal-qualitative-mechanisms-meaning-making-scaffolding.md) — related

@@ -51,3 +51,4 @@ Random-effect meta-analysis of self-efficacy self-rating instruments (e.g., Resu
 - [HFPS based on life-threatening scenarios shows no significant difference from other teaching methods on nursing students' self-confidence](hfps-no-significant-self-confidence-difference.md) — related
 - [HFPS based on life-threatening scenarios shows no significant difference from other teaching methods on nursing students' satisfaction](hfps-no-significant-satisfaction-difference.md) — related
 - [Pooled satisfaction and self-confidence effects are sensitive to individual studies, while knowledge, performance and self-efficacy effects are robust in leave-one-out analysis](hfps-leave-one-out-sensitivity-pattern.md) — related
+- [No clear differences in ALS performance metrics in the asystole scenario between groups](app-no-asystole-performance-difference.md) — related

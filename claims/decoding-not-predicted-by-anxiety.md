@@ -54,3 +54,4 @@ Null finding from the anxiety-predicting-achievement regression set in the 153-c
 - [Mid-year harm avoidance symptoms positively predict end-of-year oral reading fluency for boys and girls](harm-avoidance-predicts-better-fluency.md) — related
 - [Better mid-year oral reading fluency predicts lower separation anxiety symptoms at end of first grade](fluency-predicts-lower-separation-anxiety.md) — related
 - [Total anxiety predicts later fluency for girls only, via a significant gender-by-anxiety interaction](gender-moderates-anxiety-fluency-relation.md) — related
+- [Attitude, Motivation, and Test Strategies subscales did not predict academic outcomes in this sample](attitude-motivation-test-strategies-no-prediction.md) — related

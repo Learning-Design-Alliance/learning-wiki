@@ -51,3 +51,4 @@ Hierarchical regression on the 425-case formal sample: Model 1 (adjusted R2 = 0.
 - [Risk perception is positively but more weakly associated with acceptance outcomes for AI-assisted English learning, with cautious interpretation warranted](risk-perception-weak-positive-ai-english-acceptance.md) — related
 - [Perceived immersive, interactive, and distributed affordances are each positively associated with a distinct lacquer-painting imagery characteristic in cross-sectional survey data](perceived-digital-affordances-associated-with-lacquer-imagery-characteristics.md) — related
 - [ARCS motivation did not significantly moderate any of the tested UTAUT3 acceptance pathways](arcs-moderation-effects-null.md) — related
+- [Fellows reported high acceptance of the VR curriculum and both groups rated it as meeting their needs](high-acceptance-vr-curriculum.md) — related

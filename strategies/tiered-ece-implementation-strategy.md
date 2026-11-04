@@ -78,6 +78,7 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Expand simulation-based teaching to additional physiology practicals and organ systems](expand-simulation-across-physiology-curriculum.md)
 - [Use predefined progression criteria and staged supervised practice to standardize training in invasive dental procedures](predefined-progression-criteria-staged-supervised-practice.md)
 - [Implement progressive and layered simulation training across career stages for paediatric surgery nurses](progressive-layered-simulation-training-career-stages.md)
+- [Enhance digital training platforms with interactivity, supervision, and expanded content coverage](optimize-digital-platforms-engagement-supervision-content.md)
 
 ## Examples
 -

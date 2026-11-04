@@ -55,3 +55,4 @@ SEM results from the survey of 1435 undergraduates showed the direct path "β = 
 - [Self-efficacy for learning was positively related to teaching presence, self-regulation, and cognitive presence among Korean undergraduates during COVID-19](self-efficacy-positive-relationships-presences-self-regulation-covid.md) — related
 - [Teachers' self-innovativeness has a significant positive effect on their accountability among Israeli teachers during COVID-19 distance teaching](self-innovativeness-increases-teacher-accountability.md) — related
 - [Student engagement fully mediates the relationships between lecturer charismatic leadership/technology use and learning performance](engagement-fully-mediates-performance.md) — related
+- [Instructional communication fully mediates the relationship between general pedagogical knowledge and student engagement](ic-fully-mediates-gpk-engagement.md) — related

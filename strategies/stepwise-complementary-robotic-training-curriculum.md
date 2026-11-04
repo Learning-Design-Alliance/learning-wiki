@@ -63,6 +63,7 @@ The review recommends that training modalities be combined in a progressive curr
 - [Use self-directed simulator practice as an adjunct to early colonoscopy training, with future curricula adding targeted instructor feedback](self-directed-simulator-adjunct-colonoscopy-training.md)
 - [Integrate the validated SP chicken anastomosis task into SP-specific Proficiency Based Progression training pathways](sp-pbp-training-pathway-strategy.md)
 - [Incorporate SPS combined with online CBL into pediatric surgical training to enhance preparedness and well-being](incorporate-sps-online-cbl-training-strategy.md)
+- [Match training modality emphasis to trainee proficiency level](match-modality-emphasis-to-proficiency-level.md)
 
 ## Examples
 -

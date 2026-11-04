@@ -100,6 +100,7 @@ Role play is a form of situated, active practice: it requires learners to *perfo
 - [Alternate learners between participant and observer roles across two simulation cases with a teaching talk between them](alternating-observer-participant-roles-simulation-strategy.md)
 - [Use standardized patient social history encounters, reflective writing, and a mini-OSCE practice to teach SDH history collection](sp-social-history-reflective-writing-mini-osce-strategy.md)
 - [Use linear virtual patients as a substitute or supplement to role-play, not as the sole method](virtual-patients-substitute-supplement-roleplay.md)
+- [Use AI-simulated audiences to give students safe, repeated low-stakes communication practice](ai-simulated-audiences-low-stakes-communication-practice.md)
 
 ## Examples
 - **Corporate customer-service training** — agents rehearse handling an angry customer while a peer plays the customer from a brief; the debrief names specific de-escalation moves observed

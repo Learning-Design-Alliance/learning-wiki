@@ -46,6 +46,7 @@ The article recommends that hospitals "Formalize clinical peer‐mentorship prog
 - [Healthcare institutions should prioritize SDL-friendly environments including protected learning time, access to digital tools, and mentorship programs](sdl-friendly-environments-strategy.md)
 - [Build supportive organizational structures — clear career pathways, mentorship programs, and leadership development — to enhance nurses' EBHC competence](organizational-structures-care-pathways-mentorship-leadership-ebhc.md)
 - [Treat post-course mentoring and institutional supports as a core implementation requirement when running innovation courses for novice nurses](post-course-mentoring-core-implementation-requirement.md)
+- [Establish institutional supports — standardized MDT protocols, guidelines access, and regular wound care training — to translate knowledge into practice](institutional-mdt-protocols-and-training-strategy.md)
 
 ## Examples
 -

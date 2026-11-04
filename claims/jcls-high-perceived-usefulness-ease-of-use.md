@@ -48,3 +48,4 @@ TAM questionnaire (Davis, 1989 constructs) administered to the 22 experimental-g
 - [Teachers' technology acceptance follows the TAM: perceived usefulness, perceived ease of use, and attitude toward technology predict technology integration, moderated by organizational, technological, and individual factors](tam-predicts-teacher-technology-integration.md) — related
 - [Perceived usefulness and perceived ease of use both significantly predict behavioral intention to use m-learning apps outside the classroom](pu-peou-predict-behavioral-intention.md) — related
 - [Observations of the JCLS experimental group showed high rates of active hands-on practice, repeated answering attempts, joyful reactions and a hedonic atmosphere](jcls-observation-indicators-high.md) — related
+- [Learners rate the AI-Mentor cognitive core highly on technology acceptance](ai-mentor-high-tam-acceptance.md) — related

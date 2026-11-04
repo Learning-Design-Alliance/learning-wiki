@@ -56,3 +56,4 @@ A framing assertion from the abstract establishing why alignment matters for val
 - [Disengaged responding biases observed scores from achievement tests and surveys in practically and statistically significant ways](disengaged-responding-biases-observed-scores.md) — related
 - [Cognitive process inference in computerized testing rarely rests on strong process data](weak-process-data-in-computerized-testing.md) — related
 - [Criterion-referenced test items should represent skills essential to learning to read and be arranged in the hierarchy used for teaching](criterion-referenced-items-should-represent-essential-skills-in-a-teaching-hierarchy.md) — a narrower finding that bears on this claim
+- [Validity evidence for the CBL module was gathered across six domains, with internal structure supported by significant quiz gains](cbl-meningitis-six-domain-validity.md) — a narrower finding that bears on this claim

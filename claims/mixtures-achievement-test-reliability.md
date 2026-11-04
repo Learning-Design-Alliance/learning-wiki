@@ -50,3 +50,4 @@ Instrument development for the study's achievement measure: a two-stage multiple
 - [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — related
 - [The level determination exam (DBS) used to check prior knowledge showed high internal consistency (0.822)](dbs-level-determination-exam-reliability.md) — related
 - [The Basic Technology Achievement Test (BTAT) showed reliability coefficients of 0.84 (KR-21) and 0.88 (KR-20)](btat-reliability-coefficients.md) — related
+- [The facial nerve anatomy knowledge test showed high reliability with KR20 of 0.96 after pilot removal of two questions](facial-nerve-test-kr20-reliability.md) — related

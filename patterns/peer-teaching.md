@@ -14,7 +14,7 @@ grain_size: lesson
 # Peer Teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 49 claims (26 for, 19 mixed, 4 against) · 30 studies (10 causal, 10 quant-synthesis, 3 review, 3 design, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 10 of 30 report an effect size · 46 claims rest on one study
+> **Evidence** · 50 claims (26 for, 20 mixed, 4 against) · 31 studies (11 causal, 10 quant-synthesis, 3 review, 3 design, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 11 of 31 report an effect size · 47 claims rest on one study
 
 ## Description and scope
 
@@ -147,6 +147,7 @@ This pattern is scoped to learners teaching one another material they have met, 
 - [Peer tutoring interventions are effective for students with EBD, and those with EBD benefit most among students with disabilities](../claims/peer-tutoring-effective-ebd.md) [~W]
 - [Tutees attribute their learning during peer tutoring to significant materials, direct and adjusted help from tutors, and dialogue between partners](../claims/focus-group-tutee-learning-causes.md) [+W]
 - [The peer-assisted mediation group outperformed the tutor-intervention group across the ten treatment-session writing assignments.](../claims/peer-mediation-outperformed-across-sessions.md) [+W]
+- [NM-PAL students reported significantly higher scores across all three KSA dimensions, but critical thinking and empathy-driven awareness items showed no significant differences](../claims/nm-pal-ksa-dimension-and-item-patterns.md) [~W]
 
 ## Related Patterns
 - [Jigsaw](fostering-communities-of-learning-fcl.md)

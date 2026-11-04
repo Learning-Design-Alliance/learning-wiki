@@ -52,3 +52,4 @@ Random-effects subgroup analysis by field of health licensing examination. Poole
 - [Included studies report ChatGPT-3.5 accuracy from 36% to 77% and GPT-4 accuracy from 64.4% to 100%](accuracy-ranges-35-versus-gpt4-studies.md) — related
 - [Large language models achieve a pooled accuracy of 63.69% (95% CI 60.26%-67.06%) in answering dental examination questions](llm-pooled-accuracy-dental-exam-63-69.md) — related
 - [Large language models achieve a pooled accuracy of 72% on medical licensing examination questions across 36 studies](llm-pooled-accuracy-72-medical-licensing-exams.md) — related
+- [LLM accuracy on the EUS varies by subject area, with pharmacy legislation/ethics lowest (DeepSeek-R1 at 20%)](eus-subject-area-accuracy-variation.md) — a narrower finding that bears on this claim

@@ -55,3 +55,4 @@ The paper's overview describes the 2010 UChicago Consortium book's central findi
 - [Initial improvements in Annenberg schools' organizational capacity by 1999 largely disappeared by 2001, leaving little net change](annenberg-capacity-gains-eroded-by-2001.md) — related
 - Schools strong in five essential supports were at least ten times more likely to show substantial reading and math gains — a narrower finding that bears on this claim
 - [None of the three key organizational characteristics is individually sufficient for strong freshman course performance in CHSRI small schools](individual-conditions-insufficient-course-performance.md) — a narrower finding that bears on this claim
+- [The three identified factors align with international leadership pathways, including the parent-community ties pathway in Chicago research](factors-align-international-pathways.md) — a narrower finding that bears on this claim

@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 184 claims (78 for, 95 mixed, 11 against) · 124 studies (45 causal, 25 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 33 of 124 report an effect size · 173 claims rest on one study
+> **Evidence** · 185 claims (78 for, 96 mixed, 11 against) · 125 studies (45 causal, 25 review, 20 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 33 of 125 report an effect size · 174 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,7 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [EFL learners rated explicit strategy instruction favorably and reported increased confidence and efficiency in learning.](../claims/learners-perceive-strategy-instruction-as-useful.md) [+W] — attached 2026-11-03 from Yang et al. (2015), which proposed "Explicit strategy instruction should be integrated into language learning curricula to promote learner autonomy and strategy application.".
 - [Explicit metacognitive strategy instruction improves ESL reading comprehension performance](../claims/metacognitive-strategy-instruction-improves-esl-reading-comprehension.md) [+W] — attached 2026-11-03 from Habibian (2015), which proposed "Teach metacognitive reading strategies explicitly to help ESL learners control their comprehension process".
 - [Explicit metacognitive strategy instruction increases ESL learners' use of monitoring and assessment strategies but not planning strategies](../claims/metacognitive-instruction-increases-monitoring-assessment-not-planning.md) [~W] — attached 2026-11-03 from Habibian (2015), which proposed "Three-phase metacognitive knowledge framework for strategy instruction design"; tests this page's relationship.
+- [Frequency and intensity dimensions show no significant adjusted association with GPA, unlike regulatory difficulty](../claims/frequency-intensity-no-significant-gpa-association.md) [~W] — attached 2026-11-04 from Dong Minghua et al. (2026), which proposed "Focus on digital self-regulation rather than exposure duration alone in research and educational practice".
 
 ## Objective and learner-valued goal
 

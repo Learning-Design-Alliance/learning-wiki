@@ -74,3 +74,4 @@ A second ANOVA compared declarative knowledge after scaffolded guidance was intr
 - [Desktop VR with scaffolded interaction and reflective self-explanation increases self-efficacy compared to traditional instruction](desktop-vr-scaffolded-self-explanation-self-efficacy.md) — related
 - [VR improves motivation and performance of civil engineering students in a concrete structures course compared with traditional 2D drawings](vr-improves-motivation-performance-concrete-structures.md) — reports the opposite
 - [In a static group comparison, classes taught with the media achieved higher geometry scores than control classes](media-experiment-beat-control-geometry-achievement.md) — related
+- [Fellows reported high acceptance of the VR curriculum and both groups rated it as meeting their needs](high-acceptance-vr-curriculum.md) — related

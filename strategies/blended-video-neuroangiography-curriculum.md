@@ -45,6 +45,7 @@ The authors propose a curriculum structure in which an expert-narrated instructi
 - [Integrate simulation, case-based learning, and communication-focused training into pre-clinical delirium curricula](simulation-case-based-delirium-training.md)
 - [Illustrate Through Multiple Media](illustrate_through_multiple_media.md)
 - [Multimedia Design](multimedia-design.md)
+- [Use multimedia materials to support observation of complete cases and clinical decision-making](multimedia-support-complete-case-observation.md)
 
 ## Examples
 -

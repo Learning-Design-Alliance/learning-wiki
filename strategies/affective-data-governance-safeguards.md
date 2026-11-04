@@ -47,6 +47,7 @@ Whenever AI-supported teacher-development systems involve affective, behavioral,
 - [Ethical governance safeguards for robot-supported mental health education with children](ethical-safeguards-child-robot-mental-health-education.md)
 - [Address ethics and privacy considerations — transparency, security, student control, accountability, and informed consent — at the initial stages of MMLA design in simulation-based training](ethics-privacy-principles-mmla-simulator-design.md)
 - [Safeguard student privacy in learning analytics by involving students in tool creation, building contextualized explainable configurable analytics, and empowering student agency](three-trends-safeguarding-student-privacy-analytics.md)
+- [Three-level data protection mechanism for AI-SP privacy, informed consent, and legal risk management](ai-sp-three-level-data-protection.md)
 
 ## Examples
 -

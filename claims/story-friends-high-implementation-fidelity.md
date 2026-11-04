@@ -47,3 +47,4 @@ Trained observers scored a seven-item fidelity checklist of listening-center com
 ## Related Claims
 - [Educators reported high satisfaction with Story Friends, but some found repeated listens and scheduling challenging](story-friends-social-validity-teachers.md) — related
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — related
+- [All participating students completed 100% of simulation checklist items, supporting feasibility of the program.](simulation-checklist-completion-feasibility.md) — related

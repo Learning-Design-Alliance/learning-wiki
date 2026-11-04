@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 394 claims (179 for, 187 mixed, 28 against) · 297 studies (94 associational, 69 design, 48 causal, 45 review, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 25 of 297 report an effect size · 387 claims rest on one study
+> **Evidence** · 396 claims (180 for, 188 mixed, 28 against) · 299 studies (94 associational, 70 design, 49 causal, 45 review, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 25 of 299 report an effect size · 389 claims rest on one study
 
 ## Conditional relationship
 
@@ -468,6 +468,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Multigroup CFA supports configural and loading invariance across gender groups, but scalar and strict invariance could not be evaluated conclusively](../claims/multigroup-cfa-gender-invariance-partial.md) [~W]
 - [Faculty- and LLM-derived Angoff cutoff scores produced identical pass and fail classifications](../claims/identical-pass-fail-classifications-faculty-llm-angoff.md) [~W]
 - [Specific OSATS elements — gentleness, instrument handling, tissue exposure, and the summary score — significantly predict grade B/C delayed gastric emptying](../claims/osats-elements-gentleness-instrument-tissue-predict-dge.md) [+W]
+- [The six-point rating scale achieved slightly better inter-observer reliability than the five-point scale in real-time piloting](../claims/optis-six-point-scale-better-real-time-reliability.md) [~W]
+- [The checklist assessment showed strong interrater reliability, contributing validation evidence](../claims/checklist-interrater-reliability-kappa-0875.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

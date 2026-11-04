@@ -59,9 +59,11 @@ The strategy works through [Social Learning Theory](../theories/social-learning-
 6. Rotate pairings and contexts over several weeks to promote transfer beyond the original partner.
 
 ## Related Strategies
+
 - [Peer Tutoring](peer-tutoring.md) — a more structured reciprocal version where the model also takes instructional responsibility
 - [Cooperative Learning](cooperative-learning.md) — the group context in which role-model pairings most often live
 - [Mentoring](mentoring.md) — a longer-term, cross-age variant with an adult or older-student model
+- [Structure collaborative tasks intentionally to build social connections, not just content mastery, if cohesiveness is a goal](intentionally-structured-collaboration-for-cohesiveness.md)
 
 ## Examples
 - **Cooperative learning with role assignment (Johnson & Johnson's approach)** — heterogeneous teams are deliberately composed so that students with weaker collaboration skills work alongside skilled peers on shared tasks with group rewards contingent on every member's learning; see the [Cooperative Learning](../patterns/collaborative-learning.md) pattern.

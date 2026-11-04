@@ -54,3 +54,4 @@ The authors' stated finding from the Limitations section. They had assumed mento
 - [Family voices contributed to differentiating strong and weak organizational conditions across all essentials, not only Involved Families](family-voices-inform-all-essentials.md) — related
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [Intervention group candidates provided more detailed narratives about collaborating with parents while comparison group candidates primarily mentioned classroom teachers](family-collaboration-project-richer-narratives.md) — related
+- [Involving parents emerged as a novel instructional leadership factor not recognized in Hallinger and Murphy's model](parental-involvement-novel-il-factor-nepal.md) — related

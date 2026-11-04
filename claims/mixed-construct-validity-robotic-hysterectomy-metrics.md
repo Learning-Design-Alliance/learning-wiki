@@ -71,3 +71,4 @@ The review reports that Berges et al.'s simulator metrics "failed to achieve con
 - [Construct validity evidence shows statistically significant proficiency differences favouring junior over senior groups across modalities, though junior and senior residents did not differ on some metrics](simulation-construct-validity-junior-senior-differences.md) — related
 - [Final-product analysis and procedure time have mixed validity evidence and are unlikely to be useful in isolation as measures of technical proficiency](final-product-and-procedure-time-mixed-validity-adjunctive.md) — possibly the same claim (merge candidate)
 - [Time-limited tests are less equitable because speededness disproportionately impacts some groups](speededness-disproportionate-equity-impact.md) — related
+- [Competence knowledge and competence application are strongly but distinguishably correlated](competence-knowledge-application-correlated.md) — related

@@ -67,3 +67,4 @@ Welch's t-test comparison of time to first IM epinephrine in VR2; the article re
 - [Repeated exposure to an identical VR anaphylaxis scenario yields higher guideline-based checklist performance in the common assessment scenario than first-time exposure](repeated-identical-vr-exposure-higher-checklist-score.md) — related
 - [Time-based outcomes correlate strongly and negatively with overall checklist performance](time-outcomes-negative-correlation-performance.md) — related
 - [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](simulation-vr-improves-thyroid-surgery-technical-performance.md) — a broader claim this one bears on
+- [SBS-trained students outperform VBT-trained students on technical skills in a simulated perioperative anaphylaxis scenario one week after training](sbs-better-technical-skills-simulated-scenario.md) — related

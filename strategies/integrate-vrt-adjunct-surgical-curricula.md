@@ -51,6 +51,7 @@ The article concludes that virtual reality training could provide a useful train
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
 - [Use self-directed simulator practice as an adjunct to early colonoscopy training, with future curricula adding targeted instructor feedback](self-directed-simulator-adjunct-colonoscopy-training.md)
 - [Hybrid model: initial VR training for procedural familiarity followed by supervised hands-on practice](hybrid-vr-then-hands-on-thoracentesis-model.md)
+- [Incorporate hands-on clinical simulation with low-fidelity task trainers into basic science curricula to bridge theoretical knowledge and clinical application](hands-on-clinical-simulation-basic-science-strategy.md)
 
 ## Examples
 -

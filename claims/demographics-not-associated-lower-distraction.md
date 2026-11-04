@@ -78,3 +78,4 @@ Independent samples t-test comparing digital distraction between male and female
 - [Female participants tended to outperform male participants in online SRL, while no substantial age differences were found](gender-difference-online-srl-females.md) — related
 - [Student personal and educational characteristics (gender, age, grade, GPA, courses taken, SAE type) were descriptively profiled for the 102 participants in the two groups](participant-characteristics-oklahoma-animal-science-students.md) — related
 - [Test-group students rated the mobile AR application very positively: 92% found it helpful for learning, 89% interactive, 86% positive about wider course use, and only 4% distracted](positive-student-ratings-mobile-ar-application.md) — related
+- [Metacognitive knowledge of study strategies does not differ meaningfully across demographic groups](no-demographic-differences-metacognitive-knowledge.md) — related

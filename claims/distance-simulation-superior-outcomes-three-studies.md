@@ -101,3 +101,5 @@ Study of 11 novice surgical trainees evaluating a virtual classroom training pla
 - [Simulation-based training significantly improves surgical trainees' time to completion, technical errors, skills scores and theoretical knowledge in heart valve surgery](sbt-improves-valve-surgery-trainee-outcomes.md) — related
 - [Simulation-based training should be incorporated into surgical curricula targeting novice learners](simulation-training-should-be-incorporated-into-curricula.md) — related
 - [Simulation-based training significantly improves technical performance and accelerates skill acquisition in robotic surgery](simulation-training-improves-technical-performance.md) — related
+- [PainScan training produces superior pain assessment skill development compared to on-site training](painscan-superior-skill-development-vs-onsite.md) — related
+- [There is a limit to adaptability and competency development via telementoring when task complexity is high: mediastinal POCUS was less responsive to telementored feedback than lung POCUS](telementoring-complexity-ceiling-mediastinal-pocus.md) — related

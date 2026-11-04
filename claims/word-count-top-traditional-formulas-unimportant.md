@@ -91,3 +91,5 @@ Variable importance comparison within the same random forest: Custom Magnitude 2
 - [GPT-4 revision of educational math content improves readability metrics but yields mixed K-12 learning outcomes, with improved mastery in some content areas and higher error rates in others](gpt4-rewritten-math-content-mixed-outcomes.md) — related
 - [Readability levels of film narrations were found to be at or near the theoretical reading level of the intended audience.](film-narration-readability-matches-audience.md) — related
 - [Readability formulas measure stylistic qualities and miss content readability, so they cannot substitute for editorial judgment](readability-formulas-miss-content-readability.md) — related
+- [ChatGPT-5.1 generates EUS answers with significantly lower linguistic complexity (GFI, SMOG) than DeepSeek-R1 and Gemini 2.5 Flash](chatgpt-lower-gfi-smog-readability.md) — related
+- [All EUS-generated LLM texts show low Flesch Reading Ease scores, indicating substantial reading difficulty](low-fre-llm-pharmacy-texts.md) — related

@@ -47,3 +47,4 @@ Authors' interpretation in the discussion, not a tested result of the meta-analy
 ## Related Claims
 - [Guided Notes Improve Note Accuracy](guided-notes-improve-note-accuracy.md) — related
 - [The authors propose, without testing it here, that competitive environments may provide clear goals, structures, and rewards that foster engagement, particularly for students less familiar with such environments](competitive-environments-clear-goals-engagement-interpretation.md) — a broader claim this one bears on
+- [Student–teacher relationship processes may be one proximal mechanism through which school-level moderation of genetic associations with achievement operates, though this was not tested directly](school-level-moderation-hypothesis.md) — possibly the same claim (merge candidate)

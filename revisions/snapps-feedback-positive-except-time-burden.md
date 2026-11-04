@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/snapps-feedback-positive-except-time-burden.md
+---
+
+# Revision history: [claims/snapps-feedback-positive-except-time-burden](../claims/snapps-feedback-positive-except-time-burden.md)
+
+### 2026-11-04 · ingest · process:wiki-ingest
+Ingested from pmc-13479979 (Impact of SNAPPS-based teaching on diagnostic accuracy and academic achievement in pathology residents.) via eval_harness.py + ingest_extractions.py

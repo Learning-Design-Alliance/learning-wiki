@@ -50,3 +50,4 @@ Perception study reported within the review: in Koney et al.'s survey after a fu
 - [First-year podiatry students felt unprepared for cadaver dissection and experienced significant negative reactions](cadaver-dissection-unprepared-negative-reactions.md) — related
 - [Students preferred e-models used alongside physical models, suggesting digital tools alone may not fully replace traditional methods](e-models-preferred-alongside-physical-models.md) — possibly the same claim (merge candidate)
 - [81.9% of students endorsed the Anatomage as realistic compared to cadaveric dissection, with 'somewhat realistic' (67.0%) exceeding 'very realistic' (14.9%)](anatomage-realism-compared-to-cadaveric-dissection.md) — related
+- [Medical students prefer viewing anatomy on pinned cadavers over digital images during practical exams](students-prefer-pinned-cadavers-over-digital-images-practical-exams.md) — related

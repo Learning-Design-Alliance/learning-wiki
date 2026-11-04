@@ -50,3 +50,4 @@ Anonymous 6-point Likert questionnaires (58 experimental, 60 control valid) comp
 - [Students rate SDH-integrated CBL higher on content relevance, thinking training, and competence relevance, and lower perceived artificial integration](sdh-cbl-satisfaction-organic-integration.md) — related
 - [SDH-integrated CBL improves history taking and medical record writing versus CBL alone (d = 0.54–0.60)](sdh-integrated-cbl-improves-history-taking-documentation.md) — related
 - [Video-production experiential teaching raises self-perceived core health education competencies more than lecture-based instruction](video-production-experiential-teaching-raises-self-perceived-competencies.md) — related
+- [First-year medical students in an integrated NM-PAL model reported significantly higher overall self-reported core competency scores than lecture-based peers over 10 months](nm-pal-higher-self-reported-core-competence.md) — related

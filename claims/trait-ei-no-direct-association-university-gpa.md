@@ -62,3 +62,7 @@ Null direct association between global trait EI (TEIQue) and GPA in this sample,
 - [The authors argue academic grades are an unsuitable performance measure of EI in medical school because EI relates more to interpersonal and professional performance](grades-unsuitable-ei-measure-medical-school.md) — related
 - [Health sciences students experience emotional intelligence as self-awareness and emotional regulation that develops over time rather than as an innate trait](ei-self-awareness-regulation-developmental-qualitative.md) — related
 - [Academic achievement correlates positively with all five antecedent conditions in the sample](positive-correlations-five-antecedents-achievement.md) — related
+- [Attitude, Motivation, and Test Strategies subscales did not predict academic outcomes in this sample](attitude-motivation-test-strategies-no-prediction.md) — related
+- [Knowledge, academic self-efficacy, and self-directed learning readiness are positively correlated](knowledge-self-efficacy-sdlr-positive-correlations.md) — related
+- [Mindfulness correlates positively and significantly with trait emotional intelligence in Portuguese adolescents](mindfulness-positive-correlation-trait-ei-adolescents.md) — related
+- [Trait EI is positively associated with well-being but not significantly with school results in adolescents](trait-ei-well-being-not-school-results.md) — related

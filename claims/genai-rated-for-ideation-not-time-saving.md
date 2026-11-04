@@ -82,3 +82,5 @@ Section-level post-course ratings in the intervention cohort: flipped-learning c
 - [Radical changes from the flipped model, new software, and a research-and-production lesson sequence constitute a major challenge for students accustomed to traditional methods](flipped-radical-change-challenges-traditional-learners.md) — related
 - [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related
 - [Participants rated the BOPPPS-PBL teaching model highly, with a mean teaching-effectiveness score of 56.43 ± 5.17 out of 60](boppps-pbl-high-teaching-effectiveness-ratings.md) — related
+- [Students in the flipped group rated the method as beneficial with a median benefit scale value of 4 out of 5](flipped-learning-benefit-median-four.md) — related
+- [Students rate the simulation program highly acceptable and useful, with the simulation component rated most useful.](simulation-high-acceptability-ratings.md) — related

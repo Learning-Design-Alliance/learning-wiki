@@ -61,3 +61,5 @@ Descriptive direction-of-effect synthesis across haptic simulator RCTs; the revi
 - [An augmented reality bracket navigation system enhanced bracket placement accuracy for novice orthodontists compared with a conventional method](ar-bracket-navigation-enhances-novice-placement-accuracy.md) — related
 - [Feedback improves balloon placement accuracy and yields a smoother learning curve in simulated renal artery angioplasty](feedback-angioplasty-accuracy-learning-curve.md) — related
 - [Simulation-based training should be incorporated into surgical curricula targeting novice learners](simulation-training-should-be-incorporated-into-curricula.md) — related
+- [Immediate feedback on incorrect operations and surgical step prompts are the most valued learning resources](cataract-vsim-feedback-prompts-most-valued.md) — related
+- [Observed group differences likely reflect the combined influence of modality, self-directed structure, feedback format, and instructor involvement, not VR technology alone](vr-acupuncture-confounded-comparison.md) — related

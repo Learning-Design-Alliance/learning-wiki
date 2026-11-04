@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 132 claims (78 for, 49 mixed, 5 against) · 100 studies (42 associational, 30 causal, 21 review, 4 quant-synthesis, 2 design, 1 theoretical), `q1`–`q3` · 25 of 100 report an effect size · 130 claims rest on one study
+> **Evidence** · 138 claims (83 for, 50 mixed, 5 against) · 105 studies (44 associational, 33 causal, 21 review, 4 quant-synthesis, 2 design, 1 theoretical), `q1`–`q3` · 25 of 105 report an effect size · 136 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -179,6 +179,12 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Tertiary First Step improves parenting efficacy but not parental distress within the intervention group](../claims/tertiary-first-step-parenting-outcomes-mixed.md) [+W]
 - [Students' confidence in explaining and making space management decisions increased after the module.](../claims/space-management-confidence-gains-dental.md) [+W]
 - [Total 21st-century skills correlate moderately with teacher self-efficacy (r = 0.49) and attitudes toward teaching (r = 0.35) among preservice teachers](../claims/21c-skills-correlations-self-efficacy-attitudes.md) [~W]
+- [The relations of household chaos and clinic support with mother–child conflict are fully mediated by teaching self-efficacy, while perceived stress is only partially mediated](../claims/teaching-self-efficacy-mediation-of-conflict-pathways.md) [+W] — attached 2026-11-04 from de Jong Peter F.; Zee Marjolein (2026), which proposed "Parents' teaching self-efficacy as a proximal mechanism linking parental and contextual factors to parent–child conflict during homework".
+- [Knowledge, academic self-efficacy, and self-directed learning readiness are positively correlated](../claims/knowledge-self-efficacy-sdlr-positive-correlations.md) [+W]
+- [Trainees report greater confidence with ultrasound-guided than with landmark-based cannulation for both IJV and RA access](../claims/trainees-greater-confidence-ultrasound-guided-cannulation.md) [+W]
+- [Video-assisted PBL enhances academic self-efficacy more than traditional PBL](../claims/video-assisted-pbl-enhances-academic-self-efficacy.md) [+W]
+- [Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills.](../claims/simulation-increases-clinical-confidence.md) [+W]
+- [Perceived confidence in CPR skill retention improved markedly between 3 and 6 months in both groups](../claims/retention-confidence-self-report-trajectory.md) [~W]
 
 ## The evidence by question
 

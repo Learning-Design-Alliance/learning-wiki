@@ -50,3 +50,4 @@ Self-efficacy analysis on 159 students in the VR pipetting experiment using a mi
 - [Exploratory correlations suggest embodiment was specifically relevant in the re-experiencing group, correlating with written procedural knowledge and post-test self-efficacy](embodiment-correlations-re-experiencing-group.md) — related
 - [Prompts increased learners' self-efficacy during learning within the prompted group but did not produce between-group differences at mid-learning or post-learning](prompts-increase-self-efficacy-during-learning.md) — related
 - [The mixed VR intervention and the information-session-only intervention both produced positive effects on phonetographic surface, vocal effort, and self-efficacy](both-interventions-improve-phonetographic-surface-vocal-effort-self-efficacy.md) — related
+- [Students in the VR group reported more positive learning experiences than controls across all 11 feedback items](vr-acupuncture-positive-learning-experience.md) — related

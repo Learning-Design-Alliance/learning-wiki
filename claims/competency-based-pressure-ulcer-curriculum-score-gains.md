@@ -48,3 +48,4 @@ The review reports, from van Zuilen et al.'s four-year mandatory competency-base
 - [Medical students and interns poorly identified pressure ulcer risk in a patient-safety simulation](poor-pressure-ulcer-risk-identification-room-of-horrors.md) — related
 - [Interprofessional teams identified pressure ulcer risks better than individuals in a simulation study](interprofessional-teams-better-pressure-ulcer-hazard-identification.md) — related
 - [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related
+- [Nurses' correct response rates vary by MDT topic, highest for benefits and lowest for enzyme secretion and pressure-ulcer suitability](mdt-knowledge-item-level-gaps.md) — related

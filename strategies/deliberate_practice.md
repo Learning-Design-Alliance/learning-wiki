@@ -60,9 +60,11 @@ Deliberate practice reframes practice time as a design problem: the quality of t
 6. Distribute future practice of the component over time rather than massing it ([Spaced Repetition](../elements/spaced-repetition.md)).
 
 ## Related Strategies
+
 - [Spaced Practice](../principles/spaced-learning.md) — distributes deliberate practice sessions for durable retention
 - [Mastery Learning](mastery-learning.md) — holds learners at a component until criteria are met before advancing
 - [Retrieval Practice](retrieval-practice-activities.md) — a deliberate practice variant for memory-based learning goals
+- [Use deliberate practice with repeated case-based engagement and immediate feedback for assessment skill training](deliberate-practice-case-based-pain-assessment-training.md)
 
 ## Examples
 - **Ericsson's violin study** — the original research compared practice histories of elite, good, and teacher-track violinists at the Berlin academy, finding elite performers had accumulated far more hours of structured, teacher-guided practice.

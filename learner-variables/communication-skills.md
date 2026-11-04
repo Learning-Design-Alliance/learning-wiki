@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 152 claims (103 show a difference, 27 mixed, 22 no difference) · 123 studies (47 causal, 25 review, 20 quant-synthesis, 16 associational, 6 design, 5 theoretical, 4 qualitative), `q1`–`q4` · 21 of 123 report an effect size · 149 claims rest on one study
+> **Evidence** · 154 claims (104 show a difference, 28 mixed, 22 no difference) · 125 studies (47 causal, 25 review, 20 quant-synthesis, 17 associational, 6 design, 6 theoretical, 4 qualitative), `q1`–`q4` · 21 of 125 report an effect size · 151 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -193,6 +193,8 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Synectics workshops significantly increase perceived supportive communication skills, retained three months later](../claims/synectics-improves-supportive-communication-skills.md) [+M] — instruction changes it
 - [Most learners reported the session improved their confidence in caring for post-ROSC patients, communication, and leadership skills](../claims/learners-reported-session-improved-skills.md) [+M] — measured as an outcome of the instruction studied
 - [A pilot subsample showed improved communication skills in the patient-in-classroom group, but this finding is preliminary](../claims/patient-in-classroom-communication-pilot.md) [+M] — measured as an outcome of the instruction studied
+- [Structurally designed AI-SPs are noninferior to human SPs in communication skill improvement, with unique advantages for self-efficacy](../claims/ai-sp-noninferior-communication-skills.md) [+M] — measured as an outcome of the instruction studied
+- [Undergraduate psychiatry students report that traditional methods are insufficient for mastering non-verbal cues](../claims/psychiatry-students-report-traditional-methods-insufficient-for-nonverbal-cues.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

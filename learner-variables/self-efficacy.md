@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 254 claims (189 show a difference, 36 mixed, 29 no difference) · 206 studies (67 causal, 61 associational, 32 review, 19 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 44 of 206 report an effect size · 250 claims rest on one study
+> **Evidence** · 264 claims (197 show a difference, 37 mixed, 30 no difference) · 211 studies (68 causal, 65 associational, 32 review, 19 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 45 of 211 report an effect size · 260 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -285,6 +285,16 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Perceived climate for innovation negatively moderates the creative self-efficacy–clinical competence association, weakening it as climate improves](../claims/innovation-climate-negative-moderation-cse-competence.md) [~W] — learners who differ on it differ in outcomes
 - [A renal biopsy simulation workshop significantly increased fifth-year medical students' self-perceived ability to perform renal biopsy](../claims/renal-biopsy-simulation-workshop-increased-student-confidence.md) [+M] — measured as an outcome of the instruction studied
 - [The microskill stepwise progression model is associated with higher self-reported perceived competence in specific procedural skills after FDR correction.](../claims/microskill-stepwise-progression-higher-perceived-competence-items.md) [+W] — measured as an outcome of the instruction studied
+- [Full-time students, students with better-staffed placements, and students with well-functioning assigned supervision report higher perceived competencies](../claims/placement-conditions-associated-safety-competencies.md) [+M] — measured as an outcome of the instruction studied
+- [Greater clinical experience was independently associated with higher confidence in applying SCL-acquired knowledge to clinical practice](../claims/clinical-experience-predicts-confidence-scl-application.md) [+M] — measured as an outcome of the instruction studied
+- [Higher perceived stress and household chaos are associated with lower teaching and parental self-efficacy in mothers of children with dyslexia](../claims/stress-and-chaos-associated-with-lower-maternal-self-efficacy-dyslexia-homework.md) [+M] — measured as an outcome of the instruction studied
+- [Higher-quality support from the dyslexia clinic is associated with higher teaching self-efficacy, more strongly than with parental self-efficacy](../claims/clinic-support-associated-with-higher-teaching-self-efficacy.md) [+M] — measured as an outcome of the instruction studied
+- [Nursing students report higher perceived patient safety competencies in clinical settings than in academic settings, with small effect sizes](../claims/nursing-students-higher-safety-competencies-clinical-than-academic.md) [+M] — measured as an outcome of the instruction studied
+- [Only mothers' teaching self-efficacy is independently associated with the amount of mother–child conflict during homework](../claims/teaching-self-efficacy-independently-associated-with-mother-child-conflict.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived patient safety competencies correlate positively with clinical learning environment quality across all six domains](../claims/safety-competencies-correlate-cles-quality.md) [+M] — measured as an outcome of the instruction studied
+- [Self-efficacy negatively moderates the association between educational appropriateness and both competence outcomes, with weaker positive associations among managers with higher self-efficacy](../claims/self-efficacy-moderates-educational-appropriateness-competence.md) [~M] — an instructional effect differs with it
+- [Self-reported confidence with module skills did not differ significantly within the PGY1 cohort over the year or between end-of-year PGY1 and control residents](../claims/self-confidence-no-significant-difference-modules.md) [-M] — measured as an outcome of the instruction studied
+- [Unfinished nursing care is weakly negatively correlated with perceived patient safety competencies](../claims/unfinished-care-negative-correlation-safety-competencies.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

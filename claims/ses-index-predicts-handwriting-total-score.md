@@ -51,3 +51,4 @@ Mixed-model analysis of the same sample found a significant socioeconomic index 
 ## Related Claims
 - [Gender and socioeconomic differences in handwriting are concentrated in kinematic components](gender-ses-effects-kinematic-components.md) — a narrower finding that bears on this claim
 - [Higher socioeconomic index predicts better pressure scores, but gender does not](ses-predicts-pressure-scores-gender-does-not.md) — related
+- [Higher socioeconomic status was associated with increased caries risk in this sample](higher-ses-associated-increased-caries-risk.md) — related

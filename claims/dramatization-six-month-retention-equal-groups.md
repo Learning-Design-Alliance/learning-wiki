@@ -51,3 +51,4 @@ Six months after instruction, all 42 students completed a third assessment of ca
 - [All three GPA-based groups retained significantly more science knowledge than the control group six months after instruction](gpa-science-retention-six-months-advantage.md) — related
 - [Self-reported confidence in knowledge increased in both groups after dramatization](dramatization-increases-student-confidence.md) — related
 - [No significant instructional-group effects were detected at the six-month follow-up assessment](no-follow-up-group-effects.md) — related
+- [Knowledge retention after simulation varies by item type: cellular and genetic concepts are less retained than procedural or physiological ones.](simulation-retention-varies-by-concept-type.md) — related

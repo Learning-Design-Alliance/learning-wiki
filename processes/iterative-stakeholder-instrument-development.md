@@ -17,7 +17,7 @@ sources:
 # Iterative, stakeholder-informed instrument development cycle
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 11 claims (9 for, 2 mixed) · 8 studies (7 design, 1 associational), `q1`–`q3` · 0 of 8 report an effect size · 11 claims rest on one study
+> **Evidence** · 13 claims (11 for, 2 mixed) · 10 studies (8 design, 1 causal, 1 associational), `q1`–`q3` · 0 of 10 report an effect size · 13 claims rest on one study
 
 ## Description
 This development pattern adapts an intervention-development framework to build a descriptive clinical instrument through repeated cycles of drafting, expert consultation, piloting, feasibility testing, and refinement, with patients, patient representatives, therapists, and researchers involved throughout. The article lists the steps: "(1) a literature review; (2) defining the construct and determining a theoretical framework; (3) initial selection of questions and prompts; (4) expert consultation; (5) piloting the interview; (6) conducting a feasibility study; and (7) refining the interview." An initial pool of 201 open-ended questions was clustered and reduced to 116 items, then through expert marking and discussion to successive drafts of 32 and finally 26 questions. The process ran from June 2022 to January 2025.
@@ -53,6 +53,8 @@ This development pattern adapts an intervention-development framework to build a
 - [Item generation for the CRCDCS combined a deductive systematic literature review (21 studies yielding 10 items) with inductive conventional content analysis of semi-structured interviews with 15 ICU nurses (yielding 20 items, 7 subcategories, and 3 principal categories).](../claims/crcdc-item-generation-deductive-inductive.md) [~W]
 - [Face validity assessment with 10 ICU nurses using the Impact Score formula led to removal of two items that demonstrated inconsistent interpretations of abstract concepts or partial conceptual overlap.](../claims/crcdc-face-validity-impact-score.md) [~W]
 - [Content validity evaluation of the preliminary 30-item CRCDCS indicated CVR values from 0.40 to 1.00 with nine items below the 0.62 threshold removed, and I-CVI values from 0.80 to 1.00 for retained items.](../claims/crcdc-content-validity-cvr-icvi.md) [+W]
+- [Content validity of OPTIS was established through five consecutive rounds of expert feedback involving 18 experts](../claims/optis-content-validity-expert-rounds.md) [+W]
+- [The facial nerve anatomy knowledge test showed high reliability with KR20 of 0.96 after pilot removal of two questions](../claims/facial-nerve-test-kr20-reliability.md) [+W]
 
 ## Related Patterns
 - [Cimi M Clinical Interview](../products/clinical-interview-for-moral-injurymilitary-version.md)

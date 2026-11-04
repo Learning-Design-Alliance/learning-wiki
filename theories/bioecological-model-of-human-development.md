@@ -12,7 +12,7 @@ generated:
 # Bioecological Model of Human Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 40 claims (24 for, 15 mixed, 1 against) · 34 studies (17 associational, 7 review, 6 quant-synthesis, 4 theoretical), `q1`–`q3` · 6 of 34 report an effect size · 38 claims rest on one study
+> **Evidence** · 42 claims (25 for, 16 mixed, 1 against) · 35 studies (18 associational, 7 review, 6 quant-synthesis, 4 theoretical), `q1`–`q3` · 6 of 35 report an effect size · 40 claims rest on one study
 
 ## Description
 Urie Bronfenbrenner's bioecological model holds that human development results from **proximal processes** — "stimulating, regular face-to-face interactions over extended periods with people, objects, or symbols" (Bronfenbrenner, 1994) — that realize a person's biological, psychological, and social potential. A parent shaping a child through parenting behaviors, modeling, and encouragement is a proximal process. Development is **transactional and bidirectional**: children affect their immediate contexts as much as contexts affect children — insecurely attached children are more emotionally demanding, and language-delayed children elicit less verbal exchange from adults.
@@ -81,6 +81,8 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 - [Quality of teacher-child interactions and teachers' feedback in pre-kindergarten classrooms is associated with children's academic, language, and social outcomes](../claims/teacher-child-interaction-quality-associated-with-prek-outcomes.md) [+W]
 - [Parents' school involvement and perceptions of teacher responsiveness are related to children's academic and social competence in pre-kindergarten](../claims/parent-involvement-teacher-responsiveness-prek-competence.md) [+W]
 - [Quality of family relationships, not number of adults in the family, matters for adolescents' motivation and achievement](../claims/family-relationship-quality-over-family-structure.md) [+W]
+- [Student–teacher relationship processes may be one proximal mechanism through which school-level moderation of genetic associations with achievement operates, though this was not tested directly](../claims/school-level-moderation-hypothesis.md) [~W]
+- [All three student–teacher relationship dimensions at age 5 are positively associated with educational performance at ages 6–8](../claims/strs-dimensions-predict-educational-performance.md) [+W]
 
 ## The evidence by question
 - *Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?* [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](../claims/parent-involvement-improves-achievement.md) [+M]

@@ -51,3 +51,4 @@ Reflexive thematic analysis following Braun and Clarke's six-phase framework on 
 - [Students rated Remote Anatomage Teaching as more engaging than regular theory classes (76.6% combined positive response)](rat-more-engaging-than-regular-classes.md) — related
 - [Thematic analysis of students' open-ended responses identified four themes about the blended course experience, including that LXD enhanced engagement and that the teacher's use of multiple solution strategies had pedagogical value](qualitative-four-themes-blended-lxd.md) — related
 - [Remote Anatomage Teaching via a smart digital podium is technically feasible for large-group anatomy lectures without interruption](rat-technically-feasible-large-group-lectures.md) — related
+- [Students preferred face-to-face delivery over virtual delivery for both CBL and GBL](face-to-face-preferred-over-virtual.md) — related

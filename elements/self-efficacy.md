@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 116 claims (66 for, 41 mixed, 9 against) · 102 studies (38 associational, 35 causal, 16 review, 8 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 31 of 102 report an effect size · 111 claims rest on one study
+> **Evidence** · 119 claims (69 for, 41 mixed, 9 against) · 104 studies (38 associational, 37 causal, 16 review, 8 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 31 of 104 report an effect size · 114 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -164,6 +164,9 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Motivation and self-efficacy showed no impact on source-based essay scores in preliminary analyses](../claims/motivation-self-efficacy-no-impact-source-based-essays.md) [-W]
 - [Within-group gains over time occurred in both groups for academic performance, but only the embodied learning group showed significant within-group gains in attitudes and self-efficacy.](../claims/el-within-group-gains-three-outcomes.md) [+W]
 - [Early social media adoption is associated with higher grade repetition, lower likelihood of an excellent grade-8 mark, and lower academic self-efficacy, but not with upper-secondary track choice](../claims/early-social-media-secondary-academic-outcomes.md) [-W]
+- [Knowledge, academic self-efficacy, and self-directed learning readiness are positively correlated](../claims/knowledge-self-efficacy-sdlr-positive-correlations.md) [+W]
+- [Video-assisted PBL enhances academic self-efficacy more than traditional PBL](../claims/video-assisted-pbl-enhances-academic-self-efficacy.md) [+W]
+- [VR training increased confidence on all 4 perceived competence scale items, while small group training increased only 2 of 4](../claims/vr-confidence-gains-all-pcs-items.md) [+W]
 
 ## The evidence by question
 

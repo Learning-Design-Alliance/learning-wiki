@@ -60,3 +60,4 @@ Narrative synthesis of a limited number of cognitive–psychological studies; th
 - [High-fidelity simulation particularly enhances core clinical competencies such as CPR, infection control, and diagnostic reasoning](high-fidelity-simulation-enhances-core-competencies.md) — related
 - [IPE interventions show significant improvements in role clarity, communication skills, and teamwork dynamics](ipe-improves-role-clarity-communication-teamwork.md) — related
 - [Team training programs in hospitals produce sustained improvements in teamwork knowledge, skills, attitudes, and behaviors on the job, up to 12 months after training](team-training-sustained-ksa-transfer-hospitals.md)
+- [Perceived confidence in CPR skill retention improved markedly between 3 and 6 months in both groups](retention-confidence-self-report-trajectory.md) — related

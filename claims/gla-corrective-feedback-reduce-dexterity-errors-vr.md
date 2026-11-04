@@ -50,3 +50,4 @@ Dexterity analysis on 146 participants (six extreme outliers excluded) in the VR
 - [Corrective feedback plus either GLA significantly improved students' safety behavior in VR, with no difference between re-experiencing and self-explaining](gla-corrective-feedback-improve-safety-vr.md) — related
 - [Both GLA groups showed a large, significant increase in pipetting self-efficacy, with no difference between conditions](gla-self-efficacy-increase-vr.md) — related
 - [Self-explaining led to significantly higher written procedural knowledge than re-experiencing, opposite to the hypothesized direction](self-explaining-better-written-procedural-knowledge.md) — related
+- [Students in the VR group reported more positive learning experiences than controls across all 11 feedback items](vr-acupuncture-positive-learning-experience.md) — related

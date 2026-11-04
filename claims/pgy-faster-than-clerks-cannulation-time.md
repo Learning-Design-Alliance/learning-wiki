@@ -50,3 +50,4 @@ Mann-Whitney U comparison of post-training procedure time between Clerk (n = 22)
 - [Willingness to attempt US-guided cannulation before calling for help increased from 7.5 to 10 after training](us-training-willingness-7-5-to-10.md) — related
 - [PGY trainees also reported significantly lower stress with ultrasound guidance and a non-significant confidence increase](pgy-trainees-lower-stress-us-guidance.md) — related
 - [Ultrasound guidance improves PVC placement outcomes versus conventional methods primarily in DIVA patients](ultrasound-guidance-improves-pvc-outcomes-diva.md) — related
+- [High-fidelity simulation and procedural simulation workshops yield similar cannulation times for VA-ECMO training](high-fidelity-vs-procedural-simulation-ecmo-cannulation-time.md) — related

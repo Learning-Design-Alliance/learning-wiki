@@ -73,3 +73,5 @@ Post hoc comparison across the four pretest/posttest by group conditions in the 
 - [Flipped classroom instruction produced significantly better post-test writing scores than traditional instruction among Iraqi EFL sophomores](fci-improves-iraqi-efl-writing-posttest.md) — related
 - [Prior EFL flipped-classroom studies report positive but partly non-significant performance effects](prior-flipped-efl-studies-mixed-performance-evidence.md) — related
 - [Online-based writing instruction produces equivalent overall essay performance gains compared to classroom-based instruction for ESL students](online-lms-writing-instruction-equivalent-gains.md) — related
+- [Flipped classroom produced significantly higher adjusted post-test knowledge scores than lecture-based learning in a fluids and electrolytes course (partial η² = 0.65)](flipped-classroom-higher-posttest-knowledge-nursing-rct.md) — related
+- [Both groups improved significantly from pretest to posttest, but improvement was significantly greater in the flipped classroom condition](flipped-rct-greater-within-group-gain.md) — related

@@ -27,7 +27,8 @@ A Meta Quest 3 and edge-cloud-based virtual-reality platform developed by Ronghu
 - [The prototype maintains total end-to-end latency of 3-5 seconds between query completion and RAG-generated response delivery](../claims/hdr-vr-platform-3-5-second-latency.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [PainEaseVR](paineasevr.md)
 
 ## Key Sources
 - Ronghua Xu, Kepha Barasa, Manoj Kumal, Xinyun Liu, Weihua Zhou, Xin Qian. (2026). Agentic AI-driven Immersive Simulation: A Knowledge-Aware Virtual Training Platform for High Dose Rate (HDR) Brachytherapy. arXiv. https://arxiv.org/abs/2608.08163

@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 78 claims (39 for, 38 mixed, 1 against) · 58 studies (24 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 58 report an effect size · 73 claims rest on one study
+> **Evidence** · 82 claims (42 for, 39 mixed, 1 against) · 61 studies (27 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 61 report an effect size · 77 claims rest on one study
 
 ## Description and scope
 
@@ -151,6 +151,7 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [SDH integration does not compromise theoretical knowledge, physical examination, or diagnostic analysis versus CBL alone](../claims/sdh-integration-preserves-core-clinical-knowledge.md) [~W] — attached 2026-11-04 from Wen Zhi et al. (2026), which proposed "Embed SDH into core CBL components rather than appending it, to build social health competence without crowding out core knowledge".
 - [A CBCL session on spinal infection was feasible and well accepted in a Brazilian radiology residency program](../claims/cbcl-feasible-accepted-brazilian-radiology-residency.md) [+W] — attached 2026-11-04 from Montague Steven et al. (2026), which proposed "CBCL session pattern: pre-session preparation, small groups of four, and a three-step individual–group–plenary case sequence".
 - [No significant difference between CBL-3D and traditional teaching in qualitative diagnosis of focal liver lesions](../claims/cbl-3d-reconstruction-no-gain-qualitative-diagnosis.md) [~W] — attached 2026-11-04 from Wu Yanyan et al. (2026), which proposed "Combining CBL with 3D image reconstruction as a clinical teaching model for spatially complex ultrasound skills".
+- [Case review-based learning improves orthodontic examination scores compared with lecture-based learning](../claims/cbl-improves-orthodontic-exam-scores.md) [+W] — attached 2026-11-04 from Gao Jie et al. (2026), which proposed "Structured longitudinal case review model linking each treatment stage to theoretical knowledge"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -192,6 +193,9 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 - [The CBL group perceived assessment as significantly more appropriate, with no other CEQ subscale differences](../claims/cbl-improves-perceived-assessment-appropriateness.md) [+W]
 - [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](../claims/flipped-classroom-cbl-improves-concept-and-application-questions.md) [~W]
 - [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](../claims/genai-progressive-disclosure-cbl-final-exam.md) [~W]
+- [Students rated the integrated VP session positively, with role modelling (M = 4.44) and varied case practice (M = 4.35) rated higher than “what-if” discussions (M = 3.76)](../claims/positive-perceptions-vp-role-modelling-varied-cases-what-if.md) [+W]
+- [Students reported that stepwise build-up in case complexity and recognition of similar reasoning steps across cases supported transfer](../claims/stepwise-complexity-similar-reasoning-steps-themes.md) [+W]
+- [Students preferred face-to-face delivery over virtual delivery for both CBL and GBL](../claims/face-to-face-preferred-over-virtual.md) [~W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)

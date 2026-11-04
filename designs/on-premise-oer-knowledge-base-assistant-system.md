@@ -43,7 +43,8 @@ A three-subsystem architecture comprising an LMS Layer, a Knowledge Base Layer w
 - [Nf4 Quantization Vram Reduction](../claims/nf4-quantization-vram-reduction.md) [+M]
 
 ## Related Designs
-- 
+
+- [Four-module system architecture for AI-SPs: LLM core, affective computing, personality modulation, and safety guardrails](ai-sp-four-module-system-architecture.md)
 
 ## Examples
 -

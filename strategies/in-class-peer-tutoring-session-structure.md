@@ -52,6 +52,7 @@ The implemented strategy embedded tutoring within the 50-minute English class: t
 
 - [Peer Teaching](peer-teaching.md)
 - [Implement CWPT through daily peer-tutoring sessions with points, teams, and weekly testing](cwpt-daily-session-team-points-recipe.md)
+- [Standardize recruitment and training of peer tutors to maintain pedagogical rigor in peer-assisted learning](standardize-peer-tutor-recruitment-and-training.md)
 
 ## Examples
 -

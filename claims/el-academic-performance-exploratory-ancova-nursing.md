@@ -47,3 +47,4 @@ Prespecified baseline-adjusted one-way ANCOVA with Bonferroni correction (α=0.0
 ## Related Claims
 - [Embodied learning instruction produced large, baseline-adjusted improvements in nursing students' attitudes toward educational measurement compared to traditional lectures.](el-attitudes-large-ancova-effect-nursing.md) — related
 - [Embodied learning instruction produced large, baseline-adjusted improvements in nursing students' self-efficacy perceptions toward measurement and evaluation compared to traditional lectures.](el-self-efficacy-large-ancova-effect-nursing.md) — related
+- [Students in the VR group reported more positive learning experiences than controls across all 11 feedback items](vr-acupuncture-positive-learning-experience.md) — related

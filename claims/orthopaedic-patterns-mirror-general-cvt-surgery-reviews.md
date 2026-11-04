@@ -49,3 +49,4 @@ Narrative comparison in the discussion, attributing the pattern to the authors' 
 - [Validity evidence for procedure-specific orthopaedic surgery assessment tools is low, with total scores ranging from 1 to 9 of a maximum of 15](orthopaedic-procedure-specific-tools-low-validity-evidence.md) — a broader claim this one bears on
 - [Across the five validity domains, tools scored highest on content and very poorly on consequences, with 15 of 24 tools scoring 0 in the consequences domain](validity-domains-content-highest-consequences-lowest.md) — a narrower finding that bears on this claim
 - [Most identified assessment tools demonstrate construct or concurrent validity, but predictive validity is absent across tool categories](construct-validity-common-predictive-absent.md) — related
+- [Validity evidence for the CBL module was gathered across six domains, with internal structure supported by significant quiz gains](cbl-meningitis-six-domain-validity.md) — related

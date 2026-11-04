@@ -52,3 +52,4 @@ Human expert evaluation with 20 teachers rating all three systems; the article r
 - [In Experiment 2, the heuristic worked examples condition significantly affected socio-discursive MAS, with maximal worked examples descriptively best and no significant post-hoc differences](maximal-worked-examples-descriptively-best-socio-discursive-mas.md) — related
 - [The revised Round II grading workflow reduced AI over-awarding and total-score MAD, most clearly for OE1 (7.1% to 4.8%) and QM (9.4% to 3.8%)](revised-workflow-reduces-overawarding-mad.md) — related
 - [Teachers qualitatively preferred MAS-CMD activities for creativity, real-world context, and classroom-ready completeness](teachers-prefer-mas-cmd-creativity-context-completeness.md) — related
+- [IADE confusion rates showed a nominally significant omnibus difference of negligible magnitude not corroborated by pairwise analysis](iade-confusion-nominal-omnibus-negligible.md) — related

@@ -48,3 +48,4 @@ Thematic analysis of free-text comments, four focus groups (n = 8–10 students 
 - [Alternating simulation scenarios with bedside teaching lets students practice less harmful examinations on real patients and invasive or rejected items on simulators, ensuring patient safety](alternating-simulation-bedside-patient-safety.md) — related
 - [Students perceive that early clinical exposure improves problem-solving and confidence, and many redefine their understanding of professionalism](ece-perceived-problem-solving-professionalism-confidence.md) — related
 - [Junior doctors apply anatomical knowledge throughout patient consultations, often without conscious awareness](anatomical-knowledge-applied-throughout-consultations.md) — related
+- [Students perceive simulation practice as a protective factor that enhances confidence, safety, and readiness for real procedures](simulation-perceived-protective-factor-confidence.md) — related

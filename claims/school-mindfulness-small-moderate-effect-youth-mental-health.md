@@ -58,3 +58,5 @@ Systematic meta-analysis of studies from PsycINFO, ERIC, Social Work Abstracts, 
 - [Many students reported stress, anxiety and related wellbeing challenges while studying online, with over 50% of respondents naming stress or anxiety as key challenges](stress-anxiety-over-half-lockdown-students.md) — related
 - [A school-based social-emotional skills program produced significant pre-post gains in interpersonal relationships and defining goals, while a waiting-list group showed no significant change](isc-program-improves-interpersonal-relationships-and-goal-definition.md) — a narrower finding that bears on this claim
 - [CALM participants improved in mindful observation compared to controls](calm-improves-mindful-observation.md) — a narrower finding that bears on this claim
+- [Mindfulness shows no significant direct relationship with school results or well-being in adolescents](mindfulness-no-direct-effect-school-results-well-being.md) — related
+- [No gender variations in the relationship between mindfulness and well-being](no-gender-moderation-mindfulness-well-being.md) — related

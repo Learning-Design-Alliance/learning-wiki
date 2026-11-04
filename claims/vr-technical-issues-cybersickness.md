@@ -54,3 +54,4 @@ Break-reason and symptom data from the randomized trial. In the VR group, 23 (82
 - [VR sickness in the system is minimal overall (SSQ total 12.88), with nausea lowest and oculomotor symptoms most significant](photon-fusion-minimal-vr-sickness-ssq.md) — related
 - [Immersion in the virtual classroom did not induce unwanted negative side effects (cybersickness)](vr-immersion-no-cybersickness.md) — reports the opposite
 - [Motion sickness remains a disagreeable side effect of IVR serious games for a minority of participants](ivr-sgs-motion-sickness-side-effect.md) — related
+- [Cybersickness increases over time in VR simulation regardless of movement condition](cybersickness-increases-over-time-vr.md) — related

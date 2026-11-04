@@ -51,3 +51,6 @@ Procedure opportunities were tracked via observation and video review across the
 - [E-learning improves nurses' skills in continuing education, but effects are mixed, with worse defibrillation performance under long-distance learning and lower first-attempt cannulation success with computer-based simulation](e-learning-nurse-skills-mixed-effects.md) — related
 - [AccuTouch VR simulator training improved live fibreoptic intubation performance in inexperienced paediatric residents, reducing time to intubation from 5.15 to 0.88 minutes](accutouch-training-improves-live-intubation-time.md) — related
 - [Competency-based simulation training outperforms noncompetency-based simulation for procedural skill outcomes in health professionals (moderate pooled effect)](competency-simulation-beats-noncompetency-procedural-skills.md) — related
+- [Time to first defibrillation is numerically shorter in the app group but not statistically significant](app-numerical-earlier-defibrillation-trend.md) — related
+- [Fellows reported high acceptance of the VR curriculum and both groups rated it as meeting their needs](high-acceptance-vr-curriculum.md) — related
+- [No significant performance difference between VR and small group fellows on any of the 4 individual tracheostomy emergency cases](vr-small-group-no-case-level-difference.md) — related

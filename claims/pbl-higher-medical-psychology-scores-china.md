@@ -52,3 +52,4 @@ Systematic review and meta-analysis of nine studies (551 cases, 496 controls) co
 - [No single study affected the statistically significant PBL advantage in sensitivity analysis](pbl-advantage-robust-to-single-study-removal.md) — related
 - [Students were generally satisfied with the PBL approach across the included studies](pbl-medical-psychology-student-satisfaction.md) — related
 - [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — a narrower finding that bears on this claim
+- [Online PBL was associated with higher student satisfaction than in-person PBL in a Japanese medical cohort](online-pbl-higher-satisfaction-japanese-cohort.md) — related

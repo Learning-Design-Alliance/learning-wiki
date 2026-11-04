@@ -57,3 +57,4 @@ Random-effects pooling of the 3 included studies that reported comprehensive que
 - [PBL and LBL show no significant difference in comprehensive scores in surgical education](pbl-lbl-no-difference-comprehensive-scores-surgery.md) — reports the opposite
 - [The CBL group performed significantly better on the final exam than the non-CBL group](cbl-improves-final-exam-performance-biochemistry.md) — related
 - [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](genai-progressive-disclosure-cbl-final-exam.md) — related
+- [Case review-based learning improves orthodontic examination scores compared with lecture-based learning](cbl-improves-orthodontic-exam-scores.md) — related

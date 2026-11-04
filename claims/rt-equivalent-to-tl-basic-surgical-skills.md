@@ -53,3 +53,4 @@ Thematic synthesis of 12 RT studies (7 basic, 5 advanced) in a systematic review
 - [Telesimulation and remote-facilitated paediatric simulation achieved outcomes comparable to in-person training](telesimulation-comparable-in-person-outcomes.md) — a broader claim this one bears on
 - [Retention of knowledge over time showed no statistically significant difference between e-learning and traditional learning in the studies that assessed it](el-tl-knowledge-retention-no-difference.md) — related
 - [Flipped and traditional groups did not differ in basic technology competencies](flipped-classroom-no-technology-competency-difference.md) — related
+- [There is a limit to adaptability and competency development via telementoring when task complexity is high: mediastinal POCUS was less responsive to telementored feedback than lung POCUS](telementoring-complexity-ceiling-mediastinal-pocus.md) — related

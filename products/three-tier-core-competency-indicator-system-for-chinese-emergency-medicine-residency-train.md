@@ -25,7 +25,8 @@ A Chinese expert-developed hierarchical framework of five first-level, fourteen 
 - [A two-round modified Delphi process with 19 emergency experts produced a three-tier core competency indicator system of 5 first-level, 14 second-level and 34 third-level indicators for emergency residency training in China](../claims/delphi-emergency-residency-indicator-system-5-14-34.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [19-indicator Delphi-developed Knowledge-Skills-Attitude (KSA) self-report scale for first-year medical students' core competence](19-indicator-delphi-developed-knowledge-skills-attitude-ksa-self-report-scale-for-first-ye.md)
 
 ## Key Sources
 - Yu Caixia, Guo Wanwei, Yu Linna, Huang Chongming, Zhao Guoxiang. (2026). Development of core competency indicators for emergency medicine residents based on the competency model: a Delphi and analytic hierarchy process study. BMC Medical Education. https://doi.org/10.1186/s12909-026-09876-3

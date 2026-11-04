@@ -47,3 +47,4 @@ Independent-samples t-test on a 6-item, 7-point Likert satisfaction questionnair
 ## Related Claims
 - [Students in a LinkedIn group community scored significantly higher on overall satisfaction than control group students](linkedin-group-higher-satisfaction.md) — related
 - [Elementary ESL students taught vocabulary with the MPS on an interactive whiteboard achieved significantly higher post-test scores than students taught with a blackboard](mps-iwb-higher-esl-vocabulary-posttest.md) — related
+- [Satisfaction item-level differences favor GBL on participation and expectations items](gbl-item-level-satisfaction-advantages.md) — related

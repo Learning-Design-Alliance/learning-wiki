@@ -18,7 +18,7 @@ sources:
 # Include parents, teachers, or mentors in any self-regulation intervention and support their own skills and coaching capacity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (13 for, 9 mixed, 1 against) · 29 studies (15 quant-synthesis, 6 causal, 5 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 12 of 29 report an effect size · 16 claims rest on one study
+> **Evidence** · 24 claims (14 for, 9 mixed, 1 against) · 30 studies (15 quant-synthesis, 6 causal, 5 review, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 12 of 30 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,7 @@ Adult knowledge, adult practice, the young person's regulation with the adult pr
 - [Coaching produced no additional experimental gains on teacher self-reported efficacy or stress, and no significant pre-post ODR changes appeared in the full sample](../claims/no-coaching-effect-on-teacher-self-reports.md) [-W]
 - [Positive changes were also observed in the parents of PCMC-A children, including parenting stress, confidence, and observed parent-child interaction](../claims/pcmc-a-parent-outcome-changes.md) [+W]
 - [Schools and volunteers welcomed the programme, but full school engagement and parental engagement were challenging to secure](../claims/sarp-implementation-challenges.md) [~W]
+- [Most SM interventions involved training and indirect work with parents and school staff rather than direct work with the child](../claims/sm-indirect-delivery-dominant.md) [+W]
 
 ## Related Principles
 - [Self-Regulated Learning](self-regulated-learning.md) — owns the general relationship between teaching planning, monitoring and acting and the learner's regulation; this page adds the adults around the learner.

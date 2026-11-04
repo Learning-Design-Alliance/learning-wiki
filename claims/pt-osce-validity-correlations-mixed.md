@@ -91,3 +91,4 @@ Single cross-sectional simulation study (Silva et al. 2011) comparing a six-stat
 - [The correlation between number of questions answered and attainment shift was only very slight (r = 0.13; r = 0.10), so the relationship was not clearly linear](weak-correlation-questions-attainment-shift.md) — related
 - [The GISA shows moderately strong convergent validity with the six RISE subtests (r = .71 to .77)](gisa-convergent-validity-rise-subtests.md) — related
 - [The indicator system's predictive validity — whether scores correlate with clinical performance and patient outcomes — remains unverified and requires future multi-center testing](indicator-system-predictive-validity-unverified.md) — related
+- [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](osce-correlates-self-reported-competence.md) — related

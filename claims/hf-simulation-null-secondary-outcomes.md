@@ -80,3 +80,4 @@ Retention analysis of four RCTs measuring knowledge three months after training.
 - [High-fidelity simulation yields higher student satisfaction and self-confidence in learning than low-fidelity models](hfs-3d-printer-moulage-higher-satisfaction-selfconfidence.md) — reports the opposite
 - [Nursing students report high satisfaction and self-confidence after hybrid simulation training](high-satisfaction-self-confidence-hybrid-simulation-nursing.md) — related
 - [Simulation alone significantly improves satisfaction and self-confidence within both groups regardless of feedback condition](simulation-alone-improves-satisfaction-both-groups.md) — reports the opposite
+- [Perceived confidence in CPR skill retention improved markedly between 3 and 6 months in both groups](retention-confidence-self-report-trajectory.md) — related

@@ -68,3 +68,4 @@ Between-group ANOVA comparison at baseline and immediately after training found 
 - [Mannequin-based and combined simulation produce higher non-technical skill scores than computer simulation alone after ACLS training](scenario-simulation-beats-computer-for-nontechnical-skills.md) — related
 - [Mannequin and combined simulation groups maintain consistently higher non-technical skill scores than the computer group across all five follow-up assessments](nontechnical-advantage-persists-across-timepoints.md) — related
 - [Digital effectiveness depends on the skill taught: virtual training matched face-to-face for suturing and knot-tying, but computer-based learning fell short for CPR](skill-type-moderates-digital-effectiveness-suturing-cpr.md) — reports the opposite
+- [Time to first defibrillation is numerically shorter in the app group but not statistically significant](app-numerical-earlier-defibrillation-trend.md) — related

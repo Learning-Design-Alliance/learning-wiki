@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 80 claims (51 for, 27 mixed, 2 against) · 58 studies (24 causal, 14 quant-synthesis, 8 associational, 7 review, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 13 of 58 report an effect size · 78 claims rest on one study
+> **Evidence** · 81 claims (52 for, 27 mixed, 2 against) · 59 studies (25 causal, 14 quant-synthesis, 8 associational, 7 review, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 13 of 59 report an effect size · 79 claims rest on one study
 
 ## Description and scope
 
@@ -185,6 +185,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Blended learning achieves higher hospital OSPE scores than traditional lectures in practical immunohematology training](../claims/blended-learning-higher-hospital-ospe-immunohematology.md) [+M]
 - [Nursing students report high satisfaction and self-confidence after hybrid simulation training](../claims/high-satisfaction-self-confidence-hybrid-simulation-nursing.md) [~W]
 - [Most nurses are willing to attend frailty training and prefer blended online-offline formats, short sessions, and practice-oriented content](../claims/nurses-frailty-training-preferences.md) [+W]
+- [The performance gap between blended-teaching and control groups widens significantly over the course of the intervention](../claims/rg-uclass-performance-gap-widens-over-time.md) [+W]
 
 ## Examples
 

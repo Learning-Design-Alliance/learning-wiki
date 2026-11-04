@@ -51,3 +51,4 @@ The review attributes this finding to Schurger & Sher (2008), reporting that par
 - [In standard free-choice wagering schemes only the lowest and highest wagers are ever optimal](free-choice-only-extreme-wagers-optimal.md) — related
 - [Most four-cell PDW payoff matrices fulfill the intuitive wagering-on-correctness properties](four-cell-matrices-fulfill-wagering-on-correctness-properties.md) — related
 - [Free-choice wager designs vary widely in wager categories and often match other instruments](free-choice-designs-wager-categories-and-instrument-matching.md)
+- [PointSolutions wagering questions help keep poorly performing teams engaged in review games](wager-questions-engagement.md) — related

@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 104 claims (30 for, 34 mixed, 40 against) · 94 studies (37 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 2 associational, 2 design), `q1`–`q4` · 17 of 94 report an effect size · 96 claims rest on one study
+> **Evidence** · 107 claims (32 for, 34 mixed, 41 against) · 96 studies (39 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 2 associational, 2 design), `q1`–`q4` · 17 of 96 report an effect size · 99 claims rest on one study
 
 ## Description and scope
 
@@ -226,6 +226,9 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Embodied learning instruction produced large, baseline-adjusted improvements in nursing students' attitudes toward educational measurement compared to traditional lectures.](../claims/el-attitudes-large-ancova-effect-nursing.md) [+W]
 - [No statistically significant difference in procedural performance between VR and slideshow lecture groups](../claims/vr-slideshow-similar-procedural-performance-usg-lp.md) [~W]
 - [Residents taught with CBL plus 3D reconstruction report higher satisfaction than residents taught with traditional lectures across all five survey domains](../claims/cbl-3d-reconstruction-higher-satisfaction-liver-ultrasound.md) [+W]
+- [Both flipped learning and traditional teaching significantly improved facial nerve anatomy knowledge within groups, with no statistically significant difference between the groups](../claims/flipped-learning-facial-nerve-no-between-group-difference.md) [+W]
+- [Microscopic image interpretation scores showed a borderline between-group difference favoring the integrated PBL and medical humanities group over LBL](../claims/integrated-pbl-humanities-borderline-microscopic-interpretation.md) [-W]
+- [Integrated PBL and medical humanities teaching produced no significant between-group difference in post-intervention theoretical examination scores compared with LBL](../claims/integrated-pbl-humanities-no-difference-theoretical-scores.md) [+W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

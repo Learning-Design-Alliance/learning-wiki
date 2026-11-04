@@ -50,3 +50,4 @@ Secondary correlational analysis using publicly available psychometric data for 
 - [GPT-3.5 performed worst on open one-point exam questions, while GPT-4 improved mainly on multiple-choice items](gpt35-weak-open-one-point-questions.md) — related
 - [ChatGPT answered unsupervised web-based MCQ assessments with a mean accuracy of 70% (range 35–100%)](chatgpt-wba-mcq-mean-70-percent.md) — related
 - [GPT-4 significantly outperforms the average Dutch student on VWO English reading comprehension, scoring 8.3 (March) and 8.1 (June) without re-prompting](gpt4-outperforms-average-student-english-exams.md) — related
+- [Human examinees who took the PES during the analyzed years achieved a mean score of 57.64%](human-examinees-mean-score-57-64-percent.md) — related

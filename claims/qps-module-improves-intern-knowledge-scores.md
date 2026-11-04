@@ -49,3 +49,4 @@ One-arm quasi-experimental study of 166 postgraduate medical interns completing 
 - [The QPS module significantly improves interns' self-assessed knowledge efficacy, with the largest gain in hospital error reporting knowledge](qps-module-improves-knowledge-efficacy.md) — related
 - [The QPS module significantly improves interns' overall systems thinking as measured by the Systems Thinking Scale](qps-module-improves-systems-thinking-sts.md) — related
 - [Participation in patient safety training is associated with higher self-reported patient safety competency](safety-training-higher-psc.md) — related
+- [A case-based learning module on pediatric bacterial meningitis produced statistically significant pre/post knowledge gains in postgraduate learners](cbl-pediatric-meningitis-knowledge-gains.md) — related

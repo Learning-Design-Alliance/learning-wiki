@@ -65,3 +65,4 @@ Quasi-experiment at KAU Community College: two parallel classes taught by routin
 - [EFL students using Web 2.0 learner-created content scored significantly higher on a vocabulary post-test than a lecture-based control group](web2-learner-content-vocabulary-posttest-gain.md) — related
 - [Blended teaching produces higher academic achievement than traditional teaching in a psychological diseases course](blended-teaching-higher-academic-achievement-medical-students.md) — related
 - [Students taught with an eclectic learning approach achieved significantly higher post-test scores in English than students taught with a traditional learning approach.](eclectic-approach-higher-english-achievement.md) — related
+- [Students receiving RG-UClass-based blended teaching consistently outperform traditionally taught peers on pre-course, in-class, and post-course tests](rg-uclass-blended-teaching-higher-stage-test-scores.md) — related

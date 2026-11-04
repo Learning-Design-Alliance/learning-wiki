@@ -44,7 +44,8 @@ The authors propose a design recipe for future research: studies should measure 
 - [No planning deficits were found in adolescents with MDD in either of the two studies assessing planning](../claims/no-planning-deficits-mdd-adolescents.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use behavioral data alongside self-report measures when assessing trait mindfulness in adolescents](behavioral-data-trait-mindfulness-assessment.md)
 
 ## Examples
 -

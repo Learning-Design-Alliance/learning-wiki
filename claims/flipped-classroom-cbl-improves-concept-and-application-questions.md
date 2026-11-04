@@ -55,3 +55,4 @@ The article's results text, contradicted in part by its Table 2:
 - [Emerging teaching methods (PBL, CBL, FC) significantly improve dental students' exam scores compared to lecture-based learning](emerging-methods-improve-dental-exam-scores.md) — a broader claim this one bears on
 - [Lower-baseline residents show larger score gains after flipped classroom combined with CBL](flipped-classroom-cbl-larger-gains-lower-baseline-residents.md) — related
 - [Stress-dose hydrocortisone dosing accuracy improved from 42.9% to 93.9% after the simulation](stress-dose-dosing-improved-simulation.md) — related
+- [Both CBL and GBL in a virtual flipped classroom produce significant within-group knowledge gains over time](cbl-gbl-virtual-flipped-significant-gains.md) — a broader claim this one bears on

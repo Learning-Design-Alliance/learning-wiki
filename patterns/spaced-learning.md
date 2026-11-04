@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 86 claims (34 for, 47 mixed, 5 against) · 64 studies (33 causal, 14 review, 7 quant-synthesis, 3 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 15 of 64 report an effect size · 81 claims rest on one study
+> **Evidence** · 88 claims (36 for, 47 mixed, 5 against) · 65 studies (33 causal, 14 review, 7 quant-synthesis, 4 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 15 of 65 report an effect size · 83 claims rest on one study
 
 ## Description
 
@@ -107,6 +107,8 @@ Twenty-one more were linked to this page by the orphan-claim linker after that a
 - [When the orienting task prevented interitem associations, the within-list lag effect was attenuated after long retention intervals and this attenuation was not a floor effect](../claims/lag-effect-eliminated-long-retention-no-associations.md) [~W] — read 2026-10-19: which encoding processes carry the within-list lag effect, lab word lists; mechanism, no schedule choice
 - [With constant judgment standards, the same-different orienting task at repetitions did not affect the within-list lag effect, arguing against inattention and encoding-variability explanations](../claims/same-different-task-no-lag-interaction.md) [~W] — read 2026-10-19: rules out two explanations of the lag effect; mechanism, no schedule choice
 - [A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition](../claims/within-list-lag-persists-with-interitem-associations.md) [~W] — read 2026-10-19: same experiments; the lag effect lasted a week when learners linked items to one another, a mechanism result from incidental word lists that the wiki does not carry to a design choice
+- [Robotic simulation technical performance (OSATS) declines significantly after training gaps of roughly three months or more](../claims/robotic-simulation-osats-decay-after-training-gap.md) [+W] — attached 2026-11-04 from Nunez-Rocha RE et al. (2026), which proposed "Schedule structured simulation refreshers near the three-month mark to sustain robotic surgical readiness"; tests this page's relationship.
+- [Task completion time worsens after training gaps, with efficiency loss evident by six months](../claims/robotic-simulation-efficiency-loss-by-six-months.md) [+W] — attached 2026-11-04 from Nunez-Rocha RE et al. (2026), which proposed "Schedule structured simulation refreshers near the three-month mark to sustain robotic surgical readiness"; tests this page's relationship.
 
 ## Elements
 

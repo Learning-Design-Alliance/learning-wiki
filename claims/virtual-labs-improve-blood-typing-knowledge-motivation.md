@@ -54,3 +54,5 @@ Quasi-experimental study of first-year medical students in Indonesia using virtu
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — related
 - [Only the combined condition outperformed the control condition on a test of chemistry knowledge](combined-condition-only-outperformed-control-chemistry.md) — related
 - [Students perceived that HoloLens increased engagement, but immersion was fragile and contingent on technical reliability and physical comfort](hololens-engagement-fragile-immersion.md) — related
+- [Students' best virtual simulation scores are significantly higher than their initial scores](cataract-vsim-best-scores-higher-than-initial.md) — related
+- [Simulation-based biochemistry teaching yields significantly greater theoretical knowledge gains than traditional practical instruction](simulation-greater-theoretical-knowledge-gains-biochemistry.md) — related

@@ -55,3 +55,5 @@ The review's conceptual specification of an affective pathway within digital sel
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
 - [Restrictive digital-use policies may reduce short-term exposure while doing less to build long-term self-regulatory capacity](restrictive-policies-reduce-exposure-not-capacity.md) — related
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
+- [Regulatory difficulty in digital engagement is negatively associated with achievement motivation in adolescents (β = −0.330)](regulatory-difficulty-negative-achievement-motivation.md) — related
+- [Regulatory difficulty in digital engagement is positively associated with total aggression in adolescents (β = 0.380)](regulatory-difficulty-positive-total-aggression.md) — related

@@ -51,3 +51,4 @@ Narrative synthesis of 17 satisfaction studies, mostly item-by-item survey compa
 - [Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results](vp-attitudes-satisfaction-mixed.md) — possibly the same claim (merge candidate)
 - [Evidence comparing virtual patient design variants is too sparse to give clear recommendations, with only isolated significant design effects](vp-design-variants-insufficient-evidence.md) — related
 - [Students valued VSP convenience but rated realism and feedback value below human standardized patients](vsp-student-feedback-convenience-high-realism-low.md) — a narrower finding that bears on this claim
+- [Over 90% of residents responded positively to most feedback items, but about 57% were neutral or negative on time required](snapps-feedback-positive-except-time-burden.md) — related

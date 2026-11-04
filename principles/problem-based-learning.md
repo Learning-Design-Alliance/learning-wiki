@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 140 claims (59 for, 71 mixed, 10 against) · 84 studies (32 quant-synthesis, 20 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 21 of 84 report an effect size · 135 claims rest on one study
+> **Evidence** · 145 claims (60 for, 75 mixed, 10 against) · 86 studies (32 quant-synthesis, 22 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 21 of 86 report an effect size · 140 claims rest on one study
 
 ## Conditional relationship
 
@@ -238,6 +238,11 @@ At the curriculum level, the expectation of a small and variable average should 
 - [PBL participants completed problem-solving tasks cooperatively, with after-class discussion the most frequent task and up to 89% extending learning after class](../claims/pbl-task-self-reports-cooperative-problem-solving.md) [~W]
 - [Reading comprehension was significantly positively correlated with active English learning attitudes in the PBL group but not in the non-PBL group](../claims/rc-attitude-correlation-pbl-only.md) [~W]
 - [PBL participants spent significantly more weekly time reading English texts than non-PBL participants during the treatment](../claims/pbl-increases-out-of-class-reading-time.md) [~W]
+- [Both PBL formats improve knowledge versus conventional teaching](../claims/pbl-improves-knowledge-versus-conventional-teaching.md) [+W]
+- [Video-assisted PBL enhances self-directed learning readiness more than traditional PBL](../claims/video-assisted-pbl-enhances-self-directed-learning-readiness.md) [~W]
+- [Video-assisted PBL enhances academic self-efficacy more than traditional PBL](../claims/video-assisted-pbl-enhances-academic-self-efficacy.md) [~W]
+- [Integrated PBL and medical humanities teaching produced no significant between-group difference in post-intervention theoretical examination scores compared with LBL](../claims/integrated-pbl-humanities-no-difference-theoretical-scores.md) [~W]
+- [Video-assisted PBL yields higher pediatric nursing knowledge than traditional PBL and conventional teaching](../claims/video-assisted-pbl-higher-pediatric-knowledge.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

@@ -75,3 +75,4 @@ Item-level and scale-level content validity indices computed after expert review
 - [Face validity assessment with 10 ICU nurses using the Impact Score formula led to removal of two items that demonstrated inconsistent interpretations of abstract concepts or partial conceptual overlap.](crcdc-face-validity-impact-score.md) — related
 - [The DKSCQ-N demonstrates strong content validity with a scale-level Content Validity Index of 0.95 following expert review and item refinement.](dkscqn-content-validity-s-cvi-095.md) — related
 - [Content validity of the HSPNCS is acceptable (S-CVI/Ave 0.972)](hspncs-acceptable-content-validity.md) — related
+- [Content validity of OPTIS was established through five consecutive rounds of expert feedback involving 18 experts](optis-content-validity-expert-rounds.md) — related

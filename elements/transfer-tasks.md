@@ -13,7 +13,7 @@ generated:
 # Transfer Tasks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (8 for, 8 mixed, 1 against) · 22 studies (14 causal, 3 quant-synthesis, 2 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 8 of 22 report an effect size · 13 claims rest on one study
+> **Evidence** · 19 claims (9 for, 9 mixed, 1 against) · 23 studies (15 causal, 3 quant-synthesis, 2 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 9 of 23 report an effect size · 15 claims rest on one study
 
 ## Description
 A transfer task asks learners to apply what they have learned to a new problem, context, or situation that differs in surface features from the original instruction. It functions both as an assessment of whether learning is flexible rather than rote and as an instructional event that itself deepens abstraction of the underlying principle.
@@ -64,6 +64,8 @@ Transfer tasks are the primary way to verify and build far transfer, since perfo
 - [In experiment 1, novel movement transitions were performed better in the Compatible and Incompatible groups than in the New group, while initially learned transitions were retained better in the Same group.](../claims/exp1-learned-novel-transition-performance.md) [~W]
 - [The largest experimental–control difference appeared at the specific transfer level](../claims/hypertext-text-specific-transfer-advantage.md) [+W]
 - [Students across all conditions demonstrated significant pre-post learning gains on near-transfer physics questions, but not on far-transfer questions](../claims/significant-near-transfer-learning-gains-all-conditions.md) [~W]
+- [Tumour-stage reasoning improved significantly for both near transfer (r = 0.75) and far transfer (r = 0.78)](../claims/tumour-stage-reasoning-gains-near-far-transfer.md) [+W]
+- [Initial patient impressions improved significantly for far transfer (r = 0.73) but not for near transfer (p = 0.12)](../claims/initial-impressions-far-transfer-gain.md) [~W]
 
 ## The evidence by question
 

@@ -51,3 +51,4 @@ ANCOVA comparison of post-rotation OSCE scores between the conventional (n = 118
 - [The association between iHEC-integrated teaching and OSCE performance remained stable across sequentially adjusted sensitivity models (6.48–6.85 points)](ihec-osce-robustness-sensitivity.md) — related
 - [Post-rotation educational satisfaction was higher in the iHEC cohort than in the conventional cohort](ihec-higher-satisfaction.md) — related
 - [Self-directed learning partially mediated the association between iHEC teaching model and educational performance, accounting for 51.4% of the total association](sdl-partial-mediation-ihec-performance.md) — related
+- [The 10-minute two-station four-domain modified OSCE is more sensitive than the end-of-rotation comprehensive score in detecting key competency differences from pathway-driven training.](modified-osce-more-sensitive-than-comprehensive-score.md) — related

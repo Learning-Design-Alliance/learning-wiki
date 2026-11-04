@@ -46,6 +46,7 @@ Quasi-experiment comparing 84 students in three experiment-treatment macro secti
 
 
 ## Related Claims
+
 - [Experiment-based learning is most effective when adopted as the dominant course strategy rather than an occasional technique](experiment-learning-needs-dominant-strategy.md) — a broader claim this one bears on
 - [Multifaceted EBP interventions combining lectures, computer sessions, small-group discussions, journal clubs, and assignments were more likely to improve knowledge, skills, and attitudes than single interventions or no intervention](multifaceted-ebp-interventions-improve-competence.md) — a broader claim this one bears on
 - [A longitudinal multifaceted EBM curriculum for medical students significantly increased Berlin questionnaire and Fresno test knowledge scores over two and three years](west-longitudinal-ebm-curriculum-knowledge-gains.md) — related
@@ -55,3 +56,5 @@ Quasi-experiment comparing 84 students in three experiment-treatment macro secti
 - [Both the flipped-learning group and the lecture-based control group showed statistically significant within-group gains from pre-test to post-test](within-group-significant-gains-both-groups.md) — related
 - [Cooperative learning produced significantly higher overall learning motivation than lecture-based teaching in a nine-week Vietnamese higher education course](cooperative-learning-higher-motivation-vietnamese-higher-ed.md) — related
 - [A longitudinal small-group EBM intervention improved medical students' overall attitudes and skills scores across three assessment points over 15 months](longitudinal-small-group-attitudes-skills-gains.md) — related
+- [Intervention group achieved significantly higher post-intervention total EBM scores than control group (13.11 vs 10.12)](intervention-group-higher-post-test-total-ebm.md) — related
+- [Brief single-session basic education alone produced no statistically significant score changes over 12 months](basic-education-no-significant-change.md)

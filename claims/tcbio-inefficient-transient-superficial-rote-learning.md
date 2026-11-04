@@ -48,3 +48,4 @@ Cognition sub-theme of the teacher-centred interview analysis: "'inefficient lea
 - [Students who perceive assessment demands as assessing deep, higher-level cognitive processing employ deep approaches, while those perceiving rote-recall demands employ surface approaches](perceived-assessment-demands-approaches.md) — related
 - [Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence](task-completion-weak-proxy-competence.md) — related
 - [Students in the teacher-centred group reported boredom, a need for repetition, and ineffective time management](tcbio-students-report-boredom-repetition-time-management.md) — related
+- [Distance education was perceived to negatively affect both professional competencies and critical thinking skills](distance-education-negative-effects-competencies-ct.md) — related

@@ -38,7 +38,7 @@ grain_size: unit, course
 # Experiential Learning Cycle
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 26 claims (13 for, 10 mixed, 3 against) · 46 studies (15 quant-synthesis, 13 causal, 9 review, 5 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 46 report an effect size · 16 claims rest on one study
+> **Evidence** · 27 claims (14 for, 10 mixed, 3 against) · 47 studies (15 quant-synthesis, 14 causal, 9 review, 5 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 47 report an effect size · 17 claims rest on one study
 
 ## Description and scope
 
@@ -162,6 +162,7 @@ This pattern is scoped to repeated loops of experience, prompted debrief, stated
 - [Post-assessment debriefing supported positive effects on non-technical skills ability in four studies](../claims/debriefing-positive-effect-on-nts-ability.md) [~W]
 - [Students taught with the Experiential Learning Approach scored significantly higher on the Mathematical Creativity Test than students taught with Conventional Teaching Methods](../claims/ela-higher-mathematical-creativity-than-ctm.md) [+W]
 - [Lab findings on reflection may not transfer to authentic classroom environments](../claims/lab-class-transfer-caution-reflection-quizzing.md) [~W]
+- [Students perceived reflective “what-if” discussions and peer dialogue around VP feedback as supporting abstraction of underlying principles](../claims/what-if-peer-dialogue-abstraction-perceptions.md) [+W]
 
 ## Related Patterns
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — shares the reflection and articulation stages, but leads with expert modeling rather than learner experience

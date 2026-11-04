@@ -43,6 +43,7 @@ To reduce bias due to shared method variance, the authors recommend that future 
 ## Related Strategies
 
 - [Combine standardized tests and naturalistic classroom observations (mixed methods) when assessing oral communicative competence](mixed-methods-assessment-oral-communicative-competence.md)
+- [Use behavioral data alongside self-report measures when assessing trait mindfulness in adolescents](behavioral-data-trait-mindfulness-assessment.md)
 
 ## Examples
 -

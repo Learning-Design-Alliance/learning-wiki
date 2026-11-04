@@ -61,3 +61,4 @@ A survey of 42 participants from various study programs completed the ten-item S
 - [Students rated the VR-IWS highly usable, with a mean SUS score of 85.36](vr-iws-sus-usability-85.md) — related
 - [Simulation interventions showed positive usability and feasibility, with technical preparation needs sometimes causing non-completion](usability-feasibility-technical-issues.md) — related
 - [93% of students rated usability and control as important to their learning](usability-and-control-rated-important-by-93-percent.md) — a narrower finding that bears on this claim
+- [Students rate the simulation program highly acceptable and useful, with the simulation component rated most useful.](simulation-high-acceptability-ratings.md) — related

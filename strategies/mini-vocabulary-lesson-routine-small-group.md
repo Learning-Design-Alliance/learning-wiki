@@ -41,6 +41,7 @@ For students struggling with vocabulary during additional small-group reading in
 - [Vocabulary Instruction Small Groups](vocabulary-instruction-small-groups.md)
 - [Tier Two Vocabulary Instruction](tier_two_vocabulary_instruction.md)
 - [Vocabulary Instruction](explicit-vocabulary-instruction.md)
+- [Run standardized 60-minute simulation workshops in small groups of 5 with a fixed sequence of introduction, demonstration, supervised practice, and feedback](standardized-small-group-simulation-workshop-sequence.md)
 
 ## Examples
 -

@@ -114,3 +114,6 @@ Meta-analysis of 2 studies (162 students) on the critical thinking disposition i
 - [A CBCL session on spinal infection was feasible and well accepted in a Brazilian radiology residency program](cbcl-feasible-accepted-brazilian-radiology-residency.md) — related
 - [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
 - [Integrated online-PBL-CBL teaching improves six DOPS procedural dimensions but not overall DOPS performance](online-pbl-cbl-dops-six-dimensions-improved.md) — related
+- [Instructors show higher willingness to adopt CBL than LBL for future clinical teaching](cbl-higher-instructor-adoption-willingness.md) — related
+- [CBL is associated with improved learning interest and self-directed learning ability](cbl-improves-interest-self-directed-learning.md) — related
+- [Students taught with integrated PBL and medical humanities reported significantly higher learning motivation, self-directed learning ability, and communication and expression skills than LBL students](integrated-pbl-humanities-higher-motivation-self-directed-communication.md) — related

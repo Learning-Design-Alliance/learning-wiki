@@ -50,3 +50,4 @@ This is a correlational finding reported from the prior Louw et al. (2008) study
 - [Computer-adaptive quizzing software (PassPoint, PrepU) showed a statistically significant positive relationship with NCLEX-RN success (Pence & Wood, 2018)](computer-adaptive-quizzing-nclex-success-relationship.md) — related
 - [The article reports that usage of specialized software increased the positive effect of CAE on mathematics achievement](specialized-software-increased-cae-effect.md) — related
 - [Homework system use and performance showed weak positive correlations (.2 < r < .4) with TerraNova scaled scores, and 65% of variance in homework time was accounted for by schools](weak-correlations-homework-use-achievement.md) — related
+- [No significant correlation between total platform usage time and score improvement](cataract-vsim-usage-time-no-correlation.md) — reports the opposite

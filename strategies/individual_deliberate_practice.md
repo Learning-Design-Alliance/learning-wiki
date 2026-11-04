@@ -61,9 +61,11 @@ Deliberate practice differs from mere repetition: it targets identified weakness
 6. Gradually reintegrate sub-skills into whole-task performance and raise the difficulty criterion
 
 ## Related Strategies
+
 - [Spaced Practice](../principles/spaced-learning.md) — the scheduling principle that makes repeated practice durable
 - [Retrieval Practice](retrieval-practice-activities.md) — testing-based practice that strengthens long-term memory
 - [Formative Feedback](formative-feedback.md) — the feedback engine that directs each practice cycle
+- [Use deliberate practice with repeated case-based engagement and immediate feedback for assessment skill training](deliberate-practice-case-based-pain-assessment-training.md)
 
 ## Examples
 - **Music conservatories** — students isolate difficult passages, slow them down, repeat with a teacher's corrections, and only then restore tempo; the canonical domain of Ericsson's research.

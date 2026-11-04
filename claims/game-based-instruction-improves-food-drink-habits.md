@@ -53,3 +53,4 @@ ANCOVA on the 20-item food-and-drink habits questionnaire (Cronbach's α = 0.85)
 - [Computer game-based instruction produced significantly better nutrition knowledge than multimedia PowerPoint instruction in third graders](game-based-nutrition-knowledge-better-than-powerpoint.md) — related
 - [High intake of lemonade, sugar-sweetened soft drinks and salty snacks is associated with decreased odds of high academic achievement, mainly in girls](unhealthy-beverage-snack-intake-associated-lower-achievement.md) — related
 - [Published studies of homemade PowerPoint games show no significant performance difference between game-creating and control groups](ppt-games-no-performance-difference-studies.md) — related
+- [Model education outperformed video education on fluoride use and brushing frequency, while video was more effective in reducing unhealthy snacking](model-vs-video-differential-habit-effects.md) — related

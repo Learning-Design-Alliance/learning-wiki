@@ -86,3 +86,4 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [Ongoing technical and pedagogical support plus ample mathematics resources were the two elements teachers identified as key to successful implementation](mathsflip-implementation-support-resources.md) — related
 - [Staff and parent support, recognition by the school, confidence, cohesive leader teams and time together enabled cyber leadership, while lack of staff support inhibited it](cyber-leadership-enablers-and-barriers.md) — related
 - [Teachers experienced a responsibility-capacity paradox: they view emotional support as core to their role yet feel structurally limited by workload, low mental health literacy and lack of training](responsibility-capacity-paradox-teachers.md) — related
+- [Involving parents emerged as a novel instructional leadership factor not recognized in Hallinger and Murphy's model](parental-involvement-novel-il-factor-nepal.md) — related

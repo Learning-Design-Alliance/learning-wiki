@@ -51,3 +51,5 @@ Meta-analysis of 5 RCTs reporting student satisfaction. Found students in the SC
 - [The SCL model improves theoretical knowledge scores compared to LBL in medical education](scl-improves-theoretical-knowledge-scores.md) — related
 - [More PBL than LBL students report satisfaction with improved comprehension of knowledge (RR = 1.84)](pbl-satisfaction-comprehension-knowledge.md) — related
 - [More PBL than LBL students report satisfaction with improved thinking ability (RR = 1.42)](pbl-satisfaction-thinking-ability.md) — related
+- [Overall teaching satisfaction was significantly higher in the integrated PBL and medical humanities group than in the LBL group](integrated-pbl-humanities-higher-teaching-satisfaction.md) — related
+- [Perceived gains from SCL followed a U-shaped curve relative to clinical experience, with the 50–80 cases group reporting the lowest satisfaction](scl-perceived-gains-u-shaped-clinical-experience.md) — related

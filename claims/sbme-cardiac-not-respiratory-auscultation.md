@@ -68,3 +68,4 @@ Narrative review attributing this to Bernardi et al.'s prospective study of pati
 - [Clinical simulation improved overall cardiovascular examination performance compared with traditional lecture in the Brazilian quasi-experimental study (Fernandes et al.)](simulation-vs-lecture-cardiovascular-performance-brazil.md) — related
 - [Clinical simulation improves nursing students' knowledge, confidence and performance in cardiovascular physical examination compared with traditional teaching, per a systematic review of six studies](clinical-simulation-improves-cardiovascular-assessment-nursing.md) — related
 - [A post-ROSC simulation curriculum increased intern knowledge of post-ROSC hemodynamic and respiratory targets](post-rosc-simulation-increased-knowledge-targets.md) — related
+- [Knowledge gains varied by workshop topic, largest for pulmonary auscultation and smallest for rectal and breast examination](knowledge-gain-varies-by-workshop-topic.md) — related

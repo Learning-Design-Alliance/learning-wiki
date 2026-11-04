@@ -41,7 +41,8 @@ The article proposes a synthesised conceptual framework (Figure 2) consisting of
 - [Flipped Sections Higher Total Assessment Scores](../claims/flipped-sections-higher-total-assessment-scores.md) [+M]
 
 ## Related Designs
-- 
+
+- [Flipped classroom as constructivist blended learning that moves lower-order Bloom's levels outside class](flipped-classroom-constructivist-blended-model.md)
 
 ## Examples
 -

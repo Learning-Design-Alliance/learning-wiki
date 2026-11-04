@@ -52,3 +52,4 @@ Same RCT; clinical thinking exam worth 100 points using a novel case not previou
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
 - [Emerging teaching methods (PBL, CBL, FC) significantly improve dental students' exam scores compared to lecture-based learning](emerging-methods-improve-dental-exam-scores.md) — a broader claim this one bears on
 - [No significant baseline differences between BOPPPS/FC-CBL and LBL groups on demographics or entry-level scores](boppps-fc-cbl-lbl-no-baseline-differences.md) — related
+- [Case review-based learning improves orthodontic examination scores compared with lecture-based learning](cbl-improves-orthodontic-exam-scores.md) — related

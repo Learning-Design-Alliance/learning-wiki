@@ -54,3 +54,4 @@ Spearman's rho correlation across all 48 participants' scores in the quasi-exper
 - [POGIL and traditional-lecture groups showed no significant pretest differences in critical thinking or problem solving skills](pogil-study-pretest-equivalence-cts-pss.md) — related
 - [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance](metacognition-problem-solving-correlation.md) — related
 - [Total perception score correlates positively with total outcome score (r = 0.709) and total satisfaction score (r = 0.740)](perception-correlates-outcome-satisfaction-simulation.md) — related
+- [Critical thinking skills correlate strongly and positively with personal and professional competency perceptions among earthquake-exposed teacher candidates](ct-competency-strong-correlation-earthquake-candidates.md) — related

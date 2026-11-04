@@ -70,3 +70,4 @@ Same end-of-term survey (176 respondents). The article contrasts the two DP2 sub
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](genai-rated-for-ideation-not-time-saving.md) — related
 - [Qualitative interviews with 23 students support the survey results, indicating the digital tutor supported students' learning processes](qualitative-interviews-support-learning-support.md) — a narrower finding that bears on this claim
 - [Students report learning from tutor-web quizzes: 53 of 60 surveyed students found last questions easier than first](student-survey-learning-quizzes.md) — related
+- [Students rated the peer-assisted simulation workshops highly, with mean satisfaction scores above 4 of 5](high-satisfaction-peer-simulation-workshops.md) — related

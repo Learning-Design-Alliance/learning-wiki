@@ -45,6 +45,7 @@ The article found that the presence of institutional PICC guidelines was associa
 
 - [Future research should explore AI-driven educational tools, adaptive learning platforms, and decision-support systems to enhance nurses' PICC care knowledge](ai-driven-tools-for-nurse-picc-education.md)
 - [Tailored training strategies for PICC care knowledge by hospital level: standardized in-service training in secondary/primary hospitals and guideline optimization with self-directed learning support in tertiary hospitals](tailored-picc-training-strategies-by-hospital-level.md)
+- [Establish institutional supports — standardized MDT protocols, guidelines access, and regular wound care training — to translate knowledge into practice](institutional-mdt-protocols-and-training-strategy.md)
 
 ## Examples
 -

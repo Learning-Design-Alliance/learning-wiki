@@ -44,7 +44,8 @@ FCI is described as a learning approach in which "teachers shift direct learning
 - [Positive Learner Attitudes Fci Iraq](../claims/positive-learner-attitudes-fci-iraq.md) [+M]
 
 ## Related Designs
-- 
+
+- [Flipped classroom as constructivist blended learning that moves lower-order Bloom's levels outside class](flipped-classroom-constructivist-blended-model.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Meta-analysis of educational status as a factor associated with nurses' palliati
 - [Only 36.02% of reviewed Ethiopian nurses had palliative care training, and Egger's test indicated no publication bias](low-training-coverage-and-no-publication-bias.md) — related
 - [Educational qualification shows no significant association with wound-care knowledge or practice levels](qualification-no-association-wound-knowledge.md) — related
 - [Educational level was significantly associated with total BLS knowledge score, with bachelor's and master's degree holders scoring higher.](education-level-associated-bls-knowledge-score.md) — related
+- [Personnel with a bachelor's degree scored significantly higher than associate-degree holders in managing complicated child delivery](bachelor-degree-higher-ccd-score.md) — related

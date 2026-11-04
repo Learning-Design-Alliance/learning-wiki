@@ -44,7 +44,8 @@ The article recommends that pre-doctoral students practice radiographic diagnosi
 - [Students who used the module reported positive perceptions and supported its curricular implementation with modifications](../claims/student-perceptions-online-caries-module.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use AI language models as adjunctive tools in medical education, especially for test preparation or knowledge reinforcement](ai-adjunctive-tool-medical-education-test-prep.md)
 
 ## Examples
 -

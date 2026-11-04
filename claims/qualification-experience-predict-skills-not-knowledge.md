@@ -72,3 +72,4 @@ Multiple linear regression for the perceived knowledge‐and‐beliefs domain; a
 - [Nurses begin with low baseline knowledge of diabetic foot care, and educational qualifications may moderate post-training knowledge gains](low-baseline-nurse-knowledge-moderated-by-qualification.md) — related
 - [Facilitators of nurses' diabetes knowledge acquisition include experience, refresher nutrition courses and NCD training](facilitators-nurse-diabetes-knowledge-ssa.md) — related
 - [Younger nursing professionals self-assessed RC competence highest, significantly on 4 of 8 subscales](younger-nurses-higher-self-assessed-rc-competence.md) — related
+- [Improvements in suturing skills are not significantly associated with age, seniority or previous training history](suturing-gain-unrelated-to-age-seniority-history.md) — reports the opposite

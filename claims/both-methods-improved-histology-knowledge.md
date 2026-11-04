@@ -53,3 +53,4 @@ Paired t-tests within each of the two groups (50 students each) in the quasi-exp
 - [A blended flipped classroom produced statistically significantly higher post-test scores than traditional teaching in one included histology study (p < 0.0001)](blended-flipped-classroom-higher-posttest-scores.md) — related
 - [Students taught with the eHistoLab virtual microscopy web application achieved significantly higher histology post-test scores than students taught by e-lecturing](ehistolab-higher-posttest-than-e-lecturing.md) — related
 - [Most students preferred virtual microscopy over recorded e-lecturing for learning histology and reported higher motivation with it](students-prefer-virtual-microscopy-histology.md) — related
+- [Both CBL and GBL in a virtual flipped classroom produce significant within-group knowledge gains over time](cbl-gbl-virtual-flipped-significant-gains.md) — related

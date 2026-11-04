@@ -51,3 +51,4 @@ Review reports Kusnoor et al. 2022 randomised parallel trial: "No difference bet
 - [Peer-assisted ultrasound instruction is comparably effective to faculty-led instruction in most comparative studies](peer-teaching-ultrasound-comparable-to-faculty.md) — related
 - [Peer-led and clinical educator-led group teaching produce no significant difference in student test scores in clinical physiotherapy placements](peer-vs-educator-led-clinical-group-teaching-no-score-difference.md) — related
 - [Self-reported preparedness and familiarity rose by an average of 75% from before to after peer-led SMA clinical outcome assessment workshops among 79 Canadian clinical evaluators, in an uncontrolled pre-post survey](sma-coa-workshops-75-percent-preparedness-increase.md) — related
+- [The near-peer bootcamp was feasible to coordinate as an alternative to faculty-led teaching](near-peer-bootcamp-feasibility.md) — related

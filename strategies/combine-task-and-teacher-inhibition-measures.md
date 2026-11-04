@@ -47,6 +47,7 @@ The article recommends measuring inhibition with both experimental tasks and tea
 - [Future CB-PA research and practice should use standardized, ecologically valid outcome measures, objective activity parameters, and longitudinal designs](standardized-ecologically-valid-cbpa-measures-strategy.md)
 - [Assess executive functions in group-based naturalistic school settings rather than individualized lab-like sessions](group-based-ef-assessment-in-naturalistic-school-settings.md)
 - [Three development directions for observational self-regulation measures: broader behaviors, cross-context observability, and clear operational definitions](observational-tool-development-three-directions.md)
+- [Use behavioral data alongside self-report measures when assessing trait mindfulness in adolescents](behavioral-data-trait-mindfulness-assessment.md)
 
 ## Examples
 -

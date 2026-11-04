@@ -50,3 +50,4 @@ Principals' reports on whether their LSC assisted in developing formal school-co
 - [More than half of LSCs conduct a comprehensive principal evaluation with explicit criteria, but 12 percent did no evaluation and principals offer more guarded views than other members](lsc-principal-evaluation-process.md) — related
 - [Stakeholders reported parents became less involved in schools after the 1988 reform act, despite the act's involvement goal](parent-involvement-declined-after-reform-act.md) — related
 - [Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts](rural-community-commitment-boosts-turnaround.md) — related
+- [Involving parents emerged as a novel instructional leadership factor not recognized in Hallinger and Murphy's model](parental-involvement-novel-il-factor-nepal.md) — related

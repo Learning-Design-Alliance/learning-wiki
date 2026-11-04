@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 178 claims (113 show a difference, 39 mixed, 26 no difference) · 128 studies (60 causal, 19 associational, 16 review, 11 theoretical, 10 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 128 report an effect size · 177 claims rest on one study
+> **Evidence** · 179 claims (114 show a difference, 39 mixed, 26 no difference) · 129 studies (60 causal, 20 associational, 16 review, 11 theoretical, 10 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 129 report an effect size · 178 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -220,6 +220,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Only the L1 discussion group showed higher-order processing such as comprehension monitoring, autobiographical connections, and questioning textual reliability](../claims/l1-discussion-higher-order-processing.md) [~M] — measured as an outcome of the instruction studied
 - [Pair's self-evaluation performed every four sessions may make students more aware of their reading level and progress, enabling strategies for improvement crucial for modification of the self-concept](../claims/pair-self-evaluation-metacognitive-awareness.md) [+M] — measured as an outcome of the instruction studied
 - [Stated confidence discriminates correct from incorrect responses (GPT-5.2 AUROC approximately 0.87 to 0.90), though most configurations are net underconfident](../claims/llm-confidence-discriminates-correctness.md) [+W] — learners who differ on it differ in outcomes
+- [Better metacognitive knowledge of study strategies at course entry is associated with higher exam scores in introductory biology](../claims/metacognitive-knowledge-predicts-biology-exam-scores.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

@@ -56,3 +56,4 @@ Primary outcome domains F and G in the within-participants comparison of 20 stud
 - [Learners self-reported high satisfaction (4.4/5) and perceived educational value (4.9/5) for the curriculum](pem-sbl-high-satisfaction-educational-value.md) — related
 - [The inCarne VR prototype received descriptively positive user experience ratings across all AttrakDiff dimensions, with attractivity scoring highest (M = 1.71, SD = 0.59)](incarne-vr-positive-user-experience-attractivity-highest.md) — related
 - [Nursing students reported high satisfaction with community care simulation, with all SDS domain means around 4.5 and support rated lowest](ccs-high-satisfaction-sds-domain-scores.md) — related
+- [VR-based acupuncture training was associated with higher theoretical knowledge posttest scores than conventional instruction](vr-acupuncture-higher-theoretical-knowledge.md) — related

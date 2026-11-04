@@ -55,3 +55,5 @@ Narrative analysis of the review's non-RCT and PPT studies. For attitudes, "42 o
 - [Repeated simulator attempts improve VRS performance, with expert groups showing no further improvement](vrs-simulator-performance-curves-improve.md) — a narrower finding that bears on this claim
 - [Satisfaction and engagement with the simulations predicted post-test knowledge and attitude outcomes](vct-satisfaction-engagement-predictors.md) — a narrower finding that bears on this claim
 - [Simulator practicals increased student confidence in practical skills](simulator-practicals-increase-practical-skills-confidence.md) — a narrower finding that bears on this claim
+- [A one-day clinical simulation curriculum significantly improves pre-health students' basic-science knowledge immediately after the intervention.](simulation-improves-prehealth-knowledge-immediate.md) — a narrower finding that bears on this claim
+- [Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills.](simulation-increases-clinical-confidence.md) — a narrower finding that bears on this claim

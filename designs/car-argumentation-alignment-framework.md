@@ -20,7 +20,7 @@ sources:
 > **Evidence** · no claims cited
 
 ## Description
-The CAR's theoretical grounding integrates key aspects of knowledge building in science, drawing on the framework that scientific explanations are constructed through collaborative argumentation with three underlying goals: sense-making, articulating, and persuading (Berland and Reiser, 2009). The article maps CAR components 1–4 to these goals: "using scientific evidence and general scientific concepts to make sense of the specific phenomena being studied (CAR 1-2), articulating these understandings (CAR 2a), and persuading others of these explanations by using the ideas of science to explicitly connect the evidence to the knowledge claims (CAR 2b-4)." CAR component 5 is described as an extension focusing on providing logical future studies that advance or confirm current research findings.
+The CAR's theoretical grounding integrates key aspects of knowledge building in science, drawing on the framework that scientific explanations are constructed through collaborative argumentation with three underlying goals: sense-making, articulating, and persuading ([Berland and Reiser, 2009](https://doi.org/10.1002/sce.20286)). The article maps CAR components 1–4 to these goals: "using scientific evidence and general scientific concepts to make sense of the specific phenomena being studied (CAR 1-2), articulating these understandings (CAR 2a), and persuading others of these explanations by using the ideas of science to explicitly connect the evidence to the knowledge claims (CAR 2b-4)." CAR component 5 is described as an extension focusing on providing logical future studies that advance or confirm current research findings.
 
 ## Design Implications
 

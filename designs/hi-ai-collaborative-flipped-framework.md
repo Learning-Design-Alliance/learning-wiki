@@ -47,7 +47,8 @@ The article proposes a human intelligence (HI)-AI collaborative framework layere
 - [Ai Flipped Boundary Deep Mastery](../claims/ai-flipped-boundary-deep-mastery.md) [~M]
 
 ## Related Designs
-- 
+
+- [Flipped classroom as constructivist blended learning that moves lower-order Bloom's levels outside class](flipped-classroom-constructivist-blended-model.md)
 
 ## Examples
 -

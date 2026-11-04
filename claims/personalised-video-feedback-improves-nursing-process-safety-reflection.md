@@ -50,3 +50,4 @@ Between-group comparison on the Evaluation of Simulation-Based Learning Scale in
 - [Personalised video-assisted feedback in simulation significantly increases student satisfaction and self-confidence compared to structured self-debriefing](personalised-video-feedback-raises-satisfaction-self-confidence.md) — related
 - [Manikin-based simulation produced equal or superior competency outcomes versus traditional clinical practice, except in the Patient Safety domain](manikin-simulation-competency-versus-clinical.md) — related
 - [Personalised video-assisted feedback does not significantly improve theoretical knowledge scores compared to structured self-debriefing](personalised-video-feedback-knowledge-not-significant.md) — related
+- [Nursing students report higher perceived patient safety competencies in clinical settings than in academic settings, with small effect sizes](nursing-students-higher-safety-competencies-clinical-than-academic.md) — related

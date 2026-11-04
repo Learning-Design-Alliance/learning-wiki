@@ -72,3 +72,4 @@ Same questionnaire's lower-agreement items: adequate time to view videos (Q2, 78
 - [Treatment-group pre-service teachers held positive attitudes toward peer instruction, with questionnaire item means ranging from 3.4000 to 4.5500](positive-attitudes-toward-peer-instruction-treatment-group.md) — related
 - [Iranian EFL learners in the flipped group held mostly positive attitudes toward flipped instruction](positive-efl-attitudes-toward-flipped-instruction.md) — related
 - [Students hold favorable attitudes toward e-learning as a supplement to in-class teaching](favorable-attitudes-toward-elearning-supplement.md) — related
+- [Over 90% of residents responded positively to most feedback items, but about 57% were neutral or negative on time required](snapps-feedback-positive-except-time-burden.md) — related

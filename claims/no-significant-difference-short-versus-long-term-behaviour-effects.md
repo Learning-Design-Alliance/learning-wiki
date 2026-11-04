@@ -47,3 +47,4 @@ Sub-group analysis within the random-effects meta-analysis of six RCTs (2802 par
 ## Related Claims
 - [Healthcare professional training significantly improves patient health behaviours with a small pooled effect (SMD 0.20) across six randomised trials](hcp-training-small-significant-improvement-patient-health-behaviours-smd-020.md) — related
 - [For adults, e-learning is more effective than conventional education for oral health practice](adults-e-learning-better-oral-health-practice.md) — related
+- [Model-based and video-based education each improved oral health behaviours more than no education in children aged 3–5](model-and-video-education-improve-oral-health-behaviours-preschool.md) — a narrower finding that bears on this claim

@@ -55,3 +55,4 @@ The BTAT, a researcher-developed instrument of 25 multiple-choice objective test
 - [The objective-based AI literacy assessment demonstrates psychometric stability with high reliability (KR-20 = 0.862) and approximate unidimensionality](ob-ai-literacy-assessment-psychometrically-stable.md) — related
 - [The equal-group tests showed high test-retest and between-group correlations, supporting the reliability of the arithmetical-reasoning marking method.](high-correlations-reasoning-tests.md) — related
 - [Students taught isometric and orthographic projection with interactive whiteboard significantly outperformed chalkboard-taught students on psychomotor skills achievement](iwb-outperforms-chalkboard-technical-drawing.md) — related
+- [The facial nerve anatomy knowledge test showed high reliability with KR20 of 0.96 after pilot removal of two questions](facial-nerve-test-kr20-reliability.md) — related

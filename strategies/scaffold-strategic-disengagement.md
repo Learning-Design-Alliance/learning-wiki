@@ -48,6 +48,7 @@ The authors argue disengagement can be purposeful, goal-oriented self-regulation
 
 - [Adaptive systems should deliver prior-knowledge-tailored discrepancy prompts and regular self-assessment calibration prompts](pk-tailored-discrepancy-prompts.md)
 - [Incorporate optional choice features (remediation buttons, enrichment questions, self-check options) to support autonomy](optional-choice-features-support-autonomy.md)
+- [Tailor case questions and session depth to learner seniority by emphasizing or skipping question subsets](tailor-cbl-questions-to-seniority.md)
 
 ## Examples
 -

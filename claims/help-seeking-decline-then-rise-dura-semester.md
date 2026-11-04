@@ -50,3 +50,4 @@ Descriptive analysis of help-seeking rates by semester (Table 3: e.g., 834 Piazz
 - Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use — related
 - [Students predominantly recommended future students use office hours and formal course staff, with LLMs positioned as a supplement](students-recommend-office-hours-over-llms.md) — related
 - [Students reported significantly higher perception of instructor Caring on the MUSIC Inventory in Fall 2025 after DURA course updates](dura-updates-higher-music-caring-perception.md) — related
+- [Workshop participation was sustained across 2 academic years, with an overall occupancy rate of 61.1%](sustained-participation-occupancy-rate.md) — related
