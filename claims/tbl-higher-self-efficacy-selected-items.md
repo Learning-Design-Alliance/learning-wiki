@@ -48,4 +48,4 @@ Self-efficacy survey items developed from Bandura's Self-Efficacy Theory and the
 ## Related Claims
 - [TBL students attribute self-efficacy to peer discussion while lecture students attribute it to practice cases and systematic approach](tbl-peer-discussion-vs-lecture-practice-cases-self-efficacy.md) — related
 - [TBL produces significantly higher student engagement and peer/instructor interaction than lecture-based instruction](tbl-higher-engagement-peer-interaction-than-lecture.md) — related
-- [TBL and lecture-based instruction produce comparable chest radiograph interpretation performance in PA students](tbl-noninferior-lecture-chest-radiograph-interpretation.md) — related
+- [TBL and lecture-based instruction show no statistically significant difference in PA students' chest radiograph interpretation test scores](tbl-noninferior-lecture-chest-radiograph-interpretation.md) — related

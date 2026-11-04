@@ -46,4 +46,4 @@ Cross-sectional analysis of 118 dental students' questionnaire responses examini
 
 ## Related Claims
 - [Dental students demonstrate average knowledge of TDI management with significant deficiencies in avulsion of permanent teeth.](dental-students-average-tadi-knowledge-avulsion-deficiency.md) — related
-- [Most dental students report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related
+- [Most fourth-year dental students at one Australian university report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related

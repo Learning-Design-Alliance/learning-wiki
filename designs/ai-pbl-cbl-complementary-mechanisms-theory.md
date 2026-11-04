@@ -10,7 +10,7 @@ generated:
 sources:
   - id: fang-2026
     resource: "https://doi.org/10.1186/s12909-026-09489-w"
-    title: "Fang, Y., Jingmei, W., & Liping, H. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education. https://doi.org/10.1186/s12909-026-09489-w"
+    title: "Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w https://doi.org/10.1186/s12909-026-09489-w"
     author: "Fang, Y., Jingmei, W., & Liping, H"
 ---
 
@@ -39,7 +39,7 @@ The article proposes an explanatory account of why the combined model works: "Th
 
 ### Claims
 - [Ai Pbl Cbl Improves Theoretical Examination Scores](../claims/ai-pbl-cbl-improves-theoretical-examination-scores.md) [+M]
-- [Ai Pbl Cbl Improves Mini Cex Clinical Reasoning Domains](../claims/ai-pbl-cbl-improves-mini-cex-clinical-reasoning-domains.md) [+M]
+- [AI-assisted PBL-CBL combined teaching yields higher Mini-CEX scores than lecture-based teaching in interviewing, physical examination, clinical judgment and communication, with no statistically significant difference in humanistic qualities/professionalism or organization/efficiency](../claims/ai-pbl-cbl-improves-mini-cex-clinical-reasoning-domains.md) [+M]
 
 ## Related Designs
 - 
@@ -48,4 +48,4 @@ The article proposes an explanatory account of why the combined model works: "Th
 -
 
 ## Key Sources
-- Fang, Y., Jingmei, W., & Liping, H. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education. https://doi.org/10.1186/s12909-026-09489-w
+- Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w https://doi.org/10.1186/s12909-026-09489-w

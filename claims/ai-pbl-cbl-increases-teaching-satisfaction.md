@@ -10,16 +10,18 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2026
 sources:
-  - id: fang-2026
-    title: "Fang, Y., Jingmei, W., & Liping, H. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education."
-    author: "Fang, Y., Jingmei, W., & Liping, H."
+  - id: yang-2026
+    resource: "https://doi.org/10.1186/s12909-026-09489-w"
+    title: "Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w"
+    author: "Yang, F., Wang, J., & He, L."
     q: 3
     i: "?"
     kind: causal
     rigour: 2
-  - id: fang-2026-2
-    title: "Fang, Y., Jingmei, W., & Liping, H. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education."
-    author: "Fang, Y., Jingmei, W., & Liping, H."
+  - id: yang-2026-2
+    resource: "https://doi.org/10.1186/s12909-026-09489-w"
+    title: "Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w"
+    author: "Yang, F., Wang, J., & He, L."
     q: 3
     i: "?"
     kind: causal
@@ -33,14 +35,14 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The observation group's total satisfaction rate was 95% (57/60) versus 85% (51/60) in the control group, with significantly higher overall teaching satisfaction (P < 0.05). [→ Fang 2026](#fang-2026)
-`q3 i?` No statistically significant difference was observed between the two groups in teamwork satisfaction (P > 0.05). [→ Fang 2026 (2)](#fang-2026-2)
+`q3 i?` The observation group's total satisfaction rate was 95% (57/60) versus 85% (51/60) in the control group, with significantly higher overall teaching satisfaction (P < 0.05). [→ Yang 2026](#yang-2026)
+`q3 i?` No statistically significant difference was observed between the two groups in teamwork satisfaction (P > 0.05). [→ Fang 2026 (2)](#yang-2026-2)
 
 ## Evidence
 
-### Fang 2026
+### Yang 2026
 
-Fang, Y., Jingmei, W., & Liping, H. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education.
+Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w
 
 `q3 · i?` · `causal · r2`
 
@@ -48,9 +50,9 @@ Author-created satisfaction questionnaire (Cronbach's α = 0.83) distributed to 
 
 > "The total satisfaction rate of the observation group was 95% (57/60) which is higher than the control group 85% (51/60)."
 
-### Fang 2026 (2)
+### Yang 2026 (2)
 
-Fang, Y., Jingmei, W., & Liping, H. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education.
+Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w
 
 `q3 · i?` · `causal · r2`
 

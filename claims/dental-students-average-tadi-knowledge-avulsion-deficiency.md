@@ -46,5 +46,5 @@ Cross-sectional questionnaire study of 118 fourth-year dental students across tw
 
 
 ## Related Claims
-- [Most dental students report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related
+- [Most fourth-year dental students at one Australian university report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related
 - [A significant relationship exists between knowledge and confidence levels in TDI management among dental students.](knowledge-confidence-relationship-tadi-management.md) — related

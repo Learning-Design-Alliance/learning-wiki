@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: riddell-lisa-marie-2026
     resource: "https://doi.org/10.1111/inm.70299"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Trainee ANPs universally agreed that formal ANP training offered little to no structured content on personality disorder or trauma-informed care, with some relying on self-directed learning. [→ Riddell Lisa Marie 2026](#riddell-lisa-marie-2026)
@@ -37,7 +38,7 @@ Riddell Lisa Marie, Scott Sophie, Hasson Felicity. (2026). A Qualitative Explora
 
 `q2 · i?` · `qualitative · r3`
 
-In semi-structured interviews with 10 female trainee ANPs in Northern Ireland, thematic analysis found universal agreement that formal ANP training offered little to no structured content on PD or trauma‐informed care. Participants reported no recollection of receiving any PD-specific education, with some relying on self-directed learning to bridge knowledge gaps.
+In semi-structured interviews with 10 female trainee ANPs in Northern Ireland, thematic analysis found universal agreement that formal ANP training offered little to no structured content on PD or trauma‐informed care. Multiple participants (not all) reported no recollection of receiving any PD-specific education, with some relying on self-directed learning to bridge knowledge gaps.
 
 > "There was universal agreement that formal ANP training offered little to no structured content on PD or trauma‐informed care. Multiple participants expressed that they had no recollection of receiving any PD‐specific education"
 

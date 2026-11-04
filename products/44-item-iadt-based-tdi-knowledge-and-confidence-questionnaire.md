@@ -23,7 +23,7 @@ A researcher-developed questionnaire assessing fourth-year dental students' know
 
 ### Claims
 
-- [Most dental students report low confidence in managing TDI cases despite having average knowledge.](../claims/dental-students-low-confidence-tadi-management.md) [+W]
+- [Most fourth-year dental students at one Australian university report low confidence in managing TDI cases despite having average knowledge.](../claims/dental-students-low-confidence-tadi-management.md) [+W]
 
 ## Related Products and Programmes
 -

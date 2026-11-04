@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 sources:
   - id: fang-2026
-    title: "Fang, Y., Jingmei, W., & Liping, H. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education."
+    title: "Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education."
     author: "Fang, Y., Jingmei, W., & Liping, H"
 ---
 
@@ -53,4 +53,4 @@ The article recommends that although AI provides scalable educational support, "
 -
 
 ## Key Sources
-- Fang, Y., Jingmei, W., & Liping, H. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education.
+- Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w

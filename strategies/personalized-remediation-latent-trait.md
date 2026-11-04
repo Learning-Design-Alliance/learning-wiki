@@ -40,7 +40,7 @@ The article recommends using IRT-derived ability estimates to target skill remed
 
 ## Claims
 
-- [Latent singing ability varies widely across learners, with sequence-level theta estimates spanning −3.79 to 3.36 logits](../claims/wide-latent-ability-spread-singing-learners.md) [+W]
+- [Sequence-level estimates of latent singing ability vary widely, spanning −3.79 to 3.36 logits across 2,432 practice sequences from 1,074 learners](../claims/wide-latent-ability-spread-singing-learners.md) [+W]
 - [The Rasch assessment model demonstrates high discriminative performance with area under the curve of 0.93](../claims/rasch-model-high-discriminative-performance.md) [+W]
 
 ## Related Strategies

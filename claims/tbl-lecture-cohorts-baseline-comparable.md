@@ -46,5 +46,5 @@ Independent sample t-tests compared admissions variables (undergraduate GPA, GRE
 
 
 ## Related Claims
-- [TBL and lecture-based instruction produce comparable chest radiograph interpretation performance in PA students](tbl-noninferior-lecture-chest-radiograph-interpretation.md) — related
+- [TBL and lecture-based instruction show no statistically significant difference in PA students' chest radiograph interpretation test scores](tbl-noninferior-lecture-chest-radiograph-interpretation.md) — related
 - [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related

@@ -40,7 +40,7 @@ A study combining a 10-item Qualtrics survey (phase one) and semi-structured Zoo
 
 - [All responding COM libraries provide at least one dedicated board exam prep resource, with TrueLearn COMLEX Level 1 the most commonly funded resource overall](../claims/com-libraries-provide-board-prep-resources-truelearn-most-common.md) [+W]
 - [Generative AI in board exam prep emerged as a challenge in interviews but was not captured in the survey](../claims/generative-ai-emerging-challenge-board-prep.md) [+W]
-- [Libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget](../claims/library-expertise-essential-regardless-of-funding-source.md) [+W]
+- [Library directors at U.S. colleges of osteopathic medicine report that their libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget](../claims/library-expertise-essential-regardless-of-funding-source.md) [+W]
 - [About half of funding for high-cost board exam prep resources originates outside the library budget](../claims/high-cost-board-prep-funding-often-non-library.md) [+W]
 
 ## Related Designs

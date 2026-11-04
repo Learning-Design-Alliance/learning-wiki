@@ -20456,13 +20456,14 @@
 "type":"claim"
 },
 {
-"description":"AI-assisted PBL-CBL combined teaching improves Mini-CEX clinical reasoning domains (interviewing, physical examination, clinical judgment, communication) but not humanistic qualities/professionalism or organization/ef...",
+"description":"In a randomised trial of 120 interns, AI-assisted PBL-CBL teaching scored higher than lecture on four core Mini-CEX domains; differences in humanistic qualities/professionalism and organization/efficiency were not statistically significant",
 "evidence_strength":"moderate",
 "id":"ai-pbl-cbl-improves-mini-cex-clinical-reasoning-domains",
 "newest_evidence":"2026",
 "path":"claims/ai-pbl-cbl-improves-mini-cex-clinical-reasoning-domains.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"AI-assisted PBL-CBL combined teaching improves Mini-CEX clinical reasoning domains (interviewing, physical examination, clinical judgment, communication) but not humanistic qualities/professionalism or organization/efficiency",
+"title":"AI-assisted PBL-CBL combined teaching yields higher Mini-CEX scores than lecture-based teaching in interviewing, physical examination, clinical judgment and communication, with no statistically significant difference in humanistic qualities/professionalism or organization/efficiency",
 "type":"claim"
 },
 {
@@ -20471,6 +20472,7 @@
 "id":"ai-pbl-cbl-improves-theoretical-examination-scores",
 "newest_evidence":"2026",
 "path":"claims/ai-pbl-cbl-improves-theoretical-examination-scores.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"AI-assisted PBL-CBL combined teaching raises medical interns' theoretical examination scores in post-herpetic neuralgia compared with lecture-based teaching",
 "type":"claim"
@@ -28491,6 +28493,7 @@
 "id":"anp-training-lacks-personality-disorder-content",
 "newest_evidence":"2026",
 "path":"claims/anp-training-lacks-personality-disorder-content.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Trainee Advanced Nurse Practitioners report that formal ANP training offered little to no structured content on personality disorder or trauma-informed care, undermining professional confidence.",
 "type":"claim"
@@ -85524,6 +85527,7 @@
 "id":"confidence-competence-gap-sepsis-recognition",
 "newest_evidence":"2026",
 "path":"claims/confidence-competence-gap-sepsis-recognition.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Self-reported confidence and familiarity with screening tools did not reliably translate into accurate sepsis determination",
 "type":"claim"
@@ -110160,14 +110164,15 @@
 "type":"claim"
 },
 {
-"description":"Most dental students report low confidence in managing TDI cases despite having average knowledge.",
+"description":"Most fourth-year dental students at one Australian university report low confidence in managing TDI cases despite having average knowledge.",
 "evidence_strength":"moderate",
 "id":"dental-students-low-confidence-tadi-management",
 "newest_evidence":"2026",
 "path":"claims/dental-students-low-confidence-tadi-management.md",
 "recheck_by":"2031",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"Most dental students report low confidence in managing TDI cases despite having average knowledge.",
+"title":"Most fourth-year dental students at one Australian university report low confidence in managing TDI cases despite having average knowledge.",
 "type":"claim"
 },
 {
@@ -154229,6 +154234,7 @@
 "id":"facilitator-observed-higher-engagement-than-lectures",
 "newest_evidence":"2026",
 "path":"claims/facilitator-observed-higher-engagement-than-lectures.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Facilitator observations indicated higher student engagement than in lecture-based sessions",
 "type":"claim"
@@ -170696,6 +170702,7 @@
 "id":"fragmented-to-organized-understanding-shift",
 "newest_evidence":"2026",
 "path":"claims/fragmented-to-organized-understanding-shift.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Participants reported movement from fragmented prior understanding toward more organized understanding of essay writing processes",
 "type":"claim"
@@ -198923,6 +198930,7 @@
 "id":"high-cost-board-prep-funding-often-non-library",
 "newest_evidence":"2026",
 "path":"claims/high-cost-board-prep-funding-often-non-library.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"About half of funding for high-cost board exam prep resources originates outside the library budget",
 "type":"claim"
@@ -246292,14 +246300,15 @@
 "type":"claim"
 },
 {
-"description":"Libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget",
+"description":"Library directors at U.S. colleges of osteopathic medicine report that their libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget",
 "evidence_strength":"moderate",
 "id":"library-expertise-essential-regardless-of-funding-source",
 "newest_evidence":"2026",
 "path":"claims/library-expertise-essential-regardless-of-funding-source.md",
 "recheck_by":"2031",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"Libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget",
+"title":"Library directors at U.S. colleges of osteopathic medicine report that their libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget",
 "type":"claim"
 },
 {
@@ -308846,6 +308855,7 @@
 "id":"nursing-ams-course-satisfaction-relevance",
 "newest_evidence":"2026",
 "path":"claims/nursing-ams-course-satisfaction-relevance.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Most nurses expressed satisfaction with the AMS course content and its relevance to everyday practice",
 "type":"claim"
@@ -324631,6 +324641,7 @@
 "id":"paternalistic-leadership-burnout-prediction-srt",
 "newest_evidence":"2026",
 "path":"claims/paternalistic-leadership-burnout-prediction-srt.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Benevolent and moral leadership negatively predict learning burnout, whereas authoritarian leadership positively predicts it, among medical students on the SRT",
 "type":"claim"
@@ -329824,6 +329835,7 @@
 "id":"pearson-correlations-leadership-burnout-motivation",
 "newest_evidence":"2026",
 "path":"claims/pearson-correlations-leadership-burnout-motivation.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Pearson correlations show all three leadership dimensions are significantly associated with both learning burnout and learning motivation",
 "type":"claim"
@@ -390740,6 +390752,7 @@
 "id":"sbt-advantage-attributed-repeated-structured-rehearsal",
 "newest_evidence":"2026",
 "path":"claims/sbt-advantage-attributed-repeated-structured-rehearsal.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Authors attribute SBT performance advantages to repeated structured rehearsal in a controlled learning environment",
 "type":"claim"
@@ -390851,6 +390864,7 @@
 "id":"sbt-outperforms-cbt-safety-procedures-station",
 "newest_evidence":"2026",
 "path":"claims/sbt-outperforms-cbt-safety-procedures-station.md",
+"source_checked":"2026-11-04",
 "status":"review",
 "title":"Simulation-trained students significantly outperformed clinically trained peers on the radiation safety procedures OSCE station",
 "type":"claim"
@@ -451083,13 +451097,14 @@
 "type":"claim"
 },
 {
-"description":"TBL and lecture-based instruction produce comparable chest radiograph interpretation performance in PA students",
+"description":"TBL and lecture-based instruction show no statistically significant difference in PA students' chest radiograph interpretation test scores",
 "evidence_strength":"moderate",
 "id":"tbl-noninferior-lecture-chest-radiograph-interpretation",
 "newest_evidence":"2026",
 "path":"claims/tbl-noninferior-lecture-chest-radiograph-interpretation.md",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"TBL and lecture-based instruction produce comparable chest radiograph interpretation performance in PA students",
+"title":"TBL and lecture-based instruction show no statistically significant difference in PA students' chest radiograph interpretation test scores",
 "type":"claim"
 },
 {
@@ -498713,14 +498728,15 @@
 "type":"claim"
 },
 {
-"description":"Latent singing ability varies widely across learners, with sequence-level theta estimates spanning −3.79 to 3.36 logits",
+"description":"Sequence-level estimates of latent singing ability vary widely, spanning −3.79 to 3.36 logits across 2,432 practice sequences from 1,074 learners",
 "evidence_strength":"moderate",
 "id":"wide-latent-ability-spread-singing-learners",
 "newest_evidence":"2026",
 "path":"claims/wide-latent-ability-spread-singing-learners.md",
 "recheck_by":"2031",
+"source_checked":"2026-11-04",
 "status":"review",
-"title":"Latent singing ability varies widely across learners, with sequence-level theta estimates spanning −3.79 to 3.36 logits",
+"title":"Sequence-level estimates of latent singing ability vary widely, spanning −3.79 to 3.36 logits across 2,432 practice sequences from 1,074 learners",
 "type":"claim"
 },
 {

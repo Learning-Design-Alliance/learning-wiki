@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: muellenbach-j-2026
     resource: "https://doi.org/10.5195/jmla.2026.2320"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` High-cost subscriptions such as TrueLearn, ScholarRx, and OnlineMedEd were often funded by non-library units including the Dean's office and Academic Affairs, while libraries focused on lower-cost review collections. [→ Muellenbach J 2026](#muellenbach-j-2026)
@@ -46,4 +47,4 @@ Phase one survey with parallel funding items (Q1a library-funded, Q2a non-librar
 
 ## Related Claims
 - [All responding COM libraries provide at least one dedicated board exam prep resource, with TrueLearn COMLEX Level 1 the most commonly funded resource overall](com-libraries-provide-board-prep-resources-truelearn-most-common.md) — related
-- [Libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget](library-expertise-essential-regardless-of-funding-source.md) — related
+- [Library directors at U.S. colleges of osteopathic medicine report that their libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget](library-expertise-essential-regardless-of-funding-source.md) — related

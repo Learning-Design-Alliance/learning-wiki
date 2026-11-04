@@ -1,7 +1,7 @@
 ---
 type: claim
-title: TBL and lecture-based instruction produce comparable chest radiograph interpretation performance in PA students
-description: TBL and lecture-based instruction produce comparable chest radiograph interpretation performance in PA students
+title: "TBL and lecture-based instruction show no statistically significant difference in PA students' chest radiograph interpretation test scores"
+description: "TBL and lecture-based instruction show no statistically significant difference in PA students' chest radiograph interpretation test scores"
 id: tbl-noninferior-lecture-chest-radiograph-interpretation
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: kehrli-kelsey-f-2026
     resource: "https://doi.org/10.1186/s12909-026-09452-9"
@@ -20,11 +21,11 @@ sources:
     rigour: 2
 ---
 
-# TBL and lecture-based instruction produce comparable chest radiograph interpretation performance in PA students
+# TBL and lecture-based instruction show no statistically significant difference in PA students' chest radiograph interpretation test scores
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Kehrli Kelsey F. 2026: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
@@ -38,7 +39,7 @@ Kehrli Kelsey F., Conner Kelly R., Eyadiel Lauren, Sisson Caroline B., Smith Nat
 
 `q3 · i?` · `causal · r2`
 
-Quasi-experimental cohort comparison with two consecutive PA student cohorts (TBL n=75, lecture n=84) using validated ACR/AMSER pre- and post-tests. Both groups improved substantially, with mean differences of 23.27 (TBL) and 22.73 (lecture) and no significant between-group difference (p = 0.841).
+Quasi-experimental cohort comparison with two consecutive PA student cohorts (87 invited to TBL, 90 to lecture; pre- and post-test results analysed for TBL n=75 and lecture n=84) using validated ACR/AMSER pre- and post-tests. Both groups improved substantially, with mean pre-post gains of 23.27 (TBL) and 22.73 (lecture) and no significant between-group difference in gain (p = 0.841) or post-test score (p = 0.094). The authors call TBL noninferior, but no noninferiority margin was stated or tested, so the result shows no detected difference rather than equivalence.
 
 > "Both cohorts demonstrated notable improvement from pre- to post-testing. No statistically significant between-group differences were observed in post-test scores or overall mean improvement (p = 0.841)."
 

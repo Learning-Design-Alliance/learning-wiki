@@ -24,10 +24,10 @@ Doubao AI (V3.8), developed by ByteDance, is an AI platform providing intelligen
 
 ### Claims
 - [AI-assisted PBL-CBL combined teaching raises medical interns' theoretical examination scores in post-herpetic neuralgia compared with lecture-based teaching](../claims/ai-pbl-cbl-improves-theoretical-examination-scores.md) [+M]
-- [AI-assisted PBL-CBL combined teaching improves Mini-CEX clinical reasoning domains (interviewing, physical examination, clinical judgment, communication) but not humanistic qualities/professionalism or organization/efficiency](../claims/ai-pbl-cbl-improves-mini-cex-clinical-reasoning-domains.md) [+M]
+- [AI-assisted PBL-CBL combined teaching yields higher Mini-CEX scores than lecture-based teaching in interviewing, physical examination, clinical judgment and communication, with no statistically significant difference in humanistic qualities/professionalism or organization/efficiency](../claims/ai-pbl-cbl-improves-mini-cex-clinical-reasoning-domains.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
-- Fang, Y., Jingmei, W., & Liping, H. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education. https://doi.org/10.1186/s12909-026-09489-w
+- Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w https://doi.org/10.1186/s12909-026-09489-w

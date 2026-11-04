@@ -43,7 +43,7 @@ The article describes a specific implementable TBL session structure for radiogr
 
 - [TBL produces significantly higher student engagement and peer/instructor interaction than lecture-based instruction](../claims/tbl-higher-engagement-peer-interaction-than-lecture.md) [+W]
 - [TBL students report higher self-efficacy on selected confidence-related items compared to lecture students](../claims/tbl-higher-self-efficacy-selected-items.md) [+W]
-- [TBL and lecture-based instruction produce comparable chest radiograph interpretation performance in PA students](../claims/tbl-noninferior-lecture-chest-radiograph-interpretation.md) [~W]
+- [TBL and lecture-based instruction show no statistically significant difference in PA students' chest radiograph interpretation test scores](../claims/tbl-noninferior-lecture-chest-radiograph-interpretation.md) [~W]
 - [TBL students attribute self-efficacy to peer discussion while lecture students attribute it to practice cases and systematic approach](../claims/tbl-peer-discussion-vs-lecture-practice-cases-self-efficacy.md) [+W]
 - [Individual readiness assurance tests (i-RATs) in pre-clinical TBL are almost universally MCQ-based, mostly closed-book, typically 5 to 30 items lasting 10 to 30 minutes](../claims/irat-mcq-closed-book-5-30-items.md) [~W]
 

@@ -10,8 +10,8 @@ This wiki is written by language models, from published research, and checked by
 |---|---|
 | Claims | 48,866, from 11,773 sources |
 | Reviewed by a person | 0 |
-| Every evidence entry compared with its source by the faithfulness judge | 6,866 claims (14%) |
-| Claims citing at least one DOI | 35,801 claims (73%) |
+| Every evidence entry compared with its source by the faithfulness judge | 6,882 claims (14%) |
+| Claims citing at least one DOI | 35,806 claims (73%) |
 | Sources whose citations went through the Crossref identity gate | 10,988 of 11,773 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
@@ -51,7 +51,7 @@ A claim whose evidence has no DOI after a Crossref and DataCite search is remove
 
 **Cannot catch.** Whether the DOI'd source is any good.
 
-**Coverage.** 35,801 of 48,866 claims (73%) cite a DOI; 2,886 claims removed for having none.
+**Coverage.** 35,806 of 48,866 claims (73%) cite a DOI; 2,886 claims removed for having none.
 
 ### 5. Faithfulness to the source
 
@@ -59,7 +59,7 @@ A second model, from a different provider, reads each evidence entry beside the 
 
 **Cannot catch.** A claim checked only against an abstract, for detail an abstract does not carry. The judge is a model and has been wrong; its failures are read before they are acted on.
 
-**Coverage.** 6,866 claims (14%) have had every evidence entry compared with its source and passed; 167 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
+**Coverage.** 6,882 claims (14%) have had every evidence entry compared with its source and passed; 167 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
 
 ### 6. Can the source be believed?
 

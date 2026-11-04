@@ -67,5 +67,5 @@ Same held-out comparison, accuracy metric at the 0.5 threshold. The article expl
 ## Related Claims
 - [Per-pitch BKT attains the highest accuracy, lowest BCE and lowest Brier score of the four model families, but lower AUC than IRT](bkt-highest-accuracy-lower-auc-than-irt.md) — related
 - [In Mnemosyne log data, item-specific difficulty parameters outperform a global difficulty for lower and higher Leitner decks, while global difficulty performs better for intermediate decks.](item-specific-difficulty-helps-only-at-low-and-high-leitner-decks.md) — related
-- [Latent singing ability varies widely across learners, with sequence-level theta estimates spanning −3.79 to 3.36 logits](wide-latent-ability-spread-singing-learners.md) — related
+- [Sequence-level estimates of latent singing ability vary widely, spanning −3.79 to 3.36 logits across 2,432 practice sequences from 1,074 learners](wide-latent-ability-spread-singing-learners.md) — related
 - [Low-register pitches are sung more accurately than high-register pitches in Chinese classrooms, reproducing register compression at scale](register-compression-singing-accuracy-chinese-classrooms.md) — related

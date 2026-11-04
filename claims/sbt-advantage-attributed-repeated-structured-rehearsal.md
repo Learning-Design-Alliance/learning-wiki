@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: alyami-wadha-2026
     resource: "https://doi.org/10.1186/s12909-026-09443-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors propose that practical skill improvement in the SBT group may reflect opportunities for repeated structured rehearsal within a controlled learning environment, and that the significant safety-station difference may reflect rehearsal of contamination management before exposure to real clinical hazards. [→ Alyami Wadha 2026](#alyami-wadha-2026)

@@ -10,9 +10,10 @@ generated:
 evidence_strength: weak
 newest_evidence: 2026
 sources:
-  - id: fang-2026
-    title: "Fang, Y., Jingmei, W., & Liping, H. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education."
-    author: "Fang, Y., Jingmei, W., & Liping, H."
+  - id: yang-2026
+    resource: "https://doi.org/10.1186/s12909-026-09489-w"
+    title: "Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w"
+    author: "Yang, F., Wang, J., & He, L."
     q: 2
     i: "?"
     kind: causal
@@ -26,13 +27,13 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In the observation group's separate 5-point Likert survey, satisfaction with AI usage (91.67% satisfied/very satisfied) was the lowest-rated project, and 6.67% were not confident enough to devise treatment plans. [→ Fang 2026](#fang-2026)
+`q2 i?` In the observation group's separate 5-point Likert survey, satisfaction with AI usage (91.67% satisfied/very satisfied) was the lowest-rated project, and 6.67% were not confident enough to devise treatment plans. [→ Yang 2026](#yang-2026)
 
 ## Evidence
 
-### Fang 2026
+### Yang 2026
 
-Fang, Y., Jingmei, W., & Liping, H. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education.
+Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w
 
 `q2 · i?` · `causal · r2`
 

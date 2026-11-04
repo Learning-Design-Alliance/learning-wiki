@@ -39,7 +39,7 @@ The authors recommend integrating TBL across the diagnostic imaging curriculum b
 
 ## Claims
 
-- [TBL and lecture-based instruction produce comparable chest radiograph interpretation performance in PA students](../claims/tbl-noninferior-lecture-chest-radiograph-interpretation.md) [+W]
+- [TBL and lecture-based instruction show no statistically significant difference in PA students' chest radiograph interpretation test scores](../claims/tbl-noninferior-lecture-chest-radiograph-interpretation.md) [+W]
 - [TBL produces significantly higher student engagement and peer/instructor interaction than lecture-based instruction](../claims/tbl-higher-engagement-peer-interaction-than-lecture.md) [+W]
 - [TBL students report higher self-efficacy on selected confidence-related items compared to lecture students](../claims/tbl-higher-self-efficacy-selected-items.md) [+W]
 

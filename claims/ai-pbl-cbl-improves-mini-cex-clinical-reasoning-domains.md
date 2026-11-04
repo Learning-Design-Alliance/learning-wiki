@@ -1,7 +1,7 @@
 ---
 type: claim
-title: AI-assisted PBL-CBL combined teaching improves Mini-CEX clinical reasoning domains (interviewing, physical examination, clinical judgment, communication) but not humanistic qualities/professionalism or organization/efficiency
-description: AI-assisted PBL-CBL combined teaching improves Mini-CEX clinical reasoning domains (interviewing, physical examination, clinical judgment, communication) but not humanistic qualities/professionalism or organization/ef...
+title: AI-assisted PBL-CBL combined teaching yields higher Mini-CEX scores than lecture-based teaching in interviewing, physical examination, clinical judgment and communication, with no statistically significant difference in humanistic qualities/professionalism or organization/efficiency
+description: In a randomised trial of 120 interns, AI-assisted PBL-CBL teaching scored higher than lecture on four core Mini-CEX domains; differences in humanistic qualities/professionalism and organization/efficiency were not statistically significant
 id: ai-pbl-cbl-improves-mini-cex-clinical-reasoning-domains
 status: review
 generated:
@@ -9,52 +9,55 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
-  - id: fang-2026
-    title: "Fang, Y., Jingmei, W., & Liping, H. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education."
-    author: "Fang, Y., Jingmei, W., & Liping, H."
+  - id: yang-2026
+    resource: "https://doi.org/10.1186/s12909-026-09489-w"
+    title: "Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w"
+    author: "Yang, F., Wang, J., & He, L."
     q: 3
     i: "?"
     kind: causal
     rigour: 2
-  - id: fang-2026-2
-    title: "Fang, Y., Jingmei, W., & Liping, H. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education."
-    author: "Fang, Y., Jingmei, W., & Liping, H."
+  - id: yang-2026-2
+    resource: "https://doi.org/10.1186/s12909-026-09489-w"
+    title: "Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w"
+    author: "Yang, F., Wang, J., & He, L."
     q: 3
     i: "?"
     kind: causal
     rigour: 2
 ---
 
-# AI-assisted PBL-CBL combined teaching improves Mini-CEX clinical reasoning domains (interviewing, physical examination, clinical judgment, communication) but not humanistic qualities/professionalism or organization/efficiency
+# AI-assisted PBL-CBL combined teaching yields higher Mini-CEX scores than lecture-based teaching in interviewing, physical examination, clinical judgment and communication, with no statistically significant difference in humanistic qualities/professionalism or organization/efficiency
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The observation group scored significantly higher on medical interviewing skills, physical examination skills, clinical judgment, communication skills, overall clinical competence, and total Mini-CEX score (all P < 0.0001). [→ Fang 2026](#fang-2026)
-`q3 i?` No statistically significant differences between groups were observed in humanistic qualities/professionalism (P = 0.19) or organization/efficiency (P = 0.62). [→ Fang 2026 (2)](#fang-2026-2)
+`q3 i?` The observation group scored significantly higher on medical interviewing skills, physical examination skills, clinical judgment, communication skills, overall clinical competence, and total Mini-CEX score (all P < 0.0001). [→ Yang 2026](#yang-2026)
+`q3 i?` No statistically significant differences between groups were observed in humanistic qualities/professionalism (P = 0.19) or organization/efficiency (P = 0.62). [→ Yang 2026 (2)](#yang-2026-2)
 
 ## Evidence
 
-### Fang 2026
+### Yang 2026
 
-Fang, Y., Jingmei, W., & Liping, H. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education.
+Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w
 
 `q3 · i?` · `causal · r2`
 
-Mini-CEX (primary outcome) administered as one standardized encounter with a real patient per student, scored by the same independent evaluator. The observation group showed "statistically significant improvements" in the four core clinical reasoning domains (all P < 0.0001); no effect sizes were printed for these domains.
+Mini-CEX (primary outcome) administered as one standardized encounter with a real patient per student, scored by the same independent evaluator. The observation group scored significantly higher than the lecture-based control group in the four core clinical reasoning domains (all P < 0.0001), a between-group comparison at a single post-intervention assessment; no effect sizes were printed for these domains.
 
 > "The observation group showed statistically significant improvements in medical interviewing skills (t = 6.07, P < 0.0001), physical examination skills (t = 4.46, P < 0.0001), clinical judgment (t = 10.69, P < 0.0001), and communication skills (t = 4.42, P < 0.0001)."
 
-### Fang 2026 (2)
+### Yang 2026 (2)
 
-Fang, Y., Jingmei, W., & Liping, H. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education.
+Yang, F., Wang, J., & He, L. (2026). Application of AI-assisted PBL-CBL combined teaching in the diagnosis and treatment of post-herpetic neuralgia: a randomised controlled trial. BMC Medical Education, 26(1), 1149. https://doi.org/10.1186/s12909-026-09489-w
 
 `q3 · i?` · `causal · r2`
 
-Same Mini-CEX assessment in the RCT. Two domains showed "no statistically significant differences" between groups; the authors attribute this to the teaching design focusing on core clinical skills and the short intervention duration.
+Same Mini-CEX assessment in the RCT. Two domains showed "no statistically significant differences" between groups, which does not establish that the teaching had no effect on them; the authors attribute this to the teaching design focusing on core clinical skills and the short intervention duration.
 
 > "no statistically significant differences were observed between the two groups in humanistic qualities/professionalism (t = 1.32, P = 0.19) and organization/efficiency (t = 0.49, P = 0.62)"
 

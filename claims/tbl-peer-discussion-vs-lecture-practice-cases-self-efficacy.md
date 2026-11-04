@@ -46,7 +46,7 @@ Thematic analysis of open-ended survey responses coded inductively by two indepe
 
 ## Related Claims
 - [TBL students report higher self-efficacy on selected confidence-related items compared to lecture students](tbl-higher-self-efficacy-selected-items.md) — related
-- [TBL and lecture-based instruction produce comparable chest radiograph interpretation performance in PA students](tbl-noninferior-lecture-chest-radiograph-interpretation.md) — related
+- [TBL and lecture-based instruction show no statistically significant difference in PA students' chest radiograph interpretation test scores](tbl-noninferior-lecture-chest-radiograph-interpretation.md) — related
 - [Student preference for CBL, PBL or TBL over traditional teaching was reported in 15 of 22 studies (68.1%), but only two studies used a controlled comparison with lecture](preference-over-lecture-15-studies-only-two-controlled.md) — related
 - [Logistical issues, particularly discussions cut short by the central coordinator and insufficient expert panel time, are the most frequently raised limitations of integrated TBL by students.](logistical-issues-most-frequent-tbl-limitation.md) — related
 - [Students most frequently reported active participation, student-teacher interaction, flexibility, repetitive watching, and peer interaction as advantages of the flipped classroom](flipped-classroom-perceived-advantages.md) — related

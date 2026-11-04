@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget
-description: Libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget
+title: Library directors at U.S. colleges of osteopathic medicine report that their libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget
+description: Library directors at U.S. colleges of osteopathic medicine report that their libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget
 id: library-expertise-essential-regardless-of-funding-source
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 recheck_by: 2031
 sources:
   - id: muellenbach-j-2026
@@ -21,14 +22,14 @@ sources:
     rigour: 2
 ---
 
-# Libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget
+# Library directors at U.S. colleges of osteopathic medicine report that their libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
-`q2 i?` Libraries consistently contributed expertise in licensing, vendor relations, and usage analytics reporting, and developed student-facing supports such as LibGuides and board prep boot camps that raised student awareness and engagement. [→ Muellenbach J 2026](#muellenbach-j-2026)
+`q2 i?` In interviews with 13 directors of libraries serving U.S. colleges of osteopathic medicine (from 35 survey respondents), libraries were described as consistently contributing expertise in licensing, vendor relations, and usage analytics reporting, and as developing student-facing supports such as LibGuides and board prep boot camps, which participants credited with raising student awareness and engagement; those outcomes were not measured. [→ Muellenbach J 2026](#muellenbach-j-2026)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Muellenbach J, Robinson K, Chen H, Bright HS IV, Fitterling L. (2026). Board exa
 
 `q2 · i?` · `qualitative · r2`
 
-Phase two interview findings on library contributions (RQ3). Directors described LibGuides, resource portals, and "board prep boot camps" consolidating resources regardless of funding unit; one called the online guide "one of our most visited pages."
+Phase two interview findings on library contributions (RQ3), from 13 library directors at U.S. colleges of osteopathic medicine who volunteered after the phase one survey (35 of 42 directors responded). Directors described LibGuides, resource portals, and "board prep boot camps" consolidating resources regardless of funding unit; one called the online guide "one of our most visited pages." Participants widely credited these supports with raising student awareness and engagement; the study reports that perception and did not measure awareness or engagement.
 
 > "Libraries consistently contributed expertise in licensing, vendor relations, and, in particular, the analysis and reporting of usage analytics, which directors used to advocate for renewals."
 

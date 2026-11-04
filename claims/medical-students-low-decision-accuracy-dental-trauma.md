@@ -49,4 +49,4 @@ Cross-sectional survey of 291 medical students using scenario-based vignettes sc
 - [Formal dental trauma training is weakly but significantly correlated with better decision-making performance](formal-training-correlated-with-better-performance.md) — related
 - [Self-assessed knowledge does not significantly predict correct decision-making in fracture scenarios](self-assessed-knowledge-not-predictive-fracture-decisions.md) — related
 - [General avulsion knowledge is the only significant predictor of clinical decision accuracy in regression analysis](general-avulsion-knowledge-predicts-decision-accuracy.md) — related
-- [Most dental students report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related
+- [Most fourth-year dental students at one Australian university report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related
