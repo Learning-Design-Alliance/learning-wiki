@@ -50,3 +50,4 @@ Uncontrolled before-and-after study of 114 trauma team members (28 surgery resid
 - [In one included study, simulation-based team training in a trauma bay was followed by a 16 percent reduction in total resuscitation time and faster completion of primary surveys.](steinemann-resuscitation-time-reduction.md) — related
 - [Evidence that NTS training improves clinical or process outcomes in EDs is limited but generally favourable in single-centre studies, including shorter resuscitation times and improved protocol adherence (low to very low certainty).](nts-training-clinical-outcomes-limited-evidence.md) — a broader claim this one bears on
 - [Simulation training reduced mean intubation time (149.81±108 sec before vs 51±96 sec after, p<0.001)](simulation-reduces-vl-intubation-time.md) — related
+- [Proportion of learners completing intubation in under 120 seconds increased after the curriculum](rcdp-simulation-increases-under-120-seconds-proportion.md) — related

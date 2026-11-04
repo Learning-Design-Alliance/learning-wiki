@@ -50,3 +50,4 @@ Paired t-test on the human-graded sample (N=50) found no growth in MSP, with a p
 - Correlations between estimated and true scores diminish over time mainly with easy items, especially with a true slope of .5 and only four items, likely due to ceiling effects — related
 - [No significant change was found in the importance of creating a safe learning environment, likely due to a ceiling effect](lq-no-change-importance-safe-environment-ceiling.md) — related
 - [Brief written rubric-based assessments may have limited sensitivity to detect incremental effects of serious-game add-ons due to potential ceiling effects](brief-rubric-assessment-limited-sensitivity-ceiling.md) — a narrower finding that bears on this claim
+- [No significant changes in self-efficacy for CPR or uterine balloon tamponade, likely reflecting high baseline confidence and a ceiling effect](no-significant-change-cpr-balloon-tamponade-ceiling-effect.md) — related

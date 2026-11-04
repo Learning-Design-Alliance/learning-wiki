@@ -53,6 +53,7 @@ The article recommends that the demand for modern teaching methods observed amon
 - [Use AISPs as a supplementary self-directed learning resource where direct patient contact is limited](aisp-supplementary-sdl-strategy.md)
 - [Use case-based learning and interactive augmented reality simulations as substitutes for direct clinical contact in TDI education.](case-based-learning-augmented-reality-tadi-education.md)
 - [Integrate structured reflection sessions like GGR into undergraduate clinical clerkships, especially where bedside exposure is limited](integrate-ggr-into-undergraduate-clerkships.md)
+- [Conduct bedside evidence-based nursing rounds during Year 4 clinical internships](bedside-ebp-nursing-rounds-strategy.md)
 
 ## Examples
 -

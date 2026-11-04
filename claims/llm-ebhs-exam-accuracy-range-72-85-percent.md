@@ -55,3 +55,4 @@ Cross-sectional evaluation of 10 LLMs on the complete 300-item EBHS written exam
 - [LLMs, particularly GPT-4, can match or exceed medical students' examination performance](llms-match-or-exceed-medical-students-exam-performance.md) — related
 - [ChatGPT-4 achieved an overall accuracy of 81% on the Polish PES orthopedics exam, exceeding the 75% passing threshold on average](chatgpt-4-81-percent-accuracy-pes-orthopedics.md) — related
 - [Current-generation LLMs achieve 86% to 94% mean success rates on European anesthesiology examination questions, exceeding the EDAIC part I passing threshold](llm-success-rates-86-94-percent-anesthesiology-exams.md) — related
+- [Batch delivery of ten questions converges LLM accuracy to 83%–88% with no statistically significant inter-model differences](batch-delivery-convergence-83-88.md) — related

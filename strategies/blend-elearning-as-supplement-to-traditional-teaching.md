@@ -62,6 +62,7 @@ The review's design recommendation is that educators should not seek to replace 
 - [Integrate web-based case analysis tools into blended learning combining digital case-based practice with face-to-face teaching](blended-digital-analogue-case-analysis-strategy.md)
 - [Integrate AISP platforms into medical curricula as complements to traditional teaching with expanded case variety](aisp-curricular-integration-strategy.md)
 - [Combine e-learning with face-to-face practice exchange groups to develop clinical reasoning](blended-learning-for-clinical-reasoning.md)
+- [Supplement practice-based training with synchronous and blended e-learning while retaining in-person clinical experiences](blended-synchronous-elearning-supplement-clinical-training.md)
 
 ## Examples
 -

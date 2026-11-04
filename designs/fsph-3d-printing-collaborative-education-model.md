@@ -17,7 +17,7 @@ sources:
 # 3D printing-assisted family-school-hospital collaborative education model for urinary system tumor early screening
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 An educational model combining 3D printing-assisted visual models of urinary system anatomy and pathology with a family-school-hospital collaborative program delivered via family WeChat groups over 6 months. Weekly online group activities included health education, case discussion and remote tutor guidance. The model integrates "3D visual training, multi-stakeholder collaboration, and family-level health decision-making" to cultivate medical interns' core competencies in tumor early detection.
@@ -43,9 +43,9 @@ An educational model combining 3D printing-assisted visual models of urinary sys
 
 ### Claims
 - [Fsph 3D Model Improves Tumor Screening Knowledge](../claims/fsph-3d-model-improves-tumor-screening-knowledge.md) [+M]
-- [Fsph 3D Model Improves Social Medical Curiosity](../claims/fsph-3d-model-improves-social-medical-curiosity.md) [+M]
-- [Fsph 3D Model Improves Self Directed Learning](../claims/fsph-3d-model-improves-self-directed-learning.md) [+M]
-- [Fsph 3D Model Improves Doctor Patient Communication](../claims/fsph-3d-model-improves-doctor-patient-communication.md) [+M]
+- [Medical interns in a 3D printing-assisted family-school-hospital programme had higher social medical curiosity scores after baseline adjustment than a non-randomised traditional-teaching group](../claims/fsph-3d-model-improves-social-medical-curiosity.md) [+W]
+- [Self-directed learning ability did not differ after baseline adjustment between medical interns in a 3D printing-assisted family-school-hospital programme and a non-randomised traditional-teaching group](../claims/fsph-3d-model-improves-self-directed-learning.md) [~W]
+- [Medical interns in a 3D printing-assisted family-school-hospital programme had higher doctor-patient communication (SEGUE) scores after baseline adjustment than a non-randomised traditional-teaching group](../claims/fsph-3d-model-improves-doctor-patient-communication.md) [+W]
 - [Fsph 3D Model No Effect Teamwork Transformative Learning](../claims/fsph-3d-model-no-effect-teamwork-transformative-learning.md) [-M]
 
 ## Related Designs

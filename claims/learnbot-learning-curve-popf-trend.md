@@ -49,3 +49,4 @@ Case-mix adjusted learning-curve estimation using generalized additive mixed mod
 - [Comparing the first 15 RPDs per center with subsequent procedures, operative time decreased while bile leakage grade B/C increased and most other outcomes did not significantly differ](learnbot-first15-versus-later-outcomes.md) — related
 - [LC-CUSUM trajectories showed progressive skill acquisition in both groups, with descriptive trends toward earlier competency in the mikoto arm](mikoto-lc-cusum-learning-curves.md) — related
 - [Case-mix imbalance (all grade IV patients and more prior procedures in Phase 1) did not fully explain the learning effect in risk-adjusted analysis](case-mix-imbalance-exploratory-adjustment.md) — related
+- [Postoperative pancreatic fistula rates remain stable along the RDP learning curve](rdp-popf-stable-along-learning-curve.md) — reports the opposite

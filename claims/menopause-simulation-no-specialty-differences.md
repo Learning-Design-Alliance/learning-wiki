@@ -47,3 +47,4 @@ Analysis of variance comparing knowledge improvement across 13 OB/GYN, 13 family
 ## Related Claims
 - [After usability testing and refinement, the simulation was piloted with 23 residents without unanticipated technical problems](pilot-23-residents-no-implementation-issues.md) — related
 - [Resident confidence in managing menopause improves across all survey questions after the simulation session](simulation-menopause-confidence-gains.md) — related
+- [A 3-hour simulation-based breaking bad news curriculum improves OB/GYN residents' self-perceived preparedness to deliver bad news](simulation-breaking-bad-news-improves-obgyn-resident-self-perceived-preparedness.md) — related

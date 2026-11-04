@@ -82,3 +82,4 @@ The chapter identifies six challenges for Phase VI systems, citing prior work. N
 - [GenAI models span multiple agent types, mainly model-based and goal-based, but categorisation is difficult without model specifics](genai-agent-type-characterisation.md) — related
 - [Explainable AI in education is an ethical design choice, grounded in the five principles of beneficial AI including explicability](explainable-ai-education-ethical-design-choice.md) — related
 - [The authors conclude the LLM-based simulator may be an accessible, cost-effective tool for clinical reasoning training, pending validation with objective outcomes](llm-simulator-accessible-cost-effective-pending-validation.md) — related
+- [LLM clinical reasoning performance is highly sensitive to input structure, with prompt structure a critical determinant of reliable behavior independent of model architecture](input-structure-determines-llm-reliability.md) — related

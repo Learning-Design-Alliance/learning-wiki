@@ -17,7 +17,7 @@ sources:
 # Integrate medical education with public health practice through family-centered tumor screening education
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article advocates a localized, family-oriented approach to cancer early detection education that supports "the integration of medical education and public health practice". The family-school-hospital collaborative platform integrates hospital, university and family resources, aligning with the public health concept of "multi-sector collaboration", and enables interns to transform clinical knowledge into family health guidance ability.
@@ -39,10 +39,10 @@ The article advocates a localized, family-oriented approach to cancer early dete
 
 ### Claims
 
-- [The collaborative model improves medical interns' doctor-patient communication ability](../claims/fsph-3d-model-improves-doctor-patient-communication.md) [+W]
+- [Medical interns in a 3D printing-assisted family-school-hospital programme had higher doctor-patient communication (SEGUE) scores after baseline adjustment than a non-randomised traditional-teaching group](../claims/fsph-3d-model-improves-doctor-patient-communication.md) [+W]
 - [A 3D printing-assisted family-school-hospital collaborative education model was associated with larger gains in medical interns' knowledge of urinary system tumor early screening than traditional teaching, in a non-randomised comparison](../claims/fsph-3d-model-improves-tumor-screening-knowledge.md) [+W]
-- [The collaborative model improves medical interns' self-directed learning ability](../claims/fsph-3d-model-improves-self-directed-learning.md) [+W]
-- [The collaborative model improves medical interns' social medical curiosity](../claims/fsph-3d-model-improves-social-medical-curiosity.md) [+W]
+- [Self-directed learning ability did not differ after baseline adjustment between medical interns in a 3D printing-assisted family-school-hospital programme and a non-randomised traditional-teaching group](../claims/fsph-3d-model-improves-self-directed-learning.md) [~W]
+- [Medical interns in a 3D printing-assisted family-school-hospital programme had higher social medical curiosity scores after baseline adjustment than a non-randomised traditional-teaching group](../claims/fsph-3d-model-improves-social-medical-curiosity.md) [+W]
 
 ## Related Designs
 

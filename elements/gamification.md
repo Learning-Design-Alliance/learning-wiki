@@ -90,6 +90,7 @@ Gamification is the element in which points, progress indicators, challenges, or
 ## Examples
 
 - [Gamified team point system with public tracking and a final excellence award](../strategies/gamified-team-points-excellence-award.md)
+- [Use family recognition and weekly ranked scoring to incentivize intern motivation](../strategies/family-recognition-incentive-mechanism.md)
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

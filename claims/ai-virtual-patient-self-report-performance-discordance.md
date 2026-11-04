@@ -59,3 +59,4 @@ Qualitative synthesis of Kirkpatrick level 2 findings reported in three included
 - [Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results](vp-attitudes-satisfaction-mixed.md) — related
 - [MEET remediation cohort showed significant overall OSCE improvement after AI virtual patient use](aivp-meet-cohort-significant-osce-gain.md) — related
 - [AI virtual patient use produced no statistically significant OSCE improvement in the volunteer cohort](aivp-volunteer-cohort-no-significant-osce-change.md) — related
+- [OSCE results validate improvements in technical accuracy and patient communication after training](osce-validates-bpm-skill-improvement.md) — related

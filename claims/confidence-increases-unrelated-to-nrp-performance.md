@@ -49,3 +49,4 @@ In the ANAKIN randomized pretest-posttest control group study (N = 60), confiden
 - [Fluid reasoning significantly predicted enjoyment but not self-efficacy after accounting for adaptability and covariates](fluid-reasoning-predicts-enjoyment-not-self-efficacy.md) — related
 - [There is not enough evidence that e-learning interventions prevent neonatal resuscitation knowledge and performance decay in already-certified providers](insufficient-evidence-elearning-prevents-nrp-decay.md) — related
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
+- [Participants' self-assessed confidence and performance improved after the curriculum](rcdp-simulation-improves-afio-confidence.md) — related

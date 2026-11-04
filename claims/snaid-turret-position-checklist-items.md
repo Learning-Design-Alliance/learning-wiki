@@ -49,3 +49,4 @@ Post-hoc comparison by turret position (N = 156); Table 2 reports turret 12 outp
 - [Simulation-based training with the Snaid® extrication device significantly improves ability to teach others, readiness to use the device, and willingness to recommend it](snaid-simulation-training-improves-teach-readiness-recommend.md) — related
 - [Turret position moderates post-training outcomes: turret 9 shows better skill and confidence, while turret 12 shows better comfort](snaid-turret-position-moderates-outcomes.md) — related
 - [Simulation-based training with the Snaid® extrication device significantly improves checklist-assessed procedural performance across all observed parameters](snaid-simulation-training-improves-procedural-checklist.md) — related
+- [No significant improvement in procedural checklist scores was observed](rcdp-simulation-no-checklist-score-improvement.md) — related

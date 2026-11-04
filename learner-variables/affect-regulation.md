@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 265 claims (191 show a difference, 48 mixed, 26 no difference) · 170 studies (55 associational, 44 causal, 32 review, 13 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 39 of 170 report an effect size · 259 claims rest on one study
+> **Evidence** · 266 claims (192 show a difference, 48 mixed, 26 no difference) · 171 studies (55 associational, 45 causal, 32 review, 13 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 39 of 171 report an effect size · 260 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -305,6 +305,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Self-reported emotion regulation and social adaptability scores rose significantly within all three swimming teaching groups over 16 weeks, with significant time × group interaction effects](../claims/swimming-intervention-omnibus-time-group-interaction.md) [+M] — measured as an outcome of the instruction studied
 - [Baseline sense of coherence and coping, not GPA, differentiate the post-graduation profiles](../claims/baseline-soc-coping-differentiate-profiles.md) [+M] — learners who differ on it differ in outcomes
 - [Cooperative learning swimming teaching produced the largest improvements in adolescent emotion regulation, significantly exceeding understanding and traditional teaching models](../claims/cooperative-learning-swimming-emotion-regulation.md) [+M] — measured as an outcome of the instruction studied
+- [PT-BET is associated with reduced perceived exam stress among participating medical students.](../claims/pt-bet-reduced-exam-stress.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

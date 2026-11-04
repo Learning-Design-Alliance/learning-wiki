@@ -54,3 +54,4 @@ Descriptive comparison in Table 2 (N = 45 per group): experimental means 53.26 (
 - [Experimental group mean scientific literacy score of 21.3967 versus control group mean of 11.8943](experimental-mean-21-4-versus-control-11-9.md) — related
 - [Tertiary First Step improves academic engaged time within the intervention group](tertiary-first-step-improves-academic-engaged-time.md) — related
 - [In the same RCT, the experimental group showed greater score gains than the control group in both written examination (22.24 ± 5.20 vs. 10.64 ± 5.96) and practical operation (21.80 ± 4.71 vs. 12.12 ± 4.79) outcomes](pbl-virtual-simulation-greater-score-gains-trauma-orthopedics.md) — related
+- [Both groups improved from baseline, with substantially greater gains in the rubric group](rubric-group-greater-pre-post-gains-crown-preparation.md) — related

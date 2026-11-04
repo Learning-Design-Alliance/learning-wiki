@@ -69,4 +69,5 @@ The review attributes this finding to Guend and colleagues, describing it as bas
 - [Fellowship-trained surgeons showed shorter operative times and fewer complications compared with non-fellowship peers](fellowship-trained-surgeons-shorter-operative-times-fewer-complications.md) — a narrower finding that bears on this claim
 - [Time-based metrics dominate robot-assisted learning curve assessment, and recovery and safety metrics show substantially longer learning curves than operating time](time-metrics-dominate-safety-curves-longer.md) — related
 - [After completing the LEARNBOT training program, 40 previously RPD-inexperienced surgeons across 20 European centers performed 486 RPDs with outcomes comparable to established benchmarks](learnbot-feasibility-outcomes-486-rpd.md) — related
+- [Previous laparoscopic experience accelerates the RDP learning curve](prior-laparoscopic-experience-accelerates-rdp-learning.md) — related
 

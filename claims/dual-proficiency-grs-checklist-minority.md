@@ -49,3 +49,4 @@ Retrospective observational study of resident procedure evaluations; the Table r
 - [Residents were significantly more likely to complete all checklist items than to achieve a GRS score ≥4 for both procedures](checklist-completion-more-likely-than-grs-4.md) — related
 - [Procedural performance differed by procedure type, with higher paracentesis volume and faster lumbar puncture checklist completion](procedure-type-volume-performance-differences.md) — related
 - [Resident self-assessments converged with supervisor assessments after a mean of about 1.3 procedures](self-assessment-converges-supervisor-feedback.md) — related
+- [No significant improvement in procedural checklist scores was observed](rcdp-simulation-no-checklist-score-improvement.md) — related

@@ -40,7 +40,8 @@ The review's forward-looking recommendation is that exercise be investigated as 
 - [Neurodevelopmental Compensation Account Adhd](../theories/executive-function-development.md)
 
 ## Related Strategies
-- 
+
+- [Incorporate cognitively rich physical activities as a promising avenue for supporting mathematics learning](cognitively-rich-pa-for-math-support-strategy.md)
 
 ## Examples
 -

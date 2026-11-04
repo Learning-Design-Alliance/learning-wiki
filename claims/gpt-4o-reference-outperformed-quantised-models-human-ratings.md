@@ -53,3 +53,4 @@ Human evaluation figures (Figs. 6–9) report gpt-4o above all quantised models 
 - [On benchmarks, GPT-3.5-turbo outperformed the fine-tuned Phi model in knowledge and story completion, while PhinetunEd scored best in story generation](phinetuned-benchmark-comparison-gpt.md) — related
 - [Cohort members predominantly used off-the-shelf multimodal LLMs, mostly OpenAI's GPT, and nearly all combined closed and open source models](cohort-model-use-off-the-shelf-gpt.md)
 - [Native speakers rated outputs of LLMs fine-tuned on Nigerian Pidgin English as understandable and context-aware, though no non-fine-tuned baseline was evaluated](pidgin-fine-tuning-improves-linguistic-alignment.md) — related
+- [GPT-4o–based multiagent framework achieved the highest factual consistency score of 0.769](gpt4o-highest-factual-consistency-0-769.md) — related

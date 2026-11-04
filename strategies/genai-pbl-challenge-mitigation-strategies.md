@@ -48,6 +48,7 @@ The article's recommended responses to the risks of GenAI in PBL: rigorous valid
 ## Related Strategies
 
 - [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
+- [Integrate retrieval-augmented generation fact-checking alongside batch delivery to reduce residual factual errors in LLM-based medical education](rag-fact-checking-medical-education.md)
 
 ## Examples
 -

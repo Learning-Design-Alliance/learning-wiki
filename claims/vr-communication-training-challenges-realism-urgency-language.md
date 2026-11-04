@@ -57,3 +57,4 @@ The review's thematic synthesis of challenges across the included studies identi
 - [Technical limitations including delayed responses and transcription errors constrained AIVP realism and rapport-building](aivp-technical-limitations-constrained-realism.md) — related
 - [Students reported limitations of community care simulation in session timing, preparation, facilitator support, performance anxiety and limited participation](ccs-perceived-limitations-timing-preparation-anxiety.md) — related
 - [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](ccs-perceived-strengths-realism-reasoning-communication.md) — related
+- [Conventional OSCEs face systemic limitations including restricted clinical scenario range, reliability concerns, and high preparation burden](conventional-osce-systemic-limitations.md) — related

@@ -48,6 +48,7 @@ The article recommends that AI literacy education extend beyond technical profic
 - [Differentiated interventions integrating AI literacy training, psychological capital cultivation, and professional identity reinforcement](differentiated-interventions-ai-literacy-psycap-commitment.md)
 - [Faculty development for GenAI-era teaching innovation should address professional identity, AI literacy, and teaching self-efficacy alongside knowledge](faculty-development-targeting-identity-literacy-and-efficacy.md)
 - [Integrate anxiety management and psychological-safety practices into simulation planning](anxiety-management-in-simulation-planning.md)
+- [Develop job-specific, multidimensional training modules differentiated by occupational role](job-specific-multidimensional-training-modules.md)
 
 ## Examples
 -

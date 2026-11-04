@@ -67,3 +67,4 @@ Statistical analysis of the coded-segment distribution across code categories, r
 - [All ESPEN nutrition learning objectives are found in the study's code system and in NKLM 2.0, but the ESPEN proposal lacks communication and counselling content](espen-objectives-covered-espen-lacks-communication.md) — related
 - [All communication competencies required for preventive nutrition counselling are demonstrated multiple times in NKLM 2.0](nklm2-communication-competencies-covered.md) — related
 - [NKLM 2.0 covers almost all required preventive nutrition-counselling competencies but lacks content on cooking and kitchen techniques, maternal nutrition during breastfeeding, nudging, and sensitive communication about body weight](nklm2-gaps-nutrition-counselling.md) — related
+- [Nutrition-related learning objectives are inconsistently distributed across knowledge, skills, and attitudes domains](nutrition-los-domain-distribution.md) — related

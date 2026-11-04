@@ -50,6 +50,7 @@ As a future research direction, the article proposes examining "how augmenting L
 - [Use LLMs in supervised settings to generate formative question variants and structured self-assessments for surgical trainees, while guarding against knowledge miscalibration.](supervised-llm-formative-question-generation-surgical-training.md)
 - [Refine LLM feedback prompts and adopt RAG to reduce verbosity and align feedback with course content](refine-llm-prompts-rag-reduce-verbosity.md)
 - [Technical integration of GSR knowledge via onboarding system prompts, knowledge graphs, retrieval-augmented generation, and a control module](gsr-knowledge-technical-integration-strategies.md)
+- [Integrate retrieval-augmented generation fact-checking alongside batch delivery to reduce residual factual errors in LLM-based medical education](rag-fact-checking-medical-education.md)
 
 ## Examples
 -

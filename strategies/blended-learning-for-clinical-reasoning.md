@@ -47,6 +47,7 @@ Because e-learning alone did not improve clinical reasoning, the authors recomme
 
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours](vp-replace-passive-before-bedside-strategy.md)
+- [Supplement practice-based training with synchronous and blended e-learning while retaining in-person clinical experiences](blended-synchronous-elearning-supplement-clinical-training.md)
 
 ## Examples
 -

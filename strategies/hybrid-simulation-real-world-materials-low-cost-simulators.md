@@ -57,6 +57,7 @@ The review recommends hybrid simulation approaches that combine different low-co
 - [Integrate TBL with real-world clinical scenarios and clear discussion guidelines](tbl-real-world-scenarios-clear-guidelines.md)
 - [Use simulations, dedicated clinical time, and interprofessional education to teach family caregiver collaboration](family-caregiver-simulation-clinical-iep-strategies.md)
 - [Improve mannequin design and increase practice opportunities to enhance SBL in oral radiology](improve-mannequin-design-and-practice-opportunities.md)
+- [Simulation-based training curriculum for high-risk, low-frequency prehospital emergencies](simulation-training-high-risk-low-frequency-events.md)
 
 ## Examples
 -

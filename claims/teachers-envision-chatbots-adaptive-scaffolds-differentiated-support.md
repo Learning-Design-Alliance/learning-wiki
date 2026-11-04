@@ -54,3 +54,4 @@ Focus-group interview thematic analysis during summer 2026 PD workshops with 27 
 - [The chatbot often provided more scaffold types than requested, and supplying classified question scope to the chatbot raised scaffold precision above .60](chatbot-over-helping-scaffold-precision.md) — related
 - [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — a broader claim this one bears on
 - [Teachers designed tasks with dilemmas, unfamiliar scenarios, and differentiation intended to support transfer, without assessing capability](capability-oriented-design-dimension.md) — related
+- [Educational needs vary by occupational group, supporting differentiated role-based training modules](fgi-role-differentiated-training-needs.md) — related

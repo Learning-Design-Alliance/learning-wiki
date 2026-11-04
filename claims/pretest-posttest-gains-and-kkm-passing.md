@@ -54,3 +54,4 @@ Pretest-posttest descriptive results in the quasi-experiment: experimental avera
 - [Overall, the experimental group's posttest average was significantly higher than the control group's despite both groups declining from pretest to posttest.](wikipedia-corpus-overall-posttest-significant-advantage.md) — related
 - [SBSM students outperformed both control groups and district/state averages on FITNESSGRAM passing](sbsm-students-outperformed-controls-fitnessgram.md) — related
 - [The RS group scored significantly lower on grammar posttests](rs-group-significantly-lower-grammar-posttest.md) — related
+- [Both groups improved from baseline, with substantially greater gains in the rubric group](rubric-group-greater-pre-post-gains-crown-preparation.md) — related

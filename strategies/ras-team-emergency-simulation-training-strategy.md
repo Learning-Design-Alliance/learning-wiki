@@ -55,6 +55,7 @@ The review recommends that RAS teams routinely rehearse emergency scenarios such
 ## Related Strategies
 
 - [Structured cross-platform training curriculum combining generalised exposure and platform-specific proficiency](cross-platform-training-curriculum-robotic-surgery.md)
+- [Simulation-based training curriculum for high-risk, low-frequency prehospital emergencies](simulation-training-high-risk-low-frequency-events.md)
 
 ## Examples
 -

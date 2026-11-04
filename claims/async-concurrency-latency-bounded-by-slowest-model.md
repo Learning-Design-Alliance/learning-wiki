@@ -51,3 +51,4 @@ Architectural analysis in Section 3.1 of the asynchronous concurrency model. The
 - [Teaching interactions typically conclude within 30 dialogue turns, motivating a 30-turn cap to prevent dead loops](teaching-sessions-conclude-within-30-turns.md) — related
 - [The ELEVATE server pipeline runs locally on two heterogeneous consumer machines, keeping LLM and TTS models fully resident in memory for low-latency inference](elevate-local-two-machine-low-latency-deployment.md) — related
 - [Reasoning models performed best for case generation but were unsuitable for real-time patient simulation due to long response latency](reasoning-models-latency-unsuitable-simulator.md) — related
+- [Qwen3-32B–based VP achieved approximately 3 s latency and highest multiturn engagement averaging 13 turns](qwen3-32b-latency-3s-13-turns.md) — related

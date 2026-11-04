@@ -55,6 +55,7 @@ The article's practical implications recommend that "students should be provided
 - [Teacher supports for self-regulated GenAI feedback engagement](teacher-supports-self-regulated-genai-feedback.md)
 - [Promoting Self-Directed Learning Strategies](promoting_self-directed_learning_strategies.md)
 - [Teach Self Regulation Strategies](teach-self-regulation-strategies.md)
+- [Use learning notes, regular outcome analysis, and improvement identification to strengthen nurses' self-evaluation capacity](learning-notes-self-evaluation-nurses.md)
 
 ## Examples
 -

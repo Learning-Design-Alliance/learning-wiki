@@ -54,3 +54,4 @@ In the same assessor-blinded randomized trial, the OSCE comparison favored the e
 - [Scenario simulation combined with case teaching improved doctor-patient communication skills more than traditional lecture-based training](scenario-simulation-improves-doctor-patient-communication.md) — related
 - [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](simulation-crossover-22-percent-increase-critically-unwell.md) — related
 - [AI-group students achieve significantly higher total OSCE scores than control-group students](ai-simulated-patient-osce-scores-gynecology.md) — related
+- [Residents report increased comfort delivering bad news for specific clinical scenarios after simulation training](simulation-training-increases-comfort-specific-obgyn-scenarios.md) — related

@@ -73,3 +73,4 @@ The review's challenges synthesis (RQ2, Table 2) codes challenges to learners (d
 - [Blended learning poses challenges for students and institutions, including unrealistic expectations, isolation, and technology and support issues](blended-learning-challenges-students-institutions.md) — related
 - [Educational programs incorporating realistic simulations, virtual technologies, and interprofessional exercises are most effective in improving technical skills, confidence, and crisis management](rea-36-studies-simulation-virtual-interprofessional-most-effective.md) — related
 - [Controller-operation difficulty was the most commonly reported challenge and may have impeded immersion](ncpr-vr-controller-difficulty-feedback.md) — related
+- [Conventional OSCEs face systemic limitations including restricted clinical scenario range, reliability concerns, and high preparation burden](conventional-osce-systemic-limitations.md) — related

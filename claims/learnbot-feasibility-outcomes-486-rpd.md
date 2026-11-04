@@ -52,3 +52,4 @@ Prospective collection in the E-MIPS registry of all consecutive RPDs performed 
 - [Technical errors during biotissue training decreased significantly per attempt, but clinically relevant errors remained at the final attempt, especially for pancreaticojejunostomy](learnbot-error-decrease-residual-errors.md) — related
 - [Fellowship-trained surgeons showed shorter operative times and fewer complications compared with non-fellowship peers](fellowship-trained-surgeons-shorter-operative-times-fewer-complications.md) — related
 - [Surgeons' previous experience and participation in structured training programmes are associated with shorter robot-assisted learning curves](experience-and-training-programmes-shorten-learning-curves.md) — related
+- [Postoperative pancreatic fistula rates remain stable along the RDP learning curve](rdp-popf-stable-along-learning-curve.md) — related

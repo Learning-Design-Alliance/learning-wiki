@@ -50,3 +50,4 @@ The review reports Klang et al.'s blind assessment of Chat-GPT 4 MCQs across int
 - [Chat-GPT generated more valid physiology MCQs than Bard and Bing, but at a lower difficulty level](chatgpt-more-valid-lower-difficulty-than-bard-bing.md) — related
 - [Only 40% of ChatGPT-generated dermatology board-style questions were applicable for exams](dermatology-mcqs-40-percent-applicable.md) — related
 - [Most reviewed studies (5 of 8) demonstrated that LLMs can produce MCQs valid for medical exams](llm-mcq-generation-majority-valid.md) — a broader claim this one bears on
+- [Expert physician review excluded 23 of 100 LLM-generated MCQs, yielding a validated set of 77 questions](physician-validation-77-mcqs.md) — a narrower finding that bears on this claim

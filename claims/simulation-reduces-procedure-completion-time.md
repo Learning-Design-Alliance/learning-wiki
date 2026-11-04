@@ -47,3 +47,4 @@ A quasi-experimental between-group comparison of 404 first-semester medical stud
 ## Related Claims
 - [Simulation-based teaching produces higher post-intervention technical skill scores and success rates for blood-sampling procedures than traditional teaching](simulation-higher-technical-skills-success-rates.md) — related
 - [Pork belly simulation training reduces TAP block procedure time compared to traditional training](pork-belly-sim-shorter-tap-procedure-time.md) — a narrower finding that bears on this claim
+- [The review reports, citing Maza et al, that surgical simulation of an arterial injury significantly reduced time to hemostasis and blood loss](simulation-reduces-hemostasis-time-and-blood-loss-cited.md) — related

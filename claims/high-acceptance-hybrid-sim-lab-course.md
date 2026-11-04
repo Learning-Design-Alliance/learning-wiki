@@ -48,3 +48,4 @@ Descriptive survey results from 516 valid questionnaires (Table 2); willingness 
 - [Willingness to study online courses in spare time showed only a weak correlation with practical skill improvement (r = 0.269, p < 0.001)](willingness-online-leisure-weak-correlation.md) — related
 - [Satisfaction with course content selection correlated strongly with perceived practical skill improvement (r = 0.541, p < 0.001)](satisfaction-content-correlates-skill-improvement.md) — related
 - [Most nurses expressed satisfaction with the AMS course content and its relevance to everyday practice](nursing-ams-course-satisfaction-relevance.md) — related
+- [Providers are highly receptive to AKI guideline implementation, with acceptability scores averaging 29.1/30 and 89.8% expressing willingness to follow guidelines.](high-guideline-acceptability-aki-rwanda.md) — related

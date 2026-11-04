@@ -55,6 +55,7 @@ The article recommends that universities design interventions addressing technol
 - [Restructure the university curriculum with graded AI-technology courses and cultivate MTES self-efficacy to advance AI-TPACK](restructure-curriculum-cultivate-self-efficacy.md)
 - [Design AI literacy curricula that foster self-efficacy beliefs alongside technical skills to protect against overreliance](ai-literacy-curricula-foster-self-efficacy-not-only-technical-skills.md)
 - [Use the five-dimension literacy model to design AI-integrated graduate education and literacy cultivation strategies](design-ai-integrated-graduate-education-strategies.md)
+- [Develop job-specific, multidimensional training modules differentiated by occupational role](job-specific-multidimensional-training-modules.md)
 
 ## Examples
 -

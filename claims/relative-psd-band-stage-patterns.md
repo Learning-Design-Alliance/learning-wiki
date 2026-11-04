@@ -68,3 +68,4 @@ Same whole-brain alpha-band comparison: Stage 1 alpha was lower in lectures and 
 - [MRMR feature ranking identifies occipital alpha PSD as the most discriminative feature, followed by frontal gamma, high-beta, and theta](mrmr-occipital-alpha-top-feature.md) — related
 - [Hemispheric dissociation: right hemisphere sensitive to stage differences, left hemisphere to task differences](eeg-hemispheric-stage-task-dissociation.md) — related
 - [Machine learning models classify the three learning stages from EEG features with over 80% test accuracy, SVM highest at 82.6%](eeg-stage-classification-over-80.md) — related
+- [Integrated mixed-methods analysis revealed stage-specific characteristics across academic years](stage-specific-mixed-methods-patterns.md) — related

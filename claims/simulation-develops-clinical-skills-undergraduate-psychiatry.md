@@ -49,3 +49,4 @@ The review's concluding synthesis of four included studies, including a quasi-ex
 - [Integrative competencies were rarely operationalised as explicit assessment constructs in the reviewed simulation-based psychiatry literature](integrative-competence-rarely-operationalised.md) — related
 - [A simulation-based group showed stronger emotional and clinical preparedness and knowledge-to-practice conversion than a seminar-based comparison group](sble-group-stronger-than-seminar-eol-preparedness.md) — related
 - [Students performed better at the beginning of the interview than at the end, consistent with prior communication-skills evaluations](better-performance-early-interview.md) — related
+- [Limited placement exposure is perceived to contribute to underdeveloped therapeutic interpersonal skills and task-focused practice](limited-placement-underdeveloped-therapeutic-skills.md) — related

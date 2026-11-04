@@ -52,3 +52,4 @@ Latent variable model of the three-wave sample; the abstract states "there was s
 - [EC factor loadings on executive tasks strengthen and stabilize across the preschool period](ec-loadings-strengthen-stabilize-preschool.md) — related
 - [Family income-to-needs at age 3 predicts both EF and ToM through age 5](income-to-needs-predicts-ef-and-tom.md) — related
 - [Executive function at age 3 predicts theory of mind at age 4, controlling for gender, income-to-needs, and receptive language](ef-at-3-predicts-tom-at-4.md) — related
+- [Organization and planning and self-control show the strongest loadings on the latent EF construct](ef-strongest-loadings-organization-self-control.md) — related

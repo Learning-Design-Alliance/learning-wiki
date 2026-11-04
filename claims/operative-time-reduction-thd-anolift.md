@@ -51,3 +51,4 @@ Retrospective cohort analysis of operative time as a continuous measure of techn
 - [Tertile analysis showed a significant stepwise decrease in operative time across experience but only a non-significant decreasing trend in composite failure](tertile-analysis-stepwise-operative-time.md) — related
 - [Surgeon experience in hip arthroscopy is associated with significantly shorter operative time in late versus early experience phases](hip-arthroscopy-experience-shorter-operative-time.md) — related
 - [Comparing the first 15 RPDs per center with subsequent procedures, operative time decreased while bile leakage grade B/C increased and most other outcomes did not significantly differ](learnbot-first15-versus-later-outcomes.md) — related
+- [Operative time decreases significantly after reaching competency at 46 RDP procedures](rdp-operative-time-decrease-after-competency.md) — related

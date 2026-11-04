@@ -89,3 +89,5 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Male interns report significantly higher self-perceived clinical confidence than females, while theoretical knowledge does not differ significantly by gender](gender-confidence-knowledge-difference-veneers.md) — related
 - [VR simulation performance shows no significant association with prior VR experience, age, gender, or professional background](vr-performance-no-individual-factor-associations.md) — related
 - [Postgraduate qualification was positively and health education specialisation negatively associated with teaching efficacy; female teachers scored higher on pedagogical knowledge](demographic-covariates-knowledge-efficacy.md) — related
+- [Gender, degree type, and personality show differential associations with course outcome dimensions](demographic-differences-course-dimensions.md) — related
+- [Female nursing students report greater e-learning satisfaction, higher self-efficacy, and higher perceived academic performance than male students](female-nursing-students-higher-satisfaction-self-efficacy-performance.md) — reports the opposite

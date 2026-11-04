@@ -53,3 +53,4 @@ Correlation matrices from the ECLS-K: 2010 at waves 1, 2, and 4 (Table 3); all c
 - [Executive functions and working memory correlate moderately to strongly with mathematics achievement (r = .28 to .40), from preschool through elementary school](executive-functions-and-working-memory-correlate-with-math-achievement.md) — related
 - [Executive functions show consistent positive meta-analytic associations with academic outcomes](efs-positively-associated-academic-outcomes.md) — a broader claim this one bears on
 - [EF abilities strongly predict pre-academic abilities in preschoolers](efs-predict-preacademic-abilities-preschool.md) — related
+- [EF strongly predicts mathematics achievement with an unusually large standardized path (β ≈ 0.96–0.97)](ef-strongly-predicts-math-latent-path.md) — related

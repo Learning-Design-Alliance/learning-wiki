@@ -50,6 +50,7 @@ The authors recommend a sequence for curricular integration: "First, it is neces
 ## Related Strategies
 
 - [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](scaffolded-collaborative-to-individual-simulation-progression.md)
+- [Integrate BPSO guidelines into core courses through evidence-based situational simulations](bpso-guideline-integration-simulations.md)
 
 ## Examples
 -

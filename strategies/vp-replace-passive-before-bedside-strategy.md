@@ -62,6 +62,7 @@ The review recommends deploying virtual patients where they show the greatest be
 - [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
 - [Use AISPs as a supplementary self-directed learning resource where direct patient contact is limited](aisp-supplementary-sdl-strategy.md)
 - [Combine e-learning with face-to-face practice exchange groups to develop clinical reasoning](blended-learning-for-clinical-reasoning.md)
+- [Use multiagent virtual patient frameworks as scalable, customizable alternatives to standardized patients in clinical communication training](multiagent-vp-alternative-to-standardized-patients.md)
 
 ## Examples
 -

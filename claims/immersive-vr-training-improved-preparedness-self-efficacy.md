@@ -53,3 +53,4 @@ Quasi-experimental pre–post one-group study (Alsaqer and Alhmoud 2025, Jordan)
 - [An online educational program produced slight but non-significant improvements in nurses' familiarity and attitudes toward disaster preparedness](online-program-no-significant-familiarity-attitude-change.md) — related
 - [A structured educational intervention improved pediatric emergency nurses' mass casualty incident readiness](pediatric-mci-educational-intervention-improved-readiness.md) — related
 - [Simulated education and training improved nursing students' disaster evacuation knowledge, skills, and preparedness across all subcategories](simulated-education-improved-evacuation-competencies.md) — related
+- [SFHC intervention improved nursing learning self-efficacy scores post-intervention](sfhc-improved-nursing-self-efficacy.md) — related

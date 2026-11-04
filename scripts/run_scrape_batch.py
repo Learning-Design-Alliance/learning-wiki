@@ -582,6 +582,16 @@ def run(args) -> None:
         # or design the page itself misstates stays open for a person or agent.
         _run_chained_step([sys.executable, "-u", "scripts/judge_study_validity.py", "--annotate", "--apply"],
                           SCRAPE_CONSOLE_LOG_PATH)
+        # Claims whose every causal study measured one group before and after are reworded
+        # to what was observed (retitle_causal_prepost.py; asked for by the maintainer
+        # 2026-11-04, after most load-bearing failures on PubMed batches turned out to be
+        # causal titles on uncontrolled designs). A second model checks each rewording and
+        # only an accepted, validated one is written; self-report wording needs the coded
+        # evidence cells to agree. Link text on citing pages follows. After the study-validity
+        # judge, whose verdicts it reads; the indexes are rebuilt by the steps below.
+        print(f"\n=== rewording causal titles on pre-post claims ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/retitle_causal_prepost.py",
+                           "--apply", "--new", "--budget", "1"], SCRAPE_CONSOLE_LOG_PATH)
         # Sort the batch's new claims by how a design decision could depend on them
         # (sort_claims.py --all asks only about claims not yet sorted). Nothing here did
         # until 2026-10-30, when 9,862 claims were found unsorted: the research-practice

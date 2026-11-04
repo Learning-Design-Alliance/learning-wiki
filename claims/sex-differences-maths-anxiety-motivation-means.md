@@ -60,3 +60,4 @@ Univariate ANOVAs across TEDS continuous variables; the article reports sex expl
 - [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](female-students-higher-ai-and-job-anxiety.md) — related
 - [Male students reported higher confidence in using VR simulation technology independently than female students](gender-gap-vr-confidence-orthodontics.md) — related
 - [Female students significantly outperformed male students in mathematics achievement](female-students-outperform-males-math-achievement.md) — related
+- [Female nursing students report greater e-learning satisfaction, higher self-efficacy, and higher perceived academic performance than male students](female-nursing-students-higher-satisfaction-self-efficacy-performance.md) — related

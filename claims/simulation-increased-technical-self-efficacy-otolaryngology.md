@@ -47,3 +47,4 @@ Paired t-test comparison of pre- and postsimulation technical self-efficacy (tra
 ## Related Claims
 - [Multidisciplinary simulation increased nontechnical self-efficacy by 0.3 points on a 4-point scale](simulation-increased-nontechnical-self-efficacy-otolaryngology.md) — related
 - [Simulation-based training is associated with communication and teamwork gains of approximately 2–3 points and NOTSS domain means of 2.8–3.5 on 4-point scales](simulation-communication-teamwork-gains-notss.md) — related
+- [Mean self-efficacy scores significantly increased for comfort managing emergencies, resource knowledge, resource utilization, communication, oversedation management, and LAST management](significant-self-efficacy-gains-six-domains-hysteroscopy-simulation.md) — related

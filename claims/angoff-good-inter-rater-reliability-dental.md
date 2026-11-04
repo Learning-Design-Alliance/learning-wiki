@@ -53,3 +53,4 @@ The review's synthesis of reliability findings across included primary studies r
 - [Reliability of identified procedural skills assessment tools is limited, with κ ranging from 0.65 to 0.93 and much missing entirely](limited-reliability-procedural-tools-kappa-range.md) — related
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
 - [Reliability of the modified Angoff procedure increases as the number of raters increases for both faculty and LLM panels](angoff-reliability-increases-with-rater-number.md) — a narrower finding that bears on this claim
+- [The pediatric SCT instrument with aggregate scoring showed good-to-excellent inter-rater reliability and acceptable internal consistency](sct-aggregate-scoring-reliability-pediatric-topics.md) — related

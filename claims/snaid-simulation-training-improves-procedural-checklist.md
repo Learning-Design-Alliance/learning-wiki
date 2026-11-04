@@ -52,3 +52,4 @@ One-group pretest-posttest study (N = 156); procedural performance assessed with
 - [Simulation-based training with the Snaid® extrication device significantly improves skill, confidence, and comfort among military personnel](snaid-simulation-training-improves-skill-confidence.md) — related
 - [Simulation-based training with the Snaid® extrication device significantly improves ability to teach others, readiness to use the device, and willingness to recommend it](snaid-simulation-training-improves-teach-readiness-recommend.md) — related
 - [Turret position moderates specific checklist items at post-test, favoring turret 12](snaid-turret-position-checklist-items.md) — related
+- [No significant improvement in procedural checklist scores was observed](rcdp-simulation-no-checklist-score-improvement.md) — reports the opposite

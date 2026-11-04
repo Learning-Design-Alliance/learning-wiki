@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 128 claims (75 for, 44 mixed, 9 against) · 112 studies (41 associational, 38 causal, 17 review, 8 quant-synthesis, 6 design, 2 qualitative), `q1`–`q4` · 34 of 112 report an effect size · 123 claims rest on one study
+> **Evidence** · 131 claims (77 for, 45 mixed, 9 against) · 114 studies (42 associational, 38 causal, 17 review, 8 quant-synthesis, 7 design, 2 qualitative), `q1`–`q4` · 34 of 114 report an effect size · 126 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -176,6 +176,9 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Participants reported perceived increases in confidence when approaching early clinical tasks after completing the integrated module.](../claims/integrated-module-increases-confidence-early-clinical-tasks.md) [+W]
 - [A video-based climate change program improved nursing students' climate change perceptions, environmental self-efficacy, and reduced climate anxiety, with large effects](../claims/video-based-climate-program-large-effects-students.md) [+W]
 - [63.9% of students reported increased confidence in neuroanatomy over time despite low baseline confidence](../claims/pre-class-tests-confidence-growth-over-time.md) [~W]
+- [No significant changes in self-efficacy for CPR or uterine balloon tamponade, likely reflecting high baseline confidence and a ceiling effect](../claims/no-significant-change-cpr-balloon-tamponade-ceiling-effect.md) [~W]
+- [Mean self-efficacy scores significantly increased for comfort managing emergencies, resource knowledge, resource utilization, communication, oversedation management, and LAST management](../claims/significant-self-efficacy-gains-six-domains-hysteroscopy-simulation.md) [+W]
+- [Self-efficacy is positively associated with core competence among infectious disease nurses](../claims/self-efficacy-core-competence-infectious-disease-nurses.md) [+W]
 
 ## The evidence by question
 

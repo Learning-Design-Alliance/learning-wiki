@@ -67,6 +67,7 @@ Well-structured lessons support learning because they manage the learner's cogni
 - [Pair each performance objective with a demonstration-based suggested activity and coded resource references](objective-activity-resource-alignment-strategy.md)
 - [Design science education materials through curriculum-aligned teaching-learning sequences specifying driving questions, competency-based objectives, scientific practices and student activities](curriculum-aligned-tls-design-recipe.md)
 - [Pair a CALL oral-language program with scripted teacher-led lessons for pre-teaching and reteaching](call-with-teacher-led-lessons-strategy.md)
+- [Structure preceptorship around a written guide specifying case discussion, reasoning prompts, real-time feedback, and management-plan formulation](written-preceptor-guide-cognitive-apprenticeship-sessions.md)
 
 ## Examples
 - **[Success for All](../products/success-for-all.md)** reading program — tightly scripted daily lesson plans with built-in regrouping based on assessment data; one of the most extensively evaluated structured-planning interventions in K–12 research

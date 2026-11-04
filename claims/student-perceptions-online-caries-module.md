@@ -52,3 +52,4 @@ Survey of the 16 students who used the module; Table 4 shows 62.5% agreed or str
 - [Computing students rate short AI-generated Markdown videos favorably across quality, comprehension, and accuracy dimensions](students-rate-ai-markdown-videos-favorably.md) — related
 - [Participants report strong future engagement intentions and high enjoyment of the e-textile STEAM PD program](e-textile-pd-future-engagement-satisfaction.md) — related
 - [Graduate students rated AI-generated weekly readings as effective preparation, with 75% agreeing they learned more than in a comparable course without AI assistance](ai-generated-readings-positive-perceived-value-graduate-course.md) — related
+- [Most students (84%) endorse continuing the BPM Essentials module in future curricula, with PA students rating it more favorably](student-endorsement-bpm-module.md) — related

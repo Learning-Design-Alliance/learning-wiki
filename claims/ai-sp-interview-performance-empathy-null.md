@@ -78,3 +78,4 @@ Same blinded simulated interview assessment; Table 3 reports empathy 4.02 ± 0.6
 - [AI-assisted peer teaching improves OSCE performance, with the largest effect on clinical reasoning](ai-assisted-peer-teaching-osce-clinical-reasoning.md) — related
 - [AI-powered simulated patient practice improves clinical reasoning measured by the CRI-HT scale](aisp-cortex-improves-cri-ht-reasoning.md) — related
 - [AI-simulated patients improve gynecological history-taking checklist completion and reduce missed key items compared with instructor-led standardized patients](ai-simulated-patient-checklist-completion-gynecology.md) — related
+- [OSCE results validate improvements in technical accuracy and patient communication after training](osce-validates-bpm-skill-improvement.md) — related

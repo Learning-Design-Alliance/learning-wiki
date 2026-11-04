@@ -43,7 +43,8 @@ The review reports Nielson et al.'s recommendation that "clinical learning exper
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Integrate BPSO guidelines into core courses through evidence-based situational simulations](bpso-guideline-integration-simulations.md)
 
 ## Examples
 -

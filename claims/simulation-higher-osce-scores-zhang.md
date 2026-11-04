@@ -52,3 +52,4 @@ Narrative review attributing this to Zhang et al.'s study in which students were
 - [Students achieved high and consistent OSCE handover performance across antenatal and postpartum stations after the intervention](isbar-osce-high-consistent-performance.md) — related
 - [Simulation-trained students showed higher mean scores across all four OSCE stations compared with clinically trained peers](sbt-higher-mean-scores-all-osce-stations.md) — a narrower finding that bears on this claim
 - [Simulation-trained students significantly outperformed clinically trained peers on the radiation safety procedures OSCE station](sbt-outperforms-cbt-safety-procedures-station.md) — related
+- [OSCE results validate improvements in technical accuracy and patient communication after training](osce-validates-bpm-skill-improvement.md) — a narrower finding that bears on this claim

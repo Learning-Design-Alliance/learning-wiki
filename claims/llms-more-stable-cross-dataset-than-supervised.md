@@ -73,3 +73,4 @@ RQ2 model-level comparison across all prompting strategies and datasets (Table 3
 - [Transfer between two specific datasets is asymmetric: Sangodiah-trained models transfer unusually well to Gani questions](sangodiah-gani-asymmetric-transfer.md) — related
 - [The fine-tuned T5 question-extraction model reached an average training loss of 0.4098, indicating imperfect question extraction](t5-finetuning-average-loss-04098.md) — related
 - [A fine-tuned SBERT Transformer SAG model for German approximates but does not beat hand-crafted feature-based models in unseen-question evaluation](german-transformer-sag-approximates-feature-models.md) — related
+- [Multiagent framework demonstrated stable cross-specialty scalability with lower variability than single-LLM baseline](multiagent-stable-cross-specialty-scalability.md) — a narrower finding that bears on this claim

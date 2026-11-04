@@ -49,3 +49,4 @@ Repeated measures GLM on the importance of creating a safe learning environment.
 - [Survey items show good discrimination overall, but several items exhibit ceiling effects that limit measuring change over time](survey-item-discrimination-and-ceiling-effects.md) — related
 - [Workplace harassment did not significantly degrade teacher self-efficacy, plausibly due to a ceiling effect](harassment-no-significant-effect-teacher-self-efficacy.md) — related
 - [Teachers rated the importance of promoting students’ SEL significantly higher after the Lions Quest workshop, while the comparison group did not change](lq-workshop-increased-perceived-importance-of-sel.md) — related
+- [No significant changes in self-efficacy for CPR or uterine balloon tamponade, likely reflecting high baseline confidence and a ceiling effect](no-significant-change-cpr-balloon-tamponade-ceiling-effect.md) — related

@@ -65,6 +65,7 @@ Leaderboards operate on competitive and achievement-based motivation, which reli
 - Team-based competition — shifts comparison from individual to group level
 - [Sequence and restrict absolute leaderboard visibility to protect lower-ranked students' motivation](restrict-and-alternate-leaderboard-visibility.md)
 - [Gamified team point system with public tracking and a final excellence award](gamified-team-points-excellence-award.md)
+- [Use family recognition and weekly ranked scoring to incentivize intern motivation](family-recognition-incentive-mechanism.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the scoring mechanism that feeds the leaderboard

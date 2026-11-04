@@ -73,3 +73,4 @@ Test-set evaluation of three classifiers trained on 104 Coh-Metrix indicators pl
 - [SVM classifier on sentence embeddings classifies comment correctness with F1 = 0.914 and Cohen's K = 0.764](svm-embeddings-classify-comments-f1-0914.md) — related
 - [CatBoost is the best-performing algorithm for predicting programme non-completion, with F1-measure of 94.5±0.6, slightly better than Random Forest](catboost-best-f1-programme-completion.md) — reports the opposite
 - [Symbolic regression was chosen over other machine-learning algorithms because it yields explicit human-interpretable models without assuming a model form, suiting small, missing-value-prone educational datasets](symbolic-regression-chosen-for-educational-data.md) — related
+- [Comprehensive problem-solving ability improvement differentiates cognitive performance in lower decision tree branches](problem-solving-ability-decision-tree-lower-branches.md) — related

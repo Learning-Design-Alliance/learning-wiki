@@ -187,6 +187,7 @@ A good debrief conversation, a correct stated change, the next performance, dela
 - [Include debriefing with reflective questions after simulation sessions before receiving feedback](../strategies/debriefing-before-feedback-simulations.md)
 - [Use clinical pause points during simulation debriefing to promote timely knowledge construction and clinical judgement](../strategies/clinical-pause-simulation-debriefing.md)
 - [Use learner-led open-ended debriefing after each standardized patient encounter](../strategies/learner-led-debriefing-after-simulation-encounters.md)
+- [Use structured debriefing questions to ensure learning objectives are met regardless of facilitator experience](../strategies/structured-debriefing-questions-user-friendly-guide.md)
 
 ## Key Sources
 - Cheng, A., Grant, V., Dieckmann, P., Arora, S., Robinson, T., & Eppich, W. (2015). Faculty development for simulation programs. *Simulation in Healthcare, 10*(4), 217-222. [doi:10.1097/SIH.0000000000000090](https://doi.org/10.1097/SIH.0000000000000090)

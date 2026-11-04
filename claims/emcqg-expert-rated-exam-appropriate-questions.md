@@ -51,3 +51,4 @@ Evaluation of EMCQG's generated questions: a stratified random sample of 435 que
 - [Expert evaluation found the hybrid system's generated MCQ stems promising in usefulness and grammatical correctness](expert-evaluation-mcq-stems-promising.md) — related
 - [Prior AQG work shows ML yields grammatically correct Cloze questions while ontology approaches struggle with Cloze but produce meaningful Wh-type questions](ml-cloze-ontology-wh-grammaticality-gap.md) — related
 - [Most reviewed studies (5 of 8) demonstrated that LLMs can produce MCQs valid for medical exams](llm-mcq-generation-majority-valid.md) — related
+- [Expert physician review excluded 23 of 100 LLM-generated MCQs, yielding a validated set of 77 questions](physician-validation-77-mcqs.md) — related

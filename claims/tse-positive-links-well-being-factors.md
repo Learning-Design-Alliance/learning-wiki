@@ -50,3 +50,5 @@ Synthesis of 165 eligible articles on teacher self-efficacy via a criteria-based
 - [Teacher self-efficacy shows positive links with students' academic adjustment](tse-positive-links-student-academic-adjustment.md) — related
 - [Agriculture teachers' self-efficacy is positively related to career persistence indicators such as career commitment and job satisfaction](self-efficacy-positive-career-persistence-agriculture-teachers.md) — related
 - [Servant leadership shows the strongest effect on teacher self-efficacy, which in turn predicts life satisfaction](servant-leadership-strongest-effect-self-efficacy-predicts-satisfaction.md) — related
+- [Teaching self-efficacy and perceived teacher competence mediate the P-O fit–job satisfaction link independently and as a chain](chain-mediation-fit-efficacy-competence-satisfaction.md) — related
+- [Teaching self-efficacy positively predicts perceived teacher competence and job satisfaction](self-efficacy-predicts-competence-satisfaction.md) — a narrower finding that bears on this claim

@@ -68,3 +68,4 @@ Synthesis of peer characteristics across the included trials; the review states 
 - [Peer supporter supervision was most often weekly and consisted of reviewing fidelity ratings and discussing problems, with supervisors including experienced peers, clinicians, and research staff](peer-supporter-supervision-fidelity-review.md) — related
 - Implementation reporting in peer support RCTs is substantially incomplete, with 29% to 67% missing data per implementation component — a broader claim this one bears on
 - [Sharing lived experience of recovery was more frequently included in non-United States-based peer support trials than in United States-based trials](sharing-lived-experience-more-frequent-non-us-trials.md) — related
+- [ECNs with lived experience of mental health challenges risk blurred boundaries through over-disclosure and conflation of peer support with nursing](lived-experience-over-disclosure-blurred-boundaries.md) — related

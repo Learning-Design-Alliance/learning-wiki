@@ -56,3 +56,5 @@ The review reports Swan (2005) found "17% of the variance in career intent could
 - [The effect of social persuasion on student teacher efficacy depends on its form: verbal feedback from cooperating teachers is positive while structured communication tools and peer pairing show no benefit](social-persuasion-form-moderates-efficacy-effect.md) — related
 - [Mastery experiences may not be the optimal method for initially increasing preservice agriculture teachers' self-efficacy](mastery-experiences-not-optimal-initially-preservice-efficacy.md) — related
 - [Teacher self-efficacy shows positive links with personal accomplishment, job satisfaction, and commitment](tse-positive-links-well-being-factors.md) — related
+- [Perceived teacher competence is positively associated with teachers' job satisfaction](competence-positive-job-satisfaction.md) — related
+- [Teaching self-efficacy positively predicts perceived teacher competence and job satisfaction](self-efficacy-predicts-competence-satisfaction.md) — a narrower finding that bears on this claim

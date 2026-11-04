@@ -65,5 +65,5 @@ Repeated-measures ANOVA in a cluster-randomized experimental study of 2439 Greek
 - [Changes across the eleven skill dimensions were positively inter-correlated in the intervention group (all p < .001)](steps-for-life-skill-change-correlations.md) — related
 - [Self-esteem, measured by the BASE scale, improved significantly more in the intervention group than controls](steps-for-life-self-esteem-improvement.md) — related
 - [Regression confirms robust intervention effect after covariate adjustment (B=3.924)](llm-vsp-regression-robust-effect.md) — related
-- [The collaborative model improves medical interns' self-directed learning ability](fsph-3d-model-improves-self-directed-learning.md) — related
-- [The collaborative model improves medical interns' social medical curiosity](fsph-3d-model-improves-social-medical-curiosity.md) — related
+- [Self-directed learning ability did not differ after baseline adjustment between medical interns in a 3D printing-assisted family-school-hospital programme and a non-randomised traditional-teaching group](fsph-3d-model-improves-self-directed-learning.md) — related
+- [Medical interns in a 3D printing-assisted family-school-hospital programme had higher social medical curiosity scores after baseline adjustment than a non-randomised traditional-teaching group](fsph-3d-model-improves-social-medical-curiosity.md) — related

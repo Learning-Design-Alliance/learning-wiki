@@ -51,3 +51,5 @@ Narrative synthesis of the nine included reviews in the Strength of evidence sec
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related
 - [Hybrid sequences combining VR with conventional practice yielded the most favorable outcomes in one trial](hybrid-vr-conventional-sequence-favorable.md) — a narrower finding that bears on this claim
 - [Virtual patient simulations for SUD training report positive learning outcomes across the 12 included studies](vp-sud-simulations-positive-learning-outcomes.md) — related
+- [LLM integration into virtual patient scenarios enables realistic, context-sensitive medical interviews in a metaverse environment](llm-virtual-patient-realistic-interviews.md) — a narrower finding that bears on this claim
+- [The metaverse environment enables delivery of consistent and reproducible scenarios supporting objective assessment of communication and diagnostic reasoning skills](metaverse-consistent-reproducible-scenarios.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Review category 1: eighteen studies (samples where reported ranging from 12 to 2
 - [All nine studies using ISS to assess and promote system readiness and safety cultures reported improvements in readiness scores and safety attitudes](iss-improves-readiness-safety-attitudes.md) — related
 - [Medical students and interns poorly identified pressure ulcer risk in a patient-safety simulation](poor-pressure-ulcer-risk-identification-room-of-horrors.md) — a narrower finding that bears on this claim
 - [Interprofessional teams identified pressure ulcer risks better than individuals in a simulation study](interprofessional-teams-better-pressure-ulcer-hazard-identification.md) — a narrower finding that bears on this claim
+- [In-situ simulation identified latent safety threats in all categories, leading to changes in unit protocols](in-situ-simulation-identifies-latent-safety-threats.md) — a narrower finding that bears on this claim
