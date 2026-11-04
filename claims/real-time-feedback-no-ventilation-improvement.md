@@ -50,3 +50,6 @@ In the randomized study's 30:2 test, ventilation target compliance was 0% in bot
 - [Some accelerometer-based and AED-integrated audiovisual feedback devices improved certain CPR parameters but reduced compression depth](some-feedback-devices-reduce-compression-depth.md) — related
 - [An augmented-reality CPR training application did not improve CPR quality compared with a standard audio-visual feedback manikin](ar-cpr-training-no-improvement-over-manikin.md) — related
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — reports the opposite
+- [Participants who first trained with visible RFM feedback maintained high ventilation performance after feedback removal, suggesting a carry-over learning effect](rfm-carryover-learning-effect-after-feedback-removal.md) — reports the opposite
+- [Most ventilation adjustments occurred when RFM feedback was visible, suggesting real-time feedback prompted corrective action](ventilation-adjustments-occur-under-visible-rfm-feedback.md) — related
+- [In hidden-first participants ventilating a term manikin, visible RFM feedback significantly increased mean expired tidal volume](visible-rfm-feedback-increases-mean-vte-term-manikin.md) — reports the opposite

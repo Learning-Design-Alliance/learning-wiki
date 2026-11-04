@@ -143,6 +143,7 @@ Drill performance, whole-task performance at the end of a session, retained perf
 ## Examples
 
 - [Use in-game scaffolds with automatic feedback displays in math game tasks, monitoring scaffold use against mastery data](../strategies/in-game-scaffolds-with-usage-tracking.md)
+- [Provide at least three repeated practice sessions with expert-answer feedback when training novice raters on standardized assessment scoring](../strategies/three-practice-sessions-feedback-strategy.md)
 
 ### Illustrative
 

@@ -15,7 +15,7 @@ grain_size: lesson
 # Programmed Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 25 claims (6 for, 17 mixed, 2 against) · 22 studies (8 quant-synthesis, 6 causal, 3 associational, 2 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 6 of 22 report an effect size · 21 claims rest on one study
+> **Evidence** · 27 claims (7 for, 18 mixed, 2 against) · 23 studies (8 quant-synthesis, 6 causal, 4 associational, 2 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 7 of 23 report an effect size · 23 claims rest on one study
 
 ## Description and scope
 
@@ -147,6 +147,8 @@ This pattern is scoped to well-defined content whose steps have checkable answer
 - [Explicit information showed no within-instruction effect: PI+EI equalled PI-EI and PBI+EI equalled PBI-EI on both tasks over time](../claims/ei-no-within-instruction-effect.md) [~W]
 - [No significant differences emerged among the four instructional groups on the oral production task, despite PI learners never producing the target form during instruction](../claims/pi-pbi-equal-oral-production.md) [~W]
 - [Teachers and pupils were generally positive about the LRS, valuing instant feedback and self-paced work](../claims/lrs-positive-teacher-pupil-perceptions.md) [+W]
+- [Nursing students report moderate scores for PI, educator competence perception, and willingness to engage in geriatric nursing](../claims/descriptive-scores-pi-gents-weans.md) [~W]
+- [PI, educator competence perception, and willingness to engage in geriatric nursing are pairwise positively correlated](../claims/pairwise-correlations-pi-competence-willingness.md) [+W]
 
 ## Related Patterns
 

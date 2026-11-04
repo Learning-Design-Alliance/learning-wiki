@@ -70,3 +70,4 @@ Meta-regression of meta-analytic correlations on the proportion of males in each
 - [Teacher autonomy support predicts students' need satisfaction and self-determined motivation more strongly than parental autonomy support](teacher-autonomy-support-stronger-than-parental.md) — related
 - [Education context moderates need–motivation links: amotivation is more strongly negatively related to autonomy and relatedness in classroom than physical education samples](classroom-pe-context-moderates-need-amotivation.md) — related
 - [Competence need satisfaction is the strongest psychological-need predictor of students' self-determined motivation types](competence-strongest-need-predictor-student-motivation.md) — related
+- [Autonomy-supportive supervision benefits are strengthened, not diminished, by clear direction](autonomy-support-and-structure-complementary.md) — related

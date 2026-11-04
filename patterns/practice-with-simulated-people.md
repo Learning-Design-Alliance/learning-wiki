@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 184 claims (90 for, 75 mixed, 19 against) · 100 studies (33 review, 24 causal, 16 quant-synthesis, 12 design, 10 qualitative, 4 theoretical, 1 associational), `q1`–`q4` · 20 of 100 report an effect size · 179 claims rest on one study
+> **Evidence** · 191 claims (94 for, 78 mixed, 19 against) · 105 studies (34 review, 24 causal, 16 quant-synthesis, 12 qualitative, 12 design, 4 theoretical, 3 associational), `q1`–`q4` · 21 of 105 report an effect size · 186 claims rest on one study
 
 ## Description and scope
 
@@ -145,6 +145,8 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Role-playing simulation with SBAR-based observation improves nurse-patient communication behaviors among nursing students](../claims/role-play-sbar-improves-nurse-patient-communication.md) [+W] — attached 2026-11-04 from Changuiti O et al. (2026), which proposed "Sequence role-playing before hybrid simulation with standardized patients to develop both technical and non-technical skills"; tests this page's relationship.
 - [Nursing students' communication clarity rose significantly from before to after ISBAR-structured handover simulation teaching, in an uncontrolled pre-post study](../claims/isbar-simulation-improves-communication-clarity.md) [+W] — attached 2026-11-04 from Sun Jui-Chiung et al. (2026), which proposed "Incorporate structured, scenario-based ISBAR handover practice into specialist nursing curricula, particularly in high-risk areas"; tests this page's relationship.
 - [ISBAR-structured handover simulation teaching significantly improves nursing students' handover confidence](../claims/isbar-simulation-improves-handover-confidence.md) [+W] — attached 2026-11-04 from Sun Jui-Chiung et al. (2026), which proposed "Incorporate structured, scenario-based ISBAR handover practice into specialist nursing curricula, particularly in high-risk areas"; tests this page's relationship.
+- [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](../claims/ccs-perceived-strengths-realism-reasoning-communication.md) [+W] — attached 2026-11-04 from Gómez‐Torres et al. (2026), which proposed "Use structured prebriefing to define objectives, roles and expectations before each simulation scenario to promote psychological safety".
+- [Students reported limitations of community care simulation in session timing, preparation, facilitator support, performance anxiety and limited participation](../claims/ccs-perceived-limitations-timing-preparation-anxiety.md) [~W] — attached 2026-11-04 from Gómez‐Torres et al. (2026), which proposed "Use structured prebriefing to define objectives, roles and expectations before each simulation scenario to promote psychological safety".
 
 ## Illustrative design instance and observation record
 
@@ -218,6 +220,11 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [All residents in high-fidelity scenarios diagnosed shoulder dystocia and called for assistance within one minute, but key tasks and documentation varied](../claims/high-fidelity-scenario-performance-gaps.md) [~W]
 - [Students report that progressive simulation practice builds handover confidence by reducing anxiety](../claims/progressive-simulation-practice-builds-confidence.md) [+W]
 - [SP ratings and blinded third-party rater consensus show moderate-to-strong agreement](../claims/sp-tp-rater-agreement-moderate-strong.md) [+W]
+- [Students perceive consequence-based virtual scenarios as developing real-time collaborative communication and shared decision-making](../claims/consequence-based-virtual-scenarios-collaborative-communication.md) [+W]
+- [Students perceive virtual simulation as standardising interprofessional learning experiences across clinical placements and campuses](../claims/virtual-simulation-standardises-ipe-experiences.md) [~W]
+- [Simulation-based education contributes to developing communication, interviewing and therapeutic engagement skills in undergraduate psychiatry](../claims/simulation-develops-clinical-skills-undergraduate-psychiatry.md) [+W]
+- [Students valued VSP convenience but rated realism and feedback value below human standardized patients](../claims/vsp-student-feedback-convenience-high-realism-low.md) [~W]
+- [LLM-VSP advantages appear in both content and communication skills subscores](../claims/llm-vsp-content-and-skills-subscores.md) [+W]
 
 ## Examples
 
@@ -229,6 +236,8 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Pair online lectures with virtual role-play or simulation sessions to add experiential learning](../strategies/online-lecture-virtual-roleplay-simulation.md)
 - [Use conversation analysis of real interactions to underpin and enhance role play and simulated patient training rather than replace it](../strategies/use-ca-to-enhance-simulation-design.md)
 - [Use standardized patient social history encounters, reflective writing, and a mini-OSCE practice to teach SDH history collection](../strategies/sp-social-history-reflective-writing-mini-osce-strategy.md)
+- [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](../strategies/scaffolded-collaborative-to-individual-simulation-progression.md)
+- [Use LLM-based virtual patient simulations to provide on-demand, repeated standardized interview practice for rater training and calibration](../strategies/virtual-patient-rater-training-strategy.md)
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)

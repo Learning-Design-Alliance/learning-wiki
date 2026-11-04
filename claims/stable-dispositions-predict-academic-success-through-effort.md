@@ -58,3 +58,4 @@ The review reports this synthesis of educational research on Stable Dispositions
 - [Conscientiousness is a reliable meta-analytic predictor of academic achievement](conscientiousness-predicts-academic-achievement.md) — related
 - [Dispositions such as positivity, lifelong learning orientation, and persistence are reported as essential for ID/ET practice](dispositions-essential-for-id-et-practice.md) — related
 - [Grit and enjoyment are key positive-psychology predictors of language learning success](grit-and-enjoyment-predict-language-success.md) — related
+- [Academic achievement correlates positively with all five antecedent conditions in the sample](positive-correlations-five-antecedents-achievement.md) — a narrower finding that bears on this claim

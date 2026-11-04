@@ -55,3 +55,4 @@ Delayed post-test administered four weeks after the immediate post-test to all 3
 - [Gains from a one-week intensive second-language course held at a three-week follow-up with no structured practice afterwards, in a single-group pilot.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Theta /theta/ sounds were pronounced more accurately than eth /eth/ sounds across all tests](theta-more-accurate-than-eth.md) — related
 - [Students reverted to previous pronunciation habits in routine classroom instruction despite test performance gains](aam-gains-not-maintained-routine-classroom.md) — related
+- [Cohort 2022 showed significant gains from pre-test (4.3 ± 1.6) to post-test (7.6 ± 2.2) with retention at post-post-test (6.3 ± 2.4), and an 11.7% numerical decrease after the post-test that was not statistically significant](xr-cbl-cohort-2022-gains-retention.md) — related

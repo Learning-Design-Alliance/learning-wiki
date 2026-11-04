@@ -47,6 +47,8 @@ In its conclusions, the review recommends that "healthcare organizations and edu
 - [Develop healthcare leaders' digital competence through continuous education, mentoring, and organizational structures](develop-leaders-digital-competence-education-mentoring.md)
 - [Healthcare institutions should prioritize SDL-friendly environments including protected learning time, access to digital tools, and mentorship programs](sdl-friendly-environments-strategy.md)
 - [Formalize clinical peer-mentorship programs pairing senior staff with junior nurses](peer-mentorship-junior-nurses-wound-care.md)
+- [Treat post-course mentoring and institutional supports as a core implementation requirement when running innovation courses for novice nurses](post-course-mentoring-core-implementation-requirement.md)
+- [Design structured, competency-based, stage-specific transition programmes for new nurse managers with mentoring by experienced managers](structured-stage-specific-nurse-manager-transition-programmes.md)
 
 ## Examples
 -

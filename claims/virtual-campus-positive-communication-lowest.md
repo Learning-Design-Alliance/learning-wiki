@@ -49,3 +49,4 @@ Descriptive survey ratings (Table 4) on a 1–10 scale across six knowledge area
 - [Students rate a Socratic AI chatbot highest for knowledge-based skills (median ≈ 4.0/5) and positively for overall effectiveness (median ≈ 3.4/5) in an introductory mechanics course](socratic-ai-chatbot-survey-ratings-physics-problem-solving.md) — related
 - [Faculty Professional Competence shows the largest gap between perceived importance and current satisfaction among the five dimensions](faculty-competence-largest-importance-performance-gap.md) — related
 - [Students rate ethical awareness and responsible use highest and academic integrity lowest, with responsibility for defending ethical appropriateness the lowest-rated item](student-survey-ethical-ai-profile-academic-integrity-lowest.md) — related
+- [Faculty testers rated the simulation as a valuable learning experience, with an overall SSES score of 43.5 out of 50](sses-faculty-valuable-learning-experience.md) — related

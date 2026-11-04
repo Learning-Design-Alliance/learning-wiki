@@ -52,3 +52,4 @@ Extensive simulation study comparing estimation of symptom networks with Bayesia
 - [Changes in ICT career aspirations are not systematically linked to contemporaneous changes in other occupational domains](ict-aspirations-independent-of-other-career-domains.md) — related
 - [Regularization-based graphical modeling has key drawbacks, including difficulty obtaining valid parameter uncertainty and inflated false positive rates](regularization-drawbacks-uncertainty-false-positives.md) — a broader claim this one bears on
 - [Closing knowledge gaps showed the highest association with performance among all considered variables (partial r = 0.17)](closing-knowledge-gaps-associated-with-performance.md) — related
+- [In a regularized partial correlation network, exposure to suicidal communication is the most central exposure dimension and pastoral care the most central competency](ggm-centrality-suicidal-communication-pastoral-care.md) — related

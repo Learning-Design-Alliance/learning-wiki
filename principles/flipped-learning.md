@@ -278,6 +278,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Instructors redesigning higher education courses should implement flipped classrooms as an effective pedagogical practice while attending to subject-specific and pre-class-engagement conditions](../strategies/flipped-classroom-instructional-redesign-strategy.md)
 - [OCW-integrated flipped classroom: pre-class self-study of open course materials followed by in-class collaborative group learning with TA support](../designs/ocw-flipped-classroom-two-stage-design.md)
 - [Adopt the flipped classroom gradually: start small, front-load video preparation, gather student feedback, and scale up as comfort grows](../strategies/gradual-flipped-classroom-adoption-strategy.md)
+- [Use pre-session readiness materials and MCQ self-assessment to shift content acquisition out of class time](../strategies/cbcl-pre-session-readiness-strategy.md)
 
 ### Illustrative
 

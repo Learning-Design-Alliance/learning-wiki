@@ -49,6 +49,7 @@ Based on the identified importance-performance gap in faculty competence, the ar
 - [Implement AI-supported STEM instruction through sustained, system-level integration of one to two months or more rather than isolated short interventions](sustained-system-level-ai-integration-stem.md)
 - [Sustain doctoral methodological competence through continued practice, feedback, and authentic application rather than isolated short courses](sustained-practice-for-doctoral-methodological-skills.md)
 - [Sustain educational interventions throughout development and evaluate long-term rather than short-term efficacy](sustained-interventions-throughout-development.md)
+- [Direct faculty development funding for a multiplier effect rather than standalone student workshops](faculty-development-multiplier-effect-strategy.md)
 
 ## Examples
 -

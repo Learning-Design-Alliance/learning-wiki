@@ -60,3 +60,5 @@ Mixed-methods expert evaluation with two female psychologists (ages 25–30), on
 - [Usability evaluations of e-learning interventions in undergraduate clinical medicine uniformly reported positive feedback, with simple intuitive interactive design identified as key](elearning-usability-evaluations-all-positive.md) — a broader claim this one bears on
 - [Simulated-patient and expert rating convergence may depend on comprehensive simulated-patient training](simulated-patient-training-supports-expert-congruence.md) — related
 - [Participants rate SOPHIE's actionable feedback highest among system features, above avatar realism](sophie-actionable-feedback-highest-rated-feature.md) — related
+- [Expert raters rated the virtual patients' profile consistency, character cohesion, and dialogue realism favorably across 20 interviews](virtual-patient-qualitative-realism-ratings.md) — related
+- [Students valued VSP convenience but rated realism and feedback value below human standardized patients](vsp-student-feedback-convenience-high-realism-low.md) — related

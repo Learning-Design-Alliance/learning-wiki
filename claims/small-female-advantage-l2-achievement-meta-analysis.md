@@ -48,3 +48,4 @@ Three-level random-effects meta-analysis of 137 effect sizes from 41 studies (cu
 - [Country significantly moderates the gender gap in L2 achievement, favoring females in China and males in Türkiye](country-moderates-l2-gender-gap-china-turkiye.md) — a narrower finding that bears on this claim
 - [Population type significantly moderates the gender gap in L2 achievement, largest in secondary schools and smallest at university](population-type-moderates-l2-gender-gap.md) — related
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — a narrower finding that bears on this claim
+- [Male students report slightly higher SDL-R than female students, with small effect sizes and no difference in interpersonal communication](sex-differences-sdlr-small-effect-sizes.md) — related

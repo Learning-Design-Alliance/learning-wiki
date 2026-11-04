@@ -46,6 +46,7 @@ The review recommends that LLMs be positioned as supportive educational tools th
 ## Related Strategies
 
 - [Use LLMs cautiously as supplementary learning tools in dental education, with output verification and professional supervision](cautious-llm-supplementary-tools-dental-education.md)
+- [Use LLMs in medical education as support tools requiring human review, not as independent decision-makers or authoritative instructors](llms-as-support-tools-medical-education.md)
 
 ## Examples
 -

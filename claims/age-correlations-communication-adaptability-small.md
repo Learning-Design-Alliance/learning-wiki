@@ -51,3 +51,4 @@ Age-correlation analysis of the survey (Table 2). The article reports a highly s
 - [All measured graduate attribute scores correlate positively with one another, with the Resourcefulness Scale correlating most weakly](positive-correlations-among-graduate-attribute-measures.md)
 - [Graduate attribute attainment correlates only extremely weakly with years spent at university](weak-correlation-year-of-study-graduate-attributes.md) — related
 - [Older students perceive greater value of the technological skills acquired through online study](age-differentiates-digital-competence-assimilation.md) — related
+- [Age showed a weak but significant positive correlation with all evaluation domains, while gender showed no significant effect](age-correlation-domain-scores.md) — related

@@ -76,3 +76,4 @@ The article attributes, citing Reeve, the research finding that controlled stude
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Teachers who facilitate both autonomy and structure report motivation to teach and felt teaching effectiveness](teacher-outcomes-autonomy-structure.md) — related
 - [Design for learning works indirectly: designed tasks are resources for activity, not determinants of it](design-works-indirectly-tasks-are-resources.md) — related
+- [Educator pressure from above and below predicts more controlling teaching behaviours](educator-pressure-predicts-controlling-teaching.md) — related

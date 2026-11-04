@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 282 claims (133 for, 134 mixed, 15 against) · 210 studies (67 causal, 62 associational, 28 review, 18 quant-synthesis, 15 theoretical, 11 qualitative, 9 design), `q1`–`q4` · 48 of 210 report an effect size · 266 claims rest on one study
+> **Evidence** · 283 claims (134 for, 134 mixed, 15 against) · 211 studies (67 causal, 62 associational, 28 review, 18 quant-synthesis, 15 theoretical, 12 qualitative, 9 design), `q1`–`q4` · 48 of 211 report an effect size · 267 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -329,6 +329,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Women academics mentioned fewer external motivators and more resource management strategies than men](../claims/gender-differences-in-advice-content.md) [~W]
 - [Goal setting shows a moderate effect size of ES = 0.56 on student performance](../claims/goal-setting-moderate-effect-size.md) [+W]
 - [At follow-up, prior posttest summarizing was the strongest predictor in both groups, and metacognitive knowledge additionally predicted achievement in the experimental group](../claims/mkr-predicts-followup-eg-only.md) [+W]
+- [Defining self-created learning outcomes during clinical electives improved students' reported focus, motivation, and sense of self-efficacy](../claims/famuplus-improved-focus-motivation-self-efficacy.md) [+W] — attached 2026-11-04 from Punz A et al. (2026), which proposed "Self-oriented learning (SOL) as a key competence for lifelong learning in medical practice".
 
 ## The evidence by question
 

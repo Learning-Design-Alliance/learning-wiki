@@ -77,3 +77,4 @@ Cross-study challenge analysis (Table 6). The review reports "the explainability
 - [Personalized learning functions as a collaborative human–AI model in which teachers and AI systems play complementary roles](human-ai-collaborative-personalized-learning.md) — related
 - [Effective AI use in nursing education depends on prompting skills, which participants identify as critical for obtaining accurate and reliable outputs](prompting-skills-shape-ai-output-quality.md) — related
 - [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related
+- [Students found it challenging to formulate measurable, realistic learning outcomes, especially for affective goals such as empathy](famuplus-measurable-outcomes-challenge-affective.md) — related

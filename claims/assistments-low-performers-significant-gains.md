@@ -61,3 +61,4 @@ Subgroup analysis of the quasi-experimental study's 1,626 low-performing student
 - [Students with lower baseline self-efficacy achieved greater learning gains in both practice formats, though the relationship varied with favorability toward each format](lower-baseline-self-efficacy-greater-learning-gains.md) — related
 - [Pedagogical augmentations of ITSs show inconsistent effects: self-assessment helped in some studies but not others, while personalization and matched test-practice format showed benefits](its-modified-its-mixed-pedagogical-effects.md) — related
 - [An average-scoring student rises from the 50th to the 82nd percentile after application of CAME](came-percentile-gain-50-to-82.md) — related
+- [Interaction between group assignment and baseline scores is not statistically significant, though high-baseline students show a trend of larger gains](baseline-heterogeneity-nonsignificant-interaction-trend.md) — related

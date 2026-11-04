@@ -72,3 +72,4 @@ Same interview analysis; the article reports students found the half-hour sessio
 - [Coaching is a promising practice that college students with LD/ADHD report improves their self-awareness, self-management skills, and subjective well-being](coaching-improves-self-awareness-self-management-wellbeing-adhd-ld.md) — related
 - [Coaches reported that pupils engaged well with the variety of coaching sessions and found both one-to-one and small group work beneficial](perry-beeches-coaching-pupil-engagement-sessions.md) — related
 - [The graduation coach spent 79% of total available time (1029 hours) on intervention, with the Activity Reporting System accounting for over 83% of available time](coach-time-allocation-fidelity.md) — related
+- [Students reported limitations of community care simulation in session timing, preparation, facilitator support, performance anxiety and limited participation](ccs-perceived-limitations-timing-preparation-anxiety.md) — related

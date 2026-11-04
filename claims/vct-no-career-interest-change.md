@@ -49,3 +49,4 @@ Repeated-measures ANOVA (N=525) on the eight-item clinical trial career interest
 - [Satisfaction and engagement with the simulations predicted post-test knowledge and attitude outcomes](vct-satisfaction-engagement-predictors.md) — related
 - [Any simulation exposure slightly improved scientific possible selves, but two simulations conferred no additional benefit](vct-possible-selves-small-gain-no-dose-effect.md) — related
 - [Exposure to two simulations produced greater gains in positive attitudes toward clinical trials than exposure to one](vct-two-simulations-greater-attitude-gain.md) — related
+- [Repeated simulated patient encounters produced no significant change in state anxiety or LSAS over time among students with repeated responses](no-anxiety-reduction-repeated-simulation-exposure.md) — related

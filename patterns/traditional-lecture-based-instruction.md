@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 100 claims (28 for, 32 mixed, 40 against) · 91 studies (34 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 2 associational, 2 design), `q1`–`q4` · 16 of 91 report an effect size · 92 claims rest on one study
+> **Evidence** · 103 claims (29 for, 34 mixed, 40 against) · 93 studies (36 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 2 associational, 2 design), `q1`–`q4` · 17 of 93 report an effect size · 95 claims rest on one study
 
 ## Description and scope
 
@@ -222,6 +222,9 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Blended learning achieves higher student satisfaction than traditional lectures in practical immunohematology training](../claims/blended-learning-higher-satisfaction-immunohematology.md) [+W]
 - [Pre-course test reveals high factual recall but insufficient clinical application ability under traditional teaching](../claims/pre-course-test-reveals-application-deficit-traditional-teaching.md) [+W]
 - [Feedback-based pedagogy significantly improves knowledge mastery in nanomedicine education compared to traditional didactic instruction](../claims/feedback-pedagogy-improves-nanomedicine-knowledge-mastery.md) [-W]
+- [The adjusted academic performance advantage of embodied learning over traditional lectures was exploratory and did not reach the prespecified multiplicity-corrected significance threshold.](../claims/el-academic-performance-exploratory-ancova-nursing.md) [~W]
+- [Embodied learning instruction produced large, baseline-adjusted improvements in nursing students' attitudes toward educational measurement compared to traditional lectures.](../claims/el-attitudes-large-ancova-effect-nursing.md) [+W]
+- [No statistically significant difference in procedural performance between VR and slideshow lecture groups](../claims/vr-slideshow-similar-procedural-performance-usg-lp.md) [~W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

@@ -62,3 +62,4 @@ Paired-sample t-tests in SPSS 26.0 on pre/post CCTDI-adapted disposition scores 
 - [Control group showed no statistically significant pre-test to post-test change in critical thinking disposition](control-group-no-cctdi-change.md) — related
 - [Wagner students' overall pre-to-post critical thinking prompt gain of 9.8% was not statistically significant](wagner-prepost-gain-not-significant.md) — related
 - [No significant differences in critical thinking dispositions were found among PBL, B-PBL, and traditional lecture groups at pretest or posttest](no-significant-ct-disposition-differences-among-groups.md) — related
+- [AI-enabled personalized teaching raised overall critical thinking disposition (CTDI-CV total score) above the positive-disposition threshold](ai-teaching-ctdi-cv-total-score-higher.md) — related

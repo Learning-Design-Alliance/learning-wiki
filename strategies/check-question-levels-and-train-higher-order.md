@@ -43,6 +43,7 @@ The article recommends that after making question papers, teachers verify the co
 
 - [Use Bloom's taxonomy to convert lower-order questions into higher-order questions in faculty training](blooms-taxonomy-question-conversion-training.md)
 - [Train teachers to demonstrate higher-order question generation before assigning the strategy](demonstrate-higher-order-question-generation-before-strategy-use.md)
+- [Use a low-threshold online training plus a SMART template to prepare students for self-created learning outcomes](famuplus-online-training-smart-template-strategy.md)
 
 ## Examples
 -

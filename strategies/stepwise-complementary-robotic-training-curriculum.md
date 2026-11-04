@@ -59,6 +59,9 @@ The review recommends that training modalities be combined in a progressive curr
 - [Develop universal objective assessment and feedback methods that go beyond time and motion to capture tissue handling and interaction forces](universal-objective-assessment-tissue-force-feedback.md)
 - [Combine background theory, video demonstrations, and simulator training in an integrated endoscopy curriculum (GATE model)](gate-integrated-endoscopy-training-concept.md)
 - [Stepwise progression pathway integrating theoretical instruction, simulation, and supervised clinical practice](stepwise-progression-theory-simulation-supervised-practice.md)
+- [Repurpose a clinical chronic disease management platform as an interactive learning environment in residency training](repurpose-clinical-platform-as-learning-environment.md)
+- [Use self-directed simulator practice as an adjunct to early colonoscopy training, with future curricula adding targeted instructor feedback](self-directed-simulator-adjunct-colonoscopy-training.md)
+- [Integrate the validated SP chicken anastomosis task into SP-specific Proficiency Based Progression training pathways](sp-pbp-training-pathway-strategy.md)
 
 ## Examples
 -

@@ -95,3 +95,4 @@ The review reports, citing Frederiksen et al. (2020) in surgical training, that 
 - [Simulation type–outcome alignment: high-fidelity formats favour judgment and decision-making, VR and games favour empathy and reflection](simulation-type-outcome-alignment.md) — related
 - [Virtual reality use in TEPBLL positively boosted students' motivation, supporting a self-determination theory interpretation](vr-projects-boost-motivation-sdt.md) — a narrower finding that bears on this claim
 - [A mixed-methods study of orthodontic residents found no significant difference in overall performance across 2D, 3D, and VR surgical simulations, with residents ready to adopt VR](residents-performance-2d-3d-vr-no-difference.md) — related
+- [VR lecture rated more enjoyable, more effective, and less boring than slideshow lecture](vr-lecture-enjoyment-effectiveness-boredom.md) — a narrower finding that bears on this claim

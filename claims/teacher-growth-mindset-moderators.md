@@ -76,3 +76,4 @@ Two-level moderator regressions for separate outcomes. Dimensionality significan
 - Study quality is modest but improving over time, with a moderate positive correlation between publication year and QATSDD score — related
 - Publication year significantly moderates flipped classroom effect sizes in meta-regression — related
 - [The PSU–achievement relationship is not significantly moderated by sex, region, age, year of publication, study quality, achievement indicator, PSU assessment format, or publication status](psu-achievement-link-robust-to-methodological-demographic-moderators.md) — related
+- [Growth mindset is positively associated with mastery-approach, mastery-avoidance, and performance-approach goals and negatively with performance-avoidance goals](growth-mindset-predicts-achievement-goal-orientations.md) — related

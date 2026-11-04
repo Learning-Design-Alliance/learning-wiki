@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 169 claims (119 show a difference, 30 mixed, 20 no difference) · 113 studies (56 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 22 of 113 report an effect size · 167 claims rest on one study
+> **Evidence** · 172 claims (121 show a difference, 31 mixed, 20 no difference) · 115 studies (58 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 24 of 115 report an effect size · 170 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -210,6 +210,9 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - Motivational prompts did not significantly affect critical thinking subscores on the low-stakes test [-M] — instruction changes it
 - [No significant differences in critical thinking dispositions were found among PBL, B-PBL, and traditional lecture groups at pretest or posttest](../claims/no-significant-ct-disposition-differences-among-groups.md) [-M] — instruction changes it
 - [Active-learning sequence did not significantly improve critical thinking scores over control](../claims/active-learning-no-significant-critical-thinking-gain.md) [-M] — instruction changes it
+- [AI-enabled personalized teaching improved several CTDI-CV subdimensions but not critical thinking self-confidence or cognitive maturity](../claims/ctdi-cv-subdimension-effects-mixed.md) [~M] — measured as an outcome of the instruction studied
+- [AI-enabled personalized teaching raised overall critical thinking disposition (CTDI-CV total score) above the positive-disposition threshold](../claims/ai-teaching-ctdi-cv-total-score-higher.md) [+M] — measured as an outcome of the instruction studied
+- [The iHEC cohort showed higher post-rotation critical thinking disposition than the conventional cohort (Cohen's d = 0.75)](../claims/ihec-higher-critical-thinking.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

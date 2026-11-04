@@ -72,3 +72,4 @@ Dimension-level NASA-TLX analysis in the same case study; mental demand averaged
 - [Module VI (conceptual design) showed the highest perceived workload, attributed to sketch-based conceptualization with extensive trial and error](module-vi-highest-workload-conceptualization.md) — related
 - [Designer workload across an 11-module instructional design model for product development averaged normal-to-high (50–75%)](nasa-tlx-normal-high-workload-design-process.md) — a broader claim this one bears on
 - [Under NASA TLX, AR-group students felt more frustrated but believed they performed relatively better, with nearly equal overall workload scores](nasa-tlx-frustration-perceived-performance-ar.md) — related
+- [NASA-TLX mental demand was the highest workload subscale, rising from a median of 37.50 in round 1 to 60.00 in round 2](nasa-tlx-mental-demand-highest.md) — related

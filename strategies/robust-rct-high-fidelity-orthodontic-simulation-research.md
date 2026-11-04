@@ -48,6 +48,7 @@ The review recommends that future work develop high-fidelity computer-based simu
 
 - [Prioritize rigorous RCTs with retention tests and transfer measures before expanding distance simulation programs](rigorous-rcts-for-distance-simulation-retention-transfer.md)
 - [Develop trauma simulation training with objective automated evaluation, undergraduate inclusion, combined fidelity levels, and pre-hospital settings](trauma-simulation-development-recommendations.md)
+- [Combine behavioural observation with explicit evaluation of formulation and reasoning processes in simulation-based assessment](combine-behavioural-observation-with-formulation-assessment.md)
 
 ## Examples
 -

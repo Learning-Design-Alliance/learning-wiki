@@ -184,3 +184,4 @@ Open questions: how durable the recall advantage is over long retention interval
 - Visual joint displays can reduce the cognitive burden of integration analysis and reporting compared to tabular joint displays — related
 - [The authors interpret the graphic-novel advantage as arising from presenting idioms through both verbal and visual modalities within a storyline](graphic-novel-advantage-attributed-dual-modality-storyline.md) — a narrower finding that bears on this claim
 - [Comic materials reduce abstraction and present text patterns sequentially through framed pictures](comics-reduce-abstraction-sequential-presentation.md) — related
+- [Students perceived that producing visual material outputs helped them understand and explain abstract anatomical course content](sglm-perceived-visual-learning.md) — related

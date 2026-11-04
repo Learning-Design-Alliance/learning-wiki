@@ -52,3 +52,5 @@ Narrative synthesis of 29 studies found these four factors "consistently associa
 - [Nurses' attitudes toward pressure injury prevention are generally positive across studies.](nurses-attitudes-pi-prevention-positive.md) — related
 - [Nurses' knowledge of pressure injury prevention is frequently inadequate, particularly in prevention-specific domains.](nurses-knowledge-pi-prevention-inadequate.md) — a narrower finding that bears on this claim
 - [Higher educational qualification and longer nursing experience predict self‐reported skills, but demographic factors do not predict perceived knowledge](qualification-experience-predict-skills-not-knowledge.md) — a narrower finding that bears on this claim
+- [More recent frailty education is independently associated with higher total KAP scores among nurses](frailty-education-recency-associated-kap.md) — a narrower finding that bears on this claim
+- [Geriatric nurse specialist certification is independently associated with higher frailty knowledge but not with overall KAP, attitude, or practice](geriatric-certification-knowledge-only.md) — related

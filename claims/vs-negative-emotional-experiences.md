@@ -53,3 +53,4 @@ Synthesized negative-experience finding from the meta-synthesis; students worrie
 - [XR gesture-simulation interventions reduce anxiety in most included midwifery and nursing education studies](xr-gesture-simulation-reduces-nursing-anxiety.md) — related
 - [Postponing the conducting of research has led to student anxiety over the practice of qualitative research, and early experiential learning helps students understand the subject better and overcome fears](postponing-research-increases-student-anxiety-qualitative-research.md) — related
 - [Students report that progressive simulation practice builds handover confidence by reducing anxiety](progressive-simulation-practice-builds-confidence.md) — reports the opposite
+- [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — reports the opposite

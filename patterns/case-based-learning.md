@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 76 claims (38 for, 37 mixed, 1 against) · 56 studies (23 causal, 14 quant-synthesis, 10 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 56 report an effect size · 71 claims rest on one study
+> **Evidence** · 77 claims (39 for, 37 mixed, 1 against) · 57 studies (23 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 57 report an effect size · 72 claims rest on one study
 
 ## Description and scope
 
@@ -149,6 +149,7 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [Case-based learning prevented the increase in surface approach to learning observed across the semester in the non-CBL group](../claims/cbl-prevents-surface-approach-increase-biochemistry.md) [+W] — attached 2026-11-03 from Kulak et al. (2015), which proposed "Use directed CBL as a low-resource active learning technique suitable for content-heavy courses"; tests this page's relationship.
 - [SDH-integrated CBL improves surgical interns' social factor identification and analysis (d = 1.39) versus CBL alone](../claims/sdh-integrated-cbl-improves-social-factor-analysis.md) [+W] — attached 2026-11-04 from Wen Zhi et al. (2026), which proposed "Embed SDH into core CBL components rather than appending it, to build social health competence without crowding out core knowledge".
 - [SDH integration does not compromise theoretical knowledge, physical examination, or diagnostic analysis versus CBL alone](../claims/sdh-integration-preserves-core-clinical-knowledge.md) [~W] — attached 2026-11-04 from Wen Zhi et al. (2026), which proposed "Embed SDH into core CBL components rather than appending it, to build social health competence without crowding out core knowledge".
+- [A CBCL session on spinal infection was feasible and well accepted in a Brazilian radiology residency program](../claims/cbcl-feasible-accepted-brazilian-radiology-residency.md) [+W] — attached 2026-11-04 from Montague Steven et al. (2026), which proposed "CBCL session pattern: pre-session preparation, small groups of four, and a three-step individual–group–plenary case sequence".
 
 ## Illustrative design instance and observation record
 

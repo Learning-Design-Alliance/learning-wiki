@@ -53,6 +53,7 @@ The review's implications for research set out an agenda beyond current practice
 
 - [Expand narrative medicine programme objectives to include writing skills and writing self-efficacy as measurable learning outcomes](nm-writing-skills-measurable-outcome-strategy.md)
 - [Future research agenda: detailed implementation data, qualitative study, and cross-setting comparison](future-research-life-wide-learning-agenda.md)
+- [Evaluate training effectiveness regularly with pre- and post-training assessments to measure impact on knowledge and skills](pre-post-training-assessment-pi-competency.md)
 
 ## Examples
 -

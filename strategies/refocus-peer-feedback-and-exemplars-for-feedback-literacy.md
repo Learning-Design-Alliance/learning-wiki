@@ -49,6 +49,7 @@ The article recommends making peer feedback and exemplar analysis core curriculu
 ## Related Strategies
 
 - [Embed feedback literacy programme-wide and extend LMSs for feedback storage, retrieval and loop-closing](programme-wide-embedding-and-lms-feedback-repository.md)
+- [Use higher-aligned curricula as practical models for targeted AMS curriculum revision across professions](high-alignment-curricula-as-revision-models.md)
 
 ## Examples
 -

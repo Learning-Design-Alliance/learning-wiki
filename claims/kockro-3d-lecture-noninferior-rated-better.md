@@ -70,3 +70,4 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [Teaching drawing with visual objects (2D or 3D) produces higher post-test drawing-skill scores than conventional teaching without visual objects](visual-objects-improve-drawing-skills-jss1.md) — related
 - [Lecture plus 3D courseware produced significantly better learning results than lecture alone, lecture plus video, and lecture plus image instruction](3d-courseware-superior-learning-results-color-management.md) — reports the opposite
 - [Spatial training studies report statistically significant improvements in spatial anatomy performance despite null effects on knowledge test scores](spatial-training-improves-spatial-anatomy-performance.md) — related
+- [VR lecture rated more enjoyable, more effective, and less boring than slideshow lecture](vr-lecture-enjoyment-effectiveness-boredom.md) — related

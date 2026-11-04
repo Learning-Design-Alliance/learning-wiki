@@ -189,6 +189,7 @@ The expectation should weaken if comparisons with comparable learners and materi
 - [Self-Paced Learning](../elements/self-paced-learning.md): the element through which learners control pace.
 - [Segment dynamic visualizations with pauses between meaningful segments for novice learners, choosing segment length deliberately](../strategies/segment-dynamic-visualizations-with-pauses-for-novices.md)
 - [Keep online lecture videos under twenty minutes and segment by topic with speed control](../strategies/online-lecture-under-twenty-minutes.md)
+- [Break VR lectures into short sections with assessment questions and consider inserted break prompts to mitigate cybersickness](../strategies/short-vr-sections-break-prompts.md)
 
 ## Key Sources
 - Rey, G. D., Beege, M., Nebel, S., Wirzberger, M., Schmitt, T. H., & Schneider, S. (2019). A Meta-analysis of the Segmenting Effect. *Educational Psychology Review, 31*(2), 389–419. [doi:10.1007/s10648-018-9456-4](https://doi.org/10.1007/s10648-018-9456-4)

@@ -53,6 +53,7 @@ The review recommends that "Faculty and student training in rubric use is essent
 
 - [Use a two-step calibration and independent review process with standardized training for peer reviewers](poet-o-two-step-calibration-independent-review.md)
 - [Maximise self-assessment as an alternative teaching and learning strategy in writing classes](self-assessment-writing-class-strategy.md)
+- [Provide at least three repeated practice sessions with expert-answer feedback when training novice raters on standardized assessment scoring](three-practice-sessions-feedback-strategy.md)
 
 ## Examples
 -

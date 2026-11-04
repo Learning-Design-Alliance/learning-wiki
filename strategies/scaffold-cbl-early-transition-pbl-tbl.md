@@ -59,6 +59,8 @@ The authors recommend a "scaffolded integration of these methods": utilizing "Ca
 - [Recommend PBL for high school chemistry teaching with daily-life scenarios](recommend-pbl-high-school-chemistry-scenarios.md)
 - [Use case-based learning as a basis for developing curricula to improve cognitive, social and affective skills](cbl-as-curriculum-basis-strategy.md)
 - [Use combined PBL-CBL teaching in clinical settings where direct patient exposure is limited](pbl-cbl-for-limited-patient-exposure-settings.md)
+- [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](scaffolded-collaborative-to-individual-simulation-progression.md)
+- [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
 
 ## Examples
 -

@@ -1,0 +1,54 @@
+---
+type: claim
+title: Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences
+description: Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences
+id: profile-differences-career-stage-psychological-variables
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: weak
+newest_evidence: 2026
+sources:
+  - id: huang-mingjiang-2026
+    resource: "https://doi.org/10.1136/bmjopen-2026-123528"
+    title: "Huang Mingjiang, Xuan Yinhe, Cao Jingmei, Guo Xinchi, Tan Tongyu, Li Chunyu, Shen Xiangdan. (2026). Heterogeneity in clinical nurses’ core competency and its associations with self-efficacy and self-directed learning ability: a cross-sectional latent profile analysis. BMJ Open. https://doi.org/10.1136/bmjopen-2026-123528"
+    author: Huang Mingjiang, Xuan Yinhe, Cao Jingmei, Guo Xinchi, Tan Tongyu, Li Chunyu, Shen Xiangdan
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Age, marital status, monthly income, professional title, years of nursing experience, self-directed learning ability and general self-efficacy differed significantly across profiles (all p<0.05); sex, educational level and specialist nurse status did not (p>0.05). [→ Huang Mingjiang 2026](#huang-mingjiang-2026)
+
+## Evidence
+
+### Huang Mingjiang 2026
+
+Huang Mingjiang, Xuan Yinhe, Cao Jingmei, Guo Xinchi, Tan Tongyu, Li Chunyu, Shen Xiangdan. (2026). Heterogeneity in clinical nurses’ core competency and its associations with self-efficacy and self-directed learning ability: a cross-sectional latent profile analysis. BMJ Open. https://doi.org/10.1136/bmjopen-2026-123528
+
+`q2 · i?` · `associational · r2`
+
+Univariable comparisons across the three latent profiles in the 605-nurse survey, using χ2 or Fisher's exact tests for categorical variables and ANOVA or Kruskal-Wallis H tests for continuous variables; the article reports "all p<0.05" for the significant variables and "not statistically significant (p>0.05)" for sex, education and specialist status.
+
+> "Univariable analyses showed statistically significant differences across the three profiles in age, marital status, monthly income, professional title, years of nursing experience, self-directed learning ability and general self-efficacy (all p<0.05). Differences in sex, educational level and specialist nurse status were not statistically significant (p>0.05)."
+
+## Discussion
+
+
+## Related Claims
+- [Academic year, marital status, working status, and financial status show no significant association with knowledge level](no-association-demographics-knowledge-syria.md) — related
+- [No statistically significant differences in PI staging accuracy were observed by sex, age, work experience or educational level](no-demographic-differences-pi-staging-accuracy.md) — related
+- [Self-directed learning ability is positively associated with membership of the moderate- and high-level competency profiles rather than the low-level profile](self-directed-learning-ability-higher-competency-profiles.md) — related
+- [In the adjusted model, intermediate professional title is positively associated with the high-level profile while short nursing tenure is negatively associated with it](title-and-tenure-associations-high-level-profile.md) — related
+- [Twelve factors are significantly associated with nurses' spiritual care competency (p < 0.01)](twelve-factors-influence-nurse-spiritual-care-competency.md) — related
+- [SDL readiness among nurses shows no significant correlation with age, gender, academic status, or marital status](sdl-readiness-no-demographic-correlations.md) — reports the opposite
+- [Clinical nurses' core competency falls into three latent profiles — low-level (43.97%), moderate-level (41.98%) and high-level (14.05%) — with a relatively small high-level subgroup](three-latent-core-competency-profiles-nurses.md) — related

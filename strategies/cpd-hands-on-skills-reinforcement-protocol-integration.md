@@ -54,6 +54,8 @@ The review recommends that clinical practice should design CPD programs with "ha
 - [Design EBP education that is multi‐modal, clinically integrated, and team‐based with mentorship and case‐based discussions](multimodal-clinically-integrated-team-based-ebp-education.md)
 - [Integrate structured team-based IPE training programs and community-based placements in healthcare curricula](integrate-structured-team-based-ipe-training.md)
 - [Align CPD activities, programs, and systems so they function in collaboration to support physician SDL](align-cpd-systems-for-sdl-engagement.md)
+- [Embed the Long COVID core competencies in training and professional development to standardize practices and improve patient outcomes](embed-competencies-in-long-covid-training.md)
+- [Develop targeted, competency-based interprofessional continuing education programs and European frameworks for geriatric care](targeted-competency-based-geriatric-cpd-strategy.md)
 
 ## Examples
 -

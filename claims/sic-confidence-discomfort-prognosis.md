@@ -49,3 +49,5 @@ Thematic synthesis finding under the feeling-confident subtheme: the review repo
 - [Appropriate communication skills — including silence, mirroring, and open-ended questions — are core competencies for serious illness conversations](sic-communication-skills-silence-mirroring.md) — related
 - [Interpersonal capabilities — building connectedness and seeking permission — foster trust and psychosocial safety in serious illness conversations](sic-interpersonal-connectedness-permission.md) — related
 - [Effective use of the Serious Illness Conversation Guide is itself a competence requiring balance between structure and flexibility](sicg-use-structure-flexibility-competence.md) — related
+- [PCPs expressed discomfort diagnosing Long COVID without objective criteria, and experts recommended applying the NASEM definition flexibly with clinical judgement](diagnostic-uncertainty-nasem-flexible-definition.md) — related
+- [Communication competencies centered on validation, trauma-informed care, and discussing prognostic uncertainty while preserving realistic hope](trauma-informed-communication-prognostic-uncertainty.md) — a narrower finding that bears on this claim

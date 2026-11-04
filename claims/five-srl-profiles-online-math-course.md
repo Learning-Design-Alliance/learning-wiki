@@ -74,3 +74,4 @@ MANOVA across the five retained profiles on the seven SRL sub-constructs, report
 - [Cluster analysis identifies two antagonistic student profiles differing in level of technology-supported self-regulated learning](two-srl-technology-profiles-high-and-low.md) — related
 - [In a blended first-year engineering course, sub-groups of students (n > 200) reported qualitatively different approaches to inquiry and use of online learning technologies.](blended-course-qualitatively-different-approaches-subgroups.md) — related
 - [Students in the blended engineering course approached inquiry and online learning technologies while collaborating both in class and online.](inquiry-and-online-technology-approaches-in-collaboration.md) — related
+- [The competency profiles differ by overall level, with all seven CIRN dimensions increasing synchronously, rather than by divergent strength-and-weakness combinations](synchronous-dimension-increases-across-profiles.md) — related

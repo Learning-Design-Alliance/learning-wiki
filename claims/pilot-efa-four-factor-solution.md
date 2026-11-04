@@ -62,3 +62,4 @@ Pilot EFA (principal axis factoring with oblimin rotation) with an independent s
 - Four factors of ICT use explain 57.4% of the total variance in university students' types of ICT use — related
 - Motivation and learning-strategy scales cluster into three factors: High-Level Learning Strategies, High-Level Motivation, and Low-Level Learning Strategies and Motivation — related
 - Factor analysis identifies three components of ICT consideration: help/importance, tools for an end, and negative valuation — related
+- [Cognitive interviewing informed differentiated item-level decisions for ITEM: 11 questions received proposed wording or contextual revisions, 2 presentation-only modifications, and 6 were retained unchanged, with no items removed](item-item-level-decision-distribution.md) — reports the opposite

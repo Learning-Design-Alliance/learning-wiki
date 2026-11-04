@@ -70,3 +70,4 @@ The same 18-participant Likert-scale usability study reports "The overall recomm
 - [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related
 - [Students rated the tutor 3.4 out of 5 overall and particularly liked the worked-out solution feedback](ask-elle-student-satisfaction-3-4-of-5.md) — related
 - [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](idsa-usability-ratings-enjoyment-high-design-low.md) — related
+- [Trainees reported high satisfaction with the AI-enabled personalized teaching model](high-satisfaction-ai-personalized-teaching.md) — related

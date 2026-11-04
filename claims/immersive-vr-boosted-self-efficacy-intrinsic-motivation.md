@@ -71,3 +71,4 @@ The review reports, citing Makransky et al. (2019), a comparison of three learni
 - [Virtual reality use in TEPBLL positively boosted students' motivation, supporting a self-determination theory interpretation](vr-projects-boost-motivation-sdt.md) — a broader claim this one bears on
 - [Immersive VR tracheostomy training reduced anxiety more than regular training at follow-up](vr-tracheostomy-training-reduced-anxiety.md) — related
 - [VR learning units do not per se lead to better learning success; quality and design of the unit are decisive](vr-units-not-per-se-better-design-decisive.md) — related
+- [Students perceived that HoloLens increased engagement, but immersion was fragile and contingent on technical reliability and physical comfort](hololens-engagement-fragile-immersion.md) — related

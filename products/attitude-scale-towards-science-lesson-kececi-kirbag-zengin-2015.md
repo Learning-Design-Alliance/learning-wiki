@@ -34,6 +34,7 @@ A 31-item five-point Likert assessment developed by Kececi and Kirbag Zengin to 
 - [Scale for Students' Attitudes Toward AIGC Feedback in English Pronunciation Learning](scale-for-students-attitudes-toward-aigc-feedback-in-english-pronunciation-learning.md)
 - [Attitude Scale Toward Mobile Learning](attitude-scale-toward-mobile-learning.md)
 - [Gardner's Attitude/Motivation Test Battery (AMTB)](gardners-attitudemotivation-test-battery-amtb.md)
+- [Attitudes Towards Teaching Profession Scale (ATTPS)](attitudes-towards-teaching-profession-scale-attps.md)
 
 ## Key Sources
 - Halil Ibrahim Yildirim. (2018). The Impact of Out-of-School Learning Environments on 6th Grade Secondary School Students Attitude Towards Science Course. Journal of Education and Training Studies, 6(12). https://doi.org/10.11114/jets.v6i12.3624

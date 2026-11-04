@@ -17,7 +17,7 @@ sources:
 # Sociomaterial Agency of Tools
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 32 claims (24 for, 8 mixed) · 25 studies (10 qualitative, 5 causal, 5 theoretical, 2 review, 2 design, 1 quant-synthesis), `q1`–`q3` · 3 of 25 report an effect size · 32 claims rest on one study
+> **Evidence** · 33 claims (24 for, 9 mixed) · 26 studies (11 qualitative, 5 causal, 5 theoretical, 2 review, 2 design, 1 quant-synthesis), `q1`–`q3` · 3 of 26 report an effect size · 33 claims rest on one study
 
 ## Description
 Drawing on new materialist and posthumanist theory (Barad's concept of intra-action, in which matter and meaning co-constitute each other rather than matter being a passive backdrop to human intention), this perspective treats instructional tools and materials as active participants in learning, not neutral vehicles for a lesson's content. Materials carry forward cultural histories and associations — including gendered ones, such as sewing being coded feminine and circuit-building coded masculine — that shape who feels invited to use them and how they think while using them. The practical implication for design is that choosing "neutral" materials is not actually possible; material choices always carry some cultural coding, and thoughtful design can use that fact deliberately (e.g., pairing historically feminine-coded craft materials with rigorous technical content) rather than pretending it away.
@@ -67,6 +67,7 @@ Drawing on new materialist and posthumanist theory (Barad's concept of intra-act
 - [Most learning objects demonstrated high agency while receptivity varied, with low receptivity often an intentional design decision](../claims/high-agency-varied-receptivity-intentional.md) [~W]
 - [Device shapes tool use: Instagram and WhatsApp on phones, creation tools on laptops and tablets, and limited laptop use on public transport](../claims/device-shapes-tool-use-across-spaces.md) [+W]
 - [The tablet intervention appears to have motivated students to focus on procedural rather than theoretical homework exercises](../claims/tablet-motivates-procedural-focus.md) [+W] — attached 2026-10-30 from Wakefield et al. (2018), which proposed "Affordances of tablet technology can introduce a bias towards some kinds of learning interactions over others"; tests this page's relationship.
+- [Students perceived that HoloLens increased engagement, but immersion was fragile and contingent on technical reliability and physical comfort](../claims/hololens-engagement-fragile-immersion.md) [~W]
 
 ## The evidence by question
 - *Does the choice of physical materials for a hands-on task change what learners come to understand and who takes part?* [Material choice shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [+M]

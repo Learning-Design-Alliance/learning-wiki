@@ -43,6 +43,7 @@ Students recommended providing more information about the T&L approach along wit
 ## Related Strategies
 
 - [Provide preparatory materials, scenario introductions, adequate practice time, and constructive feedback in simulation teaching](simulation-teaching-preparation-practice-feedback.md)
+- [Spread simulation scenarios across multiple sessions, provide preparatory materials in advance, assign structured observer roles, and increase direct participation](ccs-session-design-improvement-strategy.md)
 
 ## Examples
 -

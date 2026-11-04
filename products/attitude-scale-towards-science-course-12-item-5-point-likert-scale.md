@@ -25,7 +25,8 @@ A 12-item, five-point Likert self-report instrument adapted from Kenar and Balc�
 - [Journal writing was associated with a significant positive change in experimental students' attitudes toward science, while control students' attitudes did not change](../claims/journal-writing-wtl-positive-science-attitude-change.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Attitudes Towards Teaching Profession Scale (ATTPS)](attitudes-towards-teaching-profession-scale-attps.md)
 
 ## Key Sources
 - Pınar, E. & Yıldız, A. (2020). The Effect of Journal Writing, One of the “Writing to Learn” Activities, on Achievement and Science Attitude in the Fourth Grade Science Course. Journal of Current Researches on Social Sciences, 10(1), 179-196. https://doi.org/10.26579/jocress.354

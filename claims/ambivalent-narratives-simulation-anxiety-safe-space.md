@@ -1,0 +1,52 @@
+---
+type: claim
+title: "Students' narratives frame simulations ambivalently: anxiety and performance insecurity coexist with perceived safe space for learning from mistakes"
+description: "Students' narratives frame simulations ambivalently: anxiety and performance insecurity coexist with perceived safe space for learning from mistakes"
+id: ambivalent-narratives-simulation-anxiety-safe-space
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: favarato-maria-helena-2026
+    resource: "https://doi.org/10.1186/s12909-026-09827-y"
+    title: "Favarato Maria Helena, Peres Isabela Chagas, de Fátima Lopes Calvo Tibério Iolanda. (2026). Is simulation always a safe learning environment? Anxiety and social anxiety symptoms in first-year medical students during simulated patient encounters. BMC Medical Education. https://doi.org/10.1186/s12909-026-09827-y"
+    author: Favarato Maria Helena, Peres Isabela Chagas, de Fátima Lopes Calvo Tibério Iolanda
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
+---
+
+# Students' narratives frame simulations ambivalently: anxiety and performance insecurity coexist with perceived safe space for learning from mistakes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Qualitative content analysis of simulation-day narratives found anxiety as the main theme, alongside insecurity about performance, emotional ambivalence, and perception of simulations as a judgmental-free space to learn from mistakes. [→ Favarato Maria Helena 2026](#favarato-maria-helena-2026)
+
+## Evidence
+
+### Favarato Maria Helena 2026
+
+Favarato Maria Helena, Peres Isabela Chagas, de Fátima Lopes Calvo Tibério Iolanda. (2026). Is simulation always a safe learning environment? Anxiety and social anxiety symptoms in first-year medical students during simulated patient encounters. BMC Medical Education. https://doi.org/10.1186/s12909-026-09827-y
+
+`q2 · i?` · `qualitative · r2`
+
+Bardin's content analysis of free narratives on simulation days (Table 3) identified anxiety as the main theme, with "mixed reports of fear, insecurity and at the same time pleasure and gratitude", plus personal evolution and safe-environment categories.
+
+> "Simulations are also perceived in an ambivalent way, with mixed reports of fear, insecurity and at the same time pleasure and gratitude for the experience lived. In a metacognitive perception, students understand that simulations are opportunities to self-reflection and personal and technical development, in an environment that provides a judgmental-free space to learn from mistakes."
+
+## Discussion
+
+
+## Related Claims
+- [Pre-simulation expectations combined high motivation with anxiety, nervousness, self-doubt and insecurity](pre-simulation-expectations-motivation-and-anxiety.md) — a narrower finding that bears on this claim
+- [Peer tutoring contributes to psychological safety and reduced anxiety in demanding simulation learning environments](peer-tutoring-psychological-safety-anxiety.md) — related
+- [Students report that progressive simulation practice builds handover confidence by reducing anxiety](progressive-simulation-practice-builds-confidence.md) — related
+- [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
+- [For some students, AI-generated feedback reduces the perceived personal risk of exposing weaknesses, functioning as a psychologically safe space for feedback seeking](ai-feedback-reduces-perceived-personal-risk.md) — related

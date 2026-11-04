@@ -30,7 +30,7 @@ sources:
 # Learning by Producing (multimedia production as learning)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 27 claims (16 for, 10 mixed, 1 against) · 36 studies (12 causal, 9 quant-synthesis, 6 design, 4 theoretical, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 10 of 36 report an effect size · 19 claims rest on one study
+> **Evidence** · 30 claims (18 for, 11 mixed, 1 against) · 37 studies (12 causal, 9 quant-synthesis, 6 design, 4 theoretical, 3 qualitative, 2 review, 1 associational), `q1`–`q4` · 10 of 37 report an effect size · 22 claims rest on one study
 
 ## Description and scope
 
@@ -136,6 +136,8 @@ Do not rank these against one another: their comparators (traditional instructio
 - [University students who created digital stories with generative-AI help rated their own collaborative problem-solving skills higher than traditionally taught students](../claims/gai-assisted-dst-improves-cps-skills.md) [~M] — attached 2026-10-15 from Wei et al. (2025), which proposed "GAI-assisted DST creation pattern integrating problem-based learning across four DST stages and six projects".
 - [Grade 10 students who constructed game adventures with ScriptEase scored in the mid-range (14-17) of the Video Game Cognitive Variability Scale, indicating the activity stimulates higher order thinking skills.](../claims/game-construction-higher-order-thinking-midrange.md) [+W] — attached 2026-10-30 from Carbonaro et al. (2008), which proposed "Computer game construction as a gender-neutral attractor to Computing Science.".
 - [Students enjoyed interactive game adventure writing significantly more than traditional story writing, with no significant gender difference.](../claims/enjoyment-interactive-over-traditional.md) [~W] — attached 2026-10-30 from Carbonaro et al. (2008), which proposed "Computer game construction as a gender-neutral attractor to Computing Science.".
+- [Students’ emotional experience of SGLM was mixed: most found it enjoyable while about half reported initial stress and tension](../claims/sglm-mixed-enjoyment-and-stress.md) [~W] — attached 2026-11-04 from Serhatlıoğlu Seda (2026), which proposed "Support student-generated learning material tasks with clear guidance, realistic time allocation, and formative feedback".
+- [Students reported difficulties with time management, material access, and indecision over subject and material selection during SGLM](../claims/sglm-difficulties-time-material-indecision.md) [+W] — attached 2026-11-04 from Serhatlıoğlu Seda (2026), which proposed "Support student-generated learning material tasks with clear guidance, realistic time allocation, and formative feedback".
 
 ## Illustrative design instance and observation record
 
@@ -159,6 +161,7 @@ This pattern is scoped to units in which a team or individual makes a media prod
 - [63.3% of students would like to write more interactive stories in school versus 34.0% for traditional stories, a significant difference.](../claims/preference-interactive-stories.md) [+W]
 - [Published studies of homemade PowerPoint games show no significant performance difference between game-creating and control groups](../claims/ppt-games-no-performance-difference-studies.md) [-W]
 - [Experimental-group students used compound nouns in slide bullet points more than control-group students, supporting stylistic appropriateness for presentations](../claims/compound-nouns-bullet-points-stylistic-advantage.md) [~W]
+- [Students perceived that producing visual material outputs helped them understand and explain abstract anatomical course content](../claims/sglm-perceived-visual-learning.md) [+W]
 
 ## Related Patterns
 

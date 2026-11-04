@@ -50,3 +50,4 @@ Descriptive analysis of official score analysis reports from the Proficiency Tes
 - [Performance on non-integrated factual recall questions remained relatively stable or showed a slight decline under case discussions](cbl-non-integrated-questions-stable-or-slight-decline.md) — related
 - [Performance remained stable or improved despite enrollment expanding from 408 to a peak of 795 students](cbl-stable-performance-despite-enrollment-expansion.md) — related
 - [The case discussion group's overall Licensing Examination differential rose to a peak of +5.69 in the 2019 cohort, the highest recorded during the study period](cbl-licensing-exam-differential-peak-569.md) — related
+- [Experts reported students asked more advanced and clinically meaningful questions than in a typical anatomy laboratory](experts-report-advanced-student-questions.md) — related

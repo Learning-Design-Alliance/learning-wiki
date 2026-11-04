@@ -51,6 +51,7 @@ The article recommends that nursing curricula address specific educational needs
 - [Teach subzone classification explicitly as a teachable, assessable cognitive skill in clinical curricula](explicit-subzone-classification-instruction.md)
 - [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
 - [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
+- [Support AI literacy, safe AI use, team-based learning, and innovation-supportive work environments, with mentoring for low-support settings](ai-literacy-innovation-support-nursing-management-strategy.md)
 
 ## Examples
 -

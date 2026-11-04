@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (12 for, 34 mixed, 2 against) · 48 studies (11 review, 9 causal, 9 design, 9 theoretical, 6 associational, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 48 report an effect size · 43 claims rest on one study
+> **Evidence** · 49 claims (13 for, 34 mixed, 2 against) · 49 studies (11 review, 10 causal, 9 design, 9 theoretical, 6 associational, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 49 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - [Checklists show reasonable validity and reliability but have an early ceiling effect and are most appropriate for novice learners in formative settings](../claims/checklists-valid-but-ceiling-effect-novice-formative.md) [~W]
 - [The heterogeneity of suturing assessment tools precludes meta-analysis, though their content could be merged into a panel of competence markers](../claims/heterogeneous-suturing-tools-preclude-meta-analysis.md) [~W]
 - [Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components](../claims/higher-concordance-binary-than-ternary-components.md) [~W]
+- [LC-CUSUM trajectories showed progressive skill acquisition in both groups, with descriptive trends toward earlier competency in the mikoto arm](../claims/mikoto-lc-cusum-learning-curves.md) [+W]
 
 ## Related Principles
 - [Mastery Learning](mastery-learning.md) — the progression rule that learners advance on demonstrated mastery rather than schedule

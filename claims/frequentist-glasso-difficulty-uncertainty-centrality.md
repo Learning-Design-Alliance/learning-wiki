@@ -54,3 +54,4 @@ The article's motivating statement about the frequentist GLASSO: it "has difficu
 - [Sensitivity is better for the frequentist GLASSO than for the Bayesian GLASSO, though Bayesian GLASSO performance is usually close](frequentist-glasso-higher-sensitivity-network-estimation.md) — related
 - [Non-regularized graphical model methods are specifically designed for low-dimensional data common in the social-behavioral sciences](ggmnonreg-designed-for-low-dimensional-data.md) — related
 - The Bayesian meta-analytic approach provides an assessment of uncertainty that includes the probability that a relationship is positive — related
+- [In a regularized partial correlation network, exposure to suicidal communication is the most central exposure dimension and pastoral care the most central competency](ggm-centrality-suicidal-communication-pastoral-care.md) — related

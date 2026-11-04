@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 109 claims (59 for, 47 mixed, 3 against) · 83 studies (36 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 23 of 83 report an effect size · 103 claims rest on one study
+> **Evidence** · 111 claims (60 for, 48 mixed, 3 against) · 84 studies (37 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 24 of 84 report an effect size · 105 claims rest on one study
 
 ## Conditional relationship
 
@@ -230,6 +230,8 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Students showed strong interest and full participation during marble-game lessons, per the authors' observations](../claims/marble-game-student-interest-participation.md) [~W]
 - [Students learning a system analysis unit with a 3D game-based learning system achieve higher post-test scores than students taught by traditional face-to-face instruction](../claims/3d-game-based-learning-higher-posttest-software-engineering.md) [+W]
 - [In Year 3, students reported that their game-based coursework felt like work and play more frequently than like work (50% of the time compared to 41%).](../claims/year3-game-based-coursework-like-work-and-play-50-compared-to-41.md) [+W]
+- [Teacher satisfaction with the clinical encounter was significantly higher in the serious game group than in the control group](../claims/serious-game-burn-teacher-satisfaction.md) [~W]
+- [The serious game intervention produced statistically significant post-intervention improvements in all seven Mini-CEX skill domains with large effect sizes (partial η² 0.71–0.90)](../claims/serious-game-all-seven-mini-cex-domains.md) [+W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

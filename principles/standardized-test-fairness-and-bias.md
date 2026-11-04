@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 59 claims (16 for, 38 mixed, 5 against) · 39 studies (11 associational, 10 causal, 9 review, 4 design, 3 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 39 report an effect size · 58 claims rest on one study
+> **Evidence** · 60 claims (17 for, 38 mixed, 5 against) · 40 studies (11 causal, 11 associational, 9 review, 4 design, 3 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 40 report an effect size · 59 claims rest on one study
 
 ## Conditional relationship
 
@@ -188,6 +188,7 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 - [Evaluators using assessment for selection find more mistakes in tests attributed to low-SES than high-SES students, creating an artificial SES achievement gap](../claims/selection-assessment-creates-ses-gap.md) [-W]
 - [The scoring models showed no meaningful demographic bias in pairwise standardized mean differences or mixed-effects prediction error analysis](../claims/no-meaningful-demographic-bias-naep-scoring-models.md) [+W]
 - [Differential item functioning appeared for home language (item 16) and teaching subject (items 2 and 3), but differential test functioning showed no overall group benefit](../claims/ctck-dif-dtf-results.md) [+W]
+- [Synergistic ankle dorsiflexion and plantar flexion items remain hardest FMA-LE items, with no between-group differences on any item](../claims/ankle-items-hardest-fma-le.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — the norm-referenced tests (SAT, ACT) most directly implicated in the differential-prediction findings here

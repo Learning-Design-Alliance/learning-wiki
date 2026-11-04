@@ -48,3 +48,4 @@ Phase 3 used ANCOVA for comparing post-rotation AI scores between groups, contro
 - [LLM-assisted self-study yields higher post-intervention exam performance than traditional resources among early-career knowledge workers](llm-self-study-beats-traditional-resources-exam-performance.md) — related
 - [Subgroup analysis revealed a significant effect in low-complexity cases (p = 0.007) but not in medium–high complexity cases (p = 0.798)](subgroup-significant-low-complexity-only.md) — related
 - [AI-powered PBL/CBL shows favourable but heterogeneous effects on clinical reasoning capability that could not be statistically pooled](ai-pbl-cbl-clinical-reasoning.md) — related
+- [The iHEC cohort showed higher post-rotation self-directed learning readiness than the conventional cohort (Cohen's d = 0.78)](ihec-higher-sdl-readiness.md) — related

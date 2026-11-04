@@ -48,3 +48,4 @@ Random-effects meta-analysis of the three included trials scoring classification
 - [E-learning programs significantly improve nurses' pressure injury classification skills when scored as a continuous outcome (pooled SMD 2.53)](elearning-improves-classification-skills-continuous-smd-2-53.md) — related
 - [E-learning programs significantly improve nurses' knowledge of pressure injury management compared with no e-learning (pooled SMD 1.40, with substantial heterogeneity)](elearning-improves-nurse-pressure-injury-knowledge-smd-1-40.md) — related
 - [MetaLight calculates multiple effect size types from continuous or binary two-group data](metalight-effect-size-calculations.md) — related
+- [Registered nurses in three Saudi tertiary hospitals scored a mean 62.54% on pressure injury staging knowledge items, below the 70% threshold used in previous studies](nurses-pi-staging-knowledge-62-percent.md) — related

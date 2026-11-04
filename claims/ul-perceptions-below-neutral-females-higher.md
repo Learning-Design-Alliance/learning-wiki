@@ -51,3 +51,4 @@ Six-item University Lecture perception scale (α = 0.875) administered in the cr
 - [Gender differences in AI perception scores appear only in the overall score and attitudes dimension, with males scoring higher](gender-differences-ai-perceptions-limited-dimensions.md) — related
 - [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — related
 - [Male participants rated TQM applicability higher than female participants in all scale dimensions](gender-difference-tqm-perceptions-male-higher.md) — related
+- [Nursing students score higher on SOC meaningfulness than medical students; male students score higher on meaningfulness than female students](meaningfulness-subscale-group-differences.md) — related

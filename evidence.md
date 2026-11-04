@@ -6,13 +6,13 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **11,192 distinct studies** behind 46,866 claims. What they add up to (the sections below have the detail):
+The wiki holds **11,271 distinct studies** behind 47,271 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 32% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 58% are quasi-experiments, observational studies or narrative reviews, and 10% are case studies, opinion or theory.
-- **Few print an effect size.** 2,930 of 11,192 studies (26%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
-- **Strong work is not only trials.** 1,250 studies are rated `r3`, done well for their kind; 783 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
+- **Few print an effect size.** 2,964 of 11,271 studies (26%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Strong work is not only trials.** 1,260 studies are rated `r3`, done well for their kind; 792 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 99% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
-- **Not all research reaches design.** 78% of studies, and 50% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
+- **Not all research reaches design.** 78% of studies, and 51% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
 - **Principles and patterns.** Of 224 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 118 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 3% strong, 32% moderate and 64% weak, and 51% supporting, 43% conditional and 6% against.
 
 These figures describe two things at once: what education research has produced, and what this wiki has collected so far. As inclusion is held to a higher standard the second will move; the first is why it has to.
@@ -21,32 +21,32 @@ These figures describe two things at once: what education research has produced,
 
 | | |
 |---|---|
-| Claims | 46,866 |
-| Evidence entries | 55,177 |
-| Distinct studies | 11,192 |
-| Claims resting on one study | 46,276 (99%) |
+| Claims | 47,271 |
+| Evidence entries | 55,633 |
+| Distinct studies | 11,271 |
+| Claims resting on one study | 46,681 (99%) |
 | Claims with no coded evidence | 3 |
-| Studies reporting an effect size | 2,930 of 11,192 (26%) |
+| Studies reporting an effect size | 2,964 of 11,271 (26%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 137 | 2,031 | 1,492 | 407 | 4,067 |
+| causal | 137 | 2,050 | 1,501 | 407 | 4,095 |
 | quant-synthesis | 204 | 386 | 85 | 135 | 810 |
-| review | 326 | 865 | 135 | 151 | 1,477 |
-| associational | 126 | 1,275 | 567 | 306 | 2,274 |
-| qualitative | 170 | 380 | 80 | 104 | 734 |
-| design | 93 | 762 | 157 | 39 | 1,051 |
-| theoretical | 194 | 429 | 84 | 72 | 779 |
+| review | 326 | 866 | 135 | 151 | 1,478 |
+| associational | 127 | 1,292 | 575 | 306 | 2,300 |
+| qualitative | 177 | 383 | 80 | 104 | 744 |
+| design | 94 | 772 | 157 | 39 | 1,062 |
+| theoretical | 195 | 431 | 84 | 72 | 782 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 1,117 (10%) | 6,458 (58%) | 3,431 (31%) | 186 (2%) |
+| 1,120 (10%) | 6,508 (58%) | 3,457 (31%) | 186 (2%) |
 
-**Studies per claim:** 0: 3, 1: 46,276, 2: 501, 3: 65, 4 or more: 21.
+**Studies per claim:** 0: 3, 1: 46,681, 2: 501, 3: 65, 4 or more: 21.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -115,7 +115,7 @@ Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-659 claims are cited both ways.
+660 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -149,14 +149,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 170 | 170 | 33 | 0 |
 | [elements](elements/index.md) | 1,057 | 796 | 2 | 0 |
 | [patterns](patterns/index.md) | 54 | 54 | 37.5 | 0 |
-| [strategies](strategies/index.md) | 9,812 | 6,287 | 1 | 0 |
+| [strategies](strategies/index.md) | 9,888 | 6,357 | 1 | 0 |
 | [processes](processes/index.md) | 18 | 17 | 13 | 0 |
 | [methods](methods/index.md) | 37 | 22 | 1.5 | 0 |
 | [theories](theories/index.md) | 1,360 | 924 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 75 | 75 | 72 | 0 |
-| [designs](designs/index.md) | 2,390 | 1,816 | 1 | 1 |
-| [products](products/index.md) | 3,110 | 2,388 | 1 | 1 |
-| [research-methods](research-methods/index.md) | 987 | 788 | 1 | 0 |
+| [learner-variables](learner-variables/index.md) | 75 | 75 | 73 | 0 |
+| [designs](designs/index.md) | 2,415 | 1,839 | 1 | 1 |
+| [products](products/index.md) | 3,135 | 2,406 | 1 | 1 |
+| [research-methods](research-methods/index.md) | 991 | 791 | 1 | 0 |
 
 ## Toward pooled estimates
 

@@ -57,3 +57,4 @@ The article attributes this to recent research on AI assistants for essay writin
 - [Unstructured LLM use contributes to epistemic narrowing by privileging convergent outputs and dominant viewpoints](unstructured-llm-use-epistemic-narrowing.md) — related
 - [Delegating intellectual work to generative AI risks eroding epistemic agency through reduced critical effort and cognitive offloading](genai-delegation-erodes-epistemic-agency.md) — related
 - [Documented GenAI-related challenges to active learning include cognitive debt, metacognitive laziness, unreflected acceptance, and overreliance on GenAI access](genai-risks-cognitive-debt-deskilling-overreliance.md) — possibly the same claim (merge candidate)
+- [AI use is associated with lower critical thinking, with trust strengthening and AI literacy weakening the effect](ai-use-lower-critical-thinking-literacy-buffer.md) — related

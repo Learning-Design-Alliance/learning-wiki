@@ -50,6 +50,7 @@ The authors recommend prevention and intervention programs that integrate family
 - [Target emotion regulation skills in middle and high school youth to close the gap between emotional and cognitive control systems](target-emotion-regulation-skills-adolescents.md)
 - [Start early: foster a positive math climate at home and school to prevent the distal avoidance pathway](early-positive-math-climate-prevention.md)
 - [Interventions should simultaneously enhance academic self-concept and achievement](interventions-enhance-both-self-concept-and-achievement.md)
+- [Embed longitudinal planning scaffolds and time support at semester transitions in preclinical curricula](longitudinal-planning-scaffolds-transitions.md)
 
 ## Examples
 -

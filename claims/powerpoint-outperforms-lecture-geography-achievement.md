@@ -54,3 +54,4 @@ Quasi-experimental comparison of two intact classes of 45 senior secondary two s
 - [Control-group LD students taught by traditional lecture show no significant pre-test to post-test difference](lecture-no-significant-gain-ld-students.md) — related
 - [Both demonstration and lecture methods were effective in improving academic performance in economics concepts](both-methods-effective-economics-concepts.md) — related
 - [Experimental groups outperformed control groups on post-experiment test by 6.45%](culture-activities-posttest-gain-6-45-percent.md) — related
+- [Students taught with the eHistoLab virtual microscopy web application achieved significantly higher histology post-test scores than students taught by e-lecturing](ehistolab-higher-posttest-than-e-lecturing.md) — related

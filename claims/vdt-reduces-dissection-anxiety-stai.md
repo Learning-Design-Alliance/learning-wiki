@@ -50,3 +50,4 @@ Bianchi et al. used the 40-item State-Trait Anxiety Inventory on 133 first-year 
 ## Related Claims
 - [Perceived VDT utility did not always correspond to measurable academic advantage](perceived-utility-not-always-academic-advantage.md) — related
 - [Student satisfaction with VDTs ranged from 64 to 95%, with preference for VDT-exclusive learning low (2.4–30.2%)](vdt-satisfaction-high-exclusive-preference-low.md) — related
+- [Trait anxiety in the sample was elevated (mean 49.03 ± 12.05; 22.8% classified as high)](elevated-trait-anxiety-first-year-cohort.md) — related

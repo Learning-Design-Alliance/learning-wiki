@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 218 claims (137 show a difference, 52 mixed, 29 no difference) · 176 studies (63 associational, 41 causal, 27 review, 24 quant-synthesis, 10 theoretical, 6 design, 5 qualitative), `q1`–`q4` · 26 of 176 report an effect size · 216 claims rest on one study
+> **Evidence** · 222 claims (139 show a difference, 53 mixed, 30 no difference) · 178 studies (64 associational, 41 causal, 27 review, 24 quant-synthesis, 10 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 26 of 178 report an effect size · 220 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -250,6 +250,10 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Non-linear effects of Head Start hours on letter-word scores differ by age: age-3 gains rise quickly then flatten, while age-4 gains rise after 2-3 hours per day](../claims/head-start-hours-nonlinear-age-patterns.md) [+M] — an instructional effect differs with it
 - [Strategy training improved CJ differentiation for children and older adults but not for adolescents and younger adults](../claims/strategy-training-cj-differentiation-age-limits.md) [~W] — an instructional effect differs with it
 - [Strategy training improved JOL accuracy (gamma correlations) significantly only in children, with a marginal tendency in older adults](../claims/strategy-training-jol-accuracy-children.md) [~W] — an instructional effect differs with it
+- [Mature nursing students more frequently report challenges with effective study techniques in self-directed learning than younger students](../claims/mature-students-study-technique-challenges-sdl.md) [+M] — learners who differ on it differ in outcomes
+- [No significant difference in knowledge or confidence scores across age groups among dental interns](../claims/no-age-group-differences-veneer-kap.md) [-M] — learners who differ on it differ in outcomes
+- [The article reports age-related SDL challenge patterns as tentative, sample-specific patterns rather than definitive age-based differences](../claims/sdl-age-patterns-tentative-sample-specific.md) [~M] — learners who differ on it differ in outcomes
+- [Younger nursing students more frequently report motivational challenges in self-directed learning than mature students](../claims/younger-students-motivation-challenges-sdl.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

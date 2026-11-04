@@ -52,3 +52,4 @@ Paired-samples tests of pre- and post-test Java scores in the 48-student evaluat
 - [Structured collaboration did not significantly improve balance of student code contributions compared to free collaboration](structured-dpp-no-contribution-balance-gain.md) — related
 - [Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not](mics-pre-post-no-group-differential-effect.md) — related
 - [Structured collaboration did not influence assignment completion time compared to free collaboration](structured-dpp-no-completion-time-effect.md) — related
+- [Both e-lecturing and eHistoLab instruction significantly improved histology knowledge from pre-test to post-test](both-methods-improved-histology-knowledge.md) — related

@@ -47,3 +47,4 @@ Exploratory pilot with 20 second-year biomedical device technology students in a
 ## Related Claims
 - [Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing](auto-updates-drew-users-from-explanations.md) — related
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
+- [Open-ended feedback suggested structured observation shifted student descriptions from visible equipment and procedures toward perioperative workflow, patient safety, and team collaboration](open-ended-feedback-shift-toward-workflow-safety.md) — related

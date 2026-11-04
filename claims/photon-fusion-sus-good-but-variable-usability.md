@@ -62,3 +62,4 @@ SUS questionnaire administered after the one-hour lab session with 10 participan
 - [Students report no usability issues with the formative assessment tool (ASQ means 5.2–5.5)](students-report-no-usability-issues-asq.md) — related
 - [The experimental group rated AVDS usability as excellent while the control group rated it as good](sus-usability-excellent-experimental-good-control.md) — related
 - [Perceived usability of the TARGET-tool improved from mid-term (SUS 57.3) to the end of the experimental phase (SUS 67.0), a medium effect that was not statistically significant](target-tool-sus-increase-nonsignificant.md) — related
+- [Adapted SUS scores indicated above-average usability, with the round 2 median of 77.5 exceeding the industry average of 68](sus-median-77-5-above-average-usability.md) — related

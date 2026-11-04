@@ -56,3 +56,4 @@ Paired samples t-test on the control group (n=21); means were 4.56 pre-test and 
 - [The paper-based control group showed no statistically significant gain from pre-test to post-test](control-group-no-significant-pretest-posttest-gain.md) — related
 - [No significant difference between the control group's post-test and its 21-day retention test scores](control-group-posttest-retention-no-difference.md) — related
 - [PBL and traditional teaching do not differ significantly in their effect on pre-service teachers’ critical thinking dispositions](pbl-no-difference-critical-thinking-disposition.md) — related
+- [The iHEC cohort showed higher post-rotation critical thinking disposition than the conventional cohort (Cohen's d = 0.75)](ihec-higher-critical-thinking.md) — related

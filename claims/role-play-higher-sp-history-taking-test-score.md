@@ -50,3 +50,4 @@ Final-evaluation three-station OSCE with one history-taking station; each studen
 - [Role-play training shows no significant difference between groups in theoretical examination scores](role-play-no-significant-theory-exam-difference.md) — related
 - [In an RCT reviewed by this study, an LLM-based digital patient improved ophthalmology medical history-taking skills relative to control](llm-digital-patient-improves-history-taking-rct.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on
+- [A pilot subsample showed improved communication skills in the patient-in-classroom group, but this finding is preliminary](patient-in-classroom-communication-pilot.md) — related

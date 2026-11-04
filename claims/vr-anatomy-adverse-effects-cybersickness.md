@@ -51,3 +51,4 @@ Adverse-effect reporting within the meta-analysis's review of the five satisfact
 - [No significant safety issues arose in VR-IWS use; one young participant reported minor dizziness in one session only](vr-iws-no-significant-safety-issues.md) — related
 - [Computer-based simulation and immersive VR platforms differ in their primary limitations: feedback timeliness versus physiological discomfort](vs-platform-specific-limitations.md) — a broader claim this one bears on
 - [Motion sickness remains a disagreeable side effect of IVR serious games for a minority of participants](ivr-sgs-motion-sickness-side-effect.md) — a broader claim this one bears on
+- [VR participants report more technical issues and cybersickness symptoms than slideshow participants](vr-technical-issues-cybersickness.md) — related

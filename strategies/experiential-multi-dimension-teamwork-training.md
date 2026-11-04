@@ -46,7 +46,8 @@ Based on the moderator findings, the authors recommend that teamwork training in
 - [Adding simulation to online patient-safety training improved nursing students' patient safety competency, but adding classroom teaching to clinical simulation did not further improve teamwork attitudes](../claims/blended-simulation-versus-simulation-alone-mixed.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use simulation-based training, case-based learning and repeated visual calibration exercises to strengthen pressure injury staging competence](simulation-case-based-visual-calibration-pi-staging.md)
 
 ## Examples
 -

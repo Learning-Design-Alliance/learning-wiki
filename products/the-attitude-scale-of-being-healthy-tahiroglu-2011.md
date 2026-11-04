@@ -24,7 +24,8 @@ A 25-item, five-point Likert self-report scale developed by Tahiroğlu to measur
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Attitudes Towards Teaching Profession Scale (ATTPS)](attitudes-towards-teaching-profession-scale-attps.md)
 
 ## Key Sources
 - Turhan ÇETİN & Mustafa TAHİROĞLU. (2012). The Attitude of the Students towards the Value of “Paying Attention to Being Healthy” in 4th Grade Elementary Social Sciences Course. Educational Sciences: Theory & Practice, 12(2). www.edam.com.tr/estp

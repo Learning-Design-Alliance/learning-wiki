@@ -48,3 +48,4 @@ Random-effects meta-analysis of four studies reporting nurse knowledge outcomes,
 - [E-learning programs significantly improve nurses' pressure injury classification skills when scored as a continuous outcome (pooled SMD 2.53)](elearning-improves-classification-skills-continuous-smd-2-53.md) — related
 - [Educational interventions substantially improve nurse leaders' EBP competence (SMD = 1.76)](ebp-education-improves-nurse-leader-ebp-competence.md) — a broader claim this one bears on
 - [E-learning shows no statistically significant effect on nurses' pressure injury classification skills when scored as a binary outcome (pooled OR 1.75, p = 0.08)](elearning-no-significant-effect-classification-binary-outcome.md) — related
+- [Registered nurses in three Saudi tertiary hospitals scored a mean 62.54% on pressure injury staging knowledge items, below the 70% threshold used in previous studies](nurses-pi-staging-knowledge-62-percent.md) — related

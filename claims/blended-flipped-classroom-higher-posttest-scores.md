@@ -51,3 +51,4 @@ The review reports, from the included study by Aristotle et al. (2021) on histol
 - Research output on digital histology and pathology teaching increased steadily from 2013 to 2024, with first-year medical students the most frequently studied group — related
 - [PBL and flipped classrooms frequently show better post-test performance and knowledge retention than traditional methods](pbl-flipped-better-post-test-performance.md) — a broader claim this one bears on
 - [VDT use is associated with improved academic performance in 86% of studies, with score increases of 8–31% over traditional teaching methods](vdt-improved-academic-performance-86-percent-studies.md) — a broader claim this one bears on
+- [Both e-lecturing and eHistoLab instruction significantly improved histology knowledge from pre-test to post-test](both-methods-improved-histology-knowledge.md) — related

@@ -17,7 +17,7 @@ sources:
 # Analyze terminal behavior and objectives before manipulating teaching methods in instructional design
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 31 claims (18 for, 12 mixed, 1 against) · 31 studies (18 causal, 8 associational, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 3 of 31 report an effect size · 31 claims rest on one study
+> **Evidence** · 32 claims (19 for, 12 mixed, 1 against) · 32 studies (19 causal, 8 associational, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 3 of 32 report an effect size · 32 claims rest on one study
 
 ## Description
 Glaser's design orientation sets a task sequence: specify the terminal performance standard, determine student entry characteristics and prerequisites, construct procedures and materials to move the learner from one state to the other with provisions for motivation, and assess achieved competence against criteria. He argues analysis of behavior has been neglected yet has been the most influential element in recent instructional improvements, more so than manipulations of teaching method.
@@ -70,6 +70,7 @@ Glaser's design orientation sets a task sequence: specify the terminal performan
 - [Most second-year dental students had no or limited prior exposure to space management concepts before the module.](../claims/limited-prior-exposure-space-management.md) [~W]
 - [Pre-course test reveals high factual recall but insufficient clinical application ability under traditional teaching](../claims/pre-course-test-reveals-application-deficit-traditional-teaching.md) [~W]
 - [Baseline knowledge did not differ between early and mid academic year residents, suggesting routine exposure is inadequate](../claims/no-baseline-difference-academic-year.md) [+W]
+- [Prior angiography experience, not instructional format, showed the most consistent association with objective performance](../claims/experience-most-consistent-performance-predictor.md) [+W]
 
 ## Related Principles
 - 

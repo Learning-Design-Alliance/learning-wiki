@@ -48,3 +48,4 @@ Mann Whitney U test of TAI posttest scores, n=14 per group. Experimental TAI fel
 - [The program's effects on positive future expectations, trait anxiety, and anxiety of making mistakes persisted at four-week follow-up](cbt-skill-training-effects-persist-four-weeks.md) — related
 - [A CBT-based skill-training program increases university students' positive future expectations compared with a no-treatment control](cbt-skill-training-increases-positive-future-expectations.md) — related
 - [A CBT-based skill-training program reduces university students' anxiety of making mistakes compared with a no-treatment control](cbt-skill-training-reduces-anxiety-of-making-mistakes.md) — related
+- [Trait anxiety in the sample was elevated (mean 49.03 ± 12.05; 22.8% classified as high)](elevated-trait-anxiety-first-year-cohort.md) — related

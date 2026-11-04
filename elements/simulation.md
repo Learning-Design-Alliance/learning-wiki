@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 269 claims (156 for, 94 mixed, 19 against) · 170 studies (77 review, 38 quant-synthesis, 34 causal, 10 design, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 32 of 170 report an effect size · 259 claims rest on one study
+> **Evidence** · 274 claims (158 for, 97 mixed, 19 against) · 174 studies (77 review, 38 quant-synthesis, 34 causal, 13 design, 6 qualitative, 3 associational, 3 theoretical), `q1`–`q4` · 32 of 174 report an effect size · 264 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -324,6 +324,11 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Simulation-based radiology training significantly improves procedural sequencing knowledge from pretest to posttest among medical technical assistant trainees](../claims/simulation-radiology-training-improves-procedural-sequencing.md) [+W]
 - [A single simulation-based intervention with structured debriefing improved immediate adrenal crisis knowledge among pediatric residents](../claims/simulation-debriefing-improved-adrenal-crisis-knowledge.md) [+W]
 - [Theoretical pharmacology knowledge improves after simulation training except for the right patient domain](../claims/simulation-improves-pharmacology-knowledge-except-right-patient.md) [+W]
+- [A simulated scenario for pediatric EVD management built with RCDP achieved excellent content validity from seven expert reviewers across two assessment rounds](../claims/rcdp-evd-scenario-content-validity.md) [+W] — attached 2026-11-04 from da Silva Ruana Luiz Ferreira; Oliveira-Kumakura Ana Railka de Souza (2026), which proposed "Evidence-based high-fidelity simulated scenario for pediatric EVD management with three sequential scenes".
+- [Testing with five nursing students required no scenario modifications, with three brief feedback pauses and cycles under five minutes achieving mastery](../claims/rcdp-scenario-testing-mastery-no-modifications.md) [+W] — attached 2026-11-04 from da Silva Ruana Luiz Ferreira; Oliveira-Kumakura Ana Railka de Souza (2026), which proposed "Evidence-based high-fidelity simulated scenario for pediatric EVD management with three sequential scenes".
+- [Interrater reliability for total MADRS score across expert raters interviewing the same virtual patients was high (ICC 0.90, 95% CI 0.68-0.99), though preliminary](../claims/virtual-patient-interrater-reliability-icc.md) [~W] — attached 2026-11-04 from Bossio Botero Veronica et al. (2026), which proposed "Voice-enabled LLM virtual patient simulation system for standardized clinical assessment training".
+- [Students valued VSP convenience but rated realism and feedback value below human standardized patients](../claims/vsp-student-feedback-convenience-high-realism-low.md) [~W]
+- [Technical errors during biotissue training decreased significantly per attempt, but clinically relevant errors remained at the final attempt, especially for pancreaticojejunostomy](../claims/learnbot-error-decrease-residual-errors.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

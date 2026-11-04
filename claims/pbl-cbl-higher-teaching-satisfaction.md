@@ -58,3 +58,4 @@ Meta-analysis of 7 studies (468 students) comparing satisfaction with teaching m
 - [PBL+LBL raises satisfactory teaching effect but not general or poor teaching effect ratings](pbl-lbl-teaching-satisfaction-effects.md) — related
 - [Students reported that case-based learning increased interest in the course and awareness of the teaching profession](cbl-affective-impact-student-opinions.md) — related
 - [PBL-CBL combined teaching improves post-class case analysis scores compared with traditional lecture-based teaching in gynecology residents](pbl-cbl-improves-case-analysis-scores-gynecology-residents.md) — related
+- [IWCL+CBL students report higher satisfaction with the teaching model than LBL+CBL students](iwcl-cbl-higher-teaching-satisfaction.md) — related

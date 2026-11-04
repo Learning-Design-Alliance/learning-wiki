@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 128 claims (83 for, 35 mixed, 10 against) · 107 studies (47 causal, 25 review, 19 theoretical, 13 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 20 of 107 report an effect size · 117 claims rest on one study
+> **Evidence** · 129 claims (84 for, 35 mixed, 10 against) · 108 studies (47 causal, 25 review, 19 theoretical, 13 quant-synthesis, 2 associational, 2 design), `q1`–`q4` · 20 of 108 report an effect size · 118 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -199,6 +199,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Learners in the integrated-format condition experienced fewer cognitive-load challenges than learners in the split-attention condition](../claims/split-attention-integrated-format-fewer-challenges.md) [+W] — attached 2026-11-03 from Dhlamini (2016), which proposed "Cognitive load theory as a framework for modelling problem solving performance".
 - [Extraneous load showed low internal consistency (α = 0.283), limiting its interpretability in this VR anatomy context](../claims/incarne-extraneous-load-poor-reliability.md) [~W]
 - [Intrinsic cognitive load was reported as low (M = 1.54, SD = 1.42) while germane load was higher (M = 4.26, SD = 2.95), indicating engagement in task-related cognitive processing](../claims/incarne-low-intrinsic-high-germane-load.md) [+W]
+- [Lower extraneous cognitive load is associated with greater flow experience, and greater flow with higher learning engagement](../claims/load-flow-engagement-associations-nursing-simulation.md) [+W] — attached 2026-11-04 from Liu Mengjiao et al. (2026), which proposed "Cognitive load and flow theories integrated as a sequential account linking system usability to learning engagement".
 
 ## The evidence by question
 

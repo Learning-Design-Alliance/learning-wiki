@@ -47,3 +47,4 @@ The review's interpretive synthesis in the Discussion, arguing from stated limit
 ## Related Claims
 - [Self-reported instruments measure AI self-efficacy (perceptions) rather than AI literacy abilities, so both should be included in comprehensive assessment](self-report-measures-self-efficacy-not-literacy.md) — related
 - [Learner-related factors are the most frequently identified barriers to effective remediation of clinical reasoning skill deficits](learner-factors-most-frequent-remediation-barriers.md) — related
+- [Time-based CME credit allocation has three fundamental limitations: participation as proxy, weak alignment with clinical reasoning, and limited personalization](time-based-cme-three-limitations.md) — related

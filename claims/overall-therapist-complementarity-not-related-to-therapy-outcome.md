@@ -52,3 +52,4 @@ Behavioral analysis of 120 rated tape segments from 20 late-adolescent clients (
 - Therapy relationships do not show a transition from relational incongruence to congruence across sessions — related
 - Response redundancy (relational congruence) is not related to working alliance ratings — related
 - [Quality of the therapeutic relationship and counseling effectiveness are not correlated with each other, though both correlate with therapist experience](therapeutic-relationship-quality-uncorrelated-with-effectiveness.md) — related
+- [Observer-rated therapeutic alliance declines from pre to post intervention across both simulation modalities, with a significant overall time effect whose group-specific declines do not survive Bonferroni correction](sbl-therapeutic-alliance-decline.md) — related

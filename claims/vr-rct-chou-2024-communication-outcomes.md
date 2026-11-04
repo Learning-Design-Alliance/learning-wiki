@@ -58,3 +58,4 @@ A pragmatic randomized controlled trial with 84 second-year nursing students (42
 - [Across the review's randomised controlled trials, e-learning showed no significant differences in knowledge mastery versus controls, but greater short-term learner satisfaction](rcts-no-knowledge-difference-higher-satisfaction.md) — related
 - [A biofeedback-based stress monitoring tool significantly reduced surgeons' mean stress scores in a randomized controlled trial](stress-feedback-tool-reduced-stress-rct.md) — related
 - [VR temporal demands during short testing quizzes are significantly lower than traditional paper-based testing](vr-short-testing-quizzes-lower-temporal-demands.md) — related
+- [Students trained via VR report significantly greater satisfaction than students trained on real patients or a mannequin](vr-training-greater-satisfaction-ecg-training.md) — related

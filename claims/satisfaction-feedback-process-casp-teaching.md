@@ -48,3 +48,4 @@ Questionnaire on satisfaction with teaching management and skill development, re
 - [Instructor feedback on individual CASP-based RCT assignments significantly improved fifth-year pharmacy students' RCT evaluation scores](feedback-improves-pharmacy-rct-evaluation-scores.md) — related
 - [Collaborative group assignments for new drug evaluations using CASP achieved average scores above 80%](group-casp-drug-evaluations-exceed-80.md) — related
 - [At-risk students reported general satisfaction with the relational feedback intervention, and most respondents preferred it more frequently than twice per semester](at-risk-students-satisfied-prefer-frequent-feedback.md) — related
+- [All participants were satisfied with VR training, and most preferred combined instructor-led plus VR instruction and did not believe VR could replace instructor-led explanation](post-training-perceptions-combined-instruction-preferred.md) — related

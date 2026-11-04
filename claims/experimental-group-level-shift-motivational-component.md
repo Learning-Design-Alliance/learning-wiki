@@ -51,3 +51,4 @@ Results of measurements in the control group (CG) and experimental group (EG) re
 - [Experimental (ABSI) group's achievement scores increased significantly from pre-test to post-test, while the control group's did not](absi-within-group-gain-significant.md) — related
 - [Low-scoring experimental-group students moved from 25% scoring below 25% at pre-test to none scoring below 25% at post-test, with scores reaching as much as 56.8%](lowest-scorers-crossed-25-percent-threshold.md) — related
 - [The Smartboard-taught experimental group showed a significant within-group increase in motivation from pre- to post-treatment](smartboard-group-within-group-motivation-gain.md) — related
+- [Engagement and interest scores rose markedly in the scenario-based group after training](engagement-rose-scenario-group.md) — related

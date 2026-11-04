@@ -116,3 +116,5 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Lesson observations found authentic tasks and materials contributed positively to grammatical, textual, and illocutionary competence in four of five interventions, and to sociolinguistic competence in three of five](observations-authentic-tasks-competence-contributions.md) — related
 - [Lab findings on reflection may not transfer to authentic classroom environments](lab-class-transfer-caution-reflection-quizzing.md) — related
 - [Nursing students report that purely theoretical delirium education is insufficient for clinical readiness](theory-alone-insufficient-delirium-education.md) — a narrower finding that bears on this claim
+- [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](ccs-perceived-strengths-realism-reasoning-communication.md) — a narrower finding that bears on this claim
+- [Experts reported students asked more advanced and clinically meaningful questions than in a typical anatomy laboratory](experts-report-advanced-student-questions.md) — related

@@ -56,3 +56,4 @@ Quasi-experimental 2x2 factorial study of 273 eighth graders in four Jordanian s
 - [Analogical instruction produced significantly higher electric concept achievement than traditional instruction in 11th-grade physics](analogical-instruction-higher-electric-concept-achievement.md) — related
 - [Grade-10 students taught via a lab-rotation blended learning model scored significantly higher on a mathematics conceptual understanding post-test than students taught conventionally](blended-learning-lab-rotation-improves-math-conceptual-understanding.md) — related
 - [Seventh-grade students taught science with an educational modules strategy significantly outperform conventionally taught students on the direct (immediate) achievement test](modules-strategy-superior-direct-achievement-science.md) — related
+- [The iHEC cohort showed higher post-rotation self-directed learning readiness than the conventional cohort (Cohen's d = 0.78)](ihec-higher-sdl-readiness.md) — related

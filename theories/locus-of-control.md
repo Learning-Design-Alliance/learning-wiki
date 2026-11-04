@@ -12,7 +12,7 @@ generated:
 # Locus of Control
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (3 causal, 1 associational), `q1`–`q3` · 2 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 5 studies (3 causal, 2 associational), `q1`–`q3` · 3 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 Julian Rotter (1966) proposed locus of control as a cognitive factor shaping behavior and personality, distinct from [Self-Efficacy Theory](self-efficacy-theory.md): self-efficacy is a belief about one's own *ability* to perform a specific task, while locus of control is a broader belief about *who or what controls outcomes* in one's life generally. People with an **internal locus of control** ("internals") tend to believe their outcomes are the direct result of their own effort; people with an **external locus of control** ("externals") tend to believe their outcomes are controlled by other people, luck, or chance. Rotter framed the two orientations as ends of a continuum rather than a strict dichotomy.
@@ -41,6 +41,8 @@ A student who does poorly on a test after skipping study time illustrates the co
 - [The programme was reportedly more effective for students with an internal locus of control than an external locus of control](../claims/internal-locus-of-control-benefits-from-multicultural-programme.md) [+W]
 - [Latent class analysis identified two teacher profiles differing sharply in knowledge of ADHD, knowledge of behavior modification, and internal locus of control for student failure](../claims/two-teacher-latent-classes-knowledge-beliefs.md) [~W]
 - [At the ascertaining stage, adolescents' subjective control was closely connected with their style of behavior self-regulation](../claims/subjective-control-linked-behavior-self-regulation-style.md) [+W]
+- [Students with internal LOC show higher GPA and SOC than students with external LOC](../claims/internal-loc-higher-gpa-soc.md) [+W]
+- [Locus of control correlates negatively with GPA among medical and nursing students (r = -0.272)](../claims/loc-negative-correlation-gpa.md) [+W]
 
 ## Related Theories
 

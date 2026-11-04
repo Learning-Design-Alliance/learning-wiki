@@ -49,3 +49,4 @@ Descriptive account of the observation group's teaching procedure: students take
 - [Patient simulation is the most prevalent role in higher education, concentrated in medical training contexts](higher-education-patient-simulator-role.md) — related
 - [Simulation-based training is associated with improved patient safety-related skills and knowledge in undergraduate nursing students](simulation-improves-nursing-patient-safety-skills.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
+- [Students reported that early exposure to surface anatomy, palpation, and systematic physical examination enhanced their confidence and competence with real patients](early-surface-anatomy-exposure-confidence.md) — related

@@ -54,6 +54,7 @@ The review's forward-looking recommendation is to move from heterogeneous, mostl
 - [Integrate GTA teaching as part of a broader multi-modality strategy, with hybrid GTA–manikin models, co-produced standards, and longitudinal, patient-inclusive evaluation](gta-implementation-strategy-hybrid-and-coproduction.md)
 - [Establish standardized implementation frameworks and conduct multi-center longitudinal studies on VR communication training](standardized-implementation-frameworks-vr-communication.md)
 - [Prioritize longitudinal studies tracking trainees from simulation to real-world surgical performance](longitudinal-simulation-to-or-tracking-studies.md)
+- [Assign clerkship students to follow a single patient longitudinally from outpatient visit through surgery and postoperative review](longitudinal-patient-following-strategy.md)
 
 ## Examples
 -

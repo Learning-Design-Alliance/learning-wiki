@@ -50,3 +50,4 @@ Post-rotation questionnaire study of 64 maternity nursing students using Jeffrie
 - [Students rate simulation as improving critical thinking, problem solving, reporting and recording, and decision making, with communication and nursing process rated lower](simulation-improves-self-rated-maternity-skills.md) — related
 - [Students taught with preclinical simulation achieved higher final course grades than the previous cohort taught without simulation (87.79 vs 83.07, p = 0.000)](simulation-cohort-higher-final-grades-maternity.md) — related
 - [Participants reported high satisfaction with simulation sessions but criticized time allocation and group size](simulation-session-satisfaction-time-group-size.md) — related
+- [Nursing students reported high satisfaction with community care simulation, with all SDS domain means around 4.5 and support rated lowest](ccs-high-satisfaction-sds-domain-scores.md) — related

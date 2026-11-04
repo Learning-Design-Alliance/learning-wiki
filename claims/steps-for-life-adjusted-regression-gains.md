@@ -64,3 +64,4 @@ Repeated-measures ANOVA in a cluster-randomized experimental study of 2439 Greek
 - [School climate differences between BTO and other schools remain large and significant after adjusting for student demographics and personnel resources](climate-advantage-robust-to-controls.md) — related
 - [Changes across the eleven skill dimensions were positively inter-correlated in the intervention group (all p < .001)](steps-for-life-skill-change-correlations.md) — related
 - [Self-esteem, measured by the BASE scale, improved significantly more in the intervention group than controls](steps-for-life-self-esteem-improvement.md) — related
+- [Regression confirms robust intervention effect after covariate adjustment (B=3.924)](llm-vsp-regression-robust-effect.md) — related

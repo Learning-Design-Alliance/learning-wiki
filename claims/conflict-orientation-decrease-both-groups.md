@@ -47,3 +47,4 @@ Paired samples t-test on conflict orientation totals with a one-week interval be
 ## Related Claims
 - [Self-regulated jigsaw IV did not significantly increase students' attitudes towards the English course; the significant gain-score difference reflected a control-group decline](jigsaw-iv-attitude-no-significant-increase.md) — related
 - [Conflict resolution skills training produced no statistically significant change in college students' conflict handling styles on any of the five MODE subscales](conflict-training-no-change-handling-styles.md) — related
+- [Cohort 2022 showed significant gains from pre-test (4.3 ± 1.6) to post-test (7.6 ± 2.2) with retention at post-post-test (6.3 ± 2.4), and an 11.7% numerical decrease after the post-test that was not statistically significant](xr-cbl-cohort-2022-gains-retention.md) — related

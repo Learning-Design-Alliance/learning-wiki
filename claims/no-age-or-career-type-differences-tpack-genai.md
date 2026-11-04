@@ -53,3 +53,4 @@ Age-group ANOVAs (Tables 5) and career-type ANOVAs (Table 6) in the 127-faculty 
 - [AI-TPACK component scores show no significant differences across MTES grades, while self-efficacy and teaching beliefs do differ](no-grade-differences-in-aick.md) — related
 - [Earlier and mid-career teachers report more positive AI perceptions than teachers with 21 or more years of experience, except in personal experiences](professional-experience-ai-perception-differences.md) — related
 - [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes](gender-differences-technological-genai-knowledge-small-effects.md) — related
+- [No significant difference in knowledge or confidence scores across age groups among dental interns](no-age-group-differences-veneer-kap.md) — related

@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 316 claims (167 for, 130 mixed, 19 against) · 189 studies (75 review, 46 causal, 39 quant-synthesis, 12 qualitative, 8 design, 8 theoretical, 1 associational), `q1`–`q4` · 41 of 189 report an effect size · 311 claims rest on one study
+> **Evidence** · 322 claims (170 for, 132 mixed, 20 against) · 195 studies (75 review, 49 causal, 39 quant-synthesis, 14 qualitative, 9 design, 8 theoretical, 1 associational), `q1`–`q4` · 42 of 195 report an effect size · 317 claims rest on one study
 
 ## Conditional relationship
 
@@ -359,6 +359,8 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](../claims/three-phase-debriefing-reflection-feedback.md) [+W] — attached 2026-11-04 from Toumi Dhekra et al. (2025), which proposed "Combine high-fidelity and low-fidelity mannequins with structured three-phase debriefings in simulation training programs".
 - [Task completion time for nail insertion decreased significantly across simulation runs and remained stable during retention](../claims/ar-simulator-insertion-time-decrease-retention.md) [+W] — attached 2026-11-04 from Stauffer Tobias et al. (2026), which proposed "Combine realistic haptic feedback from physical setups with AR-based procedural guidance to enable self-directed surgical training"; tests this page's relationship.
 - [Number of simulated fluoroscopic images declined significantly for insertion and alignment across training runs](../claims/ar-simulator-fluoroscopic-image-count-decline.md) [+W] — attached 2026-11-04 from Stauffer Tobias et al. (2026), which proposed "Combine realistic haptic feedback from physical setups with AR-based procedural guidance to enable self-directed surgical training"; tests this page's relationship.
+- [VR simulation training produces higher DOPS procedural skill scores than real-patient or mannequin training for ECG lead placement](../claims/vr-training-higher-dops-ecg-lead-placement.md) [+W] — attached 2026-11-04 from Kermanian Fatemeh et al. (2026), which proposed "VR simulation design combining 3D anatomical visualization, immediate error feedback, and repeatable practice"; tests this page's relationship.
+- [Testing with five nursing students required no scenario modifications, with three brief feedback pauses and cycles under five minutes achieving mastery](../claims/rcdp-scenario-testing-mastery-no-modifications.md) [+W] — attached 2026-11-04 from da Silva Ruana Luiz Ferreira; Oliveira-Kumakura Ana Railka de Souza (2026), which proposed "Three-stage scenario engineering pattern: construct from evidence, validate with expert reviewers, test with target audience".
 
 ## Objective and learner-valued goal
 
@@ -552,6 +554,10 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Theoretical pharmacology knowledge improves after simulation training except for the right patient domain](../claims/simulation-improves-pharmacology-knowledge-except-right-patient.md) [+W]
 - [No significant difference in successful intubation rate or esophageal intubation rate before and after simulation training](../claims/simulation-no-significant-success-rate-change.md) [-W]
 - [Outpatient sick-day management showed the largest knowledge gap at baseline and the greatest post-simulation gain](../claims/sick-day-management-largest-gap-gain.md) [+W]
+- [The serious game intervention produced statistically significant post-intervention improvements in all seven Mini-CEX skill domains with large effect sizes (partial η² 0.71–0.90)](../claims/serious-game-all-seven-mini-cex-domains.md) [+W]
+- [No statistically significant difference in procedural performance between VR and slideshow lecture groups](../claims/vr-slideshow-similar-procedural-performance-usg-lp.md) [-W]
+- [Students perceive virtual simulation as standardising interprofessional learning experiences across clinical placements and campuses](../claims/virtual-simulation-standardises-ipe-experiences.md) [~W]
+- [Students reported that HoloLens made anatomy spatially intelligible but not fully realistic, describing holograms as simplified or cartoon-like](../claims/hololens-spatial-intelligibility-not-realism.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

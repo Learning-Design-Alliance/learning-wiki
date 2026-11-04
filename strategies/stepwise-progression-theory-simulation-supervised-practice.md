@@ -46,6 +46,7 @@ The article recommends a structured, stepwise progression integrating theoretica
 ## Related Strategies
 
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
+- [Integrate the validated SP chicken anastomosis task into SP-specific Proficiency Based Progression training pathways](sp-pbp-training-pathway-strategy.md)
 
 ## Examples
 -

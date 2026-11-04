@@ -14,7 +14,7 @@ grain_size: course
 # Learner Experience Design (LXD)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 33 claims (19 for, 13 mixed, 1 against) · 40 studies (13 causal, 10 design, 9 review, 3 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 4 of 40 report an effect size · 29 claims rest on one study
+> **Evidence** · 35 claims (21 for, 13 mixed, 1 against) · 42 studies (13 causal, 11 design, 9 review, 3 quant-synthesis, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 4 of 42 report an effect size · 31 claims rest on one study
 
 ## Description
 Learner Experience Design imports the methods of user-centred design — user research, personas and scenarios, prototyping, usability testing, heuristic evaluation — into instructional design, and makes one substantive claim while doing it: **usability is not polish applied after the instruction, it is part of the instruction.**
@@ -93,6 +93,8 @@ LXD inherits the empathize-and-test moves from [Design Thinking](design-thinking
 - [Reviews of eduXR experiences reveal human interface issues, motion sickness, and problems with interaction affordances](../claims/eduxr-reviews-reveal-interface-motion-sickness-affordances.md) [~W]
 - [Mobile access to the Voice Thread application resolved participants' initial difficulties uploading voice entries](../claims/mobile-app-resolved-vt-upload-difficulties.md) [~W]
 - [Exploratory correlations showed moderate to strong descriptive associations between selected user experience and cognitive load dimensions](../claims/incarne-ux-cognitive-load-correlations.md) [~W]
+- [After usability testing and refinement, the simulation was piloted with 23 residents without unanticipated technical problems](../claims/pilot-23-residents-no-implementation-issues.md) [+W]
+- [Students perceived the educational value of HoloLens as dependent on usability, learner control, and curricular integration](../claims/hololens-value-depends-on-implementation.md) [+W]
 
 #### Supporting
 - [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S] — the mechanism the whole argument rests on

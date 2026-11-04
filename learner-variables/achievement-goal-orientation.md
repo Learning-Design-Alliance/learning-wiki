@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 122 claims (70 show a difference, 35 mixed, 17 no difference) · 52 studies (19 causal, 18 associational, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 19 of 52 report an effect size · 120 claims rest on one study
+> **Evidence** · 125 claims (72 show a difference, 35 mixed, 18 no difference) · 53 studies (19 causal, 19 associational, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 19 of 53 report an effect size · 123 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -157,6 +157,9 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [A three-way interaction of the goal difficulty intervention, mastery-approach goals, and prior GPA on interest-based studying benefited low-mastery, low-achieving students, contrary to hypotheses](../claims/gd-three-way-interaction-low-mastery.md) [~W] — an instructional effect differs with it
 - [The interest-based studying intervention significantly reduced students' mastery-approach goals from pre-test to post-test](../claims/ibs-intervention-reduced-mastery-goals.md) [+W] — instruction changes it
 - [The intervention increases students' intention to choose complex tasks and shifts goal orientation toward learning goals](../claims/intervention-increases-complex-task-intention-and-learning-goals.md) [+M] — measured as an outcome of the instruction studied
+- [Achievement goals and grit sequentially chain-mediate the growth mindset–mathematics achievement relationship](../claims/chain-mediation-goals-grit-math.md) [+M] — learners who differ on it differ in outcomes
+- [Performance-avoidance goals are negatively associated with grit and mathematics achievement, yielding a positive indirect pathway via their reduction](../claims/performance-avoidance-goals-negative-grit-math.md) [+M] — learners who differ on it differ in outcomes
+- [The mediating role of mastery-approach goals was not significant](../claims/mastery-approach-mediation-null.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

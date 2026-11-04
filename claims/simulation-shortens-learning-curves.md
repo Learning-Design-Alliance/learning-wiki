@@ -51,3 +51,4 @@ Synthesis of the Time dimension in the scoping review; cited examples include Lo
 - [AR training accelerates learning curves, with gains retained when AR is removed](ar-accelerates-learning-curve-retention.md) — related
 - [Qualitative synthesis indicates AR shortens learning curves, reduces errors, and differentiates proficiency levels in laparoscopic training](ar-qualitative-synthesis-learning-curves-errors.md) — related
 - [Virtual haptic drilling training achieved outcomes similar to conventional practice in less time in restorative dentistry](ir-shortens-dental-training-duration.md) — related
+- [Technical errors during biotissue training decreased significantly per attempt, but clinically relevant errors remained at the final attempt, especially for pancreaticojejunostomy](learnbot-error-decrease-residual-errors.md) — a narrower finding that bears on this claim

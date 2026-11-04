@@ -52,3 +52,5 @@ Overall narrative synthesis across the 20 included studies and questionnaires co
 - [Doctors rate medical competence and ethics most important and never rank communication first](doctors-rate-competence-ethics-highest.md) — possibly the same claim (merge candidate)
 - [Only 5% of included papers reported engaging patients in educational design and only 7% reported a patient-centred theoretical perspective](patient-involvement-in-communication-education-design-rare.md) — related
 - [Patient-satisfaction questionnaires focus strongly on communication skills](patients-emphasize-communication-skills.md) — related
+- [Stakeholders diverged on treatment emphasis: PCPs prioritized pharmacological strategies more than individuals with Long COVID, who emphasized non-pharmacological approaches and PEM precautions](pcp-iwlc-divergence-pharmacologic-treatment-priorities.md) — a narrower finding that bears on this claim
+- [Recognizing both common and atypical symptom presentations emerged as a core competency, with IWLC emphasizing being believed and not having symptoms dismissed](symptom-recognition-validation-core-competency.md) — related

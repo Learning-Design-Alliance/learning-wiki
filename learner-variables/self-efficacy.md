@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 249 claims (185 show a difference, 35 mixed, 29 no difference) · 201 studies (64 causal, 59 associational, 32 review, 19 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 41 of 201 report an effect size · 245 claims rest on one study
+> **Evidence** · 252 claims (187 show a difference, 36 mixed, 29 no difference) · 204 studies (65 causal, 61 associational, 32 review, 19 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 43 of 204 report an effect size · 248 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -280,6 +280,9 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Supplementary textbook use improved learners' attitudes, confidence, interest, and perceived reading ability over a semester](../claims/supplementary-textbooks-improve-attitudes-confidence-interest.md) [+W] — measured as an outcome of the instruction studied
 - [Blended learning achieves higher self-perceived laboratory competence than traditional lectures in practical immunohematology training](../claims/blended-learning-higher-self-perceived-competence-immunohematology.md) [+M] — measured as an outcome of the instruction studied
 - [Video-production experiential teaching raises self-perceived core health education competencies more than lecture-based instruction](../claims/video-production-experiential-teaching-raises-self-perceived-competencies.md) [+M] — measured as an outcome of the instruction studied
+- [In the combined nursing sample, academic performance correlated moderately with self-efficacy, and attitudes correlated moderately with self-efficacy, while academic performance and attitudes were not significantly associated.](../claims/el-outcome-intercorrelations-nursing-sample.md) [+M] — learners who differ on it differ in outcomes
+- [Objective knowledge and self-perceived clinical confidence show a weak negative correlation (r = -0.201) among dental interns](../claims/negative-knowledge-confidence-correlation-veneers.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived climate for innovation negatively moderates the creative self-efficacy–clinical competence association, weakening it as climate improves](../claims/innovation-climate-negative-moderation-cse-competence.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

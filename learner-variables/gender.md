@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 510 claims (271 show a difference, 104 mixed, 135 no difference) · 351 studies (153 associational, 143 causal, 20 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 55 of 351 report an effect size · 502 claims rest on one study
+> **Evidence** · 514 claims (272 show a difference, 105 mixed, 137 no difference) · 355 studies (156 associational, 144 causal, 20 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 56 of 355 report an effect size · 506 claims rest on one study
 
 ## How to read this page
 
@@ -549,6 +549,10 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Male students held stronger attitudes toward mathematics than female students](../claims/gender-main-effect-mathematics-attitudes.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No gender differences were found in any dimension according to teacher SEL training](../claims/ruler-no-gender-differences.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No significant sex-related differences in AED performance were observed](../claims/no-significant-sex-differences-aed-performance.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Attitudinal changes after service-learning did not differ significantly by sex or prior community service experience](../claims/attitude-change-no-sex-or-experience-differences.md) [-M] — an instructional effect differs by group
+- [Male interns report significantly higher self-perceived clinical confidence than females, while theoretical knowledge does not differ significantly by gender](../claims/gender-confidence-knowledge-difference-veneers.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male students scored significantly higher than female students on total knowledge score, with a negligible standardized effect](../claims/gender-difference-clinical-surgical-knowledge-syria.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No statistically significant differences in PI staging accuracy were observed by sex, age, work experience or educational level](../claims/no-demographic-differences-pi-staging-accuracy.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

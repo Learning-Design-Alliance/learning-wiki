@@ -58,3 +58,4 @@ Synthesis of acceptance evidence from 8 studies using standardized instruments (
 - [EVS usability scores above 'good' benchmark but students become more critical of usability when encountering staff competency or testing problems](evs-usability-context-dependent.md) — a narrower finding that bears on this claim
 - [Virtual simulations for SUD training show good acceptance rates from learners](vp-sud-simulations-good-learner-acceptance.md) — related
 - [93% of students rated usability and control as important to their learning](usability-and-control-rated-important-by-93-percent.md) — a narrower finding that bears on this claim
+- [Adapted SUS scores indicated above-average usability, with the round 2 median of 77.5 exceeding the industry average of 68](sus-median-77-5-above-average-usability.md) — related

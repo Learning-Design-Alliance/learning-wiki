@@ -75,3 +75,4 @@ Table 5 of the review reports per-study main results, including a PBL study's "R
 - [Systematic review finds PBL improves clinical reasoning in OB/GYN education](pbl-improves-clinical-reasoning-obgyn.md) — related
 - [TBL improves ethical reasoning and moral sensitivity](tbl-improves-ethical-reasoning-moral-sensitivity.md) — a narrower finding that bears on this claim
 - [TBL shows favorable outcomes for clinical performance, skills and learner engagement](tbl-performance-engagement-favorable.md) — a narrower finding that bears on this claim
+- [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](ccs-perceived-strengths-realism-reasoning-communication.md) — related

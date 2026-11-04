@@ -52,3 +52,4 @@ SEM results (Table 3) from 225 primary students: fixed mindset direct path "sign
 - [Academic grit mediates a positive indirect effect of growth math mindset on math achievement](grit-mediation-growth-math-mindset-achievement.md) — related
 - [Growth math mindset positively predicts academic grit in primary students](growth-math-mindset-predicts-academic-grit.md) — related
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — related
+- [Grit mediates the relationship between growth mindset and mathematics achievement](grit-mediation-growth-mindset-math.md) — related

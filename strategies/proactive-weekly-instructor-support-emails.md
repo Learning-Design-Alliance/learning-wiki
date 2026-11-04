@@ -50,7 +50,8 @@ Amplified assistance in U-Pace is "tailored assistance provided weekly by email 
 - [At-risk students earned fewer A or B grades and lower cumulative exam scores than students not at risk, but at-risk U-Pace students outperformed at-risk students in all other conditions](../claims/at-risk-students-lower-outcomes-u-pace-benefits.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide proactive support and curricular structure for students with self-reported learning difficulties and for all students facing SDL overload](scaffolded-structure-for-sdl-bioscience.md)
 
 ## Examples
 -

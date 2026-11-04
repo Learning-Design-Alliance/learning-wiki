@@ -27,6 +27,7 @@ A 20-item five-point Likert-type scale developed by Koparan et al. to measure mi
 ## Related Products and Programmes
 
 - [Attitude Scale towards Science Lesson (Kececi & Kirbag Zengin, 2015)](attitude-scale-towards-science-lesson-kececi-kirbag-zengin-2015.md)
+- [Attitudes Towards Teaching Profession Scale (ATTPS)](attitudes-towards-teaching-profession-scale-attps.md)
 
 ## Key Sources
 - Koparan, T., & Güven, B. (2014). The Effect on the 8th Grade Students' Attitude towards Statistics of Project Based Learning. European Journal of Educational Research, 3(2), 73-85. http://www.eurojedu.com

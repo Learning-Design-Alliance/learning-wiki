@@ -69,3 +69,4 @@ fsQCA sufficiency truth-table analysis of all 16 configurations of the four barr
 - [Multiple sufficient configurations lead to high AI literacy performance (equifinality)](fsqca-multiple-pathways-high-ai-literacy.md) — related
 - [Regulatory absence and digital competency gaps are the most prevalent barriers to AI adoption among Ukrainian education managers](regulatory-absence-competency-gaps-top-barriers-managers.md) — related
 - [Ukrainian education managers' personal AI readiness significantly exceeds their perceived system readiness (d = 0.73)](personal-exceeds-system-ai-readiness-gap-managers.md) — related
+- [No single antecedent condition is necessary for high or non-high academic achievement among Chinese undergraduates](no-single-necessary-condition-academic-achievement-fsqca.md) — related

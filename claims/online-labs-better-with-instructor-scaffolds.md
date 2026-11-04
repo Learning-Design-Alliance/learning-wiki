@@ -60,3 +60,4 @@ Student interviews and focus groups in the course case studies. "Online lab exer
 - [Visual presentation, especially motion pictures, dispenses largely with the teacher's personal influence and the group's social interaction](visual-presentation-reduces-teacher-influence.md) — related
 - [Instructors who visibly promoted iHelp and the peer help model seemed to engender greater student engagement](ihelp-instructor-promotion-engagement.md) — related
 - [Online learners reported stronger directed attention but also more giving up when comprehension failed, compared with traditional classroom learners](directed-attention-differences-online-traditional.md) — related
+- [Students valued HoloLens for shared, instructor-guided collaborative learning, especially synchronized faculty pointing at structures](hololens-shared-instructor-guided-learning.md) — related

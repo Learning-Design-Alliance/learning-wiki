@@ -57,3 +57,4 @@ Latent profile analysis of survey data from 191 German primary-school teachers (
 - [Interest profiles combine homogeneous and heterogeneous patterns across the six dimensions](interest-profiles-homogeneous-and-heterogeneous-patterns.md) — related
 - [Latent profile analysis of 750 online undergraduates identifies five distinct SRL profiles, including a qualitatively distinct low-regulators-with-limited-social-skills profile](five-srl-profiles-online-math-course.md) — related
 - [Latent class analysis identified two teacher profiles differing sharply in knowledge of ADHD, knowledge of behavior modification, and internal locus of control for student failure](two-teacher-latent-classes-knowledge-beliefs.md) — related
+- [The competency profiles differ by overall level, with all seven CIRN dimensions increasing synchronously, rather than by divergent strength-and-weakness combinations](synchronous-dimension-increases-across-profiles.md) — related

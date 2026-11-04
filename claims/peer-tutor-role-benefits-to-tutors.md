@@ -60,3 +60,4 @@ Synthesis of tutor-side outcomes from the main-findings section of the review; t
 - [SBL is associated with wider clinical performance benefits including self-confidence, self-efficacy, clinical reasoning and teamwork](sbl-wider-clinical-performance-benefits.md) — related
 - [The authors report the robotics methodology also supported social skills such as communication, collaborative work, creativity, autonomy and leadership](robotics-social-skills-interpretation.md) — related
 - [Students perceived PBL as providing significant benefits to presentation skills, teamwork, leadership and ability to use IT](pbl-significant-perceived-skill-benefits.md) — related
+- [Students perceive personalised simulation with adaptive scenario complexity and targeted role allocation as supporting professional confidence and role development](personalised-simulation-confidence-role-development.md) — related

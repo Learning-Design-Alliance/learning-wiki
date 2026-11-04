@@ -24,7 +24,8 @@ A 22-item Likert self-report scale developed by Hameed et al. to measure interme
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Attitudes Towards Teaching Profession Scale (ATTPS)](attitudes-towards-teaching-profession-scale-attps.md)
 
 ## Key Sources
 - Hameed, Saddam Mohammed; Mohammed, Essam Mahmoud. (2016). Enrich the Physics Curriculum Scheduled for Students of Intermediate School E-Learning and Its Effectiveness in Scientific Thinking and Their Attitude Towards the Development of Physics. Journal of Education and Practice, Vol.7, No.17. https://www.iiste.org

@@ -53,3 +53,4 @@ Two-level random-effects meta-analysis of k = 8 effect sizes (N = 1,944) for mas
 - [Moderators of teachers' growth mindset effects include publication year, world region, publication status, dimensionality, referent, content, and study quality](teacher-growth-mindset-moderators.md) — related
 - [Teachers' growth mindset shows a small positive overall association with combined teacher, instructional, and student outcomes (r = .111)](teacher-growth-mindset-small-overall-association.md) — a broader claim this one bears on
 - [Teachers' growth mindset is positively associated with their self-efficacy (r = .180)](teacher-growth-mindset-self-efficacy-association.md) — related
+- [Growth mindset is positively associated with mastery-approach, mastery-avoidance, and performance-approach goals and negatively with performance-avoidance goals](growth-mindset-predicts-achievement-goal-orientations.md) — related

@@ -14,7 +14,7 @@ grain_size: course
 # Continuous Improvement of Learning Materials
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 22 claims (11 for, 10 mixed, 1 against) · 26 studies (8 causal, 5 quant-synthesis, 5 review, 4 design, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 26 report an effect size · 19 claims rest on one study
+> **Evidence** · 23 claims (12 for, 10 mixed, 1 against) · 27 studies (8 causal, 5 quant-synthesis, 5 review, 5 design, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 27 report an effect size · 20 claims rest on one study
 
 ## Description
 Most design processes end at release. Continuous improvement begins there: the shipped course is treated as the current best hypothesis, instrumented so that every subsequent cohort produces evidence about which of its parts are working, and revised in small, targeted increments rather than in periodic wholesale rewrites.
@@ -92,6 +92,7 @@ This is a *design* process, not an analytics dashboard. Its precondition is a li
 - [Time spent on online assignments was associated with grades: students under 11 hours earned D grades while heavy users earned C, B or A](../claims/online-time-on-task-grades-association.md) [+W]
 - [Pilot data drove iterative revisions: photograph-based lessons clarified word meanings and pre-story questions were replaced with embedded inferential questions](../claims/story-friends-iterative-revision-findings.md) [~W]
 - [Minutes spent using Khan Academy was strongly associated with topics mastered but unrelated to test scores](../claims/minutes-spent-topics-mastered-strong-correlation.md) [~W]
+- [Ambiguous rubric language prevented scoring of 3 tasks in round 1; language revision restored scorability, while testers overlooked telemedicine-specific tasks](../claims/rubric-language-revision-restored-scoring.md) [+W]
 
 #### Supporting
 - [Feedback is most effective when directed at the task and process rather than the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — the loop is feedback to the *design*, and the same conditions apply: task-level and specific beats global and evaluative

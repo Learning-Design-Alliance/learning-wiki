@@ -59,6 +59,7 @@ The article recommends the PBL-CBL model as "a feasible and scalable pedagogical
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Exercise caution when selecting a single teaching method; consider disciplinary characteristics and student demographics, and weigh combined approaches](caution-single-method-selection-neurology.md)
+- [Increase hands-on training and early patient contact to build clinical examination confidence](hands-on-training-early-patient-contact.md)
 
 ## Examples
 -

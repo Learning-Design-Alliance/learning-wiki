@@ -51,3 +51,4 @@ Two-level random-effects meta-analyses across separate outcome categories (k = 6
 - [Teachers' growth mindset is associated with mastery goal structures but not performance goal structures](teacher-growth-mindset-mastery-goal-structures.md) — related
 - [Moderators of teachers' growth mindset effects include publication year, world region, publication status, dimensionality, referent, content, and study quality](teacher-growth-mindset-moderators.md) — related
 - [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — related
+- [Growth mindset is positively associated with mastery-approach, mastery-avoidance, and performance-approach goals and negatively with performance-avoidance goals](growth-mindset-predicts-achievement-goal-orientations.md) — reports the opposite

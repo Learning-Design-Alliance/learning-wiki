@@ -72,3 +72,4 @@ Same mixed regression models: both the session × baseline age and session × re
 - [Children showing stronger behavioural recalibration effects show more left STG activation in session 2 than session 3, regardless of age](stg-recalibration-strength-interaction.md) — related
 - [Phoneme-category response curves along the /aba/–/ada/ continuum remained stable across sessions, with a younger-child response bias toward /aba/](pretest-stable-across-sessions.md) — related
 - [Lateral inferior pre-CG activation differed significantly between sessions 1 and 2, with other pairwise differences only at uncorrected levels](precg-session1-2-difference.md) — related
+- [Scoring accuracy reaches its peak by the third practice session, with no further significant gains afterward](third-practice-session-learning-threshold.md) — related

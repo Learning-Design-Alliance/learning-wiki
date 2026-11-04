@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 264 claims (122 for, 123 mixed, 19 against) · 198 studies (84 causal, 36 review, 28 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 49 of 198 report an effect size · 240 claims rest on one study
+> **Evidence** · 265 claims (122 for, 124 mixed, 19 against) · 199 studies (84 causal, 36 review, 28 quant-synthesis, 18 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 49 of 199 report an effect size · 241 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -312,6 +312,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Providing corrective feedback via e-portfolio improves intermediate EFL students' overall writing performance more than traditional paper-and-pen portfolio](../claims/ep-corrective-feedback-improves-overall-writing.md) [+W] — attached 2026-11-03 from Saeedi et al. (2015), which proposed "DOKEOS-based e-portfolio corrective feedback platform"; tests this page's relationship.
 - [E-portfolio corrective feedback improves content micro-components idea quality and exposition but not idea development or idea wrap-up](../claims/ep-feedback-content-microcomponents-mixed.md) [~W] — attached 2026-11-03 from Saeedi et al. (2015), which proposed "DOKEOS-based e-portfolio corrective feedback platform"; tests this page's relationship.
 - [Written corrective feedback facilitates acquisition of both explicit and implicit knowledge of English articles among low-intermediate EFL learners.](../claims/written-cf-facilitates-explicit-and-implicit-knowledge-articles.md) [+W]
+- [Students valued VSP convenience but rated realism and feedback value below human standardized patients](../claims/vsp-student-feedback-convenience-high-realism-low.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -19,7 +19,7 @@ sources:
 # User-Centered Design for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (19 for, 11 mixed, 1 against) · 28 studies (12 design, 6 causal, 4 qualitative, 3 review, 2 associational, 1 quant-synthesis), `q1`–`q4` · 3 of 28 report an effect size · 30 claims rest on one study
+> **Evidence** · 32 claims (20 for, 11 mixed, 1 against) · 29 studies (12 design, 6 causal, 5 qualitative, 3 review, 2 associational, 1 quant-synthesis), `q1`–`q4` · 3 of 29 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,7 @@ Rated usability, task success, understanding of what a screen shows, and learnin
 - [User-friendly XR systems are accessible to trainees with various levels of expertise (effort expectancy)](../claims/xr-effort-expectancy-user-friendly-systems.md) [+W]
 - [Usability evaluations of e-learning interventions in undergraduate clinical medicine uniformly reported positive feedback, with simple intuitive interactive design identified as key](../claims/elearning-usability-evaluations-all-positive.md) [+W]
 - [93% of students rated usability and control as important to their learning](../claims/usability-and-control-rated-important-by-93-percent.md) [+W]
+- [Students perceived the educational value of HoloLens as dependent on usability, learner control, and curricular integration](../claims/hololens-value-depends-on-implementation.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — both concern how much support structure a learner needs and when it should be reduced, though scaffolding targets content mastery while UCD targets interface usability

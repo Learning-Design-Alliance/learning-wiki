@@ -54,3 +54,4 @@ Quasi-experimental mixed-methods case study in which four young designers comple
 - [The AI+Robot condition is associated with lower perceived workload than AI-Only on effort, frustration, temporal demand, physical demand, and Raw TLX](ai-robot-condition-lower-workload.md) — related
 - [Teacher perceived workload did not differ significantly across conditions on any NASA-TLX subscale, though the experimental condition was descriptively lower on most subscales](aied-u-no-significant-workload-difference.md) — related
 - [Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimensions with large effect sizes](personalized-paths-lower-cognitive-load.md) — related
+- [NASA-TLX mental demand was the highest workload subscale, rising from a median of 37.50 in round 1 to 60.00 in round 2](nasa-tlx-mental-demand-highest.md) — related

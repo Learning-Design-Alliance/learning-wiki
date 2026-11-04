@@ -53,3 +53,4 @@ In the survey-predictor models, the readiness-belief item significantly predicte
 - [Teachers' years of experience and most self-reported instructional practices did not significantly predict students' AES-measured writing growth](teacher-experience-practices-no-growth-prediction.md) — reports the opposite
 - Educators' emotion regulation, relationship management, well-being, and school climate perceptions did not predict whether students met i-Ready math or reading growth goals — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
+- [Self-perceived readiness and confidence at first appointment is associated with managerial competence, with the largest effect for leadership confidence](readiness-confidence-associated-competence.md) — related

@@ -17,7 +17,7 @@ sources:
 # Social learning theory expectancy framework (generalized and specific expectancies)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 associational), `q1`–`q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Rotter's social learning theory, as applied in this article, conceptualizes behavior as determined by generalized expectancies, such as locus of control (internal versus external reinforcement), and by specific expectancies formed from experience in particular situations. The article uses this framework to interpret academic achievement in expectancy terms, measuring generalized expectancies with the Nowicki-Strickland CNS-IE and specific expectancies with the Rotter Level of Aspiration Board. The study's findings that internal locus of control and realistic specific expectancies both predicted achievement were taken as supportive of "conceptualizing achievement in expectancy terms".
@@ -42,6 +42,7 @@ Rotter's social learning theory, as applied in this article, conceptualizes beha
 - Internal Locus Control Higher Achievement [+M]
 - Realistic Expectancies Predict Achievement [+M]
 - [The programme was reportedly more effective for students with an internal locus of control than an external locus of control](../claims/internal-locus-of-control-benefits-from-multicultural-programme.md) [+W]
+- [Students with internal LOC show higher GPA and SOC than students with external LOC](../claims/internal-loc-higher-gpa-soc.md) [+W]
 
 ## Related Theories
 

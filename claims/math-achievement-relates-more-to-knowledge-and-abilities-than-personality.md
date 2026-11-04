@@ -110,3 +110,4 @@ The review compiles zero-order correlations from published meta-analyses (each w
 - [Student-level variables significantly predict GPA change in the control condition, with prior GPA and self-reported grades as top predictors.](student-variables-predict-control-condition-gpa-change.md) — a narrower finding that bears on this claim
 - [Cognitive abilities show the strongest correlation with academic achievement among the student-characteristic domains examined](cognitive-abilities-strongest-correlate-academic-achievement.md) — related
 - [The psychomotor-abilities association with academic achievement (r = 0.37) is preliminary, resting on a single first-order meta-analysis](psychomotor-abilities-preliminary-single-meta-analysis.md) — related
+- [Academic achievement correlates positively with all five antecedent conditions in the sample](positive-correlations-five-antecedents-achievement.md) — related
