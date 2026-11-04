@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 230 claims (118 for, 93 mixed, 19 against) · 125 studies (36 review, 34 causal, 16 quant-synthesis, 16 design, 13 qualitative, 6 associational, 4 theoretical), `q1`–`q4` · 24 of 125 report an effect size · 225 claims rest on one study
+> **Evidence** · 231 claims (118 for, 94 mixed, 19 against) · 126 studies (36 review, 34 causal, 17 design, 16 quant-synthesis, 13 qualitative, 6 associational, 4 theoretical), `q1`–`q4` · 24 of 126 report an effect size · 226 claims rest on one study
 
 ## Description and scope
 
@@ -264,6 +264,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](../claims/simulation-higher-skill-retention-nurses-exploratory.md) [+W]
 - [Post hoc analysis suggests OSCE equivalence and non-inferiority of AI-VSP for other learning outcomes and satisfaction](../claims/ai-vsp-equivalence-non-inferiority-post-hoc.md) [+W]
 - [Technicians and collaborators disagree on whether technicians should perform roles in simulation scenarios](../claims/technician-role-scenario-disagreement.md) [~W]
+- [LLM integration into virtual patient scenarios enables realistic, context-sensitive medical interviews in a metaverse environment](../claims/llm-virtual-patient-realistic-interviews.md) [~W]
 
 ## Examples
 

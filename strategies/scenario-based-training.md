@@ -72,6 +72,7 @@ Scenario based training works because it forces retrieval and application under 
 - [Strengthen flipped pharmacy classrooms with interactive retrieval activities and patient-based case scenarios](flipped-pharmacy-interactive-retrieval-strategy.md)
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Use high-fidelity simulation with standardized clinical scenarios to evaluate and train emergency guideline adherence](high-fidelity-simulation-emergency-guideline-training.md)
+- [Implement peer-teaching-based exam training with structured curriculum integration, realistic scenarios, defined roles, and trained tutors](pt-bet-implementation-strategy.md)
 
 ## Examples
 - **Harvard Business School case method** ([Case-Based Learning (Harvard Method)](../patterns/case-based-learning.md)) — written business scenarios discussed under instructor facilitation; a scalable, low-fidelity form of scenario training.

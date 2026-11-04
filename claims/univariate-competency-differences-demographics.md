@@ -50,3 +50,4 @@ Univariate analysis (t-tests or one-way ANOVA) of general characteristics and co
 - [Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences](profile-differences-career-stage-psychological-variables.md) — related
 - [High-competency nurses scored 1.8-fold higher in ethical care, 2.4-fold higher in clinical practice, and 2.0-fold higher in psychological self-adjustment than low-competency nurses.](high-vs-low-competency-dimension-fold-differences.md) — related
 - [No statistically significant associations between overall VHV competency classification and any demographic or occupational variable examined](vhv-competency-not-differentiated-by-demographics.md) — related
+- [Hospital grade, job position, work experience, and teaching experience distinguish core competence levels](demographic-factors-core-competence-nurses.md) — related

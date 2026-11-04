@@ -47,3 +47,4 @@ Descriptive 1-year follow-up tracking with outputs counted only when documentary
 ## Related Claims
 - [Participation in a BOPPPS-PBL nursing innovation course is associated with higher post-course creativity scores among newly recruited nurses](boppps-pbl-course-creativity-increase.md) — related
 - [Group innovation project presentations scored a mean of 80.57 ± 11.29 out of 100, with teamwork the highest-rated dimension](innovation-demonstration-scores-descriptive.md) — related
+- [Innovation and entrepreneurship projects increased from 40 to 150 during the implementation period](innovation-entrepreneurship-projects-increase.md) — related

@@ -50,3 +50,4 @@ At the second Mini-CEX assessment (end of week 8), the experimental group "score
 - [Simroid robot training improved overall Mini-CEX scores compared to conventional training at the first assessment](simroid-robot-improved-minicex-first-assessment.md) — related
 - [Students reported high satisfaction with Simroid robot training across multiple dimensions](simroid-robot-high-student-satisfaction.md) — related
 - [Scenario simulation combined with case teaching improved doctor-patient communication skills more than traditional lecture-based training](scenario-simulation-improves-doctor-patient-communication.md) — related
+- [SFHC intervention improved doctor-patient communication (SEGUE) scores post-intervention](sfhc-improved-segue-communication.md) — related

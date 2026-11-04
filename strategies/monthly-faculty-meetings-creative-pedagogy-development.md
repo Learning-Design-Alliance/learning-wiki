@@ -43,6 +43,7 @@ The article recommends developing faculty capacity for creative problem-solving 
 - [Deploy the LoA repeatedly over time with real-time aggregate reporting within a community that owns the data and process](repeated-loa-with-real-time-aggregate-reporting.md)
 - [Use a co-research and co-design process such as the Collaborative Innovation Studio model](co-research-co-design-collaborative-innovation-studio.md)
 - [Develop and share international teach-the-teacher courses on problem-based learning to expand CPT teaching capacity](international-teach-the-teacher-pbl-course.md)
+- [Cultivate innovation and problem-solving abilities through research projects and competitions](cultivate-innovation-problem-solving-projects-competitions.md)
 
 ## Examples
 -

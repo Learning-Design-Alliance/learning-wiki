@@ -55,3 +55,4 @@ Laboratory experiment with 25 adolescents and 25 adults performing a verbal n-ba
 - [Social identity threat impairs math performance via increased intrusive thoughts and working memory load (being-cognition disfluency)](social-identity-threat-working-memory-performance.md) — related
 - [Cyberball exclusion reduces n-back verbal working memory accuracy in young adolescent girls but not in mid-adolescents or adults](exclusion-reduces-nback-accuracy-young-adolescent-girls.md) — related
 - Concurrent cognitive load was successfully manipulated: participants were slower and less accurate on the high-load (2-back) than low-load (1-back) working memory task — related
+- [Imposing a visuospatial working-memory load during peg-transfer practice did not impair practice performance or retention test performance at the group level.](working-memory-load-during-practice-does-not-impair-acquisition-or-retention.md) — related

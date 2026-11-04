@@ -62,3 +62,4 @@ Synthesis of tutor-side outcomes from the main-findings section of the review; t
 - [Students perceived PBL as providing significant benefits to presentation skills, teamwork, leadership and ability to use IT](pbl-significant-perceived-skill-benefits.md) — related
 - [Students perceive personalised simulation with adaptive scenario complexity and targeted role allocation as supporting professional confidence and role development](personalised-simulation-confidence-role-development.md) — related
 - [Academic empowerment shows no statistically significant association with academic performance after adjustment](empowerment-no-significant-association-academic-performance.md) — related
+- [Response competency is a multidimensional construct combining technical skills with psychological resilience, collaboration, leadership, communication, and professional identity](response-competency-multidimensional-construct.md) — related

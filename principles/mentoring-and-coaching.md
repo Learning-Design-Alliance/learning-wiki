@@ -31,7 +31,7 @@ sources:
 # Mentoring and Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 82 claims (42 for, 33 mixed, 7 against) · 63 studies (17 causal, 14 review, 11 associational, 10 qualitative, 5 quant-synthesis, 4 design, 2 theoretical), `q1`–`q4` · 7 of 63 report an effect size · 78 claims rest on one study
+> **Evidence** · 83 claims (43 for, 33 mixed, 7 against) · 64 studies (18 causal, 14 review, 11 associational, 10 qualitative, 5 quant-synthesis, 4 design, 2 theoretical), `q1`–`q4` · 7 of 64 report an effect size · 79 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,7 @@ Claims the earlier page cited that this model does not use, each with a note on 
 - [Mentoring relationships in undergraduate research are highly influential in students' campus connection, retention in their major, and persistence to graduation](../claims/ur-mentoring-retention-persistence.md) [+W] — a taxonomy article's summary of earlier studies.
 - [District leaders must take an active role in removing barriers and fostering a supportive culture for coaching programs to succeed](../claims/district-leaders-active-role-coaching-success.md) [+W] — attached 2026-10-20 from Hardy et al. (2021), which proposed "Adopt a research-backed coaching model aligned with district goals that specifies roles and targeted outcomes".
 - [Providing feedback on lesson plans amplifies the intervention effect on teacher self-efficacy (large effect, near-significant)](../claims/feedback-lesson-plans-amplifies-self-efficacy-effect.md) [~W] — attached 2026-10-21 from Mok et al. (2022), which proposed "Include feedback on lesson plans in interventions for early career teachers to foster teacher self-efficacy"; tests this page's relationship.
+- [Preceptorship implementation was suboptimal: most sessions were short and fewer than two meetings per week](../claims/preceptorship-suboptimal-implementation-short-infrequent-sessions.md) [+W] — attached 2026-11-04 from Setyoningrum Retno Asih et al. (2026), which proposed "Preceptorship sessions should be frequent and long enough for intensive preceptor-trainee contact".
 
 ## Objective and learner-valued goal
 

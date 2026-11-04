@@ -52,3 +52,4 @@ Finding from the comparative case study of 18 schools across nine networks, wher
 - [Principals in implementation networks reported moderate school improvement from working with external partners and other network schools, attributed largely to teacher collaboration](network-participation-moderate-school-improvement.md) — related
 - [External partners' influence is necessarily limited by their minor role in schools' attention and activity](partner-influence-limited-by-minor-role-in-schools.md) — related
 - [Principals in improving schools actively reach out to teachers, parents, and community leaders and coordinate programs strategically](improving-school-principals-reach-out-coordinate-programs.md) — related
+- [Educational needs vary by occupational group, supporting differentiated role-based training modules](fgi-role-differentiated-training-needs.md) — related

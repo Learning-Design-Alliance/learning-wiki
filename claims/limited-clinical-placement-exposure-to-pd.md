@@ -50,3 +50,5 @@ In the interview study, thematic analysis found placement experiences described 
 - [Trainee ANPs frequently rely on specialist mental health colleagues due to gaps in their own training, which risks fragmenting care and reducing ANP scope of practice.](reliance-on-specialist-mental-health-colleagues.md) — related
 - [Dental hygiene graduates are strong in foundational clinical skills but need more exposure to complex clinical cases during education](dh-complex-case-exposure-gap.md) — related
 - [Exposure to clozapine use is associated with higher prescribing rates and better knowledge](clozapine-exposure-experience-prescribing.md) — a broader claim this one bears on
+- [Nurse educators perceive early career mental health nurses as lacking readiness for independent practice despite being registered](educators-perceive-ecn-lack-readiness-independent-practice.md) — related
+- [Short, poorly aligned mental health placements are perceived to leave graduates unprepared for acute inpatient care](short-misaligned-placements-unprepared-acute-inpatient.md) — related

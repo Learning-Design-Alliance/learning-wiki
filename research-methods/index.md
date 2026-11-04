@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**1003 entries** · 0 stable · 1003 in review · 0 drafts
+**1004 entries** · 0 stable · 1004 in review · 0 drafts
 
 ---
 
@@ -765,6 +765,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Sentence-level social network analysis pipeline for eye-tracking reading data](sentence-level-social-network-analysis-pipeline-for-eye-tracking-reading-data.md) - A reusable analytic pipeline in which fixations are filtered (Tobii I-VT), sentence AOIs are classified as topic-introducing, topic-medial or topic-ending, AOI strings are converted to transition matrices, and weighted networks are built in R with igraph to compute strength, betweenness, harmonic ce
 * [Separate teacher marks and standardized test performance as distinct latent achievement constructs in longitudinal panel models](separate-teacher-marks-and-standardized-test-performance-as-distinct-latent-achievement-co.md) - The article recommends that future investigations on causal ordering include both marks and test performance as distinct latent variables rather than a single achievement indicator, because single-indicator models yield artificially reciprocal patterns.
 * [Sequence alignment and clustering for collaborative-learning process analysis](sequence-alignment-and-clustering-for-collaborative-learning-process-analysis.md) - The article adapts sequence alignment from bioinformatics: group action logs are human-coded into contribution types — \"coordination, monitoring, minor contribution, and major contribution\" — plus a \"gap\" code for more than 24 hours of inactivity.
+* [Sequential batches of ten for LLM multiple-choice evaluation](sequential-batches-of-ten-for-llm-multiple-choice-evaluation.md) - This principle recommends administering multiple questions to LLMs sequentially in batches of ten rather than all at once, because the study found batch delivery converged accuracy to 83%–88% with no significant inter-model differences, while simultaneous delivery produced wide dispersion (38%–90%).
 * [Sequential Multiple Assignment Randomized Trial (SMART) design](sequential-multiple-assignment-randomized-trial-smart-design.md) - The sequential multiple assignment randomized trial is a design in which \"participants are randomly assigned to intervention components at multiple stages of the intervention,\" with assignments determined by decision rules based on proximal outcomes.
 * [Serial testing of instructional combinations](serial-testing-of-instructional-combinations.md) - The article argues that teaching happens in series while methodology tests are typically done in parallel, implicitly assuming no interaction effects.
 * [Seven primary team learning behaviours framework](seven-primary-team-learning-behaviours-framework.md) - The review adopts the framework of seven primary team learning behaviours: knowledge sharing, constructive conflict, co-construction, boundary crossing, team activity, team reflexivity, and storage and retrieval.

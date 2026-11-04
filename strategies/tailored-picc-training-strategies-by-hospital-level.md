@@ -48,6 +48,7 @@ The article recommends that nursing managers focus on nurses with lower professi
 
 - [Future research should explore AI-driven educational tools, adaptive learning platforms, and decision-support systems to enhance nurses' PICC care knowledge](ai-driven-tools-for-nurse-picc-education.md)
 - [Hospitals should provide easier access to PICC care guidelines, such as purchasing clinical guideline databases and training on guideline use](easier-access-to-picc-guidelines.md)
+- [Support competence growth in lower-grade hospitals via structured training, study visits, and regional nursing alliances](structured-training-lower-grade-hospitals.md)
 
 ## Examples
 -

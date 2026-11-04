@@ -54,3 +54,4 @@ Mann-Whitney U tests comparing process assessment and final examination scores b
 - [MOOC-HFS blended internship improves academic performance across all assessments compared to traditional teaching](mooc-hfs-blended-improves-academic-performance.md) — related
 - [BOPPPS with virtual simulation yields significantly higher total internship performance scores than traditional teaching (d = 3.12)](boppps-virtual-simulation-higher-internship-performance.md) — related
 - [Web-based learning with peer-facilitated discussion improves nursing students' knowledge of work-related biological exposure compared to traditional lectures](web-peer-discussion-improves-biological-exposure-knowledge.md) — related
+- [Most graduate students in a BOPPPS-based blended Clinical Epidemiology course self-report strong overall cognitive performance](boppps-blended-cohort-strong-cognitive-performance.md) — related

@@ -44,7 +44,8 @@ The article recommends that in courses promoting creative problem-solving, such 
 - [Gender, study major and age group show no significant differences in team creative skills across stickiness stages](../claims/no-gender-major-age-differences-creative-skills.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Cultivate innovation and problem-solving abilities through research projects and competitions](cultivate-innovation-problem-solving-projects-competitions.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Thematic analysis of open-ended questionnaire responses identified existing chal
 - [Most students report that the MDT-CDIO model enhances interdisciplinary collaboration and clinical reasoning skills](mdt-cdio-students-report-enhanced-collaboration-reasoning.md) — related
 - [Prospective teachers' views on both applications clustered into four themes, with a minority of the reflective group reporting initial difficulties](four-themes-views-applications.md) — related
 - [Thematic analysis identified hands-on practice, contextualization, educator variety, and clinical application as key student-perceived themes](thematic-themes-scenario-feedback.md) — related
+- [Cadaveric hands-on training and expert guidance were indicated as the most valued aspects of the course](cadaver-hands-on-training-most-valued-aspect.md) — related

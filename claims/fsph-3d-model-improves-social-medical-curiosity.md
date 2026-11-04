@@ -50,3 +50,4 @@ Non-randomized controlled pre-post study of 120 clinical medical interns (60 per
 - [A 3D printing-assisted family-school-hospital collaborative education model was associated with larger gains in medical interns' knowledge of urinary system tumor early screening than traditional teaching, in a non-randomised comparison](fsph-3d-model-improves-tumor-screening-knowledge.md) — related
 - [Regression confirms robust intervention effect after covariate adjustment (B=3.924)](llm-vsp-regression-robust-effect.md) — related
 - [Intervention students had significantly greater improvement in all skills after adjusting for demographic and school characteristics (regression coefficients β = 0.17–0.44)](steps-for-life-adjusted-regression-gains.md) — related
+- [SFHC intervention improved medical curiosity (SMC) scores of general surgical nursing interns post-intervention](sfhc-improved-medical-curiosity-smc.md) — related

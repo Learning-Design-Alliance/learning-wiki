@@ -55,3 +55,4 @@ The review attributes this to Lin-na et al. (2023), a quasi-experimental study o
 - [Simulation training across medical and surgical scenarios yields significantly higher OSCE scores than didactic lectures across two year groups](simulation-higher-osce-scores-zhang.md) — related
 - [Integrated micro-skills training-CPTM improves OSCE practical skill scores versus traditional teaching](microskills-cptm-higher-osce.md) — related
 - [Simroid robot training effects persisted at the second assessment, with significant differences in clinical examination and doctor-patient communication](simroid-robot-effects-persisted-second-assessment.md) — related
+- [SFHC intervention improved doctor-patient communication (SEGUE) scores post-intervention](sfhc-improved-segue-communication.md) — related

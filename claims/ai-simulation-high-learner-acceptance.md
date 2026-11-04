@@ -61,3 +61,4 @@ Synthesis of acceptance evidence from 8 studies using standardized instruments (
 - [Adapted SUS scores indicated above-average usability, with the round 2 median of 77.5 exceeding the industry average of 68](sus-median-77-5-above-average-usability.md) — related
 - [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — a narrower finding that bears on this claim
 - [Student perceptions of peer instruction were generally favorable.](pi-favorable-student-perceptions.md) — related
+- [Providers are highly receptive to AKI guideline implementation, with acceptability scores averaging 29.1/30 and 89.8% expressing willingness to follow guidelines.](high-guideline-acceptability-aki-rwanda.md) — related

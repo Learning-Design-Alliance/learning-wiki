@@ -51,3 +51,4 @@ Skill examinations scored by three blinded, calibrated evaluators per National M
 - [No disqualifying errors occurred among PUC-FC students during practical assessments](puc-fc-no-disqualifying-errors.md) — related
 - [PUC-FC students rated the course more highly than FC and LBL students on all satisfaction dimensions except rationality of class hour arrangement](puc-fc-satisfaction-advantage.md) — related
 - [PBL is the highest-ranked strategy for improving medical students' experimental or practical test scores, significantly outperforming LBL](pbl-highest-ranked-practical-test-scores-nma.md) — a broader claim this one bears on
+- [Rubric-based assessment yields significantly higher total crown preparation scores than conventional evaluation in preclinical dental training](rubric-assessment-higher-crown-preparation-total-scores.md) — related

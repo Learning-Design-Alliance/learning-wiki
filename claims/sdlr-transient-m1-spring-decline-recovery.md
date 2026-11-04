@@ -67,3 +67,4 @@ Secondary linear mixed-effects model treating semester as a continuous variable 
 - [Older preclinical students report higher SDL-R in learning motivation, planning and implementation, and self-monitoring, with the gradient not extending linearly to the oldest group](age-gradient-sdlr-domains.md) — related
 - [Students in the traditional discipline-based curriculum reported higher total SDL-R, interpersonal communication, and self-monitoring than students in the integrated systems-based curriculum, though curriculum type is confounded with academic year](traditional-curriculum-higher-sdlr-confounded.md) — related
 - [Male students report slightly higher SDL-R than female students, with small effect sizes and no difference in interpersonal communication](sex-differences-sdlr-small-effect-sizes.md) — related
+- [Integrated mixed-methods analysis revealed stage-specific characteristics across academic years](stage-specific-mixed-methods-patterns.md) — related

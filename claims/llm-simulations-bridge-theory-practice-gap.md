@@ -81,3 +81,4 @@ The review's RQ2 synthesis reports that when mistakes happen, models "can provid
 - [Curricula predominantly featured interactive and experiential teaching methods such as simulation and project-based learning](mlm-curricula-interactive-experiential-methods.md) — related
 - [Proposed model course surpasses existing courses in duration and unique real-project feature](proposed-course-surpasses-existing-in-duration-and-real-project.md) — related
 - [HCD workshops with providers co-created context-specific solutions including laminated dosage charts and peer-led simulations](hcd-co-created-mgso4-solutions.md) — related
+- [The metaverse environment enables delivery of consistent and reproducible scenarios supporting objective assessment of communication and diagnostic reasoning skills](metaverse-consistent-reproducible-scenarios.md) — a narrower finding that bears on this claim

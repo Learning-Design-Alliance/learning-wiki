@@ -70,3 +70,4 @@ Same study as reported by the review: a mediation analysis found "about half the
 - [Polygenic score predictive power for educational attainment increases with discovery sample size and is projected to approach the SNP heritability bound](pgs-predictive-power-increases-with-discovery-sample-size.md) — related
 - [Children in higher SES families have higher average polygenic scores for educational attainment](higher-pgs-mean-in-higher-ses-groups.md) — related
 - [Non-transmitted parental polygenic scores predict offspring educational attainment, evidencing genetic nurturing effects in adults](genetic-nurturing-nontransmitted-pgs-adult-attainment.md) — related
+- [Education-specific non-cognitive skills mediate polygenic score associations with academic achievement, with effects increasing across compulsory education](noncognitive-skills-mediate-pgs-achievement-developmentally-increasing.md) — related

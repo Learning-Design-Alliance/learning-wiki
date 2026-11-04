@@ -88,3 +88,4 @@ In the same ZINB count model of StatBot use, prior knowledge carried a negative 
 - [Female students used the application more and learned more vocabulary, while male students scored higher on performance rating and posttest](gender-differences-english-app-usage.md) — related
 - [Female participants scored significantly higher than male participants on perceived skills in promoting student SEL](lq-gender-difference-perceived-sel-skills.md) — related
 - [Female students are more negative about their overall integrated TBL experience than male students.](female-students-more-negative-overall-tbl-experience.md) — related
+- [Gender, degree type, and personality show differential associations with course outcome dimensions](demographic-differences-course-dimensions.md) — related

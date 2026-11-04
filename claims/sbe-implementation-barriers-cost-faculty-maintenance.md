@@ -59,3 +59,4 @@ The review's synthesis of implementation barriers reported in Table 3 across the
 - [Students identified clinical barriers to ultrasound transfer including insurance ineligibility, high equipment costs, and portable device limitations](clinical-barriers-ultrasound-transfer-km.md) — related
 - [Key barriers to SBE implementation are lack of knowledge or training, lack of awareness of resources, limited time and resources, and limited institutional support](sbe-barriers-knowledge-time-institutional-support.md) — related
 - [Release time to lead SBE integration (mean 1.53) and fiscal resources for developing physical learning spaces (mean 1.98) received the lowest scores within resource readiness](scors-release-time-and-fiscal-resources-lowest.md) — related
+- [Conventional OSCEs face systemic limitations including restricted clinical scenario range, reliability concerns, and high preparation burden](conventional-osce-systemic-limitations.md) — related

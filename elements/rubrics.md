@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 43 claims (18 for, 21 mixed, 4 against) · 40 studies (18 causal, 8 design, 7 review, 4 associational, 3 quant-synthesis), `q1`–`q3` · 5 of 40 report an effect size · 40 claims rest on one study
+> **Evidence** · 46 claims (21 for, 21 mixed, 4 against) · 41 studies (19 causal, 8 design, 7 review, 4 associational, 3 quant-synthesis), `q1`–`q3` · 6 of 41 report an effect size · 43 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -73,6 +73,9 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [The six-point rating scale achieved slightly better inter-observer reliability than the five-point scale in real-time piloting](../claims/optis-six-point-scale-better-real-time-reliability.md) [~W]
 - [Brief written rubric-based assessments may have limited sensitivity to detect incremental effects of serious-game add-ons due to potential ceiling effects](../claims/brief-rubric-assessment-limited-sensitivity-ceiling.md) [~W]
 - [Most participants preferred the modified Ottawa-scale over the AMC 3-point scale for greater differentiation and more clinically intuitive descriptors](../claims/ottawa-scale-preferred-over-amc-scale.md) [+W]
+- [Rubric group scored significantly higher on every individual crown preparation parameter post-training](../claims/rubric-group-higher-all-individual-crown-parameters.md) [+M] — attached 2026-11-04 from Chen Marie Fung Ying et al. (2026), which proposed "Adapted analytical rubric for preclinical crown preparation assessment"; tests this page's relationship.
+- [Both groups improved from baseline, with substantially greater gains in the rubric group](../claims/rubric-group-greater-pre-post-gains-crown-preparation.md) [+W]
+- [Rubric-based assessment yields significantly higher total crown preparation scores than conventional evaluation in preclinical dental training](../claims/rubric-assessment-higher-crown-preparation-total-scores.md) [+W]
 
 ## The evidence by question
 - *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]

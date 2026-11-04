@@ -46,6 +46,7 @@ The article describes teams' recognition as the stage where "students feel compe
 ## Related Strategies
 
 - [Adopt cooperative TGT as an alternative mathematics teaching approach, supported by teacher training and ministry guidelines](tgt-implementation-strategy-religious-schools.md)
+- [Use family recognition and weekly ranked scoring to incentivize intern motivation](family-recognition-incentive-mechanism.md)
 
 ## Examples
 -

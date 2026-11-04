@@ -50,6 +50,7 @@ The review's conclusions recommend that programs add "learning with, from and ab
 
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
 - [Reword learning outcomes with broadly applicable terms ('healthcare seeker', 'health professional') to support interprofessional application](reword-outcomes-with-healthcare-seeker-and-health-professional.md)
+- [Use structured debriefing questions to ensure learning objectives are met regardless of facilitator experience](structured-debriefing-questions-user-friendly-guide.md)
 
 ## Examples
 -

@@ -70,3 +70,4 @@ Age-specificity regression analyses of EduYears GPS prediction across the four a
 - [EduYears GPS predicts more variance in GCSE scores (about 10%) than in its GWA target trait, adult years of education (about 4%)](gps-predicts-more-gcse-than-educational-attainment.md) — related
 - [Polygenic score predictive power for educational attainment increases with discovery sample size and is projected to approach the SNP heritability bound](pgs-predictive-power-increases-with-discovery-sample-size.md) — related
 - [Children in higher SES families have higher average polygenic scores for educational attainment](higher-pgs-mean-in-higher-ses-groups.md) — related
+- [Correlations between polygenic scores and academic achievement increase across development, with EA polygenic score correlations rising from r = 0.23 at age 7 to r = 0.35 at age 16](pgs-achievement-correlations-increase-development.md) — related

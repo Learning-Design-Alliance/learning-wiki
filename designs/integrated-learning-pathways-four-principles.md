@@ -43,8 +43,10 @@ Learning pathways are system-wide learning progressions that "function according
 - [Competency-Based Learning](../patterns/competency-based-learning.md): Portrait Skill Sets are broken into actionable Practices that learners demonstrate, progressing cumulatively as "I can" statements across grade bands
 
 ## Related Designs
+
 - [Plan-Build-Implement co-design process for Integrated Learning Pathways](../strategies/plan-build-implement-pathways-design-process.md) — how the pathways are developed
 - [Three-component framework for Portrait of a Graduate assessment systems](../products/three-component-framework-for-portrait-of-a-graduate-assessment-systems.md)
+- [Four-year progressive competency development pathway structures EBP learning from awareness to application](four-year-progressive-ebp-pathway.md)
 
 ## Examples
 -

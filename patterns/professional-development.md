@@ -38,7 +38,7 @@ sources:
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 64 claims (41 for, 18 mixed, 5 against) · 57 studies (18 causal, 11 review, 10 qualitative, 8 quant-synthesis, 4 design, 3 associational, 3 theoretical), `q1`–`q4` · 8 of 57 report an effect size · 58 claims rest on one study
+> **Evidence** · 65 claims (41 for, 19 mixed, 5 against) · 58 studies (19 causal, 11 review, 10 qualitative, 8 quant-synthesis, 4 design, 3 associational, 3 theoretical), `q1`–`q4` · 8 of 58 report an effect size · 59 claims rest on one study
 
 ## Description and scope
 
@@ -145,6 +145,7 @@ Read against the model on 2026-10-19. Of the twelve claims that had gathered her
 - [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](../claims/pd-content-focus-prevalence.md) [+W]
 - [BEST in CLASS significantly increased teachers' observed use of rules, precorrection, opportunities to respond, behavior-specific praise, corrective feedback, and instructive feedback with focal children](../claims/best-in-class-increased-teacher-instructional-practices.md) [+W] — attached 2026-11-01 from Maureen A. Conroy et al. (2019), which proposed "Cyclical weekly practice-based coaching cycle of goal setting, focused observation, and reflection with performance feedback"; tests this page's relationship.
 - [Within the intervention group, teacher practices, child engagement, and problem behaviors improved from baseline to post-test and were maintained at four weeks](../claims/best-in-class-within-group-maintenance.md) [+W] — attached 2026-11-03 from Conroy et al. (2014), which proposed "Pair one-time training with sustained practice-based coaching and performance feedback to change and maintain teacher practice".
+- [A single KDIGO-based training session did not significantly improve composite care quality (40.6% to 44.4%; OR 1.17, p=0.802), a null result attributed to underpowering.](../claims/single-training-session-no-significant-composite-improvement.md) [~W] — attached 2026-11-04 from Rugamba Gilbert et al. (2026), which proposed "Sustained improvement in pediatric AKI care requires moving beyond one-time training to quarterly refresher sessions, case-based learning, simulation, and mentorship.".
 
 ## Illustrative design instance and observation record
 

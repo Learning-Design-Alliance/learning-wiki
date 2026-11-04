@@ -48,3 +48,4 @@ Retrospective observational comparison of lumbar puncture and paracentesis evalu
 - [Residents were significantly more likely to complete all checklist items than to achieve a GRS score ≥4 for both procedures](checklist-completion-more-likely-than-grs-4.md) — related
 - [Only a minority of residents achieved dual proficiency (GRS ≥4 plus complete checklist) for either procedure](dual-proficiency-grs-checklist-minority.md) — related
 - [Resident self-assessments converged with supervisor assessments after a mean of about 1.3 procedures](self-assessment-converges-supervisor-feedback.md) — related
+- [Checklist scores correlated positively with GRS but not with total procedure time](checklist-grs-correlation-afio.md) — related

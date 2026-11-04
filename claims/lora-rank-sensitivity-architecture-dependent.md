@@ -57,3 +57,4 @@ Qualitative observation from the authors' pilot experiments during fine-tuning, 
 - [There is no universal optimal injection position for the collaborative prior; effectiveness is an architecture-sensitive design choice](injection-strategy-architecture-sensitive.md) — related
 - [Increasing LoRA rank raises absolute ROUGE-L gains but produces diminishing returns in performance per million adapter parameters](lora-rank-diminishing-parameter-efficiency-returns.md) — related
 - [Model size is not the primary factor in outcome-prediction performance](model-size-not-primary-outcome-prediction-factor.md) — related
+- [LLM clinical reasoning performance is highly sensitive to input structure, with prompt structure a critical determinant of reliable behavior independent of model architecture](input-structure-determines-llm-reliability.md) — related

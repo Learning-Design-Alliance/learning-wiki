@@ -53,3 +53,4 @@ Non-randomized controlled pre-post study of 120 clinical medical interns (60 per
 - [The collaborative model improves medical interns' doctor-patient communication ability](fsph-3d-model-improves-doctor-patient-communication.md) — related
 - [The collaborative model shows no significant effect on inter-professional teamwork competence or transformative learning readiness](fsph-3d-model-no-effect-teamwork-transformative-learning.md) — related
 - [Anatomy Glove Learning System improved hand-anatomy knowledge in both groups, with 3D-group self-confidence increasing over time while 2D-group confidence declined](agls-knowledge-gains-sustained-confidence-3d-group.md) — related
+- [SFHC intervention improved medical curiosity (SMC) scores of general surgical nursing interns post-intervention](sfhc-improved-medical-curiosity-smc.md) — related

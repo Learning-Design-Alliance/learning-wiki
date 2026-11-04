@@ -48,3 +48,4 @@ Retrospective observational analysis of 342 lumbar puncture and 945 paracentesis
 - [Only a minority of residents achieved dual proficiency (GRS ≥4 plus complete checklist) for either procedure](dual-proficiency-grs-checklist-minority.md) — related
 - [Procedural performance differed by procedure type, with higher paracentesis volume and faster lumbar puncture checklist completion](procedure-type-volume-performance-differences.md) — related
 - [Resident self-assessments converged with supervisor assessments after a mean of about 1.3 procedures](self-assessment-converges-supervisor-feedback.md) — related
+- [Checklist scores correlated positively with GRS but not with total procedure time](checklist-grs-correlation-afio.md) — related

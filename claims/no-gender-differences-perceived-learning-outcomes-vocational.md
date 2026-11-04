@@ -81,3 +81,4 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [No gender differences were found in any dimension according to teacher SEL training](ruler-no-gender-differences.md) — related
 - [Older age is independently associated with higher perceived geriatric knowledge and competence, while gender is not](age-associated-gender-not-perceived-geriatric-knowledge.md) — related
 - [No statistically significant associations between overall VHV competency classification and any demographic or occupational variable examined](vhv-competency-not-differentiated-by-demographics.md) — related
+- [Gender, degree type, and personality show differential associations with course outcome dimensions](demographic-differences-course-dimensions.md) — reports the opposite

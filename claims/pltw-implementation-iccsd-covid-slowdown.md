@@ -48,3 +48,4 @@ District case report of implementation: PLTW was offered at two elementary and t
 ## Related Claims
 - [IPSD set an equity goal of increasing computing opportunities in five Title I elementary schools to reach all students district-wide](ipsd-title-i-computing-equity-goal.md) — related
 - [During COVID-19 school disruptions, schools can take steps to ensure students continue to progress academically whether at home or at school](covid-continuity-of-learning-steps.md) — related
+- [Academic engagement increased from 78.5% to 97.3% over the five-year implementation period](academic-engagement-increase-ebp-model.md) — related

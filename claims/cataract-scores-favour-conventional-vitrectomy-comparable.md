@@ -68,3 +68,4 @@ Same crossover study, vitrectomy module; paired comparison found no significant 
 - [A significant score difference between visualization systems appeared only in the navigation task, in both the cataract and vitrectomy modules](navigation-task-only-significant-task-level-difference.md) — related
 - [Exploratory subgroup analysis found no cataract performance difference between systems among students but higher conventional-microscope scores among residents](subgroup-cataract-students-residents.md) — related
 - [No significant sequence effect was observed; participants starting with the 3D system achieved comparable overall scores to those starting conventionally](no-sequence-effect-crossover.md) — related
+- [Increased use of microscopes (26.3%) and navigation systems (31.6%) was reported by a minority, with no change for the majority](cadaver-course-modest-navigation-microscope-adoption.md) — related

@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (28 for, 17 mixed, 2 against) · 53 studies (14 causal, 10 review, 8 theoretical, 7 associational, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q4` · 5 of 53 report an effect size · 41 claims rest on one study
+> **Evidence** · 48 claims (28 for, 18 mixed, 2 against) · 54 studies (15 causal, 10 review, 8 theoretical, 7 associational, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q4` · 5 of 54 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,7 @@ Relevant claims read against the model that do not change it, and off-topic clai
 - [A large percentage of retested cases show IQ variations large enough to change their classification, demonstrating the injustice of disposing of persons on the basis of a single test](../claims/single-test-classification-unjust-iq-variation.md) [+W] — attached 2026-10-25 from Poull (1921), which proposed "Use composite ratings combining non-language and performance scales with the Stanford-Binet for truer evaluation of problem cases".
 - [Most studies (60.7%) of arthroscopic skills training combined objective metrics with subjective assessment scales](../claims/combined-objective-subjective-assessment-majority-studies.md) [+W] — attached 2026-11-01 from Zhou Haixia et al. (2022), which proposed "Combine subjective and objective assessment tools when evaluating arthroscopic skills training".
 - [Integrating dynamic speaking assessments with standardized criterion-referenced assessments significantly improves post-test performance](../claims/integrated-dynamic-standardized-assessment-improves-post-cra.md) [+W] — attached 2026-11-03 from Hill (2015), which proposed "Integrate dynamic and standardized forms of assessment to enhance performance on both"; tests this page's relationship.
+- [Checklist scores correlated positively with GRS but not with total procedure time](../claims/checklist-grs-correlation-afio.md) [~W] — attached 2026-11-04 from Haas D et al. (2026), which proposed "Use multimodal assessment combining GRS, checklist, and simulator metrics rather than checklists alone".
 
 ## Objective and learner-valued goal
 

@@ -127,3 +127,4 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [Middle school students in a dance/creativity AI workshop reported low self-efficacy beliefs about AI](middle-school-students-low-ai-self-efficacy-beliefs.md) — a narrower finding that bears on this claim
 - [Boys hold significantly higher self-efficacy than girls in science inquiry at every measurement point, though the gap narrows during training](boys-higher-self-efficacy-science-inquiry.md) — a narrower finding that bears on this claim
 - [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](gender-gaps-computer-self-efficacy-knowledge-motivation.md) — a narrower finding that bears on this claim
+- [Gender, degree type, and personality show differential associations with course outcome dimensions](demographic-differences-course-dimensions.md) — related

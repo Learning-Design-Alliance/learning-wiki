@@ -50,3 +50,4 @@ Meta-analytic database of ten studies (2008–2017) meeting inclusion criteria f
 - [Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood](math-correlates-more-with-ef-than-ef-internally.md) — related
 - [Under the components model in ECLS-K, working memory is the most closely associated EF component with math, but only at time point 1 does it show a positive residual correlation beyond latent EF](working-memory-strongest-component-association-ecls-k.md) — related
 - [EC factor loadings on executive tasks strengthen and stabilize across the preschool period](ec-loadings-strengthen-stabilize-preschool.md) — related
+- [Organization and planning and self-control show the strongest loadings on the latent EF construct](ef-strongest-loadings-organization-self-control.md) — related

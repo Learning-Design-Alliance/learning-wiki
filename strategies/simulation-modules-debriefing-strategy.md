@@ -48,6 +48,9 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Simulation Based Learning](simulation-based-learning.md)
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Use weekly scenario simulation with structured debriefing and operational skills training to develop new graduate nurses' competence](weekly-scenario-simulation-debriefing-skills-training-strategy.md)
+- [Integrate BPSO guidelines into core courses through evidence-based situational simulations](bpso-guideline-integration-simulations.md)
+- [Implement peer-teaching-based exam training with structured curriculum integration, realistic scenarios, defined roles, and trained tutors](pt-bet-implementation-strategy.md)
+- [Simulation-based training curriculum for high-risk, low-frequency prehospital emergencies](simulation-training-high-risk-low-frequency-events.md)
 
 ## Examples
 -

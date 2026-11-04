@@ -54,3 +54,4 @@ Longitudinal metric invariance analysis combining all four age-point models (ove
 - [EF and ToM each show substantial longitudinal stability from 3 to 5 years](ef-tom-longitudinal-stability.md) — related
 - [In a meta-analytic database of ten studies, the latent EF factor model was preferred in seven samples, with two favoring the components model and one equal](meta-analytic-replication-latent-ef-model.md) — related
 - [Language proficiency predicts residual variance in executive performance not explained by processing speed at all preschool age points](language-predicts-executive-residual-variance.md) — related
+- [Organization and planning and self-control show the strongest loadings on the latent EF construct](ef-strongest-loadings-organization-self-control.md) — related

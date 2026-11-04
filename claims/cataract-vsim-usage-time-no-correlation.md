@@ -50,3 +50,4 @@ In the exploratory Spearman's correlation analysis, "no significant correlation 
 - [Longitudinal within-student analysis of a mathematics mastery learning platform replicates positive effects on standardized math test scores](mastery-platform-longitudinal-positive-effects.md) — reports the opposite
 - [Homework system use and performance showed weak positive correlations (.2 < r < .4) with TerraNova scaled scores, and 65% of variance in homework time was accounted for by schools](weak-correlations-homework-use-achievement.md) — related
 - [RM-CC5 usage metrics correlated positively with achievement, and together accounted for an additional 7.3% of variance in Grade 5 scores beyond prior achievement, though causality and relative contributions could not be inferred](rm-cc5-usage-metrics-achievement-correlation.md) — related
+- [Checklist scores correlated positively with GRS but not with total procedure time](checklist-grs-correlation-afio.md) — related

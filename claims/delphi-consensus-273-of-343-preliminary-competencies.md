@@ -50,3 +50,4 @@ First Delphi round of the national consensus-development study evaluating specia
 - [The final national consensus catalog comprised 363 specialty-specific psychomotor competencies, corresponding to 244 unique competencies after harmonization](final-catalog-363-specialty-specific-244-unique-competencies.md) — related
 - [A modified Delphi needs assessment with 26 stakeholders identified areas of convergence and divergence that informed the core competencies](delphi-needs-assessment-long-covid-competencies.md) — related
 - [Delphi panel reaches broad consensus on CAMHS crisis team competencies and outcomes, with over 90% of proposed items meeting the consensus threshold](delphi-consensus-camhs-crisis-competencies-outcomes.md) — related
+- [Expert engagement was strong: effective recovery rates were 90% and 100% across the two rounds and the expert authority coefficient was 0.930](delphi-recovery-rates-90-100-authority-0930.md) — related

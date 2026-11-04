@@ -49,3 +49,4 @@ Quasi-experimental cluster-randomized study of 193 nursing students (97 interven
 - [Humanistic care-integrated Mini-CEX teaching does not improve operational/practical skills assessment scores over conventional teaching](mini-cex-humanistic-care-no-operational-skills-gain.md) — related
 - [Humanistic care-integrated Mini-CEX teaching improves self-directed learning ability in nursing students](mini-cex-humanistic-care-sdl-gains.md) — related
 - [Humanistic care-integrated Mini-CEX teaching improves Mini-CEX scores and comprehensive course performance but not the personal traits dimension](mini-cex-humanistic-care-minicex-course-gains.md) — related
+- [Infectious disease nurses show above-average core competence, with professional development competence lowest and humanistic quality highest](core-competence-levels-infectious-disease-nurses.md) — related

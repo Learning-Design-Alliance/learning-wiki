@@ -49,3 +49,4 @@ Semi-structured interviews with 14 intervention-group interns, analyzed via dire
 - [BOPPPS with virtual simulation improves humanistic care ability overall (d = 0.46), with gains in cognition and patience but not courage](boppps-virtual-simulation-humanistic-care.md) — related
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
+- [Qualitative interviews revealed enhanced critical appraisal skills, evidence synthesis capabilities, and professional confidence](qualitative-ebp-competency-gains.md) — related

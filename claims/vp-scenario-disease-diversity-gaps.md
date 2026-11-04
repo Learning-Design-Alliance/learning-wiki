@@ -51,3 +51,4 @@ Review's mapping of clinical scenario characteristics (RQ3, Table 3). The review
 - [Virtual patient simulations were delivered via immersive systems (nine studies) or desktop-based platforms (ten studies), all as single-session interventions](vp-technology-modalities-single-session.md) — related
 - [High-fidelity manikins and virtual reality were the most common paediatric SBE modalities across the reviewed studies](high-fidelity-manikins-vr-most-common-modalities.md) — related
 - [VP diagnoses and disease onset are broadly comparable to German healthcare data](vp-diagnoses-comparable-to-healthcare-data.md)
+- [Multiple barriers hinder infectious disease training, including lack of standardized scenarios, insufficient hands-on training, unclear guidelines, and low accessibility across roles](fgi-barriers-standardized-scenarios-hands-on-guidelines.md) — related

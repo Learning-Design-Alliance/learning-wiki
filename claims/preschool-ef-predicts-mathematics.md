@@ -62,3 +62,4 @@ Narrative synthesis of longitudinal studies (e.g. Clark et al. 2013; Fuhs et al.
 - [Children who develop EF later start preschool with the lowest math levels and do not catch up to early or intermediate EF developers through second grade](covariates-early-intermediate-overlap-later-distinct.md) — a narrower finding that bears on this claim
 - [An integrated EF and mathematics intervention improves overall early numeracy in four-year-olds more than practice as usual](integrated-ef-math-intervention-improves-numeracy.md) — related
 - [An after-school EF/VS intervention improves directly assessed executive function in kindergarten and first-grade children (intent-to-treat)](after-school-intervention-improves-executive-function.md) — related
+- [Horseback-riding hours and age significantly predict executive functions](riding-hours-predict-ef.md) — related

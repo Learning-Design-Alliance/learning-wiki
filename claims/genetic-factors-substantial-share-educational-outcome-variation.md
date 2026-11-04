@@ -76,3 +76,4 @@ Same Swedish sibling-correlation analyses: "holding constant genetic relatedness
 - [Associations between the rearing environment and children's outcomes can be partly or fully due to genetic confounding rather than causal environmental transmission](genetic-confounding-rearing-environment-causal-claims.md) — a narrower finding that bears on this claim
 - [Heritability of educational achievement varies as a function of SES in the United States but not in countries with more uniform access to high-quality education](heritability-ses-interaction-country-policy.md) — related
 - [Sibling similarity in symptoms is modest, with intraclass correlations of 0.07–0.15](modest-sibling-similarity-in-symptoms.md) — related
+- [Within-family analyses show non-cognitive skills mediate polygenic score associations with academic achievement beyond shared familial factors, accounting for up to 83% of total mediation](within-family-mediation-noncognitive-skills-83-percent.md) — related

@@ -74,3 +74,4 @@ Visual inspection of Figure 8 means in Experiment 4 showed comparable forgetting
 - [Sequential presentation of memory items produces less time-based forgetting than simultaneous presentation (Experiment 1)](sequential-presentation-less-forgetting-than-simultaneous.md) — related
 - [Presentation format (sequential vs. simultaneous) does not reliably affect EOL accuracy](presentation-format-no-effect-on-eol-accuracy.md) — related
 - [The complexity effect on working memory capacity is not due to insufficient encoding time](wm-complexity-effect-not-encoding-time.md) — related
+- [Sequential delivery in batches of ten substantially reduces performance dispersion and instability across evaluated LLMs compared with simultaneous delivery](batch-delivery-reduces-instability.md) — related

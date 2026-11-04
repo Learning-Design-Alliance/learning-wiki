@@ -47,6 +47,7 @@ The article recommends that BLS education be 'standardized, regular, and targete
 ## Related Strategies
 
 - [Combine knowledge-based BLS instruction with hands-on and simulation-based training.](combine-knowledge-instruction-with-simulation-bls.md)
+- [Support competence growth in lower-grade hospitals via structured training, study visits, and regional nursing alliances](structured-training-lower-grade-hospitals.md)
 
 ## Examples
 -

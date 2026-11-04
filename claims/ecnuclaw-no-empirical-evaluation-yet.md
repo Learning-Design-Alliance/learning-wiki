@@ -55,3 +55,4 @@ Authors' stated limitations in the paper's discussion section (§9.3). The paper
 - [Runtime GenUI adaptation is too late, too costly, and accuracy-risky to be equitable at scale for learners needing non-default representations](runtime-genui-too-late-costly-inequitable.md) — related
 - [No empirical evidence has been examined that an interactive open learner model leads to better learning than a non-negotiable or absent open learner model](no-evidence-iolm-beats-non-negotiable-olm.md) — related
 - [Openness entails inherent partial understanding of learner actions in collaborative settings](openness-partial-understanding-collaborative-learning.md) — related
+- [The index system lacks empirical verification: it has not undergone large-sample, multi-centre reliability and validity testing, and contextualized weight stratification across clinical settings has not been done](index-system-lacks-empirical-verification-and-context-weights.md) — related

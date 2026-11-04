@@ -51,3 +51,4 @@ Benchmark of 119 pediatric dentistry MCQs from the DUS administered to 17 LLM co
 - [Proprietary LLM architectures showed consistently higher mean accuracy than open-source architectures on the EBHS examination, with GPT-5 Pro the leading model at 85% accuracy.](proprietary-llms-outperform-open-source-ebhs.md) — related
 - [Gemini 2.5 Pro significantly outperformed GPT-5 on EDAIC questions as the only significant pairwise difference after Holm correction](gemini-outperformed-gpt5-edaic-pairwise.md) — related
 - [State-of-the-art LLMs show strong potential as diagnostic decision-support systems in dentistry based on vignette-based question performance](llms-diagnostic-decision-support-dentistry-potential.md) — a broader claim this one bears on
+- [LLM accuracy on pediatric residency-level MCQs varies widely (38%–90%) across models when all questions are delivered simultaneously](all-at-once-llm-accuracy-38-90.md) — related

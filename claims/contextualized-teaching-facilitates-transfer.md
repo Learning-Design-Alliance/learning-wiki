@@ -122,3 +122,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Nurses report competency enhancement in pain assessment through PainScan training](qualitative-competency-enhancement-painscan.md) — a narrower finding that bears on this claim
 - [Real-world translation was the most frequently endorsed strength, with 92% of users saying content and examples are translatable to daily clinical work](real-world-translation-top-strength.md) — a narrower finding that bears on this claim
 - [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) — a narrower finding that bears on this claim
+- [Participants identified five categories of educational needs: training methods, content, objectives, institutional and policy support, and other specific requirements](fgi-five-educational-needs-categories.md) — related

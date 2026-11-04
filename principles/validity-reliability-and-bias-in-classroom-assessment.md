@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 408 claims (186 for, 194 mixed, 28 against) · 307 studies (97 associational, 72 design, 50 causal, 46 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 27 of 307 report an effect size · 401 claims rest on one study
+> **Evidence** · 409 claims (187 for, 194 mixed, 28 against) · 308 studies (98 associational, 72 design, 50 causal, 46 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 27 of 308 report an effect size · 402 claims rest on one study
 
 ## Conditional relationship
 
@@ -482,6 +482,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Classification accuracy declines near the median score threshold due to overlap between low‐ and high‐skill feature distributions](../claims/accuracy-declines-near-median-threshold.md) [~W]
 - [LLM-generated scores on multimodal OSPE items correlate strongly with human scores in rank order yet diverge substantially on categorical pass/fail decisions](../claims/llm-ospe-rank-agreement-paradox.md) [~W]
 - [End-of-rotation OSCE total score correlated moderately with FCB-CHOPS (r = 0.61) and mini-CEX (r = 0.48), indicating overlapping but non-identical constructs](../claims/osce-correlates-fcb-chops-mini-cex.md) [~W]
+- [The EF measurement model showed configural and metric but not full scalar invariance across gender](../claims/ef-scale-configural-metric-invariance-only.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

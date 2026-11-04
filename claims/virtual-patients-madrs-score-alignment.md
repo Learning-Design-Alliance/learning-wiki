@@ -49,3 +49,4 @@ Pilot user study in which 5 expert raters each conducted voice-based MADRS inter
 - [Expert raters systematically scored virtual patients as moderately more severe than configured, with a mean absolute error of 5.80 on total MADRS score](systematic-severity-overestimation-virtual-patients.md) — related
 - [Interrater reliability for total MADRS score across expert raters interviewing the same virtual patients was high (ICC 0.90, 95% CI 0.68-0.99), though preliminary](virtual-patient-interrater-reliability-icc.md) — related
 - [Expert raters rated the virtual patients' profile consistency, character cohesion, and dialogue realism favorably across 20 interviews](virtual-patient-qualitative-realism-ratings.md) — related
+- [LLM integration into virtual patient scenarios enables realistic, context-sensitive medical interviews in a metaverse environment](llm-virtual-patient-realistic-interviews.md) — a broader claim this one bears on

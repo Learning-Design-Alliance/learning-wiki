@@ -48,3 +48,4 @@ Discussion-section interpretation of Phase 1 findings proposes three mechanisms:
 ## Related Claims
 - [Traditional self-report methods face significant limitations in capturing the dynamic nature of SRL](self-report-srl-limitations-dynamic-nature.md) — a broader claim this one bears on
 - [Self-report Likert measures of team constructs are subject to social desirability bias, availability heuristics, and scale-point interpretation problems, favoring behavioral markers as a measurement approach](self-report-likert-biases-team-measurement.md) — related
+- [Participants identified access to instruments, materials, and specimen quality as areas for improvement](cadaver-course-instrument-specimen-limitations.md) — related

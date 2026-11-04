@@ -1,0 +1,52 @@
+---
+type: claim
+title: Hospital grade, job position, work experience, and teaching experience distinguish core competence levels
+description: Hospital grade, job position, work experience, and teaching experience distinguish core competence levels
+id: demographic-factors-core-competence-nurses
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: zhang-jian-wei-2026
+    resource: "https://doi.org/10.3389/fpubh.2026.1775251"
+    title: "Zhang Jian-Wei, Yue Li-Hong, Wang Yan, Duan Jia-Yu, Shan Hai-Hong. (2026). Influence of self-efficacy and self-directed learning competence on core competence among nurses specializing in infectious diseases: a cross-sectional study. Frontiers in Public Health. https://doi.org/10.3389/fpubh.2026.1775251"
+    author: Zhang Jian-Wei, Yue Li-Hong, Wang Yan, Duan Jia-Yu, Shan Hai-Hong
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# Hospital grade, job position, work experience, and teaching experience distinguish core competence levels
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` Regression identified hospital grade (p = 0.019), job position (p = 0.009), years of work experience (p = 0.005), and teaching experience (p < 0.001) as significant factors of core competence. [→ Zhang Jian-Wei 2026](#zhang-jian-wei-2026)
+
+## Evidence
+
+### Zhang Jian-Wei 2026
+
+Zhang Jian-Wei, Yue Li-Hong, Wang Yan, Duan Jia-Yu, Shan Hai-Hong. (2026). Influence of self-efficacy and self-directed learning competence on core competence among nurses specializing in infectious diseases: a cross-sectional study. Frontiers in Public Health. https://doi.org/10.3389/fpubh.2026.1775251
+
+`q3 · i?` · `associational · r2`
+
+Multivariate linear regression on 392 nurses (F = 71.446, p < 0.001, R2 = 0.711). Nurses in higher-grade hospitals and management/teaching/research roles, with longer clinical and teaching experience, scored higher.
+
+> "Regression analysis results indicated that hospital grade, job position, years of work experience, teaching experience, self-directed learning competence, and self-efficacy were significant influencing factors of core competence among infectious disease nurses (p < 0.05)"
+
+## Discussion
+
+
+## Related Claims
+- [Infectious disease nurses show above-average core competence, with professional development competence lowest and humanistic quality highest](core-competence-levels-infectious-disease-nurses.md) — related
+- [Univariate analyses show core competency total scores differ by sex, hospital classification, palliative care working duration, training experience, and recent bereavement.](univariate-competency-differences-demographics.md) — related
+- [Healthcare professionals in tertiary hospitals had significantly higher odds of high knowledge-based BLS competency than those in primary hospitals.](tertiary-hospital-higher-bls-competency-than-primary.md) — related
+- [Providers working in District Hospitals/Medical Centers had higher odds of good partograph knowledge than those in Health Centers](district-hospital-higher-odds-partograph-knowledge.md) — related
+- [Self-directed learning competence is positively associated with core competence among infectious disease nurses](self-directed-learning-competence-core-competence-infectious-disease-nurses.md) — related

@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 229 claims (106 for, 118 mixed, 5 against) · 132 studies (70 associational, 25 review, 23 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 47 of 132 report an effect size · 221 claims rest on one study
+> **Evidence** · 230 claims (106 for, 119 mixed, 5 against) · 133 studies (71 associational, 25 review, 23 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 47 of 133 report an effect size · 222 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -270,6 +270,7 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Curricular interventions including Tools of the Mind and Promoting Alternative Thinking Strategies can improve preschoolers' EF skills](../claims/curricular-interventions-improve-preschool-ef.md) [+W]
 - [Young children’s EF skills show a robust positive relationship with academic outcomes in preschool through third grade](../claims/ef-correlates-academic-outcomes-preschool-third-grade.md) [+W]
 - [The integrated program was associated with improved Digit Span Backward (working memory) performance but not Digit Span Forward performance](../claims/breakfast-morning-sport-improves-digit-span-backward-not-forward.md) [~W]
+- [Organization and planning and self-control show the strongest loadings on the latent EF construct](../claims/ef-strongest-loadings-organization-self-control.md) [~W]
 
 ## Related Theories
 
@@ -290,6 +291,7 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Extended 36-trial Red-Blue Test](../products/extended-36-trial-red-blue-test.md)
 - [Go/No-Go and Nebraska Barnyard inhibition and working-memory tasks](../products/gono-go-and-nebraska-barnyard-inhibition-and-working-memory-tasks.md)
 - [Target impulsivity through mindfulness training, structured environments, and executive-function interventions as candidate routes to improving college academic outcomes](../strategies/target-impulsivity-mindfulness-structured-environments-strategy.md)
+- [Executive Functioning Scale (EFS), Arabic-adapted parent-report instrument](../products/executive-functioning-scale-efs-arabic-adapted-parent-report-instrument.md)
 
 ## Key Sources
 - Fay-Stammbach, T., Hawes, D. J., & Meredith, P. (2014). Parenting influences on executive function in early childhood: A review. *Child Development Perspectives, 8*(4), 258-264.

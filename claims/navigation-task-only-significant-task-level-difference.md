@@ -47,3 +47,4 @@ Task-level paired analysis within the same crossover study; only the navigation 
 ## Related Claims
 - [Conventional microscopy achieved significantly higher cataract module scores than the 3D heads-up display, while vitrectomy scores did not differ](cataract-scores-favour-conventional-vitrectomy-comparable.md) — related
 - [Exploratory subgroup analysis found no cataract performance difference between systems among students but higher conventional-microscope scores among residents](subgroup-cataract-students-residents.md) — related
+- [Increased use of microscopes (26.3%) and navigation systems (31.6%) was reported by a minority, with no change for the majority](cadaver-course-modest-navigation-microscope-adoption.md) — related

@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 380 claims (207 for, 148 mixed, 25 against) · 230 studies (77 review, 75 causal, 39 quant-synthesis, 15 qualitative, 15 design, 8 theoretical, 1 associational), `q1`–`q4` · 48 of 230 report an effect size · 375 claims rest on one study
+> **Evidence** · 382 claims (208 for, 149 mixed, 25 against) · 232 studies (77 review, 75 causal, 39 quant-synthesis, 17 design, 15 qualitative, 8 theoretical, 1 associational), `q1`–`q4` · 48 of 232 report an effect size · 377 claims rest on one study
 
 ## Conditional relationship
 
@@ -616,6 +616,8 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Comprehensive data linking simulation training to patient outcomes, complication rates, and long-term skill retention are lacking](../claims/simulation-skill-transfer-outcomes-lacking.md) [-W]
 - [Both video-based and simulation-based training significantly improve paediatric BLS knowledge immediately after training](../claims/video-and-simulation-improve-bls-knowledge-immediately.md) [+W]
 - [The SBEP produced 27 simulation scenarios integrated across all semesters with progressive CR development](../claims/sbep-27-scenarios-integrated-across-semesters.md) [+W]
+- [Physical examination modules in the metaverse face technical limitations in replicating procedures requiring tactile or haptic feedback](../claims/metaverse-physical-exam-haptic-limitations.md) [~W]
+- [Perceived surgical independence rose in 31.6% to 78.9% of respondents depending on procedure, with lowest gains for pedicle screw/C1–C2 fixation](../claims/cadaver-course-independence-varies-by-procedure.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

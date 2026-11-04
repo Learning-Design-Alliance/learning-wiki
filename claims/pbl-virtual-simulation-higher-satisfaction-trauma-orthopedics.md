@@ -58,3 +58,4 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - [Teaching satisfaction is significantly higher with BOPPPS plus virtual simulation (98.3% vs. 86.7%)](boppps-virtual-simulation-teaching-satisfaction.md) — related
 - [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related
 - [Working time and satisfaction do not differ between interactive and passive e-learning groups](e-learning-working-time-satisfaction-no-difference.md) — reports the opposite
+- [Overall e-learning satisfaction among nursing students in synchronous virtual learning is relatively low](low-elearning-satisfaction-synchronous-nursing.md) — related

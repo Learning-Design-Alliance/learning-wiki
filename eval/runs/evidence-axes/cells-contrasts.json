@@ -73726,5 +73726,289 @@
  "test-format\tpre-class tests rated just right in difficulty\tpre-class tests rated too difficult or too easy": {
   "label": "Appropriately difficult tests vs inappropriately difficult tests",
   "treatment_is_a": true
+ },
+ "explicit-instruction\tKDIGO-based educational workshop\tpre-intervention care": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tKDIGO-based educational workshop\tpre-intervention clinical practice": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tKDIGO-based educational workshop\tpre-intervention cohort": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tKDIGO-based educational workshop\tpre-intervention usual care": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpost-workshop care\tpre-workshop care": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tstructured rubric-based assessment\tconventional assessment": {
+  "label": "structured rubric-based assessment vs conventional assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tstructured rubric-based assessment\tconventional evaluation": {
+  "label": "structured rubric-based assessment vs conventional assessment",
+  "treatment_is_a": true
+ },
+ "practice-amount\tafter 73 RDP procedures\tbefore the mastery cutoff": {
+  "label": "overlearning (post-mastery practice) vs mastery-level practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tafter competency, following 46 RDP procedures\tbefore competency": {
+  "label": "overlearning (post-mastery practice) vs mastery-level practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tafter mastery, following 73 RDP procedures\tbefore mastery": {
+  "label": "overlearning (post-mastery practice) vs mastery-level practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tafter proficiency, following 63 RDP procedures\tbefore proficiency": {
+  "label": "overlearning (post-mastery practice) vs mastery-level practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated practice of core procedures, including PPE donning and doffing\tless or non-repeated practice": {
+  "label": "repeated practice vs less or non-repeated practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsecond oral-exam simulation round\tfirst oral-exam simulation round": {
+  "label": "second practice round vs first practice round",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsecond peer-teaching exam-training round\tfirst peer-teaching exam-training round": {
+  "label": "second practice round vs first practice round",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsecond peer-teaching-based oral-exam training round (T2)\tfirst training round (T1)": {
+  "label": "second practice round vs first practice round",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttwo peer-teaching exam-training rounds\tfirst training round": {
+  "label": "two practice rounds vs one practice round",
+  "treatment_is_a": true
+ },
+ "simulation\t3-hour simulation-based bad-news curriculum\tpretraining": {
+  "label": "simulation-based curriculum vs pretraining/baseline",
+  "treatment_is_a": true
+ },
+ "simulation\t3-hour simulation-based bad-news curriculum\tpretraining baseline": {
+  "label": "simulation-based curriculum vs pretraining/baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tCRM-based in-situ simulation with structured debriefing\tpresimulation assessment": {
+  "label": "in-situ simulation training vs presimulation assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tDeepSeek-V3 and Qwen3-32B multiagent frameworks\tcomparison not stated": {
+  "label": "multiagent framework vs unstated comparison",
+  "treatment_is_a": true
+ },
+ "simulation\tPT-BET cohort after introduction\tearlier M1 cohorts": {
+  "label": "PT-BET after introduction vs earlier cohorts",
+  "treatment_is_a": true
+ },
+ "simulation\tPT-BET cohort after introduction\tearlier internal follow-up cohorts": {
+  "label": "PT-BET after introduction vs earlier cohorts",
+  "treatment_is_a": true
+ },
+ "simulation\tQwen3-32B multiagent VP framework\tsingle-LLM baseline": {
+  "label": "multiagent VP framework vs single-LLM baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tStructured BP measurement training followed by a standardized-patient OSCE\tpre-training baseline": {
+  "label": "structured training with standardized-patient OSCE vs pretraining baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tcurrent infectious-disease response training including simulations\tnot stated": {
+  "label": "simulation-inclusive infectious-disease response training vs unstated comparison",
+  "treatment_is_a": true
+ },
+ "simulation\tcurriculum-integrated peer-led oral-exam training cohort\tstudents from previous years without the reported training intervention": {
+  "label": "curriculum-integrated peer-led oral-exam training vs prior students without the intervention",
+  "treatment_is_a": true
+ },
+ "simulation\thands-on synthetic task-trainer curriculum\tnone reported": {
+  "label": "hands-on task-trainer practice vs no reported comparator",
+  "treatment_is_a": true
+ },
+ "simulation\thands-on task-trainer practice\tno comparator reported": {
+  "label": "hands-on task-trainer practice vs no reported comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tin-situ CRM-based simulation training\tpresimulation assessment": {
+  "label": "in-situ simulation training vs presimulation assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tin-situ simulation scenarios\tother medical scenarios": {
+  "label": "in-situ simulation scenarios vs other medical scenarios",
+  "treatment_is_a": true
+ },
+ "simulation\tin-situ simulation scenarios\treal patient-care scenarios": {
+  "label": "in-situ simulation scenarios vs real patient-care scenarios",
+  "treatment_is_a": true
+ },
+ "simulation\tin-situ simulation training\tpresimulation": {
+  "label": "simulation training vs presimulation baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tmock emergency drills with repeated PPE practice\tless practice or non-repeated training": {
+  "label": "repeated PPE practice vs less or non-repeated practice",
+  "treatment_is_a": true
+ },
+ "simulation\tmultiagent VP framework\tsingle-LLM baselines": {
+  "label": "multiagent VP framework vs single-LLM baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tpeer-teaching-based oral exam simulation\tfirst training round": {
+  "label": "peer-teaching oral-exam simulation vs first training round",
+  "treatment_is_a": true
+ },
+ "simulation\tpeer-teaching-based oral exam simulation with structured tutor feedback\tfirst training round": {
+  "label": "peer-teaching oral-exam simulation with structured feedback vs first training round",
+  "treatment_is_a": true
+ },
+ "simulation\tpeer-teaching-based oral exam training\tno comparison reported": {
+  "label": "peer-teaching oral-exam training vs no reported comparator",
+  "treatment_is_a": true
+ },
+ "simulation\trepeated PPE simulation drills\tinitial or less-practised PPE response": {
+  "label": "repeated PPE practice vs initial or less-practised response",
+  "treatment_is_a": true
+ },
+ "simulation\tscenario-based hands-on role-specific training\ttheory-based generic or formalistic training": {
+  "label": "scenario-based hands-on training vs theory-based training",
+  "treatment_is_a": true
+ },
+ "simulation\tscenario-based simulation and mock drills\ttheory-based or formalistic training": {
+  "label": "scenario-based simulation and mock drills vs theory-based training",
+  "treatment_is_a": true
+ },
+ "simulation\tscenario-based simulations and repeated drills\ttheory-based or limited training": {
+  "label": "scenario-based simulations and repeated drills vs theory-based or limited training",
+  "treatment_is_a": true
+ },
+ "simulation\tscenario-based simulations and repeated practical drills\ttheory-based education": {
+  "label": "scenario-based simulations and repeated practical drills vs theory-based education",
+  "treatment_is_a": true
+ },
+ "simulation\tsecond oral-exam simulation round (T2)\tfirst oral-exam simulation round (T1)": {
+  "label": "second oral-exam simulation round vs first round",
+  "treatment_is_a": true
+ },
+ "simulation\tsecond peer-based oral-exam training round (T2)\tfirst peer-based oral-exam training round (T1)": {
+  "label": "second peer-based oral-exam training round vs first round",
+  "treatment_is_a": true
+ },
+ "simulation\tsecond peer-teaching oral-exam simulation (T2) with structured feedback\tfirst simulation round (T1)": {
+  "label": "second peer-teaching oral-exam simulation with structured feedback vs first round",
+  "treatment_is_a": true
+ },
+ "simulation\tsecond peer-teaching oral-exam simulation (T2) with tutor assessment and structured feedback\tfirst simulation round (T1)": {
+  "label": "second peer-teaching oral-exam simulation with tutor assessment and structured feedback vs first round",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training\tpresimulation baseline": {
+  "label": "simulation training vs presimulation baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based awake fiberoptic intubation curriculum\tpre-course baseline": {
+  "label": "simulation-based awake fiberoptic intubation training vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based awake fiberoptic intubation curriculum\tpre-intervention assessment": {
+  "label": "simulation-based awake fiberoptic intubation training vs pre-intervention assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based awake fiberoptic intubation curriculum\tpre-intervention self-assessment": {
+  "label": "simulation-based awake fiberoptic intubation training vs pre-intervention self-assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based awake fiberoptic intubation curriculum\tpre-test before deliberate practice": {
+  "label": "simulation-based awake fiberoptic intubation training vs pre-deliberate-practice test",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based awake fiberoptic intubation curriculum with rapid-cycle deliberate practice\tpre-test before deliberate practice": {
+  "label": "simulation-based rapid-cycle deliberate practice vs pre-deliberate-practice test",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based curriculum with video and rapid-cycle deliberate practice\tpre-test before deliberate practice": {
+  "label": "simulation-based video and rapid-cycle deliberate practice vs pre-deliberate-practice test",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based infectious-disease response training\tnot stated": {
+  "label": "simulation-based infectious-disease response training vs unstated comparison",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based rapid-cycle deliberate practice curriculum\tpre-test before deliberate practice": {
+  "label": "simulation-based rapid-cycle deliberate practice vs pre-deliberate-practice test",
+  "treatment_is_a": true
+ },
+ "simulation\tsurgical simulation of arterial injury\tbefore simulation": {
+  "label": "surgical simulation vs presimulation baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tthree-day cadaver-based cervical spine surgery course\tparticipants’ expectations before the course": {
+  "label": "three-day cadaver-based cervical spine surgery course vs pre-course expectations",
+  "treatment_is_a": true
+ },
+ "simulation\tthree-day cadaver-based cervical spine surgery course\tparticipants’ pre-course clinical activity": {
+  "label": "three-day cadaver-based cervical spine surgery course vs pre-course clinical activity",
+  "treatment_is_a": true
+ },
+ "simulation\tthree-day cadaver-based cervical spine surgery course\tparticipants’ pre-course confidence or ability": {
+  "label": "three-day cadaver-based cervical spine surgery course vs pre-course confidence or ability",
+  "treatment_is_a": true
+ },
+ "simulation\tthree-day cadaver-based cervical spine surgery course\tparticipants’ pre-course status": {
+  "label": "three-day cadaver-based cervical spine surgery course vs pre-course status",
+  "treatment_is_a": true
+ },
+ "simulation\tthree-day cadaver-based hands-on cervical spine surgery course\tno comparator reported": {
+  "label": "three-day cadaver-based hands-on course vs no reported comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tthree-day cadaver-based hands-on cervical spine surgery course\tpre-course baseline": {
+  "label": "three-day cadaver-based hands-on course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tthree-day cadaver-based hands-on cervical spine surgery course\tpre-course perceived surgical independence": {
+  "label": "three-day cadaver-based hands-on course vs pre-course perceived independence",
+  "treatment_is_a": true
+ },
+ "simulation\tthree-day cadaver-based hands-on cervical spine surgery course\tunchanged perceived independence after the course": {
+  "label": "three-day cadaver-based hands-on course vs unchanged post-course independence",
+  "treatment_is_a": true
+ },
+ "simulation\tthree-day cadaver-based hands-on course\tpre-course clinical practice": {
+  "label": "three-day cadaver-based hands-on course vs pre-course clinical practice",
+  "treatment_is_a": true
+ },
+ "simulation\tthree-day cadaver-based hands-on course\tpre-course/no-course baseline": {
+  "label": "three-day cadaver-based hands-on course vs pre-course or no-course baseline",
+  "treatment_is_a": true
+ },
+ "test-format\t10-at-a-time batch delivery\tall-at-once delivery": {
+  "label": "Batched vs simultaneous presentation",
+  "treatment_is_a": true
+ },
+ "test-format\tSequential delivery in batches of ten\tAll questions presented simultaneously": {
+  "label": "Batched vs simultaneous presentation",
+  "treatment_is_a": true
+ },
+ "test-format\tall questions presented simultaneously\tsequential delivery in batches of ten": {
+  "label": "Batched vs simultaneous presentation",
+  "treatment_is_a": false
+ },
+ "test-format\tsequential delivery in batches of ten\tall questions presented simultaneously": {
+  "label": "Batched vs simultaneous presentation",
+  "treatment_is_a": true
+ },
+ "test-format\tsequential delivery in batches of ten\tsimultaneous presentation of all questions": {
+  "label": "Batched vs simultaneous presentation",
+  "treatment_is_a": true
  }
 }

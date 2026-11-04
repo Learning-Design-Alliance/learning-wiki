@@ -97,3 +97,4 @@ Age ANOVA on concern about being accused of breaching academic integrity (F = 2.
 - [CAMEO users are more likely to be young, male, less educated, and international than other certificate earners](cameo-users-more-likely-young-male-international.md) — related
 - [Gender, computer experience and computer attitudes each significantly predict classroom computer use](gender-experience-attitudes-predict-computer-use.md) — related
 - [Students' attitudes towards computers did not differ significantly based on owning a computer or gender, and paternal education level had no significant effect on attitudes or achievement.](demographic-variables-no-attitude-effect.md) — reports the opposite
+- [Females were significantly more likely than males to accept an additional wait of over 120 minutes](female-patients-tolerate-longer-additional-waits.md) — related

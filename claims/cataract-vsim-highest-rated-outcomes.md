@@ -49,3 +49,4 @@ On the 5-point Likert scale in the questionnaire, "self-reported enhancement of 
 - [Nursing students report high satisfaction and self-confidence after hybrid simulation training](high-satisfaction-self-confidence-hybrid-simulation-nursing.md) — related
 - [Students were satisfied with Learning Together at high to highest levels and ranked it the most suitable instruction method for the course](lt-student-satisfaction-high-french-literature.md) — related
 - [Students reported high-to-highest satisfaction with the clinical PBL model, with the facilitator role of the teacher rated highest](high-satisfaction-clinical-pbl-pharmacy-facilitator-role.md) — related
+- [Overall e-learning satisfaction among nursing students in synchronous virtual learning is relatively low](low-elearning-satisfaction-synchronous-nursing.md) — related

@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 347 claims (204 for, 121 mixed, 22 against) · 214 studies (79 review, 59 causal, 38 quant-synthesis, 18 design, 10 associational, 7 qualitative, 3 theoretical), `q1`–`q4` · 37 of 214 report an effect size · 337 claims rest on one study
+> **Evidence** · 348 claims (204 for, 122 mixed, 22 against) · 215 studies (79 review, 59 causal, 38 quant-synthesis, 19 design, 10 associational, 7 qualitative, 3 theoretical), `q1`–`q4` · 37 of 215 report an effect size · 338 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -402,6 +402,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Comprehensive data linking simulation training to patient outcomes, complication rates, and long-term skill retention are lacking](../claims/simulation-skill-transfer-outcomes-lacking.md) [-W]
 - [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](../claims/simulation-higher-skill-retention-nurses-exploratory.md) [+W]
 - [Both video-based and simulation-based training produce similarly high practical skills post-training with no overall between-group difference](../claims/video-and-simulation-similar-practical-skills-post-training.md) [~W]
+- [Physical examination modules in the metaverse face technical limitations in replicating procedures requiring tactile or haptic feedback](../claims/metaverse-physical-exam-haptic-limitations.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

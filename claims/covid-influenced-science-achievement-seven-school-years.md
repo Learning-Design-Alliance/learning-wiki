@@ -54,3 +54,4 @@ Large-scale analysis of science test scores across seven school years (2019 thro
 - [A 2021 review series aims to provide a definitive account of the best available evidence on how the COVID-19 pandemic affected America's students academically](pandemic-academic-miss-evidence-review-series.md) — a broader claim this one bears on
 - [BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6](bipoc-math-achievement-drop-fall-2020.md) — related
 - [The “From loss to recovery” brief examines two components of school recovery post-COVID to understand diverging recovery patterns across schools](two-components-post-covid-school-recovery-patterns.md) — related
+- [Academic engagement increased from 78.5% to 97.3% over the five-year implementation period](academic-engagement-increase-ebp-model.md) — related
