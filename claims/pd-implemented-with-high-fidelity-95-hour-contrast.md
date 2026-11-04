@@ -70,3 +70,4 @@ Descriptive comparison of self-reported math-related PD during the study year. T
 - [The PD improved teachers' Richness of Mathematics in classroom instruction but not Student Participation or Errors and Imprecision](pd-improved-richness-of-mathematics-practice.md) — related
 - [Treatment teachers received substantially more literacy-focused professional development than control teachers (total PD difference 61.39 hours, ES = 0.77)](cli-large-pd-service-contrast.md) — related
 - [Fidelity of implementation in year one was moderately high (3.9 on a scale from 1 to 5 across six components), with 96 percent of sites meeting the moderate-to-high fidelity standard](cpc-fidelity-moderately-high-year-one.md) — related
+- [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](spoc-blended-package-high-adherence.md) — related

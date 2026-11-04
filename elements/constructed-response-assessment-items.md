@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 93 claims (30 for, 61 mixed, 2 against) · 70 studies (22 design, 16 causal, 16 associational, 11 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 70 report an effect size · 93 claims rest on one study
+> **Evidence** · 94 claims (30 for, 62 mixed, 2 against) · 71 studies (23 design, 16 causal, 16 associational, 11 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 71 report an effect size · 94 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -137,6 +137,7 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [The Writing Pal automated writing evaluation achieves expert-equivalent accuracy, with 44-55% exact and 94-96% adjacent accuracy](../claims/writing-pal-awe-expert-equivalent-accuracy.md) [+W]
 - [Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components](../claims/higher-concordance-binary-than-ternary-components.md) [~W]
 - [Mistral 7B shows high ICCs but low Fleiss kappa when scoring summary statements](../claims/mistral-7b-high-icc-low-fleiss-kappa.md) [~W]
+- [The AI tended to award slightly generous scores and occasionally under-emphasised mechanistic reasoning](../claims/ai-tends-generous-scores-underemphasises-mechanistic-reasoning.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

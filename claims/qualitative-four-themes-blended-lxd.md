@@ -48,3 +48,5 @@ Deductive thematic analysis of students' open-ended survey responses collected v
 - [Students' user experience with the blended course platform is significantly and moderately positively correlated with their perceived learning engagement and with situational interest](ux-correlates-engagement-and-si.md) — related
 - [Stegman (2021) proposes blended designs combining simulations/games with strategically placed authentic home-based experiences for iterative learning](stegman-blended-design-iterative-learning.md) — related
 - [Three qualitative themes emerged from free-text responses: visual engagement and retention, preference for blended delivery, and projection visibility as a technical constraint](rat-qualitative-themes-three.md) — related
+- [Four factors influence learners' non-use of OLRs: personal study habits, content value, time cost, and resource delivery](four-factors-influence-olr-non-use.md) — related
+- [Students valued flexibility and self-directed learning but desired more in-person interaction and better lecture recordings in the hybrid flipped course](student-themes-flexibility-interaction-recordings.md) — related

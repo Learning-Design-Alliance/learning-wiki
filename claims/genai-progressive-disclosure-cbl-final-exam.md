@@ -54,3 +54,4 @@ Nonrandomized posttest-only controlled quasi-experiment: 224 undergraduates were
 - [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](pbl-comprehensive-question-scores-smd-053.md) — related
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — related
 - [CBL improved performance at the knowledge level of Bloom's taxonomy, with no differences at comprehension or application levels](cbl-improves-knowledge-level-bloom-performance.md) — related
+- [Web-based Orthotrainer training produced diagnostic performance equivalent to analogue case analysis training across training sessions and the final module exam](orthotrainer-equivalent-diagnostic-performance.md) — related

@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 103 claims (74 show a difference, 22 mixed, 7 no difference) · 78 studies (29 associational, 14 causal, 13 review, 7 qualitative, 6 design, 6 theoretical, 3 quant-synthesis), `q1`–`q4` · 6 of 78 report an effect size · 99 claims rest on one study
+> **Evidence** · 105 claims (74 show a difference, 23 mixed, 8 no difference) · 80 studies (30 associational, 14 causal, 13 review, 7 qualitative, 7 design, 6 theoretical, 3 quant-synthesis), `q1`–`q4` · 6 of 80 report an effect size · 101 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -147,6 +147,8 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Students reported that internet connection instability and limited time were barriers to creating online comics](../claims/internet-and-time-barriers-online-comics.md) [+M] — learners who differ on it differ in outcomes
 - [Median reading comprehension of deaf students never exceeded fourth-grade level across 11 cohorts from 1974 to 2003](../claims/deaf-students-median-reading-never-exceeded-fourth-grade.md) [+M] — learners who differ on it differ in outcomes
 - [End-of-year PGY1 residents with module access scored significantly better GRS than a control class at the same training level without module access, across all modules](../claims/module-access-end-of-year-outperformed-control.md) [+M] — learners who differ on it differ in outcomes
+- [Access to technology and hardware was not seen as a barrier to SBE readiness, with adequate access reported (mean 3.21)](../claims/technology-access-not-a-barrier-to-sbe-readiness.md) [-M] — learners who differ on it differ in outcomes
+- [Key weaknesses were device compatibility, limited personalization, and lack of a navigation aid, each reported by roughly a third of users](../claims/elearning-weaknesses-device-navigation-personalization.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

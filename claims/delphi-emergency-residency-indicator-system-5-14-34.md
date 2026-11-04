@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: yu-caixia-2026
     resource: "https://doi.org/10.1186/s12909-026-09876-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Two rounds of Delphi consultation with 19 experts from 11 tertiary hospitals yielded a final system of 5 first-level indicators, 14 second-level indicators, and 34 third-level indicators organized under the iceberg competency model. [→ Yu Caixia 2026](#yu-caixia-2026)
@@ -49,3 +50,5 @@ A two-round modified Delphi study with 19 emergency medicine experts from 11 ter
 - [The indicator system's predictive validity — whether scores correlate with clinical performance and patient outcomes — remains unverified and requires future multi-center testing](indicator-system-predictive-validity-unverified.md) — related
 - [Semi-structured interviews with senior emergency specialists surfaced implicit competency indicators, such as stress resilience and rapid communication skills, not fully captured in the literature](interviews-surfaced-implicit-indicators-stress-resilience.md) — related
 - [A modified Delphi needs assessment with 26 stakeholders identified areas of convergence and divergence that informed the core competencies](delphi-needs-assessment-long-covid-competencies.md) — related
+- [A modified Delphi consensus process with 25 head and neck surgery specialists established 22 essential competencies for general surgery residents.](delphi-consensus-22-competencies-hns-general-surgery.md) — related
+- [In the first Delphi round, 12 of 22 potential competencies received unanimous endorsement and 10 required revisions based on expert feedback.](delphi-first-round-12-unanimous-10-revised.md) — related

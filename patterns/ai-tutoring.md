@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 427 claims (189 for, 181 mixed, 57 against) · 293 studies (112 causal, 61 review, 38 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 62 of 293 report an effect size · 411 claims rest on one study
+> **Evidence** · 428 claims (190 for, 181 mixed, 57 against) · 294 studies (112 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 62 of 294 report an effect size · 412 claims rest on one study
 
 ## Description and scope
 
@@ -408,6 +408,7 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Tutor-intervention did not produce a statistically significant improvement in writing scores from pretest to posttest within the tutor group.](../claims/tutor-intervention-no-significant-writing-gain.md) [-W]
 - [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](../claims/genai-progressive-disclosure-cbl-final-exam.md) [~W]
 - [Absolute average error increased significantly from pre- to post-test in the conventional group but not in the AI-assisted group (exploratory)](../claims/conventional-group-error-increase-ai-group-stable.md) [~W]
+- [Students rated faculty-reviewed AI-generated pharmacology feedback favourably, with median scores of 4 out of 5 across clarity, actionability, confidence and usefulness](../claims/students-rate-moderated-ai-feedback-median-4-of-5.md) [+W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

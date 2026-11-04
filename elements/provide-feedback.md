@@ -13,7 +13,7 @@ generated:
 # Provide Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 43 claims (25 for, 15 mixed, 3 against) · 42 studies (13 causal, 9 quant-synthesis, 9 review, 3 associational, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 7 of 42 report an effect size · 38 claims rest on one study
+> **Evidence** · 44 claims (26 for, 15 mixed, 3 against) · 43 studies (13 causal, 9 quant-synthesis, 9 review, 4 design, 3 associational, 3 qualitative, 2 theoretical), `q1`–`q4` · 7 of 43 report an effect size · 39 claims rest on one study
 
 ## Description
 Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.
@@ -90,6 +90,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Direct correction produces a large positive effect on learners' accurate use of English articles in delayed post-tests](../claims/direct-correction-large-delayed-effect-english-articles.md) [+W]
 - [Focused feedback targeted at a specified error type has a large beneficial effect on long-term learning, contrary to Truscott's conclusion](../claims/focused-feedback-large-beneficial-long-term-effect.md) [+W]
 - [Written corrective feedback facilitates acquisition of both explicit and implicit knowledge of English articles among low-intermediate EFL learners.](../claims/written-cf-facilitates-explicit-and-implicit-knowledge-articles.md) [+W]
+- [Students rated faculty-reviewed AI-generated pharmacology feedback favourably, with median scores of 4 out of 5 across clarity, actionability, confidence and usefulness](../claims/students-rate-moderated-ai-feedback-median-4-of-5.md) [+W]
 
 ## The evidence by question
 - *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](../claims/feedback-improves-learning.md) [+S]

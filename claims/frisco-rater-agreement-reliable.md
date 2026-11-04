@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: firdausi-2026
     resource: "https://doi.org/10.22266/ijies2026.0831.09"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Three independent teacher raters reached mean Cohen's linear weighted kappa of 0.78–0.84 and mean PoA above 75% across all six FRISCO dimensions. [→ Firdausi 2026](#firdausi-2026)

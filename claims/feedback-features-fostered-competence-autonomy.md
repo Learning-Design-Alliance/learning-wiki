@@ -50,3 +50,4 @@ Theme 2 from inductive interview analysis; checking answers was the most-coded c
 - [Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness](formative-assessment-fosters-motivation-autonomy-competence-relatedness.md) — a broader claim this one bears on
 - [Human-AI writing practices were perceived to enhance doctoral students' cognitive and metacognitive engagement, confidence, and learner agency](ai-writing-engagement-confidence-agency.md) — related
 - [Two major challenges undermine gamification's effect on intrinsic motivation: students' lack of perceived competence and lack of perceived autonomy](gamification-challenges-competence-autonomy.md) — related
+- [Feedback combining metacognitive information with performance and correctness information outperforms no or corrective feedback](metacognitive-plus-correctness-feedback-greater-effects.md) — related

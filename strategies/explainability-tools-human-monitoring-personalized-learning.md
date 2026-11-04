@@ -45,6 +45,7 @@ The article recommends pairing AI-driven learning predictions with interpretabil
 - [Deploy agentic AI in education with transparency about agentic decisions, human oversight and institutional responsibility](responsible-deployment-transparency-human-oversight-agentic-ai.md)
 - [Jointly investigate fairness in machine learning with core ML researchers when deploying adaptive collaborative learning support](cscl-ml-fairness-joint-investigation.md)
 - [Embed ethical safeguards — informed consent, moral decision-making frameworks, explainable AI — when deploying AI agents in MOOC research](ethical-safeguards-for-ai-agents-in-moocs.md)
+- [Use explainable AI methods (LIME, SHAP) to investigate the relation between individual features and model predictions](explainable-ai-lime-shap-validity-evidence.md)
 
 ## Examples
 -

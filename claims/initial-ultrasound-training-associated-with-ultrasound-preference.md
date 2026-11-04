@@ -47,3 +47,4 @@ Multivariable logistic regression on 454 trainees from a multicenter cross-secti
 ## Related Claims
 - [Trainees report greater confidence with ultrasound-guided than with landmark-based cannulation for both IJV and RA access](trainees-greater-confidence-ultrasound-guided-cannulation.md) — related
 - [PGY trainees also reported significantly lower stress with ultrasound guidance and a non-significant confidence increase](pgy-trainees-lower-stress-us-guidance.md) — related
+- [Among students unable to manage independently, theory-based students more often prefer referring to a facility with an anesthesia specialist](theory-based-students-prefer-referral-to-anesthesia-specialist.md) — related

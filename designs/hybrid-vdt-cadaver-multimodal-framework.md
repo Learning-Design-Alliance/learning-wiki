@@ -41,7 +41,8 @@ The review synthesizes evidence into a framework in which virtual dissection tab
 - [Vdt Reduces Dissection Anxiety Stai](../claims/vdt-reduces-dissection-anxiety-stai.md) [+M]
 
 ## Related Designs
-- 
+
+- [Annotated online repository of cadaveric dissection images for visceral anatomy](cadaveric-image-repository-head-neck-thorax.md)
 
 ## Examples
 -

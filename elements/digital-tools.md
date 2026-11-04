@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 178 claims (92 for, 72 mixed, 14 against) · 153 studies (74 causal, 24 review, 16 associational, 15 quant-synthesis, 11 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 18 of 153 report an effect size · 177 claims rest on one study
+> **Evidence** · 180 claims (92 for, 74 mixed, 14 against) · 155 studies (75 causal, 24 review, 16 associational, 15 quant-synthesis, 12 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 18 of 155 report an effect size · 179 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -213,6 +213,8 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [AI-assisted caries annotation significantly improves dental students' diagnostic performance on panoramic radiographs compared with conventional interpretation](../claims/ai-annotation-improves-dental-student-caries-detection.md) [+W] — attached 2026-11-04 from Pornprasertsuk-Damrongsri S et al. (2026), which proposed "YOLOv5 plus Attention U-Net AI caries annotation software for panoramic radiographs"; tests this page's relationship.
 - [VM users cited internet access and its cost as the main obstacles to using virtual microscopy](../claims/vm-users-internet-cost-obstacles.md) [-W]
 - [Conventional microscopy achieved significantly higher cataract module scores than the 3D heads-up display, while vitrectomy scores did not differ](../claims/cataract-scores-favour-conventional-vitrectomy-comparable.md) [~W]
+- [No connectivity issues occurred during AR telementored simulation in a controlled environment with stable network infrastructure](../claims/ar-telementoring-no-connectivity-issues-controlled-environment.md) [~W]
+- [Total exam scores did not differ significantly between students taught with integrated Rain Classroom/CBL and traditional lectures](../claims/rain-classroom-cbl-no-total-score-difference.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

@@ -63,3 +63,4 @@ Narrative synthesis in the review's student-advantages section. The review repor
 - [AI-powered reading assistants enhanced student expression, personalized reading pathways and supported teacher feedback in literacy education](ai-reading-assistants-literacy-supportive-not-substitutive.md) — related
 - [The commentary argues personalised learning circumvents rather than saves teacher work, relocating responsibility to individual learners](personalisation-circumvents-teacher-role.md) — related
 - [Computer-based learning systems need to adapt to learners' needs to provide effective personalised instruction](adaptation-needed-for-personalised-instruction.md) — a broader claim this one bears on
+- [AI models could forecast student outcomes, supporting personalised learning strategies and early intervention](ai-models-forecast-student-outcomes-personalised-learning.md) — possibly the same claim (merge candidate)

@@ -46,3 +46,4 @@ Figure 2 plots each observer's seven metrics in Sessions 1 and 2; the text sente
 
 ## Related Claims
 - [AI-assisted caries annotation significantly improves dental students' diagnostic performance on panoramic radiographs compared with conventional interpretation](ai-annotation-improves-dental-student-caries-detection.md) — related
+- [AI-assisted radiograph interpretation showed improved outcomes in dental student training](ai-assisted-radiograph-interpretation-improved-outcomes.md) — a broader claim this one bears on

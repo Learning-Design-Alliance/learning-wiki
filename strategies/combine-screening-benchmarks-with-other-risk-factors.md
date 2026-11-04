@@ -47,6 +47,7 @@ The article recommends that schools and educators not rely solely on MAP Growth 
 - [Use two-stage gated screening: an early reading screen followed by several weeks of progress monitoring before confirming at-risk status](two-stage-gated-screening-at-risk-readers.md)
 - [Use a universal screening instrument and documented O&M assessment rather than unconfirmed teacher judgments to identify students needing O&M instruction](universal-screening-om-assessment-strategy.md)
 - [Employ a comprehensive local assessment model instead of relying solely on standardized test scores](comprehensive-local-assessment-model-strategy.md)
+- [Monitor learning difficulties as they emerge during educational disruption rather than relying solely on preexisting vulnerability indicators](monitor-emerging-learning-difficulties-during-disruption.md)
 
 ## Examples
 -

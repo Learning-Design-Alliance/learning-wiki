@@ -59,3 +59,4 @@ ANCOVA on the researcher-made 15-item Likert attitude scale for the experimental
 - [Using infographics in geography lessons improves students' attitudes towards the geography lesson relative to usual instruction](infographics-improve-geography-attitudes.md) — related
 - [Students in the Twitter-supported blended course reported more positive attitudes toward the learning process than students in the fully in-class course](twitter-blended-attitude-gain.md) — related
 - [Traditional teaching strategies dominated the classroom (87%) with no multiple intelligences activities before the intervention](traditional-strategies-dominated-baseline.md) — related
+- [Service learning participation is associated with more positive attitudes and greater willingness toward oral health practice](service-learning-improves-attitudes-willingness.md) — a narrower finding that bears on this claim

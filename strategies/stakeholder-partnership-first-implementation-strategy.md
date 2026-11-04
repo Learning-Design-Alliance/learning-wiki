@@ -53,6 +53,7 @@ The article's concrete recommendation for researchers and practitioners beginnin
 - [Conduct stakeholder analysis before implementing a national competency framework](stakeholder-analysis-before-framework-implementation.md)
 - [Use structured argumentation activities to help teachers new to argumentation start and sustain argumentation in science courses](argumentation-activities-for-teachers-new-to-argumentation.md)
 - [Implement UbD through collaborative teacher design groups with iterative evaluation meetings](ubd-teacher-design-groups-strategy.md)
+- [Local adaptation of the framework across diverse contexts](pat-framework-local-adaptation.md)
 
 ## Examples
 -

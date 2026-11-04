@@ -47,3 +47,4 @@ Questionnaire item asking whether students would find the method effective and p
 ## Related Claims
 - [Students most frequently cited inability to receive immediate feedback as the disadvantage of the flipped classroom, and judged it unsuitable for field courses](flipped-classroom-immediate-feedback-disadvantage.md) — related
 - [Students strongly prefer flipped courses, with high approval ratios on preference items including technology ease and in-class activity effectiveness.](students-strongly-prefer-flipped-courses.md) — related
+- [Most students endorse the service learning model and would recommend it for future students](service-learning-student-endorsement-recommendation.md) — related

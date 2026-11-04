@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 131 claims (86 for, 35 mixed, 10 against) · 109 studies (48 causal, 25 review, 19 theoretical, 13 quant-synthesis, 2 associational, 2 design), `q1`–`q4` · 20 of 109 report an effect size · 120 claims rest on one study
+> **Evidence** · 132 claims (86 for, 35 mixed, 11 against) · 110 studies (49 causal, 25 review, 19 theoretical, 13 quant-synthesis, 2 associational, 2 design), `q1`–`q4` · 20 of 110 report an effect size · 121 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -202,6 +202,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Lower extraneous cognitive load is associated with greater flow experience, and greater flow with higher learning engagement](../claims/load-flow-engagement-associations-nursing-simulation.md) [+W] — attached 2026-11-04 from Liu Mengjiao et al. (2026), which proposed "Cognitive load and flow theories integrated as a sequential account linking system usability to learning engagement".
 - [Preceding worked-example demonstrations increase knowledge gains in technology-enhanced learning of sectional anatomy among novice medical students](../claims/worked-example-demonstrations-increase-sectional-anatomy-knowledge-gains.md) [+W] — attached 2026-11-04 from Fonseca Guilherme Reis Borges Coelho et al. (2026), which proposed "Cognitive Load Theory and Cognitive Theory of Multimedia Learning as frameworks for technology-enhanced anatomy instruction".
 - [Preceding worked-example demonstrations lower extraneous cognitive load in technology-enhanced learning of sectional anatomy](../claims/worked-example-demonstrations-lower-extraneous-cognitive-load.md) [+W] — attached 2026-11-04 from Fonseca Guilherme Reis Borges Coelho et al. (2026), which proposed "Cognitive Load Theory and Cognitive Theory of Multimedia Learning as frameworks for technology-enhanced anatomy instruction".
+- [Mediation hypotheses via extraneous cognitive load and mental effort are unsupported](../claims/humour-mediation-cognitive-load-unsupported.md) [-W]
 
 ## The evidence by question
 

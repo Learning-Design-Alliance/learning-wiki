@@ -47,3 +47,4 @@ Subgroup analysis by learner type across the 15 trials (12 studies of medical st
 ## Related Claims
 - [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](vr-anatomy-teaching-improves-test-scores.md) — a broader claim this one bears on
 - [Participant seniority moderates the benefit of HF simulation: residents and third/fourth-year students benefit, first-year students do not](participant-seniority-moderates-hf-benefit.md) — related
+- [VR-based training yields higher standardized knowledge examination scores than model simulation for otorhinolaryngology residents](vr-training-higher-knowledge-examination-scores-ent-residents.md) — reports the opposite

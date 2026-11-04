@@ -46,3 +46,4 @@ Exploratory Pearson correlation analysis of subjective VRISE reporting in the RC
 
 ## Related Claims
 - [Adverse effects of IVR simulation in nursing education are generally mild visual and vestibular symptoms](ivr-adverse-effects-mild-visual-vestibular.md) — related
+- [Age correlates moderately and GPA weakly with self-directed learning](age-gpa-sdl-correlations.md) — related

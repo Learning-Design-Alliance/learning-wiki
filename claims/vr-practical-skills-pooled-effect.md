@@ -50,3 +50,4 @@ Fixed-effects meta-analysis of four randomized controlled trials assessing VR fo
 - [VR teaching yields significantly higher clinical operation scores than traditional teaching in orthopedic education](vr-higher-clinical-operation-scores.md) — related
 - [VR instruction raises nursing students' academic satisfaction more than control teaching modalities (SMD = 1.14)](vr-raises-nursing-student-satisfaction.md) — related
 - [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](vr-anatomy-teaching-improves-test-scores.md) — related
+- [In the same RCT, no significant between-group differences were observed in baseline theoretical knowledge or clinical skills scores before teaching](pbl-virtual-simulation-no-baseline-differences-trauma-orthopedics.md) — related

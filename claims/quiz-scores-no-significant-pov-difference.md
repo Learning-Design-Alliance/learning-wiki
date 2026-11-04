@@ -66,3 +66,4 @@ Descriptive quiz results from the same study; these are means without a signific
 ## Related Claims
 - [In a college materials process course, the objective and reportorial video points of view produced significantly higher hands-on observation scores than the subjective point of view](objective-reportorial-beat-subjective-observation-scores.md) — related
 - [The reportorial view was the only condition in which participants scored well on both hands-on demonstration and written comprehension](reportorial-only-group-strong-on-both-measures.md) — related
+- [Accuracy differs significantly among the three intervention groups on the quiz, with graded values across groups](puzzle-intervention-groups-graded-quiz-accuracy.md) — related

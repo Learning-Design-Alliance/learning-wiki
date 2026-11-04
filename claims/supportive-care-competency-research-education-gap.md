@@ -50,3 +50,4 @@ Authors' interpretation in the Discussion: although studies exist on individual 
 - [A scoping review of 99 studies identified 12 clinical competencies for managing older adults with aspiration pneumonia](scoping-review-12-ap-competencies.md) — a broader claim this one bears on
 - Discussion of the 12 competencies in the literature is uneven: five competencies appear in 15 or more studies while seven supportive-care competencies appear in only a few — possibly the same claim (merge candidate)
 - Scoping review data extraction renamed three competencies and added prevention, prognosis, and palliative care to the preliminary Delphi list — related
+- [The German curriculum catalogue (CES) already contains the key competencies needed for oral health care of care‐dependent older adults](ces-contains-key-competencies-dop.md) — related

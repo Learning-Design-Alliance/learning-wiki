@@ -68,3 +68,4 @@ Trend contrasts over the three measurement occasions: the quadratic trend (an ea
 - [Engagement peaked at the middle of the Mindsets program and declined slightly by post-test, showing a significant negative quadratic trend](mindsets-engagement-peaks-midpoint.md) — related
 - [A significant occasion-by-group interaction in SOLO scores indicates groups behaved differently between pre- and post-test](occasion-by-group-interaction-solo.md) — related
 - [The teaching-method effect on self-regulation differed across the three groups, with a significant group-by-test interaction](self-regulation-group-test-interaction-significant.md) — related
+- [Significant Time × Group interaction shows experimental group maintained scores while control group declined at final examination](mooc-hfs-time-group-interaction-retention.md) — related

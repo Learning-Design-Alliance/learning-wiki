@@ -67,3 +67,4 @@ The review reports, citing Kavadella et al, that in an oral radiology assignment
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
 - [Students who used LLMs on assignments scored significantly lower than non-users on the first midterm (large effect size), but this gap narrowed and was non-significant on the later midterms](llm-users-lower-midterm1-score-gap-narrowed.md) — related
 - [LLM-assisted self-study yields higher post-intervention exam performance than traditional resources among early-career knowledge workers](llm-self-study-beats-traditional-resources-exam-performance.md) — a narrower finding that bears on this claim
+- [Contradictory findings on ChatGPT for scientific writing: lower writing quality but higher knowledge scores](contradictory-chatgpt-scientific-writing-findings.md) — possibly the same claim (merge candidate)

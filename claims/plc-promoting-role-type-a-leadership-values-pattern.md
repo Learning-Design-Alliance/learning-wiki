@@ -66,3 +66,4 @@ Mann-Whitney U tests showed differences were "not statistically significant in a
 ## Related Claims
 - [Teams from all three I3P calls functioned as PLCs at the implementation stage, with no statistically significant differences between calls across the five PLC dimensions](i3p-calls-plc-implementation-stage-no-significant-differences.md) — related
 - [Teams consolidated as PLCs regardless of the type of prior connections that formed them, with no significant differences across connection types](plc-consolidation-independent-of-prior-connections.md) — related
+- [Administrators were identified as the most influential group in decision-making about SBE activities (mean 3.63), followed by educators (mean 2.95)](administrators-most-influential-sbe-decision-making.md) — related

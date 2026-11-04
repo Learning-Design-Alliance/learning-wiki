@@ -48,3 +48,4 @@ Results-section interview findings on assessment: the study reports rote-memoriz
 - [Students who perceive assessment demands as assessing deep, higher-level cognitive processing employ deep approaches, while those perceiving rote-recall demands employ surface approaches](perceived-assessment-demands-approaches.md) — related
 - [Preparing for oral assessments changes student study habits toward understanding over memorization](oral-assessments-change-study-habits.md) — related
 - [Students perceived a jump in accountable disciplinary knowledge in the advanced laboratory, describing more authentic, less prescribed work than in previous labs](adlab-students-perceived-adk-jump-and-authentic-practice.md) — related
+- [The integrated Rain Classroom/CBL approach shifted learning emphasis toward deeper conceptual understanding potentially at the expense of rote memorization](rain-classroom-cbl-shifted-learning-emphasis.md) — related

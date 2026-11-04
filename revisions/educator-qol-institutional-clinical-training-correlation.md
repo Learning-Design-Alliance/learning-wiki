@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/educator-qol-institutional-clinical-training-correlation.md
+---
+
+# Revision history: [claims/educator-qol-institutional-clinical-training-correlation](../claims/educator-qol-institutional-clinical-training-correlation.md)
+
+### 2026-11-04 · ingest · process:wiki-ingest
+Ingested from pmc-13455475 (Relationship between midwifery educators' quality of life and students' clinical training quality.) via eval_harness.py + ingest_extractions.py

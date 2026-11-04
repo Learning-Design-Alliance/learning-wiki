@@ -58,3 +58,4 @@ Correlational study comparing AEEGS scores with those of 12 human raters, each m
 - [Expert panels and 31 experienced physics teachers rated the software favourably, with reliability of Cronbach's alpha .843 across 24 items](expert-evaluation-motion-vector-software-reliability.md) — related
 - [The Algebra Achievement Test showed acceptable internal consistency and inter-rater reliability in this study](aat-reliability-k21-interrater.md) — related
 - [AI scores demonstrated high consistency with expert ratings (ICC = 0.893)](ai-scoring-high-consistency-expert-ratings-icc-0893.md) — related
+- [AI showed moderate to high correlations with human evaluators for essay grading and thematic analysis](ai-moderate-high-correlation-human-essay-grading.md) — a broader claim this one bears on

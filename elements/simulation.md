@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 305 claims (175 for, 110 mixed, 20 against) · 189 studies (77 review, 46 causal, 38 quant-synthesis, 14 design, 6 qualitative, 5 associational, 3 theoretical), `q1`–`q4` · 33 of 189 report an effect size · 295 claims rest on one study
+> **Evidence** · 318 claims (184 for, 113 mixed, 21 against) · 197 studies (77 review, 51 causal, 38 quant-synthesis, 16 design, 6 associational, 6 qualitative, 3 theoretical), `q1`–`q4` · 35 of 197 report an effect size · 308 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -360,6 +360,19 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Turret position moderates post-training outcomes: turret 9 shows better skill and confidence, while turret 12 shows better comfort](../claims/snaid-turret-position-moderates-outcomes.md) [~W]
 - [No significant performance difference between VR and small group fellows on any of the 4 individual tracheostomy emergency cases](../claims/vr-small-group-no-case-level-difference.md) [~W]
 - [VR-based acupuncture training was associated with higher theoretical knowledge posttest scores than conventional instruction](../claims/vr-acupuncture-higher-theoretical-knowledge.md) [+W]
+- [Novice surgeons trained on a sensorized vascular simulator achieve significantly higher overall GEARS scores in an in vivo porcine robotic vascular dissection task than untrained controls](../claims/simulator-training-higher-gears-porcine-vascular-dissection.md) [+W] — attached 2026-11-04 from Mazzotta Alessandro Dario et al. (2026), which proposed "Sensorized high-fidelity vascular simulator with strain-sensing force feedback for robotic dissection training"; tests this page's relationship.
+- [Resident confidence in managing menopause improves across all survey questions after the simulation session](../claims/simulation-menopause-confidence-gains.md) [+W] — attached 2026-11-04 from Collazo Madison MD et al. (2026), which proposed "Multimodal menopause simulation curriculum combining didactic teaching with three standardized patient encounters"; tests this page's relationship.
+- [CHW trainees value realistic standardized patient scenarios as a key benefit of simulation-based MI training](../claims/chws-value-realistic-sp-scenarios-in-mi-simulation-training.md) [+W]
+- [CHW trainees value structured preparation, pre-briefing, and immediate SP feedback in simulation-based MI training](../claims/chws-value-structure-preparation-and-feedback-in-mi-simulation-training.md) [+W]
+- [Years of professional experience was the only significant predictor of current SBE use among Irish dietitians](../claims/experience-only-predictor-sbe-use.md) [~W]
+- [In situ simulated emergency training does not significantly improve critical thinking in junior nurses](../claims/in-situ-set-no-effect-critical-thinking.md) [-W]
+- [Simulation-based MI training significantly improves CHW trainees' confidence in using culturally appropriate resources to combat health misinformation](../claims/simulation-mi-training-increases-chw-confidence-combatting-misinformation.md) [+W]
+- [VR advantages in skills scores concentrate in manipulation smoothness, operational proficiency, and visual field stability](../claims/vr-skills-advantage-specific-dimensions.md) [+W]
+- [Virtual-reality simulator training alone failed to show significant transfer to in vivo porcine suturing in a cited prior randomized trial, contrasting with the present physical-simulator findings](../claims/vr-simulator-training-no-transfer-porcine-suturing.md) [~W]
+- [SBL produced greater gains in teaching efficacy than OCL (significant group × time interaction)](../claims/sbl-greater-efficacy-gains-than-ocl.md) [+W]
+- [Clinical knowledge scores improved significantly (mean increase 6.7 points, Cohen's d = 0.76) after the VP training program](../claims/vp-training-improves-clinical-knowledge.md) [+W]
+- [Transfer of VR training gains to real clinical practice remains unconfirmed](../claims/vr-training-transfer-unconfirmed.md) [~W]
+- [VR-based training yields higher standardized knowledge examination scores than model simulation for otorhinolaryngology residents](../claims/vr-training-higher-knowledge-examination-scores-ent-residents.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

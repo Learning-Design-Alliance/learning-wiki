@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 83 claims (47 for, 32 mixed, 4 against) · 68 studies (30 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 9 of 68 report an effect size · 75 claims rest on one study
+> **Evidence** · 87 claims (51 for, 32 mixed, 4 against) · 71 studies (33 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 11 of 71 report an effect size · 79 claims rest on one study
 
 ## Conditional relationship
 
@@ -166,6 +166,8 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](../claims/active-learning-permanence-effect-my-town-unit.md) [+W] — attached 2026-11-02 from Yenen et al. (2019), which proposed "Sustain active learning activities across the school year rather than a single unit to realize achievement gains"; tests this page's relationship.
 - [Observations of the JCLS experimental group showed high rates of active hands-on practice, repeated answering attempts, joyful reactions and a hedonic atmosphere](../claims/jcls-observation-indicators-high.md) [+W] — attached 2026-11-03 from Wei et al. (2011), which proposed "Give every learner an equal, fair opportunity for hands-on practice with immediate feedback".
 - [Students found argumentation-based activities fun and instructive, with experimenting the most-liked part](../claims/student-views-argumentation-activities-fun-instructive.md) [+W] — attached 2026-11-03 from Mehmet Erkol et al. (2023), which proposed "Minimize written worksheet load in argumentation activities and favor hands-on experimentation".
+- [Anesthesiologist-led active learning yields higher 12-month theoretical knowledge retention in medical history-taking, vital signs monitoring, and safe local anesthetic dosing than theory-based instruction](../claims/anesthesiologist-led-active-learning-12-month-knowledge-retention.md) [+W] — attached 2026-11-04 from Erkan Gözde Nur (2026), which proposed "Incorporate interdisciplinary, specialist-led active learning into health education curricula to support long-term knowledge retention and autonomous clinical practice"; tests this page's relationship.
+- [Active learning students report higher confidence in independently managing high-risk patients at 12 months (46.7% vs. 6%, r = 0.467)](../claims/active-learning-higher-confidence-managing-high-risk-patients.md) [+W] — attached 2026-11-04 from Erkan Gözde Nur (2026), which proposed "Incorporate interdisciplinary, specialist-led active learning into health education curricula to support long-term knowledge retention and autonomous clinical practice"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -215,6 +217,8 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [The non-MLM group using TIP and JiTT pedagogies had an average normalized gain below the national average for courses not utilizing active engagement pedagogies](../claims/non-mlm-group-below-national-average-gain.md) [-W]
 - [Class time in the flipped model was devoted to active learning activities rather than lecturing](../claims/flipped-class-time-active-learning-activities.md) [+W]
 - [Gender had no significant influence on performance when taught solubility with practical activities](../claims/no-gender-difference-practical-activities-solubility.md) [~W]
+- [Students taught with integrated Rain Classroom and CBL scored significantly higher on subjective questions than students taught with traditional lectures](../claims/rain-classroom-cbl-higher-subjective-scores.md) [+W]
+- [Exam performance was marginally higher on the student-generated exam but not statistically significant in the intention-to-treat analysis](../claims/itt-exam-score-no-significant-difference.md) [+W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

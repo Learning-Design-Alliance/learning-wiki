@@ -87,3 +87,4 @@ Theoretical argument in the digest, not a tested result. It states that in expec
 - [Theory-informed studies of online motivational design target a more pluralistic range of motivational constructs than studies without a theoretical basis](theory-informed-studies-more-pluralistic-in-constructs.md) — related
 - [When choosing Layered Curriculum activities, students prioritized enjoyable activities and activities they believed they could do](students-choose-enjoyable-feasible-activities.md) — a narrower finding that bears on this claim
 - [Integrating dynamic and standardized assessments produces positive washback and higher task-intrinsic motivation](integrated-assessment-positive-washback-motivation.md) — a narrower finding that bears on this claim
+- [Novice trainees rate PLAN A as engaging and helpful for understanding escalation rationale, though feedback was informal and not formally measured](plan-a-learner-engagement-feedback.md) — related

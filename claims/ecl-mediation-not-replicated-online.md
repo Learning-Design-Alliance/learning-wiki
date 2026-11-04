@@ -55,3 +55,4 @@ Mediation analysis testing the cognitive load hypothesis found the no-prompt vs.
 - [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — a broader claim this one bears on
 - [A separation prompt does not improve learning with seductive details, and higher integration avoidance predicts worse transfer, disfavouring the disruption explanation](separation-prompt-fails-disruption-disfavored.md) — related
 - [Seductive detail amount did not increase learners' intrinsic motivation in either study](sd-amount-no-motivation-effect.md) — related
+- [Mediation hypotheses via extraneous cognitive load and mental effort are unsupported](humour-mediation-cognitive-load-unsupported.md) — related

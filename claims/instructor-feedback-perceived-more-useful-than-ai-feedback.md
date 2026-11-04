@@ -51,3 +51,4 @@ Survey of 17 instructor-feedback and 16 AI-feedback students using Strijbos et a
 - [Students rated AI-generated and instructor-created lecture slides as similar in quality in a real course](students-rate-ai-slides-similar-quality.md) — related
 - [Audio versus written group feedback showed no statistically significant difference on perceived usefulness of feedback on student work](audio-group-feedback-usefulness-null.md) — related
 - [Mann-Whitney U tests found no significant difference between human SP and AI chatbot groups on any survey question](no-significant-difference-human-vs-ai-sp-acceptability.md) — related
+- [Students perceived instructor's supportive guidance and portable ultrasound practicality as key features of the learning environment](supportive-guidance-portable-ultrasound-environment.md) — related

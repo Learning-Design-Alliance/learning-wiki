@@ -47,6 +47,7 @@ The brief recommends that schools and the state prioritize efficiently screening
 - [Target tutoring equity by prioritizing underserved students and using culturally reflective curriculum and formative data](equity-focused-tutoring-targeting.md)
 - [Start behavioral and achievement support before school entry and monitor trajectories continuously](early-preschool-intervention-stable-trajectories.md)
 - [Use kindergarten-age screening information to identify children at potential risk of math difficulties and provide access to early support](kindergarten-screening-early-md-support.md)
+- [Monitor learning difficulties as they emerge during educational disruption rather than relying solely on preexisting vulnerability indicators](monitor-emerging-learning-difficulties-during-disruption.md)
 
 ## Examples
 -

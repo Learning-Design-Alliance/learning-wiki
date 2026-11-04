@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 255 claims (184 show a difference, 42 mixed, 29 no difference) · 174 studies (77 causal, 45 associational, 21 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 47 of 174 report an effect size · 249 claims rest on one study
+> **Evidence** · 256 claims (184 show a difference, 43 mixed, 29 no difference) · 175 studies (78 causal, 45 associational, 21 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 47 of 175 report an effect size · 250 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -290,6 +290,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Students found the virtual museum application enjoyable, useful, and motivating.](../claims/virtual-museum-enjoyable-useful-motivating.md) [+M] — instruction changes it
 - [Students in the mixed condition expressed higher situational interest than those working individually only](../claims/mixed-condition-higher-situational-interest-than-individual-only.md) [+M] — measured as an outcome of the instruction studied
 - [The voting process itself, rather than topic-congruence with individual interests, appears responsible for the motivation benefit](../claims/voting-process-itself-fosters-motivation.md) [-W] — an instructional effect differs with it
+- [Humorous elements increase perceived instructor likability but show inconsistent effects on situational interest and learning atmosphere](../claims/humour-instructor-likability-effect.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

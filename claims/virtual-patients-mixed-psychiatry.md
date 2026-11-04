@@ -107,3 +107,4 @@ Uncontrolled before-after study (RT-SIM) with 32 psychiatry residents completing
 - [There is weak evidence to support one resilience intervention over another for physicians who have completed training](weak-evidence-resilience-interventions-physicians.md) — related
 - [AI chatbot access is associated with improved diagnostic accuracy in pre-clerkship medical students](ai-access-improves-diagnostic-accuracy-preclerkship.md) — related
 - [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — related
+- [Residents attributed CDM competency gains to the VP platform's structured design: systematic diagnostic reasoning, adaptive competence under uncertainty, and reflective learning](vp-structured-design-mechanisms-qualitative.md) — related

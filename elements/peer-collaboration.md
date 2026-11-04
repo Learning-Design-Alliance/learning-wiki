@@ -13,7 +13,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 68 claims (27 for, 37 mixed, 4 against) · 61 studies (18 causal, 13 qualitative, 9 review, 9 associational, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 7 of 61 report an effect size · 66 claims rest on one study
+> **Evidence** · 69 claims (27 for, 38 mixed, 4 against) · 62 studies (19 causal, 13 qualitative, 9 review, 9 associational, 7 theoretical, 5 quant-synthesis), `q1`–`q4` · 7 of 62 report an effect size · 67 claims rest on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.
@@ -118,6 +118,7 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [The meaning-making process was characterised by shared management, joint attention, mutual influence and reciprocal positioning](../claims/meaning-making-shared-management-joint-attention.md) [+W]
 - [Partner work was most successful grouping format for primary students](../claims/partner-work-most-successful-primary.md) [+W]
 - [Dutch pupils continuously took the floor to discuss task issues while Finnish pupils adopted a more receptive role, in contrast to more symmetrical discussions in the Dutch control group](../claims/tila-unequal-floor-patterns-dutch-finnish.md) [~W]
+- [No effect of conjunctive or additive group work on task performance among high trait-procrastinators](../claims/group-work-no-performance-effect.md) [~W]
 
 ## The evidence by question
 

@@ -57,3 +57,5 @@ The review reports a prospective cross-skill comparison of 60 participants (20 n
 - [Prior robotic surgical experience is the main driver of better baseline performance and skills progression](prior-robotic-experience-driver-transfer.md) — related
 - [Microanastomosis training models discriminated competence levels: untrained groups scored significantly lower than trained groups on the NOMAT tool](nomat-untrained-significantly-lower-than-trained.md) — related
 - [Time pressure increases errors in health-professional performance, with mastery only partially compensating](time-pressure-increases-clinical-errors.md) — related
+- [Better mean performance in the Basic module is associated with shorter suturing time and a higher final Suture Score](basic-module-score-predicts-suturing-proficiency.md) — related
+- [Higher-performing suturing groups differ mainly in suturing time, accurate needle passages, and unnecessary piercing points, not other components](suture-components-group-discrimination.md) — related

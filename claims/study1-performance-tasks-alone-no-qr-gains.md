@@ -67,3 +67,4 @@ Two-way ANOVAs with repeated measures compared pre/post change in the PT and No 
 - [Course grades correlated with QR post-test scores in the Study 2 PT section but not in Study 1 sections](course-grades-correlate-qr-study2.md) — related
 - [In Study 2, the performance-task section showed significant pre/post improvement in total quantitative-reasoning scores while the No PT section did not](study2-pt-section-total-score-gains.md) — related
 - [Study 2 PT-section gains appeared on the evidence, conclusion, and completeness rubric dimensions but not on alternatives](study2-dimension-level-gains.md) — related
+- [Item-level gains favoring PLAN A scenarios are hypothesis-generating, with no significant between-group difference on any individual case](plan-a-item-level-exploratory-gains.md) — related

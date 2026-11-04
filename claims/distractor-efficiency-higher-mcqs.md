@@ -48,3 +48,4 @@ Mann–Whitney comparison of distractor efficiency in the 29-student dental exam
 - [Discrimination factor does not differ significantly among EMQ, MCQ, and SAQ formats](discrimination-factor-no-format-difference.md) — related
 - [EMQs are significantly more difficult than MCQs and SAQs in dental exams](emqs-more-difficult-than-mcqs-saqs.md) — related
 - [Student performance differs by question format, highest in SAQs and lowest in EMQs](performance-highest-saqs-lowest-emqs.md) — related
+- [Distractor efficiency did not differ significantly between AI-generated and student-generated exams](distractor-efficiency-no-difference.md) — related

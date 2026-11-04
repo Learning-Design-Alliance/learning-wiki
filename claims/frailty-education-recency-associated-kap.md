@@ -49,3 +49,4 @@ Multivariable linear mixed-effects model with a random intercept for hospital an
 - [Higher education, specialised experience, recent training, and seniority are associated with better knowledge, attitudes, and practices.](education-training-seniority-better-kap.md) — a broader claim this one bears on
 - [Geriatric nurse specialist certification is independently associated with higher frailty knowledge but not with overall KAP, attitude, or practice](geriatric-certification-knowledge-only.md) — related
 - [Nurses in southwestern China show moderately high frailty-management KAP, with attitude scoring highest and practice lowest relative to its maximum](nurses-frailty-kap-attitude-high-practice-low.md) — related
+- [Recent sepsis training was associated with higher confidence but not higher knowledge scores](recent-training-confidence-not-knowledge.md) — related

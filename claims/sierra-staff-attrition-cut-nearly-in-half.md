@@ -53,3 +53,4 @@ Key accomplishments section reports staff retention at Sierra Middle School: wit
 - [A statewide cohort analysis found 8% of new Texas teachers left after year 1, 26% by year 5, and 46% by year 8](texas-early-career-attrition-cohort-analysis.md) — related
 - [Texas teacher attrition exceeds the national average by over 50%, with about 12% of teachers exiting districts before the 2023–24 school year](texas-teacher-attrition-exceeds-national-average.md) — related
 - [In 2021–22, 99.7% of Texas teacher hires replaced teachers who had left the prior year, making attrition the dominant driver of demand](texas-attrition-drives-99-7-percent-of-hires.md) — related
+- [Four cohorts of PaT learners showed annual attrition below 10 percent](pat-programme-attrition-below-ten-percent.md) — related

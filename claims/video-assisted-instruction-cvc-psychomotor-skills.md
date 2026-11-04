@@ -26,7 +26,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
-> **Design limits** · Koç Gamze 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i3` First-year nursing students who received three short training videos alongside standard instruction scored significantly higher than a standard-instruction control group on central venous catheter psychomotor skill performance (total skill, blood collection, drug administration, dressing care) one week after training, with large effect sizes (r ranging between 0.787 and 0.815); the control group also improved, less, on total skill and drug administration. [→ Koç Gamze 2026](#koc-gamze-2026)

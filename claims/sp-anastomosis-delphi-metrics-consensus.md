@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: beatrici-edoardo-2026
     resource: "https://doi.org/10.1007/s11701-026-03996-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Consensus on the SP chicken anastomosis metrics was reached after two Delphi rounds with 100% agreement on the final set. [→ Beatrici Edoardo 2026](#beatrici-edoardo-2026)
@@ -50,3 +51,4 @@ Modified Delphi meeting with n = 14 panelists (12 urologists, 1 hepatobiliary su
 - [The SP chicken anastomosis metrics achieved high inter-rater reliability (IRR 0.96) between two blinded trained reviewers](sp-anastomosis-metrics-inter-rater-reliability.md) — related
 - [Objective performance metrics for the SP chicken anastomosis task discriminate expert from novice surgeons on completion time, with novices taking significantly longer (23.8 vs 12.1 min)](sp-chicken-anastomosis-construct-validity-time.md) — related
 - [Among participants who completed the task without critical errors, novices committed significantly more errors (12.3 vs 8.1) and took more than twice as long (25.3 vs 11.2 min) as experts](sp-anastomosis-non-ce-subgroup-differences.md) — related
+- [A modified Delphi consensus process with 25 head and neck surgery specialists established 22 essential competencies for general surgery residents.](delphi-consensus-22-competencies-hns-general-surgery.md) — related

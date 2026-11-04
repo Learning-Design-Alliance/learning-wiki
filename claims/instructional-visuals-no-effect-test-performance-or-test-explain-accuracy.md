@@ -74,3 +74,4 @@ Study 1a: test relative accuracy did not differ between conditions; explain rela
 - [Judgment accuracy of comprehension did not depend on misconceptions or instructional method](no-effect-judgment-accuracy-comprehension.md)
 - [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](visualizing-support-facilitates-explaining.md) — reports the opposite
 - [In-between explaining did not improve metacomprehension accuracy relative to other conditions in either experiment](no-metacomprehension-accuracy-effect-in-between-explaining.md) — related
+- [Images in the exam did not significantly improve calibration accuracy between EOL judgments and actual performance](images-no-significant-calibration-improvement.md) — related

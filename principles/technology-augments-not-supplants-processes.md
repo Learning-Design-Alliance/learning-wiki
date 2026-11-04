@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 169 claims (106 for, 51 mixed, 12 against) · 137 studies (30 review, 30 theoretical, 29 qualitative, 23 causal, 14 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 137 report an effect size · 165 claims rest on one study
+> **Evidence** · 170 claims (106 for, 52 mixed, 12 against) · 138 studies (30 review, 30 theoretical, 29 qualitative, 24 causal, 14 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 138 report an effect size · 166 claims rest on one study
 
 ## Conditional relationship
 
@@ -292,6 +292,7 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 - [Over-reliance on AI leading to superficial learning is the most frequently reported learning risk, documented in 65.52% of reviewed studies](../claims/overreliance-superficial-learning-risk.md) [+W]
 - [Unconstrained chat interfaces are recurrently associated with solution dumping, reduced productive struggle, integrity concerns, and over-reliance](../claims/unconstrained-chat-negative-patterns.md) [+W]
 - [Student attitudes toward VOLTA were positive when it supplemented TA help but mixed when it replaced TA assistance](../claims/volta-attitudes-positive-with-ta-mixed-without.md) [~W]
+- [Virtual-reality simulator training alone failed to show significant transfer to in vivo porcine suturing in a cited prior randomized trial, contrasting with the present physical-simulator findings](../claims/vr-simulator-training-no-transfer-porcine-suturing.md) [~W]
 
 ## Related Principles
 

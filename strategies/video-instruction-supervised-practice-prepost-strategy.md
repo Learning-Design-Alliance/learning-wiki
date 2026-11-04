@@ -45,6 +45,7 @@ The training protocol had residents first perform an end-to-end anastomosis with
 ## Related Strategies
 
 - [Prep Activities for Shadowing](prep_activities_for_shadowing.md)
+- [Structured stepwise simulator training protocol: instructional video, console familiarization, then repeated dissection practice with and without force feedback](stepwise-simulator-training-protocol-vascular-dissection.md)
 
 ## Examples
 -

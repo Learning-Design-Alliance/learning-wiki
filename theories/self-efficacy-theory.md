@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 138 claims (83 for, 50 mixed, 5 against) · 105 studies (44 associational, 33 causal, 21 review, 4 quant-synthesis, 2 design, 1 theoretical), `q1`–`q3` · 25 of 105 report an effect size · 136 claims rest on one study
+> **Evidence** · 144 claims (88 for, 51 mixed, 5 against) · 109 studies (45 associational, 34 causal, 21 review, 4 quant-synthesis, 4 design, 1 theoretical), `q1`–`q3` · 28 of 109 report an effect size · 142 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -185,6 +185,12 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Video-assisted PBL enhances academic self-efficacy more than traditional PBL](../claims/video-assisted-pbl-enhances-academic-self-efficacy.md) [+W]
 - [Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills.](../claims/simulation-increases-clinical-confidence.md) [+W]
 - [Perceived confidence in CPR skill retention improved markedly between 3 and 6 months in both groups](../claims/retention-confidence-self-report-trajectory.md) [~W]
+- [SBL produced greater gains in teaching efficacy than OCL (significant group × time interaction)](../claims/sbl-greater-efficacy-gains-than-ocl.md) [+W]
+- [Simulation-based MI training significantly improves CHW trainees' confidence in applying MI skills to promote health behavior change](../claims/simulation-mi-training-increases-chw-confidence-applying-mi-skills.md) [+W]
+- [Both OCL and SBL significantly improved teachers' teaching efficacy after the intervention](../claims/ocl-sbl-improve-teaching-efficacy.md) [+W]
+- [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest predictor](../claims/se-mov-positive-predict-sdl-henan-sem.md) [+W]
+- [Self‐efficacy showed the strongest differentiation across learner profiles, with resilient students reporting markedly higher self‐efficacy than disadvantaged low achievers and levels comparable to advantaged high achievers](../claims/self-efficacy-strongest-differentiator-resilient-profiles.md) [~W]
+- [Self-efficacy for ultrasound procedural performance increased significantly after training among Korean Medicine students (p < .001, d = 1.44)](../claims/ultrasound-training-self-efficacy-increase-km.md) [+W]
 
 ## The evidence by question
 

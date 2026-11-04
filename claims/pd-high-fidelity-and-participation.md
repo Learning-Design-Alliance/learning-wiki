@@ -69,3 +69,4 @@ Descriptive comparison of self-reported math-related PD during the study year; r
 - [The 93-hour PD was implemented with high fidelity, with 96 percent of Intel Math hours and 100 percent of the school-year components delivered](pd-implemented-with-high-fidelity.md) — possibly the same claim (merge candidate)
 - [Content-intensive math PD produced a statistically significant, sustained gain in grade 4 teachers' math content knowledge (21 percentile points in spring)](content-intensive-pd-teacher-knowledge-gain.md) — related
 - [Treatment teachers received substantially more literacy-focused professional development than control teachers (total PD difference 61.39 hours, ES = 0.77)](cli-large-pd-service-contrast.md) — related
+- [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](spoc-blended-package-high-adherence.md) — related

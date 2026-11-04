@@ -32,6 +32,7 @@ The ASAP-SAS corpus is a publicly available Kaggle dataset of rubric-scored shor
 - [Multilingual ASAP content scoring datasets in five languages](multilingual-asap-content-scoring-datasets-in-five-languages.md)
 - [SciEntsBank](scientsbank.md)
 - [Rubric-aligned concept-annotated grading benchmarks (REC-CBM)](rubric-aligned-concept-annotated-grading-benchmarks-rec-cbm.md)
+- [Hewlett Foundation Kaggle Automated Essay Scoring dataset](hewlett-foundation-kaggle-automated-essay-scoring-dataset.md)
 
 ## Key Sources
 - Michael Hardy. (2026). Autoscoring Anticlimax: A Meta-analytic Understanding of AI's Short-answer Shortcomings and Wording Weaknesses. https://arxiv.org/abs/2603.04820

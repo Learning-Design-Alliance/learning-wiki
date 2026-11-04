@@ -49,3 +49,4 @@ Quantitative cross-sectional study (Mitchell et al. 2016, Ireland) of 56 care ho
 - [Municipal care managers commonly lack palliative care education and report inadequate education resources for staff](manager-palliative-education-gaps.md) — related
 - [Nursing home managers report significantly higher palliative care self-efficacy than residential care home managers](nursing-vs-residential-manager-confidence.md) — related
 - [A narrative synthesis of eight studies identifies three themes describing nurse managers' palliative care awareness and competence in municipal care](three-themes-nm-palliative-competence-review.md) — related
+- [Registered nurses show moderate sepsis knowledge with major gaps in early clinical sign recognition and septic shock management](nurse-sepsis-knowledge-gaps-eastern-china.md) — related

@@ -53,6 +53,7 @@ The article recommends that implementation of m-learning in developing countries
 - [Implement the CCSS with AI/AN students through expanded resources, localization of reform, and specialized extended professional development](ccss-implementation-ai-an-localization-pd.md)
 - [Use expert teachers' gaze sequences, tailored to cultural context, as a template in professional development](expert-gaze-sequence-pd-template.md)
 - [Shift responsibility for coping with cultural stressors from youth and families to school-level intervention targets identified by participants](school-level-intervention-targets-cultural-stressors.md)
+- [Local adaptation of the framework across diverse contexts](pat-framework-local-adaptation.md)
 
 ## Examples
 -

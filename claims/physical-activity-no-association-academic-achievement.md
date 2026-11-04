@@ -51,3 +51,4 @@ Cross-sectional regression in 106 children with overweight/obesity (accelerometr
 - [Fitness associations with academic achievement are attenuated or disappear after adjustment for BMI and cardiorespiratory fitness, indicating inter-dependence](fitness-academic-associations-interdependent-bmi-crf.md) — related
 - [Little consistent evidence links overweight or obesity to reading, science or average attainment across subjects](little-evidence-obesity-reading-science-attainment.md) — related
 - [The motor skill intervention does not significantly change accelerometer-measured physical activity levels in young children with ASD](motor-intervention-no-pa-change-asd.md) — related
+- [Flipped classroom intervention significantly increases college students' total physical activity and moderate-to-vigorous physical activity compared with traditional instruction immediately post-course.](fc-increases-total-pa-and-mvpa-post-course.md) — reports the opposite

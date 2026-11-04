@@ -26,7 +26,7 @@ sources:
 # Immediate Feedback
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (15 for, 17 mixed, 2 against) · 39 studies (12 causal, 12 review, 6 quant-synthesis, 5 qualitative, 3 theoretical, 1 design), `q1`–`q4` · 3 of 39 report an effect size · 28 claims rest on one study
+> **Evidence** · 35 claims (15 for, 18 mixed, 2 against) · 40 studies (13 causal, 12 review, 6 quant-synthesis, 5 qualitative, 3 theoretical, 1 design), `q1`–`q4` · 3 of 40 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Accuracy during practice, delayed retention, transfer and the learner's wish for
 - [Real-time feedback training improves the compression target and depth control in 30:2 CPR cycles](../claims/real-time-feedback-improves-compression-30-2-cycles.md) [+W]
 - [Most ventilation adjustments occurred when RFM feedback was visible, suggesting real-time feedback prompted corrective action](../claims/ventilation-adjustments-occur-under-visible-rfm-feedback.md) [+W]
 - [Immediate feedback on incorrect operations and surgical step prompts are the most valued learning resources](../claims/cataract-vsim-feedback-prompts-most-valued.md) [+W]
+- [Feedback timing (immediate vs delayed) shows mixed effects, with no timing effect found in some studies](../claims/feedback-timing-mixed-evidence.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — immediate feedback is one of the most actionable forms of formative assessment.

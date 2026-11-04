@@ -45,6 +45,7 @@ The article describes a systematic faculty development program with four key ele
 - [Sustain tutor quality through layered professional development: live and asynchronous learning, observations, coaching, and weekly office hours](layered-tutor-professional-development-support.md)
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
+- [Invest in facilitator development and interdisciplinary collaboration to scale VR-based simulation learning](facilitator-development-interdisciplinary-collaboration-scaling-strategy.md)
 
 ## Examples
 -

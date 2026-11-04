@@ -50,3 +50,4 @@ Narrative review reporting a qualitative interview study of 28 general practitio
 - [In a 5-year longitudinal MSF study, all ratings increased between assessments, though the increase for patient ratings was not significant and changes were small-to-moderate](msf-five-year-ratings-increased-small-moderate.md) — related
 - [Text-oriented MSF tools with large free-text boxes are perceived as more useful for feedback on communication and professionalism than numerical-scale tools](text-oriented-msf-tools-perceived-more-useful.md) — related
 - [Feedback from well-implemented workplace based assessments, particularly multisource feedback, leads to a perceived positive effect on doctors' practice](wba-feedback-perceived-positive-effect-practice.md) — related
+- [Classic Mini-CEX systematically overlooks OHL communication practices in pediatric pneumonia education](mini-cex-blind-spot-ohl-communication.md) — related

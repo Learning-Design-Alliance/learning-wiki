@@ -51,3 +51,4 @@ Kruskal-Wallis tests across four countries (SK n=375, CZ n=357, IT n=388, TR n=3
 - [Full-time students, students with better-staffed placements, and students with well-functioning assigned supervision report higher perceived competencies](placement-conditions-associated-safety-competencies.md) — related
 - [The role of the nurse teacher is the strongest multivariate predictor of patient safety competencies among CLES-T dimensions](nurse-teacher-role-strongest-predictor-safety-competencies.md) — related
 - [Nursing students report higher perceived patient safety competencies in clinical settings than in academic settings, with small effect sizes](nursing-students-higher-safety-competencies-clinical-than-academic.md) — related
+- [Students assigned the highest clinical education scores to instructor performance and monitoring and evaluation, and the lowest to the learning environment.](instructor-monitoring-highest-environment-lowest-scores.md) — related

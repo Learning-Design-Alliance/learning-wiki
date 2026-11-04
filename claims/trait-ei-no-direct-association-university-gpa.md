@@ -66,3 +66,4 @@ Null direct association between global trait EI (TEIQue) and GPA in this sample,
 - [Knowledge, academic self-efficacy, and self-directed learning readiness are positively correlated](knowledge-self-efficacy-sdlr-positive-correlations.md) — related
 - [Mindfulness correlates positively and significantly with trait emotional intelligence in Portuguese adolescents](mindfulness-positive-correlation-trait-ei-adolescents.md) — related
 - [Trait EI is positively associated with well-being but not significantly with school results in adolescents](trait-ei-well-being-not-school-results.md) — related
+- [Emotional intelligence correlates positively with self-directed learning among nursing students (r = 0.63)](ei-sdl-positive-correlation-nursing-students.md) — related

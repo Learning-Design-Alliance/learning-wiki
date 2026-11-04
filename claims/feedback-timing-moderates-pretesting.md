@@ -102,3 +102,4 @@ The review reports that across three Kornell (2014) experiments with trivia fact
 - [Vocabulary retention declines from immediate to 24-hour-delayed no-feedback testing, and goal-directed associations are more semantically distant but slower to produce than free associations](retention-declines-and-goal-directed-costs-more-effort.md) — related
 - [Cued recall testing with correct-answer feedback significantly enhances vocabulary learning across three consecutive tests](feedback-enhances-vocabulary-learning-across-consecutive-tests.md) — related
 - [Immediate feedback from the learning objects appeared to moderate the social interaction between paired students](immediate-feedback-moderates-pair-interaction.md) — related
+- [Elaborate feedback produces larger achievement effects than corrective feedback in computer-based assessment](elaborate-feedback-larger-effects-than-corrective-cba.md) — related

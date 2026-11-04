@@ -50,3 +50,4 @@ Delphi round 1 with 18 international experts rated each of seven preliminary ena
 - [Delphi experts reached 80% or higher consensus on all major CSM-SU components](delphi-consensus-csm-su-components.md) — related
 - Two Delphi rounds with 20 Chinese CDC experts achieved consensus, with Kendall's W rising significantly from 0.295 to 0.328 — related
 - [The created test tasks showed high validity (β = 0,97) via a Delphi procedure with 10 experts](test-validity-delphi-beta-097.md) — related
+- [In the first Delphi round, 12 of 22 potential competencies received unanimous endorsement and 10 required revisions based on expert feedback.](delphi-first-round-12-unanimous-10-revised.md) — related

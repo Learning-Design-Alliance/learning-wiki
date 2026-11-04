@@ -101,3 +101,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Diet and nutrition education within dental and dental hygiene schools is often fragmented and incomplete](diet-nutrition-education-fragmented-incomplete.md) — a narrower finding that bears on this claim
 - [Patient-related, technical and organisational challenges hindered clinical LUS integration](lus-integration-challenges-ed.md) — related
 - [Most SMA training resources target researchers and physicians rather than hands-on assessment training for allied health professionals, and mentorship opportunities are lacking](sma-training-targets-physicians-not-allied-health.md) — related
+- [Release time to lead SBE integration (mean 1.53) and fiscal resources for developing physical learning spaces (mean 1.98) received the lowest scores within resource readiness](scors-release-time-and-fiscal-resources-lowest.md) — related

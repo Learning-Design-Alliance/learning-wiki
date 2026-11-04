@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-04
 sources:
   - id: mcinerney-niall-2022
     resource: "https://www.egms.de/en/journals/zma/2022-39/zma001572.shtml"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 96% of students performed better when trained with simulation, with an overall 22% absolute increase in scores (95% CI 18-26%) compared to traditional didactic lectures. [→ McInerney Niall 2022](#mcinerney-niall-2022)

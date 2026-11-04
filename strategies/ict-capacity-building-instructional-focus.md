@@ -46,6 +46,7 @@ The article recommends capacity-building that focuses on improving instruction r
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
 - [Equip secondary classrooms with computers and data show devices and train teachers to implement e-learning](equip-classrooms-computers-data-show-train-teachers.md)
 - [Increase teacher training to include technology in classrooms and recommend computers and interactive teaching software for Latino-ethnic students](teacher-technology-training-and-software-recommendations.md)
+- [Adopt mastery learning and peer-assisted learning models to maximize ultrasound training effectiveness in resource-limited settings](mastery-peer-assisted-ultrasound-resource-limited.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Pearson correlations in the retrospective dataset of 290 students; GPA (p = 0.00
 - [The combined regression model explains 54% of variance in NBME Pharmacology scores with low multicollinearity](model-explains-54-percent-variance-low-vif.md) — related
 - [Internal pharmacology exam scores strongly correlate with NBME Pharmacology Subject Exam scores (r = 0.69)](internal-pharmacology-exam-strong-correlation-nbme.md) — related
 - [MCAT scores moderately correlate with NBME Pharmacology Subject Exam scores (r = 0.45)](mcat-moderate-correlation-nbme-pharmacology.md) — related
+- [Age correlates moderately and GPA weakly with self-directed learning](age-gpa-sdl-correlations.md) — related

@@ -47,3 +47,4 @@ PageRank centrality over the DEMATEL influence matrices (damping factor 0.85, ar
 ## Related Claims
 - Available resources received the highest AHP strength-of-influence priority (0.1753), marginally above institutional strategic orientation (0.1715) — related
 - Institutional strategic orientation received the highest overall SNAP priority (0.2072) among the seven enablers — related
+- [Administrators were identified as the most influential group in decision-making about SBE activities (mean 3.63), followed by educators (mean 2.95)](administrators-most-influential-sbe-decision-making.md) — related

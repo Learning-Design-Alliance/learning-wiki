@@ -49,3 +49,4 @@ Satisfaction sub-theme from the thematic analysis, coded in 21 of 26 written ref
 - [Students’ emotional experience of SGLM was mixed: most found it enjoyable while about half reported initial stress and tension](sglm-mixed-enjoyment-and-stress.md) — related
 - [Most experimental-group students wanted similar WhatsApp applications used in their other courses](students-want-whatsapp-in-other-courses.md) — related
 - [Most experimental-group students liked the digital-storytelling mathematics courses and wanted the application to continue](students-liked-digital-storytelling-math-courses.md) — related
+- [Students in the PBL-DeepSeek group report high satisfaction and would continue using the approach, but a minority worry about AI accuracy](deepseek-pbl-satisfaction-and-accuracy-concerns.md) — related

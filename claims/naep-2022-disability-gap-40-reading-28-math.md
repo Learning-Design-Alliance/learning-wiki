@@ -51,3 +51,4 @@ The brief reports national NAEP statistics for 2022, stating that fourth graders
 
 - [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](disability-largest-postsecondary-outcome-gap.md) — the general claim this finding bears on, with the studies behind it
 - [On 2022 NAEP 8th- and 12th-grade reading and math exams, students who were both English learners and from low-income backgrounds scored lowest among four student groups, with less than one third scoring basic or above in reading and less than one quarter in math](naep-dual-el-low-income-lowest-2022.md) — related
+- [Fourth graders with communication disorders earned lower reading, math, and science scores than general-education peers](comdis-lower-academic-achievement-fourth-grade.md) — related

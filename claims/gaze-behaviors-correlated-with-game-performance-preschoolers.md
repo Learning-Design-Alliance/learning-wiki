@@ -47,3 +47,4 @@ Eye-tracking experiment with 36 children aged 4–6 during five rounds of an exp
 ## Related Claims
 - [Preschoolers looked at the teachable agent significantly more often when the agent had been in charge of gameplay than when it had not](preschoolers-look-more-at-ta-after-ta-in-charge.md) — related
 - [The TA-gaze result is interpreted as preschoolers understanding the teachable agent as an entity with agency that acts on its own knowledge](preschoolers-attribute-agency-to-teachable-agent.md) — related
+- [Years of experience correlate positively with gaze metrics on sample information review](experience-correlates-sample-information-review.md) — related

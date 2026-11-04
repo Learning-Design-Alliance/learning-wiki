@@ -53,6 +53,8 @@ The predominant instructional strategy across included studies was "simulation-b
 - [Simulation Based Training](simulation-based-training.md)
 - [Simulation Based Learning](simulation-based-learning.md)
 - [Adapt simulation delivery during pandemics using e-learning platforms, small groups, in-situ delivery, and PPE-conserving substitutions](pandemic-simulation-implementation-adaptations.md)
+- [Use a one-day multimodal simulation workshop combining lectures, manikins, virtual simulation and a 3D-printed model to train basic bronchoscopy to multidisciplinary teams](one-day-multimodal-bronchoscopy-workshop-strategy.md)
+- [Use a structured 3-phase debriefing model as the core of in situ simulation training](three-phase-debriefing-model-in-situ-simulation.md)
 
 ## Examples
 -

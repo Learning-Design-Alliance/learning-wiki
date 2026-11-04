@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 514 claims (272 show a difference, 105 mixed, 137 no difference) · 355 studies (156 associational, 144 causal, 20 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 56 of 355 report an effect size · 506 claims rest on one study
+> **Evidence** · 515 claims (272 show a difference, 106 mixed, 137 no difference) · 356 studies (156 associational, 145 causal, 20 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 56 of 356 report an effect size · 507 claims rest on one study
 
 ## How to read this page
 
@@ -553,6 +553,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Male interns report significantly higher self-perceived clinical confidence than females, while theoretical knowledge does not differ significantly by gender](../claims/gender-confidence-knowledge-difference-veneers.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Male students scored significantly higher than female students on total knowledge score, with a negligible standardized effect](../claims/gender-difference-clinical-surgical-knowledge-syria.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No statistically significant differences in PI staging accuracy were observed by sex, age, work experience or educational level](../claims/no-demographic-differences-pi-staging-accuracy.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students report significantly higher learning environment perceptions than male students, though post-test performance does not differ by gender](../claims/female-students-higher-perceptions-exploratory.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

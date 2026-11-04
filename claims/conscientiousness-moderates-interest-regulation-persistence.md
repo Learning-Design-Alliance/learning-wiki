@@ -71,3 +71,4 @@ Narrative review reporting CONIC-model research (Bareis et al., 2024; Trautwein 
 - [Utility-value interventions enhance perceived utility value, engagement, performance, and persistence in introductory college science courses](uvi-improve-engagement-performance-persistence.md) — related
 - [The CONIC model proposes conscientiousness and interest can partly compensate for one another in explaining academic effort and achievement](conic-compensation-conscientiousness-interest.md) — related
 - [Student task value judgments' antecedents and consequences show initial interest and mastery goals predict subsequent interest, and individual differences matter for teaching strategy](hulleman-task-values-individual-differences.md) — related
+- [Conscientiousness is positively associated with interest/enjoyment, effort/importance, and perceived competence in hybrid flipped learning](conscientiousness-positive-motivation-hybrid-flipped.md) — related

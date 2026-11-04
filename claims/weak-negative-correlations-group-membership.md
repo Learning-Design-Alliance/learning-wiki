@@ -52,3 +52,4 @@ Correlational analysis preceding the ANOVAs in the same quasi-experiment. The ar
 - [Repeated measures of invested mental effort, perceived task difficulty, interest, and self-assessed understanding differ significantly across measurement points within complex learning tasks and are not adequately represented by their mean](repeated-load-interest-measures-vary-within-complex-tasks.md) — related
 - [Assignment to the arousal condition correlates significantly but weakly with exam score (r = 0.176) in a correlation matrix of 846 students](arousal-condition-exam-score-correlation.md) — related
 - [Students' conceptual understanding and motivation correlate moderately (score correlation 0.46) when learning the Solar System with PhET simulation](phet-understanding-motivation-correlation.md) — related
+- [Sepsis knowledge correlates only weakly with self-rated confidence (r = .213)](weak-knowledge-confidence-correlation-sepsis.md) — related

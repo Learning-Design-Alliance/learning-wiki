@@ -48,3 +48,4 @@ Content sensitivity was tested by comparing iRAT distributions across themes usi
 - [Criterion-referenced peer review identifies the same struggling students as the iRAT, with students in the lowest iRAT decile receiving significantly lower peer ratings during themes 1–4.](tbl-peer-review-identifies-struggling-students.md) — related
 - [Individual weekly readiness assurance test (iRAT) scores are strongly predictive of summative examination performance (R²≈0.38–0.41) and reproducible over consecutive years.](tbl-readiness-scores-predict-summative-performance.md) — related
 - [IRAT performance shows a stronger association with final exam performance than TRAT performance does](irat-stronger-final-exam-association-than-trat.md) — related
+- [Exploratory theme-level analyses found performance differences between exam formats varied by curricular content area](theme-dependent-performance-variation.md) — related

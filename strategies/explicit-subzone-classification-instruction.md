@@ -17,7 +17,7 @@ sources:
 # Teach subzone classification explicitly as a teachable, assessable cognitive skill in clinical curricula
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends treating subzone classification as a teachable and assessable cognitive skill rather than policing AI use. It states: "A SCAN-informed curriculum treats subzone classification as a teachable and assessable cognitive skill." This requires explicit instruction on the four SCAN subzones, learner understanding that subzone assignment varies with progression from novice to expert, and formative feedback on classification accuracy to foster metacognitive ability.
@@ -41,6 +41,10 @@ The article recommends treating subzone classification as a teachable and assess
 
 ### Affordances
 - [Scan Framework Four Subzones Task Allocation](../theories/zpd-assessment-instruction-tool-gifted.md)
+
+## Claims
+
+- [Cavity classification distribution favored the HVRS group but was not statistically significant](../claims/hvrs-cavity-classification-not-significant.md) [~W]
 
 ## Related Strategies
 

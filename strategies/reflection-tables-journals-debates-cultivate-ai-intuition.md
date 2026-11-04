@@ -49,6 +49,7 @@ The article recommends instructional practices that make each phase of the exper
 - [Scaffold AI use without undermining student autonomy through structured prompts, ethical checklists, and reflection journals](scaffold-ai-use-preserving-autonomy.md)
 - [Staff development should make teaching principles explicit through articulation, reflection and evaluation, supported by institutional incentives and training](staff-development-articulate-teaching-principles.md)
 - [Three-phase challenge-understanding-reflection technology for forming critical thinking](challenge-understanding-reflection-technology.md)
+- [Run a preclass 30-minute AI literacy training covering query formulation and critical evaluation of AI output](preclass-ai-literacy-training-deepseek-pbl.md)
 
 ## Examples
 -

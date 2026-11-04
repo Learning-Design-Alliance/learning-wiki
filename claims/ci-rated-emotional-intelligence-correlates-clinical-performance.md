@@ -51,3 +51,4 @@ Review synthesis of an observational study in occupational therapy students comp
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [Work context, via acute stress and cognitive load, is a major moderator of emotional competence's impact on clinical reasoning](work-context-acute-stress-moderates-ec-cr.md) — related
 - [Emotional intelligence is not a strong predictor of clinical performance in rehabilitation science students](emotional-intelligence-not-strong-predictor-clinical-performance.md) — related
+- [Emotional intelligence correlates positively with self-directed learning among nursing students (r = 0.63)](ei-sdl-positive-correlation-nursing-students.md) — related

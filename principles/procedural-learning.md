@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (31 for, 16 mixed, 2 against) · 66 studies (33 causal, 14 review, 9 quant-synthesis, 7 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 11 of 66 report an effect size · 39 claims rest on one study
+> **Evidence** · 50 claims (31 for, 17 mixed, 2 against) · 67 studies (33 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 11 of 67 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
@@ -174,6 +174,7 @@ Accuracy with help, unaided accuracy, speed, delayed retention, choice among pro
 - [Random practice versus blocked practice shows no statistically significant difference on procedural performance tests](../claims/random-vs-blocked-practice-no-significant-difference.md) [-W]
 - [The teaching-skill advantage of hands-on supervision was maintained at two-month follow-up](../claims/hands-on-supervision-gains-maintained-follow-up.md) [+W]
 - [Simulation-based radiology training significantly improves procedural sequencing knowledge from pretest to posttest among medical technical assistant trainees](../claims/simulation-radiology-training-improves-procedural-sequencing.md) [~W]
+- [Higher-performing suturing groups differ mainly in suturing time, accurate needle passages, and unnecessary piercing points, not other components](../claims/suture-components-group-discrimination.md) [~W]
 
 ## Related Principles
 - [Explicit Instruction](direct-instruction.md) — often supplies the visible model and sequence that procedural learning needs
@@ -188,6 +189,7 @@ Accuracy with help, unaided accuracy, speed, delayed retention, choice among pro
 ## Examples
 
 - [Pair a pre-test anastomosis attempt with standardized video instruction and supervised practice before a post-test on the same simulator](../strategies/video-instruction-supervised-practice-prepost-strategy.md)
+- [Simulation-first framework: acquire foundational procedural skills on simulation models before clinical practice](../strategies/simulation-first-foundational-skills-before-clinical.md)
 
 ### Illustrative
 

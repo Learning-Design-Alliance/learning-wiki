@@ -49,3 +49,4 @@ Descriptive design report of a module for a first-year Heat Transfer course with
 - PjBL assessment research should evaluate outcomes across all four quadrants, not only Flexible-Cooperative designs — related
 - [Learning styles measured by Kolb's inventory showed no significant change over one year of varied instruction](kolb-learning-style-stable-over-one-year.md) — related
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — related
+- [The e-learning platform mapped onto the four stages of the Kolb experiential learning cycle within a blended learning design](kolb-cycle-blended-elearning-mapping.md) — related

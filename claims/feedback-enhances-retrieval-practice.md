@@ -140,3 +140,4 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 - [Feedback played little, if any, role in brain-activity modulation after the first successful retrieval](feedback-little-role-after-first-successful-retrieval.md) — reports the opposite
 - [Going back to easier skills immediately reduces the error rate and increases the learning rate](going-back-improves-error-rate-and-learning-rate.md) — related
 - [Virtual simulation teaching enhances learning outcomes and deepens professional cognition through repeated practice, trial-and-error, and error-correction feedback](vs-advantages-learning-outcomes.md) — related
+- [Elaborate feedback produces larger achievement effects than corrective feedback in computer-based assessment](elaborate-feedback-larger-effects-than-corrective-cba.md) — related

@@ -92,3 +92,4 @@ RCT of 67 medical students comparing a VSP intervention group to a video module 
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on
 - [RCTs report objective behavioral changes after simulation training, including increased peer referral, longer crisis-line calls, and improved management of suicidal crises](simulation-behavior-changes-rcts-suicide.md) — related
 - [Skills outcomes for digital education on guidelines are mixed: simulation modules outperform printed guidelines and no intervention, but video demonstration underperforms peer teaching](digital-education-guidelines-skills-mixed.md) — related
+- [Training produces only a non-significant increasing trend in diagnostic accuracy among students](training-accuracy-nonsignificant-trend.md) — related

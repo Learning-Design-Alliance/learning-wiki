@@ -25,7 +25,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (22 for, 8 mixed, 2 against) · 48 studies (15 review, 13 quant-synthesis, 11 causal, 4 qualitative, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 9 of 48 report an effect size · 21 claims rest on one study
+> **Evidence** · 33 claims (23 for, 8 mixed, 2 against) · 49 studies (15 review, 13 quant-synthesis, 11 causal, 4 qualitative, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 9 of 49 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,7 @@ A good debrief conversation, a correct stated change, the next performance, dela
 - [Debriefing was a central element of nearly all reviewed palliative/EOL communication SBLEs, but methods varied widely](../claims/debriefing-central-sble-palliative-communication.md) [+W]
 - [Roundtable debriefing in the emergency department produced no statistically significant reduction in patient fall rates](../claims/roundtable-debriefing-no-fall-reduction.md) [-W]
 - [Trainees valued grief training activities involving reflection, debriefing with peers and the direct involvement of bereaved caregivers](../claims/trainees-value-reflective-and-bereaved-caregiver-involvement.md) [+W]
+- [CHW trainees value real-time SP feedback and debriefing for refining MI techniques and deepening learning](../claims/chws-value-sp-feedback-and-debriefing-in-mi-simulation-training.md) [+W]
 
 ## Related Principles
 - [Purposeful Reflection](reflection.md) — debriefing is one of the most structured forms of reflection after action
@@ -184,6 +185,7 @@ A good debrief conversation, a correct stated change, the next performance, dela
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](../strategies/blended-pearls-chat-debrief-strategy.md)
 - [Include debriefing with reflective questions after simulation sessions before receiving feedback](../strategies/debriefing-before-feedback-simulations.md)
 - [Use clinical pause points during simulation debriefing to promote timely knowledge construction and clinical judgement](../strategies/clinical-pause-simulation-debriefing.md)
+- [Use learner-led open-ended debriefing after each standardized patient encounter](../strategies/learner-led-debriefing-after-simulation-encounters.md)
 
 ## Key Sources
 - Cheng, A., Grant, V., Dieckmann, P., Arora, S., Robinson, T., & Eppich, W. (2015). Faculty development for simulation programs. *Simulation in Healthcare, 10*(4), 217-222. [doi:10.1097/SIH.0000000000000090](https://doi.org/10.1097/SIH.0000000000000090)

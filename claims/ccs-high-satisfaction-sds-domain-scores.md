@@ -49,3 +49,4 @@ Quantitative component of a descriptive mixed-methods study: 103 second-year nur
 - [Learners self-reported high satisfaction (4.4/5) and perceived educational value (4.9/5) for the curriculum](pem-sbl-high-satisfaction-educational-value.md) — related
 - [VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
 - [In a 16-rater usability survey after a session, CoLearn scores an overall mean of 4.0/5 with no dimension below ≈3.7, and 75% (12/16) would reuse it; Responsiveness is the lowest dimension](collearn-usability-survey-4-of-5.md) — related
+- [Students assigned the highest clinical education scores to instructor performance and monitoring and evaluation, and the lowest to the learning environment.](instructor-monitoring-highest-environment-lowest-scores.md) — related

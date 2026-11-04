@@ -55,3 +55,4 @@ Synthesized negative-experience finding from the meta-synthesis; students worrie
 - [Students report that progressive simulation practice builds handover confidence by reducing anxiety](progressive-simulation-practice-builds-confidence.md) — reports the opposite
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — reports the opposite
 - [Students experience anxiety and nervousness during simulation but recognize emotional regulation as central to safe patient interaction](simulation-emotional-regulation-anxiety.md) — related
+- [Surgical trainees show a dual emotional pattern of high engagement alongside early signs of burnout](surgical-trainees-emotional-strain-burnout-signs.md) — related

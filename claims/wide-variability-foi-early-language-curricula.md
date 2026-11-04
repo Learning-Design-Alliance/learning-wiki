@@ -101,3 +101,4 @@ Summary of adherence, dosage, and satisfaction data across the three Developing 
 - [Treatment teachers implemented proportional problem solving instruction with substantially higher fidelity to SBI practices than control teachers](sbi-fidelity-implementation-differences.md) — related
 - [Treatment parents averaged eight weeks of intervention engagement, ranging from four to fifteen weeks](intervention-fidelity-eight-weeks-average.md) — related
 - [In the TESLA project, fidelity of implementation scores varied from a low of 29 to a high of 50 out of a possible 73 across nine videotaped teachers](tesla-fidelity-scores-varied-29-to-50.md) — a narrower finding that bears on this claim
+- [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](spoc-blended-package-high-adherence.md) — a narrower finding that bears on this claim

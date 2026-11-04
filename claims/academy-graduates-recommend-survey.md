@@ -52,3 +52,4 @@ A survey of Academy graduates described in the practitioner article found 100 pe
 - Students recommended ChatGPT to peers and suggested improvements to accent recognition, visual aids, and response time — related
 - [All participants intended to continue integrating AI into teaching and to recommend the institute, and 70% had already begun implementing AI-enhanced tools or assignments](ubridge-implementation-intentions.md) — related
 - [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related
+- [Participants were highly satisfied with the workshop and all would recommend it to colleagues](bronchoscopy-workshop-high-satisfaction.md) — related

@@ -47,3 +47,4 @@ Within-student transition analysis classifying each of 95 students by dominant H
 ## Related Claims
 - [Role framing shifts toward non-use in team contexts, with non-use more than doubling](role-framing-shifts-toward-non-use-in-teams.md) — related
 - [Prompting technique distribution shifts in teams, driven by students reporting no technique at all](prompting-technique-disengagement-in-teams.md) — related
+- [13 of 15 students stopped using the app halfway through placement as their attitude shifted from learning to working](app-usage-faded-learning-to-working-attitude-shift.md) — related

@@ -76,3 +76,6 @@ The review reports four controlled comparisons with null results: lecture-based 
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [The simulation session increased intern self-reported confidence in managing post-ROSC patients and communicating handoffs](post-rosc-simulation-increased-confidence.md) — a narrower finding that bears on this claim
 - [Simulation-based handoff training with a structured communication tool enhanced nurse anesthesia students' perceived confidence in team communication and patient safety interventions.](sim-handoff-training-increased-perceived-team-communication-safety-confidence.md) — a narrower finding that bears on this claim
+- [In situ simulated emergency training added to routine training raises self-rated first aid ability in junior nurses](in-situ-set-improves-first-aid-junior-nurses.md) — related
+- [In situ simulated emergency training does not significantly improve clinical communication in junior nurses](in-situ-set-no-effect-clinical-communication.md) — related
+- [In situ simulated emergency training does not significantly improve critical thinking in junior nurses](in-situ-set-no-effect-critical-thinking.md) — related

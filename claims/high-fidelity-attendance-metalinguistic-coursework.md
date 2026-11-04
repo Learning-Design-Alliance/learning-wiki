@@ -49,3 +49,4 @@ Intervention fidelity and attendance checks reported in the Methodology: a docto
 - [Implementation fidelity and global instructional quality were high across the intervention's instructional components](high-fidelity-vocabulary-self-regulation-tutoring.md) — related
 - [Teachers allocated on average five percent of intervention sessions to predicting and purpose setting, with fidelity of implementation averaging 45.4%](low-time-and-fidelity-engaged-reader-processes.md) — related
 - [Preservice teachers completing 10 hours of metalinguistic coursework outperformed preservice teachers without such content in phoneme and morpheme identification](ten-hours-metalinguistic-coursework-outperforms-untrained-preservice.md) — related
+- [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](spoc-blended-package-high-adherence.md) — related

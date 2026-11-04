@@ -50,3 +50,4 @@ Descriptive attendance analysis of the treatment group's session logs across 274
 - [Offering SI costs about €385.88 per invited student (€154 when set-up costs are spread over subsequent quarters)](si-cost-per-student.md) — related
 - [Offering Supplemental Instruction raises first-year students' course grades (d = 0.26) in a randomized field experiment](si-offer-raises-grades-rct.md) — related
 - [Most students would use CHLS regularly but only about a quarter saw it replacing private tutoring](chls-supplement-not-tutoring-replacement.md) — related
+- [Participation in the Puzzle activity is higher when integrated into the regular academic schedule than when offered in ad hoc sessions](puzzle-participation-higher-in-regular-schedule.md) — related

@@ -51,3 +51,4 @@ One-way ANOVA over the five groups (N = 80): pretest F = 10.36, Sig. 0.00; postt
 - [Grade-8 students could be classified into the four Hersey and Blanchard readiness levels using a percentage-based questionnaire](readiness-level-classification-percentage-questionnaire.md) — related
 - [Matching teaching style to students' readiness level raised grade-8 science achievement relative to traditional teaching](situational-leadership-teaching-raises-achievement-grade8.md) — a broader claim this one bears on
 - [One-way ANOVA on posttest scores showed a statistically significant difference among the subtitle, no-subtitle, and control groups (F = 84.161, Sig. = .000)](anova-significant-difference-three-groups-vocabulary.md) — related
+- [Accuracy differs significantly among the three intervention groups on the quiz, with graded values across groups](puzzle-intervention-groups-graded-quiz-accuracy.md) — related

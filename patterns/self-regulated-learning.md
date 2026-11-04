@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 89 claims (36 for, 49 mixed, 4 against) · 74 studies (28 causal, 14 review, 10 associational, 9 quant-synthesis, 8 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 18 of 74 report an effect size · 82 claims rest on one study
+> **Evidence** · 90 claims (36 for, 50 mixed, 4 against) · 75 studies (28 causal, 14 review, 10 associational, 9 quant-synthesis, 8 theoretical, 5 design, 1 qualitative), `q1`–`q4` · 18 of 75 report an effect size · 83 claims rest on one study
 
 ## Description and scope
 
@@ -155,6 +155,7 @@ This pattern is scoped to regulation attached to subject-matter tasks over a uni
 - [Mentor-guided SRL approaches positively affected residents' practice, including progressive independence in goal setting and improved practice habits](../claims/mentor-guided-srl-positive-resident-practice.md) [+W]
 - [Identified SRL interventions all focused on goal setting and monitoring and none on supporting self-evaluation](../claims/srl-interventions-neglect-self-evaluation.md) [~W]
 - [Both SRL strategies improved speaking from pre-test to immediate and delayed post-tests, with gains persisting in the long run](../claims/srl-strategies-short-long-run-speaking-gains.md) [+W]
+- [Students who could already self-regulate their learning had less need for the reflection app](../claims/self-regulating-students-less-need-reflection-app.md) [~W]
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

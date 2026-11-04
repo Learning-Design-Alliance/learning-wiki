@@ -46,3 +46,4 @@ Conclusions section of the action research reporting the distribution of Sinclai
 
 ## Related Claims
 - [Experimental-group students held more positive attitudes toward flexible hypertext course design than control-group students toward direct design (t = 4.723)](cft-hypertext-design-more-positive-attitudes.md) — related
+- [Cavity classification distribution favored the HVRS group but was not statistically significant](hvrs-cavity-classification-not-significant.md) — related

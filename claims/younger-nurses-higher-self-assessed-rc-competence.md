@@ -51,3 +51,4 @@ One-way ANOVA on survey data from 438 nursing professionals. The article reports
 - [Rehabilitation-unit nursing professionals reported higher RC competence than those in home care](rehabilitation-unit-higher-competence-than-home-care.md) — related
 - [Age is significantly associated with leaders' ICT use, with younger nurse leaders more able than older counterparts](age-associated-ict-use-nurse-leaders.md) — related
 - [Higher work experience and administrative experience are associated with lower ICT use and informatics competencies](experience-negatively-associated-digital-competence.md) — related
+- [Age group and staff position are the only demographic factors associated with significant growth in perceived competency, with registered nurses and nurses aged 30–34 showing the greatest gains](age-and-staff-position-moderate-competency-growth.md) — related

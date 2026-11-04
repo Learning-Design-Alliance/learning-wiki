@@ -54,3 +54,4 @@ Multiple linear regression on the full sample of 3528 nurses with variables sele
 - [Nurses in tertiary hospitals scored higher on PICC care knowledge than nurses in secondary/primary hospitals](tertiary-hospital-nurses-higher-picc-knowledge.md) — possibly the same claim (merge candidate)
 - [Nurses who reported a need for further PICC care training scored higher on knowledge, possibly reflecting reverse causation consistent with the Dunning–Kruger effect](training-need-positive-association-dunning-kruger.md) — possibly the same claim (merge candidate)
 - [Working years were not independently associated with PICC care knowledge after adjustment for other variables](working-years-not-independently-associated-picc-knowledge.md) — related
+- [Higher education, senior job grade, and acute-care employment independently predict sepsis knowledge (R² = 0.156)](education-grade-setting-predict-sepsis-knowledge.md) — related

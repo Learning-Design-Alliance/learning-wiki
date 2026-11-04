@@ -56,3 +56,4 @@ Structural equation model estimated on the same N = 1287 student survey sample, 
 - [Self-reported intrinsic cognitive load correlates positively with anxiety and challenge and negatively with probability of success in an algebra task](intrinsic-cognitive-load-correlates-with-anxiety-challenge-and-lower-probability-of-success.md) — related
 - [Autonomous or intrinsic motivation is positively associated with academic performance, while controlled or extrinsic motivation shows minimal or negative associations](autonomous-motivation-positive-controlled-motivation-not.md) — related
 - [Usability correlates negatively with extraneous load and positively with engagement, and flow correlates positively with engagement](correlations-among-usability-load-flow-engagement.md) — related
+- [Cognitive load was positively associated with pedagogical knowledge but negatively associated with teaching efficacy](cognitive-load-opposite-associations-knowledge-efficacy.md) — related

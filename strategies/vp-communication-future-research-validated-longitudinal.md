@@ -62,6 +62,8 @@ The review recommends that future research prioritize standardized and validated
 - [Adopt better methodologies and validated tools for identifying long-term EBP competency retention and for measuring attitude change](better-methods-for-retention-and-attitude-measurement.md)
 - [Use structural equation modeling and standardized assessments to test the SVR with deaf learners](sem-standardized-assessments-svr-deaf-research.md)
 - [Assign clerkship students to follow a single patient longitudinally from outpatient visit through surgery and postoperative review](longitudinal-patient-following-strategy.md)
+- [Design future AR simulation studies with objective performance measures, controlled comparative designs and validated usability instruments](ar-simulation-future-study-design-recommendations.md)
+- [Future evaluative research protocols should include avoidance of involuntary hospital admissions as a key outcome and use both PROMs and PREMs](proms-prems-involuntary-admission-evaluation.md)
 
 ## Examples
 -

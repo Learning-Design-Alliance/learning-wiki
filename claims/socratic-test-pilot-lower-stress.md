@@ -54,3 +54,4 @@ Survey of the Spring 2026 pilot deployment across three university courses (Figu
 - [Dental students in a revised low-stress TBL format reported lower stress and frustration than medical students in the original format, in a non-randomised comparison of two cohorts](low-stress-tbl-lower-stress-frustration.md) — related
 - [Students reported significantly lower anxiety during AIvaluate-mediated viva sessions than during equivalent face-to-face viva assessments](aivaluate-lower-anxiety-than-face-to-face-viva.md) — related
 - [Voice recording during DA sessions was stressful for learners and affected their performance, especially in initial sessions](voice-recording-stress-mediation-problem-da.md) — related
+- [Most students reported lower pre-exam anxiety before the collaborative whisper exam compared to traditional individual written examinations](whisper-exam-lower-perceived-stress.md) — related

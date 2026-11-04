@@ -54,6 +54,7 @@ The review's implications for practice identify three shared features of effecti
 - [Deliver embedded EF-mathematics activities through educator professional development plus flexible weekly activity selection](educator-pd-with-flexible-integrated-ef-math-activities.md)
 - [Integrate high-fidelity body donor models with low-fidelity simulators across the training progression](integrate-high-and-low-fidelity-simulation.md)
 - [Deliberately select instructional design features when developing simulation training modules](deliberately-select-design-features-simulation.md)
+- [Enable SBE integration through clearer definitions, targeted educator training, and institutional support including shared resources](sbe-enablement-definitions-training-institutional-support.md)
 
 ## Examples
 -

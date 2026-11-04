@@ -39,6 +39,7 @@ The article recommends combining LLM-based analysis with Learning Analytics dash
 ## Related Strategies
 
 - [Use overlapping multi-slide windows and deck-level reconciliation rather than per-slide generation](overlapping-windows-deck-reconciliation-strategy.md)
+- [Use non-linear slide decks to deliver individualized PBL assessments](non-linear-slide-decks-individualized-pbl-strategy.md)
 
 ## Examples
 -

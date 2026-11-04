@@ -46,3 +46,4 @@ Action-research pilot comparing written productions of B1 students who self-sele
 
 ## Related Claims
 - [Twelve of fifteen targeted forms appeared more frequently in productions of students who completed pre-tasks, but frequency differences were slight and non-significant](targeted-form-frequency-slight-nonsignificant-differences.md) — possibly the same claim (merge candidate)
+- [Both groups perform comparably on basic tasks such as completing medical history forms and pre-LA aspiration](comparable-basic-task-performance-between-groups.md) — related

@@ -79,3 +79,4 @@ Derived from the meta-analytic Alpha using the Spearman–Brown formula. The exp
 - Fixed alpha cutoff values create publication bias so knowledge tests with low alphas are underrepresented in the literature — related
 - [The homogenization pretest used in the game-based vocabulary study showed high reliability (Cronbach's alpha = 0.87)](vocabulary-pretest-reliability-alpha-087.md) — a narrower finding that bears on this claim
 - [The multiple intelligences questionnaire demonstrated reliability with an overall Cronbach's alpha of 0.8587](mi-questionnaire-reliability.md) — related
+- [GenAI-assisted item sets showed lower KR-20 internal consistency reliability, and Spearman-Brown projections implied far more items would be needed to reach KR-20=0.70](genai-mcq-lower-reliability.md) — a narrower finding that bears on this claim

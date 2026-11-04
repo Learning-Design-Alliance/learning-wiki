@@ -71,3 +71,4 @@ Stepwise regression performed to confirm robustness of the simultaneous model in
 - [Multivariable regression confirms gender and university as independent predictors of knowledge score](regression-gender-university-predictors-knowledge-syria.md) — related
 - [Sense of coherence correlates positively with GPA among medical and nursing students (r = 0.519)](soc-positive-correlation-gpa-medical-nursing.md) — related
 - [Students with internal LOC show higher GPA and SOC than students with external LOC](internal-loc-higher-gpa-soc.md) — related
+- [GPA shows a significant positive correlation with oral disease diagnostic performance (p < 0.001) while age shows no significant association](gpa-positive-correlation-diagnostic-performance.md) — related

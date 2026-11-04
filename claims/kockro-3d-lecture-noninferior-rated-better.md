@@ -73,3 +73,4 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [VR lecture rated more enjoyable, more effective, and less boring than slideshow lecture](vr-lecture-enjoyment-effectiveness-boredom.md) — related
 - [Metaverse-based interactive VR instruction is associated with higher overall anatomy test performance than a conventional 2D online lecture](metaverse-vr-higher-overall-anatomy-test-performance.md) — reports the opposite
 - [The within-student spatial–factual difference score shifts from negative in the Conventional cohort to positive in the VR cohort](within-student-spatial-factual-delta-shift.md) — related
+- [Knowledge-examination gains from VR training are domain-specific](vr-knowledge-gains-domain-specific.md) — related

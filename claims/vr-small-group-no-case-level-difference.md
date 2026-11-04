@@ -50,3 +50,4 @@ Per-case analysis of the randomized fellow assessment, reported in Results and F
 - [VR training increased confidence on all 4 perceived competence scale items, while small group training increased only 2 of 4](vr-confidence-gains-all-pcs-items.md) — related
 - [Immersive VR simulation is noninferior to live simulation for developing teamwork and communication skills](vr-noninferior-to-live-simulation-teamwork-communication.md) — related
 - [The curriculum provided each fellow numerous critical procedure opportunities, with a mean of 27 critical care procedures performed (67.5% of opportunities)](sbl-curriculum-critical-procedure-opportunities.md) — related
+- [Item-level gains favoring PLAN A scenarios are hypothesis-generating, with no significant between-group difference on any individual case](plan-a-item-level-exploratory-gains.md) — related

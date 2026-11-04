@@ -72,3 +72,4 @@ T-test analysis of pre-test and post-test scores reported in Table 2: experiment
 - [The experimental group's mean listening score rose from 51.56 on the pre-test to 69.86 on the post-test](experimental-group-mean-rose-51-56-to-69-86.md) — related
 - [Both groups improved vocabulary retention from pre-test to post-test, with a larger gain in the PowerPoint group](within-group-vocabulary-gains-both-conditions.md) — reports the opposite
 - [The experimental group showed a statistically significant pre-test to post-test gain in academic achievement.](experimental-group-significant-achievement-gain.md) — related
+- [Both groups improved significantly from pre- to post-test, with a larger within-group gain in the flipped classroom group (d = 1.87 vs. d = 0.86)](within-group-gains-larger-flipped-group.md) — reports the opposite

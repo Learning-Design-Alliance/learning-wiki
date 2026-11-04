@@ -50,3 +50,4 @@ Quasi-experimental pre–post survey of matched dental students (n = 77) in a Ch
 - [Seven of ten CSAS subscales showed no significant pre–post change after service-learning, likely due to a ceiling effect](seven-csas-subscales-no-change-ceiling.md) — related
 - [Attitudinal changes after service-learning did not differ significantly by sex or prior community service experience](attitude-change-no-sex-or-experience-differences.md) — related
 - [Service-learning participation is associated with a large reduction in dental students' perceived costs of community engagement](service-learning-perceived-costs-reduction.md) — related
+- [Service learning participation is associated with improved dental knowledge scores in fourth-year dental students](service-learning-improves-dental-knowledge-scores.md) — related

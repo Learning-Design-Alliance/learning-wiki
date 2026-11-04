@@ -49,3 +49,5 @@ In the RCT of 70 medical students, domain-level ANCOVA comparisons of interventi
 - [The adjusted intervention effect varied across Mini-CEX domains, largest for therapeutic planning (MD 3.96) and diagnostic planning (MD 3.70) and smallest for history taking (MD 2.87)](serious-game-domain-effect-size-variation.md) — a narrower finding that bears on this claim
 - [At baseline, the intervention and control groups showed no statistically significant differences in demographics, evaluation location, or referral type, and comparable low pre-intervention Mini-CEX scores](serious-game-burn-trial-baseline-equivalence.md) — related
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — related
+- [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
+- [Item-level analysis showed significant improvement on 9 of 10 peer instruction questions after Holm–Bonferroni correction.](pi-item-level-improvement-nine-of-ten.md) — related

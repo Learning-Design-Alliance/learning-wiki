@@ -60,3 +60,4 @@ These four outcomes (problem-solving, self-directed learning, communication skil
 - [DPBL students scored higher than direct instruction students on knowledge, creative thinking, and teamwork in a Computer Networks course](dpbl-outperformed-direct-instruction-outcomes.md) — related
 - [Students perceived PBL as providing significant benefits to presentation skills, teamwork, leadership and ability to use IT](pbl-significant-perceived-skill-benefits.md) — related
 - [Students taught with the 5E+AI model reported significantly higher learning interest, self-perceived communication competence, and course satisfaction](5e-ai-model-improved-self-report-questionnaire-dimensions.md) — related
+- [In the same RCT, PBL combined with virtual simulation produced significantly higher total critical thinking scores than lecture-based teaching (314.12 ± 10.68 vs. 270.28 ± 19.76, p < 0.05)](pbl-virtual-simulation-higher-critical-thinking-trauma-orthopedics.md) — related

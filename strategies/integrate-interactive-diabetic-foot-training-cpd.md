@@ -63,6 +63,7 @@ The review recommends that structured, interactive and hands-on diabetic foot ca
 - [Use targeted educational interventions — continuing education, dissection courses, generative retrieval and integrated anatomy training — to sustain basic science retention](targeted-interventions-sustain-basic-science-retention.md)
 - [Design dementia e-learning with tailored professional materials, realistic experience-based tasks, and varied teaching methods](dementia-elearning-design-key-features.md)
 - [Embed the Long COVID core competencies in training and professional development to standardize practices and improve patient outcomes](embed-competencies-in-long-covid-training.md)
+- [Prioritize experiential and reflective ethics education over didactic approaches in nursing curricula and continuing professional development](experiential-reflective-ethics-education-strategy.md)
 
 ## Examples
 -

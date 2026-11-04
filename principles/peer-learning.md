@@ -51,7 +51,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 61 claims (35 for, 25 mixed, 1 against) · 63 studies (19 causal, 13 quant-synthesis, 10 review, 7 qualitative, 5 associational, 5 design, 4 theoretical), `q1`–`q4` · 14 of 63 report an effect size · 53 claims rest on one study
+> **Evidence** · 62 claims (35 for, 26 mixed, 1 against) · 64 studies (19 causal, 13 quant-synthesis, 10 review, 7 qualitative, 6 design, 5 associational, 4 theoretical), `q1`–`q4` · 14 of 64 report an effect size · 54 claims rest on one study
 
 ## Conditional relationship
 
@@ -204,6 +204,7 @@ Pair performance, each learner's immediate unaided performance, delayed retentio
 - [Computer-assisted elaborative feedback with partner exchange sharpened Japanese EFL majors' reading skills](../claims/computer-assisted-feedback-reading-skills.md) [+W]
 - [Tutees attribute their learning during peer tutoring to significant materials, direct and adjusted help from tutors, and dialogue between partners](../claims/focus-group-tutee-learning-causes.md) [+W]
 - [Peer-assisted mediation within dynamic assessment produced significantly greater writing development than tutor-intervention for intermediate EFL learners.](../claims/peer-mediation-beats-tutor-intervention-writing.md) [+W]
+- [Free-text comments raised fairness concerns about pairing with a weaker partner and technical and organizational issues with the digital format](../claims/whisper-exam-fairness-and-digital-format-criticisms.md) [~W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — one of the clearest vehicles for peer learning

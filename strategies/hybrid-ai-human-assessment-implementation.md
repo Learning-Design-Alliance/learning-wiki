@@ -51,6 +51,7 @@ The article's implications recommend that institutions "avoid positioning AI as 
 - [Adopt a hybrid human-AI tutoring model rather than replacing expert instructors with AI](hybrid-human-ai-surgical-tutoring-model.md)
 - [Use LLMs in medical education as support tools requiring human review, not as independent decision-makers or authoritative instructors](llms-as-support-tools-medical-education.md)
 - [Use LLMs in supervised settings to generate formative question variants and structured self-assessments for surgical trainees, while guarding against knowledge miscalibration.](supervised-llm-formative-question-generation-surgical-training.md)
+- [Use AI-based assessment periodically for formative feedback while avoiding AI in summative assessment](ai-formative-not-summative-assessment-strategy.md)
 
 ## Examples
 -

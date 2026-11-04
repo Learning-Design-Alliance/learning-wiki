@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 82 claims (42 for, 39 mixed, 1 against) · 61 studies (27 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 61 report an effect size · 77 claims rest on one study
+> **Evidence** · 84 claims (43 for, 39 mixed, 2 against) · 62 studies (28 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 62 report an effect size · 79 claims rest on one study
 
 ## Description and scope
 
@@ -196,6 +196,8 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 - [Students rated the integrated VP session positively, with role modelling (M = 4.44) and varied case practice (M = 4.35) rated higher than “what-if” discussions (M = 3.76)](../claims/positive-perceptions-vp-role-modelling-varied-cases-what-if.md) [+W]
 - [Students reported that stepwise build-up in case complexity and recognition of similar reasoning steps across cases supported transfer](../claims/stepwise-complexity-similar-reasoning-steps-themes.md) [+W]
 - [Students preferred face-to-face delivery over virtual delivery for both CBL and GBL](../claims/face-to-face-preferred-over-virtual.md) [~W]
+- [Students taught with integrated Rain Classroom and CBL scored significantly lower on objective questions than students taught with traditional lectures](../claims/rain-classroom-cbl-lower-objective-scores.md) [-W]
+- [Students taught with integrated Rain Classroom and CBL scored significantly higher on subjective questions than students taught with traditional lectures](../claims/rain-classroom-cbl-higher-subjective-scores.md) [+W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)

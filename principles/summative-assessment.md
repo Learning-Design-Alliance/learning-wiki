@@ -20,7 +20,7 @@ sources:
 # Summative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 71 claims (15 for, 43 mixed, 13 against) · 59 studies (17 associational, 15 theoretical, 8 review, 6 causal, 6 qualitative, 4 design, 3 quant-synthesis), `q1`–`q4` · 4 of 59 report an effect size · 69 claims rest on one study
+> **Evidence** · 72 claims (15 for, 44 mixed, 13 against) · 60 studies (17 associational, 15 theoretical, 8 review, 7 causal, 6 qualitative, 4 design, 3 quant-synthesis), `q1`–`q4` · 4 of 60 report an effect size · 70 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,7 @@ A summative score at the end of a course, retention months later, transfer to a 
 - [Contextual factors (learner level, discipline, format) moderate Angoff outcomes](../claims/angoff-contextual-moderators.md) [~W]
 - [Final-product analysis and procedure time have mixed validity evidence and are unlikely to be useful in isolation as measures of technical proficiency](../claims/final-product-and-procedure-time-mixed-validity-adjunctive.md) [~W]
 - [Global rating scales discriminate between performance levels without a ceiling effect, making them useful for high-stakes summative assessment of advanced residents](../claims/global-rating-scales-summative-advanced-residents.md) [~W]
+- [Exploratory theme-level analyses found performance differences between exam formats varied by curricular content area](../claims/theme-dependent-performance-variation.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

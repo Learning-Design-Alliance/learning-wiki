@@ -49,3 +49,4 @@ Post-busuu survey of the research group on usage behaviour. The article reports 
 - [Most participants assigned to the app downloaded it, but fewer engaged, averaging about 11 days and 128 minutes of practice over four weeks](hmp-app-engagement-adherence-pattern.md) — related
 - [Intervention dosage (duration, frequency, intensity) shows no consistent association with app effect sizes](app-dosage-no-consistent-association.md) — related
 - [Students found busuu easy and useful especially for vocabulary and writing, but 73.3% thought it helps without being the ultimate tool, and language learning apps were largely unknown to them](busuu-user-satisfaction-limited-help.md) — related
+- [Weekly reflections were barely used while learning goals and daily reflections dominated actual app use](weekly-reflections-barely-used-goals-daily-dominant.md) — related

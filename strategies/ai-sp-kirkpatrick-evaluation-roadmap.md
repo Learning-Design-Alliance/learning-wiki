@@ -46,7 +46,8 @@ The article proposes a testable evaluation framework based on Kirkpatrick's 4-le
 - [Structurally designed AI-SPs are noninferior to human SPs in communication skill improvement, with unique advantages for self-efficacy](../claims/ai-sp-noninferior-communication-skills.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use the MEES questionnaire to evaluate postgraduate medical e-learning at Kirkpatrick levels 1 and 2](mees-questionnaire-elearning-evaluation-strategy.md)
 
 ## Examples
 -

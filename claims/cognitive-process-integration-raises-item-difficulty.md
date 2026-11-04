@@ -91,3 +91,4 @@ Three separate regressions at item-group level; selecting items explained 40.3% 
 - [CASTLE's cognitive influence hypothesis states that (para-)social processes influence selection, organization, integration, and retrieval of information](parasocial-processes-influence-cognitive-processing.md) — related
 - [Test tasks requiring analysis, selection and organization of elements give better predictive results per unit cost than simpler tasks](analytic-tasks-better-prediction-per-cost.md) — related
 - [Recall versus recognition response format changes difficulty estimates for vocabulary items](recall-recognition-difficulty-differ.md) — related
+- [Participant ratings of perceived difficulty, clarity, and relevance did not differ by item origin, and subjective difficulty ratings tracked objective item difficulty](genai-mcq-participant-ratings-no-difference.md) — related

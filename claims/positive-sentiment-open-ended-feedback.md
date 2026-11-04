@@ -59,3 +59,4 @@ Sentiment analysis of open-ended survey responses conducted by ChatGPT4, which t
 - [A minority of students raised negative opinions about the timing of posts and redundant messages within the group](whatsapp-timing-and-redundant-message-complaints.md) — a narrower finding that bears on this claim
 - [Participants held positive attitudes toward Web-based reading strategy instruction](positive-attitudes-toward-web-based-strategy-instruction.md) — related
 - [Students overwhelmingly reported that animation use positively affected their grammar success, citing permanence, repetition, understanding, interest and participation](students-report-animation-aided-success.md) — related
+- [Participant satisfaction with the AISP platform was overwhelmingly positive, with perceived cultural safety](aisp-positive-satisfaction.md) — related

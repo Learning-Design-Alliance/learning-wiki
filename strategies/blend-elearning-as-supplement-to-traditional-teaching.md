@@ -59,6 +59,7 @@ The review's design recommendation is that educators should not seek to replace 
 - [Blend web-based and traditional approaches rather than replacing classroom instruction with web-based instruction](amalgamate-web-based-and-traditional-approaches.md)
 - [Use AI language models as adjunctive tools in medical education, especially for test preparation or knowledge reinforcement](ai-adjunctive-tool-medical-education-test-prep.md)
 - [Incorporate puzzle-based blended learning into undergraduate EBM curricula, particularly for complex clinical reasoning and evidence appraisal skills](puzzle-blended-learning-ebm-curriculum-strategy.md)
+- [Integrate web-based case analysis tools into blended learning combining digital case-based practice with face-to-face teaching](blended-digital-analogue-case-analysis-strategy.md)
 
 ## Examples
 -

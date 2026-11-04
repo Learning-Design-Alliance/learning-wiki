@@ -31,7 +31,7 @@ sources:
 # Community-Based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (14 for, 10 mixed) · 23 studies (5 review, 5 qualitative, 4 causal, 3 associational, 2 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 3 of 23 report an effect size · 22 claims rest on one study
+> **Evidence** · 27 claims (17 for, 10 mixed) · 24 studies (5 review, 5 qualitative, 4 causal, 4 associational, 2 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 3 of 24 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,9 @@ Civic attitudes, self-reported self-efficacy, the quality of reflection, content
 
 - [Reciprocity in SL requires meaningful relationships and hearing the voices of those served](../claims/sl-reciprocity-voices-of-served.md) [~W]
 - [SL placement duration and mentor preparation moderate the effectiveness of SL experiences](../claims/sl-duration-and-mentor-moderators.md) [~W]
+- [Service learning participation is associated with increased self-efficacy for ASD-specific oral health tasks](../claims/service-learning-increases-self-efficacy-asd-oral-health.md) [+W]
+- [Service learning participation is associated with more positive attitudes and greater willingness toward oral health practice](../claims/service-learning-improves-attitudes-willingness.md) [+W]
+- [Service learning participation is associated with improved dental knowledge scores in fourth-year dental students](../claims/service-learning-improves-dental-knowledge-scores.md) [+W]
 
 ## Related Principles
 - [Communities of Practice](communities-of-practice.md) — emphasizes learning through increasing participation in a practice community

@@ -48,3 +48,4 @@ Image-association analysis across two administration routes using human facility
 ## Related Claims
 - [LLM accuracy drops from 96% on text-only to 74% on multimodal physics problems, with significant differences emerging among models](multimodal-physics-accuracy-drops-to-74-percent.md) — related
 - [Frontier LLMs achieve near-ceiling accuracy on all four 2026 Spanish specialty-access examinations, with the strongest configuration at 94.8% pooled accuracy](frontier-llm-near-ceiling-accuracy-spanish-specialty-exams.md) — related
+- [The effect of images on exam performance is moderated by academic semester, with a markedly larger benefit for early-semester students](semester-moderates-image-effect-on-performance.md) — related

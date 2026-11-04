@@ -44,6 +44,7 @@ The article recommends specific educational strategies: simulations that include
 - [Design simulation-based IPE scenarios that give every profession an active problem-solving role](scenario-design-active-participation-across-professions.md)
 - [Redesign the geriatric curriculum to comprehensively cover interdisciplinary teamwork and patient/caregiver-centered competencies](redesign-geriatric-curriculum-teamwork-caregiver-competencies.md)
 - [Make family caregivers explicit in existing nursing content rather than adding new material](make-family-caregivers-explicit-strategy.md)
+- [Interprofessional learning formats connecting dental students with nursing and geriatric care programmes](interprofessional-learning-formats-dop-oral-care.md)
 
 ## Examples
 -

@@ -21,7 +21,7 @@ sources:
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 42 claims (25 for, 16 mixed, 1 against) · 52 studies (16 causal, 13 quant-synthesis, 12 review, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 11 of 52 report an effect size · 30 claims rest on one study
+> **Evidence** · 44 claims (27 for, 16 mixed, 1 against) · 53 studies (17 causal, 13 quant-synthesis, 12 review, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 11 of 53 report an effect size · 32 claims rest on one study
 
 ## Description and scope
 
@@ -122,6 +122,8 @@ Read against the model on 2026-10-19. Of the eleven claims listed here then, ten
 - [Computer-assisted Jigsaw II cooperative learning produced significantly higher physics post-test achievement than individualized computer instruction.](../claims/caj2-achievement-gains-over-ici.md) [+W] — attached 2026-11-03 from Gambari et al. (2016), which proposed "Jigsaw II home group and expert group rotation with computer-assisted content"; tests this page's relationship.
 - [Jigsaw II students achieved significantly higher academic achievement than animation students in the Light unit](../claims/jigsaw-ii-higher-achievement-than-animations-light-unit.md) [+W] — attached 2026-11-03 from Koç et al. (2016), which proposed "Jigsaw II cooperative learning with expert groups and proficiency exams"; tests this page's relationship.
 - [Jigsaw II produced significantly higher retention of knowledge than both reading-writing-presentation and animations](../claims/jigsaw-ii-highest-knowledge-retention.md) [+W] — attached 2026-11-03 from Koç et al. (2016), which proposed "Jigsaw II cooperative learning with expert groups and proficiency exams"; tests this page's relationship.
+- [Puzzle intervention groups achieve significantly higher quiz accuracy than control groups in antibiotic pharmacology](../claims/puzzle-higher-quiz-accuracy-than-controls.md) [+W] — attached 2026-11-04 from Morén Constanza et al. (2026), which proposed "Adapted Puzzle technique: peer-to-peer teaching with autonomous preparation and faculty validation"; tests this page's relationship.
+- [Puzzle intervention groups achieve significantly higher final exam accuracy than control groups](../claims/puzzle-higher-final-exam-accuracy-than-controls.md) [+W] — attached 2026-11-04 from Morén Constanza et al. (2026), which proposed "Adapted Puzzle technique: peer-to-peer teaching with autonomous preparation and faculty validation"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

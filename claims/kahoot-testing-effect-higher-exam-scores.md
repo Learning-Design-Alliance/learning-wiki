@@ -53,3 +53,4 @@ Pilot quasi-experimental action research study with 49 undergraduate psychology 
 - [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](classroom-pretesting-exam-gains.md) — a broader claim this one bears on
 - [Ten weeks of Kahoot! clicker use produced significantly higher ESP post-test scores than the same instruction without clickers](clicker-use-higher-esp-posttest-scores.md) — related
 - [Lecturer-generated summaries spliced into online video lectures improve student recall of lecture content on quizzes](lecturer-generated-summaries-improve-video-recall.md) — related
+- [Engagement with online quizzes is associated with higher practical exam scores](quiz-engagement-linked-to-practical-exam.md) — related

@@ -52,3 +52,4 @@ Within-group pre-post comparison in the scenario-based group (n = 60) using the 
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [Both collaborative and individual simulation-based learning produce large pre-to-post gains in physical therapy students' clinical competence, with no statistically significant difference between modalities](collaborative-sbl-clinical-competence-gains-equivalent.md) — related
 - [High-fidelity simulation methods (simulators, 3D models, cadaver-based practice) are associated with superior Acquisition retention, though some studies report contradictory findings](high-fidelity-simulation-associated-with-superior-acquisition-retention.md) — related
+- [Knowledge-examination gains from VR training are domain-specific](vr-knowledge-gains-domain-specific.md) — related

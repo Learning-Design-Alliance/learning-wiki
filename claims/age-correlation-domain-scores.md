@@ -48,3 +48,4 @@ Pearson correlation and gender comparison on the 206-student survey data; the pr
 - [Graduate attribute attainment correlates only extremely weakly with years spent at university](weak-correlation-year-of-study-graduate-attributes.md) — related
 - [Self-perceived communication competence and adaptability show small positive correlations with age, while resourcefulness and communicative adaptability do not](age-correlations-communication-adaptability-small.md) — related
 - [Clerkship students rated the R-ISAM model significantly higher than Basic Sciences and Physiopathology students across all seven evaluation domains (p < 0.001)](clerkship-students-rate-r-isam-highest.md) — related
+- [Age correlates moderately and GPA weakly with self-directed learning](age-gpa-sdl-correlations.md) — related

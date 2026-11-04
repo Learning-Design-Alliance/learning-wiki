@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 81 claims (51 for, 27 mixed, 3 against) · 42 studies (17 quant-synthesis, 11 causal, 8 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 14 of 42 report an effect size · 73 claims rest on one study
+> **Evidence** · 83 claims (52 for, 28 mixed, 3 against) · 43 studies (17 quant-synthesis, 11 causal, 8 review, 3 design, 2 associational, 2 theoretical), `q1`–`q4` · 14 of 43 report an effect size · 75 claims rest on one study
 
 ## Description and scope
 
@@ -179,6 +179,8 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [Students born outside the UK achieved lower iRAT scores than home students, yet this difference did not persist in the final semester test.](../claims/tbl-place-of-birth-irat-gap-closes-by-semester-end.md) [~W]
 - [iRAT performance is structurally neutral to time of day and room size, with no differences in iRAT or end-of-semester test performance across these environmental factors.](../claims/tbl-irat-structurally-neutral-to-environment.md) [+W]
 - [Criterion-referenced peer review identifies the same struggling students as the iRAT, with students in the lowest iRAT decile receiving significantly lower peer ratings during themes 1–4.](../claims/tbl-peer-review-identifies-struggling-students.md) [~W]
+- [Students reported consensus-based decision-making, benefit from their partner's knowledge, and that their own contributions were essential during the team examination](../claims/whisper-exam-consensus-and-mutual-contribution.md) [~W]
+- [Students reported preparation effort for the collaborative exam comparable to individual examinations, indicating the team format did not reduce preparation](../claims/whisper-exam-preparation-effort-comparable.md) [+W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — shares positive interdependence and individual accountability; TBL adds the readiness assurance cycle and simultaneous reporting

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-04
 sources:
   - id: morel-2021
     resource: "https://doi.org/10.1007/s11423-021-09951-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Six scholars critiqued the framework, urging attention to cultural differences, teacher training, practical examples, replication research, and resource constraints. [→ Morel 2021](#morel-2021)

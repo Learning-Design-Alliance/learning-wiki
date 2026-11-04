@@ -124,3 +124,4 @@ A meta-analysis of controlled experiments testing reflective interventions inten
 - [Learning Cycle Model, Use of Animation, Reflective Diaries and Multiple Intelligence Theory Based Teaching each had very large retention effect sizes for pre-service teachers](retention-very-large-effect-sizes-meta-analysis.md) — related
 - [Most schools were already teaching metacognitive and reflective skills similar to those encouraged by ReflectED, which may have limited the programme's additional impact](schools-already-teaching-metacognitive-skills-limited-impact.md) — related
 - [The form of automatically generated model-based feedback did not influence the type of representation](feedback-form-did-not-influence-representation-type.md) — related
+- [Students who could already self-regulate their learning had less need for the reflection app](self-regulating-students-less-need-reflection-app.md) — a narrower finding that bears on this claim

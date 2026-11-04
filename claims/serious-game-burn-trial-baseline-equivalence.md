@@ -50,3 +50,4 @@ Baseline comparison in the randomized trial (Table 2): age (P = 0.351), sex (P >
 - [Adding a serious game to standard burn training produces a large improvement in Mini-CEX total clinical competence scores relative to standard training alone](serious-game-burn-mini-cex-total-score.md) — related
 - [The adjusted intervention effect varied across Mini-CEX domains, largest for therapeutic planning (MD 3.96) and diagnostic planning (MD 3.70) and smallest for history taking (MD 2.87)](serious-game-domain-effect-size-variation.md) — related
 - [Before intervention, treatment and control kindergartners did not differ on age, demographics, vocabulary, phoneme segmentation, letter knowledge, or reading](pretest-equivalence-phoneme-awareness-kindergarten-trial.md) — related
+- [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related

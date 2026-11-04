@@ -45,6 +45,7 @@ The report recommends that CCSS implementation in AI/AN communities combine an "
 - [Adapt instructional systems to local contexts through systematic inquiry and collaboration among educators, developers, and researchers](continuous-improvement-collaboration-for-aied.md)
 - [Tailor m-learning programmes to the cultural and economic realities of the local context](tailor-ml-programmes-cultural-economic-realities.md)
 - [Adapt RaT curricula to local cultural, institutional, and workforce characteristics rather than directly adopting Western-designed programs](contextually-adapted-rat-program-design.md)
+- [Local adaptation of the framework across diverse contexts](pat-framework-local-adaptation.md)
 
 ## Examples
 -

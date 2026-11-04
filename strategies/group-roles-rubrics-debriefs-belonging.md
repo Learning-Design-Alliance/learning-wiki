@@ -45,6 +45,7 @@ The primer offers concrete activities mapped to characteristics of collaborative
 - [Empowering Students as Leaders](empowering_students_as_leaders.md)
 - [Learning Communities](learning-communities.md)
 - [Personalize the learning environment and instructional process to foster belonging](personalize-learning-environment-belonging-strategy.md)
+- [Use small groups of well-known co-students with rotating roles as simulator and respondent to foster psychological safety and peer learning](small-familiar-groups-rotating-roles-vr-simulation-strategy.md)
 
 ## Examples
 -

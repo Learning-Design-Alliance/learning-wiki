@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 396 claims (180 for, 188 mixed, 28 against) · 299 studies (94 associational, 70 design, 49 causal, 45 review, 25 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 25 of 299 report an effect size · 389 claims rest on one study
+> **Evidence** · 403 claims (185 for, 190 mixed, 28 against) · 303 studies (95 associational, 70 design, 50 causal, 46 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 26 of 303 report an effect size · 396 claims rest on one study
 
 ## Conditional relationship
 
@@ -249,6 +249,9 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [The 5-LLM panel showed higher generalizability and lower rater-related variance than the 10-judge faculty panel](../claims/llm-panel-higher-g-coefficient-lower-rater-variance.md) [+W] — attached 2026-11-04 from Salah Eldin Kassab; Shadan Mariam; Ziganshina Arina; Khanday Shifan; Hamdy Hossam (2026), which proposed "Use LLMs as decision-assistance adjuncts to faculty in modified Angoff standard setting while maintaining expert human oversight"; tests this page's relationship.
 - [Exploratory Graph Analysis identified three distinct communities fully consistent with the theoretical three-factor model, supporting the structural validity and multidimensional nature of the CRCDCS.](../claims/crcdc-ega-network-structure.md) [+W] — attached 2026-11-04 from Magsoodi Fahimeh (2026), which proposed "Use a multi-method psychometric evaluation combining factor analysis, network analysis, and reliability coefficients when developing a new competency scale".
 - [The CRCDCS demonstrated satisfactory internal consistency (α = 0.876; ω = 0.861) and test–retest reliability (ICC = 0.85, 95% CI: 0.82–0.91).](../claims/crcdc-reliability-alpha-omega-icc.md) [+W] — attached 2026-11-04 from Magsoodi Fahimeh (2026), which proposed "Use a multi-method psychometric evaluation combining factor analysis, network analysis, and reliability coefficients when developing a new competency scale".
+- [A DistilBERT essay-scoring model shows sufficiently high internal consistency with Spearman-Brown coefficients from .77 to .92](../claims/distilbert-internal-consistency-spearman-brown-77-92.md) [+W] — attached 2026-11-04 from Debelak Rudolf (2026), which proposed "Assess internal consistency of AI-based scores by splitting input text into comparable parts and correlating part scores"; tests this page's relationship.
+- [The DistilBERT model shows indications of fairness violations when comparing human and AI scores across different topics](../claims/distilbert-fairness-violations-across-topics.md) [+W] — attached 2026-11-04 from Debelak Rudolf (2026), which proposed "Evaluate fairness of AI-based scores by comparing model accuracy and score bias across relevant subgroups (prediction invariance)"; tests this page's relationship.
+- [GenAI-assisted item sets showed lower KR-20 internal consistency reliability, and Spearman-Brown projections implied far more items would be needed to reach KR-20=0.70](../claims/genai-mcq-lower-reliability.md) [+M] — attached 2026-11-04 from Sze Kai Ping et al. (2026), which proposed "Use GenAI as a drafting adjunct within educator-led item workflows that prioritize distractor engineering, pilot testing, empirical item analysis, and repair before item-bank or summative use"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -470,6 +473,10 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Specific OSATS elements — gentleness, instrument handling, tissue exposure, and the summary score — significantly predict grade B/C delayed gastric emptying](../claims/osats-elements-gentleness-instrument-tissue-predict-dge.md) [+W]
 - [The six-point rating scale achieved slightly better inter-observer reliability than the five-point scale in real-time piloting](../claims/optis-six-point-scale-better-real-time-reliability.md) [~W]
 - [The checklist assessment showed strong interrater reliability, contributing validation evidence](../claims/checklist-interrater-reliability-kappa-0875.md) [+W]
+- [GenAI-assisted and educator-crafted total scores were positively correlated (r=0.49) but showed limited agreement at the individual level](../claims/genai-mcq-score-agreement-limited.md) [~W]
+- [The student-generated exam showed higher internal consistency than the AI-generated exam, though both exceeded the KR-20 ≥ 0.50 threshold](../claims/student-gen-exam-higher-kr20.md) [+W]
+- [Clinical exposure and performance are not consistently associated with shelf exam scores](../claims/clinical-exposure-inconsistent-shelf-scores.md) [~W]
+- [Step 1 performance strongly predicts shelf exam performance across clerkships](../claims/step1-predicts-shelf-exam-performance.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

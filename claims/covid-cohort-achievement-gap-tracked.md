@@ -53,3 +53,4 @@ The appendix states the study's second analytic aim: "We also tracked the gap in
 - [COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then](covid-learning-deficits-early-onset-persistence.md) — related
 - [The achievement divide between high and low achievers widened significantly over the last two years of the pandemic](achievement-divide-widened-significantly.md) — related
 - [Average fall 2021 math scores in Grades 3–8 were .20–.27 SD lower than same-grade peers' fall 2019 scores](covid-math-decline-020-027-sd-grades-3-8.md) — related
+- [The 2022 cohort scored significantly higher in TDI knowledge than the 2023 cohort.](cohort-difference-tadi-knowledge-2022-2023.md) — related

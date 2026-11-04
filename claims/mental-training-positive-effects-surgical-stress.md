@@ -79,3 +79,4 @@ Review synthesis noting a dissociation between subjective and physiological outc
 - [The iCare Stress Management e-Training Program significantly reduced perceived stress in the iCare condition but not the education-only condition](icare-stress-training-reduced-caregiver-stress.md) — related
 - [Mental practice improves surgical technical and non-technical performance in the majority of primary studies synthesised in systematic reviews](mp-improves-surgical-performance-majority.md) — related
 - [Students describe EI as a mechanism for managing academic stress through time management and mastery-oriented cognitive reframing](ei-stress-management-time-mastery-reframing.md) — related
+- [Surgical trainees show a dual emotional pattern of high engagement alongside early signs of burnout](surgical-trainees-emotional-strain-burnout-signs.md) — related

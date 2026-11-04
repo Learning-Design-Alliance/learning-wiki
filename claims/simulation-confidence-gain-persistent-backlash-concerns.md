@@ -72,3 +72,5 @@ Same thematic analysis of candidate responses; the article states the interventi
 - [Teacher candidates moved from abstract inclusivity ideals to specific instructional and relational strategies after the simulation](simulation-shift-abstract-to-actionable-inclusivity.md) — related
 - [Peer and instructor discourse shaped how teacher candidates experienced classroom conversations about LGBTQ+ issues](instructor-peer-discourse-shapes-lgbtq-conversations.md)
 - [Single-group studies uniformly reported improvement after distance simulation training in self-assessment, knowledge, or skills](single-group-prepost-all-improved.md) — related
+- [Simulation-based MI training significantly improves CHW trainees' confidence in applying MI skills to promote health behavior change](simulation-mi-training-increases-chw-confidence-applying-mi-skills.md) — related
+- [Simulation-based MI training significantly improves CHW trainees' confidence in engaging in conversations with individuals holding differing opinions](simulation-mi-training-increases-chw-confidence-engaging-differing-opinions.md) — related

@@ -59,6 +59,7 @@ The article's intervention model combines weekly scenario simulation courses wit
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Simulation Based Training](simulation-based-training.md)
 - [Simulation Based Learning](simulation-based-learning.md)
+- [Combine lectures, role-playing, simulations, peer feedback, and briefing/debriefing tailored to the surgical context to improve communication skills](multimodal-communication-training-surgical-context.md)
 
 ## Examples
 -

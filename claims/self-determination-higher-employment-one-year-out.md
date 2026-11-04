@@ -50,3 +50,4 @@ Follow-up survey of 80 former students with cognitive disabilities, with chi-squ
 - [High self-determination former students were more likely to express a preference to live outside the family home, though actual living arrangements did not differ by self-determination group](self-determination-living-preference-and-arrangements.md) — related
 - [Prison higher education alone was reported as insufficient for post-release employment, with criminal-record and reentry barriers persisting](prison-college-limited-employment-benefits.md) — related
 - [Employment rates did not differ significantly between mentees and comparison students at posttest or follow-up, though a higher percentage of mentees were employed at follow-up](mentoring-employment-rate-no-significant-difference.md) — related
+- [Employed students and later-semester students differ in self-directed learning scores](employment-semester-differences-sdl.md) — related

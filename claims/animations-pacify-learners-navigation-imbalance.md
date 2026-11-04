@@ -55,3 +55,4 @@ Logged click data from the experiment showed the AV group used far fewer navigat
 - [Intensity of learner control use relates to retention gains but not to transfer performance](interactive-behavior-relates-to-retention-not-transfer.md) — related
 - [Media effects on learning are not homogeneous across knowledge categories](media-effects-vary-by-knowledge-category.md) — related
 - [Instructional design principles are rarely reported in medical CBL software, with the media principle most common at 29.5% of studies](instructional-design-principles-rarely-reported-cbl.md) — related
+- [Delegates who stayed for extra practice all successfully navigated the bronchoscope to specified bronchopulmonary segments](bronchoscopy-workshop-informal-skill-assessment.md) — related

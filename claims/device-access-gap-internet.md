@@ -73,3 +73,4 @@ Descriptive survey of technology capacities in New York charter schools immediat
 - [Negative perceptions of pandemic e-learning focused on internet access, health problems, and difficulty developing clinical skills online](covid-elearning-negative-perceptions-constraints.md) — related
 - [Lack of technology access was the most commonly reported barrier to integrating the mathematics products](technology-access-greatest-integration-barrier.md) — related
 - [Most sampled MA TEFL students had sufficient computer and internet access for online learning](sample-computer-internet-access-sufficient.md) — related
+- [Access to technology and hardware was not seen as a barrier to SBE readiness, with adequate access reported (mean 3.21)](technology-access-not-a-barrier-to-sbe-readiness.md) — related

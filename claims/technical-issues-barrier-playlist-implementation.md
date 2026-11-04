@@ -98,3 +98,4 @@ Observational and interview study of four after-school sites; educators reported
 - [Material resources in schools are a necessary but non-sufficient condition for effective ICT integration; an active and dynamic methodological approach must also be implemented.](escuela2-material-resources-insufficient.md) — related
 - [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — related
 - [Students reported difficulties with time management, material access, and indecision over subject and material selection during SGLM](sglm-difficulties-time-material-indecision.md) — related
+- [No connectivity issues occurred during AR telementored simulation in a controlled environment with stable network infrastructure](ar-telementoring-no-connectivity-issues-controlled-environment.md) — related

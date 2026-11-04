@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 128 claims (56 for, 68 mixed, 4 against) · 99 studies (55 causal, 17 review, 15 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 23 of 99 report an effect size · 119 claims rest on one study
+> **Evidence** · 129 claims (57 for, 68 mixed, 4 against) · 100 studies (56 causal, 17 review, 15 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 24 of 100 report an effect size · 120 claims rest on one study
 
 ## Conditional relationship
 
@@ -212,6 +212,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Animation-with-text CAI did not significantly outperform lecture method on solid geometry achievement](../claims/at-cai-not-significant-vs-lecture.md) [~W]
 - [Static and dynamic graphics produce equivalent learning gains for children learning from a multimedia science lesson](../claims/static-dynamic-graphics-equivalent-gains.md) [~W]
 - [No significant differences between video and presentation formats were found for the Simmons 2 and Headhunter catheters overall, or among experienced participants](../claims/no-format-difference-simmons-headhunter-experienced.md) [~W]
+- [Images significantly improve both performance and EOL judgments among non-native language speakers](../claims/images-benefit-non-native-speakers-performance-eol.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

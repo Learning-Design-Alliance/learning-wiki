@@ -73,6 +73,7 @@ Learning communities work because knowledge is socially constructed and because 
 - [Teachers should structure group work so student communication stays on-task and productive](structure-group-communication-on-task.md)
 - [Structure disability awareness programs to include extensive personal contact, joint participation, equal status, and cooperative interdependence](structure-interaction-equal-status-cooperative-interdependence.md)
 - [Structure positive interdependence through goal, role, and reward interdependence in cooperative base groups](structure-positive-interdependence-goal-role-reward.md)
+- [Use small groups of well-known co-students with rotating roles as simulator and respondent to foster psychological safety and peer learning](small-familiar-groups-rotating-roles-vr-simulation-strategy.md)
 
 ## Examples
 - **[Community of Inquiry](../principles/community-of-inquiry.md)** frameworks in online courses — sustained forum discourse combining social, cognitive, and teaching presence (see the [Community of Inquiry framework](https://www.thecommunityofinquiry.org)).

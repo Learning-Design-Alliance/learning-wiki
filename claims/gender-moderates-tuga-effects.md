@@ -3,6 +3,7 @@ type: claim
 title: The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender
 description: The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender
 id: gender-moderates-tuga-effects
+aliases: [gender-differences-tuga-effects-mga]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -35,8 +36,11 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q2 i?` The negative effect of TUGA on MOV was significantly more substantial among male than female students, suggesting female students’ MOV is more susceptible to TUGA. [→ Hui Zhao & Huijuan Gu 2026](#hui-zhao-huijuan-gu-2026)
 `q2 i?` The effects of TUGA on SE and SDL were significantly weaker among male than female students, indicating male students’ SE and SDL are more vulnerable. [→ Hui Zhao & Huijuan Gu 2026 (2)](#hui-zhao-huijuan-gu-2026-2)
+
+`q2 i?` Multi-group analysis found significant gender differences for TUGA→SE (β difference −0.21, p = .005), TUGA→MOV (0.22, p = .028), and TUGA→SDL (−0.16, p = .003). [→ Zhao Hui; Gu Huijuan 2026](#hui-zhao-huijuan-gu-2026-2)
 
 ## Evidence
 
@@ -60,9 +64,36 @@ PLS-MGA path difference tests (Table 12: H10 difference −0.21, p = .005; H12 d
 
 > "the effects of thoughtless use on SE and SDL were significantly weaker among male students than among female students, indicating that male students’ SE and SDL are more vulnerable to the detrimental effects of thoughtless technology use."
 
+<!-- merged 2026-11-04 from gender-differences-tuga-effects-mga: that page's entry for this study, which differed from the one above, kept verbatim.
+### Zhao Hui; Gu Huijuan 2026 (2)
+
+Zhao Hui; Gu Huijuan. (2026). Thoughtless use of generative artificial intelligence and college students’ self-directed learning: a multi-group SEM analysis of gender differences. Scientific Reports 16. https://doi.org/10.1038/s41598-026-54337-y
+
+`q2 · i?`
+
+The article’s own prose interpretation of the MOV path difference, as printed in the MGA results section.
+
+> "the negative impact of thoughtless use on learning MOV was significantly more substantial among male students than among female students, suggesting that female students’ learning MOV is more susceptible to the influence of TUGA."
+-->
+
+<!-- merged 2026-11-04 from gender-differences-tuga-effects-mga: that page's entry for this study, which differed from the one above, kept verbatim.
+### Zhao Hui; Gu Huijuan 2026
+
+Zhao Hui; Gu Huijuan. (2026). Thoughtless use of generative artificial intelligence and college students’ self-directed learning: a multi-group SEM analysis of gender differences. Scientific Reports 16. https://doi.org/10.1038/s41598-026-54337-y
+
+`q2 · i?`
+
+PLS-MGA (Welch–Satterthwaite) comparing male (n = 105) and female (n = 382) subsamples after partial measurement invariance was established. Table 12 reports path β differences of −0.21 (SE, p = .005), 0.22 (MOV, p = .028), and −0.16 (SDL, p = .003).
+
+> "The results indicate significant gender differences in the effects of the TUGA on MOV, SE, and SDL."
+-->
+
 ## Discussion
 
+
+
 ## Learner Variables
+
 - [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
@@ -85,3 +116,5 @@ PLS-MGA path difference tests (Table 12: H10 difference −0.21, p = .005; H12 d
 - [Male and female networks differ in structure and overall connectivity, with tighter internal connections in the male sample](gender-network-structure-invariance-differences.md) — related
 - [Personalization's motivational effect was positive for females, with no such difference among males](gender-moderates-personalization-amotivation.md) — related
 - [Reported no gender difference in the effect of emotional intelligence training on academic self-efficacy, despite a printed significant t-test](gender-difference-ei-academic-self-efficacy-mixed.md) — related
+- [The structural model explains 75.3% of the variance in self-directed learning, but measurement invariance across gender was only partial](sdl-variance-explained-partial-invariance.md) — related
+- [Thoughtless use of generative AI exerts a significant direct negative effect on undergraduates’ self-directed learning](tuga-negative-direct-effect-sdl-henan-sem.md) — related

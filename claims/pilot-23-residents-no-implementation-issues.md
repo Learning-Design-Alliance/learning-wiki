@@ -48,3 +48,4 @@ Downstream pilot of the full workshop (didactic, simulation with competency rubr
 ## Related Claims
 - [Simulation interventions showed positive usability and feasibility, with technical preparation needs sometimes causing non-completion](usability-feasibility-technical-issues.md) — related
 - [A pilot test with 20 nursing students found no difficulties in understanding or completing the questionnaire](csl-lts-pilot-comprehensibility.md) — related
+- [Knowledge and confidence improvements show no significant differences among specialties](menopause-simulation-no-specialty-differences.md) — related

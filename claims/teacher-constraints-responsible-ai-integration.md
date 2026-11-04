@@ -81,3 +81,4 @@ Negative-perceptions sub-theme from thematic analysis of interviews with 10 trai
 - [Teacher educators found the simulation fostered critical thinking and reflection but faced integration, accessibility, and binary-decision limitations](teacher-educators-simulation-value-and-challenges.md) — related
 - [Teachers' most frequently cited barrier to classroom technology use was lack of access to technology, on both pre- and post-surveys](technology-access-top-barrier-for-teachers.md) — related
 - [Leaders report negative perceptions of technology centring on poor interoperability, data availability problems, and resource limitations](negative-perceptions-interoperability-data-availability.md) — related
+- [Free-text comments raised fairness concerns about pairing with a weaker partner and technical and organizational issues with the digital format](whisper-exam-fairness-and-digital-format-criticisms.md) — related

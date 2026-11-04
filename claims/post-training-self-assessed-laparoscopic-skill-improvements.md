@@ -49,3 +49,4 @@ Pre-/post-training self-assessment using a 10-point Likert scale among the enrol
 - [Both tDCS and sham groups showed significant within-group improvement across all laparoscopic tasks over the training period](significant-learning-gains-all-laparoscopic-tasks-both-groups.md) — related
 - [All five GOALS subdomains (depth perception, bimanual dexterity, efficiency, tissue handling, autonomy) were significantly improved after structured VRST](structured-vrst-improves-all-goals-subdomains.md) — related
 - [Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test](structured-vrst-curriculum-higher-goals-total.md) — related
+- [Cumulative exposure (total simulation time and repetitions) shows no significant association with final suturing performance](exposure-not-associated-with-suturing-proficiency.md) — related

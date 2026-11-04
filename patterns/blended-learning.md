@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 81 claims (52 for, 27 mixed, 2 against) · 59 studies (25 causal, 14 quant-synthesis, 8 associational, 7 review, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 13 of 59 report an effect size · 79 claims rest on one study
+> **Evidence** · 87 claims (56 for, 29 mixed, 2 against) · 61 studies (27 causal, 14 quant-synthesis, 8 associational, 7 review, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 14 of 61 report an effect size · 85 claims rest on one study
 
 ## Description and scope
 
@@ -186,6 +186,12 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Nursing students report high satisfaction and self-confidence after hybrid simulation training](../claims/high-satisfaction-self-confidence-hybrid-simulation-nursing.md) [~W]
 - [Most nurses are willing to attend frailty training and prefer blended online-offline formats, short sessions, and practice-oriented content](../claims/nurses-frailty-training-preferences.md) [+W]
 - [The performance gap between blended-teaching and control groups widens significantly over the course of the intervention](../claims/rg-uclass-performance-gap-widens-over-time.md) [+W]
+- [Medical imaging interns receiving an integrated SPOC-based blended teaching package report higher perceived job competency than interns receiving conventional teaching at immediate post-intervention](../claims/spoc-blended-package-higher-perceived-job-competency.md) [+W]
+- [Medical imaging interns receiving the SPOC-based blended package report higher self-directed learning ability than controls, with the experimental mean near the scale ceiling](../claims/spoc-blended-package-higher-self-directed-learning.md) [+W]
+- [Medical imaging interns receiving the SPOC-based blended package achieve higher department-specific end-of-rotation examination scores than controls, with a more modest absolute difference](../claims/spoc-blended-package-higher-end-of-rotation-exam.md) [+W]
+- [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](../claims/spoc-blended-package-high-adherence.md) [~W]
+- [Medical imaging interns receiving the SPOC-based blended package report higher teaching satisfaction than controls, with a marked ceiling pattern in the experimental group](../claims/spoc-blended-package-higher-teaching-satisfaction.md) [+W]
+- [Students reported moderate to high digital readiness while valuing face-to-face instructor contact](../claims/students-moderately-highly-digitally-ready.md) [~W]
 
 ## Examples
 

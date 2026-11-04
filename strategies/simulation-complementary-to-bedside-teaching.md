@@ -50,6 +50,8 @@ The article recommends that the demand for modern teaching methods observed amon
 - [Combine virtual and traditional teaching methods to facilitate knowledge transfer in competency-based nursing skills courses](combine-virtual-traditional-nursing-skills-teaching.md)
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Position AI-SPs as preparation, reflection, and supplementation for real patient contact rather than replacement](ai-sp-supplement-not-replacement.md)
+- [Use AISPs as a supplementary self-directed learning resource where direct patient contact is limited](aisp-supplementary-sdl-strategy.md)
+- [Use case-based learning and interactive augmented reality simulations as substitutes for direct clinical contact in TDI education.](case-based-learning-augmented-reality-tadi-education.md)
 
 ## Examples
 -
