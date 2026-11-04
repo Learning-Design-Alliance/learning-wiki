@@ -49,6 +49,6 @@ Prospective cohort study of general surgical nursing interns comparing SFHC and 
 - [SFHC intervention improved simulated nurse licensure examination (professional practice module) scores post-intervention](sfhc-improved-licensure-exam-scores.md) — related
 - [SFHC intervention improved nursing learning self-efficacy scores post-intervention](sfhc-improved-nursing-self-efficacy.md) — related
 - [SFHC intervention improved doctor-patient communication (SEGUE) scores post-intervention](sfhc-improved-segue-communication.md) — related
-- [SFHC intervention improved inter-professional learning ability (AITCS) scores post-intervention](sfhc-improved-interprofessional-learning.md) — related
+- [Nursing interns in the SFHC programme had higher self-reported inter-professional learning (AITCS) scores after the internship than a non-randomised traditional-teaching group](sfhc-improved-interprofessional-learning.md) — related
 - [A 3D printing-assisted family-school-hospital collaborative education model was associated with larger gains in medical interns' knowledge of urinary system tumor early screening than traditional teaching, in a non-randomised comparison](fsph-3d-model-improves-tumor-screening-knowledge.md) — related
-- [The collaborative model improves medical interns' social medical curiosity](fsph-3d-model-improves-social-medical-curiosity.md) — related
+- [Medical interns in a 3D printing-assisted family-school-hospital programme had higher social medical curiosity scores after baseline adjustment than a non-randomised traditional-teaching group](fsph-3d-model-improves-social-medical-curiosity.md) — related

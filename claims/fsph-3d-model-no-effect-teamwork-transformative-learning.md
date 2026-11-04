@@ -53,4 +53,4 @@ Non-randomized controlled pre-post study of 120 clinical medical interns (60 per
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Participants reported increased confidence, readiness and teamwork after completing the SimLab programme](simlab-confidence-teamwork-gains.md) — related
 - [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related
-- [SFHC intervention improved inter-professional learning ability (AITCS) scores post-intervention](sfhc-improved-interprofessional-learning.md) — related
+- [Nursing interns in the SFHC programme had higher self-reported inter-professional learning (AITCS) scores after the internship than a non-randomised traditional-teaching group](sfhc-improved-interprofessional-learning.md) — related

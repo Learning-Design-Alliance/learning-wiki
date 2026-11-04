@@ -5,6 +5,28 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-04 · causal titles on single-group pre-post claims are reworded in every batch
+
+Asked for by the maintainer ("add the batch check for causal titles and fix existing claims").
+`judge_study_validity.problems()` flags a missing comparison group but not a single-group pre-post
+design, and across PubMed Central batches 1-3 about 14 of 19 load-bearing failures were causal
+titles ("improves", "increases") on uncontrolled designs that no earlier step had caught. Of
+18,283 judged causal entries, 1,530 are single-group pre-post.
+
+`scripts/retitle_causal_prepost.py` picks a claim when every causal entry's verdict, in both judges
+where both exist, is `pre-post-single-group` or `none` and at least one is pre-post; claims resting
+only on `none` are left out by default (`--include-none-only`), because they are mostly surveys and
+rewording them was noise. One model rewrites the title, description, H1 and subclaims; a second
+checks that the rewrite is faithful and not causal; deterministic checks keep every code span and
+link byte-identical, refuse new numbers, refuse a rewrite whose only reason is a synonym swap, and
+refuse "self-rated"/"self-reported" unless the committed evidence cells also code the outcome as
+self-report (the two judges alone called the ISBAR Communication Clarity Scale self-report; its cell
+codes it skill performance). Link text on citing pages follows the new title. Decisions go to
+`eval/causal-wording/decisions.ndjson`. It runs in `run_scrape_batch.py` right after
+`judge_study_validity.py --annotate --apply`, on the batch's new claims. On a 40-claim sample: 22
+reworded, 13 already descriptive, 5 refused by the checker, $0.20. The backlog (about 1,390 claims)
+is a separate run, shown to the maintainer as a sample first.
+
 ## 2026-11-03 · a screened-queue entry that cannot be fetched is recorded, not taken again
 
 `run_scrape_batch.py` recorded a fetch failure in `eval/runs/queues/fetch-failed.ndjson` only for

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: SFHC intervention improved inter-professional learning ability (AITCS) scores post-intervention
-description: SFHC intervention improved inter-professional learning ability (AITCS) scores post-intervention
+title: Nursing interns in the SFHC programme had higher self-reported inter-professional learning (AITCS) scores after the internship than a non-randomised traditional-teaching group
+description: Nursing interns in the SFHC programme had higher self-reported inter-professional learning (AITCS) scores after the internship than a non-randomised traditional-teaching group
 id: sfhc-improved-interprofessional-learning
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# SFHC intervention improved inter-professional learning ability (AITCS) scores post-intervention
+# Nursing interns in the SFHC programme had higher self-reported inter-professional learning (AITCS) scores after the internship than a non-randomised traditional-teaching group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Post-intervention AITCS scores were significantly higher in the SFHC group (P = 0.0165), with no baseline difference. [→ Hou Wenwen 2026](#hou-wenwen-2026)
+`q2 i?` Post-intervention self-reported AITCS scores were significantly higher in the SFHC group than in the non-randomised comparison group (P = 0.0165), with no baseline difference. [→ Hou Wenwen 2026](#hou-wenwen-2026)
 
 ## Evidence
 

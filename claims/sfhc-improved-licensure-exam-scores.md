@@ -45,7 +45,7 @@ Prospective cohort study comparing SFHC and traditional teaching groups on the s
 
 
 ## Related Claims
-- [SFHC intervention improved inter-professional learning ability (AITCS) scores post-intervention](sfhc-improved-interprofessional-learning.md) — related
+- [Nursing interns in the SFHC programme had higher self-reported inter-professional learning (AITCS) scores after the internship than a non-randomised traditional-teaching group](sfhc-improved-interprofessional-learning.md) — related
 - [SFHC intervention improved nursing learning self-efficacy scores post-intervention](sfhc-improved-nursing-self-efficacy.md) — related
 - [SFHC intervention improved medical curiosity (SMC) scores of general surgical nursing interns post-intervention](sfhc-improved-medical-curiosity-smc.md) — related
 - [SFHC intervention improved doctor-patient communication (SEGUE) scores post-intervention](sfhc-improved-segue-communication.md) — related

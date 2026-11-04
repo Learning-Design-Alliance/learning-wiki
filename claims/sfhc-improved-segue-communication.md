@@ -48,9 +48,9 @@ Prospective cohort study comparing SFHC and traditional teaching groups on the S
 ## Related Claims
 - [SFHC intervention improved simulated nurse licensure examination (professional practice module) scores post-intervention](sfhc-improved-licensure-exam-scores.md) — related
 - [SFHC intervention improved medical curiosity (SMC) scores of general surgical nursing interns post-intervention](sfhc-improved-medical-curiosity-smc.md) — related
-- [The collaborative model improves medical interns' doctor-patient communication ability](fsph-3d-model-improves-doctor-patient-communication.md) — related
+- [Medical interns in a 3D printing-assisted family-school-hospital programme had higher doctor-patient communication (SEGUE) scores after baseline adjustment than a non-randomised traditional-teaching group](fsph-3d-model-improves-doctor-patient-communication.md) — related
 - [SFHC intervention improved nursing learning self-efficacy scores post-intervention](sfhc-improved-nursing-self-efficacy.md) — related
-- [SFHC intervention improved inter-professional learning ability (AITCS) scores post-intervention](sfhc-improved-interprofessional-learning.md) — related
+- [Nursing interns in the SFHC programme had higher self-reported inter-professional learning (AITCS) scores after the internship than a non-randomised traditional-teaching group](sfhc-improved-interprofessional-learning.md) — related
 - [Narrative medicine education improves residents' humanistic care ability and doctor-patient communication compared with lecture-based learning](narrative-medicine-improves-care-and-communication.md) — related
 - [Scenario simulation combined with case teaching improved doctor-patient communication skills more than traditional lecture-based training](scenario-simulation-improves-doctor-patient-communication.md) — related
 - [Simroid robot training effects persisted at the second assessment, with significant differences in clinical examination and doctor-patient communication](simroid-robot-effects-persisted-second-assessment.md) — related
