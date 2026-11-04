@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 108 claims (58 for, 47 mixed, 3 against) · 82 studies (35 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 23 of 82 report an effect size · 102 claims rest on one study
+> **Evidence** · 109 claims (59 for, 47 mixed, 3 against) · 83 studies (36 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 23 of 83 report an effect size · 103 claims rest on one study
 
 ## Conditional relationship
 
@@ -174,6 +174,7 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Interviewed Spaceteam ESL players said they spoke more English during play, and one said he stopped attending to his nervousness; the authors suggest motivation may explain a non-significant fluency trend](../claims/spaceteam-interviews-motivation-anxiety.md) [+W] — attached 2026-11-02 from Grimshaw et al. (2016), which proposed "Use time-sensitive collaborative mobile games as warm-up activities to encourage fluency development in a non-threatening environment".
 - [Vocabulary instruction with the educational marble game produced significantly higher adjusted post-test scores than traditional instruction in a German second-foreign-language course](../claims/marble-game-higher-vocabulary-posttest-than-traditional.md) [+W] — attached 2026-11-02 from Coşkun (2013), which proposed "Develop educational games with regard to educational sciences and socio-pedagogy, considering learners' languages, age, and interests"; tests this page's relationship.
 - [Daily 20-minute use of Nintendo DS handheld game consoles with Dr Kawashima's Brain Training produced significantly greater improvement in mental-maths automaticity than traditional classroom instruction over a 10-week term](../claims/hgc-brain-training-improves-mental-maths-automaticity.md) [+M] — attached 2026-11-03 from O'Rourke et al. (2017), which proposed "Embed commercially available digital games in structured daily classroom routines with teacher strategy support, rather than relegating them to separate lab settings"; tests this page's relationship.
+- [Game-based learning with a card game significantly improved anesthesiology residents' knowledge of anesthetic drugs](../claims/card-game-improves-anesthesiology-resident-pharmacology-knowledge.md) [+W] — attached 2026-11-04 from Anchalee Santi et al. (2026), which proposed "Use serious analog games as supplementary tools to reinforce pharmacology knowledge in medical training"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

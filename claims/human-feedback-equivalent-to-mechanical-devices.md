@@ -54,3 +54,4 @@ The review reports, citing Pavo et al. (2016), that in a two-rescuer scenario wi
 - [An augmented-reality CPR training application did not improve CPR quality compared with a standard audio-visual feedback manikin](ar-cpr-training-no-improvement-over-manikin.md) — related
 - [All feedback, whether human or device-based, improves performance in cardiac arrest simulation education](all-feedback-improves-cardiac-arrest-simulation-performance.md) — related
 - [Compression depth and ventilated volume declined over twelve months in nursing students without monthly VAM practice, and differed from those who practised monthly](monthly-practice-depth-volume-decline.md) — related
+- [Final-year dental students show insufficient competence in AED use under conventional voice prompts in a simulated cardiac arrest scenario](dental-students-insufficient-aed-competence-conventional-prompts.md) — related

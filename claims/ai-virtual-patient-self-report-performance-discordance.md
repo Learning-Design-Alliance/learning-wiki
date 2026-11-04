@@ -57,3 +57,5 @@ Qualitative synthesis of Kirkpatrick level 2 findings reported in three included
 - [Evidence of transfer from AI-VP training to real clinical practice is scarce, and one cohort study found lower field assessment scores after AI-VP training](ai-vp-transfer-to-practice-scarce.md) — a narrower finding that bears on this claim
 - [Virtual patient-based learning produces greater learning performance, self-efficacy and communication skills than conventional learning in a quasi-experimental study](vp-social-learning-quasi-experiment-communication.md) — reports the opposite
 - [Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results](vp-attitudes-satisfaction-mixed.md) — related
+- [MEET remediation cohort showed significant overall OSCE improvement after AI virtual patient use](aivp-meet-cohort-significant-osce-gain.md) — related
+- [AI virtual patient use produced no statistically significant OSCE improvement in the volunteer cohort](aivp-volunteer-cohort-no-significant-osce-change.md) — related

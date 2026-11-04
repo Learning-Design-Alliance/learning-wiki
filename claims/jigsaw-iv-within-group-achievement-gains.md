@@ -59,3 +59,4 @@ Paired samples t-tests within the quasi-experiment: experimental group t = -30.9
 - [Within-group pre-to-post gains were much larger for the direct instruction group than for the traditionally taught control group](direct-instruction-larger-pre-post-gains.md) — related
 - [Within-group pre-to-post gains were larger in the blended learning group (MD = 14.327, d = 1.016) than in the comparison group (MD = 8.231, d = .408)](blended-learning-within-group-gain-math-conceptual-understanding.md) — related
 - [Low-scoring experimental-group students moved from 25% scoring below 25% at pre-test to none scoring below 25% at post-test, with scores reaching as much as 56.8%](lowest-scorers-crossed-25-percent-threshold.md) — related
+- [Both groups improved stoma care knowledge after training, with larger gains in the experimental group](within-group-knowledge-gains-both-groups.md) — related

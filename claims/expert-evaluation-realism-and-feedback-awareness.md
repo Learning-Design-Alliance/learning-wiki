@@ -58,3 +58,5 @@ Mixed-methods expert evaluation with two female psychologists (ages 25–30), on
 - [Qualitative data indicate a need to improve interaction opportunities with virtual patients in MR training](mr-needs-improved-virtual-patient-interaction.md) — related
 - [Clearest LLM-teaching signals appear in settings with clearly defined tasks, immediate feedback, and repeated practice, such as simulated patients and structured feedback](llm-teaching-benefits-task-defined-feedback-settings.md) — related
 - [Usability evaluations of e-learning interventions in undergraduate clinical medicine uniformly reported positive feedback, with simple intuitive interactive design identified as key](elearning-usability-evaluations-all-positive.md) — a broader claim this one bears on
+- [Simulated-patient and expert rating convergence may depend on comprehensive simulated-patient training](simulated-patient-training-supports-expert-congruence.md) — related
+- [Participants rate SOPHIE's actionable feedback highest among system features, above avatar realism](sophie-actionable-feedback-highest-rated-feature.md) — related

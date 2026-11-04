@@ -1,0 +1,56 @@
+---
+type: claim
+title: Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration
+description: Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration
+id: qualitative-immersion-enhanced-engagement-realism
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-03
+evidence_strength: weak
+newest_evidence: 2026
+sources:
+  - id: hung-yin-ling-2026
+    resource: "https://doi.org/10.1155/jonm/8355655"
+    title: "Hung Yin-Ling, Zhou Yi-Chao, Feng Hsin-Pei, Lin Chia-Huei, Chien Wu-Chien, Tzeng Wen-Chii. (2026). Spherical Video‐Based Virtual Reality Training for Nurses’ Delirium Care Competence: A Randomized Controlled Trial With Qualitative Evaluation. Journal of Nursing Management. https://doi.org/10.1155/jonm/8355655"
+    author: Hung Yin-Ling, Zhou Yi-Chao, Feng Hsin-Pei, Lin Chia-Huei, Chien Wu-Chien, Tzeng Wen-Chii
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Thematic analysis of interviews with all 54 SVVR participants identified three major themes and 12 subthemes describing learning experiences. [→ Hung Yin-Ling 2026](#hung-yin-ling-2026)
+
+## Evidence
+
+### Hung Yin-Ling 2026
+
+Hung Yin-Ling, Zhou Yi-Chao, Feng Hsin-Pei, Lin Chia-Huei, Chien Wu-Chien, Tzeng Wen-Chii. (2026). Spherical Video‐Based Virtual Reality Training for Nurses’ Delirium Care Competence: A Randomized Controlled Trial With Qualitative Evaluation. Journal of Nursing Management. https://doi.org/10.1155/jonm/8355655
+
+`q2 · i?` · `causal · r2`
+
+Semistructured interviews with all 54 experimental-group participants, analyzed with Braun and Clarke's six-phase thematic analysis with investigator triangulation and an audit trail. Themes covered advantages of SVVR, knowledge gains, and areas for improvement.
+
+> "All 54 participants in the experimental group participated in semistructured interviews. Thematic analysis identified three major themes and 12 subthemes describing nurses’ learning experiences with the SVVR delirium care training program."
+
+## Discussion
+
+
+## Related Claims
+- [Both SVVR and noninteractive video groups improve attitudes toward delirium care with no significant between-group difference](attitudes-improve-both-groups-no-group-difference.md) — related
+- [Most students report that the MDT-CDIO model enhances interdisciplinary collaboration and clinical reasoning skills](mdt-cdio-students-report-enhanced-collaboration-reasoning.md) — related
+- [Immersive modalities, particularly virtual reality, are associated with higher perceived presence, engagement, and realism than less immersive formats](vr-immersion-higher-presence-engagement.md) — a broader claim this one bears on
+- [Realism of technology is a prominent enabler of critical thinking development in technologically supported SBL, mapped to the information quality dimension of the D&M IS Success Model](realism-enabler-critical-thinking-sbl.md) — related
+- [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — reports the opposite
+- [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
+- [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
+- [EFL learners perceive AI-mediated instruction as engaging, personalized, anxiety-reducing, and empowering for autonomous learning](learner-perceptions-ai-engagement-personalization.md) — related
+- [SVVR training produces greater gains in nurses' delirium care knowledge than noninteractive video education immediately after training and at 1-month follow-up](svvr-greater-delirium-knowledge-gains-than-video.md) — related

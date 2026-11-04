@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 167 claims (67 for, 87 mixed, 13 against) · 91 studies (32 quant-synthesis, 29 causal, 12 review, 7 theoretical, 6 qualitative, 3 design, 2 associational), `q1`–`q4` · 24 of 91 report an effect size · 162 claims rest on one study
+> **Evidence** · 168 claims (68 for, 87 mixed, 13 against) · 92 studies (32 quant-synthesis, 29 causal, 12 review, 7 theoretical, 6 qualitative, 4 design, 2 associational), `q1`–`q4` · 24 of 92 report an effect size · 163 claims rest on one study
 
 ## Description and scope
 
@@ -259,6 +259,7 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [PBL participants used the synthesizing-subject-matter and searching-for-supporting-details strategies significantly better than non-PBL participants](../claims/pbl-improves-subm-sdet-strategies.md) [+W]
 - [PBL participants completed problem-solving tasks cooperatively, with after-class discussion the most frequent task and up to 89% extending learning after class](../claims/pbl-task-self-reports-cooperative-problem-solving.md) [~W]
 - [PBL participants spent significantly more weekly time reading English texts than non-PBL participants during the treatment](../claims/pbl-increases-out-of-class-reading-time.md) [~W]
+- [Student performance in the integrated PBL bridge course was consistently high across seven cohorts, with all cohort mean total scores above 90 and 81.06% of students achieving an excellent grade.](../claims/pbl-bridge-course-consistently-high-performance.md) [+W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

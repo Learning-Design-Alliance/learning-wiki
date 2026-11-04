@@ -52,3 +52,4 @@ Reliability and validity analysis based on the second-round importance ratings o
 - [Structured viva shows significant inter-rater reliability between examiner pairs (r = 0.78 to 0.91) and high inter-rater agreement (86.7%)](structured-viva-inter-rater-reliability-significant.md) — related
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
 - [Most variables of the START-Play fidelity measure show good to excellent interrater reliability, with ICCs ranging from 0.77 to 0.95](start-play-fidelity-icc-077-095.md) — related
+- [Content validity of the HLC-N exceeds recommended thresholds (I-CVI 0.813–1.00; S-CVI/Ave 0.952)](hlc-n-content-validity-cvi.md) — related

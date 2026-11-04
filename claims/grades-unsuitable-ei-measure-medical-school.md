@@ -48,3 +48,4 @@ Theoretical argument in the Discussion, supported by cited work on antagonistic 
 - [EI task nature, country, academic performance criterion, and age do not significantly moderate the EI–academic success relationship](non-significant-moderators-ei-md-success.md) — related
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [The EI–academic success effect size varies significantly by EI subscale, with perceiving emotions highest (r = .20)](ei-subscale-moderates-md-academic-success.md) — related
+- [Students report that EI supports interpersonal relationships and teamwork through empathy, active listening, and conflict management](ei-teamwork-empathy-conflict-management.md) — related

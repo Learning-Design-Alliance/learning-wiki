@@ -50,3 +50,4 @@ Controlled cross-sectional and longitudinal study (Dumm, 2023) of the 'Eat This!
 - [College students' scores on an online source credibility assessment improved significantly after four course-embedded modules in an asynchronous nutrition course](course-embedded-modules-improve-credibility-scores.md) — related
 - [Education and training programmes increase knowledge and skills of skilled birth attendants in perineal anatomy, assessment and classification of perineal tears.](perineal-tear-training-increases-knowledge-skills.md) — a narrower finding that bears on this claim
 - [In-service nutrition training increases teachers' rating of the value of conflict resolution and personal health skills](inservice-training-increases-outcome-value-health-skills.md) — related
+- [Students' knowledge scores on space management multiple-choice questions increased from pre-test to post-test after the active learning module.](space-management-knowledge-gains-dental.md) — related

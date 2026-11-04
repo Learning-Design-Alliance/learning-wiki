@@ -71,3 +71,4 @@ Psychometric analysis of the study's 12-item, 5-point Likert reflection instrume
 - [The seven holistic leadership factors demonstrated high internal consistency across pre- and post-test administrations.](holistic-leadership-factors-high-reliability.md) — related
 - [The Vocabulary Knowledge Scale used in the pilot showed very high internal consistency (α = .96)](vks-reliability-alpha-96-pilot.md) — related
 - [Test reliability was acceptable across the four listening texts](listening-test-reliability-acceptable.md) — related
+- [The 13-item attitude questionnaire demonstrated good internal consistency (Cronbach's α = 0.873) but was not formally validated as a psychometric instrument](rat-questionnaire-internal-consistency-alpha-0873.md) — related

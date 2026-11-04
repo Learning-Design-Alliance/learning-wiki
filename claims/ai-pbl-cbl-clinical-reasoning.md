@@ -89,3 +89,4 @@ Descriptive synthesis of one RCT (Suebnukarn, 36 second-year dental students) us
 - [Digital teaching of clinical skills improves medical trainees' assessment outcomes compared with other formats, with a pooled mean difference of 1.93](digital-clinical-skills-teaching-assessment-outcome-md-1-93.md) — related
 - [Live case-based discussion outperformed paper cases on clinical reasoning performance at posttest and follow-up](live-ccd-outperforms-paper-cases-clinical-reasoning.md) — related
 - [PBL methods produce significantly better knowledge scores than traditional teaching among dental students (pooled MD 4.15)](pbl-improves-knowledge-scores.md) — related
+- [AI-assisted group achieved significantly higher post-rotation AI scores than the traditional group (adjusted mean difference 2.058 points, p = 0.041)](ai-assisted-group-higher-post-rotation-scores-ancova.md) — related

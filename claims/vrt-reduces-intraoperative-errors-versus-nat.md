@@ -72,3 +72,4 @@ Single-centre two-arm RCT randomizing 13 participants to VR training or no addit
 - [Intraoperative feedback reduces error scores in cholecystectomy and simulated procedures](feedback-reduces-error-scores.md) — related
 - [Simulation-based training improves laparoscopic performance time in the operating room](simulation-training-improves-performance-time.md) — related
 - [Simulation-based training reduces intraoperative errors in laparoscopic surgery](simulation-training-reduces-intraoperative-errors.md) — a broader claim this one bears on
+- [Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test](structured-vrst-curriculum-higher-goals-total.md) — related

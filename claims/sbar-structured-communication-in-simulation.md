@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: gonzález-sanz-a-2026
     resource: "https://doi.org/10.2196/87898"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` SBAR and its adaptations were frequently incorporated into simulation scenarios and associated with improved team coordination and information transfer. [→ González-Sanz A 2026](#gonzalez-sanz-a-2026)
@@ -53,3 +54,6 @@ The review's discussion attributes this association to multiple included studies
 - [Effects of SBAR-based simulation on communication ability, critical thinking, confidence, learning self-efficacy, and attitude toward patient safety are divergent across studies](sbar-simulation-divergent-other-outcomes.md) — related
 - [The evidence base on SBAR-based simulation for nursing students comprises 12 studies with 886 participants, most rated weak in methodological quality](sbar-simulation-evidence-base-weak-quality.md) — related
 - [SBAR-based simulation programs produce significant improvements in communication clarity for nursing students in six of twelve reviewed studies](sbar-simulation-improves-communication-clarity-nursing-students.md) — related
+- [Improvement in communication clarity after ISBAR simulation teaching was broad, with the greatest gains in the situation domain](isbar-clarity-gains-broad-situation-domain-largest.md) — a narrower finding that bears on this claim
+- [ISBAR-structured handover simulation teaching significantly improves nursing students' communication clarity](isbar-simulation-improves-communication-clarity.md) — a narrower finding that bears on this claim
+- [Role-playing simulation with SBAR-based observation improves nurse-patient communication behaviors among nursing students](role-play-sbar-improves-nurse-patient-communication.md) — a narrower finding that bears on this claim

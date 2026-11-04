@@ -53,3 +53,5 @@ Random-effects meta-analysis of seven studies reporting operative time, comparin
 - [Late-experience hip arthroscopy cases show modest but significant gains in mHHS and NAHS compared with early cases](hip-arthroscopy-experience-modest-prom-gains.md)
 - [Revision arthroscopy rates do not differ significantly between late and early hip arthroscopy experience phases](hip-arthroscopy-revision-no-experience-difference.md)
 - [Fellowship-trained surgeons showed shorter operative times and fewer complications compared with non-fellowship peers](fellowship-trained-surgeons-shorter-operative-times-fewer-complications.md) — related
+- [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
+- [Lymphadenectomy was associated with a statistically significant increase in console time (estimated difference 18.0 min, 95% CI 6.3–29.6)](lymphadenectomy-increases-console-time.md) — related

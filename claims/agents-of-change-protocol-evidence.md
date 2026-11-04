@@ -47,3 +47,4 @@ Qualitative protocol analysis of artifacts from the three-tiered comparison subg
 ## Related Claims
 - [First-semester calculus students in an experimental reflective-abstraction section outperformed a matched traditional section on a posttest of limits](reflective-abstraction-curriculum-improves-limit-posttest.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
+- [Blinded artifact scoring showed higher objective behavioral-output scores in the experimental group across four dimensions](blinded-artifact-scoring-experimental-group-higher.md) — related

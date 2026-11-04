@@ -53,3 +53,4 @@ Behavioral results of Experiment 1: accuracy did not differ between groups (p-et
 - [The improved probabilistic inference of VGPs generalizes to a novel auditory tone-location discrimination task](vgp-improved-inference-auditory-task.md) — related
 - [Detection of motion discrepancies increases with both perturbation magnitude and duration, with response times decreasing with magnitude](detection-scales-with-magnitude-and-duration.md) — related
 - [Response time reliably decreased at all coherence levels while accuracy improved reliably only at intermediate coherence levels](rt-decreased-all-coherences-accuracy-intermediate.md) — related
+- [Junior 1, a regular video game player, showed the lowest hand motion values and greatest reduction in motion metrics, possibly reflecting dexterity transfer from gaming](video-gaming-dexterity-transfer-robotic-surgery.md) — related

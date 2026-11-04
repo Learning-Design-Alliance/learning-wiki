@@ -55,6 +55,7 @@ The review recommends moving grief training out of isolated voluntary workshops 
 - [Integrate MLM education longitudinally with experiential learning and robust program evaluation](mlm-longitudinal-experiential-integration-strategy.md)
 - [Integrate nutrition throughout medical training using a vertical spiral curriculum with practical teaching methods such as cooking lessons](vertical-spiral-nutrition-curriculum.md)
 - [Breadcrumb strategy: embed small AI-native skill exercises, nudges, and prompts across multiple courses throughout the four-year curriculum](breadcrumb-strategy-ai-native-skills.md)
+- [Integrate EI into health sciences curricula through structured experiential methods such as reflective journaling, simulation, peer mentoring, and structured debriefing](ei-experiential-curriculum-integration-strategy.md)
 
 ## Examples
 -

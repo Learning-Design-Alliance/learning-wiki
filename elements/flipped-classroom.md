@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 61 claims (33 for, 23 mixed, 5 against) · 35 studies (19 causal, 12 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 11 of 35 report an effect size · 60 claims rest on one study
+> **Evidence** · 66 claims (35 for, 26 mixed, 5 against) · 37 studies (21 causal, 12 quant-synthesis, 3 review, 1 design), `q1`–`q4` · 11 of 37 report an effect size · 65 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -85,6 +85,11 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](../claims/flipped-classroom-two-components.md) [+W]
 - [The flipped classroom rests on blended learning, student-centered learning, and active learning as theoretical foundations](../claims/flipped-classroom-theoretical-foundations.md) [+W]
 - [The flipped classroom intervention was implemented through planning, implementation, and evaluation stages over 12 weeks](../claims/flipped-classroom-three-stage-implementation.md) [~W]
+- [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](../claims/fc-satisfaction-and-implementation-challenges.md) [~W]
+- [Flipped classroom and traditional classroom groups show comparable multiple-choice question performance (p = 0.651)](../claims/fc-comparable-multiple-choice-performance.md) [~W]
+- [Both concept and application question scores improve significantly after flipped classroom combined with CBL](../claims/flipped-classroom-cbl-improves-concept-and-application-questions.md) [+W]
+- [Lower-baseline residents show larger score gains after flipped classroom combined with CBL](../claims/flipped-classroom-cbl-larger-gains-lower-baseline-residents.md) [~W]
+- [Team collaboration shows the largest perceived-effectiveness advantage for the flipped classroom (2.64 ± 0.53 vs. 2.14 ± 0.83, p < 0.001)](../claims/fc-largest-team-collaboration-advantage.md) [+W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

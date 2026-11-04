@@ -63,3 +63,4 @@ Fully crossed random-effects variance decomposition (Table 1) of squared misalig
 - [Prompt-level interventions to reduce cognates mostly failed, while lower sampling temperature and model self-checking offered partial mitigation](prompt-interventions-cognate-mitigation.md) — related
 - [LLMs struggle with nuanced coding schemes but binary question detection is feasible with simple prompts](llm-struggle-nuanced-coding-binary-feasible.md) — related
 - Sampling error accounts for only 0.015% of the variance, suggesting small bias from sampling error — related
+- [Model choice, prompting configuration, and rubric component all significantly affect LLM-human agreement, with significant interactions](mixed-effects-model-significant-main-and-interaction-effects.md) — related

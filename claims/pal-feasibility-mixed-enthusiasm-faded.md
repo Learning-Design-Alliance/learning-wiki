@@ -48,3 +48,4 @@ Process evaluation conducted alongside the trial: interviews with three headteac
 - [Implementation of school mindfulness programs is facilitated by collegial teaching, administrative and parental support, and children's enthusiasm, and hindered by lack of time and disengaged students](mindfulness-implementation-facilitators-barriers.md) — related
 - [Individual learning curves rise by irregular increments with occasional losses, with plateau-like periods attributed to changes in method and waning interest](irregular-individual-learning-increments-plateaus.md) — related
 - [The Talk for Writing programme was feasible to implement, with most teachers enthusiastic and programme features embedded in classroom practice](talk-for-writing-feasible-whole-school-implementation.md) — related
+- [A new independent teacher group endorsed the refined intervention's feasibility, practice-change potential and scalability](refinement-group-endorsement.md) — related

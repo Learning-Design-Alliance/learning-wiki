@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 150 claims (101 show a difference, 27 mixed, 22 no difference) · 121 studies (46 causal, 25 review, 20 quant-synthesis, 16 associational, 5 design, 5 theoretical, 4 qualitative), `q1`–`q4` · 20 of 121 report an effect size · 147 claims rest on one study
+> **Evidence** · 151 claims (102 show a difference, 27 mixed, 22 no difference) · 122 studies (46 causal, 25 review, 20 quant-synthesis, 16 associational, 6 design, 5 theoretical, 4 qualitative), `q1`–`q4` · 20 of 122 report an effect size · 148 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -191,6 +191,7 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Both teaching approaches significantly improve all four mathematical skills within groups](../claims/both-approaches-improve-all-four-skills.md) [+M] — instruction changes it
 - [Reflective learning produces significantly higher mean gains in mathematical communication skill than lecture-discussion](../claims/reflective-learning-higher-math-communication-gains.md) [+M] — instruction changes it
 - [Synectics workshops significantly increase perceived supportive communication skills, retained three months later](../claims/synectics-improves-supportive-communication-skills.md) [+M] — instruction changes it
+- [Most learners reported the session improved their confidence in caring for post-ROSC patients, communication, and leadership skills](../claims/learners-reported-session-improved-skills.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

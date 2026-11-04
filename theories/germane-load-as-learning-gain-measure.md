@@ -61,7 +61,8 @@ The article operationalizes germane load as learning effects: the portion of wor
 - 
 
 ## Examples
--
+
+- [Assess game-based learning outcomes using pre/post knowledge tests and satisfaction surveys](../strategies/pre-post-tests-and-satisfaction-surveys-for-game-based-learning.md)
 
 ## Key Sources
 - Miwa, K., Terai, H., & Mizuno, Y. (2017). Relations between cognitive resources and two types of germane load for learning. In D. G. Sampson, J. M. Spector, D. Ifenthaler, & P. Isaías (Eds.), *Proceedings of the IADIS International Conference on Cognition and Exploratory Learning in Digital Age (CELDA 2017)*. International Association for Development of the Information Society. https://eric.ed.gov/?id=ED579478

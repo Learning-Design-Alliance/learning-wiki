@@ -53,3 +53,4 @@ ROC analysis in the Results section (Fig. 1) plus Table 1 calibration metrics. L
 - [Rejecting the 40% lowest-confidence predictions with the hybrid confidence measure raises grading accuracy from 0.704 to approximately 0.900](rejection-04-accuracy-gain-hybrid-confidence.md) — related
 - [The model's posterior confidence estimates are conservative: over 95% of predictions the model claims 90–95% confidence in are correct](peer-grading-confidence-estimates-conservative.md) — related
 - [NIG-head predictive uncertainty is dominated by epistemic uncertainty and shows negligible correlation with the absolute engagement score (Pearson r 0.016 aleatoric, 0.025 epistemic)](epistemic-dominant-uncertainty-uncorrelated-with-engagement.md) — related
+- [Stated confidence discriminates correct from incorrect responses (GPT-5.2 AUROC approximately 0.87 to 0.90), though most configurations are net underconfident](llm-confidence-discriminates-correctness.md) — related

@@ -19,7 +19,7 @@ sources:
 # Knowledge Organization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (18 for, 13 mixed) · 35 studies (12 causal, 8 review, 6 quant-synthesis, 3 associational, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 8 of 35 report an effect size · 26 claims rest on one study
+> **Evidence** · 32 claims (19 for, 13 mixed) · 36 studies (12 causal, 8 review, 6 quant-synthesis, 3 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 8 of 36 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,7 @@ Assisted sorting, unaided rebuilding, integrative-task performance, detail recal
 - [Better diagrammatic reasoners sort external representations into fewer, more cohesive and more accurately named categories than poorer diagrammatic reasoners](../claims/card-sort-diagrammatic-reasoning-differences.md) [~W]
 - [In classroom-learned history content, sorting-task network overlap with an expert network correlates significantly with both lesson test and unit test scores one month later](../claims/sorting-overlap-correlates-classroom-test-scores.md) [+W]
 - [Sorting tasks elicited networks with more expert overlap than essay writing, suggesting sorting better captures nascent conceptual structures](../claims/sorting-elicits-more-overlap-than-essays.md) [~W]
+- [Students rated the bridging function of the course most highly, with the top course model items being strengthened basic-clinical linkage (4.72) and helped construct a coherent medical knowledge framework (4.70).](../claims/pbl-bridge-course-top-items-basic-clinical-linkage.md) [+W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — knowledge organization is often one concrete route to load reduction

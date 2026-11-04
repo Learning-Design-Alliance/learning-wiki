@@ -51,3 +51,4 @@ Quasi-experimental study of 30 Brazilian nursing students (15 per group) compari
 - [High-fidelity simulation improved auscultation performance in the intervention group, with no statistical or clinical differences between groups (Menon et al. pilot study)](high-fidelity-simulation-auscultation-pilot.md) — related
 - [Peer tutoring in clinical simulation is associated with improved technical skills such as laparoscopic tasks, lumbar puncture, and cardiovascular examination](peer-tutoring-simulation-technical-skill-gains.md) — related
 - [Simulation training improves cardiac auscultation skills but shows no effect on respiratory auscultation skills](sbme-cardiac-not-respiratory-auscultation.md) — related
+- [A post-ROSC simulation curriculum increased intern knowledge of post-ROSC hemodynamic and respiratory targets](post-rosc-simulation-increased-knowledge-targets.md) — related

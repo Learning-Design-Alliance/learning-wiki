@@ -52,3 +52,5 @@ Narrative synthesis of the review's included studies, citing Fischer et al.'s ra
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — a broader claim this one bears on
 - [Objective, device-based feedback is preferred in cardiac arrest simulation education](device-based-feedback-preferred.md) — related
 - [Compression depth and ventilated volume declined over twelve months in nursing students without monthly VAM practice, and differed from those who practised monthly](monthly-practice-depth-volume-decline.md) — related
+- [Real-time feedback training improves compression depth control within the recommended 5–6 cm range in hands-only CPR](real-time-feedback-improves-compression-depth-hands-only.md) — reports the opposite
+- [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](real-time-feedback-no-ventilation-improvement.md) — related

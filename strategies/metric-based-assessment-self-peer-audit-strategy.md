@@ -49,6 +49,7 @@ The authors recommend deploying the validated metric beyond initial training: it
 ## Related Strategies
 
 - [Use validated assessment instruments rather than self-created surveys when evaluating wound care education](validated-instruments-wound-care-evaluation.md)
+- [Provide standardized evidence-based bedside wound-care guidelines in surgical and trauma wards](bedside-guidelines-surgical-trauma-wards.md)
 
 ## Examples
 -

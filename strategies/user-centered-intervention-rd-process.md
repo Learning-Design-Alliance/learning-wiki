@@ -42,6 +42,7 @@ The article describes a multi-phase R&D process used to prepare the National Stu
 
 - [Six-step design methodology: elicit values, minimal intervention, multi-level multi-outcome evaluation, iterate, simulate scale, sunset](six-step-emancipatory-aied-design-methodology.md)
 - [Design Thinking](design-thinking.md)
+- [Use agile UX methodology with early-stage pilot evaluation to guide iterative VR development](agile-ux-iterative-vr-development-strategy.md)
 
 ## Examples
 -

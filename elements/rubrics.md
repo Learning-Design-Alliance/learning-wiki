@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 38 claims (16 for, 18 mixed, 4 against) · 35 studies (15 causal, 7 review, 6 design, 4 associational, 3 quant-synthesis), `q1`–`q3` · 5 of 35 report an effect size · 35 claims rest on one study
+> **Evidence** · 40 claims (17 for, 19 mixed, 4 against) · 37 studies (17 causal, 7 review, 6 design, 4 associational, 3 quant-synthesis), `q1`–`q3` · 5 of 37 report an effect size · 37 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -68,6 +68,8 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Rubric use liberated students from the narrow grammar-based perception of writing but not from the teacher's authority](../claims/rubrics-liberate-from-grammar-not-authority.md) [~W]
 - [Essay scoring showed substantial inter-rater agreement, with Cohen's kappa of 0.78, 0.70, 0.81, and 0.83 across the four rubric criteria](../claims/statecraft-x-essay-kappa-agreement.md) [+W]
 - [Study 2 PT-section gains appeared on the evidence, conclusion, and completeness rubric dimensions but not on alternatives](../claims/study2-dimension-level-gains.md) [~W]
+- [Inter-rater reliability of the GOALS total score was good (ICC = 0.795) in blinded porcine cholecystectomy assessment](../claims/goals-good-inter-rater-reliability-porcine-model.md) [+W]
+- [Model choice, prompting configuration, and rubric component all significantly affect LLM-human agreement, with significant interactions](../claims/mixed-effects-model-significant-main-and-interaction-effects.md) [~W]
 
 ## The evidence by question
 - *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]

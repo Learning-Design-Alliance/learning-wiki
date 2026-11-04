@@ -55,3 +55,4 @@ Systematic review with narrative synthesis of 15 studies of early clinical expos
 - [Most medical students report that early clinical exposure improves their communication skills](ece-improves-communication-skills-perceptions.md) — related
 - [Early clinical exposure increases medical knowledge test scores and motivates learning](ece-improves-knowledge-motivation.md) — related
 - [All three ECE modalities show significant positive effects, with real clinical interactions showing the largest pooled effect](ece-types-subgroup-effects.md) — related
+- [Over 65% and 90% of graduates agreed mentorship programs and practical exposures would improve MPH programs; over 90% agreed on problem solving skills](graduates-recommend-mentorship-practical-exposure-problem-solving.md) — related

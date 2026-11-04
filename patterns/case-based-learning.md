@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 72 claims (37 for, 34 mixed, 1 against) · 53 studies (20 causal, 14 quant-synthesis, 10 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 16 of 53 report an effect size · 67 claims rest on one study
+> **Evidence** · 76 claims (38 for, 37 mixed, 1 against) · 56 studies (23 causal, 14 quant-synthesis, 10 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 56 report an effect size · 71 claims rest on one study
 
 ## Description and scope
 
@@ -147,6 +147,8 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [CBL1 and CBL2 implementations did not differ significantly from each other in post-test acquisition scores](../claims/cbl1-cbl2-no-significant-difference.md) [~W] — attached 2026-11-02 from Dilek İlhan-Beyaztaş (2018), which proposed "Case-based curriculum implemented in two sequences: presentation-then-cases (CBL1) and cases-then-presentation (CBL2)".
 - [The CBL group performed significantly better on the final exam than the non-CBL group](../claims/cbl-improves-final-exam-performance-biochemistry.md) [+W] — attached 2026-11-03 from Kulak et al. (2015), which proposed "Use directed CBL as a low-resource active learning technique suitable for content-heavy courses"; tests this page's relationship.
 - [Case-based learning prevented the increase in surface approach to learning observed across the semester in the non-CBL group](../claims/cbl-prevents-surface-approach-increase-biochemistry.md) [+W] — attached 2026-11-03 from Kulak et al. (2015), which proposed "Use directed CBL as a low-resource active learning technique suitable for content-heavy courses"; tests this page's relationship.
+- [SDH-integrated CBL improves surgical interns' social factor identification and analysis (d = 1.39) versus CBL alone](../claims/sdh-integrated-cbl-improves-social-factor-analysis.md) [+W] — attached 2026-11-04 from Wen Zhi et al. (2026), which proposed "Embed SDH into core CBL components rather than appending it, to build social health competence without crowding out core knowledge".
+- [SDH integration does not compromise theoretical knowledge, physical examination, or diagnostic analysis versus CBL alone](../claims/sdh-integration-preserves-core-clinical-knowledge.md) [~W] — attached 2026-11-04 from Wen Zhi et al. (2026), which proposed "Embed SDH into core CBL components rather than appending it, to build social health competence without crowding out core knowledge".
 
 ## Illustrative design instance and observation record
 
@@ -186,6 +188,8 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 - [Video cases increase the number of design patterns from the pattern language 'Teaching' that pre-service teachers mention in written advice.](../claims/video-cases-increase-pattern-language-teaching.md) [+W]
 - [Video cases stimulate more development of the design pattern 'Dealing with disorder' than a course without video cases.](../claims/video-cases-increase-design-pattern-dealing-with-disorder.md) [+W]
 - [The CBL group perceived assessment as significantly more appropriate, with no other CEQ subscale differences](../claims/cbl-improves-perceived-assessment-appropriateness.md) [+W]
+- [Both concept and application question scores improve significantly after flipped classroom combined with CBL](../claims/flipped-classroom-cbl-improves-concept-and-application-questions.md) [~W]
+- [GenAI-assisted progressive-disclosure CBL modestly improves delayed final exam performance](../claims/genai-progressive-disclosure-cbl-final-exam.md) [~W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)

@@ -51,6 +51,7 @@ The report proposes a five-step roadmap for state and district leaders: establis
 
 - [Five-step state roadmap for equitable access to experienced teachers: examine data, diagnose level, set goals, enact policy, monitor accountability](five-step-state-roadmap-teacher-equity.md)
 - [Five policy priorities to address Michigan's inequitable teacher shortage: fair funding, data systems, career attractiveness, administrator supports, and professional development](five-priorities-michigan-teacher-shortage-policy.md)
+- [Establish equitable access and a national registry of trainee procedures](equitable-access-procedure-registry.md)
 
 ## Examples
 -

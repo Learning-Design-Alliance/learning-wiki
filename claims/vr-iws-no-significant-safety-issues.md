@@ -56,3 +56,4 @@ Safety evaluation in the multisite trial used exclusion criteria (seizures, migr
 - [Immersion in the virtual classroom did not induce unwanted negative side effects (cybersickness)](vr-immersion-no-cybersickness.md) — related
 - [Adverse effects of IVR simulation in nursing education are generally mild visual and vestibular symptoms](ivr-adverse-effects-mild-visual-vestibular.md) — a broader claim this one bears on
 - [VR use in anatomy learning can cause adverse effects and disorientation for some learners](vr-anatomy-adverse-effects-cybersickness.md) — related
+- [SVVR training is well tolerated, with only mild discomfort and no discontinuation due to adverse effects](svvr-training-well-tolerated-mild-discomfort.md) — related

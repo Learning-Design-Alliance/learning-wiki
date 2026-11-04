@@ -94,3 +94,4 @@ Manual error analysis found missed nuanced evidence mainly in long learning acti
 - [GPT-4o frequently makes characteristic errors in homework assessment, including failing to recognize unit and numeric equivalences, marking complete solutions incomplete, and mishandling alternative methods and notations](gpt4o-characteristic-assessment-error-types.md) — related
 - [Authoring by Tutoring produces fewer errors of all types than Authoring by Demonstration](tutoring-fewer-error-types-than-demonstration.md) — related
 - [Hallucination — the generation of inaccurate, unverified, or illogical content — is the most frequently reported technical challenge for LLMs in dental education](hallucination-most-frequent-technical-challenge.md) — related
+- [An exploratory LLM-judge audit labels knowledge gaps (39.1%) and reasoning errors (26.9%) as the most frequent failure modes among incorrect frontier-model responses](llm-judge-audit-failure-modes.md) — related

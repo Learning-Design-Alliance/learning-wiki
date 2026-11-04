@@ -48,3 +48,4 @@ Meta-analysis of educational status as a factor associated with nurses' palliati
 - [Palliative care training is significantly associated with Ethiopian nurses' knowledge of palliative care (AOR = 4.64)](palliative-care-training-associated-with-nurse-knowledge-aor-4-64.md) — related
 - [Pooled good knowledge of palliative care among Ethiopian nurses is 45.57%, meaning more than half had poor knowledge](ethiopian-nurses-palliative-care-knowledge-pooled-45-57.md) — related
 - [Only 36.02% of reviewed Ethiopian nurses had palliative care training, and Egger's test indicated no publication bias](low-training-coverage-and-no-publication-bias.md) — related
+- [Educational qualification shows no significant association with wound-care knowledge or practice levels](qualification-no-association-wound-knowledge.md) — related

@@ -64,3 +64,4 @@ Reflexive thematic analysis (Braun & Clarke) of open-response reflections collec
 - [Learners perceived face-to-face speaking tasks as more useful than asynchronous online tasks, citing lack of interaction and naturalness](learners-prefer-face-to-face-over-asynchronous-vt-tasks.md) — related
 - [Student teachers viewed delayed video-based feedback favorably, citing reduced anxiety and comfort, but noted technical and observational limitations](social-validity-delayed-video-feedback.md) — related
 - [Students perceive discussion boards as lowering anxiety about expressing opinions in a second language](discussion-board-lowers-l2-writing-anxiety.md) — related
+- [Thematic analysis identified exam-aligned structured practice as the core perceived value of AIVP](aivp-thematic-exam-aligned-practice.md) — related

@@ -54,3 +54,5 @@ Review synthesis of Rowe (2002), a predictive-validity evaluation of the AccuTou
 - [Just-in-time e-learning boosters immediately before procedures improved neonatal intubation knowledge and some performance measures](jit-elearning-booster-improves-intubation-knowledge-performance.md) — related
 - [The curriculum provided each fellow numerous critical procedure opportunities, with a mean of 27 critical care procedures performed (67.5% of opportunities)](sbl-curriculum-critical-procedure-opportunities.md) — related
 - [Simulation-based training shows no significant benefit over non-simulation based training for time-skill in airway management](sbt-no-time-skill-benefit-airway.md) — reports the opposite
+- [Most trainees never performed several procedures: 90% skipped intraosseous access, 88.5% skipped paracentesis](most-trainees-skip-rare-procedures.md) — related
+- [Simulation training reduced mean intubation time (149.81±108 sec before vs 51±96 sec after, p<0.001)](simulation-reduces-vl-intubation-time.md) — related

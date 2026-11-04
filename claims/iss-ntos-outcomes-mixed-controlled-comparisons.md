@@ -74,3 +74,4 @@ The review reports four controlled comparisons with null results: lecture-based 
 - [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](no-definitive-superiority-active-methods-dentistry.md) — related
 - [VR-based nurse-physician communication team training produced communication performance and interprofessional-attitude gains similar to live simulation](vr-noninferior-live-simulation-team-communication.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
+- [The simulation session increased intern self-reported confidence in managing post-ROSC patients and communicating handoffs](post-rosc-simulation-increased-confidence.md) — a narrower finding that bears on this claim

@@ -51,3 +51,5 @@ Review reports, from AbdElshafy et al. [22], a pre-post training study of 50 nur
 - [Educational programmes are associated with significant improvements in nurses' diabetic foot care practice, measured in seven of the nine included studies](educational-programmes-improve-nurse-foot-care-practice.md) — related
 - [The overall certainty of evidence for educational programme effects on nurses' knowledge and practice is very low (GRADE), driven by bias, inconsistency and imprecision](grade-very-low-certainty-nurse-foot-education.md) — a broader claim this one bears on
 - [Many nurses in SSA have adequate knowledge of diabetes self-management support and care in some studies](ssa-nurses-adequate-diabetes-care-knowledge.md) — related
+- [Higher educational qualification and longer nursing experience predict self‐reported skills, but demographic factors do not predict perceived knowledge](qualification-experience-predict-skills-not-knowledge.md) — related
+- [Educational qualification shows no significant association with wound-care knowledge or practice levels](qualification-no-association-wound-knowledge.md) — related

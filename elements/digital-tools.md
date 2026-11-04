@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 175 claims (91 for, 71 mixed, 13 against) · 150 studies (72 causal, 24 review, 15 quant-synthesis, 15 associational, 11 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 18 of 150 report an effect size · 174 claims rest on one study
+> **Evidence** · 176 claims (92 for, 71 mixed, 13 against) · 151 studies (73 causal, 24 review, 15 quant-synthesis, 15 associational, 11 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 18 of 151 report an effect size · 175 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -210,6 +210,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [English-language learners and students with disabilities were less likely to receive synchronous (live) digital tutoring](../claims/ell-disabilities-less-synchronous-tutoring.md) [-W]
 - [The SMS experimental group outperformed the control group on the post-test](../claims/sms-group-outperformed-control-post-test.md) [~W]
 - [Students across all learning styles found mobile Facebook convenient and easy to use for uploading, editing, and viewing ideas](../claims/mobile-facebook-convenient-easy-interface-all-learning-styles.md) [~W]
+- [AI-assisted caries annotation significantly improves dental students' diagnostic performance on panoramic radiographs compared with conventional interpretation](../claims/ai-annotation-improves-dental-student-caries-detection.md) [+W] — attached 2026-11-04 from Pornprasertsuk-Damrongsri S et al. (2026), which proposed "YOLOv5 plus Attention U-Net AI caries annotation software for panoramic radiographs"; tests this page's relationship.
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

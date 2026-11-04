@@ -69,3 +69,4 @@ Political-leanings comparison on the same pre/post HICCK measure: both liberals 
 - [No statistical difference between liberal and conservative students in the importance they placed on climate change](no-political-difference-climate-issue-importance.md) — related
 - [Both groups improved significantly from pre-test to post-test with no pre-existing difference between them](significant-pre-post-gains-both-esp-groups.md) — related
 - [Classroom climate significantly improved for treatment classrooms and decreased in control classrooms according to both teachers and students.](rd-program-improved-classroom-climate.md) — related
+- [Within-group knowledge gains from pre-test to post-test are statistically significant in both the intervention and control groups](within-group-knowledge-gains-both-groups-immunohematology.md) — reports the opposite

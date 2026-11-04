@@ -49,6 +49,7 @@ The report recommends an iterative approach in which researchers use existing da
 - [Phase-specific research-project activities: selecting situations and simulators, iterative design with expert workshops and pilot studies, and standardized study conduct](research-project-phase-strategies.md)
 - [Workshop model for running the IDR methodology with the wider community](idr-workshop-model-wider-community.md)
 - [School-led aggregated efficacy trials with independent expert oversight](school-led-aggregated-efficacy-trials.md)
+- [Use agile UX methodology with early-stage pilot evaluation to guide iterative VR development](agile-ux-iterative-vr-development-strategy.md)
 
 ## Examples
 -

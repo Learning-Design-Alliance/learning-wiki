@@ -60,6 +60,7 @@ The review recommends a measured adoption strategy: immersive technologies and v
 - [Consider VR as an adjunct to dissection and evaluate cost-effectiveness and adverse reactions when adopting VR for anatomy teaching](vr-anatomy-adjunct-adoption-strategy.md)
 - [Blend web-based and traditional approaches rather than replacing classroom instruction with web-based instruction](amalgamate-web-based-and-traditional-approaches.md)
 - [Embed game activities and resources across distributed existing media rather than building a stand-alone immersive game world](distributed-media-altrg-resource-strategy.md)
+- [Use AI-powered virtual patients for deliberate, psychologically safe communication practice with automated personalized feedback](ai-virtual-patient-deliberate-practice-strategy.md)
 
 ## Examples
 -

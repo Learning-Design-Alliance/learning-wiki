@@ -42,6 +42,8 @@ The article recommends that virtual simulation complement physical training for 
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Simulation Based Practice](simulation-based-practice.md)
 - [Integrate high-fidelity body donor models with low-fidelity simulators across the training progression](integrate-high-and-low-fidelity-simulation.md)
+- [Use AR visualization of hidden anatomy and simulated fluoroscopy to teach spatial reasoning in a radiation-free environment](ar-hidden-anatomy-spatial-learning-strategy.md)
+- [Use virtual simulation resources to prepare students before high-risk or complex experiments](virtual-simulation-prelearning-before-complex-experiments.md)
 
 ## Examples
 -

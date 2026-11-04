@@ -72,3 +72,5 @@ Single-centre RCT randomizing 16 general surgery trainees and residents to conve
 - [No significant differences found between virtual reality training and simulation training in GOALS scores or time to completion](vrt-versus-st-no-significant-difference.md) — related
 - [Simulation-based training improves global rating scores in laparoscopic surgery](simulation-training-improves-global-ratings.md) — a broader claim this one bears on
 - [Simulation-based training reduces intraoperative errors in laparoscopic surgery](simulation-training-reduces-intraoperative-errors.md) — related
+- [Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test](structured-vrst-curriculum-higher-goals-total.md) — related
+- [Subjective performance ratings (NRS) were significantly higher after structured VRST than after deliberate practice](structured-vrst-higher-nrs-ratings.md) — related

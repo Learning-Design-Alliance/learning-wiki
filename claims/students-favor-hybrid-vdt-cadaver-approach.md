@@ -49,3 +49,4 @@ Perception study reported within the review: in Koney et al.'s survey after a fu
 - [Choice of anatomy teaching strategies depends on institutional resource availability, with well-equipped institutions combining traditional and modern approaches](anatomy-teaching-strategies-resource-dependent.md) — related
 - [First-year podiatry students felt unprepared for cadaver dissection and experienced significant negative reactions](cadaver-dissection-unprepared-negative-reactions.md) — related
 - [Students preferred e-models used alongside physical models, suggesting digital tools alone may not fully replace traditional methods](e-models-preferred-alongside-physical-models.md) — possibly the same claim (merge candidate)
+- [81.9% of students endorsed the Anatomage as realistic compared to cadaveric dissection, with 'somewhat realistic' (67.0%) exceeding 'very realistic' (14.9%)](anatomage-realism-compared-to-cadaveric-dissection.md) — related

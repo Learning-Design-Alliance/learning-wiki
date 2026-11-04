@@ -67,6 +67,7 @@ R3STEP results (Table 5) show a scope limit: digital literacy failed to separate
 - [Digital Literacy](../learner-variables/digital-literacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Latent profile analysis of six AI-attitude indicators yields four profiles: Positive Empowerment, Anxious Acceptance, Low-Perception Detached, and High-Perception High-Vigilance](four-ai-attitude-latent-profiles-university-students.md) — related
 - [The High-Perception High-Vigilance profile combines elevated AI use anxiety and STARA awareness with strong capability perceptions and AI creative self-efficacy](high-vigilance-profile-opportunity-threat-coactivation.md) — related
 - [Profiles also differ in self-perceived employability, and elevated AI-related threat is not necessarily incompatible with career preparation](profiles-differ-in-perceived-employability-threat-not-incompatible.md) — related
@@ -74,3 +75,4 @@ R3STEP results (Table 5) show a scope limit: digital literacy failed to separate
 - [Demographic predictors of engagement profile membership differed across language groups, with employment the only significant predictor for English-speaking parents](demographic-predictors-differ-by-language-group.md) — related
 - [Episodic prospection develops over an extended period and may support academic behaviors aimed at envisioned future selves](episodic-prospection-development-academic-behavior.md) — related
 - [Community and Questions codes most strongly separated the four groups, especially Group A from the others](community-questions-codes-separate-groups.md) — related
+- [Only-child status, living situation and work experience were associated with caring perception profile membership](only-child-living-situation-work-experience-associated-with-caring-profile-membership.md)

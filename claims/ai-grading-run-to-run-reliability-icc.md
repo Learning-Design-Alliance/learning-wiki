@@ -78,3 +78,5 @@ Same five-run reliability analysis computed at the rubric-cell (item×student) l
 - [LLM-based scoring of Spanish argumentative writing achieves 60–80% per-item accuracy, slightly below human inter-rater agreement](llm-scoring-spanish-writing-60-80-accuracy-below-human-agreement.md) — related
 - [Independent grading by eight judges of 34 specimens showed average deviations below the 10-point scale spacing (average 6.1), supporting the scale's objectivity](ayres-scale-interjudge-consistency.md) — related
 - [Autograder accuracy on individual exams fluctuates around the expected performance, and strong deviations can be reliably detected by validation](per-exam-accuracy-fluctuates-validation-detects-deviations.md) — related
+- [Inter-rater reliability of the drawing assessments was high, with an average-measures ICC of 0.988 for the total score](high-inter-rater-reliability-drawing-assessments.md) — related
+- [Large closed-weights LLMs show high test-retest reliability when scoring clinical summary statements across repeated runs](llm-high-test-retest-reliability-summary-statement-scoring.md) — related

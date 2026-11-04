@@ -65,3 +65,4 @@ Theoretical reformulation in this narrative review, motivated because "Numerous 
 - [The model's assumed negative correlation between cognitive load and learner resources was not supported; the overall correlation was positive](load-resources-negative-correlation-not-supported.md) — related
 - [Instructional techniques for studying worked examples can increase germane cognitive load (per van Merriënboer, Schuurman, De Croock, & Paas)](worked-examples-increase-germane-cl-special-issue.md) — related
 - [Cognitive load theory explains how clinical reasoning learning manages working memory capacity](cognitive-load-theory-clinical-reasoning-working-memory.md) — related
+- [Intrinsic cognitive load was reported as low (M = 1.54, SD = 1.42) while germane load was higher (M = 4.26, SD = 2.95), indicating engagement in task-related cognitive processing](incarne-low-intrinsic-high-germane-load.md) — related

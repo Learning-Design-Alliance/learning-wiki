@@ -60,3 +60,4 @@ Null direct association between global trait EI (TEIQue) and GPA in this sample,
 - [Clinical instructors' ratings of students' emotional intelligence correlate with clinical performance while student self-ratings do not](ci-rated-emotional-intelligence-correlates-clinical-performance.md) — related
 - [Emotional intelligence is significantly but weakly positively correlated with academic success in undergraduate MD programs (r = .13)](ei-weakly-predicts-md-academic-success.md) — reports the opposite
 - [The authors argue academic grades are an unsuitable performance measure of EI in medical school because EI relates more to interpersonal and professional performance](grades-unsuitable-ei-measure-medical-school.md) — related
+- [Health sciences students experience emotional intelligence as self-awareness and emotional regulation that develops over time rather than as an innate trait](ei-self-awareness-regulation-developmental-qualitative.md) — related

@@ -70,3 +70,4 @@ Sub-group analysis of Gelinas-Phaneuf et al.'s VR tumour-resection simulator: "a
 - [Included studies demonstrated mixed evidence of construct validity, with some metrics distinguishing skill levels but others failing to do so.](mixed-construct-validity-robotic-hysterectomy-metrics.md) — related
 - [Three months of bovine-heart mitral valve repair simulation improved coaptation depth and regurgitation scores in junior and senior residents](tavlasoglu-coaptation-regurgitation-gains.md) — related
 - [Subanalyses by training level tend to favour CAI for both medical students and residents, though confidence intervals are imprecise](cai-students-residents-subanalysis.md)
+- [The overall positive surgical margin rate was 27.8%, with PSM rates higher in junior surgeons (39.5% and 36.1%) than senior surgeons (17.5% and 21.1%), though not statistically significant](psm-rates-by-surgeon-experience-versius.md) — related

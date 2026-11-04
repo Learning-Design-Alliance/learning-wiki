@@ -61,3 +61,5 @@ Synthesized finding from the meta-synthesis of 17 qualitative studies, drawing o
 - [Play rehearsal and performance were perceived as the most exciting and enjoyable RSA stages, building confidence in speaking English](rsa-acting-confidence-enjoyment.md) — related
 - [Students hold positive attitudes toward culture-based activities](positive-attitudes-toward-culture-based-activities.md) — related
 - [Pair interaction reportedly reduces anxiety and increases confidence and motivation](pair-interaction-reduces-anxiety-increases-motivation.md) — related
+- [Students report that progressive simulation practice builds handover confidence by reducing anxiety](progressive-simulation-practice-builds-confidence.md) — a narrower finding that bears on this claim
+- [Repeated clinical exposure reduces fear and develops professional self-efficacy in nursing students managing delirium](repeated-exposure-builds-delirium-self-efficacy.md) — a narrower finding that bears on this claim

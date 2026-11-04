@@ -44,6 +44,7 @@ The review recommends that educators "use validated instruments for the evaluati
 ## Related Strategies
 
 - [Use the observational metric for assessment, learner self- and peer-assessment, educational programme evaluation, and clinical audit of wound-dressing performance](metric-based-assessment-self-peer-audit-strategy.md)
+- [Provide standardized evidence-based bedside wound-care guidelines in surgical and trauma wards](bedside-guidelines-surgical-trauma-wards.md)
 
 ## Examples
 -

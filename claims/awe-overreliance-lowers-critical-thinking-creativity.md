@@ -67,3 +67,4 @@ Risk finding from the systematic review's thematic analysis of 50 empirical stud
 - AI assistance raises individual creative self-assessments but reduces collective diversity of novel content (reviewed finding) — related
 - [Teachers express concern that student overreliance on AI may degrade independent thinking and hands-on scientific skills](teacher-concern-overreliance-ai-degrades-skills.md) — related
 - [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](lmfm-overreliance-impedes-critical-thinking.md) — related
+- [Assessments requiring creative or critical thinking fall below a 50% solvability threshold for LLMs, per Akbar](creative-critical-thinking-below-50-percent-llm-solvability.md) — related

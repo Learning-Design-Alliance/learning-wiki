@@ -47,6 +47,7 @@ Based on the identified underrepresentation of interdisciplinary teamwork and pa
 ## Related Strategies
 
 - [Co-develop a dementia care competency framework with persons living with dementia, care partners and health professionals](codevelop-dementia-competency-framework-stakeholders.md)
+- [Integrate family-centered and empathic care into delirium education](family-centered-delirium-education.md)
 
 ## Examples
 -

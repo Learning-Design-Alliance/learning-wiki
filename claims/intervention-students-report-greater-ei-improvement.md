@@ -47,3 +47,4 @@ Interviews with 21 students across the six experimental groups at semester end. 
 ## Related Claims
 - [No significant difference in EI growth between online and face-to-face intervention groups](no-difference-online-versus-face-to-face-ei.md) — related
 - [Adolescents who engaged more with Crystals' empathy training mechanics showed greater increases in empathic accuracy-related RTPJ activation, controlling for total playtime](game-engagement-rtpj-activation-increase.md) — related
+- [Students report that EI supports interpersonal relationships and teamwork through empathy, active listening, and conflict management](ei-teamwork-empathy-conflict-management.md) — related

@@ -50,3 +50,4 @@ Descriptive analysis of fourteen cohorts' mean activity-emotion scores (Fig. 2).
 - [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related
 - [The cohort covariate's contribution to explained variance in all three writing measures fell well below the small-effect threshold](cohort-covariate-effect-below-small-threshold.md) — related
 - Existing SLA emotion research methods cannot capture the dynamic nature of emotions in language learning situations — related
+- [No statistically significant difference in total scores was found among the seven cohorts, with cohort membership explaining less than 1% of variance in scores.](pbl-bridge-course-no-cohort-differences.md) — related

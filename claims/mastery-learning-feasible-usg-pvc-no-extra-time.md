@@ -70,3 +70,4 @@ The review attributes to Kule et al. that "so called overtraining did not increa
 - [In eSpark quests requiring three post-quiz attempts, students reached the 80 percent mastery criterion only 14 percent of the time](espark-post-quiz-mastery-failure-rate.md) — related
 - [Nurses show a steep learning curve after initial USG-PVC training, reaching over 70% success probability after four to nine real-world attempts](steep-learning-curve-usg-pvc-nurses-attempts.md) — related
 - [Students with LD in the intervention group showed mean performance growth about 20% better than comparison LD students on the final CBM but did not, on average, meet the 70% mastery criterion](ld-students-growth-below-mastery.md) — related
+- [Median self-confidence in performing US-guided peripheral venous access increased from 5 to 8 after the brief training](us-training-confidence-5-to-8.md) — related

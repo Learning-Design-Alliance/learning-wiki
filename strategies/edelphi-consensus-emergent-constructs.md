@@ -41,6 +41,7 @@ The article demonstrates using a Delphi methodology to generate consensus among 
 ## Related Strategies
 
 - [Use a systematic review plus Delphi process to derive competency frameworks from empirical evidence](systematic-review-delphi-competency-derivation.md)
+- [Use a two-round modified Delphi process with specialty Scientific Committees and a predefined consensus threshold to build national competency catalogs](modified-delphi-national-competency-catalog-strategy.md)
 
 ## Examples
 -

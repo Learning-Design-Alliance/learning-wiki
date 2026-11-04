@@ -52,3 +52,4 @@ Random-effects meta-analysis across seven studies reporting traction time in hip
 - [HOS-SSS scores do not differ significantly between late and early hip arthroscopy experience phases](hip-arthroscopy-hos-sss-no-experience-difference.md) — related
 - [Late-experience hip arthroscopy cases show modest but significant gains in mHHS and NAHS compared with early cases](hip-arthroscopy-experience-modest-prom-gains.md)
 - [Fellowship-trained surgeons showed shorter operative times and fewer complications compared with non-fellowship peers](fellowship-trained-surgeons-shorter-operative-times-fewer-complications.md) — related
+- [Lymphadenectomy was associated with a statistically significant increase in console time (estimated difference 18.0 min, 95% CI 6.3–29.6)](lymphadenectomy-increases-console-time.md) — related

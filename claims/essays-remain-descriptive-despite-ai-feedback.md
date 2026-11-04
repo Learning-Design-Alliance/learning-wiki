@@ -51,3 +51,4 @@ Coding of essay reflection depth with a Hatton–Smith-derived four-category sch
 - [In the graduate course, most individual synthesis artifacts remained at surface level, with format and depth varying by group and reflecting differing conceptions of synthesis](synthesis-artifacts-varied-in-format-and-depth.md) — related
 - [Agency erosion appeared in 88% of student essays, most often as erosion of independent effort](agency-erosion-in-88-percent-of-essays.md) — related
 - [GenAI's default output on a take-home exam question remained at the quantitative, multistructural SOLO phase, producing polished but pedagogically thin responses](genai-default-output-multistructural-pedagogically-thin.md) — related
+- [Teaching and learning activities reported by students shift across categories from memorising facts to independent research reports](tla-progression-across-categories.md) — related

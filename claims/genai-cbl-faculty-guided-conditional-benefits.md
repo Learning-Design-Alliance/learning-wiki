@@ -75,3 +75,4 @@ The review reports this null/unfavorable pilot; it also reports that ChatGPT and
 - [Guided reflection embedded in self-assessment supports commencing students to engage responsibly and confidently with GenAI while maintaining academic integrity](guided-reflection-self-assessment-responsible-genai-engagement.md) — related
 - [LLMs, particularly GPT-4, can match or exceed medical students' examination performance](llms-match-or-exceed-medical-students-exam-performance.md) — related
 - [The process evaluation found PBL developed pupils' oracy, communication, teamwork and research skills](pbl-process-evaluation-skills-benefits.md) — related
+- [AI-supported module used mainly as a reflective comparison tool rather than an answer provider](ai-module-reflective-scaffold-use.md) — related

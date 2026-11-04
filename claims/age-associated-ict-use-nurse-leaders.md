@@ -49,3 +49,4 @@ Narrative synthesis of the Adatara et al. cross-sectional study within the revie
 - [Higher work experience and administrative experience are associated with lower ICT use and informatics competencies](experience-negatively-associated-digital-competence.md) — related
 - [Higher education level is significantly associated with leaders' ICT use and informatics competencies](education-level-associated-informatics-competencies.md) — related
 - [A third of Spanish educators (36.4%) used videogames as didactic tools in 2011-2012, with younger teachers more willing](spanish-educators-videogame-use-36-percent.md) — related
+- [Younger nursing professionals self-assessed RC competence highest, significantly on 4 of 8 subscales](younger-nurses-higher-self-assessed-rc-competence.md) — related

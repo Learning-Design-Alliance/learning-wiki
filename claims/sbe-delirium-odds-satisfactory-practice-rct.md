@@ -56,3 +56,5 @@ This multisite clustered, observer-blinded RCT randomized 190 post-registration 
 - [Positive patient outcomes were reported in 14 of 17 included CPD studies](cpd-positive-outcomes-14-of-17-studies.md) — related
 - Single-arm pre-post pilot studies were the most common design (21.1%), followed by RCTs (10.5%) and mixed-methods designs (10.5%) — related
 - [Consequences of clinical readiness include personal and job-related satisfactory outcomes](consequences-personal-job-related-outcomes.md) — related
+- [Only 32% of Jordanian ICU nurses had received formal mental health training, and 79% felt they could be better prepared with additional education](icu-nurses-mental-health-training-gap.md) — related
+- [SVVR training produces greater gains in nurses' delirium care knowledge than noninteractive video education immediately after training and at 1-month follow-up](svvr-greater-delirium-knowledge-gains-than-video.md) — related

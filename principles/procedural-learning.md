@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (25 for, 15 mixed, 2 against) · 61 studies (29 causal, 14 review, 9 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 9 of 61 report an effect size · 32 claims rest on one study
+> **Evidence** · 46 claims (28 for, 16 mixed, 2 against) · 64 studies (31 causal, 14 review, 9 quant-synthesis, 7 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 10 of 64 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,9 @@ Claims that bear on procedural learning but are not part of the model above, eac
 - [Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components](../claims/skill-develops-through-engagement-not-drill.md) [~W]: a theoretical argument from second-language acquisition (q1). It sits against prolonged isolated drill and beside the whole-task argument; it is an argument, not a test.
 - [The demonstration-with-review tutorial outperformed the demonstration-only control on practice, immediate post-test and delayed post-test](../claims/review-tutorial-outperforms-demonstration-only.md) [+W] — attached 2026-10-18 from Hans van der Meij (2016), which proposed "Follow each task demonstration with a short review recap to support retention of the procedure".
 - [Hands-on supervision produced higher correct teaching skills than a self-instructional manual after training](../claims/hands-on-supervision-superior-to-self-instructional-manual.md) [+W] — attached 2026-11-03 from Hatlenes et al. (2016), which proposed "Pair theory training with hands-on supervision to reach mastery-level teaching skills"; tests this page's relationship.
+- [Prior laparoscopic and robotic experience transferred to the Versius platform, enabling proficiency in fewer than 40 cases under structured proctoring](../claims/skill-transfer-prior-experience-versius.md) [+W] — attached 2026-11-04 from Fernández-Conejo G et al. (2026), which proposed "Structured proctoring shortens the learning curve for surgeons adopting a new robotic platform".
+- [Simulation training reduced mean intubation time (149.81±108 sec before vs 51±96 sec after, p<0.001)](../claims/simulation-reduces-vl-intubation-time.md) [+W] — attached 2026-11-04 from Bahri Badra et al. (2025), which proposed "Four-step procedural simulation sequence for teaching videolaryngoscope intubation"; tests this page's relationship.
+- [Simulation training reduced the mean number of attempts for successful intubation (3.81 vs 1.84, p<0.001)](../claims/simulation-reduces-intubation-attempts.md) [+W] — attached 2026-11-04 from Bahri Badra et al. (2025), which proposed "Four-step procedural simulation sequence for teaching videolaryngoscope intubation"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -167,6 +170,7 @@ Accuracy with help, unaided accuracy, speed, delayed retention, choice among pro
 - [Intraoperative feedback reduces procedure time and improves economy of movement in live cholecystectomy](../claims/feedback-cholecystectomy-time-economy.md) [+W]
 - [Random practice versus blocked practice shows no statistically significant difference on procedural performance tests](../claims/random-vs-blocked-practice-no-significant-difference.md) [-W]
 - [The teaching-skill advantage of hands-on supervision was maintained at two-month follow-up](../claims/hands-on-supervision-gains-maintained-follow-up.md) [+W]
+- [Simulation-based radiology training significantly improves procedural sequencing knowledge from pretest to posttest among medical technical assistant trainees](../claims/simulation-radiology-training-improves-procedural-sequencing.md) [~W]
 
 ## Related Principles
 - [Explicit Instruction](direct-instruction.md) — often supplies the visible model and sequence that procedural learning needs

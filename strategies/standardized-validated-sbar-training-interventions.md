@@ -46,7 +46,8 @@ The review's forward-looking recommendations are that "standardized and validate
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](../claims/sbar-structured-communication-in-simulation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use an SBAR-inspired observation grid to structure and assess nurse-patient communication during simulation](sbar-grid-assess-patient-communication-simulation.md)
 
 ## Examples
 -

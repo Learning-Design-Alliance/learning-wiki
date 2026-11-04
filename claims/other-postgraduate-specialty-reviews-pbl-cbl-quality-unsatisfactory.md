@@ -73,3 +73,5 @@ The review reports, citing three prior studies, that PBL appeared more effective
 - [Included RCT evidence is of generally low methodologic quality with high heterogeneity, limiting confidence in the PBL advantage](pbl-pediatric-rct-evidence-low-quality-heterogeneous.md) — related
 - [Analogies taught in small groups did not produce a statistically significant difference in clinical-case exam performance compared with traditional instruction in a wound-healing unit.](analogies-small-groups-no-significant-difference-surgery.md) — related
 - [Case-based learning prevented the increase in surface approach to learning observed across the semester in the non-CBL group](cbl-prevents-surface-approach-increase-biochemistry.md) — related
+- [MDT-CDIO integrated teaching yields higher overall performance scores than traditional teaching in orthopedic clinical education](mdt-cdio-higher-overall-performance-scores.md) — related
+- [No significant difference between PBL-CBL and traditional groups in post-class basic knowledge or skills scores](pbl-cbl-no-difference-basic-knowledge-skills-scores.md) — reports the opposite

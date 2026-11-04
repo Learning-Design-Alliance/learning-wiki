@@ -53,3 +53,4 @@ Pearson correlations between pooled motivational assessments and test/exam resul
 - [Exam grades correlate positively with designing competition and near-zero with designing fun in the Study 1 correlation table](designing-competition-exam-grades.md) — related
 - [The learning advantage of multimedia introductory messages is partially visible on global exams and not durable across the study](multimedia-introductory-message-exam-effect-partial.md) — related
 - [Across the total sample, exam scores correlated only weakly with total course points earned in learning activities (r = 0.30), suggesting grades did not strictly follow assessed learning](weak-correlation-exam-scores-course-points.md) — related
+- [Belief in combining learning modalities shows a weak positive correlation with exam scores](multimodal-belief-weak-positive-exam-correlation.md) — related

@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 95 claims (25 for, 31 mixed, 39 against) · 87 studies (31 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 14 of 87 report an effect size · 87 claims rest on one study
+> **Evidence** · 100 claims (28 for, 32 mixed, 40 against) · 91 studies (34 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 2 associational, 2 design), `q1`–`q4` · 16 of 91 report an effect size · 92 claims rest on one study
 
 ## Description and scope
 
@@ -217,6 +217,11 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Reflective learning produces significantly higher mean gains in conceptual understanding than lecture-discussion among prospective teachers](../claims/reflective-learning-higher-conceptual-understanding-gains.md) [-W]
 - [Jigsaw cooperative learning produces more positive student attitudes toward learning than traditional lecture-based instruction in Vietnamese higher education.](../claims/jigsaw-learning-positive-attitudes-vietnamese-higher-ed.md) [-W]
 - [Students in traditional and experiment conditions outperform tablet condition on transfer questions about the relation between wind and air pressure](../claims/transfer-wind-pressure-traditional-experiment-outperform-tablet.md) [-W]
+- [Blended learning achieves higher hospital OSPE scores than traditional lectures in practical immunohematology training](../claims/blended-learning-higher-hospital-ospe-immunohematology.md) [+M]
+- [Flipped classroom and traditional classroom groups show comparable multiple-choice question performance (p = 0.651)](../claims/fc-comparable-multiple-choice-performance.md) [~W]
+- [Blended learning achieves higher student satisfaction than traditional lectures in practical immunohematology training](../claims/blended-learning-higher-satisfaction-immunohematology.md) [+W]
+- [Pre-course test reveals high factual recall but insufficient clinical application ability under traditional teaching](../claims/pre-course-test-reveals-application-deficit-traditional-teaching.md) [+W]
+- [Feedback-based pedagogy significantly improves knowledge mastery in nanomedicine education compared to traditional didactic instruction](../claims/feedback-pedagogy-improves-nanomedicine-knowledge-mastery.md) [-W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

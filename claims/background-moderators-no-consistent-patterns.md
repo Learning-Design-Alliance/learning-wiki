@@ -60,3 +60,4 @@ Footnote in the experiments' method section reporting that exploratory moderator
 - [Neither URM status nor first-generation status moderates the intervention effects on retrieval practice outcomes](no-demographic-moderation-intervention-effects.md) — related
 - [Student background variables significantly affect learning motivation and demographic variables significantly affect learning achievement](background-demographic-variables-affect-motivation-achievement.md) — related
 - [Educational impacts of Family Rewards for high school students differed by baseline academic proficiency, with no impacts for unprepared students and strong impacts for better-prepared students](family-rewards-high-school-impacts-by-baseline-proficiency.md) — related
+- [Baseline characteristics and prior laparoscopic experience did not differ significantly between the structured VRST and control groups](no-baseline-differences-vrst-groups.md) — related

@@ -52,7 +52,8 @@ The article's concluding recommendation is that "Institutions aiming to implemen
 - [Adult learners value personalized mastery-based learning in AI-powered curricula, while some caution it can reduce exposure to new or unexpected content](../claims/personalized-mastery-based-learning-adult-ai.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Open online courses as flexible supplements for skills under-represented in formal curricula](open-online-courses-as-curricular-supplements.md)
 
 ## Examples
 -

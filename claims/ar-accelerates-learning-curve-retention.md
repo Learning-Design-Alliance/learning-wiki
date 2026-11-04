@@ -95,3 +95,4 @@ Parallel RCT (n=40 medical students) tracked across 10 ex vivo cholecystectomy s
 - [Skill retention after neuraxial technical training tends to decline over time](skill-retention-declines-after-neuraxial-training.md) — related
 - [AR-assisted training improves GOALS Global scores in novice laparoscopic learners](ar-training-improves-goals-global-laparoscopic.md) — related
 - [Simulation-based training can significantly shorten learning curves for technical skills compared to traditional clinical training alone](simulation-shortens-learning-curves.md) — related
+- [Exposure to AI-assisted training did not impair students' independent radiographic interpretation when AI support was removed](ai-training-did-not-impair-independent-interpretation.md) — related

@@ -51,3 +51,4 @@ Seven-lesson test of GPT-3.5-turbo prompting variants (Table 2). The five-shot C
 - [GPT-4 outperforms GPT-3.5-turbo in a single-lesson question-detection test](gpt4-outperforms-gpt35-single-lesson.md) — related
 - [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting score at or above zero-shot on every dataset tested, and above it in most comparisons](in-context-examples-improve-bloom-classification.md) — related
 - [Few-shot LLM approaches outperform standalone supervised ML approaches, yet hand-crafted rules remain relevant](few-shot-llm-outperforms-ml-hcr-relevant.md) — related
+- [Few-shot with chain-of-thought prompting achieves the best concordance with human expert ratings for all tested LLMs](few-shot-cot-best-concordance-human-experts.md) — related

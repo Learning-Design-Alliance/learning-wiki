@@ -53,3 +53,5 @@ Scoping review synthesis of actions toward groups, mostly from student perspecti
 - [Group A's brainstorming was repeatedly unproductive because individual interjections redirected the group's dialogue toward personal concerns](group-a-unproductive-brainstorming-personal-drift.md) — related
 - [Interpersonal relationships are framed as supports for motivation at school](interpersonal-relationships-support-school-motivation.md) — related
 - [Interpersonal agency in instructional design centers on collegial engagement, learner advocacy and trust building with faculty clients](interpersonal-agency-instructional-design.md) — related
+- [Students conceptualize EI as the foundation of leadership development and leadership readiness, including patient-centered leadership](ei-leadership-readiness-foundation.md) — related
+- [Students report that EI supports interpersonal relationships and teamwork through empathy, active listening, and conflict management](ei-teamwork-empathy-conflict-management.md) — possibly the same claim (merge candidate)

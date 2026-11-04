@@ -71,3 +71,4 @@ Descriptive category counts across sessions from the 830-prompt dataset. Instrum
 - [Student GenAI use patterns shifted across assessments: Learning and Formatting dominated under purpose-specific use, while Feedback became the dominant use (66.7%) under open use](genai-use-functions-shift-toward-feedback-across-assessments.md) — related
 - [Question-asking practice does not increase prompted question generation on a novel-animal task, nor the content categories of those questions](no-transfer-to-prompted-question-generation.md) — related
 - [Children encouraged to ask questions increase the number of relevant questions they ask over the course of training, but non-linearly](question-asking-increases-over-training-sessions.md) — related
+- [Teaching and learning activities reported by students shift across categories from memorising facts to independent research reports](tla-progression-across-categories.md) — related

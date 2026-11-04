@@ -49,3 +49,4 @@ Paired-sample t-test within the situational training game condition (n = 38) com
 - [Situational training games produced significantly higher post-test inhibition ability than casual games in a counterbalanced within-subjects experiment](situational-training-games-higher-inhibition-than-casual.md) — related
 - [Coherence scores decreased after game training for both novices and advanced learners](coherence-decrease-after-training.md) — related
 - [Theoretical competence improved after theory training with no significant group differences](theoretical-competence-improves-after-lecture.md) — related
+- [Game-based learning with a card game significantly improved anesthesiology residents' knowledge of anesthetic drugs](card-game-improves-anesthesiology-resident-pharmacology-knowledge.md) — related

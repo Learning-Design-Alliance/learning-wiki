@@ -55,3 +55,4 @@ The review's synthesis of multiple included simulation studies reports that "Sim
 - [Participants reported increased confidence, readiness and teamwork after completing the SimLab programme](simlab-confidence-teamwork-gains.md) — related
 - [Participants reported improved communication skills and faculty modeling of positive interpersonal interaction](prison-college-communication-skills-modeling.md) — related
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
+- [Students report that EI supports interpersonal relationships and teamwork through empathy, active listening, and conflict management](ei-teamwork-empathy-conflict-management.md) — related

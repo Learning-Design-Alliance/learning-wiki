@@ -64,6 +64,7 @@ The program's professional development model combines an initial workshop with o
 - [Teach-Model-Coach-Review caregiver coaching with mastery-timed workshops](tmcr-caregiver-coaching-workshops.md)
 - [Five-day teacher workshop for WRD curriculum framework training](five-day-wrd-teacher-workshop.md)
 - [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
+- [Implement a systematic faculty development program combining interdisciplinary team formation, structured training, peer observation, and weekly collaborative lesson preparation.](pbl-bridge-faculty-development-program.md)
 
 ## Examples
 -

@@ -94,3 +94,4 @@ Open questions include how durable the effects are beyond immediate performance,
 - [Basic DCT mechanisms can be used to model diverse educational phenomena](dct-mechanisms-model-educational-phenomena.md) — related
 - [Universal self-regulation interventions improve self-regulation in children and adolescents, with a pooled effect size of d = 0.42 (95% CI, 0.32-0.53) on task performance scores.](universal-sr-interventions-improve-sr-pooled-d-042.md) — related
 - [Process-oriented (bottom-up) therapies for DCD show weak or null effects, while task-oriented approaches are effective in improving motor performance](process-oriented-weak-task-oriented-effective-dcd.md) — related
+- [Self-talk activities were perceived as feasible and beneficial only when grounded in authentic, realistic modelling rather than exaggerated positivity](self-talk-authentic-modelling.md) — related

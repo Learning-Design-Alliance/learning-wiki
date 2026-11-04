@@ -89,3 +89,4 @@ The paper cites Basori et al. (2011) for the claim that realistic avatars commun
 - [Students report mixed social perceptions of DPBL, with some feeling isolated and others valuing the focused learning environment](dpbl-mixed-social-perceptions-isolation-focus.md) — related
 - [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) — related
 - [Environmental design is the most used presence-enhancement method (89.7% of studies), followed by multimodal sensory and avatar design (57.7% each)](environment-design-dominant-presence-method.md) — related
+- [Participants rate SOPHIE's actionable feedback highest among system features, above avatar realism](sophie-actionable-feedback-highest-rated-feature.md) — related

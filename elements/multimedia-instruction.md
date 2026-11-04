@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 95 claims (59 for, 33 mixed, 3 against) · 79 studies (57 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 17 of 79 report an effect size · 90 claims rest on one study
+> **Evidence** · 96 claims (60 for, 33 mixed, 3 against) · 80 studies (58 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 17 of 80 report an effect size · 91 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -131,6 +131,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Post-test achievement of the e-TLM experimental group (86.78) exceeded that of the conventionally taught control group (47.30)](../claims/e-tlm-outperforms-conventional-posttest.md) [+W] — attached 2026-11-03 from Singaravelu (2011), which proposed "Multimedia e-TLM package for English vocabulary at standard VI"; tests this page's relationship.
 - [Instructional media teaching produced significantly higher lexis formation achievement than conventional teaching among teacher training students](../claims/instructional-media-higher-lexis-formation-achievement.md) [+W]
 - [Instructional media teaching produced significantly higher comprehension achievement than conventional teaching among teacher training students](../claims/instructional-media-higher-comprehension-achievement.md) [+W]
+- [Both SVVR and noninteractive video groups improve attitudes toward delirium care with no significant between-group difference](../claims/attitudes-improve-both-groups-no-group-difference.md) [+W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

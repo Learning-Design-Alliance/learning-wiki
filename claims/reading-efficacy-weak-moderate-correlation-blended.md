@@ -47,3 +47,4 @@ Separate correlational analysis linking reading efficacy survey scores with MAP 
 ## Related Claims
 - [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](six-strong-component-skills-adult-reading-comprehension.md) — related
 - [Writing self-efficacy correlates weakly with writing performance in postsecondary studies, with most correlations below 0.25](writing-self-efficacy-weak-performance-correlation.md) — related
+- [Knowledge and practice scores correlate positively, and attitude correlates weakly with practice](knowledge-practice-spearman-correlation-wound-care.md) — related

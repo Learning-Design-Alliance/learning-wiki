@@ -58,3 +58,4 @@ Paired comparisons in Sec. 5.2 of reasoning variants against their base models (
 - [DTR (Deep-Thinking Ratio) does not predict tutoring quality despite predicting math accuracy](dtr-does-not-predict-tutoring-quality.md) — related
 - [Model and prompt choice account for only a small share of misalignment error, which concentrates in transcript-conditioned higher-order interactions](variance-decomposition-model-prompt-weak-levers.md) — related
 - [The author reports that prompt phrasing and the specific foundational model had secondary impact on final material quality compared with the structure of the workflow itself.](workflow-architecture-outweighs-prompt-phrasing.md) — related
+- [Few-shot with chain-of-thought prompting achieves the best concordance with human expert ratings for all tested LLMs](few-shot-cot-best-concordance-human-experts.md) — reports the opposite

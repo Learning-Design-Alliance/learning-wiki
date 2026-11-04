@@ -71,3 +71,4 @@ Facilitator interview evidence corroborating participant self-focus: FA 1 had th
 - [Video-assisted debriefing enhances precision but risks psychological safety and narrows reflection to individual performance](video-debriefing-precision-safety-tradeoffs.md) — related
 - [Peer review helped students notice their own mistakes through reviewing others' work](peer-review-reveals-own-mistakes.md) — related
 - [Qualitative evaluation identified per-format conditions: rubrics improved feedback transparency, summative peer assessment was judged infeasible, and video was seen as complementary to live observation](qualitative-conditions-rubrics-peer-assessment-video.md) — related
+- [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related

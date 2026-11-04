@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 128 claims (78 for, 48 mixed, 2 against) · 116 studies (36 causal, 29 review, 14 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 14 of 116 report an effect size · 114 claims rest on one study
+> **Evidence** · 129 claims (78 for, 49 mixed, 2 against) · 117 studies (37 causal, 29 review, 14 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 15 of 117 report an effect size · 115 claims rest on one study
 
 ## Conditional relationship
 
@@ -262,6 +262,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [The sports education model raises students' value/benefit and effort/importance attitudes more than the direct teaching model](../claims/sem-raises-value-benefit-and-effort-importance.md) [~W]
 - [Teaching mathematics in English using CLIL improved pupils' motivation and reduced fear of the subject.](../claims/clil-maths-motivation-fear-reduction.md) [+W]
 - [Both convergent and divergent task instruction increased learners' motivation over the treatment period](../claims/both-task-types-increase-motivation.md) [~W]
+- [Radiology-specialized trainees report substantially higher perceived utility value of the simulation than laboratory-specialized trainees](../claims/radiology-trainees-report-higher-utility-value.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

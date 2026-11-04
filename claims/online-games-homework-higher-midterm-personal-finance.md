@@ -49,3 +49,4 @@ Quasi-experimental comparison of two sessions of Personal Finance at a northeast
 - [A Mann-Whitney U test also showed the game-based session's scores differed statistically from the traditional session's](mann-whitney-confirms-game-session-difference.md) — related
 - [Final exam scores were significantly higher for the game-based homework session (t = -2.5559, p = 0.0168)](online-games-homework-higher-final-exam.md) — related
 - [On raw exam scores, interleaved homework produced no significant midterm difference between sections but a significant final exam advantage for the interleaved section](interleaved-homework-final-exam-raw-advantage-calculus.md) — related
+- [RFPETM students scored significantly higher than TPETM students on online, midterm, experimental report, final, and composite pharmacology experimental course scores](rfpetm-higher-qelp-scores-than-tpetm.md) — related

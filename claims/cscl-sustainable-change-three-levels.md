@@ -57,3 +57,4 @@ The editorial reports this as Hod et al.'s response to the Wise and Schwarz prov
 - [The editorial reports the squib's argument that ambitious learning practices can empower students, support shared meaning-making, and potentially disrupt social inequality](ambitious-learning-practices-argument.md) — related
 - [Development of collaborative classrooms and effective CSCL curriculum is a multi-year, multi-iteration process requiring sustained institutional commitment](cscl-teacher-development-multi-year-multi-iteration.md) — related
 - [Sustained large-scale systemic change in education is rare, with few success stories such as Head Start](large-scale-systemic-change-rare.md) — reports the opposite
+- [A new independent teacher group endorsed the refined intervention's feasibility, practice-change potential and scalability](refinement-group-endorsement.md) — related

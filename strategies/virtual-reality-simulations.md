@@ -73,6 +73,7 @@ VR's core pedagogical value is safe, repeatable practice of procedural and spati
 - [Supplement VR lessons with pre-training and follow-up reflection activities, and keep VR sessions short to limit fatigue and cybersickness](vr-sce-session-design-pretraining-reflection.md)
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
 - [Design XR interfaces for young learners with embodied tasks, direct manipulation, and layered spatial scaffolds](elementary-xr-interface-design-principles.md)
+- [Use AR visualization of hidden anatomy and simulated fluoroscopy to teach spatial reasoning in a radiation-free environment](ar-hidden-anatomy-spatial-learning-strategy.md)
 
 ## Examples
 - **Osso VR** (https://ossovr.com) — surgical rehearsal platform; randomized studies showed orthopedic trainees using it outperformed conventionally trained peers on assessed procedure performance [+M]

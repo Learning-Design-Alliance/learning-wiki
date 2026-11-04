@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 211 claims (144 show a difference, 44 mixed, 23 no difference) · 154 studies (49 causal, 42 review, 27 associational, 16 quant-synthesis, 10 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 42 of 154 report an effect size · 204 claims rest on one study
+> **Evidence** · 215 claims (147 show a difference, 45 mixed, 23 no difference) · 157 studies (49 causal, 42 review, 29 associational, 16 quant-synthesis, 11 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 44 of 157 report an effect size · 208 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -253,6 +253,10 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Students in WHS classrooms are rated higher on social skills at posttest than control students](../claims/whs-student-social-skills-improvement.md) [+M] — instruction changes it
 - Authentic real-life SL placements build PSTs' pedagogical methods, relationship-building skills, and confidence with ELLs [+M] — measured as an outcome of the instruction studied
 - [The Respecting Diversity program significantly increased students' self-respect, awareness of others, and respect for others, while control students decreased in these factors.](../claims/rd-program-increased-self-respect-awareness-of-others-and-respect-for-others.md) [+M] — measured as an outcome of the instruction studied
+- [Facial emotion recognition performance is positively associated with cognitive empathy in adolescents, but not with global or affective empathy.](../claims/fer-cognitive-empathy-association.md) [~M] — learners who differ on it differ in outcomes
+- [Low-achieving adolescents in school reinforcement programmes show significantly lower cognitive empathy than adequately performing controls, with the difference limited to the cognitive component of the Basic Empathy Scale.](../claims/lap-lower-cognitive-empathy-than-controls.md) [+M] — learners who differ on it differ in outcomes
+- [Self-reported empathy modestly predicts OSCE performance when considered on its own](../claims/self-reported-empathy-modestly-predicts-osce.md) [+W] — learners who differ on it differ in outcomes
+- [Students report that EI supports interpersonal relationships and teamwork through empathy, active listening, and conflict management](../claims/ei-teamwork-empathy-conflict-management.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

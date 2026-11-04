@@ -50,6 +50,7 @@ The program sustains instructional quality through a multi-layered support syste
 - [Provide at least 25 hours of targeted volunteer training, with at least half pre-service and the remainder throughout the year](experience-corps-25-hour-training-model.md)
 - [Support implementation with asynchronous onboarding plus ongoing data coaching and scripted lessons](capit-onboarding-data-coaching-strategy.md)
 - [Multi-level coaching structure for tutors: internal school coach plus program Coaching Specialist](multi-level-tutor-coaching-structure.md)
+- [Implement a systematic faculty development program combining interdisciplinary team formation, structured training, peer observation, and weekly collaborative lesson preparation.](pbl-bridge-faculty-development-program.md)
 
 ## Examples
 -

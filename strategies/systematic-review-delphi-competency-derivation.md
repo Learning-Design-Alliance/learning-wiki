@@ -50,6 +50,7 @@ The article describes a novel methodological approach combining a mixed-methods 
 ## Related Strategies
 
 - [Use eDelphi studies with expert panels to establish consensus on definitions of emergent learning design constructs](edelphi-consensus-emergent-constructs.md)
+- [Use a two-round modified Delphi process with specialty Scientific Committees and a predefined consensus threshold to build national competency catalogs](modified-delphi-national-competency-catalog-strategy.md)
 
 ## Examples
 -

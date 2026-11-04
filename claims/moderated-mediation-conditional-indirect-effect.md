@@ -53,3 +53,4 @@ Bootstrap conditional indirect effect analysis (5,000 resamples) on the 1,198-st
 - [Digital competency strengthens the positive relationship between teacher–AI collaboration and psychological availability](digital-competency-strengthens-tac-availability-link.md) — related
 - [Psychological availability mediates the positive pathway from teacher–AI collaboration to work engagement](psychological-availability-mediation-teacher-ai-engagement.md) — related
 - [Teacher–AI collaboration is positively related to university teachers' work engagement](teacher-ai-collaboration-positively-related-work-engagement.md) — related
+- [Open science engagement significantly moderates the mediated pathway, amplifying the indirect effect by 58% under high-engagement conditions](open-science-moderates-mediated-pathway-58-percent.md) — related

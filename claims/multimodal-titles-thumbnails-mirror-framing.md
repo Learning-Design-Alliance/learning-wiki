@@ -50,3 +50,4 @@ Binary coding of title text and thumbnail features across 51 of 52 videos (one t
 - [Learning-oriented video groups differ significantly from the productivity-oriented group on the primary ENA axis, with large effect sizes](ena-group-differences-large-effects.md) — related
 - [Viewers of learning-oriented content describe ChatGPT as a tutor or thinking partner, while viewers of output-oriented content raise over-reliance and cognitive-offloading concerns](viewer-comments-diverge-by-framing.md) — related
 - G2 is distinguished from G1 by a strong Pedagogical–Active_Recall co-occurrence that code frequencies alone cannot reveal — related
+- [YouTube is the most used online video platform overall, but reliance shifts toward specialized platforms as students enter clinical years](youtube-dominant-shift-to-specialized-platforms.md) — related

@@ -50,3 +50,4 @@ HLM analysis of teacher ratings collected at three time points in the cluster-ra
 - [SSS participation increased growth in cooperation in classroom interactions](sss-increased-cooperation-growth-fifth-grade.md) — related
 - [SSS participation prevented a rise in disruptive behavior over the school year that was observed in control students](sss-prevented-rise-in-disruptive-behavior.md) — related
 - [Participation in the Student Success Skills program reduced the growth of test anxiety over the school year in 5th graders](sss-reduced-test-anxiety-growth-fifth-grade.md) — related
+- [Intervention increases behavioral engagement: voluntary responses, evidence-referencing, and discussion time](genai-cbl-behavioral-engagement.md) — related

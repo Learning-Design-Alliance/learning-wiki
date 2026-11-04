@@ -41,6 +41,7 @@ The article's first design guideline recommends combining tangibility and mixed 
 - [Multiple Modalities for Perceiving Information](multiple_modalities_for_perceiving_information.md)
 - [Multi Sensory Learning](multi-sensory-learning.md)
 - [Design intuitive, multisensory, layered visualizations with evolving assessment to reduce cognitive load](layered-multisensory-visualizations-reduce-load.md)
+- [Recommendation that educators include implicit spatial training combining multimodal visual and physical resources](recommend-multimodal-visual-haptic-spatial-training.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Satisfaction Likert-scale questionnaire (Table 1, n = 64) completed at the end o
 ## Related Claims
 - [Nursing students express positive perception of preclinical maternity simulation sessions, with objectives and information rated highest and fidelity/realism rated lowest](positive-perception-preclinical-maternity-simulation.md) — related
 - [Students report high satisfaction with CAMI, finding it more interesting and easier to understand than traditional instruction](cami-learning-satisfaction-chinese-instruments.md) — related
+- [Participants reported high satisfaction with simulation sessions but criticized time allocation and group size](simulation-session-satisfaction-time-group-size.md) — related

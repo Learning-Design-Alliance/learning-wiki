@@ -51,6 +51,7 @@ The authors position the system as supporting deliberate practice — repeated, 
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Provide intensive early supervision to build mental representation, then transition learners to self-directed practice with automated feedback](early-intensive-supervision-then-self-directed-practice.md)
+- [Use AI-powered virtual patients for deliberate, psychologically safe communication practice with automated personalized feedback](ai-virtual-patient-deliberate-practice-strategy.md)
 
 ## Examples
 -

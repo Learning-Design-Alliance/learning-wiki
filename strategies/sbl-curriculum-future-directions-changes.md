@@ -49,6 +49,7 @@ From the end-of-curriculum survey and focus group, the authors identified three 
 ## Related Strategies
 
 - [Condense curriculum development into three phases — needs assessment, instructional strategies, evaluation — using multiple needs assessments to select strategies](condensed-three-phase-curriculum-development-strategy.md)
+- [Use brief task-specific training with handheld ultrasound devices to enable rapid procedural skill acquisition in novices within limited rotations](brief-task-specific-us-training-strategy.md)
 
 ## Examples
 -

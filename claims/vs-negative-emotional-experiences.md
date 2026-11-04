@@ -52,3 +52,4 @@ Synthesized negative-experience finding from the meta-synthesis; students worrie
 - [Students performed not as well and experienced higher levels of anxiety if the language of the virtual simulation was not in their native language](non-native-language-virtual-simulation-worse-performance-higher-anxiety.md) — related
 - [XR gesture-simulation interventions reduce anxiety in most included midwifery and nursing education studies](xr-gesture-simulation-reduces-nursing-anxiety.md) — related
 - [Postponing the conducting of research has led to student anxiety over the practice of qualitative research, and early experiential learning helps students understand the subject better and overcome fears](postponing-research-increases-student-anxiety-qualitative-research.md) — related
+- [Students report that progressive simulation practice builds handover confidence by reducing anxiety](progressive-simulation-practice-builds-confidence.md) — reports the opposite

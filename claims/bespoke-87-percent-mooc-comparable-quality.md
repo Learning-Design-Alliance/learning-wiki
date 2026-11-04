@@ -55,3 +55,4 @@ Expert rating study of the Bespoke corpus: 25 domain-matched reviewers each scor
 - [Multimodal XGBoost models achieved rubric-aligned scoring comparable to expert ratings, and no single modality approached multimodal performance](multimodal-xgboost-expert-comparable-scoring.md) — related
 - [96.9% of participating experts reported the video-assessment-remediation workflow provides a more effective learning experience than instructional videos alone](969-percent-experts-prefer-remediation-workflow.md) — related
 - [MOOC adoption remains limited to a small segment of higher education institutions, with most institutions deciding against or remaining undecided about MOOCs](mooc-adoption-small-segment-institutions.md) — related
+- [Student-produced science popularisation videos reach good-to-excellent quality, with content organisation scoring lowest](student-video-quality-good-to-excellent-organisation-lowest.md) — related

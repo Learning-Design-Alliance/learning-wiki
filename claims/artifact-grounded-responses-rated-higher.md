@@ -70,3 +70,4 @@ In the same paired rating study, accuracy showed no statistically significant di
 - [MAIC's script generation function outscores baseline and human script generation on five Likert-rated dimensions](maic-funcgen-outperforms-baselines.md) — related
 - [Research-question responses score higher Answer Relevancy (0.87) than follow-ups (0.72), while Faithfulness, Context Relevance and Response Groundedness are lower](rq-higher-relevancy-lower-grounding.md) — related
 - [An expert evaluator rated all GPT-4-generated tests as helpful and comprehensive but noted questions were too easy for specialists](expert-rated-tests-very-helpful.md) — related
+- [Blinded artifact scoring showed higher objective behavioral-output scores in the experimental group across four dimensions](blinded-artifact-scoring-experimental-group-higher.md) — related

@@ -51,3 +51,4 @@ Frequency analysis of 310 student–GenAI interaction log entries from six group
 - [Without explicit scaffolding, the two lower-agency paths (Passive Review and Direct Question) accounted for 64% of student-AI interactions in the primary sample](paths-1-2-default-64-percent.md) — a broader claim this one bears on
 - [Students perceived eight GenAI roles but lacked engagement and a sense of achievement](eight-perceived-genai-roles-low-achievement.md) — related
 - [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](high-trust-limited-critical-evaluation-genai.md) — related
+- [Visible interaction rates on an educational Instagram account remain modest relative to total reach, suggesting primarily passive engagement](histo-embryo-passive-engagement-model.md) — related

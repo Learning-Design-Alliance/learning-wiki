@@ -70,3 +70,4 @@ Teacher feedback on their own rankings of TEC elements: "Session 1 of the DVD ep
 - [Teachers reported increased motivation and confidence leading groups and new instructional strategies from using the TEC curriculum](tec-summer-teacher-outcome-gains.md) — related
 - [Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities](tec-summer-teacher-reported-motivation-gains.md) — related
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — related
+- [Students were most engaged during the demonstration and least engaged during the lecture portions of the session.](engagement-demonstration-vs-lecture-ciq.md) — related

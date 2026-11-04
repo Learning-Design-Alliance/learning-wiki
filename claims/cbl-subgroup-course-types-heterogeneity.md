@@ -50,3 +50,4 @@ Subgroup analysis of the 15 RCTs split into basic theory courses (n = 2) and app
 - [CBL is the highest-ranked strategy for enhancing medical students' theoretical test scores, with CBL, PBL, SBL and FC each significantly outperforming LBL](cbl-highest-ranked-theoretical-test-scores-nma.md) — a broader claim this one bears on
 - [Exploratory subgroup analysis suggests larger effects in practice courses than theory courses, driven by only 2 practice-oriented studies](llm-teaching-practice-course-subgroup-signal.md) — related
 - [Case-based learning and combined emerging methods show non-significant pooled advantages over lecture-based learning](cbl-combined-methods-nonsignificant-dental.md) — related
+- [Both PBL-CBL and traditional teaching groups improve theoretical and skills scores after the course](both-groups-improve-scores-after-course.md) — related

@@ -47,6 +47,7 @@ Based on the review's findings, the authors recommend that "institutions should 
 - [Educators should provide clear instructions and avoid limiting student discussion to promote SDL](educator-clear-instructions-avoid-limiting-discussion.md)
 - [Build supportive organizational structures — clear career pathways, mentorship programs, and leadership development — to enhance nurses' EBHC competence](organizational-structures-care-pathways-mentorship-leadership-ebhc.md)
 - [SDL implementation must be tailored to each healthcare system's socio-cultural and economic realities, including hierarchical structures and resource constraints](tailor-sdl-to-sociocultural-context.md)
+- [Formalize clinical peer-mentorship programs pairing senior staff with junior nurses](peer-mentorship-junior-nurses-wound-care.md)
 
 ## Examples
 -

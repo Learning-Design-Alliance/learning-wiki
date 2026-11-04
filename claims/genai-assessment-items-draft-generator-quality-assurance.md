@@ -97,3 +97,4 @@ The review reports these positive signals alongside settings where incorrect key
 - [47.08% of the 242 correct MCQs met all evaluated criteria and only four items exhibited three or more flaws](mcq-flaw-cooccurrence-121-pass-all.md) — related
 - [ChatPDF.com generates more difficult and discriminating MCQs than ChatGPT 3.5 and ChatGPT 4](chatpdf-com-more-difficult-discriminating-mcqs.md) — related
 - [Llama 2 generates MCQs of worse quality than humans on question clarity and distractor quality](llama-2-mcq-quality-worse-than-humans.md) — related
+- [All AI-generated case drafts required expert correction, with a mean of 1.65 medical errors and 2.43 logical inconsistencies per case](genai-cbl-hallucination-audit.md) — a narrower finding that bears on this claim

@@ -156,6 +156,7 @@ Civic attitudes, self-reported self-efficacy, the quality of reflection, content
 - [SPIRaL (Students Partners for Information Research and Literacy)](../products/spiral-students-partners-for-information-research-and-literacy.md)
 - [Embed real-life problems into national curricula for open schooling](../strategies/embed-real-life-problems-national-curricula.md)
 - [Theory courses should require an application piece such as real-world clients or service-learning to prepare designers for practice](../strategies/theory-course-application-piece.md)
+- [Add experiential learning, internships and real-world attachments to MPH programs to link theory and practice](../strategies/mph-experiential-learning-internships-strategy.md)
 
 ### Illustrative
 

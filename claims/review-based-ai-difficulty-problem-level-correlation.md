@@ -55,3 +55,4 @@ Cross-sectional review-based calibration of 79 problems from 11 parallel-class f
 - [Item-difficulty orderings diverge across cohorts, with the weakest correlation between academics and students (r = 0.188) and no stable shared developmental hierarchy](cohort-difficulty-ordering-correlations-diverge.md) — related
 - [Background story does not significantly impact difficulty of introductory programming problems](background-story-no-difficulty-impact.md) — related
 - [A large share of passing students fail the Physics I. exam, which students treat as the hardest, usually leaving a week gap before attempting it](physics-exam-hardest-week-gap.md) — related
+- [Human and machine item facility correlate moderately (Spearman ρ=0.40), lower than predicted by a uniform-advantage simulation (0.63)](human-machine-item-facility-correlation-moderate.md) — related

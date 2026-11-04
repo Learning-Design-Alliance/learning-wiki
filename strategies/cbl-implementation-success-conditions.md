@@ -60,6 +60,7 @@ The review enumerates crucial considerations for maximizing CBL's potential: "en
 - [Weekly trainee-led CBL sessions with case presentation, self-directed research between sessions, and attendance and utility tracking](trainee-led-weekly-cbl-feasibility-session-cycle.md)
 - [Support CBL implementation with instructor training, gradual student introduction, and monitoring of student stress and feedback](cbl-implementation-support-strategy.md)
 - [Implement CoBl with prepared resources, multi-role instructors, and active collaborative learners](cobl-implementation-strategy.md)
+- [Provide sufficient pre-class preparation time and adjust teaching based on ongoing trainee feedback](sufficient-pre-class-time-ongoing-feedback-strategy.md)
 
 ## Examples
 -

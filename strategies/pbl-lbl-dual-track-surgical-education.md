@@ -55,6 +55,7 @@ The authors propose a dual-track model in which LBL handles theory and basic sur
 - [Combine CBL and PBL approaches in clinical teaching settings to target both theory and practical outcomes](combine-cbl-pbl-clinical-teaching.md)
 - [Combine PBL with LBL as a dual-track teaching model in Chinese medical education](pbl-lbl-dual-track-medical-education-strategy.md)
 - [Combine the PBL and ATI models with different approaches for optimal results](combine-pbl-and-ati-models-strategy.md)
+- [Use combined PBL-CBL teaching in clinical settings where direct patient exposure is limited](pbl-cbl-for-limited-patient-exposure-settings.md)
 
 ## Examples
 -

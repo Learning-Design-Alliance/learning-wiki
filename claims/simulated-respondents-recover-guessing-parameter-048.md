@@ -50,3 +50,4 @@ Discussion-section interpretation of the Table 5 results: a model that merely re
 - [Under a five-band discretization of difficulty, the simulated-respondent model reaches quadratic weighted kappa 0.835 versus 0.692 (MetaMath) and 0.625 (MathBERT)](qwk-discretized-difficulty-agreement-0835.md) — related
 - [Discrimination parameter recovery is weak (Pearson 0.31 for Qwen3.5-9B, below MathBERT's 0.35), with slope information partially lost through ability discretization](weak-discrimination-parameter-recovery.md) — related
 - [Test item construction, including avoidance of cognate L1 equivalents, often affects KVL difficulty scores beyond the genuine difficulty of the words](test-item-construction-affects-kvl-difficulty-scores.md) — related
+- [A surface-feature classifier recovers the keyed answer at 34.4%, almost entirely attributable to a longest-option heuristic rather than broad surface leakage](surface-feature-classifier-longest-option-artifact.md) — related

@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 96 claims (41 for, 48 mixed, 7 against) · 105 studies (27 causal, 23 review, 18 theoretical, 16 quant-synthesis, 8 associational, 7 qualitative, 6 design), `q1`–`q4` · 14 of 105 report an effect size · 85 claims rest on one study
+> **Evidence** · 97 claims (42 for, 48 mixed, 7 against) · 106 studies (28 causal, 23 review, 18 theoretical, 16 quant-synthesis, 8 associational, 7 qualitative, 6 design), `q1`–`q4` · 14 of 106 report an effect size · 86 claims rest on one study
 
 ## Conditional relationship
 
@@ -166,6 +166,7 @@ Claims read against this model that bear on it only at the edges, or not at all.
 - [The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education](../claims/osp-overcomes-ict-barriers.md) [+W]
 - [Tertiary institutions face substantial ICT infrastructure constraints, with 54.2% of colleges lacking well-equipped computer laboratories and only 46% ICT usage reported](../claims/ict-infrastructure-constraints-tertiary-colleges.md) [~M] — attached 2026-10-31 from Gloria Mothibi (2015), which proposed "Provide adequate ICT infrastructure to facilitate e-learning in higher education, because the meta-analytic effect size indicates this can substantially improve learning and achievement".
 - [Multimedia materials alone are insufficient: attitude changes required interactivity and hands-on use](../claims/interactivity-hands-on-required-attitude-change.md) [+W] — attached 2026-11-03 from Záhorec et al. (2010), which proposed "Multimedia teaching materials must offer interactivity and hands-on student use to influence attitudes"; tests this page's relationship.
+- [Access to a structured Google Sites learning pathway increases consistent use of the faculty-recommended nine-step ECG interpretation worksheet.](../claims/google-sites-increases-worksheet-use.md) [+W] — attached 2026-11-04 from El Ayech Boudiche Faten et al. (2026), which proposed "Embed the faculty-recommended structured worksheet within the digital learning pathway rather than leaving it as a standalone resource".
 
 ## Objective and learner-valued goal
 

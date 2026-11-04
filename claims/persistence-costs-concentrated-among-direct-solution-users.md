@@ -166,3 +166,4 @@ The article reports, citing Liu et al. (2026), a randomized controlled trial in 
 - [High-school students given GPT-4 access solved more problems in the moment but performed worse than controls once the tool was removed (review attribution)](gpt4-access-worse-after-removal-math.md) — a broader claim this one bears on
 - [LLM-assisted self-study yields higher post-intervention exam performance than traditional resources among early-career knowledge workers](llm-self-study-beats-traditional-resources-exam-performance.md) — related
 - [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](pa-scaffolding-hints-not-solutions.md) — related
+- [Exposure to AI-assisted training did not impair students' independent radiographic interpretation when AI support was removed](ai-training-did-not-impair-independent-interpretation.md) — related

@@ -77,3 +77,5 @@ Retention analysis of four RCTs measuring knowledge three months after training.
 - [High-fidelity simulation training produced knowledge and skill gains in nursing students that persisted at three months](high-fidelity-simulation-cpr-gains-retained-3-months.md) — reports the opposite
 - [Workshop, simulation, and team-review methods significantly improve teamwork behaviors, while the pooled effect of didactic education alone was not significant](didactic-education-fails-to-improve-teamwork.md) — reports the opposite
 - [Teamwork training interventions produce significant positive effects on teamwork behaviors in controlled studies](teamwork-training-improves-teamwork-behaviors.md) — related
+- [High-fidelity simulation yields higher student satisfaction and self-confidence in learning than low-fidelity models](hfs-3d-printer-moulage-higher-satisfaction-selfconfidence.md) — reports the opposite
+- [Nursing students report high satisfaction and self-confidence after hybrid simulation training](high-satisfaction-self-confidence-hybrid-simulation-nursing.md) — related

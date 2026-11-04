@@ -50,3 +50,4 @@ Narrative synthesis of four RCTs measuring satisfaction. Three studies favouring
 - [Email-delivered spaced education is the only intervention type shown to improve both clinician behaviour and patient outcomes for guideline adoption](spaced-education-improves-behaviour-and-patient-outcomes.md)
 - [Digital education on clinical practice guidelines is at least as effective as traditional learning for knowledge (pooled SMD 0.23, non-significant)](digital-education-guidelines-knowledge-vs-traditional.md) — related
 - [Digital learning resources show no between-group difference compared with clinical practice guidelines in most studies](dlr-versus-guidelines-no-difference.md) — related
+- [Blended learning achieves higher student satisfaction than traditional lectures in practical immunohematology training](blended-learning-higher-satisfaction-immunohematology.md) — related

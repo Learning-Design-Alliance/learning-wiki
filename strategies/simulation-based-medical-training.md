@@ -75,6 +75,7 @@ Simulation works because it allows deliberate practice with immediate feedback â
 - [Deliver NTS training through simulation-based courses with structured debriefing focused on Crisis Resource Management principles, supplemented by in-situ refreshers and visual reminders.](simulation-crm-debriefing-delivery-strategy.md)
 - [Use conversation analysis of real interactions to underpin and enhance role play and simulated patient training rather than replace it](use-ca-to-enhance-simulation-design.md)
 - [Use mental practice as an addition to physical practice for procedural skill learning in medical education](mental-practice-for-procedural-learning-strategy.md)
+- [Use a structured debrief based on PEARLS covering teamwork, communication, and clinical reasoning](pearls-structured-debrief-strategy.md)
 
 ## Examples
 - **[Center for Medical Simulation, Harvard](https://harvardmedsim.org)** â€” pioneer of the "debriefing with good judgment" method now widely adopted in simulation faculties.

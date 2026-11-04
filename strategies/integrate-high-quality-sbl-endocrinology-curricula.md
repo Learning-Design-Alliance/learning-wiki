@@ -55,6 +55,7 @@ The article recommends that educational institutions incorporate high-quality SB
 - [Integrate simulation technologies with traditional teaching through blended approaches tailored to specific clinical tasks](blended-simulation-integration-orthodontic-curricula.md)
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
 - [Integrate ECE into dental curricula through hybrid models balancing simulation and real patient contact](hybrid-ece-curriculum-integration-strategy.md)
+- [Integrate simulation, case-based learning, and communication-focused training into pre-clinical delirium curricula](simulation-case-based-delirium-training.md)
 
 ## Examples
 -

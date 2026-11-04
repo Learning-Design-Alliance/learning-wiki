@@ -45,6 +45,7 @@ Multinomial logistic regression covariate analyses within the LPA for the Englis
 
 
 ## Related Claims
+
 - [Latent profile analysis identified three family engagement profiles in both Spanish- and English-speaking low-income Latino samples](three-profile-family-engagement-latino-head-start.md) — a broader claim this one bears on
 - [Learning agility, digital literacy, future work self salience, and perceived university digital support prospectively differentiate AI-attitude profile membership, especially separating Low-Perception Detached from engaged profiles](resources-prospectively-differentiate-ai-profile-membership.md) — related
 - [Different engagement dimensions defined the high engagement profiles across language groups: school participation for Spanish-speaking parents, foundational education for English-speaking parents](high-engagement-profiles-differ-by-language-group.md) — related
@@ -53,3 +54,4 @@ Multinomial logistic regression covariate analyses within the LPA for the Englis
 - [Children in higher family engagement profiles had higher total language skills in both language subsamples, most pronounced among English-speaking families](engagement-profiles-language-skills.md) — related
 - [ELL parents generally place a high value on their children's education](ell-parents-value-education.md) — related
 - [High parent program participation was predicted by advantaged baseline characteristics: older, more educated, married, working parents with higher-skill children](parent-participation-selection-advantage-baseline.md) — related
+- [Only-child status, living situation and work experience were associated with caring perception profile membership](only-child-living-situation-work-experience-associated-with-caring-profile-membership.md)

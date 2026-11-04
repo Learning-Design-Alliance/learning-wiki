@@ -49,3 +49,5 @@ The review's evaluation section reports the epidemic simulation's pre/post resul
 - Eight health diplomacy training initiatives and frameworks published between 2017 and 2025 were identified in the scoping review — related
 - Evaluation methods across health diplomacy training initiatives were mostly short-term and self-reported, with limited evidence of long-term or institutional outcomes — related
 - [Cross-cultural communication and leadership were emphasized in six of the eight reviewed initiatives](cross-cultural-communication-leadership-six-initiatives.md) — related
+- [Gaps in crisis management, health promotion confidence and leadership/crisis acquisition from the MPH](mph-competency-gaps-crisis-leadership-health-promotion.md) — related
+- [Competency scores across the three lenses (usefulness, acquisition, confidence) were mostly correlated, not independent](mph-three-lenses-correlated.md) — related

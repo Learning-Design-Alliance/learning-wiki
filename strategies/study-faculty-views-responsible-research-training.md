@@ -41,7 +41,8 @@ The article describes a study designed with the Office of Research Integrity "to
 - [Faculty advisors and mentors are considered pivotal in promoting doctoral students' development as responsible and ethical researchers](../claims/faculty-mentors-pivotal-responsible-research-development.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Faculty make their own research visible and accessible to students to strengthen perceived relevance and foster scholarly identity](faculty-research-visibility-role-models.md)
 
 ## Examples
 -

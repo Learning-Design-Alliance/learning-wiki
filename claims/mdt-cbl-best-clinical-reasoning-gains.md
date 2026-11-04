@@ -52,3 +52,4 @@ Network meta-analysis of clinical reasoning from 14 studies, covering 6 teaching
 - [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) — related
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related
+- [MDT-CDIO integrated teaching yields higher overall performance scores than traditional teaching in orthopedic clinical education](mdt-cdio-higher-overall-performance-scores.md) — related

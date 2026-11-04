@@ -52,3 +52,4 @@ Numerical model-fitting (optimization) of the probabilistic population network t
 - [In fixed-duration conditions, accuracy rises faster with presentation duration in VGPs, confirming greater sensory integration and ruling out non-decision-time accounts](fixed-duration-faster-accuracy-rise-vgp.md) — related
 - [The improved probabilistic inference of VGPs generalizes to a novel auditory tone-location discrimination task](vgp-improved-inference-auditory-task.md) — related
 - [Fifty hours of action video-game training causally improves probabilistic inference in non-gamers, with better use of evidence only in the action-trained group](action-training-causal-probabilistic-inference.md) — related
+- [Junior 1, a regular video game player, showed the lowest hand motion values and greatest reduction in motion metrics, possibly reflecting dexterity transfer from gaming](video-gaming-dexterity-transfer-robotic-surgery.md) — related

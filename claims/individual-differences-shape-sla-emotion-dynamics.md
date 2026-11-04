@@ -51,3 +51,4 @@ Narrative review reporting an empirical finding attributed to Resnik and Dewaele
 - [Anxiety, enjoyment and boredom are three critical emotions in language learning that affect outcomes and engagement](anxiety-enjoyment-boredom-critical-sla-emotions.md) — related
 - [Cultural background influences emotional experiences in language learning, with collectivist-background students tending to experience heightened anxiety](cultural-background-heightened-language-anxiety.md) — a narrower finding that bears on this claim
 - [Positive psychological traits and emotions are significantly and positively correlated with SL/FL learning performance and can predict it](pp-positively-correlated-with-language-performance.md) — related
+- [Health sciences students experience emotional intelligence as self-awareness and emotional regulation that develops over time rather than as an innate trait](ei-self-awareness-regulation-developmental-qualitative.md) — related

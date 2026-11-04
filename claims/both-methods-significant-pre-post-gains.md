@@ -48,3 +48,4 @@ Quasi-experimental pre/post comparison in each group (control and experimental) 
 - [MIT-based instruction produced a statistically significant post-test emotional-yield advantage over traditional instruction](mit-emotional-posttest-advantage.md) — related
 - [Post-test content acquisition favoured the MIT-based group descriptively, but the reported ANOVA p-value of 0.34 does not reach significance](mit-knowledge-posttest-not-significant.md) — related
 - [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) — related
+- [Within-group knowledge gains from pre-test to post-test are statistically significant in both the intervention and control groups](within-group-knowledge-gains-both-groups-immunohematology.md) — related

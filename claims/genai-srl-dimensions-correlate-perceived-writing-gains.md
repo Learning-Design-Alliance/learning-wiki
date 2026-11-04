@@ -51,3 +51,4 @@ Criterion-validity analysis using Pearson correlations between the six GenAI-SRL
 - [GenAI usage behavior dimensions correlate positively with perceived learning outcomes (r = 0.106–0.418), with usage habits showing the strongest correlation](genai-usage-habits-strongest-correlation-learning-outcomes.md) — related
 - [All SFAILQ dimensions correlate positively with academic self-efficacy (usage skills strongest) and academic engagement (responsible use strongest)](sfailq-criterion-validity-correlations.md) — related
 - [The GISA shows moderately strong convergent validity with the six RISE subtests (r = .71 to .77)](gisa-convergent-validity-rise-subtests.md) — related
+- [Exploratory correlations showed moderate to strong descriptive associations between selected user experience and cognitive load dimensions](incarne-ux-cognitive-load-correlations.md) — related

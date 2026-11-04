@@ -50,3 +50,4 @@ Comparison of 20 sessions from 10 participants (feedback vs control) on mistake 
 - [The CPR Tutor architecture classifies a chest compression in about 70 milliseconds, supporting real-time feedback provision](cpr-tutor-real-time-classification-speed.md) — related
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — reports the opposite
 - [An augmented-reality CPR training application did not improve CPR quality compared with a standard audio-visual feedback manikin](ar-cpr-training-no-improvement-over-manikin.md) — related
+- [The feedback group shows longer hands-off time and total CPR time than the control group in 30:2 cycles](feedback-group-longer-hands-off-time.md) — related

@@ -61,3 +61,5 @@ Randomised controlled trial (Bi et al., 2019) in which 80 first-year postgraduat
 - [An EBP-structured case conference produced significantly higher post-intervention EBP knowledge scores than a weekly didactic lecture among final-year medical students](case-conference-beat-didactic-lecture-ebp-knowledge.md) — related
 - [Physicians learning via the model-based e-learning program scored significantly higher on the posttest than physicians receiving lecture-based teaching](ecme-posttest-higher-than-lecture.md) — a narrower finding that bears on this claim
 - [Case-based learning prevented the increase in surface approach to learning observed across the semester in the non-CBL group](cbl-prevents-surface-approach-increase-biochemistry.md) — related
+- [PBL-CBL teaching increases resident satisfaction compared with traditional lecture-based teaching](pbl-cbl-increases-resident-satisfaction.md) — related
+- [RAT was preferred over PowerPoint-based lectures across all nine comparative pedagogical domains, ranging from 55.3% (self-paced learning) to 84.0% (curriculum integration)](rat-preferred-over-powerpoint-all-nine-domains.md) — related

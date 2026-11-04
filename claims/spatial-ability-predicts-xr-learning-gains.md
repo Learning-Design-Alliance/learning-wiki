@@ -51,3 +51,4 @@ The review attributes this moderator finding to cited XR anatomy training resear
 ## Related Claims
 - [Spatial ability correlated positively with neuroanatomy performance across pretest and both quizzes in a crossover 3D-module study (Allen et al.)](allen-spatial-ability-correlates-neuroanatomy-performance.md) — related
 - [Air Anatomy hand gestures raised recall and applied-knowledge post-test scores, with the largest benefit for students of low to moderate spatial ability](air-anatomy-gestures-posttest-gains-low-spatial-ability.md) — related
+- [Spatial training studies report statistically significant improvements in spatial anatomy performance despite null effects on knowledge test scores](spatial-training-improves-spatial-anatomy-performance.md) — related

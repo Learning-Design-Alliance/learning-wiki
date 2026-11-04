@@ -55,3 +55,4 @@ Sensitivity analysis of the exam-performance outcome across the included RCTs. S
 - [Pooled satisfaction and self-confidence effects are sensitive to individual studies, while knowledge, performance and self-efficacy effects are robust in leave-one-out analysis](hfps-leave-one-out-sensitivity-pattern.md) — related
 - [The pooled TBL effect on examination scores is robust to leave-one-out sensitivity analysis and model choice, and publication bias was not detected](tbl-effect-robustness-sensitivity.md) — related
 - [The pooled VR score effect is robust to study removal and shows no significant publication bias](vr-anatomy-effect-robust-no-publication-bias.md) — related
+- [Performance on non-integrated factual recall questions remained relatively stable or showed a slight decline under case discussions](cbl-non-integrated-questions-stable-or-slight-decline.md) — related

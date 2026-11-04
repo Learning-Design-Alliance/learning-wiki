@@ -57,3 +57,4 @@ Pre-experiment questionnaire of the main study's fifteen undergraduate computing
 - [Unsolicited hints and meta-hints raised first-attempt correctness by d=0.682 and problem completion by d=0.727](unsolicited-meta-hints-effect-sizes.md) — related
 - [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](on-demand-hint-requests-rare-and-equivalent.md) — related
 - [Girls made significantly fewer hint requests, fewer attempts per problem, and fewer bottom-out hint requests than boys while doing online homework](girls-fewer-hint-requests-attempts-assistments.md) — related
+- [Willingness to attempt US-guided cannulation before calling for help increased from 7.5 to 10 after training](us-training-willingness-7-5-to-10.md) — related

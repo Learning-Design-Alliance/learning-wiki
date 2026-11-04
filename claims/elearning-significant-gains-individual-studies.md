@@ -72,3 +72,4 @@ The review reports this mobile-learning study (Davies et al., MoMed mixed-method
 - [In a randomized controlled trial, Too Good for Drugs and Violence produced statistically significant gains in perceptions of social and resistance skills and emotional competence](tgfdv-rct-significant-skill-perceptions.md) — related
 - [Gamified ALS training produced mixed short-term findings, with lower ALS-algorithm knowledge in the gamification group in a cluster randomised trial](gamification-mixed-als-algorithm-knowledge.md) — related
 - [Graduate students in a gamified online statistics course scored significantly higher on exams than students in a non-gamified control group](lms-gamification-higher-exam-scores.md) — a narrower finding that bears on this claim
+- [Feedback-based pedagogy significantly improves knowledge mastery in nanomedicine education compared to traditional didactic instruction](feedback-pedagogy-improves-nanomedicine-knowledge-mastery.md) — related

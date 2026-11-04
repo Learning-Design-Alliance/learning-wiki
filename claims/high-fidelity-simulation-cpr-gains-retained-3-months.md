@@ -51,3 +51,4 @@ Review's retention-period synthesis: in Aqel et al. (first-year nursing students
 - [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](hf-simulation-null-secondary-outcomes.md) — reports the opposite
 - [Knowledge retained one month after CATM training, with post-test2 scores exceeding post-test1 in both periods](catm-knowledge-retention-one-month.md) — a narrower finding that bears on this claim
 - [Nigerian secondary school students retain statistically significant CPR skills six weeks after conventional CPR training](nigerian-secondary-students-retain-cpr-skills-six-weeks.md) — a narrower finding that bears on this claim
+- [SVVR training produces greater gains in nurses' delirium care knowledge than noninteractive video education immediately after training and at 1-month follow-up](svvr-greater-delirium-knowledge-gains-than-video.md) — related

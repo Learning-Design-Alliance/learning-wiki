@@ -58,3 +58,6 @@ Meta-analysis of 27 studies (5,842 participants) reporting student satisfaction 
 - [Flipped classroom combined with active-learning activities yields higher pooled exam scores than flipped classroom with minimal discussion in introductory A&P](flipped-active-learning-higher-pooled-exam-scores-ap.md) — related
 - [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](flipped-classroom-higher-motivation-imms.md) — related
 - [Physicians in Internet-based CPR CME report significantly higher satisfaction than physicians in traditional classroom lecture](ibl-higher-satisfaction-than-tcl-cpr-cme.md) — related
+- [Flipped classroom residents score higher on clinical skills assessment than traditional classroom residents (89.23 ± 2.71 vs. 86.11 ± 3.59, p = 0.001)](fc-higher-clinical-skills-scores-gastroenterology.md) — related
+- [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](fc-satisfaction-and-implementation-challenges.md) — a narrower finding that bears on this claim
+- [Flipped classroom combined with case-based learning improves post-course knowledge quiz scores in nuclear medicine residents](flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) — related

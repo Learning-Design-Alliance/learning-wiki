@@ -13,7 +13,7 @@ generated:
 # Performance-Based Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 mixed) · 3 studies (2 review, 1 design), `q1`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 4 studies (2 review, 1 causal, 1 design), `q1`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Performance-based assessment is the element in which learners demonstrate knowledge or skill by performing, producing, or solving something observable rather than only selecting answers. It is useful when the learning target involves application, integration, or authentic performance. Typically the teacher observes both the process (e.g., data collection during an experiment) and the product (e.g., the completed report), though for some tasks (a paper drafted partly outside class) only the product may actually be visible, and for others (group interaction skills) there may be no discrete product at all.
@@ -45,6 +45,7 @@ Performance assessments carry real, specific tradeoffs (Linn & Miller, 2005). Th
 - [Performance assessments can be reliably scored when designed appropriately and used with other measures](../claims/performance-assessments-reliably-scoreable.md) [~W]
 - [Visual media assessments (posters, presentations) were not passable because ChatGPT could not produce complete slides or poster content](../claims/visual-media-assessments-not-passable-by-chatgpt.md) [~W]
 - [Most VR assessments occur at Miller's performance level, with the action level absent](../claims/vr-assessments-mostly-performance-level-miller.md) [~W]
+- [Students achieved high and consistent OSCE handover performance across antenatal and postpartum stations after the intervention](../claims/isbar-osce-high-consistent-performance.md) [+W] — attached 2026-11-04 from Sun Jui-Chiung et al. (2026), which proposed "OSCE as an objective assessment instrument for ISBAR handover communication".
 
 ## Related Elements
 

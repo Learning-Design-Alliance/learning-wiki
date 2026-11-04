@@ -68,3 +68,5 @@ Secondary analyses in the same experiment examined the three load subscales sepa
 - [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related
 - [VR module matched a textbook on anatomy knowledge at pre-, post- and retention testing while being rated more engaging and motivating (Stepan et al.)](stepan-vr-equal-knowledge-higher-motivation.md) — related
+- [Intervention group produced a higher proportion of anatomy strength codes in qualitative feedback compared with controls](anatomy-strength-codes-intervention-qualitative.md) — related
+- [Extraneous load showed low internal consistency (α = 0.283), limiting its interpretability in this VR anatomy context](incarne-extraneous-load-poor-reliability.md) — related

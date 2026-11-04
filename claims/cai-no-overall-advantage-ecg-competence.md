@@ -52,3 +52,5 @@ Random-effects meta-analysis of eight comparative studies pooling standardised m
 - [Unrestricted 24/7 access to CAI materials is associated with better ECG outcomes, while restricted access is not](unrestricted-cai-access-benefit.md) — related
 - [Distributed CAI instruction beats face-to-face teaching, but only when CAI is part of blended learning](distributed-cai-benefit-only-blended.md) — related
 - [Subanalyses by training level tend to favour CAI for both medical students and residents, though confidence intervals are imprecise](cai-students-residents-subanalysis.md) — related
+- [Access to a dedicated Google Sites ECG-learning platform added to conventional teaching improves post-rotation ECG interpretation test scores among pre-graduate medical students.](google-sites-ecg-platform-improves-interpretation-scores.md) — a narrower finding that bears on this claim
+- [Access to a structured Google Sites learning pathway increases consistent use of the faculty-recommended nine-step ECG interpretation worksheet.](google-sites-increases-worksheet-use.md) — related

@@ -50,3 +50,4 @@ A meta-analysis of randomized controlled trials and crossover trials comparing t
 - [Flipped classroom teaching improves medical students' multiple-choice question scores compared to traditional teaching](flipped-classroom-improves-mcq-scores-medical-students.md) — related
 - [Virtual patients blended with traditional education show moderate positive skills effects, but the pooled interval crosses zero](vp-blended-skills-mixed.md) — related
 - [Virtual patients blended with traditional education improve knowledge more than traditional education alone (pooled SMD=0.73)](vp-blended-knowledge-advantage.md) — related
+- [Flipped classroom and traditional classroom groups show comparable multiple-choice question performance (p = 0.651)](fc-comparable-multiple-choice-performance.md) — related

@@ -62,3 +62,4 @@ Paired-samples t-test on an eight-item 5-point prompt self-efficacy scale admini
 - [Students' self-efficacy for using generative AI increased over the semester, with current self-efficacy significantly higher after the fifth assignment than after the first](self-efficacy-growth-generative-ai-semester.md) — related
 - [Perceived improvement after prompt-engineering training was concentrated among students with little or no prior prompting experience](prior-experience-moderates-perceived-training-benefit.md) — related
 - [Learner confidence consistently improved following e‐learning interventions in ENT education](elearning-ent-confidence-consistently-improved.md) — related
+- [Intervention group reports higher perceived difficulty, reasoning improvement, engagement, self-efficacy, and course material evaluation](genai-cbl-subjective-experience.md) — related

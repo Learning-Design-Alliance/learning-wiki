@@ -57,3 +57,4 @@ Proportion of class time devoted to group work 0.04 0.01 **"
 - [The authors hypothesize, but do not yet test, that student-centered guest lecturing promotes more engagement than traditional guest lecturing and that perceived engagement translates into active engagement behavior](hypothesized-engagement-advantage-over-traditional-lecturing.md) — related
 - [Class time in the flipped model was devoted to active learning activities rather than lecturing](flipped-class-time-active-learning-activities.md) — a narrower finding that bears on this claim
 - [Faculty report spending significantly more time on lecture than any other classroom practice in their largest courses, though average lecture time is below 50%.](lecture-dominates-classroom-time.md) — related
+- [Intervention increases behavioral engagement: voluntary responses, evidence-referencing, and discussion time](genai-cbl-behavioral-engagement.md) — related

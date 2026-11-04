@@ -50,3 +50,5 @@ RCT randomizing 20 anesthesia post-graduate trainees to simulation teaching or d
 - [Standardized patients produced higher knowledge scores than high-fidelity simulation, but performance scores did not differ (Tuzer et al. study)](standardized-patients-vs-high-fidelity-simulator-knowledge.md) — related
 - [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
+- [High-fidelity simulation combining 3D printing, moulage, and role-play yields higher stoma care knowledge scores than low-fidelity static models in nursing students](hfs-3d-printer-moulage-higher-stoma-knowledge.md) — related
+- [High-fidelity simulation yields higher stoma care skill scores than low-fidelity static models](hfs-3d-printer-moulage-higher-stoma-skills.md) — related

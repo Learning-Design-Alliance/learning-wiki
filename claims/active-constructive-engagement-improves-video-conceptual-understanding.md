@@ -52,3 +52,4 @@ User study with postgraduate volunteers using the full AVW-Space version; nobody
 - [Specified aspects acted as micro-scaffolds: comments on example videos were almost equally distributed over the aspects, indicating participants watched with those aspects in mind](aspects-scaffold-video-commenting-thinking.md) — related
 - [Self-reported preparation behaviors, especially watching tutorial videos, predict performance in the e-learning sessions](preparation-behaviors-predict-session-performance.md) — related
 - [LMS tracking confirmed that blended-section students selected discipline-specific writing materials according to their own interests and future plans](lms-tracking-disciplinary-materials-by-interest.md) — related
+- [Students' understandings of research range from passive exposure to active, reflective engagement in research-informed learning](passive-to-active-research-engagement-continuum.md) — related

@@ -135,3 +135,4 @@ Human-LLM agreement for self-efficacy across configurations. Non-mini models out
 - [LLMs prompted with diverse strategies can analyze educational survey feedback and generate corrective tutor feedback at or above expert human performance in specific scenarios](llm-prompting-human-level-educational-feedback.md) — reports the opposite
 - [GenAI feedback aligned more reliably with LA-based ground-truth SRL data than tutor feedback](genai-feedback-reliability-vs-la-ground-truth.md) — related
 - [GPT-4-Turbo as an LLM Judge reliably selects better scaffolds and mitigates hallucination errors, while weaker LLM Judges do not](gpt4-turbo-judge-mitigates-hallucinations-weaker-judges-do-not.md) — related
+- [Model choice, prompting configuration, and rubric component all significantly affect LLM-human agreement, with significant interactions](mixed-effects-model-significant-main-and-interaction-effects.md) — related

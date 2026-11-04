@@ -49,3 +49,4 @@ A priori comparisons in Table 2 show intervention Q7 rose from 68.97 to 83.29 (t
 - [UDL instructor training significantly increased students' reported observation of representation-related UDL strategies in intervention sections but not control sections](udl-training-increases-representation-strategies.md) — related
 - [The intervention significantly increases educators' use of lecture with slide presentation relative to control](ct-workshop-increases-slide-lecturing.md) — related
 - [For several UDL items the intervention group showed significantly greater pre-to-post change than the control group (significant PrePost x Group interactions)](udl-training-prepost-group-interactions.md) — related
+- [Intervention students rate knowledge translation, planning, communication confidence and career development value higher than control students](video-production-boosts-communication-confidence-and-career-perception.md) — related

@@ -48,6 +48,7 @@ The article recommends that course designers not assume one method is universall
 - [Apply PBL selectively in Chinese radiology education, balancing its benefits against time and resource costs](pbl-selective-application-chinese-context.md)
 - [Pharmacy course directors should consider gradually introducing PBL methods into their programs](gradually-introduce-pbl-pharmacy-programs.md)
 - [Combine the PBL and ATI models with different approaches for optimal results](combine-pbl-and-ati-models-strategy.md)
+- [Use combined PBL-CBL teaching in clinical settings where direct patient exposure is limited](pbl-cbl-for-limited-patient-exposure-settings.md)
 
 ## Examples
 -

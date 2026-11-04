@@ -50,3 +50,5 @@ The review reports, citing Gong et al. and a systematic review, that female trai
 - [Gender differences appear in progression outcomes and workplace-based assessments, including ARCP outcomes, milestone ratings, feedback language and granted autonomy, with direction varying by specialty and rater](gender-progression-workplace-assessment-gaps.md) — related
 - [Evidence on gender gaps in surgical examination pass rates is mixed, with lower female MRCS pass rates in some UK studies but no differences in several other examinations](gender-exam-pass-rate-gaps-mixed.md) — related
 - [Technical skill assessments show mixed gender effects, with initial task differences disappearing after training and no evidence that stereotype threat impairs female performance](technical-skills-gender-mixed-training-erases-gaps.md) — related
+- [Male surgical novices had significantly greater anthropometric measurements than female novices](male-novices-greater-anthropometric-measurements.md) — related
+- [Most trainees never performed several procedures: 90% skipped intraosseous access, 88.5% skipped paracentesis](most-trainees-skip-rare-procedures.md) — related

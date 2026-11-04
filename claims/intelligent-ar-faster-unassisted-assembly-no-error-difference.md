@@ -71,3 +71,4 @@ Error counts in the physical post-test were 0.50 (SD 0.93) for the experimental 
 - [Students using the AVDS tool completed the performance test faster than controls](avds-tool-shortens-completion-time.md) — related
 - [AR instruction has no significant effect on motherboard assembly skills self-efficacy](ar-no-effect-assembly-skills-self-efficacy.md) — related
 - [AR-supported learners complete motherboard assembly in shorter time and with less help than print-material learners](ar-shorter-assembly-less-help.md) — related
+- [Post-test completion time was significantly shorter in the AI-assisted training group than in the conventional group](ai-training-shorter-post-test-completion-time.md) — related

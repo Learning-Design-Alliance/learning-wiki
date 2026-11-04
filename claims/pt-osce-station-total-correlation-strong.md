@@ -50,3 +50,4 @@ Random effects meta-analysis of correlations between individual station scores a
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — related
 - [OSCEs used with physical therapy students show weak internal consistency, with a pooled Cronbach's alpha of 0.55 below the acceptable range](pt-osce-pooled-cronbach-alpha-weak.md) — related
 - [The GISA shows moderately strong convergent validity with the six RISE subtests (r = .71 to .77)](gisa-convergent-validity-rise-subtests.md) — related
+- [A strong, statistically significant positive correlation was observed between process-oriented and summative assessment scores (r = 0.892).](pbl-bridge-process-summative-correlation.md) — related

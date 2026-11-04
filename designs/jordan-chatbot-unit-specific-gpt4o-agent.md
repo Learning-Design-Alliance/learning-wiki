@@ -47,6 +47,7 @@ The Jordan Chatbot is a human-centred, pedagogical support agent built on the GP
 ## Related Designs
 
 - [Aspen: a prompt-engineered AI chatbot peer mentor for inquiry revision](aspen-ai-chatbot-peer-mentor.md)
+- [Custom-built web application integrating an AI chatbot into a three-part diagnostic reasoning case](ai-integrated-diagnostic-reasoning-web-application.md)
 
 ## Examples
 -

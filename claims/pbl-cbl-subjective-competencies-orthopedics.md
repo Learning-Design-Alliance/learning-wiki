@@ -106,3 +106,8 @@ Meta-analysis of 2 studies (162 students) on the critical thinking disposition i
 - [Questionnaire results show PBL superior to conventional teaching for learning interest, independent analysis skills, scope of knowledge, self-study, team spirit, and oral expression](pbl-questionnaire-superiority-six-outcomes.md) — related
 - [Teamwork communication pedagogy through electronic networking sites increased student interest in learning](teamwork-electronic-networking-increased-interest.md) — related
 - [Student-centred approaches (problem-based learning, guided inquiry, cooperative learning) outperformed teacher-centred methods in the reviewed studies](student-centred-methods-outperform-teacher-centred.md) — a broader claim this one bears on
+- [Communication and academic skills scored highest for usefulness at work (86%), leadership next (80%)](communication-academic-highest-usefulness.md) — related
+- [MDT-CDIO integrated teaching yields higher overall performance scores than traditional teaching in orthopedic clinical education](mdt-cdio-higher-overall-performance-scores.md) — related
+- [Most students report that the MDT-CDIO model enhances interdisciplinary collaboration and clinical reasoning skills](mdt-cdio-students-report-enhanced-collaboration-reasoning.md) — related
+- [PBL-CBL combined teaching improves post-class case analysis scores compared with traditional lecture-based teaching in gynecology residents](pbl-cbl-improves-case-analysis-scores-gynecology-residents.md) — related
+- [PBL-CBL teaching increases residents' learning interest, initiative, and critical thinking compared with traditional teaching](pbl-cbl-increases-interest-initiative-thinking.md) — related

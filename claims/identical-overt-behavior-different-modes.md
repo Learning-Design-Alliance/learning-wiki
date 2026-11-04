@@ -54,3 +54,4 @@ Illustrative argument (no data) in the critique section: the same overt behavior
 - [Two teaching modes for AI-supported decision making differ in AI prediction, student engagement, and teacher scaffolding](imsd-fmpd-teaching-modes-ai-decision-making.md) — related
 - [Child engagement during alphabet instruction was high in all four treatments](high-engagement-all-treatments.md) — related
 - [Watching video models of successful weight loss increased weight loss self-efficacy over two months](video-modelling-increases-weight-loss-self-efficacy.md) — related
+- [Students' understandings of research range from passive exposure to active, reflective engagement in research-informed learning](passive-to-active-research-engagement-continuum.md) — related

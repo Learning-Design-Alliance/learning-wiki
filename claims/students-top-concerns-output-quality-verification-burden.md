@@ -60,3 +60,4 @@ Questionnaire analysis of problematic aspects, summarized in Table 3 with counts
 - [Institutional guidance cautions instructors about privacy (60% of institutions) while syllabi more often flag veracity of GenAI output and hindering learning](concerns-privacy-institutional-veracity-syllabi.md) — related
 - [The main concern in all critical evaluations was the veracity of ChatGPT-provided references, which often do not exist](chatgpt-references-often-do-not-exist.md) — related
 - [Implementation constraints identified were factual accuracy and content drift, culturally narrow outputs, prompt fatigue, and data privacy concerns](gpt-implementation-constraints-ite.md) — a narrower finding that bears on this claim
+- [AI responses do not consistently identify missing clinical information in incomplete student prompts](ai-does-not-identify-missing-prompt-information.md) — related

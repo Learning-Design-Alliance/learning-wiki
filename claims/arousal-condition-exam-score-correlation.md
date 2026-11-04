@@ -49,3 +49,4 @@ A Pearson correlation matrix (Table 1, N = 846) examined bivariate correlations 
 - [Exposing college students to a topic-relevant 90-second external stimulus before a lecture significantly improves immediate information retention compared with a neutral control](pre-lecture-external-stimulus-improves-retention.md) — related
 - [Interference and lack of confidence correlated negatively with all performance measures, whereas worry and arousal showed selective, weaker bivariate correlations](interference-lack-confidence-bivariate-correlations.md) — related
 - [The arousal-versus-control difference persists with no nesting effects by class, semester, or year across eight consecutive semesters](no-nesting-effects-arousal-difference-persists.md) — related
+- [Belief in combining learning modalities shows a weak positive correlation with exam scores](multimodal-belief-weak-positive-exam-correlation.md) — related

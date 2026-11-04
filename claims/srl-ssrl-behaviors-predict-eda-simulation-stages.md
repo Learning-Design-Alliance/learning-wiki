@@ -82,3 +82,4 @@ Cross-sectional multimodal study of 62 medical residents in 19 teams completing 
 - [Lecture-based learning events show a clearer decline in EDA across within-event segments than flipped learning events](lecture-based-events-clearer-eda-decline-across-segments.md) — related
 - [Electrodermal activity during learning events shows no robust association with post-event emotional valence](eda-not-robustly-associated-with-post-event-valence.md) — related
 - [Instructional roles of group members can be deduced from machine-inferable factors, and presence or absence of roles indicates learning effectiveness](instructional-roles-deduced-from-collaboration-factors.md) — related
+- [Ventilator waveform patterns distinguish resistive from elastic load faults](ventilator-waveform-resistive-elastic-distinction.md) — related
