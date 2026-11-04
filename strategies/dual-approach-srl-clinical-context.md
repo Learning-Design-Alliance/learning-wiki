@@ -55,6 +55,7 @@ Based on the review's finding that SRL in the clinical context is not used to it
 - [Provide phase-specific teaching practices and environment features that foster student responsibility for learning in each phase of PBL](phase-specific-srl-fostering-practices-in-pbl.md)
 - [Self Regulated Learning Instruction](self-regulated-learning-instruction.md)
 - [Provide explicit teaching of SRL methods as structured guidance for regulating learning in online and blended settings](explicit-teaching-srl-methods-online-blended.md)
+- [Use learning-strategy survey findings to guide academic mentoring and learner support in medical education](strategy-survey-academic-mentoring-medical-students.md)
 
 ## Examples
 -

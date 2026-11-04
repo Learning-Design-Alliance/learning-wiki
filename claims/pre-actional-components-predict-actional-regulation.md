@@ -96,3 +96,4 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - [EDA learners showed enthusiasm for reading tasks and reported that emotional support reduced anxiety about performance](eda-learners-enthusiasm-and-reduced-anxiety.md) — related
 - [After the Student Success Course, test anxiety significantly decreased while intrinsic goal orientation and self-efficacy significantly increased, but task value and control beliefs did not improve](ssc-motivation-changes-test-anxiety-self-efficacy.md) — related
 - [Students describe EI as a mechanism for managing academic stress through time management and mastery-oriented cognitive reframing](ei-stress-management-time-mastery-reframing.md) — related
+- [Self-efficacy was most strongly associated with monitoring strategy use, while learning anxiety was most strongly inversely associated with planning.](dimension-specific-psychological-correlates-metacognition.md) — related

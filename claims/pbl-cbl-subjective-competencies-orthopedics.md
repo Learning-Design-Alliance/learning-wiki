@@ -117,3 +117,4 @@ Meta-analysis of 2 studies (162 students) on the critical thinking disposition i
 - [Instructors show higher willingness to adopt CBL than LBL for future clinical teaching](cbl-higher-instructor-adoption-willingness.md) — related
 - [CBL is associated with improved learning interest and self-directed learning ability](cbl-improves-interest-self-directed-learning.md) — related
 - [Students taught with integrated PBL and medical humanities reported significantly higher learning motivation, self-directed learning ability, and communication and expression skills than LBL students](integrated-pbl-humanities-higher-motivation-self-directed-communication.md) — related
+- [Higher engagement with case-based learning is significantly associated with greater satisfaction, better understanding, and enhanced perceived skills](cbl-engagement-associated-with-satisfaction-and-perceived-benefits.md) — related

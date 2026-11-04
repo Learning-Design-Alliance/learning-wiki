@@ -82,3 +82,4 @@ Systematic review (20 studies) of simulation-based training for nursing students
 - [Patient-in-classroom teaching was rated higher in overall teaching quality than traditional lectures, with a large effect size](patient-in-classroom-higher-teaching-quality.md) — related
 - [Nursing students report higher perceived patient safety competencies in clinical settings than in academic settings, with small effect sizes](nursing-students-higher-safety-competencies-clinical-than-academic.md) — related
 - [A fully online interprofessional disaster simulation produced higher interprofessional collaborative skills than in-person cohorts](online-interprofessional-disaster-simulation-higher-collaborative-skills.md) — related
+- [A blended learning course combining H5P online modules with face-to-face standardized patient training was feasible and acceptable for medical students](blended-learning-communication-course-feasibility-pilot.md) — related

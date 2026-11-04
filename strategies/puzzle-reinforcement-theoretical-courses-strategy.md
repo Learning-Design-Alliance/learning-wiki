@@ -47,7 +47,8 @@ Based on the trial results, the authors recommend that "interactive, student-cen
 - [Regression analysis shows puzzle application significantly predicts knowledge and motivation scores](../claims/regression-puzzle-application-predictors.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use active methodologies, case studies, simulation, portfolios, flipped classroom, and problem-based learning to develop soft skills in nursing curricula](active-methodologies-soft-skills-nursing-strategy.md)
 
 ## Examples
 -

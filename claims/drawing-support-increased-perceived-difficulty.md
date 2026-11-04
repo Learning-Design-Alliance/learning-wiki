@@ -52,3 +52,4 @@ ANCOVA on perceived difficulty (extraneous cognitive load) with prior knowledge 
 - [Drawing provided no benefit for lower-order recognition knowledge, and the local support condition scored significantly lower than control](drawing-no-recognition-benefit-local-worse.md) — related
 - [Students guided to use LiquidText show lower acceptance of tablets for multiple document work than controls despite better performance](liquidtext-guidance-acceptance-paradox.md) — related
 - [The goal difficulty intervention significantly decreased students' perceived goal difficulty relative to control](goal-difficulty-intervention-lowered-perceived-difficulty.md) — related
+- [Case-level perceived difficulty decreases with case number, and no fetal head position differences emerge within either technique](learning-effect-and-no-position-differences.md) — related

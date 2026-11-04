@@ -47,3 +47,4 @@ Results of station 1 (hot lab instrument recognition) in the quasi-experimental 
 ## Related Claims
 - [Simulation-trained students showed higher mean scores across all four OSCE stations compared with clinically trained peers](sbt-higher-mean-scores-all-osce-stations.md) — related
 - [Simulation-trained students significantly outperformed clinically trained peers on the dose calibrator use OSCE station](sbt-outperforms-cbt-dose-calibrator-station.md) — related
+- [OSCE gains were uneven across stations and disease modules: contouring station and cervical module differed significantly, plan-evaluation station and NPC/esophageal modules did not](osce-gains-uneven-stations-modules.md) — related

@@ -35,7 +35,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (37 for, 12 mixed) · 53 studies (14 causal, 11 quant-synthesis, 11 review, 8 qualitative, 4 theoretical, 3 associational, 2 design), `q1`–`q4` · 9 of 53 report an effect size · 43 claims rest on one study
+> **Evidence** · 50 claims (38 for, 12 mixed) · 53 studies (14 causal, 11 quant-synthesis, 11 review, 8 qualitative, 4 theoretical, 3 associational, 2 design), `q1`–`q4` · 9 of 53 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,7 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Most medical students report that early clinical exposure improves their communication skills](../claims/ece-improves-communication-skills-perceptions.md) [+W] — attached 2026-10-31 from Shaban Eman E. et al. (2025), which proposed "Integrate early clinical exposure into the pre-clinical undergraduate medical curriculum".
 - [Early clinical exposure increases medical knowledge test scores and motivates learning](../claims/ece-improves-knowledge-motivation.md) [+W] — attached 2026-10-31 from Shaban Eman E. et al. (2025), which proposed "Integrate early clinical exposure into the pre-clinical undergraduate medical curriculum".
 - [An outdoor education program produced higher post-test environmental attitudes, uses and concern than traditional lecturing among pre-service classroom teachers](../claims/outdoor-education-posttest-advantage-attitudes-uses-concern.md) [+W] — attached 2026-11-02 from Aysegul Derman et al. (2016), which proposed "Use outdoor education with active, student-centered methods to improve pre-service teachers' environmental literacy"; tests this page's relationship.
+- [Educational programs incorporating realistic simulations, virtual technologies, and interprofessional exercises are most effective in improving technical skills, confidence, and crisis management](../claims/rea-36-studies-simulation-virtual-interprofessional-most-effective.md) [+W] — attached 2026-11-04 from Delbene Lara et al. (2026), which proposed "Experiential learning with integrated psychological preparedness as a shared design pattern across effective disaster programs".
 
 ## Objective and learner-valued goal
 
@@ -214,6 +215,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Deliver artistic experiential dementia education weekly over 4–8 weeks with direct interaction, guided creative expression, and facilitated reflective discussion](../strategies/art-based-dementia-education-implementation-guidelines.md)
 - [Teachers should implement the developed experiential learning-based Mathematics teaching material](../strategies/implement-experiential-math-material-strategy.md)
 - [Add experiential learning, internships and real-world attachments to MPH programs to link theory and practice](../strategies/mph-experiential-learning-internships-strategy.md)
+- [Fixed disease-module curriculum architecture combining contouring, structured plan review, MDT debriefing and narrative feedback](../designs/fixed-disease-module-curriculum-architecture.md)
 
 ## Key Sources
 - Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. *Comparative Professional Pedagogy, 5*(2). [doi:10.1515/rpp-2015-0040](https://doi.org/10.1515/rpp-2015-0040)

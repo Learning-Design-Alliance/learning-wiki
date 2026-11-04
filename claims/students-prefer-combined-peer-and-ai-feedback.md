@@ -72,3 +72,4 @@ Post-intervention survey item on usefulness (Fig. 3) shows near-identical agreem
 - [Both instructor and AI-generated feedback were perceived positively, with instructor feedback rated higher descriptively on all four perception dimensions](both-feedback-types-perceived-positively.md) — related
 - [Only six reviewed studies combined peer feedback with feedback from other sources](few-studies-combine-multi-source-feedback.md) — related
 - [Students who used the module reported positive perceptions and supported its curricular implementation with modifications](student-perceptions-online-caries-module.md) — related
+- [Formative assessment and continuous feedback are prioritized over traditional offline final examinations in the evaluation phase](formative-assessment-over-final-exams-bmooc.md) — related

@@ -49,3 +49,4 @@ Structured questionnaire with closed and open-ended questions completed by all 4
 - [In hidden-first participants ventilating a preterm manikin, visible RFM feedback significantly increased the proportion of breaths with leak≤30%](visible-rfm-feedback-increases-low-leak-breaths-preterm.md) — related
 - [In hidden-first participants ventilating a term manikin, visible RFM feedback significantly increased mean expired tidal volume](visible-rfm-feedback-increases-mean-vte-term-manikin.md) — related
 - [Most participants reported that cheat sheets boosted their confidence and efficiency during exams](cheatsheets-boost-confidence-efficiency.md) — related
+- [87.1% of students preferred group exams and 90.3% perceived improved future consultation skills](group-exam-and-consultation-perceptions-pilot.md) — related

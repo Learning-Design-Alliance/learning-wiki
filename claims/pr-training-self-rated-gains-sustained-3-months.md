@@ -55,3 +55,6 @@ Five-point Likert self-ratings (assigned −2 to +2) were collected before and a
 - [A statistically significant increase in medical students' self-reported EBM knowledge and attitudes was found after a 3-month single-intervention course, with EBM concept understanding rising from 2.20 to 3.17 (P<0.001)](nigeria-ebm-course-self-reported-knowledge-gains.md) — related
 - [Game-based virtual-human role-play training significantly increases faculty military cultural competency, with sustained gains at 3-month follow-up.](voc-training-increases-military-cultural-competency.md) — related
 - [Spirometry was the lowest-rated domain at baseline and remained lowest after training despite improvement](spirometry-lowest-rated-domain-pr-training.md) — related
+- [Knowledge scores declined significantly across all four assessed HMS/HBS domains after training](hms-hbs-knowledge-decline-all-four-domains.md) — reports the opposite
+- [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — reports the opposite
+- [Pre-post self-assessments showed increases across all assessed competence domains, with larger gains for managing digital innovations than narrative communication](prepost-gains-larger-digital-than-narrative.md) — a narrower finding that bears on this claim

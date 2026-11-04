@@ -72,3 +72,4 @@ Random-effects meta-analysis of 7 randomized controlled studies (197 vs 196 resi
 - [Residents report higher satisfaction with narrative medicine education than lecture-based learning, but the effect is not robust to publication-bias adjustment](narrative-medicine-satisfaction-publication-bias.md) — related
 - [Narrative medicine education improves residents' procedural skill scores compared with lecture-based learning](narrative-medicine-improves-procedural-skill.md) — related
 - Only 18% of studies provided a definition of communication skills and only 37% reported a communication framework — related
+- [3D visualization technology supports doctor-patient communication in resident training](3d-visualization-supports-doctor-patient-communication.md) — related

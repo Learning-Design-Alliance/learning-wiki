@@ -57,3 +57,4 @@ Multiple linear regression analysis in a pilot study of 47 healthy adults found 
 - [Memory deficits associated with childhood trauma in healthy adults are not secondary to psychiatric or medical illness](trauma-memory-deficits-not-secondary-to-illness.md) — related
 - [Socioeconomic disadvantage and contextual stressors are negatively associated with academic performance in medical students](socioeconomic-disadvantage-negative-association-medical-students.md) — related
 - [Poverty, stress, and related environmental risk factors are correlated with deficits in children's EF](poverty-stress-correlated-ef-deficits.md) — related
+- [High academic abuse is associated with lower probability of adequate academic performance among medical students in Lima](high-academic-abuse-lower-adequate-performance-medical-students.md) — related

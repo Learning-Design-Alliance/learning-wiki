@@ -253,6 +253,7 @@ The expectation should weaken if controlled comparisons of the same practice wit
 
 - [Constructive competition through Social Interdependence Theory](../designs/constructive-competition-social-interdependence.md) — Kahoot leaderboards designed so winning is unimportant and everyone can win
 - [Design gamified activities with progressive sequenced levels through which learners advance at their own pace](../strategies/progressive-sequenced-levels-own-pace-gamification.md)
+- [Gamified team point system with public tracking and a final excellence award](../strategies/gamified-team-points-excellence-award.md)
 
 ### Illustrative
 

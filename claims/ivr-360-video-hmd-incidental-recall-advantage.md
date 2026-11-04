@@ -47,3 +47,4 @@ Between-subjects experiment with 40 undergraduates viewing a 3-minute 360° vide
 ## Related Claims
 - [Students who experienced the virtual field trip via a 3D HMD scored higher on a delayed posttest roughly three weeks later than 2D-video students](hmd-virtual-field-trip-better-delayed-retention.md) — related
 - [Prior single-exposure IVR studies show mixed cognitive outcomes: affective gains without cognitive benefits (Parong & Mayer) and short-lived retention gains (Christopoulos)](ivr-single-exposure-mixed-cognitive-outcomes.md) — related
+- [Screen-based 360° contextual simulation videos yield higher posttest Simulation Design Scale scores than dose-matched 2D instructional videos in undergraduate nursing students](360-video-higher-sds-nursing.md) — related

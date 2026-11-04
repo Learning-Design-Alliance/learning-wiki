@@ -48,6 +48,8 @@ The article recommends a structured, stepwise progression integrating theoretica
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Integrate the validated SP chicken anastomosis task into SP-specific Proficiency Based Progression training pathways](sp-pbp-training-pathway-strategy.md)
 - [Sequence porcine-model training as the final step of a graduated simulation pathway](graduated-simulation-pathway-porcine-final-step.md)
+- [Exhaust the learning potential of one training modality before progressing to other modalities or supervised surgery](exhaust-modality-learning-potential-before-progression.md)
+- [Four pillars for educational transformation: industry-independent accreditation, integrated curricula, objective competency assessment, and competency-based certification](four-pillars-educational-transformation-ep.md)
 
 ## Examples
 -

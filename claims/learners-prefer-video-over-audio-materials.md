@@ -55,3 +55,4 @@ Frequency analysis of the first questionnaire completed by 36 of the 41 informan
 - [Learners taught French vocabulary with an audiovisual method (listening to video pronunciation while following the written script) achieved higher learning success rates in week one than learners taught with the conventional method](audiovisual-method-higher-vocabulary-learning-success.md) — related
 - [Trainees mainly used audio and audio-visual self-study activities and rarely used online sources for pronunciation practice](trainees-self-study-practices-audio-dominant.md) — related
 - [Participants rated video-based instruction as significantly more helpful than presentation-based instruction](video-rated-more-helpful-than-presentation.md) — related
+- [Managers report training gaps in didactic knowledge, IT competencies, and audiovisual systems](manager-reported-training-gaps.md) — related

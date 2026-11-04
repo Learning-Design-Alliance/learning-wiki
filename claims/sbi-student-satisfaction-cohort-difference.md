@@ -49,3 +49,4 @@ Two-sample t-tests of student Treatment Acceptability Rating Scale-Revised (TARF
 - [Teacher experience with SBI did not significantly affect fidelity of implementation, as both experienced and novice implementers achieved similar fidelity scores](sbi-teacher-experience-no-fidelity-effect.md) — related
 - [Cohort (teacher experience with SBI) was not a significant predictor of proportional problem-solving posttest or delayed posttest scores](sbi-cohort-no-pps-effect.md) — related
 - [Cohort was not a significant predictor of GMADE posttest or MCA-III mathematics posttest scores](sbi-cohort-no-gmade-mca-effect.md) — related
+- [Satisfaction scores clustered around scale midpoint in both cohorts, interpreted as moderate satisfaction](satisfaction-moderate-both-formats-exploratory.md) — related

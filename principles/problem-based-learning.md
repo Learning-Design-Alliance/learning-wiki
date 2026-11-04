@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 147 claims (61 for, 76 mixed, 10 against) · 87 studies (32 quant-synthesis, 23 causal, 12 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 22 of 87 report an effect size · 142 claims rest on one study
+> **Evidence** · 148 claims (61 for, 77 mixed, 10 against) · 88 studies (32 quant-synthesis, 23 causal, 12 review, 8 qualitative, 6 theoretical, 5 associational, 2 design), `q1`–`q4` · 22 of 88 report an effect size · 143 claims rest on one study
 
 ## Conditional relationship
 
@@ -245,6 +245,7 @@ At the curriculum level, the expectation of a small and variable average should 
 - [Video-assisted PBL yields higher pediatric nursing knowledge than traditional PBL and conventional teaching](../claims/video-assisted-pbl-higher-pediatric-knowledge.md) [~W]
 - [PBL-DeepSeek students achieve higher theoretical examination scores than traditionally taught students in a glaucoma clerkship](../claims/deepseek-pbl-higher-theory-scores-glaucoma.md) [+W]
 - [Students in the PBL-DeepSeek group report high satisfaction and would continue using the approach, but a minority worry about AI accuracy](../claims/deepseek-pbl-satisfaction-and-accuracy-concerns.md) [~W]
+- [Year 2 PBL collaboration networks are denser, more transitive, and have shorter average path lengths than Year 1 networks](../claims/year2-pbl-networks-denser-more-transitive-shorter-paths.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

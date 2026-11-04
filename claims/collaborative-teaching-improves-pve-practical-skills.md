@@ -46,3 +46,4 @@ Post-test t-test on five practical tasks (20 marks each) scored with rubrics who
 
 ## Related Claims
 - [Collaborative teaching of PVE improves seventh-graders' theoretical achievement compared with teaching by the PVE teacher alone](collaborative-teaching-improves-pve-achievement.md) — related
+- [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related

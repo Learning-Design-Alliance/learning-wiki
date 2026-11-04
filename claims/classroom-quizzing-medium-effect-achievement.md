@@ -71,3 +71,4 @@ Meta-analysis of 222 independent classroom studies integrating 48,478 students' 
 - [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](postclass-quizzes-and-longer-duration-larger-gains.md) — related
 - [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](quizizz-gamification-better-memorization.md) — related
 - [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](classroom-pretesting-exam-gains.md) — related
+- [Spaced practice, elaboration, and dual coding are reported more frequently by students with excellent academic performance, while interleaving, retrieval practice, and concrete examples show no significant differences](spaced-practice-elaboration-dual-coding-differ-by-performance.md) — related

@@ -51,3 +51,4 @@ During the study phase, subjects rated each passage's comprehensibility. "A 2 (p
 - [SRL interventions in a four-week online mathematics preparation course did not significantly change the mathematics overall score (interaction marginal), while the mathematics focus score on self-chosen chapters showed a statistically significant group by time interaction](srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) — related
 - [High-variability passages receive longer study times than low-variability passages](high-variability-passages-longer-study-time.md)
 - [Uniform (redundant) contexts yield higher semantic similarity ratings than diverse contexts](redundant-contexts-improve-semantic-representations.md) — related
+- [The group-by-exposure interaction was statistically significant for both mathematics and reading comprehension](hpsf-group-exposure-interaction-significant.md) — related

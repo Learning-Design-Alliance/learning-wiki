@@ -82,3 +82,4 @@ Retention analysis of four RCTs measuring knowledge three months after training.
 - [Simulation alone significantly improves satisfaction and self-confidence within both groups regardless of feedback condition](simulation-alone-improves-satisfaction-both-groups.md) — reports the opposite
 - [Perceived confidence in CPR skill retention improved markedly between 3 and 6 months in both groups](retention-confidence-self-report-trajectory.md) — related
 - [Teachers report significantly higher satisfaction with the MOOC-HFS blended model across all questionnaire items](mooc-hfs-higher-teacher-satisfaction.md) — reports the opposite
+- [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-retention-nurses-exploratory.md) — related

@@ -53,3 +53,4 @@ Diagnostic analysis of the 30 included studies. Publication-status moderator ana
 - Publication-bias analyses indicate a low, negligible risk of publication bias in the synthesized effect sizes — related
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — related
 - Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias — related
+- [WGS demonstrates stable inferential behavior despite deviations from normality in both datasets](wgs-robust-nonnormal-data.md) — related

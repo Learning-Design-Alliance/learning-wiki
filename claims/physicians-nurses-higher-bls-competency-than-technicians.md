@@ -68,3 +68,4 @@ Multivariable linear regression for total BLS knowledge score. The article repor
 - [Educational level was significantly associated with total BLS knowledge score, with bachelor's and master's degree holders scoring higher.](education-level-associated-bls-knowledge-score.md) — related
 - [Success rate after USG-PVC training does not differ significantly between nurses, physicians, and ED-technicians](no-success-rate-difference-nurses-physicians-technicians.md) — related
 - [Healthcare professionals in tertiary hospitals had significantly higher odds of high knowledge-based BLS competency than those in primary hospitals.](tertiary-hospital-higher-bls-competency-than-primary.md) — related
+- [Interns have higher baseline paediatric BLS knowledge than nurses](interns-higher-baseline-bls-knowledge-than-nurses.md) — related

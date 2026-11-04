@@ -50,3 +50,4 @@ Post-course practical assessment in this RCT (n = 30 per group) used blinded ass
 - [MDT-CBL showed the best improvement in clinical reasoning versus lecture-based learning, with 3D-CBL and 3D-PBL next, but only 3D-PBL had high-quality evidence](mdt-cbl-best-clinical-reasoning-gains.md) — related
 - [CBL shows the largest effect on theoretical exam scores versus LBL (MD = 13.12) and ranks first among the seven methods](cbl-largest-theoretical-exam-effect-neurology-nma.md) — related
 - [No significant difference between CBL-3D and traditional teaching in qualitative diagnosis of focal liver lesions](cbl-3d-reconstruction-no-gain-qualitative-diagnosis.md) — related
+- [Integrating 3D visualization reconstruction with PBL improves theoretical examination scores versus lecture-based learning in pheochromocytoma training](3d-visualization-pbl-higher-theoretical-scores-pcc.md) — related

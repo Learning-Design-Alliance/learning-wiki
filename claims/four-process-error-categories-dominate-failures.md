@@ -51,3 +51,4 @@ Error-attribution analysis of incorrect solutions on GeoVAD-Bench (Figure 3, Sec
 - [Step-level credit assignment added to Interleave-RL raises the reasoning score from 46.3% to 66.3% on GeoVAD-Bench](step-level-credit-assignment-boosts-reasoning.md) — related
 - [LLM errors on multimodal physics problems fall into four categories, with visual processing errors most prevalent, and error type distribution does not differ significantly across models](four-category-llm-multimodal-error-taxonomy.md) — related
 - [LLM accuracy drops from 96% on text-only to 74% on multimodal physics problems, with significant differences emerging among models](multimodal-physics-accuracy-drops-to-74-percent.md) — related
+- [Clinical reasoning and prioritization failures dominated LLM errors on the NNLE](clinical-reasoning-prioritization-error-dominance.md) — related

@@ -56,3 +56,5 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - [Medical imaging interns receiving the SPOC-based blended package report higher teaching satisfaction than controls, with a marked ceiling pattern in the experimental group](spoc-blended-package-higher-teaching-satisfaction.md) — related
 - [BOPPPS with virtual simulation yields significantly higher total internship performance scores than traditional teaching (d = 3.12)](boppps-virtual-simulation-higher-internship-performance.md) — related
 - [Teaching satisfaction is significantly higher with BOPPPS plus virtual simulation (98.3% vs. 86.7%)](boppps-virtual-simulation-teaching-satisfaction.md) — related
+- [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related
+- [Working time and satisfaction do not differ between interactive and passive e-learning groups](e-learning-working-time-satisfaction-no-difference.md) — reports the opposite

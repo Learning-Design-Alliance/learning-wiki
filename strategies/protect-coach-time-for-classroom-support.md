@@ -43,6 +43,7 @@ The report's third administrator action is ensuring coaches have the time they n
 - [Protect confidentiality and a non-evaluative stance so teachers trust the coach-teacher relationship](non-evaluative-confidential-coaching-support.md)
 - [School and district leaders' recommendations for implementing effective classroom coaching programs](leader-recommendations-effective-coaching-programs.md)
 - [Recommendations for adopting and sustaining high-quality coaching](recommendations-sustaining-high-quality-coaching.md)
+- [Use information technology to streamline documentation and protect feedback time](mini-cex-dops-it-streamlining-strategy.md)
 
 ## Examples
 -

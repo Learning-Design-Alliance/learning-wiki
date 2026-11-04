@@ -55,3 +55,4 @@ The review reports that only one eligible study (Smith & Ericson, 2009) used a q
 - [SVVR training is well tolerated, with only mild discomfort and no discontinuation due to adverse effects](svvr-training-well-tolerated-mild-discomfort.md) — related
 - [VR participants report more technical issues and cybersickness symptoms than slideshow participants](vr-technical-issues-cybersickness.md) — related
 - [Reported barriers to the VR session include headset ergonomics and occasional motion sickness](vr-barriers-headset-ergonomics-motion-sickness.md) — related
+- [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — related

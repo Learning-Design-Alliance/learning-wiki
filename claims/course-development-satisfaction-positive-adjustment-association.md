@@ -52,3 +52,4 @@ Multiple regression analysis in a cross-sectional survey of 551 first-year stude
 - [AI usage pressure attenuates the indirect association of course development satisfaction with psychological adjustment through AI proficiency (moderated mediation index = −0.051)](ai-usage-pressure-attenuates-indirect-association.md) — related
 - [Course development satisfaction and AI proficiency add incremental explained variance beyond demographics, with the largest contribution to academic adjustment (R2 = 0.240)](hierarchical-regression-incremental-variance-academic-adjustment.md) — related
 - [Stress-resilience dissociations were identified, with high distress coexisting alongside moderate-to-high resilience](stress-resilience-dissociation-high-distress.md) — related
+- [Study-related stress predicts higher fatigue; study satisfaction and emotional-intelligence components predict lower fatigue](fatigue-predictors-cross-sectional.md) — related

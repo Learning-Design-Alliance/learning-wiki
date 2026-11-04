@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 180 claims (73 for, 92 mixed, 15 against) · 99 studies (32 causal, 32 quant-synthesis, 12 review, 8 design, 7 theoretical, 6 qualitative, 2 associational), `q1`–`q4` · 25 of 99 report an effect size · 175 claims rest on one study
+> **Evidence** · 181 claims (73 for, 93 mixed, 15 against) · 100 studies (32 causal, 32 quant-synthesis, 12 review, 8 design, 7 theoretical, 6 qualitative, 3 associational), `q1`–`q4` · 25 of 100 report an effect size · 176 claims rest on one study
 
 ## Description and scope
 
@@ -272,6 +272,7 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [PBL-DeepSeek students achieve higher theoretical examination scores than traditionally taught students in a glaucoma clerkship](../claims/deepseek-pbl-higher-theory-scores-glaucoma.md) [+W]
 - [Students in the PBL-DeepSeek group report high satisfaction and would continue using the approach, but a minority worry about AI accuracy](../claims/deepseek-pbl-satisfaction-and-accuracy-concerns.md) [~W]
 - [The TBL cohort performed significantly better in having CCA stations marked as 'excellent' compared with PBL cohorts, with similar performance in passing CCA stations.](../claims/tbl-cohort-better-cca-excellent-stations.md) [-W]
+- [Year 2 PBL collaboration networks are denser, more transitive, and have shorter average path lengths than Year 1 networks](../claims/year2-pbl-networks-denser-more-transitive-shorter-paths.md) [~W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

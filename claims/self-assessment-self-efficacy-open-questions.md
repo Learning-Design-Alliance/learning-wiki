@@ -47,3 +47,4 @@ Authors' forward-looking statement in the conclusion, offered without data; it a
 ## Related Claims
 - [RAE mechanisms and generalization to female and culturally diverse contexts remain unconfirmed research needs](rae-open-questions-female-diverse-contexts.md) — related
 - [Findings are limited by perception-based self-report measures and a single online context, requiring further research on generalizability](als-employability-study-limitations-perception-single-context.md) — related
+- [The curriculum's generalizability is limited by a single-institution convenience sample and reliance on self-efficacy measures](otolaryngology-simulation-self-efficacy-study-limitations.md) — related

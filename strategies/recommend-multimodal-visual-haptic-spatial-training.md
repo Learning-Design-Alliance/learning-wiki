@@ -49,6 +49,7 @@ The article recommends that educators seeking to enhance three-dimensional spati
 - [Integrate mixed-reality visualization with physical interaction rather than relying on a single modality](integrate-mr-visualization-physical-interaction.md)
 - [Increase 3D simulation training frequency and establish an online MDT discussion platform to optimize the MDT-CDIO model](mdt-cdio-optimization-3d-simulation-online-platform.md)
 - [Design future sectional anatomy sessions to be more multimodal and collaborative](future-sessions-more-multimodal-and-collaborative.md)
+- [Build low-cost 3D anatomy models using open-source files, Blender, and Sketchfab to maximize accessibility](open-source-blender-sketchfab-3d-model-strategy.md)
 
 ## Examples
 -

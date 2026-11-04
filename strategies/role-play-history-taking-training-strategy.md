@@ -49,6 +49,7 @@ The article implements a role-play activity in which "3-4 students formed a grou
 
 - [Simulation Based Training](simulation-based-training.md)
 - [Simulation Based Learning](simulation-based-learning.md)
+- [Use student standardized patients with role rotation and multi-source debriefing in scenario-based skills training](ssp-role-rotation-debriefing-strategy.md)
 
 ## Examples
 -

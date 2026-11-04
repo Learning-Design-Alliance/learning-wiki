@@ -86,3 +86,6 @@ The matched cohort reports "Median postoperative stay was similar between groups
 - [Independent senior-resident femoral IMN yields overall surgical complication rates comparable to fellowship-trained surgeons after propensity matching](resident-imn-comparable-complication-rates.md) — related
 - [Trainee first-operator AVR and MVR cases had longer cardiopulmonary bypass and cross-clamp times than consultant cases, without increased early mortality or morbidity](trainee-cases-longer-operative-times-no-harm.md) — related
 - [Residents' care resulted mostly in similar patient outcomes compared with faculty when dedicated supervision and additional operation time were arranged](resident-care-similar-to-faculty-with-supervision.md) — a broader claim this one bears on
+- [Resident postgraduate year (PGY 1–7) showed no significant correlation with complications, operation time, anesthesia time, or hospitalization length](pgy-level-no-correlation-outcomes.md) — related
+- [Residents required significantly longer operation and anesthesia times than staff for frame-based biopsies, but not for navigated frameless biopsies](resident-frame-based-biopsy-longer-times.md) — related
+- [Hospitalization time was significantly longer in the staff (non-teaching) group than in the resident (teaching) group](staff-group-longer-hospitalization.md) — related

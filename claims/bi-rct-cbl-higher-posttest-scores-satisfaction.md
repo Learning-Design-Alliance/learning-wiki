@@ -68,3 +68,4 @@ Randomised controlled trial (Bi et al., 2019) in which 80 first-year postgraduat
 - [First-year medical students in an integrated NM-PAL model reported significantly higher overall self-reported core competency scores than lecture-based peers over 10 months](nm-pal-higher-self-reported-core-competence.md) — related
 - [Online PBL was associated with higher student satisfaction than in-person PBL in a Japanese medical cohort](online-pbl-higher-satisfaction-japanese-cohort.md) — related
 - [Students report higher satisfaction and more positive emotional responses with simulation-based teaching than with traditional practical instruction](simulation-higher-satisfaction-positive-emotions.md) — a narrower finding that bears on this claim
+- [Integrating 3D visualization reconstruction with PBL improves theoretical examination scores versus lecture-based learning in pheochromocytoma training](3d-visualization-pbl-higher-theoretical-scores-pcc.md) — related

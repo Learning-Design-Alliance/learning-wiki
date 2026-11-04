@@ -1,0 +1,54 @@
+---
+type: claim
+title: "Knowledge gains were largest in domains with low baseline knowledge: humidifier change frequency, suction systems, patient positioning and subglottic secretion drainage"
+description: "Knowledge gains were largest in domains with low baseline knowledge: humidifier change frequency, suction systems, patient positioning and subglottic secretion drainage"
+id: item-level-vap-knowledge-gains-largest-low-baseline-domains
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: weak
+newest_evidence: 2026
+sources:
+  - id: yakubu-h-yakubu-saani-muniru-mohammed-2026
+    resource: "https://doi.org/10.1002/nop2.70662"
+    title: "Yakubu H. Yakubu; Saani Muniru Mohammed. (2026). Effect of Structured Training on ICU Nurses' Knowledge‐Based Competence in Ventilator‐Associated Pneumonia Prevention in a Resource‐Limited Setting: An Explanatory Sequential Mixed‐Methods Study. Nursing Open. https://doi.org/10.1002/nop2.70662"
+    author: Yakubu H. Yakubu; Saani Muniru Mohammed
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Knowledge gains were largest in domains with low baseline knowledge: humidifier change frequency, suction systems, patient positioning and subglottic secretion drainage
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Item-level improvements were greatest for frequency of humidifier changes (+17), open versus closed suction systems (+16), patient positioning (+16) and endotracheal tubes with subglottic secretion drainage (+13). [→ Yakubu H. Yakubu; Saani Muniru Mohammed 2026](#yakubu-h-yakubu-saani-muniru-mohammed-2026)
+
+## Evidence
+
+### Yakubu H. Yakubu; Saani Muniru Mohammed 2026
+
+Yakubu H. Yakubu; Saani Muniru Mohammed. (2026). Effect of Structured Training on ICU Nurses' Knowledge‐Based Competence in Ventilator‐Associated Pneumonia Prevention in a Resource‐Limited Setting: An Explanatory Sequential Mixed‐Methods Study. Nursing Open. https://doi.org/10.1002/nop2.70662
+
+`q2 · i?` · `causal · r1`
+
+Descriptive item-level comparison of correct responses before (n = 57) and after (n = 56) training (Table 2); the article reports improvements "across all domains" with the greatest increases in the named domains, total correct answers rising from 207 to 296.
+
+> "Improvements were observed across all domains, with the greatest increases occurring in frequency of humidifier changes (+17), open versus closed suction systems (+16), patient positioning (+16) and endotracheal tubes with subglottic secretion drainage (+13)."
+
+## Discussion
+
+
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+
+## Related Claims
+- [Nurses' correct response rates vary by MDT topic, highest for benefits and lowest for enzyme secretion and pressure-ulcer suitability](mdt-knowledge-item-level-gaps.md) — related
+- [Outpatient sick-day management showed the largest knowledge gap at baseline and the greatest post-simulation gain](sick-day-management-largest-gap-gain.md) — related
+- [A brief structured VAP prevention workshop significantly improved ICU nurses' knowledge scores in a resource-limited setting (group-level improvement)](structured-workshop-improved-icu-nurse-vap-knowledge.md) — a broader claim this one bears on
+- [Training shifted ICU nurses from low/moderate to high knowledge-based competence categories in VAP prevention](vap-competence-category-shift-after-training.md) — a broader claim this one bears on

@@ -56,3 +56,5 @@ Baseline comparison in the same assessor-blinded RCT of 50 clinical medical stud
 - [VR instruction shows a statistically significant difference in nursing students' practical skills versus traditional methods, though the pooled estimate is small (SMD = 0.15)](vr-practical-skills-pooled-effect.md) — related
 - [PBL-based teaching yields higher practical-skills assessment scores than LBL in Chinese standardized residency training](pbl-higher-practical-skills-chinese-srt.md) — related
 - [AI-assisted peer teaching improves postintervention orthopedic knowledge scores](ai-assisted-peer-teaching-improves-knowledge.md) — related
+- [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related
+- [Digital platform-based reciprocal peer practice improves operational skills more than traditional small-group practice in nursing students](rpp-digital-platform-operational-skills-gains.md) — related

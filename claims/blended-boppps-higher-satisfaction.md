@@ -50,3 +50,4 @@ Meta-analysis of 6 studies with 532 students pooling questionnaire-based satisfa
 - [BOPPPS teaching improves student satisfaction compared with traditional teaching](boppps-improves-student-satisfaction.md) — possibly the same claim (merge candidate)
 - [Differences among the six novel teaching strategies are minor, and in pairwise meta-analysis only BOPPPS and SBL significantly beat LBL on all three outcomes](minor-differences-among-novel-strategies-pairwise.md) — related
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
+- [Questionnaire outcomes favored the AI-enhanced group on tutor recognition, blended acceptance, and autonomous learning habits, but not knowledge organization ability](questionnaire-outcomes-mixed-favoring-ai-enhanced.md) — related

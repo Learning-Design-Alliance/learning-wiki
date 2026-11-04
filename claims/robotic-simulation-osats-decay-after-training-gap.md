@@ -50,3 +50,4 @@ Retrospective single-institution study of 30 residents in a skill decay group re
 - [Higher baseline OSATS predicts subsequent measurable skill decline](higher-baseline-osats-predicts-decline.md) — related
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
 - [Robotic simulation training independently associated with higher OSATS and TSM scores after adjustment](robotic-simulation-training-higher-performance.md) — related
+- [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — related

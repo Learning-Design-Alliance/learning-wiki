@@ -54,3 +54,4 @@ Observational analysis of closeness centrality correlations with performance acr
 - [Prior SNA studies of centrality-achievement links in CSCL show inconsistent, mostly small-sample results, with betweenness and closeness the most inconsistent measures](traditional-centralities-inconsistent-literature.md) — related
 - [In a correlation meta-analysis across 69 course offerings, diffusion-based centralities correlated with academic achievement with high combined coefficients and predictive intervals](diffusion-centralities-meta-analysis-achievement.md) — a broader claim this one bears on
 - [Closeness and betweenness centralities showed negative correlations with performance in approximately 4% of courses](closeness-betweenness-negative-correlations-subset.md) — related
+- [Year 2 students show significantly higher closeness and lower betweenness centrality than Year 1, with no cohort difference in in-degree](year2-higher-closeness-lower-betweenness.md) — related

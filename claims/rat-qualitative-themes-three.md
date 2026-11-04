@@ -52,3 +52,4 @@ Reflexive thematic analysis following Braun and Clarke's six-phase framework on 
 - [Thematic analysis of students' open-ended responses identified four themes about the blended course experience, including that LXD enhanced engagement and that the teacher's use of multiple solution strategies had pedagogical value](qualitative-four-themes-blended-lxd.md) — related
 - [Remote Anatomage Teaching via a smart digital podium is technically feasible for large-group anatomy lectures without interruption](rat-technically-feasible-large-group-lectures.md) — related
 - [Students preferred face-to-face delivery over virtual delivery for both CBL and GBL](face-to-face-preferred-over-virtual.md) — related
+- [ICM students became more open to innovative and digital teaching methods and valued combining digital and face-to-face teaching](icm-openness-digital-teaching-methods.md) — related

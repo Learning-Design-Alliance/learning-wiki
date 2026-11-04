@@ -66,3 +66,4 @@ Same cross-cutting analysis. The review reports validated tools "consistently pr
 ## Related Claims
 - [Most questionnaires used to assess BLS knowledge in secondary school students are ad hoc, differing in item number, response format, and content, which limits comparability across studies](bls-school-assessment-ad-hoc-majority-heterogeneity.md) — a broader claim this one bears on
 - [CPR maneuvers are the most frequently assessed BLS content domain in secondary school questionnaires, while AED use and the early chain-of-survival steps are assessed less often](cpr-maneuvers-most-assessed-aed-underassessed.md) — related
+- [Survival to discharge after treated in-hospital cardiac arrest in the UK is reported at 25.8%, compared with 23.6% in earlier UK summaries, but these are system indicators, not training indicators.](uk-in-hospital-arrest-survival-system-indicator.md) — related

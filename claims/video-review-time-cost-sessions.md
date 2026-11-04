@@ -48,3 +48,4 @@ The review's secondary outcome analysis of costs found "substantiate time effort
 - [Simulated role play sessions cost $0.05-$0.10 each in the EducaSim deployment](educasim-low-cost-per-session.md) — related
 - [Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant](hdr-human-scoring-time-burden.md) — related
 - [Duration of an average PLL session (50–180 minutes) did not significantly moderate the effect on cognitive achievement; the descriptive 60-versus-120-minute advantage did not generalise across durations](session-duration-nonsignificant-moderator.md) — related
+- [Rating transcripts took significantly less time than rating videos (mean 12 vs 73 minutes).](transcript-rating-faster-than-video-rating.md) — related

@@ -49,3 +49,4 @@ Hierarchical regression Model 3 among the same 95-faculty sample: entering DTTQ-
 - [Faculty with higher DT-aligned teaching behaviours report higher skill-based and trait-based DT competencies at the descriptive level](high-ctbs-group-higher-dt-competencies.md) — related
 - [Skill-based DT competencies are independently associated with DT-aligned teaching behaviours after controlling for demographics and experience](skill-based-dt-competencies-associated-teaching-behaviours.md) — related
 - [Trait-based DT competencies relate to teaching behaviours indirectly and fully through skill-based competencies](trait-dt-full-mediation-through-skills.md) — related
+- [AI-context variables and personality traits add incremental variance to self-directed learning beyond covariates, but personality-trait × AI-dimension interactions add only a substantively small increment](hierarchical-regression-incremental-variance-sdl.md) — related

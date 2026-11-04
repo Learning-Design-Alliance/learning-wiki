@@ -62,3 +62,4 @@ Subtracted epistemic network (Figure 8) comparing midterm high- and low-performi
 - [Greater procrastination (more days to hand in tasks) was associated with lower final marks.](procrastination-associated-with-lower-marks.md) — related
 - [Formative peer evaluation cycles improve student performance on final project components and course grades compared to summative-only peer evaluation.](formative-peer-evaluation-improves-performance.md) — related
 - [QMP reporting functionalities enabled the professor to monitor and timely detect students with performance problems](qmp-reporting-monitoring-performance-problems.md) — related
+- [Formative assessment and continuous feedback are prioritized over traditional offline final examinations in the evaluation phase](formative-assessment-over-final-exams-bmooc.md) — related

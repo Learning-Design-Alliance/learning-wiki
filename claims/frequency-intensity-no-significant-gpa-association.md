@@ -49,3 +49,4 @@ Secondary analyses in the same sample examining frequency and intensity dimensio
 - [The GPA association persists after excluding academic-overlap items (β = −0.186)](gpa-association-persists-excluding-academic-overlap-items.md) — related
 - [Achievement motivation is positively associated with GPA and total aggression negatively in the adjusted model](achievement-motivation-positive-aggression-negative-gpa.md) — related
 - [Regulatory difficulty in digital engagement is negatively associated with achievement motivation in adolescents (β = −0.330)](regulatory-difficulty-negative-achievement-motivation.md) — related
+- [Academic empowerment shows no statistically significant association with academic performance after adjustment](empowerment-no-significant-association-academic-performance.md) — related

@@ -83,3 +83,4 @@ ANCOVA on post-test scores with pre-test as covariate (Table 2) showed a signifi
 - Post-hoc tests found no significant difference between the cooperative and competitive groups, both differing significantly from the control group — related
 - [Descriptive mean gains favoured Experimental group B (33.7) over Experimental group A (26.5) and the control group (22.1)](mean-gains-by-treatment-descriptive.md) — related
 - [The dictogloss group earned the highest posttest mean (32.20), with discussion (29.15) and control (27.65) groups not significantly different from each other](dictogloss-highest-posttest-mean.md) — a narrower finding that bears on this claim
+- [Cooperative learning swimming teaching produced the best social adaptability outcomes, especially peer interaction and collective integration](cooperative-learning-swimming-social-adaptability.md) — related

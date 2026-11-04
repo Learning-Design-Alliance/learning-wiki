@@ -47,6 +47,7 @@ Debriefing is described as one of the most important features of in situ SET and
 
 - [Deliver NTS training through simulation-based courses with structured debriefing focused on Crisis Resource Management principles, supplemented by in-situ refreshers and visual reminders.](simulation-crm-debriefing-delivery-strategy.md)
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
+- [Use the PEARLS Healthcare Debriefing Tool with paired otolaryngology faculty and nurse educator facilitators](pearls-debrief-with-dual-discipline-facilitators.md)
 
 ## Examples
 -

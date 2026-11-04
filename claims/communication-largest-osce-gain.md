@@ -75,3 +75,5 @@ Regression analysis of the same randomized exam data yielded a 0.90-point commun
 - [A pilot subsample showed improved communication skills in the patient-in-classroom group, but this finding is preliminary](patient-in-classroom-communication-pilot.md) — related
 - [The OSCE score advantage of the vertically integrated program is concentrated in station 2 (management and communication) and in the safe management and communication/follow-up domains.](osce-advantage-station2-safe-management-communication.md) — related
 - [AI-assisted peer teaching improves OSCE performance, with the largest effect on clinical reasoning](ai-assisted-peer-teaching-osce-clinical-reasoning.md) — related
+- [AI-simulated patients improve gynecological history-taking checklist completion and reduce missed key items compared with instructor-led standardized patients](ai-simulated-patient-checklist-completion-gynecology.md) — related
+- [In the OSCE, the intervention group outperformed the control group most clearly in AI tool counselling and appropriate closing, contributing substantially to a two-point total difference](osce-largest-differences-ai-counselling-closing.md) — related

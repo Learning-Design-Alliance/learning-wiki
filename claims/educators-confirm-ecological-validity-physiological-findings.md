@@ -68,3 +68,4 @@ Educators' interpretation of the Scenario A nulls: complexity, unfamiliarity, an
 - [Prior knowledge and epistemic self-efficacy as an evaluator of knowledge are important themes in detecting and efficiently resolving conceptual discrepancies](prior-knowledge-and-epistemic-self-efficacy-support-discrepancy-detection.md) — related
 - Whether conceptual discrepancies are noticed (or not) and how they are resolved can be traced through concurrent think-aloud protocols and retrospective interviews — related
 - [University students adapt their behavioral processing of discrepant science content as a function of their epistemic cognition and discrepancy type](srl-processing-adapts-to-epistemic-cognition-and-discrepancy-type.md) — related
+- [Facility layout and simulation scenario familiarity are the most essential knowledge areas for technicians](top-knowledge-simulation-technician-poland.md) — related

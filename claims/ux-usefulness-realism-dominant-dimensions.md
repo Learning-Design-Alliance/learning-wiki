@@ -54,3 +54,4 @@ Review synthesis of UX survey findings across 13 studies assessing UX: usefulnes
 - [Traditional teaching was rated easier, more efficient, and clearer, while iVR was rated more inventive and leading-edge](traditional-rated-easier-ivr-more-inventive.md) — related
 - [Privacy-non-invasive anti-cheating interventions do not significantly affect user experience or emotional experience in unproctored online tests](interventions-no-ux-emotion-effect.md) — related
 - [In a user study with 12 participants, teachers rated AdaPT positively across all dimensions, with mean ratings above the neutral baseline of 4](adapt-user-study-positive-ratings.md) — related
+- [User experience favored attractiveness, stimulation, and novelty, but IPQ involvement was unsatisfactory and realism only satisfactory](ncpr-vr-ueq-ipq-profile.md) — related

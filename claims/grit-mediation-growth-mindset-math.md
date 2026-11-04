@@ -56,3 +56,4 @@ Bootstrap mediation test in the same 691-student sample found four significant s
 - [Performance-avoidance goals are negatively associated with grit and mathematics achievement, yielding a positive indirect pathway via their reduction](performance-avoidance-goals-negative-grit-math.md) — related
 - [Fixed math mindset negatively predicts primary math achievement while growth math mindset shows no direct effect](fixed-math-mindset-negative-direct-effect-primary.md) — related
 - [Learning engagement mediates the association between teacher support and mathematics achievement.](learning-engagement-mediation-teacher-support-achievement.md) — related
+- [Grit, sense of belonging, and motives for attending college showed no significant direct associations with academic achievement in this sample](grit-belonging-motives-no-achievement-association.md) — reports the opposite

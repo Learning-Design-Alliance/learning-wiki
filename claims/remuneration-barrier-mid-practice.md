@@ -52,3 +52,4 @@ Barrier-item analysis from the cross-sectional survey; the results report adequa
 - [Formal MID training is associated with higher knowledge, skills and attitudes and fewer perceived barriers](mid-training-higher-competency-fewer-barriers.md) — related
 - [Graduates from public universities show higher MID skills and attitudes scores and fewer barriers than private-university graduates](public-university-graduates-mid-advantage.md) — related
 - [Selective carious tissue removal is the MID procedure performed least frequently by dentists](selective-carious-removal-least-performed.md) — related
+- [Systematic reviews show a gap between dentists' MID knowledge and clinical practice](mid-knowledge-practice-gap.md) — related

@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 220 claims (163 show a difference, 28 mixed, 29 no difference) · 147 studies (87 causal, 29 associational, 15 quant-synthesis, 11 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 31 of 147 report an effect size · 217 claims rest on one study
+> **Evidence** · 223 claims (166 show a difference, 28 mixed, 29 no difference) · 148 studies (88 causal, 29 associational, 15 quant-synthesis, 11 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 32 of 148 report an effect size · 220 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -261,6 +261,9 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [No significant relationships were found between vocabulary learning strategy use and recognition vocabulary, or between strategy use and vocabulary in the control group](../claims/no-relationship-strategies-recognition-and-control-vocabulary.md) [-M] — learners who differ on it differ in outcomes
 - [The experimental group's use of vocabulary learning strategies was significantly related to their production vocabulary gains](../claims/strategy-use-related-to-production-vocabulary.md) [+M] — learners who differ on it differ in outcomes
 - [The MoodleReader treatment affected production vocabulary more than recognition vocabulary in the experimental group](../claims/moodlereader-production-gains-exceed-recognition.md) [+M] — measured as an outcome of the instruction studied
+- [The personalized teaching intervention was associated with significantly greater vocabulary breadth gains than conventional instruction (d = 0.93).](../claims/personalized-teaching-vocabulary-breadth-gains.md) [+M] — measured as an outcome of the instruction studied
+- [The personalized teaching intervention was associated with significantly greater vocabulary depth gains than conventional instruction (d = 0.69).](../claims/personalized-teaching-vocabulary-depth-gains.md) [+M] — measured as an outcome of the instruction studied
+- [Vocabulary breadth and depth were associated with different psychological-strategic predictor configurations: breadth with self-efficacy and monitoring, depth with intrinsic motivation and evaluation.](../claims/divergent-predictors-vocabulary-breadth-depth.md) [+W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

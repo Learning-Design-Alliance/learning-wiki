@@ -53,3 +53,4 @@ Qualitative interviews with intervention teachers, thematically coded by the mai
 - [Middle school mathematics teachers frame low persistence in i-Ready Math as an interaction among motivational, cognitive, and contextual factors, with four recurring themes](teachers-frame-low-persistence-four-themes.md) — related
 - [MBSR training unexpectedly decreases measures of teacher work engagement, an effect sustained at follow-up](mbsr-decreases-work-engagement.md) — related
 - [In one small non-randomised waitlist-controlled study, MBSR improved teachers' self-reported self-efficacy and emotion regulation, with mixed effects across self-regulation competences](mbsr-improves-self-regulation-competences.md) — related
+- [Qualitative interviews identified six themes contextualizing the quantitative patterns, including self-efficacy repair, reduced evaluative threat, and residual planning difficulty.](qualitative-themes-personalized-vocabulary-learning.md) — related

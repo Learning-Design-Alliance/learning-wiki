@@ -60,3 +60,4 @@ Leave-one-rater-out validation analysis comparing the selected LLM judge (GPT-5.
 - [LLM-generated total scores showed moderate agreement with faculty ratings of VSP history-taking performance (ICC(2,1)=0.51)](llm-vsp-scoring-moderate-agreement-faculty.md) — related
 - [Automated formative scores showed strong rank-order agreement with blinded expert ratings for participation, reflection, and reasoning dimensions](maple-cr-formative-expert-convergence.md) — related
 - [Evaluator-agent scores agreed closely with a 16-rater human consensus benchmark for both MI (ICC(2,1)=0.959) and CBT (ICC(2,1)=0.934)](evaluator-agrees-with-human-rater-consensus.md) — related
+- [AI-generated OPTION-12 ratings agree strongly with human expert ratings of shared decision-making performance in AI-simulated consultations](ai-human-option12-agreement-feasibility.md) — a narrower finding that bears on this claim

@@ -70,3 +70,4 @@ In the same 30:2 test, median depth was "5.5 cm (5–5.8)" with feedback vs "6 c
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — a broader claim this one bears on
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — a broader claim this one bears on
 - [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](real-time-feedback-no-ventilation-improvement.md) — related
+- [Low-dose high-frequency training shortens time to key resuscitation interventions, including CPR initiation, rhythm analysis, supraglottic airway insertion and hands-off time](ldhf-als-shorter-time-to-interventions.md) — related

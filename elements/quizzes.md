@@ -13,7 +13,7 @@ generated:
 # Quizzes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (8 for, 7 mixed) · 23 studies (10 causal, 7 quant-synthesis, 4 review, 1 associational, 1 design), `q2`–`q4` · 9 of 23 report an effect size · 11 claims rest on one study
+> **Evidence** · 16 claims (9 for, 7 mixed) · 24 studies (10 causal, 7 quant-synthesis, 4 review, 2 associational, 1 design), `q2`–`q4` · 9 of 24 report an effect size · 12 claims rest on one study
 
 ## Description
 Quizzes are short, low-stakes assessments used during learning rather than at its end. Their primary function is not measurement but learning: answering questions forces retrieval from memory, and the feedback that follows corrects and consolidates what was retrieved.
@@ -64,6 +64,7 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [VR temporal demands during short testing quizzes are significantly lower than traditional paper-based testing](../claims/vr-short-testing-quizzes-lower-temporal-demands.md) [~W]
 - [A course section that reviewed with Kahoot no-stakes quizzes differed significantly in high-stakes multiple-choice exam scores from a section that reviewed with a study guide and lecture, a difference the authors report as improvement without printing group means](../claims/kahoot-testing-effect-higher-exam-scores.md) [+W] — attached 2026-11-01 from Iwamoto et al. (2017), which proposed "Kahoot game-show-style online quizzing application"; tests this page's relationship.
 - [Task-based language assessment quizzes produced significantly higher posttest vocabulary scores than traditional assessment quizzes in a quasi-experimental Iranian EFL study](../claims/tbla-washback-higher-vocabulary-posttest.md) [+W] — attached 2026-11-02 from Alireza Hamzeh (2016), which proposed "Task-based vocabulary quizzes versus traditional item-format quizzes administered every three sessions".
+- [Pre-class tests motivated 80.5% of neuroanatomy students to prepare more thoroughly for class](../claims/pre-class-tests-motivate-neuroanatomy-preparation.md) [+M] — attached 2026-11-04 from Ekpenyong et al. (2026), which proposed "Google Forms-based pre-class testing model as a low-cost formative assessment tool".
 
 ## The evidence by question
 

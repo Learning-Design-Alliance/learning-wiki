@@ -53,3 +53,4 @@ In the same assessor-blinded randomized trial, the OSCE comparison favored the e
 - [Integrated simulation-and-clinical-practice teaching produced no statistically significant difference in clinical basic skills or theory exam scores compared with traditional teaching](integrated-simulation-clinical-practice-no-score-difference.md) — reports the opposite
 - [Scenario simulation combined with case teaching improved doctor-patient communication skills more than traditional lecture-based training](scenario-simulation-improves-doctor-patient-communication.md) — related
 - [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](simulation-crossover-22-percent-increase-critically-unwell.md) — related
+- [AI-group students achieve significantly higher total OSCE scores than control-group students](ai-simulated-patient-osce-scores-gynecology.md) — related

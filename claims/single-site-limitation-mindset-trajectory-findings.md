@@ -47,3 +47,4 @@ Stated limitation in the Discussion. The sample was two intake cohorts (N = 915;
 ## Related Claims
 - [The study's generalizability is limited by its rural, small, relatively homogeneous context](ai-helper-case-study-generalizability-limits.md) — related
 - [Findings are limited by perception-based self-report measures and a single online context, requiring further research on generalizability](als-employability-study-limitations-perception-single-context.md) — possibly the same claim (merge candidate)
+- [The curriculum's generalizability is limited by a single-institution convenience sample and reliance on self-efficacy measures](otolaryngology-simulation-self-efficacy-study-limitations.md) — a narrower finding that bears on this claim

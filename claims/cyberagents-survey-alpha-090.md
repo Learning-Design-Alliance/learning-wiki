@@ -83,3 +83,5 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [The DKSCQ-N demonstrates high internal consistency (Cronbach's α = 0.906) and excellent test-retest stability (ICC = 0.829) over two weeks.](dkscqn-reliability-alpha-icc.md) — related
 - [The HSPNCS demonstrates excellent internal consistency (Cronbach's alpha 0.967)](hspncs-high-internal-consistency.md) — related
 - [The seven-item AR usability questionnaire showed high internal consistency (α = 0.97) that may reflect item redundancy](ar-usability-questionnaire-high-alpha-redundancy.md) — related
+- [The five-item PBL collaboration peer-evaluation scale demonstrates strong internal consistency](pbl-collaboration-scale-reliability.md) — related
+- [The self-developed evaluation instrument showed high internal consistency across its three parts (Cronbach's α = 0.941, 0.973, 0.953)](self-developed-training-evaluation-instrument-reliability.md) — related

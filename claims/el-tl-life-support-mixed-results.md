@@ -47,3 +47,4 @@ Review's descriptive subgroup analysis of three articles comparing EL and TL for
 ## Related Claims
 - [For knowledge gain in emergency medicine, 11 of 15 studies showed no statistically significant difference between e-learning and traditional learning, with two favouring each modality](el-tl-knowledge-gain-mostly-no-difference.md) — related
 - [The five highest-quality studies (RCTs with 30 or more participants, a pre-test, and no unclear or high risk of bias) all showed no statistically significant EL–TL difference](highest-quality-studies-el-tl-no-difference.md) — a broader claim this one bears on
+- [A systematic review found advanced life support course participation was associated with improved return of spontaneous circulation and a favourable signal for survival.](als-courses-associated-improved-rosa-survival-signal.md) — related

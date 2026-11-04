@@ -26,7 +26,7 @@ sources:
 # Goal Setting & Monitoring
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (10 for, 5 mixed, 2 against) · 20 studies (6 causal, 5 quant-synthesis, 5 review, 4 theoretical), `q1`–`q4` · 5 of 20 report an effect size · 11 claims rest on one study
+> **Evidence** · 18 claims (11 for, 5 mixed, 2 against) · 21 studies (6 causal, 5 quant-synthesis, 5 review, 4 theoretical, 1 qualitative), `q1`–`q4` · 5 of 21 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,7 @@ Effects on effort, persistence, completion, on-task behaviour, self-efficacy, im
 - [Goal condition showed no credible effects on post-test performance, robot-specific self-efficacy, softness, negative perceptions, or satisfaction](../claims/goal-condition-null-on-performance-and-other-outcomes.md) [-W]
 - [Neither time nor the condition-by-time interaction significantly affected goal attainment over the five-week intervention](../claims/no-time-or-interaction-effect-goal-attainment.md) [-W]
 - [Word-targets produced the only significant increase in reading self-efficacy](../claims/word-targets-increase-reading-self-efficacy.md) [+W]
+- [Radar charts after feedback helped novice nurses identify strengths, weaknesses and track progress across clinical domains](../claims/mini-cex-dops-radar-charts-progress-tracking.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — goals provide the structure that can be scaffolded and then faded.

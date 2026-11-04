@@ -58,3 +58,4 @@ CFA of the PIQNS, GeNTS, and WEANS in the 842-student sample, estimated by maxim
 - [Among Chinese vocational nursing students, professional identity is positively associated with willingness to engage in geriatric nursing](pi-associated-with-geriatric-willingness.md) — related
 - [Convergent and discriminant validity are supported by AVE values exceeding 0.50 and discriminant validity criteria met for both factors.](dkscqn-ave-discriminant-validity.md) — related
 - [Convergent validity supported by CR and AVE values](hspncs-convergent-validity-cr-ave.md) — related
+- [The self-developed evaluation instrument showed high internal consistency across its three parts (Cronbach's α = 0.941, 0.973, 0.953)](self-developed-training-evaluation-instrument-reliability.md) — related

@@ -50,3 +50,4 @@ The review reports on a longitudinal single-institution study by Chen et al. usi
 - [Empathy levels among medical students show equivocal trajectories across educational years, with significantly lower levels reported in 14 of 30 studies and higher, mixed or unchanged levels in the remainder](medical-student-empathy-trajectory-equivocal.md)
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
 - [Self-reported empathy modestly predicts OSCE performance when considered on its own](self-reported-empathy-modestly-predicts-osce.md) — related
+- [Both groups' JSPE-HPS scores increased over time, suggesting a general effect of theoretical empathy education](jspe-time-effect-both-groups.md) — related

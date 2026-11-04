@@ -56,3 +56,4 @@ Randomised trial with 84 undergraduates at one Dutch university, in which all fo
 - [Identified SRL interventions all focused on goal setting and monitoring and none on supporting self-evaluation](srl-interventions-neglect-self-evaluation.md) — related
 - [Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest](web-training-prepost-gains-self-plan-self-monitor.md) — related
 - [Conventional internship instruction alone produced no significant change in self-directed learning or academic self-efficacy over the five-week course](conventional-instruction-no-sdl-selfefficacy-change.md) — related
+- [A 16-week personalized teaching intervention was associated with significantly higher posttest metacognitive strategy use across planning, monitoring, and evaluation among vocational college students.](personalized-teaching-higher-metacognitive-strategy-use.md) — related

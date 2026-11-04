@@ -48,6 +48,8 @@ The review recommends that German universities move CM beyond electives into the
 - [Integrate structured, evidence-based wound care education—including hands-on and interprofessional components—into undergraduate medical curricula](structured-wound-care-education-medical-curricula.md)
 - [Integrate nutrition throughout medical training using a vertical spiral curriculum with practical teaching methods such as cooking lessons](vertical-spiral-nutrition-curriculum.md)
 - [Integrate diet- and nutrition-related oral health content into existing curricula via online instruction, coursework integration, or nutrition courses with clinic integration](integrate-diet-nutrition-content-existing-curricula.md)
+- [Integrate nutrition-related competencies horizontally and vertically and teach them in practical teaching formats from the start of studies through specialist training](horizontal-vertical-nutrition-competency-integration.md)
+- [Teach the missing nutrition-counselling topics in communication courses or culinary medicine programs, and deepen breastfeeding counselling in mandatory paediatric specialist training](targeted-courses-for-nklm-nutrition-gaps.md)
 
 ## Examples
 -

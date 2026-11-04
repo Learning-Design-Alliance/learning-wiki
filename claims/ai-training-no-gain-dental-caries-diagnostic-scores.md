@@ -54,3 +54,4 @@ Randomized experimental study of 79 undergraduate dental students (41 AI, 38 con
 - [Accessing the online caries diagnosis module did not significantly improve dental students' radiographic diagnostic accuracy](online-module-no-accuracy-gain-caries.md) — related
 - [AI-assisted radiograph interpretation showed improved outcomes in dental student training](ai-assisted-radiograph-interpretation-improved-outcomes.md) — reports the opposite
 - [All three online training methods significantly improved diagnostic performance for MUL measurements on prostate MRI with no significant differences between groups](online-training-improves-mul-diagnostic-performance.md) — related
+- [Improvement in overall scores did not differ significantly between digital and conventional training groups](no-group-session-interaction-overall-scores.md) — related

@@ -71,3 +71,4 @@ Objective outcome measure: pairs of trained, condition-blind raters visited clas
 - [In the IC-JPA group, teacher-delivered redirections decreased while student-to-student redirections increased, indicating growing student self-autonomy](icjpa-student-redirection-autonomy-growth.md) — related
 - [Implementing the structural-functional model with a teacher training program produced relevant experimental-group outcomes while control-group outcomes remained unchanged](project-target-model-implementation-experimental-gains.md) — related
 - [Instructional communication strongly predicts perceived student engagement (β = 0.82)](ic-strongly-predicts-student-engagement.md) — related
+- [PHEEM total score increased modestly, driven by role autonomy and teaching, with no change in the social-support domain](pheem-total-increased-social-support-null.md) — related

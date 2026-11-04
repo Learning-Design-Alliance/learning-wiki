@@ -66,6 +66,7 @@ The review recommends a measured adoption strategy: immersive technologies and v
 - [Position AI-SPs as preparation, reflection, and supplementation for real patient contact rather than replacement](ai-sp-supplement-not-replacement.md)
 - [Deploy LLM-driven virtual patients for scalable, standardized deliberate practice of psychiatric interviews](llm-virtual-patients-scalable-deliberate-practice.md)
 - [Use AISPs as a supplementary self-directed learning resource where direct patient contact is limited](aisp-supplementary-sdl-strategy.md)
+- [Integrate AI- and technology-related communication skills systematically into medical curricula](integrate-ai-communication-skills-curricula.md)
 
 ## Examples
 -

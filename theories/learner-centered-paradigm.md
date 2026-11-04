@@ -13,7 +13,7 @@ generated:
 # Learner-Centered Paradigm of Education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 32 claims (22 for, 8 mixed, 2 against) · 28 studies (10 causal, 6 quant-synthesis, 5 theoretical, 4 associational, 2 review, 1 qualitative), `q1`–`q4` · 7 of 28 report an effect size · 30 claims rest on one study
+> **Evidence** · 33 claims (23 for, 8 mixed, 2 against) · 29 studies (11 causal, 6 quant-synthesis, 5 theoretical, 4 associational, 2 review, 1 qualitative), `q1`–`q4` · 8 of 29 report an effect size · 31 claims rest on one study
 
 ## Description
 Watson and Reigeluth (2008) argue that most school systems are still organized on an Industrial-Age, sorting-based model: time is held constant (a fixed school year, fixed pace), so achievement is forced to vary — some students master the material, others fall behind and accumulate deficits, and the system's implicit function is to sort students into different tracks rather than ensure everyone reaches mastery. The learner-centered paradigm proposes inverting this: hold **attainment** constant (every learner reaches mastery of each standard) and let **time/pace** vary to fit the individual, alongside person-based (rather than group-based) progression, resource-based (rather than purely teacher-based) instruction, and criterion-based (rather than norm-based) assessment.
@@ -79,6 +79,7 @@ Reigeluth (2011) elaborates the roles that shift under this paradigm. **Teachers
 - [Differentiated instruction had a very large effect size (Cohen's d = 2.5132) on the experimental group's achievement while one-size-fits-all had a negligible effect (d = 0.009295)](../claims/di-large-effect-size-2-51-vs-0-009.md) [+W] — attached 2026-11-02 from Magableh et al. (2020), which proposed "Differentiated instruction framework: four differentiation areas (content, process, product, learning environment) guided by readiness, interests and learning profile".
 - [Attending to students' learning pace was a significant moderator of TPR vocabulary effects in one meta-analysis, but only one study implemented it: ES=2.745 versus 1.021 for the 12 studies that did not](../claims/tpr-learning-pace-moderator-significant.md) [+W]
 - [Teachers reported that students were more active, more motivated, and improved their academic and social skills during differentiation-approach lessons.](../claims/teachers-report-student-engagement-and-skill-gains.md) [+W]
+- [ICM students rated time flexibility and overall flexibility significantly higher than frontal-teaching students](../claims/icm-higher-flexibility-ratings-dental.md) [+W]
 
 ## The evidence by question
 

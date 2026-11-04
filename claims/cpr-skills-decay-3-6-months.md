@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-04
 sources:
   - id: garcía-suárez-2019
     resource: "https://doi.org/10.3390/ijerph16050768"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Trained individuals' CPR skills deteriorate over a period of between 3 and 6 months if not frequently performed, motivating retraining measures. [→ García-Suárez 2019](#garcia-suarez-2019)
@@ -55,3 +56,4 @@ The review's introduction states, citing prior studies, that "their skills deter
 - [Adding a SimZone 0 interactive-video preparatory phase before instructor-led CPR training is associated with significantly higher competence retention at 6 months among nursing students](zone0-iv-cpr-competence-retention-6-months.md) — related
 - [Bronchoscopy manipulation skills may decay over time, necessitating periodic practice to maintain proficiency](bronchoscopy-skill-decay-periodic-practice.md) — a broader claim this one bears on
 - [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related
+- [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-retention-nurses-exploratory.md) — related

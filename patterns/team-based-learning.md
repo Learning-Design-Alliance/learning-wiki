@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 97 claims (62 for, 31 mixed, 4 against) · 46 studies (17 quant-synthesis, 13 causal, 8 review, 4 design, 2 associational, 2 theoretical), `q1`–`q4` · 14 of 46 report an effect size · 89 claims rest on one study
+> **Evidence** · 100 claims (64 for, 32 mixed, 4 against) · 48 studies (17 quant-synthesis, 13 causal, 8 review, 5 design, 3 associational, 2 theoretical), `q1`–`q4` · 14 of 48 report an effect size · 92 claims rest on one study
 
 ## Description and scope
 
@@ -195,6 +195,9 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [Seven of nine readiness assurance questions achieved the maximum score during the t-RAT](../claims/seven-of-nine-max-t-rat.md) [+W]
 - [TBL provided academic staff with a more engaging and enjoyable teaching role, with the team-working, collaboration and networking element of TBL positively received over the absence of these opportunities with PBL.](../claims/tbl-more-engaging-enjoyable-teaching-role-for-staff.md) [+W]
 - [The TBL cohort performed significantly better in having CCA stations marked as 'excellent' compared with PBL cohorts, with similar performance in passing CCA stations.](../claims/tbl-cohort-better-cca-excellent-stations.md) [+W]
+- [87.1% of students preferred group exams and 90.3% perceived improved future consultation skills](../claims/group-exam-and-consultation-perceptions-pilot.md) [+W]
+- [48.6% of students adopted new study methods in response to pre-class testing](../claims/pre-class-tests-prompt-study-strategy-adaptation.md) [~W]
+- [93.1% of students rated pre-class test difficulty as appropriate](../claims/pre-class-tests-appropriate-difficulty-rating.md) [+W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — shares positive interdependence and individual accountability; TBL adds the readiness assurance cycle and simultaneous reporting

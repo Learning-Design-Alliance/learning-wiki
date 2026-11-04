@@ -48,3 +48,4 @@ Formative evaluation with 13 participants (12 residents, 1 student) using the UE
 - [Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning](prompting-raises-perspicuity-dependability-lowers-novelty.md) — related
 - [UEQ-S user-experience ratings were positive across tasks except one hedonic item on Task 1, with pragmatic qualities rated higher than hedonic](nev-ueq-positive-except-task1-hedonic.md) — related
 - [A qualitative study with 14 students found very positive perceived task-difficulty and user-experience assessments for the Nemo+nev environment](nev-study-positive-task-difficulty-ux.md) — related
+- [User experience favored attractiveness, stimulation, and novelty, but IPQ involvement was unsatisfactory and realism only satisfactory](ncpr-vr-ueq-ipq-profile.md) — related

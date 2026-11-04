@@ -48,3 +48,4 @@ Subgroup analysis of psychomotor learning outcomes by fidelity level in the 40-s
 - [Effect sizes are larger for high-fidelity simulation, medium-fidelity simulation, and standardized patients than for low-fidelity and hybrid simulation](fidelity-subgroup-hfs-mfs-sp-larger-than-lfs-hybrid.md) — related
 - [For affective outcomes, high-fidelity simulation (0.80) and standardized patients (0.73) show the largest effect sizes](hfs-sp-largest-affective-outcome-effect.md) — related
 - [For cognitive outcomes, high-fidelity simulation shows the largest effect size (0.50)](hfs-largest-cognitive-outcome-effect.md) — related
+- [Literature offers no consensus on whether video demonstration or standardized patient teaching is better for psychomotor skills, motivating direct comparison](no-consensus-vd-vs-sp-psychomotor-teaching.md) — related

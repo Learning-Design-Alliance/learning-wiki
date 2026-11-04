@@ -68,3 +68,4 @@ Subscale t tests from Table 5: MI (t = 2.299, p = .025), DLE (t = 2.335, p = .02
 - [PBL participants spent significantly more weekly time reading English texts than non-PBL participants during the treatment](pbl-increases-out-of-class-reading-time.md) — related
 - [Reading comprehension was significantly positively correlated with active English learning attitudes in the PBL group but not in the non-PBL group](rc-attitude-correlation-pbl-only.md) — related
 - [The review finds flipped learning, PBL, gamification, and collaborative learning adapted to digital environments produced positive effects on motivation, participation, and transversal competences](flipped-pbl-gamification-collaborative-digital-effects.md) — a broader claim this one bears on
+- [ICM students reported higher active participation and motivation, but frontal-teaching students scored higher on deepening content outside class](icm-active-participation-mixed-outside-class.md) — related

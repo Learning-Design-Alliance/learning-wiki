@@ -87,6 +87,10 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Graduate students in a gamified online statistics course scored significantly higher on exams than students in a non-gamified control group](../claims/lms-gamification-higher-exam-scores.md) [+M] — attached 2026-11-03 from Chen et al. (2018), which proposed "Concept Review Bingo: a wiki-based LMS review game with points, levels, and bonus rewards"; tests this page's relationship.
 - [Puzzle participants outperform intra-group controls on midterm exam accuracy in two of three intervention groups](../claims/puzzle-participants-outperform-intragroup-midterm.md) [+W]
 
+## Examples
+
+- [Gamified team point system with public tracking and a final excellence award](../strategies/gamified-team-points-excellence-award.md)
+
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)
 - [Progress Tracking](progress-tracking.md)

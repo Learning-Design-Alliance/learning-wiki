@@ -76,3 +76,4 @@ Umbrella review synthesis: three reviews reported improved communication skills;
 - [TBL significantly improves communication skills while PBL does not](tbl-significant-pbl-not-communication.md) — related
 - [Students perceived PBL as providing significant benefits to presentation skills, teamwork, leadership and ability to use IT](pbl-significant-perceived-skill-benefits.md) — related
 - [SBS-trained students show higher non-technical skills (ANTS) overall, driven by teamwork and situation awareness but not task management or decision-making](sbs-higher-ants-teamwork-situation-awareness.md) — related
+- [Case-based learning is perceived to improve communication skills, with most students reporting moderate to significant improvement](cbl-communication-skill-improvement-perceived.md) — related

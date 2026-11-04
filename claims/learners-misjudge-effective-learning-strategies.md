@@ -172,3 +172,4 @@ A key boundary condition is that the misjudgment is strongest for judgments made
 - [Students experience retrieval practice as more effortful than restudy, which leads to avoidance despite its long-term benefits](retrieval-practice-effort-avoidance.md) — related
 - Individual learners' self-awareness and metacognition of spaced practice is a distinct focus within spacing research — related
 - [A refutation-plus-metacognitive-prompt intervention significantly increases students' use of interleaved practice in self-organized study tasks, including after a delay](refutation-prompt-intervention-increases-self-organized-interleaving.md) — related
+- [Spaced practice, elaboration, and dual coding are reported more frequently by students with excellent academic performance, while interleaving, retrieval practice, and concrete examples show no significant differences](spaced-practice-elaboration-dual-coding-differ-by-performance.md) — related

@@ -119,6 +119,7 @@ Retrieval practice produces substantially more durable retention than restudying
 - [Deliver a 30-minute lecture on the Probability Approach between two quizzes](30-minute-probability-approach-lecture.md)
 - [Use weekly formative quizzes during EFL listening instruction to support achievement and reduce anxiety](weekly-formative-quizzes-efl-listening-instruction.md)
 - [Incorporate learner-recommended external question banks and apps alongside instructor-curated OLRs](incorporate-learner-recommended-olrs.md)
+- [Incorporate spaced review, elaboration opportunities, dual coding, and frequent low-stakes assessments into medical curricula](curriculum-embedded-evidence-based-strategies-medical-education.md)
 
 ## Examples
 - **Team-Based Learning** ([tbl.teamslearn.org](http://www.tbl.teamslearn.org)) — individual Readiness Assurance Tests taken before team discussion, with immediate appeal and feedback

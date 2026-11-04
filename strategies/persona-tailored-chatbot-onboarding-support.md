@@ -53,6 +53,7 @@ The article recommends that institutions use persona profiles as the basis for d
 - [Deployment priorities for classroom AI feedback tools: latency ceiling, adaptive onboarding, and verifier transparency](classroom-ai-feedback-deployment-priorities.md)
 - [Tailor AI deployment to specific applications and stakeholder groups rather than applying a one-size-fits-all integration approach](stakeholder-specific-ai-deployment-strategy.md)
 - [Add user instructions or interactive tips to the homepage for first-time users of an integrated learning system](add-user-instructions-first-time-users.md)
+- [Differentiate AI-integration support by learner profile rather than applying a uniform approach](profile-differentiated-ai-integration-strategies.md)
 
 ## Examples
 -

@@ -49,3 +49,6 @@ In the post-course assessment of this RCT, the experimental group (n = 30) outpe
 - [CBL with 3D reconstruction improves basic liver ultrasound scanning scores versus traditional teaching](cbl-3d-reconstruction-improves-scanning-scores.md) — related
 - [No significant difference between CBL-3D and traditional teaching in qualitative diagnosis of focal liver lesions](cbl-3d-reconstruction-no-gain-qualitative-diagnosis.md) — related
 - [MDT-CBL showed the best improvement in clinical reasoning versus lecture-based learning, with 3D-CBL and 3D-PBL next, but only 3D-PBL had high-quality evidence](mdt-cbl-best-clinical-reasoning-gains.md) — related
+- [Integrating 3D visualization reconstruction with PBL improves theoretical examination scores versus lecture-based learning in pheochromocytoma training](3d-visualization-pbl-higher-theoretical-scores-pcc.md) — related
+- [The experimental group scored substantially higher on subjective clinical case analysis questions (28.5 ± 3.2 vs 21.3 ± 4.1, P < 0.001) than on objective memory questions (15.2% gain)](ai-kg-clinical-case-analysis-gain.md) — related
+- [Phantom-based lesion-recognition performance ranged from 78.6% to 86.5% across assessed domains, highest for scanning and lowest for preliminary diagnosis](lesion-recognition-task-performance-phantom.md) — related

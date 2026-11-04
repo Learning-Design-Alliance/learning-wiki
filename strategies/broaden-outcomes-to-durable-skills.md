@@ -41,6 +41,7 @@ The article calls for 'expanding what is measured beyond the narrow set of skill
 - [Use process and usage data alongside impact data in edtech evaluations](process-usage-data-alongside-impact.md)
 - [Broaden instruments, methods, and expert judgment in psychometric LLM evaluation research](broaden-psychometric-llm-evaluation-research.md)
 - [Include both academic and socioemotional outcomes when evaluating school composition effects](evaluate-composition-with-academic-and-socioemotional-outcomes.md)
+- [Use peer assessment of individual procedures to broaden skill evaluation beyond randomly selected examinations](peer-assessment-broadens-skill-evaluation-strategy.md)
 
 ## Examples
 -

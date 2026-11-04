@@ -52,3 +52,4 @@ Interpretation of the three-profile LPA solution and observed mean item scores (
 - [Latent profile analysis of 750 online undergraduates identifies five distinct SRL profiles, including a qualitatively distinct low-regulators-with-limited-social-skills profile](five-srl-profiles-online-math-course.md) — related
 - [Total core competence scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](jeffries-simulation-improves-core-competence-new-graduate-paediatric-nurses.md) — related
 - [Students identify communication and emotional regulation as their main weaknesses and teamwork as a strength after simulation](simulation-self-assessment-weaknesses-strengths.md) — related
+- [Radar charts after feedback helped novice nurses identify strengths, weaknesses and track progress across clinical domains](mini-cex-dops-radar-charts-progress-tracking.md) — related

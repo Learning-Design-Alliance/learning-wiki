@@ -48,3 +48,4 @@ Authors' qualitative finding on the fourth and fifth questions, where pre-test a
 - [Simulation-based probability teaching significantly improved experimental-group prospective teachers' test scores from pre-test to final test](simulation-group-prepost-gain.md) — related
 - [Pre-test scores showed no significant difference between the simulation-based experimental group and the paper-and-pencil control group](simulation-probability-pretest-equivalence.md) — related
 - [Before instruction, most prospective teachers believed long consecutive runs of heads or tails were impossible and failed to distinguish real from fake coin-flip data](pretest-consecutive-run-misconceptions.md) — related
+- [Students reported that simulation helped them become more aware of their own limitations](students-reported-increased-awareness-of-limitations.md) — related

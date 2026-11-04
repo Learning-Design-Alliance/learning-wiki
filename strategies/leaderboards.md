@@ -64,6 +64,7 @@ Leaderboards operate on competitive and achievement-based motivation, which reli
 - Streaks and daily goals — reward consistency rather than relative standing
 - Team-based competition — shifts comparison from individual to group level
 - [Sequence and restrict absolute leaderboard visibility to protect lower-ranked students' motivation](restrict-and-alternate-leaderboard-visibility.md)
+- [Gamified team point system with public tracking and a final excellence award](gamified-team-points-excellence-award.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the scoring mechanism that feeds the leaderboard

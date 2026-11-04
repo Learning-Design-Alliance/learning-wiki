@@ -88,3 +88,4 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [Four well-differentiated clusters of students emerge from the factor-analysis-based cluster analysis by ICT consideration and use](four-clusters-of-students-by-ict-consideration-use.md) — related
 - [Students' attitudes towards error-handling cluster into three characteristic learner types](three-learner-types-error-attitudes.md) — related
 - [Cluster analysis of consumption behaviour and attitude identified four consumption groups among the eighth graders](four-consumption-groups-cluster-analysis.md) — related
+- [Latent profile analysis identifies four AI-context learner subgroups — Active Adopters, Cognitively Advanced but Constrained, Passive Followers, and Disengaged — with markedly different self-directed learning levels](four-latent-profiles-ai-context-sdl.md) — related

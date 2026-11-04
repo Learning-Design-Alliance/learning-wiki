@@ -55,3 +55,4 @@ Meta-analysis of 15 randomized controlled trials with 816 learners (745 medical 
 - [VR instruction shows a statistically significant difference in nursing students' practical skills versus traditional methods, though the pooled estimate is small (SMD = 0.15)](vr-practical-skills-pooled-effect.md) — related
 - [VR improves motivation and performance of civil engineering students in a concrete structures course compared with traditional 2D drawings](vr-improves-motivation-performance-concrete-structures.md) — related
 - [Teaching drawing with visual objects (2D or 3D) produces higher post-test drawing-skill scores than conventional teaching without visual objects](visual-objects-improve-drawing-skills-jss1.md) — related
+- [Prior meta-analytic evidence indicates 3D visualization technology yields superior anatomical knowledge and satisfaction compared to 2D materials](3dvt-meta-analysis-superior-knowledge-satisfaction.md) — related

@@ -48,3 +48,4 @@ Quasi-experimental, intervention-without-control survey study (Mahoney et al., a
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [MPathic-VR-trained students achieve significantly higher composite scores than computer-based learning students on a subsequent advanced communication OSCE, several days later](mpathic-vr-osce-composite-transfer.md) — related
 - [Studies of simulated patient-based CST report positive effects on trainee confidence and communication performance](sp-cst-positive-effects-confidence-performance.md) — related
+- [Patient 2 evaluations showed significant trends in all domains, with the highest variability in sustaining relationship (F = 96.37) and closing session (F = 108.29)](patient2-domain-trends-highest-variability.md) — related

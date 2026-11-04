@@ -50,3 +50,4 @@ Cross-sectional survey; the Results section reports the sex contrast on the inte
 ## Related Claims
 - [Newly enrolled Medicine students scored significantly higher on empathy than students from Dentistry, Nursing, and Pharmacy in Singapore](medicine-freshmen-highest-empathy-singapore.md) — related
 - [Male counselors reported more rape myth acceptance and lower empathy than female counselors](male-counselors-more-rape-myths-less-empathy.md) — related
+- [Female pharmacy students show better antifungal stewardship practice adherence than male students](female-students-better-practice-adherence-antifungal.md) — related

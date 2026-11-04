@@ -56,6 +56,7 @@ The review recommends that, given faster skill acquisition under spaced schedule
 ## Related Strategies
 
 - [Require repeated benchmark performance with spaced repetition to ensure reliable skill acquisition](repeated-benchmark-performance-spaced-repetition.md)
+- [Use standalone VR for repeated self-directed skill maintenance between certification cycles](standalone-vr-skill-maintenance-strategy.md)
 
 ## Examples
 -

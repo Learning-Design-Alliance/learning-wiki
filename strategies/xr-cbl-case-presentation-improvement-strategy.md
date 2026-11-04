@@ -45,6 +45,7 @@ From student feedback, the article identifies concrete enhancements to XR-CBL ca
 ## Related Strategies
 
 - [Provide success cues, component labelling, and hybrid documentation combining video, still images, and step-by-step diagrams for buildable robot kits](success-cues-labelling-hybrid-documentation.md)
+- [Build low-cost 3D anatomy models using open-source files, Blender, and Sketchfab to maximize accessibility](open-source-blender-sketchfab-3d-model-strategy.md)
 
 ## Examples
 -

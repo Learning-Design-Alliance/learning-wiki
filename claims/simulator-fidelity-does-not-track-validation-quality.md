@@ -52,3 +52,4 @@ Narrative synthesis in the review's discussion of fibreoptic intubation simulato
 - [High-fidelity simulation methods (simulators, 3D models, cadaver-based practice) are associated with superior Acquisition retention, though some studies report contradictory findings](high-fidelity-simulation-associated-with-superior-acquisition-retention.md) — reports the opposite
 - [RCT evidence comparing cadaveric with low-fidelity simulation is mixed: two RCTs favour cadaveric, one shows equivalence, one favours the bench model](cadaveric-vs-low-fidelity-simulation-mixed.md) — related
 - [VR-based UAV flight training (DroneSim) offers comparable or superior results to real-world building inspection training](dronesim-vr-uav-training-comparable-results.md) — related
+- [In CRT training, proficiency-based progression demonstrated superiority over traditional simulation in which proficiency benchmarks were optional](pbp-superiority-crt-training.md) — related

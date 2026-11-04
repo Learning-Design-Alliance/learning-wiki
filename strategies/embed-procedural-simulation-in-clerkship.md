@@ -47,7 +47,8 @@ The authors recommend incorporating simulation-based procedural workshops into c
 - [The workshop improved students' self-reported knowledge of renal biopsy procedures, least for sterile procedures](../claims/workshop-improved-self-reported-biopsy-knowledge.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Practice frame assembly outside the operating room to mitigate prolonged procedure times for trainees](prior-frame-assembly-practice-mitigates-prolonged-times.md)
 
 ## Examples
 -

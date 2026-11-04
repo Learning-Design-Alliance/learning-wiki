@@ -50,3 +50,4 @@ Phase 2 of the validation analyzed the correlation between post-rotation AI scor
 - [Mini-CEX with structured feedback improves orthodontic residents' technical and decision-making skills](mini-cex-improves-orthodontic-resident-skills.md) — related
 - [Feedback-oriented and interactive instructional methods are associated with improvements in clinical reasoning, procedural skills, and learner confidence in orthodontic postgraduate education](feedback-oriented-interactive-methods-improve-orthodontic-clinical-competence.md) — related
 - [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](ai-mentor-pilot-improves-overall-mini-cex.md) — related
+- [End-of-rotation OSCE total score correlated moderately with FCB-CHOPS (r = 0.61) and mini-CEX (r = 0.48), indicating overlapping but non-identical constructs](osce-correlates-fcb-chops-mini-cex.md) — related

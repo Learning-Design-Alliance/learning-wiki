@@ -49,6 +49,7 @@ The article states that 'These findings support combining knowledge-based instru
 - [Embed recurrent, context-aligned ALS rehearsal with feedback supported by protected training time, accessible infrastructure, and ongoing performance monitoring](embed-recurrent-als-rehearsal-with-organisational-support.md)
 - [Increase hands-on training and early patient contact to build clinical examination confidence](hands-on-training-early-patient-contact.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
 
 ## Examples
 -

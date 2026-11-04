@@ -46,3 +46,4 @@ Cross-sectional survey using housing type as a proxy for socio-economic status; 
 
 ## Related Claims
 - [Newly enrolled Medicine students scored significantly higher on empathy than students from Dentistry, Nursing, and Pharmacy in Singapore](medicine-freshmen-highest-empathy-singapore.md) — related
+- [Study sample of 121 nursing students was predominantly young adults with most not working alongside study](sample-demographics-121-nursing-students.md) — related

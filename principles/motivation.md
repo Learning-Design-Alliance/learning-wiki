@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 131 claims (79 for, 50 mixed, 2 against) · 119 studies (37 causal, 30 review, 15 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 16 of 119 report an effect size · 117 claims rest on one study
+> **Evidence** · 134 claims (80 for, 52 mixed, 2 against) · 121 studies (37 causal, 30 review, 17 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 16 of 121 report an effect size · 120 claims rest on one study
 
 ## Conditional relationship
 
@@ -265,6 +265,9 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Both convergent and divergent task instruction increased learners' motivation over the treatment period](../claims/both-task-types-increase-motivation.md) [~W]
 - [Radiology-specialized trainees report substantially higher perceived utility value of the simulation than laboratory-specialized trainees](../claims/radiology-trainees-report-higher-utility-value.md) [~W]
 - [Motivational and behavioural feedback interventions show small-to-medium effects, cautioning generic porting of strategies](../claims/motivational-feedback-small-medium-effects.md) [~W]
+- [Academic motivation directly predicts cognitive engagement strategies in post-crisis learning](../claims/am-directly-predicts-ces-post-crisis.md) [+W]
+- [Gender moderates the motivation-to-engagement path only](../claims/gender-moderates-am-ces-path-only.md) [~W]
+- [Study-related stress peaks at year 4 while satisfaction and intrinsic motivation decline across training](../claims/stress-peaks-year4-motivation-declines.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

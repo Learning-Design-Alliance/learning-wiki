@@ -58,3 +58,4 @@ Course-failure analysis of ninth-grade records for 36,423 CPS students. Average 
 - [Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS](on-track-freshmen-graduate-at-higher-rates.md) — related
 - [Freshman failures clustered in math more than English, and many students failed both core subjects](kenwood-freshman-fs-english-math.md) — related
 - [Ninth-grade on-track status (at least five credits and no more than one semester F) makes students almost four times more likely to graduate](on-track-freshman-courses-predict-graduation.md) — related
+- [Prior failure of at least one subject is associated with higher probability of adequate academic performance](prior-failure-higher-adequate-performance-medical-students.md) — related

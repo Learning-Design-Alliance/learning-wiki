@@ -58,3 +58,4 @@ Multiple-group invariance tests in the longitudinal SEM compared constrained and
 - [Gender affects levels of self-concept and mathematics achievement but not the pattern of causal predominance](gender-levels-not-causal-pattern.md) — related
 - [Prior longitudinal SEM studies of self-concept versus achievement causality show heterogeneous causal predominance, varying with design, self-concept operationalization, domain, and achievement measure](heterogeneous-causal-predominance-prior-studies.md) — related
 - [Boys and girls show no gender difference in overall early math achievement on the TEMA-3](no-gender-difference-tema3-overall-math-achievement.md) — related
+- [Formal tests did not indicate statistically significant gender differences in the MVPA-related associations](no-significant-gender-difference-mvpa-paths.md) — a narrower finding that bears on this claim

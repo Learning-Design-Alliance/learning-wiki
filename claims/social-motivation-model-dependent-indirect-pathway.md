@@ -54,3 +54,4 @@ PROCESS Model 8 moderated mediation in the 5764-participant survey; the social-m
 - [Escape motivation carries a significant negative indirect association between AI dependence and self-reported creativity](escape-motivation-negative-indirect-pathway.md) — related
 - [Instrumental motivation shows a small negative indirect association in the moderated model, contrary to the hypothesized positive pathway, with sign reversal across model specifications](instrumental-motivation-sign-reversal-indirect-pathway.md) — related
 - [Perceived AI literacy does not significantly moderate the direct association between AI dependence and self-reported creativity](ai-literacy-no-moderation-direct-association.md) — related
+- [The indirect effect of openness on self-directed learning via AI cognition is significantly attenuated as AI subjective norms intensify](openness-sdl-ai-cognition-moderated-by-subjective-norms.md) — related

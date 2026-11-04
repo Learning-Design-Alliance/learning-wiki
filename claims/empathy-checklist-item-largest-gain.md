@@ -76,3 +76,5 @@ Further item-level comparisons in the same exam-phase analysis showed the medica
 - [AI-VPs delivering immediate, targeted feedback improve empathic communication in subsequent human-based interviews](ai-vp-feedback-improves-empathic-communication.md) — related
 - [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — related
 - [LLM-VSP self-practice improves medical history-taking performance in matched comparison (Cohen d=0.52)](llm-vsp-improves-history-taking-matched.md) — related
+- [AI-simulated patients improve gynecological history-taking checklist completion and reduce missed key items compared with instructor-led standardized patients](ai-simulated-patient-checklist-completion-gynecology.md) — related
+- [AI-VSP teaching of history-taking skills achieves learning outcomes not significantly different from conventional SP in a randomized controlled trial](ai-vsp-non-inferior-to-sp-history-taking.md) — related

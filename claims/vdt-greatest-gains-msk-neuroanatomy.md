@@ -49,3 +49,4 @@ Synthesis across included studies reports the largest gains in musculoskeletal a
 - [Improvements in objective knowledge outcomes (Kirkpatrick Level 2) from technology-enhanced learning were inconsistent across neuroanatomy interventions](tl-neuroanatomy-l2-knowledge-inconsistent.md) — related
 - [VDT use is associated with improved academic performance in 86% of studies, with score increases of 8–31% over traditional teaching methods](vdt-improved-academic-performance-86-percent-studies.md) — a broader claim this one bears on
 - [Practical exam scores are higher for anatomical regions with online image support than for unsupported regions within the same intervention groups](intra-group-image-supported-blocks-score-higher.md) — related
+- [Students studying musculoskeletal anatomy with an interactive 3D digital model show greater pre-to-post test score improvement than students studying textbook images](3d-model-greater-score-gains-than-textbook-images.md) — related

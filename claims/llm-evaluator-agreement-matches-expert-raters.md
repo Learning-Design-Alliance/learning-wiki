@@ -77,3 +77,4 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [A Bayesian student model's diagnoses agree highly with expert averages on a written exam but poorly on the computerized test](bsm-written-exam-agreement-high-computer-test-low.md) — related
 - [Agreement between AI-generated competency scores and human ratings was mixed across studies, with some reporting moderate to strong agreement and others showing score inflation and inconsistent performance](ai-ssp-score-agreement-with-human-ratings-mixed.md) — related
 - [The CALM tool showed only weak inter-rater agreement (weighted Kappa 0.45) in its single ED video-review study](calm-weak-kappa-045-single-study.md) — related
+- [ChatGPT LLM scores showed only moderate agreement with human transcript scores.](llm-moderate-agreement-human-scores.md) — related

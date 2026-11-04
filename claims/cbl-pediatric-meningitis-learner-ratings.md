@@ -48,3 +48,4 @@ Anonymous postsession learner evaluation survey (61.3% response rate) at two res
 - [A case-based learning module on pediatric bacterial meningitis produced statistically significant pre/post knowledge gains in postgraduate learners](cbl-pediatric-meningitis-knowledge-gains.md) — related
 - [Students in both cohorts responded positively to the XR-CBL modules, with CO 2025 reporting higher satisfaction and perceived learning gains than CO 2024 despite identical module delivery](xr-cbl-positive-perceptions-cohort-difference.md) — related
 - [Facilitators reported reduced preparation time using the CBL module compared with preparing didactic teaching materials de novo](cbl-pediatric-meningitis-facilitator-prep-time.md) — related
+- [Pre-class preparation (93.5%) and instructor debriefings (93.6%) were rated highly effective](preclass-and-debrief-ratings-pilot.md) — related

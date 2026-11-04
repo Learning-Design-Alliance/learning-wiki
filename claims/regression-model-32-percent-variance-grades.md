@@ -50,3 +50,4 @@ Multiple regression with Z-transformed project grade as dependent variable; vari
 - [A latent global non-cognitive factor predicts a latent three-year GPA factor, explaining 27–29% of its variance](latent-noncognitive-factor-predicts-latent-gpa-27-29-percent.md) — related
 - [Groups that provide more information to others (Source role) achieve higher project grades](source-role-provision-predicts-project-grades.md) — related
 - [Online discussion participation predicted team project grades: students who answered others' questions more frequently and had a positive attitude received better grades](discussion-participation-predicts-project-grade.md) — related
+- [Engagement score, quiz completion rate, and assessment format independently predict answer accuracy in multivariate regression](multivariate-predictors-answer-accuracy.md) — related

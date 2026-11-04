@@ -93,6 +93,7 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 - [Provide necessary learning resources and simplify non-critical aspects of complex practice](../strategies/simplify-non-critical-aspects-of-complex-practice.md)
 - [Introduce authentic listening materials to lower-level learners by simplifying the task, grading the text, and staging the listening](../strategies/task-simplification-grading-staging-authentic-listening.md)
 - [Use controversial political speeches as CDA analysis materials after students master the ten-question model](../strategies/political-speeches-cda-analysis-materials.md)
+- [Introduce SDM training with an explanatory flowchart of SDM steps before chatbot practice](../strategies/sdm-flowchart-orientation-before-chatbot-practice.md)
 
 ## Key Sources
 - Posner, G. J., & Strike, K. A. (1976). A categorization scheme for principles of sequencing content. *Educational Psychologist, 12*(1), 77–86. [doi:10.2307/1169945](https://doi.org/10.2307/1169945)

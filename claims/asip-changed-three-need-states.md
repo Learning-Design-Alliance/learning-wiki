@@ -86,3 +86,4 @@ Multilevel condition × time test for autonomy frustration: significant interact
 - [The autonomy-supportive intervention program increased students' classroom engagement and decreased their disengagement over the semester](asip-improved-engagement-disengagement.md) — related
 - [Intervention-enabled decreases in autonomy dissatisfaction uniquely predicted decreased end-of-semester disengagement after controlling for autonomy satisfaction and frustration](dissatisfaction-unique-predictor-disengagement.md) — related
 - Students empirically distinguish autonomy dissatisfaction from autonomy satisfaction and autonomy frustration (3-factor ESEM solution) — related
+- [PHEEM total score increased modestly, driven by role autonomy and teaching, with no change in the social-support domain](pheem-total-increased-social-support-null.md) — related

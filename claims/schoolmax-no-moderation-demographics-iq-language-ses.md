@@ -54,3 +54,4 @@ Exploratory moderator analysis of the prior cluster RCT (103 children, 35 school
 - [The schoolMAX intervention was superior to services-as-usual on emotion recognition, ASD symptoms, and social/communication skills in the prior cluster RCT](schoolmax-superior-to-sau-primary-outcomes.md) — related
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
 - [No significant treatment by demographic interactions were detected in moderation analyses](no-significant-treatment-demographic-interactions.md) — related
+- [Gender and age did not significantly moderate the intervention effects of the three teaching models](gender-age-no-moderation-swimming-intervention.md) — related

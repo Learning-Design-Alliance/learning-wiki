@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 88 claims (56 for, 30 mixed, 2 against) · 62 studies (27 causal, 14 quant-synthesis, 8 associational, 7 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 14 of 62 report an effect size · 86 claims rest on one study
+> **Evidence** · 90 claims (58 for, 30 mixed, 2 against) · 63 studies (28 causal, 14 quant-synthesis, 8 associational, 7 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 15 of 63 report an effect size · 88 claims rest on one study
 
 ## Description and scope
 
@@ -193,6 +193,8 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Medical imaging interns receiving the SPOC-based blended package report higher teaching satisfaction than controls, with a marked ceiling pattern in the experimental group](../claims/spoc-blended-package-higher-teaching-satisfaction.md) [+W]
 - [Students reported moderate to high digital readiness while valuing face-to-face instructor contact](../claims/students-moderately-highly-digitally-ready.md) [~W]
 - [Logistical constraints, including limited time for individualized feedback and challenges related to the physical learning environment, were identified as barriers to the integrated module.](../claims/logistical-constraints-limit-individualized-feedback.md) [~W]
+- [ICM students became more open to innovative and digital teaching methods and valued combining digital and face-to-face teaching](../claims/icm-openness-digital-teaching-methods.md) [+W]
+- [ICM students rated time flexibility and overall flexibility significantly higher than frontal-teaching students](../claims/icm-higher-flexibility-ratings-dental.md) [+W]
 
 ## Examples
 
@@ -202,6 +204,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Provide recorded lectures and web-based course management systems to support attendance](../strategies/recorded-lectures-moodle-support-attendance.md)
 - [Design PPS training as blended learning with short, concise online modules and in-person workshops focused on role-play skills practice](../strategies/blended-learning-pps-training-design.md)
 - [Blend flipped and traditional models, and supplement with online materials like videos and podcasts to address individual needs](../strategies/blend-flipped-traditional-and-supplementary-media.md)
+- [Combine e-learning with face-to-face practice exchange groups to develop clinical reasoning](../strategies/blended-learning-for-clinical-reasoning.md)
 
 ## Key Sources
 - Graham, C. R. (2006). Blended learning systems. In C. J. Bonk & C. R. Graham (Eds.), *The handbook of blended learning*. Pfeiffer.

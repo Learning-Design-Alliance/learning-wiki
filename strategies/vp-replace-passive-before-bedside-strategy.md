@@ -61,6 +61,7 @@ The review recommends deploying virtual patients where they show the greatest be
 - [Use IBL material prior to traditional lecture to reduce lecture time and increase learner satisfaction](ibl-prior-to-lecture-reduced-time-strategy.md)
 - [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
 - [Use AISPs as a supplementary self-directed learning resource where direct patient contact is limited](aisp-supplementary-sdl-strategy.md)
+- [Combine e-learning with face-to-face practice exchange groups to develop clinical reasoning](blended-learning-for-clinical-reasoning.md)
 
 ## Examples
 -

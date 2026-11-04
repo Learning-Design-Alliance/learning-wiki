@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 267 claims (199 show a difference, 38 mixed, 30 no difference) · 213 studies (69 causal, 66 associational, 32 review, 19 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 45 of 213 report an effect size · 263 claims rest on one study
+> **Evidence** · 269 claims (201 show a difference, 38 mixed, 30 no difference) · 215 studies (71 causal, 66 associational, 32 review, 19 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 45 of 215 report an effect size · 265 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -298,6 +298,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Simulation-based CARE handover training produces a large increase in nurses' perceived handover competency from pretest to posttest](../claims/simulation-care-training-increases-perceived-handover-competency.md) [+M] — measured as an outcome of the instruction studied
 - [Informal professional development predicts higher self‐efficacy beliefs, while formal professional development does not](../claims/informal-professional-development-predicts-self-efficacy.md) [~M] — measured as an outcome of the instruction studied
 - [Interventions giving teachers opportunities to practice teaching are likely to be effective for developing self‐efficacy beliefs](../claims/practice-opportunities-develop-teacher-self-efficacy.md) [+M] — measured as an outcome of the instruction studied
+- [Students using the 3D model reported higher confidence, greater ability to visualize spatial relationships, and greater enjoyment than textbook-image students](../claims/3d-model-higher-confidence-visualization-enjoyment.md) [+M] — measured as an outcome of the instruction studied
+- [Students' self-perceived ability to identify chromosomal abnormalities increased significantly after using the tool](../claims/digital-karyotyping-tool-increased-confidence-identifying-abnormalities.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

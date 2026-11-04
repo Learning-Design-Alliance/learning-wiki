@@ -46,3 +46,4 @@ Anonymous online questionnaire administered at the end of the practical session 
 
 ## Related Claims
 - [Students expressed interest in broader use of simulation across physiology practicals](student-demand-for-broader-simulation-use.md) — related
+- [Most students (90.3%) reported real prescriptions enhanced understanding of cardiovascular pharmacotherapy](real-prescriptions-learning-rating-pilot.md) — related

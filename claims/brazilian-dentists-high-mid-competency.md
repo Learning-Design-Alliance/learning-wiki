@@ -52,3 +52,4 @@ Cross-sectional survey of 404 dentists using a validated online questionnaire wi
 - [Younger dentists report fewer barriers to practicing MID](younger-dentists-fewer-mid-practice-barriers.md) — related
 - [Dentists involved in teaching or research report significantly fewer barriers to MID adoption](teaching-research-fewer-mid-barriers.md) — related
 - [Selective carious tissue removal is the MID procedure performed least frequently by dentists](selective-carious-removal-least-performed.md) — related
+- [Systematic reviews show a gap between dentists' MID knowledge and clinical practice](mid-knowledge-practice-gap.md) — reports the opposite

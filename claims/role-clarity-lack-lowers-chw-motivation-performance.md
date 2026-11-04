@@ -51,3 +51,4 @@ Review synthesis across studies of ASHAs in India, CBSVs in Ghana and manzaneras
 - [Community trust and respect from the community was an important non-financial incentive enhancing CHW motivation](community-trust-respect-nonfinancial-incentive-chw-motivation.md) — related
 - [High workload and large populations to cover were associated with lower CHW motivation and performance](high-workload-lower-chw-motivation-performance.md) — related
 - [Extended curative tasks increased CHW self-reported motivation and community recognition](curative-tasks-increase-chw-motivation-recognition.md) — related
+- [Role clarity and internal motivation are reported as motivation-related influences on EBP competence, with unclear role expectations and low volition hindering development](role-clarity-motivation-tcm-nurse-ebp.md) — possibly the same claim (merge candidate)

@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 49 claims (26 for, 22 mixed, 1 against) · 57 studies (17 causal, 17 associational, 10 review, 5 theoretical, 3 quant-synthesis, 3 qualitative, 2 design), `q1`–`q4` · 5 of 57 report an effect size · 44 claims rest on one study
+> **Evidence** · 50 claims (26 for, 23 mixed, 1 against) · 58 studies (18 causal, 17 associational, 10 review, 5 theoretical, 3 quant-synthesis, 3 qualitative, 2 design), `q1`–`q4` · 5 of 58 report an effect size · 45 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
@@ -98,6 +98,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [Cluster analysis identified two student phenotypes differing in satisfaction, modality, gender and age](../claims/two-student-phenotypes-pbl-satisfaction.md) [~W]
 - [Registered nurses show moderate sepsis knowledge with major gaps in early clinical sign recognition and septic shock management](../claims/nurse-sepsis-knowledge-gaps-eastern-china.md) [~W]
 - [Most prenatal clinicians report prior TIC training exposure but only about a third attended TIC-specific training in the past two years](../claims/prior-tic-training-exposure-prenatal-clinicians.md) [~W]
+- [Interns have higher baseline paediatric BLS knowledge than nurses](../claims/interns-higher-baseline-bls-knowledge-than-nurses.md) [~W]
 
 ## The evidence by question
 

@@ -51,3 +51,4 @@ Retrospective computational study of 2993 failed-submission states from 215 stud
 - [Secondary outcomes differed in predictability: near-term related-task performance was hardest while 7–28-day performance showed a longitudinal signal](secondary-outcomes-varied-predictability.md) — related
 - [Question and observed-coverage features retrospectively predict high-divergence questions with AUC 0.774, but the model is not validated for new-query routing](retrospective-prediction-high-divergence-questions-auc-077.md) — related
 - [Explainable models including logistic regression, kNN and a Bernoulli Mixture Model all reach around 78% accuracy in predicting question-level pass/fail, with well-calibrated probabilities](explainable-models-78-percent-accuracy-calibrated.md) — related
+- [Prior failure of at least one subject is associated with higher probability of adequate academic performance](prior-failure-higher-adequate-performance-medical-students.md) — related

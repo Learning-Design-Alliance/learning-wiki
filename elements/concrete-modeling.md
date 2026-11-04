@@ -13,7 +13,7 @@ generated:
 # Concrete Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (7 for, 4 mixed, 3 against) · 10 studies (5 causal, 3 quant-synthesis, 2 review), `q1`–`q4` · 4 of 10 report an effect size · 14 claims rest on one study
+> **Evidence** · 16 claims (7 for, 6 mixed, 3 against) · 11 studies (6 causal, 3 quant-synthesis, 2 review), `q1`–`q4` · 4 of 11 report an effect size · 16 claims rest on one study
 
 ## Description
 Concrete modeling is the element in which physical or tangible representations are used to make abstract relationships visible.
@@ -37,6 +37,8 @@ Concrete modeling is the element in which physical or tangible representations a
 - [Students taught with two- or three-dimensional visual objects identified visual objects significantly better than conventionally taught students](../claims/visual-objects-improve-object-identification.md) [+W]
 - [Junior high students taught algebra with algebra tiles scored significantly higher on the overall posttest than students taught with conventional methods](../claims/algebra-tiles-significant-posttest-advantage.md) [+W] — attached 2026-11-02 from Ernest Larbi (2016), which proposed "Algebra tile manipulatives for junior high algebra instruction"; tests this page's relationship.
 - [Students taught with algebra tiles demonstrated significantly more proficient skills in factoring algebraic expressions than control-group peers](../claims/algebra-tiles-factoring-significant-difference.md) [+W] — attached 2026-11-02 from Ernest Larbi (2016), which proposed "Algebra tile manipulatives for junior high algebra instruction"; tests this page's relationship.
+- [Novice trainees who trained on case-specific 3D-printed temporal bone models scored lower in subsequent cadaveric mastoidectomy than those who trained on generic-anatomy models](../claims/case-specific-3d-printed-training-lower-cadaver-transfer-novices.md) [~W]
+- [The case-specific model group outperformed the generic-anatomy group on the first 3D-printed training procedure, but scores were similar on the second procedure](../claims/first-training-procedure-advantage-case-specific-models.md) [~W]
 
 ## Related Elements
 - [Conceptual Overviews](conceptual-overviews.md)

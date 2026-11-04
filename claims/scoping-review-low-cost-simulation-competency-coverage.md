@@ -54,3 +54,4 @@ The review's competency synthesis reports that "Thirty-one studies (79.5%) focus
 - [Among 39 included studies of low-cost simulation in nursing education, hybrid forms were the most common strategy (48.8%), followed by computer-based tools (17.9%)](scoping-review-low-cost-simulation-nursing-strategy-distribution.md) — related
 - [Immersive VR assessments of nursing and medical students are concentrated in settings that are difficult to replicate, especially emergencies](vr-assessments-concentrated-in-difficult-to-replicate-emergency-settings.md) — related
 - [Preceptors identified nine potentialities through which simulation may support newly graduated nurses during their transition to independent practice](nine-simulation-potentialities-ngrn-transition.md) — related
+- [Faculty identify clinical simulation as enabling intentional definition and integrated observation of multiple soft skills in nursing education](clinical-simulation-soft-skills-nursing.md) — related

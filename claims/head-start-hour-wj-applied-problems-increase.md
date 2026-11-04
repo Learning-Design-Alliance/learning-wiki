@@ -49,3 +49,4 @@ Instrumental variable (2SLS) analysis of the HSIS random assignment. The article
 - [An additional hour per day in Head Start decreases behavior problems by .052 SD for age-3 children, with no significant effect for age-4 children](head-start-hour-behavior-problems-decrease-age3.md) — related
 - [Head Start's impacts on children's cognitive outcomes vary substantially across centers, but not for early numeracy](cross-site-variation-in-cognitive-outcome-impacts.md) — related
 - [The number of DOE-funded preschools in the community is marginally significantly associated with smaller Head Start impacts on Woodcock Johnson Applied Problems scores](doe-preschools-marginal-moderation-applied-problems.md) — related
+- [RM-ANCOVA showed cohort difference magnitude varied across committees with small effect sizes](rmancova-time-cohort-interaction-small-effects.md) — related

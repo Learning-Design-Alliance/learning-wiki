@@ -83,3 +83,4 @@ Analysis of the mentee's 15 written reflections showed she internalised a three-
 - [Nurses' competence in effective implementation of evidence comprises evaluating and reflecting on outcomes, contextual understanding and analysis, and facilitating and managing change in practice](nurses-ebhc-competence-evidence-implementation-sf4.md) — related
 - [Student journal reflections surfaced comprehension difficulties that the teacher then addressed in instruction](journal-reflections-reveal-comprehension-difficulties.md) — related
 - [Students reported that analysing authentic TED talks was motivating and that self/peer evaluation of their video-recorded speaking tasks helped them overcome anxiety and track their progress](task-cycle-activities-reported-benefits.md) — related
+- [Immediate feedback and self-reflection-driven engagement shifted novice nurses from passive to active participation in learning](mini-cex-dops-self-reflection-active-engagement.md) — related

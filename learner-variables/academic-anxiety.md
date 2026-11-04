@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 236 claims (160 show a difference, 46 mixed, 30 no difference) · 148 studies (51 causal, 47 associational, 26 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 33 of 148 report an effect size · 229 claims rest on one study
+> **Evidence** · 242 claims (165 show a difference, 46 mixed, 31 no difference) · 152 studies (51 causal, 51 associational, 26 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 34 of 152 report an effect size · 235 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -272,6 +272,12 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Mathematics anxiety mediates the association between teacher support and mathematics achievement.](../claims/math-anxiety-mediation-teacher-support-achievement.md) [+W] — learners who differ on it differ in outcomes
 - [Teacher support is negatively associated with mathematics anxiety and positively associated with learning engagement.](../claims/teacher-support-anxiety-engagement-paths.md) [+M] — measured as an outcome of the instruction studied
 - [The direct association between teacher support and mathematics achievement becomes non-significant after including mathematics anxiety and learning engagement, indicating full mediation.](../claims/full-mediation-no-direct-effect-teacher-support-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [63.9% of students experienced increased stress or anxiety from pre-class tests](../claims/pre-class-tests-increase-stress-anxiety.md) [+M] — measured as an outcome of the instruction studied
+- [Age, gender, repeating the academic year, and accommodation show no statistically significant association with pre-OSCE anxiety](../claims/demographics-null-anxiety-association.md) [-M] — measured as an outcome of the instruction studied
+- [Female sex, lack of prior clinical-skills exposure, and high academic stress were associated with clinical skill anxiety](../claims/sex-exposure-stress-associated-with-csa.md) [+M] — measured as an outcome of the instruction studied
+- [Most nursing students report mild to moderate anxiety before an OSCE, with severe anxiety reported by a minority](../claims/mild-moderate-anxiety-majority-before-osce.md) [+M] — measured as an outcome of the instruction studied
+- [Self-efficacy was most strongly associated with monitoring strategy use, while learning anxiety was most strongly inversely associated with planning.](../claims/dimension-specific-psychological-correlates-metacognition.md) [+M] — learners who differ on it differ in outcomes
+- [Trait anxiety shows a similar sociodemographic pattern to state anxiety before the OSCE](../claims/trait-anxiety-similar-pattern-state-anxiety.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

@@ -50,3 +50,4 @@ Multiple linear regression (Table 6, attitudes model) in the survey of 502 Jorda
 - [Perceived knowledge, skills and attitudes toward mental health care are strongly positively correlated (r = 0.606–0.790)](knowledge-skills-attitudes-strongly-correlated-icu-mental-health.md) — related
 - [Only 32% of Jordanian ICU nurses had received formal mental health training, and 79% felt they could be better prepared with additional education](icu-nurses-mental-health-training-gap.md) — related
 - [Jordanian ICU nurses report moderate self‐perceived knowledge, skills and attitudes toward mental health care (means 3.19–3.28 on a 5‐point scale)](jordanian-icu-nurses-moderate-self-reported-mental-health-competence.md) — related
+- [Experience variables did not predict post-training VAP knowledge-based competence](experience-did-not-predict-post-training-vap-knowledge.md) — related

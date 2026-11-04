@@ -76,6 +76,7 @@ Individual rotation operationalizes personalization by matching modality and pac
 - [Implement Math 180 as a blended rotation model with 1:1 computer use during rotation and roughly half the class on software at a time](math-180-blended-rotation-implementation.md)
 - [Blend virtual ed-tech practice with regular in-person meetings and check-ins in summer learning programs](blended-summer-edtech-in-person-checkins.md)
 - [Combine adaptive online practice with scripted offline small-group lessons tied to the digital content](scripted-offline-lessons-tied-to-digital-content.md)
+- [Improve standardised nurse training through scheduled feedback mechanisms, planned rotation schedules, standardised examinations and supportive communication culture](scheduled-feedback-rotation-and-exam-improvements-strategy.md)
 
 ## Examples
 - **[Teach to One](https://teachtoone.com)** — a math program that generates a daily individualized schedule for each student across teacher-led, collaborative, and online modalities; the canonical individual-rotation implementation.

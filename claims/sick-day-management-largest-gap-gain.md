@@ -49,3 +49,4 @@ Item-level McNemar analysis in Table 1 of the pilot study; the article reports p
 - [Stress-dose hydrocortisone dosing accuracy improved from 42.9% to 93.9% after the simulation](stress-dose-dosing-improved-simulation.md) — related
 - [A single simulation-based intervention with structured debriefing improved immediate adrenal crisis knowledge among pediatric residents](simulation-debriefing-improved-adrenal-crisis-knowledge.md) — a broader claim this one bears on
 - [Simulation training significantly improved residents' theoretical knowledge of shoulder dystocia management](simulation-improved-theoretical-knowledge-shoulder-dystocia.md) — related
+- [Knowledge gains were largest in domains with low baseline knowledge: humidifier change frequency, suction systems, patient positioning and subglottic secretion drainage](item-level-vap-knowledge-gains-largest-low-baseline-domains.md) — related

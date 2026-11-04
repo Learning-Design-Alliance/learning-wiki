@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 51 claims (36 for, 15 mixed) · 50 studies (29 causal, 7 review, 6 quant-synthesis, 5 associational, 2 qualitative, 1 design), `q1`–`q4` · 13 of 50 report an effect size · 47 claims rest on one study
+> **Evidence** · 53 claims (38 for, 15 mixed) · 51 studies (30 causal, 7 review, 6 quant-synthesis, 5 associational, 2 qualitative, 1 design), `q1`–`q4` · 13 of 51 report an effect size · 49 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -87,6 +87,8 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [EFL learners perceive captioned instructional videos as helpful for vocabulary acquisition but not as a distraction to comprehension.](../claims/captions-perceived-as-vocabulary-aid-not-distraction.md) [+W]
 - [The 2022 cohort rated 3D imaged models significantly more positively than the 2021 cohort for visualisation, understanding and self-assessment of tooth preparations](../claims/cohort-2022-rated-3d-ims-more-positively.md) [+M] — attached 2026-11-04 from Ablal Manal et al. (2026), which proposed "3D imaged models (3D IMs): annotated, fully rotatable digital tooth-preparation resources"; tests this page's relationship.
 - [64.53% of students recommended incorporating additional resources such as videos or animations to enrich the learning experience](../claims/students-recommend-more-resources-videos-animations.md) [+W]
+- [Students studying musculoskeletal anatomy with an interactive 3D digital model show greater pre-to-post test score improvement than students studying textbook images](../claims/3d-model-greater-score-gains-than-textbook-images.md) [+W] — attached 2026-11-04 from Safir AH et al. (2026), which proposed "Annotated, interactive 3D musculoskeletal anatomy model built in Blender from open-source files and hosted on Sketchfab"; tests this page's relationship.
+- [Students using the 3D model reported higher confidence, greater ability to visualize spatial relationships, and greater enjoyment than textbook-image students](../claims/3d-model-higher-confidence-visualization-enjoyment.md) [+W] — attached 2026-11-04 from Safir AH et al. (2026), which proposed "Annotated, interactive 3D musculoskeletal anatomy model built in Blender from open-source files and hosted on Sketchfab".
 
 ## The evidence by question
 

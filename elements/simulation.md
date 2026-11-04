@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 337 claims (196 for, 120 mixed, 21 against) · 207 studies (78 review, 54 causal, 38 quant-synthesis, 18 design, 9 associational, 7 qualitative, 3 theoretical), `q1`–`q4` · 35 of 207 report an effect size · 327 claims rest on one study
+> **Evidence** · 347 claims (204 for, 121 mixed, 22 against) · 214 studies (79 review, 59 causal, 38 quant-synthesis, 18 design, 10 associational, 7 qualitative, 3 theoretical), `q1`–`q4` · 37 of 214 report an effect size · 337 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -392,6 +392,16 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Simulation-based online ultrasound training produces theoretical and practical outcomes comparable to traditional on-site instruction in physiotherapy students](../claims/simulation-online-ultrasound-training-comparable-outcomes.md) [+W]
 - [Residents rated the pork-based model higher in fidelity and satisfaction than the silicone model, with no difference in operational difficulty](../claims/pork-model-higher-fidelity-satisfaction-than-silicone.md) [~W]
 - [Simulation evaluation scores do not change significantly between post-simulation and two-month follow-up](../claims/simulation-evaluations-stable-over-two-months.md) [+W]
+- [Adding an aging simulation suit experience to theoretical training improves clinical empathy (JSPE-HPS total) in long-term care professionals](../claims/aging-suit-improves-jspe-total-empathy.md) [+M] — attached 2026-11-04 from Serrada-Tejeda S et al. (2026), which proposed "GERT aging simulation suit as an experiential empathy-training tool"; tests this page's relationship.
+- [Students' self-rated knowledge of karyogram construction rose significantly from before to after using an interactive digital karyotyping tool in both cohorts, in an uncontrolled pre–post study](../claims/digital-karyotyping-tool-increased-self-perceived-knowledge.md) [+W] — attached 2026-11-04 from Barrio Eva et al. (2026), which proposed "Interactive digital karyotyping simulator for undergraduate medical genetics"; tests this page's relationship.
+- [Nurses trained with simulation showed higher skill scores than nurses trained with video-based instruction (exploratory)](../claims/simulation-higher-skill-scores-nurses-exploratory.md) [+W] — attached 2026-11-04 from Farah T et al. (2026), which proposed "Peyton's four-step approach for instructor-led low-fidelity simulation training".
+- [Participants perceived the AI-simulated patient interaction as authentic and potentially useful for shared decision-making training](../claims/perceived-authenticity-ai-sdm-chatbot.md) [+W] — attached 2026-11-04 from Herschbach L et al. (2026), which proposed "AI-simulated patient chatbot with automated OPTION-12 feedback for shared decision-making training".
+- [Both video-based and simulation-based training significantly improve paediatric BLS knowledge immediately after training](../claims/video-and-simulation-improve-bls-knowledge-immediately.md) [+W]
+- [AI-VSP teaching of history-taking skills achieves learning outcomes not significantly different from conventional SP in a randomized controlled trial](../claims/ai-vsp-non-inferior-to-sp-history-taking.md) [+M]
+- [AI simulation improves Mini-CEX medical interviewing skills and organization/efficiency but not professionalism, clinical judgment, counseling, or overall competence](../claims/ai-simulated-patient-minicex-domains-gynecology.md) [+W]
+- [Comprehensive data linking simulation training to patient outcomes, complication rates, and long-term skill retention are lacking](../claims/simulation-skill-transfer-outcomes-lacking.md) [-W]
+- [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](../claims/simulation-higher-skill-retention-nurses-exploratory.md) [+W]
+- [Both video-based and simulation-based training produce similarly high practical skills post-training with no overall between-group difference](../claims/video-and-simulation-similar-practical-skills-post-training.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

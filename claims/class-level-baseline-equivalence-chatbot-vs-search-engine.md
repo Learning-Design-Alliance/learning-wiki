@@ -72,3 +72,4 @@ Quasi-experimental baseline check comparing the two intact classes on previous-s
 - [The treatment and control groups had equivalent vocabulary sizes at pre-test](equivalent-vocabulary-sizes-at-pretest.md) — related
 - [No pre-treatment differences in biofuels content knowledge existed between adaptive and innovative students before the treatment](pretest-equivalence-adaptive-innovative-groups.md) — related
 - [Prior knowledge does not significantly influence treatment-dependent learning achievement](prior-knowledge-no-treatment-influence.md) — related
+- [The two groups were comparable in gender, age, and educational background before instruction](3d-visualization-pbl-groups-comparable-baseline.md) — related

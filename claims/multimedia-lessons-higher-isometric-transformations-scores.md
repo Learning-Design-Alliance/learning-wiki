@@ -70,3 +70,4 @@ Same design at the Faculty of Civil Construction Management: multimedia group av
 - [Students taught regular polyhedra with multimedia lessons scored significantly higher than traditionally taught peers at both faculties](multimedia-lessons-higher-regular-polyhedra-scores.md) — related
 - [The multimedia advantage was concentrated on tasks demanding visual and spatial comprehension, while scores on definitional tasks were similar between groups](multimedia-advantage-concentrated-visual-spatial-tasks.md) — related
 - [Medical students in an integrated histology course scored significantly higher on the end-of-semester exam than non-participants taught traditionally](integrated-histology-higher-test-scores.md) — related
+- [Year 1 students scored significantly higher on the peer collaboration scale than Year 2 students](year1-higher-collaboration-score.md) — related

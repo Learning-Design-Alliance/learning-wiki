@@ -87,3 +87,4 @@ The review notes, citing Caragiannis et al., that ranking systems are "less susc
 - [Grading time shows a sweet spot: students grading around 20 minutes (time z-score near -0.25) have significantly lower residual standard deviations than slow graders, while snap graders are unreliable and inflate grades](grading-time-sweet-spot-twenty-minutes.md) — related
 - [Higher-scoring students tend to be more reliable graders (except the very best), and students are least biased when grading peers with similar scores](grader-grade-relates-to-grading-reliability.md) — related
 - [Ranking and pairwise comparison reduce graders' cognitive load relative to numeric scoring, with limits when submissions are similar or numerous](ranking-reduces-grader-cognitive-load.md) — related
+- [Students noted inherent subjectivity in fixed numerical rating scales within the QVP](numerical-scale-subjectivity-qvp.md) — related

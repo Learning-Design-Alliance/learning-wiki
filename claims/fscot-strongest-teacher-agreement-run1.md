@@ -54,3 +54,4 @@ Comparison of three GPT-4o-mini prompting strategies against teacher mean scores
 - [LLM-based essay grading is not fully reproducible: repeated ChatGPT sessions on the same submissions show only moderate consistency (Krippendorff's alpha 0.625)](llm-grading-session-variability-limited-reproducibility.md) — related
 - [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](llm-essay-scoring-weak-human-agreement.md) — related
 - [Prompting strategy influenced ChatGPT-4 performance, with Resident prompts most consistent and Specialist prompts showing significantly different response patterns](prompting-strategy-influences-chatgpt-pes-performance.md) — related
+- [ChatGPT LLM scores showed only moderate agreement with human transcript scores.](llm-moderate-agreement-human-scores.md) — related

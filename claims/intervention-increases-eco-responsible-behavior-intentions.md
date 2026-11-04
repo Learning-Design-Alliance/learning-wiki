@@ -48,3 +48,4 @@ Pre/post self-report of intentions among the 61 intervention students, measured 
 - [Environmentally friendly behaviors increased far more in the visual-materials group (about 65%) than in the control group (about 4%)](visual-materials-increase-friendly-behaviors.md) — related
 - [Interacting with an eco-feedback LLM interface surfaces gaps in students' understanding of digital sustainability and supports learning about the environmental impact of everyday LLM use](eco-feedback-interface-supports-sustainability-learning.md) — related
 - [After the program, 88.5% of students stated they would go to a doctor upon discovering a breast problem, a highly statistically significant change](bse-education-improved-referral-intention.md) — related
+- [Self-reported preventive behaviors regarding EDCs improved by a mean 2.13 points on a 5-point scale (P<.001)](edc-elearning-behavior-gains.md) — related

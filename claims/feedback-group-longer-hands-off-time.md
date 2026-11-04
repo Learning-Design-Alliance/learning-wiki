@@ -51,3 +51,4 @@ In the randomized study's 30:2 test, mean hands-off time was "6.0 (1.4)" with fe
 - [Real-time feedback training improves the compression target and depth control in 30:2 CPR cycles](real-time-feedback-improves-compression-30-2-cycles.md) — related
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — related
 - [Sessions with CPR Tutor feedback showed no significant difference in overall mistake frequency compared with control sessions without feedback](cpr-tutor-no-overall-mistake-frequency-reduction.md) — related
+- [Low-dose high-frequency training shortens time to key resuscitation interventions, including CPR initiation, rhythm analysis, supraglottic airway insertion and hands-off time](ldhf-als-shorter-time-to-interventions.md) — related

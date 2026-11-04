@@ -87,3 +87,4 @@ Parallel RCT (n=40 medical students) across 10 ex vivo laparoscopic cholecystect
 - [AR guidance improves objective technical accuracy in surgical trainees, most strongly in tasks with high visuospatial demands](ar-improves-technical-accuracy-visuospatial-tasks.md) — a narrower finding that bears on this claim
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
 - [For lower-stakes basic skills, AR shows noninferiority rather than superiority over traditional instruction](ar-noninferiority-basic-skills.md) — reports the opposite
+- [A meta-analysis of 12 medical simulation studies found proficiency-based progression training reduces procedural errors by 60%, procedure time by 15%, and increases correctly executed steps by 47% versus conventional simulation](pbp-meta-analysis-errors-time-steps.md) — related

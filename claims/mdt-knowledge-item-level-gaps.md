@@ -51,3 +51,4 @@ Item-level analysis of the 20-statement questionnaire (Table 2) among 165 nurses
 - [Medical students and interns poorly identified pressure ulcer risk in a patient-safety simulation](poor-pressure-ulcer-risk-identification-room-of-horrors.md) — related
 - [A competency-based pressure ulcer curriculum improved competency scores across curriculum phases](competency-based-pressure-ulcer-curriculum-score-gains.md) — related
 - [DACH HCPs show the lowest relative educational need in emergency department assessment, cognitive and functional status assessment, skin care, ageism, gerodontology and oncogeriatrics (negative Z-scores)](dach-negative-zscore-topics.md) — related
+- [Knowledge gains were largest in domains with low baseline knowledge: humidifier change frequency, suction systems, patient positioning and subglottic secretion drainage](item-level-vap-knowledge-gains-largest-low-baseline-domains.md) — related

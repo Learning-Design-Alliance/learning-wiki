@@ -42,6 +42,7 @@ The article's future-work agenda specifies the testing needed before the wiki ap
 
 - [Govern tutor knowledge through teacher-curated document corpora with RAG and document-driven adaptation](teacher-curated-knowledge-governance-rag.md)
 - [Use hybrid architectures in which KG-grounded classifiers handle diagnosis while LLMs provide open-ended scaffolding and dialogue](hybrid-kg-diagnosis-llm-scaffolding-architecture.md)
+- [Combine AI tutoring with structured knowledge representation rather than using AI solely for question answering](combine-ai-tutoring-with-knowledge-graph-structure-strategy.md)
 
 ## Examples
 -

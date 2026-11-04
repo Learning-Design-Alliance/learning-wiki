@@ -108,3 +108,4 @@ The review's synthesis of reported limitations across VR studies, naming cybersi
 - [Simulation-based teaching produces higher post-intervention technical skill scores and success rates for blood-sampling procedures than traditional teaching](simulation-higher-technical-skills-success-rates.md) — a narrower finding that bears on this claim
 - [VR-based dialogue simulations revealed implicit learning outcomes such as courage, emotional resilience, and the ability to give and receive feedback](vr-simulation-implicit-hidden-learning-outcomes.md) — related
 - [Transfer of VR training gains to real clinical practice remains unconfirmed](vr-training-transfer-unconfirmed.md) — related
+- [Comprehensive data linking simulation training to patient outcomes, complication rates, and long-term skill retention are lacking](simulation-skill-transfer-outcomes-lacking.md) — related

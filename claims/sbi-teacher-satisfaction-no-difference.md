@@ -49,3 +49,4 @@ Two-sample t-tests of Teacher Satisfaction Survey scores (22 items, coefficient 
 - [Teacher experience with SBI did not significantly affect fidelity of implementation, as both experienced and novice implementers achieved similar fidelity scores](sbi-teacher-experience-no-fidelity-effect.md) — related
 - [Neither PD approach changed teacher perceptions of teaching or attitudes towards teaching](pd-no-change-teacher-perceptions.md) — related
 - [No survey item differed significantly between the two clinical teaching bases; all categorical effect sizes were negligible (|Cohen's h| ≤ 0.143)](no-between-centre-differences-negligible-effect-sizes.md) — related
+- [Satisfaction scores clustered around scale midpoint in both cohorts, interpreted as moderate satisfaction](satisfaction-moderate-both-formats-exploratory.md) — related

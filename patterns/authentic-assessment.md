@@ -21,7 +21,7 @@ sources:
 # Authentic Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 24 claims (13 for, 10 mixed, 1 against) · 31 studies (10 quant-synthesis, 8 causal, 6 review, 3 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 10 of 31 report an effect size · 17 claims rest on one study
+> **Evidence** · 25 claims (14 for, 10 mixed, 1 against) · 32 studies (10 quant-synthesis, 8 causal, 6 review, 4 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 10 of 32 report an effect size · 18 claims rest on one study
 
 ## Description and scope
 
@@ -138,6 +138,7 @@ This pattern is scoped to judging a performance capability through an extended, 
 - [Most reviewed studies pursued real-life-experience authenticity, and no study combined all four intentions of authenticity](../claims/intentions-of-authenticity-implemented-studies.md) [~W]
 - [OSCE validity correlations with other measures range from very weak to strong, suggesting OSCEs resemble narrow course examinations more than broad clinical practice](../claims/pt-osce-validity-correlations-mixed.md) [~W]
 - [Commercialized critical thinking measures have limited validity for nursing-specific contextual performance](../claims/commercialized-ct-measures-limited-validity.md) [+W]
+- [Educators perceived mini-CEX and DOPS as giving a more accurate representation of novice nurses' clinical abilities than written examinations](../claims/mini-cex-dops-true-reflection-abilities.md) [+W]
 
 ## Related Patterns
 - [Constructive Alignment](constructive-alignment.md) — authentic assessment is the assessment half of alignment; outcomes, tasks, and criteria must point at the same competence

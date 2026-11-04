@@ -50,3 +50,4 @@ The review reports, citing Hendrickx et al. (2016), that "a range of 0.06–0.29
 - [Non-scientific discussion was much denser than scientific discussion, with all students participating non-scientifically but only 12 scientifically](non-scientific-denser-than-scientific-discussion.md) — related
 - [Prosocial and aggressive descriptive norms vary considerably between classrooms](classroom-descriptive-norms-vary.md) — related
 - [Network cohesion in NSI increased over time but remained low, with about 16 percent of possible school-to-school connections realized](nsi-network-cohesion-low-but-improving.md) — related
+- [Year 2 PBL collaboration networks are denser, more transitive, and have shorter average path lengths than Year 1 networks](year2-pbl-networks-denser-more-transitive-shorter-paths.md) — related

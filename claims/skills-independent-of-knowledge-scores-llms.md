@@ -49,3 +49,4 @@ Skills-domain results from evaluating seven frontier LLMs on 6,281 items (171 MC
 - [Knowledge, Skills, and Attitude scores are largely independent across frontier LLMs, with Knowledge–Skills correlation r=−0.51 and Knowledge–Attitude r=−0.63](ksa-dimensions-weakly-negative-correlated-llms.md) — related
 - [Across 17 frontier models, Stage 1 pedagogical-judgment scores are high (mean 0.893) while rank correlations with Stage 2 (ρ=0.24) and Stage 3 (ρ=0.21) are weak, with workflow scores topping out at 0.704](teacharena-stage-rank-reshuffling.md) — a broader claim this one bears on
 - [Disability-aware training does not degrade out-of-domain educational knowledge on OpenLearnLM](sped-training-no-ood-knowledge-cost.md) — related
+- [LLMs performed better on the knowledge-oriented Professional Practice section than the application-oriented Practical Skills section](knowledge-application-section-gap-nnle.md) — related

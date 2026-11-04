@@ -47,3 +47,4 @@ Hierarchical regression on Time 2 perceived goal difficulty in the randomized pr
 ## Related Claims
 - [Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload](drawing-support-increased-perceived-difficulty.md) — related
 - [Difficulty adaptation significantly changed task correctness according to the strength and direction of adaptation (manipulation check)](difficulty-adaptation-manipulation-check-task-correctness.md) — related
+- [Case-level perceived difficulty decreases with case number, and no fetal head position differences emerge within either technique](learning-effect-and-no-position-differences.md) — related

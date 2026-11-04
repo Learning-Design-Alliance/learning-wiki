@@ -50,3 +50,4 @@ Single-instructor interview conducted with the participants' online annotations 
 - [Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work](inquiry-first-stimulates-interest-and-organizes-course.md) — a broader claim this one bears on
 - [In a five-participant user study, instructors found the emoji heat map saved time and helped identify interesting and difficult reading sections](emoji-heat-map-instructor-user-study.md) — related
 - [Students perceived the sharing annotation mechanism as useful for pre-reading and learning, and most found VPEN easy to use though some were frustrated](student-perceptions-sharing-vpen.md) — related
+- [Pre-class preparation (93.5%) and instructor debriefings (93.6%) were rated highly effective](preclass-and-debrief-ratings-pilot.md) — related

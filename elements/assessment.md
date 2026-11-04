@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 28 claims (13 for, 12 mixed, 3 against) · 29 studies (8 review, 7 causal, 6 quant-synthesis, 5 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 29 report an effect size · 26 claims rest on one study
+> **Evidence** · 31 claims (15 for, 13 mixed, 3 against) · 31 studies (8 causal, 8 review, 6 quant-synthesis, 5 design, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 6 of 31 report an effect size · 29 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -79,6 +79,9 @@ Assessment is the structured collection of evidence about learner understanding,
 - [Classic Mini-CEX systematically overlooks OHL communication practices in pediatric pneumonia education](../claims/mini-cex-blind-spot-ohl-communication.md) [-W]
 - [Faculty preparedness gaps and psychometric subjectivity are key barriers to implementing OHL-Mini-CEX](../claims/ohl-mini-cex-implementation-barriers.md) [~W]
 - [Trainee surgeons' self-assessment scores are lower than expert evaluation scores on a suture exercise](../claims/sa-lower-than-ee-suture-scores.md) [~W]
+- [Teaching-related, novice personal, patient-related and feedback-related factors affected mini-CEX and DOPS implementation efficacy](../claims/mini-cex-dops-multifactor-efficacy.md) [~W]
+- [Educators perceived mini-CEX and DOPS as giving a more accurate representation of novice nurses' clinical abilities than written examinations](../claims/mini-cex-dops-true-reflection-abilities.md) [+W]
+- [Humanistic care-integrated Mini-CEX teaching improves humanistic care ability across cognition, courage, and patience dimensions](../claims/mini-cex-humanistic-care-ability-gains.md) [+W]
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

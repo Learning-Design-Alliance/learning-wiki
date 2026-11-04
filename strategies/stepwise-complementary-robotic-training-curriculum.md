@@ -65,6 +65,8 @@ The review recommends that training modalities be combined in a progressive curr
 - [Incorporate SPS combined with online CBL into pediatric surgical training to enhance preparedness and well-being](incorporate-sps-online-cbl-training-strategy.md)
 - [Match training modality emphasis to trainee proficiency level](match-modality-emphasis-to-proficiency-level.md)
 - [Combine online modules with hands-on simulation training to teach POCUS-guided procedural skills to novices](blended-online-hands-on-pocus-procedural-training.md)
+- [Exhaust the learning potential of one training modality before progressing to other modalities or supervised surgery](exhaust-modality-learning-potential-before-progression.md)
+- [Four pillars for educational transformation: industry-independent accreditation, integrated curricula, objective competency assessment, and competency-based certification](four-pillars-educational-transformation-ep.md)
 
 ## Examples
 -

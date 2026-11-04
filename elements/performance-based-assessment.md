@@ -13,7 +13,7 @@ generated:
 # Performance-Based Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (5 for, 5 mixed) · 8 studies (3 design, 2 causal, 2 review, 1 associational), `q1`–`q3` · 0 of 8 report an effect size · 10 claims rest on one study
+> **Evidence** · 13 claims (7 for, 6 mixed) · 10 studies (4 causal, 3 design, 2 review, 1 associational), `q1`–`q3` · 0 of 10 report an effect size · 13 claims rest on one study
 
 ## Description
 Performance-based assessment is the element in which learners demonstrate knowledge or skill by performing, producing, or solving something observable rather than only selecting answers. It is useful when the learning target involves application, integration, or authentic performance. Typically the teacher observes both the process (e.g., data collection during an experiment) and the product (e.g., the completed report), though for some tasks (a paper drafted partly outside class) only the product may actually be visible, and for others (group interaction skills) there may be no discrete product at all.
@@ -52,6 +52,9 @@ Performance assessments carry real, specific tradeoffs (Linn & Miller, 2005). Th
 - [The OSCE score advantage of the vertically integrated program is concentrated in station 2 (management and communication) and in the safe management and communication/follow-up domains.](../claims/osce-advantage-station2-safe-management-communication.md) [+W]
 - [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](../claims/osce-correlates-self-reported-competence.md) [~W]
 - [EPA assessments were feasible for interns across specialties, with 738 EPAAs submitted by 119 interns and 283 assessors, mostly completed in 10 minutes or less](../claims/epa-assessments-feasible-for-interns-national-framework-pilot.md) [+W]
+- [A specialty-specific OSCE plus WBA curriculum raised end-of-rotation OSCE total scores versus historical controls in radiation oncology postgraduates](../claims/specialty-osce-wba-curriculum-higher-osce-total.md) [+W]
+- [OSCE gains were uneven across stations and disease modules: contouring station and cervical module differed significantly, plan-evaluation station and NPC/esophageal modules did not](../claims/osce-gains-uneven-stations-modules.md) [~W]
+- [Phantom-based lesion-recognition performance ranged from 78.6% to 86.5% across assessed domains, highest for scanning and lowest for preliminary diagnosis](../claims/lesion-recognition-task-performance-phantom.md) [+W]
 
 ## Related Elements
 

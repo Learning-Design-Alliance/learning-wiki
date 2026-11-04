@@ -67,3 +67,5 @@ Four focus groups (total n = 22) with participating students conducted in Octobe
 - [The high overall pass rate of 97.1% may limit the discriminatory power of the PJ-OSCE in its current form.](pj-osce-high-pass-rate-limits-discriminatory-power.md) — related
 - [Students rated the PJ-OSCE favourably, with 41.0% reporting substantial learning gains.](pj-osce-student-evaluation-learning-gains.md) — related
 - [A large-scale summative PJ-OSCE can be successfully developed and delivered within a German model curriculum context.](large-scale-summative-pj-osce-feasible-german-model-curriculum.md) — related
+- [A blended learning course combining H5P online modules with face-to-face standardized patient training was feasible and acceptable for medical students](blended-learning-communication-course-feasibility-pilot.md) — related
+- [The FC/TPS pilot demonstrated high feasibility and learner acceptability but not proven efficacy](fc-tps-pilot-feasibility-not-efficacy.md) — related

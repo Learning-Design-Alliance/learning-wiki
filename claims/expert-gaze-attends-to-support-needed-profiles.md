@@ -91,3 +91,4 @@ Whole-class instruction scene of the same eye-tracking study showed no significa
 - [Both novice and expert teachers state valid behavioral cues when inferring student profiles, but novices rely more on salient cues such as hand raising and quality of answers](novices-rely-on-salient-cues-hand-raising.md) — related
 - [Expert teachers show expertise-related eye movement patterns in some classroom tasks but not others, indicating task and context specificity](expert-teacher-gaze-context-specific.md) — possibly the same claim (merge candidate)
 - [Higher perceived cognitive load during IVR teaching is associated with worse visual attention performance on disruptions](cognitive-load-lower-visual-attention.md) — related
+- [The expert leader established eye contact with team members more frequently during direct orders](fpa-expert-eye-contact-during-direct-orders.md) — related

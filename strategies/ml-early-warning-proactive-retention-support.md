@@ -54,6 +54,7 @@ The article recommends that institutions use machine learning predictions of wit
 - [Proactively identify upcoming critical events via stress tests, risk analysis, and learning analytics on program operation data](proactive-critical-event-identification.md)
 - [Engage teachers with predictive analytics dashboards to trigger timely interventions with students at risk](teacher-engagement-with-pla-interventions.md)
 - [Deploy analytical tools on learning platforms to detect learners exhibiting behaviours that may lead to failure or dropout and propose actions to recover them.](deploy-analytical-tools-to-detect-at-risk-mooc-learners.md)
+- [Integrate real-time engagement analytics into large-class clinical instruction to support data-informed teaching](real-time-engagement-analytics-strategy.md)
 
 ## Examples
 -

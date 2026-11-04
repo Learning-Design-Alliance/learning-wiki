@@ -48,3 +48,4 @@ Abbreviation counting across the corpus identified 1,315 abbreviations; the resu
 - [The total score of the abbreviated Educational Survey Test correlates about .786 with the combined long standard scales](survey-test-total-correlates-786-with-long-scales.md) — related
 - [An abbreviated 12-item RPM subset predicts sentence recognition in CI users with comparable validity to the full 48-item test](abbreviated-12-item-rpm-predicts-ci-sentence-recognition.md) — related
 - [The abbreviated 21-item German CTt shows adequate reliability and a unidimensional factor structure for primary school children](abbreviated-ctt-reliability-primary-school.md) — related
+- [Ambiguous technological terminology and unexplained abbreviations in the QVP required refinement for consistent interpretation](ambiguous-terminology-abbreviations-qvp-refinement.md) — related

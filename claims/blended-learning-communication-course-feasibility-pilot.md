@@ -1,0 +1,50 @@
+---
+type: claim
+title: A blended learning course combining H5P online modules with face-to-face standardized patient training was feasible and acceptable for medical students
+description: A blended learning course combining H5P online modules with face-to-face standardized patient training was feasible and acceptable for medical students
+id: blended-learning-communication-course-feasibility-pilot
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: weak
+newest_evidence: 2026
+sources:
+  - id: töpfer-j-2026
+    resource: "https://doi.org/10.1186/s12909-026-09662-1"
+    title: "Töpfer J, Fritsch S, Wollny A, Romeike B, Endlicher D, Schrötter S, Schmitz S, Ciężka A. (2026). Pilot of a blended learning model on medical students’ communication skills in the context of digital innovations. BMC Medical Education. https://doi.org/10.1186/s12909-026-09662-1"
+    author: Töpfer J, Fritsch S, Wollny A, Romeike B, Endlicher D, Schrötter S, Schmitz S, Ciężka A.
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# A blended learning course combining H5P online modules with face-to-face standardized patient training was feasible and acceptable for medical students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` The blended learning format was successfully implemented and completed by participating students in a pilot with six medical students. [→ Töpfer J 2026](#topfer-j-2026)
+
+## Evidence
+
+### Töpfer J 2026
+
+Töpfer J, Fritsch S, Wollny A, Romeike B, Endlicher D, Schrötter S, Schmitz S, Ciężka A. (2026). Pilot of a blended learning model on medical students’ communication skills in the context of digital innovations. BMC Medical Education. https://doi.org/10.1186/s12909-026-09662-1
+
+`q2 · i?` · `causal · r1`
+
+Pilot study with six sixth- and eighth-semester medical students in an NKLM-based elective course; the article reports the format "was successfully implemented and completed by participating students", with all students reporting full completion of online modules.
+
+> "The blended learning format was successfully implemented and completed by participating students."
+
+## Discussion
+
+
+## Related Claims
+- [Lay health care workers report high engagement with and satisfaction toward blended digital training in low-resource settings](digital-training-high-engagement-satisfaction.md) — related
+- [Adding simulation to online patient-safety training improved nursing students' patient safety competency, but adding classroom teaching to clinical simulation did not further improve teamwork attitudes](blended-simulation-versus-simulation-alone-mixed.md) — related
+- [Pilot OSCEs proved feasible despite high staffing demands and were favourable for student learning.](pj-osce-pilots-feasible-despite-staffing-demands.md) — related

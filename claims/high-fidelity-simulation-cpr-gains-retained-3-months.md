@@ -53,3 +53,4 @@ Review's retention-period synthesis: in Aqel et al. (first-year nursing students
 - [Nigerian secondary school students retain statistically significant CPR skills six weeks after conventional CPR training](nigerian-secondary-students-retain-cpr-skills-six-weeks.md) — a narrower finding that bears on this claim
 - [SVVR training produces greater gains in nurses' delirium care knowledge than noninteractive video education immediately after training and at 1-month follow-up](svvr-greater-delirium-knowledge-gains-than-video.md) — related
 - [Knowledge gains from a one-day simulation curriculum persist at three months among pre-health students who completed follow-up.](simulation-knowledge-retention-three-months.md) — related
+- [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-retention-nurses-exploratory.md) — related

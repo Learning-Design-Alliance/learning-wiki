@@ -72,3 +72,4 @@ RDSEM within-person trend models (Model 3) on 212 session surveys; standardised 
 - [Scientific curiosity gains in the eco-hunt group were confined to the novelty and complexity-of-stimuli dimensions, with no improvement in lack of clarity or surprise/bafflement](curiosity-dimension-gains-novelty-complexity-only.md) — related
 - [LRE frequency decreases over the course of the activity as learner proficiency increases](lre-frequency-decreases-over-time.md) — related
 - [Learning qualitative research initially involves considerable anxiety, frustration, and confusion for students, alongside positive emotions such as excitement, surprise, and humility](affective-dimension-anxiety-frustration-excitement-qualitative-research.md) — related
+- [Mean clinical skill anxiety scores declined progressively with year of study](csa-declines-with-year-of-study.md) — related

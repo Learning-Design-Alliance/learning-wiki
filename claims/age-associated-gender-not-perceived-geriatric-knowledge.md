@@ -68,3 +68,4 @@ Same adjusted ordinal regression; the confidence interval for gender (OR 1.10, 9
 - [DACH HCPs rated perceived knowledge and relevance more than 20% higher than other European countries for many topics, while transversal communication skills were rated comparably](dach-vs-europe-topic-deviations.md) — related
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related
 - [Greater clinical experience was independently associated with higher confidence in applying SCL-acquired knowledge to clinical practice](clinical-experience-predicts-confidence-scl-application.md) — related
+- [Older age is associated with higher probability of adequate academic performance among medical students in Lima](older-age-higher-adequate-performance-medical-students.md) — related

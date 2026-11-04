@@ -66,3 +66,4 @@ The review observes that educational interventions accompanying the PSA roll-out
 ## Related Claims
 
 - [Final-year students report low confidence in prescription writing and feel underprepared for prescribing](students-underprepared-prescription-writing-confidence.md)
+- [The Foundation Programme requires successful completion of the Prescribing Safety Assessment for FY1 but leaves resuscitation preparedness to variable local provision, an inconsistency the authors argue is hard to defend.](psa-required-fy1-resuscitation-left-local-inconsistency.md) — related

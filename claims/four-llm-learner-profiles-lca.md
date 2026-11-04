@@ -61,3 +61,4 @@ Latent class analysis on three indicator dimensions (devices, learning contexts,
 - [Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles](six-provisional-manager-typologies-lca.md) — related
 - [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related
 - [K-means clustering of LMS log data identified two distinct SRL profiles (high and low) among online students](two-srl-profiles-from-lms-log-clustering.md) — related
+- [Latent profile analysis identifies four AI-context learner subgroups — Active Adopters, Cognitively Advanced but Constrained, Passive Followers, and Disengaged — with markedly different self-directed learning levels](four-latent-profiles-ai-context-sdl.md) — related

@@ -50,3 +50,4 @@ In the trial's post-training standardized feedback scores, the simulation group 
 - [Pork belly simulation training yields higher independent TAP block success rate than traditional training](pork-belly-sim-higher-independent-tap-success.md) — related
 - [Pork belly simulation training reduces TAP block procedure time compared to traditional training](pork-belly-sim-shorter-tap-procedure-time.md) — related
 - [Residents rated the pork-based model higher in fidelity and satisfaction than the silicone model, with no difference in operational difficulty](pork-model-higher-fidelity-satisfaction-than-silicone.md) — related
+- [Integrating a structured phantom-assisted simulation module into residency teaching is associated with higher SP-based abdominal ultrasound OSCE scores among novice residents](phantom-assisted-simulation-improves-abdominal-ultrasound-osce.md) — related

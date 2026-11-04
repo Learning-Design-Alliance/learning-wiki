@@ -53,6 +53,8 @@ The article recommends that universities replace uniform AI-literacy programs wi
 - [Provide differentiated scaffolding matched to teachers' behavioral-cognitive profiles when supporting multi-agent AI workflow design](differentiated-scaffolding-teacher-ai-design-profiles.md)
 - [Differentiate T2I pedagogy by student profile and adopt a stage-sensitive approach to AI literacy and assessment in studio courses](differentiated-stage-sensitive-t2i-pedagogy.md)
 - [Adopt a differentiated integration strategy for GenAI in undergraduate medical education rather than uniform adoption](differentiated-genai-integration-strategy.md)
+- [Differentiate AI-integration support by learner profile rather than applying a uniform approach](profile-differentiated-ai-integration-strategies.md)
+- [Shift toward resilience-sensitive differentiated support rather than blanket universal support](resilience-sensitive-differentiated-support.md)
 
 ## Examples
 -

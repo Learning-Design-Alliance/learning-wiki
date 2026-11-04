@@ -70,3 +70,4 @@ Descriptive posttraining evaluation survey in the enhanced arm only. "Most parti
 - [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](spoc-blended-package-high-adherence.md) — related
 - [Over 90% of students reported satisfaction with online learning resources and completion of online assignments in the blended PET course](high-online-self-learning-satisfaction-blended-pet.md) — related
 - [Training positively influenced CHW motivation, job satisfaction and performance, though effects varied across studies](training-positive-influence-chw-motivation-performance.md) — related
+- [A blended learning course combining H5P online modules with face-to-face standardized patient training was feasible and acceptable for medical students](blended-learning-communication-course-feasibility-pilot.md) — related

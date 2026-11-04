@@ -56,3 +56,4 @@ Longitudinal measurement invariance testing (configural, metric, and scalar inva
 - [Profile structures and transitions over time largely align with common descriptions of interest development](profile-transitions-align-interest-development-theory.md) — related
 - [Retention effects are developmentally invariant across students retained in Years 5, 6, 7, and 8, and mostly positive overall](retention-effects-developmentally-invariant.md) — related
 - [In Study 2 (N=210), the profile-achievement link held while controlling initial performance and using effort and grade as outcomes](study2-effort-grade-controlling-initial-performance.md) — related
+- [A subgroup sensitivity comparison confirms the indicator structure is stable across academic experts and student participants](subgroup-sensitivity-stable-indicator-structure.md) — related

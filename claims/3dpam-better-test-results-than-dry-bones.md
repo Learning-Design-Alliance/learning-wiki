@@ -69,3 +69,4 @@ The review reports, citing Chen et al., that 3DPAM students were "better at reco
 - [3DPAM production costs ranged from 1.25 to 2800 USD per model, and eleven studies concluded 3D printing costs less than plastinated or commercial models](3dpam-low-cost-feasibility.md) — related
 - [In seven reviewed studies 3DPAMs were not superior to other models on student knowledge tests](3dpam-not-superior-in-seven-studies.md) — reports the opposite
 - [One hour of learning with a lower-limb 3DPAM showed no significant difference from one hour of dissection on the same area](3dpam-versus-dissection-no-significant-difference.md) — related
+- [Novice trainees who trained on case-specific 3D-printed temporal bone models scored lower in subsequent cadaveric mastoidectomy than those who trained on generic-anatomy models](case-specific-3d-printed-training-lower-cadaver-transfer-novices.md) — related

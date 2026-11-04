@@ -45,6 +45,7 @@ The authors recommend that training for beginners be dominated by theoretical le
 ## Related Strategies
 
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
+- [Exhaust the learning potential of one training modality before progressing to other modalities or supervised surgery](exhaust-modality-learning-potential-before-progression.md)
 
 ## Examples
 -

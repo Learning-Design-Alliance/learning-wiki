@@ -68,3 +68,4 @@ Count-based factual-error metrics recorded separately from severity-scored dimen
 - [AI teaching agents differed most on knowledge-related dimensions and least on role-play quality, with adaptive difficulty calibration a shared weakness](agents-differ-knowledge-not-role-performance.md) — related
 - [Across rubric dimensions, content scored highest (A = 4.03) while production scored lowest (D = 3.41), driven by synthetic voice quality (D1 = 3.16)](bespoke-content-strongest-production-weakest-voice.md) — related
 - [Each pedagogical verification component contributes to a distinct quality dimension: layout verification most strongly](verification-components-ablation-contributions.md) — related
+- [Managers report training gaps in didactic knowledge, IT competencies, and audiovisual systems](manager-reported-training-gaps.md) — related

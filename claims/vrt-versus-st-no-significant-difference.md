@@ -54,3 +54,4 @@ Meta-analysis of two RCTs comparing VR training with simulation training on time
 - [Extended reality training shows no statistically significant difference in time to complete compared to dry lab training](xr-vs-dry-lab-time-to-complete-no-significant-difference.md) — related
 - [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](ir-reduces-procedural-time-dental.md) — related
 - [Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test](structured-vrst-curriculum-higher-goals-total.md) — related
+- [A meta-analysis of 12 medical simulation studies found proficiency-based progression training reduces procedural errors by 60%, procedure time by 15%, and increases correctly executed steps by 47% versus conventional simulation](pbp-meta-analysis-errors-time-steps.md) — related

@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 219 claims (149 show a difference, 45 mixed, 25 no difference) · 161 studies (50 causal, 42 review, 31 associational, 16 quant-synthesis, 12 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 44 of 161 report an effect size · 212 claims rest on one study
+> **Evidence** · 224 claims (152 show a difference, 47 mixed, 25 no difference) · 164 studies (53 causal, 42 review, 31 associational, 16 quant-synthesis, 12 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 45 of 164 report an effect size · 217 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -261,6 +261,11 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Teamwork ability, professional ethics awareness, and understanding of healthcare-related social responsibility did not differ significantly between integrated PBL-humanities and LBL groups](../claims/integrated-pbl-humanities-null-teamwork-ethics-social-responsibility.md) [-W] — measured as an outcome of the instruction studied
 - [Most students report that the service learning programme enhanced empathy and sense of professional responsibility](../claims/service-learning-enhances-empathy-responsibility.md) [+M] — measured as an outcome of the instruction studied
 - [Prenatal clinicians report increased empathy and understanding of patient behavior through TIC learning](../claims/tic-increased-empathy-prenatal-clinicians.md) [+M] — measured as an outcome of the instruction studied
+- [Aging simulation suit improves the Perspective Taking and Compassionate Care subscales of clinical empathy but not Standing in the Patient's Shoes](../claims/aging-suit-perspective-taking-compassionate-care.md) [~M] — measured as an outcome of the instruction studied
+- [Self-reported emotion regulation and social adaptability scores rose significantly within all three swimming teaching groups over 16 weeks, with significant time × group interaction effects](../claims/swimming-intervention-omnibus-time-group-interaction.md) [+M] — measured as an outcome of the instruction studied
+- [Both groups' JSPE-HPS scores increased over time, suggesting a general effect of theoretical empathy education](../claims/jspe-time-effect-both-groups.md) [+M] — measured as an outcome of the instruction studied
+- [Emotion regulation and social adaptability were strongly positively correlated after intervention, with the steepest regression slope in the cooperative learning group](../claims/emotion-regulation-social-adaptability-correlation.md) [+M] — measured as an outcome of the instruction studied
+- [Second-year physiotherapy students showed statistically significant decreases in engagement (dedication, absorption, total) and empathy (perspective taking) after simulation-based learning, unlike third- and fourth-year students](../claims/sbl-decreases-engagement-empathy-second-year-students.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

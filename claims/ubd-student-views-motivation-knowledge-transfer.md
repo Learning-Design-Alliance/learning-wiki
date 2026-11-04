@@ -49,3 +49,4 @@ Content analysis of two focus group interviews with 10 students, coded by three 
 - [Test-group students showed high motivation and interest toward the interdisciplinary project in qualitative interviews](idt-test-group-motivation-interest-interviews.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Students' views on the animated 5E activities clustered around active learning, motivation and enjoyment, with time demands as the main disadvantage](student-views-animated-5e-advantages.md) — related
+- [Focus group interviews identified accurate weak-point localization (12 of 12 students), clearer cross-chapter connections (10 students), and time-saving intelligent Q&A (8 students) as core positive themes](ai-kg-qualitative-focus-group-themes.md) — related

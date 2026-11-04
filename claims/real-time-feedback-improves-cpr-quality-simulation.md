@@ -63,3 +63,4 @@ Systematic review of 31 experimental, quasi-experimental and RCT studies publish
 - [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](real-time-feedback-no-ventilation-improvement.md) — reports the opposite
 - [Most ventilation adjustments occurred when RFM feedback was visible, suggesting real-time feedback prompted corrective action](ventilation-adjustments-occur-under-visible-rfm-feedback.md) — a narrower finding that bears on this claim
 - [CPR quality scores were significantly higher in the experimental group at 3 and 6 months but not immediately after training](zone0-iv-cpr-quality-retention.md) — a narrower finding that bears on this claim
+- [Low-dose high-frequency training shortens time to key resuscitation interventions, including CPR initiation, rhythm analysis, supraglottic airway insertion and hands-off time](ldhf-als-shorter-time-to-interventions.md) — related

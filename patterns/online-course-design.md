@@ -15,7 +15,7 @@ grain_size: course
 # Online Course Design (Community of Inquiry)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 59 claims (29 for, 29 mixed, 1 against) · 43 studies (11 causal, 11 associational, 6 quant-synthesis, 6 qualitative, 5 design, 3 review, 1 theoretical), `q1`–`q4` · 9 of 43 report an effect size · 56 claims rest on one study
+> **Evidence** · 61 claims (30 for, 30 mixed, 1 against) · 44 studies (12 causal, 11 associational, 6 quant-synthesis, 6 qualitative, 5 design, 3 review, 1 theoretical), `q1`–`q4` · 9 of 44 report an effect size · 58 claims rest on one study
 
 ## Description and scope
 
@@ -178,6 +178,8 @@ This pattern is scoped to the shape of a mostly online course across a term. How
 - [Disappearing students complicated maintaining constructivist groups in the online course](../claims/disappearing-students-online-group-work.md) [~W]
 - [Instructional communication strongly predicts perceived student engagement (β = 0.82)](../claims/ic-strongly-predicts-student-engagement.md) [+W]
 - [The variety of learning activities offered each week, along with the engagement and clinical relevance of these, was the strongest theme raised by students in open-ended survey responses.](../claims/variety-of-learning-activities-strongest-student-theme.md) [+W]
+- [Behavioral effects of web-based learning with peer-facilitated discussion are mostly consistent across education levels but show some subgroup differences](../claims/web-peer-discussion-behavior-subgroup-differences.md) [~W]
+- [Knowledge gains from web-based learning with peer-facilitated discussion hold across both bachelor-degree and associate-degree nursing students](../claims/web-peer-discussion-knowledge-gains-across-education-levels.md) [+W]
 
 ## Related Patterns
 - [Blended Learning](blended-learning.md) — divides a course between online and in-person time; this pattern shapes the online course itself

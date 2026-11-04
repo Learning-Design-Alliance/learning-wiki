@@ -48,3 +48,4 @@ Mixed methods field trial with 15 nursing students using qualitative surveys, in
 - [Smartphone-based reflection app lowered practical barriers to structural reflection and decreased the mental burden of self-regulated learning for nursing students on clinical placement](reflection-app-lowers-barriers-structural-reflection-nursing-placement.md) — related
 - [Faculty and facilitators in IPE have difficulty identifying interprofessional learning opportunities in practice settings, requiring experienced agents to support them](ipe-faculty-difficulty-identifying-learning-opportunities.md) — related
 - [SEC-focused app use was limited (7 of 15 students) but involved students used the app longer and reported greater benefits](sec-focused-use-limited-but-longer-and-greater-benefit.md) — related
+- [Students reported that simulation helped them become more aware of their own limitations](students-reported-increased-awareness-of-limitations.md) — related

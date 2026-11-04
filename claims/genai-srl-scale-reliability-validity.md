@@ -65,3 +65,4 @@ Reliability and validity analysis of the 34-item scale on Sample two (N = 342). 
 - [The self-assessment questionnaire measuring cognition, skill, and attitude showed good validity and reliability in this sample](self-assessment-questionnaire-csa-validity-reliability.md) — related
 - [The three measurement instruments show acceptable reliability and validity in this sample](measurement-model-cfa-reliability-validity.md) — related
 - [Convergent validity supported by CR and AVE values](hspncs-convergent-validity-cr-ave.md) — related
+- [Composite reliability was adequate for both factors of the MID competency scale](mid-competency-instrument-composite-reliability.md) — related

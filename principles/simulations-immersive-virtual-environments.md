@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 373 claims (202 for, 147 mixed, 24 against) · 224 studies (76 review, 71 causal, 39 quant-synthesis, 15 qualitative, 14 design, 8 theoretical, 1 associational), `q1`–`q4` · 46 of 224 report an effect size · 368 claims rest on one study
+> **Evidence** · 380 claims (207 for, 148 mixed, 25 against) · 230 studies (77 review, 75 causal, 39 quant-synthesis, 15 qualitative, 15 design, 8 theoretical, 1 associational), `q1`–`q4` · 48 of 230 report an effect size · 375 claims rest on one study
 
 ## Conditional relationship
 
@@ -377,6 +377,9 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Simulation-trained students showed higher mean scores across all four OSCE stations compared with clinically trained peers](../claims/sbt-higher-mean-scores-all-osce-stations.md) [+W] — attached 2026-11-04 from Alyami Wadha et al. (2026), which proposed "Integrate simulation-based training alongside clinical training to support procedural readiness and radiation safety in nuclear medicine education"; tests this page's relationship.
 - [Consultant paediatric surgeons showed a significant overall reduction in operative time after a 12-week porcine-model laparoscopic training programme](../claims/porcine-model-training-reduces-operative-time-consultants.md) [+W] — attached 2026-11-04 from Pensabene Marco et al. (2026), which proposed "Integrate porcine-model laparoscopic training into continuing professional development for experienced surgeons"; tests this page's relationship.
 - [Educational programs incorporating realistic simulations, virtual technologies, and interprofessional exercises are most effective in improving technical skills, confidence, and crisis management](../claims/rea-36-studies-simulation-virtual-interprofessional-most-effective.md) [+W] — attached 2026-11-04 from Delbene Lara et al. (2026), which proposed "Integrate disaster preparedness training into nursing curricula and continuing education".
+- [Correlation between training performance and cadaveric performance was non-significant and moderate in the case-specific group but very strong in the generic-anatomy group](../claims/training-cadaver-correlation-weaker-case-specific.md) [~W] — attached 2026-11-04 from Omari Adam et al. (2026), which proposed "Align simulator fidelity with learner stage: prefer generic-anatomy models for novices"; tests this page's relationship.
+- [Third- and fourth-year physiotherapy students showed consistent significant improvements across most self-efficacy, engagement, and empathy dimensions after simulation-based learning, with effect sizes approaching medium magnitude in fourth-year students](../claims/sbl-improves-outcomes-advanced-year-students.md) [+W] — attached 2026-11-04 from Ochandorena-Acha Mirari et al. (2026), which proposed "Simulation-based learning design should be tailored to students' developmental stage and academic year"; tests this page's relationship.
+- [Integrating a structured phantom-assisted simulation module into residency teaching is associated with higher SP-based abdominal ultrasound OSCE scores among novice residents](../claims/phantom-assisted-simulation-improves-abdominal-ultrasound-osce.md) [+M] — attached 2026-11-04 from Wei Tianhong et al. (2026), which proposed "Structured phantom-assisted simulation can serve as a supplementary, standardized preparatory phase before supervised clinical practice in ultrasound residency training"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -609,6 +612,10 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Simulation-trained students significantly outperformed clinically trained peers on the dose preparation and generator handling OSCE station](../claims/sbt-outperforms-cbt-dose-preparation-station.md) [+W]
 - [Simulation-trained students significantly outperformed clinically trained peers on the radiation safety procedures OSCE station](../claims/sbt-outperforms-cbt-safety-procedures-station.md) [+W]
 - [Virtual patient simulations produced educational improvements equivalent to live standardized patient simulations](../claims/virtual-patients-equivalent-to-standardized-patients.md) [~W]
+- [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](../claims/simulation-higher-skill-retention-nurses-exploratory.md) [+W]
+- [Comprehensive data linking simulation training to patient outcomes, complication rates, and long-term skill retention are lacking](../claims/simulation-skill-transfer-outcomes-lacking.md) [-W]
+- [Both video-based and simulation-based training significantly improve paediatric BLS knowledge immediately after training](../claims/video-and-simulation-improve-bls-knowledge-immediately.md) [+W]
+- [The SBEP produced 27 simulation scenarios integrated across all semesters with progressive CR development](../claims/sbep-27-scenarios-integrated-across-semesters.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

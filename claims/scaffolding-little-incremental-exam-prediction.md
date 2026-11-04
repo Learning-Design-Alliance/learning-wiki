@@ -78,3 +78,4 @@ Appendix C sensitivity analysis replacing mean scaffolding with counts of L4 (So
 - [In regression models, prior attainment and background explained most variation, with treatment adding little beyond pupil prior characteristics](future-foundations-regression-treatment-small.md) — related
 - [Symbolic-regression models built on previous exam grades account for roughly 70% of exam-score variation, but predict project scores poorly (about 35%)](exam-scores-predictable-project-scores-not.md) — related
 - [Attitude, Motivation, and Test Strategies subscales did not predict academic outcomes in this sample](attitude-motivation-test-strategies-no-prediction.md) — related
+- [AI-context variables and personality traits add incremental variance to self-directed learning beyond covariates, but personality-trait × AI-dimension interactions add only a substantively small increment](hierarchical-regression-incremental-variance-sdl.md) — related

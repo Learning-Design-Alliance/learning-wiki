@@ -56,3 +56,4 @@ Bootstrap mediation analysis (5,000 resamples, 95% bias-corrected CIs) in AMOS o
 - [The serial indirect effect of AI literacy on continued use is weaker at higher levels of AI anxiety (moderated mediation)](moderated-mediation-anxiety-serial-path.md) — related
 - [Perceived school support, AI learning self-efficacy, and AI perceived usefulness each show negative paths to AI learning anxiety](support-and-appraisals-negatively-predict-ai-learning-anxiety.md) — related
 - [Vocabulary mediates the association between academic self-efficacy and listening comprehension](vocabulary-mediates-self-efficacy-listening-comprehension.md) — related
+- [Academic motivation indirectly predicts cognitive engagement through enhanced perceived school support](am-indirect-effect-ces-via-pss.md) — related

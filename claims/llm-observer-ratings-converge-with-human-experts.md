@@ -58,3 +58,6 @@ Human-rater validation study: five M.Sc.-level psychologists, blind to persona c
 - [AI scores demonstrated high consistency with expert ratings (ICC = 0.893)](ai-scoring-high-consistency-expert-ratings-icc-0893.md) — related
 - [CAR 1.0 achieved good to excellent inter-rater reliability across all five key components (α = 0.836 to 0.973)](car-1-0-cronbach-alpha-reliability.md) — related
 - [Expert reference standard for MUL measurements showed excellent agreement (ICC 0.90)](expert-reference-mul-icc-090.md) — related
+- [AI-generated OPTION-12 ratings agree strongly with human expert ratings of shared decision-making performance in AI-simulated consultations](ai-human-option12-agreement-feasibility.md) — a narrower finding that bears on this claim
+- [Two independent observers showed excellent interrater agreement when assessing nursing students' VAP prevention skill performance in simulation](excellent-interrater-agreement-vap-checklist.md) — related
+- [The OPTION-12 scale shows good internal consistency when applied by AI in simulated consultations](option12-internal-consistency-ai-setting.md) — related

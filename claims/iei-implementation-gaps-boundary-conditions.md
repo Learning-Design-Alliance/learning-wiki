@@ -73,3 +73,4 @@ Authors' interpretation (type e) from the Discussion, attributing the null H2b a
 - Qualitative educator interviews corroborate and explain the quantitative path findings — related
 - [A formative study with 7 students and 3 instructors identified five key challenges impeding exploratory learning in existing supply chain simulations.](five-barriers-exploratory-scm-simulation.md) — related
 - [Misalignment profiles predict growth-oriented disengagement: students can endorse self-change while withdrawing when routes are perceived as infeasible](misalignment-profiles-predict-growth-oriented-disengagement.md) — related
+- [Qualitative interviews identified six themes contextualizing the quantitative patterns, including self-efficacy repair, reduced evaluative threat, and residual planning difficulty.](qualitative-themes-personalized-vocabulary-learning.md) — related

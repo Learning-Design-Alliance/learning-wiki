@@ -52,3 +52,4 @@ Retrospective cohort analysis at a level I trauma center with 1:1 propensity sco
 - [Weight-bearing protocols and postoperative management did not differ significantly between groups after matching](resident-imn-similar-weight-bearing-protocols.md) — related
 - [Intraoperative calls for help were infrequent in resident-led cases](resident-imn-low-call-for-help-rate.md) — related
 - [Fellowship-trained surgeons showed shorter operative times and fewer complications compared with non-fellowship peers](fellowship-trained-surgeons-shorter-operative-times-fewer-complications.md) — related
+- [Resident postgraduate year (PGY 1–7) showed no significant correlation with complications, operation time, anesthesia time, or hospitalization length](pgy-level-no-correlation-outcomes.md) — related

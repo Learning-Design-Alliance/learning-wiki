@@ -77,3 +77,5 @@ Validation subset of 40 dialogues spanning all 8 agents, independently rescored 
 - [LLM-generated total scores showed moderate agreement with faculty ratings of VSP history-taking performance (ICC(2,1)=0.51)](llm-vsp-scoring-moderate-agreement-faculty.md) — related
 - [Automated formative scores showed strong rank-order agreement with blinded expert ratings for participation, reflection, and reasoning dimensions](maple-cr-formative-expert-convergence.md) — related
 - [LLM-generated scores on multimodal OSPE items correlate strongly with human scores in rank order yet diverge substantially on categorical pass/fail decisions](llm-ospe-rank-agreement-paradox.md) — related
+- [AI-generated OPTION-12 ratings agree strongly with human expert ratings of shared decision-making performance in AI-simulated consultations](ai-human-option12-agreement-feasibility.md) — related
+- [ChatGPT LLM scores showed only moderate agreement with human transcript scores.](llm-moderate-agreement-human-scores.md) — related

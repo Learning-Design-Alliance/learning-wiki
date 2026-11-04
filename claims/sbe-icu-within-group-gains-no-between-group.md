@@ -76,3 +76,5 @@ A scoping review of simulation-based education (SBE) for delirium recognition. I
 - [Both collaborative and individual simulation-based learning produce large pre-to-post gains in physical therapy students' clinical competence, with no statistically significant difference between modalities](collaborative-sbl-clinical-competence-gains-equivalent.md) — related
 - [A culturally informed online intervention improved the knowledge domain of cultural competence in emergencies but not attitudes or encounters](culturally-informed-online-intervention-knowledge-domain-only.md) — related
 - [VP simulation training increases clinical self-efficacy but not more than video training](vp-simulation-increases-clinical-self-efficacy.md) — related
+- [Training shifted ICU nurses from low/moderate to high knowledge-based competence categories in VAP prevention](vap-competence-category-shift-after-training.md) — related
+- [Both video-based and simulation-based training produce similarly high practical skills post-training with no overall between-group difference](video-and-simulation-similar-practical-skills-post-training.md) — related

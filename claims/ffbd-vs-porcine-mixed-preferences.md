@@ -49,3 +49,4 @@ Comparative study synthesised by the review (Wyles et al. 2011; 66 body donor an
 - [N-vinyl-2-pyrrolidone-embalmed donors showed significantly greater abdominal response to CO2 insufflation than formalin-embalmed donors, suggesting better suitability for laparoscopic simulation](pyrrolidone-greater-insufflation-response-than-formalin.md) — related
 - [Soft-embalmed body donor models remain usable over prolonged sequential use without perceived tissue deterioration](soft-embalmed-prolonged-reuse-feasible.md) — related
 - [Rabbit model outperformed porcine model for pediatric MIS training, with higher surgical performance scores (8.1 versus 6.0)](rabbit-beats-porcine-pediatric-mis-training.md) — related
+- [Trainees rated both case-specific and generic-anatomy 3D-printed models highly for realism, planning, and preparedness despite objective transfer differences](high-perceived-realism-both-model-types.md) — related

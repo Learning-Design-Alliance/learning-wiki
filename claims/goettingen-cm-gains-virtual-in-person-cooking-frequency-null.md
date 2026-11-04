@@ -71,3 +71,4 @@ Same longitudinal Böttcher study: the table marks cooking frequency as -/+ (no 
 - [Culinary medicine and teaching-kitchen courses improve German undergraduate medical students' diet-related knowledge, skills and attitudes](cm-tk-improve-diet-related-competencies-german-medical-students.md) — a broader claim this one bears on
 - [Objective nutrition knowledge increased significantly after the 'Eat This!' online lecture series](eat-this-objective-knowledge-increase-significant.md) — related
 - [Face-to-face and non-face-to-face formats both improve attitudes, but virtual formats show inconsistent outcomes](virtual-dementia-learning-inconsistent-outcomes.md) — related
+- [Participation in a German culinary medicine elective improved medical students' counselling competencies, nutritional knowledge, attitudes, well-being and eating habits](culinary-medicine-elective-improves-counselling-competencies.md) — possibly the same claim (merge candidate)

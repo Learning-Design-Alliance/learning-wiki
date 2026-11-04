@@ -48,3 +48,4 @@ Multivariable logistic regression of exemplary practice (mean > 4.0) among 178 r
 - [Formal in-service wound-care training is the sole independent predictor of good theoretical knowledge](in-service-training-predicts-wound-knowledge.md) — related
 - [Only about one third of nurses and midwives at a Central Ethiopian referral hospital demonstrate good theoretical wound-care knowledge](one-third-good-wound-knowledge-ethiopian-referral-hospital.md) — related
 - [Educational qualification shows no significant association with wound-care knowledge or practice levels](qualification-no-association-wound-knowledge.md) — related
+- [Providers with 6-10 years of service had higher odds of good partograph knowledge than those with less than one year](six-ten-years-service-higher-odds-partograph-knowledge.md) — related

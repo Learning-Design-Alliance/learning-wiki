@@ -49,3 +49,4 @@ Descriptive survey results from the same 318-student cross-sectional study, repo
 - [Students were satisfied with Learning Together at high to highest levels and ranked it the most suitable instruction method for the course](lt-student-satisfaction-high-french-literature.md) — related
 - [The scenario-based group's overall experience score was substantially higher than the traditional group's](overall-experience-higher-simulation-group.md) — related
 - [Most nurses expressed satisfaction with the AMS course content and its relevance to everyday practice](nursing-ams-course-satisfaction-relevance.md) — related
+- [Nearly two-thirds of clinical-year health science students at an Ethiopian teaching hospital experienced clinical skill anxiety](csa-prevalence-64-percent-ethiopian-clinical-year-students.md) — related

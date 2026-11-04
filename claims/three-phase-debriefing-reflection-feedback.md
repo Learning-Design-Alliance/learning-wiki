@@ -59,3 +59,4 @@ Self-reported satisfaction data from the six residents who took part in high-fid
 - [Personalised video-assisted feedback does not significantly improve theoretical knowledge scores compared to structured self-debriefing](personalised-video-feedback-knowledge-not-significant.md) — related
 - [Observed group differences likely reflect the combined influence of modality, self-directed structure, feedback format, and instructor involvement, not VR technology alone](vr-acupuncture-confounded-comparison.md) — related
 - [Group reflection and debriefing after VR simulation is perceived by students as the aspect providing the most learning benefits](group-reflection-debriefing-most-learning-benefit-students.md) — related
+- [Iterative refinement across ten academic cycles improved scenario fidelity, debriefing structure, and CR alignment](iterative-refinement-ten-academic-cycles.md) — related

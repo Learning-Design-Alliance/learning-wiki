@@ -52,3 +52,4 @@ Meta-analysis of seven RCTs (N = 354) with a random-effects model found "3D + PB
 - [3D + PBL improves problem-solving abilities in orthopedic education](3d-pbl-improves-problem-solving-abilities.md) — related
 - [3D + PBL improves self-learning ability in orthopedic education](3d-pbl-improves-self-learning-ability.md) — related
 - [3D + PBL improves theoretical scores in orthopedic education](3d-pbl-improves-theoretical-scores-orthopedics.md) — related
+- [Prior meta-analytic evidence indicates 3D visualization technology yields superior anatomical knowledge and satisfaction compared to 2D materials](3dvt-meta-analysis-superior-knowledge-satisfaction.md) — related

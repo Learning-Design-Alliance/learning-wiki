@@ -49,3 +49,4 @@ Topic-based subgroup analysis of model performance across 11 pediatric dentistry
 - [Gemini 2.5 Pro achieved the highest accuracy (92.44%) on pediatric dentistry DUS questions, significantly outperforming most other LLMs](gemini-2-5-pro-highest-accuracy-pediatric-dus.md) — a broader claim this one bears on
 - [State-of-the-art LLMs show strong potential as diagnostic decision-support systems in dentistry based on vignette-based question performance](llms-diagnostic-decision-support-dentistry-potential.md) — a broader claim this one bears on
 - [LLM accuracy on the CDPK pedagogy benchmark ranges from 28% to 89%, with closed-weight reasoning models dominating the top of the leaderboard](cdpk-accuracy-range-28-89-closed-models-lead.md) — related
+- [Clinical reasoning and prioritization failures dominated LLM errors on the NNLE](clinical-reasoning-prioritization-error-dominance.md) — related

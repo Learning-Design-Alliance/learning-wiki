@@ -56,3 +56,4 @@ Same quasi-experimental pretest-posttest study (N=48, two intact classes); Mann-
 - [Computer-Based Problem Solving produced significantly higher HOTS post-test scores than expository learning among prospective primary teachers](cbps-significant-hots-gain-prospective-teachers.md) — related
 - [Reflective learning produces significantly higher mean gains in conceptual understanding than lecture-discussion among prospective teachers](reflective-learning-higher-conceptual-understanding-gains.md) — related
 - [Reflective learning produces significantly higher mean gains in problem solving than lecture-discussion](reflective-learning-higher-problem-solving-gains.md) — related
+- [Understanding (problem-oriented) teaching outperformed traditional teaching on problem solving and emotional expression](understanding-teaching-problem-solving-emotional-expression.md) — related

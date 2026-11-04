@@ -156,3 +156,4 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 - [An intervention study of Learning How to Learn reported improved study behaviors and higher second-semester proficiency scores](lhtl-intervention-improved-study-behaviors.md) — related
 - [Massed review at end of film produced significantly greater learning than no review or spaced review](massed-review-greater-learning-than-spaced-or-none.md) — reports the opposite
 - [Massed learners' performance declined after about four repetitions while spaced learners' performance rose toward a proficiency plateau](massed-declines-spaced-asymptotes-mastoidectomy.md) — related
+- [Spaced practice, elaboration, and dual coding are reported more frequently by students with excellent academic performance, while interleaving, retrieval practice, and concrete examples show no significant differences](spaced-practice-elaboration-dual-coding-differ-by-performance.md) — related

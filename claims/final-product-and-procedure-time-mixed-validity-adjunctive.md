@@ -67,3 +67,4 @@ The review's synthesis of procedure time as a metric. It notes procedure time is
 ## Related Claims
 - [Instruments show great heterogeneity in measurement quality, with validity or reliability information lacking in many cases](heterogeneous-measurement-quality-teacher-competence-instruments.md) — a broader claim this one bears on
 - [Included studies demonstrated mixed evidence of construct validity, with some metrics distinguishing skill levels but others failing to do so.](mixed-construct-validity-robotic-hysterectomy-metrics.md) — possibly the same claim (merge candidate)
+- [Individual vacuum procedures are faster than OdonAssist procedures, but duration is not independently associated with technique](vacuum-faster-per-case-not-independent.md) — a narrower finding that bears on this claim

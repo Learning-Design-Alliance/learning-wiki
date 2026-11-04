@@ -53,3 +53,4 @@ One-group pre-test post-test study with 57 Grade 10 learners in a Gauteng townsh
 - [Computer-based science and technology instruction produces significantly higher corrected post-test problem solving skill scores than traditional teaching](cbi-improves-problem-solving-skills.md) — related
 - [Students taught college algebra via the scientific heuristic method performed significantly better on the post-test than students taught by direct instruction](scientific-heuristic-outperforms-direct-instruction-posttest.md) — related
 - [ANCOVA of post-test scores covarying pre-test scores confirms the ITS group outperformed the face-to-face group](ancova-posttest-its-group-effect.md) — related
+- [Understanding (problem-oriented) teaching outperformed traditional teaching on problem solving and emotional expression](understanding-teaching-problem-solving-emotional-expression.md) — related

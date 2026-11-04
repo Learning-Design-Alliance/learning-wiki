@@ -59,3 +59,5 @@ Descriptive synthesis across the 12 included studies in this systematic review. 
 - [Simulation-based emergency open-conversion training reduced time to conversion and improved leadership and role delineation in robotic prostatectomy teams](conversion-simulation-training-reduces-conversion-time.md) — related
 - [App use shows no clear difference in teamwork (TEAM) or non-technical skills (ANTS) scores](app-no-team-ants-difference.md) — related
 - [SBS-trained students show higher non-technical skills (ANTS) overall, driven by teamwork and situation awareness but not task management or decision-making](sbs-higher-ants-teamwork-situation-awareness.md) — related
+- [Multidisciplinary simulation increased nontechnical self-efficacy by 0.3 points on a 4-point scale](simulation-increased-nontechnical-self-efficacy-otolaryngology.md) — related
+- [Multidisciplinary simulation increased technical self-efficacy by 0.5 points on a 5-point scale, except tracheostomy suctioning](simulation-increased-technical-self-efficacy-otolaryngology.md) — related

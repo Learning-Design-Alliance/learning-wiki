@@ -48,3 +48,4 @@ In the randomized controlled study of 82 junior nurses, the between-group post-t
 - [Significant improvements in confidence, performance, management, communication, anxiety and knowledge scores were reported following ISS, but four controlled comparisons found no significant difference versus control or comparison training](iss-ntos-outcomes-mixed-controlled-comparisons.md) — related
 - [Nursing students' communication clarity rose significantly from before to after ISBAR-structured handover simulation teaching, in an uncontrolled pre-post study](isbar-simulation-improves-communication-clarity.md) — related
 - [In situ simulated emergency training does not significantly improve critical thinking in junior nurses](in-situ-set-no-effect-critical-thinking.md) — related
+- [Subjective confidence and safety do not differ significantly between training formats despite performance differences](ldhf-als-no-confidence-difference.md) — related

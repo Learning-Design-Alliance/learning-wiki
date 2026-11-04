@@ -50,3 +50,4 @@ Paired-samples t tests on eight PGY1 residents' objective measures (Table 1); on
 - [End-of-year PGY1 residents with module access scored significantly better GRS than a control class at the same training level without module access, across all modules](module-access-end-of-year-outperformed-control.md) — related
 - [Self-reported confidence with module skills did not differ significantly within the PGY1 cohort over the year or between end-of-year PGY1 and control residents](self-confidence-no-significant-difference-modules.md) — related
 - [Residents used the modules an average of 10.6 total hours over the academic year, with wide variation and two residents reporting zero hours](module-use-averaged-10-6-hours-self-reported.md) — related
+- [Shape, width, length and smoothness improved significantly across sessions while depth and angle did not](criteria-selective-improvement-rest-seat.md) — related

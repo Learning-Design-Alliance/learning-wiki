@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 519 claims (273 show a difference, 108 mixed, 138 no difference) · 360 studies (158 associational, 145 causal, 20 review, 16 quant-synthesis, 10 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 56 of 360 report an effect size · 511 claims rest on one study
+> **Evidence** · 520 claims (273 show a difference, 109 mixed, 138 no difference) · 361 studies (159 associational, 145 causal, 20 review, 16 quant-synthesis, 10 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 56 of 361 report an effect size · 512 claims rest on one study
 
 ## How to read this page
 
@@ -558,6 +558,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Female students are more negative about their overall integrated TBL experience than male students.](../claims/female-students-more-negative-overall-tbl-experience.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Female students reported significantly higher empathic care intentions than male students, but the sex difference in empathy was not significant](../claims/sex-differences-empathic-care-intentions.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No sex differences in the effect of dyslexia genetic liability on school performance](../claims/no-sex-difference-dyslexia-pgs-school-performance.md) [-M] — an instructional effect differs by group
+- [Higher in-school MVPA is associated with higher GPA among boys, with no significant association among girls](../claims/mvpa-gpa-boys-positive.md) [~M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

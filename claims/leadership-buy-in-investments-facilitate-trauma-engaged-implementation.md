@@ -89,3 +89,4 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [Involving parents emerged as a novel instructional leadership factor not recognized in Hallinger and Murphy's model](parental-involvement-novel-il-factor-nepal.md) — related
 - [Staff reported a lack of trained or credentialed simulation staff, with credentialed simulationists who mentor others scoring low (mean 2.16)](lack-of-credentialed-simulationists-barrier.md) — related
 - [The effectiveness of active learning in nursing education is shaped by multilevel conditions including learner readiness, psychological safety, instructional facilitation, classroom dynamics, and institutional support](multilevel-conditions-shape-active-learning-effectiveness.md) — related
+- [Providers identified learning materials, mentorship, practice, staff rotation, ongoing training, and equipment availability as factors influencing retention](qualitative-factors-influencing-retention.md) — related
