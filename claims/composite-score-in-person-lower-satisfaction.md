@@ -10,9 +10,10 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2026
 sources:
-  - id: basile-2026
-    title: "Basile, C., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H. (2026). Comparing traditional and online problem-based learning in child and adolescent psychiatry in Nagoya: a novel statistical approach in Japanese educational settings. BMC Medical Education."
-    author: "Basile, C., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H."
+  - id: chretien-2026
+    resource: "https://doi.org/10.1186/s12909-026-09517-9"
+    title: "Chretien, B., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H. (2026). Comparing traditional and online problem-based learning in child and adolescent psychiatry in Nagoya: a novel statistical approach in Japanese educational settings. BMC Medical Education, 26(1), 1328. https://doi.org/10.1186/s12909-026-09517-9"
+    author: "Chretien, B., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H."
     q: 2
     i: "?"
     kind: associational
@@ -26,13 +27,13 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The in-person group showed a statistically higher reverse-coded composite score (p = 0.02), consistent with lower satisfaction than the online group. [→ Basile 2026](#basile-2026)
+`q2 i?` The in-person group showed a statistically higher reverse-coded composite score (p = 0.02), consistent with lower satisfaction than the online group. [→ Chretien 2026](#chretien-2026)
 
 ## Evidence
 
-### Basile 2026
+### Chretien 2026
 
-Basile, C., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H. (2026). Comparing traditional and online problem-based learning in child and adolescent psychiatry in Nagoya: a novel statistical approach in Japanese educational settings. BMC Medical Education.
+Chretien, B., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H. (2026). Comparing traditional and online problem-based learning in child and adolescent psychiatry in Nagoya: a novel statistical approach in Japanese educational settings. BMC Medical Education, 26(1), 1328. https://doi.org/10.1186/s12909-026-09517-9
 
 `q2 · i?` · `associational · r2`
 

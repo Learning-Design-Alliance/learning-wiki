@@ -11,9 +11,10 @@ evidence_strength: moderate
 newest_evidence: 2026
 recheck_by: 2031
 sources:
-  - id: basile-2026
-    title: "Basile, C., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H. (2026). Comparing traditional and online problem-based learning in child and adolescent psychiatry in Nagoya: a novel statistical approach in Japanese educational settings. BMC Medical Education."
-    author: "Basile, C., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H."
+  - id: chretien-2026
+    resource: "https://doi.org/10.1186/s12909-026-09517-9"
+    title: "Chretien, B., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H. (2026). Comparing traditional and online problem-based learning in child and adolescent psychiatry in Nagoya: a novel statistical approach in Japanese educational settings. BMC Medical Education, 26(1), 1328. https://doi.org/10.1186/s12909-026-09517-9"
+    author: "Chretien, B., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H."
     q: 2
     i: "?"
     kind: associational
@@ -27,13 +28,13 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
-`q2 i?` K-means clustering found a dissatisfied cluster mostly in-person, male and older, and a satisfied cluster mostly online, with more females and younger students. [→ Basile 2026](#basile-2026)
+`q2 i?` K-means clustering found a dissatisfied cluster mostly in-person, male and older, and a satisfied cluster mostly online, with more females and younger students. [→ Chretien 2026](#chretien-2026)
 
 ## Evidence
 
-### Basile 2026
+### Chretien 2026
 
-Basile, C., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H. (2026). Comparing traditional and online problem-based learning in child and adolescent psychiatry in Nagoya: a novel statistical approach in Japanese educational settings. BMC Medical Education.
+Chretien, B., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H. (2026). Comparing traditional and online problem-based learning in child and adolescent psychiatry in Nagoya: a novel statistical approach in Japanese educational settings. BMC Medical Education, 26(1), 1328. https://doi.org/10.1186/s12909-026-09517-9
 
 `q2 · i?` · `associational · r2`
 

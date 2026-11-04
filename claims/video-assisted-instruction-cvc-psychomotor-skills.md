@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-04
 sources:
   - id: koç-gamze-2026
     resource: "https://doi.org/10.1186/s12909-026-09532-w"
@@ -24,11 +25,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Koç Gamze 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
-`q3 i3` First-year nursing students who received three short training videos alongside standard instruction scored significantly higher on central venous catheter psychomotor skill performance (total skill, blood collection, drug administration, dressing care) one week after training, with large effect sizes (r ranging between 0.787 and 0.815). [→ Koç Gamze 2026](#koc-gamze-2026)
+`q3 i3` First-year nursing students who received three short training videos alongside standard instruction scored significantly higher than a standard-instruction control group on central venous catheter psychomotor skill performance (total skill, blood collection, drug administration, dressing care) one week after training, with large effect sizes (r ranging between 0.787 and 0.815); the control group also improved, less, on total skill and drug administration. [→ Koç Gamze 2026](#koc-gamze-2026)
 `q3 i?` No significant between-group differences were found in state anxiety (d = 0.304) or training-method satisfaction (d = 0.14) one week after training, and baseline anxiety scores differed significantly between groups, so emotional-outcome findings remain inconclusive. [→ Koç Gamze 2026](#koc-gamze-2026)
 
 ## Evidence
@@ -39,9 +40,9 @@ Koç Gamze, Yüce Başaran Hanım Duru, Yavuz Burak, Çiftçi Bahar. (2026). The
 
 `q3 · i3` · `causal · r2`
 
-Cluster-allocated randomised controlled trial at Atatürk University Faculty of Nursing with 66 first-year nursing students (33 per group); the experimental group received three training videos (10 min total) via text message in addition to standard theoretical and laboratory-based instruction, with post-tests one week after training. Post-test skill scores increased significantly in the experimental group (p < 0.05) with large effect sizes (r ranging between 0.787 and 0.815), while no significant between-group differences emerged in satisfaction (p>0.05) or post-test anxiety (p>0.05), and baseline anxiety scores differed significantly between groups.
+Cluster-allocated randomised controlled trial at Atatürk University Faculty of Nursing with 66 first-year nursing students (33 per group); the experimental group received three training videos (10 min total) via text message in addition to standard theoretical and laboratory-based instruction, with post-tests one week after training. At post-test the intervention group scored significantly higher than the control group on total skill and on each of the three skills (Mann-Whitney U, p < 0.001), with large effect sizes (r ranging between 0.787 and 0.815). The control group also improved from pre- to post-test, by smaller amounts, on total skill (p = 0.017, r = 0.415) and drug administration (p = 0.016, r = 0.419), but not on blood collection or dressing care; the intervention group improved on all four (r > 0.8). No significant between-group differences emerged in satisfaction (p>0.05) or post-test anxiety (p>0.05), and baseline anxiety scores differed significantly between groups. Six internship groups were allocated, but the analyses treated students as independent and were not adjusted for clustering.
 
-> "The post-test scores of students in the experimental group for the "Blood Drawing," "Drug Administration," and "Dressing Care" skills increased significantly (p < 0.05). No significant difference was found in the control group. No statistically significant difference was observed between groups in terms of satisfaction (p>0.05). There was no significant difference between the two groups in terms of post-test anxiety levels (p>0.05). However, baseline anxiety scores differed significantly between groups and may have influenced anxiety-related outcomes."
+> "Total skill score (U = 43.500, Z=-6.440, p < 0.001, r=-0.793), blood collection (U = 32.500, Z=-6.622, p < 0.001, r=-0.815), drug administration (U = 50.500, Z=-6.393, p < 0.001, r=-0.787) and dressing (U = 48.500, Z=-6.527, p < 0.001, r=-0.804) skills, the intervention group obtained significantly higher scores than the control group."
 
 ## Discussion
 

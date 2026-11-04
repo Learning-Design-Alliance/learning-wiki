@@ -9,8 +9,8 @@ generated:
   at: 2026-11-04
 sources:
   - id: basile-2026
-    title: "Basile, C., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H. (2026). Comparing traditional and online problem-based learning in child and adolescent psychiatry in Nagoya: a novel statistical approach in Japanese educational settings. BMC Medical Education."
-    author: "Basile, C., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H"
+    title: "Chretien, B., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H. (2026). Comparing traditional and online problem-based learning in child and adolescent psychiatry in Nagoya: a novel statistical approach in Japanese educational settings. BMC Medical Education."
+    author: "Chretien, B., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H"
 ---
 
 # Use online PBL formats as a safe harbor for students with high communication apprehension
@@ -54,4 +54,4 @@ The article advocates "a tailored pedagogical approach, where digital formats se
 -
 
 ## Key Sources
-- Basile, C., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H. (2026). Comparing traditional and online problem-based learning in child and adolescent psychiatry in Nagoya: a novel statistical approach in Japanese educational settings. BMC Medical Education.
+- Chretien, B., Nishida, K., Kondo, T., Takahashi, N., Takami, H., Nishigori, H., Aleksic, B., Dolladille, C., Villalobos, I. B., Yagi, T., Skokauskas, N., & Kasuya, H. (2026). Comparing traditional and online problem-based learning in child and adolescent psychiatry in Nagoya: a novel statistical approach in Japanese educational settings. BMC Medical Education, 26(1), 1328. https://doi.org/10.1186/s12909-026-09517-9
