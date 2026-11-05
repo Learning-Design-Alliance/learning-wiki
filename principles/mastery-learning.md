@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (16 for, 17 mixed, 3 against) · 33 studies (11 causal, 7 quant-synthesis, 7 review, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 7 of 33 report an effect size · 32 claims rest on one study
+> **Evidence** · 38 claims (18 for, 17 mixed, 3 against) · 34 studies (11 causal, 7 quant-synthesis, 7 review, 5 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 7 of 34 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 

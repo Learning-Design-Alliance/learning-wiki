@@ -17,7 +17,7 @@ sources:
 # Deep Learning Knowledge Tracing Models
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (3 for, 6 mixed, 1 against) · 7 studies (4 design, 1 causal, 1 review, 1 associational), `q1`–`q2` · 0 of 7 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (3 for, 8 mixed, 1 against) · 9 studies (6 design, 1 causal, 1 review, 1 associational), `q1`–`q2` · 0 of 9 report an effect size · 12 claims rest on one study
 
 ## Description
 The survey reviews deep learning KT in four sub-categories: deep knowledge tracing with recurrent networks, memory-aware tracing such as DKVMN with key and value matrices, attentive tracing such as SAKT, SAINT and AKT built on self-attention, and graph-based tracing over knowledge-concept graphs. It argues deep learning is suited to "modeling complex learning processes, particularly when a significant amount of learning interaction data" is available.

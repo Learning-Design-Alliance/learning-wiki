@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":50242,
+"claim":50246,
 "design":2597,
 "element":1057,
 "learner-variable":75,
@@ -121953,6 +121953,16 @@
 "path":"claims/distributed-leadership-emergent-group-phenomenon.md",
 "status":"review",
 "title":"Without assigned roles, all group members generally participate in many core dimensions of group leadership, which emerges as an interactive group phenomenon",
+"type":"claim"
+},
+{
+"description":"In a classroom study of 213 third and seventh graders, one practice set a day for three days produced better follow-up test performance than three sets in one day for seventh graders at both delays, while for third graders the data supported a benefit only at the one-week test.",
+"evidence_strength":"moderate",
+"id":"distributed-math-practice-grade3-grade7-classroom",
+"newest_evidence":"2019",
+"path":"claims/distributed-math-practice-grade3-grade7-classroom.md",
+"status":"review",
+"title":"Distributing mathematics practice over three days instead of one helped seventh graders at one and six weeks, but third graders only at one week",
 "type":"claim"
 },
 {
@@ -299886,6 +299896,16 @@
 "type":"claim"
 },
 {
+"description":"A benchmark of ten deep knowledge-tracing models on seven datasets with shared preprocessing and five-fold cross-validation found that most models proposed after deep knowledge tracing (DKT) did not outperform it, that only AKT led on almost every dataset, and that evaluating expanded knowledge-component sequences one by one leaks answers and inflates AUC.",
+"evidence_strength":"moderate",
+"id":"newer-deep-kt-models-rarely-beat-dkt-standard-protocol",
+"newest_evidence":"2022",
+"path":"claims/newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md",
+"status":"review",
+"title":"Under one standardised evaluation, most deep knowledge-tracing models published after the original DKT do not beat it, and a common KC-level evaluation shortcut inflates reported accuracy",
+"type":"claim"
+},
+{
 "description":"Newer LLM versions generally outperformed older versions on dental examination questions",
 "evidence_strength":"moderate",
 "id":"newer-llms-outperform-older-dental-exams",
@@ -357064,6 +357084,16 @@
 "path":"claims/practice-opportunities-develop-teacher-self-efficacy.md",
 "status":"review",
 "title":"Interventions giving teachers opportunities to practice teaching are likely to be effective for developing self‐efficacy beliefs",
+"type":"claim"
+},
+{
+"description":"Across 27 datasets from online practice systems used after lectures and readings, the typical student began practice at about 65% correct and needed about seven practice opportunities with feedback on a knowledge component to reach 80% correct.",
+"evidence_strength":"moderate",
+"id":"practice-opportunities-needed-after-verbal-instruction",
+"newest_evidence":"2023",
+"path":"claims/practice-opportunities-needed-after-verbal-instruction.md",
+"status":"review",
+"title":"After up-front instruction, students start practice at about 65% correct and need about seven opportunities per knowledge component to reach 80%",
 "type":"claim"
 },
 {
@@ -449808,6 +449838,16 @@
 "source_checked":"2026-10-20",
 "status":"review",
 "title":"Review reports students did not recognize the key points an exemplary lecturer presented in a proof",
+"type":"claim"
+},
+{
+"description":"Across 27 datasets from online practice systems, students' starting accuracy varied by about 20 percentage points between the lower and upper halves, while their gain per practice opportunity varied by about one percentage point.",
+"evidence_strength":"moderate",
+"id":"students-differ-in-initial-knowledge-not-learning-rate",
+"newest_evidence":"2023",
+"path":"claims/students-differ-in-initial-knowledge-not-learning-rate.md",
+"status":"review",
+"title":"Students in online practice systems differ widely in initial knowledge but very little in learning rate per practice opportunity",
 "type":"claim"
 },
 {
@@ -694387,6 +694427,7 @@
 "distributed-drill-repetitions-better-than-succession":"distributed-drill-repetitions-better-than-succession",
 "distributed-epistemic-agency-machine-authority":"distributed-epistemic-agency-machine-authority",
 "distributed-leadership-emergent-group-phenomenon":"distributed-leadership-emergent-group-phenomenon",
+"distributed-math-practice-grade3-grade7-classroom":"distributed-math-practice-grade3-grade7-classroom",
 "distributed-metacognition-analysis-application":"distributed-metacognition-analysis-application",
 "distributed-pair-programming-lowers-programming-skills":"distributed-pair-programming-lowers-programming-skills",
 "distributed-practice-beats-cramming-principle":"distributed-practice-beats-cramming-principle",
@@ -711780,6 +711821,7 @@
 "newark-cmo-vs-independent-charter-growth":"newark-cmo-vs-independent-charter-growth",
 "newark-magnet-special-ed-math-growth":"newark-magnet-special-ed-math-growth",
 "newell-complex-systems-theory-integration-gap":"newell-complex-systems-theory-integration-gap",
+"newer-deep-kt-models-rarely-beat-dkt-standard-protocol":"newer-deep-kt-models-rarely-beat-dkt-standard-protocol",
 "newer-llms-outperform-older-dental-exams":"newer-llms-outperform-older-dental-exams",
 "newer-teachers-more-positive-about-tpe-than-veterans":"newer-teachers-more-positive-about-tpe-than-veterans",
 "newsletter-teaching-activities-higher-engagement":"newsletter-teaching-activities-higher-engagement",
@@ -717388,6 +717430,7 @@
 "practice-limits-signal-standing-and-performance":"practice-limits-signal-standing-and-performance",
 "practice-must-be-motivated":"practice-must-be-motivated",
 "practice-opportunities-develop-teacher-self-efficacy":"practice-opportunities-develop-teacher-self-efficacy",
+"practice-opportunities-needed-after-verbal-instruction":"practice-opportunities-needed-after-verbal-instruction",
 "practice-opportunity-rates-kindergarten-gains":"higher-practice-opportunity-rates-linked-to-gains",
 "practice-period-length-addition-long-not-inferior":"practice-period-length-addition-long-not-inferior",
 "practice-points-did-not-inflate-grades":"practice-points-did-not-inflate-grades",
@@ -726508,6 +726551,7 @@
 "students-describe-home-environments-more-responsive-than-school":"students-describe-home-environments-more-responsive-than-school",
 "students-developed-mobile-ct-competencies":"students-developed-mobile-ct-competencies",
 "students-did-not-recognize-lecture-proof-key-points":"students-did-not-recognize-lecture-proof-key-points",
+"students-differ-in-initial-knowledge-not-learning-rate":"students-differ-in-initial-knowledge-not-learning-rate",
 "students-differentiate-privacy-sensitivity-by-data-type":"students-differentiate-privacy-sensitivity-by-data-type",
 "students-difficulties-solar-movement-observable-changes":"students-difficulties-solar-movement-observable-changes",
 "students-difficulty-constructing-proofs":"students-difficulty-constructing-proofs",
