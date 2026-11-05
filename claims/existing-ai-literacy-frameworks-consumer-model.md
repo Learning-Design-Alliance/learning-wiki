@@ -45,7 +45,7 @@ Theoretical analysis of four publicly available AI literacy frameworks spanning 
 
 
 ## Related Claims
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - Existing scholarship examines AI–SDG connections in a fragmented way without an integrative literacy framework — related
 - [The competency model of AI literacy functions as a Freirean banking model, training users to adapt rather than transform](competency-model-as-banking-model.md) — a broader claim this one bears on
 - [Surveyed professionals show strong technical AI awareness but limited ethical and governance readiness](strong-technical-awareness-limited-ethical-governance-readiness.md) — related

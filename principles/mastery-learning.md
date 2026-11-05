@@ -6,8 +6,8 @@ description: "When a learner's response on a unit check falls short of a stated 
 canonical: true
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-10-01
+  by: "process:article-ingest"
+  at: 2026-11-05
 sources:
   - id: kulik-1990
     resource: "https://doi.org/10.3102/00346543060002265"
@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (16 for, 17 mixed, 3 against) · 33 studies (11 causal, 7 quant-synthesis, 7 review, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 7 of 33 report an effect size · 32 claims rest on one study
+> **Evidence** · 38 claims (18 for, 17 mixed, 3 against) · 34 studies (11 causal, 7 quant-synthesis, 7 review, 5 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 7 of 34 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -87,6 +87,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Mastery learning instruction produced significantly higher post-test achievement in quantitative chemistry than conventional teaching among Senior Secondary 2 students](../claims/mastery-learning-higher-quantitative-chemistry-posttest.md) [+M] — attached 2026-11-01 from Telimoye Leesi Mitee et al. (2015), which proposed "Chemistry teachers should adopt mastery learning to enhance cognitive learning outcomes in quantitative chemistry"; tests this page's relationship.
 - [Mastery learning shifted the post-test score distribution upward: 69.08% of mastery students scored 80% and above versus 17.53% of control students](../claims/mastery-learning-score-distribution-shift-chemistry.md) [+M] — attached 2026-11-01 from Telimoye Leesi Mitee et al. (2015), which proposed "Chemistry teachers should adopt mastery learning to enhance cognitive learning outcomes in quantitative chemistry"; tests this page's relationship.
 - [Students taught the mole concept with mastery learning instructional strategy performed better (mean score 15.50) than controls taught conventionally (mean score 7.04) in a quasi-experimental Nigerian study.](../claims/mastery-learning-better-mole-concept-achievement-nigeria.md) [+W] — attached 2026-11-02 from Bashirat T. Lamidi et al. (2015), which proposed "Teachers should consider using mastery learning instructional strategy for chemistry instruction to improve the performance of their students in chemistry examinations."; tests this page's relationship.
+- [Students in online practice systems differ widely in initial knowledge but very little in learning rate per practice opportunity](../claims/students-differ-in-initial-knowledge-not-learning-rate.md) [+M] — added 2026-11-05 from Koedinger et al. (2023): with practice and feedback held to the same kind of opportunity, students who start lower need more opportunities rather than learning more slowly; not yet read against the model above.
+- [After up-front instruction, students start practice at about 65% correct and need about seven opportunities per knowledge component to reach 80%](../claims/practice-opportunities-needed-after-verbal-instruction.md) [+M] — added 2026-11-05 from Koedinger et al. (2023); not yet read against the model above.
 
 ## Objective and learner-valued goal
 

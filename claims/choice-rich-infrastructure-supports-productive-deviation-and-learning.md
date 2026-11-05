@@ -58,7 +58,7 @@ The authors explicitly frame this as an extreme case chosen to illustrate a *pos
 - [Children, unlike animals, can imitate actions beyond their independent capabilities and profit from instruction](children-imitate-beyond-independent-capability.md) — related
 - [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — a broader claim this one bears on
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
-- [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](co-construction-scribe-teacher-fosters-composition-autonomy.md) — related
+- [In one observed session, six five-year-olds composing text with their teacher as scribe exercised autonomy of composition and judgement and stayed on task for 240 turns](co-construction-scribe-teacher-fosters-composition-autonomy.md) — related
 - K-2 students showed sustained high engagement with Puzzlets, choosing it as their first station choice 27 out of 36 times — related
 - [Co-design dialogue with museum educators revealed an unmet need for digital infrastructure, which students addressed with a bilingual cultural map extending the museum's spatial storytelling](museum-codesign-revealed-digital-infrastructure-need.md) — related
 - [Authentic, challenging projects in the Learning Studio developed students' self-efficacy for future careers](authentic-projects-build-career-self-efficacy.md) — related

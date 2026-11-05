@@ -45,7 +45,7 @@ SEM analysis of the 300-staff survey. The article reports that compatibility wit
 
 ## Related Claims
 
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
 
 - [AI adoption in higher education is associated with improved teaching practices, learner engagement and curriculum innovation](ai-adoption-associated-teaching-engagement-curriculum-improvements.md) — related
 - [Innovation attributes catalyse both intention to use and actual adoption of AI-enabled systems](innovation-attributes-drive-intention-and-adoption.md) — related

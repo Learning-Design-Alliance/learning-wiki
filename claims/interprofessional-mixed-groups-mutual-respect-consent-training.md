@@ -70,3 +70,4 @@ Theme from the same focus group thematic analysis with intervention participants
 - [The collaborative model shows no significant effect on inter-professional teamwork competence or transformative learning readiness](fsph-3d-model-no-effect-teamwork-transformative-learning.md) — related
 - [Open-ended reflections most often highlighted realism of the simulation (51.5%), the simulation patient's role (32.0%), and interprofessional collaboration (20.6%)](mcleims-open-ended-themes.md) — related
 - [Training programs at designated infectious disease institutions improved confidence, role clarity, and interdepartmental collaboration among personnel](fgi-training-improved-confidence-role-clarity-collaboration.md) — related
+- [All interviewed interns reported that role rotation and teamwork were central benefits of the simulation-with-CBL training](role-rotation-teamwork-central-benefit-simulation-cbl.md) — related

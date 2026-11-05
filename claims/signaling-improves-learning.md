@@ -49,7 +49,7 @@ Signaling (cueing) — highlighting the essential elements of a lesson through v
 
 ## Subclaims
 
-`q4 i2` An overview of 29 meta-analyses on multimedia design ranks signaling among the design principles with the largest benefits for learning. Its best estimate comes from the largest signaling meta-analysis (g = 0.43, k = 209). [→ Noetel et al. 2022](#noetel-et-al-2022)
+`q4 i2` An overview of 29 systematic reviews on multimedia design ranks signaling among the design principles with the largest benefits for learning. Its best estimate comes from the largest signaling meta-analysis (g = 0.43, k = 209). [→ Noetel et al. 2022](#noetel-et-al-2022)
 
 `q4 i1` A meta-analysis of 29 experiments (2,726 participants) finds that signaling improves learning outcomes by a small-to-moderate amount (d = 0.38), with study, participant, presentation and method features moderating the effect. [→ Alpizar et al. 2020](#alpizar-et-al-2020)
 

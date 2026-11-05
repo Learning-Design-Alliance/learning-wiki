@@ -50,7 +50,7 @@ Thematic synthesis of the review's VR simulation theme, drawing on a systematic 
 - [VR-trained trainees show shorter screw penetration distances and fewer displaced screws per resident](vr-training-shorter-penetration-fewer-displaced-screws.md) — a narrower finding that bears on this claim
 - [Multimodal feedback systems produced greater simulator score improvements than conventional feedback in basic robotic skills training](multimodal-feedback-outperforms-conventional.md) — related
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — reports the opposite
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — reports the opposite
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — reports the opposite
 - [VR simulator training yields a higher rate of optimal (Grade I) pedicle screw placement than traditional training among residents and early-career surgeons](vr-training-higher-grade-i-pedicle-screw-placement.md) — a narrower finding that bears on this claim
 - [VR simulator training reduces minor cortical breaches (Grade II placements) in pedicle screw insertion](vr-training-reduces-grade-ii-pedicle-breaches.md) — a narrower finding that bears on this claim
 - [VR simulator training improves overall pedicle screw placement success relative to traditional training](vr-training-higher-overall-screw-placement-success.md) — a narrower finding that bears on this claim

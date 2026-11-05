@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 90 claims (58 for, 30 mixed, 2 against) · 63 studies (28 causal, 14 quant-synthesis, 8 associational, 7 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 15 of 63 report an effect size · 88 claims rest on one study
+> **Evidence** · 91 claims (59 for, 30 mixed, 2 against) · 64 studies (29 causal, 14 quant-synthesis, 8 associational, 7 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 15 of 64 report an effect size · 89 claims rest on one study
 
 ## Description and scope
 
@@ -117,6 +117,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Blended problem-based learning produced significantly higher posttest academic achievement than PBL and traditional lecture instruction](../claims/bpbl-higher-academic-achievement-than-pbl-and-lecture.md) [+W] — attached 2026-11-03 from Yu et al. (2015), which proposed "Integrating technology into PBL to provide time flexibility and asynchronous communication can enhance academic achievement"; tests this page's relationship.
 - [Blended teaching produces higher academic achievement than traditional teaching in a psychological diseases course](../claims/blended-teaching-higher-academic-achievement-medical-students.md) [+W] — attached 2026-11-03 from Mosalanejad et al. (2010), which proposed "Use blended learning with standard designing strategies for teaching medical sciences"; tests this page's relationship.
 - [More than 90% of VM-experienced students advocated combining traditional and virtual microscopy in histology laboratory sessions](../claims/students-prefer-hybrid-lm-vm.md) [+W] — attached 2026-11-04 from Koney Nii Koney‐Kwaku et al. (2026), which proposed "Adopt a strategic blended approach integrating traditional light microscopy and virtual microscopy, supported by institutional commitments".
+- [Blended learning interns reported significantly higher satisfaction than traditional-group interns across all five evaluated dimensions](../claims/blended-radiology-assistant-higher-satisfaction-all-dimensions.md) [+W] — attached 2026-11-05 from Zhang Tonghua et al. (2026), which proposed "Radiology Assistant–based blended learning model for clinical internships"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

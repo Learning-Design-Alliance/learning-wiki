@@ -10,3 +10,6 @@ Recorded as principles/structured-deliberate-practice-for-licensing-review befor
 
 ### 2026-09-25 · ingest · process:wiki-ingest
 Ingested from eric-ed661883 (Deliberate Practice: An Effective Way to Raise the Real Estate Licensing Passing Rate) via eval_harness.py + ingest_extractions.py
+
+### 2026-11-05 · claim · process:article-ingest
+Linked claim from An astonishing regularity in student learning rate (Koedinger et al., 2023), doi:10.1073/pnas.2221311120

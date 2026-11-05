@@ -66,3 +66,4 @@ Subgroup analysis by LLM type across the 36 included studies (GPT-4 n=30, GPT-3.
 - [ChatGPT-4 achieved an overall accuracy of 81% on the Polish PES orthopedics exam, exceeding the 75% passing threshold on average](chatgpt-4-81-percent-accuracy-pes-orthopedics.md) — a narrower finding that bears on this claim
 - [Current-generation LLMs achieve 86% to 94% mean success rates on European anesthesiology examination questions, exceeding the EDAIC part I passing threshold](llm-success-rates-86-94-percent-anesthesiology-exams.md) — related
 - [All four LLMs completed the 240-question assessment in under 3 minutes, far faster than the human time allocation](llms-complete-frcs-urol-under-three-minutes.md) — related
+- [ChatGPT-5 achieved the highest overall accuracy on ophthalmology board-style questions (92.59%), with no statistically significant differences among the four LLMs](chatgpt-5-highest-overall-accuracy-ophthalmology-board-questions.md) — related

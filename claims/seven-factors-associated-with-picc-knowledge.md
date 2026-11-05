@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: xu-binbin-2026
     resource: "https://doi.org/10.1038/s41598-026-55786-1"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In multiple linear regression, supervision nurse/co-chief nurse/chief nurse title (B = 4.910), undergraduate degree or higher (B = 1.845), PICC care experience (B = 5.700), workplace guidelines (B = 1.267), training experience (B = 1.092), training need (B = 1.836), and tertiary hospital (B = 1.214) were each significantly associated with higher knowledge scores (all p < 0.05). [→ Xu Binbin 2026](#xu-binbin-2026)

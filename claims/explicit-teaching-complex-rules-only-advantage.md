@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-11-05
 sources:
   - id: raafat-gabriel-2009
     resource: "https://eric.ed.gov/?id=ED509345"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q2`–`q3` · n=41 studies
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 <!-- deprecated title (2026-09-30, overstated its evidence once the syntheses were added): Explicit grammar teaching improves performance on complex rules but equals implicit teaching for simple rules -->
 
 ## Subclaims

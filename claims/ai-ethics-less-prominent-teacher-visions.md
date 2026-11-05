@@ -47,7 +47,7 @@ Qualitative content analysis of 50 essays found ethical and governance themes re
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related
 - [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — reports the opposite
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — reports the opposite
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — reports the opposite
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — reports the opposite
 - [Human-AI relationship concerns persist across all CAI generations while academic integrity and data privacy are emerging ethical concerns](cai-ethical-concerns-human-ai-relationship-persistent.md) — reports the opposite
 - [Data privacy mitigations centered on data governance and monitoring (68.9%), while technical reliability mitigations centered on human involvement (36.9%)](rfi-privacy-reliability-mitigation-distribution.md) — related
 - Generative AI systems carry strong potential for introduced and inherited bias — related

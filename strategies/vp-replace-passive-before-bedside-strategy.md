@@ -63,6 +63,8 @@ The review recommends deploying virtual patients where they show the greatest be
 - [Use AISPs as a supplementary self-directed learning resource where direct patient contact is limited](aisp-supplementary-sdl-strategy.md)
 - [Combine e-learning with face-to-face practice exchange groups to develop clinical reasoning](blended-learning-for-clinical-reasoning.md)
 - [Use multiagent virtual patient frameworks as scalable, customizable alternatives to standardized patients in clinical communication training](multiagent-vp-alternative-to-standardized-patients.md)
+- [Standardized experiential Bridge-in protocol: 45-minute ward visit plus thoracoscopy simulation within a fixed total teaching time](modified-boppps-bridge-in-implementation-protocol.md)
+- [Teach diagnostic restraint through explicit alarm-versus-functional instruction, case-based reasoning practice, bedside modeling of positive diagnosis, and restraint-rewarding assessment](teach-positive-diagnosis-and-restraint-strategy.md)
 
 ## Examples
 -

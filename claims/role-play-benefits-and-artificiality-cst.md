@@ -54,3 +54,4 @@ The review's narrative synthesis of role play studies with medical and nursing s
 - [Most role-play-group students report the activity improved their history-taking skills and confidence communicating with real patients](role-play-student-questionnaire-perceived-benefits.md) — related
 - [CHW trainees value realistic standardized patient scenarios as a key benefit of simulation-based MI training](chws-value-realistic-sp-scenarios-in-mi-simulation-training.md) — related
 - [Feedback facilitators such as faculty coaches can increase trainee receptivity to patient feedback](feedback-facilitators-increase-receptivity.md) — related
+- [Small-group, communication-focused SP simulations increase pre-licensure nursing students' comfort and confidence in therapeutic communication](sp-simulation-increases-therapeutic-communication-comfort.md) — related

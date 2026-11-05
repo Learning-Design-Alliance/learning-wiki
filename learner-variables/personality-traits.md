@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 101 claims (69 show a difference, 21 mixed, 11 no difference) · 49 studies (18 associational, 15 review, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 16 of 49 report an effect size · 101 claims rest on one study
+> **Evidence** · 103 claims (70 show a difference, 22 mixed, 11 no difference) · 50 studies (19 associational, 15 review, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 17 of 50 report an effect size · 103 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -136,6 +136,8 @@ Personality traits are relatively stable individual differences, most often meas
 - [Resilience correlates positively with satisfaction domains; pandemic-related concerns associate with lower satisfaction](../claims/resilience-satisfaction-correlations.md) [+M] — learners who differ on it differ in outcomes
 - [Self-directed learning correlates positively with conscientiousness, openness, self-esteem, AI cognition, and subjective norms, while self-control correlates negatively with subjective norms](../claims/spearman-correlations-sdl-personality-ai-dimensions.md) [+M] — learners who differ on it differ in outcomes
 - [Work self-control showed a small but significant negative association with academic achievement among Chilean university students](../claims/work-self-control-negative-achievement-association.md) [+M] — learners who differ on it differ in outcomes
+- [Emotional variables fully mediate both grit dimensions' associations with foreign language achievement, with COI acting negatively via boredom and POE showing competitive suppression](../claims/emotions-fully-mediate-grit-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [In an exam-oriented Chinese EFL context, POE predicts enjoyment and reduced boredom while COI predicts boredom and shows no enjoyment association](../claims/poe-coi-divergent-emotional-pathways.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

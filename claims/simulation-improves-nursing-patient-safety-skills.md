@@ -49,7 +49,7 @@ Systematic review (PRISMA 2020) of 20 studies from 12 countries, synthesized nar
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](sbar-structured-communication-in-simulation.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Manikin-based simulation produced equal or superior competency outcomes versus traditional clinical practice, except in the Patient Safety domain](manikin-simulation-competency-versus-clinical.md) — related
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [Earlier studies of SBAR reported 71–87% fidelity with moderate to considerable clarity gains in classrooms, and 53–83% fidelity with no or moderate gains in clinical settings](sbar-fidelity-moderates-clarity-gains.md) — related
 - [Alternating simulation scenarios with bedside teaching lets students practice less harmful examinations on real patients and invasive or rejected items on simulators, ensuring patient safety](alternating-simulation-bedside-patient-safety.md) — related
 - [Improvement in communication clarity after ISBAR simulation teaching was broad, with the greatest gains in the situation domain](isbar-clarity-gains-broad-situation-domain-largest.md) — a narrower finding that bears on this claim

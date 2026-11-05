@@ -8,8 +8,8 @@ description: "When learners on a cumulative, decomposable task start from differ
 canonical: true
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-10-15
+  by: "process:article-ingest"
+  at: 2026-11-05
 sources:
   - id: shuanghong-shen-2021
     resource: "https://arxiv.org/abs/2105.15106"
@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 87 claims (47 for, 36 mixed, 4 against) · 83 studies (28 causal, 20 review, 11 design, 9 quant-synthesis, 7 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 14 of 83 report an effect size · 80 claims rest on one study
+> **Evidence** · 90 claims (47 for, 39 mixed, 4 against) · 84 studies (28 causal, 20 review, 13 design, 9 quant-synthesis, 6 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 14 of 84 report an effect size · 83 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,9 @@ Re-read 2026-10-15: the claims below were read against the model above and do no
 - [Individual records revealed contrasting specific disabilities within the same pupil across arithmetic operations](../claims/individual-records-specific-disabilities.md) [+W] — attached 2026-10-24 from Buford Johnson (1918), which proposed "Instruction should be devised from elaborated testing built on analysis of individual performance".
 - [Learner models with population-level parameters systematically misestimate the trial of mastery for most students whose learning rates vary](../claims/population-parameters-systematic-mastery-error.md) [+W] — attached 2026-10-27 from Eglington et al. (2022), which proposed "Adaptive instructional systems should include online mechanisms that adjust for systematic learner-model error".
 - [Web-assisted instruction with adaptive LSA modules reduced average error counts in most writing error categories compared to teacher-led instruction alone](../claims/web-assisted-instruction-reduced-writing-errors-business-communication.md) [+W] — attached 2026-11-03 from Austin et al. (2017), which proposed "Assign web-assisted grammar and mechanics modules outside class to free instructional time for higher-level writing strategies"; tests this page's relationship.
+- [Which knowledge-tracing model predicts learner performance best depends on the data, with logistic regression leading on smaller datasets and very long learner histories and deep knowledge tracing on large or sequential ones](../claims/knowledge-tracing-model-choice-depends-on-dataset.md) [~M] — added 2026-11-05 from Gervet et al. (2020): bears on the diagnostic step (which learner model to trust for a given amount and shape of data); prediction accuracy only, no learner outcome; not yet read against the model above.
+- [Expert-designed knowledge-component models add little to the accuracy of logistic-regression learner models on most tutoring datasets](../claims/expert-kc-models-add-little-to-performance-prediction.md) [~M] — added 2026-11-05 from Gervet et al. (2020); prediction accuracy only; not yet read against the model above.
+- [Under one standardised evaluation, most deep knowledge-tracing models published after the original DKT do not beat it, and a common KC-level evaluation shortcut inflates reported accuracy](../claims/newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md) [~M] — added 2026-11-05 from Liu et al. (2022): bears on the row on vendor-reported accuracy (check the evaluation protocol, not only the AUC); prediction accuracy only, no learner outcome; not yet read against the model above.
 
 ## Objective and learner-valued goal
 

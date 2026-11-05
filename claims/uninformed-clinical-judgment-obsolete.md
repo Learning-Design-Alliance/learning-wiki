@@ -46,7 +46,7 @@ This is the author's philosophical argument rather than an empirical test: "anal
 
 ## Related Claims
 
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
 - [Pooled risk difference across 11 student‐clinic studies is 0.43 but with considerable heterogeneity (I² = 93%)](student-rct-pooled-risk-difference-heterogeneous.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related
 - [Clinical judgment based on experience alone shows wide variation and can be misleading](clinical-judgment-experience-variation.md)

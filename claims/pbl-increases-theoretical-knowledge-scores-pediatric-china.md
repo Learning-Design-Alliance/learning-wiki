@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: ma-yimei-mm-2019
     resource: "https://doi.org/10.1097/MD.0000000000014052"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
-> **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 12 RCTs, PBL teaching significantly increased theoretical knowledge scores by a mean of 1.16 compared with LBL (95% CI, 0.79–1.52; P < .00001). [→ Ma Yimei MM 2019](#ma-yimei-mm-2019)

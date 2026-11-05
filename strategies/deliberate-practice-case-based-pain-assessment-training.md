@@ -39,7 +39,7 @@ Design training modules according to deliberate practice theory, which "posits t
 
 ## Claims
 
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
 - [Both PainScan and on-site training significantly improve pain assessment skill within groups](../claims/both-training-modes-improve-pain-assessment-skill.md) [+W]
 - [PainScan training significantly improves PICU nurses' pain assessment knowledge over four weeks](../claims/painscan-improves-picu-nurse-pain-assessment-knowledge.md) [+W]
 - [PainScan training produces superior pain assessment skill development compared to on-site training](../claims/painscan-superior-skill-development-vs-onsite.md) [+W]

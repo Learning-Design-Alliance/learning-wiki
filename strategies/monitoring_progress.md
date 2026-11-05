@@ -71,6 +71,7 @@ Monitoring works because it converts vague intentions into concrete feedback loo
 - [Combine log-derived behavioral engagement measures with process data and self-report to assess learner engagement in AI-supported practice](combine-log-effort-with-process-and-selfreport-data.md)
 - [Use the system's student data analysis to let teachers monitor class progress and mistakes at scale](teacher-monitors-class-progress-via-its-data.md)
 - [Integrate task-specific feedback on self-monitoring accuracy into regular progress test reports](feedback-on-self-monitoring-in-progress-test-reports.md)
+- [Use coaching over time to review assessment portfolios away from the clinic and set personal action-oriented goals](coaching-over-time-portfolio-review.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — a lightweight recurring monitoring ritual

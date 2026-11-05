@@ -55,3 +55,4 @@ Synthesis of a scoping review covering 23 studies (six systematic reviews and 17
 - [Professional development programs improve teachers' classroom assessment practices and skills](pdp-improves-teacher-assessment-practices.md) — related
 - [Nurses report competency enhancement in pain assessment through PainScan training](qualitative-competency-enhancement-painscan.md) — a narrower finding that bears on this claim
 - [A culturally informed online intervention improved the knowledge domain of cultural competence in emergencies but not attitudes or encounters](culturally-informed-online-intervention-knowledge-domain-only.md) — a narrower finding that bears on this claim
+- [Psychiatric nurses report that safety training overemphasizes theory, uses outdated monotonous formats, and lacks experience-sharing opportunities](nurse-demands-safety-training-reform.md) — related

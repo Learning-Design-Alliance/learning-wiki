@@ -49,3 +49,4 @@ The review's domain synthesis reports that "25 of our tools (74%) assessed the '
 - [No reliable and valid summative toolbox covering all patient safety domains at all four Miller levels can yet be constructed, but many tools are useful for formative feedback](no-summative-toolbox-yet-formative-feedback-possible.md) — a broader claim this one bears on
 - [Lower-level tools mostly assess safety culture while higher-level tools mostly assess team work, risk management and communication](miller-level-domain-shift-safety-tools.md) — related
 - [Assessment instruments in school swimming research focus on technical execution, with few tools aligned to functional aquatic competence](swimming-assessment-instruments-technical-bias.md) — related
+- [Nurses identify staffing levels, leadership support, teamwork, and the adverse event management system as factors influencing patient safety competency](influencing-factors-psychiatric-safety-competency.md) — related

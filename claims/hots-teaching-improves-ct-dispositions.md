@@ -66,3 +66,4 @@ Disposition outcomes measured with critical thinking assessment instruments in t
 - [No significant differences in critical thinking dispositions were found among PBL, B-PBL, and traditional lecture groups at pretest or posttest](no-significant-ct-disposition-differences-among-groups.md) — reports the opposite
 - [In the same RCT, the experimental group scored higher than the control group on all seven dimensions of critical thinking ability (all P < 0.05)](pbl-virtual-simulation-critical-thinking-all-dimensions-trauma-orthopedics.md) — related
 - [Digital RPP improves critical thinking disposition more than traditional group practice](rpp-digital-platform-critical-thinking-gains.md) — related
+- [All critical thinking subscales except inquisitiveness improved after DBSS; inquisitiveness showed no significant change](dbss-cctdi-subscales-except-inquisitiveness-improve.md) — related

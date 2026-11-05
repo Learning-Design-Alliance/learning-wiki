@@ -55,3 +55,4 @@ Self-report questionnaire (10 items, 5-point Likert; Cronbach's α = 0.924, S-CV
 - [In an RCT, pharmacy students taught with PBL rated their own problem-solving and self-directed learning significantly higher on a questionnaire than LBL students did](pbl-rct-higher-problem-solving-self-directed-learning.md) — related
 - [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related
 - [Students reported high perceived usefulness of AI for teaching preparation and classroom performance.](students-rate-ai-usefulness-highly.md) — related
+- [Experimental-group students rated the IAVSE course significantly higher than the control group rated traditional instruction across seven Likert-scale pedagogical dimensions](iavse-higher-likert-feedback.md) — related

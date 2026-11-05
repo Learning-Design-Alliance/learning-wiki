@@ -50,3 +50,4 @@ The review's synthesis of studies of hybrid tools combining task-specific checkl
 - [The 105 included studies of orthopaedic technical-skills assessment were predominantly conducted in simulated settings with 2,088 resident participants](orthopaedic-skills-assessment-review-105-studies-mostly-simulated.md) — a broader claim this one bears on
 - [No current technical skills-assessment tool in orthopaedic surgical training fulfills accepted criteria for effective assessment](no-orthopaedic-assessment-tool-fulfills-effective-assessment-criteria.md) — related
 - [Global rating scales by expert practitioners are as reliable as item-specific checklists and less labour intensive to devise](global-rating-scales-as-reliable-as-checklists.md) — related
+- [The OSATS grid and checklist discriminated ultrasound experts from students-in-training in preliminary validation](osats-checklist-expert-student-discriminant-validation.md) — related

@@ -10,7 +10,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: fuchs-2015
     resource: "https://www.researchgate.net/publication/Fraction-Intervention-for-Students-with-Mathematics-Difficulties"
@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

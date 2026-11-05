@@ -9,7 +9,6 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-02
 recheck_by: 2017
 sources:
   - id: national-foundation-for-educational-research-nfer-2014
@@ -34,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
+> **Currency** · newest study 2014 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
 > **Design limits** · National Foundation for Educational Research (NFER) 2014: no comparison group · National Foundation for Educational Research (NFER) 2014 (2): no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims

@@ -52,3 +52,4 @@ Self-report items Q1 and Q2 on perceived learning and self-efficacy in the 50-st
 - [In a prior comparative evaluation, gamified phishing-detection modules produced better learning effects than Mimecast training](gamified-modules-beat-mimecast-phishing.md) — related
 - [Gamified ALS training produced mixed short-term findings, with lower ALS-algorithm knowledge in the gamification group in a cluster randomised trial](gamification-mixed-als-algorithm-knowledge.md) — related
 - [Undergraduates who completed general online security training reported a higher propensity for harmful mobile security behaviors than untrained peers, opposite to the hypothesized direction](security-training-increased-harmful-mobile-behaviors.md)
+- [Students perceive SFH simulation as beneficial for understanding landmarks and building confidence in performing measurements](simulation-perceived-beneficial-sfh.md) — related

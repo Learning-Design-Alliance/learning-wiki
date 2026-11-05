@@ -9,7 +9,7 @@ generated:
   at: 2026-10-02
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: cynthia-j-miller-2015
     resource: "http://dx.doi.org/10.5430/wje.v5n4p1"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Cynthia J. Miller 2015: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 <!-- deprecated title (2026-10-05, overstated its evidence): A revised low-stress TBL format produces significantly higher individual summative assessment (iSAT) scores than the original high-stakes format -->
 

@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 184 claims (93 for, 76 mixed, 15 against) · 157 studies (77 causal, 24 review, 16 associational, 15 quant-synthesis, 12 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 18 of 157 report an effect size · 183 claims rest on one study
+> **Evidence** · 185 claims (94 for, 76 mixed, 15 against) · 158 studies (78 causal, 24 review, 16 associational, 15 quant-synthesis, 12 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 18 of 158 report an effect size · 184 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -219,6 +219,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Improvement in overall scores did not differ significantly between digital and conventional training groups](../claims/no-group-session-interaction-overall-scores.md) [~W] — attached 2026-11-04 from Thai NP et al. (2026), which proposed "Dental Teacher system combined with Exocad software for digital feedback and assessment of occlusal rest seats".
 - [Digital group scored higher than conventional group on width and length criteria across sessions](../claims/digital-group-higher-width-length-scores.md) [+W] — attached 2026-11-04 from Thai NP et al. (2026), which proposed "Dental Teacher system combined with Exocad software for digital feedback and assessment of occlusal rest seats".
 - [Conventional group scored higher than digital group on the shape criterion](../claims/conventional-group-higher-shape-scores.md) [-W]
+- [AI-based web application training yielded overall improvements comparable to lecture and annotated-dataset e-learning](../claims/ai-training-comparable-to-e-learning-methods.md) [+W] — attached 2026-11-05 from Nagyová Valéria et al. (2026), which proposed "AI-based web application for bitewing caries detection training".
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

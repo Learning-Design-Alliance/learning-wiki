@@ -51,6 +51,7 @@ Based on the demonstrated consistency gap, the authors recommend that AI systems
 - [Use ChatGPT-4o as a supplementary educational tool rather than an autonomous clinical decision-support system in non-English contexts](chatgpt-4o-as-supplementary-tool-non-english.md)
 - [Deploy healthcare LLMs as augmentative tools under human oversight rather than autonomous decision-makers](llm-augmentative-tools-human-oversight.md)
 - [Use high-performance LLMs as supportive tools in medical education for feedback and learning-process optimization, pending image-based validation](llms-supportive-tools-medical-education-feedback.md)
+- [Use LLMs cautiously in ophthalmology resident training, particularly for complex clinical decision-making cases](cautious-llm-use-in-resident-training-complex-cases.md)
 
 ## Examples
 -

@@ -75,3 +75,4 @@ Sub-group analysis of Gelinas-Phaneuf et al.'s VR tumour-resection simulator: "a
 - [No significant difference in training effect between more and less experienced radiologists or between residents and radiologists](mul-training-effect-independent-of-experience.md) — reports the opposite
 - [Performance scores increased significantly with surgical experience, demonstrating strong construct validity](construct-validity-performance-scores-experience.md) — reports the opposite
 - [More senior trainees outperform junior residents on first attempt at simulated durotomy repair, supporting the simulator's validity](senior-surgeons-outperform-juniors-first-attempt-durotomy-simulator.md) — reports the opposite
+- [A postgraduate endodontic resident showed improvement in VR simulator performance metrics (target progress and accuracy) over 10 evaluated sessions of case-specific endodontic microsurgery rehearsal](vr-haptic-learning-curve-ems-resident.md) — related

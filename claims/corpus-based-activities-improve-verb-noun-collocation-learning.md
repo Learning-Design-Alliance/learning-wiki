@@ -37,7 +37,7 @@ Uçar, S., & Yükselir, C. (2015). The Effect of Corpus-based Activities on Verb
 
 `q2 · i?` · `causal · r1`
 
-A quasi-experimental comparison of two intact preparatory classes (15 experimental, 15 control) at a Turkish university School of Foreign Languages. The experimental group taught with COCA concordance lines scored M=65.93 (SD=20.126) versus M=41.20 (SD=15.608) for the control group on the 15-item collocation test, "a stat istically significant difference" (t(28)=-3.761, p<0.05).
+A two-group pre-test/post-test comparison of 30 pre-intermediate preparatory-class students (15 experimental, 15 control) at a Turkish university School of Foreign Languages. The paper says the participants "were randomly classified into two groups", which it labels prep A (experimental) and prep C (control), and does not describe how the allocation was made. The experimental group taught with COCA concordance lines scored M=65.93 (SD=20.126) versus M=41.20 (SD=15.608) for the control group on the 15-item collocation test, "a stat istically significant difference" (t(28)=-3.761, p<0.05).
 
 > "Table 4 indicated that there is a stat istically significant difference between the collocation post test scores of control group (M=41.20, SD=15.608)  and experimental group (M=65.93, SD=20.126) with respect to the type of the treatment. ( t (28)=-3.761, p<0.05)."
 

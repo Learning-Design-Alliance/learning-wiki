@@ -47,7 +47,7 @@ Descriptive statement in the ecology-of-education section, set against research 
 
 ## Related Claims
 - [Professional staff show a pragmatically compressed GenAI profile with high ethical awareness and the widest span of create-level endorsement of any cohort](professional-staff-compressed-genai-profile.md) — related
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [GenAI lowers the barrier to advanced tasks, letting less-experienced practitioners achieve outcomes once requiring formal training or mentorship](genai-lowers-barrier-to-advanced-it-tasks.md) — related
 - [TEL design is not a distinct teacher competence but part of ordinary learning design](tel-not-distinct-teacher-competence.md) — related
 - Special issue findings are soft: small-scale case studies limit generalizability — related

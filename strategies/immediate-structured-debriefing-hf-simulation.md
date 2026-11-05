@@ -60,6 +60,8 @@ The review recommends that debriefing be treated as a critical phase of high-fid
 - [Use the PEARLS Healthcare Debriefing Tool with paired otolaryngology faculty and nurse educator facilitators](pearls-debrief-with-dual-discipline-facilitators.md)
 - [Use structured debriefing after simulation scenarios to consolidate transferable prevention actions](structured-daa-debriefing-after-simulation.md)
 - [Use video-recorded simulation sessions followed by instructor-led structured self-reflection and peer review to enable reflection-on-action](video-feedback-structured-reflection-strategy.md)
+- [Structure AI virtual patient sessions with pre-briefing, a structured diagnostic guide, and case-specific debriefing](pre-briefing-debriefing-ai-virtual-patient-session.md)
+- [Structured tutor-guided debriefing to drive reflective observation and abstract conceptualisation](structured-debriefing-reflection-bedside.md)
 
 ## Examples
 -

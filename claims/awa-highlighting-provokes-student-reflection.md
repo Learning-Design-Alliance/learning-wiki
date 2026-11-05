@@ -48,4 +48,4 @@ Thematic analysis of survey responses (12 of 40 participants responding), writte
 - [Students identified lack of sensitivity to linguistic nuance as a limitation of AWA feedback](awa-lacks-sensitivity-linguistic-nuance.md) — a narrower finding that bears on this claim
 - [Students showed clear appetite for automated writing support and comfort with machine-generated feedback](student-appetite-automated-writing-feedback.md) — related
 - [AWE feedback has limited depth and questionable accuracy for evaluating complex writing aspects](awe-limited-feedback-depth-accuracy-complex-writing.md) — a broader claim this one bears on
-- [Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners](peer-feedback-soft-evaluative-judgement-statistics.md) — related
+- [Peer feedback promoted critical reflection, collaboration and engagement, but one interviewed student doubted its reliability because peers were statistics beginners](peer-feedback-soft-evaluative-judgement-statistics.md) — related

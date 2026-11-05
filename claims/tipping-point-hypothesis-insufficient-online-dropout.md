@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
-newest_evidence: 2016
+newest_evidence: 2017
 sources:
-  - id: steven-s-christensen-jonathan-s-spackman-2016
+  - id: steven-s-christensen-jonathan-s-spackman-2017
     resource: "https://doi.org/10.9743/jeo.2017.14.2.7"
-    title: "Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)"
+    title: "Steven S. Christensen & Jonathan S. Spackman. (2017). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. *Journal of Educators Online, 14*(2). https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)"
     author: "Steven S. Christensen & Jonathan S. Spackman"
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Only 50 of 196 courses (25.5%) had a Tipping Point, leading the authors to abandon the single-Tipping-Point hypothesis in favor of a multi-shape account. [→ Steven S. Christensen & Jonathan S. Spackman 2016](#steven-s-christensen-jonathan-s-spackman-2016)
+`q2 i?` Only 50 of 196 courses (25.5%) had a Tipping Point, leading the authors to abandon the single-Tipping-Point hypothesis in favor of a multi-shape account. [→ Steven S. Christensen & Jonathan S. Spackman 2017](#steven-s-christensen-jonathan-s-spackman-2017)
 
 ## Evidence
 
-### Steven S. Christensen & Jonathan S. Spackman 2016
+### Steven S. Christensen & Jonathan S. Spackman 2017
 
-Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)
+Steven S. Christensen & Jonathan S. Spackman. (2017). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. *Journal of Educators Online, 14*(2). https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)
 
 `q2 · i?` · `associational · r1`
 

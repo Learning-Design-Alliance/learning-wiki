@@ -37,7 +37,7 @@ Murray-Harvey, R., Pourshafie, T., & Santos Reyes, W. (2013). What teacher educa
 
 `q2 · i?` · `qualitative · r3`
 
-Qualitative analysis of written reflections (journals, two assignments) from 122 Australian teacher education students who studied two PBL cases over one semester. Open coding in NVivo classified statements into ASK dimensions; the study reports that "Attitudes identified as necessary for collaborative learning were valuing others' perspectives, interdependence, and learning about self."
+Qualitative analysis of written reflections from Australian teacher education students (122 consenting participants) who studied two PBL cases over one semester; the texts analysed were the journal entries of 67 students, Assignment 1 reports of 58 and Learning Evaluations of 46 that referred to PBL. Open coding in NVivo classified statements into ASK dimensions; the study reports that "Attitudes identified as necessary for collaborative learning were valuing others' perspectives, interdependence, and learning about self."
 
 > "Attitudes identified as necessary for collaborative learning were valuing others' perspectives, interdependence, and learning about self."
 
@@ -71,3 +71,4 @@ Qualitative analysis of written reflections (journals, two assignments) from 122
 - [Students enact agency toward groups by fostering relational awareness, building interpersonal relationships, holding dialogue, and seeing from other perspectives](agency-toward-groups-actions.md) — related
 - [PBL students gave positive feedback on the implementation of PBL in a nine-question Likert survey](pbl-positive-student-feedback-survey.md) — related
 - [PBL in small groups supports creativity through openness to new ideas, handling problems from different angles, and imagining various solutions](pbl-small-group-creativity.md) — related
+- [Students describe structured reflection and journaling as supporting self-awareness, recognition of behavioral patterns, and reoriented future actions](structured-reflection-self-awareness-growth.md) — related

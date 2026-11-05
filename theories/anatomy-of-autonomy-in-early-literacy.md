@@ -40,7 +40,7 @@ The paper proposes a taxonomy of autonomy in early literacy with two main axes. 
 
 - [Exercise of autonomy at one level may inhibit its development at another in early literacy learning](../claims/autonomy-at-one-level-may-inhibit-another.md) [+W]
 - [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](../claims/big-book-reading-cognitive-autonomy.md) [+W]
-- [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](../claims/co-construction-scribe-teacher-fosters-composition-autonomy.md) [+M]
+- [In one observed session, six five-year-olds composing text with their teacher as scribe exercised autonomy of composition and judgement and stayed on task for 240 turns](../claims/co-construction-scribe-teacher-fosters-composition-autonomy.md) [+W]
 - [Autonomy alone cannot secure orthographic mastery: most children need explicit instruction about the orthographic system](../claims/orthographic-autonomy-requires-instruction.md) [+W]
 
 ## Related Theories

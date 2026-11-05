@@ -73,3 +73,4 @@ Randomised controlled trial (Bi et al., 2019) in which 80 first-year postgraduat
 - [Case-based learning combined with multidisciplinary team teaching yields significantly higher theoretical examination scores than lecture-based teaching in liver cancer clinical education.](cbl-mdt-higher-theoretical-examination-scores-liver-cancer.md) — related
 - [CBE-MDT teaching improves final exam scores compared with traditional teaching in radiation oncology rotations](cbe-mdt-improves-exam-scores-radiation-oncology.md) — related
 - [Simulation-based PBLS training increases caregiver confidence and satisfaction with training](simulation-pbls-increases-caregiver-confidence.md) — related
+- [Integrated clinical pathway and case-based teaching yields higher post-training theoretical examination scores than traditional teaching in endocrinology residency](clinical-pathway-cbt-higher-theoretical-scores.md) — related

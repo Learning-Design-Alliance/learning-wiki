@@ -49,3 +49,4 @@ Study of an advanced pediatric MIS curriculum (SuSiPed 2.0) consisting of six tr
 - [Weisser et al. 3D-printed pediatric MIS curriculum: expert surgeons outperformed residents on all tasks with high interrater reliability](susiped1-experts-outperform-residents.md) — related
 - [PLS simulator is the most commonly used pediatric MIS training model, with construct validity established for its pattern-cutting task](pls-simulator-most-used-construct-validity.md) — related
 - [3D-printed pediatric chest model with embedded force sensors distinguished skill levels where a conventional box trainer did not](takazawa-chest-model-skill-differentiation.md) — related
+- [In neonatal minimally invasive surgery, operative performance is shaped more by recency and depth of MIS-focused training than by surgeon seniority](mis-performance-shaped-by-training-recency-not-seniority.md) — related

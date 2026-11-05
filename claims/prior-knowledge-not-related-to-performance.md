@@ -15,6 +15,7 @@ sources:
     author: "Nist, S. L., & Hogrebe, M. C."
     q: 3
     i: 0
+    n: 67
     kind: associational
     rigour: "?"
 ---
@@ -22,7 +23,7 @@ sources:
 # Prior knowledge is not significantly related to test performance in this sample
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r?` · `q3` · `i0` negligible
+> **Evidence** · 1 study · associational `r?` · `q3` · `i0` negligible · n=67
 > **Currency** · newest study 1985 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 17 design pages cite it; treat it as a lead to check, not an established finding.
 
@@ -30,7 +31,7 @@ In one study of text underlining, learners' prior knowledge scores did not corre
 
 ## Subclaims
 
-`q3 i0` Prior knowledge scores were not significantly correlated with test scores in a study of high- and low-relevant text underlining. [→ Nist 1985](#nist-1985)
+`q3 i0` In a study of high- and low-relevant text underlining with 67 college freshmen, prior-knowledge scores were not significantly correlated with total, high-relevant or low-relevant test scores (r = .19, .10, .19). [→ Nist 1985](#nist-1985)
 
 ## Evidence
 
@@ -40,9 +41,9 @@ Primary evidence link: https://eric.ed.gov/?id=ED265520
 
 Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance. [ERIC ED265520](https://eric.ed.gov/?id=ED265520)
 
-`q3 · peer-reviewed study, not pre-registered` · `i0 · null effect` · `n not reported in stub` · `associational · r?`
+`q3 · randomised experiment reported as a conference paper (National Reading Conference, 1985), not pre-registered; this finding is a correlation within it` · `i0 · null effect` · `n=67` · `associational · r?`
 
-In an analysis of correlations, the authors found that "prior knowledge was not significantly related to the number of questions answered correctly." The study examined whether learners with high versus low relevant prior knowledge differed in test performance after underlining text; the correlation between prior knowledge scores and test scores was not statistically significant in this sample.
+67 college freshmen in a developmental studies programme took a ten-item prior-knowledge test, read a textbook passage under one of five marking conditions (high- or low-relevant underlining, with or without annotating, or their own markings), and answered 24 multiple-choice questions, 12 on high-relevant and 12 on low-relevant material ("high" and "low relevant" describe the text emphasised, not the learners' prior knowledge). Product-moment correlations of prior-knowledge scores with the total, high-relevant and low-relevant scores were r = .19, .10 and .19, "not significantly different from zero"; the authors conclude that prior knowledge "was not significantly related to the number of questions answered correctly."
 
 ## Discussion
 

@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 140 claims (111 show a difference, 19 mixed, 10 no difference) · 118 studies (44 causal, 26 review, 15 qualitative, 11 quant-synthesis, 9 associational, 8 design, 5 theoretical), `q1`–`q3` · 11 of 118 report an effect size · 140 claims rest on one study
+> **Evidence** · 142 claims (113 show a difference, 19 mixed, 10 no difference) · 120 studies (45 causal, 26 review, 16 qualitative, 11 quant-synthesis, 9 associational, 8 design, 5 theoretical), `q1`–`q3` · 11 of 120 report an effect size · 142 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -61,7 +61,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](../claims/interprofessional-mixed-groups-mutual-respect-consent-training.md) [+W] — instruction changes it
 - [NELS indicators of math skills, work habits, leadership, teamwork and sports-related skills, and locus of control are related to postsecondary earnings and to the likelihood of attending and completing postsecondary education](../claims/nels-competencies-predict-postsecondary-attainment-earnings.md) [+W] — learners who differ on it differ in outcomes
 - [No significant relative pre–post changes for attitudes toward collaborative learning, overall teamwork, or remaining teamwork subscales](../claims/genarch-null-did-collaborative-attitudes-teamwork.md) [-W] — instruction changes it
-- [Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners](../claims/peer-feedback-soft-evaluative-judgement-statistics.md) [+W] — instruction changes it
+- [Peer feedback promoted critical reflection, collaboration and engagement, but one interviewed student doubted its reliability because peers were statistics beginners](../claims/peer-feedback-soft-evaluative-judgement-statistics.md) [+W] — instruction changes it
 - [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](../claims/peer-reflective-groups-challenge-student-teacher-views.md) [+M] — instruction changes it
 - [PLI students digitally collaborated significantly more than non-PLI students with the same technology access, and digital collaboration had a small significant association with SBAC scores](../claims/pli-digital-collaboration-associated-with-scores.md) [+M] — learners who differ on it differ in outcomes
 - [Prospective teachers' qualitative feedback credited CCCT with communication, teamwork and engagement gains but noted unequal participation and time constraints](../claims/ccct-qualitative-strengths-challenges.md) [~W] — instruction changes it
@@ -182,6 +182,8 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Cooperative learning swimming teaching produced the best social adaptability outcomes, especially peer interaction and collective integration](../claims/cooperative-learning-swimming-social-adaptability.md) [+M] — measured as an outcome of the instruction studied
 - [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](../claims/simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) [+M] — measured as an outcome of the instruction studied
 - [Joint team-based training during single-port transition clarifies role-specific constraints and improves collaborative problem-solving](../claims/joint-sp-team-training-shared-mental-models.md) [+M] — measured as an outcome of the instruction studied
+- [All interviewed interns reported that role rotation and teamwork were central benefits of the simulation-with-CBL training](../claims/role-rotation-teamwork-central-benefit-simulation-cbl.md) [+M] — measured as an outcome of the instruction studied
+- [Under human-machine collaboration, emergency nurses transform from experience-based executors to AI collaborative decision-makers](../claims/nurse-role-shift-executor-to-ai-collaborative-decision-maker.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

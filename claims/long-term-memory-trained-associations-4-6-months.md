@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: peña-2024
     resource: "https://doi.org/10.1038/s41539-024-00249-3"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Toddlers performed significantly above chance on delayed memory tests for word-object (65.14% Control, 62.38% Study) and letter-sound (69.19% Control, 70.54% Study) associations, with no group differences. [→ Peña 2024](#pena-2024)

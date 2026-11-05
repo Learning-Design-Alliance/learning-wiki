@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: kaushal-2019
     resource: "https://eric.ed.gov/?id=EJ1219792"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i2` medium
-> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The overall mean effect size is 0.49 for HPK students and -0.16 for LPK students, so the study was unable to reject the null hypothesis that animations are only effective for HPK students. [→ Kaushal 2019](#kaushal-2019)

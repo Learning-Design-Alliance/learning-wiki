@@ -47,7 +47,7 @@ Qualitative case study of 17 GenAI adoption cases at one UK Russell Group univer
 
 ## Related Claims
 - [A qualitative case study of 17 GenAI adoption cases in a UK business school identified current integration practices along with associated benefits, challenges and influencing factors](genai-adoption-practices-benefits-challenges-17-cases.md) — related
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [First-year undergraduate business students reported high engagement and recognised the necessity of developing GenAI skills for their future careers](business-students-engaged-genai-skills-necessity.md) — a narrower finding that bears on this claim
 - Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring — related

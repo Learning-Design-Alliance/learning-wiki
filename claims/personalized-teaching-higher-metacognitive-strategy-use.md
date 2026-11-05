@@ -48,7 +48,7 @@ Quasi-experimental study of 120 vocational college students in two intact classe
 - [Metacognition](../learner-variables/metacognition.md) — outcome: measured as an outcome of the instruction studied
 
 ## Related Claims
-- [Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest](web-training-prepost-gains-self-plan-self-monitor.md) — related
+- [College students given web-based metacognitive skills training rated their self-plan, self-monitor and total metacognitive scores higher at posttest than pretest, but gained more than a control group only on self-plan](web-training-prepost-gains-self-plan-self-monitor.md) — related
 - [Diary keeping significantly increases metacognition strategy use of pre-service science teachers](diaries-increase-metacognition-strategies.md) — related
 - [Explicit metacognitive strategy instruction increases ESL learners' use of monitoring and assessment strategies but not planning strategies](metacognitive-instruction-increases-monitoring-assessment-not-planning.md) — related
 - [The personalized teaching intervention was associated with significantly greater vocabulary breadth gains than conventional instruction (d = 0.93).](personalized-teaching-vocabulary-breadth-gains.md) — related

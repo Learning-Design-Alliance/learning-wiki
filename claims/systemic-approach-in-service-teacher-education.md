@@ -50,3 +50,4 @@ Narrative review attributing this to Khisty (1997), a project for in-service mat
 - CHAT's rejection of the theory/practice divide frames CSL as boundary crossing that develops connective skills — related
 - [Community-based mathematical investigations gave students confidence to use mathematics for social change](community-based-math-social-change.md) — related
 - [Teachers Feel Confident to Teach AI but Many Not in the Short-Term Without Specific Training](teachers-confident-but-need-training.md) — related
+- [Learning difficulties concentrate in Mathematics and English, compounded by fast, unclear teaching](haor-learning-difficulties-math-english.md) — related

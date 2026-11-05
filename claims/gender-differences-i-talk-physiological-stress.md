@@ -49,3 +49,4 @@ Cross-sectional regressions found male student teachers used significantly more 
 - [Student teachers’ use of subjective first-person singular pronouns in written reflections predicts an increase in physiological stress in a subsequent VR lesson.](i-talk-predicts-increase-physiological-stress.md) — related
 - [Student teachers’ heartrate during VR teaching is positively associated with their subsequent use of first-person singular pronouns in written reflections.](i-talk-physiological-stress-vr-teaching.md) — related
 - [The use of objective first-person singular pronouns predicts self-reported stress in a subsequent VR lesson, but this association is explained by prior physiological stress.](objective-pronouns-predict-self-reported-stress.md) — related
+- [Female students report higher stress than male students during hands-on artificial-tooth training, despite comparable performance](female-higher-stress-hands-on-training.md) — related

@@ -89,3 +89,6 @@ The matched cohort reports "Median postoperative stay was similar between groups
 - [Resident postgraduate year (PGY 1–7) showed no significant correlation with complications, operation time, anesthesia time, or hospitalization length](pgy-level-no-correlation-outcomes.md) — related
 - [Residents required significantly longer operation and anesthesia times than staff for frame-based biopsies, but not for navigated frameless biopsies](resident-frame-based-biopsy-longer-times.md) — related
 - [Hospitalization time was significantly longer in the staff (non-teaching) group than in the resident (teaching) group](staff-group-longer-hospitalization.md) — related
+- [In an emergency-surgery subgroup, autonomous resident-led cases achieved outcomes comparable to matched consultant-led emergency cases](resident-led-emergency-surgery-comparable-outcomes.md) — related
+- [In exploratory analyses, the only factor significantly associated with prolonged length of stay was the study center](study-center-only-significant-predictor-prolonged-los.md) — related
+- [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ In the same 32-intern single-group study, junctional skill scores (max 12) rose 
 - [Three-hour simulation-based tourniquet training significantly improves medical interns' knowledge, skills, attitudes, self-confidence and self-efficacy](simulation-tourniquet-training-improves-intern-outcomes.md) — related
 - [Non-verbal communication gains persisted at a two-month follow-up, with no statistically significant decline from post-test](peer-tutoring-asd-gains-retained-two-month-followup.md) — related
 - [Social skills scores did not change from post-test to follow-up in the experimental group, with no statistically significant post-to-follow-up differences](social-skills-gains-maintained-follow-up.md) — related
+- [Clinical Application scores increased from Post-test to one-month Follow-up in all three groups](application-scores-increased-at-follow-up.md) — related

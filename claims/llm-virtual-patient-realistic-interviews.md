@@ -52,3 +52,4 @@ Prototype development phase of a developmental research study. Authors report th
 - [VR/AR and metaverse-based approaches were more frequently associated with favorable findings than screen-based virtual patient approaches, which yielded mixed findings with no clear advantage over non-technology-based simulation](vr-ar-more-favorable-than-screen-based-vps-communication.md) — a broader claim this one bears on
 - [The metaverse environment enables delivery of consistent and reproducible scenarios supporting objective assessment of communication and diagnostic reasoning skills](metaverse-consistent-reproducible-scenarios.md) — related
 - [Four clinical scenario types were identified as suitable for metaverse-based assessment based on expert consensus criteria](metaverse-scenario-selection-criteria.md) — related
+- [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — related

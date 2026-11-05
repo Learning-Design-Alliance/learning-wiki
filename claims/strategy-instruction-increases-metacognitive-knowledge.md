@@ -49,5 +49,5 @@ Post-test comparison on the Turkish Course Metacognitive Knowledge Interview For
 
 ## Related Claims
 - [Learning strategies instruction increases sixth graders' awareness of learning strategies](strategy-instruction-increases-strategy-awareness.md) — related
-- [Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest](web-training-prepost-gains-self-plan-self-monitor.md) — related
+- [College students given web-based metacognitive skills training rated their self-plan, self-monitor and total metacognitive scores higher at posttest than pretest, but gained more than a control group only on self-plan](web-training-prepost-gains-self-plan-self-monitor.md) — related
 - [Strategy instruction increases Turkish course achievement, attributed by the authors to metacognitive skill use](strategy-instruction-increases-turkish-achievement.md) — related

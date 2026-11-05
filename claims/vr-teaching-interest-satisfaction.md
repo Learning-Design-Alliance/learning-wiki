@@ -72,3 +72,4 @@ Meta-analysis pooling 5 RCTs (n=190) on satisfaction with instructional content 
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — related
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — related
 - [Student satisfaction with telemedicine ultrasound teaching is similar to traditional teaching, and distance formats are widely accepted by students](telemedicine-teaching-student-satisfaction-acceptance.md) — related
+- [Integrated teaching raises satisfaction with the teaching approach on learning interest, disease comprehension, and clinical reasoning, but not on research awareness or communication](integrated-teaching-approach-survey-mixed.md) — related

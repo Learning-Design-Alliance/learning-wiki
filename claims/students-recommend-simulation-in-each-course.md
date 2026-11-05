@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-05
 sources:
   - id: elliott-2021
     resource: "https://doi.org/10.30707/TLCSD5.1.1624982519.538001"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All participants agreed that incorporating Simucase into each course, with cases aligned to course content, would provide more concrete learning. [→ Elliott 2021](#elliott-2021)
@@ -45,7 +46,7 @@ Focus-group theme from the qualitative pilot; one participant suggested each cla
 
 
 ## Related Claims
-- [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](debriefing-psychometric-instruction-valued.md) — related
+- [Graduate students in a simulated clinical course reported positive experiences with its weekly debriefing and guided exploration of psychometric properties](debriefing-psychometric-instruction-valued.md) — related
 - [Students find computer-based simulation feedback insufficient because incorrect responses are marked without explanation](simucase-feedback-insufficient.md) — related
 - [Graduate SLP students perceive the learning mode of computer-based simulation as highly beneficial because it allows unlimited attempts without grade penalty](simucase-learning-mode-perceived-beneficial.md) — related
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](simucase-lacks-behavioral-authenticity.md) — related

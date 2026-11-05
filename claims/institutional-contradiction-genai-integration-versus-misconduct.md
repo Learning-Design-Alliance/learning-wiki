@@ -49,7 +49,7 @@ Authors' interpretive argument (type e) from the introduction, illustrated with 
 
 - [Students' moral rationalizations of AI use are typically post hoc and often internally inconsistent](ai-rationalizations-post-hoc-inconsistent.md) — related
 - [Whether student GenAI use constitutes academic misconduct depends fundamentally on the prior question of the university's purpose](genai-misconduct-depends-on-university-purpose.md) — related
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [Student perceptions of AI use in academic work are neutral and range from viewing AI as valid learning assistance to viewing it as cheating, depending on task type, transparency, and assessment design](student-ai-perceptions-neutral-task-dependent.md) — related
 - [The article interprets the ethics gap as students viewing ethics through coursework practices and instructors treating it as an integrity question shaped by lack of institutional clarity](ethics-gap-coursework-versus-institutional-clarity-interpretation.md) — related
 - [Academic misconduct emerges primarily from systemic pressures rather than individual moral failure, and academic integrity is a collective epistemic practice institutions must sustain](misconduct-from-systemic-pressures-integrity-collective.md) — a broader claim this one bears on

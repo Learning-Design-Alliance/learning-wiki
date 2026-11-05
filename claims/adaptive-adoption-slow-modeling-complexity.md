@@ -45,4 +45,4 @@ Theoretical argument from the author's over-a-decade of designing adaptive learn
 
 
 ## Related Claims
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — a broader claim this one bears on
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — a broader claim this one bears on

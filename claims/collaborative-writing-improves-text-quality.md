@@ -83,7 +83,7 @@ Twenty-eight 10- and 11-year-olds in one mixed-ability class were all trained in
 - [Argumentation improves reasoning.](argumentation-improves-reasoning.md) — negotiating a shared text requires argumentative moves that may transfer to reasoning quality
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — distributing drafting and revision demands across writers is a proposed load-sharing mechanism
 - [Cooperative learning.](../patterns/cooperative-learning.md) — positive interdependence and individual accountability are design features that mitigate free-riding in co-writing tasks
-- [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](co-construction-scribe-teacher-fosters-composition-autonomy.md) — related
+- [In one observed session, six five-year-olds composing text with their teacher as scribe exercised autonomy of composition and judgement and stayed on task for 240 turns](co-construction-scribe-teacher-fosters-composition-autonomy.md) — related
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
 - [Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say](collaborative-writing-recommendations-argued-to-produce-active-student-writers.md) — a narrower finding that bears on this claim

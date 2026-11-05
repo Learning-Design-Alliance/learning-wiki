@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 1972
+source_checked: 2026-11-05
 sources:
   - id: bassler-1972
     resource: "https://eric.ed.gov/?id=ED075260"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 1972 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1972 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -66,7 +67,7 @@ As hypothesized, the treatment-by-ability interaction was non-significant on bot
 
 ## Related Claims
 
-- [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
+- [In one physics experiment, the hierarchical-organization advantage was significant for medium-ability but not low-ability subjects; no ability-by-treatment interaction was reported](ability-moderates-hierarchical-organization-benefit.md) — related
 - [High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load](high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load.md) — related
 - [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) — related
 - [Polya and Dahmus methods do not differ on the problem solution criterion](no-treatment-difference-problem-solution-criterion.md) — related

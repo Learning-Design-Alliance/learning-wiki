@@ -66,7 +66,7 @@ Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles
 
 `q2 · i? · non-significant difference reported second-hand; no effect size printed` · `review · r2`
 
-Narrative review attributing to Kizilcec, Bailenson, and Gomez (2015) a comparison of constant versus moderate inclusion of a talking head in slide-presentation videos. No significant learning-performance difference was found; equivalence was not tested. Preference for the face is the authors' noted observation.
+Narrative review attributing to Kizilcec, Bailenson, and Gomez (2015) a comparison of constant versus moderate inclusion of a talking head in slide-presentation videos. The review reports no significant learning-performance difference and does not say whether equivalence was tested, so the result should not be read as shown equivalence. Preference for the face is the authors' noted observation.
 
 > "They found that there were no significant differences in terms of learning performance, but it seems that some students just prefer the presence of the instructor face"
 

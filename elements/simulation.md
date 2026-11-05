@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 353 claims (209 for, 122 mixed, 22 against) · 218 studies (79 review, 60 causal, 38 quant-synthesis, 21 design, 10 associational, 7 qualitative, 3 theoretical), `q1`–`q4` · 38 of 218 report an effect size · 343 claims rest on one study
+> **Evidence** · 360 claims (216 for, 122 mixed, 22 against) · 224 studies (79 review, 63 causal, 38 quant-synthesis, 22 design, 11 associational, 8 qualitative, 3 theoretical), `q1`–`q4` · 39 of 224 report an effect size · 350 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -71,7 +71,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Students find computer-based simulation feedback insufficient](../claims/simucase-feedback-insufficient.md) [+M]
 - [Graduate SLP students perceive the simulation's learning mode as highly beneficial](../claims/simucase-learning-mode-perceived-beneficial.md) [+M]
 - [Reflective practice improves outcomes when structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
-- [Students perceive debriefing as among the most beneficial components of a simulated clinical course](../claims/debriefing-psychometric-instruction-valued.md) [+M]
+- [Graduate students in a simulated clinical course reported positive experiences with its weekly debriefing](../claims/debriefing-psychometric-instruction-valued.md) [+W]
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
 - [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](../claims/students-recommend-simulation-in-each-course.md) [+W]
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](../claims/simucase-lacks-behavioral-authenticity.md) [-W]
@@ -408,6 +408,13 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [All training groups improved repair times with repeated exposure to the simulator](../claims/repeated-exposure-improves-durotomy-repair-times.md) [+W] — attached 2026-11-04 from Bukowiec Lainey G. et al. (2026), which proposed "3D-printed durotomy repair spine simulator with lumbar and thoracic windows"; tests this page's relationship.
 - [VR training with eye-tracking heatmap feedback yields numerically greater situational awareness gains than mannequin-based training in a pilot RCT under simulated ED interruptions](../claims/vr-eye-tracking-feedback-greater-sa-gains-pilot-rct.md) [+M] — attached 2026-11-04 from Emadi Navaz et al. (2026), which proposed "VR trauma simulation with eye-tracking heatmap feedback (3DVista/Unreal Engine, HTC VIVE Pro Eye)"; tests this page's relationship.
 - [Eye-tracking-based VR feedback with simulated ED interruptions was feasible to implement in a pilot trial](../claims/eye-tracking-vr-feedback-feasibility-pilot.md) [+W] — attached 2026-11-04 from Emadi Navaz et al. (2026), which proposed "VR trauma simulation with eye-tracking heatmap feedback (3DVista/Unreal Engine, HTC VIVE Pro Eye)".
+- [A 7-day virtual simulation game on CAUTI prevention produced higher post-test knowledge scores than standard training presentations in nursing students](../claims/vsg-improves-cauti-prevention-knowledge.md) [+M] — attached 2026-11-05 from The Effect of Virtual Simulation Game on the Development of Nursing Students' Knowledge an, which proposed "VSG for Preventing CAUTI: a Unity 3D virtual simulation game in which students play a nurse through four catheter-care stages"; tests this page's relationship.
+- [Situational simulation with CBL produces higher hands-on CPR skill scores than traditional teaching in pediatric interns](../claims/simulation-cbl-higher-hands-on-cpr-scores-pediatric-interns.md) [+W] — attached 2026-11-05 from Zhang Li-dan et al. (2026), which proposed "Standardized pediatric cardiac arrest simulation scenario with full-scale simulator"; tests this page's relationship.
+- [Residents rated the Calgary Simulation Curriculum highly on educational value, teaching quality, and preparatory materials across three annual iterations](../claims/csc-face-validity-high-ratings.md) [+W] — attached 2026-11-05 from Daniel Ghods-Esfahani et al. (2026), which proposed "Calgary Simulation Curriculum (CSC): a five-session, multi-subspecialty surgical simulation curriculum for otolaryngology residency".
+- [Small-group, communication-focused SP simulations increase pre-licensure nursing students' comfort and confidence in therapeutic communication](../claims/sp-simulation-increases-therapeutic-communication-comfort.md) [+W] — attached 2026-11-05 from Kameg Brayden et al. (2026), which proposed "Small-group standardized patient simulation program for psychiatric-mental health therapeutic communication"; tests this page's relationship.
+- [Simulation-trained residents achieve significantly higher total live pediatric TEE performance scores than apprenticeship-trained residents one week after training](../claims/simulation-training-higher-live-tee-total-scores.md) [+W] — attached 2026-11-05 from Ou Xinxu et al. (2026), which proposed "BabyWorks 3D pediatric TEE simulator with multimodal feedback for hands-on probe-manipulation training"; tests this page's relationship.
+- [Simulation-trained residents complete the 11-view pediatric TEE protocol significantly faster than apprenticeship-trained residents](../claims/simulation-training-shorter-tee-examination-duration.md) [+W] — attached 2026-11-05 from Ou Xinxu et al. (2026), which proposed "BabyWorks 3D pediatric TEE simulator with multimodal feedback for hands-on probe-manipulation training"; tests this page's relationship.
+- [Working with a GPT-4-based virtual patient e-learning tool improved dental students' self-perceived confidence to perform endodontic diagnostics independently](../claims/ai-virtual-patient-improved-endodontic-diagnostic-confidence.md) [+W] — attached 2026-11-05 from Prinz et al. (2026), which proposed "GPT-4-turbo-based virtual patient web app for endodontic diagnostic training".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
@@ -421,7 +428,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - **Not settled:** how fast to fade guidance within a simulation, and whether the discovery findings carry over unchanged to interactive models; no wiki claim tests it.
 
 ### What should the simulation be built around?
-- **Default:** repeated, goal-directed practice with mastery standards and immediate feedback; simulation-based medical education with deliberate practice beat traditional clinical education (d = 0.71, 14 studies, mostly procedural skills) — [Simulation-based education with deliberate practice improves clinical outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
+- **Default:** repeated, goal-directed practice with mastery standards and immediate feedback; simulation-based medical education with deliberate practice beat traditional clinical education (pooled effect-size correlation r = 0.71, 14 studies, mostly procedural skills) — [Simulation-based education with deliberate practice improves clinical outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
 - **Default:** against no intervention, technology-enhanced simulation gave large pooled effects on knowledge and skills (g ≈ 1.09–1.20) and a moderate one on direct patient outcomes (g = 0.50, k = 32) — [Simulation-based education improves outcomes](../claims/simulation-based-education-improves-outcomes.md) [+M]
 - **Changes when:** the comparison is equally long non-simulation practice → the no-intervention meta-analysis cannot say, and its subgroup analyses found no consistent interaction with feedback, repetition, mastery learning, distributed practice or curricular integration — [Simulation-based education improves outcomes](../claims/simulation-based-education-improves-outcomes.md) [~M]
 - **Tested with:** physicians, nurses, dentists and other health-professions trainees (609 studies, 35,226 trainees; 14 studies for the deliberate-practice comparison).
@@ -448,7 +455,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 
 ### What should follow the simulation?
 - **Default:** a structured reflection with specific prompts rather than a generic invitation; metacognitive-reflection prompts were the strongest moderator in 48 writing-to-learn studies (b = 0.48), and specific prompts beat generic ones for 208 engineering students — [Reflective practice improves outcomes when structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
-- **Default:** students in a simulated clinical course named the weekly debriefing among its most beneficial parts — [Students perceive debriefing as among the most beneficial components of a simulated clinical course](../claims/debriefing-psychometric-instruction-valued.md) [+M]
+- **Default:** students in a simulated clinical course reported positive experiences with its weekly debriefing — [Graduate students in a simulated clinical course reported positive experiences with its weekly debriefing](../claims/debriefing-psychometric-instruction-valued.md) [+W]
 - **Tested with:** school writing-to-learn studies and a first-year engineering course (structured reflection); 10 SLP graduate students (debriefing, perception only).
 - **Not settled:** no wiki claim compares a simulation with and without a debrief; see [Debrief](debrief.md) for the debrief's own decisions.
 
@@ -523,7 +530,7 @@ Simulations are the element in which learners engage with realistic, model-based
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
 - [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](../claims/students-recommend-simulation-in-each-course.md) [+W]
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](../claims/simucase-lacks-behavioral-authenticity.md) [-W]
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+W]
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+W]
 
 ## Related Elements
 - [Scenario-Based Learning](scenario-based-learning.md)

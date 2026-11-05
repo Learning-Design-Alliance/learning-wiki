@@ -50,6 +50,7 @@ The article recommends that "Future research should focus on identifying the con
 
 - [Future research should explore AI-driven educational tools, adaptive learning platforms, and decision-support systems to enhance nurses' PICC care knowledge](ai-driven-tools-for-nurse-picc-education.md)
 - [Use simulation-based training, digital tools, and interdisciplinary workshops to teach dental trauma management](simulation-digital-interdisciplinary-dental-trauma-training.md)
+- [Optimize e-learning platform usability and provide technical support to maximize engagement across diverse nursing staff groups](elearning-usability-technical-support-strategy.md)
 
 ## Examples
 -

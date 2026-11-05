@@ -46,7 +46,7 @@ Systematic review of 25 RCTs comparing AR/VR training with conventional methods;
 
 ## Related Claims
 - [Immersive reality training produced higher knowledge and skill scores than conventional training in dental studies](ir-improves-dental-knowledge-skill-scores.md) — a narrower finding that bears on this claim
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — related
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — related
 - [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](ir-reduces-procedural-time-dental.md) — a narrower finding that bears on this claim
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — a broader claim this one bears on
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — related

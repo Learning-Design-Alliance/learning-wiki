@@ -39,7 +39,7 @@ The study's learning material is an expository illustrated text on mitosis distr
 ### Claims
 
 - [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+M]
-- [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](../claims/media-combinations-affect-recall-and-retention.md) [+W]
+- [In one 37-student classroom experiment, learning scores differ across media combinations in the direction Dual Coding Theory predicts](../claims/media-combinations-affect-recall-and-retention.md) [+W]
 
 ## Related Designs
 - [Emme Eye Movement Modeling Examples](emme-eye-movement-modeling-examples.md)

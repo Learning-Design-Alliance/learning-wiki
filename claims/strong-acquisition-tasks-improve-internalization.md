@@ -50,7 +50,7 @@ Experiment 2 two-way ANOVA (input version x acquisition tasks) on the sum of com
 
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — related
-- [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related
+- [No hierarchical organization is best for every task: students given organization A did better on deductive tasks and those given organization B on historical tasks](organization-task-match-determines-benefit.md) — related
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — related
 - [Guided Notes Improve Note Accuracy](guided-notes-improve-note-accuracy.md) — related

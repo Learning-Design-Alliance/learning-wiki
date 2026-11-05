@@ -56,3 +56,4 @@ Meta-analysis of 5 studies involving 748 students reporting satisfaction with im
 - [Student satisfaction does not differ between PBL and LBL (pooled RR 1.18, CI crossing 1)](pbl-lbl-satisfaction-no-difference.md) — related
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — a broader claim this one bears on
 - [Integrated model raises satisfaction, clinical thinking, practical skill self-ratings and engagement, with no difference in resource utilization](microskills-cptm-questionnaire-engagement.md) — related
+- [Integrated teaching raises satisfaction with the teaching approach on learning interest, disease comprehension, and clinical reasoning, but not on research awareness or communication](integrated-teaching-approach-survey-mixed.md) — related

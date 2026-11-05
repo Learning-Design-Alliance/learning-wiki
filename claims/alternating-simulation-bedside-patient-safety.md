@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2018
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: yang-et-al-2018
     resource: "https://doi.org/10.5430/ijhe.v7n1p10"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In the integrated mode, students performed less invasive physical examination items on real patients and practiced items patients may reject, such as palpation or percussion, on medical or virtual simulation systems. [→ Yang et al. 2018](#yang-et-al-2018)
@@ -50,3 +50,4 @@ Descriptive account of the observation group's teaching procedure: students take
 - [Simulation-based training is associated with improved patient safety-related skills and knowledge in undergraduate nursing students](simulation-improves-nursing-patient-safety-skills.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Students reported that early exposure to surface anatomy, palpation, and systematic physical examination enhanced their confidence and competence with real patients](early-surface-anatomy-exposure-confidence.md) — related
+- [Bedside teaching faces practical limitations of group size, patient burden and clinical unpredictability requiring a pragmatic approach](bedside-teaching-practical-limitations.md) — related

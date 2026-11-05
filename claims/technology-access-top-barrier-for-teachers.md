@@ -49,7 +49,7 @@ Content analysis of coded responses to a survey question about barriers to using
 - [Infrastructure, connectivity or limited access is the most frequent barrier (45.2%) to digitally supported teacher education](infrastructure-access-main-barrier-digitally-supported-teacher-education.md) — possibly the same claim (merge candidate)
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
 - [Lack of technology access was the most commonly reported barrier to integrating the mathematics products](technology-access-greatest-integration-barrier.md) — related
 - [Flipped classrooms depend on student participation and home technology access, limiting applicability](flipped-classroom-participation-and-access-barriers.md) — a narrower finding that bears on this claim

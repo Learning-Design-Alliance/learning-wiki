@@ -52,3 +52,4 @@ Theme from rapid qualitative analysis of three virtual focus groups with 19 Hisp
 - [Cancer-related fear and fatalism shape lung cancer screening decisions, and Hispanic adults preferred balanced risk communication that minimizes fear](fear-fatalism-shape-lcs-decisions-balanced-risk-communication.md) — related
 - [Hispanic adults in LCS focus groups reported limited awareness and understanding of lung cancer screening, including eligibility, benefits, and harms](hispanic-adults-limited-lcs-awareness-focus-groups.md) — related
 - Teachers framed communication and digital literacy as foundational skills requiring clear, contextually relevant definitions — related
+- [Students value NANDA-I diagnoses for professional communication but report challenges in understanding, cultural adaptation, and anticipated workload](students-value-nanda-but-report-comprehension-challenges.md) — related

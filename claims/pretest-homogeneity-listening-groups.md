@@ -58,3 +58,4 @@ Independent-samples t-test (SPSS 13) on pretest listening scores of the experime
 - [Access and public school students showed no significant difference in English scores before treatment](access-public-schools-no-pretest-difference.md) — related
 - [Experimental and control groups showed no significant difference in pre-test vocabulary scores, supporting group equivalence at baseline](youtube-study-pretest-equivalence.md) — related
 - [Treatment and contrast groups showed no significant differences in listening ability before instruction](no-pretest-group-differences.md) — related
+- [The intervention and control groups did not differ significantly in GPA, supporting the intervention rather than baseline ability as the source of the competence difference](no-gpa-difference-between-groups.md) — related

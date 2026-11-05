@@ -9,7 +9,6 @@ generated:
   at: 2026-10-07
 evidence_strength: moderate
 newest_evidence: 2005
-source_checked: 2026-10-16
 sources:
   - id: chwen-jen-chen-2005
     resource: "https://doi.org/10.1080/15391523.2005.10782453"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2005 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 > **Design limits** · Chwen Jen Chen 2005: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims

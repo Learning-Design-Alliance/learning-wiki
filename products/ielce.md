@@ -31,7 +31,7 @@ A federally supported adult-education programme administered through state and l
 ### Claims
 - [Adult immigrants' perspectives of learning formats, self-directed learning, and motivation correlate significantly with English skills acquisition and integration](../claims/learning-format-perspectives-correlate-immigrant-integration.md) [+W]
 - [Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults](../claims/older-beginners-excluded-from-standard-adl-esl.md) [~W]
-- [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
+- [Immigrant graduates of a healthcare-aide training program described completing it as raising their confidence and self-esteem, which for some aided settlement and integration in Canada](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -69,7 +69,7 @@ The Integrated English Literacy and Civics Education (IELCE) initiative is a fed
 
 - [Adult immigrants' perspectives of learning formats, self-directed learning, and motivation correlate significantly with English skills acquisition and integration](../claims/learning-format-perspectives-correlate-immigrant-integration.md) [+W]
 - [Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults](../claims/older-beginners-excluded-from-standard-adl-esl.md) [~W]
-- [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
+- [Immigrant graduates of a healthcare-aide training program described completing it as raising their confidence and self-esteem, which for some aided settlement and integration in Canada](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
 
 ## Related Elements
 

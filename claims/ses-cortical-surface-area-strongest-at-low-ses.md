@@ -50,3 +50,4 @@ The Perspective reports, citing Noble and colleagues' structural MRI analysis of
 
 ## Related Claims
 - [The number of conversational turns is more closely associated with children's language skills and language-related brain function than the raw number of words heard, regardless of family income or education.](conversational-turns-predict-language-development.md) — related
+- [Family income is the strongest positive predictor of good academic performance among Haor secondary students](family-income-strongest-predictor-haor-academic-performance.md) — related

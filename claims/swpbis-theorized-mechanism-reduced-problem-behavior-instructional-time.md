@@ -53,3 +53,4 @@ Theoretical argument from the background literature review, not a tested result 
 - [SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related
 - [Randomized controlled trials reviewed in the discussion report positive effects of SWPBIS on behavior problems, school climate, and bullying](swpbis-rct-evidence-discussion.md) — related
 - [SWPBIS reduces the odds of receiving an office discipline referral](swpbis-reduces-office-discipline-referrals.md) — related
+- [Bullying and punitive teacher behavior sharply reduce the odds of good academic performance](bullying-punitive-teacher-behavior-reduce-performance.md) — related

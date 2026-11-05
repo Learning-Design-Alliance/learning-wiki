@@ -30,3 +30,7 @@ Ingested from eric-ed618076 (Logistic Knowledge Tracing: A Constrained Framework
 
 ### 2026-09-25 · ingest · process:wiki-ingest
 Ingested from eric-ed051258 (On Stochastic Approximation.) via eval_harness.py + ingest_extractions.py
+
+### 2026-11-05 · claim · process:article-ingest
+Linked claim from When is deep learning the best approach to knowledge tracing? (Gervet et al., 2020), doi:10.5281/zenodo.4143614
+Linked claim from pyKT: A Python library to benchmark deep learning based knowledge tracing models (Liu et al., 2022), doi:10.52202/068431-1347

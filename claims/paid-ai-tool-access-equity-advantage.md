@@ -45,7 +45,7 @@ Theme 5 (Ethics in Practice) of the focus-group study. Staff compared paid AI ac
 
 
 ## Related Claims
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — a broader claim this one bears on
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — a broader claim this one bears on
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
 - [Access and resource disparities in AI usage widen divides among postsecondary students](student-ai-access-disparities.md) — a broader claim this one bears on
 - [Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools](student-facing-ai-wellbeing-equity-safety-concerns.md) — related

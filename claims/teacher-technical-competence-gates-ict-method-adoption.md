@@ -47,4 +47,4 @@ Authors' interpretation in the Discussion and Recommendations section, not a tes
 ## Related Claims
 - [The study concludes that ICT tools/models help teachers teach effectively compared with traditional/conventional teaching methods](ict-tools-more-effective-than-conventional-methods.md) — related
 - [During ERT, teachers selected technologies based on familiarity, availability, functionality, and technical competence](ert-technology-selection-four-factors.md) — related
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related

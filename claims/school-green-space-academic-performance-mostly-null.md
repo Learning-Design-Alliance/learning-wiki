@@ -50,3 +50,4 @@ Systematic review (PRISMA) of 13 peer-reviewed articles identified via Scopus, W
 - [Green space measured within 2000 m of schools shows more positive associations, while 3000 m or greater buffers show mostly null or negative findings](green-space-distance-buffer-pattern.md)
 - [Positive associations are limited to greenness, tree cover, and green land cover; agriculture, grass, and shrub cover show no positive findings](green-space-type-vegetation-type-pattern.md)
 - [SES moderation of the green space–achievement relationship shows mixed direction across studies, and gender and urbanization moderation findings are largely non-significant](ses-moderation-green-space-mixed.md)
+- [NDVI-measured general greenness shows no statistically significant relationship with test scores at any school level](ndvi-no-significant-relationship-test-scores.md) — a narrower finding that bears on this claim

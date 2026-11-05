@@ -9,6 +9,7 @@ generated:
   at: 2026-09-28
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-05
 sources:
   - id: joshua-wedlock-christopher-binnie-2025
     resource: "https://doi.org/10.55593/ej.29115a5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Structured classroom tasks requiring more mental effort led to higher retention of new lexical items among advanced L2 learners. [→ Joshua Wedlock & Christopher Binnie 2025](#joshua-wedlock-christopher-binnie-2025)

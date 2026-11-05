@@ -62,6 +62,7 @@ The article recommends a blended debrief approach: the four PEARLS phases (react
 - [Enhance poverty simulations with structured debriefings, trained volunteers, and psychological safety guidelines](enhance-simulations-debriefing-volunteer-training.md)
 - [Use the PEARLS Healthcare Debriefing Tool with paired otolaryngology faculty and nurse educator facilitators](pearls-debrief-with-dual-discipline-facilitators.md)
 - [Use structured debriefing questions to ensure learning objectives are met regardless of facilitator experience](structured-debriefing-questions-user-friendly-guide.md)
+- [Structured tutor-guided debriefing to drive reflective observation and abstract conceptualisation](structured-debriefing-reflection-bedside.md)
 
 ## Examples
 -

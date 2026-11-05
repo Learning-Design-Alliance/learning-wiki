@@ -6,15 +6,15 @@ description: "A reusable policy for distributing learning opportunities, preserv
 canonical: true
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-10-19
+  by: "process:article-ingest"
+  at: 2026-11-05
 grain_size: course
 ---
 
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 90 claims (38 for, 47 mixed, 5 against) · 66 studies (34 causal, 14 review, 7 quant-synthesis, 4 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 15 of 66 report an effect size · 85 claims rest on one study
+> **Evidence** · 91 claims (39 for, 47 mixed, 5 against) · 67 studies (35 causal, 14 review, 7 quant-synthesis, 4 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 15 of 67 report an effect size · 86 claims rest on one study
 
 ## Description
 
@@ -111,6 +111,7 @@ Twenty-one more were linked to this page by the orphan-claim linker after that a
 - [Task completion time worsens after training gaps, with efficiency loss evident by six months](../claims/robotic-simulation-efficiency-loss-by-six-months.md) [+W] — attached 2026-11-04 from Nunez-Rocha RE et al. (2026), which proposed "Schedule structured simulation refreshers near the three-month mark to sustain robotic surgical readiness"; tests this page's relationship.
 - [Distributed preclinical practice is associated with higher plaque-removal effectiveness than massed block training in dental students](../claims/distributed-preclinical-training-higher-esp.md) [+W] — attached 2026-11-04 from Glevitzky et al. (2026), which proposed "Distribute preclinical fine-motor skill practice across sessions rather than condensing it into a massed block, because distributed scheduling was associated with higher absolute performance"; tests this page's relationship.
 - [Distributed preclinical practice is associated with roughly twofold odds of complete simulated calculus removal versus massed training](../claims/distributed-training-calculus-removal-or.md) [+W] — attached 2026-11-04 from Glevitzky et al. (2026), which proposed "Distribute preclinical fine-motor skill practice across sessions rather than condensing it into a massed block, because distributed scheduling was associated with higher absolute performance"; tests this page's relationship.
+- [Review scheduled by a model of each student's memory improved end-of-semester retention in a middle-school language course more than massed or uniformly spaced review of the same duration](../claims/personalized-spaced-review-improves-course-retention.md) [+M] — added 2026-11-05 from Lindsey et al. (2014); entry written from the abstract; not yet read against the model above.
 
 ## Elements
 

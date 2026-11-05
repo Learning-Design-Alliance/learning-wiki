@@ -66,3 +66,4 @@ Item-level analysis of experimental-group AT responses on environmental issues. 
 ## Related Claims
 - [Students showed low readiness on ecosystem, biodiversity, and environmental topics, with weakest knowledge of soil formation and food-chain consequences](low-readiness-rt-need-assessment.md) — related
 - [Question difficulty was scored as percentage of correctness, assumed inversely related to difficulty](percentage-correctness-inverse-difficulty.md) — a broader claim this one bears on
+- [At item level, correct answers improved for 43 of 46 knowledge items after the e-learning program, while three negatively worded items decreased and three items remained mostly answered incorrectly](delirium-knowledge-item-level-prepost-changes.md) — related

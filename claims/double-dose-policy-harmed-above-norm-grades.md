@@ -8,13 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
-newest_evidence: 2008
-source_checked: 2026-10-15
+newest_evidence: 2009
 sources:
-  - id: takako-nomi-and-elaine-m-allensworth-2008
-    resource: "http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739"
-    title: "Takako Nomi and Elaine M. Allensworth. (2008). “Double-dose” Algebra as an Alternative Strategy to Remediation: Effects on Students’ Academic Outcomes. Consortium on Chicago School Research, University of Chicago. http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739"
-    author: Takako Nomi and Elaine M. Allensworth
+  - id: nomi-allensworth-2009
+    resource: "https://doi.org/10.1080/19345740802676739"
+    title: "Nomi, T., & Allensworth, E. (2009). “Double-dose” algebra as an alternative strategy to remediation: Effects on students’ academic outcomes. *Journal of Research on Educational Effectiveness, 2*(2), 111–148. [doi:10.1080/19345740802676739](https://doi.org/10.1080/19345740802676739)"
+    author: "Nomi, T., & Allensworth, E."
     q: 3
     i: "?"
     kind: causal
@@ -25,17 +24,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2008 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
-> **Design limits** · Takako Nomi and Elaine M. Allensworth 2008: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Nomi & Allensworth 2009: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
-`q3 i?` Among above-norm students, algebra GPAs declined by .12 points on average and failure rates increased by four percentage points from 2002 to 2003. [→ Takako Nomi and Elaine M. Allensworth 2008](#takako-nomi-and-elaine-m-allensworth-2008)
+`q3 i?` Among above-norm students, algebra GPAs declined by .12 points on average and failure rates increased by four percentage points from 2002 to 2003. [→ Nomi & Allensworth 2009](#nomi-allensworth-2009)
 
 ## Evidence
 
-### Takako Nomi and Elaine M. Allensworth 2008
+### Nomi & Allensworth 2009
 
-Takako Nomi and Elaine M. Allensworth. (2008). “Double-dose” Algebra as an Alternative Strategy to Remediation: Effects on Students’ Academic Outcomes. Consortium on Chicago School Research, University of Chicago. http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739
+Nomi, T., & Allensworth, E. (2009). “Double-dose” algebra as an alternative strategy to remediation: Effects on students’ academic outcomes. *Journal of Research on Educational Effectiveness, 2*(2), 111–148. [doi:10.1080/19345740802676739](https://doi.org/10.1080/19345740802676739)
 
 `q3 · i?` · `causal · r2`
 

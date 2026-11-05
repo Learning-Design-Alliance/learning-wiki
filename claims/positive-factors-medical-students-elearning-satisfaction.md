@@ -70,3 +70,4 @@ Same synthesis section: each of these design- and delivery-related factors was r
 - [Age, clinical year, and stress perception showed negative and significant relationships with medical students' e-learning satisfaction during the COVID-19 pandemic](negative-factors-age-clinical-year-stress-elearning-satisfaction.md) — related
 - [Learners reported higher perceived learning and satisfaction and lower mental effort with the instructor video, despite no performance gains — a perception-performance gap](instructor-presence-perception-performance-gap.md) — related
 - [Resilience correlates positively with satisfaction domains; pandemic-related concerns associate with lower satisfaction](resilience-satisfaction-correlations.md) — related
+- [Lecturers frequently accompanied students in clinical practice, but only about half agreed lecturers dedicated adequate time](lecturer-clinical-involvement-time-concerns.md) — related

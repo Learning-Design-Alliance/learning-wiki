@@ -9,7 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2019
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: zou-2019
     resource: "https://doi.org/10.5539/elt.v12n12p39"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Retention studies show all groups lose some gains in the long run, and a short study-test lag combined with delayed feedback leads to better word retention than immediate feedback. [→ Zou 2019](#zou-2019)
@@ -67,7 +67,7 @@ The review reports, citing Lee and Pulido (2017), that vocabulary growth from pa
 
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — the general claim this finding bears on, with the studies behind it
 
-- [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — the general claim this finding bears on, with the studies behind it
+- [A review reports that in three cued-recall studies pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — the general claim this finding bears on, with the studies behind it
 - [Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone](combined-intentional-incidental-greater-gains.md) — related
 - [Digital game-based learning supports long-term retention of second-language vocabulary](dgbl-long-term-vocabulary-retention.md) — reports the opposite
 - [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](reading-versus-listening-incidental-vocabulary-gains.md) — related

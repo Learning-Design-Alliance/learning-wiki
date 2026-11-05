@@ -47,7 +47,7 @@ Pilot observation during prompt development, reported in the Methodology. Both p
 
 ## Related Claims
 - [The general-purpose platform scored higher in early EDBL stages while the education-focused platform scored higher in feedback-intensive iterative stages](ai-platforms-diverge-early-versus-iterative-edbl-stages.md) — related
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
 - [Both AI platforms received their lowest expert ratings in engineering skills, indicating a shared limitation in supporting iterative design competencies](ai-lesson-plans-weakest-in-engineering-skills.md) — related

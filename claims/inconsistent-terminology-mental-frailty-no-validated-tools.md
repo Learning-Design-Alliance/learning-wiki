@@ -51,3 +51,4 @@ Thematic analysis across the 20 included sources in this scoping review. The rev
 - [Instruments show conceptual inconsistency: the same terms label different competence aspects, and disciplinary origin does not significantly correlate with definition or terminology choice](inconsistent-terminology-competence-aspects-autism-instruments.md) — related
 - [Pharmacists have limited frailty knowledge, recognizing mainly physical aspects](pharmacists-limited-frailty-knowledge-physical-aspects.md) — related
 - [Frailty education is most effective when it combines practical strategies with online and face-to-face demonstrations or mentoring](blended-practical-frailty-education-effective.md) — related
+- [The 2025 ETR expands the geriatric medicine knowledge base, including frailty identification tools, validated prescribing tools, and integrated care frameworks](etr2025-expanded-knowledge-base.md) — related

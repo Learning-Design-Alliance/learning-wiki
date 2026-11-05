@@ -50,3 +50,4 @@ Multiple linear regression study of 730 university students who completed the PA
 - [The present results replicate Donati et al.'s (2019) finding that interference and lack of confidence, but not worry, relate to arithmetic test performance, extending it to unique variance and domain-general intelligence](replication-donati-interference-lack-confidence.md) — possibly the same claim (merge candidate)
 - [Worry did not explain unique variance in students' test performance or mathematics grade, challenging the worry-based explanation of the test anxiety-performance link](worry-no-unique-variance-performance.md) — related
 - [No evidence for a curvilinear relationship between arousal and test performance](no-curvilinear-arousal-performance.md) — related
+- [Worry is the only anxiety measure positively linked with school grades after controlling for other anxieties](worry-positively-predicts-grades.md) — reports the opposite

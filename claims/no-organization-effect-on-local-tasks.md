@@ -47,7 +47,7 @@ Experiment 1 null result: t-tests on the composite scores for all local tasks, w
 ## Related Claims
 
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — the general claim this finding bears on, with the studies behind it
-- [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
+- [In one physics experiment, the hierarchical-organization advantage was significant for medium-ability but not low-ability subjects; no ability-by-treatment interaction was reported](ability-moderates-hierarchical-organization-benefit.md) — related
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — related
-- [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related
+- [No hierarchical organization is best for every task: students given organization A did better on deductive tasks and those given organization B on historical tasks](organization-task-match-determines-benefit.md) — related
 - [Hierarchical top-down schema-based instruction improved transfer performance compared with single-level and control instruction](hierarchical-schema-instruction-transfer.md) — related

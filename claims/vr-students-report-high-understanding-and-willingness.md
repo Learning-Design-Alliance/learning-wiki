@@ -50,3 +50,4 @@ Voluntary anonymous 5-point Likert-type perception questionnaire administered on
 - [All participants were satisfied with VR training, and most preferred combined instructor-led plus VR instruction and did not believe VR could replace instructor-led explanation](post-training-perceptions-combined-instruction-preferred.md) — related
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
 - [Placement participation was elective and self-selected, attracting students more comfortable with teaching's interpersonal demands](anatomy-ems-self-selection-bias.md) — related
+- [Residents strongly prefer VR as an adjunct to conventional training rather than a replacement (89% support adjunct use; only 3.4% prefer VR alone)](residents-prefer-vr-as-adjunct.md) — related

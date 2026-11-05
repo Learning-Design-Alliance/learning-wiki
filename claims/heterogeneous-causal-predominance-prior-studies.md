@@ -56,3 +56,5 @@ Narrative review (Table 1) of prior longitudinal SEM studies (e.g., Byrne 1986; 
 - [Models using a single achievement indicator (marks or tests alone) yield a reciprocal self-concept–achievement pattern, unlike integrated models](single-indicator-reciprocal-pattern.md) — a narrower finding that bears on this claim
 - [Cross-lagged relations among self-concept and value constructs remain stable when controlling for domain-specific achievement measured by school grades](relations-stable-controlling-school-grades.md) — a narrower finding that bears on this claim
 - [Growth mindset prior to training predicted post-training math skills in the training group but not in controls](pretraining-mindset-predicts-posttraining-math.md) — related
+- [The GI/E model relations among achievement, self-concept, and intrinsic value are invariant across gender groups](gender-invariance-gie-model-music-visual-arts.md) — related
+- [Individual students' error counts varied from pretraining to posttraining, with 12 students making more errors after training than before](individual-variability-training-response.md) — related

@@ -49,3 +49,4 @@ Weighted pooled success rates from the same three‐study random‐effects meta�
 - [Root canal treatment by undergraduate students succeeds more often in teeth with vital pulps (87.8%) than necrotic pulps (65.6%)](student-rct-vital-vs-necrotic-success.md) — related
 - [Pooled risk difference across 11 student‐clinic studies is 0.43 but with considerable heterogeneity (I² = 93%)](student-rct-pooled-risk-difference-heterogeneous.md) — a broader claim this one bears on
 - [Anterior and pre‐molar teeth show higher student treatment success rates (82.2% and 79.4%) than molars (68.7%)](student-rct-tooth-type-success-gradient.md) — related
+- [Supervised endodontic microsurgery performed by a VR-haptic-trained resident achieved complete periapical healing at 1-year follow-up in this case](vr-trained-resident-one-year-healing.md) — related

@@ -46,7 +46,7 @@ RQ2 analysis of Table 5 categorises four ethical challenge types across the 18 c
 
 
 ## Related Claims
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [Little attention has been paid to the undesirable consequences of indiscriminate AI application, including automation-driven socio-economic inequality](k12-ai-literacy-neglects-undesirable-consequences.md) — related
 - [Remote interventions were being considered as a means to support equity and inclusion during COVID disruptions](remote-interventions-equity-inclusion-covid.md) — related
 - [Single-person images are significantly biased toward light-skinned individuals, while multi-person images show more balanced gender and skin-tone diversity](image-skin-tone-and-group-diversity-bias.md) — related

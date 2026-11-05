@@ -140,3 +140,5 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 - [Going back to easier skills immediately reduces the error rate and increases the learning rate](going-back-improves-error-rate-and-learning-rate.md) — related
 - [Virtual simulation teaching enhances learning outcomes and deepens professional cognition through repeated practice, trial-and-error, and error-correction feedback](vs-advantages-learning-outcomes.md) — related
 - [Elaborate feedback produces larger achievement effects than corrective feedback in computer-based assessment](elaborate-feedback-larger-effects-than-corrective-cba.md) — related
+- [Voluntary practice quizzes plus a true/false summative test alone (step I) produced no measurable knowledge improvement](step-i-quizzes-no-knowledge-improvement.md) — related
+- [Elaborated autograded quizzes with clinical contexts and constructive alignment (step II) increased medical students' pharmacotherapeutic knowledge](step-ii-quizzes-increase-pharmacotherapeutic-knowledge.md) — related

@@ -77,3 +77,4 @@ Subgroup analysis of studies published before 2023, prior to the LLM era: the re
 - [Technical limitations including delayed responses and transcription errors constrained AIVP realism and rapport-building](aivp-technical-limitations-constrained-realism.md) — possibly the same claim (merge candidate)
 - [LLM-based virtual patients predominantly lack emotional depth or expressions of concern, lowering Personal dimension ratings](lack-emotional-depth-lowers-personal-ratings.md) — a narrower finding that bears on this claim
 - [Coherence is the weakest Dialogue Authenticity Scale dimension for LLM-based virtual patients, compromised by limited inferential reasoning and role-constraint violations](coherence-weakest-dimension-limited-inferential-reasoning.md) — a narrower finding that bears on this claim
+- [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — reports the opposite

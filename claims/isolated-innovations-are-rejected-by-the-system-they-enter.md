@@ -1,6 +1,6 @@
 ---
 type: claim
-title: An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.
+title: An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.
 id: isolated-innovations-are-rejected-by-the-system-they-enter
 aliases: [innovation-bundle-coherence-beats-single-innovation]
 description: Ellsworth's survey of educational change models concludes that a single innovation incompatible with the system it enters may be rejected, and that success depends on a coordinated bundle of innovations, usually affecting several stakeholder groups, that leaves a coherent system.
@@ -21,11 +21,12 @@ sources:
     rigour: 2
 ---
 
-# An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.
+# An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
 > **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
+<!-- title before 2026-11-05 (the source says "may be rejected", a possibility, not a tendency): An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations. -->
 
 "Innovation" here covers new technologies, teaching approaches and designs being introduced into a school, programme or organisation. The claim is about adoption and persistence, not about whether the innovation works where it is used.
 

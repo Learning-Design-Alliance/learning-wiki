@@ -54,3 +54,5 @@ Mini-CEX assessment after eight subspecialty rotations in the randomized trial. 
 - [Humanistic care-integrated Mini-CEX teaching does not improve operational/practical skills assessment scores over conventional teaching](mini-cex-humanistic-care-no-operational-skills-gain.md) — related
 - [End-of-rotation OSCE total score correlated moderately with FCB-CHOPS (r = 0.61) and mini-CEX (r = 0.48), indicating overlapping but non-identical constructs](osce-correlates-fcb-chops-mini-cex.md) — related
 - [AI-assisted CBL+FC residents show superior overall clinical competence on Mini-CEX compared with lecture controls](ai-assisted-cbl-fc-minicex-overall-competence.md) — related
+- [Integrated clinical pathway and case-based teaching yields higher Mini-CEX clinical skills scores than traditional teaching](clinical-pathway-cbt-higher-mini-cex-scores.md) — a broader claim this one bears on
+- [Integrated clinical pathway and case-based teaching yields higher post-training theoretical examination scores than traditional teaching in endocrinology residency](clinical-pathway-cbt-higher-theoretical-scores.md) — related

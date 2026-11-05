@@ -52,3 +52,4 @@ Three-round Delphi study with 69 initial participants, of whom 43 (62%) complete
 - [Participants proposed 103 additional competencies in round one, of which 90 (87.4%) achieved consensus in round two](delphi-90-of-103-participant-suggested-competencies-achieved-consensus.md) — related
 - [The expert panel proposed 68 initial competencies divided into psychological foundations, psychiatric disorders, and systems-based practice.](68-initial-competencies-three-categories.md) — related
 - [A two-round modified Delphi process with a 36-physician voting panel finalized 32 high-priority mental health competencies for HPM physicians.](delphi-finalized-32-mental-health-competencies.md) — related
+- [A three-round Delphi panel of 47 SMHPs reached consensus on 151 competencies for interdisciplinary collaboration](delphi-consensus-151-competencies.md) — related

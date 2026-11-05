@@ -51,3 +51,4 @@ Quantitative component of a descriptive mixed-methods study: 103 second-year nur
 - [In a 16-rater usability survey after a session, CoLearn scores an overall mean of 4.0/5 with no dimension below ≈3.7, and 75% (12/16) would reuse it; Responsiveness is the lowest dimension](collearn-usability-survey-4-of-5.md) — related
 - [Students assigned the highest clinical education scores to instructor performance and monitoring and evaluation, and the lowest to the learning environment.](instructor-monitoring-highest-environment-lowest-scores.md) — related
 - [Most nurses expressed satisfaction with the AMS course content and its relevance to everyday practice](nursing-ams-course-satisfaction-relevance.md) — related
+- [INACSL-standard-based training improves perceived simulation design, especially objectives/information and guided reflection/feedback](inacsl-simulation-improves-design-perceptions.md) — related

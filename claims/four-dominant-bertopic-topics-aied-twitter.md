@@ -69,3 +69,4 @@ BERTopic analysis of the tweet corpus after c-TF-IDF outlier reassignment (outli
 - AIED ethics publication output is concentrated in Europe, led by the United Kingdom (47%) and Finland (20%) — related
 - AIED ethics discussions are dominated by Science (over 50%) with scarce humanities and arts coverage — related
 - Research priorities in AWE have shifted from technical validation toward pedagogical integration and ethical considerations (2015–2024) — related
+- [BERTopic clustering of medical documents produced highly distinct topics rated highly by medical experts](bertopic-clustering-high-quality-topics.md) — related

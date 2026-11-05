@@ -55,6 +55,7 @@ The article recommends delivering innovative interventions through students' usu
 - [Provide a programme manual plus mentoring and support before scaling up a teacher-developed physical activity intervention](manual-and-mentoring-before-full-trial.md)
 - [Deliver TAS as an embedded classroom intervention with teacher training, matched control, and withdrawal phase to test motivation effects](tas-embedded-quasi-experimental-intervention-strategy.md)
 - [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
+- [Integrate brief classroom-based SRL strategy training into regular math instruction](integrate-srl-training-into-regular-math-instruction.md)
 
 ## Examples
 -

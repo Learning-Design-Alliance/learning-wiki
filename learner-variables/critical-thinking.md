@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 184 claims (132 show a difference, 32 mixed, 20 no difference) · 122 studies (61 causal, 22 review, 13 associational, 8 quant-synthesis, 7 theoretical, 6 design, 5 qualitative), `q1`–`q3` · 26 of 122 report an effect size · 182 claims rest on one study
+> **Evidence** · 188 claims (134 show a difference, 34 mixed, 20 no difference) · 124 studies (62 causal, 22 review, 14 associational, 8 quant-synthesis, 7 theoretical, 6 design, 5 qualitative), `q1`–`q3` · 27 of 124 report an effect size · 186 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -69,7 +69,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](../claims/checklist-evaluation-ineffective-online.md) [-M] — instruction changes it
 - [A systematic review reports that over-reliance on AI dialogue systems fosters complacency and dependency and may weaken students' decision-making](../claims/ai-overreliance-impairs-decision-making.md) [+M] — instruction changes it
 - [Over-reliance on AI dialogue systems reduces students' critical and analytical thinking skills, especially when they become overly dependent on AI-generated content](../claims/overreliance-ai-dialogue-reduces-critical-analytical-thinking.md) [+M] — instruction changes it
-- [Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners](../claims/peer-feedback-soft-evaluative-judgement-statistics.md) [~M] — instruction changes it
+- [Peer feedback promoted critical reflection, collaboration and engagement, but one interviewed student doubted its reliability because peers were statistics beginners](../claims/peer-feedback-soft-evaluative-judgement-statistics.md) [~M] — instruction changes it
 - [Problem-based learning environments consistently improve students' critical thinking compared with lecture-based instruction](../claims/pbl-consistently-improves-critical-thinking.md) [+M] — instruction changes it
 - [Proposition 2: mutual evaluation emphasizing reasons and responsive comparison will improve evaluative judgment more than unexplained self-rating](../claims/proposition-2-mutual-evaluation-improves-judgment.md) [+W] — instruction changes it
 - [Prospective teachers' critical thinking dispositions are positively and moderately correlated with their preference for contemporary educational philosophy](../claims/critical-thinking-dispositions-correlate-contemporary-educational-philosophy.md) [+M] — learners who differ on it differ in outcomes
@@ -225,6 +225,10 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Higher critical thinking scores predict membership in higher medication safety competence profiles](../claims/critical-thinking-predicts-medication-safety-competence-profile.md) [+M] — learners who differ on it differ in outcomes
 - [Scenario-based simulation ward rounds combined with video feedback improve critical thinking disposition in gastroenterology residents](../claims/simulation-ward-rounds-video-feedback-improve-critical-thinking.md) [+M] — measured as an outcome of the instruction studied
 - [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](../claims/debriefing-higher-critical-thinking-disposition.md) [+M] — measured as an outcome of the instruction studied
+- [All critical thinking subscales except inquisitiveness improved after DBSS; inquisitiveness showed no significant change](../claims/dbss-cctdi-subscales-except-inquisitiveness-improve.md) [~W] — measured as an outcome of the instruction studied
+- [Self-rated critical thinking disposition scores of nurse anesthetists rose from the measurement after traditional teaching to the measurement after DBSS in one group with no comparison group, though both values remained below the positive-disposition threshold](../claims/dbss-improves-na-critical-thinking-disposition.md) [~W] — measured as an outcome of the instruction studied
+- [Critical thinking positively predicts academic competence among Chinese college students](../claims/critical-thinking-predicts-academic-competence-chinese-college.md) [+W] — learners who differ on it differ in outcomes
+- [Critical thinking positively predicts academic engagement, an effect the authors grade as large](../claims/critical-thinking-predicts-academic-engagement.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

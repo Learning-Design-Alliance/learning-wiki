@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: de-jesus-m-m-2026
     resource: "https://doi.org/10.1187/cbe.25-07-0154"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM. [→ De Jesus M. M. 2026](#de-jesus-m-m-2026)

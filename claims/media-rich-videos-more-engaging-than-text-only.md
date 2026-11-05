@@ -50,7 +50,7 @@ The article reports, citing Teng et al. (2009), a study of 113 students on YouTu
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
 - [Voice modality roughly doubled dialogue turns and question-asking on equal engaged time within the same students](voice-doubles-turns-and-questions-equal-engaged-time.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
-- [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — related
+- [In one 37-student classroom experiment, learning scores differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — related
 - [Four of six activity groups are rated better in multimedia format, but quizzes and picture descriptions are rated equally across formats](activity-format-moderates-motivational-ratings.md) — related
 - [Media effects on learning are not homogeneous across knowledge categories](media-effects-vary-by-knowledge-category.md) — related
 - [The modality of oral explaining (audio + video vs. audio only) does not substantially affect learning outcomes in learning by digital explaining](modality-of-oral-explaining-no-substantial-difference.md) — related

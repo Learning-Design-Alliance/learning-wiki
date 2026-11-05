@@ -69,3 +69,4 @@ Subtest-level meta-analysis (Table 2) of the Matrix reasoning subtest across 5 s
 - [Gender differences on WISC working memory (gSM) are negligible and not statistically significant](wisc-working-memory-no-gender-difference.md) — related
 - [The focus of attention factor was the only significant predictor of both fluid reasoning and visual processing intelligence when all three working memory factors were entered](focus-of-attention-predicts-gf-gv-children.md) — related
 - [Females outperform males on WISC processing speed (gS) with a medium advantage (d = -0.37), larger for Coding than Symbol search](wisc-processing-speed-female-advantage.md) — related
+- [Gender and expertise domain are the most robust grade predictors; females outperform males in 9 of 13 subjects with negligible effects](gender-and-expertise-robust-grade-predictors.md) — related

@@ -48,3 +48,4 @@ Descriptive analysis of a Qualtrics Likert-scale survey completed by 25 students
 - [GenAI tutorials took longer than ePBLM tutorials, with approximately 10 additional minutes spent on history-taking](genai-history-taking-longer-tutorial-time.md) — related
 - [Most role-play-group students report the activity improved their history-taking skills and confidence communicating with real patients](role-play-student-questionnaire-perceived-benefits.md) — related
 - [Intervention improves information gathering, hypothesis generation, and differential diagnosis but not treatment planning](genai-cbl-reasoning-dimensions.md) — related
+- [Use of the AI virtual patient tool was associated with improved self-perceived structured diagnostic approach, initial-diagnosis confidence, and patient-explanation confidence](ai-virtual-patient-structured-approach-gains.md) — related

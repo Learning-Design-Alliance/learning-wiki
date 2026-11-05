@@ -47,3 +47,4 @@ Moderator analysis comparing second language (ESL) and foreign language (EFL) le
 ## Related Claims
 - [Sample size does not significantly moderate the gloss effect: large studies (ES = 0.88) versus small studies (ES = 0.72) do not differ significantly](sample-size-not-significant-gloss-moderator.md) — related
 - [Research design does not significantly moderate the gloss effect: randomized (ES = 1.16) versus matched (ES = 0.71) studies do not differ significantly](research-design-not-significant-gloss-moderator.md) — related
+- [Book desert severity does not significantly moderate the book distribution treatment effect, though marginal effects differ descriptively](book-desert-moderator-null.md) — related

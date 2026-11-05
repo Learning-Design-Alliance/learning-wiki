@@ -47,6 +47,6 @@ The review reports a meta-analysis of quantitative achievement improvement for t
 ## Related Claims
 - [A meta-analysis of 40 studies reports elaborated feedback in computer-based learning environments yields an overall effect size of 0.49 (attributed to Van der Kleij et al. 2015)](elaborated-feedback-effect-size-0-49.md) — possibly the same claim (merge candidate)
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
-- [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — related
+- [A review reports that in three cued-recall studies pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — related
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - [Feedback combining metacognitive information with performance and correctness information outperforms no or corrective feedback](metacognitive-plus-correctness-feedback-greater-effects.md) — related

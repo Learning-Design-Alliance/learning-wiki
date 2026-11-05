@@ -48,3 +48,4 @@ Between-group comparisons on the 20-item, five-subscale Aesthetics of Nursing Ca
 - [The aesthetics-based educational intervention significantly increased psychiatric nurses' overall compassion competence compared with controls](aesthetics-training-increases-compassion-competence.md) — a broader claim this one bears on
 - [An aesthetics-based educational intervention significantly increased psychiatric nurses' overall aesthetic nursing care scores compared with a control group one month after training](aesthetics-training-increases-aesthetic-care-psychiatric-nurses.md) — a broader claim this one bears on
 - [The intervention improved all three compassion competence subscales—communication, sensitivity, and insight—with large effect sizes](compassion-competence-subscales-improved.md) — a narrower finding that bears on this claim
+- [Human-machine collaboration enhances the humanistic care role of emergency nurses](hmc-enhances-nurses-humanistic-care-role.md) — related

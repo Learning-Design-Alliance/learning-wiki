@@ -71,3 +71,4 @@ SEM results (Table 3) show supported paths from mastery-approach (β = 0.312), p
 - [Performance-avoidance goals negatively predict both self-concept and self-efficacy across all three grade levels](performance-avoidance-goals-negative-self-beliefs.md) — related
 - [Mastery-approach goals are positively related to time management, while performance-approach relations are inconsistent and performance-avoidance goals show no association](mastery-approach-goals-time-management.md) — related
 - [Mastery-approach and performance-approach goal instructions do not interact on learning outcomes in game-based learning](goal-instructions-no-interaction-gbl.md) — related
+- [Class environment mediates perceived teacher support and learning engagement, though its path to engagement is significant in some goal models but not others](class-environment-mediation-engagement-mixed.md) — related

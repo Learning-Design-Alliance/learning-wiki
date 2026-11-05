@@ -60,3 +60,4 @@ Sentiment analysis of open-ended survey responses conducted by ChatGPT4, which t
 - [Participants held positive attitudes toward Web-based reading strategy instruction](positive-attitudes-toward-web-based-strategy-instruction.md) — related
 - [Students overwhelmingly reported that animation use positively affected their grammar success, citing permanence, repetition, understanding, interest and participation](students-report-animation-aided-success.md) — related
 - [Participant satisfaction with the AISP platform was overwhelmingly positive, with perceived cultural safety](aisp-positive-satisfaction.md) — related
+- [VSG students reported predominantly positive views of the game, with technical glitches the most common criticism](vsg-student-opinions-positive-with-technical-glitches.md) — a narrower finding that bears on this claim

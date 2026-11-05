@@ -53,3 +53,4 @@ ANOVA on the achievement test of the same 40-student randomized experiment teste
 - [Posttest scores differed significantly across the four gender-by-instruction subgroups in a one-way ANOVA](anova-four-subgroups-thanking-significant.md) — related
 - [In a Neurological Impress Method study, boys with learning disabilities outscored girls on post-test reading fluency in both the NIM and control groups, and the study did not show that NIM's effect differed by gender](nim-reading-fluency-gender-difference.md) — related
 - [A three-way ANOVA found no significant interaction between posttest Awareness scores, treatment group, and gender, but a significant main effect for treatment group](dlist7-three-way-anova-awareness-treatment-gender.md) — related
+- [The four Solomon design groups showed no statistically significant difference in gender distribution (χ² = 2.849; p = .416)](gender-balance-four-groups-chi-square.md) — related

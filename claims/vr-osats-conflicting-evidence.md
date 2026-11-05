@@ -45,7 +45,7 @@ The review's discussion section reports heterogeneous findings across included s
 
 
 ## Related Claims
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — related
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — related
 - [VR-enhanced basic robotic skills training sometimes required more training repetitions than conventional training to reach equivalent proficiency](vr-training-more-repetitions-to-proficiency.md) — related
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — a broader claim this one bears on
 - [Adjunctive VR classroom training produces higher validated robotic skills scores than self-directed simulator learning alone in novice trainees](vr-classroom-training-higher-rosats-novices.md) — related

@@ -54,3 +54,4 @@ Review synthesis of McClure's (2024) quantitative cohort comparison (n = 181 acr
 - [Student anxiety under remote proctoring is mixed: some students report reduced anxiety from home comfort and no travel, while others face anxiety from connectivity issues and fear of wrongful accusations](mixed-anxiety-remote-proctored-exams.md) — related
 - [A 6-week NCLEX Coaching Model showed no significant first-time pass-rate improvement but significantly improved confidence/readiness scores (Schlairet & Rubenstein, 2019)](nclex-coaching-model-confidence-readiness-gains.md) — related
 - [Remote proctoring shows no statistically significant performance differences versus test centres](remote-proctoring-no-performance-difference.md) — reports the opposite
+- [Remote versus in-person EF assessment did not differ on accuracy indices, though time scores differed and were excluded](remote-ef-assessment-accuracy-equivalence-time-excluded.md) — reports the opposite

@@ -49,3 +49,4 @@ Scoping review following PRISMA-ScR of 20 sources (2014–2025), thematically an
 - [In a Brazilian study, only 29.1% of primary care professionals correctly cited a frailty assessment](brazilian-study-29-percent-cited-frailty-assessment.md) — related
 - [Terminology and definitions of mental frailty are inconsistent and validated primary-care identification tools are lacking](inconsistent-terminology-mental-frailty-no-validated-tools.md) — related
 - [Pharmacists have limited frailty knowledge, recognizing mainly physical aspects](pharmacists-limited-frailty-knowledge-physical-aspects.md) — a narrower finding that bears on this claim
+- [The 2025 ETR expands the geriatric medicine knowledge base, including frailty identification tools, validated prescribing tools, and integrated care frameworks](etr2025-expanded-knowledge-base.md) — related

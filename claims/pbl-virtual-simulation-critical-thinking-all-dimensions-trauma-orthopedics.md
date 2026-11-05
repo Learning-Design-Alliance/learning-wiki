@@ -54,3 +54,4 @@ Dimension-level critical thinking results in the same assessor-blinded RCT of 50
 - [Integrated model raises satisfaction, clinical thinking, practical skill self-ratings and engagement, with no difference in resource utilization](microskills-cptm-questionnaire-engagement.md) — related
 - [Humanistic care-integrated Mini-CEX teaching improves humanistic care ability across cognition, courage, and patience dimensions](mini-cex-humanistic-care-ability-gains.md) — related
 - [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related
+- [All critical thinking subscales except inquisitiveness improved after DBSS; inquisitiveness showed no significant change](dbss-cctdi-subscales-except-inquisitiveness-improve.md) — reports the opposite

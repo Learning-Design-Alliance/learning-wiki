@@ -59,6 +59,7 @@ To address scalability, the authors recommend that "future implementations in re
 - [Phased implementation strategy for robot-assisted training to distribute costs](phased-implementation-robot-training-strategy.md)
 - [Use video recording and post-session video review to support skill retention and self-directed review](video-recording-review-for-skill-retention.md)
 - [Scale CBL-FC to larger classes using online pre-class materials, teaching-assistant facilitation, and cross-department faculty collaboration](cbl-fc-scaling-strategy-tas-online-preclass.md)
+- [Scale simulator-based POCUS training to large cohorts through blended strategies](blended-scaling-pocus-training-large-cohorts.md)
 
 ## Examples
 -

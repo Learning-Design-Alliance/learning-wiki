@@ -53,6 +53,7 @@ The article recommends that collaborative simulation "should not be restricted t
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Sequence virtual simulation before authentic video across skill-development stages in teacher observation training](sequence-vs-then-av-teacher-training.md)
 - [Integrate simulation-based learning into interprofessional curricula to cultivate collaboration early in training](integrate-sbl-into-interprofessional-curricula.md)
+- [Staged hybrid model: programmed instruction for foundational skills, then case-based scenarios for clinical reasoning](staged-hybrid-programmed-instruction-case-based.md)
 
 ## Examples
 -

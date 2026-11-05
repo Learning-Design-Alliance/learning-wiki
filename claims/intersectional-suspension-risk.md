@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-16
+source_checked: 2026-11-05
 recheck_by: 2027
 sources:
   - id: leung-gagné-2022
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: baselines and conditions change
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` School level, gender, race, and disability status together substantially impact suspension risk, ranging from 0.1% to 27% in 2017–18. [→ Leung-Gagné 2022](#leung-gagne-2022)

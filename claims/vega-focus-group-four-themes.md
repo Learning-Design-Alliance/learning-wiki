@@ -52,3 +52,4 @@ Inductive content analysis of four online focus group interviews, each about 60 
 - [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](aisp-focus-group-three-themes.md) — related
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
 - [Focus group interviews identified accurate weak-point localization (12 of 12 students), clearer cross-chapter connections (10 students), and time-saving intelligent Q&A (8 students) as core positive themes](ai-kg-qualitative-focus-group-themes.md) — related
+- [Interviews with intervention-group interns yield 9 core themes in four clusters about how situational simulation with CBL supported learning](qualitative-nine-themes-four-clusters-simulation-cbl.md) — related

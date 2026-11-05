@@ -51,3 +51,4 @@ Review-level moderator analysis of training schedule across included studies: sp
 - [Significant patient-safety improvements were found in 80% of comparative virtual reality simulation studies for cataract surgery training](vrs-comparative-studies-safety-improvements.md) — related
 - [Condensed TeamSTEPPS training coupled with simulation exercises reduced weighted adverse outcome scores, whereas training alone did not](simulation-plus-teamtraining-reduced-adverse-outcomes.md) — related
 - [Complication rates did not differ significantly between pre- and post-training periods](no-significant-complication-change-after-porcine-training.md) — related
+- [The authors report that VR surgical training may improve operator performance and reduce surgical complication rates relative to animal and cadaver model outcomes, while impact on clinical competency remains controversial](vr-training-performance-and-controversy.md) — related

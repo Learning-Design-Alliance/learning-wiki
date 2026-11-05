@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2018
+source_checked: 2026-11-05
 sources:
   - id: darcy-2018
     resource: "https://doi.org/10.5070/b5.35963"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article reports, citing Charles and Trenkic (2015), that learners exposed to bimodal input (a video with captions) improved their listening skills relative to a control group, with improvement generalizing to unfamiliar sentences and speakers. [→ Darcy 2018](#darcy-2018)

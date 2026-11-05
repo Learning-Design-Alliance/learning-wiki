@@ -47,7 +47,7 @@ Survey ANOVA results for RQ3 (n = 72 non-user subgroup): significant reasons inc
 ## Related Claims
 - [Chatbot users held more positive attitudes and reported greater perceived knowledge gains than non-users](chatbot-users-more-positive-than-non-users.md) — related
 - [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related
 - [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](students-oppose-ai-videos-replacing-instructors.md) — related
 - [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related

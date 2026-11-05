@@ -5,8 +5,8 @@ description: Classroom quizzing delivered by clickers, computer software, or pap
 id: classroom-quizzing-improves-exam-performance-across-grades-and-content
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-09-24
+  by: "process:article-ingest"
+  at: 2026-11-05
 evidence_strength: weak
 newest_evidence: 2017
 sources:
@@ -115,6 +115,7 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 ## Discussion
 
 ## Related Claims
+- [Review scheduled by a model of each student's memory improved end-of-semester retention in a middle-school language course more than massed or uniformly spaced review of the same duration](personalized-spaced-review-improves-course-retention.md) — the primary study this claim cites at second hand
 
 - [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](classroom-quizzing-medium-effect-achievement.md) — the general claim this finding bears on, with the studies behind it
 

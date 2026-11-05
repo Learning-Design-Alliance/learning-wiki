@@ -117,3 +117,4 @@ Umbrella review reports the Li et al. meta-analysis of 76 RCTs in Chinese standa
 - [PBL improves skill scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 1.46)](pbl-skill-scores-chinese-physical-diagnostics-meta-analysis.md) — a narrower finding that bears on this claim
 - [PBL-CBL combined teaching improves post-class case analysis scores compared with traditional lecture-based teaching in gynecology residents](pbl-cbl-improves-case-analysis-scores-gynecology-residents.md) — related
 - [In the same RCT, no significant between-group differences were observed in baseline theoretical knowledge or clinical skills scores before teaching](pbl-virtual-simulation-no-baseline-differences-trauma-orthopedics.md) — related
+- [Situational simulation with CBL produces higher hands-on CPR skill scores than traditional teaching in pediatric interns](simulation-cbl-higher-hands-on-cpr-scores-pediatric-interns.md) — related

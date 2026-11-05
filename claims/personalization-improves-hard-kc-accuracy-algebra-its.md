@@ -9,7 +9,6 @@ generated:
   at: 2026-10-14
 evidence_strength: moderate
 newest_evidence: 2013
-source_checked: 2026-10-16
 sources:
   - id: walkington-2013
     resource: "https://doi.org/10.1037/a0031882"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2013 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students receiving interest-personalized problems performed significantly better than controls on hard KCs involving writing symbolic expressions in Unit 6 (odds = 1.53, p < .001). [→ Walkington 2013](#walkington-2013)

@@ -73,3 +73,4 @@ The source is a fact sheet for schools produced for Regional Educational Laborat
 - [Many children enter kindergarten without the foundational mathematics skills needed to succeed](children-enter-kindergarten-without-foundational-math-skills.md) — related
 - [Attendance patterns indicate students were substantially more engaged in Discovery sessions than in regular classes](discovery-attendance-exceeds-class-attendance.md) — related
 - [Early childhood homelessness and maltreatment are associated with lower achievement, poorer social skills, and higher absenteeism in early primary grades](early-homelessness-maltreatment-associated-school-outcomes.md) — related
+- [Early marriage is associated with poorer academic performance and higher chronic absenteeism among female Haor students](early-marriage-poorer-performance-absenteeism-female-students.md) — a narrower finding that bears on this claim

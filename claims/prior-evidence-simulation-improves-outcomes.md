@@ -69,3 +69,4 @@ The article reports, citing a 2016 study by the Issenberg team on 12 years of on
 - [Helping Babies Breathe simulation training was associated with reduced neonatal mortality in LMIC facilities, but skills decayed within 4–6 months without maintenance](hbb-simulation-reduced-mortality-skill-decay.md) — related
 - [Frequent brief on-site Helping Babies Breathe simulation training was associated with a significant decrease in 24-hour neonatal mortality in a Tanzanian before–after study](hbb-simulation-training-reduced-24h-neonatal-mortality.md) — related
 - [Residents' theoretical knowledge scores for shoulder dystocia management rose from pre-test to post-test after simulation training, in a single-group pre-post study](simulation-improved-theoretical-knowledge-shoulder-dystocia.md) — related
+- [A retrospective chart review identified 1,096 perinatal-loss diagnoses at the hospital over roughly three years](1096-perinatal-loss-diagnoses-2021-2024.md) — related

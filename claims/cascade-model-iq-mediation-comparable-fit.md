@@ -52,3 +52,4 @@ Final analytic step of the LOGIC reanalysis: correlations between WM and IQ late
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — related
 - [In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related
 - [Working memory capacity is a robust indicator of success or failure in language learning](wm-capacity-predicts-language-learning-success.md) — related
+- [The hypothesized sequential mediation model fits better than parallel, single-mediator, and reverse-causality alternatives](sequential-model-better-fit-alternatives.md) — related

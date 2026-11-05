@@ -46,7 +46,7 @@ Interview theme on organizational comparison: P1 described team member A finishi
 
 
 ## Related Claims
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - A lack of funding privileges more resourceful partners, and CHARM-EU declined stakeholder funding requests to avoid favoring some student teams over others — related
 - Full equality in ICEL decision-making and funding distribution is not possible for non-EU partners in European Universities alliances — related
 - [Students report that GenAI creates an uneven playing field in assessment, favoring students who use it over those who work independently](genai-uneven-playing-field-assessment-fairness.md) — related

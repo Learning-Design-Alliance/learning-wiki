@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: alenizi-2019
     resource: "https://doi.org/10.17583/ijep.2019.3346"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a quasi-experimental comparison, the experimental group (multi-sensory strategy) achieved a higher post-test visual perception average (1.815) than the control group (traditional method, 1.720), and the article reports the difference as favoring the multi-sensory strategy. [→ Alenizi 2019](#alenizi-2019)

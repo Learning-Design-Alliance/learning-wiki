@@ -48,7 +48,7 @@ Discussion of the entangled analysis of three focus-group participants drawn fro
 ## Related Claims
 - [Universities' GenAI policies widely embrace core ethical and governance principles but often overlook inclusion, equity, and sustainability issues such as internet access, gender parity in AI, and environmental impact](genai-policies-overlook-inclusion-equity-sustainability.md) — related
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related
 - [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — related
 - [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — related

@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 243 claims (166 show a difference, 46 mixed, 31 no difference) · 155 studies (54 causal, 51 associational, 26 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 34 of 155 report an effect size · 235 claims rest on one study
+> **Evidence** · 248 claims (166 show a difference, 50 mixed, 32 no difference) · 156 studies (54 causal, 52 associational, 26 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 34 of 156 report an effect size · 240 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -279,6 +279,11 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Self-efficacy was most strongly associated with monitoring strategy use, while learning anxiety was most strongly inversely associated with planning.](../claims/dimension-specific-psychological-correlates-metacognition.md) [+M] — learners who differ on it differ in outcomes
 - [Trait anxiety shows a similar sociodemographic pattern to state anxiety before the OSCE](../claims/trait-anxiety-similar-pattern-state-anxiety.md) [+M] — measured as an outcome of the instruction studied
 - [Bell-pacing significantly exacerbates reactive test anxiety compared to self-pacing during gross anatomy laboratory examinations.](../claims/bell-pacing-exacerbates-reactive-test-anxiety.md) [+S] — measured as an outcome of the instruction studied
+- [Maths anxiety negatively predicts only maths-related grades (Algebra and Geometry) among high-achieving adolescents](../claims/maths-anxiety-negatively-predicts-algebra-geometry-only.md) [~W] — learners who differ on it differ in outcomes
+- [Negative maths-anxiety–performance links persist in STEM-selected high achievers](../claims/maths-anxiety-negative-link-in-stem-selected-sample.md) [~W] — learners who differ on it differ in outcomes
+- [Spatial anxiety negatively predicts performance in maths, science and language grades; state anxiety predicts some grades](../claims/spatial-and-state-anxiety-negative-grade-associations.md) [~M] — learners who differ on it differ in outcomes
+- [Trait anxiety, GAD symptoms, social anxiety and anxiety sensitivity do not predict any school grades after controlling for other predictors](../claims/four-anxiety-measures-predict-no-grades.md) [-W] — learners who differ on it differ in outcomes
+- [Worry is the only anxiety measure positively linked with school grades after controlling for other anxieties](../claims/worry-positively-predicts-grades.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

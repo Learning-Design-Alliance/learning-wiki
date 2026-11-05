@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society"
-description: "Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society"
+title: "Immigrant graduates of a healthcare-aide training program described completing it as raising their confidence and self-esteem, which for some aided settlement and integration in Canada"
+description: "In interviews with nine immigrant graduates of a healthcare-aide training program combining occupational skills and ESL, several described completing it as raising their confidence and self-esteem, and some linked it to settlement and integration in Canada"
 id: program-completion-increased-confidence-autonomy-settlement
 status: review
 generated:
@@ -20,15 +20,16 @@ sources:
     rigour: 2
 ---
 
-# Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society
+# Immigrant graduates of a healthcare-aide training program described completing it as raising their confidence and self-esteem, which for some aided settlement and integration in Canada
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
 > **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
+<!-- title before 2026-11-05 (a retrospective interview study of nine graduates reports these benefits for some participants, not a general effect): Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society -->
 
 ## Subclaims
-`q2 i?` For participants who had faced barriers such as age or lack of postsecondary training, successful completion of the program significantly increased their confidence and self-esteem, and learning English and workplace contact supported settlement and integration. [→ Ping Wong 2001](#ping-wong-2001)
+`q2 i?` For two participants who had felt disadvantaged by age and lack of postsecondary training, completing the program "significantly increased their confidence and self-esteem"; several participants spoke of learning English and contact with English speakers at work as important to settlement and integration, though finding chances to use English at work was itself difficult. [→ Ping Wong 2001](#ping-wong-2001)
 `q2 i?` Employment was also vital to self-esteem: a participant unable to find work despite months of volunteering reported her education was better but her life unchanged pending a job. [→ Ping Wong 2001](#ping-wong-2001)
 
 ## Evidence
@@ -39,7 +40,7 @@ Ping Wong, Patricia Duff, and Margaret Early. (2001). The Impact of Language and
 
 `q2 · i?` · `qualitative · r2`
 
-Interview-theme analysis of identity and wellbeing outcomes for Anna and Rita, who had felt disadvantaged by age and lack of postsecondary training. The article states "successful completion of the program significantly increased their confidence and self-esteem," and links confidence to finding and keeping a job.
+A qualitative study of nine immigrants (eight women) who had completed a healthcare-aide program combining occupational skills and ESL training, based on individual semistructured interviews about their experiences over several years, analysed for themes. For Anna and Rita, who had felt disadvantaged by age and lack of postsecondary training, the article states "successful completion of the program significantly increased their confidence and self-esteem." It adds that increased confidence "was in many cases connected to the ability to find and keep a job", with qualifications: Sofia gained much from the course without a job, while Fatima, unable to find work, said "My education is better, but my life is no change." The program "facilitated settlement and integration into Canadian society for some of the participants". These are participants' accounts, not a measured effect.
 
 > "For both, successful completion of the program significantly increased their confidence and self­esteem."
 

@@ -70,3 +70,4 @@ Moderation regression for STEM Grades in the same sample: the printed interactio
 ## Related Claims
 - [Math ability fails to predict unique variance in either STEM participation or STEM achievement once math anxiety is controlled for](math-ability-no-unique-stem-prediction.md) — related
 - [Gender moderation of the math anxiety–STEM outcome relations did not reach traditional significance, though effects were near threshold (d ≈ .28)](gender-moderation-anxiety-stem-nonsignificant.md) — related
+- [Maths anxiety negatively predicts only maths-related grades (Algebra and Geometry) among high-achieving adolescents](maths-anxiety-negatively-predicts-algebra-geometry-only.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: kamphausen-anne-2026
     resource: "https://doi.org/10.1186/s13049-026-01673-7"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effort was higher with the app (62.4 ± 21.1 vs. 51.0 ± 24.3; p = 0.02) and frustration was higher without the app (32.6 ± 25.9 vs. 46.8 ± 24.0; p = 0.013). [→ Kamphausen Anne 2026](#kamphausen-anne-2026)

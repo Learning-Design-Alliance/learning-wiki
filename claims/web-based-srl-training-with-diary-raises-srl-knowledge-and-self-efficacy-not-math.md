@@ -116,7 +116,7 @@ Planned gain contrasts on the seven SRL questionnaire subscales. "Group TD showe
 - [Identified SRL interventions all focused on goal setting and monitoring and none on supporting self-evaluation](srl-interventions-neglect-self-evaluation.md) — related
 - [A multifaceted information-skills elective produced pre-post gains across search-related tasks among medical students, including assessing reliability/validity of web information (2.59 to 3.77)](information-skills-elective-task-gains.md) — related
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — reports the opposite
-- [Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest](web-training-prepost-gains-self-plan-self-monitor.md) — related
+- [College students given web-based metacognitive skills training rated their self-plan, self-monitor and total metacognitive scores higher at posttest than pretest, but gained more than a control group only on self-plan](web-training-prepost-gains-self-plan-self-monitor.md) — related
 - [Reflective journal writing significantly improved the learning strategies subscale of self-regulation](journal-writing-improves-learning-strategies-subscale.md) — related
 - [Motivational scaffolding in an e-learning environment produces a large main effect on academic self-efficacy in higher education students](motivational-scaffolding-raises-academic-self-efficacy-elearning.md) — related
 - [Diary keeping significantly increases metacognition strategy use of pre-service science teachers](diaries-increase-metacognition-strategies.md) — related
@@ -124,3 +124,4 @@ Planned gain contrasts on the seven SRL questionnaire subscales. "Group TD showe
 - [Online EI workshops combined with mindfulness training significantly predicted peer-assessed EI growth, while neither intervention alone did](online-ei-plus-mindfulness-significant-peer-growth.md) — related
 - [Pintrich SRL-based activities improve elementary teacher candidates' overall self-regulated learning perceptions](pintrich-srl-activities-improve-srl-perceptions.md) — a narrower finding that bears on this claim
 - [Explicit metacognitive strategy instruction increases ESL learners' use of monitoring and assessment strategies but not planning strategies](metacognitive-instruction-increases-monitoring-assessment-not-planning.md) — related
+- [The SRL intervention shows no significant post-test effect on math self-efficacy or STEM vocational interest](srl-intervention-no-posttest-effect-self-efficacy-stem-interest.md) — related

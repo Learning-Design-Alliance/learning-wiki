@@ -53,3 +53,4 @@ Structural paths in the LSEM of 1103 Chinese college EFL learners. The article r
 - [Control and value appraisals fully mediate the TSRQ–anxiety association among Chinese college EFL learners](tsrq-anxiety-fully-mediated-by-appraisals.md) — related
 - [TSRQ is positively associated with control and value appraisals in EFL learning](tsrq-positively-associated-with-control-value-appraisals.md) — related
 - [Female EFL students report more positive and fewer negative achievement emotions than males, and age and home resources show distinct associations](gender-age-home-resources-emotion-associations.md) — related
+- [In an exam-oriented Chinese EFL context, POE predicts enjoyment and reduced boredom while COI predicts boredom and shows no enjoyment association](poe-coi-divergent-emotional-pathways.md) — related

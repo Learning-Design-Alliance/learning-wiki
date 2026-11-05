@@ -95,3 +95,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [The checklist assessment showed strong interrater reliability, contributing validation evidence](checklist-interrater-reliability-kappa-0875.md) — related
 - [Expert reference standard for MUL measurements showed excellent agreement (ICC 0.90)](expert-reference-mul-icc-090.md) — related
 - [Two independent observers showed excellent interrater agreement when assessing nursing students' VAP prevention skill performance in simulation](excellent-interrater-agreement-vap-checklist.md) — related
+- [Rubric scoring of concept image protocols showed inter-rater reliability exceeding acceptable thresholds (Fleiss Kappa 0.60–0.88; Krippendorff's Alpha 0.60–0.88; ICC 0.89–0.98)](concept-image-rubric-inter-rater-reliability.md) — related

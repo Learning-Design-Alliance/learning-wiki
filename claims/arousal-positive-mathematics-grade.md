@@ -55,3 +55,4 @@ Ordinal regression predicting self-reported final high school mathematics grade 
 - [No evidence for a curvilinear relationship between arousal and test performance](no-curvilinear-arousal-performance.md) — related
 - [The present results replicate Donati et al.'s (2019) finding that interference and lack of confidence, but not worry, relate to arithmetic test performance, extending it to unique variance and domain-general intelligence](replication-donati-interference-lack-confidence.md) — related
 - [Interference and lack of confidence correlated negatively with all performance measures, whereas worry and arousal showed selective, weaker bivariate correlations](interference-lack-confidence-bivariate-correlations.md) — related
+- [Worry is the only anxiety measure positively linked with school grades after controlling for other anxieties](worry-positively-predicts-grades.md) — reports the opposite

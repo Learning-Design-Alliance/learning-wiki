@@ -50,3 +50,4 @@ Two-way mixed ANOVA (PrePost within, Group between) on student questionnaire rat
 - [For several UDL items the intervention group showed significantly greater pre-to-post change than the control group (significant PrePost x Group interactions)](udl-training-prepost-group-interactions.md) — related
 - [Both groups increased in beginning lectures with an outline, but the intervention group showed significantly more change (Q7)](udl-training-outline-item-interaction.md) — related
 - [Intervention students rate knowledge translation, planning, communication confidence and career development value higher than control students](video-production-boosts-communication-confidence-and-career-perception.md) — related
+- [Qualitatively, intervention-group students reported improved lecture organization, engagement, and visible incorporation of feedback, while control-group students reported little or no change](qualitative-improvements-intervention-not-control.md) — related

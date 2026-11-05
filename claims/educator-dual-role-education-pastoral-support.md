@@ -48,3 +48,4 @@ Theme 4 interview accounts: the educator role had "expanded beyond its formal ed
 - [ECNs are perceived to underestimate the cumulative emotional demands of mental health nursing, increasing risk of distress and early burnout](ecn-underestimate-cumulative-emotional-demands-burnout.md) — related
 - [ECNs with lived experience of mental health challenges risk blurred boundaries through over-disclosure and conflation of peer support with nursing](lived-experience-over-disclosure-blurred-boundaries.md) — related
 - [Control facilitators reported role ambiguity while intervention facilitators did not.](control-facilitators-role-ambiguity.md) — related
+- [SP simulations evoked perceived ambiguity among nursing students about the psychiatric-mental health nurse's role, blurring therapeutic communication and psychotherapy](sp-simulation-role-ambiguity-psychiatric-nurses.md) — related

@@ -69,3 +69,4 @@ The review reports a cross-lagged study over a 12-week term in which earlier mat
 - [All measured graduate attribute scores correlate positively with one another, with the Resourcefulness Scale correlating most weakly](positive-correlations-among-graduate-attribute-measures.md) — related
 - [Subjective task value shows a positive connection with time management, but expectancies for success and costs remain largely unexamined](task-value-positive-connection-time-management.md) — related
 - [Time management may shape motivation: limited longitudinal evidence shows time management predicting later intrinsic motivation](time-management-predicts-later-motivation.md) — related
+- [Self-regulation, time management, and academic self-efficacy show significant positive correlations among Turkish undergraduates (r = 0.81, 0.56, 0.69)](sr-tm-ase-positive-correlations-turkish-undergraduates.md) — related

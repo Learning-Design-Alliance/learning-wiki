@@ -9,7 +9,6 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-25
 sources:
   - id: psyridou-2024
     resource: "https://doi.org/10.1037/edu0000835"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The top-ranked predictors (average normalized importance > 50%) were RAN (71.16%), spatial relations (61.49%), kindergarten arithmetic skills (56.23%), number concepts (53.89%), attention-orientation (50.94%), and counting in spring (50.00%). [→ Psyridou 2024](#psyridou-2024)

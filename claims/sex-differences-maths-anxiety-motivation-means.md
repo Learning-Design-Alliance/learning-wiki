@@ -61,3 +61,4 @@ Univariate ANOVAs across TEDS continuous variables; the article reports sex expl
 - [Male students reported higher confidence in using VR simulation technology independently than female students](gender-gap-vr-confidence-orthodontics.md) — related
 - [Female students significantly outperformed male students in mathematics achievement](female-students-outperform-males-math-achievement.md) — related
 - [Female nursing students report greater e-learning satisfaction, higher self-efficacy, and higher perceived academic performance than male students](female-nursing-students-higher-satisfaction-self-efficacy-performance.md) — related
+- [Age and gender did not significantly predict academic self-efficacy in the structural model](age-gender-null-predictors-ase.md) — reports the opposite

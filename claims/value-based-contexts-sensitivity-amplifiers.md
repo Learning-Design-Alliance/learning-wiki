@@ -48,7 +48,8 @@ Analytical result 4 of the article's value-critical analysis. The article treats
 ## Related Claims
 - [Sustainable AI adoption depends on the interaction of three interdependent conditions: normative friction, governance-based equity, and epistemic integrity](normative-friction-equity-epistemic-integrity-interdependent.md) — a broader claim this one bears on
 - [Unclear policy, workload pressure, and lack of mechanisms to monitor student AI use undermined staff confidence and perceived fairness during AIAS implementation](aias-implementation-facilitating-conditions.md) — related
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [Students perceived AIvaluate assessments as reducing social pressure and offering flexible pacing and ease of use, but noted technical challenges and lack of dynamic human interaction](aivaluate-thematic-advantages-and-limitations.md) — related
 - [Leadership practices, teacher competence, and innovation culture collectively determine the success or failure of AI integration initiatives](three-drivers-determine-ai-integration-success.md) — related
 - [Multicultural approach to education may increase cultural sensitivity and reduce race-related stressors (review attribution)](multicultural-approach-sensitivity-stressors.md) — related
+- [Students value NANDA-I diagnoses for professional communication but report challenges in understanding, cultural adaptation, and anticipated workload](students-value-nanda-but-report-comprehension-challenges.md) — related

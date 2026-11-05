@@ -51,3 +51,4 @@ Narrative review attributing this to Sukor and Sabardin's cross-sectional study 
 - [Defibrillation-related and CPR-related domain scores are also significantly higher after low-dose high-frequency ALS training](ldhf-als-defibrillation-cpr-domain-gains.md) — related
 - [Time to first defibrillation is numerically shorter in the app group but not statistically significant](app-numerical-earlier-defibrillation-trend.md) — related
 - [No significant changes in self-efficacy for CPR or uterine balloon tamponade, likely reflecting high baseline confidence and a ceiling effect](no-significant-change-cpr-balloon-tamponade-ceiling-effect.md) — related
+- [Recent workshop attendance predicts confidence in performing CPR (aOR = 6.93), while male dentists report lower confidence (aOR = 0.59)](workshop-and-gender-predict-cpr-confidence.md) — related

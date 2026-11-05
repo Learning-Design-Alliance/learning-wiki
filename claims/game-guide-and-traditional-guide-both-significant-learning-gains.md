@@ -66,3 +66,4 @@ Mann–Whitney U comparison of pretest and posttest learning effectiveness betwe
 ## Related Claims
 - [The game-based group rated contextual analysis as significantly more helpful than the traditional guide group, whose collaboration focused on task correctness rather than historical context](contextual-analysis-significantly-higher-game-group.md) — related
 - [Motivation increased significantly from before activity to in activity in the game-based group but showed no significant stage-to-stage change in the traditional guide group](role-playing-guide-motivation-increase-during-activity.md) — related
+- [Adding peer role-play and peer assessment does not change technical procedural proficiency: no significant difference between cohorts in procedural steps and key points](peer-roleplay-technical-proficiency-comparable.md) — related

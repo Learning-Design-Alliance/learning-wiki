@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 84 claims (61 show a difference, 18 mixed, 5 no difference) · 75 studies (20 review, 15 causal, 13 qualitative, 12 design, 5 quant-synthesis, 5 associational, 5 theoretical), `q1`–`q4` · 10 of 75 report an effect size · 80 claims rest on one study
+> **Evidence** · 85 claims (62 show a difference, 18 mixed, 5 no difference) · 76 studies (20 review, 15 causal, 14 qualitative, 12 design, 5 quant-synthesis, 5 associational, 5 theoretical), `q1`–`q4` · 10 of 76 report an effect size · 81 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -125,6 +125,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Irrelevant instructional humour yields worse transfer performance than relevant humour and than no humour in adult learners](../claims/irrelevant-humour-worse-transfer-adults.md) [+M] — an instructional effect differs with it
 - [Real-world translation was the most frequently endorsed strength, with 92% of users saying content and examples are translatable to daily clinical work](../claims/real-world-translation-top-strength.md) [+M] — measured as an outcome of the instruction studied
 - [Relevant examples are perceived as more relevant than relevant humour, which may explain relevant humour's inconsistent effectiveness](../claims/relevant-examples-perceived-more-relevant-than-humour.md) [+M] — measured as an outcome of the instruction studied
+- [Students perceive wellness course content as immediately applicable to daily life, which they describe as heightening motivation and sustained engagement](../claims/perceived-relevance-heightens-engagement.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

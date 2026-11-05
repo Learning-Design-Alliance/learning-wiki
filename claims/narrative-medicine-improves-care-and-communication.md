@@ -74,3 +74,4 @@ Random-effects meta-analysis of 7 randomized controlled studies (197 vs 196 resi
 - Only 18% of studies provided a definition of communication skills and only 37% reported a communication framework — related
 - [3D visualization technology supports doctor-patient communication in resident training](3d-visualization-supports-doctor-patient-communication.md) — related
 - [SFHC intervention improved doctor-patient communication (SEGUE) scores post-intervention](sfhc-improved-segue-communication.md) — related
+- [Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related

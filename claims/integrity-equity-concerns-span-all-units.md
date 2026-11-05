@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently
-description: Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently
+title: Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns
+description: Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns
 id: integrity-equity-concerns-span-all-units
 status: review
 generated:
@@ -21,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently
+# Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
-`q2 i?` Across all surveyed units, respondents consistently raised academic integrity concerns, calls for professional development, absence of institutional vision, and equity concerns ranging from unequal access to paid AI tools to biased AI outputs. [→ Dozier 2026](#dozier-2026)
+`q2 i?` Themes that spanned all surveyed units were the absence of an institutional vision, academic integrity concerns (interpreted differently by unit) and calls for professional development; in addition, several respondents raised equity concerns, ranging from unequal access to paid AI tools to biased or exclusionary AI outputs. [→ Dozier 2026](#dozier-2026)
 
 ## Evidence
 
@@ -185,3 +185,4 @@ Cross-unit thematic findings from the seven-respondent survey case study; the ar
 - [The review finds technology's impact depends mainly on pedagogical design, teaching accompaniment, and university policies](impact-depends-on-pedagogical-design-review.md) — related
 - [LLM use in dental education raises application-related challenges including ethical concerns, absence of usage guidelines, potential harm to students' knowledge and skills, and cautious stakeholder attitudes](llm-application-challenges-ethics-guidelines.md) — related
 - [The effectiveness of active learning in nursing education is shaped by multilevel conditions including learner readiness, psychological safety, instructional facilitation, classroom dynamics, and institutional support](multilevel-conditions-shape-active-learning-effectiveness.md) — related
+- [Panelists identified professionalism, reflective practice, and critical thinking—including bias awareness and data-informed decision-making—as a core domain](smh-collab-professionalism-reflective-practice-domain.md) — related

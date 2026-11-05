@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-05
 sources:
   - id: janis-2025
     resource: "https://doi.org/10.69772/jes.8.3.1"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q1` · n=3
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Across three bachelor's-level secondary social-studies teacher candidates at one US university, followed through a twelve-week clinical, the authors observed growth in describing student learning, analyzing teaching moves and connecting instructional decisions to student understanding, which they suggest structured prompts, aligned feedback and repeated reflection contributed to; there was no comparison condition. [→ Janis 2025](#janis-2025)
@@ -47,7 +48,7 @@ Qualitative design-based case analysis of three teacher candidates' weekly writt
 ## Related Claims
 
 - [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](essay-quality-improves-from-initial-to-revised.md) — the general claim this finding bears on, with the studies behind it
-- [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](probing-feedback-revise-resubmit-evidence.md) — a narrower finding that bears on this claim
+- [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate improved on some criteria but not others](probing-feedback-revise-resubmit-evidence.md) — a narrower finding that bears on this claim
 - [Revised post-teaching prompts (RPTAA) advanced candidates' capacity for more sophisticated analysis compared with the original prompts (PTAA)](revised-prompts-advance-sophisticated-analysis.md) — related
 - [Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade](iterative-design-steady-growth-no-excellent.md) — related
 - [External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames](external-resources-support-pedagogical-judgment-alignment.md) — related

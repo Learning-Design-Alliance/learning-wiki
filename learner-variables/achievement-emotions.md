@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 222 claims (150 show a difference, 55 mixed, 17 no difference) · 133 studies (44 causal, 44 associational, 15 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 30 of 133 report an effect size · 219 claims rest on one study
+> **Evidence** · 224 claims (151 show a difference, 56 mixed, 17 no difference) · 135 studies (45 causal, 45 associational, 15 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 31 of 135 report an effect size · 221 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -257,6 +257,8 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Positive academic emotions strongly predict agentic engagement](../claims/pae-predict-agentic-engagement.md) [+M] — learners who differ on it differ in outcomes
 - [Teacher-student relationship quality is positively associated with enjoyment and negatively associated with anxiety and boredom among Chinese college EFL learners](../claims/tsrq-associated-with-efl-achievement-emotions.md) [+M] — measured as an outcome of the instruction studied
 - [Female EFL students report more positive and fewer negative achievement emotions than males, and age and home resources show distinct associations](../claims/gender-age-home-resources-emotion-associations.md) [+M] — measured as an outcome of the instruction studied
+- [In an exam-oriented Chinese EFL context, POE predicts enjoyment and reduced boredom while COI predicts boredom and shows no enjoyment association](../claims/poe-coi-divergent-emotional-pathways.md) [~M] — measured as an outcome of the instruction studied
+- [Students report overwhelmingly positive perceptions of the oral retest intervention, including fairness, pride, and improved retention](../claims/positive-student-perceptions-oral-retest.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

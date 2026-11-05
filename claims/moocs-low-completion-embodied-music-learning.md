@@ -53,7 +53,7 @@ The article's review of online platforms reports MOOC "completion rates are noto
 | [Jean-Pierre Briot 2026](https://doi.org/10.48550/arxiv.2608.05176) | q2 · review · r2 | i? | this claim |
 | Karen Cator 2014 | q2 · theoretical · r2 | i? | [A University of Pennsylvania study found only about half of MOOC registrants viewed a lect](mooc-completion-four-percent.md) (supports) |
 | Jia Frydenberg 2007 | q2 · associational · r2 | i? | [Online attrition during Orientation Week is twice that of onground classes' first week](orientation-week-attrition-double-online.md) (qualifies) |
-| [Steven S. Christensen & Jonathan S. Spackman 2016](https://doi.org/10.9743/jeo.2017.14.2.7) | q2 · associational · r1 | i? | [A single Tipping Point explains dropout patterns in only about a quarter of online courses](tipping-point-hypothesis-insufficient-online-dropout.md) (qualifies) |
+| [Steven S. Christensen & Jonathan S. Spackman 2017](https://doi.org/10.9743/jeo.2017.14.2.7) | q2 · associational · r1 | i? | [A single Tipping Point explains dropout patterns in only about a quarter of online courses](tipping-point-hypothesis-insufficient-online-dropout.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

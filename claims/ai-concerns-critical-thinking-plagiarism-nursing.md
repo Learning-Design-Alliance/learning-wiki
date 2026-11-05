@@ -47,7 +47,7 @@ Qualitative interview findings from the discussion of concerns; faculty worried 
 ## Related Claims
 - [Infrastructure barriers — limited internet speed, connectivity problems and lack of technical support — hinder effective AI use in nursing education institutions](infrastructure-barriers-ai-use-nursing-education.md) — related
 - [The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education](ai-math-ethical-concerns-interconnected.md) — related
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [Academic integrity concerns were the third most prevalent pedagogical limitation, reported in 20 of 54 studies (37%)](academic-integrity-concerns-ai-efl-prevalence.md) — a narrower finding that bears on this claim
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
 - [Staff raised equity concerns that students who pay for upgraded GenAI tools gain an advantage over peers using free versions](paid-ai-tool-access-equity-advantage.md) — related

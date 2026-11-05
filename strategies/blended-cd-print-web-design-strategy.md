@@ -50,6 +50,7 @@ The authors' forward-looking design recommendation from the study's findings: pr
 
 - [Blended Learning](../patterns/blended-learning.md)
 - [Blended Learning](blended_learning.md)
+- [Embed tailored e-learning in blended, multimodal delirium training that combines face-to-face interaction with regular repetition](blended-multimodal-delirium-training-strategy.md)
 
 ## Examples
 -

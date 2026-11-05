@@ -52,3 +52,4 @@ Analysis of school-level distributions of observation ratings across 519 schools
 - [The most extreme district disparity: District A's high-poverty middle schools had about 1 in 20 highest-performing math teachers versus about 12 in 20 in the lowest-poverty quintile](district-a-extreme-middle-school-math-disparity.md) — related
 - [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — related
 - [Teachers with the same observation scores can have very different value-added scores, with considerable overlap across observation-score quintiles](reach-va-overlap-across-observation-quintiles.md) — related
+- [The share of low-income students in a grade is negatively associated with proficiency across all school levels](low-income-share-negative-proficiency.md) — related

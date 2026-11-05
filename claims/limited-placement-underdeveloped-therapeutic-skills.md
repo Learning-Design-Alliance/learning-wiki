@@ -52,3 +52,4 @@ Theme 1 interview data: educators described ECNs "ticking a lot of questions off
 - [Simulation-based education contributes to developing communication, interviewing and therapeutic engagement skills in undergraduate psychiatry](simulation-develops-clinical-skills-undergraduate-psychiatry.md) — related
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [Short, poorly aligned mental health placements are perceived to leave graduates unprepared for acute inpatient care](short-misaligned-placements-unprepared-acute-inpatient.md) — related
+- [SP simulations evoked perceived ambiguity among nursing students about the psychiatric-mental health nurse's role, blurring therapeutic communication and psychotherapy](sp-simulation-role-ambiguity-psychiatric-nurses.md) — related

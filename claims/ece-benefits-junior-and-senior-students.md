@@ -58,3 +58,4 @@ Student-type subgroup analysis of the meta-analysis, defining junior as second y
 - [Junior and non-cardiothoracic residents show larger time improvements from coronary anastomosis simulation than senior residents](junior-residents-gain-more-time-from-simulation.md) — related
 - [The overall positive surgical margin rate was 27.8%, with PSM rates higher in junior surgeons (39.5% and 36.1%) than senior surgeons (17.5% and 21.1%), though not statistically significant](psm-rates-by-surgeon-experience-versius.md) — related
 - [Preclinical HVRS training significantly improves endodontic access cavity preparation scores on real patients](hvrs-training-improves-access-cavity-scores.md) — a narrower finding that bears on this claim
+- [Improvement in caries detection decreased with increasing clinical experience, though pairwise stage differences were not significant](improvement-decreases-with-clinical-experience.md) — related

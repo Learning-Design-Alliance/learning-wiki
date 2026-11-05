@@ -49,3 +49,4 @@ Multivariable logistic regression on 178 respondents; the article reports "AOR =
 - [Only about one third of nurses and midwives at a Central Ethiopian referral hospital demonstrate good theoretical wound-care knowledge](one-third-good-wound-knowledge-ethiopian-referral-hospital.md) — related
 - [Most nurses and midwives report never receiving formal in-service wound-management training](most-nurses-no-formal-wound-training.md) — related
 - [Educational qualification shows no significant association with wound-care knowledge or practice levels](qualification-no-association-wound-knowledge.md) — related
+- [Prior hypertension training (AOR = 2.6) and more than 10 years' experience (AOR = 1.8) independently predicted good knowledge among PHC workers](training-and-experience-predict-hypertension-knowledge.md) — related

@@ -7,8 +7,8 @@ description: "For a learner who can already perform a task but has stopped impro
 canonical: true
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-10-15
+  by: "process:article-ingest"
+  at: 2026-11-05
 sources:
   - id: ericsson-1993
     resource: "https://doi.org/10.1037/0033-295X.100.3.363"
@@ -23,7 +23,7 @@ sources:
 # Deliberate Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (11 for, 8 mixed) · 33 studies (14 quant-synthesis, 7 review, 6 causal, 6 theoretical), `q1`–`q4` · 11 of 33 report an effect size · 10 claims rest on one study
+> **Evidence** · 20 claims (12 for, 8 mixed) · 34 studies (14 quant-synthesis, 7 review, 6 causal, 6 theoretical, 1 associational), `q1`–`q4` · 11 of 34 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -93,7 +93,7 @@ These rows are proposals, untested with learners as diagnostics. A probe is itse
 
 No claim in the wiki compares targeted component practice with whole-task repetition at equal time, varies the difficulty of practice relative to the learner's level, or tests the default design above. The claims below test neighbouring parts of it.
 
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]: a meta-analysis of 14 studies (mostly randomized trials and pre/post comparisons) found simulation-based medical education with deliberate practice ahead of traditional clinical education on clinical skill acquisition (d = 0.71, 95% CI 0.65–0.76). The skills were procedural and psychomotor (resuscitation, laparoscopic and central-line procedures), the learners health professionals, and the comparison a bundle (simulator, mastery standards, feedback, repetition) against ordinary training, so it does not isolate the deliberate-practice features. One study (`q3`, not pre-registered); the claim page reports no horizon and calls patient-level outcomes less established.
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]: a meta-analysis of 14 studies (mostly randomized trials and pre/post comparisons) found simulation-based medical education with deliberate practice ahead of traditional clinical education on clinical skill acquisition (pooled effect-size correlation r = 0.71, 95% CI 0.65–0.76). The skills were procedural and psychomotor (resuscitation, laparoscopic and central-line procedures), the learners health professionals, and the comparison a bundle (simulator, mastery standards, feedback, repetition) against ordinary training, so it does not isolate the deliberate-practice features. One study (`q3`, not pre-registered); the claim page reports no horizon and calls patient-level outcomes less established.
 - [Simulation Based Education Improves Outcomes](../claims/simulation-based-education-improves-outcomes.md) [~M]: a meta-analysis of 609 studies of technology-enhanced simulation for health professionals found large effects against no intervention, and **no consistent interaction** with design features including feedback, mastery learning, distributed practice and repetitive practice; heterogeneity was large. It qualifies the reading that those features are the active ingredient in the previous claim. Against no intervention, not against an equal-time alternative.
 - [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](../claims/deliberate-practice-improves-performance.md) [~M]: one meta-analysis ([Macnamara et al. 2014](https://doi.org/10.1177/0956797614535810)) of individual differences in accumulated deliberate practice found it explained 26% of performance variance in games, 21% in music, 18% in sports, 4% in education and under 1% in the professions. It is correlational: it tests whether people who practiced more perform better, not whether a design of practice causes a gain. The claim's title was narrowed to this correlational reading on 2026-10-05, and its second entry (Wedlock & Binnie 2025) reports the education figure second-hand. It is the reason the page expects smaller gains where the standard is diffuse.
 - [Deliberate practice research is largely correlational with large unexplained variability in accumulated practice hours](../claims/deliberate-practice-correlational-limits.md) [~M]: a review reports very large standard deviations in the hours athletes accumulate, that the research is mostly retrospective and correlational, and that retrospective data may describe social background rather than causes. It limits any claim that more deliberate practice is the route to expertise.
@@ -108,7 +108,7 @@ Learners, tasks and outcomes differ across these claims (health professionals on
 
 ## The evidence by question
 
-- *Does training built around deliberate practice (mastery standards, feedback on each attempt, repetition) beat ordinary training?* [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
+- *Does training built around deliberate practice (mastery standards, feedback on each attempt, repetition) beat ordinary training?* [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
 - *How much of performance does accumulated deliberate practice account for, and in which domains?* [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](../claims/deliberate-practice-improves-performance.md) [~M]
 
 ## Further evidence, not yet read against this model
@@ -119,6 +119,7 @@ Re-read against the model on 2026-10-15; these two do not bear on its relationsh
 - [Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit](../claims/deliberate-practice-expands-memory-capacity.md) [+W] — a second-hand report, in the same dissertation, of the digit-span training studies; one entry at `q1`. Shows that specific practice can change a capacity thought fixed; not a design finding.
 - [DP-informed simulation-based surgical training is associated with improved psychomotor skill acquisition in laparoscopic surgery](../claims/dp-informed-sbst-improves-laparoscopic-psychomotor-skills.md) [+W] — attached 2026-10-31 from Wickramasinghe D (2025), which proposed "Structure simulation-based surgical training according to deliberate practice principles, including immediate feedback and stepwise task progression"; tests this page's relationship.
 - [DP adherence varied widely across studies, with the most structured programs yielding the greatest benefits](../claims/dp-adherence-variability-influences-outcomes.md) [+W] — attached 2026-10-31 from Wickramasinghe D (2025), which proposed "Structure simulation-based surgical training according to deliberate practice principles, including immediate feedback and stepwise task progression"; tests this page's relationship.
+- [After up-front instruction, students start practice at about 65% correct and need about seven opportunities per knowledge component to reach 80%](../claims/practice-opportunities-needed-after-verbal-instruction.md) [+M] — added 2026-11-05 from Koedinger et al. (2023), 27 datasets from online practice systems with feedback; not yet read against the model above.
 
 ## Objective and learner-valued goal
 

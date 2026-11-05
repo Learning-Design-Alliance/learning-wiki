@@ -47,4 +47,4 @@ Authors' interpretive statement from the article's discussion of what the instru
 
 ## Related Claims
 - [A 933-pupil survey of ancient-history recall provided the data for scaling question difficulty](ancient-history-scale-933-papers.md) — related
-- [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related
+- [No hierarchical organization is best for every task: students given organization A did better on deductive tasks and those given organization B on historical tasks](organization-task-match-determines-benefit.md) — related

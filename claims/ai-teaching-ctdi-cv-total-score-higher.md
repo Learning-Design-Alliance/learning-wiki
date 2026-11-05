@@ -57,3 +57,4 @@ CTDI-CV comparison in the randomized study (n = 79 per group): total score 301.5
 - [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related
 - [Scenario-based simulation ward rounds combined with video feedback improve critical thinking disposition in gastroenterology residents](simulation-ward-rounds-video-feedback-improve-critical-thinking.md) — related
 - [Structured PEARLS debriefing is associated with higher general self-efficacy](debriefing-higher-general-self-efficacy.md) — related
+- [Self-rated critical thinking disposition scores of nurse anesthetists rose from the measurement after traditional teaching to the measurement after DBSS in one group with no comparison group, though both values remained below the positive-disposition threshold](dbss-improves-na-critical-thinking-disposition.md) — related

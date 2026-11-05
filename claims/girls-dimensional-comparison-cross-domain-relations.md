@@ -67,3 +67,4 @@ Multi-group growth model correlations among boys: "only one significant cross-do
 - [Girls started lower in math self-concept and interest than boys, and the L1 self-concept gender gap widened over Grades 7–9](gender-gaps-math-lower-l1-slope-favors-girls.md) — related
 - [Math self-concept declined then leveled off (U-shaped), L1 self-concept declined slightly, math interest declined while L1 interest increased across Grades 7–9](domain-divergent-motivation-trends-lower-secondary.md) — related
 - [Adolescents' math and L1 self-concept and interest development across Grades 7–9 is best described by a single homogeneous trajectory profile](one-class-motivational-trajectory-grades-7-9.md) — related
+- [The GI/E model relations among achievement, self-concept, and intrinsic value are invariant across gender groups](gender-invariance-gie-model-music-visual-arts.md) — reports the opposite

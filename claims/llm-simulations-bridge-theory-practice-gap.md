@@ -12,16 +12,16 @@ newest_evidence: 2025
 sources:
   - id: martínez-peláez-2025
     resource: "https://doi.org/10.3390/systems13111013"
-    title: "Martínez-Peláez, R.; Mena, L.J.; Toral-Cruz, H.; Ochoa-Brust, A.; Potes, A.G.; Flores, V.; Ostos, R.; Ramírez Pacheco, J.C.; Félix, R.A.; Félix, V.G. (2025). Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review. Systems 2025, 13, 1013. https://doi.org/10.3390/systems13111013"
-    author: Martínez-Peláez, R.; Mena, L.J.; Toral-Cruz, H.; Ochoa-Brust, A.; Potes, A.G.; Flores, V.; Ostos, R.; Ramírez Pacheco, J.C.; Félix, R.A.; Félix, V.G.
+    title: "Martínez-Peláez, R.; Mena, L.J.; Toral-Cruz, H.; Ochoa-Brust, A.; González Potes, A.; Flores, V.; Ostos, R.; Ramírez Pacheco, J.C.; Félix, R.A.; Félix, V.G. (2025). Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review. Systems 2025, 13, 1013. https://doi.org/10.3390/systems13111013"
+    author: Martínez-Peláez, R.; Mena, L.J.; Toral-Cruz, H.; Ochoa-Brust, A.; González Potes, A.; Flores, V.; Ostos, R.; Ramírez Pacheco, J.C.; Félix, R.A.; Félix, V.G.
     q: 2
     i: "?"
     kind: review
     rigour: 2
   - id: martínez-peláez-2025-2
     resource: "https://doi.org/10.3390/systems13111013"
-    title: "Martínez-Peláez, R.; Mena, L.J.; Toral-Cruz, H.; Ochoa-Brust, A.; Potes, A.G.; Flores, V.; Ostos, R.; Ramírez Pacheco, J.C.; Félix, R.A.; Félix, V.G. (2025). Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review. Systems 2025, 13, 1013. https://doi.org/10.3390/systems13111013"
-    author: Martínez-Peláez, R.; Mena, L.J.; Toral-Cruz, H.; Ochoa-Brust, A.; Potes, A.G.; Flores, V.; Ostos, R.; Ramírez Pacheco, J.C.; Félix, R.A.; Félix, V.G.
+    title: "Martínez-Peláez, R.; Mena, L.J.; Toral-Cruz, H.; Ochoa-Brust, A.; González Potes, A.; Flores, V.; Ostos, R.; Ramírez Pacheco, J.C.; Félix, R.A.; Félix, V.G. (2025). Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review. Systems 2025, 13, 1013. https://doi.org/10.3390/systems13111013"
+    author: Martínez-Peláez, R.; Mena, L.J.; Toral-Cruz, H.; Ochoa-Brust, A.; González Potes, A.; Flores, V.; Ostos, R.; Ramírez Pacheco, J.C.; Félix, R.A.; Félix, V.G.
     q: 2
     i: "?"
     kind: review
@@ -42,7 +42,7 @@ sources:
 
 ### Martínez-Peláez 2025
 
-Martínez-Peláez, R.; Mena, L.J.; Toral-Cruz, H.; Ochoa-Brust, A.; Potes, A.G.; Flores, V.; Ostos, R.; Ramírez Pacheco, J.C.; Félix, R.A.; Félix, V.G. (2025). Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review. Systems 2025, 13, 1013. https://doi.org/10.3390/systems13111013
+Martínez-Peláez, R.; Mena, L.J.; Toral-Cruz, H.; Ochoa-Brust, A.; González Potes, A.; Flores, V.; Ostos, R.; Ramírez Pacheco, J.C.; Félix, R.A.; Félix, V.G. (2025). Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review. Systems 2025, 13, 1013. https://doi.org/10.3390/systems13111013
 
 `q2 · i?` · `review · r2`
 
@@ -52,7 +52,7 @@ The review's RQ2 synthesis states these simulations enable students to "apply th
 
 ### Martínez-Peláez 2025 (2)
 
-Martínez-Peláez, R.; Mena, L.J.; Toral-Cruz, H.; Ochoa-Brust, A.; Potes, A.G.; Flores, V.; Ostos, R.; Ramírez Pacheco, J.C.; Félix, R.A.; Félix, V.G. (2025). Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review. Systems 2025, 13, 1013. https://doi.org/10.3390/systems13111013
+Martínez-Peláez, R.; Mena, L.J.; Toral-Cruz, H.; Ochoa-Brust, A.; González Potes, A.; Flores, V.; Ostos, R.; Ramírez Pacheco, J.C.; Félix, R.A.; Félix, V.G. (2025). Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review. Systems 2025, 13, 1013. https://doi.org/10.3390/systems13111013
 
 `q2 · i?` · `review · r2`
 

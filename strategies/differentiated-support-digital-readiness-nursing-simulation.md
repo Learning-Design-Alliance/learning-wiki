@@ -45,7 +45,8 @@ Based on the stronger load–flow association among less digitally ready student
 - [A sequential indirect association runs from usability through extraneous load and flow to engagement](../claims/sequential-indirect-association-usability-load-flow-engagement.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Optimize e-learning platform usability and provide technical support to maximize engagement across diverse nursing staff groups](elearning-usability-technical-support-strategy.md)
 
 ## Examples
 -

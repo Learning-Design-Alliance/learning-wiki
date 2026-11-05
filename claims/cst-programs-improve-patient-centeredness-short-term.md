@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: zagalo-daniela-mariana-2026
     resource: "https://doi.org/10.1186/s12909-026-09059-0"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Psychiatrists who participated in structured communication skills training demonstrated increased patient-centeredness and enhanced competence with open-ended questions and social communication categories. [→ Zagalo Daniela Mariana 2026](#zagalo-daniela-mariana-2026)

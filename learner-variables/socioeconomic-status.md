@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 233 claims (122 show a difference, 55 mixed, 56 no difference) · 184 studies (76 associational, 75 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 31 of 184 report an effect size · 232 claims rest on one study
+> **Evidence** · 237 claims (126 show a difference, 55 mixed, 56 no difference) · 187 studies (79 associational, 75 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 32 of 187 report an effect size · 236 claims rest on one study
 
 ## How to read this page
 
@@ -318,6 +318,10 @@ A learner's economic and social position: family income or poverty (often measur
 - [No statistically significant interaction effects by gender or socioeconomic status in improvement of geospatial skills or atmospheric science knowledge](../claims/no-gender-ses-interaction-gst-learning-gains.md) [-M] — an instructional effect differs by group
 - [Low‐SES high achievers significantly outperformed all low‐ and mid‐achieving profiles across SES strata, but remained lower than high‐SES high‐achieving students](../claims/resilient-achievement-pattern-across-ses-strata.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Socioeconomic deprivation is associated with lower attainment in very preterm children, with free school meal eligibility comparable in magnitude to severe brain injury](../claims/deprivation-associated-underattainment-preterm.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Bullying and punitive teacher behavior increase chronic absenteeism while household work and family income reduce it](../claims/bullying-punitive-behavior-increase-chronic-absenteeism.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Family income is the strongest positive predictor of good academic performance among Haor secondary students](../claims/family-income-strongest-predictor-haor-academic-performance.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Parent–child conflict, parent–child closeness, and parental educational attainment each independently predict academic achievement alongside ADHD/autism status](../claims/family-factors-independent-predictors-achievement.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The share of low-income students in a grade is negatively associated with proficiency across all school levels](../claims/low-income-share-negative-proficiency.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

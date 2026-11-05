@@ -13,7 +13,7 @@ generated:
 # ChatGPT-FLGA learning system
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q2`–`q3` · 2 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A ChatGPT-based learning system designed for flipped or online university courses to support learners' self-regulated learning, self-efficacy, motivation, and creative thinking.

@@ -12,7 +12,7 @@ newest_evidence: 2013
 sources:
   - id: mary-c-english-2013
     resource: "https://doi.org/10.7771/1541-5015.1339"
-    title: "Mary C. English, Anastasia Kitsantas. (2013). Supporting Self-Regulated Learning in Problem- and Project-Based Learning. Interdisciplinary Journal of Problem-based Learning. https://doi.org/10.7771/1541-5015.1339"
+    title: "Mary C. English, Anastasia Kitsantas. (2013). Supporting Student Self-Regulated Learning in Problem- and Project-Based Learning. Interdisciplinary Journal of Problem-based Learning. https://doi.org/10.7771/1541-5015.1339"
     author: Mary C. English, Anastasia Kitsantas
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Mary C. English 2013
 
-Mary C. English, Anastasia Kitsantas. (2013). Supporting Self-Regulated Learning in Problem- and Project-Based Learning. Interdisciplinary Journal of Problem-based Learning. https://doi.org/10.7771/1541-5015.1339
+Mary C. English, Anastasia Kitsantas. (2013). Supporting Student Self-Regulated Learning in Problem- and Project-Based Learning. Interdisciplinary Journal of Problem-based Learning. https://doi.org/10.7771/1541-5015.1339
 
 `q1 · i?` · `theoretical · r2`
 

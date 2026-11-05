@@ -61,3 +61,4 @@ Grounded-coding finding from the Delphi panel: "Panelists strongly agreed that h
 - [AI in accountability-oriented policy risks automated decision-making replacing human judgment and poor-quality data driving high-stakes decisions](aied-policy-automated-accountability-risks.md) — related
 - [Human judgement is central to accurate and ethical human-AI knowledge building](human-judgement-central-ai-knowledge-building.md) — a broader claim this one bears on
 - [Models trained or prompted with high-quality review corpora produce more consistent, personalized code-review critiques, with human-in-the-loop processes remaining essential](code-review-corpus-quality.md) — a narrower finding that bears on this claim
+- [Panelists identified professionalism, reflective practice, and critical thinking—including bias awareness and data-informed decision-making—as a core domain](smh-collab-professionalism-reflective-practice-domain.md) — related

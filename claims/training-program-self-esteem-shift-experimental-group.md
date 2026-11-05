@@ -47,7 +47,7 @@ Ascertaining-stage data showed 57% of teachers with high self-esteem, 18% adequa
 ## Related Claims
 - [Teachers' predominant orientation type shifted in the experimental group between the ascertaining and forming stages, with self-orientation falling from 55% to 19%](orientation-type-shift-experimental-group.md) — related
 - [Implementing the structural-functional model with a teacher training program produced relevant experimental-group outcomes while control-group outcomes remained unchanged](project-target-model-implementation-experimental-gains.md) — related
-- [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](program-completion-increased-confidence-autonomy-settlement.md) — related
+- [Immigrant graduates of a healthcare-aide training program described completing it as raising their confidence and self-esteem, which for some aided settlement and integration in Canada](program-completion-increased-confidence-autonomy-settlement.md) — related
 - [Gains were largest on self-esteem, internal locus of control, sense of humor and stress coping skills, and lowest on creativity](resilience-gains-vary-by-protective-factor.md) — related
 - [The control group showed no significant changes in self-regulation indicators across the experiment](control-group-no-significant-self-regulation-changes.md) — related
 - [The experimental group's distribution across motivational levels shifted toward higher levels from pre-test to post-test while the control group's did not](experimental-group-level-shift-motivational-component.md) — related

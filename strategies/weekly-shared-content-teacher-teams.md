@@ -39,6 +39,7 @@ The guide recommends structuring master schedules so teachers in shared-curricul
 ## Related Strategies
 
 - [Integrate Emotions into Daily Schedule and Routine](integrate_emotions_into_daily_schedule_and_routine.md)
+- [Schedule regular protected blocks for interdisciplinary meetings, planning, and case consultation, with structured reflection routines](protected-blocks-interdisciplinary-smh-teams.md)
 
 ## Examples
 -

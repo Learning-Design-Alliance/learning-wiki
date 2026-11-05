@@ -47,3 +47,4 @@ Spearman rank correlations between 26 study variables and the APS total score (n
 ## Related Claims
 - [Childhood ADHD symptoms are associated with higher late-adolescent depressive symptoms in a population cohort](childhood-adhd-predicts-adolescent-depressive-symptoms.md) — related
 - [Psychological symptom burden is independently and negatively associated with self-perceived academic performance](psychological-symptom-burden-negative-aps.md) — related
+- [Students with ADHD or autism show substantially lower end-of-primary-school achievement, with roughly 4–5 times higher risk of ineligibility for upper secondary school](adhd-autism-lower-grades-eligibility-swedish-twins.md) — related

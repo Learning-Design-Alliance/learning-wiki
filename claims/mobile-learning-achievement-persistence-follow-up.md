@@ -47,3 +47,4 @@ Follow-up achievement testing performed six months after the end of the quasi-ex
 ## Related Claims
 - [No significant instructional-group effects were detected at the six-month follow-up assessment](no-follow-up-group-effects.md) — related
 - [Students in the mobile learning group developed higher-quality animations than control students](mobile-learning-animation-development-advantage.md) — related
+- [Gains in math perseverance, theory of intelligence and math performance persist six months after the SRL intervention](srl-intervention-six-month-followup-persistence.md) — related

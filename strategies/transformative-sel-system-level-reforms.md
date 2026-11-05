@@ -54,6 +54,7 @@ The article endorses "transformative SEL" that would foster critical citizenship
 
 - [Invest in supportive-community strategies—mental health staffing, SEL, restorative practices, and relationship-centered structures—rather than expanded physical security](invest-in-supportive-community-safety-strategies.md)
 - [Five policy priorities to address Michigan's inequitable teacher shortage: fair funding, data systems, career attractiveness, administrator supports, and professional development](five-priorities-michigan-teacher-shortage-policy.md)
+- [Tailor SEL assessment and intervention programmes to the cultural context of Arab communities in Israel](culturally-tailored-sel-arab-communities.md)
 
 ## Examples
 -

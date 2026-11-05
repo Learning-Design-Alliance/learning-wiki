@@ -5,24 +5,24 @@ description: Current best learner performance models are severely biased outside
 id: learner-models-miscalibrated-outside-data-interval
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-09-26
+  by: "process:article-ingest"
+  at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2020
 recheck_by: 2023
 sources:
   - id: theophile-gervet-2020
-    resource: "https://github.com/theophilee/learner-performance-prediction"
-    title: "Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction"
-    author: Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell
+    resource: "https://doi.org/10.5281/zenodo.4143614"
+    title: "Gervet, T., Koedinger, K., Schneider, J., & Mitchell, T. (2020). When is deep learning the best approach to knowledge tracing? *Journal of Educational Data Mining, 12*(3), 31–54. [doi:10.5281/zenodo.4143614](https://doi.org/10.5281/zenodo.4143614) Code: https://github.com/theophilee/learner-performance-prediction"
+    author: "Gervet, T., Koedinger, K., Schneider, J., & Mitchell, T."
     q: 2
     i: "?"
     kind: design
     rigour: 2
   - id: theophile-gervet-2020-2
-    resource: "https://github.com/theophilee/learner-performance-prediction"
-    title: "Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction"
-    author: Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell
+    resource: "https://doi.org/10.5281/zenodo.4143614"
+    title: "Gervet, T., Koedinger, K., Schneider, J., & Mitchell, T. (2020). When is deep learning the best approach to knowledge tracing? *Journal of Educational Data Mining, 12*(3), 31–54. [doi:10.5281/zenodo.4143614](https://doi.org/10.5281/zenodo.4143614) Code: https://github.com/theophilee/learner-performance-prediction"
+    author: "Gervet, T., Koedinger, K., Schneider, J., & Mitchell, T."
     q: 2
     i: "?"
     kind: associational
@@ -34,7 +34,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
-> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` On assistments09, both Best-LR and DKT severely overestimate learners when the probability of correct answer is low and underestimate when it is high. [→ Theophile Gervet 2020](#theophile-gervet-2020)
@@ -44,7 +43,7 @@ sources:
 
 ### Theophile Gervet 2020
 
-Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction
+Gervet, T., Koedinger, K., Schneider, J., & Mitchell, T. (2020). When is deep learning the best approach to knowledge tracing? *Journal of Educational Data Mining, 12*(3), 31–54. [doi:10.5281/zenodo.4143614](https://doi.org/10.5281/zenodo.4143614) Code: https://github.com/theophilee/learner-performance-prediction
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
@@ -54,7 +53,7 @@ Calibration analysis (Figure 9) of Best-LR and DKT binned by item-wise observed 
 
 ### Theophile Gervet 2020 (2)
 
-Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach to Knowledge Tracing? Journal of Educational Data Mining, Volume 12, No 3. https://github.com/theophilee/learner-performance-prediction
+Gervet, T., Koedinger, K., Schneider, J., & Mitchell, T. (2020). When is deep learning the best approach to knowledge tracing? *Journal of Educational Data Mining, 12*(3), 31–54. [doi:10.5281/zenodo.4143614](https://doi.org/10.5281/zenodo.4143614) Code: https://github.com/theophilee/learner-performance-prediction
 
 `q2 · i? · the article prints no effect size for this finding` · `associational · r2`
 
@@ -79,8 +78,14 @@ Section 8 calibration analysis with reliability diagrams binned by predicted and
 
 ## Discussion
 
+<!-- deprecated 2026-11-05 (the study now carries its DataCite DOI, 10.5281/zenodo.4143614, verified by title, authors and year):
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
+-->
+
 
 ## Related Claims
+- [Which knowledge-tracing model predicts learner performance best depends on the data, with logistic regression leading on smaller datasets and very long learner histories and deep knowledge tracing on large or sequential ones](knowledge-tracing-model-choice-depends-on-dataset.md) — the same study
+- [Expert-designed knowledge-component models add little to the accuracy of logistic-regression learner models on most tutoring datasets](expert-kc-models-add-little-to-performance-prediction.md) — the same study
 - Logistic regression with the best feature vector outperforms all other approaches on 4 of 9 datasets while DKT leads on the remaining 5, and Markov process methods lag behind — related
 - DKT fails to retain long-term information on datasets with thousands of interactions per learner, but reaches peak performance on a new student faster than logistic regression — related
 - DynEmb outperforms BMF and DKT baselines in future response prediction across five tutoring datasets, with AUC improvement up to 5.43% in the New User setting — related

@@ -52,3 +52,4 @@ EDAIC analysis of 219 questions answered by 4 LLMs, using Friedman and Wilcoxon 
 - [Hallucination rates ranged from 11% to 20.1% across LLMs without significant intermodel differences](hallucination-rates-11-20-percent-no-model-differences.md) — related
 - [Gemini 2.5 Pro achieved the highest accuracy (92.44%) on pediatric dentistry DUS questions, significantly outperforming most other LLMs](gemini-2-5-pro-highest-accuracy-pediatric-dus.md) — related
 - [No statistically significant performance gap existed between Turkish and English administration of the same radiology questions to ChatGPT-5 and Gemini 2.5 Pro](no-language-gap-turkish-english-llm-radiology-accuracy.md) — related
+- [ChatGPT-5 achieved the highest overall accuracy on ophthalmology board-style questions (92.59%), with no statistically significant differences among the four LLMs](chatgpt-5-highest-overall-accuracy-ophthalmology-board-questions.md) — related

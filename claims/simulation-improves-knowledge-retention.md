@@ -51,10 +51,10 @@ Retention theme within the Time dimension synthesis; the review cites a randomiz
 ## Related Claims
 - [Simulation training in critical care during COVID-19 enhanced knowledge and confidence more than theoretical and clinical training alone](simulation-critical-care-covid-knowledge-confidence.md) — related
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — related
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — related
 - [Across the reviewed studies, simulation-based interventions consistently improved paediatric undergraduate learning outcomes, including clinical reasoning, procedural skills and confidence](sbe-consistently-improved-paediatric-ume-outcomes.md) — a broader claim this one bears on
 - [High-fidelity simulation methods (simulators, 3D models, cadaver-based practice) are associated with superior Acquisition retention, though some studies report contradictory findings](high-fidelity-simulation-associated-with-superior-acquisition-retention.md) — related
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
 - [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](no-definitive-superiority-active-methods-dentistry.md) — related
 - [Long-term retention of high-fidelity simulation benefits is controversial: one RCT found no difference at 3 months while another found improvement after a median of 107 days](hf-simulation-retention-controversial.md) — a narrower finding that bears on this claim
 - [VR and conventional teaching produce equivalent medium-term learning success after one month](vr-unit-equivalent-medium-term-learning-success.md) — reports the opposite

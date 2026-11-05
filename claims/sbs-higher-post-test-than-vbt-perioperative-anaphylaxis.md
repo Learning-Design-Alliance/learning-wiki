@@ -54,3 +54,4 @@ Pilot randomised controlled trial comparing SBS (n=42) and VBT (n=42) among four
 - [Active learning students report higher confidence in independently managing high-risk patients at 12 months (46.7% vs. 6%, r = 0.467)](active-learning-higher-confidence-managing-high-risk-patients.md) — related
 - [Both video-based and simulation-based training significantly improve paediatric BLS knowledge immediately after training](video-and-simulation-improve-bls-knowledge-immediately.md) — related
 - [Both video-based and simulation-based training produce similarly high practical skills post-training with no overall between-group difference](video-and-simulation-similar-practical-skills-post-training.md) — related
+- [Facilitated interactive video and simulation-based training produce no statistically significant difference in 3-week BLS OSCE performance when both follow the same standardized lecture](bls-video-vs-simulation-osce-no-difference.md) — related

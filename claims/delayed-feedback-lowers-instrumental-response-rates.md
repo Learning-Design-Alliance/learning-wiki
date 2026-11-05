@@ -65,4 +65,4 @@ Experiments 2 (online, N = 39 undergraduates) and 3 (preregistered online, N = 1
 
 ## Related Claims
 - [Delayed feedback reduces sensitivity to outcome revaluation: a Delay × Val interaction in the pooled data](delayed-feedback-reduces-revaluation-sensitivity.md) — related
-- [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — related
+- [A review reports that in three cued-recall studies pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — related

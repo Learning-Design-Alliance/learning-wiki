@@ -57,9 +57,11 @@ Cultural value orientation shapes how students interpret everyday classroom dema
 5. Balance individual accountability with group outcomes so neither value system is erased ([Cooperative Learning](../patterns/cooperative-learning.md)).
 
 ## Related Strategies
+
 - [Building Empathy](../principles/building-empathy.md) — bridging depends on students and teachers understanding each other's value frameworks
 - [Community-Based Learning](../principles/community-based-learning.md) — extends validation of home and community contexts into curriculum
 - [Communities of Practice](../principles/communities-of-practice.md) — frames learning as participation in a group, congruent with collectivistic norms
+- [Tailor SEL assessment and intervention programmes to the cultural context of Arab communities in Israel](culturally-tailored-sel-arab-communities.md)
 
 ## Examples
 - The Bridging Cultures Project: seven California teachers restructured practices — paired tasks, group celebrations, choral reading — resulting in improved classroom harmony, task completion, and reduced conflict [Greenfield et al., 2003]

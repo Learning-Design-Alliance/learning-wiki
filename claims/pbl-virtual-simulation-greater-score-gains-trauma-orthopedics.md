@@ -54,3 +54,4 @@ Within-group before-to-after score gains in the same assessor-blinded RCT of 50 
 - [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related
 - [Working time and satisfaction do not differ between interactive and passive e-learning groups](e-learning-working-time-satisfaction-no-difference.md) — related
 - [Both groups improved from baseline, with substantially greater gains in the rubric group](rubric-group-greater-pre-post-gains-crown-preparation.md) — related
+- [After the intervention, the peer-review group showed significantly greater post-lecture knowledge gains than the control group (83 vs 76, p = 0.003)](peer-review-greater-post-lecture-knowledge-gains.md) — related

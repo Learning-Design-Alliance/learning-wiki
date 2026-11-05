@@ -40,7 +40,7 @@ The review reports Nielson et al.'s recommendation that "clinical learning exper
 ## Claims
 
 - [Simulation-based curriculum with deliberate practice improved cognitive knowledge and cardiovascular assessment skills from pre-test to post-test (Jeffries et al. study)](../claims/deliberate-practice-harvey-simulation-skills.md) [+W]
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
 
 ## Related Strategies
 

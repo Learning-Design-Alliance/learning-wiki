@@ -47,4 +47,4 @@ Qualitative thematic analysis of responses from 410 Brazilian teachers; Cognitiv
 
 ## Related Claims
 - [University philosophy teachers prioritize fostering students' intellectual growth over transmitting content](philosophy-teachers-prioritize-intellectual-growth-over-content.md) — related
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related

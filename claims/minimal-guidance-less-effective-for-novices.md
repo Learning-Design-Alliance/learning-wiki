@@ -49,13 +49,13 @@ For learners who lack relevant prior knowledge, discovery- or inquiry-style appr
 
 ## Subclaims
 
-`q4 i1` Across 580 comparisons, explicit instruction outperformed unassisted discovery (d = 0.38 in favour of explicit instruction), while discovery that was enhanced with feedback, worked examples, scaffolding or elicited explanations outperformed other forms of instruction. So the deficit belongs to unguided discovery, not to active learning as a whole. [→ Alfieri et al. 2011](#alfieri-et-al-2011)
+`q4 i1` Across 580 comparisons, explicit instruction outperformed unassisted discovery (d = 0.38 in favour of explicit instruction), while discovery that was enhanced with feedback, worked examples, scaffolding or elicited explanations outperformed other forms of instruction. So within discovery learning the deficit belongs to its unassisted form; the meta-analysis did not compare active learning as a whole, and its abstract reports no breakdown by prior knowledge, so on its own it does not show that the deficit is specific to novices. [→ Alfieri et al. 2011](#alfieri-et-al-2011)
 
 `q3 i?` With 112 third- and fourth-grade children learning how to design unconfounded experiments, many more learned the procedure from direct instruction than from discovery. Those who learned it by direct instruction did as well on a later authentic transfer task as the few who discovered it on their own. [→ Klahr & Nigam 2004](#klahr-nigam-2004)
 
 `q2 i?` A narrative review argues that decades of empirical studies show minimally guided instruction to be less effective and less efficient than strongly guided instruction, and that the advantage of guidance recedes only once learners have enough prior knowledge to guide themselves. [→ Kirschner et al. 2006](#kirschner-et-al-2006)
 
-`q4 i1` Across 580 comparisons, outcomes favored explicit instruction over unassisted discovery, d = -0.38, 95% CI [-.44, -.31]. [→ Alfieri 2011](#alfieri-et-al-2011)
+`q4 i1` Across 580 comparisons, outcomes favored explicit instruction over unassisted discovery, d = -0.38, 95% CI printed in the abstract as [-.44, .31] (the missing minus sign on the upper bound is almost certainly a typesetting slip). [→ Alfieri 2011](#alfieri-et-al-2011)
 
 ## Evidence
 

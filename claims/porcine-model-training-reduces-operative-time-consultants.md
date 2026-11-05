@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: pensabene-marco-2026
     resource: "https://doi.org/10.1007/s00383-026-06510-7"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 210 procedures performed by six consultants, mean operative time fell significantly from 59 to 50 minutes after porcine-model training (p = 0.007). [→ Pensabene Marco 2026](#pensabene-marco-2026)
@@ -56,3 +56,4 @@ Retrospective pre/post comparison of procedures by the same six surgeons at one 
 - [Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter after a structured four-week laparoscopic simulator curriculum than before, in one single-group pre-post study.](laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2.md) — related
 - [Mean procedure time decreased from 3.45 to 1.53 minutes after training (p < 0.001)](sbml-probing-procedure-time-reduction.md) — related
 - [All training groups improved repair times with repeated exposure to the simulator](repeated-exposure-improves-durotomy-repair-times.md) — a broader claim this one bears on
+- [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — related

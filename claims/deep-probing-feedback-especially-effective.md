@@ -45,6 +45,6 @@ The editorial reports, describing Tan et al.'s exploratory qualitative case stud
 
 
 ## Related Claims
-- [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](probing-feedback-revise-resubmit-evidence.md) — related
+- [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate improved on some criteria but not others](probing-feedback-revise-resubmit-evidence.md) — related
 - [Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects](online-labs-better-with-instructor-scaffolds.md) — related
 - [Dialogue evidence shows coach feedback induces genuine conceptual change, shifting the agent from misconception to conceptually correct explanation rather than superficial answer alignment](dialogue-feedback-induces-conceptual-change.md) — related

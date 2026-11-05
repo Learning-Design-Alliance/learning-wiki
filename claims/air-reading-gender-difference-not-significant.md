@@ -53,3 +53,4 @@ Subgroup analysis by gender within the main RCT model with interaction terms; th
 - [The ASSISTments intervention raised TerraNova scores by 10.26 points and girls outscored boys by 5.21 points overall, both statistically significant](assistments-main-effects-treatment-and-gender.md) — related
 - [Among top-performing math students, male students show strongly math-oriented math–reading achievement profiles whereas female students' profiles are more balanced](math-reading-profile-gender-tilt-top5.md) — related
 - [Accelerated Reader appears more effective for girls than boys, though results are positive for both](ar-more-effective-for-girls.md) — reports the opposite
+- [Book desert severity does not significantly moderate the book distribution treatment effect, though marginal effects differ descriptively](book-desert-moderator-null.md) — related

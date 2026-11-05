@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 526 claims (278 show a difference, 109 mixed, 139 no difference) · 367 studies (163 associational, 146 causal, 20 review, 16 quant-synthesis, 10 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 56 of 367 report an effect size · 518 claims rest on one study
+> **Evidence** · 528 claims (280 show a difference, 109 mixed, 139 no difference) · 369 studies (164 associational, 147 causal, 20 review, 16 quant-synthesis, 10 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 56 of 369 report an effect size · 520 claims rest on one study
 
 ## How to read this page
 
@@ -165,7 +165,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Teaching experience is a minor negative predictor of digital data use, while age and gender show no significant effect](../claims/experience-negative-age-gender-null-data-use.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Test effort differs substantially by student subgroup, with males rapidly guessing nearly twice as often as females in later grades and Black students rapidly guessing more often than White students](../claims/test-effort-differs-by-subgroup-rapid-guessing.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Testimony at a 1987 congressional hearing reported 1985 SAT averages in which Black women scored 43 points below Black men and 264 points below white men, which the witness called a double penalty for minority females](../claims/minority-females-doubly-penalized-on-tests.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
-- [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test](../claims/test-scores-gate-gifted-program-entry.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which used SAT scores to decide summer-program invitations, was inviting over 2,500 boys but only 1,081 girls although equal numbers took the test](../claims/test-scores-gate-gifted-program-entry.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The Altair (engine) main effect is not significant for winter RIT scores in either content area, but an Altair-by-sex interaction is significant in Reading only](../claims/altair-effect-null-reading-sex-interaction.md) [~M] — an instructional effect differs by group
 - [The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender](../claims/gender-moderates-tuga-effects.md) [+W] — an instructional effect differs by group
 - [The exam playbook intervention showed no statistically significant treatment-effect differences by gender, race, class standing, or prior performance](../claims/exam-playbook-no-subgroup-treatment-differences.md) [-M] — an instructional effect differs by group
@@ -565,6 +565,8 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Female students scored significantly higher than males on several post-test competency domains despite no pre-test gender differences](../claims/sbl-gender-differences-post-test-females-higher.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Male students reported higher confidence than female students despite no performance difference](../claims/male-students-report-higher-confidence-no-performance-difference.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Sex does not moderate sleep–outcome associations](../claims/sex-no-moderation-sleep.md) [-W] — an instructional effect differs by group
+- [Female students report higher stress than male students during hands-on artificial-tooth training, despite comparable performance](../claims/female-higher-stress-hands-on-training.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Variance-covariance structures of gaming and motivation differ by sex, supporting sex-stratified modeling](../claims/sex-noninvariance-gaming-motivation-covariance.md) [+W] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

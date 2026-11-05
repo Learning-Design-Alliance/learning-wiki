@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours"
-description: "A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours"
+title: "A review reports that in three cued-recall studies pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours"
+description: "A review reports that in three cued-recall studies pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours"
 id: feedback-timing-moderates-pretesting
 status: review
 generated:
@@ -28,16 +28,16 @@ sources:
     rigour: 3
 ---
 
-# A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours
+# A review reports that in three cued-recall studies pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
-> **Currency** · newest study 2023 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-14: Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials -->
 
 ## Subclaims
-`q2 i?` With paired associates, delaying feedback nullified the pretesting advantage on cued recall posttests. [→ Steven C. Pan 2023](#steven-c-pan-2023)
+`q2 i?` In three paired-associate studies the review describes (Grimaldi & Karpicke 2012; Vaughn & Rawson 2012; Hays et al. 2013), only immediate correct-answer feedback yielded a pretesting effect over a non-testing control on cued-recall posttests, and delaying feedback nullified it. [→ Steven C. Pan 2023](#steven-c-pan-2023)
 `q2 i?` With trivia facts, pre-instruction testing enhanced learning even when feedback was delayed up to 24 hours. [→ Steven C. Pan 2023 (2)](#steven-c-pan-2023-2)
 
 ## Evidence

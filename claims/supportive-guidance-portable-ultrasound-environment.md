@@ -50,3 +50,4 @@ Framework analysis of reflective narratives in the mixed-methods portfolio study
 - [Students perceived instructor feedback as significantly more useful than AI-generated feedback, with no significant differences on fairness, developmental value or encouragement](instructor-feedback-perceived-more-useful-than-ai-feedback.md) — related
 - [Expert instructor presence, repetitive practice and multiple learning strategies were the most common instructional design features](usra-common-design-features.md) — related
 - [Self-efficacy for ultrasound procedural performance increased significantly after training among Korean Medicine students (p < .001, d = 1.44)](ultrasound-training-self-efficacy-increase-km.md) — related
+- [Nursing students report ineffective and inconsistent feedback in clinical practice due to overcrowded groups and limited instructor availability](students-report-ineffective-clinical-feedback-nanda.md) — related

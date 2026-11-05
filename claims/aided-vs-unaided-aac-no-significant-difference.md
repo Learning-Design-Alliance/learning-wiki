@@ -69,3 +69,4 @@ LRR analysis of the same moderator: exclusively aided AAC had larger average est
 - Under-reported participant characteristics and implementation factors, plus effect-size metric limitations, explain the scarcity of significant moderator differences — related
 - [Communicative function taught (behavioral regulation, joint attention, social interaction, or multiple) does not statistically moderate AAC effects](communicative-function-no-moderation.md) — related
 - [The number of communication modes used during intervention does not statistically moderate AAC treatment effects](number-communication-modes-no-moderation.md) — related
+- [Book desert severity does not significantly moderate the book distribution treatment effect, though marginal effects differ descriptively](book-desert-moderator-null.md) — related

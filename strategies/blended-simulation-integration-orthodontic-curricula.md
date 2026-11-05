@@ -57,6 +57,7 @@ The review recommends that educators integrate simulation-based methods into ort
 - [Blend digital resources with traditional teaching to create a blended learning approach](blended-digital-traditional-pathology-teaching.md)
 - [Combine standardized theoretical training with high-fidelity simulation-based practical skills training](combine-theoretical-training-with-simulation-phtls.md)
 - [Expand simulation-based and laboratory training before and alongside clinical practice](expand-simulation-laboratory-training-nursing.md)
+- [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 
 ## Examples
 -

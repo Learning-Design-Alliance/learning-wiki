@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 1979 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1979 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -68,8 +68,8 @@ Experiment 3: eight paid volunteers from an introductory college physics course,
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
 - The g-factor's relationship to the higher taxonomy levels declines across grade levels — related
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — a broader claim this one bears on
-- [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
-- [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related
+- [In one physics experiment, the hierarchical-organization advantage was significant for medium-ability but not low-ability subjects; no ability-by-treatment interaction was reported](ability-moderates-hierarchical-organization-benefit.md) — related
+- [No hierarchical organization is best for every task: students given organization A did better on deductive tasks and those given organization B on historical tasks](organization-task-match-determines-benefit.md) — related
 - [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](summarization-improves-learning.md) — related
 - [Proportions of variance explained follow a curvilinear pattern across the six taxonomy levels](curvilinear-variance-pattern-across-taxonomy-levels.md) — related
 - [Kit+TA students spontaneously transferred the TA's hierarchical spatial organization to open-ended post-test answers, unlike Kit-Only students](ta-transfer-spatial-hierarchy-organization.md) — related

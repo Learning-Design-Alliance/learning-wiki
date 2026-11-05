@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2017
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: arslantas-2017
     resource: "https://doi.org/10.21890/ijres.327905"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q1`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Teachers (N=7) viewed strategies applied during the process as academically effective, but a prevailing view (N=7) was that behavior change would be hard to occur on such short notice. [→ Arslantas 2017](#arslantas-2017)

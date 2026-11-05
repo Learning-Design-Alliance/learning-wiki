@@ -89,3 +89,5 @@ Design-tier stratification of the review's included studies: 3 RCTs assessed wit
 - [Undergraduate dental students report high satisfaction and self-confidence in simulation-based clinical decision-making training using LLM-based standardized virtual patients](dental-students-high-satisfaction-llm-virtual-patients.md) — a narrower finding that bears on this claim
 - [Structured debriefing is reported to enhance clinical skills and affect patient care outcomes](structured-debriefing-enhances-clinical-skills.md) — related
 - [XR-based POCUS training is non-inferior to standard training for TAPSE measurement accuracy](xr-training-non-inferior-tapse.md) — related
+- [Use of the AI virtual patient tool was associated with improved self-perceived structured diagnostic approach, initial-diagnosis confidence, and patient-explanation confidence](ai-virtual-patient-structured-approach-gains.md) — a narrower finding that bears on this claim
+- [Small-group, communication-focused SP simulations increase pre-licensure nursing students' comfort and confidence in therapeutic communication](sp-simulation-increases-therapeutic-communication-comfort.md) — related

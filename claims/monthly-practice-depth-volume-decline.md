@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2019
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: garcía-suárez-2019
     resource: "https://doi.org/10.3390/ijerph16050768"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Oermann et al., the monthly-practice (6 minutes a month with a voice advisory manikin) and no-practice groups did not differ in compressions:minute, hand placement or volume:minute, but did differ in depth and volume administered, which decreased over successive measurements in the no-practice control group. [→ García-Suárez 2019](#garcia-suarez-2019)

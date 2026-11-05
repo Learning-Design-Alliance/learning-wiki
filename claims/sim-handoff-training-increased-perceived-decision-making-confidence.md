@@ -74,3 +74,4 @@ Same SET-M post-simulation survey. The article reports "94%, N = 15" strongly ag
 - [Nursing students experience inadequacy in clinical decision-making as the biggest challenge during clinical practice](inadequacy-clinical-decision-making-biggest-challenge.md) — related
 - [Most participants who implemented their training reported increased self-value, empowerment and self-confidence](rvt-implementers-empowerment-confidence.md) — related
 - [Structured debriefing is reported to enhance clinical skills and affect patient care outcomes](structured-debriefing-enhances-clinical-skills.md) — related
+- [Students perceive SFH simulation as beneficial for understanding landmarks and building confidence in performing measurements](simulation-perceived-beneficial-sfh.md) — related

@@ -51,3 +51,4 @@ Semi-structured interviews with five female online students, recruited via conve
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
 - [Students experienced technical challenges, internet issues and navigation issues during engagement with online simulation approaches](students-experienced-technical-internet-navigation-issues.md) — related
 - [Iraqi EFL learners reported infrastructure, technology, and social barriers to flipped classroom implementation](fci-implementation-barriers-iraq.md) — a narrower finding that bears on this claim
+- [Offering technology support enhanced motivational access: 9 patients joined after learning support was available](offering-support-enhanced-motivational-access.md) — related

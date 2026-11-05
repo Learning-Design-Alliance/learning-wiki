@@ -50,7 +50,7 @@ Thematic analysis of post-implementation surveys, interviews, peer-session video
 
 ## Related Claims
 - [ChatGPT feedback required doctoral students to validate the procedural accuracy of algorithm-generated outputs, with judgement shaped by prompt quality](chatgpt-feedback-requires-output-validation.md) — a narrower finding that bears on this claim
-- [Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners](peer-feedback-soft-evaluative-judgement-statistics.md) — a narrower finding that bears on this claim
+- [Peer feedback promoted critical reflection, collaboration and engagement, but one interviewed student doubted its reliability because peers were statistics beginners](peer-feedback-soft-evaluative-judgement-statistics.md) — a narrower finding that bears on this claim
 - [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — a broader claim this one bears on
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on

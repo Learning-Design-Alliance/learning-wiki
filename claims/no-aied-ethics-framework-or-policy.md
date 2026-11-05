@@ -53,3 +53,4 @@ The editorial asserts, citing Holmes et al., 2018, that "no framework has been d
 - [Practitioner governance activity in Australian Group of Eight institutions outpaces what the published GenAI literature has documented, while Indonesian participants report less formal scaffolding](governance-practice-outpaces-genai-scholarship.md) — reports the opposite
 - [Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions](existing-guidance-partial-ethical-coverage.md) — reports the opposite
 - AIED has long researched pedagogy, cognition, and social and cultural context, with ethics and human rights a strong more recent interest — related
+- [No published investigations specifically address the use of coaching in endodontics, and no recommended models exist](no-published-coaching-research-endodontics.md) — related

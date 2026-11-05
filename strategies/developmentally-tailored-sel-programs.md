@@ -54,6 +54,7 @@ The article recommends matching SEL approaches to children's developmental stage
 - [Provide self-regulation interventions at varying levels and intensity matched to youth context and needs](tiered-self-regulation-intervention-support.md)
 - [Tailor active methodologies to the specific educational context and subject matter](tailor-active-methods-to-context-dentistry.md)
 - [Sequence SEL intervention content by developmental stage, targeting skills most salient to each grade or age that serve as building blocks for later complex skills](developmentally-sequenced-sel-skills.md)
+- [Tailor SEL assessment and intervention programmes to the cultural context of Arab communities in Israel](culturally-tailored-sel-arab-communities.md)
 
 ## Examples
 -

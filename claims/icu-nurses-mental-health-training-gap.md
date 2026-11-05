@@ -53,3 +53,4 @@ Survey item frequencies from the cross‐sectional study of 502 Jordanian ICU nu
 - [Simulation-based education increases post-registration nurses' odds of satisfactory observed delirium-care practice at 6 weeks in a cluster RCT](sbe-delirium-odds-satisfactory-practice-rct.md) — related
 - [Most nurses and midwives report never receiving formal in-service wound-management training](most-nurses-no-formal-wound-training.md) — related
 - [Participants perceived training adequacy differently by group: written-instructions group wanted more, expert-led group found it too time-consuming](mul-training-perceived-adequacy-varies-by-group.md) — related
+- [68.1% of PHC workers had no hypertension in-service training in the past two years, and none of the surveyed facilities had a chronic care model or hypertension registry](no-training-and-no-chronic-care-systems-gusau-phcs.md) — related

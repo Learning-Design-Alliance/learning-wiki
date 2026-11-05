@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: vanessa-frei-nathalie-giroud-2025
     resource: "https://doi.org/10.1038/s41539-025-00306-5"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A significant two-way interaction between training modality and auditory working memory, with post-hoc tests showing significantly greater SNR improvement after immersive training for lower-AWM participants, but no modality difference for higher-AWM participants. [→ Vanessa Frei & Nathalie Giroud 2025](#vanessa-frei-nathalie-giroud-2025)

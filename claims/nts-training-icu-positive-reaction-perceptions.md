@@ -48,5 +48,5 @@ Systematic review of reaction-dimension outcomes reported in three studies with 
 - [NTS training programs in ICUs are associated with improved teamwork, situational awareness, leadership and communication behaviors, with varying evidence certainty](nts-training-icu-improves-teamwork-behaviors.md) — related
 - [Participants report strong future engagement intentions and high enjoyment of the e-textile STEAM PD program](e-textile-pd-future-engagement-satisfaction.md) — related
 - [Beneficial design features include diverse, authentic case variation and immediate, individualized, actionable, transparent feedback, yet only 52.6% of studies incorporated feedback](ai-virtual-patients-feedback-feature-underincorporated.md) — related
-- [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](debriefing-psychometric-instruction-valued.md) — related
+- [Graduate students in a simulated clinical course reported positive experiences with its weekly debriefing and guided exploration of psychometric properties](debriefing-psychometric-instruction-valued.md) — related
 - [Post-assessment debriefing supported positive effects on non-technical skills ability in four studies](debriefing-positive-effect-on-nts-ability.md) — related

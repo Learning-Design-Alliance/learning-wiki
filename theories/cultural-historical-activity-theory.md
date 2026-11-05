@@ -61,7 +61,7 @@ Cultural-historical activity theory (CHAT) holds that human thinking and learnin
 - [Children's tool use progresses from unspecific manual use to specific instrumental use governed by the tool's culturally established mode of acting](../claims/galperin-tool-use-developmental-study.md) [+W]
 
 ## The evidence by question
-- *Does introducing a new tool, space or programme change practice on its own, or does lasting change need the activity's rules, roles and community redesigned with it?* [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [+M]
+- *Does introducing a new tool, space or programme change practice on its own, or does lasting change need the activity's rules, roles and community redesigned with it?* [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [+M]
 - *When several groups act on a shared task, does the learning object stay what the design intended, and what keeps it from narrowing?* [Community projects need conceptual framing to avoid narrowing the learning object](../claims/community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) [+W]
 
 ## Related Theories

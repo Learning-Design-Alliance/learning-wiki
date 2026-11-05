@@ -55,3 +55,4 @@ Descriptive time-on-task report from the instruction phases of the guidance-sequ
 - [Preceding high guidance with low guidance conferred no advantage for children's CVS learning](no-advantage-low-before-high-guidance.md) — related
 - [Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time](hint-conditions-time-on-task.md) — related
 - [Engage-to-Unlock redistributed effort across tasks: participants spent more time writing and less time evaluating, without increasing overall task duration](engage-to-unlock-redistributes-effort-across-tasks.md) — related
+- [VSG students took longer on some procedures at post-test, which the authors interpret as more thorough execution rather than reduced performance](vsg-longer-procedure-times-thoroughness.md) — related

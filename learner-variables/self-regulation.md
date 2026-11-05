@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 256 claims (181 show a difference, 43 mixed, 32 no difference) · 184 studies (68 causal, 40 associational, 38 review, 14 quant-synthesis, 11 theoretical, 10 qualitative, 3 design), `q1`–`q4` · 34 of 184 report an effect size · 247 claims rest on one study
+> **Evidence** · 257 claims (182 show a difference, 43 mixed, 32 no difference) · 185 studies (68 causal, 41 associational, 38 review, 14 quant-synthesis, 11 theoretical, 10 qualitative, 3 design), `q1`–`q4` · 35 of 185 report an effect size · 248 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -266,9 +266,9 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Mentor-guided SRL approaches positively affected residents' practice, including progressive independence in goal setting and improved practice habits](../claims/mentor-guided-srl-positive-resident-practice.md) [+M] — instruction changes it
 - [Homework solutions showed experimental students using multiple strategies correctly while control students made additive errors](../claims/homework-solutions-show-strategy-and-error-differences.md) [+W] — instruction changes it
 - [Strategy teaching increased students' use of problem-solving strategies and reduced error types in ratio problems](../claims/strategy-teaching-increases-strategy-use-reduces-errors.md) [+M] — instruction changes it
-- [Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest](../claims/web-training-prepost-gains-self-plan-self-monitor.md) [+M] — instruction changes it
+- [College students given web-based metacognitive skills training rated their self-plan, self-monitor and total metacognitive scores higher at posttest than pretest, but gained more than a control group only on self-plan](../claims/web-training-prepost-gains-self-plan-self-monitor.md) [+M] — instruction changes it
 - [Playing a web-based simulation game produces significantly higher deep-learning strategy use than no-game conventional teaching, controlling for pre-game strategy use](../claims/simulation-game-increases-deep-learning-strategy.md) [+M] — instruction changes it
-- [Self-monitoring strategies used during or at the end of Social Studies lessons moved fifth-graders' self-monitoring scores significantly closer to the scale's ideal value than formal curriculum teaching](../claims/self-monitoring-strategies-improve-self-monitoring-levels.md) [+M] — instruction changes it
+- [Fifth-graders taught Social Studies with self-monitoring strategies differed significantly from a formal-curriculum group on a self-monitoring post-test, which the authors read as scores closer to the scale's ideal value](../claims/self-monitoring-strategies-improve-self-monitoring-levels.md) [+M] — instruction changes it
 - [Teachers and students reported that self-monitoring strategies supported academic self-monitoring but produced little behavioral change and were not used for self-regulation](../claims/qualitative-views-self-monitoring-strategies.md) [~W] — instruction changes it
 - [Timing of self-monitoring strategies (during class vs. at the end of class) made no significant difference to self-monitoring or achievement outcomes](../claims/strategy-timing-no-significant-difference.md) [-M] — instruction changes it
 - [Students reported coaching improved six executive functioning skills, including self-talk, emotion regulation, problem solving, planning, life balance, and task initiation](../claims/coaching-improves-executive-functioning-skills-six-ways.md) [+M] — instruction changes it
@@ -305,6 +305,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [No significant relationships were found between vocabulary learning strategy use and recognition vocabulary, or between strategy use and vocabulary in the control group](../claims/no-relationship-strategies-recognition-and-control-vocabulary.md) [-M] — learners who differ on it differ in outcomes
 - [Students integrate educational Instagram content into self-regulated learning strategies including rapid revision, self-assessment, and consolidation](../claims/histo-embryo-instagram-supports-self-regulated-learning.md) [+M] — measured as an outcome of the instruction studied
 - [Self-monitoring accuracy for a complex clinical skill improved over a six-month retention interval](../claims/self-monitoring-accuracy-improves-over-six-months.md) [+M] — measured as an outcome of the instruction studied
+- [In a structural model, self-regulation predicts time management (β = 0.72), time management predicts academic self-efficacy (β = 0.61), and self-regulation directly predicts academic self-efficacy (β = 0.44)](../claims/sem-direct-paths-sr-tm-ase.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

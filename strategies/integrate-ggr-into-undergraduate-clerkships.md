@@ -51,6 +51,7 @@ The article recommends integrating structured reflection sessions like GGR into 
 ## Related Strategies
 
 - [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
+- [Structured tutor-guided debriefing to drive reflective observation and abstract conceptualisation](structured-debriefing-reflection-bedside.md)
 
 ## Examples
 -

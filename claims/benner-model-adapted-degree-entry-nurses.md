@@ -50,3 +50,4 @@ Authors' interpretive argument (type e) about adapting Benner's five-level model
 - [Basic perioperative care competencies transfer most smoothly to clinical practice after neurosurgical specialty nurse training](basic-perioperative-competencies-transfer-readily-neurosurgical-nurses.md) — related
 - [Transfer of advanced competencies is limited by institutional case exposure, technical platforms, and multidisciplinary maturity rather than training deficiencies](advanced-competency-transfer-limited-by-institutional-resources.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
+- [Four attributes failed consensus: nursing specialty completion, postgraduate/doctoral degrees, longer experience as automatically higher effectiveness, and younger age](four-attributes-failed-consensus.md) — related

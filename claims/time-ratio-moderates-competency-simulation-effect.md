@@ -48,4 +48,4 @@ Post hoc subgroup analysis of the 12 competency-versus-noncompetency studies, gr
 - [Competency-based simulation training outperforms noncompetency-based simulation for procedural skill outcomes in health professionals (moderate pooled effect)](competency-simulation-beats-noncompetency-procedural-skills.md) — related
 - [Competency-based simulation effects are large for skills measured in the simulation lab but small and non-significant for clinical behaviors and patient outcomes](competency-simulation-large-skill-small-clinical-effects.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related

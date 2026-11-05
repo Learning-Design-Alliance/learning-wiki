@@ -51,3 +51,4 @@ Based on cross-lagged panel models in three domains across five waves, the artic
 - [The strength of relations among self-concept and value constructs remains stable in size across Grades 5 to 9](stable-relation-size-across-secondary-years.md) — related
 - [Cross-lagged relations among self-concept and value constructs remain stable when controlling for domain-specific achievement measured by school grades](relations-stable-controlling-school-grades.md) — related
 - Expectancy-value theory research previously neglected value-facet differentiation, long time spans with multiple waves, and domain-specific patterns — related
+- [Within all domains, achievement is positively related to self-concept in the same domain among German academic-track secondary students](within-domain-positive-achievement-self-concent-relations-eight-domains.md) — related

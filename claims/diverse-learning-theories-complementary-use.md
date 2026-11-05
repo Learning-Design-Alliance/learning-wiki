@@ -74,3 +74,4 @@ The review's discussion asserts, without new data, that "No theory isolated is s
 - A scoping review identified 11 studies (2010–2025) characterizing learning environments for teaching Pharmaceutical Care, predominantly conducted in the United States — related
 - The most widely adopted theory among the reviewed studies is Experiential Learning Theory — related
 - [Theoretical or pedagogical foundations of research education programs were inconsistently reported, with some programs naming theories such as self-efficacy theory and Roger's Diffusion of Innovation](research-education-pedagogical-theories-inconsistent.md) — related
+- [Bedside teaching is rooted in experiential learning theory and facilitates diverse skill acquisition in clinical contexts](bedside-teaching-rooted-experiential-theory.md) — a narrower finding that bears on this claim

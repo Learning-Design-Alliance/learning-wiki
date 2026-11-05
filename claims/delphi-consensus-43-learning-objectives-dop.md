@@ -47,3 +47,4 @@ Two‐round online Delphi survey (July–August 2024) with German university den
 ## Related Claims
 - [The German curriculum catalogue (CES) already contains the key competencies needed for oral health care of care‐dependent older adults](ces-contains-key-competencies-dop.md) — related
 - [European dental schools show large variation in gerodontology teaching, with many lacking clinical and outreach components](european-gerodontology-teaching-variation-gaps.md) — related
+- [A three-round Delphi panel of 47 SMHPs reached consensus on 151 competencies for interdisciplinary collaboration](delphi-consensus-151-competencies.md) — related

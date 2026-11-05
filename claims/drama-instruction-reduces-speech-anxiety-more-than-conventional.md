@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: mehmet-nuri-kardaş-raşit-koç-2017
     resource: "https://eric.ed.gov/?id=EJ1131916"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Test-group posttest speech anxiety (mean 36.94, very low range) was significantly lower than control-group posttest anxiety (mean 47.68, low range), t = -4.459, p = .000. [→ Mehmet Nuri Kardaş & Raşit Koç 2017](#mehmet-nuri-kardas-rasit-koc-2017)

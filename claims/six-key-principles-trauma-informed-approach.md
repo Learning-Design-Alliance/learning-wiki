@@ -47,3 +47,4 @@ Definitional statement from the review's background section, attributed to SAMHS
 ## Related Claims
 - [Multicultural approach to education may increase cultural sensitivity and reduce race-related stressors (review attribution)](multicultural-approach-sensitivity-stressors.md) — related
 - The author sets out peer counsellor competency as requiring defined personal qualities, extended skills training, and referral to supervisors when issues exceed their capability — related
+- [Panelists identified cultural competence, equity, and a student-centered mindset as a core collaboration domain, including trauma-informed approaches](smh-collab-cultural-competence-equity-domain.md) — related

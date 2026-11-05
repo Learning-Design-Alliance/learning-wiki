@@ -47,7 +47,7 @@ The review's narrative synthesis of its seven VR studies states this qualificati
 ## Related Claims
 - [Instructor feedback during VR laparoscopy training reduced time and repetitions to proficiency, but the no-feedback group achieved a higher final performance score](instructor-feedback-vr-training-mixed-effects.md) — related
 - [Multimodal feedback systems produced greater simulator score improvements than conventional feedback in basic robotic skills training](multimodal-feedback-outperforms-conventional.md) — related
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — related
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — related
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — related
 - [VR training's effect on OSATS-assisted skill acquisition shows conflicting evidence](vr-osats-conflicting-evidence.md) — related
 - [Skills trained in a haptic simulator were not transferable to a non-haptic simulator in one randomized trial](haptic-trained-skills-not-transferable-non-haptic-simulator.md) — related

@@ -52,3 +52,4 @@ Autoethnographic narrative from the community partner describing direct email an
 - The authors argue that co-establishing the service-learning project with the community partner secures partner buy-in and lasting community value — related
 - [Committee members hold that driving systems-level change requires actively and directly engaging local communities rather than passively asking for feedback](active-community-engagement-over-passive-feedback.md) — related
 - [Intergroup contact in diverse schools reduces prejudice and increases positive cross-racial relationships, alongside improved critical thinking and civic outcomes](diverse-schools-social-and-civic-benefits.md) — related
+- [Students reported that SP simulation practice helped them see patients as people and validated their feelings, supporting rapport building](sp-simulation-supports-rapport-and-patient-personhood.md) — related

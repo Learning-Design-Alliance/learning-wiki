@@ -5,8 +5,8 @@ description: "The survey reviews deep learning KT in four sub-categories: deep k
 canonical: true
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-09-24
+  by: "process:article-ingest"
+  at: 2026-11-05
 sources:
   - id: shuanghong-shen-2021
     resource: "https://arxiv.org/abs/2105.15106"
@@ -17,7 +17,7 @@ sources:
 # Deep Learning Knowledge Tracing Models
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (3 for, 6 mixed, 1 against) · 7 studies (4 design, 1 causal, 1 review, 1 associational), `q1`–`q2` · 0 of 7 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (3 for, 8 mixed, 1 against) · 9 studies (6 design, 1 causal, 1 review, 1 associational), `q1`–`q2` · 0 of 9 report an effect size · 12 claims rest on one study
 
 ## Description
 The survey reviews deep learning KT in four sub-categories: deep knowledge tracing with recurrent networks, memory-aware tracing such as DKVMN with key and value matrices, attentive tracing such as SAKT, SAINT and AKT built on self-attention, and graph-based tracing over knowledge-concept graphs. It argues deep learning is suited to "modeling complex learning processes, particularly when a significant amount of learning interaction data" is available.
@@ -50,6 +50,8 @@ The survey reviews deep learning KT in four sub-categories: deep knowledge traci
 - [Sequential deep learning models outperform static models for concepts mapped to multiple post-test questions](../claims/sequential-models-outperform-static-multi-question-concepts.md) [+W]
 - [Task-specific hyperparameter optimization substantially raises baseline DKT performance, indicating prior DKT-vs-PKT gaps partly reflect insufficient baseline tuning](../claims/task-specific-hyperparameter-tuning-raises-dkt-baseline.md) [~W]
 - [DKT+ regularization addresses two DKT deficits: failure to reconstruct observed interactions and inconsistent knowledge-state transitions across time steps.](../claims/dkt-plus-regularization-addresses-reconstruction-and-transition-consistency.md) [~W]
+- [Which knowledge-tracing model predicts learner performance best depends on the data, with logistic regression leading on smaller datasets and very long learner histories and deep knowledge tracing on large or sequential ones](../claims/knowledge-tracing-model-choice-depends-on-dataset.md) [~M] — deep knowledge tracing led on five of nine datasets and logistic regression on four
+- [Under one standardised evaluation, most deep knowledge-tracing models published after the original DKT do not beat it, and a common KC-level evaluation shortcut inflates reported accuracy](../claims/newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md) [~M] — a benchmark of ten deep models on seven datasets under one protocol
 
 ## The evidence by question
 

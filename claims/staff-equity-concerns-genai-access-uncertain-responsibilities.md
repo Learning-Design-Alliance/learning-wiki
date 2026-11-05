@@ -46,7 +46,7 @@ The 2023 staff survey at the Australian university found "equity concerns relate
 
 
 ## Related Claims
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — a broader claim this one bears on
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — a broader claim this one bears on
 - [Staff raised equity concerns that students who pay for upgraded GenAI tools gain an advantage over peers using free versions](paid-ai-tool-access-equity-advantage.md) — a narrower finding that bears on this claim
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related

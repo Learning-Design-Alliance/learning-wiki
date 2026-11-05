@@ -60,7 +60,7 @@ Thematic analysis of semi-structured interviews and focus groups conducted in sp
 
 ## Related Claims
 
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
 - [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](inclusive-innovation-solutions-perceived-met-outcomes.md) — related
 - [Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions](turnover-threatens-sustainability-inclusive-innovation.md) — related

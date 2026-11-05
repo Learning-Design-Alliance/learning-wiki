@@ -9,7 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: mixed
 newest_evidence: 2024
-source_checked: 2026-10-28
+source_checked: 2026-11-05
 sources:
   - id: li-2024
     resource: "https://doi.org/10.1007/s11423-024-10443-0"
@@ -49,7 +49,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (4 entries) · design `r3` · `q2`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-28 (automated, 4 of 4 entries) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 4 of 4 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Creativity scores improved significantly from pretest (M = 4.0, SD = .49) to posttest (M = 4.2, SD = .51), t(87) = 1.83, p = .035. [→ Li 2024](#li-2024)

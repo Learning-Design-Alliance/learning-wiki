@@ -50,3 +50,4 @@ Theme 3 (Barriers) from thematic analysis of open-ended responses across both in
 - [Thematic analysis of open-ended responses identified four themes: enhanced skill development and safe learning environment, bridging theory with practice, barriers, and looking ahead](four-themes-sbl-oral-radiology-qualitative.md) — related
 - [Dental students hold overall positive perceptions of simulation-based learning in oral radiology, with a combined mean of 4.27 on a 5-point Likert scale](dental-students-positive-perceptions-sbl-oral-radiology.md) — related
 - [Open-ended reflections most often highlighted realism of the simulation (51.5%), the simulation patient's role (32.0%), and interprofessional collaboration (20.6%)](mcleims-open-ended-themes.md) — related
+- [Resident qualitative feedback requested additional preparatory materials and raised simulation realism concerns related to mannequin fidelity and cadaver quality](resident-realism-concerns-qualitative.md) — related

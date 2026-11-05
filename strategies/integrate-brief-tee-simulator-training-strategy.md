@@ -45,7 +45,8 @@ The authors recommend implementing TEE simulator training into medical curricula
 - [Simulator-based TEE training is feasible for larger cohorts of early medical students](../claims/tee-simulator-training-feasible-large-cohorts.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Combine a short standardized didactic with one hour of hands-on simulation to initiate foundational pediatric TEE competency during residency](short-didactic-plus-one-hour-simulation-for-tee-competency.md)
 
 ## Examples
 -

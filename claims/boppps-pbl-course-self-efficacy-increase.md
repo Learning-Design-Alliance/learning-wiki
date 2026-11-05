@@ -50,3 +50,4 @@ Paired-samples t-test on the same 60-nurse single-group pilot, using a locally m
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
 - [Participants rated the BOPPPS-PBL teaching model highly, with a mean teaching-effectiveness score of 56.43 ± 5.17 out of 60](boppps-pbl-high-teaching-effectiveness-ratings.md) — related
 - [Self-efficacy for ultrasound procedural performance increased significantly after training among Korean Medicine students (p < .001, d = 1.44)](ultrasound-training-self-efficacy-increase-km.md) — related
+- [Programmed instruction improved nursing students' general self-efficacy more than traditional teaching, though the authors caution the contribution cannot be isolated](programmed-instruction-self-efficacy-gses.md) — related

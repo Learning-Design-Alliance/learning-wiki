@@ -48,3 +48,4 @@ Domain-level analysis of the blinded skills assessment showed "superior performa
 ## Related Claims
 - [VR-based training yields higher objective structured endoscopic skills scores than model simulation](vr-training-higher-endoscopic-skills-scores.md) — a broader claim this one bears on
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — related
+- [Simulation training's advantage is concentrated in the technically demanding views 5–11, with no significant difference on the first four basic mid-esophageal views](simulation-advantage-limited-to-demanding-views-5-11.md) — related

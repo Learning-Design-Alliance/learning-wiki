@@ -48,3 +48,4 @@ Review's Table 1 summary of the Khan et al. prospective cluster randomisation st
 
 - [Seven studies totalling 647 learners reported improved knowledge after WhatsApp-based learning, though methodological weaknesses were apparent](whatsapp-learning-knowledge-improvement-647-learners.md)
 - [In the one controlled pre/post comparison, WhatsApp learning and didactic lectures both improved knowledge but did not differ between groups](whatsapp-versus-lectures-no-between-group-difference.md) — related
+- [A tele-education program (online lecture plus one month of WhatsApp microlearning) improved internal medicine residents' knowledge of inpatient hyperglycemia compared with no intervention](teleeducation-improved-resident-hospital-hyperglycemia-knowledge.md) — related

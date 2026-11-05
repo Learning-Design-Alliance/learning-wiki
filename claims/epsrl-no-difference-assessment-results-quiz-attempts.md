@@ -70,3 +70,4 @@ Mann–Whitney U comparison of mean attempts per quiz (students had up to six at
 - [Students who use the ePSRL Management System spend more time learning per month and complete the course in fewer months than non-users](epsrl-increases-learning-motivation-time-and-speed.md) — related
 - [Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice](learning-paths-srl-accuracy-without-effort.md) — related
 - [In eSpark quests requiring three post-quiz attempts, students reached the 80 percent mastery criterion only 14 percent of the time](espark-post-quiz-mastery-failure-rate.md) — related
+- [Greater practice-quiz use correlated with better knowledge-test scores, while more summative test attempts correlated with worse scores](practice-quiz-use-correlates-with-knowledge.md) — related

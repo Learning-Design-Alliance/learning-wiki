@@ -109,3 +109,4 @@ Uncontrolled before-after study (RT-SIM) with 32 psychiatry residents completing
 - [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — related
 - [Residents attributed CDM competency gains to the VP platform's structured design: systematic diagnostic reasoning, adaptive competence under uncertainty, and reflective learning](vp-structured-design-mechanisms-qualitative.md) — related
 - [Virtual patient simulations produced educational improvements equivalent to live standardized patient simulations](virtual-patients-equivalent-to-standardized-patients.md) — related
+- [Use of the AI virtual patient tool was associated with improved self-perceived structured diagnostic approach, initial-diagnosis confidence, and patient-explanation confidence](ai-virtual-patient-structured-approach-gains.md) — related

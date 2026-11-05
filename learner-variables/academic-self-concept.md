@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 143 claims (99 show a difference, 32 mixed, 12 no difference) · 77 studies (38 associational, 21 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 20 of 77 report an effect size · 140 claims rest on one study
+> **Evidence** · 149 claims (101 show a difference, 35 mixed, 13 no difference) · 79 studies (40 associational, 21 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 21 of 79 report an effect size · 146 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -178,6 +178,12 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Students' self-perceived ability to identify chromosomal abnormalities rose from pre-test to post-test after using the tool, in one uncontrolled pre-post study](../claims/digital-karyotyping-tool-increased-confidence-identifying-abnormalities.md) [+M] — measured as an outcome of the instruction studied
 - [Student-centred non-cognitive measures (academic interest, self-perceived ability, curiosity) show stronger mediation effects than measures of the external learning environment](../claims/student-centred-noncognitive-measures-stronger-mediation.md) [+M] — learners who differ on it differ in outcomes
 - [Most students self-reported that their interprofessional collaboration ability was better after the program, in one single-group pre-post study](../claims/sbl-global-perceived-improvement-item.md) [+M] — measured as an outcome of the instruction studied
+- [Academic self-concept mediates within-domain and most cross-domain achievement–intrinsic value relations, with most within-domain relations fully mediated](../claims/self-concept-mediation-achievement-intrinsic-value.md) [~M] — learners who differ on it differ in outcomes
+- [Contrast effects appear between math-like and verbal-like domains in both self-concept and intrinsic value](../claims/contrast-effects-math-like-verbal-like-self-concept-intrinsic-value.md) [~M] — learners who differ on it differ in outcomes
+- [Music shows an assimilation effect with verbal-like domains (music achievement–English self-concept) and a contrast effect with math-like domains (physics achievement–music self-concept)](../claims/music-assimilation-verbal-contrast-math-like.md) [~M] — learners who differ on it differ in outcomes
+- [Self-perceived competency correlates moderately with self-reported practice behavior, while objective knowledge correlates negatively with practice behavior](../claims/scs-cpbs-positive-okto-cpbs-negative-correlation.md) [+W] — learners who differ on it differ in outcomes
+- [Visual arts achievement is positively related to German intrinsic value (assimilation), and this relation is not mediated through self-concept](../claims/visual-arts-achievement-german-intrinsic-value-assimilation-unmediated.md) [-M] — learners who differ on it differ in outcomes
+- [Within all domains, achievement is positively related to self-concept in the same domain among German academic-track secondary students](../claims/within-domain-positive-achievement-self-concent-relations-eight-domains.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

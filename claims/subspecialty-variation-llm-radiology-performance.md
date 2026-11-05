@@ -49,3 +49,4 @@ Subspecialty analysis of the 100-question set across thorax, neuroradiology, mus
 ## Related Claims
 - [Gemini 2.5 Pro achieved the highest accuracy (90%) on 100 radiology multiple-choice questions, and all LLMs and 3rd-year residents significantly outperformed 1st- and 2nd-year residents](llms-gemini-highest-radiology-mcq-accuracy-outperform-junior-residents.md) — related
 - [Claude Sonnet 4.5 significantly outperformed Grok 4 on OLA questions, the only significant pairwise difference on that examination](claude-outperformed-grok4-ola-pairwise.md) — related
+- [ChatGPT-5, Gemini 3.0 Pro, and Claude Sonnet 4.5 achieved significantly higher overall scores than mean ophthalmology trainee performance, while ChatGPT-4o did not](three-llms-outperform-mean-trainee-overall.md) — related

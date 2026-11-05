@@ -59,7 +59,7 @@ Qualitative case-study analysis of conversational interactions of 7 dyads workin
 - [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](analytics-feedback-reflection-strengthen-learning-gains.md) — related
 - [Performance assessments are associated with positive instructional changes, student skill development, engagement, and complex conceptual understanding](performance-assessments-positive-outcomes.md) — related
 - [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](error-correction-effort-supports-learning.md) — related
-- [Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners](peer-feedback-soft-evaluative-judgement-statistics.md) — related
+- [Peer feedback promoted critical reflection, collaboration and engagement, but one interviewed student doubted its reliability because peers were statistics beginners](peer-feedback-soft-evaluative-judgement-statistics.md) — related
 - [Multiple-hypothesis strategies improve performance only when simulation complexity is low](multiple-hypothesis-strategy-low-complexity.md) — related
 - [Simulation-based learning has a large positive overall effect on complex skills in higher education (g = 0.85)](simulation-based-learning-large-positive-effect-complex-skills.md) — related
 - [After working with the script, students improved their individual task representation of high-level tasks and their strategy reflection](post-script-improvement-task-representation-strategy-reflection.md) — related

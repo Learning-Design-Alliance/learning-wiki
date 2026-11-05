@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 268 claims (194 show a difference, 48 mixed, 26 no difference) · 177 studies (55 associational, 51 causal, 32 review, 13 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 39 of 177 report an effect size · 260 claims rest on one study
+> **Evidence** · 277 claims (199 show a difference, 51 mixed, 27 no difference) · 180 studies (57 associational, 51 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 39 of 180 report an effect size · 269 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -308,6 +308,15 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [PT-BET is associated with reduced perceived exam stress among participating medical students.](../claims/pt-bet-reduced-exam-stress.md) [+M] — measured as an outcome of the instruction studied
 - [Most students paradoxically prefer bell-pacing, a pacing structure that led to greater reactive test anxiety, independent of the pacing structure itself.](../claims/students-prefer-pacing-structure-that-increases-anxiety.md) [+M] — measured as an outcome of the instruction studied
 - [Bell-pacing significantly exacerbates reactive test anxiety compared to self-pacing during gross anatomy laboratory examinations.](../claims/bell-pacing-exacerbates-reactive-test-anxiety.md) [+M] — measured as an outcome of the instruction studied
+- [A sequential mediation pathway runs from perceived peer support through emotion regulation and behavioral engagement to academic achievement](../claims/sequential-mediation-er-be-pathway.md) [+M] — learners who differ on it differ in outcomes
+- [Emotion regulation mediates the relationship between perceived peer support and academic achievement](../claims/emotion-regulation-mediation-peer-support-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Maths anxiety negatively predicts only maths-related grades (Algebra and Geometry) among high-achieving adolescents](../claims/maths-anxiety-negatively-predicts-algebra-geometry-only.md) [~M] — learners who differ on it differ in outcomes
+- [Negative maths-anxiety–performance links persist in STEM-selected high achievers](../claims/maths-anxiety-negative-link-in-stem-selected-sample.md) [~M] — learners who differ on it differ in outcomes
+- [Perceived peer support is positively associated with emotion regulation and behavioral engagement, which are in turn associated with achievement](../claims/peer-support-paths-er-be-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Spatial anxiety negatively predicts performance in maths, science and language grades; state anxiety predicts some grades](../claims/spatial-and-state-anxiety-negative-grade-associations.md) [~M] — learners who differ on it differ in outcomes
+- [Students describe acquiring evidence-based stress management skills whose adoption was grounded in psychoeducation about stress physiology and the autonomic nervous system](../claims/stress-skills-psychoeducation-grounding.md) [+M] — measured as an outcome of the instruction studied
+- [Trait anxiety, GAD symptoms, social anxiety and anxiety sensitivity do not predict any school grades after controlling for other predictors](../claims/four-anxiety-measures-predict-no-grades.md) [-M] — learners who differ on it differ in outcomes
+- [Worry is the only anxiety measure positively linked with school grades after controlling for other anxieties](../claims/worry-positively-predicts-grades.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

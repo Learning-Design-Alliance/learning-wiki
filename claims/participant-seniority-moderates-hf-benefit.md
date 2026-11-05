@@ -68,3 +68,4 @@ Subgroup analysis of skill performance by participant seniority (Supplement 5). 
 - [Knowledge benefit of HF simulation is greater against traditional training (SMD = 0.71) than against LF simulation (SMD = 0.22)](hf-vs-traditional-knowledge-subgroup.md) — related
 - [VR benefits examination scores for medical students but not significantly for residents](vr-anatomy-benefit-medical-students-not-residents.md) — related
 - [A systematic review found advanced life support course participation was associated with improved return of spontaneous circulation and a favourable signal for survival.](als-courses-associated-improved-rosa-survival-signal.md) — related
+- [HFS/curriculum-integrated sessions produce significantly higher total knowledge scores than traditional curriculum in third-year nursing students](hfs-curriculum-integration-higher-total-knowledge.md) — related

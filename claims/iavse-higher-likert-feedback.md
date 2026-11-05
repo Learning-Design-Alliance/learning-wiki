@@ -1,0 +1,54 @@
+---
+type: claim
+title: Experimental-group students rated the IAVSE course significantly higher than the control group rated traditional instruction across seven Likert-scale pedagogical dimensions
+description: Experimental-group students rated the IAVSE course significantly higher than the control group rated traditional instruction across seven Likert-scale pedagogical dimensions
+id: iavse-higher-likert-feedback
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-05
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: li-a-2026
+    resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13171472/"
+    title: "Li A, Ma L, Peng R, Shi J, Zhang M, Zheng M, Wang Y, Huang Y, Ren J. (2026). Efficacy of an Imaging Anatomy Virtual Simulation Experiment Course in Undergraduate Medical Education: Nonrandomized Controlled Trial. JMIR Medical Education. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13171472/"
+    author: Li A, Ma L, Peng R, Shi J, Zhang M, Zheng M, Wang Y, Huang Y, Ren J.
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Experimental-group students rated the IAVSE course significantly higher than the control group rated traditional instruction across seven Likert-scale pedagogical dimensions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` On a 7-item 5-point Likert questionnaire, the experimental group rated enjoyment, interactivity, participation, satisfaction, serviceability, learning efficiency, and acceptance higher, with P<.001 for all but serviceability (P=.02). [→ Li A 2026](#li-a-2026)
+
+## Evidence
+
+### Li A 2026
+
+Li A, Ma L, Peng R, Shi J, Zhang M, Zheng M, Wang Y, Huang Y, Ren J. (2026). Efficacy of an Imaging Anatomy Virtual Simulation Experiment Course in Undergraduate Medical Education: Nonrandomized Controlled Trial. JMIR Medical Education. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13171472/
+
+`q2 · i?` · `causal · r1`
+
+Questionnaire administered to all 102 students after the intervention with 100% response validity (102/102); responses "deviated from a normal distribution" and were compared with Mann-Whitney U tests; Cronbach α=0.883. No effect sizes printed.
+
+> "The comparative analysis of 5-point Likert scale responses revealed statistically significant advantages for the experimental group across 7 pedagogical dimensions (Table 3 and Figure 4)."
+
+## Discussion
+
+
+## Related Claims
+- [Blended learning interns reported significantly higher satisfaction than traditional-group interns across all five evaluated dimensions](blended-radiology-assistant-higher-satisfaction-all-dimensions.md) — related
+- [Third-year medical students who took the VR-based IAVSE course achieved higher human anatomy theory scores than students in the traditional laboratory course](iavse-higher-anatomy-theory-scores.md) — related
+- [Students taught with the 5E+AI model reported significantly higher learning interest, self-perceived communication competence, and course satisfaction](5e-ai-model-improved-self-report-questionnaire-dimensions.md) — related
+- [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related
+- [Integrated model raises satisfaction, clinical thinking, practical skill self-ratings and engagement, with no difference in resource utilization](microskills-cptm-questionnaire-engagement.md) — related
+- [CBE-MDT teaching yields higher trainee satisfaction than traditional teaching](cbe-mdt-higher-satisfaction-radiation-oncology.md) — related
+- [Students who took the IAVSE course achieved higher fourth-year medical imaging theory, practical testing, and total scores than the control group](iavse-higher-medical-imaging-scores.md) — related

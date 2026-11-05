@@ -49,3 +49,4 @@ Open-ended comment field at the end of the first Delphi round allowed participan
 - [The final national consensus catalog comprised 363 specialty-specific psychomotor competencies, corresponding to 244 unique competencies after harmonization](final-catalog-363-specialty-specific-244-unique-competencies.md) — related
 - [Delphi panel reaches broad consensus on CAMHS crisis team competencies and outcomes, with over 90% of proposed items meeting the consensus threshold](delphi-consensus-camhs-crisis-competencies-outcomes.md) — related
 - [A two-round modified Delphi process with a 36-physician voting panel finalized 32 high-priority mental health competencies for HPM physicians.](delphi-finalized-32-mental-health-competencies.md) — related
+- [A three-round Delphi panel of 47 SMHPs reached consensus on 151 competencies for interdisciplinary collaboration](delphi-consensus-151-competencies.md) — related

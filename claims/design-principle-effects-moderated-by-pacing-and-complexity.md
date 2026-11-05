@@ -9,6 +9,7 @@ generated:
   at: 2026-10-13
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-05
 sources:
   - id: noetel-2022
     resource: "https://doi.org/10.3102/00346543211052329"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r3` · `q3` · `i2` medium
-> **Currency** · newest study 2022 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
 
 <!-- title before 2026-10-14: Design principle effects are moderated by pacing and element interactivity, but not by learner prior knowledge -->
 

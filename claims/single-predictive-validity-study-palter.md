@@ -45,7 +45,7 @@ The review reports this as the only included study of predictive validity (Palte
 
 
 ## Related Claims
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [Only one identified training study evaluated transfer to clinical outcomes, finding no impact](single-study-clinical-transfer-no-impact.md) — related
 - [Supervised resident training reduced operative time after 30–50 cases, approximating senior benchmarks](supervised-resident-training-reduces-operative-time-30-50-cases.md) — related
 - [A moulded rubber TEP box trainer programme produced higher composite operative scores (P = 0.01) and suggested transfer of skills to real operations](box-trainer-tep-transfer-operative-practice.md) — related
@@ -54,3 +54,4 @@ The review reports this as the only included study of predictive validity (Palte
 - [VR training simulators develop perceptual-motor skills for machinery operation, but real-world skill transfer remains difficult to assess](vr-simulators-perceptual-motor-skills-transfer-challenge.md) — a broader claim this one bears on
 - [Transfer of VR training gains to real clinical practice remains unconfirmed](vr-training-transfer-unconfirmed.md) — reports the opposite
 - [Among consultant paediatric surgeons, operative time fell significantly from before to after a 12-week porcine-model laparoscopic training programme in one uncontrolled pre-post study](porcine-model-training-reduces-operative-time-consultants.md) — related
+- [The authors report that VR surgical training may improve operator performance and reduce surgical complication rates relative to animal and cadaver model outcomes, while impact on clinical competency remains controversial](vr-training-performance-and-controversy.md) — related

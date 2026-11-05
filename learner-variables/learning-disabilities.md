@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 161 claims (112 show a difference, 30 mixed, 19 no difference) · 91 studies (43 associational, 23 causal, 11 review, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 17 of 91 report an effect size · 159 claims rest on one study
+> **Evidence** · 164 claims (114 show a difference, 30 mixed, 20 no difference) · 92 studies (44 associational, 23 causal, 11 review, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 17 of 92 report an effect size · 162 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -195,6 +195,9 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [The discordant dyslexia-EA genetic partition is associated with worse school performance across all subjects and higher rates of psychopathology](../claims/dyslexia-discordant-partition-worse-outcomes.md) [+W] — learners who differ on it differ in outcomes
 - [The dyslexia-specific genetic component independent of EA is associated with poorer performance in language-related subjects but not mathematics](../claims/dyslexia-noea-language-specific-effect.md) [~W] — learners who differ on it differ in outcomes
 - [Step 2 CK disparities are largest at the intersection of disability and race/ethnicity, with URiM students with disabilities 17.4 points lower than White nondisabled peers](../claims/intersectional-step2-ck-disparities.md) [+W] — learners who differ on it differ in outcomes
+- [No evidence that family factors predict achievement differently for students with versus without ADHD or autism (no interaction effects)](../claims/no-ndd-family-interaction-achievement.md) [-W] — an instructional effect differs with it
+- [Parent–child conflict, parent–child closeness, and parental educational attainment each independently predict academic achievement alongside ADHD/autism status](../claims/family-factors-independent-predictors-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [Students with ADHD or autism show substantially lower end-of-primary-school achievement, with roughly 4–5 times higher risk of ineligibility for upper secondary school](../claims/adhd-autism-lower-grades-eligibility-swedish-twins.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

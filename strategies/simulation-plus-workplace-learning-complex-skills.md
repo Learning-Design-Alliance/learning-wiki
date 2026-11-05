@@ -39,7 +39,7 @@ The review team concurred with Frerejean et al. (2023) that a limited number of 
 
 ## Claims
 
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
 
 ## Related Strategies
 

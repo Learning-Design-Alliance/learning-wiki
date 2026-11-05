@@ -70,6 +70,7 @@ The review recommends a measured adoption strategy: immersive technologies and v
 - [Supplement practice-based training with synchronous and blended e-learning while retaining in-person clinical experiences](blended-synchronous-elearning-supplement-clinical-training.md)
 - [Use multiagent virtual patient frameworks as scalable, customizable alternatives to standardized patients in clinical communication training](multiagent-vp-alternative-to-standardized-patients.md)
 - [Integrate AI-assisted virtual patient pre-class work with flipped classroom in-class discussion for clinical decision-making training](ai-assisted-cbl-fc-blended-strategy.md)
+- [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 
 ## Examples
 -

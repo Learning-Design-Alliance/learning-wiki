@@ -53,7 +53,7 @@ The first design principle, citing Darkenwald and Valentine (1985), reports that
 
 ## Related Claims
 - [Dietitians' barriers and enablers to pro-environmental action fall into three themes: personal, social and professional, and contextual and environmental factors](three-themes-barriers-enablers-pro-environmental-dietitians.md) — related
-- [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](program-completion-increased-confidence-autonomy-settlement.md) — related
+- [Immigrant graduates of a healthcare-aide training program described completing it as raising their confidence and self-esteem, which for some aided settlement and integration in Canada](program-completion-increased-confidence-autonomy-settlement.md) — related
 - [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](koku-qualitative-acceptability-themes.md) — related
 - [Finding another job (29.1%) and low apprenticeship pay (13.9%) are the largest barriers to completing the LC101 apprenticeship phase](job-and-pay-largest-apprenticeship-barriers.md) — a narrower finding that bears on this claim
 - [Participation supports were most effective when deliberately matched to the specific constraints participants faced](supports-matched-to-barriers.md) — related

@@ -51,3 +51,4 @@ Post-workshop satisfaction survey of the 53 participants (Table 4). The article 
 - [Teachers comply well with MBSR training and report high satisfaction, though they view it as unsuitable as a universal requirement](mbsr-teacher-compliance-satisfaction.md) — related
 - [Knowledge of bronchoscopy rose among non-physician critical care staff from pre-test to post-test after a one-day simulation-based workshop in one uncontrolled pre-post study](one-day-bronchoscopy-workshop-nonmd-knowledge-gains.md) — related
 - [Participants report high satisfaction with both training modalities with no difference between groups](high-satisfaction-both-modalities-no-difference.md) — related
+- [Participant satisfaction was exceptionally high, with 100% satisfied with course content and all satisfaction means significantly above the neutral midpoint](high-satisfaction-microscope-ergonomics-course.md) — related

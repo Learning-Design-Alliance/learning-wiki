@@ -56,6 +56,7 @@ The review recommends targeted educational interventions and continuous professi
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
 - [Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components](cpr-education-reinforcement-based-design-strategy.md)
 - [Integrate high-fidelity body donor models with low-fidelity simulators across the training progression](integrate-high-and-low-fidelity-simulation.md)
+- [Integrate TMJ, myofunctional, and periodontal-orthodontic multidisciplinary content into residency training and target continuing education at undertrained practitioners](integrate-mdt-content-orthodontic-training.md)
 
 ## Examples
 -

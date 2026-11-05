@@ -9,6 +9,7 @@ generated:
   at: 2026-09-24
 evidence_strength: mixed
 newest_evidence: 2024
+source_checked: 2026-11-05
 recheck_by: 2027
 sources:
   - id: alexander-scarlatos-2024
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` LLMKT significantly outperforms all existing KT methods (BKT, DKT, DKVMN, AKT, SAINT, simpleKT) and generally outperforms DKT-Sem on both datasets. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)

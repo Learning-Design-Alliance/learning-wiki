@@ -72,3 +72,4 @@ Study 1 mediation analysis on PISA 2003 data (276,165 students, 41 countries) fo
 - [All three social class indicators (parental education, family cultural capital, family economic capital) positively predict standardized test performance among 15-year-olds](social-class-indicators-positive-predictors-pisa-performance.md) — related
 - [National income inequality strengthens the economically based social class test gap (family economic capital)](income-inequality-strengthens-economically-based-gap.md) — related
 - [National income inequality weakens the culturally based social class test gap (parental education, cultural capital)](income-inequality-weakens-culturally-based-gap.md) — related
+- [Family income is the strongest positive predictor of good academic performance among Haor secondary students](family-income-strongest-predictor-haor-academic-performance.md) — related

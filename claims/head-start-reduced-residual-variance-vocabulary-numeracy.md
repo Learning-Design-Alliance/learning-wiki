@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: bloom-and-weiland-2014
     resource: "https://eric.ed.gov/?id=ED562943"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Individual residual variance was statistically significantly lower for treatment than control children for receptive vocabulary, early numeracy, and oral comprehension, with differences especially pronounced for receptive vocabulary and early numeracy. [→ Bloom and Weiland 2014](#bloom-and-weiland-2014)

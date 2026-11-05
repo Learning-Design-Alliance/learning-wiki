@@ -66,3 +66,4 @@ Qualitative synthesis of collaborative small focus groups with approximately 70 
 - [Students reported the learner-centred authenticity project as one of the most challenging yet relevant courses in their degree](students-found-authenticity-course-challenging-relevant.md) — related
 - [Learners rejected teacher-centered lecturing as the preferred way to learn reading](learners-reject-lecture-preference-for-reading.md) — a narrower finding that bears on this claim
 - [Learning-preference differences by discipline: political science students least interested in project-based classes](political-science-least-project-based-preference.md) — related
+- [Students perceive wellness course content as immediately applicable to daily life, which they describe as heightening motivation and sustained engagement](perceived-relevance-heightens-engagement.md) — related

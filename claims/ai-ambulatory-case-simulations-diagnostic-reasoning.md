@@ -9,7 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-17
+source_checked: 2026-11-05
 sources:
   - id: alrazeeni-2026
     resource: "https://doi.org/10.1177/23779608261424597"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that AI-driven case simulations in outpatient contexts sharpen diagnostic skills and encourage predictive, patient-centered reasoning. [→ Alrazeeni 2026](#alrazeeni-2026)
@@ -51,7 +51,7 @@ In the review's ambulatory-settings theme, it describes longitudinal case-based 
 - [One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills](ai-simulation-inferior-bse-skills.md) — reports the opposite
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related
 - Computer-based simulation tasks assess problem-solving, reasoning, and evaluation skills at scale — a broader claim this one bears on
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [AI simulation induced higher state anxiety than standardized patient simulation in one RCT, while qualitative studies reported reduced anxiety](ai-simulation-anxiety-divergent.md) — related
 - [AI-enhanced simulation in high-acuity nursing training improves clinical confidence and emergency preparedness](ai-simulation-improves-clinical-confidence-nursing.md) — related

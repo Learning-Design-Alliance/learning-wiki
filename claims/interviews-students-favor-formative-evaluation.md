@@ -51,3 +51,4 @@ End-of-semester interviews with 20 randomly chosen experimental-group students (
 - [Most experimental-group students liked the digital-storytelling mathematics courses and wanted the application to continue](students-liked-digital-storytelling-math-courses.md) — related
 - [The multimedia tool was reported to motivate students and support positive attitudes toward the course](mbio-motivates-and-positive-attitudes.md) — related
 - [Teaching mathematics in English using CLIL improved pupils' motivation and reduced fear of the subject.](clil-maths-motivation-fear-reduction.md) — related
+- [VSG students reported predominantly positive views of the game, with technical glitches the most common criticism](vsg-student-opinions-positive-with-technical-glitches.md) — related

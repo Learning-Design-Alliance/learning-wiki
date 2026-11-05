@@ -57,3 +57,4 @@ The review reports Hulleman et al.'s (2008) examination of antecedents and conse
 - [Interest-enhancing strategies predict persistence for students lower in conscientiousness but not those higher in conscientiousness](conscientiousness-moderates-interest-regulation-persistence.md) — related
 - [Higher attainment value with higher academic self-efficacy predicts challenge appraisal, whereas higher attainment value with lower academic self-efficacy predicts threat appraisal](value-and-efficacy-antecedents-of-fear-appeal-appraisal.md) — related
 - [Perceived value of creativity informs judgments and expectancies primarily indirectly through task-specific variables, especially task interest](value-of-creativity-indirect-through-interest.md) — related
+- [The effects on math self-efficacy, math utility value and STEM vocational interest do not persist at the 6-month follow-up](srl-intervention-followup-nonpersistence-utility-interest.md) — related

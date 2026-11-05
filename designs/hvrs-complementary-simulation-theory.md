@@ -45,7 +45,7 @@ The article frames haptic virtual reality simulation as a training tool that "co
 ### Claims
 
 - [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](../claims/ir-reduces-procedural-time-dental.md) [+W]
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](../claims/ir-dental-equivalence-mixed-findings.md) [~W]
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](../claims/ir-dental-equivalence-mixed-findings.md) [~W]
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](../claims/haptic-simulator-force-feedback-accuracy-gains.md) [~W]
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](../claims/vr-enhances-practical-skill-acquisition-with-barriers.md) [~W]
 

@@ -47,7 +47,7 @@ The review states as its motivating problem that evidence for innovative technol
 ## Related Claims
 - [GAI in K-12 education offers opportunities to personalize learning, motivate students, improve assessment, and introduce innovative teaching practices](gai-k12-personalization-assessment-opportunities.md) — related
 - [AI solutions can automate routine tasks but cannot yet handle the complex tasks of higher learning](ai-limited-to-automatable-tasks-in-higher-learning.md) — related
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — related
 - [AI is not yet ready to replace teachers but presents a real possibility to augment them](ai-augments-not-replaces-teachers.md) — related
 - [Compatibility and relative advantage strongly enhance perceived innovation attributes of AI technologies](compatibility-relative-advantage-enhance-innovation-attributes.md) — related

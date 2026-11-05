@@ -50,3 +50,4 @@ Propensity-matched comparison of 2,472 all-MV pairs from the national audit; the
 - [In the UK national cohort, trainees performed 18.7% of isolated AVR and 9.8% of isolated mitral operations, with mitral repair lowest at 8.1%](trainee-exposure-avr-mitral-national-proportions.md) — related
 - [Trainee first-operator exposure in isolated mitral surgery declined from 18.0% in 1996 to 10.6% in 2019, while AVR exposure remained relatively stable](mitral-trainee-exposure-temporal-decline.md) — related
 - [Provider-level variation accounted for 59.6% (AVR), 57.1% (MVr) and 44.8% (MVR) of residual variation in trainee first-operator status, with volume associations differing by procedure](provider-variation-trainee-first-operator-vpc.md) — related
+- [In-hospital mortality, complications and postoperative hospitalization were similar between resident-led and consultant-led matched cases](resident-led-in-hospital-outcomes-similar.md) — related

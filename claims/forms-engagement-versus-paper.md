@@ -51,3 +51,4 @@ Interview report: multiple teachers, including those of first-graders, described
 - [Students preferred taking tests with technology and showed favorability toward the technology-enhanced performance task, citing interactivity and animations that help visualize and work through problems](students-prefer-technology-enhanced-task-interactivity-animation.md) — related
 - [Teachers use Microsoft Forms for real-time formative assessment to make in-the-moment instructional adjustments](forms-realtime-formative-assessment-uses.md) — related
 - [An estimated one-third of students fail to learn because of psychosocial problems that interfere with engagement in instruction](one-third-students-fail-learn-psychosocial-barriers.md) — related
+- [Students engage more and retain greater knowledge through active participation than lecture-based teaching, per trials the article cites](active-participation-beats-didactic-bedside.md) — related

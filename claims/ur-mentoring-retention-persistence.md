@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-05
 sources:
   - id: fischer-2021
     resource: "https://doi.org/10.14434/josotl.v21i1.30564"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The mentoring relationship between student and research advisor has been shown to be highly influential in a student's connection to their campus, retention in their major, and persistence to graduation. [→ Fischer 2021](#fischer-2021)

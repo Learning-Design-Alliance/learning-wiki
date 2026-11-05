@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Several included studies found haptic VR training equivalent rather than superior to conventional dental training
-description: Several included studies found haptic VR training equivalent rather than superior to conventional dental training
+title: Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR
+description: Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR
 id: ir-dental-equivalence-mixed-findings
 status: review
 generated:
@@ -28,11 +28,11 @@ sources:
     rigour: 2
 ---
 
-# Several included studies found haptic VR training equivalent rather than superior to conventional dental training
+# Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Vincent et al. found no significant differences between haptic simulator (VirtEasy) and conventional practice on plastic teeth in restorative dentistry training. [→ Ruslin Muhammad 2026](#ruslin-muhammad-2026)
@@ -91,3 +91,6 @@ The review reports Dwisaptarini et al.'s RCT of minimal invasive caries removal 
 - [Prior studies cited in the article report mixed results, with Scerbo et al. finding simulated limbs outperformed a VRS for phlebotomy training while later simulator studies found advantages for simulation](mixed-prior-evidence-vrs-versus-traditional-training.md) — related
 - [Overall technical quality of treatments was similar between natural and artificial teeth groups](similar-technical-quality-both-groups.md)
 - [In CRT training, proficiency-based progression demonstrated superiority over traditional simulation in which proficiency benchmarks were optional](pbp-superiority-crt-training.md) — related
+- [Adding peer role-play and peer assessment does not change technical procedural proficiency: no significant difference between cohorts in procedural steps and key points](peer-roleplay-technical-proficiency-comparable.md) — related
+- [Simulator-based performance metrics are comparable between students trained before versus after artificial-tooth practice](simulator-metrics-comparable-between-groups.md) — related
+- [Dental students who train on a VR haptic simulator before artificial-teeth practice score higher on preclinical access cavity preparation and self-assessment than students who practice on artificial teeth first](vr-first-higher-preclinical-dexterity-scores.md) — reports the opposite

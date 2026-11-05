@@ -49,3 +49,4 @@ Cluster-randomized trial with 78 classrooms (N = 1,744 ninth-graders) randomly a
 - [In the prior researcher-delivered efficacy trial, the quotations condition produced stronger utility-value effects than the text condition](moma-efficacy-quotations-beat-text-condition.md) — related
 - [When delivered by master's students, the intervention additionally improved growth mindsets and standardized math achievement](moma-masters-student-mindset-achievement-effects.md) — related
 - [Higher adherence and lower discipline problems during delivery were associated with more positive changes in utility value](adherence-discipline-utility-value-changes.md) — related
+- [The effects on math self-efficacy, math utility value and STEM vocational interest do not persist at the 6-month follow-up](srl-intervention-followup-nonpersistence-utility-interest.md) — reports the opposite

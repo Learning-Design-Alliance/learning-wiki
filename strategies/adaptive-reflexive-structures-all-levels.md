@@ -41,7 +41,7 @@ The chapter concludes that the education system itself must be capable of contin
 ## Claims
 
 - [Digital transformation permeates all levels of the education system as an interdependent structure](../claims/digital-transformation-interdependent-multi-level-structure.md) [+W] (why structures are needed at every level)
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [+M]
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [+M]
 
 ## Related Strategies
 - 

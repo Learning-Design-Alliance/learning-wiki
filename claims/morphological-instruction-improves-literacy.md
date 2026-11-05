@@ -40,7 +40,7 @@ Explicit teaching of morphemes (roots, prefixes, suffixes) and how they combine 
 
 ## Subclaims
 
-`q3 i1` A meta-analysis of 30 studies (92 effect sizes) finds a moderate overall benefit of morphological instruction on literacy outcomes, with the largest gains for decoding and morphological knowledge but no reliable effect on reading comprehension or fluency. [→ Goodwin Ahn 2013](#goodwin-ahn-2013)
+`q3 i1` A meta-analysis of 30 studies (92 effect sizes) finds a moderate overall benefit of morphological instruction on literacy outcomes, with the largest gains for decoding (d̄ = 0.59), then phonological awareness (0.48) and morphological knowledge (0.44), but no reliable effect on reading comprehension or fluency. [→ Goodwin Ahn 2013](#goodwin-ahn-2013)
 
 `q3 i?` A meta-analysis of 22 studies (preschool–grade 8) concludes morphological instruction benefits learners overall, with particular benefit for less-able readers, no less effect for younger than for older students, and larger effects when combined with other literacy instruction. [→ Bowers Kirby Deacon 2010](#bowers-kirby-deacon-2010)
 

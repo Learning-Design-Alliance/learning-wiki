@@ -48,3 +48,4 @@ In the Solomon Four design, if the pre-test had a practice or sensitization effe
 - [Solomon four-group pilot found significant pre-post gains from EPIGAME play with no testing effects and no pretest-by-treatment interaction](study1-solomon-no-testing-effect.md) — related
 - [No significant interaction of treatment and pre-test on participants' achievement in the critical thinking module study](no-treatment-pretest-interaction-critical-thinking-module.md) — related
 - [The course showed no significant pre-post interaction effects on intercultural sensitivity, with only a marginal endpoint difference on acceptance and adaptation](sis-course-no-intercultural-sensitivity-interaction.md) — a narrower finding that bears on this claim
+- [No significant pretest effects were observed on pre-service teachers' concept images of curriculum elements in the Solomon four-group design](no-significant-pretest-effects-solomon-gamification.md) — related

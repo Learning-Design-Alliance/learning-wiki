@@ -8,7 +8,7 @@ canonical: true
 status: review
 generated:
   by: "process:article-ingest"
-  at: 2026-11-02
+  at: 2026-11-05
 sources:
   - id: benjamin-2010
     resource: "https://doi.org/10.1016/j.cogpsych.2010.05.004"
@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 87 claims (45 for, 39 mixed, 3 against) · 60 studies (32 causal, 14 review, 9 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 18 of 60 report an effect size · 79 claims rest on one study
+> **Evidence** · 89 claims (46 for, 40 mixed, 3 against) · 62 studies (34 causal, 14 review, 9 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 18 of 62 report an effect size · 81 claims rest on one study
 
 ## Description
 
@@ -180,6 +180,8 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [Low-dose, high-frequency ALS training yields higher overall simulation-based resuscitation performance scores at 12 months than annual full-day training](../claims/ldhf-als-higher-overall-performance-12-months.md) [+M] — attached 2026-11-04 from Moll Lisa et al. (2026), which proposed "Replace infrequent intensive refresher courses with regular short scenario-based sessions with feedback for maintaining resuscitation competence"; tests this page's relationship.
 - [The largest 12-month between-group difference in ALS performance is in non-technical skills, favouring low-dose high-frequency training](../claims/ldhf-als-largest-gain-non-technical-skills.md) [+M] — attached 2026-11-04 from Moll Lisa et al. (2026), which proposed "Replace infrequent intensive refresher courses with regular short scenario-based sessions with feedback for maintaining resuscitation competence"; tests this page's relationship.
 - [Low-dose high-frequency training shortens time to key resuscitation interventions, including CPR initiation, rhythm analysis, supraglottic airway insertion and hands-off time](../claims/ldhf-als-shorter-time-to-interventions.md) [+M] — attached 2026-11-04 from Moll Lisa et al. (2026), which proposed "Replace infrequent intensive refresher courses with regular short scenario-based sessions with feedback for maintaining resuscitation competence"; tests this page's relationship.
+- [Spacing mathematics practice across weeks raised Year 7 students' test scores a month later and made their score predictions more accurate than massed practice](../claims/spaced-math-practice-raises-scores-and-calibration.md) [+M] — added 2026-11-05 from Emeny, Hartwig and Rohrer (2021), two Year 7 classroom experiments; entry written from the abstract; not yet read against the model above.
+- [Distributing mathematics practice over three days instead of one helped seventh graders at one and six weeks, but third graders only at one week](../claims/distributed-math-practice-grade3-grade7-classroom.md) [~M] — added 2026-11-05 from Barzagar Nazari and Ebersbach (2019), 213 third and seventh graders; for third graders the data supported a benefit only at one week; entry written from the abstract; not yet read against the model above.
 
 ## Source verification and open tests
 

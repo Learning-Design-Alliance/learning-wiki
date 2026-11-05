@@ -56,3 +56,4 @@ Sensitivity analysis of the exam-performance outcome across the included RCTs. S
 - [The pooled TBL effect on examination scores is robust to leave-one-out sensitivity analysis and model choice, and publication bias was not detected](tbl-effect-robustness-sensitivity.md) — related
 - [The pooled VR score effect is robust to study removal and shows no significant publication bias](vr-anatomy-effect-robust-no-publication-bias.md) — related
 - [Performance on non-integrated factual recall questions remained relatively stable or showed a slight decline under case discussions](cbl-non-integrated-questions-stable-or-slight-decline.md) — related
+- [The modified model's advantage on the primary endpoint remained statistically significant across both high- and low-engagement strata, suggesting the effect is not solely dependent on engagement levels](modified-boppps-effect-robust-across-engagement-strata.md) — related

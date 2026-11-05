@@ -70,3 +70,4 @@ Post hoc Tukey HSD multiple comparisons at posttest showed "a significant differ
 - [AI-powered PBL/CBL outperforms traditional lectures for knowledge acquisition, but shows no significant advantage over AI-free PBL/CBL](ai-pbl-cbl-knowledge-subgroups.md) — related
 - [Blended teaching produces higher academic achievement than traditional teaching in a psychological diseases course](blended-teaching-higher-academic-achievement-medical-students.md) — related
 - [The AI-enhanced teaching model produced significantly higher final comprehensive scores than blended and traditional teaching in the RCT](ai-enhanced-higher-final-comprehensive-scores.md) — related
+- [After the intervention, the peer-review group showed significantly greater post-lecture knowledge gains than the control group (83 vs 76, p = 0.003)](peer-review-greater-post-lecture-knowledge-gains.md) — related

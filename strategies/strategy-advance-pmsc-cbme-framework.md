@@ -51,6 +51,7 @@ The article recommends strengthening PMSC training by explicit competency framew
 - [Strengthen core microteaching competencies — structured teaching, learner engagement, reflection, feedback, and role modelling — through faculty development](faculty-development-microteaching-competencies.md)
 - [Prioritise sustained hands-on DT process-skill training and authentic practice over trait-based selection in faculty development](prioritise-hands-on-dt-skill-training-faculty-development.md)
 - [Align customized AI tutor responses with course learning outcomes, competency frameworks, and licensing exam blueprints](align-ai-tutor-with-curriculum-and-exam-blueprints.md)
+- [Integrate TMJ, myofunctional, and periodontal-orthodontic multidisciplinary content into residency training and target continuing education at undertrained practitioners](integrate-mdt-content-orthodontic-training.md)
 
 ## Examples
 -

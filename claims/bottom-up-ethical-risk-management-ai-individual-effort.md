@@ -64,7 +64,7 @@ Concluding sentence of the Resources and support theme from the interviews. Both
 
 
 ## Related Claims
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
 - [Faculty perceptions of student ethical inadequacy contradict students' own acceptance of ethical responsibility, with both groups showing pragmatic conscious acceptance of AI](faculty-student-contradiction-ethical-responsibility-ai.md) — related
 - [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — related

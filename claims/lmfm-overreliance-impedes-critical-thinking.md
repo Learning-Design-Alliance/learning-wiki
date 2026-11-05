@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-27
+source_checked: 2026-11-05
 sources:
   - id: küchemann-2025
     resource: "https://doi.org/10.1038/s41539-025-00301-w"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1`–`r2` · `q1`–`q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-27 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The perspective article (an overview, not an empirical or systematic review) asserts a risk that students overly rely on LMFM outcomes without critically reflecting on them, and that overuse in learning situations may impede critical thinking, research skills, and independent problem-solving abilities. [→ Küchemann 2025](#kuchemann-2025)

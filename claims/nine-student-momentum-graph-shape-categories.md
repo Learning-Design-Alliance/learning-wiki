@@ -8,20 +8,20 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
-newest_evidence: 2016
-recheck_by: 2019
+newest_evidence: 2017
+recheck_by: 2020
 sources:
-  - id: steven-s-christensen-jonathan-s-spackman-2016
+  - id: steven-s-christensen-jonathan-s-spackman-2017
     resource: "https://doi.org/10.9743/jeo.2017.14.2.7"
-    title: "Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)"
+    title: "Steven S. Christensen & Jonathan S. Spackman. (2017). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. *Journal of Educators Online, 14*(2). https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)"
     author: "Steven S. Christensen & Jonathan S. Spackman"
     q: 2
     i: "?"
     kind: qualitative
     rigour: 2
-  - id: steven-s-christensen-jonathan-s-spackman-2016-2
-    resource: "https://eric.ed.gov/?id=EJ1150708"
-    title: "Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708"
+  - id: steven-s-christensen-jonathan-s-spackman-2017-2
+    resource: "https://doi.org/10.9743/jeo.2017.14.2.7"
+    title: "Steven S. Christensen & Jonathan S. Spackman. (2017). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. *Journal of Educators Online, 14*(2). https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)"
     author: "Steven S. Christensen & Jonathan S. Spackman"
     q: 2
     i: "?"
@@ -33,17 +33,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` Constant comparison of M graphs from 196 courses produced nine categories: steep wall, back-to-back wall, steady slope, convex slope, three wall, early and late wall, flat slope, spanning wall, and other shapes. [→ Steven S. Christensen & Jonathan S. Spackman 2016](#steven-s-christensen-jonathan-s-spackman-2016)
-`q2 i?` Steep wall shape was the most frequent category (50 courses, 25.5%) and flat slope shape among the rarest (5 courses, 2.6%). [→ Steven S. Christensen & Jonathan S. Spackman 2016 (2)](#steven-s-christensen-jonathan-s-spackman-2016-2)
+`q2 i?` Constant comparison of M graphs from 196 courses produced nine categories: steep wall, back-to-back wall, steady slope, convex slope, three wall, early and late wall, flat slope, spanning wall, and other shapes. [→ Steven S. Christensen & Jonathan S. Spackman 2017](#steven-s-christensen-jonathan-s-spackman-2017)
+`q2 i?` Steep wall shape was the most frequent category (50 courses, 25.5%) and flat slope shape among the rarest (5 courses, 2.6%). [→ Steven S. Christensen & Jonathan S. Spackman 2017 (2)](#steven-s-christensen-jonathan-s-spackman-2017-2)
 
 ## Evidence
 
-### Steven S. Christensen & Jonathan S. Spackman 2016
+### Steven S. Christensen & Jonathan S. Spackman 2017
 
-Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)
+Steven S. Christensen & Jonathan S. Spackman. (2017). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. *Journal of Educators Online, 14*(2). https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -51,9 +51,9 @@ Qualitative constant-comparison analysis in which each course's M graph was trea
 
 > "We found nine categories of M graph shapes using the constant comparative method. Our categorization of graph shapes seen in 196 courses are as follows:"
 
-### Steven S. Christensen & Jonathan S. Spackman 2016 (2)
+### Steven S. Christensen & Jonathan S. Spackman 2017 (2)
 
-Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708
+Steven S. Christensen & Jonathan S. Spackman. (2017). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. *Journal of Educators Online, 14*(2). https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)
 
 `q2 · i?` · `design · r2`
 

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: tanrıkulu-and-baysal-2022
     resource: "https://orcid.org/0000-0001-6713-1396"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2022 · checked against its sources 2026-11-03 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group's total problem-solving inventory scores increased significantly from pre-test to post-test, while the control group showed no change. [→ Tanrıkulu and Baysal 2022](#tanrkulu-and-baysal-2022)

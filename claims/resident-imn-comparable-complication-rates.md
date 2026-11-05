@@ -53,3 +53,5 @@ Retrospective cohort analysis at a level I trauma center with 1:1 propensity sco
 - [Intraoperative calls for help were infrequent in resident-led cases](resident-imn-low-call-for-help-rate.md) — related
 - [Fellowship-trained surgeons showed shorter operative times and fewer complications compared with non-fellowship peers](fellowship-trained-surgeons-shorter-operative-times-fewer-complications.md) — related
 - [Resident postgraduate year (PGY 1–7) showed no significant correlation with complications, operation time, anesthesia time, or hospitalization length](pgy-level-no-correlation-outcomes.md) — related
+- [Older, more experienced residents complete the synthetic-bone femoral exercise faster, while younger, less-experienced residents complete the VR module faster (exploratory)](age-experience-reverse-vr-speed-advantage.md) — related
+- [In an emergency-surgery subgroup, autonomous resident-led cases achieved outcomes comparable to matched consultant-led emergency cases](resident-led-emergency-surgery-comparable-outcomes.md) — related

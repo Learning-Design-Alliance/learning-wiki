@@ -55,6 +55,8 @@ The review identifies implementation strategies that "significantly enhanced exp
 - [Enhance poverty simulations with structured debriefings, trained volunteers, and psychological safety guidelines](enhance-simulations-debriefing-volunteer-training.md)
 - [Structured pre- and post-simulation assignments to consolidate clinical reasoning learning](pre-post-simulation-reflective-assignments.md)
 - [Align simulation-based BLS training with INACSL guidelines including interactive lectures, skill demonstrations, high-fidelity manikin practice, scenarios, and GAS-model structured debriefing](strategy-inacsl-aligned-bls-simulation-module.md)
+- [DBSS session protocol: defect-identification exercise followed by GAS-framework debriefing](dbss-session-protocol-gas-debriefing.md)
+- [Integrate web-based decision support with simulation practice for medication safety training](decp-simulation-integration-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ The review's synthesis of learner and preceptor characteristics across included 
 - [Clinical preceptor support shows the strongest association with clinical practice competency (AOR = 4.44)](preceptor-support-associated-competency-ethiopia.md) — related
 - [Affective characteristics — attitudes and beliefs, emotional responses, and sensitivity to technology gaps — should be taken into account when preparing preservice teachers for digital technology use](affective-dimension-preservice-technology-preparation.md) — related
 - [Teachers' digital competence is a critical factor influencing both AI tool adoption and its pedagogical effectiveness](teacher-digital-competence-critical-ai-adoption.md) — related
+- [Student midwives perceive regular communication, constructive feedback, student–preceptor relationships, role modelling and the learning environment as factors affecting their SFH competence](factors-influencing-sfh-competence-student-midwives.md) — related

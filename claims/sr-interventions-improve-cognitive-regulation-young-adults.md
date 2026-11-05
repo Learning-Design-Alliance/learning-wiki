@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-05
 sources:
   - id: murray-2017
     resource: "https://www.acf.hhs.gov/opre/resource/self-regulation-and-toxic-stress-implications-for-programs-and-practice"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims

@@ -68,7 +68,7 @@ Linear-model analysis of the same randomized comparison confirmed the exam-score
 - [The largest OSCE-domain improvement from multi-agent scaffolding was in communication performance](communication-largest-osce-gain.md) — a narrower finding that bears on this claim
 - [The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items](empathy-checklist-item-largest-gain.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [Multi-agent scaffolding showed no significant difference from the structured control in binary diagnostic accuracy or worksheet completion](no-diagnostic-accuracy-difference.md) — related
 - [Access to a structured conversational AI tutor increased post-test content scores over a no-AI holdout with ambient consumer AI available](structured-ai-tutor-raises-post-test-scores-field-experiment.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on
@@ -89,3 +89,4 @@ Linear-model analysis of the same randomized comparison confirmed the exam-score
 - [AI-assisted peer teaching improves OSCE performance, with the largest effect on clinical reasoning](ai-assisted-peer-teaching-osce-clinical-reasoning.md) — related
 - [AI-simulated patients improve gynecological history-taking checklist completion and reduce missed key items compared with instructor-led standardized patients](ai-simulated-patient-checklist-completion-gynecology.md) — related
 - [In the OSCE, the intervention group outperformed the control group most clearly in AI tool counselling and appropriate closing, contributing substantially to a two-point total difference](osce-largest-differences-ai-counselling-closing.md) — a narrower finding that bears on this claim
+- [A 7-day virtual simulation game on CAUTI prevention produced higher post-test knowledge scores than standard training presentations in nursing students](vsg-improves-cauti-prevention-knowledge.md) — related

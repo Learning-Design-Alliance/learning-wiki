@@ -50,3 +50,4 @@ Four Likert-scale attitude items (Cronbach’s α = 0.88) in the same survey. Me
 - [Knowledge scores are positively associated with self-reported screening and counselling practice among dental interns](knowledge-practice-association-dental-interns-opmd.md) — related
 - [Most dental interns report frequent screening, counselling, and referral behaviours for OPMDs and oral cancer](dental-interns-self-reported-screening-practices-opmd.md) — related
 - [Service learning participation is associated with more positive attitudes and greater willingness toward oral health practice](service-learning-improves-attitudes-willingness.md) — related
+- [Dentists hold positive attitudes toward BLS/CPR, but positive attitudes alone did not translate into adequate knowledge, confidence, or preparedness](positive-attitudes-not-translate-bls-preparedness.md) — related

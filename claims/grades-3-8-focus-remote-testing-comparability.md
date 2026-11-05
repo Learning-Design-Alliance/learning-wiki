@@ -53,3 +53,4 @@ The guide's data-notes section states the visualizations include tests administe
 - [Fall 2020 MAP Growth tests showed high levels of marginal reliability across all grades in both remote and in-person administration](map-growth-fall-2020-high-marginal-reliability.md) — related
 - [Remote and in-person MAP Growth test scores showed consistent trends for students in grades 3-8 in fall 2020](map-growth-remote-in-person-consistent-score-trends-grades-3-8.md) — related
 - [Student test-taking disengagement on remotely administered adaptive interim assessments differs from disengagement on the same assessment administered in school](remote-interim-testing-disengagement-differs-from-in-school.md) — related
+- [Remote versus in-person EF assessment did not differ on accuracy indices, though time scores differed and were excluded](remote-ef-assessment-accuracy-equivalence-time-excluded.md) — a narrower finding that bears on this claim

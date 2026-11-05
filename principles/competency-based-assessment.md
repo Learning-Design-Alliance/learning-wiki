@@ -187,6 +187,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - [Negotiate learning contracts at the start of term and allow test retakes until mastery](../strategies/negotiate-contracts-allow-retakes.md)
 - [Separate competency assessment from courses, conducted by an independent unit using evidence-centered assessment design](../strategies/independent-competency-assessment-separation.md)
 - [Proficiency-based progression simulation training using expert-defined competency thresholds](../designs/proficiency-based-progression-expert-thresholds.md)
+- [Safeguard assessment objectivity in peer-assessment evaluations by separating teaching and evaluation roles, blinding assessors to group allocation, and standardizing assessor training](../strategies/assessor-bias-safeguards-peer-assessment.md)
 
 ## Key Sources
 - Le, C., Wolfe, R. E., & Steinberg, A. (2014). *The past and the promise: Today's competency education movement*. Jobs for the Future.

@@ -10,7 +10,6 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-01
 sources:
   - id: kononowicz-aa-2019
     resource: "https://doi.org/10.2196/14676"
@@ -34,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3` · `i2`–`i3`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2019 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 
@@ -90,7 +89,7 @@ Random-effects meta-analysis of randomized trials comparing virtual patients wit
 - [Virtual patients show larger effects when replacing passive traditional learning (lectures, reading) than active learning (group discussion, mannequin-based)](vp-passive-versus-active-comparison.md) — related
 - [Virtual patients are as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](vp-traditional-knowledge-no-difference.md) — related
 - [Virtual patients blended with traditional education improve knowledge more than traditional education alone (pooled SMD=0.73)](vp-blended-knowledge-advantage.md) — related
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Live simulations with real patients showed the greatest effects among simulation types (g = 2.27, medical education only)](simulation-type-moderates-effectiveness.md) — related

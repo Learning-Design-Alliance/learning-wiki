@@ -49,3 +49,4 @@ Single longitudinal simulation study (Ladyshewsky et al. 2000) comparing 12 unde
 - [Canada (excluding Quebec) is the only country of 17 requiring a clinical competency examination for licensure of domestic physical therapy graduates](canada-only-country-clinical-competency-exam-pt-licensure.md) — related
 - [A six-station sport medicine OSCE showed high reliability and construct validity, with senior residents outscoring junior residents](dwyer-sem-osce-reliability-validity.md) — related
 - [OSCEs used with physical therapy students show weak internal consistency, with a pooled Cronbach's alpha of 0.55 below the acceptable range](pt-osce-pooled-cronbach-alpha-weak.md) — related
+- [Known-groups validity: high-practice orthodontists report higher self-perceived competency, but objective knowledge differs only modestly across practice groups](known-groups-validity-scs-strong-okto-modest.md) — a narrower finding that bears on this claim

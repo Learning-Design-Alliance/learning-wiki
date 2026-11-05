@@ -48,6 +48,7 @@ The article recommends that institutions establish standardized MDT protocols, e
 - [Provide standardized evidence-based bedside wound-care guidelines in surgical and trauma wards](bedside-guidelines-surgical-trauma-wards.md)
 - [Formalize clinical peer-mentorship programs pairing senior staff with junior nurses](peer-mentorship-junior-nurses-wound-care.md)
 - [Hospitals should provide easier access to PICC care guidelines, such as purchasing clinical guideline databases and training on guideline use](easier-access-to-picc-guidelines.md)
+- [Bundle recurrent hands-on hypertension training, simplified point-of-care guidelines, and facility chronic care systems (registers, recall, referral protocols) for PHC workers](bundled-hypertension-capacity-strategy-phc.md)
 
 ## Examples
 -

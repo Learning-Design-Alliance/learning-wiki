@@ -56,3 +56,4 @@ Assessor-blinded RCT of 50 clinical medical students interning at the First Affi
 - [BOPPPS with virtual simulation yields significantly higher total internship performance scores than traditional teaching (d = 3.12)](boppps-virtual-simulation-higher-internship-performance.md) — related
 - [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related
 - [3DIPT-assisted teaching produces higher simulated NMLE anatomical imaging test scores than traditional internship teaching after 6 months](3dipt-higher-simulated-nmle-anatomical-imaging-scores.md) — related
+- [After the intervention, the peer-review group showed significantly greater post-lecture knowledge gains than the control group (83 vs 76, p = 0.003)](peer-review-greater-post-lecture-knowledge-gains.md) — related

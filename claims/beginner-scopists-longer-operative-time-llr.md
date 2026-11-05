@@ -50,3 +50,4 @@ Retrospective comparison of 161 LLRs by a single surgeon (82 expert-assisted, 79
 - [In major hepatectomy, operative efficiency improved over time for both scopist groups with joystick control, but beginner-assisted cases showed no comparable improvement with conventional control](major-hepatectomy-learning-curve-controller-type.md) — related
 - [CUSUM analysis shows joystick-controlled scope use attenuates the cumulative operation-time gap between expert and beginner scopists](cusum-joystick-attenuates-cumulative-gap.md) — related
 - [Beginner scopists have higher intraoperative transfusion and open conversion rates than expert scopists in LLR](beginner-scopists-transfusion-conversion-llr.md) — related
+- [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — related

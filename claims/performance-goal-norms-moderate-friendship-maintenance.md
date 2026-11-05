@@ -49,3 +49,4 @@ RSiena endowment (maintenance) effects estimated separately for classrooms with 
 - [Achievement goal descriptive norms did not play a role in friendship processes related to achievement, unlike popularity norms](descriptive-norms-not-predictive-friendship-processes.md) — related
 - [The presence and direction of achievement-related friendship processes did not differ significantly between Grade 5 and Grade 6 classrooms](friendship-processes-similar-grade-5-6.md) — related
 - [In classrooms with high performance goal popularity norms, students select similarly achieving friends; in low performance goal popularity norm classrooms, similarity-based selection is significantly negative](performance-goal-popularity-norms-moderate-friendship-selection.md) — related
+- [Friendship selection reinforces academic similarity: adolescents befriend similarly achieving peers, high achievers receive more nominations](achievement-homophily-friendship-selection.md) — related

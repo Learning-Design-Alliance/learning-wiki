@@ -49,3 +49,4 @@ Survey analysis of novice CPS teachers' backgrounds. The report also states that
 - [On average, more effective early-career teachers remain in the teaching profession and stay in their initial schools](more-effective-teachers-remain-in-profession-and-school.md) — related
 - [Classroom behavior problems are linked to worse novice-teacher outcomes, while a welcoming staff and strong school leadership are linked to more positive outcomes](classroom-behavior-problems-school-climate-novice-outcomes.md) — related
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — related
+- [Teacher quality covariates are significant only at specific levels: Master's degree share at middle and high schools, experience at elementary schools](teacher-quality-covariate-pattern.md) — related

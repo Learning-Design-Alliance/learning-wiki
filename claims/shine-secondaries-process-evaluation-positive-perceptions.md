@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2015
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: victoria-menzies-2015
     resource: "https://eric.ed.gov/?id=ED581429"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q1`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Teachers in two observed schools reported pupils' improved social skills, better relationships and increased confidence. [→ Victoria Menzies 2015](#victoria-menzies-2015)

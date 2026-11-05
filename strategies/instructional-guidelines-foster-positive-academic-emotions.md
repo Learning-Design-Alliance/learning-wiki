@@ -54,6 +54,7 @@ From control-value theory the authors infer general guidelines for designing ins
 - [Establish Group Norms](establish-group-norms.md)
 - [Design programs that foster students' positive emotions and reduce negative emotions to support subsequent relationship quality and achievement](foster-positive-emotions-programs-strategy.md)
 - [Calibrate academic task design to individual students and strengthen self-efficacy and peer support as malleable protective factors for momentary engagement](calibrate-tasks-and-protective-factors-for-engagement.md)
+- [Foster supportive peer environments and emotion regulation skills to support academic development](foster-peer-environments-and-emotion-regulation.md)
 
 ## Examples
 -

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts
+title: In one 37-student classroom experiment, learning scores differ across media combinations in the direction Dual Coding Theory predicts
 status: review
 generated:
   by: "claude/unspecified"
@@ -20,19 +20,20 @@ evidence_strength: moderate
 newest_evidence: 2002
 ---
 
-# In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts
+# In one 37-student classroom experiment, learning scores differ across media combinations in the direction Dual Coding Theory predicts
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · n=37
 > **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 89 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- title before 2026-10-15: Different media combinations significantly affect the recall and retention of information -->
+<!-- title before 2026-11-05 (the 37-student experiment measured learning scores, not retention): In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts -->
 
-How information is distributed across media channels (e.g., text, images, narration) changes how well learners recall and retain it, in line with the predictions of [Dual Coding Theory](../theories/dual-coding-theory.md).
+How information is distributed across media channels (e.g., text, images, narration) changed how well learners scored on a test of it in one small experiment, in line with the predictions of [Dual Coding Theory](../theories/dual-coding-theory.md).
 
 ## Subclaims
 
-`q3 i?` Recall and retention outcomes differ across media combinations in the direction predicted by Dual Coding Theory. [→ Alty 2002](#alty-2002)
+`q3 i?` Mean learning scores on a post-presentation test differ across media combinations (text, text with diagrams, voice-over with diagrams) in the direction predicted by Dual Coding Theory; retention was not measured and no significance test is reported. [→ Alty 2002](#alty-2002)
 
 ## Evidence
 
@@ -42,9 +43,9 @@ Primary evidence link: https://files.eric.ed.gov/fulltext/ED476964.pdf
 
 Alty, James L. (2002). Dual Coding Theory and Computer Education: Some Media Experiments To Examine the Effects of Different Media on Learning. ED-MEDIA 2002 World Conference on Educational Multimedia, Hypermedia & Telecommunications. Proceedings (14th, Denver, Colorado, June 24-29, 2002). [https://files.eric.ed.gov/fulltext/ED476964.pdf](https://files.eric.ed.gov/fulltext/ED476964.pdf)
 
-`q3 · peer-reviewed conference experiment, not pre-registered` · `i? · no source text available to check; the entry prints no effect size` · `n=37` · `causal · r?`
+`q3 · peer-reviewed conference experiment, not pre-registered` · `i? · no effect size or significance test reported; results shown only as a figure of mean scores` · `n=37` · `causal · r?`
 
-In an extended in-class experiment, 37 students studied the same content presented in different media combinations (varying text and image presentations in a computer-based environment). Recall and retention measures showed that outcomes differed across media combinations, and — in the author's words — "in all cases the predictions of Dual Coding theory are borne out": combinations that supported both verbal and imagistic coding produced better recall than those that did not.
+In an extended in-class experiment on a postgraduate Multimedia Interface Design course, students were divided into three groups balanced for gender and learning style, and each group received four statistics modules in rotating presentation formats (text only, text with diagrams, voice-over with diagrams); students who missed any session were removed, leaving 37. Mean learning scores per module are shown in a figure labelled "Preliminary Experimental Results", and — in the author's words — "in all cases the predictions of Dual Coding theory are borne out." The paper reports no significance test or effect size for this experiment, and it measured learning scores after each presentation, not retention over time.
 
 ## Discussion
 

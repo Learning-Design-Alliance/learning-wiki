@@ -59,3 +59,4 @@ Meta-analysis of 15 RCTs reporting knowledge at course conclusion, synthesized i
 - [High-fidelity simulation outperforms traditional training in skill performance (SMD 1.63) and knowledge (SMD 0.69) immediately after training](hf-vs-traditional-skill-knowledge-benefit.md) — related
 - [For cognitive outcomes, high-fidelity simulation shows the largest effect size (0.50)](hfs-largest-cognitive-outcome-effect.md) — related
 - [Simulation-based nursing education shows a medium-to-large pooled effect on learning outcomes (SMD = 0.70)](simulation-nursing-education-pooled-effect-070.md) — related
+- [HFS/curriculum-integrated sessions produce significantly higher total knowledge scores than traditional curriculum in third-year nursing students](hfs-curriculum-integration-higher-total-knowledge.md) — related

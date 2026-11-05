@@ -9,7 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-25
+source_checked: 2026-11-05
 sources:
   - id: spencer-mercedes-2022
     resource: "https://doi.org/10.1037/edu0000670"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In an observational path model, intermediary numerical cognition statistically mediated associations between early calculation skill, WPS, reading, processing speed, working memory, and attentive behavior and all three later outcomes; this shows associations, not causal effects. [→ Spencer Mercedes 2022](#spencer-mercedes-2022)
@@ -62,3 +62,4 @@ Path analysis mediation model (final pruned model) fitted to longitudinal data f
 - [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
 - [Visuospatial skill improvement does not mediate intervention effects on classroom behavior](vs-improvement-does-not-mediate-behavior.md) — related
 - [Grade 5 academic and non-cognitive skills are positive predictors of grade 8 mathematics scores](grade-5-skills-predict-grade-8-math-achievement.md) — related
+- [The association between inhibition and first-grade achievement in math, reading, and writing is fully mediated by LRBs](lrb-full-mediation-inhibition-achievement.md) — related

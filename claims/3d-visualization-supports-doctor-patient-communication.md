@@ -50,3 +50,4 @@ Questionnaire survey item from Table 2: all 25 experimental-group residents repo
 - [Integrating 3D visualization reconstruction with PBL improves theoretical examination scores versus lecture-based learning in pheochromocytoma training](3d-visualization-pbl-higher-theoretical-scores-pcc.md) — related
 - [Residents taught with CBL plus 3D reconstruction report higher satisfaction than residents taught with traditional lectures across all five survey domains](cbl-3d-reconstruction-higher-satisfaction-liver-ultrasound.md) — related
 - [Narrative medicine education improves residents' humanistic care ability and doctor-patient communication compared with lecture-based learning](narrative-medicine-improves-care-and-communication.md) — related
+- [Patients cared for by programmed-instruction students reported higher satisfaction than patients cared for by traditionally taught students](programmed-instruction-patient-satisfaction.md) — related

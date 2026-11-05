@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Student responses indicated a clear preference for a hybrid feedback model combining the immediacy of AI-generated comments with the depth and pedagogical value of instructor feedback. [→ Reza Farzi 2026](#reza-farzi-2026)
+`q2 i?` Students expressed a clear preference for a hybrid feedback model combining the immediacy of AI-generated comments with the pedagogical value of instructor feedback. [→ Reza Farzi 2026](#reza-farzi-2026)
 
 ## Evidence
 
@@ -37,9 +37,9 @@ Reza Farzi. (2026). Human–AI Collaboration in Academic Writing Instruction: Ca
 
 `q2 · i?` · `associational · r1`
 
-Perception data from the mixed-methods study of 30 first-year EAP students, analyzed as part of the comparison of instructor and ChatGPT-3.5 feedback on their essays. The article reports a "clear preference for a hybrid feedback model"; no effect size is printed.
+Perception data from the mixed-methods study of 30 first-year EAP students, analyzed as part of the comparison of instructor and ChatGPT-3.5 feedback on their essays. In the thematic analysis of the 30 students' survey responses, "preference for combined human and AI feedback" appeared 24 times; most students "preferred receiving both types of feedback", using ChatGPT for technical corrections and the instructor for in-depth guidance. No effect size is printed for the preference finding (the study's one printed effect size, Cohen's d = 0.27, is for the non-significant difference between instructor and ChatGPT essay scores).
 
-> "Student responses indicated a clear preference for a hybrid feedback model, which combines the immediacy of AI-generated comments with the depth and pedagogical value of instructor feedback."
+> "Students expressed a clear preference for a hybrid feedback model that combines the immediacy of AI-generated comments with the pedagogical value of instructor feedback."
 
 ## Discussion
 

@@ -9,7 +9,6 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-14
 sources:
   - id: mcelhaney-2024
     resource: "https://doi.org/10.51388/20.500.12265/215"
@@ -33,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-14 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The time required to evaluate student work and provide constructive feedback can make certain formative assessment practices prohibitively time consuming. [→ McElhaney 2024](#mcelhaney-2024)

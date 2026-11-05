@@ -53,3 +53,4 @@ Written opinion forms from all experimental-group students plus semi-structured 
 - [Students' attitudes toward life made gradual progress across the ten weekly themes of the course](gradual-attitude-progress-across-weekly-themes.md) — related
 - [Students in the situated learning environment reported mostly positive perceptions, including improved communication, pronunciation, learning, and motivation](positive-student-perceptions-situated-learning-vocational-english.md) — related
 - [Focus group interviews identify motivation (fun, attractiveness, clarity) and knowledge transfer (real life, speaking) as student themes about UbD](ubd-student-views-motivation-knowledge-transfer.md) — related
+- [Students perceive wellness course content as immediately applicable to daily life, which they describe as heightening motivation and sustained engagement](perceived-relevance-heightens-engagement.md) — related

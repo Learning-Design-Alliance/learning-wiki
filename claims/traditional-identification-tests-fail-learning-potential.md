@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2005
+source_checked: 2026-11-05
 recheck_by: 2008
 sources:
   - id: mcglonn-nelson-2005
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2008**: tool and model accuracy changes quickly
+> **Currency** · newest study 2005 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2008**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Norm-referenced tests and quantified descriptions are the most widely used identification tools, yet none can fully determine a student's learning potential. [→ McGlonn-Nelson 2005](#mcglonn-nelson-2005)
@@ -61,6 +62,6 @@ Literature review section reporting, citing Johnsen (1997) and Kanevsky (1995), 
 - [Norm-referenced mental-age and IQ metrics distract investigators from the structural and hierarchical aspects of developing abilities](norm-referenced-metrics-hide-structural-development.md) — related
 - [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](culturally-diverse-underrepresentation-biased-measures.md) — related
 - [Culturally and linguistically diverse students are underrepresented in gifted identification nationwide](gifted-underrepresentation-diverse-students.md) — related
-- [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test](test-scores-gate-gifted-program-entry.md) — related
+- [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which used SAT scores to decide summer-program invitations, was inviting over 2,500 boys but only 1,081 girls although equal numbers took the test](test-scores-gate-gifted-program-entry.md) — related
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related

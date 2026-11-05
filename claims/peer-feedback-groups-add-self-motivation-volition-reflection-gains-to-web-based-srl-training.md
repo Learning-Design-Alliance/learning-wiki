@@ -9,7 +9,7 @@ generated:
   at: 2026-09-24
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: bellhäuser-2022
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Group TDP showed statistically significant increases in planning (β = 0.80), metacognition (β = 0.88), self-motivation (β = 0.50; p < 0.01), volition (β = 0.48; p = 0.01) and reflection (β = 0.52; p = 0.02). [→ Bellhäuser 2022](#bellhauser-2022)
@@ -77,7 +77,7 @@ Same planned contrasts for Group TDP: "gains in goal-setting and elaboration rem
 - [Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospective university students in an online preparation course](web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) — related
 - [In association-rule mining of survey data from 530 college students in online courses, goal setting, environment structuring and time management were the strategies most often associated with lower digital distraction](srl-strategies-associated-lower-digital-distraction.md) — related
 - [Instructional lecture produced no immediate significant change in metacognitive knowledge or regulation of cognition](instructional-no-immediate-mkc-mrc-change.md) — related
-- [Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners](peer-feedback-soft-evaluative-judgement-statistics.md) — related
+- [Peer feedback promoted critical reflection, collaboration and engagement, but one interviewed student doubted its reliability because peers were statistics beginners](peer-feedback-soft-evaluative-judgement-statistics.md) — related
 - [The combined training-plus-diary condition improved specific SRL components: SRL knowledge, metacognitive strategies, cognitive strategies (elaboration, organisation, critical thinking), and resource management strategies (time-management, effort regulation)](combined-condition-improved-specific-srl-components.md) — related
 - [Combining a structured learning diary with instruction on self-regulated learning increased students' strategy use and self-efficacy](diary-plus-srl-instruction-raises-strategy-use-self-efficacy.md) — related
 - [Self-regulated problem-solving instruction produced immediate, marked increases in target behaviors for all four students, with a mean of 2.3 training sessions to reach 80% mastery](problem-solving-instruction-increases-target-behaviors-developmental-disabilities.md) — related

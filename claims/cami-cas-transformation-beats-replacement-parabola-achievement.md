@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: mehmet-alper-ardıç-tevfik-işleyen-2018
     resource: "https://doi.org/10.20448/journal.509.2018.53.165.173"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` 10th-grade students taught parabola through Mathematica-based CAMI at the transformation level scored significantly higher on the posttest than students taught by traditional methods with ICT at the replacement level, with a large effect size (r=-0.56). [→ Mehmet Alper Ardıç; Tevfik İşleyen 2018](#mehmet-alper-ardc-tevfik-isleyen-2018)

@@ -46,6 +46,6 @@ The review reports this finding from a primary study by Campbell and Clark set i
 
 ## Related Claims
 - [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](adaptive-fading-beats-fixed-and-linear-scaffolding.md) — a broader claim this one bears on
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
 - [GenAI/LLM modalities provide the strongest evidence for cognitive and communication outcomes, while chatbots show weak independent effects](genai-llm-strongest-evidence-cognitive-communication.md) — related
 - [Higher-order OSATS subdomains are most vulnerable to decay while fundamental psychomotor domains remain stable](higher-order-osats-subdomains-vulnerable-to-decay.md) — related

@@ -46,7 +46,7 @@ Meta-aggregative synthesis for the Institutional Vision statement, aggregating c
 
 ## Related Claims
 - [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](equity-commitments-constrained-infrastructure-capacity.md) — related
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [Affective characteristics — attitudes and beliefs, emotional responses, and sensitivity to technology gaps — should be taken into account when preparing preservice teachers for digital technology use](affective-dimension-preservice-technology-preparation.md) — related
 - [Teachers tended to adopt district-provided tools, and single-application step-by-step training supported uptake of Forms](district-provided-tools-single-tool-training.md) — related
 - [Zimbabwean universities faced trenchant institutional needs for online teaching — untrained personnel, poor digital infrastructure and cyber security — mostly emanating from inadequate funding](zimbabwe-universities-institutional-needs-online-teaching.md) — related

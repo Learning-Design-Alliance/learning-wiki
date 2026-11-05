@@ -51,3 +51,5 @@ Multivariable linear regression on 2,017 responses with college-or-below as refe
 - [B.S.-degree nurses show significantly higher odds of palliative care knowledge than diploma nurses (AOR = 3.01)](bs-degree-nurses-higher-palliative-knowledge-odds-aor-3-01.md) — related
 - [Personnel with a bachelor's degree scored significantly higher than associate-degree holders in managing complicated child delivery](bachelor-degree-higher-ccd-score.md) — related
 - [Interns have higher baseline paediatric BLS knowledge than nurses](interns-higher-baseline-bls-knowledge-than-nurses.md) — related
+- [Prior real-life emergency encounters strongly predict good BLS/CPR knowledge among dentists (aOR = 12.97)](emergency-encounter-predicts-bls-knowledge.md) — related
+- [Four attributes failed consensus: nursing specialty completion, postgraduate/doctoral degrees, longer experience as automatically higher effectiveness, and younger age](four-attributes-failed-consensus.md) — related

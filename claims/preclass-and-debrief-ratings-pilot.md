@@ -47,6 +47,6 @@ Two descriptive survey findings from the pilot (n = 62): pre-class preparation (
 ## Related Claims
 - [93.1% of students rated pre-class test difficulty as appropriate](pre-class-tests-appropriate-difficulty-rating.md) — related
 - [Learners rated the CBL module highly, with 100% reporting learning objectives were met and 93.5% endorsing anticipated practice change](cbl-pediatric-meningitis-learner-ratings.md) — related
-- [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](debriefing-psychometric-instruction-valued.md) — related
+- [Graduate students in a simulated clinical course reported positive experiences with its weekly debriefing and guided exploration of psychometric properties](debriefing-psychometric-instruction-valued.md) — related
 - [Pre-reading annotations made with VPEN revealed students' prior knowledge and preparation, helping the instructor prepare the lecture in advance](prereading-annotations-inform-instructor.md) — related
 - [Most pharmacy students (93.5%) rated real prescriptions as highly effective for course engagement](real-prescriptions-engagement-rating-pilot.md) — related

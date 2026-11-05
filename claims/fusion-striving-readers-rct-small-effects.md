@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: mixed
 newest_evidence: 2017
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: hock-2017
     resource: "https://doi.org/10.1177/0022219415618495"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
-> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` In an intent-to-treat RCT of 871 adolescent struggling readers, Fusion Reading showed a statistically significant impact on the TOWRE Sight Word Efficiency subtest with an effect size (Glass Δ) of 0.11, and no significant differences on measures of reading comprehension. [→ Hock 2017](#hock-2017)

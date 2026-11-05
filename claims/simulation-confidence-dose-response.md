@@ -46,7 +46,7 @@ The review's synthesis of confidence studies reports "single-session interventio
 
 
 ## Related Claims
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [Most learner-facing studies of technology-enhanced simulation in laparoscopic training report favorable learner responses, mainly confidence, satisfaction, perceived safety and self-efficacy](simulation-laparoscopic-favorable-perceptions.md) — related
 - [Stress-dose hydrocortisone dosing accuracy improved from 42.9% to 93.9% after the simulation](stress-dose-dosing-improved-simulation.md) — related

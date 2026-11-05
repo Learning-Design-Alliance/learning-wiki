@@ -49,3 +49,4 @@ Review's count of findings by green space type across included studies. It repor
 - [Positive green space associations concentrate in college preparatory exams and end-of-semester grades more than math, reading, or writing test scores](college-exams-grades-more-positive-green-space-findings.md)
 - [Green space measured within 2000 m of schools shows more positive associations, while 3000 m or greater buffers show mostly null or negative findings](green-space-distance-buffer-pattern.md)
 - [Most findings on school green space and academic performance are non-significant, with 28% positive and 8% negative across 122 findings in 13 articles](school-green-space-academic-performance-mostly-null.md)
+- [NDVI-measured general greenness shows no statistically significant relationship with test scores at any school level](ndvi-no-significant-relationship-test-scores.md) — related
