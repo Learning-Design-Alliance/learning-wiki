@@ -10,6 +10,14 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ---
 
+## 2026-11-05
+
+* **Claim**: [learner-variables/prior-knowledge](learner-variables/prior-knowledge.md) — Linked claim from An astonishing regularity in student learning rate (Koedinger et al., 2023), doi:10.1073/pnas.2221311120
+* **Claim**: [principles/mastery-learning](principles/mastery-learning.md) — Linked claim from An astonishing regularity in student learning rate (Koedinger et al., 2023), doi:10.1073/pnas.2221311120
+* **Claim**: [principles/deliberate-practice](principles/deliberate-practice.md) — Linked claim from An astonishing regularity in student learning rate (Koedinger et al., 2023), doi:10.1073/pnas.2221311120
+* **Ingest**: [claims/practice-opportunities-needed-after-verbal-instruction](claims/practice-opportunities-needed-after-verbal-instruction.md) — An astonishing regularity in student learning rate (Koedinger et al., 2023), doi:10.1073/pnas.2221311120
+* **Ingest**: [claims/students-differ-in-initial-knowledge-not-learning-rate](claims/students-differ-in-initial-knowledge-not-learning-rate.md) — An astonishing regularity in student learning rate (Koedinger et al., 2023), doi:10.1073/pnas.2221311120
+
 ## 2026-11-04
 
 * **Ingest**: [claims/undocumented-renal-recovery-discharge-gap](claims/undocumented-renal-recovery-discharge-gap.md) — Ingested from pmc-13312666 (Pediatric acute kidney injury in Rwanda: awareness, early detection, and timely management to improve outcomes, a multi-center mixed method study.) via eval_harness.py + ingest_extractions.py

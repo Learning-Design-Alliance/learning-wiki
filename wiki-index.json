@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":49438,
+"claim":49440,
 "design":2540,
 "element":1057,
 "learner-variable":75,
@@ -351834,6 +351834,16 @@
 "type":"claim"
 },
 {
+"description":"Across 27 datasets from online practice systems used after lectures and readings, the typical student began practice at about 65% correct and needed about seven practice opportunities with feedback on a knowledge component to reach 80% correct.",
+"evidence_strength":"moderate",
+"id":"practice-opportunities-needed-after-verbal-instruction",
+"newest_evidence":"2023",
+"path":"claims/practice-opportunities-needed-after-verbal-instruction.md",
+"status":"review",
+"title":"After up-front instruction, students start practice at about 65% correct and need about seven opportunities per knowledge component to reach 80%",
+"type":"claim"
+},
+{
 "description":"Long practice periods were not much less favorable than short ones in addition practice, with evidence favoring the longer periods",
 "evidence_strength":"weak",
 "id":"practice-period-length-addition-long-not-inferior",
@@ -442859,6 +442869,16 @@
 "source_checked":"2026-10-20",
 "status":"review",
 "title":"Review reports students did not recognize the key points an exemplary lecturer presented in a proof",
+"type":"claim"
+},
+{
+"description":"Across 27 datasets from online practice systems, students' starting accuracy varied by about 20 percentage points between the lower and upper halves, while their gain per practice opportunity varied by about one percentage point.",
+"evidence_strength":"moderate",
+"id":"students-differ-in-initial-knowledge-not-learning-rate",
+"newest_evidence":"2023",
+"path":"claims/students-differ-in-initial-knowledge-not-learning-rate.md",
+"status":"review",
+"title":"Students in online practice systems differ widely in initial knowledge but very little in learning rate per practice opportunity",
 "type":"claim"
 },
 {
@@ -706567,6 +706587,7 @@
 "practice-limits-signal-standing-and-performance":"practice-limits-signal-standing-and-performance",
 "practice-must-be-motivated":"practice-must-be-motivated",
 "practice-opportunities-develop-teacher-self-efficacy":"practice-opportunities-develop-teacher-self-efficacy",
+"practice-opportunities-needed-after-verbal-instruction":"practice-opportunities-needed-after-verbal-instruction",
 "practice-opportunity-rates-kindergarten-gains":"higher-practice-opportunity-rates-linked-to-gains",
 "practice-period-length-addition-long-not-inferior":"practice-period-length-addition-long-not-inferior",
 "practice-points-did-not-inflate-grades":"practice-points-did-not-inflate-grades",
@@ -715520,6 +715541,7 @@
 "students-describe-home-environments-more-responsive-than-school":"students-describe-home-environments-more-responsive-than-school",
 "students-developed-mobile-ct-competencies":"students-developed-mobile-ct-competencies",
 "students-did-not-recognize-lecture-proof-key-points":"students-did-not-recognize-lecture-proof-key-points",
+"students-differ-in-initial-knowledge-not-learning-rate":"students-differ-in-initial-knowledge-not-learning-rate",
 "students-differentiate-privacy-sensitivity-by-data-type":"students-differentiate-privacy-sensitivity-by-data-type",
 "students-difficulties-solar-movement-observable-changes":"students-difficulties-solar-movement-observable-changes",
 "students-difficulty-constructing-proofs":"students-difficulty-constructing-proofs",

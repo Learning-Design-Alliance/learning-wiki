@@ -6,8 +6,8 @@ description: A learner's existing domain knowledge in the subject area before in
 canonical: true
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-10-21
+  by: "process:article-ingest"
+  at: 2026-11-05
 ---
 
 # Prior Knowledge
@@ -292,6 +292,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Novice first-attempt total scores were significantly lower than expert median scores on all six FRS VR tasks](../claims/frs-vr-novice-scores-lower-than-experts.md) [+M] — learners who differ on it differ in outcomes
 - [Novices and experienced participants rated the simulator similarly with no significant differences in perceptions](../claims/similar-simulator-perceptions-novice-experienced.md) [-M] — learners who differ on it differ in outcomes
 - [Knowledge gains were largest in domains with low baseline knowledge: humidifier change frequency, suction systems, patient positioning and subglottic secretion drainage](../claims/item-level-vap-knowledge-gains-largest-low-baseline-domains.md) [+M] — an instructional effect differs with it
+- [Students in online practice systems differ widely in initial knowledge but very little in learning rate per practice opportunity](../claims/students-differ-in-initial-knowledge-not-learning-rate.md) [+M] — learners who differ on it differ in outcomes: lower starting knowledge meant more practice opportunities to reach mastery, not a slower rate
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]
