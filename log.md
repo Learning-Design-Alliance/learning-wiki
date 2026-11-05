@@ -1009,6 +1009,8 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 * **Ingest**: [claims/simulated-learners-differ-from-humans-in-error-types](claims/simulated-learners-differ-from-humans-in-error-types.md) — Weitekamp et al. (2020), Investigating differential error types between human and simulated learners, doi:10.1007/978-3-030-52237-7_47
 * **Content**: [research-methods/student-digital-twin](research-methods/student-digital-twin.md) — National Academies (2024), Foundational research gaps and future directions for digital twins, doi:10.17226/26894
 * **Content**: [research-methods/student-digital-twin](research-methods/student-digital-twin.md) — Wright & Davidson (2020), How to tell the difference between a model and a digital twin, doi:10.1186/s40323-020-00147-4
+* **Content**: [products/apprentice-learner-architecture](products/apprentice-learner-architecture.md) — MacLellan (2025), Model human learners, arXiv:2502.02456
+* **Ingest**: [claims/computational-learner-model-predicts-tutor-experiment-direction](claims/computational-learner-model-predicts-tutor-experiment-direction.md) — MacLellan (2025), Model human learners, arXiv:2502.02456
 
 ## 2026-11-04
 
