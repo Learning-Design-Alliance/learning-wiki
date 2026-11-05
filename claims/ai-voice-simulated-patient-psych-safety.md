@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: amina-ahmad-2026
     resource: "https://doi.org/10.2196/78161"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In the authors' first-year implementation, practicing psychiatric interactions with AI-simulated patients in a controlled setting helped students build familiarity and confidence before real clinical exposure. [→ Amina Ahmad 2026](#amina-ahmad-2026)
@@ -53,3 +54,4 @@ Reflective account of the first-year implementation, not an empirical evaluation
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — related
 - [Simulation-based education contributes to developing communication, interviewing and therapeutic engagement skills in undergraduate psychiatry](simulation-develops-clinical-skills-undergraduate-psychiatry.md) — a broader claim this one bears on
 - [Chronic psychiatric placement shortage in the UAE left most mental health nursing practicum students without traditional placements, motivating AI simulation](clinical-placement-shortage-uae-mental-health.md) — related
+- [Repeated VR practice of therapeutic conversations builds students' confidence and flow in communication](vr-repeated-practice-confidence-flow.md) — related

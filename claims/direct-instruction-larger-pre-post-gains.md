@@ -50,3 +50,4 @@ Descriptive pre-test/post-test means on the 80-item achievement test for both gr
 - [Both groups improved significantly on the achievement test from pre-test to post-test, with the experimental group reaching a much higher post-test mean](jigsaw-iv-within-group-achievement-gains.md) — related
 - [Eleventh-grade students taught literature with the discourse analysis method showed larger pretest-to-posttest gains in reading comprehension than the traditionally taught control group](discourse-analysis-improves-reading-comprehension.md) — related
 - [Both groups improved from baseline, with substantially greater gains in the rubric group](rubric-group-greater-pre-post-gains-crown-preparation.md) — related
+- [Traditionally taught control students showed no significant pre-to-post gains in patient preparation or drug preparation skills](control-group-limited-skill-gains.md) — related

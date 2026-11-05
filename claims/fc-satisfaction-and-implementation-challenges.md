@@ -54,3 +54,5 @@ Post-intervention five-point Likert questionnaire completed by all 56 FC partici
 - [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
 - [Scenario-based simulation ward rounds combined with video feedback increase teaching satisfaction among gastroenterology residents](simulation-ward-rounds-video-feedback-increase-teaching-satisfaction.md) — related
 - [Medical students report high overall satisfaction with an interprofessional simulation-based learning module](ipe-module-high-student-satisfaction.md) — related
+- [Course participants reported high satisfaction (95.5%) and perceived clinical impact (97.7%), but nearly half reported a high or moderately high learning burden](tripartite-course-satisfaction-burden-survey.md) — related
+- [Students across all groups reported high satisfaction with the module, with no statistically significant group differences in satisfaction or self-reported mastery](high-satisfaction-no-group-differences-perceptions.md) — related

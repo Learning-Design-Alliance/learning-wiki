@@ -43,7 +43,8 @@ Based on finding that low handwriting performance clusters in lower-SES schools 
 - [Higher socioeconomic index predicts better pressure scores, but gender does not](../claims/ses-predicts-pressure-scores-gender-does-not.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Prioritize inclusion of adolescents with parents with short education or born abroad in future physical activity interventions aiming at academic performance](prioritize-disadvantaged-groups-pa-interventions.md)
 
 ## Examples
 -

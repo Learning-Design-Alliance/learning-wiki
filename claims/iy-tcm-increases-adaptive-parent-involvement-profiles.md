@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: herman-and-reinke-2017
     resource: "http://dx.doi.org/10.1037/spq0000169"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Parents of intervention teachers were more likely to be in the High Contact/High Comfort class at follow-up versus the Low Contact/Low Comfort (OR: 4.55) and Low Contact/Medium Comfort (OR: 5.30) classes. [→ Herman and Reinke 2017](#herman-and-reinke-2017)

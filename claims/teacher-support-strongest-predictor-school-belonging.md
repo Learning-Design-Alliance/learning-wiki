@@ -115,3 +115,5 @@ In the Belonging and Collaboration in Practice section, the primer attributes th
 - [The teacher-student relationship has the strongest link with students' sense of belonging at school and mediates the link between egalitarianism and SOBAS](teacher-student-relationship-strongest-sobas-link.md) — related
 - [Associations with school belonging are generally stronger in rural than urban locations](belonging-effects-stronger-rural-than-urban.md) — related
 - [Teachers' provision of opportunities to belong predicts Black and Latine students' class engagement and overall school engagement](opportunities-to-belong-predict-engagement.md) — related
+- [Discussion section attendance significantly increases agreement with 10 of 19 sense of belonging items](attendance-predicts-belonging.md) — related
+- [Teaching practices are associated with sense of belonging: higher group work characterizes agreement on most items that differ](group-work-belonging-simplex.md) — related

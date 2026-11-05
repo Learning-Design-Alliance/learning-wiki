@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 145 claims (97 show a difference, 32 mixed, 16 no difference) · 79 studies (29 causal, 16 review, 15 associational, 14 quant-synthesis, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 18 of 79 report an effect size · 141 claims rest on one study
+> **Evidence** · 150 claims (100 show a difference, 33 mixed, 17 no difference) · 80 studies (29 causal, 16 review, 16 associational, 14 quant-synthesis, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 18 of 80 report an effect size · 146 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -182,6 +182,11 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [The Kaledo board game improved nutrition knowledge and dietary behavior and sustained a BMI z-score reduction at 6 and 18 months in a large cluster-randomized trial](../claims/kaledo-board-game-sustained-bmi-z-score-effect.md) [+M] — measured as an outcome of the instruction studied
 - [Adding physical activity time is beneficially associated with age-16 attainment, and removing physical activity produces the largest observed reductions in Attainment 8](../claims/physical-activity-reallocation-higher-attainment8.md) [+M] — learners who differ on it differ in outcomes
 - [GPA differs significantly across physical activity levels among male university students, rising stepwise from low to high activity](../claims/pa-category-gpa-dose-response-male-students.md) [+M] — learners who differ on it differ in outcomes
+- [Adolescents whose parents have short education or were born abroad have lower fitness, and lower cognitive and academic performance](../claims/parental-education-birth-socioeconomic-gaps.md) [+M] — learners who differ on it differ in outcomes
+- [Cardiovascular fitness is positively associated with math and language grades in Swedish adolescents, though the association is weak](../claims/fitness-associated-math-language-grades.md) [+M] — learners who differ on it differ in outcomes
+- [Fitness mediates the association between vigorous physical activity and academic performance, although the direct VPA–grades association was not significant and the test was post hoc](../claims/fitness-mediation-vpa-grades.md) [~M] — learners who differ on it differ in outcomes
+- [Moderate and vigorous physical activity show no significant associations with cognitive or academic performance in adjusted models](../claims/mpa-vpa-null-cognitive-academic.md) [-M] — learners who differ on it differ in outcomes
+- [Cardiovascular fitness is positively associated with cognitive performance in Swedish adolescents, adjusting for gender, puberty, parental education and parental country of birth](../claims/fitness-associated-cognitive-performance-adolescents.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

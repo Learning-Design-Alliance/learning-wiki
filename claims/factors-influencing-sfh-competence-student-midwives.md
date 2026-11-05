@@ -48,3 +48,4 @@ Descriptive cross-sectional survey of 184 student midwives and community service
 - [Only about one in five student midwives strongly agreed that clinical objectives were clearly displayed in the unit](unclear-clinical-objectives-units.md) — related
 - [The review identifies a lack of consensus on a clinical supervision definition, causing ambiguity and reduced use of this support.](lack-of-consensus-definition.md) — related
 - [Successful e-learning students were characterised by technology competence, high motivation and open attitudes, while preceptors guided, supported and gave feedback](elearning-learner-preceptor-characteristics.md) — related
+- [Students most strongly agreed preceptors modelled professionalism (85.2%) and helped them with problems (82.9%), and least agreed preceptors expressed concern about their lives outside work (31.8%)](ctbi-item-extremes-role-modelling-versus-personal-concern.md) — related

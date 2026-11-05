@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: liu-bingyan-2026
     resource: "https://doi.org/10.1186/s12909-026-09499-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Immediately after training, the experimental group’s OSCE scores (94.80 ± 3.02) were higher than the control group’s (93.15 ± 2.62), a statistically significant difference. [→ Liu Bingyan 2026](#liu-bingyan-2026)

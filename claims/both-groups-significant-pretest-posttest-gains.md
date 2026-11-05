@@ -69,3 +69,4 @@ Paired-samples t-test for related samples (Table 3): experimental pretest-postes
 - [Higher-order thinking ability improved significantly in both the experimental and control groups after learning activities](within-group-hots-gains-significant.md) — a narrower finding that bears on this claim
 - [Traditional classroom teaching showed no significant improvement in students' critical thinking ability over the same period](traditional-teaching-no-critical-thinking-gain.md) — reports the opposite
 - [Online instruction through the CMC-ELT blended model significantly improved MA TEFL students' teaching skills in Pakistan](online-instruction-improves-tefl-teaching-skills-pakistan.md) — related
+- [All three instructional groups showed significant pre- to post-class quiz improvements with no statistically significant between-group difference in knowledge gains](equal-quiz-gains-across-srp-teaching-groups.md) — related

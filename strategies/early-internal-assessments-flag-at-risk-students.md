@@ -45,6 +45,7 @@ The authors recommend leveraging the strong relationship between internal exam p
 
 - [Incorporate early in-program performance indicators alongside admissions metrics for a fuller picture of student outcomes](in-program-indicators-alongside-admissions-metrics.md)
 - [Use routine TBL readiness data as an early-warning system to trigger bespoke, targeted mid-semester support for at-risk students.](tbl-analytics-early-warning-bespoke-support-strategy.md)
+- [Use mid-course SJT performance, especially around key clinical transitions, to identify students for early targeted remediation and formative feedback](formative-sjt-targeted-remediation.md)
 
 ## Examples
 -

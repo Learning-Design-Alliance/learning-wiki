@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: khairova-and-egamberdieva-2016
     resource: "https://eric.ed.gov/?id=EJ1094593"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After 2-3 weeks of intensive course work, experimental groups of IAT course trainees showed higher percentages than control groups on eight oral-activity characteristics (from 48% vs 46% for information concentration to 82% vs 26% for logic connection of sentences); the authors read this as their speech having "improved greatly", but report no sample size, no pre-test and no statistical test. [→ Khairova and Egamberdieva 2016](#khairova-and-egamberdieva-2016)

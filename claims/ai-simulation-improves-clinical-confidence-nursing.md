@@ -56,3 +56,4 @@ The review reports a pre/post-test study (attributed to Creighton et al., 2025) 
 - [Self-confidence is an additional critical attribute of clinical readiness for practice among student nurses beyond previously identified attributes](self-confidence-additional-attribute-clinical-readiness.md) — related
 - [Simulation-based training improved PPE donning/doffing performance and reduced cognitive load from pre-test to post-test](simulation-ppe-donning-doffing-pre-post-gains.md) — related
 - [Pre-health students' self-reported confidence in clinical identification and emergency skills rose from pre-test to post-test after clinical simulation in one uncontrolled pre-post study.](simulation-increases-clinical-confidence.md) — related
+- [VR simulation training fostered active engagement and a greater sense of preparedness for clinical practice among medical students](vr-training-fostered-engagement-preparedness.md) — related

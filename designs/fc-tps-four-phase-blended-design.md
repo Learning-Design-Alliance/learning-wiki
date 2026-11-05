@@ -46,7 +46,9 @@ The article describes a blended learning intervention "structured into four sequ
 - [Peer Discussion Lowest Rating Pilot](../claims/peer-discussion-lowest-rating-pilot.md) [~W]
 
 ## Related Designs
+
 - Flipped Classroom Pattern
+- [Five-component blended teaching-practicing module for SRP instruction](five-component-srp-teaching-practicing-module.md)
 
 ## Examples
 -

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-10-13
+source_checked: 2026-11-05
 sources:
   - id: jonathan-nakamoto-2015
     resource: "https://eric.ed.gov/?id=ED560945"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2015 · checked against its sources 2026-10-13 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In each study year, grade 4 treatment students had significantly higher CCU scores than grade 4 control students, indicating a positive impact on literacy and life skills. [→ Jonathan Nakamoto 2015](#jonathan-nakamoto-2015)

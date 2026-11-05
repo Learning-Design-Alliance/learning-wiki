@@ -51,3 +51,4 @@ Subgroup analysis by profession and training status (Table 3) in the cross-secti
 - [Self-perceived competence is heterogeneous across pediatric scenarios, with high confidence for seizures, anaphylaxis, and hypoglycemia but markedly lower confidence for neonatal care, pediatric polytrauma, and resuscitation](heterogeneous-self-perceived-competence-pediatric-scenarios.md) — related
 - [PHTLS-trained emergency healthcare professionals show higher trauma knowledge than non-trained peers (Cohen's d = 1.15)](phtls-training-higher-trauma-knowledge.md) — related
 - [PHTLS-trained professionals report lower self-perceived competence than non-trained peers](phtls-training-lower-self-perceived-competence.md) — a broader claim this one bears on
+- [Accuracy on basic ECG electrophysiology items is high but drops sharply on complex patterns](ecg-basic-high-complex-low-accuracy.md) — related

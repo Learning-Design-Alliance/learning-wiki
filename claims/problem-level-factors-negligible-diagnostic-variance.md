@@ -86,3 +86,4 @@ Per-inference-rule F1 comparison (RQ2, Figure 20). LLaMA showed minimal gains ac
 ## Related Claims
 - [LLM feedback agents classify optimal logic proof steps near-ceiling but perform poorly on valid-alternative and incorrect solutions](llm-tutors-near-ceiling-optimal-poor-valid-alternative-incorrect.md) — related
 - [Model selection, not feedback condition, explains LLM diagnostic accuracy in three-way logic proof classification](model-selection-dominates-feedback-condition-diagnosis.md) — related
+- [Common LLM error patterns are multiple-option selection, image misdiagnosis, and action prioritization failures](llm-error-patterns-jnme.md) — related

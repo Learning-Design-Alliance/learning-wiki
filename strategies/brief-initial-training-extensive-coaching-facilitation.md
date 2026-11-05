@@ -85,6 +85,8 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Implement a structured clinical supervision model with trained supervisors, scheduled observations, and three-way conferences](structured-clinical-supervision-implementation-strategy.md)
 - [Lighthouse train-the-trainers strategy: phase-by-phase demonstration, return teaching, and a seven-step workshop sequence with follow-up seminars](cle-lighthouse-train-the-trainers-strategy.md)
 - [Use a train-the-trainer faculty development model with rapid-cycle quality improvement and participatory design to implement a longitudinal teamwork curriculum](train-the-trainer-participatory-qi-strategy.md)
+- [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
+- [Train peer tutors in a pre-session workshop and sustain quality with feedback questionnaires and incentive awards](peer-tutor-training-and-incentive-strategy.md)
 
 ## Examples
 -

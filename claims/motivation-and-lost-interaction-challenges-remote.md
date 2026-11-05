@@ -95,3 +95,5 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [The most frequent student criticisms of FLEX concerned self-regulated learning, missing interaction, and difficulty estimating learning time](flex-negative-perceptions-self-regulation-interaction.md) — related
 - [Before the intervention, most students reported little classroom technology use, but most felt motivated when teachers used technological tools](students-report-scarce-technology-use-but-motivated-by-it.md) — related
 - [Students most often value study groups for learning from others (38%) and collaboration (32%), but stated reasons do not predict exam performance](reasons-valuing-study-groups-no-exam-effect.md) — related
+- [Students most often cite learning-focused activities, peer work, and access to instructional support as helpful, and content/IA problems, poor environments, and modality as unhelpful](helpful-unhelpful-section-themes.md) — related
+- [Students in in-person sections report more helpful and fewer unhelpful aspects than students in remote sections](in-person-more-helpful-perceptions.md) — related

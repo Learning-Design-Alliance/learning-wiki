@@ -9,7 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: ying-zhan-2025
     resource: "https://doi.org/10.1007/s10734-025-01588-9"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Twenty-eight studies offered social collaboration opportunities; sixteen used peer assessment/discussion and sixteen teacher-student collaboration, but only three designed equitable teacher-student collaboration and only five connected students with industry partners and community stakeholders. [→ Ying Zhan 2025](#ying-zhan-2025)

@@ -1,0 +1,56 @@
+---
+type: claim
+title: CCS training produces higher theoretical examination scores than traditional didactic training across all four classes of non-dentistry medical undergraduates
+description: CCS training produces higher theoretical examination scores than traditional didactic training across all four classes of non-dentistry medical undergraduates
+id: ccs-higher-theoretical-exam-scores-stomatology
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-05
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: zeng-jiahao-2026
+    resource: "https://doi.org/10.1186/s12909-026-08593-1"
+    title: "Zeng Jiahao, Geng Yuanming, Zhang Jingwen, Liu Chundong, Liu Xin, Shen Xiaoqing, Lv Xiaozhi, Zhou Xiaolong. (2026). Computer-based case simulations enhances clinical reasoning skills of non-dental medical students as measured by mini-CEX. BMC Medical Education. https://doi.org/10.1186/s12909-026-08593-1"
+    author: Zeng Jiahao, Geng Yuanming, Zhang Jingwen, Liu Chundong, Liu Xin, Shen Xiaoqing, Lv Xiaozhi, Zhou Xiaolong
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 2
+---
+
+# CCS training produces higher theoretical examination scores than traditional didactic training across all four classes of non-dentistry medical undergraduates
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i3` Intervention groups consistently outperformed controls on the theoretical examination in all four classes, with Cohen's d effect sizes ranging from 1.00 to 1.43 (all P < 0.05). [→ Zeng Jiahao 2026](#zeng-jiahao-2026)
+
+## Evidence
+
+### Zeng Jiahao 2026
+
+Zeng Jiahao, Geng Yuanming, Zhang Jingwen, Liu Chundong, Liu Xin, Shen Xiaoqing, Lv Xiaozhi, Zhou Xiaolong. (2026). Computer-based case simulations enhances clinical reasoning skills of non-dental medical students as measured by mini-CEX. BMC Medical Education. https://doi.org/10.1186/s12909-026-08593-1
+
+`q3 · i3` · `causal · r2`
+
+Cluster-randomized controlled study of 328 fourth-year medical undergraduates in four classes; independent samples t-tests on theoretical exam scores. The article reports "Cohen‚Äôs d effect sizes ranging from 1.00 to 1.43" across classes, e.g. Clinical Medicine Class II 99.2 ± 1.04 vs 97.7 ± 1.74 (d = 1.43).
+
+> "Intervention groups consistently outperformed controls, with statistically significant differences observed across all classes (all P‚ÄČ<‚ÄČ0.05, Table¬†2). The magnitude of these differences was substantial, with Cohen‚Äôs d effect sizes ranging from 1.00 to 1.43, indicating large educational effects."
+
+## Discussion
+
+
+## Related Claims
+- [CCS training yields significantly greater post-clerkship Mini-CEX improvements than traditional training across all assessment domains](ccs-greater-post-clerkship-mini-cex-gains.md) — related
+- [Simulation training across medical and surgical scenarios yields significantly higher OSCE scores than didactic lectures across two year groups](simulation-higher-osce-scores-zhang.md) — related
+- [Integrated PBL and medical humanities teaching produced no significant between-group difference in post-intervention theoretical examination scores compared with LBL](integrated-pbl-humanities-no-difference-theoretical-scores.md) — related
+- [Self-directed learning yields higher mean exam scores than traditional didactic learning in undergraduate medical education](sdl-outperforms-tdl-exam-scores-medical-education.md) — related
+- [AI-assisted PBL-CBL combined teaching raises medical interns' theoretical examination scores in post-herpetic neuralgia compared with lecture-based teaching](ai-pbl-cbl-improves-theoretical-examination-scores.md) — related
+- [In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
+- [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related
+- [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
+- [Non-dentistry undergraduates prioritize learning oral pathologies and diagnostic thinking over basic oral procedural skills in their stomatology clerkship](non-dental-students-prioritize-diagnostic-over-procedural-skills.md) — related

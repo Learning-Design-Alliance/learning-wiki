@@ -62,3 +62,4 @@ Baseline comparison in the same assessor-blinded RCT of 50 clinical medical stud
 - [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in theoretical knowledge scores](hybrid-cbl-sst-no-difference-theoretical-knowledge.md) — related
 - [Improvement in the low-exposure skill vaginal delivery assistance was significantly greater than improvement in IUD removal, with all five core skills improving significantly](simulation-gains-largest-low-exposure-procedures.md) — related
 - [Theoretical exam scores did not differ between conventional, digital-only, and hybrid instructional groups](theoretical-exam-scores-similar-three-instructional-models.md) — related
+- [The DwGJ and control groups did not differ in admission theoretical or skill examination scores at baseline](dwgj-trial-baseline-equivalence-admission-scores.md) — possibly the same claim (merge candidate)

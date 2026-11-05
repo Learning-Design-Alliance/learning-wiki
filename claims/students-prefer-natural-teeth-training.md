@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: biagioni-gabriela-2026
     resource: "https://doi.org/10.1111/eje.70024"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in both groups found that natural teeth are better for endodontic preclinical training (p < 0.05). [→ Biagioni Gabriela 2026](#biagioni-gabriela-2026)
@@ -50,3 +51,8 @@ Questionnaire with 10 questions sent to students of both groups after completing
 - [Artificial teeth group students were more concerned with ethical and biohazard aspects than natural teeth group students](atg-students-ethical-biohazard-concerns.md) — related
 - [Natural teeth group showed more marginal ridge damage and short fillings than artificial teeth group](natural-teeth-more-ridge-damage-short-fillings.md) — related
 - [Overall technical quality of treatments was similar between natural and artificial teeth groups](similar-technical-quality-both-groups.md) — related
+- [Cost of procuring artificial teeth is perceived as a disadvantage to applicability (57.5%) and would influence training-model choice (56%)](artificial-teeth-cost-disadvantage-perception.md) — related
+- [Artificial teeth were perceived as easier than extracted teeth for most root canal treatment stages, with the largest advantage in pulp chamber and canal entrance localisation (76.3%)](artificial-teeth-easier-than-extracted-teeth-perception.md) — reports the opposite
+- [The hybrid combination of extracted teeth, artificial teeth and phantom models contributes more to technical clinical perception than other training model combinations (p < 0.001)](hybrid-endodontic-model-contributes-most-to-technical-perception.md) — related
+- [Participants trained with simulated models and phantom bodies in addition to extracted teeth reported better understanding and practice of endodontics (P < 0.001)](simulative-models-better-understanding-practice.md) — related
+- [Among students, training content that included simulative models was statistically significant, with higher preparation and enjoyment rates than extracted teeth alone (p < 0.003)](student-training-included-simulative-models-significant.md) — related

@@ -62,6 +62,7 @@ The structure operationalizes two well-supported ideas: activating prior knowled
 - [Gallery Walk](../strategies/gallery-walk.md) — an After-phase format for sharing and critiquing student work
 - [Teachers as designers and guardians of the task structure across all three AIRIS phases](teacher-guardian-of-ai-task-structure.md)
 - [Teach video-based listening lessons through a three-phase preview–view–review task cycle](preview-view-review-video-task-cycle.md)
+- [Permit chatbots selectively within structured activities, e.g. a chatbot-free consolidation phase followed by a resource-supported inquiry phase](selective-chatbot-phased-cbl-permission.md)
 
 ## Examples
 - **Connected Mathematics Project (CMP)** — [https://www.mheducation.com/prek-12/program/microsites/MKTSP-OIP01M0.html] — middle-school units structured as Launch, Explore, Summarize.

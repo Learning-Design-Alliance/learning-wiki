@@ -54,3 +54,4 @@ Pearson correlation matrix (Table 6) among the four post-test measures in the 48
 ## Related Claims
 - [Self-innovativeness, accountability, DL self-efficacy, and DL teaching practices are all positively and significantly intercorrelated](dl-dimensions-positive-correlations.md) — related
 - [GenAI feedback perceptions, pronunciation self-efficacy, and WTC are all positively intercorrelated, and learners report positive feedback perceptions and moderate self-efficacy and WTC](genai-epse-wtc-positive-correlations-descriptives.md) — related
+- [Knowledge, attitude, and practice scores for ANE management are positively intercorrelated, with attitude most strongly linked to practice](kap-domain-correlations-ane.md) — related

@@ -48,3 +48,4 @@ Voluntary post-session survey of the pooled 2023 and 2024 human SP simulations, 
 - [Student responses to the AI chatbot standardized patient experience were bimodal, with 65% agreeing it helped practice interview skills while 35% disagreed](ai-chatbot-sp-bimodal-acceptability.md) — related
 - [Mann-Whitney U tests found no significant difference between human SP and AI chatbot groups on any survey question](no-significant-difference-human-vs-ai-sp-acceptability.md) — related
 - [Students rate the simulation program highly acceptable and useful, with the simulation component rated most useful.](simulation-high-acceptability-ratings.md) — related
+- [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related

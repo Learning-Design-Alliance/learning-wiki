@@ -13,7 +13,7 @@ generated:
 # Jigsaw
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (2 for, 3 mixed, 1 against) · 6 studies (4 causal, 1 review, 1 associational), `q1`–`q3` · 0 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (3 for, 3 mixed, 1 against) · 7 studies (5 causal, 1 review, 1 associational), `q1`–`q3` · 1 of 7 report an effect size · 7 claims rest on one study
 
 ## Description
 Jigsaw is the element in which parts of a topic are distributed across learners who then teach one another to assemble the whole.
@@ -30,6 +30,7 @@ Jigsaw is the element in which parts of a topic are distributed across learners 
 - [Posttest achievement under jigsaw instruction did not differ significantly by gender](../claims/no-gender-difference-posttest-jigsaw.md) [~W]
 - [Students most frequently cited increased course success as the jigsaw technique's main advantage](../claims/student-reported-jigsaw-advantages-success-and-cooperation.md) [+W]
 - [Teaching physics in a science teaching laboratory practice course via the Jigsaw method based on cooperative learning yields higher achievement than the confirmatory laboratory method](../claims/jigsaw-lab-higher-physics-achievement-than-confirmatory.md) [+W] — attached 2026-11-03 from Ataman Karacop (2017), which proposed "Adapted Jigsaw for science laboratory applications"; tests this page's relationship.
+- [Collaborative learning (Jigsaw) produces higher immediate post-test enteral nutrition knowledge than individual practice in first-year nursing students](../claims/collaborative-learning-higher-posttest-knowledge-enteral-nutrition.md) [+M] — attached 2026-11-05 from Acun Aysun (2026), which proposed "Three-session Jigsaw implementation for enteral nutrition nursing education"; tests this page's relationship.
 
 ## Examples
 

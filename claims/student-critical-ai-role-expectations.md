@@ -114,3 +114,5 @@ Critical-reflection items of the post-course questionnaire (n=29 respondents). S
 - [Word cloud analysis prompted qualitative changes in student thinking including objective analysis and purposeful reflection](word-clouds-prompt-changes-in-thinking.md) — related
 - [Over 75% of students in the AI-enhanced flipped classroom group reported a regular habit of using AI tools at least once per week.](majority-regular-weekly-ai-use.md) — related
 - [Most students expected AI to serve as personal tutor, creative partner, and critical thinking partner rather than merely a content generator.](students-expect-collaborative-ai-roles-beyond-content-generation.md) — possibly the same claim (merge candidate)
+- [Students experienced ethically scaffolded AI tools as cognitive partners, metacognitive mirrors, and equity tools in EFL writing](ai-cognitive-partner-metacognitive-mirror-equity-roles.md) — related
+- [Students prioritise speed and specificity of answers over depth when under workbook-completion pressure, favouring ChatGPT over multi-resource searching](efficiency-prioritised-over-depth-cbl.md) — related

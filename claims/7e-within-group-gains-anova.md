@@ -79,3 +79,4 @@ One-way repeated-measures ANOVA on experiment-1's pre-test, post-test and retent
 - [Repeated measures ANOVA confirms significant within-group improvement over time in both intervention groups but not control](repeated-anova-within-group-improvement.md) — related
 - [Both teaching methods produced statistically significant pretest-to-posttest knowledge gains, with no significant difference in posttest scores between groups](pretest-posttest-gains-both-methods-no-posttest-difference.md) — related
 - [LEEP scores improved over five attempts on both simulators, but only the in-house simulator retained statistically significant pairwise gains after correction](leep-learning-progression-in-house-only-significant-pairwise.md) — a narrower finding that bears on this claim
+- [Post-game engagement in follow-up activities did not affect retention of quiz gains among follow-up respondents.](venomventure-postgame-engagement-null.md) — related

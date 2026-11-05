@@ -48,3 +48,6 @@ Secondary noninferiority analysis of the same RCT using the Behaviorally Anchore
 - [Remote AR simulation is noninferior to traditional in-person simulation for team leader checklist performance in a VF cardiac arrest scenario](remote-ar-noninferior-checklist-team-leader-performance.md) — related
 - [App use shows no clear difference in teamwork (TEAM) or non-technical skills (ANTS) scores](app-no-team-ants-difference.md) — related
 - [Immersive VR simulation is noninferior to live simulation for developing teamwork and communication skills](vr-noninferior-to-live-simulation-teamwork-communication.md) — related
+- [Observed ANTS scores in remote AR simulation were similar to previously reported in-person simulation ANTS scores, but the study was not designed to test superiority](remote-ar-ants-similar-to-in-person.md) — related
+- [BARS ratings confirm measurable non-technical skill performance (5.2–5.4 on a 1–9 scale) in remote AR neonatal resuscitation simulation](remote-ar-nrp-bars-secondary-nts.md) — related
+- [Residents demonstrate typical ANTS-rated non-technical skill performance (2.5–2.9 on a 1–4 scale) during a remote, international AR neonatal resuscitation simulation](remote-ar-nrp-simulation-ants-typical-performance.md) — related

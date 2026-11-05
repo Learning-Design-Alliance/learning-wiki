@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: zhang-bao-gen-2026
     resource: "https://doi.org/10.1038/s41598-026-47332-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` T1 physical activity correlated negatively with T2 psychological distress (r = −0.165) and positively with T2 cognitive ability (r = 0.306) and academic performance (r = 0.315). [→ Zhang Bao Gen 2026](#zhang-bao-gen-2026)

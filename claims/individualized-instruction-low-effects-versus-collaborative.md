@@ -9,7 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-21
+source_checked: 2026-11-05
 sources:
   - id: john-hattie-2025
     resource: "https://doi.org/10.1007/s10648-025-10002-w"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Visible Learning MetaX shows individual instruction (d = 0.24) and one-on-one laptops (d = 0.16) have lower effects than cooperative learning (d = 0.55) and collaborative learning (d = 0.46). [→ John Hattie 2025](#john-hattie-2025)

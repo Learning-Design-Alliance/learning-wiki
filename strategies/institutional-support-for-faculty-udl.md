@@ -43,6 +43,7 @@ The article recommends a bundle of institutional supports to improve the accepta
 - [Build teacher AI readiness through structured institutional support: professional development, mentoring, technical assistance, and AI literacy in teacher education](structured-institutional-support-teacher-ai-readiness.md)
 - [Provide extensive collegial support and professional development for technology integration to avoid maintaining the digital divide](collegial-support-professional-development-technology-integration.md)
 - [Universities combine responsible AI use guidelines, accessible technical support, AI literacy training, and assessment-embedded critical evaluation activities to address AI learning anxiety](institutional-support-package-for-ai-learning-anxiety.md)
+- [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
 
 ## Examples
 -

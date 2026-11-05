@@ -51,3 +51,4 @@ Thematic analysis of open-ended questionnaire responses identified existing chal
 - [Prospective teachers' views on both applications clustered into four themes, with a minority of the reflective group reporting initial difficulties](four-themes-views-applications.md) — related
 - [Thematic analysis identified hands-on practice, contextualization, educator variety, and clinical application as key student-perceived themes](thematic-themes-scenario-feedback.md) — related
 - [Cadaveric hands-on training and expert guidance were indicated as the most valued aspects of the course](cadaver-hands-on-training-most-valued-aspect.md) — related
+- [The authors propose that MDT-CBL's primary pilot-phase value lies in process benefits — engagement and exposure to interdisciplinary dialogue — rather than measured knowledge gains](mdt-cbl-process-benefits-interpretation.md) — related

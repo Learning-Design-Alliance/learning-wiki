@@ -87,3 +87,4 @@ A scoping review of simulation-based education (SBE) for delirium recognition. I
 - [No statistically significant between-group difference in posttest total self-confidence or perceived stress after high-fidelity simulation versus theoretical instruction](hfs-no-posttest-between-group-difference-confidence-stress.md) — related
 - [Both video groups report higher pre-training self-rated confidence than controls, with no POV–F-t-F difference](pre-class-video-higher-pre-training-confidence-cvc.md) — related
 - [Scenario-based animation and routine skill video both increased nursing students' ROM exercise knowledge, with no significant difference between the groups](rom-animation-skill-video-equal-knowledge-gains.md) — possibly the same claim (merge candidate)
+- [Knowledge scores improved over time in both groups, with a stronger overall effect in the collaborative learning group](knowledge-gains-over-time-both-groups-collaborative-stronger.md) — related

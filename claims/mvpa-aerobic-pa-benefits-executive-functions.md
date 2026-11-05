@@ -56,3 +56,4 @@ Exploratory three-level meta-regression on executive function outcomes reported 
 - [Mathematics outcomes benefit from PA with academic instruction of 6–10-week duration at moderate or moderate-to-vigorous intensity, and language outcomes from enriched PA programmes](pa-academic-instruction-benefits-maths-enriched-benefits-language.md) — related
 - [Physical activity interventions in childhood improve creativity with a moderate summary effect, based on low-certainty evidence](pa-interventions-improve-creativity-childhood.md) — related
 - [Physical activity interventions in childhood improve fluid intelligence with a small summary effect, based on moderate-certainty evidence](pa-interventions-improve-fluid-intelligence-childhood.md) — related
+- [Moderate and vigorous physical activity show no significant associations with cognitive or academic performance in adjusted models](mpa-vpa-null-cognitive-academic.md) — reports the opposite

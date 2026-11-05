@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2013
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: coşkun-2013
     resource: "https://dergipark.org.tr/en/pub/ejer"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2013 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After adjusting for pre-test scores, the experiment group taught with the educational marble game scored significantly higher (adjusted M = 22.27) than the control group taught traditionally (adjusted M = 18.65) on the 24-item vocabulary test. [→ Coşkun 2013](#coskun-2013)

@@ -47,3 +47,4 @@ Focus group theme from the same 30-student qualitative study; a student noted th
 ## Related Claims
 - [Students perceived simulator-based cardiovascular physiology practicals very positively](positive-student-perception-simulator-practicals.md) — related
 - [Students perceive case-based learning in preclinical physiology as more engaging and motivating than traditional didactic lectures in a resource-limited setting](cbl-perceived-more-engaging-than-lectures.md) — related
+- [Students perceive interactive virtual exploration of a case family as deepening understanding and aiding retention compared with traditional teaching](vr-exploration-deeper-understanding-retention.md) — related

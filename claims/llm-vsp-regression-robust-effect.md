@@ -56,3 +56,4 @@ Multivariate linear regression on the matched sample (n=80) adjusting for baseli
 - [The AI-VSP score advantage is no longer significant after adjusting for baseline performance and training frequency](ai-vsp-advantage-attenuated-ancova-frequency.md) — reports the opposite
 - [AI-VSP training yields higher post-intervention SEGUE total and Content scores than traditional SP training](ai-vsp-higher-total-content-segue-scores.md) — reports the opposite
 - [Clinical interview skills improved significantly from baseline to post-intervention only in the VSP group, not in the control group](vsp-group-within-group-interview-skill-gain.md) — related
+- [The BOPPPS advantage in knowledge and skills remained statistically significant after ANCOVA adjustment for baseline scores](ancova-adjusted-boppps-effects.md) — related

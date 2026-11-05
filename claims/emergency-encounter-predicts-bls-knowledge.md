@@ -53,3 +53,4 @@ Same adjusted binary logistic regression model on the 400-dentist survey, with e
 - [Prior hypertension training (AOR = 2.6) and more than 10 years' experience (AOR = 1.8) independently predicted good knowledge among PHC workers](training-and-experience-predict-hypertension-knowledge.md) — related
 - [Prior AED exposure (witnessing or using a defibrillator) is independently associated with higher CPR and MI knowledge](prior-aed-exposure-higher-knowledge-syria.md) — a narrower finding that bears on this claim
 - [Greater self-reported willingness to intervene in emergencies is associated with higher CPR knowledge among Syrian medical students](willingness-to-act-associated-cpr-knowledge.md) — related
+- [Less experienced nurses (< 10 years) and untrained nurses are more likely to report insufficient preparedness](less-experienced-nurses-insufficient-preparedness.md) — related

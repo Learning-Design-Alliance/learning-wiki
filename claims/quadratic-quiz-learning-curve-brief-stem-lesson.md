@@ -50,3 +50,4 @@ Results analysis of two written fact-retrieval quizzes (linear forces and moment
 - [The self-study-before-discussion advantage persisted at one-week delayed tests, with lecture-condition scores declining over time while self-study-condition scores remained stable](self-study-discussion-long-term-retention-transfer.md) — related
 - [Student activity declines consistently from the first to the last learning unit across all three outcome groups](activity-declines-across-course-units.md) — related
 - [Both experimental and control classes scored significantly higher on the second conditional quiz than the first](both-classes-improved-conditional-quiz-scores.md) — related
+- [Experimental-group quiz scores rose significantly from before to after each PA-PBL session](pa-pbl-quiz-gains-pre-post.md) — related

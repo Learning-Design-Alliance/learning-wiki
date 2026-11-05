@@ -50,3 +50,4 @@ Multivariable linear mixed-effects analysis of the 151-patient prospective cohor
 - [Surgeon experience in hip arthroscopy is associated with significantly shorter operative time in late versus early experience phases](hip-arthroscopy-experience-shorter-operative-time.md) — related
 - [Surgeons achieved proficiency in Versius-assisted radical prostatectomy within 40 cases, with experienced surgeons reaching proficiency after 23 cases and novice surgeons after 37](versius-rp-proficiency-under-40-cases.md) — related
 - [Soft or normal pancreatic texture significantly increased the risk of conversion to open surgery, while larger pancreatic duct diameter reduced it](learnbot-conversion-risk-factors.md) — related
+- [Surgical experience is an independent predictor of shorter operative time in laparoscopic radical prostatectomy, though it explains only part of the variance](surgical-experience-independent-predictor-operative-time.md) — related

@@ -60,6 +60,7 @@ The review recommends that future research strengthen study designs through adeq
 - [Future active-classroom research should use adequately powered, well-randomized trials measuring a wide range of student outcomes](active-classroom-research-design-recommendations.md)
 - [Prioritize larger sample sizes, multicentre designs, and rigorous reporting in future simulation-based CRM transfer and patient-outcome research](multicentre-rigorous-crm-outcome-research-strategy.md)
 - [Class-level randomization with blinded examiners for comparing instructional methods across intact student groups](class-level-randomization-strategy.md)
+- [Continuously optimize BOPPPS-simulation training by refining objectives, personalizing scenario difficulty, and tracking long-term outcomes](optimize-boppps-training-objectives-difficulty-tracking.md)
 
 ## Examples
 -

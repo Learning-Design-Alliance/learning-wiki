@@ -67,3 +67,4 @@ Review analysis of intervention outcomes by Kirkpatrick level across the include
 - [Most included trials were conducted in simulated settings at Kirkpatrick evaluation level two, which may limit application to routine clinical practice](feedback-trials-mostly-simulated-kirkpatrick-level-two.md) — a broader claim this one bears on
 - [No included WBA feedback study demonstrated improved learning and performance as a direct result of WBA (Kirkpatrick Level 4); the highest level reached was Level 3](wba-feedback-no-kirkpatrick-level-4-evidence.md) — related
 - [Pharmacy students reported knowledge acquisition and communication skill development through delivering the campaign.](pharmacy-students-knowledge-and-communication-skill-gains.md) — related
+- [The HUSP simulator enabled students to reach Kirkpatrick level 2 (acquisition of knowledge and skills)](husp-kirkpatrick-level-2.md) — a narrower finding that bears on this claim

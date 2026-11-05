@@ -50,6 +50,7 @@ This strategy delivers scenario-based assessment of resuscitation team leadershi
 
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Include an immediate, structured debriefing session with descriptive, analysis and application phases in every high-fidelity simulation training](immediate-structured-debriefing-hf-simulation.md)
+- [Structure a remote AR simulation session as orientation, preparatory video, simulation, structured debriefing, and post-intervention questionnaires](remote-ar-session-structure-strategy.md)
 
 ## Examples
 -

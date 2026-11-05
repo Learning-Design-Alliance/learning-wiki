@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2010
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: yusuf-and-afolabi-2010
     resource: "https://eric.ed.gov/?id=EJ875764"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2010 · checked against its sources 2026-11-03 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ANCOVA of post-test scores with pre-test as covariate showed a significant main effect of treatment (ICAI, CCAI, CI) on biology performance. [→ Yusuf and Afolabi 2010](#yusuf-and-afolabi-2010)

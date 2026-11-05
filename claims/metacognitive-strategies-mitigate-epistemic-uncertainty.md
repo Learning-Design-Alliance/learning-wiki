@@ -9,7 +9,6 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-29
 sources:
   - id: rebecca-clark-stallkamp-2026
     resource: "https://doi.org/10.1007/s11423-026-10680-5"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article reports, citing Muis et al. (2006), that metacognitive strategies prompt solvers to critically examine their knowledge gaps and reasoning processes, mitigating epistemic uncertainty. [→ Rebecca Clark-Stallkamp 2026](#rebecca-clark-stallkamp-2026)

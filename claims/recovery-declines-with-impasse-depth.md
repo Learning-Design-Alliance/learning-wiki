@@ -68,3 +68,4 @@ Type-specific recovery trajectories from the same corpus show help-seeking impas
 - [The association between tutor questioning and impasse recovery decays as impasses persist, while addressing the student's error becomes more beneficial](questioning-benefit-decays-with-impasse-depth.md) — related
 - [After a failed scripted question, repeating it is followed by lower recovery than switching to addressing the student's error](repeating-scripted-question-lowers-recovery.md) — related
 - [Early dropouts are trapped in recursive concept-elicitation loops before reaching problem execution](early-dropouts-concept-elicitation-loops.md) — related
+- [LLM accuracy declines steadily as question complexity increases, from roughly 80% on recall questions to 28.6–33.3% on case-analysis questions, mirroring the human trend](llm-accuracy-declines-with-question-complexity.md) — related

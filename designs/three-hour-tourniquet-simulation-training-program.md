@@ -48,6 +48,7 @@ A structured training program of "a three hours of theoretical and practical ins
 
 - [Rapid-cycle deliberate practice as a framework for high-acuity, low-occurrence procedural training](rapid-cycle-deliberate-practice-afio-framework.md)
 - [Three-part simulation-based breaking bad news curriculum for OB/GYN residents](breaking-bad-news-simulation-curriculum-obgyn.md)
+- [Structured arterial puncture training program combining theoretical instruction, simulator practice, and debriefing](structured-arterial-puncture-training-program.md)
 
 ## Examples
 -

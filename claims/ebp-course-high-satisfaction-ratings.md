@@ -46,3 +46,5 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 
 ## Related Claims
 - [Participants expressed overall positive perceptions of the PD, with all survey items except one rated above 4 on a five-point scale](cybersecurity-pd-positive-perceptions.md) — related
+- [Students rated content relevance and inter-university comparison most highly in post-intervention satisfaction](cblc-satisfaction-highest-items.md) — related
+- [Satisfaction was lowest for technical aspects and time management items](cblc-satisfaction-lowest-technical-items.md) — related

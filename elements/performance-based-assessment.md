@@ -13,7 +13,7 @@ generated:
 # Performance-Based Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (8 for, 6 mixed) · 11 studies (5 causal, 3 design, 2 review, 1 associational), `q1`–`q4` · 0 of 11 report an effect size · 14 claims rest on one study
+> **Evidence** · 16 claims (10 for, 6 mixed) · 12 studies (5 causal, 4 design, 2 review, 1 associational), `q1`–`q4` · 0 of 12 report an effect size · 16 claims rest on one study
 
 ## Description
 Performance-based assessment is the element in which learners demonstrate knowledge or skill by performing, producing, or solving something observable rather than only selecting answers. It is useful when the learning target involves application, integration, or authentic performance. Typically the teacher observes both the process (e.g., data collection during an experiment) and the product (e.g., the completed report), though for some tasks (a paper drafted partly outside class) only the product may actually be visible, and for others (group interaction skills) there may be no discrete product at all.
@@ -56,6 +56,8 @@ Performance assessments carry real, specific tradeoffs (Linn & Miller, 2005). Th
 - [OSCE gains were uneven across stations and disease modules: contouring station and cervical module differed significantly, plan-evaluation station and NPC/esophageal modules did not](../claims/osce-gains-uneven-stations-modules.md) [~W]
 - [Phantom-based lesion-recognition performance ranged from 78.6% to 86.5% across assessed domains, highest for scanning and lowest for preliminary diagnosis](../claims/lesion-recognition-task-performance-phantom.md) [+W]
 - [P-MASE students showed better standardized simulation/task-based skills performance: higher simulated departmental satisfaction, more empathy markers, and lower DRG grouping error rate](../claims/pmase-better-simulation-task-skills-performance.md) [+W] — attached 2026-11-05 from Zhang Yongshuo et al. (2026), which proposed "Combined evaluation framework integrating data-driven metrics, simulation modeling, and NLP for performance-based assessment".
+- [Station checklists identified performance gaps in all four stations despite orientation education and inpatient practice, enabling targeted actionable feedback](../claims/osce-checklists-identified-performance-gaps-all-stations.md) [+W] — attached 2026-11-05 from Wick Alexandra MD et al. (2026), which proposed "Four-station formative OSCE for internal medicine interns administered after initial inpatient rotation".
+- [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](../claims/osce-high-acceptance-interns-valuable-continue.md) [+W] — attached 2026-11-05 from Wick Alexandra MD et al. (2026), which proposed "Four-station formative OSCE for internal medicine interns administered after initial inpatient rotation".
 
 ## Related Elements
 

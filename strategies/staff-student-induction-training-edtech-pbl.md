@@ -45,6 +45,7 @@ The review recommends that staff and student induction and ongoing training in t
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
 - [During adoption, determine professional learning needs and secure sustainable funding for training before proceeding](adoption-stage-professional-learning-funding.md)
 - [Provide ongoing support and school-day time for teachers completing micro-credentials](ongoing-support-and-release-time-micro-credentials.md)
+- [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
 
 ## Examples
 -

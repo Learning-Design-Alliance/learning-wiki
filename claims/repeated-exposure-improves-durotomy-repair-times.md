@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: bukowiec-lainey-g-2026
     resource: "https://doi.org/10.1097/SIH.0000000000000889"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` PGY-1 residents' average repair time decreased by 8.34 minutes (SD = 6.60, P = 0.027) from first to last attempt. [→ Bukowiec Lainey G. 2026](#bukowiec-lainey-g-2026)

@@ -49,6 +49,7 @@ Based on the study's findings, the article recommends that instructors "make sur
 
 - [Shift from matching teaching to learning styles toward teaching students adaptable, effective learning strategies aligned to task complexity and goals](teach-adaptive-learning-strategies-not-style-matching.md)
 - [Checklists & Rubrics](checklists-rubrics.md)
+- [Design interactive online tasks oriented towards questions or cases aligned with deep-learning goals](design-question-case-oriented-interactive-tasks.md)
 
 ## Examples
 -

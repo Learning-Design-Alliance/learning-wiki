@@ -57,6 +57,7 @@ Based on student recommendations and the study's feasibility findings, the artic
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Position AI simulation as a complement to—not a replacement for—traditional clinical placements, with faculty preparation and dedicated quiet spaces](ai-simulation-as-complement-not-replacement.md)
+- [Develop a wider variety of CCS covering diverse oral diseases and transition to mobile platforms to broaden access](expand-ccs-disease-variety-mobile-platforms.md)
 
 ## Examples
 -

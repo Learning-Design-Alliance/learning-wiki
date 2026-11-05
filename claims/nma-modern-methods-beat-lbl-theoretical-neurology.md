@@ -72,3 +72,4 @@ Bayesian network meta-analysis (BUGSnet in R 4.3.2, random-effects model, mean d
 - [International students studying CBL in a second language and unaccustomed to active learning show poorer knowledge gains than domestic peers](cbl-international-students-second-language-poorer-gains.md) — related
 - [No significant difference between CBL-FC and LBL groups in theoretical knowledge after intervention](cbl-fc-no-gain-theoretical-knowledge.md) — reports the opposite
 - [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in theoretical knowledge scores](hybrid-cbl-sst-no-difference-theoretical-knowledge.md) — related
+- [Practical workshops are the most preferred EBM learning modality among Palestinian medical students, though preference does not differ significantly by training status](practical-workshops-preferred-ebm-modality.md) — related

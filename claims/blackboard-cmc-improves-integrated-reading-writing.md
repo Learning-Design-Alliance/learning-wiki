@@ -9,7 +9,6 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-03
 sources:
   - id: alharbi-2015
     resource: "https://doi.org/10.5539/elt.v8n6p111"
@@ -49,7 +48,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (4 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 4 of 4 entries) · not reviewed by a person
+> **Currency** · newest study 2015 · 3 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group showed statistically significant gains from pretest to posttest on reading, writing and overall integrated reading/writing performance (Table 5: p = .000 for reading and for writing, p = .01 for the combined score). [→ Alharbi 2015](#alharbi-2015)

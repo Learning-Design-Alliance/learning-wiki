@@ -49,3 +49,4 @@ Simulator metric analysis in the same pilot study; the proportion of participant
 - [Simulation-based rapid-cycle deliberate practice curriculum improved GRS-rated awake fiberoptic intubation performance at three months](rcdp-simulation-improves-afio-grs.md) — related
 - [Participants' self-assessed confidence and performance improved after the curriculum](rcdp-simulation-improves-afio-confidence.md) — related
 - [Structured trauma resuscitation team training augmented by simulation improved teamwork domain ratings and reduced time to CT scanner, intubation, and operating room](simulation-augmented-team-training-improves-trauma-care-efficiency.md) — related
+- [One-time pass rates for hands-on CPR, intubation, and defibrillation do not change significantly after integrated simulation with TBL](one-time-pass-rates-unchanged.md) — related

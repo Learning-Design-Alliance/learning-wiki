@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: kuanfu-chen-2025
     resource: "https://doi.org/10.1007/s11423-025-10527-5"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Kuan‑Fu Chen 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-29)
 
 ## Subclaims
@@ -53,3 +53,4 @@ Lag sequence analysis with GSEQ software of VR learning behavior logs from both 
 - [The POED-based VR approach improved students' metacognition tendency more than the POEE-based VR approach](poed-vr-improves-metacognition-tendency.md) — related
 - [The POED-based VR approach improved students' problem-solving tendency more than the POEE-based VR approach](poed-vr-improves-problem-solving-tendency.md) — related
 - [Users who fail a MOOC tend to combine evaluation tasks with consultation of support materials, suggesting they attempt to answer activities without having absorbed the essential knowledge.](failed-users-combine-evaluation-with-material-consultation.md) — related
+- [Log analysis showed only 42.7% of virtual patient answers were correctly allocated, with system errors dominating (75%)](vr-speech-recognition-error-analysis.md) — related

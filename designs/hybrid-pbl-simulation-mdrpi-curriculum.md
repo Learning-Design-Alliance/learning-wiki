@@ -46,6 +46,7 @@ The program combined a PBL module (three 2-hour sessions using OR-specific case 
 ## Related Designs
 
 - [Seven-step Maastricht PBL tutorial cycle with progressive case disclosure and group presentation](maastricht-seven-step-pbl-tutorial-cycle.md)
+- [Structured arterial puncture training program combining theoretical instruction, simulator practice, and debriefing](structured-arterial-puncture-training-program.md)
 
 ## Examples
 -

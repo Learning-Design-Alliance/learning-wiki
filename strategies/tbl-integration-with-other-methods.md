@@ -57,6 +57,7 @@ The authors recommend integrating TBL with other teaching methods such as Proble
 - [Combine the PBL and ATI models with different approaches for optimal results](combine-pbl-and-ati-models-strategy.md)
 - [Case study method combined with project method for developing independent cognitive activity](case-study-project-method-informatics.md)
 - [Integrate BOPPPS, flipped classroom, and case-based learning into a single pedagogical model for residency training](integrate-boppps-fc-cbl-single-model-residency.md)
+- [Design interactive online tasks oriented towards questions or cases aligned with deep-learning goals](design-question-case-oriented-interactive-tasks.md)
 
 ## Examples
 -

@@ -46,7 +46,8 @@ The authors recommend that institutions considering reduced reliance on the MCAT
 - [Incorporating ML-predicted MCAT scores into admissions composites reduces correlations with subsequent medical school performance](../claims/predicted-mcat-reduces-performance-correlations.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Strengthen English language preparation and consider holistic admission tools in English-medium medical admissions](strengthen-english-preparation-holistic-admission-tools.md)
 
 ## Examples
 -

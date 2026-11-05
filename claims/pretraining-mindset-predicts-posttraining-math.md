@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: lang-chen-2022
     resource: "https://doi.org/10.1038/s41539-022-00146-7"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In cross-lagged panel SEM, growth mindset before training predicted post-training WJ-III Math Fluency in the training group (β = 0.216, p = 0.025); this cross-lagged effect was not significant in controls (β = −0.219, p = 0.191). [→ Lang Chen 2022](#lang-chen-2022)

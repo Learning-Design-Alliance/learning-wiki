@@ -50,3 +50,4 @@ In the RCT, the stepwise CBME group showed superior puncture site selection (94%
 - [Stepwise CBME training significantly shortens operative time for supervised breast-conserving surgery compared to conventional training](stepwise-cbme-shortens-bcs-operative-time.md) — related
 - [Stepwise CBME training was associated with significantly shortened learning curves compared to conventional training](stepwise-cbme-shortened-learning-curves.md) — related
 - [Simulation-based training enhances outcomes across multiple Kirkpatrick levels in neuraxial space access education](simulation-based-training-enhances-neuraxial-outcomes.md) — related
+- [Patient-reported procedural pain is numerically lower when local anesthesia is used, but the difference is not statistically significant](anesthesia-patient-pain-nonsignificant-trend.md) — related

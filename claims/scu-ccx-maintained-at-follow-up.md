@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2020
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: hampton-et-al-2020
     resource: "https://doi.org/10.1177/1362361320934558"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
-> **Currency** · newest study 2020 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` At the 4-month follow-up, intervention-group children used significantly more social communicative utterances with their caregivers (SCU-CCX) than comparison children (β = 0.84, p = 0.049; d = 0.259, small), primarily in spoken language; immediately after intervention the same difference was not significant (p = 0.076), and SCU in the examiner language sample did not differ at either point. [→ Hampton et al. 2020](#hampton-et-al-2020)

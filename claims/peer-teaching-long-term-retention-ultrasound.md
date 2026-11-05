@@ -54,3 +54,4 @@ The review attributes long-term findings to two studies: retained knowledge and 
 - [Evidence on long-term retention and transfer of clinical communication skills to clinical practice remained inconsistent or lacking across included reviews](vp-communication-long-term-retention-transfer-inconsistent.md) — related
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
 - [The literature poorly addresses whether simulation-learned obstetric ultrasound skills transfer to clinical practice and are sustained over time](simulation-skill-transfer-to-clinic-poorly-addressed.md) — reports the opposite
+- [A reciprocity cycle in which past attendees become student-teachers sustains the peer teaching community over time](giving-back-cycle-sustains-peer-teaching-community.md) — related

@@ -55,6 +55,7 @@ The article recommends that institutions use machine learning predictions of wit
 - [Engage teachers with predictive analytics dashboards to trigger timely interventions with students at risk](teacher-engagement-with-pla-interventions.md)
 - [Deploy analytical tools on learning platforms to detect learners exhibiting behaviours that may lead to failure or dropout and propose actions to recover them.](deploy-analytical-tools-to-detect-at-risk-mooc-learners.md)
 - [Integrate real-time engagement analytics into large-class clinical instruction to support data-informed teaching](real-time-engagement-analytics-strategy.md)
+- [Integrate OSCE results into coaching or mentoring programs to target coaching and enable early identification of struggling interns](integrate-osce-results-into-coaching-mentoring.md)
 
 ## Examples
 -

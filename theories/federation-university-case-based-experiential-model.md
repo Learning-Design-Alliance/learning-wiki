@@ -49,7 +49,8 @@ The Federation University model is a program-level teaching framework for commun
 - [Kolb's four-stage experiential learning model and its four learning style categories](kolb-four-stage-experiential-learning-model.md)
 
 ## Examples
--
+
+- [Active Learning–GenAI Synergy Framework](../designs/active-learning-genai-synergy-framework.md)
 
 ## Key Sources
 - Patil, T., Hunt, M., Cooper, K., & Townsend, R. (2020). Developing a case-based experiential learning model at a program level in a regional university: Reflections on the developmental process. Australian Journal of Adult Learning, 60(2). https://eric.ed.gov/?id=EJ1267932

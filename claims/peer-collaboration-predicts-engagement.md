@@ -74,3 +74,4 @@ Focus-group evidence from 41 groups with 241 students at eight institutions; Cel
 - [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related
 - [Viewing STEM courses as competitive was associated with impostorship and, in turn, lower engagement and grades, especially for first-generation students](competitive-stem-courses-impostorship.md) — related
 - [Teachers' provision of opportunities to belong predicts Black and Latine students' class engagement and overall school engagement](opportunities-to-belong-predict-engagement.md) — related
+- [Near-peer teaching is experienced as relatable and lowers the barrier to asking questions compared with faculty-led sessions](near-peer-relatability-comfort-asking-questions.md) — related

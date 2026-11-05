@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: reihanian-2026
     resource: "https://doi.org/10.3390/ai7010006"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Integrity and over-reliance risks can be mitigated via solution withholding, oral defenses or code walkthroughs, process evidence, and a mix of AI-permitted and AI-free assessments. [→ Reihanian 2026](#reihanian-2026)

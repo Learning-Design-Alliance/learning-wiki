@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2021
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 recheck_by: 2026
 sources:
   - id: building-a-national-early-childhood-education-system-that-works-2021
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: baselines and conditions change
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Means testing sorts children into classrooms by family income, which in practice often produces racial, ethnic, and linguistic segregation, while research links classroom diversity to increased achievement in the early years. [→ Building a National Early Childhood Education System That Works 2021](#building-a-national-early-childhood-education-system-that-works-2021)

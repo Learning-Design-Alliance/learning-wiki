@@ -48,3 +48,4 @@ Qualitative thematic review of open-ended survey responses from fellows and sono
 ## Related Claims
 - [Prerequisites for sonographers teaching fellows were inconsistent across respondents and did not correlate with attitudes or teaching confidence](sonographer-teaching-prerequisites-inconsistent.md) — related
 - [Sonographer teaching confidence correlates positively with time spent teaching fellows and with interprofessional attitudes](sonographer-mctq-correlates-teaching-time.md) — related
+- [Quantitative and qualitative findings converged on role modelling, structured teaching, scaffolded learning, feedback and communication, but diverged on personalised support](mixed-methods-convergence-divergence-preceptor-ctb.md) — related

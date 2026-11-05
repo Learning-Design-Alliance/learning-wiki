@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 253 claims (144 show a difference, 71 mixed, 38 no difference) · 202 studies (76 causal, 34 review, 33 associational, 23 theoretical, 16 design, 11 quant-synthesis, 9 qualitative), `q1`–`q4` · 34 of 202 report an effect size · 236 claims rest on one study
+> **Evidence** · 256 claims (147 show a difference, 71 mixed, 38 no difference) · 205 studies (77 causal, 34 review, 34 associational, 23 theoretical, 17 design, 11 quant-synthesis, 9 qualitative), `q1`–`q4` · 34 of 205 report an effect size · 239 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -301,6 +301,9 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Students in online practice systems differ widely in initial knowledge but very little in learning rate per practice opportunity](../claims/students-differ-in-initial-knowledge-not-learning-rate.md) [+M] — learners who differ on it differ in outcomes: lower starting knowledge meant more practice opportunities to reach mastery, not a slower rate
 - [Experienced surgeons significantly outperformed novices on nine of 32 individual simulator metrics, while novices outperformed surgeons on one metric (distance from screw to fracture lines), which was excluded as construct-irrelevant](../claims/individual-metric-contrasts-nine-favor-surgeons-one-reverse.md) [+W] — learners who differ on it differ in outcomes
 - [Theoretical knowledge scores rose from pre-test to post-test in most domains in one uncontrolled pre-post study, while anatomical-considerations scores (Q4) fell from 55 correct before to 53 after the workshop](../claims/mcq-knowledge-improved-except-anatomy-domain.md) [~M] — measured as an outcome of the instruction studied
+- [More-skilled novices fixate more on objects and less on tools, with slower tool speed, than less-skilled novices](../claims/skilled-novices-object-fixation-pattern.md) [+M] — learners who differ on it differ in outcomes
+- [Novices achieved adequate mean margins mainly by over-resecting deep margins, while experts secured more uniform 10 mm margins across directions](../claims/deep-margin-difficulty-novice-over-resection.md) [+M] — learners who differ on it differ in outcomes
+- [Within the usual-teaching group, students with no prior training achieved a higher first-attempt success rate than those with some prior informal training](../claims/no-prior-training-higher-first-attempt-success.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

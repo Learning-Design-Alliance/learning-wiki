@@ -62,3 +62,4 @@ Univariate ANOVAs across TEDS continuous variables; the article reports sex expl
 - [Female students significantly outperformed male students in mathematics achievement](female-students-outperform-males-math-achievement.md) — related
 - [Female nursing students report greater e-learning satisfaction, higher self-efficacy, and higher perceived academic performance than male students](female-nursing-students-higher-satisfaction-self-efficacy-performance.md) — related
 - [Age and gender did not significantly predict academic self-efficacy in the structural model](age-gender-null-predictors-ase.md) — reports the opposite
+- [Males scored significantly lower than females on skills scores one year after implementation, independent of other factors](males-lower-one-year-skill-scores.md) — related

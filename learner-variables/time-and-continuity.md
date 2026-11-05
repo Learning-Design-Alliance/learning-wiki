@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 209 claims (138 show a difference, 47 mixed, 24 no difference) · 178 studies (89 causal, 38 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 37 of 178 report an effect size · 205 claims rest on one study
+> **Evidence** · 211 claims (139 show a difference, 47 mixed, 25 no difference) · 180 studies (90 causal, 39 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 37 of 180 report an effect size · 207 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -266,6 +266,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Students learning venipuncture with a segmented-interactive video scored significantly higher on the technical component than students using a continuous video](../claims/segmented-interactive-video-technical-component-significant.md) [+M] — an instructional effect differs with it
 - [More students in the segmented-interactive video group reached the competence level after the intervention (70.3% vs 55.6% in the continuous-video control group)](../claims/segmented-interactive-video-competence-level-descriptive-advantage.md) [+M] — an instructional effect differs with it
 - [Bullying and punitive teacher behavior increase chronic absenteeism while household work and family income reduce it](../claims/bullying-punitive-behavior-increase-chronic-absenteeism.md) [~M] — measured as an outcome of the instruction studied
+- [A BLS practical examination does not confer a significant advantage in overall skill retention over additional practice with continuous assessment among fifth-year medical students](../claims/bls-practical-exam-no-advantage-over-additional-practice.md) [-M] — measured as an outcome of the instruction studied
+- [Student attendance is significantly and moderately lower in remote discussion sections than in in-person sections](../claims/remote-sections-lower-attendance.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

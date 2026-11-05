@@ -9,7 +9,6 @@ generated:
   at: 2026-10-14
 evidence_strength: moderate
 newest_evidence: 2012
-source_checked: 2026-10-18
 sources:
   - id: waasdorp-te-2012
     resource: "https://doi.org/10.1001/archpediatrics.2011.755"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2012 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-14: Bullying and peer rejection typically increase as children approach middle school -->
 
 ## Subclaims

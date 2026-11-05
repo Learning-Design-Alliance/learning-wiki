@@ -51,3 +51,4 @@ Narrative review attribution in Section 2.2: the paper reports Kung et al.'s eva
 - [Off-the-shelf LLMs without domain-specific fine-tuning suggested true root causes among their zero-shot debugging recommendations for buggy analog circuits](llms-zero-shot-true-root-cause-suggestions.md) — related
 - [AI assistance raises the probability of correctly identifying the task's root cause for both education groups, with near-equalization among treated participants](ai-raises-root-cause-detection-near-equalization.md) — related
 - [ChatGPT-4.0 outperforms ChatGPT-3.5 in medical licensing exams, achieving a pooled accuracy of 81.8% versus 60.8%](chatgpt-4-pooled-accuracy-818-percent-licensing-exams.md) — related
+- [All four LLMs passed both JNME exams under official scoring, with near-perfect scores in essential sections](llms-pass-jnme-official-scoring.md) — related

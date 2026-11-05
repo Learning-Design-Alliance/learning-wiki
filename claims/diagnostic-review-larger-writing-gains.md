@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-17
+source_checked: 2026-11-05
 sources:
   - id: yao-x-c-and-fan-l-2026
     title: Yao X-C and Fan L 2026
@@ -23,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
-> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Students in the Diagnostic Review class improved writing scores by 5.92 points versus 3.58 points in Control, a between-group gain difference of 2.35 points with Hedges' g = 1.12. [→ Yao X-C and Fan L 2026](#yao-x-c-and-fan-l-2026)

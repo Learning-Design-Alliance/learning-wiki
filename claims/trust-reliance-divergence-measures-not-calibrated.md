@@ -52,3 +52,4 @@ The review reports, citing Amaro et al. (2024), a user study showing false ChatG
 - [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](reflection-improves-awareness-calibration.md) — related
 - [Reflection produced selective rather than blanket rejection of AI: alignment with correct advice stayed high while alignment with incorrect advice dropped](reflection-selective-not-blanket-ai-rejection.md) — related
 - [A brief metacognitive reflection prompt reduces acceptance of incorrect AI advice compared with open ChatGPT support alone](reflection-reduces-incorrect-ai-advice-acceptance.md) — related
+- [AI tools can reinforce confirmation bias, leading therapists to misinterpret adaptive outputs as objective truths](ai-tools-reinforce-confirmation-bias-cmft.md) — related

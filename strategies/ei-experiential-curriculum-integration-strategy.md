@@ -60,6 +60,7 @@ The article recommends weaving EI training into existing courses with objectives
 - [Embed brief experiential wellness activities longitudinally within existing health professions curricula](embed-longitudinal-experiential-wellness-activities.md)
 - [Integrate humanistic care into professional teaching by having students investigate socially relevant injury-prevention cases and adopt patients' perspectives](socially-relevant-cases-empathy-integration-strategy.md)
 - [Integrate narrative medicine modules, simulation-based patient interaction, reflective writing, and digital storytelling into nursing curricula](integrate-narrative-medicine-digital-storytelling-nursing-curricula.md)
+- [Integrate multi-component simulation-plus-counseling strategies into midwifery curricula to strengthen respectful maternity care](integrate-simulation-counseling-into-midwifery-curricula.md)
 
 ## Examples
 -

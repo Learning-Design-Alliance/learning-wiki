@@ -50,3 +50,4 @@ Attendance was checked once per module, randomly and without prior notice, and w
 - [The performance deficit under slide provision appears as fewer correct answers and more blank responses](slide-provision-response-type-interaction.md) — related
 - [Academic engagement moderates the relationship between slide provision and exam performance](engagement-moderates-slide-provision-effect.md) — related
 - [Prompted, unprompted, and slide-based learning conditions yield statistically comparable multiple-choice performance](no-multiple-choice-difference-prompted-ai-learning.md) — related
+- [Student attendance is significantly and moderately lower in remote discussion sections than in in-person sections](remote-sections-lower-attendance.md) — related

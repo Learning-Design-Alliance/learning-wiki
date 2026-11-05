@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: mingyu-feng-2016
     resource: "https://educationaldatamining.org/edm2016/"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In an HLM with a treatment-by-gender interaction, the intervention effect varied by gender (γ21=7.476, t(42)=2.232, p = 0.031), with boys in treatment scoring 14.21 points higher than boys in control versus 6.73 points for girls. [→ Mingyu Feng 2016](#mingyu-feng-2016)

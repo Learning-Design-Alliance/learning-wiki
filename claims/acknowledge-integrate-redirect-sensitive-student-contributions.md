@@ -53,3 +53,4 @@ Interaction analysis of Sequence 2: after a student shared a personal story of e
 - [Ignoring the emotion strategy neither recognizes nor explores the displayed emotion, closing the discursive space](ignoring-emotion-closes-discursive-space.md) — related
 - [Group A's brainstorming was repeatedly unproductive because individual interjections redirected the group's dialogue toward personal concerns](group-a-unproductive-brainstorming-personal-drift.md) — a narrower finding that bears on this claim
 - [Learning-stories research indicates meaningful learning involves felt ownership of knowledge, emotional integration, generativity, real-life context, interaction with others' learning, and transformed self-perceptions](learning-stories-meaningful-learning-dimensions.md) — related
+- [Working with sensitive family topics in VR can feel intense and overwhelming, requiring teacher preparation for emotional reactions](vr-sensitive-topics-intensity-reactions.md) — related

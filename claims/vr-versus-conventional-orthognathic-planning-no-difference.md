@@ -58,3 +58,4 @@ The review reports, from Sakowitz et al.'s randomized controlled trial comparing
 - [No clear differences in ALS performance metrics in the asystole scenario between groups](app-no-asystole-performance-difference.md) — related
 - [Improvement in overall scores did not differ significantly between digital and conventional training groups](no-group-session-interaction-overall-scores.md) — related
 - [AI-based web application training yielded overall improvements comparable to lecture and annotated-dataset e-learning](ai-training-comparable-to-e-learning-methods.md) — related
+- [Diagnostic accuracy did not differ between the VR and standardized patient units despite lower subjective ratings for VR](diagnostic-accuracy-similar-vr-and-sp-units.md) — related

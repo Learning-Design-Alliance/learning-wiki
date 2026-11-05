@@ -60,6 +60,8 @@ The authors recommend formally embedding simulation-based learning into undergra
 - [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
 - [Embed structured BLS/AED training early in the medical curriculum with spaced simulation-based reinforcement and competency-based assessment](early-structured-bls-aed-training-spaced-simulation.md)
 - [Integrate the validated iVR simulator into early orthopedic training as a platform for deliberate practice with individualized feedback, pending longitudinal confirmation](ivr-deliberate-practice-platform-early-orthopedic-training.md)
+- [Develop a wider variety of CCS covering diverse oral diseases and transition to mobile platforms to broaden access](expand-ccs-disease-variety-mobile-platforms.md)
+- [Integrate multi-component simulation-plus-counseling strategies into midwifery curricula to strengthen respectful maternity care](integrate-simulation-counseling-into-midwifery-curricula.md)
 
 ## Examples
 -

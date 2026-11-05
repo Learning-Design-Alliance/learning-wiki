@@ -56,3 +56,4 @@ Qualitative theme 2 asked students what obstacles they encountered during growth
 - [Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content](students-report-routines-help-and-rushed-pacing-hurts.md) — related
 - [Learners face compounding systemic challenges: widening gaps, isolation, and shifting skill demands](systemic-challenges-gaps-isolation-shifting-skills.md) — related
 - [Finding another job (29.1%) and low apprenticeship pay (13.9%) are the largest barriers to completing the LC101 apprenticeship phase](job-and-pay-largest-apprenticeship-barriers.md) — related
+- [Tutors reframed tutees' difficulties as stemming from unstable routines and ineffective study habits rather than specific content gaps](tutor-reframing-routines-not-content-gaps.md) — related

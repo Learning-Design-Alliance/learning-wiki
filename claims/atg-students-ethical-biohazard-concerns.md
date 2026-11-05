@@ -49,3 +49,4 @@ Questionnaire responses from 12 students per group. In the artificial teeth grou
 - [Students perceived natural teeth as better for endodontic preclinical training than artificial teeth](students-prefer-natural-teeth-training.md) — related
 - [Overall technical quality of treatments was similar between natural and artificial teeth groups](similar-technical-quality-both-groups.md) — related
 - [Natural teeth group showed more marginal ridge damage and short fillings than artificial teeth group](natural-teeth-more-ridge-damage-short-fillings.md) — related
+- [Cost of procuring artificial teeth is perceived as a disadvantage to applicability (57.5%) and would influence training-model choice (56%)](artificial-teeth-cost-disadvantage-perception.md) — related

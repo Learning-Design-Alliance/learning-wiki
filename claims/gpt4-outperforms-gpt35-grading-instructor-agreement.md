@@ -68,3 +68,4 @@ Bootstrap resampling (10,000 samples) of LLM scores; the article reports 63% vs 
 - [LLM grading performance is markedly worse for open-ended history and philosophy questions than for content-based astronomy and astrobiology questions](llm-grading-worse-on-open-ended-questions.md) — related
 - [GPT-4 grading agrees best with the instructor when the prompt includes the instructor's model answer with a rubric, and worst with an AI-generated rubric alone](prompt-design-model-answer-plus-rubric-best.md) — related
 - [In three astronomy MOOCs, GPT-3.5 and GPT-4 grades are closer to instructor grades with lower dispersion than peer grades](llm-grading-closer-to-instructor-than-peer-grading.md) — a broader claim this one bears on
+- [Published evidence suggests LLM scoring can outperform standardized patient scoring on rubric-scored written notes, but generalizability remains open](llm-scoring-lower-incorrect-rate-than-sp.md) — related

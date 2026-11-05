@@ -48,3 +48,4 @@ Meta-analysis of 14 studies (1,792 students) comparing SDL and TDL exam scores; 
 - [Theoretical SDL shows a significant pooled advantage over TDL, while practical SDL does not reach statistical significance](sdl-theoretical-significant-practical-not.md) — a narrower finding that bears on this claim
 - [SDL is associated with nurturing autonomy, curiosity, and self-regulation qualities in medical students](sdl-nurtures-autonomy-curiosity-self-regulation.md) — related
 - [SDL is implemented through two main categories: theoretical (knowledge-focused) and practical (hands-on procedural) approaches](sdl-two-categories-theoretical-practical.md) — related
+- [CCS training produces higher theoretical examination scores than traditional didactic training across all four classes of non-dentistry medical undergraduates](ccs-higher-theoretical-exam-scores-stomatology.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-28
+source_checked: 2026-11-05
 sources:
   - id: doo-2023
     resource: "https://doi.org/10.1007/s11423-023-10187-3"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The direct path from self-efficacy to learning engagement was non-significant (β = 0.056, ns), while the indirect paths were significant (β = 0.597, p < 0.05); these are SEM paths in cross-sectional survey data, so they describe associations, not causal effects. [→ Doo 2023](#doo-2023)

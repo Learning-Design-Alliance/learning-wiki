@@ -47,3 +47,4 @@ Findings on justifying, with excerpts showing pattern recognition, pathophysiolo
 ## Related Claims
 - [4th-year medical students exhibited four diagnostic reasoning skills—interpreting, framing, generating, and justifying—during think-aloud chart-based assessment](four-skills-interpreting-framing-generating-justifying-exhibited.md) — a broader claim this one bears on
 - [Chain-of-Thought rationale quality shows no direct correlation with the accuracy of simulated student responses](cot-rationale-quality-no-correlation-simulated-accuracy.md) — related
+- [Non-dentistry undergraduates prioritize learning oral pathologies and diagnostic thinking over basic oral procedural skills in their stomatology clerkship](non-dental-students-prioritize-diagnostic-over-procedural-skills.md) — related

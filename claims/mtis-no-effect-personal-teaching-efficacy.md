@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2013
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: christopher-t-stripling-and-t-grady-roberts-2013
     resource: "https://doi.org/10.5032/jae.2013.02114"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2013 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` There was no significant difference in personal teaching efficacy based on the MTIS treatment; the experimental group's scores decreased at each data collection point. [→ Christopher T. Stripling and T. Grady Roberts 2013](#christopher-t-stripling-and-t-grady-roberts-2013)

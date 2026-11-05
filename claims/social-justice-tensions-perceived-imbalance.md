@@ -48,3 +48,4 @@ Across-case analysis of the four cases reports this assertion. Cases 2 and 4 exp
 - [Centering social justice in learning design means ongoing attention to balance between the designer, other team members, and project goals](centering-social-justice-balance-designer-team-goals.md) — related
 - [Design practices are implemented to address tensions while also centering social justice goals](design-practices-address-tensions-center-justice.md) — related
 - [OpenSciEd curriculum design goals, especially coherence from the student perspective, come into tension during unit design](open-scied-design-tensions-coherence.md) — related
+- [Faculty members experience five categories of barriers to effective feedback on their educational performance, including power imbalance, unstructured feedback, inappropriate content, recipient resistance, and giver-receiver conflict](faculty-perceived-barriers-effective-feedback.md) — related

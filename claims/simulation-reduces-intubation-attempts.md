@@ -48,3 +48,4 @@ Univariate pre-post comparison in the 32-resident prospective study (Table 2, Fi
 - [No significant difference in successful intubation rate or esophageal intubation rate before and after simulation training](simulation-no-significant-success-rate-change.md) — related
 - [Mean intubation time fell from 149.81±108 sec before to 51±96 sec after the simulation session in one uncontrolled pre-post study (p<0.001)](simulation-reduces-vl-intubation-time.md) — related
 - [Post-session intubation time above 12 seconds was an independent predictor of intubation failure (Adjusted OR=3.5, p=0.001, 95%CI (1.018-10.69))](intubation-time-above-12-seconds-predicts-failure.md) — related
+- [Just-in-time simulation training immediately before the procedure improves first-attempt intubation success and reduces attempt duration](jitt-improves-first-attempt-intubation-success.md) — related

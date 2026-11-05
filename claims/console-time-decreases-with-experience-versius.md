@@ -55,3 +55,6 @@ Predictive linear mixed-effects model built on Senior 1's data, plotting estimat
 - [Mean procedure time decreased from 3.45 to 1.53 minutes after training (p < 0.001)](sbml-probing-procedure-time-reduction.md) — related
 - [Console time and active time decrease significantly between the initial and proficiency phases of the RPD learning curve](console-active-time-decrease-across-rpd-curve.md) — related
 - [No significant differences in learning progression between individual console surgeons](no-surgeon-level-learning-progression-differences.md) — related
+- [Length of hospital stay decreased significantly with surgical experience in laparoscopic radical prostatectomy, while catheterization duration did not change](hospital-stay-decreases-with-lrp-experience.md) — related
+- [Surgical experience is an independent predictor of shorter operative time in laparoscopic radical prostatectomy, though it explains only part of the variance](surgical-experience-independent-predictor-operative-time.md) — related
+- [Operative time in laparoscopic radical prostatectomy reaches a proficiency plateau after the 61st case in this series](lrp-operative-time-plateau-case-61.md) — related

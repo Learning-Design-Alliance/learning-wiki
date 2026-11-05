@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: robi-kroflič-and-helena-smrtnik-vitulić-2015
     resource: "https://journals.cepsj.si/index.php/cepsj"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
-> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Mixed between-subject ANOVA showed significant group × time interactions on the Joyful-Depressed, Tolerant-Angry, Calm-Aggressive, Cooperative-Oppositional and Autonomous-Dependent scales, with the experimental group scoring higher afterwards. [→ Robi Kroflič and Helena Smrtnik Vitulić 2015](#robi-kroflic-and-helena-smrtnik-vitulic-2015)

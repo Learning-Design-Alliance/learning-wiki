@@ -60,3 +60,4 @@ Analysis of interaction logs from 15 of 34 enrolled students who voluntarily use
 - [Voluntary classroom uptake of teacher-assigned AI discussions was high on average (85.0% classroom participation) but heterogeneous across teachers and discussions](high-but-heterogeneous-voluntary-ai-discussion-uptake.md) — related
 - [Students who continued feedback conversations with ChatGPT perceived more utility in AI feedback than one-shot users](continued-ai-conversations-linked-to-perceived-utility.md) — related
 - [Students in real-world chatbot deployments exhibit lower scaffolding uptake than benchmarks assume, frequently bypassing the chatbot's pedagogical framing](real-world-students-bypass-chatbot-scaffolding.md) — related
+- [ChatGPT interactions during case-based learning were superficial and short, used like a search engine rather than a dialogic tutor](chatgpt-used-like-google-not-tutor.md) — related

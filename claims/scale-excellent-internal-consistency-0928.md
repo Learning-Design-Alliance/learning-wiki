@@ -54,3 +54,4 @@ Psychometric evaluation of the 72-item instrument administered via a digital tes
 - [Certified preceptors reported high satisfaction with the certification system, with every questionnaire item scoring above 4.7 on a 5-point scale (Cronbach's α = 0.936)](preceptor-certification-satisfaction-above-4-7.md) — related
 - [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related
 - [The self-assessment questionnaire measuring cognition, skill, and attitude showed good validity and reliability in this sample](self-assessment-questionnaire-csa-validity-reliability.md) — related
+- [The adapted MIQ shows excellent internal consistency in this sample (Cronbach's alpha 0.90 at baseline and 0.88 post-workshop)](adapted-miq-internal-consistency-pvc.md) — related

@@ -48,3 +48,4 @@ In the same retrospective study of 120 patients, the open approach (56 patients)
 - [Laparoscopic LLND competence is achieved after 19 cases](laparoscopic-llnd-competence-19-cases.md) — related
 - [Surgical competence in robotic LLND is achieved after 12–53 cases regardless of learning outcome](robotic-llnd-competence-12-53-cases.md) — related
 - [Blood loss, urinary complications, and morbidity decreased during the proficiency phase of robotic LLND](robotic-llnd-outcomes-improve-proficiency.md) — related
+- [Lymph node dissection rates increased with surgical experience, while positive surgical margins and PSA recurrence did not differ significantly across learning phases](lnd-increases-psm-recurrence-stable-across-lrp-phases.md) — related

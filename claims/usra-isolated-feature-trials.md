@@ -68,3 +68,4 @@ The review reports, citing Cai et al., that an "artificial intelligence‐assist
 - [Expert instructor presence, repetitive practice and multiple learning strategies were the most common instructional design features](usra-common-design-features.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Cook et al. found multiple learning strategies was the only instructional design feature with a significantly positive pooled effect on Kirkpatrick level 4 patient outcomes (0.53, p < 0.001)](multiple-learning-strategies-pooled-patient-outcomes.md) — a broader claim this one bears on
+- [The HUSP simulator enabled students to reach Kirkpatrick level 2 (acquisition of knowledge and skills)](husp-kirkpatrick-level-2.md) — related

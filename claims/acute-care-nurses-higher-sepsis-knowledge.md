@@ -50,3 +50,4 @@ One-way ANOVA across clinical areas in the 355-nurse survey found significant di
 - [Registered nurses show moderate sepsis knowledge with major gaps in early clinical sign recognition and septic shock management](nurse-sepsis-knowledge-gaps-eastern-china.md) — a broader claim this one bears on
 - [Presence of a sepsis screening tool showed no significant association with nurses' knowledge or confidence](screening-tool-no-knowledge-confidence-link.md) — related
 - [Overall knowledge scores did not differ significantly by sepsis training level or highest qualification, with differences only at item level](no-overall-knowledge-score-group-differences.md) — related
+- [Cardiac ICU nurses outperform general ICU nurses on specialist arrhythmia items](cardiac-icu-nurses-better-specialist-items.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: lucia-patino-melo-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102302"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During-simulation %REC showed a statistically significant, moderate, positive correlation with team leaders' CRM scores (τb = 0.535, p = .046). [→ Lucia Patino Melo 2026](#lucia-patino-melo-2026)
@@ -54,3 +54,4 @@ Kendall's tau correlation across 9 teams in the field-based observational study,
 - [Physiological synchrony is detectable among medical resident teams both before and during CRM simulation training, exceeding surrogate-data chance levels](ps-detected-pre-and-during-crm-simulation.md) — related
 - [Training team leaders to present pre-briefs and interactive post-briefs significantly improved both leader capabilities and team performance](leader-briefing-training-improves-team-performance.md) — related
 - [Introducing a designated nursing team leader was associated with lower cognitive load for the medical team leader and improved objective performance in the CANLEAD trial](designated-nurse-leader-lower-cognitive-load.md) — related
+- [Previous simulated FONA procedures correlated moderately with first-evaluation score but practically not with final-evaluation score](simulated-fona-experience-first-eval-association.md) — related

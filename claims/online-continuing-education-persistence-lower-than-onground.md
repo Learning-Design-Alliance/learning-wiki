@@ -57,3 +57,4 @@ Comparative observational analysis of two years of enrollment and withdrawal rec
 - [Expressed dissatisfaction with online technology, instruction, or content is not the primary reason for dropping](dissatisfaction-not-primary-drop-reason.md) — related
 - [Differential attrition may explain the reported reduction in achievement gaps under daily online testing](differential-attrition-may-explain-gap-reduction.md) — related
 - [Disappearing students complicated maintaining constructivist groups in the online course](disappearing-students-online-group-work.md) — related
+- [Student attendance is significantly and moderately lower in remote discussion sections than in in-person sections](remote-sections-lower-attendance.md) — a narrower finding that bears on this claim

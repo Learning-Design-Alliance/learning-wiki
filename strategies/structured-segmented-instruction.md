@@ -65,6 +65,7 @@ Structured/segmented instruction works because working memory is severely limite
 - [Mastery Learning](mastery-learning.md) — a natural pairing: each segment is mastered before the next begins
 - [Teach word-problem schemas in a graduated sequence: concrete linear models first, then nonlinear, then closed nonlinear patterns](graduated-pp-instructional-sequence.md)
 - [Decompose evidence-chain explanation into trainable parts with targeted feedback to improve investigation interpretation, the domain the pathway program did not move.](decompose-evidence-chain-explanation-into-trainable-parts.md)
+- [Manage cognitive load in complex resuscitation simulation through scenario sequencing, role rotation, and immediate feedback](cognitive-load-management-resuscitation-simulation-strategy.md)
 
 ## Related Elements
 - [Chunking](../principles/chunking.md) — the sizing mechanism; determines how much is presented per segment

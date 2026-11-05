@@ -55,3 +55,4 @@ Moment-by-moment turn-by-turn analysis of one group's dialogue (three students a
 - [No substantial example of emancipatory immersion was found in the family data, despite the framework including it.](no-substantial-emancipatory-immersion-example.md) — related
 - [Perceived presence and co-presence in a collaborative setting were higher in XRCL than in computer-based collaborations](presence-copresence-higher-xrcl-than-computer.md) — related
 - [Cognitive presence appears in 46% and social presence in 45% of VR learning studies, each tied to distinct task families](cognitive-social-presence-frequencies.md) — related
+- [Working with sensitive family topics in VR can feel intense and overwhelming, requiring teacher preparation for emotional reactions](vr-sensitive-topics-intensity-reactions.md) — related

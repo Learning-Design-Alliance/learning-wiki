@@ -9,7 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: weak
 newest_evidence: 2009
-source_checked: 2026-10-30
+source_checked: 2026-11-05
 sources:
   - id: vavoula-2009
     resource: "https://doi.org/10.1016/j.compedu.2009.02.007"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2009 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Observed students discussed and negotiated what to collect, at times cooperating and at other times competing over who would collect or photograph an object. [→ Vavoula 2009](#vavoula-2009)

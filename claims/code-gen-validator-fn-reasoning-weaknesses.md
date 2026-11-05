@@ -56,3 +56,4 @@ Qualitative analysis of SME feedback on FN cases from the expert evaluation. SME
 - [GPT models showed lower accuracy with more rubric-related errors (28% vs. 13% for Gemini 3 Flash) and near parity between false positives and negatives](gpt-models-more-rubric-errors-than-gemini.md) — related
 - [81.54% of incorrectly analysed programs were incorrect programs analysed as correct](php-its-error-direction-misleading-majority.md) — related
 - [An exploratory LLM-judge audit labels knowledge gaps (39.1%) and reasoning errors (26.9%) as the most frequent failure modes among incorrect frontier-model responses](llm-judge-audit-failure-modes.md) — related
+- [Common LLM error patterns are multiple-option selection, image misdiagnosis, and action prioritization failures](llm-error-patterns-jnme.md) — related

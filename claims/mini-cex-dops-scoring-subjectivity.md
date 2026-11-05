@@ -49,3 +49,4 @@ Factors-affecting-efficacy theme from the interviews; a novice noted "novice nur
 - [Universal mini-CEX and DOPS forms lacked specialty for differing departmental patient conditions](mini-cex-dops-lack-specialty.md) — related
 - [Teaching-related, novice personal, patient-related and feedback-related factors affected mini-CEX and DOPS implementation efficacy](mini-cex-dops-multifactor-efficacy.md) — related
 - [Educators perceived mini-CEX and DOPS as giving a more accurate representation of novice nurses' clinical abilities than written examinations](mini-cex-dops-true-reflection-abilities.md) — related
+- [Fourth-year medical students in a workplace-based learning program with mini-CEX and DOPS achieve higher MCQ knowledge scores than standard-clerkship peers](wblp-mini-cex-dops-higher-mcq-scores.md) — related

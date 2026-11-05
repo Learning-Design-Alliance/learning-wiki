@@ -54,6 +54,7 @@ Several implementation challenges warrant consideration including coordination c
 
 - [Structure integrated CBL-MDT interventions as five curated cases with pre-class self-directed learning, small-group analysis, simulated MDT discussion, and structured feedback.](cbl-mdt-five-case-structured-intervention-blueprint.md)
 - [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
+- [Structure MDT-CBL as three modules: preparatory self-study, traditional CBL application, and consolidation by a specialist team](three-module-mdt-cbl-structure.md)
 
 ## Examples
 -

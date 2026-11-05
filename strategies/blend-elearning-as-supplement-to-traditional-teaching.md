@@ -66,6 +66,8 @@ The review's design recommendation is that educators should not seek to replace 
 - [Blend digital resources with traditional teaching to create a blended learning approach](blended-digital-traditional-pathology-teaching.md)
 - [Use AR to supplement limited anatomy lab access by simulating visuospatial aspects of cadaveric dissection with multi-user collaborative functions](ar-supplement-limited-anatomy-lab-access.md)
 - [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
+- [Adopt BOPPPS integrated with Rain Classroom as a blended approach for clinical clerkship teaching](adopt-boppps-rain-classroom-clerkship-strategy.md)
+- [Develop a wider variety of CCS covering diverse oral diseases and transition to mobile platforms to broaden access](expand-ccs-disease-variety-mobile-platforms.md)
 
 ## Examples
 -

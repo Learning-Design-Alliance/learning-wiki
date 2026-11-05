@@ -50,3 +50,4 @@ Authors' interpretation of the prospective four-surgeon cohort: two surgeons wit
 - [Prior robotic surgical experience is the main driver of better baseline performance and skills progression](prior-robotic-experience-driver-transfer.md) — a broader claim this one bears on
 - [Skill transferability is demonstrated in cross-platform simulated training amongst experts and novices](cross-platform-skill-transfer-novices-experts.md) — related
 - [Intermediate-level trainees exhibit reduced performance when transferring between robotic platforms (GEARS −2.9)](intermediates-reduced-scores-platform-transfer.md) — related
+- [Operative time in laparoscopic radical prostatectomy reaches a proficiency plateau after the 61st case in this series](lrp-operative-time-plateau-case-61.md) — related

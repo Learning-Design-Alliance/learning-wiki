@@ -52,3 +52,4 @@ Repeated-measures ANOVA with LSD post hoc tests on 56 fourth-year PharmD student
 - [Both e-lecturing and eHistoLab instruction significantly improved histology knowledge from pre-test to post-test](both-methods-improved-histology-knowledge.md) — related
 - [Students preferred face-to-face delivery over virtual delivery for both CBL and GBL](face-to-face-preferred-over-virtual.md) — related
 - [Both groups improved significantly from pre- to post-test, with a larger within-group gain in the flipped classroom group (d = 1.87 vs. d = 0.86)](within-group-gains-larger-flipped-group.md) — related
+- [Knowledge scores improved over time in both groups, with a stronger overall effect in the collaborative learning group](knowledge-gains-over-time-both-groups-collaborative-stronger.md) — related

@@ -43,6 +43,8 @@ The article recommends that future studies assess knowledge retention and clinic
 - [Evaluate CBCL implementations with objective outcomes, longitudinal follow-up, and controlled designs](cbcl-future-evaluation-strategy.md)
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
 - [Use longitudinal approaches combining repeated exposure, clinical case discussions, and practical application to translate knowledge into practice](longitudinal-repeated-exposure-knowledge-translation.md)
+- [Evaluate short-term teaching innovations with longitudinal, skills-based assessments and delayed post-tests rather than a single written test](longitudinal-skills-based-assessment-recommendation.md)
+- [Incorporate institution-level benchmarking, collaboration process measures, and delayed or performance-based assessments in future CBLC evaluations](cblc-future-evaluation-strategy.md)
 
 ## Examples
 -

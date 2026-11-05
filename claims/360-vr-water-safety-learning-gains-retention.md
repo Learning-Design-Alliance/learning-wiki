@@ -54,3 +54,4 @@ Two-way ANOVA on 115 randomly assigned children (360° VR n = 46, TV n = 28, Pos
 - [VR safety training for hazard identification significantly outperforms traditional methods for reinforced concrete and stone cladding tasks](vr-hazard-training-outperforms-traditional-methods.md) — related
 - [VR temporal demands during short testing quizzes are significantly lower than traditional paper-based testing](vr-short-testing-quizzes-lower-temporal-demands.md) — related
 - [Using cartoons in social studies lessons significantly increases grade 4 students' awareness of water issues compared with traditional teaching](cartoons-increase-water-awareness-grade4.md) — related
+- [The virtual learning resource was feasible and perceived as more engaging than traditional teaching in a 12-student pilot](vr-resource-feasibility-pilot-engagement.md) — related

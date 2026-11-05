@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: li-p-2026
     resource: "https://doi.org/10.2196/77728"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group achieved a significantly higher overall course score than the control group (mean 86.93, SD 5.08 vs mean 81.60, SD 6.90; t50=−3.186, P=.002). [→ Li P 2026](#li-p-2026)
@@ -54,3 +55,6 @@ Independent-samples t test comparing overall course scores between the BOPPPS bl
 - [The ARCS + BOPPPS blended learning model significantly improves practical skills, innovative ability, and overall comprehensive competency but not theoretical knowledge](arcs-boppps-blended-model-improves-competencies-not-theoretical-knowledge.md) — a narrower finding that bears on this claim
 - [The ARCS + BOPPPS blended learning model significantly enhances student learning motivation across all four ARCS dimensions in Endodontics education](arcs-boppps-blended-model-enhances-learning-motivation.md) — related
 - [Students in the blended learning group scored significantly higher on the final pathophysiology examination than students in the traditional lecture group](blended-final-higher-than-lecture.md) — related
+- [Fifth-year medical students taught with BOPPPS combined with Rain Classroom scored significantly higher on a nephrology final examination than students taught by traditional lecture](boppps-rain-classroom-higher-nephrology-exam-scores.md) — related
+- [The BOPPPS group improved 26.47 points more than controls on a standardized composite of knowledge and skill scores](boppps-total-score-improvement.md) — related
+- [The BOPPPS-Rain Classroom group showed markedly higher classroom participation than the traditional lecture group](boppps-rain-classroom-higher-class-participation.md) — related

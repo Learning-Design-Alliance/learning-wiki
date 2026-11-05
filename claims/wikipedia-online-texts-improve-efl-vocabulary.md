@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: khany-khosravian-2014
     resource: "https://doi.org/10.5539/elt.v7n7p57"
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · n=36
-> **Currency** · newest study 2014 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After twelve instruction sessions, the randomly assigned Wikipedia group's posttest mean (17.00) was significantly higher than the Traditional group's (13.38), t with Sig. .000. [→ Khany & Khosravian 2014](#khany-khosravian-2014)

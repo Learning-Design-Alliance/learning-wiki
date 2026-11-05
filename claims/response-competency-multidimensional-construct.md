@@ -51,3 +51,4 @@ In the focus group study, participants identified key competencies including "pr
 - [Training programs at designated infectious disease institutions improved confidence, role clarity, and interdepartmental collaboration among personnel](fgi-training-improved-confidence-role-clarity-collaboration.md) — related
 - [Students report that EI supports interpersonal relationships and teamwork through empathy, active listening, and conflict management](ei-teamwork-empathy-conflict-management.md) — related
 - [Panelists identified communication and relationship-building as a core collaboration domain spanning multi-modal communication, active listening, and relational trust](smh-collab-communication-relationship-domain.md) — related
+- [Tutoring participation fostered tutors' metacognitive development, relational skills, empathy, and emerging professional identity](tutor-development-through-peer-tutoring.md) — related

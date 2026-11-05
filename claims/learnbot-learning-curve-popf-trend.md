@@ -54,3 +54,4 @@ Case-mix adjusted learning-curve estimation using generalized additive mixed mod
 - [Estimated blood loss decreased modestly as institutional case numbers progressed, while higher IWATE difficulty increased blood loss](blood-loss-decreases-with-case-number-iwate-increases.md) — reports the opposite
 - [Conversion to open surgery was associated with substantially increased blood loss and operative time, and Pringle maneuver use with reduced blood loss](conversion-and-pringle-associated-with-outcomes.md) — related
 - [The two centers followed opposite volume-complexity trajectories during implementation](opposite-volume-complexity-trajectories.md) — related
+- [Blood loss, transfusion, and conversion outcomes remained low and did not change significantly across the learning curve](blood-loss-transfusion-stable-across-lrp-learning-curve.md) — reports the opposite

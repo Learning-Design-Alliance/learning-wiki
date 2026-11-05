@@ -67,3 +67,4 @@ Qualitative synthesis of collaborative small focus groups with approximately 70 
 - [Learners rejected teacher-centered lecturing as the preferred way to learn reading](learners-reject-lecture-preference-for-reading.md) — a narrower finding that bears on this claim
 - [Learning-preference differences by discipline: political science students least interested in project-based classes](political-science-least-project-based-preference.md) — related
 - [Students perceive wellness course content as immediately applicable to daily life, which they describe as heightening motivation and sustained engagement](perceived-relevance-heightens-engagement.md) — related
+- [Students who identify working with peers as helpful experience more group work, while those citing size or learning activities experience more lecture](practices-shape-perceived-helpfulness.md) — related

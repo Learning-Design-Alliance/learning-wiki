@@ -97,6 +97,7 @@ Simulation works because it lets learners generate and test hypotheses in an env
 - [Role-play activity training with doctor, standardized-patient and evaluator roles plus peer and teacher debriefing before real-patient interviews](role-play-history-taking-training-strategy.md)
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Use weekly scenario simulation with structured debriefing and operational skills training to develop new graduate nurses' competence](weekly-scenario-simulation-debriefing-skills-training-strategy.md)
+- [Manage cognitive load in complex resuscitation simulation through scenario sequencing, role rotation, and immediate feedback](cognitive-load-management-resuscitation-simulation-strategy.md)
 
 ## Examples
 - **[Laerdal SimMan](https://www.laerdal.com)** and standardized-patient programs in health professions education — high-fidelity patient simulation with structured debriefing; meta-analytic evidence shows large gains over no simulation and comparable or better outcomes than traditional instruction Cook et al., 2013

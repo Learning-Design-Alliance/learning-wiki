@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 newest_evidence: 2002
+source_checked: 2026-11-05
 recheck_by: 2007
 sources:
   - id: kirova-2002
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2007**: baselines and conditions change
+> **Currency** · newest study 2002 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2007**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Observation of a dramatic-play episode revealed children's behavioral knowledge of seriation, classification, and one-to-one correspondence, at different stages for the two children. [→ Kirova 2002](#kirova-2002)

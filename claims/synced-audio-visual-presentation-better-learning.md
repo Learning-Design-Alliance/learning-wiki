@@ -9,7 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-21
+source_checked: 2026-11-05
 sources:
   - id: john-hattie-2025
     resource: "https://doi.org/10.1007/s10648-025-10002-w"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a series of studies by Mayer and colleagues, narrated PowerPoints with synced auditory and visual information were more meaningful for immediate and future learning outcomes than auditory-only or visual-only information, with the worst outcomes when out of sync. [→ John Hattie 2025](#john-hattie-2025)

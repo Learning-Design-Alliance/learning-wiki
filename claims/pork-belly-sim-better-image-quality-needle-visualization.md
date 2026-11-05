@@ -52,3 +52,4 @@ In the trial's post-training standardized feedback scores, the simulation group 
 - [Residents rated the pork-based model higher in fidelity and satisfaction than the silicone model, with no difference in operational difficulty](pork-model-higher-fidelity-satisfaction-than-silicone.md) — related
 - [Integrating a structured phantom-assisted simulation module into residency teaching is associated with higher SP-based abdominal ultrasound OSCE scores among novice residents](phantom-assisted-simulation-improves-abdominal-ultrasound-osce.md) — related
 - [Image quality scores are slightly higher in the XR training group compared to the standard group](xr-training-higher-image-quality.md) — related
+- [Simulation-based and traditional training produce no statistically significant differences in ultrasound-guided nerve identification success rates across most anatomical approaches](husp-simulation-no-success-rate-difference.md) — reports the opposite

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: huh-yeon-ju-2026
     resource: "https://doi.org/10.2196/71455"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across both training groups, mean confidence in managing oxygen desaturation rose from 3.78 to 6.20 on a 10-point scale, a statistically significant increase. [→ Huh Yeon-Ju 2026](#huh-yeon-ju-2026)
@@ -53,3 +54,4 @@ In the randomized controlled trial of 164 analyzed interns, the pre- to posttrai
 - [VR training increased confidence on all 4 perceived competence scale items, while small group training increased only 2 of 4](vr-confidence-gains-all-pcs-items.md) — related
 - [Both VR simulation-based training and instructor-led instruction were followed by significant short-term increases in pharmacy interns' self-perceived spill-management outcomes](vr-and-instructor-led-increase-self-perceived-spill-outcomes.md) — related
 - [Three-hour simulation-based tourniquet training significantly improves medical interns' knowledge, skills, attitudes, self-confidence and self-efficacy](simulation-tourniquet-training-improves-intern-outcomes.md) — related
+- [Simulation-based learning at the start of a psychiatric rotation increases house officers' self-reported confidence in managing a medical emergency in a psychiatric hospital](simulation-training-increases-house-officer-confidence-psychiatric-emergencies.md) — a narrower finding that bears on this claim

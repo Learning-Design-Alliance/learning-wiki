@@ -72,3 +72,4 @@ The synthesis reports that autonomy and meaningful goals improve intrinsic motiv
 - [Providing meaningful choice during a lesson increases perceived autonomy and triggered situational interest in undergraduates learning statistics](choice-increases-autonomy-triggered-situational-interest.md) — a narrower finding that bears on this claim
 - [Students perceive DPBL tasks as providing ownership, autonomy, and flexibility](dpbl-tasks-ownership-autonomy-flexibility.md) — a narrower finding that bears on this claim
 - [Free choice of book motivated students to read more and gain more enjoyment](rsa-free-book-choice-motivates.md) — a narrower finding that bears on this claim
+- [Freedom to choose cases supported residents' sense of autonomy and motivation, while mandatory learning objectives decreased motivation for some](autonomy-case-choice-vr-motivation.md) — a narrower finding that bears on this claim

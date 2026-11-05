@@ -20,6 +20,7 @@ A Society of Hospital Medicine compendium of consensus-derived learning objectiv
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Procedural curricula should be built from consensus-derived, evidence-updated learning objectives spanning knowledge, skills, attitudes, and systems**: The article recommends using its revised objective sets as the basis for procedural curriculum and CME design: the objectives "provide a framework to guide curricular development, continuing medical education, and hospital medicine practitioners in developing and maintaining procedural competence essential for high‐quality inpatient care." Objectives were revised from the 2017 framework "to reflect evolving clinical evidence, advancements, and shifts in hospital medicine practice patterns." (Nichani S et al. (2025))
 
 ### Claims
 

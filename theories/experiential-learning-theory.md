@@ -89,6 +89,7 @@ In response to the last two criticisms, some accounts propose a **revised experi
 - [Design lessons around all four ELT stages and ask application-oriented reflection questions](../strategies/elt-four-stage-lesson-design-strategy.md)
 - [QASEE learning model (Questioning, Answering, Sharing, Extending, Evaluating)](../designs/qasee-learning-model.md)
 - [Pedagogical framework of Exploring 3D Anatomy: multimodal, experiential, and social learning with art-based cycles](../designs/exploring-3d-anatomy-pedagogical-framework.md)
+- [Active Learning–GenAI Synergy Framework](../designs/active-learning-genai-synergy-framework.md)
 
 ## Key Sources
 - Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice-Hall.

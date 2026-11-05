@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 283 claims (215 show a difference, 38 mixed, 30 no difference) · 226 studies (75 causal, 70 associational, 32 review, 21 qualitative, 10 quant-synthesis, 10 design, 7 theoretical), `q1`–`q4` · 47 of 226 report an effect size · 279 claims rest on one study
+> **Evidence** · 285 claims (217 show a difference, 38 mixed, 30 no difference) · 228 studies (75 causal, 71 associational, 32 review, 22 qualitative, 10 quant-synthesis, 10 design, 7 theoretical), `q1`–`q4` · 47 of 228 report an effect size · 281 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -314,6 +314,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Students attributed competencies in teamwork, time management, quick thinking, critical thinking, communication, and confidence to team-based gamified quizzing](../claims/student-reported-competencies-gamified-quizzing.md) [+M] — measured as an outcome of the instruction studied
 - [The FC-TBL seminar improved all five research self-efficacy dimensions, including collective research efficacy and theoretical research application](../claims/fc-tbl-seminar-improves-all-self-efficacy-dimensions.md) [+M] — measured as an outcome of the instruction studied
 - [Undergraduate dental students perceive that PBL builds self-efficacy, moving from initial uncertainty toward confidence in independent learning](../claims/pbl-builds-self-efficacy-from-uncertainty.md) [+M] — measured as an outcome of the instruction studied
+- [Medical students who attend a student-led peer teaching society report improved knowledge, confidence, motivation and sense of community](../claims/meded-attendance-reported-academic-and-community-benefits.md) [+M] — measured as an outcome of the instruction studied
+- [Tutees in the program reported improvements in study methods, time management, motivation, and confidence, with high satisfaction and willingness to recommend](../claims/tutee-descriptive-survey-improvements.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

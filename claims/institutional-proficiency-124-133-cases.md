@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: van-dorst-r-w-j-j-2026
     resource: "https://doi.org/10.1007/s11701-026-03372-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a bi-institutional cohort of 431 robotic liver surgery patients, the moving-average proficiency threshold of <10% conversion rate and <10% severe complication rate in a block of 20 cases was reached at case 124 at UMCU and case 133 at KUH. [→ van Dorst R. W. J. J. 2026](#van-dorst-r-w-j-j-2026)

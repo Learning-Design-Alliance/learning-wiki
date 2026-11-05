@@ -49,3 +49,5 @@ Cross-sectional follow-up comparison among the 42 of 88 participants who returne
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
 - [VR-supplemented and purely conventional training produce no significant difference on the Standard Lumbar Puncture Rating Score or total procedure time](vr-lp-training-rating-score-and-time-null.md) — related
 - [Students who received VR-supplemented LP training report higher interest in LP and higher training satisfaction than conventionally trained students](vr-training-higher-interest-and-satisfaction.md) — related
+- [Skill retention after FONA training was generally preserved after three months regardless of training model used](fona-skill-retention-preserved-three-months.md) — related
+- [Three-month FONA skill retention after training on a self-made model is non-inferior to training on a high-fidelity simulator in checklist scores](self-made-model-non-inferior-fona-retention.md) — related

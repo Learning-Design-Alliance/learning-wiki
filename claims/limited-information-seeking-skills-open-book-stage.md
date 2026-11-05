@@ -48,3 +48,4 @@ Observational evaluation of documented search processes during the open-book sta
 - [Anesthesia students in the gamified Triple Jump (G-Jump) group scored significantly higher on the post-test than the control group, with no significant difference between G-Jump and TJE](gjump-higher-post-test-than-control.md) — related
 - [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — related
 - [Teachers on Instagram predominantly engage in low-cost collaboration (information seeking) and rarely in high-cost collaboration (co-creating)](instagram-low-cost-collaboration-predominates.md) — related
+- [Palestinian medical students rely heavily on medical books and general search engines while rarely using specialized evidence-based databases, with usage differing by EBM training](textbook-reliance-limited-specialized-database-use.md) — related

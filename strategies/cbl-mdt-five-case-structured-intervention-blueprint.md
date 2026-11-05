@@ -55,6 +55,7 @@ The experimental group received an integrated CBL-MDT intervention structured as
 - [Mitigate CBL-MDT implementation challenges through fixed protected scheduling, pre-course orientation, quarterly case review, and OSCE-based assessment.](cbl-mdt-implementation-challenges-mitigation-strategies.md)
 - [Weekly trainee-led CBL sessions with case presentation, self-directed research between sessions, and attendance and utility tracking](trainee-led-weekly-cbl-feasibility-session-cycle.md)
 - [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
+- [Structure MDT-CBL as three modules: preparatory self-study, traditional CBL application, and consolidation by a specialist team](three-module-mdt-cbl-structure.md)
 
 ## Examples
 -

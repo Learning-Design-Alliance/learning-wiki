@@ -69,3 +69,4 @@ Covariate-adjusted linear regression with HC3 robust standard errors on OSCE tot
 - [The 10-minute two-station four-domain modified OSCE is more sensitive than the end-of-rotation comprehensive score in detecting key competency differences from pathway-driven training.](modified-osce-more-sensitive-than-comprehensive-score.md) — related
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — related
 - [Modified Peyton’s four-step approach yields higher immediate post-training OSCE scores than traditional Peyton in resident clinical skills training](modified-peyton-higher-immediate-osce.md) — related
+- [WBLP students achieve higher total OSCE clinical competence scores than standard-clerkship controls](wblp-higher-total-osce-scores.md) — related

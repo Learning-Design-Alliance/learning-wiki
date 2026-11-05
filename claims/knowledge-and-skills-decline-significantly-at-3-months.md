@@ -55,3 +55,4 @@ Farah T, Besbes H, Ajmi H, Zayani S, Chemli J, Chouchane S. (2026). Comparing vi
 - [Three-hour simulation-based tourniquet training significantly improves medical interns' knowledge, skills, attitudes, self-confidence and self-efficacy](simulation-tourniquet-training-improves-intern-outcomes.md) — related
 - [Confidence retention at last follow-up was variable, with some technical steps showing limited retention without ongoing practice](neurosave-variable-retention-followup.md) — related
 - [Neither training modality produced measurable improvement beyond the initial workshop; both groups showed a small comparable decline in modified OSAUS performance](no-improvement-beyond-workshop-both-modalities.md) — possibly the same claim (merge candidate)
+- [Total BLS skill retention scores remain stable across two weeks, two months and one year after training](total-bls-scores-stable-across-retention-intervals.md) — related

@@ -58,3 +58,5 @@ Narrative review attributing this to Zhang et al.'s study in which students were
 - [Facilitated interactive video and simulation-based training produce no statistically significant difference in 3-week BLS OSCE performance when both follow the same standardized lecture](bls-video-vs-simulation-osce-no-difference.md) — related
 - [CBME-aligned e-modules added to lectures improved first-year medical students' performance at all four assessed Bloom cognitive levels compared with lectures alone](e-modules-improve-all-cognitive-levels-medical-students.md) — related
 - [E-modules improved first-year medical students' psychomotor (OSCE manipulation) performance compared with lectures alone](e-modules-improve-psychomotor-osce-performance.md) — a narrower finding that bears on this claim
+- [CCS training produces higher theoretical examination scores than traditional didactic training across all four classes of non-dentistry medical undergraduates](ccs-higher-theoretical-exam-scores-stomatology.md) — related
+- [The DwGJ group outperformed the control group on OSCE-based practical skill assessment after the course](dwgj-cbl-higher-osce-skill-scores.md) — related

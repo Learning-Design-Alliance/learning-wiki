@@ -68,3 +68,4 @@ The review reports, citing Smith, Ghazizadeh and Shadmehr (2006), evidence from 
 - [A slow rate of development in an instructional film is more helpful to learning than a fast rate](slow-film-rate-of-development-aids-learning.md) — related
 - [Across the preclinical-to-clinical transition students become faster while cleaning quality declines — a speed–accuracy trade-off independent of training schedule](speed-accuracy-tradeoff-clinical-transition.md) — a narrower finding that bears on this claim
 - [Reasoning-enabled LLM modes improved accuracy but required excessively long generation times, creating a speed-accuracy trade-off](llm-reasoning-speed-accuracy-tradeoff-dental-exam.md) — a narrower finding that bears on this claim
+- [The additional practice group showed better short-term retention of COVID-19 protective measures, with the advantage disappearing over time](additional-practice-short-term-protective-equipment-retention.md) — related

@@ -64,3 +64,5 @@ Authors' conclusion to the teacher-role theme of the interview study. A student 
 - [AR reduces reliance on instructor supervision and enables autonomous laparoscopic practice](ar-reduces-instructor-reliance-autonomous-practice.md) — related
 - [Learners in both teaching models interacted mostly with TAs and peers rather than with the instructor](learners-interact-mostly-tas-peers-not-instructor.md) — related
 - [Immediate feedback and self-reflection-driven engagement shifted novice nurses from passive to active participation in learning](mini-cex-dops-self-reflection-active-engagement.md) — related
+- [Preclinical medical students use ChatGPT during case-based learning to automate answering workbook questions, bypassing retrieval, elaboration and group problem-solving](chatgpt-automates-cbl-workbook-effort.md) — related
+- [Group collaborative culture shapes ChatGPT use: weaker collaborative cultures use it sooner and more passively, stronger cultures use it less and more critically](collaborative-culture-moderates-chatgpt-use.md) — related

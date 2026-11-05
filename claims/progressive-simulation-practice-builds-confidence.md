@@ -55,3 +55,4 @@ Content analysis of focus group interviews, reflective journals and teaching ref
 - [Students' narratives frame simulations ambivalently: anxiety and performance insecurity coexist with perceived safe space for learning from mistakes](ambivalent-narratives-simulation-anxiety-safe-space.md) — related
 - [Simulation-based BLS training evokes strong emotional engagement and builds nursing students' confidence through repeated practice in a safe, mistake-tolerant environment](simulation-bls-emotional-engagement-confidence.md) — related
 - [The placement acted as a safe space fostering self-efficacy, intellectual humility, and uncertainty tolerance](anatomy-ems-safe-space-personal-development.md) — related
+- [Self-rated operator confidence in managing distal coronary perforation and stent loss rose from before to immediately after structured simulation-based learning, in one uncontrolled pre-post study](sbl-improves-operator-confidence-pci-complications.md) — related

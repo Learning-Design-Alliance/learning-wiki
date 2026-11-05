@@ -65,3 +65,4 @@ ANOVA of pre-test MSLQ scores (Table 5; test anxiety F = 3,466, p = ,021). Posth
 - [Before the presentation, intervention and control groups did not differ on theory of intelligence, task intentions or goal orientation](baseline-equivalence-intervention-control-groups.md) — related
 - [Integrating dynamic and standardized assessments produces positive washback and higher task-intrinsic motivation](integrated-assessment-positive-washback-motivation.md) — related
 - [Baseline anxiety and self-efficacy did not differ between the intervention and control groups before the intervention](sps-cbl-baseline-equivalence-observed.md) — related
+- [Self-directed learning subscale scores—self-monitoring, motivation, self-control, and self-confidence—rose significantly from pre-test to post-test in one group with no comparison group after collaborative learning, with all pre-post effect sizes classified as large](collaborative-learning-raises-all-four-sdl-subscales.md) — related

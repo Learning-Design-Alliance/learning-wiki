@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: mixed
 newest_evidence: 2019
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: tudor-car-lorainne-2019
     resource: "https://doi.org/10.1186/s12916-019-1370-1"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3` · `i3` large
-> **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In the review's included trials, a simulation-based module showed large beneficial effects on skills versus no intervention (one RCT, n = 31, SMD 0.93) and versus printed guidelines (one RCT, n = 45, SMD 1.13). [→ Tudor Car Lorainne 2019](#tudor-car-lorainne-2019)

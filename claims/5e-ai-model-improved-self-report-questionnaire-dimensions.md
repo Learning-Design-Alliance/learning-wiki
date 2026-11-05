@@ -56,3 +56,5 @@ Self-report questionnaire (10 items, 5-point Likert; Cronbach's α = 0.924, S-CV
 - [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related
 - [Students reported high perceived usefulness of AI for teaching preparation and classroom performance.](students-rate-ai-usefulness-highly.md) — related
 - [Experimental-group students rated the IAVSE course significantly higher than the control group rated traditional instruction across seven Likert-scale pedagogical dimensions](iavse-higher-likert-feedback.md) — related
+- [PA-PBL and control students reported comparable course satisfaction and self-evaluated competencies](pa-pbl-control-comparable-subjective-evaluations.md) — reports the opposite
+- [DwGJ residents reported higher course satisfaction and perceived learning outcomes, while ratings of instructors' teaching attitudes did not differ between groups](dwgj-higher-satisfaction-instructor-ratings-null.md) — related

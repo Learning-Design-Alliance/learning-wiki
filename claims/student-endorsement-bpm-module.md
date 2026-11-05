@@ -48,3 +48,4 @@ Post-survey module feedback from both cohorts. 84% (n = 166) endorsed continued 
 - [Integrating the AMA BPM Essentials module significantly improves healthcare students' BPM knowledge and self-reported confidence](ama-bpm-module-improves-student-knowledge-confidence.md) — related
 - [Both cohorts significantly improve ability to identify factors influencing BPM accuracy (medical p = 0.002; PA p = 0.035)](bpm-factor-identification-gains.md) — related
 - [Students who used the module reported positive perceptions and supported its curricular implementation with modifications](student-perceptions-online-caries-module.md) — related
+- [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related

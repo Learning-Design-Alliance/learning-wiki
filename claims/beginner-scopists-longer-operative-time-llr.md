@@ -51,3 +51,4 @@ Retrospective comparison of 161 LLRs by a single surgeon (82 expert-assisted, 79
 - [CUSUM analysis shows joystick-controlled scope use attenuates the cumulative operation-time gap between expert and beginner scopists](cusum-joystick-attenuates-cumulative-gap.md) — related
 - [Beginner scopists have higher intraoperative transfusion and open conversion rates than expert scopists in LLR](beginner-scopists-transfusion-conversion-llr.md) — related
 - [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — related
+- [Expert surgeons outperformed novices on all four quantitative measures of the resection task: smaller margin errors, lower carbonization, faster resection, fewer grasps](experts-outperform-novices-four-measures.md) — related

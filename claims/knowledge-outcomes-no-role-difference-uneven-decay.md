@@ -68,3 +68,4 @@ Review synthesis of delayed follow-up in 4 studies (one uninterpretable owing to
 - [Attitudinal outcomes did not differ significantly between roles across most studies, with isolated exceptions in self-efficacy and 3-month perceived learning transfer](attitudinal-outcomes-mostly-null-exceptions.md) — related
 - [At Kirkpatrick Level 1, satisfaction, perceptions, anxiety, and learning flow did not differ significantly between roles, but emotional arousal favored active participants](level-1-reactions-emotional-arousal-advantage.md) — related
 - Only 16 of 36 studies assessed BLS knowledge retention over time, with follow-ups generally between 1 and 6 months and only two exceeding 1 year — related
+- [Skills decay occurred across most participant categories but was not significant for providers with less than one year of work experience, and more-experienced providers decayed more](experience-pattern-skills-decay-one-year.md) — related

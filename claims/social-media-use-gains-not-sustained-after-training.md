@@ -50,3 +50,4 @@ Self-reported social media use among the 17 intervention participants across bas
 - [Intervention participants' overall cognitive status (MMSE) increased over the study period, with the effect appearing after the workshop ended](mmse-increase-after-social-media-workshop.md) — related
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
+- [Fear of childbirth decreased immediately after wearable birth simulation across all groups, then rose again during follow-up](simulation-temporarily-reduced-childbirth-fear.md) — related

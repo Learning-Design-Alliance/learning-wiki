@@ -51,3 +51,4 @@ The review reports Klang et al.'s blind assessment of Chat-GPT 4 MCQs across int
 - [Only 40% of ChatGPT-generated dermatology board-style questions were applicable for exams](dermatology-mcqs-40-percent-applicable.md) — related
 - [Most reviewed studies (5 of 8) demonstrated that LLMs can produce MCQs valid for medical exams](llm-mcq-generation-majority-valid.md) — a broader claim this one bears on
 - [Expert physician review excluded 23 of 100 LLM-generated MCQs, yielding a validated set of 77 questions](physician-validation-77-mcqs.md) — a narrower finding that bears on this claim
+- [The review reports that ChatGPT-3.5 provided accurate colorectal cancer screening recommendations at lower rates than expert physicians, with or without a mobile application](chatgpt-crc-screening-recommendation-accuracy-reported.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: yang-et-al-2018
     resource: "https://doi.org/10.5430/ijhe.v7n1p10"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Third-year medical students taught with an integrated simulation and clinical practice mode scored similarly to traditionally taught students on practical tests of PE, internal punctures and case analysis and on theory-based examinations of diagnostics and internal medicine. [→ Yang et al. 2018](#yang-et-al-2018)
@@ -52,3 +52,4 @@ Quasi-experimental comparison of 42 observation-group and 38 control-group third
 - [PE and internal punctures scores differed significantly across the diagnostic, internal medicine and internship periods in the integrated cohort](pe-punctures-scores-vary-by-period.md) — related
 - [Students report higher satisfaction and more positive emotional responses with simulation-based teaching than with traditional practical instruction](simulation-higher-satisfaction-positive-emotions.md) — related
 - [Integrated micro-skills training-CPTM improves OSCE practical skill scores versus traditional teaching](microskills-cptm-higher-osce.md) — reports the opposite
+- [Case-based theory scores improve after integrated simulation with TBL while single-choice scores do not change significantly](case-questions-improve-single-choice-do-not.md) — related

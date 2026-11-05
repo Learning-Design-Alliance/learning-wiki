@@ -48,7 +48,8 @@ The article's method is a reusable recipe for benchmarking LLMs on professional 
 - [Inter-run reliability of LLM performance on the EBHS examination was consistently high, with an overall mean Cohen's κ of 0.821 and no model falling below moderate agreement.](../claims/llm-ebhs-inter-run-reliability-high-kappa-0821.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Evaluate LLMs for educational use with repeated-attempt consistency testing rather than single-attempt performance only](repeated-attempt-llm-evaluation-strategy.md)
 
 ## Examples
 -

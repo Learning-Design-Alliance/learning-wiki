@@ -9,7 +9,6 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-18
 sources:
   - id: viki-m-young-2026
     resource: "https://doi.org/10.51388/20.500.12265/286"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students find collaboration with peers beneficial for learning, some feel they grasp concepts better when explained by a peer, and many express that teachers should offer more group work. [→ Viki M. Young 2026](#viki-m-young-2026)

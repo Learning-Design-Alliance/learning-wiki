@@ -47,6 +47,7 @@ The article proposes that instructors can use the identified interaction pattern
 
 - [Use interaction-pattern knowledge to guide adaptive recommendations in LMS environments.](interaction-patterns-guide-adaptive-recommendations.md)
 - [Use cluster-derived usage patterns to drive machine-learning recommender systems and educator/learner dashboards for individualized support](learning-analytics-recommenders-dashboards-udl.md)
+- [Use cluster analysis of student profiles to tailor teaching and enable early identification and support of at-risk students](cluster-profile-tailoring-early-intervention-strategy.md)
 
 ## Examples
 -

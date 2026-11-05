@@ -32,7 +32,8 @@ This framework holds that evaluating remedial interventions solely by group-leve
 - [Latent profile analysis of German third graders' reading measures identifies four profiles consistent with the simple view of reading: poor decoders, poor comprehenders, poor readers, and good readers](../claims/four-svr-reading-profiles-third-graders.md) [+M]
 
 ## Related Research Methods
--
+
+- [Person-centered (cluster) analysis](person-centered-cluster-analysis.md)
 
 ## Key Sources
 - Mary Beth Calhoon, Hollis S. Scarborough, Brett Miller. (2013). Interventions for struggling adolescent and adult readers: instructional, learner, and situational differences. Read Writ 26:489–494. https://doi.org/10.1007/s11145-013-9442-7

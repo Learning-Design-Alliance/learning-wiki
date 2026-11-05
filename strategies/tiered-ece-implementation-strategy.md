@@ -93,6 +93,8 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Use blended learning—combining lectures, digital modules, and limited in-person simulation—as a scalable compromise for communication training](blended-learning-scalable-communication-training.md)
 - [Adopt hybrid CBL-SST-simulator teaching for preclinical clinical-reasoning and communication goals while retaining LBL for foundational knowledge](hybrid-cbl-sst-adoption-strategy-preclinical-dental.md)
 - [Embed trauma-informed care instruction before procedural simulation rather than after](tic-instruction-before-procedural-practice-strategy.md)
+- [Scaffolded progression to independent clinical practice: graded movement from observation to assisted practice to supervised independent care](scaffolded-progression-independent-clinical-practice.md)
+- [Staged, vertically integrated EBM curriculum mapped to the five EBM steps, with low-cost case-triggered activities for resource-constrained settings](staged-vertically-integrated-ebm-curriculum-strategy.md)
 
 ## Examples
 -

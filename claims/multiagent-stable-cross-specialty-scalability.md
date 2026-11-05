@@ -71,3 +71,4 @@ Coefficient of variation analysis compared stability across departments. The "GP
 - [Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested](within-judge-stability-llm-rubric.md) — related
 - [Inter-run reliability of LLM performance on the EBHS examination was consistently high, with an overall mean Cohen's κ of 0.821 and no model falling below moderate agreement.](llm-ebhs-inter-run-reliability-high-kappa-0821.md) — related
 - [Qwen3-32B–based framework achieved the highest role-playing competency score of 39.67](qwen3-32b-highest-role-playing-score-39-67.md) — related
+- [Published evidence suggests LLM scoring can outperform standardized patient scoring on rubric-scored written notes, but generalizability remains open](llm-scoring-lower-incorrect-rate-than-sp.md) — related

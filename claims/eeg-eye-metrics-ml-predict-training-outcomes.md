@@ -48,3 +48,4 @@ The review reports, citing Wu et al, that cognitive and behavioral metrics captu
 ## Related Claims
 - Most included studies were conducted in simulation (n=48) rather than live surgery (n=32), and metrics such as eye-tracking and EEG were disproportionately used in simulation — related
 - [Machine learning models classify the three learning stages from EEG features with over 80% test accuracy, SVM highest at 82.6%](eeg-stage-classification-over-80.md) — related
+- [AOI-dependent eye-tracking and motion metrics classify novices into High and Mid-Low skill levels during early-stage peg transfer training](aoi-metrics-classify-novice-skill-levels-early-training.md) — a narrower finding that bears on this claim

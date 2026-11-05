@@ -47,6 +47,7 @@ The article suggests that because the AI-generated feedback "is derived from the
 ## Related Strategies
 
 - [Use speech-enabled GenAI standardized patients as a low-stakes practice venue for customer discovery interviews](genai-sp-low-stakes-customer-discovery-practice-strategy.md)
+- [Revise virtual patient speech recognition via extended AI integration before further comparative evaluations](revise-vr-speech-recognition-ai-integration.md)
 
 ## Examples
 -

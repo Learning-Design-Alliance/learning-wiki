@@ -9,7 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-10-25
+source_checked: 2026-11-05
 sources:
   - id: hart-2015
     resource: "https://doi.org/10.1037/edu0000045"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2015 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The second largest class (n = 149) had average numerosity, low math achievement, and the highest math anxiety (0.57 SD above average). [→ Hart 2015](#hart-2015)

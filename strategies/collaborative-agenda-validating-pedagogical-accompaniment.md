@@ -48,6 +48,7 @@ The authors call for a coordinated agenda to move the framework beyond explorato
 - [Use shared frameworks, cross-district collaboration, and state-level policy alignment to scale AI-enabled edtech](shared-frameworks-cross-district-ai-edtech-scaling.md)
 - [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
 - [Define a shared empirical research agenda grounding K-12 AI education designs](k12-ai-education-research-agenda.md)
+- [Shared deidentified registry and cross-border data governance for benchmarking AI-augmented OSCEs](shared-deidentified-osce-registry.md)
 
 ## Examples
 -

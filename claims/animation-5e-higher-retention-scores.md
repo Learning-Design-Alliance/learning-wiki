@@ -53,3 +53,4 @@ Retention test applied to both groups five weeks after the post-test in the quas
 - [MIT-based teaching produced significantly higher permanence-test scores three weeks after instruction than conventional teaching](mit-teaching-higher-permanence-scores-visual-arts.md) — related
 - [The experimental group showed no significant score decline between post-test and four-week retention test, while the control group declined significantly](smart-board-group-retention-stable-control-declined.md) — related
 - [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](active-learning-permanence-effect-my-town-unit.md) — related
+- [Collaborative learning produces higher 4-week retention of enteral nutrition knowledge than individual practice](collaborative-learning-higher-retention-knowledge-enteral-nutrition.md) — related

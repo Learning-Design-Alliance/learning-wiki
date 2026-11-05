@@ -55,3 +55,4 @@ Qualitative thematic analysis (Braun and Clarke six-phase approach, NVivo-suppor
 - [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [GenAI-era ICT assessment reform requires a whole-of-institution transformation across seven sequential themes](genai-assessment-reform-sequential-seven-themes.md) — related
 - [All 23 experimental group students demonstrated the desire and ability to realize innovative approaches](experimental-group-innovative-approaches.md) — related
+- [Qualitative analysis found Web 2.0 tool adoption intertwined with shifting power dynamics, pedagogical vulnerability, emotional labour of inclusion, and institutional resistance](web20-adoption-qualitative-themes.md) — related

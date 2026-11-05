@@ -53,3 +53,4 @@ A multi-dimensional evaluation system assessed three-dimensional teaching object
 - [Gain scores were significantly larger in the BOPPPS-CBL group than the LBL group (Cohen's d = 1.77)](boppps-cbl-larger-gain-scores.md) — related
 - [Blended BOPPPS teaching is associated with favorable subjective outcomes including autonomous learning, teamwork, and problem-solving ability](blended-boppps-favorable-subjective-outcomes.md) — related
 - [The modified BOPPPS model showed no significant post-course difference in basic theoretical knowledge (P = 0.263) but a statistically significant greater score improvement (P = 0.049)](modified-boppps-theoretical-knowledge-null-postcourse-gain.md) — related
+- [Nurses report very high satisfaction with the BOPPPS-plus-simulation training course, with objectives and assessment criteria rated lowest](high-satisfaction-boppps-simulation-training.md) — related

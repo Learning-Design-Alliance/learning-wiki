@@ -95,3 +95,5 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Student perceptions of the GPT companion do not differ significantly by gender, academic background, or GPA](no-perception-differences-gender-stream-gpa-gpt-companion.md) — related
 - [Age and gender did not significantly predict academic self-efficacy in the structural model](age-gender-null-predictors-ase.md) — reports the opposite
 - [No statistically significant post-test gender differences emerged on any psychological variable, with only small tendencies favoring females on some measures](no-posttest-gender-differences-psychological-variables.md) — reports the opposite
+- [Males scored significantly lower than females on skills scores one year after implementation, independent of other factors](males-lower-one-year-skill-scores.md) — related
+- [In AI-mediated active learning, female EFL students show higher engagement and greater improvement than male students](ai-active-learning-gender-engagement-females.md) — related

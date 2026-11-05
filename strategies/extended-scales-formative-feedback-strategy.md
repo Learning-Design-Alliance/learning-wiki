@@ -45,7 +45,8 @@ The article recommends reserving extended, task-specific rating scales for forma
 - [Rating-scale format differences in ultrasound OSCE scores are concentrated in anatomically complex stations (retroperitoneum, hepatic veins), with series interaction non-significant](../claims/scale-difference-station-specific-ultrasound-osce.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Provide immediate formative feedback from faculty and embedded participants after each OSCE station](immediate-formative-feedback-after-each-osce-station.md)
 
 ## Examples
 -

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: strong
 newest_evidence: 2017
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: le-thi-2017
     resource: "http://dx.doi.org/10.18806/tesl.v34i3.1276"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Both experimental groups (sentence-context and no-context) significantly outperformed the control group on cloze and translation posttests and delayed posttests, with large effect sizes (partial eta squared .443–.679). [→ Le-Thi 2017](#le-thi-2017)

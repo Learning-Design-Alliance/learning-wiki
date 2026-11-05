@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 239 claims (122 for, 98 mixed, 19 against) · 132 studies (37 causal, 36 review, 18 design, 16 quant-synthesis, 14 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 26 of 132 report an effect size · 234 claims rest on one study
+> **Evidence** · 241 claims (122 for, 100 mixed, 19 against) · 133 studies (38 causal, 36 review, 18 design, 16 quant-synthesis, 14 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 26 of 133 report an effect size · 236 claims rest on one study
 
 ## Description and scope
 
@@ -167,6 +167,8 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Simulation-based role-play was associated with larger self-reported gains in empathy, understanding emotional responses, and responding to emotional cues than lecture-based training](../claims/simulation-larger-emotional-communication-gains.md) [~W] — attached 2026-11-05 from Alghzawi A et al. (2026), which proposed "Integrate structured role-play and simulation exercises into medical communication curricula alongside didactic teaching"; tests this page's relationship.
 - [Sixth-year simulation students reported higher post-training knowledge, competence, and comfort than fifth-year lecture students](../claims/simulation-cohort-higher-post-training-scores.md) [~W] — attached 2026-11-05 from Alghzawi A et al. (2026), which proposed "Integrate structured role-play and simulation exercises into medical communication curricula alongside didactic teaching"; tests this page's relationship.
 - [Repeated deliberate practice over 20 virtual patient cases improves diagnostic justification, test ordering, cognitive errors, and misdiagnosis rates without plateau](../claims/deliberate-practice-improves-cr-no-plateau.md) [+W] — attached 2026-11-05 from Waechter Jason et al. (2026), which proposed "Start clinical reasoning training with virtual patient deliberate practice at the beginning of first year, before significant medical knowledge is acquired"; tests this page's relationship.
+- [A majority of students (81.4%) preferred the standardized patient unit, most often citing insufficient speech recognition](../claims/students-prefer-standardized-patient-unit.md) [~W] — attached 2026-11-05 from Graf Linda et al. (2026), which proposed "Use VR virtual patients as a low-threshold, standardized preparatory tool before standardized patient encounters".
+- [Log analysis showed only 42.7% of virtual patient answers were correctly allocated, with system errors dominating (75%)](../claims/vr-speech-recognition-error-analysis.md) [~W] — attached 2026-11-05 from Graf Linda et al. (2026), which proposed "Use VR virtual patients as a low-threshold, standardized preparatory tool before standardized patient encounters".
 
 ## Illustrative design instance and observation record
 
@@ -288,6 +290,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Use LLM-based virtual patient simulations to provide on-demand, repeated standardized interview practice for rater training and calibration](../strategies/virtual-patient-rater-training-strategy.md)
 - [Use student standardized patients with role rotation and multi-source debriefing in scenario-based skills training](../strategies/ssp-role-rotation-debriefing-strategy.md)
 - [Structure AI virtual patient sessions with pre-briefing, a structured diagnostic guide, and case-specific debriefing](../strategies/pre-briefing-debriefing-ai-virtual-patient-session.md)
+- [Avatar-based ad hoc entrustment simulation with 36 clinical scenarios and FACSGen-animated expressions](../designs/avatar-entrustment-simulation-paradigm.md)
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)

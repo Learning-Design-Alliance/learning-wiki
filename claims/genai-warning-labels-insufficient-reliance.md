@@ -75,3 +75,4 @@ The review reports these reliance findings as consistent with automation-bias re
 - [Providing LLM pre-labels can decrease human annotation accuracy when the model is incorrect, due to automation bias](llm-prelabels-decrease-human-accuracy.md) — related
 - [Warning-only LA feedback can increase mental load, whereas pairing warnings with encouragement leads to higher emotional and cognitive engagement](la-feedback-warnings-encouragement-cognitive-load.md) — related
 - [Teacher-created video mistake messages were not harmful but produced no significant learning differences compared with answer-only feedback (n = 649)](teacher-video-mistake-messages-null.md) — related
+- [Students rarely cross-check ChatGPT outputs, and use it most on topics where they have least knowledge, increasing risk of absorbing errors](students-rarely-cross-check-chatgpt-errors.md) — related

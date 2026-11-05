@@ -48,3 +48,4 @@ Self-developed questionnaire (20 closed items, 4 open) administered to certified
 - [Certified preceptors' open-ended feedback most frequently cited standardized teaching processes (49.0%), knowledge consolidation (46.2%), and professional recognition (37.2%), with 62.8% calling for stronger pre-assessment training](open-ended-feedback-standardization-and-training-needs.md) — related
 - [94.5% of surveyed nursing interns were relatively satisfied with teaching quality and 95.5% with their preceptors after certification implementation](intern-satisfaction-94-5-teaching-quality.md) — related
 - [The finalized 72-item scale shows excellent internal consistency and factorability (Cronbach's α = 0.928, KMO = 0.884)](scale-excellent-internal-consistency-0928.md) — related
+- [PA-PBL participants rated all four feedback questionnaire domains above 4.7 on a 5-point scale](pa-pbl-high-satisfaction-reaction-level.md) — related

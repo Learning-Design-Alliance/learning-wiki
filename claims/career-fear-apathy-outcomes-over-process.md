@@ -52,3 +52,4 @@ Results on fear and apathy: the interview study reports "students frequently exp
 - [AI availability led some students to question the long-term value of programming skills, while others saw programming as equally or more valuable](ai-availability-questions-programming-skill-utility.md) — possibly the same claim (merge candidate)
 - [Students adopted nondeterministic (SCOT-like) views in which humans influence technological change, supporting agency](students-scot-views-human-steering-technology.md) — related
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related
+- [Students express high acceptance of AI integration (79.7% positive views; 86% intended continued use) alongside critical awareness](tam-acceptance-ethical-ai-efl.md) — related

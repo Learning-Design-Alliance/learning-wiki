@@ -58,3 +58,5 @@ The scoping review's thematic synthesis of empirical studies (RQ3) reports this 
 - [Lower academic achievement is associated with higher odds of mental distress among Ethiopian university students](mental-distress-associated-lower-gpa-ethiopia.md) — related
 - [Stress shows inconsistent relationships with academic performance in rehabilitation science students](stress-inconsistent-relationship-academic-performance.md) — related
 - [Academic stress negatively predicts academic achievement among medical master's students](academic-stress-negative-predictor-medical-postgraduates.md) — related
+- [Depression predicts increased assessment dishonesty, amplified among students with high non-academic screen time](depression-predicts-assessment-dishonesty-screen-time-moderation.md) — a narrower finding that bears on this claim
+- [Higher social media use and screen time are significantly associated with poorer mental health among tertiary students in Ghana](social-media-screen-time-poorer-mental-health-ghana-tertiary.md) — related

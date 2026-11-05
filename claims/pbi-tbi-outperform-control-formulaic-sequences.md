@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: ha-2017
     resource: "https://doi.org/10.5539/elt.v10n8p18"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both treatment groups (PBI and TBI) obtained better scores than the control group, which received conventional instruction on the same target items (matching, multiple-choice and sentence-making exercises), on post-tests of formulaic sequences, with advantages most prevalent on the delayed test. [→ Ha 2017](#ha-2017)

@@ -48,3 +48,4 @@ Descriptive results of terminatory questionnaire (T2) among 72 students (Table 5
 - [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — related
 - [Working with a GPT-4-based virtual patient e-learning tool improved dental students' self-perceived confidence to perform endodontic diagnostics independently](ai-virtual-patient-improved-endodontic-diagnostic-confidence.md) — related
 - [No published investigations specifically address the use of coaching in endodontics, and no recommended models exist](no-published-coaching-research-endodontics.md) — related
+- [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related

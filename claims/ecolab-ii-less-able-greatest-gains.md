@@ -9,7 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-10-30
+source_checked: 2026-11-05
 sources:
   - id: rosemary-luckin-benedict-du-boulay-2016
     resource: "https://doi.org/10.1007/s40593-015-0072-x"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a retrospective account of the Ecolab work, the authors report that in the Ecolab II results, unlike the original Ecolab evaluation, less able learners made the greatest learning gains, and read this as suggesting that less able learners respond well to interactive systems offering appropriately challenging tasks and effective support; the statement is not tied to the metacognitive-scaffolding condition, and no effect size is given. [→ Rosemary Luckin & Benedict du Boulay 2016](#rosemary-luckin-benedict-du-boulay-2016)

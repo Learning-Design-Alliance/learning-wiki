@@ -50,3 +50,4 @@ Bootstrapped mediation analysis (5,000 bias-corrected resamples) within a struct
 - [Self-directed learning ability and autonomous motivation each significantly and partially mediate the effect of flipped classroom on physical activity.](sdl-and-am-partially-mediate-fc-pa.md) — related
 - [AI acceptance partially mediates the relationship between self-directed learning ability and perceived clinical competence](ai-acceptance-partially-mediates-sdl-clinical-competence.md) — related
 - [The mediation model accounts for 51.0% of the variance in perceived clinical competence](model-explains-51-percent-variance-clinical-competence.md) — related
+- [Deep learning partially mediates the relationship between online real-time teaching interaction and teaching effect (indirect effect 0.165, 36.344% of total effect)](deep-learning-partially-mediation-interaction-teaching-effect.md) — related

@@ -68,3 +68,4 @@ Per-station analysis across the OSCE stations showed the extended scale's Cronba
 - [The generic rating scale attributes significantly lower performance scores than the extended scale in abdominal ultrasound OSCEs](generic-scale-lower-scores-ultrasound-osce.md) — related
 - [Rating-scale format differences in ultrasound OSCE scores are concentrated in anatomically complex stations (retroperitoneum, hepatic veins), with series interaction non-significant](scale-difference-station-specific-ultrasound-osce.md) — related
 - [The generic scale shows higher generalisability than the extended scale, indicating greater performance-related variance](generic-scale-higher-phi-ultrasound-osce.md) — related
+- [The four quantitative measures of the resection task showed good internal consistency (Cronbach's alpha 0.803)](cronbach-alpha-0803-four-measures.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: kim-et-al-2019
     resource: "https://doi.org/10.1177/2332858419872701"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
-> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In the intent-to-treat comparison (all 273 students, including responders who never received the added supports), students assigned to Gamification + Texting scored marginally higher on the fall MAP (ES = 0.10, p = 0.09) and significantly higher on the MAP informational-text craft-and-structure subscore (ES = 0.27, p = 0.02) than Gamification Only students; DIBELS, TRC and the key-ideas subscore did not differ significantly. [→ Kim et al. 2019](#kim-et-al-2019)

@@ -10,7 +10,7 @@ generated:
   at: 2026-10-13
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-10-28
+source_checked: 2026-11-05
 sources:
   - id: wisniewski-b-2020
     title: Wisniewski B 2020
@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r2`, 1 theoretical `r2` · `q3`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-28 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

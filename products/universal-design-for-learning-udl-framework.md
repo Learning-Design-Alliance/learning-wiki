@@ -19,7 +19,7 @@ sources:
 # Universal Design for Learning (UDL) framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (1 causal, 1 qualitative), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 3 studies (2 causal, 1 qualitative), `q2` · 0 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 CAST's framework for designing flexible instruction around learner variability through multiple means of Engagement, Representation, and Action & Expression.
@@ -30,6 +30,7 @@ CAST's framework for designing flexible instruction around learner variability t
 - **Universal Design for Learning as a design lens grounded in learner variability**: The statement grounds LUDIA in CAST's Universal Design for Learning framework, which supports educators in designing learning experiences and environments for the full range of learners, "anticipating and embracing variability from the start, rather than focusing on perceived deficits in learners". CAST states the premise as "there is no average brain. Variability is the dominant feature of the nervous system" and describes three principles — Engagement, Representation, and Action and Expression — as aligning to affective, recognition, and strategic networks, a framing CAST itself calls a simplified model useful for thinking about design rather than a claim about how the brain works. The Guidelines are a lens for finding barriers in existing designs, not a prescription or checklist, and Guidelines 3.0 positions UDL alongside asset-based approaches such as Funds of Knowledge and Disability Studies. (Stark et al. (2026))
 - **Universal Design for Learning: three pillars of multiple means of engagement, representation, and action and expression**: Universal Design for Learning (UDL) is an inclusive pedagogy, inspired by universal design in architecture, that seeks to design learning environments accessible to as many learners as possible. Following its three pillars, "teachers should aim to provide: multiple means of engagement, or motivation, with course material; multiple means of representation... and, multiple means of action and expression, or diverse assessment methods". The study uses UDL as the framework against which faculty awareness and implementation of twenty techniques is assessed. (Gurher Sidhu et al. (2025))
 - **Universal Design for Learning: three principles grounded in cognitive neuroscience**: UDL is defined by the article as composed of three principles: "multiple means of representation", "multiple means of student action and expression", and "multiple means of student engagement". The framework holds that these principles map onto three groups of neural networks — recognition, strategic, and affective — whose interaction creates a model of cognition during learning episodes. The article distinguishes UDL from other universal design adaptations by its cognitive neuroscience foundation and its codification in federal law, and uses it as the training content and measurement frame for the intervention study. (Davies et al. (2013))
+- **Universal Design for Learning as a three-principle framework for flexible, accessible learning design**: The article uses the UDL model as the organising framework for its faculty development programme, describing it as "a systematic and evidence-based approach to designing learning materials, instructional methods, and assessment processes". UDL is structured around three principles — Engagement, Representation, and Action & Expression — each mapped in the study's design to a dominant brain region and to specific Web 2.0 tools (e.g. Wooclap and Padlet for Engagement; Thinglink, Mindmeister, Mindomo and Edpuzzle for Representation). The framework is intended to help students answer three questions: why, what, and how they are learning. (E. Ergonul et al. (2026))
 
 ### Claims
 - [Most Equatio-using teachers were not using the tool to support UDL-based practices, with only about 22% reporting use of a given UDL affordance on average](../claims/equatio-udl-practice-low-baseline-usage.md) [+M]
@@ -37,6 +38,7 @@ CAST's framework for designing flexible instruction around learner variability t
 - [Teachers described Equatio as a time-saver for creating instructional materials, with 42% of survey respondents strongly agreeing it saves them time](../claims/equatio-time-saver-workflow.md) [+W]
 - [Mathspace dynamic representations, such as fraction smart shapes, let students see how changing the number of equal parts alters part size while the whole stays the same](../claims/mathspace-dynamic-representations-fractions.md) [+W]
 - [UDL instructor training significantly increased students' reported observation of representation-related UDL strategies in intervention sections but not control sections](../claims/udl-training-increases-representation-strategies.md) [+M]
+- [A UDL-based faculty development programme significantly increased medical educators' adoption of all three UDL principles from zero prior use](../claims/udl-training-increases-principle-adoption-medical-faculty.md) [+M]
 
 ## Related Products and Programmes
 
@@ -49,6 +51,7 @@ CAST's framework for designing flexible instruction around learner variability t
 - Gurher Sidhu, Fatima Atif, Franz Newland. (2025). "AI is reducing options I had used": exploring faculty perceptions of accessible course design in a ChatGPT world. York University. https://www.yorku.ca
 - Marvin Roski, Ratan Sebastian, Ralph Ewerth, Anett Hoppe, Andreas Nehring. (2024). Learning analytics and the Universal Design for Learning (UDL): A clustering approach. Computers & Education 214 (2024) 105028. https://doi.org/10.1016/j.compedu.2024.105028
 - Davies, P. L., Schelly, C. L., & Spooner, C. L. (2013). Measuring the Effectiveness of Universal Design for Learning Intervention in Postsecondary Education. Journal of Postsecondary Education and Disability, 26(3), 195-220. http://accessproject.colostate.edu/udl
+- E. Ergonul and S. Buyukcoban. (2026). Fostering interactive medical education: integrating Web 2.0 tools through a universal design for learning framework. Medical Education Online. https://doi.org/10.1080/10872981.2026.2639193
 
 # Universal Design for Learning framework: three principles for supporting learner variability
 

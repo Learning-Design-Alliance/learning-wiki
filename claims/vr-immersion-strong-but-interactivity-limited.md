@@ -1,0 +1,52 @@
+---
+type: claim
+title: Medical students experienced strong immersion in VR simulation due to realistic environments, but reduced interactivity constrained authenticity
+description: Medical students experienced strong immersion in VR simulation due to realistic environments, but reduced interactivity constrained authenticity
+id: vr-immersion-strong-but-interactivity-limited
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-05
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: chartash-david-2026
+    resource: "https://doi.org/10.2196/74301"
+    title: "Chartash David, Jones Geraint, Mergen Marvin, Sanverdi Mustafa, Sharma Vanshika, Park Sohee, Voinescu Alexandra, Jacobs Chris. (2026). Medical Students’ Experiences With Virtual Reality Simulation Training: Qualitative Study. JMIR Medical Education. https://doi.org/10.2196/74301"
+    author: Chartash David, Jones Geraint, Mergen Marvin, Sanverdi Mustafa, Sharma Vanshika, Park Sohee, Voinescu Alexandra, Jacobs Chris
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 2
+---
+
+# Medical students experienced strong immersion in VR simulation due to realistic environments, but reduced interactivity constrained authenticity
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Participants reported realistic clinical environments and step-by-step procedural replication in VR, while noting limited tactile realism and limited patient interaction reduced authenticity. [→ Chartash David 2026](#chartash-david-2026)
+
+## Evidence
+
+### Chartash David 2026
+
+Chartash David, Jones Geraint, Mergen Marvin, Sanverdi Mustafa, Sharma Vanshika, Park Sohee, Voinescu Alexandra, Jacobs Chris. (2026). Medical Students’ Experiences With Virtual Reality Simulation Training: Qualitative Study. JMIR Medical Education. https://doi.org/10.2196/74301
+
+`q2 · i?` · `qualitative · r2`
+
+Thematic analysis of 11 interview transcripts under the ITEM immersion domain. Participants praised realistic environments, heart sounds, and manual replication, but reported limited tactile realism and restricted patient communication options; "realistic clinical environments they encountered through the sensory inputs."
+
+> "Participants frequently highlighted the realistic clinical environments they encountered through the sensory inputs in the VR training."
+
+## Discussion
+
+
+## Related Claims
+- [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
+- [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — reports the opposite
+- [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
+- [House officers attribute the effectiveness of psychiatric emergency simulation to realistic immersive scenarios, equipment practice, and peer learning in a safe environment](qualitative-realism-immersion-peer-learning-feedback.md) — related
+- [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](ccs-perceived-strengths-realism-reasoning-communication.md) — related

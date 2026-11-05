@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: aracı-2023
     resource: "https://eric.ed.gov/?id=EJ1386167"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2023 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` One-way ANOVA showed significant differences between pretest and both posttest and follow-up scores, with no significant difference between posttest and follow-up. [→ Aracı 2023](#arac-2023)
@@ -53,3 +53,4 @@ One-way repeated-measures ANOVA on the experimental group's (n = 13) pretest, po
 - [Students with SLD taught with the keyword strategy reach science concept performance similar to typically developing peers](keyword-strategy-sld-peer-level-performance.md) — related
 - [Within the experimental group, self-efficacy rose significantly from pretest to posttest and follow-up, with no significant drop from posttest to follow-up](experimental-group-within-group-self-efficacy-gain.md) — related
 - [Cohort 2022 showed significant gains from pre-test (4.3 ± 1.6) to post-test (7.6 ± 2.2) with retention at post-post-test (6.3 ± 2.4), and an 11.7% numerical decrease after the post-test that was not statistically significant](xr-cbl-cohort-2022-gains-retention.md) — related
+- [Post-game engagement in follow-up activities did not affect retention of quiz gains among follow-up respondents.](venomventure-postgame-engagement-null.md) — related

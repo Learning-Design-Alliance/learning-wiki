@@ -9,7 +9,6 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-09
 sources:
   - id: launch-1
     title: launch-1
@@ -23,7 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Beginning RPP activities by collecting student data and disaggregating it by student group highlighted equity issues without assigning blame. [→ launch-1](#launch-1)

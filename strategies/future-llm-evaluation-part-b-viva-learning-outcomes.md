@@ -54,6 +54,7 @@ The article sets a forward research agenda for AI in surgical education: perform
 - [Use LLMs in supervised settings to generate formative question variants and structured self-assessments for surgical trainees, while guarding against knowledge miscalibration.](supervised-llm-formative-question-generation-surgical-training.md)
 - [Research agenda: standardize reporting, run comparative efficacy studies, and track longitudinal transfer to clinical practice](competency-simulation-research-agenda-reporting-transfer.md)
 - [Prioritize multicenter, randomized designs with standardized reporting and longitudinal follow-up in future surgical education research](prioritize-multicenter-randomized-standardized-reporting-research.md)
+- [Shared deidentified registry and cross-border data governance for benchmarking AI-augmented OSCEs](shared-deidentified-osce-registry.md)
 
 ## Examples
 -

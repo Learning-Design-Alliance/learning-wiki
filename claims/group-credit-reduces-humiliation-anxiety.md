@@ -52,3 +52,4 @@ Semi-structured interviews with nine students selected by anxiety level, conduct
 - [Students perceive discussion boards as lowering anxiety about expressing opinions in a second language](discussion-board-lowers-l2-writing-anxiety.md) — related
 - [The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment](nonjudgmental-ai-tone-risk-taking.md) — related
 - [In compulsory secondary education PE, anger and fear predominated, driven mainly by physical fitness testing, grading pressures and “exposed body” experiences](anger-fear-predominant-cse-pe.md) — related
+- [Power asymmetry between feedback giver and receiver reduces trust and increases resistance to feedback among faculty](power-asymmetry-reduces-feedback-trust.md) — related

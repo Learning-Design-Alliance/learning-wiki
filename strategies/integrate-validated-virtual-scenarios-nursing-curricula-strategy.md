@@ -46,7 +46,9 @@ The article recommends incorporating validated virtual simulation scenarios into
 - [In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73](../claims/virtual-simulation-scenario-standard-precautions-cvi-above-080.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Integrate frequent in situ self-regulated simulation training with in-facility champions into routine health systems as continuous quality improvement](in-situ-self-regulated-simulation-cqi-strategy.md)
+- [Incorporate simulation training into continuing professional development, differentiating communication approaches for doctors and nurses](simulation-als-continuing-professional-development-strategy.md)
 
 ## Examples
 -

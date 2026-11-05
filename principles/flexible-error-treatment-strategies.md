@@ -31,7 +31,7 @@ sources:
 # Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (23 for, 23 mixed, 1 against) · 35 studies (16 causal, 8 review, 4 quant-synthesis, 3 theoretical, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 5 of 35 report an effect size · 43 claims rest on one study
+> **Evidence** · 48 claims (24 for, 23 mixed, 1 against) · 36 studies (17 causal, 8 review, 4 quant-synthesis, 3 theoretical, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 6 of 36 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ Claims bearing on the page that have not been read against the model above; each
 - [Focused written corrective feedback showed positive effect sizes in all cases, while comprehensive feedback showed negative effects for direct CF and mixed results for indirect CF](../claims/focused-feedback-positive-comprehensive-negative.md) [+W] — attached 2026-11-02 from Albatool Abalkheel et al. (2020), which proposed "Select a limited number of error types for written corrective feedback rather than addressing all errors in a composition"; tests this page's relationship.
 - [In the Sheen et al. (2009) study, focused direct CF produced a large positive effect while unfocused (comprehensive) direct CF produced a large negative effect](../claims/sheen-focused-versus-unfocused-dcf-mixed.md) [+W] — attached 2026-11-02 from Albatool Abalkheel et al. (2020), which proposed "Select a limited number of error types for written corrective feedback rather than addressing all errors in a composition"; tests this page's relationship.
 - [The authors interpret corrective feedback, rather than output production alone, as the factor most responsible for the experimental group's improved receptive vocabulary performance](../claims/feedback-more-responsible-than-output-interpretation.md) [+W] — attached 2026-11-03 from Mohammad Nowbakht (2015), which proposed "Give output production and corrective feedback, particularly clarification requests, a special role in vocabulary teaching programs".
+- [Post-test (delayed) task-based feedback raised perceived competence more than immediate feedback and more than performance-based feedback](../claims/post-test-feedback-raises-perceived-competence.md) [+W] — attached 2026-11-05 from Reiser et al. (2026), which proposed "Select feedback designs by aligning enrichment strategy and timing with the specific learning outcomes targeted, since no single feedback version optimally fosters all outcomes".
 
 ## Objective and learner-valued goal
 

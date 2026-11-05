@@ -51,3 +51,4 @@ The article reports, citing comparison research (ref 31), that SNAPPS performed 
 - [SNAPPS training outperforms traditional case presentation on clinical reasoning outcomes in medical residency randomized controlled trials](snapps-outperforms-traditional-presentation-rcts.md) — related
 - [GGR group achieves higher postintervention clinical reasoning scores than SNAPPS with moderate effect size (d=0.43)](ggr-higher-posttest-than-snapps.md) — related
 - [In the only midwifery study, SNAPPS-trained fourth-year midwifery students performed better in history taking, diagnosis, and management planning than teacher-centered education](snapps-midwifery-gynecology-trial.md) — related
+- [Nine of 14 preceptors (64%) had received no formal clinical teaching training despite precepting final-year nursing students](preceptors-lack-formal-teaching-training-pakistan.md) — related

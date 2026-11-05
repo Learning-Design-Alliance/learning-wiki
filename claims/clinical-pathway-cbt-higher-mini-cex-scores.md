@@ -50,3 +50,4 @@ In the same randomized trial, the Mini-CEX (a 20-minute evaluation of comprehens
 - [Integrated online-PBL-CBL teaching improves overall Mini-CEX clinical competence but not its individual sub-dimensions](online-pbl-cbl-minicex-overall-competence-gain.md) — related
 - [No significant difference between PBL-CBL and traditional groups in post-class basic knowledge or skills scores](pbl-cbl-no-difference-basic-knowledge-skills-scores.md) — reports the opposite
 - [Integrated clinical pathway and case-based teaching yields higher post-training theoretical examination scores than traditional teaching in endocrinology residency](clinical-pathway-cbt-higher-theoretical-scores.md) — related
+- [Interns taught with combined sandwich-case teaching scored higher than traditionally taught interns on all seven Mini-CEX dimensions, including clinical judgment and communication skills](sandwich-case-teaching-higher-mini-cex-scores.md) — related

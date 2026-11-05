@@ -50,3 +50,4 @@ In the ANAKIN randomized pretest-posttest control group study (N = 60), confiden
 - [There is not enough evidence that e-learning interventions prevent neonatal resuscitation knowledge and performance decay in already-certified providers](insufficient-evidence-elearning-prevents-nrp-decay.md) — related
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
 - [Participants' self-assessed confidence and performance improved after the curriculum](rcdp-simulation-improves-afio-confidence.md) — related
+- [Rapid cycle deliberate practice improves neonatal resuscitation performance and confidence compared with standard training](rcdp-improves-neonatal-resuscitation-performance.md) — related

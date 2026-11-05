@@ -54,3 +54,4 @@ MANOVA on the five log variables across four clusters; the article reports "73.2
 - [Disciplinary background is strongly associated with ChatGPT acceptance profile membership: STEM teachers concentrate in Technology Pioneers, non-STEM teachers in Environmental Observers and Resistant Skeptics](discipline-associates-with-acceptance-profile.md) — related
 - [Cluster analysis of prompts per scenario-protocol distinguishes four profiles of instructional need: General, Measuring, Accuracy and Organizing](four-profiles-of-instructional-need.md) — related
 - [The four instructional-need profiles differ in observed training behaviors of self-confidence, openness, and concentration and cooperation](profiles-differ-in-observed-behaviors.md) — related
+- [Cluster analysis identified four medical student subgroups with significantly different final exam scores, ranging from 75.1 to 85.8](four-academic-performance-profiles-medical-students.md) — related

@@ -73,3 +73,5 @@ Station-level results show significant advantages for the AI-assisted group on m
 - [Emerging teaching methods (PBL, CBL, FC) significantly improve dental students' exam scores compared to lecture-based learning](emerging-methods-improve-dental-exam-scores.md) — a broader claim this one bears on
 - [Total clinical reasoning OSCE scores rose from pre-test to post-test among emergency medicine clerkship students in a single-group pre-test–post-test study of an online flipped classroom intervention](ofc-improved-clinical-reasoning-osce-emergency-clerkship.md) — related
 - [Virtual standardized patient interview comprehensiveness rose across successive SP consultations in the AI-assisted group, in one uncontrolled pre-post study](virtual-sp-interview-comprehensiveness-increases-sp1-sp3.md) — related
+- [The DwGJ group outperformed the control group on OSCE-based practical skill assessment after the course](dwgj-cbl-higher-osce-skill-scores.md) — related
+- [PBL-trained kidney transplantation trainees achieve higher OSCE scores than traditionally trained trainees across all stations](pbl-higher-osce-scores-kidney-transplant.md) — related

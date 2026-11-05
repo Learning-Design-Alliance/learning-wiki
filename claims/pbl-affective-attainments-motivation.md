@@ -51,3 +51,4 @@ Across interviews with twelve pre-service teachers (six per group), the article 
 - [PBL supports deep, meaningful, and permanent learning while LBCC is associated with superficial learning](pbl-deep-learning-vs-lbcc-superficial.md) — related
 - [Pre-service teachers in PBL groups achieve significantly higher post-test scores than those in lecture-based computer course groups](pbl-higher-achievement-than-lbcc-pre-service-teachers.md) — related
 - [Mind-map task planning raises pre-service teachers' intrinsic goal orientation and self-efficacy more than direct task completion](mind-map-planning-raises-goal-orientation-self-efficacy.md) — related
+- [Self-directed learning in postgraduate PBL develops along a trajectory from initially triggered motivation to sustained reinforcement through reflection](pbl-self-directed-learning-trajectory.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-17
+source_checked: 2026-11-05
 recheck_by: 2029
 sources:
   - id: zhihao-yuan-2026
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` LLM-based simulators exhibit a competence paradox rooted in prior-knowledge entanglement: prompted novices still reason with expert priors, so errors resemble superficial deviations from expert reasoning rather than stable, diagnosis-relevant misconceptions. [→ Zhihao Yuan 2026](#zhihao-yuan-2026)

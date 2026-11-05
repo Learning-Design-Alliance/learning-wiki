@@ -60,3 +60,4 @@ Qualitative trio-ethnography: the student consistently portrayed AI as a learnin
 - [Lower-experience students used GPTs as conceptual tutors while technically stronger students used them as professional collaborators, consistent with adaptive scaffolding](gpt-differentiated-use-by-experience.md) — related
 - [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](pa-scaffolding-hints-not-solutions.md) — related
 - [Students perceived group scaffolding as helpful for initiating solution pathways on non-routine problems](students-perceive-group-scaffolding-initiation-help.md) — related
+- [Tutoring developed tutors' problem-solving, critical thinking, communication and patience skills and shaped career aspirations toward education roles](tutor-skill-development-peer-tutoring-nursing.md) — related

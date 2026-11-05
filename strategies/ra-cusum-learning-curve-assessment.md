@@ -47,6 +47,7 @@ The review recommends using risk-adjusted cumulative sum (RA-CUSUM) analysis to 
 
 - [Incorporate quality control measures with standardized photographic or video-based assessments using predefined anatomic landmarks](quality-control-photographic-video-llnd.md)
 - [Use performance thresholds that meaningfully measure surgeon performance alongside standardized terminology when assessing surgical learning curves](meaningful-thresholds-standardized-terminology-learning-curves.md)
+- [Select early-phase laparoscopic radical prostatectomy patients for smaller prostates and no anticipated lymph node dissection to shorten initial operative times](early-phase-lrp-patient-selection-strategy.md)
 
 ## Examples
 -

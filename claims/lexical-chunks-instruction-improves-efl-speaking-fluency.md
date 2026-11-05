@@ -50,3 +50,4 @@ Between-groups experiment: 60 intermediate learners selected from 140 via QPT, r
 - [The experimental group's speaking fluency scores rose significantly from pre-test to post-test after lexical chunks treatment](experimental-group-pre-post-fluency-gain.md) — related
 - [Lexical bundles instruction significantly improved Iranian EFL learners' paragraph writing production fluency from pretest to posttest](lexical-bundles-instruction-improved-writing-fluency-pre-post.md) — related
 - [Drama-based instruction with modern English drama texts increased EFL students' speaking fluency scores compared with a control group](drama-texts-increase-speaking-fluency.md) — related
+- [AI-mediated active learning advantages in EFL writing emerge after roughly 6-8 weeks of partnership development](cognitive-partnership-6-8-week-maturation.md) — related

@@ -9,7 +9,6 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 1991
-source_checked: 2026-10-20
 sources:
   - id: catherine-doughty-1991
     resource: "https://doi.org/10.1017/S0272263100010287"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
-> **Currency** · newest study 1991 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 1991 · not yet checked against its sources · not reviewed by a person
 > **Design limits** · Catherine Doughty 1991: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims

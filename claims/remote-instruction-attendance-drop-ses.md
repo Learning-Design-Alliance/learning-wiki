@@ -71,3 +71,4 @@ Country-stratified survey analysis: the SES–attendance association was signifi
 - [The proportion of students attending class regularly increased linearly with classroom SES, while irregular attendance decreased](regular-attendance-increases-with-ses.md) — related
 - [Attendance and online platform participation remained predictive of students' course grades during remote learning, with relationships as large or larger than pre-pandemic](attendance-predictive-of-grades-remote-learning.md) — related
 - [More than half of teachers reported students performed below grade expectations during 2020–2021, with drops reported more frequently in lower-SES classrooms](teachers-report-performance-decline-ses-gradient.md) — related
+- [Student attendance is significantly and moderately lower in remote discussion sections than in in-person sections](remote-sections-lower-attendance.md) — a narrower finding that bears on this claim

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2010
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: gilmore-camilla-k-2010
     resource: "https://doi.org/10.1016/j.cognition.2010.02.002"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2010 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Non-symbolic arithmetic performance correlated with verbal number knowledge and Arabic number knowledge (r = .370 and .351; combined r = .391), and the combined correlation survived correction for verbal intelligence and literacy (r = .313). [→ Gilmore Camilla K. 2010](#gilmore-camilla-k-2010)

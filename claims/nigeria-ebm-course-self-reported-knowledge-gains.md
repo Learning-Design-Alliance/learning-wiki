@@ -52,3 +52,5 @@ Pre-post evaluation of a 3-month single-intervention EBM course for 5th-year med
 - [A longitudinal multifaceted EBM curriculum for medical students significantly increased Berlin questionnaire and Fresno test knowledge scores over two and three years](west-longitudinal-ebm-curriculum-knowledge-gains.md) — related
 - [EBP attitude change depends on measurement timing: immediate post-test measures show no difference while longer-term measures show improvement](ebp-attitude-change-timing-longer-term.md) — related
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
+- [Palestinian medical students understand basic EBM terms better than advanced appraisal-related terms, and prior EBM training is associated with higher knowledge of most terms](ebm-terminology-gradient-basic-advanced-palestinian-students.md) — related
+- [Prior EBM training is associated with higher self-rated EBM skills across all skill domains among Palestinian medical students](ebm-training-higher-self-rated-skills-palestinian-students.md) — related

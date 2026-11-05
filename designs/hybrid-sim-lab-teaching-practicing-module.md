@@ -47,7 +47,8 @@ An online course delivery system for preclinical ultrasonic supragingival scalin
 - [Remote Guidance Improving Practical Skills High Ratings](../claims/remote-guidance-improving-practical-skills-high-ratings.md) [+M]
 
 ## Related Designs
-- 
+
+- [Five-component blended teaching-practicing module for SRP instruction](five-component-srp-teaching-practicing-module.md)
 
 ## Examples
 -

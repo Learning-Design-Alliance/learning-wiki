@@ -54,3 +54,4 @@ Meta-analysis of 39 studies of LLMs answering dental examination questions, usin
 - [Bard achieves an integrated accuracy of 56% on dental licensing examinations](bard-integrated-accuracy-56-percent-dental-licensing.md) — a narrower finding that bears on this claim
 - [ChatGPT accuracy on health licensing examinations is highest in pharmacy and lowest in nursing](chatgpt-accuracy-field-order-pharmacy-nursing.md) — related
 - [ChatGPT models achieve a pooled accuracy of 70.1% on national health licensing examinations](chatgpt-pooled-accuracy-70-percent-licensing-exams.md) — related
+- [LLM accuracy varied by subject area, with oral pathology (94%) and salivary gland diseases (91.8%) highest and radiological anatomy (67.3%) lowest; only Copilot showed a statistically significant across-subject difference](subject-area-accuracy-variation-dus-llms.md) — related

@@ -60,3 +60,4 @@ The review's synthesis of the literature identifies leadership as central to dig
 - [Leadership and teaching quality monitoring are positively related to faculty's behavioral intention for online teaching, while strategic planning is not](leadership-tqm-behavioral-intention.md)
 - [Digital instructional leadership is positively associated with comprehensive AI integration in schools](digital-instructional-leadership-ai-integration.md) — a narrower finding that bears on this claim
 - [Transformational leadership is positively associated with comprehensive AI integration in schools](transformational-leadership-ai-integration-schools.md) — a narrower finding that bears on this claim
+- [In a postgraduate PBL course the teacher functions as a positive enabler through facilitation, emotional support, and professional role modeling](pbl-teacher-as-positive-enabler.md) — a narrower finding that bears on this claim

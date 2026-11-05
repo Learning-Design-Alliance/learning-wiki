@@ -54,6 +54,8 @@ The article recommends a structured, stepwise progression integrating theoretica
 - [Integrate dedicated surgical care practitioners into robotic programmes to free trainees from the bedside assistant role and facilitate their transition to the console](scp-bedside-assistant-integration-robotic-training.md)
 - [Promote learner responsibility and supervised independence to optimise the concrete experience](learner-responsibility-bedside-concrete-experience.md)
 - [Adopt a measurable competency framework with OSATS-based assessment, supervised cases, re-certification and audit before implementation](neurosave-competency-framework-strategy.md)
+- [Adopt PBP training in high-volume national surgical training programmes](pbp-for-high-volume-national-programmes.md)
+- [Scaffolded progression to independent clinical practice: graded movement from observation to assisted practice to supervised independent care](scaffolded-progression-independent-clinical-practice.md)
 
 ## Examples
 -

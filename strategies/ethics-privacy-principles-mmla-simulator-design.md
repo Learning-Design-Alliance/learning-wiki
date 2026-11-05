@@ -49,6 +49,7 @@ The article states that any LA system can have considerable socioeconomic impact
 - [Combine system logs, eye-tracking, and speech recognition to capture professional performance, communication, and collaboration for automated feedback in full-mission simulator training](mmla-sensor-set-simulator-feedback.md)
 - [Build students' understanding of the purposes and benefits of sharing data before implementing learning analytics](build-student-understanding-of-data-sharing.md)
 - [Map identified procedural-training gaps to targeted simulation design features, including timed scenarios, embedded consent tasks, ethical scenarios, modular practice, feedback loops, and milestone-based benchmarks](simulation-design-features-mapped-to-cvc-training-gaps.md)
+- [Six APA-informed ethical considerations for integrating AI into systemic practice](apa-informed-ethical-considerations-ai-integration.md)
 
 ## Examples
 -

@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 181 claims (73 for, 93 mixed, 15 against) · 100 studies (32 causal, 32 quant-synthesis, 12 review, 8 design, 7 theoretical, 6 qualitative, 3 associational), `q1`–`q4` · 25 of 100 report an effect size · 176 claims rest on one study
+> **Evidence** · 182 claims (74 for, 93 mixed, 15 against) · 101 studies (32 causal, 32 quant-synthesis, 12 review, 8 design, 7 qualitative, 7 theoretical, 3 associational), `q1`–`q4` · 25 of 101 report an effect size · 177 claims rest on one study
 
 ## Description and scope
 
@@ -153,6 +153,7 @@ The twelve claims listed here before that wave were read against the model on 20
 - [PBL supports deep, meaningful, and permanent learning while LBCC is associated with superficial learning](../claims/pbl-deep-learning-vs-lbcc-superficial.md) [+W] — attached 2026-11-03 from Akın Efendioglu (2015), which proposed "Use PBL instead of lecture-based instruction in computer courses for pre-service teachers to promote active participation and meaningful learning"; tests this page's relationship.
 - [Non-linear PBL grades comparable to essays and oral presentations but lower than online quizzes](../claims/non-linear-pbl-grades-comparable-to-essays-and-oral-presentations.md) [~M] — attached 2026-11-04 from Francis WR et al. (2026), which proposed "Individualized PBL assessments address grading and communication challenges of group-based PBL".
 - [Students valued teacher guidance (90%) and recommended continuation of the activity (93%)](../claims/pbl-scaffolding-teacher-guidance-continuation.md) [+W] — attached 2026-11-04 from Abeysuriya V. et al. (2026), which proposed "Replace lecture-based delivery with structured, student-centered PBL supported by scaffolding in postgraduate biomedical education".
+- [The study identifies well-structured project design, adequate teacher support, and cultivated self-directed learning awareness as core elements for effective PBL implementation](../claims/pbl-core-elements-postgraduate-implementation.md) [+W] — attached 2026-11-05 from Wang Sixue et al. (2026), which proposed "Design PBL projects aligned with clarified learning objectives and intentionally structure them for individual or collaborative learning, with focused teacher guidance and broad assessment"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

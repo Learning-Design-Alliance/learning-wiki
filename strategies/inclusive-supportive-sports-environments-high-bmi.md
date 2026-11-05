@@ -47,6 +47,7 @@ The article recommends that educators and parents build activity settings emphas
 
 - [Encourage activities that support positive peer relationships through direct connections, clubs, and sports](peer-relationship-activities-for-wellbeing.md)
 - [Create a safe mathematical community through leader posture, absence of negative feedback, and fun without negative competition](safe-mathematical-community-practices.md)
+- [Prioritize inclusion of adolescents with parents with short education or born abroad in future physical activity interventions aiming at academic performance](prioritize-disadvantaged-groups-pa-interventions.md)
 
 ## Examples
 -

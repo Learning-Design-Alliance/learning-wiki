@@ -66,6 +66,7 @@ The review recommends that structured, interactive and hands-on diabetic foot ca
 - [Prioritize experiential and reflective ethics education over didactic approaches in nursing curricula and continuing professional development](experiential-reflective-ethics-education-strategy.md)
 - [Continuing professional development programmes tailored to personality disorder management, including short informal awareness sessions and simulation learning, should be evaluated for effectiveness.](pd-tailored-cpd-programmes.md)
 - [Integrate TMJ, myofunctional, and periodontal-orthodontic multidisciplinary content into residency training and target continuing education at undertrained practitioners](integrate-mdt-content-orthodontic-training.md)
+- [Implement mandatory structured in-service ECG training with simulation-based practice and rhythm-strip workshops for ICU nurses](mandatory-simulation-ecg-training-icu-nurses.md)
 
 ## Examples
 -

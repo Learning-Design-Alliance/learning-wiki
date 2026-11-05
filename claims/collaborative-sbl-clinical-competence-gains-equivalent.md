@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: cuyul-vásquez-i-2026
     resource: "https://doi.org/10.2196/85442"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i3`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Clinical competence (MTCCP) improved substantially from pre to post across both groups (large main effect of time). [→ Cuyul-Vásquez I 2026](#cuyul-vasquez-i-2026)
@@ -69,3 +69,4 @@ Same mixed ANOVA: the group × time interaction (the primary test of differentia
 - [Patient-rated communication shows no significant change over time and no significant group × time difference in either simulation modality, though a nonsignificant large between-group effect favors the individual group descriptively](sbl-communication-no-change-group-trend.md) — related
 - [Scenario-based 3D simulator training produced statistically significant pre-to-post improvements across all evaluated perception domains in first-year medical students](scenario-3d-ica-significant-gains-all-domains.md) — related
 - [In one uncontrolled pre–post study, scores across all evaluated competency domains among medical students rose from pre-test to post-test after a structured simulation-based orthopedic workshop, with statistically significant differences and large effect sizes](orthopedic-simulation-workshop-prepost-gains-all-domains.md) — related
+- [Knowledge scores improved over time in both groups, with a stronger overall effect in the collaborative learning group](knowledge-gains-over-time-both-groups-collaborative-stronger.md) — related

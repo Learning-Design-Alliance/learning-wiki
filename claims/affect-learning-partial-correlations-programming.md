@@ -9,7 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2017
-source_checked: 2026-10-27
+source_checked: 2026-11-05
 sources:
   - id: bosch-2017
     resource: "https://doi.org/10.1007/s40593-015-0069-5"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i1` small
-> **Currency** · newest study 2017 · checked against its sources 2026-10-27 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Boredom (r=−.149) and frustration (r=−.218) during the scaffolded phase were negatively correlated with fadeout score. [→ Bosch 2017](#bosch-2017)

@@ -50,3 +50,4 @@ Observational sessions with sixth graders in Austin: naturalistic peer tutoring 
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
 - [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — related
 - [Tutors assert themselves as model readers in their initial reading, with only 10.17% of tutors making mistakes whilst reading, which confirms the tutor's role as a correct reading model](tutor-model-reading-confirms-expert-role.md) — related
+- [Peer tutoring challenges included passive tutee study habits, lack of punctuality and commitment, and limited time for relationship building in online sessions](peer-tutoring-barriers-commitment-passive-learning.md) — related

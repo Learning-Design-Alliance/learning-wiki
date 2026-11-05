@@ -52,3 +52,4 @@ The review reports Iyengar and Lepper's (1999) experiments with Anglo-American a
 - [Parental pressure frequently predicts positive academic outcomes among East Asian children, including stronger mastery goals and higher self-efficacy](parental-pressure-positive-outcomes-east-asian-children.md) — related
 - [Meta-analytic evidence supports autonomy's universality, with student and teacher autonomy predicting better outcomes across cultures](autonomy-universality-meta-analytic-support.md) — reports the opposite
 - [In Experiment 2, assessment condition differentially affected pupils' anagram difficulty choice, with easier anagrams chosen under grading conditions](assessment-condition-affects-anagram-choice.md) — related
+- [Freedom to choose cases supported residents' sense of autonomy and motivation, while mandatory learning objectives decreased motivation for some](autonomy-case-choice-vr-motivation.md) — reports the opposite

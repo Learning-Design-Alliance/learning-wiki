@@ -44,7 +44,8 @@ The article recommends that support for children born very preterm operate acros
 - [Neonatal brain injuries, particularly periventricular leukomalacia and hydrocephalus, show the highest odds of educational underattainment](../claims/neonatal-brain-injury-highest-odds-underattainment.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Prioritize inclusion of adolescents with parents with short education or born abroad in future physical activity interventions aiming at academic performance](prioritize-disadvantaged-groups-pa-interventions.md)
 
 ## Examples
 -

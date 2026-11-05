@@ -48,3 +48,4 @@ Online satisfaction survey with 7 Likert items (1–4 scale) completed by the ex
 - [Pre-service teachers liked SWBL's facilitating learning, anywhere/anytime access, just-in-time learning, ease of use, meaningful learning and reliability, but disliked reduced classroom communication and Internet dependence](swbl-liked-and-disliked-features-themes.md) — related
 - [Pre-service teachers who learned ICT spreadsheets via a Semantic Web based learning environment achieved significantly higher post-test scores than those receiving traditional teaching](swbl-higher-ict-achievement-than-traditional-teaching.md) — related
 - [Students were satisfied with Learning Together at high to highest levels and ranked it the most suitable instruction method for the course](lt-student-satisfaction-high-french-literature.md) — related
+- [Satisfaction was lowest for technical aspects and time management items](cblc-satisfaction-lowest-technical-items.md) — related

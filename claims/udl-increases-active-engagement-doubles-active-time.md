@@ -52,3 +52,4 @@ Observational data from 94 randomly selected students using one-minute time samp
 - [Task type did not differ significantly between groups except for more no-task/transition time in control classes](udl-task-type-no-difference-except-transition.md) — related
 - [UDL treatment students interacted more frequently with peers and adults and spent less time not interacting](udl-increases-peer-and-adult-interaction.md) — related
 - [UDL instructional practices alone raised reported inclusivity and student autonomy but not classroom or school climate, with very small effect sizes on social variables](udl-instruction-alone-raises-inclusivity-autonomy-not-climate.md) — related
+- [A UDL-based faculty development programme significantly increased medical educators' adoption of all three UDL principles from zero prior use](udl-training-increases-principle-adoption-medical-faculty.md) — related

@@ -1,0 +1,54 @@
+---
+type: claim
+title: "Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue"
+description: "Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue"
+id: osce-high-acceptance-interns-valuable-continue
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-05
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: wick-alexandra-md-2026
+    resource: "https://doi.org/10.15766/mep_2374-8265.11576"
+    title: "Wick Alexandra MD, Murray-Bainer Samantha MD, Tischendorf Jessica MD MS, Almasry Mazen MBBS, Coyle Andrew MD, Zamanian Maryam MD MS. (2026). Development and Implementation of an OSCE for Formative Assessment of Core Clinical Skills in Internal Medicine Interns. MedEdPORTAL. https://doi.org/10.15766/mep_2374-8265.11576"
+    author: Wick Alexandra MD, Murray-Bainer Samantha MD, Tischendorf Jessica MD MS, Almasry Mazen MBBS, Coyle Andrew MD, Zamanian Maryam MD MS
+    q: 3
+    i: "?"
+    kind: design
+    rigour: 2
+---
+
+# Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` After the OSCE, nearly all interns agreed or strongly agreed the exercise was valuable and should be continued for future years. [→ Wick Alexandra MD 2026](#wick-alexandra-md-2026)
+
+## Evidence
+
+### Wick Alexandra MD 2026
+
+Wick Alexandra MD, Murray-Bainer Samantha MD, Tischendorf Jessica MD MS, Almasry Mazen MBBS, Coyle Andrew MD, Zamanian Maryam MD MS. (2026). Development and Implementation of an OSCE for Formative Assessment of Core Clinical Skills in Internal Medicine Interns. MedEdPORTAL. https://doi.org/10.15766/mep_2374-8265.11576
+
+`q3 · i?` · `design · r2`
+
+Postsession survey of the intern cohort (postsession response rate 94%, 33 of 35). Written comments from 24 residents were generally positive, citing "satisfaction with the realism of cases, the paging station, and the usefulness of feedback received."
+
+> "After the OSCE, 97% of interns agreed or strongly agreed that the exercise was valuable, and 94% agreed or strongly agreed that it should be continued for future years."
+
+## Discussion
+
+
+## Related Claims
+- [Students valued teacher guidance (90%) and recommended continuation of the activity (93%)](pbl-scaffolding-teacher-guidance-continuation.md) — related
+- [Students rated the human standardized patient customer discovery simulation highly, with 85% agreeing it met learning objectives](human-sp-customer-discovery-simulation-high-acceptability.md) — related
+- [Postgraduate immunology students report that small-group mind maps encouraged idea sharing (87% agree or strongly agree)](pbl-small-group-mind-maps-idea-sharing-immunology.md) — related
+- [Participants report strong future engagement intentions and high enjoyment of the e-textile STEAM PD program](e-textile-pd-future-engagement-satisfaction.md) — related
+- [Students strongly endorsed the AI e-learning tool, with 72.2% strongly agreeing it should be available for endodontic education and 76.4% strongly agreeing to recommend it to other students](ai-tool-strong-student-endorsement.md) — related
+- [Most students (84%) endorse continuing the BPM Essentials module in future curricula, with PA students rating it more favorably](student-endorsement-bpm-module.md) — related
+- [A post-rotation formative OSCE increased interns' satisfaction with direct observation and feedback for calling consults, obtaining informed consent, and responding to nursing pages, but not for providing sign-out](osce-increased-satisfaction-observation-feedback-three-of-four-skills.md) — related

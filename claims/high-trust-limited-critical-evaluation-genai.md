@@ -57,3 +57,4 @@ Single-item retrospective trust ratings from all 12 students, supplemented by in
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — reports the opposite
 - [Middle school students in GenAI-supported STEAM modules predominantly interact for STEAM knowledge/information retrieval, with minimal evaluation and reflection interactions](genai-steam-interactions-dominated-by-information-retrieval.md) — related
 - [Students frequently accepted misleading AI recommendations (overreliance) while rarely rejecting correct ones (underreliance)](overreliance-frequent-underreliance-rare.md) — related
+- [Students rarely cross-check ChatGPT outputs, and use it most on topics where they have least knowledge, increasing risk of absorbing errors](students-rarely-cross-check-chatgpt-errors.md) — related

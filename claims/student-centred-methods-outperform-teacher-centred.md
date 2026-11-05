@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2018
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: hassan-and-ibrahim-2018
     resource: "https://eric.ed.gov/?id=EJ1165738"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` PBL groups obtained higher scores and teamwork than control groups; guided inquiry showed significant supremacy over traditional teaching; cooperative learning enhanced mathematics achievement. [→ Hassan and Ibrahim 2018](#hassan-and-ibrahim-2018)

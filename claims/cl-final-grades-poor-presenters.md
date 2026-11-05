@@ -48,3 +48,4 @@ End-of-course results for Class E (EG) reported against Table 7, where Class D (
 - [AI-supported PBL offerings showed higher A-rates and fewer low grades than pre-integration control offerings when including the COVID-19 year](genai-pbl-higher-a-rates-fewer-low-grades.md) — related
 - [Final-test score distributions concentrated differently by group: the ChatGPT class peaked at interval 79-83 (32.26% of students) while the control class peaked at 56-61 (25.81%)](frequency-distribution-experimental-79-83-control-56-61.md) — related
 - [The experimental group's distribution across motivational levels shifted toward higher levels from pre-test to post-test while the control group's did not](experimental-group-level-shift-motivational-component.md) — related
+- [BOPPPS-flipped classroom reform is linked to significantly higher final examination scores and a distribution shift toward higher grade intervals](boppps-flipped-higher-final-exam-scores.md) — related

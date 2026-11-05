@@ -71,6 +71,7 @@ Simulation works because it enables high-volume, low-stakes [practice](../elemen
 - [Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours](vp-replace-passive-before-bedside-strategy.md)
 - [Use hybrid simulations combining real-world materials with low-cost simulators to enable realistic, interactive scenarios at reduced cost](hybrid-simulation-real-world-materials-low-cost-simulators.md)
 - [Use structured debriefing after simulation scenarios to consolidate transferable prevention actions](structured-daa-debriefing-after-simulation.md)
+- [Mental skills training (mental imagery rehearsal of procedural steps) as a component of training for high-stakes clinical procedures](mental-skills-training-rehearses-procedural-steps.md)
 
 ## Examples
 - **[Flight simulators](https://www.faa.gov/training_testing/training/sim)** — FAA-certified full-motion simulators are the canonical case; airline pilots log most initial type-rating hours in simulation before flying a real aircraft.

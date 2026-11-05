@@ -48,6 +48,7 @@ Number Rockets prepares non-specialist tutors — retired teachers and substitut
 - [Train tutors with an initial week plus twice-weekly hour-long follow-ups supported by structured manuals](fraction-face-off-tutor-training-strategy.md)
 - [Transportable tutoring protocol with structured tutor training and supervision](fact-retrieval-tutoring-training-transportability.md)
 - [Select feedback technology to match the learner population, setting and learning objective, and reinforce with spaced booster training](match-feedback-device-to-context-plus-booster-training.md)
+- [Train peer tutors in a pre-session workshop and sustain quality with feedback questionnaires and incentive awards](peer-tutor-training-and-incentive-strategy.md)
 
 ## Examples
 -

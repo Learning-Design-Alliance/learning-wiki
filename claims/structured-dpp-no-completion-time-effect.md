@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2015
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: tsompanoudi-et-al-2015
     resource: "https://doi.org/10.15388/infedu.2015.17"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite the experimental group achieving shorter average completion and driving times in each project, a statistically significant difference appeared only in the last project (t(22) = -3.995, p = 0.001). [→ Tsompanoudi et al. 2015](#tsompanoudi-et-al-2015)

@@ -48,3 +48,4 @@ PGY-5 subgroup of the resident survey. The authors interpret this as possible ov
 - [Resident self-reported autonomy for 20 must-know ECG diagnoses increases through residency, from 60% at PGY-2 to 90% at PGY-5](ecg-self-reported-autonomy-increases-through-residency.md) — related
 - [Residents report low self-perceived autonomy for bifascicular block, failure to capture, Brugada pattern, and acute MI with bundle branch block](low-resident-autonomy-critical-ecg-diagnoses.md) — related
 - [Knowledge–confidence inverse pattern is strongest among paramedics and non-trained resident physicians](phtls-knowledge-confidence-subgroup-pattern.md) — related
+- [Accuracy on basic ECG electrophysiology items is high but drops sharply on complex patterns](ecg-basic-high-complex-low-accuracy.md) — related

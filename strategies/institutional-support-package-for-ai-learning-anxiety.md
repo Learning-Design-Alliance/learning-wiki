@@ -48,6 +48,7 @@ Based on the observed associations, the article recommends that "universities co
 - [Design plugged CT experiences to be accessible and appealing to girls, and address technology-related anxiety through supportive, culturally relevant designs](girl-accessible-plugged-ct-design.md)
 - [Provide institutional support: regular GenAI workshops, subsidized access to advanced tools, reliable resources, and curriculum inclusion](institutional-support-genai-translation-workshops-curriculum.md)
 - [Institutional support package: professional development, technical support, engagement strategies, and assessment reform](institutional-support-technology-integration-strategy.md)
+- [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
 
 ## Examples
 -

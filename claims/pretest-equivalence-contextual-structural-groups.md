@@ -53,3 +53,4 @@ Pretest comparison after matching on pretest scores; whole-group means were 47.1
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
 - [The two groups did not differ significantly on the pretest before instruction](ecme-pretest-no-difference.md) — related
 - [Experimental and control groups did not differ significantly in pre-test science achievement before the intervention](7e-study-pretest-equivalence.md) — related
+- [The DwGJ and control groups did not differ in admission theoretical or skill examination scores at baseline](dwgj-trial-baseline-equivalence-admission-scores.md) — related

@@ -71,3 +71,6 @@ Synthesized finding from the meta-synthesis of 17 qualitative studies, drawing o
 - [Simulation-based BLS training evokes strong emotional engagement and builds nursing students' confidence through repeated practice in a safe, mistake-tolerant environment](simulation-bls-emotional-engagement-confidence.md) — related
 - [The placement acted as a safe space fostering self-efficacy, intellectual humility, and uncertainty tolerance](anatomy-ems-safe-space-personal-development.md) — related
 - [Medical students found curriculum-aligned digital escape rooms exciting, engaging, and motivating in a pilot implementation](escape-rooms-exciting-medical-students.md) — related
+- [Self-rated operator confidence in managing distal coronary perforation and stent loss rose from before to immediately after structured simulation-based learning, in one uncontrolled pre-post study](sbl-improves-operator-confidence-pci-complications.md) — related
+- [Repeated VR practice of therapeutic conversations builds students' confidence and flow in communication](vr-repeated-practice-confidence-flow.md) — a narrower finding that bears on this claim
+- [VR simulation training fostered active engagement and a greater sense of preparedness for clinical practice among medical students](vr-training-fostered-engagement-preparedness.md) — related

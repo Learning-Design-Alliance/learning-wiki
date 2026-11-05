@@ -51,3 +51,4 @@ Cross-sectional survey of 302 UK GPs reported within the systematic review. Self
 - [GPs hold mixed attitudes toward EBM: majority positive but a minority perceive limited value or threat](mixed-gp-attitudes-toward-ebm.md) — related
 - [Time constraints, patient expectations, and lack of relevant evidence are widely reported barriers to EBM in general practice](barriers-to-ebm-in-general-practice.md) — related
 - [Search and critical-appraisal skills lacked credibility as core GP competencies in the systematic review](search-appraisal-skills-lack-credibility-gp-competencies.md) — related
+- [Palestinian medical students rely heavily on medical books and general search engines while rarely using specialized evidence-based databases, with usage differing by EBM training](textbook-reliance-limited-specialized-database-use.md) — a narrower finding that bears on this claim

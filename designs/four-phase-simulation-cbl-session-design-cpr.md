@@ -43,7 +43,8 @@ The article describes a reusable session structure designed in accordance with t
 - [Simulation Cbl Higher Bag Valve Mask Ventilation Scores](../claims/simulation-cbl-higher-bag-valve-mask-ventilation-scores.md) [+M]
 
 ## Related Designs
-- 
+
+- [Simulation session structure pairing 20-minute hands-on CBL practice with a 20-minute DwGJ roundtable debriefing](dwgj-cbl-simulation-session-structure.md)
 
 ## Examples
 -

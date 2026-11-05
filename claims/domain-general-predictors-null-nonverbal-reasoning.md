@@ -9,7 +9,6 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-25
 sources:
   - id: spencer-mercedes-2022
     resource: "https://doi.org/10.1037/edu0000670"
@@ -33,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-25 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2022 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Early working memory, processing speed, and attentive behavior directly or indirectly influenced later calculations, WPS, and reading, with stronger associations for calculations (summed total effects 0.447) than WPS (0.201) and reading (0.243). [→ Spencer Mercedes 2022](#spencer-mercedes-2022)

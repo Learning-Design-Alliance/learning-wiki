@@ -63,6 +63,7 @@ Action planning closes the loop between reflection and behavior change; without 
 - [Achievable micro-goals](achievable_micro-goals.md) — a way of sizing plan steps to guarantee early success
 - [Activities for student self-reflection](activities_for_student_self-reflection.md) — the reflective precursor that generates plan content
 - [Individualized Student Plan co-signed by student specifying interventions, responsibilities, and timelines](individualized-student-plan-coaching.md)
+- [Pair structured workplace-based assessment with supervisor training in timely, specific, actionable feedback and add goal-setting or reflective portfolios to support self-directed learning](wba-feedback-training-plus-goal-setting-strategy.md)
 
 ## Examples
 - **Exam wrappers** (e.g., those published by [Carnegie Mellon's Eberly Center](https://www.cmu.edu/teaching/designteach/teach/examwrappers.html)) — after an exam is returned, students answer structured prompts and write a concrete study plan for the next assessment cycle.

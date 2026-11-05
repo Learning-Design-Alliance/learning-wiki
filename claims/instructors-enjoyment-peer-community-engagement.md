@@ -78,3 +78,4 @@ Study 1 thematic network analysis (Attride-Stirling method) of instructor interv
 - [Teachers in the project increased expertise and improved internal motivation through self-reflection and consultations.](clil-teacher-expertise-motivation.md) — related
 - [Students' primary objective in studying qualitative research is learning how to do it, and instructors are recommended to respect this motivation and focus on skills first](skills-first-respect-student-motivation-qualitative-research.md) — related
 - [Students report increased self-perceived confidence following the pediatric dentistry internship.](students-report-increased-confidence-following-pediatric-dentistry-internship.md) — related
+- [Postgraduate nursing students in the PBL course reported a multi-layered sense of accomplishment spanning knowledge gains, emotional satisfaction, and professional identity development](pbl-sense-of-accomplishment-nursing.md) — related

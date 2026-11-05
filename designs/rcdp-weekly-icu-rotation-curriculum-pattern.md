@@ -44,7 +44,8 @@ A four-week repeating simulation curriculum: three 60-minute small-group RCDP tr
 - [Rcdp Attendance 77 Percent Assessment Uptake](../claims/rcdp-attendance-77-percent-assessment-uptake.md) [+M]
 
 ## Related Designs
-- 
+
+- [Three-module simulation curriculum (HFS, SP, VR) in a respiratory medicine rotation](three-module-simulation-curriculum-respiratory-rotation-ajou.md)
 
 ## Examples
 -

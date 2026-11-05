@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: jørgensen-louise-bidstrup-2026
     resource: "https://doi.org/10.1186/s12875-026-03385-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Facilitators included design features supporting accessibility and ease of use, adaptability such as self-paced modular formats, and perceived usefulness for professional roles. [→ Jørgensen Louise Bidstrup 2026](#jrgensen-louise-bidstrup-2026)

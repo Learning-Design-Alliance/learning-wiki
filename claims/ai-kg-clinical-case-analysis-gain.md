@@ -50,3 +50,4 @@ Score-composition analysis within the final examination of the cluster-randomize
 - [CBL with 3D reconstruction improves hepatic segmentation and lesion localization scores versus traditional teaching](cbl-3d-reconstruction-improves-segmentation-localization.md) — related
 - [No significant difference between CBL-3D and traditional teaching in qualitative diagnosis of focal liver lesions](cbl-3d-reconstruction-no-gain-qualitative-diagnosis.md) — related
 - [Residents taught with CBL plus 3D reconstruction report higher satisfaction than residents taught with traditional lectures across all five survey domains](cbl-3d-reconstruction-higher-satisfaction-liver-ultrasound.md) — related
+- [Students taught with 3D-PBL-annotation teaching score significantly higher on subjective case-analysis questions than students taught by traditional lectures](3d-pbl-annotation-higher-case-analysis-scores.md) — related

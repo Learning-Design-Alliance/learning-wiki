@@ -83,3 +83,4 @@ Sensitivity analyses in the same study: intention-to-treat with 20 imputations (
 - [The handheld-practice advantage on eFAST outcomes persists after adjustment for age, semester, prior experience, prior training and tutor](adjusted-regression-confirms-handheld-practice-effect.md) — related
 - [Performance differences remained significant after controlling for age and GPA, and no gender effects were observed](gjump-effects-robust-to-gpa-age-gender.md) — related
 - [The endodontic testing effect remains significant after adjusting for prior course grade and sex, with a homogeneous effect across students](testing-effect-robust-to-prior-grade-sex.md) — related
+- [After baseline adjustment, the BOPPPS group scored significantly higher than controls on all three pre-anesthesia care skill subscales](boppps-skill-subscale-posttest-gains.md) — related

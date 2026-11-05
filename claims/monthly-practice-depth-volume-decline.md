@@ -52,3 +52,4 @@ Review's summary of Oermann et al. (n = 606 nursing students; control group with
 - [Feedback from trained humans was in some settings as effective as mechanical feedback devices for CPR quality](human-feedback-equivalent-to-mechanical-devices.md) — related
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — a broader claim this one bears on
 - [Most Nigerian students were willing to perform CPR on strangers and trauma victims](nigerian-students-willingness-perform-cpr-strangers.md) — related
+- [Safety-control skill declines significantly over the year after BLS training, and chest compression depth deteriorates and becomes too deep](safety-control-and-compression-depth-decline-over-time.md) — related
