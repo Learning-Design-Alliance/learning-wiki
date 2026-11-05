@@ -6,7 +6,7 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **11,828 distinct studies** behind 50,238 claims. What they add up to (the sections below have the detail):
+The wiki holds **11,828 distinct studies** behind 50,240 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 33% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 58% are quasi-experiments, observational studies or narrative reviews, and 10% are case studies, opinion or theory.
 - **Few print an effect size.** 3,125 of 11,828 studies (26%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
@@ -21,10 +21,10 @@ These figures describe two things at once: what education research has produced,
 
 | | |
 |---|---|
-| Claims | 50,238 |
-| Evidence entries | 58,910 |
+| Claims | 50,240 |
+| Evidence entries | 58,912 |
 | Distinct studies | 11,828 |
-| Claims resting on one study | 49,642 (99%) |
+| Claims resting on one study | 49,644 (99%) |
 | Claims with no coded evidence | 3 |
 | Studies reporting an effect size | 3,125 of 11,828 (26%) |
 
@@ -35,9 +35,9 @@ These figures describe two things at once: what education research has produced,
 | causal | 142 | 2,181 | 1,599 | 407 | 4,329 |
 | quant-synthesis | 204 | 386 | 85 | 135 | 810 |
 | review | 327 | 876 | 136 | 151 | 1,490 |
-| associational | 134 | 1,398 | 635 | 306 | 2,473 |
+| associational | 134 | 1,397 | 635 | 306 | 2,472 |
 | qualitative | 209 | 389 | 80 | 104 | 782 |
-| design | 106 | 846 | 159 | 39 | 1,150 |
+| design | 106 | 847 | 159 | 39 | 1,151 |
 | theoretical | 200 | 438 | 84 | 72 | 794 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
@@ -46,7 +46,7 @@ These figures describe two things at once: what education research has produced,
 |---|---|---|---|
 | 1,127 (10%) | 6,806 (58%) | 3,708 (31%) | 187 (2%) |
 
-**Studies per claim:** 0: 3, 1: 49,642, 2: 504, 3: 68, 4 or more: 21.
+**Studies per claim:** 0: 3, 1: 49,644, 2: 504, 3: 68, 4 or more: 21.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 

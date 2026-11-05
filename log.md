@@ -478,6 +478,11 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 * **Ingest**: [claims/no-gaming-motivation-association-girls](claims/no-gaming-motivation-association-girls.md) — Ingested from pmc-12404323 (Longitudinal associations between gaming and academic motivation during middle childhood.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/motivation-does-not-predict-subsequent-gaming-boys](claims/motivation-does-not-predict-subsequent-gaming-boys.md) — Ingested from pmc-12404323 (Longitudinal associations between gaming and academic motivation during middle childhood.) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/boys-gaming-predicts-lower-academic-motivation](claims/boys-gaming-predicts-lower-academic-motivation.md) — Ingested from pmc-12404323 (Longitudinal associations between gaming and academic motivation during middle childhood.) via eval_harness.py + ingest_extractions.py
+* **Claim**: [theories/deep-learning-knowledge-tracing-models](theories/deep-learning-knowledge-tracing-models.md) — Linked claim from When is deep learning the best approach to knowledge tracing? (Gervet et al., 2020), doi:10.5281/zenodo.4143614
+* **Claim**: [principles/adaptive-learning](principles/adaptive-learning.md) — Linked claim from When is deep learning the best approach to knowledge tracing? (Gervet et al., 2020), doi:10.5281/zenodo.4143614
+* **Source**: [claims/learner-models-miscalibrated-outside-data-interval](claims/learner-models-miscalibrated-outside-data-interval.md) — Added verified DOI 10.5281/zenodo.4143614 to the Gervet et al. (2020) citations; linked the two new claims from the same study
+* **Ingest**: [claims/expert-kc-models-add-little-to-performance-prediction](claims/expert-kc-models-add-little-to-performance-prediction.md) — When is deep learning the best approach to knowledge tracing? (Gervet et al., 2020), doi:10.5281/zenodo.4143614
+* **Ingest**: [claims/knowledge-tracing-model-choice-depends-on-dataset](claims/knowledge-tracing-model-choice-depends-on-dataset.md) — When is deep learning the best approach to knowledge tracing? (Gervet et al., 2020), doi:10.5281/zenodo.4143614
 
 ## 2026-11-04
 
