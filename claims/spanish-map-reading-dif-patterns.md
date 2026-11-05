@@ -51,3 +51,4 @@ Differential item functioning analysis (Chapter 8) comparing items across langua
 - [Goodness-of-fit results indicate Spanish MAP Growth Reading constructs are at least tau-equivalent across language background groups](spanish-map-reading-tau-equivalent-constructs.md) — related
 - [DIF analysis finds mostly negligible or slight-to-moderate differential item functioning, with only one item showing moderate-to-large DIF favoring Asian over White participants](dif-one-item-moderate-large-rest-negligible.md) — a narrower finding that bears on this claim
 - [DIF analyses indicate the vast majority of MAP Growth items show negligible differential item functioning across gender and racial/ethnic groups](map-growth-negligible-dif-gender-race-ethnicity.md) — related
+- [Institutional context showed the most extensive differential item functioning, with significant direct effects on all 12 resource-use indicators.](institution-dif-all-indicators.md) — reports the opposite

@@ -49,3 +49,4 @@ Summary of a seven-item post-session survey with three open-ended items administ
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
 - [Teachers rate the INSIGHT training as highly helpful and relevant for lesson planning and instructional design across disciplines, school types, and grade levels](insight-rated-helpful-relevant-lesson-planning.md) — related
 - [Ninety percent of responding completers rated their preparation program effective or very effective and felt at least adequately prepared across all teaching performance expectation domains](completers-rate-preparation-highly-90-percent.md) — related
+- [Most participants held positive perceptions of the training programme immediately after completing it](rvt-positive-post-programme-perceptions.md) — related

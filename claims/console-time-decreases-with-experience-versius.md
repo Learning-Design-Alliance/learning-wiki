@@ -52,3 +52,4 @@ Predictive linear mixed-effects model built on Senior 1's data, plotting estimat
 - [Surgeons achieved proficiency in Versius-assisted radical prostatectomy within 40 cases, with experienced surgeons reaching proficiency after 23 cases and novice surgeons after 37](versius-rp-proficiency-under-40-cases.md) — related
 - [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
 - [Tertile analysis showed a significant stepwise decrease in operative time across experience but only a non-significant decreasing trend in composite failure](tertile-analysis-stepwise-operative-time.md) — related
+- [Mean procedure time decreased from 3.45 to 1.53 minutes after training (p < 0.001)](sbml-probing-procedure-time-reduction.md) — related

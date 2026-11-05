@@ -58,6 +58,8 @@ The review recommends that debriefing be treated as a critical phase of high-fid
 - [Pair AI-supported PBL sessions with brief learner orientation and a short postsession debrief](brief-orientation-and-debrief-for-ai-pbl.md)
 - [Use a structured debriefing session after simulation scenarios to consolidate learning points.](structured-debriefing-after-simulation.md)
 - [Use the PEARLS Healthcare Debriefing Tool with paired otolaryngology faculty and nurse educator facilitators](pearls-debrief-with-dual-discipline-facilitators.md)
+- [Use structured debriefing after simulation scenarios to consolidate transferable prevention actions](structured-daa-debriefing-after-simulation.md)
+- [Use video-recorded simulation sessions followed by instructor-led structured self-reflection and peer review to enable reflection-on-action](video-feedback-structured-reflection-strategy.md)
 
 ## Examples
 -

@@ -45,8 +45,8 @@ An observation form was filled by two observers for 4 primary school students at
 
 
 ## Related Claims
-- [Active learning based science camp activities increased students' conceptual knowledge of environmental problems](science-camp-increased-environmental-conceptual-knowledge.md) — related
+- [Students' responses on conceptual knowledge of environmental problems shifted toward higher categories and included more explanations from pre-test to post-test after active learning based science camp activities, in one uncontrolled pre-post study](science-camp-increased-environmental-conceptual-knowledge.md) — related
 - [Active learning based science camp activities improved primary school students' opinions towards scientific knowledge](science-camp-improved-scientific-knowledge-opinions.md) — related
-- [Active learning based science camp activities did not significantly change primary school students' scientific process skills](science-camp-no-change-scientific-process-skills.md) — related
+- [Primary school students' scientific process skills did not significantly change from pre-test to post-test after active learning based science camp activities, in one single-group pre-post study](science-camp-no-change-scientific-process-skills.md) — related
 - [Open inquiry enhances students' science literacy and related skills such as environmental literacy, argumentation, autonomy and reflection](open-inquiry-science-literacy-skills.md) — a broader claim this one bears on
 - [Students and teachers expressed predominantly positive opinions about the guides and activities, with time pressure the main teacher criticism](positive-student-teacher-opinions-design.md) — related

@@ -45,7 +45,7 @@ Authors' comparison of written-format scores in the first period with MCQ-format
 
 
 ## Related Claims
-- [Knowledge retained one month after CATM training, with post-test2 scores exceeding post-test1 in both periods](catm-knowledge-retention-one-month.md) — related
+- [Knowledge scores were higher one month after CATM training than immediately after training in one group, in both periods](catm-knowledge-retention-one-month.md) — related
 - [Short-answer (production) and multiple-choice (recognition) retrieval practice produce no statistically significant difference in undergraduates' reading comprehension on a final MCQ test](production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension.md) — related
 - [Evidence on practice effects of VSAQs versus MCQs is mixed, with no consistent advantage for either format](vsaq-practice-effects-mixed-inconclusive.md) — related
 - [Practice test format moderates the testing effect: mixed-format (g = 0.80) and multiple-choice (g = 0.70) practice tests produced larger effects than short-answer tests (g = 0.48)](practice-test-format-moderates-effect.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Synchronous online mathematics tutoring produced statistically significant within-group gains in mathematics achievement for low-achieving middle school students in two rural schools
-description: Synchronous online mathematics tutoring produced statistically significant within-group gains in mathematics achievement for low-achieving middle school students in two rural schools
+title: Mathematics achievement scores rose significantly from pre-test to post-test among low-achieving middle school students receiving synchronous online mathematics tutoring in two rural schools, in single-group pre-post studies
+description: Mathematics achievement scores rose significantly from pre-test to post-test among low-achieving middle school students receiving synchronous online mathematics tutoring in two rural schools, in single-group pre-post studies
 id: online-tutoring-significant-within-group-gains
 status: review
 generated:
@@ -28,7 +28,7 @@ sources:
     rigour: 1
 ---
 
-# Synchronous online mathematics tutoring produced statistically significant within-group gains in mathematics achievement for low-achieving middle school students in two rural schools
+# Mathematics achievement scores rose significantly from pre-test to post-test among low-achieving middle school students receiving synchronous online mathematics tutoring in two rural schools, in single-group pre-post studies
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`

@@ -47,7 +47,7 @@ Null result from the model 1 ANCOVA on the third WJ-III outcome in the classroom
 ## Related Claims
 - [Fall oral vocabulary skills did not moderate TRI treatment effects for struggling English learners on any outcome](oral-vocabulary-no-moderation-tri-effects.md) — related
 - [English oral vocabulary scores correlated significantly with word identification and reading comprehension posttest scores in this severely struggling sample](english-oral-vocabulary-correlates-word-reading-comprehension.md) — related
-- [Fall self-regulation (HTKS) scores predict spring literacy gains in first grade](fall-htks-predicts-literacy-gains.md) — related
+- [In first grade, students with lower fall self-regulation (HTKS) scores demonstrated weaker literacy skill gains by spring](fall-htks-predicts-literacy-gains.md) — related
 - [Struggling English learners in TRI classrooms significantly outperformed control struggling ELs on spring Letter-Word Identification (g = .43)](tri-struggling-els-letter-word-identification-gain.md) — related
 - [Struggling English learners in TRI classrooms significantly outperformed control struggling ELs on spring Word Attack (g = .45)](tri-struggling-els-word-attack-gain.md) — related
 - [Struggling K–6 readers tutored twice weekly by minimally trained college students made significantly greater gains than controls in letter-word identification, word attack, and passage comprehension](structured-tutoring-gains-wlpb.md) — related

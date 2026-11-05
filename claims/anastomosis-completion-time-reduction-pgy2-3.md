@@ -49,3 +49,5 @@ In the same pre–post study of 39 residents, procedural time was recorded from 
 - [Junior and non-cardiothoracic residents show larger time improvements from coronary anastomosis simulation than senior residents](junior-residents-gain-more-time-from-simulation.md) — related
 - [A 3-week high-fidelity mitral valve repair simulation program improved residents' scores on all 11 OSATS assessment points and reduced completion time](joyce-mvr-osats-improvement.md) — related
 - [Simulation-based training with a leakage-testing vascular anastomosis model reduced severe leakage (Grade 3) from 69.3% to 28.1% among surgical residents](leakage-grade3-reduction-vascular-anastomosis-simulation.md) — related
+- [FPS rate gains by training year: third-year STRs improved significantly (50.0% to 85.2%), second-year gains not significant (62.5% to 88.2%)](pdca-fps-gains-by-training-year.md) — related
+- [Mean procedure time decreased from 3.45 to 1.53 minutes after training (p < 0.001)](sbml-probing-procedure-time-reduction.md) — related

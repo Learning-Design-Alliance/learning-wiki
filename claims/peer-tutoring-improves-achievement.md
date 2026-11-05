@@ -9,7 +9,6 @@ id: peer-tutoring-improves-achievement
 aliases: [tutoring-benefits-tutors-and-tutees]
 evidence_strength: insufficient
 newest_evidence: 2017
-source_checked: 2026-10-20
 sources:
   - id: cohen-et-al-1982
     resource: "https://doi.org/10.3102/00028312019002237"
@@ -35,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3`–`q4` · `i1` small
-> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2017 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Learners who take part in school peer-tutoring programs, as tutees or as tutors, tend to show higher achievement than comparable learners without tutoring. One meta-analysis (65 evaluations) found gains for tutees and the same pattern of gains for tutors, without a pooled effect size in the abstract read; another (50 mathematics studies) found a small average effect for participants (g = 0.333). Neither recorded entry shows that tutors gain more than tutees.
 
@@ -123,7 +122,7 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - Summary research table reports tutoring impacts of roughly 90 to 222 days of additional learning across five studies — related
 - A recent meta-analysis of 14 types of educational interventions found high-impact tutoring the most effective at improving student achievement — related
 - [Interrupted time series analysis found tutor quality improved gradually over time (β=0.01, p=.022) with no immediate level change or slope change at the training intervention](its-gradual-trend-not-intervention-effect.md) — related
-- [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — a narrower finding that bears on this claim
+- [In one single-group pretest-posttest study with no comparison group, tutors' pooled scores rose by a significant 7.4% after scenario-based tutor lessons; three lessons with established construct validity showed gains, while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — a narrower finding that bears on this claim
 - [Social learning theory](../theories/social-learning-theory.md) — social accountability and modeling explain tutor-side motivation gains
 - [Constructivism](../theories/constructivism.md) — knowledge consolidation through explanation and use
 - [Cognitive apprenticeship](../theories/cognitive-apprenticeship.md) — modeling, coaching, and fading map onto the tutor's role progression

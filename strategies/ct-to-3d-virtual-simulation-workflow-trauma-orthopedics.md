@@ -52,6 +52,7 @@ The article describes a specific workflow for virtual simulation-based training 
 ## Related Strategies
 
 - [Supplement virtual simulation training with shared online virtual simulation experimental teaching resources from the National Virtual Simulation Experiment Teaching Course Sharing Platform (ilab-x)](ilab-x-shared-virtual-simulation-resources.md)
+- [Establish 3D printing teaching platforms in hospitals and universities to enhance interns' professional value recognition and internship teaching quality](establish-3d-printing-teaching-platforms-strategy.md)
 
 ## Examples
 -

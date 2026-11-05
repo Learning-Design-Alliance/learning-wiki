@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Participating in argumentation-based lessons increases students' willingness for argumentation"
-description: "Participating in argumentation-based lessons increases students' willingness for argumentation"
+title: "Students' Argumentation Willingness Scale scores rose from pretest to posttest within the experiment group after argumentation-based lessons"
+description: "Students' Argumentation Willingness Scale scores rose from pretest to posttest within the experiment group after argumentation-based lessons"
 id: argumentation-increases-willingness-for-argumentation
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Participating in argumentation-based lessons increases students' willingness for argumentation
+# Students' Argumentation Willingness Scale scores rose from pretest to posttest within the experiment group after argumentation-based lessons
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

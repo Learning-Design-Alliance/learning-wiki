@@ -73,3 +73,4 @@ Effect-size analysis of the exam performance ratios from the two classes, comput
 - [Polytechnic knowledge and skills in experimental classes increased on average by 16% relative to control classes](polytechnic-development-16-percent-increase.md) — related
 - [The libre teacher observed a 60% improvement in the results of the experimental class compared with the control class and past performance](team-teaching-60-percent-improvement-libre-teacher.md) — related
 - [CPS sections improved at a higher rate across lecture exams than the control group, with a third-exam exception](cps-higher-lecture-exam-improvement.md) — related
+- [Group work implementation increases average student performance compared with lecture alone in undergraduate biology classrooms.](group-work-increases-average-performance-biology.md) — related

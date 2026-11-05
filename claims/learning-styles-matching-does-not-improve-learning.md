@@ -42,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 review `r1`–`r3`, 1 causal `r2` · `q2`–`q3`
-> **Currency** · newest study 2020 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2020 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 Matching instruction to a learner's purported "learning style" (visual, auditory, kinesthetic, etc.) does not improve learning outcomes; learners learn best when content is matched to the *nature of the material*, not to a self-reported style preference.
 

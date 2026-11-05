@@ -51,4 +51,4 @@ ANCOVA on posttest SILL scores with pretest as covariate, comparing the instruct
 - [Explicit instruction in reading strategies was essential to bring about increased use of reading strategies by experimental-group learners](explicit-instruction-increases-reading-strategy-use.md) — related
 - [Explicit strategy instruction alone did not significantly improve learners' English self-efficacy.](strategy-instruction-no-significant-effect-on-self-efficacy.md) — related
 - [Explicit metacognitive strategy instruction increases ESL learners' use of monitoring and assessment strategies but not planning strategies](metacognitive-instruction-increases-monitoring-assessment-not-planning.md) — related
-- [Explicit strategy instruction strengthened the correlation between language learning strategy use and English self-efficacy.](strategy-instruction-strengthens-strategy-self-efficacy-correlation.md) — related
+- [The correlation between language learning strategy use and English self-efficacy was larger after explicit strategy instruction than before in one uncontrolled pre-post study.](strategy-instruction-strengthens-strategy-self-efficacy-correlation.md) — related

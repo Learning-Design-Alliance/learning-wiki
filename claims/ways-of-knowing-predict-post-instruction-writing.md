@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Ways of knowing predicted post-instruction argumentative writing performance but not pre-instruction performance
-description: Ways of knowing predicted post-instruction argumentative writing performance but not pre-instruction performance
+title: Ways of knowing were associated with post-instruction argumentative writing performance but not pre-instruction performance in one single-group pre-post study with no comparison group
+description: Ways of knowing were associated with post-instruction argumentative writing performance but not pre-instruction performance in one single-group pre-post study with no comparison group
 id: ways-of-knowing-predict-post-instruction-writing
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Ways of knowing predicted post-instruction argumentative writing performance but not pre-instruction performance
+# Ways of knowing were associated with post-instruction argumentative writing performance but not pre-instruction performance in one single-group pre-post study with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Regression showed ways of knowing did not predict argumentative writing at pre-assessment [F=2.763, P=.103, R2 =.053] but did at post-assessment [F = 4.508, P = .039, R2 = .084]. [→ Ammar 2016](#ammar-2016)
+`q2 i?` Regression showed ways of knowing were not associated with argumentative writing at pre-assessment [F=2.763, P=.103, R2 =.053] but were associated at post-assessment [F = 4.508, P = .039, R2 = .084], in one group measured before and after with no comparison group. [→ Ammar 2016](#ammar-2016)
 
 ## Evidence
 
@@ -48,6 +48,6 @@ Regression analysis with ways of knowing as predictor and argumentative essay wr
 - [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Reflective blogfolios shifted EFL tertiary students' ways of knowing significantly toward more connected knowing](blogfolios-shifted-ways-of-knowing-toward-connected.md) — related
+- [EFL tertiary students' ways-of-knowing scores rose significantly from pre- to post-assessment after reflective blogfolios, in one uncontrolled pre-post study](blogfolios-shifted-ways-of-knowing-toward-connected.md) — related
 - [The article argues connected ways of knowing are better predictors of quality argumentative writing performance than separate ways of knowing](connected-knowing-better-predictor-of-writing.md) — related
-- [Reflective blogfolios in EFL writing classes produced statistically significant pre-post gains in tertiary students' argumentative essay writing skills](reflective-blogfolios-improved-argumentative-writing.md) — related
+- [In one uncontrolled pre-post study, tertiary students' argumentative essay writing scores in EFL writing classes rose significantly from pre-test to post-test after reflective blogfolios](reflective-blogfolios-improved-argumentative-writing.md) — related

@@ -53,6 +53,7 @@ The review identifies key methodological gaps in the current evidence base and s
 - [Evaluate mental practice with longitudinal mixed-method designs in real clinical teams, and embed MP in organisational routines such as pre-surgical briefings](longitudinal-mixed-method-mp-evaluation.md)
 - [Adopt better methodologies and validated tools for identifying long-term EBP competency retention and for measuring attitude change](better-methods-for-retention-and-attitude-measurement.md)
 - [Design future AR simulation studies with objective performance measures, controlled comparative designs and validated usability instruments](ar-simulation-future-study-design-recommendations.md)
+- [Future work should evaluate LLM performance on Part B, viva-style and clinical scenario assessments and study effects on trainee learning outcomes](future-llm-evaluation-part-b-viva-learning-outcomes.md)
 
 ## Examples
 -

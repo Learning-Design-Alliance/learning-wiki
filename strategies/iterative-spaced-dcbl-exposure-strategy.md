@@ -38,9 +38,9 @@ The authors argue that the mixed individual response profile "argues for iterati
 
 ## Claims
 
-- [A single-session rule-based DCBL intervention did not produce a statistically significant overall change in SCT-measured antibiotic-stewardship reasoning among MBBS learners](../claims/single-session-dcbl-no-significant-overall-sct-change.md) [+W]
-- [Individual learner responses to the DCBL intervention were highly heterogeneous across all three case domains](../claims/heterogeneous-individual-sct-responses-dcbl.md) [+W]
-- [The UTI case showed a statistically significant domain-specific SCT improvement, while URTI and diarrhoea cases showed no significant change](../claims/uti-case-significant-sct-improvement.md) [+W]
+- [Overall SCT-measured antibiotic-stewardship reasoning scores rose from pre-test to post-test, without a statistically significant change, among MBBS learners after a single-session rule-based DCBL intervention in one uncontrolled pre-post study](../claims/single-session-dcbl-no-significant-overall-sct-change.md) [+W]
+- [Across all three case domains, individual learner SCT scores showed heterogeneous rises, falls, or no change from pre-test to post-test in one single-group pre-post study of DCBL](../claims/heterogeneous-individual-sct-responses-dcbl.md) [+W]
+- [In one single-group pre-post study with no comparison group, UTI SCT scores rose significantly from pre-test to post-test, while URTI and diarrhoea SCT scores did not change significantly](../claims/uti-case-significant-sct-improvement.md) [+W]
 - [Case-wise risk differences in appropriate treatment decisions at Node-2 did not reach statistical significance for any case](../claims/node2-treatment-decision-risk-differences-null.md) [+W]
 
 ## Related Strategies

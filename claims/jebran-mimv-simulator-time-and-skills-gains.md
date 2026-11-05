@@ -51,3 +51,4 @@ Pre-post training study reported in the review: 10 residents and 10 students lea
 - [Simulation-based training significantly improves surgical trainees' time to completion, technical errors, skills scores and theoretical knowledge in heart valve surgery](sbt-improves-valve-surgery-trainee-outcomes.md) — a broader claim this one bears on
 - [A 2-day endoscopic mitral annuloplasty course significantly improved operative speed, suture accuracy and theoretical knowledge](sardari-nia-endoscopic-mv-course-gains.md) — related
 - [Three months of bovine-heart mitral valve repair simulation improved coaptation depth and regurgitation scores in junior and senior residents](tavlasoglu-coaptation-regurgitation-gains.md) — related
+- [All training groups improved repair times with repeated exposure to the simulator](repeated-exposure-improves-durotomy-repair-times.md) — related

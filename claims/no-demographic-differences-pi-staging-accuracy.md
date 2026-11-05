@@ -52,3 +52,4 @@ Bivariate analyses and ANOVA of the 330-RN cross-sectional sample found "No stat
 - [Registered nurses in three Saudi tertiary hospitals scored a mean 62.54% on pressure injury staging knowledge items, below the 70% threshold used in previous studies](nurses-pi-staging-knowledge-62-percent.md) — related
 - [Nurses' mean accuracy in classifying pressure injury photographs was 62.04%, consistent with their knowledge scores](nurses-photo-based-pi-staging-accuracy-62-percent.md) — related
 - [Age group and staff position are the only demographic factors associated with significant growth in perceived competency, with registered nurses and nurses aged 30–34 showing the greatest gains](age-and-staff-position-moderate-competency-growth.md) — related
+- [No consistent significant differences in competency or caring scores across socio-demographic characteristics in univariate analyses](no-consistent-univariate-demographic-differences.md) — related

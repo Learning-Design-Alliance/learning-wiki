@@ -58,3 +58,4 @@ The review reports, citing multiple studies, a paradox in the AI-feedback litera
 - [Students' narratives frame simulations ambivalently: anxiety and performance insecurity coexist with perceived safe space for learning from mistakes](ambivalent-narratives-simulation-anxiety-safe-space.md) — related
 - [Clinical simulation is perceived as a safe environment that allows learning from mistakes without risk to patients](simulation-safe-environment-learning-from-errors.md) — related
 - [Fear of embarrassment and lack of psychological safety reduce nursing students' participation and retention in active learning activities](psychological-safety-barrier-active-learning-nursing.md) — related
+- [The placement acted as a safe space fostering self-efficacy, intellectual humility, and uncertainty tolerance](anatomy-ems-safe-space-personal-development.md) — related

@@ -48,3 +48,4 @@ Comparative educational evaluation study with pre–post self-assessment (Babu e
 - [Significant improvements in confidence, performance, management, communication, anxiety and knowledge scores were reported following ISS, but four controlled comparisons found no significant difference versus control or comparison training](iss-ntos-outcomes-mixed-controlled-comparisons.md) — related
 - [NTS training for emergency department professionals is associated with consistent pre- to post-training improvements in knowledge, teamwork attitudes, and self-confidence (low to moderate certainty).](nts-training-improves-ed-learning-outcomes.md) — related
 - [Poverty simulations improve average poverty attitudes among dental students immediately after participation](poverty-simulations-improve-average-poverty-attitudes.md) — related
+- [Total attitude scores (APuP) significantly improved after training (dz = 1.728)](apup-attitude-scores-improved-after-training.md) — related

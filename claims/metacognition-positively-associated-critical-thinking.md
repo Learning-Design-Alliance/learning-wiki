@@ -9,7 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: mark-feng-teng-2022
     resource: "https://doi.org/10.1007/s11409-022-09328-5"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Metacognition was significantly and positively associated with EFL students' critical thinking skills, with a normalized path coefficient of 0.870. [→ Mark Feng Teng 2022](#mark-feng-teng-2022)

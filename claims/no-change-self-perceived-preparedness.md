@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Neither exam format meaningfully changed students' self-perceived preparedness for the upcoming summative exam"
-description: "Neither exam format meaningfully changed students' self-perceived preparedness for the upcoming summative exam"
+title: "Students' self-rated preparedness for the upcoming summative exam did not meaningfully change from pre-test to post-test within the exam-format groups"
+description: "Students' self-rated preparedness for the upcoming summative exam did not meaningfully change from pre-test to post-test within the exam-format groups"
 id: no-change-self-perceived-preparedness
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 2
 ---
 
-# Neither exam format meaningfully changed students' self-perceived preparedness for the upcoming summative exam
+# Students' self-rated preparedness for the upcoming summative exam did not meaningfully change from pre-test to post-test within the exam-format groups
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` A mixed-effects repeated-measures model found no significant main effects of time, group, or time × group interaction on self-rated preparedness. [→ Al-Najafi Dheyaa 2026](#al-najafi-dheyaa-2026)
+`q3 i?` A mixed-effects repeated-measures model found no significant change in self-rated preparedness from pre-test to post-test within the exam-format groups. [→ Al-Najafi Dheyaa 2026](#al-najafi-dheyaa-2026)
 
 ## Evidence
 

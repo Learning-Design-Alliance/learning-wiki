@@ -51,5 +51,5 @@ Within-group comparison in the CAI (experimental) group of 46 students; Table 4 
 - [Eighth-standard students learning English grammar voice through CAI show a significantly larger mean gain score than students taught through conventional instruction](cai-gain-exceeds-cim-voice-grammar.md) — reports the opposite
 - [Sex does not significantly influence gain in learning Voice in English Grammar in the CIM and CAI groups](sex-variable-no-effect-voice-grammar.md) — related
 - [The experimental group showed a statistically significant gain from pretest to post-test after personalized grammar instruction](experimental-group-pretest-posttest-gain.md) — related
-- [Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
+- [The experimental group showed statistically significant pre-to-post achievement gains in the EFL teaching methods course after Blackboard-based instruction](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
 - [Experimental-group LD students taught through CAI show a significant pre-test to post-test achievement gain in English](cai-significant-pre-post-gain-ld-students.md) — related

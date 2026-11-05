@@ -77,3 +77,5 @@ Qualitative comparison of AI-agent and human discursive moves. The authors find 
 - [LLMs are more intrusive and more consistent than humans, eager to view neutral discussions as opportunities for positive reinforcement](llms-over-intervene-positive-reinforcement.md) — related
 - [LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection](llm-participants-stage-goal-clarification.md) — related
 - [Students engaged deeply with LLM feedback, with coded evidence of reflection, rebuttal, and acceptance in the large majority of responses](deep-engagement-llm-feedback-reflection-rebuttal-acceptance.md) — related
+- [LLM-based virtual patients predominantly lack emotional depth or expressions of concern, lowering Personal dimension ratings](lack-emotional-depth-lowers-personal-ratings.md) — related
+- [LLM-based virtual patients never ask for clarification of ambiguous questions, tending to provide overly detailed responses](never-ask-clarification-overly-detailed-responses.md) — related

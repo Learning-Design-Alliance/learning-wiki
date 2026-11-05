@@ -9,7 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-22
+source_checked: 2026-11-05
 sources:
   - id: eunjin-seo-2025
     resource: "https://doi.org/10.1007/s10648-025-10082-8"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues that fixed mindset peer cultures may act as a social amplifier of stereotype threat, making the stakes of confirming a stereotype feel more real, though this mechanism has not yet been tested directly at the peer level. [→ Eunjin Seo 2025](#eunjin-seo-2025)
@@ -59,3 +59,4 @@ Theoretical argument in the review's identity-threat pathway section. The author
 - [Peer mindsets are socially transmissible: a recent meta-analysis links peers' mindsets to students' own mindsets](peer-mindset-social-contagion-meta-analysis.md) — related
 - [Students who perceive their teacher as supporting a growth mindset report greater belonging and reduced evaluative concerns, impostor feelings, and negative affect](perceived-growth-teacher-belonging-reduced-vulnerability.md) — related
 - [Students in the equity-oriented pedagogy reported positive psychosocial outcomes, a growth mindset, and reduced stereotype threat](equity-pedagogy-growth-mindset-reduced-stereotype-threat.md) — related
+- [Peer assessment is vulnerable to implicit bias influenced by status perceptions, with women and minoritized students receiving lower evaluations despite substantive contributions.](peer-assessment-implicit-bias-status-perceptions.md) — related

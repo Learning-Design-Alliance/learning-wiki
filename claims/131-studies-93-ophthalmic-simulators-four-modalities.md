@@ -53,3 +53,4 @@ Systematic review results section reporting the final yield of the PRISMA search
 - [Extended reality training shows no statistically significant difference in time to complete compared to dry lab training](xr-vs-dry-lab-time-to-complete-no-significant-difference.md) — related
 - [In 82% of studies on transferability, simulation performance was correlated with better operating room performance](simulation-performance-correlated-better-or-performance.md) — related
 - [Robotic novices trained with extended reality simulators complete tasks significantly faster than novices with no additional training](xr-training-faster-time-to-complete-than-no-training.md) — related
+- [Dry-lab training promotes technical skill development more than VR training](dry-lab-training-exceeds-vr-robotic-skills.md) — related

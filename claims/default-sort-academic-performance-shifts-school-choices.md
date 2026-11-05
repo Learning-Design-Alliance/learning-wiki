@@ -52,3 +52,4 @@ The paper's summary of its factorial experiment reports that "simple design choi
 - [Commuting distance, school demographics, and academics play important roles in parents' school choices in Washington, DC](dc-parents-distance-demographics-academics-drive-choice.md) — related
 - [After school closings, proximity to home was the deciding factor in families' enrollment choices, outweighing school ratings](proximity-decided-post-closing-enrollment.md) — related
 - [How school information is presented can affect how parents rank their school choices](school-info-presentation-affects-school-rankings.md) — a broader claim this one bears on
+- [Embedding choice architecture (defaults, traffic-light labeling, item positioning) into online school canteen ordering systems significantly improved the nutritional quality of student purchases without requiring active educational engagement](choice-architecture-online-canteen-improves-purchases.md) — related

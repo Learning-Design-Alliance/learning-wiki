@@ -49,3 +49,5 @@ The randomized trial reported the video-assisted PBL group achieved the highest 
 - [Video-assisted PBL enhances academic self-efficacy more than traditional PBL](video-assisted-pbl-enhances-academic-self-efficacy.md) — related
 - [Video-assisted PBL yields higher pediatric nursing knowledge than traditional PBL and conventional teaching](video-assisted-pbl-higher-pediatric-knowledge.md) — related
 - [Web-assisted instruction with emotional intelligence content produced higher post-test academic achievement, environmental attitudes and emotional intelligence than traditional lecture in 8th-grade energy-saving instruction](web-assisted-ei-content-posttest-advantage.md) — related
+- [3DIPT-assisted teaching produces higher self-directed anatomy learning scores than traditional teaching after 6 months](3dipt-higher-self-directed-anatomy-learning.md) — related
+- [3DIPT-assisted teaching produces higher mobile learning willingness scores than traditional teaching after 6 months](3dipt-higher-mobile-learning-willingness.md) — related

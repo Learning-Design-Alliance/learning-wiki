@@ -49,3 +49,4 @@ Cross-sectional comparison of two intervention groups (n=180) with image access 
 - [Access to online anatomical images significantly improves online self-assessment quiz scores](online-images-improve-quiz-scores.md) — related
 - [Students strongly endorse online anatomical image repositories and quizzes as learning aids](student-satisfaction-anatomical-image-repository.md) — related
 - [Medical students prefer viewing anatomy on pinned cadavers over digital images during practical exams](students-prefer-pinned-cadavers-over-digital-images-practical-exams.md) — related
+- [Trainees show variable delineation skills, with greatest difficulty in anatomically complex regions such as the head and neck](delineation-skill-variability-complex-regions.md) — related

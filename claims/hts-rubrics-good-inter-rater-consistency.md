@@ -9,7 +9,6 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-10-09
 recheck_by: 2024
 sources:
   - id: iwatani-2021
@@ -26,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Intraclass correlation coefficients indicated good overall consistency among three trained scorers applying the activity rubrics (ICC = .74) and student work rubrics (ICC = .71). [→ Iwatani 2021](#iwatani-2021)
@@ -72,3 +71,4 @@ Analysis of pilot rubric scores from three expert world history teachers who sco
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
 - [Posttest scoring by three judges showed high inter-judge reliability across all four poster dimensions](posttest-judge-reliability-kendall-w.md) — related
 - [The SP chicken anastomosis metrics achieved high inter-rater reliability (IRR 0.96) between two blinded trained reviewers](sp-anastomosis-metrics-inter-rater-reliability.md) — a narrower finding that bears on this claim
+- [Between-trainee variance in learning patterns varies by parameter complexity, with subjective evaluations showing high inter-operator variability (mesenteric hypertrophy ICC = 0.479) and small bowel dilation showing minimal clustering (ICC = 0.038)](between-trainee-variance-varies-by-parameter-complexity.md) — related

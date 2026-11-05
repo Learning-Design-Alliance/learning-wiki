@@ -43,7 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 review `r3` · `q3`–`q4` · `i1`–`i2`
-> **Currency** · newest study 2019 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 Learners who plan, monitor, and evaluate their own learning — and who are explicitly taught to do so — achieve better outcomes than learners who study the same material without these self-regulatory processes.
 
@@ -342,6 +342,6 @@ Open questions that evidence entries should address include: which strategy fami
 - [Teachers and students reported that self-monitoring strategies supported academic self-monitoring but produced little behavioral change and were not used for self-regulation](qualitative-views-self-monitoring-strategies.md) — reports the opposite
 - [Online learners reported stronger directed attention but also more giving up when comprehension failed, compared with traditional classroom learners](directed-attention-differences-online-traditional.md) — related
 - [Most schools were already teaching metacognitive and reflective skills similar to those encouraged by ReflectED, which may have limited the programme's additional impact](schools-already-teaching-metacognitive-skills-limited-impact.md) — related
-- [Students developed self-regulation, gaining the ability to monitor problem-solving processes and correct irrelevant strategies, with self-evaluation enabling reflection on their actions](self-regulation-gains-from-self-evaluation-sections.md) — related
+- [Students' self-regulation abilities rose from pre-test to post-test after self-evaluation sections, including monitoring problem-solving processes, correcting irrelevant strategies and reflecting on actions, in one one-group study with no comparison group](self-regulation-gains-from-self-evaluation-sections.md) — related
 - [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](metacognitive-training-increases-writing-self-monitoring.md) — a narrower finding that bears on this claim
 - [Self-regulation and teacher-mediated interventions improve mathematics skills for students with EBD](self-regulation-teacher-mediated-math-ebd.md) — a narrower finding that bears on this claim

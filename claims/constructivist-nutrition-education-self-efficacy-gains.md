@@ -49,3 +49,4 @@ Repeated measures ANOVA of dietary self-efficacy in the same quasi-experimental 
 - [A six-lesson constructivist-oriented nutrition curriculum significantly increased urban middle school students' nutrition knowledge relative to controls](constructivist-nutrition-education-knowledge-gains.md) — related
 - [The intervention changed dietary behaviors for fruits, vegetables, meats and 'other' foods, but not for dairy or grains](constructivist-nutrition-education-behavior-changes.md) — related
 - [For grains consumption, the group main effect and group x time interaction were significant but the time main effect was not](grains-behavior-null-time-effect.md) — related
+- [Game-based school nutrition education consistently improves nutrition knowledge, attitudes, and psychosocial determinants, but evidence for sustained dietary behavior change is heterogeneous](game-based-nutrition-education-knowledge-gains-heterogeneous-behavior.md) — related

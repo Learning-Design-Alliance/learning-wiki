@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Reader confidence in measuring MUL significantly increased across all training groups
-description: Reader confidence in measuring MUL significantly increased across all training groups
+title: Self-reported reader confidence in measuring MUL rose significantly from pre-test to post-test across all training groups in one uncontrolled pre-post study
+description: Self-reported reader confidence in measuring MUL rose significantly from pre-test to post-test across all training groups in one uncontrolled pre-post study.
 id: online-training-improves-mul-reader-confidence
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 2
 ---
 
-# Reader confidence in measuring MUL significantly increased across all training groups
+# Self-reported reader confidence in measuring MUL rose significantly from pre-test to post-test across all training groups in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Self-reported confidence in measuring the MUL significantly improved across all groups (p < 0.001). [→ Goedegebuure E.P. 2026](#goedegebuure-ep-2026)
+`q3 i?` Self-reported confidence in measuring the MUL rose significantly from pre-test to post-test across all groups in one uncontrolled pre-post study (p < 0.001). [→ Goedegebuure E.P. 2026](#goedegebuure-ep-2026)
 
 ## Evidence
 

@@ -47,6 +47,7 @@ The authors propose that if confirmed in larger studies, VR could serve as a use
 ## Related Strategies
 
 - [Integrate virtual reality training as an adjunct into surgical training curricula for junior trainees](integrate-vrt-adjunct-surgical-curricula.md)
+- [Use the K technique as a basis for building VR training models at scale](k-technique-basis-for-vr-training-models.md)
 
 ## Examples
 -

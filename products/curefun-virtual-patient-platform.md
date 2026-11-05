@@ -24,7 +24,7 @@ CureFun is a web-based virtual-patient platform that provides interactive clinic
 
 ### Claims
 - [GP residents showed statistically significant pre-post improvements in history-taking (Cohen's d = 1.11) and clinical reasoning (Cohen's d = 1.32) after a 12-week VP training program](../claims/vp-training-improves-history-taking-clinical-reasoning.md) [+M]
-- [Physical examination and medical record writing scores did not improve significantly after the VP program (d = 0.28 and d = 0.26)](../claims/vp-training-no-gain-physical-exam-documentation.md) [+M]
+- [Physical examination and medical record writing scores did not change significantly from pre-test to post-test in one single-group pre-post study with no comparison group (d = 0.28 and d = 0.26)](../claims/vp-training-no-gain-physical-exam-documentation.md) [+M]
 
 ## Related Products and Programmes
 -

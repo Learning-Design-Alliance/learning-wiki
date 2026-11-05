@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Seifoori 2016: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Experimental participants produced significantly more fluent task-based speech (lower repair-fluency scores) than control participants after a fifteen-session metacognitive awareness program. [→ Seifoori 2016](#seifoori-2016)

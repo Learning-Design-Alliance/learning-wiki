@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2` · `i1` small
-> **Currency** · newest study 2007 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` With both α and γ processes, the normalized gain always has explicit pretest-score terms and a positive correlation with pretest score is expected. [→ Lei Bao 2007](#lei-bao-2007)

@@ -56,3 +56,6 @@ Regression and descriptive comparison of students grouped by total utterances (b
 - [Integrating LLMs into data science course feedback systems improved student engagement and learning outcomes](llm-feedback-systems-data-science-engagement-outcomes.md) — related
 - [The five clustering variables differed significantly across the four clusters, with large effect sizes for all five.](five-variables-differentiate-four-clusters.md) — related
 - [AI utility perception, but not usage frequency, is associated with learning outcomes](ai-utility-perception-not-frequency-predicts-learning.md) — reports the opposite
+- [In a single-cohort pilot, students in the High e-module engagement cluster had significantly higher Journal Article assignment scores than the Medium cluster (p = 0.01), with small consistent advantages across all assignments](high-engagement-higher-journal-assignment-scores.md) — related
+- [Higher GPT usage frequency is associated with more positive student perceptions, with significant differences between high and low usage groups](usage-frequency-associated-with-positive-perceptions-gpt-companion.md) — related
+- [Higher e-module engagement clusters had marginally higher final course grades, with significant differences for the Journal Article assignment and Concept Map modules](engagement-final-grade-differences-journal-concept-map.md) — related

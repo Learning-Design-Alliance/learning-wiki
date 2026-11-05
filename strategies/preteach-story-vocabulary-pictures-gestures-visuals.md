@@ -43,7 +43,7 @@ This strategy sequences vocabulary work before and during storytelling: learners
 - [Control-group learners also improved significantly from pretest to posttest, but less than the storytelling group](../claims/control-group-significant-prepost-improvement-outperformed.md) [+W]
 - [A storytelling approach produced significantly higher vocabulary posttest scores than traditional instruction for young Iranian EFL learners](../claims/storytelling-approach-vocabulary-posttest-advantage-young-efl.md) [+W]
 - [Storytelling instruction was followed by an interest-rate boost for nearly all experimental-group learners](../claims/storytelling-boosts-young-efl-learner-interest-rate.md) [+W]
-- [Experimental-group learners significantly improved vocabulary knowledge from pretest to posttest after storytelling instruction](../claims/storytelling-experimental-group-prepost-vocabulary-gain.md) [+W]
+- [Experimental-group learners' vocabulary knowledge rose significantly from pretest to posttest after storytelling instruction, measured within the experimental group](../claims/storytelling-experimental-group-prepost-vocabulary-gain.md) [+W]
 
 ## Related Strategies
 

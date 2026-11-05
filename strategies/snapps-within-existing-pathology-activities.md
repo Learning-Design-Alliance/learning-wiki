@@ -45,8 +45,8 @@ The article recommends embedding SNAPPS in routine academic activities: "SNAPPS 
 - [SNAPPS checklist scores improved for all six components, with self-directed learning lowest (median 1 to 2)](../claims/snapps-checklist-scores-improved-all-components.md) [+W]
 - [Over 90% of residents responded positively to most feedback items, but about 57% were neutral or negative on time required](../claims/snapps-feedback-positive-except-time-burden.md) [+W]
 - [Third-year residents showed the greatest MCQ learning gains under SNAPPS (p < 0.0001)](../claims/snapps-greatest-gains-third-year-residents.md) [+W]
-- [SNAPPS-based case presentation improves post-test MCQ scores across all three pathology residency years](../claims/snapps-improves-mcq-scores-pathology-residents.md) [+W]
-- [Probing the preceptor showed one of the largest behavioural changes, with residents actively asking questions after SNAPPS](../claims/snapps-probe-increases-resident-questions.md) [+W]
+- [Post-test MCQ scores rose from pre-test to post-test across all three pathology residency years in one single-group pre-post study of SNAPPS-based case presentation](../claims/snapps-improves-mcq-scores-pathology-residents.md) [+W]
+- [Residents' probing-question scores rose from 3 to 4 from before to after SNAPPS, in one uncontrolled pre-post study](../claims/snapps-probe-increases-resident-questions.md) [+W]
 
 ## Related Strategies
 - 

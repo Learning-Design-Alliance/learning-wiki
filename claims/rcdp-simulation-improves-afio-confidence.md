@@ -35,8 +35,8 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Self-assessed confidence performing awake fiberoptic intubation increased significantly, from 3.0 (1.5) to 5.1 (1.2), P < .001. [→ Haas D 2026](#haas-d-2026)
-`q3 i?` Self-assessed performance compared with peers at the same training stage also improved significantly, from 3.7 (1.5) to 5.0 (1.2), P < .001. [→ Haas D 2026 (2)](#haas-d-2026-2)
+`q3 i?` Confidence performing awake fiberoptic intubation rose significantly from 3.0 (1.5) to 5.1 (1.2), P < .001, from pre-test to post-test after the curriculum, in one single-group pre-post study. [→ Haas D 2026](#haas-d-2026)
+`q3 i?` Self-rated performance compared with peers at the same training stage rose significantly from 3.7 (1.5) to 5.0 (1.2), P < .001, from pre-test to post-test after the curriculum, in one single-group pre-post study. [→ Haas D 2026 (2)](#haas-d-2026-2)
 
 ## Evidence
 
@@ -66,4 +66,4 @@ Same self-assessment survey; self-rated performance relative to peers improved "
 ## Related Claims
 - [Simulation-based rapid-cycle deliberate practice curriculum improved GRS-rated awake fiberoptic intubation performance at three months](rcdp-simulation-improves-afio-grs.md) — related
 - [Self-reported confidence increased after e-learning boosters but did not relate to knowledge or performance](confidence-increases-unrelated-to-nrp-performance.md) — related
-- [Proportion of learners completing intubation in under 120 seconds increased after the curriculum](rcdp-simulation-increases-under-120-seconds-proportion.md) — related
+- [Proportion of learners completing intubation in under 120 seconds rose from pre-test to post-test in one uncontrolled pre-post study](rcdp-simulation-increases-under-120-seconds-proportion.md) — related

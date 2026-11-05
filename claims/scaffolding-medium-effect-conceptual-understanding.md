@@ -46,6 +46,6 @@ Quasi-experimental comparison of conceptual understanding gains on electromagnet
 
 ## Related Claims
 - [Experimental class significantly outperformed control class in ability to write physics teaching materials on both topics](kruskal-wallis-significant-writing-difference.md) — related
-- [Multiple representation ability improved with mixed gains: medium for waves and optics (d = 0.97) and low for electromagnetism (d = 0.80)](multiple-representation-mixed-gains-by-topic.md) — related
+- [Multiple representation ability scores rose from pre-test to post-test in one group, with mixed gains: medium for waves and optics (d = 0.97) and low for electromagnetism (d = 0.80)](multiple-representation-mixed-gains-by-topic.md) — related
 - [Scaffolding between planning and translating stages produced high-effectiveness improvement in pre-service physics teachers' ability to write teaching materials](scaffolding-high-effect-writing-teaching-materials.md) — related
 - [Experimental class significantly outperformed control class in conceptual understanding of electromagnetism](kruskal-wallis-significant-conceptual-difference.md) — related

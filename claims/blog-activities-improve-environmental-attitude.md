@@ -45,7 +45,7 @@ Repeated-measures t-test on the attitude subscale for 56 students. Post-test mea
 
 
 ## Related Claims
-- [Blog activities significantly improved students’ usage of environment](blog-activities-improve-environmental-usage.md) — related
-- [Blog activities significantly improved students’ environmental knowledge](blog-activities-improve-environmental-knowledge.md) — related
+- [Students’ usage of environment scores rose significantly from pre-test to post-test after blog activities, in one uncontrolled pre-post study](blog-activities-improve-environmental-usage.md) — related
+- [Students’ environmental knowledge scores rose significantly from pre-test to post-test after eight weeks of blog activities, in one uncontrolled pre-post study](blog-activities-improve-environmental-knowledge.md) — related
 - [EFL students in the blended Blackboard course reported positive attitudes toward using discussion boards, blogs and wikis for integrated reading/writing](blackboard-cmc-positive-attitudes.md) — related
 - [Blog activities did not improve students’ interest in environmental problems](blog-activities-not-improve-environmental-interest.md) — related

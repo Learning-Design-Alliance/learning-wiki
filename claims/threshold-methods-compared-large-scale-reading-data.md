@@ -9,7 +9,6 @@ generated:
   at: 2026-10-08
 evidence_strength: weak
 newest_evidence: 2021
-source_checked: 2026-10-20
 recheck_by: 2024
 sources:
   - id: soland-2021
@@ -26,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A large-scale study compared threshold-setting methods for detecting noneffortful item responses using reading test scores from over 728,923 3rd-8th-grade students in 2,056 schools in one U.S. state (the abstract says "across the United States", but the Methods section places the data in one state). [→ Soland 2021](#soland-2021)

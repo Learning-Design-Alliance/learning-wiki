@@ -52,3 +52,4 @@ The systematic review's synthesis of curricula elements across all 29 included c
 - [Surgical societies outlined RAS curricula featuring proficiency-based progression, modular intraoperative training, and objective assessment.](surgical-societies-ras-curricula-proficiency-modular-objective.md) — related
 - [Extended reality training shows no statistically significant difference in GEARS scores compared to dry lab training](xr-vs-dry-lab-gears-no-significant-difference.md) — related
 - [A systematic review identified 131 original studies describing 93 different ophthalmic simulation models, distributed across virtual reality, wet-lab, dry-lab and e-learning modalities.](131-studies-93-ophthalmic-simulators-four-modalities.md) — related
+- [Dry-lab training promotes technical skill development more than VR training](dry-lab-training-exceeds-vr-robotic-skills.md) — related

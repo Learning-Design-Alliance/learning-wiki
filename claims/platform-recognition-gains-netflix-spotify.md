@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Both genders improve in recognising AI's role in entertainment platforms after the workshop, with females additionally gaining in identifying TikTok"
-description: "Both genders improve in recognising AI's role in entertainment platforms after the workshop, with females additionally gaining in identifying TikTok"
+title: "Recognition of AI's role in entertainment platforms rose from pre-test to post-test for both genders after the workshop, and females' recognition of TikTok also rose, in one uncontrolled pre-post study"
+description: "Recognition of AI's role in entertainment platforms rose from pre-test to post-test for both genders after the workshop, and females' recognition of TikTok also rose, in one uncontrolled pre-post study"
 id: platform-recognition-gains-netflix-spotify
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# Both genders improve in recognising AI's role in entertainment platforms after the workshop, with females additionally gaining in identifying TikTok
+# Recognition of AI's role in entertainment platforms rose from pre-test to post-test for both genders after the workshop, and females' recognition of TikTok also rose, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`

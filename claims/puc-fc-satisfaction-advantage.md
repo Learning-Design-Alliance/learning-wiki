@@ -48,3 +48,4 @@ Post-course questionnaire on a 1–5 Likert scale adapted from validated flipped
 - [PUC-FC students scored highest on all three practical skill examinations (full crown preparation, pit and fissure sealing, intraoral suture)](puc-fc-skill-exam-advantage.md) — related
 - [PUC-FC students outperformed FC and LBL students on case analysis questions and total theoretical scores, with no difference on basic knowledge questions](puc-fc-case-analysis-advantage.md) — related
 - [Residents taught with BOPPPS/FC-CBL self-rated teaching satisfaction and self-directed learning higher than lecture-taught residents, with large reported effect sizes but an inconsistently described rating scale](boppps-fc-cbl-large-effect-satisfaction-self-directed-learning.md) — related
+- [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related

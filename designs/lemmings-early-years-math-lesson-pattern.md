@@ -39,7 +39,7 @@ The article proposes a lesson plan pattern using the videogame Lemmings to devel
 
 ### Claims
 
-- [After the experience, 100% of students fully agreed the videogame develops heuristic (trial-and-error) thinking](../claims/videogame-heuristic-thinking-unanimous-agreement.md) [+W]
+- [After playing the videogame, 100% of students fully agreed with the heuristic (trial-and-error) thinking item; before playing, 94% were indifferent and 6% disagreed, based on self-reported responses in one single-group pre-post study](../claims/videogame-heuristic-thinking-unanimous-agreement.md) [+W]
 - [Trainee teachers shift toward agreement that videogames help develop the curriculum crosswise after experiencing one](../claims/videogame-experience-shifts-trainee-teacher-acceptance.md) [+W]
 
 ## Related Designs

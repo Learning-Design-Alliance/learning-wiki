@@ -52,3 +52,4 @@ Qualitative finding from the study's analysis of how six secondary teachers conc
 - [Teachers sought to preserve student thinking and authorship by bounding chatbot answer-giving and maintaining teacher control over scope](teachers-preserve-student-thinking-bound-answer-giving.md) — a narrower finding that bears on this claim
 - [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](high-level-feedback-remains-human-responsibility.md) — possibly the same claim (merge candidate)
 - [Authority over assistance boundaries is highly centralized in system logic in LLM-based programming support systems](authority-centralized-system-only-llm-programming-support.md) — reports the opposite
+- [AI feedback positioned as more objective than human judgment threatens professional identity and power dynamics in supervisory relationships](ai-feedback-professional-identity-power-risk.md) — related

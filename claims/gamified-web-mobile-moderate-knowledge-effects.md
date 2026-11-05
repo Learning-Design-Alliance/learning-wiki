@@ -54,3 +54,4 @@ Subgroup analysis of six RCTs (n=295) of gamified web/mobile platforms in the kn
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
 - [Gamified mobile microlearning improved written exam scores but not global clinical performance assessments in psychiatry clerkship students](gamified-microlearning-exam-only.md) — a narrower finding that bears on this claim
 - [E‐learning produces a pooled normalized knowledge gain of 26.8% in undergraduate ENT education, classified as low gain](elearning-ent-pooled-normalized-gain-26-8.md) — related
+- [Game-based school nutrition education consistently improves nutrition knowledge, attitudes, and psychosocial determinants, but evidence for sustained dietary behavior change is heterogeneous](game-based-nutrition-education-knowledge-gains-heterogeneous-behavior.md) — related

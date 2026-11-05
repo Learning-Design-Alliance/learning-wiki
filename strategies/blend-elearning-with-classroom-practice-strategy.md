@@ -44,9 +44,9 @@ This strategy combines e-learning tools — computers, internet lessons, lecture
 
 ## Claims
 
-- [Blended e-learning produced statistically significant pre-post gains in student teachers' teaching implementation skills in favor of the posttest](../claims/blended-learning-significant-pre-post-gains-teaching-skills.md) [+W]
+- [Student teachers' teaching implementation skills were higher at posttest than pretest after blended e-learning, with a statistically significant difference in one uncontrolled pre-post study.](../claims/blended-learning-significant-pre-post-gains-teaching-skills.md) [+W]
 - [Significant pre-post differences favoring the posttest appeared in all three measured skill domains: planning, learning strategies and classroom management, and evaluation](../claims/blended-learning-gains-all-three-domains.md) [+W]
-- [Significant pre-post differences favoring the posttest appeared on every individual standard within the three domains](../claims/blended-learning-gains-all-standards.md) [+W]
+- [In one group with no comparison group, scores were significantly higher at post-test than pre-test on every individual standard within the three domains](../claims/blended-learning-gains-all-standards.md) [+W]
 
 ## Related Strategies
 

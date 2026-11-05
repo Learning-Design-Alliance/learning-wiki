@@ -46,6 +46,7 @@ The article proposes assigning material from outside sources such as YouTube vid
 - [Assess e-learning readiness and motivation before implementing the flipped classroom, and provide brief in-class explanations of out-of-class assignments](fc-readiness-assessment-and-assignment-briefing.md)
 - [Provide short, bite-sized voiceovers as preassignment material followed by engaging in-class review games after a brief Socratic review](bite-sized-voiceover-review-game-strategy.md)
 - [Discussion-Oriented Flipped Classroom](discussion-oriented_flipped_classroom.md)
+- [Scale CBL-FC to larger classes using online pre-class materials, teaching-assistant facilitation, and cross-department faculty collaboration](cbl-fc-scaling-strategy-tas-online-preclass.md)
 
 ## Examples
 -

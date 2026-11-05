@@ -52,3 +52,4 @@ District case report: ICCSD examined 2017 high school CS enrollment against wide
 - Iowa City schools observed inequitable course enrollment in computational thinking, computer science, and advanced STEM electives by race/ethnicity, income, gender, and ELL status — possibly the same claim (merge candidate)
 - Student voices provided insights into factors that may impact participation in CS programs in Iowa City — related
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
+- [Placement participation was elective and self-selected, attracting students more comfortable with teaching's interpersonal demands](anatomy-ems-self-selection-bias.md) — related

@@ -46,5 +46,5 @@ All 46 trainees completed an anonymous 10-item satisfaction questionnaire (Cronb
 
 ## Related Claims
 - [VR-based training yields higher objective structured endoscopic skills scores than model simulation](vr-training-higher-endoscopic-skills-scores.md) — related
-- [VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training](vr-training-higher-satisfaction-self-evaluation.md) — possibly the same claim (merge candidate)
+- [In one group measured before and after, learning satisfaction and self-evaluation ratings were significantly higher after VR-based training than after conventional training](vr-training-higher-satisfaction-self-evaluation.md) — possibly the same claim (merge candidate)
 - [Students trained via VR report significantly greater satisfaction than students trained on real patients or a mannequin](vr-training-greater-satisfaction-ecg-training.md) — related

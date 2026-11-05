@@ -43,8 +43,8 @@ The article recommends concrete adaptations when applying TPRS with very young l
 ## Claims
 
 - [Four-year-olds taught L2 vocabulary with TPRS largely retained it on delayed posttests two weeks later, in a single-group study with no control group](../claims/tprs-long-term-vocabulary-retention-preschoolers.md) [+W]
-- [Receptive vocabulary learning benefits from TPRS instruction more than productive learning in very young learners](../claims/tprs-receptive-outperforms-productive-preschoolers.md) [+W]
-- [TPRS treatment produces a short-term effect on very young learners' receptive and productive L2 vocabulary, with immediate posttest means higher than pretests in all weeks](../claims/tprs-short-term-vocabulary-gains-preschoolers.md) [+W]
+- [Receptive test means were higher than productive test means on immediate and delayed administrations during TPRS instruction among very young learners, in a single-group pre-post study with no comparison group](../claims/tprs-receptive-outperforms-productive-preschoolers.md) [+W]
+- [In one single-group pre-post study of TPRS with very young learners, immediate posttest means for receptive and productive L2 vocabulary were higher than pretest means in all weeks](../claims/tprs-short-term-vocabulary-gains-preschoolers.md) [+W]
 
 ## Related Strategies
 

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: sanchez-martin-et-al-2017
     resource: "https://doi.org/10.3926/jotse.238"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A one-way ANOVA on post-test emotional scores between the experimental and control groups gave a p-value of 0.00, with the experimental group more favourable. [→ Sanchez-Martin et al. 2017](#sanchez-martin-et-al-2017)

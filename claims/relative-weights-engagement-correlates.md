@@ -49,3 +49,4 @@ The relative weights analysis tested the unique and relative predictive contribu
 - [Emotional engagement is the strongest predictor of motivation, especially need-based motivations](emotional-engagement-strongest-predictor-motivation.md) — related
 - [Emotional engagement is the strongest predictor of student well-being](emotional-engagement-strongest-predictor-well-being.md) — possibly the same claim (merge candidate)
 - [Cognitive engagement did not emerge as the strongest predictor of any correlate, leaving its specialized function ambiguous](cognitive-engagement-no-specialized-relation.md) — related
+- [Positive academic emotions strongly predict agentic engagement](pae-predict-agentic-engagement.md) — related

@@ -39,7 +39,7 @@ The article presents a four-level pitch framework (Low /1/, Normal /2/, High /3/
 ### Claims
 
 - If Clause Contour Production Percentages [+M]
-- [A six-hour remedial training session significantly improved participants' recognition of If-clause pitch patterns (p < .05)](../claims/remedial-training-improves-pitch-recognition.md) [+W]
+- [In one single-group pre-post study, participants' recognition scores for If-clause pitch patterns rose from pre-test to post-test after a six-hour remedial training session (p < .05)](../claims/remedial-training-improves-pitch-recognition.md) [+W]
 
 ## Related Designs
 

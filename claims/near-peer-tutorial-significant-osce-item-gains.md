@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Improvements were observed in 14 of 15 OSCE items, with statistically significant gains in elbow palpation (40.2% to 62.0%, p = 0.01), shoulder palpation (41.3 to 71.7, p = 0.0002), shoulder active range of motion (63.0 to 87.0, p = 0.002), shoulder passive range of motion (57.6 to 82.6, p = 0.001), patient comfort (94.6 to 100.0, p = 0.02), and examination organisation (54.3 to 64.1, p = 0.025). [→ Qian Kevin 2026](#qian-kevin-2026)
+`q2 i?` OSCE scores rose from pre-test to post-test in 14 of 15 items, with statistically significant rises in elbow palpation (40.2% to 62.0%, p = 0.01), shoulder palpation (41.3 to 71.7, p = 0.0002), shoulder active range of motion (63.0 to 87.0, p = 0.002), shoulder passive range of motion (57.6 to 82.6, p = 0.001), patient comfort (94.6 to 100.0, p = 0.02), and examination organisation (54.3 to 64.1, p = 0.025), in one uncontrolled pre-post study. [→ Qian Kevin 2026](#qian-kevin-2026)
 
 ## Evidence
 

@@ -73,6 +73,7 @@ Video replay works because it converts fleeting performance into a stable, revie
 - [Use video clips portraying conceptual hurdles and mathematical confusion to provoke inquiry in professional development](conceptual-hurdle-video-clip-selection.md)
 - [Use post-operative OSATS video review and feedback sessions in surgical training programs while automated video analysis is not yet available](postoperative-osats-video-review-feedback-sessions.md)
 - [Use video recordings during debriefing to help students identify their own errors and support reflective learning](video-assisted-debriefing-error-identification-strategy.md)
+- [Use video-recorded simulation sessions followed by instructor-led structured self-reflection and peer review to enable reflection-on-action](video-feedback-structured-reflection-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — expert recordings serve as comparison models for the learner's own replay

@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 100 claims (64 for, 32 mixed, 4 against) · 48 studies (17 quant-synthesis, 13 causal, 8 review, 5 design, 3 associational, 2 theoretical), `q1`–`q4` · 14 of 48 report an effect size · 92 claims rest on one study
+> **Evidence** · 102 claims (65 for, 33 mixed, 4 against) · 49 studies (17 quant-synthesis, 13 causal, 8 review, 5 design, 4 associational, 2 theoretical), `q1`–`q4` · 14 of 49 report an effect size · 94 claims rest on one study
 
 ## Description and scope
 
@@ -115,6 +115,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [TBL produces significantly higher student engagement and peer/instructor interaction than lecture-based instruction](../claims/tbl-higher-engagement-peer-interaction-than-lecture.md) [+W] — attached 2026-11-04 from Kehrli Kelsey F. et al. (2026), which proposed "TBL is a feasible active learning approach for radiology education that does not require increased faculty-to-student ratios".
 - [Team-based readiness assurance test scores significantly exceeded individual readiness assurance test scores in an interdisciplinary TBL session](../claims/t-rat-exceeds-i-rat-interdisciplinary-tbl.md) [+W] — attached 2026-11-04 from Hassan Ahmed Nour Eldin (2026), which proposed "Integrate interdisciplinary TBL sessions into undergraduate health-related curricula"; tests this page's relationship.
 - [Students reported high satisfaction with the interdisciplinary TBL session](../claims/high-satisfaction-interdisciplinary-tbl.md) [+W] — attached 2026-11-04 from Hassan Ahmed Nour Eldin (2026), which proposed "Integrate interdisciplinary TBL sessions into undergraduate health-related curricula".
+- [Focus groups identified lengthy pre-reading material as the predominant driver of learner dissatisfaction and disengagement with TBL.](../claims/tbl-pre-reading-burden-dissatisfaction.md) [+W] — attached 2026-11-04 from Jabeen Kauser et al. (2026), which proposed "Redesign TBL sessions by shortening pre-reading material, right-sizing teams to 5–7, and strengthening peer assessment to improve acceptability without sacrificing learning gains.".
+- [Students found peer evaluation the most challenging aspect of TBL, citing difficulty of honest review and relationship-dependent fairness.](../claims/tbl-peer-evaluation-challenge.md) [~W] — attached 2026-11-04 from Jabeen Kauser et al. (2026), which proposed "Redesign TBL sessions by shortening pre-reading material, right-sizing teams to 5–7, and strengthening peer assessment to improve acceptability without sacrificing learning gains.".
 
 ## Illustrative design instance and observation record
 

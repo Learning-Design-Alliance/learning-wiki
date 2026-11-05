@@ -40,7 +40,7 @@ The article describes a four-stage development procedure: 1) designing, where re
 
 - [Using the Learner's terminological thesaurus and dictionary yields a statistically significant pooled advantage over regular instruction in lexical-skill outcomes](../claims/thesaurus-dictionary-pooled-advantage-lexical-competence.md) [+W]
 - [Within individual assignment types, Fisher exact tests show almost no difference between experimental and control groups](../claims/fisher-tests-no-within-strata-difference.md) [-W]
-- [95% of experimental-learning participants reached sufficient or high levels of lexical skills and speech abilities by course end](../claims/95-percent-sufficient-high-lexical-levels.md) [+W]
+- [95% of experimental-learning participants showed sufficient or high levels of lexical skills and speech abilities at course end in a one-group pre-test-to-post-test study with no comparison group](../claims/95-percent-sufficient-high-lexical-levels.md) [+W]
 
 ## Related Strategies
 

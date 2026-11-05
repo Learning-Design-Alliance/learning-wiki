@@ -44,6 +44,9 @@ The article presents a transferable framework for designing, integrating, and it
 ## Related Designs
 
 - [Pedagogical guides for facilitators and students supporting simulation scenario implementation](pedagogical-guides-sbep-facilitators-students.md)
+- [The ADDIE model as a framework for designing simulation-based delineation training](addie-model-sbl-program-design.md)
+- [Eight-week AI-generated patient scenario programme for rehabilitation education](eight-week-ai-generated-patient-scenario-programme.md)
+- [An online flipped classroom clinical reasoning course for emergency medicine clerkship, designed via a modified ADDIE model](ofc-emergency-medicine-clinical-reasoning-course.md)
 
 ## Examples
 -

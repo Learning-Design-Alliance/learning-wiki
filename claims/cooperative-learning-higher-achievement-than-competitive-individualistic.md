@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 review `r2`, 1 design `r1` · `q2`
-> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1999 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 9 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- deprecated title (2026-10-05, overstated its evidence): Cooperative learning experiences tend to promote higher achievement than competitive and individualistic learning experiences across ages, subjects, and types of learning -->
 

@@ -45,6 +45,6 @@ Post-course feedback questionnaires (Forms B and C) completed by 36 of 40 traine
 
 
 ## Related Claims
-- [Flipped classroom combined with case-based learning improves post-course knowledge quiz scores in nuclear medicine residents](flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) — related
+- [Post-course knowledge quiz scores rose from pre-course to post-course in nuclear medicine residents after a flipped classroom combined with case-based learning, in one uncontrolled pre-post study](flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) — related
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](fc-satisfaction-and-implementation-challenges.md) — related
 - [Students in flipped courses report modestly but consistently higher satisfaction than traditional-course students, with significantly higher perceived instructor availability.](flipped-courses-higher-satisfaction-instructor-availability.md) — related

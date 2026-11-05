@@ -47,4 +47,4 @@ Frequency analysis of students' discourse transcribed from videotaped lessons, c
 ## Related Claims
 - [Teachers increased their English speaking through scaffolding techniques after the experiment](cle-peer-teaching-teacher-scaffolding-increased.md) — related
 - [Strategy-instructed learners deploy a broader repertoire of listening, speaking, reading and writing strategies than untaught peers](strategy-instruction-expands-strategy-repertoire.md) — related
-- [Teachers increased their frequency of English language use in class after CLE training with reciprocal peer teaching](cle-peer-teaching-teacher-english-use-increased.md) — related
+- [Teachers' frequency of English language use in class rose from pre-experiment to post-experiment 1 and 2 intervals after CLE training with reciprocal peer teaching, in one uncontrolled pre-post study](cle-peer-teaching-teacher-english-use-increased.md) — related

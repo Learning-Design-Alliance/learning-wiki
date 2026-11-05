@@ -57,3 +57,5 @@ Instrument development study reporting the validation outcome: the authors state
 - [The attitude questionnaire showed high Cronbach's Alpha reliability in both groups](attitude-questionnaire-high-reliability-both-groups.md) — related
 - [The attitude and motivation questionnaire demonstrated acceptable internal consistency](attitude-motivation-questionnaire-acceptable-reliability.md) — related
 - [The multiple intelligences questionnaire demonstrated reliability with an overall Cronbach's alpha of 0.8587](mi-questionnaire-reliability.md) — related
+- [The Salus-Ed questionnaire demonstrates excellent overall internal consistency (α = 0.95)](salus-ed-internal-consistency.md) — related
+- [The ICO-OCEX demonstrated high internal consistency with an overall Cronbach's alpha of 0.995](ico-ocex-internal-consistency-high-alpha.md) — related

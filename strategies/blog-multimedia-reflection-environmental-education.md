@@ -39,8 +39,8 @@ The article describes an implementable approach: an instructor creates a blog to
 ## Claims
 
 - [Blog activities significantly improved students’ attitudes toward the environment](../claims/blog-activities-improve-environmental-attitude.md) [+W]
-- [Blog activities significantly improved students’ environmental knowledge](../claims/blog-activities-improve-environmental-knowledge.md) [+W]
-- [Blog activities significantly improved students’ usage of environment](../claims/blog-activities-improve-environmental-usage.md) [+W]
+- [Students’ environmental knowledge scores rose significantly from pre-test to post-test after eight weeks of blog activities, in one uncontrolled pre-post study](../claims/blog-activities-improve-environmental-knowledge.md) [+W]
+- [Students’ usage of environment scores rose significantly from pre-test to post-test after blog activities, in one uncontrolled pre-post study](../claims/blog-activities-improve-environmental-usage.md) [+W]
 - [Blog activities did not improve students’ interest in environmental problems](../claims/blog-activities-not-improve-environmental-interest.md) [-W]
 - [Public versus private reflection shows mixed results: private journal paragraphs were more often analytic or integrative overall, but a larger share of public blog paragraphs were integrative big-picture writing](../claims/public-vs-private-reflection-mixed.md) [~W]
 

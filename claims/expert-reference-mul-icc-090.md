@@ -57,3 +57,5 @@ ICC analysis of MUL measurements by two independent faculty members on the 20 te
 - [All three online training methods significantly improved diagnostic performance for MUL measurements on prostate MRI with no significant differences between groups](online-training-improves-mul-diagnostic-performance.md) — related
 - [Both training modalities show poor interobserver reliability relative to expert reference measurements](poor-reliability-both-training-modalities.md) — related
 - [Two independent observers showed excellent interrater agreement when assessing nursing students' VAP prevention skill performance in simulation](excellent-interrater-agreement-vap-checklist.md) — related
+- [XR-based POCUS training is non-inferior to standard training for TAPSE measurement accuracy](xr-training-non-inferior-tapse.md) — related
+- [XR-based POCUS training is non-inferior to standard training for EPSS measurement accuracy](xr-training-non-inferior-epss.md) — related

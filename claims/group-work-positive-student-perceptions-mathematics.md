@@ -52,3 +52,4 @@ Questionnaire survey administered to all 23 students of the Experimental class, 
 - [In a piloted virtual reality WIL, most students reported improved crisis-problem-solving understanding and high enjoyment](vr-wil-crisis-pilot-outcomes.md) — related
 - [Intervention students reported fiction videos made instruction more interesting and helped them understand difficult concepts, but rated hands-on labs as most helpful](student-interviews-fiction-interest-labs-preferred.md) — related
 - [Most surveyed participants reported they had not enjoyed mathematics classes in the past](past-math-class-enjoyment-negative.md) — related
+- [Most students agreed TBL enhanced critical thinking, engagement, accountability, and conceptual understanding, but only about half wanted TBL extended to other modules.](tbl-positive-feedback-mixed-acceptability.md) — related

@@ -46,5 +46,5 @@ Quasi-experiment in grade XI IIS-1 (24 students) at SMAN 15 Surabaya using the R
 
 ## Related Claims
 - [Learner activity and participation increased under the REACT strategy compared with the previous learning model](react-increases-participation-geography.md) — related
-- [A Context Based Learning physics model improves sport science students' analytical thinking skills with a high-category N-gain of 0.78](cbl-sport-context-improves-analytical-thinking-n-gain-078.md) — related
+- [Sport science students' analytical thinking scores rose from pre-test to post-test after a Context Based Learning physics model, with a high-category N-gain of 0.78, in a single-group pre-post study](cbl-sport-context-improves-analytical-thinking-n-gain-078.md) — related
 - [Within the experimental group, achievement scores rose significantly from pre-test to post-test after Multiple Intelligence Theory-based instruction](mi-group-pretest-posttest-gain.md) — related

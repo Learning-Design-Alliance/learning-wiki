@@ -50,3 +50,4 @@ In the same RCT (n = 40), two faculty examiners graded a station-specific OSCE c
 - [In the OSCE, the intervention group outperformed the control group most clearly in AI tool counselling and appropriate closing, contributing substantially to a two-point total difference](osce-largest-differences-ai-counselling-closing.md) — related
 - [Integrated micro-skills training-CPTM improves OSCE practical skill scores versus traditional teaching](microskills-cptm-higher-osce.md) — related
 - [Residents in the iHEC-integrated teaching cohort achieved higher post-rotation OSCE scores than the conventional cohort (Cohen's d = 0.82)](ihec-higher-osce-scores.md) — related
+- [AI-assisted CBL+FC residents achieve higher OSCE total scores than lecture controls, driven by history collection and physical examination stations](ai-assisted-cbl-fc-osce-total-scores.md) — related

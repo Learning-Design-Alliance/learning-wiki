@@ -51,3 +51,7 @@ Non-randomized controlled pre-post study of 120 clinical medical interns (60 per
 - [Medical interns in a 3D printing-assisted family-school-hospital programme had higher social medical curiosity scores after baseline adjustment than a non-randomised traditional-teaching group](fsph-3d-model-improves-social-medical-curiosity.md) — related
 - [Regression confirms robust intervention effect after covariate adjustment (B=3.924)](llm-vsp-regression-robust-effect.md) — related
 - [Intervention students had significantly greater improvement in all skills after adjusting for demographic and school characteristics (regression coefficients β = 0.17–0.44)](steps-for-life-adjusted-regression-gains.md) — related
+- [3DIPT-assisted teaching produces higher mobile learning willingness scores than traditional teaching after 6 months](3dipt-higher-mobile-learning-willingness.md) — related
+- [3DIPT-assisted teaching produces higher self-directed anatomy learning scores than traditional teaching after 6 months](3dipt-higher-self-directed-anatomy-learning.md) — related
+- [3DIPT-assisted teaching produces higher social medical curiosity scores than traditional teaching after 6 months](3dipt-higher-social-medical-curiosity.md) — related
+- [3DIPT-assisted teaching produces higher transformational learning readiness scores than traditional teaching after 6 months](3dipt-higher-transformational-learning-readiness.md) — related

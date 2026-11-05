@@ -65,6 +65,7 @@ The brief recommends that postsecondary leaders develop comprehensive AI usage g
 - [Tailor AI deployment to specific applications and stakeholder groups rather than applying a one-size-fits-all integration approach](stakeholder-specific-ai-deployment-strategy.md)
 - [Phased implementation roadmap for departments adopting GenAI personalization](phased-genai-adoption-roadmap.md)
 - [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
+- [Extend AI tutor implementation across modules, expand question banks, and establish ethical oversight guidelines](future-directions-ai-tutor-expansion-and-oversight.md)
 
 ## Examples
 -

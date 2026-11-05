@@ -54,3 +54,4 @@ Cluster analysis (Fig. 6) across theoretical, practical, medical record, autonom
 - [TBL alone and TBL combined with other methods both outperform LBL, with no significant difference between the two TBL formats](tbl-alone-versus-blended-no-significant-difference.md) — related
 - [PBL and TBL significantly improve nursing students' self-directed learning](pbl-tbl-self-directed-learning-subgroups.md) — related
 - [CBL effects differ between theoretical and practical courses for knowledge, skill and comprehensive ability scores](cbl-subgroup-theoretical-versus-practical-courses.md) — related
+- [Focus groups identified lengthy pre-reading material as the predominant driver of learner dissatisfaction and disengagement with TBL.](tbl-pre-reading-burden-dissatisfaction.md) — related

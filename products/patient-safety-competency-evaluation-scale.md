@@ -27,6 +27,7 @@ A 35-item, six-dimension Likert self-report scale developed by Wang et al. (2018
 ## Related Products and Programmes
 
 - [Health Literacy Competencies Scale for Nurses (HLC-N)](health-literacy-competencies-scale-for-nurses-hlc-n.md)
+- [Critical Thinking Diagnostic Scale (CTDS), Chinese version](critical-thinking-diagnostic-scale-ctds-chinese-version.md)
 
 ## Key Sources
 - Chen Daoming, Li Chenxi, Su Yubin, Wu Fang, Fang Xiaoru, Chu Hongwei, Bai Shuang. (2026). Patient Safety Competency Among Operating Room Nurses: Associations With Safety Attitudes, Systems Thinking and Burnout in a Multicentre Cross‐Sectional Study. Nursing Open. https://doi.org/10.1002/nop2.70831

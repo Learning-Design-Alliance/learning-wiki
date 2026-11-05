@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Amiripour 2017: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Grade 2 experimental students had a lower pretest mean but a significantly higher posttest mean than control students (p < 0.05). [→ Amiripour 2017](#amiripour-2017)

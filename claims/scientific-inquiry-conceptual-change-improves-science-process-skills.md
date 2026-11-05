@@ -47,7 +47,7 @@ Same quasi-experimental study with 62 students. SPS was assessed via observation
 ## Related Claims
 - [Experimental class shows higher average SPS observation percentages across all three meetings](experimental-class-higher-sps-observation-across-meetings.md) — a narrower finding that bears on this claim
 - [Experimental class outperforms control class on every individual science process skill indicator](experimental-class-outperforms-every-sps-indicator.md) — a narrower finding that bears on this claim
-- [Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
+- [Pre-service science teachers' scientific process skills rose significantly from pretest to post-test within the experimental group during inquiry-based instruction in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
 - [The inquiry-based instruction group scored significantly higher than the traditional-approach group on the post-test of scientific process skills](inquiry-group-higher-post-test-spst.md) — related
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related

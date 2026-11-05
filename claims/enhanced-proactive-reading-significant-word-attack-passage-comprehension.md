@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2006 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Statistically significant differences favoring the intervention group appeared on two of four reading measures, Word Attack (effect size 1.53) and Passage Comprehension (effect size 1.32). [→ Enhanced Proactive Reading 2006](#enhanced-proactive-reading-2006)

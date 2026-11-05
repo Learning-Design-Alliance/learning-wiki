@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: spencer-et-al-2019
     resource: "https://doi.org/10.1177/0271121418779439"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
-> **Currency** · newest study 2019 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Spanish receptive knowledge of the targeted words showed only a small effect (d = .34), with several children performing the same or worse at posttest. [→ Spencer et al. 2019](#spencer-et-al-2019)
@@ -55,4 +55,4 @@ Same pretest–posttest vocabulary assessment administered in Spanish. Mean rose
 - [Simultaneous and sequential DLL learners show opposite vocabulary patterns in English versus the home language](simultaneous-sequential-vocabulary-differences.md) — related
 - [Bilingual children's English and Spanish receptive vocabulary and oral comprehension both increased across two years of Head Start, with group advantages in the language of prior exposure](receptive-language-growth-head-start-both-languages.md) — related
 - [Children receiving the home plus preschool LINK intervention outperformed preschool-only children on Spanish vocabulary gains (d = 0.91 RNA; d = 0.79 RVK)](home-plus-preschool-beats-preschool-only-spanish.md) — related
-- [Treatment preschoolers significantly improved Spanish receptive and expressive vocabulary and English receptive vocabulary from pre-test to post-test, with moderate effect sizes](link-prepost-vocabulary-gains-spanish-english.md) — related
+- [Among preschoolers in the treatment group, Spanish receptive and expressive vocabulary and English receptive vocabulary rose significantly from pre-test to post-test, with moderate effect sizes, in one uncontrolled pre-post study](link-prepost-vocabulary-gains-spanish-english.md) — related

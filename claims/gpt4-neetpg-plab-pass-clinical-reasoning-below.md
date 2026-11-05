@@ -53,3 +53,4 @@ Narrative synthesis of five NEET-PG and three PLAB benchmark studies. The review
 - [Ten large language models achieved mean accuracies of 72–85% on the complete 300-item European Board of Hand Surgery written examination, with seven of ten reaching or exceeding an illustrative 75% pass threshold.](llm-ebhs-exam-accuracy-range-72-85-percent.md) — related
 - [ChatGPT-4 achieved an overall accuracy of 81% on the Polish PES orthopedics exam, exceeding the 75% passing threshold on average](chatgpt-4-81-percent-accuracy-pes-orthopedics.md) — related
 - [Current-generation LLMs achieve 86% to 94% mean success rates on European anesthesiology examination questions, exceeding the EDAIC part I passing threshold](llm-success-rates-86-94-percent-anesthesiology-exams.md) — related
+- [GPT-5.2's 95% CI straddled the 74% pass mark, making its pass status dependent on sitting-specific calibration](gpt-5-2-ci-straddles-pass-mark.md) — a narrower finding that bears on this claim

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A single-session rule-based DCBL intervention did not produce a statistically significant overall change in SCT-measured antibiotic-stewardship reasoning among MBBS learners
-description: A single-session rule-based DCBL intervention did not produce a statistically significant overall change in SCT-measured antibiotic-stewardship reasoning among MBBS learners
+title: Overall SCT-measured antibiotic-stewardship reasoning scores rose from pre-test to post-test, without a statistically significant change, among MBBS learners after a single-session rule-based DCBL intervention in one uncontrolled pre-post study
+description: Overall SCT-measured antibiotic-stewardship reasoning scores rose from pre-test to post-test, without a statistically significant change, among MBBS learners after a single-session rule-based DCBL intervention in one uncontrolled pre-post study
 id: single-session-dcbl-no-significant-overall-sct-change
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# A single-session rule-based DCBL intervention did not produce a statistically significant overall change in SCT-measured antibiotic-stewardship reasoning among MBBS learners
+# Overall SCT-measured antibiotic-stewardship reasoning scores rose from pre-test to post-test, without a statistically significant change, among MBBS learners after a single-session rule-based DCBL intervention in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -46,7 +46,7 @@ Quasi-experimental single-group pre-post study of 271 MBBS learners. Paired t-te
 
 ## Related Claims
 - [Case-wise risk differences in appropriate treatment decisions at Node-2 did not reach statistical significance for any case](node2-treatment-decision-risk-differences-null.md) — related
-- [Individual learner responses to the DCBL intervention were highly heterogeneous across all three case domains](heterogeneous-individual-sct-responses-dcbl.md) — related
+- [Across all three case domains, individual learner SCT scores showed heterogeneous rises, falls, or no change from pre-test to post-test in one single-group pre-post study of DCBL](heterogeneous-individual-sct-responses-dcbl.md) — related
 - [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — related
-- [The UTI case showed a statistically significant domain-specific SCT improvement, while URTI and diarrhoea cases showed no significant change](uti-case-significant-sct-improvement.md) — related
+- [In one single-group pre-post study with no comparison group, UTI SCT scores rose significantly from pre-test to post-test, while URTI and diarrhoea SCT scores did not change significantly](uti-case-significant-sct-improvement.md) — related
 - [Interactive e-learning does not improve clinical reasoning measured by script concordance test compared with passive e-learning](e-learning-no-sct-clinical-reasoning-gain.md) — related

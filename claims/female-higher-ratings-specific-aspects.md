@@ -54,3 +54,4 @@ T-tests comparing male and female mean ratings (Tables 4-7) find "female student
 - [Female students give a higher average global satisfaction rating to e-learning courses than male students](female-students-more-satisfied-e-learning.md) — related
 - [Tutor contribution is important for female students' global satisfaction but irrelevant for male students](tutor-contribution-female-satisfaction.md) — related
 - [Female students scored significantly higher than males on higher-order thinking skills (p = 0.015).](females-higher-hot-scores.md) — related
+- [Male students reported higher confidence than female students despite no performance difference](male-students-report-higher-confidence-no-performance-difference.md) — related

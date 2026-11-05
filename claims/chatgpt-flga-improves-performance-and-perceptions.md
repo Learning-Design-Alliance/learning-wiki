@@ -9,7 +9,6 @@ generated:
   at: 2026-10-15
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-16
 sources:
   - id: li-2023
     resource: "https://doi.org/10.14742/ajet.8923"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students in the experimental group learning with ChatGPT-FLGA showed significantly improved performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking compared with the control group. [→ Li 2023](#li-2023)
@@ -57,7 +56,7 @@ A quasi-experiment in a courseware project compared two classes: one randomly as
 - [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](early-exposure-enhances-ai-self-efficacy.md) — related
 - [Creative Inquiry course produced a significant increase in participants' creative self-efficacy](creative-inquiry-course-creative-self-efficacy-increase.md) — related
 - [AI-supported inquiry-based learning significantly improved secondary students' creative mathematical performance compared with traditional instruction](ai-ibi-improves-creative-mathematical-performance.md) — related
-- [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — related
+- [Students using GCLA rated their higher-order thinking skills—critical thinking, problem-solving, and creativity—higher than students using traditional ChatGPT](gcla-improves-hots.md) — related
 - [GCLA does not bolster motivational aspects of SRL: traditional ChatGPT users showed higher intrinsic motivation and higher amotivation than GCLA users](gcla-no-motivation-advantage.md) — reports the opposite
 - [Individual factors supportive of adolescent creativity include openness to experience, intrinsic motivation, creative self-efficacy, and external attributions for adversity](individual-supportive-factors-adolescent-creativity.md) — related
 - [ChatGPT in a flipped classroom with hands-on coding significantly increased computational thinking, self-efficacy, and motivation](chatgpt-flipped-classroom-increased-ct-self-efficacy-motivation.md) — related

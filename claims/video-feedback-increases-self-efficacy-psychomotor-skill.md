@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Linda Bobo 2009: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i3` In a small repeated-measures pilot, self-efficacy differed significantly between trials one and four, one and five, and two and five, all following the video feedback intervention. [→ Linda Bobo 2009](#linda-bobo-2009)

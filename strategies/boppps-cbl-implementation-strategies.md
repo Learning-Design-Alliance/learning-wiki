@@ -54,6 +54,7 @@ The authors recommend four implementation strategies for educators adopting BOPP
 - [Integrate BOPPPS, flipped classroom, and case-based learning into a single pedagogical model for residency training](integrate-boppps-fc-cbl-single-model-residency.md)
 - [Implement CBL with institutional faculty support, clinician facilitators, authentic multimodal cases, preparation incentives and a safe group environment while avoiding behaviour-only assessment](cbl-implementation-strategy-realist-review.md)
 - [Implement faculty development programs, systematic curriculum integration, and student orientation to maximize case-based learning benefits](cbl-structured-implementation-strategy.md)
+- [Scale CBL-FC to larger classes using online pre-class materials, teaching-assistant facilitation, and cross-department faculty collaboration](cbl-fc-scaling-strategy-tas-online-preclass.md)
 
 ## Examples
 -

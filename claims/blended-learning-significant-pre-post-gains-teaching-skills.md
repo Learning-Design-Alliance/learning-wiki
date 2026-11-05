@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Blended e-learning produced statistically significant pre-post gains in student teachers' teaching implementation skills in favor of the posttest"
-description: "Blended e-learning produced statistically significant pre-post gains in student teachers' teaching implementation skills in favor of the posttest"
+title: "Student teachers' teaching implementation skills were higher at posttest than pretest after blended e-learning, with a statistically significant difference in one uncontrolled pre-post study."
+description: "Student teachers' teaching implementation skills were higher at posttest than pretest after blended e-learning, with a statistically significant difference in one uncontrolled pre-post study."
 id: blended-learning-significant-pre-post-gains-teaching-skills
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Blended e-learning produced statistically significant pre-post gains in student teachers' teaching implementation skills in favor of the posttest
+# Student teachers' teaching implementation skills were higher at posttest than pretest after blended e-learning, with a statistically significant difference in one uncontrolled pre-post study.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -45,7 +45,7 @@ Quasi-experimental one-group pre-post study of student teachers in field educati
 
 
 ## Related Claims
-- [Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
+- [The experimental group showed statistically significant pre-to-post achievement gains in the EFL teaching methods course after Blackboard-based instruction](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
 - [Both groups improved from pretest to posttest, with the blended group's posttest means exceeding the control group's](pre-post-gains-blended-exceed-control.md) — related
 - [Online instruction through the CMC-ELT blended model significantly improved MA TEFL students' teaching skills in Pakistan](online-instruction-improves-tefl-teaching-skills-pakistan.md) — related
 - [Both blended and traditionally trained teacher groups improved significantly on all four TPACK-based ICT knowledge dimensions from pretest to posttest](both-groups-pre-post-tpack-gains.md) — related

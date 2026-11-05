@@ -43,7 +43,8 @@ A three-tiered instructional pattern in which gynecologists are stratified into 
 - [Objective Task Time Reduction Suturing Quality Gain](../claims/objective-task-time-reduction-suturing-quality-gain.md) [+M]
 
 ## Related Designs
-- 
+
+- [Tiered training system progressing from admission assessment through graded practice to supervised independent operation](tiered-training-admission-graded-practice.md)
 
 ## Examples
 -

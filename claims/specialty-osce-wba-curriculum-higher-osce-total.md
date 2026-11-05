@@ -49,3 +49,4 @@ Single-center prospective educational intervention with a historical-control com
 - [OSCE gains were uneven across stations and disease modules: contouring station and cervical module differed significantly, plan-evaluation station and NPC/esophageal modules did not](osce-gains-uneven-stations-modules.md) — a narrower finding that bears on this claim
 - [PHEEM total score increased modestly, driven by role autonomy and teaching, with no change in the social-support domain](pheem-total-increased-social-support-null.md) — related
 - [Residents in the iHEC-integrated teaching cohort achieved higher post-rotation OSCE scores than the conventional cohort (Cohen's d = 0.82)](ihec-higher-osce-scores.md) — related
+- [CBE-MDT teaching improves final exam scores compared with traditional teaching in radiation oncology rotations](cbe-mdt-improves-exam-scores-radiation-oncology.md) — related

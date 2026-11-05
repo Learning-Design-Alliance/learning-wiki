@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 94 claims (29 for, 54 mixed, 11 against) · 68 studies (35 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 3 associational, 2 qualitative), `q1`–`q4` · 21 of 68 report an effect size · 87 claims rest on one study
+> **Evidence** · 95 claims (30 for, 54 mixed, 11 against) · 69 studies (36 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 3 associational, 2 qualitative), `q1`–`q4` · 22 of 69 report an effect size · 88 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Media scaffolding increases fifth-grade students' understanding of geometry concepts more effectively than no media scaffolding](../claims/media-scaffolding-effective-geometry-concepts.md) [+W] — attached 2026-11-01 from Sutiarso et al. (2018), which proposed "Teachers should prepare a variety of media scaffolding, attending to students' ability level and gender"; tests this page's relationship.
 - [Teacher guidance integrating argumentative scripts produces deeper whole-class collaborative argumentation than minimal teacher guidance in middle level science classrooms](../claims/argumentative-scripts-teacher-guidance-deepen-collaborative-argumentation.md) [+W] — attached 2026-11-01 from Hsu et al. (2015), which proposed "Use extended teacher guidance rather than minimal guidance to lead middle level students in high-level cognitive tasks in large-class settings"; tests this page's relationship.
 - [Direct scaffolding improves scientific inquiry performance more than indirect scaffolding, especially for students with high prior reasoning skills](../claims/direct-scaffolding-outperforms-indirect-inquiry.md) [+W] — attached 2026-11-03 from Wu et al. (2016), which proposed "Provide direct instructional scaffolding in web-based scientific inquiry to support hypothesis generation and conclusion drawing".
+- [Scaffolding instruction produces significantly higher learning achievement than traditional instruction in undergraduate emergency language courses.](../claims/scaffolding-higher-achievement-emergency-language.md) [+M] — attached 2026-11-04 from Zhu An (2026), which proposed "Use scaffolding rather than traditional lecture-based teaching to promote achievement in foreign language instruction"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

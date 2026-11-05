@@ -66,5 +66,5 @@ Exploratory Welch independent-samples comparisons of unlinked pre- and post-prog
 ## Related Claims
 - [Retention trajectories diverged by centre: Centre 1 retained gains at 30 days while Centre 2 showed significant post-to-delayed decay](podcast-retention-divergence-massed-vs-distributed.md) — related
 - [The pre-post meta-analysis of EAI effects did not reach statistical significance (g∆ = 0.552, p = .070)](eai-prepost-meta-analysis-nonsignificant.md) — related
-- [Using the ePSRL Management System increases postgraduate online students' perceived awareness, understanding and application of self-regulated learning](epsrl-increases-perceived-srl-awareness-understanding-application.md) — related
+- [Postgraduate online students' perceived awareness, understanding and application of self-regulated learning rose from pre-test to post-test after using the ePSRL Management System, in one group with no comparison group](epsrl-increases-perceived-srl-awareness-understanding-application.md) — related
 - [Questionnaire results show no statistically significant differences between groups across all five domains](online-pbl-cbl-questionnaire-no-significant-differences.md) — related

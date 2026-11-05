@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-05
 sources:
   - id: toumi-dhekra-2025
     resource: "https://doi.org/10.62438/tunismed.v103i3.5342"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All six participants involved in the scenario stated they had the opportunity to reflect on and discuss their performance during the debriefing, and all agreed the instructor offered constructive feedback. [→ Toumi Dhekra 2025](#toumi-dhekra-2025)
@@ -46,7 +47,7 @@ Self-reported satisfaction data from the six residents who took part in high-fid
 
 ## Related Claims
 - [All residents in high-fidelity scenarios diagnosed shoulder dystocia and called for assistance within one minute, but key tasks and documentation varied](high-fidelity-scenario-performance-gaps.md) — related
-- [Simulation training significantly improved residents' theoretical knowledge of shoulder dystocia management](simulation-improved-theoretical-knowledge-shoulder-dystocia.md) — related
+- [Residents' theoretical knowledge scores for shoulder dystocia management rose from pre-test to post-test after simulation training, in a single-group pre-post study](simulation-improved-theoretical-knowledge-shoulder-dystocia.md) — related
 - [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](debriefing-psychometric-instruction-valued.md) — related
 - [Feedback and debriefing are the most important educational components of simulation-based learning in cardiac arrest education](feedback-debriefing-most-important-simulation-components.md) — a broader claim this one bears on
 - [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](facilitators-prefer-vad-objective-feedback.md) — related
@@ -60,3 +61,4 @@ Self-reported satisfaction data from the six residents who took part in high-fid
 - [Observed group differences likely reflect the combined influence of modality, self-directed structure, feedback format, and instructor involvement, not VR technology alone](vr-acupuncture-confounded-comparison.md) — related
 - [Group reflection and debriefing after VR simulation is perceived by students as the aspect providing the most learning benefits](group-reflection-debriefing-most-learning-benefit-students.md) — related
 - [Iterative refinement across ten academic cycles improved scenario fidelity, debriefing structure, and CR alignment](iterative-refinement-ten-academic-cycles.md) — related
+- [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related

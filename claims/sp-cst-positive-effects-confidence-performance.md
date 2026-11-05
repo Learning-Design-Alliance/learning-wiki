@@ -65,3 +65,4 @@ The review's synthesis of empirical SP studies across settings (anaesthesia, obs
 - [Authentic cases incorporating patient encounters, role-plays or multimedia motivate preclinical students' engagement and support knowledge gains](cbl-authentic-cases-motivate-engagement-knowledge.md) — related
 - [Feedback facilitators such as faculty coaches can increase trainee receptivity to patient feedback](feedback-facilitators-increase-receptivity.md) — related
 - [Simulated participants judged prepared students as performing better in simulations](sp-reflections-prepared-students-perform-better.md) — a narrower finding that bears on this claim
+- [Virtual standardized patient interview comprehensiveness rose across successive SP consultations in the AI-assisted group, in one uncontrolled pre-post study](virtual-sp-interview-comprehensiveness-increases-sp1-sp3.md) — a narrower finding that bears on this claim

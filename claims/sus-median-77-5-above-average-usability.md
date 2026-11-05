@@ -55,3 +55,4 @@ Adapted SUS administered to clinician testers after each testing round of the te
 - [Usability testing with 12 clinician testers over 2 cycles identified 52 usability issues, of which 15 required correction before piloting with learners](usability-testing-52-issues-15-critical.md) — a broader claim this one bears on
 - [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — related
 - [During initial testing, issues were identified in 9 of 40 simulations, generally minor, and testers still rated the simulator favourably](initial-testing-minor-issues-9-of-40.md) — related
+- [Mobile AR for anatomy education received a mean System Usability Scale score of 58.25 (SD ±15.41), below the average threshold of 68 and translating to a 'D' grade](mobile-ar-anatomy-sus-58-25-d-grade.md) — related

@@ -61,6 +61,7 @@ The authors recommend a "scaffolded integration of these methods": utilizing "Ca
 - [Use combined PBL-CBL teaching in clinical settings where direct patient exposure is limited](pbl-cbl-for-limited-patient-exposure-settings.md)
 - [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](scaffolded-collaborative-to-individual-simulation-progression.md)
 - [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
+- [Introduce complex semi-quantitative assessments after trainees establish foundational skills, using targeted image review sessions for challenging parameters](staggered-learning-approach-ius-training.md)
 
 ## Examples
 -

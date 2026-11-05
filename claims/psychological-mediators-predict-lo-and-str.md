@@ -48,3 +48,4 @@ T2 mediation model in the 216-student welding study; LO and STR were objective c
 - [Dual Empowerment positively predicts affective, motivational, and cognitive mediating processes](dual-empowerment-predicts-psychological-mediators.md) — related
 - [Learning outcomes and skill transfer/retention are moderately strongly correlated at each of the three measurement waves](lo-str-within-wave-correlations-moderate.md) — related
 - [Need-based experiences mediate the effects of task difficulty and instructional style on motivational, cognitive, affective and behavioral outcomes](need-experiences-mediate-difficulty-and-style-effects.md) — related
+- [FPS rate gains by training year: third-year STRs improved significantly (50.0% to 85.2%), second-year gains not significant (62.5% to 88.2%)](pdca-fps-gains-by-training-year.md) — related

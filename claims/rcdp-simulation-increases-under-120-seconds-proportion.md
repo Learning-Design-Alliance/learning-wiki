@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Proportion of learners completing intubation in under 120 seconds increased after the curriculum
-description: Proportion of learners completing intubation in under 120 seconds increased after the curriculum
+title: Proportion of learners completing intubation in under 120 seconds rose from pre-test to post-test in one uncontrolled pre-post study
+description: Proportion of learners completing intubation in under 120 seconds rose from pre-test to post-test in one uncontrolled pre-post study
 id: rcdp-simulation-increases-under-120-seconds-proportion
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Proportion of learners completing intubation in under 120 seconds increased after the curriculum
+# Proportion of learners completing intubation in under 120 seconds rose from pre-test to post-test in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`

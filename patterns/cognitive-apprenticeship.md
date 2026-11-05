@@ -151,7 +151,7 @@ This pattern is general across domains; a clinical round, a writing workshop or 
 - [Engagement was reported more during the unscaffolded fadeout phase, while curiosity and neutral were reported more during the scaffolded learning phase](../claims/affect-differences-scaffolded-fadeout-phases.md) [~W]
 - [A simulated learning companion using menu-based dialogue in an ITS encourages student reflection and articulation, enhancing learning](../claims/menu-based-learning-companion-encourages-reflection-articulation.md) [+W]
 - [Desktop VR with scaffolded interaction and reflective self-explanation increases self-efficacy compared to traditional instruction](../claims/desktop-vr-scaffolded-self-explanation-self-efficacy.md) [+W]
-- [CA students in all four learning styles significantly improved self-directed learning ability](../claims/ca-all-learning-styles-improved-sdl-ability.md) [+W]
+- [CA students in all four learning styles had significantly higher self-rated self-directed learning ability at post-test than at pre-test in one uncontrolled pre-post study](../claims/ca-all-learning-styles-improved-sdl-ability.md) [+W]
 
 ## Related Patterns
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md) — shares the principle of worked examples fading to full tasks; provides more formal scaffolding design rules for complex learning

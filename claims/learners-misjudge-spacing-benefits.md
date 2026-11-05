@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q3`
-> **Currency** · newest study 2009 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 Learners systematically predict that massed practice will serve them better than spaced practice, even though spacing reliably produces stronger long-term retention — a metacognitive error that leads them to choose study schedules that undermine their own learning.
 

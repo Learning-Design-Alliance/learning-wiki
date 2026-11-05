@@ -47,3 +47,4 @@ Kruskal–Wallis test comparing PCC competency across three sources of patient r
 ## Related Claims
 - [Demographic and professional characteristics showed no statistically significant associations with PCC competency scores](no-demographic-associations-pcc-competency.md) — a broader claim this one bears on
 - [Nurses who received patient rights education demonstrated significantly higher PCC competency scores](patient-rights-education-higher-pcc-competency.md) — reports the opposite
+- [No significant relationships were found between demographic co-variates and interprofessional socialisation scores](no-significant-covariate-relationships-with-is-scores.md) — related

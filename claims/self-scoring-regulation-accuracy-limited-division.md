@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Self-scoring improves regulation accuracy for the whole sample, but not significantly for low- and high-performing students on division tasks
-description: Self-scoring improves regulation accuracy for the whole sample, but not significantly for low- and high-performing students on division tasks
+title: Regulation accuracy rose from pre-test to post-test after self-scoring for the whole sample, but not significantly for low- and high-performing students on division tasks, in one single-group pre-post study
+description: Regulation accuracy rose from pre-test to post-test after self-scoring for the whole sample, but not significantly for low- and high-performing students on division tasks, in one single-group pre-post study
 id: self-scoring-regulation-accuracy-limited-division
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# Self-scoring improves regulation accuracy for the whole sample, but not significantly for low- and high-performing students on division tasks
+# Regulation accuracy rose from pre-test to post-test after self-scoring for the whole sample, but not significantly for low- and high-performing students on division tasks, in one single-group pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
@@ -47,7 +47,7 @@ Multilevel regression of self-scoring effects on absolute regulation accuracy. A
 
 ## Related Claims
 - [Before self-scoring, high-performing primary students make more accurate monitoring judgments of math problem performance than low-performing students (unskilled-and-unaware effect)](unskilled-unaware-monitoring-before-self-scoring-math.md) — related
-- [Self-scoring improves primary students' monitoring accuracy on math problem-solving tasks to near-accurate levels](self-scoring-improves-monitoring-accuracy-math.md) — related
+- [Primary students' monitoring accuracy on math problem-solving tasks rose from pre-test to post-test after self-scoring and was near accurate in one single-group pre-post study](self-scoring-improves-monitoring-accuracy-math.md) — related
 - [Before self-scoring, the unskilled-and-unaware effect in regulation accuracy appears on multiplication but not on division tasks](unskilled-unaware-regulation-before-self-scoring-task-dependent.md) — related
 - [Students' monitoring judgments predict their regulation judgments before and after self-scoring](monitoring-judgments-predict-regulation-judgments.md) — related
 - [Self-scoring improves primary school students' regulation judgment accuracy in mathematics](self-scoring-improves-regulation-judgment-accuracy.md) — related

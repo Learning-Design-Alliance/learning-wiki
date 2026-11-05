@@ -53,3 +53,5 @@ Randomised trial of 38 general-practice residents (19 per group) in one hospital
 - [BOPPPS-CBL students reported significantly higher scores on all seven positive perception dimensions after Bonferroni correction](boppps-cbl-higher-positive-perceptions.md) — related
 - [BOPPPS with virtual simulation improves self-directed learning ability overall (d = 0.37), but not the self-management dimension](boppps-virtual-simulation-self-directed-learning.md) — related
 - [PUC-FC students rated the course more highly than FC and LBL students on all satisfaction dimensions except rationality of class hour arrangement](puc-fc-satisfaction-advantage.md) — related
+- [AI-assisted CBL+FC residents report greater improvements in learning motivation, clinical reasoning, self-directed learning, and perceived course effectiveness](ai-assisted-cbl-fc-higher-satisfaction-motivation.md) — related
+- [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related

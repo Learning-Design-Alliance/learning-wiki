@@ -53,3 +53,5 @@ Delphi expert-consultation study conducted in Aotearoa New Zealand with three su
 - [A three-round Delphi study with 29 K-12 AI teachers produced an eight-dimension, 32-item student AI competency framework at a 75% agreement level](delphi-eight-dimension-student-ai-competency-framework.md) — related
 - Delphi revision reduced the initial framework from 7 dimensions, 25 categories, and 80 elements to 7 dimensions, 24 categories, and 63 elements — related
 - [In the first Delphi round, 12 of 22 potential competencies received unanimous endorsement and 10 required revisions based on expert feedback.](delphi-first-round-12-unanimous-10-revised.md) — related
+- [The expert panel proposed 68 initial competencies divided into psychological foundations, psychiatric disorders, and systems-based practice.](68-initial-competencies-three-categories.md) — related
+- [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related

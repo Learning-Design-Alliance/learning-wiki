@@ -41,7 +41,8 @@ Based on Coyle, Hood and Marsh's classification (2010: 24-25), the article descr
 - 
 
 ## Related Designs
-- 
+
+- [CLIL-based emergency language course on 'Concise Chinese for epidemic prevention and control'](clil-emergency-language-course.md)
 
 ## Examples
 -

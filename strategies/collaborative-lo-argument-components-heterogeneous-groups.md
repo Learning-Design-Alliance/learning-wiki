@@ -47,6 +47,7 @@ The article recommends that LOs intended for pairs include facilities that keep 
 
 - [Group-Based Flipped Classroom](group-based_flipped_classroom.md)
 - [Collaborative Problem Solving With Sticky Notes](collaborative_problem-solving_with_sticky_notes.md)
+- [Form intentionally heterogeneous instructor-assigned groups of three to four students, avoiding tokenistic demographic balancing, and regroup periodically through controlled randomness.](intentional-heterogeneous-grouping-small-groups.md)
 
 ## Examples
 -

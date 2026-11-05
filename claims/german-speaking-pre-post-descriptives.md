@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Speaking-skill score distribution shifted upward after integrative teaching (mean 65.75 to 76.5)
-description: Speaking-skill score distribution shifted upward after integrative teaching (mean 65.75 to 76.5)
+title: Speaking-skill score distribution shifted upward from pre-test to post-test in one single-group pre-post study of integrative teaching (mean 65.75 to 76.5)
+description: Speaking-skill score distribution shifted upward from pre-test to post-test in one single-group pre-post study of integrative teaching (mean 65.75 to 76.5)
 id: german-speaking-pre-post-descriptives
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Speaking-skill score distribution shifted upward after integrative teaching (mean 65.75 to 76.5)
+# Speaking-skill score distribution shifted upward from pre-test to post-test in one single-group pre-post study of integrative teaching (mean 65.75 to 76.5)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -50,5 +50,5 @@ Descriptive results from the post-test of the same 20-respondent single-group st
 - [Vocabulary performance shifted from B1–B2 CEFR levels at pre-test to B2–C1 at post-test after four weeks of Mangomon play](cefr-band-shift-business-vocabulary-mangomon.md) — related
 - [Low-scoring experimental-group students moved from 25% scoring below 25% at pre-test to none scoring below 25% at post-test, with scores reaching as much as 56.8%](lowest-scorers-crossed-25-percent-threshold.md) — related
 - [Both groups improved their speaking scores from pre-test to post-test, but the Small Group Activity group's mean gain (25.35) was larger than the Individual Activity group's (11.64)](both-groups-improved-speaking-video-clips.md) — related
-- [Integrative teaching techniques improve German speaking-skill learning outcomes in a single-group quasi-experiment](integrative-techniques-improve-german-speaking-outcomes.md) — possibly the same claim (merge candidate)
+- [German speaking-skill learning outcomes rose from pre-test to post-test after integrative teaching techniques in a single-group pre-post study with no comparison group](integrative-techniques-improve-german-speaking-outcomes.md) — possibly the same claim (merge candidate)
 - [Intervention students are more likely to move up one or more performance-level categories from pre-test to post-test than control students](ct-intervention-increases-category-mobility.md) — related

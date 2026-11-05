@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Restrepo Ramos 2015: the intervention came bundled with another change (peer interviews and later reporting to the class) (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` McCafferty, Roebuck, and Wayland found that increased mental effort and productive use of new words in peer interviews might positively affect learning and retention, with task-essentialness important for lexical learning. [→ Restrepo Ramos 2015](#restrepo-ramos-2015)

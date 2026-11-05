@@ -56,6 +56,7 @@ The review recommends that deployment of agentic AI in education be governed by 
 - [Tailor AI deployment to specific applications and stakeholder groups rather than applying a one-size-fits-all integration approach](stakeholder-specific-ai-deployment-strategy.md)
 - [Embed ethical safeguards — informed consent, moral decision-making frameworks, explainable AI — when deploying AI agents in MOOC research](ethical-safeguards-for-ai-agents-in-moocs.md)
 - [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
+- [Extend AI tutor implementation across modules, expand question banks, and establish ethical oversight guidelines](future-directions-ai-tutor-expansion-and-oversight.md)
 
 ## Examples
 -

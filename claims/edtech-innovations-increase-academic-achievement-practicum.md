@@ -56,3 +56,4 @@ Quasi-experimental post-application comparison of two groups of student teachers
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
 - [Significant difference favoring general/academic high school graduates on good teaching and generic skills](high-school-type-good-teaching-generic-skills.md) — related
 - [MFTM significantly improves multiplication facts achievement among deaf students from pre-test to post-test](mftm-significant-pre-post-gain-deaf-students.md) — a narrower finding that bears on this claim
+- [The integrated '1 + N' one-click teaching platform and modular resource repositories achieve high utilization efficiency in Endodontics education](one-n-platform-modular-repositories-high-utilization-efficiency.md) — a narrower finding that bears on this claim

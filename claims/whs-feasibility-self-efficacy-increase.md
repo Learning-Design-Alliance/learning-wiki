@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Feasibility study shows WHS increases teacher self-efficacy from pre to post
-description: Feasibility study shows WHS increases teacher self-efficacy from pre to post
+title: "Feasibility study found that teachers' self-rated self-efficacy rose from pre-test to post-test after WHS, in one uncontrolled pre-post study"
+description: "Feasibility study found that teachers' self-rated self-efficacy rose from pre-test to post-test after WHS, in one uncontrolled pre-post study"
 id: whs-feasibility-self-efficacy-increase
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 2
 ---
 
-# Feasibility study shows WHS increases teacher self-efficacy from pre to post
+# Feasibility study found that teachers' self-rated self-efficacy rose from pre-test to post-test after WHS, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`

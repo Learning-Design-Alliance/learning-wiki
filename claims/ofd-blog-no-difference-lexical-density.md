@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jayaron Jose & Mohammed Jafre Zainol Abidin 2016: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Post-test lexical density was equal in means (M = 0.20, SD = 0.04 both groups) and not statistically different. [→ Jayaron Jose & Mohammed Jafre Zainol Abidin 2016](#jayaron-jose-mohammed-jafre-zainol-abidin-2016)

@@ -45,7 +45,7 @@ Comparison of common closed-book free-response exams across four semesters of th
 
 
 ## Related Claims
-- [Both MLM and non-MLM groups using reformed pedagogies demonstrate very large effect sizes on the CSEM, with the MLM group's effect size close to 'huge'](mlm-and-non-mlm-large-csem-effect-sizes.md) — related
+- [CSEM scores rose from pre-test to post-test in both MLM and non-MLM groups using reformed pedagogies; the observed standardized gains were very large, with the MLM group's close to 'huge' (pre-post measurements with no comparison group)](mlm-and-non-mlm-large-csem-effect-sizes.md) — related
 - [Students completing multimedia learning modules before tutorials achieve significantly higher normalized learning gains on the CSEM than students preparing via textbook reading and lecture](mlm-preparation-higher-csem-normalized-gain.md) — related
 - [MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts](mlm-script-intermediate-between-mlm-and-textbook.md) — related
 - [The multimedia learning module advantage over the textbook persists on a retention test administered two weeks after the lessons](mlm-retention-advantage-two-weeks.md) — related

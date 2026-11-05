@@ -46,6 +46,6 @@ Independent t-test on writing posttest scores for two intact groups of 30 interm
 
 ## Related Claims
 - [Both peer-assisted mediation and tutor-intervention significantly improved learners' attitudes toward writing, with no significant difference between the two conditions.](both-conditions-improve-writing-attitude.md) — related
-- [Peer-assisted mediation significantly improved learners' writing scores from pretest to posttest within the peer group.](peer-mediation-within-group-writing-gain.md) — a narrower finding that bears on this claim
+- [Learners' writing scores rose significantly from pretest to posttest within the peer-assisted mediation group.](peer-mediation-within-group-writing-gain.md) — a narrower finding that bears on this claim
 - [Tutor-intervention did not produce a statistically significant improvement in writing scores from pretest to posttest within the tutor group.](tutor-intervention-no-significant-writing-gain.md) — a narrower finding that bears on this claim
 - [The peer-assisted mediation group outperformed the tutor-intervention group across the ten treatment-session writing assignments.](peer-mediation-outperformed-across-sessions.md) — a narrower finding that bears on this claim

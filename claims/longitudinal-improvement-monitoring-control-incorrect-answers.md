@@ -76,3 +76,4 @@ Longitudinal ANOVA on true-false question CJs. Confidence in incorrect answers d
 - [Children's text comprehension test performance improved from T1 to T2, driven mainly by second graders, with fewer omission errors over time](test-performance-gains-t1-to-t2.md) — related
 - [Children became significantly less overconfident from kindergarten to 2nd grade but remained overconfident at both time points](monitoring-overconfidence-declines-but-persists-into-grade-2.md) — related
 - [Strategy training improved CJ differentiation for children and older adults but not for adolescents and younger adults](strategy-training-cj-differentiation-age-limits.md) — related
+- [Confidence-performance alignment was stronger at six-month follow-up than immediately after instruction](confidence-performance-alignment-stronger-at-delayed-retest.md) — related

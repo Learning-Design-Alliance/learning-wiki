@@ -45,6 +45,7 @@ The review states that "Professional development for educators is essential to e
 - [Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation](gamification-implementation-support-strategy.md)
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
 - [Provide faculty professional development in adult learning theory and pedagogy for career pathways instruction](faculty-pd-adult-learning-career-pathways.md)
+- [Integrate gamified formats into continuing medical education to support lifelong learning](gamification-in-cme-strategy.md)
 
 ## Examples
 -

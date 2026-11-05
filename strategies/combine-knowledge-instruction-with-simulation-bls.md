@@ -50,6 +50,7 @@ The article states that 'These findings support combining knowledge-based instru
 - [Increase hands-on training and early patient contact to build clinical examination confidence](hands-on-training-early-patient-contact.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
+- [Combine standardized theoretical training with high-fidelity simulation-based practical skills training](combine-theoretical-training-with-simulation-phtls.md)
 
 ## Examples
 -

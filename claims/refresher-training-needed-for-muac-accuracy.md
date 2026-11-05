@@ -54,3 +54,4 @@ Healthcare worker in-depth interviews from the qualitative study. One counselor 
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [CPR knowledge and technical skills remained at a sufficient level at 6-month and 1-year follow-ups, with refresher courses recommended](cpr-knowledge-skills-retention-follow-up.md) — related
 - [Bronchoscopy manipulation skills may decay over time, necessitating periodic practice to maintain proficiency](bronchoscopy-skill-decay-periodic-practice.md) — a broader claim this one bears on
+- [A one-on-one TCT refresher training delivered 6–9 months after the original course was highly valued by participants, with 83% believing it should become standard practice](tct-refresher-training-highly-valued-by-trainers.md) — related

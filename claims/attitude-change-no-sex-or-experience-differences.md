@@ -48,8 +48,8 @@ Subgroup analyses of the three significant subscales found no differences by sex
 - [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
-- [Seven of ten CSAS subscales showed no significant pre–post change after service-learning, likely due to a ceiling effect](seven-csas-subscales-no-change-ceiling.md) — related
+- [Seven of ten self-reported CSAS subscale scores showed no significant pre–post change after service-learning in one group with no comparison group](seven-csas-subscales-no-change-ceiling.md) — related
 - [Service-learning participation is associated with a large increase in dental students' empathy toward community service](service-learning-empathy-increase-dental-students.md) — related
-- [Service-learning participation is associated with a small increase in dental students' norms regarding community service](service-learning-norms-increase-small-effect.md) — related
-- [Service-learning participation is associated with a large reduction in dental students' perceived costs of community engagement](service-learning-perceived-costs-reduction.md) — related
+- [Dental students' self-reported norms regarding community service rose slightly from pre-test to post-test after service-learning participation, in one single-group pre-post study](service-learning-norms-increase-small-effect.md) — related
+- [Dental students' self-rated perceived costs of community engagement showed a large reduction from pre-test to post-test after service-learning participation, in one uncontrolled pre-post study](service-learning-perceived-costs-reduction.md) — related
 - [Attitude gains were significant in male students but not in female students](csas-gains-males-not-females.md) — reports the opposite

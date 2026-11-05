@@ -43,7 +43,8 @@ The article uses the Entrustable Professional Activities (EPA) framework as the 
 - [Large Scale Summative Pj Osce Feasible German Model Curriculum](../claims/large-scale-summative-pj-osce-feasible-german-model-curriculum.md) [+M]
 
 ## Related Designs
-- 
+
+- [Competency-based medical education with entrustable professional activities as a structured framework to define, assess, and operationalize competencies in prehospital pediatric care](cbme-epa-framework-prehospital-pediatric-care.md)
 
 ## Examples
 -

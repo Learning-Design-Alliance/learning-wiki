@@ -48,7 +48,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 2 causal `r?`, 1 quant-synthesis `r?`, 1 theoretical `r3` · `q3`–`q4` · `i3` large
-> **Currency** · newest study 2012 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 Adding interesting-but-irrelevant text, images, sounds, or music to instructional materials typically impairs learning by consuming working-memory resources without supporting the learning goal.
 

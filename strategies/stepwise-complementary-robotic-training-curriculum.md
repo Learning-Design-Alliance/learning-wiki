@@ -67,6 +67,9 @@ The review recommends that training modalities be combined in a progressive curr
 - [Combine online modules with hands-on simulation training to teach POCUS-guided procedural skills to novices](blended-online-hands-on-pocus-procedural-training.md)
 - [Exhaust the learning potential of one training modality before progressing to other modalities or supervised surgery](exhaust-modality-learning-potential-before-progression.md)
 - [Four pillars for educational transformation: industry-independent accreditation, integrated curricula, objective competency assessment, and competency-based certification](four-pillars-educational-transformation-ep.md)
+- [Design training rotas with consistent, protected time for access to robotic simulators for skill progression](protected-simulation-time-robotic-training-rotas.md)
+- [Structured stepwise endodontic curriculum: preclinical training, clinical observation, then supervised clinical practice](stepwise-endodontic-curriculum-preclinical-observation-practice.md)
+- [Integrate dedicated surgical care practitioners into robotic programmes to free trainees from the bedside assistant role and facilitate their transition to the console](scp-bedside-assistant-integration-robotic-training.md)
 
 ## Examples
 -

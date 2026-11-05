@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "A Context Based Learning physics model improves sport science students' analytical thinking skills with a high-category N-gain of 0.78"
-description: "A Context Based Learning physics model improves sport science students' analytical thinking skills with a high-category N-gain of 0.78"
+title: "Sport science students' analytical thinking scores rose from pre-test to post-test after a Context Based Learning physics model, with a high-category N-gain of 0.78, in a single-group pre-post study"
+description: "Sport science students' analytical thinking scores rose from pre-test to post-test after a Context Based Learning physics model, with a high-category N-gain of 0.78, in a single-group pre-post study"
 id: cbl-sport-context-improves-analytical-thinking-n-gain-078
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# A Context Based Learning physics model improves sport science students' analytical thinking skills with a high-category N-gain of 0.78
+# Sport science students' analytical thinking scores rose from pre-test to post-test after a Context Based Learning physics model, with a high-category N-gain of 0.78, in a single-group pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

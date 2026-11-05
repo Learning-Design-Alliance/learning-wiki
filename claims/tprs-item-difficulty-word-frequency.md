@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Some vocabulary items were more challenging to acquire than others, mostly attributable to low frequency, though not always
-description: Some vocabulary items were more challenging to acquire than others, mostly attributable to low frequency, though not always
+title: Some vocabulary items were more challenging to acquire than others in one single-group pre-post study, and difficulty did not always correspond to frequency
+description: Some vocabulary items were more challenging to acquire than others in one single-group pre-post study, and difficulty did not always correspond to frequency
 id: tprs-item-difficulty-word-frequency
 status: review
 generated:
@@ -28,7 +28,7 @@ sources:
     rigour: 1
 ---
 
-# Some vocabulary items were more challenging to acquire than others, mostly attributable to low frequency, though not always
+# Some vocabulary items were more challenging to acquire than others in one single-group pre-post study, and difficulty did not always correspond to frequency
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`

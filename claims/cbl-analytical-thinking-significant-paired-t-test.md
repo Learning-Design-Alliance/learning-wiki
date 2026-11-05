@@ -48,6 +48,6 @@ Paired t-tests run in SPSS on pretest-posttest scores for each of the four class
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — a broader claim this one bears on
 - [The CL class improved significantly from pretest to posttest while the traditional-taught class did not](cl-gain-significant-control-null.md) — a broader claim this one bears on
 - [A four-phase teaching process for congruent triangles significantly improves grade 8 students' test scores](four-phase-process-improves-congruent-triangle-scores.md) — a broader claim this one bears on
-- [A Context Based Learning physics model improves sport science students' analytical thinking skills with a high-category N-gain of 0.78](cbl-sport-context-improves-analytical-thinking-n-gain-078.md) — related
+- [Sport science students' analytical thinking scores rose from pre-test to post-test after a Context Based Learning physics model, with a high-category N-gain of 0.78, in a single-group pre-post study](cbl-sport-context-improves-analytical-thinking-n-gain-078.md) — related
 - [Sport science students' baseline analytical thinking skills are very low, at 8.27% in this study and 3.24% mastery in prior research](sport-science-students-baseline-analytical-thinking-very-low.md) — related
 - [All four groups showed statistically significant pretest-to-posttest achievement gains, but gains differed greatly in size](all-groups-gained-unequally-pretest-posttest.md) — related

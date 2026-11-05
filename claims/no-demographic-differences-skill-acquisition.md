@@ -92,3 +92,5 @@ ANOVA across majors (English, Journalism, Education, Arabic, Others) in the expe
 - [Question 4 on communication skills was an independent outlier, unaffected by modality, age or sex](communication-skills-item-modality-independent.md) — related
 - [No statistically significant associations between overall VHV competency classification and any demographic or occupational variable examined](vhv-competency-not-differentiated-by-demographics.md) — related
 - [Gender, degree type, and personality show differential associations with course outcome dimensions](demographic-differences-course-dimensions.md) — reports the opposite
+- [Student perceptions of the GPT companion do not differ significantly by gender, academic background, or GPA](no-perception-differences-gender-stream-gpa-gpt-companion.md) — related
+- [Vocational ability scores differ significantly across academic backgrounds, with each discipline showing distinct strengths and weaknesses.](vocational-ability-differs-by-discipline.md) — related

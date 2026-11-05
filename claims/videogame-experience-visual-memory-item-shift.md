@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Students' endorsement of videogames for developing visual memory and retentiveness rose sharply after the experience"
-description: "Students' endorsement of videogames for developing visual memory and retentiveness rose sharply after the experience"
+title: "Students' self-reported endorsement of videogames for developing visual memory and retentiveness rose sharply from pre-test to post-test after the experience, in one uncontrolled pre-post study"
+description: "Students' self-reported endorsement of videogames for developing visual memory and retentiveness rose sharply from pre-test to post-test after the experience, in one uncontrolled pre-post study"
 id: videogame-experience-visual-memory-item-shift
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Students' endorsement of videogames for developing visual memory and retentiveness rose sharply after the experience
+# Students' self-reported endorsement of videogames for developing visual memory and retentiveness rose sharply from pre-test to post-test after the experience, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -46,5 +46,5 @@ Pre/post survey responses on item 8 of the 9-item questionnaire. The article sta
 
 ## Related Claims
 - [Trainee teachers shift toward agreement that videogames help develop the curriculum crosswise after experiencing one](videogame-experience-shifts-trainee-teacher-acceptance.md) — related
-- [After the experience, 100% of students fully agreed the videogame develops heuristic (trial-and-error) thinking](videogame-heuristic-thinking-unanimous-agreement.md) — related
+- [After playing the videogame, 100% of students fully agreed with the heuristic (trial-and-error) thinking item; before playing, 94% were indifferent and 6% disagreed, based on self-reported responses in one single-group pre-post study](videogame-heuristic-thinking-unanimous-agreement.md) — related
 - [Students remained largely disagreeing that the videogame supports self-regulation of learning (continuous assessment)](videogame-self-regulation-item-stays-negative.md) — related

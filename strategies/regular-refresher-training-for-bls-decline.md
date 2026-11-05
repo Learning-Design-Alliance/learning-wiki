@@ -48,6 +48,7 @@ The article states that the observed decline in knowledge and skills at 3 months
 
 - [Provide regular, periodic refresher training on frailty rather than one-time orientation programs](regular-frailty-refresher-training-strategy.md)
 - [Combine knowledge-based BLS instruction with hands-on and simulation-based training.](combine-knowledge-instruction-with-simulation-bls.md)
+- [Provide regular refresher sessions and periodic reassessment to sustain caregiver emergency-response skills over time](refresher-sessions-sustain-caregiver-skills.md)
 
 ## Examples
 -

@@ -56,6 +56,7 @@ The article recommends weaving EI training into existing courses with objectives
 - [Integrate structured suicide prevention training with simulated practice of responding to suicidal communication into clergy formation](structured-suicide-prevention-training-clergy-formation.md)
 - [Integrate mandatory, longitudinal mental health literacy, self-care and reflective practice curricula throughout medical education rather than as isolated end-of-programme options.](longitudinal-mental-health-curriculum-medical-education.md)
 - [Develop job-specific, multidimensional training modules differentiated by occupational role](job-specific-multidimensional-training-modules.md)
+- [Integrate structured debriefing into simulation curricula with systematic teacher training and multi-method evaluation](debriefing-integration-strategy-nursing-education.md)
 
 ## Examples
 -

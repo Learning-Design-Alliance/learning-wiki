@@ -41,6 +41,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1`–`r2` · `q3`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Cousins-Cooper 2017 (2): groups were assigned but students were analysed as independent · Cousins-Cooper 2017 (3): groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Students in Tuesday-Thursday sections earned higher average posttest scores than students in Monday-Wednesday-Friday sections. [→ Cousins-Cooper 2017](#cousins-cooper-2017)

@@ -63,3 +63,4 @@ Correlational analysis of over 100,000 learning records from the MAIC pilot, reg
 - [Semester control-question results correlated positively (r = 0.5530) with final-test results, supporting the evaluation system's predictive accuracy](control-question-results-correlate-final-test.md) — related
 - [SAT math score significantly predicts final exam performance and moderates the effect of delivery mode](sat-math-moderates-delivery-mode-effect.md) — related
 - [In low-performing online participants, self-organization, commuting time, and preference for intensive reviewing predict examination scores](low-performers-online-predictors.md) — related
+- [Higher e-module engagement clusters had marginally higher final course grades, with significant differences for the Journal Article assignment and Concept Map modules](engagement-final-grade-differences-journal-concept-map.md) — related

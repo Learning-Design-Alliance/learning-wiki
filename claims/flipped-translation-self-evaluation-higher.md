@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Deng 2018: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The experimental class mean self-evaluation of translation competence was 4.40 (SD 0.29) versus 3.76 (SD 0.56) in the control class. [→ Deng 2018](#deng-2018)
@@ -49,4 +50,4 @@ Questionnaire domain from the 15-minute in-class questionnaire on both classes a
 - [A project-based flipped learning model raised translation competence test scores in a Business English Translation course over one 16-week semester](flipped-translation-competence-posttest-gain.md) — related
 - [Interviewed students in the flipped class reported strong interest and greater initiative, crediting checklists, role division and translation logs](flipped-translation-interview-engagement.md) — related
 - [Out-of-class motivation showed a smaller group difference but greater within-class spread in the flipped class, attributed to client versus translator roles](flipped-translation-out-of-class-motivation-mixed.md) — related
-- [Mastery of translation skills showed little difference between the flipped and traditional classes, suggesting traditional teaching still delivers basic skills effectively](flipped-translation-skills-mastery-small-difference.md) — related
+- [Self-rated mastery of translation skills differed little between the flipped and traditional classes](flipped-translation-skills-mastery-small-difference.md) — related

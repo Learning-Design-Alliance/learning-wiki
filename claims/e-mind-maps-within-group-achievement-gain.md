@@ -45,7 +45,7 @@ Within-group Wilcoxon test on the 15-student experimental group's achievement ra
 
 
 ## Related Claims
-- [Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
+- [The experimental group showed statistically significant pre-to-post achievement gains in the EFL teaching methods course after Blackboard-based instruction](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
 - [Both experimental and control students showed significant pre-to-post gains on the Newton's Laws achievement test](both-groups-significant-pre-post-gains.md) — related
 - [Both ABSL and traditionally taught groups showed statistically significant pre-test to post-test achievement gains in probability](both-groups-pre-post-gains-probability.md) — related
 - [Both the mind map group and the control group improved significantly on maths and science skills over the 10 weeks](within-group-gains-both-groups-mind-map-study.md) — related

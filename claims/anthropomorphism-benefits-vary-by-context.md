@@ -9,7 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: phillips-2026
     resource: "https://doi.org/10.3389/fcogn.2026.1786256"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 <!-- title before 2026-10-15: Meta-analytic evidence indicates anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations -->
 

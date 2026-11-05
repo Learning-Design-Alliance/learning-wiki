@@ -47,3 +47,4 @@ Regression sensitivity checks (Table 3) controlling for age group, gender, and y
 ## Related Claims
 - [Exploratory stage-of-study analyses: undergraduate year level is positively associated with AI-related disengagement, and the GPA-band pattern is stronger in postgraduate/research students for active engagement and perceived learning impact](stage-of-study-exploratory-variation.md) — related
 - [High-achieving students less often endorse AI-supported autonomy, effective learning, and active engagement, and more often agree that reliance on AI hinders critical thinking and independent problem solving](item-level-high-achievers-hinder-critical-thinking.md) — a narrower finding that bears on this claim
+- [Students achieving an A grade accessed e-modules on more days than B–C and D–F bands, and accessed them earlier than the B–C band](grade-band-regularity-timeliness-association.md) — related

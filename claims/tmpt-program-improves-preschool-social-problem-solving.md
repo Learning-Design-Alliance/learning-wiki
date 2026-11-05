@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: gur-2018
     resource: "https://doi.org/10.14689/ejer.2018.73.5"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After the TMPT Program, the experimental group scored significantly higher than the control group on the Wally Social Problem-Solving Test (t = 2.79, p = .007). [→ Gur 2018](#gur-2018)

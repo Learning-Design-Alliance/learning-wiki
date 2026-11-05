@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Garet 2017: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` About 65 percent of teachers reported the study's feedback was more useful than their district's, and 79 percent reported it was more specific about high-quality teaching. [→ Garet 2017](#garet-2017)

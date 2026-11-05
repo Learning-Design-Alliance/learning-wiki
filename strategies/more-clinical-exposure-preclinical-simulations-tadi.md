@@ -50,6 +50,7 @@ The authors recommend that dental curricula include more undergraduate and postg
 - [Integrate simulation, case-based learning, and communication-focused training into pre-clinical delirium curricula](simulation-case-based-delirium-training.md)
 - [Integrate structured, evidence-based wound care education—including hands-on and interprofessional components—into undergraduate medical curricula](structured-wound-care-education-medical-curricula.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Structured stepwise endodontic curriculum: preclinical training, clinical observation, then supervised clinical practice](stepwise-endodontic-curriculum-preclinical-observation-practice.md)
 
 ## Examples
 -

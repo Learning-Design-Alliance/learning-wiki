@@ -46,7 +46,8 @@ The autonomy-supportive intervention program (ASIP) trained PE teachers in six i
 - [The autonomy-supportive intervention program successfully changed teachers' instructional behavior, confirmed by both rater-scored and student-perceived manipulation checks](../claims/asip-manipulation-checks-teacher-behavior.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Adopt autonomy-supportive practices to cultivate emotionally supportive EFL environments](autonomy-supportive-practices-efl-emotional-support.md)
 
 ## Examples
 -

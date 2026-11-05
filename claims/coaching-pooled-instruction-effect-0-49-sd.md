@@ -10,7 +10,6 @@ generated:
   at: 2026-10-13
 evidence_strength: strong
 newest_evidence: 2024
-source_checked: 2026-10-15
 sources:
   - id: kraft-2018
     resource: "https://doi.org/10.3102/0034654318759268"
@@ -34,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 qualitative `r2` · `q2`–`q4` · `i2` medium
-> **Currency** · newest study 2024 · checked against its sources 2026-10-15 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 

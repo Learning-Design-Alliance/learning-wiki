@@ -43,7 +43,7 @@ The article recommends letting students submit skill-teaching projects early, re
 
 ## Claims
 
-- [Implementing the AGLS automated grader reduced grading time and allowed the instructor to require twelve assignments instead of five](../claims/agls-reduced-grading-time-more-assignments.md) [+W]
+- [In one course section with no comparison group, the instructor's grading time fell from before to after AGLS implementation, and the instructor required twelve assignments instead of five.](../claims/agls-reduced-grading-time-more-assignments.md) [+W]
 - [Across all assignments combined, the pre-grading group's hands-on-versus-multiple-choice score difference (5.72) exceeded the control group's (4.22), but not significantly](../claims/pre-grading-combined-means-nonsignificant.md) [~W]
 - [Pre-grading/resubmission was associated with a statistically significant learning difference only for the Excel Solver assignment, not for Access or Excel IF assignments](../claims/pre-grading-significant-only-excel-solver.md) [~W]
 - [Uptake of the pre-grading option was high but declined over the semester, from 85% on the first assignment to 70% on the last](../claims/pre-grading-uptake-high-declining.md) [~W]

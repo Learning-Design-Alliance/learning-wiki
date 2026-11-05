@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q3`
-> **Currency** · newest study 2023 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Improvement in charter student learning comes primarily from existing schools improving over time, with newly opened schools a smaller influence. [→ CREDO at Stanford University 2023](#credo-at-stanford-university-2023)

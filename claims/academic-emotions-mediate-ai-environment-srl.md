@@ -78,3 +78,4 @@ The structural model retained a significant direct path after including the thre
 - [The direct association between teacher support and mathematics achievement becomes non-significant after including mathematics anxiety and learning engagement, indicating full mediation.](full-mediation-no-direct-effect-teacher-support-achievement.md) — related
 - [Academic motivation indirectly predicts cognitive engagement through enhanced perceived school support](am-indirect-effect-ces-via-pss.md) — related
 - [Student-centred non-cognitive measures (academic interest, self-perceived ability, curiosity) show stronger mediation effects than measures of the external learning environment](student-centred-noncognitive-measures-stronger-mediation.md) — related
+- [Perceived teacher support is positively correlated with all three types of self-regulated learning (preparation, performance, self-evaluation).](teacher-support-correlates-srl-types.md) — related

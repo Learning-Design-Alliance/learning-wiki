@@ -50,3 +50,4 @@ Randomized 2×2 experiment with 235 biology students learning about photosynthes
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Visual cognitive style, pacing, and visualization interact: highly developed visualizers learn poorer with self-paced static pictures than with system-paced static pictures](triple-interaction-visual-style-pacing-visualization.md) — related
 - [No significant effects of verbal cognitive style on learning outcome in the pacing and visualization experiment](verbal-cognitive-style-null-learning-outcome.md) — related
+- [Text-graphic composite modality yields the highest knowledge acquisition efficiency despite moderate cognitive load](text-graphic-composite-optimal-learning-efficiency.md) — related

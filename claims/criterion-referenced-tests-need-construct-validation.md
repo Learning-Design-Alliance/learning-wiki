@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 newest_evidence: 1970
+source_checked: 2026-11-05
 sources:
   - id: nitko-1970
     resource: "https://eric.ed.gov/?id=ED047010"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 1970 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1970 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Empirical evidence is needed to support contentions that classes of test tasks reflect the behavior or competence of interest, requiring construct validation studies like those recommended for psychological tests. [→ Nitko 1970](#nitko-1970)

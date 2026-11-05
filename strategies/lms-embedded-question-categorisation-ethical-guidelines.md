@@ -43,6 +43,7 @@ The article recommends that "Learning management systems could benefit from embe
 - [Incorporate AI-driven scaffolding strategies to support students' higher-order thinking skills](ai-driven-scaffolding-higher-order-thinking.md)
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Reorient AI assessment toward formative, holistic portraits of learner competencies rather than automated grading](ai-assessment-holistic-competency-portraits.md)
+- [Extend AI tutor implementation across modules, expand question banks, and establish ethical oversight guidelines](future-directions-ai-tutor-expansion-and-oversight.md)
 
 ## Examples
 -

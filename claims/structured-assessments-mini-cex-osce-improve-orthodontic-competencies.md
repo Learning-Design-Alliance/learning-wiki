@@ -58,3 +58,4 @@ The review reports that structured assessments "provide structured feedback that
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — a narrower finding that bears on this claim
 - [Classic Mini-CEX systematically overlooks OHL communication practices in pediatric pneumonia education](mini-cex-blind-spot-ohl-communication.md) — related
 - [Dual formative feedback operates bidirectionally at provider and organizational levels](ohl-mini-cex-dual-feedback.md) — related
+- [Final-year clinical medicine interns report high acceptance of the Mini-CEX-based four-stage virtual simulation teaching model, with all experience-item means exceeding 7.1 on a 10-point scale](high-student-acceptance-minicex-four-stage-virtual-simulation.md) — a narrower finding that bears on this claim

@@ -51,7 +51,7 @@ Qualitative analysis of posttest written comments, coded independently by two re
 
 ## Related Claims
 - [The impact of immersion in IBL on beliefs varies significantly across individual students, with about 8% holding content-oriented beliefs largely unaffected](ibl-immersion-impact-varies-content-oriented-subgroup.md) — related
-- [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related
+- [Student teachers' value for procedural knowledge goals and self-efficacy for inquiry rose significantly from pre-test to post-test, while value for substantive knowledge goals did not change, in one uncontrolled pre-post study of immersion in inquiry-based learning](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related
 - [Collingwood's ideas about how historical knowledge is produced offer teachers sound reasons for using constructivist approaches in their classrooms](collingwood-supports-constructivist-history-teaching.md) — related
 - [Added interpretive support did not significantly affect the evolution of student teachers' educational beliefs](additional-support-no-significant-belief-impact.md) — related
 - [Academic historians' epistemic processes extend well beyond source analysis and writing](historians-epistemic-processes-extend-beyond-source-analysis.md) — related

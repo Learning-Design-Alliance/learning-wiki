@@ -44,7 +44,8 @@ The article applies content and language integrated learning combined with proje
 - [Clil Gains Vocabulary Pronunciation Only](../claims/clil-gains-vocabulary-pronunciation-only.md) [+M]
 
 ## Related Designs
-- 
+
+- [CLIL-based emergency language course on 'Concise Chinese for epidemic prevention and control'](clil-emergency-language-course.md)
 
 ## Examples
 -

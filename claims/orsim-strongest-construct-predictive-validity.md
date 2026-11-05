@@ -50,3 +50,4 @@ Review synthesis of Baker (2016), an expert–novice discrimination study of the
 - [AccuTouch VR simulator training improved live fibreoptic intubation performance in inexperienced paediatric residents, reducing time to intubation from 5.15 to 0.88 minutes](accutouch-training-improves-live-intubation-time.md) — related
 - [Training on a simple low-fidelity 'choose-the-hole' bench model transferred to real clinical fibreoptic intubation performance in an RCT](choose-the-hole-bench-model-predictive-validity-rct.md) — related
 - [Most reviewed simulation studies demonstrated face and content validity, but few assessed construct or predictive validity](simulation-validity-face-content-yes-predictive-rare.md) — a broader claim this one bears on
+- [A simulation-based FOI test on a portable VR simulator demonstrates strong validity evidence across all five sources in Messick's framework](vr-simulator-foi-test-strong-validity-evidence.md) — related

@@ -50,7 +50,9 @@ The article frames haptic virtual reality simulation as a training tool that "co
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](../claims/vr-enhances-practical-skill-acquisition-with-barriers.md) [~W]
 
 ## Related Designs
-- 
+
+- [Simulation-based mastery learning (SBML) framework integrating constructivist and behavioral learning theories](sbml-constructivist-behavioral-framework-probing.md)
+- [Triadic teaching model integrating experiential learning, reflective practice, and deliberate practice within competency-based medical education](cbme-experiential-reflective-deliberate-practice-model.md)
 
 ## Examples
 -

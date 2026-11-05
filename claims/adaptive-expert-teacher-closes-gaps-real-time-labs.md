@@ -57,3 +57,4 @@ The editorial reports, from Ingulfsen et al.'s detailed interaction analysis of 
 - [Computer-supported environments can support development of mathematical understanding toward formalization even when domain experts are not present](vmt-supports-mathematical-formalization-without-experts.md) — related
 - [Experts introduce procedure and planning explanations over time, typically after an initial step or action is completed](planning-explanations-later-in-turn.md) — related
 - [LLM-generated student plans in a game-based learning environment are valid, with T5 plans closely matching student-created plans and GPT-3.5 producing more diverse plans, supporting real-time adaptive scaffolding](llm-plan-generation-adaptive-scaffolding-gbl.md) — related
+- [The placement developed multiple facets of communication skills, including adapting explanations to diverse learner needs](anatomy-ems-communication-development.md) — related

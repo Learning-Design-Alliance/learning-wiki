@@ -9,7 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-10-28
+source_checked: 2026-11-05
 sources:
   - id: istenič-2021
     resource: "https://doi.org/10.1007/s11423-021-09955-w"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Borup et al. (2015)'s mixed-method study, video feedback was perceived as more convenient for student support with more affective value, while text-based feedback was perceived as more convenient for exploratory feedback aligned with efficiency. [→ Istenič 2021](#istenic-2021)

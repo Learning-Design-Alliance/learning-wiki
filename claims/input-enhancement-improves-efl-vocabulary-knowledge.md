@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Input Enhancement strategy improved the vocabulary knowledge of Iranian EFL learners over a three-month treatment
-description: Input Enhancement strategy improved the vocabulary knowledge of Iranian EFL learners over a three-month treatment
+title: "Input Enhancement group's vocabulary knowledge rose from pre-test to seen post-test over a three-month treatment in Iranian EFL learners (single-group pre-post study)"
+description: "Input Enhancement group's vocabulary knowledge rose from pre-test to seen post-test over a three-month treatment in Iranian EFL learners (single-group pre-post study)"
 id: input-enhancement-improves-efl-vocabulary-knowledge
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Input Enhancement strategy improved the vocabulary knowledge of Iranian EFL learners over a three-month treatment
+# Input Enhancement group's vocabulary knowledge rose from pre-test to seen post-test over a three-month treatment in Iranian EFL learners (single-group pre-post study)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

@@ -46,6 +46,8 @@ The training protocol had residents first perform an end-to-end anastomosis with
 
 - [Prep Activities for Shadowing](prep_activities_for_shadowing.md)
 - [Structured stepwise simulator training protocol: instructional video, console familiarization, then repeated dissection practice with and without force feedback](stepwise-simulator-training-protocol-vascular-dissection.md)
+- [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
+- [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 
 ## Examples
 -

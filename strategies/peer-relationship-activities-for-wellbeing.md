@@ -42,6 +42,7 @@ The brief recommends fostering peer relationships "whether through direct person
 - [Informal Games and Jam Sessions](informal_games_and_jam_sessions.md)
 - [Use direct-experience formats — simulation games, extracurricular activities, action learning, peer teaching — to pursue relational-domain objectives](experiential-formats-relational-objectives.md)
 - [Use extracurricular activities and inclusion-oriented clubs to build cross-group connections, while removing access barriers](extracurricular-shared-goals-cross-group-connections.md)
+- [Create inclusive, supportive, process-oriented sports environments that prioritize participation experience over competition for adolescents with high BMI](inclusive-supportive-sports-environments-high-bmi.md)
 
 ## Examples
 -

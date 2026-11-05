@@ -46,6 +46,6 @@ Likert-scale feedback item from the prospective study's posttest feedback. The a
 
 ## Related Claims
 - [Students prefer learning via demonstration videos and recommend them for future batches](students-prefer-and-recommend-demonstration-videos.md) — related
-- [QR-code-linked demonstration videos significantly improve OSPE performance in pharmacology students](qr-code-linked-videos-improve-ospe-performance.md) — related
-- [Students report QR-code-linked demonstration videos improve comprehension and confidence in OSPE techniques](students-report-videos-improve-ospe-comprehension.md) — related
+- [OSPE scores rose from pre-test to post-test after access to QR-code-linked demonstration videos, in pharmacology students in one uncontrolled pre-post study](qr-code-linked-videos-improve-ospe-performance.md) — related
+- [Students reported greater comprehension and confidence in OSPE techniques after using QR-code-linked demonstration videos](students-report-videos-improve-ospe-comprehension.md) — related
 - [Experimental-group students reported that the blended environment offered rich content, easy accessibility, effective guidance and motivation](student-perceptions-blended-rich-content-accessibility-guidance-motivation.md) — related

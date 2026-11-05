@@ -51,5 +51,5 @@ Student teacher dyads were randomly divided over four conditions receiving addit
 ## Related Claims
 - [The impact of immersion in IBL on beliefs varies significantly across individual students, with about 8% holding content-oriented beliefs largely unaffected](ibl-immersion-impact-varies-content-oriented-subgroup.md) — related
 - [Four contexts of mathematics teacher education described the experiences most influential to the preservice teacher's evolving philosophy of mathematics](four-contexts-influential-preservice-philosophy.md) — related
-- [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related
+- [Student teachers' value for procedural knowledge goals and self-efficacy for inquiry rose significantly from pre-test to post-test, while value for substantive knowledge goals did not change, in one uncontrolled pre-post study of immersion in inquiry-based learning](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related
 - [Immersion in IBL improves student teachers' self-reported understanding of the interpretative nature of historical research](ibl-immersion-improves-understanding-historical-inquiry.md) — related

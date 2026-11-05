@@ -31,7 +31,7 @@ A purpose-built electronic personalised self-regulated learning management syste
 - [Students who use the ePSRL Management System meet the course completion deadline at a significantly higher rate than non-users](../claims/epsrl-higher-course-completion-deadline-rate.md) [+W]
 - [Students who use the ePSRL Management System spend more time learning per month and complete the course in fewer months than non-users](../claims/epsrl-increases-learning-motivation-time-and-speed.md) [+W]
 - [Students who use the ePSRL Management System post more scaffold reflections and self-reflections per month than non-users](../claims/epsrl-increases-metacognitive-reflection-posts.md) [+W]
-- [Using the ePSRL Management System increases postgraduate online students' perceived awareness, understanding and application of self-regulated learning](../claims/epsrl-increases-perceived-srl-awareness-understanding-application.md) [+W]
+- [Postgraduate online students' perceived awareness, understanding and application of self-regulated learning rose from pre-test to post-test after using the ePSRL Management System, in one group with no comparison group](../claims/epsrl-increases-perceived-srl-awareness-understanding-application.md) [+W]
 - [Using the ePSRL Management System shows no significant difference in mean assessment results or mean attempts per quiz between users and non-users](../claims/epsrl-no-difference-assessment-results-quiz-attempts.md) [-W]
 
 ## Related Products and Programmes
@@ -71,7 +71,7 @@ The electronic Personalised Self-Regulated Learning (ePSRL) Management System is
 - [Students who use the ePSRL Management System meet the course completion deadline at a significantly higher rate than non-users](../claims/epsrl-higher-course-completion-deadline-rate.md) [+W]
 - [Students who use the ePSRL Management System spend more time learning per month and complete the course in fewer months than non-users](../claims/epsrl-increases-learning-motivation-time-and-speed.md) [+W]
 - [Students who use the ePSRL Management System post more scaffold reflections and self-reflections per month than non-users](../claims/epsrl-increases-metacognitive-reflection-posts.md) [+W]
-- [Using the ePSRL Management System increases postgraduate online students' perceived awareness, understanding and application of self-regulated learning](../claims/epsrl-increases-perceived-srl-awareness-understanding-application.md) [+W]
+- [Postgraduate online students' perceived awareness, understanding and application of self-regulated learning rose from pre-test to post-test after using the ePSRL Management System, in one group with no comparison group](../claims/epsrl-increases-perceived-srl-awareness-understanding-application.md) [+W]
 - [Using the ePSRL Management System shows no significant difference in mean assessment results or mean attempts per quiz between users and non-users](../claims/epsrl-no-difference-assessment-results-quiz-attempts.md) [-W]
 
 ## Related Elements

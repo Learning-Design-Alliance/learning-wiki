@@ -46,5 +46,5 @@ Post-activity ratings from Table 1 (N=15) of the one-group pre-test/post-test st
 
 ## Related Claims
 - [Classification is the least-developed basic mathematics skill after plasticized-clay activities, rated moderate](classification-least-developed-clay-activities.md) — a narrower finding that bears on this claim
-- [Each of the six individual basic mathematics skills improves significantly after plasticized-clay activities](clay-activities-individual-skills-significant-gains.md) — related
-- [Preschool children's overall basic mathematics scores rise significantly after plasticized-clay art activities (p<.01, t=26.458)](clay-activities-significant-pre-post-gain-overall.md) — related
+- [Each of the six individual basic mathematics skills scored higher from pre-test to post-test after plasticized-clay activities in one uncontrolled pre-post study](clay-activities-individual-skills-significant-gains.md) — related
+- [Preschool children's overall basic mathematics scores rose significantly from pre-test to post-test after plasticized-clay art activities, in one uncontrolled pre-post study (p<.01, t=26.458)](clay-activities-significant-pre-post-gain-overall.md) — related

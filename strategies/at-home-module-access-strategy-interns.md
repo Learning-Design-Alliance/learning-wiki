@@ -38,7 +38,7 @@ The article recommends supplying interns with personal, inexpensive simulation m
 
 ## Claims
 
-- [Orthopaedic interns with year-long at-home access to low-cost skills modules significantly improved OSATS Global Rating Scores across all five modules from beginning to end of the academic year](../claims/low-cost-modules-improve-pgy1-osats-longitudinal.md) [+W]
+- [Orthopaedic interns' OSATS Global Rating Scores rose significantly across all five modules from the beginning to the end of the academic year in a within-group pre-test/post-test comparison after year-long at-home access to low-cost skills modules](../claims/low-cost-modules-improve-pgy1-osats-longitudinal.md) [+W]
 - [Module access was associated with greater task efficiency in drill plunge, depth gauge, and angled drilling versus controls, with no significant accuracy differences between groups](../claims/module-access-efficiency-not-accuracy-gains.md) [+W]
 - [End-of-year PGY1 residents with module access scored significantly better GRS than a control class at the same training level without module access, across all modules](../claims/module-access-end-of-year-outperformed-control.md) [+W]
 - [Residents used the modules an average of 10.6 total hours over the academic year, with wide variation and two residents reporting zero hours](../claims/module-use-averaged-10-6-hours-self-reported.md) [~W]

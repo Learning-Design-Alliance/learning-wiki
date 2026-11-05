@@ -45,6 +45,6 @@ Narrative literature review attributing this to Mahjoob (2015), a study of sixty
 
 
 ## Related Claims
-- [Self-regulated strategy instruction significantly improved speaking proficiency of Egyptian EFL university students in a one-group pre-posttest quasi-experiment](srl-strategy-instruction-improved-speaking-proficiency-egyptian-efl.md) — related
-- [Self-regulated strategy instruction significantly reduced speaking anxiety of Egyptian EFL university students](srl-strategy-instruction-reduced-speaking-anxiety.md) — related
+- [Speaking proficiency scores rose significantly from pretest to posttest among Egyptian EFL university students after self-regulated strategy instruction, in a one-group pre-posttest quasi-experiment](srl-strategy-instruction-improved-speaking-proficiency-egyptian-efl.md) — related
+- [Speaking anxiety scores decreased significantly from pretest to posttest after self-regulated strategy instruction, in one group of Egyptian EFL university students with no comparison group](srl-strategy-instruction-reduced-speaking-anxiety.md) — related
 - [The self-monitoring strategy of SRL had a larger effect on EFL speaking performance than the seeking-help strategy](self-monitoring-outperforms-seeking-help-speaking.md) — related

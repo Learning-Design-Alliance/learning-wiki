@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 > **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Killingsworth 2015: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Game condition was a significant predictor of near-transfer post-test scores, with students scoring higher in the self-explanation condition (b = 11.129, p = .016), but was not a significant predictor of far-transfer post-test scores (b = -.465, p = .928). [→ Killingsworth 2015](#killingsworth-2015)

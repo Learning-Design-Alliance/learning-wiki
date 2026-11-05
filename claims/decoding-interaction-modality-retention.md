@@ -71,3 +71,4 @@ In the modality-by-decoding mixed model for delayed retention, the interaction t
 - [Videos and illustrated texts showed no significant difference in retrieval from materials or transfer among fifth and sixth graders](no-modality-difference-retrieval-transfer.md) — related
 - [Reading comprehension predicted retrieval, transfer, and retention more strongly than decoding, with a weaker modality interaction favoring lower-comprehension children in retention](reading-comprehension-predicts-multimedia-learning.md) — related
 - [Fifth and sixth graders showed higher delayed retention and lower cognitive load when learning science from videos than from illustrated texts](video-better-retention-lower-load-classroom.md) — related
+- [Video-based materials produce longer total fixation duration and more visits than other modalities](video-materials-longer-fixation-more-visits.md) — related

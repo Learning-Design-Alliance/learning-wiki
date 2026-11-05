@@ -47,4 +47,4 @@ Thematic synthesis of the digital-platform studies (Spotify, LyricsTraining, You
 ## Related Claims
 - [Across the synthesized corpus, 34 studies reported affective gains while 17 found statistically significant listening or fluency improvements and 21 reported no fluency outcomes](fluency-outcomes-uneven-reporting.md) — a broader claim this one bears on
 - [Direct EMI evidence for music-mediated pedagogy is scarce, concentrated in arts disciplines, and lacks controlled measures](emi-music-evidence-scarce.md) — related
-- [Both genders improve in recognising AI's role in entertainment platforms after the workshop, with females additionally gaining in identifying TikTok](platform-recognition-gains-netflix-spotify.md) — related
+- [Recognition of AI's role in entertainment platforms rose from pre-test to post-test for both genders after the workshop, and females' recognition of TikTok also rose, in one uncontrolled pre-post study](platform-recognition-gains-netflix-spotify.md) — related

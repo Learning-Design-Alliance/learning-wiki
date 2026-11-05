@@ -45,7 +45,7 @@ Within-subject observer study of 40 fourth-year dental students reading 40 panor
 
 
 ## Related Claims
-- [AI-assisted annotation reduces dental students' diagnostic time per panoramic radiograph](ai-annotation-reduces-diagnostic-time.md) — related
+- [Dental students' diagnostic time per panoramic radiograph fell from pre-test to post-test after AI-assisted annotation, in one uncontrolled pre-post study](ai-annotation-reduces-diagnostic-time.md) — related
 - [Nearly all individual observers improved on every performance metric with AI annotation](ai-annotation-nearly-all-observers-improved.md) — related
 - [AI-assisted annotation raises dental students' self-reported confidence in detecting caries at all depths](ai-annotation-raises-caries-detection-confidence.md) — related
 - [AI-assisted training did not significantly improve undergraduate dental students' diagnostic scores for proximal caries extension compared with conventional radiology training](ai-training-no-gain-dental-caries-diagnostic-scores.md) — related

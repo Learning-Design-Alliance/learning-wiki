@@ -47,7 +47,7 @@ Pre/post comparison of the student collaboration self-assessment rubric complete
 ## Related Claims
 - [Experimental-group students showed a larger positive shift in collaboration attitudes across criteria than control-group students after the intervention](experimental-group-larger-attitude-shift-than-control.md) — a narrower finding that bears on this claim
 - [Positive attitude increases satisfaction, and satisfaction increases course recommendation](attitude-satisfaction-recommendation-chain.md) — related
-- [EFL students' attitudes toward team teaching improve significantly after experiencing it in reading comprehension lessons](team-teaching-improves-student-attitudes.md) — related
+- [EFL students' attitudes toward team teaching rose significantly from pre-test to post-test after experiencing it in reading comprehension lessons, measured within the experimental group](team-teaching-improves-student-attitudes.md) — related
 - [The experimental group showed significantly more positive attitudes towards learning English than the control group on the post-test attitude scale](e-mind-maps-attitude-posttest-advantage.md) — related
 - [Within the experimental group, attitudes rose significantly from pretest to posttest and monitoring test, and the gain held between posttest and monitoring test](experimental-group-within-group-attitude-increase.md) — related
 - [Teacher-rated collaboration skills of experimental-group students reached good-to-excellent levels across all rubric criteria during the wiki-supported intervention](teacher-rubric-collaboration-skills-good-excellent.md) — related

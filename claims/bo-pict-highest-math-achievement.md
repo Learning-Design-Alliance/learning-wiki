@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Nandwa et al. 2015: groups were assigned but students were analysed as independent · Nandwa et al. 2015 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` The BO-PICT group (E3) achieved the highest post-test mean score (66.4) and the greatest mean gain (35.3) among all groups. [→ Nandwa et al. 2015](#nandwa-et-al-2015)

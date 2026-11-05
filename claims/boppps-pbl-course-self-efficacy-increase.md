@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Participation in the BOPPPS-PBL course is associated with a modest increase in general self-efficacy among newly recruited nurses
-description: Participation in the BOPPPS-PBL course is associated with a modest increase in general self-efficacy among newly recruited nurses
+title: Self-rated general self-efficacy scores rose modestly from before to after the BOPPPS-PBL course among newly recruited nurses in one uncontrolled pre-post study
+description: Self-rated general self-efficacy scores rose modestly from before to after the BOPPPS-PBL course among newly recruited nurses in one uncontrolled pre-post study
 id: boppps-pbl-course-self-efficacy-increase
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Participation in the BOPPPS-PBL course is associated with a modest increase in general self-efficacy among newly recruited nurses
+# Self-rated general self-efficacy scores rose modestly from before to after the BOPPPS-PBL course among newly recruited nurses in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
@@ -45,7 +45,7 @@ Paired-samples t-test on the same 60-nurse single-group pilot, using a locally m
 
 
 ## Related Claims
-- [Participation in a BOPPPS-PBL nursing innovation course is associated with higher post-course creativity scores among newly recruited nurses](boppps-pbl-course-creativity-increase.md) — related
+- [Among newly recruited nurses, creativity scores rose from before to after a BOPPPS-PBL nursing innovation course in one uncontrolled pre-post study](boppps-pbl-course-creativity-increase.md) — related
 - [Game-based learning in a mental health nursing internship significantly improves nursing students' academic self-efficacy, with large within-group effects sustained at one-month follow-up](gbl-improves-academic-self-efficacy-nursing.md) — related
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
 - [Participants rated the BOPPPS-PBL teaching model highly, with a mean teaching-effectiveness score of 56.43 ± 5.17 out of 60](boppps-pbl-high-teaching-effectiveness-ratings.md) — related

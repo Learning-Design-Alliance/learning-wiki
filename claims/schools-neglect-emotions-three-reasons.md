@@ -67,3 +67,4 @@ Theoretical argument that educators now see thought and feeling as interdependen
 ## Related Claims
 - [Blended learning designs pay most affective-climate attention to motivating and mental-effort tasks while neglecting appraising and dealing with emotions](affective-climate-neglected-blended-designs.md) — related
 - [Educational psychology has long neglected marginalized learners and remains complicit in imposing normative standards and social stratification](ed-psych-neglect-marginalized-learners-normative-standards.md) — related
+- [Most psychology training programs offer no courses in religion and spirituality](psychology-training-lacks-religion-spirituality-courses.md) — related

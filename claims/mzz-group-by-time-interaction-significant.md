@@ -46,6 +46,6 @@ Factorial ANOVA with repeated measurement on the pre/post EMBI scores of the eig
 
 ## Related Claims
 - [Training did not reduce confirmation bias on in-context measurements embedded in the second murder case](no-cb-reduction-in-context.md) — reports the opposite
-- [A shortened 18-session MZZ program replicated the training effect in the former waiting control group (d = 2.5)](shortened-mzz-replicates-effect-waiting-controls.md) — related
+- [The former waiting control group's scores rose from pre-test to post-test after a shortened 18-session MZZ program, in a pre-post comparison within that group (d = 2.5)](shortened-mzz-replicates-effect-waiting-controls.md) — related
 - [The ANOVA showed no statistically significant main effect of group on EMBI performance (F(1,6) = 5.55, p > .05)](mzz-no-main-effect-of-group.md) — related
 - [The full MZZ training program significantly improves early mathematical precursor skills in school-entry children at risk, with a large advantage over waiting controls (d = 4.6)](mzz-training-improves-early-number-competencies-at-risk-children.md) — related

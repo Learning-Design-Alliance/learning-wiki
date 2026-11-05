@@ -48,7 +48,7 @@ One-group pretest-posttest quasi-experiment with 118 undergraduates from 10 camp
 - [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Narrow media production lessons increase students' reported thinking about media literacy concepts in daily life](media-lessons-increase-everyday-concept-thinking.md) — related
+- [Students' self-reported thinking about media literacy concepts in daily life rose from pre-test to post-test after narrow media production lessons, in one uncontrolled pre-post study](media-lessons-increase-everyday-concept-thinking.md) — related
 - [The study's central hypothesis that narrow mediated-message-communication instruction leads to broader media literacy competencies was supported, with stated limits](narrow-instruction-supports-broader-competencies-hypothesis.md) — a broader claim this one bears on
 - [Narrow media production lessons improve overall demonstrated media literacy knowledge, but gains concentrate in messages-and-meanings concepts](narrow-lessons-knowledge-gains-limited-scope.md) — related
 - [Video-production experiential teaching raises self-perceived core health education competencies more than lecture-based instruction](video-production-experiential-teaching-raises-self-perceived-competencies.md) — a narrower finding that bears on this claim

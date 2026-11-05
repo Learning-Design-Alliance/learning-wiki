@@ -53,4 +53,4 @@ Post-hoc multiple comparisons following the ANOVA on the 30 learners' posttest s
 - [Collaborative joint reading through a teacher's blog produces significantly larger reading comprehension gains than individual reading of the same stories on paper](blog-joint-reading-improves-reading-comprehension-gains.md) — related
 - [Male and female experimental and control students were homogeneous in reading comprehension before the treatment](pretest-homogeneity-blog-reading-study.md) — related
 - [Gender did not significantly affect free active vocabulary scores](gender-no-effect-free-active-vocabulary.md) — related
-- [Knowledge gains differ by subgroup: male students and second-year students showed greater gains than female and third-year students](knowledge-gain-gender-academic-year-subgroups.md) — reports the opposite
+- [Knowledge scores rose from pre-test to post-test in one group with no comparison group: male students had greater gains than female students, and second-year students had greater gains than third-year students](knowledge-gain-gender-academic-year-subgroups.md) — reports the opposite

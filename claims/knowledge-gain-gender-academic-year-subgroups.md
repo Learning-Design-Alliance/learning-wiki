@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Knowledge gains differ by subgroup: male students and second-year students showed greater gains than female and third-year students"
-description: "Knowledge gains differ by subgroup: male students and second-year students showed greater gains than female and third-year students"
+title: "Knowledge scores rose from pre-test to post-test in one group with no comparison group: male students had greater gains than female students, and second-year students had greater gains than third-year students"
+description: "Knowledge scores rose from pre-test to post-test in one group with no comparison group: male students had greater gains than female students, and second-year students had greater gains than third-year students"
 id: knowledge-gain-gender-academic-year-subgroups
 status: review
 generated:
@@ -28,14 +28,14 @@ sources:
     rigour: 1
 ---
 
-# Knowledge gains differ by subgroup: male students and second-year students showed greater gains than female and third-year students
+# Knowledge scores rose from pre-test to post-test in one group with no comparison group: male students had greater gains than female students, and second-year students had greater gains than third-year students
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i3` Male students gained more than female students (Δ=2.8 vs. 2.3; Cohen's d=1.17 vs. 1.15; P=0.034). [→ López-Brotons Maria 2026](#lopez-brotons-maria-2026)
+`q2 i3` Male students' knowledge scores rose more than female students' scores from pre-test to post-test in one group with no comparison group (Δ=2.8 vs. 2.3; Cohen's d=1.17 vs. 1.15; P=0.034). [→ López-Brotons Maria 2026](#lopez-brotons-maria-2026)
 `q2 i3` Second-year students gained more than third-year students (Δ=2.9 vs. 2.1; Cohen's d=1.21 vs. 1.11; P=0.001). [→ López-Brotons Maria 2026 (2)](#lopez-brotons-maria-2026-2)
 
 ## Evidence

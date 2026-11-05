@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group
-description: Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group
+title: The experimental group showed statistically significant pre-to-post achievement gains in the EFL teaching methods course after Blackboard-based instruction
+description: The experimental group showed statistically significant pre-to-post achievement gains in the EFL teaching methods course after Blackboard-based instruction
 id: blackboard-instruction-significant-prepost-gains-efl-methods
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 2
 ---
 
-# Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group
+# The experimental group showed statistically significant pre-to-post achievement gains in the EFL teaching methods course after Blackboard-based instruction
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
@@ -51,7 +51,7 @@ Quasi-experimental pre-post study: twenty experimental-group students taught via
 - [The experimental group's descriptive pre- and post-test means were higher than the control group's, but the unadjusted difference was not tested](mi-descriptive-pre-post-means.md) — related
 - [The CAI group shows no statistically significant pre-test to post-test gain in learning Voice in English Grammar](cai-within-group-gain-not-significant.md) — related
 - [The experimental group's achievement scores improved significantly from pre-test to post-test after instruction with e-Mind Maps](e-mind-maps-within-group-achievement-gain.md) — related
-- [MI-based instruction improved overall EFL pre-service teacher speaking performance in a one-group pre-post design](mi-instruction-improves-efl-preservice-speaking-overall.md) — related
-- [MI-based instruction improved the making-requests subskill of EFL pre-service teachers](mi-instruction-improves-making-requests-subskill.md) — related
+- [Overall EFL pre-service teacher speaking performance rose from pre-test to post-test after MI-based instruction, in one group with no comparison group](mi-instruction-improves-efl-preservice-speaking-overall.md) — related
+- [Scores on the making-requests subskill rose from pre-test to post-test among EFL pre-service teachers in a single-group pre-post study following MI-based instruction](mi-instruction-improves-making-requests-subskill.md) — related
 - [Blended Blackboard CMC instruction using discussion boards, blogs and wikis significantly improves integrated reading/writing performance in EFL college students](blackboard-cmc-improves-integrated-reading-writing.md) — related
-- [Blended e-learning produced statistically significant pre-post gains in student teachers' teaching implementation skills in favor of the posttest](blended-learning-significant-pre-post-gains-teaching-skills.md) — related
+- [Student teachers' teaching implementation skills were higher at posttest than pretest after blended e-learning, with a statistically significant difference in one uncontrolled pre-post study.](blended-learning-significant-pre-post-gains-teaching-skills.md) — related

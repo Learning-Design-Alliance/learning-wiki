@@ -54,3 +54,4 @@ Moderation analysis adding sex interactions to the regression model in the 2-yea
 - [Boys show greater fitness and physical activity than girls, but academic achievement does not differ by sex in this sample](sex-differences-fitness-activity-not-achievement.md) — related
 - [Weight loss is associated with better academic performance in children with higher baseline BMI (mean + 1 SD)](weight-loss-overweight-improves-grades.md) — related
 - [The baseline BMI × BMI-change interaction replicates in a split-group validation analysis](split-group-validation-replicates-interaction.md) — related
+- [Sex does not moderate sleep–outcome associations](sex-no-moderation-sleep.md) — related

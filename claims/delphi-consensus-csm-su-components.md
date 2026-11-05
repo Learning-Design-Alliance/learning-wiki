@@ -50,3 +50,4 @@ Two-round Delphi validation with 10 Cypriot field experts (six senior principals
 - [Seven enablers of LA-based educational interventions were identified and validated by an international expert panel](seven-enablers-la-based-educational-interventions.md) — related
 - Two Delphi rounds with 20 Chinese CDC experts achieved consensus, with Kendall's W rising significantly from 0.295 to 0.328 — related
 - [The created test tasks showed high validity (β = 0,97) via a Delphi procedure with 10 experts](test-validity-delphi-beta-097.md) — related
+- [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related

@@ -55,3 +55,4 @@ Analysis of a single cohort of 315 undergraduate electrical engineering students
 - [Women assigned to the chatbot in Microeconomics earned final grades seven points higher than control women, with no treatment effects for men](chatbot-gender-heterogeneity-microeconomics-women.md) — related
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related
 - [Practice points from active-learning exercises did not inflate final grades; exam points remained the primary determinant of course grade](practice-points-did-not-inflate-grades.md) — related
+- [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — related

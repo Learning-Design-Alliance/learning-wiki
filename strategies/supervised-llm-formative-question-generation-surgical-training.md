@@ -53,6 +53,7 @@ The article supports a cautious educational role for LLMs in postgraduate surgic
 - [Use LLMs cautiously as supplementary learning tools in dental education, with output verification and professional supervision](cautious-llm-supplementary-tools-dental-education.md)
 - [Frame LLM use in biomedical education around low‐stakes formative tasks with expert‐guided verification and rationale requests](llm-low-stakes-formative-use-expert-verification-strategy.md)
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
+- [Future work should evaluate LLM performance on Part B, viva-style and clinical scenario assessments and study effects on trainee learning outcomes](future-llm-evaluation-part-b-viva-learning-outcomes.md)
 
 ## Examples
 -

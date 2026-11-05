@@ -54,6 +54,7 @@ The review proposes a phased approach to GenAI personalization adoption with fiv
 - [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
 - [Combine bottom-up co-design with top-down executive sponsorship, cross-unit collaboration and dedicated R&D capacity to embed institutional GenAI](bottom-up-codesign-top-down-sponsorship-genai-embedding.md)
 - [Phased implementation strategy for robot-assisted training to distribute costs](phased-implementation-robot-training-strategy.md)
+- [Institutions should pilot low-stakes, prespecify evaluation indicators, and scale only after governance, faculty capacity, and equity safeguards are in place](phased-low-stakes-pilot-implementation.md)
 
 ## Examples
 -

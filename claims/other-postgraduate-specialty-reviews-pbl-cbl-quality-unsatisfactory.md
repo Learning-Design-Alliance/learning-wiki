@@ -76,3 +76,5 @@ The review reports, citing three prior studies, that PBL appeared more effective
 - [MDT-CDIO integrated teaching yields higher overall performance scores than traditional teaching in orthopedic clinical education](mdt-cdio-higher-overall-performance-scores.md) — related
 - [No significant difference between PBL-CBL and traditional groups in post-class basic knowledge or skills scores](pbl-cbl-no-difference-basic-knowledge-skills-scores.md) — reports the opposite
 - [Student engagement with preparation resources builds confidence and is associated with improved engagement, participation and knowledge in CBL](cbl-student-preparation-improves-engagement-knowledge.md) — related
+- [CBE-MDT teaching yields higher trainee satisfaction than traditional teaching](cbe-mdt-higher-satisfaction-radiation-oncology.md) — a narrower finding that bears on this claim
+- [Students preferred PBL over TBL, citing clearer objectives, fuller participation, and more suitable pacing in small-group discussion.](students-preferred-pbl-over-tbl.md) — a narrower finding that bears on this claim

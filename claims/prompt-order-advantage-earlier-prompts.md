@@ -46,5 +46,5 @@ Descriptive prompt-order analysis within the Wagner College study; the article a
 
 
 ## Related Claims
-- [Monmouth entrepreneurial program: two of three prompt comparisons improved significantly, one declined significantly, and the combined 7.39% gain was not significant](monmouth-mixed-prompt-results.md) — related
+- [Monmouth entrepreneurial program: two of three prompt comparisons rose significantly from beginning to end, one fell significantly, and the combined 7.39% change was not significant, in one uncontrolled pre-post study](monmouth-mixed-prompt-results.md) — related
 - [In story recall, boys' memory power culminated about the beginning of high school, girls recalled more of the story than boys across parallel grades, and earlier parts of the story were recalled better than later parts](story-recall-boys-peak-early-girls-higher-primacy.md) — related

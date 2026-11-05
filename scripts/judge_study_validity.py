@@ -316,8 +316,15 @@ def annotate(pages, apply):
     for slug, path in pages.items():
         if slug not in by_claim and "**Design limits**" in path.read_text(encoding="utf-8"):
             by_claim[slug] = []
+    # The line on the page is the record, and it is only ever added, never rewritten or removed
+    # here (2026-11-04). The verdict store is ignored, so a container reset empties it: removing
+    # a line whose verdicts were missing deleted 1,357 of them in a dry run, and after a re-judge
+    # one model's fresh reading would silently overturn a finding two models had agreed on.
+    # Taking a line off, or changing it, is a person's or agent's edit, made against the source.
     for claim, vs in sorted(by_claim.items()):
         path = pages[claim]
+        if "**Design limits**" in path.read_text(encoding="utf-8"):
+            continue
         # only verdicts on the entry text as it stands now
         title, entries = clb.units(path)
         current = {a: clb.page_digest(claim, title, b, s) for a, b, s in entries}

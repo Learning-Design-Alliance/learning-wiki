@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Turhan ÇETİN & Mustafa TAHİROĞLU 2012: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Following the experimental procedure, students showed increases in self-cleaning behaviours, balanced food choices, hygiene attention, and exercising. [→ Turhan ÇETİN & Mustafa TAHİROĞLU 2012](#turhan-cetin-mustafa-tahiroglu-2012)

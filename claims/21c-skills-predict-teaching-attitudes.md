@@ -47,4 +47,4 @@ Same SEM of 401 preservice teachers' self-reports; the path from 21st-century sk
 ## Related Claims
 - [Total 21st-century skills correlate moderately with teacher self-efficacy (r = 0.49) and attitudes toward teaching (r = 0.35) among preservice teachers](21c-skills-correlations-self-efficacy-attitudes.md) — related
 - [Preservice teachers' 21st-century skills significantly and positively predict teacher self-efficacy (β = 0.58) in a cross-sectional SEM model](21c-skills-predict-teacher-self-efficacy.md) — related
-- [A scenario-based blended learning environment combined with teaching practice is associated with a statistically significant increase in preservice teachers' attitudes toward the teaching profession](scenario-blended-learning-positive-teaching-attitudes.md) — related
+- [Preservice teachers' self-reported attitudes toward the teaching profession rose significantly from before to after participation in a scenario-based blended learning environment combined with teaching practice, in one uncontrolled pre-post study](scenario-blended-learning-positive-teaching-attitudes.md) — related

@@ -57,6 +57,8 @@ The review recommends that curriculum integration of ECE proceed "through hybrid
 - [Strengthen simulation-based training, clinical case exposure, and complication management in undergraduate prosthodontic education](simulation-training-clinical-exposure-veneer-education.md)
 - [Incorporate more clinical exposure and preclinical simulations to improve dental students' TDI management knowledge and confidence.](more-clinical-exposure-preclinical-simulations-tadi.md)
 - [Sequence OCL before SBL in a hybrid professional development framework](ocl-then-sbl-hybrid-teacher-pd.md)
+- [Expand simulation-based and laboratory training before and alongside clinical practice](expand-simulation-laboratory-training-nursing.md)
+- [Integrate simulation-based learning into interprofessional curricula to cultivate collaboration early in training](integrate-sbl-into-interprofessional-curricula.md)
 
 ## Examples
 -

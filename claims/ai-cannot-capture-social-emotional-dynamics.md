@@ -67,3 +67,4 @@ Theme summary from Section 4.2 of the speed-dating study; teachers reacted negat
 - [Negative emotions are perceived to have either positive or negative impacts on learning, with faculty more likely than students to recognize their functional benefits](negative-emotions-dual-impact-faculty-see-benefits.md) — related
 - [Students raised concerns that performance forecasts cannot capture personal circumstances affecting study](forecast-concerns-personal-circumstances.md) — related
 - [Only 21.5% of teachers believe the policy of giving each student a computer should extend to all courses and stages of the school system.](escuela2-policy-extension-low-support.md) — related
+- [AI feedback positioned as more objective than human judgment threatens professional identity and power dynamics in supervisory relationships](ai-feedback-professional-identity-power-risk.md) — related

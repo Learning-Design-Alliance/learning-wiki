@@ -45,5 +45,5 @@ Wilcoxon signed-ranks comparisons in the same one-group study: pre to delayed po
 
 
 ## Related Claims
-- [Improvements in classifying the chemical composition of matter were not durable: some participants reverted to their initial inappropriate classifications 17 months later](chemical-composition-gains-not-durable.md) — reports the opposite
-- [A multiple-representations instruction significantly increased preservice chemistry teachers' scientifically appropriate classifications of particulate drawings from pretest to posttest](multiple-representations-instruction-increased-appropriate-classifications.md) — related
+- [In one uncontrolled pre-post study, inappropriate classifications of the chemical composition of matter rose from n=2 at posttest to n=13 at delayed posttest 17 months later](chemical-composition-gains-not-durable.md) — reports the opposite
+- [Preservice chemistry teachers' scientifically appropriate classifications of particulate drawings rose significantly from pretest to posttest after multiple-representations instruction, in one uncontrolled pre-post study](multiple-representations-instruction-increased-appropriate-classifications.md) — related

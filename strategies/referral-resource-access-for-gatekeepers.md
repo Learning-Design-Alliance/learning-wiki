@@ -41,7 +41,7 @@ The article notes that "once participants are trained, they must have easy acces
 ## Claims
 
 - [RCTs report objective behavioral changes after simulation training, including increased peer referral, longer crisis-line calls, and improved management of suicidal crises](../claims/simulation-behavior-changes-rcts-suicide.md) [+M]
-- [Self-reported gatekeeper behaviors (identifying, approaching, and referring distressed student veterans) trended upward after training but did not reach statistical significance on the composite measure.](../claims/voc-training-gatekeeper-behavior-trend.md) [+W]
+- [Gatekeeper behaviors (identifying, approaching, and referring distressed student veterans) trended upward from before to after training, but did not reach statistical significance on the composite measure, in one uncontrolled pre-post study.](../claims/voc-training-gatekeeper-behavior-trend.md) [+W]
 
 ## Related Strategies
 - 

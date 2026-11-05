@@ -73,3 +73,4 @@ Reliability analysis of a single Gemini-Flash judge scored n=3 times across thir
 - [Autograder accuracy on individual exams fluctuates around the expected performance, and strong deviations can be reliably detected by validation](per-exam-accuracy-fluctuates-validation-detects-deviations.md) — related
 - [The 5-LLM panel showed higher generalizability and lower rater-related variance than the 10-judge faculty panel](llm-panel-higher-g-coefficient-lower-rater-variance.md) — related
 - [Multiagent framework demonstrated stable cross-specialty scalability with lower variability than single-LLM baseline](multiagent-stable-cross-specialty-scalability.md) — related
+- [Substantial within-model output instability was identified, most notably GPT-5.2 in female urology (SD ±22.8%) and anatomy (SD ±14.2%)](llm-output-instability-female-urology-anatomy.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-02
 evidence_strength: moderate
 newest_evidence: 1997
+source_checked: 2026-11-05
 sources:
   - id: tao-1997
     resource: "https://eric.ed.gov/?id=ED406151"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1997 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Peer conflicts had impact on some students but not others, and some students achieved conceptual change without experiencing any peer conflicts at all. [→ Tao 1997](#tao-1997)
@@ -61,7 +62,7 @@ Analysis of peer-conflict instances across the 7 dyads (Table 4), where the numb
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](cscl-simulation-conceptual-change-cognitive-engagement.md) — related
 - [Alternative conceptions in force and motion were very difficult to change: of 14 students, 6 showed substantial conceptual change, 1 some change, and 7 no change](force-motion-conceptions-difficult-to-change.md) — related
-- [High joint on-task engagement with high equality and mutuality of engagement did not necessarily mean cognitive engagement or ensure conceptual change](high-equality-mutuality-not-sufficient-conceptual-change.md) — related
+- [In one single-group pre-post study, dyads with high joint on-task engagement and high equality and mutuality of engagement included one student who showed substantial conceptual change and another who showed none](high-equality-mutuality-not-sufficient-conceptual-change.md) — related
 - [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — a broader claim this one bears on
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work](students-report-peer-collaboration-supports-learning.md) — related

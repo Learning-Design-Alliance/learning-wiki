@@ -67,3 +67,4 @@ Analysis of distribution functions for extra-session procrastination (Figs. 9 an
 - [Users who stay and finish the MOOC utilize the course material better than those who do not, suggesting interest in learning from the material is a contributing factor for completion.](course-completers-utilize-material-better.md) — related
 - [Users who fail a MOOC tend to combine evaluation tasks with consultation of support materials, suggesting they attempt to answer activities without having absorbed the essential knowledge.](failed-users-combine-evaluation-with-material-consultation.md) — related
 - [Learners from different performance groups differ in priorities of learning tactic usage across learning sessions](performance-groups-differ-tactic-usage.md) — related
+- [Students failing the Pass check phase are excluded from ranking and their peer evaluations removed](pass-check-exclusion-rule.md) — related

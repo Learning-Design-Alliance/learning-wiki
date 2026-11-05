@@ -67,3 +67,4 @@ Tukey multiple-comparison post-hoc test on the same post-test data. Mean differe
 ## Related Claims
 - [Both ABSL and traditionally taught groups showed statistically significant pre-test to post-test achievement gains in probability](both-groups-pre-post-gains-probability.md) — related
 - [Pre-service teachers taught probability with the ABSL approach achieved significantly higher post-test scores than those taught with traditional methods](absl-probability-achievement-advantage.md) — related
+- [Summative academic performance in the AI-supported Reproduction module does not significantly differ from traditionally taught modules](no-significant-summative-performance-difference-ai-module.md) — related

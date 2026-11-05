@@ -67,6 +67,7 @@ The article presents Vygotsky's core theoretical position: unlike Piaget's focus
 - [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
 - [SMALLab mixed-reality design pivots on three principles: face-to-face interaction, distributed thought and action, and immediate consolidation](../designs/smallab-three-design-principles.md)
 - [Time simulation sessions toward the end of the academic year to engage learners in their zone of proximal development](../designs/time-simulation-zpd-end-of-year.md)
+- [Five-phase scaffolding instructional design for language courses](../designs/five-phase-scaffolding-language-course.md)
 
 ## Key Sources
 - Costley, K. C. (2012). An Overview of the Life, Central Concepts, Including Classroom Applications of Lev Vygotsky. https://eric.ed.gov/?id=ED529565

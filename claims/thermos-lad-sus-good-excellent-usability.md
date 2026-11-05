@@ -62,3 +62,4 @@ A survey of 42 participants from various study programs completed the ten-item S
 - [Simulation interventions showed positive usability and feasibility, with technical preparation needs sometimes causing non-completion](usability-feasibility-technical-issues.md) — related
 - [93% of students rated usability and control as important to their learning](usability-and-control-rated-important-by-93-percent.md) — a narrower finding that bears on this claim
 - [Students rate the simulation program highly acceptable and useful, with the simulation component rated most useful.](simulation-high-acceptability-ratings.md) — related
+- [Mobile AR for anatomy education received a mean System Usability Scale score of 58.25 (SD ±15.41), below the average threshold of 68 and translating to a 'D' grade](mobile-ar-anatomy-sus-58-25-d-grade.md) — related

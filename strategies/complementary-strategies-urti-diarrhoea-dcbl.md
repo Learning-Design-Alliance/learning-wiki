@@ -39,12 +39,13 @@ Because the DCBL format aligned best with discrete, guideline-amenable decision 
 
 ## Claims
 
-- [Individual learner responses to the DCBL intervention were highly heterogeneous across all three case domains](../claims/heterogeneous-individual-sct-responses-dcbl.md) [+W]
-- [The UTI case showed a statistically significant domain-specific SCT improvement, while URTI and diarrhoea cases showed no significant change](../claims/uti-case-significant-sct-improvement.md) [+W]
+- [Across all three case domains, individual learner SCT scores showed heterogeneous rises, falls, or no change from pre-test to post-test in one single-group pre-post study of DCBL](../claims/heterogeneous-individual-sct-responses-dcbl.md) [+W]
+- [In one single-group pre-post study with no comparison group, UTI SCT scores rose significantly from pre-test to post-test, while URTI and diarrhoea SCT scores did not change significantly](../claims/uti-case-significant-sct-improvement.md) [+W]
 
 ## Related Strategies
 
 - [Deliver DCBL as iterative, spaced exposure rather than a one-off session to support durable gains in complex clinical reasoning](iterative-spaced-dcbl-exposure-strategy.md)
+- [Pair education with system-level changes to shift responsibility attitudes in perioperative teams](pair-education-with-system-level-responsibility-changes.md)
 
 ## Examples
 -

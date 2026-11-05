@@ -49,6 +49,6 @@ Descriptive item-level comparison of correct responses before (n = 57) and after
 
 ## Related Claims
 - [Nurses' correct response rates vary by MDT topic, highest for benefits and lowest for enzyme secretion and pressure-ulcer suitability](mdt-knowledge-item-level-gaps.md) — related
-- [Outpatient sick-day management showed the largest knowledge gap at baseline and the greatest post-simulation gain](sick-day-management-largest-gap-gain.md) — related
+- [Outpatient sick-day management showed the largest baseline knowledge gap and the greatest observed pre-test-to-post-test rise in correct responses, from 2.9% to 85.3%, in one group with no comparison group](sick-day-management-largest-gap-gain.md) — related
 - [A brief structured VAP prevention workshop significantly improved ICU nurses' knowledge scores in a resource-limited setting (group-level improvement)](structured-workshop-improved-icu-nurse-vap-knowledge.md) — a broader claim this one bears on
-- [Training shifted ICU nurses from low/moderate to high knowledge-based competence categories in VAP prevention](vap-competence-category-shift-after-training.md) — a broader claim this one bears on
+- [Among ICU nurses, the proportion classified as high knowledge-based competence rose from pre-test to post-test after training, in one single-group pre-post study of VAP prevention](vap-competence-category-shift-after-training.md) — a broader claim this one bears on

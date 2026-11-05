@@ -111,7 +111,7 @@ An immediate isomorphic-question gain, delayed retention, transfer to an unfamil
 - [In the pre-study, dyads using the DDR script were far more likely to integrate their partner's evidence into their answers on the main topic question](../claims/prestudy-ddr-perspective-integration.md) [+W]
 - [The script improved adherence to the prescribed order of grounding discussions before group activities, with an additional effect of the structured interface](../claims/script-improves-adherence-activity-order.md) [+W]
 - [Quality of explanations is higher in groups containing above-average students than in groups without them](../claims/group-expertise-raises-explanation-quality.md) [~W]
-- [Item-level analysis showed significant improvement on 9 of 10 peer instruction questions after Holm–Bonferroni correction.](../claims/pi-item-level-improvement-nine-of-ten.md) [+W]
+- [Item-level analysis found statistically significant score rises on 9 of 10 peer instruction questions from pre-test to post-test in one group with no comparison group, after Holm–Bonferroni correction.](../claims/pi-item-level-improvement-nine-of-ten.md) [+W]
 
 ## Related Principles
 - [Peer Feedback/Peer Review](peer-learning.md) — feedback is one specific form of peer discussion centered on improvement of work.

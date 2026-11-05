@@ -52,3 +52,4 @@ Latent profile analysis of cross-sectional survey data from 421 newly graduated 
 - [Only-child status, living situation and work experience were associated with caring perception profile membership](only-child-living-situation-work-experience-associated-with-caring-profile-membership.md) — related
 - [Thriving at work was positively associated with clinical nursing competency](thriving-at-work-positively-associated-with-clinical-nursing-competency.md) — related
 - [Clinical nurses' core competency falls into three latent profiles — low-level (43.97%), moderate-level (41.98%) and high-level (14.05%) — with a relatively small high-level subgroup](three-latent-core-competency-profiles-nurses.md) — related
+- [Newly graduated nurses report highest competency in Caring and lowest in Clinical Biomedical Science and General Clinical Skills](competency-profile-caring-highest-clinical-lowest.md) — related

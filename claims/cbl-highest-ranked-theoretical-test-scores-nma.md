@@ -67,3 +67,4 @@ Network meta-analysis of 58 RCTs with 5,427 students reporting theoretical test 
 - [In the same RCT, no significant between-group differences were observed in baseline theoretical knowledge or clinical skills scores before teaching](pbl-virtual-simulation-no-baseline-differences-trauma-orthopedics.md) — related
 - [International students studying CBL in a second language and unaccustomed to active learning show poorer knowledge gains than domestic peers](cbl-international-students-second-language-poorer-gains.md) — related
 - [PUC-FC students outperformed FC and LBL students on case analysis questions and total theoretical scores, with no difference on basic knowledge questions](puc-fc-case-analysis-advantage.md) — a narrower finding that bears on this claim
+- [No significant difference between CBL-FC and LBL groups in theoretical knowledge after intervention](cbl-fc-no-gain-theoretical-knowledge.md) — reports the opposite

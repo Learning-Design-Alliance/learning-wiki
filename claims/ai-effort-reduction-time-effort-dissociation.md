@@ -97,3 +97,4 @@ Completion-sample participants answered the 5-question NASA-TLX after each task.
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
 - [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — related
 - [The dominant barrier to EPAAs was high workload, and most interns could not easily fit EPAAs into their day](high-workload-dominant-barrier-to-epaas.md) — related
+- [Material modality significantly affects subjective cognitive load, with text materials inducing higher NASA-TLX scores than video-based materials](text-materials-highest-subjective-cognitive-load.md) — related

@@ -48,3 +48,4 @@ Micro-level analysis of parent-child comment pairs across hours compared speed o
 - [COVID-19 pandemic uncertainty showed minimal and inconsistent statistical effects on student question-posing](covid-uncertainty-minimal-question-posing-effect.md) — related
 - [Seasonal educational phases with structured, domain-relevant uncertainty are linked to increased collective question-posing across all discussion topics](seasonal-exam-uncertainty-increases-question-posing.md) — a broader claim this one bears on
 - [During exam uncertainty, child question types became dependent on parent question types, with preliminary evidence of possibility-thinking transmission](uncertainty-question-type-trajectory-dependence.md) — related
+- [Over half of students used the GPT companion multiple times per week, mainly for understanding difficult topics, exam preparation, and formative quizzes](frequent-gpt-companion-usage-patterns-medical-students.md) — related

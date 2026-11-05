@@ -9,6 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: weak
 newest_evidence: 1986
+source_checked: 2026-11-05
 recheck_by: 1989
 sources:
   - id: shavelson-1986
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
-> **Currency** · newest study 1986 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1989**: tool and model accuracy changes quickly
+> **Currency** · newest study 1986 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 1989**: tool and model accuracy changes quickly
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 7 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims

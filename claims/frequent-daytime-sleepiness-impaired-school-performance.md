@@ -82,3 +82,4 @@ Same prospective cohort, baseline sleepiness predicting follow-up school perform
 - [Experimental sleep restriction causally extends adolescent sleep-loss effects beyond sleepiness to attention and learning](sleep-restriction-effects-extend-beyond-sleepiness.md) — a narrower finding that bears on this claim
 - [Short sleep duration at age 3 was not associated with quality of life at about age 13](sleep-quality-of-life-null-longitudinal.md) — related
 - [Thirty to forty-eight hours of sleep loss produced no greater efficiency loss than the gain due to practice, despite reported feelings of fatigue](sleep-loss-efficiency-no-worse-than-practice-gain.md) — reports the opposite
+- [Referred students reported significantly longer commute times and slightly longer sleep duration than non-referred students](commute-time-sleep-associated-referral-ghana-nursing.md) — related

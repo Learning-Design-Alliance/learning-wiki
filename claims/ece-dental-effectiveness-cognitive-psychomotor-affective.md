@@ -54,3 +54,4 @@ Systematic review of nine studies (2007–August 2025) synthesizing quantitative
 - [ECE benefits both junior and senior preclinical dental students, with a larger pooled effect in junior students](ece-benefits-junior-and-senior-students.md) — a narrower finding that bears on this claim
 - [ECE reduces transition stress from preclinical to clinical training and supports smoother student transition](ece-reduces-transition-stress.md) — related
 - [Preclinical HVRS training significantly improves endodontic access cavity preparation scores on real patients](hvrs-training-improves-access-cavity-scores.md) — a narrower finding that bears on this claim
+- [No significant change in self-confidence across stages for access cavity preparation, radiographic evaluation, post-treatment follow-up, or patient communication](dental-confidence-null-procedures-no-change.md) — related

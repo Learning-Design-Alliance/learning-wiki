@@ -51,6 +51,7 @@ Following the chain mediation logic, the article recommends mentorship programs 
 
 - [Pre-internship psychological inoculation through situational simulations and case studies](pre-internship-psychological-inoculation-simulations.md)
 - [Mutual-selection matching of interns to kindergartens using P-O fit assessments](mutual-selection-po-fit-matching-internships.md)
+- [Introduce complex semi-quantitative assessments after trainees establish foundational skills, using targeted image review sessions for challenging parameters](staggered-learning-approach-ius-training.md)
 
 ## Examples
 -

@@ -46,5 +46,5 @@ Pre/post survey item on self-regulating the learning process. The article notes 
 
 ## Related Claims
 - [Trainee teachers shift toward agreement that videogames help develop the curriculum crosswise after experiencing one](videogame-experience-shifts-trainee-teacher-acceptance.md) — related
-- [Students' endorsement of videogames for developing visual memory and retentiveness rose sharply after the experience](videogame-experience-visual-memory-item-shift.md) — related
-- [After the experience, 100% of students fully agreed the videogame develops heuristic (trial-and-error) thinking](videogame-heuristic-thinking-unanimous-agreement.md) — related
+- [Students' self-reported endorsement of videogames for developing visual memory and retentiveness rose sharply from pre-test to post-test after the experience, in one uncontrolled pre-post study](videogame-experience-visual-memory-item-shift.md) — related
+- [After playing the videogame, 100% of students fully agreed with the heuristic (trial-and-error) thinking item; before playing, 94% were indifferent and 6% disagreed, based on self-reported responses in one single-group pre-post study](videogame-heuristic-thinking-unanimous-agreement.md) — related

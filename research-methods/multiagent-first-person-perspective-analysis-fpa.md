@@ -30,7 +30,8 @@ The article presents multiagent, time- and space-synchronized first-person persp
 - [Approximately 29.3% of frames were excluded from object tracking, primarily because target objects were outside the field of view](../claims/fpa-frame-loss-out-of-field-of-view.md) [+W]
 
 ## Related Research Methods
--
+
+- [Quantitative motion-capture and eye-tracking analysis of medical skill proficiency](quantitative-motion-capture-and-eye-tracking-analysis-of-medical-skill-proficiency.md)
 
 ## Key Sources
 - Nozawa Hisataka, Kunikata Ayumi, Sakai Yuki, Ouyang Liangyang, Furuta Ryosuke, Sato Yoichi, Matsui Hikoro. (2026). Multiagent First-Person Perspective Analysis for Leadership Assessment in Pediatric Emergency Simulations: A Feasibility Study. Critical Care Explorations. https://doi.org/10.1097/CCE.0000000000001428

@@ -50,4 +50,4 @@ The author's hypothesis decision following the t-test and ANOVA analyses of the 
 ## Related Claims
 - [The prw group scored higher on six of seven inferential-comprehension sub-skills, but only the sequence sub-skill difference was statistically significant](prw-subskill-performance-mixed-significance.md) — related
 - [ESL students who completed writing-based pre-reading tasks scored significantly higher on total inferential reading comprehension than control students](anova-verifies-prw-total-score-advantage.md) — related
-- [The study's null hypothesis of no pre-test/post-test difference in scores was rejected](null-hypothesis-rejected-pre-post-english.md) — related
+- [Scores rose from pre-test to post-test in one group with no comparison group](null-hypothesis-rejected-pre-post-english.md) — related

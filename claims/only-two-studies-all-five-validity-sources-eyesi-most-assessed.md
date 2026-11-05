@@ -72,3 +72,4 @@ Results-section statement from the review's virtual reality subsection: "the Eye
 - [Effectiveness evidence for ophthalmic simulators mostly stops at level 2 (contained effects), with isolated exceptions at level 3 (Sophocle) and level 5 (Eyesi for cataract surgery).](simulator-effectiveness-mostly-level-2-rare-downstream-target-effects.md) — related
 - [Of 939 screened studies, only 17 articles validating 29 airway simulators met inclusion criteria, and most studies assessed only one or two validity domains](airway-simulator-validation-sparse-17-studies-29-simulators.md) — related
 - [Simulator penalties decrease with ophthalmic experience, significantly for Run 2 only](helpmesee-msics-penalties-decrease-with-experience.md) — related
+- [A simulation-based FOI test on a portable VR simulator demonstrates strong validity evidence across all five sources in Messick's framework](vr-simulator-foi-test-strong-validity-evidence.md) — related

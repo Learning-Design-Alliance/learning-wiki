@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The traditional instructional program was associated with a decrease in self-esteem for intellectually less able students
-description: The traditional instructional program was associated with a decrease in self-esteem for intellectually less able students
+title: Self-rated self-esteem among intellectually less able students fell from pre-test to post-test in one single-group pre-post study of the traditional instructional program
+description: Self-rated self-esteem among intellectually less able students fell from pre-test to post-test in one single-group pre-post study of the traditional instructional program
 id: traditional-instruction-self-esteem-decline-less-able
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# The traditional instructional program was associated with a decrease in self-esteem for intellectually less able students
+# Self-rated self-esteem among intellectually less able students fell from pre-test to post-test in one single-group pre-post study of the traditional instructional program
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The intellectually less able group in the traditional instructional program showed a regression of 2.10 points between pre- and post-treatment. [→ Tannir 2013](#tannir-2013)
+`q2 i?` The intellectually less able group in the traditional instructional program showed a regression of 2.10 points in self-rated self-esteem between pre- and post-treatment. [→ Tannir 2013](#tannir-2013)
 
 ## Evidence
 

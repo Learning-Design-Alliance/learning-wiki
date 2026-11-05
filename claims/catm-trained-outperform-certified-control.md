@@ -45,5 +45,5 @@ Comparison of the trained experimental group with a control group (n=31) of cert
 
 
 ## Related Claims
-- [Knowledge retained one month after CATM training, with post-test2 scores exceeding post-test1 in both periods](catm-knowledge-retention-one-month.md) — related
+- [Knowledge scores were higher one month after CATM training than immediately after training in one group, in both periods](catm-knowledge-retention-one-month.md) — related
 - [CATM training produced statistically significant knowledge gains among cleaning workers in both training periods](catm-significant-knowledge-gains-cleaning-workers.md) — related

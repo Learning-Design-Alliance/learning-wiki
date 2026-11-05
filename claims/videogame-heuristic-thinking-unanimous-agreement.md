@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "After the experience, 100% of students fully agreed the videogame develops heuristic (trial-and-error) thinking"
-description: "After the experience, 100% of students fully agreed the videogame develops heuristic (trial-and-error) thinking"
+title: "After playing the videogame, 100% of students fully agreed with the heuristic (trial-and-error) thinking item; before playing, 94% were indifferent and 6% disagreed, based on self-reported responses in one single-group pre-post study"
+description: "After playing the videogame, 100% of students fully agreed with the heuristic (trial-and-error) thinking item; before playing, 94% were indifferent and 6% disagreed, based on self-reported responses in one single-group pre-post study"
 id: videogame-heuristic-thinking-unanimous-agreement
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# After the experience, 100% of students fully agreed the videogame develops heuristic (trial-and-error) thinking
+# After playing the videogame, 100% of students fully agreed with the heuristic (trial-and-error) thinking item; before playing, 94% were indifferent and 6% disagreed, based on self-reported responses in one single-group pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -46,6 +46,6 @@ Descriptive pre/post percentages on the heuristic thinking (trial and error) ite
 
 ## Related Claims
 - [Trainee teachers shift toward agreement that videogames help develop the curriculum crosswise after experiencing one](videogame-experience-shifts-trainee-teacher-acceptance.md) — related
-- [Students' endorsement of videogames for developing visual memory and retentiveness rose sharply after the experience](videogame-experience-visual-memory-item-shift.md) — related
+- [Students' self-reported endorsement of videogames for developing visual memory and retentiveness rose sharply from pre-test to post-test after the experience, in one uncontrolled pre-post study](videogame-experience-visual-memory-item-shift.md) — related
 - [Developers unanimously agreed Prompt Coach improved their prompt-writing skills and reported strong trust, personalization, and adoption readiness](prompt-coach-positive-learner-perceptions.md) — related
 - [Students remained largely disagreeing that the videogame supports self-regulation of learning (continuous assessment)](videogame-self-regulation-item-stays-negative.md) — related

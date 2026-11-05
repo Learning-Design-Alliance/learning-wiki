@@ -49,7 +49,7 @@ Two raters evaluated 50 student-authored game adventures using Rice's (2007) rub
 
 ## Related Claims
 - [96% of students learned to select a computational artifact from a library and customize it by setting options.](scriptease-library-selection-and-options.md) — possibly the same claim (merge candidate)
-- [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — related
+- [Students using GCLA rated their higher-order thinking skills—critical thinking, problem-solving, and creativity—higher than students using traditional ChatGPT](gcla-improves-hots.md) — related
 - [Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games](game-design-moderates-dgbl-effectiveness.md) — related
 - [Adventure video games with supplementary vocabulary material outperform control conditions on receptive and productive vocabulary tests](adventure-games-supplementary-material-vocabulary.md) — related
 - [Water Module students found the active, integrative teaching style stimulating for independent and critical thinking despite initial discomfort](water-module-active-learning-reception.md) — related

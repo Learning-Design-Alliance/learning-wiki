@@ -70,3 +70,4 @@ The same case study dataset: ideas annotated by the five groups in the Learning 
 - [Sentence embedding models reach only moderate agreement and need human supervision for open-ended grading](embedding-models-moderate-agreement-need-supervision.md) — related
 - [Four of eight sentence embedding models (USE-T, USE-DAN, all-MiniLM-L6, all-mpnet-base) correlate significantly highly with experts' evaluations while the remaining four correlate weakly](four-embedding-models-high-expert-correlation.md) — a narrower finding that bears on this claim
 - [PBL in small groups supports creativity through openness to new ideas, handling problems from different angles, and imagining various solutions](pbl-small-group-creativity.md) — related
+- [Case study applies the framework to 24 students evaluated by multiple stakeholder groups](z-mabac-case-study-24-students.md) — related

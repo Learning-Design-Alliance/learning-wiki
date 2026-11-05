@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals"
-description: "Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals"
+title: "Student teachers' value for procedural knowledge goals and self-efficacy for inquiry rose significantly from pre-test to post-test, while value for substantive knowledge goals did not change, in one uncontrolled pre-post study of immersion in inquiry-based learning"
+description: "Student teachers' value for procedural knowledge goals and self-efficacy for inquiry rose significantly from pre-test to post-test, while value for substantive knowledge goals did not change, in one uncontrolled pre-post study of immersion in inquiry-based learning"
 id: immersion-ibl-increases-procedural-knowledge-goals-self-efficacy
 status: review
 generated:
@@ -29,7 +29,7 @@ sources:
     rigour: 1
 ---
 
-# Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals
+# Student teachers' value for procedural knowledge goals and self-efficacy for inquiry rose significantly from pre-test to post-test, while value for substantive knowledge goals did not change, in one uncontrolled pre-post study of immersion in inquiry-based learning
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`

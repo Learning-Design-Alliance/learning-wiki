@@ -43,7 +43,7 @@ The SBSM curriculum trains teachers in six concrete practices: greet students by
 ## Claims
 
 - [Teachers rated the SBSM curriculum highly effective and observed higher student participation than prior curricula](../claims/sbsm-teachers-rated-highly-effective-higher-participation.md) [+W]
-- [The SBSM curriculum significantly increased student fitness knowledge and confidence](../claims/sbsm-curriculum-increased-fitness-knowledge-confidence.md) [+W]
+- [Student fitness knowledge and confidence rose from pre-test to post-test after the SBSM curriculum, in one uncontrolled pre-post study](../claims/sbsm-curriculum-increased-fitness-knowledge-confidence.md) [+W]
 - [The SBSM P.E. curriculum significantly increased student enjoyment of P.E. among Los Angeles inner-city adolescents](../claims/sbsm-curriculum-increased-pe-enjoyment.md) [+W]
 
 ## Related Strategies

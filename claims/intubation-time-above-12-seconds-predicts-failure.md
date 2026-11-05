@@ -45,5 +45,5 @@ Multivariate analysis in the same study; the article prints an adjusted odds rat
 
 
 ## Related Claims
-- [Simulation training reduced mean intubation time (149.81±108 sec before vs 51±96 sec after, p<0.001)](simulation-reduces-vl-intubation-time.md) — related
-- [Simulation training reduced the mean number of attempts for successful intubation (3.81 vs 1.84, p<0.001)](simulation-reduces-intubation-attempts.md) — related
+- [Mean intubation time fell from 149.81±108 sec before to 51±96 sec after the simulation session in one uncontrolled pre-post study (p<0.001)](simulation-reduces-vl-intubation-time.md) — related
+- [The mean number of attempts for successful intubation decreased from 3.81 before simulation training to 1.84 after the session (p<0.001), in one group with no comparison group](simulation-reduces-intubation-attempts.md) — related

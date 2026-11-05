@@ -46,7 +46,7 @@ The review's abstract-level synthesis reports that "AI-assisted tasks, including
 
 ## Related Claims
 - [AI-assisted caries annotation significantly improves dental students' diagnostic performance on panoramic radiographs compared with conventional interpretation](ai-annotation-improves-dental-student-caries-detection.md) — a narrower finding that bears on this claim
-- [AI-assisted annotation reduces dental students' diagnostic time per panoramic radiograph](ai-annotation-reduces-diagnostic-time.md) — a narrower finding that bears on this claim
+- [Dental students' diagnostic time per panoramic radiograph fell from pre-test to post-test after AI-assisted annotation, in one uncontrolled pre-post study](ai-annotation-reduces-diagnostic-time.md) — a narrower finding that bears on this claim
 - [AI-assisted annotation raises dental students' self-reported confidence in detecting caries at all depths](ai-annotation-raises-caries-detection-confidence.md) — a narrower finding that bears on this claim
 - [Nearly all individual observers improved on every performance metric with AI annotation](ai-annotation-nearly-all-observers-improved.md) — a narrower finding that bears on this claim
 - [Exposure to AI-assisted training did not impair students' independent radiographic interpretation when AI support was removed](ai-training-did-not-impair-independent-interpretation.md) — related

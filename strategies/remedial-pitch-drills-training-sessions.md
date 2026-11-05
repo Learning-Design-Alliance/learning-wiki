@@ -38,10 +38,10 @@ The article recommends that non-native speakers of English, especially teachers,
 
 ## Claims
 
-- [A six-hour remedial training session significantly improved participants' recognition of If-clause pitch patterns (p < .05)](../claims/remedial-training-improves-pitch-recognition.md) [+W]
-- [The remedial training did not significantly improve participants' production of If-clause pitch patterns (p = .094)](../claims/remedial-training-production-not-significant.md) [-W]
+- [In one single-group pre-post study, participants' recognition scores for If-clause pitch patterns rose from pre-test to post-test after a six-hour remedial training session (p < .05)](../claims/remedial-training-improves-pitch-recognition.md) [+W]
+- [Participants' oral production scores for If-clause pitch patterns rose from pre-test to post-test after remedial training, in one uncontrolled pre-post study (p = .094)](../claims/remedial-training-production-not-significant.md) [-W]
 - [Turkish pre-service teachers of English showed low baseline competency, with approximately 80% failing to recognize the pitch patterns of If-clauses on the pre-test](../claims/turkish-pre-service-teachers-low-pitch-recognition-pretest.md) [+W]
-- [Post-test production improved for Type 2 and Type 3 conditionals but decreased by almost 5% for Type 1 sentences](../claims/type1-production-decreased-posttest.md) [~W]
+- [In one uncontrolled pre-post study, production rose from pre-test to post-test for Type 2 and Type 3 conditionals but fell by almost 5% for Type 1 sentences](../claims/type1-production-decreased-posttest.md) [~W]
 
 ## Related Strategies
 

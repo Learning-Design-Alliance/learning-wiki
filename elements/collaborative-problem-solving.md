@@ -86,7 +86,7 @@ CPS improves learning when the group's discussion forces learners to externalize
 - [Collaborative problem-solving improves attitudinal tendency (ES = 1.17) more than cognitive skills (ES = 0.70)](../claims/cps-attitudinal-tendency-stronger-than-cognitive-skills.md) [+W]
 - [Group-level cognitive regulation occurs significantly more in the conceptual physics task than in the robotics task](../claims/cognitive-regulation-more-in-physics-task.md) [~W]
 - [Prior research on small-group collaboration covers middle to late childhood, with a dearth of research on adolescence and early adulthood and inconclusive suggestions about age-related change](../claims/dearth-research-older-collaborators.md) [~W]
-- [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods](../claims/gai-assisted-dst-improves-cps-subdimensions.md) [+W]
+- [Students in a GAI-assisted DST class reported higher scores than a traditional-methods class on all five self-reported CPS sub-dimensions](../claims/gai-assisted-dst-improves-cps-subdimensions.md) [+W]
 - [Groups outperform individuals when devising creative solutions to real-world complex problems](../claims/groups-outperform-individuals-complex-problem-creativity.md) [+W]
 - [Information discussion and regulation of task-related activities did not significantly predict group performance](../claims/information-discussion-task-regulation-no-performance-effect.md) [~W]
 - [Group interaction profiles differed: Groups D and E favored generative actions while Group B's interaction was predominantly regulative](../claims/group-interaction-type-profiles-differ.md) [~W]

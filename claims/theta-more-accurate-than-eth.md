@@ -46,5 +46,5 @@ Descriptive analysis of test scores across all three testing occasions showed th
 
 ## Related Claims
 - [The Audio Articulation Method significantly improved Turkish EFL learners' pronunciation of inter-dental fricatives from pre-test to post-test](aam-improves-interdental-fricative-pronunciation-posttest.md) — related
-- [QDPR significantly improved Indonesian EFL learners' ability to pronounce the target English phonemes](qdpr-improved-pronunciation-ability.md) — related
-- [Pronunciation gains from the Audio Articulation Method persisted at delayed post-test four weeks later](aam-gains-persist-delayed-posttest.md) — related
+- [Indonesian EFL learners' ability to pronounce the target English phonemes rose significantly from pretest to posttest in a single-group pretest-posttest study of QDPR](qdpr-improved-pronunciation-ability.md) — related
+- [Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study](aam-gains-persist-delayed-posttest.md) — related

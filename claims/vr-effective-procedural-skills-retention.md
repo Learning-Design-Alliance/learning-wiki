@@ -69,3 +69,4 @@ The review's cross-study synthesis, drawing on Blonsky et al. (multicenter RCT, 
 - [Since 2017, enhancing technologies such as simulation/VR, scenario-based learning, and gamification were effective for knowledge and behavior-related outcomes](enhancing-technologies-effective-knowledge-behavior.md) — a broader claim this one bears on
 - [A virtual reality open inguinal hernia model improved medical students' knowledge of the procedure but did not assess technical skill](vr-open-hernia-model-improves-student-knowledge.md) — related
 - [VR learning units do not per se lead to better learning success; quality and design of the unit are decisive](vr-units-not-per-se-better-design-decisive.md) — related
+- [Dry-lab training promotes technical skill development more than VR training](dry-lab-training-exceeds-vr-robotic-skills.md) — related

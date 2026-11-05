@@ -51,4 +51,4 @@ Moderator analysis (Q-test) across the 35-study meta-analysis classified interve
 ## Related Claims
 - [Interventions to improve monitoring accuracy in problem-solving tasks have a small positive overall effect (g = 0.25)](monitoring-accuracy-interventions-small-positive-effect-problem-solving.md) — a broader claim this one bears on
 - [Timing interventions significantly decrease monitoring accuracy in problem-solving tasks and differ from all other intervention types](timing-interventions-decrease-monitoring-accuracy-problem-solving.md) — reports the opposite
-- [Self-scoring improves primary students' monitoring accuracy on math problem-solving tasks to near-accurate levels](self-scoring-improves-monitoring-accuracy-math.md) — related
+- [Primary students' monitoring accuracy on math problem-solving tasks rose from pre-test to post-test after self-scoring and was near accurate in one single-group pre-post study](self-scoring-improves-monitoring-accuracy-math.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Workplace-based assessment improved after the curriculum: mini-CEX and FCB-CHOPS scores increased, while 360-degree overall score did not change significantly"
-description: "Workplace-based assessment improved after the curriculum: mini-CEX and FCB-CHOPS scores increased, while 360-degree overall score did not change significantly"
+title: Within the intervention cohort, workplace-based assessment mini-CEX and FCB-CHOPS scores rose from pre-test to post-test after the curriculum, while 360-degree overall score did not change significantly
+description: Within the intervention cohort, workplace-based assessment mini-CEX and FCB-CHOPS scores rose from pre-test to post-test after the curriculum, while 360-degree overall score did not change significantly
 id: wba-mini-cex-fcb-chops-improved-360-null
 status: review
 generated:
@@ -36,7 +36,7 @@ sources:
     rigour: 1
 ---
 
-# Workplace-based assessment improved after the curriculum: mini-CEX and FCB-CHOPS scores increased, while 360-degree overall score did not change significantly
+# Within the intervention cohort, workplace-based assessment mini-CEX and FCB-CHOPS scores rose from pre-test to post-test after the curriculum, while 360-degree overall score did not change significantly
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
@@ -86,3 +86,4 @@ Within-cohort multisource 360-degree evaluation in the intervention cohort; the 
 - [End-of-rotation OSCE total score correlated moderately with FCB-CHOPS (r = 0.61) and mini-CEX (r = 0.48), indicating overlapping but non-identical constructs](osce-correlates-fcb-chops-mini-cex.md) — related
 - [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](ai-mentor-pilot-improves-overall-mini-cex.md) — related
 - [AI-Mentor pilot yields the largest gains in reasoning-aligned Mini-CEX domains, notably clinical judgment](ai-mentor-largest-gains-reasoning-domains.md) — related
+- [Workplace-based assessments such as 360-degree evaluations and mini-CEX are less frequently used than written examinations for assessing psychosomatic competency in Chinese GP residency programs.](workplace-based-assessment-less-frequent-than-written.md) — related

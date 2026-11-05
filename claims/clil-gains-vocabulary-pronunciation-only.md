@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Project-based CLIL significantly improved vocabulary and pronunciation but not grammar, fluency, or comprehensibility
-description: Project-based CLIL significantly improved vocabulary and pronunciation but not grammar, fluency, or comprehensibility
+title: In one group with no comparison group, vocabulary and pronunciation scores rose from pre-test to post-test after project-based CLIL, while grammar, fluency, and comprehensibility scores did not change
+description: In one group with no comparison group, vocabulary and pronunciation scores rose from pre-test to post-test after project-based CLIL, while grammar, fluency, and comprehensibility scores did not change
 id: clil-gains-vocabulary-pronunciation-only
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Project-based CLIL significantly improved vocabulary and pronunciation but not grammar, fluency, or comprehensibility
+# In one group with no comparison group, vocabulary and pronunciation scores rose from pre-test to post-test after project-based CLIL, while grammar, fluency, and comprehensibility scores did not change
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

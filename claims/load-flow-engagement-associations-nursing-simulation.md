@@ -50,3 +50,4 @@ Structural equation model on the same 2016-respondent cross-sectional survey; th
 - [Greater AI system usability is associated with lower extraneous cognitive load and higher learning engagement in nursing virtual simulation](usability-associated-lower-load-higher-engagement-nursing-simulation.md) — related
 - [Usability correlates negatively with extraneous load and positively with engagement, and flow correlates positively with engagement](correlations-among-usability-load-flow-engagement.md) — related
 - [A sequential indirect association runs from usability through extraneous load and flow to engagement](sequential-indirect-association-usability-load-flow-engagement.md) — related
+- [Subjective cognitive load is negatively correlated with achievement scores in nursing digital learning](negative-correlation-cognitive-load-achievement.md) — related

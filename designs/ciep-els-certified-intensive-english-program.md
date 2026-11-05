@@ -40,7 +40,7 @@ The CIEP is the core full-time proficiency course at ELS Language Centers Malays
 
 - [A one-month intensive English program significantly improved general English proficiency scores of low-scoring Malaysian secondary students](../claims/intensive-english-program-significant-pre-post-gains-malaysian-secondary.md) [+W]
 - [Most low-scoring students were placed in level 103 (high elementary) of the CIEP following the placement test](../claims/ciep-placement-distribution-level-103-majority.md) [+W]
-- [The present study's significant gains contrast with Brown's (1992) claim that intensive programs are not beneficial for elementary-level learners](../claims/findings-contradict-brown-elementary-learners-claim.md) [+W]
+- [Beginning-level Malaysian secondary school students' language proficiency scores were significantly higher at post-test than pre-test after an intensive English program, in a single-group pre-post study with no comparison group](../claims/findings-contradict-brown-elementary-learners-claim.md) [+W]
 - [All 30 students passed their assigned CIEP levels and 17 students moved out of the elementary level by passing level 103](../claims/ciep-level-progression-outcomes-thirty-students.md) [+W]
 
 ## Related Designs

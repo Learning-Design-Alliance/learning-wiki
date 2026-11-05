@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 recheck_by: 2027
 sources:
   - id: fostering-inclusion-in-eeg-measures-of-pediatric-brain-activity-2024
@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Traditional EEG data acquisition with standard equipment is often limited in some racial and ethnic groups due to common hair types and styles. [→ Fostering inclusion in EEG measures of pediatric brain activity 2024](#fostering-inclusion-in-eeg-measures-of-pediatric-brain-activity-2024)

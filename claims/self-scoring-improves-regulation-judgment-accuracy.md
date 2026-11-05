@@ -48,7 +48,7 @@ Descriptive statistics (Table 1) show absolute regulation accuracy improved from
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Self-scoring improves primary students' monitoring accuracy on math problem-solving tasks to near-accurate levels](self-scoring-improves-monitoring-accuracy-math.md) — related
-- [Self-scoring improves regulation accuracy for the whole sample, but not significantly for low- and high-performing students on division tasks](self-scoring-regulation-accuracy-limited-division.md) — related
+- [Primary students' monitoring accuracy on math problem-solving tasks rose from pre-test to post-test after self-scoring and was near accurate in one single-group pre-post study](self-scoring-improves-monitoring-accuracy-math.md) — related
+- [Regulation accuracy rose from pre-test to post-test after self-scoring for the whole sample, but not significantly for low- and high-performing students on division tasks, in one single-group pre-post study](self-scoring-regulation-accuracy-limited-division.md) — related
 - [Self-scoring improved regulation accuracy awareness only for students whose regulation judgment accuracy increased or stayed maximally accurate](self-scoring-improves-regulation-awareness-conditionally.md) — related
 - [Task performance does not affect primary school students' regulation accuracy awareness](task-performance-no-effect-regulation-awareness.md) — related

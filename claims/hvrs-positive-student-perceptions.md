@@ -49,3 +49,4 @@ A 10-item 5-point Likert questionnaire developed by the authors and administered
 - [Preclinical HVRS training significantly improves endodontic access cavity preparation scores on real patients](hvrs-training-improves-access-cavity-scores.md) — related
 - [Students report more confidence and less anxiety when supervised by clinicians experienced in endodontics (review‐attributed)](endodontic-supervisor-expertise-student-confidence.md) — related
 - [Simulation-based handoff training with a structured communication tool enhanced nurse anesthesia students' perceived confidence in team communication and patient safety interventions.](sim-handoff-training-increased-perceived-team-communication-safety-confidence.md) — related
+- [No significant change in self-confidence across stages for access cavity preparation, radiographic evaluation, post-treatment follow-up, or patient communication](dental-confidence-null-procedures-no-change.md) — related

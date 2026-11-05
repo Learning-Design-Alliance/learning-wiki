@@ -13,7 +13,7 @@ generated:
 # Academic and Critical Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 77 claims (46 show a difference, 20 mixed, 11 no difference) · 63 studies (29 causal, 9 associational, 8 quant-synthesis, 7 review, 4 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 13 of 63 report an effect size · 74 claims rest on one study
+> **Evidence** · 78 claims (46 show a difference, 21 mixed, 11 no difference) · 64 studies (29 causal, 10 associational, 8 quant-synthesis, 7 review, 4 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 13 of 64 report an effect size · 75 claims rest on one study
 
 ## Description
 This page brings together two related factors from the Learner Variability Navigator; its third, Core Academic Literacies (general fluency across the core subjects), is on [prior knowledge](prior-knowledge.md). Disciplinary literacy is the ability to read, write, speak and present in the ways each discipline uses (proofs, lab reports, historical arguments) and, for adults, in real-world domains such as health and finance. Critical literacy is the ability to identify a text's purpose, motives and possible biases, which supports comprehension and critical thinking and prepares learners for civic participation.
@@ -104,10 +104,10 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [Head Start impacts at the end of preschool were concentrated on language and literacy for 4-year-olds and on cognitive, social-emotional, health, and parenting outcomes for 3-year-olds, but faded by kindergarten and first grade](../claims/head-start-early-advantages-fade-by-kindergarten.md) [~M] — instruction changes it
 - [Language and literacy scores account for the follow-up difference between matched groups](../claims/language-literacy-account-for-matched-group-difference.md) [+M] — learners who differ on it differ in outcomes
 - [Narrow media production lessons improve overall demonstrated media literacy knowledge, but gains concentrate in messages-and-meanings concepts](../claims/narrow-lessons-knowledge-gains-limited-scope.md) [~M] — instruction changes it
-- [Narrow media production lessons increase students' reported thinking about media literacy concepts in daily life](../claims/media-lessons-increase-everyday-concept-thinking.md) [+M] — instruction changes it
+- [Students' self-reported thinking about media literacy concepts in daily life rose from pre-test to post-test after narrow media production lessons, in one uncontrolled pre-post study](../claims/media-lessons-increase-everyday-concept-thinking.md) [+M] — instruction changes it
 - [Narrowly focused media production lessons increase university students' perceived media literacy competencies across all four dimensions](../claims/narrow-media-lessons-increase-perceived-competencies.md) [+M] — instruction changes it
 - [Quasi-experimental implementation of Word Generation in six Boston schools improved knowledge of taught academic words, with greater gains for language minority students but no benefit for students still classified as limited in English proficiency](../claims/word-generation-boston-quasi-experiment-gains.md) [+M] — instruction changes it
-- [R-I-Z-A-based assessment found satisfactory qualitative outcomes: 86% improvement in resources, 81% excellent interpretation performance, and 76% able to produce a medial message](../claims/riza-competence-profiles-satisfactory-outcomes.md) [+M] — instruction changes it
+- [R-I-Z-A-based assessment reported satisfactory qualitative outcomes in one uncontrolled pre-post study: the resources component rose from beginning to end (86%), 81% of participants had excellent interpretation performance at the end, and 76% could produce a medial message at the end](../claims/riza-competence-profiles-satisfactory-outcomes.md) [+M] — instruction changes it
 - [The study's central hypothesis that narrow mediated-message-communication instruction leads to broader media literacy competencies was supported, with stated limits](../claims/narrow-instruction-supports-broader-competencies-hypothesis.md) [~M] — instruction changes it
 - [Observation of CLIL science lessons showed meaningful language use, teacher scaffolding, code-switching, and development of both social and academic language](../claims/clil-lesson-observation-processes.md) [+W] — instruction changes it
 - [ICT-based teaching of Astronomy and Space Physics produced higher scientific literacy scores than traditional teaching](../claims/ict-teaching-higher-scientific-literacy-scores.md) [+W] — instruction changes it
@@ -115,6 +115,7 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [Academic vocabulary instruction improves standardized written expression](../claims/alias-vocabulary-improves-written-expression.md) [-M] — instruction changes it
 - [Corrective feedback via e-portfolio improves language micro-components (length, accuracy, academic words) more than paper-and-pen portfolio](../claims/ep-feedback-improves-language-microcomponents.md) [+M] — measured as an outcome of the instruction studied
 - [AI use is associated with lower critical thinking, with trust strengthening and AI literacy weakening the effect](../claims/ai-use-lower-critical-thinking-literacy-buffer.md) [~M] — measured as an outcome of the instruction studied
+- [English Language and Social Studies WASSCE grades were significantly associated with academic referral status, while Core Mathematics and Integrated Science were not](../claims/wassce-english-social-studies-associated-referral.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Functional Health Literacy in Adults (TOFHLA)** (Parker et al., 1995): This test measures the reading comprehension and numeracy skill components of health literacy in adults using real-life health situations.

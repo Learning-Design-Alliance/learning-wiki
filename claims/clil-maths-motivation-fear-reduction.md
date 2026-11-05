@@ -51,6 +51,6 @@ The authors report that pupils "became more motivated to learn something new and
 - [Interviewed experimental students overwhelmingly reported liking formative evaluation and improved learning, and no longer feared tests](interviews-students-favor-formative-evaluation.md) — related
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](speaking-practice-reduced-flca-increased-self-efficacy.md) — related
-- [Second Life-based instruction significantly increased sympathy and interest toward mathematics on the paired interest/love items (z=3.01, p<.05)](sl-math-robot-interest-love-pair-increase.md) — related
+- [Self-reported sympathy and interest toward mathematics on the paired interest/love items differed significantly from pre-test to post-test after Second Life-based instruction, with post-test scores favored in one uncontrolled pre-post study (z=3.01, p<.05)](sl-math-robot-interest-love-pair-increase.md) — related
 - [CLIL applications helped an initially disadvantaged experimental group become statistically similar to the control group in English test scores](clil-experimental-group-levels-with-control-posttest.md) — related
 - [Students responded very positively to project-based CLIL learning](clil-positive-student-perceptions.md) — related

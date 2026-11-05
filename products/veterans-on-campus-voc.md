@@ -23,11 +23,11 @@ Veterans on Campus is Kognito's online game-based role-play simulation that trai
 
 ### Claims
 
-- [Game-based virtual-human role-play training significantly increases faculty military cultural competency, with sustained gains at 3-month follow-up.](../claims/voc-training-increases-military-cultural-competency.md) [+M]
+- [Faculty military cultural competency scores rose from pretraining to posttraining and remained higher at 3-month follow-up after game-based virtual-human role-play training, in one uncontrolled pre-post study.](../claims/voc-training-increases-military-cultural-competency.md) [+M]
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](../claims/voc-training-high-means-efficacy-satisfaction.md) [+M]
 - [College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.](../claims/voc-training-increases-gatekeeper-preparedness.md) [+M]
-- [Game-based virtual-human role-play training significantly increases faculty self-efficacy and behavioral intent to support student veterans, with sustained gains at 3-month follow-up.](../claims/voc-training-increases-gatekeeper-self-efficacy-likelihood.md) [+M]
-- [Self-reported gatekeeper behaviors (identifying, approaching, and referring distressed student veterans) trended upward after training but did not reach statistical significance on the composite measure.](../claims/voc-training-gatekeeper-behavior-trend.md) [+M]
+- [Faculty self-rated self-efficacy and behavioral intent to support student veterans rose from pretraining to posttraining and 3-month follow-up in one uncontrolled pre-post study of game-based virtual-human role-play training.](../claims/voc-training-increases-gatekeeper-self-efficacy-likelihood.md) [+M]
+- [Gatekeeper behaviors (identifying, approaching, and referring distressed student veterans) trended upward from before to after training, but did not reach statistical significance on the composite measure, in one uncontrolled pre-post study.](../claims/voc-training-gatekeeper-behavior-trend.md) [+M]
 
 ## Related Products and Programmes
 -

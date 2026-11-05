@@ -55,6 +55,7 @@ The article recommends that universities "implement educational programs to esta
 - [Implement preventative measures: student awareness programs and regular professional development training for educators](chatbot-preventative-measures-strategy.md)
 - [Universities should provide vivid guidelines and education on how and where ChatGPT may be used for learning](university-guidelines-education-chatgpt-use.md)
 - [Prevent AI-assisted plagiarism through student education, signed declarations, draft submissions, clear guidelines, and close monitoring](educate-and-monitor-to-prevent-ai-plagiarism.md)
+- [Extend AI tutor implementation across modules, expand question banks, and establish ethical oversight guidelines](future-directions-ai-tutor-expansion-and-oversight.md)
 
 ## Examples
 -

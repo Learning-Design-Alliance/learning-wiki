@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q3` · `i2` medium
-> **Currency** · newest study 2007 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The peer response group condition produced statistically significantly more idea units (effect size 0.73) than individual writing. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

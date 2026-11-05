@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Záhorec 2010: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` In group ESA, post-test difficulty ratings shifted from a pre-test median of 2 (difficult) to a post-test median of 4 (neither difficult nor easy), the greatest shift recorded. [→ Záhorec 2010](#zahorec-2010)

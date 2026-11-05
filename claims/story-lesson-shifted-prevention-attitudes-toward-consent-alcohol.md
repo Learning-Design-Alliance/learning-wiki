@@ -35,7 +35,7 @@ sources:
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Open-ended pre-lesson responses emphasized law enforcement and legal punishment, while post-lesson responses emphasized consent and avoiding heavy drinking. [→ Erbe 2016](#erbe-2016)
+`q2 i?` Self-reported open-ended pre-lesson responses emphasized law enforcement and legal punishment, while post-lesson responses emphasized consent and avoiding heavy drinking. [→ Erbe 2016](#erbe-2016)
 `q2 i?` Word associations shifted from 'forced' and 'crime' pre-lesson to 'consent' and 'alcohol' post-lesson, with 'rape' and 'violence' common to both. [→ Erbe 2016 (2)](#erbe-2016-2)
 
 ## Evidence

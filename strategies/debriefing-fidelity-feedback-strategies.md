@@ -54,6 +54,7 @@ The review identifies implementation strategies that "significantly enhanced exp
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Enhance poverty simulations with structured debriefings, trained volunteers, and psychological safety guidelines](enhance-simulations-debriefing-volunteer-training.md)
 - [Structured pre- and post-simulation assignments to consolidate clinical reasoning learning](pre-post-simulation-reflective-assignments.md)
+- [Align simulation-based BLS training with INACSL guidelines including interactive lectures, skill demonstrations, high-fidelity manikin practice, scenarios, and GAS-model structured debriefing](strategy-inacsl-aligned-bls-simulation-module.md)
 
 ## Examples
 -

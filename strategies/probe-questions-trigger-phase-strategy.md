@@ -41,7 +41,7 @@ Teachers pose open-ended probe questions during or after free exploration to foc
 ## Claims
 
 - [Inquiry-based science activities increased spontaneous exploratory play in preschoolers relative to controls](../claims/inquiry-based-science-increases-preschool-exploratory-play.md) [+W]
-- [Inquiry-based programme increased informative explorations targeting specific variables (CVS gains)](../claims/inquiry-programme-increases-informative-explorations-cvs.md) [+W]
+- [An inquiry-based programme increased children's observed informative explorations targeting specific variables, compared with non-randomised control classes](../claims/inquiry-programme-increases-informative-explorations-cvs.md) [+W]
 - [Percentage of uninformative explorations decreased in experimental but not control children](../claims/inquiry-preschool-science-uninformative-decrease.md) [+W]
 
 ## Related Strategies

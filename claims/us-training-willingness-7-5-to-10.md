@@ -51,3 +51,4 @@ Wilcoxon signed-rank test on paired pre/post ratings from 30 participants. Willi
 - [All five questionnaire domains improved significantly after training, with large effect sizes (r = 0.67–0.81)](us-training-all-questionnaire-domains-improved.md) — a broader claim this one bears on
 - [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related
 - [Intraoperative calls for help were infrequent in resident-led cases](resident-imn-low-call-for-help-rate.md) — related
+- [All but one of five studies reporting resident confidence before and after an educational intervention reported increased resident confidence.](rhinoplasty-education-interventions-increase-resident-confidence.md) — a broader claim this one bears on

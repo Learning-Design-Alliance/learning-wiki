@@ -1,7 +1,7 @@
 ---
 type: claim
-title: ANOVA across the total sample favoured post-intervention outcomes of the multimedia programme
-description: ANOVA across the total sample favoured post-intervention outcomes of the multimedia programme
+title: Outcomes across the total sample rose from pre-test to post-test after the multimedia programme, in one pre-post study without a comparison group
+description: Outcomes across the total sample rose from pre-test to post-test after the multimedia programme, in one pre-post study without a comparison group
 id: anova-favours-post-intervention-multimedia-environmental-outcomes
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# ANOVA across the total sample favoured post-intervention outcomes of the multimedia programme
+# Outcomes across the total sample rose from pre-test to post-test after the multimedia programme, in one pre-post study without a comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The omnibus ANOVA of pre and post outcomes across Irongmara High School and university students was significant, favouring post-intervention outcomes. [→ Jena et al. 2015](#jena-et-al-2015)
+`q2 i?` The omnibus ANOVA of pre and post outcomes across Irongmara High School and university students showed that outcomes rose from pre-test to post-test after the multimedia programme, in one pre-post study without a comparison group. [→ Jena et al. 2015](#jena-et-al-2015)
 
 ## Evidence
 

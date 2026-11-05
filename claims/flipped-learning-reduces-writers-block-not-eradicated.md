@@ -50,4 +50,4 @@ T-test comparison on Rose's QIWB (24 items, five subscales) in the quasi-experim
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
 - [Wiki-based instruction reduces writing anxiety of EFL business students relative to traditional instruction](wikis-reduce-writing-anxiety-efl.md) — related
-- [Mastery of translation skills showed little difference between the flipped and traditional classes, suggesting traditional teaching still delivers basic skills effectively](flipped-translation-skills-mastery-small-difference.md) — related
+- [Self-rated mastery of translation skills differed little between the flipped and traditional classes](flipped-translation-skills-mastery-small-difference.md) — related

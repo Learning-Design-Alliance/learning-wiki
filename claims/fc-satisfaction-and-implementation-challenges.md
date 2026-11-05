@@ -50,3 +50,5 @@ Post-intervention five-point Likert questionnaire completed by all 56 FC partici
 - [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](flipped-classroom-higher-student-satisfaction-medical-education.md) — a broader claim this one bears on
 - [Trainees report high satisfaction with flipped classroom combined with CBL but flag pre-class time burden](flipped-classroom-cbl-satisfaction-pre-class-time-burden.md) — related
 - [Residents reported high satisfaction with simulation-based learning, with 100% finding it useful and 70% perceiving psychomotor improvement](resident-satisfaction-vascular-simulation.md) — related
+- [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
+- [Scenario-based simulation ward rounds combined with video feedback increase teaching satisfaction among gastroenterology residents](simulation-ward-rounds-video-feedback-increase-teaching-satisfaction.md) — related

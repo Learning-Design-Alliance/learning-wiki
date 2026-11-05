@@ -47,6 +47,6 @@ Comparison of two experimental groups of 30 pre-intermediate Iranian EFL learner
 ## Related Claims
 - [Indirect vocabulary learning strategies (Organizing and Discussing your Feelings with Someone Else) did not significantly improve vocabulary acquisition of pre-intermediate EFL learners](indirect-strategies-no-significant-improvement-pre-intermediate.md) — related
 - [Direct vocabulary learning strategies (Structured Reviewing and Using Mechanical Techniques) significantly improve vocabulary acquisition of pre-intermediate EFL learners](direct-strategies-improve-vocabulary-acquisition-pre-intermediate.md) — related
-- [The effect size for the direct strategies group's pre-post improvement was large (η2 = 0.11)](direct-strategies-large-effect-size-eta-011.md) — related
+- [The direct strategies group's pre-test to post-test difference in means was large (η2 = 0.11), measured within that group](direct-strategies-large-effect-size-eta-011.md) — related
 - [Low-proficiency Chinese EFL students use direct vocabulary learning strategies more frequently than indirect strategies (p<0.001).](efl-direct-strategies-more-frequent-than-indirect.md) — related
 - [The effect size for the indirect strategies group's pre-post improvement was moderate (η2 = 0.03)](indirect-strategies-moderate-effect-size-eta-003.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Improvements after Jeffries-framework simulation vary across competence dimensions, with no significant change in professional development
-description: Improvements after Jeffries-framework simulation vary across competence dimensions, with no significant change in professional development
+title: Competence dimension scores varied in their pre-test-to-post-test changes after Jeffries-framework simulation, with no significant change in professional development, in one single-group pre-post study
+description: Competence dimension scores varied in their pre-test-to-post-test changes after Jeffries-framework simulation, with no significant change in professional development, in one single-group pre-post study
 id: jeffries-simulation-dimension-specific-competence-changes
 status: review
 generated:
@@ -23,7 +23,7 @@ sources:
     rigour: 1
 ---
 
-# Improvements after Jeffries-framework simulation vary across competence dimensions, with no significant change in professional development
+# Competence dimension scores varied in their pre-test-to-post-test changes after Jeffries-framework simulation, with no significant change in professional development, in one single-group pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1` · `q3` · `i3` large
@@ -31,7 +31,7 @@ sources:
 
 ## Subclaims
 `q3 i3` Clinical care showed the largest subscale gain (mean difference 6.34 ± 5.20, Cohen's d = 1.14, p < 0.001). [→ Luo Wenjing 2026](#luo-wenjing-2026)
-`q3 i?` The professional development dimension showed no significant improvement (p = 0.361, Cohen's d = 0.12). [→ Luo Wenjing 2026 (2)](#luo-wenjing-2026-2)
+`q3 i?` The professional development dimension showed no significant change from pre-test to post-test (p = 0.361, Cohen's d = 0.12). [→ Luo Wenjing 2026 (2)](#luo-wenjing-2026-2)
 
 ## Evidence
 
@@ -59,7 +59,7 @@ Null subscale result from Table 2: professional development changed by only "0.3
 
 
 ## Related Claims
-- [The clarifying goals and values dimension of clinical decision-making shows the largest improvement after Jeffries-framework simulation](jeffries-simulation-clarifying-goals-values-largest-cdmns-gain.md) — related
+- [The clarifying goals and values dimension of clinical decision-making rose from pre-test to post-test after Jeffries-framework simulation, with the largest gain in one group with no comparison group](jeffries-simulation-clarifying-goals-values-largest-cdmns-gain.md) — related
 - [Total core competence scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](jeffries-simulation-improves-core-competence-new-graduate-paediatric-nurses.md) — a broader claim this one bears on
 - [Largest professional development gains occur in practical application (+27%) and critical evaluation (+26%), with ethical awareness showing the smallest gain (+18%)](pd-gains-largest-application-evaluation-smallest-ethics.md) — reports the opposite
 - [Clinical decision-making scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) — related

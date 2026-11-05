@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory"
-description: "Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory"
+title: "Pre-service science teachers' scientific process skills rose significantly from pretest to post-test within the experimental group during inquiry-based instruction in a university biology laboratory"
+description: "Pre-service science teachers' scientific process skills rose significantly from pretest to post-test within the experimental group during inquiry-based instruction in a university biology laboratory"
 id: inquiry-instruction-improved-preservice-spst-pre-post
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory
+# Pre-service science teachers' scientific process skills rose significantly from pretest to post-test within the experimental group during inquiry-based instruction in a university biology laboratory
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -59,4 +59,4 @@ Wilcoxon Signed Rank Test on the experimental group's (n=12) SPST pretest-postte
 - [The pre-inquiry class improved specific science process subskills — measuring, inferencing, controlling variables and generalization — but not observing, classifying or predicting](pre-inquiry-subskill-gains-measuring-inferencing.md) — a narrower finding that bears on this claim
 - [Scientific inquiry learning model based on conceptual change improves science process skills better than conventional learning](scientific-inquiry-conceptual-change-improves-science-process-skills.md) — related
 - [Significant difference favoring general/academic high school graduates on good teaching and generic skills](high-school-type-good-teaching-generic-skills.md) — related
-- [Active learning based science camp activities did not significantly change primary school students' scientific process skills](science-camp-no-change-scientific-process-skills.md) — related
+- [Primary school students' scientific process skills did not significantly change from pre-test to post-test after active learning based science camp activities, in one single-group pre-post study](science-camp-no-change-scientific-process-skills.md) — related

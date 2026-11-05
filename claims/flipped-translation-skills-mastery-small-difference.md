@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Mastery of translation skills showed little difference between the flipped and traditional classes, suggesting traditional teaching still delivers basic skills effectively
-description: Mastery of translation skills showed little difference between the flipped and traditional classes, suggesting traditional teaching still delivers basic skills effectively
+title: Self-rated mastery of translation skills differed little between the flipped and traditional classes
+description: Self-rated mastery of translation skills differed little between the flipped and traditional classes
 id: flipped-translation-skills-mastery-small-difference
 status: review
 generated:
@@ -20,14 +20,15 @@ sources:
     rigour: 1
 ---
 
-# Mastery of translation skills showed little difference between the flipped and traditional classes, suggesting traditional teaching still delivers basic skills effectively
+# Self-rated mastery of translation skills differed little between the flipped and traditional classes
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Deng 2018: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
-`q2 i?` The mastery-of-translation-skills domain showed close means (3.86 experimental, 3.76 control), which the article reads as traditional teaching still working well for basic knowledge and skills. [→ Deng 2018](#deng-2018)
+`q2 i?` The self-rated mastery-of-translation-skills domain showed close means (3.86 experimental, 3.76 control) in two intact classes; the article reads this as traditional teaching still working well for basic knowledge and skills. [→ Deng 2018](#deng-2018)
 
 ## Evidence
 

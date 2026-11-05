@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Simulation training reduced mean intubation time (149.81±108 sec before vs 51±96 sec after, p<0.001)
-description: Simulation training reduced mean intubation time (149.81±108 sec before vs 51±96 sec after, p<0.001)
+title: Mean intubation time fell from 149.81±108 sec before to 51±96 sec after the simulation session in one uncontrolled pre-post study (p<0.001)
+description: Mean intubation time fell from 149.81±108 sec before to 51±96 sec after the simulation session in one uncontrolled pre-post study (p<0.001)
 id: simulation-reduces-vl-intubation-time
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Simulation training reduced mean intubation time (149.81±108 sec before vs 51±96 sec after, p<0.001)
+# Mean intubation time fell from 149.81±108 sec before to 51±96 sec after the simulation session in one uncontrolled pre-post study (p<0.001)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -48,6 +48,6 @@ Univariate pre-post comparison in the same 32-resident prospective study; paired
 ## Related Claims
 - [Post-session intubation time above 12 seconds was an independent predictor of intubation failure (Adjusted OR=3.5, p=0.001, 95%CI (1.018-10.69))](intubation-time-above-12-seconds-predicts-failure.md) — related
 - [No significant difference in successful intubation rate or esophageal intubation rate before and after simulation training](simulation-no-significant-success-rate-change.md) — related
-- [Simulation training reduced the mean number of attempts for successful intubation (3.81 vs 1.84, p<0.001)](simulation-reduces-intubation-attempts.md) — related
+- [The mean number of attempts for successful intubation decreased from 3.81 before simulation training to 1.84 after the session (p<0.001), in one group with no comparison group](simulation-reduces-intubation-attempts.md) — related
 - [Structured trauma resuscitation team training augmented by simulation improved teamwork domain ratings and reduced time to CT scanner, intubation, and operating room](simulation-augmented-team-training-improves-trauma-care-efficiency.md) — related
 - [AccuTouch VR simulator training improved live fibreoptic intubation performance in inexperienced paediatric residents, reducing time to intubation from 5.15 to 0.88 minutes](accutouch-training-improves-live-intubation-time.md) — related

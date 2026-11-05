@@ -9,7 +9,6 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-01
 sources:
   - id: arslantas-2017
     resource: "https://doi.org/10.21890/ijres.327905"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both experimental groups (strategies used during class and strategies used at the end of class) differed significantly from the control group on the self-monitoring scale post-test (F=14.67, p=0.00); scored as distance from the scale's ideal value of 9.5, their post-test means were 1.04 and 1.39 against 7.36 for the control group, which the article reads as the experimental groups being close to the ideal level. [→ Arslantas 2017](#arslantas-2017)

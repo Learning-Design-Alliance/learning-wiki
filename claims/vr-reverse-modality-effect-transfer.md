@@ -53,3 +53,4 @@ ANCOVA on transfer in the VR modality experiment, controlling for prior knowledg
 - [Visual-only text produces higher germane cognitive load than audio-visual text in VR](vr-visual-only-higher-germane-load.md) — related
 - [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related
 - [Neither immersion nor interactivity produced significant effects on transfer measures](no-immersion-interactivity-effect-on-transfer.md) — related
+- [Text-graphic composite modality yields the highest knowledge acquisition efficiency despite moderate cognitive load](text-graphic-composite-optimal-learning-efficiency.md) — related

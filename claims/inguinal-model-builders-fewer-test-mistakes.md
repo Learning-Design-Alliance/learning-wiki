@@ -50,3 +50,4 @@ Randomized trial of volunteer medical students of the University of Bologna, ass
 - [A virtual reality open inguinal hernia model improved medical students' knowledge of the procedure but did not assess technical skill](vr-open-hernia-model-improves-student-knowledge.md) — related
 - [Meta-analyses report better post-test results for 3DPAM instruction, especially for complex anatomical structures and medical students](meta-analyses-favour-3dpam-post-test-results.md) — a broader claim this one bears on
 - [All students in the experimental group succeeded in building the 3D inguinal canal model under teacher supervision in less than 15 minutes](inguinal-model-built-under-15-minutes.md) — related
+- [The 3D-printed durotomy simulator is a cost-effective alternative to virtual reality or cadaveric models](durotomy-simulator-cost-effective-build.md) — related

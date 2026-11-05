@@ -45,7 +45,7 @@ Quasi-experimental study with three treatment courses and a control group (108 s
 
 
 ## Related Claims
-- [The Mixed Course combining technical and didactic content in equal proportions was the only condition with significant reflective-CRK gains at both posttest and follow-up](mixed-course-only-significant-condition.md) — a narrower finding that bears on this claim
+- [The Mixed Course combining technical and didactic content in equal proportions was the only condition in which reflective-CRK scores rose significantly from pretest to posttest and from pretest to follow-up](mixed-course-only-significant-condition.md) — a narrower finding that bears on this claim
 - [Student teachers showed a very low pretest level of reflective CRK for teaching systems thinking, identifying on average only one of six planted errors](low-pretest-reflective-crk-systems-thinking.md) — related
 - [The posttest increase in reflective CRK across conditions was marginally non-significant](posttest-crk-increase-marginal-nonsignificant.md) — related
 - [Intervention gains were mainly in reflective Content Knowledge, while identification of PCK errors remained nearly unchanged](ck-gains-pck-unchanged-video-task.md) — related

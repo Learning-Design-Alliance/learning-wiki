@@ -56,3 +56,4 @@ Model M5 (Table 4) combining student characteristics, contextual factors, famili
 - [Men show significantly lower autonomous regulation than women among adult learners](gender-difference-autonomous-regulation-adults.md) — related
 - [Contrary to prior situational-measure findings, female students in the ESM study reported lower positive and higher negative situational feelings, including significantly higher situational anxiety with a small effect (β = .158**) the authors question for practical relevance](gender-differences-persisted-in-situational-measures.md) — related
 - [Women academics mentioned fewer external motivators and more resource management strategies than men](gender-differences-in-advice-content.md) — related
+- [Female EFL students report more positive and fewer negative achievement emotions than males, and age and home resources show distinct associations](gender-age-home-resources-emotion-associations.md) — related

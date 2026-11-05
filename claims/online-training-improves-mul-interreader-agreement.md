@@ -47,4 +47,4 @@ ICC analysis of 81 participants' MUL measurements on 20 test cases before and af
 
 ## Related Claims
 - [All three online training methods significantly improved diagnostic performance for MUL measurements on prostate MRI with no significant differences between groups](online-training-improves-mul-diagnostic-performance.md) — related
-- [Reader confidence in measuring MUL significantly increased across all training groups](online-training-improves-mul-reader-confidence.md) — related
+- [Self-reported reader confidence in measuring MUL rose significantly from pre-test to post-test across all training groups in one uncontrolled pre-post study](online-training-improves-mul-reader-confidence.md) — related

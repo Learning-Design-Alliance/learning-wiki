@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "A GenAI-integrated professional development program produced significant pre-to-post gains in EAP educators' ethical awareness (d = 0.93) and digital andragogical competence"
-description: "A GenAI-integrated professional development program produced significant pre-to-post gains in EAP educators' ethical awareness (d = 0.93) and digital andragogical competence"
+title: EAP educators showed significant pre-to-post gains in ethical awareness (d = 0.93) and digital andragogical competence in a single-group pre-post study with no comparison group after a GenAI-integrated professional development program
+description: EAP educators showed significant pre-to-post gains in ethical awareness (d = 0.93) and digital andragogical competence in a single-group pre-post study with no comparison group after a GenAI-integrated professional development program
 id: genai-pd-significant-ethical-awareness-gains
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# A GenAI-integrated professional development program produced significant pre-to-post gains in EAP educators' ethical awareness (d = 0.93) and digital andragogical competence
+# EAP educators showed significant pre-to-post gains in ethical awareness (d = 0.93) and digital andragogical competence in a single-group pre-post study with no comparison group after a GenAI-integrated professional development program
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large

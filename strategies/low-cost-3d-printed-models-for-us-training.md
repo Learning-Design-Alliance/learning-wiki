@@ -46,6 +46,7 @@ The article recommends leveraging low-cost, 3D-printed models as "a cost-effecti
 
 - [Use brief task-specific training with handheld ultrasound devices to enable rapid procedural skill acquisition in novices within limited rotations](brief-task-specific-us-training-strategy.md)
 - [Adopt mastery learning and peer-assisted learning models to maximize ultrasound training effectiveness in resource-limited settings](mastery-peer-assisted-ultrasound-resource-limited.md)
+- [Build simulation models from patient imaging with 3D printing to accommodate anatomical variations at low cost](imaging-based-3d-printing-custom-simulation-models.md)
 
 ## Examples
 -

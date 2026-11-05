@@ -54,6 +54,9 @@ The review recommends that educators integrate simulation-based methods into ort
 - [Blend web-based and traditional approaches rather than replacing classroom instruction with web-based instruction](amalgamate-web-based-and-traditional-approaches.md)
 - [Use web-assisted activities and simulations in an integrated way with real experiments rather than as a replacement](integrated-web-activities-with-real-experiments.md)
 - [Integrate web-based case analysis tools into blended learning combining digital case-based practice with face-to-face teaching](blended-digital-analogue-case-analysis-strategy.md)
+- [Blend digital resources with traditional teaching to create a blended learning approach](blended-digital-traditional-pathology-teaching.md)
+- [Combine standardized theoretical training with high-fidelity simulation-based practical skills training](combine-theoretical-training-with-simulation-phtls.md)
+- [Expand simulation-based and laboratory training before and alongside clinical practice](expand-simulation-laboratory-training-nursing.md)
 
 ## Examples
 -

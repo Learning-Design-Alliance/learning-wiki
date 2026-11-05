@@ -49,7 +49,8 @@ The article introduces a stepwise, competency-based training model that categori
 - [Stepwise Cbme Shortens Bcs Operative Time](../claims/stepwise-cbme-shortens-bcs-operative-time.md) [+M]
 
 ## Related Designs
-- 
+
+- [Competency-based medical education (CBME) frames training as progressive acquisition of observable and assessable outcomes.](cbme-competency-based-medical-education-framework.md)
 
 ## Examples
 -

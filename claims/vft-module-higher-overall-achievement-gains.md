@@ -70,3 +70,4 @@ Descriptive means from the same quasi-experiment (Table 2): treatment post-test 
 - [VFT-taught students significantly outperformed conventionally taught students on structured items for Colonization and Succession in Mangrove Ecosystems](vft-significant-structured-items.md) — a narrower finding that bears on this claim
 - [VFT-taught students significantly outperformed conventionally taught students on objective items for Colonization and Succession in Mangrove Ecosystems](vft-significant-objective-items.md) — a narrower finding that bears on this claim
 - [Treatment-group students scored a mean of 70.12 versus 48.03 for conventionally taught students on the Literature-in-English Achievement Test](lat-descriptive-means-treatment-control.md) — related
+- [Summative academic performance in the AI-supported Reproduction module does not significantly differ from traditionally taught modules](no-significant-summative-performance-difference-ai-module.md) — related

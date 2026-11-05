@@ -58,3 +58,4 @@ The review reports, citing Allam et al. (2024), a multi-national cross-sectional
 - Six metacognition research topics show significantly increasing trends, including healthcare education and assessment and feedback — related
 - [General English teachers hold positive perceptions of e-learning, though some institutions lack the infrastructure to use sophisticated electronic tools](teachers-positive-perceptions-elearning-saudi.md) — related
 - [Most nurses in the sample used generative AI tools although very few had received formal training in their use](generative-ai-use-exceeds-formal-training-nurses.md) — a narrower finding that bears on this claim
+- [Most nurse educators in the validation sample lacked required pedagogical training for their role](nurse-educators-lack-pedagogical-training.md) — related

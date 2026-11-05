@@ -51,4 +51,4 @@ Mixed repeated-measures ANOVA on Coh-Metrix 3.0 syntactic complexity indicators 
 - [Objective feedback is neither necessary nor sufficient for the group advantage; discussion is the critical factor](feedback-not-needed-for-group-advantage.md) — related
 - [AI-peer integrated feedback yields significant gains on all four writing dimensions, with the group × dimension interaction showing differential improvement favoring task achievement and lexical resource over coherence and cohesion](ai-peer-feedback-writing-gains-differential.md) — related
 - [Syntactic complexity of narrative writing increases significantly between fourth and sixth grade, while text length and story content do not](syntactic-complexity-develops-upper-elementary-not-length-content.md) — related
-- [Neither exam format meaningfully changed students' self-perceived preparedness for the upcoming summative exam](no-change-self-perceived-preparedness.md) — related
+- [Students' self-rated preparedness for the upcoming summative exam did not meaningfully change from pre-test to post-test within the exam-format groups](no-change-self-perceived-preparedness.md) — related

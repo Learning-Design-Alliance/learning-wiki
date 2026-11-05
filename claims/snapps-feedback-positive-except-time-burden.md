@@ -51,4 +51,4 @@ Khanke Shraddha; Buch Pankti; Buch Archana; Gore Charusheela. (2026). Impact of 
 - [Pre-service teachers in the flipped-learning group reported high satisfaction with the flipped learning activity's usefulness for video-production skills](positive-questionnaire-feedback-flipped-activity.md) — related
 - [Kuwaiti pre-service teachers held favourable perceptions of flipped learning, with over 90% agreement on six questionnaire items](positive-student-perceptions-flipped-learning.md) — related
 - [Student satisfaction with virtual patients is generally positive, with item-level comparisons dominating and some confidence exceptions](vp-satisfaction-generally-positive.md) — related
-- [SNAPPS-based case presentation improves post-test MCQ scores across all three pathology residency years](snapps-improves-mcq-scores-pathology-residents.md) — related
+- [Post-test MCQ scores rose from pre-test to post-test across all three pathology residency years in one single-group pre-post study of SNAPPS-based case presentation](snapps-improves-mcq-scores-pathology-residents.md) — related

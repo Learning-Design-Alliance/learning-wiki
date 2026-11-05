@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Input flood treatment has no durable long-term effect on field-dependent learners' collocation knowledge"
-description: "Input flood treatment has no durable long-term effect on field-dependent learners' collocation knowledge"
+title: "Field-dependent learners' collocation knowledge scores were not significantly higher at delayed post-test than at pre-test within the input flood group"
+description: "Field-dependent learners' collocation knowledge scores were not significantly higher at delayed post-test than at pre-test within the input flood group"
 id: input-flood-no-durable-effect-field-dependent
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Input flood treatment has no durable long-term effect on field-dependent learners' collocation knowledge
+# Field-dependent learners' collocation knowledge scores were not significantly higher at delayed post-test than at pre-test within the input flood group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Field-dependent learners' delayed post-test scores were not significantly higher than their pre-test scores, indicating the treatment's effect did not persist. [→ Elaheh Hamed Mahvelati & Jayakaran Mukundan 2012](#elaheh-hamed-mahvelati-jayakaran-mukundan-2012)
+`q2 i?` Field-dependent learners' delayed post-test scores were not significantly higher than their pre-test scores within the input flood group. [→ Elaheh Hamed Mahvelati & Jayakaran Mukundan 2012](#elaheh-hamed-mahvelati-jayakaran-mukundan-2012)
 
 ## Evidence
 

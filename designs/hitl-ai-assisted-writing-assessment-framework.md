@@ -43,6 +43,7 @@ A decision-oriented operational framework integrating LLM-based scoring of the W
 ## Related Designs
 
 - [Report Assessment & Feedback (RAF) procedure with human-in-the-loop approval of all feedback reports](raf-procedure-human-in-the-loop.md)
+- [Three-phase assessment process: Pass check, Score determination, and Grading](three-phase-pbl-assessment-process.md)
 
 ## Examples
 -

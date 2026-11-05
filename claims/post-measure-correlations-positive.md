@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 > **Currency** · newest study 2013 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Dille 2013: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i3` The correlation between post-efficacy and post-report of use was r=.690, a high positive relationship, and all reported post-test correlations were statistically significant. [→ Dille 2013](#dille-2013)

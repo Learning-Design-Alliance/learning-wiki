@@ -48,6 +48,6 @@ Author's interpretation of the regression results (section 3.3), not a direct co
 - [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Reflective blogfolios shifted EFL tertiary students' ways of knowing significantly toward more connected knowing](blogfolios-shifted-ways-of-knowing-toward-connected.md) — related
-- [Ways of knowing predicted post-instruction argumentative writing performance but not pre-instruction performance](ways-of-knowing-predict-post-instruction-writing.md) — related
-- [Reflective blogfolios in EFL writing classes produced statistically significant pre-post gains in tertiary students' argumentative essay writing skills](reflective-blogfolios-improved-argumentative-writing.md) — related
+- [EFL tertiary students' ways-of-knowing scores rose significantly from pre- to post-assessment after reflective blogfolios, in one uncontrolled pre-post study](blogfolios-shifted-ways-of-knowing-toward-connected.md) — related
+- [Ways of knowing were associated with post-instruction argumentative writing performance but not pre-instruction performance in one single-group pre-post study with no comparison group](ways-of-knowing-predict-post-instruction-writing.md) — related
+- [In one uncontrolled pre-post study, tertiary students' argumentative essay writing scores in EFL writing classes rose significantly from pre-test to post-test after reflective blogfolios](reflective-blogfolios-improved-argumentative-writing.md) — related

@@ -54,3 +54,4 @@ A two-round modified Delphi study with 19 emergency medicine experts from 11 ter
 - [In the first Delphi round, 12 of 22 potential competencies received unanimous endorsement and 10 required revisions based on expert feedback.](delphi-first-round-12-unanimous-10-revised.md) — related
 - [Two rounds of Delphi expert consultation with 22 experts demonstrate significant consensus and refine the retraining program from 9 to 11 learning modules.](delphi-consultation-refines-retraining-program-modules.md) — related
 - [Two rounds of Delphi consultation with 27 experts established a core competency evaluation index system for incontinence specialist nurses with 6 first-level, 17 second-level and 70 third-level indicators](delphi-6-17-70-indicator-system-incontinence-nurses.md) — related
+- [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related

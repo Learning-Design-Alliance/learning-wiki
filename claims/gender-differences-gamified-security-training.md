@@ -87,3 +87,4 @@ Format-acceptance item in the same gender breakdown of the N=50 survey. Female p
 - [Students gave positive feedback on both non-conventional activities, reporting greater interest, understanding and proactivity](positive-student-feedback-interventions.md) — related
 - [Learning achievement in game-based learning shows no significant difference between males and females](game-based-learning-achievement-no-gender-difference.md) — related
 - [Females were significantly more likely than males to accept an additional wait of over 120 minutes](female-patients-tolerate-longer-additional-waits.md) — related
+- [Male students reported higher confidence than female students despite no performance difference](male-students-report-higher-confidence-no-performance-difference.md) — reports the opposite

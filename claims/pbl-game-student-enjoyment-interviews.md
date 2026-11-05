@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Baran 2018: the intervention came bundled with another change (Project-based learning and game techniques were used together) (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q1 i?` In interviews, students said they enjoyed and benefited from the approach and expressed enthusiasm for its use in other courses such as physics and chemistry. [→ Baran 2018](#baran-2018)

@@ -47,3 +47,4 @@ Qualitative analysis in the discussion of the portfolio study found "novices exp
 ## Related Claims
 - [Combined verbal and nonverbal cueing most often draws attention to landmarks and clarifies tool use](combined-cueing-landmarks-and-tools.md) — related
 - [Ultrasound skill acquisition enhanced equipment operation, probe proficiency, anatomical recognition, and diagnostic competency, leading students to reappraise ultrasound as a real-time anatomical visualization and safe acupuncture guidance tool](ultrasound-skill-acquisition-enhanced-four-areas.md) — related
+- [No significant associations between baseline anatomical knowledge or visuospatial ability and ultrasound performance](no-baseline-predictors-ultrasound-performance.md) — related

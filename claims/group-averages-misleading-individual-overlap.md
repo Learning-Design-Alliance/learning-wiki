@@ -59,3 +59,4 @@ Descriptive comparison of individual records within the freshman group. Among th
 - [Seventh- and eighth-grade pupils overlap completely in ability, with no line of demarcation between grades](no-demarcation-between-school-grades.md) — related
 - [Physical measures showed no appreciable difference in height and a larger weight gain in the untreated class](physical-measures-weight-height-no-treated-advantage.md) — related
 - [Public school children score somewhat above parochial school children in every test except rote memory, with parochial children over-represented at both extremes](public-vs-parochial-test-comparison.md)
+- [Individual SUS scores did not correlate with educators' prior AR experience; experienced educators' scores were divided between grades F and B](sus-scores-no-correlation-ar-experience.md) — a narrower finding that bears on this claim

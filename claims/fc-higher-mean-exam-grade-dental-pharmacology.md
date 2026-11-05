@@ -53,3 +53,4 @@ Retrospective cohort comparison of exam results: 97 FC students (2021–2022) ve
 - [Flipped classroom residents score higher on case analysis questions than traditional classroom residents (33.61 ± 2.61 vs. 31.43 ± 3.17, p = 0.010)](fc-higher-case-analysis-scores-gastroenterology.md) — related
 - [Better online learning outcomes in a flipped course tend to produce better in-class readiness, which further leads to better after-class performance and exam grades](spencer-2022-accumulative-fc-achievements.md) — related
 - [A blended/hybrid flipped calculus course with an FC Orientation module improved student learning performance and perceptions significantly over the traditional lecture format](spencer-2022-hybrid-fc-improved-performance.md) — related
+- [Student satisfaction with the online flipped classroom course was significantly above the neutral point](ofc-student-satisfaction-above-neutral.md) — related

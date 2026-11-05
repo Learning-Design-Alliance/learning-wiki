@@ -49,6 +49,7 @@ The authors recommend leveraging clinical technologies in other parts of the cur
 - [Strengthen simulation-based training, clinical case exposure, and complication management in undergraduate prosthodontic education](simulation-training-clinical-exposure-veneer-education.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Integrate GTA teaching as part of a broader multi-modality strategy, with hybrid GTA–manikin models, co-produced standards, and longitudinal, patient-inclusive evaluation](gta-implementation-strategy-hybrid-and-coproduction.md)
+- [Expand simulation-based and laboratory training before and alongside clinical practice](expand-simulation-laboratory-training-nursing.md)
 
 ## Examples
 -

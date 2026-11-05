@@ -55,3 +55,4 @@ ANCOVA comparison of post-rotation CCTDI critical thinking disposition scores be
 - [The iHEC cohort achieved higher post-rotation hypertension knowledge scores than the conventional cohort (Cohen's d = 0.71)](ihec-higher-knowledge-scores.md) — related
 - [Residents in the iHEC-integrated teaching cohort achieved higher post-rotation OSCE scores than the conventional cohort (Cohen's d = 0.82)](ihec-higher-osce-scores.md) — related
 - [The iHEC cohort showed higher post-rotation self-directed learning readiness than the conventional cohort (Cohen's d = 0.78)](ihec-higher-sdl-readiness.md) — related
+- [Scenario-based simulation ward rounds combined with video feedback improve critical thinking disposition in gastroenterology residents](simulation-ward-rounds-video-feedback-improve-critical-thinking.md) — related

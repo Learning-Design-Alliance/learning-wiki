@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Yu 2015: the intervention came bundled with another change · Yu 2015 (2): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` The B-PBL group scored significantly higher on the posttest comprehensive exam than both the PBL group and the traditional lecture group. [→ Yu 2015](#yu-2015)

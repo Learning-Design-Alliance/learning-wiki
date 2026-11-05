@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Nicoleta Laura Popa 2015: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The correlation matrix shows significant correlations between exposure to dynamic assessment and posttest math scores, and between potential giftedness scores and posttest math scores. [→ Nicoleta Laura Popa 2015](#nicoleta-laura-popa-2015)

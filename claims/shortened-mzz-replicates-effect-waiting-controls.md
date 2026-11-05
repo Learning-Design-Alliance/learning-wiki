@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A shortened 18-session MZZ program replicated the training effect in the former waiting control group (d = 2.5)
-description: A shortened 18-session MZZ program replicated the training effect in the former waiting control group (d = 2.5)
+title: "The former waiting control group's scores rose from pre-test to post-test after a shortened 18-session MZZ program, in a pre-post comparison within that group (d = 2.5)"
+description: "The former waiting control group's scores rose from pre-test to post-test after a shortened 18-session MZZ program, in a pre-post comparison within that group (d = 2.5)"
 id: shortened-mzz-replicates-effect-waiting-controls
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# A shortened 18-session MZZ program replicated the training effect in the former waiting control group (d = 2.5)
+# The former waiting control group's scores rose from pre-test to post-test after a shortened 18-session MZZ program, in a pre-post comparison within that group (d = 2.5)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` After the waiting control group received an abbreviated MZZ program (18 sessions over six weeks), repeated-measures ANOVA showed a statistically significant pre-to-post improvement, F(1,3) = 12.36, p < .05, d = 2.5. [→ Hasselhorn and Linke-Hasselhorn 2013](#hasselhorn-and-linke-hasselhorn-2013)
+`q2 i?` After the waiting control group received an abbreviated MZZ program (18 sessions over six weeks), repeated-measures ANOVA showed a statistically significant rise in the number of successfully solved EMBI tasks from pre-test to post-test within that group, F(1,3) = 12.36, p < .05, d = 2.5. [→ Hasselhorn and Linke-Hasselhorn 2013](#hasselhorn-and-linke-hasselhorn-2013)
 
 ## Evidence
 

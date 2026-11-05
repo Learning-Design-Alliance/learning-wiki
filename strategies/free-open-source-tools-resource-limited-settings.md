@@ -39,7 +39,7 @@ The article recommends that teachers consider free, open-source supplemental too
 
 ## Claims
 
-- [All four software groups significantly improved writing scores over the 15-week semester](../claims/all-groups-significantly-improved-writing.md) [+W]
+- [All four software groups showed significant rises in writing scores from pretest to posttest over the 15-week semester in an uncontrolled pre-post study](../claims/all-groups-significantly-improved-writing.md) [+W]
 - [No significant correlation between hours of software use and posttest scores](../claims/no-correlation-software-hours-posttest-scores.md) [~W]
 - [No practice-and-drill software group (RS, TMM, MEM) significantly outperformed the reference group (WOW) on high-stakes English test performance](../claims/no-practice-drill-software-outperformed-reference-group.md) [~W]
 - [TMM and MEM groups used the software significantly more hours than the WOW group](../claims/tmm-mem-more-hours-than-wow.md) [~W]

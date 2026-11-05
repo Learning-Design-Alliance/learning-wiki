@@ -52,3 +52,4 @@ Umbrella review synthesis: versus case-based learning and simulation-based learn
 - [TBL alone and TBL combined with other methods both outperform LBL, with no significant difference between the two TBL formats](tbl-alone-versus-blended-no-significant-difference.md) — related
 - [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](tbl-higher-theoretical-knowledge-scores-neurology-china.md) — related
 - [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) — related
+- [Students preferred PBL over TBL, citing clearer objectives, fuller participation, and more suitable pacing in small-group discussion.](students-preferred-pbl-over-tbl.md) — related

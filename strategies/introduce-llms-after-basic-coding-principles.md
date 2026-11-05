@@ -40,6 +40,7 @@ The authors advocate a balanced approach to integrating LLMs into educational cu
 ## Related Strategies
 
 - [Introduce prompt-engineering training before students use Gen AI for structured self-study techniques](prompt-engineering-training-before-gen-ai-self-study.md)
+- [Introduce complex semi-quantitative assessments after trainees establish foundational skills, using targeted image review sessions for challenging parameters](staggered-learning-approach-ius-training.md)
 
 ## Examples
 -

@@ -45,9 +45,9 @@ Descriptive self-report ratings on the 12-item Teaching Effectiveness Evaluation
 
 
 ## Related Claims
-- [Participation in a BOPPPS-PBL nursing innovation course is associated with higher post-course creativity scores among newly recruited nurses](boppps-pbl-course-creativity-increase.md) — related
+- [Among newly recruited nurses, creativity scores rose from before to after a BOPPPS-PBL nursing innovation course in one uncontrolled pre-post study](boppps-pbl-course-creativity-increase.md) — related
 - [Group innovation project presentations scored a mean of 80.57 ± 11.29 out of 100, with teamwork the highest-rated dimension](innovation-demonstration-scores-descriptive.md) — related
-- [Participation in the BOPPPS-PBL course is associated with a modest increase in general self-efficacy among newly recruited nurses](boppps-pbl-course-self-efficacy-increase.md) — related
+- [Self-rated general self-efficacy scores rose modestly from before to after the BOPPPS-PBL course among newly recruited nurses in one uncontrolled pre-post study](boppps-pbl-course-self-efficacy-increase.md) — related
 - [PBL students gave positive feedback on the implementation of PBL in a nine-question Likert survey](pbl-positive-student-feedback-survey.md) — related
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](genai-rated-for-ideation-not-time-saving.md) — related
 - [Undergraduates report very high overall satisfaction with instruction management in the cloud-based constructivism and connectivism learning model](high-satisfaction-cloud-constructivism-connectivism-model.md) — related

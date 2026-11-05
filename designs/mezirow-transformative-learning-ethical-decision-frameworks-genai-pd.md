@@ -39,7 +39,7 @@ The article grounds its professional development design in Mezirow's Transformat
 - Academic integrity, transparency, and equity in AI-supported teaching
 
 ### Claims
-- [A GenAI-integrated professional development program produced significant pre-to-post gains in EAP educators' ethical awareness (d = 0.93) and digital andragogical competence](../claims/genai-pd-significant-ethical-awareness-gains.md) [+M] — the programme this framework guided
+- [EAP educators showed significant pre-to-post gains in ethical awareness (d = 0.93) and digital andragogical competence in a single-group pre-post study with no comparison group after a GenAI-integrated professional development program](../claims/genai-pd-significant-ethical-awareness-gains.md) [+M] — the programme this framework guided
 - [Most higher education institutions report faculty use of generative AI in teaching, but fewer than 15% have formal ethical guidelines](../claims/genai-use-high-ethical-guidelines-rare.md) [~M] — the policy gap the programme responds to
 
 ## Patterns Used

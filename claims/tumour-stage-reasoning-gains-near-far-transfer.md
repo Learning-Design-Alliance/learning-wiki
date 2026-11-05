@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Tumour-stage reasoning improved significantly for both near transfer (r = 0.75) and far transfer (r = 0.78)
-description: Tumour-stage reasoning improved significantly for both near transfer (r = 0.75) and far transfer (r = 0.78)
+title: Tumour-stage reasoning scores rose significantly from pre-test to post-test for both near transfer (r = 0.75) and far transfer (r = 0.78), in one uncontrolled pre-post study
+description: Tumour-stage reasoning scores rose significantly from pre-test to post-test for both near transfer (r = 0.75) and far transfer (r = 0.78), in one uncontrolled pre-post study
 id: tumour-stage-reasoning-gains-near-far-transfer
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Tumour-stage reasoning improved significantly for both near transfer (r = 0.75) and far transfer (r = 0.78)
+# Tumour-stage reasoning scores rose significantly from pre-test to post-test for both near transfer (r = 0.75) and far transfer (r = 0.78), in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i3` Tumour stage reasoning (Q5) improved significantly on both the near transfer case and the far transfer case, with effect sizes r = 0.75 and r = 0.78. [→ Li Zhien 2026](#li-zhien-2026)
+`q2 i3` Tumour stage reasoning (Q5) scores rose from pre-test to post-test on both the near transfer case and the far transfer case, with effect sizes r = 0.75 and r = 0.78, in one uncontrolled pre-post study. [→ Li Zhien 2026](#li-zhien-2026)
 
 ## Evidence
 

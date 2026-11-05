@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Steegen 2018: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` The experimental setup strengthened for some students the misconception that clouds always arise above a water surface, with higher fractions in the experimental and tablet conditions than in the traditional lesson. [→ Steegen 2018](#steegen-2018)

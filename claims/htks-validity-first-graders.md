@@ -47,7 +47,7 @@ HLM analysis of teacher SSRS ratings for 398 (88%) of the 445 students, controll
 
 
 ## Related Claims
-- [Fall self-regulation (HTKS) scores predict spring literacy gains in first grade](fall-htks-predicts-literacy-gains.md) — related
+- [In first grade, students with lower fall self-regulation (HTKS) scores demonstrated weaker literacy skill gains by spring](fall-htks-predicts-literacy-gains.md) — related
 - [Teacher-rated social skills and problem behaviors correlated significantly with posttest decoding and spelling scores in severely struggling middle school readers](social-skills-behavior-correlate-decoding-spelling.md) — related
 - [The ISI intervention shows no main effect on first graders' self-regulation gains from fall to spring](isi-no-main-effect-self-regulation-gains.md) — related
 - [No significant effects of the intervention were detected on children's behavioral self-regulation (HTKS)](transmedia-math-supplement-no-htks-effect.md) — related

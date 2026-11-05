@@ -9,6 +9,7 @@ generated:
   at: 2026-10-02
 evidence_strength: moderate
 newest_evidence: 1997
+source_checked: 2026-11-05
 sources:
   - id: tao-1997
     resource: "https://eric.ed.gov/?id=ED406151"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1997 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -54,7 +55,7 @@ Qualitative case-study analysis of conversational interactions of 7 dyads workin
 - [Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions](peer-conflicts-conditional-on-reflection.md) — related
 - [Co-construction of shared understanding needed to be accompanied by students' personal construction and sense making for conceptual change to be stable over time](personal-construction-required-stable-conceptual-change.md) — related
 - [Alternative conceptions in force and motion were very difficult to change: of 14 students, 6 showed substantial conceptual change, 1 some change, and 7 no change](force-motion-conceptions-difficult-to-change.md) — related
-- [High joint on-task engagement with high equality and mutuality of engagement did not necessarily mean cognitive engagement or ensure conceptual change](high-equality-mutuality-not-sufficient-conceptual-change.md) — related
+- [In one single-group pre-post study, dyads with high joint on-task engagement and high equality and mutuality of engagement included one student who showed substantial conceptual change and another who showed none](high-equality-mutuality-not-sufficient-conceptual-change.md) — related
 - [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](analytics-feedback-reflection-strengthen-learning-gains.md) — related
 - [Performance assessments are associated with positive instructional changes, student skill development, engagement, and complex conceptual understanding](performance-assessments-positive-outcomes.md) — related
 - [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](error-correction-effort-supports-learning.md) — related

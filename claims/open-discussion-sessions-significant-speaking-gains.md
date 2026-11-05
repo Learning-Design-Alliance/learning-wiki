@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Open Discussion Sessions significantly improved Saudi EFL majors' pre-post speaking test scores in favor of post-testing"
-description: "Open Discussion Sessions significantly improved Saudi EFL majors' pre-post speaking test scores in favor of post-testing"
+title: "Saudi EFL majors' speaking test scores rose from pre-test to post-test after Open Discussion Sessions, in one uncontrolled pre-post study"
+description: "Saudi EFL majors' speaking test scores rose from pre-test to post-test after Open Discussion Sessions, in one uncontrolled pre-post study"
 id: open-discussion-sessions-significant-speaking-gains
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# Open Discussion Sessions significantly improved Saudi EFL majors' pre-post speaking test scores in favor of post-testing
+# Saudi EFL majors' speaking test scores rose from pre-test to post-test after Open Discussion Sessions, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -48,4 +48,4 @@ Quasi-experimental pre-post speaking test with the same 35 fourth-level EFL majo
 
 ## Related Claims
 - [Saudi EFL majors reported low classroom participation and rare out-of-class English use](efl-majors-low-oral-participation-survey.md) — related
-- [MI-based instruction improved overall EFL pre-service teacher speaking performance in a one-group pre-post design](mi-instruction-improves-efl-preservice-speaking-overall.md) — related
+- [Overall EFL pre-service teacher speaking performance rose from pre-test to post-test after MI-based instruction, in one group with no comparison group](mi-instruction-improves-efl-preservice-speaking-overall.md) — related

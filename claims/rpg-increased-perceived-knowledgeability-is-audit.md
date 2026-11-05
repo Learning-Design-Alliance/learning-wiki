@@ -45,7 +45,7 @@ One-group pretest-posttest quasi-experiment with 75 graduate accounting students
 
 
 ## Related Claims
-- [The role-playing game increased students' perceived ability to perform actual information systems auditing tasks from pretest to posttest](rpg-increased-perceived-ability-perform-audit-tasks.md) — related
+- [Students' perceived ability to perform actual information systems auditing tasks rose from pretest to posttest in one uncontrolled pre-post study of a role-playing game](rpg-increased-perceived-ability-perform-audit-tasks.md) — related
 - [The role-playing game increased students' perceived enjoyment of learning from pretest to posttest](rpg-increased-perceived-enjoyment-learning.md) — related
 - [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](role-play-enhances-21st-century-skills.md) — a broader claim this one bears on
-- [The SBSM curriculum significantly increased student fitness knowledge and confidence](sbsm-curriculum-increased-fitness-knowledge-confidence.md) — related
+- [Student fitness knowledge and confidence rose from pre-test to post-test after the SBSM curriculum, in one uncontrolled pre-post study](sbsm-curriculum-increased-fitness-knowledge-confidence.md) — related

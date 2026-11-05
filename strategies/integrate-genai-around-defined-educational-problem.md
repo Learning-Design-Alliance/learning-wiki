@@ -40,7 +40,8 @@ The review's design principle for curriculum leaders is to "integrate GenAI arou
 - low-stakes rehearsal, structured case dialogue, feedback on bounded tasks, adaptive question practice with audited content, and guided critique of flawed outputs
 
 ## Related Strategies
-- 
+
+- [Begin implementation with the curriculum problem rather than the AI tool, specifying learning outcome, learner task, AI contribution, educator role, and required learner action](curriculum-problem-first-implementation-design.md)
 
 ## Examples
 -

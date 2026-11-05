@@ -75,3 +75,4 @@ Exploratory model for cognitive load during the task: MRT main effect significan
 - [Recording angle alone does not affect self-reported cognitive load during video observation or task execution](recording-angle-no-cognitive-load-effect.md) — related
 - [Increased image rotation and suboptimal camera and monitor angles degrade MIS performance](image-rotation-camera-angle-degrade-mis-performance.md) — related
 - [Mental rotation ability shows a specific, significant influence on MIS learning and operative performance](mental-rotation-influences-mis-performance.md) — related
+- [No significant associations between baseline anatomical knowledge or visuospatial ability and ultrasound performance](no-baseline-predictors-ultrasound-performance.md) — reports the opposite

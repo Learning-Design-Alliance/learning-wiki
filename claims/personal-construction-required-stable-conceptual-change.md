@@ -9,6 +9,7 @@ generated:
   at: 2026-10-02
 evidence_strength: moderate
 newest_evidence: 1997
+source_checked: 2026-11-05
 sources:
   - id: tao-1997
     resource: "https://eric.ed.gov/?id=ED406151"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1997 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Developing shared knowledge was important, but to achieve conceptual change it needed to be accompanied by students' personal construction and sense making of the new understanding. [→ Tao 1997](#tao-1997)
@@ -70,5 +71,5 @@ Finding derived from the 7 case studies of collaboration: students' conversation
 - [Co-construction alone does not contribute to shared mental model development and shows a negative unique effect](co-construction-alone-hinders-shared-mental-models.md) — related
 - [Students' postings of personal experiences in discussion forums support, rather than undermine, knowledge building](personal-experiences-support-knowledge-building.md) — related
 - [Co-regulation led to shared understandings with effective patient management as a result (Lajoie and Lu)](co-regulation-shared-understanding-patient-management.md) — related
-- [High joint on-task engagement with high equality and mutuality of engagement did not necessarily mean cognitive engagement or ensure conceptual change](high-equality-mutuality-not-sufficient-conceptual-change.md) — related
+- [In one single-group pre-post study, dyads with high joint on-task engagement and high equality and mutuality of engagement included one student who showed substantial conceptual change and another who showed none](high-equality-mutuality-not-sufficient-conceptual-change.md) — related
 - Videographed bilingual-lesson discussions are analysed qualitatively with interaction analysis to reconstruct negotiated taken-as-shared meaning — related

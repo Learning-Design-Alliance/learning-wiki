@@ -60,3 +60,4 @@ The review reports, citing an included study, that "providing elaborate explanat
 - [In complex materials, interim testing improves learning of new lecture-video segments and passage sections, including comprehension and integration](forward-testing-complex-materials.md) — related
 - [Preliminary results suggest a real-time mind-wandering intervention may correct comprehension deficits when mind-wandering probability is high](mind-wandering-intervention-corrects-comprehension.md) — related
 - [Instructor visuals do not reduce mind wandering during video lectures](instructor-visuals-no-mind-wandering-reduction.md) — related
+- [Resistance can be reduced when instructors communicate the purpose of group work, and evidence-based explanations of its importance increased student participation and perceived value.](communicating-purpose-reduces-resistance.md) — related

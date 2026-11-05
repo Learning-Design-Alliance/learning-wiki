@@ -45,4 +45,4 @@ In the same pilot study of 185 students, "Baseline composite score was negativel
 
 
 ## Related Claims
-- [AI chatbot access is associated with improved diagnostic accuracy in pre-clerkship medical students](ai-access-improves-diagnostic-accuracy-preclerkship.md) — related
+- [Among pre-clerkship medical students, diagnostic accuracy scores rose for some, fell for others, and did not change for others from before to after AI chatbot access in a single-group pre-post study](ai-access-improves-diagnostic-accuracy-preclerkship.md) — related

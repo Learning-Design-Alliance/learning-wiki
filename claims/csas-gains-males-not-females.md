@@ -49,7 +49,7 @@ Subgroup paired t-tests reported in Table 3: males (n = 66) improved significant
 
 ## Related Claims
 - [Attitudinal changes after service-learning did not differ significantly by sex or prior community service experience](attitude-change-no-sex-or-experience-differences.md) — reports the opposite
-- [Seven of ten CSAS subscales showed no significant pre–post change after service-learning, likely due to a ceiling effect](seven-csas-subscales-no-change-ceiling.md) — related
+- [Seven of ten self-reported CSAS subscale scores showed no significant pre–post change after service-learning in one group with no comparison group](seven-csas-subscales-no-change-ceiling.md) — related
 - [Service-learning participation is associated with a large increase in dental students' empathy toward community service](service-learning-empathy-increase-dental-students.md) — related
 - [Male physics students show significant anxiety–tripartite-network connectivity correlations at pre- and post-instruction, while female students show none](male-specific-anxiety-network-connectivity.md) — related
 - [Communication skills attitudes improved after an SRL-based curriculum](csas-improvement-after-srl-communication-curriculum.md) — related

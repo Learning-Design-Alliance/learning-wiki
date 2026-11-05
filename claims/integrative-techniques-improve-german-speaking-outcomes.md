@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Integrative teaching techniques improve German speaking-skill learning outcomes in a single-group quasi-experiment
-description: Integrative teaching techniques improve German speaking-skill learning outcomes in a single-group quasi-experiment
+title: German speaking-skill learning outcomes rose from pre-test to post-test after integrative teaching techniques in a single-group pre-post study with no comparison group
+description: German speaking-skill learning outcomes rose from pre-test to post-test after integrative teaching techniques in a single-group pre-post study with no comparison group
 id: integrative-techniques-improve-german-speaking-outcomes
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Integrative teaching techniques improve German speaking-skill learning outcomes in a single-group quasi-experiment
+# German speaking-skill learning outcomes rose from pre-test to post-test after integrative teaching techniques in a single-group pre-post study with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -45,7 +45,7 @@ Quasi-experimental single-group pre-test/post-test study of 20 students in the S
 
 
 ## Related Claims
-- [Speaking-skill score distribution shifted upward after integrative teaching (mean 65.75 to 76.5)](german-speaking-pre-post-descriptives.md) — possibly the same claim (merge candidate)
+- [Speaking-skill score distribution shifted upward from pre-test to post-test in one single-group pre-post study of integrative teaching (mean 65.75 to 76.5)](german-speaking-pre-post-descriptives.md) — possibly the same claim (merge candidate)
 - [The experimental group shows significant within-group gains from pre-test to post-test in speaking skill.](experimental-group-significant-pre-post-gains.md) — possibly the same claim (merge candidate)
 - [Multimedia modular instruction produces significantly higher speaking-skill post-test scores than traditional method among student-teachers.](multimedia-modular-approach-improves-speaking-skill.md) — related
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related

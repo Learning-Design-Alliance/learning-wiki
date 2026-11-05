@@ -47,4 +47,4 @@ Item-level McNemar analysis in Table 1; baseline recognition was relatively high
 ## Related Claims
 - [A single simulation-based intervention with structured debriefing improved immediate adrenal crisis knowledge among pediatric residents](simulation-debriefing-improved-adrenal-crisis-knowledge.md) — related
 - [Stress-dose hydrocortisone dosing accuracy improved from 42.9% to 93.9% after the simulation](stress-dose-dosing-improved-simulation.md) — related
-- [Outpatient sick-day management showed the largest knowledge gap at baseline and the greatest post-simulation gain](sick-day-management-largest-gap-gain.md) — related
+- [Outpatient sick-day management showed the largest baseline knowledge gap and the greatest observed pre-test-to-post-test rise in correct responses, from 2.9% to 85.3%, in one group with no comparison group](sick-day-management-largest-gap-gain.md) — related

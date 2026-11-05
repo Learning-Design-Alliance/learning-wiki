@@ -54,3 +54,7 @@ Non-randomized controlled pre-post study of 120 clinical medical interns (60 per
 - [The collaborative model shows no significant effect on inter-professional teamwork competence or transformative learning readiness](fsph-3d-model-no-effect-teamwork-transformative-learning.md) — related
 - [Anatomy Glove Learning System improved hand-anatomy knowledge in both groups, with 3D-group self-confidence increasing over time while 2D-group confidence declined](agls-knowledge-gains-sustained-confidence-3d-group.md) — related
 - [SFHC intervention improved medical curiosity (SMC) scores of general surgical nursing interns post-intervention](sfhc-improved-medical-curiosity-smc.md) — related
+- [3DIPT-assisted teaching produces higher mobile learning willingness scores than traditional teaching after 6 months](3dipt-higher-mobile-learning-willingness.md) — related
+- [3DIPT-assisted teaching produces higher transformational learning readiness scores than traditional teaching after 6 months](3dipt-higher-transformational-learning-readiness.md) — related
+- [3DIPT-assisted teaching produces higher self-directed anatomy learning scores than traditional teaching after 6 months](3dipt-higher-self-directed-anatomy-learning.md) — related
+- [3DIPT-assisted teaching produces higher simulated NMLE anatomical imaging test scores than traditional internship teaching after 6 months](3dipt-higher-simulated-nmle-anatomical-imaging-scores.md) — related

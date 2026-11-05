@@ -53,3 +53,4 @@ Anonymous 10-item questionnaire administered only to the PBL-DeepSeek group, wit
 - [Most experimental-group students liked the digital-storytelling mathematics courses and wanted the application to continue](students-liked-digital-storytelling-math-courses.md) — related
 - [GPT-4o and GPT-5.2 achieve higher accuracy and more fully correct answers on university IVDA multiple-choice questions than the smaller Mistral-7B and DeepSeek-R1 models](gpt-models-outperform-smaller-llms-on-ivda-mcqs.md) — related
 - [Students preferred the book-free, activity-based teaching and recommended the method for other courses](students-prefer-book-free-scenario-teaching.md) — related
+- [Third-year medical students report high satisfaction with a customized GPT reproductive physiology companion](high-student-satisfaction-customized-gpt-reproductive-physiology-companion.md) — related

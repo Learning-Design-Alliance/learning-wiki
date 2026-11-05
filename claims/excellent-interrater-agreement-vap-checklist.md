@@ -45,7 +45,7 @@ Reliability analysis of the two-observer scoring in the same quasi-experiment; t
 
 
 ## Related Claims
-- [Scenario-based simulation training significantly increases nursing students' VAP prevention skill performance scores in a single-group pretest–posttest study](simulation-training-increases-vap-prevention-skill-performance.md) — related
+- [Nursing students' VAP prevention skill performance scores rose from pretest to posttest after scenario-based simulation training in a single-group pretest–posttest study](simulation-training-increases-vap-prevention-skill-performance.md) — related
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
 - [Task-specific metrics show excellent inter-rater reliability for simulated laparoscopic crural repair assessment](tsm-excellent-inter-rater-reliability-crural-repair.md) — related
 - [Expert reference standard for MUL measurements showed excellent agreement (ICC 0.90)](expert-reference-mul-icc-090.md) — related

@@ -41,9 +41,9 @@ The article's own recommendation for effective implementation: begin newspapers-
 
 ## Claims
 
-- [A 12-week newspapers-in-science-teaching program significantly improved sixth graders' attitudes toward science](../claims/newspapers-in-education-improved-attitude-toward-science.md) [+W]
-- [A 12-week newspapers-in-science-teaching program significantly improved sixth graders' learning attitudes toward newspapers in education](../claims/newspapers-in-education-improved-learning-attitude.md) [+W]
-- [A 12-week newspapers-in-science-teaching program significantly improved sixth graders' attitudes toward science reading](../claims/newspapers-in-education-improved-science-reading-attitude.md) [+W]
+- [Sixth graders' self-rated attitudes toward science rose from pre-test to post-test after a 12-week newspapers-in-science-teaching program, in one uncontrolled pre-post study](../claims/newspapers-in-education-improved-attitude-toward-science.md) [+W]
+- [After a 12-week newspapers-in-science-teaching program, sixth graders' self-rated learning attitudes toward newspapers in education scores rose significantly from pre-test to post-test in one single-group pre-post study with no comparison group](../claims/newspapers-in-education-improved-learning-attitude.md) [+W]
+- [In one uncontrolled pre-post study, sixth graders' self-reported attitudes toward science reading rose significantly from pre-test to post-test during a 12-week newspapers-in-science-teaching program](../claims/newspapers-in-education-improved-science-reading-attitude.md) [+W]
 
 ## Related Strategies
 

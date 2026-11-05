@@ -47,8 +47,8 @@ The article's intervention model combines weekly scenario simulation courses wit
 
 - [Clinical decision-making scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](../claims/jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) [+W]
 - [Total core competence scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](../claims/jeffries-simulation-improves-core-competence-new-graduate-paediatric-nurses.md) [+W]
-- [The clarifying goals and values dimension of clinical decision-making shows the largest improvement after Jeffries-framework simulation](../claims/jeffries-simulation-clarifying-goals-values-largest-cdmns-gain.md) [+W]
-- [Improvements after Jeffries-framework simulation vary across competence dimensions, with no significant change in professional development](../claims/jeffries-simulation-dimension-specific-competence-changes.md) [+W]
+- [The clarifying goals and values dimension of clinical decision-making rose from pre-test to post-test after Jeffries-framework simulation, with the largest gain in one group with no comparison group](../claims/jeffries-simulation-clarifying-goals-values-largest-cdmns-gain.md) [+W]
+- [Competence dimension scores varied in their pre-test-to-post-test changes after Jeffries-framework simulation, with no significant change in professional development, in one single-group pre-post study](../claims/jeffries-simulation-dimension-specific-competence-changes.md) [+W]
 - [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](../claims/debriefing-psychometric-instruction-valued.md) [+W]
 
 ## Related Strategies
@@ -61,6 +61,7 @@ The article's intervention model combines weekly scenario simulation courses wit
 - [Simulation Based Learning](simulation-based-learning.md)
 - [Combine lectures, role-playing, simulations, peer feedback, and briefing/debriefing tailored to the surgical context to improve communication skills](multimodal-communication-training-surgical-context.md)
 - [Structured pre- and post-simulation assignments to consolidate clinical reasoning learning](pre-post-simulation-reflective-assignments.md)
+- [Use a structured one-day simulation program combining pre-briefing, theoretical training, practical skills practice, scenario-based simulation, and video-based debriefing](structured-one-day-simulation-caregiver-training.md)
 
 ## Examples
 -

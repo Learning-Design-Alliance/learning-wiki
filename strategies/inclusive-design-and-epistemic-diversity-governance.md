@@ -43,6 +43,7 @@ This governance-oriented strategy addresses the conditions under which Agentivis
 
 - [Design AI coaching systems to preserve user agency, recognize vulnerability, and stop sycophantic encouragement during maladaptive thought processes](ai-coach-safeguard-design-recommendations.md)
 - [Study learning with AI by varying the interactional arrangement and measuring process and delayed reduced-support outcomes](measure-process-and-delayed-outcomes-ai-learning-research.md)
+- [Establish group norms and procedural roles, delegate authority, and monitor group dynamics to foster student accountability.](group-roles-norms-accountability.md)
 
 ## Examples
 -

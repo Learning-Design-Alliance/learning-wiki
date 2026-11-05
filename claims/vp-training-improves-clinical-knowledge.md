@@ -45,5 +45,5 @@ Paired t-test on the 100-point computer-based theoretical examination (A1–A4 a
 
 
 ## Related Claims
-- [Physical examination and medical record writing scores did not improve significantly after the VP program (d = 0.28 and d = 0.26)](vp-training-no-gain-physical-exam-documentation.md) — related
+- [Physical examination and medical record writing scores did not change significantly from pre-test to post-test in one single-group pre-post study with no comparison group (d = 0.28 and d = 0.26)](vp-training-no-gain-physical-exam-documentation.md) — related
 - [GP residents showed statistically significant pre-post improvements in history-taking (Cohen's d = 1.11) and clinical reasoning (Cohen's d = 1.32) after a 12-week VP training program](vp-training-improves-history-taking-clinical-reasoning.md) — related

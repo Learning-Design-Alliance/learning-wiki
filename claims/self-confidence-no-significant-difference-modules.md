@@ -48,7 +48,7 @@ Slider-scale self-ratings (0-100) compared with paired- and independent-samples 
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: measured as an outcome of the instruction studied
 
 ## Related Claims
-- [Orthopaedic interns with year-long at-home access to low-cost skills modules significantly improved OSATS Global Rating Scores across all five modules from beginning to end of the academic year](low-cost-modules-improve-pgy1-osats-longitudinal.md) — related
+- [Orthopaedic interns' OSATS Global Rating Scores rose significantly across all five modules from the beginning to the end of the academic year in a within-group pre-test/post-test comparison after year-long at-home access to low-cost skills modules](low-cost-modules-improve-pgy1-osats-longitudinal.md) — related
 - [Residents used the modules an average of 10.6 total hours over the academic year, with wide variation and two residents reporting zero hours](module-use-averaged-10-6-hours-self-reported.md) — related
 - [Within the PGY1 cohort, drill plunge accuracy and angled drilling time improved significantly from beginning to end of year, while other accuracy and time measures did not change significantly](within-cohort-drill-plunge-accuracy-angled-drilling-time.md) — related
 - [End-of-year PGY1 residents with module access scored significantly better GRS than a control class at the same training level without module access, across all modules](module-access-end-of-year-outperformed-control.md) — related

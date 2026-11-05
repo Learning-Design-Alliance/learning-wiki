@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 510 claims (243 for, 237 mixed, 30 against) · 276 studies (136 causal, 57 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 8 design), `q1`–`q4` · 92 of 276 report an effect size · 503 claims rest on one study
+> **Evidence** · 511 claims (243 for, 238 mixed, 30 against) · 277 studies (136 causal, 58 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 8 design), `q1`–`q4` · 92 of 277 report an effect size · 504 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -302,7 +302,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Exploratory tests found no significant interaction between receiving a rubric and learners' task performance on self-assessment accuracy or cognitive load](../claims/rubric-benefits-independent-of-task-performance.md) [+W]
 - [Self-assessments of diagram boxes are more accurate than comprehension judgments and strongly correlated with them in the diagramming paradigm](../claims/self-assessments-more-accurate-than-comprehension-judgments.md) [~W]
 - [In Experiment 2, self-regulation skills significantly positively predicted domain-specific MAS only in the minimal heuristic worked examples condition](../claims/self-regulation-predicts-domain-specific-mas-minimal-worked-examples.md) [~W]
-- [Self-scoring improves primary students' monitoring accuracy on math problem-solving tasks to near-accurate levels](../claims/self-scoring-improves-monitoring-accuracy-math.md) [+W]
+- [Primary students' monitoring accuracy on math problem-solving tasks rose from pre-test to post-test after self-scoring and was near accurate in one single-group pre-post study](../claims/self-scoring-improves-monitoring-accuracy-math.md) [+W]
 - [Sixth-graders' own monitoring accuracy is low and does not differ between no-cue, keyword, and summary cue-prompt conditions (Experiment 1).](../claims/student-monitoring-accuracy-low-no-cue-prompt-effect-exp1.md) [+W]
 - [Targeted retrieval via short-answer tasks improves metacognitive calibration more than holistic retrieval via free-recall](../claims/short-answer-tasks-improve-metacognitive-calibration.md) [+W]
 - [In Experiment 1, receiving self-assessment feedback during the learning phase led to less accurate task selection than no feedback, despite feedback stating actual performance](../claims/self-assessment-feedback-reduced-learning-phase-task-selection.md) [-W]
@@ -554,6 +554,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Trainees who overestimated themselves were rated less competent by the expert](../claims/overestimators-rated-less-competent.md) [+W]
 - [Self-reported confidence and familiarity with screening tools did not reliably translate into accurate sepsis determination](../claims/confidence-competence-gap-sepsis-recognition.md) [-W]
 - [Less surgical experience is associated with overestimation of abilities](../claims/less-experience-overestimation.md) [-W]
+- [Knowledge–confidence inverse pattern is strongest among paramedics and non-trained resident physicians](../claims/phtls-knowledge-confidence-subgroup-pattern.md) [~M] — attached 2026-11-04 from Çevikbaş Pınar et al. (2026), which proposed "Dunning-Kruger-like effect as an interpretive lens for the knowledge–confidence paradox".
 
 ## The evidence by question
 

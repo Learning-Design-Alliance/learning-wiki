@@ -50,3 +50,5 @@ Multiple-response competency item completed by the 107 questionnaire respondents
 ## Related Claims
 - [NTS training for emergency department professionals is associated with consistent pre- to post-training improvements in knowledge, teamwork attitudes, and self-confidence (low to moderate certainty).](nts-training-improves-ed-learning-outcomes.md) — a broader claim this one bears on
 - [Faculty development for interprofessional education emphasizes interprofessional collaborative and facilitation competencies, with communication and teamwork as the most highlighted domains](ipe-faculty-development-competencies-communication-teamwork.md) — related
+- [Most students self-reported that their interprofessional collaboration ability was better after the program, in one single-group pre-post study](sbl-global-perceived-improvement-item.md) — related
+- [Undergraduate health students' perceived interprofessional competency scores rose across all six domains from pre-test to post-test after simulation-based learning, in a single-group pre-post study](sbl-improves-interprofessional-competencies-retrospective-pre-post.md) — related

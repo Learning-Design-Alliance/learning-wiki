@@ -45,6 +45,6 @@ Item-level analysis of TSOF Item 12 ("Arranges the desk of students in complianc
 
 
 ## Related Claims
-- [Performance feedback increased the number of student teachers clearly describing the activity (Item 15)](pf-increased-describing-activity-item-15.md) — related
+- [The number of student teachers clearly describing the activity rose from before to after performance feedback, in one single-group pre-post study (Item 15)](pf-increased-describing-activity-item-15.md) — related
 - [Performance feedback increased adherence to the predetermined teaching method (Item 19) and checking on other students during one-to-one teaching (Item 21)](pf-increased-teaching-process-items-19-21.md) — related
 - [Some teaching skills showed no significant change after performance feedback, including choice provision among materials (Item 20) and assistive technology use (Item 37)](pf-no-change-items-20-37.md) — related

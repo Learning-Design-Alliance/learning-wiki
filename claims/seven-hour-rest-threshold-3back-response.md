@@ -53,3 +53,4 @@ Exploratory categorical analysis dichotomizing total rest time at the 7-h group 
 - [Five nights of sleep restriction cause lower quiz performance in a simulated classroom among adolescents](sleep-restriction-lowers-simulated-classroom-quiz-scores.md) — related
 - [The association between sleep duration and school performance is nonlinear (p = 0.04) in generalized additive models](nonlinear-sleep-duration-school-performance-association.md) — related
 - [Experimental sleep restriction causally extends adolescent sleep-loss effects beyond sleepiness to attention and learning](sleep-restriction-effects-extend-beyond-sleepiness.md) — related
+- [Referred students reported significantly longer commute times and slightly longer sleep duration than non-referred students](commute-time-sleep-associated-referral-ghana-nursing.md) — related

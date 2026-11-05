@@ -40,7 +40,7 @@ The article states that "porcine models should represent the final step of a gra
 
 ## Claims
 
-- [Consultant paediatric surgeons showed a significant overall reduction in operative time after a 12-week porcine-model laparoscopic training programme](../claims/porcine-model-training-reduces-operative-time-consultants.md) [+M]
+- [Among consultant paediatric surgeons, operative time fell significantly from before to after a 12-week porcine-model laparoscopic training programme in one uncontrolled pre-post study](../claims/porcine-model-training-reduces-operative-time-consultants.md) [+M]
 - [Operative-time reduction after porcine-model training was significant for varicocelectomy and hernia repair but not orchiopexy](../claims/procedure-specific-operative-time-reduction.md) [~M]
 - [Virtual-reality simulator training alone failed to show significant transfer to in vivo porcine suturing in a cited prior randomized trial, contrasting with the present physical-simulator findings](../claims/vr-simulator-training-no-transfer-porcine-suturing.md) [+W]
 - [Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test](../claims/structured-vrst-curriculum-higher-goals-total.md) [+M]

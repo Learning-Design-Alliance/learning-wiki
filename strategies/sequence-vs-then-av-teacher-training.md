@@ -47,6 +47,7 @@ The article recommends that teacher training programs exploit the complementary 
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Train teachers and develop university courses on VTM as a student-centred methodology](vtm-teacher-training-workshops-strategy.md)
 - [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](scaffolded-collaborative-to-individual-simulation-progression.md)
+- [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 
 ## Examples
 -

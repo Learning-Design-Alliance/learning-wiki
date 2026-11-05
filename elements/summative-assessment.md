@@ -45,7 +45,7 @@ Summative assessment is the element in which a learner's performance is judged a
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [An earlier YOLO-5-based handwriting recognition method reached only 88.28% accuracy on examination table fields, which the authors judge insufficient for summative assessment](../claims/yolo5-handwriting-recognition-88-percent-insufficient.md) [~W]
 - [Across both institutions, GATs showed no significant effect on long-term summative exam performance](../claims/gats-no-long-term-exam-effect.md) [~W]
-- [Neither exam format meaningfully changed students' self-perceived preparedness for the upcoming summative exam](../claims/no-change-self-perceived-preparedness.md) [~W]
+- [Students' self-rated preparedness for the upcoming summative exam did not meaningfully change from pre-test to post-test within the exam-format groups](../claims/no-change-self-perceived-preparedness.md) [~W]
 
 ## Related Elements
 - [Final Exam](final-exam.md)

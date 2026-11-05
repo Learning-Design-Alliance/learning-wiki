@@ -26,6 +26,7 @@ A programme-level ethical governance framework for psychedelic-assisted-therapy 
 ## Related Products and Programmes
 
 - [PaT competency framework integrating doing and being dimensions](pat-competency-framework-integrating-doing-and-being-dimensions.md)
+- [Competency framework for chaplains in psychedelic-assisted therapy](competency-framework-for-chaplains-in-psychedelic-assisted-therapy.md)
 
 ## Key Sources
 - Dames Shannon, Williams Keith, Campbell Allan, Taylor Wes, Harder Marti, Gagnon Michelle, Manson Geraldine, Kryskow Pamela. (2026). Competencies and Ethical Governance for Psychedelic-Assisted Therapies: A Practice-Embedded Quality-Improvement Framework. Journal of Evaluation in Clinical Practice. https://doi.org/10.1111/jep.70556

@@ -9,6 +9,7 @@ generated:
   at: 2026-09-28
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-05
 sources:
   - id: rafael-zaccaron-2019
     resource: "http://dx.doi.org/10.15448/2178-3640.2019.2.32988"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research on task repetition has consistently found a positive effect on fluency, and repetition tends to reduce anxiety, especially for less confident learners. [→ Rafael Zaccaron 2019](#rafael-zaccaron-2019)
@@ -63,5 +64,5 @@ The article reviews prior task-repetition research (Bygate 2001; Ahmadian and Ta
 - [Debate contributed 96.1% to speaking skill achievement, with fluency the largest contributing aspect (67.4%)](debate-contribution-speaking-aspects.md) — related
 - [Task performance varied significantly across the nine oral communicative tasks on all speaking components](oct-anova-task-variance.md) — related
 - [Experimental group taught with oral communicative tasks significantly outperformed the control group on all post-task speaking components](oct-post-task-outperformed-control.md) — related
-- [Project-based CLIL significantly improved vocabulary and pronunciation but not grammar, fluency, or comprehensibility](clil-gains-vocabulary-pronunciation-only.md) — related
+- [In one group with no comparison group, vocabulary and pronunciation scores rose from pre-test to post-test after project-based CLIL, while grammar, fluency, and comprehensibility scores did not change](clil-gains-vocabulary-pronunciation-only.md) — related
 - [Students report that progressive simulation practice builds handover confidence by reducing anxiety](progressive-simulation-practice-builds-confidence.md) — a narrower finding that bears on this claim

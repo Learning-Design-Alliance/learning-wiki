@@ -42,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 quant-synthesis `r3` · `q3` · `i2` medium
-> **Currency** · newest study 2011 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 The frequency and quality of adult–child shared book reading during early childhood is associated with later reading achievement, vocabulary growth, and emergent literacy skills. The claim is predictive rather than causal: the association is well established, but the unique causal contribution of shared reading itself remains contested.
 

@@ -65,7 +65,7 @@ Repeated-measures comparison of posttest to delayed posttest within each group; 
 
 ## Related Claims
 - [Both treatment groups made significant pre-test to post-test gains on the acceptability judgment test, and the gains were maintained at delayed post-test](ajt-gains-maintained-delayed-posttest.md) — possibly the same claim (merge candidate)
-- [Young EFL learners receiving input-providing corrective feedback improve significantly in grammar from pretest to immediate and delayed posttests, with gains retained](input-providing-group-significant-gains-over-time.md) — related
+- [Young EFL learners receiving input-providing corrective feedback had significantly higher grammar scores at the immediate and delayed posttests than at pretest, with no significant change between posttests, in one uncontrolled pre-post study](input-providing-group-significant-gains-over-time.md) — related
 - [Within-group score changes across pre-test, post-test and retention test were significant in both pretested groups, with larger variance explained in the experimental group](7e-within-group-gains-anova.md) — related
 - [Both structured input and structured output instruction produced durable gains in -ed knowledge maintained over a three-week delayed posttest](structured-input-output-durable-gains.md) — related
 - [Within the experimental group, attitudes rose significantly from pretest to posttest and monitoring test, and the gain held between posttest and monitoring test](experimental-group-within-group-attitude-increase.md) — related

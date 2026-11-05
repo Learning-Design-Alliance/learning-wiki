@@ -37,7 +37,7 @@ sources:
 
 ## Subclaims
 `q2 i?` All 30 students completed their assigned levels and passed, moving one level up from their previous competencies. [→ Mukundan et al. 2012](#mukundan-et-al-2012)
-`q2 i?` 17 students moved out of their 'elementary' level by passing level 103, making them ready for Intermediate Level challenges. [→ Mukundan et al. 2012 (2)](#mukundan-et-al-2012-2)
+`q2 i?` In one group with no comparison, 17 students moved out of their 'elementary' level by passing level 103; the report described them as ready for Intermediate Level challenges. [→ Mukundan et al. 2012 (2)](#mukundan-et-al-2012-2)
 
 ## Evidence
 

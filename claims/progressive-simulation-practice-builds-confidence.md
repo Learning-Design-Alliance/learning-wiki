@@ -46,10 +46,12 @@ Content analysis of focus group interviews, reflective journals and teaching ref
 
 ## Related Claims
 - [Students report that ISBAR provides a cognitive scaffold for organized handover expression](isbar-cognitive-scaffold-organized-expression.md) — related
-- [ISBAR-structured handover simulation teaching significantly improves nursing students' handover confidence](isbar-simulation-improves-handover-confidence.md) — related
+- [Nursing students' self-rated handover confidence scores rose from pre-test to post-test after ISBAR-structured handover simulation teaching, in one uncontrolled pre-post study](isbar-simulation-improves-handover-confidence.md) — related
 - [A minority of nursing students report negative emotional responses to virtual simulation teaching, including fear, anxiety, and burnout](vs-negative-emotional-experiences.md) — reports the opposite
 - [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](vs-positive-emotional-experiences.md) — a broader claim this one bears on
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — a broader claim this one bears on
 - [Repeated clinical exposure reduces fear and develops professional self-efficacy in nursing students managing delirium](repeated-exposure-builds-delirium-self-efficacy.md) — a broader claim this one bears on
 - [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](immediate-repetition-benefits-oral-performance.md) — a broader claim this one bears on
 - [Students' narratives frame simulations ambivalently: anxiety and performance insecurity coexist with perceived safe space for learning from mistakes](ambivalent-narratives-simulation-anxiety-safe-space.md) — related
+- [Simulation-based BLS training evokes strong emotional engagement and builds nursing students' confidence through repeated practice in a safe, mistake-tolerant environment](simulation-bls-emotional-engagement-confidence.md) — related
+- [The placement acted as a safe space fostering self-efficacy, intellectual humility, and uncertainty tolerance](anatomy-ems-safe-space-personal-development.md) — related

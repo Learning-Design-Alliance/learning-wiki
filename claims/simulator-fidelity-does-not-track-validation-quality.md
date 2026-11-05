@@ -53,3 +53,4 @@ Narrative synthesis in the review's discussion of fibreoptic intubation simulato
 - [RCT evidence comparing cadaveric with low-fidelity simulation is mixed: two RCTs favour cadaveric, one shows equivalence, one favours the bench model](cadaveric-vs-low-fidelity-simulation-mixed.md) — related
 - [VR-based UAV flight training (DroneSim) offers comparable or superior results to real-world building inspection training](dronesim-vr-uav-training-comparable-results.md) — related
 - [In CRT training, proficiency-based progression demonstrated superiority over traditional simulation in which proficiency benchmarks were optional](pbp-superiority-crt-training.md) — related
+- [A simulation-based FOI test on a portable VR simulator demonstrates strong validity evidence across all five sources in Messick's framework](vr-simulator-foi-test-strong-validity-evidence.md) — related

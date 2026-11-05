@@ -50,7 +50,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies (4 entries) · 2 review `r1`, 1 quant-synthesis `r2` · `q2`–`q4` · `i0` negligible
-> **Currency** · newest study 2025 · 2 of 4 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of Hattie and Timperley's four feedback levels, feedback about the self as a person is least effective because it contains no information related to the task; the task, process, and self-regulation levels each support learning. [→ Fusco 2025](#fusco-2025)

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "The flipped classroom model improved Egyptian EFL students' listening comprehension in a one-group pre-posttest study"
-description: "The flipped classroom model improved Egyptian EFL students' listening comprehension in a one-group pre-posttest study"
+title: "Egyptian EFL students' listening comprehension scores rose from pre-test to post-test in a one-group pre-posttest study of the flipped classroom model"
+description: "Egyptian EFL students' listening comprehension scores rose from pre-test to post-test in a one-group pre-posttest study of the flipped classroom model"
 id: flipped-classroom-improves-efl-listening-comprehension
 status: review
 generated:
@@ -21,14 +21,14 @@ sources:
     rigour: 1
 ---
 
-# The flipped classroom model improved Egyptian EFL students' listening comprehension in a one-group pre-posttest study
+# Egyptian EFL students' listening comprehension scores rose from pre-test to post-test in a one-group pre-posttest study of the flipped classroom model
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i3` Third-year EFL students showed a statistically significant improvement in listening comprehension after a 12-week flipped classroom intervention (t=11.341, p<0.05, effect size 1.30). [→ Ahmad 2016](#ahmad-2016)
+`q2 i3` Third-year EFL students' listening comprehension scores rose from pre-test to post-test after a 12-week flipped classroom intervention, in a one-group pre-posttest study (t=11.341, p<0.05, effect size 1.30). [→ Ahmad 2016](#ahmad-2016)
 
 ## Evidence
 
@@ -52,5 +52,5 @@ A one-group pre-posttest quasi-experimental study with 34 third-year EFL majors 
 ## Related Claims
 - [The flipped classroom intervention was implemented through planning, implementation, and evaluation stages over 12 weeks](flipped-classroom-three-stage-implementation.md) — related
 - [The listening comprehension test measured ten sub-skills with high criterion validity and test-retest reliability](listening-comprehension-test-ten-skills-validity-reliability.md) — related
-- [The flipped classroom rests on blended learning, student-centered learning, and active learning as theoretical foundations](flipped-classroom-theoretical-foundations.md) — related
+- [Ahmad (2016) identified blended learning, student-centered learning, and active learning as theoretical foundations of the flipped classroom](flipped-classroom-theoretical-foundations.md) — related
 - [Flipped classroom instruction produced significantly better post-test writing scores than traditional instruction among Iraqi EFL sophomores](fci-improves-iraqi-efl-writing-posttest.md) — related

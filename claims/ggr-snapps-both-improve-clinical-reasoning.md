@@ -50,5 +50,5 @@ Quasi-experimental parallel-group pre–post study of 128 final-year MBBS studen
 - [GGR group achieves higher postintervention clinical reasoning scores than SNAPPS with moderate effect size (d=0.43)](ggr-higher-posttest-than-snapps.md) — related
 - [Baseline EMQ scores did not differ between GGR and SNAPPS groups, ensuring equivalent starting clinical reasoning skills](ggr-snapps-equivalent-baseline.md) — related
 - [SNAPPS outperformed the one-minute preceptor and both outperformed traditional clinical teaching for clinical reasoning skill](snapps-superior-one-minute-preceptor-traditional-teaching.md) — related
-- [Probing the preceptor showed one of the largest behavioural changes, with residents actively asking questions after SNAPPS](snapps-probe-increases-resident-questions.md) — related
+- [Residents' probing-question scores rose from 3 to 4 from before to after SNAPPS, in one uncontrolled pre-post study](snapps-probe-increases-resident-questions.md) — related
 - [SNAPPS is reported as superior to the One-Minute Preceptor model in enhancing clinical reasoning](snapps-superior-omp-clinical-reasoning.md) — related

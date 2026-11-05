@@ -48,6 +48,7 @@ The facilitation protocol assigns the facilitator the 'primary responsibility...
 - [Critical Friends Protocol](critical-friends-protocol.md)
 - [Discussing Race With Students](discussing_race_with_students.md)
 - [Support instructors during execution with predefined email templates and instructor notes](predefined-email-templates-instructor-notes.md)
+- [Use a non-directive approach during PAT dosing sessions](non-directive-approach-pat-dosing.md)
 
 ## Examples
 -

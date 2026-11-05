@@ -50,3 +50,4 @@ Descriptive results for the collaborative learning factor (social support in Zim
 - [Learners showed positive attitudes toward receiving SMS vocabulary messages, and instant messaging raised intercultural awareness](sms-positive-attitudes-intercultural-awareness.md) — related
 - [University students make limited use of digital technologies to self-regulate their learning despite being frequent technology users](students-limited-use-of-technologies-for-srl.md) — a broader claim this one bears on
 - [Superficial information use with limited processing is the most used technology-based SRL strategy, while self-evaluation is among the least used](superficial-use-highest-self-evaluation-lowest-srl-strategies.md) — reports the opposite
+- [Regardless of resource-use profile, students reported more frequent use of near-peer social resources (e.g., classmates) than non-peer supports such as instructors or tutoring centers.](near-peer-social-resource-preference.md) — related

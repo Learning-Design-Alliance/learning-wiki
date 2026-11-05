@@ -43,7 +43,8 @@ The article's suggestions section recommends three actions for instructors using
 - [Reading attitude, learning satisfaction, and reading effectiveness are significantly positively correlated, and reading attitude positively predicts reading effectiveness](../claims/reading-attitude-satisfaction-effectiveness-correlations.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Reduce clinical group sizes and strengthen mentoring and feedback structures](reduce-group-sizes-strengthen-mentoring.md)
 
 ## Examples
 -

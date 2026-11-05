@@ -24,7 +24,7 @@ A Ubisoft educational Nintendo DS game that teaches English vocabulary, grammar,
 
 ### Claims
 - [Sixth-grade students in a Puerto Rican public school who played My English Coach in class showed significant pre-post growth in English receptive vocabulary, but so did a same-school control class that did not play it, while an external control group did not](../claims/videogame-classroom-vocabulary-gains-puerto-rico.md) [~W]
-- [Students mastered significantly more game words each successive week of the four-week intervention](../claims/mastered-game-words-increase-weekly.md) [+W]
+- [The number of game words students mastered rose significantly from week 1 to week 4 during the four-week intervention, in one uncontrolled pre-post study](../claims/mastered-game-words-increase-weekly.md) [+W]
 
 ## Related Products and Programmes
 -

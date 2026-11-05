@@ -58,3 +58,4 @@ MANOVA on CCTDI pretest/posttest scores across the three instructional groups sh
 - [WISE Agent feedback significantly increased Truth-seeking and CT Self-confidence disposition scores](wise-agent-truth-seeking-self-confidence-gains.md) — related
 - [AI-enabled personalized teaching improved several CTDI-CV subdimensions but not critical thinking self-confidence or cognitive maturity](ctdi-cv-subdimension-effects-mixed.md) — related
 - [Digital RPP improves critical thinking disposition more than traditional group practice](rpp-digital-platform-critical-thinking-gains.md) — related
+- [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related

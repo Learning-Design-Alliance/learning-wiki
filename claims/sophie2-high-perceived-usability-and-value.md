@@ -61,3 +61,4 @@ Exit-survey Likert results from the 59 completers of the two-session self-servic
 - [Teachers perceived research evidence as most effectively communicated when interactive, accessible, relevant, balanced, credible and practice-focused](teachers-views-effective-research-communication.md) — related
 - [Participants rate SOPHIE's actionable feedback highest among system features, above avatar realism](sophie-actionable-feedback-highest-rated-feature.md) — related
 - [SOPHIE participants report higher confidence in communication skills than controls](sophie-higher-confidence-vs-reading.md) — related
+- [Most participants held positive perceptions of the training programme immediately after completing it](rvt-positive-post-programme-perceptions.md) — related

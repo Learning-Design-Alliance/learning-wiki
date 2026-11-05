@@ -47,4 +47,4 @@ Quasi-experimental comparison within one Consumer Behavior class (18 incubator p
 ## Related Claims
 - [Students who chose to join the marketing incubator started the semester with critical thinking scores about 10% higher than those who did not](self-selection-higher-baseline-incubator.md) — related
 - [Wagner students' overall pre-to-post critical thinking prompt gain of 9.8% was not statistically significant](wagner-prepost-gain-not-significant.md) — related
-- [Monmouth entrepreneurial program: two of three prompt comparisons improved significantly, one declined significantly, and the combined 7.39% gain was not significant](monmouth-mixed-prompt-results.md) — related
+- [Monmouth entrepreneurial program: two of three prompt comparisons rose significantly from beginning to end, one fell significantly, and the combined 7.39% change was not significant, in one uncontrolled pre-post study](monmouth-mixed-prompt-results.md) — related

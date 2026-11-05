@@ -51,3 +51,4 @@ Self-reported confidence on a 5-point Likert scale from 454 trainees in a multic
 - [Ultrasound-guided cannulation was associated with fewer required attempts and less frequent supervisor assistance than landmark-based technique](ultrasound-guided-fewer-attempts-less-assistance.md) — related
 - [Both EM residents and PGY trainees reported significantly lower procedural stress with ultrasound guidance](lower-stress-with-us-guidance-both-groups.md) — related
 - [PGY trainees also reported significantly lower stress with ultrasound guidance and a non-significant confidence increase](pgy-trainees-lower-stress-us-guidance.md) — related
+- [Training-related factors positively influenced confidence and performance](training-factors-boost-confidence-and-performance.md) — related

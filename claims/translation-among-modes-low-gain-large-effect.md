@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Translation among modes of representation improved with low normalized gains and large effect sizes on both topics
-description: Translation among modes of representation improved with low normalized gains and large effect sizes on both topics
+title: Scores for translation among modes of representation rose from pre-test to post-test, with low normalized gains and large effect sizes on both topics, in one uncontrolled pre-post study
+description: Scores for translation among modes of representation rose from pre-test to post-test, with low normalized gains and large effect sizes on both topics, in one uncontrolled pre-post study
 id: translation-among-modes-low-gain-large-effect
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Translation among modes of representation improved with low normalized gains and large effect sizes on both topics
+# Scores for translation among modes of representation rose from pre-test to post-test, with low normalized gains and large effect sizes on both topics, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
@@ -46,6 +46,6 @@ Pre/post-test results on translation among different modes of concept representa
 
 ## Related Claims
 - [Experimental class significantly outperformed control class in ability to write physics teaching materials on both topics](kruskal-wallis-significant-writing-difference.md) — related
-- [Multiple representation ability improved with mixed gains: medium for waves and optics (d = 0.97) and low for electromagnetism (d = 0.80)](multiple-representation-mixed-gains-by-topic.md) — related
+- [Multiple representation ability scores rose from pre-test to post-test in one group, with mixed gains: medium for waves and optics (d = 0.97) and low for electromagnetism (d = 0.80)](multiple-representation-mixed-gains-by-topic.md) — related
 - [Scaffolding between planning and translating stages produced high-effectiveness improvement in pre-service physics teachers' ability to write teaching materials](scaffolding-high-effect-writing-teaching-materials.md) — related
 - [Ability to translate among representation modes depended on concept understanding rather than physics domain, with the most difficult translation differing by domain](translation-difficulty-depends-on-concept-understanding.md) — related

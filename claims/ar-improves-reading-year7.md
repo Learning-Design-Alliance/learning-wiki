@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 > **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Gorard et al. 2015: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i1` In a four-school waiting-list RCT, the AR treatment group outperformed the control group on the NGRT overall reading score by about one quarter of a standard deviation (effect size +0.24), equivalent to around three months' additional reading age. [→ Gorard et al. 2015](#gorard-et-al-2015)

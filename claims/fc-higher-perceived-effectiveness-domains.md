@@ -61,3 +61,8 @@ Anonymous three-point-scale questionnaires completed by both groups after the ob
 - [Active learning and team-based learning interventions have not consistently improved shelf exam scores](active-learning-no-consistent-shelf-improvement.md) — related
 - [Flipped classroom students achieved significantly higher mean pharmacology exam grades than traditional classroom students](fc-higher-mean-exam-grade-dental-pharmacology.md) — related
 - [Residents in the modified Peyton group report higher teaching satisfaction across all surveyed dimensions](modified-peyton-higher-satisfaction.md) — related
+- [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
+- [Case-based learning combined with multidisciplinary team teaching yields significantly higher satisfaction rates across learning interest, clinical thinking, team collaboration, and communication skills dimensions.](cbl-mdt-higher-satisfaction-rates-competency-domains.md) — related
+- [AI-assisted CBL+FC residents report greater improvements in learning motivation, clinical reasoning, self-directed learning, and perceived course effectiveness](ai-assisted-cbl-fc-higher-satisfaction-motivation.md) — related
+- [Student satisfaction with the online flipped classroom course was significantly above the neutral point](ofc-student-satisfaction-above-neutral.md) — related
+- [Total clinical reasoning OSCE scores rose from pre-test to post-test among emergency medicine clerkship students in a single-group pre-test–post-test study of an online flipped classroom intervention](ofc-improved-clinical-reasoning-osce-emergency-clerkship.md) — related

@@ -56,3 +56,8 @@ Univariable comparisons across the three latent profiles in the 605-nurse survey
 - [Age group and staff position are the only demographic factors associated with significant growth in perceived competency, with registered nurses and nurses aged 30–34 showing the greatest gains](age-and-staff-position-moderate-competency-growth.md) — related
 - [Significant differences in patient-centered medication management by age and experience, but not overall competence](age-experience-differences-patient-centered-medication-management.md) — related
 - [No statistically significant associations between overall VHV competency classification and any demographic or occupational variable examined](vhv-competency-not-differentiated-by-demographics.md) — related
+- [No consistent significant differences in competency or caring scores across socio-demographic characteristics in univariate analyses](no-consistent-univariate-demographic-differences.md) — related
+- [Junior title, low self-perceived achievement, and medication error history distinguish Profile 1 from Profile 4](profile1-predictors-junior-no-achievement-error-history.md) — related
+- [Work experience, supervisor title, and self-perceived achievement distinguish Profile 3 from Profile 4](profile3-predictors-experience-supervisor-achievement.md) — related
+- [Sociodemographic and job-related characteristics differ across competence profiles](sociodemographic-differences-across-profiles.md) — possibly the same claim (merge candidate)
+- [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related

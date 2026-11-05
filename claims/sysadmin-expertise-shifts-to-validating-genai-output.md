@@ -57,3 +57,4 @@ Interview theme: participants said GenAI "is not there yet to basically develop 
 - [AI solutions can automate routine tasks but cannot yet handle the complex tasks of higher learning](ai-limited-to-automatable-tasks-in-higher-learning.md) — possibly the same claim (merge candidate)
 - [Optimizing prompts can vastly improve the accuracy of LLM outputs, but critical evaluation of the resulting outputs still requires domain expertise.](prompt-optimization-improves-accuracy-expertise-still-needed.md) — related
 - [LLM assistance shifts instructor effort from manual setup toward pedagogical expression](llm-assistance-shifts-effort-toward-pedagogical-expression.md) — related
+- [Iterative prompt refinement and expert pilot-testing may partly explain favorable LLM virtual patient output quality](iterative-prompt-refinement-expert-testing-improves-output.md) — related

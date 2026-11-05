@@ -55,6 +55,7 @@ Spaced learning is the element in which practice or review is distributed over t
 ## Examples
 
 - [Optimize consolidation through sufficient sleep, spaced and interleaved study, and rest periods between learning](../strategies/consolidation-sleep-spacing-interleaving-strategy.md)
+- [Time bolus refresher education to follow a level of forgetting that reintroduces uncertainty](../strategies/time-refresher-education-to-reintroduce-uncertainty.md)
 
 ## Related Elements
 - [Spaced Repetition](spaced-repetition.md)

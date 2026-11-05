@@ -63,6 +63,8 @@ The review's design recommendation is that educators should not seek to replace 
 - [Integrate AISP platforms into medical curricula as complements to traditional teaching with expanded case variety](aisp-curricular-integration-strategy.md)
 - [Combine e-learning with face-to-face practice exchange groups to develop clinical reasoning](blended-learning-for-clinical-reasoning.md)
 - [Supplement practice-based training with synchronous and blended e-learning while retaining in-person clinical experiences](blended-synchronous-elearning-supplement-clinical-training.md)
+- [Blend digital resources with traditional teaching to create a blended learning approach](blended-digital-traditional-pathology-teaching.md)
+- [Use AR to supplement limited anatomy lab access by simulating visuospatial aspects of cadaveric dissection with multi-user collaborative functions](ar-supplement-limited-anatomy-lab-access.md)
 
 ## Examples
 -

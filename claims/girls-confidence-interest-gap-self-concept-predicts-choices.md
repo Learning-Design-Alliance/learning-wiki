@@ -128,3 +128,4 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [Boys hold significantly higher self-efficacy than girls in science inquiry at every measurement point, though the gap narrows during training](boys-higher-self-efficacy-science-inquiry.md) — a narrower finding that bears on this claim
 - [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](gender-gaps-computer-self-efficacy-knowledge-motivation.md) — a narrower finding that bears on this claim
 - [Gender, degree type, and personality show differential associations with course outcome dimensions](demographic-differences-course-dimensions.md) — related
+- [Student characteristics such as race and gender identity were not strong predictors of resource-use profile membership; only two pairwise comparisons were significant.](few-demographic-predictors-resource-profiles.md) — related

@@ -57,3 +57,4 @@ The comparison is between two non-randomised cohorts, medical students in the or
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — related
 - [Merely modifying teaching methods in medical and dental schools has limited merit for steering students' learning approaches; no one-size-fits-all teaching method exists](teaching-method-modification-limited-merit.md) — a broader claim this one bears on
 - [TBL effects on scores differ by academic standing: in one study high achievers outperformed LBL peers in problem-solving while low achievers scored lower, and in another weaker students gained more](tbl-benefits-vary-by-academic-standing.md) — related
+- [Student perception of TBL did not affect knowledge acquisition: no difference in iRAT or end-of-session test scores between students rating TBL 1–2 versus 4–5.](tbl-rating-no-effect-on-test-scores.md) — related

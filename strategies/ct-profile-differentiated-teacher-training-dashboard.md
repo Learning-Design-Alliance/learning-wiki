@@ -49,6 +49,7 @@ The article recommends using the three empirically identified CT profiles to tai
 - [Differentiate AICA support by CT level: open-ended exploration for high CT students, structured SRL scripts for low CT students](differentiated-aica-support-by-ct-level.md)
 - [Differentiate CT scaffolding by initial CT level: open-ended challenges for moderate-CT, constraint-based tasks for high-CT, structured pathways for low-CT learners](differentiated-scaffolding-by-initial-ct-level.md)
 - [Tailor institutional GenAI training to teachers' prior GenAI use experience](experience-tailored-genai-teacher-training.md)
+- [Differentiate transition curricula by prior experience level, offering abbreviated foundational modules and extended advanced sessions for experienced practitioners](experience-differentiated-transition-pathways.md)
 
 ## Examples
 -

@@ -42,6 +42,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 3 of 3 entries) · not reviewed by a person
+> **Design limits** · Ayşe Sert Çıbık 2016 (2): no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` 92.65% of experimental-group participants replied Yes when asked whether carrying out the course via project activities was beneficial. [→ Ayşe Sert Çıbık 2016](#ayse-sert-cbk-2016)

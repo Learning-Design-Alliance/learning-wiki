@@ -9,6 +9,7 @@ generated:
   at: 2026-10-02
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-05
 sources:
   - id: mustafa-metin-2022
     resource: "https://doi.org/10.17509/jsl.v5i1.33190"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Retention-test NOSS means were significantly higher in the experimental group (t = 17.286; p < 0.05). [→ Mustafa Metin 2022](#mustafa-metin-2022)
@@ -85,4 +86,4 @@ Independent samples t-test on retention-test SKS scores administered after four 
 - [The speaking-skill advantage of multimedia modular instruction is retained at delayed post-test.](multimedia-speaking-gains-retained-delayed-posttest.md) — a narrower finding that bears on this claim
 - [The SQ4R group's reading comprehension advantage persisted on a permanence test administered four weeks after the post-test](sq4r-reading-comprehension-permanence.md) — related
 - [Active learning-based education shows a more permanent effect on achievement than traditional methods four weeks after instruction](active-learning-permanence-effect-my-town-unit.md) — related
-- [Pronunciation gains from the Audio Articulation Method persisted at delayed post-test four weeks later](aam-gains-persist-delayed-posttest.md) — related
+- [Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study](aam-gains-persist-delayed-posttest.md) — related

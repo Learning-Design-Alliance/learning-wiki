@@ -45,7 +45,7 @@ The study describes its own implementation structure: a 12-week flipped classroo
 
 
 ## Related Claims
-- [The flipped classroom model improved Egyptian EFL students' listening comprehension in a one-group pre-posttest study](flipped-classroom-improves-efl-listening-comprehension.md) — related
+- [Egyptian EFL students' listening comprehension scores rose from pre-test to post-test in a one-group pre-posttest study of the flipped classroom model](flipped-classroom-improves-efl-listening-comprehension.md) — related
 - [Time working within PictoPal explained significant variance in teacher integration and pupil engagement across the eight-week implementation](integration-engagement-increase-over-time.md) — related
 - [In the experimental stage, FCM was implemented with 64 teacher candidates in a pretest–posttest control-group quasi-experimental design](fcm-experimental-stage-design.md) — related
 - [The AI-enhanced flipped classroom improves comprehensive assessment and pre-class preparation/PPT quality over the flipped classroom, but not in-class presentation performance or professional knowledge mastery](ai-flipped-boundary-deep-mastery.md) — related

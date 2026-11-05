@@ -75,3 +75,6 @@ Reliability analysis in Study One (N = 293) using Cronbach's alpha on the finali
 - [The DKSCQ-N demonstrates high internal consistency (Cronbach's α = 0.906) and excellent test-retest stability (ICC = 0.829) over two weeks.](dkscqn-reliability-alpha-icc.md) — related
 - [The HSPNCS demonstrates excellent internal consistency (Cronbach's alpha 0.967)](hspncs-high-internal-consistency.md) — related
 - [The scale demonstrates strong reliability and validity evidence including internal consistency, composite reliability, and average variance extracted](reliability-validity-evidence-generative-ai-teacher-scale.md) — related
+- [The study's two-dimensional self-confidence scale shows high internal consistency (Cronbach's alpha > 0.80) across all three measurement time points](endodontic-confidence-scale-high-internal-consistency.md) — related
+- [The FOI test shows high internal consistency reliability (Cronbach's α = 0.89)](foi-test-internal-consistency-cronbach-alpha-089.md) — related
+- [The ICO-OCEX demonstrated high internal consistency with an overall Cronbach's alpha of 0.995](ico-ocex-internal-consistency-high-alpha.md) — related

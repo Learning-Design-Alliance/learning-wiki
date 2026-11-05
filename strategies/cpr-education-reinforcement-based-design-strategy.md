@@ -64,6 +64,8 @@ The review recommends treating CPR education as an ongoing, reinforcement-based 
 - [Use targeted educational interventions — continuing education, dissection courses, generative retrieval and integrated anatomy training — to sustain basic science retention](targeted-interventions-sustain-basic-science-retention.md)
 - [Encourage continuous school-based CPR training with refresher courses, supported by policymakers, schools, parents and teachers](continuous-school-cpr-training-with-refreshers.md)
 - [Provide regular, periodic refresher training on frailty rather than one-time orientation programs](regular-frailty-refresher-training-strategy.md)
+- [Provide regular refresher sessions and periodic reassessment to sustain caregiver emergency-response skills over time](refresher-sessions-sustain-caregiver-skills.md)
+- [Time bolus refresher education to follow a level of forgetting that reintroduces uncertainty](time-refresher-education-to-reintroduce-uncertainty.md)
 
 ## Examples
 -

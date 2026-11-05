@@ -46,7 +46,7 @@ Quasi-experimental pre-post comparison of 78 first-year nursing students across 
 
 
 ## Related Claims
-- [Hybrid simulation with role-playing dramatically improves correct dosage calculation and reconstitution rates in nursing students](hybrid-simulation-improves-dosage-calculation-nursing.md) — related
+- [Among nursing students, correct dosage calculation and reconstitution rates rose from 1.3% to 93.6% between the first and second hybrid simulation sessions with role-playing, in one uncontrolled pre-post study](hybrid-simulation-improves-dosage-calculation-nursing.md) — related
 - [Hybrid simulation with role-playing improves patient identification accuracy and allergy verification among nursing students](hybrid-simulation-improves-patient-id-and-allergy-verification.md) — related
 - [Role-playing simulation with SBAR-based observation improves nurse-patient communication behaviors among nursing students](role-play-sbar-improves-nurse-patient-communication.md) — related
 - [Standardising aseptic technique with the ANTT Clinical Practice Framework increased staff mean compliance with hand hygiene, glove use, key-part protection, and aseptic field management, as reported by Clare and Rowley](antt-cpf-standardisation-increased-compliance.md) — related

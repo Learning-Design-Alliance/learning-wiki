@@ -48,3 +48,4 @@ Descriptive, task-specific qualitative assessment by the single blinded expert r
 - [All five GOALS subdomains (depth perception, bimanual dexterity, efficiency, tissue handling, autonomy) were significantly improved after structured VRST](structured-vrst-improves-all-goals-subdomains.md) — related
 - [Continued training yields significant gains in most OSATS subdomains except knowledge of instruments](continued-training-osats-subdomain-gains.md) — related
 - [Novice surgeons trained on a sensorized vascular simulator achieve significantly higher overall GEARS scores in an in vivo porcine robotic vascular dissection task than untrained controls](simulator-training-higher-gears-porcine-vascular-dissection.md) — a broader claim this one bears on
+- [The K technique exercise stimulates five of six GEARS skill domains](k-technique-stimulates-five-gears-domains.md) — related

@@ -46,7 +46,8 @@ The authors recommend incorporating competency screening with baseline psychomot
 - [DP-informed simulation-based surgical training is associated with improved psychomotor skill acquisition in laparoscopic surgery](../claims/dp-informed-sbst-improves-laparoscopic-psychomotor-skills.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Implement a four-week structured box-trainer curriculum covering camera navigation, hand-eye coordination, bimanual coordination, and intracorporeal suturing, with weekly timed assessment.](four-week-box-trainer-curriculum-four-modules.md)
 
 ## Examples
 -

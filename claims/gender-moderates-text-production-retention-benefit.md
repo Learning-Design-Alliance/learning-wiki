@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i3` large
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Nader Haghani & Samira Kiani 2018: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i3` A two-way ANOVA showed a significant influence of the teaching method on medium-term retention of female participants (F(1, 26) = 8.37, p = .008, η2 = .24), the only significant difference in the women's group. [→ Nader Haghani & Samira Kiani 2018](#nader-haghani-samira-kiani-2018)

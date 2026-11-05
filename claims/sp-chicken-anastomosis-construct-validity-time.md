@@ -54,3 +54,5 @@ Blinded construct validity comparison of recorded SP chicken anastomosis perform
 - [The SP chicken anastomosis metrics achieved high inter-rater reliability (IRR 0.96) between two blinded trained reviewers](sp-anastomosis-metrics-inter-rater-reliability.md) — related
 - [Among participants who completed the task without critical errors, novices committed significantly more errors (12.3 vs 8.1) and took more than twice as long (25.3 vs 11.2 min) as experts](sp-anastomosis-non-ce-subgroup-differences.md) — related
 - [Novice first-attempt completion times were significantly longer than expert times on all six FRS VR tasks](frs-vr-novice-times-longer-than-experts.md) — related
+- [The test significantly discriminates between novices and experienced anesthesiologists (p < 0.001)](foi-test-discriminates-novices-experienced.md) — related
+- [Novices take significantly longer to complete simulated WFWB procedures than intermediate and expert providers](novices-longer-completion-times-wfwb-simulation.md) — related

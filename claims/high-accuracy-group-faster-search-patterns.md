@@ -48,5 +48,5 @@ Between-group comparisons in phase 1 using an ROC-derived accuracy cutoff of 83%
 - [Diagnostic accuracy correlates negatively with total examination time and LPF main object gaze metrics](accuracy-negative-correlation-examination-time-lpf-metrics.md) — related
 - [Shorter total fixation duration on the low-power field main object is the sole independent predictor of high diagnostic accuracy](lpf-fixation-duration-sole-independent-predictor-accuracy.md) — related
 - [Years of experience show no significant correlation with diagnostic accuracy among cytotechnologists](experience-no-significant-correlation-diagnostic-accuracy-cytology.md) — related
-- [Training decreases students' time to first fixation on targets, indicating faster target acquisition](training-decreases-time-to-first-fixation-targets.md) — related
+- [Students' time to first fixation on targets fell from pre-test to post-test after a 3-month training program, in one uncontrolled pre-post study](training-decreases-time-to-first-fixation-targets.md) — related
 - [Training increases students' focus on LPF main object targets and HPF cytoplasm](training-increases-focus-on-target-aois.md) — related

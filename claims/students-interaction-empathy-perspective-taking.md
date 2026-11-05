@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-11-05
 sources:
   - id: sherman-2020
     resource: "https://doi.org/10.22492/ije.8.3.05"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students reported that collaboration, practicums, and study abroad enhanced perspective, fostered empathy, and encouraged a sense of community. [→ Sherman 2020](#sherman-2020)
@@ -59,7 +60,7 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Virtual and in-person parent-to-parent forums deepened caregivers' sense of community and support](parent-to-parent-forums-community-support.md) — related
 - [Students at Oakland International High School report a strong sense of community, close relationships, and happiness at school](oakland-international-students-report-sense-of-community.md) — related
 - [Social engagement in gateway math courses builds confidence and deepens understanding, dependent on faculty fostering a supportive learning environment](social-engagement-builds-confidence-gateway-math.md) — related
-- [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods](gai-assisted-dst-improves-cps-subdimensions.md) — related
+- [Students in a GAI-assisted DST class reported higher scores than a traditional-methods class on all five self-reported CPS sub-dimensions](gai-assisted-dst-improves-cps-subdimensions.md) — related
 - [Participants reported improved communication skills and faculty modeling of positive interpersonal interaction](prison-college-communication-skills-modeling.md) — related
 - [Successful aging comprises six features and creative activity contributes to it](successful-aging-six-features-creative-activity.md) — related
 - [ACTA study of global leaders identified expertise components including reading people closely, bridging cross-cultural communication, and perspective taking](acta-global-leadership-expertise-components.md) — related

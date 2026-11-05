@@ -48,6 +48,6 @@ Descriptive pre-learning mastery test of 68 prospective-teacher students. "73. 9
 - [Operations and Place Value](../learner-variables/operations-and-place-value.md) — outcome: instruction changes it
 
 ## Related Claims
-- [After open-ended VBA-based learning, students showed gains in independent creation: 31.43% created new ideas without following examples and 20% made animation-based props, up from 8.69% and 60.86% example-dependence](post-learning-creation-gains-vba-open-ended.md) — related
+- [In one uncontrolled pre-post study, after open-ended VBA-based learning, 31.43% of students created new ideas without following examples and 20% made animation-based props, compared with 8.69% and 60.86% before learning](post-learning-creation-gains-vba-open-ended.md) — related
 - [Post-learning media products spanned multiple mathematics topics: 42.8% geometry-related props, 28.57% arithmetic-related props, 51.43% could explain prop creation, and 60% could use shapes to run their code](post-learning-media-topic-distribution.md) — related
 - [Students' creativity in creating interactive learning media combines mastery of school-level mathematics with the ability to apply Visual Basic Application for Excel](media-creativity-combines-math-mastery-and-vba-skill.md) — related

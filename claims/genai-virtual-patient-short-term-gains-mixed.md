@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: mixed
 newest_evidence: 2026
-source_checked: 2026-10-16
+source_checked: 2026-11-05
 sources:
   - id: zhao-j-2026
     resource: "https://doi.org/10.3389/feduc.2026.1907589"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Several controlled studies reported short-term objective gains for history taking, communication, and OSCE practice with GenAI patients. [→ Zhao J 2026](#zhao-j-2026)
@@ -125,8 +125,8 @@ The review reports countervailing findings in the same category, including that 
 - [Virtual standardized patient training improved alcohol screening and brief intervention skills and diagnostic accuracy for depression and PTSD in two RCTs, while a suicide risk assessment RCT found no significant effect](vsp-training-skills-rct-mixed-results.md) — a narrower finding that bears on this claim
 - [Significant improvements in confidence, performance, management, communication, anxiety and knowledge scores were reported following ISS, but four controlled comparisons found no significant difference versus control or comparison training](iss-ntos-outcomes-mixed-controlled-comparisons.md) — related
 - [Students trained with role-play activity score higher than control students on a practical history-taking test with a teacher standardized patient](role-play-higher-sp-history-taking-test-score.md) — a narrower finding that bears on this claim
-- [Game-based virtual-human role-play training significantly increases faculty self-efficacy and behavioral intent to support student veterans, with sustained gains at 3-month follow-up.](voc-training-increases-gatekeeper-self-efficacy-likelihood.md) — related
-- [Game-based virtual-human role-play training significantly increases faculty military cultural competency, with sustained gains at 3-month follow-up.](voc-training-increases-military-cultural-competency.md) — related
+- [Faculty self-rated self-efficacy and behavioral intent to support student veterans rose from pretraining to posttraining and 3-month follow-up in one uncontrolled pre-post study of game-based virtual-human role-play training.](voc-training-increases-gatekeeper-self-efficacy-likelihood.md) — related
+- [Faculty military cultural competency scores rose from pretraining to posttraining and remained higher at 3-month follow-up after game-based virtual-human role-play training, in one uncontrolled pre-post study.](voc-training-increases-military-cultural-competency.md) — related
 - [College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.](voc-training-increases-gatekeeper-preparedness.md) — related
 - [MEET remediation cohort showed significant overall OSCE improvement after AI virtual patient use](aivp-meet-cohort-significant-osce-gain.md) — a narrower finding that bears on this claim
 - [AI virtual patient use produced no statistically significant OSCE improvement in the volunteer cohort](aivp-volunteer-cohort-no-significant-osce-change.md) — a narrower finding that bears on this claim
@@ -139,7 +139,7 @@ The review reports countervailing findings in the same category, including that 
 - [Residents attributed CDM competency gains to the VP platform's structured design: systematic diagnostic reasoning, adaptive competence under uncertainty, and reflective learning](vp-structured-design-mechanisms-qualitative.md) — related
 - [GP residents showed statistically significant pre-post improvements in history-taking (Cohen's d = 1.11) and clinical reasoning (Cohen's d = 1.32) after a 12-week VP training program](vp-training-improves-history-taking-clinical-reasoning.md) — a narrower finding that bears on this claim
 - [AI-assisted peer teaching improves OSCE performance, with the largest effect on clinical reasoning](ai-assisted-peer-teaching-osce-clinical-reasoning.md) — a narrower finding that bears on this claim
-- [AI-powered simulated patient practice with automated rubric-based feedback improves medical students' headache history-taking OSCE scores](aisp-cortex-improves-headache-osce-scores.md) — a narrower finding that bears on this claim
+- [AI-powered simulated patient practice with automated rubric-based feedback: medical students' headache history-taking OSCE scores rose from pre-test to post-test in a single-group pre-post study](aisp-cortex-improves-headache-osce-scores.md) — a narrower finding that bears on this claim
 - [Virtual patient simulations produced educational improvements equivalent to live standardized patient simulations](virtual-patients-equivalent-to-standardized-patients.md) — related
 - [AI-enabled virtual patient simulation training improves perceived psychotherapeutic competence over four sessions](vp-simulation-improves-perceived-psychotherapeutic-competence.md) — a narrower finding that bears on this claim
 - [AI-simulated patients improve gynecological history-taking checklist completion and reduce missed key items compared with instructor-led standardized patients](ai-simulated-patient-checklist-completion-gynecology.md) — a narrower finding that bears on this claim
@@ -149,3 +149,6 @@ The review reports countervailing findings in the same category, including that 
 - [LLM integration into virtual patient scenarios enables realistic, context-sensitive medical interviews in a metaverse environment](llm-virtual-patient-realistic-interviews.md) — related
 - [The metaverse environment enables delivery of consistent and reproducible scenarios supporting objective assessment of communication and diagnostic reasoning skills](metaverse-consistent-reproducible-scenarios.md) — related
 - [OSCE results validate improvements in technical accuracy and patient communication after training](osce-validates-bpm-skill-improvement.md) — related
+- [The evidence base for AI-assisted formative assessment is promising but uneven, concentrated in short-term single-setting studies](ai-formative-assessment-evidence-uneven-early.md) — a broader claim this one bears on
+- [Undergraduate dental students report high satisfaction and self-confidence in simulation-based clinical decision-making training using LLM-based standardized virtual patients](dental-students-high-satisfaction-llm-virtual-patients.md) — a narrower finding that bears on this claim
+- [LLM-based standardized virtual patient responses are largely authentic in dental history-taking simulations](llm-virtual-patients-largely-authentic-dialogue.md) — related

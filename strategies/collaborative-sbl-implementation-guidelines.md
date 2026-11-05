@@ -51,6 +51,8 @@ The authors recommend a sequence for curricular integration: "First, it is neces
 
 - [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](scaffolded-collaborative-to-individual-simulation-progression.md)
 - [Integrate BPSO guidelines into core courses through evidence-based situational simulations](bpso-guideline-integration-simulations.md)
+- [Integrate simulation-based learning into interprofessional curricula to cultivate collaboration early in training](integrate-sbl-into-interprofessional-curricula.md)
+- [Integrate structured debriefing into simulation curricula with systematic teacher training and multi-method evaluation](debriefing-integration-strategy-nursing-education.md)
 
 ## Examples
 -

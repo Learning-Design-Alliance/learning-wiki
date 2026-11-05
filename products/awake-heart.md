@@ -28,7 +28,8 @@ Awake Heart is a free educational virtual-reality anatomy application that teach
 - [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](../claims/immersion-cost-benefit-transfer-motivation.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [Complete Anatomy](complete-anatomy.md)
 
 ## Key Sources
 - Kaplan-Rakowski, R., Norton, S., & Wojdynski, T. (2026). The impact of high-immersion virtual reality on anatomy learning, enjoyment, presence, and cognitive load. Education Tech Research Dev. https://doi.org/10.1007/s11423-026-10676-1

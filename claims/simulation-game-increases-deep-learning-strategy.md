@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Tung Nhu Nguyen 2015: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` In a quasi-experiment with 53 students, the game condition scored significantly higher on post-game deep-learning strategy use than the no-game condition (p = 0.027). [→ Tung Nhu Nguyen 2015](#tung-nhu-nguyen-2015)

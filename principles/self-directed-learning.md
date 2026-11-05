@@ -157,7 +157,7 @@ Completion, achievement at the end of the course, self-reported autonomy or moti
 - [Physicians engage in SDL programs more when they perceive the content as useful and relevant to their clinical practice](../claims/perceived-content-relevance-drives-sdl-engagement.md) [~W]
 - [Self-directed learning scores increased significantly within all three groups over the course](../claims/sdl-gains-significant-in-all-groups.md) [~W]
 - [E-learning fosters learner autonomy and self-directed learning by enabling students to control pace, time, and content](../claims/elearning-fosters-learner-autonomy-self-direction.md) [+W]
-- [Only BA pragmatists and theorists significantly improved self-directed learning ability; BA activists and reflectors did not](../claims/ba-pragmatists-theorists-only-improved-sdl-ability.md) [~W]
+- [In a single-group pre-post study, self-rated self-directed learning ability scores rose significantly among BA pragmatists and theorists, while no significant pre-post rise was reported among BA activists and reflectors](../claims/ba-pragmatists-theorists-only-improved-sdl-ability.md) [~W]
 - [Video-assisted PBL enhances self-directed learning readiness more than traditional PBL](../claims/video-assisted-pbl-enhances-self-directed-learning-readiness.md) [~W]
 
 ## Related Principles

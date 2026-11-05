@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Theoretical pharmacology knowledge improves after simulation training except for the right patient domain
-description: Theoretical pharmacology knowledge improves after simulation training except for the right patient domain
+title: Theoretical pharmacology knowledge scores rose from pre-test to post-test after simulation training, except for the right patient domain, in one uncontrolled pre-post study
+description: Theoretical pharmacology knowledge scores rose from pre-test to post-test after simulation training, except for the right patient domain, in one uncontrolled pre-post study
 id: simulation-improves-pharmacology-knowledge-except-right-patient
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Theoretical pharmacology knowledge improves after simulation training except for the right patient domain
+# Theoretical pharmacology knowledge scores rose from pre-test to post-test after simulation training, except for the right patient domain, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` MAP test score improvement was statistically significant (p < 0.001) except for the right patient section (p = 0.972). [→ Changuiti O 2026](#changuiti-o-2026)
+`q2 i?` MAP test scores rose from pre-test to post-test in the sections other than the right patient section (p < 0.001), while the right patient section did not change (p = 0.972), in one group with no comparison group. [→ Changuiti O 2026](#changuiti-o-2026)
 
 ## Evidence
 

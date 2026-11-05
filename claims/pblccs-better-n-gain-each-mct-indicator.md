@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Zetriuslita 2017: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Per-indicator analysis showed better N_Gain and N_Gain category for the PBLCCS class than the EDI class across the critical thinking indicators measured. [→ Zetriuslita 2017](#zetriuslita-2017)

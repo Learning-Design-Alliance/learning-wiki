@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Storytelling instruction increased English vocabulary test performance among five-year-old Iranian kindergarten children in a one-group pre-test post-test study
-description: Storytelling instruction increased English vocabulary test performance among five-year-old Iranian kindergarten children in a one-group pre-test post-test study
+title: English vocabulary test performance rose from pre-test to post-test among five-year-old Iranian kindergarten children in a one-group pre-test post-test study of storytelling instruction
+description: English vocabulary test performance rose from pre-test to post-test among five-year-old Iranian kindergarten children in a one-group pre-test post-test study of storytelling instruction
 id: storytelling-improves-kindergarten-english-vocabulary
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Storytelling instruction increased English vocabulary test performance among five-year-old Iranian kindergarten children in a one-group pre-test post-test study
+# English vocabulary test performance rose from pre-test to post-test among five-year-old Iranian kindergarten children in a one-group pre-test post-test study of storytelling instruction
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -45,6 +45,6 @@ One-group pre-test post-test quasi-experiment with 20 five-year-old children (9 
 
 
 ## Related Claims
-- [Experimental-group learners significantly improved vocabulary knowledge from pretest to posttest after storytelling instruction](storytelling-experimental-group-prepost-vocabulary-gain.md) — related
+- [Experimental-group learners' vocabulary knowledge rose significantly from pretest to posttest after storytelling instruction, measured within the experimental group](storytelling-experimental-group-prepost-vocabulary-gain.md) — related
 - [A storytelling approach produced significantly higher vocabulary posttest scores than traditional instruction for young Iranian EFL learners](storytelling-approach-vocabulary-posttest-advantage-young-efl.md) — related
 - [Game-based vocabulary tasks improve young elementary-level EFL learners' vocabulary achievement compared with traditional instruction](game-based-tasks-improve-young-learner-vocabulary-achievement.md) — related

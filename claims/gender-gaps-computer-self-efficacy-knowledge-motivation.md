@@ -52,3 +52,4 @@ Descriptive comparisons among the sampled students showed men reported "a signi�
 - [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](gender-difference-monitoring-judgments-health-math.md) — related
 - [Men show significantly lower autonomous regulation than women among adult learners](gender-difference-autonomous-regulation-adults.md) — related
 - [Sociocultural factors including stereotype threat, teacher interactions, and parental perceptions are discussed as likely sources of later-emerging gender differences in math](sociocultural-sources-of-gender-differences-in-math.md) — related
+- [Students identifying as women reported higher levels of reactive test anxiety than students identifying as men, even after controlling for assigned pacing condition.](women-higher-reactive-test-anxiety-anatomy-lab.md) — related

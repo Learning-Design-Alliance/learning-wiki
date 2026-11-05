@@ -47,3 +47,4 @@ Cross-sectional survey of 122 emergency nurses using the 36-item MSCS. Descripti
 
 ## Related Claims
 - [Significant differences in patient-centered medication management by age and experience, but not overall competence](age-experience-differences-patient-centered-medication-management.md) — related
+- [Medication safety competence dimension scores differ significantly across the four profiles](dimension-scores-differ-across-four-profiles.md) — related

@@ -46,7 +46,7 @@ Independent-samples T-test comparing posttest scores of the control group (mean 
 
 ## Related Claims
 - [Experimental classes achieved higher final DLPT-5 listening and reading results than the control class, which passed 50% in listening and 66.7% in reading](dlpt5-experimental-outperformed-control.md) — related
-- [Students given more control spent significantly more weekly time on listening practice, indicating greater effort and autonomy](learner-control-increases-listening-practice-time.md) — related
+- [Experimental-group students' weekly listening-practice time rose significantly from before to during the experiment, measured within that group](learner-control-increases-listening-practice-time.md) — related
 - [Experimental-group students improved significantly in listening proficiency under the zero class hour model over two months](zero-class-hour-improved-listening-proficiency.md) — a narrower finding that bears on this claim
 - [Both experimental and control groups improved significantly from pretest to posttest over the four-month period](both-groups-significant-pretest-posttest-gains.md) — related
 - [In one Iranian study of two high-school EFL classes, the class taught with 21st century skills scored significantly higher in listening than the class taught traditionally](21st-century-skills-improve-listening-efl.md) — related

@@ -52,3 +52,4 @@ Seven days after training, all students managed a novel perioperative anaphylaxi
 - [Repeated exposure to an identical VR anaphylaxis scenario yields higher guideline-based checklist performance in the common assessment scenario than first-time exposure](repeated-identical-vr-exposure-higher-checklist-score.md) — related
 - [Student satisfaction with teaching is higher after scenario-based simulation than after video-based training](sbs-higher-student-satisfaction-than-vbt.md) — related
 - [Both video-based and simulation-based training produce similarly high practical skills post-training with no overall between-group difference](video-and-simulation-similar-practical-skills-post-training.md) — reports the opposite
+- [Median procedural performance rubric scores improved from 16 to 26.5 after simulation-based mastery learning training (p < 0.001)](sbml-probing-rubric-score-improvement.md) — related

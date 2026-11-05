@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Balci 2016: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Significant differences favoring the experiment group were found for positive attitude (F (1,74)= 18.913, p< .05) and interest (F (1,74)= 11.643, p< .05); differences on negative attitude and importance were not significant. [→ Balci 2016](#balci-2016)
@@ -50,3 +51,4 @@ ANCOVA on the Attitudes towards Science and Technology Course Scale (Tekeli, 200
 - [Students reported that ABSL activities helped them understand subjects better, learn permanently, become more active, and increased their interest and attitudes towards social studies](absl-student-views-positive-outcomes.md) — related
 - [Scientific argumentation based learning significantly improves eighth-grade students' academic achievement in the unit of cell division and inheritance compared to traditional teaching.](argumentation-improves-cell-division-achievement.md) — related
 - [Scientific argumentation based learning improves students' understanding of the nature of scientific knowledge on five of six dimensions.](argumentation-improves-nature-of-scientific-knowledge.md) — related
+- [Four of five attitude dimensions rose significantly from pre-test to post-test, but the responsibility dimension did not change significantly, in one single-group pre-test–post-test study](responsibility-attitude-dimension-unchanged.md) — related

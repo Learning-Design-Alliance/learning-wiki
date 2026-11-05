@@ -39,7 +39,8 @@ The article recommends that language initiatives be accompanied by education abo
 - support accurate understanding of rehabilitation and recidivism
 
 ## Related Strategies
-- 
+
+- [Pair education with system-level changes to shift responsibility attitudes in perioperative teams](pair-education-with-system-level-responsibility-changes.md)
 
 ## Examples
 -

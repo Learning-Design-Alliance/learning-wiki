@@ -55,6 +55,7 @@ Drawing on the converging gaps across the reviewed literature, the review recomm
 - [Direct future pedagogical agent research toward assessment, reflective practice, administration, personalisation and media richness](future-research-assessment-reflective-personalisation.md)
 - [Address theoretical grounding, longitudinal study designs, and standardized design protocols before broad implementation of GenAI virtual patients](genai-vp-theory-longitudinal-protocol-strategy.md)
 - [Employ experimental and longitudinal designs with standardised measurement tools in future pressure injury prevention research.](experimental-longitudinal-pi-research-designs.md)
+- [Extend AI tutor implementation across modules, expand question banks, and establish ethical oversight guidelines](future-directions-ai-tutor-expansion-and-oversight.md)
 
 ## Examples
 -

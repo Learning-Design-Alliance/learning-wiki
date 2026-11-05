@@ -45,7 +45,7 @@ The study's qualitative data revealed a limitation of the VR condition: "VR part
 
 
 ## Related Claims
-- [High joint on-task engagement with high equality and mutuality of engagement did not necessarily mean cognitive engagement or ensure conceptual change](high-equality-mutuality-not-sufficient-conceptual-change.md) — related
+- [In one single-group pre-post study, dyads with high joint on-task engagement and high equality and mutuality of engagement included one student who showed substantial conceptual change and another who showed none](high-equality-mutuality-not-sufficient-conceptual-change.md) — related
 - [Role-playing in a ship simulator constitutes an activity context whose ephemeral resources can collapse](role-play-activity-context-simulator.md) — related
 - [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](cscl-simulation-conceptual-change-cognitive-engagement.md) — related
 - [VR simulation better promoted lab-teaching knowledge development than live classroom simulation, while live simulation better fostered class-teaching knowledge development among university teaching assistants](vr-vs-live-simulation-domain-specific-teaching-knowledge.md) — related

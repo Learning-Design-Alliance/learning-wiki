@@ -51,7 +51,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 3 quant-synthesis `r2`, 1 review `r2` · `q2`–`q3` · `i2`–`i3`
-> **Currency** · newest study 2023 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-15: Incidental Vocabulary Exposure Limited -->
 
@@ -207,5 +207,5 @@ The guide reports, citing the Swanborn and de Glopper meta-analysis, that "the p
 - [A single exposure to video materials produced a marginal advantage in comprehension and vocabulary test scores over text-based materials in an ESP setting](single-video-exposure-marginal-advantage-esp-comprehension.md) — related
 - [Prior studies report positive correlations between working memory capacity and second-language vocabulary and proficiency outcomes](wm-capacity-correlates-l2-learning.md) — related
 - [In a one-month case study of one learner of French, extensive reading enhanced knowledge of about two-thirds of 133 target words, with gains varying by how often a word was encountered](er-incidental-vocabulary-encounter-frequency.md) — related
-- [Some vocabulary items were more challenging to acquire than others, mostly attributable to low frequency, though not always](tprs-item-difficulty-word-frequency.md) — a narrower finding that bears on this claim
+- [Some vocabulary items were more challenging to acquire than others in one single-group pre-post study, and difficulty did not always correspond to frequency](tprs-item-difficulty-word-frequency.md) — a narrower finding that bears on this claim
 - [Students with larger vocabularies identified fewer unknown words in passages (r = -.53), and students identified far fewer unknown words than the passages contained](vocabulary-scores-negatively-correlate-unknown-words-identified.md) — related

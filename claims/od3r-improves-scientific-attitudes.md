@@ -47,4 +47,4 @@ Scientific attitudes were measured with a questionnaire covering six attitude ty
 ## Related Claims
 - [The OD3R method improves students' ability to write biochemistry laboratory reports, with all assessed report components increasing significantly](od3r-improves-laboratory-report-writing.md) — related
 - [Students respond positively to the OD3R method, reporting the course becomes more fun and laboratory reports easier to prepare](od3r-positive-student-response.md) — related
-- [The OD3R method significantly increases students' practical skills in biochemistry, from an average of 49.5 before to 74 after implementation](od3r-increases-practical-skills.md) — related
+- [Students' practical skill scores in biochemistry rose from an average of 49.5 before to 74 after OD3R implementation, in a one-group pre-post study with no comparison group](od3r-increases-practical-skills.md) — related

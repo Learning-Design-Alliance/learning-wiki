@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Kala 2023: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i2` The groups did not differ significantly on the TAT post-test (ηp2 = .09, p = .07) or on the CLS (ηp2 = .09, p = .09). [→ Kala 2023](#kala-2023)

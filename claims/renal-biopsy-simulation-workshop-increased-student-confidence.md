@@ -58,3 +58,5 @@ Prospective single-center pre-post educational intervention with 113 fifth-year 
 - [Median self-confidence in performing US-guided peripheral venous access increased from 5 to 8 after the brief training](us-training-confidence-5-to-8.md) — related
 - [A 2-hour near-peer otolaryngology bootcamp significantly improves medical students' knowledge quiz scores](near-peer-bootcamp-knowledge-quiz-gain.md) — related
 - [Peer-assisted simulation workshops significantly improve immediate workshop-specific knowledge test scores in undergraduate medical students](peer-simulation-workshops-immediate-knowledge-gain.md) — related
+- [Self-reported confidence progressively increased across the four training steps, from median 2 after the video to median 4 after final evaluation](sbml-probing-confidence-progression.md) — related
+- [Training-related factors positively influenced confidence and performance](training-factors-boost-confidence-and-performance.md) — a broader claim this one bears on

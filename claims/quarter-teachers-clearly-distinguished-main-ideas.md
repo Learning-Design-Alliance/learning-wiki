@@ -47,4 +47,4 @@ Observational analysis of 34 subject teachers (average age 37-40 years, predomin
 
 ## Related Claims
 - [Heuristic-methodological instruction increases pupils' singling out of main concepts and ideas from a text](heuristic-instruction-singling-out-concepts.md) — a broader claim this one bears on
-- [Performance feedback increased the number of student teachers clearly describing the activity (Item 15)](pf-increased-describing-activity-item-15.md) — related
+- [The number of student teachers clearly describing the activity rose from before to after performance feedback, in one single-group pre-post study (Item 15)](pf-increased-describing-activity-item-15.md) — related

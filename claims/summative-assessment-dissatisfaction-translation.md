@@ -45,6 +45,6 @@ Questionnaire assessment-satisfaction domain from the post-experiment survey of 
 
 
 ## Related Claims
-- [Mastery of translation skills showed little difference between the flipped and traditional classes, suggesting traditional teaching still delivers basic skills effectively](flipped-translation-skills-mastery-small-difference.md) — related
+- [Self-rated mastery of translation skills differed little between the flipped and traditional classes](flipped-translation-skills-mastery-small-difference.md) — related
 - [Flipped classrooms are associated with higher learner satisfaction in medical education (pooled SMD = 0.69), with residents showing larger improvement than undergraduates (SMD 1.69 vs 0.37)](flipped-classroom-learner-satisfaction-residents.md) — related
 - [Undergraduate health professional students report more positive satisfaction with flipped class learning than with traditional class learning (SMD = 0.48), at low certainty](flipped-classroom-student-satisfaction-positive.md) — related

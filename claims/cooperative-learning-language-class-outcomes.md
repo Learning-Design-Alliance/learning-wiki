@@ -9,6 +9,7 @@ generated:
   at: 2026-10-02
 evidence_strength: weak
 newest_evidence: 1999
+source_checked: 2026-11-05
 sources:
   - id: kluge-1999
     resource: "https://eric.ed.gov/?id=ED437840"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1` · `q2`
-> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1999 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims

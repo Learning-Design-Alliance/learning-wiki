@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Training in linguistic classroom activities is followed by statistically significant pre-post gains in oral linguistic performance on the focus of ideas, with eta squared of 0.97
-description: Training in linguistic classroom activities is followed by statistically significant pre-post gains in oral linguistic performance on the focus of ideas, with eta squared of 0.97
+title: Oral linguistic performance on the focus of ideas rose significantly from pre-test to post-test after training in linguistic classroom activities, in one uncontrolled pre-post study of third-grade intermediate students in Makah, with eta squared of 0.97
+description: Oral linguistic performance on the focus of ideas rose significantly from pre-test to post-test after training in linguistic classroom activities, in one uncontrolled pre-post study of third-grade intermediate students in Makah, with eta squared of 0.97
 id: linguistic-activities-ideas-gains
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Training in linguistic classroom activities is followed by statistically significant pre-post gains in oral linguistic performance on the focus of ideas, with eta squared of 0.97
+# Oral linguistic performance on the focus of ideas rose significantly from pre-test to post-test after training in linguistic classroom activities, in one uncontrolled pre-post study of third-grade intermediate students in Makah, with eta squared of 0.97
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
@@ -45,7 +45,7 @@ Same quasi-experimental one-group pre-post study (30 students). For the ideas fo
 
 
 ## Related Claims
-- [Training in linguistic classroom activities is followed by statistically significant pre-post gains in decision-making skill, with eta squared of 0.91](linguistic-activities-decision-making-gains.md) — related
-- [Training in linguistic classroom activities is followed by statistically significant pre-post gains in overall oral linguistic performance in English, with eta squared of 0.97](linguistic-activities-overall-performance-gains.md) — related
-- [Training in linguistic classroom activities is followed by statistically significant pre-post gains in oral linguistic performance on the focus of structures, with eta squared of 0.95](linguistic-activities-structures-gains.md) — related
-- [Training in linguistic classroom activities is followed by statistically significant pre-post gains in oral linguistic performance on the focus of words among third-grade intermediate students, with eta squared of 0.93](linguistic-activities-words-gains.md) — related
+- [Among third-grade intermediate students in Makah, decision-making skill scores rose significantly from pre-test to post-test in one group with no comparison group after linguistic classroom activities, with eta squared of 0.91](linguistic-activities-decision-making-gains.md) — related
+- [Overall oral linguistic performance scores in English rose significantly from pre-test to post-test after training in linguistic classroom activities, in one uncontrolled pre-post study, with eta squared of 0.97](linguistic-activities-overall-performance-gains.md) — related
+- [Oral linguistic performance scores on the focus of structures rose significantly from pre-test to post-test among third-grade intermediate students in Makah after training in linguistic classroom activities, in one uncontrolled pre-post study, with eta squared of 0.95](linguistic-activities-structures-gains.md) — related
+- [Oral linguistic performance scores on the focus of words rose significantly from pre-test to post-test among third-grade intermediate students after training in linguistic classroom activities, in one uncontrolled pre-post study, with eta squared of 0.93](linguistic-activities-words-gains.md) — related

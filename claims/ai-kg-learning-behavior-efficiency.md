@@ -47,3 +47,4 @@ Learning behavior analysis from the 18-week trial: the experimental group's plat
 
 ## Related Claims
 - [Focus group interviews identified accurate weak-point localization (12 of 12 students), clearer cross-chapter connections (10 students), and time-saving intelligent Q&A (8 students) as core positive themes](ai-kg-qualitative-focus-group-themes.md) — related
+- [The integrated '1 + N' one-click teaching platform and modular resource repositories achieve high utilization efficiency in Endodontics education](one-n-platform-modular-repositories-high-utilization-efficiency.md) — related

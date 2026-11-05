@@ -55,3 +55,4 @@ Pre- and post-class comparisons in the quasi-experimental study showed "both the
 - [Subgroup results: CBL ranks best for clinical curricula and across educational backgrounds, while PBL ranks best for basic courses, developing countries, and operational skills](nma-subgroup-cbl-clinical-pbl-basic.md) — related
 - [PBL-CBL combined teaching improves post-class case analysis scores compared with traditional lecture-based teaching in gynecology residents](pbl-cbl-improves-case-analysis-scores-gynecology-residents.md) — related
 - [Integrated PBL and medical humanities teaching produced no significant between-group difference in post-intervention theoretical examination scores compared with LBL](integrated-pbl-humanities-no-difference-theoretical-scores.md) — related
+- [No significant difference between CBL-FC and LBL groups in theoretical knowledge after intervention](cbl-fc-no-gain-theoretical-knowledge.md) — related

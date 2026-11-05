@@ -51,6 +51,7 @@ The article recommends that institutions and instructors administer the GenAI-RP
 ## Related Strategies
 
 - [Use SR and OB measures together as diagnostic tools in AI literacy professional development, before and after training](combined-sr-ob-diagnostics-in-pd.md)
+- [Use validated competency questionnaires to diagnose educator strengths and design targeted professional development](competency-diagnosis-professional-development-strategy.md)
 
 ## Examples
 -

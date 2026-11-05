@@ -46,7 +46,7 @@ The study reports psychometric properties of its 30-point listening comprehensio
 
 
 ## Related Claims
-- [The flipped classroom model improved Egyptian EFL students' listening comprehension in a one-group pre-posttest study](flipped-classroom-improves-efl-listening-comprehension.md) — related
+- [Egyptian EFL students' listening comprehension scores rose from pre-test to post-test in a one-group pre-posttest study of the flipped classroom model](flipped-classroom-improves-efl-listening-comprehension.md) — related
 - [The PRO-SDLS showed a high degree of reliability in this study's test-retest sample, with a Pearson coefficient of 0.91.](pro-sdls-reliability-confirmed-study-sample.md) — related
 - [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — related
 - [Validation evidence across the 15 RCR measures is partial and heterogeneous, with no test–retest, criterion validity or factor-analytic evidence reported](rcr-measure-validation-evidence-heterogeneous-limited.md) — related

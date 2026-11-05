@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "AI-powered simulated patient practice with automated rubric-based feedback improves medical students' headache history-taking OSCE scores"
-description: "AI-powered simulated patient practice with automated rubric-based feedback improves medical students' headache history-taking OSCE scores"
+title: "AI-powered simulated patient practice with automated rubric-based feedback: medical students' headache history-taking OSCE scores rose from pre-test to post-test in a single-group pre-post study"
+description: "AI-powered simulated patient practice with automated rubric-based feedback: medical students' headache history-taking OSCE scores rose from pre-test to post-test in a single-group pre-post study"
 id: aisp-cortex-improves-headache-osce-scores
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# AI-powered simulated patient practice with automated rubric-based feedback improves medical students' headache history-taking OSCE scores
+# AI-powered simulated patient practice with automated rubric-based feedback: medical students' headache history-taking OSCE scores rose from pre-test to post-test in a single-group pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
@@ -45,7 +45,7 @@ Single-group pre-post study of 25 third-year medical students completing a one-w
 
 
 ## Related Claims
-- [AI-powered simulated patient practice improves clinical reasoning measured by the CRI-HT scale](aisp-cortex-improves-cri-ht-reasoning.md) — related
+- [CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study](aisp-cortex-improves-cri-ht-reasoning.md) — related
 - [Lower-baseline students show larger OSCE gains after AISP practice, narrowing the performance gap](aisp-cortex-catch-up-effect-low-performers.md) — a narrower finding that bears on this claim
 - [Students rate the AISP chatbot highly usable, with robotic conversational style the most common concern](aisp-cortex-usability-cuq-findings.md) — related
 - [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](aisp-focus-group-three-themes.md) — related
@@ -53,3 +53,4 @@ Single-group pre-post study of 25 third-year medical students completing a one-w
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on
 - [In an RCT reviewed by this study, an LLM-based digital patient improved ophthalmology medical history-taking skills relative to control](llm-digital-patient-improves-history-taking-rct.md) — related
 - [GP residents showed statistically significant pre-post improvements in history-taking (Cohen's d = 1.11) and clinical reasoning (Cohen's d = 1.32) after a 12-week VP training program](vp-training-improves-history-taking-clinical-reasoning.md) — related
+- [Clinical reasoning scores were higher after training than before training in every clinical domain assessed, in one single-group pre-post study with no comparison group](ofc-gains-across-all-clinical-domains.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2023
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: feng-2023
     resource: "https://osf.io/exqpn"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i0`–`i1`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Feng 2023 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims

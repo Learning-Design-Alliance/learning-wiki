@@ -48,5 +48,5 @@ Post-test comparison of the lowest-scoring band in the experimental class, repor
 - [Both groups improved significantly on the achievement test from pre-test to post-test, with the experimental group reaching a much higher post-test mean](jigsaw-iv-within-group-achievement-gains.md) — related
 - [The experimental group's distribution across motivational levels shifted toward higher levels from pre-test to post-test while the control group's did not](experimental-group-level-shift-motivational-component.md) — related
 - [Final-test score distributions concentrated differently by group: the ChatGPT class peaked at interval 79-83 (32.26% of students) while the control class peaked at 56-61 (25.81%)](frequency-distribution-experimental-79-83-control-56-61.md) — related
-- [Speaking-skill score distribution shifted upward after integrative teaching (mean 65.75 to 76.5)](german-speaking-pre-post-descriptives.md) — related
+- [Speaking-skill score distribution shifted upward from pre-test to post-test in one single-group pre-post study of integrative teaching (mean 65.75 to 76.5)](german-speaking-pre-post-descriptives.md) — related
 - [Intervention students are more likely to move up one or more performance-level categories from pre-test to post-test than control students](ct-intervention-increases-category-mobility.md) — related

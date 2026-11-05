@@ -48,6 +48,7 @@ The article recommends that educators create 3D digital learning resources witho
 - [Improve XR-CBL case presentations with labeled structures, step-by-step guidance, focused videos, technical reliability, and embedded assessment](xr-cbl-case-presentation-improvement-strategy.md)
 - [Recommendation that educators include implicit spatial training combining multimodal visual and physical resources](recommend-multimodal-visual-haptic-spatial-training.md)
 - [Promote the flipped classroom in low-resource settings using free digital tools, peer instruction, and group discussions.](flipped-classroom-low-resource-settings-strategy.md)
+- [Build simulation models from patient imaging with 3D printing to accommodate anatomical variations at low cost](imaging-based-3d-printing-custom-simulation-models.md)
 
 ## Examples
 -

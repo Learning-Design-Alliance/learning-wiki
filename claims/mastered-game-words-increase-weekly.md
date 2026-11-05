@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students mastered significantly more game words each successive week of the four-week intervention
-description: Students mastered significantly more game words each successive week of the four-week intervention
+title: The number of game words students mastered rose significantly from week 1 to week 4 during the four-week intervention, in one uncontrolled pre-post study
+description: The number of game words students mastered rose significantly from week 1 to week 4 during the four-week intervention, in one uncontrolled pre-post study
 id: mastered-game-words-increase-weekly
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Students mastered significantly more game words each successive week of the four-week intervention
+# The number of game words students mastered rose significantly from week 1 to week 4 during the four-week intervention, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

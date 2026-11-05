@@ -45,8 +45,9 @@ Quasi-experimental pre/post survey of 65 students in the Media Education course 
 
 
 ## Related Claims
-- [After the experience, 100% of students fully agreed the videogame develops heuristic (trial-and-error) thinking](videogame-heuristic-thinking-unanimous-agreement.md) — related
-- [Students' endorsement of videogames for developing visual memory and retentiveness rose sharply after the experience](videogame-experience-visual-memory-item-shift.md) — related
+- [After playing the videogame, 100% of students fully agreed with the heuristic (trial-and-error) thinking item; before playing, 94% were indifferent and 6% disagreed, based on self-reported responses in one single-group pre-post study](videogame-heuristic-thinking-unanimous-agreement.md) — related
+- [Students' self-reported endorsement of videogames for developing visual memory and retentiveness rose sharply from pre-test to post-test after the experience, in one uncontrolled pre-post study](videogame-experience-visual-memory-item-shift.md) — related
 - [Students remained largely disagreeing that the videogame supports self-regulation of learning (continuous assessment)](videogame-self-regulation-item-stays-negative.md) — related
 - [A third of Spanish educators (36.4%) used videogames as didactic tools in 2011-2012, with younger teachers more willing](spanish-educators-videogame-use-36-percent.md) — related
 - [Videogame play in class fostered peer competition, peer support, and student attention and immersion](videogame-peer-collaboration-attention.md) — related
+- [Educators with more than one year of AR experience disagreed that AR should be used to teach anatomy while less-experienced educators agreed](experienced-educators-disagree-ar-teaching-anatomy.md) — related

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
+> **Design limits** · Cabrera 2018: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` 43.56% of students said their teachers use no technological resources, about 60% reported no technology in grammar (59.51%) and vocabulary (56.44%) activities, yet 74.23% felt motivated when teachers did use such tools. [→ Cabrera 2018](#cabrera-2018)

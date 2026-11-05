@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 199 claims (98 for, 84 mixed, 17 against) · 166 studies (44 causal, 29 review, 26 associational, 25 qualitative, 22 quant-synthesis, 15 design, 5 theoretical), `q1`–`q4` · 31 of 166 report an effect size · 196 claims rest on one study
+> **Evidence** · 200 claims (99 for, 84 mixed, 17 against) · 167 studies (45 causal, 29 review, 26 associational, 25 qualitative, 22 quant-synthesis, 15 design, 5 theoretical), `q1`–`q4` · 31 of 167 report an effect size · 197 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -187,7 +187,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [Online training shows no difference from interactive workshops for knowledge, practical skills, clinical behaviour, self-efficacy, or satisfaction in licensed health professionals, at low or very low evidence quality](../claims/online-vs-workshop-no-difference-hcp.md) [+W]
 - [Educational technologies in PBL show generally positive effects on student learning in health sciences education](../claims/edtech-pbl-generally-positive-effects-health-sciences.md) [+W] — attached 2026-11-01 from Jun J (2014), which proposed "Learning software and digital learning objects as PBL interventions".
 - [ICT investments did not improve learning outcomes significantly more than the basic non-ICT PRIMR education program](../claims/ict-not-better-than-base-primr.md) [-W]
-- [Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group](../claims/blackboard-instruction-significant-prepost-gains-efl-methods.md) [+W]
+- [The experimental group showed statistically significant pre-to-post achievement gains in the EFL teaching methods course after Blackboard-based instruction](../claims/blackboard-instruction-significant-prepost-gains-efl-methods.md) [+W]
 - [Before the intervention, most students reported little classroom technology use, but most felt motivated when teachers used technological tools](../claims/students-report-scarce-technology-use-but-motivated-by-it.md) [+W]
 - [The authors report that students' insecurities and fears toward the Ottoman Turkish lesson decreased after the AR-supported study](../claims/ar-ottoman-decreased-insecurity-fears.md) [~W]
 - [Both samples improved from pretest to post-test, with the ICT experimental sample improving faster](../claims/ict-tourism-intragroup-faster-evolution.md) [+W]
@@ -202,7 +202,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [Prior studies reviewed in the article consistently report achievement advantages for computer-assisted mathematics teaching over traditional methods](../claims/reviewed-studies-favor-computer-assisted-math-teaching.md) [+W]
 - [Corpus-tool instruction significantly improves EFL student teachers' production of verb-noun collocations in writing, with a medium-to-large effect](../claims/corpus-tools-improve-collocation-production-writing.md) [+W] — attached 2026-11-02 from Galip Kartal (2018), which proposed "COCA and BNC corpora as free concordancing tools for collocation learning"; tests this page's relationship.
 - [Blog-assisted life education instruction significantly enhances students' information literacy and competence and course satisfaction](../claims/blog-life-education-enhances-learning-effectiveness.md) [+W]
-- [Blog-assisted life education instruction significantly enhances fifth-grade elementary students' life education values](../claims/blog-assisted-life-education-enhances-life-values.md) [+W]
+- [Fifth-grade elementary students' life phenomenon, harmony between nature and human beings, life meaning and value, and total life education values scores rose significantly from pre-test to post-test after blog-assisted life education instruction, in one single-group pre-post study](../claims/blog-assisted-life-education-enhances-life-values.md) [+W]
 - [Even schools with high LRS usage showed insufficient evidence of a positive effect](../claims/lrs-dose-analysis-no-effect.md) [-W]
 - [Preschool pupils taught science and mathematics with ICT scored significantly higher than traditionally taught pupils at post-test](../claims/ict-preschool-post-test-advantage.md) [+W] — attached 2026-11-02 from Oluwadare (2015), which proposed "Flash CS3 Edumode counting and science software for preschool ICT instruction"; tests this page's relationship.
 - [Instructional software alone significantly improved general pronunciation quality over two weeks for young Chinese EFL learners](../claims/software-alone-improves-pronunciation-young-efl.md) [+W]
@@ -224,6 +224,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [LLM-assisted MCQ generation achieved a 5.6-fold efficiency gain over student authorship in a formative medical exam context](../claims/llm-mcq-generation-efficiency-gain.md) [~W]
 - [Free-text comments raised fairness concerns about pairing with a weaker partner and technical and organizational issues with the digital format](../claims/whisper-exam-fairness-and-digital-format-criticisms.md) [-W]
 - [Within the AI-assisted PBL-CBL group, satisfaction with AI usage (91.67%) was lower than satisfaction with most other aspects of the teaching model](../claims/ai-usage-satisfaction-lag-in-intervention-group.md) [~W]
+- [The integrated '1 + N' one-click teaching platform and modular resource repositories achieve high utilization efficiency in Endodontics education](../claims/one-n-platform-modular-repositories-high-utilization-efficiency.md) [+M] — attached 2026-11-04 from Hou Yepo et al. (2026), which proposed "The '1 + N' one-click accessible teaching platform integrating ChaoXing Learning Platform with multiple teaching tools"; tests this page's relationship.
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

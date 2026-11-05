@@ -41,7 +41,7 @@ The article describes a strategy in which learners receive a worksheet with work
 
 ## Claims
 
-- [CBPSI significantly improved problem solving performance of Grade 10 learners from pre-test to post-test](../claims/cbpsi-improves-problem-solving-performance-grade-10.md) [+W]
+- [Problem solving performance of Grade 10 learners rose significantly from pre-test to post-test after CBPSI, in one uncontrolled pre-post study](../claims/cbpsi-improves-problem-solving-performance-grade-10.md) [+W]
 - [Most error types in financial mathematics pre-tests involved confusing accumulated amount with interest or selecting the wrong formula](../claims/financial-mathematics-error-types-reverse-and-formula.md) [+W]
 - [Learners' interview responses indicated schema construction linking novel problems to worked-out examples](../claims/interview-responses-indicate-schema-construction.md) [+W]
 

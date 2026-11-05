@@ -57,3 +57,5 @@ Dimension-level teaching satisfaction results in the same assessor-blinded RCT o
 - [Residents taught with integrated 3D visualization and PBL report higher teaching satisfaction across most survey items](3d-visualization-pbl-higher-satisfaction-pcc.md) — related
 - [Working time and satisfaction do not differ between interactive and passive e-learning groups](e-learning-working-time-satisfaction-no-difference.md) — reports the opposite
 - [Humanistic care-integrated Mini-CEX teaching improves humanistic care ability across cognition, courage, and patience dimensions](mini-cex-humanistic-care-ability-gains.md) — related
+- [CBE-MDT teaching yields higher trainee satisfaction than traditional teaching](cbe-mdt-higher-satisfaction-radiation-oncology.md) — related
+- [CBE-MDT teaching improves final exam scores compared with traditional teaching in radiation oncology rotations](cbe-mdt-improves-exam-scores-radiation-oncology.md) — related

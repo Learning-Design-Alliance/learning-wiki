@@ -53,3 +53,4 @@ Post-session survey using adapted SEEQ and SSES items on a 5-point Likert scale 
 - [Student preference for CBL, PBL or TBL over traditional teaching was reported in 15 of 22 studies (68.1%), but only two studies used a controlled comparison with lecture](preference-over-lecture-15-studies-only-two-controlled.md) — related
 - [TBL students report higher self-efficacy on selected confidence-related items compared to lecture students](tbl-higher-self-efficacy-selected-items.md) — related
 - [TBL and lecture-based instruction show no statistically significant difference in PA students' chest radiograph interpretation test scores](tbl-noninferior-lecture-chest-radiograph-interpretation.md) — related
+- [Students preferred PBL over TBL, citing clearer objectives, fuller participation, and more suitable pacing in small-group discussion.](students-preferred-pbl-over-tbl.md) — related

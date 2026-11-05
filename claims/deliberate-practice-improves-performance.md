@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 theoretical `r3` · `q2`–`q3` · n=not established from abstract
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Deliberate Practice Improves Performance -->
 
 Individual differences in accumulated deliberate practice (structured, effortful practice on well-defined subskills at the edge of current ability, with feedback and repetition) are correlated with individual differences in performance, but explain far less of them than originally proposed, and much less in education and the professions than in games, music and sports. The one meta-analysis recorded here (Macnamara et al. 2014) relates practice accumulation to performance across studies; it is not an experiment, so it does not show that deliberate practice causes larger gains than repetition or experience. The second entry (Wedlock & Binnie 2025) reports the same education figure second-hand.

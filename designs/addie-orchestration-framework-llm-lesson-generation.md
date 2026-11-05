@@ -43,6 +43,7 @@ ConnectED uses the ADDIE instructional design model as a unifying orchestration 
 ## Related Designs
 
 - [Four-component lesson plan representation schema grounded in curriculum studies and differentiated instruction](adapt-lesson-plan-representation-schema.md)
+- [The ADDIE model as a framework for designing simulation-based delineation training](addie-model-sbl-program-design.md)
 
 ## Examples
 -

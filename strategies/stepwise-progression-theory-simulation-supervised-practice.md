@@ -50,6 +50,8 @@ The article recommends a structured, stepwise progression integrating theoretica
 - [Sequence porcine-model training as the final step of a graduated simulation pathway](graduated-simulation-pathway-porcine-final-step.md)
 - [Exhaust the learning potential of one training modality before progressing to other modalities or supervised surgery](exhaust-modality-learning-potential-before-progression.md)
 - [Four pillars for educational transformation: industry-independent accreditation, integrated curricula, objective competency assessment, and competency-based certification](four-pillars-educational-transformation-ep.md)
+- [Structured stepwise endodontic curriculum: preclinical training, clinical observation, then supervised clinical practice](stepwise-endodontic-curriculum-preclinical-observation-practice.md)
+- [Integrate dedicated surgical care practitioners into robotic programmes to free trainees from the bedside assistant role and facilitate their transition to the console](scp-bedside-assistant-integration-robotic-training.md)
 
 ## Examples
 -

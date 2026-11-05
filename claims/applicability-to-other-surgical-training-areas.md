@@ -47,3 +47,4 @@ Focus group data from 20 students and one instructor interview. Participants "de
 ## Related Claims
 - [Integrating asynchronous videos with simulation-based practice was perceived as enabling more focused engagement during supervised sessions, shifting attention from procedural recall to technical execution.](video-simulation-integration-focuses-technical-execution.md) — related
 - [Participants reported perceived increases in confidence when approaching early clinical tasks after completing the integrated module.](integrated-module-increases-confidence-early-clinical-tasks.md) — related
+- [Participants reported acquiring a pedagogical toolbox of simulation, feedback, and teaching-orchestration skills through the internship track.](pedagogical-internship-track-toolbox-theme.md) — related

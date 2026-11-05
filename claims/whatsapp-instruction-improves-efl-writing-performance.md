@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2018 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Bataineh et al. 2018: the comparison group also received the intervention; groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The authors say writing "seems to have developed significantly" on all four aspects, but, although both a pre-test and a post-test were given, report no statistical pre-to-post comparison and have no control group; between the pre-test and post-test tables the female section's means rose on every aspect (total 43.73 to 45.82) while the male section's fell on every aspect (total 42.00 to 39.54). [→ Bataineh et al. 2018](#bataineh-et-al-2018)

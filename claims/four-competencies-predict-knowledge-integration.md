@@ -55,3 +55,4 @@ Cross-sectional online survey of 421 participants with ITD experience; multiple 
 - [Experts do not exhibit higher levels of reflexivity than novices, consistent with reflexivity as a meta-cognitive competence](experts-not-higher-reflexivity-than-novices.md) — related
 - [Uncertainty is a central feature of challenges in transdisciplinary learning for sustainability, encompassing both emotional and cognitive dimensions](uncertainty-central-td-challenges.md) — related
 - [Uncertainty in challenging tasks was linked to meta-reflexive deliberation about improving one's own learning](task-uncertainty-triggers-meta-reflexivity.md) — related
+- [The placement acted as a safe space fostering self-efficacy, intellectual humility, and uncertainty tolerance](anatomy-ems-safe-space-personal-development.md) — related

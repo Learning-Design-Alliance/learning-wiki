@@ -89,3 +89,5 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [Students' attitudes towards error-handling cluster into three characteristic learner types](three-learner-types-error-attitudes.md) — related
 - [Cluster analysis of consumption behaviour and attitude identified four consumption groups among the eighth graders](four-consumption-groups-cluster-analysis.md) — related
 - [Latent profile analysis identifies four AI-context learner subgroups — Active Adopters, Cognitively Advanced but Constrained, Passive Followers, and Disengaged — with markedly different self-directed learning levels](four-latent-profiles-ai-context-sdl.md) — related
+- [Latent class analysis of introductory biology students' resource use identifies four distinct profiles: High Overall Frequency, Low Overall Frequency, Moderate Guided Users, and Independent Navigator.](four-latent-resource-use-profiles-intro-biology.md) — related
+- [K-means clustering identifies three distinct ability profiles among young new farmers, with varying overlap across competency dimensions.](kmeans-clustering-ability-profiles.md) — related

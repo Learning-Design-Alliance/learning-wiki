@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q2`–`q3` · `i2` medium
-> **Currency** · newest study 2023 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 Engaging learners in constructing, critiquing, and defending arguments improves their reasoning skills — including the quality of their justifications, their ability to evaluate evidence, and their transfer of reasoning to new problems.
 

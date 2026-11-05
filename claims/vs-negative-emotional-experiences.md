@@ -57,3 +57,4 @@ Synthesized negative-experience finding from the meta-synthesis; students worrie
 - [Students experience anxiety and nervousness during simulation but recognize emotional regulation as central to safe patient interaction](simulation-emotional-regulation-anxiety.md) — related
 - [Surgical trainees show a dual emotional pattern of high engagement alongside early signs of burnout](surgical-trainees-emotional-strain-burnout-signs.md) — related
 - [Fear of embarrassment and lack of psychological safety reduce nursing students' participation and retention in active learning activities](psychological-safety-barrier-active-learning-nursing.md) — related
+- [Simulation-based BLS training evokes strong emotional engagement and builds nursing students' confidence through repeated practice in a safe, mistake-tolerant environment](simulation-bls-emotional-engagement-confidence.md) — related

@@ -45,6 +45,6 @@ Small-sample pretest-posttest waiting control study: four children received the 
 
 
 ## Related Claims
-- [A shortened 18-session MZZ program replicated the training effect in the former waiting control group (d = 2.5)](shortened-mzz-replicates-effect-waiting-controls.md) — related
+- [The former waiting control group's scores rose from pre-test to post-test after a shortened 18-session MZZ program, in a pre-post comparison within that group (d = 2.5)](shortened-mzz-replicates-effect-waiting-controls.md) — related
 - [The ANOVA showed no statistically significant main effect of group on EMBI performance (F(1,6) = 5.55, p > .05)](mzz-no-main-effect-of-group.md) — related
 - [A significant group x measurement point interaction confirms the training effect in the main evaluation (F(1,6) = 21.55, p < .01)](mzz-group-by-time-interaction-significant.md) — related

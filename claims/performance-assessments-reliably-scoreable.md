@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-13
+source_checked: 2026-11-05
 recheck_by: 2028
 sources:
   - id: badrinarayan-2025
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-13 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The report asserts that appropriately designed performance assessments used in conjunction with other measures can generate trustworthy and comparable scores at the student and aggregate levels. [→ Badrinarayan 2025](#badrinarayan-2025)
@@ -68,3 +68,4 @@ This is the report's own summary assertion, supported by its description of scor
 - [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](engineering-rubric-low-scoring-reliability.md) — related
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
 - [Performance-based assessments score low on generalizability, reliability, and standardization, with rater effects influencing scores](pba-psychometric-weaknesses.md) — reports the opposite
+- [Z-number representation captures both evaluation content and evaluator reliability in peer assessment](z-number-captures-reliability-peer-evaluations.md) — a narrower finding that bears on this claim

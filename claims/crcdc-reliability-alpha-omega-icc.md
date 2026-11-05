@@ -69,3 +69,4 @@ Temporal stability assessed using a test–retest design with 30 participants wh
 - [The DKSCQ-N demonstrates high internal consistency (Cronbach's α = 0.906) and excellent test-retest stability (ICC = 0.829) over two weeks.](dkscqn-reliability-alpha-icc.md) — related
 - [CMS shows acceptable test-retest reliability and internal consistency](cms-reliability-icc-alpha.md) — related
 - [The CSL-LTS demonstrates adequate internal consistency with Cronbach's α of 0.832 and McDonald's ω of 0.841](csl-lts-internal-consistency.md) — related
+- [The Salus-Ed questionnaire demonstrates excellent overall internal consistency (α = 0.95)](salus-ed-internal-consistency.md) — related

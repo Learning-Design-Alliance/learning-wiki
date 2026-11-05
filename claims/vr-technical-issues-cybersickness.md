@@ -56,3 +56,4 @@ Break-reason and symptom data from the randomized trial. In the VR group, 23 (82
 - [Motion sickness remains a disagreeable side effect of IVR serious games for a minority of participants](ivr-sgs-motion-sickness-side-effect.md) — related
 - [Cybersickness increases over time in VR simulation regardless of movement condition](cybersickness-increases-over-time-vr.md) — related
 - [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — related
+- [Approximately one quarter of XR-group participants reported cybersickness complaints](xr-cybersickness-complaints.md) — related

@@ -59,3 +59,5 @@ Psychometric analysis in Validation Study 1 (N = 99 teacher education and psycho
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
 - [The Vocabulary Knowledge Scale used in the pilot showed very high internal consistency (α = .96)](vks-reliability-alpha-96-pilot.md) — related
 - [The HSPNCS demonstrates excellent internal consistency (Cronbach's alpha 0.967)](hspncs-high-internal-consistency.md) — related
+- [The FOI test shows high internal consistency reliability (Cronbach's α = 0.89)](foi-test-internal-consistency-cronbach-alpha-089.md) — related
+- [The ICO-OCEX demonstrated high internal consistency with an overall Cronbach's alpha of 0.995](ico-ocex-internal-consistency-high-alpha.md) — related

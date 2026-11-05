@@ -45,7 +45,7 @@ A non-equivalent pre-test/post-test quasi-experiment with 100 Irongmara High Sch
 
 
 ## Related Claims
-- [ANOVA across the total sample favoured post-intervention outcomes of the multimedia programme](anova-favours-post-intervention-multimedia-environmental-outcomes.md) — a broader claim this one bears on
+- [Outcomes across the total sample rose from pre-test to post-test after the multimedia programme, in one pre-post study without a comparison group](anova-favours-post-intervention-multimedia-environmental-outcomes.md) — a broader claim this one bears on
 - [University students' environmental sustainability achievement scores rose significantly after the multimedia programme](multimedia-raises-university-students-environmental-sustainability-scores.md) — related
 - [Scheff multiple comparisons showed every post-programme mean significantly exceeded its pre-programme mean](scheff-post-means-exceed-pre-means-multimedia-programme.md) — a broader claim this one bears on
 - [No significant difference in achievement was found between school and university students after the programme](no-significant-difference-school-university-achievement-multimedia.md) — related

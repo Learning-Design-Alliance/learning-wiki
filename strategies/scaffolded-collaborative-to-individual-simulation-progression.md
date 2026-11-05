@@ -52,6 +52,7 @@ The article recommends that collaborative simulation "should not be restricted t
 - [Sequence interview training stepwise from AI-VPs to standardized patients to real patients](stepwise-ai-vp-to-standardized-to-real-patients.md)
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Sequence virtual simulation before authentic video across skill-development stages in teacher observation training](sequence-vs-then-av-teacher-training.md)
+- [Integrate simulation-based learning into interprofessional curricula to cultivate collaboration early in training](integrate-sbl-into-interprofessional-curricula.md)
 
 ## Examples
 -

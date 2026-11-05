@@ -49,3 +49,4 @@ Feasibility outcomes in the pilot randomized trial: recruitment of 52 of 140 inv
 - [Immediately after zone 1 training, competence did not differ significantly between groups despite 100% vs 84% competence](zone0-iv-cpr-competence-immediate-nonsignificant.md) — related
 - [73% of experimental students achieved CPR competence during the self-directed zone 0 interactive-video phase alone](zone0-self-directed-competence-acquisition.md) — related
 - [SVVR training is well tolerated, with only mild discomfort and no discontinuation due to adverse effects](svvr-training-well-tolerated-mild-discomfort.md) — related
+- [Eye-tracking-based VR feedback with simulated ED interruptions was feasible to implement in a pilot trial](eye-tracking-vr-feedback-feasibility-pilot.md) — related

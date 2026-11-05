@@ -105,7 +105,7 @@ Post-test comparison of overall integrated reading/writing skills between the ex
 ## Related Claims
 - [EFL students in the blended Blackboard course reported positive attitudes toward using discussion boards, blogs and wikis for integrated reading/writing](blackboard-cmc-positive-attitudes.md) — related
 - [Students identified peer interaction and writing outlet/access as the most positive features of the e-course tools](blackboard-cmc-part-c-features.md) — related
-- [Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
+- [The experimental group showed statistically significant pre-to-post achievement gains in the EFL teaching methods course after Blackboard-based instruction](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
 - [Blackboard-based blended teaching produced significantly higher academic achievement than traditional teaching, with η² = 0.75](blackboard-blended-teaching-achievement-eta-075.md) — related
 - [Blackboard-based instruction was more effective than traditional instruction in improving post-test achievement, with the experimental group outperforming the control group](blackboard-outperformed-traditional-instruction-posttest.md) — related
 - [Online instruction through the CMC-ELT blended model significantly improved MA TEFL students' teaching skills in Pakistan](online-instruction-improves-tefl-teaching-skills-pakistan.md) — related

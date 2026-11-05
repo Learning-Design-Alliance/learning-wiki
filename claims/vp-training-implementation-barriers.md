@@ -65,5 +65,5 @@ Focus group barrier theme on peer learning. Residents reported sessions "dominat
 
 ## Related Claims
 - [Reported barriers to immersive and VP-based communication training include limited authenticity of non-verbal interaction, unrealistic student perceptions, high institutional resource requirements, technical challenges, and scalability constraints](vp-communication-implementation-barriers-authenticity-resources.md) — related
-- [Physical examination and medical record writing scores did not improve significantly after the VP program (d = 0.28 and d = 0.26)](vp-training-no-gain-physical-exam-documentation.md) — related
+- [Physical examination and medical record writing scores did not change significantly from pre-test to post-test in one single-group pre-post study with no comparison group (d = 0.28 and d = 0.26)](vp-training-no-gain-physical-exam-documentation.md) — related
 - [Legal and technical issues are described as the main challenges of developing and using virtual patients](vp-challenges-legal-technical.md) — related

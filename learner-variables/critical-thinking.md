@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 181 claims (129 show a difference, 32 mixed, 20 no difference) · 119 studies (59 causal, 22 review, 12 associational, 8 quant-synthesis, 7 theoretical, 6 design, 5 qualitative), `q1`–`q3` · 25 of 119 report an effect size · 179 claims rest on one study
+> **Evidence** · 184 claims (132 show a difference, 32 mixed, 20 no difference) · 122 studies (61 causal, 22 review, 13 associational, 8 quant-synthesis, 7 theoretical, 6 design, 5 qualitative), `q1`–`q3` · 26 of 122 report an effect size · 182 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -57,7 +57,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Critical thinking is the dominant indirect pathway linking functional GenAI dependence with research creativity, accounting for approximately 85% of its total indirect effect](../claims/critical-thinking-dominant-indirect-pathway-functional-dependence.md) [+M] — learners who differ on it differ in outcomes
 - [Cross-sectional studies associate dependence-oriented conversational-AI scores with fatigue, lower critical thinking, procrastination, cognitive failures, and poorer well-being](../claims/cross-sectional-dependence-scores-correlate-fatigue-critical-thinking-wellbeing.md) [+M] — instruction changes it
 - [Cultivating AI intuition safeguards against technological overreliance and erosion of critical thinking (theoretical argument)](../claims/ai-intuition-safeguard-against-overreliance.md) [+W] — instruction changes it
-- [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](../claims/gcla-improves-hots.md) [+M] — instruction changes it
+- [Students using GCLA rated their higher-order thinking skills—critical thinking, problem-solving, and creativity—higher than students using traditional ChatGPT](../claims/gcla-improves-hots.md) [+W] — instruction changes it
 - [GenAI feedback literacy mediates the association between GenAI use and critical thinking, with near-complete mediation](../claims/genai-feedback-literacy-mediation-critical-thinking.md) [+M] — instruction changes it
 - [GenAI use is positively associated with university students' self-reported critical analytical skills (total effect)](../claims/genai-use-positive-association-critical-thinking-total-effect.md) [+M] — instruction changes it
 - [GenAI's effects on higher-order thinking are mixed: support for reflection and idea expansion alongside cognitive offloading and no overall innovativeness gain](../claims/genai-higher-order-thinking-mixed.md) [~M] — instruction changes it
@@ -202,7 +202,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [PBL teaching significantly improves the critical thinking skills of analysis and interpretation in English-major sophomores](../claims/pbl-improves-analysis-interpretation-skills.md) [+M] — instruction changes it
 - [PBL teaching significantly improves the critical thinking temperament dimensions of analysis, openness and justice in English-major sophomores](../claims/pbl-improves-analysis-openness-justice-temperament.md) [+M] — instruction changes it
 - [Reading comprehension and critical thinking skill gains are positively correlated in EFL learners](../claims/reading-comprehension-critical-thinking-correlated.md) [+M] — learners who differ on it differ in outcomes
-- [Learners report peer review fostered critical thinking in an EFL academic-writing course, with mixed answers on identifying proper academic writing](../claims/peer-review-critical-thinking-perception.md) [+W] — self-reported gains by participants who used peer review, with no comparison group
+- [Learners in an EFL academic-writing course reported positive responses on most critical-thinking indicators after peer review, with mixed answers on identifying proper academic writing](../claims/peer-review-critical-thinking-perception.md) [+W] — self-reported gains by participants who used peer review, with no comparison group
 - [Post-test critical thinking differences by early math skill level favor the RME group at every early math skill level](../claims/rme-critical-thinking-by-early-math-skills.md) [+M] — instruction changes it
 - [The gain (enhancement) in critical mathematical thinking skills is larger under culture-based RME than under conventional education](../claims/rme-culture-based-larger-critical-thinking-gain.md) [+M] — instruction changes it
 - [Critical thinking and engagement were positively correlated in online discussion activity](../claims/critical-thinking-engagement-positive-correlation.md) [+M] — learners who differ on it differ in outcomes
@@ -222,6 +222,9 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Post-earthquake conditions were perceived to positively affect critical thinking skills, dominated by gaining a different perspective](../claims/post-earthquake-positive-ct-effects.md) [+M] — measured as an outcome of the instruction studied
 - [Digital RPP improves critical thinking disposition more than traditional group practice](../claims/rpp-digital-platform-critical-thinking-gains.md) [+W] — measured as an outcome of the instruction studied
 - [Dimension-specific skill effects: RPP favored material preparation, operational skills, humanistic care, and critical thinking, but not patient assessment or general evaluation](../claims/rpp-dimension-specific-skill-effects.md) [+W] — measured as an outcome of the instruction studied
+- [Higher critical thinking scores predict membership in higher medication safety competence profiles](../claims/critical-thinking-predicts-medication-safety-competence-profile.md) [+M] — learners who differ on it differ in outcomes
+- [Scenario-based simulation ward rounds combined with video feedback improve critical thinking disposition in gastroenterology residents](../claims/simulation-ward-rounds-video-feedback-improve-critical-thinking.md) [+M] — measured as an outcome of the instruction studied
+- [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](../claims/debriefing-higher-critical-thinking-disposition.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

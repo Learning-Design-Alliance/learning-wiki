@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Simulation-based training with the Snaid® extrication device significantly improves checklist-assessed procedural performance across all observed parameters
-description: Simulation-based training with the Snaid® extrication device significantly improves checklist-assessed procedural performance across all observed parameters
+title: Checklist-assessed procedural performance was higher at post-test than pre-test across all observed parameters in one group with no comparison group after simulation-based training with the Snaid® extrication device
+description: Checklist-assessed procedural performance was higher at post-test than pre-test across all observed parameters in one group with no comparison group after simulation-based training with the Snaid® extrication device
 id: snaid-simulation-training-improves-procedural-checklist
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Simulation-based training with the Snaid® extrication device significantly improves checklist-assessed procedural performance across all observed parameters
+# Checklist-assessed procedural performance was higher at post-test than pre-test across all observed parameters in one group with no comparison group after simulation-based training with the Snaid® extrication device
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Statistically significant pre-post improvements were found across all checklist items, including performing XABCDE before placing the device (34% to 100%), aligning the central mark with the chin (57.1% to 98.1%), and performing XABCDE after extrication (22.4% to 100%) (all p < 0.001). [→ Segura-Fornieles 2026](#segura-fornieles-2026)
+`q2 i?` Performance on all checklist items was higher at post-test than at pre-test in one group with no comparison group, including performing XABCDE before placing the device (34% to 100%), aligning the central mark with the chin (57.1% to 98.1%), and performing XABCDE after extrication (22.4% to 100%) (all p < 0.001). [→ Segura-Fornieles 2026](#segura-fornieles-2026)
 
 ## Evidence
 
@@ -46,10 +46,10 @@ One-group pretest-posttest study (N = 156); procedural performance assessed with
 
 ## Related Claims
 - [All participating students completed 100% of simulation checklist items, supporting feasibility of the program.](simulation-checklist-completion-feasibility.md) — related
-- [Simulation-based training with the Snaid® extrication device significantly improves knowledge of device use among military personnel](snaid-simulation-training-improves-knowledge.md) — related
+- [Knowledge scores rose significantly from pre-test to post-test among military personnel after simulation-based training with the Snaid® extrication device, in one uncontrolled pre-post study](snaid-simulation-training-improves-knowledge.md) — related
 - [Simulation-based training with the Snaid® extrication device significantly reduces extrication time from the Leopard 2E tank](snaid-simulation-training-reduces-extrication-time.md) — related
 - [Simulation-based training with the Snaid® extrication device significantly improves self-efficacy among military personnel](snaid-simulation-training-improves-self-efficacy.md) — related
-- [Simulation-based training with the Snaid® extrication device significantly improves skill, confidence, and comfort among military personnel](snaid-simulation-training-improves-skill-confidence.md) — related
-- [Simulation-based training with the Snaid® extrication device significantly improves ability to teach others, readiness to use the device, and willingness to recommend it](snaid-simulation-training-improves-teach-readiness-recommend.md) — related
+- [Military personnel's self-rated skill, confidence and comfort with the Snaid® extrication device rose from pre-test to post-test after simulation-based training, in one uncontrolled pre-post study](snaid-simulation-training-improves-skill-confidence.md) — related
+- [Ability to teach others, readiness to use, and willingness to recommend the Snaid® extrication device rose from pre-test to post-test after simulation-based training in one uncontrolled pre-post study](snaid-simulation-training-improves-teach-readiness-recommend.md) — related
 - [Turret position moderates specific checklist items at post-test, favoring turret 12](snaid-turret-position-checklist-items.md) — related
 - [No significant improvement in procedural checklist scores was observed](rcdp-simulation-no-checklist-score-improvement.md) — reports the opposite

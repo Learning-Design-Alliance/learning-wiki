@@ -51,8 +51,8 @@ Three-time-point CLMM on the Repeated Reasoning dataset with polynomial contrast
 
 ## Related Claims
 - [Ability to Reason (SMP 2) benchmark levels improved linearly across all three time points (d ≈ 0.78) with no significant quadratic trend](mindsets-smp2-linear-trend.md) — related
-- [Students showed a large, statistically significant pre-to-post improvement in ability to reason (SMP 2) in the Mindsets program (d ≈ 1.20)](mindsets-smp2-pre-post-improvement.md) — related
-- [Students showed a large, statistically significant pre-to-post improvement in repeated reasoning (SMP 8) in the Mindsets program (d ≈ 1.19)](mindsets-smp8-pre-post-improvement.md) — related
+- [Students showed a large, statistically significant rise in Ability to Reason (SMP 2) scores from pre-test to post-test in one uncontrolled pre-post study of the Mindsets program (d ≈ 1.20)](mindsets-smp2-pre-post-improvement.md) — related
+- [In one uncontrolled pre-post study, students' Repeated Reasoning (SMP 8) scores rose from pre-test to post-test after the Mindsets program (d ≈ 1.19; statistically significant, large)](mindsets-smp8-pre-post-improvement.md) — related
 - [Engagement peaked at the middle of the Mindsets program and declined slightly by post-test, showing a significant negative quadratic trend](mindsets-engagement-peaks-midpoint.md) — related
 - [Students showed a large, statistically significant increase in engagement from pre- to post-intervention in the 5-week Mindsets program (d ≈ 1.11)](mindsets-engagement-pre-post-increase.md) — related
 - [Non-linear (Goldilocks) effects of expectations and aspirations on outcomes are small and largely non-significant](goldilocks-effect-not-supported-expectations.md) — related

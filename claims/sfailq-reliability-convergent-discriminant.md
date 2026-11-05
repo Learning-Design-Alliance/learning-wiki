@@ -55,3 +55,4 @@ Reliability and validity analysis in Sample 2 (N = 1226): Cronbach's alphas all 
 - [All eight SAICS dimensions showed high internal consistency (Cronbach's alpha ≥ 0.89), high factor loadings (0.76–0.96), and convergent validity (inter-dimension correlations r > 0.34)](saics-reliability-convergent-validity.md) — related
 - [Correlations between socioemotional skills dimensions are statistically significant and mostly high, ranging from 0.91 to 0.17, with Problem Solving most correlated with other dimensions](socioemotional-dimension-correlations-range-091-to-017.md) — related
 - [The three measurement instruments show acceptable reliability and validity in this sample](measurement-model-cfa-reliability-validity.md) — related
+- [The study's two-dimensional self-confidence scale shows high internal consistency (Cronbach's alpha > 0.80) across all three measurement time points](endodontic-confidence-scale-high-internal-consistency.md) — related

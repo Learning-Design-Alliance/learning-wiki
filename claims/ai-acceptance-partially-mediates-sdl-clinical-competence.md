@@ -51,3 +51,4 @@ SEM mediation analysis using AMOS with a 95% confidence interval for the indirec
 - [The mediation model accounts for 51.0% of the variance in perceived clinical competence](model-explains-51-percent-variance-clinical-competence.md) — related
 - [Self-directed learning, AI acceptance, and perceived clinical competence are mutually positively correlated](sdl-ai-acceptance-competence-correlations-nursing.md) — related
 - [Self-directed learning ability is positively associated with perceived clinical competence among nursing students](sdl-associated-with-perceived-clinical-competence-nursing.md) — related
+- [AI trust partially mediates the relationship between AI uncertainty and AI competence among nurses](ai-trust-partially-medaiates-aiu-aic-nurses.md) — related
