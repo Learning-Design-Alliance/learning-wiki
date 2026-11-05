@@ -54,3 +54,4 @@ Finding from the PAs' activities theme in the interview study: teachers describe
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
 - [Classroom deployments report faster help and higher perceived understanding when assistance emphasizes explanation, pseudocode, and staged hints while withholding final solutions by default](tutoring-deployment-outcome-signals.md) — related
 - [Students perceived group scaffolding as helpful for initiating solution pathways on non-routine problems](students-perceive-group-scaffolding-initiation-help.md) — related
+- [Tutoring developed tutors' problem-solving, critical thinking, communication and patience skills and shaped career aspirations toward education roles](tutor-skill-development-peer-tutoring-nursing.md) — related

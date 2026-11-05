@@ -66,3 +66,6 @@ Focus-group findings (Further development theme, 11 codes). Teachers cited Wi-Fi
 - [VM users cited internet access and its cost as the main obstacles to using virtual microscopy](vm-users-internet-cost-obstacles.md) — related
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
 - [First-year AI simulation deployment faced operational challenges: unstable Wi-Fi disrupted sessions, background noise interfered with speech recognition, and missing dynamic nonverbal cues reduced realism](ai-sim-operational-challenges-uae.md) — related
+- [VR training imposed cognitive load on medical students through divided attention, physical effects, and a need for clearer guidance and familiarization](vr-training-cognitive-load-divided-attention.md) — related
+- [Medical students reported system usability barriers to VR training involving headset accessibility, technical issues, and limited scenario variability](vr-training-usability-barriers-medical-students.md) — related
+- [External and internal barriers, including cybersickness, logistics, workload and lack of time, limited residents' use of VR simulation](barriers-limit-residents-vr-use.md) — related

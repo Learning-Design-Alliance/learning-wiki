@@ -51,3 +51,4 @@ Binary logistic regression predicting good knowledge among 400 dentists, adjuste
 - [Recent workshop attendance predicts confidence in performing CPR (aOR = 6.93), while male dentists report lower confidence (aOR = 0.59)](workshop-and-gender-predict-cpr-confidence.md) — related
 - [Clinical emergency readiness in surveyed dental clinics is low: 44.5% report an emergency protocol and only 7.5% report an available AED](low-clinic-emergency-readiness-dentists.md) — related
 - [Prior hypertension training (AOR = 2.6) and more than 10 years' experience (AOR = 1.8) independently predicted good knowledge among PHC workers](training-and-experience-predict-hypertension-knowledge.md) — related
+- [Prior ECG training is the only independent predictor of adequate ECG knowledge after adjustment](prior-ecg-training-predicts-adequate-knowledge.md) — a narrower finding that bears on this claim

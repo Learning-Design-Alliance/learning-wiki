@@ -26,7 +26,8 @@ This framework pairs a model explainer with unsupervised learning to reveal hete
 - [Subgroup membership predicted distinct long-term literacy trajectories 68.2 months after intervention ended](../claims/subgroup-membership-predicts-long-term-literacy.md) [+M]
 
 ## Related Research Methods
--
+
+- [Person-centered (cluster) analysis](person-centered-cluster-analysis.md)
 
 ## Key Sources
 - Tan, A.S.-C., & Ali, F. (2026). Uncovering subgroup heterogeneity in dyslexia intervention outcomes using explainable machine learning. npj Science of Learning. https://doi.org/10.1038/s41539-026-00429-3

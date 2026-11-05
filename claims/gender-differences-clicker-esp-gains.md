@@ -71,3 +71,4 @@ Wilcoxon Signed Rank Tests by gender within the experimental group: males improv
 - [Gender was not a determining factor in FACT efficacy, although only males showed a significant pre-to-post gain](gender-not-determining-factor-facts.md) — related
 - [In the task-based ESP class, male learners significantly outperformed female learners on the technical vocabulary post-test](male-outperform-female-tblt-vocabulary.md) — related
 - [Female students scored significantly higher than males on several post-test competency domains despite no pre-test gender differences](sbl-gender-differences-post-test-females-higher.md) — related
+- [In the traditional-instruction control group, male students' scores rose significantly from pre-test to post-test, while female students' scores did not change significantly](control-group-gender-reversal-traditional-instruction.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2013
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: zousel-2013
     resource: "https://eric.ed.gov/?id=EJ1070469"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2013 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The control group was initially receptive to bibliotherapy but excitement diminished markedly over lessons two through four, while cartoon-condition students were engaged from beginning to end. [→ Zousel 2013](#zousel-2013)

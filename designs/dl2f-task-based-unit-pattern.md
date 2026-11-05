@@ -47,6 +47,7 @@ DL2F organizes instruction into task-based learning units embedded in the existi
 ## Related Designs
 
 - [Language-embedded, project-based college-preparatory curriculum integrating content and language objectives](content-language-integration-bricks-and-mortar.md)
+- [PBL-integrated research training course built on four sequential projects with distinct assessments](pbl-four-sequential-projects-course-pattern.md)
 
 ## Related Patterns
 - 

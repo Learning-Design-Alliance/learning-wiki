@@ -48,6 +48,7 @@ The review concludes there is some evidence to recommend mental practice — men
 ## Related Strategies
 
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
+- [Mental skills training (mental imagery rehearsal of procedural steps) as a component of training for high-stakes clinical procedures](mental-skills-training-rehearses-procedural-steps.md)
 
 ## Examples
 -

@@ -48,3 +48,5 @@ Same comparative study with historical controls, analyzed with the Mann-Whitney 
 - [Students taught with integrated Rain Classroom and CBL scored significantly higher on subjective questions than students taught with traditional lectures](rain-classroom-cbl-higher-subjective-scores.md) — related
 - [Total exam scores did not differ significantly between students taught with integrated Rain Classroom/CBL and traditional lectures](rain-classroom-cbl-no-total-score-difference.md) — related
 - [The integrated Rain Classroom/CBL approach shifted learning emphasis toward deeper conceptual understanding potentially at the expense of rote memorization](rain-classroom-cbl-shifted-learning-emphasis.md) — related
+- [The BOPPPS-Rain Classroom group showed markedly higher classroom participation than the traditional lecture group](boppps-rain-classroom-higher-class-participation.md) — related
+- [Fifth-year medical students taught with BOPPPS combined with Rain Classroom scored significantly higher on a nephrology final examination than students taught by traditional lecture](boppps-rain-classroom-higher-nephrology-exam-scores.md) — reports the opposite

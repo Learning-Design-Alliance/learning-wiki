@@ -60,3 +60,4 @@ Quasi-experimental study of 50 gynecology residents assigned to PBL-CBL or tradi
 - [AI-assisted PBL-CBL combined teaching raises medical interns' theoretical examination scores in post-herpetic neuralgia compared with lecture-based teaching](ai-pbl-cbl-improves-theoretical-examination-scores.md) — a narrower finding that bears on this claim
 - [AI-assisted CBL+FC residents significantly outperform lecture-based controls on post-course theoretical knowledge tests](ai-assisted-cbl-fc-higher-theoretical-scores.md) — related
 - [The PBL-CBL group outperformed the traditional group on every post-course test section: basic knowledge, clinical case analysis, and operation practice](pbl-cbl-better-all-test-sections.md) — a broader claim this one bears on
+- [Students taught with 3D-PBL-annotation teaching score significantly higher on subjective case-analysis questions than students taught by traditional lectures](3d-pbl-annotation-higher-case-analysis-scores.md) — related

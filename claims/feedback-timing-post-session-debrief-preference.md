@@ -60,3 +60,4 @@ Formative interview finding on feedback timing: a participant stated "Do not int
 - [Immediate explanatory feedback prevents consolidation of erroneous concepts in interactive tutoring](immediate-explanatory-feedback-prevents-error-consolidation.md) — related
 - [CHW trainees value real-time SP feedback and debriefing for refining MI techniques and deepening learning](chws-value-sp-feedback-and-debriefing-in-mi-simulation-training.md) — related
 - [Physicians expressed a strong desire for immediate real-time procedural feedback with structured debriefing](physicians-desire-real-time-structured-cvc-feedback.md) — reports the opposite
+- [Medical students valued debriefing sessions after VR training as key opportunities for reflection and consolidating learning](debriefing-valued-reflection-consolidation-vr.md) — related

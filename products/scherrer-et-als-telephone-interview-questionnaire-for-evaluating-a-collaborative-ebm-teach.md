@@ -26,7 +26,8 @@ A piloted 23-item telephone-interview questionnaire created by Scherrer and coll
 - [A twenty-three-question telephone-interview questionnaire evaluating a librarian-faculty EBM teacher training collaboration may form a basis for developing TTT assessment tools](../claims/scherrer-questionnaire-basis-ttt-assessment-tool.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Adapted four-domain EBM questionnaire (Hasabo et al.)](adapted-four-domain-ebm-questionnaire-hasabo-et-al.md)
 
 ## Key Sources
 - Walczak Jacek, Kaleta Anna, Gabryś Elżbieta, Kloc Krzysztof, Thangaratinam Shakila, Barnfield Gemma, Weinbrenner Susanne, Meyerrose Berit, Arvanitis Theodoros N, Horvath Andrea R, Zanrei Gianni, Kunz Regina, Suter Katja, Burnand Bernard, Arditi Chantal, Oude Rengerink Katrien, Harry Gee, Mol Ben WJ, Khan Khalid S. (2010). How are "teaching the teachers" courses in evidence based medicine evaluated? A systematic review. BMC Medical Education. https://doi.org/10.1186/1472-6920-10-64

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2015
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: tsompanoudi-et-al-2015
     resource: "https://doi.org/10.15388/infedu.2015.17"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The average difference in contribution rates within pairs was 0.243 for the control group and 0.165 for the experimental group, but the difference between conditions was not statistically significant (p > 0.05). [→ Tsompanoudi et al. 2015](#tsompanoudi-et-al-2015)

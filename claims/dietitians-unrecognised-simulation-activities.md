@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 recheck_by: 2031
 sources:
   - id: a-power-2026
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In interviews with 15 Irish registered dietitians, while 60% of participants were unfamiliar with the term SBE beforehand, 93% described previous experience with simulation activities, many participants not recognising lower-fidelity activities such as role-play or scenario-based discussions as simulation. The finding is from a qualitative interview sample and is not an estimate for dietitians generally. [→ A. Power 2026](#a-power-2026)

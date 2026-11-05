@@ -50,3 +50,4 @@ The statement cites a meta-analysis of 12 medical simulation studies comparing p
 - [Virtual reality training reduces intraoperative error counts compared with no additional training in laparoscopic cholecystectomy](vrt-reduces-intraoperative-errors-versus-nat.md) — related
 - [Virtual simulations and mannequins or real persons show no significant difference in improving procedural skills, with a conclusive trial sequential analysis result](vs-mannequin-rp-no-difference-procedural-skills.md) — related
 - [In CRT training, proficiency-based progression demonstrated superiority over traditional simulation in which proficiency benchmarks were optional](pbp-superiority-crt-training.md) — a narrower finding that bears on this claim
+- [Time to reach proficiency rises progressively as training deviates from full PBP methodology](training-time-rises-as-pbp-adherence-declines.md) — a narrower finding that bears on this claim

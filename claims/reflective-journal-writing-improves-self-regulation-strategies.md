@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: nawar-m-al-rawahi-sulaiman-m-al-balushi-2015
     resource: "https://eric.ed.gov/?id=EJ1069260"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After an eight-week intervention, the journal-writing experimental group scored significantly higher than the control group on the overall self-regulation strategies measure (ANCOVA controlling for pre-test). [→ Nawar M. Al-Rawahi & Sulaiman M. Al-Balushi 2015](#nawar-m-al-rawahi-sulaiman-m-al-balushi-2015)

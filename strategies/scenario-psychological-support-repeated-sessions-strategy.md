@@ -50,6 +50,7 @@ The authors' forward-looking recommendations from the discussion and conclusion:
 - [Spread simulation scenarios across multiple sessions, provide preparatory materials in advance, assign structured observer roles, and increase direct participation](ccs-session-design-improvement-strategy.md)
 - [Incorporate SPS combined with online CBL into pediatric surgical training to enhance preparedness and well-being](incorporate-sps-online-cbl-training-strategy.md)
 - [Prioritise consistent methodologies and studies of stress-reduction interventions in future simulation stress research](future-research-stress-reduction-interventions-simulation.md)
+- [Schedule repeated simulation sessions across the psychiatric attachment and extend the program to other clinicians](repeated-psychiatric-simulation-sessions-strategy.md)
 
 ## Examples
 -

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 recheck_by: 2030
 sources:
   - id: pereira-dauster-souza-pereira-priscilla-perez-da-silva-2025
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Internet access and trust in health information were identified as the main barriers to self-directed learning. [→ Pereira Dauster Souza; Pereira Priscilla Perez da Silva 2025](#pereira-dauster-souza-pereira-priscilla-perez-da-silva-2025)

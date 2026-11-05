@@ -48,3 +48,4 @@ Prospective mixed-methods pilot with pre/post OSCE scores analyzed by Wilcoxon s
 - [MEET remediation cohort showed significant overall OSCE improvement after AI virtual patient use](aivp-meet-cohort-significant-osce-gain.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on
 - [Learner self-reported improvement after AI-generated virtual patient training is sometimes discordant with observed or cohort-comparison performance](ai-virtual-patient-self-report-performance-discordance.md) — related
+- [Diagnosis, treatment planning, and patient counseling scores rose from pre-test to post-test after informed AI use, in one uncontrolled pre-post study](ai-informed-gains-across-three-skill-domains.md) — reports the opposite

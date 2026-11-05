@@ -50,3 +50,4 @@ Single moderator analyses (not meta-regression, due to insufficient eligible stu
 - [Screening tools in the Three Tier model show a moderate pooled correlation with academic achievement outcomes (r = .51), with very high heterogeneity](screening-pooled-correlation-r51-three-tier.md) — related
 - [Very few studies (18 of 127) provide validity data for screening tools used in tier assignment, and none test whether screening itself improves achievement](few-studies-assess-screening-validity.md) — related
 - [Sensitivity and specificity of Three Tier screening tools vary widely, and no studies report language-domain-only accuracy](screening-sensitivity-specificity-vary-widely.md) — related
+- [Cognitive and academic performance correlate moderately in this adolescent sample](cognition-grades-moderate-correlation.md) — related

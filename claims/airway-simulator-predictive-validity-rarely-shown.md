@@ -56,3 +56,5 @@ Narrative synthesis of the 17 included studies in the systematic review. Both pr
 - [Low-cost simulation studies in nursing most frequently target specific clinical competencies (79.5%), with obstetric and neonatal emergency management the single largest group](scoping-review-low-cost-simulation-competency-coverage.md) — related
 - [Aerosol boxes increased time to intubation and posed higher risk of hypoxia in COVID-19 airway management simulations](aerosol-box-increased-intubation-time-hypoxia-risk.md)
 - [Just-in-time e-learning boosters immediately before procedures improved neonatal intubation knowledge and some performance measures](jit-elearning-booster-improves-intubation-knowledge-performance.md) — related
+- [Daily simulation practice before shifts improved first-pass intubation rates in a retrieval service, with the significant gain in neonatal patients](frequent-mannequin-practice-improves-first-pass-intubation.md) — reports the opposite
+- [Just-in-time simulation training immediately before the procedure improves first-attempt intubation success and reduces attempt duration](jitt-improves-first-attempt-intubation-success.md) — related

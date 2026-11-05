@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: sirpa-kärkkäinen-2014
     resource: "https://eric.ed.gov/?id=EJ1129505"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a six-hour medicine education intervention, the scaffolded group (Google Sites case and presentation templates) was quite effective in searching for information for their presentation, whereas the unscaffolded group (Word documents only) had difficulties finding relevant information. [→ Sirpa Kärkkäinen 2014](#sirpa-karkkainen-2014)

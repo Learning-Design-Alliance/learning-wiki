@@ -52,3 +52,5 @@ In the randomized trial's standardized assessment, the simulation group's median
 - [Both training groups improve abdominal image identification but simulation group scores higher post-training](both-groups-improve-abdominal-image-identification-sim-higher.md) — related
 - [Simulation-based teaching reduces the time required to complete venipuncture and arterial blood gas sampling compared with traditional teaching](simulation-reduces-procedure-completion-time.md) — a broader claim this one bears on
 - [Residents rated the pork-based model higher in fidelity and satisfaction than the silicone model, with no difference in operational difficulty](pork-model-higher-fidelity-satisfaction-than-silicone.md) — related
+- [Simulation-based and traditional training produce no statistically significant differences in ultrasound-guided nerve identification success rates across most anatomical approaches](husp-simulation-no-success-rate-difference.md) — reports the opposite
+- [Procedure times were similar between simulation and traditional groups across most nerve block approaches](procedure-times-similar-most-approaches.md) — related

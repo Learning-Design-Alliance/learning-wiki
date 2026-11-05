@@ -53,3 +53,4 @@ Meta-analysis of four RCTs (N = 274) found "3D + PBL teaching led to higher teac
 - [3D + PBL improves teaching interest in orthopedic education](3d-pbl-improves-teaching-interest-orthopedics.md) — related
 - [3D + PBL improves learning motivation in orthopedic education](3d-pbl-improves-learning-motivation.md) — related
 - [3D + PBL improves theoretical scores in orthopedic education](3d-pbl-improves-theoretical-scores-orthopedics.md) — related
+- [Students in the 3D-PBL-annotation group report higher satisfaction with learning motivation, academic atmosphere, teacher-student interaction, and knowledge absorption](3d-pbl-annotation-higher-satisfaction.md) — a narrower finding that bears on this claim

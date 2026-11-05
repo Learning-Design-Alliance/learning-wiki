@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2020
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: nurhan-aktaş-hayati-akyol-2020
     resource: "https://doi.org/10.29329/ijpe.2020.248.20"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2020 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Limiting students' choice of digital applications constrained the autonomy need and lowered motivation. [→ Nurhan Aktaş & Hayati Akyol 2020](#nurhan-aktas-hayati-akyol-2020)

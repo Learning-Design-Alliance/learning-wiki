@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 recheck_by: 2031
 sources:
   - id: zhang-guoyong-2026
@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students called for VS technology optimization: enhanced scenario diversity, improved realism and immersion, flexible training content matched to individual skill levels, and multilingual support beyond English. [→ Zhang Guoyong 2026](#zhang-guoyong-2026)
@@ -71,3 +71,4 @@ Synthesized case-optimization finding; one student suggested a ward environment 
 - [A JBI meta-synthesis of 17 qualitative studies integrates nursing students' virtual simulation experiences into nine categories and four synthesized findings](vs-teaching-meta-synthesis-four-findings.md) — a broader claim this one bears on
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
 - [Participants identified five categories of educational needs: training methods, content, objectives, institutional and policy support, and other specific requirements](fgi-five-educational-needs-categories.md) — related
+- [First-year residents describe VR simulation as a safe and flexible learning tool for training in emergency care](residents-perceive-vr-safe-flexible-emergency-care.md) — related

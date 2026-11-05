@@ -44,6 +44,7 @@ The review recommends expanding scenario diversity beyond the psychiatric and ch
 ## Related Strategies
 
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
+- [Develop a wider variety of CCS covering diverse oral diseases and transition to mobile platforms to broaden access](expand-ccs-disease-variety-mobile-platforms.md)
 
 ## Examples
 -

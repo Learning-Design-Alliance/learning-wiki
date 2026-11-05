@@ -49,3 +49,4 @@ A quasi-experimental study of 120 7th-grade students in two Turkish secondary sc
 - [ICT-supported teaching improved pupils' attitudes toward ICT but not their attitudes toward social studies](ict-treatment-attitude-effects-split.md) — related
 - [Standard IX students taught with an interactive multimedia learning package show significantly higher post-test attitude towards mathematics than students taught by the traditional method](multimedia-package-higher-posttest-attitude-mathematics.md) — related
 - [Both groups showed statistically significant improvements in attitudes toward mathematics from pre-test to post-test](both-groups-attitude-gains-significant.md) — related
+- [All three instructional groups showed significant pre- to post-class quiz improvements with no statistically significant between-group difference in knowledge gains](equal-quiz-gains-across-srp-teaching-groups.md) — related

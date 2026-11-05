@@ -25,7 +25,8 @@ A microsurgical simulator platform from Digital Surgicals Pte Ltd that supports 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [A-LAP mini simulator](a-lap-mini-simulator.md)
 
 ## Key Sources
 - Velásquez‐Plata D, Burkhardt R. (2026). Deliberate practice: The cornerstone of microsurgical therapy. Clinical Advances in Periodontics. https://doi.org/10.1002/cap.70055

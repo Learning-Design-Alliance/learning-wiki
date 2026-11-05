@@ -70,3 +70,4 @@ Same mediation analysis: the direct association between digital competence and a
 - [Perceived warmth and perceived competence partially mediate the negative association between GenAI use and interpersonal trust](warmth-competence-partially-mediate-genai-trust.md) — related
 - [Perceived employability partially mediates the relationship between AI employment threat perception and career decision-making anxiety](employability-partially-mediates-ai-threat-anxiety.md) — related
 - [Core self-evaluations partially mediate the relationship between career adapt-abilities and AI anxiety](core-self-evaluations-partially-mediate-adaptabilities-ai-anxiety.md) — related
+- [Depression partially mediates the relationship between social media use and academic performance among Ghanaian tertiary students](depression-partially-mediates-social-media-academic-performance.md) — related

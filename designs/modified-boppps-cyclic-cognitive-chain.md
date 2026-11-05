@@ -41,7 +41,8 @@ The article contrasts the traditional BOPPPS framework's linear sequence of "kno
 - [Modified Boppps Experiential Anchor Model](modified-boppps-experiential-anchor-model.md) [+M]
 
 ## Related Designs
-- 
+
+- [Tripartite Framework of perioperative clinical reasoning (patient-, surgery-, and anaesthetic-related factors)](tripartite-framework-perioperative-clinical-reasoning.md)
 
 ## Examples
 -

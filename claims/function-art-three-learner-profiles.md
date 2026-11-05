@@ -60,3 +60,4 @@ Cluster analysis of 400 artworks using HCPC (PCA, Ward's linkage, k-means refine
 - [A K-means clustering of students based on pre- and post-project SDG knowledge identifies three distinct learning profiles, with the largest cluster showing the greatest knowledge gain.](k-means-three-sgc-learning-clusters.md) — related
 - [K-means clustering of LMS log data identified two distinct SRL profiles (high and low) among online students](two-srl-profiles-from-lms-log-clustering.md) — related
 - [Cluster analysis of consumption behaviour and attitude identified four consumption groups among the eighth graders](four-consumption-groups-cluster-analysis.md) — related
+- [Cluster analysis identified four medical student subgroups with significantly different final exam scores, ranging from 75.1 to 85.8](four-academic-performance-profiles-medical-students.md) — related

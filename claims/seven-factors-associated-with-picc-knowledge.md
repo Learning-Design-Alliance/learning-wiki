@@ -57,3 +57,4 @@ Multiple linear regression on the full sample of 3528 nurses with variables sele
 - [Higher education, senior job grade, and acute-care employment independently predict sepsis knowledge (R² = 0.156)](education-grade-setting-predict-sepsis-knowledge.md) — related
 - [PHTLS training is the strongest independent predictor of passing the knowledge test after adjustment](phtls-training-strongest-predictor-passing.md) — related
 - [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related
+- [KAP scores vary across demographic and professional characteristics (age, experience, education, employment type, hospital grade, event experience) in unadjusted analyses](kap-demographic-subgroup-variation.md) — related

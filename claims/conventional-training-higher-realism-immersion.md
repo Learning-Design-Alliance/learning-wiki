@@ -68,3 +68,7 @@ Primary outcome domain C in the within-participants comparison of 20 students; W
 - [Synthetic models ranked a high median tactile realism (4 out of 5) compared to other model types and were rated most convenient for remote training](synthetic-models-high-tactile-realism-convenient-remote.md) — related
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — reports the opposite
 - [Students perceived that HoloLens increased engagement, but immersion was fragile and contingent on technical reliability and physical comfort](hololens-engagement-fragile-immersion.md) — related
+- [Medical students rated the standardized patient unit significantly higher than the VR unit on estimated learning success](sp-unit-higher-estimated-learning-success-than-vr.md) — related
+- [Students reported significantly higher motivation during the standardized patient unit than during the VR unit](sp-unit-higher-motivation-than-vr.md) — related
+- [Diagnostic accuracy did not differ between the VR and standardized patient units despite lower subjective ratings for VR](diagnostic-accuracy-similar-vr-and-sp-units.md) — related
+- [Standardized patients were rated significantly more believable than virtual patients on behavior, emotion, and overall subscales](sp-higher-believability-than-virtual-patients.md) — related

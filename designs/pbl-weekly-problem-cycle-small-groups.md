@@ -48,6 +48,7 @@ The article describes a reusable weekly PBL cycle for computer courses: the lect
 - [Four-step Physics problem-based learning cycle used for classroom assessment in both conditions](four-step-physics-pbl-cycle.md)
 - [Well-structured PS course design pattern: problem-led lectures integrated with guided practice labs](problem-led-lecture-lab-integration.md)
 - [Constructivist group projects structured across three weeks with mixed-ability groups](three-week-constructivist-group-project-cycle.md)
+- [PBL-integrated research training course built on four sequential projects with distinct assessments](pbl-four-sequential-projects-course-pattern.md)
 
 ## Examples
 -

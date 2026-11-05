@@ -9,7 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: weak
 newest_evidence: 2022
-source_checked: 2026-10-23
+source_checked: 2026-11-05
 sources:
   - id: grace-kim-young-suk-graham-steve-2022
     resource: "https://doi.org/10.1037/edu0000564"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Reading comprehension mediated the relations of discourse oral language and lexical literacy to writing quality, with mediation differing between the two predictors. [→ Grace Kim Young-Suk & Graham Steve 2022](#grace-kim-young-suk-graham-steve-2022)

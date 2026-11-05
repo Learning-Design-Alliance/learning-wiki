@@ -85,3 +85,4 @@ Open questions include how much teacher modeling is optimal before handover, how
 - [A meta-analysis cited as background found reciprocal teaching effects of 0.32 SD on reading tests and 0.88 SD on experimenter-developed tests](reciprocal-teaching-meta-analysis-background-effects.md) — possibly the same claim (merge candidate)
 - [Reading strategies deployed by trained learners are those linked with effective readers, while untrained learners show beginner-reader strategies](strategy-training-shifts-reading-strategies.md) — related
 - [Reciprocal teaching shows a very high effect size of ES = 0.74 on student learning](reciprocal-teaching-high-effect-size.md) — related
+- [A reciprocity cycle in which past attendees become student-teachers sustains the peer teaching community over time](giving-back-cycle-sustains-peer-teaching-community.md) — related

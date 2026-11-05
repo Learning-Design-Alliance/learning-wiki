@@ -56,3 +56,4 @@ Robustness check in which 3 LLMs each scored all 167 dialogues 4 times under the
 - [Anchored judge prompts restore score discrimination and raise the reward's agreement with independent human ratings (Spearman ρ 0.672→0.741)](judge-anchoring-raises-human-agreement.md) — related
 - [LLM evaluators converged on agent rankings but differed markedly in leniency and discrimination](llm-evaluators-leniency-ceiling-effects.md) — possibly the same claim (merge candidate)
 - [Brief written rubric-based assessments may have limited sensitivity to detect incremental effects of serious-game add-ons due to potential ceiling effects](brief-rubric-assessment-limited-sensitivity-ceiling.md) — related
+- [Published evidence suggests LLM scoring can outperform standardized patient scoring on rubric-scored written notes, but generalizability remains open](llm-scoring-lower-incorrect-rate-than-sp.md) — related

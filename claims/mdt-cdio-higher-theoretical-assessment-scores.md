@@ -53,3 +53,5 @@ Prospective randomized controlled study of 60 orthopedic interns randomized 1:1 
 - [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
 - [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — related
 - [AI-assisted peer teaching improves postintervention orthopedic knowledge scores](ai-assisted-peer-teaching-improves-knowledge.md) — related
+- [MDT-CBL interns scored numerically higher than traditionally taught interns on a urology knowledge test, but the difference was not statistically significant](mdt-cbl-knowledge-test-null-pilot.md) — related
+- [Breast surgery interns taught with combined sandwich-case teaching scored higher on theoretical, practical, and comprehensive assessments than interns taught with traditional teaching](sandwich-case-teaching-higher-assessment-scores-breast-surgery.md) — related

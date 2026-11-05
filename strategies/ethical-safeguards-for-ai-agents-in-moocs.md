@@ -51,6 +51,7 @@ The article recommends that VLC research follow the Belmont Report principles: "
 - [Use explainability tools (SHAP/LIME) and human monitoring for fair, transparent AI-driven personalized learning](explainability-tools-human-monitoring-personalized-learning.md)
 - [Pursue open AIED-in-MOOCs research directions: sensing-based affective modeling for embodied adaptive learning and MOOC data visualization for stakeholder feedback](ai4moocs-open-research-directions.md)
 - [Three-level data protection mechanism for AI-SP privacy, informed consent, and legal risk management](ai-sp-three-level-data-protection.md)
+- [Six APA-informed ethical considerations for integrating AI into systemic practice](apa-informed-ethical-considerations-ai-integration.md)
 
 ## Examples
 -

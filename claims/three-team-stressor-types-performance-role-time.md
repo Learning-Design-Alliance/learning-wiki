@@ -48,3 +48,4 @@ Qualitative content analysis of the scoping review's 15 included articles, synth
 ## Related Claims
 - [Stress predominantly impairs team performance through a narrow task-execution focus, unclear responsibilities, diminished situational understanding and emotional effects](stress-impairs-team-performance-narrow-focus-unclear-responsibilities.md) — related
 - [Teams performing best under crisis stress show brief, simple communication patterns: fewer interacting members and short phrases instead of complex interactions](brief-simple-interaction-patterns-best-under-crisis.md) — related
+- [Postgraduate nursing students in a PBL course experience external stressors from time pressure and task complexity that exceed current competencies](pbl-postgraduate-nursing-external-stressors.md) — a narrower finding that bears on this claim

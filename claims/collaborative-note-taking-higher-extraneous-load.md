@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: jamie-costley-2021
     resource: "https://doi.org/10.1007/s11423-021-09979-2"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Jamie Costley 2021: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-29)
 
 ## Subclaims

@@ -54,3 +54,4 @@ Learning curves were generated using the cumulative sum (CUSUM) method based on 
 - [Trainees report high satisfaction with the tiered laparoscopic training, with no significant differences across junior, intermediate and senior cohorts on most satisfaction dimensions](tiered-laparoscopic-training-high-satisfaction-across-cohorts.md) — related
 - [The case-23 proficiency point was robust across sensitivity analyses including recurrence-only CUSUM, risk-adjusted CUSUM, and best-case/worst-case imputation](sensitivity-analyses-robust-proficiency-point.md) — related
 - [After ten training sessions, junior and intermediate groups still scored significantly lower than the senior group](persistent-performance-gap-after-repeated-training.md) — related
+- [Operative time in laparoscopic radical prostatectomy reaches a proficiency plateau after the 61st case in this series](lrp-operative-time-plateau-case-61.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: ernst-s-2026
     resource: "https://doi.org/10.1093/europace/euag081"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In CRT training, PBP outperformed traditional simulation where proficiency benchmarks were optional, which resulted in incomplete skill development despite expert supervision. [→ Ernst S 2026](#ernst-s-2026)
@@ -51,3 +52,4 @@ The statement reports a CRT training comparison in which "PBP demonstrated super
 - [Three comparative studies reported superior outcomes for distance simulation over traditional training, involving augmented reality telementoring, remote robotic teaching, and a virtual classroom](distance-simulation-superior-outcomes-three-studies.md) — related
 - [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — related
 - [Validation quality does not consistently correlate with simulator fidelity, and high-fidelity VR simulators' superiority over simpler models for fibreoptic intubation has not been demonstrated](simulator-fidelity-does-not-track-validation-quality.md) — related
+- [Time to reach proficiency rises progressively as training deviates from full PBP methodology](training-time-rises-as-pbp-adherence-declines.md) — a narrower finding that bears on this claim

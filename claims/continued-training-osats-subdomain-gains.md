@@ -50,3 +50,4 @@ Subdomain analysis in the training beyond proficiency group showed significant i
 ## Related Claims
 - [Higher-order OSATS subdomains are most vulnerable to decay while fundamental psychomotor domains remain stable](higher-order-osats-subdomains-vulnerable-to-decay.md) — related
 - [Trained participants show safer tissue handling, more consistent vessel exposure, and improved stapler positioning in qualitative blinded assessment](qualitative-safer-tissue-handling-trained-group.md) — related
+- [Skills decay occurred across most participant categories but was not significant for providers with less than one year of work experience, and more-experienced providers decayed more](experience-pattern-skills-decay-one-year.md) — related

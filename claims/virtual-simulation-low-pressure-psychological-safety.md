@@ -64,3 +64,4 @@ Focus group participants described accessing high-fidelity simulation from home 
 - [Peer observation anxiety, limited practice time, and large group sizes are perceived barriers to optimal learning in simulation-based BLS training](simulation-bls-perceived-barriers.md) — related
 - [A mixed-methods evaluation found SBE is a distinct learning environment with little or no support for students navigating between environments](sims-week-little-navigation-support.md) — related
 - [RCDP simulation sessions were perceived as psychologically safe by almost all participants, regardless of the number of facilitators present](rcdp-psychological-safety-high.md) — related
+- [Prior physical Room of Error evaluations found participants detected fewer than half of embedded hazards, with interprofessional group interaction enhancing error detection](physical-roe-hazard-detection-under-half.md) — related

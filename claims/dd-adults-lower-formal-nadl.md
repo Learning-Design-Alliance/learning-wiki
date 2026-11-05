@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: vigna-giulia-2022
     resource: "https://doi.org/10.3390/brainsci12030373"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
-> **Currency** · newest study 2022 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Adults with DD scored significantly lower than controls on the NADL Formal Test total (r = -0.665, p < 0.001, one-sided). [→ Vigna Giulia 2022](#vigna-giulia-2022)

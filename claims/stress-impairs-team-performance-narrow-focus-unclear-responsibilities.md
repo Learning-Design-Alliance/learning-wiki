@@ -51,3 +51,4 @@ The review's synthesis of effects of stress on team performance across the 15 in
 - [Teams performing best under crisis stress show brief, simple communication patterns: fewer interacting members and short phrases instead of complex interactions](brief-simple-interaction-patterns-best-under-crisis.md) — related
 - [Inducing a high-stress environment during healthcare simulation is generally associated with impaired performance](high-stress-simulation-impairs-performance.md) — related
 - [Stressors experienced by teams under pressure fall into three non-mutually exclusive types: performance pressure, role pressure and time pressure](three-team-stressor-types-performance-role-time.md) — related
+- [Postgraduate nursing students in a PBL course experience external stressors from time pressure and task complexity that exceed current competencies](pbl-postgraduate-nursing-external-stressors.md) — a narrower finding that bears on this claim

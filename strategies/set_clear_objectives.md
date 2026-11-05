@@ -63,6 +63,7 @@ Clear objectives function as advance organizers, giving learners a schema for in
 - [Formative Assessment](formative-assessment-cycles.md) — objectives define the criteria against which formative feedback is interpreted
 - [Backward Design](../methods/backward-design.md) — the design discipline that starts from objectives and works backward to activities
 - [Build institutional data-use practice: train instructors to analyze learner data and align product data to required assessments](instructor-data-use-training-alignment.md)
+- [Structure discussion section time with a short objectives review, a structured activity, and follow-up review](structured-discussion-section-time-recipe.md)
 
 ## Examples
 - **Constructive alignment in course design** — Biggs' framework requires intended learning outcomes, teaching activities, and assessment tasks to state the same verb level (e.g., "analyze case data" taught through case analysis and assessed with a case-analysis exam).

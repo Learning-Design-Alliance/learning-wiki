@@ -13,7 +13,7 @@ generated:
 # Visual Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 67 claims (42 show a difference, 15 mixed, 10 no difference) · 39 studies (14 causal, 10 associational, 9 review, 4 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 8 of 39 report an effect size · 67 claims rest on one study
+> **Evidence** · 68 claims (42 show a difference, 15 mixed, 11 no difference) · 40 studies (15 causal, 10 associational, 9 review, 4 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 8 of 40 report an effect size · 68 claims rest on one study
 
 ## Description
 Visual processing is what the brain does with the input that comes through vision: recognising, ordering and interpreting visual information. It lets learners recognise letters, numbers and symbols, read quickly and accurately, copy and solve problems correctly, and work with diagrams, drawings and geometric shapes; visual-motor integration, the coordination of hand and eye, is part of it and supports handwriting. Learners with dyslexia or dyscalculia may process words and numbers visually in different ways, which the LVN traces in many cases to phonological difficulties that disrupt visual attention during reading. It is measured with visual discrimination and matching tasks, figure-copying and design-copying tests, block design and mental rotation tasks, and computer-based tasks that use non-linguistic symbols so language skills do not affect scores. It overlaps closely with [spatial ability](spatial-ability.md), and is distinct from eyesight itself, which [access](access.md) covers.
@@ -103,6 +103,7 @@ Visual processing is what the brain does with the input that comes through visio
 - [The experimental group's visual perception average rose from pre-test to post-test after the multi-sensory program](../claims/multi-sensory-program-pretest-posttest-gain.md) [+M] — instruction changes it
 - [Connection-understanding and connection-perception are independent visual skills, both predictive but independent of content knowledge](../claims/connection-understanding-and-perception-independent-skills.md) [+M] — learners who differ on it differ in outcomes
 - [Students' spatial skills moderate their benefit from understanding-activities and perception-activities](../claims/spatial-skills-moderate-connection-activities.md) [+M] — an instructional effect differs with it
+- [Novices' visual attention did not differ between pediatric and adult box trainers](../claims/no-visual-attention-difference-pediatric-adult-trainers.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **NAB Visual Discrimination Task** (Stern & White, 2003): a match-to-sample task measuring adults' visual perception and visual-spatial skill.

@@ -128,3 +128,6 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Moderators bridged theory-practice gaps by sharing their own clinical experiences on screening, treatment protocols, and evidence translation](moderator-clinical-practice-bridging.md) — related
 - [Undergraduate dental students perceive that PBL enhances motivation by making learning purposeful through authentic clinical cases](pbl-authentic-cases-enhance-motivation-perceptions.md) — a narrower finding that bears on this claim
 - [Pediatric residents probed only 6 of 50 contextual red flags in covertly recorded visits, leaving most parent life-context challenges unexplored](residents-probe-few-contextual-red-flags-pediatrics.md) — related
+- [Perceived realism and transferability to clinical practice influenced residents' motivation to use VR simulation](realism-transferability-shape-vr-motivation.md) — related
+- [First-year residents describe VR simulation as a safe and flexible learning tool for training in emergency care](residents-perceive-vr-safe-flexible-emergency-care.md) — related
+- [Students report that the VR learning resource helps translate theoretical knowledge into practical skills and increases attention to family-focused care](vr-translation-theory-into-practical-skills.md) — a narrower finding that bears on this claim

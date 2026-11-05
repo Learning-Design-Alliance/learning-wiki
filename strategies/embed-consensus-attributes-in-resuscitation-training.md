@@ -51,6 +51,7 @@ The article recommends using the expert-validated attribute framework to shape r
 ## Related Strategies
 
 - [Combine knowledge-based BLS instruction with hands-on and simulation-based training.](combine-knowledge-instruction-with-simulation-bls.md)
+- [Incorporate simulation training into continuing professional development, differentiating communication approaches for doctors and nurses](simulation-als-continuing-professional-development-strategy.md)
 
 ## Examples
 -

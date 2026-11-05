@@ -53,6 +53,7 @@ The article's implications recommend that institutions "avoid positioning AI as 
 - [Use LLMs in supervised settings to generate formative question variants and structured self-assessments for surgical trainees, while guarding against knowledge miscalibration.](supervised-llm-formative-question-generation-surgical-training.md)
 - [Use AI-based assessment periodically for formative feedback while avoiding AI in summative assessment](ai-formative-not-summative-assessment-strategy.md)
 - [Use the predictive model as a screening aid complementing existing academic monitoring, not as a deterministic evaluation tool](predictive-model-as-screening-aid-not-deterministic-tool.md)
+- [Phased adoption pathway: practice pilots, mock OSCEs with A/B comparisons, then limited high-stakes use](phased-ai-osce-adoption-pathway.md)
 
 ## Examples
 -

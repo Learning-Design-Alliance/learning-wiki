@@ -40,7 +40,8 @@ The article's simulation sessions followed a fixed structure: "The simulation se
 - [Simulation Training Increases Vap Prevention Skill Performance](../claims/simulation-training-increases-vap-prevention-skill-performance.md) [+M]
 
 ## Related Designs
-- 
+
+- [Standardized simulation session structure of pre-briefing, brief simulation, and structured debriefing using the 4Es technique](prebriefing-brief-simulation-debriefing-4es-structure.md)
 
 ## Examples
 -

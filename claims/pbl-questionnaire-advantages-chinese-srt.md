@@ -75,3 +75,4 @@ Meta-analysis of questionnaire surveys (yes/no items, pooled as odds ratios) fro
 - [Integrated teaching raises satisfaction with the teaching approach on learning interest, disease comprehension, and clinical reasoning, but not on research awareness or communication](integrated-teaching-approach-survey-mixed.md) — related
 - [PBL raises student satisfaction and learning interest, and both correlate positively with final overall academic performance](pbl-satisfaction-interest-correlate-performance.md) — related
 - [SKIT improves recognition of thinking ability, communication skills, and practical application, but not significantly learning interest or knowledge understanding](skit-recognition-teaching-process-mixed.md) — related
+- [Non-dentistry undergraduates prioritize learning oral pathologies and diagnostic thinking over basic oral procedural skills in their stomatology clerkship](non-dental-students-prioritize-diagnostic-over-procedural-skills.md) — related

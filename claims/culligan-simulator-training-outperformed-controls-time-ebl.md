@@ -48,3 +48,4 @@ Non-randomized controlled trial (Table 3) with 18 credentialed gynaecological su
 - [Two randomized trials of dVSS or dV-Trainer training to proficiency found no significant differences between trained and control groups on operative performance](rcts-no-significant-difference-vr-trained-versus-controls.md) — related
 - [Surgeons trained on the dVSS tubes task were significantly faster at creating vesicourethral anastomosis than untrained controls, with no other differences](wang-dvss-training-faster-anastomosis.md) — related
 - [Conversion to open surgery was associated with substantially increased blood loss and operative time, and Pringle maneuver use with reduced blood loss](conversion-and-pringle-associated-with-outcomes.md) — related
+- [Blood loss, transfusion, and conversion outcomes remained low and did not change significantly across the learning curve](blood-loss-transfusion-stable-across-lrp-learning-curve.md) — related

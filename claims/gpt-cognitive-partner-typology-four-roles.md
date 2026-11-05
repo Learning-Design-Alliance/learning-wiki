@@ -50,3 +50,4 @@ Thematic analysis of logs, journals, artefacts and focus groups from 14 pre-serv
 - [Client interviews suggest a recurring shift from treating AI as a passive answer machine (\"Oracle\") to engaging it as a collaborative tool under human direction (\"Process Partner\")](oracle-to-process-partner-shift.md) — related
 - [Lower-experience students used GPTs as conceptual tutors while technically stronger students used them as professional collaborators, consistent with adaptive scaffolding](gpt-differentiated-use-by-experience.md) — related
 - [Students perceived high learning impact from the personalised GPT agents, with improved conceptual understanding rated highest (mean 4.6, SD 0.5)](student-perceptions-gpt-learning-impact.md) — related
+- [Students experienced ethically scaffolded AI tools as cognitive partners, metacognitive mirrors, and equity tools in EFL writing](ai-cognitive-partner-metacognitive-mirror-equity-roles.md) — a broader claim this one bears on

@@ -53,3 +53,4 @@ Thematic synthesis (RQ 3) of included studies' reports of enablers and barriers,
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
 - [Students identified mannequin realism limitations, technical and operational issues, and restricted access to simulation labs as barriers to SBL in oral radiology](barriers-sbl-oral-radiology-realism-technical-access.md) — related
 - [Resident qualitative feedback requested additional preparatory materials and raised simulation realism concerns related to mannequin fidelity and cadaver quality](resident-realism-concerns-qualitative.md) — related
+- [Perceived realism and transferability to clinical practice influenced residents' motivation to use VR simulation](realism-transferability-shape-vr-motivation.md) — related

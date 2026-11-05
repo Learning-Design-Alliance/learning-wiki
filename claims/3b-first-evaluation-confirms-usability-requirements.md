@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 recheck_by: 2019
 sources:
   - id: lugrin-j-l-2016
@@ -24,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The authors report that a first evaluation confirmed the system's conformance to their stated usability requirements, as a first step toward investigating learning outcomes. [→ Lugrin J-L 2016](#lugrin-j-l-2016)
@@ -52,3 +52,4 @@ The authors' summary statement of their first evaluation of the 3B system with s
 - [VR-based training with radiation field visualization received significantly higher ratings for radiation understanding and visualization than conventional training (r=0.878)](vr-radiation-visualization-higher-understanding-ratings.md) — related
 - [Picture bias: graphs made students more likely to confirm problem statements, irrespective of whether the statements were true](picture-bias-graphs-confirm-statements.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [Standardized patients were rated significantly more believable than virtual patients on behavior, emotion, and overall subscales](sp-higher-believability-than-virtual-patients.md) — related

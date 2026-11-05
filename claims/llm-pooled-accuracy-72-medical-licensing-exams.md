@@ -64,3 +64,4 @@ Random-effects meta-analysis of 36 studies (2,404 records screened) evaluating L
 - [ChatGPT-3.5 performed significantly worse on Arabic-language medical questions (43.9%) than its pooled published accuracy on English-language medical questions (60.7%)](chatgpt-arabic-lower-than-english-medical-accuracy.md) — related
 - [LLMs solve single-response medical multiple-choice questions significantly better than multiple-response questions](single-response-mcq-solved-better-than-multiple.md) — a narrower finding that bears on this claim
 - [LLMs answer diagnosis questions significantly better than treatment questions in medical multiple-choice items](treatment-questions-solved-worse-than-diagnosis.md) — a narrower finding that bears on this claim
+- [LLM performance does not differ significantly between 2019 and 2025 exam questions despite training-cutoff differences](no-performance-difference-exam-year.md) — a narrower finding that bears on this claim

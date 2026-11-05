@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2004
+source_checked: 2026-11-05
 sources:
   - id: lemisko-2004
     resource: "https://doi.org/10.29173/css130"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2004 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The paper argues that Collingwood's theory of historical knowledge production provides theoretical support for constructivist classroom approaches. [→ Lemisko 2004](#lemisko-2004)

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: ching-yi-chang-2023
     resource: "https://doi.org/10.1007/s11423-023-10209-0"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Children using the robot-assisted DS approach scored significantly higher on emotional engagement than the video-based control group (d = 0.75). [→ Ching-Yi Chang 2023](#ching-yi-chang-2023)

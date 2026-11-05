@@ -49,6 +49,7 @@ The article recommends reducing the number of students in practice groups and st
 - [Adopt power-sharing and reciprocity strategies such as mentoring and cooperative learning to strengthen social bonds and build protective factors](power-sharing-strategies-build-protective-factors.md)
 - [Strengthen core microteaching competencies — structured teaching, learner engagement, reflection, feedback, and role modelling — through faculty development](faculty-development-microteaching-competencies.md)
 - [Establish a reading teaching social network, strengthen group discussions and feedback, and report platform errors quickly](reading-social-network-and-feedback-strategy.md)
+- [Integrate collaborative learning into nursing education for newly acquired skills, with instructor numbers matching group numbers](integrate-collaborative-learning-nursing-skills-strategy.md)
 
 ## Examples
 -

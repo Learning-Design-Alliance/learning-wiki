@@ -52,3 +52,5 @@ Cross-sectional regression in 106 children with overweight/obesity (accelerometr
 - [Little consistent evidence links overweight or obesity to reading, science or average attainment across subjects](little-evidence-obesity-reading-science-attainment.md) — related
 - [The motor skill intervention does not significantly change accelerometer-measured physical activity levels in young children with ASD](motor-intervention-no-pa-change-asd.md) — related
 - [Flipped classroom intervention significantly increases college students' total physical activity and moderate-to-vigorous physical activity compared with traditional instruction immediately post-course.](fc-increases-total-pa-and-mvpa-post-course.md) — reports the opposite
+- [Moderate and vigorous physical activity show no significant associations with cognitive or academic performance in adjusted models](mpa-vpa-null-cognitive-academic.md) — related
+- [Fitness mediates the association between vigorous physical activity and academic performance, although the direct VPA–grades association was not significant and the test was post hoc](fitness-mediation-vpa-grades.md) — related

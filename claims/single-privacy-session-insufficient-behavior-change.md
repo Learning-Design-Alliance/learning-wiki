@@ -48,3 +48,5 @@ Open-ended end-of-session answers on the main message brought home (N = 978): ge
 - [Students across all school levels rated the iBuddy session as enjoyable, useful and important, with importance highest (M = 8.96)](ibuddy-session-high-satisfaction-ratings.md) — related
 - [After the co-designed AI session, community members' concerns about AI persisted but became more specific, concrete, and actionable](ai-concerns-persisted-but-became-specific.md) — related
 - [The AI education session was associated with a drop in attendees reporting they did not know enough to say about AI, from 23% to 0%](dont-know-responses-dropped-to-zero.md) — related
+- [The simulation-plus-counseling intervention did not change the frequency of applying privacy-protective behaviors](no-change-privacy-protective-behavior-frequency.md) — related
+- [Privacy-protection awareness increased over time across all groups after simulation, with no between-group difference](privacy-awareness-increased-over-time.md) — related

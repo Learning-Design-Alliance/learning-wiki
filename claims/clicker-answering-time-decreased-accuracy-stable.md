@@ -48,3 +48,4 @@ Descriptive analysis of Kahoot! performance logs in the experimental group (Tabl
 - [Positive effects on participation continued after students stopped using clickers, but the quality of their answers declined](clicker-effect-persists-after-use-quality-declines.md) — related
 - [Students answering both clicker votes correctly score significantly higher on isomorphic exam questions than all other vote patterns](correct-correct-clicker-pattern-higher-exam-performance.md) — related
 - [Ten weeks of Kahoot! clicker use produced significantly higher ESP post-test scores than the same instruction without clickers](clicker-use-higher-esp-posttest-scores.md) — related
+- [Item-level accuracy remained stable on the hardest case-specific item, suggesting persistent difficulty](cblc-item8-persistent-difficulty.md) — a narrower finding that bears on this claim

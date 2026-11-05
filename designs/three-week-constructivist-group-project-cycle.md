@@ -44,6 +44,7 @@ In the constructivist-based section, each of three group projects spanned three 
 
 - [PBL course structure with weekly problem situations, small-group problem-solving plans, and end-of-week solution presentations](pbl-weekly-problem-cycle-small-groups.md)
 - [Model Robot Programming subject: constructivist project-based lessons with LEGO NXT robots in small groups](model-robot-programming-subject-pattern.md)
+- [PBL-integrated research training course built on four sequential projects with distinct assessments](pbl-four-sequential-projects-course-pattern.md)
 
 ## Examples
 -

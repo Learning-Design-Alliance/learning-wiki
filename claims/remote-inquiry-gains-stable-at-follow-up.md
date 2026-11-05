@@ -53,3 +53,4 @@ Post-to-follow-up mixed ANOVA in the randomized experiment, based on only n = 72
 - [Teaching quality improved only in the combined-intervention group and only during the first half of the program (measurement one to two), with an effect size of .44](teaching-quality-improved-first-half-only.md) — related
 - [Three weeks after the experiment, retest grades showed a very slight decrease in both groups, but experimental-group students with home Internet access showed no decrease](retest-durability-internet-access-home.md) — related
 - [Daily assessments were associated with slightly lower student evaluations of faculty](daily-assessments-lower-student-evaluations.md) — related
+- [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related

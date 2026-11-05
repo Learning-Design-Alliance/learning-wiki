@@ -9,7 +9,6 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-26
 sources:
   - id: wang-2026
     resource: "https://doi.org/10.1038/s41539-026-00446-2"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Under learning-as-usual, anxiety increased from baseline during intervention and remained elevated post; in the breathwork group it stayed near baseline, with credible group differences in trajectory. [→ Wang 2026](#wang-2026)

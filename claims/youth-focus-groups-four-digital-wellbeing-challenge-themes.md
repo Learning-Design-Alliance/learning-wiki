@@ -9,7 +9,6 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-20
 recheck_by: 2030
 sources:
   - id: karim-2025
@@ -26,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In two 1-hour focus groups with high school-aged youth, participants described excessive screen time and constant connectivity as leading to increased anxiety, stress, and peer drama. [→ Karim 2025](#karim-2025)
@@ -56,3 +55,4 @@ Qualitative findings from two 1-hour focus groups with youth ages 14-18, facilit
 - [Many students reported stress, anxiety and related wellbeing challenges while studying online, with over 50% of respondents naming stress or anxiety as key challenges](stress-anxiety-over-half-lockdown-students.md) — related
 - Research on childhood screen use falls into three distinct periods: pre-2016 focused on addiction and health, 2016–2020 on educational applications and the role of families, and post-2020 on negative repercussions for identity construction, health, well-being, and behaviour. — related
 - [63.9% of students experienced increased stress or anxiety from pre-class tests](pre-class-tests-increase-stress-anxiety.md) — related
+- [Higher social media use and screen time are significantly associated with poorer mental health among tertiary students in Ghana](social-media-screen-time-poorer-mental-health-ghana-tertiary.md) — related

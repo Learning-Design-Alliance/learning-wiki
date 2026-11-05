@@ -47,3 +47,5 @@ Univariable linear models in the randomized trial showed sex predicted final CN 
 ## Related Claims
 - [Baseline visuospatial ability independently predicted final camera navigation and hand–eye coordination performance](baseline-visuospatial-ability-predicts-laparoscopic-performance.md) — related
 - [Bihemispheric tDCS during laparoscopic simulation training selectively improved final bimanual coordination performance compared with sham stimulation](tdcs-selectively-improves-bimanual-coordination-laparoscopic-training.md) — related
+- [Male sex was the only factor independently associated with lower skills retention one year after simulation training](male-sex-lower-skills-retention-apr.md) — related
+- [Female sex, baseline reading skills, and baseline medical terminology each predicted final exam scores, while writing, speaking, and listening skills did not](sex-reading-terminology-predict-final-exam-scores.md) — related

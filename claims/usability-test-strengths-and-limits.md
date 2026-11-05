@@ -59,3 +59,4 @@ Usability test with eight participants in two groups (chatbot designers and inst
 - [AI-supported prototyping combined with educator feedback loops accelerated development and surfaced usability issues early in one K-2 literacy tool project](ai-prototyping-accelerates-development-with-feedback-loops.md) — related
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related
 - [Model usability testing across two rounds led to structural improvements including separated course and lesson level design and a central formative evaluation step](usability-testing-improved-model-structure.md) — related
+- [Cited pilot trial and transcript-grading work show scenario-dependent strengths and reliability limits of AI in OSCE-adjacent tasks](ai-osce-evidence-mixed-strengths-limits.md) — related

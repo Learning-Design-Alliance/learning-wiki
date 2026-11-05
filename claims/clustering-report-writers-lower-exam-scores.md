@@ -49,3 +49,4 @@ K-means clustering (k=4, chosen by elbow method and silhouette analysis) of norm
 - [The six clusters differ substantially in academic performance: Final Grade ANOVA η² = 0.770, with C0 exceeding C1 by 40.17 exam-score points](cluster-performance-anova-tukey.md) — related
 - [In the first deployment, exam scores on the induction question were visibly lower than in previous semesters taught without the tool](first-deployment-exam-scores-lower.md) — related
 - [The five clustering variables differed significantly across the four clusters, with large effect sizes for all five.](five-variables-differentiate-four-clusters.md) — related
+- [Cluster analysis identified four medical student subgroups with significantly different final exam scores, ranging from 75.1 to 85.8](four-academic-performance-profiles-medical-students.md) — related

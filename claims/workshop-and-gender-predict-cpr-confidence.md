@@ -69,3 +69,4 @@ Same regression model predicting CPR confidence; gender was entered with female 
 - [Only 26.0% of surveyed dentists in Saudi Arabia demonstrated good knowledge of BLS/CPR, with 41.0% moderate and 33.0% low knowledge](quarter-dentists-saudi-good-bls-knowledge.md) — related
 - [Attendance at a BLS/CPR workshop within the last 5 years predicts good knowledge among dentists (aOR = 4.91)](recent-bls-workshop-predicts-knowledge.md) — related
 - [A cross-sectional study of junior doctors found confidence was high for basic CPR tasks and lower for advanced interventions such as defibrillation and administration of resuscitation drugs.](junior-doctors-confidence-basic-cpr-higher-than-advanced.md) — related
+- [Less experienced nurses (< 10 years) and untrained nurses are more likely to report insufficient preparedness](less-experienced-nurses-insufficient-preparedness.md) — related

@@ -13,7 +13,7 @@ generated:
 # Jeffries/National League for Nursing Framework for Designing, Implementing and Evaluating Simulations
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q2` · 1 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (3 causal), `q2` · 1 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 A nursing-education framework developed by Jeffries and the National League for Nursing for designing, implementing, and evaluating simulation-based learning experiences.
@@ -21,11 +21,13 @@ A nursing-education framework developed by Jeffries and the National League for 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Jeffries simulation framework as a design structure for simulation-based nursing instruction**: The Jeffries simulation framework is an experiential-learning-based framework for designing simulation-based instruction in nursing education. The article describes it as consisting of "context, background, design, educational practices, simulation experience and outcomes", and notes it is "based on experiential learning theory and is specifically designed for simulation‐based instruction". In this study, the framework structured the design of clinical scenario simulation cases used to train new graduate paediatric surgery nurses over 8 weeks. (Effect of the Jeffries Simulation Framework on the Core Competence of New Graduate Paediat)
+- **Jeffries Simulation Theory as the theoretical bridge aligning BOPPPS phases with simulation design**: The study employs Jeffries Simulation Theory, whose core elements the article names as "Background, Design, Simulation Experience, Assessment, and Debriefing", systematically aligned with the six BOPPPS modules to form a closed loop of objective–simulation–reflection. Bridge-in and Objectives map to Background and Design; Pre-assessment refines Design by gauging baseline skills; Participatory Learning embodies the Simulation Experience; Post-assessment and Summary align with Assessment and Debriefing through structured evaluation and facilitated debriefing. The article describes the framework as grounded in experiential learning theory and widely adopted to guide simulation-based instructional design. (Li Mu (2026))
 
 ### Claims
 - [Nursing students express positive perception of preclinical maternity simulation sessions, with objectives and information rated highest and fidelity/realism rated lowest](../claims/positive-perception-preclinical-maternity-simulation.md) [+M]
 - [Total core competence scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](../claims/jeffries-simulation-improves-core-competence-new-graduate-paediatric-nurses.md) [+W]
 - [Clinical decision-making scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](../claims/jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) [+W]
+- [BOPPPS-integrated scenario simulation training increases circulating work quality scores of junior operating room nurses in a single-center pre-post study](../claims/boppps-simulation-improves-circulating-work-quality.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -33,3 +35,4 @@ A nursing-education framework developed by Jeffries and the National League for 
 ## Key Sources
 - Haya ALFozan, Yousria El Sayed, Farida Habib. (2015). Designing, Implementing and Evaluating Preclinical Simulation Lab for Maternity Nursing Course. Journal of Education and Practice, Vol.6, No.12. https://www.iiste.org/journals/
 - Luo Wenjing, Yang Runyu, Feng Liwei, and Liang Yuanyuan. 2026. "Effect of the Jeffries Simulation Framework on the Core Competence of New Graduate Paediatric Surgery Nurses: A Quasi‐Experimental Study." Nursing Open 13 (9): e70779. https://doi.org/10.1002/nop2.70779
+- Li Mu, Cheng Wang. (2026). Evaluating the impact of a BOPPPS and scenario-based simulation intervention on the competency of junior circulating nurses: a quasi-experimental study. BMC Medical Education. https://doi.org/10.1186/s12909-026-08712-y

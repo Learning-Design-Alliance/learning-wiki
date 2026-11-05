@@ -25,7 +25,8 @@ The American Association of Colleges of Nursing's competency and accreditation f
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [COAMFTE Standards Version 12.5](coamfte-standards-version-125.md)
 
 ## Key Sources
 - Cummins MR, Perri Moore Seneca S, Sward KA. (2026). Inflection Point: Artificial Intelligence, Digital Health, and the Evolution of Pre-Licensure Nursing Informatics Competencies. Computers, Informatics, Nursing. https://doi.org/10.1097/CIN.0000000000001506

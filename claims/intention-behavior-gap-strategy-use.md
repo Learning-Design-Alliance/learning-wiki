@@ -52,3 +52,4 @@ Narrative review of prior studies, attributed as the article attributes them: Bl
 - [In a Vietnamese EFL sample, all six Meta-UTAUT hypotheses on MALL adoption were accepted with p-values below 0.05](meta-utaut-hypotheses-accepted-mall-efl.md) — reports the opposite
 - [Actual classroom use of AI among Ghanaian pre-service science teachers is moderate despite strong intentions, indicating an intention-practice gap](intention-practice-gap-ai-use-ghanaian-pre-service-teachers.md) — a broader claim this one bears on
 - [Facilitating condition has no direct effect on actual use of MALL, departing from prior literature.](facilitating-condition-no-direct-effect-use.md) — related
+- [Psychological readiness of the feedback receiver is perceived as a prerequisite for translating feedback into improvement](receiver-psychological-readiness-prerequisite.md) — related

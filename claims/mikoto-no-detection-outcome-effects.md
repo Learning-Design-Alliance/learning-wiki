@@ -49,3 +49,5 @@ Secondary endpoint analyses of the cluster-randomized trial (mixed-effects model
 - [The control group's means and standard deviations were higher than the experimental group's on five performance metrics, though not significantly](control-group-higher-descriptive-means-five-metrics.md) — related
 - [Cecal intubation time decreased significantly within the mikoto group but not between groups](mikoto-within-group-cit-reduction.md) — related
 - [Patient sex, age, and colonoscopy indication significantly affected PDR-5 across all endoscopist groups](sex-age-indication-affect-pdr5.md) — related
+- [Self-reported apprehension and confidence do not differ significantly between structured-training and usual-teaching students](structured-training-no-difference-self-reported-confidence.md) — related
+- [Patient-reported procedural pain is numerically lower when local anesthesia is used, but the difference is not statistically significant](anesthesia-patient-pain-nonsignificant-trend.md) — related

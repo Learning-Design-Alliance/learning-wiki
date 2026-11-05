@@ -54,3 +54,4 @@ Gender-specific comparison across the two treatments, with single-gender groups 
 - [Female students had higher math course grades than male students, with no interactions between gender, math anxiety, and intervention group](female-students-higher-grades-no-gender-moderation.md) — related
 - [Within-gender comparisons showed males taught with LMM scored slightly higher than males taught with LMC, while females taught with LMM scored higher than females taught with LMC.](within-gender-lmm-lmc-retention-comparisons.md) — related
 - [Gender had no significant influence on performance when taught solubility with practical manual](no-gender-difference-practical-manual-solubility.md) — reports the opposite
+- [In the traditional-instruction control group, male students' scores rose significantly from pre-test to post-test, while female students' scores did not change significantly](control-group-gender-reversal-traditional-instruction.md) — related

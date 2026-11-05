@@ -50,3 +50,4 @@ Retrospective comparison of 408 teeth (204 per group) used by two consecutive de
 - [Students perceived natural teeth as better for endodontic preclinical training than artificial teeth](students-prefer-natural-teeth-training.md) — related
 - [Artificial teeth group students were more concerned with ethical and biohazard aspects than natural teeth group students](atg-students-ethical-biohazard-concerns.md) — related
 - [Overall technical quality of treatments was similar between natural and artificial teeth groups](similar-technical-quality-both-groups.md) — related
+- [The hybrid combination of extracted teeth, artificial teeth and phantom models contributes more to technical clinical perception than other training model combinations (p < 0.001)](hybrid-endodontic-model-contributes-most-to-technical-perception.md) — related

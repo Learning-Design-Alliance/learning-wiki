@@ -49,3 +49,4 @@ Qualitative arm of the mixed-methods sequential explanatory design: semi-structu
 - [Focus group interviews identified four user-experience themes: individualized learning, clinical reasoning engagement, educational applicability, and areas for improvement](vega-focus-group-four-themes.md) — related
 - [Student interviews yielded three themes: emotions, feelings of being a doctor, and interactions with simulated participants](student-interview-themes-communication-curriculum.md) — related
 - [All interviewed interns reported that role rotation and teamwork were central benefits of the simulation-with-CBL training](role-rotation-teamwork-central-benefit-simulation-cbl.md) — related
+- [Participant experiences of integrated simulation with TBL cluster into four themes: reflection and feedback, highly simulated scenarios, improved clinical thinking, and teamwork and communication](four-theme-clusters-simulation-tbl-experience.md) — related

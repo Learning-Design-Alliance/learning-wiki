@@ -56,3 +56,4 @@ Retrospective single-group pre/post analysis of 40 nuclear medicine residents us
 - [Both CBL and GBL in a virtual flipped classroom produce significant within-group knowledge gains over time](cbl-gbl-virtual-flipped-significant-gains.md) — a broader claim this one bears on
 - [Students have access to radiography during internships in all faculties (100%), while interventional radiology and nuclear medicine are accessible in none (0%).](internship-imaging-modality-access-radiography-universal-interventional-nuclear-absent.md) — related
 - [Participant performance in the SIAPeC Quiz varied widely, with correct response rates ranging from 0% to 100% across questions](siapec-quiz-performance-variation.md) — related
+- [All three instructional groups showed significant pre- to post-class quiz improvements with no statistically significant between-group difference in knowledge gains](equal-quiz-gains-across-srp-teaching-groups.md) — related

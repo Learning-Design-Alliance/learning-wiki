@@ -48,3 +48,4 @@ Descriptive item-level analysis (Table 4) of 66 interns' responses across 19 cas
 ## Related Claims
 - [Low diagnostic accuracy was observed for systemic or life-threatening oral conditions such as pemphigus and squamous cell carcinoma](low-accuracy-systemic-life-threatening-oral-conditions.md) — related
 - [Medical interns demonstrate suboptimal diagnostic performance in oral diseases, averaging 7.14 ± 2.9 on a 0–20 scale](medical-interns-suboptimal-oral-disease-diagnostic-performance.md) — a broader claim this one bears on
+- [LLM accuracy varied by subject area, with oral pathology (94%) and salivary gland diseases (91.8%) highest and radiological anatomy (67.3%) lowest; only Copilot showed a statistically significant across-subject difference](subject-area-accuracy-variation-dus-llms.md) — related

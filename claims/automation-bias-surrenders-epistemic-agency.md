@@ -52,3 +52,4 @@ Theoretical argument in the article's section on automation bias and the fluency
 - [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](distributed-epistemic-agency-machine-authority.md) — possibly the same claim (merge candidate)
 - [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](ai-intuition-epistemic-judgment-not-prompt-engineering.md) — related
 - [Providing LLM pre-labels can decrease human annotation accuracy when the model is incorrect, due to automation bias](llm-prelabels-decrease-human-accuracy.md) — related
+- [AI tools can reinforce confirmation bias, leading therapists to misinterpret adaptive outputs as objective truths](ai-tools-reinforce-confirmation-bias-cmft.md) — a narrower finding that bears on this claim

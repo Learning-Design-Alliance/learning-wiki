@@ -58,3 +58,4 @@ The originality findings from the thematic analysis report that "The views of pa
 - [Focus-group participants preferred creating their own essays while viewing ChatGPT as an initial resource for fundamentals and idea generation](participants-prefer-own-essays-chatgpt-initial-resource.md) — related
 - [Graduate students experienced GenAI-assisted research as supporting originality through new ideas and perspectives](genai-assisted-research-supports-originality.md) — related
 - [Graduate students initially feared GenAI use constituted cheating but came to view it as a collaborative tool compatible with academic integrity when used responsibly](genai-collaboration-shifts-student-integrity-perceptions.md) — related
+- [Students express high acceptance of AI integration (79.7% positive views; 86% intended continued use) alongside critical awareness](tam-acceptance-ethical-ai-efl.md) — related

@@ -57,3 +57,5 @@ Cross-program analysis of student reports across the eight tutoring evaluations.
 - [Student math confidence and sense of belonging in tutoring increased modestly during the school year, with site-level variation](blueprint-confidence-belonging-modest-increase.md) — related
 - [Most Blueprint students reported strong tutor relationships, but reported relationship strength varied across sites](blueprint-tutor-relationships-varied-by-site.md) — a narrower finding that bears on this claim
 - [Students completing the end-of-year survey reported favorable views of their relationships with math tutors and their sense of belonging in tutoring sessions](breakthrough-tutoring-favorable-relationships-belonging.md) — related
+- [Discussion section attendance significantly increases agreement with 10 of 19 sense of belonging items](attendance-predicts-belonging.md) — related
+- [Teaching practices are associated with sense of belonging: higher group work characterizes agreement on most items that differ](group-work-belonging-simplex.md) — related

@@ -51,3 +51,4 @@ Two-way mixed ANOVA (PrePost within, Group between) on student questionnaire rat
 - [Both groups increased in beginning lectures with an outline, but the intervention group showed significantly more change (Q7)](udl-training-outline-item-interaction.md) — related
 - [Intervention students rate knowledge translation, planning, communication confidence and career development value higher than control students](video-production-boosts-communication-confidence-and-career-perception.md) — related
 - [Qualitatively, intervention-group students reported improved lecture organization, engagement, and visible incorporation of feedback, while control-group students reported little or no change](qualitative-improvements-intervention-not-control.md) — related
+- [A UDL-based faculty development programme significantly increased medical educators' adoption of all three UDL principles from zero prior use](udl-training-increases-principle-adoption-medical-faculty.md) — related

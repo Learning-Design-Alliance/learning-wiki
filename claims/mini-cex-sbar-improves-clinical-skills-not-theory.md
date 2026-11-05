@@ -57,3 +57,5 @@ Course achievement comparison in the quasi-experimental study: clinical skills f
 - [Classic Mini-CEX systematically overlooks OHL communication practices in pediatric pneumonia education](mini-cex-blind-spot-ohl-communication.md) — related
 - [Modified Peyton’s four-step approach yields higher immediate post-training OSCE scores than traditional Peyton in resident clinical skills training](modified-peyton-higher-immediate-osce.md) — related
 - [Humanistic care-integrated Mini-CEX teaching improves Mini-CEX scores and comprehensive course performance but not the personal traits dimension](mini-cex-humanistic-care-minicex-course-gains.md) — related
+- [Fourth-year medical students in a workplace-based learning program with mini-CEX and DOPS achieve higher MCQ knowledge scores than standard-clerkship peers](wblp-mini-cex-dops-higher-mcq-scores.md) — related
+- [CCS training yields significantly greater post-clerkship Mini-CEX improvements than traditional training across all assessment domains](ccs-greater-post-clerkship-mini-cex-gains.md) — related

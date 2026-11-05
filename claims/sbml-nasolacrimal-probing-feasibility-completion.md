@@ -53,3 +53,4 @@ Prospective single-group pre–post study of 20 ophthalmology residents at a Tha
 - [Knowledge scores from the video-and-MCQ phase showed no significant relationship with pre-practice rubric scores (r = 0.052, p = 0.827)](sbml-mcq-knowledge-no-rubric-correlation.md) — related
 - [After usability testing and refinement, the simulation was piloted with 23 residents without unanticipated technical problems](pilot-23-residents-no-implementation-issues.md) — related
 - [Eye-tracking-based VR feedback with simulated ED interruptions was feasible to implement in a pilot trial](eye-tracking-vr-feedback-feasibility-pilot.md) — related
+- [Mandated multi-role rotation and full attendance in the participatory simulation phase achieved complete learner engagement](multi-role-rotation-full-engagement.md) — related

@@ -51,3 +51,6 @@ Descriptive baseline findings from the multicenter intervention study reported i
 - [Structured education significantly improves health care providers' asthma crisis management and inhaler technique scores over 12 months](structured-education-improves-hcp-inhaler-technique-scores.md) — related
 - [Brief single-session basic education alone produced no statistically significant score changes over 12 months](basic-education-no-significant-change.md) — related
 - [Systematic review evidence indicates only a minority of health care professionals demonstrate correct inhaler technique, with declining rates over time](minority-hcp-correct-inhaler-technique-review.md) — a broader claim this one bears on
+- [Most professionals prefer reviewing inhalation technique over changing the device when patients report difficulties](review-technique-before-changing-device-preference.md) — related
+- [Many Spanish health professionals cannot identify the critical steps for correct inhalation with pMDI and DPI devices](copd-inhaler-critical-steps-knowledge-gaps-survey.md) — related
+- [Professionals rank previous experience, severity and patient preference as the main criteria for choosing a COPD inhaler](inhaler-selection-criteria-experience-severity-preference.md) — related

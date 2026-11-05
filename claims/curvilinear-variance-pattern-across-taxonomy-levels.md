@@ -53,3 +53,4 @@ Pattern observed in Tables 2-4 and Figure 3 summarizing proportions of variance 
 - [All four LLMs award a smaller share of available marks as bash question cognitive complexity increases, with L4 questions receiving the lowest proportions](llm-scores-decline-with-cogtax-level.md) — related
 - [No evidence for a curvilinear relationship between arousal and test performance](no-curvilinear-arousal-performance.md) — related
 - [CBL improved performance at the knowledge level of Bloom's taxonomy, with no differences at comprehension or application levels](cbl-improves-knowledge-level-bloom-performance.md) — related
+- [LLM accuracy declines steadily as question complexity increases, from roughly 80% on recall questions to 28.6–33.3% on case-analysis questions, mirroring the human trend](llm-accuracy-declines-with-question-complexity.md) — related

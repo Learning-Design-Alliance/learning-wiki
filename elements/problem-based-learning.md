@@ -18,7 +18,7 @@ sources:
 # Problem-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (7 for, 1 mixed, 1 against) · 6 studies (3 causal, 3 quant-synthesis), `q1`–`q3` · 3 of 6 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (9 for, 1 mixed, 1 against) · 7 studies (4 causal, 3 quant-synthesis), `q1`–`q3` · 3 of 7 report an effect size · 11 claims rest on one study
 
 ## Description
 Problem-based learning, as an element, refers to the use of an authentic or ill-structured problem as the immediate driver of inquiry, information seeking, and solution development inside a larger design. This page serves as the canonical short-form target for element links that point to PBL-style problem framing.
@@ -56,6 +56,8 @@ Problem-based learning, as an element, refers to the use of an authentic or ill-
 - [The article reports that PBL raised average creative thinking ability above a class taught with the ATI model, which it calls the control class](../claims/pbl-above-control-creative-thinking.md) [+W] — attached 2026-11-01 from Maskur et al. (2020), which proposed "Problem Based Learning model as implemented in this study"; tests this page's relationship.
 - [PBL scored lower than non-PBL on stimulating students to carry on learning, though not statistically significantly](../claims/pbl-lower-stimulated-carry-on-learning-null.md) [-W]
 - [PBL-DeepSeek students achieve higher theoretical examination scores than traditionally taught students in a glaucoma clerkship](../claims/deepseek-pbl-higher-theory-scores-glaucoma.md) [+W]
+- [PBL-trained kidney transplantation specialist trainees achieve higher post-training theoretical examination scores than traditionally trained trainees across all tested domains](../claims/pbl-higher-theoretical-scores-kidney-transplant-training.md) [+M] — attached 2026-11-05 from Gao C et al. (2026), which proposed "Structured PBL curriculum for specialist kidney transplantation training"; tests this page's relationship.
+- [PBL-trained kidney transplantation trainees achieve higher OSCE scores than traditionally trained trainees across all stations](../claims/pbl-higher-osce-scores-kidney-transplant.md) [+M] — attached 2026-11-05 from Gao C et al. (2026), which proposed "Structured PBL curriculum for specialist kidney transplantation training"; tests this page's relationship.
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)

@@ -49,3 +49,4 @@ Descriptive statistics from the perception survey (17 instructor, 16 AI students
 - [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](genai-feedback-rated-higher-genuineness-blind.md) — reports the opposite
 - [Most students preferred combined peer and AI feedback over either source alone, and rated peer and ChatGPT feedback as similarly useful](students-prefer-combined-peer-and-ai-feedback.md) — related
 - [Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin](students-prefer-human-feedback-over-ai.md) — related
+- [Post-test feedback was perceived as fairer and produced more positive affect than immediate feedback and than performance-based feedback](post-test-feedback-higher-fairness-positive-affect.md) — related

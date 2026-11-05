@@ -9,7 +9,6 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2011
-source_checked: 2026-11-02
 sources:
   - id: mettler-et-al-2011
     resource: "https://eric.ed.gov/?id=ED549436"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
-> **Currency** · newest study 2011 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Students beginning with at most 80% pretest accuracy gained 69% in accuracy and 34% in fluency, with Cohen's d of 2.0 (accuracy) and 1.53 (RT). [→ Mettler et al. 2011](#mettler-et-al-2011)

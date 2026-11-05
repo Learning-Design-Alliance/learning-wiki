@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: hosseini-2019
     resource: "https://doi.org/10.29333/iji.2019.1223a"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Experimental group learners taught writing through backward design showed a statistically significant within-group improvement in writing scores from pre-test to post-test (M 4.66 to 5.09); on the randomised comparison, their post-test scores did not differ significantly from the forward-design control group's (ANCOVA p = .10). [→ Hosseini 2019](#hosseini-2019)

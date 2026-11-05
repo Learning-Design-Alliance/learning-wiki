@@ -53,3 +53,4 @@ DHC class 1 on emotional regulation drew on students' self-administered question
 - [Fear of embarrassment and lack of psychological safety reduce nursing students' participation and retention in active learning activities](psychological-safety-barrier-active-learning-nursing.md) — related
 - [Nursing students report emotional responses of inadequacy, low motivation, low self-confidence and fear during clinical practice](emotional-responses-inadequacy-low-motivation-fear.md) — related
 - [Nervousness is the main emotion students identify after their first simulation day, and students link nerves to detrimentally influenced client interactions](nervousness-main-emotion-simulation-reflection.md) — related
+- [Tutees initially felt anxious about receiving peer tutoring due to fear of judgment and stigma, but anxieties typically eased after the first session](tutee-initial-hesitancy-eases-peer-tutoring.md) — related

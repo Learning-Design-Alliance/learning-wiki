@@ -49,3 +49,4 @@ Authors' interpretation in the Discussion, resting on the observed nearly 25% Ty
 - [The consistency gap increases with case complexity, though the 4-question subgroup contained only 7 cases](case-complexity-increases-consistency-gap.md) — a narrower finding that bears on this claim
 - [LLMs with high question-level accuracy on medical licensing exam cases show substantially lower case-level accuracy, with consistency gaps of 10% to 17.9%](llm-consistency-gap-question-vs-case-level.md) — related
 - [LLMs, particularly GPT-4, can match or exceed medical students' examination performance](llms-match-or-exceed-medical-students-exam-performance.md) — related
+- [All three LLMs outscored 32 human SRTP trainees on the mock exam overall, though the gap narrowed for the most complex questions](llms-outperform-human-trainees-srtp-mock-exam.md) — related

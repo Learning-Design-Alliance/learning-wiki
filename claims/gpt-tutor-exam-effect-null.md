@@ -9,7 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: bastani-hamsa-2025
     resource: "https://doi.org/10.1073/pnas.2422633122"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` GPT Tutor students' unassisted exam performance was statistically indistinguishable from control (point estimate −0.004), so the guardrails mitigated but did not reverse the harm into a benefit. [→ Bastani Hamsa 2025](#bastani-hamsa-2025)

@@ -47,3 +47,4 @@ Wilcoxon sign test on the experimental group's (n = 101) three measurements: ini
 ## Related Claims
 - [The tutored group also obtained significantly higher final (indicative exam) grades than the non-tutored group after the 11-week intervention](peer-tutoring-final-grade-advantage.md) — a broader claim this one bears on
 - [Low-performing high school students who received peer tutoring obtained significantly higher first partial exam grades in English than low-performing students who did not](peer-tutoring-first-partial-grade-advantage.md) — related
+- [Peer tutoring enhanced tutees' understanding of complex subjects, exam performance and study strategies in a UAE undergraduate nursing program](peer-tutoring-tutee-academic-gains-nursing-uae.md) — a broader claim this one bears on

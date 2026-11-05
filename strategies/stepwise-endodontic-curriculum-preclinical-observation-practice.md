@@ -52,6 +52,8 @@ The article describes and endorses a three-stage progression in which students f
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 - [Incorporate more clinical exposure and preclinical simulations to improve dental students' TDI management knowledge and confidence.](more-clinical-exposure-preclinical-simulations-tadi.md)
+- [Use combined training modules integrating extracted teeth, artificial/simulative teeth, and phantom bodies in endodontic preclinical curricula](combined-endodontic-training-modules-strategy.md)
+- [Scaffolded progression to independent clinical practice: graded movement from observation to assisted practice to supervised independent care](scaffolded-progression-independent-clinical-practice.md)
 
 ## Examples
 -

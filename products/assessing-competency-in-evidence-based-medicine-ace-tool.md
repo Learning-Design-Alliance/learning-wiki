@@ -25,7 +25,8 @@ A clinical-scenario-based assessment developed by Ilic et al. that measures evid
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Adapted four-domain EBM questionnaire (Hasabo et al.)](adapted-four-domain-ebm-questionnaire-hasabo-et-al.md)
 
 ## Key Sources
 - Zand Vahid, Bazi Ramin, Keshmiri Fatemeh. (2026). Game-based blended learning versus traditional lecture for evidence-based medicine (EBM) competencies in undergraduate medical students: a quasi-experimental study. BMC Medical Education. https://doi.org/10.1186/s12909-026-09628-3

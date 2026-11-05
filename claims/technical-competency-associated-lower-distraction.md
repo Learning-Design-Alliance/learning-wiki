@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-17
+source_checked: 2026-11-05
 sources:
   - id: shi-2025
     resource: "https://doi.org/10.17605/OSF.IO/P85S3"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' technical confidence using digital learning tools was positively associated with lower distraction levels. [→ Shi 2025](#shi-2025)

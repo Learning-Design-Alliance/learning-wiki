@@ -49,6 +49,7 @@ The article recommends integrating dedicated surgical care practitioners (SCPs) 
 - [Stepwise progression pathway integrating theoretical instruction, simulation, and supervised clinical practice](stepwise-progression-theory-simulation-supervised-practice.md)
 - [Structured cross-platform training curriculum combining generalised exposure and platform-specific proficiency](cross-platform-training-curriculum-robotic-surgery.md)
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
+- [Adopt PBP training in high-volume national surgical training programmes](pbp-for-high-volume-national-programmes.md)
 
 ## Examples
 -

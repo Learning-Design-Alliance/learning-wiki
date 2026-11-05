@@ -51,3 +51,5 @@ Wilcoxon tests comparing questionnaire scores at 0 and 12 months across all 20 p
 - [Within the intensive education group, consultants and residents improved significantly on all three measures while nurses did not](intensive-group-consultants-residents-improved-nurses-not.md) — related
 - [Systematic review evidence indicates only a minority of health care professionals demonstrate correct inhaler technique, with declining rates over time](minority-hcp-correct-inhaler-technique-review.md) — related
 - [Inhaler technique with a mouthpiece improved significantly in all health care professional groups, including nurses](mouthpiece-technique-improved-all-hcp-groups.md) — related
+- [Most professionals prefer reviewing inhalation technique over changing the device when patients report difficulties](review-technique-before-changing-device-preference.md) — related
+- [Professionals rank previous experience, severity and patient preference as the main criteria for choosing a COPD inhaler](inhaler-selection-criteria-experience-severity-preference.md) — related

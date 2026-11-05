@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-05
 sources:
   - id: chi-2018
     resource: "https://doi.org/10.1111/cogs.12626"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After completing ICAP professional development, teachers showed minimal success at designing lesson plans in the Constructive and Interactive modes and at eliciting Interactive engagement. [→ Chi 2018](#chi-2018)

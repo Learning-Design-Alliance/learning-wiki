@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 recheck_by: 2027
 sources:
   - id: vigna-giulia-2022
@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
-> **Currency** · newest study 2022 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2027: baselines and conditions change
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i3` Adults with DD scored significantly lower than controls on the NADL Informal Test total (r = -0.458, p = 0.001). [→ Vigna Giulia 2022](#vigna-giulia-2022)

@@ -46,6 +46,7 @@ The review recommends that future research establish a standard definition for b
 - [Attach a minimal terminology statement (term, operational definition, hypothesized pathway) to each study](minimal-terminology-statement-per-study.md)
 - [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](clarify-purpose-norm-expectations-calibrate-pog.md)
 - [Standardize EA wording and align activities with competency-based curricula through stakeholder consultation](standardize-ea-wording-cbme-alignment.md)
+- [Strengthen English language preparation and consider holistic admission tools in English-medium medical admissions](strengthen-english-preparation-holistic-admission-tools.md)
 
 ## Examples
 -

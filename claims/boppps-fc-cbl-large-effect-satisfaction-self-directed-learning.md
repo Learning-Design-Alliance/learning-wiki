@@ -57,3 +57,8 @@ Randomised trial of 38 general-practice residents (19 per group) in one hospital
 - [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
 - [92.60% of students were satisfied with the A-SPIRE model and 96.3% believed their science communication ability improved](a-spire-high-satisfaction-self-assessed-improvement.md) — related
 - [Residents rated all learning-experience and satisfaction dimensions significantly above neutral, and satisfaction with technological implementation was the strongest predictor of overall satisfaction](resident-satisfaction-technology-implementation-predictor.md) — related
+- [Students reported high satisfaction with the BOPPPS-flipped classroom model in pediatric dentistry](boppps-flipped-high-student-satisfaction.md) — related
+- [Intervention students reported exceptionally high satisfaction with BOPPPS-based pre-anesthesia care training (48.53 of 50)](boppps-high-satisfaction.md) — related
+- [Nurses report very high satisfaction with the BOPPPS-plus-simulation training course, with objectives and assessment criteria rated lowest](high-satisfaction-boppps-simulation-training.md) — related
+- [Students across all groups reported high satisfaction with the module, with no statistically significant group differences in satisfaction or self-reported mastery](high-satisfaction-no-group-differences-perceptions.md) — related
+- [Pre-reform survey found high flipped-classroom awareness but minimal BOPPPS familiarity and limited willingness to participate](pre-survey-awareness-boppps-flipped-dentistry.md) — related

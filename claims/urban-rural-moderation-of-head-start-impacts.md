@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: morris-2018
     resource: "https://doi.org/10.1177/2332858418769287"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
-> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The effect of random assignment to Head Start on receptive vocabulary was 0.14 SD in urban versus 0.07 SD in rural communities (a 0.07-SD difference); oral comprehension impacts were 0.10 SD rural versus −0.02 SD urban. [→ Morris 2018](#morris-2018)

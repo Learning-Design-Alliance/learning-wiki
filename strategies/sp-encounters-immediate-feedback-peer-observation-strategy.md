@@ -48,6 +48,7 @@ Learners in small groups of 4–6 observe peers in SP encounters from outside OS
 ## Related Strategies
 
 - [Include a patient panel discussion to ground communication training in patient experiences](patient-panel-discussion-communication-training.md)
+- [Provide immediate formative feedback from faculty and embedded participants after each OSCE station](immediate-formative-feedback-after-each-osce-station.md)
 
 ## Examples
 -

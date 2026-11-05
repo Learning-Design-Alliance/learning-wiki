@@ -58,3 +58,5 @@ Four-station OSCE with blinded assessors (ICC>0.85) in the same cohort study; th
 - [End-of-rotation OSCE total score correlated moderately with FCB-CHOPS (r = 0.61) and mini-CEX (r = 0.48), indicating overlapping but non-identical constructs](osce-correlates-fcb-chops-mini-cex.md) — related
 - [AI-assisted CBL+FC residents achieve higher OSCE total scores than lecture controls, driven by history collection and physical examination stations](ai-assisted-cbl-fc-osce-total-scores.md) — related
 - [Total clinical reasoning OSCE scores rose from pre-test to post-test among emergency medicine clerkship students in a single-group pre-test–post-test study of an online flipped classroom intervention](ofc-improved-clinical-reasoning-osce-emergency-clerkship.md) — related
+- [WBLP students achieve higher total OSCE clinical competence scores than standard-clerkship controls](wblp-higher-total-osce-scores.md) — related
+- [WBLP students show the largest performance gap in procedural skills (bone marrow aspiration and thoracentesis), with gains also in history taking, clinical reasoning, and physical examination](wblp-largest-gap-procedural-skills-station.md) — related

@@ -50,3 +50,4 @@ Spearman correlation in an analytical cross-sectional study of 320 undergraduate
 - [Real-time interaction with AI tools is positively associated with academic performance among undergraduate nursing students](rti-ai-positive-association-academic-performance-nursing.md) — related
 - [Real-time interaction with AI tools significantly predicts learning experience in linear regression](rti-ai-predicts-learning-experience-regression.md) — related
 - [Real-time interaction with AI tools significantly predicts academic performance in linear regression](rti-ai-predicts-academic-performance-regression.md) — related
+- [Online real-time teaching interaction is positively correlated with teaching effect among undergraduate nursing students (r = 0.398)](online-interaction-correlates-teaching-effect-nursing.md) — related

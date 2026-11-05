@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: watson-amanda-2017
     resource: "https://doi.org/10.1186/s12966-017-0569-9"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A meta-analysis of five studies found a positive but non-significant pooled estimate for classroom-based physical activity on cognitive function (SMD = 0.33, 95% CI -0.11 to 0.77), which the authors report as no effect; the interval does not rule out a benefit, and individual studies were inconsistent. [→ Watson Amanda 2017](#watson-amanda-2017)

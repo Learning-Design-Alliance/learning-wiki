@@ -50,3 +50,5 @@ Quasi-experimental study with a historical control design at one Chinese univers
 - [INACSL-standard-based simulation training does not significantly improve midwifery students' self-confidence compared with standard training](inacsl-simulation-no-self-confidence-gain.md) — related
 - [INACSL-standard-based simulation training increases active learning scores versus standard simulation training](inacsl-simulation-raises-active-learning.md) — related
 - [Undergraduate dental students report high satisfaction and self-confidence in simulation-based clinical decision-making training using LLM-based standardized virtual patients](dental-students-high-satisfaction-llm-virtual-patients.md) — related
+- [Compared with students receiving no prior training, structured-training students report lower apprehension about causing pain but lower postprocedure satisfaction](sensitivity-analysis-pain-apprehension-satisfaction.md) — related
+- [Self-reported apprehension and confidence do not differ significantly between structured-training and usual-teaching students](structured-training-no-difference-self-reported-confidence.md) — related

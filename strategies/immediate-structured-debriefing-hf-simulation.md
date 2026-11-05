@@ -64,6 +64,7 @@ The review recommends that debriefing be treated as a critical phase of high-fid
 - [Structured tutor-guided debriefing to drive reflective observation and abstract conceptualisation](structured-debriefing-reflection-bedside.md)
 - [Structured post-scenario debriefing after each simulation scenario](post-scenario-debriefing-triage-simulation.md)
 - [Use remote instructor-led AR simulation to deliver standardized team-leader assessment where in-person simulation access is limited](remote-ar-assessment-resource-limited-settings-strategy.md)
+- [Structure a remote AR simulation session as orientation, preparatory video, simulation, structured debriefing, and post-intervention questionnaires](remote-ar-session-structure-strategy.md)
 
 ## Examples
 -

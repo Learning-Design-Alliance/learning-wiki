@@ -50,3 +50,4 @@ Subject-area breakdown of the same 84-question EUS benchmark (Table 2). Pharmacy
 - [ChatGPT accuracy on health licensing examinations is highest in pharmacy and lowest in nursing](chatgpt-accuracy-field-order-pharmacy-nursing.md) — a broader claim this one bears on
 - [LLMs frequently assign maximum self-reported confidence to incorrect EUS answers](llm-overconfidence-incorrect-eus-answers.md) — related
 - [Several LLMs achieved 100% accuracy on knowledge-based topics including restorative procedures, periodontal diseases, and local anesthesia](llms-perfect-accuracy-knowledge-based-topics.md) — related
+- [LLM accuracy varied by subject area, with oral pathology (94%) and salivary gland diseases (91.8%) highest and radiological anatomy (67.3%) lowest; only Copilot showed a statistically significant across-subject difference](subject-area-accuracy-variation-dus-llms.md) — related

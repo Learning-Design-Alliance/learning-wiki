@@ -48,3 +48,4 @@ Inductive qualitative analysis of open-ended questionnaire responses from the 14
 ## Related Claims
 - [Certified preceptors reported high satisfaction with the certification system, with every questionnaire item scoring above 4.7 on a 5-point scale (Cronbach's α = 0.936)](preceptor-certification-satisfaction-above-4-7.md) — related
 - [Preceptors identified nine potentialities through which simulation may support newly graduated nurses during their transition to independent practice](nine-simulation-potentialities-ngrn-transition.md) — related
+- [Nine of 14 preceptors (64%) had received no formal clinical teaching training despite precepting final-year nursing students](preceptors-lack-formal-teaching-training-pakistan.md) — related

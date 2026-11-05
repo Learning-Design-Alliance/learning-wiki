@@ -63,6 +63,7 @@ Mindfulness instruction works as skill training, not as a one-off activity: bene
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — mindfulness is the attentional foundation for the monitoring phase of self-regulated learning cycles
 - [Set up learning environments encouraging mind and body balance by implementing wellness techniques such as meditation, yoga, and exercise in daily instruction, and use Zoom Cafés for social presence](wellness-techniques-zoom-cafes-daily-instruction.md)
 - [Teach an academic toolbox combining study strategies with self-regulation skills such as goal setting, time management, and anxiety coping techniques](academic-toolbox-strategy-instruction.md)
+- [Deep slow breathing (including the 4-7-8 method) as a pre-procedure stress-management technique for trainees performing time-critical procedures](deep-slow-breathing-attenuates-procedural-stress.md)
 
 ## Examples
 - **[MindUP](https://mindup.org)** — an evidence-informed curriculum in which classrooms begin with a daily "Brain Break" (three-minute breathing practice) followed by lessons on attention and emotion

@@ -96,3 +96,4 @@ The review reports Dwisaptarini et al.'s RCT of minimal invasive caries removal 
 - [Simulator-based performance metrics are comparable between students trained before versus after artificial-tooth practice](simulator-metrics-comparable-between-groups.md) — related
 - [Dental students who train on a VR haptic simulator before artificial-teeth practice score higher on preclinical access cavity preparation and self-assessment than students who practice on artificial teeth first](vr-first-higher-preclinical-dexterity-scores.md) — reports the opposite
 - [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in clinical operational skills](hybrid-cbl-sst-no-difference-clinical-skills.md) — related
+- [Haptic VR training produces no significant difference in implant depth error compared to traditional mentor teaching in novice medical students](haptic-vr-hip-arthroplasty-iderror-null.md) — related

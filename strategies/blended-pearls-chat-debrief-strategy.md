@@ -64,6 +64,7 @@ The article recommends a blended debrief approach: the four PEARLS phases (react
 - [Use structured debriefing questions to ensure learning objectives are met regardless of facilitator experience](structured-debriefing-questions-user-friendly-guide.md)
 - [Structured tutor-guided debriefing to drive reflective observation and abstract conceptualisation](structured-debriefing-reflection-bedside.md)
 - [Use a structured debriefing script (modified PEARLS) to scaffold self-guided debriefing in VR simulation](structured-script-scaffolds-self-guided-debriefing.md)
+- [Include a post-game debriefing period in which groups reflect on an evolutionary tree from the game through guided questions.](venomventure-post-game-debriefing-strategy.md)
 
 ## Examples
 -

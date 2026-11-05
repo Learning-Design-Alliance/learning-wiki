@@ -52,6 +52,7 @@ The article recommends increasing laboratory practice hours and expanding simula
 - [Expand simulation-based teaching to additional physiology practicals and organ systems](expand-simulation-across-physiology-curriculum.md)
 - [Integrate simulation technologies with traditional teaching through blended approaches tailored to specific clinical tasks](blended-simulation-integration-orthodontic-curricula.md)
 - [Integrate hybrid simulation into clinical skills curricula to concurrently train communication and technical skills in a safe, repeatable environment](integrate-hybrid-simulation-clinical-skills-curricula.md)
+- [Expand affordable, accessible Makaton training and embed it in undergraduate professional education](expand-makaton-training-embed-curricula.md)
 
 ## Examples
 -

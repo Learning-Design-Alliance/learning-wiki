@@ -49,3 +49,4 @@ Frequency-of-use data from the same cross-sectional survey (n = 354). Descriptiv
 - [Students' perceptions of university lectures are significantly below neutral, with female students rating lectures more positively than males](ul-perceptions-below-neutral-females-higher.md) — related
 - [YouTube is the most used online video platform overall, but reliance shifts toward specialized platforms as students enter clinical years](youtube-dominant-shift-to-specialized-platforms.md) — related
 - [Students' perceptions of mandatory attendance are significantly below neutral and decline across academic years](attendance-perceptions-below-neutral-decline-by-year.md) — related
+- [Early-year medical students report substantially higher lecture attendance at the peer society than later-year students, and both groups prefer online lectures](early-year-higher-attendance-online-preference.md) — related

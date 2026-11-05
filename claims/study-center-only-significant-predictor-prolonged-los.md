@@ -49,3 +49,4 @@ Exploratory analysis within the record-review phase: "the only factor significan
 - [Median hospital length of stay was longer in the intervention group than the control group (19 vs. 13 days)](longer-los-intervention-group.md) — related
 - [Resident-led femoral IMN takes longer but shows no difference in revision rates or hospital stay](resident-imn-longer-operative-time-similar-revision-stay.md) — related
 - [Knowledge gains from the tele-education program were consistent across all four participating hospitals](teleeducation-knowledge-gains-consistent-across-centers.md) — related
+- [Length of hospital stay decreased significantly with surgical experience in laparoscopic radical prostatectomy, while catheterization duration did not change](hospital-stay-decreases-with-lrp-experience.md) — related

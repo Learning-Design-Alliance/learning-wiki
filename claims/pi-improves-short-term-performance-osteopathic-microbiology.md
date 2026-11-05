@@ -50,3 +50,4 @@ A paired-samples t-test in a single-group pre–post quasi-experimental study of
 - [Exit quiz scores correlated positively with both pre- and post-PI scores.](exit-quiz-correlates-pre-post-pi.md) — related
 - [Item-level analysis found statistically significant score rises on 9 of 10 peer instruction questions from pre-test to post-test in one group with no comparison group, after Holm–Bonferroni correction.](pi-item-level-improvement-nine-of-ten.md) — related
 - [No significant association was observed between student perceptions and measured learning gains.](perceptions-not-aligned-with-gains.md) — related
+- [Experimental-group quiz scores rose significantly from before to after each PA-PBL session](pa-pbl-quiz-gains-pre-post.md) — related

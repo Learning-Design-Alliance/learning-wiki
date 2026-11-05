@@ -9,7 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2020
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: takeuchi-2020
     resource: "https://doi.org/10.1080/07370008.2020.1825438"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2020 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite opportunities to use multiple languages, Daniel was positioned as an ELL needing help, given peripheral tasks, and deprived of speaking and expressing. [→ Takeuchi 2020](#takeuchi-2020)

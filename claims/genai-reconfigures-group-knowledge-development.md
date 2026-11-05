@@ -59,3 +59,4 @@ The review's thematic synthesis of 18 studies reports AI positioned as an active
 - [Student co-authorship and open-source release enacted epistemic equity, transitioning students from data sources to knowledge producers](student-coauthorship-enacts-epistemic-equity.md) — related
 - [GenAI can act as an active participant in professional learning communities, transforming teacher knowledge construction](genai-active-participant-professional-learning-communities.md) — possibly the same claim (merge candidate)
 - [GenAI can most effectively support knowledge building in the Collaboration Zone as a dialogic 'sparring partner'](genai-collaboration-zone-sparring-partner.md) — a narrower finding that bears on this claim
+- [Students experienced ethically scaffolded AI tools as cognitive partners, metacognitive mirrors, and equity tools in EFL writing](ai-cognitive-partner-metacognitive-mirror-equity-roles.md) — a narrower finding that bears on this claim

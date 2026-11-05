@@ -52,3 +52,4 @@ Project report describing a 353 staff development project in which nine instruct
 - [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — related
 - [Peer monitoring among MBA learners goes beyond CoI social presence by involving professionally relevant evaluation of peers' contributions](peer-monitoring-exceeds-social-presence.md) — related
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related
+- [The study identifies well-structured project design, adequate teacher support, and cultivated self-directed learning awareness as core elements for effective PBL implementation](pbl-core-elements-postgraduate-implementation.md) — a narrower finding that bears on this claim

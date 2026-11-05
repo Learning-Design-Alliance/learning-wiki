@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: tümsek-gizem-solmaz-and-akmeşe-zehra-baykal-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1808239"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Tümsek Gizem Solmaz and Akmeşe Zehra Baykal 2026: no comparison group (read from the study by two models, 2026-11-05)
 
 ## Subclaims

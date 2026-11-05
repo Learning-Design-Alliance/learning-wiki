@@ -30,7 +30,8 @@ The article organizes PA motivation research around four prominent theories — 
 - [Pedagogical agents show essentially no effect on learners' intrinsic motivation (g = 0.00)](../claims/pa-no-effect-intrinsic-motivation.md) [-M]
 
 ## Related Research Methods
--
+
+- [Theory-driven framing of non-content instructor talk via immediacy, self-efficacy, and task values](theory-driven-framing-of-non-content-instructor-talk-via-immediacy-self-efficacy-and-task.md)
 
 ## Key Sources
 - Gladstone, J. R., Schroeder, N. L., Heidig, S., Zhang, S., Palaguachi, C., & Pitera, M. (2025). Do Pedagogical Agents Enhance Student Motivation? Unraveling the Evidence Through Meta-Analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10050-2

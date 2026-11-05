@@ -9,7 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2020
-source_checked: 2026-10-21
+source_checked: 2026-11-05
 sources:
   - id: joachim-wirth-2020
     resource: "https://doi.org/10.1007/s10648-020-09568-4"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
-> **Currency** · newest study 2020 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Nückles et al.'s (2010) second experiment, the fading-out prompts group reported significantly more cognitive strategies and showed higher learning outcomes than the permanent prompts group. [→ Joachim Wirth 2020](#joachim-wirth-2020)

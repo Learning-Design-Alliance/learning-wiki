@@ -9,7 +9,7 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 newest_evidence: 2010
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: matthew-jensen-hays-2010
     resource: "https://doi.org/10.3758/PBR.17.6.797"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2010 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Final recall was reliably greater when feedback skipping was permitted (M = .72) than when it was forbidden (M = .63). [→ Matthew Jensen Hays 2010](#matthew-jensen-hays-2010)

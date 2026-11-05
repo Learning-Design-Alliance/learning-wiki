@@ -47,3 +47,4 @@ Theoretical/definitional statement from the introduction about the VL as a teach
 ## Related Claims
 - [Simulation-based training improved theoretical knowledge of intubation and videolaryngoscopy among ED residents (mean pretest 12.9/20 vs post-test 14.6/20, p<0.001)](simulation-improves-vl-intubation-theoretical-knowledge.md) — related
 - [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](facilitators-prefer-vad-objective-feedback.md) — related
+- [Video-laryngoscopy assisted coaching improves first-attempt neonatal intubation success among trainees, though one curriculum study found worse outcomes for early learners taught with VL](vl-assisted-coaching-improves-neonatal-intubation-success.md) — related

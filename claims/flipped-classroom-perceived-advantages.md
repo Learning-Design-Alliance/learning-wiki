@@ -53,3 +53,4 @@ Content analysis of open-ended questionnaire responses from the experimental gro
 - [Flipped classrooms depend on student participation and home technology access, limiting applicability](flipped-classroom-participation-and-access-barriers.md) — related
 - [Students valued flexibility and self-directed learning but desired more in-person interaction and better lecture recordings in the hybrid flipped course](student-themes-flexibility-interaction-recordings.md) — related
 - [TBL students attribute self-efficacy to peer discussion while lecture students attribute it to practice cases and systematic approach](tbl-peer-discussion-vs-lecture-practice-cases-self-efficacy.md) — related
+- [Collaborative learning in the postgraduate PBL course did not achieve deep peer collaboration, unlike the positive self-directed learning outcomes](pbl-collaborative-learning-shortfall.md) — related

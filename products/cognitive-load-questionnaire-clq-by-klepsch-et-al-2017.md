@@ -37,6 +37,7 @@ An eight-item self-report assessment developed by Klepsch and colleagues for mea
 
 - [MEL-TS: a translingual set of mental effort and mental load self-rating items in six languages](mel-ts-a-translingual-set-of-mental-effort-and-mental-load-self-rating-items-in-six-langua.md)
 - [Goal-Setting Procedure Instrument (GSPI)](goal-setting-procedure-instrument-gspi.md)
+- [AI-assisted Teaching Cognitive Load (ATCL) scale](ai-assisted-teaching-cognitive-load-atcl-scale.md)
 
 ## Key Sources
 - Melina Klepsch, Tina Seufert. (2020). Understanding instructional design effects by differentiated measurement of intrinsic, extraneous, and germane cognitive load. Instructional Science (2020) 48:45–77. https://doi.org/10.1007/s11251-020-09502-9

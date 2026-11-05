@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2024
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: guo-qian-2024
     resource: "https://doi.org/10.1371/journal.pone.0307819"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Guo Qian 2024 (2): the intervention came bundled with another change (Mobile Assisted Language Learning (MALL) applications) (read from the study by two models, 2026-10-31)
 
 ## Subclaims

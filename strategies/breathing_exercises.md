@@ -65,6 +65,7 @@ Slow, controlled breathing reliably shifts autonomic state — increasing parasy
 - [Deliver scalable socio-emotional support in ITSs via LLM-based mindful chat, breathing exercises, and mindful hint language](llm-mindfulness-layer-in-its.md)
 - [Use exhale-dominant and inhale-dominant breathing to tune alertness to the calm-alert range for learning](breathing-techniques-tune-alertness.md)
 - [Teach elevator breathing and guided relaxation in short school-based sessions over five weeks](school-based-elevator-breathing-guided-relaxation-strategy.md)
+- [Deep slow breathing (including the 4-7-8 method) as a pre-procedure stress-management technique for trainees performing time-critical procedures](deep-slow-breathing-attenuates-procedural-stress.md)
 
 ## Examples
 - **MindUP** (The Goldie Hawn Foundation) — a school-based curriculum in which a daily three-minute "brain break" breathing practice anchors each lesson across K–8 classrooms. https://mindup.org

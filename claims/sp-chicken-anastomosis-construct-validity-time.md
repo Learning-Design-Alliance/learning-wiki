@@ -56,3 +56,4 @@ Blinded construct validity comparison of recorded SP chicken anastomosis perform
 - [Novice first-attempt completion times were significantly longer than expert times on all six FRS VR tasks](frs-vr-novice-times-longer-than-experts.md) — related
 - [The test significantly discriminates between novices and experienced anesthesiologists (p < 0.001)](foi-test-discriminates-novices-experienced.md) — related
 - [Novices take significantly longer to complete simulated WFWB procedures than intermediate and expert providers](novices-longer-completion-times-wfwb-simulation.md) — related
+- [Expert surgeons outperformed novices on all four quantitative measures of the resection task: smaller margin errors, lower carbonization, faster resection, fewer grasps](experts-outperform-novices-four-measures.md) — related

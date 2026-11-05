@@ -50,6 +50,8 @@ The report recommends treating infrastructure investment as inseparable from tec
 - [Pair literacy accountability indicators with funded professional development and aligned mandates](pair-literacy-accountability-with-funded-pd.md)
 - [Integrate e-learning into health professions training while ensuring equitable technology access and developing students' computer skills](integrate-elearning-equitable-access-computer-skills.md)
 - [Institutions should pilot low-stakes, prespecify evaluation indicators, and scale only after governance, faculty capacity, and equity safeguards are in place](phased-low-stakes-pilot-implementation.md)
+- [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
+- [Prepare teachers and infrastructure before implementing VR-based learning on sensitive topics](teacher-preparation-technical-support-vr-implementation.md)
 
 ## Examples
 -

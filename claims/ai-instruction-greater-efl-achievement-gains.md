@@ -69,3 +69,5 @@ Mixed-design ANOVA on pre/post English achievement tests (grammar, vocabulary, r
 - [Cooperative Learning activities improve EFL university students' oral fluency of speaking compared with conventional instruction](cooperative-learning-activities-improve-efl-oral-fluency.md) — related
 - [A 2×2 mixed ANOVA showed a significant time-by-group interaction in narrative writing scores favoring DS-integrated instruction over traditional writing instruction](ds-integrated-writing-instruction-interaction-advantage.md) — related
 - [Seven weeks of Smartboard instruction produced significantly higher post-treatment motivation than traditional whiteboard instruction in Saudi preparatory-year EFL learners](smartboard-raises-efl-motivation-saudi-pyp.md) — related
+- [AI-mediated active learning produces significantly larger EFL writing gains than traditional teacher-centered instruction in a 15-week quasi-experiment](ai-mediated-active-learning-writing-gains.md) — related
+- [AI-mediated active learning advantages in EFL writing emerge after roughly 6-8 weeks of partnership development](cognitive-partnership-6-8-week-maturation.md) — related

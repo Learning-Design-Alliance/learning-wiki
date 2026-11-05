@@ -77,6 +77,7 @@ A free, structured **UbD Template 2.0** (Wiggins & McTighe) walks designers thro
 - [FOCUS curriculum design: backward design, just-in-time developmental sequencing, and deconstruct/reconstruct](../designs/focus-curriculum-design-pattern.md)
 - [Implement UbD through collaborative teacher design groups with iterative evaluation meetings](../strategies/ubd-teacher-design-groups-strategy.md)
 - [Use a life-relevant theme (smart city) as the STEM practice curriculum with staged 18-week activities](../strategies/smart-city-themed-staged-stem-strategy.md)
+- [Structure discussion section time with a short objectives review, a structured activity, and follow-up review](../strategies/structured-discussion-section-time-recipe.md)
 
 ## Key Sources
 - Wiggins, G., & McTighe, J. (1998). *Understanding by design*. Association for Supervision and Curriculum Development.

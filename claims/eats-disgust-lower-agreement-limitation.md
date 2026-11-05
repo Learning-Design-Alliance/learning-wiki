@@ -49,3 +49,4 @@ Bland–Altman analysis of EATS versus observer coding for the disgust category 
 - [EATS showed high agreement with expert observation for happiness, surprise, sadness, and fear (92.5–97.5%) and for attention (97.5%)](eats-bland-altman-high-agreement-emotions-attention.md) — related
 - [Facial expression recognition of six basic emotions via FACS can detect learner emotional states in real time](facs-six-basic-emotions-detection.md) — related
 - [MathBuddy's multimodal emotion aggregation matched participant-reviewed emotions at 60% overall accuracy, with sharply reduced recall for the Neutral class](multimodal-emotion-aggregation-60-percent-accuracy.md) — related
+- [A Duchenne smile versus a neutral expression does not increase medical students' trustworthiness ratings of avatar trustees](duchenne-smile-no-trustworthiness-effect.md) — related

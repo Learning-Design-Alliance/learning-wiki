@@ -49,3 +49,4 @@ Controlled pre-post survey analysis; Table 2 shows Q2 rose significantly in both
 - [UDL instructor training significantly increased students' reported observation of representation-related UDL strategies in intervention sections but not control sections](udl-training-increases-representation-strategies.md) — related
 - [Both groups increased in beginning lectures with an outline, but the intervention group showed significantly more change (Q7)](udl-training-outline-item-interaction.md) — related
 - [For several UDL items the intervention group showed significantly greater pre-to-post change than the control group (significant PrePost x Group interactions)](udl-training-prepost-group-interactions.md) — related
+- [A UDL-based faculty development programme significantly increased medical educators' adoption of all three UDL principles from zero prior use](udl-training-increases-principle-adoption-medical-faculty.md) — related

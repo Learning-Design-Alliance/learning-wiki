@@ -48,3 +48,4 @@ Pooled student-level comparison across all 136 evaluations in the in vitro manik
 - [Distributed preclinical practice is associated with roughly twofold odds of complete simulated calculus removal versus massed training](distributed-training-calculus-removal-or.md) — related
 - [Less-trained students rate the sonic scaler more favourably despite lower objective performance, and perceived effectiveness does not correlate with measured effectiveness](self-assessment-dissociation-massed-cohort.md) — related
 - [Across the preclinical-to-clinical transition students become faster while cleaning quality declines — a speed–accuracy trade-off independent of training schedule](speed-accuracy-tradeoff-clinical-transition.md) — related
+- [Residual subgingival calculus after practice concentrated on the palatal tooth surfaces, where the PE in-person group retained less calculus than the other groups](palatal-surface-calculus-retention-pattern.md) — related

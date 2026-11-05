@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: fernandes-ivan-filho-rodrigues-cibele-isaac-saad-korkes-henri-augusto-de-sampaio-luiz-ferraz-neto-2025
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12711243/"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 4 studies on other skills, 2 indicated PBL generated better teamwork development and 2 indicated PBL contributed to students' communication skills. [→ Fernandes Ivan Filho; Rodrigues Cibele Isaac Saad; Korkes Henri Augusto; de Sampaio Luiz Ferraz Neto 2025](#fernandes-ivan-filho-rodrigues-cibele-isaac-saad-korkes-henri-augusto-de-sampaio-luiz-ferraz-neto-2025)

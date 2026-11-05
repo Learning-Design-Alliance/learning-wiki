@@ -56,3 +56,5 @@ Dimension-level critical thinking results in the same assessor-blinded RCT of 50
 - [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related
 - [All critical thinking subscales except inquisitiveness improved after DBSS; inquisitiveness showed no significant change](dbss-cctdi-subscales-except-inquisitiveness-improve.md) — reports the opposite
 - [PBL-CBL teaching was associated with higher critical thinking disposition scores than LBL across CCTDI-adapted questionnaire traits](pbl-cbl-higher-critical-thinking-dispositions.md) — related
+- [DwGJ participants consistently outperformed controls across self-reported clinical reasoning dimensions of critical thinking, systematic thinking, and evidence-based thinking](dwgj-cbl-higher-self-reported-clinical-reasoning.md) — related
+- [Several individual clinical-reasoning questionnaire items showed no significant difference between the DwGJ and control groups](dwgj-reasoning-item-level-null-differences.md) — related

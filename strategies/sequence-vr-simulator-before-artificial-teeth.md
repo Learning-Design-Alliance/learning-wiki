@@ -53,7 +53,8 @@ The article's central design recommendation is to place VR haptic simulator sess
 - [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](../claims/ir-dental-equivalence-mixed-findings.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Use combined training modules integrating extracted teeth, artificial/simulative teeth, and phantom bodies in endodontic preclinical curricula](combined-endodontic-training-modules-strategy.md)
 
 ## Examples
 -

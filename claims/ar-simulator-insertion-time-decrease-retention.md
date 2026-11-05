@@ -50,3 +50,4 @@ Within-subject paired Wilcoxon signed-rank tests on 23 analyzed participants sho
 - [Number of simulated fluoroscopic images declined significantly for insertion and alignment across training runs](ar-simulator-fluoroscopic-image-count-decline.md) — related
 - [Implant placement accuracy remained stable across simulation and retention runs with no significant improvement](ar-simulator-implant-accuracy-stable.md) — related
 - [Short-term skill retention after AR-guided training was stable for time and imaging metrics at a minimum one-day follow-up](ar-simulator-short-term-retention-stable.md) — a narrower finding that bears on this claim
+- [Operative time does not differ between training groups for successful implant insertions, despite a medium-sized non-significant difference](haptic-vr-operative-time-successful-null.md) — related

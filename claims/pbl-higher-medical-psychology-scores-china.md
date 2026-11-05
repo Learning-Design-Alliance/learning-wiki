@@ -53,3 +53,4 @@ Systematic review and meta-analysis of nine studies (551 cases, 496 controls) co
 - [Students were generally satisfied with the PBL approach across the included studies](pbl-medical-psychology-student-satisfaction.md) — related
 - [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — a narrower finding that bears on this claim
 - [Online PBL was associated with higher student satisfaction than in-person PBL in a Japanese medical cohort](online-pbl-higher-satisfaction-japanese-cohort.md) — related
+- [Medical students taught with PA-PBL added to lectures scored significantly higher than lecture-only controls on the final examination total score and on knowledge-recall MCQs, case-based MCQs, and MEQs](pa-pbl-higher-final-exam-scores-than-lecture.md) — related

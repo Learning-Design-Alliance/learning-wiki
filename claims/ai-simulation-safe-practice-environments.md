@@ -91,3 +91,5 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [An immersive anatomy education EMS placement fostered self-directed, active, experiential learning and enhanced motivation and clinical relevance of anatomy](anatomy-ems-quality-learning-theme.md) — related
 - [Introducing SBE as a third learning site may increase the theory-practice split for student nurses](sbe-may-increase-theory-practice-split.md) — reports the opposite
 - [Moderators bridged theory-practice gaps by sharing their own clinical experiences on screening, treatment protocols, and evidence translation](moderator-clinical-practice-bridging.md) — related
+- [Repeated VR practice of therapeutic conversations builds students' confidence and flow in communication](vr-repeated-practice-confidence-flow.md) — a narrower finding that bears on this claim
+- [VR simulation training fostered active engagement and a greater sense of preparedness for clinical practice among medical students](vr-training-fostered-engagement-preparedness.md) — related

@@ -74,3 +74,5 @@ Randomised controlled trial (Bi et al., 2019) in which 80 first-year postgraduat
 - [CBE-MDT teaching improves final exam scores compared with traditional teaching in radiation oncology rotations](cbe-mdt-improves-exam-scores-radiation-oncology.md) — related
 - [Simulation-based PBLS training increases caregiver confidence and satisfaction with training](simulation-pbls-increases-caregiver-confidence.md) — related
 - [Integrated clinical pathway and case-based teaching yields higher post-training theoretical examination scores than traditional teaching in endocrinology residency](clinical-pathway-cbt-higher-theoretical-scores.md) — related
+- [CCS training produces higher theoretical examination scores than traditional didactic training across all four classes of non-dentistry medical undergraduates](ccs-higher-theoretical-exam-scores-stomatology.md) — related
+- [Medical students taught with PA-PBL added to lectures scored significantly higher than lecture-only controls on the final examination total score and on knowledge-recall MCQs, case-based MCQs, and MEQs](pa-pbl-higher-final-exam-scores-than-lecture.md) — related

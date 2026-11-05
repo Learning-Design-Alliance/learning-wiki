@@ -50,3 +50,4 @@ Review category 1: eighteen studies (samples where reported ranging from 12 to 2
 - [Medical students and interns poorly identified pressure ulcer risk in a patient-safety simulation](poor-pressure-ulcer-risk-identification-room-of-horrors.md) — a narrower finding that bears on this claim
 - [Interprofessional teams identified pressure ulcer risks better than individuals in a simulation study](interprofessional-teams-better-pressure-ulcer-hazard-identification.md) — a narrower finding that bears on this claim
 - [In-situ simulation identified latent safety threats in all categories, leading to changes in unit protocols](in-situ-simulation-identifies-latent-safety-threats.md) — a narrower finding that bears on this claim
+- [Prior physical Room of Error evaluations found participants detected fewer than half of embedded hazards, with interprofessional group interaction enhancing error detection](physical-roe-hazard-detection-under-half.md) — related

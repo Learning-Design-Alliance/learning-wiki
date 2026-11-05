@@ -54,3 +54,6 @@ Benchmark of 119 pediatric dentistry MCQs from the DUS administered to 17 LLM co
 - [LLM accuracy on pediatric residency-level MCQs varies widely (38%–90%) across models when all questions are delivered simultaneously](all-at-once-llm-accuracy-38-90.md) — related
 - [ChatGPT-5 achieved the highest overall accuracy on ophthalmology board-style questions (92.59%), with no statistically significant differences among the four LLMs](chatgpt-5-highest-overall-accuracy-ophthalmology-board-questions.md) — related
 - [Across all question types and languages, Doubao-1.5-pro achieved the highest accuracy (92.0% ± 1.3%) and ChatGPT-4o the lowest (82.8% ± 3.7%) among six LLMs benchmarked](doubao-highest-chatgpt4o-lowest-accuracy.md) — related
+- [ChatGPT 4.0 achieved the highest accuracy (91.3%) on DUS oral and maxillofacial radiology questions and significantly outperformed all other evaluated LLMs](chatgpt-4-highest-accuracy-dus-radiology.md) — related
+- [All four LLMs show higher accuracy on general than clinical questions, significant only for Grok-4](general-vs-clinical-accuracy-gap.md) — related
+- [Pairwise chi-square comparisons found no significant difference only between Grok and ChatGPT 4.5, while all other model pairs differed significantly](pairwise-llm-comparisons-grok-chatgpt45-nonsignificant.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: hmidani-2017
     resource: "https://doi.org/10.15446/profile.v19n_sup1.68617"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Vocabulary scores showed no statistically significant group difference at mid-test (p = .37) but a significant difference favoring the study group at post-test (p = .001). [→ Hmidani 2017](#hmidani-2017)
@@ -51,3 +51,4 @@ Repeated measures ANOVA on vocabulary test scores. Post-test means were "4.94 (s
 - [Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses](multimedia-glosses-improve-efl-vocabulary-acquisition.md) — related
 - [Teaching vocabulary through TMM software produced significantly higher post-test vocabulary scores than conventional instruction in Iranian intermediate EFL learners](tmm-call-outperforms-conventional-vocabulary-instruction.md) — related
 - [In the first six weeks, comprehension gains on the Checkpoints measure did not differ significantly between intervention and comparison groups](checkpoints-no-six-week-difference.md) — related
+- [AI-mediated active learning advantages in EFL writing emerge after roughly 6-8 weeks of partnership development](cognitive-partnership-6-8-week-maturation.md) — related

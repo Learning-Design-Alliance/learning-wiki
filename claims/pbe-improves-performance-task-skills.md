@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2011
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: finkelstein-2011
     resource: "https://eric.ed.gov/?id=ED533126"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
-> **Currency** · newest study 2011 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Students in PBE classrooms scored significantly higher than control students on CRESST performance task assessments of problem-solving in economics (model-adjusted means 6.72 vs. 6.18; effect size 0.27). [→ Finkelstein 2011](#finkelstein-2011)

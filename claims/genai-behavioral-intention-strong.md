@@ -50,3 +50,4 @@ One-sample t-test from the 64-student Study 1 questionnaire; the behavioral-inte
 - [Students express willingness to integrate GenAI in learning and future careers, and willingness correlates with knowledge and frequency of use](students-willing-to-use-genai-correlates.md) — related
 - [ChatGPT use frequency and intention to use are strongly positively correlated](use-frequency-intention-correlated.md) — related
 - [Undergraduate students rate GenAI's usefulness for programming coursework significantly above neutral](genai-usefulness-perceptions-programming-positive.md) — related
+- [Students express high acceptance of AI integration (79.7% positive views; 86% intended continued use) alongside critical awareness](tam-acceptance-ethical-ai-efl.md) — related

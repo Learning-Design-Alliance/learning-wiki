@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 recheck_by: 2027
 sources:
   - id: tesfai-fm-2024
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Of 37 identified tools, only the procedure-specific OSA-TLH (manual) and the RobotiX Mentor simulator (APM) reached the substantial validity band (score 11–15); 17 tools showed moderate and 18 limited evidence. [→ Tesfai FM 2024](#tesfai-fm-2024)

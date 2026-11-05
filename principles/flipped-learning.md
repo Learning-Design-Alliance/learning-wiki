@@ -308,6 +308,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Use pre-session readiness materials and MCQ self-assessment to shift content acquisition out of class time](../strategies/cbcl-pre-session-readiness-strategy.md)
 - [Use AI-generated vignette item sets for post-lecture review and preclinical preparation](../strategies/vega-preclinical-preparation-strategy.md)
 - [Use third-party video resources as preassignment work for flipped classrooms to lessen faculty burden](../strategies/third-party-preassignment-strategy.md)
+- [Five-component blended teaching-practicing module for SRP instruction](../designs/five-component-srp-teaching-practicing-module.md)
 
 ### Illustrative
 

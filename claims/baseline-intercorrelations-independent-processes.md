@@ -50,3 +50,4 @@ Baseline correlational analysis of the eight dependent variables from the six te
 - [Teacher-rated inhibition (BRIEF) does not correlate with stroop-based cognitive inhibition measures](brief-uncorrelated-stroop-inhibition.md) — related
 - [Cognitive flexibility in children is not a unified construct](cognitive-flexibility-not-unified-construct.md) — related
 - [Components of cognitive independence were significantly intercorrelated in the experimental group but not in the control group](component-interdependence-experimental-only.md) — related
+- [The three SJT scores intercorrelate only modestly, and the mid-training SJT has the lowest cognitive load](sjt-low-intercorrelation-cognitive-load.md) — related

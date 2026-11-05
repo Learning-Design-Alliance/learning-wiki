@@ -50,3 +50,4 @@ Focus group finding from the thematic analysis. Students reported that "Delayed 
 - [AI use also carries negative outcomes: technical instability, negative emotional impacts, over-reliance, and contextual contingency](ai-wtc-negative-outcomes-challenges.md) — a broader claim this one bears on
 - [Reviewed GenAI virtual patients show underdeveloped emotional-behavioral complexity, limited adaptability beyond dialog, and no memory across interactions](genai-vp-emotional-complexity-and-memory-limitations.md) — related
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
+- [Repeated VR practice of therapeutic conversations builds students' confidence and flow in communication](vr-repeated-practice-confidence-flow.md) — related

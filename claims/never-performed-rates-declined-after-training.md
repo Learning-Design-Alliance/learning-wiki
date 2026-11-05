@@ -46,3 +46,4 @@ Self-reported practice-frequency data (four-point scale, Cronbach's alpha 0.782)
 
 ## Related Claims
 - [Post-training success rates in observed procedural skills rose markedly, reaching 100% in oxygen administration and fracture stabilization and 90% in endotracheal intubation](post-training-skill-success-rates-gains.md) — related
+- [Hands-on CPR, endotracheal intubation, and defibrillation operational scores rose significantly from pre-test to post-test in paediatric postgraduates after integrated simulation with TBL, in a single-group pre-post study](simulation-tbl-improves-paediatric-cpr-skill-scores.md) — related

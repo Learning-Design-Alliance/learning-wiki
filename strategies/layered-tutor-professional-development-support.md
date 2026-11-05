@@ -51,6 +51,8 @@ The program sustains instructional quality through a multi-layered support syste
 - [Support implementation with asynchronous onboarding plus ongoing data coaching and scripted lessons](capit-onboarding-data-coaching-strategy.md)
 - [Multi-level coaching structure for tutors: internal school coach plus program Coaching Specialist](multi-level-tutor-coaching-structure.md)
 - [Implement a systematic faculty development program combining interdisciplinary team formation, structured training, peer observation, and weekly collaborative lesson preparation.](pbl-bridge-faculty-development-program.md)
+- [Train peer tutors in a pre-session workshop and sustain quality with feedback questionnaires and incentive awards](peer-tutor-training-and-incentive-strategy.md)
+- [Formalize peer tutoring through clear program structures, tutor training in pedagogy and communication, and recognition or incentives](structured-peer-tutoring-program-support.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ Meta-regressions on mathematics outcomes reported in the Results moderator secti
 - [Intervention creativity ratings relate to practice frequency, session duration and teacher qualification, but not intervention duration or intensity](intervention-characteristics-associated-with-creativity-rating.md) — related
 - [Studies showing positive academic performance effects used longer weekly intervention times than studies with null or negative effects](longer-weekly-intervention-time-in-positive-effect-studies.md) — related
 - [The PA intervention's benefit appeared in mathematics but not significantly in reading outcomes](pa-intervention-more-beneficial-for-mathematics.md) — related
+- [Moderate and vigorous physical activity show no significant associations with cognitive or academic performance in adjusted models](mpa-vpa-null-cognitive-academic.md) — reports the opposite

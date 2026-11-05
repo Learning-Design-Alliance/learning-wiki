@@ -17,7 +17,7 @@ sources:
 # Deliver inhaler technique education through a multi-stage session combining practical mannequin demonstration, questionnaires, and presentations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 2 studies (1 causal, 1 associational), `q2`–`q3` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The article's educational program proceeded in three stages: a personal interview with practical skills assessment and demonstration of correct inhaler technique on a mannequin, completion of questionnaires, and a presentation stage. The third stage "included a PowerPoint presentation, an oral presentation on the management of asthma attacks, proper IT with a video demonstration, disinfection of spacers, correct nebulization, and the distribution of educational materials." Assessment used standardized stepwise checklists consistent with GINA recommendations.
@@ -52,7 +52,8 @@ The article's educational program proceeded in three stages: a personal intervie
 - [Systematic review evidence indicates only a minority of health care professionals demonstrate correct inhaler technique, with declining rates over time](../claims/minority-hcp-correct-inhaler-technique-review.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Continue promoting training programs on inhalers and inhalation technique for both patients and healthcare personnel](continued-inhaler-training-programs-strategy.md)
 
 ## Examples
 -

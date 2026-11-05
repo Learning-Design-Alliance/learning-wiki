@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: eric-richter-2022
     resource: "https://doi.org/10.1016/j.compedu.2022.104624"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Sharing information was positively related to both emotional support and informational support. [→ Eric Richter 2022](#eric-richter-2022)

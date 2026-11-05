@@ -50,3 +50,4 @@ Randomized controlled pilot (n = 20, stratified by gender and age; Group A n = 1
 - [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in clinical operational skills](hybrid-cbl-sst-no-difference-clinical-skills.md) — related
 - [Preclinical HVRS training significantly improves endodontic access cavity preparation scores on real patients](hvrs-training-improves-access-cavity-scores.md) — related
 - [Dental students who train on a VR haptic simulator before artificial-teeth practice score higher on preclinical access cavity preparation and self-assessment than students who practice on artificial teeth first](vr-first-higher-preclinical-dexterity-scores.md) — related
+- [Participants trained with simulated models and phantom bodies in addition to extracted teeth reported better understanding and practice of endodontics (P < 0.001)](simulative-models-better-understanding-practice.md) — related

@@ -54,6 +54,7 @@ The review's challenges section recommends that institutions implementing gamifi
 - [Train in-service teachers to use gamification of web-based learning in English teaching](train-teachers-gamification-web-english.md)
 - [Integrate gamified formats into continuing medical education to support lifelong learning](gamification-in-cme-strategy.md)
 - [Optimize e-learning platform usability and provide technical support to maximize engagement across diverse nursing staff groups](elearning-usability-technical-support-strategy.md)
+- [Prepare teachers and infrastructure before implementing VR-based learning on sensitive topics](teacher-preparation-technical-support-vr-implementation.md)
 
 ## Examples
 -

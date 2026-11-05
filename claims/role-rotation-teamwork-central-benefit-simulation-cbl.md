@@ -52,3 +52,6 @@ Qualitative finding from the 12-participant interview arm: the teamwork theme wa
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related
 - [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) — related
+- [The authors propose that MDT-CBL's primary pilot-phase value lies in process benefits — engagement and exposure to interdisciplinary dialogue — rather than measured knowledge gains](mdt-cbl-process-benefits-interpretation.md) — related
+- [Mandated multi-role rotation and full attendance in the participatory simulation phase achieved complete learner engagement](multi-role-rotation-full-engagement.md) — related
+- [Participant experiences of integrated simulation with TBL cluster into four themes: reflection and feedback, highly simulated scenarios, improved clinical thinking, and teamwork and communication](four-theme-clusters-simulation-tbl-experience.md) — related

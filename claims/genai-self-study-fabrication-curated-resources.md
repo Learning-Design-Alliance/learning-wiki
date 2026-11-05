@@ -84,3 +84,4 @@ The review reports this comparison among negative and null results showing the r
 - [The main concern in all critical evaluations was the veracity of ChatGPT-provided references, which often do not exist](chatgpt-references-often-do-not-exist.md) — related
 - [Insufficient volume and diversity of curated content limited the curation module's ability to spark exploration of new learning strategies](curation-module-insufficient-content-limited-exploration.md) — related
 - [Hallucination, fabrication and reduced explanation accuracy limit ChatGPT's potential as a medical learning tool](hallucination-and-explanation-accuracy-limit-chatgpt-learning-tool.md) — a broader claim this one bears on
+- [Students prioritise speed and specificity of answers over depth when under workbook-completion pressure, favouring ChatGPT over multi-resource searching](efficiency-prioritised-over-depth-cbl.md) — related

@@ -48,3 +48,4 @@ Systematic review synthesis of eight surveys on GP attitudes to EBM. The review 
 ## Related Claims
 - [Self-reported frequent engagement with traditional EBM steps is low among UK GPs](low-self-reported-ebm-activity-uk-gps.md) — related
 - [Trainees and trainers hold mixed views on AI-generated heat maps for postoperative coaching](mixed-trainee-trainer-views-ai-heat-maps.md) — related
+- [Palestinian medical students hold positive attitudes towards EBM, with an attitude-competency gap and only one attitude item differing significantly by training status](positive-ebm-attitudes-attitude-competency-gap.md) — related

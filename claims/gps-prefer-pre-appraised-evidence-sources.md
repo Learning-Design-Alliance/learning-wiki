@@ -48,3 +48,5 @@ Cross-sectional survey data synthesised in the systematic review of GP engagemen
 - [Search and critical-appraisal skills lacked credibility as core GP competencies in the systematic review](search-appraisal-skills-lack-credibility-gp-competencies.md) — related
 - [Direct observation found GPs rarely engaged in the traditional five-step EBM process, relying instead on 'mindlines'](gps-rely-on-mindlines-not-five-step-ebm.md) — related
 - [Self-reported frequent engagement with traditional EBM steps is low among UK GPs](low-self-reported-ebm-activity-uk-gps.md) — related
+- [Palestinian medical students rely heavily on medical books and general search engines while rarely using specialized evidence-based databases, with usage differing by EBM training](textbook-reliance-limited-specialized-database-use.md) — a narrower finding that bears on this claim
+- [Practical workshops are the most preferred EBM learning modality among Palestinian medical students, though preference does not differ significantly by training status](practical-workshops-preferred-ebm-modality.md) — related

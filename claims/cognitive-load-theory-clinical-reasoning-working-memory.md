@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: cahyaningrum-yeny-dyah-2025
     resource: "https://doi.org/10.3946/kjme.2025.333"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cognitive load theory addresses intrinsic, extraneous, and germane load during learning, aiming to reduce extraneous load and utilize working memory capacity efficiently. [→ Cahyaningrum Yeny Dyah 2025](#cahyaningrum-yeny-dyah-2025)
@@ -51,3 +51,4 @@ The review applies cognitive load theory to clinical reasoning facilitation, sta
 - [The intrinsic–extraneous–germane distinction is conceptually problematic: definitions are tautological and expertise-dependent](load-type-distinction-conceptually-problematic.md) — related
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
 - [Reducing extraneous load can also remove affordances for germane processes](extraneous-load-reduction-may-remove-germane-affordances.md) — related
+- [Expert-explanation feedback enhanced germane cognitive load, perceived usefulness and perceived utility for medical communication](expert-explanations-raise-germane-load-and-perceived-utility.md) — a narrower finding that bears on this claim

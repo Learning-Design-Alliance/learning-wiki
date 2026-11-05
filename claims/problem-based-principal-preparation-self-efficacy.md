@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2017
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: sutcher-2017
     resource: "https://learningpolicyinstitute.org/product/supporting-principals-learning"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Effective programs use context-specific problems to connect coursework and practice, enriching candidates' skill development. [→ Sutcher 2017](#sutcher-2017)

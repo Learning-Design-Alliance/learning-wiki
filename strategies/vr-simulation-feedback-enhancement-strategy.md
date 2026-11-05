@@ -49,6 +49,7 @@ Because VR's head-mounted displays prevented tutors from observing intern perfor
 
 - [Virtual Reality Immersive Training](virtual-reality-immersive-training.md)
 - [Use RCDP with immediate directive feedback at scene interruptions, reserving debriefing for consolidation](rcdp-immediate-feedback-with-consolidation-debriefing.md)
+- [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
 
 ## Examples
 -

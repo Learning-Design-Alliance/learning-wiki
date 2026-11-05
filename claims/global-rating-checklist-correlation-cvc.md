@@ -50,3 +50,4 @@ Secondary correlational analysis across all pre-training assessments in the tria
 - [Checklist and GRS scores correlate very strongly in a high-stakes undergraduate OSCE](checklist-grs-strong-correlation-osce.md) — related
 - [Self-assessment and expert evaluation scores correlate strongly on a suture exercise](sa-ee-strong-correlation-suture.md) — related
 - [Pre-class videos raise pre-training checklist scores in ultrasound-guided CVC, with the POV group highest](pre-class-video-higher-pre-training-checklist-cvc.md) — related
+- [Self-reported internal assessment scores show high concordance with verified academic records](self-reported-scores-concordance-transcripts-ghana.md) — related

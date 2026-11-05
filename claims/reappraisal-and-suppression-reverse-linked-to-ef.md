@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: shi-guochun-2026
     resource: "https://doi.org/10.1186/s40359-026-05038-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The reverse path from cognitive reappraisal to EF was significant (β = 0.19, p = .002), and the reverse path from expressive suppression to EF was negative and significant (β = −0.15, p = .012). [→ Shi Guochun 2026](#shi-guochun-2026)

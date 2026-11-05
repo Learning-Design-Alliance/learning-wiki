@@ -59,6 +59,7 @@ The review recommends that clinical practice should design CPD programs with "ha
 - [Bundle recurrent hands-on hypertension training, simplified point-of-care guidelines, and facility chronic care systems (registers, recall, referral protocols) for PHC workers](bundled-hypertension-capacity-strategy-phc.md)
 - [Prioritize regular, context-specific communication training with conversation guides and available technologies to embed GoPC conversations in practice](regular-context-specific-gopc-training-embedding.md)
 - [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
+- [Integrate frequent in situ self-regulated simulation training with in-facility champions into routine health systems as continuous quality improvement](in-situ-self-regulated-simulation-cqi-strategy.md)
 
 ## Examples
 -

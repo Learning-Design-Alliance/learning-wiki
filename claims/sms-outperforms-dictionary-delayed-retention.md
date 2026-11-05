@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2012
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: alemi-et-al-2012
     resource: "https://doi.org/10.5539/ies.v5n6p99"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2012 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On the delayed post-test four weeks after instruction, the SMS group (M=26.78) significantly outperformed the dictionary group (M=22.09), T=-2.10, p=.04. [→ Alemi et al. 2012](#alemi-et-al-2012)

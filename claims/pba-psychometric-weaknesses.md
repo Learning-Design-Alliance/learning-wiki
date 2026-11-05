@@ -51,3 +51,4 @@ The article's own assertion in its introduction, citing prior literature (Kane 1
 - [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](engineering-rubric-low-scoring-reliability.md) — related
 - [The Procedure Based Assessment shows poor engagement and deficient orthopaedic utility evidence, and the authors propose it is no longer appropriate for summative assessment](pba-no-longer-appropriate-summative-assessment.md) — related
 - [Six cases are required for formative assessment (reliability > 0.7) and 10 cases for summative assessment (reliability > 0.8)](foi-test-case-requirements-formative-summative.md) — related
+- [Published evidence suggests LLM scoring can outperform standardized patient scoring on rubric-scored written notes, but generalizability remains open](llm-scoring-lower-incorrect-rate-than-sp.md) — related

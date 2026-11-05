@@ -51,3 +51,4 @@ Log data from 63 participants showed the experimental group spent on average 48 
 - [The experimental group answered achievement tests faster (6.18 minutes) than the control group (7.51 minutes)](cft-hypertext-design-faster-test-completion.md) — related
 - [Students using the AVDS tool completed the performance test faster than controls](avds-tool-shortens-completion-time.md) — related
 - [Intervention students spent more preparation time and control students more often felt disadvantaged, while other feedback items did not differ](student-feedback-prep-time-and-allocation-fairness.md) — related
+- [Total test completion time rose slightly and time per correct answer rose significantly from pre-test to post-test in all three skill domains after informed AI use, in one uncontrolled pre-post study](informed-ai-use-increases-time-per-correct-answer.md) — related

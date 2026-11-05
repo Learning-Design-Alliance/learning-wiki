@@ -56,6 +56,7 @@ The review proposes directions for targeted pedagogical interventions grounded i
 - [Future research should explore emotion management strategies and exposure to emotionally evocative scenarios to support clinician performance and well-being](future-research-emotion-management-strategies.md)
 - [Use multi-dimensional assessment with computerized tracking to capture learning process in flipped classrooms](multi-dimensional-assessment-computerized-tracking.md)
 - [Constructing a multi-dimensional evaluation system aligned with three-dimensional teaching objectives](multi-dimensional-evaluation-system-three-dimensional-objectives.md)
+- [Design interactive online tasks oriented towards questions or cases aligned with deep-learning goals](design-question-case-oriented-interactive-tasks.md)
 
 ## Examples
 -

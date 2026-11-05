@@ -9,7 +9,7 @@ generated:
   at: 2026-09-03
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: zingaretti-et-al-2026
     resource: "https://doi.org/10.22599/jesla.152"
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · n=18
-> **Currency** · newest study 2026 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 A pilot study, and three weeks is not months — but the gain held almost exactly, which is a
 different result from decaying slowly.
@@ -110,3 +110,4 @@ Nothing here says where retention falls off.
 - [Beginning-level Malaysian secondary school students' language proficiency scores were significantly higher at post-test than pre-test after an intensive English program, in a single-group pre-post study with no comparison group](findings-contradict-brown-elementary-learners-claim.md) — related
 - [Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study](aam-gains-persist-delayed-posttest.md) — related
 - [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related
+- [Post-game engagement in follow-up activities did not affect retention of quiz gains among follow-up respondents.](venomventure-postgame-engagement-null.md) — related

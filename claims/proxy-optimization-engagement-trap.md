@@ -9,7 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-27
+source_checked: 2026-11-05
 recheck_by: 2028
 sources:
   - id: pelánek-2025
@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-27 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Straightforwardly optimizing a system on a proxy measure such as engagement can produce an environment that appears engaging but sacrifices learning outcomes. [→ Pelánek 2025](#pelanek-2025)

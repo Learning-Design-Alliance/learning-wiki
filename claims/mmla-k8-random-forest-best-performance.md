@@ -79,3 +79,4 @@ The review reports that Shin et al. (2020) compared logistic regression, support
 - [CatBoost is the best-performing algorithm for predicting programme non-completion, with F1-measure of 94.5±0.6, slightly better than Random Forest](catboost-best-f1-programme-completion.md) — reports the opposite
 - [A learning analytics student model discriminates between trained and untrained students in VR lineworker training maneuvers](la-student-model-discriminates-trained-untrained-vr-lineworkers.md) — related
 - [Random Forest is the best classifier for discriminating trained from untrained VR trainees](random-forest-best-classifier-vrts-student-model.md) — related
+- [Random Forest most accurately predicts novices' visual behavior levels from CV-DL-extracted metrics, with fixation rates on objects and tool speed as key predictors](random-forest-predicts-visual-behavior-levels.md) — a narrower finding that bears on this claim

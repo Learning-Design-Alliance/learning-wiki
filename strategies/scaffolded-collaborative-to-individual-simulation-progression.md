@@ -54,6 +54,7 @@ The article recommends that collaborative simulation "should not be restricted t
 - [Sequence virtual simulation before authentic video across skill-development stages in teacher observation training](sequence-vs-then-av-teacher-training.md)
 - [Integrate simulation-based learning into interprofessional curricula to cultivate collaboration early in training](integrate-sbl-into-interprofessional-curricula.md)
 - [Staged hybrid model: programmed instruction for foundational skills, then case-based scenarios for clinical reasoning](staged-hybrid-programmed-instruction-case-based.md)
+- [Scaffolded progression to independent clinical practice: graded movement from observation to assisted practice to supervised independent care](scaffolded-progression-independent-clinical-practice.md)
 
 ## Examples
 -

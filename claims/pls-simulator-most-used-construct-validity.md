@@ -51,3 +51,4 @@ Systematic review synthesis of 20 studies describing 9 neonatal/infant simulatio
 - [Weisser et al. 3D-printed pediatric MIS curriculum: expert surgeons outperformed residents on all tasks with high interrater reliability](susiped1-experts-outperform-residents.md) — related
 - [Prior basic SuSiPed training significantly increases performance on the more advanced pediatric MIS simulator (SuSiPed 2.0)](susiped2-prior-basic-training-improves-advanced-performance.md) — related
 - [3D-printed pediatric chest model with embedded force sensors distinguished skill levels where a conventional box trainer did not](takazawa-chest-model-skill-differentiation.md) — related
+- [Novices' visual attention did not differ between pediatric and adult box trainers](no-visual-attention-difference-pediatric-adult-trainers.md) — related

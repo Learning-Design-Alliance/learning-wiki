@@ -9,7 +9,6 @@ generated:
   at: 2026-10-08
 evidence_strength: weak
 newest_evidence: 2009
-source_checked: 2026-10-08
 sources:
   - id: nomi-allensworth-2009
     resource: "https://doi.org/10.1080/19345740802676739"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2009 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 > **Design limits** · Nomi & Allensworth 2009: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims

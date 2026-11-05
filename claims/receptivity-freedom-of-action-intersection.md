@@ -50,3 +50,4 @@ Artifact analysis finding from Table 2 ratings: game-like learning objects (Obje
 - [Nearly all reviewed serious games include game mechanics providing freedom of gameplay, most commonly choice options, interactive elements, and free exploration](freedom-of-gameplay-mechanics-common.md) — a broader claim this one bears on
 - [Play is characterized by four dispositions: involvement, intrinsic motivation, pleasure, and freedom to modify rules](four-play-dispositions-rubin.md) — related
 - [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related
+- [Freedom to choose cases supported residents' sense of autonomy and motivation, while mandatory learning objectives decreased motivation for some](autonomy-case-choice-vr-motivation.md) — related

@@ -51,3 +51,4 @@ Longitudinal measurement invariance tests (configural, metric, scalar) across T1
 - [The five-dimensional student model achieved metric but not scalar measurement invariance across the seven countries, permitting association comparisons but not latent mean comparisons](student-model-metric-invariance-holds.md) — related
 - [The CVT-based model is invariant across gender and area of study but only configurally invariant across countries](cvt-model-invariance-gender-area-country.md) — related
 - [Longitudinal partial strong measurement invariance of the four-item self-efficacy survey justifies fitting growth models to its scores](self-efficacy-survey-partial-longitudinal-invariance.md) — related
+- [Measurement invariance of the cognitive load, adaptability, and innovation model holds across teacher subgroups](cl-measurement-invariance-teacher-subgroups.md) — related

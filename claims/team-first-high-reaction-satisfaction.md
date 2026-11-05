@@ -49,3 +49,4 @@ Post-activity reaction surveys (12 items: 9 Likert satisfaction items plus open-
 - [Learner DASH-SV ratings of instructor debriefing were high, with mean scores above 5.8/7 across all six elements and element three lowest](dash-sv-instructor-ratings-above-5-8.md) — related
 - [At Kirkpatrick Level 1, satisfaction, perceptions, anxiety, and learning flow did not differ significantly between roles, but emotional arousal favored active participants](level-1-reactions-emotional-arousal-advantage.md) — related
 - [Each of the five Team FIRST modules significantly improves medical students' self-efficacy for teamwork competencies from pre- to post-activity survey](team-first-modules-improve-teamwork-self-efficacy.md) — related
+- [Satisfaction was lowest for technical aspects and time management items](cblc-satisfaction-lowest-technical-items.md) — related

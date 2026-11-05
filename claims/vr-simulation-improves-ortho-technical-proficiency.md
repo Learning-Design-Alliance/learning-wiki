@@ -61,3 +61,6 @@ Thematic synthesis of the review's VR simulation theme, drawing on a systematic 
 - [Stepwise CBME training was associated with significantly shortened learning curves compared to conventional training](stepwise-cbme-shortened-learning-curves.md) — related
 - [The VR group scored significantly lower than controls at week 2, reflecting an initial learning curve with the VR system](vr-initial-learning-curve-week-2.md) — reports the opposite
 - [VR advantages in skills scores concentrate in manipulation smoothness, operational proficiency, and visual field stability](vr-skills-advantage-specific-dimensions.md) — related
+- [Operative time does not differ between training groups for successful implant insertions, despite a medium-sized non-significant difference](haptic-vr-operative-time-successful-null.md) — related
+- [Haptic VR training produces no significant difference in implant depth error compared to traditional mentor teaching in novice medical students](haptic-vr-hip-arthroplasty-iderror-null.md) — related
+- [Blinded consultant-rated technical skill does not differ between haptic VR-trained and traditionally trained students on a SawBone hemiarthroplasty](haptic-vr-technical-skill-rating-null.md) — reports the opposite

@@ -47,6 +47,7 @@ The review recommends that, because single-session HFPS did not significantly im
 ## Related Strategies
 
 - [Build an orientation activity into XR study designs and use multiple sessions to increase tool familiarity](xr-orientation-activity-multiple-sessions.md)
+- [Schedule repeated simulation sessions across the psychiatric attachment and extend the program to other clinicians](repeated-psychiatric-simulation-sessions-strategy.md)
 
 ## Examples
 -

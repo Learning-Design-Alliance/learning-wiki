@@ -76,3 +76,4 @@ Random-effects meta-analysis of 7 randomized controlled studies (197 vs 196 resi
 - [SFHC intervention improved doctor-patient communication (SEGUE) scores post-intervention](sfhc-improved-segue-communication.md) — related
 - [Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related
 - [A hybrid CBL-SST-simulator model produces significantly higher doctor-patient communication scores than lecture-based learning on the SEGUE Framework](hybrid-cbl-sst-higher-segue-communication-than-lbl.md) — related
+- [WBLP students report significantly better teacher–student interaction, patient–doctor communication, and humanistic care perceptions](wblp-better-interaction-communication-humanistic-care-ratings.md) — related

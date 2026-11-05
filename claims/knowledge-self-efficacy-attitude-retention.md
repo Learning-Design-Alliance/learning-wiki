@@ -55,3 +55,6 @@ In the 32-intern study, knowledge (8.7 ± 1.4 to 8.4 ± 1.3), self-efficacy (36.
 - [Three-hour simulation-based tourniquet training significantly improves medical interns' knowledge, skills, attitudes, self-confidence and self-efficacy](simulation-tourniquet-training-improves-intern-outcomes.md) — related
 - [Extremity tourniquet skill and self-confidence decline significantly at two months while remaining above baseline](extremity-tourniquet-skill-decay-two-months.md) — reports the opposite
 - [Within the intervention group, PFA knowledge scores increase significantly from baseline to post-training (r = 0.56) and remain significantly above baseline at 2 months](pfa-within-group-knowledge-gains.md) — related
+- [Self-efficacy did not change significantly after the simulation training programme](als-simulation-self-efficacy-change-not-significant.md) — related
+- [Total BLS skill retention scores remain stable across two weeks, two months and one year after training](total-bls-scores-stable-across-retention-intervals.md) — related
+- [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related

@@ -76,3 +76,4 @@ Questionnaire with five-point Likert scales and open-text feedback in both user-
 - [Hallucination — the generation of inaccurate, unverified, or illogical content — is the most frequently reported technical challenge for LLMs in dental education](hallucination-most-frequent-technical-challenge.md) — related
 - [Hallucination, fabrication and reduced explanation accuracy limit ChatGPT's potential as a medical learning tool](hallucination-and-explanation-accuracy-limit-chatgpt-learning-tool.md) — related
 - [Overconfidence in situational awareness under stress increases risk-taking, and perceived team engagement reduces this overconfidence](team-engagement-reduces-sa-overconfidence-risk-taking.md) — related
+- [Cited pilot trial and transcript-grading work show scenario-dependent strengths and reliability limits of AI in OSCE-adjacent tasks](ai-osce-evidence-mixed-strengths-limits.md) — related

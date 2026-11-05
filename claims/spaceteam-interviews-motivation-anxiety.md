@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: grimshaw-2016
     resource: "https://doi.org/10.14705/rpnet.2016.eurocall2016.557"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In interviews, one participant said he spoke more English in a 15-minute game session than in a three-hour class, and another said that while playing he did not pay attention to his nervousness in English; the authors suggest, without testing it, that motivation from game play may explain the treatment group's slight, non-significant pre- to post-test gain. [→ Grimshaw 2016](#grimshaw-2016)

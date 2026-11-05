@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: gattas-2022
     resource: "https://doi.org/10.1038/s41539-022-00134-x"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
-> **Currency** · newest study 2022 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` With a 24-h delay and shortened 7-min sample phase, only the OC group discriminated the novel object, and OC outperformed the EH, CC, and SH groups. [→ Gattas 2022](#gattas-2022)

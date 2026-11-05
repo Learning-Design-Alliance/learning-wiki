@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: aldawood-fatima-dawood-2026
     resource: "https://doi.org/10.1186/s12909-026-09314-4"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most nurses expressed satisfaction with the course content and its relevance to their everyday practice, based on mandatory electronic course evaluation surveys. [→ Aldawood Fatima Dawood 2026](#aldawood-fatima-dawood-2026)

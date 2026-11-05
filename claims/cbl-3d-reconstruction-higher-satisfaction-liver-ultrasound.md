@@ -57,3 +57,4 @@ In this single-center RCT, 60 residents were randomized 1:1 after a pre-course t
 - [Integrating 3D visualization reconstruction with PBL improves theoretical examination scores versus lecture-based learning in pheochromocytoma training](3d-visualization-pbl-higher-theoretical-scores-pcc.md) — related
 - [3D visualization technology supports doctor-patient communication in resident training](3d-visualization-supports-doctor-patient-communication.md) — related
 - [The experimental group scored substantially higher on subjective clinical case analysis questions (28.5 ± 3.2 vs 21.3 ± 4.1, P < 0.001) than on objective memory questions (15.2% gain)](ai-kg-clinical-case-analysis-gain.md) — related
+- [Students in the 3D-PBL-annotation group report higher satisfaction with learning motivation, academic atmosphere, teacher-student interaction, and knowledge absorption](3d-pbl-annotation-higher-satisfaction.md) — related

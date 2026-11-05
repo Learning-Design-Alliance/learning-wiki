@@ -9,7 +9,6 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-02
 sources:
   - id: aljraiwi-2019
     resource: "https://doi.org/10.18488/journal.61.2019.73.242.257"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Primary students taught with a gamified web-based learning environment scored significantly higher on the Torrance test of creative thinking than students taught traditionally. [→ Aljraiwi 2019](#aljraiwi-2019)

@@ -48,3 +48,4 @@ The article reports, citing J. A. Clement's study of 49 Northwestern University 
 ## Related Claims
 - [The Thorndike-McCall correlates about 0.50 with other single comprehension tests and 0.69 with a composite of group intelligence tests](thorndike-mccall-correlations-comprehension-intelligence.md) — related
 - [Group intelligence scores correlated only modestly with school marks (freshmen: 0.41 Thurstone, 0.56 Brown; junior high: 0.25 Illinois, 0.32 Otis), which the author attributes to marks depending on many non-intelligence factors](intelligence-scores-school-mark-correlations.md) — related
+- [The three SJT scores intercorrelate only modestly, and the mid-training SJT has the lowest cognitive load](sjt-low-intercorrelation-cognitive-load.md) — related

@@ -52,3 +52,5 @@ Null results from the same prospective pre-post study of 32 residents: success r
 - [PDCA implementation improved difficult airway identification success rate from 30.8% to 92.9%](pdca-improves-difficult-airway-identification.md) — related
 - [Multiple attempts rate decreased significantly after PDCA implementation while overall ETI success rate did not differ significantly](pdca-multiple-attempts-down-overall-success-unchanged.md) — related
 - [PDCA implementation significantly reduced oesophageal intubation and laryngeal oedema/vocal cord injury rates](pdca-reduces-key-etl-complications.md) — related
+- [Daily simulation practice before shifts improved first-pass intubation rates in a retrieval service, with the significant gain in neonatal patients](frequent-mannequin-practice-improves-first-pass-intubation.md) — reports the opposite
+- [Just-in-time simulation training immediately before the procedure improves first-attempt intubation success and reduces attempt duration](jitt-improves-first-attempt-intubation-success.md) — reports the opposite

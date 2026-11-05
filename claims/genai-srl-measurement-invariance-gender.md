@@ -52,3 +52,4 @@ Measurement invariance testing via configural, metric, and scalar multi-group CF
 - [Measurement invariance across gender is supported, but full structural equivalence is rejected, with differences localized to transformational-leadership paths](measurement-invariance-gender-structural-equivalence-rejected.md) — related
 - [Only 10 of 211 SRL scale items were feasible to operationalize as learning analytics indicators in an LMS](ten-of-211-srl-items-feasible-lms-indicators.md) — related
 - [Multigroup CFA supports configural and loading invariance across gender groups, but scalar and strict invariance could not be evaluated conclusively](multigroup-cfa-gender-invariance-partial.md) — related
+- [Measurement invariance of the cognitive load, adaptability, and innovation model holds across teacher subgroups](cl-measurement-invariance-teacher-subgroups.md) — related

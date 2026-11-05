@@ -49,3 +49,4 @@ Covariate estimates from the multivariable linear mixed-effects models in the qu
 - [Extraneous cognitive load is negatively associated with autonomous motivation and positively with disengagement, while intrinsic load is negatively associated with motivation, engagement, and achievement](cognitive-load-negatively-associated-motivation-engagement.md) — related
 - [Teachers' self-innovativeness significantly affects DL self-efficacy and DL teaching practices both directly and indirectly via accountability and self-efficacy](self-innovativeness-drives-dl-efficacy-and-practices.md) — related
 - [OCL produced greater gains in pedagogical knowledge than SBL (significant group × time interaction)](ocl-greater-knowledge-gains-than-sbl.md) — related
+- [Teachers' cognitive load is directly and negatively associated with innovative teaching behavior in AI-enhanced English instruction](cl-neg-cognitive-load-innovation.md) — related

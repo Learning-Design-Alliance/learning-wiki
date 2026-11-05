@@ -47,6 +47,7 @@ Looking ahead, the article recommends "implementing regular qualification review
 
 - [Assessment-driven learning: use certification preparation to prompt preceptors' self-directed review, reflection, and pedagogical skill improvement](assessment-driven-learning-certification-strategy.md)
 - [Establish continuous improvement cycles that monitor and evaluate POG implementation](pog-continuous-improvement-cycles.md)
+- [Institutional policies allocating dedicated teaching time, formal recognition and comprehensive preceptor training to strengthen clinical teaching](preceptor-support-policies-strategy.md)
 
 ## Examples
 -

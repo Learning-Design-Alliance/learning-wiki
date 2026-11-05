@@ -41,7 +41,8 @@ The article's simulation lab ran over three weeks (one day per week per section 
 - [Positive Perception Preclinical Maternity Simulation](../claims/positive-perception-preclinical-maternity-simulation.md) [+M]
 
 ## Related Designs
-- 
+
+- [Standardized simulation session structure of pre-briefing, brief simulation, and structured debriefing using the 4Es technique](prebriefing-brief-simulation-debriefing-4es-structure.md)
 
 ## Examples
 -

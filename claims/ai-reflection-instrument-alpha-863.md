@@ -82,3 +82,4 @@ Psychometric analysis of the study's 12-item, 5-point Likert reflection instrume
 - [The job competency evaluation framework comprises 5 primary dimensions, 24 secondary dimensions, and 52 tertiary items with strong psychometric properties](job-competency-framework-five-dimensions-52-items.md) — related
 - [The ICO-OCEX demonstrated high internal consistency with an overall Cronbach's alpha of 0.995](ico-ocex-internal-consistency-high-alpha.md) — related
 - [Item-total correlations for the face-validity questionnaire range from 0.53 to 0.88, supporting the instrument's internal consistency](aquablation-face-survey-item-total-correlations.md) — related
+- [The adapted MIQ shows excellent internal consistency in this sample (Cronbach's alpha 0.90 at baseline and 0.88 post-workshop)](adapted-miq-internal-consistency-pvc.md) — related

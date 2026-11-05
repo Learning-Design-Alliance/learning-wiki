@@ -50,3 +50,4 @@ ANCOVA of post-test CAT scores for the four groups with KCPE marks as covariate,
 - [A brain-based learning teaching-learning program produced statistically significantly higher chemistry achievement than traditional teaching for 9th-grade female students](bbl-program-improves-chemistry-achievement-grade9.md) — related
 - [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related
 - [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related
+- [The BOPPPS advantage in knowledge and skills remained statistically significant after ANCOVA adjustment for baseline scores](ancova-adjusted-boppps-effects.md) — related

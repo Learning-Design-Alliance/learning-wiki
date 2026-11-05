@@ -52,3 +52,4 @@ Questionnaire administered to all 102 students after the intervention with 100% 
 - [Integrated model raises satisfaction, clinical thinking, practical skill self-ratings and engagement, with no difference in resource utilization](microskills-cptm-questionnaire-engagement.md) — related
 - [CBE-MDT teaching yields higher trainee satisfaction than traditional teaching](cbe-mdt-higher-satisfaction-radiation-oncology.md) — related
 - [Students who took the IAVSE course achieved higher fourth-year medical imaging theory, practical testing, and total scores than the control group](iavse-higher-medical-imaging-scores.md) — related
+- [Experimental-group students rated satisfaction, learning enthusiasm, comprehension, interaction, and interest in nephrology more favorably than control students](boppps-rain-classroom-favorable-student-evaluations.md) — related

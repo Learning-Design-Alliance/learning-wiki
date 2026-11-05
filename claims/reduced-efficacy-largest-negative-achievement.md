@@ -56,3 +56,4 @@ Robust variance random-effects meta-analysis pooling reduced-efficacy–achievem
 - [The burnout–dropout intentions association is moderated by burnout dimension, being highest for cynicism](burnout-dimension-moderates-dropout-intentions.md) — related
 - [Higher burnout is associated with poorer academic outcomes in medical students](burnout-associated-poorer-academic-outcomes-medical-students.md) — a broader claim this one bears on
 - [Third-year dental students reported exhaustion and inadequacy above the SBI-9 scale average with cynicism below average](dental-students-burnout-exhaustion-high-cynicism-low.md) — related
+- [Exhaustion declines moderately over the Bachelor's programme, contrasting with prior research reporting rising burnout as medical students advance](exhaustion-moderate-decline-contrasts-prior-research.md) — related

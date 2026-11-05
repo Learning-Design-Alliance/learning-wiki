@@ -57,7 +57,8 @@ The authors recommend integrating GPT-4 classification and rephrasing into templ
 - [AI scoring shows a quality-conditioned pattern: strong agreement on fully correct and fully incorrect responses but substantial degradation on mid-range responses](../claims/ai-mid-range-scoring-degradation-u-shape.md) [~M]
 
 ## Related Strategies
-- 
+
+- [Integrate AOI-dependent eye-tracking and motion metrics into training sessions for real-time formative feedback and personalized training](eye-tracking-real-time-formative-feedback-laparoscopic-training.md)
 
 ## Examples
 -

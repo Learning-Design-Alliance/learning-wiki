@@ -50,3 +50,4 @@ OSATS subdomain analysis in the skill decay group identified significant decline
 - [Robotic simulation technical performance (OSATS) declines significantly after training gaps of roughly three months or more](robotic-simulation-osats-decay-after-training-gap.md) — related
 - [Spaced simulation reinforcement showed selective benefits: some psychomotor measures improved while written knowledge and time to shock did not](spaced-simulation-reinforcement-selective-benefits.md) — related
 - [Knowledge gains occurred in all three PZ-PUKT subdomains, with staging and wound description remaining comparatively weaker](knowledge-gains-all-pz-pukt-subdomains.md) — related
+- [Skills decay occurred across most participant categories but was not significant for providers with less than one year of work experience, and more-experienced providers decayed more](experience-pattern-skills-decay-one-year.md) — related

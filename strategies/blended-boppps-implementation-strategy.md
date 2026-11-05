@@ -57,6 +57,7 @@ The article recommends popularizing the online and offline blended BOPPPS teachi
 
 - [Assess blended e-learning outcomes with both achievement tests and self-assessment](assess-both-achievement-test-and-self-assessment.md)
 - [Phased implementation, rigorous case development, faculty development, and balanced assessment when adopting BOPPPS-CBL](boppps-cbl-implementation-strategies.md)
+- [Adopt BOPPPS integrated with Rain Classroom as a blended approach for clinical clerkship teaching](adopt-boppps-rain-classroom-clerkship-strategy.md)
 
 ## Examples
 -

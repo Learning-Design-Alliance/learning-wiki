@@ -50,3 +50,4 @@ Within-group Wilcoxon signed-rank comparisons in the 34-participant pilot showed
 - [Brief written rubric-based assessments may have limited sensitivity to detect incremental effects of serious-game add-ons due to potential ceiling effects](brief-rubric-assessment-limited-sensitivity-ceiling.md) — related
 - [Control-group trainees show the largest checklist and confidence gains after hands-on training, consistent with a ceiling effect](control-group-largest-post-training-gains-cvc.md) — related
 - [Patient interaction scores increased significantly within both the hybrid simulation and control groups after training (p < 0.001 for both)](patient-interaction-improved-within-both-groups.md) — a narrower finding that bears on this claim
+- [Diagnosis, treatment planning, and patient counseling scores rose from pre-test to post-test after informed AI use, in one uncontrolled pre-post study](ai-informed-gains-across-three-skill-domains.md) — related

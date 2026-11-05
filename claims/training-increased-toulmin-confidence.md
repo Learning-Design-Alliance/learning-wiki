@@ -9,7 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: sarah-von-der-mühlen-2019
     resource: "https://doi.org/10.1007/s11251-018-9471-3"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Experimental-group participants felt significantly more confident with the Toulmin model after the intervention than at pretest. [→ Sarah von der Mühlen 2019](#sarah-von-der-muhlen-2019)

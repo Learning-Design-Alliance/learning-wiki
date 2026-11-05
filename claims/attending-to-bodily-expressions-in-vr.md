@@ -52,3 +52,4 @@ Analysis of a second group's dialogue about the scene with a mother telling the 
 - [Films with existential themes can serve as vehicles for Bildung in higher education](existential-films-vehicle-for-bildung.md) — related
 - [Qualitative reflections indicate MPathic-VR students valued immediate feedback, nonverbal skill teaching, and preparation for emotion-charged encounters, while CBL students reported lack of interactivity and information overload](mpathic-vr-qualitative-experience-themes.md) — related
 - [The editorial reports that immersive VR became a resource for collaborative meaning making through 'emancipatory immersion' (Silseth et al.)](vr-collaborative-meaning-making-emancipatory-immersion.md) — a broader claim this one bears on
+- [Working with sensitive family topics in VR can feel intense and overwhelming, requiring teacher preparation for emotional reactions](vr-sensitive-topics-intensity-reactions.md) — related

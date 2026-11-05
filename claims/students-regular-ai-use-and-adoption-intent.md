@@ -57,3 +57,4 @@ Anonymous online questionnaire (WJX platform) completed by 29 of 31 AI-enhanced 
 - [Over 75% of students in the AI-enhanced flipped classroom group reported a regular habit of using AI tools at least once per week.](majority-regular-weekly-ai-use.md) — possibly the same claim (merge candidate)
 - [Students valued teacher guidance (90%) and recommended continuation of the activity (93%)](pbl-scaffolding-teacher-guidance-continuation.md) — related
 - [Most participants in both groups rated their randomized training tool as helpful and enjoyable, and three quarters wanted more digitalization in medical education](positive-subjective-ratings-both-training-tools.md) — related
+- [Students express high acceptance of AI integration (79.7% positive views; 86% intended continued use) alongside critical awareness](tam-acceptance-ethical-ai-efl.md) — related

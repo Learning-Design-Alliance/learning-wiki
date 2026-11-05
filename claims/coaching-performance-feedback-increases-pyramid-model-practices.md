@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: hemmeter-et-al-2015
     resource: "https://doi.org/10.1177/0271121415594924"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a multiple probe design across sets of practices replicated across three teachers, coaching with performance feedback produced immediate shifts in teachers' use of targeted practices, establishing a functional relation. [→ Hemmeter et al. 2015](#hemmeter-et-al-2015)

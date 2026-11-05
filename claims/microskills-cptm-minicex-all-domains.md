@@ -57,3 +57,6 @@ Mini-CEX assessment after eight subspecialty rotations in the randomized trial. 
 - [Integrated clinical pathway and case-based teaching yields higher Mini-CEX clinical skills scores than traditional teaching](clinical-pathway-cbt-higher-mini-cex-scores.md) — a broader claim this one bears on
 - [Integrated clinical pathway and case-based teaching yields higher post-training theoretical examination scores than traditional teaching in endocrinology residency](clinical-pathway-cbt-higher-theoretical-scores.md) — related
 - [SKIT raises theoretical exam and OSCE scores versus traditional teaching for cross-department emergency rotators](skit-higher-theory-osce-scores-emergency-rotation.md) — related
+- [CCS training yields significantly greater post-clerkship Mini-CEX improvements than traditional training across all assessment domains](ccs-greater-post-clerkship-mini-cex-gains.md) — related
+- [Interns taught with combined sandwich-case teaching scored higher than traditionally taught interns on all seven Mini-CEX dimensions, including clinical judgment and communication skills](sandwich-case-teaching-higher-mini-cex-scores.md) — related
+- [CCS training produces higher theoretical examination scores than traditional didactic training across all four classes of non-dentistry medical undergraduates](ccs-higher-theoretical-exam-scores-stomatology.md) — related

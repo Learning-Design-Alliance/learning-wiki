@@ -57,3 +57,4 @@ Cross-sectional evaluation of 10 LLMs on the complete 300-item EBHS written exam
 - [Current-generation LLMs achieve 86% to 94% mean success rates on European anesthesiology examination questions, exceeding the EDAIC part I passing threshold](llm-success-rates-86-94-percent-anesthesiology-exams.md) — related
 - [Batch delivery of ten questions converges LLM accuracy to 83%–88% with no statistically significant inter-model differences](batch-delivery-convergence-83-88.md) — related
 - [ChatGPT-5 achieved the highest overall accuracy on ophthalmology board-style questions (92.59%), with no statistically significant differences among the four LLMs](chatgpt-5-highest-overall-accuracy-ophthalmology-board-questions.md) — related
+- [All four LLMs passed both JNME exams under official scoring, with near-perfect scores in essential sections](llms-pass-jnme-official-scoring.md) — related

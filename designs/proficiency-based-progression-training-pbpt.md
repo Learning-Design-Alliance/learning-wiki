@@ -40,7 +40,8 @@ PBPT is a training approach for high-volume, high-risk technical and non-technic
 - [Antt Wound Dressing Metric 31 Steps Delphi Validated](../claims/antt-wound-dressing-metric-31-steps-delphi-validated.md) [+M]
 
 ## Related Designs
-- 
+
+- [Proficiency-based progression (PBP) training methodology](pbp-training-methodology.md)
 
 ## Examples
 -

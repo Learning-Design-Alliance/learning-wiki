@@ -50,3 +50,4 @@ The review reports a three-group comparison of adverse event rates: checklist gr
 - [Participation in the Veterans Affairs medical team training program was associated with a significant 17% decrease in annual surgical morbidity, while non-participating facilities showed a non-significant 6% decrease](mtt-reduced-surgical-morbidity.md) — related
 - [Team training in hospitals was associated with improved clinical processes, including guideline compliance, decision accuracy, and reduced delays](team-training-improved-clinical-processes.md) — a broader claim this one bears on
 - [Condensed TeamSTEPPS training coupled with simulation exercises reduced weighted adverse outcome scores, whereas training alone did not](simulation-plus-teamtraining-reduced-adverse-outcomes.md) — related
+- [Almost half of surveyed cathlabs do not complete a morning safety brief or operative checklist](cathlab-safety-brief-checklist-noncompletion.md) — related

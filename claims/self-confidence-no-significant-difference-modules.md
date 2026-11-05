@@ -54,3 +54,4 @@ Slider-scale self-ratings (0-100) compared with paired- and independent-samples 
 - [End-of-year PGY1 residents with module access scored significantly better GRS than a control class at the same training level without module access, across all modules](module-access-end-of-year-outperformed-control.md) — related
 - [Module access was associated with greater task efficiency in drill plunge, depth gauge, and angled drilling versus controls, with no significant accuracy differences between groups](module-access-efficiency-not-accuracy-gains.md) — related
 - [Integrated videos improved perceived explanation quality but not overall confidence for hip/ankle/foot examinations](integrated-video-explanation-quality-hip-ankle-foot.md) — related
+- [WBLP students report higher interest in learning and in-depth study, but independent study and self-confidence do not significantly differ](wblp-higher-engagement-satisfaction-motivation-domains.md) — related

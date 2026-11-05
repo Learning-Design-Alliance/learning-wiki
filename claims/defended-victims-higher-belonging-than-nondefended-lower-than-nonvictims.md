@@ -9,7 +9,6 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-25
 sources:
   - id: laninga-wijnen-2023
     resource: "https://doi.org/10.1037/edu0000712"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Defended victims scored higher on feelings of belonging at T2 than nondefended victims after controlling for initial belonging. [→ Laninga-Wijnen 2023](#laninga-wijnen-2023)

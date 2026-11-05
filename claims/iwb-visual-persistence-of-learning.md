@@ -64,3 +64,4 @@ Paired-samples t test comparing the experimental group's (n=36) post-test and pe
 - [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — related
 - [Linguistic-component scores rose to 79% (vocabulary) and 94% (grammar) at re-testing, with the largest gains in the experimental group](linguistic-component-79-94-retest.md) — related
 - [Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study](aam-gains-persist-delayed-posttest.md) — related
+- [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related

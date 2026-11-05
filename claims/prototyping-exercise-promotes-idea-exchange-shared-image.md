@@ -53,3 +53,4 @@ Evaluation of the workshop form across all four cases. Building physical prototy
 - [Engineering, product design, and service design teams differ significantly in shared epistemic agency during collaborative prototyping](design-disciplines-differ-shared-epistemic-agency-prototyping.md) — related
 - [All teams showed divergent-then-convergent idea improvement patterns across prototyping sessions](divergent-convergent-idea-improvement-prototyping.md) — related
 - [Differences in shared epistemic agency between design teams change across prototyping phases](epistemic-agency-changes-across-phases.md) — related
+- [A prototype virtual Room of Error pilot with 14 interprofessional students was positively received, with all participants reporting benefit from interprofessional exchange and 86% finding the hazards relevant](virtual-roe-prototype-pilot-positive-reception.md) — related

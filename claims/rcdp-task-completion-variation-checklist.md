@@ -48,3 +48,4 @@ Task-level analysis of the 22-item checklist during the week-4 assessment simula
 ## Related Claims
 - [During a 4-week ICU rotation with weekly RCDP simulations, 43% of assessed learners (10 of 23) completed ≥80% of targeted key clinical tasks, missing the pre-set target of ≥80% of learners](rcdp-icu-43-percent-reach-80-percent-target.md) — a broader claim this one bears on
 - [Post-training success rates in observed procedural skills rose markedly, reaching 100% in oxygen administration and fracture stabilization and 90% in endotracheal intubation](post-training-skill-success-rates-gains.md) — related
+- [Mandated multi-role rotation and full attendance in the participatory simulation phase achieved complete learner engagement](multi-role-rotation-full-engagement.md) — related

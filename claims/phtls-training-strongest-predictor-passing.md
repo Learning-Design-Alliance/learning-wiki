@@ -50,3 +50,4 @@ Logistic regression analysis of predictors of passing the 50-item knowledge test
 - [Higher professional title, higher education, PICC care experience, workplace guidelines, prior training, self-reported training needs, and tertiary hospital employment are each significantly associated with higher PICC care knowledge scores](seven-factors-associated-with-picc-knowledge.md) — related
 - [Working years were not independently associated with PICC care knowledge after adjustment for other variables](working-years-not-independently-associated-picc-knowledge.md) — related
 - [PHTLS-trained professionals report lower self-perceived competence than non-trained peers](phtls-training-lower-self-perceived-competence.md) — related
+- [Prior ECG training is the only independent predictor of adequate ECG knowledge after adjustment](prior-ecg-training-predicts-adequate-knowledge.md) — a narrower finding that bears on this claim

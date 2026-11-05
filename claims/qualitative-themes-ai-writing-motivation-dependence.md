@@ -75,3 +75,4 @@ Semi-structured interviews with eight purposively selected respondents, each las
 - [Students rated AI most valuable for time-efficient information gathering and complex mechanism explanation, while remaining cautious about AI information accuracy.](student-ai-perceptions-efficiency-versus-accuracy-caution.md) — related
 - [Role clarity and internal motivation are reported as motivation-related influences on EBP competence, with unclear role expectations and low volition hindering development](role-clarity-motivation-tcm-nurse-ebp.md) — related
 - [Student thematic analysis yielded three themes: educational applications, opportunities of AI use, and challenges and suggestions](student-themes-ai-scenario-feedback.md) — related
+- [A tailored AI training course plus informed AI use significantly improved physicians' perceptions of AI accuracy, time efficiency, training value, and willingness to adopt AI](ai-training-improves-physician-perceptions-of-ai.md) — related

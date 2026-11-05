@@ -52,3 +52,4 @@ Quantitative component of a descriptive mixed-methods study: 103 second-year nur
 - [Students assigned the highest clinical education scores to instructor performance and monitoring and evaluation, and the lowest to the learning environment.](instructor-monitoring-highest-environment-lowest-scores.md) — related
 - [Most nurses expressed satisfaction with the AMS course content and its relevance to everyday practice](nursing-ams-course-satisfaction-relevance.md) — related
 - [INACSL-standard-based training improves perceived simulation design, especially objectives/information and guided reflection/feedback](inacsl-simulation-improves-design-perceptions.md) — related
+- [Nurses report very high satisfaction with the BOPPPS-plus-simulation training course, with objectives and assessment criteria rated lowest](high-satisfaction-boppps-simulation-training.md) — related

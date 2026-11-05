@@ -47,6 +47,7 @@ The article demonstrates a strategy in which routine iRAT data from the first fo
 ## Related Strategies
 
 - [Use early internal course assessments to flag students at risk of underperformance on high-stakes exams](early-internal-assessments-flag-at-risk-students.md)
+- [Use mid-course SJT performance, especially around key clinical transitions, to identify students for early targeted remediation and formative feedback](formative-sjt-targeted-remediation.md)
 
 ## Examples
 -

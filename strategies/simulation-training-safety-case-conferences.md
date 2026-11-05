@@ -43,6 +43,7 @@ Based on participants' expressed enhancement needs, the authors recommend that h
 ## Related Strategies
 
 - [Use small-group standardized patient simulation series focused on therapeutic communication within psychiatric-mental health nursing courses](small-group-sp-simulation-therapeutic-communication-series.md)
+- [Schedule repeated simulation sessions across the psychiatric attachment and extend the program to other clinicians](repeated-psychiatric-simulation-sessions-strategy.md)
 
 ## Examples
 -

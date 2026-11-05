@@ -50,3 +50,4 @@ Summary of the structured feedback survey (n = 29) showing "particularly strong 
 - [Most students endorse the service learning model and would recommend it for future students](service-learning-student-endorsement-recommendation.md) — related
 - [Postgraduate immunology students report that small-group mind maps encouraged idea sharing (87% agree or strongly agree)](pbl-small-group-mind-maps-idea-sharing-immunology.md) — related
 - [Students strongly endorsed the AI e-learning tool, with 72.2% strongly agreeing it should be available for endodontic education and 76.4% strongly agreeing to recommend it to other students](ai-tool-strong-student-endorsement.md) — related
+- [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related

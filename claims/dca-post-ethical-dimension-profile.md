@@ -50,3 +50,4 @@ Descriptive Instant DCA indicator percentages for the ethical dimension in the o
 - [Awareness of institutional GenAI regulations does not automatically translate into clarity about rule-compliant use](awareness-does-not-yield-rule-compliance-clarity.md) — related
 - [Post-test Instant DCA profiles show sufficient technological expertise on interface identification (59%) and technical problem solving (52%) but very low technological understanding (26%)](dca-post-technological-dimension-profile.md) — related
 - [A 60-hour e-learning activity programme significantly increased pre-service teachers' Instant DCA scores on the technological, cognitive and ethical dimensions](elearning-activities-increase-dca-digital-competence.md) — related
+- [Privacy-protection awareness increased over time across all groups after simulation, with no between-group difference](privacy-awareness-increased-over-time.md) — related

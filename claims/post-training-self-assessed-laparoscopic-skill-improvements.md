@@ -52,3 +52,4 @@ Pre-/post-training self-assessment using a 10-point Likert scale among the enrol
 - [Cumulative exposure (total simulation time and repetitions) shows no significant association with final suturing performance](exposure-not-associated-with-suturing-proficiency.md) — related
 - [The K technique exercise stimulates five of six GEARS skill domains](k-technique-stimulates-five-gears-domains.md) — related
 - [Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter after a structured four-week laparoscopic simulator curriculum than before, in one single-group pre-post study.](laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2.md) — related
+- [Medical students' VAS-rated aspiration to become a surgeon rose from 60 to 65 after two-hour hands-on suture training with objective assessment, in one uncontrolled pre-post study](suture-training-objective-assessment-increased-surgical-aspiration.md) — related

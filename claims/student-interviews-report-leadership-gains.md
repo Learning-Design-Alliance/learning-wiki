@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2019
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: filiz-2019
     resource: "https://doi.org/10.12973/eu-jer.8.1.157"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Content analysis of interviews with 10 experimental-group students showed the most frequent reported feelings were self-confidence (f=8) and awareness (f=6), and the most frequent improved behavior was taking responsibility (f=5). [→ Filiz 2019](#filiz-2019)

@@ -50,3 +50,4 @@ In the randomized three-condition study, the 360° VR group lacked instructor in
 - [Participants in the 360° VR video condition report higher interest and enjoyment than those learning via traditional video or posters](360-vr-higher-interest-enjoyment.md) — related
 - [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](immersive-lessons-small-advantage-presence-not-sufficient.md) — a broader claim this one bears on
 - [Prior single-exposure IVR studies show mixed cognitive outcomes: affective gains without cognitive benefits (Parong & Mayer) and short-lived retention gains (Christopoulos)](ivr-single-exposure-mixed-cognitive-outcomes.md) — related
+- [The virtual learning resource was feasible and perceived as more engaging than traditional teaching in a 12-student pilot](vr-resource-feasibility-pilot-engagement.md) — related

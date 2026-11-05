@@ -51,3 +51,4 @@ In this randomized controlled trial of 30 anesthesiology residents, the simulati
 - [Both training groups improve abdominal image identification but simulation group scores higher post-training](both-groups-improve-abdominal-image-identification-sim-higher.md) — related
 - [Residents rated the pork-based model higher in fidelity and satisfaction than the silicone model, with no difference in operational difficulty](pork-model-higher-fidelity-satisfaction-than-silicone.md) — related
 - [Image quality scores are slightly higher in the XR training group compared to the standard group](xr-training-higher-image-quality.md) — related
+- [Simulation-based and traditional training produce no statistically significant differences in ultrasound-guided nerve identification success rates across most anatomical approaches](husp-simulation-no-success-rate-difference.md) — reports the opposite

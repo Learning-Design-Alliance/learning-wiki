@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: jerric-jose-j-jacob-e-alexander-l-2025
     resource: "https://doi.org/10.1177/14713012251313489"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A simulated relationship-building docudrama engaged nurse residents in stepping into the lives of families experiencing dementia, building empathy and understanding. [→ Jerric Jose J. Jacob E. Alexander L 2025](#jerric-jose-j-jacob-e-alexander-l-2025)

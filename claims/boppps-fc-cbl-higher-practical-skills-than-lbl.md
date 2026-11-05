@@ -54,3 +54,4 @@ Same RCT; practical skills exam focused on thoracentesis worth 110 marks. Indepe
 - [Gain scores were significantly larger in the BOPPPS-CBL group than the LBL group (Cohen's d = 1.77)](boppps-cbl-larger-gain-scores.md) — related
 - [CBL-FC students achieve significantly higher post-intervention test scores than LBL students in pulmonary imaging education](cbl-fc-higher-post-test-scores-pulmonary-imaging.md) — related
 - [Students taught pulmonary imaging with CBL-FC scored higher than an LBL group on application of imaging principles and diagnostic reasoning, in a quasi-randomized comparison where CBL-FC also added peer interaction](cbl-fc-improves-application-and-diagnostic-reasoning.md) — related
+- [The BOPPPS group improved 26.47 points more than controls on a standardized composite of knowledge and skill scores](boppps-total-score-improvement.md) — related

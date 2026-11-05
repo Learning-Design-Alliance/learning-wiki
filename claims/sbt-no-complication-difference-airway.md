@@ -53,3 +53,4 @@ Narrative synthesis of complication outcomes across seven studies; pooling was d
 - [Simulator training showed no significant effects on adenoma detection rate, polyp detection rate, or patient pain scores](mikoto-no-detection-outcome-effects.md) — related
 - [Complication rates did not differ significantly between pre- and post-training periods](no-significant-complication-change-after-porcine-training.md) — a narrower finding that bears on this claim
 - [No adverse events or patient-related procedural complications occurred in either training group during live TEE training and assessment](no-adverse-events-during-live-tee-training-assessment.md) — a narrower finding that bears on this claim
+- [Mental imagery reduces procedural complications and the number of skin punctures in simulated PVC insertion](mental-imagery-complications-punctures-pvc.md) — a narrower finding that bears on this claim

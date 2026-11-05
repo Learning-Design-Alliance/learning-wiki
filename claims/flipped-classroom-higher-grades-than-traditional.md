@@ -68,3 +68,4 @@ Quasi-experimental non-equivalent groups comparison of grades in the course "Did
 - [Both the flipped classroom and AI-enhanced flipped classroom groups achieved higher question accuracy than the traditional classroom group.](flipped-models-higher-question-accuracy.md) — related
 - [Summative academic performance in the AI-supported Reproduction module does not significantly differ from traditionally taught modules](no-significant-summative-performance-difference-ai-module.md) — related
 - [Students achieving an A grade accessed e-modules on more days than B–C and D–F bands, and accessed them earlier than the B–C band](grade-band-regularity-timeliness-association.md) — related
+- [BOPPPS-flipped classroom reform is linked to significantly higher regular academic grades in pediatric dentistry than traditional instruction](boppps-flipped-higher-regular-grades-pediatric-dentistry.md) — related

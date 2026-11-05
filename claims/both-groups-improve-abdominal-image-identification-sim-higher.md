@@ -51,3 +51,4 @@ In the randomized trial's Likert self-assessments, "both groups demonstrated sig
 - [Both SBS and VBT improve knowledge scores, but the score gain (delta) is significantly larger under SBS](sbs-larger-delta-score-gain-than-vbt.md) — a broader claim this one bears on
 - [Pork belly simulation training yields higher independent TAP block success rate than traditional training](pork-belly-sim-higher-independent-tap-success.md) — related
 - [Pork belly simulation training reduces TAP block procedure time compared to traditional training](pork-belly-sim-shorter-tap-procedure-time.md) — related
+- [Simulation-based and traditional training produce no statistically significant differences in ultrasound-guided nerve identification success rates across most anatomical approaches](husp-simulation-no-success-rate-difference.md) — reports the opposite

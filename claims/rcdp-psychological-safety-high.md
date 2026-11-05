@@ -53,3 +53,5 @@ Post-session survey study using Edmondson's psychological safety questionnaire a
 - [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — related
 - [Participants identify skilled facilitation, curriculum integration, institutional support, and simulation's safe learning environment as enablers of sim-IPE](sim-ipe-implementation-enablers.md) — related
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — related
+- [Almost half of surveyed cathlabs do not complete a morning safety brief or operative checklist](cathlab-safety-brief-checklist-noncompletion.md) — related
+- [Rapid cycle deliberate practice improves neonatal resuscitation performance and confidence compared with standard training](rcdp-improves-neonatal-resuscitation-performance.md) — related

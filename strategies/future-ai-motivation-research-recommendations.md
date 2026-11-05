@@ -50,6 +50,7 @@ The review's forward-looking recommendations urge researchers to move "beyond is
 - [Recommendations for STEM research and implementation practice](stem-meta-analysis-recommendations.md)
 - [Future gamification research should be qualitative or mixed and include educators' perspectives](future-gamification-research-qualitative-educator-perspectives.md)
 - [Future research should test design strategies targeting a broader range of motivational constructs, such as confidence, relatedness, and autonomy](broaden-motivational-constructs-beyond-interest-enjoyment.md)
+- [Use theory-driven framing of instructor talk as a first step before testing effects on student motivation](theory-driven-framing-before-talk-effects-testing.md)
 
 ## Examples
 -

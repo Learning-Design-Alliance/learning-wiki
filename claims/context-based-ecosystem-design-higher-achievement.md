@@ -89,3 +89,4 @@ Post-hoc comparison following the ANCOVA on post-test AT scores in the quasi-exp
 - [Video-production experiential teaching raises theoretical knowledge scores more than lecture-based instruction in dental preventive medicine students](video-production-experiential-teaching-improves-theoretical-knowledge.md) — related
 - [The iHEC cohort showed higher post-rotation self-directed learning readiness than the conventional cohort (Cohen's d = 0.78)](ihec-higher-sdl-readiness.md) — related
 - [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related
+- [The BOPPPS advantage in knowledge and skills remained statistically significant after ANCOVA adjustment for baseline scores](ancova-adjusted-boppps-effects.md) — related

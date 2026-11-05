@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2021
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: west-2021
     resource: "https://doi.org/10.1007/s11423-020-09905-y"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the reviewed CoSIL literature, the orientation, conclusion, and discussion phases received the least guidance, while the conceptualization and investigation phases had many more tools and strategies. [→ West 2021](#west-2021)

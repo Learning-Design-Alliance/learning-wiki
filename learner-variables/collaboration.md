@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 145 claims (115 show a difference, 20 mixed, 10 no difference) · 122 studies (46 causal, 26 review, 17 qualitative, 11 quant-synthesis, 9 associational, 8 design, 5 theoretical), `q1`–`q3` · 11 of 122 report an effect size · 145 claims rest on one study
+> **Evidence** · 147 claims (116 show a difference, 20 mixed, 11 no difference) · 124 studies (47 causal, 26 review, 18 qualitative, 11 quant-synthesis, 9 associational, 8 design, 5 theoretical), `q1`–`q3` · 11 of 124 report an effect size · 147 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -187,6 +187,8 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Faculty focus groups identified perceived benefits in teamwork, time management, communication, critical thinking, active learning, and confidence, alongside drawbacks](../claims/faculty-focus-group-gamification-themes.md) [~M] — measured as an outcome of the instruction studied
 - [Immersive VR paediatric emergency training significantly improves interprofessional teamwork from baseline to 1-month follow-up in both debriefing groups](../claims/vr-training-improves-teamwork-both-debriefing-groups.md) [+M] — measured as an outcome of the instruction studied
 - [Students attributed competencies in teamwork, time management, quick thinking, critical thinking, communication, and confidence to team-based gamified quizzing](../claims/student-reported-competencies-gamified-quizzing.md) [+M] — measured as an outcome of the instruction studied
+- [Collaborative learning in the postgraduate PBL course did not achieve deep peer collaboration, unlike the positive self-directed learning outcomes](../claims/pbl-collaborative-learning-shortfall.md) [-M] — measured as an outcome of the instruction studied
+- [Supplementary questionnaire responses from the experimental group indicate perceived gains in learning experience, problem-solving, cooperation, communication, and commitment](../claims/boppps-rain-classroom-supplementary-questionnaire-perceptions.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

@@ -48,3 +48,5 @@ Structured feedback survey of the PBL–scaffolding intervention in the Immunity
 - [Class-wide mind map integration boosted students' confidence to share ideas (83% agree or strongly agree)](class-wide-map-integration-confidence.md) — related
 - [Students report the exercise enhanced creative problem-solving (80% agree or strongly agree)](pbl-enhanced-problem-solving-perceptions.md) — related
 - [Students valued teacher guidance (90%) and recommended continuation of the activity (93%)](pbl-scaffolding-teacher-guidance-continuation.md) — related
+- [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
+- [Supplementary questionnaire responses from the experimental group indicate perceived gains in learning experience, problem-solving, cooperation, communication, and commitment](boppps-rain-classroom-supplementary-questionnaire-perceptions.md) — related

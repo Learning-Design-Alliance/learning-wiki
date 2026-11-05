@@ -9,7 +9,6 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-26
 sources:
   - id: li-2024
     resource: "https://doi.org/10.1038/s41539-024-00247-5"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` RU2-Short had a significant indirect effect on word reading accuracy, word reading fluency, and reading comprehension through phonological awareness, with bootstrapped 95% CIs not crossing zero. [→ Li 2024](#li-2024)

@@ -10,7 +10,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: fuchs-2016
     resource: "https://doi.org/10.1037/edu0000073"
@@ -42,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q3`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 3 of 3 entries) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 

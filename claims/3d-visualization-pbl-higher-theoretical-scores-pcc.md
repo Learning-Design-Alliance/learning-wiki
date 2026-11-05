@@ -53,3 +53,5 @@ Randomized comparison of 50 urology residents (25 per group) at Peking Union Med
 - [CBL with 3D reconstruction improves basic liver ultrasound scanning scores versus traditional teaching](cbl-3d-reconstruction-improves-scanning-scores.md) — related
 - [3D visualization technology supports doctor-patient communication in resident training](3d-visualization-supports-doctor-patient-communication.md) — related
 - [No significant difference between CBL-3D and traditional teaching in qualitative diagnosis of focal liver lesions](cbl-3d-reconstruction-no-gain-qualitative-diagnosis.md) — related
+- [Objective multiple-choice test scores do not differ significantly between 3D-PBL-annotation teaching and traditional lecture-based learning](3d-pbl-annotation-no-objective-score-difference.md) — reports the opposite
+- [Residents trained with DwGJ-integrated CBL scored higher on the post-course theoretical examination than residents receiving conventional CBL](dwgj-cbl-higher-theoretical-exam-scores.md) — related

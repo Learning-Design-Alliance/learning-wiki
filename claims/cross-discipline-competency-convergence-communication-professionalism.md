@@ -49,3 +49,4 @@ Cross-study comparison of competencies reported in the 22 included papers found 
 - [Clinical Assessment and Clinical Management were the most frequently reported competency domains](clinical-assessment-management-most-frequent-obesity-competencies.md) — related
 - [Communication skills are consistently ranked the most important competencies yet underemphasized in professional preparation](communication-skills-most-important-but-underemphasized.md) — related
 - [Scoping review of obesity competency literature identifies competencies spanning eleven key domains](obesity-competencies-eleven-domains-scoping-review.md) — a broader claim this one bears on
+- [Quantitative and qualitative findings converged on role modelling, structured teaching, scaffolded learning, feedback and communication, but diverged on personalised support](mixed-methods-convergence-divergence-preceptor-ctb.md) — related

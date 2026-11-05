@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2020
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: accardo-2020
     resource: "http://www.schoolcommunitynetwork.org/SCJ.aspx"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2020 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Under the traditional PIA's general direction to involve families, comparison-group candidates reported only incidental parent contact (an introductory email, an IEP meeting, notes home); the authors concluded explicit steps were needed for substantive parent–teacher candidate experiences. [→ Accardo 2020](#accardo-2020)

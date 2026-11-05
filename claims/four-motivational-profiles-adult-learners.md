@@ -55,3 +55,4 @@ Cluster analysis (hierarchical Ward's method then k-means) of autonomous and con
 - [Person-centered clustering of students on plausible values falls outside the valid use of PVs, while clustering sampling-frame units is valid](person-centered-clustering-on-pvs-invalid.md) — related
 - [Latent profile analysis of situation-specific motivation for studying video modeling examples yields four profiles: good-quality, moderately positive, moderately negative, and poor-quality](four-situation-specific-motivational-profiles-video-modeling.md) — related
 - [Cluster analysis of consumption behaviour and attitude identified four consumption groups among the eighth graders](four-consumption-groups-cluster-analysis.md) — related
+- [Cluster analysis identified four medical student subgroups with significantly different final exam scores, ranging from 75.1 to 85.8](four-academic-performance-profiles-medical-students.md) — related

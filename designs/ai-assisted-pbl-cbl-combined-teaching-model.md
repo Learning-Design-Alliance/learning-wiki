@@ -49,6 +49,7 @@ The article describes a teaching model that "combines AI-assisted PBL with CBL,"
 ## Related Designs
 
 - [HI-AI collaborative framework for the AI-enhanced flipped classroom](hi-ai-collaborative-flipped-classroom-framework.md)
+- [Five-phase integrated 3D-PBL-annotation session structure for spinal surgery teaching](five-phase-3d-pbl-annotation-session-structure.md)
 
 ## Examples
 -

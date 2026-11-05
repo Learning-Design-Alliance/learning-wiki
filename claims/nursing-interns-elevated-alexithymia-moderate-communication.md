@@ -49,3 +49,4 @@ Descriptive results from the cross-sectional survey of 208 valid responses from 
 - [Externally oriented thinking is negatively correlated with self-efficacy and several clinical communication subdomains among nursing interns](eot-negative-correlations-self-efficacy-communication.md) — related
 - [Self-efficacy is positively associated with most clinical communication subdomains among nursing interns](self-efficacy-positive-communication-subdomains.md) — related
 - [Self-efficacy partially mediates the relationship between externally oriented thinking and clinical communication competence](self-efficacy-partial-mediator-eot-communication.md) — related
+- [Among these nursing undergraduates, mean SDL score was 90.19 ± 10.10, mean MPAI score 40.12 ± 11.10, mean TAS-20 score 51.32 ± 8.59, and 11.8% were identified with alexithymia](sdl-mpai-tas20-descriptive-levels-nursing-undergraduates.md) — related

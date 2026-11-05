@@ -52,3 +52,4 @@ Independent samples t-test on pre-test scores (Table 3): Ashmore, Casey, Frazer 
 - [Before instruction, control and experimental groups showed no significant difference in apology speech act performance at either proficiency level](pretest-equivalence-apology-groups.md) — related
 - [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related
 - [Before the intervention, experimental and control groups showed no significant difference in self-esteem pre-test scores, though descriptively favoring the control group](pre-test-self-esteem-no-significant-difference.md) — related
+- [The DwGJ and control groups did not differ in admission theoretical or skill examination scores at baseline](dwgj-trial-baseline-equivalence-admission-scores.md) — related

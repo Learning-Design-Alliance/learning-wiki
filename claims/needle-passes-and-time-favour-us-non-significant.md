@@ -49,3 +49,4 @@ Paired t-tests and Wilcoxon signed-rank sensitivity analyses on needle-pass coun
 - [Completion rate increased from 43% to 100% in the ultrasound-guided phase, a large but statistically non-significant difference](us-guided-completion-rate-100-vs-43-non-significant.md) — related
 - [Ultrasound-guided phase OSCE performance scores and overall ratings were nominally higher than landmark-phase performance among EM residents with paired data](us-guided-osce-nominally-higher-than-landmark.md) — related
 - [Ultrasound guidance improves PVC placement outcomes versus conventional methods primarily in DIVA patients](ultrasound-guidance-improves-pvc-outcomes-diva.md) — related
+- [Patient-reported procedural pain is numerically lower when local anesthesia is used, but the difference is not statistically significant](anesthesia-patient-pain-nonsignificant-trend.md) — related

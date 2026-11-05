@@ -45,6 +45,7 @@ This strategy uses short, structured breathing patterns to raise or lower (nor)e
 - [Breathing Exercises](breathing_exercises.md)
 - [Focused-Attention Practices](focused-attention_practices.md)
 - [Breathing Techniques and Mindfulness Strategies](breathing_techniques_and_mindfulness_strategies.md)
+- [Deep slow breathing (including the 4-7-8 method) as a pre-procedure stress-management technique for trainees performing time-critical procedures](deep-slow-breathing-attenuates-procedural-stress.md)
 
 ## Examples
 -

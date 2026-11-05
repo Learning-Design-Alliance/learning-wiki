@@ -82,3 +82,4 @@ Non-parametric confirmation of the overall pre/post gain in the same pilot. The 
 - [Knowledge and self-efficacy in COVID-19 caregiving increased after a self-learning software intervention](self-learning-software-increased-covid-caregiving-knowledge.md) — related
 - [All five questionnaire domains improved significantly after training, with large effect sizes (r = 0.67–0.81)](us-training-all-questionnaire-domains-improved.md) — related
 - [Patient interaction scores increased significantly within both the hybrid simulation and control groups after training (p < 0.001 for both)](patient-interaction-improved-within-both-groups.md) — related
+- [Frequency of use of trained Web 2.0 tools rose significantly from before to two months after training in one group with no comparison group, with large effect sizes; Google Forms was at 50% and Wooclap at 29.5% frequent or very frequent use](web20-tool-use-increased-large-effects.md) — related

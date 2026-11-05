@@ -53,3 +53,4 @@ Individual cognitive walkthroughs with five of eight active users, analyzed them
 - [Students' questions shift from broad to specific during Socratic AI tutoring, from about 10–15% specific in the first turn to all students asking specific questions by the final turn](question-specificity-rises-over-socratic-ai-dialogue.md) — related
 - [Students dynamically switched between Socratic Inquiry and Transactional Delegation as deadlines approached and task novelty changed (the Strategic Dance)](strategic-dance-socratic-transactional-switching.md) — related
 - [LLM-based everyday learning is predominantly an individual activity, with 89% learning alone](llm-learning-predominantly-individual.md) — related
+- [ChatGPT interactions during case-based learning were superficial and short, used like a search engine rather than a dialogic tutor](chatgpt-used-like-google-not-tutor.md) — related

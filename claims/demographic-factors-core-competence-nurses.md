@@ -54,3 +54,4 @@ Multivariate linear regression on 392 nurses (F = 71.446, p < 0.001, R2 = 0.711)
 - [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related
 - [Nurses aged 51–60 and those with more than 10 years of experience had significantly better nutritional knowledge than the youngest reference groups in multivariable regression](age-experience-predict-nutrition-knowledge.md) — related
 - [Length of employment, resuscitation experience, and participation in public health emergency drills are significantly associated with emergency response competence](experience-resuscitation-drills-predict-emergency-competence.md) — related
+- [KAP scores vary across demographic and professional characteristics (age, experience, education, employment type, hospital grade, event experience) in unadjusted analyses](kap-demographic-subgroup-variation.md) — related

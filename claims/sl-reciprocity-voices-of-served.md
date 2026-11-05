@@ -71,3 +71,4 @@ Cross-study comparison within the synthesis; traditional placements restricting 
 - [Patients experience healthcare professionals as competent in digital counselling when they establish a reciprocal relationship built on trust, listening, and a comfortable atmosphere](patients-experience-hcp-competence-reciprocal-relationship.md) — related
 - [SL experiences enable PSTs to recognize ELLs' cultural capital as an educational resource](sl-recognition-of-cultural-capital.md) — related
 - [Service-learning placements with ELLs heighten preservice teachers' awareness of diverse learners](sl-with-ells-heightens-pst-awareness.md) — a narrower finding that bears on this claim
+- [A reciprocity cycle in which past attendees become student-teachers sustains the peer teaching community over time](giving-back-cycle-sustains-peer-teaching-community.md) — related

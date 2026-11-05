@@ -67,3 +67,4 @@ Subdomain analysis of the same instructor-evaluation survey found significant di
 - [In the same RCT, PBL combined with virtual simulation received significantly higher student evaluations of teaching effectiveness (17.72 ± 1.24 vs. 12.72 ± 1.02, p < 0.01) and teaching satisfaction (86.96 ± 6.46 vs. 70.24 ± 8.71, p < 0.05)](pbl-virtual-simulation-higher-satisfaction-trauma-orthopedics.md) — related
 - [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](flipped-classroom-higher-student-satisfaction-medical-education.md) — related
 - [Residents in the modified Peyton group report higher teaching satisfaction across all surveyed dimensions](modified-peyton-higher-satisfaction.md) — related
+- [PBL-trained kidney transplantation trainees report higher satisfaction with training than traditionally trained trainees](pbl-higher-trainee-satisfaction-kidney-transplant.md) — related

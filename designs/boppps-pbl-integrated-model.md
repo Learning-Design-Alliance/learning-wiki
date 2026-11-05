@@ -44,7 +44,9 @@ The model combines the six-stage BOPPPS sequence (Bridge-in, Objectives, Preasse
 - [Boppps Pbl High Teaching Effectiveness Ratings](../claims/boppps-pbl-high-teaching-effectiveness-ratings.md) [+M]
 
 ## Related Designs
-- 
+
+- [BOPPPS-based pre-anesthesia care workshop with pre-class preparation, scenario-based participatory learning, and real-time feedback](boppps-pre-anesthesia-workshop-design.md)
+- [PBL-integrated research training course built on four sequential projects with distinct assessments](pbl-four-sequential-projects-course-pattern.md)
 
 ## Examples
 -

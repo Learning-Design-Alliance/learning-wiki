@@ -49,6 +49,7 @@ After each simulation case, a faculty facilitator leads a structured debrief bas
 - [Use a structured debriefing session after simulation scenarios to consolidate learning points.](structured-debriefing-after-simulation.md)
 - [Structured post-scenario debriefing after each simulation scenario](post-scenario-debriefing-triage-simulation.md)
 - [Use a structured debriefing script (modified PEARLS) to scaffold self-guided debriefing in VR simulation](structured-script-scaffolds-self-guided-debriefing.md)
+- [Include a post-game debriefing period in which groups reflect on an evolutionary tree from the game through guided questions.](venomventure-post-game-debriefing-strategy.md)
 
 ## Examples
 -
