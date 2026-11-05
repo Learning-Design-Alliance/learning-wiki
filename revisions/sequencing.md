@@ -48,3 +48,6 @@ New pattern: Herbart's five formal steps for lesson sequencing (Unit 1)
 
 ### 2026-09-28 · ingest · process:wiki-ingest
 Ingested from eric-ed417613 (Following Native Language Acquisition.) via eval_harness.py + ingest_extractions.py
+
+### 2026-11-05 · content · process:article-ingest
+Doroudi, Aleven & Brunskill (2019), Where's the reward? doi:10.1007/s40593-019-00187-x

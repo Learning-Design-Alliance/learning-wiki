@@ -10,6 +10,12 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ---
 
+## 2026-11-05
+
+* **Content**: [elements/adaptive-learning](elements/adaptive-learning.md) — Doroudi, Aleven & Brunskill (2019), Where's the reward? doi:10.1007/s40593-019-00187-x
+* **Content**: [principles/sequencing](principles/sequencing.md) — Doroudi, Aleven & Brunskill (2019), Where's the reward? doi:10.1007/s40593-019-00187-x
+* **Ingest**: [claims/rl-sequencing-policies-beat-baselines-in-constrained-tasks](claims/rl-sequencing-policies-beat-baselines-in-constrained-tasks.md) — Doroudi, Aleven & Brunskill (2019), Where's the reward? doi:10.1007/s40593-019-00187-x
+
 ## 2026-11-04
 
 * **Ingest**: [claims/voluntary-choice-suppression-effect-multivariable](claims/voluntary-choice-suppression-effect-multivariable.md) — Ingested from pmc-13240153 (Newly Graduated Nurses' Professional Competency and Caring Perception: A Cross-Sectional Correlational Study.) via eval_harness.py + ingest_extractions.py
