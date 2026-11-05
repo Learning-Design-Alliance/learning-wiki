@@ -10,6 +10,13 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ---
 
+## 2026-11-05
+
+* **Claim**: [claims/judgments-overconfidence-massed-items](claims/judgments-overconfidence-massed-items.md) — Linked claim from Spaced mathematics practice improves test scores and reduces overconfidence (Emeny, Hartwig & Rohrer, 2021), doi:10.1002/acp.3814; written from the abstract
+* **Claim**: [claims/spacing-effect-mathematics-overall-meta-analysis](claims/spacing-effect-mathematics-overall-meta-analysis.md) — Linked claim from Spaced mathematics practice improves test scores and reduces overconfidence (Emeny, Hartwig & Rohrer, 2021), doi:10.1002/acp.3814; written from the abstract
+* **Claim**: [principles/spaced-learning](principles/spaced-learning.md) — Linked claim from Spaced mathematics practice improves test scores and reduces overconfidence (Emeny, Hartwig & Rohrer, 2021), doi:10.1002/acp.3814; written from the abstract
+* **Ingest**: [claims/spaced-math-practice-raises-scores-and-calibration](claims/spaced-math-practice-raises-scores-and-calibration.md) — Spaced mathematics practice improves test scores and reduces overconfidence (Emeny, Hartwig & Rohrer, 2021), doi:10.1002/acp.3814; written from the abstract
+
 ## 2026-11-04
 
 * **Ingest**: [claims/voluntary-choice-suppression-effect-multivariable](claims/voluntary-choice-suppression-effect-multivariable.md) — Ingested from pmc-13240153 (Newly Graduated Nurses' Professional Competency and Caring Perception: A Cross-Sectional Correlational Study.) via eval_harness.py + ingest_extractions.py

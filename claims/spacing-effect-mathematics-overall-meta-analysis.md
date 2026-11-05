@@ -5,8 +5,8 @@ description: Spaced practice produces a robust small-to-medium retention advanta
 id: spacing-effect-mathematics-overall-meta-analysis
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-10-21
+  by: "process:article-ingest"
+  at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2023
 sources:
@@ -45,6 +45,7 @@ Pre-registered meta-analysis using robust variance estimation with correlated hi
 
 
 ## Related Claims
+- [Spacing mathematics practice across weeks raised Year 7 students' test scores a month later and made their score predictions more accurate than massed practice](spaced-math-practice-raises-scores-and-calibration.md) — a narrower finding that bears on this claim
 - [When spacing is embedded into a course, spaced practice retains a robust but numerically smaller effect (g = 0.24) than for isolated material.](spacing-course-embedded-mathematics-g024.md) — a narrower finding that bears on this claim
 - [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related

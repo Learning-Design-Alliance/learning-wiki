@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":49846,
+"claim":49847,
 "design":2572,
 "element":1057,
 "learner-variable":75,
@@ -429458,6 +429458,16 @@
 "type":"claim"
 },
 {
+"description":"In two classroom experiments with Year 7 students, practice divided across three sessions a week apart produced higher test scores one month later than the same practice in one session, and students' predictions of their scores were fairly accurate after spaced practice but grossly overconfident after massed practice.",
+"evidence_strength":"moderate",
+"id":"spaced-math-practice-raises-scores-and-calibration",
+"newest_evidence":"2021",
+"path":"claims/spaced-math-practice-raises-scores-and-calibration.md",
+"status":"review",
+"title":"Spacing mathematics practice across weeks raised Year 7 students' test scores a month later and made their score predictions more accurate than massed practice",
+"type":"claim"
+},
+{
 "description":"The authors attribute the spaced-practice knowledge benefit to deeper learning or transfer, because quiz and final-test items were never repeated",
 "evidence_strength":"moderate",
 "id":"spaced-practice-benefit-reflects-transfer-not-item-memorization",
@@ -719562,6 +719572,7 @@
 "spaced-cpr-training-improves-retention":"spaced-cpr-training-improves-retention",
 "spaced-education-improves-behaviour-and-patient-outcomes":"spaced-education-improves-behaviour-and-patient-outcomes",
 "spaced-interleaved-homework-practice":"spaced-interleaved-homework-practice",
+"spaced-math-practice-raises-scores-and-calibration":"spaced-math-practice-raises-scores-and-calibration",
 "spaced-practice-benefit-reflects-transfer-not-item-memorization":"spaced-practice-benefit-reflects-transfer-not-item-memorization",
 "spaced-practice-elaboration-dual-coding-differ-by-performance":"spaced-practice-elaboration-dual-coding-differ-by-performance",
 "spaced-practice-improves-long-term-retention":"spaced-practice-improves-retention",
