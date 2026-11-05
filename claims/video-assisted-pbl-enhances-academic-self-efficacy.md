@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: strong
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: goda-fatma-alm-eldeen-2026
     resource: "https://doi.org/10.1186/s12909-026-10037-9"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The video-assisted PBL group achieved the highest post-intervention academic self-efficacy scores (72.16 ± 6.18), followed by traditional PBL (67.70 ± 7.78) and control (45.74 ± 5.88). [→ Goda Fatma Alm Eldeen 2026](#goda-fatma-alm-eldeen-2026)

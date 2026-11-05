@@ -96,3 +96,4 @@ Bootstrapped mediation analysis within PLS-SEM on the 487-student sample, testin
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest predictor](se-mov-positive-predict-sdl-henan-sem.md) — related
 - [Thoughtless use of generative AI exerts a significant direct negative effect on undergraduates’ self-directed learning](tuga-negative-direct-effect-sdl-henan-sem.md) — related
 - [Major satisfaction partially mediates the effect of achievement motivation on sustainable education (β = 0.15)](major-satisfaction-partially-mediates-motivation-sustainability.md) — related
+- [Attitude partially mediates the relationship between knowledge and practice in structural equation modelling](attitude-partially-mediates-knowledge-practice.md) — related

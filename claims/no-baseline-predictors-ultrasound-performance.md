@@ -58,3 +58,4 @@ In this RCT, baseline MRT and anatomical knowledge tests showed no significant c
 - [XR-based POCUS training is non-inferior to standard training for TAPSE measurement accuracy](xr-training-non-inferior-tapse.md) — related
 - [Visuospatial ability (MRT-A) was not significantly associated with competency improvement in this HoloLens tutorial format](mrt-a-not-associated-competency-gain-hololens.md) — related
 - [Visuospatial ability (MRT-A) was not significantly associated with perceived usability (SUS) of the HoloLens 2](mrt-a-not-associated-sus-score.md) — related
+- [MRT and VVIQ scores are uncorrelated (r = 0.01), and neither significantly affected survey scores except VVIQ on extraneous cognitive load (p < 0.05)](mrt-vviq-uncorrelated-null-main-effects.md) — reports the opposite

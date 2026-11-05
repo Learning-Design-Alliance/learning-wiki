@@ -57,3 +57,4 @@ Meta-analysis of 8 studies involving 1137 students reporting satisfaction with i
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — a broader claim this one bears on
 - [TBL develops more students' learning enthusiasm than LBL according to student questionnaires](tbl-increases-learning-enthusiasm-questionnaires.md) — related
 - [AI-assisted peer teaching increases student engagement and satisfaction](ai-assisted-peer-teaching-engagement-satisfaction.md) — related
+- [Sim + LBL students reported greater satisfaction, perceived learning outcomes, and core-competency gains than LBL students](sim-lbl-greater-satisfaction-engagement-competency.md) — related

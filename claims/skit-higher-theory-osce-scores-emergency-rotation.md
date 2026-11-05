@@ -54,3 +54,4 @@ Cohort-allocated controlled educational study of 36 rotating residents (18 per g
 - [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related
 - [Modified Peyton’s four-step approach yields higher immediate post-training OSCE scores than traditional Peyton in resident clinical skills training](modified-peyton-higher-immediate-osce.md) — related
 - [SKIT improves triage accuracy but not significantly the reasonableness of emergency management plans](skit-triage-accuracy-management-plan-decision-making.md) — related
+- [Adding Kahoot and TikTok to traditional teaching raised final exam scores by 12.9% in a radiation oncology course for third-year medical students](kahoot-tiktok-raised-radiotherapy-exam-scores.md) — related

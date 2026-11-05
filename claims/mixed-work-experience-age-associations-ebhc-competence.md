@@ -51,3 +51,4 @@ Narrative synthesis within the scoping review. For work experience, the review r
 - [Age is significantly associated with leaders' ICT use, with younger nurse leaders more able than older counterparts](age-associated-ict-use-nurse-leaders.md) — related
 - [Students' age is inversely and significantly correlated with their perception of clinical education quality (r = −0.259, p = 0.001).](student-age-inverse-clinical-quality-correlation.md) — related
 - [Four attributes failed consensus: nursing specialty completion, postgraduate/doctoral degrees, longer experience as automatically higher effectiveness, and younger age](four-attributes-failed-consensus.md) — related
+- [The authors report no direct correlation between older age or greater professional experience and correct diagnosis, with accurate diagnoses evenly distributed across medical students and nurses](no-background-correlation-with-correct-diagnosis.md) — related

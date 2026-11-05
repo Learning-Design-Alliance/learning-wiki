@@ -9,7 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-10-28
+source_checked: 2026-11-05
 sources:
   - id: stevenson-2017
     resource: "https://doi.org/10.1007/s40593-016-0129-5"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2017 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A significant three-way interaction between working memory, feedback condition, and pretest-to-posttest progression: higher WM scores were (marginally) related to larger gains in the ITF and NF conditions, while the effect of feedback did not differ by WM level in the MTF condition. [→ Stevenson 2017](#stevenson-2017)

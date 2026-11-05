@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: namaziandost-et-al-2017
     resource: "https://doi.org/10.7575/aiac.alls.v.8n.2p.243"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 80 female students at one junior high school in Ahvaz, after 12 sessions the experimental group significantly outperformed the control group on the grammar posttest, with a mean difference of 5.20 points. [→ NamazianDost et al. 2017](#namaziandost-et-al-2017)

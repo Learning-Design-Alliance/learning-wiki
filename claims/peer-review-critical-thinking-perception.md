@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: harutyunyan-and-poveda-2018
     resource: "https://doi.org/10.5539/elt.v11n4p138"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 44 peer-review participants (34 students and 10 university staff), more than 75% responded positively to the vast majority of critical thinking indicators; the authors say identifying proper academic writing ranked slightly lower, though in their table two other items drew slightly fewer positive answers (37 of 44 against 38), and the authors read the comments on it as lower confidence; the table shows two totally negative (option D) answers among the critical-thinking items, one on identifying proper academic writing and one on another item listed near the top of the table (the extracted text places it at the second row, near "Reevaluate my paper"). These are questionnaire responses from participants who used peer review; the article's text says only the academic-writing item drew an option-D answer. [→ Harutyunyan and Poveda 2018](#harutyunyan-and-poveda-2018)

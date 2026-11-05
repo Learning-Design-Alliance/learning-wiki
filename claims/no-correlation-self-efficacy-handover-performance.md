@@ -51,3 +51,4 @@ Secondary analysis comparing matched-pair self-efficacy survey scores with video
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — reports the opposite
 - [Objective knowledge and self-perceived clinical confidence show a weak negative correlation (r = -0.201) among dental interns](negative-knowledge-confidence-correlation-veneers.md) — reports the opposite
 - [Each of the five Team FIRST modules significantly improves medical students' self-efficacy for teamwork competencies from pre- to post-activity survey](team-first-modules-improve-teamwork-self-efficacy.md) — related
+- [Students' post-training confidence ratings do not correlate with their objectively assessed US-PIVC competency scores.](us-pivc-confidence-not-correlated-with-competency.md) — related

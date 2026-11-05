@@ -53,3 +53,4 @@ Theme description from Table 1 summarizing the Safe Space theme; students and st
 - [Reflexivity, perspective taking, analogical reasoning, and tolerance of ambiguity and uncertainty each positively relate to knowledge integration in inter- and transdisciplinary work](four-competencies-predict-knowledge-integration.md) — related
 - [Students report that progressive simulation practice builds handover confidence by reducing anxiety](progressive-simulation-practice-builds-confidence.md) — related
 - [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](vs-positive-emotional-experiences.md) — related
+- [Students’ reflections focused predominantly on challenges and areas for growth rather than perceived competence](reflections-challenges-outweigh-perceived-competence.md) — related

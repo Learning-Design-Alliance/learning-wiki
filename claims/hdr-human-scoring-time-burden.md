@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: satoshi-takahashi-2026
     resource: "https://doi.org/10.48550/arxiv.2609.25790"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Human scoring and feedback for HDR takes approximately 11 minutes and 30 seconds per learner; for 100 learners it would take approximately 17 hours and 8 minutes, whereas GPT-based scoring and feedback can be completed almost instantly. [→ Satoshi Takahashi 2026](#satoshi-takahashi-2026)

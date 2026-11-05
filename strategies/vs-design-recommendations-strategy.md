@@ -62,6 +62,7 @@ The review's forward-looking recommendations for VS teaching design: future devi
 - [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
 - [Deliver multilingual GenAI simulation training in the trainee's preferred language to standardize training across linguistic contexts](multilingual-genai-simulation-preferred-language-strategy.md)
 - [Use immersive VR virtual patient scenarios to give pre-clinical and multicultural students safe, repeatable clinical communication practice](vr-safe-practice-preclinical-multilingual-strategy.md)
+- [Design VR learning tools with learner-centered UI/UX choices that limit cybersickness and extraneous cognitive load](learner-centered-vr-design-limit-cybersickness-load.md)
 
 ## Examples
 -

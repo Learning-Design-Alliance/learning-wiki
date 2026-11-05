@@ -77,3 +77,4 @@ collaboration."
 - [The job competency evaluation framework comprises 5 primary dimensions, 24 secondary dimensions, and 52 tertiary items with strong psychometric properties](job-competency-framework-five-dimensions-52-items.md) — related
 - [The ICO-OCEX demonstrated high internal consistency with an overall Cronbach's alpha of 0.995](ico-ocex-internal-consistency-high-alpha.md) — related
 - [The satisfaction survey showed excellent internal consistency while the competence questionnaire showed borderline reliability](cblc-instrument-reliability-contrast.md) — related
+- [IAFEE-ECS® demonstrated high internal consistency with Cronbach's alpha of 0.993](iafee-ecs-cronbach-alpha-reliability.md) — related

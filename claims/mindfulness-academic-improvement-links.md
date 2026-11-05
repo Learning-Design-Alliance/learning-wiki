@@ -9,7 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2020
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: browning-2020
     resource: "https://californias3.wested.org/wp-content/uploads/Mindfulness-Based-Practices-for-Schools.pdf"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
-> **Currency** · newest study 2020 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Research linking mindfulness to academic improvement has demonstrated reduced test anxiety (Napoli, Krech, & Holley, 2005), increased student focus and concentration on cognitive tasks (Ortner, Kilner, & Zelazo, 2007), and improved reading competence (Jennings, 2018). [→ Browning 2020](#browning-2020)

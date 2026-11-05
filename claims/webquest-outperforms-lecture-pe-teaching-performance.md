@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2008
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: haythem-abdel-mageed-mohamed-rasha-nageh-ali-abd-el-rheem-2008
     resource: "https://eric.ed.gov/?q=The+Web+Quest+Its+Impact+on+Developing+Teaching+Skills+of+Physical+Education+Student+Teachers"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2008 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2008 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The experimental WebQuest group surpassed the control group on posttest scores in all three teaching-skill domains, with independent-samples t-tests significant at p=0.000 for planning (t=5.90), implementation (t=8.39) and evaluation (t=4.05). [→ Haythem Abdel Mageed Mohamed & Rasha Nageh Ali Abd El Rheem 2008](#haythem-abdel-mageed-mohamed-rasha-nageh-ali-abd-el-rheem-2008)

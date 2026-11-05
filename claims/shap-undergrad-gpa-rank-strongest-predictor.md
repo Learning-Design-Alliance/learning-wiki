@@ -69,3 +69,5 @@ SHAP summary-plot analysis of psychosocial predictors in the same model; the art
 ## Related Claims
 - [Feature-based model predictive power derives from a large and varied set of features rather than a few dominant variables](feature-importance-spread-across-many-features.md) — related
 - [Deletion tests show SHAP sentence rankings are more faithful than LLM-generated rationales for PLM scorers](shap-more-faithful-than-llm-rationales-deletion.md) — related
+- [Feature importance analyses rank failed courses first for predicting academic performance, followed by institutional and academic background variables, with some regression-specific differences](feature-importance-failed-courses-institutional-background.md) — related
+- [An XGBoost model predicted post-class test performance well, with knowledge mastery and learning interest the strongest SHAP contributors](xgboost-shap-knowledge-mastery-interest-predictors.md) — related

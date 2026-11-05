@@ -60,3 +60,4 @@ YouTube analytics across two course offerings (534 students). The article report
 - [Students spent only one to two hours weekly on out-of-class study, using video watching, revision, and summarization strategies](fc-out-of-class-study-time-strategies.md) — related
 - [Only 15% of students previewed all nine vodcasts before lectures, with 77% viewing at least one.](low-vodcast-preview-uptake-gem-students.md) — related
 - [AI voice cloning maintains student engagement comparable to traditional audio recording](ai-voice-cloning-maintains-engagement.md) — related
+- [Only 23.1% of registrants attended all four sessions, with a 26.6% dropout rate](low-completion-voluntary-course.md) — related

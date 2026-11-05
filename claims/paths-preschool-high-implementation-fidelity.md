@@ -54,3 +54,4 @@ Process evaluation using monthly coordinator ratings on 13 items rated on a 4-po
 - [CBC and behavioral plan implementation were delivered with high fidelity in the rural trial](cbc-fidelity-high-rural-trial.md) — related
 - [Minimally trained, non-education-major college tutors implemented the structured program with high fidelity (average 96.3%)](minimally-trained-tutors-high-fidelity.md) — related
 - [Schools implemented the Lesson Study programme with high fidelity, attending training and completing roughly one cycle per term](lesson-study-high-implementation-fidelity.md) — related
+- [The course was delivered with high fidelity: 81% of participants reported minimal problems, and objective assessment outcomes were consistent across all six sessions with a median score of 40/40.](us-pivc-course-implementation-fidelity.md) — related

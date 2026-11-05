@@ -50,3 +50,4 @@ Descriptive comparison across models on Type C shared-option questions, reported
 - [ChatGPT-4o achieved 71% accuracy on the Chinese question bank, comparable to dental undergraduates and OMS graduate students but lower than OMS specialists](chatgpt-4o-71-percent-chinese-question-bank-accuracy.md) — related
 - [Across all question types and languages, Doubao-1.5-pro achieved the highest accuracy (92.0% ± 1.3%) and ChatGPT-4o the lowest (82.8% ± 3.7%) among six LLMs benchmarked](doubao-highest-chatgpt4o-lowest-accuracy.md) — related
 - [DeepSeek-R1 and Qwen2.5-32B significantly outperformed GPT-4o on both question-level and case-level accuracy](deepseek-qwen32b-outperform-gpt4o-clinical-cases.md) — related
+- [Chinese-language optimization gives DeepSeek no measurable advantage over ChatGPT on the Chinese-language audiologist examination](deepseek-no-chinese-advantage-taqe.md) — related

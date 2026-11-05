@@ -13,7 +13,7 @@ generated:
 # Multimedia Projects
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 quant-synthesis, 1 design), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (1 causal, 1 quant-synthesis, 1 design), `q2`–`q3` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Multimedia projects are the element in which learners create artifacts that combine text, visuals, audio, video, or interaction.
@@ -26,6 +26,7 @@ Multimedia projects are the element in which learners create artifacts that comb
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Students most enjoyed creating images with AI, followed by generating text, with video creation least favoured](../claims/students-enjoyed-image-creation-most.md) [~W]
 - [Digital story applications have a high positive average effect on students' academic achievement compared to other teaching methods (ES = 0.750)](../claims/digital-story-high-positive-effect-academic-achievement.md) [+W] — attached 2026-10-31 from Nurullah Sahin et al. (2020), which proposed "Digital storytelling and its seven components"; tests this page's relationship.
+- [In the experimental cohort, students who participated in the TikTok collaborative video activity scored 1.57 points higher on the final exam than the few who did not](../claims/tiktok-participation-higher-exam-score.md) [~W] — attached 2026-11-05 from Zapata-Martínez I et al. (2025), which proposed "Collaborative TikTok video assignment as a graded active-learning component in radiation oncology".
 
 ## Related Elements
 - [Multimedia Learning](multimedia-learning.md)

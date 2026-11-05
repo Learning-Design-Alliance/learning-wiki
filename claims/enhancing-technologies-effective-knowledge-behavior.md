@@ -51,3 +51,4 @@ The review's synthesis of outcome patterns across included studies using enhanci
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — related
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — a narrower finding that bears on this claim
 - [High-fidelity manikins and virtual reality were the most common paediatric SBE modalities across the reviewed studies](high-fidelity-manikins-vr-most-common-modalities.md) — related
+- [Technology-enhanced simulation improves knowledge, procedural skills, teamwork behaviors, and transfer to practice](simulation-improves-knowledge-skills-teamwork-transfer.md) — related

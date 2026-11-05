@@ -60,3 +60,4 @@ Course achievement comparison in the quasi-experimental study: clinical skills f
 - [Fourth-year medical students in a workplace-based learning program with mini-CEX and DOPS achieve higher MCQ knowledge scores than standard-clerkship peers](wblp-mini-cex-dops-higher-mcq-scores.md) — related
 - [CCS training yields significantly greater post-clerkship Mini-CEX improvements than traditional training across all assessment domains](ccs-greater-post-clerkship-mini-cex-gains.md) — related
 - [Anesthesiology trainees taught with a DeepSeek-based AI teaching assistant on top of traditional teaching achieved significantly higher immediate theoretical test scores than those taught by traditional teaching alone](deepseek-assistant-higher-immediate-anesthesia-theory-scores.md) — related
+- [A virtual 4-week urology course for sub-interns significantly increased confidence and knowledge at seven-month follow-up](virtual-urology-course-sub-interns-outcomes.md) — related

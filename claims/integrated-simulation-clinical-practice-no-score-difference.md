@@ -53,3 +53,4 @@ Quasi-experimental comparison of 42 observation-group and 38 control-group third
 - [Students report higher satisfaction and more positive emotional responses with simulation-based teaching than with traditional practical instruction](simulation-higher-satisfaction-positive-emotions.md) — related
 - [Integrated micro-skills training-CPTM improves OSCE practical skill scores versus traditional teaching](microskills-cptm-higher-osce.md) — reports the opposite
 - [Case-based theory scores improve after integrated simulation with TBL while single-choice scores do not change significantly](case-questions-improve-single-choice-do-not.md) — related
+- [Medical students taught under the reformed biochemistry model (stomatology cohorts) earned significantly higher final-exam grades than traditionally taught peers (clinical medicine cohorts) across 2020–2022, with mean differences of 2.76–3.92 points](biochem-reform-higher-exam-scores-three-cohorts.md) — reports the opposite

@@ -51,3 +51,4 @@ Meta-analysis of 29 effect sizes from 11 studies using a three-level CHE model w
 - [Multidimensional personalization of gamification produced no statistically significant motivational differences from OSFA gamification in gamified review assessments](personalization-no-significant-motivation-difference-gamified-assessments.md) — related
 - [Gamification improved CPR learning among younger learners compared with conventional teaching methods](gamification-effective-cpr-younger-learners.md) — related
 - [Gamification research in SLA higher education predominantly reports positive results for motivation and engagement](gamification-sla-motivation-predominantly-positive.md) — a narrower finding that bears on this claim
+- [Personal anecdotes and gamified tasks were viewed as engaging and motivating by testers](anecdotes-gamified-tasks-engaging.md) — related

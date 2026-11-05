@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: e-ergonul-and-s-buyukcoban-2026
     resource: "https://doi.org/10.1080/10872981.2026.2639193"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After training, 39.7% reported using the Engagement principle and 35.9% the Representation principle, with statistically significant increases in all three UDL principles (McNemar test, p < 0.001). [→ E. Ergonul and S. Buyukcoban 2026](#e-ergonul-and-s-buyukcoban-2026)

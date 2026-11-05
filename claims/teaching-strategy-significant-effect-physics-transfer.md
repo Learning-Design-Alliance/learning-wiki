@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: akinbobola-2015
     resource: "https://eric.ed.gov/?id=EJ1079935"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a non-randomized pretest-posttest study of 278 SS2 physics students, the teaching-strategies main effect on transfer of knowledge scores was significant at p<.05 (F = 145.10 vs critical 3.04). [→ Akinbobola 2015](#akinbobola-2015)

@@ -65,6 +65,7 @@ Short activity bouts acutely improve on-task attention and classroom behavior, p
 - [Add physical activity to the school day via PA breaks, extra PA sessions, more intense PE lessons, or PA integrated into academic lessons](add-pa-to-school-day-math.md)
 - [Incorporate 20+ minutes of daily curricular physical activity breaks tied to academic content in elementary classrooms](daily-curricular-pa-breaks-tied-to-content.md)
 - [Integrate peer-to-peer Puzzle activities into the regular academic schedule to maximize participation](integrate-puzzle-regular-academic-schedule.md)
+- [Promote physical activity within academic settings through institutional policies, flexible scheduling, and active breaks](physical-activity-promotion-academic-settings-strategy.md)
 
 ## Examples
 - **TAKE 10!** (International Life Sciences Institute) — published curriculum embedding 10-minute activity bouts into academic lessons for grades K–5.

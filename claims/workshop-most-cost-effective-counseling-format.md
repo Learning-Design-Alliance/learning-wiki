@@ -49,3 +49,4 @@ Cost-effectiveness analysis using Saddleback College expenditure data and Califo
 - [Workshop and one-on-one counseling with nudging show no significant difference in session attendance or academic plan completion, though the comparison is exploratory](workshop-equivalent-to-one-on-one-counseling-exploratory.md) — related
 - [Guaranteed workshop counseling with nudging increases academic plan completion by about 20 percentage points over a business-as-usual control group](workshop-nudging-increases-academic-plan-completion.md) — related
 - [Nudging plus guaranteed counseling increases the percentage of students who schedule and attend counseling appointments](nudging-guaranteed-access-increase-counseling-attendance.md) — related
+- [The self-directed format carried lower running costs than the teacher-led workshop, after an initial video-production investment](self-directed-format-lower-recurring-costs.md) — related

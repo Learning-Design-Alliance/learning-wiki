@@ -50,3 +50,4 @@ Meta-analysis in RevMan 5.3 of twelve studies of PBL-type interventions versus c
 - [Student satisfaction favours traditional teaching over PBL methods (pooled MD -0.14), conflicting with the skills and knowledge findings](satisfaction-favours-traditional-teaching.md) — related
 - [Problem-based learning shows a small but significant pooled advantage over lecture-based learning in dental education (SMD = 0.33)](pbl-small-significant-advantage-dental.md) — related
 - [Accessing the online caries diagnosis module did not significantly improve dental students' radiographic diagnostic accuracy](online-module-no-accuracy-gain-caries.md) — related
+- [Students most valued MCAT's large radiograph pool, fast simple operation, immediate feedback, and linking of theoretical and practical knowledge](mcat-valued-design-features.md) — related

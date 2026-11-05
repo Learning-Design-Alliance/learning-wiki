@@ -71,3 +71,4 @@ Discussion-section interpretation of the contrast between the failed degree item
 - [Experts rated ALS certification and adaptability highest, with strong consensus also for psychological resilience and closed-loop communication](highest-rated-attributes-als-adaptability-resilience.md) — related
 - [Strongest expert consensus emerged in the non-technical and technical skills domains of the nursing resuscitation attribute framework](strongest-consensus-nts-technical-domains.md) — related
 - [Korean experts and survey respondents favored applied health literacy content over theoretical and contextual items](korean-hlc-applied-content-preference.md) — related
+- [Expert panel was predominantly female, doctoral-level, with healthcare and SCI experience](iafee-ecs-expert-panel-characteristics.md) — related

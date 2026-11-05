@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: christopher-t-stripling-and-t-grady-roberts-2014
     resource: "https://doi.org/10.5032/jae.2014.03001"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
-> **Currency** · newest study 2014 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Preservice agricultural education teachers who received the MTIS treatment scored significantly higher on adjusted posttest mathematics ability than the control group, F(1, 16) = 5.36, p < .05, ηp2 = .25. [→ Christopher T. Stripling and T. Grady Roberts 2014](#christopher-t-stripling-and-t-grady-roberts-2014)

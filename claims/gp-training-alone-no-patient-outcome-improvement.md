@@ -53,3 +53,4 @@ Systematic review of RCTs; three studies with GP training as sole intervention (
 - [Screening alone does not improve depression outcomes without organizational changes](screening-alone-no-outcome-improvement.md) — related
 - [GP training combined with guideline implementation yields significant reduction in depressive symptomatology](gp-training-plus-guidelines-reduces-symptoms.md) — related
 - [Meta-analysis shows GP training plus guidelines yields significant pooled effect (d = -0.26)](meta-analysis-gp-training-plus-guidelines-pooled-d-0-26.md) — related
+- [Trained, clearly supervised task sharing yields outcomes comparable to physician-led care for selected tasks while improving access and efficiency](trained-supervised-task-sharing-comparable-outcomes.md) — related

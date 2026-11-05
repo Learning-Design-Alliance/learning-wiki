@@ -81,3 +81,4 @@ The review's RQ2 synthesis reports that when mistakes happen, models "can provid
 - [Proposed model course surpasses existing courses in duration and unique real-project feature](proposed-course-surpasses-existing-in-duration-and-real-project.md) — related
 - [HCD workshops with providers co-created context-specific solutions including laminated dosage charts and peer-led simulations](hcd-co-created-mgso4-solutions.md) — related
 - [The metaverse environment enables delivery of consistent and reproducible scenarios supporting objective assessment of communication and diagnostic reasoning skills](metaverse-consistent-reproducible-scenarios.md) — a narrower finding that bears on this claim
+- [In a survey of the reformed course, 94.92% of students agreed with a statement about real-world biochemistry cases (e.g., COVID-19 research ethics) and reflection on public health and ethics](biochem-ethics-cases-stimulate-ethical-reflection.md) — related

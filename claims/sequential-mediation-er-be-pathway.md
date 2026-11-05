@@ -54,3 +54,4 @@ Bootstrapped serial mediation test (5,000 resamples) in the hypothesized model (
 - [Perceived peer support is positively associated with emotion regulation and behavioral engagement, which are in turn associated with achievement](peer-support-paths-er-be-achievement.md) — possibly the same claim (merge candidate)
 - [Emotion regulation mediates the relationship between perceived peer support and academic achievement](emotion-regulation-mediation-peer-support-achievement.md) — a narrower finding that bears on this claim
 - [The hypothesized sequential mediation model fits better than parallel, single-mediator, and reverse-causality alternatives](sequential-model-better-fit-alternatives.md) — related
+- [Academic boredom and behavioural engagement sequentially (chain) mediate the link between EFL PsyCap and EFL achievement](chain-mediation-boredom-engagement.md) — related

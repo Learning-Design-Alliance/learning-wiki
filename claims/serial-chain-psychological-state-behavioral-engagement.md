@@ -50,3 +50,4 @@ Serial (chained) indirect effect from the same mediation model. The article iden
 - [Psychological state has the highest direct effect on exam outcome among all predictors (B = 0.442)](psychological-state-highest-direct-predictor.md) — related
 - [Mathematics anxiety and learning engagement jointly exert a serial (chain) mediating role between teacher support and mathematics achievement.](serial-mediation-anxiety-engagement-teacher-support-achievement.md) — related
 - [The direct effect of academic foundation on exam success accounts for 67.2% of the total effect (B = 0.178)](academic-foundation-direct-effect-67-percent.md) — related
+- [Academic boredom and behavioural engagement sequentially (chain) mediate the link between EFL PsyCap and EFL achievement](chain-mediation-boredom-engagement.md) — related

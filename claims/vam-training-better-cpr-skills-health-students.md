@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: mixed
 newest_evidence: 2019
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: garcía-suárez-2019
     resource: "https://doi.org/10.3390/ijerph16050768"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Groups that acquired CPR skills through a voice advisory mannequin obtained better skill results with statistically significant differences relative to other groups in the reviewed trials. [→ García-Suárez 2019](#garcia-suarez-2019)

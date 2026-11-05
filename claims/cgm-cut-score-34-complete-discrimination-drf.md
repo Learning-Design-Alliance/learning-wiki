@@ -50,3 +50,4 @@ Contrasting Groups' Method applied to the plotted total-score distributions of 1
 - [The pass/fail standard produced false positives and a false negative, possibly because the simulator recognizes a specific fixed pathway](foi-test-false-positives-fixed-pathway-limitation.md) — reports the opposite
 - [A credible pass/fail standard of 34.4% was established using the contrasting groups' method](foi-test-pass-fail-standard-34-4-percent.md) — related
 - [A composite total simulator score on an expert-informed iVR simulator significantly discriminated between novice and experienced orthopedic surgeons after a single procedure (Cohen's d = 4.2)](ivr-total-score-discriminates-novices-experienced-drf.md) — related
+- [A contrasting groups' method sets a 70% pass/fail score with one false positive and no false negatives](contrasting-groups-pass-fail-70-camera-navigation.md) — related

@@ -74,3 +74,4 @@ Stepwise regression performed to confirm robustness of the simultaneous model in
 - [GPA shows a significant positive correlation with oral disease diagnostic performance (p < 0.001) while age shows no significant association](gpa-positive-correlation-diagnostic-performance.md) — related
 - [Engagement score, quiz completion rate, and assessment format independently predict answer accuracy in multivariate regression](multivariate-predictors-answer-accuracy.md) — related
 - [Males scored significantly lower than females on skills scores one year after implementation, independent of other factors](males-lower-one-year-skill-scores.md) — reports the opposite
+- [Female gender, administrative position and lecture attendance independently predict adequate enteral nutrition knowledge](independent-factors-adequate-en-knowledge.md) — related

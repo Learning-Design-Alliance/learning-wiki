@@ -71,3 +71,4 @@ Spearman's Rho computed on the same definition-of-elements variables; the printe
 - [Most teachers report precise identification of OER sources plus at least two diffusion improvements when implementing a diffusion strategy](oer-diffusion-strategy-implementation-self-reports.md) — related
 - [Cluster membership is significantly associated with grade level but not gender](cluster-membership-grade-association.md) — related
 - [Openness in education shifts the focus from content (OER) to practices (OEP)](openness-shifts-oer-to-oep.md) — related
+- [Reported RT competency deficiencies differ significantly by country, experience level, and educational qualification](rt-gap-reporting-varies-country-experience-qualification.md) — related

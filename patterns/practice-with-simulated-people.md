@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 245 claims (126 for, 100 mixed, 19 against) · 135 studies (40 causal, 36 review, 18 design, 16 quant-synthesis, 14 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 27 of 135 report an effect size · 240 claims rest on one study
+> **Evidence** · 248 claims (128 for, 101 mixed, 19 against) · 136 studies (41 causal, 36 review, 18 design, 16 quant-synthesis, 14 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 27 of 136 report an effect size · 243 claims rest on one study
 
 ## Description and scope
 
@@ -173,6 +173,9 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [In one uncontrolled pre-post study, psychiatrists' self-rated willingness to treat patients at suicide risk rose from pre-intervention to post-intervention after a GenAI simulator session.](../claims/genai-simulator-increases-willingness-to-treat-suicidal-patients.md) [+M] — attached 2026-11-05 from Elyoseph Zohar et al. (2026), which proposed "Use GenAI simulators to provide a psychologically safe, repeatable practice environment with immediate standardized feedback for high-stakes clinical skills".
 - [SP training significantly improved emergency residents' physical examination, management and treatment, and total checklist scores for acute chest pain](../claims/sp-training-improves-physical-exam-management-scores.md) [+W] — attached 2026-11-05 from Lu Fan et al. (2025), which proposed "Team-based SP simulation session with a designated leader, minimal instructor intervention, and peer observers"; tests this page's relationship.
 - [After SP training, residents completed POCT cTnI, diagnosis, and catheterization room activation significantly faster](../claims/sp-training-reduces-key-treatment-time-nodes.md) [+W] — attached 2026-11-05 from Lu Fan et al. (2025), which proposed "Adopt and generalize standardized patient training for emergency department residents managing acute chest pain"; tests this page's relationship.
+- [Adding a virtual patient simulation to standard nursing training produces significantly greater improvement in confidence in asking about IPV than standard training alone](../claims/vp-simulation-greater-confidence-asking-about-ipv.md) [+W] — attached 2026-11-05 from Sörman K et al. (2025), which proposed "Integrate interactive virtual patient simulations into health-professions curricula as a complement to conventional teaching for complex and sensitive clinical topics"; tests this page's relationship.
+- [Objective IPV knowledge scores are consistently higher in the VP group, driven by a significant main group effect rather than a differential improvement rate](../claims/vp-group-consistently-higher-objective-knowledge.md) [+W] — attached 2026-11-05 from Sörman K et al. (2025), which proposed "Integrate interactive virtual patient simulations into health-professions curricula as a complement to conventional teaching for complex and sensitive clinical topics".
+- [VP training adds no measurable benefit over standard training for general self-efficacy in nursing students](../claims/vp-no-added-effect-general-self-efficacy.md) [~W] — attached 2026-11-05 from Sörman K et al. (2025), which proposed "Integrate interactive virtual patient simulations into health-professions curricula as a complement to conventional teaching for complex and sensitive clinical topics".
 
 ## Illustrative design instance and observation record
 

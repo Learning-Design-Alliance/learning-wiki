@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 129 claims (82 show a difference, 25 mixed, 22 no difference) · 81 studies (40 causal, 17 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 19 of 81 report an effect size · 128 claims rest on one study
+> **Evidence** · 130 claims (83 show a difference, 25 mixed, 22 no difference) · 82 studies (40 causal, 18 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 19 of 82 report an effect size · 129 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -169,6 +169,7 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [L2 reading speed (SLRT-I) and L2 spelling showed no improvement as a function of the intervention, and no group made significant gains in L2 spelling](../claims/l2-reading-speed-spelling-not-remediated.md) [-M] — instruction changes it
 - [Reading speed and comprehension are not significantly correlated](../claims/reading-speed-comprehension-uncorrelated.md) [-M] — learners who differ on it differ in outcomes
 - [Students read marginally faster on iPad than paper, though not statistically significant overall](../claims/ipad-reading-speed-marginally-faster.md) [-M] — instruction changes it
+- [Top-quartile time-restricted reading comprehension, essay quality, reading speed, writing speed and vocabulary are each associated with top academic marks](../claims/literacy-quartile-association-academic-marks.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

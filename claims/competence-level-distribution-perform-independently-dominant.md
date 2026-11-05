@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: nogueira-rodrigo-de-melo-2026
     resource: "https://doi.org/10.1590/1806-9282.20261096"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among the 363 specialty-specific competencies, most were classified as perform independently (n=274), followed by perform under supervision (n=55) and master the technique (n=34). [→ Nogueira Rodrigo de Melo 2026](#nogueira-rodrigo-de-melo-2026)

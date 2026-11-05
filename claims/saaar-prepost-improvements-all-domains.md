@@ -51,3 +51,4 @@ One-group pre- and posttraining evaluation in which residents completed a theore
 - [Interrater agreement on the SAAAR behavioral marker format was moderate and statistically significant (Kendall's W = 0.412)](saaar-moderate-interrater-agreement.md) — related
 - [The SAAAR behavioral marker format showed high internal consistency (McDonald's ω = 0.928)](saaar-high-internal-consistency.md) — related
 - [Only 37.2% of residents were high performers in medication reconciliation after a standardized patient discharge encounter, with primary care program residents more likely to be high performers](residents-high-performers-medication-reconciliation-37-percent.md) — related
+- [Median cardiac auscultation quiz scores improved from 40 pretraining to 70 posttraining in a voluntary online course](auscultation-pre-post-score-improvement.md) — related

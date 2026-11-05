@@ -46,6 +46,7 @@ The authors' practice recommendation is for curriculum designers and educators "
 
 - [Integrate simulation-based learning into interprofessional curricula to cultivate collaboration early in training](integrate-sbl-into-interprofessional-curricula.md)
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
+- [Embed the shared competencies into undergraduate and postgraduate interprofessional education curricula](embed-shared-competencies-ipe-curricula.md)
 
 ## Examples
 -

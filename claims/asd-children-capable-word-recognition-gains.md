@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2012
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: mohammed-2012
     resource: "https://eric.ed.gov/?id=ED579061"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2012 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study concluded that children with ASD without formal reading instruction can improve word recognition ability through phonological awareness instruction. [→ Mohammed 2012](#mohammed-2012)

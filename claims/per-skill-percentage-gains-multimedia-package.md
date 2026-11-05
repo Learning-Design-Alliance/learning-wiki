@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2014
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: g-singaravelu-2014
     resource: "https://eric.ed.gov/?id=EJ1068384"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Table 1 reports higher percentage scores for the Interactive Multimedia Package than the conventional method on each of the eight tested skills, e.g. fluency in response 18.18 vs 6.24. [→ G. Singaravelu 2014](#g-singaravelu-2014)

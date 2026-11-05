@@ -46,6 +46,7 @@ The study used a required online reflective discussion post after day one of sim
 ## Related Strategies
 
 - [Use a structured debriefing session after simulation scenarios to consolidate learning points.](structured-debriefing-after-simulation.md)
+- [Facilitate debriefing as guided reflection linking theory to practice](guided-reflection-debriefing-facilitation.md)
 
 ## Examples
 -

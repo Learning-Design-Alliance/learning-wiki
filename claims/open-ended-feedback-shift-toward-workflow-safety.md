@@ -47,3 +47,4 @@ Thematic summary of open-ended feedback (Table 6); themes were "presented descri
 ## Related Claims
 - [Pilot students began shifting from output-oriented toward mechanism-based explanations](pilot-shift-toward-mechanism-based-explanations.md) — related
 - [A BOPPPS-based structured perioperative observation model was associated with higher learning objective clarity and self-reported purposeful observation than a conventional clerkship in early anesthesiology exposure](structured-perioperative-observation-improves-objective-clarity.md) — related
+- [Structured preoperative frameworks (PREDICT, GAPS) and independent rotations increase graduated autonomy without harming patient outcomes](predict-gaps-graduated-autonomy-frameworks.md) — related

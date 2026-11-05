@@ -57,3 +57,4 @@ Meta-analysis of 15 randomized controlled trials with 816 learners (745 medical 
 - [Teaching drawing with visual objects (2D or 3D) produces higher post-test drawing-skill scores than conventional teaching without visual objects](visual-objects-improve-drawing-skills-jss1.md) — related
 - [Prior meta-analytic evidence indicates 3D visualization technology yields superior anatomical knowledge and satisfaction compared to 2D materials](3dvt-meta-analysis-superior-knowledge-satisfaction.md) — related
 - [Third-year medical students who took the VR-based IAVSE course achieved higher human anatomy theory scores than students in the traditional laboratory course](iavse-higher-anatomy-theory-scores.md) — a narrower finding that bears on this claim
+- [The difference between groups in finding the training method enjoyable and effective was not statistically significant](pechakucha-enjoyable-effective-null.md) — related

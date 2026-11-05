@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: rafieyan-et-al-2014
     resource: "https://doi.org/10.5539/elt.v7n2p11"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2014 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Iranian EFL undergraduates who interacted with American peers through Facebook alongside pragmatic instruction scored significantly higher on a pragmatic comprehension test than students receiving pragmatic instruction only (r2 = 0.74, a very large effect). [→ Rafieyan et al. 2014](#rafieyan-et-al-2014)

@@ -58,3 +58,4 @@ A multiphase mixed-method study used a modified Delphi technique with 24 nationa
 - [Expert panel consensus (seven experts, ≥80% agreement rule) endorsed the refined EA framework structure](expert-consensus-ea-framework.md) — related
 - [The PK OSCAR was validated for face and content validity by an international panel of eight cornea specialists through iterative consensus](oscar-pk-expert-panel-validity.md) — related
 - [A Delphi panel of 24 simulation center heads in China reached consensus on 24 evaluation items across six categories, forming the STRIVE model](delphi-consensus-24-items-strive-hsc.md) — related
+- [Expert panel was predominantly female, doctoral-level, with healthcare and SCI experience](iafee-ecs-expert-panel-characteristics.md) — related

@@ -74,3 +74,4 @@ Reliability analysis of a single Gemini-Flash judge scored n=3 times across thir
 - [The 5-LLM panel showed higher generalizability and lower rater-related variance than the 10-judge faculty panel](llm-panel-higher-g-coefficient-lower-rater-variance.md) — related
 - [Multiagent framework demonstrated stable cross-specialty scalability with lower variability than single-LLM baseline](multiagent-stable-cross-specialty-scalability.md) — related
 - [Substantial within-model output instability was identified, most notably GPT-5.2 in female urology (SD ±22.8%) and anatomy (SD ±14.2%)](llm-output-instability-female-urology-anatomy.md) — related
+- [The very narrow GEARS score range (SD < 0.5) limits the rubric's utility for identifying a competency inflection point](gears-narrow-score-range-limits-competency-threshold.md) — related

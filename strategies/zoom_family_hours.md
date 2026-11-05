@@ -72,6 +72,7 @@ Family engagement is consistently associated with student achievement, but the m
 - [Enable regular, meaningful family engagement through diverse home-language communication, proactive meetings, student-led conferences, and shared decision-making forums](family-engagement-structures-secondary.md)
 - [Organize community education events with participation-driven and voice-oriented settings covering time, location, hybrid access, transportation, and feedback channels](participation-driven-voice-oriented-event-settings.md)
 - [Home-based summer game play with parent notification and periodic follow-up](home-summer-game-play-parent-followup.md)
+- [Innovative continuing education formats including patients and families, videos, remote classes, interactive games and smart devices](innovative-formats-soft-skill-education.md)
 
 ## Related Elements
 - [Check-Ins](../principles/check-ins.md) — the opening move that makes each family contact feel personal rather than procedural

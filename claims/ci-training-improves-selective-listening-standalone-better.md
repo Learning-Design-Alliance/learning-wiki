@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: tongtong-zhang-zhiwei-wu-2017
     resource: "https://doi.org/10.5539/elt.v10n1p72"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Tongtong Zhang & Zhiwei Wu 2017 (2): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims

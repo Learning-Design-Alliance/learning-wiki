@@ -66,3 +66,4 @@ Three trained content specialists scored anonymized physics exam questions from 
 - [Expert graders show high agreement among themselves when scoring a written exam on first degree equations](expert-inter-rater-agreement-high-written-exam.md) — related
 - [Faculty calibration with instructional rubrics yields high inter-rater reliability, rising after repeated calibration](faculty-calibration-icc-rises-with-repeated-calibration.md) — related
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — related
+- [All five LLMs answered every MCQ and showed high short-term test–retest agreement (AC1 0.79–1.00), indicating reproducible performance without selective abstention](llms-answered-every-mcq-high-test-retest-agreement.md) — related

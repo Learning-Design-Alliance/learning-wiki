@@ -108,3 +108,5 @@ Study of 11 novice surgical trainees evaluating a virtual classroom training pla
 - [In CRT training, proficiency-based progression demonstrated superiority over traditional simulation in which proficiency benchmarks were optional](pbp-superiority-crt-training.md) — related
 - [A 4K live-video teaching model produces significantly higher preclinical procedural skill scores than traditional chairside teaching in oral surgery simulation training](ltm-procedural-skills-preclinical-omfs.md) — a narrower finding that bears on this claim
 - [Undergraduates trained on a VR cataract simulation platform scored significantly higher total scores than traditionally trained peers in both traditional and VR assessments](vr-cataract-simulation-higher-total-scores.md) — related
+- [Augmented reality and 3D-printing simulation models improve surgical skill metrics and are cost-effective for resident training](ar-3d-printing-simulation-urology-resident-training.md) — related
+- [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — related

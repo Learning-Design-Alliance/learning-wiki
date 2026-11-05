@@ -51,3 +51,4 @@ Pearson's correlation between the validated knowledge questionnaire and the expl
 - [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](osce-correlates-self-reported-competence.md) — reports the opposite
 - [Self-reported confidence and familiarity with screening tools did not reliably translate into accurate sepsis determination](confidence-competence-gap-sepsis-recognition.md) — related
 - [Self-efficacy and objectively assessed handover performance show no significant correlation in the Team FIRST cohorts](no-correlation-self-efficacy-handover-performance.md) — related
+- [Students' post-training confidence ratings do not correlate with their objectively assessed US-PIVC competency scores.](us-pivc-confidence-not-correlated-with-competency.md) — related

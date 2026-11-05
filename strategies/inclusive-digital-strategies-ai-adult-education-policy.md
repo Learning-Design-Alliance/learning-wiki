@@ -59,6 +59,7 @@ The paper's policy recommendations center on inclusive digital strategies: "A ke
 - [Tripartite institutional response: AI literacy, ethical infrastructure, and competence-based educator training](tripartite-agentic-ai-institutional-response.md)
 - [Teachers adopting EAI should address digital literacy and ethical design challenges identified for each AI dimension](teacher-challenges-eai-inclusion-digital-literacy-ethics.md)
 - [Integrate e-learning into health professions training while ensuring equitable technology access and developing students' computer skills](integrate-elearning-equitable-access-computer-skills.md)
+- [Prioritize consistent staff training, equitable resource access, and students' self-confidence with technology in PE](staff-training-equal-access-self-esteem-pe-technology.md)
 
 ## Examples
 -

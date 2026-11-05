@@ -52,3 +52,4 @@ Mann–Whitney comparisons of blinded GOALS domain ratings in the same 71-partic
 - [Depth perception is the GEARS subdomain that significantly improves with simulator training, while bimanual dexterity and efficiency show non-significant positive trends](depth-perception-significant-gains-simulator-training.md) — reports the opposite
 - [Trained participants show safer tissue handling, more consistent vessel exposure, and improved stapler positioning in qualitative blinded assessment](qualitative-safer-tissue-handling-trained-group.md) — related
 - [The K technique exercise stimulates five of six GEARS skill domains](k-technique-stimulates-five-gears-domains.md) — related
+- [GEARS domain and surgical-step scores were similar across experience groups for both procedures, with all p > 0.05](gears-domain-step-scores-similar-groups.md) — related

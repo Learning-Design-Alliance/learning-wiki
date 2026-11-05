@@ -69,3 +69,4 @@ Same questionnaire survey. "88.23% of students liked the relaxed and lively clas
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Structured PEARLS debriefing is associated with higher theoretical exam scores in surgical nursing simulation education](debriefing-higher-theoretical-exam-scores-surgical-nursing.md) — related
 - [Simulation-based handoff training with a structured communication tool enhanced nurse anesthesia students' perceived confidence in team communication and patient safety interventions.](sim-handoff-training-increased-perceived-team-communication-safety-confidence.md) — related
+- [Students expressed intentions to implement communication strategies and recognised the importance of physician-patient communication](reflections-intentions-implement-communication-importance.md) — related

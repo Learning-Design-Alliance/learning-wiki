@@ -75,3 +75,4 @@ Delphi expert consultation with 22 experts refined the preliminary framework of 
 - [A three-round Delphi panel of 47 SMHPs reached consensus on 151 competencies for interdisciplinary collaboration](delphi-consensus-151-competencies.md) — related
 - [Expert panel consensus (seven experts, ≥80% agreement rule) endorsed the refined EA framework structure](expert-consensus-ea-framework.md) — related
 - [A three-round e-Delphi panel of 19 experts from 6 European countries achieved consensus on 58 core teamwork competencies for community-based interprofessional teams, grouped into five areas](edelphi-consensus-58-cbit-competencies.md) — related
+- [In Delphi Round 2, three of 16 candidate shared-competency items were deleted for high variability (SD above 0.8) and lower relevance to shared collaborative roles](delphi-round2-item-deletion-high-sd.md) — related

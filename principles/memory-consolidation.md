@@ -206,9 +206,11 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Self-Monitoring](self-monitoring.md) — learners' judgments of their own learning are the signal this page says not to trust without a delayed check
 
 ## Examples
+
 - [Deliver structured CT centring training and integrate automated positioning technology with retained professional expertise](../strategies/structured-ct-centring-training-and-automated-positioning-integration.md)
 - [Use workshops and training sessions to familiarize students and educators with MALL and foster independence](../strategies/workshops-training-mall-familiarization.md)
 - [Design CT interventions using empirically valid instructional design principles and report student and teacher characteristics](../strategies/design-ct-interventions-with-valid-instructional-principles.md)
+- [Embed low-burden spaced review structures such as a 48-hour recap and a 1-week revisit with automated reminders](../strategies/spaced-review-structures-strategy.md)
 
 ### Illustrative
 

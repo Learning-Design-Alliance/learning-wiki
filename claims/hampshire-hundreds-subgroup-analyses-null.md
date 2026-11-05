@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: sandra-mcnally-2014
     resource: "https://eric.ed.gov/?id=ED581163"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For eight subgroups (males, females, FSM, non-FSM, white, non-white, above and below median ability), treatment effect estimates ranged from 0.003 to 0.025, none statistically significant. [→ Sandra McNally 2014](#sandra-mcnally-2014)

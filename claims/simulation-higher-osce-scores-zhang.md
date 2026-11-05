@@ -61,3 +61,4 @@ Narrative review attributing this to Zhang et al.'s study in which students were
 - [CCS training produces higher theoretical examination scores than traditional didactic training across all four classes of non-dentistry medical undergraduates](ccs-higher-theoretical-exam-scores-stomatology.md) — related
 - [The DwGJ group outperformed the control group on OSCE-based practical skill assessment after the course](dwgj-cbl-higher-osce-skill-scores.md) — related
 - [VR-trained students outperformed control students in all three assessed competency modules in both assessment modes](vr-cataract-three-module-subscore-advantage.md) — related
+- [Students who participated in at least three simulation modules improved OSCE scores 15–20% above baseline at Fujian Medical University](simulation-modules-osce-score-improvement.md) — a narrower finding that bears on this claim

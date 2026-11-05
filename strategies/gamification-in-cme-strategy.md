@@ -50,6 +50,7 @@ The article suggests that "gamification must not necessarily be limited to gradu
 - [Design guidelines for game-based and gamified robotics education: balance approaches across contexts, integrate hardware-software skills, and extend study horizons](robotics-gbl-gamification-design-guidelines.md)
 - [Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation](gamification-implementation-support-strategy.md)
 - [Provide professional development to equip educators with gamification implementation skills](professional-development-for-gamification-implementation.md)
+- [Innovative continuing education formats including patients and families, videos, remote classes, interactive games and smart devices](innovative-formats-soft-skill-education.md)
 
 ## Examples
 -

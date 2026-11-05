@@ -56,6 +56,7 @@ The article recommends that AI can and should assist in medical education, espec
 - [Use ChatGPT-4o as a supplementary educational tool rather than an autonomous clinical decision-support system in non-English contexts](chatgpt-4o-as-supplementary-tool-non-english.md)
 - [Use LLMs as supplements for theoretical learning while preserving hands-on training for practical skills](llm-supplement-theoretical-learning-ot.md)
 - [Integrate AI chatbots into dental education as supervised supplementary tools for exam preparation and formative self-assessment](supervised-chatbot-supplementary-dental-education.md)
+- [Use LLMs as faculty-supervised adjuncts for automated MCQ pretesting and formative feedback](llm-faculty-supervised-mcq-pretesting-feedback.md)
 
 ## Examples
 -

@@ -50,6 +50,7 @@ The brief calls for increasing funding under ESSA and the Higher Education Act t
 - [Invest in high-quality, standards-aligned professional development for school leaders, including leaders of color](invest-principal-professional-development.md)
 - [Seven-policy comprehensive approach to equalizing student access to certified and experienced teachers](comprehensive-policies-equitable-teacher-access.md)
 - [Establish a professional development training center for multiple intelligences-based teacher training](mi-professional-development-center-strategy.md)
+- [Prioritize consistent staff training, equitable resource access, and students' self-confidence with technology in PE](staff-training-equal-access-self-esteem-pe-technology.md)
 
 ## Examples
 -

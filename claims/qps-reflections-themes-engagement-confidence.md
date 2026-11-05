@@ -53,3 +53,4 @@ Thematic analysis of 300-word written reflections from 151 participants, coded i
 - [IPE interventions show significant improvements in role clarity, communication skills, and teamwork dynamics](ipe-improves-role-clarity-communication-teamwork.md) — related
 - [The collaborative model shows no significant effect on inter-professional teamwork competence or transformative learning readiness](fsph-3d-model-no-effect-teamwork-transformative-learning.md) — related
 - [All interviewed interns reported that role rotation and teamwork were central benefits of the simulation-with-CBL training](role-rotation-teamwork-central-benefit-simulation-cbl.md) — related
+- [Students expressed intentions to implement communication strategies and recognised the importance of physician-patient communication](reflections-intentions-implement-communication-importance.md) — related

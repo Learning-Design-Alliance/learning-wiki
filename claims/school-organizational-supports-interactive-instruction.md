@@ -57,3 +57,4 @@ Survey-based analysis comparing schools high versus low on three organizational 
 - [Frequent instructional review is negatively associated with one-year achievement gains](instructional-review-negative-achievement-gains.md) — related
 - [Increased participation in professional development was not significantly related to later gains in school orientation toward innovation](pd-frequency-null-innovation-growth.md) — related
 - [Higher quality professional development in 1997 predicts increases in school orientation toward innovation from 1997 to 1999](pd-quality-predicts-innovation-growth.md) — related
+- [Qualification program content covers organizational information, learning objectives, and didactic methods, with examiner training offered for the practical year](qualification-content-organization-learning-objectives-didactics.md) — related

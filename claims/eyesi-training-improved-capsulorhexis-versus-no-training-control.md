@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2020
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: lee-roxanne-2020
     resource: "https://doi.org/10.1038/s41433-020-0832-1"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2020 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eyesi training produced significant improvements in capsulorhexis performance in the wet lab relative to a no-training control group, per the Feudner et al. RCT as reported by the review. [→ Lee Roxanne 2020](#lee-roxanne-2020)

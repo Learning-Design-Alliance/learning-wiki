@@ -83,3 +83,4 @@ Same blinded simulated interview assessment; Table 3 reports empathy 4.02 ± 0.6
 - [After 12 months of AI-enhanced platform training, obstetrics and gynecology residents improved significantly across all four competency dimensions, with the largest gains in clinical reasoning and clinical skills](ai-progressive-training-four-dimension-competency-gains.md) — related
 - [Among GPs and internists, test-based clinical decision-making scores and pass rates rose from pre-test to post-test after informed AI use following a tailored AI training course, in one uncontrolled pre-post study](informed-ai-use-raises-clinical-competence-scores.md) — related
 - [Student performance with virtual patients correlates only weakly and non-significantly with performance with human standardized patients](vp-concurrent-validity-weak-correlation.md) — related
+- [Students rate their own empathy higher than standardized patients rate them](students-rate-empathy-higher-than-sps.md) — related

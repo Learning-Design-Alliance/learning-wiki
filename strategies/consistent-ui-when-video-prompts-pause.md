@@ -46,6 +46,7 @@ The discussion identifies a design contributor to extraneous load: prompts chang
 - [Predictability: Environment & Structure](predictability-environment-structure.md)
 - [Reducing Distractions](reducing-distractions.md)
 - [Reducing Visual Clutter](reducing_visual_clutter.md)
+- [Design VR learning tools with learner-centered UI/UX choices that limit cybersickness and extraneous cognitive load](learner-centered-vr-design-limit-cybersickness-load.md)
 
 ## Examples
 -

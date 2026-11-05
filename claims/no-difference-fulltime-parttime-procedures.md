@@ -47,3 +47,4 @@ Comparison of 35 full-time and 17 part-time trainees using independent t-tests o
 ## Related Claims
 - [Median procedures per trainee was 10.5, with 9 of 14 procedures having a median of 0](median-procedures-per-trainee-low.md) — related
 - [Procedure volumes did not differ significantly between the two 6-month periods](no-difference-six-month-periods.md) — related
+- [Median gastroenterology training duration across UEG member societies is 60 months (IQR 48–72), with only 7.1% of curricula explicitly allowing part‐time training](median-gi-training-duration-60-months-part-time-rare.md) — related

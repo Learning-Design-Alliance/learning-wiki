@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: gillam-2022
     resource: "https://doi.org/10.1037/edu0000766"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q4`
-> **Currency** · newest study 2022 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` On the GMRT comprehension subtest, SKILL benefited 3rd/4th graders significantly more (g = .26) than 1st/2nd graders (g = -.34). [→ Gillam 2022](#gillam-2022)

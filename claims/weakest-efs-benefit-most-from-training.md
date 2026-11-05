@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2012
-source_checked: 2026-10-21
+source_checked: 2026-11-05
 sources:
   - id: diamond-adele-2012
     resource: "https://doi.org/10.1177/0963721412453722"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2012 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children with the weakest EFs benefit the most from any EF intervention or program, suggesting early EF training can level the playing field. [→ Diamond Adele 2012](#diamond-adele-2012)

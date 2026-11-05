@@ -63,3 +63,4 @@ Item analysis of four test sessions in a crossover study that enrolled all 120 f
 - [Difficulty ranges of ChatGPT and instructor items differed: ChatGPT items spanned a broader range while the human test included more high-difficulty items](chatgpt-items-broader-difficulty-range-human-more-high-difficulty.md) — related
 - [Instructor-developed items showed higher discrimination than ChatGPT items in 3PL IRT analysis](instructor-items-higher-discrimination-3pl.md) — related
 - [Students scored significantly higher on instructor-written MCQs than on ChatGPT-generated MCQs in a within-subjects dental assessment](instructor-mcqs-scored-higher-than-chatgpt-mcqs.md) — related
+- [7.7% of orthopedic MCQs produced completely false responses from both LLMs, suggesting item construction flaws](mcqs-failed-by-both-llms-suggest-item-flaws.md) — related

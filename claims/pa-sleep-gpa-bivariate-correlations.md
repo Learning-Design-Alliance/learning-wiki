@@ -56,3 +56,5 @@ Pearson correlation analysis among GPA, PSQI global score, ordinal IPAQ score, a
 - [Longer sleep on the exam day correlates weakly with higher most recent exam grade and higher GPA, but GPA is not correlated with PSQI score](exam-day-sleep-duration-correlates-grades-gpa.md) — reports the opposite
 - [Subjective sleep measures (PSQI) show no significant differences or correlations with academic performance, contrasting with objective actigraphy](psqi-null-vs-actigraphy-significant.md) — reports the opposite
 - [Physical activity category is not statistically significantly associated with GPA category among Saudi physical therapy students](pars3-category-not-associated-gpa-saudi-pt-students.md) — reports the opposite
+- [Health sciences students' GPA is positively correlated with their physical activity level (r = 0.279)](gpa-positively-correlated-physical-activity-health-sciences-students.md) — related
+- [Physical activity level is negatively correlated with absenteeism and with academic warnings](physical-activity-negative-correlation-absenteeism-warnings.md) — related

@@ -59,3 +59,4 @@ Survey item comparing six course-experience facets before and after going online
 - Online peer assisted learning communities foster informal learning and spontaneous interest-based groups — related
 - [LLMs act as catalysts for collaboration by aiding idea generation, organization and peer feedback, and by democratizing access to knowledge in large-class settings](llms-catalyze-collaboration-idea-generation-peer-feedback.md) — related
 - [Students rated icebreaker/introduction discussions and collaborative work with online communication tools as the most beneficial learner-to-learner strategies](icebreaker-collaboration-top-learner-learner-strategies.md) — related
+- [Students rate SWSP higher than RCDP on the collaboration factor of the Educational Practices Questionnaire](swsp-higher-collaboration-factor.md) — related

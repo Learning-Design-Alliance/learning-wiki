@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: scerif-2025
     resource: "https://doi.org/10.1038/s41539-025-00302-9"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3` · `i2` medium
-> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` For EYPP-eligible children, numeracy gains were larger in the intervention group (T1 = 25.04; T2 = 32.07) than in the control group (T1 = 14.86; T2 = 18.48; Hedge's g = 0.64). [→ Scerif 2025](#scerif-2025)

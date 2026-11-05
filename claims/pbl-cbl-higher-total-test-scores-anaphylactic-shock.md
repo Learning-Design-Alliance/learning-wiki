@@ -54,3 +54,4 @@ Randomized two-group trial of 100 nursing undergraduates (n=50 per group) compar
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — a broader claim this one bears on
 - [Integrated PBL and medical humanities teaching produced no significant between-group difference in post-intervention theoretical examination scores compared with LBL](integrated-pbl-humanities-no-difference-theoretical-scores.md) — related
 - [Nurse anesthesia students taught with the BOPPPS model outperform traditionally taught peers on post-test knowledge and clinical skills in pre-anesthesia care](boppps-posttest-knowledge-skills-superiority.md) — related
+- [Undergraduate students taught with the Sim + LBL hybrid model achieved higher total post-class test scores than students taught with traditional LBL in dermatology and venereology](sim-lbl-higher-total-post-class-scores.md) — related

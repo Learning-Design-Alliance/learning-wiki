@@ -52,6 +52,7 @@ The authors recommend rebalancing CPR education away from theory-dominant format
 
 - [Select feedback technology to match the learner population, setting and learning objective, and reinforce with spaced booster training](match-feedback-device-to-context-plus-booster-training.md)
 - [Provide regular refresher sessions and periodic reassessment to sustain caregiver emergency-response skills over time](refresher-sessions-sustain-caregiver-skills.md)
+- [Innovative continuing education formats including patients and families, videos, remote classes, interactive games and smart devices](innovative-formats-soft-skill-education.md)
 
 ## Examples
 -

@@ -55,6 +55,8 @@ The article recommends that to sustain and extend the benefits of simulation-bas
 - [Schedule repeated simulation sessions across the psychiatric attachment and extend the program to other clinicians](repeated-psychiatric-simulation-sessions-strategy.md)
 - [Conduct short, simple skill-training sessions on a low-cost self-made model where full-scale simulators are unavailable, embedded in recurring refresher training](low-cost-model-short-fona-training-sessions.md)
 - [Recalibrate CPR training toward regular, simulation-based skills refreshers with real-time audiovisual feedback and instructor-led debriefing](simulation-feedback-cpr-training-recalibration.md)
+- [Offer recurring evidence-based suturing workshops, including through ACNM state affiliates, to support confidence and skill retention](recurring-suturing-workshops-recommendation.md)
+- [Sustain simulation skills through ongoing practice opportunities, logbook signoffs, designated skills leads, collaborative partnerships and equipment maintenance](us-pivc-skill-maintenance-strategies.md)
 
 ## Examples
 -

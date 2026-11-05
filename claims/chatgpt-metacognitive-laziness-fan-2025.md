@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: liu-2026
     resource: "https://doi.org/10.48550/arxiv.2606.00038"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article attributes to Fan et al. (2025) a randomized experiment in which ChatGPT use improved short-term essay scores but reduced monitoring, evaluation, and orientation behaviors, with no significant gains in knowledge transfer. [→ Liu 2026](#liu-2026)

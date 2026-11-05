@@ -57,3 +57,4 @@ Descriptive bibliometric analysis of 321 eligible WoS articles on WCF in L2 writ
 - Publication output on gamification peaked in 2023 with 57 articles and dropped 63% in 2024 — related
 - Publication on intercultural competence and digital technologies grew sustainedly since 2019, peaking in 2021–2023 — related
 - Reported competency proportions increased from studies published 2018–2020 (30.93%) to 2021–2024 (49.08%) — related
+- [Annual student participation in simulation training grew from about 1,200 to more than 2,800 students (a 133% increase) between 2020 and 2024](simulation-participation-growth-133-percent.md) — related

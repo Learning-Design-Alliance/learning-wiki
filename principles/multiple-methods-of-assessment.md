@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (29 for, 18 mixed, 2 against) · 55 studies (15 causal, 10 review, 8 associational, 8 theoretical, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q4` · 5 of 55 report an effect size · 43 claims rest on one study
+> **Evidence** · 50 claims (30 for, 18 mixed, 2 against) · 56 studies (15 causal, 10 review, 9 associational, 8 theoretical, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q4` · 5 of 56 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,7 @@ Relevant claims read against the model that do not change it, and off-topic clai
 - [Integrating dynamic speaking assessments with standardized criterion-referenced assessments significantly improves post-test performance](../claims/integrated-dynamic-standardized-assessment-improves-post-cra.md) [+W] — attached 2026-11-03 from Hill (2015), which proposed "Integrate dynamic and standardized forms of assessment to enhance performance on both"; tests this page's relationship.
 - [Checklist scores correlated positively with GRS but not with total procedure time](../claims/checklist-grs-correlation-afio.md) [~W] — attached 2026-11-04 from Haas D et al. (2026), which proposed "Use multimodal assessment combining GRS, checklist, and simulator metrics rather than checklists alone".
 - [GRS identifies station-level failures that checklist scores do not capture in a high-stakes OSCE](../claims/grs-discriminates-station-failures-checklists-miss.md) [+W] — attached 2026-11-05 from Ibrahim Olayinka Rasheed et al. (2026), which proposed "Combine checklists and GRS in high-stakes OSCE scoring to capture both critical steps and overall competence"; tests this page's relationship.
+- [Students rate their own empathy higher than standardized patients rate them](../claims/students-rate-empathy-higher-than-sps.md) [+W] — attached 2026-11-05 from Induru Vikranth et al. (2025), which proposed "Use multisource feedback (self, standardized patient, faculty) when assessing communication skills".
 
 ## Objective and learner-valued goal
 

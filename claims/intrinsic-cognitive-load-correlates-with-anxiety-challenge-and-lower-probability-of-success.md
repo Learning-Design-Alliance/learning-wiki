@@ -58,3 +58,4 @@ Correlational analysis of CLM and QCM subscales in the same algebra study: "intr
 - [At semester end, intrinsic motivation was positively correlated and programming anxiety negatively correlated with programming performance](motivation-anxiety-correlate-with-programming-performance.md) — related
 - [Extraneous cognitive load is negatively associated with autonomous motivation and positively with disengagement, while intrinsic load is negatively associated with motivation, engagement, and achievement](cognitive-load-negatively-associated-motivation-engagement.md) — related
 - [Intrinsic cognitive load during the scenario negatively predicted problem-solving performance (ANCOVA, p = .01)](cognitive-load-negatively-predicts-problem-solving.md) — related
+- [MRT and VVIQ scores are uncorrelated (r = 0.01), and neither significantly affected survey scores except VVIQ on extraneous cognitive load (p < 0.05)](mrt-vviq-uncorrelated-null-main-effects.md) — related

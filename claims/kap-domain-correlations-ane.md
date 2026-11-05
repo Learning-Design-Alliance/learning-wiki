@@ -50,3 +50,4 @@ Spearman correlation analysis of KAP domain scores in the 931-nurse cross-sectio
 - [Post-test measures of teacher knowledge, self-efficacy, self-reported use, and application were significantly and positively intercorrelated, with the strongest link between self-efficacy and self-reported use](post-measure-correlations-positive.md) — related
 - [GenAI feedback perceptions, pronunciation self-efficacy, and WTC are all positively intercorrelated, and learners report positive feedback perceptions and moderate self-efficacy and WTC](genai-epse-wtc-positive-correlations-descriptives.md) — related
 - [CSSC-trained nurses outperform untrained nurses on every KAP item subgroup, from ANE definitions to post-event psychological care](cssc-subgroup-item-advantages.md) — related
+- [Knowledge, attitude and practice scores for enteral nutrition are positively correlated](positive-kap-correlations-enteral-nutrition.md) — related

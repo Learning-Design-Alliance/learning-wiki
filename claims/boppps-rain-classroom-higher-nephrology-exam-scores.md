@@ -56,3 +56,4 @@ Comparative analysis over one academic year: 36 fifth-year students per group, a
 - [BOPPPS-flipped classroom reform is linked to significantly higher regular academic grades in pediatric dentistry than traditional instruction](boppps-flipped-higher-regular-grades-pediatric-dentistry.md) — related
 - [Supplementary questionnaire responses from the experimental group indicate perceived gains in learning experience, problem-solving, cooperation, communication, and commitment](boppps-rain-classroom-supplementary-questionnaire-perceptions.md) — related
 - [Students taught with integrated Rain Classroom and CBL scored significantly lower on objective questions than students taught with traditional lectures](rain-classroom-cbl-lower-objective-scores.md) — reports the opposite
+- [Grading format at fourth- and fifth-year exams did not change final licensing exam performance](grading-format-no-effect-licensing-exam-grades.md) — related

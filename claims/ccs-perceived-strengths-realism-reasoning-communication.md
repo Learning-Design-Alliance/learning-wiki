@@ -57,3 +57,4 @@ Qualitative thematic analysis of reflective narratives from 103 students, coded 
 - [Perceived realism and transferability to clinical practice influenced residents' motivation to use VR simulation](realism-transferability-shape-vr-motivation.md) — related
 - [Medical students experienced strong immersion in VR simulation due to realistic environments, but reduced interactivity constrained authenticity](vr-immersion-strong-but-interactivity-limited.md) — related
 - [All 37 respondents affirmed that OSCEai filled a gap in their medical training](osceai-fills-training-gap.md) — related
+- [Participants perceived the VR camera navigation test as realistic and reflective of their true clinical operational level](participants-perceive-vr-test-realistic-reflective.md) — a narrower finding that bears on this claim

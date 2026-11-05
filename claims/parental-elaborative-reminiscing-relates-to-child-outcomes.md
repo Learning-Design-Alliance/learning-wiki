@@ -9,7 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-10-21
+source_checked: 2026-11-05
 sources:
   - id: dave-neale-deborah-pino-pasternak-2016
     resource: "https://doi.org/10.1007/s10648-016-9376-0"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that parental elaborativeness during reminiscing correlates with children's vocabulary, independent narrative skills, autobiographical memory, and social and emotional skills. [→ Dave Neale & Deborah Pino-Pasternak 2016](#dave-neale-deborah-pino-pasternak-2016)

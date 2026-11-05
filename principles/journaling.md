@@ -27,7 +27,7 @@ sources:
 # Journaling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (17 for, 8 mixed, 1 against) · 28 studies (11 causal, 10 quant-synthesis, 3 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 11 of 28 report an effect size · 19 claims rest on one study
+> **Evidence** · 27 claims (18 for, 8 mixed, 1 against) · 29 studies (11 causal, 10 quant-synthesis, 3 review, 2 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 11 of 29 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,7 @@ Claims this page cited before it was rewritten, and other claims bearing on jour
 - [Teacher-feedback collaborative journaling produced the highest posttest self-efficacy, significantly outperforming no-feedback and no-journal conditions](../claims/teacher-feedback-journaling-highest-self-efficacy.md) [+W] — attached 2026-11-03 from Baleghizadeh et al. (2014), which proposed "Use collaborative reflective journals with teacher or peer feedback to build EFL learners' self-efficacy".
 - [Peer-feedback collaborative journaling significantly outperformed no-feedback and no-journal conditions on self-efficacy](../claims/peer-feedback-journaling-beats-no-feedback-control.md) [+W] — attached 2026-11-03 from Baleghizadeh et al. (2014), which proposed "Use collaborative reflective journals with teacher or peer feedback to build EFL learners' self-efficacy".
 - [Non-collaborative reflective journaling without feedback still improves self-efficacy relative to no journaling](../claims/no-feedback-journaling-still-improves-self-efficacy.md) [+W] — attached 2026-11-03 from Baleghizadeh et al. (2014), which proposed "Use collaborative reflective journals with teacher or peer feedback to build EFL learners' self-efficacy".
+- [Embedded reflective writing in e-learning fostered metacognitive engagement and transformative learning beyond formal objectives](../claims/reflective-writing-elearning-metacognitive-transformative.md) [+W] — attached 2026-11-05 from Janssen et al. (2025), which proposed "Steer reflective writing in e-learning with guided prompts covering awareness, understanding, and transfer"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

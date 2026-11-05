@@ -57,8 +57,10 @@ Affirmation works best when it is framed as **values reflection** rather than di
 5. Revisit and revise affirmations periodically so they stay tied to real progress and [autonomy](../theories/self-determination-theory.md) — learners should author or choose their own.
 
 ## Related Strategies
+
 - [Growth Mindset Framing](../strategies/growth-mindset-framing.md) — process-focused affirmations are a micro-practice of the same belief change
 - [Check-Ins](../principles/check-ins.md) — a natural channel for embedding brief reflection moments
+- [Use trauma-informed educational practices and have students write memorized information on blank paper before reading the first question to buffer stress responses](trauma-informed-test-taking-brain-dump.md)
 
 ## Examples
 - **Values-affirmation writing before exams**: middle-school students wrote about their most important values at the start of the term, narrowing the racial achievement gap in a series of field experiments (Cohen et al., 2006, *Science*).

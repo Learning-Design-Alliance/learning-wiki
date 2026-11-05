@@ -57,3 +57,4 @@ A two-round modified Delphi study with 19 emergency medicine experts from 11 ter
 - [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related
 - [A three-round e-Delphi panel of 19 experts from 6 European countries achieved consensus on 58 core teamwork competencies for community-based interprofessional teams, grouped into five areas](edelphi-consensus-58-cbit-competencies.md) — related
 - [A Delphi panel of 24 simulation center heads in China reached consensus on 24 evaluation items across six categories, forming the STRIVE model](delphi-consensus-24-items-strive-hsc.md) — related
+- [Expert panel was predominantly female, doctoral-level, with healthcare and SCI experience](iafee-ecs-expert-panel-characteristics.md) — related

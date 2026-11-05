@@ -56,3 +56,4 @@ Qualitative thematic analysis of semi-structured interviews with 14 purposively 
 - [Interviewed learners unanimously perceived improvement in their listening comprehension and valued podcasts as a supplementary tool](interview-themes-listening-achievement-supplementary.md) — related
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
+- [Students linked the group simulation assessment to self-awareness, personal accountability and lifelong learning](autonomous-learning-self-awareness-lifelong-growth.md) — related

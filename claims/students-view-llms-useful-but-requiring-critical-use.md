@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: markos-stamatakis-2026
     resource: "https://doi.org/10.48550/arxiv.2606.15919"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Questionnaire responses across both user-study scenarios show students see utility in LLM output but do not unconditionally trust it, and open feedback names hallucinations, overconfidence, and inconsistencies as problems. [→ Markos Stamatakis 2026](#markos-stamatakis-2026)

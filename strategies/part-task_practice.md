@@ -58,8 +58,10 @@ Part-task practice reduces working-memory load during early skill acquisition by
 5. Re-embed the component in whole-task performance and fade isolated practice as fluency develops, monitoring for the [expertise-reversal effect](../theories/expertise-reversal-effect.md).
 
 ## Related Strategies
+
 - [Whole-task practice](../strategies/whole-task-practice.md) — the complementary approach; the two are most effective in combination
 - [Scaffolded practice sequences](../strategies/scaffolded-practice-sequences.md) — graduated difficulty within a component
+- [Deconstruct procedures into basic skills, build dedicated exercises for each subskill, evaluate learners against them, and select activities to match the evaluation.](deconstruct-procedures-into-basic-skills.md)
 
 ## Examples
 - **Flight training** — simulator hours devoted solely to instrument scanning or radio procedures before full-mission simulation, a classic finding of the part-task training literature.

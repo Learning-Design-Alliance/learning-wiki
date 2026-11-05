@@ -40,6 +40,7 @@ The brief recommends a set of federal actions: enhanced support and oversight th
 
 - [Seven-policy comprehensive approach to equalizing student access to certified and experienced teachers](comprehensive-policies-equitable-teacher-access.md)
 - [State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions](teacher-shortage-policy-recommendations.md)
+- [Activate the CCC through four complementary policy levers: education, credentialing and quality assurance, financing and incentives, and measurement](four-policy-levers-activate-ccc.md)
 
 ## Examples
 -

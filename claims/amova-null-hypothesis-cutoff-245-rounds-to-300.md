@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-11-05
 sources:
   - id: osler-2015
     resource: "https://doi.org/10.26634/jet.12.3.3742"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The AMOVA hypothesis test rejects the null hypothesis when the accumulative score reaches 2.45 on the Taxonomy of Process Education, which the nearest-integer function rounds to a holistic 3.00. [→ Osler 2015](#osler-2015)

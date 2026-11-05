@@ -54,3 +54,4 @@ In the automatic evaluation study, Gemini-2.5-Pro evaluated the same 64 MCQs und
 - [Humans are more certain when judging that facilitation is not needed than when judging it is](humans-certain-when-not-facilitating.md) — related
 - [The LLM-judge scoring pipeline for the two metrics aligns with human labels and human raters](llm-judge-pipeline-validated-against-human-raters.md) — related
 - [Expert-judged sentence selection by a tuned rhetorical parser succeeded, but student reactions to key-sentence highlighting were mixed](awa-sentence-highlighting-mixed-student-response.md) — related
+- [All five LLMs answered every MCQ and showed high short-term test–retest agreement (AC1 0.79–1.00), indicating reproducible performance without selective abstention](llms-answered-every-mcq-high-test-retest-agreement.md) — related

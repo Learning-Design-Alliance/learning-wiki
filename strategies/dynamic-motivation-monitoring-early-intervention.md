@@ -50,6 +50,7 @@ Given the mediating role of learning motivation, the article recommends continuo
 - [Complement outcome measures with continuous process measures to assess social effects and enable adaptive pedagogical agents](process-measures-for-adaptive-pedagogical-agents.md)
 - [Incorporate paternalistic leadership training into residency supervisor qualification and development systems](leadership-training-supervisor-development-srt.md)
 - [Foster a supportive organizational climate through a university-department-supervisor tri-level linkage](tri-level-organizational-climate-support.md)
+- [Apply the instrument from the beginning of SCI as continuous diagnostic assessment rather than only for final grading](iafee-ecs-continuous-use-from-sci-start.md)
 
 ## Examples
 -

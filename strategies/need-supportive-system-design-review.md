@@ -52,6 +52,7 @@ The article recommends that institutions examine the conditions that make contro
 - [Address educator wellbeing structurally: institutional policies and collective responsibility rather than individual enforcement](structural-support-educator-wellbeing-ai.md)
 - [Staff development should make teaching principles explicit through articulation, reflection and evaluation, supported by institutional incentives and training](staff-development-articulate-teaching-principles.md)
 - [Faculty development organized around authentic situations where autonomy support and authority are hard to distinguish](faculty-development-authentic-control-dilemmas.md)
+- [Reduce subjectivity in workplace-based assessment through clear rating criteria, reduced performance pressure, and programmatic assessment](reduce-wba-subjectivity-equity-strategies.md)
 
 ## Examples
 -

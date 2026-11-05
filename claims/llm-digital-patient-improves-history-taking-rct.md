@@ -69,3 +69,5 @@ RCT reported in the review's Table 3 (Luo et al, n=13 per group, 1-hour session)
 - [AI feedback improved the generic medical history OSCE domain (r=0.27) while other domains showed no significant differences](ai-feedback-generic-medical-history-domain-only.md) — related
 - [AI-generated feedback following social robotic VP interactions improves medical students' total OSCE performance (Cohen d=0.74)](ai-feedback-sari-improves-total-osce.md) — related
 - [VSP-based training produced significantly higher post-intervention clinical interview scores than traditional practice in a small randomized controlled trial](vsp-training-improves-interview-skills-rct.md) — related
+- [VSP training produced significantly greater improvement in medical history-taking ability than traditional teaching](cl-vsp-greater-history-taking-gains.md) — related
+- [VSP training produced significantly greater improvement in total virtual clinical reasoning training system test scores than traditional teaching](cl-vsp-greater-vsp-system-total-score-gains.md) — related

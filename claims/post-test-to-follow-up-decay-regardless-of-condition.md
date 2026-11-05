@@ -52,3 +52,4 @@ Comparison of immediate post-test/survey scores to 4-week follow-up scores in th
 - [All treatment groups showed positive gains immediately after instruction, followed by losses between the contemporaneous and post-instruction assessments](immediate-gains-then-decay-all-groups.md) — related
 - [All Health Belief Model subscale scores increased significantly after the educational intervention (p=0.000)](bse-education-improved-health-belief-subscales.md) — related
 - [A student-led breast cancer awareness workshop significantly improved total breast cancer knowledge scores among female secondary school students.](student-led-bc-campaign-significant-knowledge-gains-adolescents.md) — related
+- [The PBL-KAP-AI model improves health beliefs in breast cancer patients more than conventional health education](pbl-kap-ai-improves-health-beliefs.md) — related

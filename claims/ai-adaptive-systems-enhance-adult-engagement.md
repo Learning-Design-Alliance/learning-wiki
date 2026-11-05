@@ -95,3 +95,4 @@ The review reports, in its section on adult learning theory and AI integration, 
 - [Learning analytics and predictive modeling enable institutions to monitor learner progression, identify at-risk learners, and optimize curriculum](learning-analytics-monitor-risk-optimize-curriculum.md) — related
 - [AI models could forecast student outcomes, supporting personalised learning strategies and early intervention](ai-models-forecast-student-outcomes-personalised-learning.md) — related
 - [Individual teaching and video tutorials are valued for personalised pacing in older adults' digital learning](individual-teaching-video-tutorials-personalised-pacing.md) — a narrower finding that bears on this claim
+- [A Triple Helix-guided big data analytics platform improved teaching implementation, student engagement, and technology integration among normal university students over 16 weeks](big-data-platform-teaching-ability-gains.md) — a narrower finding that bears on this claim

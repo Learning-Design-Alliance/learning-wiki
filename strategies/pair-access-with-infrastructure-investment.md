@@ -52,6 +52,7 @@ The report recommends treating infrastructure investment as inseparable from tec
 - [Institutions should pilot low-stakes, prespecify evaluation indicators, and scale only after governance, faculty capacity, and equity safeguards are in place](phased-low-stakes-pilot-implementation.md)
 - [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
 - [Prepare teachers and infrastructure before implementing VR-based learning on sensitive topics](teacher-preparation-technical-support-vr-implementation.md)
+- [Prioritize consistent staff training, equitable resource access, and students' self-confidence with technology in PE](staff-training-equal-access-self-esteem-pe-technology.md)
 
 ## Examples
 -

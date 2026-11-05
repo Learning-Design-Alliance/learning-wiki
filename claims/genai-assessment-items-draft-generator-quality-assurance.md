@@ -105,3 +105,4 @@ The review reports these positive signals alongside settings where incorrect key
 - [Qualitative analysis of LLM answer explanations identified 3 ambiguous examination questions, supporting LLM use for question quality assurance](llm-explanations-flag-ambiguous-questions.md) — related
 - [Instructor-developed items showed higher discrimination than ChatGPT items in 3PL IRT analysis](instructor-items-higher-discrimination-3pl.md) — related
 - [Students scored significantly higher on instructor-written MCQs than on ChatGPT-generated MCQs in a within-subjects dental assessment](instructor-mcqs-scored-higher-than-chatgpt-mcqs.md) — related
+- [7.7% of orthopedic MCQs produced completely false responses from both LLMs, suggesting item construction flaws](mcqs-failed-by-both-llms-suggest-item-flaws.md) — related

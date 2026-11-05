@@ -57,8 +57,10 @@ Summaries exploit the structure of working memory and long-term consolidation: r
 4. Revisit the recap at the start of the next session to space retrieval ([Check-In](../elements/check-in.md))
 
 ## Related Strategies
+
 - Spaced retrieval practice — recaps at spaced intervals convert review into retrieval practice
 - Advance organizers — a *before*-instruction structure that recaps complement with *after*-instruction consolidation
+- [Embed low-burden spaced review structures such as a 48-hour recap and a 1-week revisit with automated reminders](spaced-review-structures-strategy.md)
 
 ## Examples
 - **Lecture pause procedure** (Bonwell & Eison-style active lecturing): after each 12–15 minute segment, students pair up to summarize the key point in their own words before the lecture resumes.

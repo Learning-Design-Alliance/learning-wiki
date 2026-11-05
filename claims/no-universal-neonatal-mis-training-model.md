@@ -52,3 +52,5 @@ Systematic review following PRISMA guidelines, registered in PROSPERO, searching
 - [Rabbit model outperformed porcine model for pediatric MIS training, with higher surgical performance scores (8.1 versus 6.0)](rabbit-beats-porcine-pediatric-mis-training.md) — a narrower finding that bears on this claim
 - [In CRT training, proficiency-based progression demonstrated superiority over traditional simulation in which proficiency benchmarks were optional](pbp-superiority-crt-training.md) — a narrower finding that bears on this claim
 - [In neonatal minimally invasive surgery, operative performance is shaped more by recency and depth of MIS-focused training than by surgeon seniority](mis-performance-shaped-by-training-recency-not-seniority.md) — related
+- [AI-generated exam questions and AI-based surgical training tools show promise for urology education but require expert oversight and validation](ai-tools-urology-education-exam-questions-feedback.md) — related
+- [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — related

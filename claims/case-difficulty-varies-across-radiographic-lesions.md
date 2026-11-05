@@ -50,3 +50,5 @@ Descriptive per-case results from 83 students interpreting 11 panoramic radiogra
 - [Chatbot accuracy varies by content domain, with cavity preparation showing the greatest variability across models](chatbot-accuracy-varies-content-domain.md) — related
 - [Gains varied by lesion: the largest diagnostic improvement was for herpes labialis (+53.1%) and the largest management improvement was for recurrent aphthous stomatitis (+36.6%), which decayed substantially](lesion-specific-gains-vary-herpes-labialis-aphthous.md) — a narrower finding that bears on this claim
 - [Self-confidence significantly predicts dental students' diagnostic accuracy in radiographic interpretation](self-confidence-predicts-radiographic-diagnostic-accuracy.md) — related
+- [Participants over 35 demonstrated higher diagnostic accuracy than younger participants across all seven cases, with gaps most pronounced on the hardest case](older-participants-higher-diagnostic-accuracy.md) — related
+- [Confidence is not a reliable indicator of diagnostic competency for certain lesion types, notably facial nerve palsy (case 7)](overconfidence-on-difficult-oral-cancer-cases.md) — related

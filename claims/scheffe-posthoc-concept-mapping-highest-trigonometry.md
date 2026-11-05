@@ -52,3 +52,4 @@ Scheffe's post-hoc analysis (Table 3) of the three-group quasi-experiment. The a
 - [Descriptive post-test means showed cooperative learning students scoring substantially higher than control students](posttest-descriptive-means-cooperative-vs-control.md) — a narrower finding that bears on this claim
 - [The fill in the map concept map group performed significantly better than the summarizing strategy group on reading comprehension posttest](fill-in-map-cm-beats-summarizing-reading-comprehension.md) — related
 - [The read-note-and-discuss task type ranked highest, followed by read-and-discuss, with read-and-think and read-and-write equal](read-note-discuss-task-type-highest-reading-performance.md) — related
+- [L1E undergraduates read faster and score higher on time-restricted reading comprehension than EAL and EFL peers, with no group difference in time-unrestricted comprehension](l1e-reading-speed-advantage-time-restricted-comprehension.md) — related

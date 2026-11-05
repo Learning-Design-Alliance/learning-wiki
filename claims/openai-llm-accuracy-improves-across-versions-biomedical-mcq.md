@@ -63,3 +63,6 @@ Random‐effects proportional meta‐analysis of 41 articles comprising 207 prop
 - [ChatGPT-4 achieved an overall accuracy of 81% on the Polish PES orthopedics exam, exceeding the 75% passing threshold on average](chatgpt-4-81-percent-accuracy-pes-orthopedics.md) — a narrower finding that bears on this claim
 - [ChatGPT-4o achieved 71% accuracy on the Chinese question bank, comparable to dental undergraduates and OMS graduate students but lower than OMS specialists](chatgpt-4o-71-percent-chinese-question-bank-accuracy.md) — related
 - [LLMs answer diagnosis questions significantly better than treatment questions in medical multiple-choice items](treatment-questions-solved-worse-than-diagnosis.md) — related
+- [Both ChatGPT models exceed the UKMLA pass threshold (57.5%) on UKMLA-style items](chatgpt-models-exceed-ukmla-pass-threshold.md) — a narrower finding that bears on this claim
+- [o1-Pro significantly outperforms GPT-4o on UKMLA-style single-best-answer items (93.0% vs 88.8% accuracy)](mcnemar-significant-o1-pro-advantage-ukmla.md) — a narrower finding that bears on this claim
+- [OpenAI o1 achieved the highest aggregated mean score among the five LLMs, followed by Copilot, DeepSeek, Gemini, and GPT-4o](openai-o1-highest-aggregated-mean-five-llms.md) — a narrower finding that bears on this claim

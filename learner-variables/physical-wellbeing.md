@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 151 claims (100 show a difference, 33 mixed, 18 no difference) · 81 studies (29 causal, 17 associational, 16 review, 14 quant-synthesis, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 18 of 81 report an effect size · 147 claims rest on one study
+> **Evidence** · 155 claims (103 show a difference, 34 mixed, 18 no difference) · 83 studies (30 causal, 18 associational, 16 review, 14 quant-synthesis, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 20 of 83 report an effect size · 151 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -188,6 +188,10 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Moderate and vigorous physical activity show no significant associations with cognitive or academic performance in adjusted models](../claims/mpa-vpa-null-cognitive-academic.md) [-M] — learners who differ on it differ in outcomes
 - [Cardiovascular fitness is positively associated with cognitive performance in Swedish adolescents, adjusting for gender, puberty, parental education and parental country of birth](../claims/fitness-associated-cognitive-performance-adolescents.md) [+W] — learners who differ on it differ in outcomes
 - [Physical activity category is not statistically significantly associated with GPA category among Saudi physical therapy students](../claims/pars3-category-not-associated-gpa-saudi-pt-students.md) [-W] — learners who differ on it differ in outcomes
+- [Health behavior level moderates the indirect effect of education satisfaction on health beliefs through quality of life](../claims/health-behavior-moderates-indirect-path-health-beliefs.md) [~M] — an instructional effect differs with it
+- [Health sciences students' GPA is positively correlated with their physical activity level (r = 0.279)](../claims/gpa-positively-correlated-physical-activity-health-sciences-students.md) [+M] — learners who differ on it differ in outcomes
+- [Physical activity level is negatively correlated with absenteeism and with academic warnings](../claims/physical-activity-negative-correlation-absenteeism-warnings.md) [+W] — learners who differ on it differ in outcomes
+- [The PBL-KAP-AI model improves health behaviors in breast cancer patients more than conventional health education](../claims/pbl-kap-ai-improves-health-behaviors.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

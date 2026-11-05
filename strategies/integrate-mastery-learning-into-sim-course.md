@@ -47,6 +47,7 @@ The authors recommend that simulation courses with fixed module time adopt maste
 
 - Four Hour Modular Obstetric Us Sim Course
 - [Mastery Based Progression](mastery-based-progression.md)
+- [Integrate the VR camera navigation test into mastery learning programs so trainees practice until reaching the pass/fail standard](mastery-learning-camera-navigation-simulation-strategy.md)
 
 ## Examples
 -

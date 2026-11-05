@@ -54,3 +54,4 @@ Semi-structured interviews with six students stratified by pre-test ability (hig
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — a broader claim this one bears on
 - [Interviewed students valued idea generation and peer evaluation but reported difficulties with editing checklists and unhelpful peer feedback](mixed-interview-perceptions-peer-evaluation.md) — related
 - [Learners preferred pair work and more capable partners, consistent with Vygotsky rather than Piaget](learner-attitudes-prefer-capable-partners-pair-work.md) — related
+- [Learning alongside peers in a group-based simulation assessment reduced assessment-related anxiety for most students, though some still felt overwhelmed](peer-support-reduced-assessment-anxiety-mixed.md) — related

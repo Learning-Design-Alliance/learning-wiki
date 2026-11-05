@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2010
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: rafiee-et-al-2010
     resource: "http://www.ccsenet.org/elt"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2010 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Immediate recall and delayed recall scores after the humorous-song treatment were not significantly different. [→ Rafiee et al. 2010](#rafiee-et-al-2010)

@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 153 claims (69 for, 74 mixed, 10 against) · 79 studies (39 causal, 16 review, 10 quant-synthesis, 6 theoretical, 5 associational, 3 qualitative), `q1`–`q4` · 23 of 79 report an effect size · 146 claims rest on one study
+> **Evidence** · 155 claims (70 for, 75 mixed, 10 against) · 80 studies (40 causal, 16 review, 10 quant-synthesis, 6 theoretical, 5 associational, 3 qualitative), `q1`–`q4` · 24 of 80 report an effect size · 148 claims rest on one study
 
 ## Conditional relationship
 
@@ -111,6 +111,8 @@ None at present. The sixteen restored claims were read on 2026-10-15; the eleven
 - [Testing effect among low-WMC learners depends on stimulus WM demands: negative testing effect for low-frequency stimuli](../claims/wmc-stimulus-frequency-interaction-testing-effect.md) [~W] — attached 2026-10-26 from Zheng et al. (2024), which proposed "Balance learners' working memory capacity with task difficulty to unlock retrieval practice benefits"; tests this page's relationship.
 - [A course section that reviewed with Kahoot no-stakes quizzes differed significantly in high-stakes multiple-choice exam scores from a section that reviewed with a study guide and lecture, a difference the authors report as improvement without printing group means](../claims/kahoot-testing-effect-higher-exam-scores.md) [+W] — attached 2026-11-01 from Iwamoto et al. (2017), which proposed "Use no-stakes gamified retrieval-practice quizzes as exam preparation rather than lecture-based review alone"; tests this page's relationship.
 - [Regular low-stakes post-lecture testing produces higher final exam scores on tested than on non-tested material in undergraduate endodontics](../claims/testing-effect-endodontics-final-exam.md) [+W] — attached 2026-11-05 from Kalyva et al. (2026), which proposed "Integrate regular, low-stakes testing into endodontic and dental curricula to enhance learning outcomes"; tests this page's relationship.
+- [On a short-answer comprehension test, only multiple-choice practice, not true—false practice, significantly beat rereading (Experiment 2)](../claims/mc-only-beats-rereading-on-short-answer.md) [+M] — attached 2026-11-05 from Hildenbrand Lena; Wiley Jennifer (2025), which proposed "When using closed-ended practice tests to build comprehension, prefer multiple-choice inference questions over matched true—false items"; tests this page's relationship.
+- [Adding feedback to closed-ended practice tests yields no added comprehension benefit, while the multiple-choice advantage over true—false persists (Experiment 3)](../claims/feedback-no-added-benefit-mc-advantage-persists.md) [~M] — attached 2026-11-05 from Hildenbrand Lena; Wiley Jennifer (2025), which proposed "When using closed-ended practice tests to build comprehension, prefer multiple-choice inference questions over matched true—false items".
 
 ## Objective and learner-valued goal
 

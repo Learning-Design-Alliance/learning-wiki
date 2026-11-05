@@ -80,3 +80,7 @@ In the randomized controlled trial of booster modalities (N = 44 family medicine
 - [77% of healthcare providers retained simulated neonatal resuscitation skills one year after in situ low-dose high-frequency simulation training](ldhf-simulation-one-year-skills-retention-77-percent.md) — related
 - [Rapid cycle deliberate practice improves neonatal resuscitation performance and confidence compared with standard training](rcdp-improves-neonatal-resuscitation-performance.md) — related
 - [Mean simulated resuscitation skills scores dropped 10.2 percentage points from baseline to one year despite frequent in situ simulation training](mean-skills-score-drop-10-points-one-year.md) — related
+- [Providers' HBB knowledge scores rose significantly from pre-training to immediately post-training after HBB training, in one uncontrolled pre-post study](hbb-training-increases-provider-knowledge-immediately.md) — related
+- [Providers' hands-on resuscitation skills (OSCE B) scores declined significantly from immediately post-training to 4 and 9 months after training in one uncontrolled pre-post study](osce-b-skills-decline-after-training.md) — a narrower finding that bears on this claim
+- [Quarterly follow-up training does not sustain providers' HBB knowledge at 9 months](quarterly-followup-insufficient-knowledge-retention.md) — a narrower finding that bears on this claim
+- [Having an HBB trained provider at birth is not significantly associated with lower in-facility neonatal mortality](trained-provider-no-significant-mortality-reduction.md) — related

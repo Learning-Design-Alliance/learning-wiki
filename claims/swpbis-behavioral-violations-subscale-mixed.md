@@ -48,3 +48,4 @@ Repeated measures GLM on SET subscale data from the randomized trial; the behavi
 - [Schools trained in SWPBIS implement the model with high, sustained fidelity on the School-Wide Evaluation Tool](swpbis-training-high-fidelity-set.md) — related
 - [SWPBIS training significantly improved staff-reported implementation fidelity on all four EBS subscales](swpbis-training-improved-ebs-staff-reports.md) — related
 - [SWPBIS adoption in US schools shows an ascending trend, reaching over 14,000 trained schools](swpbis-us-adoption-ascending-trend.md) — related
+- [The difference between groups in finding the training method enjoyable and effective was not statistically significant](pechakucha-enjoyable-effective-null.md) — related

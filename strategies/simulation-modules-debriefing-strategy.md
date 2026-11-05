@@ -58,6 +58,7 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
 - [Embed short, high-frequency RCDP-based interprofessional simulation sessions early in undergraduate health curricula](embed-rcdp-ipse-sessions-undergraduate.md)
 - [Integrate structured reflective sessions into clinical curricula, tailored to students' developmental stage](integrate-structured-reflection-clinical-curricula.md)
+- [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
 
 ## Examples
 -

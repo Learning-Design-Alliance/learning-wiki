@@ -72,3 +72,4 @@ Subgroup analysis stratified by hospital level with two-proportion z-test compar
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Perioperative SBME implementation is unevenly distributed across China, with Eastern China contributing the largest share of respondents and the authors noting regional disparities](sbme-regional-imbalance-china.md) — related
 - [Typical perioperative SBME sessions in China occur in simulated operating rooms, last 0.5–1 hour, and enroll 5–8 learners, but learners report more irregular participation than instructors acknowledge](sbme-session-implementation-details.md) — related
+- [After implementation of the Simulation Instructor Development Program, faculty involvement increased by 45%](instructor-development-program-faculty-growth.md) — related

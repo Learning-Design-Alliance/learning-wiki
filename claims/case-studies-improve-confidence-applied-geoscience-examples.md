@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: holley-2017
     resource: "https://doi.org/10.5408/16-145.1"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a single class with no comparison group, students' self-rated ability to provide concrete examples of geoscience applications in mining rose significantly from the start to the end of a course that combined case studies with active learning (p < 0.01); the design cannot attribute the change to case studies, or to the course rather than other influences. [→ Holley 2017](#holley-2017)

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-05
 recheck_by: 2028
 sources:
   - id: podgurski-l-2025
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In the second-round survey, 32/36 (89%) of the voting group participated, and of the 23 deferred competencies, seven received sufficient high-priority votes for inclusion in the final list. [→ Podgurski L 2025](#podgurski-l-2025)

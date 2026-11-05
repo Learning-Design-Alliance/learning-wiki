@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: özek-2016
     resource: "https://doi.org/10.11114/jets.v4i6.1370"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` With pre-test scores controlled, post-test achievement differed significantly across the three instruction groups, with the creative drama group highest (corrected mean 64.13 vs 50.57 and 43.13); no pairwise tests are reported. [→ Özek 2016](#ozek-2016)

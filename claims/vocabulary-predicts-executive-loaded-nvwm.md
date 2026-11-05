@@ -54,3 +54,4 @@ Multiple regression across all participants (deaf and hearing combined) predicti
 - [Short-term memory predicts vocabulary over and above book exposure and intelligence](short-term-memory-predicts-vocabulary.md) — related
 - [Hearing children significantly outscored the deaf group as a whole on Spatial Span Backward and Odd One Out](hearing-outscore-deaf-executive-loaded-nvwm.md) — related
 - [All three groups differed significantly on expressive vocabulary, with non-native signers scoring lowest](vocabulary-group-differences-three-groups.md) — related
+- [Vocabulary is the covariate uniquely associated with reading speed and time-restricted reading comprehension after controlling for cognitive skills and parental education](vocabulary-unique-predictor-reading-speed-comprehension.md) — related

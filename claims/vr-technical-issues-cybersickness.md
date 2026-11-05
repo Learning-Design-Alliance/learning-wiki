@@ -60,3 +60,4 @@ Break-reason and symptom data from the randomized trial. In the VR group, 23 (82
 - [Participants rated the VR learning experience positively with minimal cybersickness, yet most did not prefer VR over prosection as a drawing reference](vr-satisfaction-but-not-preferred-reference.md) — related
 - [Most participants found first VR engagement exciting and easy to use, though a minority reported discomfort and initial difficulty](vtracs-excitement-with-minority-adverse-experiences.md) — related
 - [Cybersickness during short VR bellringer testing was minimal and unrelated to VR or total exam performance](cybersickness-minimal-unrelated-br-performance.md) — related
+- [Ocular discomfort after EyeSi VR simulation is mild and infrequent](eyesi-vr-mild-ocular-discomfort.md) — related

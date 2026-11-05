@@ -52,3 +52,4 @@ Evaluation of EMCQG's generated questions: a stratified random sample of 435 que
 - [Prior AQG work shows ML yields grammatically correct Cloze questions while ontology approaches struggle with Cloze but produce meaningful Wh-type questions](ml-cloze-ontology-wh-grammaticality-gap.md) — related
 - [Most reviewed studies (5 of 8) demonstrated that LLMs can produce MCQs valid for medical exams](llm-mcq-generation-majority-valid.md) — related
 - [Expert physician review excluded 23 of 100 LLM-generated MCQs, yielding a validated set of 77 questions](physician-validation-77-mcqs.md) — related
+- [AI-generated exam questions and AI-based surgical training tools show promise for urology education but require expert oversight and validation](ai-tools-urology-education-exam-questions-feedback.md) — related

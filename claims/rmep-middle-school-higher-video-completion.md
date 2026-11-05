@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: nagle-2016
     resource: "https://ies.ed.gov/ncee/projects/other/i3_ruralmath.asp"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in middle school teachers' classes completed an average of 48 percent of assigned videos compared with 27 percent at the high school level. [→ Nagle 2016](#nagle-2016)

@@ -55,3 +55,4 @@ Delphi consensus study of 30 invited heads of healthcare simulation centers in m
 - [In the first Delphi round, 12 of 22 potential competencies received unanimous endorsement and 10 required revisions based on expert feedback.](delphi-first-round-12-unanimous-10-revised.md) — related
 - [The authors report a follow-up validity study of STRIVE across 40 Chinese hospitals with promising preliminary results](strive-followup-validity-40-hospitals.md) — related
 - [The authors position STRIVE as a concise, center-level complement to international simulation frameworks that focus on course phases and accreditation processes](strive-institutional-perspective-vs-course-phase-frameworks.md) — related
+- [Expert panel was predominantly female, doctoral-level, with healthcare and SCI experience](iafee-ecs-expert-panel-characteristics.md) — related

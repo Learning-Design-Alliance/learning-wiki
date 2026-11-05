@@ -57,3 +57,4 @@ Fixed-effects meta-analysis of 10 studies (low heterogeneity, I2 = 13.7%) compar
 - Evidence quality is limited: heterogeneity is high across all three outcomes, publication bias was detected for score outcomes, and all CINeMA-rated comparisons were very low quality — related
 - [Simulation-based learning stimulates greater interest in learning than non-simulation-based learning in endocrinology education](sbl-greater-learning-interest-endocrinology.md) — related
 - [Flipped classroom residents report higher perceived teaching effectiveness in clinical skills, learning interest, self-learning, problem-solving, and team collaboration, but not theoretical knowledge](fc-higher-perceived-effectiveness-domains.md) — related
+- [Urology interest groups and mandatory skills sessions significantly increase medical student interest and procedural confidence](urology-interest-groups-skills-sessions-student-interest.md) — related

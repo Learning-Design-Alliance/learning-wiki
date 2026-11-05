@@ -80,3 +80,4 @@ Quasi-experimental comparison of 21 experimental and 13 control students after a
 - [Project based learning improves academic achievement in classification of organisms compared with conventional instruction](pbl-improves-achievement-classification-organisms.md) — related
 - [Project-based ESP instruction improves tertiary ESP students' acquisition of specialization-related English vocabulary compared with conventional instruction](pbl-esp-vocabulary-gains-qassim.md) — related
 - [Voiceover-plus-review-game pedagogy produces quiz performance statistically equivalent to traditional didactic lecture and significantly better than no prior exposure](voiceover-review-game-quiz-equivalence.md) — related
+- [Seventy percent of surveyed students believed they learned better from the gaming format than from didactic lectures, and most favored reward points for game activities](students-prefer-games-over-lectures-points.md) — related

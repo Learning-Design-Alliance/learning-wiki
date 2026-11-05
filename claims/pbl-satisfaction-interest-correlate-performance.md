@@ -53,3 +53,4 @@ Mechanism analysis in the RCT measured satisfaction via a 10-item university eva
 - [In an RCT, pharmacy students taught with PBL rated their own problem-solving and self-directed learning significantly higher on a questionnaire than LBL students did](pbl-rct-higher-problem-solving-self-directed-learning.md) — related
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [Students in the CBL group report higher satisfaction across all evaluated domains than the LBL group](cbl-higher-student-satisfaction.md) — related
+- [Sim + LBL students reported greater satisfaction, perceived learning outcomes, and core-competency gains than LBL students](sim-lbl-greater-satisfaction-engagement-competency.md) — related

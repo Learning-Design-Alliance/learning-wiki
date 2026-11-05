@@ -57,6 +57,7 @@ The review recommends that tertiary educators incorporate CMB (brief 4–10 min 
 - [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
 - [Deliver classroom-based physical activity with an academic focus to potentially support both academic performance and overall physical activity levels](classroom-based-pa-academic-focus-strategy.md)
 - [Embed bodyweight resistance exercises such as squats into classroom active learning breaks](bodyweight-resistance-exercises-classroom-active-breaks.md)
+- [Promote physical activity within academic settings through institutional policies, flexible scheduling, and active breaks](physical-activity-promotion-academic-settings-strategy.md)
 
 ## Examples
 -

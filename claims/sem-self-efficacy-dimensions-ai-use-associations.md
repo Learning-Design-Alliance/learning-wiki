@@ -70,3 +70,4 @@ Variance-explained estimate from the same SEM (N = 102). The quote fragment "R2 
 - [Three academic self-efficacy profiles (low, moderate, high) are identified among university students with motor disabilities using Latent Profile Analysis](three-academic-self-efficacy-profiles-motor-disabilities.md) — related
 - [Six predictor constructs jointly explain 44.0% of the variance in ethical GenAI use among university students, with all structural paths positive and significant](six-predictors-explain-44-percent-ethical-genai-use.md) — related
 - [Thoughtless use of generative AI significantly and negatively predicts both self-efficacy and motivation](tuga-negative-effect-se-mov.md) — related
+- [Self-efficacy is positively associated with information literacy in a mediation model](self-efficacy-information-literacy-mediation.md) — related

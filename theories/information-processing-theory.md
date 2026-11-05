@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 133 claims (73 for, 58 mixed, 2 against) · 87 studies (39 causal, 26 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 21 of 87 report an effect size · 130 claims rest on one study
+> **Evidence** · 134 claims (74 for, 58 mixed, 2 against) · 88 studies (40 causal, 26 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 22 of 88 report an effect size · 131 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -196,6 +196,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Working memory and verbal ability mediate between SVA user behaviors and academic performance in the younger cohort only](../claims/cognitive-functioning-mediation-sva-academic-younger-only.md) [~W]
 - [Highly activated negative emotions will influence WM during gaming](../claims/highly-activated-negative-emotions-influence-wm.md) [+W]
 - [Senior high school students taught the same new words in semantically-unrelated sets score significantly higher than students taught the words in semantically-related sets on a delayed L2-L1 translation test two weeks later](../claims/su-sets-beat-sr-sets-delayed-vocabulary-test.md) [+W] — attached 2026-11-03 from Wang (2015), which proposed "Interference theory: words learned at the same time that are too similar interfere with each other and impair retention".
+- [Practice tests with closed-ended inference questions in either multiple-choice or true—false format improve essay-based comprehension over rereading (Experiment 1)](../claims/closed-ended-inference-practice-tests-improve-essay-comprehension.md) [+M] — attached 2026-11-05 from Hildenbrand Lena; Wiley Jennifer (2025), which proposed "Three-level text representation framework (surface, text-base, situation model) framing comprehension measurement".
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

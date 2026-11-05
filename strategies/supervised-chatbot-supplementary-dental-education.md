@@ -55,6 +55,7 @@ The article recommends using AI chatbots as supplementary tools in dental educat
 - [Use AI language models as adjunctive tools in medical education, especially for test preparation or knowledge reinforcement](ai-adjunctive-tool-medical-education-test-prep.md)
 - [Use LLMs in supervised settings to generate formative question variants and structured self-assessments for surgical trainees, while guarding against knowledge miscalibration.](supervised-llm-formative-question-generation-surgical-training.md)
 - [Use advanced LLMs as assistive tools in dental education and practice, with comprehensive validation, strict regulation, and human supervision before deployment](llm-assistive-dental-education-strategy.md)
+- [Use LLMs as faculty-supervised adjuncts for automated MCQ pretesting and formative feedback](llm-faculty-supervised-mcq-pretesting-feedback.md)
 
 ## Examples
 -

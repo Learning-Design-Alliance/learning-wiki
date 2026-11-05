@@ -54,6 +54,7 @@ The article recommends the integrated, simulation-based approach as "a powerful 
 
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Use chatbot standardised patients combined with CBL to address limitations of traditional SP approaches.](chatbot-sp-cbl-strategy.md)
+- [Adopt Sim + LBL as a cost-effective, scalable approach for visually intensive, practice-oriented disciplines](adopt-sim-lbl-cost-effective-scalable.md)
 
 ## Examples
 -

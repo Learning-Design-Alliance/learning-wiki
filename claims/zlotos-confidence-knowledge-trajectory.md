@@ -62,3 +62,4 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Individual-level knowledge change follows a consistent pattern across students in both groups: large gain then smaller decline](individual-level-change-consistent-across-students.md) — a broader claim this one bears on
 - [Knowledge gains from both Jigsaw and traditional teaching persist to three months, with a small decline from post-intervention](knowledge-retention-three-months-both-methods.md) — related
 - [Management competency improved by 13.5% immediately after the lecture but declined by 6% at the two-month follow-up](management-competency-gain-declines-at-follow-up.md) — a narrower finding that bears on this claim
+- [Quarterly follow-up training does not sustain providers' HBB knowledge at 9 months](quarterly-followup-insufficient-knowledge-retention.md) — related

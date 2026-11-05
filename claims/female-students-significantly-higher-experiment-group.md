@@ -53,3 +53,4 @@ Group comparison of post-experiment questionnaire scores in the experiment versu
 - [No significant difference in listening performance between male and female students taught with suggestopedia](suggestopedia-listening-no-gender-difference.md) — related
 - [Female students in the experimental group showed significantly higher maths gains than female controls, while males did not differ](mobile-math-gains-female-students-only.md) — related
 - [Male students scored significantly higher than female students in spatial and intrapersonal intelligence](gender-differences-spatial-intrapersonal.md) — reports the opposite
+- [Female participants achieved higher diagnostic accuracy than male participants across all seven cases, with the largest gaps on the most challenging cases](female-higher-diagnostic-accuracy-oral-cases.md) — related

@@ -22,7 +22,7 @@ sources:
 # Engagement
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (17 for, 20 mixed, 1 against) · 57 studies (23 causal, 10 review, 9 quant-synthesis, 6 associational, 5 theoretical, 3 qualitative, 1 design), `q1`–`q4` · 7 of 57 report an effect size · 27 claims rest on one study
+> **Evidence** · 40 claims (19 for, 20 mixed, 1 against) · 58 studies (23 causal, 10 review, 9 quant-synthesis, 7 associational, 5 theoretical, 3 qualitative, 1 design), `q1`–`q4` · 8 of 58 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,8 @@ Claims that bear on the relationship but are not part of the model above.
 - [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+M] — randomized trials of brief belonging exercises at the transition to college, with GPA and first-year completion as outcomes; it bears on the relationship through one reason participation is low, and is used above only in one situation row.
 - [Intervention engagement (narratives consumed) showed no clear association with outcome changes](../claims/story-mine-engagement-outcome-null-association.md) [~W] — a pilot trial of a digital recovery-narrative intervention in mental health care; usage counts were not associated with outcome change. Not a learning study; it bears on the page only as a warning that usage counts are not outcomes.
 - [Engagement in deep learning activities, as measured by NSSE's DEEP Learning scale, shows no statistically significant relationship with objectively measured critical thinking at the end of the first year](../claims/deep-learning-scale-no-caap-critical-thinking-relationship.md) [~W] — attached 2026-10-07 from Reason et al. (2010), which proposed "Do not expect environmental interventions alone to produce deep-learning benefits; students must personally engage in deep learning activities"; tests this page's relationship.
+- [Full participation independently predicted higher final scores (B=41.55, β=0.60, P<.001)](../claims/full-participation-predicts-final-scores.md) [+W] — attached 2026-11-05 from Alicia S et al. (2025), which proposed "Design voluntary online courses to encourage autonomous behaviors through clear expectation setting, periodic interactive prompts, and structured review opportunities".
+- [In-class engagement (responses to periodic prompts) independently predicted higher final scores (B=4.79 per response, β=0.70, P<.001)](../claims/in-class-engagement-predicts-final-scores.md) [+W] — attached 2026-11-05 from Alicia S et al. (2025), which proposed "Design voluntary online courses to encourage autonomous behaviors through clear expectation setting, periodic interactive prompts, and structured review opportunities".
 
 ## Objective and learner-valued goal
 

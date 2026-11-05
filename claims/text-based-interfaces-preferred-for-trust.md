@@ -51,3 +51,4 @@ The review reports two interface-design studies in healthcare contexts (average 
 - [Embodied teaching actions are spatially accurate across models, but temporal action–speech alignment remains more variable](lecturaagents-taq-spatial-strong-temporal-variable.md) — related
 - [The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters](autotutor-content-matters-not-talking-head.md) — related
 - [LLM capabilities enabled family education systems across conversational, embodied, and spatial interface forms to generate support from the context of an unfolding interaction](llm-generated-support-unfolding-interaction.md) — related
+- [Teacher reports on embodying mindfulness online are mixed, with most reporting similar or greater embodiment](online-mbp-embodiment-mixed.md) — related

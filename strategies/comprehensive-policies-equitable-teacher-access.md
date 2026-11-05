@@ -52,6 +52,7 @@ The report recommends that federal, state, and local policies "must take a compr
 - [Federal policy should invest in high-quality professional learning for educators, prioritizing preparation and professional development designs including teachers teaching teachers](federal-invest-educator-professional-learning.md)
 - [Five policy priorities to address Michigan's inequitable teacher shortage: fair funding, data systems, career attractiveness, administrator supports, and professional development](five-priorities-michigan-teacher-shortage-policy.md)
 - [Federal policy levers for an equitable pathways system: funding, mandates, certification, research, and data systems](federal-pathways-policy-levers.md)
+- [Prioritize consistent staff training, equitable resource access, and students' self-confidence with technology in PE](staff-training-equal-access-self-esteem-pe-technology.md)
 
 ## Examples
 -

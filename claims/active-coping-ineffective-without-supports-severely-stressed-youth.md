@@ -9,7 +9,6 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-03
 sources:
   - id: grant-2014
     resource: "https://doi.org/10.1080/10852352.2014.916586"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Active coping benefits severely stressed youth only when at least one supportive adult relationship and one connection to a protective setting are in place. [→ Grant 2014](#grant-2014)

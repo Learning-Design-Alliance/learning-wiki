@@ -78,3 +78,5 @@ The review reports Hwang et al.'s comparison of a virtual patient-based social l
 - [Learner self-reported improvement after AI-generated virtual patient training is sometimes discordant with observed or cohort-comparison performance](ai-virtual-patient-self-report-performance-discordance.md) — reports the opposite
 - [Repeated exposure to AI-VPs is associated with improved perceived self-efficacy and more positive attitudes toward communication training](ai-vp-self-efficacy-attitudes.md) — related
 - [VP simulation training increases clinical self-efficacy but not more than video training](vp-simulation-increases-clinical-self-efficacy.md) — reports the opposite
+- [VP training adds no measurable benefit over standard training for general self-efficacy in nursing students](vp-no-added-effect-general-self-efficacy.md) — reports the opposite
+- [Adding a virtual patient simulation to standard nursing training produces significantly greater improvement in confidence in asking about IPV than standard training alone](vp-simulation-greater-confidence-asking-about-ipv.md) — a narrower finding that bears on this claim

@@ -53,3 +53,4 @@ Thematic analysis of open-ended responses from 97 students (response rate 89.8%)
 - [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) — related
 - [Nursing students perceive simulation-based BLS scenarios as realistic and clinically relevant, which enhances their understanding of BLS procedures and readiness for emergencies](simulation-bls-perceived-realism-clinical-relevance.md) — related
 - [Medical students most valued OSCEai's on-demand data, self-paced learning, and realistic patient interactions](osceai-valued-features-survey.md) — related
+- [Participants perceived the VR camera navigation test as realistic and reflective of their true clinical operational level](participants-perceive-vr-test-realistic-reflective.md) — a narrower finding that bears on this claim

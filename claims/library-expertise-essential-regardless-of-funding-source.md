@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 recheck_by: 2031
 sources:
   - id: muellenbach-j-2026
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In interviews with 13 directors of libraries serving U.S. colleges of osteopathic medicine (from 35 survey respondents), libraries were described as consistently contributing expertise in licensing, vendor relations, and usage analytics reporting, and as developing student-facing supports such as LibGuides and board prep boot camps, which participants credited with raising student awareness and engagement; those outcomes were not measured. [→ Muellenbach J 2026](#muellenbach-j-2026)

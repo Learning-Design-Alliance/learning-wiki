@@ -8,7 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: gaze-dwell
     title: gaze-dwell
@@ -22,7 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · no dated study recorded · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · no dated study recorded · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across topics, code drew a median 47% of gaze dwell time, memory 34%, and metaphor 9%, with memory engagement peaking in linked-list tasks (47% median) and metaphor in loop tasks (19% median). [→ gaze-dwell](#gaze-dwell)

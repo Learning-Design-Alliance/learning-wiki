@@ -57,3 +57,4 @@ Descriptive bibliometric analysis of annual publication and citation counts from
 - Research applying learning analytics to inquiry-based learning grew steadily from a first 2012 conference paper, peaking in 2019 with seven publications, with most outputs as journal articles — related
 - Publication output on gamification peaked in 2023 with 57 articles and dropped 63% in 2024 — related
 - Publication on intercultural competence and digital technologies grew sustainedly since 2019, peaking in 2021–2023 — related
+- [Annual student participation in simulation training grew from about 1,200 to more than 2,800 students (a 133% increase) between 2020 and 2024](simulation-participation-growth-133-percent.md) — related

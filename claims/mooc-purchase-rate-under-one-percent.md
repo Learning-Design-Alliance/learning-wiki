@@ -50,3 +50,4 @@ Descriptive analysis of the study's dataset: 23 runs over 5 courses with 245,255
 - [The run number (delivery iteration) is among the most representative features for predicting MOOC purchasing behaviour](run-number-top-purchase-predictor.md) — related
 - [A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely](mooc-completion-four-percent.md) — related
 - [The special issue reports a deep learning approach to predicting student purchasing behaviour and drop-out in MOOCs](deep-learning-predicts-mooc-dropout-purchasing.md) — related
+- [Only 23.1% of registrants attended all four sessions, with a 26.6% dropout rate](low-completion-voluntary-course.md) — a narrower finding that bears on this claim

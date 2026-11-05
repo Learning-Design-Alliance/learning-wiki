@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: alonso-carracedo-2026
     resource: "https://doi.org/10.48550/arxiv.2607.02432"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The three human evaluators showed near-perfect association and excellent absolute agreement (Pearson r = 0.949; ICC(2,1) = 0.949) with negligible error and bias. [→ Alonso-Carracedo 2026](#alonso-carracedo-2026)

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2018
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: cody-t-havard-skylar-s-workman-2018
     resource: "https://eric.ed.gov/?id=EJ1200586"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a quasi-experiment, participants exposed to and learning about rivalry through comic strips or cartoons reported significantly different perceptions of their rival teams than controls, with SSIS scores as covariate. [→ Cody T. Havard & Skylar S. Workman 2018](#cody-t-havard-skylar-s-workman-2018)

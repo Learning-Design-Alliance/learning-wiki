@@ -56,3 +56,4 @@ Systematic review of 20 studies (narrative synthesis) of simulation-based patien
 - [VR clinical simulation produced higher anxiety than face-to-face manikin simulation in maternal-newborn nursing](vr-simulation-higher-anxiety-than-face-to-face.md) — a narrower finding that bears on this claim
 - [Personalised video-assisted feedback improves selected simulation-based learning subdimensions: nursing process, patient safety and reflective behaviour](personalised-video-feedback-improves-nursing-process-safety-reflection.md) — related
 - [Nursing students report higher perceived patient safety competencies in clinical settings than in academic settings, with small effect sizes](nursing-students-higher-safety-competencies-clinical-than-academic.md) — related
+- [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — related

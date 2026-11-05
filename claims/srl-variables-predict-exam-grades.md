@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: wong-2026
     resource: "https://doi.org/10.1007/s11423-026-10586-2"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a multiple linear regression (266 observations, adjusted R2 = 0.319), self-efficacy and time-management were significantly and positively associated with final grades, while self-evaluation was a significant but inverse predictor. [→ Wong 2026](#wong-2026)

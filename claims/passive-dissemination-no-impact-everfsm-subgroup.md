@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: strong
 newest_evidence: 2017
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: lord-2017
     resource: "https://www.isrctn.com/ISRCTN84508118"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i0` negligible
-> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i0` For everFSM pupils, effect sizes versus control ranged from -0.01 to 0.00 with confidence intervals spanning zero. [→ Lord 2017](#lord-2017)

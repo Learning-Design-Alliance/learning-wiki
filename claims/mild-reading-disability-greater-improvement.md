@@ -51,3 +51,4 @@ Subgroup analysis of reading performance by severity of reading disability acros
 - [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related
 - [Children with dyslexia benefit more from reading interventions than typically developing children (g = 0.87 vs 0.49)](dyslexia-benefit-more-than-typical-children.md) — related
 - [Phonics instruction is the only treatment approach whose effectiveness on reading performance in children and adolescents with reading disabilities is statistically confirmed](phonics-instruction-only-confirmed-reading-treatment.md) — related
+- [Disability severity affects screening performance mainly in vocabulary (test 2); mild intellectual disability resembles other SEN](disability-severity-only-test2-significant.md) — related

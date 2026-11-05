@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: fraj-andrés-e-2018
     resource: "https://doi.org/10.1016/j.compedu.2017.12.006"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a cross-sectional survey, relative advantages were positively associated with attitude but not directly with satisfaction, and attitude statistically fully mediated between relative advantages and satisfaction and between enjoyment and satisfaction. [→ Fraj-Andrés E. 2018](#fraj-andres-e-2018)

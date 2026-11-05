@@ -49,3 +49,4 @@ Review of 13 studies measuring performance time at posttest evaluation, with "th
 - [A moulded rubber TEP box trainer programme produced higher composite operative scores (P = 0.01) and suggested transfer of skills to real operations](box-trainer-tep-transfer-operative-practice.md) — a narrower finding that bears on this claim
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — a broader claim this one bears on
 - [Virtual reality training reduces intraoperative error counts compared with no additional training in laparoscopic cholecystectomy](vrt-reduces-intraoperative-errors-versus-nat.md) — related
+- [Augmented reality and 3D-printing simulation models improve surgical skill metrics and are cost-effective for resident training](ar-3d-printing-simulation-urology-resident-training.md) — a narrower finding that bears on this claim

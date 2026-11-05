@@ -53,3 +53,4 @@ Meta-analysis pooling six RCTs on reading comprehension. The review reports "no 
 - [Short-duration (<24 weeks) interventions positively impact reading comprehension (SMD = 0.24)](short-duration-interventions-improve-reading-comprehension.md) — reports the opposite
 - [Classroom-based physical activity improves academic achievement when progress monitoring tools are the outcome measure (pooled SMD = 1.03)](academic-achievement-improves-progress-monitoring-tools.md) — related
 - [Classroom-based physical activity interventions did not affect children's overall physical activity levels in meta-analysis (SMD = 0.40, CI crossing zero)](classroom-physical-activity-no-effect-overall-pa.md) — related
+- [Physical activity level is negatively correlated with absenteeism and with academic warnings](physical-activity-negative-correlation-absenteeism-warnings.md) — related

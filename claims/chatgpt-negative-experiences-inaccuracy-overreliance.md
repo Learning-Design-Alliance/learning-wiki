@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-27
+source_checked: 2026-11-05
 sources:
   - id: annamalai-n-2026
     title: Annamalai N 2026
@@ -29,7 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-27 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants encountered inappropriate responses, inaccurate references, incorrect results, and illogical answers, reducing confidence in the tool and requiring extra verification effort. [→ Annamalai N 2026](#annamalai-n-2026)
@@ -132,3 +132,4 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [Professional accuracy showed the smallest improvement among the five dimensions, with some students scoring lower due to uncritical adoption of AI-generated content.](professional-accuracy-gains-smallest-among-dimensions.md) — related
 - [LLM-based virtual patients predominantly lack emotional depth or expressions of concern, lowering Personal dimension ratings](lack-emotional-depth-lowers-personal-ratings.md) — related
 - [Qualitative feedback raised concerns about perceived lack of experience for certain tasks, such as complex endodontic treatment and communication skills](qualitative-concerns-experience-epas.md) — related
+- [Students’ reflections focused predominantly on challenges and areas for growth rather than perceived competence](reflections-challenges-outweigh-perceived-competence.md) — related

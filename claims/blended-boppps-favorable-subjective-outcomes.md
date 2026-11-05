@@ -73,3 +73,4 @@ Meta-analysis pooling questionnaire surveys from 16 studies (2169 students) for 
 - [Students attributed improvements in self-directed learning and communication skills to blended teaching](blended-self-reported-autonomous-learning-gains.md) — related
 - [First-year medical students reacted positively to the e-modules and preferred them as a supplement to, not a replacement for, traditional teaching](students-prefer-e-modules-as-supplement.md) — related
 - [Students in the WeChat-based PBL group reported more favorable perceptions of motivation, knowledge acquisition, communication, self-learning, clinical thinking, and problem-solving than traditional-teaching students](wechat-pbl-student-perceptions-favorable.md) — related
+- [Sim + LBL students reported greater satisfaction, perceived learning outcomes, and core-competency gains than LBL students](sim-lbl-greater-satisfaction-engagement-competency.md) — related

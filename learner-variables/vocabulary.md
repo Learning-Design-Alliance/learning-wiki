@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 223 claims (166 show a difference, 28 mixed, 29 no difference) · 148 studies (88 causal, 29 associational, 15 quant-synthesis, 11 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 32 of 148 report an effect size · 220 claims rest on one study
+> **Evidence** · 226 claims (169 show a difference, 28 mixed, 29 no difference) · 149 studies (88 causal, 30 associational, 15 quant-synthesis, 11 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 149 report an effect size · 223 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -264,6 +264,9 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [The personalized teaching intervention was associated with significantly greater vocabulary breadth gains than conventional instruction (d = 0.93).](../claims/personalized-teaching-vocabulary-breadth-gains.md) [+M] — measured as an outcome of the instruction studied
 - [The personalized teaching intervention was associated with significantly greater vocabulary depth gains than conventional instruction (d = 0.69).](../claims/personalized-teaching-vocabulary-depth-gains.md) [+M] — measured as an outcome of the instruction studied
 - [Vocabulary breadth and depth were associated with different psychological-strategic predictor configurations: breadth with self-efficacy and monitoring, depth with intrinsic motivation and evaluation.](../claims/divergent-predictors-vocabulary-breadth-depth.md) [+W] — measured as an outcome of the instruction studied
+- [L1E undergraduates write faster, produce longer and higher-quality essays than EAL and EFL peers, and vocabulary underpins the essay-quality difference](../claims/l1e-writing-advantages-vocabulary-essay-quality.md) [+M] — learners who differ on it differ in outcomes
+- [Top-quartile time-restricted reading comprehension, essay quality, reading speed, writing speed and vocabulary are each associated with top academic marks](../claims/literacy-quartile-association-academic-marks.md) [+M] — learners who differ on it differ in outcomes
+- [Vocabulary is the covariate uniquely associated with reading speed and time-restricted reading comprehension after controlling for cognitive skills and parental education](../claims/vocabulary-unique-predictor-reading-speed-comprehension.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

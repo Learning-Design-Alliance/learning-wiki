@@ -53,3 +53,4 @@ This is the authors' interpretation in the Discussion, not a tested result: the 
 - [Trainees show significant post-training improvements in self-assessed laparoscopic skills including hand–eye coordination, bimanual dexterity, energy device use and suturing](post-training-self-assessed-laparoscopic-skill-improvements.md) — related
 - [Trained participants show safer tissue handling, more consistent vessel exposure, and improved stapler positioning in qualitative blinded assessment](qualitative-safer-tissue-handling-trained-group.md) — related
 - [Correlations between simulator task performance and intraoperative GEARS domains vary by task, and one study found no correlation between dVSS scores and intraoperative GEARS scores](task-specific-correlations-and-null-mills-study.md) — related
+- [GEARS domain and surgical-step scores were similar across experience groups for both procedures, with all p > 0.05](gears-domain-step-scores-similar-groups.md) — related

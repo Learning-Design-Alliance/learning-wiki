@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 122 claims (88 for, 31 mixed, 3 against) · 83 studies (30 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 20 of 83 report an effect size · 116 claims rest on one study
+> **Evidence** · 123 claims (89 for, 31 mixed, 3 against) · 84 studies (31 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 20 of 84 report an effect size · 117 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -178,6 +178,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [In bilingual Tai Chi instruction, teacher support has significant positive direct effects on basic psychological needs, learning motivation, and psychological well-being](../claims/teacher-support-direct-effects-embodied-bilingual.md) [+W] — attached 2026-11-05 from Li Lan et al. (2026), which proposed "Dual-channel chain mediation model integrating SDT and Embodied Cognition Theory"; tests this page's relationship.
 - [Freedom to choose cases supported residents' sense of autonomy and motivation, while mandatory learning objectives decreased motivation for some](../claims/autonomy-case-choice-vr-motivation.md) [+W] — attached 2026-11-05 from Mosling Marte et al. (2026), which proposed "Self-Determination Theory applied post hoc to interpret residents' motivation for VR simulation"; tests this page's relationship.
 - [Final-year rehabilitation students in a Chinese-foreign cooperative program report higher self-determined academic motivation than peers in a domestic program at the same college](../claims/cooperative-program-higher-sdi-rehabilitation-students.md) [+W] — attached 2026-11-05 from Hu Huiling; Luo Hongmei (2026), which proposed "Self-Determination Theory as the framework interpreting academic motivation in rehabilitation education".
+- [Intrinsic motivation was associated with full participation (χ21=4.03; P=.045)](../claims/intrinsic-motivation-full-participation.md) [+W] — attached 2026-11-05 from Alicia S et al. (2025), which proposed "Behavioral pathway of learner autonomy: autonomous motivation → sustained participation → active content-aligned engagement → higher performance"; tests this page's relationship.
 
 ## The evidence by question
 

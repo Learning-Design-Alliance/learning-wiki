@@ -54,3 +54,4 @@ Randomized controlled trial of 20 newly recruited pharmacists (10 per group) str
 - [Before standardized training, the CPOAL and control groups showed no significant differences on any of the six adaptability dimensions](no-baseline-differences-between-cpoal-and-control.md) — related
 - [After standardized training, the CPOAL group showed a significant decrease in insight and independent thinking while the control group showed a significant decrease in resilience](post-training-within-group-score-decreases.md) — related
 - [After standardized training, the CPOAL group earned higher total expert-rated clinical soft skills scores than controls, with significant differences in adaptability, comprehensive analytical skills, and clinical reasoning](cpoal-raises-expert-rated-soft-skills.md) — related
+- [Before training, the two intern groups showed no statistically significant differences in any assessment items](pal-scenario-baseline-equivalence-interns.md) — related

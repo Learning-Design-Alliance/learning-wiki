@@ -74,3 +74,4 @@ Meta-analysis of five RCTs on GOALS domain scores, 47 participants randomized to
 - [All five GOALS subdomains (depth perception, bimanual dexterity, efficiency, tissue handling, autonomy) were significantly improved after structured VRST](structured-vrst-improves-all-goals-subdomains.md) — reports the opposite
 - [Depth perception is the GEARS subdomain that significantly improves with simulator training, while bimanual dexterity and efficiency show non-significant positive trends](depth-perception-significant-gains-simulator-training.md) — reports the opposite
 - [The K technique exercise stimulates five of six GEARS skill domains](k-technique-stimulates-five-gears-domains.md) — related
+- [GEARS domain and surgical-step scores were similar across experience groups for both procedures, with all p > 0.05](gears-domain-step-scores-similar-groups.md) — related

@@ -67,3 +67,4 @@ SUS item-level results from the post-intervention questionnaire in the same feas
 ## Related Claims
 - [AR participants rated the remote AR system usable, with an average SUS score of 73.8](remote-ar-sus-usability-73-8.md) — related
 - [Remote AR headset use imposes minimal reported ergonomic burden and no adverse events in neonatal resuscitation simulation](remote-ar-simulation-ergonomics-adverse-events.md) — related
+- [Permanent staff rated the quest management application positively, with 91% praising autonomous content modification without technical staff](quest-editor-autonomous-content-update-accepted.md) — related

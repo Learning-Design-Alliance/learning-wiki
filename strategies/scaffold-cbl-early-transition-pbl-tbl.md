@@ -68,6 +68,7 @@ The authors recommend a "scaffolded integration of these methods": utilizing "Ca
 - [Reform TDI residency training with blended learning, simulation-based training, and competency-based assessment](blended-simulation-competency-tdi-training-reform.md)
 - [Structured case-based or simulation-based exercises that vary clinical modifiers and require explicit justification of choices](case-based-exercises-varying-clinical-modifiers.md)
 - [Integrate structured reflective sessions into clinical curricula, tailored to students' developmental stage](integrate-structured-reflection-clinical-curricula.md)
+- [Structure high-gap RT competencies into progressive beginner, intermediate, and advanced learning phases](progressive-learning-phases-high-gap-competencies.md)
 
 ## Examples
 -

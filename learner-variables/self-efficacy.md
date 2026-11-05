@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 290 claims (219 show a difference, 40 mixed, 31 no difference) · 231 studies (76 causal, 73 associational, 32 review, 22 qualitative, 10 quant-synthesis, 10 design, 7 theoretical), `q1`–`q4` · 48 of 231 report an effect size · 286 claims rest on one study
+> **Evidence** · 291 claims (220 show a difference, 40 mixed, 31 no difference) · 232 studies (77 causal, 73 associational, 32 review, 22 qualitative, 10 quant-synthesis, 10 design, 7 theoretical), `q1`–`q4` · 48 of 232 report an effect size · 287 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -321,6 +321,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Reading self-efficacy matters more for girls' reading achievement than for boys'](../claims/reading-self-efficacy-more-important-girls.md) [~M] — an instructional effect differs with it
 - [Self-efficacy moderation effects are absent for boys in both math and reading](../claims/self-efficacy-moderation-null-boys.md) [-M] — an instructional effect differs with it
 - [Trainees who received negative feedback reported lower perceived competence than those receiving positive or no feedback](../claims/negative-feedback-lower-perceived-competence-imi.md) [+M] — measured as an outcome of the instruction studied
+- [In one uncontrolled pre-post study, residents’ self-rated medicolegal competence rose significantly from pre-test to post-test after a short structured forensic medicine course, across all measured propositions](../claims/forensic-course-increases-perceived-competence.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

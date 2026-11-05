@@ -51,3 +51,4 @@ Post-exam Simulation Sickness Questionnaire administered after the mock bellring
 - [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — related
 - [VR participants report more technical issues and cybersickness symptoms than slideshow participants](vr-technical-issues-cybersickness.md) — related
 - [Motion sickness after the iVR experience was negligible for most participants, but a minority felt significant discomfort](ivr-motion-sickness-negligible-minority-discomfort.md) — related
+- [Cognitive load and cybersickness correlate negatively with sense of relevance and confidence in VR anatomy learning, though cybersickness was rare in this cohort](vr-cognitive-load-cybersickness-negative-correlations.md) — related

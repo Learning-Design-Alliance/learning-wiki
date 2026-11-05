@@ -9,7 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2021
-source_checked: 2026-10-27
+source_checked: 2026-11-05
 sources:
   - id: pammer-schindler-2021
     resource: "https://doi.org/10.1007/s40593-021-00259-x"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-27 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite hashed anonymized CSV export, a majority of participants in Cases 1 and 2 decided against handing activity-log data to researchers. [→ Pammer-Schindler 2021](#pammer-schindler-2021)

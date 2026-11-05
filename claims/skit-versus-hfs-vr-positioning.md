@@ -49,3 +49,4 @@ Authors' interpretive discussion (Discussion section 4.4), not a tested result: 
 - [Effects of high-fidelity simulation on teamwork performance are mixed: one RCT found improved teamwork behaviors while three found no significant difference](hf-simulation-teamwork-mixed.md) — related
 - [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](hf-simulation-null-secondary-outcomes.md) — related
 - [The review reports that high-fidelity simulation outperformed case-based discussion for clinical reasoning and leadership in paediatric emergencies](hfs-superior-case-based-discussion-reasoning.md) — related
+- [Non-technical competencies such as communication, teamwork, and decision-making are frequently neglected in RT competency assessment](non-technical-competencies-neglected-rt-assessment.md) — related

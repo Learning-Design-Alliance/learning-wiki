@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: adesoji-2015
     resource: "https://eric.ed.gov/?id=EJ1177065"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Case-based learning (adjusted mean 9.49) significantly outperformed the control group (7.50), and the 7E learning cycle group (8.40) also significantly outperformed the control group, per Scheffé post-hoc tests at p < .05. [→ Adesoji 2015](#adesoji-2015)

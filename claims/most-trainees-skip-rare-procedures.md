@@ -50,3 +50,4 @@ Per-procedure analysis of the 52-trainee cohort (Table 2); the article reports "
 - [Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)](vp-traditional-skills-advantage.md) — related
 - [AccuTouch VR simulator training improved live fibreoptic intubation performance in inexperienced paediatric residents, reducing time to intubation from 5.15 to 0.88 minutes](accutouch-training-improves-live-intubation-time.md) — related
 - [Invasive interventions such as intubation, cardiopulmonary resuscitation, or intraosseous access were rarely needed in prehospital pediatric emergencies](invasive-interventions-rare-in-prehospital-pediatric-emergencies.md) — related
+- [Most EM residency programs use simulation to fulfill rare ACGME-mandated procedure requirements while routine procedures are simulated in fewer than 20% of cases](simulation-rare-procedure-requirements-em.md) — related

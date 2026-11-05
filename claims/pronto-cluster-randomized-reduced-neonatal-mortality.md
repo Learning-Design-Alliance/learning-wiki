@@ -50,3 +50,4 @@ The review reports, citing Walker et al., a cluster-randomized trial in Kenya an
 - [The review suggests current observational evidence may overestimate simulation's impact, since more rigorous cluster-RCTs showed only time-limited mortality reductions or nonsignificant results](observational-evidence-may-overestimate-simulation-impact.md) — related
 - [Prior evidence cited by the article shows simulation training improved shoulder dystocia delivery outcomes and reduced neonatal complications](prior-evidence-simulation-improves-outcomes.md) — related
 - [A retrospective chart review identified 1,096 perinatal-loss diagnoses at the hospital over roughly three years](1096-perinatal-loss-diagnoses-2021-2024.md) — related
+- [Having an HBB trained provider at birth is not significantly associated with lower in-facility neonatal mortality](trained-provider-no-significant-mortality-reduction.md) — related

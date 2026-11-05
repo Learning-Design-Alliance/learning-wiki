@@ -50,3 +50,4 @@ Within-subject quasi-experimental comparison of mid-stake end-of-block exam scor
 - [A course section that reviewed with Kahoot no-stakes quizzes differed significantly in high-stakes multiple-choice exam scores from a section that reviewed with a study guide and lecture, a difference the authors report as improvement without printing group means](kahoot-testing-effect-higher-exam-scores.md) — related
 - [Simulation training improves cardiac auscultation skills but shows no effect on respiratory auscultation skills](sbme-cardiac-not-respiratory-auscultation.md) — related
 - [Students reported favorable perceptions of Kahoot! gamification across reaction, acceptance, perceived learning, behavior change, and collaboration](student-favorable-perceptions-kahoot.md) — related
+- [In the experimental cohort, students who participated in Kahoot scored 0.54 points higher on the final exam than non-participants](kahoot-participation-higher-exam-score.md) — related

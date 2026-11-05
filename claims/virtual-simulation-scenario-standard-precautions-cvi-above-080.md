@@ -56,3 +56,5 @@ Expert validation study using a researcher-developed Likert-type questionnaire o
 - [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](vega-content-validity-cvi.md) — related
 - [Document analysis found learning materials adequate and aligned with SRL principles and learning outcomes](document-analysis-materials-adequate-srl.md) — related
 - [Culturally adapted virtual patients achieve acceptable content validity for assessing history-taking and communication skills](vp-acceptable-content-validity.md) — related
+- [Expert content validation revised the scenario-in-action checklist domain from 16 to 14 items and produced a final 28-item checklist](cvi-validation-28-item-simulation-checklist.md) — related
+- [Four items failed to reach consensus in round one and were reformulated or excluded](iafee-ecs-round-one-nonconsensus-items-excluded.md) — related

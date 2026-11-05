@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 recheck_by: 2027
 sources:
   - id: huang-pin-hsiang-2024
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2024 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i2` Verbal reasoning (0.704) and quantitative reasoning (0.643) had the largest subtest effect sizes for early program academic results. [→ Huang Pin-Hsiang 2024](#huang-pin-hsiang-2024)

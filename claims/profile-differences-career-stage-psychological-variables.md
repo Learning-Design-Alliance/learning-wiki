@@ -63,3 +63,4 @@ Univariable comparisons across the three latent profiles in the 605-nurse survey
 - [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related
 - [Student leadership experience and number of communication skills training sessions, but not other demographics, associate with communication competence subscales](leadership-and-training-associated-communication-competence.md) — related
 - [Core competencies differ by place of birth, reason for choosing nursing, and employment intention, with effect sizes near moderate](competency-differences-birthplace-major-reason-employment-intention.md) — related
+- [The authors report no direct correlation between older age or greater professional experience and correct diagnosis, with accurate diagnoses evenly distributed across medical students and nurses](no-background-correlation-with-correct-diagnosis.md) — related

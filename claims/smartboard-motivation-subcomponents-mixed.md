@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: mixed
 newest_evidence: 2017
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: ahmad-2017
     resource: "https://doi.org/10.7575/aiac.alls.v.8n.3p.172"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-treatment differences favoured the experimental group significantly on overall motivation (p=.001), integrative orientation (p=.041), instrumental orientation (p=.02) and linguistic self-confidence (p=.038). [→ Ahmad 2017](#ahmad-2017)

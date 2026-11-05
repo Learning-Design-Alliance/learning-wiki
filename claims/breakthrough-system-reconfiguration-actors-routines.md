@@ -58,3 +58,4 @@ Conceptual definition of the system-reconfiguration factor. The article gives co
 - [Substantial improvement in outcomes: breakthroughs change learning or life trajectories rather than improving incrementally](breakthrough-substantial-outcome-improvement-trajectories.md) — related
 - [Change is a specialized instance of the general communication model](change-as-specialized-communication-instance.md) — related
 - [OPRA systems enable new forms of instructor leverage and distributed cognition beyond paper-and-pencil peer assessment](opra-new-capabilities-beyond-paper-peer-assessment.md) — a narrower finding that bears on this claim
+- [A shared-resource consortium with three partner institutions reduced per-student simulation costs by approximately 28% while expanding access to rural teaching sites](shared-resource-consortium-cost-reduction.md) — related

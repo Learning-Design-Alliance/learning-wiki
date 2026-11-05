@@ -60,3 +60,4 @@ Observational pilot study of the Class of 2016 (n=31): one-tailed t-tests compar
 - [Big Five personality traits show no significant association with dental students' radiographic diagnostic accuracy](personality-traits-no-effect-radiographic-accuracy.md) — related
 - [E-learning modules improved dental students' identification of radiographic anatomical landmarks and positioning errors on DPRs](landmark-and-error-identification-improvement.md) — related
 - [Dental students' pathology diagnosis on DPRs rose from pre-test to post-test after e-learning modules in one uncontrolled pre-post study, though complex odontoma remained challenging for some](pathology-diagnosis-improvement-dpr.md) — related
+- [Students most valued MCAT's large radiograph pool, fast simple operation, immediate feedback, and linking of theoretical and practical knowledge](mcat-valued-design-features.md) — related

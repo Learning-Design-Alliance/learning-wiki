@@ -65,6 +65,7 @@ Platform dependence adds extraneous load and friction that is unrelated to learn
 - [Require one common school-wide learning management system for any program using remote learning](common-lms-requirement-remote-programs.md)
 - [Design m-learning apps for offline access, cross-device synchronization, context-awareness, personalized paths, and responsive support services](mlearning-app-design-strategies-quality-acceptance.md)
 - [Address technology access disparities with offline or low-tech alternatives when implementing gamified learning](offline-low-tech-alternatives-for-technology-access-disparities.md)
+- [Deploy gamified onboarding simulations via WebGL in a standard web browser rather than VR or installed software](webgl-browser-deployment-strategy.md)
 
 ## Examples
 - **Open textbook platforms such as [OpenStax](https://openstax.org)** — textbooks readable as web pages, downloadable PDFs, and e-book formats on any device, with no account or specific software required.

@@ -59,6 +59,7 @@ The article recommends a staged approach to simulation training for paediatric s
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Design structured, competency-based, stage-specific transition programmes for new nurse managers with mentoring by experienced managers](structured-stage-specific-nurse-manager-transition-programmes.md)
 - [Integrate high-fidelity body donor models with low-fidelity simulators across the training progression](integrate-high-and-low-fidelity-simulation.md)
+- [Structure high-gap RT competencies into progressive beginner, intermediate, and advanced learning phases](progressive-learning-phases-high-gap-competencies.md)
 
 ## Examples
 -

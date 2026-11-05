@@ -47,3 +47,4 @@ In the study's parallel randomized-controlled trial of an interprofessional coho
 ## Related Claims
 - [Self-efficacy gains from directed observer participation matched those of active participation in bowel preparation counselling training](observer-role-self-efficacy-gains-equivalent-rct.md) — related
 - [Participants and faculty responded positively to the observer-inclusive simulation activity for bowel preparation counselling](observer-role-positive-perceptions-bowel-prep.md) — related
+- [Observing a stroke-care simulation produces knowledge gains equal to acting in it, with no statistical difference between roles](observer-role-equal-knowledge-gains-simulation.md) — related

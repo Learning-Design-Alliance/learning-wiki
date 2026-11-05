@@ -72,3 +72,5 @@ Simple effects analysis within the same trial's repeated-measures ANOVA: at post
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on
 - [GP residents showed statistically significant pre-post improvements in history-taking (Cohen's d = 1.11) and clinical reasoning (Cohen's d = 1.32) after a 12-week VP training program](vp-training-improves-history-taking-clinical-reasoning.md) — related
 - [In an RCT reviewed by this study, an LLM-based digital patient improved ophthalmology medical history-taking skills relative to control](llm-digital-patient-improves-history-taking-rct.md) — related
+- [VSP training produced significantly greater improvement in medical history-taking ability than traditional teaching](cl-vsp-greater-history-taking-gains.md) — related
+- [VSP training produced significantly greater improvement in total virtual clinical reasoning training system test scores than traditional teaching](cl-vsp-greater-vsp-system-total-score-gains.md) — related

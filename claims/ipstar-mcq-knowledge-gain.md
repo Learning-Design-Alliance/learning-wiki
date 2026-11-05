@@ -52,3 +52,4 @@ One-group pre-post study of 72 third-year MBBS and BSc Nursing students; knowled
 - [Most published ISBTT programs are grounded in crisis resource management and related frameworks rather than interprofessional education frameworks](isbtt-programs-grounded-in-crm-not-ipe.md) — related
 - [Quasi-experimental Korean simulation-based IPE studies show mixed effectiveness: positive effects in Jeon (2022), environment-dependent effects in Jung et al. (2020), and null changes in Park and Park (2021)](korean-sim-ipe-quasi-experimental-mixed-effectiveness.md) — related
 - [RCDP training yields larger pre-to-post improvement effect sizes than TTM for theoretical and practical air enema scores](rcdp-larger-prepost-effect-sizes.md) — related
+- [Both SWSP and RCDP significantly improve nursing students' knowledge of initial stroke care, with no difference between the two strategies](swsp-rcdp-equal-knowledge-gains-stroke.md) — related

@@ -52,6 +52,7 @@ The article recommends combining validated self-report instruments with performa
 - [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
 - [Design AI-supported programming courses with critique-the-AI phases, planned fading, and verification journals](critique-ai-phases-planned-fading-verification-journals.md)
 - [Sequenced skillfulness assessment and ethics sign-off across the training pathway](pat-sequenced-assessment-ethics-pathway.md)
+- [Apply the instrument from the beginning of SCI as continuous diagnostic assessment rather than only for final grading](iafee-ecs-continuous-use-from-sci-start.md)
 
 ## Examples
 -

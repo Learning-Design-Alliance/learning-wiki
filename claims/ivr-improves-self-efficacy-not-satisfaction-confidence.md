@@ -69,3 +69,4 @@ Random-effects meta-analyses of 9 studies for satisfaction and 8 for confidence 
 - [The effect of high-fidelity simulation on practising nurses' self-confidence is inconclusive, varying by study design](hfs-self-confidence-inconclusive-design-dependent.md) — related
 - [IVR knowledge benefits appear immediately post-intervention but attenuate at later follow-up](ivr-knowledge-gains-attenuate-at-follow-up.md) — related
 - [Nursing home managers report significantly higher palliative care self-efficacy than residential care home managers](nursing-vs-residential-manager-confidence.md) — related
+- [VP training adds no measurable benefit over standard training for general self-efficacy in nursing students](vp-no-added-effect-general-self-efficacy.md) — related

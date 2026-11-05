@@ -50,3 +50,4 @@ The review's discussion states that "the quality of physical examination teachin
 - [Most studies comparing physicians and non-physicians as physical examination teachers found no significant differences in teaching quality](no-significant-differences-physician-non-physician-pe-teaching.md) — related
 - [CPS mentor teachers were more qualified than other teachers, but their qualifications were generally unrelated to student teachers' preparedness or first-year performance](cps-mentor-teachers-more-qualified-qualifications-unrelated-to-outcomes.md) — reports the opposite
 - [Feedback provision is emphasized more than receiving feedback in P2P-teacher qualification measures](feedback-provision-over-receiving-p2p.md) — related
+- [Qualification program content covers organizational information, learning objectives, and didactic methods, with examiner training offered for the practical year](qualification-content-organization-learning-objectives-didactics.md) — related

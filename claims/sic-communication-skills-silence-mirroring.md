@@ -52,3 +52,4 @@ Thematic synthesis of included articles under the conversation-resources theme: 
 - [Effective use of the Serious Illness Conversation Guide is itself a competence requiring balance between structure and flexibility](sicg-use-structure-flexibility-competence.md) — related
 - [Demonstrating compassion in serious illness conversations is more challenging via telehealth because the whole person cannot be seen](sic-compassion-telehealth-challenge.md) — related
 - [Communication skills training improves clinician communication behaviors and confidence in goals-of-care conversations, with effects varying by skill and measure](gopc-training-improves-clinician-communication.md) — related
+- [Students expressed intentions to implement communication strategies and recognised the importance of physician-patient communication](reflections-intentions-implement-communication-importance.md) — related

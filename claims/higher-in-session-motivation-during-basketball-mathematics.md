@@ -51,3 +51,4 @@ Within the BM group (N = 176), the Intrinsic Motivation Inventory was administer
 - [An 8-week basketball mathematics intervention improves fraction performance more than control conditions in 11–13-year-olds](basketball-mathematics-improves-fraction-performance.md) — related
 - [KBD configuration produced no significant between-condition differences in system acceptance, intrinsic motivation, or subjective learning effectiveness in a single tutoring session](kbd-no-difference-acceptance-motivation-subjective-learning.md) — related
 - [Slalom dribbling improves equally with basketball mathematics and basketball-only PE, and not in regular PE](slalom-dribbling-improves-bm-and-bcon-equally.md) — related
+- [Intrinsic motivation was associated with full participation (χ21=4.03; P=.045)](intrinsic-motivation-full-participation.md) — related

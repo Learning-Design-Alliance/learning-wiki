@@ -52,6 +52,7 @@ Based on participants' accounts, the authors recommend that health system reform
 
 - [Healthcare institutions should prioritize SDL-friendly environments including protected learning time, access to digital tools, and mentorship programs](sdl-friendly-environments-strategy.md)
 - [Institutional policies allocating dedicated teaching time, formal recognition and comprehensive preceptor training to strengthen clinical teaching](preceptor-support-policies-strategy.md)
+- [Structure sustained engineer-clinician collaboration to bridge the IT-medical gap in hospital learning technology projects](engineer-clinician-collaboration-strategy.md)
 
 ## Examples
 -

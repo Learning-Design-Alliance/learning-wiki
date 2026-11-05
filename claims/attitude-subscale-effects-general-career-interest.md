@@ -9,7 +9,6 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-10-21
 sources:
   - id: savelsbergh-2016
     resource: "https://doi.org/10.1016/j.edurev.2016.07.003"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small
-> **Currency** · newest study 2016 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Separate meta-analyses per attitude subscale found significant positive effects for general interest (d = 0.22, 20 studies) and career interest (d = 0.40, 4 studies), but not for relevance, self-efficacy, or normality of scientist. [→ Savelsbergh 2016](#savelsbergh-2016)

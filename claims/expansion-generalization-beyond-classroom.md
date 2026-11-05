@@ -54,3 +54,4 @@ Participant-observer case analysis of two students. Lucas wrote in an observatio
 - [Successful writing requires that the writer first become a sufficiently skillful reader to estimate the effect of the text on a prospective audience](skilled-reader-estimate-audience-effect.md) — related
 - [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](prior-practices-mediate-class-interaction-appropriation.md) — related
 - [SCMD discourse activity is best understood as an ecology of nested activity systems within and beyond the classroom](ecology-of-activity-systems-scmd.md) — a broader claim this one bears on
+- [Embedded reflective writing in e-learning fostered metacognitive engagement and transformative learning beyond formal objectives](reflective-writing-elearning-metacognitive-transformative.md) — a broader claim this one bears on

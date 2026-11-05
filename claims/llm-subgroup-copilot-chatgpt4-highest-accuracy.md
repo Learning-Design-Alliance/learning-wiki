@@ -69,3 +69,4 @@ Model-stratified subgroup analysis within the meta-analysis of 39 studies. Copil
 - [ChatGPT-3.5 performed significantly worse on Arabic-language medical questions (43.9%) than its pooled published accuracy on English-language medical questions (60.7%)](chatgpt-arabic-lower-than-english-medical-accuracy.md) — related
 - [LLMs answer diagnosis questions significantly better than treatment questions in medical multiple-choice items](treatment-questions-solved-worse-than-diagnosis.md) — related
 - [CoPilot Pro achieved the highest accuracy rate on periodontology exam questions both on Day-0 (73.6%) and after one month (75.2%)](copilot-pro-highest-accuracy-periodontology-questions.md) — related
+- [Five LLMs outperformed enrolled medical students on department-set Spanish final MCQ exams with negative marking across four clinical courses](llms-outperform-students-spanish-mcq-finals-negative-marking.md) — related

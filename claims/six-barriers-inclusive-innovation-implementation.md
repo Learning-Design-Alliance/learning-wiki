@@ -49,3 +49,4 @@ Enumerated list in the Results section, drawing on Klemm (2018) and Schneider et
 - [Thematic analysis of teacher interviews identifies barriers to implementation and factors for success](mast-implementation-barriers-success-factors.md) — related
 - [Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions](inclusive-innovation-sustainability-factors.md) — related
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
+- [Ten sites conduct no qualification measures, citing human resource constraints as the barrier](sites-without-qualification-human-resource-barrier.md) — related

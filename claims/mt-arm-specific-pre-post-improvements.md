@@ -54,3 +54,4 @@ Within-group pre-post contrasts from the cluster-randomized trial of secondary s
 - [The iCare Stress Management e-Training Program significantly reduced perceived stress in the iCare condition but not the education-only condition](icare-stress-training-reduced-caregiver-stress.md) — related
 - [Perceived acceptance in the group and stress-management strategies are proposed mechanisms for play therapy reducing insecure attachment](group-acceptance-mechanism-insecure-attachment.md) — related
 - [EI mediates the relationship between mindfulness and both well-being and school results](ei-mediates-mindfulness-well-being-achievement.md) — related
+- [Majorities in both arms preferred traditional teacher-led workshops over the self-directed video format, with the instructor-led arm preferring it more](learners-prefer-traditional-instructor-led-workshop.md) — related

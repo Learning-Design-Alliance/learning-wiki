@@ -50,3 +50,4 @@ Regression analysis of first-session task data (N = 127 of 164 tasks) using expl
 ## Related Claims
 - [Age, previous VR experience and task type did not significantly predict task feasibility](vr-iws-age-vr-experience-not-predictive.md) — related
 - [All 21 autistic students independently completed all 164 VR-IWS tasks offered across three countries](vr-iws-all-students-completed-164-tasks.md) — related
+- [A digital reading screening assesses students with intellectual disabilities without floor effects, differentiating low reading performance](digital-reading-screening-differentiates-id-students-no-floor.md) — related

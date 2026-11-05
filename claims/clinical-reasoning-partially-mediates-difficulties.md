@@ -50,3 +50,4 @@ Bootstrapped mediation analysis within the SEM (N = 440). Table 6 reports total 
 - [ICU nurses' delirium knowledge, self-efficacy and clinical reasoning competency are each negatively correlated with delirium care difficulties](icu-nurse-delirium-variables-negatively-correlated-difficulties.md) — related
 - [Attitude partially mediates the relationship between knowledge and practice of antifungal stewardship](attitude-partially-mediates-knowledge-practice-antifungal.md) — a broader claim this one bears on
 - [Demographics plus knowledge, self-efficacy and clinical reasoning explain 33.5% of variance in delirium care difficulties in multiple regression](regression-explains-33-5-percent-difficulties-variance.md) — related
+- [Attitude partially mediates the relationship between knowledge and practice in structural equation modelling](attitude-partially-mediates-knowledge-practice.md) — related

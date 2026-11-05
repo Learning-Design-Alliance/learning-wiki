@@ -56,3 +56,4 @@ Qualitative arm: written responses to open questions after training were coded a
 - [Medical students experienced strong immersion in VR simulation due to realistic environments, but reduced interactivity constrained authenticity](vr-immersion-strong-but-interactivity-limited.md) — related
 - [Perceived realism of virtual patient scenarios and comfort interacting in VR rose substantially from pre to post (realism 2.9 to 4.4; VR comfort 3.0 to 4.6)](vr-pilot-realism-comfort-gains.md) — related
 - [All 37 respondents affirmed that OSCEai filled a gap in their medical training](osceai-fills-training-gap.md) — related
+- [Participants perceived the VR camera navigation test as realistic and reflective of their true clinical operational level](participants-perceive-vr-test-realistic-reflective.md) — a narrower finding that bears on this claim

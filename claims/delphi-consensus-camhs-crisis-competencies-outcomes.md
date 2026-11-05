@@ -56,3 +56,4 @@ Three-round Delphi study with 69 initial participants, of whom 43 (62%) complete
 - [A three-round Delphi panel of 47 SMHPs reached consensus on 151 competencies for interdisciplinary collaboration](delphi-consensus-151-competencies.md) — related
 - [A three-round e-Delphi panel of 19 experts from 6 European countries achieved consensus on 58 core teamwork competencies for community-based interprofessional teams, grouped into five areas](edelphi-consensus-58-cbit-competencies.md) — related
 - [A Delphi panel of 24 simulation center heads in China reached consensus on 24 evaluation items across six categories, forming the STRIVE model](delphi-consensus-24-items-strive-hsc.md) — related
+- [A three-round Delphi panel of 30 Korean experts derived six core shared competencies for physician–nurse collaboration in primary care, all meeting consensus criteria](delphi-six-shared-competencies-primary-care.md) — related

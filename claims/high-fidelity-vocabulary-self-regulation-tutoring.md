@@ -56,3 +56,4 @@ Fidelity observation analysis: fourteen observations across both tutors rated ea
 - [Basic and Plus teachers showed fairly high and statistically similar adherence to the MTP-M/S curricula](mtp-ms-teacher-adherence-fidelity.md) — related
 - [Intervention fidelity was high, with 100% adherence to allocated topic time and 78% of students attending all five lectures](high-fidelity-attendance-metalinguistic-coursework.md) — related
 - [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](spoc-blended-package-high-adherence.md) — related
+- [The course was delivered with high fidelity: 81% of participants reported minimal problems, and objective assessment outcomes were consistent across all six sessions with a median score of 40/40.](us-pivc-course-implementation-fidelity.md) — related

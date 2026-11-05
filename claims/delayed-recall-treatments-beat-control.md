@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: ha-2017
     resource: "https://doi.org/10.5539/elt.v10n8p18"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On the Delayed Test, PBI (W=48, p=0.0011) and TBI (W=24, p=4.679e-5) dominate control for Repeating chunks, and PBI (W=59, p=0.0048) and TBI (W=60, p=0.0171) outscore control for Non-repeating items. [→ Ha 2017](#ha-2017)

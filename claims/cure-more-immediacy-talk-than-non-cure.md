@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: zajic-et-al-2026
     resource: "https://doi.org/10.1187/cbe.24-09-0241"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Instructors teaching introductory biology CURE lab courses used more immediacy talk per hour than instructors teaching non-CURE lab courses (Mann-Whitney U = 493, r = 0.283, p = 0.051). [→ Zajic et al 2026](#zajic-et-al-2026)

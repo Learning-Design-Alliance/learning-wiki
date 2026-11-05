@@ -70,3 +70,4 @@ Authors' interpretation across the review's findings: recently qualified GDPs ha
 - [Practitioners' self-assessment of their TDI knowledge usually accurately reflects their measured knowledge](self-assessment-reflects-tdi-knowledge.md) — related
 - [Exposure to traumatic dental injuries in practice is usually but not consistently associated with higher practitioner knowledge](tdi-exposure-knowledge-mixed.md) — related
 - [Most fourth-year dental students at one Australian university report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related
+- [Qualified dentists show consistently higher confidence ratings than dental students across cases, with the widest gaps on the most difficult cases](dentists-higher-confidence-than-students.md) — related

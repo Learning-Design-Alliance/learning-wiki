@@ -49,3 +49,4 @@ Cross-study finding from the review's descriptive summary of results, tabulated 
 - [Blind expert assessment of GPT-4-generated MCQs found the majority valid as exam questions, with problematic-question rates varying by field](gpt4-blind-assessment-majority-valid.md) — reports the opposite
 - [In the one human-vs-LLM comparison, human-written MCQs outperformed ChatGPT-generated MCQs in quality and validity, while AI was far faster](humans-outperform-chatgpt-mcq-quality.md) — related
 - [Most reviewed studies (5 of 8) demonstrated that LLMs can produce MCQs valid for medical exams](llm-mcq-generation-majority-valid.md) — reports the opposite
+- [AI-generated exam questions and AI-based surgical training tools show promise for urology education but require expert oversight and validation](ai-tools-urology-education-exam-questions-feedback.md) — related

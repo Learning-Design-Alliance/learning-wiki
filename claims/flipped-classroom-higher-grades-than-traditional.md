@@ -9,7 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: torres-martín-2022
     resource: "https://doi.org/10.1007/s11423-022-10095-y"
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium · n=1157
-> **Currency** · newest study 2022 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` In one university course, average grades were significantly higher in the five cohorts taught with the flipped classroom than in the five earlier cohorts taught traditionally (Wilcoxon-Mann-Whitney, r = .473); the cohorts were non-equivalent and taught in different years, so the comparison cannot isolate the method as the cause. [→ Torres-Martín 2022](#torres-martin-2022)
@@ -69,3 +69,4 @@ Quasi-experimental non-equivalent groups comparison of grades in the course "Did
 - [Summative academic performance in the AI-supported Reproduction module does not significantly differ from traditionally taught modules](no-significant-summative-performance-difference-ai-module.md) — related
 - [Students achieving an A grade accessed e-modules on more days than B–C and D–F bands, and accessed them earlier than the B–C band](grade-band-regularity-timeliness-association.md) — related
 - [BOPPPS-flipped classroom reform is linked to significantly higher regular academic grades in pediatric dentistry than traditional instruction](boppps-flipped-higher-regular-grades-pediatric-dentistry.md) — related
+- [Medical students taught under the reformed biochemistry model (stomatology cohorts) earned significantly higher final-exam grades than traditionally taught peers (clinical medicine cohorts) across 2020–2022, with mean differences of 2.76–3.92 points](biochem-reform-higher-exam-scores-three-cohorts.md) — related

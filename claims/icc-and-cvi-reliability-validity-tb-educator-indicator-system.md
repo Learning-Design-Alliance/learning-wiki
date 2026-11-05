@@ -58,3 +58,4 @@ Reliability and validity analysis based on the second-round importance ratings o
 - [Content validity of the HSPNCS is acceptable (S-CVI/Ave 0.972)](hspncs-acceptable-content-validity.md) — related
 - [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](vega-content-validity-cvi.md) — related
 - [Expert reference standard for MUL measurements showed excellent agreement (ICC 0.90)](expert-reference-mul-icc-090.md) — related
+- [IAFEE-ECS® achieved content validity with S-CVI of 0.89 in round one and 0.92 in round two](iafee-ecs-content-validity-s-cvi-rounds.md) — related

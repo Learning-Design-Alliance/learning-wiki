@@ -46,6 +46,7 @@ The Study Skills (SS) intervention introduced two study skills through a 20–30
 ## Related Strategies
 
 - [Frequent, Low-Stakes Quizzes](frequent-low-stakes-quizzes.md)
+- [Embed low-burden spaced review structures such as a 48-hour recap and a 1-week revisit with automated reminders](spaced-review-structures-strategy.md)
 
 ## Examples
 -

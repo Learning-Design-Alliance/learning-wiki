@@ -9,7 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2023
-source_checked: 2026-10-22
+source_checked: 2026-11-05
 sources:
   - id: dignath-2023
     resource: "https://doi.org/10.1007/s10648-023-09718-4"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On a descriptive level, interventions including teacher feedback on self-monitoring entries and allowing direct revision of work showed higher effects. [→ Dignath 2023](#dignath-2023)

@@ -40,7 +40,8 @@ The paper sets out an agenda for community colleges seeking a central role in th
 - workforce development
 
 ## Related Strategies
-- 
+
+- [Activate the CCC through four complementary policy levers: education, credentialing and quality assurance, financing and incentives, and measurement](four-policy-levers-activate-ccc.md)
 
 ## Examples
 -

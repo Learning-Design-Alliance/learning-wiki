@@ -9,7 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-27
+source_checked: 2026-11-05
 sources:
   - id: bamberg-2025
     resource: "https://doi.org/10.1038/s41539-025-00308-3"
@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-27 (automated, 3 of 3 entries) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Working memory is positively associated with reversal learning performance (coeff = 0.03, p = 0.007). [→ Bamberg 2025](#bamberg-2025)

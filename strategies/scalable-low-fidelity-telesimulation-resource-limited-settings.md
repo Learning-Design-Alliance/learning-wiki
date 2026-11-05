@@ -47,6 +47,7 @@ The review's forward-looking implementation and research agenda. It argues that 
 
 - [Prioritise simulation and gamification over flipped classroom models, and implement low-cost physical games before investing in expensive simulation equipment](prioritise-simulation-gamification-low-cost-first.md)
 - [Multi-pronged cost-mitigation strategies for deploying live-video teaching equipment in low-resource settings](ltm-cost-mitigation-strategies.md)
+- [Prioritize scalable, low-cost simulation solutions and phased implementation so resource-limited settings can adopt the RT competency framework](scalable-low-cost-simulation-phased-implementation-rt.md)
 
 ## Examples
 -
