@@ -9,20 +9,21 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: dimitrios-gousopoulos-2026
     resource: "https://doi.org/10.62225/2583049X.2026.6.3.6516"
     title: "Dimitrios Gousopoulos. (2026). Can AI-Assisted Inquiry Enhance Students' Decision-Making Skills in Socio-Scientific Issues? A Three-Group Experimental Study on Climate Change. International Journal of Advanced Multidisciplinary Research and Studies. https://doi.org/10.62225/2583049X.2026.6.3.6516"
     author: Dimitrios Gousopoulos
-    q: 3
-    i: "?"
+    q: 2
+    i: 3
     kind: associational
     rigour: "?"
   - id: dimitrios-gousopoulos-2026-2
     resource: "https://doi.org/10.62225/2583049X.2026.6.3.6516"
     title: "Dimitrios Gousopoulos. (2026). Can AI-Assisted Inquiry Enhance Students' Decision-Making Skills in Socio-Scientific Issues? A Three-Group Experimental Study on Climate Change. International Journal of Advanced Multidisciplinary Research and Studies. https://doi.org/10.62225/2583049X.2026.6.3.6516"
     author: Dimitrios Gousopoulos
-    q: 3
+    q: 2
     i: "?"
     kind: causal
     rigour: "?"
@@ -31,12 +32,12 @@ sources:
 # Within the AI-assisted group, the frequency of checking the AI's claims against sources predicted decision-making gains, with no students flagged for over-reliance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r?` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study (2 entries) · associational `r?` · `q2` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Students who checked the AI's claims against sources more often showed larger decision-making gains. [→ Dimitrios Gousopoulos 2026](#dimitrios-gousopoulos-2026)
-`q3 i?` No student in the AI-assisted group was flagged for over-reliance on the AI. [→ Dimitrios Gousopoulos 2026 (2)](#dimitrios-gousopoulos-2026-2)
+`q2 i3` Within the AI-assisted group, students who checked the AI's claims against sources more often showed larger decision-making gains (r = 0.52), an association rather than a tested effect of checking. [→ Dimitrios Gousopoulos 2026](#dimitrios-gousopoulos-2026)
+`q2 i?` No student in the AI-assisted group was flagged for over-reliance on the AI. [→ Dimitrios Gousopoulos 2026 (2)](#dimitrios-gousopoulos-2026-2)
 
 ## Evidence
 
@@ -44,9 +45,9 @@ sources:
 
 Dimitrios Gousopoulos. (2026). Can AI-Assisted Inquiry Enhance Students' Decision-Making Skills in Socio-Scientific Issues? A Three-Group Experimental Study on Climate Change. International Journal of Advanced Multidisciplinary Research and Studies. https://doi.org/10.62225/2583049X.2026.6.3.6516
 
-`q3 · i?` · `associational · r?`
+`q2 · quasi-experimental pretest-posttest design (intact classes assigned)` · `i3 · large (r = 0.52)` · `associational · r?`
 
-Within-group analysis of the AI-assisted inquiry group (90 students) in the three-group experiment; the article reports that "the number of times students checked the AI's claims against the sources predicted their gains." No effect-size value is printed.
+Within-group correlational analysis of the AI-assisted inquiry group (90 students) in a three-group quasi-experimental pretest-posttest study in which intact classes, not individual students, were assigned to conditions. Pearson correlations relate the logged process indicators to total gains: "the number of evidence checks correlated positively with total gains (r = 0.52, p < 0.001), as did the number of prompts (r = 0.50, p < 0.001)." This is an association within one group, not a test of whether checking causes gains.
 
 > "Within the AI group, the number of times students checked the AI's claims against the sources predicted their gains, and no student was flagged for over-reliance."
 
@@ -54,9 +55,9 @@ Within-group analysis of the AI-assisted inquiry group (90 students) in the thre
 
 Dimitrios Gousopoulos. (2026). Can AI-Assisted Inquiry Enhance Students' Decision-Making Skills in Socio-Scientific Issues? A Three-Group Experimental Study on Climate Change. International Journal of Advanced Multidisciplinary Research and Studies. https://doi.org/10.62225/2583049X.2026.6.3.6516
 
-`q3 · i?` · `causal · r?`
+`q2 · quasi-experimental pretest-posttest design (intact classes assigned)` · `i?` · `causal · r?`
 
-Over-reliance monitoring within the AI-assisted inquiry group (90 students) in the three-group experiment; the article reports that "no student was flagged for over-reliance" on the AI.
+Over-reliance monitoring within the AI-assisted inquiry group (90 students) in a three-group quasi-experimental pretest-posttest study in which intact classes, not individual students, were assigned to conditions; the article reports that "not one of the 90 AI-assisted students met the threshold for the over-reliance flag." This is a descriptive count within one group, with no comparison.
 
 > "Within the AI group, the number of times students checked the AI's claims against the sources predicted their gains, and no student was flagged for over-reliance."
 

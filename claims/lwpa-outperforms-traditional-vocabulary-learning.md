@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-05
 sources:
   - id: tetiana-zubenko-2019
     resource: "https://doi.org/10.20535/2410-8286.165717"
@@ -24,11 +25,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Tetiana Zubenko 2019: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
-`q2 i?` First-year ESL students using the LWPA strategy scored significantly higher on the End-of-Unit exam total than comparison students (mean 81.9 vs 63.2). [→ Tetiana Zubenko 2019](#tetiana-zubenko-2019)
+`q2 i?` First-year ESL students using the LWPA strategy scored significantly higher on the End-of-Unit exam total than comparison students (Table 2: mean 81.1 vs 63.2; the text reports 81.9). [→ Tetiana Zubenko 2019](#tetiana-zubenko-2019)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Tetiana Zubenko, Allan Shwedel. (2019). Integrating mobile listening and physica
 
 `q2 · i?` · `causal · r1`
 
-Experimental design with N = 51 first-year Ukrainian ESL students randomly assigned to one experimental and two comparison classes; the experimental group added LWPA audio listening to traditional learning. The one-way ANOVA on total exam score was statistically significant, with the LWPA mean of "81.9 versus 63.2 for the Comparison group".
+Experimental design with N = 51 first-year Ukrainian ESL students randomly assigned to one experimental and two comparison classes; the experimental group added LWPA audio listening to traditional learning. The one-way ANOVA on total exam score was statistically significant (F = 8.761, df = 1, p < .05). The article's figures disagree: the abstract and results text give the LWPA mean as 81.9, but Table 2 gives the Overall Total Score as M = 81.1 (SD 19.8, n = 14) against M = 63.2 (SD 18.1, n = 37) for the comparison group.
 
 > "Students in the LWPA group had a mean score of 81.9 versus 63.2 for the Comparison group. Results from a one-way ANOVA indicate that exam performance difference was statistically significant, F= 8.761, df = 1, p < 05"
 

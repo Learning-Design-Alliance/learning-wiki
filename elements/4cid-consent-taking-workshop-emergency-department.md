@@ -17,7 +17,7 @@ sources:
 # 4C/ID-based interactive consent-taking workshop for emergency department staff
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A four-hour interactive workshop grounded in the 4C/ID model for teaching informed-consent skills to emergency physicians and nurses. It combines a brief lecture with 'progressively complex role-play scenarios simulating real consent-taking encounters', supportive information, just-in-time videos, part-task practice, and feedback, with facilitators 'gradually reducing support to encourage learner autonomy'. The article evaluated it against a one-hour didactic lecture in a quasi-experimental study of 21 emergency care professionals.

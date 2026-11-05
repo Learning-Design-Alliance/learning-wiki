@@ -48,4 +48,4 @@ Orthogonal contrast within the choice condition (N=73) between students who rece
 - [Students given topic choice via majority vote report higher intrinsic motivation than students assigned a topic without choice](majority-vote-choice-raises-intrinsic-motivation-biology.md) — related
 - [The voting process itself, rather than topic-congruence with individual interests, appears responsible for the motivation benefit](voting-process-itself-fosters-motivation.md) — a narrower finding that bears on this claim
 - [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice](moderate-motivation-imi-mangomon.md) — related
-- [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related
+- [Perceived choice and enjoying catching Mangomon were the lowest-rated motivation items, which the authors read as its RPG mechanics not yet fully serving learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related

@@ -46,7 +46,7 @@ A specific implementable recipe: required weekly support sessions led by TAs wor
 - [No significant difference between underprepared and college-ready students on final exam multiple-choice questions](../claims/final-exam-multiple-choice-no-significant-difference.md) [+W]
 - [Underprepared students scored significantly higher on final exam open-ended questions than college-ready peers](../claims/final-exam-open-ended-underprepared-significantly-higher.md) [+W]
 - [Attrition from General Chemistry-IS was higher than from General Chemistry and previous fall semesters](../claims/is-course-higher-attrition-rate.md) [-W]
-- [Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence](../claims/catch-up-numeracy-fidelity-timetabling-barriers.md) [~W]
+- [Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers](../claims/catch-up-numeracy-fidelity-timetabling-barriers.md) [~W]
 
 ## Related Strategies
 

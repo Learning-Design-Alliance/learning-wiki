@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 1979
+source_checked: 2026-11-05
 sources:
   - id: eylon-1979
     resource: "https://eric.ed.gov/?id=ED171804"
@@ -32,12 +33,12 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 1979 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 1979 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In Experiment 2 free-recall summaries, recall scores declined from highest to lowest hierarchy levels, with the steepest drop for information placed low by the acquired organization. [→ Eylon 1979](#eylon-1979)
-`q2 i?` In Experiment 3 oral-recall protocols, average proportions of knowledge units recalled also declined from the first to the third level in both organizations. [→ Eylon 1979 (2)](#eylon-1979-2)
+`q2 i?` In Experiment 3 oral-recall protocols, the highest level was recalled best in both organizations ("Higher levels ... were usually recalled better than lower levels"): recall declined across levels in the deductive organization (63%, 45%, 9%), but in the historical organization the third level (43%) was recalled better than the second (36%). [→ Eylon 1979 (2)](#eylon-1979-2)
 
 ## Evidence
 

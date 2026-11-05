@@ -47,7 +47,7 @@ Subgroup analysis of the same meta-analysis by learning-measure type (KG, KR, KT
 ## Related Claims
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — reports the opposite
 - [IVR serious games produce better evacuation knowledge retention and transfer than traditional training approaches](ivr-sgs-better-knowledge-retention-transfer-than-traditional.md) — related
-- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](immersion-cost-benefit-transfer-motivation.md) — related
 - [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](immersive-lessons-small-advantage-presence-not-sufficient.md) — a broader claim this one bears on
 - [Immersive procedural training in VR shows a significant medium positive effect on learning outcomes compared to less immersive environments (Hedges' g = 0.58)](ivr-procedural-training-medium-positive-effect.md) — a broader claim this one bears on
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — reports the opposite

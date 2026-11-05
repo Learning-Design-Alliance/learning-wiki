@@ -8878,6 +8878,7 @@
 "id":"active-learning-narrows-passing-rate-gap-45-percent",
 "newest_evidence":"2020",
 "path":"claims/active-learning-narrows-passing-rate-gap-45-percent.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Active learning narrows the passing-rate gap between minoritized-group and non-minoritized students in undergraduate STEM by 45% on average",
 "type":"claim"
@@ -21837,6 +21838,7 @@
 "id":"ai-relevance-intervention-no-interest-effect",
 "newest_evidence":"2025",
 "path":"claims/ai-relevance-intervention-no-interest-effect.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"The generative AI relevance intervention did not significantly increase students' interest in the math class",
 "type":"claim"
@@ -38132,6 +38134,7 @@
 "id":"audio-discussions-increase-perceived-pronunciation-ability",
 "newest_evidence":"2014",
 "path":"claims/audio-discussions-increase-perceived-pronunciation-ability.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Interpersonal audio discussions with feedback and self-assessment elicit a statistically significant increase in introductory L2 learners' perceived pronunciation ability",
 "type":"claim"
@@ -44656,6 +44659,7 @@
 "id":"belongingness-strongly-affects-motivation-achievement",
 "newest_evidence":"2025",
 "path":"claims/belongingness-strongly-affects-motivation-achievement.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement",
 "type":"claim"
@@ -59171,14 +59175,15 @@
 "type":"claim"
 },
 {
-"description":"Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence",
+"description":"Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers",
 "evidence_strength":"moderate",
 "id":"catch-up-numeracy-fidelity-timetabling-barriers",
 "newest_evidence":"2014",
 "path":"claims/catch-up-numeracy-fidelity-timetabling-barriers.md",
 "recheck_by":"2017",
+"source_checked":"2026-11-05",
 "status":"review",
-"title":"Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence",
+"title":"Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers",
 "type":"claim"
 },
 {
@@ -66887,6 +66892,7 @@
 "id":"checking-ai-claims-predicts-gains",
 "newest_evidence":"2026",
 "path":"claims/checking-ai-claims-predicts-gains.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Within the AI-assisted group, the frequency of checking the AI's claims against sources predicted decision-making gains, with no students flagged for over-reliance",
 "type":"claim"
@@ -93454,6 +93460,7 @@
 "id":"cooperative-learning-gifted-students",
 "newest_evidence":"1993",
 "path":"claims/cooperative-learning-gifted-students.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Cooperative learning shows benefits for gifted and high-ability students, though long-term evidence is lacking",
 "type":"claim"
@@ -125994,13 +126001,14 @@
 "type":"claim"
 },
 {
-"description":"Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload",
+"description":"Drawing support increased rather than decreased perceived difficulty, which the authors read as a hint of cognitive overload",
 "evidence_strength":"moderate",
 "id":"drawing-support-increased-perceived-difficulty",
 "newest_evidence":"2020",
 "path":"claims/drawing-support-increased-perceived-difficulty.md",
+"source_checked":"2026-11-05",
 "status":"review",
-"title":"Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload",
+"title":"Drawing support increased rather than decreased perceived difficulty, which the authors read as a hint of cognitive overload",
 "type":"claim"
 },
 {
@@ -138335,6 +138343,7 @@
 "id":"elaborate-feedback-raises-engagement-perceptions",
 "newest_evidence":"2026",
 "path":"claims/elaborate-feedback-raises-engagement-perceptions.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering",
 "type":"claim"
@@ -139627,7 +139636,7 @@
 "description":"Third-grade ELLs recruit familiar everyday language, including onomatopoeic labels, to talk productively about the sounds produced by strings",
 "evidence_strength":"moderate",
 "id":"ells-recruit-everyday-language-sound-discussion",
-"newest_evidence":"2008",
+"newest_evidence":"2013",
 "path":"claims/ells-recruit-everyday-language-sound-discussion.md",
 "status":"review",
 "title":"Third-grade ELLs recruit familiar everyday language, including onomatopoeic labels, to talk productively about the sounds produced by strings",
@@ -148714,7 +148723,7 @@
 "description":"Everyday and invented terminology became formalized through classroom discussion, establishing a shared protocol for referring to strings",
 "evidence_strength":"moderate",
 "id":"everyday-language-formalized-classroom-protocol",
-"newest_evidence":"2008",
+"newest_evidence":"2013",
 "path":"claims/everyday-language-formalized-classroom-protocol.md",
 "status":"review",
 "title":"Everyday and invented terminology became formalized through classroom discussion, establishing a shared protocol for referring to strings",
@@ -151592,7 +151601,7 @@
 "description":"ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration",
 "evidence_strength":"moderate",
 "id":"experience-mediate-connection-academic-language-vibration",
-"newest_evidence":"2008",
+"newest_evidence":"2013",
 "path":"claims/experience-mediate-connection-academic-language-vibration.md",
 "status":"review",
 "title":"ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration",
@@ -172123,6 +172132,7 @@
 "id":"formative-assessment-implementation-barriers",
 "newest_evidence":"2021",
 "path":"claims/formative-assessment-implementation-barriers.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences",
 "type":"claim"
@@ -189754,6 +189764,7 @@
 "id":"giving-suggestions-predicts-assessor-performance",
 "newest_evidence":"2012",
 "path":"claims/giving-suggestions-predicts-assessor-performance.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Giving suggestions to peers is a significant predictor of assessors' own project performance",
 "type":"claim"
@@ -195430,13 +195441,14 @@
 "type":"claim"
 },
 {
-"description":"In elementary school students, short-term green breaks restore attention and working memory, with effects on inhibition mixed",
+"description":"In elementary school students, short-term green breaks restore attention and working memory, but did not improve inhibition in the two studies that measured it",
 "evidence_strength":"mixed",
 "id":"green-breaks-elementary-attention-restoration",
 "newest_evidence":"2022",
 "path":"claims/green-breaks-elementary-attention-restoration.md",
+"source_checked":"2026-11-05",
 "status":"review",
-"title":"In elementary school students, short-term green breaks restore attention and working memory, with effects on inhibition mixed",
+"title":"In elementary school students, short-term green breaks restore attention and working memory, but did not improve inhibition in the two studies that measured it",
 "type":"claim"
 },
 {
@@ -204033,6 +204045,7 @@
 "id":"high-equality-mutuality-not-sufficient-conceptual-change",
 "newest_evidence":"1997",
 "path":"claims/high-equality-mutuality-not-sufficient-conceptual-change.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"In one single-group pre-post study, dyads with high joint on-task engagement and high equality and mutuality of engagement included one student who showed substantial conceptual change and another who showed none",
 "type":"claim"
@@ -206561,6 +206574,7 @@
 "id":"higher-hierarchy-levels-recalled-better",
 "newest_evidence":"1979",
 "path":"claims/higher-hierarchy-levels-recalled-better.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels",
 "type":"claim"
@@ -211157,13 +211171,14 @@
 "type":"claim"
 },
 {
-"description":"EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group taught without the songs did not, though the groups were not compared directly",
+"description":"EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group did not, though the groups were not compared directly",
 "evidence_strength":"moderate",
 "id":"humorous-song-improves-efl-listening-comprehension",
 "newest_evidence":"2010",
 "path":"claims/humorous-song-improves-efl-listening-comprehension.md",
+"source_checked":"2026-11-05",
 "status":"review",
-"title":"EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group taught without the songs did not, though the groups were not compared directly",
+"title":"EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group did not, though the groups were not compared directly",
 "type":"claim"
 },
 {
@@ -212748,6 +212763,7 @@
 "newest_evidence":"2025",
 "path":"claims/icap-effective-audit-tool-asynchronous-online.md",
 "recheck_by":"2028",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"The ICAP Framework was found effective for assessing potential for active learning in an asynchronous online environment and identifying where design improvements are needed",
 "type":"claim"
@@ -215968,13 +215984,14 @@
 "type":"claim"
 },
 {
-"description":"Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected",
+"description":"Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention",
 "evidence_strength":"mixed",
 "id":"immersion-cost-benefit-transfer-motivation",
 "newest_evidence":"2022",
 "path":"claims/immersion-cost-benefit-transfer-motivation.md",
+"source_checked":"2026-11-05",
 "status":"review",
-"title":"Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected",
+"title":"Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention",
 "type":"claim"
 },
 {
@@ -240013,6 +240030,7 @@
 "id":"kid-space-more-physical-activity",
 "newest_evidence":"2022",
 "path":"claims/kid-space-more-physical-activity.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"First-graders using Kid Space showed physical activity during play-based learning, in an exploratory case study without a comparison",
 "type":"claim"
@@ -256017,6 +256035,7 @@
 "id":"llm-errors-prompt-validation-cycles-critical-thinking",
 "newest_evidence":"2025",
 "path":"claims/llm-errors-prompt-validation-cycles-critical-thinking.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"LLM responses that are incomplete or incorrect prompt students to question, verify and improve the information, fostering critical thinking through cycles of validation and correction",
 "type":"claim"
@@ -258618,6 +258637,7 @@
 "id":"llms-support-competency-based-assessment-design",
 "newest_evidence":"2025",
 "path":"claims/llms-support-competency-based-assessment-design.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"LLMs support the shift from memorization-focused to competency-based assessment by generating rubrics, varied assessment items and authentic scenario-based tasks",
 "type":"claim"
@@ -264538,6 +264558,7 @@
 "id":"lwpa-outperforms-traditional-vocabulary-learning",
 "newest_evidence":"2019",
 "path":"claims/lwpa-outperforms-traditional-vocabulary-learning.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Listening to vocabulary lessons while physically active improves End-of-Unit exam performance over traditional intentional learning alone",
 "type":"claim"
@@ -298944,13 +298965,14 @@
 "type":"claim"
 },
 {
-"description":"NETM intervention reduces vaccine hesitancy among NICU parents across all VOS subscales",
+"description":"NICU parents' self-rated vaccine attitudes improved on all four Vaccine Opposition Scale subscales after NETM, in one uncontrolled pre-post study",
 "evidence_strength":"moderate",
 "id":"netm-reduces-vaccine-hesitancy-nicu-parents",
 "newest_evidence":"2026",
 "path":"claims/netm-reduces-vaccine-hesitancy-nicu-parents.md",
+"source_checked":"2026-11-05",
 "status":"review",
-"title":"NETM intervention reduces vaccine hesitancy among NICU parents across all VOS subscales",
+"title":"NICU parents' self-rated vaccine attitudes improved on all four Vaccine Opposition Scale subscales after NETM, in one uncontrolled pre-post study",
 "type":"claim"
 },
 {
@@ -307974,6 +307996,7 @@
 "id":"no-mode-by-style-interaction-vr-gains",
 "newest_evidence":"2005",
 "path":"claims/no-mode-by-style-interaction-vr-gains.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"No significant interaction between learning mode and learning style on gain scores, while the learning-mode main effect was significant",
 "type":"claim"
@@ -314576,6 +314599,7 @@
 "id":"novices-more-negative-noticing-valence",
 "newest_evidence":"2022",
 "path":"claims/novices-more-negative-noticing-valence.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Novice teachers notice more negative classroom events than positive ones, whereas expert teachers show the opposite pattern when reflecting on their own MET videos",
 "type":"claim"
@@ -325484,6 +325508,7 @@
 "id":"osce-advantage-4cid-not-significant",
 "newest_evidence":"2025",
 "path":"claims/osce-advantage-4cid-not-significant.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the difference was not statistically significant",
 "type":"claim"
@@ -356544,6 +356569,7 @@
 "id":"ppt-vocabulary-retention-outperforms-traditional",
 "newest_evidence":"2012",
 "path":"claims/ppt-vocabulary-retention-outperforms-traditional.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Grade-10 EFL students taught vocabulary with PowerPoint-enhanced lessons retained more vocabulary than students in traditional lessons",
 "type":"claim"
@@ -374165,13 +374191,13 @@
 "type":"claim"
 },
 {
-"description":"Purpose in learning increases engagement, self-regulation, and academic performance",
+"description":"A framework report argues that finding purpose in learning increases engagement, self-regulation, and academic performance",
 "evidence_strength":"weak",
 "id":"purpose-increases-engagement-self-regulation-performance",
 "newest_evidence":"2026",
 "path":"claims/purpose-increases-engagement-self-regulation-performance.md",
 "status":"review",
-"title":"Purpose in learning increases engagement, self-regulation, and academic performance",
+"title":"A framework report argues that finding purpose in learning increases engagement, self-regulation, and academic performance",
 "type":"claim"
 },
 {
@@ -382414,13 +382440,14 @@
 "type":"claim"
 },
 {
-"description":"Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback",
+"description":"Learners using an adaptive diagnostic ITS with automated real-time feedback showed greater progression on a SOLO-based mathematics assessment than learners using the same system without it",
 "evidence_strength":"moderate",
 "id":"real-time-feedback-its-solo-progression-advantage",
 "newest_evidence":"2026",
 "path":"claims/real-time-feedback-its-solo-progression-advantage.md",
+"source_checked":"2026-11-05",
 "status":"review",
-"title":"Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback",
+"title":"Learners using an adaptive diagnostic ITS with automated real-time feedback showed greater progression on a SOLO-based mathematics assessment than learners using the same system without it",
 "type":"claim"
 },
 {
@@ -392289,6 +392316,7 @@
 "id":"review-notes-compliance-predicts-learning-gains",
 "newest_evidence":"2017",
 "path":"claims/review-notes-compliance-predicts-learning-gains.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Higher compliance with MetaTutor's review-notes prompt is associated with larger proportional learning gains",
 "type":"claim"
@@ -396622,13 +396650,14 @@
 "type":"claim"
 },
 {
-"description":"Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy",
+"description":"Perceived choice and enjoying catching Mangomon were the lowest-rated motivation items, which the authors read as its RPG mechanics not yet fully serving learner autonomy",
 "evidence_strength":"weak",
 "id":"rpg-mechanics-not-yet-serve-autonomy",
 "newest_evidence":"2026",
 "path":"claims/rpg-mechanics-not-yet-serve-autonomy.md",
+"source_checked":"2026-11-05",
 "status":"review",
-"title":"Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy",
+"title":"Perceived choice and enjoying catching Mangomon were the lowest-rated motivation items, which the authors read as its RPG mechanics not yet fully serving learner autonomy",
 "type":"claim"
 },
 {
@@ -409275,6 +409304,7 @@
 "id":"segmented-interactive-video-technical-component-significant",
 "newest_evidence":"2026",
 "path":"claims/segmented-interactive-video-technical-component-significant.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Students learning venipuncture with a segmented-interactive video scored significantly higher on the technical component than students using a continuous video",
 "type":"claim"
@@ -432758,13 +432788,14 @@
 "type":"claim"
 },
 {
-"description":"Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material",
+"description":"Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics, with no significant difference on the exam covering current material",
 "evidence_strength":"moderate",
 "id":"spaced-recall-improves-posttest-without-harming-new-learning",
 "newest_evidence":"2024",
 "path":"claims/spaced-recall-improves-posttest-without-harming-new-learning.md",
+"source_checked":"2026-11-05",
 "status":"review",
-"title":"Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material",
+"title":"Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics, with no significant difference on the exam covering current material",
 "type":"claim"
 },
 {
@@ -465092,6 +465123,7 @@
 "id":"teacher-buy-in-mediates-coaching-benefit",
 "newest_evidence":"2015",
 "path":"claims/teacher-buy-in-mediates-coaching-benefit.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits",
 "type":"claim"
@@ -474549,8 +474581,9 @@
 "description":"Student test effort differs substantially across student gender and racial subgroups",
 "evidence_strength":"weak",
 "id":"test-effort-differs-across-gender-racial-subgroups",
-"newest_evidence":"2019",
+"newest_evidence":"2018",
 "path":"claims/test-effort-differs-across-gender-racial-subgroups.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Student test effort differs substantially across student gender and racial subgroups",
 "type":"claim"
@@ -477665,8 +477698,9 @@
 "description":"Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students",
 "evidence_strength":"moderate",
 "id":"third-space-distributes-authority-among-students",
-"newest_evidence":"2008",
+"newest_evidence":"2013",
 "path":"claims/third-space-distributes-authority-among-students.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students",
 "type":"claim"
@@ -504349,6 +504383,7 @@
 "id":"voc-training-increases-gatekeeper-preparedness",
 "newest_evidence":"2015",
 "path":"claims/voc-training-increases-gatekeeper-preparedness.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.",
 "type":"claim"
@@ -510218,6 +510253,7 @@
 "id":"weaving-performs-variables-conditionals-functions",
 "newest_evidence":"2022",
 "path":"claims/weaving-performs-variables-conditionals-functions.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Weaving supports middle school students' performance of the computational concepts variables, conditionals, and functions",
 "type":"claim"

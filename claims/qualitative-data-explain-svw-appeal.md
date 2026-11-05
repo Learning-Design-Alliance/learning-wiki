@@ -46,5 +46,5 @@ Authors' interpretation of their mixed-methods evaluation with 48 children: they
 
 ## Related Claims
 - [Students in the serious virtual world group reported enjoying the class more, being more engaged, and having greater intentions to participate than students in the traditional group](svw-higher-enjoyment-engagement-intention-e-junior.md) — related
-- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](immersion-cost-benefit-transfer-motivation.md) — related
 - [Students welcomed parallel teaching positively despite the null proficiency result](students-welcomed-parallel-teaching-positively.md) — related

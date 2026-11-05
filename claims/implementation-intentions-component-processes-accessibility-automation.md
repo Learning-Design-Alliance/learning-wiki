@@ -45,4 +45,4 @@ The meta-analysis reports "strong support for postulatad component processes", n
 
 
 ## Related Claims
-- [Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback](real-time-feedback-its-solo-progression-advantage.md) — related
+- [Learners using an adaptive diagnostic ITS with automated real-time feedback showed greater progression on a SOLO-based mathematics assessment than learners using the same system without it](real-time-feedback-its-solo-progression-advantage.md) — related

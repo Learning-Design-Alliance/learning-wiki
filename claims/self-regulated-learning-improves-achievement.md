@@ -257,7 +257,7 @@ Open questions that evidence entries should address include: which strategy fami
 - Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts — related
 - [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](feedback-levels-task-process-self-regulation-effective.md) — related
 - [All types of regulation can be explicitly taught and improved with time, effort, and effective feedback](regulation-skills-can-be-taught.md) — related
-- [Purpose in learning increases engagement, self-regulation, and academic performance](purpose-increases-engagement-self-regulation-performance.md) — related
+- [A framework report argues that finding purpose in learning increases engagement, self-regulation, and academic performance](purpose-increases-engagement-self-regulation-performance.md) — related
 - [The review reports that connecting possible selves to concrete strategies is an essential precursor to positive behavior, beyond merely holding possible selves](possible-selves-require-concrete-strategies-for-behavior.md) — related
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](ai-scaffolding-fading-learned-helplessness.md) — a narrower finding that bears on this claim
 - [AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring](ai-feedback-support-or-dependence-self-regulation.md) — related

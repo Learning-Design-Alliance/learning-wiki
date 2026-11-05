@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-05
 sources:
   - id: anna-keune-2022
     resource: "https://doi.org/10.1080/10508406.2022.2100704"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students weaving on looms produced woven fabric through the performance of variables, conditionals, and functions. [→ Anna Keune 2022](#anna-keune-2022)
@@ -37,7 +38,7 @@ Anna Keune (2022). Material syntonicity: Examining computational performance and
 
 `q2 · i?` · `qualitative · r2`
 
-Qualitative analysis of two fiber crafts course sessions at a K-8 charter school design studio, with pseudocode translation of student projects. The analysis found that heddle position paired with shuttle direction produced conditionals, pattern duration a variable, and repeated row production a row_by_row function with a while loop, showing "the performance of variables, conditionals, and functions."
+Qualitative analysis of a fiber crafts course at a K-8 charter school design studio (three units of two sessions each; the article analyses the first two units, weaving and fabric manipulation, and this finding comes from the weaving unit), with pseudocode translation of student projects. The analysis found that heddle position paired with shuttle direction produced conditionals, pattern duration a variable, and repeated row production a row_by_row function with a while loop, showing "the performance of variables, conditionals, and functions."
 
 > "Through the interplay of heddle positions, shuttle direction, and students’ full-body engagement, students produced woven fabric required the performance of variables, conditionals, and functions."
 

@@ -46,6 +46,6 @@ The review reports, citing Chan (2022), that VR use positively boosted motivatio
 
 ## Related Claims
 - [Learners showed overall positive attitudes toward TEPBLL and satisfactory learning outcomes](tepbll-positive-learner-attitudes.md) — related
-- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — a broader claim this one bears on
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](immersion-cost-benefit-transfer-motivation.md) — a broader claim this one bears on
 - [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) — a narrower finding that bears on this claim
 - [Integrating virtual reality and gamification increased students' learning outcomes, motivation, engagement, and self-efficacy](gamified-vr-increased-learning-outcomes-motivation-engagement-self-efficacy.md) — related

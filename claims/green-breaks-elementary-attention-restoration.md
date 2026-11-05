@@ -1,7 +1,7 @@
 ---
 type: claim
-title: In elementary school students, short-term green breaks restore attention and working memory, with effects on inhibition mixed
-description: In elementary school students, short-term green breaks restore attention and working memory, with effects on inhibition mixed
+title: In elementary school students, short-term green breaks restore attention and working memory, but did not improve inhibition in the two studies that measured it
+description: In elementary school students, short-term green breaks restore attention and working memory, but did not improve inhibition in the two studies that measured it
 id: green-breaks-elementary-attention-restoration
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: mixed
 newest_evidence: 2022
+source_checked: 2026-11-05
 sources:
   - id: lucia-mason-2022
     resource: "https://doi.org/10.1007/s10648-021-09631-8"
@@ -36,11 +37,11 @@ sources:
     rigour: 3
 ---
 
-# In elementary school students, short-term green breaks restore attention and working memory, with effects on inhibition mixed
+# In elementary school students, short-term green breaks restore attention and working memory, but did not improve inhibition in the two studies that measured it
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r3` · `q3` · `i2` medium
-> **Currency** · newest study 2022 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Berto et al. (2015), fourth and fifth graders showed higher CPT accuracy after a 90-minute walk in an alpine wood than after mindful silence (g = 0.44) or playing in the school courtyard (g = 1.16). [→ Lucia Mason 2022](#lucia-mason-2022)

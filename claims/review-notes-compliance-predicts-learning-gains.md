@@ -9,6 +9,7 @@ generated:
   at: 2026-10-02
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-05
 sources:
   - id: lallé-2017
     resource: "https://educationaldatamining.org/EDM2017/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -38,7 +39,7 @@ Lallé, S., Mudrick, N., Conati, C., Taub, M., Azevedo, R. (2017). On the Influe
 
 `q3 · i3` · `associational · r1`
 
-Same multiple linear regression over explicit compliance rates in the 28-student MetaTutor user study. The review notes prompt showed a significant main effect, "F1,20 = 7.43, p=.013, ηp2 =.16", an effect size in the paper's medium-to-large range (ηp2 ≥ 0.13).
+Same multiple linear regression over explicit compliance rates in the 28-student MetaTutor user study. The review notes prompt showed a significant main effect, "F1,20 = 7.43, p=.013, ηp2 =.16", an effect size the paper's own thresholds class as medium (medium for ηp2 ≥ 0.13, large for ηp2 ≥ 0.26).
 
 > "Review notes (F1,20 = 7.43, p=.013, ηp2 =.16), shown Fig. 2b."
 

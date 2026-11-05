@@ -9,13 +9,14 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-05
 sources:
   - id: lepore-2014
     resource: "http://www.voicethread.com"
     title: "Lepore, C. E. (2014). Influencing Students' Pronunciation and Willingness to Communicate through Interpersonal Audio Discussions. Dimension 2014. http://www.voicethread.com"
     author: Lepore, C. E.
     q: 2
-    i: 1
+    i: "?"
     kind: design
     rigour: 2
 ---
@@ -23,8 +24,8 @@ sources:
 # Interpersonal audio discussions with feedback and self-assessment elicit a statistically significant increase in introductory L2 learners' perceived pronunciation ability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · design `r2` · `q2` · `i1` small
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -36,9 +37,9 @@ sources:
 
 Lepore, C. E. (2014). Influencing Students' Pronunciation and Willingness to Communicate through Interpersonal Audio Discussions. Dimension 2014. http://www.voicethread.com
 
-`q2 · i1` · `design · r2`
+`q2 · i?` · `design · r2`
 
-Wilcoxon signed-rank test on self-assessment forms from 36 consenting students in three sections of second-semester French, comparing Part 1 peer-comparison ratings after VT1 and VT3. The article reports "a statistically significant change in perceived ability" and a mean score improvement from 4.00 after VT1 to 4.58 after VT3.
+Wilcoxon signed-rank test on self-assessment forms from 36 of the 37 consenting students (one did not complete the first form and was excluded from all self-assessment analyses) in three sections of second-semester French, comparing Part 1 peer-comparison ratings after VT1 and VT3. The article reports "a statistically significant change in perceived ability" and a mean score improvement from 4.00 after VT1 to 4.58 after VT3.
 
 > "The test revealed that between the first and final VT activity, the audio discussion activities elicited a statistically significant change in perceived ability in regards to pronunciation skills (Z = -2.321, p < .05)."
 

@@ -45,6 +45,6 @@ Structured lesson observations in intervention schools assessed dosage relative 
 
 
 ## Related Claims
-- [Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
+- [Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
 - [Implementation of the FLL intervention varied widely, with some schools delivering fewer weeks and some omitting the linked English literacy component](fll-variable-implementation-english-component-omitted.md) — related
 - [Implementation of the LRS was variable, with many teachers not meeting weekly usage targets](lrs-variable-implementation.md) — related

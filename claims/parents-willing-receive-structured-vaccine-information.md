@@ -48,7 +48,7 @@ Descriptive pre-intervention finding from the 50-parent NICU sample. The study r
 ## Related Claims
 - [Baseline vaccine perceptions show low confidence and side-effect concerns among NICU parents](baseline-low-confidence-side-effect-concerns.md) — related
 - [Self-rated scores for Vaccine Opposition, Strategies to Avoid Vaccination, and Legitimation of Hesitancy decreased from pre-test to post-test in one group after NETM.](netm-decreases-opposition-avoidance-legitimation.md) — related
-- [NETM intervention reduces vaccine hesitancy among NICU parents across all VOS subscales](netm-reduces-vaccine-hesitancy-nicu-parents.md) — related
+- [NICU parents' self-rated vaccine attitudes improved on all four Vaccine Opposition Scale subscales after NETM, in one uncontrolled pre-post study](netm-reduces-vaccine-hesitancy-nicu-parents.md) — related
 - [Self-rated belief in vaccine benefit scores rose from pre-test to post-test after NETM, in one uncontrolled pre-post study](netm-increases-belief-vaccine-benefit.md) — related
 - [Internet is the primary source of vaccine information for most NICU parents](internet-primary-vaccine-information-source-nicu-parents.md) — related
 - [Internet access and trust in information are the main barriers to caregiver self-directed learning via mobile health](internet-access-and-trust-barriers-caregiver-self-directed-learning.md) — related

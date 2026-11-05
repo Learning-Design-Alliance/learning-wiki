@@ -37,7 +37,7 @@ grain_size: unit
 # 4C/ID (Four-Component Instructional Design)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 28 claims (14 for, 13 mixed, 1 against) · 29 studies (12 causal, 6 theoretical, 4 review, 3 design, 2 qualitative, 1 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 29 report an effect size · 25 claims rest on one study
+> **Evidence** · 28 claims (14 for, 13 mixed, 1 against) · 29 studies (12 causal, 6 theoretical, 4 review, 3 design, 2 qualitative, 1 quant-synthesis, 1 associational), `q1`–`q4` · 4 of 29 report an effect size · 25 claims rest on one study
 
 ## Description and scope
 
@@ -134,7 +134,7 @@ This pattern is scoped to complex skills where whole-task transfer is the object
 - [Ramp task levels are ordered by difficulty: performance declines as the number of variables to set increases](../claims/cvs-level-difficulty-ordering.md) [+W]
 - [Students in simulator training encounter a progression from simplified low-fidelity tasks to more complex higher-fidelity tasks as a deliberate instructional logic.](../claims/simulator-task-progression-low-to-high-fidelity.md) [+W]
 - [Students mostly start at the lowest complexity level and move to higher levels, but many still choose level 1 tasks in the second half of learning](../claims/lowest-level-first-then-increasing-complexity.md) [~W]
-- [Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload](../claims/drawing-support-increased-perceived-difficulty.md) [~W]
+- [Drawing support increased rather than decreased perceived difficulty, which the authors read as a hint of cognitive overload](../claims/drawing-support-increased-perceived-difficulty.md) [~W]
 - [As material scaffolds faded, Mrs. Lewis's students' performance returned to initial levels between High and Low support, while Mr. Green's students declined significantly across the unit](../claims/within-teacher-performance-trajectories-as-scaffolds-faded.md) [~W]
 - [Delayed post-learning assessments of ICL, ECL, and GCL do not differ between increasing and decreasing complexity sequences](../claims/delayed-assessments-invariant-to-sequence.md) [~W]
 - [ICL ratings track the manipulated complexity sequence: increasing across units in the increasing condition and decreasing in the decreasing condition](../claims/icl-ratings-track-complexity-sequence.md) [~W]

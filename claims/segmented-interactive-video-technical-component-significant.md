@@ -9,11 +9,12 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: hamzah-nurul-rimadhayanti-2026
     resource: "https://doi.org/10.1007/s10459-025-10471-2"
-    title: "Hamzah Nurul Rimadhayanti, Mohd Fadzil Abdul Hanid & Mohamad Ikram Zakaria (2026). The effect of segmented-interactive video demonstration on student performance in procedural skills among healthcare students. Advances in Health Sciences Education. https://doi.org/10.1007/s10459-025-10471-2"
-    author: "Hamzah Nurul Rimadhayanti, Mohd Fadzil Abdul Hanid & Mohamad Ikram Zakaria"
+    title: "Hamzah, N. R., Hanid, M. F. A., & Zakaria, M. I. (2026). The effect of segmented-interactive video demonstration on student performance in procedural skills among healthcare students. Advances in Health Sciences Education. https://doi.org/10.1007/s10459-025-10471-2"
+    author: "Hamzah, N. R., Hanid, M. F. A., & Zakaria, M. I."
     q: 2
     i: "?"
     kind: causal
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Mann-Whitney U test showed significant differences in technical components between the control and treatment groups (U = 1508.500, Z = −2.499, p = 0.012). [→ Hamzah Nurul Rimadhayanti 2026](#hamzah-nurul-rimadhayanti-2026)
@@ -33,7 +34,7 @@ sources:
 
 ### Hamzah Nurul Rimadhayanti 2026
 
-Hamzah Nurul Rimadhayanti, Mohd Fadzil Abdul Hanid & Mohamad Ikram Zakaria (2026). The effect of segmented-interactive video demonstration on student performance in procedural skills among healthcare students. Advances in Health Sciences Education. https://doi.org/10.1007/s10459-025-10471-2
+Hamzah, N. R., Hanid, M. F. A., & Zakaria, M. I. (2026). The effect of segmented-interactive video demonstration on student performance in procedural skills among healthcare students. Advances in Health Sciences Education. https://doi.org/10.1007/s10459-025-10471-2
 
 `q2 · i?` · `causal · r1`
 

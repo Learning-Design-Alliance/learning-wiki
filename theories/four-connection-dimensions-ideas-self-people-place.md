@@ -37,7 +37,7 @@ The framework organizes connection into four essential dimensions: connection to
 ### Claims
 
 - [Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory](../claims/curiosity-knowledge-gap-balance-engagement-memory.md) [+W]
-- [Purpose in learning increases engagement, self-regulation, and academic performance](../claims/purpose-increases-engagement-self-regulation-performance.md) [+W]
+- [A framework report argues that finding purpose in learning increases engagement, self-regulation, and academic performance](../claims/purpose-increases-engagement-self-regulation-performance.md) [+W]
 - [Learners face compounding systemic challenges: widening gaps, isolation, and shifting skill demands](../claims/systemic-challenges-gaps-isolation-shifting-skills.md) [+W]
 
 ## Related Theories

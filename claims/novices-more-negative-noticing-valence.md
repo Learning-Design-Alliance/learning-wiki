@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-05
 sources:
   - id: keller-2022
     resource: "https://doi.org/10.1007/s11251-021-09570-5"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Novice teachers noticed more negative (43.6%) than positive (26.1%) classroom events, while expert teachers noticed more positive (47%) than negative (18.8%) events. [→ Keller 2022](#keller-2022)
+`q3 i?` Novice teachers noticed more negative (43.6%) than positive (30.4% in Table 4) classroom events, while expert teachers noticed more positive (47%) than negative (18.8%) events. [→ Keller 2022](#keller-2022)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Keller, L., Cortina, K. S., Müller, K., & Miller, K. F. (2022). Noticing and we
 
 `q3 · i?` · `associational · r1`
 
-Loglinear analysis of 645 coded noticing clauses from 37 teachers showed a significant Noticing × Expertise association (χ2 = 46.6, df = 2, p < .001 in the crosstabulation). "Novice teachers noticed more negative classroom events (43.6%) than positive class- room events (26.1%)"; experts showed the reverse pattern. No standardized effect size was printed.
+Loglinear modelling of 645 coded noticing clauses from 37 teachers retained a Noticing × Expertise effect after controlling for subject, grade level, minority status and gender (χ²-difference = 55.7, df = 4, p < .001; Table 3). The Noticing × Expertise crosstabulation (Table 4) gives χ² = 46.6, df = 2, p < .001: novices' clauses were 43.6% negative and 30.4% positive, experts' 18.8% negative and 47.0% positive. The results text gives the novice positive share as 26.1%, which is the novice neutral share in Table 4. No standardized effect size was printed.
 
 > "Novice teachers noticed more negative classroom events (43.6%) than positive class- room events (26.1%), whereas the opposite was true for expert teachers with 18.8% nega- tive and 47% positive commentary (Table 4)."
 

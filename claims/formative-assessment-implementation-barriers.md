@@ -9,6 +9,7 @@ generated:
   at: 2026-10-07
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-05
 sources:
   - id: marks-2021
     resource: "https://doi.org/10.29333/iejme/11198"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using assessment information to adjust subsequent learning to meet student needs is extremely difficult, and summative-assessment focus and failed early attempts further hinder formative assessment implementation. [→ Marks 2021](#marks-2021)
@@ -37,7 +38,7 @@ Marks, A., Woolcott, G., & Markopoulos, C. (2021). Differentiating Instruction: 
 
 `q2 · i?` · `review · r2`
 
-Narrative review of implementation barriers: the article reports, citing Vingsle (2014), that formative assessment is "a complex, demanding and challenging process" and that adjusting subsequent learning from assessment information is extremely difficult. No effect size is printed.
+Conceptual, framework-development article on differentiated instruction in secondary mathematics, which explores theory and practice (including formative assessment) and proposes a prototype practice framework. In its discussion of formative assessment it reports, citing Vingsle (2014), that formative assessment is "a complex, demanding and challenging process" and that adjusting subsequent learning from assessment information is extremely difficult. No effect size is printed.
 
 > "Firstly, formative assessment is a complex, demanding and challenging process, and using assessment information to adjust subsequent learning to meet student needs is extremely difficult (Vingsle, 2014)."
 

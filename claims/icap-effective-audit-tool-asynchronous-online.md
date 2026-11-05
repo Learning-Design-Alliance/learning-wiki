@@ -9,12 +9,13 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-05
 recheck_by: 2028
 sources:
   - id: pollard-2025
     resource: "https://doi.org/10.24059/olj.v29i3.4555"
-    title: "Pollard, V., Armatas, C., & Pepe, A. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-253. https://doi.org/10.24059/olj.v29i3.4555"
-    author: "Pollard, V., Armatas, C., & Pepe, A."
+    title: "Pollard, V., & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555"
+    author: "Pollard, V., & Armatas, C."
     q: 2
     i: "?"
     kind: design
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The authors found the ICAP Framework very effective as a codified, objective way of assessing the level of active learning required by activities in the audited asynchronous online course. [→ Pollard 2025](#pollard-2025)
@@ -34,7 +35,7 @@ sources:
 
 ### Pollard 2025
 
-Pollard, V., Armatas, C., & Pepe, A. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-253. https://doi.org/10.24059/olj.v29i3.4555
+Pollard, V., & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-254. https://doi.org/10.24059/olj.v29i3.4555
 
 `q2 · i?` · `design · r2`
 

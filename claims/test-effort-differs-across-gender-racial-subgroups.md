@@ -8,12 +8,13 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
-newest_evidence: 2019
+newest_evidence: 2018
+source_checked: 2026-11-05
 sources:
-  - id: james-soland-2019
+  - id: soland-2018
     resource: "https://doi.org/10.1177/016146811812001202"
-    title: "James Soland. (2019). Are achievement gap estimates biased by differential student test effort? NWEA Research. https://www.nwea.org/research/publication/are-achievement-gap-estimates-biased-by-differential-student-test-effort/ [doi:10.1177/016146811812001202](https://doi.org/10.1177/016146811812001202)"
-    author: James Soland
+    title: "Soland, J. (2018). Are achievement gap estimates biased by differential student test effort? Putting an important policy metric to the test. *Teachers College Record, 120*(12), 1–26. [doi:10.1177/016146811812001202](https://doi.org/10.1177/016146811812001202) (summarised by NWEA as a research brief: https://www.nwea.org/research/publication/are-achievement-gap-estimates-biased-by-differential-student-test-effort/)"
+    author: Soland, J.
     q: 2
     i: "?"
     kind: associational
@@ -24,22 +25,22 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Test effort differs substantially across student gender and racial subgroups. [→ James Soland 2019](#james-soland-2019)
+`q2 i?` Test effort differs substantially across student gender and racial subgroups. [→ Soland 2018](#soland-2018)
 
 ## Evidence
 
-### James Soland 2019
+### Soland 2018
 
-James Soland. (2019). Are achievement gap estimates biased by differential student test effort? NWEA Research. https://www.nwea.org/research/publication/are-achievement-gap-estimates-biased-by-differential-student-test-effort/ [doi:10.1177/016146811812001202](https://doi.org/10.1177/016146811812001202)
+Soland, J. (2018). Are achievement gap estimates biased by differential student test effort? Putting an important policy metric to the test. *Teachers College Record, 120*(12), 1–26. [doi:10.1177/016146811812001202](https://doi.org/10.1177/016146811812001202) (summarised by NWEA as a research brief: https://www.nwea.org/research/publication/are-achievement-gap-estimates-biased-by-differential-student-test-effort/)
 
 `q2 · i?` · `associational · r?`
 
-The brief's own summary of its research finding states that "test effort differs substantially across student gender and racial subgroups." No effect sizes, sample details, or test statistics are printed in the supplied text, so the magnitude of the subgroup differences is not reported here.
+Compares rates of rapid guessing, a behavioural proxy for test effort (answering an item too fast to have understood it), across student subgroups, then estimates achievement gaps with and without conditioning on rapid guessing. The abstract reports that test effort "differs substantially by subgroup", with males rapidly guessing nearly twice as often as females in later grades and Black students more often than White students; these differences "generally do not impact substantive interpretations of achievement gaps". No effect sizes or sample details are printed in the abstract.
 
-> "New research shows that test effort differs substantially across student gender and racial subgroups."
+> "Test effort differs substantially by subgroup, with males rapidly guessing nearly twice as often as females in later grades, and Black students rapidly guessing more often than White students."
 
 ## Discussion
 

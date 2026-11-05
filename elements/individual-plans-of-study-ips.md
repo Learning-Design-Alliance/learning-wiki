@@ -43,7 +43,7 @@ Individual Plans of Study (IPS) are an instructional/guidance component describe
 - [IPS implemented with adult support and regular review may increase students’ academic engagement, agency, career-relevant knowledge and skills, and college/career drive](../claims/ips-with-adult-support-and-review-associated-outcomes.md) [+W]
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](../claims/students-want-curricular-relevance-and-life-skills.md) [+W]
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]
-- [Purpose in learning increases engagement, self-regulation, and academic performance](../claims/purpose-increases-engagement-self-regulation-performance.md) [+W]
+- [A framework report argues that finding purpose in learning increases engagement, self-regulation, and academic performance](../claims/purpose-increases-engagement-self-regulation-performance.md) [+W]
 
 ## Related Elements
 - 

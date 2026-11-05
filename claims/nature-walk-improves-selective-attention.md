@@ -53,5 +53,5 @@ The review reports two quasi-experiments: Johnson et al. found "a small positive
 - [In university students, walks or sitting in natural settings after cognitive fatigue improve some attention and working memory measures, with null results for others](green-exposure-university-cognitive-benefits.md) — related
 - [In secondary school students, breaks with green views or walks in larger green spaces improve attention performance](green-exposure-secondary-school-attention.md) — related
 - [School-garden playtime showed no significant effect on impulse control in primary school children](nature-play-no-effect-impulse-control.md) — related
-- [In elementary school students, short-term green breaks restore attention and working memory, with effects on inhibition mixed](green-breaks-elementary-attention-restoration.md) — related
+- [In elementary school students, short-term green breaks restore attention and working memory, but did not improve inhibition in the two studies that measured it](green-breaks-elementary-attention-restoration.md) — related
 - [Effects on sustained/selective attention are mixed across studies, with benefits in some green settings but no effect in others regardless of exposure duration](sustained-selective-attention-mixed-nature-effects.md) — related

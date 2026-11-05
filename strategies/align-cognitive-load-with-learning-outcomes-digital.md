@@ -44,7 +44,7 @@ The review proposes that designers weigh both positive and negative load effects
 
 - [Low to medium disfluency does not harm learning and sometimes descriptively improves it, though the effect is unstable](../claims/disfluency-low-levels-not-harm-learning.md) [+W]
 - [Redundant and decorative elements, including emotional design embellishments, can enhance learning despite constituting potential extraneous load](../claims/emotional-design-redundancy-enhance-learning.md) [+W]
-- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](../claims/immersion-cost-benefit-transfer-motivation.md) [+W]
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](../claims/immersion-cost-benefit-transfer-motivation.md) [+W]
 - [Moderate levels of interactivity tend to be most beneficial for learning, with benefits depending on task integration and assessment format](../claims/moderate-interactivity-benefits-learning.md) [+W]
 - [Motivational interventions can lower perceived cognitive load and improve retention and transfer, indicating load perception is partly independent of task difficulty](../claims/motivation-intervention-lowers-perceived-load.md) [+W]
 - [Realistic visual detail can raise retention despite higher extraneous load ratings (the realism paradox), with benefits tied to test objectives](../claims/realism-paradox-detail-retention-load.md) [+W]

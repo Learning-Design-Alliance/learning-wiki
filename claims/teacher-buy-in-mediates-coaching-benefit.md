@@ -9,6 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-11-05
 sources:
   - id: white-2015
     resource: "https://r2ed.unl.edu/resources_workingpapers.shtml"
@@ -24,11 +25,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
-`q2 i?` Teachers and coaches reported that teacher buy-in would strongly mediate the overall effect of coaching, and that resistant teachers show lower-quality outcomes. [→ White 2015](#white-2015)
+`q2 i?` Teachers in the focus groups felt that teacher buy-in would strongly mediate the overall effect of coaching, and coaches described the most successful teachers as those who fully "bought in"; the link between teacher resistance and lower-quality outcomes is cited from prior work (Borman & Feger, 2006), not measured in this study. [→ White 2015](#white-2015)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ White, A. S., Howell Smith, M., Kunz, G. M., & Nugent, G. C. (2015). Active ingr
 
 `q2 · i?` · `qualitative · r2`
 
-Requisite Teacher Characteristics section of the focus group study: teachers saw buy-in as affecting attitudes and the coaching relationship; coaches described the most successful teachers as those who "weren’t afraid to fail." The article also cites prior work connecting teacher resistance to lower-quality outcomes.
+Requisite Teacher Characteristics section of the focus group study: teachers saw buy-in as affecting attitudes and the coaching relationship; coaches described the most successful teachers as those who "weren’t afraid to fail." The article also cites prior work (Borman & Feger, 2006) connecting teacher resistance to lower-quality outcomes; the study itself did not compare outcomes of reluctant and willing teachers.
 
 > "Teachers felt that teacher “buy in” would be a strong mediator of the overall effect of the coaching, since it affects every part of the study, from teacher attitudes to the coaching relationship."
 

@@ -47,7 +47,7 @@ Randomised study of 31 medical and biomedical students comparing an AR app (Grey
 ## Related Claims
 - [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](clt-aligned-e-learning-modules-improve-osce-performance.md) — a broader claim this one bears on
 - [Under high extraneous load (hint presentation and L and rL condition), no test-score increases were observed on identical or near-transfer problems](extraneous-load-eliminates-germane-load-learning-gains.md) — a broader claim this one bears on
-- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](immersion-cost-benefit-transfer-motivation.md) — related
 - [Learner motivation and engagement (Kirkpatrick Level 1) were consistently high across technology-enhanced neuroanatomy interventions](tl-neuroanatomy-high-motivation-l1.md) — reports the opposite
 - [VR module matched a textbook on anatomy knowledge at pre-, post- and retention testing while being rated more engaging and motivating (Stepan et al.)](stepan-vr-equal-knowledge-higher-motivation.md) — related
 - [Improvements in objective knowledge outcomes (Kirkpatrick Level 2) from technology-enhanced learning were inconsistent across neuroanatomy interventions](tl-neuroanatomy-l2-knowledge-inconsistent.md) — a broader claim this one bears on

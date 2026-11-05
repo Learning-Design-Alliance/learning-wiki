@@ -40,7 +40,7 @@ The evaluation recommends that schools implementing targeted, TA-delivered inter
 ## Claims
 
 - [Many teaching assistants did not feel confident delivering the intervention after the initial five days of training without ongoing support, and the language comprehension component was hardest to deliver.](../claims/reach-ta-confidence-and-comprehension-delivery-difficulty.md) [~W]
-- [Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence](../claims/catch-up-numeracy-fidelity-timetabling-barriers.md) [~W]
+- [Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers](../claims/catch-up-numeracy-fidelity-timetabling-barriers.md) [~W]
 - [Implementation fidelity of Switch-on was compromised in some schools, with modifications to prescribed content, duration and format of sessions](../claims/switch-on-fidelity-compromised-scale-up.md) [~W]
 - [Switch-on Reading and Switch-on Reading and Writing produced no additional reading progress compared with business-as-usual control schools in a three-arm school-randomised effectiveness trial](../claims/switch-on-no-reading-effect-effectiveness-trial.md) [-M]
 - [Switch-on showed no effect on reading outcomes for pupils eligible for free school meals](../claims/switch-on-no-effect-fsm-pupils.md) [-M]

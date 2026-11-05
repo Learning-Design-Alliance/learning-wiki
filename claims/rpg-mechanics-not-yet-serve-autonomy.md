@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy"
-description: "Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy"
+title: "Perceived choice and enjoying catching Mangomon were the lowest-rated motivation items, which the authors read as its RPG mechanics not yet fully serving learner autonomy"
+description: "Perceived choice and enjoying catching Mangomon were the lowest-rated motivation items, which the authors read as its RPG mechanics not yet fully serving learner autonomy"
 id: rpg-mechanics-not-yet-serve-autonomy
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: tangkiengsirisin-2026
     resource: "https://doi.org/10.70730/UFRC4620"
@@ -20,15 +21,15 @@ sources:
     rigour: 1
 ---
 
-# Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy
+# Perceived choice and enjoying catching Mangomon were the lowest-rated motivation items, which the authors read as its RPG mechanics not yet fully serving learner autonomy
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Tangkiengsirisin 2026: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
-`q1 i?` Participants' lowest ratings fell in interest/enjoyment and perceived choice, and the authors interpret this as the RPG design not yet fully meeting the autonomy need of self-determination theory. [→ Tangkiengsirisin 2026](#tangkiengsirisin-2026)
+`q1 i?` Perceived choice was the lowest-rated IMI subscale (M = 3.52; interest/enjoyment M = 3.66 sat just above pressure/tension M = 3.64), and the two lowest-rated items were enjoying catching Mangomon and playing it by choice (both M = 3.52); the authors interpret this as the RPG design not yet fully meeting the autonomy need of self-determination theory. [→ Tangkiengsirisin 2026](#tangkiengsirisin-2026)
 
 ## Evidence
 

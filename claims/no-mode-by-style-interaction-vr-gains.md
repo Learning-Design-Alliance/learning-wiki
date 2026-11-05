@@ -9,6 +9,7 @@ generated:
   at: 2026-10-07
 evidence_strength: moderate
 newest_evidence: 2005
+source_checked: 2026-11-05
 sources:
   - id: chwen-jen-chen-2005
     resource: "https://doi.org/10.1080/15391523.2005.10782453"
@@ -24,11 +25,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2005 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Chwen Jen Chen 2005: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
-`q3 i?` The learning mode × learning style interaction was not significant (F(2, 177) = 1.762, p < 0.175), so the effect of learning mode did not depend on learning style. [→ Chwen Jen Chen 2005](#chwen-jen-chen-2005)
+`q3 i?` The learning mode × learning style interaction was not significant (F(2, 177) = 1.762, p < 0.175, η2 = 0.020), so the effect of learning mode did not depend on learning style. [→ Chwen Jen Chen 2005](#chwen-jen-chen-2005)
 `q3 i2` The learning-mode main effect was significant with η2 = 0.199, while the learning-style main effect was not significant (F(1, 177) = 0.154, p < 0.695). [→ Chwen Jen Chen 2005](#chwen-jen-chen-2005)
 
 ## Evidence
@@ -39,7 +40,7 @@ Chwen Jen Chen, Seong Chong Toh, & Wan Mohd Fauzy Wan Ismail. (2005). Are Learni
 
 `q3 · i?` · `causal · r2`
 
-A 3 by 2 two-way ANCOVA of gain score by learning mode and learning style with pre-test as covariate, on all 184 learners. Table 7 reports the learning-mode main effect η2 = 0.199 (Sig. 0.000) and the learning-style main effect η2 = 0.001 (Sig. 0.695); no effect size is printed for the interaction.
+A 3 by 2 two-way ANCOVA of gain score by learning mode and learning style with pre-test as covariate, on all 184 learners. Table 7 reports the learning-mode main effect η2 = 0.199 (Sig. 0.000) and the learning-style main effect η2 = 0.001 (Sig. 0.695); for the learning mode × learning style interaction it reports η2 = 0.020 (Sig. 0.175).
 
 > "The two-way ANCOVA results, as shown in Table 7 (page 136), indicated that the interaction between learning modes and learning styles was not signiﬁcant, F(2, 177)=1.762, p < 0.175."
 

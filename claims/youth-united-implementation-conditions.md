@@ -66,7 +66,7 @@ The process evaluation identified factors preventing delivery as planned, includ
 
 ## Related Claims
 - [SMART Spaces was feasibly delivered in English schools, with teachers reporting faithful delivery and positive engagement](smart-spaces-feasible-delivery-english-schools.md) — reports the opposite
-- [Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
+- [Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
 - [Four implementation themes emerged from UK process evaluations: intervention format, policy consistency, staff buy-in, and perceived effectiveness](four-implementation-themes-exclusion-interventions.md) — related
 - [Staff views of the interventions were more positive in schools with experienced TAs, senior staff support, and a dedicated delivery space.](reach-staff-views-favourable-implementation-conditions.md) — related
